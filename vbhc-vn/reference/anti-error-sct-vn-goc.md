@@ -1,4 +1,4 @@
-> [LƯU TRỮ] Đây là BẢN GỐC của skill anti-error-sct-vn trước khi hợp nhất vào vbhc-vn (ngày 20/6/2026). Nội dung đã được tích hợp vào mục "Phòng tránh 5 nhóm sai lầm tham mưu" của vbhc-vn. Script kiểm tra nay ở /mnt/skills/user/vbhc-vn/scripts/check_document.py. File này chỉ để tra cứu lịch sử.
+> [LƯU TRỮ] Đây là BẢN GỐC của skill anti-error-sct-vn trước khi hợp nhất vào vbhc-vn (ngày 20/6/2026). Nội dung đã được tích hợp vào mục "Phòng tránh 5 nhóm sai lầm tham mưu" của vbhc-vn. Script kiểm tra nay ở <thư mục skill vbhc-vn>/scripts/check_document.py. File này chỉ để tra cứu lịch sử.
 
 ---
 name: anti-error-sct-vn

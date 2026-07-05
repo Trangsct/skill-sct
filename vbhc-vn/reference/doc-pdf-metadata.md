@@ -4,7 +4,7 @@
 > Khi nhận file PDF có dấu hiệu là văn bản nhà nước Việt Nam (tên file, dòng đầu context, hoặc bối cảnh hội thoại), **DỪNG mọi thao tác khác** và chạy ngay:
 >
 > ```bash
-> python3 /mnt/skills/user/vbhc-vn/scripts/extract_metadata.py "<đường dẫn file>"
+> python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py" "<đường dẫn file>" # nếu cài dạng user skill thì thay bằng /mnt/skills/user/vbhc-vn/scripts/
 > ```
 >
 > Quy tắc cứng, không ngoại lệ. KHÔNG tin số/ngày đọc từ context window; KHÔNG bỏ qua vì "context có vẻ đủ"; KHÔNG soạn văn bản trả lời/triển khai trước khi xác minh số/ngày bằng script. Việc bỏ qua đã gây ≥2 vụ dẫn chiếu sai (CV 3861/UBND-NC; CV 3954/UBND-VX) và **trong phiên gần đây cũng lặp lại** (context hiển thị "Số: /SYT-NVY" trống, file thật là 2861/SYT-NVY ngày 19/6/2026). Chi phí chạy: ~2 giây.
@@ -25,7 +25,7 @@ VBHC Việt Nam (NĐ 30/2020, NĐ 78/2025, NĐ 187/2025) có **layout 2 cột** 
 **Bước 2 — OCR (nếu output phần lớn null)**: file có thể là scan ảnh thuần.
 ```bash
 ocrmypdf --language vie+eng --force-ocr <input>.pdf /tmp/ocr_output.pdf
-python3 /mnt/skills/user/vbhc-vn/scripts/extract_metadata.py /tmp/ocr_output.pdf
+python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py" /tmp/ocr_output.pdf # nếu cài dạng user skill thì thay bằng /mnt/skills/user/vbhc-vn/scripts/
 ```
 Script đã tự fallback OCR khi `pdftotext` trả về <100 ký tự.
 

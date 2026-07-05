@@ -67,13 +67,29 @@ class TemplateDoc:
         import re as _re
         return _re.sub(r'[ \t]*[\r\n]+[ \t]*', ' ', text)
 
+    @staticmethod
+    def _dominant_run(text_runs):
+        """
+        Chọn run mang ĐỊNH DẠNG CHỦ ĐẠO của paragraph = text-run có text
+        dài nhất (hòa thì lấy run đứng trước).
+
+        Vì sao (bài học SZ13 05/7/2026): dòng ngày ở header thường bị Word
+        tách thành nhiều run — run đầu rỗng/ngắn KHÔNG có w:sz tường minh,
+        run dài phía sau mới mang w:sz=26 (13pt) + w:i (nghiêng). Nếu gán
+        text mới vào run[0] rồi xóa run sau thì mất 13pt tường minh →
+        qa_pdf_check báo [FAIL SZ13]. Gán vào run chủ đạo giữ được định dạng
+        thật; các run khác xóa trắng nên thứ tự hiển thị không đổi.
+        """
+        return max(text_runs, key=lambda r: len(r.text))
+
     @classmethod
     def _replace_text_in_paragraph(cls, paragraph, pattern, replacement):
         """
         Sửa text trong paragraph, GIỮ NGUYÊN các run chứa shape (drawing).
         - Ghép text từ các text-run (bỏ qua shape-run)
         - Replace pattern → text mới
-        - Gán new_text vào text-run đầu tiên
+        - Gán new_text vào text-run CHỦ ĐẠO (text dài nhất — giữ đúng
+          định dạng tường minh w:sz/w:i, xem _dominant_run)
         - Xóa text các text-run còn lại (KHÔNG động vào shape-run)
         """
         text_runs = cls._get_text_runs(paragraph)
@@ -83,22 +99,26 @@ class TemplateDoc:
         if pattern not in full_text:
             return False
         new_text = cls._norm_inline(full_text.replace(pattern, replacement))
-        text_runs[0].text = new_text
-        for run in text_runs[1:]:
-            run.text = ''
+        target = cls._dominant_run(text_runs)
+        for run in text_runs:
+            run.text = new_text if run is target else ''
         return True
 
     @classmethod
     def _set_paragraph_text(cls, paragraph, new_text):
-        """Đặt nội dung paragraph thành new_text, GIỮ NGUYÊN shape-runs."""
+        """
+        Đặt nội dung paragraph thành new_text, GIỮ NGUYÊN shape-runs.
+        Gán vào run CHỦ ĐẠO (text dài nhất) để giữ định dạng tường minh
+        (w:sz/w:i) — xem _dominant_run.
+        """
         new_text = cls._norm_inline(new_text)
         text_runs = cls._get_text_runs(paragraph)
         if not text_runs:
             paragraph.add_run(new_text)
             return
-        text_runs[0].text = new_text
-        for run in text_runs[1:]:
-            run.text = ''
+        target = cls._dominant_run(text_runs)
+        for run in text_runs:
+            run.text = new_text if run is target else ''
 
     # ============================================================
     # API SỬA NỘI DUNG

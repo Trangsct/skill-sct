@@ -69,16 +69,38 @@ EXPIRED_LAWS = {
     r"Nghị định\s+(?:số\s+)?15/2021/NĐ-CP": "Đã hết hiệu lực, cần kiểm tra văn bản thay thế",
     # Quy chuẩn cũ
     r"QCVN\s+40:2011/BTNMT": "Đã thay bằng QCVN 40:2025/BTNMT (TT 06/2025/TT-BTNMT)",
+    # ===== Bổ sung 05/7/2026 (rà soát các phiên làm việc cuối 6 - đầu 7/2026) =====
+    # Xây dựng (khung mới hiệu lực 01/7/2026 và 01/01/2026)
+    r"Luật Xây dựng\s+(?:số\s+)?50/2014/QH13": "Đã thay bằng Luật Xây dựng 135/2025/QH15",
+    r"Nghị định\s+(?:số\s+)?06/2021/NĐ-CP": "Đã thay bằng NĐ 207/2026/NĐ-CP (quản lý chất lượng, thi công, bảo trì)",
+    r"Nghị định\s+(?:số\s+)?175/2024/NĐ-CP": "Đã thay bằng NĐ 217/2026/NĐ-CP (quản lý hoạt động xây dựng)",
+    r"Thông tư\s+(?:số\s+)?06/2021/TT-BXD": "Đã thay bằng TT 34/2026/TT-BXD (phân cấp công trình)",
+    # VLNCN
+    r"Nghị định\s+(?:số\s+)?71/2018/NĐ-CP": "Đã thay bằng NĐ 181/2024/NĐ-CP (VLNCN, tiền chất thuốc nổ)",
+    # HHNH — phân cấp thẩm quyền
+    r"Điều\s+3\s+Thông tư\s+(?:số\s+)?15/2026/TT-BCT": "Đã bị bãi bỏ bởi Điều 26 TT 26/2026/TT-BCT — dẫn Điều 25 TT 26/2026",
+    # Hóa chất (khung mới hiệu lực 01/01/2026)
+    r"Nghị định\s+(?:số\s+)?113/2017/NĐ-CP": "Đã thay bằng NĐ 24-26/2026/NĐ-CP (khung Luật Hóa chất 69/2025)",
+    r"Nghị định\s+(?:số\s+)?82/2022/NĐ-CP": "Đã thay bằng NĐ 24-26/2026/NĐ-CP (khung Luật Hóa chất 69/2025)",
+    r"Thông tư\s+(?:số\s+)?32/2017/TT-BCT": "Đã thay bằng TT 01+02/2026/TT-BCT",
+    # Thanh tra/kiểm tra
+    r"thanh tra chuyên ngành": "Từ Luật Thanh tra 84/2025 các sở KHÔNG còn thanh tra — dùng 'kiểm tra chuyên ngành' theo NĐ 217/2025",
 }
 
 # Nhóm A — Pattern số văn bản đáng nghi
 SUSPICIOUS_NUMBER_PATTERNS = [
-    # Số văn bản để trống
-    (r"Số\s*:\s*\/[A-ZĐ]", "Số văn bản còn để trống — chưa được điền"),
-    (r"ngày\s+\/\s*\/\d{4}", "Ngày văn bản còn để trống"),
-    (r"ngày\s+tháng\s+\d+\s+năm\s+\d{4}", "Ngày trong tháng còn để trống"),
     # Số văn bản rất lớn (có thể là bịa)
     (r"\bsố\s+(\d{5,})\s*\/", "Số văn bản có 5+ chữ số — đáng nghi, cần xác minh"),
+]
+
+# Các trạng thái "để trống" HỢP LỆ theo quy ước đã chốt (SKILL.md — mục "Rà soát/review"
+# và Nhóm G): số văn bản do văn thư cấp khi phát hành; dòng ngày điền sẵn tháng/năm,
+# để trống ngày cho văn thư điền khi ký. CHỈ ghi nhận thông tin, KHÔNG tính cảnh báo
+# chặn trình ký. (Sửa 05/7/2026 — trước đây xếp nhầm vào Nhóm A gây false positive.)
+INFO_BLANK_PATTERNS = [
+    (r"Số\s*:\s*\/[A-ZĐ]", "Số văn bản để trống (đúng quy trình — văn thư cấp khi phát hành)"),
+    (r"ngày\s+\/\s*\/\d{4}", "Ngày văn bản để trống (đúng quy trình — điền khi ký)"),
+    (r"ngày\s+tháng\s+\d+\s+năm\s+\d{4}", "Ngày trong tháng để trống, tháng/năm đã điền sẵn (đúng chuẩn Nhóm G)"),
 ]
 
 
@@ -221,6 +243,17 @@ def find_suspicious_numbers(text: str) -> list[tuple[int, str, str]]:
     return warnings
 
 
+def find_info_blanks(text: str) -> list[tuple[int, str]]:
+    """Ghi nhận các trạng thái 'để trống' HỢP LỆ (chỉ thông tin, không cảnh báo)."""
+    infos = []
+    lines = text.splitlines()
+    for i, line in enumerate(lines, 1):
+        for pat, reason in INFO_BLANK_PATTERNS:
+            if re.search(pat, line, re.IGNORECASE):
+                infos.append((i, reason))
+    return infos
+
+
 def find_unverified_claims(text: str) -> list[tuple[int, str]]:
     """
     Tìm các đoạn có dấu hiệu chưa xác minh nhưng không có ghi chú xác minh.
@@ -272,6 +305,14 @@ def main():
     print(f"Tổng số dòng: {line_count}\n")
 
     has_critical = False
+
+    # [INFO] — Trạng thái để trống hợp lệ (không tính cảnh báo)
+    infos = find_info_blanks(text)
+    if infos:
+        print(f"[INFO] Trạng thái để trống hợp lệ ({len(infos)} mục — không tính cảnh báo):")
+        for ln, reason in infos[:10]:
+            print(f"   Dòng {ln}: {reason}")
+        print()
 
     # Nhóm A — Số văn bản đáng nghi
     sus = find_suspicious_numbers(text)

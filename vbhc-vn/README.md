@@ -1,4 +1,6 @@
-# vbhc-vn v6 — Bộ template + quy trình thực chiến, Sở Công Thương Lào Cai
+# vbhc-vn v2.0.0 (plugin) — Bộ template + quy trình thực chiến, Sở Công Thương Lào Cai
+
+> **v2.0.0 (05/7/2026)**: chuyển chuẩn PLUGIN (.claude-plugin/plugin.json); thêm 4 Quy tắc bất biến 11-14 (an toàn shape Line, 13pt dòng Số/Ngày, chống widow word, khối ký không gãy trang); Nhóm anti-error H; script mới `scripts/qa_pdf_check.py`; sửa false positive check_document; bổ sung 10 VBQPPL hết hiệu lực mới; chuẩn hóa Quốc hiệu/tiêu ngữ + chèn Line template 07. Chi tiết: CHANGELOG.md.
 
 **Cập nhật quan trọng**: phiên bản này KHÔNG sinh văn bản từ đầu bằng code (cách cũ không tái tạo được khung, gạch chân, layout chữ ký). Skill hoạt động theo **2 chế độ**: (A) tạo mới từ 08 mẫu trắng (Sở + nội bộ phòng) bằng `TemplateDoc`; (B) **sửa file .docx người dùng tải lên** bằng workflow unpack→sửa XML→pack, giữ NGUYÊN 100% định dạng gốc. Chế độ B (rà soát/chỉnh sửa file có sẵn) là loại việc thường gặp nhất.
 

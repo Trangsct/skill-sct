@@ -48,11 +48,9 @@ def main():
         {'text': '- Đã tổ chức 02 cuộc họp Hội đồng thẩm định vào ngày 08/5/2026 và 12/5/2026 để xem xét hồ sơ.'},
         {'text': '- Đã lấy ý kiến tham gia của các sở, ngành liên quan, dự kiến nhận đầy đủ ý kiến trước ngày 20/5/2026.'},
         {'text': '2. Khó khăn, vướng mắc', 'bold': True},
-        {'text': '- Một số nội dung trong hồ sơ về phương án bảo vệ môi trường cần bổ sung làm rõ.'},
         {'text': '- Chủ đầu tư cần cập nhật phương án giải phóng mặt bằng theo địa giới hành chính mới sau hợp nhất tỉnh.'},
         {'text': '3. Kế hoạch tiếp theo', 'bold': True},
-        {'text': '- Hoàn thiện báo cáo thẩm định trước ngày 30/5/2026.'},
-        {'text': '- Trình Ủy ban nhân dân tỉnh xem xét, quyết định thành lập CCN trước ngày 15/6/2026.'},
+        {'text': '- Hoàn thiện báo cáo thẩm định, trình Ủy ban nhân dân tỉnh xem xét, quyết định thành lập CCN trước ngày 15/6/2026.'},
         {'text': 'Trên đây là báo cáo của Sở Công Thương về tiến độ thẩm định CCN An Thịnh, kính trình Ủy ban nhân dân tỉnh xem xét./.'},
     ]
     doc.replace_body_paragraphs(start_idx=4, end_idx=16, new_paragraphs=new_body)

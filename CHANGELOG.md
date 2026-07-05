@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-05 (đợt 2) — Đưa 6 plugin lên repo + chuẩn hóa kiểu lưu "gói trong thư mục"
+- **Chuẩn hóa cấu trúc repo**: mỗi plugin nay lưu dạng `<tên>/.claude-plugin/plugin.json` + `<tên>/skills/<tên>/...` (zip lại từng thư mục là ra file upload được ngay, không phải bọc thủ công — tránh lỗi validation upload). Chuyển `vbhc-vn` và `hnh-sct-vn` từ kiểu phẳng cũ sang kiểu gói.
+- **Thêm mới**: hc-sct-vn v1.0.1, xd-sct-vn v1.1.0, hl-vlncn-sct-vn v1.0.0, sd-vlncn-sct-vn v2026.7.4.2, kho-vlncn-sct-vn v1.4.0.
+- **Cập nhật**: hnh-sct-vn → v1.1.0 (thẩm quyền loại 5+8 theo TT 26/2026); vbhc-vn giữ v2.0.1.
+- Nắn lại 2 gói bị bọc lệch (hc-sct-vn, sd-vlncn-sct-vn) về đúng chuẩn; dọn __pycache__/.DS_Store.
+
 ## 2026-07-05 — vbhc-vn: nâng cấp v2.0.0 → v2.0.1 (chuẩn plugin + vá SZ13 tận gốc)
 - **v2.0.0**: chuyển chuẩn plugin; 4 quy tắc bất biến mới (11: cấm gán run.text vào run neo shape Line; 12: dòng Số/Ngày 13pt tường minh, ngày in nghiêng; 13: cấm widow word; 14: khối ký không gãy trang); nâng 7 → 8 nhóm anti-error; thêm `scripts/qa_pdf_check.py` (QA tự động 4 kiểm tra); sửa CỘNG HOÀ→CỘNG HÒA + en dash tiêu ngữ 4 template; chèn Line thiếu vào template 07; check_document bổ sung 10 VBQPPL hết hiệu lực; đổi tên 2 file reference bỏ dấu cách; thêm CHANGELOG riêng của plugin.
 - **v2.0.1**: `fill_template.py` gán text vào run chủ đạo (text dài nhất) giữ 13pt tường minh khi điền template; vá 7/9 template gốc thiếu `w:sz=26` ở dòng Số/Ngày (01,02,03,04,05,07,08); `qa_pdf_check.py` guard đầu vào .docx báo lỗi thân thiện khi truyền nhầm PDF; rút gọn demo công văn cho khối ký trọn trang 1. Kiểm chứng: 3 demo → 3/3 QA PASS, render soi ảnh đạt thể thức.

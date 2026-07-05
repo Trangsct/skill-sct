@@ -1,0 +1,8 @@
+{
+  "name": "vbhc-vn",
+  "version": "2.0.1",
+  "description": "Soan thao, ra soat van ban hanh chinh (.docx) So Cong Thuong Lao Cai theo ND 30/2020: 9 template trang + 17 mau that, Che do A/B, 8 nhom anti-error, QA render + qa_pdf_check (widow word, khoi ky khong gay trang, du 2 Line header, 13pt dong So/Ngay), doc metadata PDF van ban den.",
+  "author": {
+    "name": "Trangsct"
+  }
+}

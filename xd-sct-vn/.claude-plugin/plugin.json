@@ -1,0 +1,8 @@
+{
+  "name": "xd-sct-vn",
+  "version": "1.1.0",
+  "description": "QLNN ve XAY DUNG (cap bo + tinh + xa) - So Cong Thuong tinh Lao Cai, chuyen sau cong trinh nganh Cong Thuong. Khung phap ly hieu luc 01/7/2026: Luat Xay dung 135/2025/QH15, ND 207/2026 (thay ND 06/2021), ND 217/2026 (thay ND 175/2024), ND 140/2025 + 144/2025, QD 11/2026/QD-UBND Lao Cai. Xac dinh SCT la co quan chuyen mon ve xay dung voi cong trinh cong nghiep; tham dinh BCNCKT/thiet ke; kiem tra cong tac nghiem thu (KTCTNT); GPXD; su co; cong trinh tam; phan dinh tham quyen 3 cap.",
+  "author": {
+    "name": "Tran Trong Trang - Phong QLCN, So Cong Thuong Lao Cai"
+  }
+}

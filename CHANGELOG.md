@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-06 — Thêm plugin kccn-sct-vn v1.2.0 (merge dữ liệu tra cứu từ skill kcn-ccn-vn)
+- **Thêm mới lên repo**: plugin `kccn-sct-vn` v1.2.0 (trước đó v1.1.0 chỉ upload trực tiếp lên Claude, chưa có trên repo). Cấu trúc chuẩn gói `<tên>/.claude-plugin/plugin.json` + `<tên>/skills/<tên>/`.
+- **Merge từ skill cũ kcn-ccn-vn**: reference 13 mới (toàn văn Phụ lục II — 20 KCN + Phụ lục III — 54 CCN đủ 6 nhóm của QĐ 525/QĐ-UBND 25/02/2026; đối soát 54/56/52 CCN; tầm nhìn 2050); reference 14 mới (QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục, chi tiết 13 KCN + 35 CCN kèm TMĐT, nhà đầu tư, suất vốn QĐ 425/QĐ-BXD).
+- **Sửa lỗi nghiêm trọng reference 12**: vị trí xã 6 KCN sai do suy từ tên KCN (Bản Qua→xã Bát Xát; Y Can→Lương Thịnh+Quy Mông; Đông An→Đông Cuông; Thịnh Hưng→Yên Bình+phường Văn Phú; Lục Yên→Lục Yên+Tân Lĩnh; Cốc Mỳ-Trịnh Tường→Trịnh Tường); bổ sung KCN Việt Hồng 2 (200 ha) bị thiếu; chốt CCN Y Can (Quy Mông), Đông An (Đông Cuông), Bảo Hưng 2 (phường Âu Lâu). Thêm quy tắc "KHÔNG suy tên xã từ tên KCN".
+- **Chủ đích không merge**: dữ liệu hiện trạng lấp đầy/tiến độ (ref 15, 18 skill cũ) — giữ nguyên tắc hỏi người dùng. Skill `kcn-ccn-vn` giữ lại trên repo làm nguồn lưu trữ; trên Claude nên tắt sau khi v1.2.0 chạy ổn.
+
 ## 2026-07-05 (đợt 2) — Đưa 6 plugin lên repo + chuẩn hóa kiểu lưu "gói trong thư mục"
 - **Chuẩn hóa cấu trúc repo**: mỗi plugin nay lưu dạng `<tên>/.claude-plugin/plugin.json` + `<tên>/skills/<tên>/...` (zip lại từng thư mục là ra file upload được ngay, không phải bọc thủ công — tránh lỗi validation upload). Chuyển `vbhc-vn` và `hnh-sct-vn` từ kiểu phẳng cũ sang kiểu gói.
 - **Thêm mới**: hc-sct-vn v1.0.1, xd-sct-vn v1.1.0, hl-vlncn-sct-vn v1.0.0, sd-vlncn-sct-vn v2026.7.4.2, kho-vlncn-sct-vn v1.4.0.

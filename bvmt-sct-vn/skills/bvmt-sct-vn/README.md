@@ -41,7 +41,7 @@ bvmt-sct-vn/
 └── references/
     ├── 01-vai-tro-sct-bvmt.md        (Ranh giới vai trò SCT ↔ Sở NN&MT; Điều 160; 8 nhóm nhiệm vụ; ai soạn/ký) — ĐỌC ĐẦU TIÊN
     ├── 02-khung-phap-ly.md           (Toàn bộ số/ngày văn bản đã xác minh + bảng hiệu lực/dự thảo)
-    ├── 03-dtm-gpmt.md                (Phân biệt ĐTM/GPMT/đăng ký MT; khi nào SCT tham gia; checklist phản biện ĐTM)
+    ├── 03-dtm-gpmt.md                (Tra cứu đầy đủ ĐTM/GPMT/đăng ký MT đến NĐ 48/2026: phân loại nhóm I-IV, bảng quyết định, ngưỡng, trình tự - thời điểm, thẩm quyền, bảng tra dự án Lào Cai, checklist phản biện)
     ├── 04-bvmt-kcn-ccn-mo.md         (BVMT khu/cụm công nghiệp + đóng cửa mỏ, cải tạo phục hồi môi trường)
     ├── 05-knk-carbon-bdkh.md         (Kiểm kê/giảm nhẹ KNK, MRV, thị trường các-bon, BĐKH ngành CT)
     ├── 06-su-co-xu-phat-cai-cach.md  (Ứng phó sự cố chất thải/hóa chất; xử phạt VPHC; cải cách TTHC)

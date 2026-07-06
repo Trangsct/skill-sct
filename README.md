@@ -13,6 +13,23 @@ Kho lưu trữ và theo dõi lịch sử thay đổi của 8 skill dùng cho cô
 | `sct-laocai-org-vn` | Cơ cấu tổ chức, phân công BGĐ và chuyên viên |
 | `vbhc-pdf-reader-vn` | Trích metadata PDF văn bản hành chính |
 
+## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
+
+Trình upload plugin của Claude từ chối gói nếu vi phạm. Trước khi zip, LUÔN kiểm:
+
+1. **`description` trong frontmatter SKILL.md ≤ 1024 ký tự** (đếm theo ký tự, tiếng Việt có dấu tính 1 ký tự/chữ). Đây là lỗi hay gặp nhất. Lệnh kiểm nhanh toàn repo:
+   ```bash
+   python3 -c "
+   import re,glob
+   for f in sorted(glob.glob('**/SKILL.md',recursive=True)):
+       m=re.search(r'description:\s*\"(.*?)\"',open(f,encoding='utf-8').read(),re.S)
+       n=len(m.group(1)) if m else -1
+       print(('VUOT!' if n>1024 else 'ok   '),n,f)"
+   ```
+2. Cấu trúc gói: `.claude-plugin/plugin.json` ở gốc zip + nội dung tại `skills/<tên>/...` (zip từ BÊN TRONG thư mục plugin: `cd <tên> && zip -r ../x.zip .claude-plugin skills`).
+3. `plugin.json` có đủ `name` (trùng tên thư mục skill), `version`, `description`.
+4. Không kèm `__pycache__`, file tạm, file ẩn hệ điều hành.
+
 ## Quy trình cập nhật (mỗi khi Claude sửa skill)
 
 1. Cuối phiên làm việc có sửa skill, yêu cầu Claude: **"đóng gói skill đã sửa thành zip"**.

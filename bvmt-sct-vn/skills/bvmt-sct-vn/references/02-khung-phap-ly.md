@@ -18,7 +18,7 @@
 ## A. Luật
 
 1. **Luật Bảo vệ môi trường số 72/2020/QH14** ngày 17/11/2020, hiệu lực 01/01/2022. Văn bản nền tảng. **Điều 160 khoản 2 điểm a** = trách nhiệm BVMT của Bộ Công Thương/ngành Công Thương. **Điều 110** = dịch vụ quan trắc môi trường.
-2. **Luật số 146/2025/QH15** sửa đổi, bổ sung một số điều của 15 luật lĩnh vực nông nghiệp và môi trường (bao gồm Luật BVMT). Khi viện dẫn Luật BVMT sau 2025, lưu ý các điều đã được Luật 146/2025 sửa.
+2. **Luật số 146/2025/QH15** ngày 11/12/2025 (Quốc hội khóa XV, kỳ họp thứ 10), **hiệu lực 01/01/2026** — sửa đổi, bổ sung một số điều của 15 luật lĩnh vực nông nghiệp và môi trường; **Điều 1** sửa Luật BVMT. Các khoản đáng chú ý với nghiệp vụ Sở: khoản 3 (điểm c khoản 1 Điều 28 — yếu tố nhạy cảm, **bỏ tiêu chí đất lúa 2 vụ**), khoản 4 (Điều 30 — không phải ĐTM), khoản 5–6 (Điều 31, 34 — ĐTM đồng thời BCNCKT, trình đồng thời, phê duyệt KQTĐ trước quyết định đầu tư), khoản 7 (Điều 35 — thẩm quyền thẩm định ĐTM, Chủ tịch UBND cấp tỉnh mặc định), khoản 9 (Điều 39 — đối tượng GPMT dẫn chiếu ngưỡng Chính phủ quy định), khoản 11 (Điều 41 — thẩm quyền GPMT chỉ còn 3 đầu mối: Bộ NN&MT, BQP/BCA, Chủ tịch UBND cấp tỉnh), khoản 14 (Điều 49 — đăng ký môi trường, đổi "miễn" thành "**không phải đăng ký**"), khoản 34 (Điều 160 — thanh tra đột xuất không công bố trước). Khi viện dẫn Luật BVMT sau 01/01/2026 phải đối chiếu bản đã sửa. Chi tiết áp dụng: ref 03.
 3. Luật Khoáng sản (và **Luật Địa chất và khoáng sản số 54/2024/QH15** — khi áp dụng sau hiệu lực) → căn cứ đóng cửa mỏ, cải tạo phục hồi môi trường. Xem ref 04.
 4. Luật Hóa chất (BVMT trong hoạt động hóa chất, chất ô nhiễm khó phân hủy/POP).
 
@@ -26,14 +26,30 @@
 
 5. **NĐ 08/2022/NĐ-CP** ngày 10/01/2022 — quy định chi tiết một số điều của Luật BVMT (ĐTM, GPMT, đăng ký môi trường, quản lý chất thải, quan trắc...). Văn bản hướng dẫn cốt lõi.
 6. **NĐ 05/2025/NĐ-CP** ngày 06/01/2025 — sửa đổi, bổ sung NĐ 08/2022/NĐ-CP (đáng chú ý: phân cấp thẩm định ĐTM/cấp GPMT về UBND cấp tỉnh).
-7. **NĐ 48/2026/NĐ-CP** ngày 29/01/2026 — sửa đổi, bổ sung NĐ 08/2022/NĐ-CP và NĐ 05/2025/NĐ-CP. **Đây là bản sửa mới nhất** của hệ NĐ 08; khi viện dẫn quy trình ĐTM/GPMT phải đối chiếu bản đã sửa bởi NĐ 48/2026.
+7. **NĐ 48/2026/NĐ-CP** ngày 29/01/2026, **hiệu lực từ ngày ký** — sửa đổi, bổ sung NĐ 08/2022/NĐ-CP (đã sửa bởi NĐ 05/2025/NĐ-CP). **Đây là bản sửa mới nhất** của hệ NĐ 08. Nội dung chính (số Điều đầu = điều của NĐ 48; điều trong ngoặc = điều NĐ 08 được sửa):
+   - **Điều 5** (sửa Điều 25): **lượng hóa quy mô diện tích đất** — lớn ≥ 300 ha, trung bình 50 – dưới 300 ha, **nhỏ dưới 50 ha**; sửa yếu tố nhạy cảm điểm a ("phường của đô thị"), điểm c, đ (bỏ tiêu chí lúa 2 vụ, dẫn chiếu ngưỡng chi tiết theo STT 7a/7b PL III, 5a/5b PL IV).
+   - **Điều 6** (bổ sung điểm l khoản 4 Điều 26): dự án đầu tư công đặc biệt chỉ tham vấn qua đăng tải trang thông tin điện tử.
+   - **Điều 7** (sửa khoản 1 Điều 26a): phân cấp **Chủ tịch UBND cấp tỉnh** thẩm định ĐTM + cấp GPMT với 4 nhóm dự án vốn thuộc Bộ NN&MT: đầu tư công không thuộc QH/TTg (trừ tái chế, xử lý CTR); dự án chỉ theo tiêu chí chuyển mục đích đất nhạy cảm; **thủy điện** không thuộc QH/TTg; khai thác dầu khí.
+   - **Điều 8** (sửa Điều 27): các trường hợp thay đổi phải thẩm định lại ĐTM (ngưỡng hệ thống XLNT ≥ 50 m³/ngày, khí thải ≥ 20.000 m³/giờ ở điểm e khoản 6...).
+   - **Điều 9** (bổ sung **Điều 27a, 27b**): ĐTM cho dự án **phân kỳ đầu tư/dự án thành phần** (tiêu chí phân loại theo dự án tổng thể); thẩm quyền với dự án trên ≥ 2 tỉnh/vùng biển chưa phân định; tích hợp - chia tách GPMT cùng địa điểm.
+   - **Điều 10** (sửa Điều 30): điều chỉnh/cấp lại/thu hồi GPMT; **thêm trường hợp điều chỉnh: bổ sung phương án chuyển giao/tiếp nhận/tái sử dụng nước thải**; nộp hồ sơ điều chỉnh qua **dịch vụ công trực tuyến toàn trình**.
+   - **Điều 11** (sửa Điều 31): vận hành thử nghiệm ≤ 6 tháng + gia hạn ≤ 6 tháng; **miễn vận hành thử nghiệm** công trình đấu nối HTXLNT tập trung và công trình xử lý khí thải < 5.000 m³/giờ.
+   - **Điều 12** (sửa Điều 32): đổi tên thành "Đối tượng **không phải** đăng ký môi trường" (Phụ lục XVI).
+   - **Điều 19–20** (sửa Điều 48, 49): CCN dùng chung HTXLNT; trường hợp CCN **không phải xây HTXLNT tập trung** (hoạt động trước 01/01/2022 lấp đầy > 80% hoặc tổng nước thải < 100 m³/ngày, cơ sở thứ cấp tự xử lý đạt chuẩn); điều kiện tiếp nhận dự án mới vào khu/cụm.
+   - **Điều 24** (sửa khoản 5 Điều 74): **ngưỡng phải có GPMT** theo điểm a khoản 1 Điều 39 Luật — nước thải sinh hoạt ≥ 50 m³/ngày; nước thải công nghiệp thuộc PL II mọi mức; ngoài PL II ≥ 10 m³/ngày; hỗn hợp ≥ 50 m³/ngày; khí thải ≥ 5.000 m³/giờ (tính theo dự án tổng thể).
+   - **Điều 25–27** (sửa Điều 92–94): điều kiện, hồ sơ GCN dịch vụ quan trắc môi trường (xem thêm mục F về NQ 66.19/2026).
+   - **Điều 32–33** (sửa **Điều 162, 163**): thanh tra đột xuất về BVMT **không công bố trước** quyết định thanh tra (điều kiện, trình tự, quyền tiếp cận ngay khu vực xả thải, phối hợp Công an/UBND xã); hoạt động kiểm tra chuyên ngành về BVMT (gồm đoàn kiểm tra của UBND cấp xã).
+   - **Điều 35**: **thay toàn bộ Phụ lục II, III, IV** (danh mục loại hình ô nhiễm và danh mục nhóm I, II — PL II thu hẹp còn 17 loại hình, bỏ kho xăng dầu; hạ tầng CCN chuyển sang nhóm II) và các Phụ lục XXV–XXVIII, XXXIII. **Phụ lục V (nhóm III) vẫn dùng bản NĐ 05/2025.**
+   - **Điều 38**: chuyển tiếp (hồ sơ đã tiếp nhận xử lý theo quy định cũ; GPMT đã cấp mà không còn thuộc đối tượng → dùng đến hết hạn; Chủ tịch tỉnh tiếp quản cấp/điều chỉnh/cấp lại GPMT các hồ sơ vốn thuộc Bộ/UBND huyện cũ).
+   - **Điều 39**: hiệu lực từ ngày ký; **bãi bỏ** khoản 2 Điều 31 + Mục 8 Chương III NĐ 131/2025/NĐ-CP và một số điều NĐ 136/2025/NĐ-CP (chấm dứt cơ chế cấp xã cấp GPMT).
+   Khi viện dẫn quy trình ĐTM/GPMT: **ưu tiên dùng văn bản hợp nhất NĐ 08/2022 nếu đã gộp đến NĐ 48/2026; nếu chưa có bản hợp nhất thì đọc song song 3 nghị định** (08/2022 → 05/2025 → 48/2026), câu chữ NĐ 48 thắng.
 8. **NĐ 45/2022/NĐ-CP** ngày 07/7/2022 — xử phạt VPHC trong lĩnh vực BVMT (thay NĐ 155/2016 và NĐ 55/2021). Mức phạt tối đa 01 tỷ đồng (cá nhân) / 02 tỷ đồng (tổ chức). **Đang có DỰ THẢO Nghị định sửa đổi** (tăng chế tài, cập nhật chức danh xử phạt, bổ sung chế tài KNK) — **chưa ban hành**; không viện dẫn số/ngày bản sửa khi chưa có.
 
 ## C. Thông tư hướng dẫn BVMT
 
 9. **TT 02/2022/TT-BTNMT** ngày 10/01/2022 — quy định chi tiết thi hành một số điều Luật BVMT (mẫu biểu, quy trình kỹ thuật).
 10. **TT 07/2025/TT-BTNMT** — sửa đổi, bổ sung TT 02/2022/TT-BTNMT (căn cứ NĐ 05/2025).
-11. **TT 09/2026/TT-BNNMT** ngày 29/01/2026 — sửa đổi, bổ sung TT 02/2022/TT-BTNMT và TT 07/2025/TT-BTNMT (ký hiệu mới TT-BNNMT do hợp nhất bộ).
+11. **TT 09/2026/TT-BNNMT** ngày 29/01/2026, hiệu lực 29/01/2026 — sửa đổi, bổ sung TT 02/2022/TT-BTNMT (đã sửa bởi TT 07/2025/TT-BTNMT ngày 28/02/2025 và TT 07/2025/TT-BNNMT ngày 16/6/2025); ban hành cùng ngày với NĐ 48/2026 để đồng bộ mẫu biểu, quy trình (ký hiệu mới TT-BNNMT do hợp nhất bộ). Lưu ý: TT này **bãi bỏ hiệu lực TT 07/2025/TT-BNNMT** (thông tư phân cấp, phân định thẩm quyền môi trường - BĐKH) từ 29/01/2026. Hồ sơ tiếp nhận trước ngày hiệu lực xử lý theo quy định tại thời điểm tiếp nhận.
 
 ## D. Khí nhà kính, các-bon, biến đổi khí hậu
 
@@ -69,8 +85,11 @@
 | Văn bản | Trạng thái | Ghi chú |
 |---|---|---|
 | TT 35/2015/TT-BCT (BVMT ngành CT) | **HẾT HIỆU LỰC** | Chưa có VB thay thế — khoảng trống |
-| NĐ 08/2022 → NĐ 05/2025 → NĐ 48/2026 | Hiệu lực (bản hợp nhất) | Luôn dùng bản sau cùng (NĐ 48/2026) |
-| TT 02/2022 → TT 07/2025 → TT 09/2026 | Hiệu lực (bản hợp nhất) | Bản sau cùng TT 09/2026/TT-BNNMT |
+| Luật BVMT 72/2020 → Luật 146/2025 (Điều 1) | Hiệu lực (bản đã sửa từ 01/01/2026) | Đối chiếu các khoản sửa khi viện dẫn |
+| NĐ 08/2022 → NĐ 05/2025 → NĐ 48/2026 | Hiệu lực (bản hợp nhất) | Bản sau cùng NĐ 48/2026 (hiệu lực 29/01/2026); PL II/III/IV dùng bản NĐ 48, PL V dùng bản NĐ 05 |
+| TT 02/2022 → TT 07/2025/TT-BTNMT → TT 09/2026 | Hiệu lực (bản hợp nhất) | Bản sau cùng TT 09/2026/TT-BNNMT (29/01/2026) |
+| TT 07/2025/TT-BNNMT (phân cấp MT-BĐKH) | **HẾT HIỆU LỰC** từ 29/01/2026 | Bị bãi bỏ bởi TT 09/2026/TT-BNNMT |
+| NĐ 131/2025 (khoản 2 Điều 31, Mục 8 Ch. III) và một phần NĐ 136/2025 | **BỊ BÃI BỎ** từ 29/01/2026 | Bãi bỏ bởi Điều 39 NĐ 48/2026 — chấm dứt cấp xã cấp GPMT |
 | NĐ 45/2022 (xử phạt) | Hiệu lực | Dự thảo sửa đổi — CHƯA ban hành |
 | NĐ 06/2022 → NĐ 119/2025 | Hiệu lực | KNK; bản sau cùng NĐ 119/2025 |
 | TT 38/2023/TT-BCT | Hiệu lực | MRV KNK ngành CT |

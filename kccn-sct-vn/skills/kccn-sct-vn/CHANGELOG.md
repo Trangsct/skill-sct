@@ -1,5 +1,16 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.3.0 — 2026-07-06 (cập nhật 03 KCN được chấp thuận chủ trương đầu tư)
+
+### Thêm mới
+- `references/15-kcn-chap-thuan-ctdt-2026.md`: chi tiết 03 QĐ chấp thuận CTĐT đồng thời chấp thuận NĐT — KCN Bản Qua (QĐ 2170/QĐ-UBND 23/6/2026 của UBND tỉnh, 76,39 ha, NĐT Công ty CP ĐT phát triển công nghiệp Lào Cai, GCN ĐKĐT mã 4275604886 ngày 30/6/2026); KCN Phú Xuân (QĐ 2336/QĐ-UBND 02/7/2026 của Chủ tịch UBND tỉnh, 300 ha) và KCN Phú Xuân 1 (QĐ 2338/QĐ-UBND 02/7/2026, 200 ha) — cùng NĐT Công ty CP công nghiệp Linh Linh, xã Gia Phú. Nâng tổng số KCN đã thành lập/có QĐ CTĐT lên 10. Kèm 5 lưu ý nghiệp vụ (thẩm quyền ban hành khác nhau, chênh lệch 76,39/107 ha Bản Qua, không gộp Phú Xuân + Phú Xuân 1).
+- `van-ban-goc/`: bổ sung 4 file gốc đã ký: QD-2170, QD-2336, QD-2338, GCN-DKDT-KCN-Ban-Qua.
+
+### Cập nhật
+- `references/12`: tách bảng "KCN mới được chấp thuận CTĐT (03)" khỏi nhóm "chưa thành lập"; tổng 10 KCN đến 7/2026.
+- `references/14`: chú thích trạng thái CTĐT mới cho 3 dòng Bản Qua, Phú Xuân, Phú Xuân 1 trong bảng 13 KCN thu hút đầu tư.
+- `SKILL.md`: mục lục + trigger 8 thêm reference 15.
+
 ## v1.2.0 — 2026-07-06 (merge dữ liệu tra cứu từ skill cũ kcn-ccn-vn)
 
 ### Thêm mới

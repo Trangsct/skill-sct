@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-06 (đợt 2) — kccn-sct-vn v1.3.0: cập nhật 03 KCN được chấp thuận CTĐT
+- Thêm `references/15-kcn-chap-thuan-ctdt-2026.md`: KCN Bản Qua (QĐ 2170/QĐ-UBND 23/6/2026, 76,39 ha, GCN ĐKĐT 30/6/2026); KCN Phú Xuân (QĐ 2336) và Phú Xuân 1 (QĐ 2338) cùng ngày 02/7/2026, NĐT Công ty CP công nghiệp Linh Linh, xã Gia Phú → tổng 10 KCN đã thành lập/có QĐ CTĐT.
+- Cập nhật reference 12, 14 phản ánh trạng thái mới; bổ sung 4 văn bản gốc đã ký vào `van-ban-goc/`.
+
 ## 2026-07-06 — Thêm plugin kccn-sct-vn v1.2.0 (merge dữ liệu tra cứu từ skill kcn-ccn-vn)
 - **Thêm mới lên repo**: plugin `kccn-sct-vn` v1.2.0 (trước đó v1.1.0 chỉ upload trực tiếp lên Claude, chưa có trên repo). Cấu trúc chuẩn gói `<tên>/.claude-plugin/plugin.json` + `<tên>/skills/<tên>/`.
 - **Merge từ skill cũ kcn-ccn-vn**: reference 13 mới (toàn văn Phụ lục II — 20 KCN + Phụ lục III — 54 CCN đủ 6 nhóm của QĐ 525/QĐ-UBND 25/02/2026; đối soát 54/56/52 CCN; tầm nhìn 2050); reference 14 mới (QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục, chi tiết 13 KCN + 35 CCN kèm TMĐT, nhà đầu tư, suất vốn QĐ 425/QĐ-BXD).

@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-06 (đợt 3) — vbhc-vn v2.1.0 (QA một phát) + vbhc-pdf-reader-vn v2.0 (sentinel)
+- **vbhc-vn v2.0.1 → v2.1.0**: thêm `scripts/qa_all.py` — QA MỘT PHÁT: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (profile soffice ấm; widow word, khối ký gãy trang) + ảnh ghép mọi trang trong 1 file để view 1 lượt. Đo: 1,3-3,0s/vòng thay vì ≥30-50s render đôi cũ. `qa_pdf_check.py` thêm `--pdf` khỏi render lại. SKILL.md: Bước 2 bỏ lượt inspect template, Bước 4 viết lại "build && qa_all", mục mới "Quy tắc tốc độ" (văn bản thường 3-4 lượt tool). Kèm vá v2.0.2: 2 file reference `*-goc.md` hết hardcode đường dẫn skill lẻ.
+- **vbhc-pdf-reader-vn v1.0 → v2.0**: thu gọn thành SENTINEL 70 dòng (trigger mạnh + quy tắc cứng + script; chi tiết ủy quyền cho reference plugin vbhc-vn); bổ sung vụ sai thứ 3 (2861/SYT-NVY 19/6/2026); bỏ tham chiếu chết anti-error-sct-vn; lệnh fallback sang script trong plugin; script giữ nguyên (giống từng byte bản plugin — quy ước sửa là sửa cả 2 nơi).
+
 ## 2026-07-06 (đợt 2) — kccn-sct-vn v1.3.0: cập nhật 03 KCN được chấp thuận CTĐT
 - Thêm `references/15-kcn-chap-thuan-ctdt-2026.md`: KCN Bản Qua (QĐ 2170/QĐ-UBND 23/6/2026, 76,39 ha, GCN ĐKĐT 30/6/2026); KCN Phú Xuân (QĐ 2336) và Phú Xuân 1 (QĐ 2338) cùng ngày 02/7/2026, NĐT Công ty CP công nghiệp Linh Linh, xã Gia Phú → tổng 10 KCN đã thành lập/có QĐ CTĐT.
 - Cập nhật reference 12, 14 phản ánh trạng thái mới; bổ sung 4 văn bản gốc đã ký vào `van-ban-goc/`.

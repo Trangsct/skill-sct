@@ -13,7 +13,7 @@ Sinh ra từ vụ 4 lỗi thật ngày 05/7/2026 (công văn HHNH loại 5, 8):
                 13pt tường minh (w:sz=26) hoặc dòng ngày thiếu in nghiêng.
 
 Cách dùng:
-  python3 qa_pdf_check.py <file.docx> [--min-lines 2] [--no-render]
+  python3 qa_pdf_check.py <file.docx> [--min-lines 2] [--no-render] [--pdf <pdf-đã-render>]
 
 Thoát mã 0 = PASS toàn bộ; 1 = có FAIL. Cảnh báo (WARN) không chặn.
 Yêu cầu: soffice (LibreOffice), pdftotext, python-docx.
@@ -186,6 +186,13 @@ def main():
     do_render = "--no-render" not in args
     if "--min-lines" in args:
         min_lines = int(args[args.index("--min-lines") + 1])
+    # --pdf <path>: dùng PDF đã render sẵn, KHÔNG render lại (tiết kiệm 1 lần soffice).
+    pre_pdf = None
+    if "--pdf" in args:
+        pre_pdf = Path(args[args.index("--pdf") + 1])
+        if not pre_pdf.exists():
+            print(f"LỖI: --pdf không tìm thấy: {pre_pdf}")
+            sys.exit(2)
 
     fails, warns = [], []
 
@@ -198,7 +205,7 @@ def main():
     if do_render:
         with tempfile.TemporaryDirectory() as td:
             try:
-                pdf = render_pdf(docx_path, Path(td))
+                pdf = pre_pdf if pre_pdf else render_pdf(docx_path, Path(td))
                 pages = pdf_pages_text(pdf)
             except Exception as e:
                 warns.append(("RENDER", f"không render được PDF: {e}"))

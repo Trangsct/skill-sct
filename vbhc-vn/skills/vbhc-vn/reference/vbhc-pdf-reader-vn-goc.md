@@ -10,7 +10,7 @@ description: "Đọc và trích xuất chính xác metadata (số văn bản, ng
 > Trong lượt hiện tại, nếu Claude nhận được file PDF kèm theo lời nhắn của người dùng, và file đó có dấu hiệu là văn bản nhà nước Việt Nam (tên file, dòng đầu trong context, hoặc bối cảnh hội thoại gợi ý), thì **DỪNG mọi thao tác khác lại** và chạy ngay:
 >
 > ```bash
-> python3 /mnt/skills/user/vbhc-pdf-reader-vn/scripts/extract_metadata.py "<đường dẫn file>"
+> python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py"   # bản giống hệt; nếu có skill lẻ vbhc-pdf-reader-vn thì dùng /mnt/skills/user/vbhc-pdf-reader-vn/scripts/ "<đường dẫn file>"
 > ```
 >
 > Đây là **quy tắc cứng, không có ngoại lệ**. KHÔNG được:
@@ -32,7 +32,7 @@ description: "Đọc và trích xuất chính xác metadata (số văn bản, ng
 **Khi người dùng upload bất kỳ PDF nào trông giống văn bản hành chính/QPPL Việt Nam, Claude PHẢI chạy script trích xuất NGAY ở lượt phản hồi đầu tiên, không cần chờ phát hiện context window thiếu thông tin.**
 
 ```bash
-python3 /mnt/skills/user/vbhc-pdf-reader-vn/scripts/extract_metadata.py "<đường dẫn file>"
+python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py"   # bản giống hệt; nếu có skill lẻ vbhc-pdf-reader-vn thì dùng /mnt/skills/user/vbhc-pdf-reader-vn/scripts/ "<đường dẫn file>"
 ```
 
 **Cờ kích hoạt** (bất kỳ cờ nào):
@@ -74,7 +74,7 @@ Khi PDF được nạp tự động vào context window (qua API document upload
 ### Bước 1 — Chạy script trích xuất
 
 ```bash
-python3 /mnt/skills/user/vbhc-pdf-reader-vn/scripts/extract_metadata.py /mnt/user-data/uploads/<file>.pdf
+python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py"   # bản giống hệt; nếu có skill lẻ vbhc-pdf-reader-vn thì dùng /mnt/skills/user/vbhc-pdf-reader-vn/scripts/ /mnt/user-data/uploads/<file>.pdf
 ```
 
 Output là JSON gồm 11 trường:
@@ -99,7 +99,7 @@ Khi script trả về phần lớn trường là `null` và `phuong_phap == "tex
 
 ```bash
 ocrmypdf --language vie+eng --force-ocr <input>.pdf /tmp/ocr_output.pdf
-python3 /mnt/skills/user/vbhc-pdf-reader-vn/scripts/extract_metadata.py /tmp/ocr_output.pdf
+python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py"   # bản giống hệt; nếu có skill lẻ vbhc-pdf-reader-vn thì dùng /mnt/skills/user/vbhc-pdf-reader-vn/scripts/ /tmp/ocr_output.pdf
 ```
 
 Script đã tích hợp fallback OCR tự động khi `pdftotext` trả về <100 ký tự.

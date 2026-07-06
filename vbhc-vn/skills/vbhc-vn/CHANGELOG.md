@@ -1,5 +1,32 @@
 # CHANGELOG — plugin vbhc-vn
 
+## v2.1.0 — 06/7/2026 (QA MỘT PHÁT — cắt thời gian hoàn thành 1 văn bản)
+
+### Vấn đề
+Quy trình Bước 4 cũ tốn thời gian: render PDF 2 lần (soi ảnh + qa_pdf_check tự render lại, mỗi lần soffice nguội 15-25s), 6-8 lượt tool rời rạc (inspect → build → validate → render → view 2-4 ảnh trang → qa_pdf_check → check_document), lặp render/view sau từng lỗi nhỏ.
+
+### Script mới
+- `scripts/qa_all.py` — **QA MỘT PHÁT, đường QA chính**: một lệnh gộp (1) kiểm XML: Line header + 13pt Số/Ngày (tái dùng hàm qa_pdf_check), `<w:br/>` header (Quy tắc 10), body căn giữa/thiếu firstLine 1cm/thụt treo (WARN — bài học Chế độ B); (2) check_document.py (hiệu lực VBQPPL, từ suy đoán, số đáng ngờ); (3) render PDF **đúng 1 lần** với profile soffice ấm (`-env:UserInstallation`) dùng lại cho widow word + khối ký gãy trang; (4) xuất **ảnh ghép mọi trang trong 1 file** `qa_sheet.png` → chỉ cần 1 lượt `view`. Đo thực tế: 3.0s lần nguội, 1.3-1.7s lần ấm (trước đây ≥ 30-50s cho chuỗi render đôi). Test PASS trên demo công văn + test âm tính FAIL đúng với `<w:br/>` cố ý trong header.
+
+### Sửa script
+- `qa_pdf_check.py`: thêm `--pdf <path>` — dùng PDF render sẵn, không render lại (hết cảnh render đôi khi chạy kèm soi ảnh).
+
+### SKILL.md
+- Bước 2: bỏ lượt inspect template khi `reference/templates-chi-tiet.md` đã có chỉ số.
+- Bước 4 viết lại: một lệnh `build && qa_all`; view 1 ảnh ghép; sửa lỗi theo báo cáo text, gom hết mới render lại.
+- Mục mới "Quy tắc tốc độ": văn bản thường xong trong 3-4 lượt tool; chất lượng vẫn là chốt chặn (không giao file chưa PASS).
+- Chế độ B: assertion CENTER/firstLine/shape/br-header chuyển sang qa_all.py phủ; chỉ tự viết assertion phần nội dung vụ việc.
+- Description frontmatter cập nhật "QA MỘT PHÁT qa_all.py".
+
+## v2.0.2 — 06/7/2026 (gỡ phụ thuộc đường dẫn skill lẻ + phân vai với sentinel)
+
+### Sửa lỗi
+- `reference/vbhc-pdf-reader-vn-goc.md` (4 chỗ) và `reference/anti-error-sct-vn-goc.md` (1 chỗ): đường dẫn hardcode `/mnt/skills/user/vbhc-pdf-reader-vn/scripts/extract_metadata.py` → đường dẫn plugin `"/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py"` (kèm ghi chú fallback khi có skill lẻ). Trước đây các lệnh này chỉ chạy được chừng nào skill lẻ vbhc-pdf-reader-vn còn cài — gỡ skill lẻ là thành đường dẫn chết.
+
+### Phân vai với skill lẻ vbhc-pdf-reader-vn (nâng lên v2.0 cùng ngày)
+- Skill lẻ giữ vai trò **SENTINEL**: description trigger mạnh + quy tắc cứng + script, thu gọn 250 → 70 dòng; toàn bộ chi tiết nghiệp vụ ủy quyền cho `reference/doc-pdf-metadata.md` của plugin này. Hai bên cùng trỏ một quy trình, không còn trùng ~250 dòng khi cả hai kích hoạt.
+- **Quy ước đồng bộ**: `scripts/extract_metadata.py` tồn tại ở 2 nơi (plugin + skill lẻ) và phải GIỐNG TỪNG BYTE; mọi lần sửa script phải cập nhật đồng thời cả hai và ghi CHANGELOG. Đã kiểm chứng 06/7/2026: `diff` = 0.
+
 ## v2.0.1 — 05/7/2026 (vá SZ13 tận gốc + guard đầu vào QA)
 
 ### Sửa lỗi

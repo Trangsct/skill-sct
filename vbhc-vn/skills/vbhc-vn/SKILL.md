@@ -1,6 +1,6 @@
 ---
 name: vbhc-vn
-description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 8 nhóm anti-error; QA render + pdftotext (widow word, khối ký không gãy trang, đủ 2 Line header); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
+description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 8 nhóm anti-error; QA một phát qa_all.py (render 1 lần + ảnh ghép: widow, khối ký, Line header, 13pt Số/Ngày); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
 ---
 
 # vbhc-vn — Soạn văn bản hành chính từ mẫu thật của Sở Công Thương Lào Cai
@@ -18,7 +18,8 @@ SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc
 - `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
 - `reference/thu-vien-mau-that.md` — 17 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
 - `reference/phong-tranh-sai-lam.md` — chi tiết 8 nhóm sai lầm + checklist + vụ thật.
-- `scripts/qa_pdf_check.py` — QA tự động: widow word, khối ký gãy trang, đủ Line header, 13pt dòng Số/Ngày. Chạy ở Bước 4 song song soi ảnh; là đường QA chính khi view ảnh lỗi.
+- `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
+- `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
 - `reference/cong-cu-ky-thuat.md` — công thức kỹ thuật ĐÃ KIỂM CHỨNG (giải nén RAR/RAR5 tên tiếng Việt, OCR PDF scan/chữ ký số, sửa docx đa run, QA render) — đọc TRƯỚC khi xử lý file nén/PDF scan/sửa XML, không mò lại từ đầu.
 - `reference/doc-pdf-metadata.md` — chi tiết quy trình đọc PDF công văn đến (cờ kích hoạt, OCR, 11 trường).
 - `reference/cong-thuc-thuc-chien.md` — căn bảng/biểu khổ ngang, đồng bộ chéo nhiều file.
@@ -80,6 +81,17 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 - **GCN ATTP**: KHÔNG có số góc trái; Quốc hiệu căn giữa toàn trang; số cấp `.../{năm}/GCNATTP-SCTLC` đặt dưới bảng; hiệu lực 3 năm; kèm phụ lục danh mục.
 - **Biên bản (làm việc, kiểm tra)**: mở đầu Quốc hiệu căn giữa, **KHÔNG cấp số**; đường gạch chân ngang dưới Quốc hiệu vẽ bằng ĐỐI TƯỢNG LINE (shape) căn giữa — không dùng character underline, không dùng paragraph border. Có **template trắng `templates/09-bien-ban.docx`** (Chế độ A) và 2 mẫu thật `bien-ban-lam-viec-lien-nganh-ccn.docx`, `bien-ban-kiem-tra-thuc-te-hhnh.docx` trong `examples/sct/` (Chế độ B — ưu tiên khi có vụ việc tương tự).
 
+## Quy tắc tốc độ (v2.1.0) — hoàn thành 1 văn bản trong ÍT LƯỢT TOOL NHẤT
+
+Mục tiêu: văn bản thường (công văn, tờ trình ≤ 3 trang) xong trong **3-4 lượt tool**: (1) viết script build, (2) một lệnh bash `build && qa_all`, (3) view 1 ảnh ghép, (4) copy outputs + present_files. Cụ thể:
+1. **Không chạy inspect template** khi `reference/templates-chi-tiet.md` đã có chỉ số (Bước 2).
+2. **Nối build + QA trong MỘT lệnh bash**: `python3 build.py && python3 scripts/qa_all.py output/<file>.docx`. Không tách validate/render/qa thành các lượt riêng.
+3. **Render PDF đúng 1 lần mỗi vòng** — `qa_all.py` tự lo; không tự gọi soffice/pdftoppm rời nữa.
+4. **View đúng 1 ảnh ghép** `qa_sheet.png`; chỉ mở ảnh trang lẻ khi có nghi vấn cụ thể.
+5. **Sửa lỗi theo báo cáo text, gom hết rồi mới render lại** — không lặp render/view sau từng lỗi nhỏ.
+6. **Đọc reference đúng file cần** (bảng ở mục "Tài liệu tham chiếu"), không đọc dàn trải; nội dung SKILL.md này đã đủ cho văn bản thường.
+7. Chỉ vòng lặp thêm khi qa_all FAIL hoặc người dùng yêu cầu sửa — chất lượng vẫn là chốt chặn: **không giao file chưa PASS**.
+
 ## Hai chế độ làm việc
 
 > **QUY TẮC ƯU TIÊN (theo yêu cầu của Bạn): luôn ưu tiên sửa trên MẪU THẬT thay vì soạn từ template trắng.**
@@ -121,7 +133,7 @@ python /mnt/skills/public/docx/scripts/office/pack.py /home/claude/work/unpacked
 - **KHÔNG truy cập `d.paragraphs[n]` theo chỉ số sau khi đã chèn/xóa cấu trúc** (vụ thật CV kho VLNCN 04/7/2026: 4 lỗi cùng gốc — body căn giữa, sót nội dung vụ cũ, thiếu dòng Kính gửi, sai tháng): danh sách paragraph tự tính lại nên chỉ số trôi. Bắt TRƯỚC mọi tham chiếu cần dùng: `paras0 = list(d.paragraphs)` rồi thao tác qua `._p` đã lưu.
 - **Clone paragraph để sinh body phải clone từ đoạn body chuẩn** (justify, firstLine ≥ 1cm) — clone từ đoạn căn giữa (Kính gửi, tiêu đề) sẽ thừa hưởng sai `pPr` cho toàn bộ nội dung.
 - **Thay text header tách nhiều run**: lấy đủ chuỗi `''.join(r.text for r in p.runs)`, sửa, ghi vào `runs[0].text`, xóa text run sau — NHƯNG trước đó PHẢI kiểm tra run có shape không (Quy tắc 11); run chứa shape thì đi đường `w:t`.
-- **Assertion tự động sau build** (bắt buộc với Chế độ B trên mẫu thật): không còn tên/địa danh vụ việc cũ; đủ các dòng Kính gửi; ngày tháng đúng; mọi đoạn body không CENTER; firstLine ≥ 1cm (≥ 360000 EMU); còn đủ số shape Line như gốc.
+- **Assertion tự động sau build** (bắt buộc với Chế độ B trên mẫu thật): không còn tên/địa danh vụ việc cũ; đủ các dòng Kính gửi; ngày tháng đúng; mọi đoạn body không CENTER; firstLine ≥ 1cm (≥ 360000 EMU); còn đủ số shape Line như gốc. Từ v2.1.0: phần CENTER/firstLine/shape Line/br-header đã nằm sẵn trong `scripts/qa_all.py` — chạy `qa_all.py` ngay sau build là phủ được; chỉ cần tự viết assertion riêng cho phần NỘI DUNG vụ việc (tên/địa danh cũ, dòng Kính gửi, ngày tháng).
 - **Sửa XML trực tiếp trên file có run vụn**: chạy `merge_runs.py` (skill docx public) gộp `<w:t>` trước rồi mới str_replace; khớp whitespace trong `<w:t>` chính xác từng dấu cách.
 
 **Thay nội dung trong run giữ định dạng (python-docx)**: gán `runs[0].text = chuỗi_mới` rồi xóa các run sau (`r.text = ''`) — giữ được đậm/nghiêng/font của run đầu.
@@ -142,10 +154,12 @@ python /mnt/skills/public/docx/scripts/office/pack.py /home/claude/work/unpacked
 | Công văn nội bộ Phòng (tham gia ý kiến) | `templates/08-cong-van-noi-bo-phong.docx` |
 | Biên bản (làm việc, kiểm tra) | `templates/09-bien-ban.docx` |
 
-### Bước 2: Đọc cấu trúc paragraph của template
+### Bước 2: Lấy cấu trúc paragraph của template — KHÔNG chạy inspect nếu đã có sẵn
+
+Chỉ số paragraph/table của cả 9 template đã ghi sẵn trong **`reference/templates-chi-tiet.md`** — đọc file đó và dùng luôn chỉ số, **bỏ qua lượt chạy inspect** (tiết kiệm 1 lượt tool). Chỉ chạy inspect khi nghi template đã bị sửa hoặc reference chưa khớp:
 
 ```bash
-python3 scripts/fill_template.py templates/01-cong-van.docx
+python3 scripts/fill_template.py templates/01-cong-van.docx   # chỉ khi cần đối chiếu
 ```
 
 Lệnh trên in ra:
@@ -184,28 +198,27 @@ doc.replace_in_cell(1, 0, 0, 'Lưu: VT, CN.', 'Lưu: VT, CN(Tên).')
 doc.save('output/cong-van-moi.docx')
 ```
 
-### Bước 4: Rà soát căn chỉnh, chạy script, validate và QA trực quan
+### Bước 4: Chạy script build + QA MỘT PHÁT (`qa_all.py`) — trong CÙNG MỘT lệnh bash
 
-Trước khi xuất, **rà soát căn chỉnh đều đẹp và đồng bộ danh mục đánh số thứ tự các mục** (xem Quy tắc 8): kiểm tra hệ thống đề mục nhất quán, đánh số liên tục không nhảy bậc, đúng cấp (I, II, III → 1, 2, 3 → a, b, c hoặc 1.1, 1.2); canh lề và thụt đầu dòng đồng bộ.
+Trước khi xuất, **rà soát căn chỉnh đều đẹp và đồng bộ danh mục đánh số thứ tự các mục** (xem Quy tắc 8): hệ thống đề mục nhất quán, đánh số liên tục không nhảy bậc, đúng cấp (I, II, III → 1, 2, 3 → a, b, c hoặc 1.1, 1.2).
 
-```bash
-python3 scripts/<ten-script>.py
-python3 /mnt/skills/public/docx/scripts/office/validate.py output/<file>.docx
-```
-
-**QA trực quan BẮT BUỘC** (render → xem ảnh → sửa nếu lệch). Validate sạch chưa đủ — phải nhìn bằng mắt để bắt lỗi tràn lề, lệch cột, ngắt trang xấu, chữ ký rớt trang:
+**Gộp build và QA vào MỘT lệnh bash duy nhất** (tiết kiệm 3-4 lượt tool so với chạy rời):
 
 ```bash
-python3 /mnt/skills/public/docx/scripts/office/soffice.py --headless --convert-to pdf output/<file>.docx
-pdftoppm -jpeg -r 110 output/<file>.pdf /home/claude/work/qa
+python3 scripts/<ten-script>.py && python3 scripts/qa_all.py output/<file>.docx
 ```
-Rồi dùng `view` xem các ảnh `qa-*.jpg` (đặc biệt trang đầu = header/số ký hiệu, và trang cuối = khối chữ ký). Với báo cáo/phụ lục dài hoặc biểu nhiều trang, kiểm tra dòng tiêu đề bảng có lặp lại mỗi trang không. Đây là file QA tạm — KHÔNG xuất PDF cho người dùng.
 
-**QA tự động kèm theo (chạy song song với soi ảnh, và là phương án CHÍNH khi tool view ảnh không truyền được nội dung):**
-```bash
-python3 scripts/qa_pdf_check.py output/<file>.docx
-```
-Script này render PDF rồi kiểm 4 mục đã từng gây lỗi thật: (1) widow word — dòng cuối đoạn chỉ 1 từ; (2) khối chữ ký gãy trang — tên người ký khác trang với chức danh KT./TM.; (3) đủ số shape Line header (mặc định ≥ 2 với văn bản SCT); (4) cỡ chữ dòng Số/Ngày = 13pt tường minh. Soi ảnh vẫn là chuẩn vàng, nhưng khi view ảnh lỗi thì `pdftotext -layout` + kiểm XML là đủ căn cứ kết luận, KHÔNG giao file chưa qua một trong hai đường QA này.
+`qa_all.py` là **đường QA chính từ v2.1.0** — một lệnh, render PDF **đúng 1 lần** (profile soffice ấm, ~1-3s), làm trọn:
+1. **Kiểm XML**: đủ Line header, 13pt dòng Số/Ngày (Quy tắc 11-12), `<w:br/>` trong header = 0 (Quy tắc 10), body căn giữa/thiếu firstLine 1cm (WARN — bài học Chế độ B).
+2. **check_document.py**: VBQPPL hết hiệu lực (Nhóm D), từ suy đoán (Nhóm C), số văn bản đáng ngờ (Nhóm A).
+3. **Kiểm trên PDF render**: widow word (Quy tắc 13), khối chữ ký gãy trang (Quy tắc 14).
+4. **Xuất ẢNH GHÉP** `/home/claude/work/qa/qa_sheet.png` — mọi trang trong 1 ảnh.
+
+**QA trực quan**: `view` **MỘT ảnh ghép `qa_sheet.png` là đủ** để soi tổng thể (header/số ký hiệu trang đầu, khối chữ ký trang cuối, ngắt trang, tràn lề). Chỉ mở ảnh trang riêng `qa-N.jpg` khi ảnh ghép phát hiện nghi vấn ở trang N, hoặc văn bản > 6 trang cần soi kỹ biểu/tiêu đề bảng lặp. Đây là file QA tạm — KHÔNG xuất PDF cho người dùng.
+
+**Vòng sửa lỗi**: khi FAIL, sửa theo **báo cáo TEXT** trước (đủ căn cứ định vị lỗi), chạy lại `qa_all.py` MỘT lần sau khi đã sửa hết — KHÔNG render/soi ảnh sau từng lỗi nhỏ. Khi tool view ảnh không truyền được nội dung, báo cáo text của `qa_all.py` là đủ căn cứ kết luận. KHÔNG giao file chưa qua `qa_all.py` PASS (hoặc PASS kèm WARN đã được cân nhắc).
+
+`qa_pdf_check.py` vẫn dùng được độc lập khi chỉ cần kiểm 4 mục thể thức; đã có PDF render sẵn thì thêm `--pdf <path>` để khỏi render lại. `validate.py` của skill docx public chỉ cần chạy khi qa_all báo nghi hỏng cấu trúc file.
 
 ### Bước 5: Đặt tên file chuẩn & trả file qua present_files
 

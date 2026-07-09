@@ -100,7 +100,7 @@ II.3. Điều chỉnh giảm diện tích (02): Bảo Hưng 2 (Phường Âu Lâ
 
 ### III. Rút khỏi quy hoạch (13 CCN, 310 ha)
 
-III.1. Đã thành lập (lưu ý: tiêu đề ghi "05" nhưng liệt kê 06): Đầm Hồng (các phường Yên Bái, Văn Phú, 16); Tây Cầu Mậu A (Xã Mậu A, 35); Đông Phố Mới (Phường Lào Cai, 3,5 - di dời do dự án đường sắt LC-HN-HP); Sơn Mãn (Phường Lào Cai, 7,5 - di dời do đường sắt); Bảo Hưng (Phường Âu Lâu, 75 - đã bãi bỏ QĐ thành lập tại QĐ 2100/QĐ-UBND ngày 24/10/2024); Võ Lao (Xã Võ Lao, 14).
+III.1. Đã thành lập (04 CCN còn theo dõi): Đầm Hồng (các phường Yên Bái, Văn Phú, 16); Tây Cầu Mậu A (Xã Mậu A, 35); Đông Phố Mới (Phường Lào Cai, 3,5 - di dời do dự án đường sắt LC-HN-HP); Sơn Mãn (Phường Lào Cai, 7,5 - di dời do đường sắt). *(Đã loại vĩnh viễn khỏi danh mục theo dõi: CCN Bảo Hưng — bãi bỏ QĐ thành lập tại QĐ 2100/QĐ-UBND ngày 24/10/2024 — và CCN Võ Lao; nguyên văn QĐ 525 mục III liệt kê 06 CCN đã thành lập.)*
 
 III.2. Chưa thành lập (07): Bảo Hà (Xã Bảo Hà, 14); Si Ma Cai (Xã Si Ma Cai, 7); Trung Chải (Xã Tả Phìn, 15); Trạm Tấu (Xã Phình Hồ, 10); Bắc Hà (Xã Bắc Hà, 8); Thống Nhất 2 (Xã Gia Phú, 75 - chuyển thành KCN Thống Nhất); Thống Nhất 3 (Xã Gia Phú, 30 - chuyển thành KCN Thống Nhất).
 

@@ -87,18 +87,27 @@ class TemplateDoc:
         """
         Sửa text trong paragraph, GIỮ NGUYÊN các run chứa shape (drawing).
         - Ghép text từ các text-run (bỏ qua shape-run)
-        - Replace pattern → text mới
+        - So khớp SAU KHI chuẩn hóa Unicode NFC ở CẢ HAI phía (bài học
+          09/7/2026 — vụ V/v nổ mìn: file mẫu thật lưu tiếng Việt dạng NFD
+          (dấu tách rời, vd 'ị' = 'i' + U+0323) trong khi pattern Claude gõ
+          là NFC → `pattern in full_text` trượt và replace thất bại IM LẶNG,
+          để lọt nguyên trích yếu vụ cũ ra bản trình ký)
+        - Replace pattern → text mới (output chuẩn NFC)
         - Gán new_text vào text-run CHỦ ĐẠO (text dài nhất — giữ đúng
           định dạng tường minh w:sz/w:i, xem _dominant_run)
         - Xóa text các text-run còn lại (KHÔNG động vào shape-run)
         """
+        import unicodedata
         text_runs = cls._get_text_runs(paragraph)
         if not text_runs:
             return False
-        full_text = ''.join(run.text for run in text_runs)
-        if pattern not in full_text:
+        full_text = unicodedata.normalize(
+            'NFC', ''.join(run.text for run in text_runs))
+        pattern_nfc = unicodedata.normalize('NFC', pattern)
+        if pattern_nfc not in full_text:
             return False
-        new_text = cls._norm_inline(full_text.replace(pattern, replacement))
+        replacement_nfc = unicodedata.normalize('NFC', replacement)
+        new_text = cls._norm_inline(full_text.replace(pattern_nfc, replacement_nfc))
         target = cls._dominant_run(text_runs)
         for run in text_runs:
             run.text = new_text if run is target else ''
@@ -124,11 +133,24 @@ class TemplateDoc:
     # API SỬA NỘI DUNG
     # ============================================================
 
-    def replace_in_paragraph(self, idx, pattern, replacement):
-        """Sửa text trong paragraph thứ idx (đếm từ 0)."""
+    def replace_in_paragraph(self, idx, pattern, replacement, required=True):
+        """
+        Sửa text trong paragraph thứ idx (đếm từ 0).
+
+        required=True (MẶC ĐỊNH): pattern không khớp → raise ValueError kèm
+        text thật của paragraph để sửa pattern ngay. Bài học 09/7/2026:
+        replace trượt trong im lặng đã để lọt nội dung vụ cũ ra bản trình ký.
+        Chỉ truyền required=False khi pattern là TÙY CHỌN có chủ đích.
+        """
         if idx >= len(self.doc.paragraphs):
             raise IndexError(f'Không có paragraph {idx}')
-        return self._replace_text_in_paragraph(self.doc.paragraphs[idx], pattern, replacement)
+        ok = self._replace_text_in_paragraph(self.doc.paragraphs[idx], pattern, replacement)
+        if not ok and required:
+            actual = ''.join(r.text for r in self.doc.paragraphs[idx].runs)
+            raise ValueError(
+                f"REPLACE TRƯỢT ở paragraph {idx}: pattern {pattern!r} "
+                f"không khớp. Text thật: {actual!r}")
+        return ok
 
     def set_paragraph_text(self, idx, new_text):
         """Đặt toàn bộ nội dung paragraph thứ idx."""
@@ -136,11 +158,26 @@ class TemplateDoc:
             raise IndexError(f'Không có paragraph {idx}')
         self._set_paragraph_text(self.doc.paragraphs[idx], new_text)
 
-    def replace_in_cell(self, table_idx, row, col, pattern, replacement):
-        """Sửa text trong ô bảng (table[table_idx].rows[row].cells[col])."""
+    def replace_in_cell(self, table_idx, row, col, pattern, replacement, required=True):
+        """
+        Sửa text trong ô bảng (table[table_idx].rows[row].cells[col]).
+
+        required=True (MẶC ĐỊNH): pattern không khớp ở paragraph nào của ô
+        → raise ValueError kèm text thật của ô. Bài học 09/7/2026 (vụ V/v
+        nổ mìn): bản cũ trả về None bất kể kết quả, replace trượt vì lệch
+        Unicode NFC/NFD mà không ai hay → nội dung vụ cũ lọt ra bản trình ký.
+        Chỉ truyền required=False khi pattern là TÙY CHỌN có chủ đích.
+        """
         cell = self.doc.tables[table_idx].rows[row].cells[col]
+        ok = False
         for p in cell.paragraphs:
-            self._replace_text_in_paragraph(p, pattern, replacement)
+            if self._replace_text_in_paragraph(p, pattern, replacement):
+                ok = True
+        if not ok and required:
+            raise ValueError(
+                f"REPLACE TRƯỢT ở table {table_idx} cell ({row},{col}): "
+                f"pattern {pattern!r} không khớp. Text thật của ô: {cell.text!r}")
+        return ok
 
     def replace_in_cell_paragraph(self, table_idx, row, col, para_idx, pattern, replacement):
         """Sửa text trong một paragraph cụ thể trong ô bảng."""

@@ -150,9 +150,55 @@ def make_contact_sheet(pdf: Path, dpi: int):
     return pages, sheet
 
 
+def _docx_all_text_nfc(docx_path):
+    """Toàn bộ text của .docx (paragraph + mọi ô bảng), chuẩn hóa NFC."""
+    import unicodedata
+    from docx import Document
+    d = Document(str(docx_path))
+    parts = [p.text for p in d.paragraphs]
+    for t in d.tables:
+        for row in t.rows:
+            for c in row.cells:
+                parts.append(c.text)
+    return unicodedata.normalize("NFC", "\n".join(parts))
+
+
+def check_content_lists(docx_path, forbid, require):
+    """
+    Đối chiếu NỘI DUNG theo danh sách (bài học 09/7/2026 — vụ V/v nổ mìn:
+    thể thức PASS nhưng trích yếu vẫn là vụ cũ vì replace trượt im lặng).
+    - forbid: chuỗi vụ cũ KHÔNG được còn (tên DN, trích yếu, CN(tên) cũ...)
+    - require: chuỗi vụ mới BẮT BUỘC có (số CV đến, tên người ký, CN(tên)...)
+    So khớp sau chuẩn hóa NFC hai phía.
+    """
+    import unicodedata
+    msgs = []
+    text = _docx_all_text_nfc(docx_path)
+    for w in forbid:
+        if unicodedata.normalize("NFC", w) in text:
+            msgs.append(f"còn dấu vết vụ cũ / chuỗi cấm: {w!r}")
+    for w in require:
+        if unicodedata.normalize("NFC", w) not in text:
+            msgs.append(f"thiếu nội dung bắt buộc: {w!r}")
+    return msgs
+
+
+def _collect_list_arg(args, flag):
+    """Gom giá trị sau --forbid/--require tới flag kế tiếp; loại khỏi args."""
+    vals = []
+    while flag in args:
+        i = args.index(flag)
+        args.pop(i)
+        while i < len(args) and not args[i].startswith("--"):
+            vals.append(args.pop(i))
+    return vals
+
+
 def main():
     t0 = time.time()
     args = sys.argv[1:]
+    forbid_list = _collect_list_arg(args, "--forbid")
+    require_list = _collect_list_arg(args, "--require")
     if not args:
         print(__doc__)
         sys.exit(2)
@@ -179,6 +225,9 @@ def main():
         fails.append(("HDR-BR", msg))
     for msg in check_body_format(docx_path):
         warns.append(("BODY", msg))
+    if forbid_list or require_list:
+        for msg in check_content_lists(docx_path, forbid_list, require_list):
+            fails.append(("CONTENT", msg))
 
     # ── 2. check_document.py (nội dung: hiệu lực VBQPPL, từ suy đoán…) ─
     cd_code, cd_lines = run_check_document(docx_path)

@@ -85,7 +85,7 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 
 Mục tiêu: văn bản thường (công văn, tờ trình ≤ 3 trang) xong trong **3-4 lượt tool**: (1) viết script build, (2) một lệnh bash `build && qa_all`, (3) view 1 ảnh ghép, (4) copy outputs + present_files. Cụ thể:
 1. **Không chạy inspect template** khi `reference/templates-chi-tiet.md` đã có chỉ số (Bước 2).
-2. **Nối build + QA trong MỘT lệnh bash**: `python3 build.py && python3 scripts/qa_all.py output/<file>.docx`. Không tách validate/render/qa thành các lượt riêng.
+2. **Nối build + QA trong MỘT lệnh bash**: `python3 build.py && python3 scripts/qa_all.py output/<file>.docx --forbid "<chuỗi vụ cũ>" ... --require "<chuỗi vụ mới>" ...`. Không tách validate/render/qa thành các lượt riêng. Với Chế độ B trên mẫu thật, `--forbid`/`--require` là BẮT BUỘC (Quy tắc bất biến 17).
 3. **Render PDF đúng 1 lần mỗi vòng** — `qa_all.py` tự lo; không tự gọi soffice/pdftoppm rời nữa.
 4. **View đúng 1 ảnh ghép** `qa_sheet.png`; chỉ mở ảnh trang lẻ khi có nghi vấn cụ thể.
 5. **Sửa lỗi theo báo cáo text, gom hết rồi mới render lại** — không lặp render/view sau từng lỗi nhỏ.
@@ -307,6 +307,18 @@ Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức v
 12. **Dòng "Số: .../..." và dòng "Địa danh, ngày ... tháng ... năm ..." cỡ 13pt tường minh, dòng ngày in nghiêng**: đặt `w:sz`/`w:szCs` = 26 trực tiếp trên run (không dựa vào kế thừa style Normal 14pt); dòng ngày giữ `<w:i/>`. Khi copy mẫu thật mà mẫu chưa đặt tường minh thì bổ sung.
 13. **Không để 1 chữ đơn độc rơi xuống dòng (widow word)** — trong ô V/v của header lẫn mọi đoạn nội dung: co chữ bằng character spacing condensed (`w:spacing` trong `rPr`, giá trị âm, thường -4 đến -8 twentieths of a point) để chữ lẻ lên dòng trên, hoặc nới cho 2-3 chữ cùng xuống. QA tự động sau render: quét PDF bằng `pdftotext -layout` tìm dòng chỉ có 1 từ đứng cuối đoạn (xem `scripts/qa_pdf_check.py`).
 14. **Khối chữ ký không được gãy giữa 2 trang** (chức danh một trang, tên người ký trang sau): (a) đặt `<w:cantSplit/>` trong `trPr` của hàng bảng chữ ký để hàng không bị tách; (b) nếu cantSplit đẩy cả khối sang trang mới để lại trang trước hụt, thì **co giãn toàn văn bản** cho khối ký về nằm trọn trang trước: giảm space before/after các đoạn body 6pt → 4pt (hoặc 3pt), có thể bớt 1-2 paragraph trống trong khối ký (giữ tối thiểu 4 dòng trống cho chữ ký tay); (c) QA phân trang bằng `pdftotext`: tên người ký phải cùng trang với "KT. GIÁM ĐỐC"/"TM. ..." (xem `scripts/qa_pdf_check.py`).
+
+15. **Unicode NFC/NFD — so khớp text file docx PHẢI chuẩn hóa NFC hai phía** (vụ thật 09/7/2026 — CV Yên Hợp gửi Sở Tài chính): nhiều file mẫu thật lưu tiếng Việt dạng **NFD** (dấu tách rời: `ị` = `i` + `U+0323`) trong khi chuỗi Claude gõ là NFC → `pattern in text` trượt. `fill_template.py` đã NFC-normalize sẵn ở tầng `_replace_text_in_paragraph`; khi tự viết code so khớp/assert ngoài TemplateDoc (grep nội dung, kiểm tra forbidden strings...), LUÔN `unicodedata.normalize('NFC', ...)` cả hai phía.
+16. **Mọi lệnh replace là BẮT BUỘC KHỚP, thất bại phải nổ to** (cùng vụ 09/7/2026: `replace_in_cell` trượt im lặng → trích yếu V/v vụ nổ mìn cũ lọt ra bản trình ký dù QA thể thức PASS): `replace_in_cell`/`replace_in_paragraph` từ v2.2.0 mặc định `required=True` — pattern không khớp là raise `ValueError` kèm text thật để sửa pattern ngay. Chỉ truyền `required=False` khi pattern là tùy chọn CÓ CHỦ ĐÍCH. KHÔNG bọc try/except để nuốt lỗi này.
+17. **QA nội dung bằng `--forbid`/`--require` là BẮT BUỘC với Chế độ B trên mẫu thật** (chốt chặn thứ hai, độc lập với assertion trong build script): 
+   ```bash
+   python3 scripts/qa_all.py output/<file>.docx \
+     --forbid "<trích yếu vụ cũ>" "<tên DN cũ>" "CN(<tên người soạn cũ>)" "<người ký cũ nếu khác>" \
+     --require "<số CV đến>" "<ngày CV đến>" "CN(<tên người soạn mới>)" "<người ký mới>"
+   ```
+   Danh sách forbid tối thiểu = các chuỗi đặc trưng của vụ việc trong mẫu gốc (đọc mẫu trước khi build là có ngay); require tối thiểu = số/ngày văn bản đến, `CN(tên)`, tên người ký. Thể thức PASS ≠ nội dung đúng — hai tầng kiểm khác nhau.
+18. **Người soạn thảo trong dòng Lưu = CHUYÊN VIÊN phụ trách lĩnh vực, KHÔNG mặc định CN(Trang)** (cùng vụ 09/7/2026): tra bảng "Chuyên viên ↔ lĩnh vực tham mưu" trong `sct-laocai-org-vn` (vd CCN/KCN → **Lê Quang Trung** → `CN(Trung)`; HHNH → theo bảng; ATTP → theo bảng). `CN(Trang)` CHỈ dùng khi Bạn (PTP) nói rõ tự soạn. Không rõ lĩnh vực của ai → hỏi, không đoán.
+19. **Văn bản đến là PDF (kể cả đã thấy nội dung trong context) → PHẢI chạy `extract_metadata.py` TRƯỚC khi dẫn chiếu số/ngày** (cùng vụ 09/7/2026: context hiển thị "Số: /UBND-KT" trống, đĩa có đủ **857/UBND-KT ngày 08/7/2026**): ô số/ngày trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "văn bản chưa cấp số". Nếu script cũng không đọc được số → để trống và NÓI RÕ với Bạn, không tự điền "số .../...".
 
 ## Demo có sẵn
 

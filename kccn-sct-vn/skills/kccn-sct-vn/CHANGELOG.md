@@ -1,5 +1,12 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.3.1 — 2026-07-09 (loại 02 CCN khỏi danh mục theo dõi)
+
+### Cập nhật
+- `references/13-qd525-quy-hoach-tinh.md` (mục III.1): loại vĩnh viễn **CCN Bảo Hưng** (Phường Âu Lâu, 75 ha — đã bãi bỏ QĐ thành lập tại QĐ 2100/QĐ-UBND ngày 24/10/2024) và **CCN Võ Lao** (Xã Võ Lao, 14 ha) khỏi danh mục theo dõi; mục III.1 còn 04 CCN đã thành lập (Đầm Hồng, Tây Cầu Mậu A, Đông Phố Mới, Sơn Mãn). Giữ chú thích đối chiếu: nguyên văn QĐ 525 mục III liệt kê 06 CCN đã thành lập. KHÔNG nhầm với CCN Bảo Hưng 2 (Phường Âu Lâu, 50 ha — vẫn trong quy hoạch) và KCN Võ Lao (giai đoạn 1, 500 ha — vẫn trong quy hoạch).
+- Đồng bộ với file theo dõi tọa độ `Toa_do_KCN_CCN_Lao_Cai_sapxep.xlsx` (danh mục còn 22 KCN + 60 CCN).
+
+
 ## v1.3.0 — 2026-07-06 (cập nhật 03 KCN được chấp thuận chủ trương đầu tư)
 
 ### Thêm mới

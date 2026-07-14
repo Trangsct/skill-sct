@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 14/7/2026 — Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026
+
+- **sct-laocai-org-vn v2.0**: viết lại mục "Cơ cấu nội bộ Phòng QLCN" — 1 TP + 3 PTP (Nguyễn Hồng Vân, Trần Trọng Trang, Đỗ Mạnh Cường) + 10 CV; VLNCN/CCN/KHCN-ĐMST CN → TP trực tiếp; VLNCN → CN(Khôi); ATTP → CN(Nam); chất lượng SPHH → CN(Dương); chế độ báo cáo nội bộ; bảng liên kết hệ sinh thái.
+- **sd-vlncn-sct-vn 2026.7.14 / kho-vlncn-sct-vn 1.4.1 / hl-vlncn-sct-vn 1.0.1**: dòng Lưu VLNCN chuyển CN(Linh) → CN(Khôi).
+- **xd-sct-vn 1.1.1**: kiểm duyệt thẩm định/KTCTNT = PTP Vân; kho VLNCN phối hợp CN(Khôi).
+- **hnh-sct-vn 1.1.1**: ghi chú tách an toàn/tập huấn HHNH (CN Linh) và thụ lý cấp phép (CN Khôi, PTP Trang kiểm duyệt).
+
 ## 2026-07-14 — Thêm plugin tkm-sct-vn v1.2.0: chuyên viên cao cấp thẩm định thiết kế mỏ (2006–2026)
 - **Plugin mới**, cấu trúc chuẩn `<tên>/.claude-plugin/plugin.json` + `<tên>/skills/<tên>/`. Lõi: (a) bảng dòng thời gian pháp lý 6 thời kỳ TT 03/2007/TT-BCN → 33/2012 → 26/2016 → 31/2025/TT-BCT đan với Luật XD 2003/50-2014/135-2025 và NĐ 16/2005→12/2009→59/2015→15/2021→175/2024→217/2026 (đã xác minh web đến từng ngày ban hành); (b) GATE GIAI ĐOẠN chống trộn căn cứ hai thời kỳ; (c) 3 phép thử thẩm quyền theo nhóm khoáng sản I–IV (NĐ 193/2025 + 21/2026, đá hoa trắng → SXD từ 02/7/2025); (d) chuyển tiếp kép: khoản 5 Điều 76 NĐ 217/2026 (chấm dứt - trả hồ sơ, mẫu thật đập 1 Sin Quyền 7/2026) và Điều 4 TT 31/2025 (trình trước 01/7/2025 chưa có TB KQ → theo TT 26/2016).
 - **`van-ban-goc/`**: toàn văn TT 31/2025 bản Unicode (.docx, thân 6 điều + đủ 10 Phụ lục) + bản .doc gốc moit.gov.vn + BC 452/BC-TTCP 26/02/2026 (scan gốc, 10MB) — thanh tra chuyên đề mỏ VLXD toàn quốc, thời kỳ 01/01/2019–30/6/2024 (trang 2 bản gốc in nhầm "2029"), chưng cất tại reference 09 thành bản đồ rủi ro hậu kiểm + 24 kiến nghị chính sách.

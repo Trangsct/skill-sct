@@ -1,5 +1,8 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.7.14] - 14/7/2026
+- Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: chuyên viên VLNCN/PANM/tiền chất thuốc nổ = **Trần Đăng Khôi** (CN(Khôi)); VLNCN do TP Nguyễn Hữu Long trực tiếp chỉ đạo; văn bản trước 6/7/2026 giữ CN(Linh) đúng lịch sử.
+
 ## v1.0 — 04/7/2026
 Phát hành lần đầu. Plugin cấp Giấy phép sử dụng VLNCN + phê duyệt Phương án nổ mìn (PANM), Sở Công Thương tỉnh Lào Cai — tiếp nối plugin kho-vlncn-sct-vn.
 

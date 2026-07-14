@@ -1,5 +1,8 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.0.1] - 14/7/2026
+- Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: mặc định dòng Lưu hồ sơ huấn luyện KTAT VLNCN = **CN(Khôi)**; ví dụ thực tế trước 6/7/2026 giữ CN(Linh) đúng lịch sử.
+
 ## v1.0.0 — 04/7/2026
 - Phát hành lần đầu. Phạm vi: huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN & TCTN (Sở Công Thương Lào Cai, ủy quyền QĐ 1883/QĐ-UBND ngày 06/11/2025).
 - SKILL.md: 5 nghiệp vụ; thẩm quyền; 2 quy trình lõi (người quản lý / đối tượng khác); 12 anti-error đúc kết từ hồ sơ thật 2025–2026.

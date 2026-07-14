@@ -65,7 +65,7 @@ Có → SCT có thể là CQCM về xây dựng. Gồm: kho VLNCN, nhà máy - k
 | Nghiệp vụ | Căn cứ | Chuyên viên QLCN |
 |---|---|---|
 | Thẩm định BCNCKT/BCKTKT, thiết kế XD sau TK cơ sở của dự án ĐTXD công trình công nghiệp | Đ26-27, 29 Luật 135/2025; Đ31-43 NĐ 217/2026; **Đ7 QĐ 11/2026** | **Ngô Ngọc Dũng — CN(Dũng)** |
-| Kiểm tra công tác nghiệm thu (KTCTNT) công trình chuyên ngành công nghiệp | Đ57 Luật 135/2025; **Đ25-27 NĐ 207/2026**; **Đ17 QĐ 11/2026** | CN(Dũng) (kho VLNCN: đồng thời CN(Linh)) |
+| Kiểm tra công tác nghiệm thu (KTCTNT) công trình chuyên ngành công nghiệp | Đ57 Luật 135/2025; **Đ25-27 NĐ 207/2026**; **Đ17 QĐ 11/2026** | CN(Dũng) (kho VLNCN: đồng thời CN(Khôi) từ 10/7/2026; trước đó CN(Linh)) |
 | Giám định nguyên nhân, giải quyết sự cố công trình công nghiệp | Đ55 Luật 135/2025; Đ45-49 NĐ 207/2026; Đ18 QĐ 11/2026 | CN(Dũng) |
 
 **Câu 3 — Cấp nào?** (bộ / tỉnh / xã) → mục IV.
@@ -90,7 +90,7 @@ Có → SCT có thể là CQCM về xây dựng. Gồm: kho VLNCN, nhà máy - k
 
 - Lĩnh vực **thẩm định công trình công nghiệp** thuộc **PGĐ Hoàng Văn Thuân** phụ trách (tham gia quản lý dự án CN) → văn bản thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân**. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền (cân nhắc theo vụ việc).
 - PTP QLCN phụ trách "tham gia quản lý các dự án công nghiệp": **Trần Trọng Trang**.
-- **Lưu VT, CN(tên):** văn bản về thẩm định BCNCKT/BCKTKT/thiết kế, KTCTNT, sự cố công trình công nghiệp → **CN(Dũng)** — Ngô Ngọc Dũng. Riêng công trình **kho VLNCN**, khi nghiệp vụ đan xen VLNCN thì phối hợp CN(Linh) — Vũ Việt Linh (xem plugin `kho-vlncn-sct-vn`, `sd-vlncn-sct-vn`).
+- **Lưu VT, CN(tên):** văn bản về thẩm định BCNCKT/BCKTKT/thiết kế, KTCTNT, sự cố công trình công nghiệp → **CN(Dũng)** — Ngô Ngọc Dũng; kiểm duyệt nội bộ từ 10/7/2026: **PTP Nguyễn Hồng Vân** (thẩm định + KTCTNT thuộc phân công PTP Vân — xem skill `sct-laocai-org-vn`). Riêng công trình **kho VLNCN**, khi nghiệp vụ đan xen VLNCN thì phối hợp **CN(Khôi)** — Trần Đăng Khôi (từ 10/7/2026; trước đó CN(Linh) — Vũ Việt Linh) (xem plugin `kho-vlncn-sct-vn`, `sd-vlncn-sct-vn`).
 - Ký hiệu: công văn `/SCT-CN`; thông báo `/TB-SCT`; tờ trình `/TTr-SCT`; báo cáo `/BC-SCT`; QĐ UBND `/QĐ-UBND`.
 
 ## VI. QUY TRÌNH TỔNG THỂ (công trình công nghiệp — SCT là CQCM về xây dựng)

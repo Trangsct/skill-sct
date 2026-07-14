@@ -1,5 +1,8 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.4.1] - 14/7/2026
+- Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: dòng Lưu GP sử dụng VLNCN/PANM chuyển CN(Linh) → **CN(Khôi)**; cập nhật thành phần đoàn kiểm tra; chuẩn hoá tên PTP **Đỗ Mạnh Cường**.
+
 ## v1.4 — 04/7/2026
 - Rút gọn description trong SKILL.md xuống 724 ký tự / 898 byte (giới hạn validator claude.ai: 1024). Toàn văn mô tả dài chuyển vào mục I SKILL.md, không mất nội dung kích hoạt.
 - Bổ sung script tự kiểm tra mô phỏng validator (tên kebab-case, description ≤1024 ký tự và byte, đường dẫn 100% ASCII, frontmatter hợp lệ) — chạy trước mọi lần đóng gói sau này.

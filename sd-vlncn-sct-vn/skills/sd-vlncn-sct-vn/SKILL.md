@@ -52,7 +52,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 ## IV. NGƯỜI KÝ, NGƯỜI SOẠN (khớp `sct-laocai-org-vn` + thực tiễn đã ban hành)
 
 - Lĩnh vực VLNCN thuộc **PGĐ Hoàng Văn Thuân** phụ trách → công văn, báo cáo UBND tỉnh của Sở thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân**. Tờ trình UBND tỉnh: cân nhắc GĐ Hoàng Chí Hiền với vụ việc lớn.
-- **Lưu: VT, CN(Linh)** — Vũ Việt Linh là chuyên viên tham mưu GP sử dụng VLNCN + PANM (đã xác minh từ Phiếu trình thực tế). Một số văn bản đôn đốc chung dùng CN(M.Cường) — Đỗ Mạnh Cương, Phó TP QLCN; mặc định dùng CN(Linh), hỏi Bạn nếu khác.
+- **Lưu: VT, CN(Khôi)** — từ **10/7/2026** (Thông báo phân công nội bộ Phòng QLCN, xem skill `sct-laocai-org-vn`), chuyên viên tham mưu GP sử dụng VLNCN + PANM + tiền chất thuốc nổ là **Trần Đăng Khôi**; VLNCN do **Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo**. Văn bản trước 6/7/2026 dùng CN(Linh) — Vũ Việt Linh (đúng lịch sử, không sửa lại). Một số văn bản đôn đốc chung dùng CN(M.Cường) — Đỗ Mạnh Cường, Phó TP QLCN. Mặc định từ nay dùng CN(Khôi), hỏi Bạn nếu khác.
 - Văn bản UBND tỉnh (GP, QĐ PANM, QĐ điều chỉnh): **CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI** là chủ thể ban hành, ký **KT. CHỦ TỊCH / PHÓ CHỦ TỊCH Nguyễn Thành Sinh**; nơi nhận có "CVP, PCVP UBND tỉnh (Bích)", "Lưu: VT, TTPVHCC, KT.".
 - Ký hiệu: giấy phép và QĐ điều chỉnh GP dùng `/GP-UBND`; QĐ phê duyệt PANM `/QĐ-UBND`; tờ trình `/TTr-SCT`; công văn `/SCT-CN`.
 

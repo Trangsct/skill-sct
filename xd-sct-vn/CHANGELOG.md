@@ -1,5 +1,8 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.1.1] - 14/7/2026
+- Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: kiểm duyệt nội bộ thẩm định/KTCTNT = **PTP Nguyễn Hồng Vân**; phối hợp kho VLNCN chuyển CN(Linh) → **CN(Khôi)**.
+
 ## v1.1.0 (04/7/2026)
 Bổ sung văn bản gốc và nội dung cấp công trình để plugin tự đủ, không phải tải thêm khi làm việc.
 - **Thêm TT 34/2026/TT-BXD ngày 25/6/2026** (cấp công trình xây dựng, thay TT 06/2021) — bản docx gốc trong van-ban-goc/.

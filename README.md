@@ -18,6 +18,7 @@ Kho lưu trữ và theo dõi lịch sử thay đổi của 8 skill dùng cho cô
 
 Trình upload plugin của Claude từ chối gói nếu vi phạm. Trước khi zip, LUÔN kiểm:
 
+0. **`description` trong `.claude-plugin/plugin.json` ≤ 500 ký tự** (giới hạn RIÊNG của plugin.json, chặt hơn SKILL.md — lỗi thật 14/7/2026 khi upload tkm-sct-vn 870 ký tự: "Plugin description must be at most 500 characters").
 1. **`description` trong frontmatter SKILL.md ≤ 1024 ký tự** (đếm theo ký tự, tiếng Việt có dấu tính 1 ký tự/chữ). Đây là lỗi hay gặp nhất. Lệnh kiểm nhanh toàn repo:
    ```bash
    python3 -c "

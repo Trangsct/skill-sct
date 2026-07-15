@@ -213,13 +213,13 @@ Tham mưu Giám đốc Sở về:
 | ATTP, CN tiêu dùng/thực phẩm/chế biến khác | Nam (+ Dương phối hợp) | **PTP Trang** | |
 | Chất lượng SPHH, SXTD bền vững | Dương (+ Nam phối hợp) | **PTP Trang** | |
 | BVMT, CN môi trường, sát hạch KTAT khai thác KS | M.Long | **PTP Trang** | |
-| An toàn ngành, HHNH, kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ | Linh | **PTP Trang** | |
+| An toàn ngành, HHNH (toàn bộ), kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ | Linh | **PTP Trang** | |
 | CN địa phương | Trung (+ Cường phối hợp) | **PTP Đ.M.Cường** | |
 | Cơ khí - điện tử, CN hỗ trợ, khuyến công, TTCN | Cường (CV) | **PTP Đ.M.Cường** | |
 
-⚠️ **Hai điểm Thông báo 10/7/2026 KHÔNG nêu đích danh — không tự gán, hỏi Bạn khi gặp:**
-1. **Khu công nghiệp**: Thông báo không nhắc KCN. Thực tiễn trước 10/7/2026 CV **Lê Quang Trung** theo dõi KCN/tham gia ý kiến dự án trong KCN. Khi soạn văn bản KCN, mặc định CN(Trung) nhưng **xác nhận lại với Bạn**.
-2. **Thẩm định cấp GP vận chuyển HHNH**: Thông báo chỉ gán cho CV Linh nội dung *an toàn - kiểm tra - tập huấn* HHNH; việc **thụ lý hồ sơ cấp GP vận chuyển HHNH** không nêu đích danh. Thực tiễn từ 6/7/2026 CV **Trần Đăng Khôi** thụ lý hồ sơ HHNH (dòng Lưu thực tế `CN(Khôi)`). Mặc định: cấp phép HHNH → CN(Khôi), an toàn/tập huấn HHNH → CN(Linh); **xác nhận với Bạn nếu văn bản quan trọng**.
+✅ **Hai điểm Thông báo 10/7/2026 không nêu đích danh — Bạn đã chốt ngày 15/7/2026:**
+1. **Khu công nghiệp**: CV **Lê Quang Trung** tiếp tục theo dõi KCN / tham gia ý kiến dự án trong KCN → dòng Lưu **CN(Trung)**.
+2. **HHNH (vận chuyển hàng hóa nguy hiểm)**: **toàn bộ về CV Vũ Việt Linh** — cả thụ lý hồ sơ cấp GP vận chuyển lẫn an toàn - kiểm tra - tập huấn → dòng Lưu **CN(Linh)**. Riêng giai đoạn **6/7 – 14/7/2026** hồ sơ HHNH do CN(Khôi) thụ lý — văn bản giai đoạn này giữ `CN(Khôi)` đúng lịch sử, không sửa lại.
 
 **Bảng routing trình Lãnh đạo Sở (kết hợp phân công BGĐ + phân công nội bộ 10/7/2026):**
 
@@ -229,7 +229,7 @@ Tham mưu Giám đốc Sở về:
 | VLNCN; tiền chất thuốc nổ | Khôi | TP Long | **PGĐ Hoàng Văn Thuân** |
 | Thẩm định dự án/công trình CN; KTCTNT | Dũng | PTP Vân → TP Long | **PGĐ Hoàng Văn Thuân** |
 | BVMT; CN môi trường | M.Long | PTP Trang → TP Long | **PGĐ Hoàng Văn Thuân** |
-| An toàn ngành; HHNH; kiểm định KTAT; ATVSLĐ; PCCC; thăm dò - đóng cửa mỏ | Linh (an toàn) / Khôi (cấp phép HHNH) | PTP Trang → TP Long | **PGĐ Hoàng Văn Thuân** |
+| An toàn ngành; HHNH (gồm cấp GP vận chuyển); kiểm định KTAT; ATVSLĐ; PCCC; thăm dò - đóng cửa mỏ | Linh | PTP Trang → TP Long | **PGĐ Hoàng Văn Thuân** |
 | PCTT-TKCN | Dũng (thường trực) | TP Long | **PGĐ Hoàng Văn Thuân** |
 | Luyện kim | Nhung (chế biến KS - luyện kim) / Cường (chính sách ngành cơ khí - luyện kim) | PTP Vân / PTP Đ.M.Cường | **PGĐ Hoàng Văn Thuân** |
 | ATTP; CN tiêu dùng/thực phẩm/chế biến khác; rượu - bia (về ATTP/CN) | Nam | PTP Trang → TP Long | **PGĐ Nguyễn Đình Chiến** |
@@ -259,11 +259,11 @@ Tham mưu Giám đốc Sở về:
 | Lê Quang Trung | CN(Trung) | CCN, CN địa phương (KCN: mặc định, xác nhận) |
 | Bùi Việt Cường | CN(Cường) — nếu cần phân biệt PTP Đỗ Mạnh Cường thì CV dùng **CN(V.Cường)** | Khuyến công, cơ khí - điện tử, CN hỗ trợ, TTCN |
 | Nguyễn Thị Thúy Nhung | CN(Nhung) | Khoáng sản (chế biến, luyện kim), tổng hợp báo cáo Phòng |
-| Vũ Việt Linh | CN(Linh) | An toàn ngành, HHNH (an toàn/tập huấn), kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ |
+| Vũ Việt Linh | CN(Linh) | An toàn ngành, **HHNH toàn bộ (cấp GP vận chuyển + an toàn/tập huấn — Bạn chốt 15/7/2026)**, kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ |
 | Ngô Ngọc Dũng | CN(Dũng) | Thẩm định công trình CN, KTCTNT, quy hoạch khoáng sản, hồ đập, PCTT |
 | Lê Minh Long | CN(M.Long) — quy ước tránh trùng tên TP Nguyễn Hữu Long | BVMT, CN môi trường, KNK/carbon |
 | Nguyễn Thị Loan | CN(Loan) | Hóa chất, tiền chất |
-| Trần Đăng Khôi | CN(Khôi) | VLNCN, tiền chất thuốc nổ, GCN huấn luyện KTAT, HHNH (cấp phép — thực tiễn), KHCN-ĐMST CN |
+| Trần Đăng Khôi | CN(Khôi) | VLNCN, tiền chất thuốc nổ, GCN huấn luyện KTAT, KHCN-ĐMST CN (HHNH chỉ trong giai đoạn 6/7–14/7/2026) |
 | Trần Trọng Trang (PTP tự soạn) | CN(Trang) | |
 
 ⚠️ **Hai cặp trùng tên:** (1) CV **Lê Minh Long** ↔ TP **Nguyễn Hữu Long** → CV dùng **CN(M.Long)**; (2) CV **Bùi Việt Cường** ↔ PTP **Đỗ Mạnh Cường** → khi văn bản do PTP trực tiếp soạn hoặc dễ nhầm, CV dùng **CN(V.Cường)**, PTP dùng **CN(M.Cường)** (đã có tiền lệ trong văn bản VLNCN thực tế).
@@ -411,7 +411,7 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - ❌ Ghi số văn bản cho Thông báo phân công nội bộ Phòng QLCN 10/7/2026 — thông báo này **không có số**; trích dẫn theo ngày + người ký (Trưởng phòng Nguyễn Hữu Long).
 - ❌ Dùng bản phân công nội bộ cũ (1 PTP, VLNCN → CV Linh, ATTP → CV Dương) cho văn bản soạn **từ 10/7/2026 trở đi** — từ ngày này: 3 PTP (Vân, Trang, Đ.M.Cường); **VLNCN → CN(Khôi)**; **ATTP → CN(Nam)**; **chất lượng SPHH → CN(Dương)**; khi TP vắng **PTP Vân** thường trực (không phải PTP Trang).
 - ❌ Trình dự thảo lĩnh vực khoáng sản/hóa chất/thẩm định công trình lên PTP Trang hoặc PTP Đ.M.Cường kiểm duyệt — các lĩnh vực này thuộc **PTP Nguyễn Hồng Vân**. CCN, VLNCN, KHCN-ĐMST CN do **Trưởng phòng trực tiếp** chỉ đạo, không qua PTP.
-- ❌ Tự gán chuyên viên cho việc **KCN** hoặc **thụ lý cấp GP vận chuyển HHNH** — Thông báo 10/7/2026 không nêu đích danh; dùng mặc định (KCN → Trung; cấp phép HHNH → Khôi; an toàn/tập huấn HHNH → Linh) và **xác nhận với Bạn**.
+- ❌ Gán hồ sơ cấp GP vận chuyển HHNH cho CN(Khôi) từ 15/7/2026 trở đi — Bạn đã chốt: **HHNH toàn bộ → CN(Linh)**; Khôi chỉ còn VLNCN/tiền chất thuốc nổ/GCN huấn luyện KTAT/KHCN-ĐMST CN. Văn bản HHNH giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử. KCN → CN(Trung) (đã xác nhận).
 
 ## Liên kết với các skill/plugin khác (hệ sinh thái Trangsct/skill-sct)
 
@@ -421,7 +421,7 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 |---|---|---|---|---|
 | **kccn-sct-vn** | CCN/KCN | CN(Trung) | TP Long trực tiếp (PTP Trang phối hợp) | Chiến |
 | **sd-vlncn-sct-vn**, **kho-vlncn-sct-vn**, **hl-vlncn-sct-vn** | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT, tiền chất thuốc nổ | **CN(Khôi)** (trước 6/7/2026 là CN(Linh) — văn bản cũ vẫn đúng lịch sử) | TP Long trực tiếp | Thuân |
-| **hnh-sct-vn** | GP vận chuyển HHNH | CN(Khôi) thụ lý cấp phép (thực tiễn); CN(Linh) an toàn/tập huấn | PTP Trang | Thuân |
+| **hnh-sct-vn** | GP vận chuyển HHNH | **CN(Linh)** — toàn bộ HHNH từ 15/7/2026 (giai đoạn 6/7–14/7/2026: CN(Khôi)) | PTP Trang | Thuân |
 | **hc-sct-vn** | Hóa chất, tiền chất | CN(Loan) | **PTP Vân** | Thuân |
 | **tkm-sct-vn**, **xd-sct-vn** | Thẩm định thiết kế mỏ, công trình CN, KTCTNT | CN(Dũng) | **PTP Vân** | Thuân |
 | **bvmt-sct-vn** | BVMT, CN môi trường, KNK | CN(M.Long) | PTP Trang | Thuân |
@@ -433,5 +433,6 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 
 ## CHANGELOG
 
+- **v2.0.1 (15/7/2026)**: chốt 2 điểm mở theo xác nhận của Bạn — **KCN → CN(Trung)**; **HHNH toàn bộ (cấp GP vận chuyển + an toàn/tập huấn) → CN(Linh)** từ 15/7/2026; giai đoạn 6/7–14/7/2026 hồ sơ HHNH giữ CN(Khôi) đúng lịch sử; đồng bộ bảng routing, dòng Lưu, liên kết hnh-sct-vn, mục sai lầm.
 - **v2.0 (14/7/2026)**: viết lại toàn bộ mục "Cơ cấu nội bộ Phòng QLCN" theo **Thông báo phân công ngày 10/7/2026** (TP Nguyễn Hữu Long ký, không số, hiệu lực 10/7/2026): 1 TP + **3 PTP** (Nguyễn Hồng Vân, Trần Trọng Trang, Đỗ Mạnh Cường) + 10 chuyên viên; VLNCN + CCN + KHCN-ĐMST CN → TP trực tiếp chỉ đạo; VLNCN chuyển CN(Linh) → **CN(Khôi)**; ATTP chuyển CN(Dương) → **CN(Nam)** (chuyên viên mới Lã Doãn Nam); Dương → chất lượng SPHH + SXTD bền vững; Linh → an toàn ngành/HHNH (an toàn)/kiểm định/PCCC/thăm dò - đóng cửa mỏ; thêm phân tầng duyệt theo PTP, chế độ báo cáo nội bộ (10h thứ Sáu/ngày 25/15-01/đoàn kiểm tra 01-03 ngày), 2 điểm mở (KCN, thụ lý cấp GP HHNH) phải hỏi Bạn; quy ước CN(V.Cường)/CN(M.Cường) tránh trùng tên; bảng liên kết hệ sinh thái plugin kèm nguyên tắc single source of truth; 4 mục sai lầm mới.
 - **v1.x (đến 02/2026)**: bản theo phân công nội bộ cũ (1 PTP Trần Trọng Trang) + Dự thảo Lần 4 phân công BGĐ.

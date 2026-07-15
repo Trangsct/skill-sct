@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 15/7/2026 — Chốt 2 điểm mở phân công (xác nhận của Bạn)
+
+- **sct-laocai-org-vn v2.0.1**: KCN → CN(Trung); **toàn bộ HHNH → CN(Linh)** từ 15/7/2026 (giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử).
+- **hnh-sct-vn 1.1.2**: chuyên viên thụ lý GP vận chuyển HHNH = CN(Linh), kiểm duyệt PTP Trần Trọng Trang.
+
 ## 14/7/2026 — Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026
 
 - **sct-laocai-org-vn v2.0**: viết lại mục "Cơ cấu nội bộ Phòng QLCN" — 1 TP + 3 PTP (Nguyễn Hồng Vân, Trần Trọng Trang, Đỗ Mạnh Cường) + 10 CV; VLNCN/CCN/KHCN-ĐMST CN → TP trực tiếp; VLNCN → CN(Khôi); ATTP → CN(Nam); chất lượng SPHH → CN(Dương); chế độ báo cáo nội bộ; bảng liên kết hệ sinh thái.

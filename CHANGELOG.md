@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 20/7/2026 — Thêm plugin qlks-sct-vn v1.1.0: quản lý nhà nước về khoáng sản
+
+- **Plugin mới** (v1.0.0 ngày 17/7 + nâng cấp v1.1.0 ngày 20/7), cấu trúc chuẩn. Lõi: (a) ma trận phân vai SCT - SNNMT - SXD - Thuế - Công an - xã theo TT 37/2025/TT-BCT + KH Chỉ thị 11-CT/TU + CV 5973/UBND-KT; (b) GATE 6 mốc: 01/7/2025 (Luật 54/2024) → **12/6/2025 NĐ 136/2025 Đ34 nhóm II về Chủ tịch tỉnh** → 01/01/2026 (Luật 147/2025) → 16/01/2026 (NĐ 21/2026) → 18/5/2026 (NQ 66.19 phân quyền 9 nhóm TTHC) + cấp đổi GP 36 tháng; (c) 7 nghiệp vụ: phân vai, KH quản lý rủi ro (TT 24/2025, hầm lò 7 ngày sau TT 26/2026), GCN KTAT khai thác hầm lò (TT 43/2025 — phân biệt GCN KTAT VLNCN của hl-vlncn), chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng qua chỉ tiêu thuốc nổ đơn vị, kiểm tra - tham mưu đình chỉ (10 nhóm tồn tại phải dừng khai thác theo hướng dẫn SNNMT 8/2025), rà chồng lấn khoáng sản khi thẩm định dự án/CCN (4 lớp QĐ 866 - 1626 - 525 - 1277/QĐ-TTg; case CCN Báo Đáp chồng 2 ha mỏ Caolanh - felspat theo CV 6791/SNNMT-KHTC 17/7/2026).
+- **13 references, 6 mẫu văn bản, 2 checklist**; `du-lieu/` 3 CSV (208 GP khai thác 31/10/2025, 43 GP thăm dò Yên Bái 6/2025, theo dõi pháp lý 209 mỏ 4/2026 với cột TKM/GĐĐH/trạm cân/GP VLN); `van-ban-goc/` 19 file (TT 24/43/67/2025, TT 26/2026, NQ 66.19 toàn văn + PL VIII, Luật 147, NĐ 21/2026, BC UBND tỉnh QLNN khoáng sản năm 2025 — nguồn số liệu chính thức 178 GP còn hiệu lực = 70 Bộ + 108 tỉnh, 4 kết luận thanh tra 2025, 6 nhóm vướng mắc đã kiến nghị Bộ).
+- Reference 11 + 12: bản đồ liên kết 13 plugin, ranh giới tinh với tkm (thẩm định vs kiểm tra tuân thủ thiết kế), hl-vlncn (2 loại GCN KTAT), sd-vlncn (VLNCN phù hợp công suất), kccn (ý kiến khoáng sản trong thẩm định CCN 2 chiều).
+- Đã áp quy tắc validate: description plugin.json 495 ký tự (≤500), SKILL.md description 1018 ký tự (≤1024).
+
 ## 15/7/2026 — Chốt 2 điểm mở phân công (xác nhận của Bạn)
 
 - **sct-laocai-org-vn v2.0.1**: KCN → CN(Trung); **toàn bộ HHNH → CN(Linh)** từ 15/7/2026 (giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử).

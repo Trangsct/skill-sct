@@ -13,6 +13,7 @@ Kho lưu trữ và theo dõi lịch sử thay đổi của 8 skill dùng cho cô
 | `sct-laocai-org-vn` | Cơ cấu tổ chức, phân công BGĐ và chuyên viên |
 | `vbhc-pdf-reader-vn` | Trích metadata PDF văn bản hành chính |
 | `tkm-sct-vn` | Thẩm định thiết kế mỏ khoáng sản 20 năm (2006–2026), toàn văn TT 31/2025, BC 452/BC-TTCP, liên kết trọn vòng đời dự án mỏ |
+| `qlks-sct-vn` | QLNN về khoáng sản: phân vai liên ngành, KH quản lý rủi ro, GCN KTAT hầm lò, chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng, rà chồng lấn khi thẩm định CCN, dữ liệu 178 GP + báo cáo năm 2025 |
 
 ## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
 

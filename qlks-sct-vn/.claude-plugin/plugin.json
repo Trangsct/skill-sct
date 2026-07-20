@@ -1,7 +1,7 @@
 {
   "name": "qlks-sct-vn",
   "version": "1.1.0",
-  "description": "Quản lý nhà nước về khoáng sản của Sở Công Thương tỉnh Lào Cai: phân vai liên ngành theo TT 37/2025/TT-BCT và Chỉ thị 11-CT/TU; GATE chuyển tiếp Luật 54/2024 - Luật 147/2025 - NĐ 193/2025 - NĐ 21/2026 - NQ 66.19/2026; kế hoạch quản lý rủi ro (TT 24/2025); kỹ thuật an toàn, GCN huấn luyện khai thác KS hầm lò (TT 43/2025, TT 26/2026); chế biến khoáng sản, nguồn gốc; đối chiếu VLNCN - sản lượng; kiểm tra, tham mưu đình chỉ, báo cáo; rà chồng lấn khoáng sản khi thẩm định dự án, CCN; kèm dữ liệu 178 GP khai thác còn hiệu lực 31/12/2025 và số liệu nền báo cáo năm 2025.",
+  "description": "Quản lý nhà nước về khoáng sản của Sở Công Thương Lào Cai: phân vai liên ngành (TT 37/2025, Chỉ thị 11-CT/TU); GATE Luật 54/2024 - 147/2025 - NĐ 193/2025 - 21/2026 - 136/2025 - NQ 66.19/2026; kế hoạch quản lý rủi ro (TT 24/2025); GCN kỹ thuật an toàn khai thác hầm lò (TT 43/2025); chế biến, nguồn gốc khoáng sản; đối chiếu VLNCN - sản lượng; kiểm tra, tham mưu đình chỉ; rà chồng lấn khoáng sản khi thẩm định dự án, CCN; dữ liệu 178 giấy phép khai thác còn hiệu lực và số liệu nền báo cáo năm 2025.",
   "author": {
     "name": "Trần Trọng Trang"
   },

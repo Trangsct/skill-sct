@@ -126,8 +126,10 @@ Mã TTHC đã công bố: cấp mới 1.014967; cấp điều chỉnh 1.014968; 
 ## IV-a. VÍ DỤ THỰC TẾ KÈM THEO (`vi-du-thuc-te/`) - MỚI 7/2026
 
 Ba nhóm ví dụ thực tế, ưu tiên dùng làm bản gốc khi soạn văn bản (Chế độ B):
-- `giay-phep-da-cap/` - 2 Giấy phép Sở đã phát hành tháng 7/2026 (Thái Thịnh loại 3; Sợi Phương Nam NH3 loại 2 xuyên biên giới, 16 xe biển Trung Quốc). ĐÂY LÀ MẪU GIẤY PHÉP CHUẨN CỦA SỞ - luôn dựng GP mới từ các file này.
-- `cuc-hoa-chat/` - bộ hồ sơ nghiệp vụ của Cục Hóa chất (checklist thẩm định chi tiết, Phiếu trình, Biên bản thẩm định, GP mẫu loại 8, CV bổ sung hồ sơ xuyên biên giới) - đặc biệt hữu ích khi xử lý loại 5, 8 (Sở trình UBND tỉnh ký) và hồ sơ Việt - Trung.
+- `giay-phep-da-cap/` - hồ sơ Sở đã phát hành, LÀ MẪU CHUẨN CỦA SỞ (luôn dựng văn bản mới từ các file này):
+  - `GP-ThaiThinh-xangdau-loai3-072026.docx`, `GP-SoiPhuongNam-NH3-loai2-xuyenbiengioi-072026.docx` - 2 Giấy phép (Thái Thịnh loại 3; Sợi Phương Nam NH3 loại 2 xuyên biên giới, 16 xe biển Trung Quốc). MẪU GIẤY PHÉP CHUẨN - luôn dựng GP mới từ đây.
+  - `Bien-ban-tham-dinh-SCT-ThaiThinh-xangdau-loai3.docx` - **MẪU BIÊN BẢN THẨM ĐỊNH CHUẨN CỦA SỞ** (dùng cho loại 1, 2, 3, 4, 9). Khi soạn Biên bản thẩm định BẮT BUỘC dựng từ file này (Chế độ B, giữ nguyên thể thức). Cấu trúc chi tiết mẫu Sở: xem reference 16 mục 3.
+- `cuc-hoa-chat/` - bộ hồ sơ nghiệp vụ của Cục Hóa chất (checklist thẩm định chi tiết, Phiếu trình, Biên bản thẩm định loại 5-8, GP mẫu loại 8, CV bổ sung hồ sơ xuyên biên giới) - **CHỈ dùng tham chiếu cho loại 5, 8** (Sở trình UBND tỉnh ký) và hồ sơ Việt - Trung. **KHÔNG dùng Biên bản thẩm định của Cục Hóa chất làm mẫu cho loại 1,2,3,4,9** - loại này dùng mẫu Biên bản của Sở ở `giay-phep-da-cap/`.
 - `rut-tra-ho-so/` - mẫu CV dừng xử lý/trả hồ sơ và mẫu doanh nghiệp đề nghị rút hồ sơ.
 
 ## V. VĂN BẢN GỐC KÈM THEO (`van-ban-goc/`)
@@ -166,6 +168,7 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 8. **Không tự thêm điều kiện** không có trong văn bản (ví dụ: không yêu cầu giấy tờ ngoài thành phần hồ sơ quy định tại Điều 15 NĐ 161). Luật quy định gì làm đúng vậy.
 9. **Người áp tải.** Danh mục Phụ lục I NĐ 161 KHÔNG có cột ngưỡng khối lượng (đã đối chiếu bản gốc; cột cuối là số hiệu nguy hiểm), nên phép thử "khối lượng > cột 7" của Điều 8 TT 37/2020/TT-BCT (dựa trên Danh mục khung cũ NĐ 42/2020) KHÔNG áp dụng cho khung NĐ 161. NĐ 105/2025 (khoản 4 Điều 23, Điều 26 NĐ 161) giao Bộ Công Thương quy định loại hàng bắt buộc áp tải. Trong khi chưa có danh mục cụ thể phân biệt, áp dụng theo hướng an toàn: yêu cầu người áp tải cho mọi chuyến HHNH phải cấp phép (loại 1 trừ VLNCN/tiền chất thuốc nổ, 2, 3, 4, 5, 8, 9); hồ sơ phải có danh sách người áp tải + chứng nhận tập huấn của người áp tải. Xem reference 04 (mục 3a) và 10.
 10. **TUYỆT ĐỐI không bịa số/ngày văn bản pháp luật.** QĐ ủy quyền hiện hành là **QĐ 1696/QĐ-UBND ngày 15/5/2026** (chỉ phủ loại 1,2,3,4,9); **QĐ ủy quyền lại theo TT 26/2026 (bổ sung loại 5,8) chưa ban hành** - khi ban hành phải xác minh số/ngày trước khi đưa vào văn bản, không tự điền. Kế hoạch/quyết định kiểm tra và mọi số văn bản nội bộ khác cũng phải xác minh.
+11. **Thời hạn Giấy phép - phân biệt căn cứ luật và biện pháp nghiệp vụ** (bài học 20/7/2026, vụ Toàn Phát TQ). Căn cứ luật: khoản 3 Điều 13 NĐ 161/2024 - thời hạn GP theo đề nghị của người vận tải nhưng tối đa không quá 24 tháng và **không quá NIÊN HẠN SỬ DỤNG của phương tiện**. Luật KHÔNG ràng buộc thời hạn GP với thời hạn kiểm định (đăng kiểm) - đó chỉ là điều kiện phương tiện phải duy trì trong suốt quá trình vận chuyển. Việc cấp GP thời hạn ngắn hơn theo mốc hạn kiểm định/GCN tập huấn là biện pháp nghiệp vụ của Sở, ghi lý do trong Phiếu trình/Biên bản thẩm định; trong văn bản gửi doanh nghiệp phải trích đúng câu luật, không viết "không vượt quá thời hạn kiểm định" như thể là quy định. Chi tiết: reference 11 (lỗi thẩm định số 9) và reference 16 mục 2.
 
 ## VIII. BỐI CẢNH LÀO CAI
 

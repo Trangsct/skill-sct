@@ -28,7 +28,7 @@ Thực hiện tuần tự, dừng ngay khi gặp "KHÔNG" và xử lý theo nhá
 - CÓ → **từ chối cấp phép**, trả lời bằng văn bản nêu rõ lý do (reference 06).
 - KHÔNG → sang Bước 6.
 
-**Bước 6 - Soạn kết quả:** lập Phiếu thẩm định (mục 3) → dự thảo Giấy phép (Mẫu 5) → trình ký theo đúng mô hình đang áp dụng (ủy quyền: Giám đốc Sở ký; trình ký: trình UBND tỉnh — xem SKILL.md mục III). Sau khi cấp, thực hiện khoản 5 Điều 51 Luật 36/2024 (gửi thông báo cơ quan CSGT) và đăng công khai.
+**Bước 6 - Soạn kết quả:** lập **Biên bản thẩm định theo MẪU CHUẨN CỦA SỞ** (`vi-du-thuc-te/giay-phep-da-cap/Bien-ban-tham-dinh-SCT-ThaiThinh-xangdau-loai3.docx` - Chế độ B, cho loại 1,2,3,4,9; cấu trúc chi tiết tại reference 16 mục 3) - Phiếu thẩm định (mục 3) chỉ là bản rút gọn nội bộ khi cần → dự thảo Giấy phép (Mẫu 5) → trình ký theo đúng mô hình đang áp dụng (ủy quyền: Giám đốc Sở ký; trình ký: trình UBND tỉnh — xem SKILL.md mục III). Sau khi cấp, thực hiện khoản 5 Điều 51 Luật 36/2024 (gửi thông báo cơ quan CSGT) và đăng công khai.
 
 ## 2. Checklist thẩm định chi tiết từng tài liệu
 
@@ -104,6 +104,7 @@ Người thẩm định (Phòng QLCN)            Trưởng phòng QLCN
 6. **Quên bước sau cấp**: không gửi thông báo CSGT (khoản 5 Điều 51 Luật 36/2024), không đăng công khai.
 7. **Cấp thời hạn vượt 24 tháng hoặc vượt niên hạn phương tiện**.
 8. **Bịa số/ngày** Quyết định ủy quyền của UBND tỉnh hoặc văn bản nội bộ còn dự thảo → tuyệt đối tra cứu, xác minh trước khi đưa vào văn bản trình ký.
+9. **Nhầm căn cứ giới hạn thời hạn Giấy phép: viết "không vượt quá THỜI HẠN KIỂM ĐỊNH của phương tiện"** (lỗi thật 20/7/2026, CV bổ sung hồ sơ Toàn Phát TQ - đã được Bạn bắt và sửa). Khoản 3 Điều 13 NĐ 161/2024 quy định thời hạn Giấy phép "theo đề nghị của người vận tải nhưng tối đa không quá 24 tháng và **không quá NIÊN HẠN SỬ DỤNG của phương tiện**" - luật KHÔNG ràng buộc thời hạn GP với thời hạn kiểm định (đăng kiểm). Hai khái niệm khác nhau: niên hạn sử dụng = số năm tối đa xe được dùng tính từ năm sản xuất (căn cứ luật để giới hạn thời hạn GP); thời hạn kiểm định = chu kỳ đăng kiểm định kỳ, chỉ là ĐIỀU KIỆN của phương tiện khi vận chuyển (phải luôn còn hạn), KHÔNG phải căn cứ khống chế thời hạn GP. Cách viết đúng trong văn bản gửi DN: (a) trích đúng khoản 3 Điều 13 (24 tháng + niên hạn sử dụng); (b) tách nghĩa vụ duy trì kiểm định thành câu riêng như một điều kiện phương tiện; (c) không áp đặt "Sở sẽ khống chế theo hạn kiểm định" như thể là quy định - việc cấp thời hạn ngắn hơn (tiền lệ Apatit, Sợi Phương Nam 23 tháng) là QUYẾT ĐỊNH NGHIỆP VỤ thận trọng, ghi lý do trong Biên bản thẩm định/Phiếu trình, không viện dẫn Điều 13.3 làm căn cứ cho việc khống chế đó.
 
 
 ## Bổ sung 7/2026 - Checklist đối chiếu mở rộng (học từ checklist Cục Hóa chất + hồ sơ thực tế của Sở)

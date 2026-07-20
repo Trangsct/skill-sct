@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 20/7/2026 — hnh-sct-vn v1.2.1: bài học căn cứ thời hạn Giấy phép (niên hạn sử dụng, KHÔNG phải thời hạn kiểm định)
+
+- **Lỗi thật vụ Toàn Phát TQ** (NH3 loại 2, 5 tổ hợp xe biển TQ, tuyến Hà Khẩu - Kim Thành): CV bổ sung hồ sơ viết "không vượt quá thời hạn kiểm định của từng phương tiện" — Bạn bắt sai. Căn cứ đúng: **khoản 3 Điều 13 NĐ 161/2024** = tối đa 24 tháng và **không quá NIÊN HẠN SỬ DỤNG của phương tiện** (đã đối chiếu văn bản gốc). Thời hạn kiểm định chỉ là điều kiện phương tiện; khống chế GP theo hạn kiểm định (tiền lệ Apatit, Sợi Phương Nam 23 tháng) là biện pháp nghiệp vụ ghi trong Phiếu trình, không viện dẫn Điều 13.3.
+- Sửa: SKILL.md mục VII (nguyên tắc bất biến 11), reference 11 (lỗi thẩm định số 9), reference 16 mục 2 (LƯU Ý CĂN CỨ + xử lý riêng xe biển Trung Quốc); CHANGELOG-v2026.07.20.md.
+- **Commit này đồng bộ luôn delta v1.2.0 (06/7/2026)** repo còn thiếu: mẫu Biên bản thẩm định chuẩn của Sở (Thái Thịnh loại 3) + cập nhật SKILL.md mục IV-a, references 15, 16.
+
 ## 20/7/2026 — Thêm plugin qlks-sct-vn v1.1.0: quản lý nhà nước về khoáng sản
 
 - **Plugin mới** (v1.0.0 ngày 17/7 + nâng cấp v1.1.0 ngày 20/7), cấu trúc chuẩn. Lõi: (a) ma trận phân vai SCT - SNNMT - SXD - Thuế - Công an - xã theo TT 37/2025/TT-BCT + KH Chỉ thị 11-CT/TU + CV 5973/UBND-KT; (b) GATE 6 mốc: 01/7/2025 (Luật 54/2024) → **12/6/2025 NĐ 136/2025 Đ34 nhóm II về Chủ tịch tỉnh** → 01/01/2026 (Luật 147/2025) → 16/01/2026 (NĐ 21/2026) → 18/5/2026 (NQ 66.19 phân quyền 9 nhóm TTHC) + cấp đổi GP 36 tháng; (c) 7 nghiệp vụ: phân vai, KH quản lý rủi ro (TT 24/2025, hầm lò 7 ngày sau TT 26/2026), GCN KTAT khai thác hầm lò (TT 43/2025 — phân biệt GCN KTAT VLNCN của hl-vlncn), chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng qua chỉ tiêu thuốc nổ đơn vị, kiểm tra - tham mưu đình chỉ (10 nhóm tồn tại phải dừng khai thác theo hướng dẫn SNNMT 8/2025), rà chồng lấn khoáng sản khi thẩm định dự án/CCN (4 lớp QĐ 866 - 1626 - 525 - 1277/QĐ-TTg; case CCN Báo Đáp chồng 2 ha mỏ Caolanh - felspat theo CV 6791/SNNMT-KHTC 17/7/2026).

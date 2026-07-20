@@ -80,9 +80,10 @@ Skill này **kèm sẵn bộ văn bản gốc** trong thư mục `van-ban-goc/` 
 |---|---|---|
 | `giay-phep-da-cap/GP-ThaiThinh-xangdau-loai3-072026.docx` | GP thực tế Sở đã cấp - loại 3, 1 xe xi téc | ref 16, 14 |
 | `giay-phep-da-cap/GP-SoiPhuongNam-NH3-loai2-xuyenbiengioi-072026.docx` | GP thực tế - NH3, 16 xe biển Trung Quốc, chi nhánh | ref 16, 17, 14 |
+| `giay-phep-da-cap/Bien-ban-tham-dinh-SCT-ThaiThinh-xangdau-loai3.docx` | **MẪU BIÊN BẢN THẨM ĐỊNH CHUẨN CỦA SỞ** (loại 1,2,3,4,9) - Trang chủ trì + Khôi thành viên; bảng STT\|Tài liệu (không cột Đạt) | ref 11, 16, 14 |
 | `cuc-hoa-chat/Checklist-tham-dinh-CucHoaChat.docx` | Checklist thẩm định chi tiết của Cục Hóa chất | ref 11 |
 | `cuc-hoa-chat/Phieu-trinh-cap-GP-loai-5-8-DucGiang.docx` | Phiếu trình cấp GP loại 5, 8 | ref 14, 16 |
-| `cuc-hoa-chat/Bien-ban-tham-dinh-loai-5-8-DucGiang.docx` | Biên bản thẩm định mẫu (bảng Đạt/Không đạt) | ref 11, 14 |
+| `cuc-hoa-chat/Bien-ban-tham-dinh-loai-5-8-DucGiang.docx` | Biên bản thẩm định của Cục Hóa chất - **CHỈ tham chiếu cho loại 5, 8** (loại 1,2,3,4,9 dùng mẫu Biên bản của Sở ở `giay-phep-da-cap/`) | ref 11, 16 |
 | `cuc-hoa-chat/Giay-phep-mau-CucHoaChat-loai-8.docx` | GP mẫu của Cục cho loại 8 | ref 14 |
 | `cuc-hoa-chat/CV-bo-sung-ho-so-xuyen-bien-gioi-LogisticVietTrung.doc` | CV bổ sung hồ sơ xuyên biên giới (tiền lệ, DN tại Kim Thành - Lào Cai) | ref 17, 14 |
 | `rut-tra-ho-so/CV-dung-xu-ly-tra-ho-so.docx` | CV dừng xử lý, trả hồ sơ + Phiếu trình | ref 14 |

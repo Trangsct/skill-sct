@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-20
+- **kccn-sct-vn v1.4.0**: KCN Võ Lao được chấp thuận CTĐT tại QĐ 2463/QĐ-UBND ngày 16/7/2026 (482,6 ha, xã Võ Lao + Tằng Loỏng, NĐT Công ty CP đầu tư hạ tầng Châu Giang); tổng 11 KCN có QĐ CTĐT/đã thành lập; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU. Cập nhật references 12, 14, 15, SKILL.md; thêm van-ban-goc/QD-2463-2026-CTDT-KCN-Vo-Lao.pdf.
+
+
 ## 20/7/2026 — hnh-sct-vn v1.2.1: bài học căn cứ thời hạn Giấy phép (niên hạn sử dụng, KHÔNG phải thời hạn kiểm định)
 
 - **Lỗi thật vụ Toàn Phát TQ** (NH3 loại 2, 5 tổ hợp xe biển TQ, tuyến Hà Khẩu - Kim Thành): CV bổ sung hồ sơ viết "không vượt quá thời hạn kiểm định của từng phương tiện" — Bạn bắt sai. Căn cứ đúng: **khoản 3 Điều 13 NĐ 161/2024** = tối đa 24 tháng và **không quá NIÊN HẠN SỬ DỤNG của phương tiện** (đã đối chiếu văn bản gốc). Thời hạn kiểm định chỉ là điều kiện phương tiện; khống chế GP theo hạn kiểm định (tiền lệ Apatit, Sợi Phương Nam 23 tháng) là biện pháp nghiệp vụ ghi trong Phiếu trình, không viện dẫn Điều 13.3.

@@ -1,5 +1,18 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.4.0 — 2026-07-20 (KCN Võ Lao được chấp thuận chủ trương đầu tư)
+
+### Thêm mới
+- `references/15`: bổ sung mục V — KCN Võ Lao được chấp thuận CTĐT đồng thời chấp thuận NĐT tại **QĐ 2463/QĐ-UBND ngày 16/7/2026 của UBND tỉnh** (TM. UBND, Chủ tịch Nguyễn Tuấn Anh ký): 482,6 ha (quy hoạch GĐ1 500 ha), địa điểm **xã Võ Lao VÀ xã Tằng Loỏng**, NĐT Công ty CP đầu tư hạ tầng Châu Giang (Tổng Giám đốc Bùi Trung Hiếu), tổng vốn 5.171,344 tỷ đồng, 70 năm, 2 giai đoạn (GĐ1 200 ha hoàn thành QIII/2029; GĐ2 282,6 ha sau 2030, hoàn thành QIV/2032); căn cứ KL 301-KL/TU 03/7/2026, VB 12258/ANKT-ANTCĐT 14/7/2026 Bộ Công an, BC thẩm định 17/BC-BQL 23/01/2026 + BC bổ sung 217/BC-BQL 09/7/2026. Thêm lưu ý 6 (2 xã), lưu ý 7 (hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU: 04 KCN được chấp thuận trong năm 2026).
+- `van-ban-goc/QD-2463-2026-CTDT-KCN-Vo-Lao.pdf`: bản gốc đã cấp số, ký ban hành.
+
+### Cập nhật
+- Tổng số KCN đã thành lập/có QĐ chấp thuận CTĐT: 10 → **11 KCN** (07 hiện hữu + Bản Qua + Phú Xuân + Phú Xuân 1 + Võ Lao) — đồng bộ references 12, 15 và SKILL.md.
+- `references/12`: chuyển Võ Lao từ bảng "chưa thành lập" sang bảng "KCN mới được chấp thuận CTĐT (04)"; ghi kép 500 ha QH / 482,6 ha chấp thuận.
+- `references/14`: chú thích trạng thái CTĐT mới cho dòng Võ Lao (bảng 13 KCN thu hút đầu tư).
+- `references/15`: lưu ý 1 về thẩm quyền — QĐ 2463 do UBND tỉnh ban hành (cùng nhóm QĐ 2170), khác QĐ 2336/2338 do Chủ tịch UBND tỉnh.
+
+
 ## v1.3.1 — 2026-07-09 (loại 02 CCN khỏi danh mục theo dõi)
 
 ### Cập nhật

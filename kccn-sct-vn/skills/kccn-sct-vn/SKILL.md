@@ -18,7 +18,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 5. **Rà soát điều kiện khởi công** công trình hạ tầng CCN/KCN (Đ.48 Luật Xây dựng 135/2025; miễn GPXD trong CCN theo Đ.21 NĐ 32) → reference `08`.
 6. **Chế độ báo cáo, cập nhật CSDL CCN** (TT 14/2024; báo cáo về Cục ĐCK): Biểu 01-04 → reference `09` + `mau-van-ban/04`.
 7. **Xử lý tình huống đặc thù**: FDI làm chủ đầu tư; CCN hình thành trước QĐ 105/2009 (hạn 31/12/2026); đơn vị sự nghiệp/vốn NSNN làm CĐT; điều chỉnh, bãi bỏ QĐ thành lập; chồng lấn quy hoạch → reference `11`.
-8. **Tra cứu danh mục, vị trí xã, quy hoạch, thu hút đầu tư** của từng KCN/CCN Lào Cai → reference `12` (tra nhanh + địa danh dễ nhầm); toàn văn Phụ lục II, III QĐ 525 → reference `13`; danh mục thu hút đầu tư QĐ 1382 (TMĐT, nhà đầu tư) → reference `14`; trạng thái chấp thuận CTĐT các KCN mới (Bản Qua, Phú Xuân, Phú Xuân 1 — QĐ 2170/2336/2338, tổng 10 KCN đến 7/2026) → reference `15`. (Lưu ý: hiện trạng lấp đầy/tiến độ là số liệu tĩnh, HỎI Bạn — không tự tra.)
+8. **Tra cứu danh mục, vị trí xã, quy hoạch, thu hút đầu tư** của từng KCN/CCN Lào Cai → reference `12` (tra nhanh + địa danh dễ nhầm); toàn văn Phụ lục II, III QĐ 525 → reference `13`; danh mục thu hút đầu tư QĐ 1382 (TMĐT, nhà đầu tư) → reference `14`; trạng thái chấp thuận CTĐT các KCN mới (Bản Qua, Phú Xuân, Phú Xuân 1, Võ Lao — QĐ 2170/2336/2338/2463, tổng 11 KCN đến 16/7/2026) → reference `15`. (Lưu ý: hiện trạng lấp đầy/tiến độ là số liệu tĩnh, HỎI Bạn — không tự tra.)
 
 ## II. QUY TRÌNH CHUẨN (bắt buộc)
 
@@ -74,7 +74,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `references/12-danh-muc-kcn-ccn-lao-cai.md` | Bảng tra NHANH danh mục + vị trí xã chuẩn KCN/CCN Lào Cai; địa danh dễ nhầm; quy tắc hiện trạng |
 | `references/13-qd525-quy-hoach-tinh.md` | TOÀN VĂN Phụ lục II (20 KCN) + Phụ lục III (54 CCN, đủ 6 nhóm) QĐ 525/QĐ-UBND 25/02/2026; căn cứ, mục tiêu KT-XH; đối soát số liệu 54 vs 56 CCN; tầm nhìn 2050 |
 | `references/14-qd1382-danh-muc-thu-hut.md` | QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục thu hút đầu tư, chi tiết 13 KCN (40.044 tỷ) + 35 CCN (22.854 tỷ) kèm TMĐT, nhà đầu tư, phân nhóm tiến độ; suất vốn QĐ 425/QĐ-BXD |
-| `references/15-kcn-chap-thuan-ctdt-2026.md` | 03 KCN được chấp thuận CTĐT 6-7/2026: Bản Qua (QĐ 2170, 76,39 ha, GCN ĐKĐT 30/6), Phú Xuân (QĐ 2336) & Phú Xuân 1 (QĐ 2338, NĐT Linh Linh, xã Gia Phú); nâng tổng 10 KCN; lưu ý nghiệp vụ SCT |
+| `references/15-kcn-chap-thuan-ctdt-2026.md` | 04 KCN được chấp thuận CTĐT 6-7/2026: Bản Qua (QĐ 2170, 76,39 ha, GCN ĐKĐT 30/6), Phú Xuân (QĐ 2336) & Phú Xuân 1 (QĐ 2338, NĐT Linh Linh, xã Gia Phú), Võ Lao (QĐ 2463 ngày 16/7/2026, 482,6 ha, xã Võ Lao + Tằng Loỏng, NĐT Châu Giang); nâng tổng 11 KCN; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU |
 
 ## V. BIỂU MẪU SẴN SÀNG (`mau-van-ban/`)
 

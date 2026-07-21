@@ -102,6 +102,20 @@ Khoản 6 Điều 9 sửa **điểm đ khoản 1 Điều 39** Luật 42/2024 →
 
 ## 5. Thông tư số 38/2025/TT-BCT ngày 19/6/2025 (hiệu lực 01/7/2025)
 Điều 1 (14 khoản) sửa TT 23/2024 — các điểm mấu chốt đã tích hợp ở mục 4. Bổ sung: điểm a k4 Đ17 (mới): báo cáo đột xuất của DN gửi **Công an xã** và UBND cấp tỉnh trong 24 giờ; Đ18 bổ sung nhiệm vụ Cục KTAT&MTCN (kiểm tra xử lý vi phạm sản xuất; QLNN xây dựng + PCCC công trình sản xuất/kho thuộc thẩm quyền; tiếp nhận đăng ký sản phẩm; danh mục; QCVN chất lượng).
+**Lưu ý hiệu lực:** khoản 1, 2, 3 Điều 1 TT 38/2025 (trong đó có Đ4 TT 23 về thẩm quyền) **đã bị bãi bỏ bởi Điều 2 TT 26/2026/TT-BCT** — thẩm quyền hiện hành theo mục 5a dưới. Khi viện dẫn căn cứ vẫn ghi cả TT 38/2025 và TT 26/2026 (theo thực tiễn GP 2507/GP-UBND).
+
+## 5a. Thông tư số 26/2026/TT-BCT ngày 20/5/2026 (hiệu lực 29/5/2026)
+"Sửa đổi, bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương". Toàn văn: `qlks-sct-vn/van-ban-goc/TT-26-2026-TT-BCT-phan-cap-cat-giam-TTHC-BCT.docx`. Chương I — VLNCN, tiền chất thuốc nổ:
+
+- **Khoản 1 Điều 1 — THAY TOÀN BỘ Điều 4 TT 23/2024 (thẩm quyền cấp, cấp lại, cấp điều chỉnh GP, GCN):**
+  - *Cục KTAT&MTCN:* (a) GCN đủ điều kiện sản xuất VLNCN; (b) GP sử dụng VLNCN cho tổ chức nghiên cứu/thử nghiệm VLNCN, tổ chức thăm dò - khai thác **dầu khí**, tổ chức có GP hoạt động khoáng sản **nhóm I** do Bộ NN&MT cấp (**bao gồm GP nhóm I do Bộ TN&MT cấp còn hiệu lực**), trừ Bộ Quốc phòng; (c) GP dịch vụ nổ mìn cả 3 hình thức (1 tỉnh / thềm lục địa / toàn quốc).
+  - *Cục Hóa chất:* GP kinh doanh tiền chất thuốc nổ; GP xuất khẩu, nhập khẩu tiền chất thuốc nổ.
+  - *UBND cấp tỉnh:* (a) GP sử dụng VLNCN trên địa bàn (trừ điểm b khoản 1 và Bộ Quốc phòng); (b) GCN đủ điều kiện sản xuất tiền chất thuốc nổ (cấp, cấp điều chỉnh); (c) GP kinh doanh VLNCN (cấp, cấp lại); (d) GP xuất khẩu, nhập khẩu VLNCN — riêng thẩm quyền XNK hiệu lực từ **01/7/2026** (k2 Đ27).
+- **Khoản 2 Điều 1 — thay Điều 6 TT 23:** hồ sơ, thủ tục đăng ký mới/bổ sung nhiệm vụ nghiên cứu, phát triển, thử nghiệm sản phẩm VLN không dùng NSNN: nộp về **UBND cấp tỉnh**; bổ sung hoàn thiện 05 ngày làm việc; phê duyệt nhiệm vụ trong **30 ngày làm việc** (Mẫu 01–04 Phụ lục V mới).
+- **Khoản 3 Điều 1:** thay Mẫu số 03, 08, 09 PL III và Mẫu 01–04 PL V của TT 23/2024 bằng Mẫu 01–07 Phần I Phụ lục TT 26/2026 (trong đó có **mẫu Giấy phép sử dụng VLNCN mới** — đối chiếu khi dự thảo GP).
+- **Điều 2:** bãi bỏ khoản 1, 2, 3 Điều 1 TT 38/2025. **Điều 3:** bãi bỏ khoản 1 Điều 1 TT 15/2026/TT-BCT.
+- Điều khoản chuyển tiếp (Đ28): hồ sơ đã tiếp nhận/đóng dấu bưu chính trước ngày hiệu lực xử lý theo quy định cũ.
+- **Thực tiễn Lào Cai:** GP 2507/GP-UBND ngày 21/7/2026 (Cty CP Khai thác VLXD Miền Bắc) là GP đầu tiên trong hồ sơ đưa TT 26/2026 vào căn cứ ban hành — xem `vi-du-thuc-te/GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf`.
 
 ## 6. Nghị định số 146/2025/NĐ-CP ngày 12/6/2025 (phân quyền, phân cấp)
 - **Điều 22:** nhiệm vụ TTg về giao nhiệm vụ sản xuất/kinh doanh VLNCN → Bộ trưởng BCT/BCA/BQP.
@@ -133,6 +147,9 @@ quản lý, sử dụng vật liệu nổ công nghiệp (VLNCN), tiền chất 
 của Bộ Công Thương; Thông tư số 38/2025/TT-BCT ngày 19/6/2025 của Bộ trưởng Bộ Công Thương về
 việc sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh
 vực thuộc phạm vi quản lý của Bộ Công Thương;
+Căn cứ Thông tư số 26/2026/TT-BCT ngày 20/5/2026 của Bộ Công Thương sửa đổi, bổ sung một số
+quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc
+phạm vi quản lý của Bộ Công Thương;
 [Với PANM thêm:] Căn cứ Quy chuẩn kỹ thuật quốc gia về an toàn trong sản xuất, thử nghiệm,
 nghiệm thu, bảo quản, vận chuyển, sử dụng, tiêu hủy vật liệu nổ công nghiệp và bảo quản tiền
 chất thuốc nổ (viết tắt là QCVN 01:2019/BCT của Bộ Công Thương);

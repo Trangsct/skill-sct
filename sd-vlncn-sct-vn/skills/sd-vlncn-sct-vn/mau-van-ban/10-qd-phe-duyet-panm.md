@@ -6,7 +6,7 @@
 
 **CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI**
 
-Căn cứ: Luật TCCQĐP 16/6/2025; Luật 42/2024 (điểm d khoản 2 Điều 38); NĐ 181/2024/NĐ-CP, NĐ 146/2025/NĐ-CP; TT 23/2024/TT-BCT, TT 38/2025/TT-BCT; QCVN 01:2019/BCT; 【văn bản ý kiến liên quan: số …/SXD-… ngày … của Sở Xây dựng…】; Xét đề nghị của 【DN】 tại văn bản số 【…】; Theo đề nghị của Sở Công Thương tại Tờ trình số 【…/TTr-SCT】 ngày 【…】.
+Căn cứ: Luật TCCQĐP 16/6/2025; Luật 42/2024 (điểm d khoản 2 Điều 38); NĐ 181/2024/NĐ-CP, NĐ 146/2025/NĐ-CP; TT 23/2024/TT-BCT, TT 38/2025/TT-BCT, TT 26/2026/TT-BCT; QCVN 01:2019/BCT; 【văn bản ý kiến liên quan: số …/SXD-… ngày … của Sở Xây dựng…】; Xét đề nghị của 【DN】 tại văn bản số 【…】; Theo đề nghị của Sở Công Thương tại Tờ trình số 【…/TTr-SCT】 ngày 【…】.
 
 **QUYẾT ĐỊNH:**
 

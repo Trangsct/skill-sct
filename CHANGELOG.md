@@ -1,6 +1,7 @@
 # Nhật ký thay đổi bộ skill
 
 ## 2026-07-21
+- **sd-vlncn-sct-vn [2026.7.21]**: cập nhật TT 26/2026/TT-BCT 20/5/2026 (thay Điều 4 TT 23/2024 về thẩm quyền, bãi bỏ k1–3 Đ1 TT 38/2025, mẫu GP mới) theo GP 2507/GP-UBND ngày 21/7/2026 — Cty CP Khai thác VLXD Miền Bắc, mỏ đá VLXDTT thôn Toòng Già xã Phong Hải, hiệu lực đến 05/7/2031; thêm bản ký + toàn văn vào vi-du-thuc-te; sửa SKILL.md (mục II, bảng thẩm quyền III), reference 01 (mục 5a + cụm căn cứ), reference 07 (bảng A), mẫu 01/05/10. Đồng bộ GP lên web vlncn-laocai (công ty + giấy phép + công trình mới) và file 2507_GP-UBND.pdf lên vlncn-laocai-files.
 - **kccn-sct-vn v1.5.0**: thêm reference `16-uu-dai-dau-tu-ccn.md` — chính sách ưu đãi đầu tư trong CCN theo Tài liệu giới thiệu của Sở ngày 21/7/2026 (thuế TNDN 10%/15 năm hoặc 17%/10 năm theo địa bàn xã — Luật 67/2025 + NĐ 320/2025; miễn tiền thuê đất XDCB + 7/11/15 năm — Đ.39 NĐ 103/2024; đơn giá thuê đất 0,8%; NSNN hỗ trợ ≤30% vốn hạ tầng; QĐ 2167/QĐ-UBND 23/6/2026: 87 xã ĐBKK + 08 xã KK; lưu ý từ 01/10/2025 ưu đãi thuế theo xã/phường nơi đặt CCN). Cập nhật SKILL.md (bảng reference + nhiệm vụ 1), Q36 reference 10 trỏ sang 16. Đồng bộ với khối "Chính sách ưu đãi đầu tư" mới trên congnghieplaocai.vn.
 
 ## 2026-07-20

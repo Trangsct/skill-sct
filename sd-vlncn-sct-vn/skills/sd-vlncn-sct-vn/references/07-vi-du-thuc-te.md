@@ -12,6 +12,7 @@
 | `GP-thuy-dien-Ngoi-Nhu-1A.docx` | Thủy điện Ngòi Nhù 1A | Gắn với bộ hồ sơ PANM + kho (plugin kho-vlncn có bản phản biện) |
 | `GP-goi-thau-so-13.docx`, `GP-goi-thau-31-Tien-Dat.docx` | Gói thầu thi công đường | GP theo gói thầu xây dựng |
 | `QD-dieu-chinh-GP-Hom-Duoi.docx` | Điều chỉnh GP 371/GP-UBND 06/02/2026 (Cty Duy Cương) — đổi phân đoạn lý trình hầm | Mẫu QĐ điều chỉnh: trích "Nội dung đã cấp" → "Nội dung điều chỉnh thành"; Điều 2 "bộ phận không tách rời"; ký hiệu vẫn /GP-UBND |
+| `GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf` (+`.txt` toàn văn — PDF là bản ảnh, không có text layer) | **GP 2507/GP-UBND ngày 21/7/2026** — Cty CP Khai thác VLXD Miền Bắc (GCN ĐKDN 5300319526), mỏ đá VLXDTT thôn Toòng Già, xã Phong Hải; GP khai thác điều chỉnh 815/QĐ-UBND 20/4/2022 + GP 131/QĐ-UBND 16/01/2023; hồ sơ: GĐN 26.06/GĐN-MB 26/6/2026, TTr 4179/TTr-SCT 14/7/2026 | **GP đầu tiên viện dẫn TT 26/2026/TT-BCT trong căn cứ** (sau TT 23/2024 + TT 38/2025 — xem cụm căn cứ chuẩn ref `01` mục 10); khối lượng: thuốc nổ 63.000 kg/năm, kíp 11.090 cái/năm, dây nổ chịu nước 23.600 m/năm; Qmax 170 kg/đợt, tức thời 60 kg; giờ nổ 10h00–13h30 và 15h00–18h30; thời hạn "kể từ ngày ký đến hết 05/7/2031" — ràng theo thời hạn GP khai thác, KHÔNG mặc định tròn 5 năm (k7 Đ39 Luật 42/2024); ký KT. Chủ tịch — PCT Nguyễn Thành Sinh |
 
 ## B. PHƯƠNG ÁN NỔ MÌN
 

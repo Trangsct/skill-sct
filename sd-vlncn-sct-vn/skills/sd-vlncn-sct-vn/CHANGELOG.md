@@ -1,5 +1,9 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.7.21] - 21/7/2026
+- **Cập nhật TT 26/2026/TT-BCT ngày 20/5/2026** (hiệu lực 29/5/2026) theo GP 2507/GP-UBND — GP đầu tiên viện dẫn thông tư này: khoản 1 Điều 1 thay toàn bộ Điều 4 TT 23/2024 (thẩm quyền — UBND cấp tỉnh thêm GCN sản xuất TCTN, GP kinh doanh VLNCN, GP XNK VLNCN từ 01/7/2026; Cục KTAT&MTCN thêm dầu khí + khoáng sản nhóm I Bộ NN&MT kể cả GP Bộ TN&MT cũ; GP dịch vụ nổ mìn cả 3 hình thức); Điều 2 bãi bỏ k1–3 Đ1 TT 38/2025; mẫu GP mới (Mẫu 01–07 Phần I PL TT 26/2026). Sửa: SKILL.md (mục II thêm khoản 6 + renumber, bảng III, description), reference 01 (mục 5a mới + cụm căn cứ chuẩn thêm dòng TT 26/2026), mẫu 01/05/10.
+- **Thêm ví dụ thực tế**: `vi-du-thuc-te/GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf` (+`.txt` toàn văn) — GP 2507/GP-UBND ngày 21/7/2026 cấp cho Cty CP Khai thác VLXD Miền Bắc, mỏ đá VLXDTT thôn Toòng Già xã Phong Hải; thuốc nổ 63.000 kg/năm; thời hạn đến hết 05/7/2031 (ràng theo GP khai thác); cập nhật bảng A reference 07.
+
 ## [2026.7.14] - 14/7/2026
 - Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: chuyên viên VLNCN/PANM/tiền chất thuốc nổ = **Trần Đăng Khôi** (CN(Khôi)); VLNCN do TP Nguyễn Hữu Long trực tiếp chỉ đạo; văn bản trước 6/7/2026 giữ CN(Linh) đúng lịch sử.
 

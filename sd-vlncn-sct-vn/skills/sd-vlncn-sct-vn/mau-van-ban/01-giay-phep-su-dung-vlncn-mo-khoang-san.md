@@ -12,6 +12,7 @@ Căn cứ Luật Tổ chức chính quyền địa phương ngày 16/6/2025;
 Căn cứ Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 29/6/2024;
 Căn cứ Nghị định số 181/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ; Nghị định số 146/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực công nghiệp và thương mại;
 Căn cứ Thông tư số 23/2024/TT-BCT ngày 07/11/2024 của Bộ trưởng Bộ Công Thương quy định về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Công Thương; Thông tư số 38/2025/TT-BCT ngày 19/6/2025 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
+Căn cứ Thông tư số 26/2026/TT-BCT ngày 20/5/2026 của Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
 Xét đề nghị của 【tên doanh nghiệp】 tại Giấy đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp số 【…】 ngày 【…】;
 Theo đề nghị của Sở Công Thương tại Tờ trình số 【…】/TTr-SCT ngày 【…】.
 

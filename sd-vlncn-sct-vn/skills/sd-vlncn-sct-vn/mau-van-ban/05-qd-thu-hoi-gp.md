@@ -4,7 +4,7 @@
 
 **QUYẾT ĐỊNH Về việc thu hồi Giấy phép sử dụng vật liệu nổ công nghiệp**
 
-Căn cứ: Luật TCCQĐP 16/6/2025; Luật 42/2024; **Điều 17 Nghị định 181/2024/NĐ-CP**; NĐ 146/2025/NĐ-CP; TT 23/2024/TT-BCT, TT 38/2025/TT-BCT; 【văn bản làm căn cứ thu hồi: đề nghị của DN số … / biên bản kiểm tra … / QĐ xử phạt …】; Theo đề nghị của Sở Công Thương tại Tờ trình số 【…/TTr-SCT】.
+Căn cứ: Luật TCCQĐP 16/6/2025; Luật 42/2024; **Điều 17 Nghị định 181/2024/NĐ-CP**; NĐ 146/2025/NĐ-CP; TT 23/2024/TT-BCT, TT 38/2025/TT-BCT, TT 26/2026/TT-BCT; 【văn bản làm căn cứ thu hồi: đề nghị của DN số … / biên bản kiểm tra … / QĐ xử phạt …】; Theo đề nghị của Sở Công Thương tại Tờ trình số 【…/TTr-SCT】.
 
 **Điều 1.** Thu hồi Giấy phép sử dụng VLNCN số 【…/GP-UBND】 ngày 【…】 đã cấp cho 【tên DN】. Lý do: 【…】.
 **Điều 2.** 【Tên DN】 có trách nhiệm: nộp lại bản chính Giấy phép về 【Sở Công Thương】 trong thời hạn 【…】; thống kê, báo cáo số VLNCN tồn; bán lại cho doanh nghiệp kinh doanh VLNCN hoặc tiêu hủy theo quy định dưới sự giám sát của cơ quan chức năng; hoàn thành trước ngày 【…】.

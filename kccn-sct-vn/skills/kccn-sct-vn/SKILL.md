@@ -11,7 +11,7 @@ Plugin chuyên môn giúp Phòng Quản lý Công nghiệp tham mưu Giám đố
 
 Kích hoạt khi xử lý bất kỳ việc nào sau:
 
-1. **Hướng dẫn doanh nghiệp / UBND cấp xã** về: điều kiện, hồ sơ, trình tự thành lập, mở rộng CCN; đầu tư sản xuất kinh doanh vào CCN; ưu đãi, hỗ trợ đầu tư; CCN làng nghề, di dời cơ sở → reference `05`, `10` + `mau-van-ban/01`.
+1. **Hướng dẫn doanh nghiệp / UBND cấp xã** về: điều kiện, hồ sơ, trình tự thành lập, mở rộng CCN; đầu tư sản xuất kinh doanh vào CCN; ưu đãi, hỗ trợ đầu tư; CCN làng nghề, di dời cơ sở → reference `05`, `10`, `16` + `mau-van-ban/01`.
 2. **Tham mưu Giám đốc Sở soạn thảo văn bản**: báo cáo thẩm định thành lập/mở rộng CCN; tờ trình UBND tỉnh thành lập Hội đồng đánh giá/QĐ thành lập CCN; công văn lấy ý kiến sở, ngành; công văn hướng dẫn doanh nghiệp; báo cáo tình hình CCN gửi UBND tỉnh/Tỉnh ủy/Bộ Công Thương → `mau-van-ban/02`, `04`, `05`.
 3. **Tổ chức Hội đồng đánh giá lựa chọn chủ đầu tư** hạ tầng CCN (Đ.13 NĐ 32; thang 100 điểm, tối thiểu 50): QĐ thành lập Hội đồng, bộ tiêu chí, phiếu chấm, biên bản, báo cáo kết quả → reference `06` + `mau-van-ban/03`.
 4. **Thẩm định Báo cáo đầu tư** của nhà đầu tư (cấu trúc 9 phần theo Đ.9, Đ.11 NĐ 32) → reference `07` + `checklists`.
@@ -75,6 +75,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `references/13-qd525-quy-hoach-tinh.md` | TOÀN VĂN Phụ lục II (20 KCN) + Phụ lục III (54 CCN, đủ 6 nhóm) QĐ 525/QĐ-UBND 25/02/2026; căn cứ, mục tiêu KT-XH; đối soát số liệu 54 vs 56 CCN; tầm nhìn 2050 |
 | `references/14-qd1382-danh-muc-thu-hut.md` | QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục thu hút đầu tư, chi tiết 13 KCN (40.044 tỷ) + 35 CCN (22.854 tỷ) kèm TMĐT, nhà đầu tư, phân nhóm tiến độ; suất vốn QĐ 425/QĐ-BXD |
 | `references/15-kcn-chap-thuan-ctdt-2026.md` | 04 KCN được chấp thuận CTĐT 6-7/2026: Bản Qua (QĐ 2170, 76,39 ha, GCN ĐKĐT 30/6), Phú Xuân (QĐ 2336) & Phú Xuân 1 (QĐ 2338, NĐT Linh Linh, xã Gia Phú), Võ Lao (QĐ 2463 ngày 16/7/2026, 482,6 ha, xã Võ Lao + Tằng Loỏng, NĐT Châu Giang); nâng tổng 11 KCN; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU |
+| `references/16-uu-dai-dau-tu-ccn.md` | Chính sách ưu đãi đầu tư trong CCN (Tài liệu Sở 21/7/2026): thuế TNDN 10%/15 năm hoặc 17%/10 năm theo địa bàn xã (Luật 67/2025, NĐ 320/2025); miễn tiền thuê đất XDCB + 7/11/15 năm (Đ.39 NĐ 103/2024); đơn giá thuê đất 0,8%; NSNN hỗ trợ ≤30% vốn hạ tầng; QĐ 2167/QĐ-UBND 87 xã ĐBKK + 08 xã KK; bảo đảm đầu tư, đầu mối liên hệ |
 
 ## V. BIỂU MẪU SẴN SÀNG (`mau-van-ban/`)
 

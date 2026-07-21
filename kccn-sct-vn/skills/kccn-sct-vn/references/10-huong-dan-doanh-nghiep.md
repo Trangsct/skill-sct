@@ -124,7 +124,7 @@ Theo Luật Đất đai 2024, tổ chức kinh tế có vốn ĐTNN được **t
 ## NHÓM 8 — ƯU ĐÃI, HỖ TRỢ, LIÊN HỆ
 
 **Q36. Chính sách ưu đãi dự án đầu tư SXKD trong CCN thế nào?** (Điều 25)
-CCN là **địa bàn có điều kiện KT-XH khó khăn**; đầu tư hạ tầng CCN là **ngành nghề đặc biệt ưu đãi đầu tư**. Ưu đãi áp dụng theo pháp luật đất đai, thuế, tín dụng và pháp luật liên quan; **nếu có nhiều mức thì áp mức cao nhất**. Cụ thể: miễn/giảm tiền thuê đất, ưu đãi thuế TNDN, thuế nhập khẩu theo địa bàn.
+CCN là **địa bàn có điều kiện KT-XH khó khăn**; đầu tư hạ tầng CCN là **ngành nghề đặc biệt ưu đãi đầu tư**. Ưu đãi áp dụng theo pháp luật đất đai, thuế, tín dụng và pháp luật liên quan; **nếu có nhiều mức thì áp mức cao nhất**. Cụ thể: miễn/giảm tiền thuê đất, ưu đãi thuế TNDN, thuế nhập khẩu theo địa bàn — mức chi tiết (10%/15 năm hoặc 17%/10 năm; miễn thuê đất 7/11/15 năm; đơn giá 0,8%; QĐ 2167/QĐ-UBND) xem **reference 16**.
 
 **Q37. Nhà nước có hỗ trợ DN/HTX làm chủ đầu tư hạ tầng CCN không?** (Điều 26)
 Có. Ngân sách địa phương cân đối hỗ trợ hạ tầng trong/ngoài CCN; **Nhà nước hỗ trợ không quá 30% tổng mức vốn đầu tư** dự án hạ tầng CCN (ưu tiên hạ tầng BVMT, hạ tầng thiết yếu ở địa bàn khó khăn, CCN liên kết ngành/hỗ trợ/sinh thái/làng nghề). Kinh phí hỗ trợ không tính vào TMĐT để tính giá cho thuê lại. UBND tỉnh báo cáo HĐND quyết định mức hỗ trợ.

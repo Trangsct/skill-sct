@@ -1,5 +1,8 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-21
+- **kccn-sct-vn v1.5.0**: thêm reference `16-uu-dai-dau-tu-ccn.md` — chính sách ưu đãi đầu tư trong CCN theo Tài liệu giới thiệu của Sở ngày 21/7/2026 (thuế TNDN 10%/15 năm hoặc 17%/10 năm theo địa bàn xã — Luật 67/2025 + NĐ 320/2025; miễn tiền thuê đất XDCB + 7/11/15 năm — Đ.39 NĐ 103/2024; đơn giá thuê đất 0,8%; NSNN hỗ trợ ≤30% vốn hạ tầng; QĐ 2167/QĐ-UBND 23/6/2026: 87 xã ĐBKK + 08 xã KK; lưu ý từ 01/10/2025 ưu đãi thuế theo xã/phường nơi đặt CCN). Cập nhật SKILL.md (bảng reference + nhiệm vụ 1), Q36 reference 10 trỏ sang 16. Đồng bộ với khối "Chính sách ưu đãi đầu tư" mới trên congnghieplaocai.vn.
+
 ## 2026-07-20
 - **kccn-sct-vn v1.4.0**: KCN Võ Lao được chấp thuận CTĐT tại QĐ 2463/QĐ-UBND ngày 16/7/2026 (482,6 ha, xã Võ Lao + Tằng Loỏng, NĐT Công ty CP đầu tư hạ tầng Châu Giang); tổng 11 KCN có QĐ CTĐT/đã thành lập; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU. Cập nhật references 12, 14, 15, SKILL.md; thêm van-ban-goc/QD-2463-2026-CTDT-KCN-Vo-Lao.pdf.
 

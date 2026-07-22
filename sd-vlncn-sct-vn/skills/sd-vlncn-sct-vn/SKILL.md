@@ -66,7 +66,8 @@ Bổ sung theo Đ4 TT 23/2024 (bản thay bởi TT 26/2026): UBND cấp tỉnh c
 DN nộp hồ sơ (TTPVHCC tỉnh / Cổng DVC / bưu chính)
 → SCT (Phòng QLCN – CN Linh) kiểm tra tính đầy đủ, hợp lệ
 → Thẩm định hồ sơ theo checklist Đ38+Đ39 (ref 02) + kiểm tra điều kiện thực tế khi cần
-   (chưa đạt → CV /SCT-CN hướng dẫn hoàn thiện, nêu ĐÍCH DANH từng tồn tại — mẫu 12)
+   (chưa đạt → CV /SCT-CN TRẢ LẠI HỒ SƠ kèm hướng dẫn hoàn thiện, nêu ĐÍCH DANH từng tồn tại
+   với căn cứ điều khoản + số trang tài liệu DN — mẫu 12, tiền lệ Mông Sơn 7/2026)
 → Phiếu trình lãnh đạo Sở (mẫu 06) → Tờ trình /TTr-SCT + dự thảo Giấy phép (mẫu 03, 01)
 → Chủ tịch UBND tỉnh ký GP-UBND (KT. PCT Nguyễn Thành Sinh)
 → Trả kết quả; cập nhật CSDL VLNCN; theo dõi thông báo sử dụng, báo cáo định kỳ
@@ -105,6 +106,9 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 8. **Không tự điền số/ngày** văn bản chưa ban hành; số GP, số TTr để trống "Số:      /GP-UBND". GATE bắt buộc khi đọc PDF đến. Sau 01/7/2025 địa danh ghi **xã + tỉnh Lào Cai** (có thể mở ngoặc "(nay là xã…, tỉnh Lào Cai)" với địa danh cũ trong hồ sơ gốc).
 9. **Nghị định thay thế NĐ 71/2019 đang dự thảo** — trước khi tham mưu xử phạt, kiểm tra văn bản mới nhất; nếu chưa có thì viện dẫn "NĐ 71/2019/NĐ-CP được sửa đổi, bổ sung bởi NĐ 17/2022/NĐ-CP".
 10. **Render-and-verify** mọi file .docx đầu ra trước khi bàn giao (quy tắc chung của Bạn).
+11. **Hồ sơ chưa đủ điều kiện → TRẢ LẠI HỒ SƠ, không phải "CV hoàn thiện + hạn nộp"** (Mông Sơn 7/2026): trích yếu "V/v trả lại hồ sơ…"; "trả lại hồ sơ (gửi kèm theo Công văn này)"; KHÔNG đặt thời hạn nộp bổ sung; nộp lại "qua Hệ thống thông tin giải quyết thủ tục hành chính" (k5 Đ39, không ghi TTPVHCC); câu kết "Sở Công Thương thông báo cho [DN] được biết và thực hiện./.".
+12. **KHÔNG chủ động đưa 2 nhóm yêu cầu sau vào văn bản trả hồ sơ** (chỉ đạo PTP Trang, Mông Sơn): (a) tài liệu phương tiện vận chuyển VLNCN — DN thuê phương tiện sau khi được cấp phép, điểm e k1 Đ39 chỉ áp khi không có kho/phương tiện; (b) chứng chỉ chuyên môn, tài liệu thâm niên (Đ4 NĐ 181/2024) của nhân sự đã có GCN huấn luyện KTAT do Sở Công Thương cấp còn hiệu lực — quy trình huấn luyện, kiểm tra của Sở đã thẩm tra, đối chiếu tại hồ sơ huấn luyện lưu tại Sở khi cần.
+13. **Yêu cầu hoàn thiện phải kèm căn cứ kép**: điều-khoản-điểm của pháp luật VÀ số trang in trên chính tài liệu DN nộp (PANM trang mấy, Thuyết minh thiết kế trang mấy) — mỗi sai khác nêu đủ cặp số liệu hai phía; đối chiếu PANM–thiết kế là nội dung thẩm định bắt buộc (bảng 9 sai khác vụ Mông Sơn, ref 07 mục H).
 
 ## VII. CẤU TRÚC PLUGIN
 

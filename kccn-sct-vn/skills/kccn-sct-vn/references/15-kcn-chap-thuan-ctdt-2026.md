@@ -1,6 +1,6 @@
-# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 16/7/2026)
+# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 22/7/2026)
 
-> NGUỒN: 04 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026 và 20/7/2026. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
+> NGUỒN: 04 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026 và 20/7/2026; bổ sung tiến độ sau chấp thuận + hồ sơ KCN Cam Đường theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
 
 ## I. Ý NGHĨA PHÁP LÝ VÀ CÁCH DIỄN ĐẠT
 
@@ -64,6 +64,14 @@
 | Thời hạn | 70 năm kể từ ngày được Nhà nước giao đất, cho thuê đất, chuyển mục đích sử dụng đất |
 | Tiến độ | 2 giai đoạn: **GĐ1 (200 ha)** — chuẩn bị đầu tư QIII/2026-QII/2027, khởi công QII/2027, xây dựng đến QIII/2029, hoàn thành đưa vào sử dụng QIII/2029; **GĐ2 (282,6 ha còn lại, sau năm 2030)** — thủ tục QIII/2030-QII/2031, khởi công QII/2031, hoàn thành QIV/2032 |
 | Căn cứ chính | Kết luận 301-KL/TU ngày 03/7/2026 của BTV Tỉnh ủy; Văn bản 12258/ANKT-ANTCĐT ngày 14/7/2026 của Cục An ninh kinh tế - Bộ Công an; Báo cáo thẩm định 17/BC-BQL ngày 23/01/2026 và Báo cáo thẩm định bổ sung 217/BC-BQL ngày 09/7/2026 của BQL KKT; hồ sơ NĐT nộp lần 1 ngày 21/11/2025, chỉnh sửa 10/01/2026 |
+
+## V-bis. TIẾN ĐỘ SAU CHẤP THUẬN CTĐT + KCN CAM ĐƯỜNG (Báo cáo BQL KKT tháng 7/2026)
+
+- **Ban Chỉ đạo:** UBND tỉnh thành lập 02 BCĐ do 02 Phó Chủ tịch UBND tỉnh làm Trưởng ban chỉ đạo 05 KCN: PCT **Nguyễn Thành Sinh** — Trưởng BCĐ KCN Bản Qua, KCN Võ Lao; PCT **Phan Trung Bá** — Trưởng BCĐ KCN Phú Xuân, KCN "Phú Xuân 2" (nguyên văn chú thích báo cáo BQL — đối chiếu thực tế là Phú Xuân 1) và KCN Cam Đường.
+- **Bản Qua:** BQL hướng dẫn thủ tục pháp lý tại VB 879/BQL-QHXD ngày 23/6/2026. NĐT đã ký hợp đồng khảo sát địa hình phục vụ điều chỉnh QH 1/500 + thiết kế cơ sở (Công ty TNHH Tư vấn và Dịch vụ Đại Hồng Phát) và tư vấn điều chỉnh QH 1/500 (Công ty CP công nghệ xây dựng ACUD Việt Nam).
+- **Phú Xuân / Phú Xuân 1:** BQL hướng dẫn tại VB 964 và 965/BQL-QHXD ngày 03/7/2026. NĐT ký hợp đồng đo đạc (Công ty TNHH đo đạc và bản đồ Miền Bắc — đã trích đo trích lục 100 ha) và GPMB (Ban Quản lý đầu tư xây dựng tỉnh — đã GPMB, hỗ trợ tái định cư ~100 ha tại thôn Cù Hà và thôn Phẻo, xã Gia Phú, chung cho 02 KCN). Mục tiêu khởi công tháng 9/2026.
+- **Võ Lao:** BQL hướng dẫn thủ tục pháp lý tại VB 1052/BQL-QHXD ngày 17/7/2026.
+- **KCN Cam Đường — ĐANG TRÌNH, CHƯA CÓ QĐ (không viện dẫn như KCN đã chấp thuận):** địa điểm phường Cam Đường, quy mô **196,3 ha**; QH phân khu phê duyệt tại **QĐ 96/QĐ-BQL ngày 18/6/2026** của BQL KKT. Ngày 19/6/2026 BQL tiếp nhận hồ sơ đề xuất dự án của **Công ty CP đầu tư Lê Premium**; thẩm định tại BC 204/BC-BQL ngày 29/6/2026 + BC bổ sung 221/BC-BQL ngày 10/7/2026; UBND tỉnh xin ý kiến tại VB 6704/UBND-KT ngày 01/7/2026, Bộ Công an tham gia ý kiến tại CV 12783/ANKT-ANTCĐT ngày 21/7/2026; UBND tỉnh đang xem xét chấp thuận theo quy định. Mục tiêu khởi công tháng 8/2026 (Báo cáo Sở Công Thương). Khi có QĐ chấp thuận, cập nhật thành mục VI và nâng tổng số KCN lên 12.
 
 ## VI. LƯU Ý NGHIỆP VỤ CHO SỞ CÔNG THƯƠNG
 

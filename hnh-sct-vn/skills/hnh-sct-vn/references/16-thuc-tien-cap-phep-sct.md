@@ -36,7 +36,7 @@ Chuỗi hồ sơ nội bộ hoàn chỉnh cho một vụ cấp mới (theo bộ 
    - **I. THÀNH PHẦN:** "1. Sở Công Thương tỉnh Lào Cai." rồi 02 người: *Ông Trần Trọng Trang, Phó Trưởng phòng - Phòng QLCN - Chủ trì*; *Ông Trần Đăng Khôi, Chuyên viên - Phòng QLCN - Thành viên*. (Thành phần thực tế của Sở cho HHNH - **Phó Trưởng phòng Trang chủ trì + chuyên viên Khôi**, KHÔNG phải Trưởng phòng Long.)
    - **II. NỘI DUNG VÀ KẾT QUẢ THẨM ĐỊNH:** *1. Thông tin về đơn vị* (tên, địa chỉ, ĐKKD - mã số + ngày cấp + "Phòng Doanh nghiệp - Sở Tài chính tỉnh Lào Cai", người đại diện, điện thoại). *2. Kết quả thẩm định:* **a)** Thành phần hồ sơ - bảng **STT | Tài liệu** (CHỈ 2 cột, KHÔNG có cột Đạt/Không; ghi kèm số hiệu từng văn bản trong hồ sơ); **b)** Về điều kiện phương tiện - bảng (TT | Loại xe, biển số | Đăng kiểm | Trọng tải (kg) | Thời hạn kiểm định | Niên hạn) + đoạn đánh giá nêu số GCN kiểm định ATKT&BVMT, GCN kiểm định phương tiện đo của xi téc, khối lượng chuyên chở, **lưu ý mốc kiểm định nào hết hạn trước khi hết thời hạn GP (24 tháng)**; **c)** Về nhân sự - "- Lái xe:" bảng (TT | Tên/định danh | Hạng/số GPLX/thời hạn | GCN tập huấn | HĐLĐ); "- Người áp tải:" đoạn văn (nếu DN không bố trí thì nêu rõ + căn cứ + kiến nghị để Lãnh đạo quyết); **d)** Danh mục hàng hóa - bảng (TT | Tên gọi và mô tả | Số hiệu UN | Loại nhóm hàng | Số hiệu nguy hiểm), đối chiếu Phụ lục I; **đ)** Về Phương án (số ... ngày ...) - đoạn đánh giá đủ nội dung điểm d khoản 2 Điều 15, tuyến đường, thời gian, biện pháp ứng cứu, **cam kết Điều 11 (không qua hầm ≥100m/phà)**, nêu điểm cần hoàn thiện. *3. Nhận xét, kiến nghị của Phòng QLCN.*
    - **Kết đoạn:** "Việc thẩm định hồ sơ hoàn thành hồi ... giờ ... phút cùng ngày. Biên bản được lập thành 01 bản, lưu tại Phòng Quản lý Công nghiệp để phục vụ việc trình cấp Giấy phép./."
-   - **Chữ ký (bảng 1x3):** *NGƯỜI THẨM ĐỊNH* (Trần Đăng Khôi) | (ô giữa trống) | *PHÓ TRƯỞNG PHÒNG* (Trần Trọng Trang). Khối chữ ký đặt `cantSplit` để không gãy giữa 2 trang.
+   - **Chữ ký (bảng 1x3) - MẪU MỚI từ 20/7/2026 (vụ Toàn Phát TQ):** *ĐẠI DIỆN CÔNG TY / ĐẠI DIỆN CHI NHÁNH* (người đứng đầu đơn vị hoặc người được cử dự) | (ô giữa trống) | *TRƯỞNG ĐOÀN* (Trần Trọng Trang). Mẫu cũ (NGƯỜI THẨM ĐỊNH | PHÓ TRƯỞNG PHÒNG - kiểu Thái Thịnh) KHÔNG dùng nữa. Khối chữ ký đặt `cantSplit` để không gãy giữa 2 trang. Xem chi tiết mẫu chuẩn mới ở mục 6 dưới.
 4. **Biên bản kiểm tra thực tế** (khi cần, nhất là hồ sơ phức tạp/xe nước ngoài): Đoàn của Sở; khi Bạn nói "tôi" trong phân công thành phần thì hiểu là Trần Trọng Trang - Phó Trưởng phòng QLCN, thường là Trưởng đoàn cấp phòng.
 5. **Phiếu trình** lãnh đạo Sở (Phòng QLCN trình PGĐ) kèm: biên bản thẩm định, dự thảo GP, hồ sơ - mẫu tham chiếu Phiếu trình Cục Hóa chất tại vi-du-thuc-te/cuc-hoa-chat/.
 6. PGĐ ký GP → phát hành, gửi nơi nhận (có CSGT), đăng thông tin GP lên trang thông tin điện tử của Sở.
@@ -57,3 +57,32 @@ Quy trình nội bộ TTHC ban hành kèm QĐ của Chủ tịch UBND tỉnh (th
 
 - **PCCC phương tiện VLNCN/TCTN đang vướng:** UBND tỉnh đã có CV **3686/UBND-XD ngày 11/5/2026** kiến nghị Bộ Xây dựng tháo gỡ (QCVN 122:2024, TT 47/2024/TT-BGTVT chưa có hạng mục kiểm tra PCCC; Cục Đăng kiểm chưa hướng dẫn). Khi doanh nghiệp VLNCN hỏi lây sang phòng, trả lời: thủ tục GP vận chuyển VLNCN/TCTN thuộc cơ quan Công an theo Luật 42/2024, vướng mắc kiểm định PCCC đang được UBND tỉnh kiến nghị Trung ương - bản CV tại van-ban-goc/04-uy-quyen-quy-trinh/.
 - **Từ 01/7/2026, UBND cấp tỉnh có thẩm quyền cấp giấy phép xuất khẩu, nhập khẩu VLNCN** (khoản 2 Điều 27 TT 26/2026) - lĩnh vực VLNCN do PGĐ Hoàng Văn Thuân phụ trách, KHÔNG nhập vào thủ tục HHNH này nhưng cần biết để chuyển đúng đầu mối.
+
+## 6. Cập nhật 22/7/2026 - vụ Chi nhánh số 1 Sợi Phương Nam (02 bộ: Argon lỏng + NH3, xe biển Trung Quốc)
+
+Ví dụ đầy đủ tại `vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/` (mẫu biên bản chuẩn Toàn Phát TQ + 2 biên bản + CV chung + 2 GP).
+
+### 6.1. Biên bản thẩm định - MẪU CHUẨN MỚI (từ vụ Toàn Phát TQ 20/7/2026, tệp Bien-ban-tham-dinh-ToanPhatTQ-NH3-mau-chuan-202607.docx)
+- **4 căn cứ:** NĐ 161/2024; Điều 44 NĐ 105/2025 (PCCC); khoản 2 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; QĐ 1696/QĐ-UBND 15/5/2026.
+- **Địa điểm làm việc: TẠI TRỤ SỞ DOANH NGHIỆP/CHI NHÁNH** (ghi kèm địa chỉ), KHÔNG ghi "tại Sở Công Thương" (Bạn đã chốt 22/7/2026).
+- Giờ, ngày thẩm định (dòng mở đầu và dòng kết "hoàn thành hồi ... giờ ... phút cùng ngày") ĐỂ TRỐNG khi soạn, Bạn điền tay khi thẩm định thực tế; ngày trên header cũng để trống ngày trong tháng.
+- **Bảng phương tiện 6 cột:** TT | Loại xe, Biển kiểm soát | Đăng kiểm | Trọng tải được phép chở (kg) | Thời hạn kiểm định | **Niên hạn sử dụng** (đọc từ Giấy phép lưu hành "thời gian hết hạn sử dụng/bắt buộc hủy bỏ"; SMRM không đọc được thì ghi "Theo Giấy phép lưu hành").
+- **Câu nhận xét Phương án (mục đ): BỎ chữ "tối thiểu"** - viết "Phương án số ... ngày ... có đủ các nội dung theo điểm d khoản 2 Điều 15 Nghị định số 161/2024/NĐ-CP (...)". RIÊNG bảng thành phần hồ sơ (mục a, dòng 4) GIỮ nguyên văn NĐ "bao gồm tối thiểu các nội dung" vì là trích quy định, không phải nhận xét của Đoàn.
+- Thành phần đoàn: PTP Trần Trọng Trang chủ trì + chuyên viên (mẫu 20/7 vẫn ghi Trần Đăng Khôi dù HHNH đã chuyển CN Linh từ 15/7 - hỏi Bạn khi soạn vụ mới).
+- Lưu ý nghiệp vụ ghi TRONG biên bản (không ghi trong văn bản gửi DN): mốc kiểm định xe/bồn/GPLX/GCN tập huấn nào hết hạn trước khi hết thời hạn GP đề nghị.
+
+### 6.2. Bài học kiểm định BỒN CHỨA tách riêng kiểm định XE (xe biển Trung Quốc)
+- Với tổ hợp bồn chở khí, hồ sơ Trung Quốc có 2 loại kiểm định độc lập: (1) kiểm định xe (Giấy phép lưu hành - 检验有效期); (2) **báo cáo kiểm định định kỳ bồn áp lực** của Viện kiểm định thiết bị đặc biệt cấp tỉnh (Tứ Xuyên, Vân Nam...), có "ngày kiểm định lần tới" RIÊNG, thường SỚM HƠN hạn kiểm định xe. Vụ Sợi Phương Nam NH3: xe 10/2026-05/2027 nhưng bồn AF366 hết 08/9/2026.
+- Doanh nghiệp thường CHỈ kê hạn kiểm định xe, bỏ sót mốc bồn → phải tự đọc 4 báo cáo bồn, ghi cả 2 mốc vào biên bản; nghĩa vụ duy trì "kiểm định của phương tiện VÀ của bồn chứa" tách thành điều kiện riêng trong CV/biên bản.
+- Khi hồ sơ ghi dung tích bồn mâu thuẫn (vụ này 42/49m3 hoán vị giữa Giấy đề nghị và Phương án): KHÔNG ghi dung tích vào biên bản/GP, chờ DN chốt; mô tả phương tiện chỉ cần "Sơ mi rơ moóc - [biển số] (kéo) kèm bồn chứa khí [tên hàng]".
+
+### 6.3. Hàng mới: Argon, chất lỏng làm lạnh
+- UN **1951**, loại 2 (nhóm 2.2 - khí không cháy, không độc), SHNH **22** (Phụ lục I TT 1293). Dạng nén là UN 1006. Thuộc nhóm Sở ký theo ủy quyền QĐ 1696.
+- Không thuộc "chất dễ cháy, nổ" - không vướng Điều 11 (hầm ≥100m/phà); tập huấn loại/nhóm 2 là đủ.
+
+### 6.4. Cách viết thời hạn GP khi niên hạn sử dụng là ràng buộc gần
+- Khi niên hạn (thời gian hết hạn sử dụng xe) rơi trong vòng ~24 tháng tới: viết "Thời hạn của Giấy phép: 24 tháng kể từ ngày ký **nhưng không vượt quá ngày [niên hạn]**./." - mệnh đề chốt là ràng buộc TRỰC TIẾP của khoản 3 Điều 13 NĐ 161 (không phải điều kiện tự thêm). Vụ Argon: cả 2 xe hết hạn sử dụng 23/8/2028.
+- Mốc kiểm định (xe/bồn) vẫn KHÔNG được viện dẫn làm căn cứ khống chế thời hạn (nguyên tắc 11); cấp ngắn hơn theo mốc kiểm định là quyết định nghiệp vụ ghi trong Phiếu trình/Biên bản. Tiền lệ: GP NH3 16 xe (02/7/2026) cấp 23 tháng.
+
+### 6.5. CV hướng dẫn hoàn thiện CHUNG cho nhiều bộ hồ sơ cùng đơn vị
+- 01 công văn chung được (vụ này 2 bộ Argon + NH3): mở đầu liệt kê từng bộ theo số/ngày đơn; thân chia mục theo từng bộ + mục chung (thời hạn GP); chỉ yêu cầu trong khuôn khổ Điều 15 và tính chính xác thông tin DN tự kê - KHÔNG yêu cầu ngoài quy định (không đòi "phương án làm sạch thiết bị BVMT", không đòi tập huấn loại 8 khi hàng là loại 2, không đòi cam kết Điều 11 riêng khi hàng không dễ cháy nổ và tuyến không qua hầm/phà).

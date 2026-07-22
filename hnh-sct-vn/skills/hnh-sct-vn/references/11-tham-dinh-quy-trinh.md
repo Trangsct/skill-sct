@@ -126,3 +126,9 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 | Phương án | Nội dung tối thiểu điểm d khoản 1/2 Điều 15 | Biển số xe, tên lái xe, loại hàng, khối lượng (rõ theo chuyến/tháng/năm), tuyến, thời gian, biện pháp ứng cứu; nhất quán tên công ty và năm trên trang bìa; tuyến không qua hầm ≥100m/phà (Điều 11) |
 
 **Nhất quán chéo toàn hồ sơ (nguồn lỗi lớn nhất):** cùng một dữ kiện (biển số, tên người, khối lượng, tuyến, có/không áp tải) phải giống nhau ở Giấy đề nghị - Bảng kê - Phương án - Lịch trình. Lệch bất kỳ chỗ nào → đưa vào công văn đề nghị bổ sung, yêu cầu thống nhất.
+
+### Bổ sung 22/7/2026 - lỗi thẩm định thường gặp (tiếp)
+
+10. **Bỏ sót mốc kiểm định bồn áp lực khi thẩm định tổ hợp bồn chở khí biển Trung Quốc**: hạn kiểm định xe (Giấy phép lưu hành) và hạn kiểm định bồn (báo cáo Viện kiểm định thiết bị đặc biệt cấp tỉnh của TQ) là 2 mốc độc lập, mốc bồn thường sớm hơn; DN chỉ kê hạn xe. Phải đọc từng báo cáo bồn, ghi cả 2 mốc vào biên bản, tách nghĩa vụ duy trì "kiểm định của phương tiện và của bồn chứa" thành điều kiện riêng. Chi tiết reference 16 mục 6.2.
+11. **Ghi số liệu đang mâu thuẫn của hồ sơ vào văn bản của Sở**: khi 2 tài liệu trong hồ sơ ghi 2 giá trị khác nhau (vd dung tích bồn 42/49m3 hoán vị), KHÔNG chọn một giá trị đưa vào biên bản/GP - bỏ trống thông số đó, yêu cầu DN thống nhất trước.
+12. **Biên bản thẩm định dùng mẫu cũ**: từ 20/7/2026 dùng mẫu mới (địa điểm tại trụ sở DN, bảng ký ĐẠI DIỆN đơn vị + TRƯỞNG ĐOÀN, cột niên hạn sử dụng, bỏ "tối thiểu" ở nhận xét phương án) - reference 16 mục 6.1, mẫu tại vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/.

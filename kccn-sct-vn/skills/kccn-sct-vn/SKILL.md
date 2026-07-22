@@ -18,7 +18,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 5. **Rà soát điều kiện khởi công** công trình hạ tầng CCN/KCN (Đ.48 Luật Xây dựng 135/2025; miễn GPXD trong CCN theo Đ.21 NĐ 32) → reference `08`.
 6. **Chế độ báo cáo, cập nhật CSDL CCN** (TT 14/2024; báo cáo về Cục ĐCK): Biểu 01-04 → reference `09` + `mau-van-ban/04`.
 7. **Xử lý tình huống đặc thù**: FDI làm chủ đầu tư; CCN hình thành trước QĐ 105/2009 (hạn 31/12/2026); đơn vị sự nghiệp/vốn NSNN làm CĐT; điều chỉnh, bãi bỏ QĐ thành lập; chồng lấn quy hoạch → reference `11`.
-8. **Tra cứu danh mục, vị trí xã, quy hoạch, thu hút đầu tư** của từng KCN/CCN Lào Cai → reference `12` (tra nhanh + địa danh dễ nhầm); toàn văn Phụ lục II, III QĐ 525 → reference `13`; danh mục thu hút đầu tư QĐ 1382 (TMĐT, nhà đầu tư) → reference `14`; trạng thái chấp thuận CTĐT các KCN mới (Bản Qua, Phú Xuân, Phú Xuân 1, Võ Lao — QĐ 2170/2336/2338/2463, tổng 11 KCN đến 16/7/2026) → reference `15`. (Lưu ý: hiện trạng lấp đầy/tiến độ là số liệu tĩnh, HỎI Bạn — không tự tra.)
+8. **Tra cứu danh mục, vị trí xã, quy hoạch, thu hút đầu tư** của từng KCN/CCN Lào Cai → reference `12` (tra nhanh + địa danh dễ nhầm); toàn văn Phụ lục II, III QĐ 525 → reference `13`; danh mục thu hút đầu tư QĐ 1382 (TMĐT, nhà đầu tư) → reference `14`; trạng thái chấp thuận CTĐT các KCN mới (Bản Qua, Phú Xuân, Phú Xuân 1, Võ Lao — QĐ 2170/2336/2338/2463, tổng 11 KCN đến 16/7/2026; KCN Cam Đường đang trình) → reference `15`; tiến độ thực hiện NQ 34-NQ/TU chốt đến 20/7/2026 (GPMB 500,30 ha; mặt bằng sạch 280,33 ha; bảng 15 khu/cụm; di dời Đông Phố Mới; Tằng Loỏng sinh thái; XLNT) → reference `17`. (Lưu ý: hiện trạng lấp đầy/tiến độ là số liệu ĐỘNG — reference 17 chỉ đúng tại 20/7/2026, kỳ báo cáo sau HỎI Bạn.)
 
 ## II. QUY TRÌNH CHUẨN (bắt buộc)
 
@@ -76,6 +76,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `references/14-qd1382-danh-muc-thu-hut.md` | QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục thu hút đầu tư, chi tiết 13 KCN (40.044 tỷ) + 35 CCN (22.854 tỷ) kèm TMĐT, nhà đầu tư, phân nhóm tiến độ; suất vốn QĐ 425/QĐ-BXD |
 | `references/15-kcn-chap-thuan-ctdt-2026.md` | 04 KCN được chấp thuận CTĐT 6-7/2026: Bản Qua (QĐ 2170, 76,39 ha, GCN ĐKĐT 30/6), Phú Xuân (QĐ 2336) & Phú Xuân 1 (QĐ 2338, NĐT Linh Linh, xã Gia Phú), Võ Lao (QĐ 2463 ngày 16/7/2026, 482,6 ha, xã Võ Lao + Tằng Loỏng, NĐT Châu Giang); nâng tổng 11 KCN; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU |
 | `references/16-uu-dai-dau-tu-ccn.md` | Chính sách ưu đãi đầu tư trong CCN (Tài liệu Sở 21/7/2026): thuế TNDN 10%/15 năm hoặc 17%/10 năm theo địa bàn xã (Luật 67/2025, NĐ 320/2025); miễn tiền thuê đất XDCB + 7/11/15 năm (Đ.39 NĐ 103/2024); đơn giá thuê đất 0,8%; NSNN hỗ trợ ≤30% vốn hạ tầng; QĐ 2167/QĐ-UBND 87 xã ĐBKK + 08 xã KK; bảo đảm đầu tư, đầu mối liên hệ |
+| `references/17-tien-do-nq34-thang7-2026.md` | Tiến độ NQ 34-NQ/TU chốt đến 20/7/2026 (BC Sở Công Thương + BC BQL KKT tháng 7/2026): GPMB 500,30/623,49 ha (80,24%), mặt bằng sạch 280,33 ha (56,06%); bảng 15 khu/cụm trọng điểm; trạng thái thủ tục 10 CCN mới; tiến độ 04 KCN sau CTĐT + hồ sơ Cam Đường; di dời KCN Đông Phố Mới; Tằng Loỏng sinh thái + XLNT + dự án trọng tâm; khó khăn - kiến nghị. ⚠️ DỮ LIỆU ĐỘNG — kỳ sau hỏi Bạn |
 
 ## V. BIỂU MẪU SẴN SÀNG (`mau-van-ban/`)
 

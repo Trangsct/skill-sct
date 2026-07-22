@@ -1,5 +1,20 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.6.0 — 2026-07-22 (tiến độ NQ 34-NQ/TU đến 20/7/2026 + hồ sơ KCN Cam Đường)
+
+### Thêm mới
+- `references/17-tien-do-nq34-thang7-2026.md`: chưng cất 2 báo cáo tháng 7/2026 (BC Sở Công Thương gửi UBND tỉnh, số liệu chốt đến 20/7/2026, PGĐ Nguyễn Đình Chiến ký; BC Ban Quản lý Khu kinh tế gửi Sở, Trưởng ban Vương Trinh Quốc ký). Nội dung: GPMB **500,30 ha = 80,24%** KH năm 623,49 ha; mặt bằng sạch **280,33 ha = 56,06%** mục tiêu 500 ha; bảng 15 khu/cụm trọng điểm (Trấn Yên 142 ha; Khu Bản Qua 85,60 ha; Kim Thành - Bản Vược 19,50 ha; Thống Nhất 1 GPMB xong 74,97 ha + 5 ha sạch; Phú Thịnh 2: 62/75 + 3 ha; Phú Thịnh 3: 43/75 + 5 ha…); trạng thái thủ tục 10 CCN mới (Yên Hợp 2 — TTr 4213/TTr-SCT 15/7; Tân Nguyên — TTr 4290 16/7; Châu Quế — TTr 4299 17/7; Báo Đáp, Bắc Văn Yên, Đông An, Bản Phiệt 1, Phú Thịnh 6, Phú Thịnh 4, An Thịnh); tiến độ 04 KCN sau CTĐT + 02 BCĐ (PCT Nguyễn Thành Sinh, PCT Phan Trung Bá); di dời KCN Đông Phố Mới (2 dự án hạ tầng, kiểm đếm 38/39 tổ chức, TB thu hồi đất 84 hộ); Tằng Loỏng (Đề án sinh thái — VB 3413/UBND-KT 04/5, TTr 33/TTr-BQL 16/6; GPMT 493/GPMT-BNNMT; di dân ~1.300 tỷ; GTSXCN 6 tháng 14.426 tỷ = 58% KH, +20%); XLNT KCN đạt chuẩn 33,33%; 4 dự án trọng tâm (Lao Kay hoạt động từ 10/7/2026); khó khăn - kiến nghị; 5 lưu ý nghiệp vụ (phân biệt GPMB ≠ mặt bằng sạch, 2 mẫu số 80,24%/56,06%).
+
+### Cập nhật
+- `references/15`: tiêu đề cập nhật đến 22/7/2026; thêm mục V-bis — tiến độ sau chấp thuận CTĐT của 4 KCN (VB hướng dẫn 879/964/965/1052/BQL-QHXD; hợp đồng Đại Hồng Phát, ACUD, đo đạc Miền Bắc; GPMB ~100 ha Cù Hà + Phẻo) và hồ sơ **KCN Cam Đường** (196,3 ha; QH phân khu QĐ 96/QĐ-BQL 18/6/2026; NĐT đề xuất Công ty CP đầu tư Lê Premium; thẩm định BC 204 + 221/BC-BQL; ý kiến Bộ Công an CV 12783/ANKT-ANTCĐT 21/7/2026; ĐANG TRÌNH — chưa viện dẫn như KCN đã chấp thuận; mục tiêu khởi công 8/2026).
+- `SKILL.md`: mục lục + trigger 8 thêm reference 17.
+- Website congnghieplaocai.vn đồng bộ cùng ngày (tin 22/7/2026 + cập nhật 16 đơn vị trong ccn-data.json/unit-details.json + chatbot context, SW v66).
+
+## v1.5.0 — 2026-07-21 (chính sách ưu đãi đầu tư trong CCN)
+
+### Thêm mới
+- `references/16-uu-dai-dau-tu-ccn.md`: chính sách ưu đãi đầu tư trong CCN theo Tài liệu Sở 21/7/2026 (thuế TNDN, tiền thuê đất, hỗ trợ hạ tầng ≤30%, danh mục xã ĐBKK/KK theo QĐ 2167/QĐ-UBND). (Ghi bổ sung hồi cứu — bản phát hành 1.5.0 thiếu entry CHANGELOG.)
+
 ## v1.4.0 — 2026-07-20 (KCN Võ Lao được chấp thuận chủ trương đầu tư)
 
 ### Thêm mới

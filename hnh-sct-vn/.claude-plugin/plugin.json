@@ -1,5 +1,8 @@
 {
   "name": "hnh-sct-vn",
   "version": "1.3.0",
-  "description": "Chuyên gia vận chuyển hàng hóa nguy hiểm (HHNH) của Sở Công Thương tỉnh Lào Cai: thẩm định hồ sơ, tham mưu cấp/điều chỉnh/cấp lại/thu hồi Giấy phép vận chuyển HHNH loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 9 (Sở ký theo ủy quyền QĐ 1696) và loại 5, 8 (Sở thẩm định, trình UBND tỉnh ký); trả lời, hướng dẫn doanh nghiệp; kiểm tra chuyên ngành NĐ 217/2025; báo cáo cấp trên. Chuyên sâu xuyên biên giới Việt - Trung (xe biển Trung Quốc, cửa khẩu Kim Thành, Hà Khẩu). Kèm văn bản gốc và ví dụ thực tế của Sở (mẫu biên bản thẩm định mới 7/2026, giấy phép đã cấp)."
+  "description": "Chuyên gia vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1(trừ VLNCN/TCTN),2,3,4,5,8,9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung pháp lý: Luật 36/2024 (Điều 51), Luật Đường bộ 35/2024, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696/QĐ-UBND. Kèm văn bản gốc, mẫu hồ sơ, ví dụ thực tế (mẫu biên bản thẩm định mới 7/2026), chuyên sâu xuyên biên giới Việt - Trung.",
+  "author": {
+    "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
+  }
 }

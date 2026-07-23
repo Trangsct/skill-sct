@@ -23,7 +23,7 @@ Kết luận số 18-KL/TW của Trung ương
 
 **Kênh báo cáo:** nội dung NQ 169 được **lồng ghép** vào Báo cáo tình hình thực hiện **Nghị quyết số 01/NQ-CP** của Chính phủ về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước hằng năm.
 
-⚠️ **GATE số văn bản:** số 7323 trên bản scan là dấu đóng số tự động, OCR không xác minh được; Phụ lục trong cùng file hiển thị 7325. **Bạn xác nhận trước khi viện dẫn.**
+✅ **Số văn bản đã xác nhận:** **7323/UBND-TH ngày 17/7/2026**, Chủ tịch UBND tỉnh Nguyễn Tuấn Anh ký (đối chiếu bản gốc, xác nhận ngày 23/7/2026). Con số 7325 trên trang Phụ lục của bản scan là lệch dấu đóng số — không dùng.
 
 ---
 

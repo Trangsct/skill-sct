@@ -61,8 +61,8 @@ Trục xương sống của công tác điều hành tăng trưởng (chi tiết
 2. **Nghị quyết số 25/2026/QH16 của Quốc hội** — chỉ tiêu kinh tế - xã hội.
 3. **Nghị quyết số 109/NQ-CP của Chính phủ**.
 4. **Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ** — mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030. **Đây là văn bản giao chỉ tiêu gốc.**
-5. **Công văn số 7323/UBND-TH ngày 17/7/2026 của UBND tỉnh Lào Cai** — triển khai NQ 169 trên địa bàn; kèm Phụ lục phân công cơ quan chủ trì theo dõi, tổng hợp, đánh giá và báo cáo 32 chỉ tiêu.
-   > ⚠️ **GATE**: số văn bản (7323) là **dấu đóng số tự động trên bản scan**, OCR không đọc được để xác minh máy. Trước khi viện dẫn trong văn bản phát hành, **Bạn xác nhận lại số** trên bản gốc (Phụ lục trong cùng file scan hiển thị số 7325 — có khả năng lệch dấu đóng số).
+5. **Công văn số 7323/UBND-TH ngày 17/7/2026 của UBND tỉnh Lào Cai** — triển khai NQ 169 trên địa bàn; kèm Phụ lục phân công cơ quan chủ trì theo dõi, tổng hợp, đánh giá và báo cáo 32 chỉ tiêu. Người ký: Chủ tịch UBND tỉnh Nguyễn Tuấn Anh.
+   > ✅ Số văn bản **7323** đã được đối chiếu bản gốc và xác nhận ngày 23/7/2026. (Con số 7325 xuất hiện trên trang Phụ lục của bản scan là lệch dấu đóng số, không dùng.)
 6. **Nghị quyết số 01/NQ-CP** hằng năm — báo cáo NQ 169 được **lồng ghép** vào báo cáo NQ 01.
 7. **Nghị quyết số 34-NQ/TU của Tỉnh ủy Lào Cai** — phát triển hạ tầng KCN/CCN, GPMB (theo dõi tại `kccn-sct-vn`).
 8. **Quyết định 525/QĐ-UBND ngày 25/02/2026** — Quy hoạch tỉnh; **Quyết định 1382/QĐ-UBND ngày 23/4/2026** — Danh mục dự án thu hút đầu tư 2026-2030 (nguồn gốc của danh mục dự án tiềm năng).

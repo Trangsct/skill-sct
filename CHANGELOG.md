@@ -1,5 +1,16 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-23 (bổ sung 2) — dacn-sct-vn v1.0.1: xác nhận 03 điểm treo, gỡ toàn bộ GATE
+
+Bạn đã đối chiếu bản gốc có dấu và xác nhận ngày 23/7/2026. Ba nội dung treo khi phát hành v1.0.0 nay đã chốt:
+
+1. **Công văn triển khai NQ 169 của UBND tỉnh Lào Cai: số 7323/UBND-TH ngày 17/7/2026**, Chủ tịch Nguyễn Tuấn Anh ký. Con số 7325 trên trang Phụ lục của bản scan là lệch dấu đóng số — không dùng.
+2. **Ba dòng phân nhóm hàng xuất khẩu CÓ trên bản ký** và dùng chính thức: 7a nông-lâm-thuỷ sản 87,5%; 7b công nghiệp chế biến, chế tạo 7,14%; 7c nhiên liệu, khoáng sản 18,18% (mục tiêu năm 2026). Việc 7a, 7b mờ/mất khi in và 7c bị đánh số nhầm thành TT 10 là lỗi in ấn của bản scan, không phải nội dung văn bản — khi lập bảng báo cáo đánh số lại theo trật tự 7a, 7b, 7c dưới chỉ tiêu 7.
+3. **Chỉ tiêu 29 (tỷ lệ KCN đang hoạt động có hệ thống XLNT tập trung đạt chuẩn), mục tiêu năm 2026 = 42%** theo bản ký; 41,7% trong bản dự thảo Excel là số cũ — không dùng.
+
+- Sửa: `SKILL.md` mục III.5, `references/01`, `references/02` (gỡ 02 cảnh báo + thêm hướng dẫn đánh số lại 7a/7b/7c), `mau-van-ban/01` (điền số vào đoạn mở đầu + sửa lưu ý 1), `mau-van-ban/02`, `mau-van-ban/03` (điền đủ số, ngày Công văn ở phần căn cứ), `plugin.json` v1.0.1.
+- **Kết quả:** plugin không còn nội dung treo; toàn bộ căn cứ pháp lý đủ điều kiện viện dẫn trực tiếp vào văn bản phát hành.
+
 ## 2026-07-23 — Thêm plugin dacn-sct-vn v1.0.0: quản lý dự án công nghiệp phục vụ mục tiêu tăng trưởng
 
 - **Plugin mới**, cấu trúc chuẩn. Đáp ứng **Nghị quyết 169/NQ-CP ngày 27/6/2026** của Chính phủ về mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030 (thực hiện KL 18-KL/TW, NQ 25/2026/QH16, NQ 109/NQ-CP) và **Công văn triển khai của UBND tỉnh Lào Cai ngày 17/7/2026** kèm Phụ lục phân công 32 chỉ tiêu. Sở Công Thương **chủ trì 09 chỉ tiêu**, phối hợp 06.

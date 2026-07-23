@@ -1,6 +1,6 @@
 # Reference 02 — Bảng chỉ tiêu Nghị quyết 169/NQ-CP phân công cho tỉnh Lào Cai
 
-**Nguồn:** Phụ lục "Phân công cơ quan chủ trì theo dõi, tổng hợp, đánh giá và báo cáo các chỉ tiêu thực hiện Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ" — kèm theo Công văn số 7323/UBND-TH ngày 17/7/2026 của UBND tỉnh Lào Cai (⚠️ số văn bản chờ Bạn xác nhận, xem SKILL.md mục III.5).
+**Nguồn:** Phụ lục "Phân công cơ quan chủ trì theo dõi, tổng hợp, đánh giá và báo cáo các chỉ tiêu thực hiện Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ" — kèm theo **Công văn số 7323/UBND-TH ngày 17/7/2026** của UBND tỉnh Lào Cai (Chủ tịch Nguyễn Tuấn Anh ký). Số văn bản đã đối chiếu bản gốc, xác nhận ngày 23/7/2026.
 
 **Ghi chú của Phụ lục:** chỉ tiêu thực hiện được Thủ tướng Chính phủ giao tại Nghị quyết 169/NQ-CP.
 
@@ -26,7 +26,7 @@
 | 15 | Tăng trưởng điện thương phẩm bình quân | % | >11 | 4,97 | **12,10** | Thống kê tỉnh; Công ty Điện lực Lào Cai |
 | 32 | Tỷ lệ doanh nghiệp công nghiệp áp dụng giải pháp sử dụng năng lượng tiết kiệm, hiệu quả đến năm 2030 | % | 62 | 40 | **50** | Ban Quản lý các Khu công nghiệp; Ban Quản lý Khu kinh tế tỉnh |
 
-⚠️ **Lưu ý về 7a, 7b, 7c:** ba dòng phân nhóm hàng xuất khẩu có đầy đủ trong **bản dự thảo Excel** của Phụ lục. Trên **bản ký (scan PDF)** chỉ hiển thị dòng "Nhóm nhiên liệu, khoáng sản" (đánh số nhầm là TT 10, chèn giữa TT 7 và TT 8), hai dòng nông-lâm-thuỷ sản và chế biến-chế tạo bị mất khi in. **Trước khi viện dẫn 7a, 7b trong văn bản phát hành, đề nghị Bạn đối chiếu bản gốc có dấu.**
+✅ **Lưu ý về 7a, 7b, 7c:** ba dòng phân nhóm hàng xuất khẩu **có trên bản ký** và được sử dụng chính thức (đối chiếu bản gốc, xác nhận ngày 23/7/2026). Trên bản scan lưu hành, hai dòng 7a và 7b hiển thị mờ/mất khi in và dòng 7c bị đánh số nhầm thành TT 10 (chèn giữa TT 7 và TT 8) — đây là lỗi in ấn của bản scan, không phải nội dung văn bản. Khi lập bảng trong báo cáo, đánh số lại theo trật tự 7a, 7b, 7c dưới chỉ tiêu 7 cho đúng logic.
 
 ---
 
@@ -44,7 +44,7 @@
 | 30 | Tỷ lệ xử lý và tái sử dụng nước thải ra môi trường lưu vực các sông | % | 65 | 20 | 22 | Sở Nông nghiệp và Môi trường |
 | 31 | Tỷ lệ cơ sở sản xuất kinh doanh đạt quy chuẩn về môi trường | % | 98 | 45 | 50 | Sở Nông nghiệp và Môi trường |
 
-⚠️ **Chỉ tiêu 29:** bản ký ghi mục tiêu 2026 là **42%**; bản dự thảo Excel ghi **41,7%**. Dùng số bản ký (42) và ghi chú khi cần độ chính xác cao.
+✅ **Chỉ tiêu 29:** mục tiêu năm 2026 là **42%** theo bản ký (xác nhận ngày 23/7/2026). Con số 41,7% trong bản dự thảo Excel là số cũ — không dùng.
 
 ---
 

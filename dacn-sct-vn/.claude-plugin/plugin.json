@@ -1,6 +1,6 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo Nghị quyết 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (7/2026): tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20 gửi Sở Tài chính; kịch bản tăng trưởng.",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"

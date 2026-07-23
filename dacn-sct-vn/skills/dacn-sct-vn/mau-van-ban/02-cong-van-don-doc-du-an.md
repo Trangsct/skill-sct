@@ -18,7 +18,7 @@ Kính gửi:
 
 **1. Căn cứ và bối cảnh**
 
-> Thực hiện Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ về mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030 và Công văn số ..../UBND-TH ngày 17/7/2026 của Ủy ban nhân dân tỉnh Lào Cai triển khai thực hiện;
+> Thực hiện Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ về mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030 và Công văn số 7323/UBND-TH ngày 17/7/2026 của Ủy ban nhân dân tỉnh Lào Cai triển khai thực hiện;
 >
 > Qua theo dõi, dự án ... do ... làm chủ đầu tư [nêu tình trạng: chậm tiến độ ... tháng so với tiến độ cam kết tại Quyết định số ... ngày .../.../...], ảnh hưởng đến việc hoàn thành chỉ tiêu ... được giao cho ngành Công Thương.
 

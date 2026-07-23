@@ -1,6 +1,6 @@
 # Mẫu 03 — Báo cáo giải trình chỉ tiêu có nguy cơ không hoàn thành
 
-**Căn cứ:** điểm d khoản 2 mục III và khoản 6 mục III Công văn triển khai — chỉ tiêu có nguy cơ không hoàn thành phải kịp thời xác định nguyên nhân, đề xuất giải pháp và **báo cáo Ủy ban nhân dân tỉnh qua Sở Tài chính**; người đứng đầu trực tiếp chỉ đạo.
+**Căn cứ:** điểm d khoản 2 mục III và khoản 6 mục III Công văn số 7323/UBND-TH ngày 17/7/2026 của UBND tỉnh Lào Cai — chỉ tiêu có nguy cơ không hoàn thành phải kịp thời xác định nguyên nhân, đề xuất giải pháp và **báo cáo Ủy ban nhân dân tỉnh qua Sở Tài chính**; người đứng đầu trực tiếp chỉ đạo.
 
 **Loại:** Báo cáo · **Ký hiệu:** `.../BC-SCT` · **Người ký:** Giám đốc Sở Hoàng Chí Hiền
 

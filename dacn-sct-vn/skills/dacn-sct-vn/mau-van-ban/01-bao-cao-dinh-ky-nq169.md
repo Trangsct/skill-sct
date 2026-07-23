@@ -27,7 +27,7 @@ Kính gửi: Sở Tài chính tỉnh Lào Cai.
 
 **Đoạn mở đầu:**
 
-> Thực hiện Công văn số ..../UBND-TH ngày 17/7/2026 của Ủy ban nhân dân tỉnh Lào Cai về việc triển khai Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ về mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030, Sở Công Thương báo cáo kết quả thực hiện các chỉ tiêu được giao chủ trì theo dõi, tổng hợp như sau:
+> Thực hiện Công văn số 7323/UBND-TH ngày 17/7/2026 của Ủy ban nhân dân tỉnh Lào Cai về việc triển khai Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ về mục tiêu tăng trưởng của các địa phương năm 2026 và giai đoạn 2026-2030, Sở Công Thương báo cáo kết quả thực hiện các chỉ tiêu được giao chủ trì theo dõi, tổng hợp như sau:
 
 ---
 
@@ -104,7 +104,7 @@ Nơi nhận:                              GIÁM ĐỐC
 
 ## LƯU Ý KHI SOẠN
 
-1. Kiểm tra lại số/ngày Công văn triển khai của UBND tỉnh trước khi viện dẫn (GATE — xem SKILL.md mục III.5).
+1. Căn cứ viện dẫn đã chuẩn: Nghị quyết số 169/NQ-CP ngày 27/6/2026 của Chính phủ và Công văn số 7323/UBND-TH ngày 17/7/2026 của Ủy ban nhân dân tỉnh Lào Cai.
 2. Ba loại số (mục tiêu / thực hiện / dự báo) phải nằm ở ba cột riêng.
 3. Không làm tròn khác nhau giữa các bảng trong cùng báo cáo.
 4. Số liệu chưa thống nhất với Thống kê tỉnh: ghi cả hai số và tình trạng rà soát.

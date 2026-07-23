@@ -1,5 +1,24 @@
 # CHANGELOG — dacn-sct-vn
 
+## v1.0.1 — 2026-07-23 (xác nhận 03 điểm treo, gỡ toàn bộ GATE)
+
+Bạn đã đối chiếu bản gốc có dấu và xác nhận ngày 23/7/2026. Ba nội dung treo ở v1.0.0 nay đã chốt:
+
+1. **Số Công văn triển khai của UBND tỉnh Lào Cai: 7323/UBND-TH ngày 17/7/2026** (Chủ tịch Nguyễn Tuấn Anh ký). Con số 7325 trên trang Phụ lục của bản scan là lệch dấu đóng số — không dùng.
+2. **Ba dòng phân nhóm hàng xuất khẩu (7a nông-lâm-thuỷ sản 87,5%; 7b công nghiệp chế biến, chế tạo 7,14%; 7c nhiên liệu, khoáng sản 18,18%) CÓ trên bản ký** và được sử dụng chính thức. Việc 7a, 7b mờ/mất và 7c bị đánh số nhầm thành TT 10 là lỗi in ấn của bản scan, không phải nội dung văn bản. Khi lập bảng trong báo cáo, đánh số lại theo trật tự 7a, 7b, 7c dưới chỉ tiêu 7.
+3. **Chỉ tiêu 29 (tỷ lệ KCN đang hoạt động có hệ thống xử lý nước thải tập trung đạt chuẩn), mục tiêu năm 2026: 42%.** Con số 41,7% trong bản dự thảo Excel là số cũ — không dùng.
+
+### Cập nhật
+- `SKILL.md` mục III.5: thay khối cảnh báo GATE bằng ghi nhận đã xác nhận; bổ sung người ký.
+- `references/01-khung-phap-ly-tang-truong.md`: thay GATE số văn bản bằng xác nhận, ghi rõ người ký.
+- `references/02-chi-tieu-nq169-sct.md`: gỡ 02 cảnh báo (7a/7b/7c và chỉ tiêu 29); bổ sung hướng dẫn đánh số lại 7a, 7b, 7c khi lập bảng báo cáo.
+- `mau-van-ban/01`: điền số 7323/UBND-TH vào đoạn mở đầu; sửa lưu ý số 1 thành căn cứ viện dẫn chuẩn.
+- `mau-van-ban/02`: điền số 7323/UBND-TH vào phần căn cứ.
+- `mau-van-ban/03`: ghi đầy đủ số, ngày Công văn ở phần căn cứ.
+- `.claude-plugin/plugin.json`: version 1.0.1.
+
+**Kết quả:** plugin không còn nội dung treo; toàn bộ căn cứ pháp lý đã đủ điều kiện viện dẫn trực tiếp vào văn bản phát hành.
+
 ## v1.0.0 — 2026-07-23 (phát hành lần đầu)
 
 ### Bối cảnh

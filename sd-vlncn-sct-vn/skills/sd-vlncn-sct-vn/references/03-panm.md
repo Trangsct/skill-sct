@@ -54,7 +54,7 @@ Ba giá trị PHẢI kiểm tra; giá trị lớn nhất so với khoảng cách
 
 1. **Khoảng cách an toàn về chấn động** `Rc = Kc · α · ³√Q` (m) — Kc hệ số nền đất công trình cần bảo vệ, α hệ số phụ thuộc chỉ số tác động nổ n, Q khối lượng thuốc nổ (kg; nổ vi sai lấy theo nhóm lớn nhất/tổng theo điều kiện PL 7). *Ví dụ thực tế: Q=130 kg → Rc=70 m < 110 m (Mỏ Đá Xuân Hòa); Rc=27,7 m < 63 m (Si Ma Cai).*
 2. **Khoảng cách an toàn về tác động sóng không khí** `rs = Ks · ³√Q` (m) *(công thức PL 7; ví dụ: Q=130 kg → rs=101 m < 110 m; rs=52,9 m < 63 m).*
-3. **Khoảng cách an toàn do đá văng Rđv** — nổ om, chỉ số tác động nổ n<1, lỗ khoan nhỏ: theo **mục 4.4 Phụ lục 7** tính Wqư, Wmax rồi tra **Bảng 7.8** (QCVN tr.124–125): bán kính vùng nguy hiểm với **người ≥ 200–300 m**, **thiết bị/công trình ≥ 150–200 m** (tùy W). Khi khoảng cách thực tế < Rđv bảng → bắt buộc **biện pháp che chắn** và luận chứng giảm bán kính theo quy chuẩn.
+3. **Khoảng cách an toàn do đá văng Rđv** — điểm thẩm định QUYẾT ĐỊNH diện phê duyệt PANM, có kiến trúc 2 tầng (Bảng 1 khoản 7 Điều 5 là SÀN; Phụ lục 7 mục 4.1/4.3/4.4/4.5 là cách XÁC ĐỊNH) và quy tắc 1,5 lần phía thấp hơn khi dốc >30° hoặc chênh cao >30m → **đọc bắt buộc reference `08-khoang-cach-an-toan-da-vang.md`** (dữ liệu nguyên gốc Bảng 1, Bảng 7.8, Bảng 7.9; hai cách đọc cho nổ làm tơi n<1; cách chốt của Sở vụ Thành Hương 7/2026: lỗ lớn theo 4.5 → 200m, lỗ nhỏ theo 4.4 → Bảng 7.8 × 1,5 = 300m phía thấp hơn; cấm phép lai sàn Bảng 1 × 1,5). Khi khoảng cách thực tế xấp xỉ Rđv → bắt buộc đo đạc hiện trường + biện pháp che chắn.
 
 **Biện pháp che chắn chống đá văng chuẩn thực tiễn:** phủ mỗi lỗ mìn 02 tấm lưới thép B40 hình chữ thập (miệng lỗ là trọng tâm); đè bao cát ~40 kg tại 4 góc mỗi tấm + 1 bao trên miệng lỗ, khoảng cách bao ≤ 1,5 m; dây điện nổ mìn kê gọn không bị lưới đè trực tiếp; mối nối dán băng cách điện; toàn bộ dưới giám sát của chỉ huy nổ mìn. Kèm **sơ đồ che phủ miệng lỗ mìn**.
 
@@ -93,3 +93,17 @@ Ba giá trị PHẢI kiểm tra; giá trị lớn nhất so với khoảng cách
 3. **Nổ hầm gần nhà dân**: tính khoảng cách theo đường xiên (chênh cao đỉnh hầm ↔ mặt đất) chứ không chỉ hình chiếu bằng; so Rc hầm riêng (tiền lệ Si Ma Cai: rc=11,5 m < 37,9 m).
 4. **Điều chỉnh dự án gốc** (IC14/QL32): PANM phải bám QĐ phê duyệt điều chỉnh dự án mới nhất (599/QĐ-UBND 26/3/2025) — kiểm tra chuỗi pháp lý dự án.
 5. **PANM của đơn vị dịch vụ nổ mìn**: đơn vị dịch vụ lập + chịu trách nhiệm; vẫn áp dụng cây quyết định mục A về diện phê duyệt.
+
+## G. CHECKLIST LỖI PANM ĐIỂN HÌNH (đúc kết vụ Thành Hương Nghĩa Lộ, CV 4280 ngày 22/7/2026)
+
+Soát PANM của DN theo 10 điểm sau trước khi thẩm định sâu:
+1. **Mâu thuẫn mô tả hiện trạng:** cùng một mục vừa nêu "nhà dân/quốc lộ cách ~300m" vừa kết luận "trong 300m không có công trình cần bảo vệ"; hai khoảng cách khác nhau cho cùng đối tượng (600m vs 300m) → thống nhất một số liệu + bảng thống kê nhà, công trình KHÔNG thuộc sở hữu DN trong bán kính 1.000m (mục II Phụ lục VII TT 23/2024) + ghi rõ chờ đo đạc thực tế.
+2. **Q tức thời vs quy mô bãi nổ:** nếu Qb > Q tức thời lớn nhất (tính theo Ds mục 6 PL 7) → PANM phải thuyết minh nổ vi sai, chia nhóm, khối lượng đồng thời mỗi nhóm ≤ Q tức thời, nêu ví dụ chia lỗ cụ thể; Giấy phép ghi cả quy mô một đợt nổ và Q tức thời.
+3. **Quy tắc 1,5 lần:** kiểm tra theo reference 08 — đúng nguyên văn "về phía thấp hơn" (một phía), đúng đối tượng (giá trị Bảng 7.8), không nhân sàn Bảng 1, không chép quy tắc rồi bỏ không áp.
+4. **Nhất quán đường kính lỗ khoan** (32 vs 36mm), đơn vị kíp nổ là **cái** không phải kg, chủng loại thuốc nổ đúng Danh mục TT 23/2024 và thống nhất Giấy đề nghị – PANM – thiết kế.
+5. **Số học chuỗi VLNCN:** tháng = năm/12, quý = tháng×3; tổng kíp = kíp vi sai + kíp số 8 khớp từng phép cộng; QTN = (QTN1+QTN2)×kdt tính lại bằng máy.
+6. **Căn cứ pháp lý sống:** Luật 42/2024 kèm sửa đổi Luật 118/2025; TT 23/2024 kèm TT 38/2025 + TT 26/2026; QĐ phê duyệt BCKTKT (điều chỉnh) của chủ đầu tư phải CÓ THẬT trong hồ sơ; số hợp đồng thuê đất chép đúng ĐỊNH DẠNG bản gốc (60/2019/HĐTĐ dấu gạch chéo, không tự đổi thành 60/2019-HĐTĐ).
+7. **QĐ phân công nội bộ của DN:** căn cứ ban hành không được dẫn giấy phép đã hết hiệu lực (GP dịch vụ nổ mìn 2 năm); người lập PANM = chỉ huy nổ mìn có GCN còn hiệu lực, lãnh đạo DN ký duyệt.
+8. **Kho VLNCN:** PANM/hồ sơ phải khẳng định rõ có/không kho tại mỏ; không kho → hợp đồng cung ứng phải nêu tên, địa điểm kho bảo quản của đơn vị cung ứng + phương án giao tại chân công trình; có QĐ phân công thủ kho trong khi khai không tồn chứa là mâu thuẫn phải làm rõ.
+9. **Che chắn viết dạng BẮT BUỘC** (không "trường hợp cần thiết có thể") kèm sơ đồ che phủ; trạm gác hai đầu đoạn quốc lộ qua vùng nguy hiểm, tạm dừng giao thông trong giờ nổ, thống nhất UBND xã + cơ quan quản lý đường bộ.
+10. **Nghĩa vụ hậu kiểm trong mục Tổ chức thực hiện:** giám sát ảnh hưởng nổ mìn, tiếp nhận phản ánh, bồi thường; hộ chiếu nổ mìn từng đợt (PL VIII TT 23/2024); đồng bộ Bản đánh giá nguy cơ rủi ro + KH ứng cứu khẩn cấp (Điều 14, 16 TT 23/2024); hiệu lực viết dạng ĐIỀU KIỆN theo kết quả đo đạc (điểm d k2 Đ38).

@@ -110,6 +110,8 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 12. **KHÔNG chủ động đưa 2 nhóm yêu cầu sau vào văn bản trả hồ sơ** (chỉ đạo PTP Trang, Mông Sơn): (a) tài liệu phương tiện vận chuyển VLNCN — DN thuê phương tiện sau khi được cấp phép, điểm e k1 Đ39 chỉ áp khi không có kho/phương tiện; (b) chứng chỉ chuyên môn, tài liệu thâm niên (Đ4 NĐ 181/2024) của nhân sự đã có GCN huấn luyện KTAT do Sở Công Thương cấp còn hiệu lực — quy trình huấn luyện, kiểm tra của Sở đã thẩm tra, đối chiếu tại hồ sơ huấn luyện lưu tại Sở khi cần.
 13. **Yêu cầu hoàn thiện phải kèm căn cứ kép**: điều-khoản-điểm của pháp luật VÀ số trang in trên chính tài liệu DN nộp (PANM trang mấy, Thuyết minh thiết kế trang mấy) — mỗi sai khác nêu đủ cặp số liệu hai phía; đối chiếu PANM–thiết kế là nội dung thẩm định bắt buộc (bảng 9 sai khác vụ Mông Sơn, ref 07 mục H).
 
+14. **Đá văng & quy tắc 1,5 lần (Thành Hương 7/2026 — đọc reference 08 trước khi kết luận):** Bảng 1 k7 Đ5 là SÀN, Phụ lục 7 mục 4 là cách XÁC ĐỊNH; hệ số 1,5 gắn đích danh giá trị Bảng 7.8, chỉ tăng "về phía thấp hơn" (một phía), kích hoạt khi dốc >30° HOẶC chênh cao >30m; CẤM phép lai "sàn Bảng 1 × 1,5". Nổ làm tơi n<1: lỗ lớn theo mục 4.5/Bảng 7.9 (sàn 200m, không nhân 1,5 — cách Sở đã chốt), lỗ nhỏ theo mục 4.4 → Bảng 7.8 (n<1 dùng cột n=1, w làm tròn tăng) × 1,5 phía thấp hơn; chọn một giá trị thống nhất mọi hướng ≥ tất cả. Biên sát nút (~bằng bán kính) → hiệu lực PANM viết dạng ĐIỀU KIỆN theo kết quả đo đạc hiện trường; kết luận khác công văn Sở đã phát hành → đoạn lập luận phải nằm trong biên bản thẩm định + báo cáo PGĐ đã ký.
+
 ## VII. CẤU TRÚC PLUGIN
 
 ```
@@ -126,7 +128,9 @@ sd-vlncn-sct-vn/
 │   ├── 05-kiem-tra-xu-phat.md        ← kiểm tra, giám sát; bảng hành vi-mức phạt NĐ 71/2019;
 │   │                                    thẩm quyền; quy trình xử phạt của Sở
 │   ├── 06-bao-cao.md                 ← chế độ báo cáo định kỳ/đột xuất các cấp
-│   └── 07-vi-du-thuc-te.md           ← index ví dụ + bài học kinh nghiệm từng vụ việc
+│   ├── 07-vi-du-thuc-te.md           ← index ví dụ + bài học kinh nghiệm từng vụ việc
+│   └── 08-khoang-cach-an-toan-da-vang.md ← Bảng 1/7.8/7.9 nguyên gốc, quy tắc 1,5 lần,
+│                                    hai cách đọc nổ làm tơi, cách chốt vụ Thành Hương
 ├── mau-van-ban/                      ← 19 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md

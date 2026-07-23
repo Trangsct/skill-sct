@@ -47,7 +47,9 @@ Khoản 6 Điều 55 quy định về xử lý cơ sở không bảo đảm yêu
 - Bộ Nông nghiệp và Môi trường: công trình nông nghiệp, môi trường.
 - Bộ Giao thông vận tải (nay là Bộ Xây dựng): công trình giao thông.
 
-**Theo dõi tiến độ:** Sở Công Thương cần theo dõi việc ban hành giải pháp kỹ thuật của Bộ Công Thương để áp dụng tại địa phương.
+**Tiến độ thực tế (cập nhật 7/2026):**
+- **Bộ Xây dựng: ĐÃ HOÀN THÀNH** — Quyết định số 1074/QĐ-BXD ngày 29/6/2026 (KT. Bộ trưởng — Thứ trưởng Phạm Minh Hà) ban hành Tài liệu giải pháp kỹ thuật cho công trình thuộc thẩm quyền quản lý của BXD, gồm 3 nhóm giải pháp + 6 Phụ lục A-F (Phụ lục F do C07 Bộ Công an biên soạn). Chi tiết xem `references/15-giai-phap-ky-thuat-qd1074-bxd.md`. Tại Lào Cai, UBND tỉnh đã có Công văn 7432/UBND-XD ngày 21/7/2026 (KT. Chủ tịch — PCT Phan Trung Bá) giao Sở Xây dựng chủ trì triển khai; các sở, ngành (kể cả SCT) và UBND xã rà soát, hướng dẫn theo phạm vi quản lý, hạn hoàn thành 01/7/2028.
+- **Bộ Công Thương: CHƯA ban hành** (đến 21/7/2026) giải pháp kỹ thuật cho cơ sở thuộc thẩm quyền BCT — đã quá hạn 01/7/2026. Sở Công Thương cần tiếp tục theo dõi; nếu kéo dài, tham mưu công văn đề nghị Bộ Công Thương ban hành để có căn cứ hướng dẫn cửa hàng xăng dầu, gas, kho VLNCN, nhà máy điện... trên địa bàn. Trong lúc chờ, có thể tham khảo cấu trúc và nguyên tắc kỹ thuật của QĐ 1074 nhưng KHÔNG áp đặt trực tiếp cho công trình ngành Công Thương.
 
 ### 2.3. Mốc 3: 01/7/2028 - Cơ sở hoàn thành nâng cấp hoặc chấm dứt hoạt động
 
@@ -162,7 +164,7 @@ Hàng năm, Sở Công Thương kiểm tra tiến độ khắc phục của các
 
 ### 5.1. Phạm vi áp dụng
 
-Đối với các cơ sở ngành Công Thương không bảo đảm PCCC nhưng có khả năng khắc phục, áp dụng giải pháp kỹ thuật do Bộ Công Thương ban hành (sẽ ban hành chậm nhất 01/7/2026).
+Đối với các cơ sở ngành Công Thương không bảo đảm PCCC nhưng có khả năng khắc phục, áp dụng giải pháp kỹ thuật do Bộ Công Thương ban hành (hạn 01/7/2026 theo khoản 2 Điều 43 NĐ 105 — đến 21/7/2026 CHƯA ban hành; Bộ Xây dựng đã ban hành QĐ 1074/QĐ-BXD 29/6/2026 cho khối công trình thuộc thẩm quyền BXD, xem reference 15).
 
 Các giải pháp kỹ thuật sẽ chia theo từng lĩnh vực:
 - Cửa hàng xăng dầu.

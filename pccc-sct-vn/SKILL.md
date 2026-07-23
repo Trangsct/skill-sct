@@ -1,6 +1,6 @@
 ---
 name: pccc-sct-vn
-description: "Chuyên gia pháp luật PCCC Sở Công Thương Lào Cai. Dùng khi xử lý PCCC trong 8 lĩnh vực ngành Công Thương: điện lực, năng lượng (nhà máy điện, thủy điện, trạm biến áp 110-500 kV); xăng dầu và LPG (cửa hàng xăng dầu, cửa hàng gas, kho LPG, trạm chiết nạp); vật liệu nổ công nghiệp VLNCN; hóa chất; khoáng sản; công nghiệp chế biến chế tạo hạng A-E; chợ, TTTM, siêu thị; cụm công nghiệp. Áp dụng khi: thẩm định thiết kế PCCC 5 nội dung điểm a-đ Điều 6 NĐ 105/2025; kiểm tra nghiệm thu; kiểm tra định kỳ Phụ lục II (điểm g, h Điều 13); phân loại Phụ lục I, II, III; phân định ranh giới với Sở Xây dựng, Công an, BQL KKT, UBND xã; lộ trình Điều 43; bảo hiểm Phụ lục VII; thiết bị truyền tin báo cháy Điều 25. Từ khoá: PCCC, thẩm định PCCC, NĐ 105/2025, NĐ 106/2025, Luật 55/2024, cửa hàng xăng dầu, cửa hàng gas, kho LPG, kho VLNCN, nhà máy thủy điện, trạm biến áp, hóa chất, hạng A, hạng B, chợ TTTM, cụm công nghiệp, CQCM xây dựng, TCVN 6223, QCVN 06."
+description: "Chuyên gia pháp luật PCCC Sở Công Thương Lào Cai. Dùng khi xử lý PCCC trong 8 lĩnh vực ngành Công Thương: điện lực, năng lượng (nhà máy điện, thủy điện, trạm biến áp 110-500 kV); xăng dầu và LPG (cửa hàng xăng dầu, cửa hàng gas, kho LPG, trạm chiết nạp); vật liệu nổ công nghiệp VLNCN; hóa chất; khoáng sản; công nghiệp chế biến chế tạo hạng A-E; chợ, TTTM, siêu thị; cụm công nghiệp. Áp dụng khi: thẩm định thiết kế PCCC 5 nội dung điểm a-đ Điều 6 NĐ 105/2025; kiểm tra nghiệm thu; kiểm tra định kỳ Phụ lục II (điểm g, h Điều 13); phân loại Phụ lục I, II, III; phân định ranh giới với SXD, Công an, BQL KKT, xã; lộ trình Điều 43, giải pháp kỹ thuật cho công trình hiện hữu theo QĐ 1074/QĐ-BXD + CV 7432/UBND-XD; bảo hiểm Phụ lục VII; truyền tin báo cháy Điều 25. Từ khoá: PCCC, thẩm định PCCC, NĐ 105/2025, NĐ 106/2025, Luật 55/2024, QĐ 1074, cơ sở không bảo đảm PCCC, cửa hàng xăng dầu, cửa hàng gas, kho LPG, kho VLNCN, thủy điện, trạm biến áp, hóa chất, hạng A, B, chợ TTTM, CCN, CQCM xây dựng, TCVN 6223, QCVN 06."
 ---
 
 # pccc-sct-vn — Chuyên gia quản lý nhà nước PCCC Sở Công Thương Lào Cai
@@ -26,7 +26,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 - Bước 1: Tham chiếu skill `pccc-sct-vn` để xác minh chuyên môn (căn cứ pháp lý, thẩm quyền, quy trình, ngưỡng kỹ thuật).
 - Bước 2: Nếu cần tạo văn bản hành chính, chuyển sang skill `vbhc-vn`.
 
-## II. KHUNG PHÁP LÝ TỔNG QUAN (cập nhật tháng 5/2026)
+## II. KHUNG PHÁP LÝ TỔNG QUAN (cập nhật tháng 7/2026)
 
 ### 1. Văn bản pháp luật cấp Trung ương về PCCC
 
@@ -42,6 +42,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Công văn số 311/BCT-ATMT ngày 16/6/2025 của Bộ Công Thương | Hướng dẫn Sở Công Thương các tỉnh thực hiện 03 nhiệm vụ PCCC | 16/6/2025 |
 | Công văn số 5269/BXD-KTQLXD ngày 18/6/2025 của Bộ Xây dựng | Hướng dẫn thẩm định PCCC của CQCM về xây dựng | 18/6/2025 |
 | Quyết định số 864/QĐ-BXD ngày 31/10/2024 của Bộ Xây dựng | Phân cấp các CQCM về xây dựng | 31/10/2024 |
+| **Quyết định số 1074/QĐ-BXD ngày 29/6/2026 của Bộ Xây dựng** (KT. Bộ trưởng — Thứ trưởng Phạm Minh Hà) | Ban hành các giải pháp kỹ thuật nâng cao an toàn PCCC cho cơ sở, công trình hiện hữu không bảo đảm PCCC, không có khả năng khắc phục, thuộc thẩm quyền quản lý của Bộ Xây dựng (thực hiện điểm b khoản 6 Điều 55 Luật 55/2024, Điều 43 NĐ 105) — 6 Phụ lục A-F, hoàn thành áp dụng chậm nhất 01/7/2028 | 29/6/2026 (từ ngày ký) |
 | Nghị định số 175/2024/NĐ-CP ngày 30/12/2024 | Quản lý dự án đầu tư xây dựng (thay NĐ 15/2021) | 01/4/2025 |
 
 ### 2. Văn bản cấp Trung ương về kinh doanh các lĩnh vực ngành Công Thương
@@ -72,6 +73,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Công văn số 1102/CAT-PC07 của Công an tỉnh | Phúc đáp Sở Công Thương về thẩm định PCCC | 25/8/2025 |
 | Công văn số 3266/CAT-PCCC của Công an tỉnh | Thông báo lịch kiểm tra định kỳ PCCC 2026 | 08/12/2025 |
 | Công văn số 3409/UBND-NC của UBND tỉnh | Lộ trình lắp đặt thiết bị truyền tin báo cháy | 04/5/2026 |
+| Công văn số 7432/UBND-XD của UBND tỉnh (KT. Chủ tịch — PCT Phan Trung Bá) | Triển khai QĐ 1074/QĐ-BXD trên địa bàn tỉnh: Sở Xây dựng chủ trì; các sở, ngành (kể cả SCT), UBND xã rà soát, hướng dẫn theo phạm vi quản lý; hạn 01/7/2028 | 21/7/2026 |
 
 ## III. CÁC REFERENCE FILES (đọc khi cần đào sâu)
 
@@ -91,6 +93,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | `references/12-cho-tttm-cum-cn.md` | Khi xử lý chợ, TTTM, siêu thị (STT 13 PL II) và hạ tầng CCN (STT 47 PL II) |
 | `references/13-phan-ranh-gioi-cqcm.md` | Khi cần xác định ai làm gì: SCT vs SXD vs CAT vs BQL KKT vs UBND xã |
 | `references/14-lo-trinh-dieu-43.md` | Khi xử lý cơ sở không bảo đảm PCCC trước 01/7/2025; lộ trình các mốc 01/01/2026, 01/7/2026, 01/7/2028 |
+| `references/15-giai-phap-ky-thuat-qd1074-bxd.md` | Khi xử lý cơ sở, công trình hiện hữu không bảo đảm PCCC theo QĐ 1074/QĐ-BXD 29/6/2026: 3 điều kiện phạm vi; 3 nhóm giải pháp; tóm tắt 6 Phụ lục A-F (bậc chịu lửa, thoát nạn, cháy lan, tiếp cận chữa cháy, chống khói, phương tiện PCCC); loại trừ hạng A, B; triển khai tại Lào Cai theo CV 7432/UBND-XD 21/7/2026 |
 
 ## IV. NĂM NHIỆM VỤ CỦA SỞ CÔNG THƯƠNG THEO ĐIỀU 41 KHOẢN 7 NĐ 105/2025
 
@@ -228,9 +231,10 @@ Tham chiếu: phân định ranh giới tại Công văn 314/SCT-CN ngày 20/01/
 7. **Cảnh giác về điều khoản chuyển tiếp:** cơ sở đã được Cảnh sát PCCC thẩm duyệt theo NĐ 136 trước 01/7/2025 vẫn tiếp tục có hiệu lực, chỉ thẩm định lại khi cải tạo/thay đổi công năng.
 
 8. **Lộ trình Điều 43 NĐ 105 đối với cơ sở không bảo đảm PCCC trước 01/7/2025:**
-   - Đến 01/01/2026: UBND tỉnh hoàn thành phân loại, công bố danh sách (đã quá hạn tại Lào Cai - cần báo cáo lãnh đạo).
-   - Đến 01/7/2026: Các bộ quản lý xây dựng chuyên ngành ban hành giải pháp kỹ thuật.
-   - Đến 01/7/2028: Cơ sở phải hoàn thành nâng cấp hoặc dừng hoạt động.
+   - Đến 01/01/2026: UBND tỉnh hoàn thành phân loại, công bố danh sách (đến 7/2026 Lào Cai vẫn chưa công bố - cần báo cáo lãnh đạo).
+   - Đến 01/7/2026: Các bộ quản lý xây dựng chuyên ngành ban hành giải pháp kỹ thuật. **Bộ Xây dựng ĐÃ ban hành QĐ 1074/QĐ-BXD ngày 29/6/2026** (xem `references/15`); **Bộ Công Thương CHƯA ban hành** cho công trình thuộc thẩm quyền BCT (xăng dầu, gas, VLNCN, hóa chất, điện...) - đã quá hạn, phải theo dõi và cân nhắc tham mưu công văn đề nghị Bộ.
+   - Đến 01/7/2028: Cơ sở phải hoàn thành nâng cấp hoặc dừng hoạt động. Tại Lào Cai, CV 7432/UBND-XD ngày 21/7/2026 giao Sở Xây dựng chủ trì triển khai QĐ 1074; SCT rà soát, hướng dẫn theo phạm vi quản lý.
+   - LƯU Ý PHẠM VI: QĐ 1074 CHỈ áp dụng cho công trình thuộc thẩm quyền quản lý của Bộ Xây dựng, đồng thời phải thuộc danh sách UBND tỉnh công bố và thuộc Phụ lục I NĐ 105 (3 điều kiện đồng thời); nhiều giải pháp trong đó LOẠI TRỪ nhà/khoang cháy hạng nguy hiểm cháy nổ A, B.
 
 9. **Bảo hiểm cháy nổ bắt buộc (Phụ lục VII NĐ 105):** đối với cơ sở kinh doanh khí đốt, ngưỡng bảo hiểm là **trên 500 kg** - trùng với ngưỡng PL II STT 17 Nhóm 1. Cơ sở dưới ngưỡng này không bắt buộc mua bảo hiểm.
 

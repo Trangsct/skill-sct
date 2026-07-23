@@ -39,7 +39,7 @@ Danh mục đầy đủ văn bản pháp luật điều chỉnh KCN/CCN, tình t
 | **Quy hoạch** | Luật Quy hoạch đô thị và nông thôn 47/2024 (sửa đổi bởi Luật 144/2025); NĐ 145/2025; TT 16/2025, 17/2025/TT-BXD | QHCT 1/500 CCN do UBND cấp xã phê duyệt (Quy chế Lào Cai) |
 | **Môi trường** | Luật BVMT 2020 (72/2020/QH15), Luật 146/2025 sửa 15 luật NN&MT; NĐ 08/2022, 05/2025, 48/2026 | ĐTM, GPMT, hạ tầng xử lý nước thải tập trung CCN. Xem plugin `bvmt-sct-vn` |
 | **PCCC** | Luật PCCC&CNCH 55/2024; NĐ 105/2025, 106/2025 | Thẩm định, nghiệm thu PCCC hạ tầng và dự án trong CCN. Xem plugin `pccc-sct-vn` |
-| **Tài sản kết cấu hạ tầng** | NĐ 178/2026/NĐ-CP ngày 20/5/2026 | Quản lý, sử dụng, khai thác tài sản kết cấu hạ tầng (áp dụng khi hạ tầng CCN hình thành từ NSNN được giao quản lý). Đối chiếu khi xử lý CCN vốn công |
+| **Tài sản kết cấu hạ tầng** | **NĐ 178/2026/NĐ-CP ngày 20/5/2026** (hiệu lực 06/7/2026) | Quản lý, sử dụng, khai thác TSKCHT do Nhà nước đầu tư, quản lý — hạ tầng CCN/KCN thuộc nhóm đầu phạm vi điều chỉnh. SCT = cơ quan quản lý chuyên ngành hạ tầng cấp tỉnh với CCN; hạn giao tài sản hiện có 06/7/2028; BCT công bố danh mục chi tiết trước 06/01/2027. **Chi tiết reference `18`** + toàn văn `van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx` |
 | **Điện** | Luật Điện lực; QĐ 768/QĐ-TTg (Quy hoạch điện VIII) | Giá bán điện, đấu nối cấp điện CCN/KCN. Xem plugin `quy-hoach-ct-vn` |
 
 ## E. VĂN BẢN NỘI BỘ TỈNH LÀO CAI

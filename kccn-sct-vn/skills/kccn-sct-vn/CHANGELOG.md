@@ -1,5 +1,16 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.7.0 — 2026-07-23 (Nghị định 178/2026/NĐ-CP — tài sản kết cấu hạ tầng CCN)
+
+### Thêm mới
+- `references/18-nd178-2026-tai-san-kcht-ccn.md`: chưng cất toàn văn NĐ 178/2026/NĐ-CP ngày 20/5/2026 (hiệu lực 06/7/2026, 4 chương 49 điều) — nghị định khung ĐẦU TIÊN về quản lý, sử dụng, khai thác tài sản kết cấu hạ tầng CCN/KCN do Nhà nước đầu tư. Nội dung: phạm vi và 5 nhóm loại trừ (khoản 2 Đ.1 — DN vốn nhà nước, CPH, NQ 198/2025, hạ tầng có NĐ riêng); hai chế độ quản lý song song (khoản 3 Đ.1 — chế độ NĐ 186/2025 vs chế độ NĐ 178, thủ tục chuyển khoản 6 Đ.10); SCT = cơ quan quản lý chuyên ngành hạ tầng cấp tỉnh với CCN (điểm b khoản 2 Đ.2) chủ trì hồ sơ giao + có ý kiến trước khi Chủ tịch UBND tỉnh quyết định (điểm a khoản 5 Đ.47); trình tự giao Đ.10 (phân loại 5 nhóm, hồ sơ Mẫu 01B, quyết định 12 ngày làm việc, biên bản Mẫu 01); nguyên tắc Đ.7 (QP-AN, đất đai theo Luật Đất đai không theo NĐ 178, bảo hiểm); 4 phương thức khai thác (Đ.16-22); 9 hình thức xử lý (Đ.23-31); kê khai 30 ngày, báo cáo trước 28/02 - 15/3, CSDL (Đ.33-34); mốc 06/01/2027 (BCT công bố danh mục chi tiết TSKCHT CCN) và 06/7/2028 (hạn hoàn thành giao tài sản hiện có); chuyển tiếp Đ.48; lộ trình khuyến nghị 6 bước cho Phòng QLCN quý III/2026.
+- `van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx`: toàn văn Nghị định 178/2026/NĐ-CP.
+
+### Cập nhật
+- `references/01-khung-phap-ly.md`: mở rộng dòng NĐ 178/2026 tại bảng D (vai trò SCT, 2 mốc thời hạn, trỏ reference 18 + văn bản gốc).
+- `SKILL.md`: description bổ sung từ khóa "NĐ 178/2026 tài sản hạ tầng"; mục I thêm trigger 9 (tài sản kết cấu hạ tầng CCN); mục III thêm điểm 7 khung pháp lý; mục IV thêm dòng reference 18.
+- `plugin.json`: version 1.7.0; description bổ sung NĐ 178/2026.
+
 ## v1.6.0 — 2026-07-22 (tiến độ NQ 34-NQ/TU đến 20/7/2026 + hồ sơ KCN Cam Đường)
 
 ### Thêm mới

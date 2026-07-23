@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-23 (bổ sung 4) — hnh-sct-vn v1.4.0: bản chốt GP Argon 2 xe + thông lệ ghi cột trọng tải
+
+- Thay bản chốt (23/7/2026) Giấy phép Argon 2 xe biển Trung Quốc vào `vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/GP-SoiPhuongNam-Argon-loai2-2xe.docx`.
+- Nguyên tắc 14 mới + reference 16 mục 6.6: khi số liệu trọng tải DN kê không khớp giấy tờ gốc hoặc hồ sơ mâu thuẫn, tiêu đề cột rút gọn "Trọng tải được phép chở", từng dòng ghi "Theo giấy tờ của phương tiện"; bài học đầu kéo — 25.000 kg là tổng trọng lượng bản thân, khối lượng kéo theo 40.000 kg, trọng tải chở = 0.
+- Tinh chỉnh nguyên tắc 11 + reference 16 mục 6.4: mệnh đề "nhưng không vượt quá ngày [niên hạn]" CHỈ viết khi niên hạn rơi TRONG thời hạn GP tính từ ngày ký dự kiến (vụ Argon: 7/2026 + 24 tháng < 23/8/2028 → bỏ mệnh đề); không viết "kể từ ngày ký ban hành".
+
 ## 2026-07-23 (bổ sung 3) — dacn-sct-vn v1.1.0: nạp dữ liệu thật 95 dự án trong 03 KCN
 
 - **Sổ danh mục dự án từ rỗng → 95 dự án thứ cấp** trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý. Nguồn: Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát (bản 12/5/2026) + Báo cáo đánh giá hiện trạng, tình hình triển khai các dự án đầu tư trong các KCN (số liệu chốt đến 16/4/2026).

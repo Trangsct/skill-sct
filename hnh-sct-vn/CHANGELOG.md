@@ -1,5 +1,11 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.4.0] - 23/7/2026
+- Bản chốt GP Argon 2 xe (Chi nhánh số 1 Sợi Phương Nam) thay vào vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/GP-SoiPhuongNam-Argon-loai2-2xe.docx.
+- Nguyên tắc 14 mới + reference 16 mục 6.6: cột trọng tải bảng phương tiện khi số liệu DN kê không khớp giấy tờ gốc → tiêu đề "Trọng tải được phép chở", từng dòng "Theo giấy tờ của phương tiện"; bài học đầu kéo 25.000 kg (tổng trọng lượng) ≠ khối lượng kéo theo (40.000 kg) ≠ trọng tải chở (= 0).
+- Tinh chỉnh nguyên tắc 11 + reference 16 mục 6.4: mệnh đề "nhưng không vượt quá ngày [niên hạn]" CHỈ viết khi niên hạn rơi TRONG thời hạn GP tính từ ngày ký dự kiến; vụ Argon ký 7/2026 + 24 tháng < niên hạn 23/8/2028 nên bỏ mệnh đề, chốt "24 tháng kể từ ngày ký./."; không viết "kể từ ngày ký ban hành".
+- Ghi nhận lỗi soát bản DN nộp lại: viết hoa sai giữa câu; mâu thuẫn thời hạn kiểm định Vân A4488 (08/2026 vs 06/2027, bồn 06/5/2027) - ghi Biên bản thẩm định, không đưa vào GP.
+
 ## [1.3.0] - 22/7/2026
 - Vụ 02 bộ hồ sơ Chi nhánh số 1 Sợi Phương Nam (Argon lỏng UN 1951 + NH3, xe biển Trung Quốc): mẫu Biên bản thẩm định chuẩn mới (địa điểm tại trụ sở DN, bảng ký ĐẠI DIỆN đơn vị + TRƯỞNG ĐOÀN, cột niên hạn sử dụng, bỏ "tối thiểu" ở nhận xét phương án) — nguyên tắc 12 SKILL.md, reference 16 mục 6.1.
 - Kiểm định BỒN chứa tách riêng kiểm định XE với tổ hợp bồn biển TQ; không ghi thông số hồ sơ đang mâu thuẫn vào văn bản của Sở — nguyên tắc 13, reference 16 mục 6.2, reference 11 lỗi 10-12.

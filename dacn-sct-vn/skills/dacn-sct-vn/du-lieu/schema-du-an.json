@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Dự án công nghiệp động lực tăng trưởng - Sở Công Thương Lào Cai",
+  "type": "object",
+  "required": ["ma", "ten", "nhom", "trang_thai", "nguon"],
+  "properties": {
+    "ma": {
+      "type": "string",
+      "description": "Mã dự án nội bộ, dạng <NHOM>-<số thứ tự 3 chữ số>, ví dụ CBCT-007"
+    },
+    "ten": { "type": "string", "description": "Tên đầy đủ của dự án theo văn bản pháp lý" },
+    "chu_dau_tu": { "type": "string" },
+    "ma_so_thue": { "type": "string" },
+
+    "vi_tri": {
+      "type": "object",
+      "properties": {
+        "xa_phuong": { "type": "string", "description": "Tên xã/phường theo địa giới từ 01/7/2025" },
+        "kcn_ccn": { "type": "string", "description": "Tên KCN/CCN nếu dự án nằm trong khu/cụm" },
+        "toa_do": { "type": "string", "description": "WGS84, dạng 'vĩ độ, kinh độ'" }
+      }
+    },
+
+    "nhom": {
+      "type": "string",
+      "enum": ["HT-KCN", "HT-CCN", "KS", "LK-HC", "CBCT", "NL", "TM"],
+      "description": "Nhóm dự án theo reference 03 mục I"
+    },
+    "nganh_cap_2": { "type": "string" },
+
+    "trang_thai": {
+      "type": "string",
+      "enum": ["TN", "DX", "CT", "GPMB", "XD", "HD", "MR", "TD"],
+      "description": "TN tiềm năng | DX đã đề xuất | CT có chủ trương | GPMB đang GPMB | XD đang xây dựng | HD đang hoạt động | MR đang mở rộng | TD tạm dừng, dừng"
+    },
+
+    "phap_ly": {
+      "type": "object",
+      "properties": {
+        "loai_van_ban": { "type": "string", "description": "QĐ chủ trương đầu tư / GCN đăng ký đầu tư / QĐ thành lập" },
+        "so_van_ban": { "type": "string" },
+        "ngay_van_ban": { "type": "string", "format": "date" },
+        "co_quan_cap": { "type": "string" }
+      }
+    },
+
+    "quy_mo": {
+      "type": "object",
+      "properties": {
+        "tong_muc_dau_tu_ty_dong": { "type": "number" },
+        "dien_tich_ha": { "type": "number" },
+        "cong_suat_thiet_ke": { "type": "number" },
+        "don_vi_cong_suat": { "type": "string" },
+        "lao_dong_nguoi": { "type": "integer" }
+      }
+    },
+
+    "tien_do": {
+      "type": "object",
+      "properties": {
+        "cam_ket_hoan_thanh": { "type": "string", "format": "date" },
+        "du_kien_van_hanh": { "type": "string", "format": "date" },
+        "phan_tram_hoan_thanh": { "type": "number", "minimum": 0, "maximum": 100 },
+        "cham_tien_do_thang": { "type": "integer", "description": "Số tháng chậm so tiến độ cam kết; 0 nếu đúng tiến độ" }
+      }
+    },
+
+    "dong_gop": {
+      "type": "object",
+      "properties": {
+        "chi_tieu_tac_dong": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Mã chỉ tiêu NQ 169, ví dụ [\"3\",\"4\",\"7b\"] — theo quy tắc reference 03 mục V"
+        },
+        "san_luong_ky": { "type": "number" },
+        "don_vi_san_luong": { "type": "string" },
+        "doanh_thu_ky_ty_dong": { "type": "number" },
+        "kim_ngach_xk_ky_trieu_usd": { "type": "number" },
+        "gtsx_gia_2010_trieu_dong": { "type": "number" }
+      }
+    },
+
+    "diem_nghen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ma_nhom"],
+        "properties": {
+          "ma_nhom": {
+            "type": "string",
+            "enum": ["QH", "CTDT", "GPMB", "DD", "XD", "MT-PCCC", "TC"],
+            "description": "Theo reference 06"
+          },
+          "mo_ta": { "type": "string" },
+          "co_quan_giai_quyet": { "type": "string" },
+          "han_xu_ly": { "type": "string", "format": "date" },
+          "tac_dong_chi_tieu": { "type": "string", "description": "Chỉ tiêu bị ảnh hưởng và mức độ ước tính" }
+        }
+      }
+    },
+
+    "diem_uu_tien": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Điểm chấm theo thang 100 tại reference 03 mục III. Do người dùng chấm hoặc script tính."
+    },
+
+    "nguon": {
+      "type": "object",
+      "required": ["tai_lieu", "ngay_cap_nhat"],
+      "properties": {
+        "tai_lieu": { "type": "string", "description": "Tên file/số văn bản đã lấy số liệu — BẮT BUỘC" },
+        "ky_so_lieu": { "type": "string", "description": "Ví dụ 'tháng 5/2026', 'Quý I/2026'" },
+        "ngay_cap_nhat": { "type": "string", "format": "date" },
+        "nguoi_cap_nhat": { "type": "string" }
+      }
+    },
+
+    "ghi_chu": { "type": "string" }
+  }
+}

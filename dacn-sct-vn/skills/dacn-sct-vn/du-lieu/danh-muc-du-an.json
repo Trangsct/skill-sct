@@ -1,0 +1,7 @@
+{
+  "_huong_dan": "Sổ danh mục dự án động lực tăng trưởng. KHỞI TẠO RỖNG — plugin KHÔNG tự sinh dữ liệu. Nạp dữ liệu thật từ báo cáo của Ban Quản lý các KCN, Ban Quản lý Khu kinh tế tỉnh, UBND cấp xã, file theo dõi sản xuất hằng tháng và hồ sơ cấp phép của Sở. Mỗi bản ghi phải có trường 'nguon'. Lược đồ: schema-du-an.json.",
+  "_ky_so_lieu": "",
+  "_ngay_cap_nhat": "",
+  "_nguoi_cap_nhat": "",
+  "du_an": []
+}

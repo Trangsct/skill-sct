@@ -64,3 +64,7 @@ Quy tắc tra: **n < 1 dùng cột n = 1,0** (giá trị nhỏ nhất của bả
 2. **Che chắn bắt buộc khi gần công trình:** kể cả khi đã "thoát" diện phê duyệt trên giấy, nghịch lý "lỗ nạp 42,7kg có bán kính (200m) nhỏ hơn lỗ nạp 0,3kg (300m)" là điểm giám định viên sẽ xoáy nếu có sự cố — biện pháp che chắn (B40 + bao cát, xem ref 03 mục C) và trạm gác hai đầu quốc lộ là câu trả lời duy nhất, GIỮ NGUYÊN không mặc cả.
 3. **Nhất quán nội bộ Sở:** nếu kết luận thẩm định khác mức một công văn Sở đã phát hành trước đó (tiền lệ CV 4280 nêu 450m → chốt lại 300m), lý luận pháp lý PHẢI nằm trong biên bản/báo cáo thẩm định (đoạn lập luận mẫu: nêu 2 nhánh 4.5 và 4.4 + điều kiện đo đạc) và báo cáo lại PGĐ đã ký công văn trước khi phát hành — hồ sơ hai đầu phải tự giải thích được.
 4. **Khoảng cách sóng không khí, chấn động** vẫn tính riêng (ref 03 mục C); khoảng cách an toàn cho NGƯỜI = max(đá văng, sóng không khí).
+
+## E. CASE ÁP DỤNG XÁC NHẬN (Mông Sơn, 23/7/2026)
+
+Mỏ đá hoa trắng Mông Sơn (nổ om làm tơi, lỗ lớn 76/90mm + lỗ con 36mm, công trình gần nhất 500m): lỗ con theo mục 4.4 → wqư = 5/7 × 1,1 = 0,79 → w = 1,5, cột n = 1 → người 200m × 1,5 (sườn dốc, phía thấp hơn) = 300m; lỗ lớn theo mục 4.5 → (7.9) với W' = 2,76m, d ≤ 100mm → 200m (sàn Chú thích Bảng 7.9). Chọn thống nhất người 300m / thiết bị 200m mọi hướng; 500m > mọi giá trị (kể cả rs = 261,4m) → KHÔNG thuộc diện điểm d k2 Đ38, không cần đo đạc bổ sung. Cách trình bày y hệ Thành Hương — hai case dùng chung một khung lập luận, chứng minh tính nhất quán của Sở.

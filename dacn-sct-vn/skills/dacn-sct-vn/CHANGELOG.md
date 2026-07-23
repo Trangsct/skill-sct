@@ -1,5 +1,34 @@
 # CHANGELOG — dacn-sct-vn
 
+## v1.1.0 — 2026-07-23 (nạp dữ liệu thật 95 dự án trong 03 KCN)
+
+### Thêm mới
+- `du-lieu/danh-muc-du-an.json`: từ sổ rỗng → **95 dự án thứ cấp** trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh Lào Cai quản lý. Nguồn: Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát (bản 12/5/2026) và Báo cáo đánh giá hiện trạng, tình hình triển khai các dự án đầu tư trong các KCN (số liệu chốt đến 16/4/2026).
+
+| Chiều | Kết quả |
+|---|---|
+| Theo KCN | phía Nam 66 · Minh Quân 17 · Âu Lâu 12 (khớp tuyệt đối với Báo cáo) |
+| Theo trạng thái | HD (đã sản xuất, kinh doanh) 46 · XD (đang đầu tư xây dựng) 13 · CT (chưa triển khai xây dựng) 36 |
+| Theo nhóm | CBCT 80 · LK-HC 13 · NL 2 (phân loại tự động theo từ khoá, cần rà soát) |
+| Tổng vốn đăng ký | 15.501,318 tỷ đồng (cộng dồn từng mục) |
+| Điểm nghẽn | 63/95 dự án đang vướng, 238 lượt: xây dựng 96 · môi trường và PCCC 45 · chủ trương đầu tư 44 · nghĩa vụ tài chính 34 · đất đai 19 |
+| Mức độ vướng | 1 dự án vướng 8 nhóm · 7 dự án vướng 7 nhóm · 6 dự án vướng 6 nhóm · 32 dự án không vướng |
+
+### 05 cảnh báo về dữ liệu gốc (ghi trong trường `_canh_bao_du_lieu_goc`, script in ra đầu tiên khi chạy `kiem-tra`)
+1. **09 dự án nhóm A đã dừng hoạt động nhưng phụ lục không chỉ rõ là dự án nào** (KCN phía Nam 06, Minh Quân 03). Sổ tạm để cả 46 ở trạng thái HD — phải xác định và chuyển sang TD trước khi tính chỉ tiêu sản lượng.
+2. **Chênh lệch tổng vốn 98 tỷ đồng**: cộng dồn 95 mục = 15.501,318 tỷ, dòng "Tổng cộng" của phụ lục ghi 15.403,318 tỷ. Nguyên nhân: tiểu tổng "KCN phía Nam" nhóm B thiếu đúng 98 tỷ của mục 47 (Công ty TNHH Super Star). Sổ lấy theo cộng dồn từng mục.
+3. **Chênh lệch cột nghĩa vụ tài chính 3 lượt**: cộng dồn 34, dòng tổng ghi 31; lệch ở nhóm B (STT 48, 50, 51, 58 có đánh dấu nhưng tiểu tổng ghi 01, và Phụ lục 01 để trống cột này). Sổ giữ nguyên đánh dấu từng mục, không tự sửa. **07 cột điểm nghẽn còn lại khớp tuyệt đối** giữa cộng dồn và dòng tổng.
+4. Trường `xa_phuong` để trống — phụ lục không ghi địa giới hành chính mới sau 01/7/2025, không suy đoán.
+5. Trường `nhom`, `nganh_cap_2` phân loại tự động theo từ khoá — cần rà soát thủ công, đặc biệt nhóm chế biến bột đá CaCO3 (ranh giới CBCT ↔ KS ảnh hưởng trực tiếp chỉ tiêu 4).
+
+### Cập nhật
+- `scripts/theo_doi_du_an.py` — lệnh `kiem-tra` viết lại: in kỳ số liệu và ngày cập nhật ở đầu; in khối cảnh báo về dữ liệu gốc trước tiên; **gom cảnh báo theo LOẠI kèm số lượt và ví dụ** thay vì liệt kê từng dòng (238 dòng → 1 khối), giới hạn 20 dòng lỗi.
+- `SKILL.md` mục VI: mô tả nội dung sổ và **ghi rõ phạm vi còn thiếu** (KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, CCN, dự án ngoài khu/cụm, khoáng sản, thuỷ điện, hạ tầng KCN/CCN).
+- `.claude-plugin/plugin.json`: version 1.1.0.
+
+### Lưu ý vận hành
+Sổ là **số liệu động**, chỉ đúng tại kỳ ghi ở `_ky_so_lieu`. Trước mỗi kỳ báo cáo phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý các Khu công nghiệp tỉnh và Ban Quản lý Khu kinh tế tỉnh. Trường `_canh_bao_han_dung` trong file nhắc lại điều này.
+
 ## v1.0.1 — 2026-07-23 (xác nhận 03 điểm treo, gỡ toàn bộ GATE)
 
 Bạn đã đối chiếu bản gốc có dấu và xác nhận ngày 23/7/2026. Ba nội dung treo ở v1.0.0 nay đã chốt:

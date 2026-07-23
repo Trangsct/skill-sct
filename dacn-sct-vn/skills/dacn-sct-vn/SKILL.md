@@ -108,7 +108,9 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | `scripts/phan_tich_thang.py` | Đọc file Excel theo dõi sản xuất công nghiệp hằng tháng (sheet `T1`..`T12`), tính % kế hoạch năm, so tháng trước, so cùng kỳ, lũy kế; xuất bảng cảnh báo sản phẩm hụt tiến độ |
 | `scripts/theo_doi_du_an.py` | Quản lý sổ danh mục dự án động lực (JSON): thêm, cập nhật, lọc theo nhóm/chỉ tiêu/trạng thái, chấm điểm ưu tiên, xuất bảng đưa vào báo cáo |
 | `du-lieu/schema-du-an.json` | Lược đồ trường dữ liệu chuẩn của một dự án động lực |
-| `du-lieu/danh-muc-du-an.json` | Sổ dữ liệu (khởi tạo rỗng — **Bạn nạp dữ liệu thật**, plugin không tự sinh) |
+| `du-lieu/danh-muc-du-an.json` | Sổ dữ liệu. **Đã nạp 95 dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý** (phía Nam 66, Minh Quân 17, Âu Lâu 12; tổng vốn đăng ký 15.501,318 tỷ đồng; kỳ số liệu đến 16/4/2026, phụ lục 12/5/2026). Chạy `theo_doi_du_an.py kiem-tra` để đọc 05 cảnh báo về dữ liệu gốc trước khi dùng |
+
+**Phạm vi sổ hiện tại — biết rõ để không báo cáo thiếu:** mới có dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý. **CHƯA có:** dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý (vùng Lào Cai cũ), dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, và hạ tầng KCN/CCN. Khi lập báo cáo toàn ngành phải bổ sung các nhóm này.
 
 ## VII. BIỂU MẪU VÀ CHECKLIST
 

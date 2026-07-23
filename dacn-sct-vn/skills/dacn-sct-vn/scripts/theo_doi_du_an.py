@@ -111,28 +111,46 @@ def kiem_tra(so):
                 f"— chỉ trạng thái HD/MR mới được tính sản lượng (reference 03 mục II)"
             )
         if d.get("trang_thai") in TRANG_THAI_CO_SAN_LUONG and not dg.get("chi_tieu_tac_dong"):
-            canh_bao.append(f"{nhan}: đang hoạt động nhưng chưa gắn chỉ tiêu NQ 169 nào")
+            canh_bao.append(("Dự án đang hoạt động nhưng chưa gắn chỉ tiêu NQ 169 nào", nhan))
 
         for dn in d.get("diem_nghen") or []:
             if dn.get("ma_nhom") not in TEN_DIEM_NGHEN:
                 loi.append(f"{nhan}: mã nhóm điểm nghẽn '{dn.get('ma_nhom')}' không hợp lệ")
             if not dn.get("tac_dong_chi_tieu"):
-                canh_bao.append(
-                    f"{nhan}: điểm nghẽn '{dn.get('ma_nhom')}' chưa nêu tác động tới chỉ tiêu "
-                    f"— báo cáo NQ 169 bắt buộc có (reference 06)"
-                )
+                canh_bao.append((
+                    "Điểm nghẽn chưa nêu tác động tới chỉ tiêu tăng trưởng "
+                    "(báo cáo NQ 169 bắt buộc có — reference 06)",
+                    f"{nhan} / {dn.get('ma_nhom')}"))
 
     print(f"\nKIỂM TRA SỔ DANH MỤC — {len(ds)} bản ghi")
+    print(f"Kỳ số liệu: {so.get('_ky_so_lieu') or '[chưa ghi]'}"
+          f" | Cập nhật: {so.get('_ngay_cap_nhat') or '[chưa ghi]'}")
     print("=" * 80)
+
+    canh_bao_goc = so.get("_canh_bao_du_lieu_goc") or []
+    if canh_bao_goc:
+        print(f"\nCẢNH BÁO VỀ DỮ LIỆU GỐC ({len(canh_bao_goc)}) — đọc trước khi dùng:")
+        for x in canh_bao_goc:
+            print("  ⚠ " + x)
+
     if loi:
-        print(f"\nLỖI ({len(loi)}):")
-        for x in loi:
+        print(f"\nLỖI ({len(loi)}) — phải sửa:")
+        for x in loi[:20]:
             print("  ✗ " + x)
+        if len(loi) > 20:
+            print(f"  ... và {len(loi)-20} lỗi nữa")
+
     if canh_bao:
-        print(f"\nCẢNH BÁO ({len(canh_bao)}):")
-        for x in canh_bao:
-            print("  ! " + x)
-    if not loi and not canh_bao:
+        nhom = {}
+        for loai, chi_tiet in canh_bao:
+            nhom.setdefault(loai, []).append(chi_tiet)
+        print(f"\nCẢNH BÁO ({len(canh_bao)} lượt, {len(nhom)} loại):")
+        for loai, ds_ct in sorted(nhom.items(), key=lambda x: -len(x[1])):
+            print(f"\n  ! [{len(ds_ct)} lượt] {loai}")
+            print(f"    Ví dụ: {', '.join(ds_ct[:5])}"
+                  + (f" ... (+{len(ds_ct)-5})" if len(ds_ct) > 5 else ""))
+
+    if not loi and not canh_bao and not canh_bao_goc:
         print("\nKhông phát hiện lỗi.")
     print()
 

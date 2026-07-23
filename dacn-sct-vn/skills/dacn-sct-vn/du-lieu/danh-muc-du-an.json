@@ -1,7 +1,4642 @@
 {
-  "_huong_dan": "Sổ danh mục dự án động lực tăng trưởng. KHỞI TẠO RỖNG — plugin KHÔNG tự sinh dữ liệu. Nạp dữ liệu thật từ báo cáo của Ban Quản lý các KCN, Ban Quản lý Khu kinh tế tỉnh, UBND cấp xã, file theo dõi sản xuất hằng tháng và hồ sơ cấp phép của Sở. Mỗi bản ghi phải có trường 'nguon'. Lược đồ: schema-du-an.json.",
-  "_ky_so_lieu": "",
-  "_ngay_cap_nhat": "",
-  "_nguoi_cap_nhat": "",
-  "du_an": []
+ "_huong_dan": "Sổ danh mục dự án động lực tăng trưởng. Xem lược đồ tại schema-du-an.json. Bản ghi thiếu truong nguon không được đưa vào báo cáo phát hành.",
+ "_canh_bao_du_lieu_goc": [
+  "Trạng thái HD: phụ lục gộp chung nhóm A \"đã sản xuất, kinh doanh\". Báo cáo nêu trong nhóm này có 09 dự án ĐÃ DỪNG HOẠT ĐỘNG hoặc không triển khai (KCN phía Nam 06, KCN Minh Quân 03) nhưng phụ lục không chỉ rõ dự án nào. Phải xác định 09 dự án này và chuyển sang trạng thái TD trước khi dùng sổ để tính chỉ tiêu sản lượng (reference 03 mục II).",
+  "Chênh lệch tổng vốn: cộng dồn 95 mục = 15.501,318 tỷ đồng, nhưng dòng \"Tổng cộng\" của phụ lục ghi 15.403,318 tỷ đồng. Nguyên nhân: dòng tiểu tổng \"Khu công nghiệp phía Nam\" thuộc nhóm B ghi 1.462,2265 tỷ trong khi cộng 09 mục 47-55 được 1.560,2265 tỷ - thiếu đúng 98 tỷ của mục 47 (Nhà máy sản xuất và gia công giày dép, Công ty TNHH Super Star). Sổ này lấy theo cộng dồn từng mục. Đề nghị đối chiếu lại với Ban Quản lý các Khu công nghiệp tỉnh.",
+  "Cột \"Chưa thực hiện nghĩa vụ tài chính\" của Phụ lục 02: cộng dồn từng mục được 34 lượt, nhưng dòng \"Tổng cộng\" ghi 31 lượt. Chênh lệch nằm ở nhóm B (dự án đang đầu tư xây dựng): 04 mục có đánh dấu (STT 48, 50, 51, 58) trong khi dòng tiểu tổng ghi 01. Đối chiếu Phụ lục 01 thì cột nghĩa vụ tài chính của 04 mục này để trống - nghi ngờ đánh dấu nhầm ô hoặc công thức tiểu tổng đã cũ. Sổ này GIỮ NGUYÊN đánh dấu ở từng mục (nguồn chi tiết) và không tự sửa. Đề nghị đối chiếu lại với Ban Quản lý các Khu công nghiệp tỉnh. Bảy cột điểm nghẽn còn lại khớp tuyệt đối giữa cộng dồn và dòng tổng.",
+  "Trường xa_phuong để trống: phụ lục không ghi địa giới hành chính mới sau 01/7/2025 - không suy đoán, chờ bổ sung.",
+  "Trường nhom và nganh_cap_2 do phân loại tự động theo từ khoá tên dự án - cần rà soát thủ công, đặc biệt nhóm chế biến bột đá CaCO3 (ranh giới giữa CBCT và KS ảnh hưởng trực tiếp tới chỉ tiêu 4)."
+ ],
+ "_canh_bao_han_dung": "SỐ LIỆU ĐỘNG, CHỈ ĐÚNG TẠI KỲ GHI Ở _ky_so_lieu. Trước mỗi kỳ báo cáo phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý các Khu công nghiệp tỉnh và Ban Quản lý Khu kinh tế tỉnh. Không viện dẫn trực tiếp vào văn bản phát hành nếu chưa đối chiếu kỳ hiện hành.",
+ "_pham_vi": "Mới gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu). CHƯA gồm: dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
+ "_ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+ "_ngay_cap_nhat": "2026-07-23",
+ "_nguoi_cap_nhat": "",
+ "du_an": [
+  {
+   "ma": "CBCT-001",
+   "ten": "Dự án đầu tư xây dựng nhà máy chế biến Cacbonat canci",
+   "chu_dau_tu": "Công ty cổ phần Mông Sơn (trước đây là HTX khai thác vận chuyển đá Mông Sơn)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 31.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-002",
+   "ten": "Dự án đầu tư sản xuất sơn dẻo nhiệt phản quang",
+   "chu_dau_tu": "Công ty TNHH sơn dẻo nhiệt SYNTHETIC",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 3.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-003",
+   "ten": "Dự án đầu tư mở rộng, nâng cấp, cải tạo nhà máy chế biến khoáng sản",
+   "chu_dau_tu": "Công ty cổ phần khoáng sản Yên Bái VPG",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 24.058175
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-004",
+   "ten": "Nhà máy sản xuất hạt nhựa CaCO3 và nghiền bột đá CaCO3",
+   "chu_dau_tu": "Công ty cổ phần An Tiến Industries",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 459.139
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-005",
+   "ten": "Nhà máy chế biến đá vôi trắng và đá tấm ốp lát",
+   "chu_dau_tu": "Công ty TNHH 1 TV chế biến đá CaCO3 & đá ốp lát Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 382.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "LK-HC-001",
+   "ten": "Nhà máy sản xuất gạch Tuynel và chưng cất dầu FO",
+   "chu_dau_tu": "Công ty cổ phần đầu tư phát triển công nghiệp Sông Hồng",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 148.626
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-006",
+   "ten": "Dự án đầu tư nâng cấp, cải tạo nhà máy chế biến thức ăn chăn nuôi gia súc Yên Bái",
+   "chu_dau_tu": "Công ty cổ phần Đức Hạnh BMG Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 48.059
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-007",
+   "ten": "Dự án đầu tư nhà máy nghiền bột canxi cacbonat và sản xuất bao bì nhựa- công ty cổ phần khoáng sản và bao bì MAILANDS (trước là Công ty cổ phần chế biến khoáng sản Vinavico)",
+   "chu_dau_tu": "",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.706309
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "LK-HC-002",
+   "ten": "Nhà máy sản xuất DCP-MCP-SSP Yên Bái",
+   "chu_dau_tu": "Công ty CP phát triển công nghệ hóa Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 204.648085
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-008",
+   "ten": "Dự án đầu tư nhà máy chế biến đá vôi",
+   "chu_dau_tu": "Công ty TNHH Thuận Phát",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 21.6
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-009",
+   "ten": "Nhà máy sản xuất tấm lợp Fibrocement và ngói xi măng An Phúc Yên Bái",
+   "chu_dau_tu": "Công ty cổ phần An Phúc",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 35.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-010",
+   "ten": "Dự án đầu tư nhà máy sản xuất bột đá Canxi Cacbonat",
+   "chu_dau_tu": "Công ty TNHH Phát triển khoáng sản Đông Dương",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 138.6
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "LK-HC-003",
+   "ten": "Đầu tư nâng cấp dây chuyền chưng cất dầu FO",
+   "chu_dau_tu": "Công ty TNHH Yến Ngọc YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 75.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "LK-HC-004",
+   "ten": "Dự án đầu tư nhà máy chế biến luyện kim, kim loại mầu",
+   "chu_dau_tu": "Công ty cổ phần Việt Kim Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 95.805
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-011",
+   "ten": "Dự án nhà máy sứ cách điện Hoàng Liên Sơn",
+   "chu_dau_tu": "Công ty cổ phần sứ cách điện Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 47.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-012",
+   "ten": "Dự án đầu tư xây dựng nhà máy sản xuất bột đá CaC03",
+   "chu_dau_tu": "Công ty cổ phần khoáng sản công nghiệp Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 287.063
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-013",
+   "ten": "Nhà máy sản xuất bột đá CaCO3; bột trét tường và hạt nhựa Taical",
+   "chu_dau_tu": "Công ty cổ phần quốc tế khoáng chất công nghiệp Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 192.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-014",
+   "ten": "Dự án nhà máy sản xuất viên nén nhiên liệu và các sản phẩm gỗ Trường Minh - Yên Bái",
+   "chu_dau_tu": "Công ty TNHH Trường Minh",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 64.981278
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-015",
+   "ten": "Nhà máy sản xuất bê tông thương phẩm và bê tông Asphalt",
+   "chu_dau_tu": "Công ty cổ phần xây dựng giao thông Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 42.598
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-016",
+   "ten": "Nhà máy sản xuất các sản phẩm gỗ và ván lát sàn SPC",
+   "chu_dau_tu": "Công ty TNHH Ngành gỗ Thiên An Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 200.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-017",
+   "ten": "Nhà máy sản xuất các sản phẩm nhôm và các sản phẩm nhựa EUROSTARK",
+   "chu_dau_tu": "Công ty cổ phần đầu tư và phát triển nhựa gỗ Châu Âu",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 195.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-018",
+   "ten": "Nhà máy sản xuất bao bì jumbo, tái chế nhựa phế liệu, chế biến Cacbonat Canxi, đá hạt, đá trang trí, nhựa ép đùn và phụ gia nhựa công nghệ cao",
+   "chu_dau_tu": "Công ty cổ phần khoáng sản Red stone",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 168.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-019",
+   "ten": "Dự án đầu tư nhà máy sản xuất ván ốp lát và ván lát sàn",
+   "chu_dau_tu": "Công ty cổ phần An Phúc",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 16.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-020",
+   "ten": "Nhà máy nghiền đá Canxi Cacbonat và sản xuất sỏi nhân tạo",
+   "chu_dau_tu": "Công ty cổ phần Đá Bình Minh",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 15.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-021",
+   "ten": "Dự án đầu tư nhà máy chế biến gỗ Kim Gia",
+   "chu_dau_tu": "Công ty cổ phần thương mại sản xuất Kim Gia",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 97.962
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-022",
+   "ten": "Nhà máy sản xuất bao bì xuất khẩu",
+   "chu_dau_tu": "Công ty TNHH Viet Nam Polymer Industries",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 75.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-023",
+   "ten": "Nhà máy chế biến đá xẻ, bột đá trắng và viên nén năng lượng xanh Yên Bái",
+   "chu_dau_tu": "Công ty cổ phần khoáng sản năng lượng xanh Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 100.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-024",
+   "ten": "Nhà máy sản xuất hạt nhựa và các sản phẩm nhựa",
+   "chu_dau_tu": "Công ty cổ phần Nhựa Châu Âu Yên Bái (Tên cũ: Công ty cổ phần công nghiệp EP)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 300.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-025",
+   "ten": "Nhà máy sản xuất các sản phẩm gỗ và ván lát sàn SPC Thiên Hòa",
+   "chu_dau_tu": "Công ty TNHH công nghệ Thiên Hòa",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 204.479
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-026",
+   "ten": "Nhà máy chế biến gỗ Yên Bái",
+   "chu_dau_tu": "Công ty TNHH Benchmark Industries",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 45.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-027",
+   "ten": "Nhà máy sản xuất ván lát sàn New Wanli Việt Nam",
+   "chu_dau_tu": "Công ty TNHH nghành gỗ MERIDA Việt Nam (Tên cũ: Công ty TNHH Ngành Gỗ New World Việt Nam No.1)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 82.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-028",
+   "ten": "Nhà máy sản xuất ván ép Sunrise YB",
+   "chu_dau_tu": "Công ty cổ phần Sunrise YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 60.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-029",
+   "ten": "Nhà máy sản xuất ngói mầu không nung Nasaki",
+   "chu_dau_tu": "Công ty TNHH Nasaki Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 18.5
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-030",
+   "ten": "Nhà máy chế biến tinh dầu và sản xuất hạt nhựa, bột đá CaCO3",
+   "chu_dau_tu": "Công ty cổ phần Polyfill Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 500.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-031",
+   "ten": "Nhà máy sản xuất đồ gỗ nội thất",
+   "chu_dau_tu": "Công ty TNHH Xinghua Hồng Kông (Tên TCKT tại VN: Công ty TNHH NGÀNH GỖ OAKONCEPT VIỆT NAM)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 169.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-032",
+   "ten": "Nhà máy sản xuất đồ gỗ nội thất, ván ép và tấm đá thạch anh nhân tạo Dafu Việt Nam",
+   "chu_dau_tu": "Công ty TNHH DAFU WOOD Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 135.5
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-033",
+   "ten": "Nhà máy dăm gỗ MB",
+   "chu_dau_tu": "Công ty CP Đầu tư và sản xuất Giấy Thành Phát",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 54.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-034",
+   "ten": "Nhà máy sản xuất viên nén nhiên liệu MB và sản xuất than sạch",
+   "chu_dau_tu": "Công ty TNHH MTV Giấy Miền Bắc",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 86.82
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-035",
+   "ten": "Nhà máy sản xuất tủ bếp cao cấp Á Châu",
+   "chu_dau_tu": "Công ty TNHH thiết bị công nghệ cao Á Châu",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 60.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-036",
+   "ten": "Nhà máy chế biến vật liệu gốm sứ và sản xuất gạch không nung",
+   "chu_dau_tu": "Công ty cổ phần Vinakasan",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 46.050774
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-037",
+   "ten": "Nhà máy công nghiệp Sunwell Việt Nam",
+   "chu_dau_tu": "Công ty TNHH Cabinetry Sunwell Giang Tô (TCKT: Công ty TNHH Công nghiệp Sunwell Việt Nam)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 196.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-038",
+   "ten": "Nhà máy sản xuất đồ gỗ nội thất cao cấp Mộc Việt",
+   "chu_dau_tu": "Công ty TNHH sản xuất gỗ Mộc Việt",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 60.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-039",
+   "ten": "Nhà máy sản xuất đồ gỗ nội thất cao cấp và viên gỗ nén Hà Yên",
+   "chu_dau_tu": "Công ty TNHH công nghiệp chế biến gỗ Hà Yên",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 40.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "LK-HC-005",
+   "ten": "Nhà máy sản xuất hóa chất Link - Win",
+   "chu_dau_tu": "Công ty TNHH Link - Win Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 96.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-040",
+   "ten": "Nhà máy sản xuất và gia công giày xuất khẩu",
+   "chu_dau_tu": "Công ty TNHH Giày RUIAN Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 160.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-041",
+   "ten": "Nhà máy may xuất khẩu Unico Global",
+   "chu_dau_tu": "Công ty TNHH Unico Global YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "HD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 565.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Xây dựng sai giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Chưa nghiệm thu công trình xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế. CẢNH BÁO: phụ lục xếp chung nhóm A (đã sản xuất, kinh doanh) nên bản ghi này đang để trạng thái HD; theo Báo cáo có 09 dự án nhóm A đã DỪNG HOẠT ĐỘNG (KCN phía Nam 06, Minh Quân 03) nhưng phụ lục không đánh dấu là dự án nào - phải xác định và chuyển sang trạng thái TD trước khi tính vào chỉ tiêu sản lượng."
+  },
+  {
+   "ma": "CBCT-042",
+   "ten": "Nhà máy sản xuất và gia công giày dép",
+   "chu_dau_tu": "Công ty TNHH Super Star",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 98.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-006",
+   "ten": "Nhà máy sản xuất ống thép cung cấp cho các công trình thủy điện, thủy lợi; công trình công nghiệp và dân dụng khác",
+   "chu_dau_tu": "Công ty cổ phần NEVN Hoàng Liên Sơn",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 168.22454
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-043",
+   "ten": "Nhà máy sản xuất gạch không nung YB",
+   "chu_dau_tu": "Công ty TNHH Phúc Đạt YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.104
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-044",
+   "ten": "Xây dựng xưởng chế tác đá số 1",
+   "chu_dau_tu": "Công ty TNHH tranh đá quý Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 4.146
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-007",
+   "ten": "Nhà máy luyện đồng Yên Bái",
+   "chu_dau_tu": "Công ty cổ phần tư vấn - đầu tư xây dựng Ba Đình",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 747.212
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Chưa được nghiệm thu phòng cháy, chữa cháy",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-045",
+   "ten": "Nhà máy sản xuất hạt nhựa và các sản phẩm nhựa EUROSTARK",
+   "chu_dau_tu": "Công ty cổ phần đầu tư và phát triển nhựa gỗ Châu Âu",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 200.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-046",
+   "ten": "Nhà máy sản xuất hạt Taical",
+   "chu_dau_tu": "Công ty cổ phần Nhựa công nghệ cao",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 92.54
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-008",
+   "ten": "Nhà máy chưng cất dầu FO Ngọc Hiển",
+   "chu_dau_tu": "Công ty TNHH Ngọc Hiển CB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 80.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-047",
+   "ten": "Nhà máy chế biến đá Hà Yên",
+   "chu_dau_tu": "Công ty cổ phần đầu tư và khoáng sản Hà Yên",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 120.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-048",
+   "ten": "Nhà máy sản xuất Giấy Kraft Phúc Lâm",
+   "chu_dau_tu": "Cty TNHH Công nghiệp chế biến gỗ Phúc Lâm (nhận chuyển nhượng từ Công ty cổ phần khoáng sản Yên Bái VPF)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 98.5
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "DD",
+     "mo_ta": "Vướng mắc về đất đai",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "XD",
+     "mo_ta": "Đã xây dựng công trình khi chưa có giấy phép xây dựng",
+     "co_quan_giai_quyet": "Sở Xây dựng; Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "MT-PCCC",
+     "mo_ta": "Vướng mắc về môi trường",
+     "co_quan_giai_quyet": "Sở Nông nghiệp và Môi trường; Công an tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "NL-001",
+   "ten": "Nhà máy sản xuất pin năng lượng mặt trời Create Capital Việt Nam",
+   "chu_dau_tu": "Công ty cổ phần Create Capital Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "NL",
+   "nganh_cap_2": "nguồn điện",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 986.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-049",
+   "ten": "Nhà máy sản xuất chế biến các sản phẩm gỗ, sản xuất viên nén gỗ",
+   "chu_dau_tu": "Công ty TNHH chế biến gỗ Mai Lâm Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 90.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    },
+    {
+     "ma_nhom": "TC",
+     "mo_ta": "Chưa thực hiện nghĩa vụ tài chính (tiền thuê hạ tầng, Quỹ phòng chống thiên tai)",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-050",
+   "ten": "Nhà máy chế biến dăm gỗ và viên nén gỗ",
+   "chu_dau_tu": "Công ty TNHH Kiệt Lâm YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "XD",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 75.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-051",
+   "ten": "Nhà máy sản xuất gỗ nội thất Hoàng Gia Green",
+   "chu_dau_tu": "Công ty cổ phần Hoàng Gia Green Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 99.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-009",
+   "ten": "Nhà máy chưng cất dầu FO Hải Yến",
+   "chu_dau_tu": "Công ty TNHH Hải Yến CB (nhận chuyển nhượng dự án từ Công ty cổ phần FBEGROUP)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-052",
+   "ten": "Nhà máy sán xuất bột đá và hạt nhựa cao cấp tổng hợp",
+   "chu_dau_tu": "Công ty TNHH MTV Xuân An",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 966.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-053",
+   "ten": "Nhà máy sản xuất, chế biến đá hoa trắng",
+   "chu_dau_tu": "Công ty cổ phần chế biến khoáng sản Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 119.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "NL-002",
+   "ten": "Nhà máy nhiệt điện sinh khối Trường Minh – Yên Bái giai đoạn 1 công suất 29MW",
+   "chu_dau_tu": "Công ty cổ phần Nhiệt điện sinh khối Trường Minh - Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "NL",
+   "nganh_cap_2": "nguồn điện",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 1407.6
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-054",
+   "ten": "Nhà máy sản xuất ván sàn SPC và các sản phẩm chế tạo từ gỗ -China Qianfu Wood Co.,Limited (TCKT: Công ty TNHH 1TV đồ gia dụng Thái Sơn)",
+   "chu_dau_tu": "",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 115.95
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-055",
+   "ten": "Nhà máy sản xuất ván sàn SPC",
+   "chu_dau_tu": "Công ty TNHH Innovisione (Tên TCKT tại VN: Công ty TNHH công nghệ vật liệu mới Thiên Lam)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 154.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-010",
+   "ten": "Nhà máy kết cấu thép và vật liệu cơ khí chuyên dùng",
+   "chu_dau_tu": "Công ty cổ phần đầu tư và xây dựng Yên Bình",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 240.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-056",
+   "ten": "Nhà máy Ecolors sản xuất hạt nhựa và phụ gia cho ngành nhựa",
+   "chu_dau_tu": "Công ty cổ phần Ecolors",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 92.906
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-057",
+   "ten": "Nhà máy sản xuất đồ gỗ nội thất cao cấp Phúc Điền YB",
+   "chu_dau_tu": "Công ty TNHH Phúc Điền YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 40.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-058",
+   "ten": "Nhà máy chế biến bột đá CaCO3",
+   "chu_dau_tu": "Công ty cổ phần khoáng sản NMP",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 45.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-059",
+   "ten": "Nhà máy sản xuất, chế biến bột đá trắng",
+   "chu_dau_tu": "Công ty cổ phần sản xuất và thương mại Nam Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-060",
+   "ten": "Nhà máy sản xuất tấm nhựa",
+   "chu_dau_tu": "Công ty TNHH Nasaki Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 63.822
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-011",
+   "ten": "Nhà máy chế biến thép Lộc Linh",
+   "chu_dau_tu": "Công ty TNHH Thương mại và Sản xuất thép Lộc Linh",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 750.291
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-061",
+   "ten": "Nhà máy chế biến lâm sản xuất khẩu",
+   "chu_dau_tu": "Công ty cổ phần HLS Energy",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 98.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-062",
+   "ten": "Nhà máy chế biến gỗ xuất khẩu Ngọc Lâm YB",
+   "chu_dau_tu": "Công ty cổ phần chế biến gỗ Ngọc Lâm",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 75.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-063",
+   "ten": "Nhà máy sản xuất ván lát sàn SPC Bình An",
+   "chu_dau_tu": "Công ty Cổ Phần đầu tư và phát triển tổng hợp Bình An",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 165.299
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-064",
+   "ten": "Nhà máy tái chế phế liệu, chất thải rắn thông thường thành năng lượng tái tạo",
+   "chu_dau_tu": "Công ty Cổ phần đầu tư sản xuất và dịch vụ thương mại Môi trường xanh",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 70.383
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-065",
+   "ten": "Nhà máy chế biến bột đá cao cấp",
+   "chu_dau_tu": "Công ty TNHH sản xuất và thương mại Việt Minh Long",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-066",
+   "ten": "Nhà máy sản xuất ván lát sàn gỗ",
+   "chu_dau_tu": "Công ty TNHH Ngành gỗ Thiên An Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 80.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-067",
+   "ten": "Nhà máy chế biến gỗ rừng trồng, thức ăn chăn nuôi và sản xuất sỏi nhân tạo",
+   "chu_dau_tu": "Công ty TNHH Mộc Việt YB",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN phía Nam",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 45.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-068",
+   "ten": "Nhà máy chế biến măng Yên Bái",
+   "chu_dau_tu": "Công ty TNHH Vạn Đạt",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 29.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-069",
+   "ten": "Nhà máy sản xuất thiết bị điện dân dụng và điện chiếu sáng",
+   "chu_dau_tu": "Công ty cổ phần tập đoàn đầu tư và thương mại Mundus Stones",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 50.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-070",
+   "ten": "Nhà máy sản xuất, gia công các sản phẩm cơ khí",
+   "chu_dau_tu": "Công ty cổ phần Genji Việt Nam (nhận chuyển nhượng từ Công ty CP Filler Masterbatch)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 80.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-071",
+   "ten": "Nhà máy sx đèn led",
+   "chu_dau_tu": "Cty CP SBL Việt Nam (Công ty cổ phần sản xuất công nghiệp IPC)",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 75.71
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-072",
+   "ten": "Nhà máy sản xuất Giấy Kiến Phát -TCKT thực hiện DA: Công ty TNHH công nghiệp Giấy Kiến Phát",
+   "chu_dau_tu": "",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 330.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-012",
+   "ten": "Nhà máy sản xuất nhôm định hình và các sản phẩm công nghiệp phụ trợ",
+   "chu_dau_tu": "Công ty TNHH phát triển công nghiệp phụ trợ Việt Nam",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 300.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-073",
+   "ten": "Nhà máy sản xuất thuốc và sản phẩm chăm sóc sức khỏe",
+   "chu_dau_tu": "Công ty cổ phần dược phẩm Yên Bái",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 300.635
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-074",
+   "ten": "Nhà máy sản xuất ván ép nội thất cao cấp và tủ bếp Hồng Tuệ",
+   "chu_dau_tu": "Công ty TNHH Thương mại và Đầu tư Hồng Tuệ",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 99.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-075",
+   "ten": "Nhà máy sản xuất sản phẩm sinh học",
+   "chu_dau_tu": "Công ty cổ phần sinh học EUP",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 95.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Vướng mắc về đầu tư",
+     "co_quan_giai_quyet": "Ban Quản lý các Khu công nghiệp tỉnh",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": ""
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-076",
+   "ten": "Nhà máy sản xuất sản phẩm từ gỗ rừng trồng",
+   "chu_dau_tu": "Công ty TNHH TM dịch vụ phú Cường Bình Đình",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Âu Lâu",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 70.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-077",
+   "ten": "Nhà máy công nghiệp quốc tế Lâm Phong",
+   "chu_dau_tu": "Công ty TNHH sản xuất và đầu tư Lâm Phong",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 98.8
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-078",
+   "ten": "Nhà máy sản xuất đánh bóng sỏi nhân tạo và nghiền bột đá CaCO3",
+   "chu_dau_tu": "Công ty cổ phần thương mại đá Cầu Vồng",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 20.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-079",
+   "ten": "Nhà máy giấy Kraft",
+   "chu_dau_tu": "Công ty TNHH sản xuất và thương mại vận tải Mạnh Đức",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 90.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "LK-HC-013",
+   "ten": "Nhà máy phân lân nung chảy",
+   "chu_dau_tu": "Công ty cổ phần phân lân Sông Thao",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "LK-HC",
+   "nganh_cap_2": "luyện kim, hoá chất",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 90.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-080",
+   "ten": "Nhà máy sản xuất sản Giấy Đại Lộc",
+   "chu_dau_tu": "Công ty TNHH đầu tư sản xuất Đại Lộc",
+   "vi_tri": {
+    "xa_phuong": "",
+    "kcn_ccn": "KCN Minh Quân",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo",
+   "trang_thai": "CT",
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 90.0
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát, Ban Quản lý các Khu công nghiệp tỉnh Lào Cai (bản 12/5/2026); Báo cáo đánh giá hiện trạng và tình hình triển khai các dự án đầu tư trong các KCN, số liệu chốt đến 16/4/2026",
+    "ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
+    "ngay_cap_nhat": "2026-07-23",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  }
+ ]
 }

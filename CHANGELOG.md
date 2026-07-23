@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-23 (bổ sung 3) — dacn-sct-vn v1.1.0: nạp dữ liệu thật 95 dự án trong 03 KCN
+
+- **Sổ danh mục dự án từ rỗng → 95 dự án thứ cấp** trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý. Nguồn: Phụ lục 01 và 02 kèm Báo cáo của Tổ rà soát (bản 12/5/2026) + Báo cáo đánh giá hiện trạng, tình hình triển khai các dự án đầu tư trong các KCN (số liệu chốt đến 16/4/2026).
+- **Phân bố:** theo KCN — phía Nam 66, Minh Quân 17, Âu Lâu 12 (khớp tuyệt đối với Báo cáo); theo trạng thái — đã sản xuất kinh doanh 46, đang đầu tư xây dựng 13, chưa triển khai xây dựng 36; tổng vốn đăng ký 15.501,318 tỷ đồng.
+- **Điểm nghẽn: 63/95 dự án đang vướng, 238 lượt** — xây dựng 96 (chưa có GPXD 44, xây sai GPXD 24, chưa nghiệm thu 28), môi trường và PCCC 45, chủ trương đầu tư 44, nghĩa vụ tài chính 34, đất đai 19. Có 01 dự án vướng 8/8 nhóm, 07 dự án vướng 7 nhóm, 32 dự án không vướng.
+- **05 cảnh báo về dữ liệu gốc** ghi thẳng vào file, script in ra đầu tiên khi chạy `kiem-tra`: (1) 09 dự án nhóm A đã dừng hoạt động nhưng phụ lục không chỉ rõ dự án nào — phải xác định trước khi tính chỉ tiêu sản lượng; (2) chênh lệch tổng vốn 98 tỷ do tiểu tổng nhóm B thiếu mục 47 (Super Star); (3) chênh lệch cột nghĩa vụ tài chính 3 lượt ở nhóm B (STT 48, 50, 51, 58) giữa đánh dấu từng mục và tiểu tổng, 07 cột còn lại khớp tuyệt đối; (4) trường xã/phường để trống vì phụ lục không ghi địa giới sau 01/7/2025; (5) trường nhóm phân loại tự động theo từ khoá, cần rà soát — nhất là bột đá CaCO3 vì ranh giới CBCT ↔ KS ảnh hưởng chỉ tiêu 4. **Không tự sửa số liệu gốc ở chỗ nào.**
+- **Cải tiến `theo_doi_du_an.py`:** lệnh `kiem-tra` in kỳ số liệu ở đầu, in khối cảnh báo dữ liệu gốc trước tiên, gom cảnh báo theo LOẠI kèm số lượt và ví dụ thay vì liệt kê từng dòng (238 dòng → 1 khối).
+- **`SKILL.md` ghi rõ phạm vi còn thiếu của sổ:** chưa có dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, dự án trong CCN, dự án ngoài khu/cụm, khoáng sản, thuỷ điện, hạ tầng KCN/CCN — để không báo cáo thiếu.
+
 ## 2026-07-23 (bổ sung 2) — dacn-sct-vn v1.0.1: xác nhận 03 điểm treo, gỡ toàn bộ GATE
 
 Bạn đã đối chiếu bản gốc có dấu và xác nhận ngày 23/7/2026. Ba nội dung treo khi phát hành v1.0.0 nay đã chốt:

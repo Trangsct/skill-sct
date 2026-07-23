@@ -19,7 +19,7 @@ b) **Thuộc thẩm quyền quản lý của Bộ Xây dựng**, xác định th
 
 c) **Thuộc diện quản lý về PCCC** theo Phụ lục I NĐ 105/2025.
 
-**HỆ QUẢ QUAN TRỌNG CHO SỞ CÔNG THƯƠNG:** QĐ 1074 KHÔNG áp dụng trực tiếp cho công trình thuộc thẩm quyền quản lý của Bộ Công Thương (cửa hàng xăng dầu, cửa hàng khí gas, kho VLNCN, nhà máy điện, trạm biến áp, nhà máy hóa chất...). Nhóm này chờ **Bộ Công Thương ban hành giải pháp kỹ thuật riêng** theo điểm a khoản 7 Điều 41 NĐ 105 (hạn 01/7/2026 — đến 21/7/2026 chưa ghi nhận văn bản; phải theo dõi và có thể tham mưu CV đề nghị Bộ). Tuy nhiên QĐ 1074 vẫn liên quan trực tiếp đến SCT vì: (1) nhiều nhà xưởng sản xuất, nhà kho trong CCN là công trình do BXD quản lý về xây dựng; (2) Tài liệu là khuôn mẫu kỹ thuật để đối chiếu khi BCT ban hành bản của mình; (3) CV 7432 yêu cầu MỌI sở, ngành rà soát theo phạm vi quản lý.
+**HỆ QUẢ QUAN TRỌNG CHO SỞ CÔNG THƯƠNG:** QĐ 1074 KHÔNG áp dụng trực tiếp cho công trình thuộc thẩm quyền quản lý của Bộ Công Thương (cửa hàng xăng dầu, cửa hàng khí gas, kho VLNCN, nhà máy điện, trạm biến áp, nhà máy hóa chất...). Nhóm này áp dụng **QĐ 1609/QĐ-BCT ngày 01/7/2026 của Bộ Công Thương** (Thứ trưởng Trương Thanh Hoài ký, Công báo 406 ngày 17/7/2026 — toàn văn chưa chưng cất vào skill, phải đọc bản gốc). QĐ 1074 vẫn liên quan trực tiếp đến SCT vì: (1) nhiều nhà xưởng sản xuất, nhà kho trong CCN là công trình do BXD quản lý về xây dựng; (2) Tài liệu là khuôn mẫu kỹ thuật để đối chiếu song song với QĐ 1609; (3) CV 7432 yêu cầu MỌI sở, ngành rà soát theo phạm vi quản lý.
 
 ## III. Cấu trúc Tài liệu và 3 nhóm giải pháp (mục 4.1)
 
@@ -110,7 +110,7 @@ Loại trừ chung E.1.2/E.2.2: không áp dụng nhà có công năng ngủ qua
 2. **Soi cột Ghi chú loại trừ hạng A, B** ở từng giải pháp — đây là bẫy lớn nhất với cơ sở ngành Công Thương.
 3. Mục 4.2: mỗi tồn tại chọn một giải pháp; giải pháp yêu cầu báo cháy/chữa cháy KHÔNG được ghép đồng thời với giải pháp cho tồn tại "không trang bị báo cháy/chữa cháy".
 4. Tài liệu viện dẫn nền: QCVN 06:2022/BXD + Sửa đổi 1:2023 (ký hiệu [1]); QCVN 10:2025/BCA (ký hiệu [2]); TCVN 7336, 7435-1, 13456, 13657-1/-2, 13967; 4 Hướng dẫn của Viện KHCN xây dựng năm 2026 (tính toán thoát nạn, tải trọng cháy, mô phỏng cháy, chống khói).
-5. Bộ Công Thương chưa ban hành tài liệu tương ứng cho công trình thuộc thẩm quyền BCT (đã quá hạn 01/7/2026) — Sở cần theo dõi, khi có văn bản mới thì cập nhật skill và ưu tiên văn bản của BCT.
+5. **Bộ Công Thương ĐÃ ban hành văn bản tương ứng: QĐ 1609/QĐ-BCT ngày 01/7/2026** (Thứ trưởng Trương Thanh Hoài ký, hiệu lực 01/7/2026, Công báo số 406 ngày 17/7/2026) cho công trình thuộc thẩm quyền BCT — đây mới là văn bản áp dụng trực tiếp cho cửa hàng xăng dầu, gas, kho VLNCN, nhà máy điện, hóa chất. Toàn văn chưa được chưng cất vào skill; khi tư vấn cho cơ sở ngành Công Thương phải đọc bản gốc QĐ 1609, KHÔNG dùng nội dung QĐ 1074 thay thế.
 
 ## VII. Phân công triển khai tại Lào Cai theo CV 7432/UBND-XD ngày 21/7/2026
 

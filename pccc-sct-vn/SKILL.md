@@ -43,6 +43,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Công văn số 5269/BXD-KTQLXD ngày 18/6/2025 của Bộ Xây dựng | Hướng dẫn thẩm định PCCC của CQCM về xây dựng | 18/6/2025 |
 | Quyết định số 864/QĐ-BXD ngày 31/10/2024 của Bộ Xây dựng | Phân cấp các CQCM về xây dựng | 31/10/2024 |
 | **Quyết định số 1074/QĐ-BXD ngày 29/6/2026 của Bộ Xây dựng** (KT. Bộ trưởng — Thứ trưởng Phạm Minh Hà) | Ban hành các giải pháp kỹ thuật nâng cao an toàn PCCC cho cơ sở, công trình hiện hữu không bảo đảm PCCC, không có khả năng khắc phục, thuộc thẩm quyền quản lý của Bộ Xây dựng (thực hiện điểm b khoản 6 Điều 55 Luật 55/2024, Điều 43 NĐ 105) — 6 Phụ lục A-F, hoàn thành áp dụng chậm nhất 01/7/2028 | 29/6/2026 (từ ngày ký) |
+| **Quyết định số 1609/QĐ-BCT ngày 01/7/2026 của Bộ Công Thương** (Thứ trưởng Trương Thanh Hoài) | Ban hành các giải pháp kỹ thuật nâng cao an toàn PCCC cho cơ sở, công trình hiện hữu không bảo đảm PCCC, không có khả năng khắc phục, **thuộc thẩm quyền quản lý của Bộ Công Thương** — văn bản áp dụng trực tiếp cho các cơ sở ngành (xăng dầu, gas, VLNCN, hóa chất, điện...); đăng Công báo số 406 ngày 17/7/2026; toàn văn chưa chưng cất vào skill, phải đọc bản gốc khi xử lý | 01/7/2026 |
 | Nghị định số 175/2024/NĐ-CP ngày 30/12/2024 | Quản lý dự án đầu tư xây dựng (thay NĐ 15/2021) | 01/4/2025 |
 
 ### 2. Văn bản cấp Trung ương về kinh doanh các lĩnh vực ngành Công Thương
@@ -232,7 +233,7 @@ Tham chiếu: phân định ranh giới tại Công văn 314/SCT-CN ngày 20/01/
 
 8. **Lộ trình Điều 43 NĐ 105 đối với cơ sở không bảo đảm PCCC trước 01/7/2025:**
    - Đến 01/01/2026: UBND tỉnh hoàn thành phân loại, công bố danh sách (đến 7/2026 Lào Cai vẫn chưa công bố - cần báo cáo lãnh đạo).
-   - Đến 01/7/2026: Các bộ quản lý xây dựng chuyên ngành ban hành giải pháp kỹ thuật. **Bộ Xây dựng ĐÃ ban hành QĐ 1074/QĐ-BXD ngày 29/6/2026** (xem `references/15`); **Bộ Công Thương CHƯA ban hành** cho công trình thuộc thẩm quyền BCT (xăng dầu, gas, VLNCN, hóa chất, điện...) - đã quá hạn, phải theo dõi và cân nhắc tham mưu công văn đề nghị Bộ.
+   - Đến 01/7/2026: Các bộ quản lý xây dựng chuyên ngành ban hành giải pháp kỹ thuật. **CẢ HAI BỘ ĐÃ HOÀN THÀNH: Bộ Xây dựng — QĐ 1074/QĐ-BXD ngày 29/6/2026** (xem `references/15`); **Bộ Công Thương — QĐ 1609/QĐ-BCT ngày 01/7/2026** (Thứ trưởng Trương Thanh Hoài ký, hiệu lực 01/7/2026, Công báo 406 ngày 17/7/2026) cho công trình thuộc thẩm quyền BCT (xăng dầu, gas, VLNCN, hóa chất, điện...). Toàn văn QĐ 1609 chưa được chưng cất vào skill — khi xử lý vụ việc cụ thể phải đọc bản gốc, KHÔNG suy diễn nội dung từ QĐ 1074.
    - Đến 01/7/2028: Cơ sở phải hoàn thành nâng cấp hoặc dừng hoạt động. Tại Lào Cai, CV 7432/UBND-XD ngày 21/7/2026 giao Sở Xây dựng chủ trì triển khai QĐ 1074; SCT rà soát, hướng dẫn theo phạm vi quản lý.
    - LƯU Ý PHẠM VI: QĐ 1074 CHỈ áp dụng cho công trình thuộc thẩm quyền quản lý của Bộ Xây dựng, đồng thời phải thuộc danh sách UBND tỉnh công bố và thuộc Phụ lục I NĐ 105 (3 điều kiện đồng thời); nhiều giải pháp trong đó LOẠI TRỪ nhà/khoang cháy hạng nguy hiểm cháy nổ A, B.
 

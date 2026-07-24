@@ -92,6 +92,16 @@ Bốn lỗi người dùng phát hiện khi mở file trong Word thật (render 
 
 **Bài học QA chung của Nhóm H:** (a) render LibreOffice "đẹp" chưa chắc Word đẹp — các kiểm tra dữ liệu (đếm shape, cỡ chữ, phân trang pdftotext, quét widow) là lớp bắt buộc song song với soi ảnh; (b) khi tool view ảnh không truyền được nội dung, `pdftotext -layout` + kiểm XML là phương án QA chính, không được giao file bỏ qua QA.
 
+### Nhóm I — Văn phong công văn GỬI DOANH NGHIỆP (Bạn chốt 24/7/2026, vụ CV hoàn thiện hồ sơ HHNH)
+
+Hai lỗi này không phải lỗi thể thức mà là lỗi **quan hệ với đối tượng quản lý** — sai thì gây phản ứng ngược hoặc bị hiểu sai động cơ, dù nội dung pháp lý vẫn đúng.
+
+1. **Không nêu các mốc hiệu lực giấy tờ mà doanh nghiệp CHƯA hề vi phạm.** Ví dụ sai: "Giấy phép lái xe của ông X có giá trị đến ngày 08/12/2026; Giấy chứng nhận tập huấn có giá trị đến ngày 31/12/2027; thời hạn kiểm định của 05 xe đến ngày 25/02/2027." Tại thời điểm nộp hồ sơ các giấy tờ này đang còn hiệu lực — doanh nghiệp không sai; liệt kê ra bị hiểu là cơ quan bới lỗi. Viết đúng: chỉ nêu **nghĩa vụ chung, trung tính** ("Trong suốt thời hạn của Giấy phép, ... phải bảo đảm còn thời hạn kiểm định ...; đề nghị đơn vị căn cứ các thời hạn nêu trên để đề xuất thời hạn cho phù hợp"). Các mốc cụ thể VẪN ghi trong **biên bản thẩm định, phiếu trình, báo cáo nội bộ**. Nguyên tắc phân tuyến: văn bản gửi đối tượng quản lý chỉ nêu cái **chưa đủ / chưa thống nhất / chưa chính xác**, không nêu cái đang đúng.
+
+2. **Không viết câu "đề nghị liên hệ Phòng ... để được hướng dẫn".** Câu kết quen thuộc "Trong quá trình hoàn thiện hồ sơ, nếu có vướng mắc, đề nghị liên hệ Phòng Quản lý Công nghiệp, Sở Công Thương tỉnh Lào Cai để được hướng dẫn./." dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, tiếp xúc riêng. **Bỏ hẳn đoạn này**; kết thúc văn bản ngay tại đoạn đề nghị nộp lại/thực hiện, gắn "./." vào cuối đoạn đó. Đầu mối tiếp nhận duy nhất được ghi trong văn bản là **Trung tâm Phục vụ hành chính công tỉnh**.
+
+Áp dụng cho MỌI công văn gửi doanh nghiệp, hợp tác xã, hộ kinh doanh — không riêng lĩnh vực nào. Khi dùng lại mẫu thật cũ (`examples/`, `vi-du-thuc-te/` của các plugin chuyên ngành) phải rà và XÓA hai dạng câu trên nếu còn.
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]

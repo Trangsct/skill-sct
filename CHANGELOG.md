@@ -150,3 +150,7 @@ Bạn đã đối chiếu bản gốc có dấu và xác nhận ngày 23/7/2026.
   - `nd30-phu-luc-3-viet-tat-mau.md`: Phụ lục III — bảng chữ viết tắt tên loại văn bản + mô tả mẫu trình bày.
 - SKILL.md: thêm chỉ dẫn tra 3 file trên (khi nào đọc file nào), rút gọn description ≤1024 ký tự, bổ sung trigger về thể thức/viết hoa/viết tắt theo NĐ 30/2020.
 - Không đưa Phụ lục IV–VI (quản lý văn bản, lập hồ sơ, tài liệu điện tử) — ngoài phạm vi soạn thảo.
+
+## 24/7/2026
+- **hnh-sct-vn v1.5.0**: bổ sung nguyên tắc 15 (văn phong công văn gửi doanh nghiệp - 2 quy tắc bất biến), 16 (đối chiếu môi chất bồn chứa với hàng xin phép), 17 (xe biển Việt Nam, SMRM không quy định niên hạn); reference 16 thêm mục 7; thêm ví dụ thực tế `tu-van-ky-thuat-nh3-072026/` (biên bản thẩm định + CV bản chuẩn văn phong).
+- **vbhc-vn v2.3.0**: thêm **Nhóm I** vào bộ anti-error (nay 9 nhóm) - văn phong công văn gửi doanh nghiệp: không nêu mốc hiệu lực giấy tờ DN chưa vi phạm; bỏ câu "đề nghị liên hệ Phòng ... để được hướng dẫn".

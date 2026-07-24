@@ -43,7 +43,7 @@ Khi soạn văn bản kết quả, kết hợp `vbhc-vn` (thể thức, mẫu 08
 
 **Khung kiểm tra chuyên ngành:** Luật Thanh tra 84/2025 (sở không còn thanh tra chuyên ngành); **NĐ 217/2025/NĐ-CP** ngày 05/8/2025 (kiểm tra chuyên ngành — văn bản trình tự cốt lõi); **TT 56/2025/TT-BCT** ngày 28/11/2025 (quy trình kiểm tra chuyên ngành Công Thương). Xem reference 10, bản gốc `van-ban-goc/05-xu-phat-kiem-tra/`.
 
-**Khung xử phạt (→ plugin xử phạt riêng):** NĐ 71/2019 sửa bởi NĐ 17/2022 (hóa chất, VLNCN); NĐ 189/2025 (thẩm quyền xử phạt). Bản gốc kèm để dẫn chiếu, không tự lập biên bản VPHC ở plugin này.
+**Khung xử phạt (→ plugin `xp-hc-vlncn-sct-vn`):** **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực **25/8/2026**, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — hóa chất Đ7–52 (Đ25 CSDL/báo cáo; Đ34 huấn luyện ATHC); thẩm quyền Đ62–73 (GĐ SCT đến 40 tr/cá nhân hóa chất); hành vi kết thúc trước 25/8/2026 vẫn theo NĐ 71/2019 sđ NĐ 17/2022 (chuyển tiếp Đ74 — lưu ý thêm bảng dẫn chiếu k2, k3 Đ74 cho Đ16/17/18/31 cũ). NĐ 189/2025 (thẩm quyền xử phạt). Bản gốc NĐ 71/2019 kèm để xử vụ giao thời; không tự lập biên bản VPHC ở plugin này.
 
 ## III. CHUỖI THẨM QUYỀN — CỐT LÕI NHẤT (phân định UBND cấp tỉnh / Cục Hóa chất)
 

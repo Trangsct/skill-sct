@@ -1,5 +1,16 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 — Nâng cấp cụm VLNCN theo NĐ 275/2026/NĐ-CP + plugin xử phạt dùng chung mới
+
+**Nguồn:** Nghị định **275/2026/NĐ-CP ngày 08/7/2026** quy định xử phạt VPHC lĩnh vực hóa chất và VLNCN — **hiệu lực 25/8/2026, thay thế NĐ 71/2019/NĐ-CP + Điều 1 NĐ 17/2022/NĐ-CP** (Đ75); chuyển tiếp Đ74 (hành vi kết thúc trước 25/8/2026 vẫn theo NĐ cũ).
+
+- **`xp-hc-vlncn-sct-vn` v1.0.0 (MỚI)** — plugin chế tài dùng chung 2 lĩnh vực: SKILL.md (bản đồ nghị định, quy tắc mức phạt Đ4, chọn nghị định theo thời điểm, thẩm quyền nhanh, quy trình xử phạt, ranh giới hình sự Đ6); 5 references (quy định chung + chuyển tiếp; bảng VLNCN Đ53–61 đầy đủ; bản đồ hóa chất Đ7–52 + Đ25/Đ34; thẩm quyền Đ62–73 + ví dụ tính; đối chiếu NĐ 71/2019 → 275/2026 với quy luật +4); van-ban-goc kèm toàn văn NĐ 275/2026 (bản Word).
+- **`sd-vlncn-sct-vn` [2026.7.24]** — ref 05 chuyển bảng sang Đ60 (thêm điểm mới 3d, 4b), thẩm quyền mới (**GĐ SCT đích danh k1 Đ63: 80 tr/cá nhân VLNCN**), câu viện dẫn 2 thời kỳ; SKILL.md mục 10 + anti-error 9 + ranh giới; ref 01/03, mẫu 13/18, INDEX.
+- **`hl-vlncn-sct-vn` v1.1.0** — hành vi nhân lực Đ50 cũ → **Đ54 mới** (15–30 tr + đình chỉ 3–6 tháng); SKILL.md, ref 01/06, mẫu 12, INDEX.
+- **`kho-vlncn-sct-vn` v1.5.0** — nhóm bảo quản kho Đ53 cũ → **Đ57 mới** (kho không đạt 50–70 tr + đình chỉ 6–12 tháng; để mất VLNCN 80–100 tr); làm rõ ranh giới PANM/GP sử dụng: `sd-vlncn-sct-vn` CHỦ TRÌ.
+- **`hc-sct-vn` v1.2.0** — nhóm hóa chất viết lại theo Luật 69/2025 (Đ25 CSDL thay Đ29 cũ — không báo cáo năm 30–40 tr/tổ chức, tăng ~3 lần; Đ34 huấn luyện ATHC thay Đ11 cũ); cập nhật SKILL.md, ref 07/10/11/15/16.
+- Quyết định kiến trúc: **GIỮ 3 plugin nghiệp vụ VLNCN riêng** (hl/kho/sd — trigger chính xác, tiết kiệm context), phần trùng lặp (chế tài xử phạt) hợp nhất vào plugin dùng chung; NĐ 71/2019 giữ trong van-ban-goc phục vụ vụ giao thời.
+
 ## 2026-07-24 (bổ sung) — vbhc-vn v2.4.0: Quy tắc 20 — cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung
 
 - **Vụ thật:** Biên bản thẩm định hồ sơ cấp Giấy phép vận chuyển HHNH loại 2 (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 24/7/2026) — trang 4 kết bằng đề mục `- Lái xe:` rồi bỏ trắng gần nửa trang, bảng lái xe nhảy nguyên khối sang trang 5. Không hề có paragraph trống: thủ phạm là `<w:trHeight>` gán cứng từng dòng (1623 và 2002 twip) cộng `<w:cantSplit/>` → cụm "dòng tiêu đề + dòng dữ liệu đầu" cao ~7 cm, vượt phần giấy còn lại.

@@ -125,8 +125,9 @@ Khoản 6 Điều 9 sửa **điểm đ khoản 1 Điều 39** Luật 42/2024 →
 ## 7. QCVN 01:2019/BCT (TT 32/2019/TT-BCT ngày 21/11/2019)
 Cốt lõi cho thẩm định PANM: **Phụ lục 7** — công thức tính khoảng cách an toàn (chi tiết reference `03`): Rc (chấn động), rs (sóng đập không khí), Rđv (đá văng — mục 4.4 + **Bảng 7.8**: bán kính nguy hiểm nổ mìn lỗ khoan nhỏ n<1, W≤1m: **người ≥ 200–300 m; thiết bị, công trình ≥ 150–200 m** tùy đường cản). Ngoài ra: quy định tín hiệu (bắt đầu nạp – khởi nổ – báo yên), canh gác, thời gian nổ, xử lý mìn câm, bảo quản VLNCN tại nơi nổ mìn (Điều 22 QCVN).
 
-## 8. NĐ 71/2019/NĐ-CP + NĐ 17/2022/NĐ-CP (xử phạt) → chi tiết reference `05`
-NĐ 17/2022 sửa NĐ 71/2019 tại: điểm a k2 Đ2; Đ27, Đ29, k4 Đ30; một số khoản Đ5, Đ18, Đ24; điểm b k5 Đ23; Đ31; một số điểm/khoản **Đ51**; toàn bộ nhóm thẩm quyền Đ58–60, 62–65; bổ sung Đ4a, 4b, 61a; Đ61, Đ63. **Điều 49, 50, 53, 54, 55, 56, 57 (nhóm hành vi VLNCN chính) không bị sửa nội dung hành vi/mức phạt.** Đang có dự thảo Nghị định thay thế (QĐ 1688/QĐ-TTg 06/8/2025 giao BCT xây dựng) — kiểm tra trước khi viện dẫn.
+## 8. Xử phạt: NĐ 275/2026/NĐ-CP (từ 25/8/2026) — chi tiết reference `05` + plugin `xp-hc-vlncn-sct-vn`
+- **NĐ 275/2026/NĐ-CP ngày 08/7/2026, hiệu lực 25/8/2026** — thay thế NĐ 71/2019 + Điều 1 NĐ 17/2022 (Đ75). Nhóm VLNCN: Đ53–61 (điều cũ + 4 = điều mới ở cấp điều: Đ49→53… Đ56→60, Đ57→61 — điểm/khoản bên trong đã biên tập lại, phải đối chiếu nguyên văn); thẩm quyền Đ62–73 (GĐ SCT: đích danh tại k1 Đ63, phạt đến 80 tr/cá nhân VLNCN); chuyển tiếp Đ74.
+- **NĐ 71/2019/NĐ-CP (sđ NĐ 17/2022)** — chỉ còn dùng cho hành vi xảy ra và kết thúc trước 25/8/2026 (k1 Đ74) và giải quyết khiếu nại QĐ đã ban hành (k4 Đ74). Ghi chú cũ giữ để tra hồ sơ giai đoạn trước: NĐ 17/2022 sửa NĐ 71/2019 tại một số điểm/khoản Đ51, nhóm thẩm quyền Đ58–60, 62–65, bổ sung Đ4a, 4b, 61a; các Điều 49, 50, 53–57 (hành vi VLNCN chính) không bị sửa nội dung.
 
 ## 9. Văn bản địa phương (Lào Cai)
 - **QĐ 05/2025/QĐ-UBND ngày 01/7/2025** — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Sở Công Thương (căn cứ chuẩn).

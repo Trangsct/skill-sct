@@ -13,7 +13,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Soạn chuỗi văn bản tổ chức một kỳ huấn luyện/kiểm tra**: Kế hoạch (/KH-SCT), Thông báo tổ chức (/SCT-CN), Báo cáo kết quả của Tổ kiểm tra, Quyết định công nhận kết quả + cấp GCN (/QĐ-SCT), danh sách kèm theo, Giấy chứng nhận Mẫu 03 → mẫu 01–07 + ví dụ thực tế.
 - **QĐ thành lập/kiện toàn/bổ sung Tổ kiểm tra, cấp GCN** → mẫu 08.
 - **Trả lời, hướng dẫn doanh nghiệp**: điều kiện chuyên môn từng chức danh, hồ sơ, nơi nộp, thời hạn, cấp lại, huấn luyện định kỳ/lại, TCTN; văn bản trả hồ sơ không hợp lệ/không đủ điều kiện → reference `04` + mẫu 09, 10 (tiền lệ HTX Văn Thịnh, Cty Duy Hiếu).
-- **Kiểm tra việc chấp hành pháp luật** về quản lý, bảo quản, sử dụng VLNCN (trong đó có kiểm tra GCN huấn luyện của người lao động): QĐ thành lập đoàn, KH kiểm tra, biên bản, báo cáo, thông báo kết quả sau kiểm tra; hành vi – mức phạt NĐ 71/2019 (Đ50: bố trí người chưa huấn luyện) → reference `06` + mẫu 11–12.
+- **Kiểm tra việc chấp hành pháp luật** về quản lý, bảo quản, sử dụng VLNCN (trong đó có kiểm tra GCN huấn luyện của người lao động): QĐ thành lập đoàn, KH kiểm tra, biên bản, báo cáo, thông báo kết quả sau kiểm tra; hành vi – mức phạt **Đ54 NĐ 275/2026** (sử dụng người chưa huấn luyện — từ 25/8/2026; trước đó Đ50 NĐ 71/2019) → reference `06` + mẫu 11–12 + plugin `xp-hc-vlncn-sct-vn`.
 - **Báo cáo** UBND tỉnh định kỳ hằng năm/đột xuất về thực hiện nhiệm vụ ủy quyền (điểm đ khoản 2 Điều 3 QĐ 1883/QĐ-UBND) → reference `06` + mẫu 13.
 - Tra cứu **ví dụ thực tế 2025–2026 của Lào Cai** → reference `07` + thư mục `vi-du-thuc-te/`.
 
@@ -44,7 +44,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Đã xác minh từ văn bản
 6. **QĐ số 1883/QĐ-UBND ngày 06/11/2025** của UBND tỉnh Lào Cai — **ỦY QUYỀN GIÁM ĐỐC SỞ CÔNG THƯƠNG** thực hiện huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN (TTHC **2.000229** cấp, **2.000210** cấp lại); hiệu lực **đến hết ngày 28/02/2027**; GĐ không được ủy quyền tiếp; dùng hình thức văn bản, con dấu của Sở; báo cáo UBND tỉnh hằng năm/đột xuất. (Trình tại TTr 2205/TTr-SCT ngày 28/10/2025; PCT Nguyễn Thành Sinh ký TM. UBND, KT. CHỦ TỊCH.)
 7. **QĐ số 05/2025/QĐ-UBND ngày 01/7/2025** — chức năng, nhiệm vụ SCT.
 8. **Văn bản nội bộ Sở:** QĐ số **2797/QĐ-SCT ngày 28/11/2025** thành lập Tổ kiểm tra, cấp GCN huấn luyện KTAT VLNCN, TCTN; QĐ số **564/QĐ-SCT ngày 31/01/2026** bổ sung thành viên Tổ kiểm tra.
-9. **Xử phạt:** NĐ 71/2019/NĐ-CP (sđ NĐ 17/2022) — **Điều 50**: bố trí người chưa được huấn luyện/kiểm tra không đạt/không đủ trình độ làm công việc liên quan VLNCN (chi tiết → `sd-vlncn-sct-vn` reference 05); kiểm tra Nghị định thay thế NĐ 71/2019 trước khi viện dẫn.
+9. **Xử phạt: NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực **25/8/2026**, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — **Điều 54**: sử dụng người chưa được huấn luyện, kiểm tra cấp GCN KTAT hoặc không đủ trình độ chuyên môn (điểm a, b k2: 15–30 tr cá nhân, tổ chức ×2, **kèm đình chỉ hoạt động 3–6 tháng**); không tổ chức huấn luyện/tài liệu không đạt/người huấn luyện không đủ điều kiện (k1: 5–15 tr). **Chuyển tiếp (Đ74):** hành vi kết thúc trước 25/8/2026 → Đ50 NĐ 71/2019 (sđ NĐ 17/2022). Chi tiết + thẩm quyền → plugin `xp-hc-vlncn-sct-vn`.
 10. **TT 09/2026/TT-BQP ngày 22/01/2026** chỉ áp dụng khối Bộ Quốc phòng — KHÔNG ảnh hưởng thẩm quyền Sở.
 
 ## III. THẨM QUYỀN — PHÂN ĐỊNH NHANH (từ 06/11/2025)
@@ -57,7 +57,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Đã xác minh từ văn bản
 | Kiểm tra + cấp GCN KTAT **TCTN** (người quản lý kho TCTN) | Cơ quan chuyên môn thuộc UBND tỉnh = Sở Công Thương | Đ11, Đ14 NĐ 181; đã có GCN VLNCN → miễn (k2 Đ10) |
 | Thu hồi GCN | Cơ quan đã cấp (GĐ SCT) | Đ17 NĐ 181, Mẫu 04–05 |
 | Tổ chức, DN thuộc **Bộ Quốc phòng** | Cục Quản lý Công nghệ/cơ quan được BQP giao | k2 Đ6, k2 Đ11 NĐ 181; TT 09/2026/TT-BQP |
-| Kiểm tra, xử phạt việc chấp hành (kể cả bố trí người chưa huấn luyện) | SCT chủ trì kiểm tra; xử phạt theo NĐ 71/2019 | Đ50 NĐ 71/2019 |
+| Kiểm tra, xử phạt việc chấp hành (kể cả bố trí người chưa huấn luyện) | SCT chủ trì kiểm tra; từ 25/8/2026 GĐ SCT phạt đến 80 tr/cá nhân VLNCN (k1 Đ63 NĐ 275/2026) | Đ54 NĐ 275/2026; hành vi trước 25/8/2026: Đ50 NĐ 71/2019 |
 
 ## IV. NGƯỜI KÝ, NGƯỜI SOẠN (khớp `sct-laocai-org-vn` + văn bản đã ban hành 2026)
 

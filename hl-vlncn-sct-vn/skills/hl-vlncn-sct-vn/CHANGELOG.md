@@ -1,5 +1,8 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.1.0] - 24/7/2026
+- Cập nhật khung xử phạt theo **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): hành vi nhân lực chuyển **Đ50 cũ → Đ54 mới** (sử dụng người chưa huấn luyện 15–30 tr cá nhân + đình chỉ 3–6 tháng; không tổ chức huấn luyện 5–15 tr). Sửa SKILL.md (mục I, khung pháp lý 9, bảng thẩm quyền), ref 01, ref 06 §2 (kèm quy tắc chuyển tiếp Đ74), mẫu 12, INDEX văn bản gốc. Chi tiết chế tài chuyển về plugin dùng chung mới **`xp-hc-vlncn-sct-vn`** (bảng Đ53–61, thẩm quyền Đ62–73, đối chiếu cũ→mới, toàn văn NĐ 275/2026).
+
 ## [1.0.1] - 14/7/2026
 - Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: mặc định dòng Lưu hồ sơ huấn luyện KTAT VLNCN = **CN(Khôi)**; ví dụ thực tế trước 6/7/2026 giữ CN(Linh) đúng lịch sử.
 

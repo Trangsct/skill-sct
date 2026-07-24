@@ -26,10 +26,13 @@ QĐ thành lập Đoàn kiểm tra /QĐ-SCT (GĐ ký; căn cứ có Luật 42/20
 - Huấn luyện lại sau ngừng việc ≥ 6 tháng/đổi công nghệ;
 - GCN hết hạn nhưng vẫn bố trí làm việc → lập biên bản VPHC.
 
-## 2. Xử phạt (NĐ 71/2019/NĐ-CP, sđ NĐ 17/2022/NĐ-CP)
-- **Điều 50**: vi phạm về nhân lực — bố trí người CHƯA được huấn luyện, kiểm tra không đạt, không đủ trình độ chuyên môn làm công việc liên quan VLNCN. Bảng hành vi – mức phạt chi tiết và thẩm quyền xử phạt: dùng `sd-vlncn-sct-vn/references/05-kiem-tra-xu-phat.md` (dùng chung, tránh trùng lặp).
-- Mức phạt với tổ chức = 2 lần cá nhân; hình thức bổ sung có thể tước quyền sử dụng GP.
-- ⚠️ Bộ Công Thương đang xây dựng Nghị định thay thế NĐ 71/2019 — **kiểm tra văn bản mới nhất trước khi viện dẫn**; chưa có thì ghi "NĐ 71/2019/NĐ-CP được sửa đổi, bổ sung bởi NĐ 17/2022/NĐ-CP".
+## 2. Xử phạt (NĐ 275/2026/NĐ-CP — hiệu lực 25/8/2026; chuyển tiếp NĐ 71/2019)
+- **Điều 54 NĐ 275/2026** — vi phạm về nhân lực:
+  - k1 (5–15 tr cá nhân): không tổ chức huấn luyện KTAT; không xây dựng tài liệu/tài liệu không đầy đủ; chọn người huấn luyện không đủ điều kiện;
+  - k2 (15–30 tr cá nhân): **sử dụng người không đủ trình độ chuyên môn** (điểm a); **sử dụng người chưa được huấn luyện, kiểm tra cấp GCN KTAT** (điểm b);
+  - k3: hình thức bổ sung **đình chỉ hoạt động VLNCN, TCTN 3–6 tháng** áp cho cả k1 và k2 — nặng hơn hẳn NĐ cũ.
+- Mức phạt với tổ chức = 2 lần cá nhân. Bảng đầy đủ Đ53–61 + thẩm quyền + ví dụ tính: plugin `xp-hc-vlncn-sct-vn` (references 02, 04).
+- **Chuyển tiếp (Đ74 NĐ 275/2026):** hành vi xảy ra và kết thúc TRƯỚC 25/8/2026 → viện dẫn **Đ50 NĐ 71/2019 (sđ NĐ 17/2022)**; hành vi đang tiếp diễn qua mốc (vẫn đang bố trí người chưa có GCN làm việc) → NĐ 275/2026.
 
 ## 3. Báo cáo
 **a) Báo cáo UBND tỉnh về thực hiện nhiệm vụ ủy quyền** (điểm đ khoản 2 Điều 3 QĐ 1883/QĐ-UBND): định kỳ HẰNG NĂM + đột xuất. Khung nội dung: (1) căn cứ; (2) kết quả: số kỳ tổ chức, số DN, số học viên theo từng đối tượng, số GCN cấp/cấp lại, số không đạt, số hồ sơ trả lại; (3) công tác kiểm tra, xử lý vi phạm; (4) tồn tại, khó khăn (VD: DN vùng sâu, người huấn luyện đạt chuẩn ít); (5) kiến nghị (gia hạn ủy quyền trước 28/02/2027; công bố lại TTHC khi văn bản thay đổi).

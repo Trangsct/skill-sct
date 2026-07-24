@@ -38,7 +38,7 @@ Khung: Luật Thanh tra 84/2025/QH15 (sở không còn thanh tra) + **NĐ 217/20
 7. Nhân sự: GCN huấn luyện KTAT còn hiệu lực;
 8. Chế độ báo cáo của doanh nghiệp.
 
-Phát hiện vi phạm: lập biên bản, kiến nghị/chuyển hồ sơ xử phạt VPHC theo NĐ 71/2019 (sửa NĐ 17/2022) — thuộc plugin xử phạt; trường hợp nguy hiểm trực tiếp: yêu cầu tạm dừng đưa VLNCN vào kho, báo cáo UBND tỉnh.
+Phát hiện vi phạm: lập biên bản, kiến nghị/chuyển hồ sơ xử phạt VPHC theo Đ57 NĐ 275/2026 (từ 25/8/2026; hành vi kết thúc trước đó theo Đ53 NĐ 71/2019 sđ NĐ 17/2022) — chi tiết thuộc plugin `xp-hc-vlncn-sct-vn`; trường hợp nguy hiểm trực tiếp: yêu cầu tạm dừng đưa VLNCN vào kho, báo cáo UBND tỉnh.
 
 ## IV. KHO TẠM — VÒNG ĐỜI KẾT THÚC
 Khi công trình chính hoàn thành: doanh nghiệp **dỡ bỏ kho, thu hồi/bán lại VLNCN còn dư cho doanh nghiệp kinh doanh hoặc tiêu hủy theo quy định của Bộ Công Thương (điểm b khoản 2 Điều 38 Luật 42/2024), hoàn trả mặt bằng**; báo cáo Sở kết quả. Sở theo dõi danh sách kho tạm đang hoạt động kèm mốc hạn dự án để đôn đốc — đưa vào báo cáo định kỳ.

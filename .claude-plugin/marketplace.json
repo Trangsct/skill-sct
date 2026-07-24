@@ -18,13 +18,13 @@
       "name": "hc-sct-vn",
       "source": "./hc-sct-vn",
       "description": "Chuyên gia quản lý nhà nước về hóa chất của Sở Công Thương tỉnh Lào Cai theo khung pháp lý mới 2026 (Luật Hóa chất 69/2025, Nghị định 24/25/26/2026, Thông tư 01+02/2026): thẩm định cấp phép, thẩm...",
-      "version": "1.0.1"
+      "version": "1.2.0"
     },
     {
       "name": "hl-vlncn-sct-vn",
       "source": "./hl-vlncn-sct-vn",
       "description": "Huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp (VLNCN), tiền chất thuốc nổ (TCTN) — Sở Công Thương tỉnh Lào Cai",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "name": "hnh-sct-vn",
@@ -42,7 +42,7 @@
       "name": "kho-vlncn-sct-vn",
       "source": "./kho-vlncn-sct-vn",
       "description": "Quan ly nha nuoc ve kho vat lieu no cong nghiep (VLNCN) - So Cong Thuong tinh Lao Cai: huong dan doanh nghiep xay kho tu A-Z, kiem tra cong tac nghiem thu, kiem dinh kho hien huu, phe duyet phuong...",
-      "version": "1.4.1"
+      "version": "1.5.0"
     },
     {
       "name": "qlks-sct-vn",
@@ -54,7 +54,7 @@
       "name": "sd-vlncn-sct-vn",
       "source": "./sd-vlncn-sct-vn",
       "description": "Giấy phép sử dụng VLNCN và Phương án nổ mìn (PANM) - Sở Công Thương tỉnh Lào Cai: thẩm định cấp/điều chỉnh/cấp lại/thu hồi GP sử dụng VLNCN, thẩm định PANM trình Chủ tịch UBND tỉnh, hướng dẫn...",
-      "version": "2026.7.22"
+      "version": "2026.7.24"
     },
     {
       "name": "tkm-sct-vn",
@@ -67,6 +67,12 @@
       "source": "./vbhc-vn",
       "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 17 mẫu thật, Chế độ A/B, 8 nhóm anti-error, QA một phát qa_all.py (render 1 lần + ảnh ghép...",
       "version": "2.2.0"
+    },
+    {
+      "name": "xp-hc-vlncn-sct-vn",
+      "source": "./xp-hc-vlncn-sct-vn",
+      "description": "Xử phạt VPHC lĩnh vực hóa chất và vật liệu nổ công nghiệp theo Nghị định 275/2026/NĐ-CP ngày 08/7/2026 (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) - Sở Công Thương tỉnh Lào Cai: bảng hành vi - mức phạt Đ7-61, thẩm quyền Đ62-73 (GĐ SCT phạt đến 40/80 triệu), chuyển tiếp Đ74, đối chiếu điều khoản cũ - mới, quy trình biên bản - QĐ xử phạt.",
+      "version": "1.0.0"
     },
     {
       "name": "xd-sct-vn",

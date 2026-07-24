@@ -33,7 +33,8 @@ VLNCN VÀ GCN HUẤN LUYỆN KTAT (số, ngày cấp, hết hạn, đối tượ
 II. TỒN TẠI, HẠN CHẾ (nêu đích danh từng đơn vị, từng nội dung)
 
 III. KIẾN NGHỊ, ĐỀ XUẤT (yêu cầu khắc phục có thời hạn; đề xuất xử lý VPHC nếu có —
-NĐ 71/2019 Đ50 với hành vi bố trí người chưa có GCN)./.
+Đ54 NĐ 275/2026 với hành vi sử dụng người chưa có GCN; hành vi kết thúc trước
+25/8/2026 dẫn Đ50 NĐ 71/2019)./.
                                               TRƯỞNG ĐOÀN
 ```
 

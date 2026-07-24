@@ -12,14 +12,14 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - Hướng dẫn doanh nghiệp các bước **chuẩn bị → hồ sơ → điều kiện → thiết kế → thi công → nghiệm thu → đưa vào sử dụng** kho VLNCN (kho mới hoặc kho tạm phục vụ thi công) → reference `03`.
 - Xây dựng **Kế hoạch kiểm tra công tác nghiệm thu** (KTCTNT), **Biên bản kiểm tra**, **Thông báo kết quả/chấp thuận nghiệm thu** hoàn thành công trình kho VLNCN → reference `04` + mẫu 01, 02, 08.
 - Kho **hiện hữu xây từ lâu** (hồ sơ cũ, quy chuẩn cũ) cần tiếp tục sử dụng: hướng dẫn **kiểm định chất lượng**, xác nhận đề cương kiểm định, xác nhận đáp ứng QCVN → reference `05` + mẫu 03, 04, 05.
-- Thẩm định, tham mưu **phê duyệt Phương án nổ mìn (PANM) tại khu vực có công trình cần bảo vệ**, dự thảo QĐ của UBND tỉnh → reference `07` + mẫu 06, 07, 09.
+- Thẩm định, tham mưu **phê duyệt Phương án nổ mìn (PANM) tại khu vực có công trình cần bảo vệ**, dự thảo QĐ của UBND tỉnh → **chủ trì tại `sd-vlncn-sct-vn` (reference 03 + mẫu 07–11, tiền lệ mới nhất)**; reference `07` + mẫu 06, 07, 09 tại đây dùng khi gắn trực tiếp hồ sơ kho.
 - Tra cứu **yêu cầu kỹ thuật** kho VLNCN theo QCVN 01:2019/BCT: phân loại kho, sức chứa tối đa, kết cấu, tường rào, ụ bảo vệ, chống sét, PCCC, khoảng cách an toàn → reference `02`.
 - **Thẩm định hồ sơ** doanh nghiệp nộp: checklist đầu mục, lỗi thường gặp, cây quyết định → reference `08`.
 - Trả lời câu hỏi doanh nghiệp về thủ tục, điều kiện kho → reference `09`.
 - Quản lý vận hành kho: lý lịch kho, xuất nhập, bảo vệ, camera, báo cáo định kỳ/đột xuất → reference `10`.
 - Xác định **thẩm quyền, ranh giới trách nhiệm** giữa Sở Công Thương – Công an (PCCC, ANTT) – Sở Xây dựng – UBND tỉnh – UBND xã → mục IV dưới đây + reference `06`.
 
-**KHÔNG thuộc plugin này:** cấp Giấy phép vận chuyển VLNCN (Bộ Công an/Bộ Quốc phòng — plugin `hnh-sct-vn` chỉ xử lý HHNH loại 1 TRỪ VLNCN); xử phạt VPHC (plugin xử phạt riêng); huấn luyện KTAT VLNCN chỉ nêu ở mức liên quan hồ sơ.
+**KHÔNG thuộc plugin này:** cấp Giấy phép vận chuyển VLNCN (Bộ Công an/Bộ Quốc phòng — plugin `hnh-sct-vn` chỉ xử lý HHNH loại 1 TRỪ VLNCN); xử phạt VPHC (→ plugin `xp-hc-vlncn-sct-vn` theo NĐ 275/2026); huấn luyện KTAT VLNCN chỉ nêu ở mức liên quan hồ sơ (→ `hl-vlncn-sct-vn`). **PANM và Giấy phép sử dụng VLNCN: plugin `sd-vlncn-sct-vn` CHỦ TRÌ** (quy trình thẩm định, mẫu Tờ trình - QĐ đầy đủ, tiền lệ mới nhất) — reference `07` và mẫu 06, 07, 09 tại đây chỉ dùng khi vụ việc gắn trực tiếp hồ sơ kho.
 
 Khi soạn văn bản kết quả: kết hợp skill `vbhc-vn` (thể thức, mẫu), `sct-laocai-org-vn` (người ký, Lưu CN), `vbhc-pdf-reader-vn`/GATE (đọc PDF đến). Khi liên quan PCCC sâu: skill `pccc-sct-vn`.
 
@@ -48,7 +48,7 @@ Toàn bộ số/ngày đã xác minh. TUYỆT ĐỐI không tự thay số khác
 14. **Nghị định 105/2025/NĐ-CP** ngày 15/5/2025 — Điều 6 (thẩm định thiết kế PCCC: 5 nội dung điểm a–đ); Phụ lục I điểm 20, Phụ lục II STT 26, Phụ lục III mục 9 điểm c: **kho cố định chứa VLNCN thuộc diện thẩm định thiết kế PCCC, không phụ thuộc quy mô**; Phụ lục VII STT 24 (bảo hiểm cháy nổ bắt buộc). Phân định: cơ quan chuyên môn về xây dựng (SCT với kho VLNCN) thẩm định 5 nội dung a–đ; cơ quan Công an thẩm định/nghiệm thu các nội dung thuộc thẩm quyền Công an. Chi tiết dùng skill `pccc-sct-vn`.
 15. Điều kiện **an ninh, trật tự**: kho VLNCN là ngành nghề đầu tư kinh doanh có điều kiện về ANTT — doanh nghiệp phải có **Giấy chứng nhận đủ điều kiện về ANTT do cơ quan Công an cấp** (đầu mục bắt buộc trong hồ sơ cấp GP sử dụng VLNCN).
 
-**Nhóm 4 — Xử phạt (chỉ tham chiếu, xử lý ở plugin xử phạt):** NĐ 71/2019/NĐ-CP (xử phạt VPHC hóa chất, VLNCN) sửa đổi bởi NĐ 17/2022/NĐ-CP. Bản gốc trong `van-ban-goc/`.
+**Nhóm 4 — Xử phạt (chỉ tham chiếu, xử lý ở plugin `xp-hc-vlncn-sct-vn`):** **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — nhóm bảo quản kho: **Điều 57** (kho không đạt yêu cầu xây dựng-ANTT-PCCC-chống sét: 50–70 tr cá nhân + đình chỉ bảo quản 6–12 tháng; bảo quản vượt quy mô thiết kế: 30–50 tr; để mất VLNCN tại kho: 80–100 tr + tước GP 6–12 tháng; tổ chức ×2). Hành vi kết thúc trước 25/8/2026 → Đ53 NĐ 71/2019 (sđ NĐ 17/2022, bản gốc trong `van-ban-goc/`).
 
 **Văn bản địa phương (Lào Cai):**
 - **QĐ 05/2025/QĐ-UBND ngày 01/7/2025** — chức năng, nhiệm vụ Sở Công Thương (căn cứ chuẩn trong mọi văn bản).

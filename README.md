@@ -15,6 +15,7 @@ Kho lưu trữ và theo dõi lịch sử thay đổi của 8 skill dùng cho cô
 | `tkm-sct-vn` | Thẩm định thiết kế mỏ khoáng sản 20 năm (2006–2026), toàn văn TT 31/2025, BC 452/BC-TTCP, liên kết trọn vòng đời dự án mỏ |
 | `dacn-sct-vn` | Quản lý danh mục dự án công nghiệp và điều hành chỉ tiêu tăng trưởng theo NQ 169/NQ-CP: 09 chỉ tiêu Sở chủ trì, danh mục dự án động lực, phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm, 7 nhóm điểm nghẽn, báo cáo trước ngày 20, kịch bản tăng trưởng; kèm 2 script phân tích |
 | `qlks-sct-vn` | QLNN về khoáng sản: phân vai liên ngành, KH quản lý rủi ro, GCN KTAT hầm lò, chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng, rà chồng lấn khi thẩm định CCN, thống kê - kê khai - báo cáo định kỳ sản lượng (CV 5141), dữ liệu 178 GP + báo cáo năm 2025 |
+| `xp-hc-vlncn-sct-vn` | Xử phạt VPHC hóa chất + VLNCN theo NĐ 275/2026/NĐ-CP (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): bảng hành vi - mức phạt Đ7-61, thẩm quyền Đ62-73, chuyển tiếp Đ74, đối chiếu điều cũ→mới — plugin chế tài DÙNG CHUNG cho `sd-vlncn-sct-vn`, `hl-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hc-sct-vn` |
 
 ## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
 

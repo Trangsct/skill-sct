@@ -1,6 +1,6 @@
 ---
 name: sd-vlncn-sct-vn
-description: "Chuyên gia QLNN về GIẤY PHÉP SỬ DỤNG vật liệu nổ công nghiệp (VLNCN) và PHƯƠNG ÁN NỔ MÌN (PANM) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) thẩm định, tham mưu cấp/cấp lại/điều chỉnh/thu hồi Giấy phép sử dụng VLNCN (Chủ tịch UBND tỉnh ký GP-UBND, SCT thẩm định trình); (2) thẩm định PANM tại khu vực có công trình cần bảo vệ, lập hồ sơ trình UBND tỉnh: Phiếu trình, Tờ trình, dự thảo QĐ, biên bản kiểm tra hiện trường, lấy ý kiến Sở Xây dựng; (3) hướng dẫn doanh nghiệp: điều kiện, hồ sơ, chỉ huy nổ mìn, huấn luyện KTAT, hộ chiếu nổ mìn; (4) kiểm tra, xử phạt VPHC (NĐ 71/2019 + 17/2022); (5) báo cáo định kỳ/đột xuất. Kèm mẫu sẵn dùng + ví dụ thực tế + văn bản gốc. Từ khóa: giấy phép sử dụng VLNCN, GP-UBND, phương án nổ mìn, PANM, hộ chiếu nổ mìn, nổ mìn khu dân cư, khoảng cách an toàn, đá văng, chấn động, QCVN 01:2019/BCT, Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, NĐ 146/2025, dịch vụ nổ mìn, tiêu hủy VLNCN, mỏ đá, thủy điện, gói thầu."
+description: "Chuyên gia QLNN về GIẤY PHÉP SỬ DỤNG vật liệu nổ công nghiệp (VLNCN) và PHƯƠNG ÁN NỔ MÌN (PANM) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) thẩm định, tham mưu cấp/cấp lại/điều chỉnh/thu hồi Giấy phép sử dụng VLNCN (Chủ tịch UBND tỉnh ký GP-UBND, SCT thẩm định trình); (2) thẩm định PANM tại khu vực có công trình cần bảo vệ, lập hồ sơ trình UBND tỉnh: Phiếu trình, Tờ trình, dự thảo QĐ, biên bản kiểm tra hiện trường, lấy ý kiến Sở Xây dựng; (3) hướng dẫn doanh nghiệp: điều kiện, hồ sơ, chỉ huy nổ mìn, huấn luyện KTAT, hộ chiếu nổ mìn; (4) kiểm tra, xử phạt VPHC (NĐ 275/2026; chuyển tiếp NĐ 71/2019 → xp-hc-vlncn-sct-vn); (5) báo cáo định kỳ/đột xuất. Kèm mẫu sẵn dùng + ví dụ thực tế + văn bản gốc. Từ khóa: giấy phép sử dụng VLNCN, GP-UBND, phương án nổ mìn, PANM, hộ chiếu nổ mìn, nổ mìn khu dân cư, khoảng cách an toàn, đá văng, chấn động, QCVN 01:2019/BCT, Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, NĐ 146/2025, NĐ 275/2026, dịch vụ nổ mìn, tiêu hủy VLNCN, mỏ đá, thủy điện, gói thầu."
 ---
 
 # sd-vlncn-sct-vn — Giấy phép sử dụng VLNCN & Phương án nổ mìn (Sở Công Thương Lào Cai)
@@ -13,11 +13,11 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Phương án nổ mìn (PANM)**: xác định có phải trình UBND tỉnh phê duyệt không (cây quyết định); thẩm định nội dung theo Phụ lục VII TT 23/2024 và QCVN 01:2019/BCT; kiểm tra hiện trường; lấy ý kiến Sở Xây dựng; Tờ trình + dự thảo QĐ phê duyệt PANM (kèm/không kèm chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ) → reference `03` + mẫu 07–11.
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế.
-- **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt NĐ 71/2019 (sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05`.
+- **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
 - **Báo cáo** định kỳ/đột xuất về VLNCN: của doanh nghiệp gửi Sở; của UBND tỉnh (SCT dự thảo) gửi Bộ Công Thương/Cục KTAT&MTCN → reference `06` + mẫu 15.
 - Tra cứu **ví dụ thực tế đã ban hành** (giấy phép, QĐ PANM, tờ trình, báo cáo… của Lào Cai 2025–2026) → reference `07` + thư mục `vi-du-thuc-te/`.
 
-**Ranh giới với plugin khác:** kho VLNCN (thiết kế, nghiệm thu, kiểm định kho) → plugin `kho-vlncn-sct-vn`; vận chuyển VLNCN → Công an/Quốc phòng cấp phép, KHÔNG thuộc SCT (plugin `hnh-sct-vn` chỉ xử lý HHNH trừ VLNCN); PCCC chuyên sâu → `pccc-sct-vn`. Khi soạn văn bản: kết hợp `vbhc-vn` (thể thức), `sct-laocai-org-vn` (người ký, Lưu CN), GATE/`vbhc-pdf-reader-vn` khi đọc PDF đến.
+**Ranh giới với plugin khác:** kho VLNCN (thiết kế, nghiệm thu, kiểm định kho) → plugin `kho-vlncn-sct-vn`; **xử phạt VPHC chi tiết (bảng hành vi - mức phạt, thẩm quyền, chuyển tiếp NĐ 275/2026)** → plugin `xp-hc-vlncn-sct-vn`; vận chuyển VLNCN → Công an/Quốc phòng cấp phép, KHÔNG thuộc SCT (plugin `hnh-sct-vn` chỉ xử lý HHNH trừ VLNCN); PCCC chuyên sâu → `pccc-sct-vn`. Khi soạn văn bản: kết hợp `vbhc-vn` (thể thức), `sct-laocai-org-vn` (người ký, Lưu CN), GATE/`vbhc-pdf-reader-vn` khi đọc PDF đến.
 
 ## II. KHUNG PHÁP LÝ (đã đối chiếu văn bản gốc, cập nhật 7/2026 — chi tiết: reference `01`)
 
@@ -32,7 +32,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 7. **Nghị định số 146/2025/NĐ-CP** ngày 12/6/2025 — phân quyền, phân cấp: Điều 22–23 (phân quyền TTg, Bộ trưởng BCT — văn bản đề nghị cấp GP dịch vụ nổ mìn toàn quốc/thềm lục địa do UBND cấp tỉnh ban hành); **khoản 1 Điều 24**: huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN (k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181) từ Bộ Công Thương → **UBND cấp tỉnh**.
 8. **Nghị định số 139/2025/NĐ-CP** ngày 12/6/2025 — phân định thẩm quyền chính quyền 02 cấp lĩnh vực QLNN của Bộ Công Thương (căn cứ trong QĐ ủy quyền của tỉnh).
 9. **QCVN 01:2019/BCT** (kèm TT 32/2019/TT-BCT ngày 21/11/2019) — quy chuẩn an toàn cốt lõi: **Phụ lục 7** (công thức khoảng cách an toàn: chấn động Rc, sóng không khí rs, đá văng Rđv — Bảng 7.8; nổ lộ thiên với người ≥300 m/200 m, thiết bị-công trình ≥200 m/150 m tùy quy mô); Điều 22 (bảo quản tại nơi nổ mìn); quy định giờ nổ, tín hiệu, canh gác.
-10. **Xử phạt: Nghị định số 71/2019/NĐ-CP** ngày 30/8/2019 (hiệu lực 15/10/2019), sửa đổi bởi **Nghị định số 17/2022/NĐ-CP** ngày 31/01/2022 — Điều 49–57 (VLNCN); **Điều 56** (vi phạm sử dụng VLNCN, dịch vụ nổ mìn — mức phạt 3–100 triệu đ/cá nhân, tổ chức ×2, tước GP 6–24 tháng); Điều 58–60 (thẩm quyền). Lưu ý: NĐ 17/2022 KHÔNG sửa Điều 56; Bộ Công Thương đang xây dựng Nghị định thay thế NĐ 71/2019 (theo QĐ 1688/QĐ-TTg ngày 06/8/2025) — **trước khi viện dẫn phải kiểm tra Nghị định mới đã ban hành chưa**.
+10. **Xử phạt: Nghị định số 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực **25/8/2026**) — xử phạt VPHC lĩnh vực hóa chất và VLNCN, **thay thế NĐ 71/2019/NĐ-CP + Điều 1 NĐ 17/2022/NĐ-CP**. Nhóm VLNCN: Điều 53–61; **Điều 60** (vi phạm sử dụng VLNCN, dịch vụ nổ mìn — 3–100 triệu đ/cá nhân, tổ chức ×2, tước GP 6–24 tháng); thẩm quyền Điều 62–73 (**GĐ SCT phạt đến 80 tr/cá nhân lĩnh vực VLNCN — k1 Đ63**). **Chuyển tiếp (Đ74):** hành vi xảy ra và kết thúc trước 25/8/2026 vẫn xử theo NĐ 71/2019 (sđ NĐ 17/2022). Bảng hành vi đầy đủ, đối chiếu điều cũ→mới: plugin `xp-hc-vlncn-sct-vn`; toàn văn: `xp-hc-vlncn-sct-vn/van-ban-goc/`.
 11. **Văn bản địa phương Lào Cai:** QĐ 05/2025/QĐ-UBND ngày 01/7/2025 (chức năng SCT); QĐ ủy quyền của UBND tỉnh cho GĐ SCT thực hiện **huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN** (TTHC mã 2.000229, 2.000210), thời hạn đến 28/02/2027 — số/ngày QĐ phải xác minh với Bạn trước khi viện dẫn (dự thảo trình tại TTr 2205/TTr-SCT ngày 28/10/2025; kho-vlncn ghi nhận QĐ 1883/QĐ-UBND ngày 06/11/2025).
 
 ## III. THẨM QUYỀN — PHÂN ĐỊNH NHANH (từ 01/7/2025)
@@ -48,7 +48,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 | GP **dịch vụ nổ mìn** (cả 3 hình thức: 1 tỉnh, thềm lục địa, toàn quốc) | Cục KTAT&MTCN cấp; **UBND cấp tỉnh ban hành văn bản đề nghị** | điểm c k1 Đ4 TT 23 (sđ TT 26/2026); k1 Đ23 NĐ 146/2025 |
 | Huấn luyện + GCN huấn luyện KTAT VLNCN | UBND cấp tỉnh, đã **ủy quyền GĐ Sở Công Thương** | mã TTHC 2.000229/2.000210 |
 | GP **vận chuyển** VLNCN | Cơ quan Công an (Đ41 Luật 42/2024) | KHÔNG thuộc SCT |
-| Kiểm tra, xử phạt sử dụng VLNCN trên địa bàn | SCT chủ trì (Đ19 TT 23); Chủ tịch UBND các cấp, Thanh tra, Công an theo NĐ 71/2019 | |
+| Kiểm tra, xử phạt sử dụng VLNCN trên địa bàn | SCT chủ trì (Đ19 TT 23); từ 25/8/2026: GĐ SCT phạt đến 80 tr/cá nhân (k1 Đ63 NĐ 275/2026); Chủ tịch UBND xã/tỉnh, Công an theo Đ62–73 | hành vi trước 25/8/2026: NĐ 71/2019 |
 
 Bổ sung theo Đ4 TT 23/2024 (bản thay bởi TT 26/2026): UBND cấp tỉnh còn có thẩm quyền cấp/cấp điều chỉnh **GCN đủ điều kiện sản xuất tiền chất thuốc nổ**, cấp/cấp lại **GP kinh doanh VLNCN**, cấp **GP xuất khẩu, nhập khẩu VLNCN** (XNK hiệu lực từ 01/7/2026) — các nghiệp vụ này ngoài phạm vi plugin, ghi nhận để phân định đúng khi tra thẩm quyền.
 
@@ -104,7 +104,7 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 6. **Điều kiện tiên quyết trước khi cấp GP:** thiết kế mỏ/công trình được lập-thẩm định-phê duyệt đúng trình tự pháp luật xây dựng tại thời điểm lập (vướng → làm rõ dứt điểm với Sở Xây dựng bằng câu hỏi ĐÓNG, yêu cầu khẳng định rõ, có thời hạn — tiền lệ Đồng Khê); kho đạt 4 trụ (xem `kho-vlncn-sct-vn`) hoặc hợp đồng/ý định giao kết thuê kho, thuê vận chuyển.
 7. **GCN ANTT + nghiệm thu PCCC kho** là đầu mục cứng của hồ sơ; biên bản kiểm tra định kỳ của Công an KHÔNG thay thế văn bản nghiệm thu PCCC.
 8. **Không tự điền số/ngày** văn bản chưa ban hành; số GP, số TTr để trống "Số:      /GP-UBND". GATE bắt buộc khi đọc PDF đến. Sau 01/7/2025 địa danh ghi **xã + tỉnh Lào Cai** (có thể mở ngoặc "(nay là xã…, tỉnh Lào Cai)" với địa danh cũ trong hồ sơ gốc).
-9. **Nghị định thay thế NĐ 71/2019 đang dự thảo** — trước khi tham mưu xử phạt, kiểm tra văn bản mới nhất; nếu chưa có thì viện dẫn "NĐ 71/2019/NĐ-CP được sửa đổi, bổ sung bởi NĐ 17/2022/NĐ-CP".
+9. **Chọn đúng nghị định xử phạt theo thời điểm hành vi (Đ74 NĐ 275/2026):** hành vi xảy ra và kết thúc TRƯỚC 25/8/2026 → viện dẫn "NĐ 71/2019/NĐ-CP được sửa đổi, bổ sung bởi NĐ 17/2022/NĐ-CP"; hành vi từ 25/8/2026 hoặc đang tiếp diễn qua mốc này → "NĐ 275/2026/NĐ-CP ngày 08/7/2026" (quy trình chọn + bảng đối chiếu: `xp-hc-vlncn-sct-vn`).
 10. **Render-and-verify** mọi file .docx đầu ra trước khi bàn giao (quy tắc chung của Bạn).
 11. **Hồ sơ chưa đủ điều kiện → TRẢ LẠI HỒ SƠ, không phải "CV hoàn thiện + hạn nộp"** (Mông Sơn 7/2026): trích yếu "V/v trả lại hồ sơ…"; "trả lại hồ sơ (gửi kèm theo Công văn này)"; KHÔNG đặt thời hạn nộp bổ sung; nộp lại "qua Hệ thống thông tin giải quyết thủ tục hành chính" (k5 Đ39, không ghi TTPVHCC); câu kết "Sở Công Thương thông báo cho [DN] được biết và thực hiện./.".
 12. **KHÔNG chủ động đưa 2 nhóm yêu cầu sau vào văn bản trả hồ sơ** (chỉ đạo PTP Trang, Mông Sơn): (a) tài liệu phương tiện vận chuyển VLNCN — DN thuê phương tiện sau khi được cấp phép, điểm e k1 Đ39 chỉ áp khi không có kho/phương tiện; (b) chứng chỉ chuyên môn, tài liệu thâm niên (Đ4 NĐ 181/2024) của nhân sự đã có GCN huấn luyện KTAT do Sở Công Thương cấp còn hiệu lực — quy trình huấn luyện, kiểm tra của Sở đã thẩm tra, đối chiếu tại hồ sơ huấn luyện lưu tại Sở khi cần.
@@ -127,8 +127,8 @@ sd-vlncn-sct-vn/
 │   ├── 03-panm.md                    ← PANM: cây quyết định, nội dung PL VII, công thức QCVN,
 │   │                                    quy trình thẩm định-trình phê duyệt, hộ chiếu nổ mìn
 │   ├── 04-huong-dan-dn.md            ← hướng dẫn doanh nghiệp A→Z + FAQ
-│   ├── 05-kiem-tra-xu-phat.md        ← kiểm tra, giám sát; bảng hành vi-mức phạt NĐ 71/2019;
-│   │                                    thẩm quyền; quy trình xử phạt của Sở
+│   ├── 05-kiem-tra-xu-phat.md        ← kiểm tra, giám sát; bảng hành vi-mức phạt Đ60 NĐ 275/2026
+│   │                                    (chuyển tiếp NĐ 71/2019); thẩm quyền; quy trình xử phạt
 │   ├── 06-bao-cao.md                 ← chế độ báo cáo định kỳ/đột xuất các cấp
 │   ├── 07-vi-du-thuc-te.md           ← index ví dụ + bài học kinh nghiệm từng vụ việc
 │   └── 08-khoang-cach-an-toan-da-vang.md ← Bảng 1/7.8/7.9 nguyên gốc, quy tắc 1,5 lần,

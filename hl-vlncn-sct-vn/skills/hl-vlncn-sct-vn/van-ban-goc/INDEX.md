@@ -8,4 +8,5 @@
 | CV-UBND-KT_giao-SCT-tham-muu-uy-quyen_truoc-15.9.2025.docx | CV UBND tỉnh giao SCT chủ trì, phối hợp Sở Tư pháp tham mưu ủy quyền | Văn bản khởi nguồn quy trình ủy quyền |
 
 Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
-- NĐ 146/2025, TT 23/2024, TT 38/2025, Luật 42/2024, NĐ 71/2019 + 17/2022 → `sd-vlncn-sct-vn/van-ban-goc/` và `kho-vlncn-sct-vn/van-ban-goc/`.
+- NĐ 146/2025, TT 23/2024, TT 38/2025, Luật 42/2024, NĐ 71/2019 + 17/2022 (vụ giao thời trước 25/8/2026) → `sd-vlncn-sct-vn/van-ban-goc/` và `kho-vlncn-sct-vn/van-ban-goc/`.
+- **NĐ 275/2026/NĐ-CP (xử phạt mới, hiệu lực 25/8/2026)** → `xp-hc-vlncn-sct-vn/van-ban-goc/`.

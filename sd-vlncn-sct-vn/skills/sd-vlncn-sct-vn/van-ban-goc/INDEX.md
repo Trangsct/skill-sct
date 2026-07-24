@@ -7,8 +7,10 @@
 | TT-23-2024-BCT.docx | Thông tư 23/2024/TT-BCT 07/11/2024 | Đ4 thẩm quyền; PL III giấy đề nghị; PL VI đánh giá rủi ro; PL VII nội dung PANM; PL VIII hộ chiếu; PL IX ứng cứu khẩn cấp; PL X mẫu báo cáo 01-05 |
 | TT-38-2025-BCT.doc | Thông tư 38/2025/TT-BCT 19/6/2025 | Điều 1 sửa Đ4 TT 23: chuyển thẩm quyền cấp GP về UBND cấp tỉnh (hiệu lực 01/7/2025) |
 | ND-146-2025.doc | Nghị định 146/2025/NĐ-CP 12/6/2025 | Đ22-24 phân quyền, phân cấp lĩnh vực VLNCN (căn cứ ủy quyền huấn luyện) |
-| ND-71-2019-xu-phat.docx | Nghị định 71/2019/NĐ-CP 30/8/2019 | Đ49-57 hành vi-mức phạt; Đ58-65 thẩm quyền |
-| ND-17-2022-sua-doi-xu-phat.pdf | Nghị định 17/2022/NĐ-CP 31/01/2022 (bản scan) | Sửa đổi một phần NĐ 71 (Đ51, thẩm quyền, Đ4a/4b/61a) — đối chiếu khi viện dẫn |
+| ND-71-2019-xu-phat.docx | Nghị định 71/2019/NĐ-CP 30/8/2019 — **HẾT HIỆU LỰC từ 25/8/2026** (Đ75 NĐ 275/2026) | CHỈ dùng cho hành vi kết thúc trước 25/8/2026 (k1 Đ74). Đ49-57 hành vi; Đ58-65 thẩm quyền |
+| ND-17-2022-sua-doi-xu-phat.pdf | Nghị định 17/2022/NĐ-CP 31/01/2022 (bản scan) — Điều 1 hết hiệu lực từ 25/8/2026 | Sửa đổi một phần NĐ 71 (Đ51, thẩm quyền, Đ4a/4b/61a) — đối chiếu khi xử vụ giao thời |
 | Ghi-chu-nghiep-vu-trong-qua-trinh-su-dung-VLNCN.docx | Ghi chú nghiệp vụ nội bộ | Tổng hợp nghĩa vụ của DN trong quá trình sử dụng |
 
-**Chưa có trong gói (tra mạng/hỏi Bạn khi cần nguyên văn):** Luật 118/2025 (sửa Luật 42); QCVN 01:2019/BCT (công thức PL7 đã trích trong references/03); NĐ 149/2024 (phần Công an); dự thảo NĐ thay NĐ 71/2019.
+**Văn bản dùng chung (tra tại plugin anh em):** **NĐ 275/2026/NĐ-CP (xử phạt mới, hiệu lực 25/8/2026) → `xp-hc-vlncn-sct-vn/van-ban-goc/`**.
+
+**Chưa có trong gói (tra mạng/hỏi Bạn khi cần nguyên văn):** Luật 118/2025 (sửa Luật 42); QCVN 01:2019/BCT (công thức PL7 đã trích trong references/03); NĐ 149/2024 (phần Công an).

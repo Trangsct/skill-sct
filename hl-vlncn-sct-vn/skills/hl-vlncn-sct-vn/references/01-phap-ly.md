@@ -81,5 +81,5 @@ GCN cấp trước 01/01/2025 còn hạn → dùng đến hết hạn ghi trên 
 - **TT 23/2024/TT-BCT ngày 07/11/2024** + **TT 38/2025/TT-BCT ngày 19/6/2025** — quản lý, sử dụng VLNCN, TCTN thuộc BCT; phân cấp TTHC (căn cứ trong QĐ công nhận kết quả).
 - **NĐ 139/2025/NĐ-CP ngày 12/6/2025** — phân định thẩm quyền 02 cấp lĩnh vực BCT.
 - **QĐ 2797/QĐ-SCT ngày 28/11/2025** — thành lập Tổ kiểm tra, cấp GCN huấn luyện KTAT VLNCN, TCTN; **QĐ 564/QĐ-SCT ngày 31/01/2026** — bổ sung thành viên.
-- **NĐ 71/2019/NĐ-CP (sđ NĐ 17/2022)** — Đ50: phạt hành vi bố trí người chưa huấn luyện/kiểm tra không đạt/không đủ trình độ làm công việc liên quan VLNCN (bảng chi tiết → `sd-vlncn-sct-vn/references/05`). Kiểm tra Nghị định thay thế trước khi viện dẫn.
+- **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — **Đ54**: phạt hành vi sử dụng người chưa huấn luyện/không đủ trình độ (15–30 tr cá nhân + đình chỉ 3–6 tháng), không tổ chức huấn luyện (5–15 tr). Hành vi kết thúc trước 25/8/2026 → Đ50 NĐ 71/2019 (chuyển tiếp Đ74). Bảng chi tiết → `xp-hc-vlncn-sct-vn/references/02`.
 - **TT 09/2026/TT-BQP ngày 22/01/2026** — chỉ sửa quy trình khối Bộ Quốc phòng (Cục Quản lý Công nghệ cấp GCN) — dùng khi phân định thẩm quyền với DN quốc phòng.

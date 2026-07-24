@@ -84,7 +84,7 @@ Ba giá trị PHẢI kiểm tra; giá trị lớn nhất so với khoảng cách
 
 - Lập cho **MỖI LẦN nổ mìn**, căn cứ PANM; Mẫu 01 (lộ thiên), Mẫu 02 (hầm/lò), Mẫu 03 (giếng khoan dầu khí).
 - 15 mục của hộ chiếu lộ thiên: I địa điểm; II thời điểm nổ; III loại đất đá, f; IV thông số bãi nổ (q kỳ trước/lựa chọn); V VLNCN sử dụng; VI tính toán lượng VLNCN (V, Q, dòng điện qua kíp I ≥ 1,3A một chiều / ≥ 2,5A xoay chiều); VII sơ đồ đấu + mặt cắt lỗ mìn; VIII VLNCN thừa trả kho (chỉ huy ký xác nhận); IX hiệu lệnh (nạp – khởi nổ – báo yên); X khoảng cách an toàn; XI biện pháp KTAT; XII phân công nhân sự; XIII sơ đồ gác, ẩn nấp, di chuyển máy (cắt điện trước giờ nổ 20 phút); XIV phân công gác mìn; XV kết quả nổ mìn.
-- Vi phạm hộ chiếu là nhóm hành vi xử phạt hay gặp nhất (Đ56 NĐ 71/2019): không lập (30–50 tr); lập không đầy đủ/không phù hợp GP-PANM (5–10 tr) — nhân 2 với tổ chức.
+- Vi phạm hộ chiếu là nhóm hành vi xử phạt hay gặp nhất (từ 25/8/2026: **Đ60 NĐ 275/2026**; trước đó: Đ56 NĐ 71/2019): không lập (30–50 tr, kèm tước GP 6–12 tháng); lập không đầy đủ/không phù hợp GP-PANM (5–10 tr) — nhân 2 với tổ chức. Bảng đầy đủ: `xp-hc-vlncn-sct-vn/references/02`.
 
 ## F. TÌNH HUỐNG ĐẶC BIỆT (tiền lệ thực tế)
 

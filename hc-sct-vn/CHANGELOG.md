@@ -1,5 +1,9 @@
 # Nhật ký thay đổi plugin hc-sct-vn
 
+## 1.2.0 — 2026.07.24 — Cập nhật khung xử phạt theo NĐ 275/2026/NĐ-CP
+
+NĐ 275/2026/NĐ-CP ngày 08/7/2026 (hiệu lực 25/8/2026) thay thế NĐ 71/2019 + Điều 1 NĐ 17/2022 — nhóm hóa chất Đ7–52 viết lại theo Luật 69/2025 (Đ25 CSDL/báo cáo thay Đ29 cũ, mức tăng ~3 lần: không báo cáo năm 30–40 tr/tổ chức; Đ34 huấn luyện ATHC thay Đ11 cũ). Sửa: SKILL.md (khung xử phạt), ref 07, ref 10, ref 11 mục 4a (chế tài răn đe 2 thời kỳ), ref 15, ref 16 bài học 1. Chi tiết chế tài + thẩm quyền + chuyển tiếp: plugin dùng chung mới **`xp-hc-vlncn-sct-vn`** (toàn văn NĐ 275/2026 trong van-ban-goc).
+
 ## 1.1.0 — 2026.07.24 — Bổ sung vụ Cục Hóa chất xử phạt DN trên địa bàn (QĐ 26/QĐ-XPVPHC)
 
 Nguồn: QĐ số 26/QĐ-XPVPHC ngày 08/7/2026 của Cục trưởng Cục Hóa chất (Phùng Mạnh Ngọc) xử phạt Công ty TNHH Thương mại Hải Đăng (phường Lào Cai) 16 triệu đồng — Sở nhận số đến 14708 ngày 20/7/2026, "để biết và phối hợp quản lý trên địa bàn". Metadata xác minh bằng OCR + soi ảnh (số "26", ngày "08" viết tay trên bản scan).

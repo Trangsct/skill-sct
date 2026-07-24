@@ -35,7 +35,7 @@
 ### 05-xu-phat-kiem-tra/
 | File | Nội dung | Reference |
 |---|---|---|
-| `ND-71-2019-xu-phat-VPHC-hoachat-VLNCN.docx` | NĐ 71/2019 (sửa bởi NĐ 17/2022) — xử phạt VPHC hóa chất, VLNCN. Dẫn chiếu khi kiểm tra; **lập biên bản/QĐ xử phạt → plugin xử phạt riêng** | 10 |
+| `ND-71-2019-xu-phat-VPHC-hoachat-VLNCN.docx` | NĐ 71/2019 (sửa bởi NĐ 17/2022) — **HẾT HIỆU LỰC từ 25/8/2026** (thay bởi NĐ 275/2026, toàn văn tại `xp-hc-vlncn-sct-vn/van-ban-goc/`). Chỉ dùng cho hành vi kết thúc trước 25/8/2026; **lập biên bản/QĐ xử phạt → plugin `xp-hc-vlncn-sct-vn`** | 10 |
 
 ### 06-danh-muc-cong-van/
 | File | Nội dung | Reference |

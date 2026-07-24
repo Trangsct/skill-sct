@@ -1,5 +1,20 @@
 # CHANGELOG — kccn-sct-vn
 
+## v1.8.0 — 2026-07-24 (KCN Cam Đường được chấp thuận CTĐT — QĐ 2548/QĐ-UBND + CV hướng dẫn 1101/BQL-QHXD)
+
+### Thêm mới
+- `references/15`: mục VI mới — **KCN Cam Đường, QĐ 2548/QĐ-UBND ngày 23/7/2026** của Chủ tịch UBND tỉnh (Chủ tịch Nguyễn Tuấn Anh ký): NĐT Công ty CP đầu tư Lê Premium (GCN ĐKDN 4601571012, Thái Nguyên; TGĐ Lê Đăng Khoa); 196,3 ha theo hướng KCN sinh thái tại phường Cam Đường; tổng vốn 1.996 tỷ (góp 300 tỷ 15% + vay 1.696 tỷ 85%); thời hạn 50 năm; tiến độ 51 tháng QIII/2026-QIV/2030 chia 2 GĐ (GĐ1 90 ha đến QIII/2028, GĐ2 106,3 ha vận hành toàn bộ QIV/2030); Phụ lục 99 mốc tọa độ VN-2000 (ranh giới dự kiến); căn cứ KL 320-KL/TU 15/7, NQ 731-NQ/ĐU 13/7, BC thẩm định 237/BC-BQL 22/7/2026. Kèm chưng cất **CV 1101/BQL-QHXD ngày 24/7/2026** (Trưởng ban Vương Trinh Quốc) — phụ lục 10 nhóm thủ tục sau chấp thuận CTĐT (quy hoạch, ký quỹ, môi trường, đất đai, PCCC, xây dựng, khởi công, nghiệm thu, báo cáo giám sát, giá dịch vụ) + đầu mối Phòng QHXD&ĐT BQL KKT.
+
+### Cập nhật
+- `references/15`: tiêu đề đến 24/7/2026; tổng số **12 KCN** đã thành lập/chấp thuận CTĐT (07 hiện hữu + 05 mới), diễn đạt "05 KCN này chưa GPMB xong"; V-bis trỏ mục VI; lưu ý nghiệp vụ đánh lại thành mục VII, bổ sung 4 điểm: thẩm quyền QĐ 2548 là Chủ tịch UBND tỉnh; phân biệt 196,3 ha dự án vs 200 ha quy hoạch; vai trò SCT theo Điều 2 QĐ 2548 (nhận báo cáo giám sát quý/năm cùng BQL KKT, UBND phường Cam Đường); NĐT ngoài tỉnh đầu tiên (trụ sở Thái Nguyên).
+- `references/17`: bullet Cam Đường mục IV chuyển từ "đang trình" → đã có QĐ 2548 (cắm cờ CẬP NHẬT SAU KỲ CHỐT 20/7); tổng hợp 05 KCN mới ~1.255,29 ha / ~13.989 tỷ đồng; bỏ Cam Đường khỏi danh sách "đang lập/thẩm định QH phân khu".
+- `references/12`: bảng KCN mới chấp thuận 04 → 05 (thêm dòng Cam Đường 200 QH/196,3 chấp thuận); tổng 12 KCN đến 23/7/2026; xóa Cam Đường khỏi bảng "KCN quy hoạch còn lại (chưa thành lập)".
+- `SKILL.md`: trigger 8 + bảng references (15, 17) cập nhật 12 KCN/QĐ 2548; description thêm từ khóa "Cam Đường, Lê Premium, QĐ 2548".
+- `plugin.json`: version 1.8.0.
+
+### Nguồn
+- Bản scan QĐ 2548/QĐ-UBND (10 trang, kèm Phụ lục tọa độ 99 mốc múi 3° + múi 6°) và CV 1101/BQL-QHXD bản ký số, Bạn cung cấp ngày 24/7/2026. Website congnghieplaocai.vn đã cập nhật đồng bộ cùng ngày (12 KCN, polygon ranh giới 99 mốc).
+
 ## v1.7.0 — 2026-07-23 (Nghị định 178/2026/NĐ-CP — tài sản kết cấu hạ tầng CCN)
 
 ### Thêm mới

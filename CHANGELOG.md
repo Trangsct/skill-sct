@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 (bổ sung 2) — kccn-sct-vn v1.8.0: KCN Cam Đường được chấp thuận chủ trương đầu tư
+
+- Chưng cất **QĐ 2548/QĐ-UBND ngày 23/7/2026** của Chủ tịch UBND tỉnh — chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư dự án hạ tầng **KCN Cam Đường** (196,3 ha, KCN sinh thái, phường Cam Đường): NĐT Công ty CP đầu tư Lê Premium (Thái Nguyên), tổng vốn 1.996 tỷ đồng, 50 năm, tiến độ 51 tháng (QIII/2026-QIV/2030, 2 giai đoạn 90 + 106,3 ha), Phụ lục 99 mốc tọa độ VN-2000 → reference 15 mục VI mới. Nâng tổng số **12 KCN** đã thành lập/chấp thuận CTĐT (07 hiện hữu + 05 mới năm 2026).
+- Chưng cất **CV 1101/BQL-QHXD ngày 24/7/2026** của BQL KKT (Trưởng ban Vương Trinh Quốc) — hướng dẫn Lê Premium 10 nhóm thủ tục sau chấp thuận CTĐT (quy hoạch, ký quỹ Đ.26 NĐ 96/2026, ĐTM/GPMT, đất đai, PCCC, thẩm định BC NCKT/GPXD theo NĐ 217/2026, khởi công NĐ 207/2026, nghiệm thu, báo cáo giám sát NĐ 19/2026, giá dịch vụ KCN).
+- Đồng bộ references 12, 17, SKILL.md, plugin.json v1.8.0. Website congnghieplaocai.vn cập nhật cùng ngày (bản đồ có ranh giới chuẩn 99 mốc, SW v67).
+
 ## 2026-07-24 (bổ sung) — vbhc-vn v2.4.0: Quy tắc 20 — cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung
 
 - **Vụ thật:** Biên bản thẩm định hồ sơ cấp Giấy phép vận chuyển HHNH loại 2 (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 24/7/2026) — trang 4 kết bằng đề mục `- Lái xe:` rồi bỏ trắng gần nửa trang, bảng lái xe nhảy nguyên khối sang trang 5. Không hề có paragraph trống: thủ phạm là `<w:trHeight>` gán cứng từng dòng (1623 và 2002 twip) cộng `<w:cantSplit/>` → cụm "dòng tiêu đề + dòng dữ liệu đầu" cao ~7 cm, vượt phần giấy còn lại.

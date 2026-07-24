@@ -19,15 +19,16 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 | Trấn Yên | Phường Âu Lâu | 339 |
 | Minh Quân | Phường Âu Lâu | 160 |
 
-### KCN mới được chấp thuận chủ trương đầu tư (04 — cập nhật 16/7/2026, chi tiết reference `15`)
+### KCN mới được chấp thuận chủ trương đầu tư (05 — cập nhật 23/7/2026, chi tiết reference `15`)
 | Tên KCN | Vị trí | DT QH / DT chấp thuận (ha) | QĐ chấp thuận CTĐT |
 |---|---|---|---|
 | Bản Qua (GĐ 1) | **Xã Bát Xát** | 107 QH / **76,39 chấp thuận** | QĐ 2170/QĐ-UBND 23/6/2026 (UBND tỉnh); GCN ĐKĐT 30/6/2026 |
 | **Phú Xuân** | **Xã Gia Phú** | 300 | QĐ 2336/QĐ-UBND 02/7/2026 (Chủ tịch UBND tỉnh); NĐT Linh Linh |
 | **Phú Xuân 1** | **Xã Gia Phú** | 200 | QĐ 2338/QĐ-UBND 02/7/2026 (Chủ tịch UBND tỉnh); NĐT Linh Linh |
 | **Võ Lao (GĐ 1)** | **Xã Võ Lao, xã Tằng Loỏng** | 500 QH / **482,6 chấp thuận** | QĐ 2463/QĐ-UBND 16/7/2026 (UBND tỉnh); NĐT Công ty CP đầu tư hạ tầng Châu Giang |
+| **Cam Đường** | **Phường Cam Đường** | 200 QH / **196,3 chấp thuận** | QĐ 2548/QĐ-UBND 23/7/2026 (Chủ tịch UBND tỉnh); NĐT Công ty CP đầu tư Lê Premium (Thái Nguyên); KCN sinh thái |
 
-→ Tổng số KCN đã thành lập/có QĐ chấp thuận CTĐT đến 16/7/2026: **11 KCN** (07 hiện hữu + 04 trên).
+→ Tổng số KCN đã thành lập/có QĐ chấp thuận CTĐT đến 23/7/2026: **12 KCN** (07 hiện hữu + 05 trên).
 
 ### KCN quy hoạch còn lại (chưa thành lập — vị trí xã CHUẨN theo Phụ lục II QĐ 525, KHÔNG suy từ tên KCN)
 | Tên KCN | Vị trí | DT QH (ha) |
@@ -38,7 +39,6 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 | Lục Yên (GĐ 1) | **Xã Lục Yên, xã Tân Lĩnh** | 221 |
 | Cốc Mỳ - Trịnh Tường (GĐ 1) | **Xã Trịnh Tường** | 500 |
 | Bát Xát | Xã Bát Xát | 76 |
-| Cam Đường | Phường Cam Đường | 200 |
 | Thống Nhất (chuyển từ CCN Thống Nhất 2+3) | Xã Gia Phú | 150 |
 | Việt Hồng 1 | Xã Việt Hồng | 300 |
 | Việt Hồng 2 | Xã Việt Hồng | 200 |

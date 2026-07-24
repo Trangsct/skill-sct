@@ -1,6 +1,6 @@
 # 07 — Nghĩa vụ doanh nghiệp khai thác và kiểm soát trữ lượng - sản lượng
 
-Bảng tra khi SCT kiểm tra mỏ, hướng dẫn doanh nghiệp, hoặc thẩm định hồ sơ VLNCN gắn với mỏ. Nguồn: Luật 54/2024, NĐ 193/2025 (sửa bởi NĐ 21/2026), TT 36/2025/TT-BNNMT, hướng dẫn của SNNMT Lào Cai tháng 8/2025 (`van-ban-goc/CV-SNNMT-8-2025...`), **CV 5141/SNNMT-KS ngày 29/12/2025** và **CV 6795/SNNMT-KS ngày 17/7/2026**.
+Bảng tra khi SCT kiểm tra mỏ, hướng dẫn doanh nghiệp, hoặc thẩm định hồ sơ VLNCN gắn với mỏ. Nguồn: Luật 54/2024, NĐ 193/2025 (sửa bởi NĐ 21/2026), TT 36/2025/TT-BNNMT, hướng dẫn của SNNMT Lào Cai tháng 8/2025 (`van-ban-goc/CV-SNNMT-8-2025...`), **CV 5141/SNNMT-KS ngày 29/12/2025**, **CV 6795/SNNMT-KS ngày 17/7/2026** và **CV 6987/SNNMT-KS ngày 23/7/2026**.
 
 ➡️ Phần **thống kê, kê khai, kiểm soát sản lượng, báo cáo định kỳ** (mẫu 05–08, thời hạn 15/02, nơi nhận theo nhóm khoáng sản, vị trí cân - đo, ngưỡng chênh lệch 10%, bản đồ hiện trạng) đã tách riêng, chi tiết tại reference **14**.
 
@@ -66,7 +66,9 @@ GP khai thác cấp trước 01/7/2025 không phù hợp K2 Đ56 Luật 54/2024 
 
 ## VI. CÔNG VĂN NGHĨA VỤ SAU CẤP PHÉP CỦA SNNMT — nhận biết và xử lý phần việc SCT
 
-**Thực tiễn Lào Cai:** mỗi khi một mỏ được cấp giấy phép khai thác mới, Sở Nông nghiệp và Môi trường ban hành **công văn riêng gửi doanh nghiệp** liệt kê trọn bộ nghĩa vụ, **đồng gửi Sở Công Thương** (cùng Sở Xây dựng, Sở Tài chính, Thuế tỉnh, UBND xã nơi có mỏ). Ví dụ chuẩn: **CV 6795/SNNMT-KS ngày 17/7/2026** gửi Công ty cổ phần Khai thác và Chế biến kim loại Thủ Đô sau khi được cấp **GP 199/GP-BNNMT ngày 14/7/2026** khai thác **quặng sắt mỏ Quý Xa, xã Văn Bàn, tỉnh Lào Cai** (toàn văn: `van-ban-goc/CV-6795-SNNMT-KS-17-7-2026-nghia-vu-sau-cap-phep-mo-Quy-Xa.txt`).
+**Thực tiễn Lào Cai:** mỗi khi một mỏ được cấp giấy phép khai thác mới, Sở Nông nghiệp và Môi trường ban hành **công văn riêng gửi doanh nghiệp** liệt kê trọn bộ nghĩa vụ, **đồng gửi Sở Công Thương** (cùng Sở Xây dựng, Sở Tài chính, Thuế tỉnh, UBND xã nơi có mỏ). Hai ví dụ chuẩn (cùng khuôn mẫu, cùng do PGĐ Phạm Năng Chung ký, cách nhau 6 ngày — xác nhận đây là **quy trình lặp ổn định**, ban hành trong vòng khoảng 10 ngày sau ngày cấp giấy phép):
+- **CV 6795/SNNMT-KS ngày 17/7/2026** gửi Công ty cổ phần Khai thác và Chế biến kim loại Thủ Đô sau khi được cấp **GP 199/GP-BNNMT ngày 14/7/2026** khai thác **quặng sắt mỏ Quý Xa, xã Văn Bàn, tỉnh Lào Cai** (toàn văn: `van-ban-goc/CV-6795-SNNMT-KS-17-7-2026-nghia-vu-sau-cap-phep-mo-Quy-Xa.txt`).
+- **CV 6987/SNNMT-KS ngày 23/7/2026** gửi Công ty Cổ phần Công nghiệp Khánh An sau khi được cấp **GP 197/GP-BNNMT ngày 13/7/2026** của Bộ trưởng Bộ Nông nghiệp và Môi trường khai thác **tổng oxit đất hiếm (TR2O3), không bao gồm oxit xeri (CeO2)**, khu vực **Bến Đền, xã Gia Phú và xã Bảo Thắng, tỉnh Lào Cai** (toàn văn: `van-ban-goc/CV-6987-SNNMT-KS-23-7-2026-nghia-vu-sau-cap-phep-mo-dat-hiem-Ben-Den-KhanhAn.txt`). Lưu ý cách ghi phạm vi giấy phép: cấp phép theo **thành phần có ích cụ thể** kèm loại trừ (không gồm CeO2) đúng như quyết định phê duyệt trữ lượng — khi SCT trích dẫn giấy phép trong văn bản của mình phải chép nguyên cụm, không rút gọn thành "khai thác đất hiếm".
 
 **Kết cấu chuẩn của công văn loại này** (dùng để đối chiếu nhanh, cũng là khung khi SCT soạn công văn hướng dẫn phần việc của mình):
 1. Trước khi đưa mỏ vào hoạt động — cắm mốc và bàn giao mốc giới; phối hợp UBND xã bồi thường, GPMB; thủ tục thuê đất **bao gồm cả khu phụ trợ**; lập bản đồ - mặt cắt hiện trạng từ khi XDCB; **thiết kế mỏ** được thẩm định, phê duyệt và gửi cơ quan QLNN; **đăng ký ngày bắt đầu XDCB, ngày bắt đầu khai thác**; **thông báo GĐĐH mỏ**; hồ sơ môi trường; nghĩa vụ tài chính.

@@ -48,3 +48,17 @@ Cấu trúc 4 lớp căn cứ, theo đúng thứ tự:
 - Dự án hỗn hợp (mỏ nhóm I + nhà máy tuyển + hạng mục dân dụng): xác định công trình CHÍNH để chọn CQCM; các hạng mục khác thẩm định cùng gói theo công trình chính — nêu rõ phạm vi trong thông báo.
 - Mỏ nằm trên ≥2 tỉnh: thủ tục khoáng sản tại tỉnh chiếm diện tích lớn nhất (NĐ 21/2026 sửa Đ61 NĐ 193/2025); phần xây dựng đối chiếu quy định liên tỉnh của pháp luật XD.
 - Khai thác tận thu, thu hồi khoáng sản, khoáng sản phân tán nhỏ lẻ: cơ chế riêng theo NĐ 193/2025 (Mục 8, 9) — không áp máy móc quy trình thiết kế mỏ đầy đủ.
+
+## 6. Mỏ nhóm I mới cấp phép — chủ động chuẩn bị tiếp nhận hồ sơ (cập nhật 7/2026)
+
+Nguồn nhận biết: công văn "nghĩa vụ sau cấp phép" của SNNMT đồng gửi SCT sau mỗi giấy phép khai thác mới (→ qlks-sct-vn reference 07 mục VI). Hai mỏ nhóm I vừa được Bộ NN&MT cấp phép, **sẽ phát sinh hồ sơ thiết kế mỏ tại SCT**:
+
+| Mỏ | Giấy phép | Doanh nghiệp | Ghi chú thẩm định |
+|---|---|---|---|
+| Quặng sắt mỏ Quý Xa, xã Văn Bàn | GP 199/GP-BNNMT ngày 14/7/2026 | Công ty CP Khai thác và Chế biến kim loại Thủ Đô | Nhóm I → SCT là CQCM |
+| **Tổng oxit đất hiếm (TR2O3), không bao gồm oxit xeri (CeO2)** — khu vực Bến Đền, xã Gia Phú và xã Bảo Thắng | GP 197/GP-BNNMT ngày 13/7/2026 | Công ty Cổ phần Công nghiệp Khánh An (trụ sở Hà Nội) | Đất hiếm = nhóm I → SCT là CQCM. Khi trích dẫn giấy phép phải chép nguyên cụm thành phần có ích kèm loại trừ CeO2, không rút gọn "khai thác đất hiếm" |
+
+**GATE áp dụng cho cả 2 hồ sơ** (giấy phép cấp 7/2026 → hồ sơ trình chắc chắn sau 01/7/2026):
+- Chuỗi nghĩa vụ thiết kế mỏ mà SNNMT dẫn trong công văn: lập, thẩm định, phê duyệt theo **K2 Đ61 Luật 54/2024**; chỉ được XDCB, khai thác khi thiết kế mỏ đã phê duyệt **và đã gửi cơ quan QLNN có thẩm quyền** (K3 Đ61 Luật; K2, K3 Đ77 NĐ 193/2025); nội dung thiết kế theo **TT 31/2025/TT-BCT**; trong quá trình khai thác phải tuân thủ đúng thiết kế đã duyệt.
+- Theo khung từ 01/7/2026 (Luật 135/2025, NĐ 217/2026): tại CQCM chỉ còn thẩm định **BCNCKT** (đối chiếu diện thẩm định theo NĐ 217/2026 với từng dự án cụ thể); **thiết kế triển khai sau TKCS do chủ đầu tư tự tổ chức thẩm định, phê duyệt** rồi gửi cơ quan QLNN — SCT tiếp nhận bản gửi, cập nhật cột `Nop_TKM` bảng theo dõi (qlks-sct-vn reference 10), KHÔNG thẩm định lại.
+- Mỏ đất hiếm là loại hình SCT Lào Cai **chưa có tiền lệ thẩm định** — khi hồ sơ về: tra Phụ lục nội dung thiết kế theo phương pháp khai thác thực tế trong TT 31/2025 (không suy đoán lộ thiên/hầm lò trước khi đọc hồ sơ), rà đồng thời tuyển - chế biến (nếu dự án gồm nhà máy thủy luyện/tuyển) và xác định công trình chính; báo cáo Bạn trước khi định tuyến xử lý.

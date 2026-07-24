@@ -21,3 +21,10 @@
 - Reference **10**: thêm mục I-b ghi nhận giấy phép mới ngoài mốc chốt CSV — **GP 199/GP-BNNMT ngày 14/7/2026** cấp cho Công ty cổ phần Khai thác và Chế biến kim loại Thủ Đô khai thác quặng sắt mỏ Quý Xa, xã Văn Bàn.
 - Checklist hồ sơ pháp lý mỏ: thêm nhóm 5b (thống kê - kê khai - báo cáo sản lượng, 10 điểm rà) và 3 cờ đỏ mới.
 - Văn bản gốc 19 → 21 file (bổ sung toàn văn CV 5141 và CV 6795).
+
+## v1.3.0 (24/7/2026)
+- Chắt lọc **CV 6987/SNNMT-KS ngày 23/7/2026** (PGĐ Phạm Năng Chung ký) — công văn nghĩa vụ sau cấp phép gửi Công ty Cổ phần Công nghiệp Khánh An, mỏ **đất hiếm** khu vực Bến Đền, xã Gia Phú và xã Bảo Thắng (GP 197/GP-BNNMT ngày 13/7/2026 của Bộ trưởng Bộ NNMT, khai thác tổng oxit đất hiếm TR2O3 không bao gồm CeO2).
+- Reference **07** mục VI: nay có 2 tiền lệ cùng khuôn (CV 6795 + CV 6987, cách nhau 6 ngày) — xác nhận quy trình lặp ổn định của SNNMT (ban hành trong ~10 ngày sau ngày cấp GP); bổ sung lưu ý trích dẫn giấy phép cấp theo thành phần có ích kèm loại trừ (không rút gọn "khai thác đất hiếm").
+- Reference **10** mục I-b: thêm dòng GP 197/GP-BNNMT — mỏ đất hiếm thứ 2 trên bảng theo dõi toàn tỉnh; mỏ nằm trên 2 xã; doanh nghiệp trụ sở Hà Nội (lưu bản sao sổ sách tại văn phòng mỏ).
+- Reference **09**: thêm CV 6987 vào danh mục văn bản SNNMT.
+- Văn bản gốc 21 → 22 file (toàn văn CV 6987).

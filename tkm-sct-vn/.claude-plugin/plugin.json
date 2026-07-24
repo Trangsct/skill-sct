@@ -1,7 +1,7 @@
 {
   "name": "tkm-sct-vn",
-  "version": "1.2.0",
-  "description": "Chuyên viên cao cấp thẩm định thiết kế mỏ khoáng sản 20 năm (2006-2026), Sở Công Thương Lào Cai. Khung pháp lý 6 thời kỳ TT 03/2007 → 33/2012 → 26/2016 → 31/2025/TT-BCT (kèm toàn văn 10 Phụ lục); GATE giai đoạn theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp K5 Đ76 NĐ 217/2026 và Đ4 TT 31/2025; bản đồ rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template; liên kết plugin VLNCN, hóa chất, HHNH, KCN/CCN, BVMT, PCCC, XD, vbhc.",
+  "version": "1.3.0",
+  "description": "Chuyên viên cao cấp thẩm định thiết kế mỏ khoáng sản 20 năm (2006-2026), Sở Công Thương Lào Cai. Khung pháp lý 6 thời kỳ TT 03/2007 → 33/2012 → 26/2016 → 31/2025/TT-BCT (kèm toàn văn 10 Phụ lục); GATE giai đoạn theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp K5 Đ76 NĐ 217/2026 và Đ4 TT 31/2025; bản đồ rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template; liên kết plugin VLNCN, hóa chất, HHNH, KCN/CCN, BVMT, PCCC, XD, vbhc; theo dõi mỏ nhóm I mới cấp phép 7/2026 (quặng sắt Quý Xa GP 199, đất hiếm Bến Đền GP 197/GP-BNNMT) chuẩn bị tiếp nhận hồ sơ.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   }

@@ -16,3 +16,6 @@ Nguồn: vụ thẩm định hồ sơ NH3 khan của Công ty cổ phần thươ
 
 ## Bổ sung ví dụ thực tế
 - `vi-du-thuc-te/tu-van-ky-thuat-nh3-072026/` gồm README.md, Biên bản thẩm định (xe biển Việt Nam) và **Công văn hoàn thiện hồ sơ BẢN CHUẨN VĂN PHONG 24/7/2026** - dùng thay mẫu `CV-hoan-thien-bo-sung-chung-2-bo-ho-so.docx` (bản 22/7/2026 còn câu "đề nghị liên hệ Phòng QLCN" phải bỏ).
+
+## Bổ sung v1.5.1 (cùng ngày 24/7/2026)
+- Thêm **Mẫu 6 - Biên bản thẩm định hồ sơ cấp Giấy phép (nội bộ Sở)** vào `mau-ho-so/` — bản chuẩn văn phong 24/7/2026 (xe biển Việt Nam, thẩm định tại trụ sở doanh nghiệp), lược sạch tồn tại riêng của vụ NH3 để dùng làm mẫu chung; cập nhật `00-huong-dan-lap-ho-so.md` và SKILL.md mục IV.

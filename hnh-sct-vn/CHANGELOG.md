@@ -1,5 +1,9 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.5.1] - 24/7/2026
+- Bổ sung **Mẫu 6 - Biên bản thẩm định hồ sơ cấp Giấy phép (nội bộ Sở)** vào `mau-ho-so/`: bản chuẩn văn phong 24/7/2026 từ vụ NH3 khan (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 05 tổ hợp xe biển Việt Nam), đã lược các phát hiện tồn tại riêng của vụ việc để dùng làm mẫu chung. Cập nhật danh mục biểu mẫu trong `00-huong-dan-lap-ho-so.md` và mô tả `mau-ho-so/` trong SKILL.md (mục IV).
+- Ghi chú sử dụng: khi dùng cho vụ mới (Chế độ B) thay toàn bộ thông tin doanh nghiệp/phương tiện/nhân sự, cập nhật tên thành viên Đoàn theo phân công hiện hành; tồn tại phát hiện ghi vào điểm a-đ tương ứng và tổng hợp tại mục nhận xét, kiến nghị.
+
 ## [1.4.0] - 23/7/2026
 - Bản chốt GP Argon 2 xe (Chi nhánh số 1 Sợi Phương Nam) thay vào vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/GP-SoiPhuongNam-Argon-loai2-2xe.docx.
 - Nguyên tắc 14 mới + reference 16 mục 6.6: cột trọng tải bảng phương tiện khi số liệu DN kê không khớp giấy tờ gốc → tiêu đề "Trọng tải được phép chở", từng dòng "Theo giấy tờ của phương tiện"; bài học đầu kéo 25.000 kg (tổng trọng lượng) ≠ khối lượng kéo theo (40.000 kg) ≠ trọng tải chở (= 0).

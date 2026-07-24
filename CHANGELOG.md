@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 (bổ sung) — hnh-sct-vn v1.5.1: Mẫu 6 Biên bản thẩm định hồ sơ cấp Giấy phép
+
+- Thêm **`mau-ho-so/Mau 6 - Bien ban tham dinh ho so cap Giay phep (noi bo So).docx`** — bản chuẩn văn phong 24/7/2026 dựng từ vụ NH3 khan (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 05 tổ hợp xe biển Việt Nam), đã lược các phát hiện tồn tại riêng của vụ việc để dùng làm mẫu chung cho mọi vụ thẩm định HHNH.
+- Cập nhật danh mục biểu mẫu (`00-huong-dan-lap-ho-so.md`), SKILL.md mục IV, CHANGELOG plugin, `plugin.json` v1.5.1.
+
 ## 2026-07-24 — Nâng cấp cụm VLNCN theo NĐ 275/2026/NĐ-CP + plugin xử phạt dùng chung mới
 
 **Nguồn:** Nghị định **275/2026/NĐ-CP ngày 08/7/2026** quy định xử phạt VPHC lĩnh vực hóa chất và VLNCN — **hiệu lực 25/8/2026, thay thế NĐ 71/2019/NĐ-CP + Điều 1 NĐ 17/2022/NĐ-CP** (Đ75); chuyển tiếp Đ74 (hành vi kết thúc trước 25/8/2026 vẫn theo NĐ cũ).

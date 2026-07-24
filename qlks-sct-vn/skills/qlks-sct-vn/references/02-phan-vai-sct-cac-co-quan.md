@@ -27,12 +27,14 @@ Tại Lào Cai, chức năng nhiệm vụ cụ thể theo QĐ 05/2025/QĐ-UBND (
 5. Phối hợp Thuế, SNNMT **rà soát, đối chiếu sản lượng khai thác thực tế với lượng thuốc nổ được phép sử dụng**.
 6. Theo CV 5973: chủ trì kiểm tra sử dụng VLNCN, thiết bị khai thác, tuân thủ quy định an toàn trong khai thác - chế biến; kiên quyết đình chỉ hoặc kiến nghị đình chỉ trường hợp không bảo đảm điều kiện; tăng cường kiểm tra cơ sở chế biến, thu mua, tuyển, nghiền, sàng, tập kết; rà soát nguồn gốc nguyên liệu, hồ sơ chứng minh tính hợp pháp.
 7. Nghiệp vụ ngành dọc BCT: thẩm định trình UBND tỉnh phê duyệt KH quản lý rủi ro hầm lò; tham mưu UBND tỉnh kiểm tra, cấp GCN huấn luyện KTAT khai thác KS hầm lò (reference 04, 05).
+8. **Nơi nhận báo cáo định kỳ hoạt động khai thác, thu hồi khoáng sản NHÓM I** (cả GP do Bộ NNMT cấp và GP do Chủ tịch UBND tỉnh cấp), cùng nước nóng - nước khoáng thiên nhiên do tỉnh cấp — theo mục 1.6 CV 5141/SNNMT-KS ngày 29/12/2025 và TT 36/2025/TT-BNNMT. Nhóm II, III, IV đi luồng **Sở Xây dựng**. Hạn nộp: trước 15/02 năm liền kề. Chi tiết bảng phân luồng: reference **14** mục I.
 
 ### Sở Xây dựng
 - Thiết kế mỏ khoáng sản làm VLXD và VLXDTT (nhóm II, III): rà soát, thẩm định, tham mưu đình chỉ, kiểm tra tuân thủ.
 - Bến thủy nội địa, đăng ký - đăng kiểm - thiết bị giám sát hành trình phương tiện thủy khai thác cát sỏi; đình chỉ bến không đủ điều kiện; không đăng kiểm phương tiện gắn thiết bị hút cát cho đơn vị không có GP.
 - Kiểm tra nguồn gốc vật liệu tại cơ sở sản xuất VLXD và công trình.
 - Công bố giá khoáng sản làm VLXD.
+- **Nơi nhận báo cáo định kỳ** hoạt động khai thác, thu hồi khoáng sản nhóm II, nhóm III (trừ nước nóng, nước khoáng thiên nhiên), nhóm IV (reference 14 mục I).
 
 ### Sở Tài chính
 - Thẩm định vốn chủ sở hữu khi chấp thuận chủ trương đầu tư dự án khoáng sản.

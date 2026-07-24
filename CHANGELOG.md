@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 — qlks-sct-vn v1.2.0: chế độ thống kê, kê khai, báo cáo sản lượng khoáng sản (CV 5141/SNNMT-KS)
+
+- Chắt lọc **CV 5141/SNNMT-KS ngày 29/12/2025** của Sở Nông nghiệp và Môi trường thành reference 14 mới. Điểm cốt lõi với Sở Công Thương: **SCT là nơi nhận báo cáo định kỳ của mỏ nhóm I** (cả GP Bộ NNMT cấp và GP Chủ tịch UBND tỉnh cấp) và nước nóng - nước khoáng thiên nhiên tỉnh cấp; nhóm II/III/IV đi luồng Sở Xây dựng. Hạn nộp trước **15/02** hằng năm, Mẫu 05/06/07/08 Phụ lục IV TT 36/2025/TT-BNNMT, báo cáo định kỳ đã tích hợp báo cáo thống kê trữ lượng.
+- Chốt các mốc nghiệp vụ dùng khi kiểm tra mỏ: dự án **có hạng mục chế biến phải có 02 điểm cân - đo** (trước khi vào chế biến và khi ra khỏi dự án); thiết bị đo đạc chỉ dùng cho nước khoáng - nước nóng, đá ốp lát, cát sỏi lòng sông - lòng hồ - biển, khoáng sản ghi công suất theo thể tích, còn lại dùng cân; sổ khối lượng ghi **hàng ngày**, sổ hàm lượng ghi **hàng tháng**; **chênh lệch quá 10%** so với sổ theo dõi thì doanh nghiệp phải giải trình; bản đồ - mặt cắt hiện trạng lập 01 năm 01 lần chốt đến 31/12; trụ sở khác địa chỉ mỏ phải lưu 01 bộ bản sao sổ sách tại văn phòng mỏ.
+- Chắt lọc **CV 6795/SNNMT-KS ngày 17/7/2026** (nghĩa vụ sau cấp phép, mỏ sắt Quý Xa) thành reference 07 mục VI: nhận diện loại công văn SNNMT gửi doanh nghiệp mới được cấp phép và đồng gửi SCT, kèm 5 đầu việc SCT phải mở hồ sơ theo dõi (thiết kế mỏ nhóm I, KH quản lý rủi ro, huấn luyện - GCN KTAT, VLNCN, tiếp nhận báo cáo định kỳ).
+- Ghi nhận giấy phép mới: **GP 199/GP-BNNMT ngày 14/7/2026** cấp cho Công ty cổ phần Khai thác và Chế biến kim loại Thủ Đô khai thác quặng sắt **mỏ Quý Xa, xã Văn Bàn** (reference 10 mục I-b).
+- Nghiệp vụ 7 → 8; references 13 → 14; văn bản gốc 19 → 21; bổ sung 4 văn bản SNNMT vào reference 09 và nhóm 5b + 3 cờ đỏ mới vào checklist hồ sơ pháp lý mỏ.
+
 ## 2026-07-24 — hc-sct-vn v1.1.0: vụ Cục Hóa chất xử phạt DN trên địa bàn (QĐ 26/QĐ-XPVPHC 08/7/2026)
 
 - Bổ sung hồ sơ vụ Cục Hóa chất phạt Công ty TNHH Thương mại Hải Đăng (phường Lào Cai) 16 triệu đồng: 4tr — không lưu đủ hồ sơ huấn luyện ATHC (điểm a khoản 3 Điều 11 NĐ 71/2019); 12tr — không nộp báo cáo tổng hợp năm 2025 qua chemicaldata.gov.vn (Điều 29 NĐ 71/2019 sửa khoản 15 Điều 1 NĐ 17/2022). Bản scan QĐ tại `vi-du-thuc-te/xu-phat/`.

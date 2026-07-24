@@ -29,7 +29,18 @@ Dùng cùng file `du-lieu/theo-doi-phap-ly-mo-khai-thac-4-2026.csv`. Mỗi dòng
 - Hồ sơ huấn luyện KTAT; (hầm lò) GCN của UBND tỉnh
 - Đội ứng cứu khẩn cấp (nếu thuộc diện Đ74-75 NĐ 193/2025)
 - GP sử dụng VLNCN + kho + hộ chiếu (nếu nổ mìn)
-- Trạm cân, camera, sổ sách sản lượng; thống kê - kiểm kê trữ lượng; bản đồ hiện trạng
+
+## 5b. Nhóm thống kê - kê khai - báo cáo sản lượng (chi tiết reference 14)
+- **Thiết bị cân/đo đúng loại**: cân cho hầu hết khoáng sản; thiết bị đo đạc chỉ với nước khoáng - nước nóng, đá ốp lát, cát sỏi lòng sông - lòng hồ - biển, KS mà GP ghi công suất theo thể tích
+- **Đủ số điểm kiểm soát**: có hạng mục chế biến trong ranh giới dự án → phải có **02 điểm** (trước khi vào chế biến + khi ra khỏi dự án); không chế biến → 01 điểm ra khỏi dự án
+- Thiết bị cân, đo, giám sát hành trình có kết nối, chia sẻ dữ liệu tự động với hệ thống của cơ quan QLNN
+- Sổ theo dõi khối lượng — ghi **hàng ngày**; sổ theo dõi hàm lượng — ghi **hàng tháng** (chỉ với KS mục 1, mục 2 phần I Phụ lục I NĐ 193/2025)
+- Chứng từ kê khai, quyết toán thuế tài nguyên, phí BVMT
+- **Đối chiếu chéo**: số liệu sổ sách ↔ báo cáo định kỳ ↔ kê khai thuế; chênh lệch **quá 10%** so với sổ theo dõi → yêu cầu doanh nghiệp giải trình bằng văn bản
+- Bản đồ, mặt cắt hiện trạng: lập từ khi XDCB, **01 năm 01 lần**, chốt đến 31/12; đơn vị lập có đủ điều kiện đo đạc bản đồ
+- Lưu giữ bản gốc (giấy + số) tại trụ sở; trụ sở khác địa chỉ mỏ → **01 bộ bản sao tại văn phòng mỏ**
+- **Báo cáo định kỳ năm** (tích hợp thống kê trữ lượng), nộp trước **15/02**: đúng mẫu (05 nhóm I-II-III / 06 nhóm IV / 07 tận thu / 08 thu hồi) và **đúng nơi nhận** — mỏ nhóm I phải gửi cả Sở Công Thương
+- Kiểm kê trữ lượng còn lại khi gia hạn, điều chỉnh, chuyển nhượng, trả lại GP, đóng cửa mỏ
 
 ## 6. Cờ đỏ (dấu hiệu phải xử lý ngay — khớp reference 07 mục III)
 - GP hết hạn nhưng còn hoạt động; quá hạn cấp đổi 01/7/2028
@@ -38,3 +49,6 @@ Dùng cùng file `du-lieu/theo-doi-phap-ly-mo-khai-thac-4-2026.csv`. Mỗi dòng
 - Khai thác ngoài ranh giới/vượt công suất (dấu hiệu từ đối chiếu VLNCN - sản lượng)
 - Dùng VLNCN không phép/vượt nhu cầu công suất
 - Chế biến nguyên liệu không rõ nguồn gốc
+- Mỏ có chế biến tại chỗ nhưng chỉ 01 trạm cân ở cổng ra (thiếu điểm cân trước khi vào chế biến)
+- Không nộp hoặc nộp chậm báo cáo định kỳ năm (mỏ nhóm I không gửi Sở Công Thương)
+- Chênh lệch quá 10% giữa sổ sách, chứng từ và sổ theo dõi mà không có văn bản giải trình

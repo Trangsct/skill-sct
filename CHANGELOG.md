@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 — hc-sct-vn v1.1.0: vụ Cục Hóa chất xử phạt DN trên địa bàn (QĐ 26/QĐ-XPVPHC 08/7/2026)
+
+- Bổ sung hồ sơ vụ Cục Hóa chất phạt Công ty TNHH Thương mại Hải Đăng (phường Lào Cai) 16 triệu đồng: 4tr — không lưu đủ hồ sơ huấn luyện ATHC (điểm a khoản 3 Điều 11 NĐ 71/2019); 12tr — không nộp báo cáo tổng hợp năm 2025 qua chemicaldata.gov.vn (Điều 29 NĐ 71/2019 sửa khoản 15 Điều 1 NĐ 17/2022). Bản scan QĐ tại `vi-du-thuc-te/xu-phat/`.
+- Chốt nghiệp vụ: NĐ 71/2019 + 17/2022 vẫn là khung xử phạt hiện hành đến 7/2026 dù khung quản lý đã theo Luật 69/2025; thẩm quyền Cục Hóa chất dẫn QĐ 464/QĐ-BCT 16/3/2026; quy trình khi Cục kiểm tra/xử phạt trực tiếp gửi Sở phối hợp (ref 10, 16); chế tài răn đe cho CV đôn đốc DN báo cáo năm (ref 11 mục 4a); 3 cấu phần bắt buộc hồ sơ huấn luyện (ref 07).
+
 ## 2026-07-23 (bổ sung 4) — hnh-sct-vn v1.4.0: bản chốt GP Argon 2 xe + thông lệ ghi cột trọng tải
 
 - Thay bản chốt (23/7/2026) Giấy phép Argon 2 xe biển Trung Quốc vào `vi-du-thuc-te/soi-phuong-nam-argon-nh3-072026/GP-SoiPhuongNam-Argon-loai2-2xe.docx`.

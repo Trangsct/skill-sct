@@ -48,3 +48,5 @@ Tại cùng một cơ sở hóa chất thường phát sinh nội dung thuộc l
 ## 7. Ranh giới với xử phạt
 
 Plugin này thực hiện **kiểm tra + kết luận + kiến nghị/chuyển hồ sơ**. Việc **lập biên bản VPHC, ra QĐ xử phạt** thuộc **plugin xử phạt riêng của Sở** — gọi plugin đó khi cần. Cơ quan cấp phép có thể **thu hồi GCN/GP** (ref 09) trên cơ sở kết luận kiểm tra.
+
+**Cục Hóa chất kiểm tra/xử phạt trực tiếp trên địa bàn:** Cục có thể lập Đoàn kiểm tra DN tại Lào Cai và ra QĐ xử phạt không qua Sở, sau đó gửi QĐ cho Sở "để biết và phối hợp quản lý trên địa bàn" (tiền lệ: QĐ 26/QĐ-XPVPHC ngày 08/7/2026 — ref 16 mục 5). Khi Sở nhận loại QĐ này: cập nhật hồ sơ theo dõi DN; điều chỉnh kế hoạch kiểm tra của Sở tránh trùng lặp cùng nội dung/cùng kỳ (nguyên tắc NĐ 217/2025); tổng hợp vào báo cáo năm (ref 11); theo dõi việc DN khắc phục. Lưu ý: đến 7/2026 Cục vẫn xử phạt theo **NĐ 71/2019 sửa NĐ 17/2022** (chưa có NĐ xử phạt mới theo Luật 69/2025); thẩm quyền Cục dẫn theo **QĐ 464/QĐ-BCT ngày 16/3/2026**.

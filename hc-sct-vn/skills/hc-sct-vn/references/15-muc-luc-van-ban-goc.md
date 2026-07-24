@@ -61,6 +61,11 @@
 | `CV-thong-bao-thoi-gian-kiem-tra-thuc-te.docx` | Thông báo thời gian kiểm tra thực tế | 10, 14 |
 | `BC-ket-qua-kiem-tra-04-don-vi.docx` | Báo cáo kết quả kiểm tra 04 đơn vị | 10, 14 |
 
+### xu-phat/ (QĐ xử phạt của cấp trên gửi Sở phối hợp)
+| File | Nội dung | Reference |
+|---|---|---|
+| `QD-26-QD-XPVPHC-2026-Cuc-Hoa-chat-xu-phat-TNHH-TM-Hai-Dang.pdf` | QĐ 26/QĐ-XPVPHC 08/7/2026 Cục Hóa chất phạt 16tr (hồ sơ huấn luyện 4tr + không báo cáo chemicaldata 12tr) — scan, số/ngày viết tay | 07, 10, 11, 16 |
+
 ### ke-hoach-su-co/ (thẩm định KH phòng ngừa)
 | File | Nội dung | Reference |
 |---|---|---|

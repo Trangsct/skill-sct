@@ -33,6 +33,11 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 27, 28, 41); Nghị định 25/20
 - Số vụ sự cố hóa chất; thiệt hại; khắc phục.
 - Chủng loại, khối lượng hóa chất SX/NK/tồn trữ chủ yếu trên địa bàn.
 
+## 4a. Chế tài khi DN không báo cáo (dùng cho CV đôn đốc)
+
+- Không thực hiện chế độ báo cáo tổng hợp tình hình hoạt động hóa chất hằng năm qua CSDL hóa chất quốc gia **chemicaldata.gov.vn** → phạt **12.000.000 đ** (tổ chức) theo **Điều 29 NĐ 71/2019** (sửa đổi tại khoản 15 Điều 1 NĐ 17/2022).
+- Tiền lệ có thật trên địa bàn: Cục Hóa chất kiểm tra trực tiếp và ra QĐ 26/QĐ-XPVPHC ngày 08/7/2026 phạt một DN tại phường Lào Cai 16 triệu đồng (12 triệu vì không nộp báo cáo năm 2025 + 4 triệu vì hồ sơ huấn luyện) — chi tiết ref 16 mục 5. Khi soạn CV đôn đốc DN báo cáo: nêu mức phạt và việc Cục đã xử phạt thực tế (không nêu tên DN), nhấn mạnh báo cáo nộp **qua hệ thống chemicaldata.gov.vn**, không nhận bản giấy thay thế.
+
 ## 5. Nguyên tắc soạn báo cáo
 
 - Số liệu từ báo cáo DN + dữ liệu chuyên ngành; **không dùng số liệu hiện trạng cũ trong skill** — hỏi Bạn số thực tế kỳ báo cáo.

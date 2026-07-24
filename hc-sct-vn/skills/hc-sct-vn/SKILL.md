@@ -88,7 +88,7 @@ Khi soạn văn bản kết quả, kết hợp `vbhc-vn` (thể thức, mẫu 08
 - `13-faq-doanh-nghiep.md` — Bộ câu hỏi - trả lời mẫu để giải đáp doanh nghiệp; ngôn ngữ hướng dẫn chuẩn; các vướng mắc điển hình (khai báo dưới 10kg, chuyển tiếp giấy phép cũ, phân loại hỗn hợp, N2O khí cười).
 - `14-bo-mau-van-ban.md` — Bộ mẫu văn bản kết quả của Sở: CV hướng dẫn/từ chối/bổ sung hồ sơ; tờ trình; QĐ (cấp phép, phê duyệt KH, thành lập đoàn kiểm tra/Hội đồng thẩm định); báo cáo; bảng tra "việc → mẫu → reference".
 - `15-muc-luc-van-ban-goc.md` — Mục lục tra cứu văn bản gốc (`van-ban-goc/`) và ví dụ thực tế (`vi-du-thuc-te/`): ánh xạ file → nội dung → reference.
-- `16-thuc-tien-sct.md` — **Thực tiễn tại Sở (đúc kết hồ sơ đã xử lý 2026):** vụ HNO3 (8 lỗi từ chối cấp GCN); QĐ kiểm tra 04 đơn vị; thể thức văn bản thực tế; các quyết định nghiệp vụ đã chốt; việc chờ xác minh. **ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.**
+- `16-thuc-tien-sct.md` — **Thực tiễn tại Sở (đúc kết hồ sơ đã xử lý 2026):** vụ HNO3 (8 lỗi từ chối cấp GCN); QĐ kiểm tra 04 đơn vị; thể thức văn bản thực tế; các quyết định nghiệp vụ đã chốt; vụ Cục Hóa chất xử phạt DN trên địa bàn (QĐ 26/QĐ-XPVPHC 7/2026 — mức phạt thực tế 4tr hồ sơ huấn luyện + 12tr không báo cáo chemicaldata.gov.vn; NĐ 71/2019 vẫn là khung xử phạt hiện hành); việc chờ xác minh. **ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.**
 - `mau-ho-so/` — Biểu mẫu DN nộp (Mẫu 10a, 10b, 11a; đề nghị thẩm định KH) + mẫu GCN kết quả (10c); kèm `00-huong-dan-lap-ho-so.md`.
 
 ## V. BẢN ĐỒ 6 NGHIỆP VỤ — GẶP VIỆC GÌ ĐỌC GÌ

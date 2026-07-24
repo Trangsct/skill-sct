@@ -44,7 +44,32 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 3. **Kho lưu chứa đồng thời hóa chất + tiền chất thuốc nổ** là tình huống phổ biến ở Lào Cai → luôn soi phân khu + KH sự cố tình huống đồng thời. Ranh giới VLNCN/tiền chất thuốc nổ: lĩnh vực riêng (plugin VLNCN) dù cùng PGĐ Thuân.
 4. **Kiểm tra thực tế bắt buộc** trước khi cấp GCN SX/KD có điều kiện và dịch vụ tồn trữ; đối chiếu QCVN 05A SĐ1:2024 (đặc biệt khoảng cách 17 m, phân khu oxy hóa/ăn mòn).
 
-## 5. VIỆC CHỜ XÁC MINH (phải hỏi Bạn — không tự điền, không bịa)
+## 5. Vụ Cục Hóa chất xử phạt DN trên địa bàn — QĐ 26/QĐ-XPVPHC (7/2026)
+
+Bản gốc (scan): `vi-du-thuc-te/xu-phat/QD-26-QD-XPVPHC-2026-Cuc-Hoa-chat-xu-phat-TNHH-TM-Hai-Dang.pdf`. Số "26" và ngày "08" viết tay trên bản scan — đã xác minh bằng OCR + soi ảnh.
+
+**Tóm tắt vụ việc:** Quyết định số **26/QĐ-XPVPHC ngày 08/7/2026** của **Cục trưởng Cục Hóa chất Phùng Mạnh Ngọc** xử phạt VPHC **Công ty TNHH Thương mại Hải Đăng** (Đường Mai Hắc Đế, Tổ 36, phường Lào Cai, tỉnh Lào Cai; MSDN 5300205222; NĐDPL: Giám đốc Đỗ Quang Nhỡn). Sở Công Thương Lào Cai nhận: số đến 14708 ngày 20/7/2026, theo khoản 4 Điều 3 QĐ — "gửi Sở Công Thương Lào Cai để biết và phối hợp trong công tác quản lý trên địa bàn".
+
+**Hai hành vi và mức phạt (tổ chức):**
+
+| Hành vi | Căn cứ xử phạt | Mức phạt |
+|---|---|---|
+| Không lưu giữ đầy đủ hồ sơ huấn luyện an toàn hóa chất (nội dung huấn luyện; thông tin người huấn luyện; nội dung và kết quả kiểm tra) | điểm a khoản 3 Điều 11 NĐ 71/2019/NĐ-CP | 4.000.000 đ |
+| Không nộp báo cáo tổng hợp tình hình hoạt động hóa chất năm 2025 qua CSDL hóa chất quốc gia (chemicaldata.gov.vn) | Điều 29 NĐ 71/2019 (sửa đổi tại khoản 15 Điều 1 NĐ 17/2022/NĐ-CP) | 12.000.000 đ |
+
+Tổng: **16.000.000 đ**; không tình tiết tăng nặng/giảm nhẹ; không phạt bổ sung; không biện pháp khắc phục hậu quả. Nộp tại KBNN Khu vực I trong 10 ngày; chậm nộp cộng 0,05%/ngày.
+
+**Căn cứ pháp lý của QĐ (chuỗi thủ tục Cục đã dùng):** Luật XLVPHC 2012 (sửa đổi, bổ sung 2020, **2025**); NĐ 71/2019 + NĐ 17/2022; **QĐ 464/QĐ-BCT ngày 16/3/2026** (chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Cục Hóa chất — văn bản mới, dùng khi cần dẫn thẩm quyền Cục); Biên bản VPHC số 23/BB-VPHC lập ngày 26/6/2026 của Đoàn kiểm tra theo QĐ số 128/QĐ-HC ngày 17/6/2026.
+
+**Bài học nghiệp vụ cho Sở:**
+
+1. **NĐ 71/2019 (sửa NĐ 17/2022) vẫn là khung xử phạt hiện hành đến 7/2026** — Cục Hóa chất vẫn xử phạt theo NĐ này dù khung quản lý đã chuyển sang Luật 69/2025 + NĐ 24/25/26/2026. Chưa có NĐ xử phạt mới thay thế; khi soạn văn bản dẫn chiếu xử phạt tiếp tục dùng NĐ 71/2019 + 17/2022, không tự suy đoán văn bản mới.
+2. **Cục Hóa chất kiểm tra trực tiếp DN trên địa bàn** (không qua Sở) rồi gửi QĐ xử phạt cho Sở phối hợp. Khi nhận: (a) cập nhật DN vào hồ sơ theo dõi vi phạm; (b) loại DN khỏi/điều chỉnh kế hoạch kiểm tra chuyên ngành của Sở cùng nội dung để tránh trùng lặp (nguyên tắc NĐ 217/2025); (c) đưa vào báo cáo năm về công tác quản lý hóa chất (ref 11); (d) đôn đốc DN chấp hành nộp phạt và khắc phục (nộp báo cáo, hoàn thiện hồ sơ huấn luyện) trong các đợt làm việc tiếp theo.
+3. **Số liệu răn đe dùng cho CV đôn đốc DN**: không nộp báo cáo tổng hợp năm qua chemicaldata.gov.vn → phạt tới 12 triệu đồng; không lưu đủ hồ sơ huấn luyện → 4 triệu đồng (tiền lệ có thật ngay tại phường Lào Cai). Trích dẫn vụ này (không nêu tên DN trong văn bản gửi rộng rãi) khi soạn CV đôn đốc báo cáo năm.
+4. **Hồ sơ huấn luyện phải lưu đủ 3 cấu phần**: nội dung huấn luyện; thông tin người huấn luyện; nội dung và kết quả kiểm tra — thiếu bất kỳ cấu phần nào đã đủ cấu thành hành vi vi phạm. Soi đúng 3 cấu phần này khi kiểm tra chuyên ngành (ref 10) và thẩm định hồ sơ cấp GCN (ref 03, 07).
+5. Đầu mối theo dõi tại Sở: **CN(Loan)**, lãnh đạo phụ trách **PGĐ Hoàng Văn Thuân**.
+
+## 6. VIỆC CHỜ XÁC MINH (phải hỏi Bạn — không tự điền, không bịa)
 
 1. **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương** ký cấp GCN/GP/QĐ hóa chất thay UBND tỉnh — **đến 05/7/2026 chưa xác minh có/không**. Quyết định người ký (Sở ký theo ủy quyền hay trình Chủ tịch UBND tỉnh ký) phụ thuộc điều này. **Hỏi Bạn trước khi chốt người ký mọi văn bản cấp phép.**
 2. **Mã TTHC hóa chất mới** theo khung 2026 (Bộ Công Thương/UBND tỉnh công bố lại) — chưa xác minh. Không dùng mã cũ; để trống, hỏi Bạn.

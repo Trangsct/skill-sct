@@ -1,5 +1,16 @@
 # Nhật ký thay đổi plugin hc-sct-vn
 
+## 1.1.0 — 2026.07.24 — Bổ sung vụ Cục Hóa chất xử phạt DN trên địa bàn (QĐ 26/QĐ-XPVPHC)
+
+Nguồn: QĐ số 26/QĐ-XPVPHC ngày 08/7/2026 của Cục trưởng Cục Hóa chất (Phùng Mạnh Ngọc) xử phạt Công ty TNHH Thương mại Hải Đăng (phường Lào Cai) 16 triệu đồng — Sở nhận số đến 14708 ngày 20/7/2026, "để biết và phối hợp quản lý trên địa bàn". Metadata xác minh bằng OCR + soi ảnh (số "26", ngày "08" viết tay trên bản scan).
+
+- **ref 16 (mục 5 mới):** hồ sơ vụ việc đầy đủ — 2 hành vi + căn cứ + mức phạt (hồ sơ huấn luyện 4tr theo điểm a khoản 3 Điều 11 NĐ 71/2019; không nộp báo cáo năm 2025 qua chemicaldata.gov.vn 12tr theo Điều 29 NĐ 71/2019 sửa khoản 15 Điều 1 NĐ 17/2022); 5 bài học nghiệp vụ; mục "VIỆC CHỜ XÁC MINH" đổi thành mục 6.
+- **ref 10:** quy trình xử lý khi Cục kiểm tra/xử phạt trực tiếp không qua Sở (cập nhật theo dõi, tránh trùng lặp kiểm tra theo NĐ 217/2025, tổng hợp báo cáo năm); chốt NĐ 71/2019 + 17/2022 vẫn là khung xử phạt hiện hành đến 7/2026, chưa có NĐ xử phạt mới theo Luật 69/2025; bổ sung QĐ 464/QĐ-BCT 16/3/2026 (chức năng Cục Hóa chất) làm căn cứ thẩm quyền.
+- **ref 11 (mục 4a mới):** chế tài răn đe cho CV đôn đốc DN báo cáo năm (mức phạt + tiền lệ thực tế, không nêu tên DN trong văn bản gửi rộng rãi; báo cáo nộp qua hệ thống, không nhận bản giấy).
+- **ref 07:** điểm kiểm tra 3 cấu phần bắt buộc của hồ sơ huấn luyện (nội dung; người huấn luyện; kết quả kiểm tra) — thiếu một cấu phần đã cấu thành vi phạm.
+- **ref 15 + SKILL.md:** cập nhật mục lục; thư mục mới `vi-du-thuc-te/xu-phat/` kèm bản scan QĐ gốc.
+
+
 ## 1.0.1 — 2026.07.05 — Rà soát chéo toàn diện sau khởi tạo
 
 Đối chiếu từng số liệu với văn bản gốc (Điều 9, 13, 14, 20, 21, 22 NĐ 26; Điều 29-35, 40 NĐ 25; Điều 3-4 TT 01; Điều 48 Luật) — toàn bộ thời hạn, ngưỡng, thành phần hồ sơ xác nhận khớp. Chỉnh sửa:

@@ -111,6 +111,8 @@ Hai lỗi này không phải lỗi thể thức mà là lỗi **quan hệ với 
 
 2. **Không viết câu "đề nghị liên hệ Phòng ... để được hướng dẫn".** Câu kết quen thuộc "Trong quá trình hoàn thiện hồ sơ, nếu có vướng mắc, đề nghị liên hệ Phòng Quản lý Công nghiệp, Sở Công Thương tỉnh Lào Cai để được hướng dẫn./." dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, tiếp xúc riêng. **Bỏ hẳn đoạn này**; kết thúc văn bản ngay tại đoạn đề nghị nộp lại/thực hiện, gắn "./." vào cuối đoạn đó. Đầu mối tiếp nhận duy nhất được ghi trong văn bản là **Trung tâm Phục vụ hành chính công tỉnh**.
 
+**Phạm vi áp dụng quy tắc 2 (làm rõ 24/7/2026):** cấm câu "liên hệ Phòng ... để được hướng dẫn" áp dụng cho công văn **trả lời/yêu cầu hoàn thiện HỒ SƠ TTHC** của một doanh nghiệp cụ thể (tránh hiểu là hẹn tiếp xúc riêng trong quy trình cấp phép). Với công văn **quản lý ngành gửi nhiều đối tượng** (đôn đốc tiến độ, triển khai quy định, chế độ báo cáo), câu "Khó khăn, vướng mắc phản ánh kịp thời về Sở Công Thương (qua Phòng ...) để được hướng dẫn, giải quyết theo quy định" là bình thường và giữ nguyên — mẫu thật `cong-van-don-doc-tien-do-ha-tang-ccn-bao-cao-hang-tuan.docx` do người dùng ban hành có câu này. Không tự "sửa" câu này khi dùng lại mẫu đôn đốc.
+
 Áp dụng cho MỌI công văn gửi doanh nghiệp, hợp tác xã, hộ kinh doanh — không riêng lĩnh vực nào. Khi dùng lại mẫu thật cũ (`examples/`, `vi-du-thuc-te/` của các plugin chuyên ngành) phải rà và XÓA hai dạng câu trên nếu còn.
 
 ### Checklist bắt buộc trước khi trình tham mưu

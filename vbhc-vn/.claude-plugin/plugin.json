@@ -1,7 +1,7 @@
 {
   "name": "vbhc-vn",
-  "version": "2.5.0",
-  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 17 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape + assert đếm pict, khử gen lỗi mẫu thật (spid trùng, hanging indent header, w:lang, trHeight); Kính gửi 1 nơi = 1 dòng căn giữa không bảng.",
+  "version": "2.6.0",
+  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 19 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape + assert đếm pict, khử gen lỗi mẫu thật (spid trùng, hanging indent header, w:lang, trHeight); Kính gửi 1 nơi = 1 dòng căn giữa không bảng.",
   "author": {
     "name": "Trangsct"
   }

@@ -1,7 +1,7 @@
 {
   "name": "vbhc-vn",
-  "version": "2.3.0",
-  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 17 mẫu thật, Chế độ A/B, 8 nhóm anti-error, QA một phát qa_all.py (render 1 lần + ảnh ghép + đối chiếu nội dung --forbid/--require), replace NFC-aware bắt buộc khớp, đọc metadata PDF văn bản đến.",
+  "version": "2.4.0",
+  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 17 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render 1 lần + ảnh ghép + đối chiếu nội dung --forbid/--require), replace NFC-aware bắt buộc khớp, đọc metadata PDF văn bản đến, cấm chiều cao dòng cố định trHeight trong bảng nội dung.",
   "author": {
     "name": "Trangsct"
   }

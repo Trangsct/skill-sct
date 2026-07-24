@@ -179,6 +179,53 @@ def find_header_linebreaks(path: Path) -> list[tuple[str, str]]:
     return hits
 
 
+def find_fixed_row_heights(path: Path) -> list[tuple[str, str, bool]]:
+    """
+    Dò CHIỀU CAO DÒNG CỐ ĐỊNH <w:trHeight> trong bảng (Quy tắc 20 — vụ thật
+    24/7/2026: bảng "Lái xe" của Biên bản thẩm định HHNH bị đẩy nguyên khối
+    sang trang sau, trang trước bỏ trắng nửa trang).
+
+    Trả về [(vị_trí, mô_tả, nghiêm_trọng)]. Bảng số 1 (header: tên cơ quan ↔
+    Quốc hiệu) được miễn — trHeight ở đó là một phần thể thức đã kiểm chứng,
+    chỉ báo INFO. Bảng số 2 trở đi có trHeight = lỗi phải sửa.
+
+    Chỉ áp dụng cho .docx. Đếm theo bảng cấp ngoài cùng (bỏ qua bảng lồng).
+    """
+    if path.suffix.lower() != ".docx":
+        return []
+    import zipfile
+    try:
+        with zipfile.ZipFile(str(path)) as z:
+            xml = z.read("word/document.xml").decode("utf-8", "ignore")
+    except Exception:
+        return []
+
+    # Quét cấp ngoài cùng: ghi lại (start, end) của từng <w:tbl> depth 0
+    spans, depth, start = [], 0, None
+    for m in re.finditer(r"<w:tbl>|</w:tbl>", xml):
+        if m.group(0) == "<w:tbl>":
+            if depth == 0:
+                start = m.start()
+            depth += 1
+        else:
+            depth -= 1
+            if depth == 0 and start is not None:
+                spans.append((start, m.end()))
+                start = None
+
+    hits: list[tuple[str, str, bool]] = []
+    for i, (s, e) in enumerate(spans, 1):
+        vals = re.findall(r'<w:trHeight[^>]*w:val="(\d+)"', xml[s:e])
+        if not vals:
+            continue
+        uniq = sorted({int(v) for v in vals})
+        desc = (f"{len(vals)} dòng bị gán chiều cao cố định "
+                f"(twip: {', '.join(str(v) for v in uniq[:6])}"
+                f"{'...' if len(uniq) > 6 else ''})")
+        hits.append((f"Bảng {i}", desc, i > 1))
+    return hits
+
+
 # ============================================================
 # Phát hiện rủi ro
 # ============================================================
@@ -363,8 +410,24 @@ def main():
         has_critical = True
         print()
 
+    # Nhóm F — Chiều cao dòng cố định <w:trHeight> trong bảng (Quy tắc 20)
+    trh = find_fixed_row_heights(path)
+    trh_bad = [h for h in trh if h[2]]
+    if trh:
+        print(f"[F] CHIỀU CAO DÒNG CỐ ĐỊNH TRONG BẢNG ({len(trh_bad)} bảng cần sửa):")
+        for loc, desc, bad in trh:
+            tag = "LỖI " if bad else "INFO"
+            note = "" if bad else "  (bảng header — thường giữ nguyên theo mẫu thật)"
+            print(f"   [{tag}] {loc}: {desc}{note}")
+        if trh_bad:
+            print("   Hậu quả: bảng bị đẩy nguyên khối sang trang sau, trang trước bỏ trắng.")
+            print("   Khắc phục: gỡ sạch <w:trHeight> trong bảng nội dung, để dòng tự co")
+            print("   theo nội dung; còn hụt thì siết giãn dòng trong ô về w:line=\"300\" exact.")
+            has_critical = True
+        print()
+
     # Tổng kết
-    total = len(sus) + len(spec) + len(exp) + len(unv) + len(brk)
+    total = len(sus) + len(spec) + len(exp) + len(unv) + len(brk) + len(trh_bad)
     if total == 0:
         print("✓ Không phát hiện rủi ro theo các pattern đã định.")
         print("  Lưu ý: script này chỉ dò các pattern bề mặt. Vẫn cần Bạn rà")
@@ -372,7 +435,7 @@ def main():
     else:
         print(f"=== TỔNG: {total} cảnh báo ===")
         if has_critical:
-            print("⚠ Có cảnh báo NHÓM A, C hoặc E — KHÔNG nên trình ký trước khi xử lý.")
+            print("⚠ Có cảnh báo NHÓM A, C, E hoặc F — KHÔNG nên trình ký trước khi xử lý.")
 
     if strict and has_critical:
         sys.exit(2)

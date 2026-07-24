@@ -1,6 +1,6 @@
 ---
 name: vbhc-vn
-description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 9 nhóm anti-error; QA một phát qa_all.py (render 1 lần + ảnh ghép: widow, khối ký, Line header, 13pt Số/Ngày); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
+description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 9 nhóm anti-error; QA một phát qa_all.py (render 1 lần + ảnh ghép: widow, khối ký, Line header, 13pt Số/Ngày, chiều cao dòng bảng); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
 ---
 
 # vbhc-vn — Soạn văn bản hành chính từ mẫu thật của Sở Công Thương Lào Cai
@@ -320,6 +320,23 @@ Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức v
    Danh sách forbid tối thiểu = các chuỗi đặc trưng của vụ việc trong mẫu gốc (đọc mẫu trước khi build là có ngay); require tối thiểu = số/ngày văn bản đến, `CN(tên)`, tên người ký. Thể thức PASS ≠ nội dung đúng — hai tầng kiểm khác nhau.
 18. **Người soạn thảo trong dòng Lưu = CHUYÊN VIÊN phụ trách lĩnh vực, KHÔNG mặc định CN(Trang)** (cùng vụ 09/7/2026): tra bảng "Chuyên viên ↔ lĩnh vực tham mưu" trong `sct-laocai-org-vn` (vd CCN/KCN → **Lê Quang Trung** → `CN(Trung)`; HHNH → theo bảng; ATTP → theo bảng). `CN(Trang)` CHỈ dùng khi Bạn (PTP) nói rõ tự soạn. Không rõ lĩnh vực của ai → hỏi, không đoán.
 19. **Văn bản đến là PDF (kể cả đã thấy nội dung trong context) → PHẢI chạy `extract_metadata.py` TRƯỚC khi dẫn chiếu số/ngày** (cùng vụ 09/7/2026: context hiển thị "Số: /UBND-KT" trống, đĩa có đủ **857/UBND-KT ngày 08/7/2026**): ô số/ngày trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "văn bản chưa cấp số". Nếu script cũng không đọc được số → để trống và NÓI RÕ với Bạn, không tự điền "số .../...".
+20. **TUYỆT ĐỐI KHÔNG đặt chiều cao dòng cố định `<w:trHeight>` cho bảng nội dung — để dòng tự co theo nội dung** (vụ thật 24/7/2026 — Biên bản thẩm định HHNH Công ty CP thương mại vận tải và tư vấn kỹ thuật, bảng "Lái xe" bị đẩy nguyên khối sang trang sau, trang trước bỏ trắng nửa trang):
+   - **Triệu chứng**: giữa một đề mục (vd `- Lái xe:`) và bảng ngay dưới nó xuất hiện khoảng trắng lớn; bảng nhảy sang trang sau. Nhìn trong Word tưởng là "thừa dòng trống", nhưng soi XML thấy `</w:p><w:tbl>` liền nhau — KHÔNG có paragraph trống nào.
+   - **Nguyên nhân**: mỗi `<w:tr>` bị gán `<w:trHeight w:val="..."/>` (chiều cao tối thiểu cố định) — thường do bê nguyên bảng từ file doanh nghiệp gửi, hoặc do Word ghi lại khi ai đó kéo tay chiều cao dòng. Cộng thêm `<w:cantSplit/>` (không cho tách dòng qua trang), cụm "dòng tiêu đề + dòng dữ liệu đầu tiên" cao hơn phần giấy còn lại → Word đẩy CẢ bảng sang trang mới. Chiều cao cố định còn làm dòng phình thêm dù nội dung ngắn.
+   - **Quy tắc**: Chế độ A (dựng mới) KHÔNG BAO GIỜ ghi `<w:trHeight>`. Chế độ B (sửa mẫu thật / file doanh nghiệp) phải **gỡ sạch `<w:trHeight>` trong mọi bảng nội dung**. **Hai ngoại lệ duy nhất**: (a) **bảng header** (bảng số 1: tên cơ quan ↔ Quốc hiệu) — giữ nguyên như mẫu thật đã kiểm chứng, không đụng; (b) cần chừa chỗ ký tay/điền tay → dùng **paragraph trống trong ô**, KHÔNG dùng `trHeight`.
+   - **Gỡ rồi vẫn hụt** (nội dung ô thật sự cao): siết giãn dòng TRONG Ô BẢNG về giãn đơn — `<w:spacing w:after="0" w:line="300" w:lineRule="exact"/>` cho chữ 13pt (`w:sz` 26), `320` cho chữ 14pt — thay cho 360 của phần thân văn bản. Mốc an toàn: cụm "dòng tiêu đề + dòng dữ liệu đầu" **≤ 6 cm** thì luôn bám được vào cuối trang trước. Giữ nguyên `<w:cantSplit/>`; KHÔNG gỡ cantSplit để "cho nó tự tách" — dòng bị xẻ đôi qua trang còn xấu hơn khoảng trắng.
+   - **Lệnh gỡ nhanh (Chế độ B, đúng 1 bảng theo chỉ số, 0-based)**:
+     ```python
+     import re
+     p = 'unpacked/word/document.xml'; idx = 3          # bảng thứ 4
+     x = open(p, encoding='utf-8').read()
+     s = [m.start() for m in re.finditer(r'<w:tbl>', x)][idx]
+     e = [m.end()   for m in re.finditer(r'</w:tbl>', x)][idx]
+     seg = re.sub(r'<w:trHeight[^/]*/>', '', x[s:e])                       # gỡ chiều cao cố định
+     seg = seg.replace('w:line="360"', 'w:line="300"')                     # (nếu cần) siết giãn dòng trong ô
+     open(p, 'w', encoding='utf-8').write(x[:s] + seg + x[e:])
+     ```
+   - **QA bắt buộc**: `check_document.py` nhóm **[F]** đếm `<w:trHeight>` theo từng bảng — bảng số 2 trở đi phải bằng 0. Sau render, soi ảnh ghép: không trang nào được kết thúc bằng một đề mục rồi bỏ trắng quá 3 dòng.
 
 ## Demo có sẵn
 

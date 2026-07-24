@@ -1,5 +1,25 @@
 # CHANGELOG — plugin vbhc-vn
 
+## v2.4.0 — 24/7/2026 (Quy tắc 20: cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung)
+
+### Vấn đề thật
+Biên bản thẩm định hồ sơ cấp Giấy phép vận chuyển HHNH loại 2 (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 24/7/2026): trang 4 kết thúc bằng đề mục `- Lái xe:` rồi bỏ trắng gần nửa trang, bảng danh sách lái xe nhảy nguyên khối sang trang 5. Soi XML: `</w:p><w:tbl>` liền nhau, KHÔNG có paragraph trống — thủ phạm là `<w:trHeight>` gán cứng cho từng dòng (tiêu đề 1623 twip, mỗi dòng dữ liệu 2002 twip) cộng `<w:cantSplit/>`, làm cụm "dòng tiêu đề + dòng dữ liệu đầu" cao ~7 cm, vượt phần giấy còn lại nên Word đẩy cả bảng sang trang mới.
+
+### Khắc phục đã áp dụng và chuẩn hóa thành quy tắc
+- Gỡ sạch `<w:trHeight>` trong bảng → dòng tự co theo nội dung.
+- Siết giãn dòng trong ô bảng từ 360 exact (18pt, chuẩn thân văn bản) về **300 exact (15pt) cho chữ 13pt**, 320 cho chữ 14pt.
+- Kết quả: cụm "tiêu đề + dòng 1" từ 6,96 cm còn 5,89 cm; bảng bám ngay dưới đề mục, hết khoảng trắng; giữ nguyên `<w:cantSplit/>` để không xẻ đôi dòng qua trang.
+
+### SKILL.md
+- **Quy tắc 20 mới** (nhóm anti-error): cấm `<w:trHeight>` ở Chế độ A; Chế độ B phải gỡ sạch khi sửa mẫu thật/file doanh nghiệp. Hai ngoại lệ: bảng header (bảng 1) giữ nguyên theo mẫu thật; chừa chỗ ký/điền tay thì dùng paragraph trống trong ô. Kèm mốc an toàn ≤ 6 cm cho cụm "tiêu đề + dòng 1" và đoạn code gỡ nhanh theo chỉ số bảng.
+- Frontmatter: bổ sung "chiều cao dòng bảng" vào danh mục tiêu chí QA.
+
+### Script
+- `scripts/check_document.py`: thêm **nhóm [F]** — hàm `find_fixed_row_heights()` quét bảng cấp ngoài cùng, đếm `<w:trHeight>` theo từng bảng; bảng 1 (header) chỉ báo INFO, bảng 2 trở đi báo LỖI và đưa vào `has_critical` (fail `--strict`). In luôn hướng khắc phục.
+
+### Reference
+- `reference/phong-tranh-sai-lam.md`: thêm 1 dòng checklist trước khi trình ký, 2 dòng "bắt lỗi ngay khi đang hình thành" ([F-trHeight]), cập nhật mô tả phạm vi dò của `check_document.py`.
+
 ## v2.1.0 — 06/7/2026 (QA MỘT PHÁT — cắt thời gian hoàn thành 1 văn bản)
 
 ### Vấn đề

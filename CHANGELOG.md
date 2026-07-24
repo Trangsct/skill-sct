@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-24 (bổ sung) — vbhc-vn v2.4.0: Quy tắc 20 — cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung
+
+- **Vụ thật:** Biên bản thẩm định hồ sơ cấp Giấy phép vận chuyển HHNH loại 2 (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 24/7/2026) — trang 4 kết bằng đề mục `- Lái xe:` rồi bỏ trắng gần nửa trang, bảng lái xe nhảy nguyên khối sang trang 5. Không hề có paragraph trống: thủ phạm là `<w:trHeight>` gán cứng từng dòng (1623 và 2002 twip) cộng `<w:cantSplit/>` → cụm "dòng tiêu đề + dòng dữ liệu đầu" cao ~7 cm, vượt phần giấy còn lại.
+- **Quy tắc 20 (mới):** Chế độ A không bao giờ ghi `<w:trHeight>`; Chế độ B phải gỡ sạch khi sửa mẫu thật hoặc file doanh nghiệp gửi. Ngoại lệ: bảng header (bảng 1) giữ nguyên theo mẫu thật; chừa chỗ ký/điền tay thì dùng paragraph trống trong ô. Còn hụt thì siết giãn dòng trong ô về `w:line="300"` exact (chữ 13pt) / `320` (14pt), giữ nguyên `<w:cantSplit/>`. Mốc an toàn: cụm "tiêu đề + dòng 1" ≤ 6 cm.
+- **`check_document.py` nhóm [F] mới:** quét bảng cấp ngoài cùng, đếm `<w:trHeight>` theo từng bảng; bảng 1 báo INFO, bảng 2 trở đi báo LỖI và fail `--strict`.
+- Cập nhật `reference/phong-tranh-sai-lam.md` (checklist + 2 dòng bắt lỗi sớm), frontmatter SKILL.md, `plugin.json` v2.4.0.
+
 ## 2026-07-24 — qlks-sct-vn v1.2.0: chế độ thống kê, kê khai, báo cáo sản lượng khoáng sản (CV 5141/SNNMT-KS)
 
 - Chắt lọc **CV 5141/SNNMT-KS ngày 29/12/2025** của Sở Nông nghiệp và Môi trường thành reference 14 mới. Điểm cốt lõi với Sở Công Thương: **SCT là nơi nhận báo cáo định kỳ của mỏ nhóm I** (cả GP Bộ NNMT cấp và GP Chủ tịch UBND tỉnh cấp) và nước nóng - nước khoáng thiên nhiên tỉnh cấp; nhóm II/III/IV đi luồng Sở Xây dựng. Hạn nộp trước **15/02** hằng năm, Mẫu 05/06/07/08 Phụ lục IV TT 36/2025/TT-BNNMT, báo cáo định kỳ đã tích hợp báo cáo thống kê trữ lượng.

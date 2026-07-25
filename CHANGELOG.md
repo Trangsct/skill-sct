@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 — marketplace.json v2.0.0: đồng bộ đủ 18 plugin, khớp version tuyệt đối
+
+- **Nguyên nhân marketplace trên claude.ai thiếu plugin:** claude.ai chỉ đọc `.claude-plugin/marketplace.json`, không tự quét thư mục. File này mới liệt kê 12/18 plugin (thiếu `bpb-sct-vn`, `dacn-sct-vn`, `pccc-sct-vn`, `quy-hoach-ct-vn`, `sct-laocai-org-vn`, `vbhc-pdf-reader-vn`) và lệch version 5 entry (`hnh` 1.3.0≠1.5.2, `kccn` 1.6.0≠1.9.0, `qlks` 1.1.0≠1.3.1, `tkm` 1.2.0≠1.3.1, `vbhc` 2.2.0≠2.6.0).
+- **Sửa:** tái tạo toàn bộ mảng `plugins` TỰ ĐỘNG từ `<thư mục>/.claude-plugin/plugin.json` của cả 18 plugin — name/source/description/version lấy nguyên gốc, không gõ tay. Đã validate: 18/18 plugin.json hợp lệ, description ≤ 500; 18/18 SKILL.md description ≤ 1024 (bpb dùng YAML gấp dòng `>-`, 1016 ký tự); name khớp tên thư mục.
+- **Quy tắc mới (chống tái diễn):** mỗi lần nâng version một plugin phải chạy lại khối lệnh đồng bộ marketplace (xem mục validate trong README) hoặc yêu cầu Claude "đồng bộ marketplace.json" trước khi push; entry marketplace KHÔNG bao giờ sửa tay.
+
 ## 2026-07-25 (bổ sung 3) — kccn-sct-vn v1.9.0: ref 19 qua GATE, phát hiện 3 nội dung gán sai cho NQ 34
 
 Bạn cung cấp bản gốc NQ 34-NQ/TU và KH 134/KH-UBND — ref 19 nay đã qua GATE, hoàn tất cả 3 reference merge hôm nay.

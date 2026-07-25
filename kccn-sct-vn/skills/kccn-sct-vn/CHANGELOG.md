@@ -81,6 +81,14 @@ Reference 12 v1.1.0 suy tên xã từ tên KCN, SAI so với Phụ lục II QĐ 
 ### Không merge (chủ đích)
 - Reference 15, 18 (hiện trạng lấp đầy/tiến độ theo Báo cáo 18/6/2026) và các bảng lấp đầy trong reference 12 skill cũ: giữ nguyên tắc plugin "hiện trạng là số liệu tĩnh — HỎI Bạn", tránh dùng số liệu lỗi thời khi soạn văn bản.
 - Reference 11 (NQ 34/KH 134), 13 (suất vốn chi tiết), 14 (NQ 26) skill cũ: cân nhắc merge đợt sau nếu cần.
+  **[Cập nhật 25/7/2026]** Thư mục `kcn-ccn-vn/` đã được XOÁ khỏi nhánh main (xem CHANGELOG gốc repo). Ba reference tồn đọng nêu trên vẫn nằm nguyên trong lịch sử git, lấy lại bằng:
+  ```bash
+  git show 07dd33e:kcn-ccn-vn/references/11-nq34-kh134.md        > /tmp/11-nq34-kh134.md
+  git show 07dd33e:kcn-ccn-vn/references/13-suat-von-dau-tu.md   > /tmp/13-suat-von-dau-tu.md
+  git show 07dd33e:kcn-ccn-vn/references/14-nq26-nhiem-vu-2026.md > /tmp/14-nq26.md
+  git show 07dd33e --stat        # xem toàn bộ 23 file bản cũ
+  ```
+  ⚠️ Khi merge lại phải RÀ SỐ LIỆU TRƯỚC: bảng suất vốn ref 13 cũ lập theo **QĐ 409/QĐ-BXD (2025)**, đã có **QĐ 425/QĐ-BXD ngày 30/3/2026** thay thế (xem ref 07 mục suất vốn). Ref 14 (NQ 26) là bản OCR, mọi số liệu chỉ tiêu phải đối chiếu bản gốc.
 
 ## v1.1.0 — 2026-07-05
 - Sửa lỗi nghiêm trọng quy trình Điều 10 NĐ 32/2024; bổ sung bài học thực tế KCN Phú Xuân, CCN Tân Nguyên, Minh Quân, Y Can.

@@ -2,7 +2,7 @@
 
 Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công việc tham mưu tại Phòng Quản lý Công nghiệp.
 
-> **Từ 25/7/2026: toàn bộ 18 plugin đều theo chuẩn plugin** — mỗi thư mục có `.claude-plugin/plugin.json` ở gốc và nội dung skill nằm tại `skills/<tên>/`. Không còn thư mục nào để `SKILL.md` ở gốc, trừ `kcn-ccn-vn` (bản cũ đã được thay bằng `kccn-sct-vn`, giữ để tra lịch sử, không cài).
+> **Từ 25/7/2026: toàn bộ 18 plugin đều theo chuẩn plugin** — mỗi thư mục có `.claude-plugin/plugin.json` ở gốc và nội dung skill nằm tại `skills/<tên>/`. Không còn thư mục nào để `SKILL.md` ở gốc. Thư mục `kcn-ccn-vn` (bản cũ) đã xoá ngày 25/7/2026, khôi phục từ commit `07dd33e` nếu cần.
 
 | Plugin | Nội dung |
 |---|---|

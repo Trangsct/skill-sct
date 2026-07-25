@@ -1,5 +1,25 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 (bổ sung) — Xoá thư mục `kcn-ccn-vn` (bản cũ đã được thay bằng `kccn-sct-vn`)
+
+Sau khi đối chiếu nội dung, xoá `kcn-ccn-vn/` khỏi nhánh main. Đây là thư mục duy nhất còn ở dạng skill cũ; **repo nay 100% là plugin (18 plugin)**.
+
+**Căn cứ xoá:**
+- `kccn-sct-vn` đã kế thừa và mở rộng toàn bộ nghiệp vụ: 18 reference (so với 18 bản cũ nhưng viết lại theo NĐ 32/2024 + NĐ 139/2025 + NĐ 178/2026), thêm 6 bộ mẫu văn bản, 13 văn bản gốc, thư mục ví dụ thực tế (21 MB so với 344 KB).
+- **Bản cũ chứa dữ liệu đã lỗi thời, là bẫy trích dẫn sai:** bảng suất vốn (ref 13) lập theo QĐ 409/QĐ-BXD 2025 trong khi đã có **QĐ 425/QĐ-BXD ngày 30/3/2026** thay thế; `15-hien-trang-ccn-bao-cao-18-6-2026.md` và `18-hien-trang-cap-nhat.md` là số liệu hiện trạng — thuộc loại đã chốt nguyên tắc KHÔNG tra trong skill vì dễ lỗi thời.
+- Trùng trigger với `kccn-sct-vn` nếu vô tình cài song song, vi phạm nguyên tắc single source of truth.
+- Nhu cầu "tra lịch sử" đã được git phục vụ đầy đủ, không cần giữ thư mục sống.
+
+**Khôi phục bất cứ lúc nào** — toàn bộ 23 file nằm tại commit `07dd33e` (02/7/2026):
+
+```bash
+git show 07dd33e --stat                                    # xem danh sách file
+git show 07dd33e:kcn-ccn-vn/references/14-nq26-nhiem-vu-2026.md   # đọc 1 file
+git checkout 07dd33e -- kcn-ccn-vn                         # phục hồi cả thư mục
+```
+
+Ba reference `kccn-sct-vn` từng hoãn merge (11 NQ 34/KH 134, 13 suất vốn chi tiết, 14 NQ 26) đã được ghi lệnh lấy lại kèm cảnh báo rà số liệu vào `kccn-sct-vn/skills/kccn-sct-vn/CHANGELOG.md`.
+
 ## 2026-07-25 — Chuyển 5 skill cuối cùng sang chuẩn plugin + sửa lỗi description > 500 ký tự
 
 **Hoàn tất chuyển đổi:** từ nay 100% skill trong repo (18 plugin) đều theo chuẩn `.claude-plugin/plugin.json` + `skills/<tên>/`, không còn thư mục để SKILL.md ở gốc.

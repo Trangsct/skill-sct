@@ -2,6 +2,8 @@
 
 Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công việc tham mưu tại Phòng Quản lý Công nghiệp.
 
+> **Từ 25/7/2026 (chiều): bộ plugin tách thành 2 marketplace.** Marketplace `skill-sct` đã cài trên claude.ai chỉ cập nhật nội dung 12 plugin có sẵn từ lần Add đầu, KHÔNG nạp thêm entry mới (đã thử nâng version, đổi thứ tự, Remove → Add lại). Repo này giữ 12 plugin đang chạy ổn định; 6 plugin `bpb-sct-vn`, `dacn-sct-vn`, `pccc-sct-vn`, `quy-hoach-ct-vn`, `sct-laocai-org-vn`, `vbhc-pdf-reader-vn` chuyển sang repo [`skill-sct-2`](https://github.com/Trangsct/skill-sct-2) — trên claude.ai Add cả 2 marketplace. Thư mục 6 plugin đó tạm giữ tại đây tới khi skill-sct-2 chạy ổn định, sau đó xóa (khôi phục từ lịch sử git nếu cần); từ nay mọi cập nhật 6 plugin này CHỈ làm ở skill-sct-2.
+
 > **Từ 25/7/2026: toàn bộ 18 plugin đều theo chuẩn plugin** — mỗi thư mục có `.claude-plugin/plugin.json` ở gốc và nội dung skill nằm tại `skills/<tên>/`. Không còn thư mục nào để `SKILL.md` ở gốc. Thư mục `kcn-ccn-vn` (bản cũ) đã xoá ngày 25/7/2026, khôi phục từ commit `07dd33e` nếu cần.
 
 | Plugin | Nội dung |

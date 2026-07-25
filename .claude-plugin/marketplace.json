@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Bộ 18 plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai: VBHC, bài phát biểu, HHNH, VLNCN (huấn luyện/kho/sử dụng/xử phạt), hóa chất, khoáng sản, thiết kế mỏ, KCN/CCN, quy hoạch, môi trường, xây dựng, PCCC, dự án công nghiệp, tổ chức bộ máy, đọc PDF.",
-    "version": "2.0.0"
+    "version": "2.0.1"
   },
   "plugins": [
     {
       "name": "bpb-sct-vn",
       "source": "./bpb-sct-vn",
       "description": "Soạn bài phát biểu, tham luận, diễn văn cho Giám đốc và lãnh đạo Sở Công Thương tỉnh Lào Cai theo phong cách đã duyệt: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, định dạng docx Times New Roman 15pt. Kèm 11 bài mẫu gốc của Sở và script build_bpb.py.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "bvmt-sct-vn",
@@ -24,7 +24,7 @@
       "name": "dacn-sct-vn",
       "source": "./dacn-sct-vn",
       "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo Nghị quyết 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (7/2026): tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20 gửi Sở Tài chính; kịch bản tăng trưởng.",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "name": "hc-sct-vn",
@@ -60,7 +60,7 @@
       "name": "pccc-sct-vn",
       "source": "./pccc-sct-vn",
       "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương tỉnh Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025, kiểm tra nghiệm thu, kiểm tra định kỳ Phụ lục II, phân loại Phụ lục I-II-III, phân ranh giới với Sở Xây dựng - Công an - BQL KKT - xã, lộ trình Điều 43 và giải pháp kỹ thuật công trình hiện hữu theo QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT, CV 7432/UBND-XD. Cập nhật 7/2026, 15 reference kèm văn bản gốc.",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "name": "qlks-sct-vn",
@@ -72,13 +72,13 @@
       "name": "quy-hoach-ct-vn",
       "source": "./quy-hoach-ct-vn",
       "description": "Cẩm nang quy hoạch 04 ngành Công Thương tỉnh Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Xác định dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch không và thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối - gió - mặt trời, trạm biến áp và đường dây 500/220/110 kV, khu vực khoáng sản nhóm I-IV. Nguồn: QĐ 525/QĐ-UBND, QĐ 768/QĐ-TTg (Điện VIII), QĐ 866 và QĐ 1626/QĐ-TTg, kèm toàn văn.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "sct-laocai-org-vn",
       "source": "./sct-laocai-org-vn",
       "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Dùng để xác định PGĐ phụ trách lĩnh vực, trình ai, ai ký, ghi đúng dòng Lưu VT CN(tên), phòng chủ trì - phối hợp. Nguồn chuẩn duy nhất về nhân sự cho toàn hệ sinh thái plugin.",
-      "version": "2.0.1"
+      "version": "2.0.2"
     },
     {
       "name": "sd-vlncn-sct-vn",
@@ -96,7 +96,7 @@
       "name": "vbhc-pdf-reader-vn",
       "source": "./vbhc-pdf-reader-vn",
       "description": "Lính gác (sentinel) đọc PDF văn bản hành chính Việt Nam: chạy ngay khi nhận PDF văn bản nhà nước để trích chính xác số văn bản, ngày ban hành, cơ quan, người ký, trích yếu, nơi nhận bằng scripts/extract_metadata.py. Khắc phục lỗi kinh điển: PDF layout 2 cột có text-box độc lập cho số và ngày, khi nạp vào context thường trống hoặc nối sai dẫn tới viện dẫn sai. Script đồng bộ một bản duy nhất với plugin vbhc-vn.",
-      "version": "2.0.0"
+      "version": "2.0.1"
     },
     {
       "name": "vbhc-vn",

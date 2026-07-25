@@ -4,15 +4,27 @@
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
   "metadata": {
-    "description": "Marketplace 1/2 bộ plugin Sở Công Thương Lào Cai (12 plugin đã cài ổn định): môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng. 6 plugin còn lại tại marketplace skill-sct-2.",
-    "version": "3.0.0"
+    "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 18 plugin: môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
+    "version": "4.0.0"
   },
   "plugins": [
+    {
+      "name": "bpb-sct-vn",
+      "source": "./bpb-sct-vn",
+      "description": "Soạn bài phát biểu, tham luận, diễn văn cho Giám đốc và lãnh đạo Sở Công Thương tỉnh Lào Cai theo phong cách đã duyệt: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, định dạng docx Times New Roman 15pt. Kèm 11 bài mẫu gốc của Sở và script build_bpb.py.",
+      "version": "1.0.2"
+    },
     {
       "name": "bvmt-sct-vn",
       "source": "./bvmt-sct-vn",
       "description": "Chuyên gia QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương tỉnh Lào Cai: tham gia thẩm định ĐTM/GPMT/đăng ký môi trường (phân loại nhóm I-IV, đối tượng, ngưỡng, trình tự, thẩm quyền theo Luật 146/2025 + NĐ 48/2026); đóng cửa mỏ - cải tạo phục hồi; BVMT KCN/CCN, bãi gyps Tằng Loỏng; KNK/MRV/các-bon; sự cố chất thải - hóa chất; xử phạt; cắt giảm TTHC; Chỉ thị 26-CT/TU. Vai trò PHỐI HỢP của SCT, chủ trì thuộc Sở NN&MT.",
       "version": "1.1.0"
+    },
+    {
+      "name": "dacn-sct-vn",
+      "source": "./dacn-sct-vn",
+      "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo Nghị quyết 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (7/2026): tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20 gửi Sở Tài chính; kịch bản tăng trưởng.",
+      "version": "1.1.2"
     },
     {
       "name": "hc-sct-vn",
@@ -45,10 +57,28 @@
       "version": "1.5.0"
     },
     {
+      "name": "pccc-sct-vn",
+      "source": "./pccc-sct-vn",
+      "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương tỉnh Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025, kiểm tra nghiệm thu, kiểm tra định kỳ Phụ lục II, phân loại Phụ lục I-II-III, phân ranh giới với Sở Xây dựng - Công an - BQL KKT - xã, lộ trình Điều 43 và giải pháp kỹ thuật công trình hiện hữu theo QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT, CV 7432/UBND-XD. Cập nhật 7/2026, 15 reference kèm văn bản gốc.",
+      "version": "1.1.2"
+    },
+    {
       "name": "qlks-sct-vn",
       "source": "./qlks-sct-vn",
       "description": "Quản lý nhà nước về khoáng sản - Sở Công Thương tỉnh Lào Cai: phân vai liên ngành (TT 37/2025, Chỉ thị 11-CT/TU); kế hoạch quản lý rủi ro (TT 24/2025); GCN kỹ thuật an toàn khai thác hầm lò (TT 43/2025); chế biến và nguồn gốc khoáng sản; đối chiếu VLNCN - sản lượng; rà chồng lấn khi thẩm định dự án, CCN; thống kê - kê khai - báo cáo định kỳ theo CV 5141/SNNMT-KS và TT 36/2025/TT-BNNMT. Khung: Luật 54/2024, 147/2025, NĐ 193/2025, 21/2026.",
       "version": "1.3.1"
+    },
+    {
+      "name": "quy-hoach-ct-vn",
+      "source": "./quy-hoach-ct-vn",
+      "description": "Cẩm nang quy hoạch 04 ngành Công Thương tỉnh Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Xác định dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch không và thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối - gió - mặt trời, trạm biến áp và đường dây 500/220/110 kV, khu vực khoáng sản nhóm I-IV. Nguồn: QĐ 525/QĐ-UBND, QĐ 768/QĐ-TTg (Điện VIII), QĐ 866 và QĐ 1626/QĐ-TTg, kèm toàn văn.",
+      "version": "1.0.2"
+    },
+    {
+      "name": "sct-laocai-org-vn",
+      "source": "./sct-laocai-org-vn",
+      "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Dùng để xác định PGĐ phụ trách lĩnh vực, trình ai, ai ký, ghi đúng dòng Lưu VT CN(tên), phòng chủ trì - phối hợp. Nguồn chuẩn duy nhất về nhân sự cho toàn hệ sinh thái plugin.",
+      "version": "2.0.3"
     },
     {
       "name": "sd-vlncn-sct-vn",
@@ -61,6 +91,12 @@
       "source": "./tkm-sct-vn",
       "description": "Thẩm định thiết kế mỏ khoáng sản - Sở Công Thương tỉnh Lào Cai, kinh nghiệm 20 năm (2006-2026): khung pháp lý 6 thời kỳ TT 03/2007 đến TT 31/2025/TT-BCT kèm toàn văn 10 Phụ lục; GATE chọn căn cứ theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp khoản 5 Điều 76 NĐ 217/2026; bản đồ rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template; liên kết trọn vòng đời dự án mỏ.",
       "version": "1.3.1"
+    },
+    {
+      "name": "vbhc-pdf-reader-vn",
+      "source": "./vbhc-pdf-reader-vn",
+      "description": "Lính gác (sentinel) đọc PDF văn bản hành chính Việt Nam: chạy ngay khi nhận PDF văn bản nhà nước để trích chính xác số văn bản, ngày ban hành, cơ quan, người ký, trích yếu, nơi nhận bằng scripts/extract_metadata.py. Khắc phục lỗi kinh điển: PDF layout 2 cột có text-box độc lập cho số và ngày, khi nạp vào context thường trống hoặc nối sai dẫn tới viện dẫn sai. Script đồng bộ một bản duy nhất với plugin vbhc-vn.",
+      "version": "2.0.2"
     },
     {
       "name": "vbhc-vn",

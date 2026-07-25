@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 (tối) — Hủy phương án tách đôi, gộp về MỘT marketplace: `marketplace.json` v4.0.0 đủ 18 plugin
+
+- **Lý do:** vận hành song song hai marketplace (`skill-sct` 12 plugin + `skill-sct-2` 6 plugin) gây rối khi quản lý — hai nơi cập nhật, dễ lệch phiên bản, đã phát sinh tình trạng plugin trùng tên giữa bản cài từ marketplace và bản upload tay. Quyết định quay về một đầu mối duy nhất.
+- `marketplace.json` v4.0.0: tái tạo TỰ ĐỘNG toàn bộ mảng `plugins` từ 18 file `<thư mục>/.claude-plugin/plugin.json` (đúng quy tắc "không sửa tay entry"). 12 entry cũ giữ nguyên version, thêm lại 6 entry: `bpb-sct-vn` 1.0.2, `dacn-sct-vn` 1.1.2, `pccc-sct-vn` 1.1.2, `quy-hoach-ct-vn` 1.0.2, `sct-laocai-org-vn` 2.0.3, `vbhc-pdf-reader-vn` 2.0.2.
+- Không phải copy file nào: 6 thư mục plugin vẫn nằm sẵn trong repo này từ lần tách và đã đối chiếu `diff -rq` với `skill-sct-2` — **giống hệt từng byte**, không có thay đổi nội dung ở repo kia cần mang về.
+- Đã chạy `claude plugin validate --strict` cho marketplace và cả 18 plugin: pass toàn bộ.
+- **Repo `skill-sct-2` ngừng sử dụng**, sẽ xóa trên GitHub; marketplace `skill-sct-2` trên claude.ai gỡ bỏ. Từ nay mọi cập nhật 18 plugin CHỈ làm tại repo này.
+- **Bước bắt buộc trên claude.ai sau khi gộp:** Remove → Add lại marketplace `skill-sct` (marketplace đã cài không nạp entry mới). Nếu Add lại vẫn thiếu 6 plugin, dùng Local uploads cho 6 plugin đó — hạn chế đã biết của claude.ai, không phải lỗi repo.
+- Quy tắc "mỗi marketplace giữ ≤ 12 plugin" đặt ra buổi chiều nay bị bãi bỏ theo quyết định gộp.
+
 ## 2026-07-25 (chiều) — Tách 2 marketplace: skill-sct v3.0.0 giữ 12 plugin đang chạy, skill-sct-2 nhận 6 plugin chưa vào được
 
 - **Nguyên nhân chốt hạ sau chuỗi chẩn đoán:** marketplace đã cài trên claude.ai chỉ cập nhật nội dung các plugin có sẵn từ lần Add đầu tiên, KHÔNG nạp entry mới thêm vào sau. Bằng chứng: 12 plugin gốc (bvmt, hc, hl, hnh, kccn, kho, qlks, sd, tkm, vbhc, xd, xp) luôn hiện và nhận cập nhật nội dung; 6 plugin bổ sung sau (bpb, dacn, pccc, quy-hoach-ct, sct-laocai-org, vbhc-pdf-reader) không bao giờ xuất hiện dù đã: đủ 18 entry hợp lệ (v2.0.0), nâng version 2 nhịp (v2.0.1-2.0.2), đảo lên đầu danh sách (v2.0.3), gỡ skill tải tay trùng tên, Remove → Add lại marketplace. Các giả thuyết description >500, đường dẫn ngoài ASCII đã loại trừ bằng số liệu.

@@ -1,4 +1,48 @@
-# CHANGELOG — kccn-sct-vn
+# CHANGELOG
+## v1.8.0 — 25/7/2026: Merge 03 reference tồn đọng từ skill cũ, có kiểm chứng bản gốc
+
+Hoàn tất việc "cân nhắc merge đợt sau" đã ghi từ v1.0. Ba reference cuối của skill `kcn-ccn-vn` nay đã vào plugin, **đối chiếu bản gốc trước khi merge chứ không bê nguyên**.
+
+### references/21 — NQ 26-NQ/TU (MỚI, đã qua GATE tài liệu gốc)
+
+Đối chiếu bản scan 62 trang bằng OCR tiếng Việt 200 dpi + soi ảnh 300 dpi từng vùng số liệu.
+
+- **Xác nhận định danh:** Số 26-NQ/TU, Tỉnh ủy Lào Cai, ngày 05/12/2025, người ký T/M TỈNH ỦY — BÍ THƯ Trịnh Việt Hùng (trang 13).
+- 🔴 **SỬA LỖI OCR CỦA BẢN CŨ:** mục tiêu tổng quát ghi "tăng trưởng từ **107%** trở lên" — bản gốc là **"từ 10% trở lên"**. Bản cũ tự mâu thuẫn với chính chỉ tiêu (2) "GRDP đạt trên 10%".
+- Xác nhận 28/28 chỉ tiêu khớp bản gốc, gồm chỉ tiêu (14) "72,4 tuổi / 66,5 năm" (OCR máy đọc nhầm thành %, bản cũ đúng).
+- Xác nhận đoạn KCN/CCN mục 3.1 nguyên văn, trong đó **"Quy hoạch điện VIII điều chỉnh"** (OCR đọc nhầm VII).
+- **BỔ SUNG phần bản cũ đã bỏ hoàn toàn:** phụ lục biểu phân công — trích được "Thành lập mới 03 khu công nghiệp: KCN Y Can, KCN Đông An, **KCN Bản Qua**, tháng 12/2026" (khớp văn bản gốc KCN Bản Qua đã có trong plugin) và dòng đầu tư hạ tầng KCN/CCN hạn 12/2026. Cột cơ quan chủ trì/phối hợp/lãnh đạo phụ trách KHÔNG chưng cất (bảng ngang, rủi ro gán sai trách nhiệm) — ghi rõ phải mở PDF gốc trang 18, 24-25.
+- Cảnh báo CCN Bản Phung: NQ 26 nêu tên nhưng nhà đầu tư đã rút hồ sơ 7/2026 — giữ khi trích nguyên văn, loại khỏi bảng theo dõi tiến độ.
+
+### references/20 — Suất vốn đầu tư QĐ 425/QĐ-BXD (MỚI, đã qua GATE tài liệu gốc)
+
+Đọc trực tiếp file gốc QĐ 425/QĐ-BXD ngày 30/3/2026 (công bố suất vốn **năm 2025**).
+
+- Xác nhận 4 con số của bản cũ ĐỀU ĐÚNG: KCN <100ha 9.716; 100-300ha 8.948; >300ha 8.241; CCN 5-75ha 7.611 (triệu đồng/ha). Bổ sung mã hiệu 13300.01-08, cột chi phí xây dựng/thiết bị, và 4 dòng khu đô thị.
+- 🔴 **SỬA LỖI THỰC CHẤT 1:** bản cũ **gộp phạm vi KCN và CCN làm một**. QĐ 425 quy định khác nhau — với KCN "trạm xử lý" nằm trong chi phí xây dựng; với CCN thì không, chỉ có "trạm bơm chuyển bậc" và thiết bị chuyển nước thải *về* trạm xử lý. Bản cũ còn tự thêm "khu điều hành", "chi phí dự phòng" cho CCN.
+- 🔴 **SỬA LỖI THỰC CHẤT 2:** bản cũ liệt kê "chi phí bồi thường, GPMB, tái định cư" là khoản **QĐ 425 không tính vào suất vốn**. Nguyên văn QĐ 425 chỉ có **đúng 03 khoản** và KHÔNG có GPMB — viện dẫn như bản cũ là gán sai văn bản.
+- **BỔ SUNG điều kiện pháp lý bản cũ thiếu hẳn:** Bảng 51 chỉ dùng **khi UBND cấp tỉnh chưa công bố suất vốn riêng**, theo **NĐ 49/2026/NĐ-CP ngày 31/01/2026**. Phải kiểm tra tỉnh đã công bố chưa trước khi áp. Thêm lưu ý suất vốn là bình quân cả nước, áp theo địa giới **trước hợp nhất** (quan trọng với Lào Cai + Yên Bái).
+
+### references/19 — Nội dung NQ 34-NQ/TU + KH 134/KH-UBND (MỚI, CHƯA qua GATE)
+
+- Tách vai rõ với ref 17: ref 19 = **nội dung tĩnh**, ref 17 = **tiến độ động**. Đã loại bỏ toàn bộ "Kết quả Quý I/2026" của bản cũ (số liệu đã lỗi thời).
+- ⚠️ **Bản gốc NQ 34 và KH 134 chưa có trong `van-ban-goc/`** — reference ghi banner cảnh báo ngay đầu file: số liệu chi tiết chưa đối chiếu bản gốc, phải kiểm trước khi trình ký. Khi có bản gốc, bổ sung và cập nhật lại.
+
+### Phát hiện chéo: mâu thuẫn chỉ tiêu XLNT
+
+Chỉ tiêu tỷ lệ KCN có hệ thống xử lý nước thải tập trung: **KH 134 đặt 100%**, **NQ 26 đặt 41,7%**. Hai văn bản khác phạm vi, không được trộn. Đã ghi cảnh báo chéo ở cả ref 19, ref 21 và dẫn tới ref 17 mục VII.
+
+### Văn bản gốc bổ sung (`van-ban-goc/`)
+
+- `NQ-26-NQ-TU-05-12-2025.pdf` — bản scan 62 trang, đã nén từ 44 MB xuống 8,7 MB (ảnh xám, cạnh dài 1400 px), kiểm chứng lại sau nén vẫn đọc sạch số/ngày/người ký.
+- `NQ-26-NQ-TU-05-12-2025-OCR.txt` — bản OCR toàn văn theo trang để tra nhanh, kèm cảnh báo không dùng để viện dẫn số liệu.
+- `QD-425-QD-BXD-30-3-2026-suat-von-dau-tu.docx`.
+
+### Khác
+
+- SKILL.md: bảng reference 18 → **21 mục**; frontmatter description thêm từ khoá suất vốn đầu tư, QĐ 425, NQ 34, KH 134, NQ 26 (1015/1024 ký tự).
+- `plugin.json` v1.7.0 → **v1.8.0**, description 488/500 ký tự.
+ — kccn-sct-vn
 
 ## v1.7.0 — 2026-07-23 (Nghị định 178/2026/NĐ-CP — tài sản kết cấu hạ tầng CCN)
 

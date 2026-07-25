@@ -1,5 +1,25 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 (bổ sung 2) — kccn-sct-vn v1.8.0: merge 03 reference tồn đọng, kiểm chứng bản gốc
+
+Hoàn tất mục "cân nhắc merge đợt sau" tồn từ v1.0 của `kccn-sct-vn`. Ba reference cuối của skill `kcn-ccn-vn` (đã xoá sáng nay) nay vào plugin dưới dạng **references/19, 20, 21** — nhưng **đối chiếu bản gốc trước khi merge**, không bê nguyên.
+
+**Kết quả kiểm chứng — 3 lỗi thật trong bản cũ:**
+
+| Lỗi | Bản cũ | Bản gốc |
+|---|---|---|
+| NQ 26 — mục tiêu tăng trưởng | "từ **107%** trở lên" (lỗi OCR) | **"từ 10% trở lên"** |
+| QĐ 425 — phạm vi chi phí | Gộp chung KCN và CCN | Khác nhau: trạm XLNT nằm trong chi phí xây dựng của KCN, KHÔNG của CCN |
+| QĐ 425 — chi phí chưa tính | Liệt kê 4 khoản, có GPMB | Đúng **03 khoản**, KHÔNG có GPMB |
+
+**Bổ sung mới:** phụ lục NQ 26 (thành lập mới 03 KCN Y Can, Đông An, Bản Qua hạn 12/2026 — bản cũ bỏ hoàn toàn); điều kiện dùng Bảng 51 theo NĐ 49/2026/NĐ-CP khi UBND tỉnh chưa công bố suất vốn riêng; mã hiệu 13300.01-08 và cơ cấu chi phí xây dựng/thiết bị.
+
+**Phát hiện chéo:** chỉ tiêu KCN có XLNT tập trung — KH 134 đặt **100%**, NQ 26 đặt **41,7%**; đã ghi cảnh báo chéo ở cả 3 reference để không bị trộn khi soạn báo cáo.
+
+**Còn treo:** ref 19 (NQ 34/KH 134) chưa qua GATE vì chưa có bản gốc trong `van-ban-goc/` — đã ghi banner cảnh báo đầu file.
+
+Văn bản gốc bổ sung: NQ 26 bản scan nén 44 MB → 8,7 MB + bản OCR toàn văn; QĐ 425/QĐ-BXD.
+
 ## 2026-07-25 (bổ sung) — Xoá thư mục `kcn-ccn-vn` (bản cũ đã được thay bằng `kccn-sct-vn`)
 
 Sau khi đối chiếu nội dung, xoá `kcn-ccn-vn/` khỏi nhánh main. Đây là thư mục duy nhất còn ở dạng skill cũ; **repo nay 100% là plugin (18 plugin)**.

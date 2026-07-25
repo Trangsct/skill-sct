@@ -1,6 +1,6 @@
 {
   "name": "vbhc-pdf-reader-vn",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Lính gác (sentinel) đọc PDF văn bản hành chính Việt Nam: chạy ngay khi nhận PDF văn bản nhà nước để trích chính xác số văn bản, ngày ban hành, cơ quan, người ký, trích yếu, nơi nhận bằng scripts/extract_metadata.py. Khắc phục lỗi kinh điển: PDF layout 2 cột có text-box độc lập cho số và ngày, khi nạp vào context thường trống hoặc nối sai dẫn tới viện dẫn sai. Script đồng bộ một bản duy nhất với plugin vbhc-vn.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

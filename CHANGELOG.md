@@ -1,5 +1,19 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 (bổ sung 3) — kccn-sct-vn v1.9.0: ref 19 qua GATE, phát hiện 3 nội dung gán sai cho NQ 34
+
+Bạn cung cấp bản gốc NQ 34-NQ/TU và KH 134/KH-UBND — ref 19 nay đã qua GATE, hoàn tất cả 3 reference merge hôm nay.
+
+**Lỗi nặng nhất:** bản chưng cất cũ gán cho NQ 34 ba mục tiêu *"45,3% GRDP năm 2030"*, *"tăng trưởng GRDP 11%/năm"*, *"tỉnh phát triển khá vùng Trung du và Miền núi phía Bắc"*. Rà toàn văn 5 trang: **không có cụm nào trong số đó xuất hiện**. NQ 34 chỉ nói "tăng trưởng kinh tế trên 10% năm 2026". Nhiều khả năng thuộc Đề án 08 hoặc NQ Đại hội Đảng bộ tỉnh. Đã loại bỏ.
+
+**Bẫy đọc file:** số và ngày của KH 134 hiển thị TRỐNG khi nạp PDF vào context, phải đọc từ đĩa mới ra "Số: 134/KH-UBND — ngày 26/3/2026". Đúng kịch bản `vbhc-pdf-reader-vn`. Tên file "trình ký ngày 24/3/2026" là ngày trình ký, không phải ngày ban hành.
+
+**Cờ đỏ trong bản gốc:** KH 134 ban hành 26/3/2026 nhưng viện dẫn QĐ 1955/QĐ-UBND "ngày 19/6/2026" — sau 3 tháng, nghi lỗi đánh máy, không viện dẫn cho tới khi tra được bản gốc.
+
+**Bổ sung:** 07 mục tiêu NQ 34 đầy đủ (bản cũ thiếu chỉ tiêu 06 KCN + 20 CCN đang hoạt động và tỷ lệ lấp đầy KCN >70%/CCN 60-70%); vốn KH 134 khái toán 7.080 tỷ (NSNN 1.280 + DN 5.800); 10 đầu mối, SCT là cơ quan thường trực; phân biệt 2 mốc báo cáo ngày 20 và ngày 25.
+
+Người ký đã xác nhận: NQ 34 — PBT Thường trực **Hoàng Giang**; KH 134 — PCT **Nguyễn Thế Phước**.
+
 ## 2026-07-25 (bổ sung 2) — kccn-sct-vn v1.8.0: merge 03 reference tồn đọng, kiểm chứng bản gốc
 
 Hoàn tất mục "cân nhắc merge đợt sau" tồn từ v1.0 của `kccn-sct-vn`. Ba reference cuối của skill `kcn-ccn-vn` (đã xoá sáng nay) nay vào plugin dưới dạng **references/19, 20, 21** — nhưng **đối chiếu bản gốc trước khi merge**, không bê nguyên.

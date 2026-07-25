@@ -1,4 +1,51 @@
 # CHANGELOG
+## v1.9.0 — 25/7/2026: ref 19 qua GATE tài liệu gốc, phát hiện 3 nội dung gán sai cho NQ 34
+
+Bạn cung cấp bản gốc NQ 34-NQ/TU và Kế hoạch 134/KH-UBND. Đã GATE cả hai và **viết lại toàn bộ ref 19**.
+
+### Định danh đã kiểm chứng
+
+| | NQ 34-NQ/TU | KH 134/KH-UBND |
+|---|---|---|
+| Cơ quan | Ban Thường vụ Tỉnh ủy Lào Cai | UBND tỉnh Lào Cai |
+| Số, ngày | 34-NQ/TU, 27/12/2025 | 134/KH-UBND, 26/3/2026 |
+| Người ký | T/M BAN THƯỜNG VỤ — PHÓ BÍ THƯ THƯỜNG TRỰC — **Hoàng Giang** | TM. UBND — KT. CHỦ TỊCH — PHÓ CHỦ TỊCH — **Nguyễn Thế Phước** |
+
+### 🔴 LỖI NẶNG NHẤT: 3 nội dung bản cũ GÁN SAI cho NQ 34
+
+Bản chưng cất cũ ghi NQ 34 có các mục tiêu "đến năm 2030 cơ cấu Công nghiệp - Xây dựng chiếm **45,3% GRDP**", "tăng trưởng GRDP bình quân **từ 11%/năm** trở lên", "đưa Lào Cai trở thành **tỉnh phát triển khá** trong vùng Trung du và Miền núi phía Bắc".
+
+Rà toàn văn 5 trang NQ 34: các cụm **"45,3", "11%", "GRDP", "phát triển khá", "Trung du" KHÔNG xuất hiện ở bất kỳ trang nào**. NQ 34 chỉ nói "tăng trưởng kinh tế trên 10% năm 2026". Ba nội dung trên nhiều khả năng thuộc **Đề án 08** (được NQ 34 dẫn chiếu) hoặc NQ Đại hội Đảng bộ tỉnh. **Đã loại khỏi ref 19** kèm cảnh báo tuyệt đối không viện dẫn cùng NQ 34.
+
+### 🔴 BẪY ĐỌC FILE: số và ngày KH 134 bị nuốt khi render
+
+Khi nạp PDF Kế hoạch vào context, dòng số/ngày hiển thị **trống** ("Số: /KH-UBND ... ngày tháng 3 năm 2026"). Đọc từ đĩa bằng `pdftotext -layout` và `extract_metadata.py` cho ra đầy đủ **"Số: 134/KH-UBND — Lào Cai, ngày 26 tháng 3 năm 2026"**. Đúng kịch bản mà `vbhc-pdf-reader-vn` sinh ra để chặn. Tên file ghi "trình ký ngày 24/3/2026" là ngày trình ký, KHÔNG phải ngày ban hành. Đã ghi cảnh báo vào ref 19 mục I và mục sai lầm.
+
+### 🔴 CỜ ĐỎ trong chính bản gốc KH 134
+
+KH ban hành 26/3/2026 nhưng viện dẫn *"Quyết định số 1955/QĐ-UBND **ngày 19/6/2026**; hiện đang triển khai"* — sau ngày ban hành 3 tháng. Nghi lỗi đánh máy (có thể là 19/6/2025). Ref 19 ghi cờ đỏ: không viện dẫn QĐ 1955 kèm ngày này cho tới khi tra được bản gốc.
+
+### Bổ sung nội dung bản cũ thiếu
+
+- **07 mục tiêu 2026 của NQ 34 đầy đủ** — bản cũ thiếu hẳn chỉ tiêu (1) *06 KCN + 20 CCN đang hoạt động* và (6) *tỷ lệ lấp đầy KCN trên 70%, CCN 60-70%*; nay có đủ, kèm tên 02 KCN (Bản Qua, Võ Lao) và 05 CCN (Bảo Minh, Bảo Hưng 2, An Thịnh, Bản Phung, Yên Hợp giai đoạn II).
+- **Vốn đầu tư KH 134:** khái toán **7.080 tỷ đồng** = NSNN 1.280 tỷ + doanh nghiệp 5.800 tỷ, kèm chi tiết 285 tỷ hạ tầng KCN (Tằng Loỏng 70, phía Nam 70, Minh Quân 68, Âu Lâu 77 — QĐ 1902/QĐ-UBND 16/6/2025 và QĐ 2339/QĐ-UBND 12/12/2025), 447 tỷ CCN (VB 1289/UBND-TH 23/02/2026), 3 dự án đường kết nối.
+- **10 đầu mối tổ chức thực hiện**, trong đó **Sở Công Thương là CƠ QUAN THƯỜNG TRỰC**.
+- **Hai mốc báo cáo khác nhau:** trước ngày **20** hằng tháng các sở gửi SCT (KH 134); trước ngày **25** hằng tháng UBND tỉnh báo cáo BTV Tỉnh ủy qua VP Tỉnh ủy (NQ 34).
+- Di dời CCN Đầm Hồng (UBND phường Yên Bái chủ trì, phê duyệt phương án trong 2026); danh sách CCN mở rộng; Tằng Loỏng gắn di dời trên 400 hộ dân.
+
+### Lưu ý nghiệp vụ mới ghi vào ref 19
+
+- **"Yên Hợp giai đoạn II"** trong NQ 34 không khớp hồ sơ thực tế (Yên Hợp, Yên Hợp 1, Yên Hợp 2 là dự án độc lập) — trích nguyên văn thì giữ, soạn nghiệp vụ thì dùng đúng tên theo hồ sơ.
+- **CCN Bản Phung** có tên trong NQ 34 nhưng nhà đầu tư đã rút hồ sơ 7/2026 — loại khỏi bảng theo dõi tiến độ.
+- Bản gốc NQ 34 đánh mục **I → III → IV, không có mục II**; trích theo số mục phải giữ đúng.
+- Bản gốc KH 134 lặp tên **"Yên Thế" 02 lần** trong danh sách CCN mở rộng — giữ nguyên khi trích.
+
+### Văn bản gốc bổ sung
+
+`NQ-34-NQ-TU-27-12-2025.pdf` (nén 3,9 MB → 0,96 MB), `KH-134-KH-UBND-26-3-2026.pdf`, `KH-134-KH-UBND-26-3-2026-TEXT.txt` (bản text layout để tra nhanh).
+
+`plugin.json` v1.8.0 → **v1.9.0**.
+
 ## v1.8.0 — 25/7/2026: Merge 03 reference tồn đọng từ skill cũ, có kiểm chứng bản gốc
 
 Hoàn tất việc "cân nhắc merge đợt sau" đã ghi từ v1.0. Ba reference cuối của skill `kcn-ccn-vn` nay đã vào plugin, **đối chiếu bản gốc trước khi merge chứ không bê nguyên**.

@@ -1,5 +1,31 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 — Chuyển 5 skill cuối cùng sang chuẩn plugin + sửa lỗi description > 500 ký tự
+
+**Hoàn tất chuyển đổi:** từ nay 100% skill trong repo (18 plugin) đều theo chuẩn `.claude-plugin/plugin.json` + `skills/<tên>/`, không còn thư mục để SKILL.md ở gốc.
+
+- **`bpb-sct-vn` v1.0.0 (MỚI trên repo)** — soạn bài phát biểu, tham luận, diễn văn cho lãnh đạo Sở; kèm 2 references, 11 bài mẫu gốc (`kho-bai-mau/`) và `scripts/build_bpb.py`. Bản đang cài đặt để `plugin.json` **sai vị trí** (ở gốc thư mục skill thay vì `.claude-plugin/`) — đã đặt lại đúng chỗ khi đóng gói.
+- **`pccc-sct-vn` v1.1.0** — chuyển sang cấu trúc plugin. **Giữ nguyên bản trên repo** (mới hơn bản đang cài ngày 14/5/2026): đã có `references/15-giai-phap-ky-thuat-qd1074-bxd.md`, cập nhật QĐ 1074/QĐ-BXD 29/6/2026, QĐ 1609/QĐ-BCT 01/7/2026, CV 7432/UBND-XD 21/7/2026 và 3 văn bản gốc trong `van-ban-goc/`. **Không ghi đè ngược bằng bản cài cũ.**
+- **`quy-hoach-ct-vn` v1.0.0**, **`sct-laocai-org-vn` v2.0.1**, **`vbhc-pdf-reader-vn` v2.0.0** — chuyển cấu trúc, nội dung giống hệt bản đang cài (đối chiếu checksum MD5 từng file, khớp 100%). Số hiệu phiên bản lấy theo phiên bản nội bộ khai báo trong SKILL.md.
+- Toàn bộ chuyển đổi dùng `git mv` nên **giữ nguyên lịch sử commit** của từng file.
+
+**Sửa lỗi hàng loạt — `description` trong `plugin.json` vượt 500 ký tự:** rà toàn repo phát hiện **8/18 plugin vi phạm** giới hạn riêng của `plugin.json` (xem quy tắc validate số 0 trong README, lỗi thật ngày 14/7/2026 khi upload tkm-sct-vn). Các plugin này sẽ bị Claude từ chối nếu upload lại. Đã rút gọn toàn bộ về 382-441 ký tự, giữ nguyên từ khoá nhận diện:
+
+| Plugin | Trước | Sau | Phiên bản |
+|---|---|---|---|
+| `quy-hoach-ct-vn` | 743 | 414 | 1.0.0 |
+| `pccc-sct-vn` | 738 | 409 | 1.1.0 |
+| `qlks-sct-vn` | 733 | 441 | 1.3.0 → **1.3.1** |
+| `sct-laocai-org-vn` | 717 | 401 | 2.0.1 |
+| `vbhc-pdf-reader-vn` | 703 | 413 | 2.0.0 |
+| `bpb-sct-vn` | 699 | 382 | 1.0.0 |
+| `tkm-sct-vn` | 589 | 403 | 1.3.0 → **1.3.1** |
+| `hnh-sct-vn` | 543 | 411 | 1.5.1 → **1.5.2** |
+
+`description` trong frontmatter SKILL.md giữ nguyên (giới hạn 1024, cao nhất là kccn-sct-vn 1021 — vẫn hợp lệ).
+
+**Còn lại:** thư mục `kcn-ccn-vn` vẫn ở dạng skill cũ — đây là bản **đã được nâng cấp thành `kccn-sct-vn`**, giữ lại chỉ để tra lịch sử, KHÔNG chuyển thành plugin và KHÔNG cài song song (trùng trigger với kccn-sct-vn).
+
 ## 2026-07-24 (bổ sung) — hnh-sct-vn v1.5.1: Mẫu 6 Biên bản thẩm định hồ sơ cấp Giấy phép
 
 - Thêm **`mau-ho-so/Mau 6 - Bien ban tham dinh ho so cap Giay phep (noi bo So).docx`** — bản chuẩn văn phong 24/7/2026 dựng từ vụ NH3 khan (Công ty CP thương mại vận tải và tư vấn kỹ thuật, 05 tổ hợp xe biển Việt Nam), đã lược các phát hiện tồn tại riêng của vụ việc để dùng làm mẫu chung cho mọi vụ thẩm định HHNH.

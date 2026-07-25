@@ -1,13 +1,16 @@
-# skills-sct — Kho quản lý phiên bản bộ skill Claude của Sở Công Thương Lào Cai
+# skills-sct — Kho quản lý phiên bản bộ plugin Claude của Sở Công Thương Lào Cai
 
-Kho lưu trữ và theo dõi lịch sử thay đổi của 8 skill dùng cho công việc tham mưu tại Phòng Quản lý Công nghiệp:
+Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công việc tham mưu tại Phòng Quản lý Công nghiệp.
 
-| Skill | Nội dung |
+> **Từ 25/7/2026: toàn bộ 18 plugin đều theo chuẩn plugin** — mỗi thư mục có `.claude-plugin/plugin.json` ở gốc và nội dung skill nằm tại `skills/<tên>/`. Không còn thư mục nào để `SKILL.md` ở gốc, trừ `kcn-ccn-vn` (bản cũ đã được thay bằng `kccn-sct-vn`, giữ để tra lịch sử, không cài).
+
+| Plugin | Nội dung |
 |---|---|
 | `vbhc-vn` | Soạn thảo văn bản hành chính + 7 nhóm anti-error + đọc PDF metadata |
-| `kcn-ccn-vn` | Quản lý nhà nước về KCN/CCN (kèm file hiện trạng động ref 18) |
+| `kccn-sct-vn` | Quản lý nhà nước về KCN/CCN theo NĐ 32/2024, NĐ 139/2025, NĐ 178/2026 (thay thế `kcn-ccn-vn` cũ) |
 | `hnh-sct-vn` | Cấp phép vận chuyển hàng hóa nguy hiểm |
-| `pccc-sct-vn` | PCCC 8 lĩnh vực ngành Công Thương |
+| `pccc-sct-vn` | PCCC 8 lĩnh vực ngành Công Thương, giải pháp kỹ thuật công trình hiện hữu (QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT) |
+| `bpb-sct-vn` | Bài phát biểu, tham luận, diễn văn cho lãnh đạo Sở; 11 bài mẫu gốc + script dựng docx 15pt |
 | `bvmt-sct-vn` | Bảo vệ môi trường ngành Công Thương, KNK, carbon |
 | `quy-hoach-ct-vn` | Quy hoạch khoáng sản, điện, KCN, CCN |
 | `sct-laocai-org-vn` | Cơ cấu tổ chức, phân công BGĐ và chuyên viên |
@@ -34,6 +37,21 @@ Trình upload plugin của Claude từ chối gói nếu vi phạm. Trước khi
 2. Cấu trúc gói: `.claude-plugin/plugin.json` ở gốc zip + nội dung tại `skills/<tên>/...` (zip từ BÊN TRONG thư mục plugin: `cd <tên> && zip -r ../x.zip .claude-plugin skills`).
 3. `plugin.json` có đủ `name` (trùng tên thư mục skill), `version`, `description`.
 4. Không kèm `__pycache__`, file tạm, file ẩn hệ điều hành.
+5. **`plugin.json` phải nằm tại `<tên>/.claude-plugin/plugin.json`** — KHÔNG để ở gốc thư mục skill (lỗi thật ở `bpb-sct-vn`, phát hiện 25/7/2026).
+6. **Khi đồng bộ hai chiều: đối chiếu trước, ghi đè sau.** Bản trên repo có thể MỚI HƠN bản đang cài trên Claude (lỗi thật 25/7/2026: bản cài `pccc-sct-vn` ngày 14/5/2026 thiếu reference 15 và QĐ 1074/QĐ-BCT so với repo). Luôn `diff -rq` và so checksum trước khi copy đè.
+
+Lệnh kiểm nhanh cả hai giới hạn description toàn repo:
+
+```bash
+python3 -c "
+import json,glob,re,yaml,os
+for pj in sorted(glob.glob('*/.claude-plugin/plugin.json')):
+    d=pj.split('/')[0]; o=json.load(open(pj,encoding='utf-8')); pl=len(o['description'])
+    sk=f'{d}/skills/{d}/SKILL.md'
+    m=re.match(r'^---\n(.*?)\n---\n',open(sk,encoding='utf-8').read(),re.S)
+    sl=len(yaml.safe_load(m.group(1)).get('description',''))
+    print(('BAD ' if pl>500 or sl>1024 else 'ok  '),f'{d:22} plugin.json={pl:4} SKILL.md={sl:5}')"
+```
 
 ## Quy trình cập nhật (mỗi khi Claude sửa skill)
 

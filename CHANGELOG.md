@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-25 (chiều) — Tách 2 marketplace: skill-sct v3.0.0 giữ 12 plugin đang chạy, skill-sct-2 nhận 6 plugin chưa vào được
+
+- **Nguyên nhân chốt hạ sau chuỗi chẩn đoán:** marketplace đã cài trên claude.ai chỉ cập nhật nội dung các plugin có sẵn từ lần Add đầu tiên, KHÔNG nạp entry mới thêm vào sau. Bằng chứng: 12 plugin gốc (bvmt, hc, hl, hnh, kccn, kho, qlks, sd, tkm, vbhc, xd, xp) luôn hiện và nhận cập nhật nội dung; 6 plugin bổ sung sau (bpb, dacn, pccc, quy-hoach-ct, sct-laocai-org, vbhc-pdf-reader) không bao giờ xuất hiện dù đã: đủ 18 entry hợp lệ (v2.0.0), nâng version 2 nhịp (v2.0.1-2.0.2), đảo lên đầu danh sách (v2.0.3), gỡ skill tải tay trùng tên, Remove → Add lại marketplace. Các giả thuyết description >500, đường dẫn ngoài ASCII đã loại trừ bằng số liệu.
+- `marketplace.json` v3.0.0: giữ đúng 12 plugin đang chạy. 6 plugin chưa vào được chuyển sang repo mới **`skill-sct-2`** (marketplace riêng, Add mới nạp trọn danh sách; nội dung nguyên trạng commit `db67f45`).
+- Thư mục 6 plugin tạm GIỮ trong repo này (không còn trong marketplace.json nên không ảnh hưởng) — xóa bằng commit dọn dẹp sau khi skill-sct-2 xác nhận chạy ổn; từ đó mọi cập nhật 6 plugin này CHỈ làm ở skill-sct-2.
+- Quy tắc mới: plugin MỚI thêm vào marketplace nào phải Remove → Add lại marketplace đó trên claude.ai; mỗi marketplace giữ ≤ 12 plugin.
 ## 2026-07-25 — marketplace.json v2.0.0: đồng bộ đủ 18 plugin, khớp version tuyệt đối
 
 - **Nguyên nhân marketplace trên claude.ai thiếu plugin:** claude.ai chỉ đọc `.claude-plugin/marketplace.json`, không tự quét thư mục. File này mới liệt kê 12/18 plugin (thiếu `bpb-sct-vn`, `dacn-sct-vn`, `pccc-sct-vn`, `quy-hoach-ct-vn`, `sct-laocai-org-vn`, `vbhc-pdf-reader-vn`) và lệch version 5 entry (`hnh` 1.3.0≠1.5.2, `kccn` 1.6.0≠1.9.0, `qlks` 1.1.0≠1.3.1, `tkm` 1.2.0≠1.3.1, `vbhc` 2.2.0≠2.6.0).

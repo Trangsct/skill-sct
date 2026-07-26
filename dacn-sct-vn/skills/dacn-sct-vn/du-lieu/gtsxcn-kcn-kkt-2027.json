@@ -1,0 +1,1071 @@
+{
+ "_nguon": {
+  "van_ban": "Kế hoạch số 72/KH-BQL ngày 08/7/2026 của Ban Quản lý Khu kinh tế tỉnh Lào Cai về Phát triển kinh tế - xã hội năm 2027",
+  "phu_luc": "Biểu DỰ TÍNH GIÁ TRỊ SXCN NĂM 2027 kèm theo Kế hoạch 72/KH-BQL",
+  "nguoi_ky": "Trưởng ban Vương Trinh Quốc",
+  "thoi_gian_ky_so": "08/7/2026 14:01:38 +07:00",
+  "noi_nhan": [
+   "Sở Tài chính",
+   "Sở Công Thương",
+   "Lãnh đạo Ban",
+   "Các phòng chuyên môn, đơn vị",
+   "Lưu VT, KHTH"
+  ],
+  "pham_vi": "Các khu công nghiệp và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh Lào Cai quản lý (vùng Lào Cai cũ)",
+  "loai_so_lieu": "DỰ KIẾN / KẾ HOẠCH năm 2027 do doanh nghiệp đăng ký - KHÔNG PHẢI số thực hiện",
+  "ngay_nap_vao_plugin": "2026-07-26"
+ },
+ "_canh_bao_su_dung": [
+  "Toàn bộ cột 'Dự kiến KH đăng ký 2027', 'Dự kiến GTSXCN 2027', 'Dự kiến DT năm 2027' là SỐ ĐĂNG KÝ CỦA DOANH NGHIỆP, chưa phải chỉ tiêu UBND tỉnh giao và chưa phải số thực hiện. Khi trích vào văn bản phải ghi rõ 'theo đăng ký của doanh nghiệp tại Kế hoạch 72/KH-BQL ngày 08/7/2026'.",
+  "Đơn vị cột GTSXCN là TRIỆU ĐỒNG. Tổng cộng 26.301.347 triệu đồng = 26.301,3 tỷ đồng. Kế hoạch 72 làm tròn thành 'khoảng 26.000 tỷ đồng'.",
+  "Cột 'Dự kiến KH đăng ký 2027' ghi nhãn '(tấn)' nhưng thực tế có cả m3, kg, cái, chiếc, 1000 lít, 1000 viên - KHÔNG được cộng dồn cột này.",
+  "GTSXCN theo biểu này là giá HIỆN HÀNH suy từ doanh thu, KHÔNG phải giá so sánh 2010 - không dùng trực tiếp để tính IIP hoặc tốc độ tăng GTSXCN. Xem reference 04.",
+  "Mục 7 và 8 KCN Tằng Loỏng nằm trong ô gộp của bản Excel: đọc theo layout thì mục 7 = Công ty CP Phốt pho Apatit (P7) - phốt pho vàng; mục 8 = Công ty CP quốc tế Lavita - phốt pho đỏ và H3PO4 thực phẩm. Nếu trích vào văn bản chính thức nên hỏi lại Ban Quản lý Khu kinh tế để xác nhận.",
+  "Một số dòng thiếu công suất thiết kế hoặc thiếu tỷ lệ % công suất (Apromaco lân hạt, supe lân đóng bao; Việt Trung kim loại thu hồi; CP khoáng sản và vật liệu luyện kim; SRV thịt trâu sấy; Phú Hưng). Giữ nguyên trống, KHÔNG suy đoán.",
+  "Tổng tiểu mục KCN Đông Phố Mới ghi tỷ lệ công suất 202% và tổng KH đăng ký 888.043 - đây là phép cộng dồn các đơn vị đo khác nhau của bản gốc, không có ý nghĩa kinh tế.",
+  "KCN Đông Phố Mới năm 2027 sẽ dừng hoạt động để phục vụ di chuyển thực hiện dự án đường sắt Lào Cai - Hà Nội - Hải Phòng theo Nghị quyết 187/2025/QH15 ngày 19/02/2025, nhưng biểu vẫn đăng ký 161.022 triệu đồng - cần làm rõ khi tổng hợp."
+ ],
+ "tong_cong": {
+  "gtsxcn_trieu_dong": 26301347,
+  "doanh_thu_dong": 38097407344052
+ },
+ "khu_vuc": [
+  {
+   "ma": "I",
+   "ten": "KCN Tằng Loỏng",
+   "cong_suat_thiet_ke_tong": 4750800,
+   "ty_le_cong_suat_pc": 59,
+   "kh_dang_ky_tong": 2780956,
+   "gtsxcn_trieu_dong": 24869912,
+   "doanh_thu_dong": 33937035011252,
+   "co_so": [
+    {
+     "tt": 1,
+     "ten": "Nhà máy Tuyển quặng Apatit - Công ty TNHH MTV Apatit Việt Nam",
+     "san_pham": [
+      {
+       "san_pham": "Quặng Apatit loại 1",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 900000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 2,
+     "ten": "Chi nhánh Phân bón - Hóa chất Công ty TNHH MTV Apatit Việt Nam",
+     "san_pham": [
+      {
+       "san_pham": "NPK",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 30000,
+       "ty_le_cong_suat_pc": 87,
+       "kh_dang_ky_2027": 26000,
+       "gtsxcn_2027_trieu_dong": 153400,
+       "doanh_thu_2027_dong": 204082970000
+      }
+     ]
+    },
+    {
+     "tt": 3,
+     "ten": "Công ty CP phốt pho vàng Lào Cai (P1)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 10000,
+       "ty_le_cong_suat_pc": 75,
+       "kh_dang_ky_2027": 7500,
+       "gtsxcn_2027_trieu_dong": 545964,
+       "doanh_thu_2027_dong": 712920232500
+      }
+     ]
+    },
+    {
+     "tt": 4,
+     "ten": "Công ty Cổ phần Phốt pho Việt Nam (P2)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 6000,
+       "ty_le_cong_suat_pc": 75,
+       "kh_dang_ky_2027": 4500,
+       "gtsxcn_2027_trieu_dong": 344616,
+       "doanh_thu_2027_dong": 450000000000
+      }
+     ]
+    },
+    {
+     "tt": 5,
+     "ten": "Công ty cổ phần Đông Nam Á Lào Cai (P3)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 18000,
+       "ty_le_cong_suat_pc": 89,
+       "kh_dang_ky_2027": 16000,
+       "gtsxcn_2027_trieu_dong": 1189083,
+       "doanh_thu_2027_dong": 1552704992000
+      }
+     ]
+    },
+    {
+     "tt": 6,
+     "ten": "Công ty TNHH phốt pho vàng Việt Nam (P5)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 19800,
+       "ty_le_cong_suat_pc": 81,
+       "kh_dang_ky_2027": 16000,
+       "gtsxcn_2027_trieu_dong": 1347833,
+       "doanh_thu_2027_dong": 1760000000000
+      },
+      {
+       "san_pham": "Bao bì",
+       "dvt": "1.000 Cái",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 7,
+     "ten": "Công ty Cổ phần Phốt pho Apatit (P7)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 20000,
+       "ty_le_cong_suat_pc": 83,
+       "kh_dang_ky_2027": 16689,
+       "gtsxcn_2027_trieu_dong": 1042903,
+       "doanh_thu_2027_dong": 1361822400000
+      }
+     ]
+    },
+    {
+     "tt": 8,
+     "ten": "Công ty cổ phần quốc tế Lavita",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho đỏ",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 3000,
+       "ty_le_cong_suat_pc": 50,
+       "kh_dang_ky_2027": 1500,
+       "gtsxcn_2027_trieu_dong": 153216,
+       "doanh_thu_2027_dong": 200070000000
+      },
+      {
+       "san_pham": "H3PO4 thực phẩm",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 6600,
+       "ty_le_cong_suat_pc": 98,
+       "kh_dang_ky_2027": 6500,
+       "gtsxcn_2027_trieu_dong": 158582,
+       "doanh_thu_2027_dong": 221000000000
+      }
+     ]
+    },
+    {
+     "tt": 9,
+     "ten": "Công ty TNHH MTV Hóa chất Đức Giang Lào Cai (P4)",
+     "san_pham": [
+      {
+       "san_pham": "Phốt pho vàng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 43800,
+       "ty_le_cong_suat_pc": 68,
+       "kh_dang_ky_2027": 30000,
+       "gtsxcn_2027_trieu_dong": 2680357,
+       "doanh_thu_2027_dong": 3500010000000
+      },
+      {
+       "san_pham": "DCP (phụ gia thức ăn chăn nuôi)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 50000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 50000,
+       "gtsxcn_2027_trieu_dong": 714071,
+       "doanh_thu_2027_dong": 950000000000
+      },
+      {
+       "san_pham": "MAP",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 20000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 20000,
+       "gtsxcn_2027_trieu_dong": 30066,
+       "doanh_thu_2027_dong": 40000000000
+      },
+      {
+       "san_pham": "Axít H2SO4",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 400000,
+       "ty_le_cong_suat_pc": 75,
+       "kh_dang_ky_2027": 300000,
+       "gtsxcn_2027_trieu_dong": 7667,
+       "doanh_thu_2027_dong": 10200000000
+      },
+      {
+       "san_pham": "H3PO4 trích ly",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 100000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "H3PO4 thực phẩm",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 80000,
+       "ty_le_cong_suat_pc": 63,
+       "kh_dang_ky_2027": 50000,
+       "gtsxcn_2027_trieu_dong": 1076349,
+       "doanh_thu_2027_dong": 1500000000000
+      },
+      {
+       "san_pham": "DAP",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 100000,
+       "ty_le_cong_suat_pc": 35,
+       "kh_dang_ky_2027": 35000,
+       "gtsxcn_2027_trieu_dong": 526158,
+       "doanh_thu_2027_dong": 700000000000
+      },
+      {
+       "san_pham": "TSP (phân lân)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 100000,
+       "ty_le_cong_suat_pc": 70,
+       "kh_dang_ky_2027": 70000,
+       "gtsxcn_2027_trieu_dong": 326438,
+       "doanh_thu_2027_dong": 421203440000
+      }
+     ]
+    },
+    {
+     "tt": 10,
+     "ten": "Công ty TNHH SX & XNK Bao bì",
+     "san_pham": [
+      {
+       "san_pham": "Thùng phuy",
+       "dvt": "Chiếc",
+       "cong_suat_thiet_ke": 300000,
+       "ty_le_cong_suat_pc": 50,
+       "kh_dang_ky_2027": 150000,
+       "gtsxcn_2027_trieu_dong": 65029,
+       "doanh_thu_2027_dong": 83400000000
+      }
+     ]
+    },
+    {
+     "tt": 11,
+     "ten": "Công ty TNHH MTV supe lân Apromaco Lào Cai",
+     "san_pham": [
+      {
+       "san_pham": "Supe lân",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 200000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "NPK các loại",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 150000,
+       "ty_le_cong_suat_pc": 33,
+       "kh_dang_ky_2027": 50000,
+       "gtsxcn_2027_trieu_dong": 263952,
+       "doanh_thu_2027_dong": 344668400000
+      },
+      {
+       "san_pham": "Lân hạt",
+       "dvt": null,
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 150000,
+       "gtsxcn_2027_trieu_dong": 470976,
+       "doanh_thu_2027_dong": 615000000000
+      },
+      {
+       "san_pham": "Supe lân đóng bao",
+       "dvt": null,
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 40000,
+       "gtsxcn_2027_trieu_dong": 112753,
+       "doanh_thu_2027_dong": 147232400000
+      },
+      {
+       "san_pham": "Axít H2SO4",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 124500,
+       "ty_le_cong_suat_pc": 94,
+       "kh_dang_ky_2027": 117644,
+       "gtsxcn_2027_trieu_dong": 97269,
+       "doanh_thu_2027_dong": 129406870628
+      }
+     ]
+    },
+    {
+     "tt": 12,
+     "ten": "Chi nhánh Luyện đồng Lào Cai - Vimico",
+     "san_pham": [
+      {
+       "san_pham": "Đồng Katot",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 32000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 32000,
+       "gtsxcn_2027_trieu_dong": 4203075,
+       "doanh_thu_2027_dong": 6113792992000
+      },
+      {
+       "san_pham": "Vàng",
+       "dvt": "Kg",
+       "cong_suat_thiet_ke": 900,
+       "ty_le_cong_suat_pc": 110,
+       "kh_dang_ky_2027": 989,
+       "gtsxcn_2027_trieu_dong": 405155,
+       "doanh_thu_2027_dong": 1484000434000
+      },
+      {
+       "san_pham": "Bạc",
+       "dvt": "Kg",
+       "cong_suat_thiet_ke": 1800,
+       "ty_le_cong_suat_pc": 174,
+       "kh_dang_ky_2027": 3132,
+       "gtsxcn_2027_trieu_dong": 21669,
+       "doanh_thu_2027_dong": 31520000124
+      },
+      {
+       "san_pham": "Thạch cao",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 12000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Đồng sunphat",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 200,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 13,
+     "ten": "Công ty cổ phần DAP số 2 - Vinachem",
+     "san_pham": [
+      {
+       "san_pham": "Phân bón DAP",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 330000,
+       "ty_le_cong_suat_pc": 79,
+       "kh_dang_ky_2027": 260000,
+       "gtsxcn_2027_trieu_dong": 3686109,
+       "doanh_thu_2027_dong": 4903999880000
+      },
+      {
+       "san_pham": "Axít H3SO4 (nguyên văn bản gốc)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": null,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "axít H2SO4",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": null,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 14,
+     "ten": "Công ty TNHH Khoáng sản và Luyện kim Việt Trung",
+     "san_pham": [
+      {
+       "san_pham": "Phôi thép",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 500000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 500000,
+       "gtsxcn_2027_trieu_dong": 5068226,
+       "doanh_thu_2027_dong": 6500000000000
+      },
+      {
+       "san_pham": "Oxy lỏng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 1000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Xỉ hạt lò cao",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 100000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 15,
+     "ten": "Công ty CP kháng sản và vật liệu luyện kim Lào Cai (nguyên văn bản gốc)",
+     "san_pham": [
+      {
+       "san_pham": "Kim loại thu hồi",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 1000,
+       "gtsxcn_2027_trieu_dong": null,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Phụ gia luyện kim",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 7500,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 1500,
+       "gtsxcn_2027_trieu_dong": 8642,
+       "doanh_thu_2027_dong": 18000000000
+      },
+      {
+       "san_pham": "Nguyên liệu cho xi măng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": null,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Vật liệu cấp phối",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": null,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 16,
+     "ten": "Công ty cổ phần SX và TM Lao Kay",
+     "san_pham": [
+      {
+       "san_pham": "Nghiền xỉ phốt pho, lò cao",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 1000000,
+       "ty_le_cong_suat_pc": 80,
+       "kh_dang_ky_2027": 800000,
+       "gtsxcn_2027_trieu_dong": 169607,
+       "doanh_thu_2027_dong": 243200000000
+      }
+     ]
+    },
+    {
+     "tt": 17,
+     "ten": "Công ty CP dịch vụ xử lý môi trường Xanh Việt Sơn",
+     "san_pham": [
+      {
+       "san_pham": "Dầu đốt FO-R",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 4500,
+       "ty_le_cong_suat_pc": 48,
+       "kh_dang_ky_2027": 2160,
+       "gtsxcn_2027_trieu_dong": 29,
+       "doanh_thu_2027_dong": 2970000000
+      },
+      {
+       "san_pham": "Dung môi tái chế",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 6000,
+       "ty_le_cong_suat_pc": 48,
+       "kh_dang_ky_2027": 2880,
+       "gtsxcn_2027_trieu_dong": 40,
+       "doanh_thu_2027_dong": 5184000000
+      },
+      {
+       "san_pham": "Bột đồng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 16500,
+       "ty_le_cong_suat_pc": 3,
+       "kh_dang_ky_2027": 495,
+       "gtsxcn_2027_trieu_dong": 123,
+       "doanh_thu_2027_dong": 17820000000
+      },
+      {
+       "san_pham": "Nhôm thỏi 96%",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 9000,
+       "ty_le_cong_suat_pc": 51,
+       "kh_dang_ky_2027": 4590,
+       "gtsxcn_2027_trieu_dong": 59,
+       "doanh_thu_2027_dong": 8638380000
+      },
+      {
+       "san_pham": "Chì thỏi 96%",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 18000,
+       "ty_le_cong_suat_pc": 48,
+       "kh_dang_ky_2027": 8640,
+       "gtsxcn_2027_trieu_dong": 408,
+       "doanh_thu_2027_dong": 59400000000
+      },
+      {
+       "san_pham": "Dầu FO-R",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 29700,
+       "ty_le_cong_suat_pc": 21,
+       "kh_dang_ky_2027": 6237,
+       "gtsxcn_2027_trieu_dong": 87,
+       "doanh_thu_2027_dong": 8912673000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ma": "II",
+   "ten": "KCN Bắc Duyên Hải",
+   "cong_suat_thiet_ke_tong": 257540,
+   "ty_le_cong_suat_pc": 99,
+   "kh_dang_ky_tong": 256170,
+   "gtsxcn_trieu_dong": 411406,
+   "doanh_thu_dong": 703720502800,
+   "co_so": [
+    {
+     "tt": 1,
+     "ten": "Công ty TNHH Đầu tư xây dựng Quốc Hưng",
+     "san_pham": [
+      {
+       "san_pham": "Bê tông TP",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": 65000,
+       "ty_le_cong_suat_pc": 92,
+       "kh_dang_ky_2027": 60000,
+       "gtsxcn_2027_trieu_dong": 60516,
+       "doanh_thu_2027_dong": 87621540000
+      }
+     ]
+    },
+    {
+     "tt": 2,
+     "ten": "Công ty TNHH Thương mại Việt Thành",
+     "san_pham": [
+      {
+       "san_pham": "Chế tạo máy, KCT",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 1500,
+       "ty_le_cong_suat_pc": 16,
+       "kh_dang_ky_2027": 240,
+       "gtsxcn_2027_trieu_dong": 5833,
+       "doanh_thu_2027_dong": 7200000000
+      }
+     ]
+    },
+    {
+     "tt": 3,
+     "ten": "Công ty TNHH TM Việt Tình",
+     "san_pham": [
+      {
+       "san_pham": "Tôn lợp cơ khí",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 540,
+       "ty_le_cong_suat_pc": 167,
+       "kh_dang_ky_2027": 900,
+       "gtsxcn_2027_trieu_dong": 27649,
+       "doanh_thu_2027_dong": 35979472800
+      }
+     ]
+    },
+    {
+     "tt": 4,
+     "ten": "Công ty TNHH Hồng Lộc",
+     "san_pham": [
+      {
+       "san_pham": "Bê tông TP",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": 55000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 55000,
+       "gtsxcn_2027_trieu_dong": 41671,
+       "doanh_thu_2027_dong": 60335000000
+      }
+     ]
+    },
+    {
+     "tt": 5,
+     "ten": "Công ty cổ phần TM và XD Duyên Hải",
+     "san_pham": [
+      {
+       "san_pham": "Bê tông TP",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": 110000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 110000,
+       "gtsxcn_2027_trieu_dong": 110947,
+       "doanh_thu_2027_dong": 160639490000
+      }
+     ]
+    },
+    {
+     "tt": 6,
+     "ten": "Công ty TNHH MTV Dệt vải Thiên Nhuận",
+     "san_pham": [
+      {
+       "san_pham": "Dệt",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 500,
+       "ty_le_cong_suat_pc": 6,
+       "kh_dang_ky_2027": 30,
+       "gtsxcn_2027_trieu_dong": 546,
+       "doanh_thu_2027_dong": 795000000
+      }
+     ]
+    },
+    {
+     "tt": 7,
+     "ten": "Công ty TNHH MTV Quốc An",
+     "san_pham": [
+      {
+       "san_pham": "Cọc bê tông",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": 5000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 5000,
+       "gtsxcn_2027_trieu_dong": 540,
+       "doanh_thu_2027_dong": 1150000000
+      }
+     ]
+    },
+    {
+     "tt": 8,
+     "ten": "Công ty cổ phần sản xuất và xây dựng Tiến Thành",
+     "san_pham": [
+      {
+       "san_pham": "Gạch không nung",
+       "dvt": "1000 viên",
+       "cong_suat_thiet_ke": 20000,
+       "ty_le_cong_suat_pc": 125,
+       "kh_dang_ky_2027": 25000,
+       "gtsxcn_2027_trieu_dong": 163704,
+       "doanh_thu_2027_dong": 350000000000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ma": "III",
+   "ten": "KCN Đông Phố Mới",
+   "cong_suat_thiet_ke_tong": 438925,
+   "ty_le_cong_suat_pc": 202,
+   "kh_dang_ky_tong": 888043,
+   "gtsxcn_trieu_dong": 161022,
+   "doanh_thu_dong": 310323111000,
+   "co_so": [
+    {
+     "tt": 1,
+     "ten": "Công ty TNHH Thương mại Tuấn Anh",
+     "san_pham": [
+      {
+       "san_pham": "Thực phẩm đông lạnh",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 2,
+     "ten": "Công ty TNHH MTV Traphaco Sapa",
+     "san_pham": [
+      {
+       "san_pham": "Dược liệu",
+       "dvt": "Kg",
+       "cong_suat_thiet_ke": 90000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 90000,
+       "gtsxcn_2027_trieu_dong": 40328,
+       "doanh_thu_2027_dong": 52200000000
+      }
+     ]
+    },
+    {
+     "tt": 3,
+     "ten": "Công ty cổ phần Bia Lào Cai",
+     "san_pham": [
+      {
+       "san_pham": "Bia",
+       "dvt": "1000 lít",
+       "cong_suat_thiet_ke": 1500000,
+       "ty_le_cong_suat_pc": 33,
+       "kh_dang_ky_2027": 500000,
+       "gtsxcn_2027_trieu_dong": 3288,
+       "doanh_thu_2027_dong": 4150000000
+      }
+     ]
+    },
+    {
+     "tt": 4,
+     "ten": "Công ty cổ phần tiếp vận SRV",
+     "san_pham": [
+      {
+       "san_pham": "Thực phẩm đông lạnh",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 700,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Thịt trâu sấy khô",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 403,
+       "gtsxcn_2027_trieu_dong": 614,
+       "doanh_thu_2027_dong": 100750000000
+      }
+     ]
+    },
+    {
+     "tt": 5,
+     "ten": "Công ty cổ phần kho ngoại quan Đại An",
+     "san_pham": [
+      {
+       "san_pham": "Bê tông",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": 63000,
+       "ty_le_cong_suat_pc": 15,
+       "kh_dang_ky_2027": 9600,
+       "gtsxcn_2027_trieu_dong": 7828,
+       "doanh_thu_2027_dong": 11334576000
+      },
+      {
+       "san_pham": "Cột",
+       "dvt": "cái",
+       "cong_suat_thiet_ke": 3675,
+       "ty_le_cong_suat_pc": 109,
+       "kh_dang_ky_2027": 4000,
+       "gtsxcn_2027_trieu_dong": 8110,
+       "doanh_thu_2027_dong": 17280396000
+      },
+      {
+       "san_pham": "Gạch BT",
+       "dvt": "1000 viên",
+       "cong_suat_thiet_ke": 12600,
+       "ty_le_cong_suat_pc": 24,
+       "kh_dang_ky_2027": 3000,
+       "gtsxcn_2027_trieu_dong": 4,
+       "doanh_thu_2027_dong": 8139000
+      },
+      {
+       "san_pham": "Cọc ép",
+       "dvt": "m",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 1000,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 6,
+     "ten": "Công ty TNHH Dệt trang trí Thượng Hải",
+     "san_pham": [
+      {
+       "san_pham": "Dệt",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 0,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 7,
+     "ten": "Công ty TNHH Babeeni Việt Nam - Chi nhánh tại Lào Cai",
+     "san_pham": [
+      {
+       "san_pham": "Quần áo, váy trẻ em",
+       "dvt": "cái",
+       "cong_suat_thiet_ke": 280000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 280000,
+       "gtsxcn_2027_trieu_dong": 100850,
+       "doanh_thu_2027_dong": 124600000000
+      }
+     ]
+    },
+    {
+     "tt": 8,
+     "ten": "Công ty TNHH TM TH Nghĩa Anh",
+     "san_pham": [
+      {
+       "san_pham": "Ván bóc gỗ mỡ",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ keo",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ bồ đề",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ bạch dương",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván ép gỗ bồ đề",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ bạch đàn",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván ép cốt gỗ bồ đề",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván ép sơ bộ gỗ bạch dương",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ trẩu",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Ván bóc gỗ bách",
+       "dvt": "m3",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    },
+    {
+     "tt": 9,
+     "ten": "Công ty cổ phần sản xuất Thương mại Tổng hợp Minh Long",
+     "san_pham": [
+      {
+       "san_pham": "Thịt trâu sấy tê cay",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 40,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Cuống tim lợn",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Dạ sách (trâu, bò)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ma": "IV",
+   "ten": "Khu kinh tế cửa khẩu",
+   "cong_suat_thiet_ke_tong": 926000,
+   "ty_le_cong_suat_pc": 33,
+   "kh_dang_ky_tong": 301000,
+   "gtsxcn_trieu_dong": 859008,
+   "doanh_thu_dong": 3146328719000,
+   "co_so": [
+    {
+     "tt": 1,
+     "ten": "Công ty cổ phần XNK Phú Hưng",
+     "san_pham": [
+      {
+       "san_pham": "Gạch BT",
+       "dvt": "1000 viên",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": null,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Gạch",
+       "dvt": "1000 viên",
+       "cong_suat_thiet_ke": null,
+       "ty_le_cong_suat_pc": null,
+       "kh_dang_ky_2027": 45000,
+       "gtsxcn_2027_trieu_dong": 30,
+       "doanh_thu_2027_dong": 64575000
+      }
+     ]
+    },
+    {
+     "tt": 2,
+     "ten": "Chi nhánh mỏ Đồng Sin Quyền - Vimico",
+     "san_pham": [
+      {
+       "san_pham": "Tinh quặng đồng",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 71000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 71000,
+       "gtsxcn_2027_trieu_dong": 825723,
+       "doanh_thu_2027_dong": 3024459704000
+      },
+      {
+       "san_pham": "Tinh quặng sắt (mỏ sắt Kíp Tước)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 65000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 65000,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Tinh quặng sắt (mỏ đồng Sin Quyền)",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 120000,
+       "ty_le_cong_suat_pc": 100,
+       "kh_dang_ky_2027": 120000,
+       "gtsxcn_2027_trieu_dong": 33254,
+       "doanh_thu_2027_dong": 121804440000
+      }
+     ]
+    },
+    {
+     "tt": 3,
+     "ten": "Công ty cổ phần Tập đoàn Hóa chất Đức Giang - KT25",
+     "san_pham": [
+      {
+       "san_pham": "Quặng Apatit loại 1",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 90000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      },
+      {
+       "san_pham": "Quặng Apatit loại 3",
+       "dvt": "Tấn",
+       "cong_suat_thiet_ke": 580000,
+       "ty_le_cong_suat_pc": 0,
+       "kh_dang_ky_2027": 0,
+       "gtsxcn_2027_trieu_dong": 0,
+       "doanh_thu_2027_dong": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "_kiem_tra_tong": {
+  "cong_don_4_khu_vuc_gtsxcn_trieu_dong": 26301348,
+  "dong_tong_cong_trong_bieu_goc": 26301347,
+  "chenh_lech_trieu_dong": 1,
+  "ghi_chu": "Chênh lệch do làm tròn trong bản Excel gốc. Khi trích dẫn dùng đúng con số dòng Tổng cộng của bản gốc."
+ }
+}

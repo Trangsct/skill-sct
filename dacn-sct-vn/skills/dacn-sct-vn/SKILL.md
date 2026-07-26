@@ -1,6 +1,6 @@
 ---
 name: dacn-sct-vn
-description: "Điều hành DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (17/7/2026). 6 nghiệp vụ: (1) tra 09 chỉ tiêu Sở Công Thương chủ trì + chỉ tiêu phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, cập nhật, xếp hạng danh mục dự án động lực (KCN, CCN, khoáng sản, luyện kim, hóa chất, điện, chế biến, thương mại); (3) phân tích sản xuất công nghiệp hằng tháng, tính % kế hoạch, so cùng kỳ, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC) và phương án tháo gỡ; (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính, lồng ghép NQ 01/NQ-CP; (6) kịch bản tăng trưởng, dự báo hoàn thành. Từ khóa: NQ 169/NQ-CP, KL 18-KL/TW, NQ 25/2026/QH16, NQ 109/NQ-CP, tăng trưởng, IIP, chỉ số sản xuất công nghiệp, chế biến chế tạo, GRDP, điện thương phẩm, kim ngạch xuất nhập khẩu, tổng mức bán lẻ, tiết kiệm năng lượng, dự án động lực, điểm nghẽn, báo cáo trước ngày 20."
+description: "Điều hành DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (17/7/2026). 7 nghiệp vụ: (1) tra 09 chỉ tiêu Sở Công Thương chủ trì và chỉ tiêu phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, cập nhật, xếp hạng danh mục dự án động lực; (3) phân tích sản xuất công nghiệp hằng tháng, tính % kế hoạch, so cùng kỳ, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC) và cách tháo gỡ; (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính, lồng ghép NQ 01/NQ-CP; (6) kịch bản tăng trưởng, dự báo hoàn thành; (7) tổng hợp số liệu KCN và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh quản lý. Từ khóa: NQ 169/NQ-CP, KL 18-KL/TW, NQ 25/2026/QH16, tăng trưởng, IIP, chế biến chế tạo, GRDP, điện thương phẩm, kim ngạch xuất nhập khẩu, bán lẻ, dự án động lực, điểm nghẽn, báo cáo trước ngày 20, GTSXCN, KCN Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới, Khu kinh tế cửa khẩu, Bản Vược."
 ---
 
 # dacn-sct-vn — Quản lý dự án công nghiệp phục vụ mục tiêu tăng trưởng (Sở Công Thương Lào Cai)
@@ -21,7 +21,8 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 4. **Nhận diện điểm nghẽn và đề xuất tháo gỡ** cho dự án chậm tiến độ: GPMB, quy hoạch, chủ trương đầu tư, đất đai, GPXD, môi trường, PCCC, nghĩa vụ tài chính → reference `06` + checklist `checklist-ra-soat-diem-nghen.md`.
 5. **Soạn báo cáo định kỳ NQ 169** gửi Sở Tài chính trước ngày 20 của kỳ báo cáo, lồng ghép báo cáo NQ 01/NQ-CP → `mau-van-ban/01` + `05`.
 6. **Xây dựng kịch bản tăng trưởng, dự báo khả năng hoàn thành**, giải trình chỉ tiêu có nguy cơ không đạt → reference `07`.
-7. **Trả lời chất vấn, giải trình chênh lệch số liệu** giữa số liệu chuyên ngành của Sở và số liệu Thống kê tỉnh → reference `04` mục V + `05` mục IV.
+7. **Tổng hợp số liệu KCN, Khu kinh tế cửa khẩu** (GTSXCN, kim ngạch XNK qua cửa khẩu, thu phí hạ tầng cửa khẩu, dự án mới đi vào hoạt động) → reference `08` + `du-lieu/gtsxcn-kcn-kkt-2027.json`.
+8. **Trả lời chất vấn, giải trình chênh lệch số liệu** giữa số liệu chuyên ngành của Sở và số liệu Thống kê tỉnh → reference `04` mục V + `05` mục IV.
 
 **KHÔNG dùng plugin này** để: làm thủ tục thành lập CCN (dùng `kccn-sct-vn`), cấp phép chuyên ngành (dùng plugin lĩnh vực tương ứng), soạn định dạng file .docx (dùng `vbhc-vn`).
 
@@ -100,6 +101,7 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | `references/05-che-do-bao-cao.md` | Kỳ báo cáo, hạn trước ngày 20, đầu mối Sở Tài chính, cấu trúc nội dung bắt buộc, cách lồng ghép NQ 01/NQ-CP |
 | `references/06-diem-nghen-va-thao-go.md` | 07 nhóm điểm nghẽn điển hình của dự án công nghiệp và hướng xử lý theo thẩm quyền |
 | `references/07-kich-ban-tang-truong.md` | Phương pháp dựng kịch bản tháng/quý/năm, ngưỡng cảnh báo, mẫu giải trình chỉ tiêu có nguy cơ không đạt |
+| `references/08-kcn-kkt-bql-khu-kinh-te.md` | **KCN và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh quản lý (vùng Lào Cai cũ):** kết quả 2026, mục tiêu 2027 (GTSXCN, kim ngạch XNK, thu phí hạ tầng), 05 dây chuyền mới, mốc Bản Vược và Cửa khẩu thông minh, 05 điểm mâu thuẫn số liệu phải rà. Nguồn: KH 72/KH-BQL ngày 08/7/2026 |
 
 ## VI. CÔNG CỤ (scripts)
 
@@ -108,9 +110,17 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | `scripts/phan_tich_thang.py` | Đọc file Excel theo dõi sản xuất công nghiệp hằng tháng (sheet `T1`..`T12`), tính % kế hoạch năm, so tháng trước, so cùng kỳ, lũy kế; xuất bảng cảnh báo sản phẩm hụt tiến độ |
 | `scripts/theo_doi_du_an.py` | Quản lý sổ danh mục dự án động lực (JSON): thêm, cập nhật, lọc theo nhóm/chỉ tiêu/trạng thái, chấm điểm ưu tiên, xuất bảng đưa vào báo cáo |
 | `du-lieu/schema-du-an.json` | Lược đồ trường dữ liệu chuẩn của một dự án động lực |
+| `du-lieu/gtsxcn-kcn-kkt-2027.json` | **Biểu dự tính giá trị SXCN năm 2027** của Ban Quản lý Khu kinh tế tỉnh: 04 khu vực (Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới, KKT cửa khẩu), **37 cơ sở, 85 dòng sản phẩm**, có công suất thiết kế, tỷ lệ % công suất hoạt động, sản lượng đăng ký, GTSXCN và doanh thu. Tổng 26.301.347 triệu đồng. Kèm 08 cảnh báo sử dụng — đọc `_canh_bao_su_dung` trước khi trích |
 | `du-lieu/danh-muc-du-an.json` | Sổ dữ liệu. **Đã nạp 95 dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý** (phía Nam 66, Minh Quân 17, Âu Lâu 12; tổng vốn đăng ký 15.501,318 tỷ đồng; kỳ số liệu đến 16/4/2026, phụ lục 12/5/2026). Chạy `theo_doi_du_an.py kiem-tra` để đọc 05 cảnh báo về dữ liệu gốc trước khi dùng |
 
-**Phạm vi sổ hiện tại — biết rõ để không báo cáo thiếu:** mới có dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý. **CHƯA có:** dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý (vùng Lào Cai cũ), dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, và hạ tầng KCN/CCN. Khi lập báo cáo toàn ngành phải bổ sung các nhóm này.
+**Phạm vi dữ liệu hiện có — biết rõ để không báo cáo thiếu:**
+
+| Địa bàn | Cơ quan quản lý | Đã có | File |
+|---|---|---|---|
+| Vùng **Yên Bái cũ** | Ban Quản lý **các Khu công nghiệp tỉnh** | 95 dự án thứ cấp trong 03 KCN (phía Nam, Minh Quân, Âu Lâu) — hồ sơ dự án, vốn, điểm nghẽn | `danh-muc-du-an.json` |
+| Vùng **Lào Cai cũ** | Ban Quản lý **Khu kinh tế tỉnh** | 37 cơ sở trong 03 KCN + KKT cửa khẩu — **sản lượng và GTSXCN đăng ký 2027**, chưa có hồ sơ dự án/điểm nghẽn | `gtsxcn-kcn-kkt-2027.json` + reference `08` |
+
+⚠️ **Hai nguồn có cấu trúc khác nhau, KHÔNG cộng dồn cơ học.** **CHƯA có:** dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN. Khi lập báo cáo toàn ngành phải bổ sung các nhóm này.
 
 ## VII. BIỂU MẪU VÀ CHECKLIST
 
@@ -131,4 +141,5 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 3. **Phân biệt rõ mục tiêu ↔ thực hiện ↔ dự báo.** Trong mọi bảng, ba loại số này phải nằm ở ba cột riêng, có nhãn rõ.
 4. **Phân biệt rõ chủ trì ↔ phối hợp.** Sở Công Thương không tự nhận trách nhiệm chỉ tiêu do cơ quan khác chủ trì, cũng không đẩy chỉ tiêu mình chủ trì sang cơ quan phối hợp.
 5. **Số liệu chuyên ngành phải khớp số liệu Thống kê tỉnh.** Có chênh lệch → phối hợp rà soát, giải trình, thống nhất **trước khi** báo cáo UBND tỉnh (khoản 5 mục II Công văn triển khai).
-6. **Không dùng ký hiệu markdown** trong nội dung Bạn sẽ gửi đi/sao chép.
+6. **Phân biệt hai Ban.** Ban Quản lý **Khu kinh tế tỉnh** (vùng Lào Cai cũ) và Ban Quản lý **các Khu công nghiệp tỉnh** (vùng Yên Bái cũ) là hai cơ quan khác nhau, số liệu không được gộp nhầm hoặc trích chéo.
+7. **Không dùng ký hiệu markdown** trong nội dung Bạn sẽ gửi đi/sao chép.

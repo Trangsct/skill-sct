@@ -1,5 +1,45 @@
 # CHANGELOG — dacn-sct-vn
 
+## v1.2.0 — 2026-07-26 (nạp mảng KCN và Khu kinh tế cửa khẩu vùng Lào Cai cũ)
+
+**Nguồn:** Kế hoạch số **72/KH-BQL ngày 08/7/2026** của Ban Quản lý Khu kinh tế tỉnh Lào Cai về Phát triển kinh tế - xã hội năm 2027 (Trưởng ban Vương Trinh Quốc ký số 08/7/2026 14:01:38), kèm biểu **Dự tính giá trị SXCN năm 2027**. Ban hành theo Văn bản 6607/UBND-TH ngày 27/6/2026 của UBND tỉnh. Nơi nhận có Sở Công Thương. Metadata đã trích từ PDF gốc bằng `extract_metadata.py` (GATE PDF).
+
+### Thêm mới
+- `references/08-kcn-kkt-bql-khu-kinh-te.md` — kết quả 2026 và kế hoạch 2027 của Ban Quản lý Khu kinh tế tỉnh: sản xuất công nghiệp, xuất nhập khẩu, xuất nhập cảnh, thu ngân sách và phí hạ tầng cửa khẩu, quy hoạch và thu hút đầu tư, tồn tại hạn chế, 05 định hướng nhiệm vụ 2027, mốc tiến độ Bản Vược và Cửa khẩu thông minh.
+- `du-lieu/gtsxcn-kcn-kkt-2027.json` — biểu dự tính GTSXCN 2027 số hóa đầy đủ: **04 khu vực, 37 cơ sở, 85 dòng sản phẩm**, mỗi dòng có công suất thiết kế, tỷ lệ % công suất hoạt động, sản lượng đăng ký, GTSXCN (triệu đồng), doanh thu (đồng).
+
+| Khu vực | GTSXCN 2027 (triệu đồng) | Cơ sở |
+|---|---|---|
+| KCN Tằng Loỏng | 24.869.912 | 17 |
+| KCN Bắc Duyên Hải | 411.406 | 8 |
+| KCN Đông Phố Mới | 161.022 | 9 |
+| Khu kinh tế cửa khẩu | 859.008 | 3 |
+| **Tổng cộng** | **26.301.347** | **37** |
+
+Đối chiếu: cộng dồn 37 cơ sở = 26.301.348, dòng "Tổng cộng" của bản gốc ghi 26.301.347 — **lệch 1 triệu đồng do làm tròn trong Excel gốc**; doanh thu khớp tuyệt đối 38.097.407.344.052 đồng. Khi trích dẫn dùng đúng con số dòng Tổng cộng của bản gốc.
+
+### 05 mâu thuẫn số liệu đã ghi vào reference 08 mục IV (KHÔNG tự sửa số của Ban)
+1. **Mục tiêu 2027 (26.000 tỷ) thấp hơn ước thực hiện 2026 (28.000 tỷ) khoảng 7,1%** — Ban so với *kế hoạch* 2026 (25.000 tỷ) để ra "104%". Phải làm rõ trước khi tổng hợp vào chỉ tiêu IIP >12% và chỉ tiêu 3, 4 của NQ 169.
+2. % tăng kim ngạch không khớp số tuyệt đối: xuất khẩu 1,65 → 2,2 tỷ USD thực tế +33,3% (văn bản ghi +23%); nhập khẩu 1,3 → 2 tỷ USD thực tế +53,8% (văn bản ghi +50%).
+3. KCN Đông Phố Mới năm 2027 dừng hoạt động để phục vụ dự án đường sắt Lào Cai - Hà Nội - Hải Phòng (NQ 187/2025/QH15 ngày 19/02/2025) nhưng biểu vẫn đăng ký 161.022 triệu đồng.
+4. Bản gốc đánh số trùng: Phần I mục II có hai mục cùng số "2" — trích dẫn theo tên mục, không theo số mục.
+5. GTSXCN trong biểu là **giá hiện hành suy từ doanh thu**, không phải giá so sánh 2010 → không dùng trực tiếp tính IIP (reference `04`).
+
+### 08 cảnh báo sử dụng ghi trong `_canh_bao_su_dung` của file JSON
+Số 2027 là **đăng ký của doanh nghiệp**, không phải chỉ tiêu giao; cột "KH đăng ký" trộn nhiều đơn vị đo nên không cộng dồn; mục 7 và 8 của KCN Tằng Loỏng nằm trong ô gộp Excel (đọc theo layout: 7 = Phốt pho Apatit P7, 8 = quốc tế Lavita) nên cần xác nhận lại với Ban trước khi đưa vào văn bản chính thức; các ô trống giữ nguyên, không suy đoán; tỷ lệ 202% của Đông Phố Mới là cộng dồn đơn vị đo khác nhau, không trích dẫn.
+
+### Phát hiện nghiệp vụ đáng chú ý
+- **04 cơ sở đầu bảng chiếm 71,3% GTSXCN đăng ký** (Đức Giang P4 5.361.106 · VTM 5.068.226 · Luyện đồng Vimico 4.629.899 · DAP số 2 3.686.109) — trùng khớp nhận định "04 nhóm chủ lực" của Ban, là 04 điểm theo dõi ưu tiên khi cảnh báo hụt chỉ tiêu.
+- **Cả hai đầu mối quặng apatit đăng ký sản lượng bằng 0** (Nhà máy Tuyển quặng Apatit 900.000 tấn CSTK; Đức Giang KT25 loại 1 và loại 3), cùng H3PO4 trích ly của Đức Giang P4 và supe lân của Apromaco — khớp với rủi ro "nguồn cung quặng apatit chưa ổn định" mà Ban nêu.
+- **05 dây chuyền mới vận hành 2027** đã liệt kê để dựng kịch bản tăng trưởng (reference `07`) và bổ sung danh mục dự án động lực (reference `03`).
+
+### Cập nhật
+- `SKILL.md`: thêm nghiệp vụ (7) tổng hợp số liệu KCN, KKT cửa khẩu; thêm reference `08` và file dữ liệu mới vào bảng tra; **thay ghi chú phạm vi sổ bằng bảng hai địa bàn - hai Ban**; thêm nguyên tắc bất biến số 6 "phân biệt hai Ban, không gộp nhầm"; bổ sung từ khóa kích hoạt (GTSXCN, Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới, Khu kinh tế cửa khẩu, Bản Vược) — description 1.014 ký tự, dưới ngưỡng 1.024.
+- `.claude-plugin/plugin.json`: version 1.1.2 → **1.2.0**; bổ sung keywords `kcn-tang-loong`, `khu-kinh-te-cua-khau`, `gtsxcn`.
+
+### Lưu ý vận hành
+Số 2026 trong reference `08` là **ước thực hiện tại thời điểm 08/7/2026**, số 2027 là **đăng ký của doanh nghiệp**. Cả hai đều là số động — đến kỳ báo cáo sau phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý Khu kinh tế tỉnh, không dùng lại như số chính thức cả năm.
+
 ## v1.1.0 — 2026-07-23 (nạp dữ liệu thật 95 dự án trong 03 KCN)
 
 ### Thêm mới

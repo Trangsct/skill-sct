@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-26 — `dacn-sct-vn` v1.2.0: nạp mảng KCN và Khu kinh tế cửa khẩu vùng Lào Cai cũ
+
+- Nguồn: **Kế hoạch 72/KH-BQL ngày 08/7/2026** của Ban Quản lý Khu kinh tế tỉnh Lào Cai (Trưởng ban Vương Trinh Quốc) về Phát triển KTXH năm 2027, kèm biểu **Dự tính giá trị SXCN năm 2027**; ban hành theo Văn bản 6607/UBND-TH ngày 27/6/2026 của UBND tỉnh; nơi nhận có Sở Công Thương. Metadata trích từ PDF gốc bằng `extract_metadata.py`.
+- Thêm reference `08-kcn-kkt-bql-khu-kinh-te.md` và dữ liệu `du-lieu/gtsxcn-kcn-kkt-2027.json` (**04 khu vực, 37 cơ sở, 85 dòng sản phẩm; tổng 26.301.347 triệu đồng**, đã đối chiếu khớp bản gốc, lệch 1 triệu do làm tròn Excel).
+- Ghi rõ **05 mâu thuẫn số liệu trong chính Kế hoạch 72** để rà trước khi tổng hợp — quan trọng nhất: mục tiêu GTSXCN 2027 (26.000 tỷ) **thấp hơn ước thực hiện 2026 (28.000 tỷ)** khoảng 7,1%, có thể xung đột với chỉ tiêu IIP >12% của NQ 169.
+- `SKILL.md`: thêm nghiệp vụ (7); thay ghi chú phạm vi bằng **bảng hai địa bàn - hai Ban** (Ban Quản lý Khu kinh tế tỉnh cho vùng Lào Cai cũ ≠ Ban Quản lý các Khu công nghiệp tỉnh cho vùng Yên Bái cũ), thêm nguyên tắc bất biến "không gộp nhầm hai Ban".
+- `plugin.json` 1.1.2 → **1.2.0**; `marketplace.json` cập nhật entry `dacn-sct-vn` (tái tạo từ plugin.json, không sửa tay entry khác), `metadata.version` 4.0.0 → **4.1.0**.
+
 ## 2026-07-26 (bổ sung) — `sd-vlncn-sct-vn` v2026.7.26.1: sửa ranh giới trách nhiệm thẩm định
 
 - Hồ sơ đầy đủ thì **Sở Công Thương tự thẩm định, tự kết luận** (k6 Đ39 Luật 42/2024), kể cả kết luận đủ/chưa đủ các bước thiết kế mỏ — không hỏi Sở Xây dựng. Thiếu bước → trả lại hồ sơ, chỉ địa chỉ cơ quan thẩm định để **doanh nghiệp** tự liên hệ, đúng nguyên văn CV 473/VPUBND-KT.

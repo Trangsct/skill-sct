@@ -1,4 +1,43 @@
 # CHANGELOG
+## v1.10.0 — 26/7/2026: ref 22 — vốn đầu tư công trung hạn 2026-2030 cho KCN/CCN (QĐ 2390/QĐ-UBND)
+
+Bạn cung cấp hồ sơ kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 (bản .doc dự thảo, bản PDF đã ký, 05 biểu PDF và file Excel gốc). Đã GATE bản PDF và chưng cất phần KCN/CCN thành **reference 22 mới**.
+
+### Định danh đã kiểm chứng qua GATE PDF
+
+| | Nội dung |
+|---|---|
+| Số, ngày | **2390/QĐ-UBND, ngày 09/7/2026** |
+| Cơ quan, người ký | UBND tỉnh Lào Cai — TM. UBND — CHỦ TỊCH — **Nguyễn Tuấn Anh** |
+| Căn cứ HĐND | **NQ 25/NQ-HĐND ngày 29/6/2026**; NQ 51/NQ-HĐND ngày 09/12/2025; Tờ trình 536/TTr-STC ngày 19/6/2026 |
+
+### 🔴 BẪY ĐỌC FILE lặp lại lần thứ hai
+
+Bản `.doc` lưu hành nội bộ là **dự thảo trình ký**, ô số và ngày TRỐNG ("Số: /QĐ-UBND … ngày tháng năm 2026"). Nếu viện dẫn từ bản .doc thì không có số văn bản; nếu đoán số thì vi phạm nguyên tắc bất biến. Chỉ `pdftotext -layout` trên bản PDF đã ký mới ra số 2390 và ngày 09/7/2026. Đây đúng kịch bản `vbhc-pdf-reader-vn` sinh ra để chặn — lần trước xảy ra với KH 134/KH-UBND (CHANGELOG v1.9.0). Đã ghi cảnh báo vào ref 22 mục I và mục VII.
+
+### ✅ GIẢI QUYẾT CỜ ĐỎ tồn từ v1.9.0 — QĐ 1955/QĐ-UBND
+
+v1.9.0 nêu cờ đỏ: KH 134/KH-UBND ban hành 26/3/2026 nhưng viện dẫn "QĐ số 1955/QĐ-UBND **ngày 19/6/2026**" — sau ngày ban hành 3 tháng, nghi lỗi đánh máy, tạm cấm viện dẫn. Biểu 02.1 QĐ 2390 (dòng 22, dự án Đường kết nối từ nút giao IC18 đến CCN Thống Nhất 1, TMĐT 210.000 triệu) ghi rõ **1955/QĐ-UBND ngày 19/06/2025**.
+
+→ Kết luận: **ngày đúng là 19/6/2025**; bản KH 134 ghi 2026 là lỗi đánh máy. Đã mở khoá viện dẫn, ghi vào ref 22 mục IV.B.
+
+### Nội dung ref 22
+
+- **Tổng mức và cơ cấu 05 nguồn** (Điều 1, Điều 2): tổng 57.157.900 triệu đồng, phân bổ chi tiết kỳ này 29.405.429, còn lại chưa phân bổ 27.752.471. Nhận định dùng được khi tham mưu: hơn 82,8% tổng nguồn là **tiền sử dụng đất** → vốn hạ tầng KCN/CCN phụ thuộc tiến độ đấu giá đất, là lập luận giải trình chậm tiến độ. Kèm 09 mức thứ tự ưu tiên phân bổ, lưu ý dự án khởi công mới đứng **cuối** (mức i).
+- **Bảng KCN vùng Yên Bái cũ (BQL các KCN)** — 06 dự án chuyển tiếp, cộng 364.753 triệu: hạ tầng KCN Âu Lâu 70.031; HTKT KCN Minh Quân 43.000; HTKT KCN phía Nam 126.722; chỉnh trang KCN phía Nam 30.000; XLNT tập trung KCN Âu Lâu 45.000; XLNT tập trung KCN Minh Quân 50.000. Đủ TMĐT, lũy kế đến 2025, tách XDCB / tiền SDĐ, số-ngày QĐ đầu tư từng dự án.
+- **KCN Tằng Loỏng**: XLNT giai đoạn 2 (10.000), đường gom nước thải (1.265), khu TĐC Hợp Xuân + khu B (15.491); cộng thêm đường T2 (20.000) và T12, T19 (50.000) từ **nguồn thu khoáng sản** — biểu 04.
+- **Bảng CCN chuyển tiếp** — 10 dự án, cộng 324.374 triệu: CCN Yên Hợp giai đoạn I 30.000 và QHCT CCN Yên Hợp 2.423 (**đều ghi xã Xuân Ái — khớp dữ liệu đã chốt**), CCN Bắc Văn Yên 5.000, mở rộng CCN Âu Lâu 40.000, hạ tầng CCN Yên Thế 500, đường tránh Yên Thế đoạn CCN 65.145, đường trục CCN Phú Thịnh 100.000, đường vào CCN Phố Ràng 2.306, tiểu dự án GPMB Khu-cụm công nghiệp 70.000, quỹ đất TĐC CCN Phú Thịnh 1-2-3 9.000.
+- **Dự án khởi công mới (biểu 02.1)**: mục II "Lĩnh vực Hạ tầng khu kinh tế, khu, cụm công nghiệp" 05 dự án, TMĐT 1.890.000, phân bổ 439.856 — trong đó **một QĐ 767/QĐ-UBND ngày 23/3/2026 phê duyệt CTĐT cho cả 03 dự án** hoàn thiện hạ tầng + GPMB KCN phía Nam / Minh Quân / Âu Lâu (mỗi dự án 100.000). Thêm 02 đường kết nối CCN Thống Nhất 1 (QL4E 130.000 theo QĐ 1693/QĐ-UBND 15/5/2026; IC18 210.000 theo QĐ 1955/QĐ-UBND 19/6/2025) và khu TĐC phục vụ GPMB các KCN 50.000 (QĐ 1967/QĐ-UBND 04/6/2026).
+- **QHCT Khu vực sản xuất công nghiệp Thống Nhất** (QĐ 763/QĐ-UBND ngày 23/3/2026, phân bổ 109) — nhiệm vụ quy hoạch phục vụ di dời cơ sở trong Khu, cụm công nghiệp Đông Phố Mới và CCN Sơn Mãn để GPMB đường sắt Lào Cai – Hà Nội – Hải Phòng, nối tiếp nội dung ref 17.
+- **Bảng tổng hợp vốn ngành**: cộng ≈1.475.992 triệu cho KCN/CCN (chưa tính 139.856 hạ tầng khu cửa khẩu Bản Vược). Đối chiếu NQ 34-NQ/TU (NSNN dự kiến 1.280 tỷ) — phần NSNN đã bố trí **vượt** dự kiến, kèm hướng dẫn nói rõ hai con số khác phạm vi để không bị bắt lỗi.
+- **07 cảnh báo sử dụng**: không viết "đã được cấp vốn" mà viết "đã được bố trí trong kế hoạch đầu tư công trung hạn…"; kế hoạch có thể điều chỉnh giữa kỳ → hỏi Bạn; **cột "Địa điểm xây dựng" trong biểu có lỗi nhập liệu** (QHCT Thống Nhất ghi "Xã Bát Xát" trong khi khu vực Thống Nhất thuộc xã Gia Phú; nhiều dòng ghi chung "Tỉnh Lào Cai") → không dùng cột này xác định vị trí xã, tra ref 12 và 13; tên dự án giữ địa danh cũ; **phân biệt CCN Yên Hợp (12 ha, QĐ 2201/2024) với CCN Yên Hợp 1 và Yên Hợp 2 đang thẩm định** — QĐ 2390 chỉ bố trí vốn cho CCN Yên Hợp, cách ghi "(giai đoạn I)" trong biểu dễ gây nhầm.
+
+### Thay đổi khác
+
+- SKILL.md: thêm mục kích hoạt số 10 (tra vốn đầu tư công trung hạn cho KCN/CCN); thêm dòng ref 22 vào bảng mục IV; rút gọn `description` xuống 966/1024 ký tự và bổ sung từ khoá "QĐ 2390/2026 vốn đầu tư công trung hạn 2026-2030".
+- `van-ban-goc/`: bổ sung **QD-2390-2026-KH-dau-tu-cong-trung-han-2026-2030.pdf** (bản đã ký, dùng để GATE lại khi cần tra 570 dòng biểu 02 và biểu 02.2 phân bổ 99 xã/phường).
+- Liên kết chéo: nguồn thu khoáng sản → `qlks-sct-vn` ref 15; dự án cấp điện nông thôn do Sở Công Thương làm chủ đầu tư → `quy-hoach-ct-vn` ref 09.
+
 ## v1.9.0 — 25/7/2026: ref 19 qua GATE tài liệu gốc, phát hiện 3 nội dung gán sai cho NQ 34
 
 Bạn cung cấp bản gốc NQ 34-NQ/TU và Kế hoạch 134/KH-UBND. Đã GATE cả hai và **viết lại toàn bộ ref 19**.

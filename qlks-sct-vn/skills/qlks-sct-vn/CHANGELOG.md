@@ -1,5 +1,38 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.4.0 — 26/7/2026: reference 15 — nguồn thu đóng góp khai thác khoáng sản trong đầu tư công trung hạn 2026-2030
+
+Bổ sung `references/15-nguon-thu-dong-gop-ks-dtc-2026-2030.md` từ **Quyết định số 2390/QĐ-UBND ngày 09/7/2026** của UBND tỉnh Lào Cai về kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 nguồn vốn ngân sách địa phương (Chủ tịch Nguyễn Tuấn Anh ký; căn cứ NQ 25/NQ-HĐND ngày 29/6/2026; Tờ trình 536/TTr-STC ngày 19/6/2026). **Biểu số 04** của quyết định là biểu riêng cho nguồn thu này.
+
+### Số liệu chốt
+
+| Chỉ tiêu | Triệu đồng |
+|---|---|
+| Tổng nguồn thu đóng góp khai thác khoáng sản giai đoạn 2026-2030 | **1.594.379** |
+| Đã phân bổ chi tiết (03 dự án) | **257.448** |
+| Còn lại chưa phân bổ | **1.336.931** |
+
+03 dự án đã bố trí: nâng cấp, mở rộng đường **T2 trong KCN Tằng Loỏng** 20.000; sửa chữa, nâng cấp, mở rộng đường **T12, T19 trong KCN Tằng Loỏng** 50.000 (cả hai theo QĐ 1217/QĐ-UBND 21/4/2025, CTĐT 1902 ngày 16/6/2025, QĐ dự án 2573 ngày 26/12/2025 cho T2); đường dọc sông Hồng kết nối cửa khẩu Bản Vược đến Y Tý 187.448 (QĐ 2805/QĐ-UBND 01/11/2024, lồng ghép 50 tỷ nguồn tiền sử dụng đất).
+
+### Vì sao đáng lưu vào plugin khoáng sản
+
+70.000 triệu (27% phần đã phân bổ) là đường nội bộ KCN Tằng Loỏng — địa bàn chế biến khoáng sản, luyện kim, hóa chất của tỉnh. Tỉnh đã xác lập **tiền lệ** dùng nguồn thu đóng góp khai thác khoáng sản để đầu tư hạ tầng phục vụ chính khu vực có hoạt động khoáng sản. Với 1.336.931 còn chưa phân bổ, ref 15 nêu 04 hướng đề xuất có căn cứ: đường nội bộ còn lại KCN Tằng Loỏng; hạ tầng - XLNT - bãi thải khu chế biến (bãi thải gyps → `bvmt-sct-vn`); hạ tầng CCN gắn chế biến khoáng sản (Mông Sơn, Tân Nguyên — xã Bảo Ái); khắc phục hư hỏng đường do xe vận chuyển khoáng sản.
+
+### Quy tắc viện dẫn đã ghi
+
+- Gọi **đúng tên nguồn theo quyết định**: "nguồn thu đóng góp từ các tổ chức, cá nhân khai thác khoáng sản". KHÔNG gọi tắt thành "phí khoáng sản", "thuế tài nguyên", "tiền cấp quyền khai thác" — khác nhau về bản chất pháp lý và cơ quan thu.
+- Không viết "đã được cấp vốn" mà "đã được bố trí trong kế hoạch đầu tư công trung hạn giai đoạn 2026-2030…".
+- Kế hoạch có thể điều chỉnh giữa kỳ từ phần chưa phân bổ → kiểm tra quyết định điều chỉnh sau 09/7/2026, hỏi Bạn.
+- Phân định: reference 15 chỉ nói phần **chi đầu tư công**; nghĩa vụ **thu** (tiền cấp quyền, thuế tài nguyên, phí BVMT, đóng góp hỗ trợ địa phương) thuộc Sở Tài chính, Thuế, Sở Nông nghiệp và Môi trường.
+- Bẫy đọc file: bản .doc lưu hành nội bộ là dự thảo trình ký, ô số/ngày TRỐNG; chỉ bản PDF đã ký có số 2390 và ngày 09/7/2026.
+
+### Thay đổi SKILL.md
+
+Thêm nghiệp vụ số 9 "Nguồn thu đóng góp từ tổ chức, cá nhân khai thác khoáng sản trong đầu tư công" trỏ reference `15`; bổ sung từ khoá "QĐ 2390/2026 nguồn thu đóng góp KS" vào `description` (rút gọn vài cụm để giữ 1016/1024 ký tự).
+
+Liên kết: phần KCN/CCN của cùng quyết định → `kccn-sct-vn` ref 22; cấp điện nông thôn do SCT làm chủ đầu tư → `quy-hoach-ct-vn` ref 09. PDF gốc lưu tại `kccn-sct-vn/.../van-ban-goc/QD-2390-2026-KH-dau-tu-cong-trung-han-2026-2030.pdf`.
+
+
 ## v1.0.0 (17/7/2026)
 - Phát hành lần đầu: plugin quản lý nhà nước về khoáng sản của Sở Công Thương tỉnh Lào Cai.
 - Khung pháp lý: Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025), NĐ 193/2025 (sửa bởi NĐ 21/2026), NQ 66.19/2026 Phụ lục VIII, TT 24/43/67/2025 + TT 26/2026/TT-BCT, TT 37/2025/TT-BCT, chùm TT BNNMT 2025, Chỉ thị 11-CT/TU + 26-CT/TU, CV 5973/UBND-KT.

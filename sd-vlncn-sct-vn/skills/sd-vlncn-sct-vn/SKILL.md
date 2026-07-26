@@ -1,6 +1,6 @@
 ---
 name: sd-vlncn-sct-vn
-description: "Chuyên gia QLNN về GIẤY PHÉP SỬ DỤNG vật liệu nổ công nghiệp (VLNCN) và PHƯƠNG ÁN NỔ MÌN (PANM) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) thẩm định, tham mưu cấp/cấp lại/điều chỉnh/thu hồi Giấy phép sử dụng VLNCN (Chủ tịch UBND tỉnh ký GP-UBND, SCT thẩm định trình); (2) thẩm định PANM tại khu vực có công trình cần bảo vệ, lập hồ sơ trình UBND tỉnh: Phiếu trình, Tờ trình, dự thảo QĐ, biên bản kiểm tra hiện trường, lấy ý kiến Sở Xây dựng; (3) hướng dẫn doanh nghiệp: điều kiện, hồ sơ, chỉ huy nổ mìn, huấn luyện KTAT, hộ chiếu nổ mìn; (4) kiểm tra, xử phạt VPHC (NĐ 275/2026; chuyển tiếp NĐ 71/2019 → xp-hc-vlncn-sct-vn); (5) báo cáo định kỳ/đột xuất. Kèm mẫu sẵn dùng + ví dụ thực tế + văn bản gốc. Từ khóa: giấy phép sử dụng VLNCN, GP-UBND, phương án nổ mìn, PANM, hộ chiếu nổ mìn, nổ mìn khu dân cư, khoảng cách an toàn, đá văng, chấn động, QCVN 01:2019/BCT, Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, NĐ 146/2025, NĐ 275/2026, dịch vụ nổ mìn, tiêu hủy VLNCN, mỏ đá, thủy điện, gói thầu."
+description: "Chuyên gia QLNN về GIẤY PHÉP SỬ DỤNG vật liệu nổ công nghiệp (VLNCN) và PHƯƠNG ÁN NỔ MÌN (PANM) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) thẩm định, tham mưu cấp/cấp lại/điều chỉnh/thu hồi Giấy phép sử dụng VLNCN (Chủ tịch UBND tỉnh ký GP-UBND, SCT thẩm định trình); (2) thẩm định PANM tại khu vực có công trình cần bảo vệ, lập hồ sơ trình UBND tỉnh: Phiếu trình, Tờ trình, dự thảo QĐ, biên bản kiểm tra hiện trường, lấy ý kiến Sở Xây dựng; (3) hướng dẫn doanh nghiệp: điều kiện, hồ sơ, chỉ huy nổ mìn, huấn luyện KTAT, hộ chiếu nổ mìn; (4) kiểm tra, xử phạt VPHC (NĐ 275/2026; chuyển tiếp NĐ 71/2019 → xp-hc-vlncn-sct-vn); (5) báo cáo định kỳ/đột xuất. Kèm mẫu, ví dụ thực tế, văn bản gốc. Từ khóa: giấy phép sử dụng VLNCN, GP-UBND, phương án nổ mìn, PANM, hộ chiếu nổ mìn, nổ mìn khu dân cư, khoảng cách an toàn, đá văng, QCVN 01:2019/BCT, Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, NĐ 146/2025, NĐ 275/2026, dịch vụ nổ mìn, mỏ đá, gói thầu, trả lại hồ sơ, VPUBND-KT, thu hồi đất - bàn giao đất."
 ---
 
 # sd-vlncn-sct-vn — Giấy phép sử dụng VLNCN & Phương án nổ mìn (Sở Công Thương Lào Cai)
@@ -13,6 +13,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Phương án nổ mìn (PANM)**: xác định có phải trình UBND tỉnh phê duyệt không (cây quyết định); thẩm định nội dung theo Phụ lục VII TT 23/2024 và QCVN 01:2019/BCT; kiểm tra hiện trường; lấy ý kiến Sở Xây dựng; Tờ trình + dự thảo QĐ phê duyệt PANM (kèm/không kèm chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ) → reference `03` + mẫu 07–11.
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế.
+- **Hồ sơ đã trình bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI**, hoặc chuẩn bị trình mà cần chặn rủi ro bị trả (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước xử lý sau khi bị trả) → reference `09` + mẫu 20. **Chạy bảng tự kiểm mẫu 20 trước MỌI lần trình UBND tỉnh.**
 - **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
 - **Báo cáo** định kỳ/đột xuất về VLNCN: của doanh nghiệp gửi Sở; của UBND tỉnh (SCT dự thảo) gửi Bộ Công Thương/Cục KTAT&MTCN → reference `06` + mẫu 15.
 - Tra cứu **ví dụ thực tế đã ban hành** (giấy phép, QĐ PANM, tờ trình, báo cáo… của Lào Cai 2025–2026) → reference `07` + thư mục `vi-du-thuc-te/`.
@@ -68,6 +69,7 @@ DN nộp hồ sơ (TTPVHCC tỉnh / Cổng DVC / bưu chính)
 → Thẩm định hồ sơ theo checklist Đ38+Đ39 (ref 02) + kiểm tra điều kiện thực tế khi cần
    (chưa đạt → CV /SCT-CN TRẢ LẠI HỒ SƠ kèm hướng dẫn hoàn thiện, nêu ĐÍCH DANH từng tồn tại
    với căn cứ điều khoản + số trang tài liệu DN — mẫu 12, tiền lệ Mông Sơn 7/2026)
+→ TỰ KIỂM CỔNG GÁC 12 điểm (mẫu 20, ref 09) — 1 ô "Không" là KHÔNG TRÌNH
 → Phiếu trình lãnh đạo Sở (mẫu 06) → Tờ trình /TTr-SCT + dự thảo Giấy phép (mẫu 03, 01)
 → Chủ tịch UBND tỉnh ký GP-UBND (KT. PCT Nguyễn Thành Sinh)
 → Trả kết quả; cập nhật CSDL VLNCN; theo dõi thông báo sử dụng, báo cáo định kỳ
@@ -114,6 +116,10 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 
 15. **PANM lệch thiết kế về đường kính + tối ưu cho DN (Mông Sơn 23/7/2026, ref 07 mục H giai đoạn 2):** trước khi buộc "hiệu chỉnh theo thiết kế" hoặc điều chỉnh thiết kế, kiểm tra thiết kế có quy định DẢI đường kính không — giá trị trong dải thì đi đường bảng đối chiếu (cùng công thức, hệ quả giảm thuốc, an toàn hơn). Quy mô đợt nổ ghi GP lấy theo TRẦN Bảng tổng hợp thiết kế; mọi tối ưu phải có địa chỉ trang thiết kế/quy chuẩn. Bảng chủng loại thuốc nổ ghi GỘP kèm liệt kê trong ngoặc theo tiền lệ GP 2781/TTr (kíp vẫn tách vi sai/số 8 nếu CV thẩm định đã nêu đích danh); ba tài liệu Giấy đề nghị – PANM – dự thảo GP trùng nguyên văn dòng gộp.
 
+16. **CHỈ TRÌNH KHI HỒ SƠ ĐÃ ĐỦ ĐIỀU KIỆN — mệnh lệnh thường trực của Chủ tịch UBND tỉnh (CV 2373/UBND-KT ngày 23/9/2025; đọc reference 09 trước mọi lần trình):** "chủ động hướng dẫn đơn vị hoàn thiện hồ sơ… chỉ tham mưu, trình UBND tỉnh xem xét, quyết định các vấn đề **sau khi hồ sơ đã đảm bảo** theo quy định hiện hành". Hệ quả cứng: (a) hồ sơ DN thiếu/sai → Sở **tự** ra văn bản trả lại hồ sơ, TUYỆT ĐỐI không gói thành công văn "tham gia ý kiến/xin ý kiến chỉ đạo" gửi UBND tỉnh (chính lỗi của CV 1510/SCT-CN 19/9/2025 vụ dịch vụ nổ mìn Đại Đồng Tiến); (b) Tờ trình phải có đoạn khẳng định "hồ sơ đảm bảo đủ điều kiện theo Điều 38, Điều 39 Luật 42/2024" — viết không nổi câu này thì chưa được trình; (c) CẤM kiểu trình phòng thân "nêu tồn tại rồi kính đề nghị UBND tỉnh xem xét, quyết định"; (d) chỉ báo cáo UBND tỉnh khi cần **tỉnh chỉ đạo sở, ngành khác**, không bao giờ để tỉnh thẩm định hộ hồ sơ của DN. Với GP dịch vụ nổ mìn: Cục KTAT&MTCN cấp, tỉnh chỉ ban hành văn bản đề nghị → không tồn tại bước "xin ý kiến tỉnh về hồ sơ".
+17. **HỒ SƠ ĐẤT ĐAI, MẶT BẰNG là đầu mục bắt buộc dù Điều 39 không liệt kê (CV 565/VPUBND-KT ngày 23/10/2025 trả TTr 1332/TTr-SCT 08/9/2025 — gói thầu số 05 QL4D Km183÷Km188 xã Mường Khương, Cty Anh Nam Xuân Thủy):** lý do trả nguyên văn — "chưa có hồ sơ thủ tục thu hồi đất và bàn giao đất nên chưa đủ cơ sở để cấp giấy phép". Công trình xây dựng: **QĐ thu hồi đất + biên bản bàn giao đất/bàn giao mặt bằng** cho nhà thầu; mỏ: **QĐ giao đất/cho thuê đất + hợp đồng thuê đất** đúng diện tích khai thác. Căn cứ pháp lý để lập luận (Đ39 không nêu tên tài liệu): điểm b k1 Đ38 (đang có hoạt động khai thác/công trình hợp pháp), điểm d k1 Đ38 (địa điểm bảo đảm khoảng cách an toàn), k6 Đ39 (kiểm tra **điều kiện thực tế**) — chưa GPMB nghĩa là dân, tài sản còn trong phạm vi ảnh hưởng nổ mìn nên điều kiện an toàn chưa xác lập được.
+18. **Bị trả hồ sơ là mất hạn TTHC và có nguy cơ treo nhiều tháng — trả sớm ở cấp Sở rẻ hơn trình sớm lên tỉnh:** TTr 1332 trình 08/9/2025 bị trả sau 45 ngày; TTr 1599/TTr-SCT 24/9/2025 (mỏ đá Đồng Khê) bị trả sau 13 ngày bởi CV 473/VPUBND-KT 07/10/2025 vì **thiếu các bước thiết kế mỏ** (điểm c k1 Đ39), và đến CV 916/VPUBND-KT 25/5/2026 vẫn chưa khép — hơn 7 tháng cho thủ tục 05 ngày làm việc. Người rà thực tế là **Văn phòng UBND tỉnh** (Phòng KT, đ/c Nho tổng hợp, PCVP Hoàng Ngọc Bích ký) — 2/3 văn bản trả lại là của Văn phòng. Khi trả lại DN sau khi bị tỉnh trả: **không sao chép căn cứ sai** của văn bản trả lại (CV 473 dẫn Luật ngày 20/6/2017 đã được thay bởi Luật 42/2024) — dẫn Luật 42/2024, phần chỉ đạo ghi trung tính "Thực hiện ý kiến… tại Văn bản số 473/VPUBND-KT ngày 07/10/2025".
+
 ## VII. CẤU TRÚC PLUGIN
 
 ```
@@ -131,9 +137,12 @@ sd-vlncn-sct-vn/
 │   │                                    (chuyển tiếp NĐ 71/2019); thẩm quyền; quy trình xử phạt
 │   ├── 06-bao-cao.md                 ← chế độ báo cáo định kỳ/đột xuất các cấp
 │   ├── 07-vi-du-thuc-te.md           ← index ví dụ + bài học kinh nghiệm từng vụ việc
-│   └── 08-khoang-cach-an-toan-da-vang.md ← Bảng 1/7.8/7.9 nguyên gốc, quy tắc 1,5 lần,
-│                                    hai cách đọc nổ làm tơi, case Thành Hương + Mông Sơn
-├── mau-van-ban/                      ← 19 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
+│   ├── 08-khoang-cach-an-toan-da-vang.md ← Bảng 1/7.8/7.9 nguyên gốc, quy tắc 1,5 lần,
+│   │                                hai cách đọc nổ làm tơi, case Thành Hương + Mông Sơn
+│   └── 09-cong-gac-ubnd-tra-ho-so.md ← 3 tiền lệ UBND tỉnh/VP UBND trả hồ sơ 2025,
+│                                    ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình
+│                                    5 bước xử lý sau khi bị trả
+├── mau-van-ban/                      ← 20 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md
 │   ├── 03-to-trinh-cap-gp.md
@@ -152,7 +161,8 @@ sd-vlncn-sct-vn/
 │   ├── 16-qd-kiem-tra-chuyen-nganh.md
 │   ├── 17-ke-hoach-kiem-tra-cua-doan.md
 │   ├── 18-bao-cao-ket-qua-kiem-tra.md
-│   └── 19-thong-bao-ket-qua-sau-kiem-tra.md
+│   ├── 19-thong-bao-ket-qua-sau-kiem-tra.md
+│   └── 20-bang-tu-kiem-truoc-khi-trinh-ubnd.md
 ├── vi-du-thuc-te/                    ← văn bản thật đã ban hành (docx + PDF ký thật: Phiếu trình,
 │                                       biên bản hiện trường, PANM đầy đủ của DN, CV SXD/SCT)
 └── van-ban-goc/                      ← văn bản pháp luật ĐẦY ĐỦ (Luật 42, NĐ 181, TT 23, TT 38,

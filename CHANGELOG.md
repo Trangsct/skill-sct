@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-26 — `sd-vlncn-sct-vn` v2026.7.26: chống bị UBND tỉnh trả lại hồ sơ cấp phép VLNCN
+
+- Nguồn: 3 văn bản trả hồ sơ quý III–IV/2025 do Bạn cung cấp, đã trích metadata từ PDF gốc: **2373/UBND-KT 23/9/2025**, **473/VPUBND-KT 07/10/2025**, **565/VPUBND-KT 23/10/2025**.
+- Thêm reference `09-cong-gac-ubnd-tra-ho-so.md` (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước sau khi bị trả) và mẫu `20-bang-tu-kiem-truoc-khi-trinh-ubnd.md`.
+- Checklist thẩm định thêm nhóm **C2b — pháp lý đất đai, mặt bằng**; SKILL.md thêm anti-error 16–18; reference 02 thêm lỗi D.10–D.12; reference 07 thêm 3 ví dụ thực tế và bài học D.8–D.10; mẫu 06 thêm mục đất đai và mục tự kiểm.
+- `plugin.json` 2026.7.24 → **2026.7.26**; `marketplace.json` cập nhật version + description entry `sd-vlncn-sct-vn` (tái tạo từ plugin.json, không sửa tay các entry khác).
+
 ## 2026-07-25 (tối) — Hủy phương án tách đôi, gộp về MỘT marketplace: `marketplace.json` v4.0.0 đủ 18 plugin
 
 - **Lý do:** vận hành song song hai marketplace (`skill-sct` 12 plugin + `skill-sct-2` 6 plugin) gây rối khi quản lý — hai nơi cập nhật, dễ lệch phiên bản, đã phát sinh tình trạng plugin trùng tên giữa bản cài từ marketplace và bản upload tay. Quyết định quay về một đầu mối duy nhất.

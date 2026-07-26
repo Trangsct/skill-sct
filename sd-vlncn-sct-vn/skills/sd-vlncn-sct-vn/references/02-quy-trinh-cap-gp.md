@@ -22,7 +22,8 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
                kiểm tra điều kiện thực tế/hiện trường khi cần (kho, vị trí — biên bản mẫu 09)
 4. LIÊN THÔNG  Vướng thiết kế mỏ/xây dựng → CV hỏi Sở Xây dựng (câu hỏi ĐÓNG, có thời hạn);
                PANM thuộc diện phê duyệt → chạy quy trình PANM (ref 03) TRƯỚC hoặc SONG SONG
-5. TRÌNH       Phiếu trình lãnh đạo Sở (mẫu 06) → PGĐ Hoàng Văn Thuân duyệt
+5. TRÌNH       TỰ KIỂM CỔNG GÁC 12 điểm (mẫu 20, ref 09) — 1 ô "Không" là KHÔNG TRÌNH
+               → Phiếu trình lãnh đạo Sở (mẫu 06) → PGĐ Hoàng Văn Thuân duyệt
                → Tờ trình /TTr-SCT trình UBND tỉnh (mẫu 03) + dự thảo Giấy phép (mẫu 01/02)
 6. KÝ BAN HÀNH Chủ tịch UBND tỉnh (KT. PCT Nguyễn Thành Sinh) ký GP-UBND
 7. SAU CẤP     Trả kết quả; cập nhật CSDL VLNCN; lưu hồ sơ; đưa vào danh sách theo dõi
@@ -39,6 +40,12 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 **C2. Cơ sở pháp lý hoạt động (điểm b)**
 - [ ] Mỏ: GP thăm dò/khai thác khoáng sản **còn hiệu lực**, đúng vị trí, đúng chủ thể; chú ý thời hạn GP sử dụng không vượt thời hạn GP khai thác
 - [ ] Công trình: QĐ trúng thầu/QĐ phê duyệt dự án + hợp đồng nhận thầu (hoặc văn bản ủy quyền, giao nhiệm vụ); phạm vi gói thầu khớp địa điểm đề nghị nổ mìn; **Phụ lục hợp đồng điều chỉnh khối lượng** (nếu có) phải thu thập để tính đúng khối lượng đá còn phải nổ
+
+**C2b. Pháp lý ĐẤT ĐAI, MẶT BẰNG (đầu mục BẮT BUỘC — tiền lệ trả hồ sơ 565/VPUBND-KT 23/10/2025)**
+- [ ] **Mỏ khoáng sản**: QĐ giao đất/cho thuê đất + hợp đồng thuê đất, đúng diện tích, đúng vị trí khai trường xin nổ mìn; còn hiệu lực
+- [ ] **Công trình xây dựng, gói thầu**: **QĐ thu hồi đất** + **biên bản bàn giao đất / bàn giao mặt bằng** cho chủ đầu tư, nhà thầu thi công trên đúng phân đoạn, lý trình xin nổ mìn
+- [ ] Phần diện tích chưa GPMB (nếu có) phải được loại khỏi phạm vi nổ mìn trong dự thảo GP, hoặc hồ sơ chưa đủ điều kiện → trả lại
+- [ ] Căn cứ để yêu cầu (Đ39 không liệt kê tên tài liệu đất đai): **điểm b k1 Đ38** (đang có hoạt động khai thác/công trình xây dựng hợp pháp) + **điểm d k1 Đ38** (địa điểm bảo đảm khoảng cách an toàn với công trình, đối tượng cần bảo vệ) + **k6 Đ39** (kiểm tra **điều kiện thực tế**). Lập luận nghiệp vụ: chưa thu hồi, chưa bàn giao đất = dân và tài sản còn trong phạm vi ảnh hưởng nổ mìn → chưa xác lập được điều kiện an toàn (chi tiết ref `09` mục B câu 3)
 
 **C3. Kỹ thuật (điểm c, d)**
 - [ ] Thiết kế khai thác mỏ / thiết kế - bản vẽ thi công **do chủ đầu tư phê duyệt**, được lập-thẩm định đúng trình tự pháp luật xây dựng **tại thời điểm lập** (hồ sơ cũ: đối chiếu NĐ hiệu lực khi đó; vướng → hỏi SXD câu hỏi đóng — tiền lệ Đồng Khê)
@@ -71,6 +78,10 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 7. Nhầm thẩm quyền: DN có GP khoáng sản do Bộ NN&MT cấp nộp về Sở → hướng dẫn nộp Cục KTAT&MTCN.
 8. **PANM lệch thiết kế được duyệt hàng loạt** (Mông Sơn 7/2026): tư vấn lập PANM theo thiết bị hiện có, bỏ qua thiết kế 2010 → 9 thông số khác cơ bản (đường kính, W, a, b, thuốc/lỗ, suất phá đá, mét khoan, quy mô bãi, phương tiện nổ). Cách thẩm định: lập bảng đối chiếu từng thông số kèm SỐ TRANG IN của cả hai tài liệu; yêu cầu hai nhánh: sửa PANM theo thiết kế, hoặc điều chỉnh thiết kế đúng pháp luật xây dựng trước rồi mới cập nhật PANM kèm chứng minh an toàn QCVN. Kèm rà lỗi số học nội tại của PANM (đơn vị, phép nhân, tổng, quy đổi quý/tháng, số ngày làm việc).
 9. **Hình thức văn bản khi hồ sơ chưa đủ điều kiện = TRẢ LẠI HỒ SƠ** (chỉ đạo PTP Trang): "V/v trả lại hồ sơ…"; "trả lại hồ sơ (gửi kèm theo Công văn này)"; không đặt hạn nộp bổ sung; nộp lại "qua Hệ thống thông tin giải quyết thủ tục hành chính" (k5 Đ39); kết bằng "Sở Công Thương thông báo cho [DN] được biết và thực hiện./.". Hai điểm KHÔNG đưa vào yêu cầu: tài liệu phương tiện vận chuyển (DN thuê sau khi được cấp phép; chỉ liên quan điểm e k1 Đ39 khi không có kho/phương tiện) và chứng chỉ chuyên môn/thâm niên của nhân sự đã có GCN huấn luyện KTAT do Sở cấp còn hiệu lực (Sở đã thẩm tra khi huấn luyện, kiểm tra). Khung docx: `vi-du-thuc-te/CV-tra-lai-ho-so-GPSD-VLNCN-Mong-Son.docx`.
+
+10. **Thiếu hồ sơ thu hồi đất, bàn giao đất — bị Văn phòng UBND tỉnh trả** (gói thầu số 05 QL4D Km183÷Km188 xã Mường Khương, Cty TNHH Anh Nam Xuân Thủy; CV 565/VPUBND-KT ngày 23/10/2025 trả TTr 1332/TTr-SCT ngày 08/9/2025). Nay là đầu mục C2b của checklist — kiểm trước cả kỹ thuật, vì thiếu là trả chắc chắn.
+11. **Thiếu các bước thiết kế mỏ — bị trả và treo hơn 7 tháng** (mỏ đá Đồng Khê thôn Bản Hốc xã Văn Chấn, Cty TNHH Đại Đồng Tiến; CV 473/VPUBND-KT ngày 07/10/2025 trả TTr 1599/TTr-SCT ngày 24/9/2025 → đến CV 916/VPUBND-KT ngày 25/5/2026 vẫn chưa khép). Rút ra: nút thiết kế phải chốt bằng văn bản kết luận rõ ràng của Sở Xây dựng TRƯỚC khi trình, không trình rồi chờ; song song hướng dẫn DN liên hệ Sở Xây dựng theo đúng chỉ đạo của tỉnh. Khi trả lại DN, dẫn **Luật 42/2024** — không sao chép căn cứ "Luật ngày 20/6/2017" trong văn bản trả lại (Luật 14/2017 đã hết hiệu lực từ 01/01/2025).
+12. **Gói hồ sơ chưa đủ điều kiện thành công văn "tham gia ý kiến" gửi UBND tỉnh** — bị Chủ tịch UBND tỉnh nắn lại tại CV 2373/UBND-KT ngày 23/9/2025 (vụ GP dịch vụ nổ mìn Cty TNHH Đại Đồng Tiến, CV 1510/SCT-CN ngày 19/9/2025): việc hướng dẫn hoàn thiện hồ sơ là chức năng của Sở; chỉ trình khi hồ sơ đã đảm bảo. Xem ref `09` mục B để phân định đúng kênh.
 
 ## E. CẤP LẠI / ĐIỀU CHỈNH — LƯU Ý RIÊNG
 

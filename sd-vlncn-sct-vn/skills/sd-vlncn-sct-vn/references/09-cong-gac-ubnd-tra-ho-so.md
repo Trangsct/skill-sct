@@ -1,0 +1,126 @@
+# 09 — CỔNG GÁC UBND TỈNH / VĂN PHÒNG UBND TỈNH: 3 TIỀN LỆ TRẢ HỒ SƠ VÀ BẢNG TỰ KIỂM TRƯỚC KHI TRÌNH
+
+> Mục đích: chặn tình trạng Sở trình hồ sơ cấp phép VLNCN rồi bị UBND tỉnh / Văn phòng UBND tỉnh
+> trả lại. Toàn bộ số/ngày dưới đây đã xác minh bằng `extract_metadata.py` trên bản PDF gốc
+> (lưu tại `vi-du-thuc-te/`), KHÔNG lấy từ context hiển thị.
+
+## A. BA TIỀN LỆ (quý III–IV/2025) — nguồn của mọi quy tắc ở mục B, C
+
+| # | Văn bản trả lại | Người ký | Hồ sơ bị trả | Vụ việc | Lý do đích danh |
+|---|---|---|---|---|---|
+| 1 | **2373/UBND-KT ngày 23/9/2025** | KT. CHỦ TỊCH — PCT **Nguyễn Thành Sinh** | **1510/SCT-CN ngày 19/9/2025** (công văn "tham gia ý kiến") | Cấp GP **dịch vụ nổ mìn** trên địa bàn tỉnh — Công ty TNHH Đại Đồng Tiến | Sai KÊNH xử lý: việc hướng dẫn hoàn thiện hồ sơ thuộc chức năng của Sở, không phải việc xin ý kiến UBND tỉnh |
+| 2 | **473/VPUBND-KT ngày 07/10/2025** | KT. CHÁNH VĂN PHÒNG — PCVP **Hoàng Ngọc Bích** | **Tờ trình 1599/TTr-SCT ngày 24/9/2025** | GP sử dụng VLNCN khai thác đá làm VLXDTT mỏ đá **Đồng Khê**, thôn Bản Hốc, xã Văn Chấn — Công ty TNHH Đại Đồng Tiến | Thành phần hồ sơ **các bước thiết kế mỏ** chưa đảm bảo (VP dẫn điểm c khoản 1 Điều 39 Luật ngày 20/6/2017) → chưa đủ điều kiện cấp; yêu cầu DN liên hệ **Sở Xây dựng** hướng dẫn hoàn thiện |
+| 3 | **565/VPUBND-KT ngày 23/10/2025** | KT. CHÁNH VĂN PHÒNG — PCVP **Hoàng Ngọc Bích** | **Tờ trình 1332/TTr-SCT ngày 08/9/2025** | GP sử dụng VLNCN cho Công ty TNHH Anh Nam Xuân Thủy thi công **Gói thầu số 05** — dự án xử lý các vị trí tiềm ẩn TNGT đoạn **Km183÷Km188, Quốc lộ 4D, xã Mường Khương** | **Chưa có hồ sơ thủ tục thu hồi đất và bàn giao đất** → chưa đủ cơ sở cấp GP; yêu cầu DN bổ sung rồi trình lại |
+
+**Nguyên tắc UBND tỉnh đặt ra (nguyên văn văn bản 1, coi như mệnh lệnh thường trực):**
+> "Yêu cầu Sở Công Thương căn cứ quy định và chức năng, nhiệm vụ, **chủ động hướng dẫn đơn vị
+> hoàn thiện hồ sơ**…; Yêu cầu Sở **chỉ tham mưu, trình UBND tỉnh xem xét, quyết định các vấn đề
+> sau khi hồ sơ đã đảm bảo theo quy định hiện hành**."
+
+**Ba dữ kiện phải nhớ về chi phí của việc trình sớm:**
+1. TTr 1332 trình 08/9/2025 → bị trả 23/10/2025 = **45 ngày**; TTr 1599 trình 24/9/2025 → bị trả
+   07/10/2025 = **13 ngày**. Thời hạn giải quyết TTHC chỉ **05 ngày làm việc** (k6 Đ39 Luật
+   42/2024) → trình khi hồ sơ chưa đủ là tự tạo hồ sơ quá hạn, lỗi quy về Sở.
+2. Vụ Đồng Khê bị trả 07/10/2025 nhưng đến **916/VPUBND-KT ngày 25/5/2026** vẫn còn phải rà soát
+   liên ngành (xem mục C reference 07) → **hơn 7 tháng** cho một hồ sơ 5 ngày làm việc. Trả hồ sơ
+   mà không chốt dứt điểm nút vướng thì vụ việc quay lại.
+3. **Người rà soát thực tế là Văn phòng UBND tỉnh** (Phòng Kinh tế, chuyên viên tổng hợp đ/c Nho,
+   PCVP Hoàng Ngọc Bích ký) — 2/3 văn bản trả lại là của Văn phòng, không phải Phó Chủ tịch. Vì
+   vậy hồ sơ trình phải chịu được vòng rà **hình thức - pháp lý - thành phần** của Văn phòng
+   trước khi tới tay người ký.
+
+## B. BA CÂU HỎI GÁC CỔNG — trả lời xong mới được đặt bút viết Tờ trình
+
+**Câu 1 — Việc này có phải việc của Sở tự làm không?** (tiền lệ 2373/UBND-KT)
+
+| Loại việc | Đúng kênh | Sai kênh (bị trả) |
+|---|---|---|
+| Hồ sơ DN thiếu, sai, chưa đủ điều kiện | **Sở tự ra công văn trả lại hồ sơ / hướng dẫn hoàn thiện** cho DN (mẫu 12) | Công văn "tham gia ý kiến / xin ý kiến chỉ đạo" gửi UBND tỉnh kèm hồ sơ chưa đủ |
+| Vướng thuộc thẩm quyền sở, ngành khác (thiết kế mỏ, đất đai, giao thông) | Sở hỏi trực tiếp sở đó bằng **câu hỏi ĐÓNG có thời hạn** (mẫu 08); chỉ báo cáo UBND tỉnh khi sở kia không trả lời hoặc trả lời chung chung, và khi đó **đề nghị tỉnh chỉ đạo sở kia**, không đề nghị tỉnh đánh giá hồ sơ của DN | Đề nghị UBND tỉnh "cho ý kiến về hồ sơ của doanh nghiệp" |
+| Hồ sơ đã đủ điều kiện | Tờ trình + dự thảo GP/QĐ để Chủ tịch UBND tỉnh ký | — |
+
+Ranh giới một câu: **tỉnh quyết định cấp phép, tỉnh chỉ đạo các sở — tỉnh không thẩm định hộ Sở.**
+Với **GP dịch vụ nổ mìn**, thẩm quyền cấp là Cục KTAT&MTCN, UBND tỉnh chỉ ban hành **văn bản đề
+nghị** (điểm c k1 Đ4 TT 23/2024 sđ TT 26/2026; k1 Đ23 NĐ 146/2025) → Sở phải thẩm định xong toàn
+bộ hồ sơ rồi dự thảo văn bản đề nghị của tỉnh, không có bước "xin ý kiến tỉnh về hồ sơ".
+
+**Câu 2 — Hồ sơ đã ĐỦ ĐIỀU KIỆN chưa, hay còn điểm treo?**
+
+- Còn dù chỉ **một** đầu mục chưa chốt → **KHÔNG trình**. Ra văn bản trả lại hồ sơ (chuẩn Mông
+  Sơn: trích yếu "V/v trả lại hồ sơ…", trả kèm hồ sơ, không đặt hạn nộp, nộp lại qua Hệ thống
+  thông tin giải quyết TTHC).
+- Tờ trình bắt buộc có **một đoạn khẳng định đủ điều kiện**, dạng: "Sở Công Thương đã thẩm định
+  hồ sơ; hồ sơ đảm bảo đủ điều kiện, thành phần theo quy định tại Điều 38, Điều 39 Luật số
+  42/2024/QH15…". Nếu không viết nổi câu này thì hồ sơ chưa được trình.
+- **Cấm tuyệt đối** kiểu trình phòng thân: nêu tồn tại trong Tờ trình rồi "kính đề nghị UBND tỉnh
+  xem xét, quyết định". Đó chính là dạng văn bản bị trả ở cả 3 tiền lệ.
+
+**Câu 3 — Nền pháp lý của ĐỊA ĐIỂM nổ mìn đã hợp pháp và đầy đủ chưa?**
+
+Hai nút vướng thực tế đã làm trả hồ sơ, phải kiểm trước mọi thứ khác:
+
+- **Đất, mặt bằng** (tiền lệ 565): dự án xây dựng phải có **hồ sơ thu hồi đất và bàn giao đất**;
+  mỏ phải có **quyết định giao đất/cho thuê đất, hợp đồng thuê đất** đúng diện tích khai thác.
+  *Lưu ý pháp lý:* Điều 39 Luật 42/2024 KHÔNG liệt kê tài liệu đất đai trong 7 đầu mục hồ sơ —
+  căn cứ nằm ở **điểm b khoản 1 Điều 38** (phải đang có hoạt động khai thác/công trình xây dựng
+  hợp pháp), **điểm d khoản 1 Điều 38** (địa điểm sử dụng bảo đảm khoảng cách an toàn với công
+  trình, đối tượng cần bảo vệ) và **khoản 6 Điều 39** (cơ quan có thẩm quyền kiểm tra **điều kiện
+  thực tế**). Lý lẽ nghiệp vụ cần viết rõ trong biên bản thẩm định: chưa thu hồi, chưa bàn giao
+  đất nghĩa là hộ dân, tài sản còn nằm trong phạm vi ảnh hưởng nổ mìn → điều kiện khoảng cách an
+  toàn chưa thể xác lập, và nhà thầu chưa có quyền hợp pháp tác động vào đất. Từ nay coi đây là
+  **đầu mục bắt buộc** của checklist (ref 02 mục C2b), dù luật VLNCN không liệt kê tên tài liệu.
+- **Thiết kế** (tiền lệ 473): đủ **các bước thiết kế mỏ** theo pháp luật xây dựng tại thời điểm
+  lập, được thẩm định, phê duyệt đúng trình tự, do chủ đầu tư phê duyệt (điểm c k1 Đ39). Hồ sơ
+  thiết kế cũ (trước 2021) phải chứng minh được trình tự theo nghị định hiệu lực khi đó → hỏi Sở
+  Xây dựng câu hỏi ĐÓNG, có thời hạn; chưa có kết luận rõ thì chưa trình (plugin `tkm-sct-vn` cho
+  phần thẩm quyền, nội dung các bước thiết kế mỏ).
+
+## C. QUY TẮC VIỆN DẪN KHI TRẢ LẠI HỒ SƠ CHO DOANH NGHIỆP SAU KHI BỊ TỈNH TRẢ
+
+1. **Không sao chép nguyên văn căn cứ sai của văn bản trả lại.** CV 473/VPUBND-KT dẫn "điểm c
+   khoản 1 Điều 39 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 20/6/2017" —
+   Luật 14/2017 đã được thay bởi **Luật số 42/2024/QH15 (hiệu lực 01/01/2025)**, thời điểm
+   10/2025 phải dẫn Luật 42/2024. Nội dung điểm c khoản 1 Điều 39 của hai luật tương ứng nhau nên
+   yêu cầu của Văn phòng là đúng bản chất; văn bản của Sở gửi DN **dẫn Luật 42/2024**, phần dẫn
+   văn bản chỉ đạo thì ghi trung tính: "Thực hiện ý kiến của Văn phòng UBND tỉnh tại Văn bản số
+   473/VPUBND-KT ngày 07/10/2025…" — không bình luận, không nhắc lại điều khoản sai.
+2. **Chuyển hóa nguyên văn lý do trả lại thành yêu cầu cụ thể**: nêu đích danh tài liệu còn
+   thiếu, căn cứ điều-khoản-điểm, và số trang tài liệu DN đã nộp (căn cứ kép — SKILL mục VI.13).
+3. Câu dẫn chuẩn cho hồ sơ trình lại: "Sau khi Công ty bổ sung đầy đủ, Sở Công Thương sẽ thẩm
+   định và trình Chủ tịch UBND tỉnh xem xét, cấp giấy phép theo quy định." — thể hiện đúng thứ tự
+   đủ hồ sơ trước, trình sau.
+4. Không đặt thời hạn nộp bổ sung cho DN (chuẩn Mông Sơn); nhưng **có** đặt thời hạn trả lời cho
+   sở, ngành khi hỏi liên ngành.
+
+## D. BẢNG TỰ KIỂM 12 ĐIỂM TRƯỚC KHI TRÌNH UBND TỈNH (in kèm Phiếu trình — mẫu 20)
+
+| # | Nội dung tự kiểm | Đạt / Không |
+|---|---|---|
+| 1 | Việc trình đúng kênh: hồ sơ đã đủ điều kiện, không phải văn bản xin ý kiến về hồ sơ DN | |
+| 2 | Tờ trình có đoạn khẳng định "hồ sơ đảm bảo đủ điều kiện theo Điều 38, Điều 39 Luật 42/2024" | |
+| 3 | Không còn bất kỳ tồn tại nào được nêu trong Tờ trình để tỉnh "xem xét, quyết định" | |
+| 4 | **Đất, mặt bằng**: QĐ giao đất/cho thuê đất + HĐ thuê đất (mỏ) HOẶC hồ sơ thu hồi đất + biên bản bàn giao đất, bàn giao mặt bằng (công trình) — đủ, đúng phạm vi nổ mìn | |
+| 5 | **Thiết kế**: đủ các bước theo pháp luật xây dựng tại thời điểm lập, được thẩm định và chủ đầu tư phê duyệt; vướng đã có kết luận rõ ràng bằng văn bản của Sở Xây dựng | |
+| 6 | Cơ sở pháp lý hoạt động còn hiệu lực: GP khai thác khoáng sản / QĐ trúng thầu + hợp đồng nhận thầu, phụ lục điều chỉnh khối lượng | |
+| 7 | PANM: đúng nội dung Phụ lục VII TT 23/2024, chỉ huy nổ mìn ký, lãnh đạo DN duyệt, số liệu khớp thiết kế; thuộc diện điểm d k2 Đ38 thì QĐ phê duyệt PANM đã có hoặc trình đồng thời | |
+| 8 | Khoảng cách an toàn: đủ 3 giá trị Rc, rs, Rđv; giá trị lớn nhất ≤ khoảng cách thực tế (ref 08) | |
+| 9 | Kho, PCCC, ANTT, nhân sự (GCN huấn luyện KTAT còn hiệu lực) đủ theo checklist ref 02 | |
+| 10 | Số liệu 3 khớp: dự thảo GP = PANM = thiết kế (chủng loại, tổng khối lượng, Qmax) | |
+| 11 | Thẩm quyền đúng: không thuộc 2 ngoại lệ của Cục KTAT&MTCN; thời hạn GP không vượt thời hạn GP khai thác/tiến độ công trình (k7 Đ39) | |
+| 12 | Thể thức: chủ thể "Chủ tịch UBND tỉnh", ký KT. CHỦ TỊCH — PHÓ CHỦ TỊCH; nơi nhận có CVP, PCVP UBND tỉnh (Bích); địa danh xã + tỉnh Lào Cai sau 01/7/2025 | |
+
+Có **một** ô "Không" → dừng, ra văn bản trả lại hồ sơ cho DN hoặc văn bản liên ngành, không trình.
+
+## E. QUY TRÌNH XỬ LÝ KHI ĐÃ BỊ TRẢ HỒ SƠ (5 bước, làm trong 03 ngày làm việc)
+
+1. **GATE đọc PDF** văn bản trả lại → chốt số, ngày, người ký, lý do nguyên văn.
+2. **Phân loại nút vướng**: (a) DN thiếu tài liệu → công văn Sở gửi DN; (b) vướng thẩm quyền sở
+   khác → công văn hỏi sở đó, câu hỏi ĐÓNG, có thời hạn, đồng thời thông báo DN; (c) vướng cả hai
+   → làm song song, không chờ tuần tự.
+3. **Báo cáo lãnh đạo Sở** (Phiếu trình) kèm mốc thời gian dự kiến khép hồ sơ; ghi rõ hồ sơ đã
+   vượt thời hạn TTHC bao nhiêu ngày để lãnh đạo nắm rủi ro.
+4. **Theo dõi bằng sổ**: mỗi hồ sơ bị trả lập một dòng theo dõi cho tới khi trình lại được — tránh
+   lặp lại vụ Đồng Khê treo hơn 7 tháng.
+5. **Trình lại**: chạy lại đủ 12 điểm mục D; Tờ trình mới nêu rõ đã khắc phục từng nội dung tại
+   văn bản trả lại (dẫn số, ngày văn bản đó) — để Văn phòng UBND tỉnh đối chiếu nhanh, không phải
+   rà lại từ đầu.

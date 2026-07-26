@@ -1,5 +1,12 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-07-26 (bổ sung)
+- **sd-vlncn-sct-vn [2026.7.26.1]**: **sửa hướng dẫn sai về kênh liên ngành** (chỉ đạo PTP Trang): hồ sơ đã đầy đủ thì Sở Công Thương **tự thẩm định và tự kết luận theo khoản 6 Điều 39 Luật 42/2024**, kể cả việc kết luận có đủ các bước thiết kế mỏ hay không — KHÔNG hỏi Sở Xây dựng. Đọc lại nguyên văn CV 473/VPUBND-KT: chỉ đạo là "yêu cầu **Công ty**… liên hệ Sở Xây dựng để được hướng dẫn, hoàn thiện hồ sơ thiết kế" → nghĩa vụ đặt lên doanh nghiệp, Sở chỉ trả lại hồ sơ và chỉ địa chỉ cơ quan thẩm định theo nhóm khoáng sản (nhóm I → SCT; nhóm II, III gồm mỏ đá VLXDTT → SXD; từ 01/7/2026 thiết kế sau BCNCKT do chủ đầu tư phê duyệt).
+  - Reference 09: viết lại bullet thiết kế tại mục B câu 3; thêm **mục F — ranh giới trách nhiệm** (bảng việc của Sở / của DN / của sở khác) và đọc lại đúng bài học Đồng Khê (mất 7 tháng vì Sở nhận việc của DN, không phải vì thiếu kết luận SXD).
+  - SKILL.md: thêm **anti-error 19** (ranh giới trách nhiệm thẩm định, phạm vi hẹp của kênh liên ngành); sửa anti-error 6.
+  - Reference 02: sửa checklist C3 (bullet thiết kế), lỗi D.3 và D.11. Reference 07: sửa bài học D.1, thêm D.11.
+  - Mẫu 08 (CV lấy ý kiến Sở Xây dựng): thêm khối **PHẠM VI DÙNG MẪU** — chỉ hỏi dữ kiện thuộc thẩm quyền quản lý của SXD mà Sở không tự xác định được (tổ chức giao thông ven quốc lộ, ranh giới đô thị, chồng lấn quy hoạch); cấm dùng để xin xác nhận điều kiện hồ sơ hoặc các bước thiết kế mỏ; Lưu CN(Linh) → CN(Khôi).
+
 ## 2026-07-26
 - **sd-vlncn-sct-vn [2026.7.26]**: chống bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI hồ sơ cấp phép VLNCN — đúc kết 3 văn bản trả hồ sơ quý III–IV/2025 (đã GATE PDF): **2373/UBND-KT 23/9/2025** (KT.CT — PCT Nguyễn Thành Sinh, nắn kênh xử lý CV 1510/SCT-CN 19/9/2025 vụ GP dịch vụ nổ mìn Đại Đồng Tiến), **473/VPUBND-KT 07/10/2025** (PCVP Hoàng Ngọc Bích, trả TTr 1599/TTr-SCT 24/9/2025 — thiếu các bước thiết kế mỏ Đồng Khê), **565/VPUBND-KT 23/10/2025** (trả TTr 1332/TTr-SCT 08/9/2025 — thiếu hồ sơ thu hồi đất, bàn giao đất gói thầu 05 QL4D Mường Khương).
   - **Reference mới `09-cong-gac-ubnd-tra-ho-so.md`**: bảng 3 tiền lệ; mệnh lệnh thường trực của Chủ tịch tỉnh ("chỉ trình sau khi hồ sơ đã đảm bảo"); ba câu hỏi gác cổng (đúng kênh / đủ điều kiện / nền pháp lý địa điểm); quy tắc viện dẫn khi trả lại DN sau khi bị tỉnh trả (không sao chép căn cứ Luật 14/2017 đã hết hiệu lực); bảng tự kiểm 12 điểm; quy trình 5 bước xử lý sau khi bị trả.

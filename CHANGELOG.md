@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-26 (bổ sung) — `sd-vlncn-sct-vn` v2026.7.26.1: sửa ranh giới trách nhiệm thẩm định
+
+- Hồ sơ đầy đủ thì **Sở Công Thương tự thẩm định, tự kết luận** (k6 Đ39 Luật 42/2024), kể cả kết luận đủ/chưa đủ các bước thiết kế mỏ — không hỏi Sở Xây dựng. Thiếu bước → trả lại hồ sơ, chỉ địa chỉ cơ quan thẩm định để **doanh nghiệp** tự liên hệ, đúng nguyên văn CV 473/VPUBND-KT.
+- Reference 09 thêm mục F (bảng ranh giới việc của Sở / DN / sở khác); SKILL.md thêm anti-error 19; sửa reference 02 (C3, D.3, D.11), reference 07 (D.1, D.11), mẫu 08 (khối phạm vi dùng mẫu).
+
 ## 2026-07-26 — `sd-vlncn-sct-vn` v2026.7.26: chống bị UBND tỉnh trả lại hồ sơ cấp phép VLNCN
 
 - Nguồn: 3 văn bản trả hồ sơ quý III–IV/2025 do Bạn cung cấp, đã trích metadata từ PDF gốc: **2373/UBND-KT 23/9/2025**, **473/VPUBND-KT 07/10/2025**, **565/VPUBND-KT 23/10/2025**.

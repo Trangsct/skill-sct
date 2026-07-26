@@ -44,7 +44,7 @@
 
 ## D. BÀI HỌC TỔNG HỢP (đưa vào mọi lần thẩm định)
 
-1. **Câu hỏi liên ngành phải ĐÓNG và có thời hạn** — tránh nhận về câu trả lời dẫn chiếu chung chung (Đồng Khê).
+1. **Hạn chế tối đa kênh liên ngành; khi buộc phải hỏi thì câu hỏi ĐÓNG và có thời hạn.** Việc kết luận hồ sơ đủ hay chưa đủ điều kiện (kể cả đủ các bước thiết kế mỏ) là của Sở theo k6 Đ39 — thiếu thì trả lại hồ sơ và chỉ địa chỉ cho DN tự hoàn thiện, không hỏi hộ (ref 09 mục F). Chỉ hỏi sở khác về dữ kiện thuộc thẩm quyền quản lý của họ mà Sở không tự xác định được (tổ chức giao thông ven quốc lộ, ranh giới đô thị) — Đồng Khê là ví dụ về cái giá của việc làm ngược.
 2. **Kiểm tra hiện trường trước khi kết luận diện PANM** — số liệu đo thực tế + địa hình che chắn quyết định, không chỉ dựa hồ sơ (Yên Thành).
 3. **Khối lượng "còn lại"** — công trình đã thi công một phần thì VLNCN xin phép phải trừ phần đã làm (Vạn Thắng).
 4. **Chuỗi phê duyệt nội bộ của DN là điều kiện tiên quyết** — người lập ký, lãnh đạo duyệt, dấu đủ (Vạn Thắng).
@@ -53,6 +53,7 @@
 7. **Sau sáp nhập**: ghi "huyện X (nay là xã X, tỉnh Lào Cai)" khi hồ sơ gốc dùng địa danh cũ.
 8. **Chỉ trình khi hồ sơ đã đủ điều kiện** — Sở tự hướng dẫn, tự trả lại hồ sơ; không dùng kênh "tham gia ý kiến/xin ý kiến chỉ đạo" để chuyển hồ sơ chưa đủ lên tỉnh (CV 2373/UBND-KT).
 9. **Pháp lý đất đai, mặt bằng kiểm trước kỹ thuật** — thu hồi đất, bàn giao đất (công trình) hoặc giao đất, thuê đất (mỏ) là đầu mục bắt buộc dù Điều 39 không liệt kê (CV 565/VPUBND-KT).
+11. **Ranh giới trách nhiệm**: Sở tự thẩm định và kết luận; hoàn thiện thiết kế là việc của doanh nghiệp; thẩm định thiết kế là việc của cơ quan chuyên môn theo nhóm khoáng sản (ref 09 mục F).
 10. **Cổng gác thực tế là Văn phòng UBND tỉnh** (Phòng KT, đ/c Nho tổng hợp, PCVP Hoàng Ngọc Bích ký) — hồ sơ trình phải chịu được vòng rà hình thức, pháp lý, thành phần của Văn phòng trước khi tới người ký; chạy bảng tự kiểm 12 điểm (mẫu 20) mỗi lần trình.
 8. **Đối chiếu PANM–thiết kế theo TRANG IN từng tài liệu** — nguyên tắc: thông số khoan nổ trong PANM phải theo thiết kế được duyệt; lệch thì hai nhánh xử lý: hiệu chỉnh PANM theo thiết kế, hoặc lập-phê duyệt điều chỉnh thiết kế theo pháp luật xây dựng TRƯỚC rồi mới đưa vào PANM kèm chứng minh an toàn QCVN 01:2019/BCT (Mông Sơn — 9 sai khác, xem mục H).
 9. **Hồ sơ chưa đủ điều kiện → văn bản TRẢ LẠI HỒ SƠ, không phải "CV hoàn thiện + hạn nộp"** (chỉ đạo PTP Trang, vụ Mông Sơn 7/2026): trích yếu "V/v trả lại hồ sơ đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp"; thân văn bản ghi "Sở Công Thương trả lại hồ sơ (gửi kèm theo Công văn này) và đề nghị Công ty hoàn thiện các nội dung sau"; KHÔNG đặt thời hạn nộp bổ sung, KHÔNG có câu "quá thời hạn sẽ trả hồ sơ"; đoạn kết: "Sau khi hoàn thiện đầy đủ các nội dung nêu trên, đề nghị Công ty nộp lại hồ sơ về Sở Công Thương (qua Hệ thống thông tin giải quyết thủ tục hành chính) để được xem xét, giải quyết theo quy định." + câu kết chuẩn "Sở Công Thương thông báo cho [DN] được biết và thực hiện./." (kênh nộp theo khoản 5 Điều 39 Luật 42/2024 — không ghi Trung tâm Phục vụ hành chính công).

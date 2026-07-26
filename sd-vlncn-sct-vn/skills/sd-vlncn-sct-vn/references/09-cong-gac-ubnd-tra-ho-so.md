@@ -70,10 +70,13 @@ Hai nút vướng thực tế đã làm trả hồ sơ, phải kiểm trước m
   toàn chưa thể xác lập, và nhà thầu chưa có quyền hợp pháp tác động vào đất. Từ nay coi đây là
   **đầu mục bắt buộc** của checklist (ref 02 mục C2b), dù luật VLNCN không liệt kê tên tài liệu.
 - **Thiết kế** (tiền lệ 473): đủ **các bước thiết kế mỏ** theo pháp luật xây dựng tại thời điểm
-  lập, được thẩm định, phê duyệt đúng trình tự, do chủ đầu tư phê duyệt (điểm c k1 Đ39). Hồ sơ
-  thiết kế cũ (trước 2021) phải chứng minh được trình tự theo nghị định hiệu lực khi đó → hỏi Sở
-  Xây dựng câu hỏi ĐÓNG, có thời hạn; chưa có kết luận rõ thì chưa trình (plugin `tkm-sct-vn` cho
-  phần thẩm quyền, nội dung các bước thiết kế mỏ).
+  lập, do chủ đầu tư phê duyệt (điểm c k1 Đ39). **Việc kết luận thành phần thiết kế đủ hay chưa đủ
+  là của Sở Công Thương — không hỏi sang sở khác** (xem mục F). Thiếu hoặc chưa đúng các bước →
+  trả lại hồ sơ, nêu đích danh bước còn thiếu và **chỉ địa chỉ cơ quan có thẩm quyền thẩm định
+  thiết kế để DN tự liên hệ hoàn thiện**: mỏ đá VLXDTT (nhóm III) và nhóm II → **Sở Xây dựng**;
+  nhóm I → **Sở Công Thương** (bảng phân nhóm, phép thử thẩm quyền: plugin `tkm-sct-vn` reference
+  03). Từ 01/7/2026 cơ quan chuyên môn chỉ thẩm định BCNCKT, thiết kế sau phê duyệt dự án do chủ
+  đầu tư tự phê duyệt — càng không có cơ sở để chờ kết luận của cơ quan khác.
 
 ## C. QUY TẮC VIỆN DẪN KHI TRẢ LẠI HỒ SƠ CHO DOANH NGHIỆP SAU KHI BỊ TỈNH TRẢ
 
@@ -124,3 +127,23 @@ Có **một** ô "Không" → dừng, ra văn bản trả lại hồ sơ cho DN 
 5. **Trình lại**: chạy lại đủ 12 điểm mục D; Tờ trình mới nêu rõ đã khắc phục từng nội dung tại
    văn bản trả lại (dẫn số, ngày văn bản đó) — để Văn phòng UBND tỉnh đối chiếu nhanh, không phải
    rà lại từ đầu.
+
+## F. RANH GIỚI TRÁCH NHIỆM — VIỆC CỦA SỞ, VIỆC CỦA DOANH NGHIỆP, VIỆC CỦA SỞ KHÁC
+
+Nguyên tắc (chỉ đạo PTP Trang, 26/7/2026): **hồ sơ đã đầy đủ thì Sở Công Thương tự thẩm định và
+tự kết luận — không đi hỏi sở khác để lấy chỗ dựa.** Trách nhiệm thẩm định hồ sơ cấp GP sử dụng
+VLNCN là của Sở theo k6 Đ39 Luật 42/2024; đẩy sang sở khác vừa sai chức năng, vừa kéo dài.
+
+| Nội dung | Ai làm | Cách làm đúng |
+|---|---|---|
+| Kết luận thành phần hồ sơ đủ/chưa đủ theo Đ38, Đ39 (kể cả **có đủ các bước thiết kế mỏ hay không**) | **Sở Công Thương** | Tự đối chiếu checklist ref 02, kết luận trong biên bản/báo cáo thẩm định; đủ → trình, chưa đủ → trả lại hồ sơ |
+| Hoàn thiện hồ sơ thiết kế còn thiếu bước, còn sai trình tự | **Doanh nghiệp (chủ đầu tư)** | Sở trả lại hồ sơ, nêu đích danh bước thiếu + chỉ địa chỉ cơ quan thẩm định theo nhóm khoáng sản để DN tự liên hệ — đúng chỉ đạo tại CV 473/VPUBND-KT ("yêu cầu Công ty… liên hệ Sở Xây dựng") |
+| Thẩm định, phê duyệt các bước thiết kế mỏ | Cơ quan chuyên môn về xây dựng theo nhóm khoáng sản (nhóm I: SCT; nhóm II, III: SXD) hoặc chủ đầu tư theo phân cấp từ 01/7/2026 | Ngoài phạm vi hồ sơ cấp phép VLNCN — Sở không thay DN xin, không thay cơ quan đó kết luận |
+| Dữ kiện thuộc thẩm quyền quản lý của sở khác mà Sở **không thể tự xác định** và DN **không thể cung cấp** | Sở hỏi liên ngành | Chỉ trong phạm vi hẹp: phương án tổ chức giao thông khi nổ mìn ven quốc lộ (SXD — tiền lệ Xuân Hòa, ý kiến này thành căn cứ trong QĐ), ranh giới đô thị, chồng lấn quy hoạch. Câu hỏi ĐÓNG, có thời hạn |
+| Câu hỏi kiểu "hồ sơ của doanh nghiệp này có đủ điều kiện không" | **KHÔNG hỏi ai** | Đó là việc Sở phải trả lời |
+
+**Đọc lại đúng bài học Đồng Khê:** sai không nằm ở chỗ "thiếu kết luận của Sở Xây dựng", mà ở chỗ
+(a) Sở trình khi thành phần thiết kế chưa đủ, và (b) sau khi bị trả, Sở nhận về mình việc thuộc
+nghĩa vụ của doanh nghiệp — hỏi SXD, nhận câu trả lời chung chung, rồi hỏi tiếp — biến một lần
+trả hồ sơ thành hơn 7 tháng. Cách đúng: một văn bản trả lại hồ sơ cho DN, nêu rõ bước thiếu và
+địa chỉ liên hệ, đóng hồ sơ TTHC; DN nộp lại khi đủ.

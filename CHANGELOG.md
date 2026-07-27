@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-27 (bổ sung) — marketplace v4.4.0: đồng bộ lại entry lệch + chốt cơ chế cập nhật
+
+- **Lỗi:** 04 entry trong `.claude-plugin/marketplace.json` bị bỏ quên khi nâng cấp plugin, nên catalog phát cho claude.ai vẫn là bản cũ: `dacn-sct-vn` 1.2.0→**1.3.0**, `kccn-sct-vn` 1.9.0→**1.11.0**, `qlks-sct-vn` 1.3.1→**1.4.0**, `quy-hoach-ct-vn` 1.0.2→**1.1.0** (cả `description` cũng lệch). Nguyên nhân: các commit ngày 26-27/7 chỉ sửa `plugin.json` mà không chạm `marketplace.json`.
+- Thêm `scripts/sync_marketplace.py`: tái tạo mảng `plugins` từ 18 file `plugin.json` (giữ nguyên `source` và thứ tự), có cờ `--check` để chỉ kiểm tra.
+- Thêm `.github/workflows/marketplace-sync.yml`: mỗi lần push/PR sẽ chạy `--check`, lệch là fail — không còn tái diễn lỗi quên đồng bộ.
+- `metadata.version` 4.3.0 → **4.4.0**.
+- Ghi chú vận hành: Claude Code phân giải version theo thứ tự `plugin.json` → entry marketplace → commit SHA; và marketplace bên thứ ba **mặc định TẮT auto-update**, phải bật hoặc refresh thủ công thì bản mới mới về máy.
+
 ## 2026-07-27 — sd-vlncn-sct-vn v2026.7.27.1
 
 - Thêm bộ ví dụ thực tế trọn gói vụ Công ty CP Miền Tây (mỏ đá vôi lộ thiên phường Trung Tâm, nhà dân 230 m < Rđv 300 m): Phiếu trình thẩm định kèm Phụ lục bảng đánh giá 19 hàng, Tờ trình, dự thảo QĐ phê duyệt PANM + chấp thuận sử dụng VLNCN, PANM bản Sở hiệu chỉnh — bộ mẫu ưu tiên cho trường hợp mỏ lộ thiên (Si Ma Cai giữ vai trò mẫu nổ hầm).

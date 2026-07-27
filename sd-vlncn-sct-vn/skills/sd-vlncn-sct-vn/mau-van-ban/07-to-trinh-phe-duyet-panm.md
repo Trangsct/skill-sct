@@ -1,6 +1,6 @@
 # Mẫu 07 — TỜ TRÌNH phê duyệt Phương án nổ mìn (khu vực có công trình cần bảo vệ)
 
-> Khung docx thật: `vi-du-thuc-te/TTr-PANM-va-chap-thuan.docx` (Si Ma Cai). Số:      /TTr-SCT; ký KT.GĐ — PGĐ Hoàng Văn Thuân; Lưu: VT, CN(Linh).
+> Khung docx thật: **ưu tiên `vi-du-thuc-te/TTr-PANM-va-chap-thuan-Mien-Tay-27.7.2026.docx` (mỏ lộ thiên, bản đã duyệt 27/7/2026)**; bản nổ hầm: `TTr-PANM-va-chap-thuan.docx` (Si Ma Cai). Số:      /TTr-SCT; **ký GIÁM ĐỐC Hoàng Chí Hiền (trình UBND tỉnh — GĐ ký trực tiếp, KHÔNG KT.GĐ)**; Nơi nhận: Như trên; **Ban GĐ Sở**; Lưu: VT, CN(Khôi). Nhãn mục "1. Địa điểm nổ mìn:"… đậm, nội dung sau chữ thường.
 
 **TỜ TRÌNH Về việc phê duyệt Phương án nổ mìn 【và chấp thuận sử dụng vật liệu nổ công nghiệp】 tại khu vực có công trình cần bảo vệ của 【tên DN】**
 

@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-27 — sd-vlncn-sct-vn v2026.7.27.1
+
+- Thêm bộ ví dụ thực tế trọn gói vụ Công ty CP Miền Tây (mỏ đá vôi lộ thiên phường Trung Tâm, nhà dân 230 m < Rđv 300 m): Phiếu trình thẩm định kèm Phụ lục bảng đánh giá 19 hàng, Tờ trình, dự thảo QĐ phê duyệt PANM + chấp thuận sử dụng VLNCN, PANM bản Sở hiệu chỉnh — bộ mẫu ưu tiên cho trường hợp mỏ lộ thiên (Si Ma Cai giữ vai trò mẫu nổ hầm).
+- Bài học đã duyệt cập nhật vào ref 07 + mẫu 06/07/11: Tờ trình trình UBND tỉnh do GIÁM ĐỐC ký trực tiếp, nơi nhận "Ban GĐ Sở"; dự thảo QĐ ghi "Sở Công Thương" không kèm "tỉnh Lào Cai", header điền sẵn tháng/năm; quy tắc nhãn đậm - nội dung thường; cảnh báo lỗi gốc mẫu Si Ma Cai (ngày Luật 42, hai Điều 3 trùng).
+- SKILL.md ghi rõ người ký Tờ trình; plugin.json cập nhật 30 ví dụ thực tế.
+
 ## 2026-07-27 — `hnh-sct-vn` v1.6.0: cột "Khối lượng vận chuyển" theo dạng chứa hàng + soát chéo nhiều Giấy phép cùng đợt
 
 - Nguồn: vụ **Công ty TNHH MTV thương mại Tiến Anh** (MSDN 5300804272), 02 bộ hồ sơ cùng đợt 7/2026 — LPG loại 2 (UN 1075) đi ở **dạng chai chứa 12 kg và 48 kg** trên xe ô tô tải có mui 24C-055.24; xăng UN 1203 + dầu diesel UN 1202 loại 3 trên tổ hợp đầu kéo 24C-047.97 kéo sơ mi rơ moóc xi téc 24R-004.50. Toàn bộ số liệu đối chiếu từ hồ sơ gốc (Giấy đề nghị, Bảng kê phương tiện, Bảng kê lái xe - áp tải, Phương án, GCN ĐKDN, GCN kiểm định, Chứng nhận đăng ký xe, GPKDVT, 02 GCN tập huấn).

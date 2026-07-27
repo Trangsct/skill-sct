@@ -1,6 +1,6 @@
 # Mẫu 06 — PHIẾU TRÌNH nội bộ Sở (thẩm định hồ sơ GP/PANM)
 
-> Theo cấu trúc Phiếu trình thật của Phòng QLCN (bản scan trong hồ sơ Ngòi Nhù 1A). Không đóng dấu; trình theo trục CV → Lãnh đạo phòng → Lãnh đạo Sở.
+> Theo cấu trúc Phiếu trình thật của Phòng QLCN. **Khung docx thật ưu tiên: `vi-du-thuc-te/Phieu-trinh-tham-dinh-PANM-Mien-Tay-27.7.2026.docx`** (bản duyệt 27/7/2026, có ô Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ 2 checkbox + PHỤ LỤC bảng đánh giá PANM 19 hàng theo Phụ lục VII TT 23/2024 đặt SAU khối ký — SIGSPLIT của qa_all là cảnh báo giả với mẫu này). Không đóng dấu; trục CV(Khôi) → TP Long → PGĐ Thuân. Nhãn "Nội dung trình:", "Hồ sơ, văn bản kèm theo:" đậm — nội dung sau chữ thường.
 
 **SỞ CÔNG THƯƠNG TỈNH LÀO CAI — PHÒNG QUẢN LÝ CÔNG NGHIỆP**
 

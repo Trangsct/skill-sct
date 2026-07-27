@@ -7,6 +7,7 @@
 **Trạng thái số liệu:**
 - Cột **Giai đoạn 2026-2030** và **Mục tiêu năm 2026**: số TĨNH, đã chốt — dùng trực tiếp.
 - Cột **Kết quả Quý I/2026**: mốc xuất phát, chỉ dùng để so sánh; các kỳ sau phải lấy số mới.
+- **Mốc mới nhất — 6 tháng đầu năm 2026**: đã có tại reference `09` (nguồn Báo cáo 615/BC-TKT ngày 30/6/2026 của Thống kê tỉnh), gồm bảng đối chiếu đủ 9 chỉ tiêu chủ trì. Khi so sánh, ưu tiên mốc 6 tháng; cột Quý I giữ lại để thấy diễn biến.
 
 ---
 

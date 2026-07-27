@@ -1,5 +1,29 @@
 # CHANGELOG — dacn-sct-vn
 
+## v1.3.0 — 2026-07-27 (nạp mốc số liệu KTXH 6 tháng đầu năm 2026 của Thống kê tỉnh)
+
+**Nguồn:** Báo cáo số **615/BC-TKT ngày 30/6/2026** của Thống kê tỉnh Lào Cai (Cục Thống kê) — Tình hình kinh tế - xã hội tháng 6 và quý II năm 2026 (67 trang). Số/ngày đối chiếu bản scan có dấu trên vOffice (số đến 13116, ban hành 30/6/2026); file .docx bản soạn thảo để trống ô số và ngày.
+
+### Thêm mới
+- `references/09-so-lieu-ktxh-6-thang-2026.md` — mốc so sánh 6 tháng đầu năm 2026, thay mốc Quý I:
+  - GRDP 61.264,53 tỷ đồng, +9,01% (CN-XD +11,93%, riêng công nghiệp +12,16% đóng góp 3,13 điểm %; cơ cấu CN-XD lên 36,16%).
+  - **Bảng đối chiếu đủ 9 chỉ tiêu SCT chủ trì**: IIP 9,12%/mục tiêu 13% (cảnh báo ĐỎ, không cải thiện so Quý I); bán lẻ +13,14%/12,9% (VƯỢT); điện thương phẩm +10,56%/12,10% (VÀNG, cải thiện mạnh, riêng tháng 6 +29,13%); XK +62%/93,5% và NK +57%/108,3% (ĐỎ, mới đạt ~30-35% kế hoạch giá trị); chỉ tiêu 4, 5, 32 chưa có số trong BC 615.
+  - IIP chi tiết 4 ngành cấp 1 kèm đóng góp điểm % (điện +19,29% đóng góp 4,53 — động lực số 1); ngành cấp 2 tăng/giảm; bảng phân biệt 3 con số "chế biến, chế tạo" (VA 7,46% ≠ IIP 6,36% ≠ IIP tháng 6 13,69%).
+  - Sản phẩm chủ yếu 6 tháng và tháng 6 (tăng: chì, kẽm, đá vôi, thép bán thành phẩm +2,7 lần, Supe +53,61%...; giảm: NPK −72,65%, MAP −57,41%, lân nung chảy, quặng sắt, vàng) — nhóm phân bón - hóa chất kéo lùi CBCT, khớp rủi ro apatit tại reference 08.
+  - Tiêu thụ CBCT 6 tháng chỉ +0,47% trong khi sản xuất +6,36% → tồn kho +13,4%; lao động công nghiệp +7,88%.
+  - XNK qua cửa khẩu 1.870 triệu USD (+35%, đạt 30,4% KH); Kim Thành ~400 xe/ngày; C/O 6 tháng ~420 nghìn tấn.
+  - Vốn đầu tư toàn xã hội 26.861,38 tỷ (29,85% KH năm); giải ngân đầu tư công 32,68%; 13.335 doanh nghiệp (sát mục tiêu 13,4 nghìn).
+  - Danh sách dự án công nghiệp - năng lượng ngoài Nhà nước đang triển khai (DCP-MCP-SSP Yên Bái, pin mặt trời Create Capital, 05 thủy điện, chưng cất dầu FO Hải Yến...) — đầu vào cập nhật sổ `danh-muc-du-an.json`.
+  - **06 mâu thuẫn/lưu ý số liệu của bản gốc** ghi nhận, không tự sửa: đóng góp CN-XD 3,82 ≠ 3,83; câu "20 ngành... 16/21 ngành"; lỗi đánh máy "năm 2025"; đơn vị doanh thu bưu chính bất hợp lý (triệu đồng) — cấm trích dẫn khi chưa xác minh; 3 con số CBCT khác bản chất; phương pháp XNK của BC 615 khác kỳ gốc chỉ tiêu 7, 8 NQ 169 — phải chốt với Thống kê tỉnh và Hải quan.
+
+### Cập nhật
+- `references/02-chi-tieu-nq169-sct.md`: thêm ghi chú mốc mới nhất 6 tháng → trỏ reference `09`; cột Quý I giữ lại để thấy diễn biến.
+- `SKILL.md`: thêm nghiệp vụ (9) tra số liệu KTXH chính thức của Thống kê tỉnh; thêm reference `09` vào bảng tra; GATE Bước 1 bổ sung quy tắc dùng reference `09` (ảnh chụp có kỳ chốt — chỉ làm mốc so sánh, không dùng làm số kỳ mới hơn); description làm lại còn 986 ký tự.
+- `.claude-plugin/plugin.json`: version 1.2.0 → **1.3.0**; bổ sung keywords `grdp`, `thong-ke-tinh`, `bao-cao-ktxh`, `san-pham-chu-yeu`.
+
+### Lưu ý vận hành
+Toàn bộ số trong reference `09` là số **ước tính** của Thống kê tỉnh tại kỳ 6 tháng — trích dẫn phải kèm nguồn "Báo cáo 615/BC-TKT ngày 30/6/2026". Sang kỳ báo cáo mới (tháng 7, quý III) phải nạp số kỳ mới, không dùng lại bảng này làm số hiện hành.
+
 ## v1.2.0 — 2026-07-26 (nạp mảng KCN và Khu kinh tế cửa khẩu vùng Lào Cai cũ)
 
 **Nguồn:** Kế hoạch số **72/KH-BQL ngày 08/7/2026** của Ban Quản lý Khu kinh tế tỉnh Lào Cai về Phát triển kinh tế - xã hội năm 2027 (Trưởng ban Vương Trinh Quốc ký số 08/7/2026 14:01:38), kèm biểu **Dự tính giá trị SXCN năm 2027**. Ban hành theo Văn bản 6607/UBND-TH ngày 27/6/2026 của UBND tỉnh. Nơi nhận có Sở Công Thương. Metadata đã trích từ PDF gốc bằng `extract_metadata.py` (GATE PDF).

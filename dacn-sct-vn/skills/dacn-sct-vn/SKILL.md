@@ -1,6 +1,6 @@
 ---
 name: dacn-sct-vn
-description: "Điều hành DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (17/7/2026). 7 nghiệp vụ: (1) tra 09 chỉ tiêu Sở Công Thương chủ trì và chỉ tiêu phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, cập nhật, xếp hạng danh mục dự án động lực; (3) phân tích sản xuất công nghiệp hằng tháng, tính % kế hoạch, so cùng kỳ, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC) và cách tháo gỡ; (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính, lồng ghép NQ 01/NQ-CP; (6) kịch bản tăng trưởng, dự báo hoàn thành; (7) tổng hợp số liệu KCN và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh quản lý. Từ khóa: NQ 169/NQ-CP, KL 18-KL/TW, NQ 25/2026/QH16, tăng trưởng, IIP, chế biến chế tạo, GRDP, điện thương phẩm, kim ngạch xuất nhập khẩu, bán lẻ, dự án động lực, điểm nghẽn, báo cáo trước ngày 20, GTSXCN, KCN Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới, Khu kinh tế cửa khẩu, Bản Vược."
+description: "Điều hành DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh. 8 nghiệp vụ: (1) tra 09 chỉ tiêu Sở Công Thương chủ trì và chỉ tiêu phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, xếp hạng danh mục dự án động lực; (3) phân tích sản xuất công nghiệp hằng tháng, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC); (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính, lồng ghép NQ 01/NQ-CP; (6) kịch bản tăng trưởng; (7) tổng hợp số liệu KCN, Khu kinh tế cửa khẩu (BQL Khu kinh tế tỉnh); (8) tra số liệu KTXH của Thống kê tỉnh kỳ 6 tháng 2026 (BC 615/BC-TKT: GRDP 9,01%, IIP 9,12%, sản phẩm chủ yếu, XNK, bán lẻ, vốn đầu tư) đối chiếu mục tiêu NQ 169. Từ khóa: NQ 169, tăng trưởng, IIP, chế biến chế tạo, GRDP, điện thương phẩm, xuất nhập khẩu, bán lẻ, dự án động lực, điểm nghẽn, GTSXCN, Tằng Loỏng, báo cáo kinh tế xã hội, Thống kê tỉnh, quý II."
 ---
 
 # dacn-sct-vn — Quản lý dự án công nghiệp phục vụ mục tiêu tăng trưởng (Sở Công Thương Lào Cai)
@@ -23,6 +23,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 6. **Xây dựng kịch bản tăng trưởng, dự báo khả năng hoàn thành**, giải trình chỉ tiêu có nguy cơ không đạt → reference `07`.
 7. **Tổng hợp số liệu KCN, Khu kinh tế cửa khẩu** (GTSXCN, kim ngạch XNK qua cửa khẩu, thu phí hạ tầng cửa khẩu, dự án mới đi vào hoạt động) → reference `08` + `du-lieu/gtsxcn-kcn-kkt-2027.json`.
 8. **Trả lời chất vấn, giải trình chênh lệch số liệu** giữa số liệu chuyên ngành của Sở và số liệu Thống kê tỉnh → reference `04` mục V + `05` mục IV.
+9. **Tra số liệu kinh tế - xã hội chính thức của Thống kê tỉnh** (GRDP, IIP, sản phẩm chủ yếu, tiêu thụ - tồn kho, XNK, bán lẻ, vốn đầu tư, doanh nghiệp) và bảng đối chiếu kết quả ↔ mục tiêu NQ 169 của kỳ 6 tháng đầu năm 2026 → reference `09`.
 
 **KHÔNG dùng plugin này** để: làm thủ tục thành lập CCN (dùng `kccn-sct-vn`), cấp phép chuyên ngành (dùng plugin lĩnh vực tương ứng), soạn định dạng file .docx (dùng `vbhc-vn`).
 
@@ -31,7 +32,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 ## II. QUY TRÌNH CHUẨN (bắt buộc)
 
 - **Bước 1 — GATE SỐ LIỆU.** Chỉ tiêu **mục tiêu** (giao tại NQ 169 và Phụ lục Công văn UBND tỉnh) là số **TĨNH, đã chốt** → tra reference `02`, dùng trực tiếp.
-  Số liệu **thực hiện** (sản lượng, IIP, kim ngạch, tiến độ dự án, lấp đầy, GPMB) là số **ĐỘNG** → **TUYỆT ĐỐI KHÔNG lấy từ trí nhớ và không lấy từ reference cũ**. Phải: (a) Bạn cung cấp file kỳ mới nhất, hoặc (b) đọc từ file gốc trên đĩa bằng script, hoặc (c) dừng lại và hỏi Bạn.
+  Số liệu **thực hiện** (sản lượng, IIP, kim ngạch, tiến độ dự án, lấp đầy, GPMB) là số **ĐỘNG** → **TUYỆT ĐỐI KHÔNG lấy từ trí nhớ và không lấy từ reference cũ**. Phải: (a) Bạn cung cấp file kỳ mới nhất, hoặc (b) đọc từ file gốc trên đĩa bằng script, hoặc (c) dừng lại và hỏi Bạn. Riêng reference `09` là **ảnh chụp số liệu có kỳ chốt rõ (6 tháng đầu năm 2026, BC 615/BC-TKT)** — được dùng làm mốc so sánh và trích dẫn kèm nguồn - kỳ; không dùng làm số của kỳ báo cáo mới hơn.
 - **Bước 2 — Xác minh chuyên môn** tại reference tương ứng: đúng chỉ tiêu, đúng cơ quan chủ trì/phối hợp, đúng phương pháp tính, đúng kỳ báo cáo.
 - **Bước 3 — Đối chiếu chéo** với plugin lĩnh vực (`kccn-sct-vn`, `qlks-sct-vn`, `quy-hoach-ct-vn`...) nếu nội dung chạm tới thủ tục hoặc quy hoạch.
 - **Bước 4 — Soạn file .docx** bằng plugin `vbhc-vn` (thể thức NĐ 30/2020; ký hiệu SCT-CN; Lưu VT, CN(tên) theo lĩnh vực). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` trước.
@@ -95,13 +96,14 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | File | Nội dung |
 |---|---|
 | `references/01-khung-phap-ly-tang-truong.md` | Chuỗi văn bản KL 18 → NQ 25/2026/QH16 → NQ 109 → NQ 169 → CV UBND tỉnh; trách nhiệm chung của sở chủ trì và sở phối hợp |
-| `references/02-chi-tieu-nq169-sct.md` | **Bảng đầy đủ 32 chỉ tiêu**, tách rõ chủ trì/phối hợp; kết quả Quý I/2026 làm mốc; các sai lệch giữa bản dự thảo Excel và bản ký |
+| `references/02-chi-tieu-nq169-sct.md` | **Bảng đầy đủ 32 chỉ tiêu**, tách rõ chủ trì/phối hợp; kết quả Quý I/2026 làm mốc (mốc 6 tháng mới nhất → reference `09`); các sai lệch giữa bản dự thảo Excel và bản ký |
 | `references/03-danh-muc-du-an-dong-luc.md` | Khung phân nhóm dự án động lực, tiêu chí xếp hạng, trường dữ liệu bắt buộc, quy tắc gắn dự án ↔ chỉ tiêu |
 | `references/04-phuong-phap-tinh-va-nguon-so-lieu.md` | Cách tính IIP, giá trị sản xuất giá so sánh 2010, điện thương phẩm, kim ngạch; nguồn số liệu và cơ chế đối chiếu với Thống kê tỉnh |
 | `references/05-che-do-bao-cao.md` | Kỳ báo cáo, hạn trước ngày 20, đầu mối Sở Tài chính, cấu trúc nội dung bắt buộc, cách lồng ghép NQ 01/NQ-CP |
 | `references/06-diem-nghen-va-thao-go.md` | 07 nhóm điểm nghẽn điển hình của dự án công nghiệp và hướng xử lý theo thẩm quyền |
 | `references/07-kich-ban-tang-truong.md` | Phương pháp dựng kịch bản tháng/quý/năm, ngưỡng cảnh báo, mẫu giải trình chỉ tiêu có nguy cơ không đạt |
 | `references/08-kcn-kkt-bql-khu-kinh-te.md` | **KCN và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh quản lý (vùng Lào Cai cũ):** kết quả 2026, mục tiêu 2027 (GTSXCN, kim ngạch XNK, thu phí hạ tầng), 05 dây chuyền mới, mốc Bản Vược và Cửa khẩu thông minh, 05 điểm mâu thuẫn số liệu phải rà. Nguồn: KH 72/KH-BQL ngày 08/7/2026 |
+| `references/09-so-lieu-ktxh-6-thang-2026.md` | **Mốc số liệu KTXH 6 tháng đầu năm 2026** (nguồn BC 615/BC-TKT ngày 30/6/2026 của Thống kê tỉnh): GRDP 9,01%; bảng đối chiếu 9 chỉ tiêu SCT chủ trì (IIP 9,12% — cảnh báo đỏ; bán lẻ 13,14% — vượt); IIP 4 ngành + 21 ngành cấp 2; sản phẩm chủ yếu tăng/giảm; tiêu thụ - tồn kho - lao động CBCT; XNK qua cửa khẩu; vốn đầu tư; dự án ngoài NN đang triển khai; 06 mâu thuẫn số liệu bản gốc |
 
 ## VI. CÔNG CỤ (scripts)
 

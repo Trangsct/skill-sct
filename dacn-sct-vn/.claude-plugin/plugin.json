@@ -1,7 +1,7 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.2.0",
-  "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo Nghị quyết 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (7/2026): tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20 gửi Sở Tài chính; kịch bản tăng trưởng; tổng hợp số liệu KCN và Khu kinh tế cửa khẩu (Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới) do Ban Quản lý Khu kinh tế tỉnh quản lý.",
+  "version": "1.3.0",
+  "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo Nghị quyết 169/NQ-CP ngày 27/6/2026 và Công văn triển khai của UBND tỉnh (7/2026): tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20 gửi Sở Tài chính; kịch bản tăng trưởng; tổng hợp số liệu KCN và Khu kinh tế cửa khẩu (Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới) do Ban Quản lý Khu kinh tế tỉnh quản lý; mốc số liệu KTXH 6 tháng đầu năm 2026 của Thống kê tỉnh (BC 615/BC-TKT ngày 30/6/2026): GRDP, IIP, sản phẩm công nghiệp chủ yếu, tiêu thụ - tồn kho, xuất nhập khẩu, bán lẻ, vốn đầu tư — đối chiếu trực tiếp với 9 chỉ tiêu Sở chủ trì.",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },
@@ -16,6 +16,10 @@
     "lao-cai",
     "kcn-tang-loong",
     "khu-kinh-te-cua-khau",
-    "gtsxcn"
+    "gtsxcn",
+    "grdp",
+    "thong-ke-tinh",
+    "bao-cao-ktxh",
+    "san-pham-chu-yeu"
   ]
 }

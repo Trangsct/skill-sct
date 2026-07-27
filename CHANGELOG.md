@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-27 (bổ sung 2) — marketplace v5.0.0: BỎ HẲN version, mỗi commit là một bản mới
+
+- **Đổi cách phát hành.** Gỡ khoá `version` khỏi cả 18 `plugin.json` và 18 entry `marketplace.json`. Với marketplace git dùng đường dẫn tương đối, bỏ `version` thì Claude Code lấy commit SHA làm version — **mỗi lần commit là một bản mới, không phải nâng số thủ công, không lệch được nữa**.
+- Lý do: cách cũ (ghim version ở hai nơi) đã gây đúng sự cố ngày 26-27/7 — sửa nội dung nhưng quên nâng số nên người dùng không nhận được gì. Công việc soạn thảo văn bản hành chính không cần nghi thức phát hành.
+- `scripts/sync_marketplace.py` rút gọn: chỉ còn đồng bộ `description` (dòng chữ hiển thị trong danh mục), và **báo lỗi nếu ai đó thêm lại `version`**.
+- CI `.github/workflows/marketplace-sync.yml` giữ nguyên, canh chừng cả hai việc trên.
+- `metadata.version` 4.4.0 → **5.0.0**.
+- Còn đúng một việc thủ công: bật auto-update hoặc làm mới marketplace phía claude.ai / Claude Code — không sửa được từ repo.
+
 ## 2026-07-27 (bổ sung) — marketplace v4.4.0: đồng bộ lại entry lệch + chốt cơ chế cập nhật
 
 - **Lỗi:** 04 entry trong `.claude-plugin/marketplace.json` bị bỏ quên khi nâng cấp plugin, nên catalog phát cho claude.ai vẫn là bản cũ: `dacn-sct-vn` 1.2.0→**1.3.0**, `kccn-sct-vn` 1.9.0→**1.11.0**, `qlks-sct-vn` 1.3.1→**1.4.0**, `quy-hoach-ct-vn` 1.0.2→**1.1.0** (cả `description` cũng lệch). Nguyên nhân: các commit ngày 26-27/7 chỉ sửa `plugin.json` mà không chạm `marketplace.json`.

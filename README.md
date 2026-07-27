@@ -65,26 +65,18 @@ for pj in sorted(glob.glob('*/.claude-plugin/plugin.json')):
 4. Ô commit message ghi: `YYYY.MM.DD — nội dung sửa` (vd `2026.07.02 — thêm Nhóm F, G; file hiện trạng ref 18`).
 5. Bấm **Commit changes**.
 6. Ghi thêm 1 dòng vào `CHANGELOG.md`.
-7. **Nâng `version` trong `plugin.json` của skill vừa sửa** rồi chạy `python3 scripts/sync_marketplace.py` để `marketplace.json` khớp lại, và nâng `metadata.version`. Bỏ bước này thì bản mới KHÔNG về máy người dùng (xem mục dưới).
-8. Đồng thời upload zip skill đó lên Claude (Settings → Skills → xóa bản cũ → Upload) để Claude dùng bản mới.
+7. Đồng thời upload zip skill đó lên Claude (Settings → Skills → xóa bản cũ → Upload) để Claude dùng bản mới.
+
+**Không phải nâng version.** Repo này cố tình KHÔNG đặt `version` trong `plugin.json` lẫn `marketplace.json` — với marketplace git dùng đường dẫn tương đối, bỏ `version` thì Claude Code coi **mỗi commit là một bản mới**. Cứ commit là xong.
 
 ## Vì sao plugin đã sửa mà máy vẫn dùng bản cũ
 
-Ba nút thắt, phải thông cả ba:
+Chỉ còn một nút thắt: **marketplace bên thứ ba mặc định TẮT auto-update** (chỉ marketplace chính thức của Anthropic mới bật sẵn).
 
-1. **`version` là khoá mở cập nhật.** Claude Code lấy version theo thứ tự: `version` trong `plugin.json` → `version` trong entry `marketplace.json` → commit SHA. Nếu version phân giải ra vẫn bằng bản đang cài thì mọi lệnh update đều **bỏ qua** plugin đó, dù nội dung đã đổi. Sửa nội dung mà quên nâng `plugin.json` = người dùng không nhận được gì.
-2. **Hai file phải khớp.** Repo này đặt `version` ở cả `plugin.json` lẫn entry marketplace. `plugin.json` luôn thắng, nên entry marketplace lệch sẽ không chặn cập nhật nhưng làm catalog hiển thị sai version và mô tả cũ. `scripts/sync_marketplace.py` giữ hai file khớp; CI `.github/workflows/marketplace-sync.yml` chặn nếu lệch.
-3. **Marketplace bên thứ ba mặc định TẮT auto-update.** Chỉ marketplace chính thức của Anthropic mới bật sẵn. Với `skill-sct` phải tự bật hoặc làm mới thủ công:
+- **claude.ai:** Settings → Plugins → mở marketplace `skill-sct` → làm mới. Không đổi thì gỡ marketplace rồi Add lại (gỡ marketplace sẽ gỡ theo các plugin đã cài từ nó).
+- **Claude Code CLI:** bật một lần cho xong — `/plugin` → tab **Marketplaces** → `skill-sct` → **Enable auto-update**. Sau đó mỗi lần khởi động phiên nó tự kéo bản mới (trễ ngẫu nhiên tới 10 phút); phiên đang chạy vẫn dùng bản cũ cho tới khi `/reload-plugins`.
 
-   ```
-   /plugin marketplace update skill-sct   # kéo catalog mới
-   /plugin update                          # cập nhật plugin đã cài
-   /reload-plugins                         # nạp vào phiên đang chạy
-   ```
-
-   Bật một lần cho đỡ phải nhớ: `/plugin` → tab **Marketplaces** → chọn `skill-sct` → **Enable auto-update**. Sau khi bật, Claude Code kiểm tra sau lúc khởi động phiên với độ trễ ngẫu nhiên tới 10 phút, và phiên đang chạy vẫn dùng bản cũ cho tới khi `/reload-plugins`.
-
-   Trên claude.ai: Settings → Plugins → mở marketplace `skill-sct` và bấm làm mới; nếu vẫn không đổi thì gỡ marketplace rồi Add lại (gỡ marketplace sẽ gỡ theo các plugin đã cài từ nó).
+Nếu sau này ai đó thêm `version` vào `plugin.json`, plugin sẽ bị **ghim** ở số đó và người dùng ngừng nhận bản mới cho tới khi số ấy đổi. CI `.github/workflows/marketplace-sync.yml` chặn sẵn trường hợp này.
 
 ## Xem lại lịch sử / so sánh
 

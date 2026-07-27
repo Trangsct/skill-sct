@@ -1,6 +1,5 @@
 {
   "name": "quy-hoach-ct-vn",
-  "version": "1.1.0",
   "description": "Cẩm nang quy hoạch 04 ngành Công Thương tỉnh Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Xác định dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch không và thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối - gió - mặt trời, trạm biến áp và đường dây 500/220/110 kV, khu vực khoáng sản nhóm I-IV. Nguồn: QĐ 525/QĐ-UBND, QĐ 768/QĐ-TTg (Điện VIII), QĐ 866 và QĐ 1626/QĐ-TTg, kèm toàn văn. Kèm vốn đầu tư công trung hạn 2026-2030 cho các dự án cấp điện nông thôn do Sở Công Thương làm chủ đầu tư (QĐ 2390/QĐ-UBND ngày 09/7/2026).",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

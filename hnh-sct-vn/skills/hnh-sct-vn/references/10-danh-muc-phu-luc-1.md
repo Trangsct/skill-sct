@@ -15,6 +15,8 @@ Danh mục hàng nguy hiểm tại Phụ lục I gồm 6 cột logic:
 | (5) | Nhãn hiệu, biểu trưng |
 | (6) | Số hiệu nguy hiểm |
 
+**CẢNH BÁO cột (4) và cột (5) - lỗi hay gặp:** cột (4) "Loại, nhóm hàng" ghi **số LOẠI** (1, 2, 3...); con số dạng "2.1", "2.2", "2.3+8", "5.1" nằm ở cột (5) "Nhãn hiệu, biểu trưng" và dùng để dán biểu trưng lên phương tiện. Danh mục kèm Giấy phép bám cột (4). Doanh nghiệp thường kê trong Giấy đề nghị và Phương án là "Loại 2, nhóm 2.1" - đúng với văn phong hồ sơ của DN nhưng KHÔNG bê nguyên vào Giấy phép. Ví dụ LPG (dòng 441): cột (4) = **2**, cột (5) = 2.1, số hiệu nguy hiểm = 23. Xem reference 16 mục 8.5.
+
 **KHÔNG có cột ngưỡng khối lượng trong Danh mục NĐ 161.** Vì vậy không thể dùng phép thử "khối lượng lớn hơn cột 7" (vốn dựa trên Danh mục khung cũ - Nghị định 42/2020) để xác định nghĩa vụ người áp tải dưới khung NĐ 161. Xem chi tiết tại mục 3a reference 04.
 
 Lưu ý số hiệu nguy hiểm (cột cuối): theo Phụ lục II, các chữ số biểu thị tính chất nguy hiểm; chữ số lặp biểu thị tăng cường mức nguy hiểm; chữ X phía trước nghĩa là cấm tiếp xúc với nước. Ví dụ: 33 = chất lỏng rất dễ cháy; 30 = chất lỏng dễ cháy; 40 = chất rắn dễ cháy; 80 = chất ăn mòn; 23 = khí dễ cháy; 268 = khí độc, ăn mòn.

@@ -13,6 +13,7 @@ Tài liệu này đúc kết cách làm THỰC TẾ tại Sở từ các hồ s�
 | Chi nhánh Apatit Việt Nam | Oxy nén UN 1072, Nitơ nén UN 1066 | 2 | Xe có hậu tố "(T)" trong biển | Thời hạn GP cân nhắc khống chế theo hạn kiểm định phương tiện thay vì mặc định 24 tháng |
 | Chi nhánh số 1 - Công ty CP XNK Sợi Phương Nam (mã CN 0106092522-001, phường Lào Cai) | Amoniac khan UN 1005, SHNH 268 | 2 | 16 phương tiện biển Trung Quốc (Vân FA/FC/FD...), xuyên biên giới | GP cấp 7/2026, thời hạn 23 tháng; xem chi tiết reference 17 |
 | Công ty TNHH Logistics HNL | NH3, tuyến Hà Khẩu - Kim Thành | 2 | Đại diện cho pháp nhân TQ, không có trụ sở/chi nhánh tại Lào Cai | Kết luận: ngoài thẩm quyền theo khoản 2 Điều 8 (thiếu điều kiện địa bàn) |
+| Công ty TNHH MTV thương mại Tiến Anh (MSDN 5300804272, phường Lào Cai) | Bộ 1: LPG UN 1075, SHNH 23. Bộ 2: Xăng UN 1203, Dầu diesel UN 1202 | 2 và 3 | 02 bộ cùng đợt, 01 doanh nghiệp; LPG đi ở **dạng chai chứa 12 kg và 48 kg** trên xe tải có mui 24C-055.24; bộ 2 dùng đầu kéo 24C-047.97 + SMRM xi téc 24R-004.50 | GP cấp 7/2026, thời hạn 24 tháng. Chốt cách ghi cột khối lượng "Theo giấy tờ của phương tiện" cho mọi GP; soát chéo đồng bộ 2 GP cùng đợt. Chi tiết mục 8; bản chốt tại `vi-du-thuc-te/tien-anh-lpg-xangdau-072026/` |
 | Công ty Hòa Bình Châu Kiềm Tây Nam / Mậu Thịnh (pháp nhân TQ) | Kali permanganat UN 1490 | 5.1 | Tuyến ngắn vạch biên giới - bãi kiểm hóa Kim Thành | Loại 5 thuộc tỉnh từ 29/5/2026; khoản 1 Điều 8 KHÔNG có điều kiện địa bàn; tiền lệ Bộ KHCN/Bộ CT từng cấp trực tiếp cho pháp nhân TQ (bản scan tại van-ban-goc/07-tham-khao/) |
 
 ## 2. Thể thức Giấy phép của Sở (đối chiếu 2 GP thực tế đã cấp)
@@ -21,7 +22,7 @@ Tài liệu này đúc kết cách làm THỰC TẾ tại Sở từ các hồ s�
 - Người ký: **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (PGĐ phụ trách HHNH ký thay theo phân công nội bộ, trong khuôn khổ ủy quyền QĐ 1696 cho Giám đốc Sở).
 - Nơi nhận chuẩn (đã dùng ổn định): UBND tỉnh (để b/c); **Cục Cảnh sát Giao thông - Bộ Công an**; **Công an tỉnh Lào Cai**; Sở Xây dựng; [Doanh nghiệp]; Ban Giám đốc Sở; **Lưu: VT, BP1C, CN.** → việc gửi CSGT ngay tại nơi nhận chính là thực hiện khoản 5 Điều 51 Luật 36/2024 (thông báo ngay đến cơ quan CSGT).
 - Thân GP ghi: tên tổ chức; số ĐKKD/mã số chi nhánh **do "Phòng Doanh nghiệp, Sở Tài chính tỉnh Lào Cai" cấp** (KHÔNG còn ghi "Sở Kế hoạch và Đầu tư" - lỗi hay gặp); địa chỉ; người đại diện/người đứng đầu chi nhánh; câu "Được phép vận chuyển hàng hóa nguy hiểm: ... phải có trách nhiệm duy trì các điều kiện an toàn..., [bố trí người áp tải nếu hàng bắt buộc] và chấp hành đầy đủ các quy định... (Danh mục kèm theo Giấy phép này)".
-- Danh mục kèm theo: bảng TT / Tên hàng / Số hiệu UN / Loại, nhóm / Số hiệu nguy hiểm / Khối lượng vận chuyển (ghi "Theo thiết kế của phương tiện" hoặc "Theo tải trọng phương tiện") / Ghi chú (biển kiểm soát phương tiện). Trường hợp nhiều phương tiện: thêm bảng "Danh sách phương tiện vận chuyển" riêng (xem GP Sợi Phương Nam - 16 phương tiện, ghi rõ đầu kéo/sơ mi rơ moóc, dung tích bồn, khối lượng kéo theo).
+- Danh mục kèm theo: bảng TT / Tên hàng / Số hiệu UN / Loại, nhóm / Số hiệu nguy hiểm / Khối lượng vận chuyển / Ghi chú (biển kiểm soát phương tiện). **Cột "Khối lượng vận chuyển" - cách ghi hiện hành là "Theo giấy tờ của phương tiện"** (Bạn chốt 26/7/2026, dùng thống nhất cho mọi Giấy phép, xem mục 8.1); các bản GP phát hành trước đó ghi "Theo thiết kế của phương tiện" (Thái Thịnh - xi téc) hoặc "Theo tải trọng phương tiện" (Argon) - giữ nguyên trong hồ sơ lịch sử, KHÔNG dùng lại cho GP mới. Trường hợp nhiều phương tiện: thêm bảng "Danh sách phương tiện vận chuyển" riêng (xem GP Sợi Phương Nam - 16 phương tiện, ghi rõ đầu kéo/sơ mi rơ moóc, dung tích bồn, khối lượng kéo theo).
 - Thời hạn: "24 tháng kể từ ngày ký" là mặc định; **được phép cấp ngắn hơn** (23 tháng, hoặc khống chế đến hạn kiểm định/GCN tập huấn/niên hạn phương tiện) khi hồ sơ có yếu tố hết hạn sớm - ghi rõ trong Phiếu trình lý do chọn thời hạn. **LƯU Ý CĂN CỨ (bài học 20/7/2026, vụ Toàn Phát TQ):** căn cứ LUẬT giới hạn thời hạn GP là khoản 3 Điều 13 NĐ 161 = "tối đa 24 tháng và không quá NIÊN HẠN SỬ DỤNG của phương tiện" - KHÔNG có "thời hạn kiểm định" trong luật. Khống chế theo hạn kiểm định/GCN tập huấn là BIỆN PHÁP NGHIỆP VỤ thận trọng của Sở (tránh GP còn hiệu lực khi xe hết hạn đăng kiểm), chỉ ghi lý do trong Phiếu trình/Biên bản thẩm định; trong văn bản gửi DN không được viết như thể đó là quy định của pháp luật. Với xe biển Trung Quốc: "niên hạn sử dụng" theo pháp luật VN áp cho xe đăng ký tại VN; xe TQ hoạt động theo Nghị định thư Việt - Trung nên thực tiễn lấy mốc hạn kiểm định (do cơ quan TQ cấp) làm cơ sở cấp thời hạn ngắn hơn cho an toàn - vẫn là quyết định nghiệp vụ, nêu trong Phiếu trình.
 
 ## 3. Quy trình thực tế tại Sở sau ủy quyền (QĐ 1696)
@@ -122,3 +123,56 @@ Câu này dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, 
 - Niên hạn sử dụng đọc từ Giấy chứng nhận đăng ký xe/kiểm định (dòng "Giá trị đến ngày" hoặc "Niên hạn sử dụng"); **sơ mi rơ moóc không quy định niên hạn** - cột niên hạn ghi "Không quy định niên hạn", không để trống.
 - Trọng tải: đầu kéo ghi theo "khối lượng cho phép trên mâm kéo"; sơ mi rơ moóc ghi "khối lượng hàng chuyên chở cho phép". Khi không đọc chắc được số từ giấy tờ gốc, áp thông lệ mục 6.6 - ghi "Theo Giấy chứng nhận kiểm định".
 - Chuyên viên thụ lý HHNH từ 15/7/2026 là **Vũ Việt Linh** - biên bản ghi thành phần "Ông Vũ Việt Linh, Chuyên viên - Phòng Quản lý Công nghiệp - Thành viên", dòng lưu công văn `Lưu: VT, CN(Linh)`.
+
+## 8. Cập nhật 26/7/2026 - vụ Công ty TNHH MTV thương mại Tiến Anh (02 bộ: LPG loại 2 + xăng, dầu diesel loại 3, xe biển Việt Nam)
+
+Ví dụ đầy đủ tại `vi-du-thuc-te/tien-anh-lpg-xangdau-072026/` (02 Giấy phép bản chốt). Đây là **vụ đầu tiên hàng loại 2 đi ở dạng CHAI CHỨA** (không phải xi téc/bồn) và là **vụ đầu tiên một doanh nghiệp được cấp 02 Giấy phép cùng đợt**.
+
+### 8.1. Hàng loại 2 dạng CHAI CHỨA trên xe tải có mui - cột "Khối lượng vận chuyển"
+
+- Hồ sơ: LPG (UN 1075) vận chuyển ở **dạng chai chứa loại 12 kg và 48 kg**, xếp đứng, chằng buộc trên **xe ô tô tải có mui 24C-055.24**; không có xi téc, không có bồn.
+- **Lỗi của bản nháp đầu:** copy nguyên câu "Theo thiết kế của phương tiện" từ mẫu Thái Thịnh (xăng dầu chở bằng **xi téc**). Với xe tải có mui chở chai thì không tồn tại "thiết kế" nào để dẫn chiếu - giới hạn thực tế là **khối lượng hàng chuyên chở cho phép tham gia giao thông** trên Giấy chứng nhận kiểm định (vụ này 9.150 kg, khớp cả Đơn, Bảng kê phương tiện và Phương án).
+- **Cách ghi chốt: "Theo giấy tờ của phương tiện"** - Bạn quyết 26/7/2026, dùng thống nhất cho mọi Giấy phép bất kể xi téc hay bao gói, đồng bộ với thông lệ cột trọng tải tại mục 6.6. Ghi số cụ thể chỉ khi số liệu sạch, nhất quán toàn hồ sơ và Bạn yêu cầu.
+- **Thao tác bắt buộc trước khi điền cột này:** đọc mục "Thông tin về phương tiện" của Phương án để xác định dạng chứa hàng (xi téc/bồn gắn cố định - bồn di động - công-ten-nơ bồn - chai, bình, phuy, can). Ba nhóm sau đều KHÔNG dẫn "thiết kế của phương tiện".
+- Cột "Ghi chú" mô tả phương tiện theo đúng loại xe ghi trên Giấy chứng nhận kiểm định ("Xe ô tô tải", "Xe ô tô đầu kéo ... kéo sơ mi rơ moóc xi téc ..."), không tự thêm bớt.
+
+### 8.2. Một doanh nghiệp - nhiều Giấy phép cùng đợt: soát chéo bắt buộc
+
+Công ty TNHH MTV thương mại Tiến Anh nộp 02 bộ, được cấp 02 Giấy phép cùng ngày:
+
+| Bộ | Hàng hóa | Loại | Phương tiện |
+|---|---|---|---|
+| 1 | Khí dầu mỏ, hóa lỏng (LPG) - UN 1075, SHNH 23 | 2 | Xe ô tô tải 24C-055.24 (chai chứa 12 kg và 48 kg) |
+| 2 | Xăng UN 1203 (SHNH 33); Dầu diesel UN 1202 (SHNH 30) | 3 | Đầu kéo 24C-047.97 kéo sơ mi rơ moóc xi téc 24R-004.50 |
+
+- Thân Giấy phép của hai bộ **trùng khít** (cùng pháp nhân, cùng mã số doanh nghiệp, cùng người đại diện) nên chỉ khác đúng chữ "Loại 2"/"Loại 3" và bảng Danh mục. Rủi ro là chỉnh một bản mà quên bản kia.
+- **04 tiêu chí phải đồng nhất:** (a) cách ghi cột "Khối lượng vận chuyển"; (b) cỡ chữ dòng "(Kèm theo Giấy phép... Số: .../GP - SCT...)" - kế thừa mặc định **14pt**, đã gặp trường hợp một file để cứng 13pt, file kia 14pt, in ra trông lệch; (c) cấu trúc cột "Ghi chú"; (d) thời hạn Giấy phép.
+- **QA:** render cả bộ, ghép ảnh **hai bản cạnh nhau** rồi soi, không soi từng bản riêng lẻ.
+- Khi Danh mục có 2 dòng hàng đi chung 1 phương tiện (xăng và dầu diesel trên cùng tổ hợp xi téc): ô "Khối lượng vận chuyển" và ô "Ghi chú" gộp dòng - sửa 1 lần là áp cho cả 2 dòng, kiểm lại sau khi sửa để chắc chắn không sót.
+
+### 8.3. Đối chiếu NIÊN HẠN SỬ DỤNG từ 03 nguồn (xe biển Việt Nam)
+
+Ba tài liệu ghi niên hạn theo ba cách, thường lệch nhau, phải đọc cả ba và ghi nhận trong Biên bản thẩm định:
+
+| Nguồn | Cách ghi | Vụ Tiến Anh |
+|---|---|---|
+| Giấy đề nghị (DN tự kê) | ngày/tháng/năm | đến hết ngày 31/12/2040 |
+| Chứng nhận đăng ký xe ô tô (Công an cấp) | dòng "Giá trị đến ngày (Date of expiry)" | 17/8/2040 |
+| GCN kiểm định ATKT&BVMT | dòng "Niên hạn sử dụng (Lifetime Limit to)" - chỉ ghi NĂM | 2040 |
+
+- Khi cả ba mốc đều rơi **sau** ngày hết hạn Giấy phép dự kiến thì chênh lệch không ảnh hưởng: giữ "24 tháng kể từ ngày ký./." và KHÔNG thêm mệnh đề khống chế (nguyên tắc 11, mục 6.4). Vụ Tiến Anh: ký 7/2026 + 24 tháng = 7/2028, sớm hơn mọi mốc 2040.
+- Chỉ khi mốc **sớm nhất** rơi vào trong thời hạn Giấy phép mới phải thêm mệnh đề "nhưng không vượt quá ngày [niên hạn]" - và lấy theo mốc sớm nhất, không lấy theo con số DN tự kê.
+- Với tổ hợp đầu kéo + sơ mi rơ moóc: chỉ **đầu kéo** có niên hạn; sơ mi rơ moóc ghi "Không quy định niên hạn" (nguyên tắc 17).
+
+### 8.4. Các sai lệch nhỏ trong hồ sơ - ghi Biên bản, KHÔNG là căn cứ từ chối
+
+Đúc kết từ bộ Tiến Anh, đều thuộc loại "ghi nhận nội bộ, không đưa vào công văn gửi doanh nghiệp" (quy tắc A mục 7.1):
+
+- **Số điện thoại lệch** giữa Giấy chứng nhận đăng ký doanh nghiệp và Giấy đề nghị (0961552808 vs 0934948658). Giấy phép ghi theo số DN kê trong Đơn (số liên hệ thực tế), ghi nhận chênh lệch vào Biên bản.
+- **GCN tập huấn của người áp tải ghi "Nghề nghiệp: Lái xe"** và tên đơn vị công tác thiếu chữ "MTV". Không phải căn cứ từ chối nếu **loại hàng được tập huấn** và **hiệu lực** phù hợp - vụ này GCN ghi rõ "Loại 2, loại 3", hiệu lực đến 21/11/2027, phủ đủ cả 2 bộ hồ sơ.
+- **Kiểm định phương tiện hết hạn sớm hơn nhiều so với thời hạn Giấy phép** (24/12/2026 so với Giấy phép 24 tháng đến 7/2028). Đúng luật vì kiểm định không phải căn cứ khống chế thời hạn (nguyên tắc 11), nhưng **phải ghi lý do chọn 24 tháng trong Phiếu trình**; hoặc trình phương án cấp ngắn hơn để Lãnh đạo quyết (tiền lệ Apatit).
+- **Số hiệu UN dùng chung cho 2 bộ nhân sự:** cùng 1 lái xe và 1 người áp tải phục vụ cả hai Giấy phép - kiểm GCN tập huấn có phủ **đủ cả hai loại hàng** (loại 2 và loại 3) hay không, đây là điểm dễ sót khi thẩm định song song.
+
+### 8.5. Nhắc lại: cột "Loại, nhóm hàng" ghi số LOẠI, không ghi nhóm
+
+Doanh nghiệp thường kê trong Đơn và Phương án là "Loại 2, nhóm 2.1" (đúng với văn phong hồ sơ của DN). Nhưng Danh mục kèm Giấy phép phải bám **cột (4) "Loại, nhóm hàng" của Phụ lục I NĐ 161**, vụ LPG là **"2"**; con số "2.1" nằm ở cột (5) "Nhãn hiệu, biểu trưng" - dùng để dán biểu trưng lên xe, không điền vào cột loại/nhóm hàng của Giấy phép. Đối chiếu dòng 441 Phụ lục I: UN 1075 | loại 2 | SHNH 23 | biểu trưng 2.1. Xem reference 10.

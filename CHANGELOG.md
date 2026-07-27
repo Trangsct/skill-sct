@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-27 — `hnh-sct-vn` v1.6.0: cột "Khối lượng vận chuyển" theo dạng chứa hàng + soát chéo nhiều Giấy phép cùng đợt
+
+- Nguồn: vụ **Công ty TNHH MTV thương mại Tiến Anh** (MSDN 5300804272), 02 bộ hồ sơ cùng đợt 7/2026 — LPG loại 2 (UN 1075) đi ở **dạng chai chứa 12 kg và 48 kg** trên xe ô tô tải có mui 24C-055.24; xăng UN 1203 + dầu diesel UN 1202 loại 3 trên tổ hợp đầu kéo 24C-047.97 kéo sơ mi rơ moóc xi téc 24R-004.50. Toàn bộ số liệu đối chiếu từ hồ sơ gốc (Giấy đề nghị, Bảng kê phương tiện, Bảng kê lái xe - áp tải, Phương án, GCN ĐKDN, GCN kiểm định, Chứng nhận đăng ký xe, GPKDVT, 02 GCN tập huấn).
+- **Nguyên tắc 18 mới:** cột "Khối lượng vận chuyển" của Danh mục kèm Giấy phép chọn theo DẠNG CHỨA HÀNG, không copy máy móc "Theo thiết kế của phương tiện" từ mẫu xi téc. Cách ghi chốt cho mọi Giấy phép: **"Theo giấy tờ của phương tiện"**.
+- **Nguyên tắc 19 mới:** một doanh nghiệp nộp nhiều bộ hồ sơ thì soát chéo 04 tiêu chí giữa các Giấy phép (cột khối lượng; cỡ chữ dòng "(Kèm theo Giấy phép...)" kế thừa 14pt; cấu trúc cột Ghi chú; thời hạn) và render soi hai bản cạnh nhau.
+- Reference 16 thêm **mục 8** (8.1 dạng chai chứa, 8.2 soát chéo cùng đợt, 8.3 đọc niên hạn từ 03 nguồn, 8.4 sai lệch nhỏ chỉ ghi Biên bản, 8.5 cột loại/nhóm hàng); reference 11 thêm **lỗi 13-16**; reference 10 thêm cảnh báo phân biệt cột (4) "Loại, nhóm hàng" với cột (5) "Nhãn hiệu, biểu trưng".
+- Ví dụ thực tế mới `vi-du-thuc-te/tien-anh-lpg-xangdau-072026/` (02 Giấy phép bản chốt + README); bổ sung tiền lệ vào bảng reference 16 mục 1 và mô tả thư mục vào SKILL.md mục IV-a.
+- `plugin.json` 1.5.2 → **1.6.0**; `marketplace.json` entry `hnh-sct-vn` → 1.6.0, `metadata.version` 4.1.0 → **4.2.0**.
+
 ## 2026-07-26 — `dacn-sct-vn` v1.2.0: nạp mảng KCN và Khu kinh tế cửa khẩu vùng Lào Cai cũ
 
 - Nguồn: **Kế hoạch 72/KH-BQL ngày 08/7/2026** của Ban Quản lý Khu kinh tế tỉnh Lào Cai (Trưởng ban Vương Trinh Quốc) về Phát triển KTXH năm 2027, kèm biểu **Dự tính giá trị SXCN năm 2027**; ban hành theo Văn bản 6607/UBND-TH ngày 27/6/2026 của UBND tỉnh; nơi nhận có Sở Công Thương. Metadata trích từ PDF gốc bằng `extract_metadata.py`.

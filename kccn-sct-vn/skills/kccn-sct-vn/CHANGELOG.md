@@ -1,4 +1,22 @@
 # CHANGELOG
+## v1.11.0 — 27/7/2026: bổ sung 02 công văn triển khai NĐ 178/2026 (CV 8388/BTC-QLCS + CV 7103/UBND-TH)
+
+Bạn cung cấp 2 file PDF. Đã GATE file gốc trên đĩa:
+
+| | CV Bộ Tài chính | CV UBND tỉnh Lào Cai |
+|---|---|---|
+| Số, ngày | 8388/BTC-QLCS, 19/6/2026 | 7103/UBND-TH, 10/7/2026 |
+| Người ký | KT. Bộ trưởng — Thứ trưởng **Tạ Anh Tuấn** | KT. Chủ tịch — Phó Chủ tịch **Ngô Hạnh Phúc** |
+| Ghi chú | Scan 4 trang, chữ ký số BTC 19/06/2026, Lưu VT, QLCS | Lưu VT, TH(Dũng); bản render context TRỐNG số/ngày — đọc từ đĩa mới ra 7103 — 10/7/2026 (đúng kịch bản vbhc-pdf-reader-vn) |
+
+### Nội dung cập nhật
+
+- **Ref 18 thêm mục J** (J.1 CV 8388, J.2 CV 7103): bảng phân công bộ quản lý chuyên ngành danh mục TSKCHT (⚠️ CCN + hạ tầng thương mại → Bộ Công Thương, nhưng KCN/KKT/KCX → **Bộ Tài chính**, đầu mối Cục Đầu tư nước ngoài); bảng phân công sở chuyên ngành tại Lào Cai (SCT chủ trì CCN + hạ tầng thương mại; BQL KKT/BQL các KCN chủ trì KKT, KCN); 5 trách nhiệm SCT (a-đ mục 2 CV 7103); vai trò UBND xã, Thanh tra tỉnh, Sở Tài chính.
+- **Bảng mốc thời hạn mục H** thêm chế độ báo cáo theo CV 7103: 6 tháng trước 05/7 gửi STC (STC báo cáo UBND tỉnh trước 10/7); năm trước 15/12 (STC trước 20/12); **riêng 2026 chỉ làm báo cáo năm**.
+- **Lộ trình mục I**: bước 1 (tham mưu văn bản chỉ đạo của tỉnh) đánh dấu ĐÃ HOÀN THÀNH bằng CV 7103; thêm bước 7 chuẩn bị báo cáo năm 2026 trước 15/12 + rà soát VBQPPL/TTHC.
+- **van-ban-goc** thêm: `CV-8388-BTC-QLCS-19-6-2026-trien-khai-ND178.pdf`, `CV-7103-UBND-TH-10-7-2026-trien-khai-ND178.pdf` + bản TEXT.txt.
+- **SKILL.md**: mục 9 và mục khung pháp lý số 7 bổ sung 2 công văn triển khai; description thêm từ khóa CV 8388 BTC, CV 7103 UBND (993 ký tự).
+
 ## v1.10.0 — 26/7/2026: ref 22 — vốn đầu tư công trung hạn 2026-2030 cho KCN/CCN (QĐ 2390/QĐ-UBND)
 
 Bạn cung cấp hồ sơ kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 (bản .doc dự thảo, bản PDF đã ký, 05 biểu PDF và file Excel gốc). Đã GATE bản PDF và chưng cất phần KCN/CCN thành **reference 22 mới**.

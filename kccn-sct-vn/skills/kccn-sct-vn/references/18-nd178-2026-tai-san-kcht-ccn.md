@@ -2,6 +2,8 @@
 
 **Nghị định 178/2026/NĐ-CP ngày 20/5/2026** của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng (TSKCHT) do Nhà nước đầu tư, quản lý. **Hiệu lực 06/7/2026.** 4 chương, 49 điều + Phụ lục biểu mẫu (Mẫu 01, 01B...). Căn cứ khoản 2 Điều 4 Luật Quản lý, sử dụng tài sản công 2017, sửa đổi tại điểm a khoản 12 Điều 8 Luật số 90/2025/QH15. Toàn văn: `van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx`.
 
+**02 văn bản triển khai (mục J):** Công văn **8388/BTC-QLCS ngày 19/6/2026** của Bộ Tài chính (KT. Bộ trưởng — Thứ trưởng **Tạ Anh Tuấn** ký) và Công văn **7103/UBND-TH ngày 10/7/2026** của UBND tỉnh Lào Cai (KT. Chủ tịch — Phó Chủ tịch **Ngô Hạnh Phúc** ký) — văn bản 7103 chính thức **giao Sở Công Thương chủ trì đối với TSKCHT cụm công nghiệp và hạ tầng thương mại** trên địa bàn tỉnh. Toàn văn: `van-ban-goc/CV-8388-BTC-QLCS-19-6-2026-trien-khai-ND178.pdf` (scan 4 trang) và `van-ban-goc/CV-7103-UBND-TH-10-7-2026-trien-khai-ND178.pdf` (+ bản TEXT.txt).
+
 **Ý nghĩa với CCN:** lần đầu tiên hạ tầng CCN (và KCN, KKT, KCX...) có nghị định khung riêng về tài sản kết cấu hạ tầng — trước đây chỉ giao thông, thủy lợi, nước sạch, hàng không... có nghị định riêng. Áp dụng trực tiếp cho các CCN đầu tư bằng vốn ngân sách (đặc biệt vùng Yên Bái cũ do UBND huyện cũ làm chủ đầu tư, nay huyện đã giải thể).
 
 ## A. PHẠM VI — CÁI GÌ THUỘC, CÁI GÌ KHÔNG (Điều 1)
@@ -70,6 +72,8 @@
 | **06/01/2027** | Bộ Công Thương (bộ quản lý chuyên ngành) phải công bố **danh mục chi tiết TSKCHT CCN** (đơn vị tính, thông số cơ bản) — trong 06 tháng | điểm a khoản 3 Đ.47 |
 | **06/7/2028** | Hoàn thành rà soát, thống kê, phân loại, **giao tài sản hiện có** — trong 02 năm | khoản 1 Đ.48 |
 | Trước 28/02 hằng năm | Báo cáo tình hình quản lý, sử dụng, khai thác gửi UBND tỉnh | Đ.33 |
+| Trước 05/7 hằng năm | Báo cáo 6 tháng kết quả rà soát, thống kê, phân loại, giao tài sản: sở chuyên ngành gửi Sở Tài chính (STC tổng hợp báo cáo UBND tỉnh trước 10/7). **Riêng năm 2026: không làm báo cáo 6 tháng, thực hiện luôn báo cáo năm** | mục 7a CV 7103/UBND-TH |
+| Trước 15/12 hằng năm | Báo cáo năm gửi Sở Tài chính (STC tổng hợp báo cáo UBND tỉnh trước 20/12) | mục 7a CV 7103/UBND-TH |
 
 **5 nhiệm vụ của UBND cấp tỉnh (khoản 5 Điều 47):** (a) giao cơ quan chuyên ngành hạ tầng địa phương chủ trì có ý kiến trước khi Chủ tịch quyết định giao/khai thác/xử lý; (b) chỉ đạo rà soát, phân loại, lập danh mục; (c) công bố các thủ tục trên **Cổng dịch vụ công cấp tỉnh** (NĐ 45/2020); (d) thanh tra, kiểm tra, xử lý vi phạm; (đ) đăng nhập, chuẩn hóa dữ liệu CSDL, báo cáo.
 
@@ -77,11 +81,62 @@
 
 ## I. LỘ TRÌNH KHUYẾN NGHỊ CHO PHÒNG QLCN (quý III/2026 →)
 
-1. Tham mưu UBND tỉnh **văn bản chỉ đạo triển khai NĐ 178** (phân công: SCT chủ trì hạ tầng CCN; Sở Tài chính hướng dẫn kế toán, tổng hợp; UBND xã + đơn vị đang quản lý kê khai; kinh phí NSNN).
-2. Rà soát, thống kê, phân loại 5 nhóm theo khoản 1 Điều 10 — trọng tâm CCN vốn ngân sách vùng Yên Bái cũ (chủ đầu tư là UBND huyện cũ → gần như chắc rơi nhóm b/c/d, phải làm thủ tục giao).
+1. ✅ **ĐÃ CÓ văn bản chỉ đạo của tỉnh:** Công văn 7103/UBND-TH ngày 10/7/2026 (mục J.2) — SCT chính thức được giao chủ trì TSKCHT CCN + hạ tầng thương mại. Nhiệm vụ tiếp theo của Phòng QLCN là **triển khai phần việc SCT được giao tại mục 2 CV 7103** (5 nhóm trách nhiệm a–đ), phối hợp Phòng QLTM (phần hạ tầng thương mại) thống nhất đầu mối trong Sở.
+2. Rà soát, thống kê, phân loại 5 nhóm theo khoản 1 Điều 10 — trọng tâm CCN vốn ngân sách vùng Yên Bái cũ (chủ đầu tư là UBND huyện cũ → gần như chắc rơi nhóm b/c/d, phải làm thủ tục giao). Chủ trì phối hợp UBND xã, phường (các xã có trách nhiệm phối hợp theo mục 3 CV 7103).
 3. Lập hồ sơ đề nghị giao theo khoản 2 Điều 10 (Mẫu 01B), trình Chủ tịch UBND tỉnh.
 4. Xác định phương án giao từng CCN (Điều 6) + xác nhận QP-AN bằng văn bản (khoản 3 Điều 7).
 5. Kê khai, nhập CSDL, báo cáo theo Điều 33; lập danh sách hợp đồng/quyết định chuyển tiếp (Điều 48).
 6. Với CCN đang lựa chọn chủ đầu tư mới có hạ tầng ngân sách trong ranh giới: chốt kênh pháp lý (đất đai vs xử lý tài sản) ngay trong trình tự xử lý thống nhất trình UBND tỉnh.
+7. **Chuẩn bị báo cáo năm 2026** (kết quả rà soát, thống kê, phân loại, giao tài sản) gửi Sở Tài chính **trước 15/12/2026** — năm 2026 không làm báo cáo 6 tháng (mục 7a CV 7103). Rà soát VBQPPL, quy trình nội bộ, TTHC lĩnh vực CCN liên quan tài sản hạ tầng để đề xuất sửa đổi/ban hành mới (điểm c mục 2 CV 7103).
 
-⚠️ **Quy tắc viện dẫn:** số/ngày trong reference này đã đối chiếu toàn văn tại `van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx`. Khi soạn văn bản chính thức, trích dẫn điều khoản → mở file gốc kiểm tra lại nguyên văn. Danh mục chi tiết TSKCHT CCN của Bộ Công Thương (hạn 06/01/2027): tính đến 23/7/2026 CHƯA ban hành — theo dõi, không viện dẫn số văn bản chưa có.
+## J. HAI CÔNG VĂN TRIỂN KHAI NĐ 178/2026 (đã GATE file gốc)
+
+### J.1. Công văn 8388/BTC-QLCS ngày 19/6/2026 của Bộ Tài chính
+
+Gửi các Bộ, cơ quan ngang bộ, cơ quan khác ở trung ương và UBND các tỉnh, thành phố. KT. Bộ trưởng — Thứ trưởng **Tạ Anh Tuấn** ký (chữ ký số BTC 19/06/2026). Scan 4 trang, dòng Lưu VT, QLCS. 6 nhóm nhiệm vụ trọng tâm:
+
+1. Tuyên truyền, phổ biến NĐ 178 và văn bản hướng dẫn tới các đối tượng chịu tác động.
+2. Rà soát VBQPPL đã ban hành liên quan quản lý, sử dụng, khai thác TSKCHT để sửa đổi, bổ sung, thay thế, bãi bỏ — bảo đảm đồng bộ với Luật Quản lý, sử dụng tài sản công và NĐ 178.
+3. Chỉ đạo chủ đầu tư, chủ dự án, BQL dự án: khi dự án đầu tư xây dựng TSKCHT do Nhà nước đầu tư hoàn thành phải **bàn giao tài sản** cho cơ quan, đơn vị, doanh nghiệp quản lý tài sản.
+4. Rà soát, thống kê **toàn bộ** TSKCHT thuộc phạm vi quản lý (đang quản lý, tạm quản lý; xác lập sở hữu toàn dân; kết quả dự án vốn nhà nước; đối tượng khác đang quản lý có nhu cầu điều chuyển — dẫn chiếu khoản 4, 5, 6 Điều 8; khoản 2–6 Điều 35; giao theo Điều 10, 36, 37, khoản 1 Điều 48 NĐ 178).
+5. **Phân công bộ quản lý chuyên ngành công bố danh mục TSKCHT trong 06 tháng** (hạn 06/01/2027) — bảng phân công RẤT QUAN TRỌNG, tránh nhầm:
+
+| Loại TSKCHT | Bộ quản lý chuyên ngành |
+|---|---|
+| **Cụm công nghiệp; hạ tầng thương mại** | **Bộ Công Thương** |
+| **Khu công nghiệp, khu kinh tế, khu chế xuất** | **Bộ Tài chính** (đầu mối: Cục Đầu tư nước ngoài) |
+| Khu công nghệ cao; hạ tầng TT&TT; hạ tầng công nghiệp công nghệ số (gồm khu công nghệ số tập trung) | Bộ Khoa học và Công nghệ |
+| Khu NN ứng dụng CNC; hạ tầng kỹ thuật BVMT; đê điều; cảng cá, khu neo đậu, tránh trú bão | Bộ Nông nghiệp và Môi trường |
+| Hạ tầng văn hóa, thể thao, du lịch | Bộ Văn hóa, Thể thao và Du lịch |
+| Hạ tầng đô thị | Bộ Xây dựng |
+
+   ⚠️ **CCN → Bộ Công Thương nhưng KCN/KKT/KCX → Bộ Tài chính** (không phải Bộ Công Thương). Danh mục gồm: chi tiết loại tài sản, đơn vị tính, thông số đo lường theo pháp luật chuyên ngành (khoản 6 Điều 3 NĐ 178). Bộ chuyên ngành còn: hướng dẫn loại/danh mục tài sản giao doanh nghiệp theo từng hình thức (khoản 1 Điều 35); phối hợp BTC xây dựng CSDL toàn quốc; quy định nội dung đặc thù chuyên ngành (nếu cần).
+6. Bộ, cơ quan trung ương, UBND cấp tỉnh: rà soát, thống kê, phân loại và **giao tài sản trong 02 năm** (hạn 06/7/2028) theo 3 hình thức — (i) giao cơ quan, đơn vị quản lý tài sản (tăng tài sản); (ii) giao doanh nghiệp KHÔNG tính thành phần vốn nhà nước; (iii) giao doanh nghiệp tính thành phần vốn nhà nước (khoản 8 Điều 37); lập hồ sơ, mở sổ kế toán, kê khai nhập CSDL, báo cáo định kỳ/đột xuất.
+
+### J.2. Công văn 7103/UBND-TH ngày 10/7/2026 của UBND tỉnh Lào Cai
+
+KT. Chủ tịch — Phó Chủ tịch **Ngô Hạnh Phúc** ký. Ký hiệu UBND-TH, Lưu VT, TH(Dũng). Gửi các sở, ban, ngành; đơn vị sự nghiệp; DNNN thuộc tỉnh; UBND các xã, phường. ⚠️ Bẫy đọc file: bản render trong context bị trống số/ngày — đọc từ đĩa mới ra **7103/UBND-TH — 10/7/2026** (đúng kịch bản `vbhc-pdf-reader-vn`).
+
+**Phân công sở chuyên ngành hạ tầng cấp tỉnh (mục 2):**
+
+| Loại TSKCHT | Cơ quan chủ trì tại Lào Cai |
+|---|---|
+| **Cụm công nghiệp; hạ tầng thương mại** | **Sở Công Thương** |
+| Khu công nghệ cao; TT&TT; công nghiệp công nghệ số | Sở Khoa học và Công nghệ |
+| Khu NN CNC; kỹ thuật BVMT; đê điều; cảng cá, neo đậu, tránh trú bão | Sở Nông nghiệp và Môi trường |
+| Văn hóa, thể thao, du lịch | Sở Văn hóa, Thể thao và Du lịch |
+| Đô thị | Sở Xây dựng |
+| **Khu kinh tế, khu công nghiệp** (thuộc phạm vi được giao quản lý) | **BQL Khu kinh tế, BQL các khu công nghiệp** |
+
+**5 trách nhiệm của SCT (mục 2, điểm a–đ):**
+- a) Chủ trì, phối hợp rà soát, thống kê, phân loại toàn bộ TSKCHT CCN + hạ tầng thương mại; xác định cơ quan, đơn vị quản lý; lập hồ sơ đề nghị giao; **tham mưu Chủ tịch UBND tỉnh (hoặc cấp có thẩm quyền) quyết định giao tài sản**.
+- b) Hướng dẫn, đôn đốc cơ quan, đơn vị được giao quản lý: lập, quản lý hồ sơ; hạch toán, bảo trì, khai thác; kê khai, cập nhật, chuẩn hóa dữ liệu CSDL TSKCHT và CSDL quốc gia về tài sản công; chế độ báo cáo.
+- c) Rà soát VBQPPL, quy trình nội bộ, quy chế quản lý, TTHC thuộc lĩnh vực phụ trách; đề xuất sửa đổi/bổ sung/thay thế/ban hành mới; công khai, thực hiện TTHC trên môi trường điện tử.
+- d) Trong thời gian hoàn thiện rà soát, giao, khai thác, xử lý: chỉ đạo tiếp tục quản lý, bảo trì, khai thác theo pháp luật chuyên ngành + pháp luật tài sản công, bảo đảm hoạt động thông suốt.
+- đ) Tăng cường kiểm tra, hướng dẫn; xử lý hoặc tổng hợp báo cáo khó khăn, vướng mắc, vi phạm; định kỳ/đột xuất **báo cáo UBND tỉnh (qua Sở Tài chính)**.
+
+**Các đầu mối khác:** UBND xã, phường (mục 3) — quán triệt; chủ trì phối hợp sở chuyên ngành rà soát, thống kê tài sản thuộc phạm vi quản lý; kê khai, chuẩn hóa dữ liệu, chịu trách nhiệm về tính chính xác. Cơ quan, đơn vị, DN được giao tài sản (mục 4) — quản lý đúng mục đích, công năng; lập hồ sơ, kế toán, kiểm kê, bảo trì; kê khai CSDL; báo cáo. Thanh tra tỉnh (mục 5) — chủ trì phối hợp STC tham mưu thanh tra, kiểm tra. **Sở Tài chính (mục 6)** — phối hợp theo dõi, hướng dẫn, đôn đốc; tham mưu giải quyết vướng mắc; tổng hợp báo cáo UBND tỉnh, Bộ Tài chính.
+
+**Chế độ báo cáo (mục 7a):** báo cáo 6 tháng gửi STC trước 05/7 (STC báo cáo UBND tỉnh trước 10/7) — **riêng năm 2026 thực hiện báo cáo năm**; báo cáo năm gửi STC trước 15/12 (STC tổng hợp trước 20/12); đột xuất theo yêu cầu UBND tỉnh, Bộ Tài chính. Vướng mắc: gửi văn bản về sở chuyên ngành hạ tầng tổng hợp, tham mưu UBND tỉnh; đồng gửi STC theo dõi (mục 7b).
+
+⚠️ **Quy tắc viện dẫn:** số/ngày trong reference này đã đối chiếu toàn văn tại `van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx`, `CV-8388-BTC-QLCS-19-6-2026-trien-khai-ND178.pdf` và `CV-7103-UBND-TH-10-7-2026-trien-khai-ND178.pdf`. Khi soạn văn bản chính thức, trích dẫn điều khoản → mở file gốc kiểm tra lại nguyên văn (CV 8388 là bản scan — cần OCR/soi ảnh trang). Danh mục chi tiết TSKCHT CCN của Bộ Công Thương (hạn 06/01/2027): tính đến 23/7/2026 CHƯA ban hành — theo dõi, không viện dẫn số văn bản chưa có.

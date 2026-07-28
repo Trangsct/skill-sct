@@ -16,7 +16,7 @@ Skill có **2 chế độ làm việc** (xem mục "Hai chế độ làm việc"
 ## Tài liệu tham chiếu (`reference/`) — đọc khi cần
 SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc đúng file khi cần, để tiết kiệm ngữ cảnh):
 - `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
-- `reference/thu-vien-mau-that.md` — 17 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
+- `reference/thu-vien-mau-that.md` — 21 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
 - `reference/phong-tranh-sai-lam.md` — chi tiết 9 nhóm sai lầm + checklist + vụ thật (Nhóm I: văn phong công văn gửi doanh nghiệp).
 - `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
 - `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
@@ -243,7 +243,7 @@ python3 scripts/<ten-script>.py && python3 scripts/qa_all.py output/<file>.docx
 Chi tiết cấu trúc paragraph/table của từng template (chỉ số P/Table để điền đúng) — đọc khi soạn bằng Chế độ A: **`reference/templates-chi-tiet.md`**.
 
 ## Thư viện mẫu thật đã ban hành (`examples/`)
-17 mẫu thật (`examples/sct/` 11 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
+21 mẫu thật (`examples/sct/` 15 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
 Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Chế độ B); KHÔNG dùng `TemplateDoc` cho file `examples/` (đã điền sẵn, không theo chỉ số paragraph); KHÔNG bê nguyên nội dung vụ việc cũ sang văn bản mới — chỉ kế thừa khung, thể thức, văn phong.
 
 ## Công thức & checklist thực chiến

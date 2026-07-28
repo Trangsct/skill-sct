@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.5.2"
+    "version": "4.5.3"
   },
   "plugins": [
     {
@@ -107,8 +107,8 @@
     {
       "name": "vbhc-vn",
       "source": "./vbhc-vn",
-      "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 19 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape + assert đếm pict, khử gen lỗi mẫu thật (spid trùng, hanging indent header, w:lang, trHeight); Kính gửi 1 nơi = 1 dòng căn giữa không bảng.",
-      "version": "2.6.0"
+      "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 21 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape + assert đếm pict, khử gen lỗi mẫu thật (spid trùng, hanging indent header, w:lang, trHeight); Kính gửi 1 nơi = 1 dòng căn giữa không bảng. Thêm mẫu vàng CV xin ý kiến sở, ngành về dự thảo VBQPPL của bộ (bản gọn 1 trang, yêu cầu tổng quát).",
+      "version": "2.7.0"
     },
     {
       "name": "xd-sct-vn",

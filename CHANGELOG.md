@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-28 (bổ sung) — `vbhc-vn` v2.7.0: thêm mẫu vàng công văn xin ý kiến dự thảo VBQPPL của bộ
+
+- Vụ thật: Bộ Công Thương lấy ý kiến dự thảo Nghị định sửa đổi, bổ sung Nghị định số 181/2024/NĐ-CP (VLNCN, tiền chất thuốc nổ) tại **CV 5633/BCT-ATMT ngày 22/7/2026**; UBND tỉnh giao Sở Công Thương chủ trì tại **VB 7653/UBND-KT ngày 27/7/2026** (hạn gửi Cục Kỹ thuật an toàn và Môi trường công nghiệp trước 01/8/2026).
+- Thêm `examples/sct/cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh.docx` — bản Bạn đã chỉnh tay và duyệt: gọn **01 trang**, Kính gửi dạng bảng 2 cột, Nơi nhận rút gọn `- Như trên; - Lưu: VT, CN(tên).`, ký KT. GĐ - PGĐ Hoàng Văn Thuân.
+- **Bài học nội dung (chốt 28/7/2026):** khi UBND tỉnh giao Sở chủ trì lấy ý kiến về dự thảo VBQPPL của bộ, phần yêu cầu phải **TỔNG QUÁT như văn bản giao của UBND tỉnh** — nghiên cứu, tham gia ý kiến theo yêu cầu của bộ và các nội dung thuộc phạm vi quản lý nhà nước của cơ quan mình; **KHÔNG liệt kê điều, khoản cụ thể** vì dễ bó hẹp phạm vi góp ý của cơ quan được hỏi.
+- GATE PDF: cả 2 văn bản đến đều hiển thị trống ô số/ngày trong context; số thật đọc từ đĩa (`extract_metadata.py`, PDF scan phải OCR trang 1).
+- `reference/thu-vien-mau-that.md` thêm dòng bảng mẫu ↔ loại văn bản; SKILL.md cập nhật 17 → **21 mẫu thật** (`examples/sct/` 15 + `examples/ubnd/` 6).
+- `plugin.json` 2.6.0 → **2.7.0**; `marketplace.json` đồng bộ, `metadata.version` 4.5.2 → **4.5.3**.
+
 ## 2026-07-28 (bổ sung) — `kccn-sct-vn` v1.12.0: hồ sơ pháp lý gốc CCN Thống Nhất 1, sửa lỗi TMĐT 485 tỷ → 860 tỷ
 
 - Nguồn: 04 PDF bản scan có dấu do Bạn cung cấp. GATE file gốc trên đĩa: 3/4 file không có lớp text, phải render ảnh soi từng trang để lấy số, ngày, người ký.

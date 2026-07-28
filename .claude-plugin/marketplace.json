@@ -4,10 +4,16 @@
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
   "metadata": {
-    "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 18 plugin: môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.4.0"
+    "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
+    "version": "4.5.1"
   },
   "plugins": [
+    {
+      "name": "attp-sct-vn",
+      "source": "./attp-sct-vn",
+      "description": "An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương tỉnh Lào Cai: cấp GCN cơ sở đủ điều kiện ATTP, tự công bố sản phẩm, hậu kiểm; cấp phép thuốc lá (chế biến nguyên liệu, mua bán sản phẩm), rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, bột - tinh bột, bánh kẹo. Khung pháp lý: Luật ATTP 55/2010, NĐ 15/2018 (đang áp dụng lại theo NQ 15/2026), TT 43/2018/TT-BCT, NĐ 67/2013, NĐ 105/2017, NĐ 146/2025, NQ 19/2026, NQ 66.18/2026. Kèm văn bản của tỉnh (QĐ 28/2025/QĐ-UBND phân cấp ATTP, QĐ 904/QĐ-UBND ủy quyền Đoàn thẩm định), biểu mẫu hướng dẫn và ví dụ thực tế đã xử lý.",
+      "version": "1.1.0"
+    },
     {
       "name": "bpb-sct-vn",
       "source": "./bpb-sct-vn",

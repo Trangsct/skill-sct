@@ -1,5 +1,24 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-28 (bổ sung) — `attp-sct-vn` v1.1.0: nạp bộ hồ sơ thực tế + văn bản của tỉnh
+
+- Nguồn: 02 archive **ATTP** và **Thuốc lá** do Bạn cung cấp (56 + 20 file, gồm VBQPPL, văn bản của UBND tỉnh, biểu mẫu, hồ sơ đã xử lý).
+- **QĐ 28/2025/QĐ-UBND ngày 10/11/2025** (hiệu lực 20/11/2025) phân cấp QLNN về ATTP tỉnh Lào Cai, thay QĐ 08/2021/QĐ-UBND (Yên Bái) và QĐ 45/2024/QĐ-UBND (Lào Cai) → reference 01 viết mới: 6 nguyên tắc phân cấp, Điều 6 (Sở Công Thương), Điều 7 (cấp xã — hộ kinh doanh thuộc xã, không thuộc Sở).
+- Chuỗi thẩm quyền cấp GCN ATTP 3 tầng → reference 02 viết mới: NĐ 146/2025 khoản 5 Điều 37 + điểm ii Mục 3 Phần VII Phụ lục XI; TT 38/2025 khoản 2 Điều 16 sửa khoản 2 Điều 6 TT 43/2018; **QĐ 904/QĐ-UBND ngày 26/8/2025** ủy quyền GĐ Sở lập Đoàn thẩm định.
+- **GATE mới:** QĐ 904/QĐ-UBND ủy quyền **chỉ đến hết 31/12/2025** → skill cấm viện dẫn như còn hiệu lực, bắt buộc hỏi Bạn về QĐ thay thế năm 2026 trước khi soạn Quyết định thành lập Đoàn thẩm định.
+- reference 03, 04, 05, 07 viết mới (tự công bố, miễn cấp GCN và bản cam kết, hậu kiểm - xử phạt, rượu bia); reference 06 bổ sung TT 57/2018, TT 43/2023, mẫu QĐ Đoàn thẩm định, 3 lỗi hợp đồng ủy thác theo CV 2534/SCT-CN ngày 17/11/2025.
+- Thêm 05 biểu mẫu thật, 02 bộ ví dụ thực tế (Siêu thị An Lạc — cấp GCN ATTP 9/2025; Kim Ngọc — thuốc lá 2025), 06 văn bản gốc.
+- `plugin.json` 1.0.0 → **1.1.0**; `marketplace.json` entry đồng bộ, `metadata.version` 4.5.0 → **4.5.1**.
+
+## 2026-07-28 — plugin mới `attp-sct-vn` v1.0.0 + marketplace v4.5.0
+
+- Khởi tạo plugin thứ 19: **an toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm** (GCN cơ sở đủ điều kiện ATTP, tự công bố sản phẩm, hậu kiểm; thuốc lá; rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, bánh kẹo).
+- **GATE HIỆU LỰC ATTP** (reference 08): NĐ 46/2026/NĐ-CP ngày 26/01/2026 đang **tạm ngưng hiệu lực** theo NQ 09/2026/NQ-CP ngày 04/02/2026, sau đó là **NQ 15/2026/NQ-CP ngày 06/4/2026**, cho đến khi Luật ATTP (sửa đổi) và nghị định hướng dẫn có hiệu lực; trong thời gian này **NĐ 15/2018/NĐ-CP tiếp tục áp dụng**. Skill mặc định dẫn NĐ 15/2018, cấm dẫn NĐ 46/2026.
+- **Đính chính quan trọng** (reference 06): thẩm quyền cấp, cấp lại, cấp sửa đổi bổ sung, thu hồi **Giấy phép chế biến nguyên liệu thuốc lá** đã phân cấp từ Bộ Công Thương **về UBND cấp tỉnh** theo **khoản 5 Điều 18 NĐ 146/2025/NĐ-CP** (hiệu lực 01/7/2025, trình tự thủ tục tại Phụ lục V) — sửa nhận định sai trước đó cho rằng thẩm quyền vẫn thuộc Bộ. Bài học rà thẩm quyền: phải soát **đủ 03 nguồn** NĐ 146/2025 (và NĐ 139/2025), NQ 19/2026, NQ 66.18/2026, không dừng ở hai Nghị quyết.
+- Điều kiện cấp Giấy phép chế biến nguyên liệu thuốc lá cắt giảm còn **02** theo Phụ lục II phần B NQ 19/2026; Giấy phép mua bán nguyên liệu thuốc lá và GCN đủ điều kiện đầu tư trồng cây thuốc lá đã bãi bỏ điều kiện.
+- references 01, 02, 03, 04, 05, 07 dựng khung, chờ file mẫu, hồ sơ thực tế và Quyết định công bố TTHC để hoàn thiện ở v1.1.0.
+- `marketplace.json`: thêm entry `attp-sct-vn` 1.0.0, `metadata.version` 4.4.0 → **4.5.0**, mô tả 18 → 19 plugin; `sync_marketplace.py --check` đã khớp.
+
 ## 2026-07-27 (bổ sung) — marketplace v4.4.0: đồng bộ lại entry lệch + chốt cơ chế cập nhật
 
 - **Lỗi:** 04 entry trong `.claude-plugin/marketplace.json` bị bỏ quên khi nâng cấp plugin, nên catalog phát cho claude.ai vẫn là bản cũ: `dacn-sct-vn` 1.2.0→**1.3.0**, `kccn-sct-vn` 1.9.0→**1.11.0**, `qlks-sct-vn` 1.3.1→**1.4.0**, `quy-hoach-ct-vn` 1.0.2→**1.1.0** (cả `description` cũng lệch). Nguyên nhân: các commit ngày 26-27/7 chỉ sửa `plugin.json` mà không chạm `marketplace.json`.

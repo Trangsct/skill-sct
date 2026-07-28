@@ -82,10 +82,11 @@ Khởi công xây dựng công trình phải đảm bảo đầy đủ 06 điề
 ### Bối cảnh
 
 - CCN Thống Nhất 1 tại xã Gia Phú, tỉnh Lào Cai.
-- Diện tích: 74,95 ha.
-- Chủ đầu tư: Công ty Cổ phần Đầu tư phát triển Công nghiệp Lào Cai (LCIDI).
-- Tổng vốn đầu tư: 485 tỷ VNĐ.
+- Diện tích: 74,95 ha (theo QĐ thành lập 298/QĐ-UBND ngày 20/02/2025).
+- Chủ đầu tư: Công ty Cổ phần Đầu tư phát triển Công nghiệp Lào Cai.
+- Tổng mức đầu tư: **860.008.000.000 đồng** (đã đối chiếu bản gốc QĐ 298 và QĐ 630/QĐ-UBND ngày 06/3/2025 — con số 485 tỷ trong bản cũ là SAI, không dùng lại).
 - Khởi công: 07/5/2026.
+- Hồ sơ pháp lý đầy đủ (QĐ thành lập, CTĐT, QHCT 1/500, đường kết nối): reference `23`.
 
 ### Rà soát điều kiện khởi công của Sở Công Thương trước Lễ khởi công
 

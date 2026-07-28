@@ -1,5 +1,16 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-28 (bổ sung) — `kccn-sct-vn` v1.12.0: hồ sơ pháp lý gốc CCN Thống Nhất 1, sửa lỗi TMĐT 485 tỷ → 860 tỷ
+
+- Nguồn: 04 PDF bản scan có dấu do Bạn cung cấp. GATE file gốc trên đĩa: 3/4 file không có lớp text, phải render ảnh soi từng trang để lấy số, ngày, người ký.
+- **QĐ 298/QĐ-UBND ngày 20/02/2025** (Chủ tịch Trịnh Xuân Trường) thành lập CCN Thống Nhất 1, 74,95 ha, CĐT Công ty CP Đầu tư phát triển Công nghiệp Lào Cai, **TMĐT 860.008.000.000 đồng**.
+- **QĐ 630/QĐ-UBND ngày 06/3/2025** chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư — CCN sinh thái, hoạt động đến 01/11/2073, ràng buộc khu vực dự trữ khoáng sản quốc gia, 27 mốc tọa độ VN2000 (múi 3 và múi 6).
+- **QĐ 1311/QĐ-UBND ngày 23/6/2025 của UBND thành phố Lào Cai** (Chủ tịch Nguyễn Quốc Huy) phê duyệt QHCT 1/500 — bảng sử dụng đất 749.504,1 m², XLNT 3.000 m³/ngđ, lao động 3.747 người.
+- **QĐ 1955/QĐ-UBND ngày 19/6/2025** đường IC18 – CCN Thống Nhất 1 (2,6 km, 4 làn, nhóm B, 210.000 triệu) — **chốt dứt điểm ngày 19/6/2025**, đóng cờ đỏ nêu từ v1.9.0.
+- **Sửa lỗi:** con số 485 tỷ đồng trong case study khởi công (reference 08) và ví dụ thực tế là SAI → thay bằng 860.008 triệu đồng. Chuẩn hoá cách dùng 74,95 ha (pháp lý) / 75 ha (quy hoạch) / 74,97 ha (GPMB).
+- Thêm `references/23-ccn-thong-nhat-1-ho-so-goc.md`; SKILL.md thêm nghiệp vụ 11 và dòng bảng tra, description rút còn 984 ký tự.
+- `plugin.json` 1.11.0 → **1.12.0**; `marketplace.json` đồng bộ, `metadata.version` 4.5.1 → **4.5.2**.
+
 ## 2026-07-28 (bổ sung) — `attp-sct-vn` v1.1.0: nạp bộ hồ sơ thực tế + văn bản của tỉnh
 
 - Nguồn: 02 archive **ATTP** và **Thuốc lá** do Bạn cung cấp (56 + 20 file, gồm VBQPPL, văn bản của UBND tỉnh, biểu mẫu, hồ sơ đã xử lý).

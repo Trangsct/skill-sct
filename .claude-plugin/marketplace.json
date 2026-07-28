@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.5.1"
+    "version": "4.5.2"
   },
   "plugins": [
     {
@@ -54,7 +54,7 @@
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
       "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư và QĐ 2390/2026 vốn đầu tư công trung hạn 2026-2030; suất vốn đầu tư hạ tầng theo QĐ 425/QĐ-BXD (CCN 7.611 triệu đồng/ha); nội dung NQ 34-NQ/TU, KH 134/KH-UBND và NQ 26-NQ/TU. Khung pháp lý 7/2026: NĐ 32/2024, NĐ 139/2025, NĐ 178/2026, TT 14/2024, QĐ 16/2026 Quy chế CCN Lào Cai.",
-      "version": "1.11.0"
+      "version": "1.12.0"
     },
     {
       "name": "kho-vlncn-sct-vn",

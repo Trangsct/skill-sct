@@ -1,4 +1,30 @@
 # CHANGELOG
+## v1.12.0 — 28/7/2026: bổ sung reference 23 — hồ sơ pháp lý gốc CCN Thống Nhất 1; SỬA LỖI tổng mức đầu tư 485 tỷ → 860 tỷ
+
+Bạn cung cấp 04 file PDF bản scan có dấu. Đã GATE file gốc trên đĩa (3/4 file không có lớp text, phải render ảnh soi từng trang then chốt):
+
+| Văn bản | Số, ngày | Cơ quan | Người ký |
+|---|---|---|---|
+| Thành lập CCN Thống Nhất 1 | **298/QĐ-UBND, 20/02/2025** | UBND tỉnh Lào Cai | Chủ tịch **Trịnh Xuân Trường** |
+| Chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư | **630/QĐ-UBND, 06/3/2025** (sao y ký số 07/3/2025) | UBND tỉnh Lào Cai | Chủ tịch **Trịnh Xuân Trường** |
+| CTĐT đường IC18 – CCN Thống Nhất 1 | **1955/QĐ-UBND, 19/6/2025** | UBND tỉnh Lào Cai | Chủ tịch **Trịnh Xuân Trường** |
+| Phê duyệt QHCT 1/500 | **1311/QĐ-UBND, 23/6/2025** | UBND **thành phố** Lào Cai | Chủ tịch **Nguyễn Quốc Huy** |
+
+### Sửa lỗi số liệu (quan trọng)
+
+- **Tổng mức đầu tư CCN Thống Nhất 1: 485 tỷ đồng là SAI.** Bản gốc QĐ 298 và QĐ 630 đều ghi **860.008.000.000 đồng**, có bảng chi tiết 6 khoản chi phí và cơ cấu vốn CSH 15% / vay 85%. Đã sửa tại `references/08-dieu-kien-khoi-cong.md` (case study khởi công) và `vi-du-thuc-te/README.md`.
+- Chuẩn hoá cách dùng **74,95 ha** (pháp lý: QĐ thành lập, CTĐT, QHCT) — **75 ha** (làm tròn theo Phụ lục III QĐ 525) — **74,97 ha** (GPMB thực hiện theo báo cáo tiến độ). Không lẫn ba con số trong cùng bảng mà không chú thích.
+- **Chốt dứt điểm QĐ 1955/QĐ-UBND ngày 19/6/2025** bằng bản gốc scan (KH 134/KH-UBND ghi 19/6/2026 là lỗi đánh máy). Cờ đỏ nêu tại v1.9.0 và tạm xử lý tại reference 22 nay đóng hoàn toàn.
+
+### Thêm mới
+
+- `references/23-ccn-thong-nhat-1-ho-so-goc.md`: 6 mục A-F — (A) QĐ thành lập 298 với chuỗi hồ sơ dẫn đến quyết định (TTr 09/TTr-UBND 13/01/2025 của UBND TP; TB 11/TB-HĐ 17/02/2025 của Hội đồng chấm điểm; BC thẩm định 39/BC-SCT 18/02/2025), TMĐT và cơ cấu vốn, tiến độ, mục tiêu lấp đầy 50-85-100%, điều khoản 12 tháng không triển khai; (B) QĐ CTĐT 630 — mô hình CCN sinh thái, mã ngành 6810, thời gian hoạt động đến 01/11/2073, ràng buộc khu vực dự trữ khoáng sản quốc gia (QĐ 1277/QĐ-TTg, NĐ 51/2021 sửa bởi NĐ 10/2025, cấm san cos dưới 0m), 27 mốc tọa độ VN2000 múi 3 và múi 6; (C) QHCT 1/500 — bảng sử dụng đất tổng 749.504,1 m² (đất CN 516.130,3 m², 4 lô A-D, 35 thửa; DV 14.278,5; HTKT 22.548,4; CX 96.919,8; giao thông 99.627,2), chỉ tiêu đối chiếu quy chuẩn, lao động 3.747 người, XLNT 3.000 m³/ngđ tại HTKT-1 đạt cột A, cấp điện từ TBA 110kV Nam TP Lào Cai, trục T1 Bnền 35m và T2 Bnền 25m, rác 27 tấn/ngày; (D) đường IC18 — 2,6 km, 4 làn, nhóm B, 210.000 triệu, CĐT Ban QLDA ĐTXD Công trình giao thông tỉnh, 2026-2028, kèm căn cứ TB 4612-TB/TU 05/6/2025 và NQ 48/NQ-HĐND 06/6/2025; (E) bảng tổng hợp nhanh dùng khi soạn văn bản; (F) 5 cảnh báo nghiệp vụ.
+- SKILL.md: thêm nghiệp vụ 11 (tra hồ sơ pháp lý gốc của CCN cụ thể), thêm dòng reference 23 vào bảng tra, bổ sung từ khoá; rút gọn description còn 984 ký tự.
+
+### Lưu ý địa danh và thẩm quyền
+
+Cả 04 quyết định ghi "xã Thống Nhất, thành phố Lào Cai" (địa danh trước 01/7/2025). Văn bản mới ghi **xã Gia Phú, tỉnh Lào Cai**; khi viện dẫn nguyên trích yếu thì giữ nguyên tên cũ. QHCT 1/500 do UBND thành phố Lào Cai phê duyệt — sau khi bỏ cấp huyện, không mặc định UBND xã Gia Phú kế thừa thẩm quyền điều chỉnh, phải rà theo Luật Xây dựng 135/2025 và phân cấp hiện hành.
+
 ## v1.11.0 — 27/7/2026: bổ sung 02 công văn triển khai NĐ 178/2026 (CV 8388/BTC-QLCS + CV 7103/UBND-TH)
 
 Bạn cung cấp 2 file PDF. Đã GATE file gốc trên đĩa:

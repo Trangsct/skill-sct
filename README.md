@@ -22,13 +22,14 @@ Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công
 | `tkm-sct-vn` | Thẩm định thiết kế mỏ khoáng sản 20 năm (2006–2026), toàn văn TT 31/2025, BC 452/BC-TTCP, liên kết trọn vòng đời dự án mỏ |
 | `dacn-sct-vn` | Quản lý danh mục dự án công nghiệp và điều hành chỉ tiêu tăng trưởng theo NQ 169/NQ-CP: 09 chỉ tiêu Sở chủ trì, danh mục dự án động lực, phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm, 7 nhóm điểm nghẽn, báo cáo trước ngày 20, kịch bản tăng trưởng; kèm 2 script phân tích |
 | `qlks-sct-vn` | QLNN về khoáng sản: phân vai liên ngành, KH quản lý rủi ro, GCN KTAT hầm lò, chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng, rà chồng lấn khi thẩm định CCN, thống kê - kê khai - báo cáo định kỳ sản lượng (CV 5141), dữ liệu 178 GP + báo cáo năm 2025 |
+| `attp-sct-vn` | An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm: GCN đủ điều kiện ATTP, tự công bố, hậu kiểm, thuốc lá, rượu; hướng dẫn UBND cấp xã quản lý hộ kinh doanh nhỏ lẻ; GATE hiệu lực NĐ 46/2026 tạm ngưng theo NQ 15/2026 |
 | `xp-hc-vlncn-sct-vn` | Xử phạt VPHC hóa chất + VLNCN theo NĐ 275/2026/NĐ-CP (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): bảng hành vi - mức phạt Đ7-61, thẩm quyền Đ62-73, chuyển tiếp Đ74, đối chiếu điều cũ→mới — plugin chế tài DÙNG CHUNG cho `sd-vlncn-sct-vn`, `hl-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hc-sct-vn` |
 
 ## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
 
 Trình upload plugin của Claude từ chối gói nếu vi phạm. Trước khi zip, LUÔN kiểm:
 
-0. **`description` trong `.claude-plugin/plugin.json` ≤ 500 ký tự** (giới hạn RIÊNG của plugin.json, chặt hơn SKILL.md — lỗi thật 14/7/2026 khi upload tkm-sct-vn 870 ký tự: "Plugin description must be at most 500 characters").
+0. **`description` trong `.claude-plugin/plugin.json` ≤ 500 ký tự** — nay đã có script kiểm tự động `scripts/check_descriptions.py`, CI chặn nếu vượt (giới hạn RIÊNG của plugin.json, chặt hơn SKILL.md — lỗi thật 14/7/2026 khi upload tkm-sct-vn 870 ký tự: "Plugin description must be at most 500 characters").
 1. **`description` trong frontmatter SKILL.md ≤ 1024 ký tự** (đếm theo ký tự, tiếng Việt có dấu tính 1 ký tự/chữ). Đây là lỗi hay gặp nhất. Lệnh kiểm nhanh toàn repo:
    ```bash
    python3 -c "
@@ -96,3 +97,23 @@ Ba nút thắt, phải thông cả ba:
 
 - Repo để **Private** (nội dung có thông tin nội bộ cơ quan: phân công nhân sự, quy trình, hồ sơ). Vì là private nên Claude KHÔNG tự đọc được repo này trong chat — khi cần đối chiếu, tải file từ repo và gửi vào chat.
 - Nguồn sự thật là repo này; bản trên Claude Settings chỉ là "bản cài đặt". Mất bản nào cũng khôi phục được từ đây.
+
+## Tự động cập nhật marketplace (từ 29/7/2026)
+
+Trước đây phải nhớ chạy tay `scripts/sync_marketplace.py` rồi tự sửa `metadata.version`. Nay CI làm thay:
+
+| Ngữ cảnh | CI làm gì |
+|---|---|
+| Push lên `main` | Kiểm giới hạn description → đồng bộ `marketplace.json` từ 19 `plugin.json` → **tự nâng `metadata.version` một bậc patch** → commit ngược lại với thông điệp `[skip ci]` |
+| Push nhánh khác, pull request | Chỉ kiểm tra (`--check` và `check_descriptions.py`), lệch thì báo đỏ, không tự sửa |
+
+Nghĩa là **chỉ cần sửa `version` trong `plugin.json` của plugin rồi push** — phần còn lại tự chạy.
+
+Hai script:
+
+- `scripts/sync_marketplace.py` — `--check` (kiểm), không tham số (ghi lại), `--bump` (ghi lại và nâng `metadata.version`).
+- `scripts/check_descriptions.py` — kiểm `plugin.json` ≤ 500 và `SKILL.md` ≤ 1024 ký tự cho cả 19 plugin.
+
+Điều kiện: repo bật **Settings → Actions → General → Workflow permissions → Read and write permissions** thì bước commit ngược mới chạy được.
+
+Lưu ý vẫn còn: marketplace đã cài trên claude.ai không tự nạp **entry plugin mới**. Nâng version của plugin đã có thì cập nhật được; thêm plugin mới vào catalog thì vẫn phải Remove → Add lại marketplace.

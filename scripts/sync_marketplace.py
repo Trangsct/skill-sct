@@ -8,6 +8,11 @@ dùng (tên, mô tả, version) thì vẫn là bản cũ. Script này giữ hai 
 
     python3 scripts/sync_marketplace.py           # ghi lại marketplace.json
     python3 scripts/sync_marketplace.py --check    # chỉ kiểm tra, lệch thì exit 1
+    python3 scripts/sync_marketplace.py --bump     # ghi lại + tự nâng metadata.version
+
+Chế độ --bump dùng cho CI trên nhánh main: mỗi khi có plugin đổi version hoặc đổi
+mô tả, metadata.version của marketplace được nâng một bậc patch để claude.ai nhận
+ra catalog đã thay đổi mà không phải sửa tay.
 """
 
 import argparse
@@ -59,9 +64,19 @@ def build(marketplace, plugins):
     return result
 
 
+def bump_patch(version):
+    """Nâng một bậc patch: 4.5.3 -> 4.5.4. Không parse được thì thêm '.1'."""
+    parts = version.split(".")
+    if len(parts) == 3 and all(p.isdigit() for p in parts):
+        parts[2] = str(int(parts[2]) + 1)
+        return ".".join(parts)
+    return version + ".1"
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", action="store_true", help="chỉ kiểm tra, không ghi file")
+    ap.add_argument("--bump", action="store_true", help="ghi file và tự nâng metadata.version")
     args = ap.parse_args()
 
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
@@ -85,10 +100,16 @@ def main():
         print("\nChạy `python3 scripts/sync_marketplace.py` rồi commit lại marketplace.json.")
         return 1
 
+    if args.bump:
+        meta = updated.setdefault("metadata", {})
+        meta["version"] = bump_patch(meta.get("version", "0.0.0"))
+        print(f"\nmetadata.version -> {meta['version']}")
+
     MARKETPLACE.write_text(
         json.dumps(updated, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(f"\nĐã đồng bộ {len(drift)} entry. Nhớ nâng metadata.version trước khi push.")
+    tail = "" if args.bump else " Nhớ nâng metadata.version trước khi push."
+    print(f"Đã đồng bộ {len(drift)} entry.{tail}")
     return 0
 
 

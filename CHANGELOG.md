@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-29 — `bpb-sct-vn` v1.1.0: nạp kho số liệu KT-XH tháng 7/2026 (BC 229-BC/TU)
+
+- Nguồn: **Báo cáo sơ bộ tháng 7/2026 số 229-BC/TU ngày 27/7/2026** của Tỉnh ủy Lào Cai (T/L Ban Thường vụ, Phó CVP Nguyễn Hữu Hải ký). GATE PDF: context hiển thị trống ô số/ngày, số thật đọc bằng `pdftotext -layout` từ file gốc trên đĩa.
+- Thêm `references/so-lieu-ktxh-thang-7-2026.md` — kho dữ liệu nền cho bài phát biểu soạn tháng 8–9/2026, 5 khối: (1) **ngành Công Thương**: GTSXCN tháng 7 đạt 6.401 tỷ, lũy kế 40.417,7 tỷ = 51% KH +4,4% CK; khởi công **CCN Phú Thịnh 3** 75 ha >550 tỷ (03 NĐT thứ cấp thuê ~35 ha = 71%); bán lẻ lũy kế 52.550 tỷ = 54,7% KH +9,5%; XNK lũy kế 2.223 triệu USD = 36,2% KH +35,5%; nhiệm vụ tháng 8: bảo đảm nguyên liệu sản xuất, tiết kiệm tối thiểu 10% điện năng; (2) kinh tế chung: thu NSNN 12.989 tỷ = 110% kịch bản +16,8%, giải ngân ĐTC 30%/47,3%, FDI, Hội nghị XTĐT trao 24 dự án >24.160 tỷ; (3) sự kiện neo mở đầu: **Thông báo 381/TB-VPCP ngày 17/7/2026** kết luận của Thủ tướng Lê Minh Hưng, Kỳ họp thứ 3 HĐND (31 NQ), giám sát chuyên đề điện lực của Đoàn ĐBQH; (4) tồn tại: GPMB chậm tại Lao Chải, Chế Tạo, Yên Thành, **Châu Quế** (trùng địa bàn CCN Châu Quế đang thẩm định — cờ lưu ý khi phát biểu), Gia Hội; (5) quy tắc ưu tiên: số người dùng cung cấp luôn thắng số trong kho.
+- Cờ dữ liệu: NQ 01/NQ-CP được báo cáo nguồn ghi 2 ngày khác nhau (06/01 và 08/01/2026) — skill yêu cầu kiểm tra lại trước khi dẫn, không tự chọn.
+- SKILL.md: Bước 1 (thông số 4) và mục 8 trỏ đến kho số liệu, kèm nguyên tắc số liệu hiện trạng KCN/CCN vẫn phải hỏi Bạn.
+- `plugin.json` 1.0.2 → **1.1.0**; `marketplace.json` đồng bộ, `metadata.version` 4.5.4 → **4.5.5**.
+
 ## 2026-07-28 (bổ sung) — `vbhc-vn` v2.7.0: thêm mẫu vàng công văn xin ý kiến dự thảo VBQPPL của bộ
 
 - Vụ thật: Bộ Công Thương lấy ý kiến dự thảo Nghị định sửa đổi, bổ sung Nghị định số 181/2024/NĐ-CP (VLNCN, tiền chất thuốc nổ) tại **CV 5633/BCT-ATMT ngày 22/7/2026**; UBND tỉnh giao Sở Công Thương chủ trì tại **VB 7653/UBND-KT ngày 27/7/2026** (hạn gửi Cục Kỹ thuật an toàn và Môi trường công nghiệp trước 01/8/2026).

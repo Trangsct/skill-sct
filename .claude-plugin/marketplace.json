@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.5.4"
+    "version": "4.5.5"
   },
   "plugins": [
     {
@@ -18,7 +18,7 @@
       "name": "bpb-sct-vn",
       "source": "./bpb-sct-vn",
       "description": "Soạn bài phát biểu, tham luận, diễn văn cho Giám đốc và lãnh đạo Sở Công Thương tỉnh Lào Cai theo phong cách đã duyệt: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, định dạng docx Times New Roman 15pt. Kèm 11 bài mẫu gốc của Sở và script build_bpb.py.",
-      "version": "1.0.2"
+      "version": "1.1.0"
     },
     {
       "name": "bvmt-sct-vn",

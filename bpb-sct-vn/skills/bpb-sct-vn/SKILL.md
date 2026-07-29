@@ -52,7 +52,9 @@ viết. Nếu thiếu thông số then chốt thì hỏi gọn 1 câu, đừng h
 1. **Hội nghị nào, ai chủ trì, thành phần dự?** → quyết định lời kính thưa (mục 4).
 2. **Chủ đề / nhiệm vụ trọng tâm** cần trình bày.
 3. **Thời lượng** mong muốn → quyết định độ dài (mục 3, "Hai biến thể").
-4. **Số liệu, dự án, văn bản căn cứ** người dùng cung cấp (hoặc lấy từ skill số liệu).
+4. **Số liệu, dự án, văn bản căn cứ** người dùng cung cấp; nếu chưa cung cấp, lấy
+   nền từ kho số liệu KT-XH mới nhất trong `references/` (hiện là
+   `so-lieu-ktxh-thang-7-2026.md`) — số người dùng đưa luôn thắng số trong kho.
 5. **Ai đọc** — Giám đốc Sở hay Phó Giám đốc (đổi cách xưng "thay mặt…").
 
 **Bước 2 — Dựng khung theo kết cấu chuẩn** (mục 3). Điền các mảng nội dung vào khung.
@@ -220,6 +222,12 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
 - `references/ngan-hang-cau-tu.md` — **ngân hàng câu mở đầu, chuyển ý, đề nghị, tín
   hiệu-cơ hội, cam kết, kết bài, khẩu hiệu & từ vựng đặc trưng**. Đọc khi cần "chất
   giọng" đúng.
+- `references/so-lieu-ktxh-thang-7-2026.md` — **kho số liệu KT-XH tháng 7 và 7
+  tháng đầu năm 2026** (nguồn: BC 229-BC/TU ngày 27/7/2026 của Tỉnh ủy): GTSXCN,
+  bán lẻ, XNK, thu NSNN, giải ngân, FDI, du lịch, khởi công CCN Phú Thịnh 3, Thông
+  báo 381/TB-VPCP, nhiệm vụ tháng 8 (tiết kiệm 10% điện, bảo đảm nguyên liệu sản
+  xuất). Mở khi soạn bài phát biểu trong tháng 8–9/2026 mà người dùng chưa đưa số
+  liệu; số liệu người dùng cung cấp luôn được ưu tiên.
 - `kho-bai-mau/` — **11 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File

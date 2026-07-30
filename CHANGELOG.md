@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-30 — `sd-vlncn-sct-vn` v2026.7.31 + `vbhc-vn` v2.7.1: vụ Thành Hương trọn 3 giai đoạn, bộ khung trình cấp GP, hai bẫy kỹ thuật docx
+
+- Nguồn: hồ sơ **DNTN Thành Hương Nghĩa Lộ** — mỏ đá vôi VLXDTT thôn Bản Hốc, xã Văn Chấn (GP khai thác 2596/GP-UBND ngày 24/12/2014); nộp lại 28/7/2026 sau CV 4280/SCT-CN, bị trả lần 2 ngày 29/7/2026, bổ sung đủ → bộ trình cấp GP 29–30/7/2026.
+- **ĐÍNH CHÍNH**: CV 4280/SCT-CN ký ngày **16/7/2026** (GATE bản PDF ký), không phải 22/7 như ghi chú cũ tại ref 07.
+- `sd-vlncn-sct-vn` v2026.7.31: ref 07 mục I viết lại 3 giai đoạn (danh mục tồn tại lần 2; kết luận không thuộc diện điểm d k2 Đ38 theo BB thực địa 09/7; số liệu 3-khớp; quy tắc trình bày chốt 30/7); mẫu 01/03/06 trỏ khung mới; **3 khung docx thật bản chốt PTP Trang 30/7** đưa vào `vi-du-thuc-te/` theo chỉ đạo trực tiếp (dự thảo chưa ký/chưa đóng dấu, không chứa số định danh cá nhân): `TTr-cap-GP-Thanh-Huong-29.7.2026.docx`, `Phieu-trinh-cap-GP-Thanh-Huong-29.7.2026.docx`, `GP-du-thao-cap-moi-Thanh-Huong-29.7.2026.docx`.
+- `vbhc-vn` v2.7.1: (1) quy tắc **số mũ m³/m² superscript thật** (tách run + vertAlign, rà regex `m[23](?!\d)` toàn văn); (2) mục mới "Sửa file SAU khi QA — hai bẫy đã trả giá": gán `run.text` xóa cả shape `v:line` trong run (vụ mất đường kẻ dưới Độc lập ở dự thảo GP), mọi sửa sau QA PASS phải QA lại; kỹ thuật đối chiếu thể thức bằng pixel với bản ký (GP 2507) và đo đậm/thường bằng tỉ lệ mực cùng dòng.
+
 ## 2026-07-30 — `sd-vlncn-sct-vn` v2026.7.30: nguyên tắc trị số nhỏ hơn khi PANM lệch thiết kế (vụ Miền Tây)
 
 - Nguồn: hồ sơ **Công ty cổ phần Miền Tây** — mỏ đá vôi VLXDTT phường Trung Tâm (GP khai thác 121/GP-UBND ngày 21/01/2025), PANM số 01/PANM bản DN nộp lại 20/7/2026, Thuyết minh thiết kế mỏ 151 trang (Bảng 6.4 các thông số khoan nổ mìn) kèm QĐ 05/2025/QĐ-PD ngày 03/9/2025 phê duyệt BCKTKT điều chỉnh, QĐ 799/QĐ-UBND ngày 22/5/2023 chấp thuận chủ trương đầu tư.

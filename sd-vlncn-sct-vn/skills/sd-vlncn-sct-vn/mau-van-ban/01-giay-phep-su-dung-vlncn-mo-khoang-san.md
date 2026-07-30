@@ -1,6 +1,6 @@
 # Mẫu 01 — GIẤY PHÉP SỬ DỤNG VLNCN (mỏ khoáng sản, Chủ tịch UBND tỉnh ký)
 
-> Thể thức: văn bản UBND tỉnh; header trái "ỦY BAN NHÂN DÂN / TỈNH LÀO CAI"; Số:      /GP-UBND; địa danh "Lào Cai, ngày… tháng… năm 20…". Khi soạn docx: dùng khung file thật `vi-du-thuc-te/GP-mo-da-My-Gia.docx` (Chế độ B vbhc-vn).
+> Thể thức: văn bản UBND tỉnh; header trái "ỦY BAN NHÂN DÂN / TỈNH LÀO CAI"; Số:      /GP-UBND; địa danh "Lào Cai, ngày… tháng… năm 20…". Khi soạn docx: dùng khung file thật MỚI NHẤT `vi-du-thuc-te/GP-du-thao-cap-moi-Thanh-Huong-29.7.2026.docx` (bản chốt PTP Trang 30/7/2026: đủ căn cứ TT 26/2026, TT 38/2025 tách đoạn riêng không "về việc", 3 đường Line khớp bản ký GP 2507, ô ngày trống cả ngày lẫn tháng, dòng ngày nghiêng 13pt); khung cũ `GP-mo-da-My-Gia.docx` chỉ dùng đối chiếu. Chế độ B vbhc-vn; đối chiếu thể thức với bản ký `GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf`.
 
 ---
 

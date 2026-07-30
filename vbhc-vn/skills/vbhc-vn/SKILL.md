@@ -55,6 +55,7 @@ Căn cứ gốc đầy đủ nằm ở `reference/nd30-phu-luc-1-the-thuc.md` (t
 - **Không dùng màu nền/shading** cho bất kỳ ô/dòng/bảng nào — bảng nền trắng, chỉ viền đen mảnh. *Vì sao:* VBHC chuẩn dùng nền trắng; shading dễ lệch màu, khó đọc khi in/photocopy.
 - Cột Quốc hiệu được phép rộng vượt tỷ lệ chuẩn để Quốc hiệu nằm gọn trên 1 dòng. Đoạn bị lẻ 1 chữ ở dòng cuối: co khoảng cách chữ (character spacing/condensed) để tránh.
 - **KHÔNG bao giờ chèn ngắt dòng cứng `\n`/`<w:br/>` trong một paragraph** (xem Quy tắc bất biến 10) — V/v, tên cơ quan, ngày tháng để chuỗi liền, Word tự wrap.
+- **Số mũ đơn vị đo (m³, m², cm²) BẮT BUỘC là superscript thật** — không để "m3/m2" số thường (lỗi lặp nhiều lần, PTP Trang nhắc 29/7/2026). Khi sửa bằng code: tách chữ số mũ thành run riêng kế thừa nguyên rPr + `<w:vertAlign w:val="superscript"/>`; rà toàn văn (cả bảng) bằng regex `m[23](?!\d)` trước khi xuất; kiểm nhanh trên bản render — tesseract đọc thành "m°"/"m?" là dấu hiệu superscript đã ăn.
 
 ### VBQPPL (QĐ UBND, NQ HĐND) — KHÔNG dùng NĐ 30/2020
 Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30-35mm. Quốc hiệu/Tiêu ngữ/Tên CQ 12-14 đậm; số ký hiệu CÓ năm (.../2026/QĐ-UBND); CĂN CỨ cỡ 14 nghiêng; nội dung 13-14 lùi 1-1.27cm; Điều đậm; Nơi nhận 12 nghiêng đậm. QĐ UBND QPPL trực tiếp theo **Mẫu 19** (NĐ 78/2025 PL III): có dòng "Ủy ban nhân dân tỉnh ban hành Quyết định..." nghiêng, sau căn cứ, trước "QUYẾT ĐỊNH:".
@@ -74,6 +75,11 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 - KHÔNG báo lỗi **thiếu số ký hiệu** ("Số: .../...") đối với file Word (số do văn thư cấp sau).
 - KHÔNG báo lỗi **"thiếu chữ NAM"** trong Quốc hiệu và KHÔNG tự thêm "NAM" — nếu công cụ trích xuất hiển thị Quốc hiệu kết thúc ở "...VIỆT", đó là lỗi hiển thị phía Claude (NAM nằm ở run/dòng khác), không phải văn bản thiếu chữ.
 - Khi trích metadata PDF: nếu không đọc được người ký, KHÔNG cần OCR lại — chỉ cần số văn bản + ngày là đủ.
+
+### Sửa file SAU khi QA — hai bẫy đã trả giá (vụ Thành Hương 29-30/7/2026)
+- **Gán `run.text = ...` (python-docx) xóa TOÀN BỘ nội dung run, kể cả shape `v:line`/`w:pict` nằm trong run** — điền "tháng 7" vào ô ngày đã làm mất đường kẻ dưới "Độc lập - Tự do - Hạnh phúc" của dự thảo GP dù QA trước đó PASS. Trước khi gán text vào đoạn thuộc bảng header (ô ngày, ô quốc hiệu, ô tên cơ quan): grep `<w:pict`/`v:line` trong đoạn; nếu có, chỉ sửa phần tử `w:t` trong XML hoặc trích nguyên khối run chứa pict từ mẫu gốc chèn trả lại.
+- **Mọi chỉnh sửa sau lần QA PASS — dù chỉ một ô ngày — phải chạy lại `qa_all.py` và render soi lại**; khoảng hở "sửa nhẹ khỏi QA" chính là nơi lỗi lọt ra bản giao cho người dùng.
+- Khi nghi ngờ thể thức mà không soi được ảnh: **đối chiếu pixel với bản ký thật** — render cả hai cùng 120 dpi, dò các đoạn kẻ ngang (ngưỡng xám < 175, đoạn liên tục ≥ 30 px, liệt kê MỌI đoạn mỗi hàng chứ không chỉ đoạn dài nhất) rồi so tọa độ; đo đậm/thường bằng tỉ lệ mực hai vùng TRÊN CÙNG MỘT DÒNG (nhãn vs nội dung), không so giữa các dòng khác cấu trúc.
 
 ### Một số loại có quy ước riêng (tóm tắt; chi tiết ở mục template/examples)
 - **Giấy mời họp `SCT-GM`**: văn bản độc lập, không tham chiếu cuộc họp trước, các thành phần bình đẳng, không ghi "mời thêm"; kết cấu 4 mục (Thành phần; Thời gian; Địa điểm; Nội dung).

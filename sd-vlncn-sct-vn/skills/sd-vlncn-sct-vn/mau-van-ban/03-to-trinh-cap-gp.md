@@ -1,6 +1,7 @@
 # Mẫu 03 — TỜ TRÌNH của SCT trình Chủ tịch UBND tỉnh cấp Giấy phép sử dụng VLNCN
 
-> Thể thức Sở: Số:      /TTr-SCT; ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**; **Lưu: VT, CN(Linh)**. Kính gửi: Chủ tịch Ủy ban nhân dân tỉnh Lào Cai (qua PCT Nguyễn Thành Sinh phụ trách).
+> Thể thức Sở: Số:      /TTr-SCT; ký **GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp** (tiền lệ Miền Tây + Thành Hương — văn bản trình UBND tỉnh); nơi nhận "- Như trên; - Ban GĐ Sở;"; **Lưu: VT, BP1C, CN(Khôi)** (chốt PTP Trang 30/7/2026). Kính gửi: Ủy ban nhân dân tỉnh Lào Cai.
+> **Khung docx thật ưu tiên: `vi-du-thuc-te/TTr-cap-GP-Thanh-Huong-29.7.2026.docx`** (bản chốt 30/7/2026). Quy tắc căn cứ: MỖI thông tư một đoạn "Căn cứ" riêng, dẫn đúng trích yếu gốc — KHÔNG thêm "về việc" trước "sửa đổi, bổ sung"; dẫn Luật theo tên đầy đủ "Căn cứ Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 29/6/2024". Mục thông số kỹ thuật (II.4) phải chốt CẢ Tổng khối lượng VLNCN năm (khớp đơn + PANM + dự thảo GP). Số mũ m³ superscript thật.
 
 **TỜ TRÌNH**
 **Về việc cấp Giấy phép sử dụng vật liệu nổ công nghiệp cho 【tên doanh nghiệp】**

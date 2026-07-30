@@ -1,14 +1,47 @@
-name: Kiem tra marketplace.json dong bo
+name: Dong bo marketplace.json
+
+# Tren nhanh main: TU DONG dong bo marketplace.json tu cac plugin.json, tu dong
+# nang metadata.version roi commit nguoc lai. Khong con phai nho chay tay.
+# Tren nhanh khac va pull request: chi kiem tra, lech thi bao do.
 
 on:
   push:
     branches: ["**"]
   pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  check:
+  sync:
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - uses: actions/checkout@v4
-      - name: marketplace.json phai khop moi plugin.json
+        with:
+          fetch-depth: 0
+
+      - name: Kiem tra gioi han description
+        run: python3 scripts/check_descriptions.py
+
+      - name: Dong bo va nang version (chi tren main)
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: python3 scripts/sync_marketplace.py --bump
+
+      - name: Commit nguoc lai neu co thay doi
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          if [ -n "$(git status --porcelain .claude-plugin/marketplace.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .claude-plugin/marketplace.json
+            git commit -m "chore: dong bo marketplace.json [skip ci]"
+            git push
+          else
+            echo "marketplace.json da khop, khong can commit"
+          fi
+
+      - name: Kiem tra dong bo (nhanh khac / pull request)
+        if: github.ref != 'refs/heads/main' || github.event_name != 'push'
         run: python3 scripts/sync_marketplace.py --check

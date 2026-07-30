@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-07-30 — `sd-vlncn-sct-vn` v2026.7.30: nguyên tắc trị số nhỏ hơn khi PANM lệch thiết kế (vụ Miền Tây)
+
+- Nguồn: hồ sơ **Công ty cổ phần Miền Tây** — mỏ đá vôi VLXDTT phường Trung Tâm (GP khai thác 121/GP-UBND ngày 21/01/2025), PANM số 01/PANM bản DN nộp lại 20/7/2026, Thuyết minh thiết kế mỏ 151 trang (Bảng 6.4 các thông số khoan nổ mìn) kèm QĐ 05/2025/QĐ-PD ngày 03/9/2025 phê duyệt BCKTKT điều chỉnh, QĐ 799/QĐ-UBND ngày 22/5/2023 chấp thuận chủ trương đầu tư.
+- **Nguyên tắc mới (anti-error 20)**: PANM lệch thiết kế về **khối lượng** (thuốc nổ, kíp, dây nổ, thuốc nạp/lỗ) → chốt trị số **NHỎ HƠN**; lệch về **khoảng cách an toàn** (Rc, rs, đá văng) → chốt trị số **LỚN HƠN**. Ba bước rà bắt buộc: kiểm tra chéo tháng × 12 = quý × 4 = năm; tự tính lại công thức của cả PANM và thiết kế (thiết kế đã phê duyệt vẫn sai số học); ràng buộc nội tại cột thuốc × p = thuốc nạp/lỗ, cột bua = Lk − cột thuốc ≥ max(Wct; 20d).
+- Trị số đã chốt cho Miền Tây: thuốc nổ 23.540 kg/năm, kíp nổ 3.246 cái/năm, dây nổ 6.818 m/năm, thuốc nạp 19 và 16,7 kg/lỗ, Wct 3,3 m, cột thuốc 2,2/2,0 m, cột bua 3,6/3,8 m, Rc 43,5 m, rs 154,9 m, đá văng 300/225 m.
+- File: `skills/sd-vlncn-sct-vn/SKILL.md` (anti-error 20), `references/03-panm.md` (mục G lỗi 14, 15), `references/07-vi-du-thuc-te.md` (mục J + mục D nhận về bài học 12–14 đang lạc, thêm 15–17), CHANGELOG plugin. Bộ 4 văn bản thực tế của vụ việc **không đưa vào repo** (repo public, file chứa dữ liệu cá nhân và doanh nghiệp).
+
 ## 2026-07-29 — `bpb-sct-vn` v1.1.0: nạp kho số liệu KT-XH tháng 7/2026 (BC 229-BC/TU)
 
 - Nguồn: **Báo cáo sơ bộ tháng 7/2026 số 229-BC/TU ngày 27/7/2026** của Tỉnh ủy Lào Cai (T/L Ban Thường vụ, Phó CVP Nguyễn Hữu Hải ký). GATE PDF: context hiển thị trống ô số/ngày, số thật đọc bằng `pdftotext -layout` từ file gốc trên đĩa.

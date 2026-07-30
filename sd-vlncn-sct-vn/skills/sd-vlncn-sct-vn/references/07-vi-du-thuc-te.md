@@ -60,6 +60,13 @@
 9. **Hồ sơ chưa đủ điều kiện → văn bản TRẢ LẠI HỒ SƠ, không phải "CV hoàn thiện + hạn nộp"** (chỉ đạo PTP Trang, vụ Mông Sơn 7/2026): trích yếu "V/v trả lại hồ sơ đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp"; thân văn bản ghi "Sở Công Thương trả lại hồ sơ (gửi kèm theo Công văn này) và đề nghị Công ty hoàn thiện các nội dung sau"; KHÔNG đặt thời hạn nộp bổ sung, KHÔNG có câu "quá thời hạn sẽ trả hồ sơ"; đoạn kết: "Sau khi hoàn thiện đầy đủ các nội dung nêu trên, đề nghị Công ty nộp lại hồ sơ về Sở Công Thương (qua Hệ thống thông tin giải quyết thủ tục hành chính) để được xem xét, giải quyết theo quy định." + câu kết chuẩn "Sở Công Thương thông báo cho [DN] được biết và thực hiện./." (kênh nộp theo khoản 5 Điều 39 Luật 42/2024 — không ghi Trung tâm Phục vụ hành chính công).
 10. **Không yêu cầu tài liệu phương tiện vận chuyển VLNCN ở bước hồ sơ** với mỏ mua VLNCN giao tại kho và chỉ vận chuyển nội bộ trong ranh giới mỏ — doanh nghiệp thuê phương tiện SAU khi được cấp phép; điểm e khoản 1 Điều 39 chỉ áp khi không có kho/phương tiện và cũng chỉ đòi "văn bản thể hiện ý định giao kết", thực tiễn thẩm định của Phòng không đưa yêu cầu này vào văn bản trả hồ sơ (chỉ đạo PTP Trang, Mông Sơn).
 11. **Nhân sự đã có GCN huấn luyện KTAT VLNCN do Sở Công Thương cấp còn hiệu lực → KHÔNG yêu cầu nộp thêm chứng chỉ chuyên môn hay tài liệu chứng minh thâm niên** (chỉ huy nổ mìn 01 năm, thợ mìn 06 tháng theo Điều 4 NĐ 181/2024) trong văn bản trả hồ sơ — quy trình huấn luyện, kiểm tra, cấp GCN của Sở đã thẩm tra hồ sơ nhân sự; khi cần đối chiếu thì tra hồ sơ huấn luyện lưu tại Sở (chỉ đạo PTP Trang, Mông Sơn). Lưu ý cho Claude: điểm g khoản 1 Điều 39 vẫn liệt kê "bản sao chứng chỉ chuyên môn" — KHÔNG chủ động đưa yêu cầu này vào dự thảo nếu Bạn không chỉ đạo.
+12. **Người ký theo cấp nhận văn bản (bài học Miền Tây 27/7/2026, Bạn Trang sửa tay):** Tờ trình trình UBND tỉnh do **GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp** (không KT.GĐ — PGĐ Thuân, dù VLNCN thuộc mảng PGĐ Thuân); nơi nhận ghi "- Ban GĐ Sở;" thay cho "- GĐ, PGĐ (HV. Thuân);". Phiếu trình nội bộ vẫn trục CV(Khôi) → TP Long → PGĐ Thuân cho ý kiến trước khi GĐ ký.
+13. **Dự thảo QĐ UBND tỉnh (bài học Miền Tây):** dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …" — KHÔNG viết "Sở Công Thương tỉnh Lào Cai"; ô ngày header dự thảo điền sẵn tháng/năm, để trống ngày: "Lào Cai, ngày      tháng 7 năm 2026".
+14. **Nhãn đậm — nội dung thường:** "Nội dung trình:", "Hồ sơ, văn bản kèm theo:", "Điều N.", "1. Địa điểm nổ mìn:"… chỉ ĐẬM PHẦN NHÃN đến hết dấu hai chấm/dấu chấm, nội dung sau đó chữ thường (trừ tiêu đề ngắn trọn dòng như "Điều 3. Tổ chức thực hiện" đậm cả). Khi sửa file bằng code tuyệt đối không gộp cả đoạn vào run đậm đầu tiên.
+15. **Nguyên tắc TRỊ SỐ NHỎ HƠN khi PANM lệch thiết kế về KHỐI LƯỢNG** (Miền Tây 30/7/2026, ref 07 mục J): với thuốc nổ, kíp nổ, dây nổ, thuốc nạp một lỗ khoan — chốt giá trị NHỎ HƠN giữa PANM và Bảng tổng hợp thông số khoan nổ mìn của thiết kế được duyệt. Ngược lại, với KHOẢNG CÁCH AN TOÀN (Rc, rs, đá văng) — chốt giá trị LỚN HƠN. Cả hai chiều đều theo hướng an toàn hơn và đều phải ghi rõ căn cứ trong cột "Đối chiếu với Thiết kế kỹ thuật" của Phụ lục thẩm định.
+16. **Thiết kế được duyệt cũng có lỗi số học — phải tự tính lại, không chép mù** (Miền Tây): Bảng 6.4 thiết kế ghi Rc = 41,6 m và Rs = 145 m trong khi 7·∛240 = 43,5 m và 10·√240 = 154,9 m. Khi thiết kế và PANM lệch nhau, tính lại theo công thức gốc Phụ lục 7 QCVN 01:2019/BCT rồi mới kết luận bên nào đúng; đoạn lập luận đặt trong Phụ lục thẩm định của Phiếu trình.
+17. **Kiểm tra chéo bằng số liệu tháng/quý trong chính PANM** (Miền Tây): tổng năm phải bằng số tháng × 12 và số quý × 4. Vụ Miền Tây phát hiện kíp nổ ghi 3.913 cái/năm nhưng tháng 270 cái (×12 = 3.240) và quý 811 cái (×4 = 3.244) → trị số năm đúng là 3.246. Đây là cách phát hiện lỗi nhanh nhất, làm trước khi đi vào công thức.
+
 
 ## E. HỒ SƠ PDF THẬT (bản ký/scan — dùng đối chiếu quy trình, chữ ký, dấu)
 
@@ -111,6 +118,52 @@ Dữ liệu hồ sơ đã xác minh từ bản gốc (dossier DN nộp 16/7/2026
 - **CV 4280/SCT-CN ngày 22/7/2026** (PGĐ Thuân ký, CN Khôi) dừng giải quyết + trả hồ sơ với 4 nhóm lỗi: (1) Giấy đề nghị — đơn vị kíp ghi kg, chủng loại thuốc chưa theo Danh mục, số định danh lệch, dẫn hợp đồng thuê đất sai định dạng (bản gốc 60/2019/HĐTĐ, 15/2024/HĐTĐ dấu gạch chéo), QĐ phân công dẫn GP dịch vụ nổ mìn 36/GP-ATMT đã hết hiệu lực; (2) thiết kế — thiếu QĐ phê duyệt BCKTKT điều chỉnh của chủ đầu tư, dấu thẩm tra chưa ghi số; (3) kho — chưa khẳng định có/không kho tại mỏ, HĐ cung ứng 244/HĐNT/A2/2026 chưa nêu kho bảo quản, QĐ phân công thủ kho mâu thuẫn với khai không tồn chứa; (4) PANM — mâu thuẫn mục 2.4, thiếu bảng 1.000m, Qb 233kg vs Q tức thời 145kg chưa thuyết minh vi sai, thiếu che chắn bắt buộc + trạm gác QL32, vấn đề 1,5 lần.
 - **PANM soạn lại** (file `vi-du-thuc-te/PANM-Thanh-Huong-chinh-sua-2026.docx`): mẫu chuẩn trình bày đầy đủ — bảng thống kê 1.000m, chuỗi vi sai 233→2 nhóm ≤145kg, che chắn B40 + sơ đồ (Hình 4), trạm gác 2 đầu QL32, mục 3.10.3/3.10.5 tính 2 nhánh đá văng theo ref 08, hiệu lực dạng điều kiện đo đạc, đoạn giám sát/hộ chiếu/đánh giá rủi ro trong mục V, ô 【…】 bôi đỏ chờ số liệu.
 - **Bài học chốt cách đọc 1,5 lần** (tranh luận nội bộ PTP Trang): xem reference 08 mục C — Sở chốt nhánh quy-định-riêng (người 300m phía thấp hơn), CV 4280 trước đó nêu 450m → đoạn lập luận chuyển hướng phải nằm trong biên bản thẩm định và báo cáo lại PGĐ Thuân. Checklist 10 lỗi PANM: ref 03 mục G.
-12. **Người ký theo cấp nhận văn bản (bài học Miền Tây 27/7/2026, Bạn Trang sửa tay):** Tờ trình trình UBND tỉnh do **GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp** (không KT.GĐ — PGĐ Thuân, dù VLNCN thuộc mảng PGĐ Thuân); nơi nhận ghi "- Ban GĐ Sở;" thay cho "- GĐ, PGĐ (HV. Thuân);". Phiếu trình nội bộ vẫn trục CV(Khôi) → TP Long → PGĐ Thuân cho ý kiến trước khi GĐ ký.
-13. **Dự thảo QĐ UBND tỉnh (bài học Miền Tây):** dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …" — KHÔNG viết "Sở Công Thương tỉnh Lào Cai"; ô ngày header dự thảo điền sẵn tháng/năm, để trống ngày: "Lào Cai, ngày      tháng 7 năm 2026".
-14. **Nhãn đậm — nội dung thường:** "Nội dung trình:", "Hồ sơ, văn bản kèm theo:", "Điều N.", "1. Địa điểm nổ mìn:"… chỉ ĐẬM PHẦN NHÃN đến hết dấu hai chấm/dấu chấm, nội dung sau đó chữ thường (trừ tiêu đề ngắn trọn dòng như "Điều 3. Tổ chức thực hiện" đậm cả). Khi sửa file bằng code tuyệt đối không gộp cả đoạn vào run đậm đầu tiên.
+
+## J. VỤ MIỀN TÂY (7/2026) — PHÊ DUYỆT PANM KHU VỰC CÓ CÔNG TRÌNH CẦN BẢO VỆ (chuỗi trọn 4 văn bản)
+
+**Bối cảnh.** Công ty cổ phần Miền Tây, mỏ đá vôi VLXDTT phường Trung Tâm, tỉnh Lào Cai (trước 01/7/2025 là xã Phù Nham, thị xã Nghĩa Lộ, tỉnh Yên Bái) — GP khai thác khoáng sản 121/GP-UBND ngày 21/01/2025 của UBND tỉnh Yên Bái: 3,71 ha, 50.000 m3/năm đá nguyên khối, thời hạn 15 năm; QĐ chấp thuận chủ trương đầu tư 799/QĐ-UBND ngày 22/5/2023 (Chủ tịch Trần Huy Tuấn ký); QĐ 05/2025/QĐ-PD ngày 03/9/2025 của Chủ tịch HĐQT phê duyệt Báo cáo kinh tế - kỹ thuật đầu tư xây dựng ĐIỀU CHỈNH (đơn vị lập: Công ty TNHH Tư vấn và Đầu tư Sơn Thái, thẩm tra: Công ty CP Tư vấn Mỏ và Xây dựng Trường Xuân); QĐ 488/QĐ-UBND ngày 22/8/2025 và QĐ 435/QĐ-UBND ngày 28/4/2026 của UBND phường Trung Tâm cho thuê đất đợt 1, đợt 2.
+
+**Diện phê duyệt.** Biên bản kiểm tra thực tế 09/7/2026 của Sở: phía Bắc, Nam, Đông giáp đồi cây, trong 300 m không có công trình cần bảo vệ; phía Tây có **01 nhà dân không thuộc sở hữu Công ty, cách vị trí nổ mìn 230 m** (còn lại là dây chuyền nghiền sàng, nhà điều hành, nhà ở công nhân của Công ty; các nhà dân khác ≥ 300 m). Bán kính đá văng đối với người 300 m > 230 m → thuộc điểm d khoản 2 Điều 38 Luật 42/2024, phải trình Chủ tịch UBND tỉnh phê duyệt PANM kèm chấp thuận sử dụng VLNCN.
+
+**Chuỗi văn bản.** CV 4281/SCT-CN ngày 16/7/2026 (Sở trả lại hồ sơ cấp GP + hướng dẫn hoàn thiện PANM theo hướng trình cấp có thẩm quyền phê duyệt) → CV 20/2026/CV-MT ngày 20/7/2026 của Công ty (đề nghị phê duyệt PANM, kèm PANM số 01/PANM bản chỉnh sửa) → Phiếu chuyển của Văn phòng UBND tỉnh → Phiếu trình + Tờ trình `/TTr-SCT` (**GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp**) + dự thảo QĐ `/QĐ-UBND` (KT. CHỦ TỊCH — PCT Nguyễn Thành Sinh).
+
+### J.1. Bảng đối chiếu PANM ↔ Bảng 6.4 thiết kế được duyệt và trị số đã chốt
+
+| Chỉ tiêu | PANM của DN | Bảng 6.4 thiết kế | Chốt | Cơ sở |
+|---|---|---|---|---|
+| Thuốc nổ/năm | 23.540 kg | 26.400 kg | **23.540 kg** | nhỏ hơn (PANM dùng q2 = 0,28 và kdt = 1,1; thiết kế dùng q = 0,4 và kdt = 1,2 cho cả 2 lần nổ) |
+| Kíp nổ các loại/năm | 3.913 cái | 3.246 cái | **3.246 cái** | nhỏ hơn + PANM sai số học |
+| Dây nổ chịu nước/năm | 6.818 m | 10.716 m | **6.818 m** | nhỏ hơn |
+| Thuốc nổ 01 đợt nổ Qb | 240 kg | 240 kg | 240 kg | khớp |
+| Thuốc nạp 01 lỗ khoan | (bản trước 21,78 kg) | 19 / 16,7 kg | **19 kg hàng ngoài; 16,7 kg hàng trong** | theo thiết kế |
+| Đường cản chân tầng ø110 | 3,1 m | 3,3 m | **3,3 m** | 30 × 0,110 = 3,3; PANM sai số học |
+| Cột thuốc / cột bua | 2,5 m / ≥ 3,3 m | 2,2 (2,0) m / 3,6 (3,8) m | **2,2 và 2,0 m / 3,6 và 3,8 m** | theo thiết kế; p = 8,55 kg/m |
+| Rc chấn động | 43,5 m | 41,6 m | **43,5 m** | lớn hơn + đúng công thức (7.1) |
+| rs sóng không khí | 154,9 m | 145 m | **154,9 m** | lớn hơn + đúng công thức (7.6) |
+| Đá văng — người | 300 m | 300 m | 300 m | khớp |
+| Đá văng — thiết bị | 225 m | 150 m | **225 m** | lớn hơn |
+
+Các thông số khớp sẵn không phải sửa: chiều cao phân tầng 5 m; chiều sâu lỗ khoan 5,8 m (khoan thêm 0,8 m = 15%); a = 3,3 m; b = 2,9 m (mạng tam giác đều); q1 = 0,4 kg/m3; suất phá đá 8,8 m3/m; Nlk = 1.127 lỗ/năm; 250 ngày làm việc, 3 ngày nổ 1 lần, 14 lỗ/đợt nổ; Q tức thời lớn nhất 85 kg (Ds = 24,9 với 230 m), vi sai tối thiểu 05 cấp.
+
+### J.2. Ba lỗi số học đã phát hiện (đều nằm ở tài liệu DN hoặc thiết kế, không phải ở quy chuẩn)
+
+1. **Kíp nổ 3.913 cái** — công thức của chính PANM cho (1.127 + 1.127·20%)·2·1,2 = **3.246**. Phát hiện nhanh bằng kiểm tra chéo tháng/quý (270 × 12 = 3.240; 811 × 4 = 3.244).
+2. **Wct = 3,1 m** — 30 × 0,110 = **3,3 m**; chính PANM về sau vẫn dùng 3,3 (a = mWct = 3,3; Lb = 1·Wct = 3,3) nên đây là lỗi đánh máy lan truyền.
+3. **Rc = 41,6 m và Rs = 145 m trong Bảng 6.4 thiết kế** — đúng phải là 7·∛240 = 43,5 m và 10·√240 = 154,9 m. Thiết kế đã được chủ đầu tư phê duyệt vẫn có thể sai số học.
+
+### J.3. Cách viết văn bản
+
+- **Phiếu trình**: mục "Một số nội dung Phòng đã rà soát, hiệu chỉnh" liệt kê từng hiệu chỉnh kèm **số mục trong PANM** (mục 3.1.2, 3.3.3, 3.12.3). Đoạn thẩm định nêu nguyên tắc lấy trị số nhỏ hơn và dẫn đủ cặp số liệu hai phía. Phụ lục thẩm định: cột "Đối chiếu với Thiết kế kỹ thuật" ghi trị số Bảng 6.4 và câu chốt, KHÔNG để trống.
+- **Không tự phủ định công văn Sở đã phát hành**: CV 4281/SCT-CN trước đó đã hướng dẫn "thống nhất 3.913 cái"; Phiếu trình viết theo hướng "hiệu chỉnh các thông số khối lượng theo đúng Bảng 6.4 thiết kế được duyệt theo hướng dẫn tại CV 4281", đồng thời ghi nhận trong mục hiệu chỉnh rằng PANM tính sai số học thành 3.913 cái.
+- **Tờ trình**: sau dòng tổng khối lượng VLNCN, thêm câu khẳng định Sở đã đối chiếu với Bảng 6.4 thiết kế theo nguyên tắc lấy trị số nhỏ hơn — đây là câu chống bị Văn phòng UBND tỉnh trả lại (ref 09).
+- **Dự thảo QĐ**: Điều 2 ghi đúng bộ thông số đã chốt; thuốc nạp một lỗ khoan ghi cả hai giá trị hàng ngoài/hàng trong.
+- **W' trong công thức (7.9) giữ L = chiều cao cột bua TỐI THIỂU (3,3 m), không lấy 3,6 m** — cột bua nhỏ hơn cho W' nhỏ hơn nên R lớn hơn, là phía an toàn. Kết quả R = 131,9 m < sàn 200 m Bảng 7.9 → kết luận không đổi.
+
+### J.4. Kỹ thuật xử lý hồ sơ (lặp lại được)
+
+- Dossier `.rar` v5 tên tiếng Việt: container không có `unrar`/`7z` → dùng `pip install libarchive-c` rồi `libarchive.extract_file(...)`; `rarfile` sẽ báo `RarCannotExec`.
+- Thuyết minh thiết kế mỏ 151 trang là bản SCAN, không có text layer → OCR: `curl -sL https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/vie.traineddata` rồi copy vào `/usr/share/tesseract-ocr/*/tessdata/`, render bằng `pypdfium2` scale 2.2 + `pytesseract lang='vie'`. Đọc MỤC LỤC trước để khoanh chương cần OCR (chương khoan nổ mìn của Miền Tây: mục 6.2, trang tài liệu 52–64 ≈ trang PDF 54–66), không OCR cả file.
+- **Sửa file .docx bằng code phải giữ chỉ số dưới**: thay chuỗi trải nhiều run rồi gộp hết vào run đầu sẽ làm mất subscript của Wct, Lt, Lb. Cách đúng: thay tối thiểu trong phạm vi các run không định dạng (ví dụ chỉ thay `3,1m (Với lỗ khoan d` → `3,3m (Với lỗ khoan d`); nếu phải viết lại cả câu thì dựng lại theo danh sách (text, subscript) và clone định dạng từ run đầu.
+- **Render soi trước khi giao**: lần chỉnh đầu làm Phiếu trình phát sinh một trang chỉ có 2 dòng (tên PGĐ Hoàng Văn Thuân đứng trơ trọi) vì đoạn thẩm định thêm vào dài thêm ~5 dòng → xử lý bằng cách xoá 4 đoạn trống trong bảng khối ký (2 ở ô ý kiến PGĐ, 1 ở mỗi ô TP/người lập), đưa toàn bộ khối ký về 1 trang, tổng 10 → 9 trang.
+
+**File ví dụ thực tế** (bộ 4 văn bản Bạn đã chốt 30/7/2026 — Tờ trình, Dự thảo QĐ, Phiếu trình có Phụ lục thẩm định 5 cột đầy đủ, PANM số 01/PANM bản Sở hiệu chỉnh): **lưu tại thư mục cá nhân của Bạn, KHÔNG đưa lên repo** vì chứa tên người đại diện doanh nghiệp, số giấy phép và mô tả vị trí nhà dân trong bán kính nổ mìn — repo `Trangsct/skill-sct` là public. Khi cần khung soạn, hỏi Bạn gửi lại bộ file.

@@ -17,6 +17,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 - **Hậu kiểm, kiểm tra chuyên ngành** ATTP; truy xuất nguồn gốc; thu hồi, xử lý sản phẩm không bảo đảm an toàn; phối hợp xử lý sự cố, ngộ độc thực phẩm.
 - Soạn công văn hướng dẫn doanh nghiệp, tờ trình, quyết định, kế hoạch, báo cáo định kỳ/chuyên đề trong lĩnh vực ATTP và công nghiệp tiêu dùng - thực phẩm (Tháng hành động vì ATTP, Tết Trung thu, Tết Nguyên đán).
 - Trả lời câu hỏi của doanh nghiệp, hộ kinh doanh về điều kiện, hồ sơ, thời hạn, phí, lệ phí.
+- **Trả lời câu hỏi "cơ sở này có phải xin Giấy chứng nhận không"** - GATE: rà đủ 3 nguồn theo thứ tự (định nghĩa Điều 3 NĐ 15/2018 → danh mục Điều 12 → công văn hướng dẫn của Bộ Công Thương trong `van-ban-goc/`), thiếu nguồn nào thì dừng, không kết luận.
 - **Hướng dẫn, tập huấn công chức UBND cấp xã** quản lý hộ kinh doanh thực phẩm nhỏ lẻ trên địa bàn (phân loại phải cấp giấy hay nộp cam kết, kiểm tra, xử phạt, báo cáo) - xem reference 09.
 
 **Xử phạt vi phạm hành chính về ATTP (NĐ 115/2018/NĐ-CP và văn bản sửa đổi) KHÔNG xử lý trong plugin này.** Plugin chỉ thực hiện thu hồi Giấy chứng nhận (biện pháp của cơ quan cấp) và kiến nghị, chuyển hồ sơ khi phát hiện vi phạm qua kiểm tra.
@@ -99,10 +100,10 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 | `references/06-thuoc-la.md` | Toàn bộ mảng thuốc lá: 03 TTHC nguyên liệu thuốc lá, thẩm quyền sau phân cấp, điều kiện sau cắt giảm |
 | `references/07-ruou-bia-nuoc-giai-khat.md` | Cấp phép rượu, phân cấp theo NĐ 146/2025 |
 | `references/08-canh-bao-hieu-luc-2026.md` | Diễn biến NĐ 46/2026 - NQ 09/2026 - NQ 15/2026 - Luật ATTP (sửa đổi); cách trích căn cứ an toàn |
-| `references/09-ho-kinh-doanh-nho-le-cap-xa.md` | Tuyến xã: ranh giới QĐ 28/2025 Điều 7, phân loại 3 nhóm A/B/C, Điều 12 nguyên văn, quy trình 6 bước, ví dụ hộ sản xuất bánh mỳ + 10 câu hỏi kiểm tra |
+| `references/09-ho-kinh-doanh-nho-le-cap-xa.md` | **Tuyến xã - KẾT LUẬN CHỐT: hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN** (khoản 10 Điều 3 + điểm d khoản 1 Điều 12 + CV 3109, CV 8520). Ranh giới QĐ 28/2025 Điều 6-7, 3 trường hợp ngoại lệ, Điều 36 khoản 8-9-10, 5 việc xã phải làm, ví dụ hộ sản xuất bánh mỳ + 10 câu hỏi kiểm tra |
 | `mau-ho-so/` | 05 tài liệu hướng dẫn và mẫu thật của Sở (xem README trong thư mục) |
 | `vi-du-thuc-te/` | Vụ Siêu thị An Lạc (GCN ATTP 9/2025) và vụ Kim Ngọc (thuốc lá 2025) |
-| `van-ban-goc/` | **NĐ 15/2018 (bản gốc .doc + text)**, QĐ 28/2025, QĐ 904, NQ 15/2026, TT 43/2018, TT 57/2018, TT 43/2023 |
+| `van-ban-goc/` | **NĐ 15/2018 (bản gốc .doc + text)**, **CV 3109/BCT-KHCN**, **CV 8520/BCT-KHCN**, QĐ 28/2025, QĐ 904, NQ 15/2026, TT 43/2018, TT 57/2018, TT 43/2023 |
 
 ## VI. VIỆC CÒN THIẾU (cần Bạn cung cấp để hoàn thiện v1.3)
 
@@ -110,7 +111,6 @@ Xếp theo mức độ cấp thiết:
 
 1. **Quyết định ủy quyền lập Đoàn thẩm định năm 2026** thay QĐ 904/QĐ-UBND (hết hạn 31/12/2025) - đang chặn việc soạn Quyết định thành lập Đoàn thẩm định.
 2. **Phụ lục I, II, III của QĐ 28/2025/QĐ-UBND** (danh mục sản phẩm từng ngành) - bản PDF hiện có không kèm phụ lục; đây là phần tra cứu hằng ngày.
-2b. **GATE MỚI (v1.2.0): ai KÝ Giấy chứng nhận cho hộ kinh doanh ngành Công Thương?** QĐ 28/2025 chỉ ghi thẩm quyền "Cấp Giấy chứng nhận" tại Điều 4 khoản 4 (Sở Y tế) và Điều 7 khoản 2 (UBND cấp xã, mảng dịch vụ ăn uống); Điều 6 và Điều 7 khoản 7 chỉ ghi "Quản lý". Chưa trả lời được - xem reference 09 mục 2.
 3. **Quyết định công bố TTHC** lĩnh vực ATTP, rượu, thuốc lá đang áp dụng - để chốt thời hạn giải quyết, phí, lệ phí.
 4. **Bộ biểu mẫu sạch**: Đơn Mẫu 01a, Bản thuyết minh Mẫu 02a (TT 43/2018); Biên bản thẩm định Mẫu 03a, Giấy chứng nhận Mẫu 05C (NĐ 17/2020); Bản tự công bố Mẫu 01 (NĐ 15/2018); mẫu bản cam kết.
 5. **01 bộ hồ sơ cấp GCN ATTP hoàn chỉnh, bản sạch** (Tờ trình + Biên bản thẩm định + Giấy chứng nhận đã ký) để làm mẫu chuẩn Chế độ B.

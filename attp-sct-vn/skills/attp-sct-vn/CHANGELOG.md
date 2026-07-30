@@ -1,5 +1,19 @@
 # CHANGELOG - attp-sct-vn
 
+## v1.3.0 - 29/7/2026
+ĐÍNH CHÍNH KẾT LUẬN SAI của v1.2.0 về hộ kinh doanh, dựa trên 02 công văn hướng dẫn của Bộ Công Thương.
+
+- **Nạp bản gốc CV 3109/BCT-KHCN ngày 20/4/2018 và CV 8520/BCT-KHCN ngày 30/12/2021** vào `van-ban-goc/`.
+- **ĐẢO KẾT LUẬN**: v1.2.0 kết luận hộ có địa điểm cố định mà sản xuất, chế biến thực phẩm thì phải cấp Giấy chứng nhận, bất kể quy mô. **SAI**. Kết luận đúng: **mọi hộ kinh doanh thực phẩm ngành Công Thương đều không thuộc diện cấp Giấy chứng nhận, chỉ gửi bản cam kết đến UBND cấp xã, kể cả khi có hoạt động sản xuất, chế biến.**
+- Chuỗi căn cứ 3 bước: (1) **khoản 10 Điều 3 NĐ 15/2018** - cơ sở kinh doanh thực phẩm nhỏ lẻ được định nghĩa theo **hình thức đăng ký** (đã đăng ký hộ kinh doanh), không theo công suất hay doanh thu; (2) **điểm d khoản 1 Điều 12** - kinh doanh thực phẩm nhỏ lẻ không thuộc diện cấp GCN; (3) **mục 1 CV 3109/BCT-KHCN** - dẫn khoản 16 Điều 4 Luật Doanh nghiệp, sản xuất thực phẩm nhỏ lẻ là một công đoạn trong hoạt động kinh doanh thực phẩm nhỏ lẻ.
+- **Nghĩa vụ thay thế** (CV 8520/BCT-KHCN): đáp ứng khoản 1 Điều 22 Luật ATTP và gửi bản cam kết theo khoản 2 Điều 10 NĐ 17/2020/NĐ-CP; tại Lào Cai nộp tại UBND cấp xã theo khoản 8 Điều 7 QĐ 28/2025.
+- **GỠ GATE của v1.2.0** về việc ai ký GCN cho hộ kinh doanh ngành Công Thương. Không phải lỗ hổng văn bản: QĐ 28/2025 Điều 6 và Điều 7 khoản 7 chỉ ghi "Quản lý" vì hộ kinh doanh không bao giờ cần GCN.
+- **Bổ sung từ CV 3109**: TT 57/2015/TT-BCT không còn hiệu lực; Điều 40-43 Mục 7 Chương VI NĐ 77/2016 đã bị bãi bỏ bởi khoản 14 Điều 18 NĐ 08/2018 - điều kiện với cơ sở nhỏ lẻ chỉ còn khoản 1 Điều 22 Luật ATTP. Mục 3: cơ sở khoản 9 Điều 36 thuộc diện phải cấp GCN thì đơn vị QLNN ngành Công Thương thẩm định, cấp. Mục 4: cơ sở sản xuất rượu thủ công nhằm mục đích kinh doanh đăng ký hộ kinh doanh là cơ sở nhỏ lẻ. Mục 5: siêu thị vừa sản xuất vừa kinh doanh chỉ cấp 01 GCN.
+- **GATE mới thay thế**: khi kết luận một cơ sở phải cấp GCN, bắt buộc rà đủ 3 nguồn theo thứ tự - định nghĩa Điều 3 NĐ 15/2018, danh mục Điều 12, công văn hướng dẫn của Bộ Công Thương. Thiếu nguồn nào thì dừng.
+- reference 09 viết lại toàn bộ (141 dòng): kết luận chốt đặt ở mục 0; mục 1 ghi lại lỗi đã mắc để không lặp; 3 trường hợp ngoại lệ (doanh nghiệp và hợp tác xã, phần dịch vụ ăn uống, sản phẩm ngành khác); Điều 36 khoản 8-9-10; 5 việc xã phải làm; mục 10 cảnh báo câu không được viết trong công văn hướng dẫn.
+- reference 04 đính chính đoạn kết luận, dẫn sang reference 09.
+- Ghi nhận: các nghị quyết cắt giảm TTHC 2026 (NQ 19/2026, NQ 66.16/2026, NQ 66.18/2026) điều chỉnh thành phần hồ sơ cấp GCN nên không ảnh hưởng tuyến xã.
+
 ## v1.2.0 - 29/7/2026
 Đóng hai lỗ hổng GATE và mở tuyến nghiệp vụ cấp xã.
 

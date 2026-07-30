@@ -30,7 +30,14 @@ k) Cơ sở đã được cấp một trong các Giấy chứng nhận: Thực h
 
 Khoản 2: "Các cơ sở quy định tại khoản 1 Điều này phải tuân thủ các yêu cầu về điều kiện bảo đảm an toàn thực phẩm tương ứng."
 
-**KHÔNG có mục "sản xuất thực phẩm nhỏ lẻ" trong danh mục này.** Cơ sở có địa điểm cố định mà sản xuất, chế biến thực phẩm thì thuộc diện phải cấp Giấy chứng nhận theo Điều 11 khoản 1, bất kể quy mô. Đây là lỗi hướng dẫn phổ biến nhất ở tuyến xã - xem reference 09.
+**Danh mục không ghi riêng "sản xuất thực phẩm nhỏ lẻ", nhưng KHÔNG được suy ra là hộ sản xuất phải cấp Giấy chứng nhận.** Phải đọc tiếp hai nguồn:
+
+- **Khoản 10 Điều 3 NĐ 15/2018**: "Cơ sở kinh doanh thực phẩm nhỏ lẻ là cơ sở do cá nhân, nhóm cá nhân, hộ gia đình thực hiện đăng ký hộ kinh doanh và cơ sở không được cấp Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật." Định nghĩa theo **hình thức đăng ký**, không theo quy mô.
+- **CV 3109/BCT-KHCN ngày 20/4/2018, mục 1**: dẫn khoản 16 Điều 4 Luật Doanh nghiệp, **sản xuất thực phẩm nhỏ lẻ là một công đoạn trong hoạt động kinh doanh thực phẩm nhỏ lẻ**.
+
+→ **Mọi hộ kinh doanh thực phẩm đều thuộc điểm d, được miễn Giấy chứng nhận, kể cả khi có sản xuất, chế biến.** Nghĩa vụ thay thế: khoản 1 Điều 22 Luật ATTP + gửi bản cam kết (CV 8520/BCT-KHCN, khoản 2 Điều 10 NĐ 17/2020). Chi tiết: **reference 09**.
+
+⚠️ Bản v1.2.0 của reference này từng kết luận ngược lại. Đó là lỗi, đã đính chính tại v1.3.0.
 
 ## 4. Chưa hoàn thiện
 

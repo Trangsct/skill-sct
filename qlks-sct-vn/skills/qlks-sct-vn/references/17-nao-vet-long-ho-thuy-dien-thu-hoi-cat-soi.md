@@ -18,6 +18,10 @@ Cục ĐCKS cũng trả lời hai ý phụ của tỉnh:
 - Giấy xác nhận **chỉ cấp cho chủ đầu tư hoặc nhà đầu tư**. Sau khi được cấp mà không thực hiện được thì việc **uỷ quyền** cho tổ chức, cá nhân khác thực hiện theo pháp luật khác có liên quan (không phải pháp luật khoáng sản).
 - Nội dung này sẽ được nghiên cứu khi sửa Luật ĐC&KS trình Quốc hội khoá XV kỳ họp 10.
 
+> ⚠️ **Ý thứ nhất ĐÃ ĐƯỢC LUẬT SỬA — không dùng lại nguyên văn CV 2419 cho việc phát sinh từ 01/01/2026.** Khoản 23 Điều 1 **Luật 147/2025** sửa điểm c khoản 1 Điều 75, bổ sung: *"Trường hợp chủ đầu tư, nhà đầu tư không có nhu cầu thu hồi khoáng sản thì giấy xác nhận đăng ký thu hồi khoáng sản được cấp cho **nhà thầu thi công hoạt động nạo vét** trên cơ sở chấp thuận của chủ đầu tư, nhà đầu tư."*
+> → Chủ đập thuỷ điện **không cần tự đứng tên** Giấy xác nhận. Đơn vị thi công nạo vét được cấp thẳng, chỉ cần **văn bản chấp thuận của chủ đập**. Đây là lối ra cho các trường hợp như Cty TNHH Xây lắp Cương Lĩnh (thuỷ điện Tu Trên).
+> Đồng thời điểm c cũng được nới: dự án, kế hoạch nạo vét chỉ cần **"được quyết định, phê duyệt hoặc chấp thuận theo quy định của pháp luật"** — rộng hơn "được phê duyệt" của bản 2024, phù hợp với việc chủ sở hữu công trình tự quyết định chủ trương đầu tư.
+
 **Chiều điện lực/an toàn đập — Cục KTAT&MTCN (Bộ Công Thương), CV 216/ATMT-ATĐ ngày 30/01/2026 gửi SCT Lào Cai** (trả lời CV 472/SCT-NL ngày 28/01/2026):
 
 1. Theo **Điều 42 NĐ 62/2025/NĐ-CP** và **QĐ 628/QĐ-BCT ngày 07/3/2025**, **đã không còn thủ tục hành chính cấp giấy phép hoạt động trong phạm vi bảo vệ đập, hồ chứa thuỷ điện**. Các hoạt động trong phạm vi bảo vệ đập, hồ chứa thuỷ điện **không còn phải xin giấy phép** theo NĐ 114/2018/NĐ-CP.
@@ -113,7 +117,7 @@ Chủ đầu tư khi triển khai nạo vét phải:
 | # | Câu hỏi | Nếu thiếu |
 |---|---|---|
 | 1 | Có **dự án/kế hoạch nạo vét đã được phê duyệt** chưa? Quyết định phê duyệt số/ngày? | Trả hồ sơ; hướng dẫn giai đoạn 1 |
-| 2 | Người đề nghị có phải **chủ đầu tư/nhà đầu tư** không? | Chỉ chủ/nhà đầu tư được cấp GXN; bên thứ ba đi đường uỷ quyền theo pháp luật khác |
+| 2 | Người đề nghị là **chủ đầu tư/nhà đầu tư** hay **nhà thầu thi công nạo vét**? | Nhà thầu thi công **được** cấp GXN từ 01/01/2026, nhưng phải có **văn bản chấp thuận của chủ đầu tư, nhà đầu tư** kèm hồ sơ (khoản 23 Điều 1 Luật 147/2025) |
 | 3 | Cát sỏi **dùng cho chính dự án hay bán ra ngoài**? | Quyết định có phải đăng ký hay không |
 | 4 | Đã có **Báo cáo NCKT hoặc tài liệu tương đương kèm QĐ phê duyệt** (bản sao y)? | Hồ sơ Điều 98 không đủ thành phần |
 | 5 | **Bản đăng ký** lập theo **mẫu 02 Phụ lục III TT 36/2025** chưa? | Yêu cầu lập lại đúng mẫu |

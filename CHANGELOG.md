@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-01 — `qlks-sct-vn` v1.6.0: toàn văn QPPL gốc vào repo + 4 đính chính pháp lý
+
+- Nguồn: Bạn gửi toàn văn **Luật ĐC&KS 54/2024**, **Luật 147/2025**, **TT 36/2025 (điều khoản + Phụ lục I–IV)**, **TT 04/2026/TT-BNNMT** — theo yêu cầu đẩy văn bản QPPL lên GitHub để dùng thường xuyên. Tất cả đã vào `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/`.
+- **Đính chính 1**: khoản 5 Điều 75 đã bị **khoản 23 Điều 1 Luật 147/2025** sửa — từ 01/01/2026 chỉ còn **một** trường hợp miễn đăng ký thu hồi (KS dùng cho chính dự án), bỏ miễn cho điểm a khoản 1.
+- **Đính chính 2**: **nhà thầu thi công được cấp giấy xác nhận** khi chủ đầu tư, nhà đầu tư không có nhu cầu thu hồi (điểm b, c khoản 1 Điều 75 sửa bởi Luật 147/2025) — thay thế câu trả lời của Cục ĐCKS tại CV 2419 ngày 19/9/2025.
+- **Đính chính 3**: nghĩa vụ "báo cáo hằng tháng" là yêu cầu riêng của tỉnh, không phải nguyên văn điểm c khoản 2 Điều 76 (Luật chỉ yêu cầu báo cáo theo quy định của Bộ trưởng — mẫu 08 Phụ lục IV, hạn 15/02).
+- **Đính chính 4**: hồ sơ luồng Điều 97 cần **05 bản đồ, bản vẽ** theo Phụ lục mẫu 04, không phải 1.
+- File mới: `references/19-phu-luc-III-mau-ho-so-thu-hoi-toan-van.md` — toàn văn 7 mẫu Phụ lục III bản hiệu lực (gồm **mẫu 03a mới** cho khoáng sản đã tập kết tại bãi thải, bãi chứa). Cập nhật `references/01`, `16`, `17`, `18`, `mau-van-ban/07`, `08`, checklist, `SKILL.md`.
+- marketplace.json 4.6.1, plugin.json 1.6.0.
+
 ## 2026-08-01 — `qlks-sct-vn` v1.5.0: nghiệp vụ 10 — THU HỒI KHOÁNG SẢN (nạo vét lòng hồ thủy điện + đất đá thải mỏ)
 
 - Nguồn: 20 tài liệu thật do Bạn gửi ngày 01/8/2026 (thư mục `Khoáng sản/Thu hồi tận thu`): CV **216/ATMT-ATĐ** ngày 30/01/2026 của Cục Kỹ thuật an toàn và Môi trường công nghiệp - Bộ Công Thương; CV **2419/ĐCKS-PCKS** ngày 19/9/2025 của Cục Địa chất và Khoáng sản Việt Nam; 10 văn bản, hồ sơ thực tế của Lào Cai (thủy điện Phúc Long, Tu Trên; cao lanh Sơn Mãn; Việt Sơn - Tằng Loỏng; đá hoa Làng Lạnh II; KĐT Mường Hoa).

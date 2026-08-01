@@ -57,6 +57,8 @@ Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc tr
 | Văn bản | Nội dung dùng đến |
 |---|---|
 | **Luật ĐC&KS 54/2024**, Điều 75, 76; khoản 3 Điều 98 | 5 trường hợp được cấp giấy xác nhận đăng ký thu hồi; nghĩa vụ của tổ chức, cá nhân thu hồi; trường hợp **miễn tiền cấp quyền** |
+| **Luật 147/2025/QH15**, **khoản 23 Điều 1** | Sửa điểm b, c và **khoản 5** Điều 75: dự án chỉ cần *được quyết định, phê duyệt hoặc chấp thuận*; **nhà thầu thi công** được cấp GXN khi chủ/nhà đầu tư không có nhu cầu thu hồi; **bỏ miễn đăng ký cho điểm a khoản 1** — nay chỉ miễn khi KS dùng cho chính dự án |
+| **TT 04/2026/TT-BNNMT** | Sửa TT 36/2025: **Điều 7** (sửa Điều 21), **khoản 4 Điều 9** (sửa mẫu 01, 02, 05, 06 và **bổ sung mẫu 03a** Phụ lục III) — toàn văn mẫu: reference **19** |
 | **Luật 147/2025/QH15**, khoản 9 Điều 4 | Khoáng sản đã khai thác, thu hồi, đang lưu giữ/tập kết tại kho, bãi chứa mà chưa được cho phép thu hồi, sử dụng → Chủ tịch UBND cấp tỉnh xem xét cấp giấy xác nhận |
 | **NĐ 193/2025/NĐ-CP**, Mục 9 Chương IV: Điều 96, 97, 98 (sửa bởi NĐ 21/2026) | Thẩm quyền cấp GXN; thu hồi trong dự án đầu tư khai thác KS; hồ sơ, trình tự, thủ tục và thời hạn |
 | **TT 36/2025/TT-BNNMT**, Điều 21 + **Phụ lục III** | Mẫu 01 (VB đề nghị), 02 và 03 (bản đăng ký), 04 (báo cáo vị trí - khối lượng), 05 và 06 (giấy xác nhận). Bản đồ theo mẫu 35 Phụ lục II |

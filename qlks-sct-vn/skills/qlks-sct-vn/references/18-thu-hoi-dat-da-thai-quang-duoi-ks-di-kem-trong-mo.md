@@ -6,6 +6,21 @@
 
 ---
 
+## 0. GỐC LUẬT: ĐIỂM a KHOẢN 1 ĐIỀU 75 DẪN CHIẾU ĐI ĐÂU
+
+Điểm a khoản 1 Điều 75 chỉ ghi *"Trường hợp quy định tại **điểm d khoản 1 Điều 59** và **điểm c khoản 1 Điều 70** của Luật này"*. Hai điều được dẫn chiếu có nội dung **giống hệt nhau**, chỉ khác chủ thể:
+
+> **Điểm d khoản 1 Điều 59** (quyền của tổ chức, cá nhân **khai thác khoáng sản**) và **điểm c khoản 1 Điều 70** (quyền của tổ chức, cá nhân được phép **khai thác tận thu khoáng sản**):
+> *"Thu hồi khoáng sản trong phạm vi diện tích thực hiện dự án đầu tư khai thác khoáng sản khi tiến hành **xây dựng cơ bản mỏ** hoặc **các hoạt động khác phục vụ cho hoạt động khai thác mỏ** nhưng phải **báo cáo cơ quan quản lý nhà nước có thẩm quyền về khoáng sản xem xét, quyết định**."*
+
+Hai điều khoản liền kề cũng cần thuộc, vì hay bị nhầm là "được tự do dùng":
+- **Điểm i khoản 1 Điều 59** / **điểm h khoản 1 Điều 70**: *"Sử dụng **đất, đá thải mỏ** để phục vụ cho mục đích **cải tạo, phục hồi môi trường, các công trình phục vụ dự án** và các mục đích khác."* → dùng nội bộ dự án thì thuộc quyền sẵn có, không phải đăng ký (khớp điểm a khoản 4 Điều 75).
+- Nhưng **đưa đất đá thải ra ngoài bán** thì rơi vào điểm b khoản 4 Điều 75 → **phải đăng ký**.
+
+**Từ 01/01/2026** (khoản 23 Điều 1 Luật 147/2025 sửa khoản 5 Điều 75), trường hợp điểm a khoản 1 **không còn được miễn đăng ký** — phải lập hồ sơ Điều 97 NĐ 193 và được cấp Giấy xác nhận. Đây là lý do SNNMT Lào Cai yêu cầu Cty CP Khoáng sản Sông Hồng phải đăng ký với phần đất đá thải và quặng đuôi tuyển mỏ cao lanh Sơn Mãn.
+
+---
+
 ## I. HAI TRƯỜNG HỢP THUỘC ĐIỀU 97 (khoản 1)
 
 > *"a) Khoáng sản được thu hồi là **đất, đá thải mỏ, quặng đuôi của mỏ đang hoạt động** đã được lưu giữ hoặc chưa được lưu giữ tại **bãi thải, hồ chứa quặng đuôi**;*
@@ -21,6 +36,16 @@
 > *"Đối với khoáng sản đã khai thác, thu hồi trong phạm vi ranh giới, diện tích khu vực thực hiện dự án đầu tư khai thác khoáng sản theo giấy phép khai thác khoáng sản và đang được lưu giữ hoặc tập kết tại các kho chứa, bãi chứa nhưng chưa được cơ quan nhà nước có thẩm quyền cho phép thu hồi, sử dụng thì Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp giấy xác nhận đăng ký thu hồi khoáng sản theo quy định của Luật Địa chất và khoáng sản số 54/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật này."*
 
 → Đây là **lối ra hợp pháp cho khối lượng đá thải, quặng đuôi đã nằm sẵn ở bãi** mà trước đây chưa có thủ tục. Khi doanh nghiệp hỏi "đá đổ ở bãi thải mấy năm nay xử lý thế nào", đây là căn cứ phải nêu đầu tiên.
+
+**Hai mẫu khác nhau cho hai tình huống — chọn sai là trả hồ sơ:**
+
+| Tình huống | Mẫu | Tên gọi văn bản |
+|---|---|---|
+| Đề nghị **được thu hồi** khối lượng còn nằm trong lòng đất / trong quá trình thi công, chế biến | **Mẫu 01** Phụ lục III | *Văn bản đề nghị thu hồi khoáng sản* |
+| Khối lượng thuộc **khoản 9 Điều 4 Luật 147/2025** hoặc **điểm a khoản 7 Điều 5 NĐ 21/2026** (đã khai thác, đang lưu giữ ở kho, bãi chứa) | **Mẫu 01** Phụ lục III, nhưng đặt tên **"Bản đăng ký thu hồi khoáng sản"** (ghi chú 89 của mẫu) | *Bản đăng ký thu hồi khoáng sản* |
+| Đề nghị **được SỬ DỤNG** khối lượng đã tập kết tại **bãi thải, bãi chứa** để cung cấp cho dự án, công trình khác — điểm a khoản 8 Điều 96 NĐ 193 (sửa bởi NĐ 21/2026) | **Mẫu 03a** Phụ lục III (mới, TT 04/2026) | *Văn bản đề nghị được sử dụng khoáng sản* — người đề nghị có thể là **nhà đầu tư hoặc nhà thầu thi công** |
+
+Toàn văn 3 mẫu: reference **19**.
 
 ## III. CÓ PHẢI ĐĂNG KÝ KHÔNG?
 
@@ -45,6 +70,8 @@ Cách SNNMT Lào Cai diễn đạt trong CV gửi SCT về mỏ cao lanh Sơn M�
 | 1 | **Văn bản đề nghị thu hồi khoáng sản** | mẫu **01** Phụ lục III TT 36/2025 | bản chính |
 | 2 | **Báo cáo vị trí, khối lượng, chủng loại, thời gian thực hiện** | mẫu **04** Phụ lục III TT 36/2025 | bản chính |
 | 3 | **Bản đồ hiện trạng khu vực thu hồi**, xác định rõ **vị trí, khối lượng KS thu hồi của từng vị trí** | mẫu **35** Phụ lục II TT 36/2025 | bản chính |
+
+> ⚠️ **Điều 97 khoản 2 chỉ đòi 1 bản đồ, nhưng Phụ lục của mẫu 04 đòi 05 bản vẽ.** Rà hồ sơ phải đếm đủ: (1) Bản đồ **vị trí** khu vực thu hồi; (2) Bản đồ/bản vẽ/sơ đồ **địa chất, khoáng sản của khu mỏ**; (3) Bản đồ **hiện trạng** khu vực thu hồi; (4) Bản đồ **kết thúc thu hồi**; (5) Bản đồ **tổng mặt bằng chung toàn mỏ**. Chi tiết: reference **19**.
 
 **Thực tế Lào Cai còn yêu cầu kèm** (theo CV 1080/SNNMT-KS ngày 11/02/2026 xin ý kiến các ngành về hồ sơ mỏ đá hoa Làng Lạnh II): **các phiếu phân tích, kết quả thí nghiệm mẫu** — cơ lý đá, phân tích hoá, độ nén dập trong xi-lanh, độ mài mòn tang quay, độ bám dính nhựa đường, hàm lượng thoi dẹt — để chứng minh sản phẩm đủ điều kiện làm VLXDTT.
 

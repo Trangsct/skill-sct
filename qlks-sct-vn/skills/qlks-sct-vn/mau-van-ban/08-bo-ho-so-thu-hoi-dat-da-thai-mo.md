@@ -5,7 +5,12 @@ Nội dung trong `[...]` là chỗ điền — **không tự bịa số liệu m
 
 ---
 
-## I. VĂN BẢN ĐỀ NGHỊ THU HỒI KHOÁNG SẢN (mẫu số 01 Phụ lục III TT 36/2025)
+## I. VĂN BẢN ĐỀ NGHỊ THU HỒI KHOÁNG SẢN (mẫu số 01 Phụ lục III TT 36/2025, sửa bởi TT 04/2026)
+
+> **Bản mẫu chuẩn nguyên văn: reference `19`.** Khung dưới đây là mẫu 01 đã điền sẵn ngữ cảnh đất đá thải mỏ.
+> - Đặt tên **"Văn bản đề nghị thu hồi khoáng sản"** cho trường hợp thông thường; đặt tên **"Bản đăng ký thu hồi khoáng sản"** cho trường hợp **khoản 9 Điều 4 Luật 147/2025** và **điểm a khoản 7 Điều 5 NĐ 21/2026** (ghi chú 89 của mẫu).
+> - Nếu khối lượng **đã tập kết tại bãi thải, bãi chứa** và mục tiêu là **được sử dụng** để cung cấp cho dự án khác → dùng **mẫu 03a**, không dùng mẫu 01.
+> - Bản TT 04/2026 bắt buộc có dòng **"Mục đích sử dụng khoáng sản"**.
 
 Do **doanh nghiệp khai thác** lập. SCT dùng để hướng dẫn doanh nghiệp và rà soát.
 
@@ -96,9 +101,19 @@ Bản mẫu thật để copy khung: `vi-du-thuc-te/BC-vi-tri-khoi-luong-chung-l
 
 ---
 
-## III. BẢN ĐỒ HIỆN TRẠNG KHU VỰC THU HỒI (mẫu số 35 Phụ lục II)
+## III. BẢN ĐỒ, BẢN VẼ (mẫu số 35 Phụ lục II) — PHẢI ĐỦ 05 BẢN
 
-Yêu cầu tối thiểu — rà đủ mới nhận hồ sơ:
+Phụ lục của mẫu 04 yêu cầu **05 bản đồ, bản vẽ**, không phải 1:
+
+| TT | Phần | Tên bản vẽ |
+|---|---|---|
+| 1 | Địa chất | Bản đồ **vị trí** khu vực thu hồi khoáng sản |
+| 2 | Địa chất | Bản đồ, bản vẽ, sơ đồ **địa chất, khoáng sản của khu mỏ** |
+| 3 | Thu hồi KS | Bản đồ **hiện trạng** khu vực thu hồi |
+| 4 | Thu hồi KS | Bản đồ **kết thúc thu hồi** khoáng sản |
+| 5 | Thu hồi KS | Bản đồ **tổng mặt bằng chung toàn mỏ** |
+
+Yêu cầu nội dung tối thiểu của mỗi bản — rà đủ mới nhận hồ sơ:
 - Tên bản đồ, tỷ lệ (thường **1:1.000** đến **1:5.000**), ghi rõ kèm theo văn bản số/ngày nào;
 - **Ranh giới dự án** và **ranh giới khu vực xin thu hồi** vẽ phân biệt rõ;
 - **Bảng toạ độ các điểm góc**, hệ **VN2000, kinh tuyến trục 104°45', múi chiếu 3°**; tổng diện tích;
@@ -211,7 +226,7 @@ Môi trường) và Ủy ban nhân dân cấp xã.
 1. Đã xác định đúng **luồng Điều 97** (dự án khai thác KS) hay **luồng Điều 98** (dự án xây dựng công trình)?
 2. Đã hỏi rõ **dùng cho chính dự án hay bán ra ngoài**?
 3. Nhóm của **khoáng sản được thu hồi** (không phải nhóm của mỏ) đã xác định đúng chưa — quyết định có phải lấy ý kiến Bộ NNMT không?
-4. Bản đồ đã ghi **khối lượng của từng vị trí** chưa?
+4. Đã đủ **05 bản đồ, bản vẽ** theo Phụ lục mẫu 04 chưa? Bản đồ hiện trạng đã ghi **khối lượng của từng vị trí** chưa?
 5. Ý kiến của SCT có vượt vai không — có câu nào kết luận "được phép thu hồi" thay SNNMT không?
 6. Số liệu mỏ lấy từ `du-lieu/` → **phải được Bạn xác nhận** trước khi đưa vào văn bản.
 7. Render soi ảnh từng trang trước khi trình ký.

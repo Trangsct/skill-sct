@@ -89,9 +89,13 @@ Nơi nhận:                                        KT. GIÁM ĐỐC
 
 ---
 
-## II. BẢN ĐĂNG KÝ THU HỒI KHOÁNG SẢN (mẫu số 02 Phụ lục III TT 36/2025)
+## II. BẢN ĐĂNG KÝ THU HỒI KHOÁNG SẢN (mẫu số 02 Phụ lục III TT 36/2025, sửa bởi TT 04/2026)
 
-Do **doanh nghiệp** lập, gửi UBND tỉnh và Sở Nông nghiệp và Môi trường. SCT dùng khung này để **hướng dẫn doanh nghiệp** hoặc **rà soát khi được hỏi ý kiến**.
+> **Bản mẫu chuẩn nguyên văn: reference `19`.** Khung dưới đây là bản mẫu 02 đã điền sẵn ngữ cảnh nạo vét lòng hồ — dùng để hướng dẫn doanh nghiệp; khi doanh nghiệp nộp chính thức phải bám đúng bố cục mẫu 02.
+> Mẫu chỉ ghi "Kính gửi: Ủy ban nhân dân tỉnh"; thực tế Lào Cai gửi đồng thời **UBND tỉnh và Sở Nông nghiệp và Môi trường**.
+> Người đứng tên có thể là **chủ đầu tư/nhà đầu tư** hoặc **nhà thầu thi công nạo vét** (kèm văn bản chấp thuận của chủ đầu tư) — khoản 23 Điều 1 Luật 147/2025.
+
+Do **doanh nghiệp** lập. SCT dùng khung này để **hướng dẫn doanh nghiệp** hoặc **rà soát khi được hỏi ý kiến**.
 
 ```
 [TÊN DOANH NGHIỆP]              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -188,5 +192,6 @@ xác nhận đăng ký thu hồi khoáng sản theo Điều 75 Luật Địa ch�
 2. Số hiệu, ngày các nghị định, thông tư viện dẫn đã đối chiếu reference **01** và **17** chưa?
 3. Đã nêu rõ **hai giai đoạn** và **không hứa thay SNNMT** chưa?
 4. Đã có câu chỉ dẫn liên hệ SNNMT chưa?
-5. Số liệu về hồ, đập, khối lượng chưa xác minh → **để trống và hỏi Bạn**, không tự điền.
-6. Render soi ảnh từng trang trước khi trình ký.
+5. Bản đăng ký của doanh nghiệp đã lập **đúng mẫu 02 Phụ lục III** (bản sửa bởi TT 04/2026 — reference `19`) chưa?
+6. Số liệu về hồ, đập, khối lượng chưa xác minh → **để trống và hỏi Bạn**, không tự điền.
+7. Render soi ảnh từng trang trước khi trình ký.

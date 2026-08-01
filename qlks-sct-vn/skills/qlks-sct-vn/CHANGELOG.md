@@ -1,5 +1,50 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.6.0 — 01/8/2026: bổ sung TOÀN VĂN QPPL gốc; đính chính 4 điểm pháp lý quan trọng
+
+**Nguồn:** Bạn cung cấp toàn văn 5 văn bản QPPL ngày 01/8/2026, theo yêu cầu "văn bản QPPL nên đẩy lên GitHub để thường xuyên sử dụng". Nhờ đó đã đối chiếu được nguyên văn thay vì trích gián tiếp qua công văn hướng dẫn của SNNMT — và phát hiện **4 điểm ở v1.5.0 chưa chính xác hoặc đã lạc hậu**.
+
+### File QPPL mới trong `van-ban-goc/`
+
+| File | Nội dung |
+|---|---|
+| `Luat-54-2024-QH15-Dia-chat-va-khoang-san-TOAN-VAN.docx` | Toàn văn Luật ĐC&KS (trước chỉ có bản tóm tắt điều chỉnh) |
+| `Luat-147-2025-QH15-sua-Luat-DCKS-TOAN-VAN.docx` | Toàn văn Luật sửa đổi |
+| `TT-36-2025-TT-BNNMT-TOAN-VAN-dieu-khoan.docx` | Toàn văn điều khoản |
+| `TT-36-2025-TT-BNNMT-PHU-LUC-I-den-IV.doc` + `.txt` | **Toàn văn Phụ lục I–IV** — bản trước không có phụ lục mẫu |
+| `TT-04-2026-TT-BNNMT-sua-cac-TT-dia-chat-khoang-san.docx` | Sửa TT 36/2025 và các TT khác lĩnh vực địa chất - khoáng sản |
+
+### Bốn đính chính
+
+**1. Khoản 5 Điều 75 đã bị Luật 147/2025 sửa — v1.5.0 dùng bản cũ.**
+Bản 54/2024: miễn đăng ký cho *"điểm a khoản 1 **và** điểm a khoản 4"*. Bản sửa bởi **khoản 23 Điều 1 Luật 147/2025** (từ 01/01/2026): *"…trừ trường hợp quy định tại **điểm a khoản 4** Điều này."*
+→ **Từ 01/01/2026 chỉ còn MỘT trường hợp miễn đăng ký**: khoáng sản dùng cho chính công trình/hạng mục của dự án đó. Trường hợp thu hồi trong dự án đầu tư khai thác khoáng sản (điểm a khoản 1) **không còn được miễn**.
+
+**2. Nhà thầu thi công được cấp giấy xác nhận — CV 2419 đã lạc hậu.**
+Khoản 23 Điều 1 Luật 147/2025 bổ sung vào điểm b và điểm c khoản 1 Điều 75: *"Trường hợp chủ đầu tư, nhà đầu tư không có nhu cầu thu hồi khoáng sản thì giấy xác nhận đăng ký thu hồi khoáng sản được cấp cho **nhà thầu thi công** trên cơ sở chấp thuận của chủ đầu tư, nhà đầu tư."*
+→ Chủ đập thuỷ điện **không cần tự đứng tên**; đơn vị thi công nạo vét được cấp thẳng. Điều này **thay thế** câu trả lời của Cục ĐCKS tại CV 2419/ĐCKS-PCKS ngày 19/9/2025 ("chỉ cấp cho chủ đầu tư hoặc nhà đầu tư; uỷ quyền theo pháp luật khác"). Điểm b, c cũng được nới: dự án chỉ cần *"được quyết định, phê duyệt hoặc chấp thuận theo quy định của pháp luật"*.
+
+**3. Nghĩa vụ "báo cáo hằng tháng" KHÔNG phải quy định của khoản 2 Điều 76.**
+Nguyên văn điểm c khoản 2 Điều 76: *"Báo cáo kết quả hoạt động thu hồi khoáng sản cho cơ quan quản lý nhà nước có thẩm quyền **theo quy định của Bộ trưởng**…"* — tức mẫu 08 Phụ lục IV, nộp trước 15/02. Yêu cầu **hằng tháng** là điều kiện riêng SNNMT Lào Cai đưa vào văn bản hướng dẫn và Giấy xác nhận. Reference 16 nay tách rõ hai tầng, tránh viện dẫn sai căn cứ.
+
+**4. Hồ sơ luồng Điều 97 cần 05 bản vẽ, không phải 1.**
+Điều 97 khoản 2 chỉ nêu "bản đồ hiện trạng", nhưng **Phụ lục của mẫu 04** yêu cầu đủ: bản đồ vị trí · bản đồ/sơ đồ địa chất khoáng sản khu mỏ · bản đồ hiện trạng · bản đồ kết thúc thu hồi · bản đồ tổng mặt bằng chung toàn mỏ.
+
+### Bổ sung khác
+
+- **Reference mới `19-phu-luc-III-mau-ho-so-thu-hoi-toan-van.md`** — toàn văn **7 mẫu** Phụ lục III bản đang có hiệu lực (TT 36/2025 sửa bởi khoản 4 Điều 9 TT 04/2026): mẫu 01 · 02 · 03 · **03a (mới)** · 04 · 05 · 06, kèm chú thích 89–93 của mẫu và bảng đối chiếu với văn bản thật.
+- **Mẫu 03a mới** (TT 04/2026) — *Văn bản đề nghị được sử dụng khoáng sản* cho khối lượng **đã tập kết tại bãi thải, bãi chứa**, người đề nghị có thể là **nhà đầu tư hoặc nhà thầu thi công**. Đây là mẫu đúng cho kịch bản "đá thải mỏ apatit đã đổ ở bãi, muốn bán ra ngoài".
+- **Ba trường hợp miễn tiền cấp quyền** (khoản 3 Điều 98 Luật) nay chép đủ a, b, c — v1.5.0 chỉ nêu điểm a.
+- **Nguyên tắc khoản 2 Điều 75**: không áp dụng với nước khoáng, nước nóng thiên nhiên; chỉ được thu hồi khi **bắt buộc** phải san gạt, đào đắp, nạo vét theo đúng thiết kế.
+- **Gốc của điểm a khoản 1 Điều 75**: dẫn chiếu **điểm d khoản 1 Điều 59** và **điểm c khoản 1 Điều 70** — nay chép nguyên văn vào reference 18, kèm phân biệt với quyền *sử dụng đất, đá thải mỏ* tại điểm i khoản 1 Điều 59.
+- **Giấy xác nhận (mẫu 05)**: thời gian thu hồi ghi bằng **số tháng kể từ ngày có hiệu lực** (không phải khoảng ngày); mục "Mức sâu" chỉ bắt buộc với trường hợp nạo vét lòng sông, lòng hồ; Nơi nhận phải có **Cục ĐCKS VN (bản sao)**.
+- `references/01` mục IV-bis bổ sung khoản 23 Điều 1 Luật 147/2025 và TT 04/2026.
+- Cập nhật `mau-van-ban/07`, `08`, `checklists/checklist-ho-so-thu-hoi-khoang-san.md`, `SKILL.md`.
+
+### Còn thiếu
+
+Bốn tệp `.rar` (bản vẽ khổ lớn, hồ sơ pháp lý dự án) và số, ngày phát hành chính thức của hai công văn dự thảo hướng dẫn Phúc Long, Tu Trên.
+
 ## v1.5.0 — 01/8/2026: nghiệp vụ 10 — THU HỒI KHOÁNG SẢN (nạo vét lòng hồ thuỷ điện + đất đá thải mỏ)
 
 **Nguồn:** 20 tài liệu thật do Bạn cung cấp ngày 01/8/2026 (thư mục `Khoáng sản/Thu hồi tận thu`), gồm 2 văn bản gốc của Bộ và 10 văn bản, hồ sơ thực tế của Lào Cai.

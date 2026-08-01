@@ -1,5 +1,49 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.5.0 — 01/8/2026: nghiệp vụ 10 — THU HỒI KHOÁNG SẢN (nạo vét lòng hồ thuỷ điện + đất đá thải mỏ)
+
+**Nguồn:** 20 tài liệu thật do Bạn cung cấp ngày 01/8/2026 (thư mục `Khoáng sản/Thu hồi tận thu`), gồm 2 văn bản gốc của Bộ và 10 văn bản, hồ sơ thực tế của Lào Cai.
+
+**Mục tiêu Bạn đặt ra:** plugin phải hoàn thiện được trọn bộ hồ sơ cho hai kịch bản — (A) **khai thác cát tại lòng hồ thuỷ điện**, (B) **tận thu đá làm VLXD tại bãi thải mỏ apatit**.
+
+### Hai câu trả lời chốt được rút ra từ tài liệu
+
+1. **Không có thủ tục "cấp phép khai thác cát lòng hồ thuỷ điện".** Con đường hợp pháp duy nhất là *nạo vét bồi lắng lòng hồ kết hợp thu hồi cát, sỏi* — hai giai đoạn tách bạch: (i) dự án/kế hoạch nạo vét do **chủ sở hữu công trình thuỷ điện quyết định chủ trương đầu tư**, **không phải xin giấy phép** trong phạm vi bảo vệ đập (Điều 42 NĐ 62/2025 + QĐ 628/QĐ-BCT bãi bỏ TTHC; Điều 14 NĐ 67/2018 sửa bởi khoản 6 Điều 1 NĐ 40/2023); (ii) đăng ký thu hồi cát sỏi để Chủ tịch UBND tỉnh cấp **Giấy xác nhận đăng ký thu hồi khoáng sản** (điểm c khoản 1 Điều 75 Luật ĐC&KS, Điều 98 NĐ 193/2025, mẫu 02 Phụ lục III TT 36/2025). Pháp luật ĐC&KS **không** quy định việc lập, thẩm định, phê duyệt dự án nạo vét — CV 2419/ĐCKS-PCKS ngày 19/9/2025 mục 11.
+2. **Đá thải mỏ, quặng đuôi đi luồng Điều 97 NĐ 193/2025**, không phải Điều 98: hồ sơ 3 tài liệu (VB đề nghị mẫu 01 · Báo cáo vị trí - khối lượng - chủng loại - thời gian mẫu 04 · Bản đồ hiện trạng ghi khối lượng **từng vị trí**). Khối lượng đã trót khai thác đang nằm ở kho, bãi chứa mà chưa được cho phép thu hồi → có lối ra tại **khoản 9 Điều 4 Luật 147/2025/QH15**.
+
+**Gate phân luồng mới, hỏi trước mọi việc:** khoáng sản thu hồi **dùng cho chính dự án** (không phải đăng ký, chỉ cập nhật báo cáo định kỳ và thống kê - kiểm kê trữ lượng — khoản 4 Điều 97) hay **cung cấp cho công trình, dự án khác** (phải đăng ký, phải có Giấy xác nhận)? Trả lời sai câu này thì sai cả bộ hồ sơ.
+
+### File mới
+
+| File | Nội dung |
+|---|---|
+| `references/16-thu-hoi-khoang-san-tong-quan.md` | Trục chung: phân biệt khai thác / tận thu / thu hồi; 5 trường hợp khoản 1 Điều 75 + thẩm quyền; khi nào phải đăng ký; hai luồng hồ sơ Điều 97 - Điều 98; trình tự và 5 mốc thời hạn; nghĩa vụ khoản 2 Điều 76; bộ 6 mẫu Phụ lục III; 4 đầu việc của SCT; 7 bẫy |
+| `references/17-nao-vet-long-ho-thuy-dien-thu-hoi-cat-soi.md` | Gỡ nút thắt "ai phê duyệt dự án nạo vét"; sơ đồ 2 giai đoạn; 7 ràng buộc bắt buộc đưa vào văn bản hướng dẫn DN; phần an toàn đập theo CV 216/ATMT-ATĐ (khoản 1 Điều 49 NĐ 62/2025); checklist 8 câu |
+| `references/18-thu-hoi-dat-da-thai-quang-duoi-ks-di-kem-trong-mo.md` | Hai trường hợp Điều 97; khoản 9 Điều 4 Luật 147/2025; hồ sơ 3 tài liệu; khung Báo cáo mẫu 04 và 3 câu "lý do đề xuất thu hồi" mạnh nhất; lấy ý kiến ngành (SCT bị hỏi gì); tiền cấp quyền và trường hợp miễn; nghĩa vụ sau khi có GXN |
+| `mau-van-ban/07-bo-ho-so-thu-hoi-cat-soi-long-ho-thuy-dien.md` | CV SCT hướng dẫn chủ đập (3 mục, đủ căn cứ); Bản đăng ký mẫu 02; CV trả hồ sơ - chỉ dẫn đúng cơ quan; QA 6 điểm |
+| `mau-van-ban/08-bo-ho-so-thu-hoi-dat-da-thai-mo.md` | VB đề nghị mẫu 01; khung Báo cáo mẫu 04; yêu cầu bản đồ hiện trạng mẫu 35; **VB SCT tham gia ý kiến theo đề nghị SNNMT** (4 mục); CV hướng dẫn DN có đá thải ở bãi; QA 7 điểm |
+| `checklists/checklist-ho-so-thu-hoi-khoang-san.md` | 7 khối A–G: phân luồng · dự án gốc · thành phần hồ sơ 2 luồng · 8 điểm soi chéo nội dung · 8 cam kết · 7 việc của SCT · bảng thời hạn |
+| `vi-du-thuc-te/` (mới) | 10 văn bản thật + `00-MUC-LUC.md` |
+| `van-ban-goc/CV-216-ATMT-ATD-30-01-2026-...pdf` | Cục KTAT&MTCN hướng dẫn SCT Lào Cai (trả lời CV 472/SCT-NL ngày 28/01/2026) |
+| `van-ban-goc/CV-2419-DCKS-PCKS-19-9-2025-...pdf` | Cục ĐCKS trả lời 42 kiến nghị của 7 tỉnh |
+
+### File sửa
+
+- `SKILL.md`: description → **10 nghiệp vụ** + bộ từ khoá thu hồi khoáng sản; thêm mục nghiệp vụ **10** ở phần V; GATE B4 thêm bước phân luồng Điều 97/98; cây thư mục mục X cập nhật.
+- `references/01-khung-phap-ly-gate-thoi-ky.md`: thêm mục **IV-bis** — 12 văn bản khung riêng cho chế định thu hồi (gồm NĐ 62/2025, QĐ 628/QĐ-BCT, NĐ 67/2018 + NĐ 40/2023, khoản 6 Điều 78 Luật Điện lực, NĐ 67/2019, QĐ 3339/QĐ-BNNMT).
+
+### Ví dụ thật đưa vào
+
+Thuỷ điện **Phúc Long** (xã Phúc Khánh) · thuỷ điện **Tu Trên** — Cty TNHH Xây lắp Cương Lĩnh (xã Nậm Xé) · mỏ cao lanh **Sơn Mãn** — Cty CP Khoáng sản Sông Hồng Lào Cai (bản đăng ký 10/ĐK-PLNC ngày 28/5/2026, 4.062 m², 43.500 tấn/năm) · KCN **Tằng Loỏng** — Cty CP DV xử lý môi trường xanh Việt Sơn (bản đăng ký 72/CV-VS ngày 19/6/2026, 4,43 ha, 334.894 m³, đá ốp lát 21,6%) · mỏ đá hoa **Làng Lạnh II** xã Lục Yên — Cty TNHH SX và TM Chân Thiện Mỹ (CV 1080/SNNMT-KS ngày 11/02/2026 xin ý kiến các ngành) · KĐT **Mường Hoa** Sa Pa (Giấy xác nhận của Chủ tịch UBND tỉnh, 33.642,77 m², 150.000 m³).
+
+### Còn thiếu — cần Bạn bổ sung
+
+1. **Toàn văn Phụ lục III TT 36/2025/TT-BNNMT** (6 mẫu 01–06). Bản TT trong `van-ban-goc/` chỉ có phần điều khoản, chưa có phụ lục mẫu. Hiện các mẫu trong `mau-van-ban/07`, `08` dựng lại từ hồ sơ thật đã được chấp nhận — đủ dùng nhưng nên đối chiếu bản gốc.
+2. **Toàn văn Điều 75, Điều 76 Luật ĐC&KS 54/2024** (bản trong `van-ban-goc/` là bản tóm tắt điều chỉnh). Nội dung hiện trích theo nguyên văn các công văn hướng dẫn của SNNMT — chính xác nhưng không phải bản luật.
+3. Bốn tệp nén chưa đưa vào repo: `Hồ sơ đăng ký.rar`, `hs đk thu hồi trong dự án cao lanh sơn mãn.rar`, `Pháp lý dự án.rar`, `THU HOI KS SCAN.rar` (chủ yếu bản vẽ khổ lớn và hồ sơ pháp lý dự án).
+4. Hai tệp `.doc` (định dạng Word 97) chưa đọc được trong môi trường hiện tại — đề nghị lưu lại dạng `.docx` hoặc PDF: `1. BẢN ĐĂNG KÝ THU HỒI ĐÁ KHỐI LÀM ĐÁ ỐP LÁT.doc`, `GM kiểm tra (Việt Sơn).docx`.
+5. **Số và ngày phát hành chính thức** của hai công văn hướng dẫn Phúc Long và Tu Trên (bản trong repo là dự thảo chưa điền số, ngày).
+
 ## v1.4.0 — 26/7/2026: reference 15 — nguồn thu đóng góp khai thác khoáng sản trong đầu tư công trung hạn 2026-2030
 
 Bổ sung `references/15-nguon-thu-dong-gop-ks-dtc-2026-2030.md` từ **Quyết định số 2390/QĐ-UBND ngày 09/7/2026** của UBND tỉnh Lào Cai về kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 nguồn vốn ngân sách địa phương (Chủ tịch Nguyễn Tuấn Anh ký; căn cứ NQ 25/NQ-HĐND ngày 29/6/2026; Tờ trình 536/TTr-STC ngày 19/6/2026). **Biểu số 04** của quyết định là biểu riêng cho nguồn thu này.

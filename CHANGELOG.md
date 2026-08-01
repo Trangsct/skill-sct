@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-01 — `qlks-sct-vn` v1.5.0: nghiệp vụ 10 — THU HỒI KHOÁNG SẢN (nạo vét lòng hồ thủy điện + đất đá thải mỏ)
+
+- Nguồn: 20 tài liệu thật do Bạn gửi ngày 01/8/2026 (thư mục `Khoáng sản/Thu hồi tận thu`): CV **216/ATMT-ATĐ** ngày 30/01/2026 của Cục Kỹ thuật an toàn và Môi trường công nghiệp - Bộ Công Thương; CV **2419/ĐCKS-PCKS** ngày 19/9/2025 của Cục Địa chất và Khoáng sản Việt Nam; 10 văn bản, hồ sơ thực tế của Lào Cai (thủy điện Phúc Long, Tu Trên; cao lanh Sơn Mãn; Việt Sơn - Tằng Loỏng; đá hoa Làng Lạnh II; KĐT Mường Hoa).
+- Mục tiêu: plugin hoàn thiện được **trọn bộ hồ sơ** cho (A) khai thác cát tại lòng hồ thủy điện, (B) tận thu đá làm VLXD tại bãi thải mỏ apatit.
+- **Hai kết luận pháp lý chốt**: (1) không có thủ tục "cấp phép khai thác cát lòng hồ" — chỉ có *nạo vét kết hợp thu hồi cát, sỏi*, hai giai đoạn: chủ sở hữu công trình quyết định chủ trương đầu tư dự án nạo vét (không phải xin giấy phép trong phạm vi bảo vệ đập — Điều 42 NĐ 62/2025, QĐ 628/QĐ-BCT, Điều 14 NĐ 67/2018 sửa bởi NĐ 40/2023) → Chủ tịch UBND tỉnh cấp Giấy xác nhận đăng ký thu hồi (Điều 75, Điều 98 NĐ 193/2025); pháp luật ĐC&KS **không** quy định lập, thẩm định, phê duyệt dự án nạo vét (CV 2419 mục 11). (2) Đất đá thải mỏ, quặng đuôi đi luồng **Điều 97 NĐ 193/2025** (3 tài liệu), khối lượng đã tập kết ở kho, bãi chứa có lối ra tại **khoản 9 Điều 4 Luật 147/2025**.
+- Gate phân luồng mới: khoáng sản thu hồi **dùng cho chính dự án** (không phải đăng ký) hay **cung cấp cho dự án khác** (phải đăng ký).
+- File mới: `references/16`, `17`, `18`; `mau-van-ban/07`, `08`; `checklists/checklist-ho-so-thu-hoi-khoang-san.md`; thư mục `vi-du-thuc-te/` (10 văn bản + mục lục); 2 văn bản gốc vào `van-ban-goc/`. File sửa: `SKILL.md` (10 nghiệp vụ, GATE B4, cây thư mục), `references/01` (mục IV-bis: 12 văn bản khung của chế định thu hồi).
+- Còn thiếu, cần Bạn bổ sung: toàn văn **Phụ lục III TT 36/2025** (6 mẫu), toàn văn **Điều 75, 76 Luật 54/2024**, 4 tệp `.rar` bản vẽ - hồ sơ pháp lý, 2 tệp `.doc` Word 97, số và ngày phát hành chính thức của 2 công văn dự thảo. Chi tiết: `qlks-sct-vn/skills/qlks-sct-vn/CHANGELOG.md`.
+
 ## 2026-07-30 — `sd-vlncn-sct-vn` v2026.7.31 + `vbhc-vn` v2.7.1: vụ Thành Hương trọn 3 giai đoạn, bộ khung trình cấp GP, hai bẫy kỹ thuật docx
 
 - Nguồn: hồ sơ **DNTN Thành Hương Nghĩa Lộ** — mỏ đá vôi VLXDTT thôn Bản Hốc, xã Văn Chấn (GP khai thác 2596/GP-UBND ngày 24/12/2014); nộp lại 28/7/2026 sau CV 4280/SCT-CN, bị trả lần 2 ngày 29/7/2026, bổ sung đủ → bộ trình cấp GP 29–30/7/2026.

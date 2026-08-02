@@ -1,6 +1,6 @@
 ---
 name: qlks-sct-vn
-description: "Chuyên gia QLNN VỀ KHOÁNG SẢN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025), NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT. 8 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã (TT 37/2025/TT-BCT, Chỉ thị 11-CT/TU); (2) kế hoạch quản lý rủi ro khai thác; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) kiểm tra chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra tuân thủ thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU, CV 5973; (7) rà chồng lấn khoáng sản khi thẩm định dự án, CCN; (8) thống kê, kê khai, kiểm soát sản lượng, tiếp nhận báo cáo định kỳ mỏ nhóm I (CV 5141/SNNMT-KS, mẫu 05-08 TT 36/2025, hạn 15/02, thiết bị cân - đo). Từ khóa: khoáng sản, QĐ 2390/2026 nguồn thu đóng góp KS, nhóm I II III IV, Điều 108, cấp đổi GP 36 tháng, GĐĐH mỏ, trạm cân, thống kê kiểm kê trữ lượng, báo cáo định kỳ, bản đồ hiện trạng, đóng cửa mỏ, tận thu, chế biến, apatit, cát sỏi, mỏ Quý Xa."
+description: "Chuyên gia QLNN VỀ KHOÁNG SẢN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025), NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT. 10 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; (2) kế hoạch quản lý rủi ro; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU; (7) rà chồng lấn khi thẩm định dự án, CCN; (8) thống kê, kiểm soát sản lượng, báo cáo định kỳ mỏ nhóm I; (9) nguồn thu đóng góp KS; (10) THU HỒI KHOÁNG SẢN trọn hồ sơ. Từ khóa: thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, khai thác cát lòng hồ, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, tiền cấp quyền, nhóm I II III IV, Điều 108, GĐĐH mỏ, trạm cân, kiểm kê trữ lượng, đóng cửa mỏ, apatit, cao lanh Sơn Mãn, thủy điện Phúc Long, Tu Trên."
 ---
 
 # qlks-sct-vn — Quản lý nhà nước về khoáng sản (Sở Công Thương tỉnh Lào Cai)
@@ -91,6 +91,14 @@ Phân nhóm khoáng sản: Điều 6 Luật 54/2024 + danh mục chi tiết Ph�
 
 **9. Nguồn thu đóng góp từ tổ chức, cá nhân khai thác khoáng sản trong đầu tư công** — reference `15` (nguồn: **QĐ 2390/QĐ-UBND ngày 09/7/2026** về kế hoạch đầu tư công trung hạn 2026-2030, Biểu số 04). Tổng nguồn cả giai đoạn **1.594.379 triệu đồng**; đã phân bổ **257.448** cho 03 dự án (đường T2 và đường T12, T19 trong KCN Tằng Loỏng — 70.000; đường dọc sông Hồng Bản Vược – Y Tý — 187.448); **còn 1.336.931 chưa phân bổ**. Dùng khi: trả lời nguồn thu này được chi vào đâu, đề xuất bố trí vốn hạ tầng nơi có hoạt động khoáng sản, soạn báo cáo về nghĩa vụ đóng góp và hiệu quả sử dụng. Gọi đúng tên nguồn, không lẫn với thuế tài nguyên / tiền cấp quyền khai thác.
 
+**10. THU HỒI KHOÁNG SẢN — hoàn thiện trọn bộ hồ sơ** — references `16` (trục chung), `17` (nạo vét lòng hồ thuỷ điện thu hồi cát sỏi), `18` (đất đá thải mỏ, quặng đuôi, KS đi kèm), `19` (toàn văn 7 mẫu Phụ lục III); mẫu `07`, `08`; checklist `checklist-ho-so-thu-hoi-khoang-san.md`; 10 văn bản thật tại `vi-du-thuc-te/`.
+
+Ba câu phải trả lời trước mọi việc: (i) đây là **thu hồi** (giấy xác nhận đăng ký) chứ không phải **khai thác/khai thác tận thu** (giấy phép); (ii) thuộc điểm nào của khoản 1 Điều 75 → quyết định luồng **Điều 97** (trong dự án đầu tư khai thác KS) hay **Điều 98** (nạo vét, xây dựng công trình, đất ở, đóng cửa mỏ) NĐ 193/2025; (iii) khoáng sản thu hồi **dùng cho chính dự án** (không phải đăng ký, chỉ cập nhật báo cáo định kỳ) hay **cung cấp cho dự án khác** (phải đăng ký). Thẩm quyền cấp giấy xác nhận: **Chủ tịch UBND cấp tỉnh** (SNNMT tham mưu), riêng đất ở - đất nông nghiệp là **Chủ tịch UBND cấp xã**. Từ 01/01/2026 (khoản 23 Điều 1 Luật 147/2025): chỉ còn **một** trường hợp miễn đăng ký (dùng cho chính dự án — điểm a khoản 4 Điều 75), và **nhà thầu thi công** được cấp giấy xác nhận nếu chủ đầu tư, nhà đầu tư không có nhu cầu thu hồi và có văn bản chấp thuận.
+
+Vai SCT — bốn đầu việc, không đùn hết sang SNNMT: (a) **hướng dẫn chủ đập thuỷ điện** phần dự án/kế hoạch nạo vét (Điều 42, khoản 1 Điều 49 NĐ 62/2025; Điều 14 NĐ 67/2018 sửa bởi NĐ 40/2023 — chủ sở hữu công trình quyết định chủ trương đầu tư, **không phải xin giấy phép trong phạm vi bảo vệ đập**; theo CV 216/ATMT-ATĐ ngày 30/01/2026); (b) **trả lời khi SNNMT xin ý kiến** về thiết kế mỏ, sự phù hợp khu vực xin thu hồi so với thiết kế, việc chấp hành quy định khi khai thác; (c) **chấp thuận bằng văn bản** với tư cách cơ quan thẩm định TKCS khi khu vực thi công chồng lấn diện tích đã công nhận kết quả thăm dò (điểm b khoản 3 Điều 97); (d) hướng dẫn **chế biến, xuất khẩu** sản phẩm sau thu hồi.
+
+Bẫy lớn nhất: pháp luật ĐC&KS **không** quy định việc lập, thẩm định, phê duyệt dự án/kế hoạch nạo vét lòng hồ (CV 2419/ĐCKS-PCKS ngày 19/9/2025) → không hứa thẩm định, không đẩy sang SNNMT; chỉ đúng vai hướng dẫn chủ đập theo pháp luật điện lực - an toàn đập.
+
 ## VI. DỮ LIỆU MỎ TRÊN ĐỊA BÀN (reference `10` + thư mục `du-lieu/`)
 
 Ảnh chụp dữ liệu tại thời điểm lập (KHÔNG dùng làm hiện trạng thời sự — luôn hỏi Bạn trước khi đưa số liệu vào văn bản):
@@ -114,7 +122,9 @@ B1 GATE VAI        → mục II: việc của SCT? chủ trì hay phối hợp? 
                      cơ quan có thẩm quyền, soạn văn bản chuyển/phúc đáp đúng vai
 B2 GATE THỜI KỲ    → mục III: chọn bộ căn cứ theo ngày phát sinh
 B3 GATE NHÓM KS    → mục IV: nhóm I/II/III/IV quyết định thẩm quyền và plugin liên kết
-B4 NGHIỆP VỤ       → mục V: chọn nghiệp vụ 1-8, mở reference tương ứng
+B4 NGHIỆP VỤ       → mục V: chọn nghiệp vụ 1-10, mở reference tương ứng
+                     Việc thu hồi khoáng sản → thêm GATE LUỒNG: Điều 97 hay Điều 98?
+                     dùng cho chính dự án hay bán ra ngoài? (reference 16 mục III)
 B5 SOẠN VĂN BẢN    → mẫu tại mau-van-ban/ + thể thức vbhc-vn; người ký mục VII
 B6 QA              → render soi ảnh từng trang; đối chiếu checklist; số liệu mỏ chưa
                      xác minh → để trống + hỏi Bạn
@@ -137,12 +147,27 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
               09 chỉ đạo của tỉnh · 10 dữ liệu mỏ · 11 liên kết plugin
               12 khoáng sản trong thẩm định dự án/CCN · 13 báo cáo năm + số liệu 2025
               14 thống kê - kê khai - kiểm soát sản lượng + báo cáo định kỳ (CV 5141)
+              15 nguồn thu đóng góp KS trong đầu tư công (QĐ 2390/2026)
+              16 THU HỒI KHOÁNG SẢN — trục chung: 5 trường hợp Điều 75, thẩm quyền,
+                 hai luồng hồ sơ Điều 97/98, trình tự - thời hạn, nghĩa vụ Điều 76,
+                 bộ mẫu Phụ lục III TT 36/2025, 7 bẫy
+              17 nạo vét lòng hồ thuỷ điện kết hợp thu hồi cát, sỏi (CV 216/ATMT-ATĐ,
+                 CV 2419/ĐCKS-PCKS, NĐ 62/2025, NĐ 67/2018 sửa bởi NĐ 40/2023)
+              18 thu hồi đất đá thải mỏ, quặng đuôi, KS đi kèm trong mỏ đang hoạt động
+                 (Điều 97 NĐ 193, khoản 9 Điều 4 Luật 147/2025, tiền cấp quyền)
+              19 TOÀN VĂN Phụ lục III TT 36/2025 (sửa bởi TT 04/2026): 7 mẫu hồ sơ
+                 thu hồi 01 · 02 · 03 · 03a · 04 · 05 · 06 + 05 bản vẽ bắt buộc
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT
               05 báo cáo định kỳ + CV phối hợp liên ngành
               06 ý kiến khoáng sản trong thẩm định dự án + xử lý chồng lấn
-checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ
+              07 bộ mẫu thu hồi cát sỏi lòng hồ thuỷ điện (CV hướng dẫn chủ đập,
+                 bản đăng ký mẫu 02, CV trả hồ sơ - chỉ dẫn đúng cơ quan)
+              08 bộ mẫu thu hồi đất đá thải mỏ (VB đề nghị mẫu 01, báo cáo mẫu 04,
+                 yêu cầu bản đồ hiện trạng, VB SCT tham gia ý kiến, CV hướng dẫn DN)
+checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ · hồ sơ thu hồi khoáng sản
+vi-du-thuc-te/ 10 văn bản thật về thu hồi KS — xem 00-MUC-LUC.md
 du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý
 van-ban-goc/  21 văn bản nguồn đã đối chiếu (gồm CV 5141 và CV 6795 của SNNMT)
 ```

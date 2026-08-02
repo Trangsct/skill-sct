@@ -52,6 +52,25 @@ Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc tr
 | VBHN 64/VBHN-BNNMT (08/6/2026) | Hợp nhất Thông tư đóng cửa mỏ |
 | **TT 11/2026/TT-BXD** | Danh mục, quy cách, chỉ tiêu kỹ thuật KS làm VLXD được phép xuất khẩu |
 
+## IV-bis. KHUNG PHÁP LÝ RIÊNG CHO VIỆC THU HỒI KHOÁNG SẢN (nghiệp vụ 10 — references 16, 17, 18)
+
+| Văn bản | Nội dung dùng đến |
+|---|---|
+| **Luật ĐC&KS 54/2024**, Điều 75, 76; khoản 3 Điều 98 | 5 trường hợp được cấp giấy xác nhận đăng ký thu hồi; nghĩa vụ của tổ chức, cá nhân thu hồi; trường hợp **miễn tiền cấp quyền** |
+| **Luật 147/2025/QH15**, **khoản 23 Điều 1** | Sửa điểm b, c và **khoản 5** Điều 75: dự án chỉ cần *được quyết định, phê duyệt hoặc chấp thuận*; **nhà thầu thi công** được cấp GXN khi chủ/nhà đầu tư không có nhu cầu thu hồi; **bỏ miễn đăng ký cho điểm a khoản 1** — nay chỉ miễn khi KS dùng cho chính dự án |
+| **TT 04/2026/TT-BNNMT** | Sửa TT 36/2025: **Điều 7** (sửa Điều 21), **khoản 4 Điều 9** (sửa mẫu 01, 02, 05, 06 và **bổ sung mẫu 03a** Phụ lục III) — toàn văn mẫu: reference **19** |
+| **Luật 147/2025/QH15**, khoản 9 Điều 4 | Khoáng sản đã khai thác, thu hồi, đang lưu giữ/tập kết tại kho, bãi chứa mà chưa được cho phép thu hồi, sử dụng → Chủ tịch UBND cấp tỉnh xem xét cấp giấy xác nhận |
+| **NĐ 193/2025/NĐ-CP**, Mục 9 Chương IV: Điều 96, 97, 98 (sửa bởi NĐ 21/2026) | Thẩm quyền cấp GXN; thu hồi trong dự án đầu tư khai thác KS; hồ sơ, trình tự, thủ tục và thời hạn |
+| **TT 36/2025/TT-BNNMT**, Điều 21 + **Phụ lục III** | Mẫu 01 (VB đề nghị), 02 và 03 (bản đăng ký), 04 (báo cáo vị trí - khối lượng), 05 và 06 (giấy xác nhận). Bản đồ theo mẫu 35 Phụ lục II |
+| **NĐ 62/2025/NĐ-CP** (04/3/2025), Điều 42, khoản 1 Điều 49 | Bảo trì, sửa chữa, nâng cấp công trình điện lực (gồm nạo vét bồi lắng lòng hồ); yêu cầu an toàn khi có hoạt động trong phạm vi bảo vệ đập |
+| **QĐ 628/QĐ-BCT** (07/3/2025) | Công bố TTHC lĩnh vực an toàn đập, hồ chứa thuỷ điện — **bãi bỏ** thủ tục cấp giấy phép hoạt động trong phạm vi bảo vệ đập, hồ chứa thuỷ điện |
+| **NĐ 67/2018/NĐ-CP**, Điều 14, sửa bởi khoản 6 Điều 1 **NĐ 40/2023/NĐ-CP** | Dự án bảo trì, sửa chữa, nâng cấp do **chủ sở hữu công trình quyết định chủ trương đầu tư thì không phải xin giấy phép** |
+| **Luật Điện lực**, khoản 6 Điều 78 | Nạo vét kết hợp thu hồi KS trong lòng hồ thuỷ điện phải bảo đảm an toàn đập và tuân thủ pháp luật ĐC&KS, tài nguyên nước |
+| **CV 216/ATMT-ATĐ** ngày 30/01/2026 — Cục KTAT&MTCN (Bộ Công Thương) | Hướng dẫn SCT Lào Cai về nạo vét kết hợp thu hồi KS lòng hồ thuỷ điện. Bản gốc: `van-ban-goc/` |
+| **CV 2419/ĐCKS-PCKS** ngày 19/9/2025 — Cục ĐCKS Việt Nam | Trả lời 42 kiến nghị của 7 tỉnh (có Lào Cai); **mục 11**: pháp luật ĐC&KS không quy định lập, thẩm định, phê duyệt dự án/kế hoạch nạo vét. Bản gốc: `van-ban-goc/` |
+| **NĐ 67/2019/NĐ-CP** | Phương pháp tính, mức thu tiền cấp quyền khai thác khoáng sản |
+| **QĐ 3339/QĐ-BNNMT** ngày 22/8/2025 | Công bố TTHC chuẩn hoá lĩnh vực địa chất và khoáng sản (theo CV 2419) |
+
 ## V. XỬ PHẠT VPHC
 
 - **NĐ 36/2020/NĐ-CP** ngày 24/3/2020 (tài nguyên nước và khoáng sản) + **NĐ 04/2022/NĐ-CP** ngày 06/01/2022 (sửa đổi).

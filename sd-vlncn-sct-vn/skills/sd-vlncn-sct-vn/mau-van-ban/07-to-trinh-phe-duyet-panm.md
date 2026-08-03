@@ -1,8 +1,8 @@
 # Mẫu 07 — TỜ TRÌNH phê duyệt Phương án nổ mìn (khu vực có công trình cần bảo vệ)
 
-> Khung docx thật: **ưu tiên `vi-du-thuc-te/TTr-PANM-va-chap-thuan-Mien-Tay-27.7.2026.docx` (mỏ lộ thiên, bản đã duyệt 27/7/2026)**; bản nổ hầm: `TTr-PANM-va-chap-thuan.docx` (Si Ma Cai). Số:      /TTr-SCT; **ký GIÁM ĐỐC Hoàng Chí Hiền (trình UBND tỉnh — GĐ ký trực tiếp, KHÔNG KT.GĐ)**; Nơi nhận: Như trên; **Ban GĐ Sở**; Lưu: VT, CN(Khôi). Nhãn mục "1. Địa điểm nổ mìn:"… đậm, nội dung sau chữ thường.
+> Khung docx thật: **ưu tiên `vi-du-thuc-te/TTr-PANM-Mien-Tay-ban-chot-3.8.2026.docx` (mỏ lộ thiên, BẢN CHỐT PTP Trang 03/8/2026 — thay bản 27.7)**; bản nổ hầm: `TTr-PANM-va-chap-thuan.docx` (Si Ma Cai, chỉ tham khảo kết cấu nổ hầm). Số:      /TTr-SCT; **ký GIÁM ĐỐC Hoàng Chí Hiền (trình UBND tỉnh — GĐ ký trực tiếp, KHÔNG KT.GĐ)**; Nơi nhận: Như trên; **Ban GĐ Sở**; **Lưu: VT, CN(Khôi) — bản ký 03/8 KHÔNG có BP1C**. Nhãn mục "1. Địa điểm nổ mìn:"… đậm, nội dung sau chữ thường. **CHỐT 03/8/2026: tiêu đề và kiến nghị CHỈ "phê duyệt Phương án nổ mìn" — KHÔNG kèm vế/kiến nghị "chấp thuận sử dụng VLNCN"** (nội dung chấp thuận thuộc Quyết định cấp GP sử dụng VLNCN); kiến nghị 2 khoản: (1) phê duyệt PANM, (2) yêu cầu DN thực hiện quy định; KHÔNG mô tả chi tiết các sai khác Sở đã tự xử lý khi thẩm định.
 
-**TỜ TRÌNH Về việc phê duyệt Phương án nổ mìn 【và chấp thuận sử dụng vật liệu nổ công nghiệp】 tại khu vực có công trình cần bảo vệ của 【tên DN】**
+**TỜ TRÌNH Về việc phê duyệt Phương án nổ mìn tại 【mỏ/công trình…】 của 【tên DN】** (không thêm vế "và chấp thuận sử dụng VLNCN" — chốt 03/8/2026)
 
 Kính gửi: Chủ tịch Ủy ban nhân dân tỉnh Lào Cai.
 

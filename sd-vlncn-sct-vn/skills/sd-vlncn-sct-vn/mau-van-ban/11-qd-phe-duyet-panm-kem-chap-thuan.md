@@ -1,4 +1,6 @@
-# Mẫu 11 — QUYẾT ĐỊNH phê duyệt PANM VÀ chấp thuận sử dụng VLNCN (bản gộp)
+# Mẫu 11 — QUYẾT ĐỊNH phê duyệt PANM VÀ chấp thuận sử dụng VLNCN (bản gộp) — **NGỪNG DÙNG từ 03/8/2026**
+
+> ⛔ **CHỐT PTP Trang 03/8/2026 (vụ Miền Tây):** QĐ phê duyệt PANM **KHÔNG** đưa nội dung "chấp thuận sử dụng VLNCN" — nội dung này thuộc **Quyết định cấp Giấy phép sử dụng VLNCN**. Dùng **mẫu 10** + khung `vi-du-thuc-te/Du-thao-QD-PANM-Mien-Tay-ban-chot-3.8.2026.docx`. Mẫu dưới đây chỉ giữ để đọc hồ sơ cũ (Si Ma Cai, Miền Tây bản 27.7), KHÔNG dùng soạn mới.
 
 > Dùng khi hồ sơ vừa cần phê duyệt PANM (điểm d khoản 2 Điều 38) vừa cần văn bản đồng ý của UBND cấp tỉnh — Lào Cai gộp trong 01 Quyết định của Chủ tịch UBND tỉnh. Khung docx thật: **ưu tiên `vi-du-thuc-te/Du-thao-QD-PANM-va-chap-thuan-Mien-Tay-27.7.2026.docx` (mỏ lộ thiên, bản đã duyệt)**; bản nổ hầm: `Du-thao-QD-PANM-va-chap-thuan.docx` (Si Ma Cai — lưu ý bản này còn lỗi gốc: ngày Luật 42 ghi 26/8/2024 phải sửa thành 29/6/2024, hai "Điều 3" trùng số). Quy tắc trình bày đã duyệt: dòng "Theo đề nghị của **Sở Công Thương** tại Tờ trình số…" (không kèm "tỉnh Lào Cai"); header dự thảo "Lào Cai, ngày      tháng 7 năm 2026" (điền sẵn tháng/năm, trống ngày); "Điều N." đậm nhãn — nội dung chữ thường, thụt lề đề mục đồng nhất 1,25 cm theo file gốc.
 

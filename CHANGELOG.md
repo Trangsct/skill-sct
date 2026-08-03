@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-03 — `sd-vlncn-sct-vn` v2026.8.3: bộ chuẩn phê duyệt PANM (vụ Miền Tây chốt 03/8)
+
+- Thay 3 file Miền Tây 27.7 bằng **bộ chuẩn bản chốt 03/8/2026** (`TTr-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Phieu-trinh-tham-dinh-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Du-thao-QD-PANM-Mien-Tay-ban-chot-3.8.2026.docx`).
+- Chốt kết cấu: **QĐ phê duyệt PANM không chứa nội dung chấp thuận sử dụng VLNCN** (thuộc QĐ cấp GP) — mẫu 11 ngừng dùng; sai khác nhỏ Sở tự ấn định, không yêu cầu DN nộp lại, không mô tả chi tiết trong Phiếu trình/Tờ trình; dùng lại biên bản kiểm tra thực tế đã có. Thêm anti-error 21 + reference 07 mục J.5. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.
+
 ## 2026-08-01 — `qlks-sct-vn` v1.6.0: toàn văn QPPL gốc vào repo + 4 đính chính pháp lý
 
 - Nguồn: Bạn gửi toàn văn **Luật ĐC&KS 54/2024**, **Luật 147/2025**, **TT 36/2025 (điều khoản + Phụ lục I–IV)**, **TT 04/2026/TT-BNNMT** — theo yêu cầu đẩy văn bản QPPL lên GitHub để dùng thường xuyên. Tất cả đã vào `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/`.

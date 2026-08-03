@@ -1,6 +1,6 @@
 # Mẫu 10 — QUYẾT ĐỊNH phê duyệt Phương án nổ mìn (Chủ tịch UBND tỉnh)
 
-> Khung docx thật: `vi-du-thuc-te/QD-PANM-mo-da-Xuan-Hoa.docx`. Số:      /QĐ-UBND; ký KT. CHỦ TỊCH — PHÓ CHỦ TỊCH Nguyễn Thành Sinh.
+> Khung docx thật: **ưu tiên `vi-du-thuc-te/Du-thao-QD-PANM-Mien-Tay-ban-chot-3.8.2026.docx` (BẢN CHỐT PTP Trang 03/8/2026)**; tham khảo thêm `QD-PANM-mo-da-Xuan-Hoa.docx`. Số:      /QĐ-UBND; ký KT. CHỦ TỊCH — PHÓ CHỦ TỊCH Nguyễn Thành Sinh. **CHỐT 03/8/2026: QĐ phê duyệt PANM KHÔNG chứa nội dung "chấp thuận sử dụng VLNCN"** (nội dung đó thuộc QĐ cấp GP sử dụng VLNCN — mẫu 11 NGỪNG DÙNG). Kết cấu chuẩn: **Điều 1** phê duyệt PANM với 8 nội dung (1 vị trí, phạm vi; 2 khoảng cách đến công trình; 3 phương pháp nổ; 4 quy mô + thông số — ghi rõ "chiều cao tầng khai thác 10 m, chiều cao phân tầng khai thác 5 m" khi thiết kế chia phân tầng; 5 tính toán khoảng cách an toàn; 6 biện pháp che chắn bắt buộc; 7 canh gác — ấn định tối thiểu số trạm gác nếu PANM chưa nêu; 8 giờ nổ mìn) — **Điều 2** Tổ chức thực hiện (trách nhiệm DN dẫn "nội dung tại Điều 1", giám sát đánh giá theo điểm d k2 Đ38, giao SCT + PC06 + UBND phường giám sát) — **Điều 3** thi hành. Trị số thông số lấy theo nguyên tắc hai chiều anti-error 20 (thuốc nạp/lỗ theo trị số NHỎ hơn giữa PANM và Bảng 6.4 thiết kế được duyệt).
 
 **QUYẾT ĐỊNH Về việc phê duyệt Phương án nổ mìn tại khu vực có công trình cần bảo vệ của 【tên DN】**
 

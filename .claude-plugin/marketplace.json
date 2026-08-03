@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.6.1"
+    "version": "4.6.2"
   },
   "plugins": [
     {
@@ -90,7 +90,7 @@
       "name": "sd-vlncn-sct-vn",
       "source": "./sd-vlncn-sct-vn",
       "description": "Giấy phép sử dụng VLNCN và Phương án nổ mìn (PANM) - Sở Công Thương tỉnh Lào Cai: thẩm định cấp/điều chỉnh/cấp lại/thu hồi GP sử dụng VLNCN, thẩm định PANM trình Chủ tịch UBND tỉnh, hướng dẫn doanh nghiệp, kiểm tra - xử phạt, báo cáo. Kèm bảng tự kiểm 12 điểm chống bị UBND tỉnh trả lại hồ sơ, 20 mẫu văn bản và 30 ví dụ thực tế đã ban hành.",
-      "version": "2026.7.31"
+      "version": "2026.8.3"
     },
     {
       "name": "tkm-sct-vn",

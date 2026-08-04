@@ -1,4 +1,14 @@
 # CHANGELOG
+## v1.14.0 — 04/8/2026: KCN Cam Đường đã có QĐ chấp thuận CTĐT — nâng tổng 12 KCN
+
+Bạn cung cấp bản scan QĐ chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư KCN Cam Đường. Đã GATE: OCR file gốc xác minh **số 2548/QĐ-UBND, ngày 23/7/2026, Chủ tịch UBND tỉnh Nguyễn Tuấn Anh ký** (cấp lần đầu 23/7/2026).
+
+- `references/15`: thêm mục VI — bảng chi tiết KCN Cam Đường (196,3 ha, phường Cam Đường; NĐT Công ty CP đầu tư Lê Premium, GCN ĐKDN 4601571012 Thái Nguyên, TGĐ Lê Đăng Khoa; tổng vốn 1.996 tỷ = 300 tỷ vốn góp 15% + 1.696 tỷ vay 85%; 50 năm; tiến độ 51 tháng QIII/2026-QIV/2030, GĐ1 90 ha/GĐ2 106,3 ha; KCN sinh thái; căn cứ KL 320-KL/TU 15/7/2026, NQ 731-NQ/ĐU 13/7/2026, BC thẩm định 237/BC-BQL 22/7/2026; 99 mốc múi 3 + 99 mốc múi 6); mục I cập nhật tổng **12 KCN**, 05 KCN mới **1.255,29 ha/13.989 tỷ đồng**; mục lưu ý đổi thành VII, bổ sung QĐ 2548 do Chủ tịch UBND tỉnh ký; V-bis chuyển Cam Đường từ "đang trình" sang "đã có QĐ".
+- `references/12`: chuyển Cam Đường từ bảng "quy hoạch còn lại" lên bảng "KCN mới được chấp thuận" (200 ha QH / 196,3 ha chấp thuận); tổng 12 KCN đến 23/7/2026.
+- `references/17`: mục IV cập nhật trạng thái Cam Đường ✅ đã có QĐ 2548.
+- `SKILL.md`: mục I.8 và bảng reference 15/17 cập nhật tương ứng.
+- Số liệu đã dùng thống nhất trong "2026.08.05. Báo cáo tình hình triển khai các khu công nghiệp trên địa bàn tỉnh" (Mục I.2: 12 KCN; 05 KCN mới 1.255,29 ha/13.989 tỷ).
+
 ## v1.12.0 — 28/7/2026: bổ sung reference 23 — hồ sơ pháp lý gốc CCN Thống Nhất 1; SỬA LỖI tổng mức đầu tư 485 tỷ → 860 tỷ
 
 Bạn cung cấp 04 file PDF bản scan có dấu. Đã GATE file gốc trên đĩa (3/4 file không có lớp text, phải render ảnh soi từng trang then chốt):

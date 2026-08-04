@@ -1,12 +1,12 @@
-# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 22/7/2026)
+# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 04/8/2026)
 
-> NGUỒN: 04 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026 và 20/7/2026; bổ sung tiến độ sau chấp thuận + hồ sơ KCN Cam Đường theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
+> NGUỒN: 05 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026, 20/7/2026 và 04/8/2026 (QĐ 2548 Cam Đường — bản scan, đã OCR xác minh số/ngày/người ký từ file gốc); bổ sung tiến độ sau chấp thuận theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
 
 ## I. Ý NGHĨA PHÁP LÝ VÀ CÁCH DIỄN ĐẠT
 
-- Sau 16/7/2026, tổng số KCN có QĐ chấp thuận CTĐT/đã thành lập trên địa bàn tỉnh: **11 KCN** (07 KCN hiện hữu + Bản Qua + Phú Xuân + Phú Xuân 1 + Võ Lao). Diễn đạt chuẩn khi soạn văn bản: "đã được chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư" (kèm số/ngày QĐ); có thể nêu "nâng tổng số KCN đã thành lập lên 11" khi báo cáo tổng hợp (thống nhất với website congnghieplaocai.vn cập nhật 7/2026).
-- 04 KCN này **chưa GPMB xong, chưa khởi công hạ tầng** — không diễn đạt "đã đi vào hoạt động".
-- Quản lý nhà nước: cả 04 KCN thuộc địa bàn vùng Lào Cai cũ → **BQL Khu kinh tế tỉnh**; Sở Công Thương phối hợp giám sát (được giao đích danh tại Điều 2 các QĐ: nhà đầu tư gửi báo cáo giám sát đánh giá đầu tư định kỳ quý/năm về Sở Công Thương, BQL KKT, UBND xã).
+- Sau 23/7/2026, tổng số KCN có QĐ chấp thuận CTĐT/đã thành lập trên địa bàn tỉnh: **12 KCN** (07 KCN hiện hữu + Bản Qua + Phú Xuân + Phú Xuân 1 + Võ Lao + Cam Đường). Diễn đạt chuẩn khi soạn văn bản: "đã được chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư" (kèm số/ngày QĐ); có thể nêu "nâng tổng số KCN đã thành lập lên 12" khi báo cáo tổng hợp. **05 KCN mới năm 2026: tổng quy mô 1.255,29 ha, tổng vốn đăng ký 13.989 tỷ đồng** (= 1.058,99 ha/11.993 tỷ của 4 KCN đầu + 196,3 ha/1.996 tỷ Cam Đường — đã dùng trong Báo cáo tình hình triển khai KCN 05/8/2026).
+- 05 KCN này **chưa GPMB xong, chưa khởi công hạ tầng** — không diễn đạt "đã đi vào hoạt động".
+- Quản lý nhà nước: cả 05 KCN thuộc địa bàn vùng Lào Cai cũ → **BQL Khu kinh tế tỉnh**; Sở Công Thương phối hợp giám sát (được giao đích danh tại Điều 2 các QĐ: nhà đầu tư gửi báo cáo giám sát đánh giá đầu tư định kỳ quý/năm về Sở Công Thương, BQL KKT, UBND xã).
 
 ## II. KCN BẢN QUA — QĐ 2170/QĐ-UBND ngày 23/6/2026
 
@@ -71,11 +71,26 @@
 - **Bản Qua:** BQL hướng dẫn thủ tục pháp lý tại VB 879/BQL-QHXD ngày 23/6/2026. NĐT đã ký hợp đồng khảo sát địa hình phục vụ điều chỉnh QH 1/500 + thiết kế cơ sở (Công ty TNHH Tư vấn và Dịch vụ Đại Hồng Phát) và tư vấn điều chỉnh QH 1/500 (Công ty CP công nghệ xây dựng ACUD Việt Nam).
 - **Phú Xuân / Phú Xuân 1:** BQL hướng dẫn tại VB 964 và 965/BQL-QHXD ngày 03/7/2026. NĐT ký hợp đồng đo đạc (Công ty TNHH đo đạc và bản đồ Miền Bắc — đã trích đo trích lục 100 ha) và GPMB (Ban Quản lý đầu tư xây dựng tỉnh — đã GPMB, hỗ trợ tái định cư ~100 ha tại thôn Cù Hà và thôn Phẻo, xã Gia Phú, chung cho 02 KCN). Mục tiêu khởi công tháng 9/2026.
 - **Võ Lao:** BQL hướng dẫn thủ tục pháp lý tại VB 1052/BQL-QHXD ngày 17/7/2026.
-- **KCN Cam Đường — ĐANG TRÌNH, CHƯA CÓ QĐ (không viện dẫn như KCN đã chấp thuận):** địa điểm phường Cam Đường, quy mô **196,3 ha**; QH phân khu phê duyệt tại **QĐ 96/QĐ-BQL ngày 18/6/2026** của BQL KKT. Ngày 19/6/2026 BQL tiếp nhận hồ sơ đề xuất dự án của **Công ty CP đầu tư Lê Premium**; thẩm định tại BC 204/BC-BQL ngày 29/6/2026 + BC bổ sung 221/BC-BQL ngày 10/7/2026; UBND tỉnh xin ý kiến tại VB 6704/UBND-KT ngày 01/7/2026, Bộ Công an tham gia ý kiến tại CV 12783/ANKT-ANTCĐT ngày 21/7/2026; UBND tỉnh đang xem xét chấp thuận theo quy định. Mục tiêu khởi công tháng 8/2026 (Báo cáo Sở Công Thương). Khi có QĐ chấp thuận, cập nhật thành mục VI và nâng tổng số KCN lên 12.
+- **KCN Cam Đường — ĐÃ CÓ QĐ CHẤP THUẬN (23/7/2026):** xem mục VI dưới đây. Lịch sử thủ tục: QH phân khu tại QĐ 96/QĐ-BQL ngày 18/6/2026 của BQL KKT; 19/6/2026 BQL tiếp nhận hồ sơ đề xuất của Công ty CP đầu tư Lê Premium; thẩm định tại BC 204/BC-BQL ngày 29/6/2026 + BC bổ sung 221/BC-BQL ngày 10/7/2026; UBND tỉnh xin ý kiến tại VB 6704/UBND-KT ngày 01/7/2026, Bộ Công an tham gia ý kiến tại CV 12783/ANKT-ANTCĐT ngày 21/7/2026.
 
-## VI. LƯU Ý NGHIỆP VỤ CHO SỞ CÔNG THƯƠNG
+## VI. KCN CAM ĐƯỜNG — QĐ 2548/QĐ-UBND ngày 23/7/2026
 
-1. **Thẩm quyền ban hành khác nhau:** QĐ 2170 (Bản Qua) và QĐ 2463 (Võ Lao) do **UBND tỉnh** (TM. UBND); QĐ 2336, 2338 (Phú Xuân, Phú Xuân 1) do **Chủ tịch UBND tỉnh**. Khi trích dẫn căn cứ phải ghi đúng chủ thể ban hành từng QĐ.
+| Nội dung | Chi tiết |
+|---|---|
+| Văn bản | Quyết định số 2548/QĐ-UBND ngày 23/7/2026 của **Chủ tịch UBND tỉnh Lào Cai** (Chủ tịch Nguyễn Tuấn Anh ký; cấp lần đầu 23/7/2026; Lưu: VT, KT). Bản scan — đã OCR đối chiếu số/ngày/người ký từ file gốc |
+| Nhà đầu tư | **Công ty CP đầu tư Lê Premium**; GCN ĐKDN 4601571012 do Phòng Đăng ký kinh doanh - Sở Tài chính tỉnh Thái Nguyên cấp lần đầu 08/02/2021, thay đổi lần 7 ngày 02/10/2025; trụ sở Shophouse SH2-17, KĐT Crown Villas, số 586 đường CMT8, phường Gia Sàng, tỉnh Thái Nguyên; Tổng Giám đốc Lê Đăng Khoa (sinh 22/8/2000) |
+| Dự án | Đầu tư xây dựng và kinh doanh kết cấu hạ tầng KCN Cam Đường — theo hướng **KCN sinh thái**; 10 mục tiêu hoạt động (mã VSIC chính 4299, 6810, 5210, 3513, 3700, 3600, 3811, 5229, 8129, 8130) |
+| Địa điểm | **Phường Cam Đường, tỉnh Lào Cai** |
+| Quy mô | **196,3 ha** ⚠️ LƯU Ý: QĐ 525 quy hoạch Cam Đường 200 ha; diện tích chấp thuận CTĐT là 196,3 ha (khớp QH phân khu QĐ 96/QĐ-BQL 18/6/2026). Quy hoạch dùng 200 ha, dự án cụ thể dùng 196,3 ha |
+| Tổng vốn | 1.996 tỷ đồng (vốn góp NĐT 300 tỷ = 15%; vốn vay 1.696 tỷ = 85%) |
+| Thời hạn | 50 năm kể từ ngày được Nhà nước giao đất, cho thuê đất, chuyển mục đích sử dụng đất |
+| Tiến độ | 51 tháng (quý III/2026 → quý IV/2030), 02 giai đoạn: **GĐ1** — hoàn thiện hồ sơ pháp lý QIII-IV/2026; thủ tục giao đất, cho thuê đất QIV/2026-QI/2027 (trên phần diện tích 90 ha); san gạt, thi công hạ tầng GĐ1 + hoạt động GĐ1, xúc tiến đầu tư QI/2027-QIII/2028. **GĐ2 (106,3 ha)** — GPMB dứt điểm QIII-IV/2028; san gạt, thi công hạ tầng GĐ2 QIV/2028-QIII/2030; xúc tiến đầu tư và vận hành toàn bộ dự án trong QIV/2030 |
+| Căn cứ chính | Kết luận 320-KL/TU ngày 15/7/2026 của BTV Tỉnh ủy; Nghị quyết 731-NQ/ĐU ngày 13/7/2026 của BTV Đảng ủy UBND tỉnh; VB 12783/ANKT-ANTCĐT ngày 21/7/2026 của Cục An ninh kinh tế - Bộ Công an; hồ sơ NĐT nộp lần 1 ngày 19/6/2026, chỉnh sửa nộp lại 25/6/2026; Báo cáo thẩm định 237/BC-BQL ngày 22/7/2026 của BQL Khu kinh tế |
+| Điểm riêng Điều 1-2 | Nhà đầu tư hoàn trả kinh phí Nhà nước đã GPMB và kinh phí đầu tư tài sản trên đất (san gạt, đường giao thông, thoát nước...) trong phạm vi dự án; ký quỹ ngay sau khi được chấp thuận CTĐT; báo cáo giám sát đánh giá đầu tư định kỳ quý/năm gửi **Sở Công Thương**, BQL KKT, UBND phường Cam Đường; phụ lục 99 mốc tọa độ VN2000 múi 3° + 99 mốc múi 6° (ranh giới là dự kiến, xác định cụ thể theo QĐ cho thuê đất) |
+
+## VII. LƯU Ý NGHIỆP VỤ CHO SỞ CÔNG THƯƠNG
+
+1. **Thẩm quyền ban hành khác nhau:** QĐ 2170 (Bản Qua) và QĐ 2463 (Võ Lao) do **UBND tỉnh** (TM. UBND); QĐ 2336, 2338 (Phú Xuân, Phú Xuân 1) và QĐ 2548 (Cam Đường) do **Chủ tịch UBND tỉnh**. Khi trích dẫn căn cứ phải ghi đúng chủ thể ban hành từng QĐ.
 2. **Vai trò Sở Công Thương** theo Điều 2 các QĐ: cùng BQL KKT giám sát thực hiện dự án; hướng dẫn, theo dõi, đôn đốc nhà đầu tư; tiếp nhận báo cáo giám sát đánh giá đầu tư định kỳ (quý, năm) của nhà đầu tư.
 3. **Diện tích Bản Qua 76,39 ha vs 107 ha quy hoạch:** phần chênh lệch (~30,61 ha) vẫn nằm trong quy hoạch GĐ1 — khi báo cáo quy hoạch dùng 107 ha, khi nói về dự án đã chấp thuận dùng 76,39 ha, tránh trộn lẫn.
 4. **Cùng một nhà đầu tư (Linh Linh) thực hiện 2 KCN liền kề** (Phú Xuân 300 ha + Phú Xuân 1 200 ha, đều xã Gia Phú): khi soạn văn bản không gộp thành "KCN Phú Xuân 500 ha" — là 2 dự án, 2 QĐ độc lập.

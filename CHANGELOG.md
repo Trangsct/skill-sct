@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-04 — `kccn-sct-vn` v1.13.0: NĐ 303/2026/NĐ-CP sửa đổi NĐ 32/2024 (hiệu lực 15/9/2026)
+
+- Nguồn: bản PDF NĐ 303/2026/NĐ-CP ngày 01/8/2026 (PTTg Phạm Gia Túc ký) Bạn cung cấp 04/8/2026.
+- SKILL.md mục III.1: thay đoạn "dự thảo sửa đổi CHƯA ban hành" bằng **GATE THỜI ĐIỂM ÁP DỤNG**: trước 15/9/2026 vẫn dùng NĐ 32 nguyên bản + NĐ 139; từ 15/9/2026 viện dẫn "NĐ 32/2024 (được sửa đổi, bổ sung tại khoản Y Điều 1 NĐ 303/2026)"; hồ sơ đang thẩm định trước ngày hiệu lực tiếp tục theo NĐ cũ (chuyển tiếp Đ.35); Điều 6, 11, 12 NĐ 139/2025 hết hiệu lực từ 15/9/2026.
+- Reference mới `24-nd303-2026-sua-doi-nd32.md`: toàn bộ 18 khoản sửa đổi + bảng GATE + checklist triển khai Phòng QLCN (rà soát lấp đầy theo cấp xã cho 5 CCN trọng tâm; sửa QĐ 16/2026 Quy chế CCN; QĐ mức giảm tiền thuê lại đất; kiện toàn Hội đồng 15/15/30/40 có Sở Tài chính làm Phó Chủ tịch; đối chiếu k4a Đ.35 cho CCN trước QĐ 105/2009).
+- Reference `01-khung-phap-ly.md`: cập nhật dòng dự thảo → đã ban hành, kèm trạng thái chuyển tiếp.
+
 ## 2026-08-03 — `sd-vlncn-sct-vn` v2026.8.3: bộ chuẩn phê duyệt PANM (vụ Miền Tây chốt 03/8)
 
 - Thay 3 file Miền Tây 27.7 bằng **bộ chuẩn bản chốt 03/8/2026** (`TTr-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Phieu-trinh-tham-dinh-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Du-thao-QD-PANM-Mien-Tay-ban-chot-3.8.2026.docx`).

@@ -24,6 +24,8 @@ Thư mục lưu các ví dụ thực tế (case study) đã xử lý, dùng đ�
 | Chương trình đoàn công tác lãnh đạo tỉnh thăm CCN | Đoàn PCT UBND tỉnh Phan Trung Bá kiểm tra 12 CCN/7 xã phường, chiều 07/7/2026 (Chương trình CTr-UBND + Báo cáo BC-VP) | mau-van-ban/04 |
 | Dự báo kế hoạch năm (CCN khởi công/hoạt động 2027) | 3 nhóm: khởi công (Bảo Minh, Yên Hợp 2, Châu Quế, Mông Sơn, Tân Nguyên, Âu Lâu MR, Bảo Hưng 2); đón dự án thứ cấp (Thống Nhất 1, Âu Lâu); phấn đấu (An Thịnh, Bản Phung, Minh Quân, Y Can) | mau-van-ban/04.2 |
 
+| Báo cáo tổng hợp KCN + CCN phục vụ họp UBND tỉnh (phạm vi 08 KCN BQL các KCN tỉnh) | **Báo cáo 05/8/2026** — file gốc `2026.08.05-bao-cao-kcn-ccn-hop-ubnd-tinh.docx` trong thư mục này (Giấy mời 410/GM-UBND 04/8/2026; VB 1309/VPUBND-KT 31/7/2026; PGĐ Nguyễn Đình Chiến ký, CN(Trung)); bài phát biểu GĐ Sở cùng kỳ: plugin `bpb-sct-vn` | reference 25 |
+
 ## B. Cách dùng
 
 Khi Bạn cung cấp file ví dụ thực tế (hồ sơ, tờ trình, báo cáo đã ban hành), lưu vào thư mục này theo tên chuẩn `YYYY.MM.DD. [Tên đầy đủ có dấu].[ext]` để tái sử dụng làm Chế độ B (sửa file gốc) trong `vbhc-vn`.

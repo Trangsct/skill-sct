@@ -4,7 +4,7 @@
 > 1. **Báo cáo Sở Công Thương gửi UBND tỉnh** về tình hình triển khai NQ 34-NQ/TU (số liệu chốt **đến 20/7/2026**; KT. GIÁM ĐỐC, PGĐ Nguyễn Đình Chiến ký; Lưu VT, CN(Trung)).
 > 2. **Báo cáo Ban Quản lý Khu kinh tế gửi Sở Công Thương** (số .../BC-BQL tháng 7/2026, Trưởng ban Vương Trinh Quốc ký) về triển khai Kế hoạch 134/KH-UBND trong tháng 7/2026.
 >
-> ⚠️ ĐÂY LÀ DỮ LIỆU ĐỘNG — chỉ đúng tại thời điểm 20-22/7/2026. Khi soạn văn bản kỳ sau, HỎI Bạn số liệu mới; các số/ngày văn bản viện dẫn (QĐ, TTr, CV) là cố định, dùng được lâu dài.
+> ⚠️ ĐÂY LÀ DỮ LIỆU ĐỘNG — chỉ đúng tại thời điểm 20-22/7/2026. **Số liệu MỚI HƠN (chốt 31/7/2026, báo cáo họp UBND tỉnh 05/8/2026): xem reference `25`** — ưu tiên dùng reference 25 cho các nội dung trùng nhau (thu hút đầu tư, GPMB 4 KCN phía Nam, XLNT, vốn QĐ 767, CCN Phú Thịnh 3 khởi công 16/7/2026). Khi soạn văn bản kỳ sau, HỎI Bạn số liệu mới; các số/ngày văn bản viện dẫn (QĐ, TTr, CV) là cố định, dùng được lâu dài.
 
 ## I. TỔNG QUAN 2 CHỈ TIÊU CHÍNH CỦA NGHỊ QUYẾT
 
@@ -26,7 +26,7 @@ Diễn đạt chuẩn: 04 KCN mới có tổng quy mô **1.058,99 ha**, tổng v
 | 5 | CCN Thống Nhất 1 | 75 | 74,97 | 5,00 | GPMB XONG, khởi công 07/5/2026 |
 | 6 | CCN Phú Thịnh 1 | 75 | 18,00 | — | Vướng chồng lấn ranh giới với Công ty CP Chè Văn Hưng |
 | 7 | CCN Phú Thịnh 2 | 75 | 62,00 | 3,00 | CĐT Công ty TNHH Lâm nghiệp 888 |
-| 8 | CCN Phú Thịnh 3 | 75 | 43,00 | 5,00 | CĐT Công ty CP Công nghiệp EUP |
+| 8 | CCN Phú Thịnh 3 | 75 | 43,00 | 5,00 | CĐT Công ty CP Công nghiệp EUP — **khởi công 16/7/2026** |
 | 9 | CCN Minh Quân | 75 | 5,00 | — | Đang xin điều chỉnh tiến độ |
 | 10 | CCN Y Can | 75 | 20,00 | — | Đã đền bù 20 ha, đang tiếp tục GPMB |
 | 11 | CCN Bảo Minh | 60 | 10,00 | — | Thành lập 3/2026, đang GPMB |

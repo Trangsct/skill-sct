@@ -1,4 +1,13 @@
 # CHANGELOG
+## v1.15.0 — 05/8/2026: reference 25 — Báo cáo KCN/CCN họp UBND tỉnh 05/8/2026 (số liệu chốt 31/7/2026)
+
+Bạn hoàn thiện và cung cấp bản chuẩn 02 văn bản ngày 05/8/2026: Báo cáo Sở Công Thương gửi UBND tỉnh về tình hình phát triển KCN, CCN (họp theo Giấy mời 410/GM-UBND 04/8/2026 + VB 1309/VPUBND-KT 31/7/2026; PGĐ Nguyễn Đình Chiến ký, CN(Trung)) và Bài phát biểu của Giám đốc Sở tại cuộc họp (chủ trì: Chủ tịch UBND tỉnh Nguyễn Tuấn Anh; dự: PCT Nguyễn Thành Sinh).
+
+- **Mới `references/25-bc-kcn-ccn-hop-ubnd-05-8-2026.md`**: khung 08 KCN do BQL các KCN tỉnh quản lý (2.254 ha, bảng vị trí/hiện trạng + phân biệt CCN cùng địa bàn); thu hút đầu tư đến 31/7/2026 (93 dự án = 75 DDI + 18 FDI, 15.360,36 tỷ, lấp đầy 90,74%: Phía Nam 91,54% - Minh Quân 91,94% - Âu Lâu 84,15%); SXKD 7 tháng (GTSXCN 5.199,827 tỷ; XK 209,737 triệu USD; NSNN 99,796 tỷ; 6.835 lao động); GPMB 04 KCN (880,84 ha đủ điều kiện; 510,43 ha hết 2025; 51,6 ha 7 tháng 2026; mục tiêu 147,31 ha/227,45 ha sạch; Trấn Yên - Viglacera 107,9/254,59 ha, giải ngân 220 tỷ); QH phân khu (QĐ 161/QĐ-BQLCKCN 12/6/2026; mốc tháng 8-9/2026 và 20/10/2026); bảng 09 dự án vốn NSNN 2.103,161 tỷ/trung hạn 664,753 tỷ (QĐ 767/QĐ-UBND 23/3/2026 — phê duyệt tháng 9, khởi công tháng 12/2026); XLNT 4 trạm (hạn hợp đồng 2027-2028 → chỉ tiêu 100% năm 2026 khó hoàn thành); vi phạm theo Tổ công tác QĐ 1186/QĐ-UBND (37 đầu tư, 17 đất đai, 14 môi trường, 43+23+26 xây dựng, 16 PCCC; VB 730/BQLCKCN-NV 10/6/2026; cơ chế NQ 170/2024/QH15 + NQ 29/2026/QH16); 04 KCN chưa thành lập (1.200 ha/14.400 tỷ; QĐ 2573/QĐ-UBND 27/7/2026; QĐ 536/QĐ-UBND 31/7/2026 của UBND xã Việt Hồng); CCN cập nhật (Bảo Minh 60 ha thành lập 3/2026; Thống Nhất 1 khởi công 07/5; **Phú Thịnh 3 khởi công 16/7/2026**; 05 CCN lựa chọn CĐT gồm An Thịnh; lấy ý kiến Báo Đáp - Bắc Văn Yên - Đông An; hướng dẫn xã Bản Phiệt 1 - Phú Thịnh 4 - Phú Thịnh 6); vai trò SCT; 5 khó khăn + 5 kiến nghị; lưu ý nghiệp vụ (12 KCN toàn tỉnh ≠ 08 KCN phạm vi BQL; 90,74% chỉ tính 03 KCN hoạt động; các mẫu số GPMB khác nhau).
+- `references/17`: gắn cờ trỏ sang reference 25 cho số liệu mới hơn; bổ sung mốc CCN Phú Thịnh 3 khởi công 16/7/2026.
+- `SKILL.md`: mục I.8 + bảng reference bổ sung reference 25.
+- `vi-du-thuc-te/`: lưu file gốc `2026.08.05-bao-cao-kcn-ccn-hop-ubnd-tinh.docx` + đăng ký case trong README.
+
 ## v1.14.0 — 04/8/2026: KCN Cam Đường đã có QĐ chấp thuận CTĐT — nâng tổng 12 KCN
 
 Bạn cung cấp bản scan QĐ chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư KCN Cam Đường. Đã GATE: OCR file gốc xác minh **số 2548/QĐ-UBND, ngày 23/7/2026, Chủ tịch UBND tỉnh Nguyễn Tuấn Anh ký** (cấp lần đầu 23/7/2026).

@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-05 — `kccn-sct-vn` v1.15.0 + `bpb-sct-vn` v1.2.0: Báo cáo và Bài phát biểu họp UBND tỉnh về KCN ngày 05/8/2026
+
+- `kccn-sct-vn` v1.15.0: reference mới `25-bc-kcn-ccn-hop-ubnd-05-8-2026.md` (số liệu chốt 31/7/2026: 08 KCN BQL các KCN tỉnh 2.254 ha; 93 dự án lấp đầy 90,74%; GPMB 04 KCN mục tiêu 147,31 ha/227,45 ha sạch; bảng vốn QĐ 2390 + QĐ 767 khởi công 12/2026; XLNT khó đạt chỉ tiêu 100% năm 2026; vi phạm QĐ 1186; 04 KCN chưa thành lập với QĐ 2573 + QĐ 536; CCN Bảo Minh, Phú Thịnh 3 khởi công 16/7/2026; 05 kiến nghị); cập nhật references 17, SKILL.md; lưu file gốc báo cáo vào `vi-du-thuc-te/`.
+- `bpb-sct-vn` v1.2.0: thêm bài mẫu thứ 12 `bpb-hop-kcn-2026-08-05.docx` — mẫu chuẩn dạng phát biểu tại cuộc họp UBND tỉnh (kính thưa gọn, "cơ bản thống nhất với báo cáo của...", báo trước 04 nhóm nội dung, Thứ nhất/Thứ hai + Một là/Hai là, chốt thông điệp - cam kết); cập nhật mục lục và SKILL.md.
+
 ## 2026-08-04 — `kccn-sct-vn` v1.13.0: NĐ 303/2026/NĐ-CP sửa đổi NĐ 32/2024 (hiệu lực 15/9/2026)
 
 - Nguồn: bản PDF NĐ 303/2026/NĐ-CP ngày 01/8/2026 (PTTg Phạm Gia Túc ký) Bạn cung cấp 04/8/2026.

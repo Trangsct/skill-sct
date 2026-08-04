@@ -1,6 +1,6 @@
 # Kho bài mẫu gốc — MỤC LỤC
 
-Thư mục `kho-bai-mau/` lưu 11 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
+Thư mục `kho-bai-mau/` lưu 12 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
 của skill này. Tên file đã chuẩn hoá ASCII (không dấu) để tương thích khi upload;
 tên gốc ghi ở cột "Tên gốc". Khi soạn bài mới, **ưu tiên mở đúng file mẫu gần nhất
 với dịp đang soạn** (Chế độ B — sửa mẫu thật, trước khi dựng mới). Bản GĐ đã duyệt
@@ -14,6 +14,7 @@ là chuẩn cao nhất để đối chiếu.
 | `bpb-bch-ktck-ban-nhap.docx` | Bài phát biểu tại HN BCH … kinh tế cửa khẩu | **Bản nháp** cùng chủ đề — so với bản duyệt để thấy chỗ cần cắt (placeholder ……, câu hỏi biên tập) |
 | `bpb-giao-ke-hoach-2025-12-22.docx` | BPB tại hội nghị giao KH 22.12.2025 | HN giao kế hoạch — nhiệm vụ CN, TM, XNK 2026; giàu số liệu; có đoạn "tín hiệu-cơ hội" + chúc Tết |
 | `bpb-rut-gon-trien-khai-nq-hdnd.docx` | BPB rút gọn HN triển khai Nghị quyết HĐND tỉnh | Mẫu cho **biến thể rút gọn** |
+| `bpb-hop-kcn-2026-08-05.docx` | Bài phát biểu của GĐ Sở Công Thương tại cuộc họp về tình hình triển khai các KCN (05/8/2026) | ⭐ **Bản chuẩn Bạn hoàn thiện** — mẫu cho dạng PHÁT BIỂU TẠI CUỘC HỌP UBND TỈNH (không phải hội nghị lớn): kính thưa gọn 2 cấp (Chủ tịch chủ trì + PCT), mở đầu nêu căn cứ Giấy mời + "cơ bản thống nhất với báo cáo của..." + báo trước 04 nhóm nội dung; thân bài đánh số 1-2-3-4, trong mục dùng "Thứ nhất/Thứ hai" và "Một là/Hai là" cho kiến nghị; số liệu dày, chốt bằng thông điệp + cam kết khẩu hiệu. Số liệu khớp reference `25` plugin kccn-sct-vn |
 | `bpb-tham-luan-phat-trien-cong-nghiep-sua.docx` | BÀI PHÁT BIỂU THAM LUẬN … PHÁT TRIỂN CÔNG NGHIỆP (Sửa) | **Bản đang biên tập** — nhiều ghi chú trong ngoặc; học cách xử lý nháp → duyệt |
 
 ## B. PHỎNG VẤN / BÀI VIẾT ký tên Giám đốc Sở (cùng giọng văn)

@@ -228,7 +228,7 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
   báo 381/TB-VPCP, nhiệm vụ tháng 8 (tiết kiệm 10% điện, bảo đảm nguyên liệu sản
   xuất). Mở khi soạn bài phát biểu trong tháng 8–9/2026 mà người dùng chưa đưa số
   liệu; số liệu người dùng cung cấp luôn được ưu tiên.
-- `kho-bai-mau/` — **11 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
+- `kho-bai-mau/` — **12 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File
   `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu.

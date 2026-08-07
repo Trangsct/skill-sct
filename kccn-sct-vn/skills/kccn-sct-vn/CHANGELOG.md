@@ -1,4 +1,12 @@
 # CHANGELOG
+## v1.16.1 — 07/8/2026 (chiều): bổ sung cột Tổng mức đầu tư vào 02 phụ lục thu hút đầu tư
+
+- 02 phụ lục KCN/CCN nâng lên bảng 8 cột (thêm "Tổng mức đầu tư (tỷ đồng)" sau cột Diện tích, có SUM nhóm + tổng): KCN tổng hợp 38.350,01 tỷ cho 14/21 khu (05 KCN mới theo QĐ CTĐT = 13.990,01 tỷ, báo cáo dùng 13.989 tỷ theo ref 15; 08 KCN kêu gọi theo QĐ 1382 = 24.360 tỷ; Lục Yên và các KCN hiện hữu chưa có số liệu); CCN 37 cụm giai đoạn 2026-2030 = 24.354 tỷ (ref 14) + Thống Nhất 1 = 860,008 tỷ (ref 23).
+- CCN Gia Hội điền 50 ha/600 tỷ theo BC 18/6/2026 → tổng diện tích 56 CCN thay đổi 3.002,81 → 3.052,81 ha (đã sửa đồng bộ reference 26 mục B, khối tổng hợp phụ lục và tin Zalo).
+- Tin Zalo báo cáo GĐ bổ sung vốn: KCN "1.255,29 ha, tổng vốn đăng ký 13.989 tỷ đồng" + "09 KCN kêu gọi ~24.360 tỷ"; CCN "37 cụm giai đoạn 2026-2030 ~24.354 tỷ đồng".
+- Reference 26: mục B thêm khối "Tổng mức đầu tư" + danh sách thiếu cần Bạn bổ sung tài liệu (TMĐT KCN hiện hữu, Trấn Yên/Viglacera, Lục Yên; QĐ CTĐT 06 CCN đã có CĐT); mục D cập nhật cấu trúc 8 cột.
+- `vi-du-thuc-te/`: thay 02 file phụ lục bằng bản 8 cột.
+
 ## v1.16.0 — 07/8/2026: reference 26 — kỳ cập nhật 07/8/2026 + chuẩn hóa phụ lục thu hút đầu tư theo mẫu năng lượng + báo cáo Zalo thứ 6 hằng tuần
 
 Phiên 07/8/2026: Bạn cung cấp Sổ văn bản đến/đi kết xuất 07/8/2026, bộ theo dõi bản 03/8 và mẫu Phụ lục dự án năng lượng (Phòng QLNL). GĐ Sở Hoàng Chí Hiền chỉ đạo qua Zalo: Phòng QLCN tổng hợp báo cáo thu hút dự án KCN, CCN tương tự mảng năng lượng, báo cáo THỨ 6 HẰNG TUẦN.

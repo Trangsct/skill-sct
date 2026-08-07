@@ -1,4 +1,10 @@
 # CHANGELOG
+## v1.17.2 — 07/8/2026: hoàn thiện TMĐT phụ lục CCN — bổ sung Bảo Minh 500 tỷ
+
+- Phụ lục CCN: điền TMĐT CCN Bảo Minh = 500 tỷ đồng (Báo cáo đầu tư 14/10/2025, vốn CSH 75 tỷ = 15% + BIDV cam kết 425 tỷ; nguồn case study reference 05/07; ghi chú đối chiếu bản gốc QĐ 1397/QĐ-UBND 25/4/2026). Nhóm cụm đã thành lập tổng hợp được 1.360,01 tỷ (02/07 cụm có CĐT); tổng cột TMĐT toàn phụ lục 25.714,01 tỷ. 05 cụm còn lại (Minh Quân, Phú Thịnh 1, 2, 3, Y Can) gắn ghi chú "TMĐT: bổ sung theo QĐ chấp thuận CTĐT (hồ sơ gốc)" và để trống — quy tắc KHÔNG tạm tính theo suất vốn để tránh lẫn số liệu pháp lý.
+- Reference 26 mục B: cập nhật khối TMĐT CCN + quy tắc số tham khảo lịch sử không đưa vào cột (Bản Phung 242 tỷ hồ sơ đã rút; An Thịnh 350 tỷ/30 ha hồ sơ liên danh FDI giai đoạn trước).
+- `vi-du-thuc-te/`: thay file phụ lục CCN bản hoàn thiện.
+
 ## v1.17.1 — 07/8/2026: bản Word chuyển thể Bảng theo dõi tiến độ
 
 - `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo theo dõi tiến độ CCN, KCN (cập nhật đến 07.8.2026).docx` — chuyển thể toàn bộ bảng theo dõi thành văn xuôi 4 mục (13 mục CCN; 7 mục KCN mở đầu bằng Phú Xuân/Phú Xuân 1 sau QĐ 129+130/QĐ-BQL; 07 CCN doanh nghiệp làm CĐT; nội dung cần làm rõ), thể thức trùng bản Nhiệm vụ tuần.

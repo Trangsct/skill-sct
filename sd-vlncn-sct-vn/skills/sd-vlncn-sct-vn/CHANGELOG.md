@@ -1,5 +1,11 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-08-07 (bổ sung)
+- **sd-vlncn-sct-vn [2026.8.7.1]**: **GP dịch vụ nổ mìn 34/GP-ATMT ngày 03/8/2026 — ví dụ GP DỊCH VỤ NỔ MÌN đầu tiên** (Cục trưởng Cục KTAT&MTCN Phạm Tuấn Anh ký; Cty TNHH Đại Lục, GCN ĐKDN 5200253279, phường Yên Bái, tỉnh Lào Cai; phạm vi khai thác KS + công trình hạ tầng kỹ thuật trên địa bàn tỉnh Lào Cai; hiệu lực 02 năm, đến 02/8/2028).
+  - **Reference 07 mục C**: thêm hàng GP 34 — đúng thẩm quyền Cục cấp (điểm c k1 Đ4 TT 23 sđ TT 26/2026), căn cứ ban hành của Cục chỉ Luật 42/2024 + TT 23/2024; điều kiện kèm theo để Sở giám sát (QĐ bàn giao mặt bằng của chính quyền địa phương theo k7 Đ5 QCVN hoặc điểm b k1 Đ32; cấm nổ mìn ốp trong 300 m; d < 65 mm → cột bua > 1/3 chiều sâu lỗ; theo thiết kế được duyệt); nghĩa vụ thông báo UBND tỉnh + UBND cấp xã trước khi thực hiện.
+  - **Reference 04 FAQ 1**: bổ sung Đại Lục vào câu trả lời "thuê DN dịch vụ nổ mìn" (kèm nhắc tra hồ sơ theo dõi của Phòng để có danh sách đầy đủ).
+  - Bản ký lưu tại repo dữ liệu web `vlncn-laocai-files/uploads/dvnm/34_GP-ATMT.pdf`.
+
 ## 2026-08-07
 - **sd-vlncn-sct-vn [2026.8.7]**: **GP 2726/GP-UBND ngày 06/8/2026 — ví dụ CẤP LẠI đầu tiên** (Cty TNHH Anh Nam Xuân Thủy, Gói thầu số 05 xử lý vị trí tiềm ẩn TNGT Km183÷Km188 QL4D, xã Mường Khương; KT. Chủ tịch — PCT Nguyễn Thành Sinh ký). GP theo công trình 169/GP-UBND 23/01/2026 hết hiệu lực 31/5/2026 khi công trình chưa xong → thủ tục CẤP LẠI (Luật 42/2024 không có "gia hạn"): hồ sơ 2 đầu mục (Giấy đề nghị cấp lại 13/CV-ANXT 27/7/2026 + Báo cáo tình hình sử dụng VLNCN 12/BC-ANXT 25/7/2026; TTr 4645/TTr-SCT 03/8/2026); **khối lượng GP cấp lại = phần CÒN LẠI theo báo cáo sử dụng** (5.580/11.607 kg thuốc; 1.995 kíp; 2.809 m dây); thời hạn theo tiến độ còn lại (đến 31/8/2026, ~25 ngày); Q tức thời 24 kg, Qb ≤240 kg, giờ nổ 10h00–13h30 & 15h00–18h30; Điều 2 k5 giao SCT + SXD + CA tỉnh + UBND xã.
   - **Khép chuỗi CV 565/VPUBND-KT** (bị trả 10/2025 vì thiếu hồ sơ đất đai → GP 169 → cấp lại GP 2726): cập nhật kết cục tại ref 07 mục A + C, ref 09 mục A hàng 3, SKILL.md anti-error 17.

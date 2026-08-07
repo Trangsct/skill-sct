@@ -1,5 +1,11 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-08-07
+- **sd-vlncn-sct-vn [2026.8.7]**: **GP 2726/GP-UBND ngày 06/8/2026 — ví dụ CẤP LẠI đầu tiên** (Cty TNHH Anh Nam Xuân Thủy, Gói thầu số 05 xử lý vị trí tiềm ẩn TNGT Km183÷Km188 QL4D, xã Mường Khương; KT. Chủ tịch — PCT Nguyễn Thành Sinh ký). GP theo công trình 169/GP-UBND 23/01/2026 hết hiệu lực 31/5/2026 khi công trình chưa xong → thủ tục CẤP LẠI (Luật 42/2024 không có "gia hạn"): hồ sơ 2 đầu mục (Giấy đề nghị cấp lại 13/CV-ANXT 27/7/2026 + Báo cáo tình hình sử dụng VLNCN 12/BC-ANXT 25/7/2026; TTr 4645/TTr-SCT 03/8/2026); **khối lượng GP cấp lại = phần CÒN LẠI theo báo cáo sử dụng** (5.580/11.607 kg thuốc; 1.995 kíp; 2.809 m dây); thời hạn theo tiến độ còn lại (đến 31/8/2026, ~25 ngày); Q tức thời 24 kg, Qb ≤240 kg, giờ nổ 10h00–13h30 & 15h00–18h30; Điều 2 k5 giao SCT + SXD + CA tỉnh + UBND xã.
+  - **Khép chuỗi CV 565/VPUBND-KT** (bị trả 10/2025 vì thiếu hồ sơ đất đai → GP 169 → cấp lại GP 2726): cập nhật kết cục tại ref 07 mục A + C, ref 09 mục A hàng 3, SKILL.md anti-error 17.
+  - **Reference 02 mục A**: bổ sung đoạn ví dụ thật cho thủ tục CẤP LẠI ngay dưới bảng 4 thủ tục.
+  - Bản ký GP 2726 (PDF ký số) lưu tại repo dữ liệu web `vlncn-laocai-files/uploads/2726_GP-UBND.pdf`; số/ngày nằm trong con dấu ký số (đọc bằng ToUnicode CMap của ô Signature — pdftotext không thấy).
+
 ## 2026-08-03
 - **sd-vlncn-sct-vn [2026.8.3]**: vụ **Miền Tây giai đoạn chốt** — DN nộp lại PANM 01/PANM hoàn thiện 31/7/2026, bộ trình ký chốt 03/8/2026. **Ba quyết định kết cấu của PTP Trang**: (1) **QĐ phê duyệt PANM KHÔNG chứa nội dung "chấp thuận sử dụng VLNCN"** — thuộc QĐ cấp GP sử dụng VLNCN; **mẫu 11 NGỪNG DÙNG**, soạn theo mẫu 10 (Điều 1 tám nội dung – Điều 2 tổ chức thực hiện – Điều 3 thi hành); (2) sai khác nhỏ (Wct 3,1 sai số học → 3,3; đá văng thiết bị 200/225 → 225) Sở **tự ấn định khi thẩm định, không yêu cầu DN đính chính/nộp lại, không mô tả chi tiết trong Phiếu trình/Tờ trình**; (3) **dùng lại Biên bản kiểm tra thực tế 09/7/2026** làm cơ sở thẩm định PANM (hiện trạng không đổi) kèm 01 câu lý do — tránh kiểm tra nhiều lần cùng nội dung.
   - **Thay bộ mẫu**: xóa 3 file 27.7, thêm **`TTr-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Phieu-trinh-tham-dinh-PANM-Mien-Tay-ban-chot-3.8.2026.docx`, `Du-thao-QD-PANM-Mien-Tay-ban-chot-3.8.2026.docx`** — khung Chế độ B chuẩn cho hồ sơ thuộc diện phê duyệt PANM.

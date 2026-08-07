@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-07 — `sd-vlncn-sct-vn` v2026.8.7: GP 2726/GP-UBND — ví dụ CẤP LẠI giấy phép đầu tiên (QL4D Mường Khương)
+
+- GP 2726/GP-UBND ngày 06/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 169/GP-UBND 23/01/2026 cho Cty TNHH Anh Nam Xuân Thủy — Gói thầu số 05 xử lý vị trí tiềm ẩn TNGT Km183÷Km188 QL4D, xã Mường Khương. Chốt nghiệp vụ CẤP LẠI: Luật 42/2024 không có "gia hạn"; hồ sơ 2 đầu mục (giấy đề nghị cấp lại + báo cáo tình hình sử dụng); khối lượng = phần CÒN LẠI theo báo cáo (5.580/11.607 kg); thời hạn theo tiến độ còn lại (đến 31/8/2026).
+- Khép chuỗi CV 565/VPUBND-KT 23/10/2025 (bị trả vì thiếu hồ sơ đất đai → GP 169 → cấp lại GP 2726): cập nhật ref 07 mục A + C, ref 09, ref 02 mục A, SKILL.md anti-error 17. Bản ký lưu tại repo web `vlncn-laocai-files/uploads/2726_GP-UBND.pdf`. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.
+
 ## 2026-08-05 — `kccn-sct-vn` v1.15.0 + `bpb-sct-vn` v1.2.0: Báo cáo và Bài phát biểu họp UBND tỉnh về KCN ngày 05/8/2026
 
 - `kccn-sct-vn` v1.15.0: reference mới `25-bc-kcn-ccn-hop-ubnd-05-8-2026.md` (số liệu chốt 31/7/2026: 08 KCN BQL các KCN tỉnh 2.254 ha; 93 dự án lấp đầy 90,74%; GPMB 04 KCN mục tiêu 147,31 ha/227,45 ha sạch; bảng vốn QĐ 2390 + QĐ 767 khởi công 12/2026; XLNT khó đạt chỉ tiêu 100% năm 2026; vi phạm QĐ 1186; 04 KCN chưa thành lập với QĐ 2573 + QĐ 536; CCN Bảo Minh, Phú Thịnh 3 khởi công 16/7/2026; 05 kiến nghị); cập nhật references 17, SKILL.md; lưu file gốc báo cáo vào `vi-du-thuc-te/`.

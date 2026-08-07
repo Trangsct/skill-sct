@@ -1,4 +1,10 @@
 # CHANGELOG
+## v1.18.1 — 07/8/2026: viết lại Báo cáo gửi UBND tỉnh theo khuôn thống nhất + 2 đính chính của Bạn
+
+- Bản BC-SCT gửi UBND tỉnh viết lại toàn bộ theo khuôn hành chính thống nhất, 4 trang: mục II tái cấu trúc theo 4 nhóm tiến độ (04 cụm đã có Hội đồng → 03 cụm đang lấy ý kiến ghi rõ x/06 cơ quan → 07 cụm tiếp nhận/hoàn thiện hồ sơ → 03 cụm chuẩn bị quy hoạch, hạ tầng); mục IV gom đủ 07 cụm doanh nghiệp làm CĐT theo cùng khuôn (địa điểm - quy mô - TMĐT - mốc - tiến độ - vướng mắc, bổ sung Bảo Minh); mục V nhiệm vụ 4 điểm; mục VI kiến nghị 5 điểm; khối ký trọn trang cuối (đã nén spacing after 120→80 để hết gãy trang).
+- ĐÍNH CHÍNH (ghi vào ref 26): (1) CCN Phú Thịnh 6 — vướng mắc ĐÃ THÁO GỠ XONG, NĐT đã nộp hồ sơ, phường Văn Phú đang bước Thông báo tiếp nhận (không viết "đang vướng mắc" nữa); (2) CCN Đầm Hồng di dời sang CCN Âu Lâu, KHÔNG liên quan Phú Thịnh 4 — cấm đưa nội dung "Phú Thịnh 4 gắn di dời Đầm Hồng" vào báo cáo.
+- `vi-du-thuc-te/`: thay file báo cáo bằng bản viết lại.
+
 ## v1.18.0 — 07/8/2026: Báo cáo BC-SCT chính thức gửi UBND tỉnh (chuyển từ bản theo dõi nội bộ)
 
 - `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo tình hình, tiến độ phát triển CCN, KCN trên địa bàn tỉnh (gửi UBND tỉnh).docx` — dựng Chế độ B từ mẫu thật vbhc-vn (bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx), giữ nguyên header 2 Line + khối ký PGĐ Nguyễn Đình Chiến; 6 mục I-VI, kết bằng Đề xuất, kiến nghị 5 điểm với UBND tỉnh; nơi nhận Như trên/TT. Tỉnh ủy (b/c)/02 BQL (p/h)/Lưu VT CN(Trung); m³ superscript; QA render 5/5 trang.

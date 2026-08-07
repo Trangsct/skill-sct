@@ -1,4 +1,12 @@
 # CHANGELOG
+## v1.17.0 — 07/8/2026 (tối): KCN Phú Xuân + Phú Xuân 1 được phê duyệt Điều chỉnh cục bộ QHPK (QĐ 129 + 130/QĐ-BQL ngày 06/8/2026)
+
+Bạn cung cấp 02 bản scan có dấu; đã GATE file gốc: QĐ 129/QĐ-BQL (Phú Xuân, 300 ha) và QĐ 130/QĐ-BQL (Phú Xuân 1, 200 ha) cùng ngày 06/8/2026 của BQL Khu kinh tế tỉnh, Trưởng ban Vương Trinh Quốc ký; căn cứ Tờ trình 32.7 + 31.7/TTr-CNLL ngày 31/7/2026 của Công ty CP công nghiệp Linh Linh và Báo cáo thẩm định 39 + 40/BC-QHXD ngày 06/8/2026.
+
+- `references/26` mục C.13 (mới): tóm tắt nội dung then chốt 02 QĐ — Phú Xuân: đất SXCN giảm 7,73 ha còn 175,48 ha; XLNT tập trung CHUNG 02 KCN 45.000 m3/ngđ đặt tại Phú Xuân (cột A QCVN 40:2025/BTNMT); gộp còn 01 TBA 110kV 2x63MVA (khớp phương án Sở 4607/SCT-NL). Phú Xuân 1: đất SXCN TĂNG 8,22 ha lên 126,98 ha (63,49%); bỏ XLNT; Trạm cấp nước sạch + nhà máy nước 70.000 m3/ngđ cấp cho 02 KCN và dân cư; dải cây xanh IC17 - ĐT.152. Ghi rõ chuỗi căn cứ nền (QĐ 94/95/QĐ-BQL 18/6/2026; QĐ 880/881/QĐ-UBND 15/6/2026 xã Gia Phú; QĐ 2031/QĐ-UBND 10/6/2026) và bảng văn bản viện dẫn cố định.
+- `van-ban-goc/`: lưu 02 file QD-129-QD-BQL và QD-130-QD-BQL (bản scan có dấu).
+- `vi-du-thuc-te/`: cập nhật 03 file kỳ 07/8 (bảng theo dõi: 02 dòng Phú Xuân/Phú Xuân 1 chuyển trạng thái "ĐÃ CÓ KẾT QUẢ"; phụ lục KCN: cột tiến độ 02 dòng; nhiệm vụ tuần 10.8-16.8: gạch đầu dòng mục Khu công nghiệp).
+
 ## v1.16.1 — 07/8/2026 (chiều): bổ sung cột Tổng mức đầu tư vào 02 phụ lục thu hút đầu tư
 
 - 02 phụ lục KCN/CCN nâng lên bảng 8 cột (thêm "Tổng mức đầu tư (tỷ đồng)" sau cột Diện tích, có SUM nhóm + tổng): KCN tổng hợp 38.350,01 tỷ cho 14/21 khu (05 KCN mới theo QĐ CTĐT = 13.990,01 tỷ, báo cáo dùng 13.989 tỷ theo ref 15; 08 KCN kêu gọi theo QĐ 1382 = 24.360 tỷ; Lục Yên và các KCN hiện hữu chưa có số liệu); CCN 37 cụm giai đoạn 2026-2030 = 24.354 tỷ (ref 14) + Thống Nhất 1 = 860,008 tỷ (ref 23).

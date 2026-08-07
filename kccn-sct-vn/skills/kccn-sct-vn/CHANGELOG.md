@@ -1,4 +1,9 @@
 # CHANGELOG
+## v1.18.0 — 07/8/2026: Báo cáo BC-SCT chính thức gửi UBND tỉnh (chuyển từ bản theo dõi nội bộ)
+
+- `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo tình hình, tiến độ phát triển CCN, KCN trên địa bàn tỉnh (gửi UBND tỉnh).docx` — dựng Chế độ B từ mẫu thật vbhc-vn (bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx), giữ nguyên header 2 Line + khối ký PGĐ Nguyễn Đình Chiến; 6 mục I-VI, kết bằng Đề xuất, kiến nghị 5 điểm với UBND tỉnh; nơi nhận Như trên/TT. Tỉnh ủy (b/c)/02 BQL (p/h)/Lưu VT CN(Trung); m³ superscript; QA render 5/5 trang.
+- Quy tắc chuyển thể ghi nhận tại reference 26 mục H.6: bản nội bộ → bản gửi UBND tỉnh phải đổi giọng ("Phòng" → "Sở"; "chưa phát hành ý kiến/tồn đọng" → "đang tham gia ý kiến"), bỏ mục "cần làm rõ" nội bộ, thay bằng kiến nghị.
+
 ## v1.17.2 — 07/8/2026: hoàn thiện TMĐT phụ lục CCN — bổ sung Bảo Minh 500 tỷ
 
 - Phụ lục CCN: điền TMĐT CCN Bảo Minh = 500 tỷ đồng (Báo cáo đầu tư 14/10/2025, vốn CSH 75 tỷ = 15% + BIDV cam kết 425 tỷ; nguồn case study reference 05/07; ghi chú đối chiếu bản gốc QĐ 1397/QĐ-UBND 25/4/2026). Nhóm cụm đã thành lập tổng hợp được 1.360,01 tỷ (02/07 cụm có CĐT); tổng cột TMĐT toàn phụ lục 25.714,01 tỷ. 05 cụm còn lại (Minh Quân, Phú Thịnh 1, 2, 3, Y Can) gắn ghi chú "TMĐT: bổ sung theo QĐ chấp thuận CTĐT (hồ sơ gốc)" và để trống — quy tắc KHÔNG tạm tính theo suất vốn để tránh lẫn số liệu pháp lý.

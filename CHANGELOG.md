@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-07 (bổ sung 2) — `sd-vlncn-sct-vn` v2026.8.7.2: GP 2743/GP-UBND — ví dụ CẤP LẠI thứ hai (Gói thầu 13 QL32 – IC14, Cty An Việt)
+
+- GP 2743/GP-UBND ngày 07/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 1363/GP-UBND 22/4/2026 (hết hiệu lực 30/6/2026) cho Cty CP Đầu tư và Phát triển An Việt — Gói thầu số 13 đường nối QL32 với cao tốc Nội Bài - Lào Cai (IC14), phân đoạn nổ mìn Km1+443,80m (C32B) ÷ Km1+555,80m (C35), phường Trung Tâm. Lặp đúng khuôn GP 2726 → khuôn CẤP LẠI ổn định: hồ sơ 2 đầu mục, khối lượng = phần còn lại (53.657/65.470 kg), thời hạn đến 31/12/2026 theo tiến độ gói thầu (trùng hạn GP 2628 phân đoạn liền kề — 2 GP song song trên cùng gói thầu). Cập nhật ref 07 mục A + ref 02 mục A. Bản ký: repo web `vlncn-laocai-files/uploads/2743_GP-UBND.pdf`; CSDL web đã nạp bản ghi. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.
+
 ## 2026-08-07 (bổ sung) — `sd-vlncn-sct-vn` v2026.8.7.1: GP dịch vụ nổ mìn 34/GP-ATMT (Cty TNHH Đại Lục)
 
 - GP dịch vụ nổ mìn 34/GP-ATMT ngày 03/8/2026 — ví dụ GP dịch vụ nổ mìn đầu tiên của skill: Cục trưởng Cục KTAT&MTCN Phạm Tuấn Anh ký (đúng thẩm quyền điểm c k1 Đ4 TT 23 sđ TT 26/2026), cấp cho Cty TNHH Đại Lục (Lào Cai), phạm vi trên địa bàn tỉnh, hiệu lực đến 02/8/2028. Cập nhật ref 07 mục C + ref 04 FAQ 1. Bản ký: repo web `vlncn-laocai-files/uploads/dvnm/34_GP-ATMT.pdf`.

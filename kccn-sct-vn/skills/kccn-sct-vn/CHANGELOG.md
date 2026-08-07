@@ -1,4 +1,9 @@
 # CHANGELOG
+## v1.17.1 — 07/8/2026: bản Word chuyển thể Bảng theo dõi tiến độ
+
+- `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo theo dõi tiến độ CCN, KCN (cập nhật đến 07.8.2026).docx` — chuyển thể toàn bộ bảng theo dõi thành văn xuôi 4 mục (13 mục CCN; 7 mục KCN mở đầu bằng Phú Xuân/Phú Xuân 1 sau QĐ 129+130/QĐ-BQL; 07 CCN doanh nghiệp làm CĐT; nội dung cần làm rõ), thể thức trùng bản Nhiệm vụ tuần.
+- Reference 26 mục H: đăng ký sản phẩm thứ 5; chốt bộ sản phẩm chuẩn hằng tuần = bảng Excel + bản Word chuyển thể + tin Zalo.
+
 ## v1.17.0 — 07/8/2026 (tối): KCN Phú Xuân + Phú Xuân 1 được phê duyệt Điều chỉnh cục bộ QHPK (QĐ 129 + 130/QĐ-BQL ngày 06/8/2026)
 
 Bạn cung cấp 02 bản scan có dấu; đã GATE file gốc: QĐ 129/QĐ-BQL (Phú Xuân, 300 ha) và QĐ 130/QĐ-BQL (Phú Xuân 1, 200 ha) cùng ngày 06/8/2026 của BQL Khu kinh tế tỉnh, Trưởng ban Vương Trinh Quốc ký; căn cứ Tờ trình 32.7 + 31.7/TTr-CNLL ngày 31/7/2026 của Công ty CP công nghiệp Linh Linh và Báo cáo thẩm định 39 + 40/BC-QHXD ngày 06/8/2026.

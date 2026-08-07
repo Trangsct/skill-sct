@@ -26,6 +26,7 @@ Thư mục lưu các ví dụ thực tế (case study) đã xử lý, dùng đ�
 
 | Báo cáo tổng hợp KCN + CCN phục vụ họp UBND tỉnh (phạm vi 08 KCN BQL các KCN tỉnh) | **Báo cáo 05/8/2026** — file gốc `2026.08.05-bao-cao-kcn-ccn-hop-ubnd-tinh.docx` trong thư mục này (Giấy mời 410/GM-UBND 04/8/2026; VB 1309/VPUBND-KT 31/7/2026; PGĐ Nguyễn Đình Chiến ký, CN(Trung)); bài phát biểu GĐ Sở cùng kỳ: plugin `bpb-sct-vn` | reference 25 |
 | Kỳ cập nhật hằng tuần bộ theo dõi tiến độ + phụ lục thu hút đầu tư + tin Zalo báo cáo GĐ (thứ 6) | **Kỳ 07/8/2026** — 04 file gốc trong thư mục này: theo dõi tiến độ 5 sheet (thêm CCN Tân Hợp); 02 phụ lục thu hút đầu tư KCN (21 danh mục, 5.677,47 ha) và CCN (56 danh mục, 3.002,81 ha) cấu trúc 7 cột theo mẫu Phụ lục dự án năng lượng; nhiệm vụ tuần 10.8-16.8.2026 | reference 26 |
+| Bản Word chuyển thể từ Bảng theo dõi tiến độ (văn xuôi 4 mục I-IV, gửi lãnh đạo Phòng đọc nhanh) | **Báo cáo theo dõi tiến độ CCN, KCN 07/8/2026** — file `2026.08.07. Báo cáo theo dõi tiến độ CCN, KCN (cập nhật đến 07.8.2026).docx` trong thư mục này; thể thức kế thừa bản Nhiệm vụ tuần | reference 26 mục H |
 
 ## B. Cách dùng
 

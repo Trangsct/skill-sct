@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-07 (bổ sung) — `sd-vlncn-sct-vn` v2026.8.7.1: GP dịch vụ nổ mìn 34/GP-ATMT (Cty TNHH Đại Lục)
+
+- GP dịch vụ nổ mìn 34/GP-ATMT ngày 03/8/2026 — ví dụ GP dịch vụ nổ mìn đầu tiên của skill: Cục trưởng Cục KTAT&MTCN Phạm Tuấn Anh ký (đúng thẩm quyền điểm c k1 Đ4 TT 23 sđ TT 26/2026), cấp cho Cty TNHH Đại Lục (Lào Cai), phạm vi trên địa bàn tỉnh, hiệu lực đến 02/8/2028. Cập nhật ref 07 mục C + ref 04 FAQ 1. Bản ký: repo web `vlncn-laocai-files/uploads/dvnm/34_GP-ATMT.pdf`.
+
 ## 2026-08-07 — `sd-vlncn-sct-vn` v2026.8.7: GP 2726/GP-UBND — ví dụ CẤP LẠI giấy phép đầu tiên (QL4D Mường Khương)
 
 - GP 2726/GP-UBND ngày 06/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 169/GP-UBND 23/01/2026 cho Cty TNHH Anh Nam Xuân Thủy — Gói thầu số 05 xử lý vị trí tiềm ẩn TNGT Km183÷Km188 QL4D, xã Mường Khương. Chốt nghiệp vụ CẤP LẠI: Luật 42/2024 không có "gia hạn"; hồ sơ 2 đầu mục (giấy đề nghị cấp lại + báo cáo tình hình sử dụng); khối lượng = phần CÒN LẠI theo báo cáo (5.580/11.607 kg); thời hạn theo tiến độ còn lại (đến 31/8/2026).

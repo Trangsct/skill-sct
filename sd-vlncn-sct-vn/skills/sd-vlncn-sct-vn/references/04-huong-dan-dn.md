@@ -59,7 +59,7 @@ Nơi nộp: Trung tâm Phục vụ hành chính công tỉnh Lào Cai / Cổng D
 
 ## D. FAQ THƯỜNG GẶP
 
-**1. "Chúng tôi chỉ cần phá đá một hạng mục nhỏ, có phải xin GP không?"** — Nếu quy mô < 500 kg/quý hoặc không đủ điều kiện: thuê DN có GP dịch vụ nổ mìn; bên thuê KHÔNG cần GP (điểm a k3 Đ40), nhưng chỉ được thuê tối đa 02 đơn vị/1 loại dịch vụ/1 khu vực và phải phân định bằng văn bản có đại diện SCT tham gia.
+**1. "Chúng tôi chỉ cần phá đá một hạng mục nhỏ, có phải xin GP không?"** — Nếu quy mô < 500 kg/quý hoặc không đủ điều kiện: thuê DN có GP dịch vụ nổ mìn; bên thuê KHÔNG cần GP (điểm a k3 Đ40), nhưng chỉ được thuê tối đa 02 đơn vị/1 loại dịch vụ/1 khu vực và phải phân định bằng văn bản có đại diện SCT tham gia. DN dịch vụ nổ mìn có GP còn hiệu lực hoạt động trên địa bàn: **Cty TNHH Đại Lục — GP 34/GP-ATMT ngày 03/8/2026, hiệu lực đến 02/8/2028** (ref 07 mục C; danh sách đầy đủ tra hồ sơ theo dõi của Phòng trước khi trả lời DN).
 
 **2. "GP của chúng tôi do Cục cấp trước đây, nay còn dùng được không?"** — GP còn hiệu lực tiếp tục dùng đến hết hạn; khi cấp lại/điều chỉnh thực hiện theo thẩm quyền mới (UBND tỉnh, trừ DN có GP khoáng sản do Bộ NN&MT cấp → vẫn Cục KTAT&MTCN).
 

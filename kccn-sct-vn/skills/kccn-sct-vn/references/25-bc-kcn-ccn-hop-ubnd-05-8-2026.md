@@ -104,7 +104,7 @@ Diễn đạt chuẩn trong báo cáo: chỉ tiêu "100% KCN có công trình XL
 - Thành lập mới năm 2026: **CCN Bảo Minh (60 ha, tháng 3/2026)**.
 - **CCN Thống Nhất 1** (xã Gia Phú): hoàn thành GPMB **74,97 ha**, khởi công hạ tầng **07/5/2026**.
 - **CCN Phú Thịnh 3: khởi công ngày 16/7/2026** (CĐT Công ty CP Công nghiệp EUP) — mốc MỚI so với reference `17`.
-- Đang hoàn thiện thủ tục thành lập, lựa chọn CĐT hạ tầng: **Yên Hợp 2, Tân Nguyên, Châu Quế, Mông Sơn, An Thịnh** (05 cụm).
+- Đang hoàn thiện thủ tục thành lập, lựa chọn CĐT hạ tầng: **Yên Hợp 2, Tân Nguyên, Châu Quế, Mông Sơn, An Thịnh** (05 cụm). *(Cập nhật sau kỳ báo cáo: CCN Mông Sơn đã có QĐ 2736/QĐ-UBND ngày 06/8/2026 thành lập Hội đồng đánh giá lựa chọn CĐT — reference `06`; CCN Cam Đường 1 đã có TB 831/TB-UBND ngày 06/8/2026 của UBND phường Cam Đường: 01 hồ sơ của Công ty CP 289 Trường Sơn đề nghị làm CĐT giai đoạn 1, 11,36 ha.)*
 - Đang lấy ý kiến sở, ngành về hồ sơ thành lập: **Báo Đáp, Bắc Văn Yên, Đông An**.
 - Đang hướng dẫn UBND cấp xã hoàn thiện hồ sơ: **Bản Phiệt 1, Phú Thịnh 4, Phú Thịnh 6**.
 - Mục tiêu: hoàn thành VƯỢT chỉ tiêu thành lập mới 05 CCN năm 2026 theo NQ 34-NQ/TU.

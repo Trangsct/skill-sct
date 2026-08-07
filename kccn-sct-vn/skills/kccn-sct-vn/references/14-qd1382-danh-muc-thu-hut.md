@@ -50,7 +50,7 @@ Theo Báo cáo Sở Công Thương ngày 18/6/2026, 35 CCN này (cùng 02 CCN m�
 |---|---|---|---|---|---|
 | 1 | Châu Quế | xã Châu Quế | 75 | 900 | Công ty CP Thịnh Vượng Long; VB xin ý kiến 2694/STC-CN ngày 14/5/2026; trình thành lập tháng 7/2026 |
 | 2 | Yên Hợp 2 | xã Xuân Ái [*] | 75 | 900 | Công ty CP PH Green; VB 2695/STC-CN ngày 14/5/2026; trình thành lập tháng 7/2026 |
-| 3 | Mông Sơn | xã Bảo Ái | 50 | 600 | Công ty CP Đầu tư Xây dựng Hạ tầng CRC; Thông báo 99/TB-UBND ngày 02/6/2026; trình thành lập tháng 8/2026 |
+| 3 | Mông Sơn | xã Bảo Ái | 50 | 600 | Công ty CP Đầu tư Xây dựng Hạ tầng CRC; Thông báo 99/TB-UBND ngày 02/6/2026; **QĐ 2736/QĐ-UBND ngày 06/8/2026 thành lập Hội đồng đánh giá lựa chọn CĐT** (Tờ trình 4534/TTr-SCT 29/7/2026) — reference `06` |
 | 4 | Tân Nguyên | xã Bảo Ái | 55 | 660 | Công ty TNHH SX và TM 186 Yên Bái; VB 3433/SCT-CN ngày 12/6/2026; trình thành lập tháng 8/2026 |
 | 5 | Bảo Hưng 2 | phường Âu Lâu | 50 | 600 | Công ty CP Công nghiệp EUP; vướng chồng lấn Vietquartz (reference 11 mục E), Sở Tài chính đang chủ trì giải quyết |
 
@@ -95,6 +95,8 @@ Theo Báo cáo Sở Công Thương ngày 18/6/2026, 35 CCN này (cùng 02 CCN m�
 | 25 | Bảo Thắng | xã Bảo Thắng | 40 | 480 |
 | 26 | Trà Trẩu | xã Bảo Thắng | 35 | 420 |
 | 27 | Mường Khương | xã Mường Khương | 30 | 360 |
+
+**Cập nhật 8/2026 — CCN Cam Đường 1 (TT 15) đã có nhà đầu tư nộp hồ sơ:** UBND phường Cam Đường thông báo tiếp nhận hồ sơ đề nghị làm CĐT hạ tầng tại TB 711/TB-UBND ngày 22/7/2026 (đợt tiếp nhận 22/7 - 17h00 ngày 05/8/2026); kết quả công khai tại **TB 831/TB-UBND ngày 06/8/2026** (Chủ tịch Nguyễn Xuân Nhẫn ký): nhận được duy nhất **01 hồ sơ của Công ty CP 289 Trường Sơn** (GCN ĐKDN 0106028855, trụ sở phường Nghĩa Đô, TP Hà Nội) đề nghị làm CĐT xây dựng hạ tầng kỹ thuật **giai đoạn 1 — 11,36 ha**. Bước tiếp theo: UBND phường lập hồ sơ gửi SCT thẩm định theo Đ.10 NĐ 32/2024 (văn bản gốc: `van-ban-goc/TB-831-2026-UBND-Cam-Duong-tiep-nhan-ho-so-CCN-Cam-Duong-1.pdf`).
 
 Suất vốn áp dụng cho CCN 5-75 ha: 7.611 triệu đồng/ha (QĐ 425/QĐ-BXD ngày 30/3/2026). KCN: 9.716 tr/ha (<100 ha); 8.948 tr/ha (100-300 ha); 8.241 tr/ha (>300 ha).
 

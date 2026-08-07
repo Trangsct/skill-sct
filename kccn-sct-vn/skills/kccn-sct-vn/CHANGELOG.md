@@ -1,4 +1,10 @@
 # CHANGELOG
+## v1.18.2 — 07/8/2026: đính chính mục I.2 Báo cáo gửi UBND tỉnh — 23 cụm = 16 UBND xã + 07 doanh nghiệp
+
+- Mục I.2 báo cáo viết lại theo chốt của Bạn: "23 cụm đã thành lập, đang hoạt động, gồm 16 cụm do UBND cấp xã quản lý (hạ tầng đầu tư từ ngân sách nhà nước) và 07 cụm do doanh nghiệp làm chủ đầu tư hạ tầng"; các cụm thành lập mới trình bày riêng (09 đang thẩm định; 07 đang hoàn thiện hồ sơ; còn lại kêu gọi).
+- Reference 26 mục B.2: bổ sung cảnh báo HAI CON SỐ 23 KHÁC NGHĨA (23 "đã có nhà đầu tư" trong tin Zalo ≠ 23 "đã thành lập" = 16+7 trong văn bản chính thức) — văn bản chính thức dùng cách 16+7.
+- `vi-du-thuc-te/`: thay file báo cáo bản cuối.
+
 ## v1.18.1 — 07/8/2026: viết lại Báo cáo gửi UBND tỉnh theo khuôn thống nhất + 2 đính chính của Bạn
 
 - Bản BC-SCT gửi UBND tỉnh viết lại toàn bộ theo khuôn hành chính thống nhất, 4 trang: mục II tái cấu trúc theo 4 nhóm tiến độ (04 cụm đã có Hội đồng → 03 cụm đang lấy ý kiến ghi rõ x/06 cơ quan → 07 cụm tiếp nhận/hoàn thiện hồ sơ → 03 cụm chuẩn bị quy hoạch, hạ tầng); mục IV gom đủ 07 cụm doanh nghiệp làm CĐT theo cùng khuôn (địa điểm - quy mô - TMĐT - mốc - tiến độ - vướng mắc, bổ sung Bảo Minh); mục V nhiệm vụ 4 điểm; mục VI kiến nghị 5 điểm; khối ký trọn trang cuối (đã nén spacing after 120→80 để hết gãy trang).

@@ -1,4 +1,13 @@
 # CHANGELOG
+## v1.16.0 — 07/8/2026: reference 26 — kỳ cập nhật 07/8/2026 + chuẩn hóa phụ lục thu hút đầu tư theo mẫu năng lượng + báo cáo Zalo thứ 6 hằng tuần
+
+Phiên 07/8/2026: Bạn cung cấp Sổ văn bản đến/đi kết xuất 07/8/2026, bộ theo dõi bản 03/8 và mẫu Phụ lục dự án năng lượng (Phòng QLNL). GĐ Sở Hoàng Chí Hiền chỉ đạo qua Zalo: Phòng QLCN tổng hợp báo cáo thu hút dự án KCN, CCN tương tự mảng năng lượng, báo cáo THỨ 6 HẰNG TUẦN.
+
+- **Mới `references/26-ky-cap-nhat-07-8-2026.md`**: (A) chỉ đạo + mẫu tin Zalo chuẩn văn phong QLNL, quy tắc soạn kỳ sau, hai cách đếm 23/56 và 16/56; (B) số liệu tổng hợp chuẩn 21 KCN 5.677,47 ha (bảng 6 nhóm + tên NĐT 5 KCN mới kèm số QĐ) và 56 CCN 3.002,81 ha (bảng 4 nhóm; sửa lỗi Yên Thế 39.397→39,97 ha); (C) 13 diễn biến 30/7-07/8 đã GATE từ sổ văn bản: Yên Hợp 2 họp chấm điểm (4760/GM-HĐ 07/8, GĐ ký), Tân Nguyên đủ 5 ý kiến + BC tiếp thu 4764/BC-SCT 07/8, Mông Sơn có Hội đồng (2736/QĐ-UBND 07/8), Hưng Khánh 4/6 ý kiến, Cam Đường 1 (TB 831 07/8), Phú Thịnh 1 Hội đồng GPMT (678/QĐ-SNNMT 06/8), Phú Thịnh 6 vướng mắc lần 2 (443/BC-UBND 04/8), Tân Hợp mới phát sinh (4936/SXD-PTĐT 04/8), triển khai NĐ 303 (4679/SCT-CN 04/8 + sao y 839/SY-VPUBND 05/8), họp KCN (410/GM-UBND 04/8), Tằng Loỏng 2 văn bản SCT-KH 03/8, Võ Lao 7493/SNNMT-CCMT 06/8, danh sách 4 việc tồn đọng; (D) cấu trúc chuẩn phụ lục thu hút đầu tư 7 cột theo mẫu năng lượng (khối tổng hợp + công thức SUM nhóm + TEXT nối chuỗi tự cập nhật); (E) 6 cảnh báo số liệu vênh (6 CCN 2 diện tích; TB 831 chưa rõ cơ quan; VB 4830/CAT-PA04 chưa rõ cụm; Cam Đường 200/196,3 ha + 2 cách ghi tên Lê Premium; địa danh Đông An); (F) quy trình cập nhật thứ 6 hằng tuần 5 bước; (G) bảng 21 văn bản viện dẫn cố định phát sinh trong kỳ; (H) danh mục 4 file sản phẩm.
+- `vi-du-thuc-te/`: lưu 04 file gốc kỳ 07/8/2026 (theo dõi tiến độ 5 sheet — thêm dòng CCN Tân Hợp; 02 phụ lục thu hút đầu tư KCN/CCN cấu trúc mới; nhiệm vụ tuần 10.8-16.8.2026) + đăng ký case trong README.
+- `SKILL.md`: mục I.8 + bảng reference bổ sung reference 26.
+- Lưu ý kế thừa: reference 26 MỚI HƠN reference 17 (20/7) và 25 (31/7) về tiến độ CCN/danh mục thu hút đầu tư; số liệu SXKD/GPMB/lấp đầy chi tiết vẫn theo reference 25.
+
 ## v1.15.0 — 05/8/2026: reference 25 — Báo cáo KCN/CCN họp UBND tỉnh 05/8/2026 (số liệu chốt 31/7/2026)
 
 Bạn hoàn thiện và cung cấp bản chuẩn 02 văn bản ngày 05/8/2026: Báo cáo Sở Công Thương gửi UBND tỉnh về tình hình phát triển KCN, CCN (họp theo Giấy mời 410/GM-UBND 04/8/2026 + VB 1309/VPUBND-KT 31/7/2026; PGĐ Nguyễn Đình Chiến ký, CN(Trung)) và Bài phát biểu của Giám đốc Sở tại cuộc họp (chủ trì: Chủ tịch UBND tỉnh Nguyễn Tuấn Anh; dự: PCT Nguyễn Thành Sinh).

@@ -122,7 +122,8 @@ Vận dụng thực tiễn tại Lào Cai (CV 2826/SCT-CN): kho VLNCN cố đị
 
 ## IV. VĂN BẢN ĐỊA PHƯƠNG LÀO CAI
 - **QĐ 05/2025/QĐ-UBND ngày 01/7/2025**: chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Sở Công Thương — căn cứ bắt buộc trong văn bản của Sở.
-- **QĐ 1883/QĐ-UBND ngày 06/11/2025**: ủy quyền cấp GP sử dụng VLNCN trên địa bàn tỉnh (⚠ xác minh số/ngày/phạm vi/thời hạn với Bạn trước khi viện dẫn trong văn bản chính thức).
+- ✅ **QĐ 1883/QĐ-UBND ngày 06/11/2025** (bản ký thật: `hl-vlncn-sct-vn/van-ban-goc/2025.11.06-1883...ban-ky.pdf`): ủy quyền GĐ SCT **huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN** (TTHC 2.000229, 2.000210), đến hết 28/02/2027. ⚠ KHÔNG phải ủy quyền cấp GP sử dụng VLNCN — GP sử dụng vẫn do Chủ tịch UBND tỉnh ký `/GP-UBND` (thẩm quyền k3 Đ4 TT 23/2024 bản TT 26/2026).
+- ⭐ **QĐ 2272/QĐ-UBND ngày 29/6/2026** (hiệu lực 01/7/2026; bản ký: `sd-vlncn-sct-vn/van-ban-goc/2026.06.29-2272...pdf`): **SCT là cơ quan tiếp nhận hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** — liên quan trực tiếp khi hồ sơ có hạng mục kho TCTN (Đ16 NĐ 181/2024, QCVN 04:2020/BCT).
 - Quy định của UBND tỉnh về quản lý hoạt động xây dựng trên địa bàn (viện dẫn dạng chung như tiền lệ; cần số cụ thể → hỏi Bạn).
 - QĐ công bố TTHC lĩnh vực VLNCN của tỉnh: tra cứu khi hướng dẫn nộp hồ sơ dịch vụ công.
 

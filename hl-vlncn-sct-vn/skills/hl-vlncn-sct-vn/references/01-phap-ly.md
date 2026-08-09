@@ -73,7 +73,8 @@ GCN cấp trước 01/01/2025 còn hạn → dùng đến hết hạn ghi trên 
 "1. Nhiệm vụ, quyền hạn của Bộ Công Thương về huấn luyện, kiểm tra, cấp, cấp lại giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp quy định tại khoản 1 Điều 6, Điều 9 và điểm b khoản 1 Điều 18 Nghị định số 181/2024/NĐ-CP do **Ủy ban nhân dân cấp tỉnh** thực hiện.
 2. Trình tự, thủ tục thực hiện khoản 1 Điều này được quy định tại Phụ lục VII ban hành kèm theo Nghị định này."
 
-## C. QĐ 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai (nội dung chính)
+## C. QĐ 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai — ✅ ĐÃ CÓ BẢN KÝ THẬT
+Bản ký (PDF, GATE đã xác minh số/ngày/người ký 09/8/2026): `van-ban-goc/2025.11.06-1883.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf` + Phụ lục `2025.11.06-1883.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-ky.pdf`. Khi viện dẫn trong văn bản chính thức dùng thẳng số/ngày này, không cần xác minh lại.
 - **Điều 1**: Ủy quyền GĐ Sở Công Thương thực hiện nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN theo Phụ lục:
   - Cấp GCN huấn luyện KTAT VLNCN thuộc thẩm quyền của SCT — TTHC **2.000229**;
   - Cấp lại GCN huấn luyện KTAT VLNCN — TTHC **2.000210**;

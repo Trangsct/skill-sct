@@ -6,7 +6,9 @@
 | **2026.03.26-78.VBHN.VPQH-...docx** | ⭐ Văn bản hợp nhất 78/VBHN-VPQH ngày 26/3/2026 (Luật 42/2024 + Luật 118/2025) | Tra nội dung hiện hành. **Luật 118/2025 KHÔNG sửa Đ38, 42 Luật 42/2024 và không chạm Đ4–9 NĐ 181** → quy trình huấn luyện giữ nguyên |
 | 2025.12.10-118.2025.QH15-...docx | Luật 118/2025/QH15 ngày 10/12/2025 (hiệu lực 01/7/2026) | Đối chiếu khi cần khẳng định "không thay đổi quy trình huấn luyện"; k8 Đ9 (k5 Đ44) liên quan nơi nộp hồ sơ TCTN |
 | 2026.01.22-09.2026.TT.BQP-...docx | Thông tư 09/2026/TT-BQP ngày 22/01/2026 (hiệu lực 22/01/2026) | **k7 Đ1: Cục Quản lý Công nghệ (BQP) huấn luyện, kiểm tra, cấp GCN KTAT cho khối BQP** → Sở KHÔNG tiếp nhận hồ sơ của DN quốc phòng |
-| QD-uy-quyen-VLNCN_du-thao-trinh-TTr-2205_ban-hanh-QD-1883-UBND-6.11.2025.docx | QĐ ủy quyền GĐ SCT lĩnh vực VLNCN — bản dự thảo trình kèm TTr 2205/TTr-SCT 28/10/2025 | Bản ban hành chính thức: **QĐ 1883/QĐ-UBND ngày 06/11/2025**, PCT Nguyễn Thành Sinh ký; hiệu lực đến hết 28/02/2027 |
+| ⭐ **2025.11.06-1883.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf** | **QĐ 1883/QĐ-UBND ngày 06/11/2025 — BẢN KÝ THẬT** (GATE xác minh 09/8/2026) | Ủy quyền GĐ SCT: huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN; hiệu lực đến hết 28/02/2027; PCT Nguyễn Thành Sinh ký. **Nguồn viện dẫn chuẩn** |
+| **2025.11.06-1883.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-ky.pdf** | Phụ lục kèm QĐ 1883 — bản ký | Danh mục nhiệm vụ ủy quyền + TTHC 2.000229 (cấp), 2.000210 (cấp lại); căn cứ k1 Đ24 NĐ 146/2025 |
+| QD-uy-quyen-VLNCN_du-thao-trinh-TTr-2205_ban-hanh-QD-1883-UBND-6.11.2025.docx | QĐ ủy quyền — bản dự thảo trình kèm TTr 2205/TTr-SCT 28/10/2025 (giữ để đối chiếu quá trình soạn) | Nội dung đã kiểm khớp bản ký |
 | Phu-luc-danh-muc-uy-quyen-VLNCN_TTHC-2.000229-2.000210.docx | Phụ lục danh mục nhiệm vụ ủy quyền | TTHC 2.000229 (cấp), 2.000210 (cấp lại); căn cứ k1 Đ24 NĐ 146/2025 |
 | CV-UBND-KT_giao-SCT-tham-muu-uy-quyen_truoc-15.9.2025.docx | CV UBND tỉnh giao SCT chủ trì, phối hợp Sở Tư pháp tham mưu ủy quyền | Văn bản khởi nguồn quy trình ủy quyền |
 

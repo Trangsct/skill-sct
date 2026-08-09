@@ -43,10 +43,16 @@ Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/N�
 - **MỚI `mau-van-ban/21-cv-trien-khai-luat-118-2025.md`** + dự thảo docx `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx` (Chế độ B từ `CV-don-doc-bao-quan-su-dung-VLNCN.docx`, QA PASS 2 trang): công văn gửi các tổ chức, doanh nghiệp VLNCN triển khai 8 nhóm nội dung mới có hiệu lực 01/7/2026, trọng tâm là **nghĩa vụ thông báo gửi kho đến UBND tỉnh**. Không nêu chế tài (Nhóm I văn phong công văn gửi doanh nghiệp). Người ký PGĐ Hoàng Văn Thuân, Lưu VT, CN(Khôi).
 - Header mẫu gốc đã chuẩn hóa: "CỘNG HOÀ" → "CỘNG HÒA"; tiêu ngữ chuyển sang en dash; dòng Số và dòng ngày đặt 13pt tường minh.
 
+### Bổ sung cùng ngày (đợt 2) — tích hợp 2 QĐ bản ký của UBND tỉnh do Bạn cung cấp
+- ⭐ **QĐ 2272/QĐ-UBND ngày 29/6/2026** (bản ký, GATE xác minh; hiệu lực 01/7/2026, PCT Nguyễn Thành Sinh ký; trình tại TTr 2869/TTr-SCT 21/5/2026): **Sở Công Thương là cơ quan tiếp nhận hồ sơ** cấp, cấp lại, cấp điều chỉnh GCN đủ điều kiện sản xuất tiền chất thuốc nổ; Đ2 phân trách nhiệm SCT – Công an tỉnh (ANTT, PCCC) – sở ngành – UBND cấp xã. Đã tích hợp vào: `sd-vlncn` ref 10 (dòng A2, A9, bảng E-k8 chuyển ✅ ĐÃ THỰC HIỆN), ref 01 mục 9, INDEX; `kho-vlncn` SKILL (văn bản địa phương — liên quan kho TCTN); `hl-vlncn` SKILL mục 6a (nhân sự huấn luyện trong hồ sơ GCN sản xuất TCTN); `xp-hc-vlncn` ref 06 (Nhóm A). Văn bản gốc (pdf ký + docx dự thảo): `sd-vlncn/van-ban-goc/2026.06.29-2272.QD.UBND-...`.
+- ✅ **QĐ 1883/QĐ-UBND ngày 06/11/2025 bản ký thật + Phụ lục** → `hl-vlncn/van-ban-goc/2025.11.06-1883...ban-ky.pdf`; xác nhận phạm vi ủy quyền = GCN huấn luyện KTAT (TTHC 2.000229, 2.000210), khớp với sửa đổi đợt 1 tại kho-vlncn. Gỡ toàn bộ ghi chú "xác minh số/ngày với Bạn" ở sd-vlncn ref 01, kho-vlncn SKILL, hl-vlncn ref 01/SKILL — viện dẫn thẳng.
+- Mẫu 21 + dự thảo công văn triển khai Luật 118/2025: mục 6 viết lại theo QĐ 2272 (nêu đích danh Sở Công Thương là cơ quan tiếp nhận); tinh chỉnh bố cục về đúng 2 trang, khối ký trọn trang 2, QA PASS.
+- Gỡ dòng chờ xác nhận về mốc hiệu lực NĐ 282/2025 tại `xp-hc-vlncn` ref 06 (đã đối chiếu kỹ Đ69).
+
 ### Việc Bạn cần làm tiếp (nghiệp vụ)
-1. **Mở sổ theo dõi thông báo gửi kho** và bổ sung nội dung này vào công văn tuyên truyền/đôn đốc gửi các DN VLNCN — nghĩa vụ mới từ 01/7/2026, đa số DN chưa nắm.
-2. Rà soát xem tỉnh đã có văn bản **quy định cơ quan tiếp nhận hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** theo k5 Đ44 chưa.
-3. Xác nhận lại phạm vi **QĐ 1883/QĐ-UBND** (ủy quyền cấp GCN huấn luyện, không phải GP sử dụng).
+1. **Mở sổ theo dõi thông báo gửi kho** và ban hành công văn tuyên truyền (dự thảo mẫu 21 đã sẵn) — nghĩa vụ mới từ 01/7/2026, đa số DN chưa nắm.
+2. ~~Rà soát văn bản quy định cơ quan tiếp nhận hồ sơ GCN sản xuất TCTN~~ → **ĐÃ CÓ: QĐ 2272/QĐ-UBND ngày 29/6/2026**.
+3. ~~Xác nhận phạm vi QĐ 1883/QĐ-UBND~~ → **ĐÃ XÁC NHẬN bằng bản ký thật**: ủy quyền GCN huấn luyện, không phải GP sử dụng.
 
 
 ## 2026-08-08 (bổ sung) — `vbhc-vn` v2.9.0: ĐẠI TU chống phình

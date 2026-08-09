@@ -71,4 +71,4 @@ Ngược lại, nếu hành vi đã có tại Điều 12 NĐ 282/2025 thì **kh�
 - NĐ 282/2025 **không còn** phần phòng cháy, chữa cháy, cứu nạn cứu hộ như NĐ 144/2021 — chế tài PCCC nằm ở nghị định riêng; khi vụ việc chạm PCCC kho VLNCN, dùng skill `pccc-sct-vn`, **không** viện dẫn NĐ 144/2021 (đã hết hiệu lực từ 15/12/2025).
 - Hành vi xảy ra và kết thúc **trước 15/12/2025** thuộc nhóm ANTT → vẫn áp dụng NĐ 144/2021 (khoản 1 Điều 70 NĐ 282/2025).
 - Toàn văn NĐ 282/2025: `van-ban-goc/2025.10.30-282.2025.ND.CP-Xu-phat-VPHC-an-ninh-trat-tu-ATXH.docx`.
-- ⚠️ **Cần Bạn xác nhận:** ngày hiệu lực 15/12/2025 của NĐ 282/2025 được đọc từ khoản 1 Điều 69 của chính file gốc Bạn cung cấp. Nếu có văn bản lùi hiệu lực hoặc bản đính chính, báo lại để cập nhật bảng mục I.
+- ✅ Mốc hiệu lực tại bảng mục I đã được đối chiếu trực tiếp với khoản 1, 2, 4 Điều 69 NĐ 282/2025 và khoản 1, 2 Điều 75 NĐ 275/2026 (bản gốc trong `van-ban-goc/`), xác nhận ngày 09/8/2026.

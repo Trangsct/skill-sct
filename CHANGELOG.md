@@ -39,6 +39,10 @@ Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/N�
 - `SKILL.md`: khối cảnh báo trạng thái hiệu lực đặt đầu mục IV; thêm mục 1a, 1b vào Văn bản lõi; thêm nhánh phân định NĐ 282/2025 vào "Khi nào dùng"; description viết lại.
 - `van-ban-goc/`: +2 file (NĐ 282/2025, VBHN 78) + INDEX.md cập nhật.
 
+### Bổ sung cùng ngày — mẫu 21 `sd-vlncn-sct-vn`
+- **MỚI `mau-van-ban/21-cv-trien-khai-luat-118-2025.md`** + dự thảo docx `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx` (Chế độ B từ `CV-don-doc-bao-quan-su-dung-VLNCN.docx`, QA PASS 2 trang): công văn gửi các tổ chức, doanh nghiệp VLNCN triển khai 8 nhóm nội dung mới có hiệu lực 01/7/2026, trọng tâm là **nghĩa vụ thông báo gửi kho đến UBND tỉnh**. Không nêu chế tài (Nhóm I văn phong công văn gửi doanh nghiệp). Người ký PGĐ Hoàng Văn Thuân, Lưu VT, CN(Khôi).
+- Header mẫu gốc đã chuẩn hóa: "CỘNG HOÀ" → "CỘNG HÒA"; tiêu ngữ chuyển sang en dash; dòng Số và dòng ngày đặt 13pt tường minh.
+
 ### Việc Bạn cần làm tiếp (nghiệp vụ)
 1. **Mở sổ theo dõi thông báo gửi kho** và bổ sung nội dung này vào công văn tuyên truyền/đôn đốc gửi các DN VLNCN — nghĩa vụ mới từ 01/7/2026, đa số DN chưa nắm.
 2. Rà soát xem tỉnh đã có văn bản **quy định cơ quan tiếp nhận hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** theo k5 Đ44 chưa.

@@ -1,7 +1,7 @@
 {
   "name": "vbhc-vn",
-  "version": "2.7.1",
-  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 21 mẫu thật, Chế độ A/B, 9 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape và assert đếm pict, khử gen lỗi mẫu thật; Kính gửi 1 nơi = 1 dòng căn giữa không bảng. Kèm mẫu vàng công văn xin ý kiến về dự thảo VBQPPL của bộ.",
+  "version": "2.8.0",
+  "description": "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: 9 template trắng + 21 mẫu thật, Chế độ A/B, 10 nhóm anti-error, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require), đọc metadata PDF văn bản đến; H5: helper thay text phải kiểm run chứa shape và assert đếm pict, khử gen lỗi mẫu thật; Kính gửi 1 nơi = 1 dòng căn giữa không bảng. Kèm mẫu vàng công văn xin ý kiến về dự thảo VBQPPL của bộ; Nhóm K (vụ 08/8/2026): keepNext chỉ cho đề mục (chuỗi keepNext trên khoản nội dung gây trống nửa cuối trang trong Word), bold đề mục SAU khi clone, đệm 12pt khi đổi header khác cấp, Line VML 70/110pt y 2-3pt, giữ 1 dòng đệm trước khối ký, nhãn a) nghiêng nội dung đứng; qa_pdf_check.py thêm audit keepNext (WARN).",
   "author": {
     "name": "Trangsct"
   }

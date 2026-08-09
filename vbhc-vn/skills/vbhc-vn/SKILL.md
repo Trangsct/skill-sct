@@ -1,6 +1,6 @@
 ---
 name: vbhc-vn
-description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 9 nhóm anti-error; QA một phát qa_all.py (render 1 lần + ảnh ghép: widow, khối ký, Line header, 13pt Số/Ngày, chiều cao dòng bảng); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
+description: "Soạn thảo, rà soát văn bản hành chính (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng cho tham mưu, thẩm định, góp ý, bài phát biểu, VBQPPL; nhận PDF văn bản đến thì chạy scripts/extract_metadata.py đọc đúng số/ngày/người ký. Gồm: Chế độ A (template trắng), Chế độ B (sửa file gốc); 10 nhóm anti-error; QA một phát qa_all.py (render 1 lần + ảnh ghép: widow, khối ký, Line header, 13pt Số/Ngày, chiều cao dòng bảng); 3 Phụ lục NĐ 30/2020 (thể thức, viết hoa, viết tắt). Trigger: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; tên file PDF chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND."
 ---
 
 # vbhc-vn — Soạn văn bản hành chính từ mẫu thật của Sở Công Thương Lào Cai
@@ -17,7 +17,7 @@ Skill có **2 chế độ làm việc** (xem mục "Hai chế độ làm việc"
 SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc đúng file khi cần, để tiết kiệm ngữ cảnh):
 - `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
 - `reference/thu-vien-mau-that.md` — 21 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
-- `reference/phong-tranh-sai-lam.md` — chi tiết 9 nhóm sai lầm + checklist + vụ thật (Nhóm I: văn phong công văn gửi doanh nghiệp).
+- `reference/phong-tranh-sai-lam.md` — chi tiết 10 nhóm sai lầm + checklist + vụ thật (Nhóm I: văn phong công văn gửi doanh nghiệp).
 - `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
 - `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
 - `reference/cong-cu-ky-thuat.md` — công thức kỹ thuật ĐÃ KIỂM CHỨNG (giải nén RAR/RAR5 tên tiếng Việt, OCR PDF scan/chữ ký số, sửa docx đa run, QA render) — đọc TRƯỚC khi xử lý file nén/PDF scan/sửa XML, không mò lại từ đầu.
@@ -41,7 +41,7 @@ Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** c�
 
 Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `QĐ-SCT`, `GP-SCT`, `GCNATTP-SCTLC`.
 
-**Luôn áp dụng mục "Phòng tránh 9 nhóm sai lầm tham mưu"** (đã hợp nhất từ `anti-error-sct-vn`) ở cuối skill này: tránh bịa số văn bản, suy diễn nhiệm vụ, dùng từ suy đoán trong bản trình ký, dùng VBPL hết hiệu lực, tin context window với PDF; và **Nhóm I - văn phong công văn gửi doanh nghiệp**: không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm, không viết "đề nghị liên hệ Phòng ... để được hướng dẫn". Xem mục "Đọc PDF văn bản đến" (đã hợp nhất từ vbhc-pdf-reader-vn — xác minh số/ngày từ PDF công văn đến). Đối chiếu nội dung chuyên môn với `kcn-ccn-vn`/`hnh-sct-vn`.
+**Luôn áp dụng mục "Phòng tránh 10 nhóm sai lầm tham mưu"** (đã hợp nhất từ `anti-error-sct-vn`) ở cuối skill này: tránh bịa số văn bản, suy diễn nhiệm vụ, dùng từ suy đoán trong bản trình ký, dùng VBPL hết hiệu lực, tin context window với PDF; và **Nhóm I - văn phong công văn gửi doanh nghiệp**: không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm, không viết "đề nghị liên hệ Phòng ... để được hướng dẫn"; **Nhóm K - bố cục trang khi lắp ghép**: keepNext chỉ cho đề mục, format đề mục sau khi clone, giữ khoảng đệm header/khối ký. Xem mục "Đọc PDF văn bản đến" (đã hợp nhất từ vbhc-pdf-reader-vn — xác minh số/ngày từ PDF công văn đến). Đối chiếu nội dung chuyên môn với `kcn-ccn-vn`/`hnh-sct-vn`.
 
 ## Thể thức, văn phong và rà soát (quy ước cố định của Bạn — hợp nhất từ bộ nhớ)
 
@@ -255,7 +255,7 @@ Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Ch�
 ## Công thức & checklist thực chiến
 Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, lặp dòng tiêu đề, nền trắng), đồng bộ chéo Báo cáo↔Phụ lục↔VP UBND, toàn vẹn số liệu/metadata, mã người soạn dòng "Lưu" — đọc khi dựng biểu hoặc đồng bộ nhiều file: **`reference/cong-thuc-thuc-chien.md`**.
 
-## Phòng tránh 9 nhóm sai lầm tham mưu (luôn áp dụng)
+## Phòng tránh 10 nhóm sai lầm tham mưu (luôn áp dụng)
 Áp dụng cho mọi việc soạn/rà soát/góp ý/tham mưu (không chỉ tạo .docx). Tóm tắt dưới đây; checklist đầy đủ + `scripts/check_document.py` + các vụ thật ở **`reference/phong-tranh-sai-lam.md`**.
 - **A — Pháp lý:** không điền số/ngày văn bản hay nội dung điều/khoản từ trí nhớ; phải có nguồn hoặc tra cứu, chưa rõ thì ghi "[cần xác minh]". *Vì sai một số văn bản trong tờ trình/phát biểu của Lãnh đạo gây hậu quả nặng.*
 - **B — Nhiệm vụ:** mỗi nhiệm vụ đề xuất Sở làm phải truy ngược về 1 câu chỉ đạo / 1 điều khoản / 1 chức năng của Sở (quy tắc 1-1-1); không suy diễn ngoài văn bản chỉ đạo.
@@ -265,6 +265,7 @@ Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, l
 - **F — Không rebuild:** người dùng tải .docx lên để sửa tiếp (kể cả file do Claude tạo trước đó) → **sửa trực tiếp file đó**, không chạy lại script build/template cũ; giữa các vòng người dùng thường đã sửa tay trong Word. Chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay. *Vụ thật: Báo cáo PCCC 01/7/2026 mất 4 chỉnh sửa tay do rebuild.*
 - **G — Thể thức từ chỉnh sửa tay:** dòng ngày điền sẵn tháng/năm, để trống ngày; `Lưu: VT, CN (Tên)` có khoảng trắng trước ngoặc; đậm deadline dùng `<w:b/>` chỉ đúng cụm ngày; nghiêng ghi chú "(có văn bản kèm theo)"; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Kính gửi 1 nơi = 1 dòng căn giữa, không bảng, không chấm cuối**; báo cáo gửi Bộ thêm Cục chuyên môn vào Nơi nhận, dòng lãnh đạo ghi "- Ban Giám đốc Sở;"; gửi xã/phường liên quan trực tiếp thì liệt kê rõ; header cơ quan chủ quản ghi đầy đủ. Chi tiết: `reference/phong-tranh-sai-lam.md` Nhóm G.
 - **H — Toàn vẹn thể thức khi thao tác XML/run (vụ thật 05/7 + 24/7/2026):** không gán `run.text` cho run neo shape Line — helper thay text dùng chung PHẢI kiểm `.//w:pict|.//w:drawing` trước và assert số pict xuất == gốc; dòng Số/Ngày 13pt tường minh + ngày nghiêng; không widow word; khối ký không gãy trang (cantSplit, không trHeight cố định); **khử gen lỗi mẫu thật** trước khi giao: đánh lại `o:spid` duy nhất cho từng v:line, xóa hanging indent ô header, `w:lang` → vi-VN. QA soi ảnh VÀ `scripts/qa_pdf_check.py`. Chi tiết: Nhóm H (H1–H5).
+- **K — Bố cục trang & thuộc tính đoạn khi lắp ghép (vụ thật 08/8/2026, Báo cáo họp Hội đồng CCN Yên Hợp 2):** keepNext CHỈ gán đề mục (I./II./"1. Về …"), không gán khoản nội dung đánh số — chuỗi keepNext xích khối lớn gây TRỐNG NỬA CUỐI TRANG trong Word (LibreOffice không lộ); định dạng đậm đề mục SAU khi clone chuỗi đoạn (deepcopy lây format); đổi header khác cấp thì thêm spacing before ~12pt cho tên loại văn bản; Line VML tự chèn: dài ~70pt/110pt, y chỉ 2–3pt (y≥9pt đè dòng ngày); paragraph trống: xóa tồn dư giữa mục, GIỮ 1 dòng đệm trước khối ký; nhãn "a) Về …:" nghiêng còn nội dung đứng, chữ khoản a,b,c,d,đ,e,g. QA: soi ảnh crop phóng to header/cuối trang, đối chiếu pixel với mẫu nguồn, bảng soát đậm/thường từng đoạn. Chi tiết: Nhóm K (K1–K6).
 - **I — Văn phong CV gửi doanh nghiệp:** không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm (chỉ nêu nghĩa vụ chung; mốc cụ thể để ở biên bản/phiếu trình nội bộ); không viết "đề nghị liên hệ Phòng ... để được hướng dẫn" — kết thúc ngay tại đoạn đề nghị nộp lại hồ sơ, đầu mối duy nhất là Trung tâm Phục vụ hành chính công tỉnh. *(Bạn chốt 24/7/2026.)*
 
 ## Đọc PDF văn bản đến — trích metadata chính xác

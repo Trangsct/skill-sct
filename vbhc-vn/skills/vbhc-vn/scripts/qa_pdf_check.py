@@ -122,6 +122,29 @@ def check_line_shapes(docx_path: Path, min_lines: int) -> list:
     return []
 
 
+def check_keepnext_audit(docx_path: Path) -> list:
+    """Nhóm K1: liệt kê paragraph có w:keepNext KHÔNG giống đề mục -> WARN.
+    Đề mục hợp lệ: I./II./III./IV./V. + tiêu đề ngắn "N. Về ..."/"N. Một số ...".
+    Khoản nội dung đánh số bị gán keepNext là nguyên nhân gây trống nửa cuối trang trong Word."""
+    import zipfile, re as _re, unicodedata
+    issues = []
+    try:
+        xml = zipfile.ZipFile(docx_path).read('word/document.xml').decode('utf-8')
+        for pm in _re.finditer(r'<w:p\b.*?</w:p>', xml, _re.S):
+            seg = pm.group(0)
+            if '<w:keepNext' not in seg:
+                continue
+            text = unicodedata.normalize('NFC', ''.join(_re.findall(r'<w:t[^>]*>([^<]*)</w:t>', seg))).strip()
+            if not text:
+                continue
+            ok = bool(_re.match(r'^(?:[IVX]{1,4}\.|PHẦN|Phần|[0-9]{1,2}\.\s{0,2}(?:Về|Một số|Công tác|Kết quả|Đánh giá|Nhiệm vụ|Phương hướng))', text)) and len(text) <= 120
+            if not ok:
+                issues.append(f"keepNext trên đoạn KHÔNG giống đề mục (nguy cơ trống cuối trang - Nhóm K1): '{text[:70]}…'")
+    except Exception as e:  # audit phụ, không làm hỏng QA chính
+        issues.append(f"không audit được keepNext: {e}")
+    return issues
+
+
 def check_so_ngay_13pt(docx_path: Path) -> list:
     """Dòng 'Số: .../...' và dòng ngày trong bảng header: sz=26 tường minh,
     dòng ngày in nghiêng."""
@@ -199,6 +222,9 @@ def main():
     # Kiểm tra XML (không cần render)
     for msg in check_line_shapes(docx_path, min_lines):
         fails.append(("LINES", msg))
+
+    for msg in check_keepnext_audit(docx_path):
+        warns.append(("KEEPNEXT", msg))
     for msg in check_so_ngay_13pt(docx_path):
         fails.append(("SZ13", msg))
 

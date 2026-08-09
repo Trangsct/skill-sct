@@ -154,3 +154,23 @@ Script dò: từ suy đoán [B/C], số văn bản đáng nghi [A], VB hết hi�
 - *"Kéo tay cho dòng bảng cao lên cho dễ nhìn"* → KHÔNG: chiều cao dòng luôn để tự co theo nội dung; muốn chừa chỗ ký/điền tay thì thêm paragraph trống trong ô. [F-trHeight]
 
 Đây là lúc kỷ luật này có giá trị nhất — bắt sai lầm ngay khi đang hình thành, không phải sửa sau khi đã sai.
+### Nhóm K — Bố cục trang & thuộc tính đoạn khi lắp ghép văn bản (vụ thật 08/8/2026: Báo cáo họp Hội đồng CCN Yên Hợp 2, chuyển thể từ Báo cáo Tổ giúp việc)
+
+Chuỗi 7 lỗi trình bày trong 1 văn bản khi lắp ghép/chuyển thể từ mẫu khác cấp ban hành. Render LibreOffice PASS nhưng người dùng phải chỉ ra bằng mắt và bằng Word thật — bài học: PASS máy chưa phải đẹp, phải soi ảnh PHÓNG TO từng vùng (header, cuối trang, khối ký) và lường trước khác biệt Word.
+
+**K1 — keepNext chỉ gán cho ĐỀ MỤC, tuyệt đối không gán cho khoản nội dung đánh số.** Vụ thật: regex chống mồ côi quét `^[1-4]\.` quá rộng, gán `w:keepNext` cho cả 4 khoản nội dung mục IV ("1. Cho ý kiến…", "2. Tổ chức…", "3. Giao…", "4. Trên cơ sở…"). Chuỗi keepNext liên tiếp xích các đoạn thành một khối lớn không vừa phần còn lại của trang → Word đẩy khối xuống, bỏ TRỐNG NỬA CUỐI TRANG 4 (LibreOffice hiển thị bình thường, chỉ Word lộ). Quy tắc:
+- keepNext chỉ cho: đề mục La Mã (I./II./III./IV.), tiêu đề tiểu mục ngắn dạng "1. Về …" / "3. Một số nội dung …".
+- Đoạn nội dung dài bắt đầu bằng số thứ tự ("1. Cho ý kiến…", "2. Tổ chức…") = nội dung, KHÔNG keepNext.
+- QA: thấy khoảng trống lớn bất thường cuối trang → liệt kê ngay mọi paragraph có keepNext để soát chuỗi; sửa trực tiếp file người dùng (gỡ đúng thuộc tính, không rebuild — Nhóm F).
+
+**K2 — Định dạng đề mục (đậm/nghiêng) SAU KHI clone xong chuỗi đoạn.** `deepcopy` paragraph kế thừa nguyên `rPr` nguồn: make_bold đề mục trước rồi clone các khoản từ nó → cả chuỗi khoản bị lây đậm (vụ thật: 4 khoản mục IV đậm toàn bộ). Quy tắc: (i) clone toàn bộ chuỗi đoạn nội dung trước, format đề mục sau cùng; hoặc (ii) luôn clone từ paragraph nội dung "thường". Sau build phải chạy bảng soát đậm/thường từng đoạn (in ký hiệu B/. cho mỗi paragraph) trước khi giao.
+
+**K3 — Chuyển header giữa hai cấp ban hành làm mất khoảng đệm.** Mẫu nguồn (Hội đồng/Tổ giúp việc) có ô trái 5-6 dòng; đổi sang header Sở (2 dòng + dòng Số) làm bảng header thấp đi → tên loại văn bản ("BÁO CÁO") dính sát bảng. Quy tắc: sau khi đổi header khác cấp, thêm `w:spacing w:before` (~240 twips/12pt) cho dòng tên loại văn bản; dòng "Số: …/BC-SCT" điền vào paragraph trống có sẵn của ô (giữ 13pt, căn giữa, chừa khoảng trống đủ rộng để văn thư điền số).
+
+**K4 — Thông số đường Line VML khi tự chèn (thay pBdr).** Chiều dài ~1/3–1/2 dòng chữ: dưới tên cơ quan ~70pt (~2,5cm); dưới Tiêu ngữ ~110pt (~3,9cm). Tọa độ y tính từ paragraph neo mỏng (spacing line=20): chỉ 2–3pt; y ≥ 9pt sẽ tụt xuống ĐÈ LÊN dòng "Địa danh, ngày…" (vụ thật: tưởng mất Line, thực ra Line đè dòng ngày). Sau chèn bắt buộc render + crop phóng to vùng header để soi vị trí, không tin số đo.
+
+**K5 — Vệ sinh paragraph trống khi lắp ghép: xóa tồn dư giữa các mục, GIỮ đệm trước khối ký.** Hai lỗi ngược chiều cùng vụ: (i) paragraph trống của mẫu gốc sót lại giữa mục 1 và mục 2 → khoảng trống bất thường; (ii) xóa sạch mọi paragraph trống cuối thân → bảng Nơi nhận/chữ ký dính sát đoạn kết. Quy tắc: rà từng paragraph trống có chủ đích — giữa các mục thì xóa, trước bảng chữ ký giữ đúng 1 dòng đệm.
+
+**K6 — Nhãn đề mục con nghiêng + nội dung đứng (a) Về …: ).** Người dùng chốt 08/8/2026: đoạn "a) Về vốn chủ sở hữu: nội dung…" chỉ nghiêng phần nhãn + tiêu đề ngắn, phần diễn giải ĐỨNG; không để cả đoạn nghiêng theo format run đầu của mẫu. Kỹ thuật: gỡ `w:i`/`w:iCs` khỏi run gốc trước khi set text → tách run nhãn (thêm lại w:i) và run nội dung (không w:i). Đồng bộ dùng chữ khoản theo bảng chữ cái VBHC: a, b, c, d, đ, e, g (không có f).
+
+**Bài học QA chung của Nhóm K:** so sánh pixel với chính bản mẫu nguồn (render mẫu gốc và bản mới cạnh nhau, crop cùng vùng) là cách nhanh nhất lộ lỗi khoảng cách/đường kẻ/đậm nhạt mà checklist máy không bắt; và mọi thao tác gán thuộc tính hàng loạt (keepNext, bold, indent) phải có bước liệt kê lại danh sách đoạn bị ảnh hưởng để đối chiếu với ý định.

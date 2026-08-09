@@ -1,5 +1,18 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-08 — `vbhc-vn` v2.8.0: Nhóm K — Bố cục trang & thuộc tính đoạn khi lắp ghép văn bản (vụ Báo cáo họp Hội đồng CCN Yên Hợp 2)
+
+- Nhóm anti-error thứ 10 (K1–K6) từ chuỗi 7 lỗi trình bày trong 1 văn bản chuyển thể từ Báo cáo Tổ giúp việc sang Báo cáo của Sở trình Hội đồng, người dùng phát hiện qua Word thật ngày 08/8/2026:
+  - **K1** keepNext CHỈ gán đề mục (I./II./"1. Về …"), không gán khoản nội dung đánh số — chuỗi keepNext xích khối lớn gây TRỐNG NỬA CUỐI TRANG trong Word (LibreOffice không lộ);
+  - **K2** định dạng đậm đề mục SAU khi clone chuỗi đoạn (deepcopy lây format sang các khoản);
+  - **K3** đổi header khác cấp ban hành: thêm spacing before ~12pt cho tên loại văn bản, dòng Số điền vào paragraph trống sẵn của ô;
+  - **K4** Line VML tự chèn: dài ~70pt (dưới tên cơ quan) / ~110pt (dưới Tiêu ngữ), tọa độ y chỉ 2–3pt — y≥9pt tụt xuống đè dòng ngày;
+  - **K5** paragraph trống: xóa tồn dư giữa các mục, GIỮ 1 dòng đệm trước khối Nơi nhận/chữ ký;
+  - **K6** nhãn "a) Về …:" nghiêng, nội dung đứng; chữ khoản a, b, c, d, đ, e, g.
+- `scripts/qa_pdf_check.py`: thêm **audit keepNext** (WARN, không chặn) — liệt kê mọi paragraph có keepNext không giống đề mục; đã test bắt đúng 5 đoạn lỗi của vụ thật và PASS trên bản đã sửa.
+- SKILL.md: "9 nhóm" → "10 nhóm" + tóm tắt Nhóm K; description cập nhật.
+- Bài học QA: đối chiếu pixel với mẫu nguồn (render 2 bản, crop cùng vùng) + bảng soát đậm/thường từng đoạn sau mọi thao tác gán thuộc tính hàng loạt.
+
 ## 2026-08-07 (bổ sung 2) — `sd-vlncn-sct-vn` v2026.8.7.2: GP 2743/GP-UBND — ví dụ CẤP LẠI thứ hai (Gói thầu 13 QL32 – IC14, Cty An Việt)
 
 - GP 2743/GP-UBND ngày 07/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 1363/GP-UBND 22/4/2026 (hết hiệu lực 30/6/2026) cho Cty CP Đầu tư và Phát triển An Việt — Gói thầu số 13 đường nối QL32 với cao tốc Nội Bài - Lào Cai (IC14), phân đoạn nổ mìn Km1+443,80m (C32B) ÷ Km1+555,80m (C35), phường Trung Tâm. Lặp đúng khuôn GP 2726 → khuôn CẤP LẠI ổn định: hồ sơ 2 đầu mục, khối lượng = phần còn lại (53.657/65.470 kg), thời hạn đến 31/12/2026 theo tiến độ gói thầu (trùng hạn GP 2628 phân đoạn liền kề — 2 GP song song trên cùng gói thầu). Cập nhật ref 07 mục A + ref 02 mục A. Bản ký: repo web `vlncn-laocai-files/uploads/2743_GP-UBND.pdf`; CSDL web đã nạp bản ghi. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.

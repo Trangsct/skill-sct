@@ -1,6 +1,6 @@
 ---
 name: hl-vlncn-sct-vn
-description: "Chuyên gia QLNN về HUẤN LUYỆN, KIỂM TRA, CẤP GIẤY CHỨNG NHẬN huấn luyện kỹ thuật an toàn (GCN KTAT) vật liệu nổ công nghiệp (VLNCN) và tiền chất thuốc nổ (TCTN) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) tiếp nhận, thẩm định hồ sơ đề nghị của doanh nghiệp (Mẫu 01, 02 NĐ 181/2024), phân biệt 2 chế độ: người quản lý (Sở huấn luyện + kiểm tra) và các đối tượng khác (DN tự huấn luyện, Sở kiểm tra); (2) soạn trọn chuỗi văn bản: Kế hoạch KH-SCT, Thông báo tổ chức, QĐ thành lập/kiện toàn Tổ kiểm tra, Báo cáo kết quả, QĐ công nhận kết quả + cấp GCN (GĐ Sở ký theo ủy quyền QĐ 1883/QĐ-UBND); (3) hướng dẫn DN điều kiện trình độ Đ4, hồ sơ, thời hạn, cấp lại; (4) kiểm tra, xử phạt; (5) báo cáo UBND tỉnh. Kèm mẫu + ví dụ thực tế + văn bản gốc. Từ khóa: GCN huấn luyện KTAT VLNCN, huấn luyện kiểm tra sát hạch, người quản lý VLNCN, chỉ huy nổ mìn, thợ nổ mìn, thủ kho, người phục vụ, TCTN, NĐ 181/2024 Điều 4-9, NĐ 146/2025 Điều 24, QĐ 1883/QĐ-UBND, TTHC 2.000229, 2.000210, 6/10 điểm, GCN 2 năm, Tổ kiểm tra."
+description: "Chuyên gia QLNN về HUẤN LUYỆN, KIỂM TRA, CẤP GIẤY CHỨNG NHẬN huấn luyện kỹ thuật an toàn (GCN KTAT) vật liệu nổ công nghiệp (VLNCN) và tiền chất thuốc nổ (TCTN) của Sở Công Thương Lào Cai. 5 nghiệp vụ: (1) thẩm định hồ sơ của doanh nghiệp (Mẫu 01, 02 NĐ 181/2024), phân biệt 2 chế độ: người quản lý (Sở huấn luyện + kiểm tra) và đối tượng khác (DN tự huấn luyện, Sở kiểm tra); (2) soạn chuỗi văn bản: Kế hoạch KH-SCT, Thông báo tổ chức, QĐ thành lập Tổ kiểm tra, Báo cáo kết quả, QĐ công nhận kết quả + cấp GCN (GĐ Sở ký theo ủy quyền QĐ 1883/QĐ-UBND); (3) hướng dẫn DN điều kiện trình độ Đ4, hồ sơ, cấp lại; phân định với khối Bộ Quốc phòng (Cục Quản lý Công nghệ cấp GCN theo TT 09/2026/TT-BQP); (4) kiểm tra, xử phạt; (5) báo cáo UBND tỉnh. Từ khóa: GCN huấn luyện KTAT VLNCN, kiểm tra sát hạch, người quản lý VLNCN, chỉ huy nổ mìn, thợ nổ mìn, thủ kho, TCTN, NĐ 181/2024 Điều 4-9, NĐ 146/2025 Điều 24, Luật 118/2025, VBHN 78/VBHN-VPQH, TT 09/2026/TT-BQP, QĐ 1883/QĐ-UBND, TTHC 2.000229, 2.000210, 6/10 điểm, GCN 2 năm."
 ---
 
 # hl-vlncn-sct-vn — Huấn luyện, kiểm tra, cấp GCN KTAT VLNCN & TCTN (Sở Công Thương Lào Cai)
@@ -20,7 +20,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 **Ranh giới, liên kết với plugin khác:**
 - Giấy phép SỬ DỤNG VLNCN + Phương án nổ mìn → `sd-vlncn-sct-vn` (điều kiện nhân sự Đ4 và GCN huấn luyện là đầu mục cứng của hồ sơ cấp GP sử dụng — hai plugin dùng chung Điều 4 NĐ 181).
 - Kho VLNCN (thiết kế, nghiệm thu, kiểm định; huấn luyện thủ kho là điều kiện "4 trụ" của kho) → `kho-vlncn-sct-vn`.
-- Vận chuyển VLNCN → Công an cấp phép, KHÔNG thuộc SCT (`hnh-sct-vn` chỉ xử lý HHNH trừ VLNCN, tiền chất thuốc nổ).
+- Vận chuyển VLNCN → **Trưởng phòng PC06 Công an cấp tỉnh** cấp GP (điểm đ k2 Đ4 TT 75/2024/TT-BCA), KHÔNG thuộc SCT (`hnh-sct-vn` chỉ xử lý HHNH trừ VLNCN, tiền chất thuốc nổ).
 - Soạn văn bản: kết hợp `vbhc-vn` (thể thức), `sct-laocai-org-vn` (người ký, dòng Lưu), GATE/`vbhc-pdf-reader-vn` khi đọc PDF đến.
 
 ## II. KHUNG PHÁP LÝ (đã đối chiếu văn bản gốc, cập nhật 7/2026 — chi tiết: reference `01`)

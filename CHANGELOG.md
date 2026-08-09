@@ -1,5 +1,50 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-09 — RÀ SOÁT, NÂNG CẤP ĐỒNG BỘ 4 PLUGIN VLNCN theo 10 văn bản gốc mới
+
+Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/NĐ-CP`, `282/2025/NĐ-CP`, `23/2024/TT-BCT`, `47/2020/TT-BCT`, `75/2024/TT-BCA`, `98/2024/TT-BQP`, `09/2026/TT-BQP` (Bạn cung cấp 09/8/2026). Trọng tâm: **chức năng, nhiệm vụ, quyền hạn của UBND cấp tỉnh và Sở Công Thương**.
+
+### Phát hiện chính
+- **Luật 118/2025 (hiệu lực 01/7/2026) sửa Luật 42/2024 ở 9 nhóm nội dung liên quan VLNCN**, trong khi bộ skill trước đây mới ghi nhận 01 nhóm (k6 Đ9 — văn bản PCCC kho cố định). Ba nhiệm vụ MỚI của UBND cấp tỉnh chưa từng có trong plugin:
+  1. **Tiếp nhận thông báo GỬI KHO bảo quản VLNCN** — điểm b k2 Đ40: gửi kho phải có thỏa thuận bằng văn bản **và thông báo đến UBND cấp tỉnh để theo dõi, quản lý**;
+  2. **Ban hành văn bản đề nghị cấp GP dịch vụ nổ mìn phạm vi 01 tỉnh** — điểm b k4 Đ40 (trước chỉ có loại thềm lục địa/toàn quốc theo k1 Đ23 NĐ 146/2025);
+  3. **Quy định cơ quan tiếp nhận + Hệ thống TTGQ TTHC của tỉnh là nơi nộp hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** — k5 Đ44.
+  Ngoài ra: Đ34, 35, 36 bổ sung **Bộ trưởng Bộ Công an** vào chủ thể giao nhiệm vụ sản xuất/kinh doanh VLNCN; k15 mở rộng "doanh nghiệp" → "**tổ chức, doanh nghiệp**" hoạt động dịch vụ nổ mìn; điểm d k4 Đ40 (mới) miễn giấy tờ điểm đ k1 Đ39 nếu DN đã có GP kinh doanh VLNCN.
+- **TT 75/2024/TT-BCA**: GP vận chuyển VLNCN, TCTN do **Trưởng phòng PC06 Công an cấp tỉnh** cấp (điểm đ k2 Đ4); quá cảnh/XNK do **Cục trưởng C06** (điểm i k1); nếu nơi có kho tiếp nhận không cấp GP vận chuyển thì PC06 nơi có kho **xác nhận vào Giấy đăng ký tiếp nhận**. Trước đây skill chỉ ghi chung "cơ quan Công an".
+- **NĐ 149/2024** chỉ điều chỉnh vũ khí, VLN **quân dụng**, CCHT — **KHÔNG điều chỉnh VLNCN**; đã đánh dấu cấm đưa vào phần Căn cứ của văn bản VLNCN (trước đây kho-vlncn mô tả nhầm là có phần "vận chuyển VLN").
+- **NĐ 282/2025 (hiệu lực 15/12/2025, thay NĐ 144/2021)**: Điều 12 có 5 nhóm hành vi chạm VLNCN/TCTN do Công an chủ trì; **khoản 6 Điều 12 là điều khoản quét** đưa hành vi VLNCN chưa quy định về nghị định chuyên ngành.
+- ⚠️ **Chốt lại trạng thái hiệu lực (ảnh chụp Điều 75 NĐ 275/2026 do Bạn gửi):** đến hết **24/8/2026**, NĐ 275/2026 **CHƯA áp dụng**; nghị định đang có hiệu lực vẫn là **NĐ 71/2019 (sđ Điều 1 NĐ 17/2022)**. Đã gắn cảnh báo này vào 4 điểm dễ dẫn nhầm.
+- **TT 09/2026/TT-BQP** (hiệu lực 22/01/2026): GP sử dụng khối BQP 2,5 ngày làm việc (05 ngày nếu kiểm tra thực tế); Mệnh lệnh vận chuyển 1,5 ngày; **Cục Quản lý Công nghệ** cấp GCN huấn luyện KTAT cho khối BQP → Sở không tiếp nhận hồ sơ DN quốc phòng.
+- **TT 47/2020/TT-BCT (QCVN 04:2020/BCT)**: chất lượng tiền chất thuốc nổ; mục 2.2 dẫn chiếu bảo quản theo QCVN 01:2019/BCT.
+- Sửa mâu thuẫn nội bộ: `kho-vlncn` mô tả QĐ 1883/QĐ-UBND là ủy quyền cấp GP sử dụng VLNCN — thực tế là ủy quyền **cấp GCN huấn luyện KTAT** (khớp `hl-vlncn`); GP sử dụng vẫn do Chủ tịch UBND tỉnh ký `/GP-UBND`. ⚠ Cần Bạn xác nhận lại.
+
+### `sd-vlncn-sct-vn` v2026.8.7.2 → **v2026.8.9.1**
+- **MỚI `references/10-tham-quyen-ubnd-tinh-va-sct.md`** — bản đồ thẩm quyền: 10 thẩm quyền cấp phép/phê duyệt của UBND cấp tỉnh; 6 đầu mối tiếp nhận thông báo Sở phải mở sổ theo dõi; nhiệm vụ thường xuyên theo Đ19 TT 23/2024; ranh giới với Công an – Bộ Quốc phòng – Cục KTAT&MTCN – Cục Hóa chất; bảng 11 dòng tác động của Luật 118/2025; quy tắc chọn nghị định xử phạt; checklist 7 bước.
+- `references/01-phap-ly.md`: mục 2 viết lại đầy đủ 9 nhóm sửa đổi của Luật 118/2025; **mục 9a mới** (TT 75/2024/TT-BCA, NĐ 149/2024, TT 98/2024 + TT 09/2026/TT-BQP); **mục 9b mới** (NĐ 282/2025); bổ sung Luật 118/2025 vào cụm căn cứ chuẩn + quy tắc khi nào thêm/không thêm.
+- `SKILL.md`: bảng thẩm quyền thêm 2 dòng nhiệm vụ mới + làm rõ GP vận chuyển; mục "Khi nào dùng" thêm nhánh tra thẩm quyền; description viết lại.
+- `van-ban-goc/`: +6 file (VBHN 78, Luật 118/2025, NĐ 149/2024, TT 75/2024/TT-BCA, TT 98/2024/TT-BQP, TT 09/2026/TT-BQP) + INDEX.md cập nhật.
+
+### `kho-vlncn-sct-vn` v1.5.0 → **v1.6.0**
+- `references/01-khung-phap-ly.md`: mục 2 bổ sung **GỬI KHO** (thỏa thuận bằng văn bản + thông báo UBND cấp tỉnh; kho nhận gửi vẫn phải đạt QCVN 01:2019 và Đ15 NĐ 181); **mục 13a mới** TT 47/2020/TT-BCT — QCVN 04:2020/BCT; mục 9 viết lại NĐ 149/2024 (không điều chỉnh VLNCN) + **mục 9a mới** TT 75/2024/TT-BCA (xác nhận Giấy đăng ký tiếp nhận khi nơi có kho không cấp GP vận chuyển); sơ đồ quan hệ sửa đổi cập nhật 5 nhánh Luật 118/2025.
+- `SKILL.md`: mục 2 khung pháp lý viết lại; thêm mục 7a QCVN 04:2020/BCT; sửa mô tả QĐ 1883; làm rõ thẩm quyền GP vận chuyển; description viết lại.
+- `van-ban-goc/`: +3 file (VBHN 78, Luật 118/2025, TT 47/2020) + 00-MUC-LUC.md cập nhật.
+
+### `hl-vlncn-sct-vn` v1.1.0 → **v1.2.0**
+- `references/01-phap-ly.md`: ghi nhận **Luật 118/2025 KHÔNG sửa Đ4–9 NĐ 181 và Đ38, 42 Luật 42/2024** → quy trình, hồ sơ, thời hạn, thang 6/10, GCN 02 năm **không thay đổi**; mục D viết lại chi tiết TT 98/2024 + TT 09/2026/TT-BQP (Cục Quản lý Công nghệ cấp GCN khối BQP → Sở hướng dẫn về, không tiếp nhận).
+- `SKILL.md`: mục 10 viết lại, thêm mục 11 (Luật 118/2025 + VBHN 78) và mục 12 (con trỏ tới bản đồ thẩm quyền); cảnh báo hiệu lực NĐ 275/2026 tại `references/06`; description viết lại.
+- `van-ban-goc/`: +3 file (VBHN 78, Luật 118/2025, TT 09/2026/TT-BQP) + INDEX.md cập nhật.
+
+### `xp-hc-vlncn-sct-vn` v1.0.0 → **v1.1.0**
+- **MỚI `references/06-moc-hieu-luc-phan-dinh-nd-282-2025.md`** — bảng trạng thái hiệu lực 4 nghị định (NĐ 71/2019 đang áp dụng; NĐ 275/2026 chưa có hiệu lực đến 24/8/2026; NĐ 282/2025 hiệu lực 15/12/2025; NĐ 144/2021 đã hết hiệu lực); phân định 3 nhóm hành vi A/B/C với bảng 5 hành vi VLNCN–TCTN tại Điều 12 NĐ 282/2025 và điều khoản quét k6 Đ12; quy trình 4 bước tiếp nhận vụ việc; lưu ý soạn văn bản.
+- `SKILL.md`: khối cảnh báo trạng thái hiệu lực đặt đầu mục IV; thêm mục 1a, 1b vào Văn bản lõi; thêm nhánh phân định NĐ 282/2025 vào "Khi nào dùng"; description viết lại.
+- `van-ban-goc/`: +2 file (NĐ 282/2025, VBHN 78) + INDEX.md cập nhật.
+
+### Việc Bạn cần làm tiếp (nghiệp vụ)
+1. **Mở sổ theo dõi thông báo gửi kho** và bổ sung nội dung này vào công văn tuyên truyền/đôn đốc gửi các DN VLNCN — nghĩa vụ mới từ 01/7/2026, đa số DN chưa nắm.
+2. Rà soát xem tỉnh đã có văn bản **quy định cơ quan tiếp nhận hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** theo k5 Đ44 chưa.
+3. Xác nhận lại phạm vi **QĐ 1883/QĐ-UBND** (ủy quyền cấp GCN huấn luyện, không phải GP sử dụng).
+
+
 ## 2026-08-08 (bổ sung) — `vbhc-vn` v2.9.0: ĐẠI TU chống phình
 
 - Gộp Nhóm K → Nhóm H (H6–H11) + H12 (trHeight, từ Quy tắc 20); còn 9 nhóm anti-error A–I. Nén Quy tắc bất biến 11–14, 20 thành con trỏ về Nhóm H (giữ nguyên số). Hòa giải mâu thuẫn Quy tắc 3 ↔ 20 và 9 ↔ H11. Xóa 2 file lưu trữ *-goc.md (448 dòng, git giữ lịch sử). Description SKILL.md + plugin.json viết lại trigger-only. 11/11 check nhất quán PASS, scripts chạy tốt. Chi tiết: `vbhc-vn/skills/vbhc-vn/CHANGELOG.md`.

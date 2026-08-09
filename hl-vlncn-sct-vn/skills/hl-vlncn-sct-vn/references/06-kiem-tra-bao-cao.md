@@ -27,6 +27,7 @@ QĐ thành lập Đoàn kiểm tra /QĐ-SCT (GĐ ký; căn cứ có Luật 42/20
 - GCN hết hạn nhưng vẫn bố trí làm việc → lập biên bản VPHC.
 
 ## 2. Xử phạt (NĐ 275/2026/NĐ-CP — hiệu lực 25/8/2026; chuyển tiếp NĐ 71/2019)
+- ⚠️ **NĐ 275/2026 chưa có hiệu lực đến hết 24/8/2026** (k1 Đ75) — mức phạt dưới đây để tra cứu, cảnh báo; QĐ xử phạt ban hành trước mốc này viện dẫn **Đ50 NĐ 71/2019 (sđ NĐ 17/2022)**.
 - **Điều 54 NĐ 275/2026** — vi phạm về nhân lực:
   - k1 (5–15 tr cá nhân): không tổ chức huấn luyện KTAT; không xây dựng tài liệu/tài liệu không đầy đủ; chọn người huấn luyện không đủ điều kiện;
   - k2 (15–30 tr cá nhân): **sử dụng người không đủ trình độ chuyên môn** (điểm a); **sử dụng người chưa được huấn luyện, kiểm tra cấp GCN KTAT** (điểm b);

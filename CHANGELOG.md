@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-08 (bổ sung) — `vbhc-vn` v2.9.0: ĐẠI TU chống phình
+
+- Gộp Nhóm K → Nhóm H (H6–H11) + H12 (trHeight, từ Quy tắc 20); còn 9 nhóm anti-error A–I. Nén Quy tắc bất biến 11–14, 20 thành con trỏ về Nhóm H (giữ nguyên số). Hòa giải mâu thuẫn Quy tắc 3 ↔ 20 và 9 ↔ H11. Xóa 2 file lưu trữ *-goc.md (448 dòng, git giữ lịch sử). Description SKILL.md + plugin.json viết lại trigger-only. 11/11 check nhất quán PASS, scripts chạy tốt. Chi tiết: `vbhc-vn/skills/vbhc-vn/CHANGELOG.md`.
+
 ## 2026-08-08 — `vbhc-vn` v2.8.0: Nhóm K — Bố cục trang & thuộc tính đoạn khi lắp ghép văn bản (vụ Báo cáo họp Hội đồng CCN Yên Hợp 2)
 
 - Nhóm anti-error thứ 10 (K1–K6) từ chuỗi 7 lỗi trình bày trong 1 văn bản chuyển thể từ Báo cáo Tổ giúp việc sang Báo cáo của Sở trình Hội đồng, người dùng phát hiện qua Word thật ngày 08/8/2026:

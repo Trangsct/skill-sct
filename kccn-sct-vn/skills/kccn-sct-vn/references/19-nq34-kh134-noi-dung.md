@@ -107,7 +107,7 @@ Chính sách; quy hoạch; huy động và phân bổ nguồn lực đầu tư; 
 
 - **Sở Công Thương là CƠ QUAN THƯỜNG TRỰC** — tổng hợp, theo dõi, đôn đốc, định kỳ báo cáo UBND tỉnh; giúp UBND tỉnh đôn đốc các sở, ngành, UBND xã/phường; phối hợp rà soát, cập nhật quy hoạch CCN vào Quy hoạch chung cấp xã; quản lý, phát triển CCN theo NĐ 32/2024. ← **nhiệm vụ trực tiếp của Phòng QLCN**
 - Sở Tài chính; Sở Nông nghiệp và Môi trường; Sở Xây dựng; Sở Khoa học và Công nghệ; Sở Giáo dục và Đào tạo; BQL Khu kinh tế và BQL các KCN tỉnh; các sở, ban, ngành khác; **UBND cấp xã**; **các chủ đầu tư dự án hạ tầng kỹ thuật khu, CCN**.
-- **UBND phường Yên Bái** chủ trì, phối hợp UBND phường Văn Phú xây dựng phương án và lộ trình **di dời CCN Đầm Hồng**, hoàn thành phê duyệt phương án **trong năm 2026**.
+- **UBND phường Yên Bái** chủ trì, phối hợp UBND phường Văn Phú xây dựng phương án và lộ trình **di dời CCN Đầm Hồng**, hoàn thành phê duyệt phương án **trong năm 2026**. → **ĐÃ HOÀN THÀNH**: Đề án di dời sang CCN Âu Lâu đã được UBND tỉnh phê duyệt (TTr 234/TTr-UBND 30/6/2026) — chi tiết reference `27`.
 - Chủ đầu tư hạ tầng: rà soát, lập hồ sơ **mở rộng các CCN hiện có** — bản gốc liệt kê: *Âu Lâu, Yên Thế, Thịnh Hưng, Đông An, Yên Thế, Khánh Yên Thượng* (⚠️ bản gốc lặp tên "Yên Thế" 02 lần — giữ nguyên khi trích, không tự sửa).
 
 ### 6. Chế độ báo cáo (mục VI)

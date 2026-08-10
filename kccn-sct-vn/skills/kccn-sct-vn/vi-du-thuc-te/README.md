@@ -18,7 +18,7 @@ Thư mục lưu các ví dụ thực tế (case study) đã xử lý, dùng đ�
 | Lỗi dự thảo QĐ điều chỉnh (6 lỗi điển hình: sai cơ quan trình, viện dẫn QĐ 525 sai cấp, GCN ĐKDN cũ, tiến độ vênh, số/ngày văn bản bất khả thi, thiếu điều khoản thi hành) | **CCN Minh Quân** (phường Âu Lâu; kết luận: chưa ký, trả hồ sơ hoàn thiện) | checklist thẩm định |
 | CCN đưa ra khỏi quy hoạch | CCN Tây Cầu Mậu A (QĐ 525 loại bỏ) | reference 11 mục B, D |
 | Chồng lấn quy hoạch/dự án khác | CCN Bảo Hưng 2 (chồng lấn Vietquartz) | reference 11 mục E |
-| Di dời CCN | **CCN Đầm Hồng → CCN Âu Lâu** (kết luận giao ban 6 tháng đầu 2026 của GĐ Sở; gắn mở rộng Âu Lâu lên ~75 ha) | reference 11 |
+| Di dời CCN | **CCN Đầm Hồng → CCN Âu Lâu** (Đề án đã được UBND tỉnh phê duyệt — TTr 234/TTr-UBND 30/6/2026; 23 đơn vị phân 7 nhóm, lộ trình 2026-2030, khái toán 42,91 tỷ; gắn mở rộng Âu Lâu ~25 ha lên ~75 ha; KHÔNG liên quan Phú Thịnh 4) | **reference 27** (văn bản gốc trong `van-ban-goc/`) |
 | Khởi công đúng điều kiện | **CCN Thống Nhất 1** (74,95 ha, xã Gia Phú, Công ty CP Đầu tư phát triển Công nghiệp Lào Cai, TMĐT 860.008 triệu đồng; khởi công 07/5/2026; bài học: thông báo khởi công gửi Sở Xây dựng) | reference 08, 23, checklist khởi công |
 | Bảng tiến độ tổng thể dự án KCN (phối hợp BQL KKT) | **KCN Phú Xuân** (300 ha, xã Gia Phú, Cty CP CN Linh Linh; QĐ chấp thuận chủ trương 2336/QĐ-UBND ngày 02/7/2026; CV 964/BQL-QHXD 03/7/2026) — nguồn các phát hiện: GPMT trước thẩm định BCNCKT; miễn GPXD điểm e khoản 2 Điều 43 Luật 135; QHCT do BQL KKT duyệt | reference 08 (bài học 7/2026), reference 12 |
 | Chương trình đoàn công tác lãnh đạo tỉnh thăm CCN | Đoàn PCT UBND tỉnh Phan Trung Bá kiểm tra 12 CCN/7 xã phường, chiều 07/7/2026 (Chương trình CTr-UBND + Báo cáo BC-VP) | mau-van-ban/04 |

@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-10 — kccn-sct-vn v1.19.0: Đề án di dời CCN Đầm Hồng sang CCN Âu Lâu đã được UBND tỉnh phê duyệt
+
+Nguồn: 02 văn bản Bạn cung cấp 10/8/2026 — Đề án sắp xếp, di dời các cơ sở SXKD tại CCN Đầm Hồng (bản UBND tỉnh phê duyệt, 27 trang + 05 phụ lục, Chủ tịch Nguyễn Tuấn Anh ký) và Tờ trình 234/TTr-UBND ngày 30/6/2026 của UBND phường Yên Bái.
+
+### `kccn-sct-vn` v1.18.2 → **v1.19.0**
+- **MỚI `references/27-de-an-di-doi-ccn-dam-hong.md`** — toàn bộ nội dung Đề án: chuỗi pháp lý (BC 3231/BC-SCT, VB 5893/UBND-KT, TTr 152 + BC 170 phường Âu Lâu, TTr 234); hiện trạng Đầm Hồng (16,46 ha / 23 DN / 10,44 ha đất CN / chưa có QĐ thành lập theo NĐ 32); điều kiện tiên quyết mở rộng CCN Âu Lâu ~25 ha (50 → ~75 ha, ~340 tỷ; GATE trần 75 ha NĐ 303/2026); 7 nhóm phân loại DN; lộ trình 2026-2030 (di dời đợt 1 năm 2028, đợt 2 năm 2029); phân công (SCT: thẩm định mở rộng Âu Lâu + tổng hợp danh sách DN trình UBND tỉnh Quý III/2026); khái toán 42.911.261.351 đồng; danh sách 23 đơn vị + phương án dự kiến; cảnh báo vênh Phụ lục 01/02. ⚠️ GATE: số/ngày Đề án và QĐ phê duyệt còn trống trong bản PDF — hỏi Bạn trước khi viện dẫn.
+- `van-ban-goc/`: +2 file PDF gốc (Đề án bản phê duyệt; TTr 234/TTr-UBND).
+- Cập nhật chéo: SKILL.md (tình huống 12 mới, bảng reference, description); reference 12 (dòng Âu Lâu, Đầm Hồng); reference 19 (nhiệm vụ KH 134 → ĐÃ HOÀN THÀNH bước phê duyệt); reference 26 mục E.7; vi-du-thuc-te/README.
+- Giữ nguyên đính chính 07/8/2026: di dời Đầm Hồng KHÔNG liên quan CCN Phú Thịnh 4.
+
 ## 2026-08-09 — RÀ SOÁT, NÂNG CẤP ĐỒNG BỘ 4 PLUGIN VLNCN theo 10 văn bản gốc mới
 
 Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/NĐ-CP`, `282/2025/NĐ-CP`, `23/2024/TT-BCT`, `47/2020/TT-BCT`, `75/2024/TT-BCA`, `98/2024/TT-BQP`, `09/2026/TT-BQP` (Bạn cung cấp 09/8/2026). Trọng tâm: **chức năng, nhiệm vụ, quyền hạn của UBND cấp tỉnh và Sở Công Thương**.

@@ -1,6 +1,6 @@
 # Kho bài mẫu gốc — MỤC LỤC
 
-Thư mục `kho-bai-mau/` lưu 12 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
+Thư mục `kho-bai-mau/` lưu 14 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
 của skill này. Tên file đã chuẩn hoá ASCII (không dấu) để tương thích khi upload;
 tên gốc ghi ở cột "Tên gốc". Khi soạn bài mới, **ưu tiên mở đúng file mẫu gần nhất
 với dịp đang soạn** (Chế độ B — sửa mẫu thật, trước khi dựng mới). Bản GĐ đã duyệt
@@ -21,6 +21,8 @@ là chuẩn cao nhất để đối chiếu.
 
 | File | Tên gốc | Dịp |
 |---|---|---|
+| `phong-van-ttxvn-2026-08-11-ban-duyet-pgd-thuan.docx` | DỰ THẢO NỘI DUNG TRẢ LỜI PHỎNG VẤN 11.8.26 | ⭐ **BẢN PGĐ HOÀNG VĂN THUÂN DUYỆT** — chuẩn cao nhất cho thể loại trả lời phỏng vấn báo chí (TTXVN, CV 08/TTX-CQTT 05/8/2026); đối chiếu cùng `references/tra-loi-phong-van-bao-chi.md` |
+| `phong-van-ttxvn-tom-tat-2026-08-11.docx` | TÓM TẮT TRẢ LỜI PHỎNG VẤN TTXVN | ⭐ Bản **tóm tắt cầm tay** đi kèm bản duyệt trên — mẫu cho "sản phẩm kép" bắt buộc khi soạn phỏng vấn |
 | `bai-viet-ky-niem-75-nam-nganh-ct.docx` | Tài liệu Bài viết kỷ niệm 75 … | Bài viết/phỏng vấn kỷ niệm 75 năm ngành Công Thương (hỏi - đáp) |
 | `phong-van-gd-hoang-chi-hien-2026-01-13.docx` | Câu hỏi phỏng vấn GĐ Hoàng Chí Hiền 13.01.2026 | Bộ câu hỏi + trả lời phỏng vấn |
 | `noi-dung-phong-van-chu-tich-ubnd-tinh.docx` | SCT hs 4226 … phỏng vấn Chủ tịch UBND tỉnh | Nội dung phục vụ phỏng vấn Chủ tịch UBND tỉnh |

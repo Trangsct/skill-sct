@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-11 — bpb-sct-vn v1.3.0: bổ sung thể loại TRẢ LỜI PHỎNG VẤN BÁO CHÍ
+
+Nguồn: bản duyệt của PGĐ Hoàng Văn Thuân (11/8/2026) cho vụ phỏng vấn TTXVN (CV 08/TTX-CQTT ngày 05/8/2026), so sánh với bản Claude soạn.
+
+- Thêm `references/tra-loi-phong-van-bao-chi.md`: 11 quy tắc riêng + checklist — mở bài số liệu vĩ mô tầng bậc (GRDP → khu vực → ngành, nguồn Cục Thống kê/BC Tỉnh ủy, không cảm ơn, không số "sự kiện"); khung "điểm nghẽn → năng lực sản xuất mới"; nói hạn chế bằng ngôn ngữ kỹ trị có dẫn chứng đích danh (phôi thép, đồng cathode, phốt pho vàng); giải pháp theo CHUỖI SẢN PHẨM có tên mỏ/nhà máy (Quý Xa → Gang thép Lào Cai; khai trường apatit, tuyển Tam Đỉnh/Anh Nhẫn; chuỗi đồng); nguyên tắc 3 tầng thẩm quyền; không đọc số hiệu văn bản; không xác nhận tiền đề tiêu cực của câu hỏi, không tự phô số liệu tiêu cực ngoài lĩnh vực chủ trì; trách nhiệm liên ngành liệt kê đủ - SCT nói sau cùng; giọng điềm đạm, cấm khẩu ngữ gằn; sản phẩm kép kèm bản tóm tắt cầm tay.
+- Thêm 2 mẫu duyệt vào `kho-bai-mau/`: `phong-van-ttxvn-2026-08-11-ban-duyet-pgd-thuan.docx` (chuẩn cao nhất cho thể loại phỏng vấn) và `phong-van-ttxvn-tom-tat-2026-08-11.docx` (mẫu bản tóm tắt cầm tay); cập nhật `00-MUC-LUC.md` (12 → 14 mẫu).
+- SKILL.md: mục 1 cảnh báo phỏng vấn là thể loại riêng, bắt buộc đọc reference mới + mở 2 mẫu duyệt, luôn giao sản phẩm kép; mục 8 bổ sung reference.
+- plugin.json → 1.3.0, description ghi rõ năng lực phỏng vấn, keyword `tra-loi-phong-van`.
+
 ## 2026-08-09 — RÀ SOÁT, NÂNG CẤP ĐỒNG BỘ 4 PLUGIN VLNCN theo 10 văn bản gốc mới
 
 Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/NĐ-CP`, `282/2025/NĐ-CP`, `23/2024/TT-BCT`, `47/2020/TT-BCT`, `75/2024/TT-BCA`, `98/2024/TT-BQP`, `09/2026/TT-BQP` (Bạn cung cấp 09/8/2026). Trọng tâm: **chức năng, nhiệm vụ, quyền hạn của UBND cấp tỉnh và Sở Công Thương**.

@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-12 — bvmt-sct-vn v1.2.0: nghiệp vụ ỦY VIÊN HỘI ĐỒNG THẨM ĐỊNH GPMT + GATE NQ 66.19
+
+Nguồn: 2 hồ sơ thực chiến 11/8/2026 — BCĐX cấp GPMT CCN Phú Thịnh 1 (75 ha, trạm 1.900 m3/ngđ, HĐTĐ theo QĐ 678/QĐ-SNNMT ngày 06/8/2026) và CCN Y Can (trạm 1.000 m3/ngđ); bản chốt 2 Bản nhận xét Mẫu 30 do Bạn duyệt.
+
+- Thêm `references/08-hoi-dong-tham-dinh-gpmt.md`: **GATE NQ 66.19** — NQ 66.19/2026/NQ-CP Phần A Phụ lục IX, Mục VI loại hạ tầng CCN khỏi đối tượng ĐTM, Mục VII vẫn buộc GPMT → hồ sơ lập Mẫu 22c, thẩm quyền tỉnh, HĐTĐ đánh giá đủ Mục 1-6 Mẫu 30 (sửa lỗi kết luận ngược khi chỉ tra Luật + NĐ); CV 7046/BNNMT-MT xử lý chuyển tiếp. Bảng chọn mẫu theo vai (Mẫu 30+31/32/39). **Checklist phản biện 18 điểm** 5 nhóm: pháp lý-mẫu biểu (ký hiệu QCVN 26-27:2025/BNNMT; QCVN 40:2025 bỏ Kq Kf, chuyển tiếp chưa phân vùng xả thải dùng cột B; QCVN 01:2025/BTNMT mục 1.1.4 không áp trong CCN); cân bằng nước (hệ số K khai-áp lệch nhau ở cả 2 hồ sơ); nguồn tiếp nhận (thiếu tính sức chịu tải, lưu lượng mùa kiệt, cộng gộp); công nghệ XLNT (đầu vào B - đầu ra A không tương thích, PCB hiệu suất 0, giải pháp ngưỡng đấu nối theo nhóm thông số như CCN Quyết Tiến Hải Phòng); công trình-giấy phép (đối chiếu báo cáo-bản vẽ-tọa độ tuyến ống xả, điểm xả mưa/thải kề nhau, hồ sự cố, Điều 48 NĐ 08, VHTN theo module Điều 31). Chuẩn trình bày Bản nhận xét đã chốt (mức đánh giá không tiền tố số, dòng cha dẫn chiếu, đầu mục đậm, bảng 13pt căn giữa dọc, khối ký đoạn văn).
+- Sửa `references/03-dtm-gpmt.md`: chèn mục **0b GATE NQ 66.19** ngay trước khung phân loại.
+- Thêm `references/examples/`: 2 bản chốt docx (Phú Thịnh 1, Y Can) làm mẫu chuẩn Mẫu 30.
+- SKILL.md: nhiệm vụ 9 + reference 08 + description mới (960 ký tự); plugin.json → 1.2.0.
+
+
 ## 2026-08-11 — bpb-sct-vn v1.3.0: bổ sung thể loại TRẢ LỜI PHỎNG VẤN BÁO CHÍ
 
 Nguồn: bản duyệt của PGĐ Hoàng Văn Thuân (11/8/2026) cho vụ phỏng vấn TTXVN (CV 08/TTX-CQTT ngày 05/8/2026), so sánh với bản Claude soạn.

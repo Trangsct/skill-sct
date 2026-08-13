@@ -1,7 +1,7 @@
 {
   "name": "xp-hc-vlncn-sct-vn",
-  "version": "1.1.0",
-  "description": "Xu phat vi pham hanh chinh linh vuc HOA CHAT va VAT LIEU NO CONG NGHIEP - So Cong Thuong tinh Lao Cai: NĐ 275/2026/ND-CP (hieu luc 25/8/2026, truoc do van ap dung ND 71/2019 sd ND 17/2022), phan dinh voi ND 282/2025/ND-CP linh vuc an ninh trat tu, tra hanh vi - muc phat, tham quyen, chuyen tiep, mau bien ban - quyet dinh xu phat.",
+  "version": "1.2.0",
+  "description": "Xu phat vi pham hanh chinh linh vuc HOA CHAT va VAT LIEU NO CONG NGHIEP - So Cong Thuong tinh Lao Cai: NĐ 275/2026/ND-CP (hieu luc 25/8/2026, truoc do van ap dung ND 71/2019 sd ND 17/2022), phan dinh voi ND 282/2025/ND-CP linh vuc an ninh trat tu, tra hanh vi - muc phat, tham quyen, chuyen tiep, mau bien ban - quyet dinh xu phat; quy trinh kiem tra chuyen nganh NĐ 217/2025 + TT 56/2025/TT-BCT (Mau so 03, tam dung - dinh chi, kiem tra sau ket luan thanh tra).",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   }

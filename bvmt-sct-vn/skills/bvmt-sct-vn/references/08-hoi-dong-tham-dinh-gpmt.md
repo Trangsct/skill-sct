@@ -27,7 +27,10 @@
 - Ghi chú chân mẫu: nếu dự án ĐÃ có quyết định phê duyệt ĐTM thì KHÔNG thẩm định Mục 1–6 của bảng; nếu không đề nghị xác nhận phân loại xanh thì Mục 13 ghi Không áp dụng.
 - Hội đồng tối thiểu 07 thành viên; kết quả gửi cơ quan cấp phép (lưu ý đối chiếu QĐ ủy quyền của tỉnh: **QĐ 2589/QĐ-UBND ngày 26/12/2025** ủy quyền GĐ Sở NN&MT — nếu QĐ thành lập ghi "gửi Chủ tịch UBND tỉnh" là điểm chưa thống nhất, nêu tại phiên họp).
 
-## 3. Checklist phản biện BCĐX cấp GPMT hạ tầng CCN (18 điểm — thứ tự soát)
+## 3. Checklist phản biện BCĐX cấp GPMT hạ tầng CCN (19 điểm — thứ tự soát)
+
+**Điểm 0 — TÀI LIỆU PHẢI ĐÒI NGAY KHI NHẬN HỒ SƠ (trước khi đọc báo cáo):**
+0. Yêu cầu cơ quan thường trực/chủ dự án cung cấp kèm: **(a) hồ sơ thiết kế cơ sở hoặc Báo cáo nghiên cứu khả thi** — đây là "tài liệu pháp lý, kỹ thuật khác" bắt buộc trong hồ sơ đề nghị cấp GPMT theo khoản 1 Điều 43 Luật BVMT (BCNCKT hoặc tài liệu tương đương với dự án chưa có ĐTM); **(b) quy hoạch chi tiết 1:500 đã phê duyệt** (quyết định + bản vẽ). Lý do thực chứng: gần như toàn bộ lỗi nặng chỉ lộ khi ĐỐI CHIẾU CHÉO báo cáo ↔ bản vẽ ↔ tọa độ (Phú Thịnh 1: tuyến ống xả D140/20 m trong báo cáo ↔ D160/216 m trên bản vẽ; điểm xả mưa cách điểm xả thải 2,4 m; kích thước hồ sự cố ↔ dung tích khai; Y Can: bể sự cố 30×12,3×4,0 m ↔ 1.000 m3). QHCT 1:500 còn dùng xác minh vị trí lô HTKT, dải cây xanh cách ly, hướng thoát nước, ranh điểm xả. Nếu thiếu 2 tài liệu này: ghi vào Bản nhận xét mục 7.1 là "chưa đủ cơ sở đối chiếu" và đề nghị bổ sung trước phiên họp — KHÔNG thẩm định chay trên mỗi báo cáo đề xuất.
 
 **Nhóm A — Pháp lý, mẫu biểu:**
 1. Đúng Mẫu 22c? Có viện dẫn NQ 66.19 Mục VI + VII Phụ lục IX làm căn cứ không-ĐTM/phải-GPMT chưa?
@@ -61,6 +64,7 @@
 
 - **Nội dung:** cột đánh giá ghi trần "Đạt yêu cầu / Cần hoàn thiện / Không đạt yêu cầu / Không áp dụng" (không tiền tố số). Dòng cha chỉ ghi "Theo nhận xét tại các mục …"; nội dung trùng giữa hai dòng → giữ 1 nơi, nơi kia dẫn chiếu. Không câu bình luận chủ quan ("đây là nội dung yếu nhất") — vào thẳng dữ kiện, số liệu. Không đưa nội dung ngoài phạm vi GPMT (di dời nghĩa trang, tái định cư = việc đất đai/GPMB). Mục 6 = thuần hình thức (mẫu, bố cục, dung lượng, lỗi viện dẫn); mục 7.1/7.2/7.3/8 gạch đầu dòng "-"; mục 9 = dòng "9. Kết luận:" đậm + câu kết luận đứng riêng + 01 đoạn nghĩa vụ (gọi tên điều kiện bắt buộc, không dẫn "điểm 1,2,3"). Bỏ dòng chú thích tên mẫu ở đầu và đoạn "Ghi chú:" cuối biểu mẫu khi phát hành.
 - **Hình thức:** thân 14pt lùi đầu dòng 1 cm căn đều; đầu mục 5/6/7/7.x/8/9 **in đậm cả dòng**; tiêu ngữ gạch chân trực tiếp. Bảng: 4 cột 1,35–4,6–2,6–7,45 cm (tổng 16 cm), chữ 13pt, giãn dòng đơn, space-after 2pt, **mọi ô căn giữa dọc**, cột STT + Đánh giá căn giữa ngang, cột lý do justify; hàng tiêu đề đậm 13pt (riêng ô "Đánh giá từng nội dung…" 9pt), lặp lại đầu mỗi trang, kẻ 0,5pt đồng nhất. Khối ký dùng đoạn văn (không bảng): căn giữa nửa phải, ngày tháng nghiêng, chức danh đậm, 3 dòng trống, họ tên đậm.
+- Câu chuẩn đòi tài liệu (đưa vào mục 7.1 hoặc văn bản gửi cơ quan thường trực): "Đề nghị chủ dự án cung cấp hồ sơ thiết kế cơ sở/Báo cáo nghiên cứu khả thi và quy hoạch chi tiết tỷ lệ 1:500 đã được phê duyệt để Hội đồng có cơ sở đối chiếu quy mô, vị trí, thông số các công trình bảo vệ môi trường với nội dung báo cáo đề xuất."
 - Mục 2 ghi luôn: "…Chức danh trong Hội đồng thẩm định: Thành viên (QĐ số …/QĐ-SNNMT ngày …)". Mục 3 không email.
 - **Mức đánh giá đã dùng thực tế:** Y Can — mục 5 (khả năng tiếp nhận của nguồn nước) xếp **Không đạt yêu cầu**; Phú Thịnh 1 bản chốt để Cần hoàn thiện. Cùng khiếm khuyết thì cân nhắc nhất quán giữa các hội đồng.
 

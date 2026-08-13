@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-13 — bvmt-sct-vn v1.2.1: checklist 19 điểm — ĐIỂM 0 đòi TKCS/BCNCKT + QHCT 1:500
+
+Nguồn: chỉ đạo của Bạn 13/8/2026 sau phiên thẩm định GPMT CCN Phú Thịnh 1/Y Can.
+
+- `references/08-hoi-dong-tham-dinh-gpmt.md`: checklist 18 → **19 điểm**, thêm **Điểm 0 — tài liệu phải đòi ngay khi nhận hồ sơ**: (a) hồ sơ thiết kế cơ sở/Báo cáo nghiên cứu khả thi (căn cứ "tài liệu pháp lý, kỹ thuật khác" khoản 1 Điều 43 Luật BVMT); (b) quy hoạch chi tiết 1:500 đã phê duyệt — vì hầu hết lỗi nặng chỉ lộ khi đối chiếu chéo báo cáo ↔ bản vẽ ↔ tọa độ (D140/20m ↔ D160/216m; điểm xả cách 2,4m; kích thước ↔ dung tích hồ/bể sự cố). Thiếu thì ghi mục 7.1 "chưa đủ cơ sở đối chiếu" + đề nghị bổ sung trước phiên họp, không thẩm định chay. Kèm câu chữ chuẩn để đòi tài liệu.
+- SKILL.md: sửa sót từ v1.2.0 — bổ sung nhiệm vụ 9 (ủy viên HĐTĐ GPMT) và mô tả reference 08 vào mục VII (lần push trước script lỗi giữa chừng nên 2 phần này chưa vào file).
+- plugin.json → 1.2.1.
+
+
 ## 2026-08-12 — bvmt-sct-vn v1.2.0: nghiệp vụ ỦY VIÊN HỘI ĐỒNG THẨM ĐỊNH GPMT + GATE NQ 66.19
 
 Nguồn: 2 hồ sơ thực chiến 11/8/2026 — BCĐX cấp GPMT CCN Phú Thịnh 1 (75 ha, trạm 1.900 m3/ngđ, HĐTĐ theo QĐ 678/QĐ-SNNMT ngày 06/8/2026) và CCN Y Can (trạm 1.000 m3/ngđ); bản chốt 2 Bản nhận xét Mẫu 30 do Bạn duyệt.

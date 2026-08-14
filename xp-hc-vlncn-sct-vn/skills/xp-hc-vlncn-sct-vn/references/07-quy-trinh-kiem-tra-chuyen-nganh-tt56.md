@@ -77,3 +77,15 @@ Tình huống: Thanh tra tỉnh thanh tra Công ty A (Apatit VN), phát hiện v
 - [ ] Điều nhiệm vụ dẫn Điều 8, Điều 15 NĐ 217/2025
 - [ ] Nơi nhận có UBND tỉnh (nếu theo chỉ đạo), Thanh tra tỉnh (nếu sau KLTT); Lưu: VT, CN(tên), HSKT
 - [ ] Sau ban hành: thông báo địa điểm — thời gian trong 03 ngày làm việc (Đ7 TT 56); báo cáo kết quả ≤ 10 ngày làm việc sau kết thúc (Đ10)
+
+## G. Kế hoạch tiến hành kiểm tra (Mẫu 04) — bản thực chiến đã được lãnh đạo duyệt
+
+Ví dụ chuẩn: `vi-du-thuc-te/KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-PGD-Thuan-duyet.docx` (Kế hoạch của Đoàn kiểm tra theo QĐ 4875/QĐ-SCT, PGĐ Hoàng Văn Thuân duyệt 13/8/2026). Các quyết định biên tập của lãnh đạo cần áp dụng cho mọi kế hoạch sau này:
+
+1. **Người phê duyệt = người đã ký Quyết định kiểm tra.** Khi PGĐ ký QĐ theo thể thức KT. GIÁM ĐỐC thì khối "PHÊ DUYỆT CỦA NGƯỜI RA QUYẾT ĐỊNH KIỂM TRA" của Kế hoạch cũng do chính PGĐ đó ký KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC (không đặt Giám đốc), bảo đảm hồ sơ nhất quán một chủ thể phê duyệt.
+2. **Tên văn bản dùng "KẾ HOẠCH KIỂM TRA"** (rút gọn); header ô trái ghi đúng nguyên văn mẫu "ĐOÀN KIỂM TRA THEO QĐ SỐ …" (viết tắt QĐ); số ký hiệu "Số: …/KH-ĐKT".
+3. **Mục 2 Yêu cầu phải có mốc hoàn thành nội bộ** gắn với chỉ đạo cấp trên (vd: "hoàn thành kiểm tra, xử lý và tổng hợp kết quả trước ngày … để Sở báo cáo UBND tỉnh (qua Thanh tra tỉnh) theo Văn bản số …").
+4. **Mục 3.2 Nội dung tách 3 tầng:** a) tài liệu làm cơ sở đối chiếu (giấy phép, phương án nổ mìn *tương ứng thời điểm lập từng hộ chiếu*); b) nội dung trọng tâm (đối chiếu từng hộ chiếu với PANM về các thông số theo QCVN 01:2019/BCT); c) xác định thời hiệu từng hành vi với 2 nhánh xử lý: còn thời hiệu → lập biên bản VPHC, củng cố hồ sơ; hết thời hiệu → ghi nhận rõ căn cứ, báo cáo Giám đốc Sở để báo cáo UBND tỉnh.
+5. **Mục 3.3 Thời gian ấn định ngắn, có van an toàn:** "Dự kiến 02 ngày làm việc, kể từ ngày công bố Quyết định kiểm tra; trường hợp thay đổi thời gian, Sở thông báo trước cho đơn vị bằng văn bản" — ngắn hơn nhiều trần 10 ngày của NĐ 217, thể hiện không gây phiền hà doanh nghiệp.
+6. **Mục 4 Phân công cá thể hóa từng thành viên** (Trưởng đoàn: phụ trách chung + tổng hợp báo cáo; từng thành viên: đầu việc cụ thể + ai tham mưu biên bản VPHC), tránh phân công chung chung.
+7. **Mục 6.2 kèm Đề cương báo cáo (Phụ lục)** yêu cầu doanh nghiệp chuẩn bị báo cáo bằng văn bản trước — vừa đúng Điều 8 TT 56 (yêu cầu cung cấp thông tin trước), vừa rút ngắn thời gian làm việc thực địa.

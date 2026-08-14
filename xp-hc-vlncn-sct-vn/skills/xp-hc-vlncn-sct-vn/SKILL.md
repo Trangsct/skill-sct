@@ -120,6 +120,9 @@ xp-hc-vlncn-sct-vn/
 │   ├── 06-moc-hieu-luc-phan-dinh-nd-282-2025.md ← mốc hiệu lực + phân định NĐ 282/2025
 │   └── 07-quy-trinh-kiem-tra-chuyen-nganh-tt56.md ← quy trình NĐ 217 + TT 56, Mẫu 03,
 │                                        tạm dừng/đình chỉ, kiểm tra sau KLTT, checklist
+├── vi-du-thuc-te/
+│   └── KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-PGD-Thuan-duyet.docx
+│                                        ← Kế hoạch kiểm tra (Mẫu 04) bản PGĐ duyệt — tiền lệ chuẩn
 └── van-ban-goc/
     ├── ND-275-2026-NDCP-xu-phat-VPHC-hoa-chat-VLNCN.docx  ← toàn văn (bản Word)
     ├── 2025.10.30-282.2025.ND.CP-Xu-phat-VPHC-an-ninh-trat-tu-ATXH.docx

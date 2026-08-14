@@ -1,5 +1,9 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## 1.3.0 — 14/8/2026
+- **vi-du-thuc-te/** (mới): Kế hoạch kiểm tra theo QĐ 4875/QĐ-SCT — bản PGĐ Hoàng Văn Thuân duyệt 13/8/2026, tiền lệ chuẩn cho Mẫu 04.
+- **references/07 mục G**: 7 quyết định biên tập của lãnh đạo cần áp dụng cho mọi kế hoạch kiểm tra: người phê duyệt = người ký QĐ (KT. GĐ — PGĐ); tên "KẾ HOẠCH KIỂM TRA"; yêu cầu có mốc hoàn thành nội bộ; nội dung 3 tầng a/b/c (tài liệu đối chiếu — trọng tâm — thời hiệu 2 nhánh); thời gian "dự kiến 02 ngày làm việc" kèm van thay đổi; phân công cá thể hóa; đề cương báo cáo phụ lục cho doanh nghiệp.
+
 ## 1.2.0 — 13/8/2026
 Bổ sung mảng QUY TRÌNH KIỂM TRA CHUYÊN NGÀNH (cửa ngõ dẫn tới xử phạt):
 - **van-ban-goc/**: toàn văn **Thông tư 56/2025/TT-BCT ngày 28/11/2025** (12 điều + 10 mẫu) — trước đây chưa plugin nào trong hệ sinh thái có bản gốc.

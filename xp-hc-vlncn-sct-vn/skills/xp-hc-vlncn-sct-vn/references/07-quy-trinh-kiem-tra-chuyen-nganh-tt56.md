@@ -101,25 +101,27 @@ Ví dụ chuẩn: `vi-du-thuc-te/KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-
 
 **Ví dụ đã xử lý (vụ Hóa chất mỏ Tây Bắc, 8/2026):** 03 hộ chiếu nêu tại Mục 3.3 Phần II KL 48 — số 14/2022HCNM ngày 13/6/2022 (hết 13/6/2023), số 12/HCNM ngày 29/01/2024 (hết 29/01/2025), số 05/02/2025/HCNM ngày 03/02/2025 (hết 03/02/2026) — đều hết thời hiệu tại thời điểm kiểm tra 8/2026. Hành vi quy định tại **điểm a khoản 2 Điều 56 NĐ 71/2019** (hộ chiếu nổ mìn lập không đầy đủ nội dung; lập không phù hợp giấy phép sử dụng VLNCN hoặc PANM được phê duyệt): phạt 5.000.000–10.000.000 đồng với cá nhân, **tổ chức gấp 02 lần** (khoản 2 Điều 4 NĐ 71/2019) = 10–20 triệu, trung bình 15 triệu.
 
-## I. Bộ hồ sơ chuẩn một cuộc kiểm tra dẫn tới xử phạt (9 văn bản)
+## I. Bộ hồ sơ một cuộc kiểm tra dẫn tới xử phạt (7 văn bản)
 
-Bộ mẫu đầy đủ: `vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/` — dùng lại bằng cách thay tên đối tượng, số QĐ, nội dung hành vi.
+Bộ mẫu: `vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/`. Đối chiếu bộ đã ban hành `bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/`.
+
+> **CẢNH BÁO — TT 56 chỉ ban hành DUY NHẤT 01 mẫu biên bản là Mẫu số 05 (Biên bản kiểm tra).** Chín mẫu còn lại đều là quyết định/kế hoạch/báo cáo (01 đề xuất KH chuyên đề, 02 QĐ ban hành KH, 03 QĐ kiểm tra, 04 KH tiến hành, 06 Báo cáo kết quả, 07 tạm dừng, 08 đình chỉ, 09 thay đổi Trưởng đoàn, 10 thay đổi thành viên). **KHÔNG tự đặt thêm loại biên bản mới** (biên bản làm việc, biên bản xác định hành vi…) và đánh số kiểu BB-ĐKT như thể có mẫu quy định — đó là lỗi đã từng mắc và phải sửa.
 
 | # | Văn bản | Mẫu/căn cứ | Người ký |
 |---|---|---|---|
-| 1 | Quyết định kiểm tra | Mẫu 03 TT 56 | GĐ (hoặc PGĐ KT.) |
-| 2 | Kế hoạch tiến hành kiểm tra | Mẫu 04 TT 56 | Trưởng đoàn lập, người ra QĐ phê duyệt |
-| 3 | Thông báo thời gian, địa điểm làm việc | Điều 7 TT 56 (03 ngày làm việc) | Trưởng đoàn |
-| 4 | Biên bản công bố Quyết định kiểm tra | Điều 9 TT 56 | Trưởng đoàn + đối tượng |
-| 5 | Biên bản làm việc, cung cấp hồ sơ tài liệu | Điều 8 TT 56 | Trưởng đoàn + đối tượng |
-| 6 | Biên bản kiểm tra | Mẫu 05 TT 56 | Trưởng đoàn + đối tượng |
-| 7 | Biên bản xác định hành vi VPHC và thời hiệu | theo tiền lệ BB09/BB-ĐTT Thanh tra tỉnh | Trưởng đoàn + đối tượng |
-| 8 | Biên bản VPHC (nếu còn thời hiệu) | Điều 58 Luật XLVPHC, mẫu NĐ 118/2021 | Người lập biên bản |
-| 9 | Báo cáo kết quả kiểm tra | Mẫu 06 TT 56 (≤10 ngày làm việc) | Trưởng đoàn |
+| 1 | Quyết định kiểm tra | **Mẫu 03 TT 56** | GĐ (hoặc PGĐ KT.) |
+| 2 | Kế hoạch tiến hành kiểm tra | **Mẫu 04 TT 56** | Trưởng đoàn lập, người ra QĐ phê duyệt |
+| 3 | Thông báo thời gian, địa điểm làm việc | Điều 7 TT 56 (03 ngày làm việc) — không có mẫu, có tiền lệ Sở (TB 2948/TB-ĐKT) | Trưởng đoàn |
+| 4 | Biên bản công bố Quyết định kiểm tra | Điều 9 TT 56 — không có mẫu, có tiền lệ Sở (01/BB-ĐKT) | Trưởng đoàn + đối tượng |
+| 5 | **Biên bản kiểm tra** | **Mẫu 05 TT 56** | Trưởng đoàn + đối tượng |
+| 6 | Biên bản VPHC (khi còn thời hiệu) | Điều 58 Luật XLVPHC, **Mẫu biên bản số 01 NĐ 118/2021** | Người lập biên bản (01 người) |
+| 7 | Báo cáo kết quả kiểm tra | **Mẫu 06 TT 56** (≤10 ngày làm việc) | Trưởng đoàn |
 
-Kèm theo khi có xử phạt: Quyết định xử phạt VPHC (mẫu NĐ 118/2021, căn cứ NĐ 189/2025 về thẩm quyền).
+Kèm theo khi có xử phạt: Quyết định xử phạt VPHC (mẫu NĐ 118/2021, thẩm quyền theo NĐ 189/2025).
 
-**Văn bản số 7 là mắt xích hay bị bỏ sót.** Nó tách bạch: hành vi cụ thể → căn cứ điều khoản → thời điểm chấm dứt → kết luận còn/hết thời hiệu, có chữ ký đối tượng. Đây là chứng cứ then chốt khi hồ sơ bị hậu kiểm, đặc biệt khi kết luận là "hết thời hiệu, không xử phạt" — không có văn bản này thì việc không xử phạt dễ bị quy là bỏ lọt vi phạm.
+**Hai nội dung hay bị tách nhầm thành biên bản riêng — phải để trong Biên bản kiểm tra (Mẫu 05):**
+- *Danh mục hồ sơ, tài liệu do đối tượng cung cấp* → ghi ở mục "Hồ sơ, tài liệu do Công ty cung cấp: **Theo Phụ lục đính kèm Biên bản này**", danh mục đánh số đặt thành **Phụ lục cuối biên bản**, có chữ ký hai bên. Đây đúng cách Sở làm tại Biên bản kiểm tra Khí công nghiệp.
+- *Xác định hành vi VPHC và thời hiệu xử phạt* → ghi thành mục cuối phần Nội dung của Biên bản kiểm tra (vd 3.5), mỗi hành vi nêu: hành vi → căn cứ điều khoản → thời điểm chấm dứt → còn/hết thời hiệu; kết thúc bằng kết luận hai nhánh (còn thời hiệu → lập BB VPHC; hết → điểm c khoản 1 Điều 65, báo cáo). Cách trình bày theo hành vi này học từ BB09/BB-ĐTT của Đoàn thanh tra tỉnh, nhưng **BB09 là văn bản của quy trình thanh tra theo Luật Thanh tra, không phải của kiểm tra chuyên ngành** — chỉ mượn cách bố cục, không lập thành biên bản riêng.
 
 ## K. THỂ THỨC CHUẨN theo hồ sơ đã ban hành của Sở (đối chiếu bộ Khí công nghiệp 5-6/2026)
 

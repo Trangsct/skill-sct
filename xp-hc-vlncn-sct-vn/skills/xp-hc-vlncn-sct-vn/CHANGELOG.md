@@ -1,5 +1,11 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## 1.6.0 — 15/8/2026 (SỬA LỖI của 1.4.0)
+- **Sửa lỗi nghiêm trọng tại references/07 mục I**: bản 1.4.0 nêu "bộ hồ sơ chuẩn 9 văn bản", trong đó có **02 văn bản không có căn cứ pháp lý** (Biên bản làm việc, Biên bản xác định hành vi VPHC) do soạn nhầm. Đối chiếu lại: **TT 56 chỉ ban hành DUY NHẤT 01 mẫu biên bản là Mẫu số 05**. Nay bảng rút về **07 văn bản**, mỗi dòng ghi rõ có mẫu quy định hay chỉ có tiền lệ Sở; bổ sung cảnh báo không tự đặt thêm loại biên bản mới và đánh số BB-ĐKT.
+- **Hướng dẫn thay thế**: danh mục hồ sơ do DN cung cấp → **Phụ lục đính kèm Biên bản kiểm tra** (đúng cách Sở làm tại BB kiểm tra Khí công nghiệp); xác định hành vi VPHC + thời hiệu → **mục cuối phần Nội dung Biên bản kiểm tra**; ghi chú BB09 của Thanh tra tỉnh thuộc quy trình thanh tra theo Luật Thanh tra, chỉ mượn bố cục.
+- **SKILL.md**: thêm cảnh báo "TT 56 chỉ có 01 mẫu biên bản" lên đầu khối quy tắc.
+- **vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/**: cập nhật bộ 07 file (bỏ 02 biên bản tự chế; Biên bản kiểm tra nay kèm Phụ lục danh mục hồ sơ và mục 3.5 xác định hành vi, thời hiệu).
+
 ## 1.5.0 — 15/8/2026
 Chuẩn hóa thể thức theo **hồ sơ đã ban hành** (đối chiếu bộ xử phạt Cty TNHH MTV Khí công nghiệp Lào Cai, 5-6/2026):
 - **vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/**: 5 văn bản gốc đã ký đóng dấu — QĐ 2872/QĐ-SCT (Mẫu 03 đã ban hành), TB 2948/TB-ĐKT, BB công bố 01/BB-ĐKT, BB VPHC 01.KCN/BB-VPHC (Mẫu biên bản số 01, 7 trang), QĐ-XPHC (bản Word).

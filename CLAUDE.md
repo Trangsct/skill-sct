@@ -2,8 +2,9 @@
 
 ## Quy trình giao nộp (Bạn chốt 15/8/2026 - áp dụng vĩnh viễn)
 
-- **Sau khi hoàn thành việc nâng cấp/cập nhật skill hoặc plugin** (sửa SKILL.md, references, văn bản gốc, plugin.json...): commit, push lên nhánh làm việc, rồi **LUÔN mở Pull Request gộp nhánh đó vào `main` ngay, KHÔNG cần hỏi lại**. Ghi rõ trong PR: plugin nào, phiên bản mới, nội dung thay đổi chính.
-- Không tự merge PR - việc merge do Bạn quyết định trên GitHub.
+- **Sau khi hoàn thành việc nâng cấp/cập nhật skill hoặc plugin** (sửa SKILL.md, references, văn bản gốc, plugin.json...): commit, push lên nhánh làm việc, **LUÔN mở Pull Request gộp nhánh đó vào `main` VÀ MERGE NGAY, KHÔNG cần hỏi lại**. Ghi rõ trong PR: plugin nào, phiên bản mới, nội dung thay đổi chính.
+- Lý do Bạn chốt: cần hiệu quả công việc, đã có nhiều bản sao lưu nên ưu tiên nhanh, không lo sai lệch dữ liệu.
+- Quy tắc merge-ngay này áp dụng cho việc nâng cấp skill/plugin; việc khác ngoài phạm vi đó thì vẫn hỏi trước khi merge.
 
 ## Quy tắc nghiệp vụ chung
 

@@ -1,6 +1,6 @@
 {
   "name": "bpb-sct-vn",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Soạn bài phát biểu, tham luận, diễn văn và TRẢ LỜI PHỎNG VẤN BÁO CHÍ cho Giám đốc và lãnh đạo Sở Công Thương tỉnh Lào Cai theo phong cách đã duyệt: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, định dạng docx Times New Roman 15pt. Riêng phỏng vấn báo chí có 11 quy tắc riêng (references/tra-loi-phong-van-bao-chi.md, đúc kết từ bản duyệt PGĐ 11/8/2026): mở bài số liệu vĩ mô tầng bậc, giải pháp theo chuỗi sản phẩm, 3 tầng thẩm quyền, không đọc số hiệu văn bản, không xác nhận tiền đề tiêu cực, sản phẩm kép kèm bản tóm tắt cầm tay. Kèm 14 bài mẫu gốc của Sở và script build_bpb.py.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

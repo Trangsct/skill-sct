@@ -1,5 +1,11 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## 1.4.0 — 15/8/2026
+- **references/07 mục H — THỜI HIỆU (quy tắc chốt)**: hóa chất/VLNCN = **01 năm** theo điểm a khoản 1 Điều 6 Luật XLVPHC sửa tại Luật 88/2025/QH15 (đã đối chiếu bản gốc); cảnh báo bẫy suy diễn "hoạt động khoáng sản khác" = 02 năm; mốc tính theo thời điểm chấm dứt hành vi (phải xác minh ngày nổ mìn thực tế, không lấy mặc định ngày lập hộ chiếu); hết thời hiệu → điểm c khoản 1 Điều 65, không lập BB VPHC, không ra QĐ xử phạt; ví dụ 03 hộ chiếu vụ HCM Tây Bắc + khung phạt điểm a khoản 2 Điều 56 NĐ 71/2019 (tổ chức gấp 02 lần theo khoản 2 Điều 4).
+- **references/07 mục I**: bảng bộ hồ sơ chuẩn 9 văn bản một cuộc kiểm tra dẫn tới xử phạt, nêu rõ mắt xích hay bị bỏ sót là Biên bản xác định hành vi VPHC và thời hiệu (theo tiền lệ BB09/BB-ĐTT của Thanh tra tỉnh).
+- **vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/**: trọn bộ 9 văn bản thực tế (QĐ 4875 → Kế hoạch → Thông báo → 5 biên bản → QĐ xử phạt → Báo cáo).
+- **SKILL.md**: bổ sung hộp quy tắc thời hiệu vào mục văn bản lõi; cập nhật cây thư mục.
+
 ## 1.3.0 — 14/8/2026
 - **vi-du-thuc-te/** (mới): Kế hoạch kiểm tra theo QĐ 4875/QĐ-SCT — bản PGĐ Hoàng Văn Thuân duyệt 13/8/2026, tiền lệ chuẩn cho Mẫu 04.
 - **references/07 mục G**: 7 quyết định biên tập của lãnh đạo cần áp dụng cho mọi kế hoạch kiểm tra: người phê duyệt = người ký QĐ (KT. GĐ — PGĐ); tên "KẾ HOẠCH KIỂM TRA"; yêu cầu có mốc hoàn thành nội bộ; nội dung 3 tầng a/b/c (tài liệu đối chiếu — trọng tâm — thời hiệu 2 nhánh); thời gian "dự kiến 02 ngày làm việc" kèm van thay đổi; phân công cá thể hóa; đề cương báo cáo phụ lục cho doanh nghiệp.

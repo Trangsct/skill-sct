@@ -89,3 +89,34 @@ Ví dụ chuẩn: `vi-du-thuc-te/KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-
 5. **Mục 3.3 Thời gian ấn định ngắn, có van an toàn:** "Dự kiến 02 ngày làm việc, kể từ ngày công bố Quyết định kiểm tra; trường hợp thay đổi thời gian, Sở thông báo trước cho đơn vị bằng văn bản" — ngắn hơn nhiều trần 10 ngày của NĐ 217, thể hiện không gây phiền hà doanh nghiệp.
 6. **Mục 4 Phân công cá thể hóa từng thành viên** (Trưởng đoàn: phụ trách chung + tổng hợp báo cáo; từng thành viên: đầu việc cụ thể + ai tham mưu biên bản VPHC), tránh phân công chung chung.
 7. **Mục 6.2 kèm Đề cương báo cáo (Phụ lục)** yêu cầu doanh nghiệp chuẩn bị báo cáo bằng văn bản trước — vừa đúng Điều 8 TT 56 (yêu cầu cung cấp thông tin trước), vừa rút ngắn thời gian làm việc thực địa.
+
+## H. THỜI HIỆU xử phạt VPHC lĩnh vực hóa chất, VLNCN — quy tắc chốt (KHÔNG suy đoán lại)
+
+**Thời hiệu là 01 NĂM.** Căn cứ: điểm a khoản 1 Điều 6 Luật XLVPHC 2012, sửa tại **khoản 1 Điều 1 Luật số 88/2025/QH15 ngày 25/6/2025**. Danh mục lĩnh vực có thời hiệu 02 năm (kế toán; hóa đơn; phí, lệ phí; kinh doanh bảo hiểm; quản lý giá; chứng khoán; sở hữu trí tuệ; xây dựng; thủy sản; lâm nghiệp; tài nguyên nước; **hoạt động dầu khí và hoạt động khoáng sản khác**; bảo vệ môi trường; năng lượng nguyên tử; nhà và công sở; đất đai; đê điều; báo chí; xuất bản; sản xuất, xuất khẩu, nhập khẩu, kinh doanh hàng hóa; hàng cấm, hàng giả; quản lý lao động ngoài nước; khiếu nại, tố cáo, kiến nghị, phản ánh) **KHÔNG có hóa chất, KHÔNG có VLNCN**.
+
+- NĐ 71/2019, NĐ 17/2022 và NĐ 275/2026 đều **không quy định thời hiệu riêng** — chỉ dẫn chiếu pháp luật XLVPHC (khoản 2 Điều 5 NĐ 275/2026 về xác định hành vi đã kết thúc/đang thực hiện). Vì vậy không có căn cứ nào để áp 02 năm.
+- **Bẫy hay gặp:** hành vi VLNCN phát sinh trong hoạt động khai thác khoáng sản (nổ mìn tại mỏ) dễ bị suy diễn thành "hoạt động khoáng sản khác" → 02 năm. **Sai.** Lĩnh vực xử phạt xác định theo *nghị định điều chỉnh hành vi*: hành vi bị xử phạt theo NĐ 71/2019 (lĩnh vực hóa chất và VLNCN) → thời hiệu 01 năm, kể cả khi kết luận thanh tra xếp nội dung đó vào mục "Lĩnh vực khoáng sản".
+- **Mốc tính:** hành vi đã kết thúc → tính từ thời điểm chấm dứt hành vi; đang thực hiện → từ thời điểm phát hiện (điểm b khoản 1 Điều 6). Với hộ chiếu nổ mìn, hành vi kết thúc khi thực hiện xong đợt nổ theo hộ chiếu → **phải xác minh và ghi nhận bằng chứng cứ thời điểm nổ mìn thực tế**, không mặc định lấy ngày lập hộ chiếu.
+- **Hết thời hiệu thì làm gì:** KHÔNG lập biên bản VPHC, KHÔNG ra quyết định xử phạt (**điểm c khoản 1 Điều 65 Luật XLVPHC**). Vẫn có thể ra quyết định tịch thu tang vật cấm lưu hành hoặc áp dụng biện pháp khắc phục hậu quả theo khoản 1 Điều 28 (khoản 2 Điều 65); phải ghi rõ lý do không xử phạt. Ghi nhận căn cứ vào hồ sơ kiểm tra và báo cáo cơ quan đã kiến nghị.
+
+**Ví dụ đã xử lý (vụ Hóa chất mỏ Tây Bắc, 8/2026):** 03 hộ chiếu nêu tại Mục 3.3 Phần II KL 48 — số 14/2022HCNM ngày 13/6/2022 (hết 13/6/2023), số 12/HCNM ngày 29/01/2024 (hết 29/01/2025), số 05/02/2025/HCNM ngày 03/02/2025 (hết 03/02/2026) — đều hết thời hiệu tại thời điểm kiểm tra 8/2026. Hành vi quy định tại **điểm a khoản 2 Điều 56 NĐ 71/2019** (hộ chiếu nổ mìn lập không đầy đủ nội dung; lập không phù hợp giấy phép sử dụng VLNCN hoặc PANM được phê duyệt): phạt 5.000.000–10.000.000 đồng với cá nhân, **tổ chức gấp 02 lần** (khoản 2 Điều 4 NĐ 71/2019) = 10–20 triệu, trung bình 15 triệu.
+
+## I. Bộ hồ sơ chuẩn một cuộc kiểm tra dẫn tới xử phạt (9 văn bản)
+
+Bộ mẫu đầy đủ: `vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/` — dùng lại bằng cách thay tên đối tượng, số QĐ, nội dung hành vi.
+
+| # | Văn bản | Mẫu/căn cứ | Người ký |
+|---|---|---|---|
+| 1 | Quyết định kiểm tra | Mẫu 03 TT 56 | GĐ (hoặc PGĐ KT.) |
+| 2 | Kế hoạch tiến hành kiểm tra | Mẫu 04 TT 56 | Trưởng đoàn lập, người ra QĐ phê duyệt |
+| 3 | Thông báo thời gian, địa điểm làm việc | Điều 7 TT 56 (03 ngày làm việc) | Trưởng đoàn |
+| 4 | Biên bản công bố Quyết định kiểm tra | Điều 9 TT 56 | Trưởng đoàn + đối tượng |
+| 5 | Biên bản làm việc, cung cấp hồ sơ tài liệu | Điều 8 TT 56 | Trưởng đoàn + đối tượng |
+| 6 | Biên bản kiểm tra | Mẫu 05 TT 56 | Trưởng đoàn + đối tượng |
+| 7 | Biên bản xác định hành vi VPHC và thời hiệu | theo tiền lệ BB09/BB-ĐTT Thanh tra tỉnh | Trưởng đoàn + đối tượng |
+| 8 | Biên bản VPHC (nếu còn thời hiệu) | Điều 58 Luật XLVPHC, mẫu NĐ 118/2021 | Người lập biên bản |
+| 9 | Báo cáo kết quả kiểm tra | Mẫu 06 TT 56 (≤10 ngày làm việc) | Trưởng đoàn |
+
+Kèm theo khi có xử phạt: Quyết định xử phạt VPHC (mẫu NĐ 118/2021, căn cứ NĐ 189/2025 về thẩm quyền).
+
+**Văn bản số 7 là mắt xích hay bị bỏ sót.** Nó tách bạch: hành vi cụ thể → căn cứ điều khoản → thời điểm chấm dứt → kết luận còn/hết thời hiệu, có chữ ký đối tượng. Đây là chứng cứ then chốt khi hồ sơ bị hậu kiểm, đặc biệt khi kết luận là "hết thời hiệu, không xử phạt" — không có văn bản này thì việc không xử phạt dễ bị quy là bỏ lọt vi phạm.

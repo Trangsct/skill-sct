@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-15 — Bảo trì toàn bộ 19 plugin: dồn từ khóa kích hoạt vào 250 ký tự đầu của description, sửa 2 plugin vượt ngưỡng 1024
+
+Căn cứ: giới hạn cứng của trường description SKILL.md là 1024 ký tự; danh sách skill hiển thị cho Claude bị cắt ở ~250 ký tự đầu mỗi description — từ khóa nằm sau mốc này không tham gia quyết định kích hoạt skill. Rà toàn repo phát hiện: xp-hc-vlncn-sct-vn 1513 ký tự (mất trắng cụm từ khóa cuối), bpb-sct-vn 1045 ký tự + viết dạng block scalar >- (dạng cần tránh); 17 plugin còn lại hợp lệ nhưng từ khóa dồn ở cuối.
+
+- **Viết lại cả 19 description** theo cấu trúc thống nhất: [LĨNH VỰC] + "Kích hoạt: <từ khóa chủ đạo>" trong 250 ký tự đầu → nghiệp vụ → "Từ khóa thêm". Chuỗi một dòng có dấu nháy, bỏ block scalar. Giữ nguyên 100% căn cứ pháp lý, tên văn bản, mã TTHC từ bản cũ — chỉ sắp xếp lại và nén, không thêm nội dung mới.
+- **Cắt về ≤1024:** xp-hc-vlncn-sct-vn 1513 → 1023 (nén mục 7 kiểm tra chuyên ngành, giữ đủ NĐ 275/2026, NĐ 71/2019, NĐ 282/2025, TT 56/2025, Mẫu số 03, Điều 305 BLHS); bpb-sct-vn 1045 → 762.
+- **Xác minh tự động cả 19:** parse YAML đạt, một dòng, ≤1024, từ khóa chủ đạo nằm trong 250 ký tự đầu.
+- Nâng patch version 19 plugin (hnh 1.8.1; kccn 1.19.1; vbhc 2.9.1; sct-laocai-org 2.0.4; sd-vlncn 2026.8.15; ...). Không đụng thân SKILL.md, references, mẫu.
+
 ## 2026-08-15 — hnh-sct-vn v1.8.0: bộ hồ sơ doanh nghiệp mẫu chuẩn NHÓM LOẠI 8 (Hà Tân) + quy tắc biển kiểm soát
 
 - **Thêm `vi-du-thuc-te/ha-tan-axit-loai8-082026/`** — bộ hồ sơ mẫu đầu tiên của nhóm loại 8: 04 tệp docx (Giấy đề nghị, Bảng kê người lái xe và người áp tải, Bảng kê phương tiện, Phương án) + README. 09 chất ăn mòn, 28.100 tấn/năm, hàng đi trong **công-ten-nơ bồn (ISO tank)** trên sơ mi rơ moóc chở container; thời hạn đề nghị 24 tháng.

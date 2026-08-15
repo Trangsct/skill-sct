@@ -1,19 +1,6 @@
 ---
 name: bpb-sct-vn
-description: >-
-  Chuyên gia soạn BÀI PHÁT BIỂU / THAM LUẬN cho Giám đốc Sở Công Thương tỉnh Lào
-  Cai theo phong cách đã duyệt. Dùng khi soạn/biên tập: phát biểu tham luận tại hội
-  nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; hội nghị giao ban - giao kế
-  hoạch, tổng kết, triển khai nghị quyết; phát biểu khai mạc/bế mạc/chỉ đạo/chào
-  mừng; diễn văn kỷ niệm; hoặc nội dung phỏng vấn, bài viết ký tên Giám đốc Sở.
-  Skill nắm kết cấu chuẩn (kính thưa phân tầng → mở đầu gắn nghị quyết → các nhóm
-  nhiệm vụ → tín hiệu cơ hội → cam kết → cảm ơn), giọng văn nói chính trị - trang
-  trọng, ngân hàng câu từ, quy tắc "bản duyệt" (điền đủ số liệu thật, bỏ chuỗi xin
-  ý kiến, cấp Sở không kiến nghị Ban Thường vụ) và định dạng docx riêng (Times New
-  Roman 15pt). Trigger: "bài phát biểu", "phát biểu tham luận", "tham luận", "diễn
-  văn", "phát biểu khai mạc/bế mạc/chỉ đạo", "phát biểu cho Giám đốc/lãnh đạo Sở",
-  "BPB", "kính thưa hội nghị", hội nghị giao ban/giao KH/BCH/triển khai nghị quyết.
-  Liên kết vbhc-vn (render/QA docx) và sct-laocai-org-vn.
+description: "BÀI PHÁT BIỂU, THAM LUẬN, DIỄN VĂN cho Giám đốc/lãnh đạo Sở Công Thương Lào Cai. Kích hoạt: 'bài phát biểu', 'tham luận', 'diễn văn', 'phát biểu khai mạc/bế mạc/chỉ đạo/chào mừng', 'BPB', 'kính thưa hội nghị'; hội nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; giao ban - giao kế hoạch, tổng kết, triển khai nghị quyết; diễn văn kỷ niệm; phỏng vấn, bài viết ký tên Giám đốc Sở. Kết cấu chuẩn đã duyệt: kính thưa phân tầng - mở đầu gắn nghị quyết - các nhóm nhiệm vụ - tín hiệu cơ hội - cam kết - cảm ơn; giọng văn nói chính trị - trang trọng; ngân hàng câu từ; quy tắc bản duyệt (điền đủ số liệu thật, bỏ chuỗi xin ý kiến, cấp Sở không kiến nghị Ban Thường vụ); định dạng docx riêng Times New Roman 15pt. Liên kết vbhc-vn (render/QA docx) và sct-laocai-org-vn."
 ---
 
 # Soạn Bài phát biểu Giám đốc Sở Công Thương Lào Cai

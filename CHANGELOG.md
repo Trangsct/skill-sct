@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-15 — hnh-sct-vn v1.8.0: bộ hồ sơ doanh nghiệp mẫu chuẩn NHÓM LOẠI 8 (Hà Tân) + quy tắc biển kiểm soát
+
+- **Thêm `vi-du-thuc-te/ha-tan-axit-loai8-082026/`** — bộ hồ sơ mẫu đầu tiên của nhóm loại 8: 04 tệp docx (Giấy đề nghị, Bảng kê người lái xe và người áp tải, Bảng kê phương tiện, Phương án) + README. 09 chất ăn mòn, 28.100 tấn/năm, hàng đi trong **công-ten-nơ bồn (ISO tank)** trên sơ mi rơ moóc chở container; thời hạn đề nghị 24 tháng.
+- **Nguyên tắc 20 (mới):** biển kiểm soát ghi **KHÔNG kèm hậu tố** (V), (T) của Chứng nhận đăng ký xe — chỉ ghi 24H-018.08, 24RM-004.80 trong mọi hồ sơ, biên bản, phiếu trình, công văn, Giấy phép. Thay hướng dẫn cũ ở ref 11.
+- **Nguyên tắc 21 (mới):** soát chéo cả 04 tệp bộ hồ sơ doanh nghiệp theo 07 điểm (thời hạn đề nghị; dạng chứa hàng; hạng GPLX; phạm vi loại hàng; địa danh; số/ngày để trống; danh mục thành phần khớp thứ tự bộ).
+- ref 11: lỗi thẩm định **17-19** + lưu ý hai hệ hạng GPLX (E, FC theo hệ cũ và CE theo hệ mới song song, không tự quy đổi). ref 16: **mục 9** đặc thù nhóm loại 8 (Điều 11 NĐ 161 không áp dụng; mã TTHC 1.013340; mốc 14/8/2026 chọn mô hình trình ký), chuẩn thể thức khi Sở chỉnh giúp hồ sơ doanh nghiệp.
+- **Sửa lỗi tồn:** description SKILL.md 1130 ký tự (vượt ngưỡng 1024 từ v1.7.0) → rút còn 1014.
+- plugin.json → 1.8.0; CHANGELOG-v2026.08.15b.md.
+
 ## 2026-08-15 — kccn-sct-vn v1.19.0: gộp PR #14 tồn đọng (07/8) — QĐ 2736 Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1
 
 Rà soát PR tồn đọng theo yêu cầu của Bạn 15/8/2026: PR #14 (tạo 07/8, kccn v1.16.0) bị kẹt do main đã tiến lên v1.18.2 bằng nhánh song song → giải quyết xung đột, gộp phần nội dung riêng của PR thành **v1.19.0**:

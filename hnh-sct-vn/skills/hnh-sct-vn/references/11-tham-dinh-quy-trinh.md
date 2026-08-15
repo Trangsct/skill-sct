@@ -115,7 +115,7 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 |---|---|---|
 | Doanh nghiệp | GCN đăng ký doanh nghiệp / GCN đăng ký hoạt động chi nhánh | Khớp tên, mã số, địa chỉ, người đại diện với Giấy đề nghị; cơ quan cấp ghi đúng tên hiện hành ("Phòng Doanh nghiệp, Sở Tài chính tỉnh Lào Cai") |
 | Doanh nghiệp | Giấy phép kinh doanh vận tải bằng xe ô tô | CHỈ với đơn vị kinh doanh vận tải (chở thuê); vận chuyển nội bộ không cần |
-| Phương tiện | Giấy đăng ký xe; đăng ký rơ moóc/sơ mi rơ moóc | Biển số, số khung, số máy khớp Bảng kê và Giấy đề nghị; hậu tố biển (T) nếu có phải ghi đủ |
+| Phương tiện | Giấy đăng ký xe; đăng ký rơ moóc/sơ mi rơ moóc | Biển số, số khung, số máy khớp Bảng kê và Giấy đề nghị; **hậu tố nền biển (V), (T) trên đăng ký xe KHÔNG chép vào hồ sơ, văn bản, Giấy phép** - chỉ ghi phần biển số (nguyên tắc 20 SKILL.md, chốt 15/8/2026) |
 | Phương tiện | GCN kiểm định ATKT & BVMT | Còn hạn tại thời điểm cấp; ghi nhận hạn sớm nhất để cân nhắc khống chế thời hạn GP |
 | Phương tiện | GCN bảo hiểm; giấy chứng nhận bồn/xi téc (ĐLVN 05:2017) | Nếu có; xe bồn khí hóa lỏng/NH3 cần hồ sơ kiểm định bồn |
 | Phương tiện | Hợp đồng thuê xe (nếu xe không thuộc sở hữu) | Tên bên thuê/cho thuê, biển số xe khớp |
@@ -139,3 +139,11 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 14. **Thẩm định song song nhiều bộ hồ sơ của cùng một doanh nghiệp mà không soát chéo.** Khi 01 đơn vị nộp nhiều bộ (vụ Tiến Anh: LPG loại 2 + xăng, dầu diesel loại 3) phải kiểm: (a) GCN tập huấn của lái xe và người áp tải có phủ **đủ tất cả các loại hàng** của các bộ hay không; (b) 04 tiêu chí đồng nhất giữa các Giấy phép (cột khối lượng, cỡ chữ dòng "(Kèm theo...)", cấu trúc cột Ghi chú, thời hạn); (c) render và soi **hai bản cạnh nhau**. Chi tiết reference 16 mục 8.2, nguyên tắc 19 SKILL.md.
 15. **Chỉ đọc niên hạn sử dụng từ một nguồn.** Giấy đề nghị (DN tự kê), Chứng nhận đăng ký xe (dòng "Giá trị đến ngày") và GCN kiểm định (dòng "Niên hạn sử dụng", chỉ ghi năm) thường lệch nhau - vụ Tiến Anh lệch 31/12/2040 / 17/8/2040 / "2040". Đọc cả ba, ghi nhận trong Biên bản; khi phải khống chế thời hạn thì lấy **mốc sớm nhất từ giấy tờ gốc**, không lấy số DN tự kê. Chi tiết reference 16 mục 8.3.
 16. **Điền "2.1" vào cột "Loại, nhóm hàng" của Danh mục kèm Giấy phép** vì doanh nghiệp kê trong Đơn là "Loại 2, nhóm 2.1". Cột (4) Phụ lục I ghi **"2"**; "2.1" là cột (5) nhãn hiệu, biểu trưng. Xem reference 10 và reference 16 mục 8.5.
+
+### Bổ sung 15/8/2026 - lỗi thẩm định thường gặp (tiếp) - từ bộ hồ sơ loại 8 đầu tiên (vụ Hà Tân)
+
+17. **Chép hậu tố nền biển (V), (T) từ Chứng nhận đăng ký xe vào hồ sơ, biên bản, Giấy phép.** Chỉ ghi phần biển số: 24H-018.08, 24RM-004.80. Xem nguyên tắc 20 SKILL.md.
+18. **Không kiểm dạng chứa hàng với hàng loại 8 đi bằng công-ten-nơ bồn (ISO tank).** GCN kiểm định của sơ mi rơ moóc ghi loại phương tiện là "sơ mi rơ moóc tải **chở container**" - tự nó KHÔNG cho biết axit chứa bằng gì. Hồ sơ phải nêu rõ hàng đóng trong ISO tank (hoặc bồn di động, công-ten-nơ bồn) và đó là căn cứ điền cột "Khối lượng vận chuyển" của Giấy phép. Thiếu thì yêu cầu bổ sung, không suy đoán.
+19. **Đọc từng tệp rời mà không soát chéo cả bộ 04 tệp của doanh nghiệp.** Vụ Hà Tân lệch ở: hạng GPLX của cùng một người (Phương án ghi FC, Bảng kê và GPLX gốc ghi CE); tiêu đề Phương án ghi "loại 5 và loại 8" trong khi danh mục chỉ có loại 8; Phương án còn nguyên phần đặc tính của HYDRO FLORUA khan UN 1052 - chất KHÔNG có trong danh mục đề nghị (rác sao chép từ phiếu an toàn hóa chất); địa danh còn cấp huyện đã bỏ; số/ngày để trống ở tệp này nhưng còn số cũ ở tệp kia. Bảy điểm soát chéo bắt buộc: nguyên tắc 21 SKILL.md.
+
+**Lưu ý về hạng GPLX khi thẩm định (từ 15/8/2026):** ghi ĐÚNG hạng in trên GPLX của từng người, KHÔNG tự quy đổi giữa hệ hạng cũ (E, FC) và hệ hạng mới (CE). GPLX cấp trước 01/01/2025 theo hệ cũ vẫn có giá trị sử dụng đến hết thời hạn ghi trên giấy theo điều khoản chuyển tiếp của Luật 36/2024; trong cùng một hồ sơ có thể tồn tại song song người hạng "E, FC" (GPLX cũ) và người hạng "CE" (GPLX cấp mới) - đây KHÔNG phải mâu thuẫn hồ sơ.

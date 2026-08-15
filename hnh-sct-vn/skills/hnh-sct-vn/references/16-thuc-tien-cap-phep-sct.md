@@ -178,3 +178,26 @@ Ba tài liệu ghi niên hạn theo ba cách, thường lệch nhau, phải đ�
 ### 8.5. Nhắc lại: cột "Loại, nhóm hàng" ghi số LOẠI, không ghi nhóm
 
 Doanh nghiệp thường kê trong Đơn và Phương án là "Loại 2, nhóm 2.1" (đúng với văn phong hồ sơ của DN). Nhưng Danh mục kèm Giấy phép phải bám **cột (4) "Loại, nhóm hàng" của Phụ lục I NĐ 161**, vụ LPG là **"2"**; con số "2.1" nằm ở cột (5) "Nhãn hiệu, biểu trưng" - dùng để dán biểu trưng lên xe, không điền vào cột loại/nhóm hàng của Giấy phép. Đối chiếu dòng 441 Phụ lục I: UN 1075 | loại 2 | SHNH 23 | biểu trưng 2.1. Xem reference 10.
+
+## 9. Bộ hồ sơ doanh nghiệp nhóm LOẠI 8 - chuẩn Sở (vụ Hà Tân, 15/8/2026)
+
+Bộ hồ sơ mẫu đầu tiên cho loại 8, lưu tại `vi-du-thuc-te/ha-tan-axit-loai8-082026/` (04 tệp + README). Dùng làm bản gốc khi hướng dẫn doanh nghiệp lập hồ sơ loại 8 và khi Sở rà soát, chỉnh sửa giúp doanh nghiệp.
+
+### 9.1. Đặc thù nhóm loại 8
+
+- Hàng là axit, kiềm ăn mòn ở thể lỏng, thường đi trong **công-ten-nơ bồn (ISO tank)** đặt trên sơ mi rơ moóc tải chở container - khác hẳn nhóm loại 2, 3 vốn đi bằng xi téc gắn cố định. Phải bắt doanh nghiệp nêu rõ thiết bị chứa; GCN kiểm định chỉ ghi "sơ mi rơ moóc tải chở container", tự nó không đủ.
+- Loại 8 **không phải chất dễ cháy, nổ** nên **Điều 11 NĐ 161 không áp dụng** (không cấm qua hầm từ 100 m, qua phà). Không đưa nhầm điều kiện cấm này vào biên bản thẩm định hồ sơ loại 8.
+- Thẩm quyền: khoản 1 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026), mã TTHC **1.013340** (cấp), 1.013350 (điều chỉnh), 1.013351 (cấp lại). Từ **14/8/2026** Giám đốc Sở ký theo ủy quyền QĐ 1696 được sửa đổi tại QĐ 2848; hồ sơ tiếp nhận trong khoảng 29/5 - 13/8/2026 vẫn theo mô hình trình UBND tỉnh ký. **Xác định ngày tiếp nhận trên hệ thống trước khi chọn mẫu trình ký.**
+- Axit nitric UN 2031 có **03 phân mức nồng độ cho 03 số hiệu nguy hiểm khác nhau** (hơn 70% → 885; từ 65% đến 70% → 85; dưới 65% → 80) và UN 2032 khói đỏ → 856. Tra đúng dòng theo nồng độ, không gộp chung.
+
+### 9.2. Sáu điểm doanh nghiệp hay thiếu (đưa vào công văn đề nghị bổ sung)
+
+Thời hạn đề nghị cấp Giấy phép; dạng chứa hàng; hạng GPLX lệch giữa các tệp; phạm vi loại hàng không nhất quán (tiêu đề Phương án, danh mục, phần đặc tính còn chất ngoài danh mục); địa danh theo đơn vị hành chính cũ; lỗi thể thức. Chi tiết README của bộ ví dụ.
+
+### 9.3. Chuẩn thể thức khi Sở chỉnh giúp bộ hồ sơ doanh nghiệp
+
+Khổ A4, lề trên/dưới 2 cm, trái 3 cm, phải 2 cm; Times New Roman - thân 14, bảng 13, tiêu đề 16 đậm; **mọi bảng bằng đúng bề rộng vùng in 16 cm** (lỗi hay gặp: bảng rộng 17-18 cm tràn lề do sao chép từ khổ Letter); ô bảng **không căn đều** vì gây giãn chữ; lùi đầu dòng 1 cm đồng nhất, bỏ tab đầu đoạn; số văn bản và ngày **để trống** đủ khoảng trắng điền tay ở cả bộ; khối ký có tên người đại diện theo pháp luật. Cân cột cho chữ không vỡ giữa từ; số khung dài có thể hạ xuống 12pt. Render soi từng trang trước khi giao.
+
+### 9.4. Hạng GPLX hai hệ song song
+
+Ghi đúng hạng in trên GPLX của từng người. Hệ hạng cũ (E, FC) và hệ mới (CE) tồn tại song song trong cùng bộ hồ sơ là bình thường - GPLX cấp trước 01/01/2025 dùng đến hết hạn ghi trên giấy. Không tự quy đổi, không coi là mâu thuẫn hồ sơ.

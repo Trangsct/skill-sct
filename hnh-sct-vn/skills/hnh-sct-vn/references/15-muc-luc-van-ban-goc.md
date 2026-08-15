@@ -33,7 +33,8 @@ Skill này **kèm sẵn bộ văn bản gốc** trong thư mục `van-ban-goc/` 
 ## 04-uy-quyen-quy-trinh
 | File | Nội dung | Reference dùng |
 |---|---|---|
-| `QD-1696-QD-UBND-uy-quyen-15-5-2026.pdf` | **QĐ 1696/QĐ-UBND ngày 15/5/2026** - UBND tỉnh ủy quyền Giám đốc Sở Công Thương lĩnh vực ATVSLĐ và vận chuyển HHNH. **Lưu ý: ban hành trước TT 26/2026 (29/5/2026), căn cứ dẫn TT 38/2025 + TT 15/2026 → CHƯA bao quát loại 5, 8.** | SKILL III, VI; ref 01 |
+| `QD-1696-QD-UBND-uy-quyen-15-5-2026.pdf` | **QĐ 1696/QĐ-UBND ngày 15/5/2026** - UBND tỉnh ủy quyền Giám đốc Sở Công Thương lĩnh vực ATVSLĐ và vận chuyển HHNH. Ban hành trước TT 26/2026 (29/5/2026), căn cứ dẫn TT 38/2025 + TT 15/2026 → bản gốc CHƯA bao quát loại 5, 8 (được khắc phục bằng QĐ sửa đổi ở dòng dưới) | SKILL II.15, III, VI; ref 01 |
+| `QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf` | **QĐ 2848/QĐ-UBND ngày 14/8/2026 - BẢN KÝ CHÍNH THỨC** sửa đổi, bổ sung QĐ 1696/QĐ-UBND (tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; Chủ tịch Nguyễn Tuấn Anh ký, dấu đỏ; số/ngày điền qua trường ký số - đọc bằng render ảnh): thay Mục I Phụ lục (ủy quyền bổ sung **loại 5, 8** - mã TTHC 1.013340/1.013350/1.013351; giữ loại 1,2,3,4,9 - mã 1.014967/68/69, căn cứ dẫn lại theo Điều 25 TT 26/2026); thời hạn ủy quyền HHNH đến hết **31/12/2030**, ATVSLĐ đến 28/02/2027; **hiệu lực từ 14/8/2026** | SKILL II.15a, III; ref 01, 09 (mục 3b) |
 | `Quy-trinh-noi-bo-TTHC-HHNH.docx` | Quy trình nội bộ giải quyết TTHC vận chuyển HHNH (các bước, thời hạn, phòng thụ lý) | ref 03, 11 |
 | `Huong-dan-thu-tuc-cap-GP-loai-1-2-3-4-9-SCT.docx` | **Văn bản hướng dẫn thủ tục của Sở** (loại 1,2,3,4,9): thành phần hồ sơ, điều kiện phương tiện/người lái/tập huấn (16 giờ, 02 năm/lần), bao bì | ref 02, 03, 04, 11; nguồn chuẩn để trả lời DN |
 | `CV-2265-BCT-ATMT-trien-khai.pdf` | CV 2265/BCT-ATMT ngày 02/4/2026 - Bộ Công Thương đề nghị triển khai; dẫn QĐ 555/QĐ-BCT công bố TTHC | SKILL II.13 |
@@ -92,4 +93,4 @@ Skill này **kèm sẵn bộ văn bản gốc** trong thư mục `van-ban-goc/` 
 Bổ sung 04-uy-quyen-quy-trinh: `CV-3686-UBND-XD-kien-nghi-BXD-PCCC-VLNCN.pdf` - CV 3686/UBND-XD ngày 11/5/2026 của UBND tỉnh kiến nghị Bộ Xây dựng tháo gỡ vướng mắc kiểm tra PCCC phương tiện VLNCN/TCTN (bối cảnh - ref 16 mục 5).
 
 ## Lưu ý cập nhật
-Khi có văn bản mới (đặc biệt **QĐ ủy quyền lại theo TT 26/2026** Bạn dự kiến làm tuần tới), bổ sung file vào đúng thư mục và cập nhật bảng này; ghi rõ số/ngày, **không bịa**.
+Khi có văn bản mới, bổ sung file vào đúng thư mục và cập nhật bảng này; ghi rõ số/ngày, **không bịa**. Với PDF ký số (số/ngày điền qua trường ký số): lớp text hiển thị số/ngày rời rạc - phải render trang thành ảnh để đọc chính xác trước khi ghi vào mục lục.

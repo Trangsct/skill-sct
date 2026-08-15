@@ -11,6 +11,10 @@
 
 Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh Giấy phép sử dụng vật liệu nổ công nghiệp **thuộc thẩm quyền giải quyết của UBND cấp tỉnh**"; "Thu hồi giấy phép, giấy chứng nhận về quản lý, sử dụng VLNCN, tiền chất thuốc nổ". Mã TTHC: tra cứu trên Cổng DVC quốc gia/tỉnh tại thời điểm soạn (không tự bịa mã).
 
+**Ví dụ thật thủ tục CẤP LẠI — GP 2726/GP-UBND ngày 06/8/2026** (Cty TNHH Anh Nam Xuân Thủy, gói thầu số 05 QL4D Mường Khương — chi tiết ref 07 mục A): GP theo công trình 169/GP-UBND hết hiệu lực 31/5/2026 khi công trình chưa thi công xong, điều kiện/quy mô không đổi → CẤP LẠI (người dùng hay gọi "gia hạn" — Luật 42/2024 không có thủ tục gia hạn). Hồ sơ đúng 2 đầu mục: Giấy đề nghị cấp lại + Báo cáo tình hình sử dụng VLNCN trong thời hạn GP đã cấp; **khối lượng ghi trong GP cấp lại = khối lượng CÒN LẠI theo báo cáo sử dụng** (5.580/11.607 kg), thời hạn theo tiến độ còn lại (đến 31/8/2026).
+
+**Ví dụ thứ hai — GP 2743/GP-UBND ngày 07/8/2026** (Cty CP ĐT&PT An Việt, Gói thầu số 13 đường nối QL32 – cao tốc Nội Bài - Lào Cai (IC14), phường Trung Tâm — chi tiết ref 07 mục A): cấp lại GP 1363/GP-UBND ngày 22/4/2026 hết hiệu lực 30/6/2026 khi công trình chưa xong. Lặp đúng khuôn GP 2726 — hồ sơ 2 đầu mục (Giấy đề nghị cấp lại 45/CV-AV + Báo cáo tình hình sử dụng 2807/BC-AV, cùng ngày 28/7/2026), khối lượng còn lại 53.657/65.470 kg thuốc, thời hạn đến 31/12/2026 theo tiến độ gói thầu → khuôn thủ tục CẤP LẠI đã ổn định, tái dùng trực tiếp.
+
 ## B. QUY TRÌNH NỘI BỘ TẠI LÀO CAI (đúc kết từ hồ sơ đã ban hành)
 
 ```

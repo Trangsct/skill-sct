@@ -10,6 +10,15 @@
 
 ➜ Quy tắc: khi trả lời cụ thể, ưu tiên dùng **văn bản hợp nhất NĐ 08/2022** đã gộp đến NĐ 48/2026; nếu chưa có bản hợp nhất thì đọc song song 3 nghị định, ưu tiên câu chữ NĐ 48/2026.
 
+## 0b. ⚠ GATE NQ 66.19 — bắt buộc tra lớp cắt giảm TTHC trước khi kết luận đối tượng ĐTM
+
+**NQ 66.19/2026/NQ-CP (18/5/2026), Phần A Phụ lục IX** đã cắt giảm trực tiếp đối tượng thủ tục môi trường, ĐÈ LÊN kết quả tra Luật + Nghị định:
+- **Mục VI khoản 1: dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu SXKD dịch vụ tập trung, CỤM CÔNG NGHIỆP → KHÔNG phải thực hiện ĐTM** (mọi quy mô, kể cả ≥ 50 ha).
+- **Mục VII khoản 1: các dự án này VẪN phải có GPMT** → lập báo cáo đề xuất theo **Mẫu 22c** (nhóm II không thuộc đối tượng ĐTM), thẩm quyền cấp tỉnh, Hội đồng thẩm định đánh giá đủ Mục 1–6 bảng Mẫu 30.
+- Hồ sơ ĐTM tiếp nhận trước 18/5/2026 thuộc diện cắt giảm: xử lý theo **CV 7046/BNNMT-MT**.
+- Bài học lỗi thật (8/2026): chỉ tra Điều 28/30 Luật + Phụ lục IV NĐ 48/2026 sẽ kết luận NGƯỢC (đòi ĐTM cho hạ tầng CCN Phú Thịnh 1). Trình tự đúng: **Luật → NĐ hợp nhất → NQ 66.19 Phụ lục IX → hướng dẫn chuyển tiếp**.
+- Nghiệp vụ ủy viên hội đồng thẩm định GPMT (mẫu 30/31, checklist 18 điểm): `references/08-hoi-dong-tham-dinh-gpmt.md`.
+
 ## 1. Khung phân loại dự án nhóm I / II / III / IV
 
 ### 1.1 Ba tiêu chí phân loại (Điều 28 khoản 1 Luật + Điều 25 NĐ 08 hợp nhất)

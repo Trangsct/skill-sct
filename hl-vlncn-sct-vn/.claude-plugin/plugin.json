@@ -1,7 +1,7 @@
 {
   "name": "hl-vlncn-sct-vn",
-  "version": "1.1.0",
-  "description": "Huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp (VLNCN), tiền chất thuốc nổ (TCTN) — Sở Công Thương tỉnh Lào Cai",
+  "version": "1.2.0",
+  "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   }

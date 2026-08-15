@@ -1,5 +1,136 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-15 — kccn-sct-vn v1.19.0: gộp PR #14 tồn đọng (07/8) — QĐ 2736 Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1
+
+Rà soát PR tồn đọng theo yêu cầu của Bạn 15/8/2026: PR #14 (tạo 07/8, kccn v1.16.0) bị kẹt do main đã tiến lên v1.18.2 bằng nhánh song song → giải quyết xung đột, gộp phần nội dung riêng của PR thành **v1.19.0**:
+
+- `references/06`: cơ cấu Hội đồng + Tổ giúp việc theo mẫu hiện hành QĐ 2736/QĐ-UBND (CCN Mông Sơn) — đầy đủ 9 thành viên Hội đồng + 10 thành viên Tổ giúp việc; bảng so sánh 5 điểm khác mẫu Bảo Minh cũ.
+- `references/14`: Mông Sơn gắn QĐ 2736; CCN Cam Đường 1 nhận 01 hồ sơ CĐT của Công ty CP 289 Trường Sơn (giai đoạn 1 — 11,36 ha) theo TB 831/TB-UBND.
+- `references/25`: chú thích 2 diễn biến sau kỳ báo cáo 05/8; `van-ban-goc/`: 02 PDF bản gốc QĐ 2736 + TB 831.
+- Lưu ý vênh ngày ghi trong CHANGELOG plugin: ref 26 ghi 07/8, bản GATE gốc ghi 06/8/2026 — trích dẫn chính thức theo bản gốc PDF.
+- plugin.json → 1.19.0 (giữ description khung 8/2026 của main).
+
+## 2026-08-15 — hnh-sct-vn v1.7.0: QĐ 2848/QĐ-UBND ngày 14/8/2026 sửa đổi, bổ sung QĐ 1696 — ủy quyền bổ sung loại 5, 8
+
+Nguồn: bản PDF đã ký QĐ 2848/QĐ-UBND ngày 14/8/2026 (tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; Chủ tịch Nguyễn Tuấn Anh ký, dấu đỏ), Bạn cung cấp 15/8/2026.
+
+- **Nội dung tích hợp:** thay toàn bộ Mục I Phụ lục QĐ 1696 — ủy quyền Giám đốc Sở trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi GP HHNH cả **loại 5, 8** (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; mã TTHC **1.013340/1.013350/1.013351**) và loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 (khoản 2 Điều 8; mã 1.014967/68/69, căn cứ dẫn lại theo TT 26/2026); thời hạn ủy quyền HHNH **đến hết 31/12/2030** (ATVSLĐ 28/02/2027), chấm dứt trước hạn khi văn bản căn cứ thay đổi; **hiệu lực từ 14/8/2026** → từ nay Giám đốc Sở ký cả 7 loại, loại 5, 8 không còn trình UBND tỉnh (hồ sơ tiếp nhận 29/5-13/8/2026 theo mô hình trình ký cũ). Ghi nhận căn cứ mới **QĐ 1213/QĐ-BCT ngày 22/5/2026** (công bố TTHC sau TT 26/2026).
+- **Bài học đọc PDF ký số** (ghi vào SKILL VII.10 + ref 15): số/ngày điền qua trường ký số không hiện liền mạch trong text layer ("2848", "14" rời rạc) — phải render trang thành ảnh để đọc, không kết luận "để trống" từ text thô; lần đọc đầu trong phiên đã nhầm là bản trình ký, sửa ngay trong cùng phiên.
+- Sửa đồng bộ: SKILL.md (II.13a, II.15a mới; III; V; VI; VII.10); ref 01 (Bước 4 hai nhịp ủy quyền, bảng 6 mã TTHC 2 nhóm); ref 09 (mục 3a QĐ 1213, mục 3b toàn văn QĐ 2848); ref 03, 04, 07, 08, 14, 16, 17 (loại 5,8 Sở ký từ 14/8/2026); ref 15 (mục lục); thêm PDF bản ký `QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf` vào `van-ban-goc/04-uy-quyen-quy-trinh/`; CHANGELOG-v2026.08.15.md; plugin.json → 1.7.0.
+
+## 2026-08-13 — bvmt-sct-vn v1.2.1: checklist 19 điểm — ĐIỂM 0 đòi TKCS/BCNCKT + QHCT 1:500
+
+Nguồn: chỉ đạo của Bạn 13/8/2026 sau phiên thẩm định GPMT CCN Phú Thịnh 1/Y Can.
+
+- `references/08-hoi-dong-tham-dinh-gpmt.md`: checklist 18 → **19 điểm**, thêm **Điểm 0 — tài liệu phải đòi ngay khi nhận hồ sơ**: (a) hồ sơ thiết kế cơ sở/Báo cáo nghiên cứu khả thi (căn cứ "tài liệu pháp lý, kỹ thuật khác" khoản 1 Điều 43 Luật BVMT); (b) quy hoạch chi tiết 1:500 đã phê duyệt — vì hầu hết lỗi nặng chỉ lộ khi đối chiếu chéo báo cáo ↔ bản vẽ ↔ tọa độ (D140/20m ↔ D160/216m; điểm xả cách 2,4m; kích thước ↔ dung tích hồ/bể sự cố). Thiếu thì ghi mục 7.1 "chưa đủ cơ sở đối chiếu" + đề nghị bổ sung trước phiên họp, không thẩm định chay. Kèm câu chữ chuẩn để đòi tài liệu.
+- SKILL.md: sửa sót từ v1.2.0 — bổ sung nhiệm vụ 9 (ủy viên HĐTĐ GPMT) và mô tả reference 08 vào mục VII (lần push trước script lỗi giữa chừng nên 2 phần này chưa vào file).
+- plugin.json → 1.2.1.
+
+
+## 2026-08-12 — bvmt-sct-vn v1.2.0: nghiệp vụ ỦY VIÊN HỘI ĐỒNG THẨM ĐỊNH GPMT + GATE NQ 66.19
+
+Nguồn: 2 hồ sơ thực chiến 11/8/2026 — BCĐX cấp GPMT CCN Phú Thịnh 1 (75 ha, trạm 1.900 m3/ngđ, HĐTĐ theo QĐ 678/QĐ-SNNMT ngày 06/8/2026) và CCN Y Can (trạm 1.000 m3/ngđ); bản chốt 2 Bản nhận xét Mẫu 30 do Bạn duyệt.
+
+- Thêm `references/08-hoi-dong-tham-dinh-gpmt.md`: **GATE NQ 66.19** — NQ 66.19/2026/NQ-CP Phần A Phụ lục IX, Mục VI loại hạ tầng CCN khỏi đối tượng ĐTM, Mục VII vẫn buộc GPMT → hồ sơ lập Mẫu 22c, thẩm quyền tỉnh, HĐTĐ đánh giá đủ Mục 1-6 Mẫu 30 (sửa lỗi kết luận ngược khi chỉ tra Luật + NĐ); CV 7046/BNNMT-MT xử lý chuyển tiếp. Bảng chọn mẫu theo vai (Mẫu 30+31/32/39). **Checklist phản biện 18 điểm** 5 nhóm: pháp lý-mẫu biểu (ký hiệu QCVN 26-27:2025/BNNMT; QCVN 40:2025 bỏ Kq Kf, chuyển tiếp chưa phân vùng xả thải dùng cột B; QCVN 01:2025/BTNMT mục 1.1.4 không áp trong CCN); cân bằng nước (hệ số K khai-áp lệch nhau ở cả 2 hồ sơ); nguồn tiếp nhận (thiếu tính sức chịu tải, lưu lượng mùa kiệt, cộng gộp); công nghệ XLNT (đầu vào B - đầu ra A không tương thích, PCB hiệu suất 0, giải pháp ngưỡng đấu nối theo nhóm thông số như CCN Quyết Tiến Hải Phòng); công trình-giấy phép (đối chiếu báo cáo-bản vẽ-tọa độ tuyến ống xả, điểm xả mưa/thải kề nhau, hồ sự cố, Điều 48 NĐ 08, VHTN theo module Điều 31). Chuẩn trình bày Bản nhận xét đã chốt (mức đánh giá không tiền tố số, dòng cha dẫn chiếu, đầu mục đậm, bảng 13pt căn giữa dọc, khối ký đoạn văn).
+- Sửa `references/03-dtm-gpmt.md`: chèn mục **0b GATE NQ 66.19** ngay trước khung phân loại.
+- Thêm `references/examples/`: 2 bản chốt docx (Phú Thịnh 1, Y Can) làm mẫu chuẩn Mẫu 30.
+- SKILL.md: nhiệm vụ 9 + reference 08 + description mới (960 ký tự); plugin.json → 1.2.0.
+
+
+## 2026-08-11 — bpb-sct-vn v1.3.0: bổ sung thể loại TRẢ LỜI PHỎNG VẤN BÁO CHÍ
+
+Nguồn: bản duyệt của PGĐ Hoàng Văn Thuân (11/8/2026) cho vụ phỏng vấn TTXVN (CV 08/TTX-CQTT ngày 05/8/2026), so sánh với bản Claude soạn.
+
+- Thêm `references/tra-loi-phong-van-bao-chi.md`: 11 quy tắc riêng + checklist — mở bài số liệu vĩ mô tầng bậc (GRDP → khu vực → ngành, nguồn Cục Thống kê/BC Tỉnh ủy, không cảm ơn, không số "sự kiện"); khung "điểm nghẽn → năng lực sản xuất mới"; nói hạn chế bằng ngôn ngữ kỹ trị có dẫn chứng đích danh (phôi thép, đồng cathode, phốt pho vàng); giải pháp theo CHUỖI SẢN PHẨM có tên mỏ/nhà máy (Quý Xa → Gang thép Lào Cai; khai trường apatit, tuyển Tam Đỉnh/Anh Nhẫn; chuỗi đồng); nguyên tắc 3 tầng thẩm quyền; không đọc số hiệu văn bản; không xác nhận tiền đề tiêu cực của câu hỏi, không tự phô số liệu tiêu cực ngoài lĩnh vực chủ trì; trách nhiệm liên ngành liệt kê đủ - SCT nói sau cùng; giọng điềm đạm, cấm khẩu ngữ gằn; sản phẩm kép kèm bản tóm tắt cầm tay.
+- Thêm 2 mẫu duyệt vào `kho-bai-mau/`: `phong-van-ttxvn-2026-08-11-ban-duyet-pgd-thuan.docx` (chuẩn cao nhất cho thể loại phỏng vấn) và `phong-van-ttxvn-tom-tat-2026-08-11.docx` (mẫu bản tóm tắt cầm tay); cập nhật `00-MUC-LUC.md` (12 → 14 mẫu).
+- SKILL.md: mục 1 cảnh báo phỏng vấn là thể loại riêng, bắt buộc đọc reference mới + mở 2 mẫu duyệt, luôn giao sản phẩm kép; mục 8 bổ sung reference.
+- plugin.json → 1.3.0, description ghi rõ năng lực phỏng vấn, keyword `tra-loi-phong-van`.
+
+## 2026-08-09 — RÀ SOÁT, NÂNG CẤP ĐỒNG BỘ 4 PLUGIN VLNCN theo 10 văn bản gốc mới
+
+Nguồn: `78/VBHN-VPQH` 26/3/2026, `118/2025/QH15`, `42/2024/QH15`, `149/2024/NĐ-CP`, `282/2025/NĐ-CP`, `23/2024/TT-BCT`, `47/2020/TT-BCT`, `75/2024/TT-BCA`, `98/2024/TT-BQP`, `09/2026/TT-BQP` (Bạn cung cấp 09/8/2026). Trọng tâm: **chức năng, nhiệm vụ, quyền hạn của UBND cấp tỉnh và Sở Công Thương**.
+
+### Phát hiện chính
+- **Luật 118/2025 (hiệu lực 01/7/2026) sửa Luật 42/2024 ở 9 nhóm nội dung liên quan VLNCN**, trong khi bộ skill trước đây mới ghi nhận 01 nhóm (k6 Đ9 — văn bản PCCC kho cố định). Ba nhiệm vụ MỚI của UBND cấp tỉnh chưa từng có trong plugin:
+  1. **Tiếp nhận thông báo GỬI KHO bảo quản VLNCN** — điểm b k2 Đ40: gửi kho phải có thỏa thuận bằng văn bản **và thông báo đến UBND cấp tỉnh để theo dõi, quản lý**;
+  2. **Ban hành văn bản đề nghị cấp GP dịch vụ nổ mìn phạm vi 01 tỉnh** — điểm b k4 Đ40 (trước chỉ có loại thềm lục địa/toàn quốc theo k1 Đ23 NĐ 146/2025);
+  3. **Quy định cơ quan tiếp nhận + Hệ thống TTGQ TTHC của tỉnh là nơi nộp hồ sơ GCN đủ điều kiện sản xuất tiền chất thuốc nổ** — k5 Đ44.
+  Ngoài ra: Đ34, 35, 36 bổ sung **Bộ trưởng Bộ Công an** vào chủ thể giao nhiệm vụ sản xuất/kinh doanh VLNCN; k15 mở rộng "doanh nghiệp" → "**tổ chức, doanh nghiệp**" hoạt động dịch vụ nổ mìn; điểm d k4 Đ40 (mới) miễn giấy tờ điểm đ k1 Đ39 nếu DN đã có GP kinh doanh VLNCN.
+- **TT 75/2024/TT-BCA**: GP vận chuyển VLNCN, TCTN do **Trưởng phòng PC06 Công an cấp tỉnh** cấp (điểm đ k2 Đ4); quá cảnh/XNK do **Cục trưởng C06** (điểm i k1); nếu nơi có kho tiếp nhận không cấp GP vận chuyển thì PC06 nơi có kho **xác nhận vào Giấy đăng ký tiếp nhận**. Trước đây skill chỉ ghi chung "cơ quan Công an".
+- **NĐ 149/2024** chỉ điều chỉnh vũ khí, VLN **quân dụng**, CCHT — **KHÔNG điều chỉnh VLNCN**; đã đánh dấu cấm đưa vào phần Căn cứ của văn bản VLNCN (trước đây kho-vlncn mô tả nhầm là có phần "vận chuyển VLN").
+- **NĐ 282/2025 (hiệu lực 15/12/2025, thay NĐ 144/2021)**: Điều 12 có 5 nhóm hành vi chạm VLNCN/TCTN do Công an chủ trì; **khoản 6 Điều 12 là điều khoản quét** đưa hành vi VLNCN chưa quy định về nghị định chuyên ngành.
+- ⚠️ **Chốt lại trạng thái hiệu lực (ảnh chụp Điều 75 NĐ 275/2026 do Bạn gửi):** đến hết **24/8/2026**, NĐ 275/2026 **CHƯA áp dụng**; nghị định đang có hiệu lực vẫn là **NĐ 71/2019 (sđ Điều 1 NĐ 17/2022)**. Đã gắn cảnh báo này vào 4 điểm dễ dẫn nhầm.
+- **TT 09/2026/TT-BQP** (hiệu lực 22/01/2026): GP sử dụng khối BQP 2,5 ngày làm việc (05 ngày nếu kiểm tra thực tế); Mệnh lệnh vận chuyển 1,5 ngày; **Cục Quản lý Công nghệ** cấp GCN huấn luyện KTAT cho khối BQP → Sở không tiếp nhận hồ sơ DN quốc phòng.
+- **TT 47/2020/TT-BCT (QCVN 04:2020/BCT)**: chất lượng tiền chất thuốc nổ; mục 2.2 dẫn chiếu bảo quản theo QCVN 01:2019/BCT.
+- Sửa mâu thuẫn nội bộ: `kho-vlncn` mô tả QĐ 1883/QĐ-UBND là ủy quyền cấp GP sử dụng VLNCN — thực tế là ủy quyền **cấp GCN huấn luyện KTAT** (khớp `hl-vlncn`); GP sử dụng vẫn do Chủ tịch UBND tỉnh ký `/GP-UBND`. ⚠ Cần Bạn xác nhận lại.
+
+### `sd-vlncn-sct-vn` v2026.8.7.2 → **v2026.8.9.1**
+- **MỚI `references/10-tham-quyen-ubnd-tinh-va-sct.md`** — bản đồ thẩm quyền: 10 thẩm quyền cấp phép/phê duyệt của UBND cấp tỉnh; 6 đầu mối tiếp nhận thông báo Sở phải mở sổ theo dõi; nhiệm vụ thường xuyên theo Đ19 TT 23/2024; ranh giới với Công an – Bộ Quốc phòng – Cục KTAT&MTCN – Cục Hóa chất; bảng 11 dòng tác động của Luật 118/2025; quy tắc chọn nghị định xử phạt; checklist 7 bước.
+- `references/01-phap-ly.md`: mục 2 viết lại đầy đủ 9 nhóm sửa đổi của Luật 118/2025; **mục 9a mới** (TT 75/2024/TT-BCA, NĐ 149/2024, TT 98/2024 + TT 09/2026/TT-BQP); **mục 9b mới** (NĐ 282/2025); bổ sung Luật 118/2025 vào cụm căn cứ chuẩn + quy tắc khi nào thêm/không thêm.
+- `SKILL.md`: bảng thẩm quyền thêm 2 dòng nhiệm vụ mới + làm rõ GP vận chuyển; mục "Khi nào dùng" thêm nhánh tra thẩm quyền; description viết lại.
+- `van-ban-goc/`: +6 file (VBHN 78, Luật 118/2025, NĐ 149/2024, TT 75/2024/TT-BCA, TT 98/2024/TT-BQP, TT 09/2026/TT-BQP) + INDEX.md cập nhật.
+
+### `kho-vlncn-sct-vn` v1.5.0 → **v1.6.0**
+- `references/01-khung-phap-ly.md`: mục 2 bổ sung **GỬI KHO** (thỏa thuận bằng văn bản + thông báo UBND cấp tỉnh; kho nhận gửi vẫn phải đạt QCVN 01:2019 và Đ15 NĐ 181); **mục 13a mới** TT 47/2020/TT-BCT — QCVN 04:2020/BCT; mục 9 viết lại NĐ 149/2024 (không điều chỉnh VLNCN) + **mục 9a mới** TT 75/2024/TT-BCA (xác nhận Giấy đăng ký tiếp nhận khi nơi có kho không cấp GP vận chuyển); sơ đồ quan hệ sửa đổi cập nhật 5 nhánh Luật 118/2025.
+- `SKILL.md`: mục 2 khung pháp lý viết lại; thêm mục 7a QCVN 04:2020/BCT; sửa mô tả QĐ 1883; làm rõ thẩm quyền GP vận chuyển; description viết lại.
+- `van-ban-goc/`: +3 file (VBHN 78, Luật 118/2025, TT 47/2020) + 00-MUC-LUC.md cập nhật.
+
+### `hl-vlncn-sct-vn` v1.1.0 → **v1.2.0**
+- `references/01-phap-ly.md`: ghi nhận **Luật 118/2025 KHÔNG sửa Đ4–9 NĐ 181 và Đ38, 42 Luật 42/2024** → quy trình, hồ sơ, thời hạn, thang 6/10, GCN 02 năm **không thay đổi**; mục D viết lại chi tiết TT 98/2024 + TT 09/2026/TT-BQP (Cục Quản lý Công nghệ cấp GCN khối BQP → Sở hướng dẫn về, không tiếp nhận).
+- `SKILL.md`: mục 10 viết lại, thêm mục 11 (Luật 118/2025 + VBHN 78) và mục 12 (con trỏ tới bản đồ thẩm quyền); cảnh báo hiệu lực NĐ 275/2026 tại `references/06`; description viết lại.
+- `van-ban-goc/`: +3 file (VBHN 78, Luật 118/2025, TT 09/2026/TT-BQP) + INDEX.md cập nhật.
+
+### `xp-hc-vlncn-sct-vn` v1.0.0 → **v1.1.0**
+- **MỚI `references/06-moc-hieu-luc-phan-dinh-nd-282-2025.md`** — bảng trạng thái hiệu lực 4 nghị định (NĐ 71/2019 đang áp dụng; NĐ 275/2026 chưa có hiệu lực đến 24/8/2026; NĐ 282/2025 hiệu lực 15/12/2025; NĐ 144/2021 đã hết hiệu lực); phân định 3 nhóm hành vi A/B/C với bảng 5 hành vi VLNCN–TCTN tại Điều 12 NĐ 282/2025 và điều khoản quét k6 Đ12; quy trình 4 bước tiếp nhận vụ việc; lưu ý soạn văn bản.
+- `SKILL.md`: khối cảnh báo trạng thái hiệu lực đặt đầu mục IV; thêm mục 1a, 1b vào Văn bản lõi; thêm nhánh phân định NĐ 282/2025 vào "Khi nào dùng"; description viết lại.
+- `van-ban-goc/`: +2 file (NĐ 282/2025, VBHN 78) + INDEX.md cập nhật.
+
+### Bổ sung cùng ngày — mẫu 21 `sd-vlncn-sct-vn`
+- **MỚI `mau-van-ban/21-cv-trien-khai-luat-118-2025.md`** + dự thảo docx `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx` (Chế độ B từ `CV-don-doc-bao-quan-su-dung-VLNCN.docx`, QA PASS 2 trang): công văn gửi các tổ chức, doanh nghiệp VLNCN triển khai 8 nhóm nội dung mới có hiệu lực 01/7/2026, trọng tâm là **nghĩa vụ thông báo gửi kho đến UBND tỉnh**. Không nêu chế tài (Nhóm I văn phong công văn gửi doanh nghiệp). Người ký PGĐ Hoàng Văn Thuân, Lưu VT, CN(Khôi).
+- Header mẫu gốc đã chuẩn hóa: "CỘNG HOÀ" → "CỘNG HÒA"; tiêu ngữ chuyển sang en dash; dòng Số và dòng ngày đặt 13pt tường minh.
+
+### Bổ sung cùng ngày (đợt 2) — tích hợp 2 QĐ bản ký của UBND tỉnh do Bạn cung cấp
+- ⭐ **QĐ 2272/QĐ-UBND ngày 29/6/2026** (bản ký, GATE xác minh; hiệu lực 01/7/2026, PCT Nguyễn Thành Sinh ký; trình tại TTr 2869/TTr-SCT 21/5/2026): **Sở Công Thương là cơ quan tiếp nhận hồ sơ** cấp, cấp lại, cấp điều chỉnh GCN đủ điều kiện sản xuất tiền chất thuốc nổ; Đ2 phân trách nhiệm SCT – Công an tỉnh (ANTT, PCCC) – sở ngành – UBND cấp xã. Đã tích hợp vào: `sd-vlncn` ref 10 (dòng A2, A9, bảng E-k8 chuyển ✅ ĐÃ THỰC HIỆN), ref 01 mục 9, INDEX; `kho-vlncn` SKILL (văn bản địa phương — liên quan kho TCTN); `hl-vlncn` SKILL mục 6a (nhân sự huấn luyện trong hồ sơ GCN sản xuất TCTN); `xp-hc-vlncn` ref 06 (Nhóm A). Văn bản gốc (pdf ký + docx dự thảo): `sd-vlncn/van-ban-goc/2026.06.29-2272.QD.UBND-...`.
+- ✅ **QĐ 1883/QĐ-UBND ngày 06/11/2025 bản ký thật + Phụ lục** → `hl-vlncn/van-ban-goc/2025.11.06-1883...ban-ky.pdf`; xác nhận phạm vi ủy quyền = GCN huấn luyện KTAT (TTHC 2.000229, 2.000210), khớp với sửa đổi đợt 1 tại kho-vlncn. Gỡ toàn bộ ghi chú "xác minh số/ngày với Bạn" ở sd-vlncn ref 01, kho-vlncn SKILL, hl-vlncn ref 01/SKILL — viện dẫn thẳng.
+- Mẫu 21 + dự thảo công văn triển khai Luật 118/2025: mục 6 viết lại theo QĐ 2272 (nêu đích danh Sở Công Thương là cơ quan tiếp nhận); tinh chỉnh bố cục về đúng 2 trang, khối ký trọn trang 2, QA PASS.
+- Gỡ dòng chờ xác nhận về mốc hiệu lực NĐ 282/2025 tại `xp-hc-vlncn` ref 06 (đã đối chiếu kỹ Đ69).
+
+### Việc Bạn cần làm tiếp (nghiệp vụ)
+1. **Mở sổ theo dõi thông báo gửi kho** và ban hành công văn tuyên truyền (dự thảo mẫu 21 đã sẵn) — nghĩa vụ mới từ 01/7/2026, đa số DN chưa nắm.
+2. ~~Rà soát văn bản quy định cơ quan tiếp nhận hồ sơ GCN sản xuất TCTN~~ → **ĐÃ CÓ: QĐ 2272/QĐ-UBND ngày 29/6/2026**.
+3. ~~Xác nhận phạm vi QĐ 1883/QĐ-UBND~~ → **ĐÃ XÁC NHẬN bằng bản ký thật**: ủy quyền GCN huấn luyện, không phải GP sử dụng.
+
+
+## 2026-08-08 (bổ sung) — `vbhc-vn` v2.9.0: ĐẠI TU chống phình
+
+- Gộp Nhóm K → Nhóm H (H6–H11) + H12 (trHeight, từ Quy tắc 20); còn 9 nhóm anti-error A–I. Nén Quy tắc bất biến 11–14, 20 thành con trỏ về Nhóm H (giữ nguyên số). Hòa giải mâu thuẫn Quy tắc 3 ↔ 20 và 9 ↔ H11. Xóa 2 file lưu trữ *-goc.md (448 dòng, git giữ lịch sử). Description SKILL.md + plugin.json viết lại trigger-only. 11/11 check nhất quán PASS, scripts chạy tốt. Chi tiết: `vbhc-vn/skills/vbhc-vn/CHANGELOG.md`.
+
+## 2026-08-08 — `vbhc-vn` v2.8.0: Nhóm K — Bố cục trang & thuộc tính đoạn khi lắp ghép văn bản (vụ Báo cáo họp Hội đồng CCN Yên Hợp 2)
+
+- Nhóm anti-error thứ 10 (K1–K6) từ chuỗi 7 lỗi trình bày trong 1 văn bản chuyển thể từ Báo cáo Tổ giúp việc sang Báo cáo của Sở trình Hội đồng, người dùng phát hiện qua Word thật ngày 08/8/2026:
+  - **K1** keepNext CHỈ gán đề mục (I./II./"1. Về …"), không gán khoản nội dung đánh số — chuỗi keepNext xích khối lớn gây TRỐNG NỬA CUỐI TRANG trong Word (LibreOffice không lộ);
+  - **K2** định dạng đậm đề mục SAU khi clone chuỗi đoạn (deepcopy lây format sang các khoản);
+  - **K3** đổi header khác cấp ban hành: thêm spacing before ~12pt cho tên loại văn bản, dòng Số điền vào paragraph trống sẵn của ô;
+  - **K4** Line VML tự chèn: dài ~70pt (dưới tên cơ quan) / ~110pt (dưới Tiêu ngữ), tọa độ y chỉ 2–3pt — y≥9pt tụt xuống đè dòng ngày;
+  - **K5** paragraph trống: xóa tồn dư giữa các mục, GIỮ 1 dòng đệm trước khối Nơi nhận/chữ ký;
+  - **K6** nhãn "a) Về …:" nghiêng, nội dung đứng; chữ khoản a, b, c, d, đ, e, g.
+- `scripts/qa_pdf_check.py`: thêm **audit keepNext** (WARN, không chặn) — liệt kê mọi paragraph có keepNext không giống đề mục; đã test bắt đúng 5 đoạn lỗi của vụ thật và PASS trên bản đã sửa.
+- SKILL.md: "9 nhóm" → "10 nhóm" + tóm tắt Nhóm K; description cập nhật.
+- Bài học QA: đối chiếu pixel với mẫu nguồn (render 2 bản, crop cùng vùng) + bảng soát đậm/thường từng đoạn sau mọi thao tác gán thuộc tính hàng loạt.
+
+## 2026-08-07 (bổ sung 2) — `sd-vlncn-sct-vn` v2026.8.7.2: GP 2743/GP-UBND — ví dụ CẤP LẠI thứ hai (Gói thầu 13 QL32 – IC14, Cty An Việt)
+
+- GP 2743/GP-UBND ngày 07/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 1363/GP-UBND 22/4/2026 (hết hiệu lực 30/6/2026) cho Cty CP Đầu tư và Phát triển An Việt — Gói thầu số 13 đường nối QL32 với cao tốc Nội Bài - Lào Cai (IC14), phân đoạn nổ mìn Km1+443,80m (C32B) ÷ Km1+555,80m (C35), phường Trung Tâm. Lặp đúng khuôn GP 2726 → khuôn CẤP LẠI ổn định: hồ sơ 2 đầu mục, khối lượng = phần còn lại (53.657/65.470 kg), thời hạn đến 31/12/2026 theo tiến độ gói thầu (trùng hạn GP 2628 phân đoạn liền kề — 2 GP song song trên cùng gói thầu). Cập nhật ref 07 mục A + ref 02 mục A. Bản ký: repo web `vlncn-laocai-files/uploads/2743_GP-UBND.pdf`; CSDL web đã nạp bản ghi. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.
+
+## 2026-08-07 (bổ sung) — `sd-vlncn-sct-vn` v2026.8.7.1: GP dịch vụ nổ mìn 34/GP-ATMT (Cty TNHH Đại Lục)
+
+- GP dịch vụ nổ mìn 34/GP-ATMT ngày 03/8/2026 — ví dụ GP dịch vụ nổ mìn đầu tiên của skill: Cục trưởng Cục KTAT&MTCN Phạm Tuấn Anh ký (đúng thẩm quyền điểm c k1 Đ4 TT 23 sđ TT 26/2026), cấp cho Cty TNHH Đại Lục (Lào Cai), phạm vi trên địa bàn tỉnh, hiệu lực đến 02/8/2028. Cập nhật ref 07 mục C + ref 04 FAQ 1. Bản ký: repo web `vlncn-laocai-files/uploads/dvnm/34_GP-ATMT.pdf`.
+
+## 2026-08-07 — `sd-vlncn-sct-vn` v2026.8.7: GP 2726/GP-UBND — ví dụ CẤP LẠI giấy phép đầu tiên (QL4D Mường Khương)
+
+- GP 2726/GP-UBND ngày 06/8/2026 (PCT Nguyễn Thành Sinh ký): cấp lại GP 169/GP-UBND 23/01/2026 cho Cty TNHH Anh Nam Xuân Thủy — Gói thầu số 05 xử lý vị trí tiềm ẩn TNGT Km183÷Km188 QL4D, xã Mường Khương. Chốt nghiệp vụ CẤP LẠI: Luật 42/2024 không có "gia hạn"; hồ sơ 2 đầu mục (giấy đề nghị cấp lại + báo cáo tình hình sử dụng); khối lượng = phần CÒN LẠI theo báo cáo (5.580/11.607 kg); thời hạn theo tiến độ còn lại (đến 31/8/2026).
+- Khép chuỗi CV 565/VPUBND-KT 23/10/2025 (bị trả vì thiếu hồ sơ đất đai → GP 169 → cấp lại GP 2726): cập nhật ref 07 mục A + C, ref 09, ref 02 mục A, SKILL.md anti-error 17. Bản ký lưu tại repo web `vlncn-laocai-files/uploads/2726_GP-UBND.pdf`. Chi tiết: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/CHANGELOG.md`.
+
 ## 2026-08-05 — `kccn-sct-vn` v1.15.0 + `bpb-sct-vn` v1.2.0: Báo cáo và Bài phát biểu họp UBND tỉnh về KCN ngày 05/8/2026
 
 - `kccn-sct-vn` v1.15.0: reference mới `25-bc-kcn-ccn-hop-ubnd-05-8-2026.md` (số liệu chốt 31/7/2026: 08 KCN BQL các KCN tỉnh 2.254 ha; 93 dự án lấp đầy 90,74%; GPMB 04 KCN mục tiêu 147,31 ha/227,45 ha sạch; bảng vốn QĐ 2390 + QĐ 767 khởi công 12/2026; XLNT khó đạt chỉ tiêu 100% năm 2026; vi phạm QĐ 1186; 04 KCN chưa thành lập với QĐ 2573 + QĐ 536; CCN Bảo Minh, Phú Thịnh 3 khởi công 16/7/2026; 05 kiến nghị); cập nhật references 17, SKILL.md; lưu file gốc báo cáo vào `vi-du-thuc-te/`.

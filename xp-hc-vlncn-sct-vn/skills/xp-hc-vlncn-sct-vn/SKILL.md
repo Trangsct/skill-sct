@@ -1,6 +1,6 @@
 ---
 name: xp-hc-vlncn-sct-vn
-description: "Chuyên gia XỬ PHẠT VI PHẠM HÀNH CHÍNH lĩnh vực HÓA CHẤT và VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN) của Sở Công Thương Lào Cai theo Nghị định 275/2026/NĐ-CP ngày 08/7/2026 (hiệu lực 25/8/2026, THAY THẾ NĐ 71/2019 + Điều 1 NĐ 17/2022). Dùng khi: (1) tra cứu hành vi - mức phạt - hình thức bổ sung - biện pháp khắc phục (hóa chất Đ7-52; VLNCN Đ53-61: trách nhiệm, nhân lực - huấn luyện, giấy phép, sản xuất, bảo quản kho, vận chuyển, kinh doanh, sử dụng - hộ chiếu nổ mìn - dịch vụ nổ mìn, tiêu hủy); (2) xác định thẩm quyền xử phạt Đ62-73 (Chủ tịch UBND xã/tỉnh, Giám đốc SCT phạt đến 40/80 triệu, thanh tra, công an, QLTT); (3) chọn nghị định đúng theo thời điểm hành vi (chuyển tiếp Đ74 - mốc 25/8/2026); (4) đối chiếu điều khoản NĐ 71/2019 cũ sang NĐ 275/2026; (5) soạn biên bản VPHC, QĐ xử phạt. Từ khóa: xử phạt VPHC, NĐ 275/2026, mức phạt, tước giấy phép, đình chỉ hoạt động, biên bản VPHC, QĐ-XPHC, thẩm quyền xử phạt, chuyển hồ sơ hình sự, Điều 305 BLHS, để mất VLNCN, nổ mìn không phép, kho không đạt QCVN."
+description: "Chuyên gia XỬ PHẠT VI PHẠM HÀNH CHÍNH lĩnh vực HÓA CHẤT và VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN) của Sở Công Thương Lào Cai. Dùng khi: (1) tra hành vi - mức phạt - hình thức bổ sung - biện pháp khắc phục theo NĐ 275/2026/NĐ-CP ngày 08/7/2026 (hóa chất Đ7-52; VLNCN Đ53-61: nhân lực - huấn luyện, giấy phép, sản xuất, bảo quản kho, vận chuyển, kinh doanh, sử dụng - hộ chiếu nổ mìn - dịch vụ nổ mìn, tiêu hủy); (2) xác định thẩm quyền xử phạt Đ62-73 (Chủ tịch UBND xã/tỉnh, Giám đốc SCT, thanh tra, công an, QLTT); (3) XÁC ĐỊNH TRẠNG THÁI HIỆU LỰC và chọn nghị định đúng theo thời điểm hành vi: NĐ 275/2026 CHỈ áp dụng từ 25/8/2026, trước đó là NĐ 71/2019 sđ NĐ 17/2022 (chuyển tiếp Đ74); (4) phân định với NĐ 282/2025/NĐ-CP về an ninh trật tự (Điều 12, điều khoản quét khoản 6); (5) đối chiếu điều khoản cũ sang mới; (6) soạn biên bản VPHC, QĐ xử phạt; (7) QUY TRÌNH KIỂM TRA CHUYÊN NGÀNH dẫn tới xử phạt theo NĐ 217/2025 + TT 56/2025/TT-BCT: soạn/rà Quyết định kiểm tra đúng Mẫu số 03, kế hoạch tiến hành, biên bản, báo cáo, tạm dừng - đình chỉ cuộc kiểm tra, kiểm tra sau kết luận thanh tra (xác minh để xử phạt bên thứ ba, tránh trùng lặp thanh tra). Từ khóa: xử phạt VPHC, NĐ 275/2026, NĐ 282/2025, NĐ 71/2019, mức phạt, tước giấy phép, đình chỉ hoạt động, biên bản VPHC, QĐ-XPHC, thẩm quyền, Điều 305 BLHS, để mất VLNCN, kiểm tra chuyên ngành, NĐ 217/2025, TT 56/2025, Mẫu số 03, quyết định kiểm tra, thời kỳ kiểm tra, thời hạn 10 ngày, đình chỉ cuộc kiểm tra, kết luận thanh tra, Điều 59 xác minh tình tiết, HSKT."
 ---
 
 # xp-hc-vlncn-sct-vn — Xử phạt VPHC hóa chất & VLNCN theo NĐ 275/2026/NĐ-CP (Sở Công Thương Lào Cai)
@@ -16,9 +16,10 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Chọn đúng nghị định theo thời điểm hành vi** (trước/sau mốc hiệu lực 25/8/2026; điều khoản chuyển tiếp Đ74) → mục IV dưới đây + reference `01`.
 - **Đối chiếu điều khoản cũ → mới** khi hồ sơ, biên bản, kế hoạch kiểm tra trước đây viện dẫn NĐ 71/2019/NĐ-CP → reference `05`.
 - **Soạn văn bản xử phạt** của Sở: biên bản VPHC, QĐ xử phạt /QĐ-XPHC, tờ trình + dự thảo QĐ trình Chủ tịch UBND tỉnh khi vượt thẩm quyền → mục VI + tiền lệ trong `sd-vlncn-sct-vn`.
+- **Soạn/rà hồ sơ KIỂM TRA CHUYÊN NGÀNH dẫn tới xử phạt**: Quyết định kiểm tra (Mẫu số 03), kế hoạch tiến hành, biên bản kiểm tra, báo cáo kết quả, tạm dừng/đình chỉ cuộc kiểm tra; đặc biệt **kiểm tra sau kết luận thanh tra** để xác lập căn cứ xử phạt bên thứ ba (tiền lệ vụ Hóa chất mỏ Tây Bắc — KL 48/KL-TT) → reference `07`.
 
 **Ranh giới, liên kết với plugin khác:**
-- Nghiệp vụ chuyên ngành (điều kiện, giấy phép, quy trình, kiểm tra chuyên ngành NĐ 217/2025): giấy phép sử dụng VLNCN + PANM → `sd-vlncn-sct-vn`; kho VLNCN → `kho-vlncn-sct-vn`; huấn luyện KTAT → `hl-vlncn-sct-vn`; quản lý hóa chất → `hc-sct-vn`. Plugin này CHỈ lo phần chế tài.
+- Nghiệp vụ chuyên ngành (điều kiện, giấy phép, thủ tục cấp phép): giấy phép sử dụng VLNCN + PANM → `sd-vlncn-sct-vn`; kho VLNCN → `kho-vlncn-sct-vn`; huấn luyện KTAT → `hl-vlncn-sct-vn`; quản lý hóa chất → `hc-sct-vn`. Plugin này lo phần chế tài **và quy trình kiểm tra chuyên ngành dẫn tới chế tài** (reference `07`); nội dung chuyên môn kiểm tra từng mảng vẫn tra ở plugin nghiệp vụ.
 - Vận chuyển VLNCN: Công an cấp phép và chủ trì xử lý phần lớn (Đ58, Đ65); Sở nắm để phối hợp.
 - Soạn văn bản: `vbhc-vn` (thể thức NĐ 30/2020), `sct-laocai-org-vn` (người ký, dòng Lưu), `vbhc-pdf-reader-vn`/GATE khi đọc PDF đến.
 
@@ -28,7 +29,8 @@ TUYỆT ĐỐI không tự thay số/ngày khác.
 
 1. **Nghị định số 275/2026/NĐ-CP ngày 08/7/2026** của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp — **hiệu lực từ 25/8/2026** (Đ75). Từ ngày này, **NĐ 71/2019/NĐ-CP và Điều 1 NĐ 17/2022/NĐ-CP hết hiệu lực**. Căn cứ ban hành gồm: Luật Tổ chức Chính phủ 63/2025; Luật Tổ chức CQĐP 72/2025; Luật XLVPHC 15/2012 (sđ Luật 67/2020, Luật 88/2025); **Luật Hóa chất 69/2025**; Luật Phòng, chống ma túy 120/2025; **Luật 42/2024** (vũ khí, VLN, CCHT). Người ký: KT. Thủ tướng, Phó Thủ tướng Phạm Gia Túc.
 2. **NĐ 71/2019/NĐ-CP (sđ NĐ 17/2022)** — chỉ còn dùng cho hành vi xảy ra và kết thúc **trước 25/8/2026** (k1 Đ74 NĐ 275/2026) và giải quyết khiếu nại QĐ đã ban hành (k4 Đ74). Bản gốc: `sd-vlncn-sct-vn/van-ban-goc/` và `hc-sct-vn/van-ban-goc/05-xu-phat-kiem-tra/`.
-3. **Nền thủ tục:** Luật XLVPHC (thời hiệu, thời hạn ra QĐ, cưỡng chế; bản sửa đổi 2025 hiệu lực 01/7/2025); NĐ 118/2021/NĐ-CP (sđ NĐ 68/2025, NĐ 190/2025 — xử phạt trên môi trường điện tử, k5 Đ5 NĐ 275/2026); NĐ 189/2025 (thẩm quyền xử phạt); kiểm tra chuyên ngành theo NĐ 217/2025 + TT 56/2025/TT-BCT (quy trình → `hc-sct-vn` ref 10, `sd-vlncn-sct-vn` ref 05 mục F).
+3. **Nền thủ tục:** Luật XLVPHC (thời hiệu, thời hạn ra QĐ, cưỡng chế; bản sửa đổi 2025 hiệu lực 01/7/2025); NĐ 118/2021/NĐ-CP (sđ NĐ 68/2025, NĐ 190/2025 — xử phạt trên môi trường điện tử, k5 Đ5 NĐ 275/2026); NĐ 189/2025 (thẩm quyền xử phạt); kiểm tra chuyên ngành theo NĐ 217/2025 + TT 56/2025/TT-BCT.
+4. **Thông tư số 56/2025/TT-BCT ngày 28/11/2025** của Bộ trưởng Bộ Công Thương quy định về quy trình kiểm tra chuyên ngành Công Thương — hiệu lực 28/11/2025; bãi bỏ TT 15/2024/TT-BCT; 12 điều + 10 mẫu (Mẫu 03 QĐ kiểm tra, Mẫu 07 tạm dừng, Mẫu 08 đình chỉ). Toàn văn: `van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.docx`; hướng dẫn áp dụng + checklist: reference `07`. **Mọi QĐ kiểm tra của Sở phải viện dẫn TT này trong căn cứ và bám kết cấu Mẫu số 03.**
 
 ## III. CẤU TRÚC NĐ 275/2026 — BẢN ĐỒ TRA CỨU NHANH
 
@@ -114,8 +116,17 @@ xp-hc-vlncn-sct-vn/
 │   ├── 02-hanh-vi-vlncn.md               ← bảng hành vi - mức phạt Đ53-61 (đầy đủ)
 │   ├── 03-hanh-vi-hoa-chat.md            ← bản đồ Đ7-52 + chi tiết các điều Sở hay dùng
 │   ├── 04-tham-quyen.md                  ← Đ62-73 + phân định Đ72 + ví dụ tính thẩm quyền
-│   └── 05-doi-chieu-nd71-2019.md         ← bảng đối chiếu điều khoản cũ → mới
+│   ├── 05-doi-chieu-nd71-2019.md         ← bảng đối chiếu điều khoản cũ → mới
+│   ├── 06-moc-hieu-luc-phan-dinh-nd-282-2025.md ← mốc hiệu lực + phân định NĐ 282/2025
+│   └── 07-quy-trinh-kiem-tra-chuyen-nganh-tt56.md ← quy trình NĐ 217 + TT 56, Mẫu 03,
+│                                        tạm dừng/đình chỉ, kiểm tra sau KLTT, checklist
+├── vi-du-thuc-te/
+│   └── KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-PGD-Thuan-duyet.docx
+│                                        ← Kế hoạch kiểm tra (Mẫu 04) bản PGĐ duyệt — tiền lệ chuẩn
 └── van-ban-goc/
     ├── ND-275-2026-NDCP-xu-phat-VPHC-hoa-chat-VLNCN.docx  ← toàn văn (bản Word)
+    ├── 2025.10.30-282.2025.ND.CP-Xu-phat-VPHC-an-ninh-trat-tu-ATXH.docx
+    ├── 2026.03.26-78.VBHN.VPQH-Luat-Quan-ly-su-dung-vu-khi-VLN-va-CCHT-HOP-NHAT.docx
+    ├── TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.docx
     └── INDEX.md
 ```

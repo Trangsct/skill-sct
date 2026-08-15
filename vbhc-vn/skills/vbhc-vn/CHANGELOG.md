@@ -1,5 +1,15 @@
 # CHANGELOG — plugin vbhc-vn
 
+## v2.9.0 — 08/8/2026 (ĐẠI TU: chống phình, hợp nhất trùng lặp, description trigger-only)
+
+- **Gộp Nhóm K (vừa tạo v2.8.0) vào Nhóm H** thành "Toàn vẹn trình bày khi thao tác XML/run & lắp ghép văn bản" H1–H12: K1–K6 cũ = H6–H11; Quy tắc bất biến 20 (trHeight) chuyển chi tiết + code về H12. Còn **9 nhóm A–I**. Lý do: H và K cùng họ lỗi, để 2 nhóm dễ chồng lấn khi tra.
+- **Nén Quy tắc bất biến 11–14 và 20** từ ~40 dòng còn ~6 dòng: giữ nguyên SỐ (các nơi khác đang tham chiếu "Quy tắc 11/12"), mỗi quy tắc 1-2 dòng cơ chế + con trỏ về Nhóm H chi tiết — hết cảnh một luật chép ở 2 nơi (SKILL.md + reference) phải sửa 2 lần.
+- **Hòa giải 2 mâu thuẫn ngầm**: Quy tắc 3 (không thêm paragraph trong cell) ghi rõ ngoại lệ chừa chỗ ký tay của Quy tắc 20; Quy tắc 9 (nhãn a) nghiêng) nối với H11 kèm bảng chữ khoản a,b,c,d,đ,e,g. H9 ghi rõ 70/110pt là số thực chiến, nguyên lý là 1/3–1/2 dòng chữ — tránh over-fit.
+- **Xóa 2 file lưu trữ** `reference/anti-error-sct-vn-goc.md` (201 dòng) và `reference/vbhc-pdf-reader-vn-goc.md` (247 dòng) — bản gốc trước hợp nhất 20/6/2026, thuần lịch sử, git giữ; giảm 448 dòng khỏi gói.
+- **Description SKILL.md + plugin.json viết lại trigger-only**: chỉ mô tả TÌNH HUỐNG kích hoạt (loại văn bản, ký hiệu, từ khóa, "sửa lỗi trình bày file Word"), không chứa nội dung quy tắc — quy tắc ở thân skill và reference.
+- Kiểm sau đại tu: 11/11 check nhất quán PASS; qa_pdf_check.py + qa_all.py syntax OK, chạy thật PASS trên file Báo cáo Yên Hợp 2.
+- Nguyên tắc bảo trì ghi nhận: (i) mỗi quy tắc chỉ sống ở MỘT nơi, nơi khác trỏ tới; (ii) quy tắc từ vụ cụ thể phải kèm nguyên lý; (iii) vụ thật đã có script tự bắt thì rút narrative; (iv) CHANGELOG giữ lịch sử, SKILL/reference chỉ giữ luật đang hiệu lực.
+
 ## v2.4.0 — 24/7/2026 (Quy tắc 20: cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung)
 
 ### Vấn đề thật

@@ -1,7 +1,7 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.16.0",
-  "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư, QĐ 2390/2026 vốn đầu tư công; suất vốn theo QĐ 425/QĐ-BXD; NQ 34-NQ/TU, KH 134, NQ 26-NQ/TU. Khung 7/2026: NĐ 32/2024, 139/2025, 178/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc CCN Thống Nhất 1 và Báo cáo KCN/CCN họp UBND tỉnh 05/8/2026 (số liệu 31/7/2026).",
+  "version": "1.19.0",
+  "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư, QĐ 2390/2026 vốn đầu tư công; NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc CCN Thống Nhất 1, Báo cáo họp UBND tỉnh 05/8/2026 và kỳ cập nhật 07/8/2026 (bộ theo dõi tiến độ + 02 phụ lục thu hút đầu tư theo mẫu năng lượng + mẫu báo cáo Zalo thứ 6 hằng tuần).",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   }

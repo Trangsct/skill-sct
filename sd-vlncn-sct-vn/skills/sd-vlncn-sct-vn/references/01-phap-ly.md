@@ -2,6 +2,10 @@
 
 > Toàn bộ trích dẫn dưới đây lấy từ văn bản gốc. Khi soạn văn bản chính thức, viện dẫn đúng cụm chuẩn ở mục cuối.
 
+> ⭐ **BẢN TRA CỨU HỢP NHẤT (cập nhật 8/2026):** Văn bản hợp nhất số **78/VBHN-VPQH ngày 26/3/2026** của Văn phòng Quốc hội — Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, hợp nhất Luật 42/2024/QH15 với Luật 118/2025/QH15 (phần sửa đổi **hiệu lực 01/7/2026**). Toàn văn: `van-ban-goc/2026.03.26-78.VBHN.VPQH-...docx`.
+> **Dùng VBHN 78 để TRA CỨU nội dung hiện hành; khi soạn văn bản hành chính vẫn viện dẫn văn bản gốc (Luật 42/2024 + Luật 118/2025), KHÔNG lấy số hiệu VBHN làm căn cứ ban hành.**
+> ➡️ Bản đồ đầy đủ thẩm quyền UBND cấp tỉnh & Sở Công Thương (10 thẩm quyền cấp phép, 6 đầu mối tiếp nhận thông báo, ranh giới với Công an – Quốc phòng – các Cục): reference `10`.
+
 ## 1. Luật số 42/2024/QH15 ngày 29/6/2024 (hiệu lực 01/01/2025)
 
 ### Điều 38 — Sử dụng VLNCN
@@ -53,8 +57,20 @@
 ### Khoản 5 Điều 9 + Điều 10 — Thu hồi (áp dụng cho GP sử dụng VLNCN)
 Các trường hợp thu hồi giấy phép về quản lý, sử dụng VLNCN: tổ chức giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; không còn nhu cầu sử dụng/chấm dứt hoạt động; không bảo đảm điều kiện; GP cấp không đúng thẩm quyền; hết hạn mà không đề nghị cấp lại… (đối chiếu nguyên văn khoản 5 Điều 9 khi soạn QĐ thu hồi). Thủ tục: Điều 17 NĐ 181/2024 (mục 3 dưới).
 
-## 2. Luật số 118/2025/QH15 ngày 10/12/2025
-Khoản 6 Điều 9 sửa **điểm đ khoản 1 Điều 39** Luật 42/2024 → "Bản sao văn bản nghiệm thu về phòng cháy và chữa cháy **hoặc văn bản chấp thuận kết quả nghiệm thu về phòng cháy và chữa cháy đối với kho cố định** chứa vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật". Ý nghĩa: kho tạm/kho thuê không bắt buộc riêng văn bản nghiệm thu PCCC như kho cố định; đối chiếu kỹ từng trường hợp.
+## 2. Luật số 118/2025/QH15 ngày 10/12/2025 — sửa đổi, bổ sung 10 luật liên quan an ninh, trật tự
+
+**Hiệu lực: 01/7/2026** (khoản 1 Điều 11). Điều 9 sửa Luật 42/2024 với **16 nhóm nội dung**; các nhóm liên quan VLNCN (bảng đối chiếu đầy đủ + tác động nghiệp vụ: reference `10` mục E):
+
+- **k3 điểm a, b** → điểm a k2 và điểm a k3 **Điều 34**: tổ chức, DN **sản xuất / kinh doanh VLNCN** phải là DNNN hoặc DN do DNNN nắm giữ 100% vốn điều lệ, được **Bộ trưởng Bộ Công Thương, Bộ trưởng Bộ Quốc phòng hoặc Bộ trưởng Bộ Công an** giao nhiệm vụ (bổ sung Bộ Công an).
+- **k4, k5** → điểm b k1 **Điều 35**, điểm b k1 **Điều 36**: hồ sơ phải có bản sao văn bản giao nhiệm vụ của BT BCT/BQP/BCA.
+- **k6** → **điểm đ khoản 1 Điều 39**: "Bản sao văn bản nghiệm thu về phòng cháy và chữa cháy **hoặc văn bản chấp thuận kết quả nghiệm thu về phòng cháy và chữa cháy đối với kho cố định** chứa vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật". Ý nghĩa: chấp nhận cả 2 dạng văn bản PCCC; yêu cầu áp cho **kho cố định** — kho tạm/kho thuê đối chiếu kỹ từng trường hợp.
+- ⭐ **k7 điểm a** → **điểm b khoản 2 Điều 40** (dịch vụ nổ mìn): "Đối với vật liệu nổ công nghiệp, phải có kho bảo quản **hoặc gửi kho bảo quản** bảo đảm tiêu chuẩn theo quy định của Luật này. Việc **gửi kho phải có thỏa thuận bằng văn bản và thông báo đến Ủy ban nhân dân cấp tỉnh để theo dõi, quản lý**" → **nghĩa vụ thông báo MỚI**, Sở phải mở sổ theo dõi và đưa vào nội dung tuyên truyền, đôn đốc.
+- ⭐ **k7 điểm b** → **điểm b khoản 4 Điều 40**: dịch vụ nổ mìn tại địa phương có phạm vi trong địa bàn đất liền của 01 tỉnh hoặc thành phố → phải có **văn bản đề nghị của Ủy ban nhân dân cấp tỉnh** (SCT tham mưu; cơ quan CẤP phép vẫn là Cục KTAT&MTCN).
+- **k7 điểm c** → bổ sung **điểm d khoản 4 Điều 40**: DN đã có GP kinh doanh VLNCN thì hồ sơ GP dịch vụ nổ mìn **không bao gồm** giấy tờ tại điểm đ k1 Đ39.
+- ⭐ **k8** → **khoản 5 Điều 44** (GCN đủ điều kiện sản xuất tiền chất thuốc nổ): hồ sơ nộp trên Cổng DVC quốc gia, **Hệ thống thông tin giải quyết TTHC của UBND cấp tỉnh nơi sản xuất TCTN**, hoặc bưu chính về **cơ quan có thẩm quyền do UBND cấp tỉnh quy định**.
+- **k15 điểm a, b** → thay "doanh nghiệp hoạt động dịch vụ nổ mìn" bằng "**tổ chức, doanh nghiệp** hoạt động dịch vụ nổ mìn" tại k4 Đ39; thay "doanh nghiệp" bằng "**tổ chức, doanh nghiệp**" tại điểm a, b k1 và k2 Đ40 → mở rộng chủ thể.
+
+**Không bị sửa:** Điều 38 (điều kiện, quy định sử dụng VLNCN); k6 Đ39 (05 ngày làm việc); k7 Đ39 (thời hạn GP 04/05/02 năm); Điều 41 (vận chuyển); Điều 42 (trách nhiệm tổ chức, DN).
 
 ## 3. Nghị định số 181/2024/NĐ-CP ngày 31/12/2024
 
@@ -131,14 +147,42 @@ Cốt lõi cho thẩm định PANM: **Phụ lục 7** — công thức tính kho
 
 ## 9. Văn bản địa phương (Lào Cai)
 - **QĐ 05/2025/QĐ-UBND ngày 01/7/2025** — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Sở Công Thương (căn cứ chuẩn).
-- **QĐ ủy quyền lĩnh vực VLNCN** (UBND tỉnh → GĐ SCT): huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN; thời hạn đến hết 28/02/2027; GĐ SCT dùng văn bản, con dấu của Sở; báo cáo UBND tỉnh hằng năm. Số/ngày: xác minh với Bạn (dự thảo theo TTr 2205/TTr-SCT ngày 28/10/2025; plugin kho-vlncn ghi nhận QĐ 1883/QĐ-UBND ngày 06/11/2025).
+- ✅ **QĐ 1883/QĐ-UBND ngày 06/11/2025** (đã có **bản ký thật**: `hl-vlncn-sct-vn/van-ban-goc/2025.11.06-1883.QD.UBND-...ban-ky.pdf` + Phụ lục): ủy quyền **Giám đốc SCT** huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN (TTHC 2.000229, 2.000210; căn cứ k1 Đ24 NĐ 146/2025); thời hạn **đến hết 28/02/2027**; không ủy quyền tiếp; dùng văn bản, con dấu của Sở; báo cáo UBND tỉnh hằng năm/đột xuất. TM. UBND, KT. Chủ tịch, PCT **Nguyễn Thành Sinh** ký. ⚠ Phạm vi CHỈ gồm GCN huấn luyện — GP sử dụng VLNCN vẫn do Chủ tịch UBND tỉnh ký `/GP-UBND`.
+- ⭐ **QĐ 2272/QĐ-UBND ngày 29/6/2026** (hiệu lực **01/7/2026**; bản ký: `van-ban-goc/2026.06.29-2272.QD.UBND-...pdf`): **Sở Công Thương là cơ quan tiếp nhận hồ sơ** cấp, cấp lại, cấp điều chỉnh **GCN đủ điều kiện sản xuất tiền chất thuốc nổ** trên địa bàn tỉnh (thực hiện k5 Đ44 Luật 42/2024 sđ Luật 118/2025, k2 Đ23 NĐ 146/2025). Điều 2: SCT chủ trì thẩm định, trình; **Công an tỉnh** phối hợp thẩm định ANTT, PCCC; UBND cấp xã nơi có cơ sở phối hợp giám sát. Hồ sơ trình: TTr **2869/TTr-SCT ngày 21/5/2026**; căn cứ QĐ 482/QĐ-UBND ngày 13/02/2026, VB 6324/UBND-NC ngày 20/6/2026. PCT **Nguyễn Thành Sinh** ký.
 - Văn bản chỉ đạo: VB số 193/UBND-KT ngày 10/01/2026 của UBND tỉnh; VB số 301/SCT-CN ngày 20/01/2026 của SCT (tăng cường quản lý VLNCN — dẫn trong văn bản đôn đốc).
+
+## 9a. VĂN BẢN PHÂN ĐỊNH THẨM QUYỀN VỚI BỘ CÔNG AN, BỘ QUỐC PHÒNG (mới bổ sung 8/2026)
+
+### Thông tư số 75/2024/TT-BCA ngày 15/11/2024 — quy định chi tiết Luật 42/2024 (khối Bộ Công an)
+Khoản 2 Điều 1: Thông tư này **không điều chỉnh** việc quản lý, sử dụng VLNCN, TCTN thuộc phạm vi quản lý của Bộ Công Thương. Phần liên quan trực tiếp đến Sở:
+- **Điểm đ khoản 2 Điều 4:** **Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội (PC06) Công an cấp tỉnh** cấp, cấp lại **Giấy phép vận chuyển, điều chỉnh Giấy phép vận chuyển VLNCN, tiền chất thuốc nổ** (trừ trường hợp điểm i k1). Nếu nơi có kho tiếp nhận không cấp GP vận chuyển thì Trưởng phòng PC06 nơi có kho **xác nhận vào Giấy đăng ký tiếp nhận VLNCN, TCTN**.
+- **Điểm i khoản 1 Điều 4:** **Cục trưởng Cục Cảnh sát QLHC về TTXH (C06)** cấp GP vận chuyển, điều chỉnh GP vận chuyển VLNCN, TCTN đối với trường hợp **quá cảnh, xuất khẩu, nhập khẩu**.
+→ Khi DN hỏi về vận chuyển VLNCN: hướng dẫn sang PC06 Công an tỉnh, **Sở Công Thương không cấp**. (Plugin `hnh-sct-vn` chỉ xử lý HHNH **trừ** VLNCN, TCTN.)
+
+### Nghị định số 149/2024/NĐ-CP ngày 15/11/2024
+Quy định chi tiết Luật 42/2024 **phần vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ** (Bộ Công an chủ trì). **KHÔNG điều chỉnh VLNCN** — VLNCN thuộc NĐ 181/2024. Điều 22 quy định trách nhiệm UBND các cấp nhưng chỉ trong phạm vi vũ khí, VLN quân dụng, CCHT.
+⚠ **Không đưa NĐ 149/2024 vào phần căn cứ của văn bản về VLNCN.**
+
+### Thông tư số 98/2024/TT-BQP ngày 15/11/2024 và Thông tư số 09/2026/TT-BQP ngày 22/01/2026
+Quản lý hoạt động VLNCN, TCTN thuộc thẩm quyền Bộ Quốc phòng. TT 09/2026 (hiệu lực **22/01/2026**) sửa 7 khoản của TT 98/2024:
+- **k3, k4 Đ1** (sửa k6 Đ3 và k4 Đ4 TT 98): **Bộ Tham mưu/Tổng cục Công nghiệp quốc phòng** thẩm định, cấp/cấp lại/cấp đổi/điều chỉnh **GP sử dụng VLNCN** trong **2,5 ngày làm việc**; **không quá 05 ngày làm việc** nếu cần kiểm tra thực tế địa điểm sử dụng, kho VLNCN. Mẫu số 05 Phụ lục TT 98/2024.
+- **k6 Đ1** (sửa k7 Đ6 TT 98): cấp, điều chỉnh **Mệnh lệnh vận chuyển** VLNCN, TCTN trong **1,5 ngày làm việc** (Mẫu số 10).
+- **k7 Đ1** (sửa k5 Đ9 TT 98): **Bộ Tham mưu** cấp, cấp lại, cấp đổi, điều chỉnh, thu hồi GP sử dụng VLNCN; **Cục Quản lý Công nghệ** tổ chức huấn luyện, kiểm tra, cấp **GCN huấn luyện KTAT VLNCN, TCTN** cho khối BQP.
+- **k1 Đ1** (sửa điểm h k1 Đ3): làm rõ đầu mục hồ sơ QĐ bổ nhiệm chỉ huy nổ mìn, danh sách thợ nổ mìn, giấy phép lao động của người nước ngoài (nếu có).
+- **k2, k5 Đ1**: nộp hồ sơ trực tuyến qua Cổng DVCQG, Hệ thống TTHC Bộ Quốc phòng — **không phải nộp thành phần đã được số hóa, lưu trữ trong CSDL quốc gia, CSDL chuyên ngành và liên thông điện tử**.
+→ Với DN quốc phòng hoạt động trên địa bàn: Sở **không cấp phép** nhưng vẫn **tiếp nhận thông báo sử dụng VLNCN trước ≥ 10 ngày** (điểm đ k2 Đ38) và thực hiện theo dõi, giám sát, kiểm tra theo Điều 19 TT 23/2024.
+
+## 9b. NGHỊ ĐỊNH 282/2025/NĐ-CP ngày 30/10/2025 (xử phạt VPHC lĩnh vực ANTT) — phân định với NĐ 275/2026
+Hiệu lực **15/12/2025**, thay thế NĐ 144/2021/NĐ-CP. **Điều 12** xử phạt vi phạm về quản lý, sử dụng vũ khí, vật liệu nổ, **tiền chất thuốc nổ**, công cụ hỗ trợ — có một số hành vi chạm tới VLNCN/TCTN (bán TCTN cho bên mua chưa đủ điều kiện — điểm l k3; trao đổi, cho mượn, cầm cố trái phép VLN, TCTN — điểm đ k4; vận chuyển, mang trái phép vào/ra lãnh thổ — điểm d k5; lợi dụng quản lý, sử dụng VLN, TCTN xâm phạm ANQG, TTATXH — điểm đ k5).
+**Khoản 6 Điều 12 (điều khoản quét):** hành vi VPHC trong lĩnh vực quản lý, sử dụng VLNCN, TCTN **chưa được quy định tại NĐ 282/2025** thì xử lý theo **nghị định xử phạt VPHC lĩnh vực hóa chất, vật liệu nổ công nghiệp** (= **NĐ 275/2026** từ 25/8/2026; trước đó NĐ 71/2019 sđ NĐ 17/2022).
+→ Quy tắc chọn nghị định + bảng chi tiết: plugin `xp-hc-vlncn-sct-vn` (ref `06`).
 
 ## 10. CỤM CĂN CỨ CHUẨN khi soạn văn bản (copy nguyên văn, đúng thứ tự)
 
 ```
 Căn cứ Luật Tổ chức chính quyền địa phương ngày 16/6/2025;
-Căn cứ Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 29/6/2024;
+Căn cứ Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 29/6/2024; Luật sửa đổi,
+bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự ngày 10/12/2025;
 Căn cứ Nghị định số 181/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chi tiết một số
 điều của luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp
 và tiền chất thuốc nổ; Nghị định số 146/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về
@@ -159,3 +203,8 @@ Lào Cai về việc Ban hành quy định chức năng, nhiệm vụ, quyền h
 Sở Công Thương tỉnh Lào Cai.
 ```
 Xét đề nghị/Theo đề nghị đặt cuối: `Xét đề nghị của [DN] tại [Giấy đề nghị/Văn bản] số … ngày …; Theo đề nghị của Giám đốc Sở Công Thương tỉnh Lào Cai tại Tờ trình số …/TTr-SCT ngày …`
+
+**Lưu ý về Luật 118/2025 trong phần căn cứ:**
+- Văn bản ban hành **từ 01/7/2026 trở đi** mà nội dung chạm tới các điều bị sửa (Đ34, 35, 36, 39, 40, 44) → ghi thêm dòng "Luật sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự ngày 10/12/2025" ngay sau Luật 42/2024, cùng một gạch đầu dòng "Căn cứ".
+- Văn bản **không** chạm tới các điều bị sửa → giữ nguyên cụm cũ, không thêm, tránh làm dài phần căn cứ.
+- **Không bao giờ** ghi "Căn cứ Văn bản hợp nhất số 78/VBHN-VPQH…" — văn bản hợp nhất không phải là căn cứ ban hành.

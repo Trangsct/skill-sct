@@ -1,5 +1,7 @@
 # CHANGELOG
-## v1.16.0 — 07/8/2026: QĐ 2736 thành lập Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1 nhận 01 hồ sơ CĐT
+## v1.19.0 — 15/8/2026: gộp PR #14 (soạn 07/8/2026) — QĐ 2736 thành lập Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1 nhận 01 hồ sơ CĐT
+
+(Nhánh PR #14 tạo 07/8 song song với chuỗi v1.16.0-v1.18.2 trên main; nội dung dưới đây là phần riêng của PR, gộp vào main ngày 15/8/2026. Lưu ý: reference 26 mục C ghi QĐ 2736 và TB 831 ngày 07/8 - bản GATE file gốc trong PR này ghi 06/8/2026; khi trích dẫn chính thức dùng ngày trên bản gốc PDF trong van-ban-goc/.)
 
 Bạn cung cấp 02 file PDF bản scan. Đã GATE file gốc trên đĩa:
 
@@ -14,6 +16,59 @@ Bạn cung cấp 02 file PDF bản scan. Đã GATE file gốc trên đĩa:
 - `SKILL.md`: mục I.3 + bảng reference 06/14 + từ khóa description.
 - `van-ban-goc/`: lưu 02 bản gốc `QD-2736-2026-HD-lua-chon-CDT-CCN-Mong-Son.pdf`, `TB-831-2026-UBND-Cam-Duong-tiep-nhan-ho-so-CCN-Cam-Duong-1.pdf`.
 - Website congnghieplaocai.vn đã cập nhật song song (repo ccn-laocai, SW v67).
+
+## v1.18.2 — 07/8/2026: đính chính mục I.2 Báo cáo gửi UBND tỉnh — 23 cụm = 16 UBND xã + 07 doanh nghiệp
+
+- Mục I.2 báo cáo viết lại theo chốt của Bạn: "23 cụm đã thành lập, đang hoạt động, gồm 16 cụm do UBND cấp xã quản lý (hạ tầng đầu tư từ ngân sách nhà nước) và 07 cụm do doanh nghiệp làm chủ đầu tư hạ tầng"; các cụm thành lập mới trình bày riêng (09 đang thẩm định; 07 đang hoàn thiện hồ sơ; còn lại kêu gọi).
+- Reference 26 mục B.2: bổ sung cảnh báo HAI CON SỐ 23 KHÁC NGHĨA (23 "đã có nhà đầu tư" trong tin Zalo ≠ 23 "đã thành lập" = 16+7 trong văn bản chính thức) — văn bản chính thức dùng cách 16+7.
+- `vi-du-thuc-te/`: thay file báo cáo bản cuối.
+
+## v1.18.1 — 07/8/2026: viết lại Báo cáo gửi UBND tỉnh theo khuôn thống nhất + 2 đính chính của Bạn
+
+- Bản BC-SCT gửi UBND tỉnh viết lại toàn bộ theo khuôn hành chính thống nhất, 4 trang: mục II tái cấu trúc theo 4 nhóm tiến độ (04 cụm đã có Hội đồng → 03 cụm đang lấy ý kiến ghi rõ x/06 cơ quan → 07 cụm tiếp nhận/hoàn thiện hồ sơ → 03 cụm chuẩn bị quy hoạch, hạ tầng); mục IV gom đủ 07 cụm doanh nghiệp làm CĐT theo cùng khuôn (địa điểm - quy mô - TMĐT - mốc - tiến độ - vướng mắc, bổ sung Bảo Minh); mục V nhiệm vụ 4 điểm; mục VI kiến nghị 5 điểm; khối ký trọn trang cuối (đã nén spacing after 120→80 để hết gãy trang).
+- ĐÍNH CHÍNH (ghi vào ref 26): (1) CCN Phú Thịnh 6 — vướng mắc ĐÃ THÁO GỠ XONG, NĐT đã nộp hồ sơ, phường Văn Phú đang bước Thông báo tiếp nhận (không viết "đang vướng mắc" nữa); (2) CCN Đầm Hồng di dời sang CCN Âu Lâu, KHÔNG liên quan Phú Thịnh 4 — cấm đưa nội dung "Phú Thịnh 4 gắn di dời Đầm Hồng" vào báo cáo.
+- `vi-du-thuc-te/`: thay file báo cáo bằng bản viết lại.
+
+## v1.18.0 — 07/8/2026: Báo cáo BC-SCT chính thức gửi UBND tỉnh (chuyển từ bản theo dõi nội bộ)
+
+- `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo tình hình, tiến độ phát triển CCN, KCN trên địa bàn tỉnh (gửi UBND tỉnh).docx` — dựng Chế độ B từ mẫu thật vbhc-vn (bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx), giữ nguyên header 2 Line + khối ký PGĐ Nguyễn Đình Chiến; 6 mục I-VI, kết bằng Đề xuất, kiến nghị 5 điểm với UBND tỉnh; nơi nhận Như trên/TT. Tỉnh ủy (b/c)/02 BQL (p/h)/Lưu VT CN(Trung); m³ superscript; QA render 5/5 trang.
+- Quy tắc chuyển thể ghi nhận tại reference 26 mục H.6: bản nội bộ → bản gửi UBND tỉnh phải đổi giọng ("Phòng" → "Sở"; "chưa phát hành ý kiến/tồn đọng" → "đang tham gia ý kiến"), bỏ mục "cần làm rõ" nội bộ, thay bằng kiến nghị.
+
+## v1.17.2 — 07/8/2026: hoàn thiện TMĐT phụ lục CCN — bổ sung Bảo Minh 500 tỷ
+
+- Phụ lục CCN: điền TMĐT CCN Bảo Minh = 500 tỷ đồng (Báo cáo đầu tư 14/10/2025, vốn CSH 75 tỷ = 15% + BIDV cam kết 425 tỷ; nguồn case study reference 05/07; ghi chú đối chiếu bản gốc QĐ 1397/QĐ-UBND 25/4/2026). Nhóm cụm đã thành lập tổng hợp được 1.360,01 tỷ (02/07 cụm có CĐT); tổng cột TMĐT toàn phụ lục 25.714,01 tỷ. 05 cụm còn lại (Minh Quân, Phú Thịnh 1, 2, 3, Y Can) gắn ghi chú "TMĐT: bổ sung theo QĐ chấp thuận CTĐT (hồ sơ gốc)" và để trống — quy tắc KHÔNG tạm tính theo suất vốn để tránh lẫn số liệu pháp lý.
+- Reference 26 mục B: cập nhật khối TMĐT CCN + quy tắc số tham khảo lịch sử không đưa vào cột (Bản Phung 242 tỷ hồ sơ đã rút; An Thịnh 350 tỷ/30 ha hồ sơ liên danh FDI giai đoạn trước).
+- `vi-du-thuc-te/`: thay file phụ lục CCN bản hoàn thiện.
+
+## v1.17.1 — 07/8/2026: bản Word chuyển thể Bảng theo dõi tiến độ
+
+- `vi-du-thuc-te/`: thêm `2026.08.07. Báo cáo theo dõi tiến độ CCN, KCN (cập nhật đến 07.8.2026).docx` — chuyển thể toàn bộ bảng theo dõi thành văn xuôi 4 mục (13 mục CCN; 7 mục KCN mở đầu bằng Phú Xuân/Phú Xuân 1 sau QĐ 129+130/QĐ-BQL; 07 CCN doanh nghiệp làm CĐT; nội dung cần làm rõ), thể thức trùng bản Nhiệm vụ tuần.
+- Reference 26 mục H: đăng ký sản phẩm thứ 5; chốt bộ sản phẩm chuẩn hằng tuần = bảng Excel + bản Word chuyển thể + tin Zalo.
+
+## v1.17.0 — 07/8/2026 (tối): KCN Phú Xuân + Phú Xuân 1 được phê duyệt Điều chỉnh cục bộ QHPK (QĐ 129 + 130/QĐ-BQL ngày 06/8/2026)
+
+Bạn cung cấp 02 bản scan có dấu; đã GATE file gốc: QĐ 129/QĐ-BQL (Phú Xuân, 300 ha) và QĐ 130/QĐ-BQL (Phú Xuân 1, 200 ha) cùng ngày 06/8/2026 của BQL Khu kinh tế tỉnh, Trưởng ban Vương Trinh Quốc ký; căn cứ Tờ trình 32.7 + 31.7/TTr-CNLL ngày 31/7/2026 của Công ty CP công nghiệp Linh Linh và Báo cáo thẩm định 39 + 40/BC-QHXD ngày 06/8/2026.
+
+- `references/26` mục C.13 (mới): tóm tắt nội dung then chốt 02 QĐ — Phú Xuân: đất SXCN giảm 7,73 ha còn 175,48 ha; XLNT tập trung CHUNG 02 KCN 45.000 m3/ngđ đặt tại Phú Xuân (cột A QCVN 40:2025/BTNMT); gộp còn 01 TBA 110kV 2x63MVA (khớp phương án Sở 4607/SCT-NL). Phú Xuân 1: đất SXCN TĂNG 8,22 ha lên 126,98 ha (63,49%); bỏ XLNT; Trạm cấp nước sạch + nhà máy nước 70.000 m3/ngđ cấp cho 02 KCN và dân cư; dải cây xanh IC17 - ĐT.152. Ghi rõ chuỗi căn cứ nền (QĐ 94/95/QĐ-BQL 18/6/2026; QĐ 880/881/QĐ-UBND 15/6/2026 xã Gia Phú; QĐ 2031/QĐ-UBND 10/6/2026) và bảng văn bản viện dẫn cố định.
+- `van-ban-goc/`: lưu 02 file QD-129-QD-BQL và QD-130-QD-BQL (bản scan có dấu).
+- `vi-du-thuc-te/`: cập nhật 03 file kỳ 07/8 (bảng theo dõi: 02 dòng Phú Xuân/Phú Xuân 1 chuyển trạng thái "ĐÃ CÓ KẾT QUẢ"; phụ lục KCN: cột tiến độ 02 dòng; nhiệm vụ tuần 10.8-16.8: gạch đầu dòng mục Khu công nghiệp).
+
+## v1.16.1 — 07/8/2026 (chiều): bổ sung cột Tổng mức đầu tư vào 02 phụ lục thu hút đầu tư
+
+- 02 phụ lục KCN/CCN nâng lên bảng 8 cột (thêm "Tổng mức đầu tư (tỷ đồng)" sau cột Diện tích, có SUM nhóm + tổng): KCN tổng hợp 38.350,01 tỷ cho 14/21 khu (05 KCN mới theo QĐ CTĐT = 13.990,01 tỷ, báo cáo dùng 13.989 tỷ theo ref 15; 08 KCN kêu gọi theo QĐ 1382 = 24.360 tỷ; Lục Yên và các KCN hiện hữu chưa có số liệu); CCN 37 cụm giai đoạn 2026-2030 = 24.354 tỷ (ref 14) + Thống Nhất 1 = 860,008 tỷ (ref 23).
+- CCN Gia Hội điền 50 ha/600 tỷ theo BC 18/6/2026 → tổng diện tích 56 CCN thay đổi 3.002,81 → 3.052,81 ha (đã sửa đồng bộ reference 26 mục B, khối tổng hợp phụ lục và tin Zalo).
+- Tin Zalo báo cáo GĐ bổ sung vốn: KCN "1.255,29 ha, tổng vốn đăng ký 13.989 tỷ đồng" + "09 KCN kêu gọi ~24.360 tỷ"; CCN "37 cụm giai đoạn 2026-2030 ~24.354 tỷ đồng".
+- Reference 26: mục B thêm khối "Tổng mức đầu tư" + danh sách thiếu cần Bạn bổ sung tài liệu (TMĐT KCN hiện hữu, Trấn Yên/Viglacera, Lục Yên; QĐ CTĐT 06 CCN đã có CĐT); mục D cập nhật cấu trúc 8 cột.
+- `vi-du-thuc-te/`: thay 02 file phụ lục bằng bản 8 cột.
+
+## v1.16.0 — 07/8/2026: reference 26 — kỳ cập nhật 07/8/2026 + chuẩn hóa phụ lục thu hút đầu tư theo mẫu năng lượng + báo cáo Zalo thứ 6 hằng tuần
+
+Phiên 07/8/2026: Bạn cung cấp Sổ văn bản đến/đi kết xuất 07/8/2026, bộ theo dõi bản 03/8 và mẫu Phụ lục dự án năng lượng (Phòng QLNL). GĐ Sở Hoàng Chí Hiền chỉ đạo qua Zalo: Phòng QLCN tổng hợp báo cáo thu hút dự án KCN, CCN tương tự mảng năng lượng, báo cáo THỨ 6 HẰNG TUẦN.
+
+- **Mới `references/26-ky-cap-nhat-07-8-2026.md`**: (A) chỉ đạo + mẫu tin Zalo chuẩn văn phong QLNL, quy tắc soạn kỳ sau, hai cách đếm 23/56 và 16/56; (B) số liệu tổng hợp chuẩn 21 KCN 5.677,47 ha (bảng 6 nhóm + tên NĐT 5 KCN mới kèm số QĐ) và 56 CCN 3.002,81 ha (bảng 4 nhóm; sửa lỗi Yên Thế 39.397→39,97 ha); (C) 13 diễn biến 30/7-07/8 đã GATE từ sổ văn bản: Yên Hợp 2 họp chấm điểm (4760/GM-HĐ 07/8, GĐ ký), Tân Nguyên đủ 5 ý kiến + BC tiếp thu 4764/BC-SCT 07/8, Mông Sơn có Hội đồng (2736/QĐ-UBND 07/8), Hưng Khánh 4/6 ý kiến, Cam Đường 1 (TB 831 07/8), Phú Thịnh 1 Hội đồng GPMT (678/QĐ-SNNMT 06/8), Phú Thịnh 6 vướng mắc lần 2 (443/BC-UBND 04/8), Tân Hợp mới phát sinh (4936/SXD-PTĐT 04/8), triển khai NĐ 303 (4679/SCT-CN 04/8 + sao y 839/SY-VPUBND 05/8), họp KCN (410/GM-UBND 04/8), Tằng Loỏng 2 văn bản SCT-KH 03/8, Võ Lao 7493/SNNMT-CCMT 06/8, danh sách 4 việc tồn đọng; (D) cấu trúc chuẩn phụ lục thu hút đầu tư 7 cột theo mẫu năng lượng (khối tổng hợp + công thức SUM nhóm + TEXT nối chuỗi tự cập nhật); (E) 6 cảnh báo số liệu vênh (6 CCN 2 diện tích; TB 831 chưa rõ cơ quan; VB 4830/CAT-PA04 chưa rõ cụm; Cam Đường 200/196,3 ha + 2 cách ghi tên Lê Premium; địa danh Đông An); (F) quy trình cập nhật thứ 6 hằng tuần 5 bước; (G) bảng 21 văn bản viện dẫn cố định phát sinh trong kỳ; (H) danh mục 4 file sản phẩm.
+- `vi-du-thuc-te/`: lưu 04 file gốc kỳ 07/8/2026 (theo dõi tiến độ 5 sheet — thêm dòng CCN Tân Hợp; 02 phụ lục thu hút đầu tư KCN/CCN cấu trúc mới; nhiệm vụ tuần 10.8-16.8.2026) + đăng ký case trong README.
+- `SKILL.md`: mục I.8 + bảng reference bổ sung reference 26.
+- Lưu ý kế thừa: reference 26 MỚI HƠN reference 17 (20/7) và 25 (31/7) về tiến độ CCN/danh mục thu hút đầu tư; số liệu SXKD/GPMB/lấp đầy chi tiết vẫn theo reference 25.
 
 ## v1.15.0 — 05/8/2026: reference 25 — Báo cáo KCN/CCN họp UBND tỉnh 05/8/2026 (số liệu chốt 31/7/2026)
 

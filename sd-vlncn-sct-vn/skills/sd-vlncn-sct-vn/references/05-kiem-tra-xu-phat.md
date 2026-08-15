@@ -41,6 +41,8 @@
 | 6đ | Không nhập kho số VLNCN thừa sau khi kết thúc nổ mìn | 80–100 tr | Tước GP 18–24 tháng |
 | 6e | Để mất VLNCN | 80–100 tr | |
 
+> ⚠️ **NĐ 275/2026 chưa có hiệu lực đến hết 24/8/2026** (k1 Đ75). Các mức phạt dưới đây dùng để **tra cứu, chuẩn bị và cảnh báo doanh nghiệp**; quyết định xử phạt ban hành trước 25/8/2026 phải viện dẫn **NĐ 71/2019 (sđ NĐ 17/2022)**. Bảng trạng thái hiệu lực + phân định với NĐ 282/2025: `xp-hc-vlncn-sct-vn/references/06`.
+
 ### Các điều liên quan khác của NĐ 275/2026 (bảng đầy đủ: `xp-hc-vlncn-sct-vn/references/02`)
 - **Đ53** (thay Đ49 cũ) — trách nhiệm của tổ chức: báo cáo định kỳ/đột xuất, lưu hồ sơ, đánh giá rủi ro, KH ứng cứu khẩn cấp (không đánh giá rủi ro/không xây dựng KHƯCKC: 30–50 tr).
 - **Đ54** (thay Đ50 cũ) — nhân lực: sử dụng người chưa huấn luyện/không đủ trình độ 15–30 tr **+ đình chỉ hoạt động 3–6 tháng** → chi tiết `hl-vlncn-sct-vn`.

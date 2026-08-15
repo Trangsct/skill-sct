@@ -2,6 +2,12 @@
 
 > Toàn văn NĐ 181/2024 lưu tại `van-ban-goc/ND-181-2024.docx`. Dưới đây trích nguyên văn các điều lõi, phục vụ viện dẫn chính xác.
 
+> ⭐ **BỔ SUNG 8/2026 — văn bản nền đã được hợp nhất:** Văn bản hợp nhất số **78/VBHN-VPQH ngày 26/3/2026** (Luật 42/2024 hợp nhất Luật 118/2025, phần sửa **hiệu lực 01/7/2026**) — `van-ban-goc/2026.03.26-78.VBHN.VPQH-...docx`. **Luật 118/2025 KHÔNG sửa các điều nền của công tác huấn luyện** (Điều 38, 42 Luật 42/2024 giữ nguyên; Điều 4–9 NĐ 181/2024 giữ nguyên) → **quy trình, hồ sơ, thời hạn, thang điểm 6/10, GCN 02 năm không thay đổi**. Các sửa đổi chỉ chạm Đ34, 35, 36, 39, 40, 44 — xem `sd-vlncn-sct-vn/references/01-phap-ly.md` mục 2 và `10` mục E.
+>
+> Hai điểm gián tiếp cần lưu ý khi soạn văn bản của Sở:
+> - GCN huấn luyện KTAT của **chỉ huy nổ mìn và thợ nổ mìn** vẫn là đầu mục cứng của hồ sơ cấp GP sử dụng VLNCN (điểm g k1 Đ39) — không bị sửa.
+> - Từ 01/7/2026, hồ sơ **GCN đủ điều kiện sản xuất tiền chất thuốc nổ** nộp qua Cổng DVCQG / **Hệ thống TTGQ TTHC của UBND cấp tỉnh** (k5 Đ44) → thống nhất cách hướng dẫn nơi nộp với hồ sơ huấn luyện TCTN (Trung tâm Phục vụ hành chính công tỉnh).
+
 ## A. NGHỊ ĐỊNH 181/2024/NĐ-CP ngày 31/12/2024 (hiệu lực 01/01/2025)
 
 ### Điều 4. Trình độ chuyên môn trong sản xuất, kinh doanh, sử dụng VLNCN
@@ -67,7 +73,8 @@ GCN cấp trước 01/01/2025 còn hạn → dùng đến hết hạn ghi trên 
 "1. Nhiệm vụ, quyền hạn của Bộ Công Thương về huấn luyện, kiểm tra, cấp, cấp lại giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp quy định tại khoản 1 Điều 6, Điều 9 và điểm b khoản 1 Điều 18 Nghị định số 181/2024/NĐ-CP do **Ủy ban nhân dân cấp tỉnh** thực hiện.
 2. Trình tự, thủ tục thực hiện khoản 1 Điều này được quy định tại Phụ lục VII ban hành kèm theo Nghị định này."
 
-## C. QĐ 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai (nội dung chính)
+## C. QĐ 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai — ✅ ĐÃ CÓ BẢN KÝ THẬT
+Bản ký (PDF, GATE đã xác minh số/ngày/người ký 09/8/2026): `van-ban-goc/2025.11.06-1883.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf` + Phụ lục `2025.11.06-1883.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-ky.pdf`. Khi viện dẫn trong văn bản chính thức dùng thẳng số/ngày này, không cần xác minh lại.
 - **Điều 1**: Ủy quyền GĐ Sở Công Thương thực hiện nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN theo Phụ lục:
   - Cấp GCN huấn luyện KTAT VLNCN thuộc thẩm quyền của SCT — TTHC **2.000229**;
   - Cấp lại GCN huấn luyện KTAT VLNCN — TTHC **2.000210**;
@@ -82,4 +89,9 @@ GCN cấp trước 01/01/2025 còn hạn → dùng đến hết hạn ghi trên 
 - **NĐ 139/2025/NĐ-CP ngày 12/6/2025** — phân định thẩm quyền 02 cấp lĩnh vực BCT.
 - **QĐ 2797/QĐ-SCT ngày 28/11/2025** — thành lập Tổ kiểm tra, cấp GCN huấn luyện KTAT VLNCN, TCTN; **QĐ 564/QĐ-SCT ngày 31/01/2026** — bổ sung thành viên.
 - **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — **Đ54**: phạt hành vi sử dụng người chưa huấn luyện/không đủ trình độ (15–30 tr cá nhân + đình chỉ 3–6 tháng), không tổ chức huấn luyện (5–15 tr). Hành vi kết thúc trước 25/8/2026 → Đ50 NĐ 71/2019 (chuyển tiếp Đ74). Bảng chi tiết → `xp-hc-vlncn-sct-vn/references/02`.
-- **TT 09/2026/TT-BQP ngày 22/01/2026** — chỉ sửa quy trình khối Bộ Quốc phòng (Cục Quản lý Công nghệ cấp GCN) — dùng khi phân định thẩm quyền với DN quốc phòng.
+- **TT 98/2024/TT-BQP ngày 15/11/2024** và **TT 09/2026/TT-BQP ngày 22/01/2026** (hiệu lực **22/01/2026**) — quản lý hoạt động VLNCN, TCTN thuộc thẩm quyền Bộ Quốc phòng. Toàn văn TT 09/2026: `van-ban-goc/2026.01.22-09.2026.TT.BQP-...docx`. Nội dung cần nắm để **phân định với DN quốc phòng hoạt động trên địa bàn tỉnh**:
+  - **k7 Đ1 TT 09/2026** (sửa k5 Đ9 TT 98/2024): **Bộ Tham mưu** cấp, cấp lại, cấp đổi, điều chỉnh, thu hồi GP sử dụng VLNCN; **Cục Quản lý Công nghệ** tổ chức **huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện KTAT VLNCN, TCTN** cho các đối tượng khối BQP → **Sở Công Thương KHÔNG huấn luyện, KHÔNG cấp GCN cho người của DN thuộc Bộ Quốc phòng** (khớp k2 Điều 6 NĐ 181/2024).
+  - k3, k4 Đ1: GP sử dụng VLNCN khối BQP cấp trong **2,5 ngày làm việc**; **không quá 05 ngày làm việc** nếu cần kiểm tra thực tế địa điểm sử dụng, kho. k6 Đ1: Mệnh lệnh vận chuyển **1,5 ngày làm việc**.
+  - k2, k5 Đ1: hồ sơ trực tuyến qua Cổng DVCQG, Hệ thống TTHC Bộ Quốc phòng — **không phải nộp thành phần đã số hóa, lưu trữ trong CSDL quốc gia, CSDL chuyên ngành và liên thông điện tử**. Tinh thần này cũng là định hướng cắt giảm TTHC chung, có thể vận dụng khi hướng dẫn DN nộp hồ sơ huấn luyện.
+  - Chuyển tiếp (k2 Đ2): hồ sơ tiếp nhận **trước 22/01/2026** tiếp tục giải quyết theo TT 98/2024.
+  - ⚠ Khi DN quốc phòng đề nghị Sở huấn luyện/cấp GCN: **trả lời hướng dẫn về Cục Quản lý Công nghệ**, không tiếp nhận (mẫu văn bản trả hồ sơ: mẫu 09).

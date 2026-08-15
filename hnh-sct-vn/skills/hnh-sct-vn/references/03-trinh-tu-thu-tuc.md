@@ -22,7 +22,7 @@ Căn cứ: Điều 16 Nghị định 161/2024/NĐ-CP và Quy trình nội bộ g
 
 ## 3. Các bước nội bộ - thủ tục CẤP MỚI (tổng 05 ngày làm việc)
 
-Theo Quy trình nội bộ của UBND tỉnh Lào Cai (mô hình trình ký UBND tỉnh). Khi áp dụng mô hình ủy quyền, các bước trình UBND tỉnh (Bước 5-8) được thay bằng việc Giám đốc Sở ký và phát hành tại Sở.
+Theo Quy trình nội bộ của UBND tỉnh Lào Cai (mô hình trình ký UBND tỉnh). Khi áp dụng mô hình ủy quyền, các bước trình UBND tỉnh (Bước 5-8) được thay bằng việc Giám đốc Sở ký và phát hành tại Sở. Phạm vi áp dụng mô hình ủy quyền tại Lào Cai: loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 theo QĐ 1696; **loại 5, 8 từ 14/8/2026 theo QĐ 2848/QĐ-UBND sửa đổi, bổ sung QĐ 1696** (reference 09 mục 3b; hồ sơ loại 5, 8 tiếp nhận 29/5-13/8/2026 theo mô hình trình ký dưới đây).
 
 1. **Bước 1** (Công chức Sở trực tại Trung tâm Phục vụ Hành chính công - TTPVHCC, 1 giờ): tiếp nhận, kiểm tra, hướng dẫn, quét (scan) lưu hồ sơ điện tử, chuyển hồ sơ cho Phòng QLCN, hướng dẫn nộp phí, lệ phí (nếu có).
 2. **Bước 2** (Lãnh đạo Phòng QLCN, 1 giờ): phân công, chuyển hồ sơ cho công chức xử lý.

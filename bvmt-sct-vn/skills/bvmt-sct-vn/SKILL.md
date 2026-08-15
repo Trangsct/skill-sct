@@ -1,6 +1,6 @@
 ---
 name: bvmt-sct-vn
-description: "Chuyên gia QLNN về bảo vệ môi trường (BVMT) ngành Công Thương, Sở Công Thương Lào Cai. Dùng khi: tham gia ý kiến/phản biện thẩm định ĐTM, GPMT, đăng ký môi trường dự án công nghiệp (luyện kim, hóa chất, khai khoáng, KCN/CCN, điện); xác định phân loại dự án nhóm I II III IV (Phụ lục II III IV V), đối tượng ĐTM/GPMT, ngưỡng nước thải - khí thải, thời điểm cấp GPMT, vận hành thử nghiệm, thẩm quyền (Điều 28 30 39 49 Luật BVMT; Điều 25, 26a, 27a NĐ 08/2022 hợp nhất đến NĐ 48/2026); đóng cửa mỏ, cải tạo phục hồi môi trường; BVMT khu/cụm công nghiệp, bãi thải gyps Tằng Loỏng; kiểm kê KNK, MRV, thị trường các-bon, BĐKH; sự cố chất thải, sự cố hóa chất; xử phạt VPHC môi trường; cắt giảm TTHC; Chỉ thị 26-CT/TU, Đề án 13. Vai trò PHỐI HỢP của SCT — chủ trì là Sở Nông nghiệp và Môi trường. Từ khóa: Luật 72/2020 Điều 160, Luật 146/2025, NĐ 08/2022, 05/2025, 48/2026, NĐ 45/2022, NĐ 119/2025, TT 09/2026/TT-BNNMT, TT 38/2023/TT-BCT, ĐTM, GPMT, đăng ký môi trường, gyps, các-bon."
+description: "Chuyên gia QLNN về bảo vệ môi trường (BVMT) ngành Công Thương, Sở Công Thương Lào Cai. Dùng khi: tham gia ý kiến/phản biện thẩm định ĐTM, GPMT, đăng ký môi trường dự án công nghiệp (luyện kim, hóa chất, khai khoáng, KCN/CCN, điện); ủy viên Hội đồng thẩm định GPMT (Bản nhận xét Mẫu 30, Phiếu 31, checklist phản biện báo cáo đề xuất); GATE NQ 66.19/2026 Phụ lục IX — hạ tầng CCN không phải ĐTM nhưng phải GPMT, Mẫu 22c; phân loại nhóm I II III IV, ngưỡng nước thải - khí thải, vận hành thử nghiệm, thẩm quyền (Điều 28 30 39 49 Luật BVMT; Điều 25, 26a, 31, 48 NĐ 08/2022 hợp nhất đến NĐ 48/2026); đóng cửa mỏ, cải tạo phục hồi; BVMT khu/cụm công nghiệp, gyps Tằng Loỏng; KNK, các-bon; sự cố chất thải, hóa chất; xử phạt VPHC; cắt giảm TTHC; Chỉ thị 26-CT/TU. Vai trò PHỐI HỢP của SCT — chủ trì là Sở Nông nghiệp và Môi trường. Từ khóa: Luật 146/2025, NĐ 48/2026, TT 09/2026/TT-BNNMT, QCVN 40:2025, ĐTM, GPMT, hội đồng thẩm định, bản nhận xét, đăng ký môi trường."
 ---
 
 # bvmt-sct-vn — Chuyên gia QLNN về bảo vệ môi trường ngành Công Thương, Sở Công Thương Lào Cai
@@ -60,6 +60,7 @@ Một số văn bản nền tảng còn ở dạng **dự thảo** (Nghị đị
 6. **Phối hợp thanh tra, kiểm tra, xử phạt VPHC** môi trường ngành Công Thương (NĐ 45/2022). → `references/06-su-co-xu-phat-cai-cach.md`
 7. **Cải cách, cắt giảm TTHC và điều kiện kinh doanh** lĩnh vực môi trường (NQ 66.19/2026; quan trắc). → `references/06-su-co-xu-phat-cai-cach.md`
 8. **Phát triển công nghiệp môi trường, kinh tế tuần hoàn, cộng sinh công nghiệp; tham mưu chủ trương của tỉnh** (Chỉ thị 26-CT/TU, Đề án 13). → `references/07-boi-canh-lao-cai.md`
+9. **Ủy viên Hội đồng thẩm định cấp GPMT** (Bản nhận xét Mẫu 30, Phiếu thẩm định Mẫu 31; GATE NQ 66.19; checklist phản biện BCĐX hạ tầng CCN 19 điểm; 2 bản chốt thực tế Phú Thịnh 1, Y Can). → `references/08-hoi-dong-tham-dinh-gpmt.md`
 
 ## IV. KHUNG PHÁP LÝ (tóm tắt — chi tiết và số/ngày đã xác minh tại `references/02-khung-phap-ly.md`)
 
@@ -107,6 +108,7 @@ Trục chính:
 - `references/05-knk-carbon-bdkh.md` — Kiểm kê KNK, MRV theo TT 38/2023/TT-BCT, lộ trình hạn ngạch, thị trường các-bon, dịch vụ hấp thụ các-bon rừng (NĐ 180/2026), trách nhiệm cấp tỉnh, BĐKH ngành Công Thương.
 - `references/06-su-co-xu-phat-cai-cach.md` — Ứng phó sự cố chất thải (QĐ 11/2025/QĐ-TTg) và sự cố hóa chất; xử phạt VPHC môi trường (NĐ 45/2022 + dự thảo sửa đổi); cải cách - cắt giảm TTHC môi trường (NQ 66.19/2026; quan trắc tự công bố).
 - `references/07-boi-canh-lao-cai.md` — Chỉ thị 26-CT/TU; Đề án số 13; bãi thải gyps Tằng Loỏng; nhiệm vụ trọng tâm của tỉnh; **bộ mẫu công việc thực tế + FAQ** (tham gia ý kiến ĐTM, báo cáo BVMT ngành, trả lời doanh nghiệp).
+- `references/08-hoi-dong-tham-dinh-gpmt.md` — Nghiệp vụ **ủy viên Hội đồng thẩm định cấp GPMT**: GATE NQ 66.19/2026 Phụ lục IX (Mục VI: hạ tầng CCN KHÔNG phải ĐTM; Mục VII: vẫn phải GPMT; Mẫu 22c; CV 7046/BNNMT-MT chuyển tiếp); bảng chọn mẫu theo vai (HĐTĐ → Mẫu 30 + Phiếu 31; đoàn kiểm tra → Mẫu 32; lấy ý kiến văn bản → Mẫu 39); **checklist phản biện 19 điểm** — điểm 0: đòi ngay TKCS/BCNCKT (khoản 1 Điều 43 Luật BVMT) + QHCT 1:500 đã phê duyệt để đối chiếu chéo báo cáo-bản vẽ-tọa độ; cân bằng nước hệ số K; cột A/B QCVN 40:2025 và chuyển tiếp phân vùng xả thải; ký hiệu QCVN 26-27:2025/BNNMT; QCVN 01:2025/BTNMT mục 1.1.4 không áp trong CCN; khả năng tiếp nhận của nguồn nước; hiệu suất xử lý kim loại nặng/PCB; ngưỡng đấu nối theo nhóm thông số; hồ sự cố; VHTN theo module Điều 31 NĐ 08; chuẩn trình bày Bản nhận xét đã chốt; dữ kiện 2 hồ sơ; bản chốt tại `references/examples/`. **Đọc khi được cử vào hội đồng/đoàn kiểm tra GPMT hoặc phản biện BCĐX.**
 
 ## VIII. NGUYÊN TẮC NGHIỆP VỤ BẤT BIẾN
 

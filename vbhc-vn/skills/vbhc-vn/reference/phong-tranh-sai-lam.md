@@ -74,7 +74,7 @@ Các quy tắc dưới đây đều do người dùng **tự tay sửa trên b�
 - **Ô "Nơi nhận:" trong bảng chữ ký** phải đủ rộng (~3260 dxa trở lên) khi Nơi nhận có tên cơ quan dài, tránh xuống dòng vụn; **không đặt chiều cao dòng cố định `trHeight`** cho hàng bảng chữ ký (Bạn xóa trHeight 1121 ngày 24/7/2026) — chiều cao để tự co giãn.
 - **numbering.xml**: nếu Word báo "repair" khi mở file — kiểm tra thứ tự schema trong `w:lvl` (`w:numFmt` phải đứng trước `w:pStyle`), sửa rồi repack.
 
-### Nhóm H — Toàn vẹn thể thức khi thao tác XML/run (vụ thật 05/7/2026: 4 lỗi trong 1 công văn HHNH)
+### Nhóm H — Toàn vẹn trình bày khi thao tác XML/run & lắp ghép văn bản (H1–H12; Nhóm K cũ 08/8/2026 = H6–H11)
 
 Bốn lỗi người dùng phát hiện khi mở file trong Word thật (render LibreOffice đã "trông ổn" — bài học: LibreOffice và Word có thể hiển thị khác nhau, QA phải bắt được bằng kiểm tra dữ liệu, không chỉ nhìn ảnh):
 
@@ -101,7 +101,32 @@ Bốn lỗi người dùng phát hiện khi mở file trong Word thật (render 
 4. **Ngôn ngữ proofing sai** (`w:lang w:val="nl-NL"` di truyền từ mẫu) → Word báo "Dutch", gạch đỏ chính tả. Sau build replace toàn bộ về `vi-VN`.
 Bài học chung: mẫu thật cũng mang "gen lỗi" (spid trùng, hanging, lang sai, trHeight) — Chế độ B không chỉ thay nội dung mà phải chạy bước **khử gen lỗi mẫu** trước khi giao.
 
-**Bài học QA chung của Nhóm H:** (a) render LibreOffice "đẹp" chưa chắc Word đẹp — các kiểm tra dữ liệu (đếm shape, cỡ chữ, phân trang pdftotext, quét widow) là lớp bắt buộc song song với soi ảnh; (b) khi tool view ảnh không truyền được nội dung, `pdftotext -layout` + kiểm XML là phương án QA chính, không được giao file bỏ qua QA.
+**H6 — keepNext CHỈ gán đề mục, không gán khoản nội dung đánh số** (vụ 08/8/2026, Báo cáo họp Hội đồng CCN Yên Hợp 2). Regex chống mồ côi quét `^[1-4]\.` quá rộng gán `w:keepNext` cho cả các khoản nội dung ("1. Cho ý kiến…", "2. Tổ chức…") → chuỗi keepNext xích các đoạn thành khối lớn không vừa trang, Word đẩy khối xuống bỏ TRỐNG NỬA CUỐI TRANG (LibreOffice không lộ). Quy tắc: keepNext chỉ cho đề mục La Mã (I./II.) và tiêu đề tiểu mục ngắn ("1. Về …", "3. Một số nội dung …"); đoạn nội dung dài bắt đầu bằng số = KHÔNG. QA: `qa_pdf_check.py` có audit keepNext (WARN mọi đoạn keepNext không giống đề mục); thấy trống lớn cuối trang → soát danh sách keepNext trước tiên; sửa trực tiếp file người dùng (Nhóm F), chỉ gỡ đúng thuộc tính.
+
+**H7 — Định dạng đề mục (đậm/nghiêng) SAU KHI clone xong chuỗi đoạn.** `deepcopy` paragraph kế thừa nguyên `rPr`: bold đề mục trước rồi clone các khoản từ nó → cả chuỗi lây đậm (vụ thật: 4 khoản mục IV đậm toàn bộ). Quy tắc: clone hết chuỗi nội dung trước, format đề mục sau cùng (hoặc luôn clone từ đoạn "thường"); sau build in bảng soát đậm/thường từng đoạn (B/.) đối chiếu trước khi giao.
+
+**H8 — Đổi header khác cấp ban hành: bù khoảng đệm.** Mẫu nguồn ô trái nhiều dòng (Hội đồng/Tổ giúp việc) đổi sang header Sở ít dòng → bảng header thấp đi, tên loại văn bản ("BÁO CÁO") dính sát. Quy tắc: thêm `w:spacing w:before` ~240 twips (12pt) cho dòng tên loại văn bản; dòng "Số: …" điền vào paragraph trống sẵn của ô, giữ 13pt căn giữa, chừa khoảng đủ rộng để văn thư điền số.
+
+**H9 — Thông số đường Line VML tự chèn (thay pBdr).** Nguyên lý: dài ~1/3–1/2 dòng chữ (thực chiến: ~70pt dưới tên cơ quan, ~110pt dưới Tiêu ngữ — đo lại theo mẫu cụ thể, không coi là hằng số); tọa độ y từ paragraph neo mỏng (line=20) chỉ 2–3pt — y ≥ 9pt tụt xuống ĐÈ dòng "Địa danh, ngày…" (tưởng mất Line, thực ra Line đè dòng ngày). Sau chèn bắt buộc render + crop phóng to vùng header soi vị trí.
+
+**H10 — Vệ sinh paragraph trống khi lắp ghép: xóa tồn dư giữa các mục, GIỮ 1 dòng đệm trước khối ký.** Hai lỗi ngược chiều cùng vụ: paragraph trống mẫu gốc sót giữa 2 mục gây khoảng trống bất thường; nhưng xóa sạch mọi paragraph trống cuối thân làm bảng Nơi nhận/chữ ký dính sát đoạn kết. Rà từng paragraph trống có chủ đích, không xóa hàng loạt. (Phạm vi: paragraph NGOÀI bảng; trong ô bảng theo Quy tắc bất biến 3.)
+
+**H11 — Nhãn đề mục con nghiêng + nội dung đứng.** Đoạn "a) Về …: nội dung…" chỉ nghiêng nhãn + tiêu đề ngắn, phần diễn giải ĐỨNG (= Quy tắc bất biến 9). Kỹ thuật khi set text bằng code: gỡ `w:i`/`w:iCs` khỏi run gốc trước, set text, rồi tách run nhãn (thêm lại w:i) và run nội dung (không w:i). Chữ khoản theo bảng chữ cái VBHC: a, b, c, d, đ, e, g (không có f).
+
+**H12 — Cấm chiều cao dòng cố định `<w:trHeight>` trong bảng nội dung** (vụ 24/7/2026, Biên bản thẩm định HHNH — bảng bị đẩy nguyên khối sang trang sau, trang trước trắng nửa trang; trước đây là Quy tắc bất biến 20, chuyển về đây). Triệu chứng: khoảng trắng lớn giữa đề mục và bảng, soi XML thấy `</w:p><w:tbl>` liền nhau. Nguyên nhân: `<w:trHeight>` (di truyền từ file DN hoặc Word ghi lại khi kéo tay) + `<w:cantSplit/>` → cụm "tiêu đề + dòng 1" cao hơn giấy còn lại. Quy tắc: Chế độ A không bao giờ ghi trHeight; Chế độ B gỡ sạch trong mọi bảng nội dung. Ngoại lệ: (a) bảng header giữ nguyên mẫu thật; (b) chừa chỗ ký/điền tay → dùng paragraph trống trong ô. Gỡ rồi vẫn hụt: siết giãn dòng trong ô về `w:line="300"` (13pt) / `"320"` (14pt) exact; mốc an toàn cụm "tiêu đề + dòng 1" ≤ 6 cm; GIỮ cantSplit. Lệnh gỡ nhanh (đúng 1 bảng, 0-based):
+```python
+import re
+p = 'unpacked/word/document.xml'; idx = 3          # bảng thứ 4
+x = open(p, encoding='utf-8').read()
+s = [m.start() for m in re.finditer(r'<w:tbl>', x)][idx]
+e = [m.end()   for m in re.finditer(r'</w:tbl>', x)][idx]
+seg = re.sub(r'<w:trHeight[^/]*/>', '', x[s:e])
+seg = seg.replace('w:line="360"', 'w:line="300"')  # (nếu cần) siết giãn dòng trong ô
+open(p, 'w', encoding='utf-8').write(x[:s] + seg + x[e:])
+```
+QA: `check_document.py` nhóm [F] đếm trHeight từng bảng — bảng 2 trở đi phải bằng 0; soi ảnh ghép: không trang nào kết thúc bằng đề mục rồi bỏ trắng > 3 dòng.
+
+**Bài học QA chung của Nhóm H:** (a) render LibreOffice "đẹp" chưa chắc Word đẹp — kiểm tra dữ liệu (đếm shape, cỡ chữ, phân trang pdftotext, quét widow, audit keepNext, đếm trHeight) là lớp bắt buộc song song với soi ảnh; (b) view ảnh lỗi thì `pdftotext -layout` + kiểm XML là phương án QA chính, không giao file bỏ qua QA; (c) đối chiếu pixel với mẫu nguồn (render 2 bản, crop cùng vùng phóng to: header, cuối trang, khối ký) là cách nhanh nhất lộ lỗi khoảng cách/đường kẻ/đậm nhạt mà checklist máy không bắt; (d) mọi thao tác gán thuộc tính hàng loạt (keepNext, bold, indent) phải in danh sách đoạn bị ảnh hưởng để đối chiếu với ý định.
 
 ### Nhóm I — Văn phong công văn GỬI DOANH NGHIỆP (Bạn chốt 24/7/2026, vụ CV hoàn thiện hồ sơ HHNH)
 

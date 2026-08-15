@@ -37,7 +37,12 @@ Kích hoạt khi người dùng yêu cầu soạn/biên tập bất kỳ dạng 
 - Phát biểu **tham luận** tại hội nghị (BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh…).
 - Phát biểu tại **hội nghị giao ban, giao kế hoạch, tổng kết, triển khai nghị quyết**.
 - Phát biểu **khai mạc / bế mạc / chỉ đạo / chào mừng**, diễn văn **kỷ niệm**.
-- Nội dung **trả lời phỏng vấn** hoặc **bài viết** ký tên Giám đốc Sở (cùng giọng văn).
+- Nội dung **trả lời phỏng vấn báo chí** hoặc **bài viết** ký tên Giám đốc Sở.
+  ⚠️ Phỏng vấn báo chí là **thể loại riêng, KHÔNG áp khung bài phát biểu hội nghị**:
+  bắt buộc đọc `references/tra-loi-phong-van-bao-chi.md` (11 quy tắc đúc kết từ bản
+  duyệt của PGĐ Hoàng Văn Thuân 11/8/2026) và mở 2 mẫu duyệt
+  `kho-bai-mau/phong-van-ttxvn-2026-08-11-*.docx` trước khi soạn. Luôn giao **sản
+  phẩm kép**: bản đầy đủ + bản tóm tắt cầm tay.
 
 Nếu người dùng đưa PDF/văn bản đến (nghị quyết, kế hoạch, giấy mời) làm căn cứ cho
 bài phát biểu → chạy `vbhc-pdf-reader-vn` / `extract_metadata.py` để lấy đúng số,
@@ -228,8 +233,16 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
   báo 381/TB-VPCP, nhiệm vụ tháng 8 (tiết kiệm 10% điện, bảo đảm nguyên liệu sản
   xuất). Mở khi soạn bài phát biểu trong tháng 8–9/2026 mà người dùng chưa đưa số
   liệu; số liệu người dùng cung cấp luôn được ưu tiên.
-- `kho-bai-mau/` — **12 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
+- `references/tra-loi-phong-van-bao-chi.md` — **11 quy tắc riêng cho TRẢ LỜI PHỎNG
+  VẤN BÁO CHÍ** (đúc kết từ bản duyệt PGĐ Hoàng Văn Thuân 11/8/2026, vụ TTXVN): mở
+  bài bằng số vĩ mô tầng bậc, khung "điểm nghẽn → năng lực sản xuất mới", giải pháp
+  theo chuỗi sản phẩm có tên mỏ/nhà máy, nguyên tắc 3 tầng thẩm quyền, không đọc số
+  hiệu văn bản, không xác nhận tiền đề tiêu cực của câu hỏi, giọng điềm đạm, sản
+  phẩm kép kèm bản tóm tắt. **BẮT BUỘC đọc trước khi soạn bài phỏng vấn.**
+- `kho-bai-mau/` — **14 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File
-  `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu.
+  `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu;
+  `phong-van-ttxvn-2026-08-11-ban-duyet-pgd-thuan.docx` (+ bản tóm tắt cùng ngày) là
+  chuẩn cao nhất cho thể loại trả lời phỏng vấn báo chí.
 - `scripts/build_bpb.py` — sinh file .docx đúng định dạng bài phát biểu.

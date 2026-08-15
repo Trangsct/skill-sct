@@ -43,8 +43,8 @@ Khi cấp theo từng chuyến hàng, người vận tải phải cung cấp th�
 | Oxy lỏng, nitơ lỏng, khí công nghiệp nén | Loại 2 | Thuộc thẩm quyền Sở. Lưu ý ngưỡng miễn cấp với LNG/CNG (<1.080 kg), LPG (<2.250 kg) |
 | Xăng, dầu, nhiên liệu lỏng dễ cháy | Loại 3 | Thuộc thẩm quyền Sở; miễn cấp nếu tổng dung tích <1.500 lít |
 | LPG (gas) | Loại 2 | Miễn cấp nếu tổng khối lượng <2.250 kg |
-| Hóa chất công nghiệp ăn mòn (axit, xút, hypoclorit...) | Loại 8 | Từ 29/5/2026 thuộc UBND cấp tỉnh (khoản 1 Điều 8 - không kèm điều kiện địa bàn); Lào Cai: Sở thẩm định, trình UBND tỉnh ký (chưa ủy quyền). Trước 29/5/2026: Cục Hóa chất |
-| Hóa chất oxi hóa, peroxit hữu cơ (kali permanganat...) | Loại 5 | Như loại 8 - UBND cấp tỉnh từ 29/5/2026; Sở thẩm định, trình UBND tỉnh ký |
+| Hóa chất công nghiệp ăn mòn (axit, xút, hypoclorit...) | Loại 8 | Từ 29/5/2026 thuộc UBND cấp tỉnh (khoản 1 Điều 8 - không kèm điều kiện địa bàn); Lào Cai: ủy quyền bổ sung cho Giám đốc Sở tại QĐ sửa đổi QĐ 1696 (trình ký 8/2026 - ref 09 mục 3b; đã ký → Sở ký, chưa ký → trình UBND tỉnh). Trước 29/5/2026: Cục Hóa chất |
+| Hóa chất oxi hóa, peroxit hữu cơ (kali permanganat...) | Loại 5 | Như loại 8 - UBND cấp tỉnh từ 29/5/2026; người ký theo trạng thái QĐ sửa đổi QĐ 1696 |
 | Vật liệu nổ công nghiệp, tiền chất thuốc nổ (khai thác apatit, đá) | Loại 1 (đã trừ) | KHÔNG thuộc thủ tục này - pháp luật chuyên ngành VLNCN |
 | Hóa chất bảo vệ thực vật | - | UBND tỉnh cấp, đầu mối Sở Nông nghiệp và Môi trường |
 

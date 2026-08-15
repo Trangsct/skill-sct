@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-15 — hnh-sct-vn v1.7.0: QĐ sửa đổi, bổ sung QĐ 1696 (trình ký 8/2026) — ủy quyền bổ sung loại 5, 8
+
+Nguồn: bản PDF trình ký QĐ sửa đổi, bổ sung QĐ 1696/QĐ-UBND (đã tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; số/ngày còn trống), Bạn cung cấp 15/8/2026.
+
+- **Nội dung mới tích hợp:** thay toàn bộ Mục I Phụ lục QĐ 1696 — ủy quyền Giám đốc Sở trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi GP HHNH cả **loại 5, 8** (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; mã TTHC **1.013340/1.013350/1.013351**) và loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 (khoản 2 Điều 8; mã 1.014967/68/69, căn cứ dẫn lại theo TT 26/2026); thời hạn ủy quyền HHNH **đến hết 31/12/2030** (ATVSLĐ 28/02/2027), chấm dứt trước hạn khi văn bản căn cứ thay đổi; hiệu lực từ ngày ký. Ghi nhận căn cứ mới **QĐ 1213/QĐ-BCT ngày 22/5/2026** (công bố TTHC sau TT 26/2026).
+- **Nguyên tắc 2 trạng thái xuyên suốt plugin:** bản PDF là bản trình ký (số/ngày trống) → loại 5, 8: đã ký → Giám đốc Sở ký theo ủy quyền; chưa ký → Sở thẩm định, trình UBND tỉnh. Không tự điền số/ngày; khi có bản ký chính thức thay file và cập nhật số/ngày.
+- Sửa đồng bộ: SKILL.md (II.13a, II.15a mới; III; V; VI; VII.10); ref 01 (Bước 4 hai nhịp ủy quyền, bảng 6 mã TTHC 2 nhóm); ref 09 (mục 3a QĐ 1213, mục 3b toàn văn QĐ sửa đổi); ref 03, 04, 07, 08, 14, 16, 17 (trạng thái loại 5,8); ref 15 (mục lục + việc chờ); thêm PDF vào `van-ban-goc/04-uy-quyen-quy-trinh/`; CHANGELOG-v2026.08.15.md; plugin.json → 1.7.0.
+
 ## 2026-08-13 — bvmt-sct-vn v1.2.1: checklist 19 điểm — ĐIỂM 0 đòi TKCS/BCNCKT + QHCT 1:500
 
 Nguồn: chỉ đạo của Bạn 13/8/2026 sau phiên thẩm định GPMT CCN Phú Thịnh 1/Y Can.

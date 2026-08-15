@@ -1,4 +1,4 @@
-# 09 - Cập nhật pháp lý 2026 (NĐ 105/2025, TT 38/2025, TT 15/2026, TT 26/2026)
+# 09 - Cập nhật pháp lý 2026 (NĐ 105/2025, TT 38/2025, TT 15/2026, TT 26/2026, QĐ 1213/QĐ-BCT, QĐ sửa đổi QĐ 1696)
 
 Tài liệu này tổng hợp các thay đổi pháp lý mới nhất ảnh hưởng trực tiếp đến thẩm quyền cấp phép và nghĩa vụ người áp tải. Số/ngày đã đối chiếu từ văn bản gốc. TUYỆT ĐỐI không tự sửa số/ngày.
 
@@ -44,13 +44,45 @@ Chương VIII "Lĩnh vực vận chuyển hàng hóa nguy hiểm":
 
 | Loại hàng | Cơ quan cấp Giấy phép |
 |---|---|
-| Loại 5, loại 8 | **UBND cấp tỉnh** (khoản 1 Điều 8). Lào Cai: **CHƯA ủy quyền** cho Giám đốc Sở (QĐ 1696 chỉ phủ 1,2,3,4,9) → Sở thẩm định, trình UBND tỉnh ký, cho đến khi có QĐ ủy quyền bổ sung. (Trước 29/5/2026: Cục Hóa chất) |
-| Loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 9 | **UBND cấp tỉnh** (khoản 2 Điều 8, Bộ trưởng BCT phân cấp) - Lào Cai: ủy quyền Giám đốc Sở Công Thương |
+| Loại 5, loại 8 | **UBND cấp tỉnh** (khoản 1 Điều 8). Lào Cai: **ủy quyền bổ sung cho Giám đốc Sở tại QĐ sửa đổi, bổ sung QĐ 1696 (bản trình ký 8/2026 - mục 3b dưới đây)**; sau khi QĐ được ký → Giám đốc Sở ký; trước thời điểm ký → Sở thẩm định, trình UBND tỉnh ký. (Trước 29/5/2026: Cục Hóa chất) |
+| Loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 9 | **UBND cấp tỉnh** (khoản 2 Điều 8, Bộ trưởng BCT phân cấp) - Lào Cai: ủy quyền Giám đốc Sở Công Thương (QĐ 1696) |
 | VLNCN, tiền chất thuốc nổ | Pháp luật chuyên ngành VLNCN (không thuộc thủ tục này) |
 | Hóa chất bảo vệ thực vật | Đầu mối Sở Nông nghiệp và Môi trường |
 | Loại 6, loại 7 | Theo phân công (y tế/nông nghiệp; năng lượng nguyên tử) |
 
 → Sở Công Thương Lào Cai (tham mưu/được ủy quyền) nay xử lý **toàn bộ loại 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9**.
+
+## 3a. Quyết định 1213/QĐ-BCT ngày 22/5/2026 - công bố TTHC sau TT 26/2026
+
+Bộ Công Thương công bố thủ tục hành chính **được sửa đổi, bổ sung và bãi bỏ** trong một số lĩnh vực thuộc phạm vi chức năng quản lý của Bộ (là bản công bố nối tiếp QĐ 555/QĐ-BCT ngày 26/3/2026, cập nhật theo TT 26/2026). Đây là nguồn đối chiếu mã TTHC và thời hạn giải quyết hiện hành; được dẫn làm căn cứ trong QĐ sửa đổi, bổ sung QĐ 1696. Bộ mã theo Phụ lục QĐ sửa đổi QĐ 1696:
+
+| Nhóm | Cấp | Cấp điều chỉnh | Cấp lại |
+|---|---|---|---|
+| Loại 5, loại 8 | 1.013340 | 1.013350 | 1.013351 |
+| Loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 | 1.014967 | 1.014968 | 1.014969 |
+
+## 3b. Quyết định sửa đổi, bổ sung QĐ 1696/QĐ-UBND - bản trình ký tháng 8/2026 (NỘI DUNG ĐÃ CHỐT)
+
+Bản trình ký đã **tiếp thu ý kiến Thành viên UBND tỉnh** (theo Tờ trình số 4173/TTr-SCT ngày 14/7/2026 của Giám đốc Sở; TM. UBND - Chủ tịch Nguyễn Tuấn Anh ký; PDF tại `van-ban-goc/04-uy-quyen-quy-trinh/QD-sua-doi-bo-sung-QD-1696_ban-trinh-ky-8-2026_tiep-thu-UVUB-tinh.pdf`). **Số/ngày ban hành còn để trống (tháng 8/2026) - xác minh trạng thái ký trước khi dẫn.**
+
+**Điều 1 khoản 1** - thay toàn bộ **Mục I (Lĩnh vực vận chuyển HHNH)** của Phụ lục QĐ 1696 bằng Phụ lục mới:
+
+| STT | Nội dung nhiệm vụ ủy quyền | Căn cứ pháp lý | TTHC đã công bố |
+|---|---|---|---|
+| 1 | Cấp, cấp điều chỉnh, cấp lại, thu hồi giấy phép vận chuyển HHNH **loại 5 và loại 8** | Khoản 1 Điều 8 TT 38/2025/TT-BCT (được sửa đổi, bổ sung tại Điều 25 TT 26/2026/TT-BCT) | Cấp 1.013340; cấp điều chỉnh 1.013350; cấp lại 1.013351 |
+| 2 | Cấp, cấp điều chỉnh, cấp lại, thu hồi giấy phép vận chuyển HHNH **loại 1 (trừ VLNCN, tiền chất thuốc nổ), loại 2, 3, 4, 9** | Khoản 2 Điều 8 TT 38/2025/TT-BCT (được sửa đổi, bổ sung tại Điều 25 TT 26/2026/TT-BCT) | Cấp 1.014967; cấp điều chỉnh 1.014968; cấp lại 1.014969 |
+
+**Điều 1 khoản 2** - thay Điều 2 QĐ 1696 (thời hạn ủy quyền): (1) lĩnh vực vận chuyển HHNH (Mục I Phụ lục) **đến hết ngày 31/12/2030**; (2) lĩnh vực ATVSLĐ (Mục II) đến hết ngày 28/02/2027; (3) nếu cơ quan có thẩm quyền ban hành VBQPPL sửa đổi/bổ sung/thay thế văn bản làm căn cứ ủy quyền, dẫn đến thay đổi thẩm quyền hoặc nội dung ủy quyền, thì việc ủy quyền **chấm dứt trước thời hạn** kể từ ngày văn bản đó có hiệu lực.
+
+**Điều 2** - Giám đốc Sở chịu trách nhiệm toàn diện trước pháp luật và UBND tỉnh; các nội dung khác của QĐ 1696 tiếp tục thực hiện. **Điều 3** - hiệu lực kể từ ngày ký ban hành.
+
+Căn cứ ban hành (đáng chú ý, mới so với QĐ 1696 gốc): Luật Tổ chức CQĐP 16/6/2025; NĐ 146/2025; NĐ 34/2024; NĐ 161/2024; NĐ 105/2025; **TT 38/2025 + TT 26/2026**; **QĐ 1213/QĐ-BCT ngày 22/5/2026**; QĐ 1522/QĐ-UBND ngày 04/5/2026 (Quy chế làm việc UBND tỉnh nhiệm kỳ 2026-2031); QĐ 05/2025/QĐ-UBND ngày 01/7/2025 (chức năng, nhiệm vụ Sở Công Thương).
+
+**Hệ quả nghiệp vụ sau khi QĐ được ký:**
+- Loại 5, 8: Giám đốc Sở ký Giấy phép theo ủy quyền (con dấu Sở), KHÔNG còn trình UBND tỉnh; quy trình nội bộ rút về mô hình ủy quyền như loại 1,2,3,4,9 (reference 03, 16).
+- Căn cứ trong Giấy phép/Biên bản thẩm định loại 5, 8: dẫn khoản 1 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026) + "QĐ 1696/QĐ-UBND ngày 15/5/2026 (được sửa đổi, bổ sung tại QĐ số .../QĐ-UBND ngày .../8/2026)" - điền số/ngày thật từ bản ký.
+- Thời hạn ủy quyền HHNH kéo dài đến **31/12/2030** (không còn mốc 28/02/2027 cho lĩnh vực này); mốc 28/02/2027 chỉ còn áp cho ATVSLĐ.
+- Theo dõi điều khoản chấm dứt trước hạn: nếu TT 38/2025/TT 26/2026 hoặc các nghị định nền bị sửa/thay thế làm đổi thẩm quyền thì ủy quyền tự chấm dứt - phải kiểm tra hiệu lực văn bản nền trước khi ký GP.
 
 ## 4. Người áp tải - tiêu chí theo KHỐI LƯỢNG (xem chi tiết mục 3a reference 04)
 
@@ -60,4 +92,6 @@ Chương VIII "Lĩnh vực vận chuyển hàng hóa nguy hiểm":
 
 - Căn cứ thẩm quyền: dẫn **Điều 8 TT 38/2025/TT-BCT được sửa đổi bởi Điều 25 TT 26/2026/TT-BCT**, KHÔNG dẫn Điều 3 TT 15/2026 (đã bị bãi bỏ).
 - Khi nói về loại 5, 8: KHÔNG còn hướng dẫn doanh nghiệp nộp Cục Hóa chất; nay nộp UBND cấp tỉnh (Sở Công Thương).
-- Thời hạn giải quyết: TT 26/2026 cắt giảm/rút ngắn nhiều thủ tục - đối chiếu Quyết định công bố TTHC mới nhất của Bộ Công Thương (QĐ 555/QĐ-BCT ngày 26/3/2026 và bản công bố sau TT 26/2026 nếu có).
+- Thời hạn giải quyết: TT 26/2026 cắt giảm/rút ngắn nhiều thủ tục - đối chiếu Quyết định công bố TTHC mới nhất của Bộ Công Thương (**QĐ 1213/QĐ-BCT ngày 22/5/2026** - bản công bố sau TT 26/2026; trước đó là QĐ 555/QĐ-BCT ngày 26/3/2026).
+- Mã TTHC: chọn đúng bộ mã theo nhóm hàng - loại 5, 8 dùng 1.013340/1.013350/1.013351; loại 1,2,3,4,9 dùng 1.014967/68/69 (mục 3a).
+- Căn cứ ủy quyền: sau khi QĐ sửa đổi QĐ 1696 được ký, dẫn "QĐ 1696/QĐ-UBND ngày 15/5/2026 (được sửa đổi, bổ sung tại QĐ số .../QĐ-UBND ngày ...)" với số/ngày thật; TRƯỚC thời điểm ký tuyệt đối không dẫn QĐ sửa đổi trong văn bản phát hành.

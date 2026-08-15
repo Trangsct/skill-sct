@@ -27,7 +27,7 @@ Văn bản số 2265/BCT-ATMT ngày 02/4/2026 (Thứ trưởng Trương Thanh Ho
 **Bước 4 - UBND tỉnh Lào Cai giao và ủy quyền (2 nhịp):**
 - Chủ tịch UBND tỉnh Lào Cai giao Sở Công Thương chủ trì, phối hợp các cơ quan triển khai (văn bản chỉ đạo theo CV 2265/BCT-ATMT).
 - **Nhịp 1 - QĐ 1696/QĐ-UBND ngày 15/5/2026:** UBND tỉnh ủy quyền Giám đốc Sở Công Thương cấp/điều chỉnh/cấp lại/thu hồi Giấy phép **loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9** (theo Tờ trình số 1856/TTr-SCT ngày 08/4/2026). Căn cứ phân cấp ghi trong Phụ lục: "Khoản 2 Điều 3 Thông tư số 15/2026/TT-BCT ngày 25/3/2026" (vì ban hành trước khi TT 26/2026 có hiệu lực 29/5/2026 nên chưa phủ loại 5, 8). Thời hạn ủy quyền ban đầu đến hết ngày 28/02/2027.
-- **Nhịp 2 - QĐ sửa đổi, bổ sung QĐ 1696 (bản trình ký tháng 8/2026, đã tiếp thu ý kiến Thành viên UBND tỉnh; theo Tờ trình số 4173/TTr-SCT ngày 14/7/2026):** thay toàn bộ **Mục I (Lĩnh vực vận chuyển HHNH) của Phụ lục QĐ 1696** bằng Phụ lục mới gồm 2 nhóm nhiệm vụ ủy quyền trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi: (1) **loại 5, 8** - căn cứ khoản 1 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026), mã TTHC 1.013340/1.013350/1.013351; (2) **loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9** - căn cứ khoản 2 Điều 8 (sửa bởi Điều 25 TT 26/2026), mã 1.014967/1.014968/1.014969. Đồng thời thay Điều 2 QĐ 1696: thời hạn ủy quyền lĩnh vực HHNH **đến hết 31/12/2030** (ATVSLĐ đến hết 28/02/2027); ủy quyền chấm dứt trước hạn nếu văn bản căn cứ bị sửa đổi/thay thế làm thay đổi thẩm quyền/nội dung. Hiệu lực kể từ ngày ký. **Số/ngày còn để trống trên bản trình ký - phải xác minh trạng thái ban hành và lấy số/ngày thật trước khi dẫn làm căn cứ.** Bản PDF: `van-ban-goc/04-uy-quyen-quy-trinh/QD-sua-doi-bo-sung-QD-1696_ban-trinh-ky-8-2026_tiep-thu-UVUB-tinh.pdf`.
+- **Nhịp 2 - QĐ 2848/QĐ-UBND ngày 14/8/2026** sửa đổi, bổ sung QĐ 1696 (đã tiếp thu ý kiến Thành viên UBND tỉnh; theo Tờ trình số 4173/TTr-SCT ngày 14/7/2026; Chủ tịch Nguyễn Tuấn Anh ký; **hiệu lực từ ngày ký 14/8/2026**): thay toàn bộ **Mục I (Lĩnh vực vận chuyển HHNH) của Phụ lục QĐ 1696** bằng Phụ lục mới gồm 2 nhóm nhiệm vụ ủy quyền trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi: (1) **loại 5, 8** - căn cứ khoản 1 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026), mã TTHC 1.013340/1.013350/1.013351; (2) **loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9** - căn cứ khoản 2 Điều 8 (sửa bởi Điều 25 TT 26/2026), mã 1.014967/1.014968/1.014969. Đồng thời thay Điều 2 QĐ 1696: thời hạn ủy quyền lĩnh vực HHNH **đến hết 31/12/2030** (ATVSLĐ đến hết 28/02/2027); ủy quyền chấm dứt trước hạn nếu văn bản căn cứ bị sửa đổi/thay thế làm thay đổi thẩm quyền/nội dung. Bản PDF đã ký: `van-ban-goc/04-uy-quyen-quy-trinh/QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf`.
 
 ## 2a. Nguyên văn Điều 8 hiện hành (Điều 25 TT 26/2026) - hai khoản, hai cơ chế KHÁC NHAU
 
@@ -36,7 +36,7 @@ Văn bản số 2265/BCT-ATMT ngày 02/4/2026 (Thứ trưởng Trương Thanh Ho
 - **Khoản 1 (loại 5, 8):** "Ủy ban nhân dân cấp tỉnh có trách nhiệm tiếp nhận hồ sơ, thẩm định, cấp, cấp điều chỉnh, cấp lại, thu hồi giấy phép... loại 5 và loại 8..." - dẫn khoản 1 Điều 4 NĐ 161 và **điểm b, e, g khoản 4 Điều 44** NĐ 105/2025. Đây là quy định thẩm quyền TRỰC TIẾP, **KHÔNG có cụm "nơi các tổ chức, cá nhân đặt trụ sở chính hoặc chi nhánh"** → không ràng buộc điều kiện địa bàn trong câu chữ; pháp nhân (kể cả nước ngoài) có hoạt động vận chuyển trên địa bàn có thể nộp tại tỉnh (xem reference 17 và tiền lệ loại 5.1 của công ty Trung Quốc).
 - **Khoản 2 (loại 1 trừ VLNCN/TCTN, 2, 3, 4, 9):** "Bộ trưởng Bộ Công Thương **phân cấp** cho UBND cấp tỉnh **nơi các tổ chức, cá nhân đặt trụ sở chính hoặc chi nhánh trên địa bàn**..." - dẫn **điểm b, điểm e khoản 4 Điều 44** NĐ 105/2025 (bản TT 26/2026 KHÔNG còn dẫn "khoản 6" như bản TT 15/2026 trước đây). → điều kiện địa bàn CHỈ áp cho nhóm này.
 
-Hệ quả khi soạn căn cứ văn bản: với loại 1,2,3,4,9 dẫn "khoản 2 Điều 8 Thông tư số 38/2025/TT-BCT (được sửa đổi, bổ sung bởi Điều 25 Thông tư số 26/2026/TT-BCT)... điểm b, điểm e khoản 4 Điều 44 Nghị định số 105/2025/NĐ-CP"; với loại 5,8 dẫn "khoản 1 Điều 8... điểm b, e, g khoản 4 Điều 44". LƯU Ý về căn cứ ủy quyền: Phụ lục QĐ 1696/QĐ-UBND bản gốc dẫn "khoản 2 Điều 3 TT 15/2026... điểm b, điểm e khoản 4, khoản 6 Điều 44" (vì ban hành trước 29/5/2026); **Phụ lục mới theo QĐ sửa đổi, bổ sung QĐ 1696 (trình ký 8/2026) đã dẫn lại đúng khoản 1/khoản 2 Điều 8 TT 38/2025 được sửa đổi, bổ sung tại Điều 25 TT 26/2026** - sau khi QĐ sửa đổi được ký, trích căn cứ ủy quyền theo Phụ lục mới; không trộn lẫn với bản Phụ lục cũ.
+Hệ quả khi soạn căn cứ văn bản: với loại 1,2,3,4,9 dẫn "khoản 2 Điều 8 Thông tư số 38/2025/TT-BCT (được sửa đổi, bổ sung bởi Điều 25 Thông tư số 26/2026/TT-BCT)... điểm b, điểm e khoản 4 Điều 44 Nghị định số 105/2025/NĐ-CP"; với loại 5,8 dẫn "khoản 1 Điều 8... điểm b, e, g khoản 4 Điều 44". LƯU Ý về căn cứ ủy quyền: Phụ lục QĐ 1696/QĐ-UBND bản gốc dẫn "khoản 2 Điều 3 TT 15/2026... điểm b, điểm e khoản 4, khoản 6 Điều 44" (vì ban hành trước 29/5/2026); **Phụ lục mới theo QĐ 2848/QĐ-UBND ngày 14/8/2026 đã dẫn lại đúng khoản 1/khoản 2 Điều 8 TT 38/2025 được sửa đổi, bổ sung tại Điều 25 TT 26/2026** - từ 14/8/2026 trích căn cứ ủy quyền theo Phụ lục mới; không trộn lẫn với bản Phụ lục cũ.
 
 **Điều khoản chuyển tiếp (Điều 28 TT 26/2026):** hồ sơ đã được tiếp nhận hoặc đóng dấu bưu chính TRƯỚC 29/5/2026 thì xử lý theo quy định tại thời điểm tiếp nhận (loại 5, 8 nộp Cục Hóa chất trước 29/5 do Cục xử lý tiếp); giấy phép đã cấp trước đó tiếp tục có hiệu lực đến hết thời hạn.
 
@@ -55,7 +55,7 @@ CV 2265/BCT-ATMT (02/4/2026) + QĐ 555/QĐ-BCT (26/3/2026) ----> đề nghị tr
         |
 Chủ tịch UBND tỉnh Lào Cai giao Sở Công Thương chủ trì
         |
-QĐ 1696/QĐ-UBND (15/5/2026: loại 1,2,3,4,9) + QĐ sửa đổi, bổ sung QĐ 1696 (trình ký 8/2026:
+QĐ 1696/QĐ-UBND (15/5/2026: loại 1,2,3,4,9) + QĐ 2848/QĐ-UBND (14/8/2026:
 thay Mục I Phụ lục, bổ sung loại 5,8; thời hạn HHNH đến 31/12/2030) ----> Giám đốc Sở Công Thương ký, dùng con dấu của Sở
 ```
 
@@ -72,9 +72,9 @@ Phụ thuộc mô hình đang áp dụng tại thời điểm xử lý (phải x
 - Sở Công Thương thẩm định, lập Tờ trình và dự thảo kết quả, trình UBND tỉnh.
 - UBND tỉnh ký Giấy phép; Văn phòng UBND tỉnh phát hành, chuyển về Sở để trả kết quả.
 
-**Áp dụng tại Lào Cai (tháng 8/2026):** loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 → mô hình ủy quyền theo QĐ 1696 (đang hiệu lực). Loại 5, 8 → mô hình ủy quyền **kể từ ngày QĐ sửa đổi, bổ sung QĐ 1696 được ký ban hành** (hiệu lực từ ngày ký); trước thời điểm đó vẫn là mô hình trình ký UBND tỉnh. Thời hạn ủy quyền lĩnh vực HHNH sau sửa đổi: đến hết **31/12/2030**; ủy quyền chấm dứt trước hạn nếu văn bản làm căn cứ bị sửa đổi/thay thế làm thay đổi thẩm quyền hoặc nội dung ủy quyền.
+**Áp dụng tại Lào Cai (từ 14/8/2026):** cả 7 loại (1 trừ VLNCN/TCTN, 2, 3, 4, 5, 8, 9) theo mô hình ủy quyền - Giám đốc Sở ký (QĐ 1696 được sửa đổi, bổ sung tại QĐ 2848/QĐ-UBND ngày 14/8/2026). Hồ sơ loại 5, 8 tiếp nhận trong giai đoạn 29/5-13/8/2026: mô hình trình ký UBND tỉnh. Thời hạn ủy quyền lĩnh vực HHNH: đến hết **31/12/2030**; ủy quyền chấm dứt trước hạn nếu văn bản làm căn cứ bị sửa đổi/thay thế làm thay đổi thẩm quyền hoặc nội dung ủy quyền.
 
-## 5. Mã thủ tục hành chính đã công bố (theo Phụ lục QĐ sửa đổi, bổ sung QĐ 1696; nguồn công bố: QĐ 1213/QĐ-BCT ngày 22/5/2026)
+## 5. Mã thủ tục hành chính đã công bố (theo Phụ lục QĐ 2848/QĐ-UBND ngày 14/8/2026; nguồn công bố: QĐ 1213/QĐ-BCT ngày 22/5/2026)
 
 | Thủ tục | Mã TTHC | Lĩnh vực công bố |
 |---|---|---|
@@ -91,7 +91,7 @@ LƯU Ý: hai nhóm dùng hai bộ mã khác nhau - hồ sơ loại 5, 8 KHÔNG d
 
 | Tình huống | Hướng dẫn |
 |---|---|
-| Hỏi cấp phép loại 5, loại 8 | Từ 29/5/2026: nộp UBND cấp tỉnh (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; KHÔNG kèm điều kiện trụ sở/chi nhánh). Lào Cai: Sở tiếp nhận, thẩm định; người ký theo trạng thái QĐ sửa đổi QĐ 1696 (đã ký → Giám đốc Sở ký theo ủy quyền, mã TTHC 1.013340/50/51; chưa ký → trình UBND tỉnh ký). Trước 29/5/2026 nộp Cục Hóa chất; hồ sơ nộp Cục trước 29/5 do Cục xử lý tiếp (Điều 28 TT 26/2026) |
+| Hỏi cấp phép loại 5, loại 8 | Từ 29/5/2026: nộp UBND cấp tỉnh (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; KHÔNG kèm điều kiện trụ sở/chi nhánh). Lào Cai: Sở tiếp nhận, thẩm định; từ 14/8/2026 Giám đốc Sở ký theo ủy quyền QĐ 2848 (mã TTHC 1.013340/50/51). Trước 29/5/2026 nộp Cục Hóa chất; hồ sơ nộp Cục trước 29/5 do Cục xử lý tiếp (Điều 28 TT 26/2026) |
 | Hỏi cấp phép VLNCN, tiền chất thuốc nổ | Lĩnh vực VLNCN - pháp luật chuyên ngành (PGĐ Hoàng Văn Thuân phụ trách); xem skill `pccc-sct-vn` |
 | Hỏi cấp phép hóa chất bảo vệ thực vật | UBND cấp tỉnh, đầu mối Sở Nông nghiệp và Môi trường |
 | Hỏi cấp phép loại 7 (phóng xạ) | Pháp luật về năng lượng nguyên tử |

@@ -117,6 +117,6 @@ Theo reference 13 (định kỳ/đột xuất/chuyên đề), kèm bộ chỉ ti
 | CV bổ sung hồ sơ xuyên biên giới (Phụ lục bảng) | CV Cục gửi Logistic Việt Trung | vi-du-thuc-te/cuc-hoa-chat/CV-bo-sung-ho-so-xuyen-bien-gioi-LogisticVietTrung.doc |
 | CV dừng xử lý, trả hồ sơ (kèm Phiếu trình) | CV Cục trả hồ sơ Trung Ngọc Lan (lý do: chưa ký, đóng dấu Giấy đề nghị) | vi-du-thuc-te/rut-tra-ho-so/CV-dung-xu-ly-tra-ho-so.docx |
 | Hướng dẫn DN rút hồ sơ | Mẫu văn bản DN đề nghị rút hồ sơ (RAINBOW) - gửi DN tham khảo khi họ muốn rút để hoàn thiện | vi-du-thuc-te/rut-tra-ho-so/Mau-DN-rut-ho-so.docx |
-| GP mẫu của Cục (loại 5, 8) | GP Cục Hóa chất (danh mục hàng loại 8 theo Phụ lục) - tham chiếu nội dung cho loại 5, 8. Người ký/thể thức theo trạng thái QĐ sửa đổi QĐ 1696 (đã ký → thể thức GP của Sở như loại 1,2,3,4,9; chưa ký → trình UBND tỉnh) - ref 09 mục 3b | vi-du-thuc-te/cuc-hoa-chat/Giay-phep-mau-CucHoaChat-loai-8.docx |
+| GP mẫu của Cục (loại 5, 8) | GP Cục Hóa chất (danh mục hàng loại 8 theo Phụ lục) - tham chiếu nội dung cho loại 5, 8. Từ 14/8/2026 dùng thể thức GP của Sở như loại 1,2,3,4,9 (ủy quyền QĐ 2848 - ref 09 mục 3b), lãnh đạo Sở ký | vi-du-thuc-te/cuc-hoa-chat/Giay-phep-mau-CucHoaChat-loai-8.docx |
 
 Nguyên tắc dùng: mở file gốc, sửa theo Chế độ B của vbhc-vn (giữ nguyên định dạng, chỉ thay dữ liệu); thể thức đầu/cuối văn bản của Sở theo reference 16 mục 2 (số /GP - SCT, KT.GĐ - PGĐ Hoàng Văn Thuân, nơi nhận có Cục CSGT, Lưu: VT, BP1C, CN).

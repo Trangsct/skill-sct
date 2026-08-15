@@ -14,7 +14,7 @@ Tổng hợp Điều 6, 7, 8, 9, 10, 11 Nghị định 161/2024/NĐ-CP và Đi�
 
 Lưu ý: bao bì, thùng chứa chưa làm sạch sau khi dỡ hết hàng cũng được coi là hàng hóa nguy hiểm tương ứng.
 
-Bổ sung từ 29/5/2026 (Điều 25 TT 26/2026): **Loại 5** (chất oxi hóa và peroxit hữu cơ, nhóm 5.1/5.2) và **Loại 8** (chất ăn mòn) cũng thuộc thẩm quyền UBND cấp tỉnh - tại Lào Cai đã có QĐ sửa đổi, bổ sung QĐ 1696 (bản trình ký 8/2026) ủy quyền bổ sung cho Giám đốc Sở ký; xác minh trạng thái ban hành để xác định người ký (đã ký → Giám đốc Sở; chưa ký → trình UBND tỉnh) - xem reference 09 mục 3b. Điều kiện phương tiện, nhân sự, bao bì dưới đây áp dụng chung. (Loại 6 chất độc/gây nhiễm bệnh, loại 7 phóng xạ - KHÔNG thuộc thủ tục này.)
+Bổ sung từ 29/5/2026 (Điều 25 TT 26/2026): **Loại 5** (chất oxi hóa và peroxit hữu cơ, nhóm 5.1/5.2) và **Loại 8** (chất ăn mòn) cũng thuộc thẩm quyền UBND cấp tỉnh - tại Lào Cai từ **14/8/2026** Giám đốc Sở ký theo ủy quyền bổ sung tại QĐ 2848/QĐ-UBND sửa đổi QĐ 1696 (reference 09 mục 3b). Điều kiện phương tiện, nhân sự, bao bì dưới đây áp dụng chung. (Loại 6 chất độc/gây nhiễm bệnh, loại 7 phóng xạ - KHÔNG thuộc thủ tục này.)
 
 ## 2. Điều kiện đối với phương tiện vận chuyển (Điều 9 NĐ 161, khoản 3 Điều 51 Luật 36/2024)
 

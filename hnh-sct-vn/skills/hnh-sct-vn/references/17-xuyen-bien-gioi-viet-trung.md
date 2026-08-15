@@ -13,7 +13,7 @@ Nâng cấp chuyên sâu từ reference 07, đúc kết từ 4 vụ việc thự
 
 **Câu hỏi 1 - Hàng loại gì?**
 - Loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 → khoản 2 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026): UBND cấp tỉnh **nơi tổ chức, cá nhân đặt trụ sở chính hoặc chi nhánh** → sang Câu hỏi 2.
-- Loại 5, 8 → khoản 1 Điều 8 (bản sửa TT 26/2026, hiệu lực 29/5/2026): UBND cấp tỉnh, **KHÔNG kèm điều kiện trụ sở/chi nhánh** trong câu chữ → pháp nhân nước ngoài không có hiện diện tại Việt Nam vẫn có thể nộp tại tỉnh nơi diễn ra hoạt động vận chuyển (có tiền lệ Bộ KHCN/Bộ Công Thương cấp trực tiếp cho công ty Trung Quốc - bản scan tại van-ban-goc/07-tham-khao/). LƯU Ý: loại 5, 8 đã có **QĐ sửa đổi, bổ sung QĐ 1696 (bản trình ký 8/2026)** ủy quyền bổ sung cho Giám đốc Sở - xác minh trạng thái ban hành: đã ký → Giám đốc Sở ký theo ủy quyền (mã TTHC 1.013340/50/51); chưa ký → Sở thẩm định, trình UBND tỉnh ký (ref 09 mục 3b).
+- Loại 5, 8 → khoản 1 Điều 8 (bản sửa TT 26/2026, hiệu lực 29/5/2026): UBND cấp tỉnh, **KHÔNG kèm điều kiện trụ sở/chi nhánh** trong câu chữ → pháp nhân nước ngoài không có hiện diện tại Việt Nam vẫn có thể nộp tại tỉnh nơi diễn ra hoạt động vận chuyển (có tiền lệ Bộ KHCN/Bộ Công Thương cấp trực tiếp cho công ty Trung Quốc - bản scan tại van-ban-goc/07-tham-khao/). LƯU Ý: từ **14/8/2026** loại 5, 8 do Giám đốc Sở ký theo ủy quyền bổ sung tại **QĐ 2848/QĐ-UBND sửa đổi, bổ sung QĐ 1696** (mã TTHC 1.013340/50/51 - ref 09 mục 3b); hồ sơ tiếp nhận 29/5-13/8/2026: trình UBND tỉnh ký.
 
 **Câu hỏi 2 - Ai đứng tên đề nghị? (chỉ với loại 1,2,3,4,9)**
 - Pháp nhân Việt Nam có trụ sở chính tại Lào Cai → thụ lý bình thường.
@@ -47,6 +47,6 @@ Ngoài checklist chuẩn (reference 11), kiểm thêm:
 
 ## 5. Nguyên tắc khi trả lời doanh nghiệp có yếu tố Trung Quốc
 
-- Không từ chối vì "là doanh nghiệp nước ngoài" - Điều 2 NĐ 161 bao trùm; căn cứ từ chối/hướng dẫn đúng là **điều kiện địa bàn của khoản 2 Điều 8** (với loại 1,2,3,4,9); loại 5, 8 không có điều kiện địa bàn - Sở tiếp nhận, người ký theo trạng thái QĐ sửa đổi QĐ 1696 (ref 09 mục 3b).
+- Không từ chối vì "là doanh nghiệp nước ngoài" - Điều 2 NĐ 161 bao trùm; căn cứ từ chối/hướng dẫn đúng là **điều kiện địa bàn của khoản 2 Điều 8** (với loại 1,2,3,4,9); loại 5, 8 không có điều kiện địa bàn - Sở tiếp nhận, Giám đốc Sở ký theo ủy quyền QĐ 2848 từ 14/8/2026 (ref 09 mục 3b).
 - Gợi mở giải pháp hợp pháp: thành lập chi nhánh tại Lào Cai (đăng ký tại Phòng Doanh nghiệp - Sở Tài chính, thực tế chỉ vài ngày - tiền lệ Sợi Phương Nam đăng ký 27/6, GP HHNH cấp đầu tháng 7/2026).
 - Luôn nhắc nghĩa vụ song song phía Trung Quốc: xe phải được cơ quan có thẩm quyền Trung Quốc cấp phép vận chuyển hàng nguy hiểm (điều kiện tiên quyết của Điều 13 Nghị định thư) - Sở không thẩm định thay phía bạn nhưng yêu cầu tài liệu chứng minh kèm bản dịch.

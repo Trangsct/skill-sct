@@ -1,12 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
-## 2026-08-15 — hnh-sct-vn v1.7.0: QĐ sửa đổi, bổ sung QĐ 1696 (trình ký 8/2026) — ủy quyền bổ sung loại 5, 8
+## 2026-08-15 — hnh-sct-vn v1.7.0: QĐ 2848/QĐ-UBND ngày 14/8/2026 sửa đổi, bổ sung QĐ 1696 — ủy quyền bổ sung loại 5, 8
 
-Nguồn: bản PDF trình ký QĐ sửa đổi, bổ sung QĐ 1696/QĐ-UBND (đã tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; số/ngày còn trống), Bạn cung cấp 15/8/2026.
+Nguồn: bản PDF đã ký QĐ 2848/QĐ-UBND ngày 14/8/2026 (tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; Chủ tịch Nguyễn Tuấn Anh ký, dấu đỏ), Bạn cung cấp 15/8/2026.
 
-- **Nội dung mới tích hợp:** thay toàn bộ Mục I Phụ lục QĐ 1696 — ủy quyền Giám đốc Sở trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi GP HHNH cả **loại 5, 8** (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; mã TTHC **1.013340/1.013350/1.013351**) và loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 (khoản 2 Điều 8; mã 1.014967/68/69, căn cứ dẫn lại theo TT 26/2026); thời hạn ủy quyền HHNH **đến hết 31/12/2030** (ATVSLĐ 28/02/2027), chấm dứt trước hạn khi văn bản căn cứ thay đổi; hiệu lực từ ngày ký. Ghi nhận căn cứ mới **QĐ 1213/QĐ-BCT ngày 22/5/2026** (công bố TTHC sau TT 26/2026).
-- **Nguyên tắc 2 trạng thái xuyên suốt plugin:** bản PDF là bản trình ký (số/ngày trống) → loại 5, 8: đã ký → Giám đốc Sở ký theo ủy quyền; chưa ký → Sở thẩm định, trình UBND tỉnh. Không tự điền số/ngày; khi có bản ký chính thức thay file và cập nhật số/ngày.
-- Sửa đồng bộ: SKILL.md (II.13a, II.15a mới; III; V; VI; VII.10); ref 01 (Bước 4 hai nhịp ủy quyền, bảng 6 mã TTHC 2 nhóm); ref 09 (mục 3a QĐ 1213, mục 3b toàn văn QĐ sửa đổi); ref 03, 04, 07, 08, 14, 16, 17 (trạng thái loại 5,8); ref 15 (mục lục + việc chờ); thêm PDF vào `van-ban-goc/04-uy-quyen-quy-trinh/`; CHANGELOG-v2026.08.15.md; plugin.json → 1.7.0.
+- **Nội dung tích hợp:** thay toàn bộ Mục I Phụ lục QĐ 1696 — ủy quyền Giám đốc Sở trọn gói cấp/cấp điều chỉnh/cấp lại/thu hồi GP HHNH cả **loại 5, 8** (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; mã TTHC **1.013340/1.013350/1.013351**) và loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9 (khoản 2 Điều 8; mã 1.014967/68/69, căn cứ dẫn lại theo TT 26/2026); thời hạn ủy quyền HHNH **đến hết 31/12/2030** (ATVSLĐ 28/02/2027), chấm dứt trước hạn khi văn bản căn cứ thay đổi; **hiệu lực từ 14/8/2026** → từ nay Giám đốc Sở ký cả 7 loại, loại 5, 8 không còn trình UBND tỉnh (hồ sơ tiếp nhận 29/5-13/8/2026 theo mô hình trình ký cũ). Ghi nhận căn cứ mới **QĐ 1213/QĐ-BCT ngày 22/5/2026** (công bố TTHC sau TT 26/2026).
+- **Bài học đọc PDF ký số** (ghi vào SKILL VII.10 + ref 15): số/ngày điền qua trường ký số không hiện liền mạch trong text layer ("2848", "14" rời rạc) — phải render trang thành ảnh để đọc, không kết luận "để trống" từ text thô; lần đọc đầu trong phiên đã nhầm là bản trình ký, sửa ngay trong cùng phiên.
+- Sửa đồng bộ: SKILL.md (II.13a, II.15a mới; III; V; VI; VII.10); ref 01 (Bước 4 hai nhịp ủy quyền, bảng 6 mã TTHC 2 nhóm); ref 09 (mục 3a QĐ 1213, mục 3b toàn văn QĐ 2848); ref 03, 04, 07, 08, 14, 16, 17 (loại 5,8 Sở ký từ 14/8/2026); ref 15 (mục lục); thêm PDF bản ký `QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf` vào `van-ban-goc/04-uy-quyen-quy-trinh/`; CHANGELOG-v2026.08.15.md; plugin.json → 1.7.0.
 
 ## 2026-08-13 — bvmt-sct-vn v1.2.1: checklist 19 điểm — ĐIỂM 0 đòi TKCS/BCNCKT + QHCT 1:500
 

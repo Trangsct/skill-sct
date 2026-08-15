@@ -1,5 +1,11 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## 1.5.0 — 15/8/2026
+Chuẩn hóa thể thức theo **hồ sơ đã ban hành** (đối chiếu bộ xử phạt Cty TNHH MTV Khí công nghiệp Lào Cai, 5-6/2026):
+- **vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/**: 5 văn bản gốc đã ký đóng dấu — QĐ 2872/QĐ-SCT (Mẫu 03 đã ban hành), TB 2948/TB-ĐKT, BB công bố 01/BB-ĐKT, BB VPHC 01.KCN/BB-VPHC (Mẫu biên bản số 01, 7 trang), QĐ-XPHC (bản Word).
+- **references/07 mục K — THỂ THỨC CHUẨN, 7 điểm**: (1) khối ký "TM. ĐOÀN KIỂM TRA / TRƯỞNG ĐOÀN", ô trái là tên DN + chức danh; (2) quy ước số hiệu 01/BB-ĐKT, <số văn thư Sở>/TB-ĐKT, 01.<viết tắt DN>/BB-VPHC; (3) BB VPHC đủ 10 mục Mẫu 01 + chỉ 01 người lập + khối ký 6 ô + phần giao biên bản mặt sau; (4) 12 dòng căn cứ bắt buộc của QĐ xử phạt, gồm Điều 57/68/70/78/85 Luật XLVPHC, NĐ 68/2025 + 190/2025, và **QĐ 1094/QĐ-SCT 09/3/2026 giao quyền xử phạt**; (5) kết cấu Điều 1 (6 khoản) và Điều 3 với thông tin nộp phạt KBNN khu vực IX, TK 7111, mã H38.2, chương 416, tiểu mục 4278, chậm nộp 0,05%/ngày; (6) mức phạt lấy trung bình khung của tổ chức (15 triệu cho khung 10-20 triệu); (7) giữ cách ghi "10 ngày làm việc" theo thực tiễn thống nhất của Sở — thay thế lưu ý tại mục C điểm 4.
+- **SKILL.md**: thêm hộp quy tắc thể thức; cập nhật cây thư mục.
+
 ## 1.4.0 — 15/8/2026
 - **references/07 mục H — THỜI HIỆU (quy tắc chốt)**: hóa chất/VLNCN = **01 năm** theo điểm a khoản 1 Điều 6 Luật XLVPHC sửa tại Luật 88/2025/QH15 (đã đối chiếu bản gốc); cảnh báo bẫy suy diễn "hoạt động khoáng sản khác" = 02 năm; mốc tính theo thời điểm chấm dứt hành vi (phải xác minh ngày nổ mìn thực tế, không lấy mặc định ngày lập hộ chiếu); hết thời hiệu → điểm c khoản 1 Điều 65, không lập BB VPHC, không ra QĐ xử phạt; ví dụ 03 hộ chiếu vụ HCM Tây Bắc + khung phạt điểm a khoản 2 Điều 56 NĐ 71/2019 (tổ chức gấp 02 lần theo khoản 2 Điều 4).
 - **references/07 mục I**: bảng bộ hồ sơ chuẩn 9 văn bản một cuộc kiểm tra dẫn tới xử phạt, nêu rõ mắt xích hay bị bỏ sót là Biên bản xác định hành vi VPHC và thời hiệu (theo tiền lệ BB09/BB-ĐTT của Thanh tra tỉnh).

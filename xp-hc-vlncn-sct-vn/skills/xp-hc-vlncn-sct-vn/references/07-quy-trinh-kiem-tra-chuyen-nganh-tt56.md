@@ -46,7 +46,7 @@ Nơi nhận: … Lưu: VT, (12), HSKT.
 1. **Đặt tên "Thành lập Đoàn kiểm tra…" và để Điều 1 = thành lập đoàn** → sai kết cấu Mẫu 03 (Điều 1 phải là đối tượng — nội dung — thời kỳ — thời hạn; Điều 2 mới thành lập đoàn).
 2. **Không viện dẫn TT 56/2025** trong căn cứ, dù mẫu in sẵn dòng này.
 3. **Thời kỳ kiểm tra ghi chung chung** ("thời gian lập, thực hiện các hộ chiếu…") → với vụ việc có khả năng xử phạt, thời kỳ phải đủ cụ thể để chốt thời điểm hành vi và thời hiệu; nhiều đầu mục thì lập phụ lục.
-4. **Thời hạn:** Mẫu 03 in "… ngày **làm việc**" nhưng điểm b khoản 2 Điều 13 NĐ 217/2025 quy định cơ quan chuyên môn cấp tỉnh **không quá 10 ngày** (ngày lịch), gia hạn 01 lần ≤ 05 ngày. Nghị định cao hơn thông tư → khi ghi 10 ngày thì KHÔNG thêm "làm việc"; an toàn nhất: ghi số ngày làm việc quy đổi vẫn nằm trong trần 10 ngày lịch, hoặc ghi thẳng "không quá 10 ngày kể từ ngày công bố Quyết định". (Đừng nhầm với "10 ngày làm việc" của Đ5, Đ10 TT 56 — đó là thời hạn gửi kế hoạch và thời hạn viết báo cáo, không phải thời hạn cuộc kiểm tra.)
+4. **Thời hạn:** (xem mục K điểm 7 — thực tiễn Sở đã thống nhất ghi "10 ngày làm việc") Mẫu 03 in "… ngày **làm việc**" nhưng điểm b khoản 2 Điều 13 NĐ 217/2025 quy định cơ quan chuyên môn cấp tỉnh **không quá 10 ngày** (ngày lịch), gia hạn 01 lần ≤ 05 ngày. Nghị định cao hơn thông tư → khi ghi 10 ngày thì KHÔNG thêm "làm việc"; an toàn nhất: ghi số ngày làm việc quy đổi vẫn nằm trong trần 10 ngày lịch, hoặc ghi thẳng "không quá 10 ngày kể từ ngày công bố Quyết định". (Đừng nhầm với "10 ngày làm việc" của Đ5, Đ10 TT 56 — đó là thời hạn gửi kế hoạch và thời hạn viết báo cáo, không phải thời hạn cuộc kiểm tra.)
 
 ## D. Tạm dừng, đình chỉ cuộc kiểm tra (Mẫu 07, 08 — vũ khí xử lý khủng hoảng quy trình)
 
@@ -120,3 +120,33 @@ Bộ mẫu đầy đủ: `vi-du-thuc-te/bo-ho-so-kiem-tra-HCM-TayBac/` — dùng
 Kèm theo khi có xử phạt: Quyết định xử phạt VPHC (mẫu NĐ 118/2021, căn cứ NĐ 189/2025 về thẩm quyền).
 
 **Văn bản số 7 là mắt xích hay bị bỏ sót.** Nó tách bạch: hành vi cụ thể → căn cứ điều khoản → thời điểm chấm dứt → kết luận còn/hết thời hiệu, có chữ ký đối tượng. Đây là chứng cứ then chốt khi hồ sơ bị hậu kiểm, đặc biệt khi kết luận là "hết thời hiệu, không xử phạt" — không có văn bản này thì việc không xử phạt dễ bị quy là bỏ lọt vi phạm.
+
+## K. THỂ THỨC CHUẨN theo hồ sơ đã ban hành của Sở (đối chiếu bộ Khí công nghiệp 5-6/2026)
+
+Bộ mẫu thật: `vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/` — QĐ 2872/QĐ-SCT 21/5/2026 (Mẫu 03 đã ban hành, GĐ Hoàng Chí Hiền ký), TB 2948/TB-ĐKT 25/5/2026, BB công bố 01/BB-ĐKT, BB VPHC 01.KCN/BB-VPHC, QĐ-XPHC (PGĐ Hoàng Văn Thuân ký). **Khi soạn hồ sơ mới, bám bộ này trước mọi suy luận từ mẫu trong thông tư.**
+
+### 1. Khối ký các văn bản của Đoàn kiểm tra
+Ô phải: **"TM. ĐOÀN KIỂM TRA" / "TRƯỞNG ĐOÀN"** (KHÔNG dùng "ĐẠI DIỆN ĐOÀN KIỂM TRA"). Ô trái: **tên doanh nghiệp + chức danh người ký** (vd "CÔNG TY TNHH MTV KHÍ CÔNG NGHIỆP LÀO CAI / GIÁM ĐỐC"), không dùng "ĐẠI DIỆN CÔNG TY…".
+
+### 2. Số hiệu văn bản của Đoàn
+- Biên bản công bố, biên bản kiểm tra: **`Số: 01/BB-ĐKT`** (đánh số theo thứ tự trong đợt).
+- Thông báo Điều 7: **`Số: <số văn thư Sở>/TB-ĐKT`** — lấy số của hệ thống văn thư Sở (vd 2948), không đánh số riêng.
+- Biên bản VPHC: **`Số: 01.<VIẾT TẮT DN>/BB-VPHC`** (vd `01.KCN/BB-VPHC`, `01.HCMTB/BB-VPHC`).
+
+### 3. Biên bản VPHC — Mẫu biên bản số 01, đủ 10 mục
+Ghi dòng *Mẫu biên bản số 01* ở đầu. Kết cấu: 1. Người có thẩm quyền lập biên bản (**CHỈ 01 người**, ghi họ tên - chức vụ - cơ quan; thực tế Sở giao chuyên viên/thư ký đoàn, không phải cả đoàn) → 2. Với sự chứng kiến của → 3. Người phiên dịch → *Tiến hành lập biên bản đối với <tổ chức>* (tên, địa chỉ, MSDN, số GCN ĐKDN + ngày cấp + nơi cấp, người đại diện, giới tính, chức danh) → 4. Đã có hành vi VPHC (từng hành vi + **Mô tả hành vi**) → 5. Quy định tại (điều khoản + **khoản 2 Điều 4 NĐ 71/2019** cho tổ chức) + tình tiết tăng nặng/giảm nhẹ + hình thức bổ sung + biện pháp khắc phục → 6. Ý kiến đại diện chính quyền, người chứng kiến → 7. Ý kiến tổ chức bị thiệt hại → 8. Yêu cầu chấm dứt ngay hành vi vi phạm → 9. Biện pháp ngăn chặn + **bảng tang vật, phương tiện, giấy phép bị tạm giữ** → 10. Quyền và thời hạn giải trình (nhánh a không được giải trình / nhánh b được giải trình; **02 ngày làm việc** yêu cầu giải trình trực tiếp, **05 ngày làm việc** gửi văn bản giải trình) → ý kiến tổ chức vi phạm → các trường hợp: phải đến làm việc trước khi ra QĐ xử phạt, nhận biên bản bằng phương thức điện tử, không ký biên bản.
+Khối ký 6 ô: NGƯỜI ĐẠI DIỆN CỦA TỔ CHỨC VI PHẠM | **NGƯỜI LẬP BIÊN BẢN** *(Ký, ghi rõ chức vụ, họ và tên)*; CÁ NHÂN/TỔ CHỨC BỊ THIỆT HẠI | ĐẠI DIỆN CHÍNH QUYỀN; NGƯỜI PHIÊN DỊCH | NGƯỜI CHỨNG KIẾN. Sau khối ký, in ở mặt sau: *"Biên bản đã giao trực tiếp cho … vào hồi … "* + **NGƯỜI NHẬN BIÊN BẢN**.
+
+### 4. Quyết định xử phạt VPHC — căn cứ bắt buộc (đủ 12 dòng)
+`Điều 57, Điều 68, Điều 70, Điều 78, Điều 85 Luật XLVPHC` (KHÔNG chỉ 57, 68) → luật chuyên ngành → **NĐ 71/2019 + NĐ 17/2022** → NĐ chuyên ngành (VLNCN: NĐ 181/2024) → **NĐ 118/2021 + NĐ 68/2025 + NĐ 190/2025** → **NĐ 189/2025** (thẩm quyền) → NĐ 217/2025 + TT 56/2025 → QĐ 05/2025/QĐ-UBND → **Quyết định kiểm tra** → Kết luận thanh tra/văn bản chỉ đạo (nếu có) → **Biên bản VPHC (số, giờ, ngày, địa điểm)** → **Quyết định số 1094/QĐ-SCT ngày 09/3/2026 của Giám đốc Sở Công Thương về việc giao quyền xử phạt vi phạm hành chính** ← căn cứ để PGĐ ký, TUYỆT ĐỐI không bỏ.
+
+### 5. Quyết định xử phạt — kết cấu Điều 1 (6 khoản) và Điều 3
+Điều 1: 1. Xử phạt đối với tổ chức (6 gạch đầu dòng thông tin) → 2. Đã thực hiện hành vi VPHC (tên hành vi + *Mô tả hành vi*) → 3. Quy định tại → 4. Tình tiết tăng nặng → 5. Tình tiết giảm nhẹ → 6. Hình thức xử phạt (a chính: từng hành vi + **tổng số tiền phạt**; b bổ sung; c khắc phục hậu quả).
+Điều 2: hiệu lực kể từ ngày ký. Điều 3: 1. Giao cho tổ chức chấp hành + **chậm nộp 0,05%/ngày**; a) nộp tại ngân hàng thương mại nơi **Kho bạc Nhà nước khu vực IX** mở tài khoản — **Tài khoản thu NSNN 7111; Mã cơ quan ra quyết định xử phạt: H38.2; Mã chương: 416; Mã nội dung kinh tế (tiểu mục): 4278**; thời hạn 10 ngày; b) không bị tạm giữ giấy tờ, tang vật; c) quyền khiếu nại, khởi kiện. 2. Gửi ngân hàng thương mại (Vietinbank, Vietcombank, Agribank, BIDV, Techcombank). 3. Gửi Đoàn kiểm tra để tổ chức thực hiện. 4. Gửi Văn phòng Sở, Phòng QLCN.
+Nơi nhận: `- Như Điều 3; - Lãnh đạo Sở; - Lưu: VT, Hồ sơ(3).` Sau khối ký: *"Quyết định đã giao trực tiếp cho ông (bà) … vào hồi …"* + **NGƯỜI NHẬN QUYẾT ĐỊNH**.
+
+### 6. Mức phạt — cách Sở ấn định
+Lấy **mức trung bình của khung tiền phạt đối với tổ chức** khi không có tình tiết tăng nặng/giảm nhẹ (Điều 9 NĐ 118/2021). Ví dụ đã ban hành: điểm a khoản 2 Điều 11 và khoản 4 Điều 16 NĐ 71/2019 (khung cá nhân 5-10 triệu → tổ chức 10-20 triệu) → **phạt 15.000.000 đồng/hành vi**; 03 hành vi = 45.000.000 đồng. Áp dụng tương tự cho điểm a khoản 2 Điều 56 (hộ chiếu nổ mìn): **15.000.000 đồng**.
+
+### 7. "10 ngày làm việc" — thực tiễn đã thống nhất
+QĐ 2872/QĐ-SCT và QĐ 4875/QĐ-SCT đều ghi *"Thời hạn kiểm tra không quá 10 ngày làm việc theo quy định tại khoản 2 Điều 13 NĐ 217/2025/NĐ-CP (không bao gồm ngày nghỉ, ngày lễ)"*. Đây là cách diễn đạt đã thống nhất của Sở → **giữ nguyên**, không tự sửa thành "10 ngày" (thay thế lưu ý tại mục C điểm 4 của reference này).

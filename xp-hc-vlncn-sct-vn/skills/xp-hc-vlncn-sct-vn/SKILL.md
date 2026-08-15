@@ -32,6 +32,8 @@ TUYỆT ĐỐI không tự thay số/ngày khác.
 3. **Nền thủ tục:** Luật XLVPHC (thời hiệu, thời hạn ra QĐ, cưỡng chế; bản sửa đổi 2025 hiệu lực 01/7/2025); NĐ 118/2021/NĐ-CP (sđ NĐ 68/2025, NĐ 190/2025 — xử phạt trên môi trường điện tử, k5 Đ5 NĐ 275/2026); NĐ 189/2025 (thẩm quyền xử phạt); kiểm tra chuyên ngành theo NĐ 217/2025 + TT 56/2025/TT-BCT.
 4. **Thông tư số 56/2025/TT-BCT ngày 28/11/2025** của Bộ trưởng Bộ Công Thương quy định về quy trình kiểm tra chuyên ngành Công Thương — hiệu lực 28/11/2025; bãi bỏ TT 15/2024/TT-BCT; 12 điều + 10 mẫu (Mẫu 03 QĐ kiểm tra, Mẫu 07 tạm dừng, Mẫu 08 đình chỉ). Toàn văn: `van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.docx`; hướng dẫn áp dụng + checklist: reference `07`. **Mọi QĐ kiểm tra của Sở phải viện dẫn TT này trong căn cứ và bám kết cấu Mẫu số 03.**
 
+> **THỂ THỨC (bám mẫu thật trước):** khối ký của Đoàn là **"TM. ĐOÀN KIỂM TRA / TRƯỞNG ĐOÀN"**; BB VPHC theo **Mẫu biên bản số 01** đủ 10 mục, **chỉ 01 người lập**, số hiệu `01.<viết tắt DN>/BB-VPHC`; QĐ xử phạt bắt buộc dẫn **Điều 57, 68, 70, 78, 85** Luật XLVPHC và **QĐ 1094/QĐ-SCT ngày 09/3/2026 giao quyền xử phạt**; mức phạt lấy **trung bình khung của tổ chức**. Chi tiết: reference `07` mục K.
+
 > **THỜI HIỆU (quy tắc chốt):** xử phạt VPHC lĩnh vực hóa chất, VLNCN có thời hiệu **01 năm** (điểm a khoản 1 Điều 6 Luật XLVPHC, sửa tại Luật 88/2025/QH15) — hai lĩnh vực này KHÔNG nằm trong danh mục 02 năm; không suy diễn sang "hoạt động khoáng sản khác". Hết thời hiệu → không lập biên bản VPHC, không ra QĐ xử phạt (điểm c khoản 1 Điều 65). Chi tiết + mốc tính: reference `07` mục H.
 
 ## III. CẤU TRÚC NĐ 275/2026 — BẢN ĐỒ TRA CỨU NHANH
@@ -124,7 +126,9 @@ xp-hc-vlncn-sct-vn/
 │                                        tạm dừng/đình chỉ, kiểm tra sau KLTT, checklist
 ├── vi-du-thuc-te/
 │   ├── KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-PGD-Thuan-duyet.docx
-│   └── bo-ho-so-kiem-tra-HCM-TayBac/  ← trọn bộ 9 văn bản một cuộc kiểm tra
+│   ├── bo-ho-so-kiem-tra-HCM-TayBac/  ← trọn bộ 9 văn bản một cuộc kiểm tra
+│   └── bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/ ← 5 văn bản ĐÃ BAN HÀNH, ký đóng dấu:
+│                                        chuẩn thể thức gốc, bám trước mọi suy luận (ref 07 mục K)
 │                                        ← Kế hoạch kiểm tra (Mẫu 04) bản PGĐ duyệt — tiền lệ chuẩn
 └── van-ban-goc/
     ├── ND-275-2026-NDCP-xu-phat-VPHC-hoa-chat-VLNCN.docx  ← toàn văn (bản Word)

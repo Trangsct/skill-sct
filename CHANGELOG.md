@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-15 — kccn-sct-vn v1.19.0: gộp PR #14 tồn đọng (07/8) — QĐ 2736 Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1
+
+Rà soát PR tồn đọng theo yêu cầu của Bạn 15/8/2026: PR #14 (tạo 07/8, kccn v1.16.0) bị kẹt do main đã tiến lên v1.18.2 bằng nhánh song song → giải quyết xung đột, gộp phần nội dung riêng của PR thành **v1.19.0**:
+
+- `references/06`: cơ cấu Hội đồng + Tổ giúp việc theo mẫu hiện hành QĐ 2736/QĐ-UBND (CCN Mông Sơn) — đầy đủ 9 thành viên Hội đồng + 10 thành viên Tổ giúp việc; bảng so sánh 5 điểm khác mẫu Bảo Minh cũ.
+- `references/14`: Mông Sơn gắn QĐ 2736; CCN Cam Đường 1 nhận 01 hồ sơ CĐT của Công ty CP 289 Trường Sơn (giai đoạn 1 — 11,36 ha) theo TB 831/TB-UBND.
+- `references/25`: chú thích 2 diễn biến sau kỳ báo cáo 05/8; `van-ban-goc/`: 02 PDF bản gốc QĐ 2736 + TB 831.
+- Lưu ý vênh ngày ghi trong CHANGELOG plugin: ref 26 ghi 07/8, bản GATE gốc ghi 06/8/2026 — trích dẫn chính thức theo bản gốc PDF.
+- plugin.json → 1.19.0 (giữ description khung 8/2026 của main).
+
 ## 2026-08-15 — hnh-sct-vn v1.7.0: QĐ 2848/QĐ-UBND ngày 14/8/2026 sửa đổi, bổ sung QĐ 1696 — ủy quyền bổ sung loại 5, 8
 
 Nguồn: bản PDF đã ký QĐ 2848/QĐ-UBND ngày 14/8/2026 (tiếp thu ý kiến Thành viên UBND tỉnh; theo TTr 4173/TTr-SCT ngày 14/7/2026; Chủ tịch Nguyễn Tuấn Anh ký, dấu đỏ), Bạn cung cấp 15/8/2026.

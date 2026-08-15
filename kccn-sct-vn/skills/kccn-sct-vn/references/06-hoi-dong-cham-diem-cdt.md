@@ -51,19 +51,45 @@
 - Phương án thu hồi vốn (giá cho thuê đất, phí sử dụng hạ tầng);
 - Hiệu quả kinh tế - tài chính của dự án.
 
-## CƠ CẤU HỘI ĐỒNG ĐÁNH GIÁ (theo QĐ thực tế tại CCN Bảo Minh)
+## CƠ CẤU HỘI ĐỒNG ĐÁNH GIÁ — MẪU MỚI NHẤT theo QĐ 2736/QĐ-UBND ngày 06/8/2026 (CCN Mông Sơn)
 
-### Hội đồng
+**Đây là mẫu cơ cấu chuẩn hiện hành** (văn bản gốc: `van-ban-goc/QD-2736-2026-HD-lua-chon-CDT-CCN-Mong-Son.pdf` — Chủ tịch UBND tỉnh Nguyễn Tuấn Anh ký, theo Tờ trình số 4534/TTr-SCT ngày 29/7/2026 của Giám đốc SCT; Lưu VT, KT (T.Q.Hùng)).
 
-1. **Chủ tịch Hội đồng**: Phó Chủ tịch UBND tỉnh phụ trách lĩnh vực CN-TM (hiện nay là ông Ngô Hạnh Phúc - Phó Chủ tịch Thường trực).
-2. **Phó Chủ tịch Thường trực Hội đồng** (Tổ trưởng Tổ giúp việc): Phó Giám đốc Sở Công Thương phụ trách CN.
-3. **Phó Chủ tịch Hội đồng**: Phó Giám đốc Sở Tài chính.
-4. **Thành viên**: Phó Giám đốc Sở Xây dựng; Phó Giám đốc Sở Nông nghiệp và Môi trường; Phó Chủ tịch UBND cấp xã có CCN.
-5. **Thư ký Hội đồng**: Phó Trưởng phòng QLCN Sở Công Thương (KHÔNG chấm điểm, chỉ ghi biên bản).
+### Hội đồng (CCN Mông Sơn, xã Bảo Ái)
 
-### Tổ giúp việc
+1. **Chủ tịch Hội đồng**: Ông Ngô Hạnh Phúc - Phó Chủ tịch Thường trực UBND tỉnh.
+2. **Các Phó Chủ tịch Hội đồng**:
+   - Ông Hoàng Chí Hiền - **Giám đốc Sở Công Thương** - Phó Chủ tịch **Thường trực** Hội đồng;
+   - Ông Vũ Lân - Phó Giám đốc Sở Tài chính - Phó Chủ tịch Hội đồng.
+3. **Các thành viên Hội đồng**:
+   - Ông Nguyễn Đình Chiến - Phó Giám đốc Sở Công Thương (**kiêm Tổ trưởng Tổ giúp việc**);
+   - Ông Trần Đức Tình - Phó Giám đốc Sở Xây dựng;
+   - Bà Trịnh Thị Thu Huyền - Phó Giám đốc Sở Nông nghiệp và Môi trường;
+   - Ông Đỗ Đức Chinh - Phó Trưởng phòng An ninh kinh tế, Công an tỉnh;
+   - Ông Tạ Quang Công - **Chủ tịch** UBND xã Bảo Ái.
+4. **Thư ký Hội đồng**: Ông Nguyễn Hữu Long - **Trưởng phòng** Quản lý Công nghiệp, Sở Công Thương.
 
-Tổ trưởng là Phó Chủ tịch Thường trực Hội đồng. Các thành viên là chuyên viên các sở, ngành tương ứng. Nhiệm vụ:
+### Tổ giúp việc (theo QĐ 2736)
+
+- **Tổ trưởng**: Ông Nguyễn Đình Chiến - Phó Giám đốc Sở Công Thương.
+- **Các Tổ phó**: Ông Nguyễn Hữu Long - Trưởng phòng QLCN, SCT; Ông Thiều Quang Hùng - Chuyên viên phòng Kinh tế, Văn phòng UBND tỉnh.
+- **Các Tổ viên**: Ông Trần Trọng Trang - Phó Trưởng phòng QLCN, SCT; Bà Nguyễn Việt Hà - CV phòng Đấu thầu, Thẩm định và Giám sát đầu tư, Sở Tài chính; Ông Lê Văn Cường - CV phòng Phát triển đô thị và Hạ tầng kỹ thuật, Sở Xây dựng; Bà Nguyễn Thị Hằng - CV phòng Quản lý Đất đai, Sở Nông nghiệp và Môi trường; Ông Lê Quang Trung - CV phòng QLCN, SCT; Ông Nguyễn Văn Thanh - Cán bộ phòng An ninh kinh tế, Công an tỉnh; Ông Vương Anh Tú - Phó Trưởng phòng Kinh tế, Hạ tầng, UBND xã Bảo Ái.
+
+### Điểm khác so với mẫu Bảo Minh (trước đây) — LƯU Ý khi soạn Tờ trình mới
+
+| Nội dung | Mẫu Bảo Minh (cũ) | Mẫu Mông Sơn — QĐ 2736 (hiện hành) |
+|---|---|---|
+| Phó Chủ tịch Thường trực HĐ | Phó Giám đốc SCT | **Giám đốc SCT** (Phó Giám đốc SCT xuống làm thành viên kiêm Tổ trưởng TGV) |
+| Thư ký Hội đồng | Phó Trưởng phòng QLCN | **Trưởng phòng QLCN** (đồng thời là Tổ phó TGV) |
+| Đại diện UBND cấp xã | Phó Chủ tịch UBND xã | **Chủ tịch** UBND xã |
+| Tổ giúp việc | 1 Tổ trưởng + tổ viên | Tổ trưởng + **02 Tổ phó** (trong đó có CV phòng Kinh tế VP UBND tỉnh) + 07 tổ viên |
+| Con dấu | CT dùng dấu UBND tỉnh; Phó CT dùng dấu SCT | CT dùng dấu UBND tỉnh; **các Phó CT dùng con dấu của cơ quan mình (SCT, Sở Tài chính)** |
+
+Cơ cấu này đã tiệm cận yêu cầu NĐ 303/2026 (hiệu lực 15/9/2026): Chủ tịch HĐ là lãnh đạo UBND tỉnh, Phó Chủ tịch gồm SCT + Sở Tài chính (xem reference `24`).
+
+### Tổ giúp việc — nhiệm vụ chung
+
+Giúp việc cho Hội đồng trong quá trình hoạt động; nhiệm vụ cụ thể do Chủ tịch Hội đồng phân công. Thành viên hoạt động kiêm nhiệm, tự giải thể sau khi hoàn thành nhiệm vụ. Trong thực tế gồm:
 - Nghiên cứu hồ sơ chi tiết;
 - Tham mưu xây dựng bộ tiêu chí chấm điểm cụ thể cho CCN;
 - Chuẩn bị tài liệu phục vụ cuộc họp Hội đồng;
@@ -71,7 +97,7 @@ Tổ trưởng là Phó Chủ tịch Thường trực Hội đồng. Các thành
 
 ## NHIỆM VỤ CỦA HỘI ĐỒNG
 
-(Theo Điều 2 QĐ thành lập Hội đồng đánh giá lựa chọn CĐT CCN Bảo Minh)
+(Theo Điều 2 QĐ thành lập Hội đồng — thống nhất giữa QĐ CCN Bảo Minh và QĐ 2736/QĐ-UBND CCN Mông Sơn)
 
 1. Xây dựng, ban hành bộ tiêu chí lựa chọn chủ đầu tư cụ thể cho CCN đó.
 2. Tổ chức chấm điểm, lựa chọn chủ đầu tư theo quy định, đảm bảo chính xác, khách quan, công bằng.
@@ -79,7 +105,7 @@ Tổ trưởng là Phó Chủ tịch Thường trực Hội đồng. Các thành
 4. Giải quyết các vướng mắc, khiếu nại (nếu có).
 5. Hội đồng tự giải thể sau khi hoàn thành nhiệm vụ.
 
-**Sử dụng con dấu**: Chủ tịch Hội đồng dùng con dấu UBND tỉnh; Phó Chủ tịch dùng con dấu Sở Công Thương.
+**Sử dụng con dấu** (Điều 2 QĐ 2736): Chủ tịch Hội đồng dùng con dấu UBND tỉnh; các Phó Chủ tịch Hội đồng dùng con dấu của cơ quan mình (Sở Công Thương, Sở Tài chính).
 
 ## QUY TRÌNH CHẤM ĐIỂM
 

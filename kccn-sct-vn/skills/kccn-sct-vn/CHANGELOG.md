@@ -1,4 +1,22 @@
 # CHANGELOG
+## v1.19.0 — 15/8/2026: gộp PR #14 (soạn 07/8/2026) — QĐ 2736 thành lập Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1 nhận 01 hồ sơ CĐT
+
+(Nhánh PR #14 tạo 07/8 song song với chuỗi v1.16.0-v1.18.2 trên main; nội dung dưới đây là phần riêng của PR, gộp vào main ngày 15/8/2026. Lưu ý: reference 26 mục C ghi QĐ 2736 và TB 831 ngày 07/8 - bản GATE file gốc trong PR này ghi 06/8/2026; khi trích dẫn chính thức dùng ngày trên bản gốc PDF trong van-ban-goc/.)
+
+Bạn cung cấp 02 file PDF bản scan. Đã GATE file gốc trên đĩa:
+
+| Văn bản | Số, ngày | Cơ quan | Người ký |
+|---|---|---|---|
+| QĐ thành lập Hội đồng đánh giá lựa chọn CĐT + Tổ giúp việc CCN Mông Sơn | **2736/QĐ-UBND, 06/8/2026** | UBND tỉnh Lào Cai | Chủ tịch **Nguyễn Tuấn Anh** (theo Tờ trình 4534/TTr-SCT 29/7/2026; Lưu VT, KT (T.Q.Hùng)) |
+| TB kết quả tiếp nhận hồ sơ đề nghị làm CĐT hạ tầng CCN Cam Đường 1 | **831/TB-UBND, 06/8/2026** | UBND phường Cam Đường | Chủ tịch **Nguyễn Xuân Nhẫn** |
+
+- `references/06`: cơ cấu Hội đồng + Tổ giúp việc cập nhật theo **mẫu hiện hành QĐ 2736 (CCN Mông Sơn, xã Bảo Ái)** — đầy đủ họ tên chức danh 9 thành viên Hội đồng + 10 thành viên Tổ giúp việc; **bảng so sánh 5 điểm khác mẫu Bảo Minh cũ** (Giám đốc SCT làm Phó Chủ tịch Thường trực thay Phó Giám đốc; Thư ký là Trưởng phòng QLCN; Chủ tịch UBND xã thay Phó Chủ tịch; Tổ giúp việc có 02 Tổ phó; các Phó Chủ tịch HĐ dùng con dấu cơ quan mình); ghi chú tiệm cận NĐ 303/2026.
+- `references/14`: dòng Mông Sơn (TT 3 nhóm 5 CCN đã có NĐT) gắn QĐ 2736; thêm mục cập nhật 8/2026 CCN Cam Đường 1 — đợt tiếp nhận theo TB 711/TB-UBND 22/7/2026 (22/7 - 17h00 05/8/2026), kết quả **01 hồ sơ duy nhất của Công ty CP 289 Trường Sơn** (GCN ĐKDN 0106028855, phường Nghĩa Đô, TP Hà Nội) đề nghị làm CĐT hạ tầng **giai đoạn 1 — 11,36 ha**; bước tiếp theo UBND phường lập hồ sơ gửi SCT thẩm định theo Đ.10 NĐ 32/2024.
+- `references/25`: chú thích cập nhật sau kỳ báo cáo 05/8/2026 cho Mông Sơn + Cam Đường 1.
+- `SKILL.md`: mục I.3 + bảng reference 06/14 + từ khóa description.
+- `van-ban-goc/`: lưu 02 bản gốc `QD-2736-2026-HD-lua-chon-CDT-CCN-Mong-Son.pdf`, `TB-831-2026-UBND-Cam-Duong-tiep-nhan-ho-so-CCN-Cam-Duong-1.pdf`.
+- Website congnghieplaocai.vn đã cập nhật song song (repo ccn-laocai, SW v67).
+
 ## v1.18.2 — 07/8/2026: đính chính mục I.2 Báo cáo gửi UBND tỉnh — 23 cụm = 16 UBND xã + 07 doanh nghiệp
 
 - Mục I.2 báo cáo viết lại theo chốt của Bạn: "23 cụm đã thành lập, đang hoạt động, gồm 16 cụm do UBND cấp xã quản lý (hạ tầng đầu tư từ ngân sách nhà nước) và 07 cụm do doanh nghiệp làm chủ đầu tư hạ tầng"; các cụm thành lập mới trình bày riêng (09 đang thẩm định; 07 đang hoàn thiện hồ sơ; còn lại kêu gọi).

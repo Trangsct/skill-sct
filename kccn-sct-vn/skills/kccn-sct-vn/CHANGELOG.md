@@ -1,4 +1,15 @@
 # CHANGELOG
+## v1.20.0 — 18/8/2026: Bộ tiêu chí CHUẨN lựa chọn CĐT hạ tầng CCN (Tân Nguyên + Mông Sơn) + quy trình thay thế QĐ 2778/QĐ-HĐ
+
+Kỳ làm việc 18/8/2026: phân tích bộ tiêu chí do Sở Tài chính xây dựng (18/8) so với bộ đã ban hành cho Tân Nguyên; hoàn chỉnh bộ tiêu chí chuẩn thống nhất cho 02 CCN trên địa bàn xã Bảo Ái theo ý kiến chỉ đạo của đ/c Ngô Hạnh Phúc - PCT TT UBND tỉnh, Chủ tịch Hội đồng.
+
+- **`references/27-bo-tieu-chi-cdt-18-8-2026.md` (MỚI)**: bộ tiêu chí chuẩn — Điều 3 với 05 điều kiện tiên quyết (ngành nghề kinh doanh BĐS; vốn CSH ≥20% TVĐT dự án <20 ha, ≥15% dự án ≥20 ha; không bị cấm KD BĐS; không giải thể/thu hồi GCN/truy cứu TNHS; đất đai); bảng gộp Phần A (Đạt/Không đạt) + Phần B thang 100 (I.30: kinh nghiệm 15 giữ 4 loại dự án + nhân sự 15, bỏ diễn đạt "công trình HTKT tương tự"; II.40: vốn CSH 10 nhị phân, bảo đảm đủ nguồn vốn 5, vốn vay 10, kế hoạch bố trí vốn 5, kế hoạch thu hút đầu tư 10 với quỹ đất DNNVV/công nghệ cao/khởi nghiệp; III.15: HTKT 6 kèm 6 hạng mục theo SXD, đấu nối 2, GPMB-TĐC 2, nhà ở lao động 1, tiến độ 4 mốc 24/36 tháng; IV.15: môi trường theo SNNMT, trừ 1,5đ và 0,75đ mỗi nội dung thiếu); nội dung bộ STC KHÔNG tiếp thu (NPV/IRR, chỉ tính kinh nghiệm KCN/CCN, bỏ nhân sự, mốc 30 tháng) kèm lý do Điều 12 NĐ 32/2024.
+- **Thể thức chốt mới**: Quyết định do **CHỦ TỊCH Hội đồng ban hành trực tiếp** (không "TM. HỘI ĐỒNG"), theo đúng QĐ 2778/QĐ-HĐ 10/8/2026 đã ban hành; các dòng "(Kèm theo... của Chủ tịch Hội đồng...)".
+- **Quy trình thay thế QĐ đã ban hành** (Tân Nguyên): Tờ trình đề nghị thay thế QĐ 2778/QĐ-HĐ với thân 3 đoạn (quá trình cũ - lý do - đề nghị); Điều 3 QĐ mới có câu thay thế; **Phụ lục tiếp thu ý kiến gộp vào Tờ trình** thay Báo cáo riêng.
+- **`vi-du-thuc-te/`**: 05 file 18/8/2026 — 02 Dự thảo QĐ (Tân Nguyên 28 trang có điều khoản thay thế; Mông Sơn 28 trang), 02 Tờ trình kèm Phụ lục tiếp thu, 01 Phân tích so sánh bộ tiêu chí.
+- `references/06`, `SKILL.md`: chỉ dẫn sang reference 27; description bổ sung từ khóa.
+- Số văn bản đã GATE trong kỳ: VB 4779/SCT-CN 07/8; SXD 5169 + SNNMT 7696 + xã Bảo Ái 1278 (11/8); CA tỉnh 2279/ANKT-Đ1 14/8 (số viết tay — đối chiếu bản giấy); QĐ 2778/QĐ-HĐ 10/8/2026; TTr 4784/TTr-SCT 07/8.
+
 ## v1.19.0 — 15/8/2026: gộp PR #14 (soạn 07/8/2026) — QĐ 2736 thành lập Hội đồng lựa chọn CĐT CCN Mông Sơn + TB 831 CCN Cam Đường 1 nhận 01 hồ sơ CĐT
 
 (Nhánh PR #14 tạo 07/8 song song với chuỗi v1.16.0-v1.18.2 trên main; nội dung dưới đây là phần riêng của PR, gộp vào main ngày 15/8/2026. Lưu ý: reference 26 mục C ghi QĐ 2736 và TB 831 ngày 07/8 - bản GATE file gốc trong PR này ghi 06/8/2026; khi trích dẫn chính thức dùng ngày trên bản gốc PDF trong van-ban-goc/.)

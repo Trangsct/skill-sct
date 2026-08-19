@@ -85,8 +85,8 @@ Bản ký (PDF, GATE đã xác minh số/ngày/người ký 09/8/2026): `van-ban
 
 ### C-bis. QĐ 2867/QĐ-UBND ngày 17/8/2026 — QĐ ủy quyền MỚI cùng lĩnh vực (hiệu lực 20/8/2026)
 UBND tỉnh ban hành **QĐ 2867/QĐ-UBND ngày 17/8/2026** (PCT Nguyễn Thành Sinh ký; cùng tên "Ủy quyền cho GĐ SCT… lĩnh vực VLNCN"; cùng gốc TTr 2205/TTr-SCT 28/10/2025; căn cứ bổ sung TT 26/2026/TT-BCT): ủy quyền GĐ SCT một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN theo **Phụ lục kèm theo**; thời hạn **20/8/2026 → hết 28/02/2027**; báo cáo UBND tỉnh **06 tháng, 01 năm** hoặc đột xuất (dày hơn QĐ 1883). Bản ký: `sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf`.
-- ⚠ **Bản lưu CHƯA có Phụ lục danh mục** → chưa xác định QĐ 2867 có bao trùm/mở rộng nhiệm vụ GCN huấn luyện (TTHC 2.000229, 2.000210) hay không; chính văn **không có điều khoản thay thế/bãi bỏ QĐ 1883**.
-- **Quy tắc tạm thời:** văn bản ban hành **trước 20/8/2026** viện dẫn QĐ 1883 như cũ. Văn bản **từ 20/8/2026**: đối chiếu Phụ lục QĐ 2867 trước khi chọn căn cứ ủy quyền (hỏi Bạn cung cấp Phụ lục); nếu Phụ lục 2867 chứa nhiệm vụ huấn luyện thì cân nhắc dẫn QĐ 2867 (văn bản mới nhất) — chốt sau khi có Phụ lục.
+- ✅ **ĐÃ CÓ PHỤ LỤC (bản trình, Bạn cung cấp 19/8/2026** — `sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-trinh.docx`): danh mục QĐ 2867 **CHỈ gồm 01 nhiệm vụ — cấp, cấp lại, cấp điều chỉnh GP SỬ DỤNG VLNCN** (căn cứ k1 Đ1 TT 26/2026). **KHÔNG bao gồm GCN huấn luyện.**
+- **Kết luận cho plugin này:** nhiệm vụ huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN **tiếp tục viện dẫn QĐ 1883/QĐ-UBND như cũ**, không đổi căn cứ. Hai QĐ ủy quyền song song, cùng hết hạn **28/02/2027** — khi tham mưu QĐ ủy quyền giai đoạn tiếp theo, đề xuất gộp cả huấn luyện + GP sử dụng vào một QĐ.
 
 ## D. Văn bản liên quan khác
 - **Luật 42/2024/QH15 ngày 29/6/2024** — nền của toàn lĩnh vực VLNCN (điều kiện sử dụng Đ38, hồ sơ GP Đ39 → xem `sd-vlncn-sct-vn`).

@@ -14,7 +14,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **QĐ thành lập/kiện toàn/bổ sung Tổ kiểm tra, cấp GCN** → mẫu 08.
 - **Trả lời, hướng dẫn doanh nghiệp**: điều kiện chuyên môn từng chức danh, hồ sơ, nơi nộp, thời hạn, cấp lại, huấn luyện định kỳ/lại, TCTN; văn bản trả hồ sơ không hợp lệ/không đủ điều kiện → reference `04` + mẫu 09, 10 (tiền lệ HTX Văn Thịnh, Cty Duy Hiếu).
 - **Kiểm tra việc chấp hành pháp luật** về quản lý, bảo quản, sử dụng VLNCN (trong đó có kiểm tra GCN huấn luyện của người lao động): QĐ thành lập đoàn, KH kiểm tra, biên bản, báo cáo, thông báo kết quả sau kiểm tra; hành vi – mức phạt **Đ54 NĐ 275/2026** (sử dụng người chưa huấn luyện — từ 25/8/2026; trước đó Đ50 NĐ 71/2019) → reference `06` + mẫu 11–12 + plugin `xp-hc-vlncn-sct-vn`.
-- **Báo cáo** UBND tỉnh định kỳ hằng năm/đột xuất về thực hiện nhiệm vụ ủy quyền (điểm đ khoản 2 Điều 3 QĐ 1883/QĐ-UBND) → reference `06` + mẫu 13. ⚠ Từ **20/8/2026** có thêm **QĐ 2867/QĐ-UBND ngày 17/8/2026** (ủy quyền GĐ SCT lĩnh vực VLNCN, đến 28/02/2027, báo cáo 06 tháng/01 năm) — Phụ lục danh mục chưa có trong kho, **đối chiếu trước khi chọn căn cứ ủy quyền** → reference `01` mục C-bis.
+- **Báo cáo** UBND tỉnh định kỳ hằng năm/đột xuất về thực hiện nhiệm vụ ủy quyền (điểm đ khoản 2 Điều 3 QĐ 1883/QĐ-UBND) → reference `06` + mẫu 13. Lưu ý: từ **20/8/2026** có thêm **QĐ 2867/QĐ-UBND ngày 17/8/2026** ủy quyền GĐ SCT **GP sử dụng VLNCN** (KHÔNG bao gồm GCN huấn luyện — huấn luyện vẫn viện dẫn QĐ 1883; hai QĐ song song đến 28/02/2027) → reference `01` mục C-bis.
 - Tra cứu **ví dụ thực tế 2025–2026 của Lào Cai** → reference `07` + thư mục `vi-du-thuc-te/`.
 
 **Ranh giới, liên kết với plugin khác:**

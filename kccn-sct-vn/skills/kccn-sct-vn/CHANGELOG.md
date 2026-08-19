@@ -1,4 +1,20 @@
 # CHANGELOG
+## v1.21.0 — 19/8/2026: Hội đồng thẩm định Quy hoạch các KCN do BQL các khu công nghiệp tỉnh quản lý (QĐ 7 + QĐ 226/QĐ-BQLCKCN)
+
+Bạn cung cấp 02 file PDF bản scan ngày 19/8/2026. Đã GATE số/ngày/người ký từ bản gốc (số và ngày điền tay — render ảnh để đọc):
+
+| Văn bản | Số, ngày | Cơ quan | Người ký |
+|---|---|---|---|
+| QĐ thành lập Hội đồng thẩm định Quy hoạch các KCN do BQLCKCN quản lý | **7/QĐ-BQLCKCN, 15/01/2026** | BQL các khu công nghiệp tỉnh Lào Cai | Trưởng Ban **Đỗ Việt Bách** |
+| QĐ điều chỉnh, bổ sung thành viên Hội đồng thẩm định | **226/QĐ-BQLCKCN, 14/8/2026** | BQL các khu công nghiệp tỉnh Lào Cai | Trưởng Ban **Đỗ Việt Bách** |
+
+- **`references/28-hdtd-quy-hoach-kcn-bqlckcn.md` (MỚI)**: phạm vi thẩm định (nhiệm vụ QH, đồ án QH các KCN + đồ án QHCT dự án đầu tư trong KCN khối BQLCKCN — vùng Yên Bái cũ); phân biệt với Hội đồng lựa chọn CĐT CCN (ref 06/27) và Hội đồng GPMT; nguyên tắc làm việc Điều 2 (chế độ tập thể, kết luận theo đa số, kết luận là MỘT TRONG NHỮNG cơ sở để cơ quan thẩm định tổng hợp); BQLCKCN thường trực, Phòng Nghiệp vụ thư ký; danh sách Phụ lục QĐ 7 đầy đủ (Chủ tịch Đỗ Việt Bách; 02 Phó Chủ tịch Vũ Minh Tuấn + Nguyễn Tiến Nam; thành viên 6 nhóm) kèm đánh dấu người đã bị thay.
+- **06 điều chỉnh theo QĐ 226 (bảng kèm SĐT)**: Nguyễn Đình Chiến (PGĐ SCT) thay Hoàng Văn Thuận; **Trần Trọng Trang (Phó TP QLCN SCT) thay Nguyễn Hồng Vân**; Trịnh Thị Thu Huyền (PGĐ SNNMT) thay Phạm Bình Minh; Nguyễn Ngọc Quân (CV QLĐĐ SNNMT) thay Nông Thị Quỳnh Hoa; bổ sung mới Nguyễn Phùng Hưng (PCT xã Việt Hồng) + Nguyễn Duy Khương (CV phòng Kinh tế xã Việt Hồng) — gắn bối cảnh chuẩn bị thẩm định QH KCN Việt Hồng 1, Việt Hồng 2 (04 KCN chưa thành lập, ref 25). Căn cứ cử người: **VB 4926/SCT-CN 14/8/2026**, VB 7735/SNN&MT 12/8/2026, VB 795/UBND-KT 12/8/2026.
+- **Bẫy số văn bản trùng** ghi thành bảng: NĐ 178/**2025** (chi tiết Luật QH đô thị nông thôn) ≠ NĐ 178/**2026** (tài sản KCHT, ref 18); QĐ 16/**2025**/QĐ-UBND (tổ chức BQLCKCN) ≠ QĐ 16/**2026**/QĐ-UBND (Quy chế CCN, ref 04).
+- `SKILL.md`: mục I thêm điểm 11 (đánh lại số 12 cho tra hồ sơ gốc CCN); bảng reference thêm dòng 28; nguyên tắc VII.8 trỏ ref 28; description thêm từ khóa.
+- `van-ban-goc/`: lưu 02 bản gốc `QD-7-QD-BQLCKCN-15-01-2026-thanh-lap-HDTD-quy-hoach-KCN.pdf`, `QD-226-QD-BQLCKCN-14-8-2026-dieu-chinh-bo-sung-HDTD-quy-hoach-KCN.pdf`.
+- plugin.json → 1.21.0.
+
 ## v1.20.0 — 18/8/2026: Bộ tiêu chí CHUẨN lựa chọn CĐT hạ tầng CCN (Tân Nguyên + Mông Sơn) + quy trình thay thế QĐ 2778/QĐ-HĐ
 
 Kỳ làm việc 18/8/2026: phân tích bộ tiêu chí do Sở Tài chính xây dựng (18/8) so với bộ đã ban hành cho Tân Nguyên; hoàn chỉnh bộ tiêu chí chuẩn thống nhất cho 02 CCN trên địa bàn xã Bảo Ái theo ý kiến chỉ đạo của đ/c Ngô Hạnh Phúc - PCT TT UBND tỉnh, Chủ tịch Hội đồng.

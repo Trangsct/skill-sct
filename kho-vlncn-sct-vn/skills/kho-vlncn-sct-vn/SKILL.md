@@ -78,7 +78,7 @@ Kho chỉ là **điều kiện thành phần** của Giấy phép sử dụng VL
 
 ## IV. THẨM QUYỀN — PHÂN ĐỊNH NHANH
 
-- **Cấp GP sử dụng VLNCN:** UBND cấp tỉnh (TT 38/2025), trừ: tổ chức có GP khoáng sản do Bộ NN&MT cấp → Cục KTAT&MTCN; tổ chức thuộc Bộ Quốc phòng. Tại Lào Cai có QĐ ủy quyền (xác minh QĐ 1883 trước khi dẫn).
+- **Cấp GP sử dụng VLNCN:** UBND cấp tỉnh (TT 38/2025), trừ: tổ chức có GP khoáng sản do Bộ NN&MT cấp → Cục KTAT&MTCN; tổ chức thuộc Bộ Quốc phòng. Tại Lào Cai: QĐ 1883/QĐ-UBND chỉ ủy quyền GCN huấn luyện; từ **20/8/2026** có thêm **QĐ 2867/QĐ-UBND ngày 17/8/2026** (ủy quyền GĐ SCT lĩnh vực VLNCN — Phụ lục danh mục chưa có trong kho, đối chiếu trước khi kết luận người ký; ref 01 mục IV).
 - **Kiểm tra công tác nghiệm thu công trình kho VLNCN:** Sở Công Thương (Phòng QLCN chủ trì).
 - **PANM tại khu vực có công trình cần bảo vệ:** cơ quan cấp GP sử dụng VLNCN phê duyệt + văn bản đồng ý của UBND cấp tỉnh (điểm d khoản 2 Điều 38 Luật 42/2024). Thực tiễn Lào Cai: SCT thẩm định → Tờ trình → **Chủ tịch UBND tỉnh ký QĐ phê duyệt** (mẫu 06, 07).
 - **Huấn luyện, cấp GCN KTAT VLNCN:** UBND cấp tỉnh (NĐ 146/2025 phân cấp từ Bộ Công Thương).

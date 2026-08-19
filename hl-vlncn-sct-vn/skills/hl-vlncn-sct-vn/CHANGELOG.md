@@ -1,5 +1,8 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.3.0] - 19/8/2026
+- Ghi nhận **QĐ 2867/QĐ-UBND ngày 17/8/2026** — QĐ ủy quyền MỚI cùng lĩnh vực VLNCN (hiệu lực 20/8/2026 → hết 28/02/2027; PCT Nguyễn Thành Sinh ký; cùng gốc TTr 2205/TTr-SCT; báo cáo 06 tháng/01 năm). Bản ký lưu tại `sd-vlncn-sct-vn/van-ban-goc/`; ⚠ **chưa có Phụ lục danh mục** nên chưa xác định có bao trùm nhiệm vụ GCN huấn luyện hay không; chính văn không thay thế/bãi bỏ QĐ 1883. Thêm ref `01` mục **C-bis** (quy tắc tạm thời chọn căn cứ ủy quyền theo mốc 20/8/2026), cập nhật INDEX văn bản gốc + SKILL.md. **Chờ Bạn cung cấp Phụ lục QĐ 2867 để chốt.**
+
 ## [1.1.0] - 24/7/2026
 - Cập nhật khung xử phạt theo **NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): hành vi nhân lực chuyển **Đ50 cũ → Đ54 mới** (sử dụng người chưa huấn luyện 15–30 tr cá nhân + đình chỉ 3–6 tháng; không tổ chức huấn luyện 5–15 tr). Sửa SKILL.md (mục I, khung pháp lý 9, bảng thẩm quyền), ref 01, ref 06 §2 (kèm quy tắc chuyển tiếp Đ74), mẫu 12, INDEX văn bản gốc. Chi tiết chế tài chuyển về plugin dùng chung mới **`xp-hc-vlncn-sct-vn`** (bảng Đ53–61, thẩm quyền Đ62–73, đối chiếu cũ→mới, toàn văn NĐ 275/2026).
 

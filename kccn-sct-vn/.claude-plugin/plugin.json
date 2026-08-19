@@ -1,7 +1,7 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.20.0",
-  "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư, QĐ 2390/2026 vốn đầu tư công; NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc CCN Thống Nhất 1, Báo cáo họp UBND tỉnh 05/8/2026 và kỳ cập nhật 07/8/2026 (bộ theo dõi tiến độ + 02 phụ lục thu hút đầu tư theo mẫu năng lượng + mẫu báo cáo Zalo thứ 6 hằng tuần); kỳ 18/8/2026: bộ tiêu chí CHUẨN lựa chọn CĐT (điều kiện tiên quyết, thang 100 mới, Chủ tịch Hội đồng ký trực tiếp, quy trình thay thế QĐ 2778/QĐ-HĐ, tờ trình kèm phụ lục tiếp thu).",
+  "version": "1.21.0",
+  "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư, QĐ 2390/2026 vốn đầu tư công; NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc CCN Thống Nhất 1, Báo cáo họp UBND tỉnh 05/8/2026 và kỳ cập nhật 07/8/2026 (bộ theo dõi tiến độ + 02 phụ lục thu hút đầu tư theo mẫu năng lượng + mẫu báo cáo Zalo thứ 6 hằng tuần); kỳ 18/8/2026: bộ tiêu chí CHUẨN lựa chọn CĐT (điều kiện tiên quyết, thang 100 mới, Chủ tịch Hội đồng ký trực tiếp, quy trình thay thế QĐ 2778/QĐ-HĐ, tờ trình kèm phụ lục tiếp thu); kỳ 19/8/2026: Hội đồng thẩm định quy hoạch KCN của BQL các KCN tỉnh (QĐ 7 ngày 15/01 + QĐ 226 ngày 14/8/2026, SCT có 02 đại diện).",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   }

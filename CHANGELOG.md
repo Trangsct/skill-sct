@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-19 — kccn-sct-vn v1.21.0: Hội đồng thẩm định Quy hoạch các KCN do BQL các khu công nghiệp tỉnh quản lý (QĐ 7 + QĐ 226/QĐ-BQLCKCN)
+
+Bạn cung cấp 02 PDF bản scan; đã GATE số/ngày/người ký từ bản gốc (số/ngày điền tay — render ảnh để đọc): **QĐ 7/QĐ-BQLCKCN ngày 15/01/2026** thành lập Hội đồng thẩm định Quy hoạch các KCN do BQLCKCN quản lý và **QĐ 226/QĐ-BQLCKCN ngày 14/8/2026** điều chỉnh, bổ sung 06 thành viên — cả hai do Trưởng Ban Đỗ Việt Bách ký.
+
+- **`references/28-hdtd-quy-hoach-kcn-bqlckcn.md` (MỚI)**: phạm vi, nguyên tắc làm việc, cơ quan thường trực, danh sách thành viên Phụ lục QĐ 7 + bảng 06 điều chỉnh QĐ 226 (SCT có 02 đại diện từ 14/8/2026: PGĐ Nguyễn Đình Chiến thay Hoàng Văn Thuận, Phó TP QLCN Trần Trọng Trang thay Nguyễn Hồng Vân — cử theo VB 4926/SCT-CN 14/8/2026; bổ sung 02 người xã Việt Hồng chuẩn bị QH KCN Việt Hồng 1, 2); bẫy số văn bản trùng (NĐ 178/2025 ≠ NĐ 178/2026; QĐ 16/2025 ≠ QĐ 16/2026).
+- `van-ban-goc/`: 02 bản gốc PDF. `SKILL.md`: mục I.11 mới, bảng reference dòng 28, nguyên tắc VII.8, description. plugin.json → 1.21.0.
+
 ## 2026-08-15 — Bảo trì toàn bộ 19 plugin: dồn từ khóa kích hoạt vào 250 ký tự đầu của description, sửa 2 plugin vượt ngưỡng 1024
 
 Căn cứ: giới hạn cứng của trường description SKILL.md là 1024 ký tự; danh sách skill hiển thị cho Claude bị cắt ở ~250 ký tự đầu mỗi description — từ khóa nằm sau mốc này không tham gia quyết định kích hoạt skill. Rà toàn repo phát hiện: xp-hc-vlncn-sct-vn 1513 ký tự (mất trắng cụm từ khóa cuối), bpb-sct-vn 1045 ký tự + viết dạng block scalar >- (dạng cần tránh); 17 plugin còn lại hợp lệ nhưng từ khóa dồn ở cuối.

@@ -15,13 +15,26 @@
 | 3 | **Cấp, cấp lại Giấy phép kinh doanh VLNCN** | điểm c khoản 3 Điều 4 TT 23/2024 (TT 26/2026) | ⚠ MỚI so với bản 2024–2025. Điều kiện: DN nhà nước hoặc DN do DNNN nắm 100% vốn, **được Bộ trưởng BCT, BQP hoặc BCA giao nhiệm vụ** (điểm a k3 Đ34 — sửa bởi Luật 118/2025) |
 | 4 | **Cấp Giấy phép xuất khẩu, nhập khẩu VLNCN** | điểm d khoản 3 Điều 4 TT 23/2024 (TT 26/2026) | Hiệu lực thẩm quyền này **từ 01/7/2026** (k2 Đ27 TT 26/2026) |
 | 5 | **Tiếp nhận, phê duyệt nhiệm vụ nghiên cứu, phát triển, thử nghiệm sản phẩm VLN** không sử dụng NSNN | k2 Đ1 TT 26/2026 (thay Đ6 TT 23/2024) | Bổ sung hồ sơ 05 ngày làm việc; phê duyệt trong **30 ngày làm việc**; Mẫu 01–04 Phụ lục V mới |
-| 6 | **Huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN** | k1 Đ24 NĐ 146/2025 (thay cho k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024) | Đã **ủy quyền Giám đốc SCT** — QĐ 1883/QĐ-UBND ngày 06/11/2025, đến hết 28/02/2027. TTHC 2.000229, 2.000210 |
+| 6 | **Huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN** | k1 Đ24 NĐ 146/2025 (thay cho k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024) | Đã **ủy quyền Giám đốc SCT** — QĐ 1883/QĐ-UBND ngày 06/11/2025, đến hết 28/02/2027. TTHC 2.000229, 2.000210. Từ **20/8/2026** xem thêm **QĐ 2867/QĐ-UBND ngày 17/8/2026** (mục A-bis dưới) |
 | 7 | **Cấp GCN huấn luyện KTAT tiền chất thuốc nổ** | Điều 11 NĐ 181/2024 (cơ quan chuyên môn thuộc UBND cấp tỉnh) | = Sở Công Thương, trừ khối BQP |
 | 8 | **Ban hành văn bản đề nghị cấp Giấy phép dịch vụ nổ mìn** | (i) thềm lục địa / toàn quốc: k1 Đ23 NĐ 146/2025; (ii) **tại địa phương trong 01 tỉnh: điểm b k4 Đ40** (sửa bởi điểm b k7 Đ9 Luật 118/2025) | ⚠ Trường hợp (ii) là **quy định mới có hiệu lực 01/7/2026**. Cục KTAT&MTCN vẫn là cơ quan CẤP phép cả 3 hình thức; UBND tỉnh chỉ ra **văn bản đề nghị** |
 | 9 | **Quy định cơ quan có thẩm quyền tiếp nhận hồ sơ** GCN đủ điều kiện sản xuất TCTN và **Hệ thống thông tin giải quyết TTHC của tỉnh** là nơi nộp | k2 Đ23 NĐ 146/2025 + **k5 Đ44** (sửa bởi k8 Đ9 Luật 118/2025) | ✅ **ĐÃ THỰC HIỆN — QĐ 2272/QĐ-UBND ngày 29/6/2026** (hiệu lực 01/7/2026, PCT Nguyễn Thành Sinh ký): Điều 1 quy định **Sở Công Thương tỉnh Lào Cai là cơ quan tiếp nhận hồ sơ** cấp, cấp lại, cấp điều chỉnh; Điều 2 phân trách nhiệm SCT (chủ trì thẩm định, trình) – Công an tỉnh (phối hợp ANTT, PCCC) – các sở ngành – UBND cấp xã nơi có cơ sở. Toàn văn: `van-ban-goc/2026.06.29-2272.QD.UBND-...pdf` |
 | 10 | **Phê duyệt Phương án nổ mìn + văn bản đồng ý** khi nổ mìn tại khu vực có công trình, đối tượng cần bảo vệ | điểm d k2 Đ38; điểm d k1 Đ39 | UBND tỉnh vừa là *cơ quan cấp GP sử dụng* (phê duyệt PANM) vừa là *cơ quan đồng ý bằng văn bản* → thực tiễn Lào Cai gộp 01 Quyết định (mẫu 11) |
 
 **Thu hồi:** cơ quan cấp = cơ quan thu hồi (Đ17 NĐ 181/2024, Mẫu 05). Các trường hợp thu hồi: khoản 5 Điều 9 + Điều 10 VBHN 78.
+
+---
+
+## A-bis. QĐ 2867/QĐ-UBND ngày 17/8/2026 — ỦY QUYỀN GĐ SCT LĨNH VỰC VLNCN (hiệu lực 20/8/2026)
+
+Bản ký thật (GATE render ảnh 19/8/2026, số/ngày ở trường ký số): `van-ban-goc/2026.08.17-2867.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf`. PCT **Nguyễn Thành Sinh** ký; trình tại TTr 2205/TTr-SCT ngày 28/10/2025 (cùng Tờ trình với QĐ 1883); căn cứ có thêm **TT 26/2026/TT-BCT** và NĐ 139/2025.
+
+- **Đ1 — Nội dung, phạm vi:** ủy quyền GĐ SCT thực hiện **một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN** trên địa bàn tỉnh — *danh mục chi tiết tại Phụ lục kèm theo*.
+- **Đ2 — Thời hạn:** từ **20/8/2026** đến hết **28/02/2027** (trùng ngày kết thúc với QĐ 1883), trừ khi pháp luật/văn bản cấp thẩm quyền điều chỉnh, thay thế.
+- **Đ3 — Tổ chức thực hiện:** GĐ SCT chịu trách nhiệm toàn diện; **không được ủy quyền tiếp**; công bố TTHC thuộc nhiệm vụ ủy quyền; **dùng hình thức văn bản, con dấu của SCT**; báo cáo UBND tỉnh **định kỳ 06 tháng, 01 năm** hoặc đột xuất (dày hơn QĐ 1883 — hằng năm).
+- **Đ4:** hiệu lực từ 20/8/2026. **Chính văn KHÔNG có điều khoản thay thế/bãi bỏ QĐ 1883/QĐ-UBND.**
+
+> ⚠ **CHƯA ĐỦ DỮ LIỆU KẾT LUẬN PHẠM VI:** file bản ký hiện có **chỉ 2 trang chính văn, KHÔNG kèm Phụ lục danh mục**. Vì vậy **chưa biết** QĐ 2867 ủy quyền những nhiệm vụ nào (chỉ GCN huấn luyện như QĐ 1883 hay mở rộng sang GP sử dụng VLNCN, GCN sản xuất TCTN, GP kinh doanh/XNK VLNCN…). **Trước khi ký bất kỳ văn bản nào nhân danh ủy quyền từ 20/8/2026 hoặc khẳng định "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký": phải đối chiếu Phụ lục QĐ 2867 (hỏi Bạn cung cấp bản Phụ lục).** Các dòng A1, A6 và ghi chú liên quan trong bộ skill giữ nguyên theo hiện trạng trước 20/8/2026 cho đến khi có Phụ lục.
 
 ---
 

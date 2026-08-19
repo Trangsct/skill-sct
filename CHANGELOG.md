@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-19 — QĐ 2867/QĐ-UBND ngày 17/8/2026: ủy quyền GĐ SCT lĩnh vực VLNCN (sd-vlncn v2026.8.19, hl-vlncn v1.3.0, kho-vlncn v1.7.0)
+
+Bạn cung cấp bản PDF ký số (tên file ghi "1.8.2026" nhưng bản ký ghi **17/8/2026** — GATE bằng render ảnh vì số/ngày nằm ở trường ký số): **QĐ 2867/QĐ-UBND ngày 17/8/2026** của UBND tỉnh Lào Cai ủy quyền GĐ SCT thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN; hiệu lực **20/8/2026 → hết 28/02/2027**; PCT Nguyễn Thành Sinh ký; trình tại TTr 2205/TTr-SCT 28/10/2025 (cùng TTr với QĐ 1883); Đ3: không ủy quyền tiếp, dùng văn bản/con dấu SCT, báo cáo 06 tháng/01 năm/đột xuất.
+
+⚠ **File chỉ có 2 trang chính văn, KHÔNG kèm Phụ lục danh mục ủy quyền** → chưa kết luận được phạm vi (chỉ GCN huấn luyện như QĐ 1883 hay mở rộng GP sử dụng VLNCN…); chính văn không thay thế/bãi bỏ QĐ 1883. Đã gắn cảnh báo "đối chiếu Phụ lục trước khi viện dẫn/xác định người ký từ 20/8/2026" tại cả 3 plugin. **Chờ Bạn cung cấp Phụ lục QĐ 2867 để chốt.**
+
+- **sd-vlncn-sct-vn → 2026.8.19**: bản ký vào `van-ban-goc/` + INDEX; ref 10 thêm mục **A-bis**; ref 01 mục 9 thêm bullet; SKILL.md II.11 + bảng III.
+- **hl-vlncn-sct-vn → 1.3.0**: ref 01 thêm mục **C-bis** (quy tắc tạm thời chọn căn cứ ủy quyền theo mốc 20/8/2026); INDEX văn bản gốc; SKILL.md.
+- **kho-vlncn-sct-vn → 1.7.0**: gắn mốc thời gian vào khẳng định "GP sử dụng do Chủ tịch UBND tỉnh ký" (SKILL.md mục IV, ref 01 mục IV).
+
 ## 2026-08-19 — kccn-sct-vn v1.21.0: Hội đồng thẩm định Quy hoạch các KCN do BQL các khu công nghiệp tỉnh quản lý (QĐ 7 + QĐ 226/QĐ-BQLCKCN)
 
 Bạn cung cấp 02 PDF bản scan; đã GATE số/ngày/người ký từ bản gốc (số/ngày điền tay — render ảnh để đọc): **QĐ 7/QĐ-BQLCKCN ngày 15/01/2026** thành lập Hội đồng thẩm định Quy hoạch các KCN do BQLCKCN quản lý và **QĐ 226/QĐ-BQLCKCN ngày 14/8/2026** điều chỉnh, bổ sung 06 thành viên — cả hai do Trưởng Ban Đỗ Việt Bách ký.

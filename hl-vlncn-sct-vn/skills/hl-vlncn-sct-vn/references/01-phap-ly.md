@@ -83,6 +83,11 @@ Bản ký (PDF, GATE đã xác minh số/ngày/người ký 09/8/2026): `van-ban
 - **Điều 3**: GĐ SCT chịu trách nhiệm toàn diện; **không được ủy quyền tiếp**; triển khai TTHC đã/khi được công bố; bố trí nguồn lực; **dùng hình thức văn bản, con dấu của Sở Công Thương**; hướng dẫn, kiểm tra, theo dõi; **báo cáo UBND tỉnh hằng năm hoặc đột xuất**.
 - Người ký: TM. UBND, KT. CHỦ TỊCH, PCT **Nguyễn Thành Sinh**. (Hồ sơ trình: TTr 2205/TTr-SCT ngày 28/10/2025 của SCT; văn bản chỉ đạo gốc: CV /UBND-KT của UBND tỉnh giao SCT chủ trì, phối hợp Sở Tư pháp tham mưu trước 15/9/2025.)
 
+### C-bis. QĐ 2867/QĐ-UBND ngày 17/8/2026 — QĐ ủy quyền MỚI cùng lĩnh vực (hiệu lực 20/8/2026)
+UBND tỉnh ban hành **QĐ 2867/QĐ-UBND ngày 17/8/2026** (PCT Nguyễn Thành Sinh ký; cùng tên "Ủy quyền cho GĐ SCT… lĩnh vực VLNCN"; cùng gốc TTr 2205/TTr-SCT 28/10/2025; căn cứ bổ sung TT 26/2026/TT-BCT): ủy quyền GĐ SCT một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN theo **Phụ lục kèm theo**; thời hạn **20/8/2026 → hết 28/02/2027**; báo cáo UBND tỉnh **06 tháng, 01 năm** hoặc đột xuất (dày hơn QĐ 1883). Bản ký: `sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf`.
+- ⚠ **Bản lưu CHƯA có Phụ lục danh mục** → chưa xác định QĐ 2867 có bao trùm/mở rộng nhiệm vụ GCN huấn luyện (TTHC 2.000229, 2.000210) hay không; chính văn **không có điều khoản thay thế/bãi bỏ QĐ 1883**.
+- **Quy tắc tạm thời:** văn bản ban hành **trước 20/8/2026** viện dẫn QĐ 1883 như cũ. Văn bản **từ 20/8/2026**: đối chiếu Phụ lục QĐ 2867 trước khi chọn căn cứ ủy quyền (hỏi Bạn cung cấp Phụ lục); nếu Phụ lục 2867 chứa nhiệm vụ huấn luyện thì cân nhắc dẫn QĐ 2867 (văn bản mới nhất) — chốt sau khi có Phụ lục.
+
 ## D. Văn bản liên quan khác
 - **Luật 42/2024/QH15 ngày 29/6/2024** — nền của toàn lĩnh vực VLNCN (điều kiện sử dụng Đ38, hồ sơ GP Đ39 → xem `sd-vlncn-sct-vn`).
 - **TT 23/2024/TT-BCT ngày 07/11/2024** + **TT 38/2025/TT-BCT ngày 19/6/2025** — quản lý, sử dụng VLNCN, TCTN thuộc BCT; phân cấp TTHC (căn cứ trong QĐ công nhận kết quả).

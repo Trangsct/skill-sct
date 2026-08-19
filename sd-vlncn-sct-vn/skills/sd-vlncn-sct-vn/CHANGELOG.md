@@ -1,5 +1,11 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-08-19 (bổ sung — Phụ lục QĐ 2867)
+- **sd-vlncn-sct-vn [2026.8.19.1]**: Bạn cung cấp **Phụ lục danh mục ủy quyền QĐ 2867** (bản Word trình, số/ngày QĐ để trống) → **CHỐT PHẠM VI**: danh mục chỉ 01 nhiệm vụ — **cấp, cấp lại, cấp điều chỉnh GP SỬ DỤNG VLNCN** (căn cứ k1 Đ1 TT 26/2026; TTHC cấp + cấp lại, cột mã để trống). **Từ 20/8/2026 GP sử dụng VLNCN do GĐ SCT ký, dùng văn bản/con dấu SCT** — không còn trình Chủ tịch UBND tỉnh ký `/GP-UBND`. KHÔNG gồm GCN huấn luyện (vẫn QĐ 1883, song song đến 28/02/2027), GCN sản xuất TCTN, GP kinh doanh/XNK, phê duyệt PANM.
+  - Gỡ toàn bộ cảnh báo "chưa có Phụ lục": ref 10 (A-bis viết lại — bảng Phụ lục + 5 hệ quả nghiệp vụ; dòng A1), ref 01 mục 9, SKILL.md (II.11, bảng III dòng GP + dòng thu hồi), INDEX văn bản gốc.
+  - `van-ban-goc/` thêm `2026.08.17-2867.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-trinh.docx`; có bản ký Phụ lục thì thay.
+  - **Mở:** ký hiệu GP theo mẫu mới do Sở ban hành chưa có tiền lệ; hồ sơ đang xử lý dở tại mốc 20/8/2026 cần rà chuyển tiếp — cập nhật khi có GP đầu tiên GĐ SCT ký.
+
 ## 2026-08-19
 - **sd-vlncn-sct-vn [2026.8.19]**: **QĐ 2867/QĐ-UBND ngày 17/8/2026** — UBND tỉnh ủy quyền GĐ SCT thực hiện một số nhiệm vụ, quyền hạn trong lĩnh vực VLNCN; hiệu lực **20/8/2026 → hết 28/02/2027**; PCT Nguyễn Thành Sinh ký; trình tại TTr 2205/TTr-SCT 28/10/2025 (cùng TTr với QĐ 1883); Đ3: không ủy quyền tiếp, dùng văn bản/con dấu SCT, báo cáo 06 tháng/01 năm/đột xuất. GATE bằng render ảnh (số/ngày ở trường ký số; tên file Bạn gửi ghi "1.8.2026" nhưng bản ký ghi 17/8/2026).
   - ⚠ **Bản PDF chỉ có 2 trang chính văn, KHÔNG kèm Phụ lục danh mục ủy quyền** → chưa kết luận được phạm vi (chỉ GCN huấn luyện như QĐ 1883 hay mở rộng GP sử dụng VLNCN…); chính văn không thay thế/bãi bỏ QĐ 1883. Đã gắn cảnh báo "đối chiếu Phụ lục trước khi viện dẫn/xác định người ký từ 20/8/2026" tại SKILL.md (II.11, bảng III) và các references.

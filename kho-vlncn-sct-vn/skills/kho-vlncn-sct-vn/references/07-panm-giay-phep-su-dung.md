@@ -43,7 +43,7 @@ Nội dung chính của QĐ (Điều 1): vị trí, phạm vi sử dụng VLNCN 
 
 ## V. GIẤY PHÉP SỬ DỤNG VLNCN — KHUNG THẨM ĐỊNH NHANH
 
-**Thẩm quyền (TT 38/2025):** UBND cấp tỉnh — trừ (i) tổ chức nghiên cứu/thử nghiệm VLNCN hoặc có GP hoạt động khoáng sản do Bộ NN&MT cấp → Cục KTAT&MTCN; (ii) thuộc Bộ Quốc phòng. Tại Lào Cai: kiểm tra QĐ ủy quyền hiện hành (QĐ 1883/QĐ-UBND ngày 06/11/2025 — xác minh trước khi dẫn).
+**Thẩm quyền (Đ4 TT 23/2024 bản TT 26/2026):** UBND cấp tỉnh — trừ (i) tổ chức nghiên cứu/thử nghiệm VLNCN hoặc có GP hoạt động khoáng sản do Bộ NN&MT cấp → Cục KTAT&MTCN; (ii) thuộc Bộ Quốc phòng. Tại Lào Cai: đến 19/8/2026 Chủ tịch UBND tỉnh ký `/GP-UBND`; **từ 20/8/2026 GĐ SCT ký theo ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026** (đến hết 28/02/2027; QĐ 1883 chỉ về GCN huấn luyện).
 
 **Hồ sơ (khoản 1 Điều 39 Luật 42/2024, đã sửa Luật 118/2025):**
 a) Văn bản đề nghị (mẫu TT 23/2024): tên, địa chỉ; lý do; số lượng, chủng loại; người đại diện; số QĐ thành lập/ĐKDN; **số GCN đủ điều kiện ANTT**;

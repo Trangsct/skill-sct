@@ -10,7 +10,7 @@
 
 | # | Nội dung | Căn cứ | Ghi chú tại Lào Cai |
 |---|---|---|---|
-| 1 | **Cấp, cấp lại, cấp điều chỉnh Giấy phép sử dụng VLNCN** cho tổ chức, DN trên địa bàn | điểm a khoản 3 Điều 4 TT 23/2024 (bản thay bởi k1 Đ1 **TT 26/2026**) | Chủ tịch UBND tỉnh ký **GP-UBND**; SCT thẩm định, trình. TRỪ: đối tượng của Cục KTAT&MTCN và khối BQP |
+| 1 | **Cấp, cấp lại, cấp điều chỉnh Giấy phép sử dụng VLNCN** cho tổ chức, DN trên địa bàn | điểm a khoản 3 Điều 4 TT 23/2024 (bản thay bởi k1 Đ1 **TT 26/2026**) | Đến 19/8/2026: Chủ tịch UBND tỉnh ký **GP-UBND**; SCT thẩm định, trình. ⭐ **Từ 20/8/2026: đã ỦY QUYỀN GĐ SCT** (QĐ 2867/QĐ-UBND ngày 17/8/2026, đến hết 28/02/2027 — mục A-bis) — GĐ SCT ký, dùng văn bản/con dấu SCT. TRỪ: đối tượng của Cục KTAT&MTCN và khối BQP |
 | 2 | **Cấp, cấp điều chỉnh GCN đủ điều kiện sản xuất tiền chất thuốc nổ** | điểm b khoản 3 Điều 4 TT 23/2024 (TT 26/2026); k2 Đ23 NĐ 146/2025 | ⭐ **Sở Công Thương là cơ quan tiếp nhận hồ sơ** — **QĐ 2272/QĐ-UBND ngày 29/6/2026** (hiệu lực 01/7/2026); SCT chủ trì, phối hợp **Công an tỉnh** thẩm định ANTT + PCCC (Đ2). Chưa phát sinh hồ sơ |
 | 3 | **Cấp, cấp lại Giấy phép kinh doanh VLNCN** | điểm c khoản 3 Điều 4 TT 23/2024 (TT 26/2026) | ⚠ MỚI so với bản 2024–2025. Điều kiện: DN nhà nước hoặc DN do DNNN nắm 100% vốn, **được Bộ trưởng BCT, BQP hoặc BCA giao nhiệm vụ** (điểm a k3 Đ34 — sửa bởi Luật 118/2025) |
 | 4 | **Cấp Giấy phép xuất khẩu, nhập khẩu VLNCN** | điểm d khoản 3 Điều 4 TT 23/2024 (TT 26/2026) | Hiệu lực thẩm quyền này **từ 01/7/2026** (k2 Đ27 TT 26/2026) |
@@ -29,12 +29,23 @@
 
 Bản ký thật (GATE render ảnh 19/8/2026, số/ngày ở trường ký số): `van-ban-goc/2026.08.17-2867.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf`. PCT **Nguyễn Thành Sinh** ký; trình tại TTr 2205/TTr-SCT ngày 28/10/2025 (cùng Tờ trình với QĐ 1883); căn cứ có thêm **TT 26/2026/TT-BCT** và NĐ 139/2025.
 
-- **Đ1 — Nội dung, phạm vi:** ủy quyền GĐ SCT thực hiện **một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN** trên địa bàn tỉnh — *danh mục chi tiết tại Phụ lục kèm theo*.
+- **Đ1 — Nội dung, phạm vi:** ủy quyền GĐ SCT thực hiện **một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN** trên địa bàn tỉnh — danh mục tại Phụ lục kèm theo (dưới).
 - **Đ2 — Thời hạn:** từ **20/8/2026** đến hết **28/02/2027** (trùng ngày kết thúc với QĐ 1883), trừ khi pháp luật/văn bản cấp thẩm quyền điều chỉnh, thay thế.
 - **Đ3 — Tổ chức thực hiện:** GĐ SCT chịu trách nhiệm toàn diện; **không được ủy quyền tiếp**; công bố TTHC thuộc nhiệm vụ ủy quyền; **dùng hình thức văn bản, con dấu của SCT**; báo cáo UBND tỉnh **định kỳ 06 tháng, 01 năm** hoặc đột xuất (dày hơn QĐ 1883 — hằng năm).
-- **Đ4:** hiệu lực từ 20/8/2026. **Chính văn KHÔNG có điều khoản thay thế/bãi bỏ QĐ 1883/QĐ-UBND.**
+- **Đ4:** hiệu lực từ 20/8/2026. **Chính văn KHÔNG có điều khoản thay thế/bãi bỏ QĐ 1883/QĐ-UBND** → hai QĐ chạy song song, phạm vi khác nhau.
 
-> ⚠ **CHƯA ĐỦ DỮ LIỆU KẾT LUẬN PHẠM VI:** file bản ký hiện có **chỉ 2 trang chính văn, KHÔNG kèm Phụ lục danh mục**. Vì vậy **chưa biết** QĐ 2867 ủy quyền những nhiệm vụ nào (chỉ GCN huấn luyện như QĐ 1883 hay mở rộng sang GP sử dụng VLNCN, GCN sản xuất TCTN, GP kinh doanh/XNK VLNCN…). **Trước khi ký bất kỳ văn bản nào nhân danh ủy quyền từ 20/8/2026 hoặc khẳng định "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký": phải đối chiếu Phụ lục QĐ 2867 (hỏi Bạn cung cấp bản Phụ lục).** Các dòng A1, A6 và ghi chú liên quan trong bộ skill giữ nguyên theo hiện trạng trước 20/8/2026 cho đến khi có Phụ lục.
+### Phụ lục danh mục ủy quyền (bản Word trình — `van-ban-goc/2026.08.17-2867.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-trinh.docx`, Bạn cung cấp 19/8/2026)
+
+| STT | Nhiệm vụ ủy quyền | Căn cứ | TTHC kèm theo |
+|---|---|---|---|
+| 1 (duy nhất) | **Cấp, cấp lại, cấp điều chỉnh GP sử dụng VLNCN** cho các tổ chức, DN sử dụng VLN trên địa bàn (thẩm quyền phân cấp cho UBND tỉnh) | **k1 Đ1 TT 26/2026/TT-BCT** ngày 20/5/2026 | "Cấp GP sử dụng VLNCN thuộc thẩm quyền giải quyết của UBND cấp tỉnh"; "Cấp lại GP sử dụng VLNCN…" — lĩnh vực VLNCN; **cột mã TTHC để trống trong bản trình** |
+
+**Hệ quả nghiệp vụ từ 20/8/2026:**
+- **GP sử dụng VLNCN (cấp/cấp lại/cấp điều chỉnh) do GĐ SCT ký**, dùng hình thức văn bản, con dấu của SCT — không còn trình Chủ tịch UBND tỉnh ký `/GP-UBND` (hồ sơ đã tiếp nhận đang xử lý dở: rà điều khoản chuyển tiếp/xin ý kiến lãnh đạo Sở; ký hiệu GP theo mẫu mới của Sở — **chưa có tiền lệ, cập nhật khi có GP đầu tiên**).
+- **Thu hồi** GP sử dụng: cơ quan cấp = cơ quan thu hồi (Đ17 NĐ 181/2024) — với GP do GĐ SCT ký theo ủy quyền, việc thu hồi thực hiện trong phạm vi ủy quyền; trường hợp phức tạp xin ý kiến UBND tỉnh.
+- **Phạm vi KHÔNG ủy quyền tại QĐ 2867** (vẫn UBND tỉnh/Chủ tịch UBND tỉnh): GCN đủ điều kiện sản xuất TCTN (A2), GP kinh doanh VLNCN (A3), GP XNK VLNCN (A4), phê duyệt nhiệm vụ nghiên cứu (A5), văn bản đề nghị GP dịch vụ nổ mìn (A8), phê duyệt PANM + văn bản đồng ý điểm d k2 Đ38 (A10 — QĐ phê duyệt PANM vẫn Chủ tịch UBND tỉnh ký).
+- **GCN huấn luyện KTAT VLNCN**: không nằm trong Phụ lục QĐ 2867 — tiếp tục theo **QĐ 1883/QĐ-UBND** (A6), căn cứ viện dẫn cho huấn luyện giữ nguyên.
+- Hai QĐ ủy quyền song song cùng hết hạn **28/02/2027** — theo dõi việc ban hành QĐ ủy quyền giai đoạn tiếp theo trước mốc này.
 
 ---
 

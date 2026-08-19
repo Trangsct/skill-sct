@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-19 — Phụ lục QĐ 2867: CHỐT từ 20/8/2026 GĐ SCT ký GP sử dụng VLNCN (sd-vlncn v2026.8.19.1, hl-vlncn v1.3.1, kho-vlncn v1.7.1)
+
+Bạn cung cấp **Phụ lục danh mục ủy quyền kèm QĐ 2867/QĐ-UBND** (bản Word trình, số/ngày QĐ để trống) → gỡ toàn bộ cảnh báo "chưa có Phụ lục" của đợt trước:
+
+- **Phạm vi chốt:** danh mục CHỈ 01 nhiệm vụ — **cấp, cấp lại, cấp điều chỉnh GP SỬ DỤNG VLNCN** cho tổ chức, DN trên địa bàn (căn cứ k1 Đ1 TT 26/2026/TT-BCT; TTHC cấp + cấp lại, cột mã để trống trong bản trình). **Từ 20/8/2026 GP sử dụng VLNCN do GĐ SCT ký, dùng văn bản/con dấu SCT** — không còn trình Chủ tịch UBND tỉnh ký `/GP-UBND`.
+- **KHÔNG bao gồm:** GCN huấn luyện KTAT (vẫn theo QĐ 1883 — hai QĐ song song, cùng hết hạn 28/02/2027), GCN sản xuất TCTN, GP kinh doanh/XNK VLNCN, phê duyệt PANM (vẫn Chủ tịch UBND tỉnh).
+- **sd-vlncn → 2026.8.19.1**: Phụ lục vào `van-ban-goc/` + INDEX; ref 10 A-bis viết lại (bảng Phụ lục + 5 hệ quả nghiệp vụ); ref 01 mục 9; SKILL.md (II.11, bảng III dòng GP + thu hồi). **hl-vlncn → 1.3.1**: huấn luyện tiếp tục viện dẫn QĐ 1883, gỡ quy tắc tạm thời (ref 01 C-bis, INDEX, SKILL.md). **kho-vlncn → 1.7.1**: cập nhật người ký GP sử dụng (SKILL.md IV, ref 01 IV, ref 07).
+- **Mở:** ký hiệu GP mẫu mới của Sở chưa có tiền lệ; hồ sơ đang xử lý dở tại mốc 20/8/2026 cần rà chuyển tiếp — cập nhật khi có GP đầu tiên GĐ SCT ký. Có bản ký Phụ lục thì thay bản trình.
+
 ## 2026-08-19 — QĐ 2867/QĐ-UBND ngày 17/8/2026: ủy quyền GĐ SCT lĩnh vực VLNCN (sd-vlncn v2026.8.19, hl-vlncn v1.3.0, kho-vlncn v1.7.0)
 
 Bạn cung cấp bản PDF ký số (tên file ghi "1.8.2026" nhưng bản ký ghi **17/8/2026** — GATE bằng render ảnh vì số/ngày nằm ở trường ký số): **QĐ 2867/QĐ-UBND ngày 17/8/2026** của UBND tỉnh Lào Cai ủy quyền GĐ SCT thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực VLNCN; hiệu lực **20/8/2026 → hết 28/02/2027**; PCT Nguyễn Thành Sinh ký; trình tại TTr 2205/TTr-SCT 28/10/2025 (cùng TTr với QĐ 1883); Đ3: không ủy quyền tiếp, dùng văn bản/con dấu SCT, báo cáo 06 tháng/01 năm/đột xuất.

@@ -1,5 +1,8 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.3.1] - 19/8/2026 (bổ sung — Phụ lục QĐ 2867)
+- Bạn cung cấp Phụ lục danh mục QĐ 2867 (bản trình) → **CHỐT: QĐ 2867 chỉ ủy quyền GP SỬ DỤNG VLNCN, KHÔNG bao gồm GCN huấn luyện** → nhiệm vụ huấn luyện tiếp tục viện dẫn QĐ 1883/QĐ-UBND như cũ, không đổi căn cứ; gỡ "quy tắc tạm thời" tại ref 01 C-bis, cập nhật INDEX + SKILL.md. Hai QĐ song song cùng hết hạn 28/02/2027 — khi tham mưu ủy quyền giai đoạn sau, đề xuất gộp một QĐ.
+
 ## [1.3.0] - 19/8/2026
 - Ghi nhận **QĐ 2867/QĐ-UBND ngày 17/8/2026** — QĐ ủy quyền MỚI cùng lĩnh vực VLNCN (hiệu lực 20/8/2026 → hết 28/02/2027; PCT Nguyễn Thành Sinh ký; cùng gốc TTr 2205/TTr-SCT; báo cáo 06 tháng/01 năm). Bản ký lưu tại `sd-vlncn-sct-vn/van-ban-goc/`; ⚠ **chưa có Phụ lục danh mục** nên chưa xác định có bao trùm nhiệm vụ GCN huấn luyện hay không; chính văn không thay thế/bãi bỏ QĐ 1883. Thêm ref `01` mục **C-bis** (quy tắc tạm thời chọn căn cứ ủy quyền theo mốc 20/8/2026), cập nhật INDEX văn bản gốc + SKILL.md. **Chờ Bạn cung cấp Phụ lục QĐ 2867 để chốt.**
 

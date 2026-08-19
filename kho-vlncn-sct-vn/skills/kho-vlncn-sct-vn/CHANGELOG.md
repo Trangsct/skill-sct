@@ -1,5 +1,8 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.7.1] - 19/8/2026 (bổ sung — Phụ lục QĐ 2867)
+- Phụ lục QĐ 2867 (bản trình) chốt phạm vi: **từ 20/8/2026 GP sử dụng VLNCN do GĐ SCT ký theo ủy quyền** (cấp/cấp lại/cấp điều chỉnh; không gồm phê duyệt PANM, GCN sản xuất TCTN, GCN huấn luyện). Gỡ cảnh báo "chưa rõ người ký": SKILL.md mục IV, ref 01 mục IV, ref 07 (thẩm quyền GP sử dụng).
+
 ## [1.7.0] - 19/8/2026
 - Ghi nhận **QĐ 2867/QĐ-UBND ngày 17/8/2026** (hiệu lực 20/8/2026 → hết 28/02/2027) — ủy quyền GĐ SCT một số nhiệm vụ, quyền hạn của UBND tỉnh lĩnh vực VLNCN theo Phụ lục (bản ký lưu `sd-vlncn-sct-vn/van-ban-goc/`; **chưa có Phụ lục danh mục**). Gắn mốc thời gian vào khẳng định "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký" (đúng đến 19/8/2026; từ 20/8/2026 phải đối chiếu Phụ lục QĐ 2867): sửa SKILL.md mục IV + ref 01 mục IV.
 

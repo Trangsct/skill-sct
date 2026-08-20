@@ -1,20 +1,35 @@
-# Mẫu 01 — GIẤY PHÉP SỬ DỤNG VLNCN (mỏ khoáng sản, Chủ tịch UBND tỉnh ký)
+# Mẫu 01 — GIẤY PHÉP SỬ DỤNG VLNCN (mỏ khoáng sản)
 
-> Thể thức: văn bản UBND tỉnh; header trái "ỦY BAN NHÂN DÂN / TỈNH LÀO CAI"; Số:      /GP-UBND; địa danh "Lào Cai, ngày… tháng… năm 20…". Khi soạn docx: dùng khung file thật MỚI NHẤT `vi-du-thuc-te/GP-du-thao-cap-moi-Thanh-Huong-29.7.2026.docx` (bản chốt PTP Trang 30/7/2026: đủ căn cứ TT 26/2026, TT 38/2025 tách đoạn riêng không "về việc", 3 đường Line khớp bản ký GP 2507, ô ngày trống cả ngày lẫn tháng, dòng ngày nghiêng 13pt); khung cũ `GP-mo-da-My-Gia.docx` chỉ dùng đối chiếu. Chế độ B vbhc-vn; đối chiếu thể thức với bản ký `GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf`.
+> ⭐ **MỐC 20/8/2026 — ỦY QUYỀN QĐ 2867/QĐ-UBND ngày 17/8/2026** (hiệu lực 20/8/2026 → hết 28/02/2027):
+> **cấp, cấp lại, cấp điều chỉnh Giấy phép sử dụng VLNCN** do **GIÁM ĐỐC SỞ CÔNG THƯƠNG** thực hiện,
+> dùng **hình thức văn bản, con dấu của Sở Công Thương** (điểm c khoản 2 Điều 3 QĐ 2867) — không còn
+> trình Chủ tịch UBND tỉnh ký `/GP-UBND`. Phạm vi ủy quyền CHỈ có nhiệm vụ này (Phụ lục QĐ 2867);
+> **phê duyệt PANM + văn bản đồng ý theo điểm d khoản 2 Điều 38 vẫn thuộc Chủ tịch UBND tỉnh.**
+> Chi tiết: reference `10` mục A-bis.
+
+**Bản A dưới đây là bản MẶC ĐỊNH dùng từ 20/8/2026 (Giám đốc Sở ký). Bản B ở cuối file là khuôn cũ (Chủ tịch UBND tỉnh ký) — chỉ để tra cứu, đối chiếu giấy phép đã ban hành trước 20/8/2026 và soạn văn bản sửa đổi các giấy phép đó.**
+
+## BẢN A — TỪ 20/8/2026 (GIÁM ĐỐC SỞ CÔNG THƯƠNG KÝ)
+
+> Thể thức bản A: văn bản của **Sở Công Thương**; header trái "UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG"; **Số:      /GP-SCT**; địa danh "Lào Cai, ngày… tháng… năm 20…". ⚠ **Ký hiệu `/GP-SCT` là suy luận theo thông lệ của Sở (HHNH đã dùng `/GP-SCT` sau ủy quyền QĐ 1696) — chưa có giấy phép sử dụng VLNCN nào ban hành theo khuôn mới; xác nhận với Văn thư/Bạn trước khi phát hành bản đầu tiên rồi cập nhật lại mẫu này.** Khi soạn docx: dùng khung file thật MỚI NHẤT `vi-du-thuc-te/GP-du-thao-cap-moi-Thanh-Huong-29.7.2026.docx` (bản chốt PTP Trang 30/7/2026: đủ căn cứ TT 26/2026, TT 38/2025 tách đoạn riêng không "về việc", 3 đường Line khớp bản ký GP 2507, ô ngày trống cả ngày lẫn tháng, dòng ngày nghiêng 13pt); khung cũ `GP-mo-da-My-Gia.docx` chỉ dùng đối chiếu. Chế độ B vbhc-vn; đối chiếu thể thức với bản ký `GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf`.
 
 ---
 
 **GIẤY PHÉP SỬ DỤNG VẬT LIỆU NỔ CÔNG NGHIỆP**
 
-**CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI**
+**GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI**
 
 Căn cứ Luật Tổ chức chính quyền địa phương ngày 16/6/2025;
 Căn cứ Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 29/6/2024;
 Căn cứ Nghị định số 181/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ; Nghị định số 146/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực công nghiệp và thương mại;
 Căn cứ Thông tư số 23/2024/TT-BCT ngày 07/11/2024 của Bộ trưởng Bộ Công Thương quy định về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Công Thương; Thông tư số 38/2025/TT-BCT ngày 19/6/2025 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
-Căn cứ Thông tư số 26/2026/TT-BCT ngày 20/5/2026 của Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
+Căn cứ Thông tư số 26/2026/TT-BCT ngày 20/5/2026 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
+Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của Ủy ban nhân dân tỉnh Lào Cai về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
+Căn cứ Quyết định số 2867/QĐ-UBND ngày 17/8/2026 của Ủy ban nhân dân tỉnh Lào Cai về việc Ủy quyền cho Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của Ủy ban nhân dân tỉnh trong lĩnh vực vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai;
 Xét đề nghị của 【tên doanh nghiệp】 tại Giấy đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp số 【…】 ngày 【…】;
-Theo đề nghị của Sở Công Thương tại Tờ trình số 【…】/TTr-SCT ngày 【…】.
+Theo đề nghị của Trưởng phòng Quản lý công nghiệp.
+
+> Lưu ý: bản A **bỏ** dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …/TTr-SCT" — Sở không còn trình chính mình; thay bằng dòng "Theo đề nghị của Trưởng phòng Quản lý công nghiệp" theo khuôn giấy phép cũ do Sở ký (đối chiếu GP 20/GP-SCT ngày 21/8/2024 của Cty TNHH Khoáng sản Bản Cầm, mục "Theo đề nghị của Trưởng phòng Kỹ thuật An toàn và Môi trường").
 
 **QUYẾT ĐỊNH:**
 
@@ -32,5 +47,17 @@ Trụ sở tại: 【địa chỉ】. Điện thoại: 【…】.
 
 **Điều 3.** Giấy phép này có giá trị 【05 năm kể từ ngày ký ban hành / đến hết ngày … — không vượt thời hạn Giấy phép khai thác】./.
 
-Nơi nhận: Chủ tịch UBND tỉnh; PCT UBND tỉnh Nguyễn Thành Sinh; Sở Công Thương; Công an tỉnh; UBND xã 【…】; 【doanh nghiệp】; CVP, PCVP UBND tỉnh (Bích); Lưu: VT, TTPVHCC, KT.
+Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06); UBND xã 【…】; Trung tâm Phục vụ hành chính công tỉnh; GĐ, PGĐ Sở (Hoàng Văn Thuân); Lưu: VT, CN(Khôi).
+
+**Người ký:** ⚠ **điểm phải chốt với Lãnh đạo Sở trước giấy phép đầu tiên.** Hai tiền lệ nội bộ đang khác nhau:
+> - **QĐ 1883** (huấn luyện KTAT): nhiệm vụ ủy quyền đích danh Giám đốc → **Giám đốc Hoàng Chí Hiền ký trực tiếp**; Giám đốc vắng thì Phó Giám đốc ký phải kèm **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ GUQ 2180/GUQ-SCT ngày 21/4/2026).
+> - **QĐ 1696 / QĐ 2848** (HHNH): thực tế Sở ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**, coi là phân công nội bộ trong khuôn khổ ủy quyền cho Giám đốc, không phải "ủy quyền tiếp".
+>
+> QĐ 2867 điểm a khoản 2 Điều 3 chỉ ghi "Không được uỷ quyền tiếp nhiệm vụ, quyền hạn mà mình được ủy quyền" — không nói rõ về phân công nội bộ. Trước khi phát hành giấy phép đầu tiên, chốt một cách và ghi lại vào mẫu này.
+
+---
+
+## BẢN B — KHUÔN CŨ, GIẤY PHÉP BAN HÀNH ĐẾN 19/8/2026 (CHỦ TỊCH UBND TỈNH KÝ)
+
+> Chỉ dùng để tra cứu, đối chiếu các giấy phép đã cấp và soạn văn bản sửa đổi những giấy phép đó. Khác bản A ở các điểm: chủ thể "**CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI**"; header trái "ỦY BAN NHÂN DÂN / TỈNH LÀO CAI"; Số: /GP-UBND; có dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …/TTr-SCT ngày …"; ký "KT. CHỦ TỊCH — PHÓ CHỦ TỊCH Nguyễn Thành Sinh"; Nơi nhận: Chủ tịch UBND tỉnh; PCT UBND tỉnh Nguyễn Thành Sinh; Sở Công Thương; Công an tỉnh; UBND xã 【…】; 【doanh nghiệp】; CVP, PCVP UBND tỉnh (Bích); Lưu: VT, TTPVHCC, KT. Khung docx: `vi-du-thuc-te/GP-du-thao-cap-moi-Thanh-Huong-29.7.2026.docx`, bản ký `GP-2507-mo-da-Toong-Gia-Mien-Bac-ban-ky.pdf`.
 Ký: **KT. CHỦ TỊCH — PHÓ CHỦ TỊCH Nguyễn Thành Sinh**

@@ -1,13 +1,30 @@
 # 02 — QUY TRÌNH CẤP / CẤP LẠI / ĐIỀU CHỈNH / THU HỒI GIẤY PHÉP SỬ DỤNG VLNCN
 
+> ⭐ **MỐC 20/8/2026 — QĐ 2867/QĐ-UBND ngày 17/8/2026 (hiệu lực 20/8/2026 → hết 28/02/2027).** UBND tỉnh
+> ủy quyền **Giám đốc Sở Công Thương** thực hiện **cấp, cấp lại, cấp điều chỉnh Giấy phép sử dụng VLNCN**;
+> dùng hình thức văn bản, con dấu của Sở. Ba thay đổi cứng đối với quy trình dưới đây:
+> 1. **Bỏ bước Tờ trình UBND tỉnh và bước Chủ tịch UBND tỉnh ký.** Kết thúc quy trình là **Phiếu trình
+>    (mẫu 06) → Giám đốc Sở ký Giấy phép** (mẫu 01 Bản A / mẫu 02, ký hiệu dự kiến `/GP-SCT`).
+> 2. **Thu hồi GP KHÔNG được ủy quyền** (Phụ lục QĐ 2867 chỉ có 01 nhiệm vụ cấp/cấp lại/cấp điều chỉnh)
+>    → mục F dưới đây giữ nguyên khuôn trình UBND tỉnh; xem cảnh báo tại mẫu 05.
+> 3. **Phê duyệt PANM KHÔNG được ủy quyền** → khi hồ sơ thuộc điểm d k2 Đ38, vẫn phải chạy quy trình
+>    PANM trình Chủ tịch UBND tỉnh (ref `03`) trước hoặc song song, rồi Giám đốc Sở mới ký Giấy phép.
+>
+> **Chuyển tiếp:** QĐ 2867 không có điều khoản chuyển tiếp cho hồ sơ đang giải quyết. Hai cách hiểu:
+> (a) theo **thời điểm ban hành kết quả** — hồ sơ nhận trước 20/8/2026 nhưng ký sau mốc thì Giám đốc Sở ký;
+> (b) theo **thời điểm tiếp nhận hồ sơ** — đây là cách Sở đã làm ở mảng HHNH khi QĐ 2848/QĐ-UBND có hiệu lực
+> ngày 14/8/2026 (hồ sơ tiếp nhận 29/5–13/8/2026 vẫn theo mô hình trình UBND tỉnh ký).
+> ⚠ **Chốt một cách với Lãnh đạo Sở và ghi lại vào đây trước hồ sơ vắt qua mốc đầu tiên.**
+
+
 ## A. TỔNG QUAN 4 THỦ TỤC (thẩm quyền UBND cấp tỉnh — SCT thẩm định, trình)
 
 | Thủ tục | Khi nào | Hồ sơ | Thời hạn giải quyết | Kết quả |
 |---|---|---|---|---|
-| **Cấp mới** | Lần đầu; GP cũ hết hạn kèm thay đổi điều kiện/quy mô | 7 đầu mục a–g k1 Đ39 Luật 42/2024 | 05 ngày làm việc từ khi đủ hồ sơ (kiểm tra hồ sơ + điều kiện thực tế) | Giấy phép `/GP-UBND` |
-| **Cấp lại** | GP mất, hư hỏng, **hết hiệu lực** mà KHÔNG thay đổi điều kiện, quy mô | Văn bản đề nghị + báo cáo hoạt động trong thời hạn GP đã cấp | 05 ngày làm việc | Giấy phép `/GP-UBND` mới |
-| **Cấp điều chỉnh** | Thay đổi quy mô hoạt động hoặc điều kiện sử dụng (địa điểm, phạm vi, khối lượng, phương pháp…) | Báo cáo hoạt động + tài liệu k1 chứng minh sự thay đổi | 05 ngày làm việc | QĐ điều chỉnh `/GP-UBND` — "là bộ phận không tách rời của Giấy phép số…" |
-| **Thu hồi** | Các trường hợp k5 Đ9 Luật 42/2024 (giải thể, chấm dứt, không còn đủ điều kiện, hết hạn không cấp lại…) | DN tự đề nghị (k1 Đ10) hoặc cơ quan chủ động | 03 ngày làm việc (khi DN đề nghị); quá 30 ngày DN không nộp → kiểm tra, lập biên bản, thu hồi, tiêu hủy GP | QĐ thu hồi (Mẫu 05 PL NĐ 181) |
+| **Cấp mới** | Lần đầu; GP cũ hết hạn kèm thay đổi điều kiện/quy mô | 7 đầu mục a–g k1 Đ39 Luật 42/2024 | 05 ngày làm việc từ khi đủ hồ sơ (kiểm tra hồ sơ + điều kiện thực tế) | Giấy phép — đến 19/8/2026 `/GP-UBND` (Chủ tịch UBND tỉnh); từ 20/8/2026 **Giám đốc SCT ký, `/GP-SCT`** |
+| **Cấp lại** | GP mất, hư hỏng, **hết hiệu lực** mà KHÔNG thay đổi điều kiện, quy mô | Văn bản đề nghị + báo cáo hoạt động trong thời hạn GP đã cấp | 05 ngày làm việc | Giấy phép mới — từ 20/8/2026 **Giám đốc SCT ký** |
+| **Cấp điều chỉnh** | Thay đổi quy mô hoạt động hoặc điều kiện sử dụng (địa điểm, phạm vi, khối lượng, phương pháp…) | Báo cáo hoạt động + tài liệu k1 chứng minh sự thay đổi | 05 ngày làm việc | QĐ điều chỉnh — "là bộ phận không tách rời của Giấy phép số…"; từ 20/8/2026 **Giám đốc SCT ký** (kể cả khi GP gốc là `/GP-UBND` — xem ghi chú mẫu 04) |
+| **Thu hồi** | Các trường hợp k5 Đ9 Luật 42/2024 (giải thể, chấm dứt, không còn đủ điều kiện, hết hạn không cấp lại…) | DN tự đề nghị (k1 Đ10) hoặc cơ quan chủ động | 03 ngày làm việc (khi DN đề nghị); quá 30 ngày DN không nộp → kiểm tra, lập biên bản, thu hồi, tiêu hủy GP | QĐ thu hồi (Mẫu 05 PL NĐ 181) — ⚠ **KHÔNG thuộc phạm vi ủy quyền QĐ 2867**, vẫn trình Chủ tịch UBND tỉnh |
 
 Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh Giấy phép sử dụng vật liệu nổ công nghiệp **thuộc thẩm quyền giải quyết của UBND cấp tỉnh**"; "Thu hồi giấy phép, giấy chứng nhận về quản lý, sử dụng VLNCN, tiền chất thuốc nổ". Mã TTHC: tra cứu trên Cổng DVC quốc gia/tỉnh tại thời điểm soạn (không tự bịa mã).
 
@@ -18,7 +35,7 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 ## B. QUY TRÌNH NỘI BỘ TẠI LÀO CAI (đúc kết từ hồ sơ đã ban hành)
 
 ```
-1. TIẾP NHẬN   DN nộp: TTPVHCC tỉnh / Cổng DVC / bưu chính → chuyển Phòng QLCN (CN Vũ Việt Linh)
+1. TIẾP NHẬN   DN nộp: TTPVHCC tỉnh / Cổng DVC / bưu chính → chuyển Phòng QLCN (CN Trần Đăng Khôi từ 10/7/2026)
 2. KIỂM TRA    Tính đầy đủ, hợp lệ (checklist mục C). Chưa đầy đủ → trong 02-03 ngày làm việc
    HỒ SƠ       CV /SCT-CN hướng dẫn hoàn thiện, nêu ĐÍCH DANH từng tồn tại (mẫu 12)
 3. THẨM ĐỊNH   Đối chiếu điều kiện Đ38 + hồ sơ Đ39; xác minh chéo (GP khai thác còn hiệu lực,
@@ -26,10 +43,13 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
                kiểm tra điều kiện thực tế/hiện trường khi cần (kho, vị trí — biên bản mẫu 09)
 4. LIÊN THÔNG  Vướng thiết kế mỏ/xây dựng → CV hỏi Sở Xây dựng (câu hỏi ĐÓNG, có thời hạn);
                PANM thuộc diện phê duyệt → chạy quy trình PANM (ref 03) TRƯỚC hoặc SONG SONG
+               (PANM KHÔNG được ủy quyền — vẫn Chủ tịch UBND tỉnh ký QĐ phê duyệt)
 5. TRÌNH       TỰ KIỂM CỔNG GÁC 12 điểm (mẫu 20, ref 09) — 1 ô "Không" là KHÔNG TRÌNH
-               → Phiếu trình lãnh đạo Sở (mẫu 06) → PGĐ Hoàng Văn Thuân duyệt
-               → Tờ trình /TTr-SCT trình UBND tỉnh (mẫu 03) + dự thảo Giấy phép (mẫu 01/02)
-6. KÝ BAN HÀNH Chủ tịch UBND tỉnh (KT. PCT Nguyễn Thành Sinh) ký GP-UBND
+               → Phiếu trình lãnh đạo Sở (mẫu 06) + dự thảo Giấy phép (mẫu 01 Bản A / 02)
+               ⛔ TỪ 20/8/2026: KHÔNG còn Tờ trình /TTr-SCT trình UBND tỉnh (mẫu 03 ngừng dùng)
+6. KÝ BAN HÀNH ⭐ TỪ 20/8/2026: GIÁM ĐỐC SỞ CÔNG THƯƠNG ký Giấy phép theo ủy quyền
+               QĐ 2867/QĐ-UBND ngày 17/8/2026, dùng văn bản + con dấu của Sở
+               (đến 19/8/2026: Chủ tịch UBND tỉnh — KT. PCT Nguyễn Thành Sinh — ký GP-UBND)
 7. SAU CẤP     Trả kết quả; cập nhật CSDL VLNCN; lưu hồ sơ; đưa vào danh sách theo dõi
                (thông báo sử dụng, hộ chiếu, báo cáo định kỳ 18/6 & 18/12, kiểm tra)
 ```
@@ -99,3 +119,21 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 2. DN đề nghị → thẩm tra hồ sơ (văn bản đề nghị + bản chính GP + báo cáo tình hình sử dụng, xử lý VLNCN tồn) → Phiếu trình → Tờ trình UBND tỉnh + dự thảo QĐ thu hồi (Mẫu 05 PL NĐ 181 — mẫu 05 của plugin) trong 03 ngày làm việc.
 3. DN không đề nghị sau 30 ngày → SCT tham mưu kiểm tra, lập biên bản, trình thu hồi; phối hợp Công an giám sát xử lý VLNCN còn tồn (bán lại cho DN kinh doanh hoặc tiêu hủy có giám sát).
 4. Sau thu hồi: cập nhật CSDL; thông báo Công an tỉnh, UBND xã; đưa ra khỏi danh sách theo dõi.
+
+## G. NGHĨA VỤ MỚI PHÁT SINH TỪ ỦY QUYỀN QĐ 2867 (theo dõi thường xuyên)
+
+1. **Báo cáo UBND tỉnh định kỳ 06 THÁNG và 01 NĂM, hoặc đột xuất theo yêu cầu** (điểm đ khoản 2 Điều 3
+   QĐ 2867) — nặng hơn QĐ 1883 (chỉ hằng năm). Nội dung tối thiểu: số hồ sơ tiếp nhận/giải quyết/trả lại,
+   số giấy phép đã cấp - cấp lại - cấp điều chỉnh, thời gian giải quyết so với 05 ngày làm việc, vướng mắc,
+   kiến nghị. Gộp chung một báo cáo với phần ủy quyền huấn luyện theo QĐ 1883 để tránh hai đầu việc.
+2. **Công bố / sửa đổi, bổ sung TTHC** thuộc nhiệm vụ được ủy quyền (điểm b khoản 2 Điều 3): Phụ lục QĐ 2867
+   để **trống cột mã TTHC** và mới liệt kê 02 TTHC (cấp, cấp lại) — **thiếu dòng "cấp điều chỉnh"** dù nội
+   dung nhiệm vụ ở cột trái có. Cần rà, tham mưu công bố đủ 03 TTHC và bổ sung mã.
+3. **Không được ủy quyền tiếp** (điểm a khoản 2 Điều 3) — xem ghi chú "Người ký" tại mẫu 01.
+4. **Mốc 28/02/2027**: ủy quyền hết hạn cùng ngày với QĐ 1883. Tham mưu **một** tờ trình chung xin ủy quyền
+   giai đoạn tiếp theo cho cả hai mảng, kèm đề nghị bổ sung các nhiệm vụ còn thiếu (thu hồi GP; tiếp nhận
+   thông báo gửi kho; văn bản đề nghị GP dịch vụ nổ mìn) — trình trước quý IV/2026.
+5. **Lưu ý khi viện dẫn**: QĐ 2867 ghi "Theo đề nghị của Giám đốc Sở Công Thương tại Tờ trình số
+   2205/TTr-SCT ngày 28/10/2025" — cùng Tờ trình với QĐ 1883 (10/2025). Khi trích dẫn giữ nguyên như bản ký,
+   không tự sửa. Phần căn cứ của QĐ có lỗi chính tả "Quyết định số 05/2025/QĐ-UNBD" (đúng: QĐ-UBND) —
+   khi dẫn lại trong văn bản của Sở thì viết đúng "QĐ-UBND", không chép lỗi.

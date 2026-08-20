@@ -49,10 +49,10 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 
 | Việc | Cơ quan | Ghi chú |
 |---|---|---|
-| Cấp/cấp lại/điều chỉnh **GP sử dụng VLNCN** trên địa bàn | Đến 19/8/2026: **Chủ tịch UBND tỉnh** ký (KT. PCT Nguyễn Thành Sinh), ký hiệu `/GP-UBND`, SCT thẩm định + Tờ trình. ⭐ Từ **20/8/2026: GĐ SCT ký theo ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026** (đến hết 28/02/2027), dùng văn bản/con dấu SCT | Trừ 2 ngoại lệ dưới. Ký hiệu GP theo mẫu mới của Sở chưa có tiền lệ — cập nhật khi có GP đầu tiên (ref `10` A-bis) |
+| Cấp/cấp lại/điều chỉnh **GP sử dụng VLNCN** trên địa bàn | Đến 19/8/2026: **Chủ tịch UBND tỉnh** ký (KT. PCT Nguyễn Thành Sinh), ký hiệu `/GP-UBND`, SCT thẩm định + Tờ trình. ⭐ Từ **20/8/2026: GĐ SCT ký theo ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026** (đến hết 28/02/2027), dùng văn bản/con dấu SCT, **bỏ Tờ trình — chỉ Phiếu trình mẫu 06 + dự thảo GP mẫu 01 Bản A** | Trừ 2 ngoại lệ dưới. Ký hiệu `/GP-SCT` và người ký (GĐ trực tiếp hay KT.GĐ/PGĐ) **chưa có tiền lệ — chốt trước GP đầu tiên**, cập nhật lại (ref `10` A-bis) |
 | GP sử dụng cho tổ chức nghiên cứu/thử nghiệm VLNCN; thăm dò - khai thác **dầu khí**; tổ chức có GP hoạt động khoáng sản **nhóm I** do **Bộ NN&MT** cấp (kể cả GP Bộ TN&MT cấp còn hiệu lực) | Cục Kỹ thuật an toàn và Môi trường công nghiệp (Bộ Công Thương) | điểm b k1 Đ4 TT 23 (thay bởi k1 Đ1 TT 26/2026) |
 | Tổ chức thuộc **Bộ Quốc phòng** | Bộ Quốc phòng (Tổng cục CNQP) | |
-| **Thu hồi** GP sử dụng VLNCN | Cơ quan đã cấp (GP cấp trước 20/8/2026: Chủ tịch UBND tỉnh, SCT tham mưu; GP do GĐ SCT ký theo ủy quyền QĐ 2867: trong phạm vi ủy quyền) | Đ17 NĐ 181/2024 |
+| **Thu hồi** GP sử dụng VLNCN | ⚠ **KHÔNG có trong Phụ lục QĐ 2867** — mặc định vẫn **Chủ tịch UBND tỉnh** ký, SCT tham mưu (kể cả với GP do GĐ SCT cấp, cho đến khi có ủy quyền bổ sung) | Đ17 NĐ 181/2024; cách viết: mẫu 05, ref `10` A-bis |
 | **Phê duyệt PANM** tại khu dân cư/công trình cần bảo vệ + chấp thuận sử dụng | **Chủ tịch UBND tỉnh** ký QĐ (SCT thẩm định, Tờ trình) | điểm d k2 Đ38 Luật 42/2024 |
 | PANM thông thường (ngoài khu vực trên) | **Lãnh đạo doanh nghiệp tự ký duyệt** — KHÔNG trình UBND tỉnh | điểm d k1 Đ39 Luật 42/2024 |
 | GP **dịch vụ nổ mìn** (cả 3 hình thức: 1 tỉnh, thềm lục địa, toàn quốc) | Cục KTAT&MTCN cấp; **UBND cấp tỉnh ban hành văn bản đề nghị** | điểm c k1 Đ4 TT 23 (sđ TT 26/2026); k1 Đ23 NĐ 146/2025 |
@@ -72,21 +72,24 @@ Từ 01/7/2026, UBND cấp tỉnh còn **quy định cơ quan tiếp nhận hồ
 
 - Lĩnh vực VLNCN thuộc **PGĐ Hoàng Văn Thuân** phụ trách → công văn, báo cáo UBND tỉnh của Sở thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân**. Tờ trình UBND tỉnh: cân nhắc GĐ Hoàng Chí Hiền với vụ việc lớn.
 - **Lưu: VT, CN(Khôi)** — từ **10/7/2026** (Thông báo phân công nội bộ Phòng QLCN, xem skill `sct-laocai-org-vn`), chuyên viên tham mưu GP sử dụng VLNCN + PANM + tiền chất thuốc nổ là **Trần Đăng Khôi**; VLNCN do **Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo**. Văn bản trước 6/7/2026 dùng CN(Linh) — Vũ Việt Linh (đúng lịch sử, không sửa lại). Một số văn bản đôn đốc chung dùng CN(M.Cường) — Đỗ Mạnh Cường, Phó TP QLCN. Mặc định từ nay dùng CN(Khôi), hỏi Bạn nếu khác.
-- Văn bản UBND tỉnh (GP, QĐ PANM, QĐ điều chỉnh): **CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI** là chủ thể ban hành, ký **KT. CHỦ TỊCH / PHÓ CHỦ TỊCH Nguyễn Thành Sinh**; nơi nhận có "CVP, PCVP UBND tỉnh (Bích)", "Lưu: VT, TTPVHCC, KT.".
-- Ký hiệu: giấy phép và QĐ điều chỉnh GP dùng `/GP-UBND`; QĐ phê duyệt PANM `/QĐ-UBND`; tờ trình `/TTr-SCT`; công văn `/SCT-CN`.
+- ⭐ **TỪ 20/8/2026 (ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026): GIẤY PHÉP SỬ DỤNG VLNCN (cấp, cấp lại, cấp điều chỉnh) là VĂN BẢN CỦA SỞ CÔNG THƯƠNG** — chủ thể "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI", dùng hình thức văn bản và **con dấu của Sở**, ký hiệu dự kiến `/GP-SCT`; căn cứ bắt buộc có QĐ 05/2025/QĐ-UBND và QĐ 2867/QĐ-UBND; bỏ dòng "Theo đề nghị của Sở Công Thương tại Tờ trình…", thay bằng "Theo đề nghị của Trưởng phòng Quản lý công nghiệp"; Lưu: VT, CN(Khôi). ⚠ **Người ký chưa chốt**: QĐ 1883 (huấn luyện) đi theo hướng **Giám đốc Hoàng Chí Hiền ký trực tiếp**, PGĐ ký phải kèm Giấy ủy quyền công tác đích danh; QĐ 1696/2848 (HHNH) thực tế ký **KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân**. Chốt với Lãnh đạo Sở trước giấy phép đầu tiên (mẫu 01 mục "Người ký").
+- Văn bản UBND tỉnh **còn lại** (QĐ phê duyệt PANM, QĐ thu hồi GP, văn bản đề nghị GP dịch vụ nổ mìn — **không nằm trong phạm vi ủy quyền**): **CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI** là chủ thể ban hành, ký **KT. CHỦ TỊCH / PHÓ CHỦ TỊCH Nguyễn Thành Sinh**; nơi nhận có "CVP, PCVP UBND tỉnh (Bích)", "Lưu: VT, TTPVHCC, KT.". Giấy phép ban hành đến 19/8/2026 giữ nguyên ký hiệu `/GP-UBND` khi trích dẫn.
+- Ký hiệu: giấy phép sử dụng VLNCN và QĐ điều chỉnh — đến 19/8/2026 `/GP-UBND`, từ 20/8/2026 `/GP-SCT`; QĐ phê duyệt PANM `/QĐ-UBND`; tờ trình `/TTr-SCT`; công văn `/SCT-CN`.
 
 ## V. HAI QUY TRÌNH LÕI (tóm tắt — chi tiết reference 02, 03)
 
 **A. Cấp GP sử dụng VLNCN (5 ngày làm việc kể từ khi đủ hồ sơ — k6 Đ39):**
 ```
 DN nộp hồ sơ (TTPVHCC tỉnh / Cổng DVC / bưu chính)
-→ SCT (Phòng QLCN – CN Linh) kiểm tra tính đầy đủ, hợp lệ
+→ SCT (Phòng QLCN – CN Khôi) kiểm tra tính đầy đủ, hợp lệ
 → Thẩm định hồ sơ theo checklist Đ38+Đ39 (ref 02) + kiểm tra điều kiện thực tế khi cần
    (chưa đạt → CV /SCT-CN TRẢ LẠI HỒ SƠ kèm hướng dẫn hoàn thiện, nêu ĐÍCH DANH từng tồn tại
    với căn cứ điều khoản + số trang tài liệu DN — mẫu 12, tiền lệ Mông Sơn 7/2026)
 → TỰ KIỂM CỔNG GÁC 12 điểm (mẫu 20, ref 09) — 1 ô "Không" là KHÔNG TRÌNH
-→ Phiếu trình lãnh đạo Sở (mẫu 06) → Tờ trình /TTr-SCT + dự thảo Giấy phép (mẫu 03, 01)
-→ Chủ tịch UBND tỉnh ký GP-UBND (KT. PCT Nguyễn Thành Sinh)
+→ Phiếu trình lãnh đạo Sở (mẫu 06) + dự thảo Giấy phép (mẫu 01 Bản A / 02)
+→ ⭐ TỪ 20/8/2026: GIÁM ĐỐC SỞ CÔNG THƯƠNG ký Giấy phép (/GP-SCT, con dấu Sở)
+   theo ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026 — KHÔNG còn Tờ trình UBND tỉnh (mẫu 03 ngừng dùng)
+   (đến 19/8/2026: Tờ trình /TTr-SCT + Chủ tịch UBND tỉnh ký GP-UBND — KT. PCT Nguyễn Thành Sinh)
 → Trả kết quả; cập nhật CSDL VLNCN; theo dõi thông báo sử dụng, báo cáo định kỳ
 ```
 Thời hạn GP (k7 Đ39): theo GP thăm dò ≤ **04 năm**; theo GP khai thác ≤ **05 năm**; theo thời hạn công trình ≤ **02 năm**. Thực tiễn Lào Cai: mỏ khai thác ghi "có giá trị 05 năm kể từ ngày ký"; công trình ghi theo tiến độ.
@@ -113,7 +116,11 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY (đúc kết từ hồ sơ thật 2025–2026)
 
-1. **Đúng thẩm quyền, đúng thể thức chủ thể:** Giấy phép/QĐ PANM là văn bản của **Chủ tịch UBND tỉnh** (không phải "TM. ỦY BAN NHÂN DÂN" — dùng "KT. CHỦ TỊCH / PHÓ CHỦ TỊCH"); tiêu đề căn cứ mở đầu là "CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI". Riêng QĐ ủy quyền là của UBND tỉnh (TM. ỦY BAN NHÂN DÂN).
+1. **Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026:**
+   - **Giấy phép sử dụng VLNCN** (cấp, cấp lại, cấp điều chỉnh): từ 20/8/2026 là văn bản của **Giám đốc Sở Công Thương** theo ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026 — tiêu đề căn cứ mở đầu "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI", con dấu Sở, ký hiệu `/GP-SCT`. Đến 19/8/2026: văn bản của **Chủ tịch UBND tỉnh**, `/GP-UBND`.
+   - **QĐ phê duyệt PANM, QĐ thu hồi GP**: KHÔNG được ủy quyền — vẫn là văn bản của **Chủ tịch UBND tỉnh** (không phải "TM. ỦY BAN NHÂN DÂN" — dùng "KT. CHỦ TỊCH / PHÓ CHỦ TỊCH"); tiêu đề căn cứ mở đầu "CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI".
+   - **QĐ ủy quyền** là của UBND tỉnh (TM. ỦY BAN NHÂN DÂN — KT. CHỦ TỊCH — PHÓ CHỦ TỊCH), như chính QĐ 2867.
+   - ⚠ Lỗi dễ mắc nhất giai đoạn này: soạn Giấy phép theo khuôn cũ `/GP-UBND` rồi kèm Tờ trình, hoặc ngược lại soạn QĐ phê duyệt PANM theo khuôn Sở. **Hai chủ thể khác nhau trong cùng một hồ sơ.**
 2. **Không nhầm 2 chế độ PANM:** chỉ trình UBND tỉnh khi thuộc điểm d k2 Đ38; ngoài diện đó nếu DN vẫn trình → Sở làm VB báo cáo UBND tỉnh khẳng định không thuộc diện + hướng dẫn DN tự phê duyệt (KHÔNG im lặng trả hồ sơ).
 3. **PANM phải được phê duyệt nội bộ trước:** người lập (chỉ huy nổ mìn) ký ghi rõ họ tên + lãnh đạo DN ký duyệt — thiếu là trả hồ sơ (tiền lệ Vạn Thắng).
 4. **Số liệu 3 khớp:** tổng khối lượng VLNCN trong Giấy phép = trong PANM = trong thiết kế/Phụ lục hợp đồng; Qmax một đợt nổ trong GP phải khớp tính toán an toàn của PANM. Khối lượng đá còn lại phải trừ phần đã thi công.

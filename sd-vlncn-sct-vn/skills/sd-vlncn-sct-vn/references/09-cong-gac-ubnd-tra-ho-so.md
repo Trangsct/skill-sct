@@ -1,5 +1,19 @@
 # 09 — CỔNG GÁC UBND TỈNH / VĂN PHÒNG UBND TỈNH: 3 TIỀN LỆ TRẢ HỒ SƠ VÀ BẢNG TỰ KIỂM TRƯỚC KHI TRÌNH
 
+> ⭐ **CẬP NHẬT 20/8/2026 — CỔNG GÁC ĐỔI VỊ TRÍ, KHÔNG BIẾN MẤT.** Từ 20/8/2026, theo QĐ 2867/QĐ-UBND
+> ngày 17/8/2026, **Giấy phép sử dụng VLNCN do Giám đốc Sở Công Thương ký** — hồ sơ cấp phép không đi qua
+> Văn phòng UBND tỉnh nữa, nên ba tiền lệ bị trả hồ sơ dưới đây **không còn khả năng lặp lại về hình thức**.
+> Nhưng nội dung của chúng vẫn là chuẩn thẩm định, và rủi ro nay **nặng hơn chứ không nhẹ đi**:
+> - Không còn vòng rà độc lập của Văn phòng UBND tỉnh (Phòng KT, PCVP Hoàng Ngọc Bích) — bộ lọc duy nhất
+>   là bảng tự kiểm 12 điểm (mẫu 20) của chính Phòng QLCN.
+> - Điểm a khoản 2 Điều 3 QĐ 2867: Giám đốc Sở **chịu trách nhiệm toàn diện trước pháp luật, trước UBND
+>   tỉnh và Chủ tịch UBND tỉnh** về kết quả thực hiện nhiệm vụ được ủy quyền. Sai sót không còn được chặn
+>   lại ở khâu trình mà đi thẳng vào giấy phép đã ban hành.
+> - Ba nhóm việc **vẫn trình UBND tỉnh** và vẫn chịu cổng gác nguyên vẹn: **phê duyệt PANM** (điểm d k2 Đ38),
+>   **thu hồi giấy phép**, **văn bản đề nghị cấp GP dịch vụ nổ mìn**.
+> - Chỉ đạo tại CV 2373/UBND-KT ngày 23/9/2025 ("chỉ tham mưu, trình… sau khi hồ sơ đã đảm bảo") giữ nguyên
+>   giá trị và nay áp cho chính khâu **trình Lãnh đạo Sở ký**.
+
 > Mục đích: chặn tình trạng Sở trình hồ sơ cấp phép VLNCN rồi bị UBND tỉnh / Văn phòng UBND tỉnh
 > trả lại. Toàn bộ số/ngày dưới đây đã xác minh bằng `extract_metadata.py` trên bản PDF gốc
 > (lưu tại `vi-du-thuc-te/`), KHÔNG lấy từ context hiển thị.

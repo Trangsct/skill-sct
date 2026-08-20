@@ -22,6 +22,11 @@ Kính gửi: 【Lãnh đạo Sở (PGĐ Hoàng Văn Thuân)】
 6. **Pháp lý đất đai, mặt bằng** (checklist C2b ref 02): 【QĐ giao đất/cho thuê đất, HĐ thuê đất (mỏ) — hoặc QĐ thu hồi đất, biên bản bàn giao đất/mặt bằng (công trình): số, ngày, phạm vi】 → 【đủ/thiếu】.
 7. **Kết quả tự kiểm 12 điểm cổng gác** (mẫu 20, ref 09): 【đủ 12/12 → đề nghị trình】 / 【điểm số … chưa đạt → không trình, đề nghị trả lại hồ sơ hoặc văn bản liên ngành】 — kèm bảng tự kiểm.
 
-**III. Đề xuất:** 【(1) trình dự thảo Tờ trình + dự thảo GP/QĐ trình Chủ tịch UBND tỉnh; (2) CV đề nghị hoàn thiện hồ sơ; (3) văn bản trả hồ sơ/từ chối nêu rõ lý do】.
+**III. Đề xuất:**
+- **Hồ sơ cấp/cấp lại/cấp điều chỉnh GP sử dụng VLNCN, từ 20/8/2026** (ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026): 【(1) đề nghị Lãnh đạo Sở **xem xét, ký ban hành Giấy phép sử dụng VLNCN** theo dự thảo kèm theo (mẫu 01 Bản A / mẫu 02) — KHÔNG còn trình Chủ tịch UBND tỉnh; (2) CV đề nghị hoàn thiện hồ sơ; (3) văn bản trả lại hồ sơ nêu rõ lý do】.
+- **Hồ sơ phê duyệt PANM** (điểm d k2 Đ38 — không thuộc phạm vi ủy quyền): 【trình dự thảo Tờ trình `/TTr-SCT` + dự thảo QĐ trình Chủ tịch UBND tỉnh (mẫu 07, 10)】.
+- **Hồ sơ thu hồi GP**: xem cảnh báo thẩm quyền tại mẫu 05.
+
+> ⭐ Từ 20/8/2026 Phiếu trình này là văn bản trình **cuối cùng** của hồ sơ cấp phép — trước đây nó chỉ là bước trung gian trước Tờ trình UBND tỉnh. Vì vậy mục II phải đủ sức thay thế toàn bộ nội dung thẩm định của Tờ trình cũ (mẫu 03 mục 2 a–đ): thành phần hồ sơ theo k1 Đ39; điều kiện Đ38 từng điểm; nhân sự Đ4–Đ5 NĐ 181/2024; kỹ thuật + PANM theo QCVN 01:2019/BCT; kiểm tra thực tế; đất đai, mặt bằng; và **một câu khẳng định "hồ sơ bảo đảm đủ điều kiện theo Điều 38, Điều 39 Luật số 42/2024/QH15"** — viết không nổi câu này thì chưa được trình ký.
 
 Ý kiến Lãnh đạo phòng: …            Ý kiến Lãnh đạo Sở: …

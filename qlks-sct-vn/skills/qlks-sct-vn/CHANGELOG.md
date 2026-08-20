@@ -1,5 +1,23 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.7.0 — 20/8/2026: kinh nghiệm biên bản thanh tra/kiểm tra từ mẫu thật BB 13A/BB-ĐTT72 (Thanh tra tỉnh — vụ Mông Sơn)
+
+**Nguồn:** Bạn cung cấp bản scan **Biên bản làm việc số 13A/BB-ĐTT72 ngày 10/5/2026** của Đoàn thanh tra số 72-2026 (QĐ 72/QĐ-TT ngày 13/3/2026 của Chánh Thanh tra tỉnh Lào Cai) — thống nhất kết quả thanh tra chấp hành pháp luật trong khai thác khoáng sản đối với Công ty CP Mông Sơn, mỏ đá hoa trắng Làng Cạn, xã Mông Sơn (vùng Yên Bái cũ). Bản scan không có lớp text — đã render ảnh từng trang để đọc (11 trang scan = 10 trang biên bản, trang 3 scan trùng).
+
+### Nội dung mới
+
+- **`references/20-bien-ban-thanh-tra-kiem-tra-mau-thuc-te.md` (MỚI)**: bối cảnh tổ chức (thanh tra DN ngành Công Thương nay thuộc Thanh tra tỉnh — Phòng lĩnh vực Công Thương và KHCN; SCT chỉ kiểm tra chuyên ngành); khuôn 5 phần của biên bản làm việc chốt kết quả thanh tra; **10 kinh nghiệm** lập biên bản (bảng số liệu nhiều năm sản lượng + VLNCN đặt cạnh nhau, chuỗi định danh hồ sơ + chú thích chân trang, tồn tại viết kiểu đối chiếu có số liệu — ĐTM/bãi thải 2, khám sức khỏe thiếu đích danh từng năm, bán hàng cho 23 đơn vị ngoài mục tiêu GCN đầu tư; mục lịch sử xử phạt ghi đến đồng; mục "Ý kiến khác nhau của thành viên đoàn"; lập 03 bản + ký nháy từng trang; xử lý chuyển tiếp sáp nhập tỉnh trong viện dẫn; lỗi trình bày cần tránh; biên bản không kèm chế tài); **checklist "đón thanh tra tỉnh"** 6 trục cho doanh nghiệp mỏ.
+- **`mau-van-ban/02` mục C (MỚI)**: khung biên bản làm việc chốt kết quả cuối đợt kiểm tra của SCT, chuyển thể từ khuôn BB 13A về đúng phạm vi chức năng SCT.
+- **`references/08`**: bổ sung đầu mối Thanh tra tỉnh + bước lập biên bản làm việc chốt kết quả trong quy trình B3.
+- **`checklists/checklist-kiem-tra-mo.md` mục A7 (MỚI)**: 5 phép đối chiếu kiểu thanh tra (khám sức khỏe từng năm; mục tiêu GCN đầu tư; hạng mục ĐTM; VLNCN - sản lượng; nộp phạt/khắc phục các QĐ xử phạt cũ).
+- `van-ban-goc/BB-13A-BB-DTT72-10-5-2026-thanh-tra-khai-thac-KS-Mong-Son.pdf`: bản gốc scan.
+- `SKILL.md`: nghiệp vụ 6 mở rộng + cây thư mục + description thêm từ khóa "biên bản kiểm tra". `plugin.json` → 1.7.0.
+
+### Ghi vấn còn mở
+
+- Biên bản ghi "đăng ký thay đổi lần thứ 9 ngày 07/9/2026" — sau ngày lập biên bản (10/5/2026), nghi là 07/9/2016; khi cần trích dẫn phải kiểm chứng GCN ĐKDN.
+- Trang bìa có dấu tiếp nhận iOffice (Số 381, ký số 19/8/2026) — không phải ngày lập biên bản.
+
 ## v1.6.0 — 01/8/2026: bổ sung TOÀN VĂN QPPL gốc; đính chính 4 điểm pháp lý quan trọng
 
 **Nguồn:** Bạn cung cấp toàn văn 5 văn bản QPPL ngày 01/8/2026, theo yêu cầu "văn bản QPPL nên đẩy lên GitHub để thường xuyên sử dụng". Nhờ đó đã đối chiếu được nguyên văn thay vì trích gián tiếp qua công văn hướng dẫn của SNNMT — và phát hiện **4 điểm ở v1.5.0 chưa chính xác hoặc đã lạc hậu**.

@@ -1,6 +1,6 @@
 ---
 name: qlks-sct-vn
-description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025). Kích hoạt: thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, khai thác cát lòng hồ, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 10 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; (2) kế hoạch quản lý rủi ro; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU; (7) rà chồng lấn khi thẩm định dự án, CCN; (8) thống kê, kiểm soát sản lượng, báo cáo định kỳ mỏ nhóm I; (9) nguồn thu đóng góp KS; (10) THU HỒI KHOÁNG SẢN trọn hồ sơ. Từ khóa thêm: NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT, tiền cấp quyền, nhóm I II III IV, Điều 108, kiểm kê trữ lượng, apatit, cao lanh Sơn Mãn, thủy điện Phúc Long, Tu Trên."
+description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025). Kích hoạt: thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, khai thác cát lòng hồ, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 10 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; (2) kế hoạch quản lý rủi ro; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU; (7) rà chồng lấn khi thẩm định dự án, CCN; (8) thống kê, kiểm soát sản lượng, báo cáo định kỳ mỏ nhóm I; (9) nguồn thu đóng góp KS; (10) THU HỒI KHOÁNG SẢN trọn hồ sơ. Từ khóa thêm: NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT, tiền cấp quyền, nhóm I II III IV, Điều 108, kiểm kê trữ lượng, apatit, cao lanh Sơn Mãn, thủy điện Phúc Long, Tu Trên, biên bản kiểm tra."
 ---
 
 # qlks-sct-vn — Quản lý nhà nước về khoáng sản (Sở Công Thương tỉnh Lào Cai)
@@ -83,7 +83,7 @@ Phân nhóm khoáng sản: Điều 6 Luật 54/2024 + danh mục chi tiết Ph�
 
 **5. Đối chiếu VLNCN - sản lượng + kiểm soát trữ lượng** — references `07`, `14`. Phối hợp Thuế, SNNMT so sánh sản lượng khai thác thực tế với lượng thuốc nổ được phép sử dụng (nhiệm vụ SCT trong KH Chỉ thị 11). Nghĩa vụ doanh nghiệp SCT cần nắm khi kiểm tra: trạm cân/thiết bị đo (khoản 4-5 Điều 59 NĐ 193/2025 — có chế biến thì cân trước khi vào chế biến VÀ khi ra khỏi dự án), camera, sổ sách chứng từ, thống kê hằng năm (kỳ 01/01-31/12), kiểm kê khi gia hạn/điều chỉnh/chuyển nhượng/trả lại/đóng cửa mỏ, bản đồ - mặt cắt hiện trạng từ khi XDCB (Điều 12-15 TT 36/2025/TT-BNNMT), kết nối dữ liệu với cơ quan QLNN.
 
-**6. Kiểm tra - xử phạt - báo cáo** — references `08`, `09`, `13`. Xử phạt VPHC: NĐ 36/2020/NĐ-CP + NĐ 04/2022/NĐ-CP (đang hiệu lực; theo dõi nghị định thay thế theo Luật 54/2024 — chưa xác minh được số mới, không tự bịa; tỉnh đã kiến nghị Bộ xử lý chồng chéo với Điều 227 BLHS). Kiểm tra chuyên ngành theo NĐ 217/2025. Báo cáo: theo Chỉ thị 11-CT/TU, Chỉ thị 26-CT/TU, CV 5973/UBND-KT, Chỉ thị 38/CT-TTg, KH 200/KH-UBND, KH 218/KH-UBND; báo cáo năm của tỉnh gửi 3 Bộ theo đề cương Bộ NNMT (cấu trúc chuẩn + số liệu nền 2025: reference `13`).
+**6. Kiểm tra - xử phạt - báo cáo** — references `08`, `09`, `13`, `20`. Biên bản: kiểm tra hiện trường theo mẫu `02` mục B; đợt dài/nhiều nội dung thêm **biên bản làm việc chốt kết quả** cuối đợt (mẫu `02` mục C — khung 5 phần học từ mẫu thật BB 13A/BB-ĐTT72 của Thanh tra tỉnh, vụ thanh tra khai thác khoáng sản Cty CP Mông Sơn: bảng số liệu nhiều năm, tồn tại viết kiểu đối chiếu có số liệu, mục lịch sử xử phạt trong kỳ, ký nháy từng trang — 10 kinh nghiệm + checklist "đón thanh tra tỉnh" tại reference `20`). Lưu ý tổ chức: thanh tra doanh nghiệp ngành Công Thương nay do **Thanh tra tỉnh** thực hiện, SCT chỉ kiểm tra chuyên ngành. Xử phạt VPHC: NĐ 36/2020/NĐ-CP + NĐ 04/2022/NĐ-CP (đang hiệu lực; theo dõi nghị định thay thế theo Luật 54/2024 — chưa xác minh được số mới, không tự bịa; tỉnh đã kiến nghị Bộ xử lý chồng chéo với Điều 227 BLHS). Kiểm tra chuyên ngành theo NĐ 217/2025. Báo cáo: theo Chỉ thị 11-CT/TU, Chỉ thị 26-CT/TU, CV 5973/UBND-KT, Chỉ thị 38/CT-TTg, KH 200/KH-UBND, KH 218/KH-UBND; báo cáo năm của tỉnh gửi 3 Bộ theo đề cương Bộ NNMT (cấu trúc chuẩn + số liệu nền 2025: reference `13`).
 
 **8. Thống kê, kê khai, kiểm soát sản lượng và báo cáo định kỳ** — reference `14` (nguồn: CV 5141/SNNMT-KS ngày 29/12/2025). Hai chiều: (i) SCT **nhận** báo cáo định kỳ của mỏ **nhóm I** (cả GP Bộ cấp và tỉnh cấp) và nước nóng - nước khoáng thiên nhiên tỉnh cấp — hạn nộp trước **15/02** hằng năm, Mẫu 05 Phụ lục IV TT 36/2025 (nhóm II/III/IV đi luồng Sở Xây dựng); (ii) SCT **dùng** bộ sổ sách - chứng từ này khi kiểm tra mỏ và đối chiếu VLNCN: vị trí cân - đo (có chế biến → 02 điểm), loại thiết bị (cân là mặc định; đo đạc chỉ với nước khoáng - nước nóng, đá ốp lát, cát sỏi lòng sông - lòng hồ - biển, KS ghi công suất theo thể tích), sổ khối lượng ghi hàng ngày, sổ hàm lượng hàng tháng, **ngưỡng chênh lệch 10%** buộc giải trình, bản đồ - mặt cắt hiện trạng 01 năm 01 lần chốt 31/12, lưu bản sao tại văn phòng mỏ khi trụ sở khác địa chỉ dự án.
 
@@ -157,7 +157,9 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  (Điều 97 NĐ 193, khoản 9 Điều 4 Luật 147/2025, tiền cấp quyền)
               19 TOÀN VĂN Phụ lục III TT 36/2025 (sửa bởi TT 04/2026): 7 mẫu hồ sơ
                  thu hồi 01 · 02 · 03 · 03a · 04 · 05 · 06 + 05 bản vẽ bắt buộc
-mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra
+              20 biên bản thanh tra/kiểm tra — kinh nghiệm từ mẫu thật BB 13A/BB-ĐTT72
+                 (Thanh tra tỉnh, vụ Mông Sơn) + checklist đón thanh tra tỉnh
+mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT
               05 báo cáo định kỳ + CV phối hợp liên ngành
@@ -169,5 +171,6 @@ mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản ki�
 checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ · hồ sơ thu hồi khoáng sản
 vi-du-thuc-te/ 10 văn bản thật về thu hồi KS — xem 00-MUC-LUC.md
 du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý
-van-ban-goc/  21 văn bản nguồn đã đối chiếu (gồm CV 5141 và CV 6795 của SNNMT)
+van-ban-goc/  22 văn bản nguồn đã đối chiếu (gồm CV 5141, CV 6795 của SNNMT và
+              BB 13A/BB-ĐTT72 của Thanh tra tỉnh — bản scan, phải render ảnh để đọc)
 ```

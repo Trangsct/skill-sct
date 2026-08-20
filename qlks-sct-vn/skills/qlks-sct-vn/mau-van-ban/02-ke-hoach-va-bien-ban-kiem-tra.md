@@ -41,3 +41,17 @@ Doanh nghiệp chịu trách nhiệm trước pháp luật về tính chính xá
 Chữ ký: ĐẠI DIỆN DOANH NGHIỆP — TRƯỞNG ĐOÀN KIỂM TRA — THÀNH VIÊN GHI BIÊN BẢN (ký từng trang).
 
 Ghi chú: có dấu hiệu VPHC → lập biên bản VPHC riêng theo mẫu của Luật Xử lý VPHC, không gộp vào biên bản kiểm tra.
+
+## C. KHUNG BIÊN BẢN LÀM VIỆC CHỐT KẾT QUẢ (cuối đợt kiểm tra) — học từ BB 13A/BB-ĐTT72 của Thanh tra tỉnh (reference `20`)
+
+Dùng khi kết thúc đợt kiểm tra nhiều ngày/nhiều nội dung: lập tại trụ sở, thống nhất toàn bộ kết quả với doanh nghiệp trước khi ra báo cáo kết quả (mẫu 03).
+
+BIÊN BẢN LÀM VIỆC — Số: .../BB-ĐKT... [số thứ tự/BB-ĐKT + số QĐ hoặc KH thành lập đoàn]
+Căn cứ [KH số .../KH-SCT / QĐ số ...] ngày ... của ... về việc kiểm tra ...
+Hồi ... giờ ... ngày ..., tại ..., Đoàn kiểm tra cùng doanh nghiệp thống nhất kết quả như sau:
+I. Thành phần: A. Đoàn kiểm tra (họ tên, chức vụ, vai trò); B. Doanh nghiệp (Giám đốc, Kế toán trưởng/người được ủy quyền).
+II. Nội dung làm việc: 1. Đặc điểm doanh nghiệp (trụ sở, MSDN, đăng ký lần đầu/thay đổi gần nhất, người ĐDPL); 2. Ngành nghề chính liên quan.
+III. Kết quả kiểm tra, xác minh: đi từng trục THUỘC CHỨC NĂNG SCT (thiết kế mỏ → GĐĐH mỏ → KH quản lý rủi ro, huấn luyện, khám sức khỏe định kỳ → VLNCN → trạm cân, camera, sản lượng → chế biến, nguồn gốc). Mỗi hồ sơ ghi đủ số - ngày - cơ quan ban hành; số liệu nhiều năm trình bày DẠNG BẢNG (sản lượng theo năm; VLNCN: thuốc nổ, kíp, dây nổ, số hộ chiếu nổ mìn theo năm — đặt cạnh nhau để đối chiếu VLNCN - sản lượng); chi tiết phụ dồn xuống chú thích chân trang. Mục riêng: các cuộc thanh tra, kiểm tra, xử phạt trong thời kỳ (số QĐ, hành vi, số tiền, đã nộp phạt chưa).
+IV. Kết luận — nội dung còn tồn tại: viết kiểu ĐỐI CHIẾU có số liệu (cam kết/nghĩa vụ nào - thực tế ra sao - thiếu năm nào), không nhận định chung chung; chưa kèm chế tài (chế tài, kiến nghị để ở báo cáo kết quả).
+V. Ý kiến của doanh nghiệp: ghi rõ nhất trí với nội dung nào, không nhất trí điểm nào (ghi nguyên văn).
+Kết: đọc lại cho những người có tên cùng nghe; lập ... bản giá trị pháp lý như nhau, mỗi bên giữ ...; ký: ĐẠI DIỆN DOANH NGHIỆP — TRƯỞNG ĐOÀN KIỂM TRA; thành viên đoàn ký nháy từng trang.

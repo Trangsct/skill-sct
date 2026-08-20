@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-20 — qlks-sct-vn v1.7.0: kinh nghiệm biên bản thanh tra/kiểm tra từ mẫu thật BB 13A/BB-ĐTT72 của Thanh tra tỉnh (vụ Mông Sơn)
+
+Bạn cung cấp bản scan **Biên bản làm việc số 13A/BB-ĐTT72 ngày 10/5/2026** của Đoàn thanh tra số 72-2026 (QĐ 72/QĐ-TT ngày 13/3/2026, Chánh Thanh tra tỉnh Lào Cai; Trưởng đoàn Nguyễn Công Hữu) — thống nhất kết quả thanh tra chấp hành pháp luật trong khai thác khoáng sản đối với **Công ty CP Mông Sơn**, mỏ đá hoa trắng Làng Cạn, xã Mông Sơn (vùng Yên Bái cũ). Bản scan không có text layer — đã render ảnh để đọc.
+
+- **`references/20` (MỚI)**: khuôn 5 phần biên bản làm việc chốt kết quả thanh tra + **10 kinh nghiệm** (bảng sản lượng và bảng VLNCN nhiều năm đặt cạnh nhau để đối chiếu; tồn tại viết kiểu đối chiếu có số liệu — bãi thải 2 theo ĐTM, khám sức khỏe thiếu đích danh 5 năm, bán cho 23 đơn vị ngoài mục tiêu GCN đầu tư; mục lịch sử xử phạt trong kỳ ghi đến đồng, gồm QĐ phạt 900 triệu vượt công suất 72%; ký nháy từng trang, lập 03 bản; viện dẫn cơ quan cũ nguyên trạng khi sáp nhập tỉnh) + **checklist "đón thanh tra tỉnh"** 6 trục cho doanh nghiệp mỏ. Ghi nhận tổ chức mới: thanh tra DN ngành Công Thương nay do **Thanh tra tỉnh** (Phòng lĩnh vực Công Thương và KHCN) thực hiện — SCT chỉ kiểm tra chuyên ngành.
+- **`mau-van-ban/02` mục C (MỚI)**: khung biên bản làm việc chốt kết quả cuối đợt kiểm tra chuyển thể về phạm vi SCT; **`checklists/checklist-kiem-tra-mo.md` mục A7 (MỚI)**: 5 phép đối chiếu kiểu thanh tra; `references/08` nối quy trình; bản gốc vào `van-ban-goc/`; SKILL.md + description; plugin.json → **1.7.0**.
+- Ghi vấn mở: mốc "đăng ký thay đổi lần thứ 9 ngày 07/9/2026" trong biên bản nghi là 07/9/2016 — kiểm chứng trước khi trích dẫn.
+
 ## 2026-08-19 — Phụ lục QĐ 2867: CHỐT từ 20/8/2026 GĐ SCT ký GP sử dụng VLNCN (sd-vlncn v2026.8.19.1, hl-vlncn v1.3.1, kho-vlncn v1.7.1)
 
 Bạn cung cấp **Phụ lục danh mục ủy quyền kèm QĐ 2867/QĐ-UBND** (bản Word trình, số/ngày QĐ để trống) → gỡ toàn bộ cảnh báo "chưa có Phụ lục" của đợt trước:

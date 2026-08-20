@@ -5,6 +5,7 @@
 - Kiểm tra chuyên ngành của SCT thực hiện theo quy định về kiểm tra của cơ quan hành chính nhà nước (NĐ 217/2025/NĐ-CP — khớp cách viện dẫn của các plugin hnh/hc/sd-vlncn) và kế hoạch kiểm tra hằng năm được Giám đốc Sở phê duyệt; kiểm tra đột xuất khi có dấu hiệu vi phạm, chỉ đạo của UBND tỉnh (CV 5973) hoặc phản ánh.
 - Phạm vi kiểm tra của SCT tại mỏ/cơ sở chế biến: VLNCN, an toàn kỹ thuật khai thác, tuân thủ thiết kế mỏ (nhóm I), KH quản lý rủi ro, GĐĐH mỏ - GCN huấn luyện, chế biến - nguồn gốc. KHÔNG kiểm tra thay: ranh giới - trữ lượng - tiền cấp quyền (SNNMT), thuế (Thuế tỉnh), đất đai.
 - Hình thức phối hợp phổ biến: tham gia đoàn liên ngành do SNNMT/Thanh tra tỉnh chủ trì — khi đó ý kiến SCT giới hạn trong chức năng, ghi rõ trong biên bản.
+- **Thanh tra doanh nghiệp ngành Công Thương nay do Thanh tra tỉnh thực hiện** (Phòng Thanh tra, giải quyết KN, TC lĩnh vực Công Thương và KHCN) — SCT chỉ kiểm tra chuyên ngành. Mẫu thật biên bản làm việc chốt kết quả thanh tra khoáng sản (BB 13A/BB-ĐTT72 — vụ Mông Sơn) + 10 kinh nghiệm lập biên bản + checklist "đón thanh tra tỉnh" cho doanh nghiệp mỏ: reference `20`.
 
 ## II. XỬ PHẠT VPHC LĨNH VỰC KHOÁNG SẢN
 
@@ -28,6 +29,9 @@ B2 Chuẩn bị: rút hồ sơ mỏ tại du-lieu/ + hồ sơ VLNCN + thiết k�
    in checklist (checklists/checklist-kiem-tra-mo.md)
 B3 Kiểm tra thực địa + hồ sơ; lập BIÊN BẢN KIỂM TRA: ghi hiện trạng khách quan,
    tài liệu đã xuất trình/chưa xuất trình, ý kiến đối tượng; ký từng trang
+   Đợt dài/nhiều nội dung → thêm BIÊN BẢN LÀM VIỆC chốt kết quả cuối đợt
+   (khung mục C mẫu 02; kỹ thuật viết theo reference 20: bảng số liệu nhiều
+   năm, tồn tại kiểu đối chiếu, mục lịch sử xử phạt trong kỳ)
 B4 Có dấu hiệu VPHC → biên bản VPHC riêng theo mẫu Luật XLVPHC; ngoài chức năng
    → ghi nhận, kiến nghị chuyển cơ quan có thẩm quyền
 B5 BÁO CÁO KẾT QUẢ (BC-SCT): tồn tại, kiến nghị (khắc phục có thời hạn / đình chỉ /

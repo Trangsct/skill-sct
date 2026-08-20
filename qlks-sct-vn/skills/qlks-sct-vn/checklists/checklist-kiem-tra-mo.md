@@ -43,6 +43,13 @@ In kèm biên bản; đánh dấu Có/Không/Không áp dụng; cột "KAD" cho 
 - [ ] Thống kê trữ lượng khai thác hằng năm; kiểm kê khi thuộc trường hợp Điều 64 Luật
 - [ ] Bản đồ, mặt cắt hiện trạng cập nhật (Đ12-15 TT 36/2025/TT-BNNMT)
 
+### A7. Đối chiếu kiểu thanh tra (kinh nghiệm BB 13A/BB-ĐTT72 — reference 20)
+- [ ] Khám sức khỏe định kỳ NLĐ có đủ TỪNG NĂM trong thời kỳ kiểm tra? (lỗ hổng phổ biến)
+- [ ] Sản phẩm bán ra đúng mục tiêu GCN đầu tư? (danh sách khách hàng so mục tiêu GCN — ngoài chức năng thì ghi nhận, kiến nghị chuyển Sở Tài chính/cơ quan ĐKĐT)
+- [ ] Hạng mục cam kết trong ĐTM đã xây dựng đủ theo tiến độ (bãi thải 2, công trình xử lý...)? (ghi nhận → SNNMT)
+- [ ] Bảng VLNCN sử dụng theo năm (thuốc nổ, kíp, dây nổ, số hộ chiếu) đặt cạnh bảng sản lượng theo năm — chênh lệch bất thường?
+- [ ] Các QĐ xử phạt trong kỳ: đã nộp phạt, đã khắc phục hành vi? (tái phạm → tình tiết tăng nặng)
+
 ## PHẦN B — CƠ SỞ CHẾ BIẾN, THU MUA, TẬP KẾT
 
 - [ ] GCN ĐKDN; GCN đầu tư/chấp thuận chủ trương: địa điểm, quy mô, công suất, sản phẩm

@@ -1,6 +1,6 @@
-# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 04/8/2026)
+# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 21/8/2026)
 
-> NGUỒN: 05 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026, 20/7/2026 và 04/8/2026 (QĐ 2548 Cam Đường — bản scan, đã OCR xác minh số/ngày/người ký từ file gốc); bổ sung tiến độ sau chấp thuận theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
+> NGUỒN: 05 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026, 20/7/2026 và 04/8/2026 (QĐ 2548 Cam Đường — bản scan, đã OCR xác minh số/ngày/người ký từ file gốc); QĐ 2978/QĐ-UBND ngày 21/8/2026 điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bản ký số, số/ngày điền qua trường ký số — đã render ảnh xác minh) Bạn cung cấp ngày 21/8/2026; bổ sung tiến độ sau chấp thuận theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
 
 ## I. Ý NGHĨA PHÁP LÝ VÀ CÁCH DIỄN ĐẠT
 
@@ -51,6 +51,18 @@
 | Tiến độ | 21 tháng (QII/2026 → QI/2028): chuẩn bị QII-III/2026; hồ sơ kỹ thuật QIII-IV/2026; thi công QI-IV/2027; kinh doanh khai thác từ QI/2028 |
 | Căn cứ chính | Kết luận 299-KL/TU ngày 02/7/2026 của BTV Tỉnh ủy; NQ 668-NQ/ĐU ngày 27/6/2026; VB 11654/ANKT-ANTCĐT ngày 02/7/2026; Báo cáo thẩm định 203/BC-BQL ngày 26/6/2026 của BQL KKT |
 
+### IV-bis. ĐIỀU CHỈNH LẦN 01 — QĐ 2978/QĐ-UBND ngày 21/8/2026
+
+| Nội dung | Chi tiết |
+|---|---|
+| Văn bản | **Quyết định chấp thuận điều chỉnh chủ trương đầu tư số 2978/QĐ-UBND ngày 21/8/2026** của **Chủ tịch UBND tỉnh Lào Cai** (KT. Chủ tịch, Phó Chủ tịch **Phan Trung Bá** ký). Ghi trên tiêu đề: "Cấp lần đầu: ngày 02/7/2026" — "Điều chỉnh lần thứ 01: ngày 21/8/2026". Bản ký số, số/ngày điền qua trường ký số — đã render ảnh xác minh |
+| Nội dung điều chỉnh DUY NHẤT | **Bổ sung mục tiêu hoạt động** vào Mục 3 Điều 1 QĐ 2338/QĐ-UBND: *"Bổ sung mục tiêu hoạt động trong Mục tiêu dự án: **Truyền tải và phân phối điện, mã ngành theo VSIC 3513**"*. Các nội dung khác (quy mô 200 ha, tổng vốn 2.185 tỷ, tiến độ, thời hạn 70 năm...) GIỮ NGUYÊN theo QĐ 2338 |
+| Hiệu lực | Có hiệu lực từ ngày ký (21/8/2026); là **bộ phận không tách rời** của QĐ 2338/QĐ-UBND ngày 02/7/2026 |
+| Ràng buộc riêng về điện lực (Điều 2) | Nhà đầu tư **chỉ được tổ chức hoạt động điện lực sau khi đáp ứng đầy đủ các điều kiện** thực hiện hoạt động điện lực và **không thay thế** giấy phép hoạt động điện lực, thỏa thuận đấu nối, các yêu cầu về đầu tư xây dựng công trình điện, đo đếm, hợp đồng mua bán điện và các thủ tục, điều kiện chuyên ngành khác theo pháp luật về điện lực |
+| Căn cứ chính | Luật Đầu tư 143/2025/QH15; NĐ 96/2026/NĐ-CP ngày 31/3/2026; TT 55/2026/TT-BTC ngày 15/5/2026; Kết luận 748-KL/ĐU ngày 20/8/2026 và Nghị quyết 998-NQ/ĐU ngày 20/8/2026 (về Tờ trình của UBND tỉnh); Văn bản đề nghị điều chỉnh + Hồ sơ đề xuất điều chỉnh của Công ty CP Công nghiệp Linh Linh nộp ngày 10/8/2026; Báo cáo thẩm định **259/BC-BQL ngày 13/8/2026** của BQL Khu kinh tế |
+| Vai trò SCT (Điều 2) | Sở Công Thương, BQL Khu kinh tế tỉnh có trách nhiệm giám sát thực hiện dự án; hướng dẫn, theo dõi, đôn đốc nhà đầu tư thực hiện theo đúng dự án đã được phê duyệt |
+| Số bản chính | 03 bản: 01 cấp cho Công ty CP Công nghiệp Linh Linh, 01 gửi BQL Khu kinh tế tỉnh, 01 lưu Văn phòng UBND tỉnh |
+
 ## V. KCN VÕ LAO — QĐ 2463/QĐ-UBND ngày 16/7/2026
 
 | Nội dung | Chi tiết |
@@ -90,10 +102,12 @@
 
 ## VII. LƯU Ý NGHIỆP VỤ CHO SỞ CÔNG THƯƠNG
 
-1. **Thẩm quyền ban hành khác nhau:** QĐ 2170 (Bản Qua) và QĐ 2463 (Võ Lao) do **UBND tỉnh** (TM. UBND); QĐ 2336, 2338 (Phú Xuân, Phú Xuân 1) và QĐ 2548 (Cam Đường) do **Chủ tịch UBND tỉnh**. Khi trích dẫn căn cứ phải ghi đúng chủ thể ban hành từng QĐ.
+1. **Thẩm quyền ban hành khác nhau:** QĐ 2170 (Bản Qua) và QĐ 2463 (Võ Lao) do **UBND tỉnh** (TM. UBND); QĐ 2336, 2338 (Phú Xuân, Phú Xuân 1), QĐ 2548 (Cam Đường) và QĐ 2978 (điều chỉnh Phú Xuân 1) do **Chủ tịch UBND tỉnh** (riêng QĐ 2978: KT. Chủ tịch, PCT Phan Trung Bá ký). Khi trích dẫn căn cứ phải ghi đúng chủ thể ban hành từng QĐ.
 2. **Vai trò Sở Công Thương** theo Điều 2 các QĐ: cùng BQL KKT giám sát thực hiện dự án; hướng dẫn, theo dõi, đôn đốc nhà đầu tư; tiếp nhận báo cáo giám sát đánh giá đầu tư định kỳ (quý, năm) của nhà đầu tư.
 3. **Diện tích Bản Qua 76,39 ha vs 107 ha quy hoạch:** phần chênh lệch (~30,61 ha) vẫn nằm trong quy hoạch GĐ1 — khi báo cáo quy hoạch dùng 107 ha, khi nói về dự án đã chấp thuận dùng 76,39 ha, tránh trộn lẫn.
 4. **Cùng một nhà đầu tư (Linh Linh) thực hiện 2 KCN liền kề** (Phú Xuân 300 ha + Phú Xuân 1 200 ha, đều xã Gia Phú): khi soạn văn bản không gộp thành "KCN Phú Xuân 500 ha" — là 2 dự án, 2 QĐ độc lập.
+   - **Viện dẫn Phú Xuân 1 từ 21/8/2026:** ghi "Quyết định số 2338/QĐ-UBND ngày 02/7/2026 (được điều chỉnh tại Quyết định số 2978/QĐ-UBND ngày 21/8/2026) của Chủ tịch UBND tỉnh Lào Cai" khi nội dung liên quan mục tiêu dự án; mục tiêu dự án Phú Xuân 1 nay CÓ "Truyền tải và phân phối điện (VSIC 3513)". KCN Phú Xuân (QĐ 2336) CHƯA có điều chỉnh tương tự — không suy diễn áp cho cả hai.
+   - Dự án thứ cấp/hạng mục điện trong KCN Phú Xuân 1: mục tiêu VSIC 3513 tại QĐ điều chỉnh KHÔNG thay thế giấy phép hoạt động điện lực và thủ tục chuyên ngành điện lực (Điều 2 QĐ 2978) — nghiệp vụ điện lực đối chiếu thêm plugin `quy-hoach-ct-vn`.
 5. Nhà đầu tư phải ký quỹ/bảo lãnh ngay sau chấp thuận CTĐT; chỉ được triển khai xây dựng khi hoàn thành thủ tục đầu tư, đất đai, xây dựng, môi trường (điều kiện khởi công: reference `08`).
 6. **KCN Võ Lao nằm trên 2 xã** (Võ Lao và Tằng Loỏng) — văn bản gửi địa phương phải gửi cả UBND xã Võ Lao và UBND xã Tằng Loỏng; nhà đầu tư gửi báo cáo giám sát đánh giá đầu tư về Sở Công Thương, BQL KKT, UBND xã Võ Lao (theo Điều 2 QĐ 2463).
 7. **Với QĐ 2463 (16/7/2026), mục tiêu NQ 34-NQ/TU về thành lập mới 02 KCN (Bản Qua, Võ Lao) đã HOÀN THÀNH VƯỢT MỨC**: 04 KCN được chấp thuận CTĐT trong năm 2026 (Bản Qua, Phú Xuân, Phú Xuân 1, Võ Lao).

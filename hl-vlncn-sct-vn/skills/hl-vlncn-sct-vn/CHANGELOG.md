@@ -1,5 +1,9 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.3.2] - 21/8/2026 (CV 5085/SCT-VP — triển khai nội bộ hai QĐ ủy quyền)
+- Bạn cung cấp bản ký **CV 5085/SCT-VP ngày 19/8/2026** (GĐ Hoàng Chí Hiền ký; lưu tại `sd-vlncn-sct-vn/van-ban-goc/`): triển khai nội bộ QĐ 1883 + QĐ 2867 — **PGĐ Hoàng Văn Thuân trực tiếp chỉ đạo**, **Phòng QLCN chủ trì** tham mưu Lãnh đạo Sở; nhóm huấn luyện viện dẫn đúng cụm "k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024" của Phụ lục QĐ 1883 → xác nhận nội bộ chính thức GCN huấn luyện tiếp tục theo QĐ 1883; **không đổi tiền lệ người ký** (QĐ công nhận + GCN vẫn GĐ ký trực tiếp — CV là phân công chỉ đạo, không phải giao ký thay).
+- Thêm ref `01` mục **C-ter**; cập nhật INDEX văn bản gốc + SKILL.md (mục nhiệm vụ báo cáo/ủy quyền); plugin.json → 1.3.2.
+
 ## [1.3.1] - 19/8/2026 (bổ sung — Phụ lục QĐ 2867)
 - Bạn cung cấp Phụ lục danh mục QĐ 2867 (bản trình) → **CHỐT: QĐ 2867 chỉ ủy quyền GP SỬ DỤNG VLNCN, KHÔNG bao gồm GCN huấn luyện** → nhiệm vụ huấn luyện tiếp tục viện dẫn QĐ 1883/QĐ-UBND như cũ, không đổi căn cứ; gỡ "quy tắc tạm thời" tại ref 01 C-bis, cập nhật INDEX + SKILL.md. Hai QĐ song song cùng hết hạn 28/02/2027 — khi tham mưu ủy quyền giai đoạn sau, đề xuất gộp một QĐ.
 

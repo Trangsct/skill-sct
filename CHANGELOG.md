@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-21 — CV 5085/SCT-VP 19/8/2026 triển khai nội bộ hai QĐ ủy quyền VLNCN (sd-vlncn v2026.8.21, hl-vlncn v1.3.2) + đồng bộ web
+
+Bạn cung cấp bản ký **CV 5085/SCT-VP ngày 19/8/2026** của Sở Công Thương (GĐ Hoàng Chí Hiền ký) — "V/v thực hiện các nhiệm vụ được UBND tỉnh ủy quyền trong lĩnh vực VLNCN": triển khai nội bộ **cả QĐ 1883/QĐ-UBND (GCN huấn luyện) và QĐ 2867/QĐ-UBND (GP sử dụng)** — mục 1 giao **PGĐ Hoàng Văn Thuân trực tiếp chỉ đạo, tổ chức thực hiện**; mục 2 giao **Phòng QLCN chủ trì** tham mưu Lãnh đạo Sở 2 nhóm nhiệm vụ (GCN huấn luyện viện dẫn k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024; GP sử dụng cấp/cấp lại/cấp điều chỉnh). Xác nhận nội bộ chính thức cách hiểu hai QĐ song song; **KHÔNG chốt người ký GP** (phân công chỉ đạo ≠ giao ký thay — điểm treo người ký giữ nguyên).
+
+- **sd-vlncn → 2026.8.21**: bản ký vào `van-ban-goc/` + INDEX; ref 10 thêm mục **A-ter** (tóm tắt CV + 4 giá trị nghiệp vụ, trong đó CV 5085 dùng được làm mẫu khung văn bản triển khai ủy quyền 2 mục); bổ sung dữ kiện vào bullet ⚠ người ký (A-bis); SKILL.md II.11 + mục IV. (Đồng bộ luôn plugin.json vốn còn ghi 2026.8.19.1 dù CHANGELOG đã có bản 2026.8.20.)
+- **hl-vlncn → 1.3.2**: ref 01 thêm mục **C-ter**; INDEX + SKILL.md; khẳng định không đổi tiền lệ người ký (GĐ ký trực tiếp QĐ công nhận + GCN).
+- **Web đồng bộ:** `vlncn-laocai-files/uploads/` thêm `5085_SCT-VP.pdf`, `1883_QĐ-UBND.pdf` + Phụ lục `_2`, `2867_QĐ-UBND.pdf`; trang Tổng quan `vlncn-laocai` sửa mục Cơ sở pháp lý (gỡ mô tả sai "QĐ 1883 ủy quyền cấp GP sử dụng") — tách đúng QĐ 1883 / QĐ 2867 / CV 5085 kèm link bản gốc, cập nhật đoạn thẩm quyền cấp GP từ 20/8/2026.
+
 ## 2026-08-21 — kccn-sct-vn v1.22.0: QĐ 2978/QĐ-UBND điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bổ sung mục tiêu VSIC 3513)
 
 Bạn cung cấp bản PDF ký số **QĐ 2978/QĐ-UBND ngày 21/8/2026** của Chủ tịch UBND tỉnh Lào Cai (KT. Chủ tịch, PCT Phan Trung Bá ký) — chấp thuận điều chỉnh chủ trương đầu tư **lần 01** dự án hạ tầng **KCN Phú Xuân 1** (xã Gia Phú; NĐT Công ty CP Công nghiệp Linh Linh). Nội dung điều chỉnh duy nhất: bổ sung mục tiêu *"Truyền tải và phân phối điện, mã ngành VSIC 3513"* vào Mục 3 Điều 1 QĐ 2338/QĐ-UBND ngày 02/7/2026; là bộ phận không tách rời QĐ 2338; KHÔNG thay thế giấy phép hoạt động điện lực và thủ tục chuyên ngành điện lực.

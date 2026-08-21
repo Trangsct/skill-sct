@@ -88,6 +88,12 @@ UBND tỉnh ban hành **QĐ 2867/QĐ-UBND ngày 17/8/2026** (PCT Nguyễn Thành
 - ✅ **ĐÃ CÓ PHỤ LỤC (bản trình, Bạn cung cấp 19/8/2026** — `sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-trinh.docx`): danh mục QĐ 2867 **CHỈ gồm 01 nhiệm vụ — cấp, cấp lại, cấp điều chỉnh GP SỬ DỤNG VLNCN** (căn cứ k1 Đ1 TT 26/2026). **KHÔNG bao gồm GCN huấn luyện.**
 - **Kết luận cho plugin này:** nhiệm vụ huấn luyện, kiểm tra, cấp/cấp lại GCN huấn luyện KTAT VLNCN **tiếp tục viện dẫn QĐ 1883/QĐ-UBND như cũ**, không đổi căn cứ. Hai QĐ ủy quyền song song, cùng hết hạn **28/02/2027** — khi tham mưu QĐ ủy quyền giai đoạn tiếp theo, đề xuất gộp cả huấn luyện + GP sử dụng vào một QĐ.
 
+### C-ter. CV 5085/SCT-VP ngày 19/8/2026 — triển khai nội bộ hai QĐ ủy quyền (GĐ Hoàng Chí Hiền ký)
+Bản ký: `sd-vlncn-sct-vn/van-ban-goc/2026.08.19-5085.SCT.VP-Trien-khai-nhiem-vu-uy-quyen-VLNCN_ban-ky.pdf`. Sở Công Thương triển khai **cả QĐ 1883 và QĐ 2867**; gửi PGĐ Hoàng Văn Thuân + Phòng QLCN:
+- **Mục 1:** PGĐ **Hoàng Văn Thuân** trực tiếp chỉ đạo, tổ chức thực hiện các nhiệm vụ, quyền hạn được ủy quyền tại cả hai QĐ; chịu trách nhiệm trước GĐ Sở, UBND tỉnh, Chủ tịch UBND tỉnh và pháp luật.
+- **Mục 2:** **Phòng QLCN chủ trì**, phối hợp các đơn vị liên quan tham mưu Lãnh đạo Sở; nhóm nhiệm vụ huấn luyện được CV liệt kê là "**huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện kỹ thuật an toàn VLNCN quy định tại khoản 1 Điều 6, Điều 9 và điểm b, khoản 1 Điều 18 NĐ 181/2024/NĐ-CP**" — đúng cụm điều khoản gốc trong Phụ lục QĐ 1883 (căn cứ phân cấp hiện hành vẫn là k1 Đ24 NĐ 146/2025 — mục B trên).
+- **Ý nghĩa cho plugin này:** xác nhận nội bộ chính thức GCN huấn luyện tiếp tục theo QĐ 1883 (khớp mục C-bis); đầu mối chỉ đạo hai nhiệm vụ ủy quyền là PGĐ Thuân, Phòng QLCN chủ trì. **Không thay đổi tiền lệ người ký**: QĐ công nhận kết quả + GCN vẫn do **GĐ Hoàng Chí Hiền ký trực tiếp** (CV 5085 là phân công chỉ đạo, không phải giao ký thay); KH/TB/CV trả lời DN vẫn KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân. Khó khăn, vướng mắc → báo cáo GĐ Sở.
+
 ## D. Văn bản liên quan khác
 - **Luật 42/2024/QH15 ngày 29/6/2024** — nền của toàn lĩnh vực VLNCN (điều kiện sử dụng Đ38, hồ sơ GP Đ39 → xem `sd-vlncn-sct-vn`).
 - **TT 23/2024/TT-BCT ngày 07/11/2024** + **TT 38/2025/TT-BCT ngày 19/6/2025** — quản lý, sử dụng VLNCN, TCTN thuộc BCT; phân cấp TTHC (căn cứ trong QĐ công nhận kết quả).

@@ -1,5 +1,13 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-08-21 (CV 5085/SCT-VP — triển khai nội bộ hai QĐ ủy quyền)
+
+- **sd-vlncn-sct-vn [2026.8.21]**: Bạn cung cấp bản ký **CV 5085/SCT-VP ngày 19/8/2026** của Sở Công Thương (GĐ Hoàng Chí Hiền ký) — "V/v thực hiện các nhiệm vụ được UBND tỉnh ủy quyền trong lĩnh vực VLNCN", triển khai nội bộ **cả QĐ 1883/QĐ-UBND và QĐ 2867/QĐ-UBND**: mục 1 giao **PGĐ Hoàng Văn Thuân trực tiếp chỉ đạo, tổ chức thực hiện**, chịu trách nhiệm trước GĐ Sở, UBND tỉnh, Chủ tịch UBND tỉnh và pháp luật; mục 2 giao **Phòng QLCN chủ trì** tham mưu Lãnh đạo Sở 2 nhóm nhiệm vụ: (i) GCN huấn luyện KTAT VLNCN (viện dẫn k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024), (ii) GP sử dụng VLNCN (cấp/cấp lại/cấp điều chỉnh). Khó khăn → báo cáo GĐ Sở; Lưu: VT, VP(Cường).
+  - **Giá trị:** xác nhận nội bộ chính thức "QĐ 1883 = GCN huấn luyện, QĐ 2867 = GP sử dụng"; chốt đầu mối chỉ đạo (PGĐ Thuân) + đơn vị chủ trì (Phòng QLCN); **KHÔNG chốt người ký GP** — phân công chỉ đạo, không phải giao ký thay → điểm treo người ký giữ nguyên.
+  - **Reference 10**: thêm mục **A-ter** (toàn văn tóm tắt CV 5085 + 4 giá trị nghiệp vụ); bổ sung dữ kiện CV 5085 vào bullet ⚠ "người ký chưa chốt" mục A-bis. **SKILL.md**: mục II.11 thêm CV 5085; mục IV bullet PGĐ Thuân + bullet người ký. **van-ban-goc**: thêm bản ký + INDEX.
+  - **Web đồng bộ cùng đợt:** repo `vlncn-laocai-files` thêm `uploads/5085_SCT-VP.pdf`, `1883_QĐ-UBND.pdf` (+ Phụ lục `_2`), `2867_QĐ-UBND.pdf`; trang Tổng quan web `vlncn-laocai` sửa mục Cơ sở pháp lý (trước đây ghi nhầm QĐ 1883 là ủy quyền cấp GP sử dụng) — nay tách đúng QĐ 1883 (GCN huấn luyện) / QĐ 2867 (GP sử dụng, hiệu lực 20/8/2026 → 28/02/2027) + CV 5085.
+  - Ghi chú: plugin.json 2026.8.19.1 → **2026.8.21** (bản 2026.8.20 trong CHANGELOG trước đó chưa được tăng trong plugin.json — nay đồng bộ luôn).
+
 ## 2026-08-20 (QĐ 2867 — cập nhật LỚP NGHIỆP VỤ: mẫu văn bản + quy trình)
 
 - **sd-vlncn-sct-vn [2026.8.20]**: bản cập nhật 19/8 mới chạm lớp pháp lý (SKILL.md mục II.11, bảng III, ref `01` mục 9, ref `10` A-bis, van-ban-goc). Lần này cập nhật **lớp nghiệp vụ** để bộ mẫu không còn mâu thuẫn với ủy quyền:

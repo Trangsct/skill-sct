@@ -1,4 +1,18 @@
 # CHANGELOG
+## v1.22.0 — 21/8/2026: QĐ 2978/QĐ-UBND điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bổ sung mục tiêu VSIC 3513)
+
+Bạn cung cấp bản PDF ký số ngày 21/8/2026 (số/ngày điền qua trường ký số — đã render trang thành ảnh để GATE số/ngày/người ký từ bản gốc):
+
+| Văn bản | Số, ngày | Cơ quan | Người ký |
+|---|---|---|---|
+| QĐ chấp thuận điều chỉnh chủ trương đầu tư (điều chỉnh lần thứ 01) dự án Đầu tư xây dựng và kinh doanh kết cấu hạ tầng KCN Phú Xuân 1 | **2978/QĐ-UBND, 21/8/2026** | Chủ tịch UBND tỉnh Lào Cai | KT. Chủ tịch, Phó Chủ tịch **Phan Trung Bá** |
+
+- **`references/15-kcn-chap-thuan-ctdt-2026.md`**: thêm mục **IV-bis** (điều chỉnh lần 01 QĐ 2338): nội dung điều chỉnh duy nhất là bổ sung mục tiêu *"Truyền tải và phân phối điện, mã ngành theo VSIC 3513"* vào Mục 3 Điều 1 QĐ 2338/QĐ-UBND (các nội dung khác giữ nguyên); hiệu lực từ ngày ký, là bộ phận không tách rời QĐ 2338; ràng buộc Điều 2 — mục tiêu VSIC 3513 KHÔNG thay thế giấy phép hoạt động điện lực, thỏa thuận đấu nối và thủ tục chuyên ngành điện lực; căn cứ: KL 748-KL/ĐU + NQ 998-NQ/ĐU cùng ngày 20/8/2026, hồ sơ NĐT nộp 10/8/2026, BC thẩm định 259/BC-BQL ngày 13/8/2026 của BQL KKT.
+- **`references/15` mục VII**: cập nhật lưu ý thẩm quyền (QĐ 2978 do Chủ tịch UBND tỉnh, PCT Phan Trung Bá ký KT.); cách viện dẫn chuẩn từ 21/8/2026: "QĐ số 2338/QĐ-UBND ngày 02/7/2026 (được điều chỉnh tại QĐ số 2978/QĐ-UBND ngày 21/8/2026)"; cảnh báo KCN Phú Xuân (QĐ 2336) CHƯA có điều chỉnh tương tự — không suy diễn áp cho cả hai.
+- `SKILL.md`: mục I.8 + description bổ sung từ khóa QĐ 2978.
+- `van-ban-goc/`: lưu bản gốc `QD-2978-2026-dieu-chinh-CTDT-KCN-Phu-Xuan-1.pdf`.
+- plugin.json → 1.22.0.
+
 ## v1.21.0 — 19/8/2026: Hội đồng thẩm định Quy hoạch các KCN do BQL các khu công nghiệp tỉnh quản lý (QĐ 7 + QĐ 226/QĐ-BQLCKCN)
 
 Bạn cung cấp 02 file PDF bản scan ngày 19/8/2026. Đã GATE số/ngày/người ký từ bản gốc (số và ngày điền tay — render ảnh để đọc):

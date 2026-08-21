@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-21 — kccn-sct-vn v1.22.0: QĐ 2978/QĐ-UBND điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bổ sung mục tiêu VSIC 3513)
+
+Bạn cung cấp bản PDF ký số **QĐ 2978/QĐ-UBND ngày 21/8/2026** của Chủ tịch UBND tỉnh Lào Cai (KT. Chủ tịch, PCT Phan Trung Bá ký) — chấp thuận điều chỉnh chủ trương đầu tư **lần 01** dự án hạ tầng **KCN Phú Xuân 1** (xã Gia Phú; NĐT Công ty CP Công nghiệp Linh Linh). Nội dung điều chỉnh duy nhất: bổ sung mục tiêu *"Truyền tải và phân phối điện, mã ngành VSIC 3513"* vào Mục 3 Điều 1 QĐ 2338/QĐ-UBND ngày 02/7/2026; là bộ phận không tách rời QĐ 2338; KHÔNG thay thế giấy phép hoạt động điện lực và thủ tục chuyên ngành điện lực.
+
+- `references/15` thêm mục IV-bis (chi tiết QĐ 2978: căn cứ KL 748-KL/ĐU + NQ 998-NQ/ĐU 20/8/2026, BC thẩm định 259/BC-BQL 13/8/2026) + cách viện dẫn chuẩn "QĐ 2338 (được điều chỉnh tại QĐ 2978)"; `SKILL.md` + description bổ sung từ khóa; bản gốc vào `van-ban-goc/`; plugin.json → **1.22.0**.
+
 ## 2026-08-21 — vbhc-vn v2.10.0: phong cách chuẩn mới cho công văn nội bộ phòng tham gia ý kiến + 2 mẫu vàng 21/8/2026 (kèm qlks-sct-vn v1.7.1)
 
 Từ 2 văn bản Bạn chốt trong ngày (trả lời Phòng QLNL): (1) tham gia ý kiến đoạn tuyến ĐZ 110kV Âu Lâu cắt qua khu đất quy hoạch CCN Bảo Hưng 2 (CV 288/SCT-NL); (2) tham gia ý kiến hồ sơ đăng ký thu hồi cát VLXDTT khi nạo vét lòng hồ thủy điện Nậm Lúc (CV 7972/SNNMT-KS của SNNMT).

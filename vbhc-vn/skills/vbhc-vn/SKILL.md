@@ -16,7 +16,7 @@ Skill có **2 chế độ làm việc** (xem mục "Hai chế độ làm việc"
 ## Tài liệu tham chiếu (`reference/`) — đọc khi cần
 SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc đúng file khi cần, để tiết kiệm ngữ cảnh):
 - `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
-- `reference/thu-vien-mau-that.md` — 21 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
+- `reference/thu-vien-mau-that.md` — 23 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
 - `reference/phong-tranh-sai-lam.md` — chi tiết 9 nhóm sai lầm A–I + checklist + vụ thật (Nhóm K cũ đã hợp nhất vào H = H6–H11; trHeight = H12).
 - `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
 - `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
@@ -82,6 +82,7 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 - Khi nghi ngờ thể thức mà không soi được ảnh: **đối chiếu pixel với bản ký thật** — render cả hai cùng 120 dpi, dò các đoạn kẻ ngang (ngưỡng xám < 175, đoạn liên tục ≥ 30 px, liệt kê MỌI đoạn mỗi hàng chứ không chỉ đoạn dài nhất) rồi so tọa độ; đo đậm/thường bằng tỉ lệ mực hai vùng TRÊN CÙNG MỘT DÒNG (nhãn vs nội dung), không so giữa các dòng khác cấu trúc.
 
 ### Một số loại có quy ước riêng (tóm tắt; chi tiết ở mục template/examples)
+- **Công văn nội bộ Phòng - tham gia ý kiến (phong cách chốt 21/8/2026, thay kiểu cũ của mẫu KCN Phú Xuân)**: người ký **TRƯỞNG PHÒNG Nguyễn Hữu Long**; thân gồm đề mục đậm `1.` (hiện trạng/bối cảnh hoặc phạm vi) và `2.` (ý kiến), **KHÔNG có đề mục "3. Kết luận"** — kết luận là đoạn thường cuối; ý kiến trong mục 2 trình bày **gạch đầu dòng nhãn nghiêng `- Về ...:`** (không dùng a) b) c)). Hồ sơ trải nhiều lĩnh vực → mục 1 đổi thành "Về phạm vi tham gia ý kiến": chỉ rõ nội dung nào thuộc cơ quan/phòng nào và ghi thành văn "không tham gia ý kiến đối với các nội dung thuộc trách nhiệm của cơ quan, đơn vị khác". **Bộ 4 lớp bảo vệ pháp lý** khi phải chấp thuận phương án bất lợi cho lĩnh vực Phòng quản lý: ghi nhận quan điểm nhất quán của Phòng tại các cuộc họp trước đó; quy nguồn lý do thay đổi cho ý kiến các đơn vị liên quan; quy trách nhiệm tính chính xác của hồ sơ, số liệu cho chủ đầu tư/đơn vị tư vấn/đơn vị đăng ký; chốt "phương án tối ưu tại thời điểm hiện nay" kèm điều kiện theo dõi tiếp. Hai mẫu thật: `cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx` và `...-thu-hoi-cat-long-ho.docx` (chi tiết ở `reference/thu-vien-mau-that.md`).
 - **Giấy mời họp `SCT-GM`**: văn bản độc lập, không tham chiếu cuộc họp trước, các thành phần bình đẳng, không ghi "mời thêm"; kết cấu 4 mục (Thành phần; Thời gian; Địa điểm; Nội dung).
 - **QĐ cá biệt SCT**: "QUYẾT ĐỊNH" + "Về việc..."; "GIÁM ĐỐC SỞ CÔNG THƯƠNG" in hoa đậm căn giữa; căn cứ in nghiêng; cuối căn cứ "Theo đề nghị của Trưởng phòng Quản lý công nghiệp,"; "QUYẾT ĐỊNH:" đậm; Điều 1, 2, 3 đậm.
 - **GCN ATTP**: KHÔNG có số góc trái; Quốc hiệu căn giữa toàn trang; số cấp `.../{năm}/GCNATTP-SCTLC` đặt dưới bảng; hiệu lực 3 năm; kèm phụ lục danh mục.
@@ -249,7 +250,7 @@ python3 scripts/<ten-script>.py && python3 scripts/qa_all.py output/<file>.docx
 Chi tiết cấu trúc paragraph/table của từng template (chỉ số P/Table để điền đúng) — đọc khi soạn bằng Chế độ A: **`reference/templates-chi-tiet.md`**.
 
 ## Thư viện mẫu thật đã ban hành (`examples/`)
-21 mẫu thật (`examples/sct/` 15 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
+23 mẫu thật (`examples/sct/` 17 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
 Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Chế độ B); KHÔNG dùng `TemplateDoc` cho file `examples/` (đã điền sẵn, không theo chỉ số paragraph); KHÔNG bê nguyên nội dung vụ việc cũ sang văn bản mới — chỉ kế thừa khung, thể thức, văn phong.
 
 ## Công thức & checklist thực chiến

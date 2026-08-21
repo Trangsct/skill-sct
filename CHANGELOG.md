@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-21 — vbhc-vn v2.10.0: phong cách chuẩn mới cho công văn nội bộ phòng tham gia ý kiến + 2 mẫu vàng 21/8/2026 (kèm qlks-sct-vn v1.7.1)
+
+Từ 2 văn bản Bạn chốt trong ngày (trả lời Phòng QLNL): (1) tham gia ý kiến đoạn tuyến ĐZ 110kV Âu Lâu cắt qua khu đất quy hoạch CCN Bảo Hưng 2 (CV 288/SCT-NL); (2) tham gia ý kiến hồ sơ đăng ký thu hồi cát VLXDTT khi nạo vét lòng hồ thủy điện Nậm Lúc (CV 7972/SNNMT-KS của SNNMT).
+
+- **vbhc-vn → 2.10.0**: 2 mẫu thật mới `examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx` và `...-thu-hoi-cat-long-ho.docx`; phong cách chốt cho loại công văn nội bộ phòng tham gia ý kiến (TP Nguyễn Hữu Long ký; đề mục đậm 1., 2.; không đề mục Kết luận; gạch đầu dòng nhãn nghiêng `- Về ...:` thay a) b) c); hồ sơ đa lĩnh vực → mục 1 "Về phạm vi tham gia ý kiến" + câu "không tham gia ý kiến đối với các nội dung thuộc trách nhiệm của cơ quan, đơn vị khác"); chuẩn hóa **bộ 4 lớp bảo vệ pháp lý** khi chấp thuận phương án từng phản đối (ghi nhận quan điểm nhất quán tại các cuộc họp; quy nguồn lý do thay đổi cho ý kiến các đơn vị; quy trách nhiệm số liệu cho chủ đầu tư/tư vấn/đơn vị đăng ký; chốt "tối ưu tại thời điểm hiện nay"). Đếm lại 23 mẫu thật (sct 17 + ubnd 6).
+- **qlks-sct-vn → 1.7.1**: `references/17` bổ sung con trỏ mẫu tham gia ý kiến nội bộ vụ Nậm Lúc (khoanh vùng SNNMT - QLNL - QLCN, ràng buộc đề nghị đưa vào Bản xác nhận).
+
 ## 2026-08-20 — qlks-sct-vn v1.7.0: kinh nghiệm biên bản thanh tra/kiểm tra từ mẫu thật BB 13A/BB-ĐTT72 của Thanh tra tỉnh (vụ Mông Sơn)
 
 Bạn cung cấp bản scan **Biên bản làm việc số 13A/BB-ĐTT72 ngày 10/5/2026** của Đoàn thanh tra số 72-2026 (QĐ 72/QĐ-TT ngày 13/3/2026, Chánh Thanh tra tỉnh Lào Cai; Trưởng đoàn Nguyễn Công Hữu) — thống nhất kết quả thanh tra chấp hành pháp luật trong khai thác khoáng sản đối với **Công ty CP Mông Sơn**, mỏ đá hoa trắng Làng Cạn, xã Mông Sơn (vùng Yên Bái cũ). Bản scan không có text layer — đã render ảnh để đọc.

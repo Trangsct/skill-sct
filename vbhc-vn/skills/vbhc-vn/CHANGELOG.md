@@ -1,5 +1,14 @@
 # CHANGELOG — plugin vbhc-vn
 
+## v2.10.0 — 21/8/2026 (Phong cách chuẩn mới cho công văn nội bộ phòng tham gia ý kiến + 2 mẫu vàng)
+
+Từ 2 văn bản Bạn chốt ngày 21/8/2026 (trả lời Phòng QLNL về đoạn tuyến ĐZ 110kV Âu Lâu qua CCN Bảo Hưng 2 và về hồ sơ thu hồi cát lòng hồ thủy điện Nậm Lúc):
+
+- **2 mẫu thật mới** trong `examples/sct/`: `cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx` (bảo vệ pháp lý khi chấp thuận phương án từng phản đối) và `cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx` (khoanh vùng phạm vi theo chức năng khi hồ sơ đa lĩnh vực). Cả hai file sạch, không track changes, đã QA PASS.
+- **Phong cách chốt** (SKILL.md mục "Một số loại có quy ước riêng" + bảng `reference/thu-vien-mau-that.md`): TRƯỞNG PHÒNG Nguyễn Hữu Long ký; đề mục đậm 1., 2.; KHÔNG đề mục "3. Kết luận" (kết luận là đoạn thường cuối); ý kiến dạng gạch đầu dòng nhãn nghiêng `- Về ...:` thay a) b) c); hồ sơ đa lĩnh vực thì mục 1 = "Về phạm vi tham gia ý kiến" kèm câu "không tham gia ý kiến đối với các nội dung thuộc trách nhiệm của cơ quan, đơn vị khác".
+- **Bộ 4 lớp bảo vệ pháp lý** thành quy ước dùng lại: (i) ghi nhận thành văn quan điểm nhất quán của Phòng tại các cuộc họp; (ii) quy nguồn lý do thay đổi phương án cho ý kiến các đơn vị liên quan; (iii) quy trách nhiệm hồ sơ, số liệu cho chủ đầu tư/tư vấn/đơn vị đăng ký; (iv) chốt "phương án tối ưu tại thời điểm hiện nay".
+- Mẫu KCN Phú Xuân cũ giữ lại để tra khung header/footer; thân văn bản theo phong cách mới. Đếm lại: 23 mẫu thật (sct 17 + ubnd 6); plugin.json → 2.10.0.
+
 ## v2.9.0 — 08/8/2026 (ĐẠI TU: chống phình, hợp nhất trùng lặp, description trigger-only)
 
 - **Gộp Nhóm K (vừa tạo v2.8.0) vào Nhóm H** thành "Toàn vẹn trình bày khi thao tác XML/run & lắp ghép văn bản" H1–H12: K1–K6 cũ = H6–H11; Quy tắc bất biến 20 (trHeight) chuyển chi tiết + code về H12. Còn **9 nhóm A–I**. Lý do: H và K cùng họ lỗi, để 2 nhóm dễ chồng lấn khi tra.

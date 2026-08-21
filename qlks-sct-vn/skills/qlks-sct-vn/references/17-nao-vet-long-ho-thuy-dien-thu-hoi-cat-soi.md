@@ -137,3 +137,5 @@ Chủ đầu tư khi triển khai nạo vét phải:
 | `van-ban-goc/CV-2419-DCKS-PCKS-19-9-2025-...pdf` | Trả lời của Cục ĐCKS — mục 11 là câu chốt về dự án nạo vét |
 
 Mẫu văn bản để soạn: `mau-van-ban/07-bo-ho-so-thu-hoi-cat-soi-long-ho-thuy-dien.md`.
+
+**Mẫu tham gia ý kiến nội bộ (vụ thật thủy điện Nậm Lúc, 21/8/2026):** khi SNNMT xin ý kiến hồ sơ đăng ký thu hồi (điểm c khoản 2 Điều 98 NĐ 193/2025) và Phòng QLNL chuyển Phòng QLCN phối hợp — dùng mẫu `cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx` trong plugin `vbhc-vn` (examples/sct): mục 1 khoanh vùng phạm vi (thẩm định hồ sơ = SNNMT; bảo trì, vận hành hồ chứa, an toàn đập = Phòng QLNL; QLCN chỉ ý kiến phần công nghiệp khai thác, chế biến khoáng sản), mục 2 nêu nguyên tắc thu hồi trong phạm vi/độ sâu thiết kế + ràng buộc sản lượng, nguồn gốc đề nghị đưa vào Bản xác nhận, kèm câu quy trách nhiệm hồ sơ, số liệu cho đơn vị đăng ký và chủ sở hữu công trình.

@@ -12,6 +12,8 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Cấp / cấp lại / cấp điều chỉnh / thu hồi Giấy phép sử dụng VLNCN**: thẩm định hồ sơ doanh nghiệp, checklist, Phiếu trình, Tờ trình UBND tỉnh, dự thảo Giấy phép (GP-UBND), dự thảo QĐ điều chỉnh → reference `02` + mẫu 01–06.
 - **Phương án nổ mìn (PANM)**: xác định có phải trình UBND tỉnh phê duyệt không (cây quyết định); thẩm định nội dung theo Phụ lục VII TT 23/2024 và QCVN 01:2019/BCT; kiểm tra hiện trường; lấy ý kiến Sở Xây dựng; Tờ trình + dự thảo QĐ phê duyệt PANM (kèm/không kèm chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ) → reference `03` + mẫu 07–11.
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
+- **Soạn/chỉnh KHUNG PHƯƠNG ÁN NỔ MÌN cho doanh nghiệp** (lộ thiên gần khu dân cư hoặc hầm lò) → **mẫu 22** + 2 khung docx `vi-du-thuc-te/PANM-Manh-Chien-...-23.8.2026.docx` (lộ thiên, diện điểm d k2 Đ38, chữ đỏ = chỗ chờ đo đạc) và `PANM-Kim-Thanh-...-21.8.2026.docx` (hầm lò, tự phê duyệt).
+- **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** (giao nhiệm vụ SCT, Công an tỉnh, Bộ CHQS tỉnh, các sở, UBND xã; yêu cầu DN) → **mẫu 23** + 2 khung docx `vi-du-thuc-te/*-ban-23.8.2026.docx`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế. Riêng **công văn triển khai quy định mới của Luật 118/2025 (gửi kho, dịch vụ nổ mìn, hồ sơ PCCC, TCTN)** → **mẫu 21** + `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx`.
 - **Hồ sơ đã trình bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI**, hoặc chuẩn bị trình mà cần chặn rủi ro bị trả (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước xử lý sau khi bị trả) → reference `09` + mẫu 20. **Chạy bảng tự kiểm mẫu 20 trước MỌI lần trình UBND tỉnh.**
 - **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
@@ -53,7 +55,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 | GP sử dụng cho tổ chức nghiên cứu/thử nghiệm VLNCN; thăm dò - khai thác **dầu khí**; tổ chức có GP hoạt động khoáng sản **nhóm I** do **Bộ NN&MT** cấp (kể cả GP Bộ TN&MT cấp còn hiệu lực) | Cục Kỹ thuật an toàn và Môi trường công nghiệp (Bộ Công Thương) | điểm b k1 Đ4 TT 23 (thay bởi k1 Đ1 TT 26/2026) |
 | Tổ chức thuộc **Bộ Quốc phòng** | Bộ Quốc phòng (Tổng cục CNQP) | |
 | **Thu hồi** GP sử dụng VLNCN | ⚠ **KHÔNG có trong Phụ lục QĐ 2867** — mặc định vẫn **Chủ tịch UBND tỉnh** ký, SCT tham mưu (kể cả với GP do GĐ SCT cấp, cho đến khi có ủy quyền bổ sung) | Đ17 NĐ 181/2024; cách viết: mẫu 05, ref `10` A-bis |
-| **Phê duyệt PANM** tại khu dân cư/công trình cần bảo vệ + chấp thuận sử dụng | **Chủ tịch UBND tỉnh** ký QĐ (SCT thẩm định, Tờ trình) | điểm d k2 Đ38 Luật 42/2024 |
+| **Phê duyệt PANM** tại khu dân cư/công trình cần bảo vệ | Hiện hành: **Chủ tịch UBND tỉnh** ký QĐ (SCT thẩm định, Tờ trình). ⭐ 23/8/2026 Sở đã trình UBND tỉnh dự thảo CV chỉ đạo **giao SCT thẩm định, phê duyệt** (quan điểm chốt của Bạn: nhiệm vụ gắn chức năng cơ quan cấp GP — k4 Đ4 TT 23/2024 bản gốc; văn bản giao + ủy quyền QĐ 2867 là đủ cơ sở, xem mẫu 23). **Khi CV được ban hành → cập nhật dòng này + mẫu 07/10 + ref 03** | điểm d k2 Đ38 Luật 42/2024 |
 | PANM thông thường (ngoài khu vực trên) | **Lãnh đạo doanh nghiệp tự ký duyệt** — KHÔNG trình UBND tỉnh | điểm d k1 Đ39 Luật 42/2024 |
 | GP **dịch vụ nổ mìn** (cả 3 hình thức: 1 tỉnh, thềm lục địa, toàn quốc) | Cục KTAT&MTCN cấp; **UBND cấp tỉnh ban hành văn bản đề nghị** | điểm c k1 Đ4 TT 23 (sđ TT 26/2026); k1 Đ23 NĐ 146/2025 |
 | Huấn luyện + GCN huấn luyện KTAT VLNCN | UBND cấp tỉnh, đã **ủy quyền GĐ Sở Công Thương** | mã TTHC 2.000229/2.000210 |
@@ -173,7 +175,7 @@ sd-vlncn-sct-vn/
 │   └── 09-cong-gac-ubnd-tra-ho-so.md ← 3 tiền lệ UBND tỉnh/VP UBND trả hồ sơ 2025,
 │                                    ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình
 │                                    5 bước xử lý sau khi bị trả
-├── mau-van-ban/                      ← 20 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
+├── mau-van-ban/                      ← 23 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md
 │   ├── 03-to-trinh-cap-gp.md
@@ -193,7 +195,10 @@ sd-vlncn-sct-vn/
 │   ├── 17-ke-hoach-kiem-tra-cua-doan.md
 │   ├── 18-bao-cao-ket-qua-kiem-tra.md
 │   ├── 19-thong-bao-ket-qua-sau-kiem-tra.md
-│   └── 20-bang-tu-kiem-truoc-khi-trinh-ubnd.md
+│   ├── 20-bang-tu-kiem-truoc-khi-trinh-ubnd.md
+│   ├── 21-cv-trien-khai-luat-118-2025.md
+│   ├── 22-phuong-an-no-min.md           ← khung PANM 2 biến thể (lộ thiên gần dân cư / hầm lò)
+│   └── 23-cv-de-nghi-va-du-thao-cv-ubnd-chi-dao-vlncn.md
 ├── vi-du-thuc-te/                    ← văn bản thật đã ban hành (docx + PDF ký thật: Phiếu trình,
 │                                       biên bản hiện trường, PANM đầy đủ của DN, CV SXD/SCT)
 └── van-ban-goc/                      ← văn bản pháp luật ĐẦY ĐỦ (Luật 42, NĐ 181, TT 23, TT 38,

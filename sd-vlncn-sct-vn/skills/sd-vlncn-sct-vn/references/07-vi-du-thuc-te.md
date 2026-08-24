@@ -180,3 +180,36 @@ Các thông số khớp sẵn không phải sửa: chiều cao phân tầng 5 m;
 - **Render soi trước khi giao**: lần chỉnh đầu làm Phiếu trình phát sinh một trang chỉ có 2 dòng (tên PGĐ Hoàng Văn Thuân đứng trơ trọi) vì đoạn thẩm định thêm vào dài thêm ~5 dòng → xử lý bằng cách xoá 4 đoạn trống trong bảng khối ký (2 ở ô ý kiến PGĐ, 1 ở mỗi ô TP/người lập), đưa toàn bộ khối ký về 1 trang, tổng 10 → 9 trang.
 
 **File ví dụ thực tế** (bộ 4 văn bản Bạn đã chốt 30/7/2026 — Tờ trình, Dự thảo QĐ, Phiếu trình có Phụ lục thẩm định 5 cột đầy đủ, PANM số 01/PANM bản Sở hiệu chỉnh): **lưu tại thư mục cá nhân của Bạn, KHÔNG đưa lên repo** vì chứa tên người đại diện doanh nghiệp, số giấy phép và mô tả vị trí nhà dân trong bán kính nổ mìn — repo `Trangsct/skill-sct` là public. Khi cần khung soạn, hỏi Bạn gửi lại bộ file.
+
+
+## K. VỤ KIM THÀNH (8/2026) — CẤP GP SỬ DỤNG VLNCN MỎ HẦM LÒ CÓ 3 BƯỚC THIẾT KẾ
+
+**Bối cảnh**: Công ty cổ phần Kim Thành, mỏ chì - kẽm khu vực xã Cao Phạ (nay là xã Tú Lệ), khai thác hầm lò, công suất 7.150 tấn quặng/năm theo GP khai thác 680/GP-UBND ngày 07/4/2020 (8,5 năm → hết 07/10/2028). Giấy phép sử dụng VLNCN cũ 34/GP-SCT ngày 06/8/2021 của SCT Yên Bái đã hết hạn. Hồ sơ nộp 21-22/8/2026, cấp theo khuôn mới do Giám đốc Sở ký (ủy quyền QĐ 2867).
+
+**Ba bước thiết kế của cùng một mỏ** (dựng được từ Chương 1 của bản thiết kế nộp kèm):
+- Thiết kế bản vẽ thi công (gốc): SCT Yên Bái thẩm định tại VB 738/SCT-KTATMT ngày 07/5/2020; Giám đốc Công ty phê duyệt tại QĐ 10.5/QĐ-KT ngày 10/5/2020.
+- Điều chỉnh lần 1, lập tháng 5/2021: thẩm tra tại VB 28/BCTT-AH ngày 06/5/2021 của Công ty TNHH Thương mại và Tư vấn Khoáng sản Anh Huy; chỉnh sửa, bổ sung theo VB 796/SCT-KTATMT của SCT Yên Bái.
+- Điều chỉnh lần 2, lập tháng 5/2026 (Viện KH&CN Mỏ - Luyện kim / Công ty TNHH MTV Tư vấn ĐTXD Công nghiệp Mỏ Luyện kim): thẩm tra 19/5/2026; Giám đốc Công ty phê duyệt tại QĐ 26.5/QĐ-KT ngày 20/6/2026 (chủ đầu tư tự phê duyệt).
+
+**Bẫy chính**: Giấy đề nghị và PANM đều viện dẫn "mục 8.1.4.4 và Bảng 8.3 Thiết kế lập tháng 5/2021" — nhưng **bản nộp kèm hồ sơ là bản 2026**, và bản 2026 KHÔNG có mục 8.1.4.4 (chương 8 chỉ có 8.1.1→8.1.3, 8.2, 8.3), Bảng 8.3 của nó là bảng chỉ tiêu kinh tế - kỹ thuật chứ không phải bảng khối lượng VLNCN. Cách phát hiện nhanh: **mở mục lục bản nộp, dò số mục mà PANM viện dẫn — không có mục đó là bản viện dẫn khác bản nộp.**
+
+**Ba nhóm trị số lệch giữa hai bản thiết kế**:
+| Chỉ tiêu | Bản 2021 (PANM dựa vào) | Bản 2026 (nộp kèm) |
+|---|---|---|
+| Mét lò chuẩn bị/1.000 tấn | 69 m (46 m/phân tầng ÷ 667,1 tấn) | Ccb = 17,5 m |
+| Thuốc nổ 01 chu kỳ đào lò | 20,3 kg (dùng diện tích ĐÀO 5,20 m²) | Qđc = 12,10 kg (Bảng 8.10, dùng diện tích SỬ DỤNG 3,80 m²) |
+| Tổng năm | 48.580 kg + 57.115 kíp (Bảng 8.3) | mục 8.3 chép nguyên GP 34/GP-SCT: 94.200 kg + 131.200 kíp |
+
+Phần KHỚP giữa hai bản: Bảng 8.2 lò chợ (384,8 kg/vòng khấu = 2×74×0,5 + 6×74×0,7; 592 lỗ; 8 hàng × 74 lỗ; chỉ tiêu 3,2 kg/m³), Ctn = 1.430 kg/1.000 tấn, Ckíp = 2.200 cái/1.000 tấn.
+
+**Cách chốt (Bạn quyết 24/8/2026)** — theo anti-error 20, mỗi chỉ tiêu lấy trị số an toàn hơn, không cần bản thiết kế nào "thắng" toàn bộ:
+- Khối lượng năm: **48.580 kg và 57.115 cái** theo Bảng 8.3 bản 2021 (Giấy đề nghị và PANM ghi 57.116 do làm tròn 7.988 × 7,15 = 57.114,2 — Sở tự ấn định trị số đúng theo thiết kế, không yêu cầu DN đính chính, theo anti-error 21).
+- Quy mô đợt nổ: **64,1 kg** gương lò chợ (384,8 ÷ 6 đợt) và **12,10 kg** gương đào lò theo Bảng 8.10 bản 2026 (nhỏ hơn 20,3 kg của PANM).
+- Thuốc nổ tức thời lớn nhất 14,0 kg (20 lỗ × 0,7); nhu cầu tháng lớn nhất 4.048 kg < sức chứa kho 4.900 kg.
+- Phiếu trình viết **nguyên tắc** ("lấy trị số bảo đảm an toàn hơn giữa Phương án nổ mìn và các bước thiết kế được duyệt") + **chuỗi lineage 3 bước thiết kế**; KHÔNG mô tả sai số của doanh nghiệp, KHÔNG đi vào đường tính 69 m vì đường đó dẫn về bản không có trong hồ sơ.
+
+**Hồ sơ đủ theo khoản 1 Điều 39**: ĐKKD 5200484050 (thay đổi lần 11 ngày 03/6/2026); ANTT 19/GCN-CĐ5 ngày 10/6/2024; đất đai QĐ gia hạn 1345/QĐ-UBND ngày 02/7/2020 + HĐ thuê đất 67/2020/HĐTĐ ngày 21/8/2020; kho nổi, cố định, cấp II, sức chứa 4.900 kg — thẩm duyệt PCCC 28/TD-PCCC ngày 24/01/2024, chấp thuận nghiệm thu 31/NT-PCCC ngày 29/3/2024, thông báo kiểm tra công tác nghiệm thu 945/TB-SCT ngày 25/4/2024 của SCT Yên Bái; 12 người có GCN huấn luyện KTAT do SCT cấp. PANM hầm lò, trong bán kính 300 m từ cửa lò và hình chiếu bằng các gương nổ mìn không có nhà ở/công trình ngoài sở hữu Công ty → **không thuộc diện điểm d khoản 2 Điều 38**, Giám đốc Công ty tự phê duyệt; Rc = 7 × ∛64,1 = 28,0 m < bán kính cấm người 50 m.
+
+**Hai điểm treo, không cản việc ký** (ghi lại để theo dõi): Danh sách 12 cán bộ, công nhân để trống ngày ban hành; QĐ 10/QĐ-BN ngày 31/3/2025 vẫn giữ lỗi trích yếu "bổ nhiệm Người quản lý" nhưng Điều I ghi "làm chỉ huy nổ mìn" (Sở đã nêu tại công văn trả hồ sơ trước đó, DN chưa đính chính). Cả hai là tài liệu nội bộ, khoản 1 Điều 39 không liệt kê → không đưa vào Phiếu trình, nhắc khi trả kết quả hoặc gộp vào kiểm tra định kỳ. Mục 8.3 bản thiết kế 2026 còn chép số cũ 94.200 kg/131.200 kíp — nếu sau này DN xin tăng khối lượng thì phải yêu cầu hiệu chỉnh mục này trước.
+
+**Kỹ thuật đọc hồ sơ**: file .rar nén bằng RAR7 → `p7zip` báo "Unsupported Method", `unrar-nonfree` của Ubuntu cũng hỏng tên file tiếng Việt; cách chạy được: `pip install rarfile --break-system-packages` + `apt-get install unrar` rồi dùng python `rarfile` để trích, tự đổi tên file sang ASCII khi ghi ra đĩa. Thuyết minh thiết kế 217 trang là bản scan không có text layer → OCR `eng` (chỉ để dò số bảng, số trang), sau đó `view` đúng vài trang ảnh cần đọc; đọc mục lục trước để khoanh chương.

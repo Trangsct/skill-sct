@@ -1,5 +1,14 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## 2026-08-24 (Rà Giấy phép theo đúng Mẫu số 10 + vụ Kim Thành 3 bước thiết kế)
+
+- **sd-vlncn-sct-vn [2026.8.24]**: đúc kết từ 2 bộ hồ sơ hoàn thiện cùng Bạn ngày 24/8/2026 (Kim Thành — mỏ chì kẽm hầm lò xã Tú Lệ; Miền Tây — mỏ đá vôi phường Trung Tâm):
+  - **Mẫu 01 dựng lại đúng Mẫu số 10 Phụ lục VIII TT 23/2024** + thêm mục "Đối chiếu Mẫu số 10": Điều 1 là 5 dòng nối bằng dấu chấm phẩy, điện thoại đứng riêng dòng, dòng mục đích ô (11) bắt buộc có chữ "để"; nội dung PANM chuyển từ khoản 4 về cuối khoản 3 (ô (12) là chỗ của điều kiện an toàn); khoản 4 viết đủ chuỗi "…của Bộ Công Thương; …(13)… và những quy định pháp luật liên quan" với ô (13) là TÊN ĐẦY ĐỦ quy chuẩn; **bỏ khoản 5 "đề nghị Công an tỉnh, UBND xã phối hợp giám sát" — Mẫu số 10 Điều 2 chỉ có 4 khoản**, hai cơ quan đã có trong Nơi nhận. Kèm mẹo nén line_spacing × 0,88 và space_before/after × 0,5 để khoản 4 dài thêm ~8 dòng không đẩy khối ký sang trang riêng.
+  - **SKILL.md anti-error 22**: 4 lỗi lệch Mẫu số 10 hay mắc khi lấy giấy phép cũ làm khung + quy tắc tách hai căn cứ TT 38/2025 (phân cấp thực hiện TTHC) và TT 26/2026 (phân cấp, cắt giảm, đơn giản hóa TTHC) — trích yếu khác nhau, gộp là gán nhầm.
+  - **SKILL.md anti-error 23 + ref 07 mục K — vụ Kim Thành**: mỏ có thiết kế gốc + 2 lần điều chỉnh; PANM và Giấy đề nghị viện dẫn bản 2021 (mục 8.1.4.4, Bảng 8.3, 69 m lò chuẩn bị/1.000 tấn) trong khi bản nộp kèm là bản 2026 (Ccb 17,5 m, Qđc đào lò 12,10 kg, mục 8.3 chép nguyên 94.200 kg/131.200 kíp của GP 34/GP-SCT). Cách phát hiện: dò số mục PANM viện dẫn trong mục lục bản nộp. Cách chốt theo anti-error 20 — mỗi chỉ tiêu lấy trị số an toàn hơn, không cần bản nào "thắng" toàn bộ: năm 48.580 kg + 57.115 cái (Bảng 8.3 bản 2021), đợt nổ 64,1 kg lò chợ / 12,10 kg đào lò (Bảng 8.2, 8.10 bản 2026), tức thời 14,0 kg. Phiếu trình ghi **chuỗi lineage 3 bước thiết kế** (khép điểm c khoản 1 Điều 39) + **nguyên tắc** chốt trị số, không mô tả sai số của DN.
+  - Kỹ thuật đọc hồ sơ: giải nén .rar RAR7 bằng python `rarfile` (p7zip báo Unsupported Method, unrar-nonfree hỏng tên tiếng Việt), tự đổi tên file sang ASCII; thuyết minh thiết kế 217 trang scan → OCR `eng` dò số bảng rồi `view` đúng trang ảnh cần đọc.
+  - plugin.json 2026.8.23 → **2026.8.24**.
+
 ## 2026-08-23 (Khung PANM 2 biến thể + bộ CV đề nghị UBND tỉnh ban hành chỉ đạo VLNCN)
 
 - **sd-vlncn-sct-vn [2026.8.23]**: bổ sung 2 mẫu mới + 4 khung docx từ hồ sơ thật xử lý cùng Bạn 21-23/8/2026:

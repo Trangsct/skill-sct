@@ -1,6 +1,6 @@
 ---
 name: qlks-sct-vn
-description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025). Kích hoạt: thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, khai thác cát lòng hồ, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 10 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; (2) kế hoạch quản lý rủi ro; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU; (7) rà chồng lấn khi thẩm định dự án, CCN; (8) thống kê, kiểm soát sản lượng, báo cáo định kỳ mỏ nhóm I; (9) nguồn thu đóng góp KS; (10) THU HỒI KHOÁNG SẢN trọn hồ sơ. Từ khóa thêm: NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT, tiền cấp quyền, nhóm I II III IV, Điều 108, kiểm kê trữ lượng, apatit, cao lanh Sơn Mãn, thủy điện Phúc Long, Tu Trên, biên bản kiểm tra."
+description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024 (sửa bởi Luật 147/2025). Kích hoạt: hội đồng thẩm định đề án thăm dò, phiếu đánh giá nhận xét ủy viên hội đồng, QĐ 777/QĐ-UBND, xin ý kiến đề án thăm dò, thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, khai thác cát lòng hồ, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 10 nghiệp vụ: (1) ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; (2) kế hoạch quản lý rủi ro; (3) GCN kỹ thuật an toàn khai thác hầm lò; (4) chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; (5) kiểm tra thiết kế mỏ, tham mưu đình chỉ; (6) báo cáo Chỉ thị 11, 26-CT/TU; (7) rà chồng lấn khi thẩm định dự án, CCN; (8) thống kê, kiểm soát sản lượng, báo cáo định kỳ mỏ nhóm I; (9) nguồn thu đóng góp KS; (10) THU HỒI KHOÁNG SẢN trọn hồ sơ; (11) ỦY VIÊN HỘI ĐỒNG THẨM ĐỊNH ĐỀ ÁN THĂM DÒ khoáng sản tỉnh (QĐ 777/QĐ-UBND) - soạn Phiếu đánh giá, nhận xét. Từ khóa thêm: NĐ 193/2025 + 21/2026, NQ 66.19/2026, TT 24+43+67/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT, tiền cấp quyền, nhóm I II III IV, Điều 108, kiểm kê trữ lượng, apatit, cao lanh Sơn Mãn, thủy điện Phúc Long, Tu Trên, biên bản kiểm tra, đề án thăm dò, Mẫu số 01 Phụ lục VI TT 40/2025, Điều 42 Luật ĐC&KS, đá hoa trắng, Làng Lạnh, suối Nhù, Ngòi Thia."
 ---
 
 # qlks-sct-vn — Quản lý nhà nước về khoáng sản (Sở Công Thương tỉnh Lào Cai)
@@ -71,7 +71,7 @@ Kích hoạt khi:
 
 Phân nhóm khoáng sản: Điều 6 Luật 54/2024 + danh mục chi tiết Phụ lục NĐ 193/2025 (sửa bởi NĐ 21/2026) — một khoáng sản có thể đổi nhóm theo mục đích sử dụng; không rõ nhóm → DỪNG, hỏi Bạn. Nhóm IV: không phải lập ĐTM/GPMT, không chấp thuận chủ trương đầu tư, nhưng phải lập **phương án khai thác khoáng sản nhóm IV** trình cấp phép (điểm d khoản 2 Điều 73 sửa bởi Luật 147/2025).
 
-## V. TÁM NGHIỆP VỤ CỦA SCT
+## V. MƯỜI MỘT NGHIỆP VỤ CỦA SCT
 
 **1. Kiểm tra tuân thủ thiết kế mỏ + tham mưu đình chỉ (nhóm I).** Theo Chỉ thị 11-CT/TU và KH của UBND tỉnh: SCT chủ trì rà soát các mỏ thuộc phạm vi quản lý về lập - thẩm định - phê duyệt thiết kế mỏ; tham mưu đình chỉ đơn vị chưa có thiết kế mỏ được phê duyệt; kiểm tra khai thác đúng thiết kế. Nội dung kỹ thuật thẩm định → `tkm-sct-vn`; plugin này lo phần kiểm tra - đình chỉ - báo cáo. Mẫu: `mau-van-ban/03`.
 
@@ -99,6 +99,12 @@ Vai SCT — bốn đầu việc, không đùn hết sang SNNMT: (a) **hướng d
 
 Bẫy lớn nhất: pháp luật ĐC&KS **không** quy định việc lập, thẩm định, phê duyệt dự án/kế hoạch nạo vét lòng hồ (CV 2419/ĐCKS-PCKS ngày 19/9/2025) → không hứa thẩm định, không đẩy sang SNNMT; chỉ đúng vai hướng dẫn chủ đập theo pháp luật điện lực - an toàn đập.
 
+**11. Ủy viên Hội đồng thẩm định Đề án thăm dò khoáng sản tỉnh — soạn Phiếu đánh giá, nhận xét** — reference `21`, mẫu `09`. Hội đồng thành lập theo **QĐ 777/QĐ-UBND ngày 12/8/2025**; ủy viên của SCT là **PGĐ Hoàng Văn Thuân**. SNNMT gửi văn bản xin ý kiến kèm hồ sơ, đề án; SCT trả lời bằng Phiếu trong **12 ngày làm việc** (điểm b khoản 3 Điều 42 NĐ 193/2025 sửa bởi NĐ 21/2026). SCT KHÔNG thẩm định nội dung địa chất (việc của ủy viên phản biện) và KHÔNG kết luận về hành lang công trình thủy lợi (việc của Phòng QLXDCT-TL&PCTT thuộc SNNMT).
+
+Bốn trục nội dung bắt buộc của Phiếu SCT: (i) **rà tọa độ - diện tích - quy hoạch** (đối chiếu từng điểm khép góc với Phụ lục QĐ trúng đấu giá, tự tính lại diện tích, chồng ranh giới lên QĐ 1626/QĐ-TTg hoặc Phụ lục QĐ 525/QĐ-UBND); (ii) **phương án phát triển khu, cụm công nghiệp** + định hướng địa điểm chế biến sâu; (iii) **quy hoạch và hiện trạng công trình thủy điện, lưới điện** (tra `quy-hoach-ct-vn` reference `03`, viện dẫn Luật Điện lực 2024 + NĐ 62/2025/NĐ-CP); (iv) **vật liệu nổ công nghiệp trong giai đoạn thăm dò** — bắt buộc với đề án mỏ đá phải mở đường công vụ, làm nền khoan (Luật 42/2024 sửa bởi Luật 118/2025, NĐ 181/2024, QCVN 01:2019/BCT). Kèm trục bổ trợ kiểm soát rủi ro "khai thác lậu dưới vỏ bọc thăm dò" (moong khai thác thử, thi công ban đêm trên sông).
+
+Bốn vụ đã thẩm định làm chuẩn đối chiếu: cát sỏi Ngòi Thia (xã Xuân Ái); cát sỏi sông Chảy Bản Mủng - Bản Chuân (xã Xuân Hòa); cát sỏi suối Nhù thôn Ngầu 3 (xã Võ Lao); đá hoa trắng Làng Lạnh III (xã Lục Yên) — bảng tra tại reference `21` mục IV.
+
 ## VI. DỮ LIỆU MỎ TRÊN ĐỊA BÀN (reference `10` + thư mục `du-lieu/`)
 
 Ảnh chụp dữ liệu tại thời điểm lập (KHÔNG dùng làm hiện trạng thời sự — luôn hỏi Bạn trước khi đưa số liệu vào văn bản):
@@ -125,6 +131,8 @@ B3 GATE NHÓM KS    → mục IV: nhóm I/II/III/IV quyết định thẩm quy�
 B4 NGHIỆP VỤ       → mục V: chọn nghiệp vụ 1-10, mở reference tương ứng
                      Việc thu hồi khoáng sản → thêm GATE LUỒNG: Điều 97 hay Điều 98?
                      dùng cho chính dự án hay bán ra ngoài? (reference 16 mục III)
+                     Xin ý kiến đề án thăm dò (HĐ 777) → nghiệp vụ 11, reference 21:
+                     phủ đủ 4 trục (tọa độ-quy hoạch · KCN/CCN · thủy điện-lưới điện · VLNCN)
 B5 SOẠN VĂN BẢN    → mẫu tại mau-van-ban/ + thể thức vbhc-vn; người ký mục VII
 B6 QA              → render soi ảnh từng trang; đối chiếu checklist; số liệu mỏ chưa
                      xác minh → để trống + hỏi Bạn
@@ -159,6 +167,9 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  thu hồi 01 · 02 · 03 · 03a · 04 · 05 · 06 + 05 bản vẽ bắt buộc
               20 biên bản thanh tra/kiểm tra — kinh nghiệm từ mẫu thật BB 13A/BB-ĐTT72
                  (Thanh tra tỉnh, vụ Mông Sơn) + checklist đón thanh tra tỉnh
+              21 HỘI ĐỒNG THẨM ĐỊNH ĐỀ ÁN THĂM DÒ (QĐ 777/QĐ-UBND) — vai ủy viên SCT:
+                 phân vai Hội đồng, 4 trục nội dung Phiếu, 6 lỗi kỹ thuật lặp lại,
+                 4 vụ thực tế, kỹ thuật xử lý hồ sơ đến (giải nén, OCR, tính diện tích)
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT
@@ -168,6 +179,8 @@ mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản ki�
                  bản đăng ký mẫu 02, CV trả hồ sơ - chỉ dẫn đúng cơ quan)
               08 bộ mẫu thu hồi đất đá thải mỏ (VB đề nghị mẫu 01, báo cáo mẫu 04,
                  yêu cầu bản đồ hiện trạng, VB SCT tham gia ý kiến, CV hướng dẫn DN)
+              09 Phiếu đánh giá, nhận xét của ủy viên Hội đồng thẩm định Đề án thăm dò
+                 (khung biểu mẫu + khung nội dung I.1/I.2/I.3 + câu chữ mẫu đã dùng)
 checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ · hồ sơ thu hồi khoáng sản
 vi-du-thuc-te/ 10 văn bản thật về thu hồi KS — xem 00-MUC-LUC.md
 du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý

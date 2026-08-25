@@ -1,5 +1,29 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.8.0 — 25/8/2026: nghiệp vụ 11 — ủy viên Hội đồng thẩm định Đề án thăm dò khoáng sản (QĐ 777/QĐ-UBND)
+
+**Nguồn:** 04 hồ sơ xin ý kiến của Sở Nông nghiệp và Môi trường và 04 Phiếu đánh giá, nhận xét do PGĐ Hoàng Văn Thuân ký: cát sỏi suối Ngòi Thia (xã Xuân Ái, 29/7/2026); cát sỏi sông Chảy khu vực Bản Mủng - Bản Chuân (xã Xuân Hòa, 06/7/2026); cát sỏi suối Nhù thôn Ngầu 3 (xã Võ Lao — CV 7637/SNNMT-KS ngày 10/8/2026, QĐ trúng đấu giá 2084/QĐ-UBND ngày 16/6/2026); đá hoa trắng Làng Lạnh III (xã Lục Yên — QĐ trúng đấu giá 2806/QĐ-UBND ngày 11/8/2026).
+
+### Nội dung mới
+
+- **`references/21-hoi-dong-tham-dinh-de-an-tham-do-777.md` (MỚI)**: vị trí của SCT trong quy trình (ủy viên Hội đồng, trả lời trong 12 ngày làm việc theo điểm b khoản 3 Điều 42 NĐ 193/2025 sửa bởi NĐ 21/2026); bảng phân vai 10 cơ quan/cá nhân trong Hội đồng và ranh giới không lấn sang ủy viên phản biện, Phòng QLXDCT-TL&PCTT; **4 trục nội dung bắt buộc** của Phiếu SCT; **6 lỗi kỹ thuật lặp lại** trong các đề án đã thẩm định; bảng **4 vụ thực tế**; kỹ thuật xử lý hồ sơ đến (giải nén RAR tên tiếng Việt bằng `unar`, OCR tiếng Việt, xác minh bảng tọa độ bằng mắt, tính diện tích bằng shapely, chồng ranh giới với quy hoạch).
+- **`mau-van-ban/09-phieu-nhan-xet-uy-vien-hoi-dong-tham-dinh-de-an-tham-do.md` (MỚI)**: khung biểu mẫu; khung nội dung mục I.1 (6 gạch đầu dòng), I.2 (7 nhãn), I.3 (10 kiến nghị chuẩn); 5 đoạn câu chữ mẫu đã dùng thực tế.
+- `SKILL.md`: mục V đổi thành **11 nghiệp vụ**, thêm nghiệp vụ 11; bước B4 quy trình thêm nhánh "xin ý kiến đề án thăm dò"; cây thư mục thêm reference `21` và mẫu `09`; description thêm từ khóa kích hoạt (hội đồng thẩm định đề án thăm dò, phiếu đánh giá nhận xét ủy viên hội đồng, QĐ 777/QĐ-UBND, Điều 42 Luật ĐC&KS, Mẫu số 01 Phụ lục VI TT 40/2025, đá hoa trắng, Làng Lạnh, suối Nhù, Ngòi Thia). `plugin.json` → 1.8.0.
+
+### Bài học nghiệp vụ đáng giá nhất
+
+1. **VLNCN trong giai đoạn thăm dò là khoảng trống hầu như không ai kiểm.** Đề án Làng Lạnh III (284,04 ha, dự toán 77,1 tỷ đồng) xác định phải nổ mìn phá đá để mở 3,5 km đường vận chuyển chính (mặt đường 6-7 m), 8 km đường đến nền khoan và 52 nền khoan, nhưng chỉ viết một câu "tuân thủ theo quy định hiện hành về quản lý vật liệu nổ"; dự toán không có một khoản VLNCN nào (chỉ 35 triệu + 40 triệu cho 11,5 km đường); chương bảo vệ môi trường không dự báo chấn động, sóng không khí, đá văng. Đây là phần việc **chỉ SCT phát hiện được** trong Hội đồng.
+2. **Phải tự kiểm chứng tọa độ và diện tích, không tin thuyết minh.** Vụ suối Nhù: 10 điểm khép góc trùng khớp tuyệt đối với QĐ 2084/QĐ-UBND nhưng diện tích tính lại là 7,5714 ha trong khi cả Đề án và Quyết định đều ghi 7,5 ha. Vụ Làng Lạnh III: 28 điểm cho 284,037 ha, khớp 284,04 ha.
+3. **Lỗi sao chép địa danh giữa các đề án.** Đề án mỏ tại xã Lục Yên viết "khu vực thăm dò nằm gần Sông Lô"; báo cáo khảo sát mỏ suối Nhù viết "mỏ cát sỏi trên suối Ngòi Thia". Đây là căn cứ xác định nguồn nước và công trình cần bảo vệ.
+4. **Mâu thuẫn nội tại về hiện trạng lưới điện** giữa mục "vị trí địa lý" ("không có đường truyền dẫn điện") và mục "mạng lưới giao thông" ("mạng lưới điện Quốc gia đã được kéo đến các thôn xóm") — xuất hiện ở cả 2 đề án của cùng một đơn vị tư vấn.
+5. **Không khẳng định "không chồng lấn KCN/CCN" khi chưa có tọa độ ranh giới để chồng lớp** — chuyển thành yêu cầu chủ đầu tư bổ sung và tự khẳng định.
+6. **Thể thức biểu mẫu của Hội đồng có 02 lỗi sẵn** (`<w:br/>` trong header, khối ký đặt tên trước chức vụ) — giữ nguyên, không tự sửa; `qa_all.py` báo FAIL HDR-BR là lỗi của biểu mẫu.
+
+### Ghi vấn còn mở
+
+- Đề án Làng Lạnh III viết khu mỏ "đã được quy hoạch tại QH số 866 và QH số 1626". Đá hoa trắng thuộc nhóm II, đã được đưa ra khỏi quy hoạch khoáng sản nhóm I — cần đối chiếu bản QĐ 866 điều chỉnh đã ký để khẳng định dứt điểm.
+- Chưa có tọa độ ranh giới KCN Võ Lao (QĐ 2463/QĐ-UBND) và KCN Lục Yên, CCN Yên Thế, CCN Tân Lĩnh để chồng lớp trực tiếp — đề nghị Bạn bổ sung phụ lục tọa độ từ BQL Khu kinh tế tỉnh.
+
 ## v1.7.0 — 20/8/2026: kinh nghiệm biên bản thanh tra/kiểm tra từ mẫu thật BB 13A/BB-ĐTT72 (Thanh tra tỉnh — vụ Mông Sơn)
 
 **Nguồn:** Bạn cung cấp bản scan **Biên bản làm việc số 13A/BB-ĐTT72 ngày 10/5/2026** của Đoàn thanh tra số 72-2026 (QĐ 72/QĐ-TT ngày 13/3/2026 của Chánh Thanh tra tỉnh Lào Cai) — thống nhất kết quả thanh tra chấp hành pháp luật trong khai thác khoáng sản đối với Công ty CP Mông Sơn, mỏ đá hoa trắng Làng Cạn, xã Mông Sơn (vùng Yên Bái cũ). Bản scan không có lớp text — đã render ảnh từng trang để đọc (11 trang scan = 10 trang biên bản, trang 3 scan trùng).

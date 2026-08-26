@@ -1,5 +1,12 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.8.26] - 26/8/2026
+- **Vụ Đồng Tiến — GP /GP-SCT đầu tiên cho công trình + nhà thầu liên danh; CHỐT NGƯỜI KÝ và BỘ KHUÔN MỚI**:
+  - ✅ Chốt người ký GP /GP-SCT: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (tiền lệ Kim Thành + Đồng Tiến); gỡ cảnh báo "người ký chưa chốt" tại SKILL.md mục III, IV.
+  - **Anti-error 22** — bộ khuôn mới 8/2026: Phiếu trình kính gửi đích danh PGĐ Thuân, kết cấu I. Nội dung trình duyệt + II. Ý kiến TP QLCN, ký TP Long | CV Khôi (+ CV phối hợp CHỈ với hồ sơ mỏ), KHÔNG khối ý kiến PGĐ checkbox, KHÔNG phụ lục đánh giá PANM; GP khoản 1 địa điểm nguyên văn tên gói thầu (không vế "theo Hợp đồng/Thỏa thuận liên danh"), khoản 3 một câu ngắn, Điều 3 chỉ đậm "Điều 3.".
+  - **Anti-error 23** — hồ sơ nhà thầu liên danh: cấp GP theo PHẦN VIỆC (Điều 2 Thỏa thuận liên danh + GCN ANTT + Phụ lục khối lượng đơn vị 100m3, kiểm bằng đơn giá); ANTT hẹp hơn đề nghị = đề nghị ghi rộng quá; khối lượng chốt trị số nhỏ hơn; danh mục Phiếu trình chỉ liệt kê tài liệu thực có; gói thầu giao thông không liệt kê QĐ thu hồi đất thành đầu mục/điều kiện (chỉ đạo PTP Trang, C2b giữ nguyên với mỏ).
+  - Ví dụ thực tế 4 file mới: `GP-SCT-Kim-Thanh-mo-chi-kem-Tu-Le-ban-trinh-8.2026.docx`, `Phieu-trinh-PGD-ky-GP-Kim-Thanh-ban-chot-8.2026.docx`, `GP-SCT-du-thao-Dong-Tien-goi-thau-SFD-XL03-ban-chot-26.8.2026.docx`, `Phieu-trinh-PGD-ky-GP-Dong-Tien-ban-chot-26.8.2026.docx`; reference 07 thêm mục L (toàn bộ dữ liệu vụ Đồng Tiến) + bổ sung kết quả cuối mục K; viết lại đầu mẫu 06 (khuôn mới), mẫu 02 (quy tắc khoản 1/khoản 3/Điều 3).
+
 ## 2026-08-24 (Rà Giấy phép theo đúng Mẫu số 10 + vụ Kim Thành 3 bước thiết kế)
 
 - **sd-vlncn-sct-vn [2026.8.24]**: đúc kết từ 2 bộ hồ sơ hoàn thiện cùng Bạn ngày 24/8/2026 (Kim Thành — mỏ chì kẽm hầm lò xã Tú Lệ; Miền Tây — mỏ đá vôi phường Trung Tâm):

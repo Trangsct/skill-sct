@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-26 (sd-vlncn-sct-vn — vụ Đồng Tiến: GP /GP-SCT công trình + liên danh, chốt người ký, bộ khuôn Phiếu trình/GP mới)
+
+- **sd-vlncn-sct-vn [2026.8.26]**: chốt người ký GP /GP-SCT = KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân; anti-error 22 (khuôn Phiếu trình mới I+II không khối ý kiến PGĐ/không phụ lục; GP khoản 1 nguyên văn tên gói thầu, khoản 3 một câu, Điều 3 chỉ đậm "Điều 3."); anti-error 23 (liên danh: cấp theo phần việc Điều 2 Thỏa thuận liên danh + GCN ANTT + Phụ lục khối lượng 100m3; QĐ thu hồi đất không là đầu mục với gói thầu giao thông); 4 ví dụ thực tế mới (bộ Kim Thành + Đồng Tiến); reference 07 mục L; cập nhật mẫu 02, 06.
+
 ## 2026-08-21 — CV 5085/SCT-VP 19/8/2026 triển khai nội bộ hai QĐ ủy quyền VLNCN (sd-vlncn v2026.8.21, hl-vlncn v1.3.2) + đồng bộ web
 
 Bạn cung cấp bản ký **CV 5085/SCT-VP ngày 19/8/2026** của Sở Công Thương (GĐ Hoàng Chí Hiền ký) — "V/v thực hiện các nhiệm vụ được UBND tỉnh ủy quyền trong lĩnh vực VLNCN": triển khai nội bộ **cả QĐ 1883/QĐ-UBND (GCN huấn luyện) và QĐ 2867/QĐ-UBND (GP sử dụng)** — mục 1 giao **PGĐ Hoàng Văn Thuân trực tiếp chỉ đạo, tổ chức thực hiện**; mục 2 giao **Phòng QLCN chủ trì** tham mưu Lãnh đạo Sở 2 nhóm nhiệm vụ (GCN huấn luyện viện dẫn k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024; GP sử dụng cấp/cấp lại/cấp điều chỉnh). Xác nhận nội bộ chính thức cách hiểu hai QĐ song song; **KHÔNG chốt người ký GP** (phân công chỉ đạo ≠ giao ký thay — điểm treo người ký giữ nguyên).

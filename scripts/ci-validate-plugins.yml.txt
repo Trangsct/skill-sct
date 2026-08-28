@@ -1,0 +1,48 @@
+name: Kiểm tra bộ plugin
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cài PyYAML
+        run: pip install pyyaml
+
+      - name: Kiểm giới hạn description (plugin.json 500, SKILL.md 1024)
+        run: python3 scripts/check_descriptions.py
+
+      - name: Kiểm marketplace.json khớp plugin.json
+        run: python3 scripts/sync_marketplace.py --check
+
+      - name: Kiểm cấu trúc plugin
+        run: |
+          set -e
+          loi=0
+          for d in */.claude-plugin/plugin.json; do
+            ten=$(basename "$(dirname "$(dirname "$d")")")
+            if [ ! -f "$ten/skills/$ten/SKILL.md" ]; then
+              echo "THIEU: $ten/skills/$ten/SKILL.md"; loi=1
+            fi
+            if [ -f "$ten/SKILL.md" ]; then
+              echo "SAI CAU TRUC: $ten/SKILL.md nam o goc, phai o skills/$ten/"; loi=1
+            fi
+            khai=$(python3 -c "import json;print(json.load(open('$d',encoding='utf-8')).get('name',''))")
+            if [ "$khai" != "$ten" ]; then
+              echo "LECH TEN: thu muc $ten nhung plugin.json khai bao '$khai'"; loi=1
+            fi
+          done
+          if find . -name '__pycache__' -not -path './.git/*' | grep -q .; then
+            echo "CON __pycache__ trong repo"; loi=1
+          fi
+          exit $loi

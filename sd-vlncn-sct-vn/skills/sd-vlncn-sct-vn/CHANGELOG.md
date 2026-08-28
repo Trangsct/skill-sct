@@ -1,5 +1,14 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.8.28] - 28/8/2026
+- **Vụ Mông Sơn giai đoạn 3 — DN nộp lại 28/8/2026, bộ trình cấp GP /GP-SCT đầu tiên cho MỎ theo ủy quyền QĐ 2867**:
+  - ⭐ **Anti-error 15 chốt lại (PTP Trang 28/8)**: GP ghi GỘP cả THUỐC NỔ và KÍP NỔ theo nhóm, chủng loại liệt kê trong ngoặc — kể cả khi CV thẩm định trước đó (CV 4378 mục 3) từng yêu cầu tách; số liệu tách theo chủng loại lưu tại PANM + hồ sơ thẩm định, không đưa vào GP.
+  - **Anti-error 24 (MỚI)**: chọn khuôn theo LOẠI hồ sơ (mỏ ↔ công trình); thành tố khuôn có mà hồ sơ không có (vd "05 cấp vi sai") → BỎ hoặc hỏi, cấm vá bằng chi tiết kỹ thuật chép từ PANM (ràng buộc 8 ms/403 kg thuộc hộ chiếu, không thuộc GP); khoản 3 GP mỏ viết "khoảng cách an toàn đối với người 300 m, đối với công trình 200 m", không dẫn QCVN tại khoản 3; ngày viết tay không đọc chắc → viện dẫn theo NĂM; hồ sơ có tồn tại nhỏ → lập Bản nhận xét thẩm định nội bộ 5 mục thay vì mô tả trong Phiếu trình.
+  - **Anti-error 22 sửa**: chuyên viên phối hợp chỉ thêm khi Bạn chỉ định đích danh — không bắt buộc kể cả hồ sơ mỏ (Mông Sơn chốt KHÔNG thêm).
+  - **Ref 07 mục H thêm giai đoạn 3**: toàn bộ dữ liệu đã soi ảnh xác minh (ĐKDN lần đầu 31/8/2007; ANTT 26/GCN-CĐ1 hiệu lực đến 19/10/2034; QĐ 884/QĐ-UBND 26/6/2010 + HĐ thuê đất 29/2010/HĐTĐ, 272.072,3 m²; TKCS 199/TĐ-SCT "năm 2009"; kho: BCKĐ 09/6/2026, BB nghiệm thu PCCC năm 2008, GCN 832/ĐK-PCCC 2011, BB kiểm tra 08/4/2026); lập luận thẩm quyền: GP khai thác do Bộ TN&MT cấp nhưng đá hoa trắng nhóm II → không thuộc ngoại lệ Cục KTAT&MTCN, viết thẳng vào Phiếu trình.
+  - Ví dụ thực tế 3 file mới: `Phieu-trinh-PGD-ky-GP-Mong-Son-ban-chot-28.8.2026.docx`, `GP-SCT-du-thao-cap-moi-Mong-Son-mo-da-hoa-trang-ban-chot-28.8.2026.docx` (khuôn GP mỏ chuẩn nhất), `Ban-nhan-xet-tham-dinh-ho-so-Mong-Son-28.8.2026.docx` (khung bản nhận xét nội bộ mới).
+  - plugin.json 2026.8.24 → **2026.8.28**.
+
 ## [2026.8.26] - 26/8/2026
 - **Vụ Đồng Tiến — GP /GP-SCT đầu tiên cho công trình + nhà thầu liên danh; CHỐT NGƯỜI KÝ và BỘ KHUÔN MỚI**:
   - ✅ Chốt người ký GP /GP-SCT: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (tiền lệ Kim Thành + Đồng Tiến); gỡ cảnh báo "người ký chưa chốt" tại SKILL.md mục III, IV.

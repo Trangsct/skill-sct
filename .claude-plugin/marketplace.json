@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.6.5"
+    "version": "4.6.6"
   },
   "plugins": [
     {
@@ -17,14 +17,14 @@
     {
       "name": "bpb-sct-vn",
       "source": "./bpb-sct-vn",
-      "description": "Soạn bài phát biểu, tham luận, diễn văn và TRẢ LỜI PHỎNG VẤN BÁO CHÍ cho Giám đốc và lãnh đạo Sở Công Thương tỉnh Lào Cai theo phong cách đã duyệt: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, định dạng docx Times New Roman 15pt. Riêng phỏng vấn báo chí có 11 quy tắc riêng (references/tra-loi-phong-van-bao-chi.md, đúc kết từ bản duyệt PGĐ 11/8/2026): mở bài số liệu vĩ mô tầng bậc, giải pháp theo chuỗi sản phẩm, 3 tầng thẩm quyền, không đọc số hiệu văn bản, không xác nhận tiền đề tiêu cực, sản phẩm kép kèm bản tóm tắt cầm tay. Kèm 14 bài mẫu gốc của Sở và script build_bpb.py.",
-      "version": "1.3.1"
+      "description": "Soạn bài phát biểu, tham luận, diễn văn và trả lời phỏng vấn báo chí cho Giám đốc, lãnh đạo Sở Công Thương tỉnh Lào Cai: kết cấu chuẩn (kính thưa phân tầng, mở đầu gắn nghị quyết, nhóm nhiệm vụ, tín hiệu cơ hội, cam kết), giọng văn nói chính trị - trang trọng, ngân hàng câu từ, quy tắc bản duyệt, docx 15pt. Phỏng vấn báo chí có 11 quy tắc riêng: số liệu vĩ mô tầng bậc, 3 tầng thẩm quyền, không đọc số hiệu văn bản, sản phẩm kép kèm bản tóm tắt cầm tay. Kèm 14 bài mẫu gốc và script build_bpb.py.",
+      "version": "1.3.2"
     },
     {
       "name": "bvmt-sct-vn",
       "source": "./bvmt-sct-vn",
-      "description": "Chuyên gia QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương tỉnh Lào Cai: tham gia thẩm định ĐTM/GPMT/đăng ký môi trường; ủy viên Hội đồng thẩm định GPMT (Bản nhận xét Mẫu 30, Phiếu 31, checklist phản biện BCĐX hạ tầng CCN); GATE NQ 66.19/2026 Phụ lục IX (hạ tầng CCN không phải ĐTM nhưng phải GPMT, Mẫu 22c); phân loại nhóm I-IV theo Luật 146/2025 + NĐ 48/2026; đóng cửa mỏ - cải tạo phục hồi; BVMT KCN/CCN, gyps Tằng Loỏng; KNK/các-bon; sự cố; xử phạt; cắt giảm TTHC. Vai trò PHỐI HỢP của SCT, chủ trì thuộc Sở NN&MT.",
-      "version": "1.2.2"
+      "description": "QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương Lào Cai: thẩm định ĐTM/GPMT/đăng ký môi trường; ủy viên Hội đồng thẩm định GPMT (Bản nhận xét Mẫu 30, Phiếu 31, checklist phản biện BCĐX hạ tầng CCN); GATE NQ 66.19/2026 Phụ lục IX (hạ tầng CCN không phải ĐTM nhưng phải GPMT, Mẫu 22c); phân loại nhóm I-IV theo Luật 146/2025 + NĐ 48/2026; đóng cửa mỏ - cải tạo phục hồi; BVMT KCN/CCN, gyps Tằng Loỏng; KNK/các-bon; sự cố; xử phạt. Vai trò phối hợp của SCT, chủ trì thuộc Sở NN&MT.",
+      "version": "1.2.3"
     },
     {
       "name": "dacn-sct-vn",
@@ -47,14 +47,14 @@
     {
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
-      "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung pháp lý: Luật 36/2024 Điều 51, Luật Đường bộ 35/2024, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696/QĐ-UBND (được sửa đổi, bổ sung tại QĐ 2848/QĐ-UBND ngày 14/8/2026 - ủy quyền bổ sung loại 5, 8, thời hạn đến 31/12/2030), QĐ 1213/QĐ-BCT. Kèm văn bản gốc, mẫu hồ sơ, ví dụ thực tế, checklist; chuyên sâu xuyên biên giới Việt - Trung. Kèm bộ hồ sơ doanh nghiệp mẫu chuẩn nhóm loại 8 (axit ăn mòn, công-ten-nơ bồn ISO tank).",
-      "version": "1.8.1"
+      "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND 14/8/2026 (ủy quyền bổ sung loại 5, 8 đến 31/12/2030). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit ăn mòn, ISO tank); chuyên sâu xuyên biên giới Việt - Trung.",
+      "version": "1.8.2"
     },
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu soạn hồ sơ, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư; điều kiện khởi công; tra QĐ 525 quy hoạch tỉnh, QĐ 1382 danh mục thu hút đầu tư, QĐ 2390/2026 vốn đầu tư công; NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc CCN Thống Nhất 1, Báo cáo họp UBND tỉnh 05/8/2026 và kỳ cập nhật 07/8/2026 (bộ theo dõi tiến độ + 02 phụ lục thu hút đầu tư theo mẫu năng lượng + mẫu báo cáo Zalo thứ 6 hằng tuần); kỳ 18/8/2026: bộ tiêu chí CHUẨN lựa chọn CĐT (điều kiện tiên quyết, thang 100 mới, Chủ tịch Hội đồng ký trực tiếp, quy trình thay thế QĐ 2778/QĐ-HĐ, tờ trình kèm phụ lục tiếp thu); kỳ 19/8/2026: Hội đồng thẩm định quy hoạch KCN của BQL các KCN tỉnh (QĐ 7 ngày 15/01 + QĐ 226 ngày 14/8/2026, SCT có 02 đại diện); kỳ 21/8/2026: QĐ 2978 điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bổ sung mục tiêu VSIC 3513 truyền tải và phân phối điện).",
-      "version": "1.22.0"
+      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm lựa chọn chủ đầu tư (thang 100); điều kiện khởi công; Hội đồng thẩm định quy hoạch KCN; tra QĐ 525 quy hoạch tỉnh, QĐ 1382, QĐ 2390/2026, NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc, bộ theo dõi tiến độ, ví dụ thực tế.",
+      "version": "1.22.1"
     },
     {
       "name": "kho-vlncn-sct-vn",
@@ -71,8 +71,8 @@
     {
       "name": "qlks-sct-vn",
       "source": "./qlks-sct-vn",
-      "description": "Quản lý nhà nước về khoáng sản - Sở Công Thương Lào Cai: phân vai liên ngành (TT 37/2025, Chỉ thị 11-CT/TU); kế hoạch quản lý rủi ro (TT 24/2025); GCN kỹ thuật an toàn khai thác hầm lò (TT 43/2025); chế biến, nguồn gốc khoáng sản; đối chiếu VLNCN - sản lượng; rà chồng lấn khi thẩm định dự án, CCN; thống kê - báo cáo định kỳ (TT 36/2025); THU HỒI KHOÁNG SẢN trọn hồ sơ: nạo vét lòng hồ thủy điện thu hồi cát sỏi, đất đá thải mỏ (NĐ 193/2025). Khung: Luật 54/2024, 147/2025, NĐ 193/2025, 62/2025. Ủy viên Hội đồng thẩm định Đề án thăm dò khoáng sản tỉnh (QĐ 777/QĐ-UBND): Phiếu đánh giá nhận xét, rà tọa độ - quy hoạch, KCN/CCN, thủy điện - lưới điện, VLNCN trong thăm dò.",
-      "version": "1.8.0"
+      "description": "Quản lý nhà nước về khoáng sản - Sở Công Thương Lào Cai: phân vai liên ngành; kế hoạch quản lý rủi ro; GCN kỹ thuật an toàn hầm lò; chế biến, nguồn gốc khoáng sản; đối chiếu VLNCN - sản lượng; rà chồng lấn khi thẩm định dự án, CCN; thống kê - báo cáo định kỳ; thu hồi khoáng sản trọn hồ sơ (nạo vét lòng hồ thủy điện, đất đá thải mỏ); ủy viên Hội đồng thẩm định Đề án thăm dò khoáng sản tỉnh (QĐ 777/QĐ-UBND). Khung: Luật 54/2024, 147/2025, NĐ 193/2025, 62/2025, TT 24+36+37+43/2025.",
+      "version": "1.8.1"
     },
     {
       "name": "quy-hoach-ct-vn",
@@ -107,8 +107,8 @@
     {
       "name": "vbhc-vn",
       "source": "./vbhc-vn",
-      "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản cấp UBND tỉnh/VP do Sở dự thảo. 9 template trắng + 23 mẫu thật, Chế độ A (dựng từ template) / B (sửa file gốc người dùng), 9 nhóm anti-error A–I, QA một phát qa_all.py (render + ảnh ghép + --forbid/--require + audit keepNext), đọc metadata PDF văn bản đến bằng extract_metadata.py. Dùng khi soạn/sửa/rà soát/chuyển thể VBHC, sửa lỗi trình bày file Word, hoặc nhận PDF công văn đến.",
-      "version": "2.10.0"
+      "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản cấp UBND tỉnh/VP do Sở dự thảo. 9 template trắng + 23 mẫu thật, Chế độ A (dựng từ template) / B (sửa file gốc), 9 nhóm anti-error A-I, QA một phát qa_all.py (--forbid/--require, audit keepNext), đọc metadata PDF công văn đến bằng extract_metadata.py. Dùng khi soạn/sửa/rà soát/chuyển thể VBHC hoặc sửa lỗi trình bày file Word.",
+      "version": "2.10.1"
     },
     {
       "name": "xd-sct-vn",

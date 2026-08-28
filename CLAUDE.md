@@ -9,5 +9,6 @@
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.
+- **KHÔNG sửa `.claude-plugin/marketplace.json` thủ công** (kể cả sync version/mô tả hay nâng `metadata.version`): sau khi merge vào `main`, bot trong `marketplace-sync.yml` tự đồng bộ từ các `plugin.json`, tự nâng `metadata.version` (có so với catalog của commit trước nên PR sync sẵn cũng không làm bot bỏ sót) và tự commit lại. CI trên PR chỉ nhắc chứ không báo đỏ khi lệch version/mô tả.
 - Văn bản pháp luật mới đưa vào plugin: lưu bản gốc vào thư mục `van-ban-goc/` tương ứng và cập nhật reference mục lục; tuyệt đối không bịa số/ngày văn bản.
 - **Đọc PDF ký số** (số/ngày điền qua trường ký số): lớp text hiển thị số/ngày rời rạc - phải render trang thành ảnh để đọc chính xác, không kết luận "để trống" chỉ từ text layer.

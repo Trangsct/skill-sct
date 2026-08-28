@@ -7,12 +7,20 @@ plugin.json sẽ che version trong marketplace.json, còn catalog hiển thị c
 dùng (tên, mô tả, version) thì vẫn là bản cũ. Script này giữ hai file luôn khớp.
 
     python3 scripts/sync_marketplace.py           # ghi lại marketplace.json
-    python3 scripts/sync_marketplace.py --check    # chỉ kiểm tra, lệch thì exit 1
+    python3 scripts/sync_marketplace.py --check    # kiểm tra; lỗi cấu trúc mới exit 1
     python3 scripts/sync_marketplace.py --bump     # ghi lại + tự nâng metadata.version
+    python3 scripts/sync_marketplace.py --bump --baseline before.json
+                                                  # so thêm với catalog của commit trước
 
 Chế độ --bump dùng cho CI trên nhánh main: mỗi khi có plugin đổi version hoặc đổi
 mô tả, metadata.version của marketplace được nâng một bậc patch để claude.ai nhận
 ra catalog đã thay đổi mà không phải sửa tay.
+
+--baseline vá kẽ hở "PR đã sync sẵn": nếu marketplace.json trong PR đã khớp hết
+với plugin.json (không còn lệch) thì bump kiểu cũ sẽ bị bỏ qua, dù catalog thực
+tế vừa thay đổi so với main cũ. Truyền vào marketplace.json của commit trước đó
+(git show <before>:.claude-plugin/marketplace.json) để bot nhận ra "catalog đổi
+mà metadata.version chưa nâng" và vẫn tự nâng.
 """
 
 import argparse
@@ -77,6 +85,11 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", action="store_true", help="chỉ kiểm tra, không ghi file")
     ap.add_argument("--bump", action="store_true", help="ghi file và tự nâng metadata.version")
+    ap.add_argument(
+        "--baseline",
+        help="marketplace.json của commit trước; catalog đổi so với bản này mà "
+        "metadata.version chưa nâng thì --bump vẫn nâng, kể cả khi hết lệch",
+    )
     args = ap.parse_args()
 
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
@@ -88,7 +101,16 @@ def main():
         if old != new
     ]
 
-    if not drift:
+    stale_meta = False
+    if args.baseline:
+        baseline = json.loads(pathlib.Path(args.baseline).read_text(encoding="utf-8"))
+        old_meta = baseline.get("metadata", {}).get("version")
+        new_meta = updated.get("metadata", {}).get("version")
+        stale_meta = updated["plugins"] != baseline.get("plugins") and new_meta == old_meta
+        if stale_meta:
+            print(f"catalog đã đổi so với commit trước nhưng metadata.version vẫn {new_meta}")
+
+    if not drift and not stale_meta:
         print(f"marketplace.json đã khớp {len(updated['plugins'])} plugin.json")
         return 0
 
@@ -97,8 +119,11 @@ def main():
         print(f"lệch: {name} ({change})")
 
     if args.check:
-        print("\nChạy `python3 scripts/sync_marketplace.py` rồi commit lại marketplace.json.")
-        return 1
+        print(
+            "\nKhông cần sync tay: bot trên main sẽ tự đồng bộ marketplace.json "
+            "và nâng metadata.version sau khi merge."
+        )
+        return 0
 
     if args.bump:
         meta = updated.setdefault("metadata", {})
@@ -108,8 +133,11 @@ def main():
     MARKETPLACE.write_text(
         json.dumps(updated, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    tail = "" if args.bump else " Nhớ nâng metadata.version trước khi push."
-    print(f"Đã đồng bộ {len(drift)} entry.{tail}")
+    if drift:
+        tail = "" if args.bump else " Nhớ nâng metadata.version trước khi push."
+        print(f"Đã đồng bộ {len(drift)} entry.{tail}")
+    else:
+        print("Entry đã khớp sẵn, chỉ nâng metadata.version.")
     return 0
 
 

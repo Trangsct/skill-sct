@@ -2,7 +2,10 @@ name: Dong bo marketplace.json
 
 # Tren nhanh main: TU DONG dong bo marketplace.json tu cac plugin.json, tu dong
 # nang metadata.version roi commit nguoc lai. Khong con phai nho chay tay.
-# Tren nhanh khac va pull request: chi kiem tra, lech thi bao do.
+# So them voi catalog cua commit truoc (baseline) de van bump ca khi PR da sync
+# san marketplace.json — do la ke ho tung lam claude.ai khong nhan catalog moi.
+# Tren nhanh khac va pull request: chi nhac (khong bao do) khi lech version/mo ta,
+# vi bot tren main se tu xu ly; loi cau truc (thieu/thua plugin) van bao do.
 
 on:
   push:
@@ -27,7 +30,15 @@ jobs:
 
       - name: Dong bo va nang version (chi tren main)
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-        run: python3 scripts/sync_marketplace.py --bump
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -n "$BEFORE" ] && git cat-file -e "$BEFORE:.claude-plugin/marketplace.json" 2>/dev/null; then
+            git show "$BEFORE:.claude-plugin/marketplace.json" > /tmp/marketplace-before.json
+            python3 scripts/sync_marketplace.py --bump --baseline /tmp/marketplace-before.json
+          else
+            echo "Khong doc duoc catalog cua commit truoc ($BEFORE), chi so voi plugin.json"
+            python3 scripts/sync_marketplace.py --bump
+          fi
 
       - name: Commit nguoc lai neu co thay doi
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'

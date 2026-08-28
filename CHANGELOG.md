@@ -1,5 +1,13 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-28 — bvmt-sct-vn v1.3.0: BC 892/BC-SNNMT 28/8/2026 — kinh phí sự nghiệp môi trường 2025–2026, kế hoạch 2027–2029 + số liệu nền BVMT tỉnh
+
+Bạn cung cấp bản PDF ký số **BC 892/BC-SNNMT ngày 28/8/2026** của Sở NN&MT tỉnh Lào Cai (PGĐ Nguyễn Thị Vi Huế ký; gửi Bộ NN&MT theo CV 3318/BTNMT-KHTC 07/4/2026) — báo cáo kinh phí sự nghiệp môi trường 2025–2026 và kế hoạch - dự toán 2027, 2027–2029. Số/ngày nằm ở trường ký số — đã GATE bằng render ảnh (text layer để trống). File không kèm Phụ lục biểu dự toán.
+
+- **`van-ban-goc/` (thư mục MỚI của plugin) + INDEX**: bản ký số + bản trích text. **`references/07` Phần I-bis (MỚI)**: kinh phí SNMT 2025 = 416.442 triệu (tỉnh 38.124/xã 378.318), 2026 ước = 337.274 triệu; nhu cầu 2027–2029 = 3.094,17 tỷ; đánh giá "chi QLNN của sở ngành rất hạn chế" (luận cứ xin kinh phí nhiệm vụ ngành); quan trắc tự động 14/14 khí thải, 08/08 nước thải (06/08 truyền số liệu); dữ kiện tái chế CTR công nghiệp (xỉ phốt pho, Gyps, săm lốp → dầu FO; 01 cơ sở nhập khẩu phế liệu LTT đang tạm dừng); danh mục văn bản tỉnh xác minh qua BC: **NQ 12/2026/NQ-HĐND 29/6/2026** (mức chi BVMT), **QĐ 20/2026/QĐ-UBND 08/4/2026**, KH 348, KH 192, QĐ 525/QĐ-UBND, nhóm KH BĐKH (105/107/114/173, 91-KH/TU).
+- **`references/05` mục 7 (MỚI)**: 23 cơ sở phải kiểm kê KNK theo QĐ 13/2024/QĐ-TTg (1,06% toàn quốc), **18 thuộc lĩnh vực công thương**; kế hoạch giảm phát thải 2026–2030; nhiệm vụ tín chỉ các-bon đang đề xuất. **`references/02` mục H thêm 26–30**. SKILL.md (VII, IX, description). plugin.json → **1.3.0**.
+- Ghi vấn mở: chưa có Phụ lục biểu dự toán chi tiết; văn bản tỉnh mới xác minh qua viện dẫn trong BC 892 — cần trích chi tiết thì xin bản gốc.
+
 ## 2026-08-26 (sd-vlncn-sct-vn — vụ Đồng Tiến: GP /GP-SCT công trình + liên danh, chốt người ký, bộ khuôn Phiếu trình/GP mới)
 
 - **sd-vlncn-sct-vn [2026.8.26]**: chốt người ký GP /GP-SCT = KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân; anti-error 22 (khuôn Phiếu trình mới I+II không khối ý kiến PGĐ/không phụ lục; GP khoản 1 nguyên văn tên gói thầu, khoản 3 một câu, Điều 3 chỉ đậm "Điều 3."); anti-error 23 (liên danh: cấp theo phần việc Điều 2 Thỏa thuận liên danh + GCN ANTT + Phụ lục khối lượng 100m3; QĐ thu hồi đất không là đầu mục với gói thầu giao thông); 4 ví dụ thực tế mới (bộ Kim Thành + Đồng Tiến); reference 07 mục L; cập nhật mẫu 02, 06.

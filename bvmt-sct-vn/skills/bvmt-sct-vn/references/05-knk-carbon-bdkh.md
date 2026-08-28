@@ -33,7 +33,13 @@ Theo NĐ 119/2025: **nhà máy nhiệt điện, cơ sở sản xuất sắt thé
 - Chiến lược/KHHD quốc gia: QĐ 896/QĐ-TTg (Chiến lược quốc gia về BĐKH), QĐ 942/QĐ-TTg (giảm phát thải KNK/mê-tan), QĐ 1422/QĐ-TTg ngày 19/11/2024 (thích ứng BĐKH).
 - Sở Công Thương: thực hiện nhiệm vụ ứng phó BĐKH ngành CT được Bộ Công Thương giao định kỳ hằng năm; lồng ghép thích ứng/giảm nhẹ vào quy hoạch, kế hoạch ngành.
 
-## 7. Mẫu câu/đầu việc thường gặp
+## 7. Số liệu KNK tỉnh Lào Cai (theo BC 892/BC-SNNMT ngày 28/8/2026 — nguồn tại `van-ban-goc/`)
+- Toàn tỉnh có **23 cơ sở** thuộc đối tượng phải kiểm kê KNK theo QĐ 13/2024/QĐ-TTg (≈ **1,06%** số cơ sở toàn quốc), trong đó **lĩnh vực công thương 18 cơ sở**; giao thông vận tải, xây dựng 05 cơ sở. → Khi báo cáo phần ngành, Sở Công Thương chịu trách nhiệm số liệu nhóm 18 cơ sở này.
+- Tỉnh đã yêu cầu các cơ sở thuộc diện kiểm kê **xây dựng kế hoạch giảm phát thải giai đoạn 2026–2030**; triển khai các VBQPPL về thị trường các-bon để chuẩn bị vận hành thị trường các-bon trong nước.
+- Sở NN&MT đang đề xuất nhiệm vụ *"Đánh giá tác động của BĐKH, tiềm năng giảm phát thải KNK, tạo tín chỉ các-bon phục vụ hoạt động ứng phó với BĐKH trên địa bàn tỉnh Lào Cai"* — SCT theo dõi để phối hợp phần cơ sở ngành Công Thương.
+- Khung kế hoạch BĐKH của tỉnh: KH 105/KH-UBND (29/9/2025), KH 107/KH-UBND (01/10/2025), KH 114/KH-UBND (07/10/2025), KH 173/KH-UBND (16/11/2025) — chi tiết ref 07 Phần I-bis mục 4.
+
+## 8. Mẫu câu/đầu việc thường gặp
 - "Rà soát, cập nhật danh mục cơ sở ngành Công Thương trên địa bàn tỉnh phải thực hiện kiểm kê KNK theo QĐ 13/2024/QĐ-TTg, báo cáo Bộ Công Thương."
 - "Hướng dẫn các cơ sở [nhiệt điện/luyện kim/hóa chất] thực hiện kiểm kê KNK và MRV theo TT 38/2023/TT-BCT; tổng hợp báo cáo gửi cơ quan có thẩm quyền."
 - "Tham mưu UBND tỉnh triển khai lộ trình phân bổ hạn ngạch phát thải KNK và chuẩn bị tham gia thị trường các-bon đối với cơ sở ngành Công Thương."

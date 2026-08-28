@@ -79,6 +79,11 @@
 23. **Chỉ thị số 26-CT/TU** ngày 12/5/2026 của Ban Thường vụ Tỉnh ủy Lào Cai — về tăng cường sự lãnh đạo của Đảng đối với công tác QLNN về BVMT đối với các dự án khai thác khoáng sản, các dự án quy mô lớn trong các khu, cụm công nghiệp trên địa bàn tỉnh Lào Cai. (Đã xác minh số/ngày từ văn bản gốc.) Xem ref 07.
 24. **Đề án số 13** — "Tăng cường quản lý, khai thác có hiệu quả tài nguyên đất, nước, khoáng sản và bảo vệ môi trường gắn với phát triển bền vững giai đoạn 2026–2030", **ban hành kèm theo Nghị quyết số 35-NQ/TU ngày 29/12/2025** của Ban Chấp hành Đảng bộ tỉnh Lào Cai. *(Số/ngày xác minh từ phần viện dẫn trong Chỉ thị 26-CT/TU đã đóng dấu; bản "Dự thảo Đề án số 13" rời không dùng để trích số.)*
 25. Văn bản phân công nhiệm vụ của UBND tỉnh giao Sở Công Thương về BVMT ngành (theo dự thảo/quyết định cụ thể của tỉnh — xác minh khi viện dẫn).
+26. **NQ 12/2026/NQ-HĐND ngày 29/6/2026** của HĐND tỉnh Lào Cai — quy định **nhiệm vụ chi và một số mức chi** thực hiện nhiệm vụ BVMT trên địa bàn tỉnh. Căn cứ lập dự toán kinh phí sự nghiệp BVMT. *(Xác minh qua viện dẫn trong BC 892/BC-SNNMT ngày 28/8/2026 đã ký số — bản ký tại `van-ban-goc/`.)*
+27. **QĐ 20/2026/QĐ-UBND ngày 08/4/2026** của UBND tỉnh — Quy định một số nội dung về BVMT trên địa bàn tỉnh Lào Cai. *(Xác minh qua BC 892.)*
+28. **KH 348/KH-UBND ngày 22/7/2026** — đầu tư hạ tầng cơ sở xử lý CTR sinh hoạt trên địa bàn tỉnh giai đoạn 2026–2030; **KH 192/KH-UBND ngày 29/4/2026** — triển khai **NQ 247/2025/QH15 ngày 10/12/2025** của Quốc hội về BVMT; **QĐ 525/QĐ-UBND ngày 25/02/2026** — điều chỉnh Quy hoạch tỉnh 2021–2030, tầm nhìn 2050. *(Xác minh qua BC 892.)*
+29. Nhóm kế hoạch BĐKH của tỉnh: **KH 105/KH-UBND (29/9/2025)**, **KH 107/KH-UBND (01/10/2025)**, **KH 114/KH-UBND (07/10/2025)**, **KH 173/KH-UBND (16/11/2025)**, **KH 91-KH/TU (08/6/2026)**. *(Xác minh qua BC 892; chi tiết ref 07 Phần I-bis.)*
+30. **BC 892/BC-SNNMT ngày 28/8/2026** của Sở NN&MT — báo cáo kinh phí sự nghiệp môi trường 2025–2026, kế hoạch 2027 và 2027–2029 (mẫu báo cáo định kỳ theo CV 3318/BTNMT-KHTC ngày 07/4/2026 của Bộ NN&MT). Nguồn số liệu kinh phí, quan trắc, KNK của tỉnh — xem ref 07 Phần I-bis, ref 05 mục 7.
 
 ## I. Bảng theo dõi hiệu lực / dự thảo
 

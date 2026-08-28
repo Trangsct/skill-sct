@@ -30,6 +30,43 @@
 
 ---
 
+## PHẦN I-bis — KINH PHÍ SỰ NGHIỆP MÔI TRƯỜNG & SỐ LIỆU NỀN CỦA TỈNH (theo BC 892/BC-SNNMT ngày 28/8/2026)
+
+> Nguồn: **Báo cáo số 892/BC-SNNMT ngày 28/8/2026** của Sở NN&MT tỉnh Lào Cai (KT.GĐ — PGĐ **Nguyễn Thị Vi Huế** ký), báo cáo Bộ NN&MT theo CV 3318/BTNMT-KHTC ngày 07/4/2026. Bản ký số tại `van-ban-goc/` (số/ngày đã GATE bằng render ảnh — text layer để trống). Đây là **báo cáo định kỳ hằng năm** xây dựng kế hoạch và dự toán NSNN từ nguồn kinh phí sự nghiệp BVMT; Sở Công Thương là một trong các đơn vị được xin ý kiến/cung cấp số liệu đầu vào phần ngành.
+
+### 1. Kinh phí sự nghiệp BVMT của tỉnh (số đã chốt trong BC 892)
+| Năm | Tổng kinh phí | Ngân sách cấp tỉnh | UBND các xã, phường |
+|---|---|---|---|
+| 2025 | **416.442 triệu đồng** | 38.124 triệu | 378.318 triệu |
+| 2026 (ước) | **337.274 triệu đồng** | 13.450 triệu | 323.824 triệu |
+
+- **Nhu cầu chi giai đoạn 2027–2029: 3.094,17 tỷ đồng** (2027: 1.055,76 tỷ; 2028: 1.060,42 tỷ; 2029: 977,99 tỷ). Chi tiết theo nhiệm vụ nằm ở Phụ lục kèm BC (không có trong file lưu — cần thì xin Bạn cung cấp).
+- Đánh giá trong BC: kinh phí SNMT **chưa đáp ứng yêu cầu thực tế**; chi chủ yếu cho **thu gom, vận chuyển, xử lý chất thải sinh hoạt**; phần chi cho QLNN về môi trường của các sở, ngành (trong đó có SCT) **còn rất hạn chế** → luận cứ khi Sở Công Thương đề xuất kinh phí nhiệm vụ BVMT/KNK ngành.
+- Kiến nghị duy nhất của BC: đề nghị Bộ NN&MT sớm tham mưu trình Quốc hội **Luật BVMT (sửa đổi, bổ sung)** để tiếp tục giảm TTHC.
+
+### 2. Số liệu quan trắc tự động (rất hay được hỏi — cập nhật đến 8/2026)
+- KCN Tằng Loỏng và một số khu vực: **35 trạm quan trắc khí thải, 06 trạm quan trắc nước thải, 02 trạm quan trắc tự động liên tục không khí xung quanh, 01 trạm quan trắc tự động liên tục nước sông Hồng**.
+- **14/14 đơn vị** có lưu lượng khí thải lớn đã lắp quan trắc khí thải tự động, liên tục và truyền số liệu về Sở NN&MT; **08/08 cơ sở** đã lắp quan trắc nước thải tự động, trong đó **06/08 đã truyền số liệu** (02 cơ sở đã lắp nhưng chưa truyền).
+- Quan trắc môi trường nền: vùng Lào Cai cũ 06 đợt/năm (140 mẫu nước mặt, 12 mẫu nước dưới đất); vùng Yên Bái cũ 02 lần/năm (40 điểm).
+
+### 3. Tái sử dụng, tái chế CTR công nghiệp — dữ kiện ngành Công Thương trong BC 892
+Đoạn "trong lĩnh vực công nghiệp" của BC 892 là **nguồn câu chữ chuẩn** khi Sở soạn báo cáo phần kinh tế tuần hoàn:
+- **Xỉ thải sản xuất phốt pho** → chuyển giao đơn vị sản xuất VLXD; **bùn nghèo** sản xuất phốt pho → tận thu làm nhiên liệu; **chất thải Gyps** → nghiên cứu làm phụ gia xi măng.
+- **Tro xỉ, thạch cao, xỉ đuôi tuyển** → tái sử dụng làm nguyên liệu VLXD; **bùn thải, đất đá tuyển quặng apatit** → lưu giữ tại hồ chứa quặng đuôi đã được cấp phép.
+- Tái chế săm lốp cao su thành **dầu FO, cacbon rắn, thép phế**; nhựa tái chế làm bao bì; đầu mẩu gỗ/mùn cưa làm viên nén nhiên liệu, nhiên liệu lò hơi.
+- Chương trình **sản xuất sạch hơn trong công nghiệp** tiếp tục triển khai: giảm CTR phát sinh, tiết kiệm năng lượng/nguyên liệu trên đơn vị sản phẩm, tái sử dụng nước, chuyển nhiên liệu sạch.
+- Nhập khẩu phế liệu làm nguyên liệu sản xuất: toàn tỉnh có **01 cơ sở** (Nhà máy dung dịch thủy tinh hữu cơ - LTT, Công ty CP TM&SX LTT, CCN Âu Lâu) — **đang tạm dừng hoạt động**, không phát sinh nhập khẩu.
+
+### 4. Văn bản của tỉnh viện dẫn trong BC 892 (số/ngày xác minh qua BC đã ký — dùng được)
+- **NQ 12/2026/NQ-HĐND ngày 29/6/2026** của HĐND tỉnh — quy định **nhiệm vụ chi và một số mức chi** thực hiện nhiệm vụ BVMT trên địa bàn tỉnh → căn cứ lập dự toán kinh phí BVMT của Sở.
+- **QĐ 20/2026/QĐ-UBND ngày 08/4/2026** — Quy định một số nội dung về BVMT trên địa bàn tỉnh Lào Cai.
+- **KH 348/KH-UBND ngày 22/7/2026** — đầu tư hạ tầng cơ sở xử lý CTR sinh hoạt tỉnh Lào Cai giai đoạn 2026–2030.
+- **KH 192/KH-UBND ngày 29/4/2026** — triển khai NQ 247/2025/QH15 ngày 10/12/2025 của Quốc hội về nâng cao hiệu lực, hiệu quả thực hiện chính sách, pháp luật về BVMT.
+- **QĐ 525/QĐ-UBND ngày 25/02/2026** — điều chỉnh Quy hoạch tỉnh Lào Cai thời kỳ 2021–2030, tầm nhìn 2050 (đã lồng ghép nội dung BVMT, BĐKH).
+- Nhóm kế hoạch BĐKH: **KH 105/KH-UBND ngày 29/9/2025** (hành động ứng phó BĐKH đến 2030); **KH 107/KH-UBND ngày 01/10/2025** (thích ứng BĐKH đến 2030, tầm nhìn 2050); **KH 114/KH-UBND ngày 07/10/2025** (thực hiện NQ 122/NQ-CP — Kết luận 81-KL/TW); **KH 173/KH-UBND ngày 16/11/2025** (hệ thống giám sát - đánh giá thích ứng BĐKH theo QĐ 148/QĐ-TTg); **KH 91-KH/TU ngày 08/6/2026** (khí tượng thủy văn theo Chỉ thị 10-CT/TW).
+
+---
+
 ## PHẦN II — ĐIỂM NÓNG MÔI TRƯỜNG NGÀNH CÔNG THƯƠNG TẠI LÀO CAI
 
 ### 1. Bãi thải gyps – KCN Tằng Loỏng

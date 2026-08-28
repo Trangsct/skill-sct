@@ -24,7 +24,7 @@
       "name": "bvmt-sct-vn",
       "source": "./bvmt-sct-vn",
       "description": "QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương Lào Cai: thẩm định ĐTM/GPMT/đăng ký môi trường; ủy viên Hội đồng thẩm định GPMT (Bản nhận xét Mẫu 30, Phiếu 31, checklist phản biện BCĐX hạ tầng CCN); GATE NQ 66.19/2026 Phụ lục IX (hạ tầng CCN không phải ĐTM nhưng phải GPMT, Mẫu 22c); phân loại nhóm I-IV theo Luật 146/2025 + NĐ 48/2026; đóng cửa mỏ - cải tạo phục hồi; BVMT KCN/CCN, gyps Tằng Loỏng; KNK/các-bon; sự cố; xử phạt. Vai trò phối hợp của SCT, chủ trì thuộc Sở NN&MT.",
-      "version": "1.2.3"
+      "version": "1.3.0"
     },
     {
       "name": "dacn-sct-vn",

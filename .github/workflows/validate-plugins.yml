@@ -22,7 +22,10 @@ jobs:
       - name: Kiểm giới hạn description (plugin.json 500, SKILL.md 1024)
         run: python3 scripts/check_descriptions.py
 
-      - name: Kiểm marketplace.json khớp plugin.json
+      # Trên main, workflow marketplace-sync.yml tự đồng bộ và commit lại bằng bot,
+      # nên bước kiểm khớp chỉ chạy cho pull request để tránh đỏ giả do chạy song song.
+      - name: Kiểm marketplace.json khớp plugin.json (chỉ pull request)
+        if: github.event_name == 'pull_request'
         run: python3 scripts/sync_marketplace.py --check
 
       - name: Kiểm cấu trúc plugin

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.6.7"
+    "version": "4.6.8"
   },
   "plugins": [
     {
@@ -90,7 +90,7 @@
       "name": "sd-vlncn-sct-vn",
       "source": "./sd-vlncn-sct-vn",
       "description": "Giay phep su dung VLNCN va Phuong an no min (PANM) - So Cong Thuong tinh Lao Cai: tham dinh cap/dieu chinh/cap lai/thu hoi GP su dung VLNCN, tham dinh PANM trinh Chu tich UBND tinh, ban do tham quyen UBND cap tinh va So Cong Thuong, huong dan doanh nghiep, kiem tra - xu phat, bao cao. Cap nhat Luat 118/2025 va VBHN 78/VBHN-VPQH.",
-      "version": "2026.8.24"
+      "version": "2026.8.28"
     },
     {
       "name": "tkm-sct-vn",

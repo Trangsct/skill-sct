@@ -1,5 +1,24 @@
 # CHANGELOG — qlks-sct-vn
 
+## v1.9.0 — 29/8/2026: nghiệp vụ 12 — xác minh kiến nghị lấn chiếm ranh giới mỏ giáp ranh (mẫu chuẩn vụ Đại Đồng Tiến)
+
+**Nguồn:** Bạn cung cấp trọn bộ 4 văn bản của vụ việc điển hình được đánh giá giải quyết rất tốt: (1) **CV 28/CV-ĐĐT ngày 04/8/2026** của Công ty TNHH Đại Đồng Tiến (GĐ Trần Thành Công ký, scan 61 trang kèm phụ lục chứng cứ) kiến nghị DNTN Thành Hương Nghĩa Lộ lấn chiếm, khai thác trái phép sang ranh giới mỏ đá xã Văn Chấn; (2) **CV 8129/UBND-KT ngày 10/8/2026** (PCT Nguyễn Thành Sinh ký) giao SNNMT chủ trì, phối hợp SXD, SCT, UBND xã Văn Chấn xác minh, báo cáo trước 30/8/2026; (3) **Biên bản kiểm tra thực địa ngày 21/8/2026** ký đủ 6 bên (3 sở + xã + 2 doanh nghiệp); (4) **BC 904/BC-SNNMT ngày 28/8/2026** (PGĐ Phạm Năng Chung ký) — hoàn thành trước hạn 2 ngày. Kết luận: đo GPS hệ VN2000 tại 2 vị trí bên kiến nghị chỉ → cả 2 nằm TRONG ranh giới GP 2596/GP-UBND của bên bị kiến nghị (cách ranh 11m/14m, cao độ +384/+386m > mức sâu cho phép +380m) — **chưa lấn chiếm**; cả hai doanh nghiệp ký thống nhất.
+
+### Nội dung mới
+
+- **`references/22-xac-minh-kien-nghi-lan-chiem-ranh-gioi-mo-giap-ranh.md` (MỚI)**: dòng thời gian 18 ngày từ chỉ đạo đến báo cáo; bảng đối chiếu 2 giấy phép (412/GP-UBND 2012 và 2596/GP-UBND 2014 của UBND tỉnh Yên Bái cũ); **7 kỹ thuật xác minh** làm nên chất lượng vụ này (mời cả hai doanh nghiệp cùng ra thực địa và ký; đo GPS đúng hệ tọa độ giấy phép VN2000 KTT 104°45' múi 3° tại đúng vị trí bên kiến nghị chỉ, đo cả cao độ chân tầng; đối chiếu 3 lớp ranh GP - mức sâu - hồ sơ thuê đất; tách vụ cũ 270m² năm 2022 khỏi kiến nghị mới; kết luận dứt khoát trên số liệu; câu giới hạn phạm vi kiểm tra; ý kiến từng cơ quan thành mục riêng); câu mẫu ý kiến của SCT trong đoàn (mục 4.3 biên bản thật); khuôn cấu trúc báo cáo kết quả 3 phần với **kiến nghị phòng ngừa kể cả khi không có vi phạm** (ranh 2 mỏ cách nhau 01-03m, có nơi <01m + nổ mìn → 6 nhóm kiến nghị với doanh nghiệp + 1 nhóm với cơ quan); quy trình chuẩn B1-B7 tái sử dụng; 7 bài học đối chiếu nhanh.
+- **`van-ban-goc/`**: 4 file PDF gốc của vụ việc (CV 28 scan không lớp text; CV 8129 + BC 904 ký số — số/ngày phải render ảnh để đọc; biên bản thực địa scan ký tươi).
+- **`references/08`** mục I: con trỏ sang reference 22 cho tình huống kiến nghị lấn chiếm ranh giới mỏ giáp ranh.
+- `SKILL.md`: mục V đổi thành **12 nghiệp vụ**, thêm nghiệp vụ 12; bước B4 quy trình thêm nhánh "kiến nghị lấn chiếm ranh giới mỏ giáp ranh"; cây thư mục thêm reference `22` + cập nhật van-ban-goc 26 văn bản; description thêm từ khóa (xác minh kiến nghị lấn chiếm, tranh chấp ranh giới mỏ giáp ranh). `plugin.json` → 1.9.0.
+
+### Bài học nghiệp vụ đáng giá nhất
+
+1. **Thực địa + thiết bị đo thắng mọi tranh luận giấy tờ** — không hòa giải chay: đo tọa độ và cao độ bằng GPS theo đúng hệ quy chiếu của giấy phép, để con số kết luận; bên kiến nghị tự chỉ vị trí đo nên không thể phản bác kết quả.
+2. **Kiến nghị của doanh nghiệp không đồng nghĩa có vi phạm** — kết luận "chưa lấn chiếm" dứt khoát, có số liệu, cả bên kiến nghị cũng ký thống nhất; văn bản không quy chụp bên nào.
+3. **Không có vi phạm vẫn xử lý gốc rễ rủi ro** — giá trị lớn nhất của BC 904 là phần kiến nghị phòng ngừa từ đặc điểm "2 mỏ giáp ranh quá gần + dùng VLNCN": duy trì mốc giới, khai thác đúng phép - đúng thiết kế, không dùng VLNCN vượt ranh giới bề mặt/độ sâu, chủ động dừng khi có nguy cơ, giám sát thường xuyên.
+4. **Câu giới hạn phạm vi** trong cả biên bản lẫn báo cáo ("chỉ kiểm tra xác minh đối với các vị trí do bên kiến nghị đề nghị, không kiểm tra các nội dung khác") — bảo vệ pháp lý đoàn kiểm tra.
+5. **Sáp nhập tỉnh không làm đứt hồ sơ**: giấy phép và biên bản thời Yên Bái viện dẫn nguyên trạng, chua "(nay thuộc xã Văn Chấn, tỉnh Lào Cai)".
+
 ## v1.8.0 — 25/8/2026: nghiệp vụ 11 — ủy viên Hội đồng thẩm định Đề án thăm dò khoáng sản (QĐ 777/QĐ-UBND)
 
 **Nguồn:** 04 hồ sơ xin ý kiến của Sở Nông nghiệp và Môi trường và 04 Phiếu đánh giá, nhận xét do PGĐ Hoàng Văn Thuân ký: cát sỏi suối Ngòi Thia (xã Xuân Ái, 29/7/2026); cát sỏi sông Chảy khu vực Bản Mủng - Bản Chuân (xã Xuân Hòa, 06/7/2026); cát sỏi suối Nhù thôn Ngầu 3 (xã Võ Lao — CV 7637/SNNMT-KS ngày 10/8/2026, QĐ trúng đấu giá 2084/QĐ-UBND ngày 16/6/2026); đá hoa trắng Làng Lạnh III (xã Lục Yên — QĐ trúng đấu giá 2806/QĐ-UBND ngày 11/8/2026).

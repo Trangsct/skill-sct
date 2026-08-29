@@ -1,7 +1,7 @@
 {
   "name": "xd-sct-vn",
-  "version": "1.4.0",
-  "description": "QLNN ve XAY DUNG (cap bo + tinh + xa) - So Cong Thuong tinh Lao Cai, chuyen sau cong trinh nganh Cong Thuong. Khung phap ly hieu luc 01/7/2026: Luat Xay dung 135/2025/QH15, ND 207/2026 (thay ND 06/2021), ND 217/2026 (thay ND 175/2024), ND 140/2025 + 144/2025, QD 11/2026/QD-UBND Lao Cai. Xac dinh SCT la co quan chuyen mon ve xay dung voi cong trinh cong nghiep; tham dinh BCNCKT/thiet ke; kiem tra cong tac nghiem thu (KTCTNT); GPXD; su co; cong trinh tam; phan dinh tham quyen 3 cap. Bo sung 29/8/2026: GATE CHUYEN TIEP quanh moc 01/7/2026 (Dieu 53 ND 207, Dieu 76 ND 217) voi ban goc khung cu ND 06/2021, ND 175/2024, TT 06/2021 + TT 02/2025; TT 36/2026 (chi phi DTXD), TT 39/2026 (CSDL quoc gia HDXD); case study tham dinh BCNCKT 110kV Au Lau kem 8 nhom loi can tranh.",
+  "version": "1.4.1",
+  "description": "Xay dung - QLNN nganh Cong Thuong Lao Cai: tham dinh BCNCKT/thiet ke, giay phep xay dung (cap/mien), KTCTNT, cong trinh tam, su co, cap cong trinh; phan dinh SCT - SXD - BQL KKT - xa. Khung hieu luc 01/7/2026 (Luat 135/2025, ND 207 + 212 + 217/2026, QD 11/2026) kem GATE chuyen tiep ref 11 (bang quyet dinh 3 moc, cat giam dieu kien nang luc: ND 212/2026 bai bo chung chi to chuc, csdlhdxd.gov.vn; NQ 66.18/2026). Van ban goc 2 khung + case Au Lau, Dong Tien.",
   "author": {
     "name": "Tran Trong Trang - Phong QLCN, So Cong Thuong Lao Cai"
   }

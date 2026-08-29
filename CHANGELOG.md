@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 29/8/2026 — kho-vlncn-sct-vn v1.8.0 + xd-sct-vn v1.2.1: liên kết 2 plugin, case chuẩn kho tạm Đồng Tiến
+- kho-vlncn: Nhóm 2 Xây dựng viết lại theo 2 khung quanh mốc 01/7/2026, GATE chuyển tiếp trỏ xd-sct-vn ref 11; case study KTCTNT kho tạm Đồng Tiến (TB 5088/TB-SCT — 8 điểm chuẩn, 6 điểm rút kinh nghiệm, nổi bật: thiếu phiếu đo chống tĩnh điện, file năng lực CĐT nộp nhầm trùng md5); anti-error 8-11.
+- xd-sct-vn: ref 11 thêm bài học "hai mốc, hai khung" từ vụ Đồng Tiến, liên kết chéo.
+
 ## 29/8/2026 — xd-sct-vn v1.2.0
 - GATE CHUYỂN TIẾP quanh mốc 01/7/2026 (reference 11: Đ53 NĐ 207/2026, Đ76 NĐ 217/2026) + bản gốc khung cũ NĐ 06/2021, NĐ 175/2024, TT 06/2021 + TT 02/2025; TT 36/2026 (chi phí ĐTXD), TT 39/2026 (CSDL HĐXD).
 - Case study thẩm định BCNCKT ĐZ+TBA 110kV Âu Lâu (14 file + README-BAI-HOC: 8 nhóm lỗi cần tránh, các điểm làm đúng cần kế thừa).

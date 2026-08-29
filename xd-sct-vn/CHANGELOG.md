@@ -1,5 +1,8 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.2.1] - 29/8/2026
+- Reference `11-chuyen-tiep-2026.md`: bổ sung bài học số 3 — vụ kho VLNCN tạm Đồng Tiến, case CHUẨN "hai mốc, hai khung" trong một hồ sơ (miễn GPXD theo Đ89 Luật 2014 tại thời điểm khởi công; KTCTNT theo NĐ 207/2026 tại thời điểm thủ tục); liên kết chéo plugin `kho-vlncn-sct-vn` v1.8.0.
+
 ## [1.2.0] - 29/8/2026
 Bổ sung nhóm chuyển tiếp + case study thực tế. Nguồn: bộ VBQPPL Bạn cung cấp 29/8/2026 và hồ sơ thẩm định BCNCKT 110kV Âu Lâu (Phòng QLNL).
 - **Thêm reference `11-chuyen-tiep-2026.md`** — GATE CHUYỂN TIẾP quanh mốc 01/7/2026: bảng quyết định khung áp dụng (khoản 1-4 Đ53 NĐ 207/2026; khoản 1, 2, 5 Đ76 NĐ 217/2026; khoản 1 Đ53 về cấp công trình theo thời điểm quyết định đầu tư); 3 mốc thời gian độc lập của một dự án; câu mẫu lập luận chuyển tiếp đưa vào văn bản.

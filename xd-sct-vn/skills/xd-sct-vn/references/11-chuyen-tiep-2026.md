@@ -31,10 +31,11 @@ Ba mốc có thể rơi vào ba khung khác nhau trong cùng một dự án — 
 - `TT-36-2026-TT-BXD-chi-phi-dau-tu-xay-dung.docx` — chi phí ĐTXD theo khung mới (hướng dẫn NĐ 206/2026).
 - `TT-39-2026-TT-BXD-CSDL-quoc-gia-HDXD.docx` — CSDL quốc gia về hoạt động xây dựng (liên quan thông báo khởi công, điểm b khoản 3 Đ27 NĐ 207: CQCM căn cứ thông tin khởi công trên CSDL để lên kế hoạch KTCTNT).
 
-## 4. Bài học kèm theo (rút từ 2 hồ sơ thực tế 8/2026)
+## 4. Bài học kèm theo (rút từ 3 hồ sơ thực tế 8/2026)
 
 1. **Vụ Âu Lâu** (`vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/README-BAI-HOC.md`): 8 nhóm lỗi — bỏ qua khoản 2 Đ76; quá hạn không gia hạn; dẫn nhầm cặp NĐ 207↔217; quy hoạch tỉnh cũ; PCCC copy khung dân dụng; khẳng định vượt hồ sơ; thành phần trùng-thiếu; số liệu mâu thuẫn nội bộ.
 2. **Vụ công văn khởi công GĐ2 nhà máy phân lân nung chảy (8/2026, Phòng QLCN)**: dự án thẩm định TKCS 29/6/2026 (khung cũ) nhưng khởi công sau 01/7/2026 → QLCL - KTCTNT theo NĐ 207/2026 là ĐÚNG; đồng thời nhớ nghĩa vụ hay bị bỏ sót: công trình ảnh hưởng lớn AT-LICĐ **bắt buộc thẩm tra thiết kế** làm cơ sở cho CĐT thẩm định (điểm a khoản 5 Điều 26 + khoản 3 Điều 29 Luật 135/2025; khoản 4 Điều 41 NĐ 217/2026), và thẩm tra nội dung PCCC nếu thuộc diện thẩm định PCCC (điểm b khoản 5 Điều 26). Khi soạn công văn hướng dẫn DN về thiết kế sau TKCS: nhắc cả thẩm tra, không chỉ "thẩm định, phê duyệt".
+3. **Vụ kho VLNCN tạm Đồng Tiến (8/2026)** — case CHUẨN về "hai mốc, hai khung" trong MỘT hồ sơ: kho khởi công trước 01/7/2026 → miễn GPXD theo điểm c khoản 2 Đ89 Luật XD 2014; thủ tục KTCTNT thực hiện sau 01/7/2026 (báo cáo hoàn thành 10/8/2026) → Đ25-27 NĐ 207/2026. Cách dẫn cả hai căn cứ là đúng bản chất, chỉ cần thêm 01 câu lập luận mốc. Hồ sơ + phân tích: plugin `kho-vlncn-sct-vn`, `vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/`.
 
 ## 5. Câu mẫu lập luận chuyển tiếp (đưa vào phần căn cứ hoặc mục riêng của văn bản)
 

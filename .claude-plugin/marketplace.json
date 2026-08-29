@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.8.0"
+    "version": "4.9.0"
   },
   "plugins": [
     {
@@ -59,7 +59,7 @@
     {
       "name": "kho-vlncn-sct-vn",
       "source": "./kho-vlncn-sct-vn",
-      "description": "Quan ly nha nuoc ve kho vat lieu no cong nghiep (VLNCN) - So Cong Thuong tinh Lao Cai: huong dan doanh nghiep xay kho tu A-Z, kiem tra cong tac nghiem thu, kiem dinh kho hien huu, gui kho va thong bao UBND cap tinh, phe duyet phuong an no min, mau van ban va vi du thuc te.",
+      "description": "Quan ly nha nuoc ve kho vat lieu no cong nghiep (VLNCN) - So Cong Thuong tinh Lao Cai: huong dan doanh nghiep xay kho tu A-Z, kiem tra cong tac nghiem thu, kiem dinh kho hien huu, gui kho va thong bao UBND cap tinh, phe duyet phuong an no min, mau van ban va vi du thuc te. Cap nhat 29/8/2026: khung xay dung moi tu 01/7/2026 (Luat 135/2025, ND 207/2026 D25-27, cong trinh tam D72) lien ket plugin xd-sct-vn (GATE chuyen tiep ref 11); case chuan kho tam Dong Tien (TB 5088/TB-SCT) kem 6 diem rut kinh nghiem (du phieu do dien tro tung he tiep dat, ke hoach kiem tra truoc ngay kiem tra, soi nang luc CDT '3 trong 1').",
       "version": "1.7.1"
     },
     {

@@ -1,6 +1,6 @@
 ---
 name: kho-vlncn-sct-vn
-description: "KHO VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN), Sở Công Thương Lào Cai. Kích hoạt: kho VLNCN, kho tạm, kho cố định, gửi kho, nghiệm thu công trình kho, KTCTNT, kiểm định, phương án nổ mìn (PANM), kho tiền chất thuốc nổ, QCVN 01:2019/BCT, QCVN 04:2020/BCT. Nghiệp vụ: (1) hướng dẫn doanh nghiệp trọn quy trình chuẩn bị, hồ sơ, điều kiện, thiết kế, thi công, đưa kho vào sử dụng; (2) kiểm tra công tác nghiệm thu công trình kho: kế hoạch, biên bản, thông báo chấp thuận; (3) kho hiện hữu: kiểm định chất lượng, xác nhận đề cương, đáp ứng QCVN; (4) GỬI KHO bảo quản VLNCN: thỏa thuận bằng văn bản và thông báo đến UBND cấp tỉnh (điểm b khoản 2 Điều 40, mới từ 01/7/2026); (5) tham mưu phê duyệt PANM, dự thảo QĐ UBND tỉnh; (6) giấy phép sử dụng VLNCN, kiểm tra, báo cáo. Kèm mẫu văn bản, ví dụ thực tế, văn bản gốc. Từ khóa thêm: TT 32/2019, TT 47/2020, Luật 42/2024, Luật 118/2025, VBHN 78/VBHN-VPQH, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, TT 75/2024/TT-BCA, NĐ 06/2021, sức chứa, chống sét, thủ kho."
+description: "KHO VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN), Sở Công Thương Lào Cai. Kích hoạt: kho VLNCN, kho tạm, kho cố định, gửi kho, nghiệm thu công trình kho, KTCTNT, kiểm định, phương án nổ mìn (PANM), kho tiền chất thuốc nổ, QCVN 01:2019/BCT, QCVN 04:2020/BCT. Nghiệp vụ: (1) hướng dẫn doanh nghiệp trọn quy trình chuẩn bị, hồ sơ, điều kiện, thiết kế, thi công, đưa kho vào sử dụng; (2) kiểm tra công tác nghiệm thu công trình kho: kế hoạch, biên bản, thông báo chấp thuận; (3) kho hiện hữu: kiểm định chất lượng, xác nhận đề cương, đáp ứng QCVN; (4) GỬI KHO bảo quản VLNCN: thỏa thuận bằng văn bản và thông báo đến UBND cấp tỉnh (điểm b khoản 2 Điều 40, mới từ 01/7/2026); (5) tham mưu phê duyệt PANM, dự thảo QĐ UBND tỉnh; (6) giấy phép sử dụng VLNCN, kiểm tra, báo cáo. Kèm mẫu văn bản, ví dụ thực tế, văn bản gốc. Từ khóa thêm: TT 32/2019, TT 47/2020, Luật 42/2024, Luật 118/2025, VBHN 78/VBHN-VPQH, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, TT 75/2024/TT-BCA, NĐ 06/2021 (chuyển tiếp), Luật XD 135/2025, NĐ 207/2026, công trình tạm Điều 72, sức chứa, chống sét, thủ kho."
 ---
 
 # kho-vlncn-sct-vn — Quản lý nhà nước về kho vật liệu nổ công nghiệp (Sở Công Thương Lào Cai)
@@ -41,12 +41,18 @@ Toàn bộ số/ngày đã xác minh. TUYỆT ĐỐI không tự thay số khác
 7a. **QCVN 04:2020/BCT** ban hành kèm **Thông tư số 47/2020/TT-BCT** ngày 21/12/2020 — chất lượng **tiền chất thuốc nổ** dùng để sản xuất VLNCN: chỉ tiêu chất lượng, phương pháp thử, ghi nhãn, hợp quy. **Mục 2.2: bảo quản TCTN thực hiện theo QCVN 01:2019/BCT** (không có bộ yêu cầu kho riêng). Dùng khi kho có bảo quản TCTN hoặc khi kiểm tra nguồn gốc, chất lượng lô TCTN nhập kho.
 7. **QCVN 01:2019/BCT** ban hành kèm **Thông tư số 32/2019/TT-BCT** ngày 21/11/2019 (hiệu lực 01/7/2020) — **văn bản kỹ thuật cốt lõi** về kho: Điều 5 (yêu cầu chung: khoảng cách an toàn, thiết bị điện, chống sét, PCCC, môi trường), Điều 21 (kho VLNCN: phân loại, sức chứa, bảo quản chung), Điều 22 (bảo quản tại nơi nổ mìn), Điều 23 (kho tiền chất); Phụ lục 1 (nhóm tương thích), Phụ lục 7 (tính khoảng cách an toàn), Phụ lục 8 (thủ tục xuất nhập kho), Phụ lục 9 (lý lịch kho), **Phụ lục 10 (quy định xây dựng kho, sắp xếp VLNCN)**, Phụ lục 11 (chống sét), Phụ lục 13 (chế độ bảo vệ), Phụ lục 16 (PCCC). Đến 7/2026 chưa có bản sửa đổi thay thế — các văn bản Sở ban hành 5–6/2026 vẫn viện dẫn trực tiếp QCVN 01:2019/BCT.
 
-**Nhóm 2 — Xây dựng (SCT là cơ quan chuyên môn về xây dựng đối với kho VLNCN):**
-8. **Luật Xây dựng 50/2014/QH13**, sửa đổi bởi **Luật 62/2020/QH14** — điểm c khoản 2 Điều 89 (công trình miễn GPXD), khoản 30 Điều 1 Luật 62/2020, **Điều 131 (công trình tạm)**: công trình tạm ảnh hưởng lớn đến an toàn, lợi ích cộng đồng phải được thẩm tra điều kiện an toàn và gửi cơ quan chuyên môn về xây dựng địa phương theo dõi, kiểm tra TRƯỚC khi thi công.
-9. **Nghị định 06/2021/NĐ-CP** ngày 26/01/2021 (quản lý chất lượng, thi công, bảo trì) — **Điều 23 (kiểm tra công tác nghiệm thu — điều kiện đưa công trình vào sử dụng, thời hạn thông báo trước nghiệm thu tối thiểu 10 ngày với công trình dưới cấp I)**; khoản 13 Điều 2 (định nghĩa bảo trì); điểm g khoản 2 Điều 5 (kiểm định phục vụ bảo trì); điểm đ khoản 5 Điều 33 (kiểm định khi có yêu cầu của CQNN). Được sửa đổi bởi: **NĐ 35/2023/NĐ-CP** (20/6/2023), **NĐ 175/2024/NĐ-CP** (30/12/2024 — điều kiện năng lực hoạt động xây dựng, chứng chỉ hành nghề), **NĐ 144/2025/NĐ-CP** (12/6/2025 — phân quyền, phân cấp QLNN Bộ Xây dựng), **NĐ 67/2026/NĐ-CP** (04/3/2026).
-10. **Thông tư 10/2021/TT-BXD** ngày 25/8/2021 — Điều 5: trình tự, nội dung **kiểm định xây dựng**.
-11. **Thông tư 06/2021/TT-BXD** ngày 30/6/2021 — phân cấp công trình (kho VLNCN cố định nổi/nửa ngầm sức chứa ≤10 tấn: công trình công nghiệp **cấp II** — theo cách vận dụng tại CV 2826/SCT-CN).
-12. Quy định về quản lý hoạt động xây dựng trên địa bàn tỉnh Lào Cai do UBND tỉnh ban hành (viện dẫn chung; khi cần số cụ thể phải hỏi Bạn).
+**Nhóm 2 — Xây dựng (SCT là cơ quan chuyên môn về xây dựng đối với kho VLNCN). ⭐ CẬP NHẬT 29/8/2026 — hai khung theo mốc 01/7/2026, LIÊN KẾT plugin `xd-sct-vn`:**
+
+⭐ **GATE trước khi chọn căn cứ nhóm này**: xác định 3 mốc (khởi công / quyết định đầu tư-phê duyệt thiết kế / thời điểm thực hiện thủ tục KTCTNT) rồi tra bảng quyết định tại **plugin `xd-sct-vn` reference `11-chuyen-tiep-2026.md`**. Một hồ sơ kho có thể dùng HAI khung (vd kho Đồng Tiến 8/2026: khởi công trước 01/7/2026 → miễn GPXD theo Đ89 Luật 2014; thủ tục KTCTNT sau 01/7/2026 → NĐ 207/2026) — khi đó phải có 01 câu lập luận chuyển tiếp trong văn bản. Văn bản gốc cả hai khung nằm ở `xd-sct-vn/van-ban-goc/`.
+
+**Khung HIỆN HÀNH (thủ tục thực hiện từ 01/7/2026):**
+8. **Luật Xây dựng số 135/2025/QH15** (hiệu lực 01/7/2026) — điểm a khoản 2 Điều 43 (miễn GPXD công trình tạm), khoản 3 Điều 43 (miễn GPXD vẫn gửi thông báo khởi công), **Điều 72 (công trình tạm** — hết thời hạn phải tháo dỡ, hoàn trả mặt bằng), khoản 4 Điều 57 (KTCTNT), khoản 5 Điều 26 + khoản 3 Điều 29 (thẩm tra thiết kế bắt buộc với công trình AT-LICĐ).
+9. **NĐ 207/2026/NĐ-CP ngày 15/6/2026** — **Điều 25-27 (KTCTNT: đối tượng, thẩm quyền CQCM cấp tỉnh, trình tự — CĐT gửi Báo cáo hoàn thành theo Phụ lục VI)**; Điều 28 (hồ sơ hoàn thành); Phụ lục V (mẫu thông báo khởi công). Điều khoản chuyển tiếp: Điều 53.
+10. **NĐ 217/2026/NĐ-CP ngày 19/6/2026** — thiết kế, thẩm định (Đ41-43); Phụ lục IV (danh mục công trình AT-LICĐ); chuyển tiếp Điều 76. **TT 34/2026/TT-BXD** — cấp công trình (dự án quyết định đầu tư từ 01/7/2026). **TT 39/2026/TT-BXD** — mã định danh, CSDL quốc gia HĐXD (ghi mã thật hoặc "chưa được cấp", không ghi lấp lửng).
+11. **QĐ 11/2026/QĐ-UBND ngày 29/01/2026** của UBND tỉnh Lào Cai — Đ16 (tiếp nhận thông báo khởi công), Đ17 (KTCTNT + kiểm tra PCCC hằng năm). Bản dấu đỏ trong `xd-sct-vn/van-ban-goc/`.
+
+**Khung CŨ (chỉ dùng theo chuyển tiếp — hồ sơ tiếp nhận / công trình khởi công / dự án quyết định đầu tư TRƯỚC 01/7/2026):**
+12. **Luật Xây dựng 50/2014** (sđ Luật 62/2020) — điểm c khoản 2 Điều 89 (miễn GPXD), Điều 131 (công trình tạm). **NĐ 06/2021/NĐ-CP** — Điều 23 (KTCTNT); sđ bởi NĐ 35/2023, NĐ 175/2024 (năng lực, CCHN), NĐ 144/2025, NĐ 67/2026. **TT 06/2021/TT-BXD** (sđ **TT 02/2025/TT-BXD**) — phân cấp công trình (kho VLNCN ≤10 tấn: cấp II — tiền lệ CV 2826/SCT-CN). **TT 10/2021/TT-BXD** Điều 5 — kiểm định xây dựng. Toàn văn khung cũ: `xd-sct-vn/van-ban-goc/` (các file hậu tố `-CU`).
 
 **Nhóm 3 — PCCC, ANTT:**
 13. **Luật PCCC&CNCH số 55/2024/QH15** ngày 29/11/2024 (hiệu lực 01/7/2025) — điểm a khoản 5 Điều 18 (nghiệm thu về PCCC).
@@ -121,6 +127,10 @@ GĐ6 CẤP PHÉP      → hồ sơ GP sử dụng VLNCN (Điều 39 Luật 42/20
 5. **Năng lực cá nhân phải có minh chứng:** chỉ huy trưởng, TVGS phải có chứng chỉ hành nghề + quyết định giao nhiệm vụ (NĐ 175/2024); giấy ủy quyền ký văn bản phải còn hiệu lực, rõ phạm vi.
 6. **Không tự điền số/ngày văn bản chưa ban hành**; số liệu sức chứa, khoảng cách phải khớp thiết kế được duyệt; GATE khi đọc PDF đến.
 7. Sau sáp nhập 01/7/2025: địa danh dùng **xã + tỉnh Lào Cai** (không còn cấp huyện); ghi chú vị trí cũ nếu cần như tiền lệ TB Móng Sến 1.
+8. **Đủ phiếu đo điện trở cho TỪNG hệ tiếp đất** (đúc kết vụ Đồng Tiến 8/2026): hệ thu sét (≤10Ω) VÀ hệ chống tĩnh điện (theo thiết kế, thường ≤4Ω) là hai phép đo riêng — thiếu một phiếu là chưa đủ căn cứ kết luận hạng mục đạt; không chấp nhận câu "báo cáo hoàn thành nêu yêu cầu" thay cho kết quả đo.
+9. **Kế hoạch kiểm tra phát hành TRƯỚC ngày kiểm tra** (tối thiểu 2-3 ngày làm việc) để CĐT chuẩn bị — không ban hành kế hoạch và kiểm tra cùng ngày.
+10. **CĐT tự thẩm định thiết kế + tự thi công + tự giám sát ("3 trong 1")**: soi kỹ nhất chứng chỉ năng lực TỔ CHỨC (thi công, giám sát) + CCHN cá nhân + tính độc lập của bộ phận giám sát; kiểm tra file hồ sơ số bằng md5/dung lượng — vụ Đồng Tiến: file "chứng chỉ năng lực doanh nghiệp" nộp nhầm, trùng byte với hồ sơ năng lực của đơn vị tư vấn khác. Biểu thông số kèm TB phải có mục **khoảng cách an toàn theo Phụ lục 7 QCVN 01:2019/BCT** đối chiếu thực tế ↔ tối thiểu theo sức chứa.
+11. **Hồ sơ vắt qua mốc 01/7/2026**: chạy GATE chuyển tiếp tại **plugin `xd-sct-vn` reference `11-chuyen-tiep-2026.md`** trước khi viết căn cứ; nếu dùng hai khung cho hai mốc (miễn GPXD lúc khởi công theo luật cũ; thủ tục KTCTNT theo NĐ 207/2026) thì phải có 01 câu lập luận trong văn bản. Case chuẩn: `vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/`.
 
 ## VIII. CẤU TRÚC PLUGIN
 
@@ -138,6 +148,8 @@ references/
   10-van-hanh-bao-cao.md           Lý lịch kho, xuất nhập, bảo vệ, báo cáo định kỳ/đột xuất, kiểm tra
 mau-van-ban/                       9 mẫu sẵn dùng (điền chỗ trống là ban hành được)
 vi-du-thuc-te/                     Văn bản Sở đã ban hành 4 vụ việc thật + bản phản biện hồ sơ
+  dong-tien-kho-tam-KTCTNT-2026/   Case CHUẨN kho tạm theo khung mới (KH 4826, BB 11/8, TB 5088/TB-SCT)
+                                   + README-BAI-HOC: 8 điểm làm đúng, 6 điểm rút kinh nghiệm
 van-ban-goc/                       TT 32/2019 (QCVN 01:2019/BCT), Luật 42/2024, NĐ 181/2024,
                                    TT 23/2024, TT 38/2025, NĐ 146/2025, NĐ 71/2019, NĐ 17/2022, NĐ 149/2024
 ```

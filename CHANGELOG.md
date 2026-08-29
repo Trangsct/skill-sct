@@ -1,5 +1,12 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-29 — qlks-sct-vn v1.9.0: nghiệp vụ 12 — xác minh kiến nghị lấn chiếm ranh giới mỏ giáp ranh (mẫu chuẩn vụ Đại Đồng Tiến, 8/2026)
+
+Bạn cung cấp trọn bộ 4 văn bản vụ việc điển hình do SNNMT chủ trì giải quyết rất tốt, SCT phối hợp: **CV 28/CV-ĐĐT 04/8/2026** (Cty TNHH Đại Đồng Tiến kiến nghị DNTN Thành Hương Nghĩa Lộ lấn chiếm, khai thác trái phép sang ranh giới mỏ đá xã Văn Chấn) → **CV 8129/UBND-KT 10/8/2026** (PCT Nguyễn Thành Sinh giao SNNMT chủ trì, phối hợp SXD, SCT, UBND xã; hạn 30/8) → **Biên bản kiểm tra thực địa 21/8/2026** (ký đủ 3 sở + xã + 2 doanh nghiệp) → **BC 904/BC-SNNMT 28/8/2026** (PGĐ Phạm Năng Chung ký, trước hạn 2 ngày). Kết quả đo GPS VN2000 tại 2 vị trí bên kiến nghị chỉ: đều nằm TRONG ranh GP 2596/GP-UBND của bên bị kiến nghị (cách ranh 11m/14m; cao độ +384/+386m > mức sâu cho phép +380m) — **chưa lấn chiếm**, hai bên ký thống nhất; báo cáo vẫn kiến nghị phòng ngừa vì ranh 2 mỏ chỉ cách 01-03m (có nơi <01m) và có nổ mìn.
+
+- **`references/22` (MỚI)**: dòng thời gian 18 ngày; 7 kỹ thuật xác minh (mời cả 2 DN cùng thực địa và ký; GPS đúng hệ tọa độ giấy phép, đo cả cao độ chân tầng; đối chiếu 3 lớp ranh GP - mức sâu - hồ sơ thuê đất; tách vụ cũ 270m²/2022 khỏi kiến nghị mới; kết luận trên số liệu; câu giới hạn phạm vi; ý kiến từng cơ quan một mục); câu mẫu ý kiến SCT (mục 4.3 biên bản thật); khuôn báo cáo 3 phần + 6 nhóm kiến nghị phòng ngừa với DN; quy trình chuẩn B1-B7; 7 bài học.
+- `references/08` con trỏ tình huống; 4 PDF gốc vào `van-ban-goc/` (CV 28 scan; CV 8129 + BC 904 ký số — GATE render ảnh); SKILL.md 12 nghiệp vụ + B4 + cây thư mục + description; plugin.json → **1.9.0**; marketplace.json 4.6.9.
+
 ## 2026-08-28 — bvmt-sct-vn v1.3.0: BC 892/BC-SNNMT 28/8/2026 — kinh phí sự nghiệp môi trường 2025–2026, kế hoạch 2027–2029 + số liệu nền BVMT tỉnh
 
 Bạn cung cấp bản PDF ký số **BC 892/BC-SNNMT ngày 28/8/2026** của Sở NN&MT tỉnh Lào Cai (PGĐ Nguyễn Thị Vi Huế ký; gửi Bộ NN&MT theo CV 3318/BTNMT-KHTC 07/4/2026) — báo cáo kinh phí sự nghiệp môi trường 2025–2026 và kế hoạch - dự toán 2027, 2027–2029. Số/ngày nằm ở trường ký số — đã GATE bằng render ảnh (text layer để trống). File không kèm Phụ lục biểu dự toán.

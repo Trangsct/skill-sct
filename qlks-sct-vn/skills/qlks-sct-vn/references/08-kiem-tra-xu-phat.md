@@ -6,6 +6,7 @@
 - Phạm vi kiểm tra của SCT tại mỏ/cơ sở chế biến: VLNCN, an toàn kỹ thuật khai thác, tuân thủ thiết kế mỏ (nhóm I), KH quản lý rủi ro, GĐĐH mỏ - GCN huấn luyện, chế biến - nguồn gốc. KHÔNG kiểm tra thay: ranh giới - trữ lượng - tiền cấp quyền (SNNMT), thuế (Thuế tỉnh), đất đai.
 - Hình thức phối hợp phổ biến: tham gia đoàn liên ngành do SNNMT/Thanh tra tỉnh chủ trì — khi đó ý kiến SCT giới hạn trong chức năng, ghi rõ trong biên bản.
 - **Thanh tra doanh nghiệp ngành Công Thương nay do Thanh tra tỉnh thực hiện** (Phòng Thanh tra, giải quyết KN, TC lĩnh vực Công Thương và KHCN) — SCT chỉ kiểm tra chuyên ngành. Mẫu thật biên bản làm việc chốt kết quả thanh tra khoáng sản (BB 13A/BB-ĐTT72 — vụ Mông Sơn) + 10 kinh nghiệm lập biên bản + checklist "đón thanh tra tỉnh" cho doanh nghiệp mỏ: reference `20`.
+- **Doanh nghiệp kiến nghị bị mỏ giáp ranh lấn chiếm, khai thác vượt ranh giới** → quy trình xác minh liên ngành theo chỉ đạo UBND tỉnh (SNNMT chủ trì, SCT phối hợp; đo GPS hệ VN2000, đối chiếu 3 lớp ranh GP - mức sâu - hồ sơ thuê đất, mời cả hai doanh nghiệp ký biên bản): reference `22` — mẫu chuẩn vụ Đại Đồng Tiến 8/2026.
 
 ## II. XỬ PHẠT VPHC LĨNH VỰC KHOÁNG SẢN
 

@@ -1,5 +1,8 @@
 # CHANGELOG — plugin kho-vlncn-sct-vn
 
+## [1.8.1] - 29/8/2026
+- Đính chính anti-error 10 + README case Đồng Tiến theo NĐ 212/2026/NĐ-CP: KHÔNG còn yêu cầu "chứng chỉ năng lực tổ chức" như điều kiện hiện hành; minh chứng năng lực soi theo hai mốc 01/7/2026, trỏ xd-sct-vn ref 11 mục 5.
+
 ## [1.8.0] - 29/8/2026
 Liên kết plugin `xd-sct-vn` + case chuẩn kho tạm Đồng Tiến. Nguồn: bộ hồ sơ KTCTNT kho VLNCN tạm Đồng Tiến (gói thầu SFD-XL03 Khánh Hòa - Văn Yên) Bạn cung cấp 29/8/2026.
 - **SKILL.md Nhóm 2 (Xây dựng) viết lại theo 2 khung**: khung HIỆN HÀNH từ 01/7/2026 (Luật 135/2025 Đ43-Đ72-Đ57, NĐ 207/2026 Đ25-27, NĐ 217/2026, TT 34 + 39/2026, QĐ 11/2026) và khung CŨ chỉ dùng theo chuyển tiếp (Luật 50/2014, NĐ 06/2021, TT 06/2021 + TT 02/2025); GATE 3 mốc trỏ sang **plugin `xd-sct-vn` reference `11-chuyen-tiep-2026.md`**; toàn văn 2 khung nằm ở `xd-sct-vn/van-ban-goc/` — không nhân đôi kho văn bản.

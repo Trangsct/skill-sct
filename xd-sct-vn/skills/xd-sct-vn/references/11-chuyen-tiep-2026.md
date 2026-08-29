@@ -41,3 +41,16 @@ Ba mốc có thể rơi vào ba khung khác nhau trong cùng một dự án — 
 
 - Áp khung cũ: "Hồ sơ được tiếp nhận ngày …/…/2026 (trước ngày Nghị định số 217/2026/NĐ-CP có hiệu lực thi hành); căn cứ khoản 2 Điều 76 Nghị định số 217/2026/NĐ-CP, Sở Công Thương tiếp tục thẩm định theo quy định của Nghị định số 175/2024/NĐ-CP."
 - Áp khung mới (chỉ khi chứng minh được): "Hồ sơ tiếp nhận ngày …/…/2026; đến ngày 01/7/2026 hồ sơ chưa đủ điều kiện thẩm định do … (nêu văn bản yêu cầu bổ sung số … ngày …); căn cứ khoản 2 Điều 76 Nghị định số 217/2026/NĐ-CP, việc thẩm định thực hiện theo quy định của Nghị định số 217/2026/NĐ-CP."
+
+
+## 5. Chuyển tiếp về ĐIỀU KIỆN NĂNG LỰC (bổ sung 29/8/2026, xác minh web)
+
+Từ 01/7/2026, NĐ 212/2026/NĐ-CP bãi bỏ chứng chỉ năng lực TỔ CHỨC (tự công khai csdlhdxd.gov.vn, Điều 41); NQ 66.18/2026/NQ-CP (01/7/2026-28/02/2027) miễn CCHN chủ trì định giá, miễn điều kiện chủ trì kiểm định. Bảng quyết định khi soi năng lực trong hồ sơ vắt mốc:
+
+| Hoạt động (thi công/giám sát/thiết kế) diễn ra | Chuẩn năng lực áp dụng |
+|---|---|
+| Trước 01/7/2026 | NĐ 175/2024: tổ chức cần chứng chỉ năng lực hạng phù hợp; CCHN cá nhân theo danh mục cũ. Khi xem xét XỬ PHẠT sau 01/7/2026 cho hành vi giai đoạn này: áp dụng nguyên tắc quy định CÓ LỢI (điều kiện đã bãi bỏ → thực tiễn khó xử phạt "không có chứng chỉ năng lực tổ chức") |
+| Từ 01/7/2026 | KHÔNG yêu cầu chứng chỉ năng lực tổ chức; kiểm tra tự công khai csdlhdxd.gov.vn; CCHN cá nhân chỉ 4 lĩnh vực (khảo sát, quy hoạch, thiết kế, giám sát); chỉ huy trưởng xét kinh nghiệm |
+| Mọi thời điểm | KHÔNG yêu cầu nộp giấy tờ đã có trên CSDL quốc gia (k4 Đ22 NĐ 212/2026); ưu tiên tra cứu hệ thống |
+
+Câu mẫu cho văn bản yêu cầu doanh nghiệp (tiền lệ Đồng Tiến): "cung cấp bản đúng của tài liệu năng lực..., kèm minh chứng năng lực tại thời điểm thi công, giám sát (chứng chỉ năng lực tổ chức đã được cấp theo Nghị định số 175/2024/NĐ-CP, nếu có); thực hiện công khai thông tin năng lực trên Hệ thống csdlhdxd.gov.vn theo Điều 41 Nghị định số 212/2026/NĐ-CP".

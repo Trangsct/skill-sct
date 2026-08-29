@@ -53,6 +53,17 @@ Toàn bộ số/ngày dưới đây đã trích xuất từ chính văn bản g�
 9. **NĐ 06/2021, NĐ 35/2023, NĐ 175/2024** — **đã bị thay bởi NĐ 207/2026 và NĐ 217/2026 từ 01/7/2026**, nhưng vẫn áp dụng cho hồ sơ đã tiếp nhận / công trình khởi công trước 01/7/2026 theo điều khoản chuyển tiếp (Đ53 NĐ 207/2026, Đ95 Luật 135/2025). NĐ 175/2024 vẫn được QĐ 11/2026 viện dẫn cho nhiều thủ tục cấp tỉnh — kiểm tra kỹ điều khoản chuyển tiếp trước khi dẫn.
 10. **NĐ 243/2025/NĐ-CP** (PPP), **NĐ 178/2025/NĐ-CP** (quy hoạch đô thị và nông thôn), **QĐ 409/QĐ-BXD 11/4/2025** (suất vốn đầu tư 2024) — tham chiếu chuyên đề khi gặp dự án PPP, quy hoạch, hoặc cần suất vốn.
 
+
+### ⭐ CẮT GIẢM ĐIỀU KIỆN NĂNG LỰC TỪ 01/7/2026 (xác minh web 29/8/2026 — GATE trước khi yêu cầu doanh nghiệp nộp giấy tờ năng lực)
+- **NĐ 212/2026/NĐ-CP ngày 17/6/2026** (hiệu lực 01/7/2026, thay NĐ 111/2024) — điều kiện năng lực HĐXD + Hệ thống thông tin, CSDL quốc gia về HĐXD (csdlhdxd.gov.vn):
+  - **BÃI BỎ chứng chỉ năng lực của TỔ CHỨC** → tổ chức TỰ CÔNG KHAI thông tin năng lực trên csdlhdxd.gov.vn, người đại diện pháp luật chịu trách nhiệm toàn diện (Điều 41).
+  - CCHN cá nhân chỉ còn **4 lĩnh vực**: khảo sát; lập quy hoạch đô thị - nông thôn; thiết kế; **giám sát thi công** (Điều 28). KHÔNG cấp CCHN Quản lý dự án, Định giá xây dựng (Điều 55).
+  - **Chỉ huy trưởng, giám đốc QLDA: xét theo trình độ + kinh nghiệm (Điều 38), KHÔNG cần chứng chỉ.**
+  - CCHN đã cấp theo Luật 2014: dùng đến hết hạn (khoản 5 Điều 55).
+  - ⚠️ **Khoản 4 Điều 22: cơ quan QLNN KHÔNG được yêu cầu tổ chức, cá nhân cung cấp giấy tờ, thông tin đã có trên CSDL quốc gia về HĐXD.** Mã định danh dự án/công trình/năng lực: Điều 8, 14, 19.
+- **NQ 66.18/2026/NQ-CP ngày 18/5/2026** (hiệu lực 01/7/2026 đến hết 28/02/2027) — phân quyền, cắt giảm ĐKKD 11 ngành (có Xây dựng - PL I.8, Công Thương - PL I.2, Công an, Quốc phòng): không thực hiện điều kiện CCHN với chủ trì xác định - thẩm tra - quản lý chi phí (k1 Đ88 Luật 135); không thực hiện điều kiện năng lực với chủ trì kiểm định (k2 Đ88 + Đ87 NĐ 175/2024); cá nhân đủ điều kiện QLDA thì đủ điều kiện chỉ huy trưởng.
+- **HỆ QUẢ NGHIỆP VỤ**: (1) không soạn văn bản yêu cầu DN nộp "chứng chỉ năng lực tổ chức" như điều kiện hiện hành — chỉ được yêu cầu minh chứng năng lực TẠI THỜI ĐIỂM thực hiện hoạt động nếu hoạt động đó diễn ra TRƯỚC 01/7/2026 (khung NĐ 175/2024), kèm nguyên tắc áp dụng quy định có lợi khi xem xét xử phạt; (2) hoạt động từ 01/7/2026: kiểm tra việc tự công khai trên csdlhdxd.gov.vn + CCHN cá nhân 4 lĩnh vực; (3) tra cứu trên hệ thống thay vì đòi nộp lại giấy tờ. Tiền lệ áp dụng: báo cáo vụ Đồng Tiến 29/8/2026.
+
 ## III. NGUYÊN TẮC CỐT LÕI — "SỞ CÔNG THƯƠNG LÀ CQCM VỀ XÂY DỰNG ĐỐI VỚI CÔNG TRÌNH CÔNG NGHIỆP"
 
 Đây là trục xác định mọi việc. Ba câu hỏi theo thứ tự:

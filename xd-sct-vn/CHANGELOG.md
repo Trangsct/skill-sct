@@ -1,5 +1,8 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.3.0] - 29/8/2026
+- Bổ sung khối CẮT GIẢM ĐIỀU KIỆN NĂNG LỰC 01/7/2026 (xác minh web): NĐ 212/2026/NĐ-CP (bãi bỏ chứng chỉ năng lực tổ chức, tự công khai csdlhdxd.gov.vn Đ41; CCHN còn 4 lĩnh vực Đ28; chỉ huy trưởng xét kinh nghiệm Đ38; cấm đòi giấy tờ đã có trên CSDL k4 Đ22; chuyển tiếp Đ55) + NQ 66.18/2026/NQ-CP (01/7/2026-28/02/2027). Ref 11 thêm mục 5: bảng chuyển tiếp năng lực theo mốc hoạt động + nguyên tắc có lợi khi xử phạt + câu mẫu yêu cầu DN (tiền lệ Đồng Tiến).
+
 ## [1.2.1] - 29/8/2026
 - Reference `11-chuyen-tiep-2026.md`: bổ sung bài học số 3 — vụ kho VLNCN tạm Đồng Tiến, case CHUẨN "hai mốc, hai khung" trong một hồ sơ (miễn GPXD theo Đ89 Luật 2014 tại thời điểm khởi công; KTCTNT theo NĐ 207/2026 tại thời điểm thủ tục); liên kết chéo plugin `kho-vlncn-sct-vn` v1.8.0.
 

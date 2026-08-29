@@ -112,7 +112,7 @@ GĐ6 KHAI THÁC      → bàn giao; bảo hành (Đ64 Luật 135); bảo trì, �
 
 ## VII. ANTI-ERROR RIÊNG LĨNH VỰC NÀY
 
-1. **Luôn kiểm tra mốc 01/7/2026 và điều khoản chuyển tiếp.** Công trình khởi công / hồ sơ tiếp nhận trước 01/7/2026 áp dụng NĐ 06/2021 + 175/2024 (Đ53 NĐ 207/2026, Đ95 Luật 135/2025); từ 01/7/2026 áp NĐ 207/2026 + 217/2026. GHI RÕ căn cứ theo đúng mốc, không trộn.
+1. **Luôn kiểm tra mốc 01/7/2026 và điều khoản chuyển tiếp — ĐỌC reference `11-chuyen-tiep-2026.md` TRƯỚC KHI CHỌN CĂN CỨ.** Công trình khởi công / hồ sơ tiếp nhận trước 01/7/2026 áp dụng NĐ 06/2021 + 175/2024 (Đ53 NĐ 207/2026; khoản 2 Đ76 NĐ 217/2026; Đ95 Luật 135/2025); từ 01/7/2026 áp NĐ 207/2026 + 217/2026. Ba mốc độc lập của một dự án (tiếp nhận hồ sơ / quyết định đầu tư / khởi công) có thể rơi vào các khung khác nhau — lập luận chuyển tiếp phải THÀNH VĂN trong phiếu trình và văn bản ban hành, không trộn căn cứ. Bản gốc khung cũ (NĐ 06/2021, NĐ 175/2024, TT 06/2021 + TT 02/2025) đã có trong `van-ban-goc/`. *(Bài học vụ Âu Lâu 8/2026: thẩm định BCNCKT theo khung mới cho hồ sơ tiếp nhận 18/3/2026 mà không lập luận khoản 2 Đ76.)*
 2. **Không nhầm "phân định thẩm quyền 2 cấp" (NĐ 140/2025) đã bị bãi bỏ một phần:** Điều 8 NĐ 140/2025 và Điều 13 NĐ 144/2025 **đã bị NĐ 207/2026 bãi bỏ** — phần QLCL nay theo NĐ 207/2026. Kiểm tra trước khi viện dẫn.
 3. **Công trình điện KHÔNG thuộc QLCN** — chuyển Phòng QLNL. Chỉ giữ ở QLCN: công nghiệp chế biến chế tạo, khoáng sản, hóa chất, VLNCN, CCN.
 4. **Cấp huyện không còn** (sau 01/7/2025): mọi thẩm quyền cấp huyện cũ đã chuyển UBND cấp xã. Không viết "UBND huyện", "Phòng Kinh tế - Hạ tầng huyện". Địa danh: **xã + tỉnh Lào Cai**.
@@ -120,6 +120,10 @@ GĐ6 KHAI THÁC      → bàn giao; bảo hành (Đ64 Luật 135); bảo trì, �
 6. **KTCTNT là điều kiện đưa vào sử dụng:** công trình thuộc diện KTCTNT chỉ được khai thác sau khi có văn bản chấp thuận kết quả nghiệm thu (Đ57 Luật 135; Đ25 NĐ 207). Biên bản nghiệm thu của chủ đầu tư không thay thế.
 7. **Phân biệt "thẩm định thiết kế" và "kiểm tra nghiệm thu":** hai nghiệp vụ khác nhau, ở hai giai đoạn khác nhau; công trình có thể miễn thẩm định nhưng vẫn thuộc diện KTCTNT và ngược lại. Không gộp.
 8. **GATE mọi PDF đến; không tự điền số/ngày văn bản chưa ban hành;** render kiểm tra trước khi giao (qua `vbhc-vn`).
+9. **Không dẫn nhầm cặp nghị định "sinh đôi" 207 ↔ 217:** NĐ 207/2026 = chất lượng - thi công - bảo trì - nghiệm thu; NĐ 217/2026 = dự án - thiết kế - thẩm định - GPXD. Cùng số điều nhưng nội dung khác hẳn (vd Đ26 NĐ 207 = thẩm quyền KTCTNT, Đ26 NĐ 217 = quy hoạch làm căn cứ lập BCNCKT). Trước trình ký: rà mọi cụm "Điều … Nghị định 2x7/2026" và đối chiếu TÊN ĐIỀU trong văn bản gốc. *(Lỗi thật vụ Âu Lâu.)*
+10. **Thẩm tra thiết kế là nghĩa vụ hay bị bỏ sót:** công trình ảnh hưởng lớn AT-LICĐ (Phụ lục IV NĐ 217) bắt buộc THẨM TRA thiết kế làm cơ sở cho CĐT thẩm định (điểm a khoản 5 Đ26 + khoản 3 Đ29 Luật 135; khoản 4 Đ41 NĐ 217), kèm thẩm tra nội dung PCCC nếu thuộc diện thẩm định PCCC (điểm b khoản 5 Đ26). Công văn hướng dẫn DN về thiết kế sau TKCS phải nhắc CẢ thẩm tra, không chỉ "thẩm định, phê duyệt". *(Bài học vụ phân lân nung chảy 8/2026.)*
+11. **Thời hạn thẩm định là thời hạn cứng (Đ37 NĐ 217):** nhóm C cấp II = 12 ngày làm việc từ khi hồ sơ hợp lệ; cần thêm → văn bản gia hạn NGAY, nêu lý do, chỉ 01 lần; ý kiến nội bộ liên phòng xin từ đầu, không dồn sát ngày ban hành. Sau 25/02/2026, đánh giá phù hợp quy hoạch tại Lào Cai đối chiếu **QĐ 525/QĐ-UBND** (điều chỉnh quy hoạch tỉnh hợp nhất), quy hoạch tỉnh Yên Bái cũ chỉ nêu ở phần quá trình pháp lý. *(Vụ Âu Lâu: 5 tháng không gia hạn; đánh giá theo quy hoạch cũ.)*
+12. **Chỉ khẳng định điều có tài liệu đối chiếu; nội dung đánh giá theo đặc thù công trình:** không xác nhận "phù hợp" cho hạng mục không tồn tại (vd thang máy chữa cháy, gian lánh nạn ở TBA ngoài trời); không kết luận về năng lực/CCHN khi thành phần hồ sơ không có; văn bản trùng số/ngày/trích yếu trong danh mục → kiểm bản gốc, loại một; mọi con số xuất hiện ≥2 lần và mọi phép tính in trong văn bản (kể cả phí thẩm định nội suy TT 28/2023) phải tự khớp khi đối chiếu chéo thông báo ↔ phiếu trình ↔ hồ sơ. Chi tiết 8 nhóm lỗi: `vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/README-BAI-HOC.md`.
 
 ## VIII. CẤU TRÚC PLUGIN
 
@@ -135,10 +139,16 @@ references/
   08-cong-trinh-cong-thuong.md   CHUYÊN SÂU: từng loại công trình ngành CT, ai thẩm định, cấp mấy
   09-hoi-dap-doanh-nghiep.md     FAQ trả lời DN + tham chiếu văn bản
   10-cap-cong-trinh.md           Cấp công trình theo TT 34/2026; bảng tra chuyên sâu công trình ngành CT
+  11-chuyen-tiep-2026.md         GATE CHUYỂN TIẾP quanh mốc 01/7/2026: bảng quyết định khung áp dụng
+                                 (Đ53 NĐ 207, Đ76 NĐ 217), 3 mốc thời gian, câu mẫu lập luận
 mau-van-ban/                     Mẫu KH kiểm tra, TB nghiệm thu, CV thẩm định, phiếu trình
 van-ban-goc/                     Luật 135/2025, NĐ 207/2026, NĐ 217/2026, NĐ 140/2025, NĐ 144/2025,
-                                 QĐ 11/2026 (Lào Cai), + nhóm chuyển tiếp/tham chiếu
-vi-du-thuc-te/                   (bổ sung dần từ hồ sơ thực tế của Bạn)
+                                 QĐ 11/2026 (Lào Cai); nhóm CHUYỂN TIẾP: NĐ 06/2021, NĐ 175/2024,
+                                 TT 06/2021 + TT 02/2025; TT 36/2026 (chi phí), TT 39/2026 (CSDL)
+vi-du-thuc-te/
+  au-lau-110kv-tham-dinh-BCNCKT/ Case study thẩm định BCNCKT ĐZ+TBA 110kV Âu Lâu (Phòng QLNL, 8/2026):
+                                 14 file hồ sơ + README-BAI-HOC.md (8 nhóm lỗi cần tránh + điểm làm đúng).
+                                 CHỈ THAM KHẢO QUY TRÌNH — không clone văn bản làm mẫu.
 ```
 
 ## IX. QUY TẮC LÀM VIỆC

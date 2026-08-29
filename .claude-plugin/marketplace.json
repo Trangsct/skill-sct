@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.7.0"
+    "version": "4.8.0"
   },
   "plugins": [
     {
@@ -113,7 +113,7 @@
     {
       "name": "xd-sct-vn",
       "source": "./xd-sct-vn",
-      "description": "QLNN ve XAY DUNG (cap bo + tinh + xa) - So Cong Thuong tinh Lao Cai, chuyen sau cong trinh nganh Cong Thuong. Khung phap ly hieu luc 01/7/2026: Luat Xay dung 135/2025/QH15, ND 207/2026 (thay ND 06/2021), ND 217/2026 (thay ND 175/2024), ND 140/2025 + 144/2025, QD 11/2026/QD-UBND Lao Cai. Xac dinh SCT la co quan chuyen mon ve xay dung voi cong trinh cong nghiep; tham dinh BCNCKT/thiet ke; kiem tra cong tac nghiem thu (KTCTNT); GPXD; su co; cong trinh tam; phan dinh tham quyen 3 cap.",
+      "description": "QLNN ve XAY DUNG (cap bo + tinh + xa) - So Cong Thuong tinh Lao Cai, chuyen sau cong trinh nganh Cong Thuong. Khung phap ly hieu luc 01/7/2026: Luat Xay dung 135/2025/QH15, ND 207/2026 (thay ND 06/2021), ND 217/2026 (thay ND 175/2024), ND 140/2025 + 144/2025, QD 11/2026/QD-UBND Lao Cai. Xac dinh SCT la co quan chuyen mon ve xay dung voi cong trinh cong nghiep; tham dinh BCNCKT/thiet ke; kiem tra cong tac nghiem thu (KTCTNT); GPXD; su co; cong trinh tam; phan dinh tham quyen 3 cap. Bo sung 29/8/2026: GATE CHUYEN TIEP quanh moc 01/7/2026 (Dieu 53 ND 207, Dieu 76 ND 217) voi ban goc khung cu ND 06/2021, ND 175/2024, TT 06/2021 + TT 02/2025; TT 36/2026 (chi phi DTXD), TT 39/2026 (CSDL quoc gia HDXD); case study tham dinh BCNCKT 110kV Au Lau kem 8 nhom loi can tranh.",
       "version": "1.1.2"
     },
     {

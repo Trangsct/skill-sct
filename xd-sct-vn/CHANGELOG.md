@@ -1,5 +1,14 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.2.0] - 29/8/2026
+Bổ sung nhóm chuyển tiếp + case study thực tế. Nguồn: bộ VBQPPL Bạn cung cấp 29/8/2026 và hồ sơ thẩm định BCNCKT 110kV Âu Lâu (Phòng QLNL).
+- **Thêm reference `11-chuyen-tiep-2026.md`** — GATE CHUYỂN TIẾP quanh mốc 01/7/2026: bảng quyết định khung áp dụng (khoản 1-4 Đ53 NĐ 207/2026; khoản 1, 2, 5 Đ76 NĐ 217/2026; khoản 1 Đ53 về cấp công trình theo thời điểm quyết định đầu tư); 3 mốc thời gian độc lập của một dự án; câu mẫu lập luận chuyển tiếp đưa vào văn bản.
+- **Thêm văn bản gốc khung CŨ** phục vụ hồ sơ chuyển tiếp: NĐ 06/2021 (QLCL), NĐ 175/2024 (QLHĐXD), TT 06/2021/TT-BXD + TT 02/2025/TT-BXD (phân cấp công trình). Đã loại bản .doc trùng của TT 06/2021.
+- **Thêm thông tư khung mới**: TT 36/2026/TT-BXD (chi phí ĐTXD), TT 39/2026/TT-BXD (CSDL quốc gia về hoạt động xây dựng).
+- **Thêm case study `vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/`**: 14 file hồ sơ thật + README-BAI-HOC.md — ghi nhận điểm làm đúng (thẩm quyền, phạm vi thẩm định a-b-c khoản 4 Đ27, lấy ý kiến đủ đối tượng) và 8 nhóm lỗi cần tránh: bỏ qua khoản 2 Đ76 NĐ 217 (lỗi nền tảng); quá thời hạn không gia hạn; dẫn nhầm cặp NĐ 207↔217; đánh giá theo quy hoạch tỉnh cũ thay vì QĐ 525/QĐ-UBND; nhận xét PCCC copy khung dân dụng; khẳng định vượt căn cứ hồ sơ; thành phần trùng-thiếu; số liệu mâu thuẫn nội bộ (kể cả phép tính phí tự mâu thuẫn).
+- **SKILL.md**: nâng cấp anti-error 1 (chuyển tiếp thành văn, trỏ ref 11); thêm anti-error 9-12 (cặp 207↔217; nghĩa vụ thẩm tra thiết kế công trình AT-LICĐ — bài học vụ phân lân nung chảy 8/2026; thời hạn cứng Đ37 + quy hoạch QĐ 525; chỉ khẳng định điều có tài liệu đối chiếu). Cập nhật cấu trúc plugin, mục lục văn bản gốc.
+- Không đưa vào: bản .doc trùng TT 06/2021; dự thảo QĐ phân cấp QLĐTXD 13/01/2025 (đã có bản ban hành QĐ 11/2026); NĐ 25/2026 + NĐ 26/2026 hóa chất (đã có trong plugin hc-sct-vn); TT 34/2026 và bản scan QĐ 11/2026 (trùng file đã có, xác nhận md5).
+
 ## [1.1.1] - 14/7/2026
 - Đồng bộ Thông báo phân công nội bộ Phòng QLCN 10/7/2026: kiểm duyệt nội bộ thẩm định/KTCTNT = **PTP Nguyễn Hồng Vân**; phối hợp kho VLNCN chuyển CN(Linh) → **CN(Khôi)**.
 

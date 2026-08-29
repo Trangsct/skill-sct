@@ -25,7 +25,15 @@ Tất cả số/ngày đã trích xuất từ chính văn bản. NĐ 217/2026 v�
 11. `ND-178-2025-quy-hoach-do-thi-nong-thon.docx` — NĐ 178/2025/NĐ-CP, quy hoạch đô thị và nông thôn.
 12. `ND-243-2025-PPP.docx` — NĐ 243/2025/NĐ-CP, đầu tư PPP.
 
+## Nhóm CHUYỂN TIẾP — hồ sơ/công trình trước 01/7/2026 (bổ sung 29/8/2026, xem reference `11-chuyen-tiep-2026.md`)
+13. `ND-06-2021-QLCL-thi-cong-bao-tri-CU.docx` — **NĐ 06/2021/NĐ-CP ngày 26/01/2021**, QLCL - thi công - bảo trì (khung CŨ). Áp cho công trình khởi công trước 01/7/2026 (khoản 3, 4 Đ53 NĐ 207/2026).
+14. `ND-175-2024-quan-ly-hoat-dong-xay-dung-CU.docx` — **NĐ 175/2024/NĐ-CP ngày 30/12/2024**, QLHĐXD (khung CŨ). Áp cho hồ sơ thẩm định tiếp nhận trước 01/7/2026 (khoản 2 Đ76 NĐ 217/2026).
+15. `TT-06-2021-TT-BXD-phan-cap-cong-trinh-CU.docx` + `TT-02-2025-TT-BXD-sua-doi-TT-06-2021.docx` — **TT 06/2021/TT-BXD** (sđ **TT 02/2025/TT-BXD**), phân cấp công trình (khung CŨ). Áp cho dự án quyết định đầu tư trước 01/7/2026 (khoản 1 Đ53 NĐ 207/2026) — KHÔNG áp TT 34/2026 cho các dự án này.
+
+## Thông tư hướng dẫn khung mới (bổ sung 29/8/2026)
+16. `TT-36-2026-TT-BXD-chi-phi-dau-tu-xay-dung.docx` — **TT 36/2026/TT-BXD**, phương pháp xác định và quản lý chi phí ĐTXD (hướng dẫn NĐ 206/2026).
+17. `TT-39-2026-TT-BXD-CSDL-quoc-gia-HDXD.docx` — **TT 39/2026/TT-BXD**, hệ thống thông tin, CSDL quốc gia về hoạt động xây dựng (liên quan thông báo khởi công, kế hoạch KTCTNT theo điểm b khoản 3 Đ27 NĐ 207/2026).
+
 ## CHƯA có trong bộ (bổ sung khi Bạn cung cấp)
-- NĐ 06/2021, NĐ 175/2024 toàn văn (phục vụ hồ sơ chuyển tiếp trước 01/7/2026).
-- NĐ 206/2026 (quản lý chi phí ĐTXD), NĐ 212/2026 (điều kiện năng lực hoạt động XD, dữ liệu quốc gia), NĐ 220/2026 (bảo hiểm bắt buộc trong hoạt động XD) — nếu cần chuyên sâu chi phí/năng lực/bảo hiểm.
+- NĐ 206/2026 toàn văn (quản lý chi phí ĐTXD — hiện mới có TT 36/2026 hướng dẫn), NĐ 212/2026 (điều kiện năng lực hoạt động XD, dữ liệu quốc gia), NĐ 220/2026 (bảo hiểm bắt buộc trong hoạt động XD) — nếu cần chuyên sâu chi phí/năng lực/bảo hiểm.
 - Phụ lục IX NĐ 207/2026 (danh mục công trình quy mô lớn, kỹ thuật phức tạp) và Phụ lục IV NĐ 217/2026 (công trình ảnh hưởng an toàn, lợi ích cộng đồng) — để xác định chính xác đối tượng thẩm định/KTCTNT. *(Lưu ý: 2 phụ lục này nằm trong bản NĐ 207 docx và NĐ 217 PDF/OCR đã có — tra trực tiếp khi cần.)*

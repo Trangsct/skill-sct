@@ -1,5 +1,10 @@
 # Nhật ký thay đổi bộ skill
 
+## 29/8/2026 — xd-sct-vn v1.2.0
+- GATE CHUYỂN TIẾP quanh mốc 01/7/2026 (reference 11: Đ53 NĐ 207/2026, Đ76 NĐ 217/2026) + bản gốc khung cũ NĐ 06/2021, NĐ 175/2024, TT 06/2021 + TT 02/2025; TT 36/2026 (chi phí ĐTXD), TT 39/2026 (CSDL HĐXD).
+- Case study thẩm định BCNCKT ĐZ+TBA 110kV Âu Lâu (14 file + README-BAI-HOC: 8 nhóm lỗi cần tránh, các điểm làm đúng cần kế thừa).
+- SKILL.md: anti-error 9-12 (cặp NĐ 207↔217; nghĩa vụ thẩm tra thiết kế công trình AT-LICĐ; thời hạn cứng Đ37; chỉ khẳng định điều có căn cứ hồ sơ).
+
 ## 2026-08-29 — hl-vlncn-sct-vn v1.4.0: CV 1198/ATMT-ATKV 21/7/2025 — hướng dẫn nghiệp vụ của Cục ATMT (GCN thuộc DN đề nghị cấp; NLĐ nhiều HĐLĐ; thông báo sử dụng VLNCN)
 
 Bạn cung cấp ảnh chụp bản giấy **CV 1198/ATMT-ATKV ngày 21/7/2025** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Cục trưởng Phạm Tuấn Anh ký) trả lời CV 1813/SCT-QLCN 16/7/2025 của SCT **Lai Châu** — GATE metadata đọc từ ảnh. Tuy gửi tỉnh khác nhưng là quan điểm nghiệp vụ chính thức cấp Bộ về NĐ 181/2024, giá trị tham chiếu trực tiếp cho Lào Cai. 3 nội dung: (1) k2 Đ8 NĐ 181 — DN tự huấn luyện các đối tượng (trừ người quản lý) rồi đề nghị kiểm tra, cấp GCN; **GCN thuộc quản lý của DN đề nghị cấp**; (2) Đ19 BLLĐ — NLĐ ký **nhiều HĐLĐ bán thời gian → từng DN phải tự huấn luyện + đề nghị cấp GCN riêng**, không dùng chung GCN (vận dụng khi thẩm định hồ sơ GP sử dụng VLNCN có nhân sự kiêm nhiệm); (3) Luật QLSD vũ khí, VLN, CCHT chỉ quy định **thông báo** với UBND tỉnh/xã — **không buộc UBND tỉnh kiểm tra điều kiện sử dụng** đối với nội dung thông báo (căn cứ trả lời đoàn giám sát/xã).

@@ -1,5 +1,10 @@
 # CHANGELOG — plugin kho-vlncn-sct-vn
 
+## [1.9.0] - 29/8/2026
+Case study thứ hai theo khung NĐ 207/2026: kho VLNCN phục vụ MỎ chì kẽm Háng Chua Xay (Cty CP Toàn Kim Sơn, TB 4566/TB-SCT ngày 30/7/2026) — cặp đối chiếu với kho tạm Đồng Tiến.
+- 6 điểm làm đúng (giám sát thuê ngoài độc lập; KH trước kiểm tra; địa danh chuyển đổi chuẩn; điều khoản mã định danh NĐ 212) và 9 vấn đề rút kinh nghiệm, nặng nhất: 03 kim thu sét đặt TRÊN MÁI kho trái khoản 1.3 PL11 QCVN 01:2019/BCT; không có hệ chống cảm ứng tĩnh điện ≤5Ω (khoản 2.4 PL11); quá thời hạn 12 ngày làm việc (điểm b khoản 4 Điều 27 NĐ 207/2026); biên bản kiểm tra bị sửa 13 ngày sau khi lập; phân loại kho cố định/lưu động chưa chốt (quyết định đầu mục nghiệm thu PCCC).
+- SKILL.md: anti-error 11a cho kho phục vụ mỏ; bảng so sánh kho tạm ↔ kho mỏ trong README case.
+
 ## [1.8.1] - 29/8/2026
 - Đính chính anti-error 10 + README case Đồng Tiến theo NĐ 212/2026/NĐ-CP: KHÔNG còn yêu cầu "chứng chỉ năng lực tổ chức" như điều kiện hiện hành; minh chứng năng lực soi theo hai mốc 01/7/2026, trỏ xd-sct-vn ref 11 mục 5.
 

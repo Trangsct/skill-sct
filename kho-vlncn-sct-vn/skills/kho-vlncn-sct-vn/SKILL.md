@@ -130,6 +130,7 @@ GĐ6 CẤP PHÉP      → hồ sơ GP sử dụng VLNCN (Điều 39 Luật 42/20
 8. **Đủ phiếu đo điện trở cho TỪNG hệ tiếp đất** (đúc kết vụ Đồng Tiến 8/2026): hệ thu sét (≤10Ω) VÀ hệ chống tĩnh điện (theo thiết kế, thường ≤4Ω) là hai phép đo riêng — thiếu một phiếu là chưa đủ căn cứ kết luận hạng mục đạt; không chấp nhận câu "báo cáo hoàn thành nêu yêu cầu" thay cho kết quả đo.
 9. **Kế hoạch kiểm tra phát hành TRƯỚC ngày kiểm tra** (tối thiểu 2-3 ngày làm việc) để CĐT chuẩn bị — không ban hành kế hoạch và kiểm tra cùng ngày.
 10. **CĐT tự thẩm định thiết kế + tự thi công + tự giám sát ("3 trong 1")**: soi kỹ nhất minh chứng năng lực THEO ĐÚNG KHUNG THỜI ĐIỂM: hoạt động trước 01/7/2026 → chứng chỉ năng lực tổ chức theo NĐ 175/2024 (nếu có) + CCHN cá nhân; từ 01/7/2026 → NĐ 212/2026 đã BÃI BỎ chứng chỉ năng lực tổ chức (tự công khai csdlhdxd.gov.vn, Đ41), CCHN cá nhân chỉ còn 4 lĩnh vực (giám sát vẫn cần, chỉ huy trưởng xét kinh nghiệm), KHÔNG yêu cầu nộp giấy tờ đã có trên CSDL (k4 Đ22) — chi tiết `xd-sct-vn` ref 11 mục 5; cùng với tính độc lập của bộ phận giám sát; kiểm tra file hồ sơ số bằng md5/dung lượng — vụ Đồng Tiến: file "chứng chỉ năng lực doanh nghiệp" nộp nhầm, trùng byte với hồ sơ năng lực của đơn vị tư vấn khác. Biểu thông số kèm TB phải có mục **khoảng cách an toàn theo Phụ lục 7 QCVN 01:2019/BCT** đối chiếu thực tế ↔ tối thiểu theo sức chứa.
+11a. **Kho phục vụ MỎ khác kho tạm thi công** (đúc kết vụ Toàn Kim Sơn - Háng Chua Xay 7/2026): KHÔNG phải công trình tạm → căn cứ miễn GPXD phải chỉ rõ điểm, khoản áp dụng; PHẢI chốt phân loại kho cố định/lưu động ngay từ đầu vì quyết định đầu mục nghiệm thu PCCC (điểm đ k1 Đ39 Luật 42/2024 sđ Luật 118/2025 chỉ áp kho CỐ ĐỊNH); kim thu sét KHÔNG được đặt trên mái kho (khoản 1.3 PL11 QCVN — hệ thu sét bố trí riêng biệt theo 2.2); kho vỏ thép bắt buộc hệ chống cảm ứng tĩnh điện ≤5Ω (khoản 2.4 PL11); thời hạn ra TB: 12 ngày làm việc với công trình cấp II kể từ nhận báo cáo hoàn thành (điểm b khoản 4 Điều 27 NĐ 207/2026); biên bản kiểm tra KHÔNG sửa sau khi ký — điều chỉnh bằng phụ lục/biên bản bổ sung có chữ ký các bên; biên bản nghiệm thu của CĐT không đồng nghĩa được đưa vào sử dụng trước khi có TB chấp thuận. Case: `vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/`.
 11. **Hồ sơ vắt qua mốc 01/7/2026**: chạy GATE chuyển tiếp tại **plugin `xd-sct-vn` reference `11-chuyen-tiep-2026.md`** trước khi viết căn cứ; nếu dùng hai khung cho hai mốc (miễn GPXD lúc khởi công theo luật cũ; thủ tục KTCTNT theo NĐ 207/2026) thì phải có 01 câu lập luận trong văn bản. Case chuẩn: `vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/`.
 
 ## VIII. CẤU TRÚC PLUGIN
@@ -150,6 +151,9 @@ mau-van-ban/                       9 mẫu sẵn dùng (điền chỗ trống l�
 vi-du-thuc-te/                     Văn bản Sở đã ban hành 4 vụ việc thật + bản phản biện hồ sơ
   dong-tien-kho-tam-KTCTNT-2026/   Case CHUẨN kho tạm theo khung mới (KH 4826, BB 11/8, TB 5088/TB-SCT)
                                    + README-BAI-HOC: 8 điểm làm đúng, 6 điểm rút kinh nghiệm
+  toan-kim-son-kho-mo-hang-chua-say-2026/  Case kho phục vụ MỎ chì kẽm (KH 4168, TB 4566/TB-SCT)
+                                   + README: 9 vấn đề (kim thu sét trên mái, phân loại kho - PCCC,
+                                   quá hạn Đ27, biên bản bị sửa sau ký) + bảng so sánh 2 case
 van-ban-goc/                       TT 32/2019 (QCVN 01:2019/BCT), Luật 42/2024, NĐ 181/2024,
                                    TT 23/2024, TT 38/2025, NĐ 146/2025, NĐ 71/2019, NĐ 17/2022, NĐ 149/2024
 ```

@@ -1,7 +1,7 @@
 {
   "name": "kho-vlncn-sct-vn",
   "description": "Kho vat lieu no cong nghiep (VLNCN), So Cong Thuong Lao Cai: huong dan doanh nghiep xay kho moi, kiem tra cong tac nghiem thu (KTCTNT), kiem dinh kho hien huu, gui kho, PANM, giay phep su dung VLNCN. Khung xay dung 2 thoi ky quanh moc 01/7/2026 (ND 06/2021 chuyen tiep; Luat 135/2025 + ND 207/2026) - GATE chuyen tiep lien ket plugin xd-sct-vn. Kem mau van ban, van ban goc, case chuan kho tam Dong Tien (TB 5088/TB-SCT) va anti-error: du phieu do tung he tiep dat, nang luc CDT '3 trong 1'.",
-  "version": "1.8.2",
+  "version": "1.9.0",
   "author": {
     "name": "Trangsct"
   }

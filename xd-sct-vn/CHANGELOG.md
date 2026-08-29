@@ -1,5 +1,12 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.4.0] - 29/8/2026
+- Nạp văn bản gốc Bạn cung cấp vào `van-ban-goc/` (đã GATE nội dung, đối chiếu khớp các trích dẫn trong SKILL + ref 11):
+  - `ND-212-2026-dieu-kien-nang-luc-HDXD-CSDL-quoc-gia.docx` — NĐ 212/2026/NĐ-CP ngày 17/6/2026, ký PTT Phạm Gia Túc; xác minh nguyên văn k4 Đ22, Đ28, Đ38, Đ41, Đ55.
+  - `NQ-66.18-2026-NQ-CP-phan-quyen-cat-giam-TTHC-DKKD.docx` — NQ 66.18/2026/NQ-CP ngày 18/5/2026 (bản đầy đủ 4720 đoạn kèm phụ lục); hiệu lực 01/7/2026-28/02/2027 trừ ngoại lệ k2, k4 Đ7.
+  - Loại: bản 66_18 định dạng .doc là bản TIẾNG ANH rút gọn (56 đoạn, không phụ lục) — không nạp.
+- Ghi chú mới từ toàn văn NQ 66.18: Phụ lục I.2 (Công Thương) phần VLNCN - tiền chất chỉ sửa thủ tục thẩm quyền Bộ (XNK), KHÔNG ảnh hưởng thủ tục cấp tỉnh — các plugin sd-vlncn, kho-vlncn không phải điều chỉnh quy trình.
+
 ## [1.3.0] - 29/8/2026
 - Bổ sung khối CẮT GIẢM ĐIỀU KIỆN NĂNG LỰC 01/7/2026 (xác minh web): NĐ 212/2026/NĐ-CP (bãi bỏ chứng chỉ năng lực tổ chức, tự công khai csdlhdxd.gov.vn Đ41; CCHN còn 4 lĩnh vực Đ28; chỉ huy trưởng xét kinh nghiệm Đ38; cấm đòi giấy tờ đã có trên CSDL k4 Đ22; chuyển tiếp Đ55) + NQ 66.18/2026/NQ-CP (01/7/2026-28/02/2027). Ref 11 thêm mục 5: bảng chuyển tiếp năng lực theo mốc hoạt động + nguyên tắc có lợi khi xử phạt + câu mẫu yêu cầu DN (tiền lệ Đồng Tiến).
 

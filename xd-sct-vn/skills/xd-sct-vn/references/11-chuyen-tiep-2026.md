@@ -43,7 +43,7 @@ Ba mốc có thể rơi vào ba khung khác nhau trong cùng một dự án — 
 - Áp khung mới (chỉ khi chứng minh được): "Hồ sơ tiếp nhận ngày …/…/2026; đến ngày 01/7/2026 hồ sơ chưa đủ điều kiện thẩm định do … (nêu văn bản yêu cầu bổ sung số … ngày …); căn cứ khoản 2 Điều 76 Nghị định số 217/2026/NĐ-CP, việc thẩm định thực hiện theo quy định của Nghị định số 217/2026/NĐ-CP."
 
 
-## 5. Chuyển tiếp về ĐIỀU KIỆN NĂNG LỰC (bổ sung 29/8/2026, xác minh web)
+## 5. Chuyển tiếp về ĐIỀU KIỆN NĂNG LỰC (bổ sung 29/8/2026; toàn văn 2 văn bản đã GATE trong `van-ban-goc/`)
 
 Từ 01/7/2026, NĐ 212/2026/NĐ-CP bãi bỏ chứng chỉ năng lực TỔ CHỨC (tự công khai csdlhdxd.gov.vn, Điều 41); NQ 66.18/2026/NQ-CP (01/7/2026-28/02/2027) miễn CCHN chủ trì định giá, miễn điều kiện chủ trì kiểm định. Bảng quyết định khi soi năng lực trong hồ sơ vắt mốc:
 

@@ -94,6 +94,16 @@ Bản ký: `sd-vlncn-sct-vn/van-ban-goc/2026.08.19-5085.SCT.VP-Trien-khai-nhiem-
 - **Mục 2:** **Phòng QLCN chủ trì**, phối hợp các đơn vị liên quan tham mưu Lãnh đạo Sở; nhóm nhiệm vụ huấn luyện được CV liệt kê là "**huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện kỹ thuật an toàn VLNCN quy định tại khoản 1 Điều 6, Điều 9 và điểm b, khoản 1 Điều 18 NĐ 181/2024/NĐ-CP**" — đúng cụm điều khoản gốc trong Phụ lục QĐ 1883 (căn cứ phân cấp hiện hành vẫn là k1 Đ24 NĐ 146/2025 — mục B trên).
 - **Ý nghĩa cho plugin này:** xác nhận nội bộ chính thức GCN huấn luyện tiếp tục theo QĐ 1883 (khớp mục C-bis); đầu mối chỉ đạo hai nhiệm vụ ủy quyền là PGĐ Thuân, Phòng QLCN chủ trì. **Không thay đổi tiền lệ người ký**: QĐ công nhận kết quả + GCN vẫn do **GĐ Hoàng Chí Hiền ký trực tiếp** (CV 5085 là phân công chỉ đạo, không phải giao ký thay); KH/TB/CV trả lời DN vẫn KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân. Khó khăn, vướng mắc → báo cáo GĐ Sở.
 
+## C-quater. CV 1198/ATMT-ATKV ngày 21/7/2025 — hướng dẫn nghiệp vụ của Cục ATMT (giá trị tham chiếu)
+
+Cục Kỹ thuật an toàn và Môi trường công nghiệp trả lời SCT **Lai Châu** (CV 1813/SCT-QLCN ngày 16/7/2025); **Cục trưởng Phạm Tuấn Anh** ký. Tuy gửi tỉnh khác nhưng là quan điểm nghiệp vụ chính thức của cơ quan chuyên môn cấp Bộ về NĐ 181/2024 — dùng làm căn cứ tham chiếu khi trả lời DN, đoàn giám sát. Trích lục + ảnh bản giấy: `van-ban-goc/2025.07.21-1198.ATMT.ATKV-...`.
+
+1. **GCN huấn luyện thuộc quản lý của DN đề nghị cấp** (k2 Đ8 NĐ 181/2024): DN tự biên soạn tài liệu, chọn người huấn luyện, huấn luyện các đối tượng (trừ người quản lý) rồi đề nghị cơ quan có thẩm quyền kiểm tra, cấp GCN; việc quản lý GCN thuộc về DN đã đề nghị.
+2. **NLĐ giao kết nhiều HĐLĐ** (Đ19 BLLĐ): mỗi DN ký HĐLĐ bán thời gian đều phải tự huấn luyện và đề nghị kiểm tra, cấp GCN cho người lao động đó theo Đ8 NĐ 181/2024 — **không "mượn" GCN do DN khác đề nghị cấp**. Vận dụng khi thẩm định hồ sơ GP sử dụng VLNCN có nhân sự kiêm nhiệm (liên kết `sd-vlncn-sct-vn`): GCN trong hồ sơ phải do chính DN xin phép đề nghị cấp; chưa có → hướng dẫn DN nộp hồ sơ kiểm tra, cấp GCN tại Sở trước.
+3. **Thông báo sử dụng VLNCN với UBND cấp tỉnh, cấp xã**: Luật QLSD vũ khí, VLN và CCHT chỉ quy định nghĩa vụ thông báo; **không quy định UBND cấp tỉnh phải tổ chức kiểm tra điều kiện sử dụng đối với nội dung thông báo** — tiếp nhận để quản lý địa bàn, việc kiểm tra thực hiện theo kế hoạch kiểm tra chấp hành pháp luật, không phải điều kiện tiền đề.
+
+⚠ Nguồn hiện là **ảnh chụp bản giấy** (GATE metadata từ ảnh, rõ nét). Khi cần viện dẫn trong văn bản chính thức của Sở, ưu tiên xin bản điện tử/sao y qua trục liên thông để đối chiếu lại.
+
 ## D. Văn bản liên quan khác
 - **Luật 42/2024/QH15 ngày 29/6/2024** — nền của toàn lĩnh vực VLNCN (điều kiện sử dụng Đ38, hồ sơ GP Đ39 → xem `sd-vlncn-sct-vn`).
 - **TT 23/2024/TT-BCT ngày 07/11/2024** + **TT 38/2025/TT-BCT ngày 19/6/2025** — quản lý, sử dụng VLNCN, TCTN thuộc BCT; phân cấp TTHC (căn cứ trong QĐ công nhận kết quả).

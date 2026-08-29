@@ -1,5 +1,10 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.4.0] - 29/8/2026 (CV 1198/ATMT-ATKV — hướng dẫn nghiệp vụ Cục ATMT)
+- Bạn cung cấp ảnh chụp **CV 1198/ATMT-ATKV ngày 21/7/2025** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Cục trưởng Phạm Tuấn Anh ký) trả lời SCT Lai Châu — GATE metadata từ ảnh. 3 nội dung: (1) GCN huấn luyện **thuộc quản lý của DN đề nghị cấp** (k2 Đ8 NĐ 181/2024); (2) NLĐ ký **nhiều HĐLĐ bán thời gian → từng DN phải tự huấn luyện + đề nghị cấp GCN riêng** (Đ19 BLLĐ), không dùng chung GCN giữa các DN; (3) thông báo sử dụng VLNCN với UBND tỉnh/xã — luật **không buộc UBND tỉnh kiểm tra điều kiện** đối với nội dung thông báo.
+- Lưu `van-ban-goc/` (trích lục .md + ảnh .jpg), cập nhật INDEX; thêm ref `01` mục **C-quater**; FAQ 11 (ref `04`); khung pháp lý mục 11 + **anti-error 13** (phân biệt "giá trị toàn quốc" k5 Đ9 với việc dùng chung GCN giữa các DN) tại SKILL.md; bổ sung từ khóa description; plugin.json → 1.4.0.
+- Ghi chú: nguồn hiện là ảnh bản giấy — khi viện dẫn trong văn bản chính thức, xin bản điện tử/sao y đối chiếu lại.
+
 ## [1.3.2] - 21/8/2026 (CV 5085/SCT-VP — triển khai nội bộ hai QĐ ủy quyền)
 - Bạn cung cấp bản ký **CV 5085/SCT-VP ngày 19/8/2026** (GĐ Hoàng Chí Hiền ký; lưu tại `sd-vlncn-sct-vn/van-ban-goc/`): triển khai nội bộ QĐ 1883 + QĐ 2867 — **PGĐ Hoàng Văn Thuân trực tiếp chỉ đạo**, **Phòng QLCN chủ trì** tham mưu Lãnh đạo Sở; nhóm huấn luyện viện dẫn đúng cụm "k1 Đ6, Đ9, điểm b k1 Đ18 NĐ 181/2024" của Phụ lục QĐ 1883 → xác nhận nội bộ chính thức GCN huấn luyện tiếp tục theo QĐ 1883; **không đổi tiền lệ người ký** (QĐ công nhận + GCN vẫn GĐ ký trực tiếp — CV là phân công chỉ đạo, không phải giao ký thay).
 - Thêm ref `01` mục **C-ter**; cập nhật INDEX văn bản gốc + SKILL.md (mục nhiệm vụ báo cáo/ủy quyền); plugin.json → 1.3.2.

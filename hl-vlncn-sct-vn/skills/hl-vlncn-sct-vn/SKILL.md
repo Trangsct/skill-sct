@@ -1,6 +1,6 @@
 ---
 name: hl-vlncn-sct-vn
-description: "GIẤY CHỨNG NHẬN HUẤN LUYỆN kỹ thuật an toàn (GCN KTAT) VLNCN và tiền chất thuốc nổ (TCTN), Sở Công Thương Lào Cai. Kích hoạt: huấn luyện, kiểm tra sát hạch, cấp GCN KTAT; người quản lý VLNCN, chỉ huy nổ mìn, thợ nổ mìn, thủ kho; NĐ 181/2024 Điều 4-9; TTHC 2.000229, 2.000210. 5 nghiệp vụ: (1) thẩm định hồ sơ doanh nghiệp (Mẫu 01, 02 NĐ 181/2024), phân biệt 2 chế độ: người quản lý (Sở huấn luyện + kiểm tra) và đối tượng khác (DN tự huấn luyện, Sở kiểm tra); (2) soạn chuỗi văn bản: Kế hoạch KH-SCT, Thông báo tổ chức, QĐ thành lập Tổ kiểm tra, Báo cáo kết quả, QĐ công nhận kết quả + cấp GCN (GĐ Sở ký theo ủy quyền QĐ 1883/QĐ-UBND); (3) hướng dẫn điều kiện trình độ Đ4, hồ sơ, cấp lại; phân định khối Bộ Quốc phòng (Cục Quản lý Công nghệ cấp GCN theo TT 09/2026/TT-BQP); (4) kiểm tra, xử phạt; (5) báo cáo UBND tỉnh. Từ khóa thêm: NĐ 146/2025 Điều 24, Luật 118/2025, VBHN 78/VBHN-VPQH, 6/10 điểm, GCN 2 năm."
+description: "GIẤY CHỨNG NHẬN HUẤN LUYỆN kỹ thuật an toàn (GCN KTAT) VLNCN và tiền chất thuốc nổ (TCTN), Sở Công Thương Lào Cai. Kích hoạt: huấn luyện, kiểm tra sát hạch, cấp GCN KTAT; người quản lý VLNCN, chỉ huy nổ mìn, thợ nổ mìn, thủ kho; NĐ 181/2024 Điều 4-9; TTHC 2.000229, 2.000210. 5 nghiệp vụ: (1) thẩm định hồ sơ doanh nghiệp (Mẫu 01, 02 NĐ 181/2024), phân biệt 2 chế độ: người quản lý (Sở huấn luyện + kiểm tra) và đối tượng khác (DN tự huấn luyện, Sở kiểm tra); (2) soạn chuỗi văn bản: Kế hoạch KH-SCT, Thông báo tổ chức, QĐ thành lập Tổ kiểm tra, Báo cáo kết quả, QĐ công nhận kết quả + cấp GCN (GĐ Sở ký theo ủy quyền QĐ 1883/QĐ-UBND); (3) hướng dẫn điều kiện trình độ Đ4, hồ sơ, cấp lại; phân định khối Bộ Quốc phòng (Cục Quản lý Công nghệ cấp GCN theo TT 09/2026/TT-BQP); (4) kiểm tra, xử phạt; (5) báo cáo UBND tỉnh. Từ khóa thêm: NĐ 146/2025 Điều 24, Luật 118/2025, VBHN 78/VBHN-VPQH, 6/10 điểm, GCN 2 năm; CV 1198/ATMT-ATKV: NLĐ nhiều HĐLĐ bán thời gian, GCN thuộc DN đề nghị cấp, thông báo sử dụng VLNCN."
 ---
 
 # hl-vlncn-sct-vn — Huấn luyện, kiểm tra, cấp GCN KTAT VLNCN & TCTN (Sở Công Thương Lào Cai)
@@ -47,6 +47,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Đã xác minh từ văn bản
 8. **Văn bản nội bộ Sở:** QĐ số **2797/QĐ-SCT ngày 28/11/2025** thành lập Tổ kiểm tra, cấp GCN huấn luyện KTAT VLNCN, TCTN; QĐ số **564/QĐ-SCT ngày 31/01/2026** bổ sung thành viên Tổ kiểm tra.
 9. **Xử phạt: NĐ 275/2026/NĐ-CP ngày 08/7/2026** (hiệu lực **25/8/2026**, thay NĐ 71/2019 + Điều 1 NĐ 17/2022) — **Điều 54**: sử dụng người chưa được huấn luyện, kiểm tra cấp GCN KTAT hoặc không đủ trình độ chuyên môn (điểm a, b k2: 15–30 tr cá nhân, tổ chức ×2, **kèm đình chỉ hoạt động 3–6 tháng**); không tổ chức huấn luyện/tài liệu không đạt/người huấn luyện không đủ điều kiện (k1: 5–15 tr). **Chuyển tiếp (Đ74):** hành vi kết thúc trước 25/8/2026 → Đ50 NĐ 71/2019 (sđ NĐ 17/2022). Chi tiết + thẩm quyền → plugin `xp-hc-vlncn-sct-vn`.
 10. **TT 09/2026/TT-BQP ngày 22/01/2026** chỉ áp dụng khối Bộ Quốc phòng — KHÔNG ảnh hưởng thẩm quyền Sở.
+11. **CV 1198/ATMT-ATKV ngày 21/7/2025 của Cục ATMT** (trả lời SCT Lai Châu; Cục trưởng Phạm Tuấn Anh ký) — hướng dẫn nghiệp vụ tham chiếu: (a) GCN huấn luyện **thuộc quản lý của DN đề nghị cấp** (k2 Đ8 NĐ 181); (b) NLĐ ký **nhiều HĐLĐ bán thời gian** → từng DN phải tự huấn luyện + đề nghị cấp GCN riêng, không dùng chung GCN; (c) **thông báo** sử dụng VLNCN với UBND tỉnh/xã — luật không buộc UBND tỉnh kiểm tra điều kiện trước khi tiếp nhận thông báo → reference `01` mục C-quater; trích lục + ảnh: `van-ban-goc/`.
 
 ## III. THẨM QUYỀN — PHÂN ĐỊNH NHANH (từ 06/11/2025)
 
@@ -116,6 +117,7 @@ DN TỰ tổ chức huấn luyện (16h lần đầu; định kỳ/lại = 8h) b
 10. **Phí, lệ phí:** TTHC 2.000229/2.000210 công bố hiện hành không quy định phí — xác minh lại khi có công bố mới trước khi trả lời DN.
 11. **Không tự điền số/ngày** văn bản chưa ban hành ("Số:      /QĐ-SCT"); GATE bắt buộc khi đọc PDF đến; địa danh sau 01/7/2025 ghi xã/phường + tỉnh Lào Cai; render-and-verify mọi file .docx trước khi bàn giao.
 12. **Kỳ kiểm tra đông người** (như Sin Quyền ~200): chia đợt trong Thông báo, ghi rõ số thứ tự từng chức danh theo danh sách DN đã đăng ký; có thể tổ chức tại trụ sở DN (tiền lệ Hóa chất mỏ Tây Bắc).
+13. **Nhân sự kiêm nhiệm nhiều DN ≠ dùng chung GCN:** GCN thuộc quản lý của DN đề nghị cấp; NLĐ ký HĐLĐ bán thời gian với nhiều DN thì từng DN phải tự huấn luyện + đề nghị cấp GCN riêng (CV 1198/ATMT-ATKV 21/7/2025 của Cục ATMT — ref `01` C-quater). Khi thẩm định hồ sơ GP sử dụng VLNCN (`sd-vlncn-sct-vn`), GCN kèm hồ sơ phải do chính DN xin phép đề nghị cấp. Lưu ý phân biệt: GCN "giá trị toàn quốc" (k5 Đ9) nói về phạm vi lãnh thổ, KHÔNG có nghĩa dùng chung giữa các DN.
 
 ## VII. CẤU TRÚC PLUGIN
 

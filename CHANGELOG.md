@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 2026-08-29 — hl-vlncn-sct-vn v1.4.0: CV 1198/ATMT-ATKV 21/7/2025 — hướng dẫn nghiệp vụ của Cục ATMT (GCN thuộc DN đề nghị cấp; NLĐ nhiều HĐLĐ; thông báo sử dụng VLNCN)
+
+Bạn cung cấp ảnh chụp bản giấy **CV 1198/ATMT-ATKV ngày 21/7/2025** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Cục trưởng Phạm Tuấn Anh ký) trả lời CV 1813/SCT-QLCN 16/7/2025 của SCT **Lai Châu** — GATE metadata đọc từ ảnh. Tuy gửi tỉnh khác nhưng là quan điểm nghiệp vụ chính thức cấp Bộ về NĐ 181/2024, giá trị tham chiếu trực tiếp cho Lào Cai. 3 nội dung: (1) k2 Đ8 NĐ 181 — DN tự huấn luyện các đối tượng (trừ người quản lý) rồi đề nghị kiểm tra, cấp GCN; **GCN thuộc quản lý của DN đề nghị cấp**; (2) Đ19 BLLĐ — NLĐ ký **nhiều HĐLĐ bán thời gian → từng DN phải tự huấn luyện + đề nghị cấp GCN riêng**, không dùng chung GCN (vận dụng khi thẩm định hồ sơ GP sử dụng VLNCN có nhân sự kiêm nhiệm); (3) Luật QLSD vũ khí, VLN, CCHT chỉ quy định **thông báo** với UBND tỉnh/xã — **không buộc UBND tỉnh kiểm tra điều kiện sử dụng** đối với nội dung thông báo (căn cứ trả lời đoàn giám sát/xã).
+
+- `van-ban-goc/`: trích lục .md + ảnh .jpg + INDEX; ref `01` mục **C-quater**; FAQ 11 (ref `04`); SKILL.md: khung pháp lý mục 11 + **anti-error 13** (phân biệt "GCN giá trị toàn quốc" k5 Đ9 với việc dùng chung GCN giữa các DN) + từ khóa description; plugin.json → **1.4.0**; marketplace.json 4.7.0.
+
 ## 2026-08-29 — qlks-sct-vn v1.9.0: nghiệp vụ 12 — xác minh kiến nghị lấn chiếm ranh giới mỏ giáp ranh (mẫu chuẩn vụ Đại Đồng Tiến, 8/2026)
 
 Bạn cung cấp trọn bộ 4 văn bản vụ việc điển hình do SNNMT chủ trì giải quyết rất tốt, SCT phối hợp: **CV 28/CV-ĐĐT 04/8/2026** (Cty TNHH Đại Đồng Tiến kiến nghị DNTN Thành Hương Nghĩa Lộ lấn chiếm, khai thác trái phép sang ranh giới mỏ đá xã Văn Chấn) → **CV 8129/UBND-KT 10/8/2026** (PCT Nguyễn Thành Sinh giao SNNMT chủ trì, phối hợp SXD, SCT, UBND xã; hạn 30/8) → **Biên bản kiểm tra thực địa 21/8/2026** (ký đủ 3 sở + xã + 2 doanh nghiệp) → **BC 904/BC-SNNMT 28/8/2026** (PGĐ Phạm Năng Chung ký, trước hạn 2 ngày). Kết quả đo GPS VN2000 tại 2 vị trí bên kiến nghị chỉ: đều nằm TRONG ranh GP 2596/GP-UBND của bên bị kiến nghị (cách ranh 11m/14m; cao độ +384/+386m > mức sâu cho phép +380m) — **chưa lấn chiếm**, hai bên ký thống nhất; báo cáo vẫn kiến nghị phòng ngừa vì ranh 2 mỏ chỉ cách 01-03m (có nơi <01m) và có nổ mìn.

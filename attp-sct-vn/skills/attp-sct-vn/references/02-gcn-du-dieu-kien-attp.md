@@ -1,5 +1,7 @@
 # Reference 02 - GIẤY CHỨNG NHẬN CƠ SỞ ĐỦ ĐIỀU KIỆN AN TOÀN THỰC PHẨM
 
+> **Cấp LẠI Giấy chứng nhận** (hết hiệu lực, thay đổi thông tin), **ủy quyền 2026**, **cắt giảm hồ sơ theo NQ 66.16/2026**: xem **reference 11**.
+
 Nguồn: bộ hồ sơ thực tế của Sở Công Thương Lào Cai (Bạn cung cấp 28/7/2026), đối chiếu QĐ 904/QĐ-UBND, QĐ 28/2025/QĐ-UBND, TT 43/2018/TT-BCT, TT 38/2025/TT-BCT, NĐ 146/2025.
 
 ## 1. Thẩm quyền - chuỗi 3 tầng
@@ -10,7 +12,9 @@ Nguồn: bộ hồ sơ thực tế của Sở Công Thương Lào Cai (Bạn cun
 
 **Tầng 3 - ủy quyền lập Đoàn thẩm định.** **Quyết định số 904/QĐ-UBND ngày 26/8/2025** của UBND tỉnh Lào Cai ủy quyền cho **Giám đốc Sở Công Thương thành lập Đoàn thẩm định** cấp Giấy chứng nhận, căn cứ khoản 5 Điều 37 và Phụ lục XI NĐ 146/2025, khoản 2 Điều 16 TT 38/2025/TT-BCT; ban hành theo đề nghị của Giám đốc Sở tại Tờ trình số 920/TTr-SCT ngày 15/8/2025. Điều kiện ủy quyền: **không được ủy quyền lại**; sử dụng con dấu của Sở; báo cáo kết quả về UBND tỉnh.
 
-> **GATE BẮT BUỘC - thời hạn ủy quyền.** Điều 2 QĐ 904/QĐ-UBND ghi thời hạn ủy quyền **đến hết ngày 31/12/2025**. Văn bản này **có thể đã hết thời hạn**. Trước khi soạn Quyết định thành lập Đoàn thẩm định hoặc viện dẫn căn cứ ủy quyền, **phải hỏi Bạn** xem UBND tỉnh đã ban hành Quyết định ủy quyền mới cho giai đoạn 2026 chưa. **Không dẫn QĐ 904/QĐ-UBND như đang còn hiệu lực.**
+**Tầng 3 giai đoạn 2026 - GATE ĐÃ GỠ.** QĐ 904/QĐ-UBND chỉ có thời hạn đến hết 31/12/2025. Văn bản thay thế đang áp dụng là **Quyết định số 68/QĐ-UBND ngày 09/01/2026** của UBND tỉnh Lào Cai ủy quyền cho **Giám đốc Sở Công Thương** thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực **thương mại và an toàn thực phẩm** do ngành Công Thương quản lý. Đã được sử dụng làm căn cứ trong Quyết định thành lập Đoàn thẩm định WINMART+ LCI 29 (tháng 8/2026).
+
+> **Quy tắc dẫn căn cứ từ 2026:** dẫn **QĐ 68/QĐ-UBND ngày 09/01/2026**, KHÔNG dẫn QĐ 904/QĐ-UBND (đã hết thời hạn). Chi tiết khối căn cứ chuẩn 11 dòng và kết cấu Quyết định thành lập Đoàn thẩm định: **reference 11 mục 2**. Thời hạn hiệu lực của QĐ 68 chưa xác minh - xem reference 11 mục 1.
 
 ## 2. Trình tự thực tế đã áp dụng (hồ sơ Siêu thị An Lạc)
 
@@ -47,7 +51,7 @@ Phiếu trình mẫu vụ Siêu thị An Lạc **còn sót nguyên nội dung c�
 
 ## 6. Chưa xác minh - cần Bạn cung cấp
 
-- **Quyết định ủy quyền lập Đoàn thẩm định năm 2026** (thay QĐ 904/QĐ-UBND hết hạn 31/12/2025) - ưu tiên cao nhất.
+- **Bản gốc QĐ 68/QĐ-UBND ngày 09/01/2026** (đã biết số, ngày và phạm vi qua Quyết định thành lập Đoàn thẩm định 8/2026, nhưng chưa có toàn văn để xác minh thời hạn ủy quyền và danh mục nhiệm vụ) - ưu tiên cao nhất.
 - Phụ lục I, II, III của QĐ 28/2025/QĐ-UBND (danh mục sản phẩm từng ngành) - bản PDF Bạn gửi chỉ có 7 trang phần nội dung, **không kèm phụ lục**.
 - Quyết định công bố TTHC đang áp dụng (thời hạn giải quyết, phí, lệ phí).
 - Mẫu Giấy chứng nhận đã cấp và Biên bản thẩm định bản sạch để đưa vào `mau-ho-so/`.

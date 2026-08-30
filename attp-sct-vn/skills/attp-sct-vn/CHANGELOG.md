@@ -1,5 +1,18 @@
 # CHANGELOG - attp-sct-vn
 
+## v1.5.0 - 30/8/2026
+Nạp 04 bộ hồ sơ thật của Sở; **GỠ GATE ỦY QUYỀN** và mở 02 tuyến nghiệp vụ mới.
+
+- **GỠ GATE ủy quyền Đoàn thẩm định** (treo từ v1.0): căn cứ đang áp dụng là **Quyết định số 68/QĐ-UBND ngày 09/01/2026** của UBND tỉnh Lào Cai ủy quyền Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực thương mại và ATTP. Thay thế vai trò QĐ 904/QĐ-UBND (hết thời hạn 31/12/2025). Nguồn: Quyết định thành lập Đoàn thẩm định WINMART+ LCI 29 đã phát hành 8/2026.
+- **NQ 66.16/2026/NQ-CP ngày 07/4/2026 - cắt giảm hồ sơ, áp dụng từ 15/4/2026**: hồ sơ cấp/cấp lại GCN ATTP **không còn yêu cầu bản sao Giấy chứng nhận đăng ký kinh doanh/đăng ký doanh nghiệp/Giấy chứng nhận đầu tư** (Phần I Mục B Phụ lục I.2). Hồ sơ cấp lại còn **04 thành phần**.
+- **reference 11 MỚI - cấp lại GCN, ủy quyền 2026, cắt giảm hồ sơ**: QĐ 68/QĐ-UBND; **khối căn cứ chuẩn 11 dòng** của Quyết định thành lập Đoàn thẩm định và kết cấu 3 điều; **quy trình cảnh báo sớm cấp lại** theo mốc 06 tháng tại khoản 2 Điều 37 Luật ATTP (rà sổ theo dõi → Sở chủ động phát công văn hướng dẫn 4 mục, không đợi doanh nghiệp); bảng 04 thành phần hồ sơ cấp lại; Giấy xác nhận tập huấn kiến thức ATTP do **chủ cơ sở tự cấp** (TT 13/2020/TT-BCT + QĐ 1390/QĐ-BCT, giá trị 03 năm); **06 lỗi thường gặp** trong hồ sơ doanh nghiệp.
+- **reference 03 mục 3.1 MỚI - công văn đề nghị đăng tải bản tự công bố**: khối căn cứ 4 lớp (QĐ 59/QĐ-SCT, NĐ 15/2018, ý kiến chỉ đạo Lãnh đạo Sở, **điểm b và điểm c khoản 2 Điều 5 NĐ 15/2018**); cấu trúc phụ lục bảng thông tin sản phẩm; nơi nhận có **Chi cục Quản lý thị trường (p/h)** phục vụ hậu kiểm; người ký là Phó Trưởng phòng; gom theo kỳ tháng, không làm lẻ từng sản phẩm.
+- **04 bộ ví dụ thực tế mới**: `winmart-lci29-2026/` (QĐ lập Đoàn thẩm định - mẫu chuẩn căn cứ 2026); `bao-khang-tu-cong-bo-082026/` (công văn đăng tải 55 sản phẩm); `hieu-hung-cap-lai-2026/` (trọn bộ 07 file cấp lại GCN + công văn hướng dẫn của Sở); `takoko-cap-gcn-2026/` (bản thuyết minh Mẫu 02a đã điền, sơ đồ mặt bằng, giấy XN tập huấn). README thư mục viết lại.
+- **Biểu mẫu đã có bản thật**: Đơn Mẫu 01b (cấp lại), Bản thuyết minh Mẫu 02a, Danh sách tổng hợp đủ sức khỏe, Giấy xác nhận tập huấn, Sơ đồ bố trí mặt bằng - gỡ khỏi danh sách việc còn thiếu.
+- reference 02: gỡ khối GATE, thêm con trỏ sang reference 11. SKILL.md: nguyên tắc 3a viết lại thành "GATE ĐÃ GỠ"; khung pháp lý thêm QĐ 68, NQ 66.16, QĐ 1390/QĐ-BCT; 2 dòng kích hoạt mới; bản đồ references và mô tả `vi-du-thuc-te/`; mục VI cập nhật.
+- plugin.json 1.4.0 → **1.5.0**; marketplace.json đồng bộ.
+- **Cần Bạn xác nhận**: (1) bản gốc QĐ 68/QĐ-UBND và NQ 66.16/2026 để xác minh thời hạn ủy quyền và đối chiếu toàn văn phần cắt giảm; (2) dòng Lưu của QĐ lập Đoàn thẩm định ghi `VT, CN(Trang-T.Dương)` trong khi quy tắc chung là không ghi tên lãnh đạo phòng và ATTP dùng CN(Nam) - là ngoại lệ có chủ ý hay cần thống nhất lại?
+
 ## v1.4.0 - 30/8/2026
 Cập nhật trạng thái hiệu lực đến 30/8/2026 và mở tuyến ranh giới với ngành Nông nghiệp và Môi trường.
 

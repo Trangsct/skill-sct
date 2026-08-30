@@ -1,6 +1,6 @@
 ---
 name: attp-sct-vn
-description: "AN TOÀN THỰC PHẨM (ATTP) và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai. Kích hoạt: GCN cơ sở đủ điều kiện ATTP (GCNATTP-SCTLC), tự công bố sản phẩm, bản cam kết, hộ kinh doanh nhỏ lẻ cấp xã, rượu, thuốc lá, hậu kiểm, ngộ độc thực phẩm, kiểm tra ATTP nhập khẩu, ranh giới với ngành Nông nghiệp và Môi trường, NĐ 15/2018, NQ 15/2026. 7 nghiệp vụ: (1) thẩm định, cấp/cấp lại/thu hồi GCN ATTP thuộc Bộ Công Thương đã phân cấp về UBND cấp tỉnh (khoản 5 Điều 37 NĐ 146/2025); (2) tự công bố, cơ sở không thuộc diện cấp GCN (Điều 12 NĐ 15/2018), hướng dẫn cấp xã (QĐ 28/2025 Điều 7); (3) thuốc lá (NĐ 67/2013); (4) rượu (NĐ 105/2017); (5) hậu kiểm, truy xuất nguồn gốc, thu hồi sản phẩm; (6) phân định ranh giới 3 ngành Công Thương - Y tế - Nông nghiệp và Môi trường; (7) báo cáo. CẢNH BÁO: NĐ 46/2026 đang TẠM NGƯNG theo NQ 15/2026, áp dụng NĐ 15/2018 - đọc reference 08 trước khi trích căn cứ. Từ khóa thêm: TT 43/2018/TT-BCT, TT 22/2026/TT-BNNMT, sữa chế biến, dầu thực vật, CN(Nam)."
+description: "AN TOÀN THỰC PHẨM (ATTP) và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai. Kích hoạt: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP (GCNATTP-SCTLC), Đoàn thẩm định, tự công bố và đăng tải sản phẩm, bản cam kết, hộ kinh doanh nhỏ lẻ cấp xã, rượu, thuốc lá, hậu kiểm, ngộ độc thực phẩm, kiểm tra ATTP nhập khẩu, NĐ 15/2018, NQ 15/2026. 7 nghiệp vụ: (1) thẩm định, cấp/cấp lại/thu hồi GCN ATTP (khoản 5 Điều 37 NĐ 146/2025; ủy quyền QĐ 68/QĐ-UBND 09/01/2026; hồ sơ đã cắt giảm theo NQ 66.16/2026 từ 15/4/2026); (2) tự công bố, đăng tải lên Cổng TTĐT, cơ sở không thuộc diện cấp GCN (Điều 12 NĐ 15/2018), hướng dẫn cấp xã (QĐ 28/2025 Điều 7); (3) thuốc lá (NĐ 67/2013); (4) rượu (NĐ 105/2017); (5) hậu kiểm, truy xuất nguồn gốc, thu hồi sản phẩm; (6) ranh giới 3 ngành Công Thương - Y tế - Nông nghiệp và Môi trường; (7) báo cáo. CẢNH BÁO: NĐ 46/2026 TẠM NGƯNG theo NQ 15/2026 - đọc reference 08. Từ khóa thêm: TT 43/2018/TT-BCT, TT 22/2026/TT-BNNMT, CN(Nam)."
 ---
 
 # attp-sct-vn - An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm (Sở Công Thương Lào Cai)
@@ -12,6 +12,8 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 - Thẩm định hồ sơ, tham mưu cấp mới, cấp lại, thu hồi **Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm** đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc trách nhiệm quản lý của Bộ Công Thương trên địa bàn tỉnh.
 - Xác định **một cơ sở/sản phẩm thuộc ngành nào quản lý**: Công Thương, Y tế hay Nông nghiệp và Môi trường; xác định cơ sở **không thuộc diện cấp** Giấy chứng nhận.
 - Tiếp nhận, rà soát hồ sơ **tự công bố sản phẩm**; hướng dẫn doanh nghiệp về ghi nhãn, chỉ tiêu kiểm nghiệm, hồ sơ công bố.
+- **Cấp lại Giấy chứng nhận** khi hết hiệu lực: rà sổ theo dõi, phát công văn cảnh báo sớm cho cơ sở trước 06 tháng (khoản 2 Điều 37 Luật ATTP) - reference 11.
+- **Tiếp nhận và đăng tải bản tự công bố**: soạn công văn nội bộ đề nghị Văn phòng Sở đăng tải lên Cổng thông tin điện tử, kèm phụ lục bảng sản phẩm - reference 03 mục 3.1.
 - Cấp phép, hướng dẫn lĩnh vực **thuốc lá**: Giấy phép chế biến nguyên liệu thuốc lá; Giấy phép phân phối, bán buôn sản phẩm thuốc lá; chấp thuận nhập khẩu nguyên liệu, máy móc thiết bị chuyên ngành thuốc lá.
 - Cấp phép, hướng dẫn lĩnh vực **rượu**: Giấy phép sản xuất rượu công nghiệp, Giấy phép phân phối, bán buôn rượu.
 - **Hậu kiểm, kiểm tra chuyên ngành** ATTP; truy xuất nguồn gốc; thu hồi, xử lý sản phẩm không bảo đảm an toàn; phối hợp xử lý sự cố, ngộ độc thực phẩm.
@@ -63,7 +65,10 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 - **Nghị quyết số 19/2026/NQ-CP** về cắt giảm, phân cấp, đơn giản hóa TTHC, điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Công Thương.
 - **Nghị quyết số 66.18/2026/NQ-CP** ngày 18/5/2026 (hiệu lực 01/7/2026 đến hết 28/02/2027).
 - **Quyết định số 28/2025/QĐ-UBND ngày 10/11/2025** của UBND tỉnh Lào Cai về phân cấp quản lý nhà nước về ATTP trên địa bàn tỉnh (hiệu lực **20/11/2025**), thay thế QĐ 08/2021/QĐ-UBND của tỉnh Yên Bái và QĐ 45/2024/QĐ-UBND của tỉnh Lào Cai - **văn bản gối đầu để phân định thẩm quyền tại địa phương** (reference 01).
-- **Quyết định số 904/QĐ-UBND ngày 26/8/2025** ủy quyền Giám đốc Sở Công Thương thành lập Đoàn thẩm định cấp GCN ATTP - **thời hạn đến hết 31/12/2025**, phải kiểm tra văn bản thay thế (reference 02).
+- **Quyết định số 68/QĐ-UBND ngày 09/01/2026** của UBND tỉnh Lào Cai **ủy quyền cho Giám đốc Sở Công Thương** thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực **thương mại và an toàn thực phẩm** do ngành Công Thương quản lý - **căn cứ ủy quyền đang áp dụng** (reference 11).
+- **Quyết định số 904/QĐ-UBND ngày 26/8/2025** ủy quyền lập Đoàn thẩm định - **đã hết thời hạn 31/12/2025**, không dẫn nữa; giữ lại để đối chiếu hồ sơ cũ.
+- **Nghị quyết số 66.16/2026/NQ-CP ngày 07/4/2026** về cắt giảm, đơn giản hóa TTHC, quy định liên quan đến hoạt động sản xuất, kinh doanh - **áp dụng từ 15/4/2026**: hồ sơ cấp/cấp lại GCN ATTP **không còn yêu cầu bản sao Giấy chứng nhận đăng ký kinh doanh/đăng ký doanh nghiệp/Giấy chứng nhận đầu tư** (Phần I Mục B Phụ lục I.2) - reference 11 mục 4.
+- **Quyết định số 1390/QĐ-BCT ngày 26/5/2020** ban hành bộ câu hỏi kiểm tra, đáp án xác nhận tập huấn kiến thức ATTP; kèm **TT 13/2020/TT-BCT** - căn cứ để chủ cơ sở tự tổ chức tập huấn và tự xác nhận (reference 11 mục 5).
 - **Quyết định số 217/QĐ-UBND ngày 27/01/2026** kiện toàn Ban Chỉ đạo An toàn thực phẩm tỉnh.
 - **Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026** của Bộ Nông nghiệp và Môi trường (Thứ trưởng Nguyễn Hoàng Hiệp ký): **Điều 3 hiệu lực 01/9/2026** - cơ quan kiểm tra nhà nước về ATTP nhập khẩu thuộc thẩm quyền Bộ NN&MT là **cơ quan được Chủ tịch UBND cấp tỉnh giao hoặc chỉ định**, thay thế Cục Thú y và Cục Bảo vệ thực vật; trình tự theo Điều 15-19 NĐ 15/2018. Không dùng làm căn cứ cho văn bản của Sở Công Thương - chi tiết tại reference 10.
 - **Thông tư số 38/2025/TT-BCT ngày 19/6/2025**, khoản 2 Điều 16 sửa khoản 2 Điều 6 TT 43/2018/TT-BCT: thẩm quyền cấp GCN do UBND cấp tỉnh thực hiện.
@@ -84,7 +89,7 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 1. **Không bịa số, ngày văn bản.** Mọi số/ngày trong skill này đã được đối chiếu nguồn; nội dung nào chưa xác minh đều ghi rõ "chưa xác minh - hỏi Bạn".
 2. **GATE PDF:** trước khi viện dẫn số, ngày, người ký của văn bản đến, đọc từ file gốc trên đĩa, không lấy từ context hiển thị.
 3. **GATE HIỆU LỰC ATTP:** mỗi lần trích căn cứ ATTP, kiểm tra mục II; mặc định dùng NĐ 15/2018, không dùng NĐ 46/2026.
-3a. **GATE ỦY QUYỀN ĐOÀN THẨM ĐỊNH:** QĐ 904/QĐ-UBND ngày 26/8/2025 ủy quyền Giám đốc Sở lập Đoàn thẩm định chỉ có thời hạn **đến hết 31/12/2025**. Trước khi soạn Quyết định thành lập Đoàn thẩm định hoặc viện dẫn căn cứ ủy quyền, **hỏi Bạn** về Quyết định ủy quyền năm 2026 (reference 02 mục 1).
+3a. **ỦY QUYỀN ĐOÀN THẨM ĐỊNH - GATE ĐÃ GỠ:** căn cứ đang áp dụng là **Quyết định số 68/QĐ-UBND ngày 09/01/2026** ủy quyền Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực thương mại và ATTP. **KHÔNG dẫn QĐ 904/QĐ-UBND** (hết thời hạn 31/12/2025). Khối căn cứ chuẩn của Quyết định thành lập Đoàn thẩm định: reference 11 mục 2.
 4. **Không tra hiện trạng cơ sở trong skill** (số lượng cơ sở đã cấp GCN, danh sách doanh nghiệp) - dữ liệu tĩnh dễ lỗi thời; hỏi Bạn hoặc chờ số liệu cập nhật.
 5. **Ký hiệu văn bản:** dùng SCT-CN và dòng Lưu VT, CN(Nam) cho lĩnh vực ATTP/CN tiêu dùng - thực phẩm; GCN ATTP dùng ký hiệu GCNATTP-SCTLC. Không tự đổi sang ký hiệu phòng khác.
 6. **Người ký:** GCN, quyết định, báo cáo quan trọng - Giám đốc Sở Hoàng Chí Hiền; KT.GĐ - PGĐ Nguyễn Đình Chiến (phụ trách ATTP).
@@ -104,18 +109,19 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 | `references/08-canh-bao-hieu-luc-2026.md` | Diễn biến NĐ 46/2026 - NQ 09/2026 - NQ 15/2026 - Luật ATTP (sửa đổi); cách trích căn cứ an toàn |
 | `references/09-ho-kinh-doanh-nho-le-cap-xa.md` | **Tuyến xã - KẾT LUẬN CHỐT: hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN** (khoản 10 Điều 3 + điểm d khoản 1 Điều 12 + CV 3109, CV 8520). Ranh giới QĐ 28/2025 Điều 6-7, 3 trường hợp ngoại lệ, Điều 36 khoản 8-9-10, 5 việc xã phải làm, ví dụ hộ sản xuất bánh mỳ + 10 câu hỏi kiểm tra |
 | `references/10-ranh-gioi-nganh-nong-nghiep-moi-truong.md` | Ranh giới với ngành Nông nghiệp và Môi trường; **TT 22/2026/TT-BNNMT** (hiệu lực phân tầng, kiểm tra ATTP nhập khẩu từ 01/9/2026, CFS, chỉ định cơ sở kiểm nghiệm); bảng tra nhanh ranh giới |
+| `references/11-cap-lai-gcn-va-uy-quyen-2026.md` | **Cấp lại GCN khi hết hiệu lực** (mốc 06 tháng khoản 2 Điều 37 Luật ATTP, quy trình cảnh báo sớm, công văn hướng dẫn 4 mục); **QĐ 68/QĐ-UBND ngày 09/01/2026** ủy quyền; khối căn cứ chuẩn Quyết định lập Đoàn thẩm định; **cắt giảm hồ sơ theo NQ 66.16/2026 từ 15/4/2026**; giấy xác nhận tập huấn; 6 lỗi thường gặp trong hồ sơ doanh nghiệp |
 | `mau-ho-so/` | 05 tài liệu hướng dẫn và mẫu thật của Sở (xem README trong thư mục) |
-| `vi-du-thuc-te/` | Vụ Siêu thị An Lạc (GCN ATTP 9/2025) và vụ Kim Ngọc (thuốc lá 2025) |
+| `vi-du-thuc-te/` | Siêu thị An Lạc (GCN ATTP 9/2025); Kim Ngọc (thuốc lá 2025); **WINMART+ LCI 29** (QĐ lập Đoàn thẩm định 8/2026 - mẫu chuẩn khối căn cứ 2026); **Bảo Khang** (công văn đăng tải 55 sản phẩm tự công bố 8/2026); **Hiếu Hưng** (trọn bộ 7 file hồ sơ cấp lại GCN + công văn hướng dẫn của Sở); **TAKOKO** (bản thuyết minh Mẫu 02a, sơ đồ mặt bằng, giấy XN tập huấn) |
 | `van-ban-goc/` | **NĐ 15/2018 (bản gốc .doc + text)**, **CV 3109/BCT-KHCN**, **CV 8520/BCT-KHCN**, QĐ 28/2025, QĐ 904, NQ 15/2026, TT 43/2018, TT 57/2018, TT 43/2023 |
 
-## VI. VIỆC CÒN THIẾU (cần Bạn cung cấp để hoàn thiện v1.4)
+## VI. VIỆC CÒN THIẾU (cần Bạn cung cấp để hoàn thiện v1.5)
 
 Xếp theo mức độ cấp thiết:
 
-1. **Quyết định ủy quyền lập Đoàn thẩm định năm 2026** thay QĐ 904/QĐ-UBND (hết hạn 31/12/2025) - đang chặn việc soạn Quyết định thành lập Đoàn thẩm định.
+1. **Bản gốc QĐ 68/QĐ-UBND ngày 09/01/2026** và **NQ 66.16/2026/NQ-CP ngày 07/4/2026** - đã biết số, ngày, phạm vi qua văn bản của Sở nhưng chưa có toàn văn để xác minh thời hạn ủy quyền và đối chiếu phần cắt giảm.
 2. **Phụ lục I, II, III của QĐ 28/2025/QĐ-UBND** (danh mục sản phẩm từng ngành) - bản PDF hiện có không kèm phụ lục; đây là phần tra cứu hằng ngày.
 3. **Quyết định công bố TTHC** lĩnh vực ATTP, rượu, thuốc lá đang áp dụng - để chốt thời hạn giải quyết, phí, lệ phí.
-4. **Bộ biểu mẫu sạch**: Đơn Mẫu 01a, Bản thuyết minh Mẫu 02a (TT 43/2018); Biên bản thẩm định Mẫu 03a, Giấy chứng nhận Mẫu 05C (NĐ 17/2020); Bản tự công bố Mẫu 01 (NĐ 15/2018); mẫu bản cam kết.
+4. **Biểu mẫu còn thiếu**: Biên bản thẩm định Mẫu 03a và Giấy chứng nhận Mẫu 05C (NĐ 17/2020); Bản tự công bố Mẫu 01 (NĐ 15/2018); mẫu bản cam kết. (Đơn Mẫu 01b và Bản thuyết minh Mẫu 02a **đã có bản thật** trong `vi-du-thuc-te/hieu-hung-cap-lai-2026/`.)
 5. **01 bộ hồ sơ cấp GCN ATTP hoàn chỉnh, bản sạch** (Tờ trình + Biên bản thẩm định + Giấy chứng nhận đã ký) để làm mẫu chuẩn Chế độ B.
 6. Kế hoạch, báo cáo ATTP gần nhất của Sở (Tháng hành động vì ATTP, Tết Trung thu, Tết Nguyên đán) để lấy bố cục và giọng văn.
 7. **Quyết định của UBND tỉnh giao/chỉ định cơ quan kiểm tra nhà nước về ATTP nhập khẩu** - cả nhánh Bộ Công Thương (NĐ 146/2025) và nhánh Bộ Nông nghiệp và Môi trường (TT 22/2026, áp dụng từ 01/9/2026); kèm bản PDF có dấu của TT 22/2026/TT-BNNMT.

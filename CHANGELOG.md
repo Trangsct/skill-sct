@@ -1,5 +1,14 @@
 # Nhật ký thay đổi bộ skill
 
+## 30/8/2026 — attp-sct-vn v1.5.0: GỠ GATE ủy quyền (QĐ 68/QĐ-UBND 09/01/2026) + cấp lại GCN + đăng tải tự công bố
+Bạn cung cấp 04 bộ hồ sơ thật: QĐ thành lập Đoàn thẩm định WINMART+ LCI 29 (8/2026), công văn đăng tải 55 sản phẩm tự công bố Bảo Khang (28/8/2026), trọn bộ 07 file cấp lại GCN Hiếu Hưng, hồ sơ TAKOKO.
+- **GỠ GATE treo từ v1.0**: căn cứ ủy quyền 2026 là **QĐ 68/QĐ-UBND ngày 09/01/2026** (ủy quyền Giám đốc SCT lĩnh vực thương mại và ATTP), thay vai trò QĐ 904/QĐ-UBND đã hết hạn 31/12/2025.
+- **NQ 66.16/2026/NQ-CP 07/4/2026, áp dụng 15/4/2026**: hồ sơ cấp/cấp lại GCN ATTP **bỏ yêu cầu bản sao GCN ĐKKD/ĐKDN/GCN đầu tư**; cấp lại còn 04 thành phần.
+- **reference 11 MỚI**: khối căn cứ chuẩn 11 dòng của QĐ lập Đoàn thẩm định; **quy trình cảnh báo sớm cấp lại** theo mốc 06 tháng (k2 Đ37 Luật ATTP) — Sở chủ động phát công văn hướng dẫn 4 mục; giấy XN tập huấn do chủ cơ sở tự cấp (TT 13/2020 + QĐ 1390/QĐ-BCT); 06 lỗi thường gặp trong hồ sơ DN (địa danh Yên Bái cũ, nơi cấp ĐKDN đã đổi sang Phòng Doanh nghiệp - Sở Tài chính, ký hiệu GCN cũ/mới, căn cứ thiếu năm, thông tin không khớp giữa các thành phần).
+- **reference 03 mục 3.1 MỚI**: công văn nội bộ đề nghị Văn phòng Sở đăng tải bản tự công bố — căn cứ 4 lớp, trích điểm b+c k2 Đ5 NĐ 15/2018, phụ lục bảng sản phẩm, nơi nhận có Chi cục QLTT (p/h), PTP ký, gom theo kỳ tháng.
+- 04 thư mục `vi-du-thuc-te/` mới + README viết lại; reference 02 gỡ GATE; SKILL.md nguyên tắc 3a, khung pháp lý, 2 dòng kích hoạt, bản đồ references, mục VI. plugin.json → **1.5.0**; marketplace.json đồng bộ.
+- **Cần xác nhận**: bản gốc QĐ 68 và NQ 66.16; dòng Lưu `CN(Trang-T.Dương)` trong QĐ lập Đoàn thẩm định so với quy tắc CN(Nam) và không ghi tên lãnh đạo phòng.
+
 ## 30/8/2026 — attp-sct-vn v1.4.0: ranh giới ngành Nông nghiệp và Môi trường (TT 22/2026/TT-BNNMT) + cập nhật cảnh báo hiệu lực đến 30/8/2026
 - **reference 10 MỚI**: ranh giới Công Thương ↔ Nông nghiệp và Môi trường; toàn bộ Chương II **TT 22/2026/TT-BNNMT ngày 19/5/2026** (Thứ trưởng Nguyễn Hoàng Hiệp ký). Điểm nóng: **Điều 3 hiệu lực 01/9/2026** — cơ quan kiểm tra nhà nước về ATTP nhập khẩu thuộc thẩm quyền Bộ NN&MT là cơ quan được **Chủ tịch UBND cấp tỉnh giao hoặc chỉ định**, thay Cục Thú y và Cục BVTV; trình tự theo Điều 15-19 NĐ 15/2018. Tác động trực tiếp tới luồng hàng qua cửa khẩu Kim Thành. Kèm bảng hiệu lực phân tầng (19/5, 01/7, 01/8, 01/9/2026), Điều 4 sửa TT 17/2025/TT-BNNMT (hồ sơ GCN rút còn 2 thành phần, CFS, chỉ định cơ sở kiểm nghiệm), Điều 5 bãi bỏ, Điều 18 chuyển tiếp, bảng tra nhanh 7 tình huống.
 - **reference 08**: bổ sung TB 141/TB-VPCP 20/3/2026, phiên họp CP chuyên đề 18/8/2026, hạn 20/8/2026, dự kiến trình Kỳ họp thứ 2 QH khóa XVI (10/2026). Kết luận **trạng thái không đổi**: NĐ 46/2026 vẫn tạm ngưng, tiếp tục dùng NĐ 15/2018. Thêm cảnh báo **cửa sổ rủi ro từ 10/2026**.

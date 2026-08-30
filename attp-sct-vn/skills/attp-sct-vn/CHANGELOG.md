@@ -1,5 +1,17 @@
 # CHANGELOG - attp-sct-vn
 
+## v1.4.0 - 30/8/2026
+Cập nhật trạng thái hiệu lực đến 30/8/2026 và mở tuyến ranh giới với ngành Nông nghiệp và Môi trường.
+
+- **reference 10 MỚI - ranh giới với ngành Nông nghiệp và Môi trường**: nguyên tắc phân định (một sản phẩm một cơ quan; chỉ kinh doanh nhiều ngành → Công Thương trừ chợ đầu mối; vừa sản xuất vừa kinh doanh → doanh nghiệp được chọn); toàn bộ Chương II **Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026**; 4 ý nghĩa đối với Sở Công Thương; 3 việc cần xác minh; bảng tra nhanh 7 tình huống ranh giới.
+- **TT 22/2026/TT-BNNMT - điểm phải nắm trước 01/9/2026**: Điều 19 quy định hiệu lực phân tầng (toàn bộ từ 19/5/2026; **Điều 2 và Điều 3 từ 01/9/2026**; Điều 6 từ 01/8/2026; các quy định phân cấp TTHC cho Chủ tịch UBND cấp tỉnh từ 01/7/2026). **Điều 3**: cơ quan kiểm tra nhà nước về ATTP nhập khẩu thuộc thẩm quyền Bộ NN&MT theo phương thức thông thường và kiểm tra chặt là **cơ quan được Chủ tịch UBND cấp tỉnh giao hoặc chỉ định**, thay thế Cục Thú y và Cục Bảo vệ thực vật; trình tự theo Điều 15-19 NĐ 15/2018. **Điều 4** sửa TT 17/2025/TT-BNNMT: hồ sơ cấp GCN cơ sở đủ điều kiện ATTP nông lâm thủy sản rút còn 02 thành phần; hồ sơ CFS; hồ sơ chỉ định cơ sở kiểm nghiệm theo TTLT 20/2013. **Điều 5** bãi bỏ khoản 1 Điều 19 TT 38/2018/TT-BNNPTNT và khoản 2 Điều 11 TT 17/2025/TT-BNNMT. **Điều 18** chuyển tiếp.
+- **reference 08 cập nhật đến 30/8/2026**: bổ sung mốc **Thông báo số 141/TB-VPCP ngày 20/3/2026** (kết luận Thường trực Chính phủ họp 16/3/2026 về kéo dài tạm ngưng), phiên họp Chính phủ chuyên đề 18/8/2026, hạn hoàn thiện hồ sơ trình UBTVQH 20/8/2026, dự kiến trình Kỳ họp thứ 2 Quốc hội khóa XVI tháng 10/2026. **Kết luận: trạng thái không đổi - NĐ 46/2026 vẫn tạm ngưng, Luật ATTP (sửa đổi) chưa thông qua, tiếp tục dùng NĐ 15/2018.**
+- **Bằng chứng củng cố kết luận về NĐ 15/2018**: TT 22/2026/TT-BNNMT ban hành ngày 19/5/2026 (sau NQ 15/2026) vẫn dẫn Điều 15-19 NĐ 15/2018 làm trình tự kiểm tra ATTP nhập khẩu.
+- **Cảnh báo cửa sổ rủi ro**: từ tháng 10/2026 trở đi bắt buộc tra lại tình trạng hiệu lực trước mỗi lần trích căn cứ, không dựa vào kết luận tĩnh của skill.
+- SKILL.md: thêm dòng kích hoạt về phân định ranh giới với ngành Nông nghiệp và Môi trường; bổ sung TT 22/2026 vào khung pháp lý mục III.2; cập nhật mục II điểm 4; thêm reference 10 vào bản đồ; mục VI thêm việc cần cung cấp (quyết định của UBND tỉnh giao/chỉ định cơ quan kiểm tra ATTP nhập khẩu cho cả hai nhánh, bản PDF có dấu của TT 22/2026).
+- plugin.json 1.3.1 → **1.4.0**; đồng bộ description sang marketplace.json.
+- **Chưa xác minh, không tự suy đoán**: UBND tỉnh Lào Cai đã giao/chỉ định cơ quan nào làm đầu mối kiểm tra ATTP nhập khẩu (cả nhánh NĐ 146/2025 và nhánh TT 22/2026).
+
 ## v1.3.0 - 29/7/2026
 ĐÍNH CHÍNH KẾT LUẬN SAI của v1.2.0 về hộ kinh doanh, dựa trên 02 công văn hướng dẫn của Bộ Công Thương.
 

@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 30/8/2026 — attp-sct-vn v1.4.0: ranh giới ngành Nông nghiệp và Môi trường (TT 22/2026/TT-BNNMT) + cập nhật cảnh báo hiệu lực đến 30/8/2026
+- **reference 10 MỚI**: ranh giới Công Thương ↔ Nông nghiệp và Môi trường; toàn bộ Chương II **TT 22/2026/TT-BNNMT ngày 19/5/2026** (Thứ trưởng Nguyễn Hoàng Hiệp ký). Điểm nóng: **Điều 3 hiệu lực 01/9/2026** — cơ quan kiểm tra nhà nước về ATTP nhập khẩu thuộc thẩm quyền Bộ NN&MT là cơ quan được **Chủ tịch UBND cấp tỉnh giao hoặc chỉ định**, thay Cục Thú y và Cục BVTV; trình tự theo Điều 15-19 NĐ 15/2018. Tác động trực tiếp tới luồng hàng qua cửa khẩu Kim Thành. Kèm bảng hiệu lực phân tầng (19/5, 01/7, 01/8, 01/9/2026), Điều 4 sửa TT 17/2025/TT-BNNMT (hồ sơ GCN rút còn 2 thành phần, CFS, chỉ định cơ sở kiểm nghiệm), Điều 5 bãi bỏ, Điều 18 chuyển tiếp, bảng tra nhanh 7 tình huống.
+- **reference 08**: bổ sung TB 141/TB-VPCP 20/3/2026, phiên họp CP chuyên đề 18/8/2026, hạn 20/8/2026, dự kiến trình Kỳ họp thứ 2 QH khóa XVI (10/2026). Kết luận **trạng thái không đổi**: NĐ 46/2026 vẫn tạm ngưng, tiếp tục dùng NĐ 15/2018. Thêm cảnh báo **cửa sổ rủi ro từ 10/2026**.
+- SKILL.md: dòng kích hoạt ranh giới ngành, khung pháp lý mục III.2, mục II điểm 4, bản đồ references, mục VI. plugin.json → **1.4.0**; marketplace.json đồng bộ.
+- **Chưa xác minh**: UBND tỉnh đã giao/chỉ định cơ quan nào làm đầu mối kiểm tra ATTP nhập khẩu (cả hai nhánh) — đã ghi vào mục việc cần cung cấp, không suy đoán.
+
 ## 29/8/2026 — kho-vlncn-sct-vn v1.8.0 + xd-sct-vn v1.2.1: liên kết 2 plugin, case chuẩn kho tạm Đồng Tiến
 - kho-vlncn: Nhóm 2 Xây dựng viết lại theo 2 khung quanh mốc 01/7/2026, GATE chuyển tiếp trỏ xd-sct-vn ref 11; case study KTCTNT kho tạm Đồng Tiến (TB 5088/TB-SCT — 8 điểm chuẩn, 6 điểm rút kinh nghiệm, nổi bật: thiếu phiếu đo chống tĩnh điện, file năng lực CĐT nộp nhầm trùng md5); anti-error 8-11.
 - xd-sct-vn: ref 11 thêm bài học "hai mốc, hai khung" từ vụ Đồng Tiến, liên kết chéo.

@@ -4,7 +4,27 @@
 
 ## I. CÔNG TRÌNH NÀO THUỘC DIỆN KTCTNT (Điều 25 khoản 1 NĐ 207/2026)
 
-Công trình phải được CQNN có thẩm quyền KTCTNT trong quá trình thi công và khi hoàn thành (khoản 4 Điều 57 Luật 135/2025) nếu thuộc một trong các trường hợp:
+### I.0. ⭐ NHÓM LOẠI TRỪ — ĐỌC TRƯỚC (bổ sung 31/8/2026, đối chiếu bản gốc)
+
+Nguyên văn khoản 1 Điều 25 NĐ 207/2026: *"Công trình xây dựng phải được cơ quan nhà nước có thẩm quyền kiểm tra công tác nghiệm thu ... theo quy định tại khoản 4 Điều 57 Luật Xây dựng số 135/2025/QH15 **(trừ các công trình thuộc dự án đầu tư xây dựng công trình đặc thù quy định tại điểm a khoản 1 Điều 69, các điều 70, 71 và 72 Luật Xây dựng số 135/2025/QH15)**, bao gồm: ..."*
+
+Bốn nhóm được loại trừ:
+| Dẫn chiếu | Nội dung |
+|---|---|
+| điểm a khoản 1 Điều 69 | Công trình bí mật nhà nước |
+| Điều 70 | Dự án, công trình khẩn cấp, cấp bách |
+| Điều 71 | Dự án đầu tư công đặc biệt |
+| **Điều 72** | **Dự án, công trình xây dựng TẠM** |
+
+**Cách đọc đã chốt:** phần loại trừ đặt ngay sau nghĩa vụ kiểm tra và **đứng TRƯỚC cụm từ "bao gồm"** → là ngoại lệ của chính nghĩa vụ KTCTNT, chi phối cả ba điểm a, b, c. Vì vậy một công trình tạm **vẫn có thể nằm trong Phụ lục IV NĐ 217/2026** (công trình AT-LICĐ, tức điểm b) mà **vẫn được miễn KTCTNT**. Khi ban hành văn bản phải viết lập luận hai tầng này thành văn, không để trống.
+
+⚠ **Khác biệt so với khung cũ:** khoản 1 Điều 24 NĐ 06/2021 **KHÔNG có nhóm loại trừ nào** — ba nhóm phải KTCTNT là dự án quan trọng quốc gia/quy mô lớn (PL VIII), **công trình sử dụng vốn đầu tư công**, và công trình AT-LICĐ. NĐ 207/2026 vừa thêm nhóm loại trừ, vừa **bỏ tiêu chí "vốn đầu tư công"**. Các hồ sơ KTCTNT công trình tạm làm theo NĐ 06/2021 trước 01/7/2026 là ĐÚNG, không phải làm thừa.
+
+⚠ **Chuyển tiếp — khoản 3 Điều 53 NĐ 207/2026 (nguyên văn):** *"Công trình xây dựng khởi công trước ngày Nghị định này có hiệu lực thi hành thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định số 06/2021/NĐ-CP ... nhưng **không thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định này thì không tiếp tục thực hiện việc kiểm tra công tác nghiệm thu**. Chủ đầu tư có trách nhiệm tổ chức quản lý chất lượng, quản lý thi công xây dựng, nghiệm thu hoàn thành công trình đưa vào khai thác, sử dụng theo quy định của Nghị định này và chịu trách nhiệm về kết quả nghiệm thu của mình."* → Hồ sơ công trình tạm khởi công trước 01/7/2026 đang thụ lý: **DỪNG, không kiểm tra tiếp**, thông báo để CĐT tự nghiệm thu.
+
+### I.1. Ba nhóm thuộc diện KTCTNT
+
+Công trình phải được CQNN có thẩm quyền KTCTNT trong quá trình thi công và khi hoàn thành (khoản 4 Điều 57 Luật 135/2025) nếu **không thuộc nhóm loại trừ tại I.0** và thuộc một trong các trường hợp:
 - **a)** Công trình thuộc dự án quan trọng quốc gia, công trình quy mô lớn, kỹ thuật phức tạp theo Phụ lục IX NĐ 207/2026.
 - **b)** Công trình có ảnh hưởng lớn đến an toàn, lợi ích cộng đồng theo quy định của Chính phủ về quản lý hoạt động xây dựng (NĐ 217/2026), trừ công trình đã nêu ở điểm a.
 - **c)** Dự án có nhiều công trình/tổ hợp/dây chuyền công nghệ gồm nhiều hạng mục (điểm b khoản 1 Điều 3 NĐ 207/2026) — CQNN có thẩm quyền quy định cụ thể.

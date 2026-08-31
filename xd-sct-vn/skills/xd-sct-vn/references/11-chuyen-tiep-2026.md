@@ -12,6 +12,7 @@
 | Đã có thông báo kết quả thẩm định TKCS/BCNCKT (toàn bộ hoặc một phần) trước 01/7/2026 | Không thẩm định lại; giai đoạn còn lại + điều chỉnh dự án theo NĐ 217/2026 | khoản 1 Điều 76 NĐ 217/2026 |
 | Thiết kế sau TKCS đã trình CQCM thẩm định, đến 01/7/2026 chưa có thông báo | CQCM DỪNG thẩm định, trả hồ sơ; CĐT tự thẩm định, phê duyệt theo Luật 135/2025 + NĐ 217/2026 | khoản 5 Điều 76 NĐ 217/2026 |
 | Công trình khởi công TRƯỚC 01/7/2026 | QLCL + KTCTNT theo NĐ 06/2021 (sđ 35/2023, 175/2024…); xem thêm khoản 3-4 Đ53 về đối tượng KTCTNT thay đổi giữa 2 khung | khoản 3, 4 Điều 53 NĐ 207/2026 |
+| ⭐ Khởi công TRƯỚC 01/7/2026, thuộc diện KTCTNT theo NĐ 06/2021 nhưng KHÔNG thuộc diện theo NĐ 207/2026 (điển hình: **công trình xây dựng tạm**; công trình vốn đầu tư công không thuộc nhóm khác) | **DỪNG, không tiếp tục KTCTNT**; CĐT tự QLCL, nghiệm thu và chịu trách nhiệm | **khoản 3 Điều 53 NĐ 207/2026** |
 | Công trình khởi công TỪ 01/7/2026 (kể cả dự án thẩm định trước đó) | QLCL, thi công, nghiệm thu, KTCTNT theo NĐ 207/2026; thiết kế sau TKCS + điều chỉnh theo NĐ 217/2026 | Đ53 NĐ 207 (a contrario); Đ76 NĐ 217 |
 | Loại và CẤP công trình của dự án đã quyết định đầu tư trước 01/7/2026 | Xác định theo pháp luật TẠI THỜI ĐIỂM QUYẾT ĐỊNH ĐẦU TƯ → **TT 06/2021/TT-BXD (sđ TT 02/2025)**, KHÔNG áp TT 34/2026 | khoản 1 Điều 53 NĐ 207/2026 |
 | Dự án quyết định đầu tư từ 01/7/2026 | Cấp công trình theo **TT 34/2026/TT-BXD** | Đ6 Luật 135; TT 34/2026 |

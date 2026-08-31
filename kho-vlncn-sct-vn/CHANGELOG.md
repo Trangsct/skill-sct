@@ -1,5 +1,25 @@
 # CHANGELOG — plugin kho-vlncn-sct-vn
 
+## [1.10.0] - 31/8/2026 — PHÂN LUỒNG 4 trường hợp; công trình tạm được MIỄN KTCTNT
+
+### Thêm
+- **references/11-phan-luong-4-truong-hop.md** — reference mới, GHI ĐÈ mọi phát biểu trái ngược tại ref 03, 04, 06, 08, 09 về diện KTCTNT của kho tạm. Nội dung: cấp công trình kho theo TT 34/2026 mã 1.2.6.8 (không có kho cấp III/IV); kho luôn thuộc Phụ lục IV NĐ 217/2026 mã II.6; phát hiện loại trừ công trình tạm tại khoản 1 Điều 25 NĐ 207/2026 kèm lập luận hai tầng; đối chiếu khoản 1 Điều 24 NĐ 06/2021 (không có loại trừ); chuyển tiếp khoản 3 Điều 53; sơ đồ phân luồng 3 câu hỏi; bảng đối chiếu 4 luồng; căn cứ kiểm định theo NĐ 207/2026; Luồng D thuê kho - gửi kho; 6 điểm không đổi ở cả 4 luồng.
+- SKILL.md anti-error **12** (kiểm tra diện KTCTNT trước khi ra kế hoạch kiểm tra) và **13** (không hợp thức hóa hồ sơ giai đoạn đã qua, không soạn hộ hồ sơ dưới danh nghĩa đơn vị thiết kế/giám sát).
+
+### Sửa
+- SKILL.md mục VI: thay sơ đồ 6 giai đoạn đơn tuyến bằng **BƯỚC 0 phân luồng** + quy trình Luồng A.
+- SKILL.md Nhóm 2 (Xây dựng): bổ sung loại trừ khoản 1 Điều 25 + chuyển tiếp khoản 3 Điều 53 vào mục 9; bổ sung bảng cấp công trình kho vào mục TT 34/2026; anti-error 1 (Đ131 → Đ72), anti-error 2 (Đ23 NĐ 06/2021 → khoản 2 Đ29 NĐ 207/2026).
+- ref 03: nêu rõ chỉ áp dụng LUỒNG A; kho phục vụ thi công chuyển LUỒNG B.
+- ref 04: cảnh báo diện áp dụng ở đầu file; mục I căn cứ tách 2 khung.
+- ref 05: cảnh báo căn cứ kiểm định đã đổi từ 01/7/2026, trỏ ref 11 mục V.
+- ref 08: checklist thêm mục "đã chạy phân luồng chưa".
+- ref 09: viết lại câu 2 (kho tạm miễn 4 nội dung) và câu 3 (4 điều kiện phụ thuộc luồng).
+- **vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/README-BAI-HOC.md**: cảnh báo case rơi vào khoản 3 Điều 53, không dùng làm tiền lệ về diện kiểm tra; giữ giá trị làm mẫu kỹ thuật soạn thảo.
+
+### Cần xác minh
+- TT 10/2021/TT-BXD còn hiệu lực hay đã có TT thay thế theo khoản 6 Điều 8 NĐ 207/2026.
+- Rà soát hồ sơ kho tạm đang thụ lý để áp khoản 3 Điều 53 (dừng KTCTNT).
+
 ## [1.9.0] - 29/8/2026
 Case study thứ hai theo khung NĐ 207/2026: kho VLNCN phục vụ MỎ chì kẽm Háng Chua Xay (Cty CP Toàn Kim Sơn, TB 4566/TB-SCT ngày 30/7/2026) — cặp đối chiếu với kho tạm Đồng Tiến.
 - 6 điểm làm đúng (giám sát thuê ngoài độc lập; KH trước kiểm tra; địa danh chuyển đổi chuẩn; điều khoản mã định danh NĐ 212) và 9 vấn đề rút kinh nghiệm, nặng nhất: 03 kim thu sét đặt TRÊN MÁI kho trái khoản 1.3 PL11 QCVN 01:2019/BCT; không có hệ chống cảm ứng tĩnh điện ≤5Ω (khoản 2.4 PL11); quá thời hạn 12 ngày làm việc (điểm b khoản 4 Điều 27 NĐ 207/2026); biên bản kiểm tra bị sửa 13 ngày sau khi lập; phân loại kho cố định/lưu động chưa chốt (quyết định đầu mục nghiệm thu PCCC).

@@ -1,11 +1,13 @@
 # 03. Quy trình xây dựng kho VLNCN mới — hướng dẫn doanh nghiệp từ A đến Z
 
+⚠ **CHẠY PHÂN LUỒNG TẠI REFERENCE `11` TRƯỚC.** Reference 03 này mô tả **LUỒNG A — kho cố định xây mới, sử dụng lâu dài (mỏ, cơ sở sản xuất)**. Kho tạm phục vụ thi công đi LUỒNG B (miễn GPXD, miễn thông báo khởi công, CĐT tự thẩm định thiết kế, **miễn KTCTNT** theo loại trừ k1 Đ25 NĐ 207/2026); kho hiện hữu đi LUỒNG C (ref 05); không xây kho đi LUỒNG D.
+
 Dùng khi doanh nghiệp hỏi "muốn xây kho VLNCN thì làm gì" hoặc khi Sở soạn công văn hướng dẫn. Trình tự 6 giai đoạn, mỗi giai đoạn có đầu mục hồ sơ hình thành — chính là danh mục hồ sơ Sở sẽ kiểm tra ở giai đoạn 5.
 
 ## GIAI ĐOẠN 1 — CHUẨN BỊ, XÁC ĐỊNH PHÁP LÝ GỐC
 
 1. **Căn cứ nhu cầu hợp pháp** (điểm b khoản 1 Điều 38 Luật 42/2024): GP thăm dò/khai thác khoáng sản; hoặc QĐ chủ trương đầu tư/QĐ phê duyệt dự án + quyết định trúng thầu/hợp đồng nhận thầu thi công. Không có căn cứ này → không nên xây kho (sẽ không cấp được GP sử dụng VLNCN).
-2. **Quyết định loại kho, quy mô**: cố định/lưu động; nổi/nửa ngầm/ngầm; tiêu thụ; sức chứa dự kiến (thuốc nổ, kíp, dây) — đối chiếu trần sức chứa (ref 02 mục II). Kho phục vụ thi công công trình → xác định là **công trình tạm** (Điều 131 Luật XD) và cam kết dỡ bỏ sau khi xong.
+2. **Quyết định loại kho, quy mô**: cố định/lưu động; nổi/nửa ngầm/ngầm; tiêu thụ; sức chứa dự kiến (thuốc nổ, kíp, dây) — đối chiếu trần sức chứa (ref 02 mục II). Kho phục vụ thi công công trình → xác định là **công trình xây dựng tạm** (Điều 72 Luật 135/2025 từ 01/7/2026; Điều 131 Luật XD 2014 với hồ sơ khung cũ) → chuyển sang **LUỒNG B**, ref `11`; cam kết phá dỡ sau khi xong là đầu mục hồ sơ bắt buộc.
 3. **Chọn vị trí — bước quyết định**: tính **khoảng cách an toàn** theo Phụ lục 7 QCVN (truyền nổ, sóng xung kích, PCCC) tới: nhà dân, công trình, đường giao thông, đường điện cao áp (≥30 m thẳng đứng), rừng, kho khác. Khảo sát trong bán kính tối thiểu 300 m, lập biên bản hiện trạng có xác nhận (phục vụ cả PANM sau này). Không đủ khoảng cách → thiết kế **ụ bảo vệ** hoặc đổi vị trí.
 4. **Đất đai**: quyền sử dụng đất/hợp đồng thuê đất/văn bản chấp thuận vị trí trong phạm vi dự án; kho tạm trong ranh dự án đã được duyệt là thuận lợi nhất.
 5. **Môi trường**: kho thuộc phạm vi ĐTM/GPMT của dự án chính (kiểm tra QĐ phê duyệt ĐTM có hạng mục kho chưa; nếu chưa → điều chỉnh) hoặc thủ tục môi trường riêng.

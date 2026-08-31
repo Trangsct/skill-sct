@@ -26,7 +26,13 @@ Công trình tạm phải được phá dỡ khi hết thời gian tồn tại h
 
 ## V. GIAO THOA VỚI KHO VLNCN TẠM
 
-Kho VLNCN tạm là "công trình tạm phục vụ thi công" (điểm a khoản 1 Điều 72), nhưng đồng thời là công trình có yêu cầu kỹ thuật an toàn đặc thù (QCVN 01:2019/BCT) và thuộc diện KTCTNT của SCT.
+⭐ **BỔ SUNG 31/8/2026 — CÔNG TRÌNH TẠM ĐƯỢC MIỄN KTCTNT TỪ 01/7/2026.** Khoản 1 Điều 25 NĐ 207/2026 loại trừ *"các công trình thuộc dự án đầu tư xây dựng công trình đặc thù quy định tại điểm a khoản 1 Điều 69, các điều 70, 71 và **72** Luật Xây dựng số 135/2025/QH15"* khỏi nghĩa vụ KTCTNT. Phần loại trừ đứng trước cụm "bao gồm" nên chi phối cả ba điểm a, b, c. Vậy **công trình tạm được miễn KTCTNT kể cả khi nằm trong Phụ lục IV NĐ 217/2026**. Chi tiết + bảng bốn nhóm loại trừ + chuyển tiếp k3 Đ53: reference `04` mục I.0.
+
+→ **Tổng cộng công trình tạm được miễn 4 nội dung:** (1) giấy phép xây dựng — điểm a khoản 2 Điều 43; (2) gửi thông báo khởi công — khoản 3 Điều 43 loại trừ công trình tạm quy định tại điểm a khoản 2 Điều này; (3) thẩm định thiết kế tại CQCM — CĐT tự thẩm định, phê duyệt theo khoản 2 Điều 72; (4) kiểm tra công tác nghiệm thu — khoản 1 Điều 25 NĐ 207/2026.
+
+⚠ **Điều kiện duy trì:** chỉ đúng khi công trình thực sự phục vụ thi công công trình chính và **được phá dỡ** theo khoản 3 Điều 72. Nếu giữ lại (kể cả theo ngoại lệ "phù hợp quy hoạch" của khoản 3) thì mất tư cách công trình tạm, phải thực hiện thủ tục như công trình thông thường trước khi tiếp tục sử dụng. Cam kết phá dỡ, hoàn trả mặt bằng phải là đầu mục hồ sơ bắt buộc.
+
+Kho VLNCN tạm là "công trình tạm phục vụ thi công" (điểm a khoản 1 Điều 72), đồng thời là công trình có yêu cầu kỹ thuật an toàn đặc thù (QCVN 01:2019/BCT). **Miễn thủ tục hành chính không làm giảm yêu cầu kỹ thuật**: vẫn phải đáp ứng đầy đủ QCVN 01:2019/BCT, thủ tục PCCC, ANTT và là điều kiện cấp GP sử dụng VLNCN. Phân luồng đầy đủ 4 trường hợp kho VLNCN: plugin `kho-vlncn-sct-vn` reference `11-phan-luong-4-truong-hop.md`.
 
 **Điểm khác biệt cần nhất quán trong hồ sơ (bài học từ vụ Ngòi Nhù 1A — plugin `kho-vlncn-sct-vn`):** phải chọn MỘT hướng và giữ nhất quán:
 - Hướng "công trình tạm Đ72": chủ đầu tư tự thẩm định, phê duyệt thiết kế; gửi hồ sơ cho SCT theo dõi; miễn GPXD. SCT vẫn KTCTNT kho theo diện công trình chuyên ngành.

@@ -1,9 +1,11 @@
 # 04. Nghiệp vụ kiểm tra công tác nghiệm thu (KTCTNT) công trình kho VLNCN của Sở Công Thương
 
+⚠ **KIỂM TRA DIỆN ÁP DỤNG TRƯỚC KHI DÙNG REFERENCE NÀY.** Từ 01/7/2026, **công trình xây dựng tạm (Điều 72 Luật 135/2025) KHÔNG thuộc diện KTCTNT** — phần loại trừ tại khoản 1 Điều 25 NĐ 207/2026 đứng trước cụm "bao gồm" nên chi phối cả 3 điểm a, b, c. Kho tạm khởi công trước 01/7/2026 chưa kiểm tra xong thì DỪNG theo khoản 3 Điều 53. Reference 04 chỉ áp dụng cho **LUỒNG A**. Chi tiết + nguyên văn: reference `11` mục II.
+
 ## I. CƠ SỞ THẨM QUYỀN
 - Khoản 5 Điều 19 TT 23/2024 (bản sửa TT 38/2025): UBND cấp tỉnh thực hiện chức năng QLNN về **xây dựng và PCCC** đối với công trình sản xuất, kho chứa VLNCN, tiền chất thuốc nổ → Sở Công Thương là cơ quan chuyên môn giúp việc.
-- Điều 23 NĐ 06/2021 (sửa NĐ 35/2023): kiểm tra công tác nghiệm thu; công trình chỉ được đưa vào khai thác, sử dụng sau khi có **văn bản chấp thuận kết quả nghiệm thu**.
-- Điểm c khoản 2 Điều 89 Luật XD (sửa đổi 2020); Điều 131 (công trình tạm).
+- **Khung hiện hành (từ 01/7/2026)**: khoản 4 Điều 57 Luật 135/2025; Điều 25 (đối tượng, có phần loại trừ công trình tạm), Điều 26 điểm c khoản 1 (thẩm quyền CQCM cấp tỉnh), Điều 27 (nội dung, trình tự), khoản 2 Điều 29 (điều kiện đưa vào khai thác, sử dụng) NĐ 207/2026; Điều 17 QĐ 11/2026/QĐ-UBND.
+- **Khung cũ (chuyển tiếp)**: Điều 23, Điều 24 NĐ 06/2021 (sửa NĐ 35/2023) — lưu ý **khoản 1 Điều 24 NĐ 06/2021 KHÔNG loại trừ công trình tạm**; điểm c khoản 2 Điều 89 Luật XD 2014 (sửa đổi 2020); Điều 131 (công trình tạm).
 - Điểm a khoản 5 Điều 18 Luật 55/2024 + Điều 6 NĐ 105/2025 (phần nghiệm thu PCCC thuộc phạm vi cơ quan chuyên môn về xây dựng: 5 nội dung).
 - QĐ 05/2025/QĐ-UBND (chức năng Sở).
 

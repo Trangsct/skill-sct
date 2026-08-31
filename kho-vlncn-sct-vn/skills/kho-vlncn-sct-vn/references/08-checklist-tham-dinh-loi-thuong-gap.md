@@ -12,7 +12,8 @@
 - [ ] Giấy tờ đất/vị trí kho trong ranh dự án
 
 **B. Tư cách công trình + thiết kế**
-- [ ] Xác định rõ: công trình tạm (Đ131) HAY công trình thuộc diện thẩm định tại CQCM — nhất quán toàn hồ sơ
+- [ ] **Đã chạy phân luồng (ref 11) chưa** — Luồng A/B/C/D; nếu là công trình tạm (Đ72 Luật 135/2025, trước 01/7/2026 là Đ131 Luật XD 2014) thì KHÔNG lập hồ sơ KTCTNT
+- [ ] Xác định rõ tư cách công trình — nhất quán toàn hồ sơ
 - [ ] Hồ sơ thiết kế đầy đủ (thuyết minh, bản vẽ, tính toán, chỉ dẫn kỹ thuật, quy trình bảo trì)
 - [ ] Báo cáo thẩm tra thiết kế của tư vấn độc lập (điều kiện an toàn — bắt buộc với công trình tạm ảnh hưởng lớn an toàn cộng đồng)
 - [ ] QĐ phê duyệt thiết kế của CĐT

@@ -1,4 +1,4 @@
-# Phòng tránh 8 nhóm sai lầm tham mưu (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 10 nhóm sai lầm tham mưu A–J (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -139,6 +139,41 @@ Hai lỗi này không phải lỗi thể thức mà là lỗi **quan hệ với 
 **Phạm vi áp dụng quy tắc 2 (làm rõ 24/7/2026):** cấm câu "liên hệ Phòng ... để được hướng dẫn" áp dụng cho công văn **trả lời/yêu cầu hoàn thiện HỒ SƠ TTHC** của một doanh nghiệp cụ thể (tránh hiểu là hẹn tiếp xúc riêng trong quy trình cấp phép). Với công văn **quản lý ngành gửi nhiều đối tượng** (đôn đốc tiến độ, triển khai quy định, chế độ báo cáo), câu "Khó khăn, vướng mắc phản ánh kịp thời về Sở Công Thương (qua Phòng ...) để được hướng dẫn, giải quyết theo quy định" là bình thường và giữ nguyên — mẫu thật `cong-van-don-doc-tien-do-ha-tang-ccn-bao-cao-hang-tuan.docx` do người dùng ban hành có câu này. Không tự "sửa" câu này khi dùng lại mẫu đôn đốc.
 
 Áp dụng cho MỌI công văn gửi doanh nghiệp, hợp tác xã, hộ kinh doanh — không riêng lĩnh vực nào. Khi dùng lại mẫu thật cũ (`examples/`, `vi-du-thuc-te/` của các plugin chuyên ngành) phải rà và XÓA hai dạng câu trên nếu còn.
+
+### Nhóm J — GIỌNG GIẢI THÍCH LỌT VÀO THÂN VĂN BẢN (Bạn chốt 31/8/2026, vụ công văn hướng dẫn kho VLNCN)
+
+**Cơ chế phát sinh:** khi vừa soạn văn bản vừa viết phần giải thích cho người dùng trong cùng một mạch, giọng giải thích rò sang thân công văn. Lỗi này KHÔNG bị `check_document.py` bắt vì không sai thể thức, không sai căn cứ — chỉ sai **register**. Phải tự soi thủ công trước khi trình ký.
+
+**Tiêu chí một câu (áp cho MỌI câu trong thân văn bản):** mỗi câu phải hoặc (a) nêu quy định, hoặc (b) nêu yêu cầu, hoặc (c) nêu sự việc. Câu nào chỉ **đánh giá mức độ**, **so sánh dễ - khó**, **dẫn dắt tâm lý người đọc** hoặc **giải thích vì sao tôi viết như vậy** → thuộc phần trao đổi với người dùng, KHÔNG thuộc văn bản.
+
+**Danh sách mẫu câu đã mắc thật (J1) — cấm dùng, kèm cách viết lại:**
+
+| Đã viết (SAI register) | Viết lại (ĐÚNG) |
+|---|---|
+| "Đây là luồng đầy đủ nhất" / "Đây là luồng đơn giản nhất" | bỏ hẳn, vào thẳng nội dung quy định |
+| "Đây là nội dung mới, doanh nghiệp cần nắm rõ" | bỏ; nội dung mới tự nó đã nằm trong quy định được dẫn |
+| "Doanh nghiệp lưu ý điểm này để không nhầm rằng kho nhỏ thì được miễn thủ tục" | "Kho vật liệu nổ công nghiệp không thuộc trường hợp được miễn trừ theo quy mô sức chứa" |
+| "Đây chính là nguyên nhân khiến nhiều hồ sơ bị kéo dài" | bỏ |
+| "Được miễn thủ tục hành chính không đồng nghĩa với hạ thấp yêu cầu an toàn" | "Việc miễn các thủ tục nêu trên không làm giảm yêu cầu về an toàn đối với công trình" |
+| "Việc liên hệ sớm giúp rút ngắn đáng kể thời gian hoàn thiện hồ sơ và tránh phải làm lại" | "…để được hướng dẫn cụ thể theo từng trường hợp" |
+| "công cụ pháp lý **đúng** là kiểm định" | "công cụ pháp lý **áp dụng** là kiểm định" |
+| "nhiều nội dung đơn giản hóa **đáng kể** cho doanh nghiệp" | "nhiều nội dung cắt giảm, đơn giản hóa thủ tục hành chính" |
+| "Điểm doanh nghiệp cần **đặc biệt** lưu ý: …" | nêu thẳng yêu cầu, bỏ phần dẫn |
+| "Trường hợp này không thực hiện được … **vì thiếu hồ sơ gốc**" | "Trường hợp này không đủ căn cứ để thực hiện …" |
+
+**J2 — Đề mục dạng hỏi đáp:** không dùng "Câu hỏi 1: … ?" / "Nếu … thì chọn …" làm đề mục trong VBHC. Chuyển sang dạng xác định: "1. Xác định có bắt buộc … hay không." + "Trường hợp …, áp dụng …". Sơ đồ phân luồng, cây quyết định vẫn dùng được nhưng phải ở giọng xác định.
+
+**J3 — Từ định lượng cảm tính:** cấm "đáng kể", "rất nhiều", "khá", "tương đối", "hơi", "cực kỳ", "vô cùng", "dễ dàng", "nhanh chóng" khi không có số liệu kèm theo. Có số thì ghi số.
+
+**J4 — Câu meta về chính văn bản:** không viết "như đã nêu ở trên anh/chị thấy…", "phần này quan trọng nhất", "để dễ hiểu, có thể hình dung…". Dẫn chiếu nội bộ chỉ dùng dạng trung tính: "theo hướng dẫn tại điểm 2 mục I nêu trên".
+
+**J5 — Ngoại lệ hợp lệ:** phần "Nguyên nhân chủ yếu là…", "Thời gian qua…" ở đoạn mở đầu công văn là văn phong hành chính chuẩn, KHÔNG thuộc nhóm J. Ranh giới: nêu bối cảnh và nguyên nhân khách quan thì được; đánh giá mức độ dễ - khó của thủ tục hoặc dẫn dắt cảm xúc thì không.
+
+**Cách QA:** sau khi build, chạy `qa_all.py` với `--forbid` cho các cụm hay tái phát:
+```
+--forbid "Đây là" --forbid "cần nắm rõ" --forbid "đáng kể" --forbid "không đồng nghĩa" --forbid "Câu hỏi 1"
+```
+Rồi đọc lại toàn văn một lượt riêng chỉ để soi register, không soi nội dung.
 
 ### Checklist bắt buộc trước khi trình tham mưu
 ```

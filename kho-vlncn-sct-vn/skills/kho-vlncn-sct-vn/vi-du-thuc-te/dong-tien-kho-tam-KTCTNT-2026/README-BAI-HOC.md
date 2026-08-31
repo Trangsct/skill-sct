@@ -1,6 +1,8 @@
 # Case study: KTCTNT kho VLNCN tạm Đồng Tiến — gói thầu SFD-XL03 đường Khánh Hòa - Văn Yên (Phòng QLCN, 8/2026)
 
-Hồ sơ kiểm tra công tác nghiệm thu hoàn thành **kho VLNCN tạm phục vụ thi công** (container 3.000 kg thuốc nổ + 10.000 kíp, xã Đông Cuông) do chính Phòng QLCN thực hiện. Về tổng thể đây là **hồ sơ TỐT, dùng làm tiền lệ chính cho kho tạm theo khung mới sau 01/7/2026** — kèm 6 điểm rút kinh nghiệm ở mục 3. Rà soát 29/8/2026, đã đối chiếu văn bản gốc.
+Hồ sơ kiểm tra công tác nghiệm thu hoàn thành **kho VLNCN tạm phục vụ thi công** (container 3.000 kg thuốc nổ + 10.000 kíp, xã Đông Cuông) do chính Phòng QLCN thực hiện. Về kỹ thuật soạn thảo đây là **hồ sơ TỐT** — kèm 6 điểm rút kinh nghiệm ở mục 3.
+
+⚠ **CẢNH BÁO BỔ SUNG 31/8/2026 — KHÔNG dùng case này làm tiền lệ về DIỆN kiểm tra.** Rà soát lại bản gốc NĐ 207/2026 cho thấy công trình xây dựng tạm (Điều 72 Luật 135/2025) đã được **loại trừ khỏi nghĩa vụ KTCTNT** tại phần mở đầu khoản 1 Điều 25, và khoản 3 Điều 53 quy định công trình khởi công trước 01/7/2026 thuộc diện KTCTNT theo NĐ 06/2021 nhưng không thuộc diện theo NĐ 207/2026 thì **không tiếp tục thực hiện việc kiểm tra**. Kho Đồng Tiến khởi công trước 01/7/2026, báo cáo hoàn thành 10/8/2026 → rơi đúng vào khoản 3 Điều 53. Việc Sở đã kiểm tra không gây thiệt hại cho DN và TB 5088/TB-SCT vẫn là văn bản hợp lệ, nhưng **hồ sơ kho tạm phát sinh từ nay không lập KTCTNT nữa**. Xem reference `11-phan-luong-4-truong-hop.md` mục II. Case này vẫn giữ nguyên giá trị làm mẫu về: nhất quán tư cách công trình, biểu thông số kèm TB, điều khoản giới hạn trách nhiệm và điều khoản "đóng băng" khi thay đổi.
 
 ## 1. Dòng thời gian và tư cách công trình
 

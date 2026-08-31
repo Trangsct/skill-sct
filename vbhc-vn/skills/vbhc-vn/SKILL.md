@@ -17,7 +17,7 @@ Skill có **2 chế độ làm việc** (xem mục "Hai chế độ làm việc"
 SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc đúng file khi cần, để tiết kiệm ngữ cảnh):
 - `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
 - `reference/thu-vien-mau-that.md` — 23 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
-- `reference/phong-tranh-sai-lam.md` — chi tiết 9 nhóm sai lầm A–I + checklist + vụ thật (Nhóm K cũ đã hợp nhất vào H = H6–H11; trHeight = H12).
+- `reference/phong-tranh-sai-lam.md` — chi tiết 10 nhóm sai lầm A–J + checklist + vụ thật (Nhóm K cũ đã hợp nhất vào H = H6–H11; trHeight = H12; **Nhóm J MỚI 31/8/2026 — giọng giải thích lọt vào thân văn bản**).
 - `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
 - `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
 - `reference/cong-cu-ky-thuat.md` — công thức kỹ thuật ĐÃ KIỂM CHỨNG (giải nén RAR/RAR5 tên tiếng Việt, OCR PDF scan/chữ ký số, sửa docx đa run, QA render) — đọc TRƯỚC khi xử lý file nén/PDF scan/sửa XML, không mò lại từ đầu.
@@ -41,7 +41,7 @@ Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** c�
 
 Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `QĐ-SCT`, `GP-SCT`, `GCNATTP-SCTLC`.
 
-**Luôn áp dụng mục "Phòng tránh 9 nhóm sai lầm tham mưu (A–I)"** (đã hợp nhất từ `anti-error-sct-vn`) ở cuối skill này: tránh bịa số văn bản, suy diễn nhiệm vụ, dùng từ suy đoán trong bản trình ký, dùng VBPL hết hiệu lực, tin context window với PDF; và **Nhóm I - văn phong công văn gửi doanh nghiệp**: không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm, không viết "đề nghị liên hệ Phòng ... để được hướng dẫn"; **Nhóm H** còn bao bố cục trang khi lắp ghép (keepNext chỉ cho đề mục, bold sau clone, đệm header/khối ký — Nhóm K cũ). Xem mục "Đọc PDF văn bản đến" (đã hợp nhất từ vbhc-pdf-reader-vn — xác minh số/ngày từ PDF công văn đến). Đối chiếu nội dung chuyên môn với `kcn-ccn-vn`/`hnh-sct-vn`.
+**Luôn áp dụng mục "Phòng tránh 10 nhóm sai lầm tham mưu (A–J)"** (đã hợp nhất từ `anti-error-sct-vn`) ở cuối skill này: tránh bịa số văn bản, suy diễn nhiệm vụ, dùng từ suy đoán trong bản trình ký, dùng VBPL hết hiệu lực, tin context window với PDF; và **Nhóm I - văn phong công văn gửi doanh nghiệp**: không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm, không viết "đề nghị liên hệ Phòng ... để được hướng dẫn"; **Nhóm J - giọng giải thích lọt vào thân văn bản**: mỗi câu trong VBHC phải nêu quy định, nêu yêu cầu hoặc nêu sự việc; câu đánh giá mức độ ("đây là luồng đơn giản nhất", "cần nắm rõ", "đáng kể"), so sánh dễ - khó, hoặc dẫn dắt tâm lý người đọc thuộc phần trao đổi với người dùng, KHÔNG thuộc văn bản; đề mục không dùng dạng hỏi đáp. **Nhóm H** còn bao bố cục trang khi lắp ghép (keepNext chỉ cho đề mục, bold sau clone, đệm header/khối ký — Nhóm K cũ). Xem mục "Đọc PDF văn bản đến" (đã hợp nhất từ vbhc-pdf-reader-vn — xác minh số/ngày từ PDF công văn đến). Đối chiếu nội dung chuyên môn với `kcn-ccn-vn`/`hnh-sct-vn`.
 
 ## Thể thức, văn phong và rà soát (quy ước cố định của Bạn — hợp nhất từ bộ nhớ)
 
@@ -256,7 +256,7 @@ Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Ch�
 ## Công thức & checklist thực chiến
 Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, lặp dòng tiêu đề, nền trắng), đồng bộ chéo Báo cáo↔Phụ lục↔VP UBND, toàn vẹn số liệu/metadata, mã người soạn dòng "Lưu" — đọc khi dựng biểu hoặc đồng bộ nhiều file: **`reference/cong-thuc-thuc-chien.md`**.
 
-## Phòng tránh 9 nhóm sai lầm tham mưu A–I (luôn áp dụng)
+## Phòng tránh 10 nhóm sai lầm tham mưu A–J (luôn áp dụng)
 Áp dụng cho mọi việc soạn/rà soát/góp ý/tham mưu (không chỉ tạo .docx). Tóm tắt dưới đây; checklist đầy đủ + `scripts/check_document.py` + các vụ thật ở **`reference/phong-tranh-sai-lam.md`**.
 - **A — Pháp lý:** không điền số/ngày văn bản hay nội dung điều/khoản từ trí nhớ; phải có nguồn hoặc tra cứu, chưa rõ thì ghi "[cần xác minh]". *Vì sai một số văn bản trong tờ trình/phát biểu của Lãnh đạo gây hậu quả nặng.*
 - **B — Nhiệm vụ:** mỗi nhiệm vụ đề xuất Sở làm phải truy ngược về 1 câu chỉ đạo / 1 điều khoản / 1 chức năng của Sở (quy tắc 1-1-1); không suy diễn ngoài văn bản chỉ đạo.

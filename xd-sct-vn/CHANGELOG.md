@@ -1,5 +1,16 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.5.0] - 31/8/2026 — NHÓM LOẠI TRỪ khỏi KTCTNT và chuyển tiếp khoản 3 Điều 53
+
+### Thêm
+- **ref 04 mục I.0 MỚI** — nhóm loại trừ đọc trước: nguyên văn khoản 1 Điều 25 NĐ 207/2026, bảng 4 nhóm được loại trừ (điểm a khoản 1 Điều 69 bí mật nhà nước; Điều 70 khẩn cấp - cấp bách; Điều 71 đầu tư công đặc biệt; **Điều 72 công trình xây dựng tạm**), cách đọc phần loại trừ đứng trước cụm "bao gồm" nên chi phối cả ba điểm a, b, c; đối chiếu khoản 1 Điều 24 NĐ 06/2021 không có loại trừ và có tiêu chí vốn đầu tư công đã bị bỏ; nguyên văn khoản 3 Điều 53.
+- SKILL.md anti-error **13** — kiểm tra nhóm loại trừ trước khi kết luận công trình thuộc diện KTCTNT.
+
+### Sửa
+- **ref 06 mục V** — công trình tạm được miễn **4 nội dung** (GPXD điểm a khoản 2 Điều 43; thông báo khởi công khoản 3 Điều 43; thẩm định thiết kế khoản 2 Điều 72; KTCTNT khoản 1 Điều 25 NĐ 207/2026); điều kiện duy trì tư cách công trình tạm theo khoản 3 Điều 72; bỏ khẳng định cũ "kho VLNCN tạm thuộc diện KTCTNT của SCT".
+- **ref 11** — thêm dòng bảng quyết định: khởi công trước 01/7/2026, thuộc diện theo NĐ 06/2021 nhưng không thuộc diện theo NĐ 207/2026 thì DỪNG, không kiểm tra tiếp.
+- SKILL.md dòng kích hoạt KTCTNT trỏ ref 04 mục I.0.
+
 ## [1.4.0] - 29/8/2026
 - Nạp văn bản gốc Bạn cung cấp vào `van-ban-goc/` (đã GATE nội dung, đối chiếu khớp các trích dẫn trong SKILL + ref 11):
   - `ND-212-2026-dieu-kien-nang-luc-HDXD-CSDL-quoc-gia.docx` — NĐ 212/2026/NĐ-CP ngày 17/6/2026, ký PTT Phạm Gia Túc; xác minh nguyên văn k4 Đ22, Đ28, Đ38, Đ41, Đ55.

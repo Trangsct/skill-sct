@@ -1,5 +1,36 @@
 # Nhật ký thay đổi bộ skill
 
+## 31/8/2026 — kho-vlncn-sct-vn v1.10.0 + xd-sct-vn v1.5.0 + vbhc-vn v2.11.0: CÔNG TRÌNH TẠM ĐƯỢC MIỄN KTCTNT + phân luồng 4 trường hợp + Nhóm J văn phong
+
+Bạn cung cấp bản gốc **Luật 135/2025, NĐ 207/2026, NĐ 217/2026, NĐ 140/2025 và NĐ 06/2021** để đối chiếu trực tiếp. Kết quả làm thay đổi một kết luận nghiệp vụ đang dùng trong skill.
+
+**Phát hiện then chốt — công trình tạm được loại trừ khỏi KTCTNT từ 01/7/2026.** Khoản 1 Điều 25 NĐ 207/2026 loại trừ *"các công trình thuộc dự án đầu tư xây dựng công trình đặc thù quy định tại điểm a khoản 1 Điều 69, các điều 70, 71 và 72 Luật Xây dựng số 135/2025/QH15"* — Điều 72 là công trình xây dựng tạm. Phần loại trừ đứng TRƯỚC cụm "bao gồm" nên chi phối cả ba điểm a, b, c. Kho tạm vẫn thuộc Phụ lục IV NĐ 217/2026 (mã II.6 công trình hóa chất, cấp II trở lên) nhưng vẫn được miễn — **phải viết lập luận hai tầng này thành văn**.
+
+**Đối chiếu khung cũ:** khoản 1 Điều 24 NĐ 06/2021 KHÔNG có nhóm loại trừ nào và còn có tiêu chí "vốn đầu tư công" (đã bị NĐ 207/2026 bỏ) → các vụ Nậm Cang 1A, Móng Sến 1, Ngòi Nhù 1A KTCTNT theo khung cũ là ĐÚNG, không phải làm thừa. Dùng được để trả lời thanh tra.
+
+**Chuyển tiếp khoản 3 Điều 53 NĐ 207/2026:** công trình khởi công trước 01/7/2026 thuộc diện KTCTNT theo NĐ 06/2021 nhưng không thuộc diện theo NĐ 207/2026 thì **không tiếp tục thực hiện việc kiểm tra**; CĐT tự nghiệm thu và chịu trách nhiệm. → Phòng QLCN rà lại hồ sơ kho tạm đang thụ lý. Đã bổ sung cảnh báo vào case Đồng Tiến (TB 5088/TB-SCT 20/8/2026): case rơi đúng vào khoản 3 Điều 53, giữ giá trị làm mẫu về kỹ thuật soạn thảo nhưng **không dùng làm tiền lệ về diện kiểm tra**.
+
+**Cấp công trình kho VLNCN (TT 34/2026/TT-BXD mã 1.2.6.8):** kho hầm lò/ngầm cấp I mọi quy mô; kho cố định nổi và nửa ngầm >10 tấn cấp I, ≤10 tấn cấp II; kho lưu động cấp II mọi quy mô. **Không có kho cấp III/IV** → không tồn tại lập luận "kho nhỏ nên được miễn".
+
+**kho-vlncn-sct-vn v1.10.0:**
+- **reference 11 MỚI** `11-phan-luong-4-truong-hop.md`: 2 kết luận nền (cấp công trình, Phụ lục IV), phát hiện loại trừ + lập luận hai tầng + đối chiếu NĐ 06/2021 + chuyển tiếp Đ53, sơ đồ phân luồng 3 câu hỏi, bảng đối chiếu 4 luồng, căn cứ kiểm định theo NĐ 207/2026 thay NĐ 06/2021 + TT 10/2021, Luồng D thuê kho - gửi kho, 6 điểm không đổi ở cả 4 luồng, việc cần xác minh tiếp.
+- SKILL.md: mục VI viết lại thành PHÂN LUỒNG + quy trình Luồng A; Nhóm 2 bổ sung loại trừ Đ25 và cấp công trình TT 34/2026; anti-error **12** (kiểm tra diện KTCTNT trước khi ra kế hoạch) và **13** (không hợp thức hóa hồ sơ giai đoạn đã qua); dòng kích hoạt phân luồng.
+- ref 03 (chỉ áp Luồng A, Đ131 → Đ72), ref 04 (cảnh báo diện áp dụng + căn cứ 2 khung), ref 05 (căn cứ kiểm định đã đổi), ref 08 (checklist phân luồng), ref 09 (câu 2 và 3 viết lại theo khung mới).
+
+**xd-sct-vn v1.5.0:**
+- ref 04 mục **I.0 MỚI**: bảng 4 nhóm loại trừ khỏi KTCTNT, nguyên văn khoản 1 Điều 25, cách đọc, đối chiếu NĐ 06/2021, nguyên văn khoản 3 Điều 53.
+- ref 06 mục V: công trình tạm miễn **4 nội dung** (GPXD, thông báo khởi công, thẩm định thiết kế, KTCTNT) + điều kiện duy trì tư cách công trình tạm theo khoản 3 Điều 72.
+- ref 11: thêm 1 dòng bảng quyết định cho trường hợp dừng KTCTNT theo khoản 3 Điều 53.
+- SKILL.md: anti-error **13**, dòng kích hoạt KTCTNT trỏ mục I.0.
+
+**vbhc-vn v2.11.0 — Nhóm J MỚI: giọng giải thích lọt vào thân văn bản.** Bạn phát hiện lỗi tái phát qua câu *"Doanh nghiệp lưu ý điểm này để không nhầm rằng kho nhỏ thì được miễn thủ tục"*. Cơ chế: vừa soạn văn bản vừa viết phần giải thích cho người dùng trong cùng một mạch nên register bị rò. `check_document.py` không bắt được vì không sai thể thức, không sai căn cứ.
+- Tiêu chí một câu: mỗi câu trong thân VBHC phải nêu **quy định**, nêu **yêu cầu** hoặc nêu **sự việc**; câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → thuộc phần trao đổi, không thuộc văn bản.
+- J1: bảng 10 mẫu câu đã mắc thật kèm cách viết lại. J2: đề mục không dùng dạng hỏi đáp. J3: cấm từ định lượng cảm tính không kèm số. J4: cấm câu meta về chính văn bản. J5: ranh giới ngoại lệ (nêu bối cảnh, nguyên nhân khách quan ở đoạn mở đầu vẫn hợp lệ).
+- Cách QA: `qa_all.py --forbid "Đây là" --forbid "cần nắm rõ" --forbid "đáng kể" --forbid "không đồng nghĩa"` rồi đọc lại một lượt riêng chỉ soi register.
+- SKILL.md: đổi 9 nhóm A–I thành **10 nhóm A–J** ở 3 vị trí; tóm tắt Nhóm J vào mục "Luôn áp dụng".
+
+**Cần xác minh tiếp:** TT 10/2021/TT-BXD còn hiệu lực hay đã có TT thay thế theo khoản 6 Điều 8 NĐ 207/2026 (tạm thời viết "theo quy định của Bộ trưởng Bộ Xây dựng", không dẫn số hiệu).
+
 ## 30/8/2026 — attp-sct-vn v1.5.0: GỠ GATE ủy quyền (QĐ 68/QĐ-UBND 09/01/2026) + cấp lại GCN + đăng tải tự công bố
 Bạn cung cấp 04 bộ hồ sơ thật: QĐ thành lập Đoàn thẩm định WINMART+ LCI 29 (8/2026), công văn đăng tải 55 sản phẩm tự công bố Bảo Khang (28/8/2026), trọn bộ 07 file cấp lại GCN Hiếu Hưng, hồ sơ TAKOKO.
 - **GỠ GATE treo từ v1.0**: căn cứ ủy quyền 2026 là **QĐ 68/QĐ-UBND ngày 09/01/2026** (ủy quyền Giám đốc SCT lĩnh vực thương mại và ATTP), thay vai trò QĐ 904/QĐ-UBND đã hết hạn 31/12/2025.

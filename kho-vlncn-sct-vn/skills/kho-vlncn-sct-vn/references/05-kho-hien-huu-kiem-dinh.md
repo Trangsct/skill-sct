@@ -11,7 +11,9 @@ Doanh nghiệp có kho VLNCN:
 
 → Không thể yêu cầu "nghiệm thu lại" công trình đã dùng gần 20 năm; công cụ pháp lý đúng là **KIỂM ĐỊNH, ĐÁNH GIÁ CHẤT LƯỢNG HIỆN TRẠNG CÔNG TRÌNH**.
 
-## II. CĂN CỨ PHÁP LÝ CỦA GIẢI PHÁP KIỂM ĐỊNH (lập luận đã dùng tại CV 2826)
+⚠ **CĂN CỨ ĐÃ ĐỔI TỪ 01/7/2026.** Chuỗi căn cứ NĐ 06/2021 + TT 10/2021 dưới đây là **khung cũ**, chỉ dùng khi đối chiếu hồ sơ đã tiếp nhận trước 01/7/2026. Việc kiểm định thực hiện ở thời điểm hiện tại phải dùng **NĐ 207/2026**: khoản 8 Điều 2 (định nghĩa), điểm c + điểm đ khoản 5 Điều 36 (trường hợp kiểm định phục vụ bảo trì), khoản 3 Điều 34 (quy trình bảo trì cho công trình đã dùng mà chưa có), điểm đ khoản 2 + khoản 5 + khoản 6 Điều 8, Điều 40-41 (đánh giá an toàn). Chi tiết: reference `11` mục V.
+
+## II. CĂN CỨ PHÁP LÝ CỦA GIẢI PHÁP KIỂM ĐỊNH (lập luận đã dùng tại CV 2826 — KHUNG CŨ)
 
 1. Điểm đ khoản 1 Điều 39 Luật 42/2024, **sửa đổi bởi khoản 6 Điều 9 Luật 118/2025/QH15 ngày 10/12/2025**: hồ sơ cấp GP sử dụng phải có văn bản nghiệm thu PCCC/văn bản chấp thuận kết quả nghiệm thu PCCC đối với kho cố định **và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật** → Sở có quyền yêu cầu tài liệu minh chứng điều kiện an toàn.
 2. Khoản 13 Điều 2 NĐ 06/2021: bảo trì bao gồm **kiểm định chất lượng**.

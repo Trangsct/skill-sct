@@ -5,10 +5,10 @@ Nghiệp vụ: `hnh-sct-vn/04, 05, 12`. Định tuyến chế tài: `references/
 | Nội dung | Căn cứ | Xem | Hành vi nếu vi phạm | Xử |
 |---|---|---|---|---|
 | Giấy phép vận chuyển HHNH của Sở: còn hiệu lực; đúng loại/nhóm, tên hàng, tuyến, phương tiện, lái xe | NĐ 161/2024 | GP + phụ lục; hợp đồng vận chuyển thực tế | Hoạt động không đúng GP → **thu hồi GP** (điểm b k1 Đ17 NĐ 161); vận chuyển không GP → NĐ 168/2024 k5 Đ23 (lái xe 12–14 tr) + điều chủ xe ⚠️ | Sở: thu hồi; CHUYỂN CSGT |
-| Phương tiện: đăng kiểm còn hạn; phù hợp loại HHNH; biểu trưng, báo hiệu nguy hiểm đúng Phụ lục III NĐ 161; đã bóc khi không chở | NĐ 161 Đ7 | Xe tại bãi; ảnh | NĐ 168/2024 Đ23 ⚠️ khoản | CHUYỂN CSGT |
-| Lái xe: GPLX phù hợp; GCN tập huấn an toàn HHNH đúng loại/nhóm, còn hạn | NĐ 161 | GCN; danh sách lái xe theo GP | NĐ 168/2024 Đ23 ⚠️ | CHUYỂN CSGT; xem xét thu hồi GP |
-| Người áp tải (khi bắt buộc): có; GCN tập huấn; PTBVCN | NĐ 161 | GCN; lệnh điều động | NĐ 168/2024 ⚠️ | CHUYỂN |
-| Hồ sơ vận chuyển 04 bộ (giấy gửi hàng đủ nội dung); giấy vận tải; lưu hồ sơ | NĐ 161 Đ28–30; Luật Đường bộ 35/2024 | Hồ sơ từng chuyến (lấy mẫu 5–10 chuyến trong thời kỳ) | NĐ 168/2024 ⚠️ | CHUYỂN |
+| Phương tiện: đăng kiểm còn hạn; phù hợp loại HHNH; biểu trưng, báo hiệu nguy hiểm đúng Phụ lục III NĐ 161; đã bóc khi không chở | NĐ 161 Đ7 | Xe tại bãi; ảnh | Không dán biểu trưng/đèn cảnh báo: k3 Đ23 (4–6 tr, trừ 2 điểm); không bóc biểu trưng: k1 Đ23 lái xe 1–2 tr / điểm e k2 Đ26 đơn vị 2–4 tr TC | CHUYỂN CSGT |
+| Lái xe: GPLX phù hợp; GCN tập huấn an toàn HHNH đúng loại/nhóm, còn hạn | NĐ 161 | GCN; danh sách lái xe theo GP | Đơn vị dùng lái xe không tập huấn: điểm d k4 Đ26 (6–8 tr TC); lái xe không mang GCN: k2 Đ23 (2–3 tr) | CHUYỂN CSGT; xem xét thu hồi GP |
+| Người áp tải (khi bắt buộc): có; GCN tập huấn; PTBVCN | NĐ 161 | GCN; lệnh điều động | Không bố trí áp tải: điểm d k2 Đ26 NĐ 168 (2–4 tr TC); áp tải không tập huấn: điểm d k4 Đ26 (6–8 tr TC) | CHUYỂN CSGT (Sở không lập BB — Đ46) |
+| Hồ sơ vận chuyển 04 bộ (giấy gửi hàng đủ nội dung); giấy vận tải; lưu hồ sơ | NĐ 161 Đ28–30; Luật Đường bộ 35/2024 | Hồ sơ từng chuyến (lấy mẫu 5–10 chuyến trong thời kỳ) | Lái xe không mang hồ sơ: k2 Đ23 (2–3 tr) | CHUYỂN |
 | Phương án ứng cứu khẩn cấp; thông báo hướng dẫn xử lý sự cố của người thuê vận tải | NĐ 161 | Văn bản | NĐ 168 ⚠️ / hóa chất: NĐ 275 Đ31–37 | Tách hành vi |
 | Hóa chất (loại 2, 3, 4, 5, 8, 9): SDS tiếng Việt theo xe; nhãn, bao bì, ISO tank/bồn đúng quy chuẩn; huấn luyện ATHC nhóm 2, 3 cho lái xe, áp tải; kế hoạch/biện pháp ứng phó sự cố hóa chất | Luật 69/2025; NĐ 24/2026 | SDS; GCN huấn luyện; QĐ phê duyệt | **NĐ 275/2026 Đ34, Đ31–37, Đ29–30** | **XỬ** |
 | Hàng cháy nổ (loại 1–5 dễ cháy): giấy phép vận chuyển hàng nguy hiểm về cháy nổ của Công an; bình chữa cháy trên xe | Luật 55/2024 | GP Công an | NĐ 106/2025 ⚠️ | CHUYỂN Cảnh sát PCCC |

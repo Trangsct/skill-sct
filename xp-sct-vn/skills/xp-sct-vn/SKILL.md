@@ -20,6 +20,7 @@ Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + 
 | Kho VLNCN, thiết kế kho: đứng trước tồn tại X → điểm-khoản-điều nào, bẫy tố tụng | `references/05-kho-vlncn-thiet-ke-hanh-vi.md` |
 | Khoáng sản, môi trường: nhận diện – chuyển hồ sơ; cách viết công văn chuyển; tiền lệ KL 45, KL 48 | `references/06-khoang-san-moi-truong-chuyen-ho-so.md` |
 | ATTP, ATVSLĐ, điện lực, xăng dầu – LPG, thương mại/QLTT | `references/07-attp-atvsld-dien-xangdau.md` |
+| **Ai phạt đến bao nhiêu** theo chức danh (NĐ 189/2025 + 311/2026 bản gốc): xã 50%, GĐ sở 80%, QLTT 30/50%; Điều 21 chuyển tiếp; Trưởng đoàn kiểm tra của Sở không có thẩm quyền | `references/08-tham-quyen-chuc-danh-nd189-nd311.md` |
 | Tra nhanh 18 lĩnh vực → nghị định → thời hiệu → ai phạt → XỬ/CHUYỂN; việc còn nợ | `references/90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md` |
 | Soạn văn bản: QĐ kiểm tra, KH, TB, BB công bố, BB kiểm tra, BB VPHC, QĐ-XPHC, BC kết quả, CV chuyển hồ sơ, TTr UBND tỉnh, QĐ tạm dừng/đình chỉ, BC thực hiện KLTT | `mau-van-ban/00-README-quy-uoc.md` → mẫu 01–12 |
 | Khung kiểm tra theo lĩnh vực (nội dung – căn cứ – hành vi – XỬ/CHUYỂN) | `checklists/00-README.md` → 01–08 |
@@ -30,12 +31,13 @@ Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + 
 
 1. **Luật XLVPHC** 15/2012 (sđ Luật 67/2020, **Luật 88/2025** — hiệu lực 01/7/2025; VBHN 63/VBHN-VPQH 2025). Viện dẫn: *"Luật Xử lý vi phạm hành chính (sửa đổi, bổ sung năm 2020 và năm 2025)"*.
 2. **NĐ 118/2021** (sđ NĐ 68/2025, NĐ 190/2025) — mẫu biên bản số 01, mẫu quyết định số 02, xử phạt điện tử.
-3. **NĐ 189/2025** (thẩm quyền: GĐ Sở = 80% mức tối đa lĩnh vực) **sửa bởi NĐ 311/2026 ngày 06/8/2026 — hiệu lực 26/9/2026** (thêm Chánh Thanh tra tỉnh cùng nhóm GĐ Sở; Trưởng đoàn kiểm tra của tổ chức thuộc bộ) — ⚠️ bản gốc PDF ảnh, chưa OCR; không dẫn NĐ 311 trong QĐ ký trước 26/9/2026.
+3. **NĐ 189/2025** (bản gốc `van-ban-goc/chung/`): Chủ tịch xã 50%, **GĐ sở 80%**, tỉnh 100%; Điều 21 chuyển tiếp thay mức cũ; **sửa bởi NĐ 311/2026 ngày 06/8/2026 — hiệu lực 26/9/2026** (Chánh Thanh tra tỉnh cùng nhóm GĐ sở; không dẫn NĐ 311 trong QĐ ký trước 26/9/2026) — `references/08`.
 4. **NĐ 217/2025 + TT 56/2025/TT-BCT** — kiểm tra chuyên ngành; **TT 56 chỉ có 01 mẫu biên bản (Mẫu 05)**.
 5. **NĐ 275/2026** (hóa chất + VLNCN, hiệu lực 25/8/2026; NĐ 71/2019 cho hành vi kết thúc trước mốc) — bản gốc trong `van-ban-goc/`; GĐ Sở đích danh Đ63.
 6. **NĐ 106/2025** (PCCC, hiệu lực 01/7/2025) — bản gốc `van-ban-goc/pccc/`, bảng hành vi ref 04 mục B.
-7. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 168/2024; NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.
-8. **QĐ 05/2025/QĐ-UBND** (chức năng Sở); **QĐ 1094/QĐ-SCT 09/3/2026** (giao quyền xử phạt PGĐ).
+7. **Đã có bản gốc, đối chiếu xong**: NĐ 168/2024 (giao thông — Sở không lập BB, Đ46); NĐ 283/2026 (lao động — **hiệu lực 10/9/2026**, trước đó NĐ 12/2022; Sở không lập BB, Đ54); NĐ 115/2018 (ATTP — công chức Sở lập BB k2 Đ27; "Chánh TT Sở CT" 50 tr → GĐ Sở 80 tr theo k2 Đ21 NĐ 189).
+8. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.
+9. **QĐ 05/2025/QĐ-UBND** (chức năng Sở); **QĐ 1094/QĐ-SCT 09/3/2026** (giao quyền xử phạt PGĐ).
 
 ## III. QUY TẮC CHỐT (không suy đoán lại)
 
@@ -82,9 +84,9 @@ xp-sct-vn/skills/xp-sct-vn/
 │   ├── 01-vlncn-hoachat/ (01–07 kế thừa xp-hc-vlncn-sct-vn v1.6.0; 07 = quy trình kiểm tra dùng chung)
 │   ├── 02-hhnh-van-chuyen.md · 03-ccn-dau-tu-xay-dung-dat-dai.md · 04-pccc-nganh-cong-thuong.md
 │   ├── 05-kho-vlncn-thiet-ke-hanh-vi.md · 06-khoang-san-moi-truong-chuyen-ho-so.md
-│   ├── 07-attp-atvsld-dien-xangdau.md · 90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md
+│   ├── 07-attp-atvsld-dien-xangdau.md · 08-tham-quyen-chuc-danh-nd189-nd311.md · 90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md
 ├── mau-van-ban/ 00-README + 01–12
 ├── checklists/ 00-README + 01–08
 ├── vi-du-thuc-te/ (Khí công nghiệp mẫu thật 7 file; HCM Tây Bắc 10 file; KL 45 Viglacera; KH PGĐ duyệt)
-└── van-ban-goc/ (NĐ 275/2026, NĐ 282/2025, TT 56/2025, VBHN 78/2026, pccc/NĐ 106/2025 + INDEX)
+└── van-ban-goc/ (NĐ 275/2026, NĐ 282/2025, TT 56/2025, VBHN 78/2026; chung/ NĐ 189/2025 + 311/2026; pccc/ NĐ 106/2025; giao-thong/ NĐ 168/2024; lao-dong/ NĐ 283/2026; attp/ NĐ 115/2018 + INDEX)
 ```

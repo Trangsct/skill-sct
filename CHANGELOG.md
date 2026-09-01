@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.1.0: 5 bản gốc NĐ 189/2025, 311/2026, 168/2024, 283/2026, 115/2018 — sửa 4 nhận định sai về thẩm quyền
+
+Đối chiếu nguyên văn: Chủ tịch xã **50%** (không phải 10%), GĐ sở 80%, QLTT 30/50%; **Điều 21 NĐ 189** thay mức cũ và chuyển "Chánh Thanh tra Sở" → Giám đốc Sở; NĐ 311 giảm Trưởng đoàn kiểm tra tổ chức thuộc bộ xuống 50%, không có Trưởng đoàn cấp Sở. **NĐ 283/2026 hiệu lực 10/9/2026** (trước đó NĐ 12/2022), Sở CT không lập được biên bản lao động (Đ54). NĐ 168/2024 Đ26 phạt đơn vị vận tải; Đ46 Sở không lập biên bản giao thông. NĐ 115/2018 k2 Đ27 công chức ngành CT lập biên bản ATTP; GĐ Sở xử theo k2 Đ21 NĐ 189 (80/160 tr). Reference 08 mới về thẩm quyền chức danh; bảng G ref 07 điền đủ.
+
 ## 01/9/2026 — xp-sct-vn v1.0.2: bản gốc NĐ 106/2025 (PCCC) — Sở được LẬP biên bản VPHC theo khoản 2 Điều 29
 
 Bạn cung cấp bản gốc NĐ 106/2025/NĐ-CP (15/5/2025, hiệu lực 01/7/2025). Đối chiếu toàn văn cho kết quả đổi cách làm: **công chức cơ quan chuyên môn về xây dựng đang thi hành công vụ có thẩm quyền lập biên bản VPHC** (k2 Đ29) → Đoàn kiểm tra định kỳ PCCC của Sở (điểm g, h Đ13 NĐ 105) lập BB VPHC Mẫu 01 rồi chuyển Chủ tịch UBND tỉnh/Công an trong 24h, thay vì chỉ "kiến nghị". Giám đốc Sở không ra QĐ (không có tên Đ30–36). Bảng 30 hành vi Đ14–16, 18, 23–25 với mức tổ chức tại `references/04` mục B; checklist 06 điền đủ điểm-khoản-điều; mốc thời hiệu riêng cho hành vi thẩm định – nghiệm thu (k4 Đ5).

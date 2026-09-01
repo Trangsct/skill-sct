@@ -6,21 +6,22 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định xử phạt | **NĐ 115/2018/NĐ-CP** (sđ **NĐ 124/2021/NĐ-CP**). ⚠️ `attp-sct-vn/08`: NĐ 46/2026 (ATTP mới) đang **tạm ngưng** theo NQ 15/2026 → nghĩa vụ gốc vẫn theo NĐ 15/2018; nghị định xử phạt vẫn NĐ 115/2018. NĐ 90/2026 (30/3/2026) là xử phạt **y tế**, không thay NĐ 115 — đọc `attp-sct-vn/references/08` trước |
+| Nghị định xử phạt | **NĐ 115/2018/NĐ-CP ngày 04/9/2018** (hiệu lực 20/10/2018, thay NĐ 178/2013; sđ **NĐ 124/2021/NĐ-CP**). Bản gốc `van-ban-goc/attp/` là bản 2018 **chưa hợp nhất NĐ 124/2021** — số khoản dưới đây theo bản 2018, đối chiếu NĐ 124 trước khi ghi. ⚠️ `attp-sct-vn/08`: NĐ 46/2026 đang tạm ngưng theo NQ 15/2026; NĐ 90/2026 là xử phạt y tế, không thay NĐ 115 |
 | Thời hiệu | 01 năm |
-| Nhóm hành vi Sở hay gặp (sản phẩm Bộ CT: rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, bánh kẹo, bột – tinh bột) | Sản xuất, kinh doanh **không có GCN đủ điều kiện ATTP** (Điều 18); không **tự công bố**/công bố sai (Điều 20, 21); vi phạm điều kiện chung bảo đảm ATTP trong sản xuất (Điều 9–10: người trực tiếp không khám sức khỏe, không kiến thức ATTP; nhà xưởng, trang thiết bị); ghi nhãn (dẫn NĐ 119/2017 sđ NĐ 126/2021); rượu không GP sản xuất/phân phối (NĐ 98/2020 sđ NĐ 17/2022; NĐ 105/2017) |
-| Thẩm quyền | Chủ tịch UBND xã/tỉnh; **thanh tra chuyên ngành ATTP** — sau NĐ 189/2025 + NĐ 311/2026 chuyển sang **Giám đốc Sở** cho sản phẩm ngành CT (GATE con số); **QLTT** (Chi cục thuộc Sở) với hàng hóa lưu thông |
+| Mức | Tối đa **100 tr cá nhân / 200 tr tổ chức** (k1 Đ3); **Điều 18, 19, 24 ghi sẵn mức TỔ CHỨC** (k2 Đ3) — không nhân đôi thêm |
+| Nhóm hành vi Sở hay gặp (sản phẩm Bộ CT) — nguyên văn bản 2018 | **Đ18 GCN**: k2 sản xuất, kinh doanh thực phẩm không có GCN đủ điều kiện ATTP **30–40 tr (mức tổ chức)**; k1 dịch vụ ăn uống không GCN 20–30 tr; k3 TPBVSK không GMP 40–60 tr. **Đ20 tự công bố**: k1 không đăng tải/không nộp 01 bản/không lưu hồ sơ/tài liệu nước ngoài không dịch 15–20 tr; k2 phiếu kiểm nghiệm hết hiệu lực, thiếu chỉ tiêu, phòng không được chỉ định 20–30 tr; k3 sản phẩm có chỉ tiêu ATTP không phù hợp 30–40 tr; k4 40–50 tr (mức cá nhân → tổ chức ×2). **Đ21 đăng ký bản công bố**: k2 không đăng ký 40–50 tr; buộc thu hồi, tiêu hủy. **Đ9 điều kiện chung**: k1 người tiếp xúc không mũ, khẩu trang 1–3 tr; k2 3–5; k3 5–7; k4 7–10; k5 10–15; k7 15–20 tr. Đ4 nguyên liệu (k1 phạt 1–2 lần giá trị; k4 80–100 tr). Ghi nhãn → NĐ 119/2017 sđ 126/2021; rượu không GP → NĐ 98/2020 |
+| Thẩm quyền (nguyên văn NĐ 115) | **Đ27 k2: công chức, viên chức ngành Công Thương đang thi hành công vụ được LẬP BIÊN BẢN VPHC về ATTP**. Đ28: Chủ tịch xã 5 tr CN/10 tr TC; huyện 50/100 (đã bỏ cấp huyện); tỉnh mức tối đa. **Đ29 k2: "Chánh thanh tra Sở Công Thương" 50 tr CN / 100 tr TC, tước GCN ATTP, đình chỉ** — chức danh không còn sau Luật Thanh tra 84/2025 → áp dụng **khoản 2 Điều 21 NĐ 189/2025**: chức danh tiếp nhận = **Giám đốc Sở, 80% mức tối đa = 80 tr CN / 160 tr TC** (cách áp dụng — xem `references/08` mục D.2; hỏi Sở Tư pháp trước QĐ đầu tiên). Chủ tịch xã theo NĐ 189 = 50% = 50 tr CN/100 tr TC (không phải 5 tr). **Đ34 QLTT**: Đội trưởng 25/50 tr; Chi cục trưởng Chi cục QLTT thuộc SCT 50/100 tr, tước GCN, đình chỉ. Đ35 phân định: Thanh tra/kiểm tra chuyên ngành ngành CT xử toàn bộ Đ4–26 theo chức năng |
 | Đặc thù | **Công bố công khai** kết quả xử phạt khi gây hậu quả lớn/ảnh hưởng dư luận (Điều 72 Luật XLVPHC); hậu kiểm là nguồn phát hiện chính (`attp-sct-vn/05`); hộ kinh doanh nhỏ lẻ → UBND xã (QĐ 28/2025) |
 
 ## B. An toàn, vệ sinh lao động (ATVSLĐ) — PGĐ Thuân phụ trách; liên quan mọi cơ sở SXCN
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định xử phạt | **NĐ 283/2026/NĐ-CP (7/2026)** — xử phạt lĩnh vực lao động, BHXH, người lao động đi làm việc ở nước ngoài — **thay NĐ 12/2022/NĐ-CP**. ⚠️ GATE: chưa có bản gốc trong hệ sinh thái; cần tải, lập bảng hành vi ATVSLĐ (Chương về ATVSLĐ) |
-| Thời hiệu | **01 năm** (nghị định tự ghi) |
-| Nhóm hành vi tại cơ sở công nghiệp | Không huấn luyện ATVSLĐ nhóm 1–6; không **kiểm định kỹ thuật an toàn** máy, thiết bị có yêu cầu nghiêm ngặt (nồi hơi, bình chịu áp lực, cầu trục, xe nâng, thang máy, hệ thống lạnh, **thiết bị đặc thù ngành Công Thương**); không khai báo thiết bị; không quan trắc môi trường lao động; không trang cấp PTBVCN; không khai báo/điều tra tai nạn lao động; không lập kế hoạch ATVSLĐ; không có người làm công tác ATVSLĐ |
-| Thẩm quyền | Chủ tịch UBND xã/tỉnh; **Sở Nội vụ** (kế thừa LĐTBXH — thanh tra/kiểm tra lao động) |
-| Sở Công Thương | Bộ CT quản lý ATVSLĐ đối với **máy, thiết bị, vật tư có yêu cầu nghiêm ngặt đặc thù ngành Công Thương** (Điều 33 Luật ATVSLĐ 2015; danh mục theo thông tư Bộ CT — GATE số thông tư hiện hành). Sở kiểm tra việc kiểm định thiết bị đặc thù CT (trong VLNCN: điểm c k3 Đ60 NĐ 275/2026 "không kiểm định máy, thiết bị nghiêm ngặt ATVSLĐ" — **Sở phạt được** ở góc độ VLNCN). Ngoài ra chỉ ghi nhận, chuyển Sở Nội vụ |
+| Nghị định xử phạt | **NĐ 283/2026/NĐ-CP** — xử phạt lao động, BHXH, người lao động đi làm việc ở nước ngoài; **hiệu lực 10/9/2026** (k1 Đ66); NĐ 12/2022 hết hiệu lực từ ngày đó (k4 Đ66). **Đến hết 09/9/2026 vẫn áp dụng NĐ 12/2022**; chuyển tiếp Đ67 (hành vi kết thúc trước → NĐ 12/2022; đang diễn ra → NĐ 283). Bản gốc `van-ban-goc/lao-dong/` (67 điều) |
+| Thời hiệu | **01 năm** với lao động, BHXH; 02 năm với người lao động đi nước ngoài (điểm a, b k4 Đ3); xác định hành vi kết thúc/đang thực hiện theo k1 Đ8 NĐ 118/2021 (k5 Đ3). Mức: cá nhân, tổ chức ×2 (Đ7); hộ kinh doanh = cá nhân |
+| Nhóm hành vi tại cơ sở công nghiệp (nguyên văn, mức cá nhân) | **Đ35 máy, thiết bị nghiêm ngặt**: k1 không khai báo với **Sở Nội vụ** trong 30 ngày 1–2 tr; k2 không lưu hồ sơ kỹ thuật 5–10 tr; k3 vi phạm QCVN/sử dụng không đúng 15–20 tr; **k4 không kiểm định trước sử dụng/định kỳ**: 1–3 thiết bị 20–30 tr; 4–10: 30–50 tr; 11–20: 50–75 tr; ≥21: 75 tr; k5 tiếp tục dùng thiết bị kiểm định không đạt 50–75 tr. **Đ36 k1 không huấn luyện ATVSLĐ / dùng người không có thẻ an toàn làm công việc nghiêm ngặt**: 1–10 người 5–10 tr; 11–50: 10–20; 51–100: 20–30; 101–300: 30–40; ≥301: 40–50 tr. **Đ32**: k2b không bố trí người làm công tác ATVSLĐ 5–10 tr; k3d không lập phương án ATVSLĐ khi xây mới/cải tạo cơ sở có máy, chất nghiêm ngặt 20–25 tr; k3đ không điều tra/khai báo tai nạn lao động, sự cố kỹ thuật 20–25 tr. Đ31 báo cáo; Đ33 phòng ngừa; Đ34 trách nhiệm TNLĐ; Đ37 kiểm định; Đ38 quan trắc |
+| Thẩm quyền (nguyên văn) | **Đ54 lập biên bản**: công chức, viên chức **Sở Nội vụ** (k2), công chức văn hóa – xã hội cấp xã (k3), Bộ Nội vụ, BHXH, Công an (hành vi liệt kê), Trưởng đoàn/Thanh tra viên đoàn thanh tra — **không có công chức Sở Công Thương**. **Đ55**: Chủ tịch xã 37,5 tr; tỉnh 75 tr (lao động, BHXH). **Đ61**: Giám đốc Sở Nội vụ 60 tr; Cục trưởng Cục Việc làm, Cục Tiền lương–BHXH 75 tr; Trưởng đoàn kiểm tra do Bộ trưởng Nội vụ/Tài chính/Ngoại giao lập 75 tr. Tổ chức ×2 (k1 Đ63) |
+| Sở Công Thương | **Không lập biên bản, không xử phạt** theo NĐ 283 → ghi nhận, chuyển Sở Nội vụ (`mau-van-ban/09`) kèm danh sách thiết bị/người chưa kiểm định/huấn luyện (mức phạt theo số lượng nên bảng kê là chứng cứ chính). Sở chỉ phạt được góc độ VLNCN: điểm c k3 Đ60 NĐ 275/2026 "không kiểm định máy, thiết bị nghiêm ngặt ATVSLĐ" dùng trong nổ mìn. Bộ CT quản lý thiết bị đặc thù ngành CT (Điều 33 Luật ATVSLĐ 2015; thông tư danh mục — GATE số hiện hành) — là căn cứ kiểm tra, không phải căn cứ phạt |
 
 ## C. Điện lực (phòng QLNL; PGĐ Thuân)
 
@@ -53,16 +54,19 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 → reference 03 (CCN) và 06.
 
-## G. Bảng "ai phạt đến bao nhiêu"
+## G. Bảng "ai phạt đến bao nhiêu" — đã đối chiếu NĐ 189/2025 (bản gốc) — chi tiết `references/08`
 
-**Quy tắc nền (k2 Đ6 NĐ 189/2025, giữ nguyên sau NĐ 311/2026):** Giám đốc Sở = **80% mức tối đa lĩnh vực** tại Điều 24 Luật XLVPHC (mức cá nhân; tổ chức ×2); Chủ tịch UBND tỉnh = 100%; Chủ tịch UBND xã = theo k1 Đ6 (thường 10%). Nghị định chuyên ngành có ghi đích danh thì theo nghị định chuyên ngành. Cột ⚠️ = chưa đối chiếu Điều 24 và nghị định chuyên ngành, tính bằng công thức 80% khi cần ước lượng.
+Quy tắc nền NĐ 189/2025: Chủ tịch xã **50%**, Giám đốc sở **80%**, Chủ tịch tỉnh **100%** mức tối đa lĩnh vực (Điều 24 Luật); Đội trưởng QLTT 30%, Chi cục trưởng QLTT 50%. Mức cá nhân; tổ chức ×2. Nghị định chuyên ngành ghi đích danh thì dùng số của nghị định đó (đã khớp 80% ở NĐ 275/2026). Chức danh cũ "Chánh Thanh tra Sở" → Giám đốc Sở theo k2 Đ21 NĐ 189 (cách áp dụng, ghi rõ trong QĐ).
 
-| Chức danh | Hóa chất | VLNCN | ATTP | Điện lực | Xăng dầu/khí | Lao động | Ghi chú |
+| Chức danh | Hóa chất (max 50) | VLNCN (max 100) | ATTP (max 100) | PCCC (max 50) | Lao động (NĐ 283) | Điện lực (NĐ 133/2026 — max ⚠️) | Xăng dầu/khí (NĐ 99/2020 ⚠️) |
 |---|---|---|---|---|---|---|---|
-| Chủ tịch UBND xã | 25 tr | 50 tr | ⚠️ | ⚠️ | ⚠️ | ⚠️ | Mức cá nhân; tổ chức ×2 |
-| Chủ tịch UBND tỉnh | 50 tr | 100 tr | kịch khung | kịch khung | kịch khung | kịch khung | |
-| **Giám đốc Sở Công Thương** | **40 tr** | **80 tr** | ⚠️ | ⚠️ (NĐ 133/2026) | ⚠️ | — | Hóa chất/VLNCN đã chắc (Đ63 NĐ 275/2026); cột ⚠️ điền sau khi đọc NĐ 311/2026 |
-| Chi cục trưởng QLTT | — | — | ⚠️ | — | ⚠️ | — | NĐ 311/2026 sửa thẩm quyền Chi cục trưởng nhiều lĩnh vực |
-| Trưởng đoàn kiểm tra chuyên ngành | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | Chức danh mới trong NĐ 311/2026 — nếu được trao quyền, Đoàn có thể xử phạt tại chỗ mức thấp |
+| Chủ tịch UBND xã | 25 | 50 | 50 (NĐ 189) / 5 (NĐ 115 gốc) | 25 (NĐ 189) / 5 (NĐ 106 gốc) | 37,5 (Đ55 NĐ 283) | ⚠️ | ⚠️ |
+| Chủ tịch UBND tỉnh | 50 | 100 | 100 | 50 | 75 | max | max |
+| **Giám đốc Sở Công Thương** | **40** (Đ63 NĐ 275) | **80** (Đ63 NĐ 275) | **80** (k2 Đ21 NĐ 189 thay "Chánh TT Sở CT" Đ29 NĐ 115 = 50) | **không** (không có tên Đ30–36 NĐ 106; chỉ lập BB k2 Đ29) | **không** (NĐ 283 giao Sở Nội vụ) | GĐ Sở có tên (NĐ 133) ⚠️ mức | ⚠️ |
+| Chi cục trưởng QLTT | — | — | 50 (Đ34 NĐ 115) | — | — | — | 50% max |
+| Đội trưởng Đội QLTT | — | — | 25 (Đ34 NĐ 115) / 30% NĐ 189 | — | — | — | 30% max |
+| Trưởng đoàn kiểm tra của Sở | không | không | không | không | không | không | không |
+| Công chức Sở CT **lập biên bản** được? | Có (Đ73 NĐ 275) | Có | **Có** (k2 Đ27 NĐ 115) | **Có** (k2 Đ29 NĐ 106 — CQCM xây dựng) | **Không** (Đ54 NĐ 283) | ⚠️ | ⚠️ |
+| Công chức Sở CT lập biên bản giao thông (NĐ 168)? | | | | | | **Không** (Đ46) | |
 
-NĐ 311/2026 (06/8/2026, hiệu lực **26/9/2026**) không thay đổi nhóm Giám đốc Sở, chỉ thêm Chánh Thanh tra tỉnh vào cùng nhóm và bổ sung Trưởng đoàn kiểm tra của tổ chức thuộc bộ (k4 Đ6) — Trưởng đoàn kiểm tra cấp Sở **chưa** được trao thẩm quyền theo tin công bố; đối chiếu bản gốc trước khi kết luận. Việc nợ: tải bản gốc NĐ 189/2025 + 311/2026, điền số tuyệt đối vào bảng G, tách từng nhánh thành bảng hành vi như `01-vlncn-hoachat/02`.
+Mức cá nhân (triệu đồng); tổ chức ×2. Cột ⚠️ chưa có bản gốc.

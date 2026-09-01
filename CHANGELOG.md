@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.0.0 (MỚI): xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực — marketplace 4.11.8
+
+Plugin trục – nhánh gộp việc xử phạt của cả phòng QLCN, kế thừa nguyên văn `xp-hc-vlncn-sct-vn` v1.6.0 (giữ song song).
+
+- **Trục** `references/00`: Luật XLVPHC (sđ 88/2025), NĐ 118/2021 (sđ 68+190/2025), NĐ 189/2025 sđ **NĐ 311/2026**, NĐ 217/2025 + TT 56/2025 — bảng thời hiệu theo lĩnh vực (01 năm: hóa chất, VLNCN, HHNH, PCCC, lao động, ATTP, điện; 02 năm: đất đai, xây dựng, môi trường, khoáng sản, hàng hóa, đầu tư), bảng thời hạn thủ tục, mức phạt, giao quyền, hình sự.
+- **Nhánh mới** 02–07: HHNH (NĐ 168/2024 Đ23 → CSGT; hóa chất trong vận chuyển → Sở xử; thu hồi GP Đ17 NĐ 161); CCN (NĐ 32/303 không có chế tài → NĐ 122/2021+288/2026, 16/2022, 123/2024+281/2026, 45/2022; 3 công cụ mạnh hơn phạt); PCCC ngành CT (4 việc của Sở, NĐ 106/2025 GATE); kho VLNCN – thiết kế (điểm d k4, b k4, a k5 Đ57 NĐ 275/2026; đình chỉ 6–12 tháng bắt buộc; 4 bẫy tố tụng); khoáng sản – môi trường (chuyển hồ sơ, tiền lệ KL 45 + KL 48); ATTP, ATVSLĐ (NĐ 283/2026), điện lực (NĐ 133/2026), xăng dầu, QLTT. Ma trận 18 lĩnh vực XỬ/CHUYỂN tại `references/90`.
+- **12 mẫu văn bản** bám thể thức đã ban hành (Mẫu 03–08 TT 56, Mẫu BB 01 + QĐ 02 NĐ 118, CV chuyển hồ sơ, TTr Chủ tịch UBND tỉnh, BC thực hiện KLTT Điều 54 Luật Thanh tra 2025) và **8 checklist** 5 cột theo lĩnh vực.
+- **Ví dụ thực tế** bổ sung: KL 45/KL-TT Viglacera 05/7/2026; BB kiểm tra Mẫu 05 Khí công nghiệp đã ký; KH 2922/KH-ĐKT; BB kiểm tra HCM Tây Bắc đã ký; BC 3094; VB 7962/UBND-NC.
+- **Nguyên tắc**: số hiệu nghị định nhánh mới đã tra cứu đến 9/2026; số điều/khoản chưa có bản gốc đánh GATE, không viện dẫn vào biên bản/QĐ. Việc nợ: tải 14 bản gốc, bảng hành vi từng nhánh, bảng thẩm quyền theo NĐ 311/2026, sửa `hnh-sct-vn` (đang trỏ `xlvphc-sct-vn`), `qlks`, `bvmt`, `pccc` trỏ về `xp-sct-vn`.
+
 ## 31/8/2026 — kho-vlncn-sct-vn v1.10.1 + xd-sct-vn v1.5.1: bỏ "nhật ký giám sát" khỏi mọi danh mục hồ sơ
 
 Một kỹ sư phản biện dự thảo công văn hướng dẫn: *"nhật ký giám sát bỏ không yêu cầu từ Nghị định 06 rồi, giờ Nghị định 207 cũng không yêu cầu nên không bắt buộc phải có"*. Tra toàn văn cả hai nghị định — **phản biện đúng hoàn toàn**, skill đang sai và đã sai từ trước.

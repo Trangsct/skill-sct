@@ -32,7 +32,7 @@ Dùng khi doanh nghiệp hỏi "muốn xây kho VLNCN thì làm gì" hoặc khi 
 
 1. **Thông báo khởi công** gửi cơ quan quản lý theo quy định.
 2. Nhà thầu thi công, tư vấn giám sát đủ điều kiện năng lực; **chỉ huy trưởng, giám sát trưởng có chứng chỉ hành nghề + quyết định giao nhiệm vụ + hợp đồng lao động** (lỗi hay gặp: chỉ nộp bằng kỹ sư — không đủ). Nếu chủ đầu tư tự thực hiện/tự giám sát: vẫn phải có chứng chỉ cá nhân + văn bản giao nhiệm vụ.
-3. Quản lý chất lượng theo NĐ 06/2021: nhật ký thi công, nhật ký giám sát, nghiệm thu vật liệu đầu vào (kết quả thí nghiệm thép, bê tông...), nghiệm thu công việc/giai đoạn.
+3. Quản lý chất lượng: **nhật ký thi công xây dựng công trình** do nhà thầu thi công lập (khoản 13 Điều 15 + Phụ lục IIa NĐ 207/2026; khung cũ: khoản 13 Điều 13 + Phụ lục IIa NĐ 06/2021); **báo cáo về công tác giám sát thi công xây dựng công trình** của TVGS (khoản 3 Điều 20 + Phụ lục IVa, IVb NĐ 207/2026); nghiệm thu vật liệu đầu vào (kết quả thí nghiệm thép, bê tông...); nghiệm thu công việc, nghiệm thu giai đoạn. ⚠ **KHÔNG yêu cầu "nhật ký giám sát"** — xem anti-error 14 tại SKILL.md.
 4. Thi công **hệ thống chống sét, tiếp địa** đúng thiết kế; kết thúc phải **đo điện trở tiếp địa** bởi đơn vị đủ năng lực, có phiếu kết quả.
 5. Phát sinh điều chỉnh thiết kế → dừng phần thay đổi, làm thủ tục điều chỉnh (kể cả PCCC) trước khi thi công tiếp.
 

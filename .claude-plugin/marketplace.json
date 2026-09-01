@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.6"
+    "version": "4.11.7"
   },
   "plugins": [
     {
@@ -60,7 +60,7 @@
       "name": "kho-vlncn-sct-vn",
       "source": "./kho-vlncn-sct-vn",
       "description": "Kho vat lieu no cong nghiep (VLNCN), So Cong Thuong Lao Cai. PHAN LUONG 4 truong hop (ref 11): kho co dinh xay moi (co KTCTNT) - kho tam (MIEN KTCTNT tu 01/7/2026, loai tru k1 D25 ND 207/2026, chuyen tiep k3 D53) - kho hien huu (kiem dinh theo D34, D36 ND 207/2026) - thue kho. Cap cong trinh TT 34/2026: khong co kho cap III/IV. Nghiem thu PCCC tu to chuc theo NQ 66.18/2026. Kem mau van ban, van ban goc, case Dong Tien, Toan Kim Son, Mong Son.",
-      "version": "1.10.0"
+      "version": "1.10.1"
     },
     {
       "name": "pccc-sct-vn",
@@ -114,7 +114,7 @@
       "name": "xd-sct-vn",
       "source": "./xd-sct-vn",
       "description": "Xay dung - QLNN nganh Cong Thuong Lao Cai: tham dinh BCNCKT/thiet ke, giay phep xay dung, KTCTNT, cong trinh tam, su co, cap cong trinh; phan dinh SCT - SXD - BQL KKT - xa. Khung 01/7/2026 (Luat 135/2025, ND 207+212+217/2026, QD 11/2026) + GATE chuyen tiep ref 11. NHOM LOAI TRU khoi KTCTNT (k1 D25 ND 207/2026: bi mat NN, khan cap, dau tu cong dac biet, CONG TRINH TAM D72) va k3 D53 - dung kiem tra voi cong trinh khoi cong truoc 01/7/2026 khong con thuoc dien. Case Au Lau, Dong Tien.",
-      "version": "1.5.0"
+      "version": "1.5.1"
     },
     {
       "name": "xp-hc-vlncn-sct-vn",

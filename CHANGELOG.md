@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 31/8/2026 — kho-vlncn-sct-vn v1.10.1 + xd-sct-vn v1.5.1: bỏ "nhật ký giám sát" khỏi mọi danh mục hồ sơ
+
+Một kỹ sư phản biện dự thảo công văn hướng dẫn: *"nhật ký giám sát bỏ không yêu cầu từ Nghị định 06 rồi, giờ Nghị định 207 cũng không yêu cầu nên không bắt buộc phải có"*. Tra toàn văn cả hai nghị định — **phản biện đúng hoàn toàn**, skill đang sai và đã sai từ trước.
+
+- Cả NĐ 06/2021 và NĐ 207/2026 chỉ có **"nhật ký thi công xây dựng công trình"** do **nhà thầu thi công** lập (k13 Đ13 NĐ 06/2021 = k13 Đ15 NĐ 207/2026, mẫu Phụ lục IIa). Không chỗ nào có "nhật ký giám sát" — đó là tài liệu của thế hệ quy định cũ.
+- Tài liệu đúng của TVGS: **báo cáo về công tác giám sát thi công xây dựng công trình** (k3 Đ20 NĐ 207/2026): báo cáo định kỳ hoặc theo giai đoạn thi công (Phụ lục IVa) và báo cáo khi tổ chức nghiệm thu giai đoạn, nghiệm thu hoàn thành gói thầu, hạng mục, công trình (Phụ lục IVb). Nhà thầu thiết kế: báo cáo đánh giá việc thực hiện giám sát tác giả (Đ21).
+- kho-vlncn: sửa ref 03, ref 04, ref 08, mẫu 08-09; **anti-error 14 MỚI** — yêu cầu DN nộp tài liệu không có trong quy định là đặt thêm điều kiện trái pháp luật.
+- xd-sct-vn: **ref 04 mục I.0b MỚI** bảng ba tài liệu và ai lập; anti-error 14.
+- **Bài học chung**: danh mục hồ sơ trong công văn hướng dẫn phải đối chiếu trực tiếp phụ lục nghị định, không chép theo thói quen. Đây là lỗi DN phản bác đúng và Sở phải sửa.
+
 ## 31/8/2026 — kho-vlncn-sct-vn v1.10.0 + xd-sct-vn v1.5.0 + vbhc-vn v2.11.0: CÔNG TRÌNH TẠM ĐƯỢC MIỄN KTCTNT + phân luồng 4 trường hợp + Nhóm J văn phong
 
 Bạn cung cấp bản gốc **Luật 135/2025, NĐ 207/2026, NĐ 217/2026, NĐ 140/2025 và NĐ 06/2021** để đối chiếu trực tiếp. Kết quả làm thay đổi một kết luận nghiệp vụ đang dùng trong skill.

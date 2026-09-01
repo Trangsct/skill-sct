@@ -156,6 +156,8 @@ GĐ6 CẤP PHÉP      → hồ sơ GP sử dụng VLNCN (Đ39 Luật 42/2024 + L
 13. **Không hợp thức hóa hồ sơ giai đoạn đã qua**: khi kho đã xây xong mà thiếu nhật ký thi công, biên bản nghiệm thu công việc, kết quả thí nghiệm — KHÔNG hướng dẫn DN lập bổ sung hoặc lập lùi ngày, cũng không tự soạn hộ dưới danh nghĩa đơn vị thiết kế/giám sát. Đường đúng là Luồng C (kiểm định hiện trạng). Đây vừa bảo vệ DN vừa bảo vệ người ký văn bản của Sở.
 11. **Hồ sơ vắt qua mốc 01/7/2026**: chạy GATE chuyển tiếp tại **plugin `xd-sct-vn` reference `11-chuyen-tiep-2026.md`** trước khi viết căn cứ; nếu dùng hai khung cho hai mốc (miễn GPXD lúc khởi công theo luật cũ; thủ tục KTCTNT theo NĐ 207/2026) thì phải có 01 câu lập luận trong văn bản. Case chuẩn: `vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/`.
 
+14. ⭐ **KHÔNG yêu cầu "nhật ký giám sát"** (kỹ sư phản hồi 31/8/2026, đã đối chiếu bản gốc). Tra toàn văn NĐ 06/2021 và NĐ 207/2026: chỉ có **"nhật ký thi công xây dựng công trình"** do **nhà thầu thi công** lập (khoản 13 Điều 13 NĐ 06/2021 = khoản 13 Điều 15 NĐ 207/2026, mẫu tại Phụ lục IIa). "Nhật ký giám sát" là tài liệu của thế hệ quy định cũ, **không còn trong cả hai nghị định**. Tài liệu đúng của tư vấn giám sát là **"báo cáo về công tác giám sát thi công xây dựng công trình"** — khoản 3 Điều 20 NĐ 207/2026: báo cáo định kỳ hoặc theo giai đoạn thi công (Phụ lục IVa) và báo cáo khi tổ chức nghiệm thu giai đoạn, nghiệm thu hoàn thành gói thầu, hạng mục, công trình (Phụ lục IVb). Nhà thầu thiết kế lập **báo cáo đánh giá việc thực hiện giám sát tác giả** (Điều 21). → Rà mọi công văn, biên bản, checklist trước khi phát hành: yêu cầu DN nộp tài liệu không có trong quy định là **đặt thêm điều kiện trái pháp luật**, và bị DN phản bác đúng.
+
 ## VIII. CẤU TRÚC PLUGIN
 
 ```

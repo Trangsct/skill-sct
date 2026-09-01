@@ -29,7 +29,7 @@ Hôm nay, ngày … tháng … năm 20…, Sở Công Thương tỉnh Lào Cai t
 6. Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
 7. Hồ sơ PCCC do Chủ đầu tư xuất trình: {Biên bản kiểm tra PCCC ngày … của Phòng CS PCCC&CNCH / văn bản chấp thuận nghiệm thu PCCC số … ngày …};
 8. Kết quả đo điện trở tiếp địa số {…} ngày {…} của {đơn vị};
-9. Báo cáo hoàn thành thi công xây dựng số {…} ngày {…}; Biên bản nghiệm thu hoàn thành hạng mục công trình; báo cáo giám sát; nhật ký thi công; nhật ký giám sát; bản vẽ hoàn công; hồ sơ quản lý chất lượng và các tài liệu do Chủ đầu tư, nhà thầu, tư vấn xuất trình;
+9. Báo cáo hoàn thành thi công xây dựng số {…} ngày {…}; Biên bản nghiệm thu hoàn thành hạng mục công trình; báo cáo về công tác giám sát thi công xây dựng công trình; nhật ký thi công xây dựng công trình; bản vẽ hoàn công; hồ sơ quản lý chất lượng và các tài liệu do Chủ đầu tư, nhà thầu, tư vấn xuất trình;
 10. Văn bản thông báo kế hoạch kiểm tra số {…}/SCT-CN ngày {…} của Sở Công Thương;
 11. Các quy định pháp luật khác có liên quan;
 12. Quy chuẩn, tiêu chuẩn: QCVN 01:2019/BCT; QCVN 06:2022/BXD; {tiêu chuẩn thiết kế áp dụng}.

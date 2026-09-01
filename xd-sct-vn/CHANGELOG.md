@@ -1,5 +1,10 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.5.1] - 31/8/2026 — Gọi đúng tên tài liệu quản lý chất lượng
+
+- **ref 04 mục I.0b MỚI**: bảng ba tài liệu và ai lập — nhật ký thi công xây dựng công trình (nhà thầu thi công, k13 Đ15 + Phụ lục IIa); báo cáo về công tác giám sát thi công xây dựng công trình (TVGS, k3 Đ20 + Phụ lục IVa, IVb); báo cáo đánh giá việc thực hiện giám sát tác giả (nhà thầu thiết kế, Đ21). **Không có "nhật ký giám sát"** trong NĐ 06/2021 lẫn NĐ 207/2026.
+- SKILL.md anti-error **14**.
+
 ## [1.5.0] - 31/8/2026 — NHÓM LOẠI TRỪ khỏi KTCTNT và chuyển tiếp khoản 3 Điều 53
 
 ### Thêm

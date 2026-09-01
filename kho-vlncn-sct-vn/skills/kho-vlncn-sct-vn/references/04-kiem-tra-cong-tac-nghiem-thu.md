@@ -42,7 +42,7 @@ Thời gian thực tế tham chiếu: Nậm Cang 1A (BC 17/3 → KH 1629/SCT-CN 
 ## IV. HỒ SƠ ĐỐI CHIẾU TẠI CUỘC KIỂM TRA (căn cứ mục III Biên bản Ngòi Nhù 1A)
 1. Hồ sơ PCCC: biên bản kiểm tra/văn bản chấp thuận nghiệm thu PCCC của Phòng CS PCCC&CNCH.
 2. Kết quả đo điện trở tiếp địa (đơn vị kiểm định đủ năng lực, còn hiệu lực).
-3. Báo cáo hoàn thành thi công; biên bản nghiệm thu hoàn thành; báo cáo giám sát; nhật ký thi công/giám sát; bản vẽ hoàn công; hồ sơ quản lý chất lượng; kết quả thí nghiệm vật liệu.
+3. Báo cáo hoàn thành thi công; biên bản nghiệm thu hoàn thành; **báo cáo về công tác giám sát thi công xây dựng công trình** (khoản 3 Điều 20 + Phụ lục IVa, IVb NĐ 207/2026); **nhật ký thi công xây dựng công trình** do nhà thầu thi công lập (Phụ lục IIa); bản vẽ hoàn công; hồ sơ quản lý chất lượng; kết quả thí nghiệm vật liệu. ⚠ KHÔNG yêu cầu "nhật ký giám sát" — văn bản hiện hành không có tài liệu này.
 4. Hồ sơ năng lực: chứng chỉ hành nghề TVGS, chỉ huy trưởng, chủ trì thiết kế/thẩm tra; QĐ giao nhiệm vụ; ủy quyền ký còn hiệu lực.
 5. Hồ sơ pháp lý gốc: QĐ CTĐT + điều chỉnh; ĐTM; văn bản gửi thiết kế cho Sở trước khởi công (công trình tạm); TB khởi công.
 6. GCN đủ điều kiện ANTT (điều kiện cho bước cấp GP sử dụng — kiểm tra tại đây để tránh tắc ở bước sau).

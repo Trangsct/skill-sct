@@ -24,7 +24,7 @@
 - [ ] Thông báo khởi công
 - [ ] Hồ sơ năng lực nhà thầu, TVGS: chứng chỉ hành nghề + QĐ giao nhiệm vụ + HĐLĐ (đặc biệt khi tự thực hiện - tự giám sát)
 - [ ] Hồ sơ chỉ huy trưởng: chứng chỉ/điều kiện năng lực theo NĐ 175/2024 (bằng kỹ sư đơn thuần KHÔNG đủ)
-- [ ] Nhật ký thi công, nhật ký giám sát; nghiệm thu công việc/giai đoạn; kết quả thí nghiệm vật liệu
+- [ ] Nhật ký thi công xây dựng công trình (nhà thầu thi công lập — Phụ lục IIa NĐ 207/2026); báo cáo về công tác giám sát thi công xây dựng công trình (TVGS — k3 Đ20, Phụ lục IVa/IVb); nghiệm thu công việc, nghiệm thu giai đoạn; kết quả thí nghiệm vật liệu. ⚠ KHÔNG yêu cầu "nhật ký giám sát"
 - [ ] Bản vẽ hoàn công
 - [ ] Kết quả đo điện trở tiếp địa (đơn vị đủ năng lực, ngày đo hợp lý)
 - [ ] Biên bản nghiệm thu hoàn thành (KHÔNG có câu "bàn giao đưa vào sử dụng từ ngày nghiệm thu")

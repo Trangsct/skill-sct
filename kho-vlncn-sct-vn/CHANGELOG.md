@@ -1,5 +1,14 @@
 # CHANGELOG — plugin kho-vlncn-sct-vn
 
+## [1.10.1] - 31/8/2026 — BỎ "nhật ký giám sát" khỏi mọi danh mục hồ sơ
+
+Kỹ sư phản biện: *"nhật ký giám sát bỏ không yêu cầu từ Nghị định 06 rồi, giờ Nghị định 207 cũng không yêu cầu"*. Đã tra toàn văn cả hai nghị định — **phản biện đúng hoàn toàn**.
+
+- Cả NĐ 06/2021 và NĐ 207/2026 chỉ có **"nhật ký thi công xây dựng công trình"** do **nhà thầu thi công** lập (khoản 13 Điều 13 NĐ 06/2021 = khoản 13 Điều 15 NĐ 207/2026; mẫu Phụ lục IIa). Không có bất kỳ chỗ nào nhắc "nhật ký giám sát".
+- Tài liệu đúng của tư vấn giám sát: **báo cáo về công tác giám sát thi công xây dựng công trình** — khoản 3 Điều 20 NĐ 207/2026, gồm (a) báo cáo định kỳ hoặc theo giai đoạn thi công (Phụ lục IVa) và (b) báo cáo khi tổ chức nghiệm thu giai đoạn, nghiệm thu hoàn thành gói thầu, hạng mục, công trình (Phụ lục IVb). Nhà thầu thiết kế lập báo cáo đánh giá việc thực hiện giám sát tác giả (Điều 21).
+- Sửa: ref 03 mục quản lý chất lượng, ref 04 mục IV.3, ref 08 checklist, mẫu 08-09 biên bản kiểm tra.
+- SKILL.md **anti-error 14 MỚI**: yêu cầu DN nộp tài liệu không có trong quy định là đặt thêm điều kiện trái pháp luật; rà mọi công văn, biên bản, checklist trước khi phát hành.
+
 ## [1.10.0] - 31/8/2026 — PHÂN LUỒNG 4 trường hợp; công trình tạm được MIỄN KTCTNT
 
 ### Thêm

@@ -138,6 +138,8 @@ GĐ6 KHAI THÁC      → bàn giao; bảo hành (Đ64 Luật 135); bảo trì, �
 
 13. ⭐ **Kiểm tra NHÓM LOẠI TRỪ trước khi kết luận công trình thuộc diện KTCTNT** (bổ sung 31/8/2026): khoản 1 Điều 25 NĐ 207/2026 loại trừ công trình thuộc điểm a khoản 1 Điều 69, các Điều 70, 71 và **72** (công trình xây dựng tạm) Luật 135/2025 — phần loại trừ đứng TRƯỚC cụm "bao gồm" nên chi phối cả ba điểm a, b, c. Một công trình tạm vẫn nằm trong Phụ lục IV NĐ 217/2026 mà vẫn được miễn KTCTNT; phải viết lập luận hai tầng thành văn. Khoản 1 Điều 24 **NĐ 06/2021 không có nhóm loại trừ này** và còn có tiêu chí "vốn đầu tư công" đã bị bỏ → hồ sơ vắt qua mốc phải áp khoản 3 Điều 53: khởi công trước 01/7/2026, thuộc diện theo NĐ 06/2021 nhưng không thuộc diện theo NĐ 207/2026 thì **DỪNG, không kiểm tra tiếp**. Chi tiết: reference `04` mục I.0, reference `06` mục V, reference `11` bảng quyết định.
 
+14. **Gọi đúng tên tài liệu quản lý chất lượng:** không có "nhật ký giám sát" trong NĐ 06/2021 lẫn NĐ 207/2026. Nhà thầu thi công lập **nhật ký thi công xây dựng công trình** (k13 Đ15, Phụ lục IIa); tư vấn giám sát lập **báo cáo về công tác giám sát thi công xây dựng công trình** (k3 Đ20, Phụ lục IVa định kỳ/theo giai đoạn và IVb khi nghiệm thu); nhà thầu thiết kế lập **báo cáo đánh giá việc thực hiện giám sát tác giả** (Đ21). Yêu cầu tài liệu không có trong quy định là đặt thêm điều kiện trái pháp luật. Chi tiết: reference `04` mục I.0b.
+
 ## VIII. CẤU TRÚC PLUGIN
 
 ```

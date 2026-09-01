@@ -22,6 +22,18 @@ Bốn nhóm được loại trừ:
 
 ⚠ **Chuyển tiếp — khoản 3 Điều 53 NĐ 207/2026 (nguyên văn):** *"Công trình xây dựng khởi công trước ngày Nghị định này có hiệu lực thi hành thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định số 06/2021/NĐ-CP ... nhưng **không thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định này thì không tiếp tục thực hiện việc kiểm tra công tác nghiệm thu**. Chủ đầu tư có trách nhiệm tổ chức quản lý chất lượng, quản lý thi công xây dựng, nghiệm thu hoàn thành công trình đưa vào khai thác, sử dụng theo quy định của Nghị định này và chịu trách nhiệm về kết quả nghiệm thu của mình."* → Hồ sơ công trình tạm khởi công trước 01/7/2026 đang thụ lý: **DỪNG, không kiểm tra tiếp**, thông báo để CĐT tự nghiệm thu.
 
+### I.0b. Gọi ĐÚNG TÊN tài liệu quản lý chất lượng (bổ sung 31/8/2026)
+
+Tra toàn văn NĐ 06/2021 và NĐ 207/2026: **không có tài liệu nào tên "nhật ký giám sát"**. Hai tài liệu đúng:
+
+| Tài liệu | Ai lập | Căn cứ |
+|---|---|---|
+| **Nhật ký thi công xây dựng công trình** | **Nhà thầu thi công** | khoản 13 Điều 15 + Phụ lục IIa NĐ 207/2026 (= khoản 13 Điều 13 + Phụ lục IIa NĐ 06/2021) |
+| **Báo cáo về công tác giám sát thi công xây dựng công trình** | Tổ chức, cá nhân **giám sát** | khoản 3 Điều 20 NĐ 207/2026: (a) báo cáo định kỳ hoặc theo giai đoạn thi công — Phụ lục IVa; (b) báo cáo khi tổ chức nghiệm thu giai đoạn, nghiệm thu hoàn thành gói thầu, hạng mục, công trình — Phụ lục IVb |
+| **Báo cáo đánh giá việc thực hiện giám sát tác giả** | Nhà thầu thiết kế | Điều 21 NĐ 207/2026 |
+
+⚠ Yêu cầu chủ đầu tư nộp "nhật ký giám sát" là **đặt thêm điều kiện không có trong quy định**. Rà kế hoạch kiểm tra, biên bản, thông báo và công văn hướng dẫn trước khi phát hành.
+
 ### I.1. Ba nhóm thuộc diện KTCTNT
 
 Công trình phải được CQNN có thẩm quyền KTCTNT trong quá trình thi công và khi hoàn thành (khoản 4 Điều 57 Luật 135/2025) nếu **không thuộc nhóm loại trừ tại I.0** và thuộc một trong các trường hợp:

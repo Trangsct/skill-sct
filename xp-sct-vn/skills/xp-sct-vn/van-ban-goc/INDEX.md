@@ -23,7 +23,8 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | **chung/ND-311-2026-NDCP-...docx** | **NĐ 311/2026/NĐ-CP ngày 06/8/2026** — sửa NĐ 189 (hiệu lực **26/9/2026**; PTTg Lê Tiến Châu) | Đ1 sửa Đ6 (Chánh Thanh tra tỉnh cùng nhóm GĐ sở; Trưởng đoàn kiểm tra tổ chức thuộc bộ → 50%), Đ2 sửa Đ7 thanh tra, Đ3 Công an, Đ4 hải quan–thuế, Đ5 THADS, Đ6 cảng vụ, Đ8 chuyển tiếp |
 | **giao-thong/ND-168-2024-NDCP-...docx** | **NĐ 168/2024/NĐ-CP** — xử phạt TTATGT đường bộ, trừ điểm GPLX (hiệu lực 01/01/2025) | **Đ23** lái xe vận chuyển HHNH; **Đ26** đơn vị kinh doanh vận tải (điểm d, e k2; điểm d k4); điểm a k6 Đ20; **Đ46** lập biên bản (không có Sở CT) — `references/02` |
 | **lao-dong/ND-283-2026-NDCP-...docx** | **NĐ 283/2026/NĐ-CP** — xử phạt lao động, BHXH, NLĐ đi nước ngoài (hiệu lực **10/9/2026**, thay NĐ 12/2022; 67 điều) | Đ3 thời hiệu, Đ7 mức, **Đ32, 35, 36** ATVSLĐ, Đ54 lập biên bản (Sở Nội vụ), Đ55 UBND, Đ61 GĐ Sở Nội vụ, Đ63 phân định, Đ66–67 — `references/07` |
-| **attp/ND-115-2018-NDCP-...docx** | **NĐ 115/2018/NĐ-CP ngày 04/9/2018** — xử phạt ATTP (hiệu lực 20/10/2018) — **bản gốc chưa hợp nhất NĐ 124/2021** | Đ3 mức (Đ18, 19, 24 = mức tổ chức), Đ9, Đ18, Đ20, Đ21, **Đ27 lập biên bản (công chức ngành CT)**, Đ28 UBND, **Đ29 Chánh TT Sở CT 50/100 tr**, Đ34 QLTT, Đ35 phân định — `references/07` |
+| **attp/ND-124-2021-NDCP-...docx** | **NĐ 124/2021/NĐ-CP ngày 28/12/2021** — sửa NĐ 115/2018 (Điều 1, 22 khoản) và NĐ 117/2020 (hiệu lực 01/01/2022; PTTg Vũ Đức Đam) | Đ3 mức tổ chức mở rộng; Đ9 giấy xác nhận tập huấn; Đ18 GCN hết hiệu lực; Đ20 hệ thống dữ liệu, phiếu kiểm nghiệm hết hạn; Đ21; Đ28, 29 (Trưởng đoàn thanh tra cấp sở), 34 QLTT, 35; k2 Đ3 bãi bỏ; k2 Đ4 chuyển tiếp có lợi — `references/07` |
+| **attp/ND-115-2018-NDCP-...docx** | **NĐ 115/2018/NĐ-CP ngày 04/9/2018** — xử phạt ATTP (hiệu lực 20/10/2018) — bản gốc 2018, **đọc cùng NĐ 124/2021** | Đ3 mức (Đ18, 19, 24 = mức tổ chức), Đ9, Đ18, Đ20, Đ21, **Đ27 lập biên bản (công chức ngành CT)**, Đ28 UBND, **Đ29 Chánh TT Sở CT 50/100 tr**, Đ34 QLTT, Đ35 phân định — `references/07` |
 
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
@@ -34,6 +35,5 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | NĐ 123/2024 + 281/2026 | Đất đai | 03 |
 | NĐ 45/2022 (theo dõi dự thảo thay) | Môi trường | 03, 06 |
 | NĐ 36/2020 + 04/2022 (theo dõi dự thảo thay) | Khoáng sản | 06 |
-| NĐ 124/2021 (sửa NĐ 115/2018) | ATTP | 07 |
 | NĐ 133/2026 | Điện lực | 07 |
 | NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025 | Xăng dầu, khí; thương mại | 07 |

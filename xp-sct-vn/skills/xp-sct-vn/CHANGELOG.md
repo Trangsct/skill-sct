@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.1.1 — 01/9/2026
+- **NĐ 124/2021/NĐ-CP** (Bạn cung cấp) → `van-ban-goc/attp/`. Đối chiếu 22 khoản Điều 1 sửa NĐ 115/2018 vào ref 07 và checklist 07: k2 Đ3 mở rộng danh mục mức tổ chức (thêm k6 Đ9, điểm a k3 Đ20, k1 Đ21; cá nhân giảm một nửa; tới 7 lần giá trị thực phẩm với k1 Đ4, k1 Đ22, k6 Đ26); **Đ18 k1, k2 thêm "GCN đã hết hiệu lực"**; Đ9: k3đ người trực tiếp / k5d chủ cơ sở **không có giấy xác nhận tập huấn kiến thức ATTP** (5–7 / 10–15 tr), k7a bệnh truyền nhiễm, k7b nước không đạt; Đ20 k1b Hệ thống dữ liệu ATTP, k2e phiếu kiểm nghiệm hết hạn; Đ21 k1 30–40 tr (mức TC); Đ29 k3 Trưởng đoàn thanh tra chuyên ngành cấp sở (Sở CT) cùng mức Chánh Thanh tra Sở; Đ34 QLTT; hiệu lực 01/01/2022, chuyển tiếp có lợi (k2 Đ4).
+
 ## 1.1.0 — 01/9/2026
 Bạn cung cấp 5 bản gốc: NĐ 189/2025, NĐ 311/2026, NĐ 168/2024, NĐ 283/2026, NĐ 115/2018 → `van-ban-goc/{chung,giao-thong,lao-dong,attp}/`. Đối chiếu nguyên văn, sửa 4 chỗ plugin ghi sai trước đây:
 

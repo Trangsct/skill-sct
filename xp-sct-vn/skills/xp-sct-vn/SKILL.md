@@ -35,7 +35,7 @@ Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + 
 4. **NĐ 217/2025 + TT 56/2025/TT-BCT** — kiểm tra chuyên ngành; **TT 56 chỉ có 01 mẫu biên bản (Mẫu 05)**.
 5. **NĐ 275/2026** (hóa chất + VLNCN, hiệu lực 25/8/2026; NĐ 71/2019 cho hành vi kết thúc trước mốc) — bản gốc trong `van-ban-goc/`; GĐ Sở đích danh Đ63.
 6. **NĐ 106/2025** (PCCC, hiệu lực 01/7/2025) — bản gốc `van-ban-goc/pccc/`, bảng hành vi ref 04 mục B.
-7. **Đã có bản gốc, đối chiếu xong**: NĐ 168/2024 (giao thông — Sở không lập BB, Đ46); NĐ 283/2026 (lao động — **hiệu lực 10/9/2026**, trước đó NĐ 12/2022; Sở không lập BB, Đ54); NĐ 115/2018 (ATTP — công chức Sở lập BB k2 Đ27; "Chánh TT Sở CT" 50 tr → GĐ Sở 80 tr theo k2 Đ21 NĐ 189).
+7. **Đã có bản gốc, đối chiếu xong**: NĐ 168/2024 (giao thông — Sở không lập BB, Đ46); NĐ 283/2026 (lao động — **hiệu lực 10/9/2026**, trước đó NĐ 12/2022; Sở không lập BB, Đ54); NĐ 115/2018 + NĐ 124/2021 (ATTP — công chức Sở lập BB k2 Đ27; "Chánh TT Sở CT" 50 tr → GĐ Sở 80 tr theo k2 Đ21 NĐ 189).
 8. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.
 9. **QĐ 05/2025/QĐ-UBND** (chức năng Sở); **QĐ 1094/QĐ-SCT 09/3/2026** (giao quyền xử phạt PGĐ).
 

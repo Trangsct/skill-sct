@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.1.1: bản gốc NĐ 124/2021 sửa NĐ 115/2018 (ATTP)
+
+Đối chiếu 22 khoản sửa: GCN hết hiệu lực xử như không GCN (k2 Đ18, 30–40 tr TC); hành vi không có giấy xác nhận tập huấn kiến thức ATTP (k3đ, k5d Đ9); mức tổ chức ghi sẵn mở rộng (k2 Đ3); Trưởng đoàn thanh tra cấp sở (k3 Đ29). Ref 07, checklist 07, INDEX cập nhật.
+
 ## 01/9/2026 — xp-sct-vn v1.1.0: 5 bản gốc NĐ 189/2025, 311/2026, 168/2024, 283/2026, 115/2018 — sửa 4 nhận định sai về thẩm quyền
 
 Đối chiếu nguyên văn: Chủ tịch xã **50%** (không phải 10%), GĐ sở 80%, QLTT 30/50%; **Điều 21 NĐ 189** thay mức cũ và chuyển "Chánh Thanh tra Sở" → Giám đốc Sở; NĐ 311 giảm Trưởng đoàn kiểm tra tổ chức thuộc bộ xuống 50%, không có Trưởng đoàn cấp Sở. **NĐ 283/2026 hiệu lực 10/9/2026** (trước đó NĐ 12/2022), Sở CT không lập được biên bản lao động (Đ54). NĐ 168/2024 Đ26 phạt đơn vị vận tải; Đ46 Sở không lập biên bản giao thông. NĐ 115/2018 k2 Đ27 công chức ngành CT lập biên bản ATTP; GĐ Sở xử theo k2 Đ21 NĐ 189 (80/160 tr). Reference 08 mới về thẩm quyền chức danh; bảng G ref 07 điền đủ.

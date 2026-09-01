@@ -9,7 +9,7 @@ Cập nhật 01/9/2026. Cột "Trạng thái" = mức độ đã xác minh: ✅ 
 | 3 | Kho VLNCN – thiết kế, xây dựng, vận hành | NĐ 275/2026 Đ57, 53, 54, 61 | 01 năm (hành vi đang thực hiện tính từ ngày phát hiện) | GĐ Sở; để mất VLNCN (160–200 tr tổ chức) → Chủ tịch UBND tỉnh | **XỬ** | 05 | ✅ |
 | 4 | Vận chuyển HHNH (đường bộ) | **NĐ 168/2024** (Đ23 lái xe; điều chủ xe/đơn vị vận tải GATE) | 01 năm | CSGT, Chủ tịch UBND | CHUYỂN Công an; thu hồi GP (Đ17 NĐ 161) | 02 | 🔎 |
 | 5 | Hóa chất trong vận chuyển HHNH | NĐ 275/2026 | 01 năm | GĐ Sở | **XỬ** | 02, 01 | ✅ |
-| 6 | PCCC (kể cả vận chuyển hàng nguy hiểm cháy nổ) | **NĐ 106/2025** (thay NĐ 144/2021) | 01 năm | Công an PCCC; Chủ tịch UBND | CHUYỂN; Sở kiểm tra định kỳ điểm g, h Đ13 NĐ 105 | 04 | ⚠️ chưa có bản gốc |
+| 6 | PCCC (kể cả vận chuyển hàng nguy hiểm cháy nổ) | **NĐ 106/2025** (15/5/2025, hiệu lực 01/7/2025; thay mục 3 Ch.II NĐ 144/2021) | 01 năm (Đ5; Đ18 mốc riêng) | Chủ tịch UBND xã 5 tr/tỉnh 50 tr; Công an; Chánh TT tỉnh 35 tr | **LẬP BB VPHC** (k2 Đ29 — CQCM về xây dựng) rồi CHUYỂN 24h; GĐ Sở không ra QĐ | 04 | ✅ |
 | 7 | Đầu tư (CCN, dự án thứ cấp) | **NĐ 122/2021** sđ **NĐ 288/2026** | 02 năm (Đ5 NĐ 122) | Chủ tịch UBND; Sở Tài chính | CHUYỂN; tham mưu chấm dứt dự án/thu hồi QĐ thành lập CCN | 03 | 🔎 |
 | 8 | Xây dựng | **NĐ 16/2022** (dự thảo thay thế 12/2025) | 02 năm | Chủ tịch UBND xã/tỉnh; Sở XD | CHUYỂN; Sở lập BB nếu là CQCM xây dựng (GATE) | 03 | ⚠️ |
 | 9 | Đất đai | **NĐ 123/2024** sđ **NĐ 281/2026** | 02 năm | Chủ tịch UBND; SNNMT | CHUYỂN | 03, 06 | 🔎 |
@@ -34,8 +34,9 @@ Khi CHUYỂN: luôn ghi nhận đủ trong Biên bản kiểm tra + văn bản c
 ## Việc còn nợ (để mở rộng ở phiên sau)
 
 - [x] Xác minh NĐ 311/2026: ban hành 06/8/2026, hiệu lực 26/9/2026, GĐ Sở = 80% mức tối đa (k2 Đ6 NĐ 189) — bản gốc PDF ảnh tại chinhphu.vn docid=219135, tải thủ công.
-- [ ] Tải bản gốc: NĐ 189/2025, NĐ 311/2026, NĐ 106/2025, NĐ 283/2026, NĐ 133/2026, NĐ 168/2024, NĐ 122/2021 + 288/2026, NĐ 123/2024 + 281/2026, NĐ 45/2022, NĐ 36/2020 + 04/2022, NĐ 115/2018 + 124/2021, NĐ 99/2020, NĐ 98/2020 + 24/2025 → `van-ban-goc/` (chia thư mục theo lĩnh vực).
-- [ ] Lập bảng hành vi – mức – bổ sung cho từng nhánh theo mẫu `01-vlncn-hoachat/02-hanh-vi-vlncn.md` (ưu tiên: NĐ 106/2025, NĐ 168/2024 Đ23, NĐ 283/2026 chương ATVSLĐ, NĐ 115/2018).
+- [x] NĐ 106/2025: bản gốc docx trong `van-ban-goc/pccc/`, bảng hành vi Đ14–16, 18, 23–25 tại ref 04 mục B (01/9/2026).
+- [ ] Tải bản gốc: NĐ 189/2025, NĐ 311/2026, NĐ 283/2026, NĐ 133/2026, NĐ 168/2024, NĐ 122/2021 + 288/2026, NĐ 123/2024 + 281/2026, NĐ 45/2022, NĐ 36/2020 + 04/2022, NĐ 115/2018 + 124/2021, NĐ 99/2020, NĐ 98/2020 + 24/2025 → `van-ban-goc/` (chia thư mục theo lĩnh vực).
+- [ ] Lập bảng hành vi – mức – bổ sung cho từng nhánh theo mẫu `01-vlncn-hoachat/02-hanh-vi-vlncn.md` (ưu tiên: NĐ 168/2024 Đ23, NĐ 283/2026 chương ATVSLĐ, NĐ 115/2018).
 - [ ] Điền bảng thẩm quyền mục G reference 07 sau khi có NĐ 311/2026.
 - [x] `hnh-sct-vn` đã trỏ về `xp-sct-vn` (v1.8.3, 01/9/2026).
 - [ ] Sửa `qlks-sct-vn/08`, `bvmt-sct-vn/06`, `pccc-sct-vn` để trỏ về `xp-sct-vn`.

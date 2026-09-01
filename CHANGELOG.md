@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.0.2: bản gốc NĐ 106/2025 (PCCC) — Sở được LẬP biên bản VPHC theo khoản 2 Điều 29
+
+Bạn cung cấp bản gốc NĐ 106/2025/NĐ-CP (15/5/2025, hiệu lực 01/7/2025). Đối chiếu toàn văn cho kết quả đổi cách làm: **công chức cơ quan chuyên môn về xây dựng đang thi hành công vụ có thẩm quyền lập biên bản VPHC** (k2 Đ29) → Đoàn kiểm tra định kỳ PCCC của Sở (điểm g, h Đ13 NĐ 105) lập BB VPHC Mẫu 01 rồi chuyển Chủ tịch UBND tỉnh/Công an trong 24h, thay vì chỉ "kiến nghị". Giám đốc Sở không ra QĐ (không có tên Đ30–36). Bảng 30 hành vi Đ14–16, 18, 23–25 với mức tổ chức tại `references/04` mục B; checklist 06 điền đủ điểm-khoản-điều; mốc thời hiệu riêng cho hành vi thẩm định – nghiệm thu (k4 Đ5).
+
 ## 01/9/2026 — xp-sct-vn v1.0.1 + hnh-sct-vn v1.8.3: xác minh NĐ 311/2026 (hiệu lực 26/9/2026); sửa hnh trỏ về xp-sct-vn
 
 - **NĐ 311/2026/NĐ-CP** (chinhphu.vn docid=219135): ban hành 06/8/2026, hiệu lực **26/9/2026**; sửa Điều 6, 7 NĐ 189/2025 — thêm Chánh Thanh tra tỉnh vào nhóm Giám đốc Sở (80% mức tối đa lĩnh vực), Trưởng đoàn kiểm tra của tổ chức thuộc bộ, Thanh tra viên/Trưởng đoàn thanh tra Thanh tra tỉnh. Nhóm Giám đốc Sở không đổi → **QĐ-XPHC ký trước 26/9/2026 không dẫn NĐ 311**. Bản gốc là PDF ký số dạng ảnh, phải tải thủ công và OCR.

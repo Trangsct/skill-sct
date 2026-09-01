@@ -13,26 +13,60 @@ Nghiệp vụ thẩm định, nghiệm thu, kiểm tra định kỳ, phân loạ
 
 **Không thuộc Sở:** kiểm tra định kỳ các nội dung điểm a–e (hồ sơ quản lý PCCC, nội quy, lực lượng PCCC cơ sở, phương án chữa cháy, trang bị phương tiện, hệ thống báo cháy – chữa cháy, điện, chất cháy) → **Công an**; cơ sở trong KCN → BQL Khu kinh tế; cơ sở nhỏ ngoài Phụ lục II → UBND xã. Ma trận đầy đủ: `pccc-sct-vn/13`.
 
-## B. Chế tài PCCC: NĐ 106/2025/NĐ-CP (ban hành 15/5/2025, hiệu lực 01/7/2025 — theo `pccc-sct-vn`; thay NĐ 144/2021)
+## B. Chế tài PCCC: NĐ 106/2025/NĐ-CP ngày 15/5/2025 (hiệu lực 01/7/2025; bãi bỏ mục 3 Chương II NĐ 144/2021) — ĐÃ ĐỐI CHIẾU BẢN GỐC
 
-⚠️ **GATE:** hệ sinh thái plugin chưa có bản gốc NĐ 106/2025 và chưa có bảng hành vi – điều khoản. Trước khi ghi bất kỳ điểm-khoản-điều nào của NĐ 106/2025 vào biên bản/công văn, tải bản gốc từ vbpl.vn lưu vào `van-ban-goc/` và lập bảng như `01-vlncn-hoachat/02`. Nhóm hành vi cần tra (theo cấu trúc quen thuộc của NĐ 144/2021 Điều 30–47, để định vị):
+Bản gốc: `van-ban-goc/pccc/ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.docx` (41 điều; hành vi Đ6–28; thẩm quyền Đ29–37; sửa NĐ 119/2017 tại Đ38; chuyển tiếp Đ40).
 
-| Nhóm hành vi (định vị theo NĐ 144/2021 cũ) | Liên quan nội dung Sở phụ trách? | Ai xử phạt (định hướng) |
-|---|---|---|
-| Thẩm duyệt/thẩm định thiết kế, nghiệm thu PCCC: đưa công trình vào sử dụng khi chưa được thẩm định/nghiệm thu PCCC; thi công không đúng thiết kế PCCC đã thẩm định (cũ: Đ38 NĐ 144) | **Có** — đây là vi phạm trực tiếp mục 1, 2 phần A; Sở phát hiện khi kiểm tra nghiệm thu, kiểm tra định kỳ | Công an; Chủ tịch UBND. ⚠️ GATE: xem NĐ 106/2025 có trao thẩm quyền cho "cơ quan chuyên môn về xây dựng" không |
-| Khoảng cách an toàn PCCC, đường – bãi đỗ – nguồn nước, thoát nạn, ngăn cháy lan (cũ: Đ39, Đ40, Đ41 NĐ 144) | **Có** — điểm g, h Điều 13 NĐ 105 | Công an; Chủ tịch UBND |
-| Hồ sơ, nội quy, tuyên truyền, huấn luyện, lực lượng PCCC cơ sở, phương án chữa cháy, trang bị phương tiện, hệ thống báo cháy, điện (cũ: Đ30–37, Đ44) | Không (Công an kiểm tra) | Công an |
-| Sản xuất, kinh doanh, vận chuyển, bảo quản **chất, hàng nguy hiểm về cháy nổ** không có giấy phép/không bảo đảm điều kiện (cũ: Đ34 NĐ 144) | Liên quan HHNH, kho hóa chất, kho VLNCN, cửa hàng xăng dầu, LPG | Công an; phần điều kiện kinh doanh do Sở/QLTT theo NĐ 99/2020, NĐ 275/2026 |
-| Cơ sở không bảo đảm yêu cầu PCCC không thực hiện lộ trình Điều 43 | **Có** — Sở theo dõi giải pháp kỹ thuật | Công an |
+**Quy tắc nền:** mức tối đa cá nhân **50 triệu**, tổ chức ×2 (Đ4); hộ kinh doanh = mức cá nhân; **thời hiệu 01 năm** (Đ5); nhiều hành vi "gấp hai lần khi để xảy ra cháy" (khoản cuối mỗi điều). Mốc tính thời hiệu đặc thù (k4 Đ5): hành vi k1, k2 Đ18 (cải tạo/thi công chưa thẩm định) chấm dứt **từ ngày bàn giao công trình**; hành vi k3, k4 Đ18 (đưa vào sử dụng chưa nghiệm thu) chấm dứt **từ ngày công trình chấm dứt hoạt động** → gần như luôn còn thời hiệu khi cơ sở đang hoạt động.
 
-**Nguyên tắc ranh giới:** một cơ sở vi phạm PCCC + vi phạm chuyên ngành (ví dụ kho VLNCN vừa không đủ khoảng cách PCCC, vừa không có phương án bảo vệ ANTT kho): phần PCCC → Công an theo NĐ 106/2025; phần kho VLNCN → GĐ Sở theo NĐ 275/2026 Đ57 (khoản 5a "bảo quản tại kho không đáp ứng yêu cầu … PCCC, chống sét" là hành vi VLNCN — Sở phạt được dù nội dung là PCCC). Ghi rõ trong biên bản kiểm tra để tránh xử phạt hai lần cùng một hành vi (khoản 1 Điều 3 Luật XLVPHC).
+### B1. Thẩm quyền — điểm quyết định cho Sở
+- **Khoản 2 Điều 29:** *"Công chức, viên chức thuộc UBND các cấp, **cơ quan chuyên môn về xây dựng**, cơ quan đăng kiểm đang thi hành công vụ"* có thẩm quyền **lập biên bản VPHC**. → Đoàn kiểm tra của Sở (CQCM về xây dựng công trình công nghiệp) **lập được Biên bản VPHC Mẫu 01** cho hành vi Đ6–28 phát hiện khi kiểm tra định kỳ điểm g, h Đ13 NĐ 105 / kiểm tra nghiệm thu, rồi **chuyển trong 24 giờ** (k5 Đ58 Luật) đến người có thẩm quyền ra QĐ.
+- **Không có tên Giám đốc Sở** trong Đ30–36 → Sở không ra QĐ xử phạt. Người ra QĐ: Chủ tịch UBND xã (đến 5 tr — Đ30 k1), **Chủ tịch UBND tỉnh (đến 50 tr, tước văn bản thẩm định/nghiệm thu PCCC, đình chỉ — Đ30 k2)**; Công an (Đ31); Chánh Thanh tra tỉnh (35 tr — Đ36 k3). Với tổ chức, hầu hết hành vi Đ18, 23, 24, 25 có khung ×2 lên tới 100 tr → **vượt cấp xã, gửi Chủ tịch UBND tỉnh hoặc Công an tỉnh** (Trưởng phòng Cảnh sát PCCC theo Đ31 — mức GATE).
+- Phân định Đ37: Chủ tịch UBND và Công an xử được toàn bộ Đ6–28; Thanh tra Đ6–28; Biên phòng chỉ Đ7, 14, 15, 16, 20, 21.
+
+### B2. Bảng hành vi thuộc phạm vi Sở phát hiện (mức TỔ CHỨC = ×2)
+
+| Tồn tại phát hiện | Điểm-khoản-điều NĐ 106/2025 | Mức tổ chức | Bổ sung / khắc phục |
+|---|---|---|---|
+| Cải tạo, chuyển đổi công năng hạng mục thuộc diện thẩm định PCCC khi chưa có văn bản thẩm định | điểm a k1 Đ18 | 30–40 tr | ×2 nếu để cháy (k5) |
+| **Thi công công trình thuộc diện thẩm định khi chưa có văn bản thẩm định thiết kế PCCC** | k2 Đ18 | 40–50 tr | ×2 nếu để cháy |
+| **Đưa công trình đã thẩm định vào sử dụng khi chưa có văn bản chấp thuận nghiệm thu PCCC** | k3 Đ18 | 60–100 tr | Đình chỉ 3–6 tháng (điểm a k6) |
+| Đưa vào sử dụng khi chưa có cả thẩm định lẫn nghiệm thu | k4 Đ18 | 80–100 tr | Đình chỉ 6–12 tháng (điểm b k6) |
+| Để vật tư, hàng hóa, xe không bảo đảm khoảng cách PCCC | k1 Đ25 | 4–8 tr | Buộc di chuyển (9a) |
+| Không duy trì bộ phận ngăn cháy đã lắp (cửa, van ngăn cháy) | k2 Đ25 | 10–14 tr | Buộc duy trì (9b) |
+| Lắp ống dẫn khí/chất lỏng cháy nơi không được phép; không dọn chất cháy hành lang tuyến ống | k3 Đ25 | 16–20 tr | |
+| **Không duy trì khoảng cách PCCC giữa các nhà và công trình** (điểm g Đ13 NĐ 105) | điểm a k4 Đ25 | 40–50 tr | Buộc duy trì khoảng cách (9c) |
+| Không có bộ phận ngăn cháy | điểm b k4 Đ25 | 40–50 tr | |
+| Không có/không duy trì tường, vách, sàn ngăn cháy | k5 Đ25 | 60–80 tr | Buộc lắp đặt/duy trì (9d) |
+| **Xây dựng nhà, công trình không bảo đảm khoảng cách PCCC** | k6 Đ25 | 80–100 tr | Đình chỉ 6–12 tháng (k8) |
+| Cửa thoát nạn không mở theo chiều thoát; lắp gương trên đường thoát nạn | k1 Đ24 | 2–6 tr | Buộc mở cửa đúng chiều, tháo gương |
+| Để hàng hóa, xe cản trở lối/đường thoát nạn | k2 Đ24 | 10–20 tr | Buộc di chuyển |
+| Khóa cửa/không duy trì cửa trên lối thoát nạn | k3 Đ24 | 20–30 tr | Buộc duy trì cửa |
+| Không duy trì / không đủ lối thoát nạn của gian phòng, khu vực | k4 Đ24 | 40–60 tr | |
+| **Không duy trì / không đủ lối thoát nạn của nhà, công trình** (điểm h Đ13 NĐ 105) | k5 Đ24 | 80–100 tr | Đình chỉ 3–6 tháng (k6) |
+| Thiết bị thông gió thoát khói, tạo áp suất dư lắp không bảo đảm | k1 Đ23 | 20–40 tr | Buộc lắp đặt |
+| Không duy trì thông gió thoát khói / tạo áp suất dư đã lắp | k2 Đ23 | 40–50 tr | Buộc duy trì |
+| Không duy trì giải pháp thông gió khu vực sản xuất, bảo quản chất nguy hiểm cháy nổ (kho hóa chất, kho VLNCN, xưởng sơn) | k3 Đ23 | 60–80 tr | Đình chỉ 3–6 tháng (k6) |
+| Không có giải pháp thông gió thoát khói / không lắp tạo áp suất dư nơi bắt buộc | k4 Đ23 | 80–100 tr | |
+| Sắp xếp chất, hàng nguy hiểm cháy nổ không đúng quy định; bảo quản vượt số lượng | k1 Đ14 | 6–10 tr | Buộc giảm số lượng |
+| Bảo quản/sử dụng chất nguy hiểm cháy nổ không đúng nơi quy định | k2 Đ14 | 10–20 tr | Buộc di chuyển |
+| Để hình thành môi trường nguy hiểm cháy nổ vượt giới hạn dưới nồng độ bắt cháy | k3 Đ14 | 20–30 tr | |
+| Tàng trữ / sử dụng trái phép chất nguy hiểm cháy nổ (chưa hình sự) | k4 / k5 Đ14 | 40–50 / 90–100 tr | Tịch thu; xem Đ305 BLHS với VLNCN |
+| Không duy trì / không lắp thiết bị phát hiện rò rỉ, chống tĩnh điện (kho LPG, xăng dầu, hóa chất) | k1 / k2 Đ15 | 6–10 / 20–30 tr | |
+| San, chiết, nạp không đúng nơi / sai thiết bị chứa (LPG, xăng dầu) | k3 Đ15 | 40–50 tr | Tịch thu (điểm b) |
+| Sản xuất, kinh doanh trái phép chất nguy hiểm cháy nổ | k4 Đ15 | 80–100 tr | Tịch thu; tước văn bản thẩm định/nghiệm thu PCCC 6–12 tháng |
+| Vận chuyển: sắp xếp trên xe không an toàn PCC | k1 Đ16 | 6–10 tr | |
+| Không duy trì điều kiện PCC phương tiện; chở hàng khác/chở người cùng hàng cháy nổ | k2 Đ16 | 10–14 tr | Buộc duy trì |
+| Bốc dỡ, bơm chuyển không bảo đảm PCCC; không duy trì an toàn đường ống; bơm tại nơi không an toàn | k3 Đ16 | 40–50 tr | Buộc duy trì / buộc chuyển địa điểm |
+
+**Ranh giới với hành vi chuyên ngành của Sở:** kho VLNCN thiếu khoảng cách an toàn hoặc chống sét — chọn **một** cấu thành: hoặc điểm a k5 Đ57 NĐ 275/2026 (VLNCN — Sở phạt được, 100–140 tr, đình chỉ bảo quản) hoặc điểm a k4/k6 Đ25 NĐ 106 (PCCC — Chủ tịch UBND/Công an phạt). Nguyên tắc: cùng một hiện trạng không phạt hai lần (k1 Đ3 Luật); ưu tiên cấu thành đặc thù nặng hơn và trong thẩm quyền của Sở, ghi rõ lựa chọn trong Biên bản kiểm tra. Cửa hàng xăng dầu, LPG: vi phạm điều kiện kinh doanh → NĐ 99/2020 (QLTT), vi phạm PCCC → NĐ 106 Đ14–16.
 
 ## C. Quy trình kiểm tra định kỳ PCCC của Sở (cách làm đang áp dụng — `pccc-sct-vn/05` mục 4.3)
 
 NĐ 105 chưa quy định trình tự riêng cho cơ quan chuyên môn về xây dựng (vướng mắc đã nêu tại CV 314/SCT-CN 20/01/2026). Sở đang dùng 2 hình thức:
 
 1. **Phối hợp đoàn Công an**: Công an lập kế hoạch, biên bản chung; Sở cử người, có ý kiến riêng về điểm g, h. Sở không lập BB VPHC trong hình thức này — Công an lập.
-2. **Lồng ghép vào đoàn kiểm tra chuyên ngành của Sở** (theo NĐ 217/2025 + TT 56): QĐ kiểm tra Mẫu 03 ghi thêm nội dung "duy trì điều kiện PCCC theo điểm g, h khoản 1 Điều 13 NĐ 105/2025"; biên bản kiểm tra (Mẫu 05) có mục PCCC riêng; kết quả → nếu có vi phạm → **văn bản kiến nghị Phòng Cảnh sát PCCC&CNCH xử phạt** (`mau-van-ban/09`) kèm biên bản, ảnh; đồng thời yêu cầu cơ sở khắc phục có thời hạn.
+2. **Lồng ghép vào đoàn kiểm tra chuyên ngành của Sở** (theo NĐ 217/2025 + TT 56): QĐ kiểm tra Mẫu 03 ghi thêm nội dung "duy trì điều kiện PCCC theo điểm g, h khoản 1 Điều 13 NĐ 105/2025"; biên bản kiểm tra (Mẫu 05) có mục PCCC riêng; có vi phạm → **thành viên Đoàn lập Biên bản VPHC Mẫu 01** (thẩm quyền k2 Đ29 NĐ 106/2025, ghi lĩnh vực "phòng cháy, chữa cháy và cứu nạn, cứu hộ") → **chuyển trong 24 giờ** đến Chủ tịch UBND tỉnh (mức tổ chức > 10 tr) hoặc Công an tỉnh bằng `mau-van-ban/09` kèm biên bản, ảnh; đồng thời yêu cầu cơ sở khắc phục có thời hạn. Chưa đủ căn cứ lập BB VPHC (cần đo đạc chuyên môn) → kiến nghị Công an kiểm tra, xử lý.
 
 Nội dung kiểm tra và bộ câu hỏi thực địa: `checklists/06-pccc-co-so-cong-nghiep.md`.
 

@@ -33,13 +33,14 @@ Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + 
 3. **NĐ 189/2025** (thẩm quyền: GĐ Sở = 80% mức tối đa lĩnh vực) **sửa bởi NĐ 311/2026 ngày 06/8/2026 — hiệu lực 26/9/2026** (thêm Chánh Thanh tra tỉnh cùng nhóm GĐ Sở; Trưởng đoàn kiểm tra của tổ chức thuộc bộ) — ⚠️ bản gốc PDF ảnh, chưa OCR; không dẫn NĐ 311 trong QĐ ký trước 26/9/2026.
 4. **NĐ 217/2025 + TT 56/2025/TT-BCT** — kiểm tra chuyên ngành; **TT 56 chỉ có 01 mẫu biên bản (Mẫu 05)**.
 5. **NĐ 275/2026** (hóa chất + VLNCN, hiệu lực 25/8/2026; NĐ 71/2019 cho hành vi kết thúc trước mốc) — bản gốc trong `van-ban-goc/`; GĐ Sở đích danh Đ63.
-6. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 168/2024; NĐ 106/2025; NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.
-7. **QĐ 05/2025/QĐ-UBND** (chức năng Sở); **QĐ 1094/QĐ-SCT 09/3/2026** (giao quyền xử phạt PGĐ).
+6. **NĐ 106/2025** (PCCC, hiệu lực 01/7/2025) — bản gốc `van-ban-goc/pccc/`, bảng hành vi ref 04 mục B.
+7. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 168/2024; NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.
+8. **QĐ 05/2025/QĐ-UBND** (chức năng Sở); **QĐ 1094/QĐ-SCT 09/3/2026** (giao quyền xử phạt PGĐ).
 
 ## III. QUY TẮC CHỐT (không suy đoán lại)
 
 - **Thời hiệu**: hóa chất, VLNCN, HHNH, PCCC, lao động, ATTP, điện = **01 năm**; đất đai, xây dựng, môi trường, khoáng sản, hàng hóa, đầu tư = **02 năm** (Điều 6 Luật sđ 88/2025). Lĩnh vực theo **nghị định điều chỉnh hành vi**. Hành vi "không thực hiện nghĩa vụ" đang tồn tại = đang thực hiện → tính từ ngày phát hiện. Hết thời hiệu → điểm c khoản 1 Điều 65: không lập BB VPHC, không ra QĐ.
-- **XỬ / CHUYỂN** — 3 câu hỏi (`references/90`): (1) hành vi thuộc nghị định nào; (2) nghị định/NĐ 189+311 có trao thẩm quyền cho GĐ Sở hoặc QLTT không; (3) mức tổ chức và hình thức bổ sung có vượt trần GĐ Sở không. Sở tự phạt: hóa chất, VLNCN (kho, sử dụng, huấn luyện), hóa chất trong vận chuyển, điện lực, ATTP ngành CT (GATE mức), hàng hóa qua QLTT. Sở **không** phạt: giao thông, PCCC, ANTT, đầu tư, xây dựng, đất đai, môi trường, khoáng sản, lao động → chuyển bằng `mau-van-ban/09`, luôn yêu cầu "thông báo kết quả về Sở".
+- **XỬ / CHUYỂN** — 3 câu hỏi (`references/90`): (1) hành vi thuộc nghị định nào; (2) nghị định/NĐ 189+311 có trao thẩm quyền cho GĐ Sở hoặc QLTT không; (3) mức tổ chức và hình thức bổ sung có vượt trần GĐ Sở không. Sở tự phạt: hóa chất, VLNCN (kho, sử dụng, huấn luyện), hóa chất trong vận chuyển, điện lực, ATTP ngành CT (GATE mức), hàng hóa qua QLTT. Sở **không** ra QĐ phạt: giao thông, PCCC, ANTT, đầu tư, xây dựng, đất đai, môi trường, khoáng sản, lao động → chuyển bằng `mau-van-ban/09`, luôn yêu cầu "thông báo kết quả về Sở". **Riêng PCCC**: công chức Sở (CQCM về xây dựng) **được lập BB VPHC** theo k2 Đ29 NĐ 106/2025 → lập rồi chuyển Chủ tịch UBND tỉnh/Công an trong 24h.
 - **Thể thức**: bám hồ sơ đã ban hành trong `vi-du-thuc-te/` trước mọi suy luận từ mẫu trong thông tư; khối ký Đoàn "TM. ĐOÀN KIỂM TRA / TRƯỞNG ĐOÀN"; BB VPHC 01 người lập, đủ 10 mục; QĐ-XPHC đủ 12 dòng căn cứ gồm Điều 57, 68, 70, 78, 85 Luật và QĐ 1094; mức = trung bình khung tổ chức; "10 ngày làm việc" cho thời hạn kiểm tra theo cách Sở đã thống nhất.
 - **Kiểm tra sau kết luận thanh tra** (KL 48, KL 45): KLTT không thay biên bản VPHC; lập đoàn kiểm tra riêng đối tượng bên thứ ba; không "kiểm tra lại" nội dung đã kết luận; dẫn chiếu đúng mục/trang KLTT; thời hiệu chạy song song. Sở nằm trong bảng trách nhiệm KLTT → báo cáo theo Điều 54 Luật Thanh tra 2025 bằng `mau-van-ban/12`.
 - **Chuyển tiếp 25/8/2026** (hóa chất, VLNCN): hành vi kết thúc trước → NĐ 71/2019; đang diễn ra/sau → NĐ 275/2026 (k1 Đ74); khiếu nại QĐ cũ → quy định thời điểm ban hành.
@@ -85,5 +86,5 @@ xp-sct-vn/skills/xp-sct-vn/
 ├── mau-van-ban/ 00-README + 01–12
 ├── checklists/ 00-README + 01–08
 ├── vi-du-thuc-te/ (Khí công nghiệp mẫu thật 7 file; HCM Tây Bắc 10 file; KL 45 Viglacera; KH PGĐ duyệt)
-└── van-ban-goc/ (NĐ 275/2026, NĐ 282/2025, TT 56/2025, VBHN 78/2026 + INDEX)
+└── van-ban-goc/ (NĐ 275/2026, NĐ 282/2025, TT 56/2025, VBHN 78/2026, pccc/NĐ 106/2025 + INDEX)
 ```

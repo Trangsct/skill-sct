@@ -17,13 +17,14 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 
 **Chưa có trong gói (tra vbpl.vn/hỏi Bạn khi cần nguyên văn):** Luật XLVPHC bản hợp nhất sau Luật 88/2025; NĐ 118/2021 (sđ NĐ 68/2025, NĐ 190/2025); NĐ 189/2025.
 
+| **pccc/ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.docx** | **Nghị định 106/2025/NĐ-CP ngày 15/5/2025** — xử phạt VPHC lĩnh vực PCCC và CNCH (hiệu lực 01/7/2025; bãi bỏ mục 3 Chương II NĐ 144/2021; 41 điều) | Đ4 mức, Đ5 thời hiệu (mốc riêng Đ18), Đ14–16 chất hàng nguy hiểm cháy nổ, **Đ18 thẩm định – nghiệm thu**, **Đ23–25 chống khói – thoát nạn – ngăn cháy**, **k2 Đ29 công chức CQCM về xây dựng lập BB VPHC**, Đ30 UBND, Đ31 Công an, Đ36 Thanh tra, Đ37 phân định, Đ40 chuyển tiếp; hướng dẫn: `references/04` mục B |
+
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
 | NĐ 189/2025 + **NĐ 311/2026** (06/8/2026, hiệu lực 26/9/2026; PDF ký số dạng ảnh: https://chinhphu.vn/?docid=219135&pageid=27160 — tải thủ công, cần OCR) | Thẩm quyền xử phạt các chức danh | 00, 07 mục G |
 | NĐ 118/2021 + 68/2025 + 190/2025; VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00 |
 | NĐ 168/2024 | Giao thông đường bộ (HHNH Đ23) | 02 |
-| NĐ 106/2025 | PCCC | 04 |
 | NĐ 122/2021 + 288/2026 | Đầu tư | 03 |
 | NĐ 16/2022 (theo dõi dự thảo thay) | Xây dựng | 03 |
 | NĐ 123/2024 + 281/2026 | Đất đai | 03 |

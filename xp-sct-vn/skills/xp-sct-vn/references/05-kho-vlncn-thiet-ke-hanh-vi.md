@@ -39,7 +39,7 @@ Mức ghi = **tổ chức** (đã ×2). Thẩm quyền GĐ Sở với tổ chứ
 | Tồn tại | Nghị định | Cơ quan | Sở làm gì |
 |---|---|---|---|
 | Không có GCN đủ điều kiện về ANTT cho kho; vi phạm điều kiện ANTT | **NĐ 282/2025** Điều 12; NĐ 56/2023 (ANTT) | Công an tỉnh | Ghi nhận, chuyển — `01-vlncn-hoachat/06` |
-| Kho không có văn bản chấp thuận kết quả nghiệm thu PCCC của Công an; không bảo đảm điều kiện PCCC vận hành (phương tiện chữa cháy, hệ thống báo cháy…) | **NĐ 106/2025** | Cảnh sát PCCC | Chuyển; **riêng khoảng cách PCCC, đường vào, chống cháy lan** Sở kiểm tra định kỳ (điểm g, h Đ13 NĐ 105) — reference 04 |
+| Kho đưa vào sử dụng chưa có văn bản chấp thuận nghiệm thu PCCC (k3/k4 Đ18 NĐ 106: 60–100 tr, đình chỉ 3–12 tháng); thi công chưa thẩm định PCCC (k2 Đ18); không bảo đảm điều kiện PCCC vận hành (phương tiện chữa cháy, báo cháy — Đ20–22) | **NĐ 106/2025** (bản gốc trong `van-ban-goc/pccc/`) | Chủ tịch UBND tỉnh; Cảnh sát PCCC | Đoàn của Sở **lập BB VPHC** (k2 Đ29 NĐ 106) → chuyển 24h; khoảng cách PCCC, chống cháy lan: chọn 1 cấu thành — VLNCN (a k5 Đ57 NĐ 275, Sở phạt) hoặc PCCC (a k4/k6 Đ25 NĐ 106) — reference 04 mục B |
 | Kho là công trình xây dựng không phép/sai phép trên đất không đúng mục đích | NĐ 16/2022; NĐ 123/2024 | UBND xã; SNNMT | Chuyển; nếu công trình do Sở thẩm định thiết kế (`xd-sct-vn/02`) thì Sở lập biên bản phần chất lượng — GATE thẩm quyền lập biên bản |
 | Vận chuyển VLNCN đến/đi khỏi kho không có giấy phép vận chuyển của Công an | NĐ 275/2026 Đ58 (Công an chủ trì) | Công an | Chuyển |
 | Kho trong khu vực mỏ khai thác ngoài ranh giới, ngoài phạm vi thuê đất | NĐ 36/2020 (khoáng sản); NĐ 123/2024 | SNNMT | Chuyển — reference 06 |

@@ -4,8 +4,8 @@
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
   "metadata": {
-    "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 19 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.7"
+    "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
+    "version": "4.11.8"
   },
   "plugins": [
     {
@@ -121,6 +121,12 @@
       "source": "./xp-hc-vlncn-sct-vn",
       "description": "Xu phat vi pham hanh chinh linh vuc HOA CHAT va VAT LIEU NO CONG NGHIEP - So Cong Thuong tinh Lao Cai: NĐ 275/2026/ND-CP (hieu luc 25/8/2026, truoc do van ap dung ND 71/2019 sd ND 17/2022), phan dinh voi ND 282/2025/ND-CP linh vuc an ninh trat tu, tra hanh vi - muc phat, tham quyen, chuyen tiep, mau bien ban - quyet dinh xu phat; quy trinh kiem tra chuyen nganh NĐ 217/2025 + TT 56/2025/TT-BCT (Mau so 03, tam dung - dinh chi, kiem tra sau ket luan thanh tra).",
       "version": "1.6.0"
+    },
+    {
+      "name": "xp-sct-vn",
+      "source": "./xp-sct-vn",
+      "description": "Xử phạt VPHC và kiểm tra chuyên ngành ĐA LĨNH VỰC - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026, kế thừa xp-hc-vlncn-sct-vn), kho VLNCN, HHNH (NĐ 168/2024), CCN (đầu tư, xây dựng, đất đai, môi trường), PCCC ngành CT (NĐ 105/106), khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 12 mẫu văn bản, 8 checklist kiểm tra, hồ sơ mẫu thật.",
+      "version": "1.0.0"
     }
   ]
 }

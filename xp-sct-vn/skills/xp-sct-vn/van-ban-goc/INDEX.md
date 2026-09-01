@@ -26,14 +26,17 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | **attp/ND-124-2021-NDCP-...docx** | **NĐ 124/2021/NĐ-CP ngày 28/12/2021** — sửa NĐ 115/2018 (Điều 1, 22 khoản) và NĐ 117/2020 (hiệu lực 01/01/2022; PTTg Vũ Đức Đam) | Đ3 mức tổ chức mở rộng; Đ9 giấy xác nhận tập huấn; Đ18 GCN hết hiệu lực; Đ20 hệ thống dữ liệu, phiếu kiểm nghiệm hết hạn; Đ21; Đ28, 29 (Trưởng đoàn thanh tra cấp sở), 34 QLTT, 35; k2 Đ3 bãi bỏ; k2 Đ4 chuyển tiếp có lợi — `references/07` |
 | **attp/ND-115-2018-NDCP-...docx** | **NĐ 115/2018/NĐ-CP ngày 04/9/2018** — xử phạt ATTP (hiệu lực 20/10/2018) — bản gốc 2018, **đọc cùng NĐ 124/2021** | Đ3 mức (Đ18, 19, 24 = mức tổ chức), Đ9, Đ18, Đ20, Đ21, **Đ27 lập biên bản (công chức ngành CT)**, Đ28 UBND, **Đ29 Chánh TT Sở CT 50/100 tr**, Đ34 QLTT, Đ35 phân định — `references/07` |
 
+| **dien-luc/ND-133-2026-...docx** | **NĐ 133/2026/NĐ-CP ngày 06/4/2026** — xử phạt điện lực (hiệu lực 25/5/2026; 32 điều) | Đ3 thời hiệu; Đ4 mức; Đ17–22; Đ23 lập BB; **Đ25 GĐ Sở CT 80/160 tr**; Đ30–31 — `references/09` A |
+| **xang-dau-khi/ND-99-2020-...docx** | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** — xử phạt dầu khí, xăng dầu, khí (hiệu lực 11/10/2020; **chưa hợp nhất NĐ 17/2022**) | Đ5 mức tổ chức; Đ14, 39, 40, 47; Đ55 lập BB; Đ56, 61, 62, 63 — `references/09` B |
+| **thuong-mai/ND-98-2020-...docx** + **ND-24-2025-...docx** | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (chưa hợp nhất NĐ 17/2022) và **NĐ 24/2025/NĐ-CP** sửa đổi | Đ4; Đ80–82, 87 — `references/09` C |
+| **khoang-san/ND-36-2020-...docx** | **NĐ 36/2020/NĐ-CP ngày 24/3/2020** — xử phạt tài nguyên nước, khoáng sản (hiệu lực 10/5/2020; **chưa hợp nhất NĐ 04/2022**) | Đ36–41, Đ55–62; **Đ65 thanh tra chuyên ngành công thương**; Đ64, 69, 70 — `references/09` D |
+| **moi-truong/ND-45-2022-...docx** | **NĐ 45/2022/NĐ-CP ngày 07/7/2022** — xử phạt BVMT | Đ5, 6, **Đ15 CCN**, Đ64, **Đ68 phân định (Sở CT: Đ45, 46)**, Đ71 — `references/09` E |
+| **dat-dai/ND-123-2024-...docx** + **ND-281-2026-...docx** | **NĐ 123/2024/NĐ-CP ngày 04/10/2024** và **NĐ 281/2026/NĐ-CP ngày 13/7/2026** (hiệu lực 31/8/2026) | Đ3, 13, 16; Đ30 (xã 250 tr), Đ31 (GĐ Sở NN&MT 400 tr), Đ32 lập BB; Đ11 NĐ 281 chuyển tiếp — `references/09` F |
+| **xay-dung/ND-16-2022-...docx** | **NĐ 16/2022/NĐ-CP ngày 28/01/2022** — xử phạt xây dựng | Đ4, 5, 15, 16, 72 (k4 lập BB), 73–80 — `references/09` G |
+| **dau-tu/ND-122-2021-...docx** + **ND-288-2026-...docx** | **NĐ 122/2021/NĐ-CP ngày 28/12/2021** và **NĐ 288/2026/NĐ-CP ngày 21/7/2026** (sửa phần đăng ký DN) | **Đ5 thời hiệu 01 năm**; Đ15, 17, 18, 19; Đ74; Đ79 (k4 lập BB) — `references/09` H |
+
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
 | NĐ 118/2021 + 68/2025 + 190/2025; VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00 |
-| NĐ 122/2021 + 288/2026 | Đầu tư | 03 |
-| NĐ 16/2022 (theo dõi dự thảo thay) | Xây dựng | 03 |
-| NĐ 123/2024 + 281/2026 | Đất đai | 03 |
-| NĐ 45/2022 (theo dõi dự thảo thay) | Môi trường | 03, 06 |
-| NĐ 36/2020 + 04/2022 (theo dõi dự thảo thay) | Khoáng sản | 06 |
-| NĐ 133/2026 | Điện lực | 07 |
-| NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025 | Xăng dầu, khí; thương mại | 07 |
+| NĐ 04/2022 (sửa NĐ 36/2020); NĐ 17/2022 (sửa NĐ 98, 99, 71) | Khoáng sản; thương mại, xăng dầu | 06, 07 |

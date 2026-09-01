@@ -27,26 +27,26 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định xử phạt | **NĐ 133/2026/NĐ-CP ngày 06/4/2026, hiệu lực 25/5/2026** — xử phạt điện lực (thay NĐ 134/2013 sđ NĐ 17/2022); giảm mạnh mức phạt, bổ sung hành vi mới |
-| Thời hiệu | 01 năm |
+| Nghị định xử phạt | **NĐ 133/2026/NĐ-CP ngày 06/4/2026, hiệu lực 25/5/2026** (bản gốc `van-ban-goc/dien-luc/`, 32 điều; bãi bỏ phần điện lực NĐ 134/2013 sđ 17/2022 — k2 Đ30; chuyển tiếp Đ31). Chi tiết `references/09` mục A |
+| Thời hiệu (k1 Đ3) | 01 năm; phát điện, XNK điện, mua bán điện 02 năm. Mức tối đa 100/200 tr; bổ sung chỉ tịch thu (k2 Đ4) |
 | Nhóm hành vi hay gặp ở Lào Cai | Vi phạm hành lang an toàn lưới điện cao áp; thủy điện không tuân thủ quy trình vận hành hồ chứa/an toàn đập; hoạt động điện lực không giấy phép; không kiểm định thiết bị điện; mua bán điện sai quy định; sử dụng điện không an toàn trong sản xuất |
-| Thẩm quyền | Chủ tịch UBND; **Giám đốc Sở Công Thương** (NĐ 133/2026 quy định đích danh — GATE mức); Cục Điện lực |
+| Thẩm quyền (nguyên văn) | **Đ25 Giám đốc Sở Công Thương: 80 tr CN / 160 tr TC**, tịch thu, khắc phục — với k1–7 Đ6; k1–3 Đ7; điểm a k2 Đ8; Đ10; k1–3 Đ11; k1–4 Đ12; Đ13; Đ17–20; k1–4 Đ21; Đ22. Chủ tịch xã 50/100 tr (k1 Đ24); tỉnh 100/200 (k2 Đ24); **k2 Đ23: công chức cơ quan chuyên môn về điện lực lập biên bản** |
 | Liên quan phòng QLCN | Kho VLNCN, kho hóa chất, nhà máy chế biến trong hành lang lưới điện; điện trong kho VLNCN (QCVN 01:2019) — phần điện trong kho xử theo NĐ 275/2026 Đ57, phần hành lang lưới điện theo NĐ 133/2026 |
 
 ## D. Xăng dầu, LPG, khí (phòng QLNL/QLTM cấp phép; QLCN theo dõi PCCC, HHNH)
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định xử phạt | **NĐ 99/2020/NĐ-CP** (sđ **NĐ 17/2022**) — xử phạt lĩnh vực dầu khí, kinh doanh xăng dầu và khí. ⚠️ GATE: nghị định kinh doanh xăng dầu mới (thay NĐ 83/2014, 95/2021, 80/2023) ban hành 2025 → kiểm tra xem NĐ 99/2020 đã được thay/sửa chưa |
+| Nghị định xử phạt | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** (hiệu lực 11/10/2020; bản gốc `van-ban-goc/xang-dau-khi/` **chưa hợp nhất NĐ 17/2022** ⚠️). **Mức ghi tại NĐ là mức TỔ CHỨC, cá nhân = ½ (Đ5)**. Chi tiết `references/09` mục B |
 | Nhóm hành vi | Kinh doanh xăng dầu, LPG không GCN đủ điều kiện; cửa hàng không đủ điều kiện (bồn, trụ bơm, khoảng cách, PCCC); chiết nạp LPG trái phép; chai LPG không đủ điều kiện lưu thông; không có hợp đồng với thương nhân đầu mối; niêm yết giá; đo lường (NĐ 119/2017 → GATE) |
-| Thẩm quyền | Chủ tịch UBND; **QLTT** (chủ lực); Giám đốc Sở (GATE) |
+| Thẩm quyền (nguyên văn) | **k2 Đ55: công chức đang thi hành nhiệm vụ thanh tra, kiểm tra lĩnh vực xăng dầu, khí lập biên bản**; Đ61 QLTT: Đội trưởng 25/50 tr, Chi cục trưởng 50/100 tr + tước GP; **k2 Đ62 "Chánh Thanh tra sở" 50/100 tr, tước GP** → GĐ Sở qua k2 Đ21 NĐ 189; Chủ tịch xã 5/10 tr (→ NĐ 189: 50%); tỉnh 100/200 (dầu khí 1 tỷ/2 tỷ) |
 | Sở Công Thương | Cấp GCN đủ điều kiện (QLTM/QLNL) → công cụ thu hồi GCN; kiểm tra định kỳ PCCC cửa hàng xăng dầu, kho LPG (reference 04); vận chuyển LPG là HHNH loại 2 (reference 02) |
 
 ## E. Thương mại, hàng giả, hàng cấm, bảo vệ người tiêu dùng (Chi cục QLTT — trực thuộc Sở)
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định | **NĐ 98/2020/NĐ-CP** (sđ **NĐ 17/2022**, **NĐ 24/2025/NĐ-CP**); thời hiệu **02 năm** với sản xuất, xuất nhập khẩu, kinh doanh hàng hóa, hàng cấm, hàng giả |
+| Nghị định | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (bản gốc `van-ban-goc/thuong-mai/` chưa hợp nhất NĐ 17/2022 ⚠️) sđ **NĐ 24/2025/NĐ-CP** (hiệu lực từ ngày ký; thay Mục 9 Chương II Đ46–61 bảo vệ NTD; sửa Đ4, 17, 40, 62, 64, thẩm quyền Đ78–88); thời hiệu **02 năm**. Đ80: công chức QLTT lập biên bản; Đ82 Đội trưởng 25/50, Chi cục trưởng 50/100 tr + tước GP. Chi tiết `references/09` mục C |
 | Khi nào QLCN gặp | Khoáng sản không nguồn gốc (reference 06); hóa chất, tiền chất không hóa đơn chứng từ; rượu, thuốc lá không phép (ATTP); phân bón, thuốc BVTV (nếu vẫn thuộc QLTT) |
 | Cách xử | Vi phạm dạng hàng hóa lưu thông → **chuyển Chi cục QLTT** kèm biên bản, bảng kê hàng hóa; QLTT lập biên bản, xử phạt theo thẩm quyền Đội trưởng/Chi cục trưởng (NĐ 189/2025 + NĐ 311/2026) |
 

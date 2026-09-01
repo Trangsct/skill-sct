@@ -4,7 +4,7 @@ Nghiệp vụ: `qlks-sct-vn` (đặc biệt reference 02 phân vai, 08 kiểm tr
 
 ## A. Khoáng sản
 
-**Nghị định xử phạt hiện hành (đã xác minh 5/2026):** **NĐ 36/2020/NĐ-CP** (24/3/2020) sửa đổi bởi **NĐ 04/2022/NĐ-CP** và **NĐ 290/2025/NĐ-CP** (phần tài nguyên nước). Bộ NN&MT đã công bố **dự thảo nghị định xử phạt khoáng sản mới** theo Luật ĐC&KS 54/2024 (3/2026, thay đổi cách tính vượt công suất — chỉ còn 2 mức 50–100% và ≥100%) — ⚠️ GATE: trước khi viện dẫn, kiểm tra vbpl.vn xem nghị định mới đã ban hành chưa; chưa xác minh thì mô tả hành vi + "xử lý theo quy định pháp luật về xử phạt VPHC trong lĩnh vực khoáng sản".
+**Nghị định xử phạt hiện hành:** **NĐ 36/2020/NĐ-CP** (24/3/2020, hiệu lực 10/5/2020; bản gốc `van-ban-goc/khoang-san/` — chưa hợp nhất NĐ 04/2022) sửa đổi bởi **NĐ 04/2022/NĐ-CP** và **NĐ 290/2025/NĐ-CP** (phần tài nguyên nước). **ĐÃ ĐỐI CHIẾU BẢN GỐC — Điều 65: thanh tra chuyên ngành công thương có thẩm quyền xử phạt các Điều 36, 38, 39 và Mục 2 Chương III (Đ55–62 kỹ thuật an toàn khai thác mỏ)**; Chánh Thanh tra Sở CT/Trưởng đoàn thanh tra do GĐ Sở CT lập: 50 tr, đình chỉ khai thác (k2 Đ65) → chuyển đổi sang Giám đốc Sở theo k2 Đ21 NĐ 189/2025 (`references/09` mục D). Các điều còn lại (Đ37 ranh giới, Đ40 trạm cân, Đ41 công suất, Đ47 không GP, Đ49 đóng cửa mỏ) không thuộc Đ65 → chuyển SNNMT. Bộ NN&MT đã công bố **dự thảo nghị định xử phạt khoáng sản mới** theo Luật ĐC&KS 54/2024 (3/2026, thay đổi cách tính vượt công suất — chỉ còn 2 mức 50–100% và ≥100%) — ⚠️ GATE: trước khi viện dẫn, kiểm tra vbpl.vn xem nghị định mới đã ban hành chưa; chưa xác minh thì mô tả hành vi + "xử lý theo quy định pháp luật về xử phạt VPHC trong lĩnh vực khoáng sản".
 
 | Hành vi Sở hay phát hiện khi kiểm tra mỏ (VLNCN, thiết kế mỏ, an toàn) | Điều NĐ 36/2020 (định vị, GATE khoản) | Cơ quan xử phạt | Sở Công Thương |
 |---|---|---|---|
@@ -12,8 +12,8 @@ Nghiệp vụ: `qlks-sct-vn` (đặc biệt reference 02 phân vai, 08 kiểm tr
 | Khai thác **vượt công suất** | Điều 41 | SNNMT, UBND | Đối chiếu VLNCN – sản lượng (`qlks-sct-vn` nghiệp vụ 4): sản lượng khai báo thấp nhưng lượng thuốc nổ sử dụng cao là dấu hiệu → chuyển kèm bảng đối chiếu |
 | **Không lắp trạm cân, camera** (KL 45 mục II.2.2) | Điều 40 (nghĩa vụ chủ mỏ về thống kê, kiểm kê, trạm cân) | SNNMT, UBND | Ghi nhận; chuyển (Thanh tra tỉnh đã chuyển SNNMT bằng VB 863/TT-P4 — tiền lệ) |
 | Không đăng ký ngày bắt đầu xây dựng cơ bản, ngày bắt đầu khai thác (KL 45) | Điều 40 | SNNMT | Chuyển |
-| **Không có/không đúng Giám đốc điều hành mỏ**; không nộp thiết kế mỏ; **khai thác không đúng thiết kế mỏ** | Điều 38, 39 | SNNMT, UBND | Thiết kế mỏ do **Sở thẩm định** (`tkm-sct-vn`) → Sở kiểm tra tuân thủ thiết kế, lập **biên bản kiểm tra** làm căn cứ, kiến nghị đình chỉ/xử phạt; xử phạt vẫn thuộc SNNMT/UBND |
-| Không lập/gửi Kế hoạch quản lý rủi ro; vi phạm quy chuẩn an toàn khai thác | Điều 38 + pháp luật ATVSLĐ (NĐ 283/2026) | SNNMT; Sở Nội vụ (ATVSLĐ) | Sở kiểm tra an toàn kỹ thuật (nhóm I) → biên bản, kiến nghị |
+| **Không có/không đúng Giám đốc điều hành mỏ** (Đ39: k1 vi phạm quy định; k2 bổ nhiệm sai tiêu chuẩn; k3 không có GĐĐH); thiết kế mỏ (Đ38: k1 thiết kế không phù hợp dự án/GP; k2 không nộp thiết kế; k3 khai thác không đúng phương pháp, hệ thống mở vỉa; k4 không có thiết kế) | Điều 38, 39 | SNNMT, UBND **và thanh tra chuyên ngành công thương (Đ65)** | **Sở XỬ được** (Đ65 → GĐ Sở qua Đ21 NĐ 189): lập biên bản kiểm tra + BB VPHC, trình GĐ Sở; hình thức đình chỉ khai thác theo k2 Đ65; khắc phục k6 Đ38 |
+| Kỹ thuật an toàn khai thác mỏ: hồ sơ KTAT, hộ chiếu khai thác (Đ55); công nghệ, thiết bị vận tải vào mỏ (Đ56); thông gió, thoát nước (Đ57); điện trong mỏ (Đ58); nhà máy tuyển (Đ59); thuốc tuyển, kho khoáng sản, bãi thải, hồ thải quặng đuôi (Đ60); hồ sơ an toàn (Đ61); kiểm tra, giám sát KTAT (Đ62) | **Mục 2 Chương III NĐ 36/2020 (Đ55–62)** | **Thanh tra chuyên ngành công thương (Đ65)**; UBND | **Sở XỬ được** — đây là mảng Sở kiểm tra an toàn kỹ thuật mỏ nhóm I; ATVSLĐ chung → NĐ 283/2026 (Sở Nội vụ) |
 | Chế biến, tàng trữ, vận chuyển khoáng sản **không nguồn gốc hợp pháp** | Điều 54 (khoáng sản không nguồn gốc); NĐ 98/2020 | QLTT (thuộc Sở), Công an | Chuyển **Chi cục QLTT** — nội bộ Sở |
 | Chưa nộp tiền cấp quyền khai thác khoáng sản đi kèm; kê khai thiếu thuế tài nguyên (KL 45: 46,5 tr + 133,3 tr) | Luật Quản lý thuế; NĐ 125/2020 (thuế) | Thuế tỉnh | Không liên quan |
 
@@ -21,7 +21,7 @@ Nghiệp vụ: `qlks-sct-vn` (đặc biệt reference 02 phân vai, 08 kiểm tr
 
 ## B. Bảo vệ môi trường
 
-**Nghị định:** **NĐ 45/2022/NĐ-CP** (07/7/2022, hiệu lực 25/8/2022) — vẫn hiện hành đến 9/2026; **dự thảo thay thế đã gửi Bộ Tư pháp thẩm định (6/2026)**, dự kiến giảm thời gian đình chỉ/tước GPMT xuống 1–2 tháng. ⚠️ GATE tương tự khoáng sản.
+**Nghị định:** **NĐ 45/2022/NĐ-CP** (07/7/2022; bản gốc `van-ban-goc/moi-truong/`) — hiện hành; dự thảo thay thế đang thẩm định (6/2026). **Đã đối chiếu: thời hiệu 02 năm (Đ5); Điều 64 k4 Chánh Thanh tra Sở CT 50 tr, tước GP, đình chỉ; Điều 68 phân định: thanh tra công thương chỉ xử Điều 45 (giảm nhẹ phát thải KNK) và Điều 46 (bảo vệ tầng ô-dôn); Điều 71 lập biên bản không có công chức Sở CT (trừ tư cách người có thẩm quyền theo Đ64 với Đ45, 46)**. Khoản 3 Điều 15 (hạ tầng CCN) chép nguyên văn tại `references/09` mục E.
 
 | Hành vi Sở hay gặp | Điều NĐ 45/2022 (định vị) | Cơ quan | Sở Công Thương |
 |---|---|---|---|

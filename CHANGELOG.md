@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.2.0: 11 bản gốc 8 nhánh — Sở CT có thẩm quyền khoáng sản (Đ65 NĐ 36/2020), môi trường chỉ Đ45–46, đầu tư thời hiệu 01 năm
+
+Reference 09 mới đối chiếu nguyên văn NĐ 133/2026, 99/2020, 98/2020 + 24/2025, 36/2020, 45/2022, 123/2024 + 281/2026, 16/2022, 122/2021 + 288/2026. Sửa 8 nhận định (thời hiệu đầu tư 01 năm; Điều 65 NĐ 36/2020 trao thẩm quyền khoáng sản cho thanh tra công thương; Điều 68 NĐ 45/2022 giới hạn Sở CT ở Đ45–46; NĐ 281 nâng xã lên 250 tr; NĐ 133 GĐ Sở 80/160 tr; NĐ 99 mức tổ chức; ai lập biên bản theo từng nghị định).
+
 ## 01/9/2026 — xp-sct-vn v1.1.1: bản gốc NĐ 124/2021 sửa NĐ 115/2018 (ATTP)
 
 Đối chiếu 22 khoản sửa: GCN hết hiệu lực xử như không GCN (k2 Đ18, 30–40 tr TC); hành vi không có giấy xác nhận tập huấn kiến thức ATTP (k3đ, k5d Đ9); mức tổ chức ghi sẵn mở rộng (k2 Đ3); Trưởng đoàn thanh tra cấp sở (k3 Đ29). Ref 07, checklist 07, INDEX cập nhật.

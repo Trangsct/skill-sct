@@ -44,6 +44,8 @@ Bản gốc: `van-ban-goc/chung/ND-189-2025-NDCP-tham-quyen-xu-phat.docx` (21 đ
 4. **Chức danh không có ở nghị định chuyên ngành và cũng không có ở NĐ 189** (Trưởng đoàn kiểm tra của Sở; Trưởng phòng QLCN): không có thẩm quyền xử phạt. Muốn xử phạt tại chỗ phải trình GĐ/PGĐ được giao quyền.
 5. **Từ 26/9/2026** (NĐ 311): thêm Chánh Thanh tra tỉnh (80%), Thanh tra viên và Trưởng đoàn thanh tra Thanh tra tỉnh — khi Thanh tra tỉnh thanh tra doanh nghiệp ngành CT, họ tự xử phạt được; Sở chỉ xử phần kiến nghị chuyển (tiền lệ KL 48). Trưởng đoàn kiểm tra cấp tổ chức thuộc bộ giảm từ 80% xuống 50%.
 
+6. **Hai nghị định cũ trao thẩm quyền cho "thanh tra chuyên ngành công thương"** ngoài lĩnh vực Công Thương: NĐ 36/2020 Đ65 (khoáng sản: Đ36, 38, 39, 55–62 — Chánh TT Sở CT 50 tr, đình chỉ khai thác) và NĐ 45/2022 Đ64 + Đ68 (môi trường: chỉ Đ45, 46). Theo k2 Đ21 NĐ 189, Giám đốc Sở tiếp nhận; mức 80% trần lĩnh vực (khoáng sản, môi trường: trần 1 tỷ cá nhân theo Điều 24 Luật → 800 tr) — con số này vượt xa 50 tr cũ, nên **trước khi ký QĐ đầu tiên phải có ý kiến Sở Tư pháp**; phương án an toàn là trình Chủ tịch UBND tỉnh.
+
 ## E. Câu viện dẫn trong QĐ xử phạt (cập nhật theo ngày ký)
 
 - Ký **trước 26/9/2026**: *"Căn cứ Nghị định số 189/2025/NĐ-CP ngày 01/7/2025 của Chính phủ quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính;"*

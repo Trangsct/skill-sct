@@ -83,6 +83,6 @@ về sự cố trong vận chuyển hàng hóa nguy hiểm
 
 1. Mỗi số liệu phải có nguồn (sổ theo dõi, hồ sơ lưu); **không suy đoán, không làm tròn cho đẹp**.
 2. Trích dẫn văn bản (số, ngày, cơ quan) phải đúng tuyệt đối; thiếu nguồn thì viết chung và ghi chú đề nghị xác minh.
-3. Phân tách rõ "Sở xử phạt" và "chuyển cơ quan khác xử lý" để không phản ánh sai thẩm quyền (xem plugin xử phạt riêng `xlvphc-sct-vn`).
+3. Phân tách rõ "Sở xử phạt" và "chuyển cơ quan khác xử lý" để không phản ánh sai thẩm quyền (xem plugin xử phạt riêng `xp-sct-vn`).
 4. Bám đúng đề cương/biểu mẫu của văn bản yêu cầu báo cáo nếu có; nếu không có đề cương, dùng khung tại mục 3/4.
 5. Báo cáo do PGĐ phụ trách lĩnh vực ký (SCT-CN); báo cáo quan trọng/Tờ trình UBND tỉnh do Giám đốc Sở ký - xác định đúng người ký trước khi hoàn thiện.

@@ -33,7 +33,9 @@ Khi CHUYỂN: luôn ghi nhận đủ trong Biên bản kiểm tra + văn bản c
 
 ## Việc còn nợ (để mở rộng ở phiên sau)
 
-- [ ] Tải bản gốc: NĐ 189/2025, **NĐ 311/2026**, NĐ 106/2025, NĐ 283/2026, NĐ 133/2026, NĐ 168/2024, NĐ 122/2021 + 288/2026, NĐ 123/2024 + 281/2026, NĐ 45/2022, NĐ 36/2020 + 04/2022, NĐ 115/2018 + 124/2021, NĐ 99/2020, NĐ 98/2020 + 24/2025 → `van-ban-goc/` (chia thư mục theo lĩnh vực).
+- [x] Xác minh NĐ 311/2026: ban hành 06/8/2026, hiệu lực 26/9/2026, GĐ Sở = 80% mức tối đa (k2 Đ6 NĐ 189) — bản gốc PDF ảnh tại chinhphu.vn docid=219135, tải thủ công.
+- [ ] Tải bản gốc: NĐ 189/2025, NĐ 311/2026, NĐ 106/2025, NĐ 283/2026, NĐ 133/2026, NĐ 168/2024, NĐ 122/2021 + 288/2026, NĐ 123/2024 + 281/2026, NĐ 45/2022, NĐ 36/2020 + 04/2022, NĐ 115/2018 + 124/2021, NĐ 99/2020, NĐ 98/2020 + 24/2025 → `van-ban-goc/` (chia thư mục theo lĩnh vực).
 - [ ] Lập bảng hành vi – mức – bổ sung cho từng nhánh theo mẫu `01-vlncn-hoachat/02-hanh-vi-vlncn.md` (ưu tiên: NĐ 106/2025, NĐ 168/2024 Đ23, NĐ 283/2026 chương ATVSLĐ, NĐ 115/2018).
 - [ ] Điền bảng thẩm quyền mục G reference 07 sau khi có NĐ 311/2026.
-- [ ] Sửa các plugin `hnh-sct-vn` (đang trỏ tên plugin không tồn tại `xlvphc-sct-vn`), `qlks-sct-vn/08`, `bvmt-sct-vn/06`, `pccc-sct-vn` để trỏ về `xp-sct-vn`.
+- [x] `hnh-sct-vn` đã trỏ về `xp-sct-vn` (v1.8.3, 01/9/2026).
+- [ ] Sửa `qlks-sct-vn/08`, `bvmt-sct-vn/06`, `pccc-sct-vn` để trỏ về `xp-sct-vn`.

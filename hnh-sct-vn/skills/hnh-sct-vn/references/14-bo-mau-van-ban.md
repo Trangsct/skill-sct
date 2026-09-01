@@ -74,7 +74,7 @@ KẾ HOẠCH kiểm tra: mục đích, yêu cầu; đối tượng (theo quản 
 
 ## 9. Biên bản kiểm tra / Biên bản VPHC / Quyết định XPVPHC
 - Biên bản kiểm tra: khung tại reference 12 mục 5.
-- Biên bản VPHC và Quyết định XPVPHC: **thuộc plugin xử phạt riêng `xlvphc-sct-vn`** (dùng biểu mẫu kèm NĐ 118/2021 đã sửa đổi bởi NĐ 68/2025 và NĐ 190/2025). Không tự chế mẫu.
+- Biên bản VPHC và Quyết định XPVPHC: **thuộc plugin xử phạt riêng `xp-sct-vn`** (dùng biểu mẫu kèm NĐ 118/2021 đã sửa đổi bởi NĐ 68/2025 và NĐ 190/2025). Không tự chế mẫu.
 
 ## 10. Công văn chuyển hồ sơ/kiến nghị cơ quan có thẩm quyền
 Dùng khi phát hiện vi phạm thuộc thẩm quyền cơ quan khác (vd CSGT - hành vi giao thông).
@@ -102,7 +102,7 @@ Theo reference 13 (định kỳ/đột xuất/chuyên đề), kèm bộ chỉ ti
 | Trả lời doanh nghiệp | 7 | 08 |
 | Kiểm tra chuyên ngành | 8, 9 (biên bản kiểm tra) | 12 |
 | Chuyển hồ sơ/kiến nghị cơ quan có thẩm quyền | 10 | 12 |
-| Xử phạt VPHC (lập BB VPHC, QĐ XPVPHC) | — | **plugin xử phạt riêng `xlvphc-sct-vn`** |
+| Xử phạt VPHC (lập BB VPHC, QĐ XPVPHC) | — | **plugin xử phạt riêng `xp-sct-vn`** |
 | Báo cáo cấp trên | 11 | 13 |
 
 

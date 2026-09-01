@@ -1,5 +1,11 @@
 # Nhật ký thay đổi bộ skill
 
+## 01/9/2026 — xp-sct-vn v1.0.1 + hnh-sct-vn v1.8.3: xác minh NĐ 311/2026 (hiệu lực 26/9/2026); sửa hnh trỏ về xp-sct-vn
+
+- **NĐ 311/2026/NĐ-CP** (chinhphu.vn docid=219135): ban hành 06/8/2026, hiệu lực **26/9/2026**; sửa Điều 6, 7 NĐ 189/2025 — thêm Chánh Thanh tra tỉnh vào nhóm Giám đốc Sở (80% mức tối đa lĩnh vực), Trưởng đoàn kiểm tra của tổ chức thuộc bộ, Thanh tra viên/Trưởng đoàn thanh tra Thanh tra tỉnh. Nhóm Giám đốc Sở không đổi → **QĐ-XPHC ký trước 26/9/2026 không dẫn NĐ 311**. Bản gốc là PDF ký số dạng ảnh, phải tải thủ công và OCR.
+- xp-sct-vn: cập nhật references 00, 07 (quy tắc 80%), 90, INDEX, mẫu 07, SKILL.md.
+- hnh-sct-vn: 6 file đổi `xlvphc-sct-vn` → `xp-sct-vn`.
+
 ## 01/9/2026 — xp-sct-vn v1.0.0 (MỚI): xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực — marketplace 4.11.8
 
 Plugin trục – nhánh gộp việc xử phạt của cả phòng QLCN, kế thừa nguyên văn `xp-hc-vlncn-sct-vn` v1.6.0 (giữ song song).

@@ -20,7 +20,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 - **Báo cáo cấp trên, thống kê:** báo cáo định kỳ, đột xuất (sự cố), chuyên đề; bộ chỉ tiêu thống kê (reference 13).
 - **Tra cứu văn bản gốc:** mở bộ văn bản gốc kèm theo trong `van-ban-goc/` theo mục lục (reference 15).
 
-**Xử phạt vi phạm hành chính (lập biên bản VPHC, ra quyết định XPVPHC) KHÔNG xử lý trong plugin này** mà thuộc **plugin xử phạt riêng `xlvphc-sct-vn`** (dùng chung cả Sở). Plugin HHNH chỉ thực hiện **thu hồi Giấy phép** (biện pháp của cơ quan cấp phép - reference 06) và **chuyển hồ sơ/kiến nghị** khi phát hiện vi phạm khi kiểm tra (reference 12).
+**Xử phạt vi phạm hành chính (lập biên bản VPHC, ra quyết định XPVPHC) KHÔNG xử lý trong plugin này** mà thuộc **plugin xử phạt riêng `xp-sct-vn`** (dùng chung cả Sở). Plugin HHNH chỉ thực hiện **thu hồi Giấy phép** (biện pháp của cơ quan cấp phép - reference 06) và **chuyển hồ sơ/kiến nghị** khi phát hiện vi phạm khi kiểm tra (reference 12).
 
 ### Liên kết hệ sinh thái plugin/skill (gọi đúng plugin khi việc chạm ranh giới)
 
@@ -33,7 +33,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 | VLNCN, tiền chất thuốc nổ (loại 1 đã trừ) | `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hl-vlncn-sct-vn` | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT - pháp luật chuyên ngành riêng; XNK VLNCN thuộc tỉnh từ 01/7/2026 (Điều 27 TT 26/2026) |
 | Điều kiện PCCC vận chuyển, Điều 44 NĐ 105/2025, cửa hàng xăng dầu/kho LPG của DN | `pccc-sct-vn` | Nội dung chi tiết Điều 44; PCCC 8 lĩnh vực ngành Công Thương |
 | Điểm đến/kho hàng trong KCN, CCN (Tằng Loỏng...) | `kcn-ccn-vn` | Vị trí xã, hiện trạng, đầu mối BQL |
-| Lập biên bản VPHC, ra QĐ xử phạt | `xlvphc-sct-vn` (plugin riêng) | Toàn bộ trình tự xử phạt |
+| Lập biên bản VPHC, ra QĐ xử phạt | `xp-sct-vn` (plugin riêng) | Toàn bộ trình tự xử phạt |
 | Công trình xây dựng liên quan (kho, trạm chiết nạp của DN vận chuyển) | `xd-sct-vn` | Thẩm định thiết kế, KTCTNT công trình công nghiệp |
 
 ## II. KHUNG PHÁP LÝ (cập nhật tháng 6/2026, đã đối chiếu văn bản gốc do Bạn cung cấp)
@@ -74,7 +74,7 @@ Toàn bộ số/ngày dưới đây đã được xác minh từ văn bản gố
 18. **Luật Thanh tra số 84/2025/QH15** ngày 25/6/2025 (hiệu lực 01/7/2025). Sắp xếp hệ thống thanh tra 2 cấp; **các sở không còn tổ chức thanh tra**. Điều 61 quy định hoạt động **kiểm tra chuyên ngành** của các cơ quan quản lý nhà nước. Gắn với Kết luận số 134-KL/TW ngày 28/3/2025 của Bộ Chính trị, Ban Bí thư. Bản gốc tại `van-ban-goc/06-kiem-tra/`.
 19. **Nghị định số 217/2025/NĐ-CP** ngày 05/8/2025 về hoạt động **kiểm tra chuyên ngành**. **Đây là văn bản trình tự, thủ tục cốt lõi cho hoạt động kiểm tra của Sở** (thay cho "thanh tra chuyên ngành" trước đây). Nguyên tắc quản lý rủi ro, không trùng lặp với thanh tra/kiểm toán. (Chi tiết tại reference 12; bản gốc tại `van-ban-goc/06-kiem-tra/`.)
 
-**Khung pháp lý xử phạt VPHC → thuộc plugin riêng:** các văn bản về xử phạt vi phạm hành chính (Luật sửa đổi XLVPHC số 88/2025/QH15 - Điều 37a; NĐ 189/2025 về thẩm quyền xử phạt; NĐ 118/2021 đã được **NĐ 68/2025 và NĐ 190/2025** sửa đổi, bổ sung - nguồn biểu mẫu BBVPHC/QĐ XPVPHC; NĐ 168/2024 xử phạt giao thông đường bộ - thẩm quyền CSGT; NĐ 71/2019 sửa NĐ 17/2022 - hóa chất, VLNCN) **được xây dựng và áp dụng trong plugin xử phạt riêng `xlvphc-sct-vn`**, không lặp lại ở đây. Khi gặp việc xử phạt, gọi plugin đó.
+**Khung pháp lý xử phạt VPHC → thuộc plugin riêng:** các văn bản về xử phạt vi phạm hành chính (Luật sửa đổi XLVPHC số 88/2025/QH15 - Điều 37a; NĐ 189/2025 về thẩm quyền xử phạt; NĐ 118/2021 đã được **NĐ 68/2025 và NĐ 190/2025** sửa đổi, bổ sung - nguồn biểu mẫu BBVPHC/QĐ XPVPHC; NĐ 168/2024 xử phạt giao thông đường bộ - thẩm quyền CSGT; NĐ 71/2019 sửa NĐ 17/2022 - hóa chất, VLNCN) **được xây dựng và áp dụng trong plugin xử phạt riêng `xp-sct-vn`**, không lặp lại ở đây. Khi gặp việc xử phạt, gọi plugin đó.
 
 ## III. CHUỖI THẨM QUYỀN - HIỂU ĐÚNG ĐỂ KHÔNG NHẦM (cốt lõi nhất)
 
@@ -158,7 +158,7 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 | **3. Kiểm tra chuyên ngành** | Lập kế hoạch/tổ chức kiểm tra; phát hiện vi phạm | 12 (kiểm tra), 04 (điều kiện), 05 (trách nhiệm) | Mẫu 8, 9, 10 (reference 14) |
 | **4. Báo cáo cấp trên** | Báo cáo định kỳ/đột xuất/chuyên đề; thống kê | 13 (báo cáo) | Mẫu 11 (reference 14) |
 | *(Thu hồi Giấy phép)* | Vi phạm thuộc Điều 17 NĐ 161 | 06 (thu hồi) | Mẫu 6 (reference 14) |
-| *(Xử phạt VPHC)* | Cần lập biên bản VPHC, ra QĐ xử phạt | → **plugin xử phạt riêng `xlvphc-sct-vn`** | (plugin riêng) |
+| *(Xử phạt VPHC)* | Cần lập biên bản VPHC, ra QĐ xử phạt | → **plugin xử phạt riêng `xp-sct-vn`** | (plugin riêng) |
 
 **Ba câu hỏi gác cổng cho mọi nghiệp vụ** (trả lời trước khi làm):
 1. **Đúng thẩm quyền không?** Loại hàng thuộc 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 và đối tượng đặt trụ sở/chi nhánh tại Lào Cai (điều kiện địa bàn chỉ áp cho nhóm 1,2,3,4,9)? Người ký đúng (cả 7 loại → lãnh đạo Sở ký theo ủy quyền QĐ 1696 + QĐ 2848; thực tế KT.GĐ - PGĐ Hoàng Văn Thuân ký; riêng hồ sơ loại 5,8 tiếp nhận trước 14/8/2026 → trình UBND tỉnh)? (mục III, reference 16)

@@ -20,7 +20,7 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
-| NĐ 189/2025 + **NĐ 311/2026** | Thẩm quyền xử phạt các chức danh | 00, 07 mục G |
+| NĐ 189/2025 + **NĐ 311/2026** (06/8/2026, hiệu lực 26/9/2026; PDF ký số dạng ảnh: https://chinhphu.vn/?docid=219135&pageid=27160 — tải thủ công, cần OCR) | Thẩm quyền xử phạt các chức danh | 00, 07 mục G |
 | NĐ 118/2021 + 68/2025 + 190/2025; VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00 |
 | NĐ 168/2024 | Giao thông đường bộ (HHNH Đ23) | 02 |
 | NĐ 106/2025 | PCCC | 04 |

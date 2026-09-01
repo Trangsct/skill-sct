@@ -18,7 +18,7 @@
 
 ## Liên kết hệ sinh thái plugin
 
-11. **SKILL.md mục I:** thay đoạn liên kết ngắn bằng **bảng "Liên kết hệ sinh thái plugin/skill"** 9 dòng: `vbhc-vn`, `vbhc-pdf-reader-vn`, `sct-laocai-org-vn`, **`hc-sct-vn`** (nghĩa vụ hóa chất song song với DN vận chuyển loại 5/8/khí độc 2.3: GCN đủ điều kiện, KH phòng ngừa ứng phó sự cố hóa chất, khai báo, huấn luyện; SDS/MSDS dùng chung; đối chiếu chéo phương án ứng cứu "sự cố hóa chất" điểm d khoản 1 Điều 15 NĐ 161), `sd/kho/hl-vlncn-sct-vn`, `pccc-sct-vn`, `kcn-ccn-vn`, `xlvphc-sct-vn`, `xd-sct-vn`.
+11. **SKILL.md mục I:** thay đoạn liên kết ngắn bằng **bảng "Liên kết hệ sinh thái plugin/skill"** 9 dòng: `vbhc-vn`, `vbhc-pdf-reader-vn`, `sct-laocai-org-vn`, **`hc-sct-vn`** (nghĩa vụ hóa chất song song với DN vận chuyển loại 5/8/khí độc 2.3: GCN đủ điều kiện, KH phòng ngừa ứng phó sự cố hóa chất, khai báo, huấn luyện; SDS/MSDS dùng chung; đối chiếu chéo phương án ứng cứu "sự cố hóa chất" điểm d khoản 1 Điều 15 NĐ 161), `sd/kho/hl-vlncn-sct-vn`, `pccc-sct-vn`, `kcn-ccn-vn`, `xp-sct-vn`, `xd-sct-vn`.
 12. **Reference 11:** liên kết `hc-sct-vn` khi thẩm định phương án ứng cứu loại 5, 8.
 
 ## Khác

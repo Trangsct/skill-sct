@@ -16,7 +16,7 @@ Căn cứ {{Luật chuyên ngành}};
 Căn cứ {{Nghị định xử phạt chuyên ngành đúng thời điểm hành vi}};
 Căn cứ {{Nghị định chuyên ngành về nghĩa vụ gốc}};
 Căn cứ Nghị định số 118/2021/NĐ-CP ngày 23/12/2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính; Nghị định số 68/2025/NĐ-CP ngày 18/3/2025 và Nghị định số 190/2025/NĐ-CP ngày 01/7/2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 118/2021/NĐ-CP;
-Căn cứ Nghị định số 189/2025/NĐ-CP ngày 01/7/2025 của Chính phủ quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính [; Nghị định số 311/2026/NĐ-CP ngày … sửa đổi, bổ sung một số điều của Nghị định số 189/2025/NĐ-CP — nếu đã hiệu lực];
+Căn cứ Nghị định số 189/2025/NĐ-CP ngày 01/7/2025 của Chính phủ quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính [; Nghị định số 311/2026/NĐ-CP ngày … sửa đổi, bổ sung một số điều của Nghị định số 189/2025/NĐ-CP — CHỈ dẫn với QĐ ký từ 26/9/2026];
 Căn cứ Nghị định số 217/2025/NĐ-CP ngày 05/8/2025 của Chính phủ quy định về hoạt động kiểm tra chuyên ngành; Thông tư số 56/2025/TT-BCT ngày 28/11/2025;
 Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
 Căn cứ Quyết định số …/QĐ-SCT ngày … của Giám đốc Sở Công Thương tỉnh Lào Cai về việc kiểm tra …;

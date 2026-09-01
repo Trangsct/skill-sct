@@ -73,7 +73,7 @@ Skill này **kèm sẵn bộ văn bản gốc** trong thư mục `van-ban-goc/` 
 ---
 
 ## Văn bản có liên quan nhưng KHÔNG kèm ở đây
-- **Xử phạt VPHC** (NĐ 189/2025, 190/2025, 68/2025 sửa NĐ 118/2021; NĐ 168/2024; NĐ 71/2019 sửa 17/2022; Luật 88/2025; bản nhận định Bộ Tư pháp; QĐ 26/2025/QĐ-UBND của tỉnh) **được chuyển sang plugin xử phạt riêng** (dự kiến `xlvphc-sct-vn`). Khi cần xử phạt/lập biên bản VPHC, dùng plugin đó.
+- **Xử phạt VPHC** (NĐ 189/2025, 190/2025, 68/2025 sửa NĐ 118/2021; NĐ 168/2024; NĐ 71/2019 sửa 17/2022; Luật 88/2025; bản nhận định Bộ Tư pháp; QĐ 26/2025/QĐ-UBND của tỉnh) **được chuyển sang plugin xử phạt riêng** (dự kiến `xp-sct-vn`). Khi cần xử phạt/lập biên bản VPHC, dùng plugin đó.
 - Bản scan có dấu NĐ 161, Luật TTGT (đã lược bỏ vì dung lượng) - dùng bản text trong gói; cần bản có dấu thì tra Cơ sở dữ liệu quốc gia về VBPL hoặc đề nghị Bạn cung cấp.
 
 ## vi-du-thuc-te (thư mục mới 7/2026 - ví dụ thực tế)

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.8"
+    "version": "4.11.9"
   },
   "plugins": [
     {
@@ -48,7 +48,7 @@
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
       "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND 14/8/2026 (ủy quyền bổ sung loại 5, 8 đến 31/12/2030). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit ăn mòn, ISO tank); chuyên sâu xuyên biên giới Việt - Trung.",
-      "version": "1.8.2"
+      "version": "1.8.3"
     },
     {
       "name": "kccn-sct-vn",
@@ -126,7 +126,7 @@
       "name": "xp-sct-vn",
       "source": "./xp-sct-vn",
       "description": "Xử phạt VPHC và kiểm tra chuyên ngành ĐA LĨNH VỰC - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026, kế thừa xp-hc-vlncn-sct-vn), kho VLNCN, HHNH (NĐ 168/2024), CCN (đầu tư, xây dựng, đất đai, môi trường), PCCC ngành CT (NĐ 105/106), khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 12 mẫu văn bản, 8 checklist kiểm tra, hồ sơ mẫu thật.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

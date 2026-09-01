@@ -1,6 +1,6 @@
 # 12 - Kiểm tra chuyên ngành về vận chuyển hàng hóa nguy hiểm
 
-Phần này hướng dẫn hoạt động **kiểm tra chuyên ngành** của Sở Công Thương đối với việc chấp hành pháp luật về vận chuyển HHNH (chủ yếu kiểm tra việc duy trì điều kiện gắn với Giấy phép đã cấp và an toàn hóa chất trong vận chuyển). Đọc kèm reference 04 (điều kiện), 05 (trách nhiệm các bên). Khi vi phạm cần xử phạt, dùng plugin xử phạt riêng `xlvphc-sct-vn`.
+Phần này hướng dẫn hoạt động **kiểm tra chuyên ngành** của Sở Công Thương đối với việc chấp hành pháp luật về vận chuyển HHNH (chủ yếu kiểm tra việc duy trì điều kiện gắn với Giấy phép đã cấp và an toàn hóa chất trong vận chuyển). Đọc kèm reference 04 (điều kiện), 05 (trách nhiệm các bên). Khi vi phạm cần xử phạt, dùng plugin xử phạt riêng `xp-sct-vn`.
 
 ## 1. ĐIỂM CỐT LÕI: "kiểm tra chuyên ngành", KHÔNG còn "thanh tra chuyên ngành"
 
@@ -23,7 +23,7 @@ CẢNH BÁO: Bộ Công Thương/UBND tỉnh có thể ban hành quy trình ki�
 - Việc chấp hành trách nhiệm của người thuê vận tải, người vận tải theo Điều 28, 29 NĐ 161.
 - An toàn hóa chất trong hoạt động vận chuyển thuộc phạm vi quản lý ngành Công Thương (gắn với pháp luật hóa chất).
 
-**Lưu ý ranh giới (rất quan trọng):** việc kiểm tra, xử lý hành vi vi phạm **trên đường** của phương tiện đang lưu thông (dừng xe, kiểm soát giao thông) thuộc lực lượng Cảnh sát giao thông và lực lượng được giao trong lĩnh vực giao thông đường bộ. Sở Công Thương kiểm tra việc chấp hành điều kiện tại **trụ sở/cơ sở** của doanh nghiệp và hồ sơ; khi phát hiện dấu hiệu vi phạm thuộc thẩm quyền cơ quan khác thì chuyển/kiến nghị (xem plugin xử phạt riêng `xlvphc-sct-vn`).
+**Lưu ý ranh giới (rất quan trọng):** việc kiểm tra, xử lý hành vi vi phạm **trên đường** của phương tiện đang lưu thông (dừng xe, kiểm soát giao thông) thuộc lực lượng Cảnh sát giao thông và lực lượng được giao trong lĩnh vực giao thông đường bộ. Sở Công Thương kiểm tra việc chấp hành điều kiện tại **trụ sở/cơ sở** của doanh nghiệp và hồ sơ; khi phát hiện dấu hiệu vi phạm thuộc thẩm quyền cơ quan khác thì chuyển/kiến nghị (xem plugin xử phạt riêng `xp-sct-vn`).
 
 **Hình thức kiểm tra:**
 - **Theo kế hoạch** (định kỳ): trên cơ sở kế hoạch kiểm tra năm được phê duyệt, theo nguyên tắc quản lý rủi ro, công khai trước cho đối tượng.
@@ -36,7 +36,7 @@ CẢNH BÁO: Bộ Công Thương/UBND tỉnh có thể ban hành quy trình ki�
 3. **Lập Biên bản kiểm tra** ghi nhận trung thực hiện trạng, các nội dung đạt/chưa đạt, ý kiến của đối tượng (mục 5).
 4. **Xử lý kết quả:**
    - Không vi phạm → ban hành Thông báo kết quả kiểm tra.
-   - Có vi phạm thuộc thẩm quyền xử phạt của Sở → lập Biên bản VPHC, chuyển sang trình tự xử phạt theo plugin xử phạt riêng `xlvphc-sct-vn`.
+   - Có vi phạm thuộc thẩm quyền xử phạt của Sở → lập Biên bản VPHC, chuyển sang trình tự xử phạt theo plugin xử phạt riêng `xp-sct-vn`.
    - Vi phạm thuộc thẩm quyền cơ quan khác (giao thông…) → chuyển hồ sơ/kiến nghị đúng cơ quan.
    - Vi phạm là căn cứ thu hồi Giấy phép (Điều 17 NĐ 161) → tham mưu ra Quyết định thu hồi (reference 06).
 5. **Theo dõi khắc phục** và lưu hồ sơ kiểm tra đầy đủ.
@@ -70,7 +70,7 @@ CẢNH BÁO: Bộ Công Thương/UBND tỉnh có thể ban hành quy trình ki�
 
 ## 5. Mẫu BIÊN BẢN KIỂM TRA (khung)
 
-Biên bản kiểm tra ghi nhận hiện trạng, lập ngay tại buổi kiểm tra, các bên cùng ký. Đây là tài liệu nghiệp vụ; định dạng theo skill `vbhc-vn`. (Phân biệt với **Biên bản VPHC** (thuộc plugin xử phạt riêng `xlvphc-sct-vn`) — biên bản VPHC mới là cơ sở xử phạt.)
+Biên bản kiểm tra ghi nhận hiện trạng, lập ngay tại buổi kiểm tra, các bên cùng ký. Đây là tài liệu nghiệp vụ; định dạng theo skill `vbhc-vn`. (Phân biệt với **Biên bản VPHC** (thuộc plugin xử phạt riêng `xp-sct-vn`) — biên bản VPHC mới là cơ sở xử phạt.)
 
 ```
 BIÊN BẢN KIỂM TRA
@@ -110,4 +110,4 @@ Biên bản lập thành ... bản, đọc lại cho các bên cùng nghe, nhấ
 2. Không kiểm tra trùng lặp nội dung/thời kỳ đã thanh tra/kiểm toán; tuân thủ quản lý rủi ro.
 3. Chỉ kiểm tra trong phạm vi quản lý ngành Công Thương; việc trên đường thuộc CSGT — không lấn sân, mà phối hợp/chuyển.
 4. Mọi nội dung vi phạm phải ghi rõ điều, khoản của văn bản bị vi phạm trong biên bản; **không suy đoán, không bịa số/ngày văn bản**.
-5. Biên bản kiểm tra ≠ Biên bản VPHC. Muốn xử phạt phải lập Biên bản VPHC đúng thủ tục theo plugin xử phạt riêng `xlvphc-sct-vn`.
+5. Biên bản kiểm tra ≠ Biên bản VPHC. Muốn xử phạt phải lập Biên bản VPHC đúng thủ tục theo plugin xử phạt riêng `xp-sct-vn`.

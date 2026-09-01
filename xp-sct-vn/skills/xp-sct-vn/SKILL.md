@@ -30,7 +30,7 @@ Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + 
 
 1. **Luật XLVPHC** 15/2012 (sđ Luật 67/2020, **Luật 88/2025** — hiệu lực 01/7/2025; VBHN 63/VBHN-VPQH 2025). Viện dẫn: *"Luật Xử lý vi phạm hành chính (sửa đổi, bổ sung năm 2020 và năm 2025)"*.
 2. **NĐ 118/2021** (sđ NĐ 68/2025, NĐ 190/2025) — mẫu biên bản số 01, mẫu quyết định số 02, xử phạt điện tử.
-3. **NĐ 189/2025** (thẩm quyền) **sửa bởi NĐ 311/2026** (8/2026) — ⚠️ chưa có bản gốc; ảnh hưởng thẩm quyền Giám đốc Sở, Chi cục trưởng QLTT, Trưởng đoàn kiểm tra ở mọi lĩnh vực ngoài hóa chất/VLNCN.
+3. **NĐ 189/2025** (thẩm quyền: GĐ Sở = 80% mức tối đa lĩnh vực) **sửa bởi NĐ 311/2026 ngày 06/8/2026 — hiệu lực 26/9/2026** (thêm Chánh Thanh tra tỉnh cùng nhóm GĐ Sở; Trưởng đoàn kiểm tra của tổ chức thuộc bộ) — ⚠️ bản gốc PDF ảnh, chưa OCR; không dẫn NĐ 311 trong QĐ ký trước 26/9/2026.
 4. **NĐ 217/2025 + TT 56/2025/TT-BCT** — kiểm tra chuyên ngành; **TT 56 chỉ có 01 mẫu biên bản (Mẫu 05)**.
 5. **NĐ 275/2026** (hóa chất + VLNCN, hiệu lực 25/8/2026; NĐ 71/2019 cho hành vi kết thúc trước mốc) — bản gốc trong `van-ban-goc/`; GĐ Sở đích danh Đ63.
 6. Nhánh khác (số hiệu đã xác minh 9/2026, **số điều khoản GATE**): NĐ 168/2024; NĐ 106/2025; NĐ 122/2021 + 288/2026; NĐ 16/2022 (dự thảo thay); NĐ 123/2024 + 281/2026; NĐ 45/2022 (dự thảo thay); NĐ 36/2020 + 04/2022 (dự thảo thay); NĐ 115/2018 + 124/2021; NĐ 283/2026; NĐ 133/2026; NĐ 99/2020 + 17/2022; NĐ 98/2020 + 24/2025; NĐ 282/2025.

@@ -53,7 +53,9 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 → reference 03 (CCN) và 06.
 
-## G. Bảng "ai phạt đến bao nhiêu" — chỉ điền sau khi đối chiếu NĐ 189/2025 + NĐ 311/2026
+## G. Bảng "ai phạt đến bao nhiêu"
+
+**Quy tắc nền (k2 Đ6 NĐ 189/2025, giữ nguyên sau NĐ 311/2026):** Giám đốc Sở = **80% mức tối đa lĩnh vực** tại Điều 24 Luật XLVPHC (mức cá nhân; tổ chức ×2); Chủ tịch UBND tỉnh = 100%; Chủ tịch UBND xã = theo k1 Đ6 (thường 10%). Nghị định chuyên ngành có ghi đích danh thì theo nghị định chuyên ngành. Cột ⚠️ = chưa đối chiếu Điều 24 và nghị định chuyên ngành, tính bằng công thức 80% khi cần ước lượng.
 
 | Chức danh | Hóa chất | VLNCN | ATTP | Điện lực | Xăng dầu/khí | Lao động | Ghi chú |
 |---|---|---|---|---|---|---|---|
@@ -63,4 +65,4 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 | Chi cục trưởng QLTT | — | — | ⚠️ | — | ⚠️ | — | NĐ 311/2026 sửa thẩm quyền Chi cục trưởng nhiều lĩnh vực |
 | Trưởng đoàn kiểm tra chuyên ngành | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | Chức danh mới trong NĐ 311/2026 — nếu được trao quyền, Đoàn có thể xử phạt tại chỗ mức thấp |
 
-Việc đầu tiên khi mở rộng plugin ở phiên sau: **tải NĐ 311/2026 và NĐ 189/2025 về `van-ban-goc/`, điền bảng G**, sau đó tách từng nhánh thành bảng hành vi như `01-vlncn-hoachat/02`.
+NĐ 311/2026 (06/8/2026, hiệu lực **26/9/2026**) không thay đổi nhóm Giám đốc Sở, chỉ thêm Chánh Thanh tra tỉnh vào cùng nhóm và bổ sung Trưởng đoàn kiểm tra của tổ chức thuộc bộ (k4 Đ6) — Trưởng đoàn kiểm tra cấp Sở **chưa** được trao thẩm quyền theo tin công bố; đối chiếu bản gốc trước khi kết luận. Việc nợ: tải bản gốc NĐ 189/2025 + 311/2026, điền số tuyệt đối vào bảng G, tách từng nhánh thành bảng hành vi như `01-vlncn-hoachat/02`.

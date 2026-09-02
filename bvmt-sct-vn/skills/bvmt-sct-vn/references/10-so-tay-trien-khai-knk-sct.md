@@ -27,6 +27,7 @@
 5. **Chuẩn bị đề xuất hạn ngạch giai đoạn 2027–2028** cho cơ sở ngành công thương: tổng hợp sản lượng, tiêu thụ năng lượng, kết quả kiểm kê 2024 của 8 cơ sở hóa chất + luyện đồng + apatit để sẵn sàng khi Bộ Công Thương lấy ý kiến (Bộ phải gửi Bộ NN&MT trước 30/6/2027).
 6. **Kinh phí**: đã đăng ký trong Phụ lục BC 892 (500 triệu năm 2027 tuyên truyền PBPL BVMT, kiểm kê KNK, SXSH). Kiểm tra với Phòng KH-TH việc đã có trong dự toán 2027 gửi Sở Tài chính chưa; lập đề cương lớp tập huấn (mục IV.4).
 7. **Phối hợp Sở NN&MT** nhiệm vụ "Đánh giá tác động BĐKH, tiềm năng giảm phát thải, tín chỉ các-bon" (8.853 triệu, 2027): cung cấp danh mục 18 cơ sở, số liệu năng lượng, dự án tiềm năng (thu hồi nhiệt thải, ĐMT mái nhà, thủy điện nhỏ).
+9. **Kế hoạch kiểm tra 2027**: đề xuất đưa nội dung tuân thủ MRV/kiểm kê KNK (CV 9389 mục 1c; Điều 15 khoản 3 NĐ 06 sửa) vào kế hoạch kiểm tra chuyên ngành năm 2027 tại 3–5 cơ sở phát thải lớn (Đức Giang, Đông Nam Á, Phốt pho vàng Việt Nam, Việt Trung, DAP số 2), lồng ghép với kiểm tra hóa chất/an toàn để không tăng số đoàn (plugin `xp-sct-vn`, `hc-sct-vn`); đăng ký với Phòng KH-TH trong quý IV/2026.
 8. **Ô-dôn** (phối hợp Phòng QLTM): rà soát siêu thị, TTTM, kho lạnh có điều hòa ≥ 26,5 kW hoặc thiết bị lạnh ≥ 40 kW để nhắc nghĩa vụ đăng ký theo Điều 24 NĐ 06 (sửa bởi NĐ 83/2026) — Sở NN&MT chủ trì.
 
 ## III. Checklist rà soát báo cáo của cơ sở (theo Điều 12, 13 TT 01/2022 sửa bởi TT 08/2025 + TT 38/2023)
@@ -80,3 +81,8 @@ Mục 1 nội dung: QĐ 42 hiệu lực 25/9/2026; 18 cơ sở; 5 mới; 7 khả
 4. Không dùng QĐ 13/2024 sau 25/9/2026; không dùng số "23 cơ sở" của BC 892 cho kỳ báo cáo mới mà không chú thích.
 5. Kinh phí kiểm kê là của doanh nghiệp; NSNN chỉ chi tập huấn, tuyên truyền, kiểm tra (NQ 12/2026), không hỗ trợ doanh nghiệp thuê kiểm kê.
 6. Địa danh trong danh mục đã theo tổ chức mới; khi trích tên cơ sở, chép nguyên văn QĐ 42/QĐ 699 kể cả viết hoa lạ (ví dụ "Công ty TNHH Khoáng Sản Và Luyện Kim Việt Trung").
+7. Không đọc NĐ 83/2026/NĐ-CP là "sửa quy định kiểm kê KNK" — NĐ 83 chỉ sửa Điều 24, 26 NĐ 06 (thủ tục chất được kiểm soát) và thay Mẫu 01, 02, 04 PL VI.
+8. Trích Phụ lục II Mục 2 điểm 4 TT 38/2023 phải kèm đính chính QĐ 334/QĐ-BCT ngày 06/02/2025.
+9. Không dẫn TT 28/2023/TT-BTNMT (định mức MRV lĩnh vực quản lý chất thải) để trả lời chi phí kiểm kê của cơ sở ngành Công Thương — ngành CT chưa có định mức riêng.
+10. Cơ sở ngoài danh mục hạn ngạch không có nghĩa vụ nộp trả; chỉ có kiểm kê 2 năm/lần + kế hoạch/báo cáo giảm nhẹ. Không nhầm hai chế độ khi soạn công văn chung cho 18 cơ sở (tách riêng đoạn cho Việt Trung).
+

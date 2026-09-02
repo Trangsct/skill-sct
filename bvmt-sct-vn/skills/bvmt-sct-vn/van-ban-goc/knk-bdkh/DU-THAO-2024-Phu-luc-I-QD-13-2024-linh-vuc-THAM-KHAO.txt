@@ -1,0 +1,33 @@
+PHỤ LỤC I
+DANH MỤC LĨNH VỰC PHẢI THỰC HIỆN KIỂM KÊ KHÍ NHÀ KÍNH
+*(Kèm theo Quyết định số             /2024/QĐ-TTg ngày       tháng       năm 2024 *
+*của Thủ tướng Chính phủ)*
+| STT | Lĩnh vực phải thực hiện kiểm kê khí nhà kính |
+| --- | --- |
+| I | Năng lượng |
+| 1 | Công nghiệp sản xuất năng lượng |
+| 2 | Tiêu thụ năng lượng trong công nghiệp, thương mại, dịch vụ và dân dụng |
+| 3 | Khai thác than |
+| 4 | Khai thác dầu và khí tự nhiên |
+| II | Giao thông vận tải |
+| 1 | Tiêu thụ năng lượng trong giao thông vận tải |
+| III | Xây dựng |
+| 1 | Tiêu thụ năng lượng trong ngành xây dựng |
+| 2 | Các quá trình công nghiệp trong sản xuất vật liệu xây dựng |
+| IV | Các quá trình công nghiệp |
+| 1 | Sản xuất hóa chất |
+| 2 | Luyện kim |
+| 3 | Công nghiệp điện tử |
+| 4 | Sử dụng sản phẩm thay thế cho các chất làm suy giảm tầng ô-dôn |
+| 5 | Sản xuất và sử dụng các sản phẩm công nghiệp khác |
+| V | Nông nghiệp, lâm nghiệp và sử dụng đất |
+| 1 | Chăn nuôi |
+| 2 | Lâm nghiệp và thay đổi sử dụng đất |
+| 3 | Trồng trọt |
+| 4 | Tiêu thụ năng lượng trong nông nghiệp, lâm nghiệp và thủy sản |
+| 5 | Các nguồn phát thải khác trong nông nghiệp |
+| VI | Chất thải |
+| 1 | Bãi chôn lấp chất thải rắn |
+| 2 | Xử lý chất thải rắn bằng phương pháp sinh học |
+| 3 | Thiêu đốt và đốt lộ thiên chất thải |
+| 4 | Xử lý và xả thải nước thải |

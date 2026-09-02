@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — xp-sct-vn v1.3.0: hợp nhất NĐ 04/2022 (NĐ 36) và NĐ 17/2022 (NĐ 98, 99) — hết "bản gốc chưa hợp nhất"
+
+Đối chiếu nguyên văn: NĐ 99 k2 Đ62 nêu đích danh Chánh TT Sở CT 50/100 tr, k7 Đ63 thanh tra CT xử mọi hành vi; NĐ 36 Đ65 thêm Đ48, Đ5b thời hiệu 02 năm, Đ38 k3 mở rộng (vượt 10% chiều cao tầng/góc dốc, đổ thải sai vị trí); NĐ 98 Đ80/82/87 viết lại. Bản gốc lưu `van-ban-goc/khoang-san/` và `van-ban-goc/chung/`. Khép lại việc dở của phiên 01/9.
+
 ## 02/9/2026 — vbhc-vn v2.12.1: bổ sung nhóm J vào tóm tắt A–J (thiếu từ 31/8), tách bài học XML Chế độ B sang reference
 
 SKILL.md 42,7k → ~40k; giữ nguyên quy tắc bất biến và quy trình 5 bước. Kết thúc đợt tinh gọn 4 SKILL.md dài (sd-vlncn 46k→28k, hnh 44k→24k, sct-laocai-org 42k→37k, vbhc-vn 43k→40k).

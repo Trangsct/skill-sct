@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.19"
+    "version": "4.11.20"
   },
   "plugins": [
     {
@@ -126,7 +126,7 @@
       "name": "xp-sct-vn",
       "source": "./xp-sct-vn",
       "description": "Xử phạt VPHC và kiểm tra chuyên ngành ĐA LĨNH VỰC - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026, kế thừa xp-hc-vlncn-sct-vn), kho VLNCN, HHNH (NĐ 168/2024), CCN (đầu tư, xây dựng, đất đai, môi trường), PCCC ngành CT (NĐ 105/106), khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 12 mẫu văn bản, 8 checklist kiểm tra, hồ sơ mẫu thật.",
-      "version": "1.2.0"
+      "version": "1.3.0"
     }
   ]
 }

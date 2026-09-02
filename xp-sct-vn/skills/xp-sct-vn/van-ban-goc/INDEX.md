@@ -27,16 +27,18 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | **attp/ND-115-2018-NDCP-...docx** | **NĐ 115/2018/NĐ-CP ngày 04/9/2018** — xử phạt ATTP (hiệu lực 20/10/2018) — bản gốc 2018, **đọc cùng NĐ 124/2021** | Đ3 mức (Đ18, 19, 24 = mức tổ chức), Đ9, Đ18, Đ20, Đ21, **Đ27 lập biên bản (công chức ngành CT)**, Đ28 UBND, **Đ29 Chánh TT Sở CT 50/100 tr**, Đ34 QLTT, Đ35 phân định — `references/07` |
 
 | **dien-luc/ND-133-2026-...docx** | **NĐ 133/2026/NĐ-CP ngày 06/4/2026** — xử phạt điện lực (hiệu lực 25/5/2026; 32 điều) | Đ3 thời hiệu; Đ4 mức; Đ17–22; Đ23 lập BB; **Đ25 GĐ Sở CT 80/160 tr**; Đ30–31 — `references/09` A |
-| **xang-dau-khi/ND-99-2020-...docx** | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** — xử phạt dầu khí, xăng dầu, khí (hiệu lực 11/10/2020; **chưa hợp nhất NĐ 17/2022**) | Đ5 mức tổ chức; Đ14, 39, 40, 47; Đ55 lập BB; Đ56, 61, 62, 63 — `references/09` B |
-| **thuong-mai/ND-98-2020-...docx** + **ND-24-2025-...docx** | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (chưa hợp nhất NĐ 17/2022) và **NĐ 24/2025/NĐ-CP** sửa đổi | Đ4; Đ80–82, 87 — `references/09` C |
-| **khoang-san/ND-36-2020-...docx** | **NĐ 36/2020/NĐ-CP ngày 24/3/2020** — xử phạt tài nguyên nước, khoáng sản (hiệu lực 10/5/2020; **chưa hợp nhất NĐ 04/2022**) | Đ36–41, Đ55–62; **Đ65 thanh tra chuyên ngành công thương**; Đ64, 69, 70 — `references/09` D |
+| **xang-dau-khi/ND-99-2020-...docx** | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** — xử phạt dầu khí, xăng dầu, khí (hiệu lực 11/10/2020; sửa đổi bởi NĐ 17/2022 — `chung/`) | Đ5 mức tổ chức; Đ14, 39, 40, 47; Đ55 lập BB; Đ56, 61, 62, 63 — `references/09` B |
+| **thuong-mai/ND-98-2020-...docx** + **ND-24-2025-...docx** | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (sửa đổi bởi NĐ 17/2022 — `chung/`) và **NĐ 24/2025/NĐ-CP** sửa đổi | Đ4; Đ80–82, 87 — `references/09` C |
+| **khoang-san/ND-36-2020-...docx** | **NĐ 36/2020/NĐ-CP ngày 24/3/2020** — xử phạt tài nguyên nước, khoáng sản (hiệu lực 10/5/2020; sửa đổi bởi NĐ 04/2022 — cùng thư mục) | Đ36–41, Đ55–62; **Đ65 thanh tra chuyên ngành công thương**; Đ64, 69, 70 — `references/09` D |
 | **moi-truong/ND-45-2022-...docx** | **NĐ 45/2022/NĐ-CP ngày 07/7/2022** — xử phạt BVMT | Đ5, 6, **Đ15 CCN**, Đ64, **Đ68 phân định (Sở CT: Đ45, 46)**, Đ71 — `references/09` E |
 | **dat-dai/ND-123-2024-...docx** + **ND-281-2026-...docx** | **NĐ 123/2024/NĐ-CP ngày 04/10/2024** và **NĐ 281/2026/NĐ-CP ngày 13/7/2026** (hiệu lực 31/8/2026) | Đ3, 13, 16; Đ30 (xã 250 tr), Đ31 (GĐ Sở NN&MT 400 tr), Đ32 lập BB; Đ11 NĐ 281 chuyển tiếp — `references/09` F |
 | **xay-dung/ND-16-2022-...docx** | **NĐ 16/2022/NĐ-CP ngày 28/01/2022** — xử phạt xây dựng | Đ4, 5, 15, 16, 72 (k4 lập BB), 73–80 — `references/09` G |
 | **dau-tu/ND-122-2021-...docx** + **ND-288-2026-...docx** | **NĐ 122/2021/NĐ-CP ngày 28/12/2021** và **NĐ 288/2026/NĐ-CP ngày 21/7/2026** (sửa phần đăng ký DN) | **Đ5 thời hiệu 01 năm**; Đ15, 17, 18, 19; Đ74; Đ79 (k4 lập BB) — `references/09` H |
 
+| **khoang-san/ND-04-2022-NDCP-...docx** | **NĐ 04/2022/NĐ-CP ngày 06/01/2022** — sửa NĐ 91/2019 (đất đai), **NĐ 36/2020 (Điều 2, 36 khoản)**, NĐ 173/2013, NĐ 18/2020; hiệu lực 06/01/2022; chuyển tiếp k2 Đ5 | Đ2: k2 (Đ4), k3 (Đ5, 5a, 5b thời hiệu), k14 (Đ36), k15 (Đ37), k16 (Đ38), k17 (Đ40), k18 (Đ41), k23 (Đ48), k30 (Đ64), **k31 (Đ65 mới)**, k35 (Đ69), k36 (Đ70) — `references/09` D |
+| **chung/ND-17-2022-NDCP-...docx** | **NĐ 17/2022/NĐ-CP ngày 31/01/2022** — sửa NĐ 71/2019 (Điều 1), NĐ 134/2013 (Điều 2), **NĐ 98/2020 (Điều 3, 52 khoản)**, **NĐ 99/2020 (Điều 4, 20 khoản)**; hiệu lực từ ngày ký; chuyển tiếp Điều 5 | NĐ 99: k2 (Đ4a, 4b), k8 (Đ39), k9 (Đ40), k13 (Đ56), k18 (Đ61), k19 (Đ62), k20 (Đ63); NĐ 98: k43 (Đ80), k44–50 (Đ81–87), k51 (Đ87a), k52 (Đ88) — `references/09` B, C |
+
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
 | NĐ 118/2021 + 68/2025 + 190/2025; VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00 |
-| NĐ 04/2022 (sửa NĐ 36/2020); NĐ 17/2022 (sửa NĐ 98, 99, 71) | Khoáng sản; thương mại, xăng dầu | 06, 07 |

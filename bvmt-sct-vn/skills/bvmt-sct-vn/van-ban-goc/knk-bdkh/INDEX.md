@@ -48,6 +48,9 @@ Quy ước: file docx/pdf gốc đã chuyển sang text (bỏ định dạng); s
 | QD-2200-QD-BNNMT-10-6-2026-ke-hoach-trien-khai-ND-180.txt | QĐ 2200/QĐ-BNNMT 10/6/2026 |
 | TT-31-2026-TT-BNNMT-15-7-2026-dinh-gia-rung-chi-tra-cac-bon.txt | TT 31/2026/TT-BNNMT 15/7/2026 |
 | QD-419-QD-TTg-05-4-2017-chuong-trinh-REDD-plus.txt; CV-3479-VPCP-NN-26-5-2021-thi-diem-tin-chi-rung-Quang-Nam.txt | Lịch sử REDD+ |
+| Luat-Lam-nghiep-16-2017-QH14-15-11-2017.txt | Luật Lâm nghiệp 16/2017/QH14 ngày 15/11/2017 (bản gốc, chưa hợp nhất các luật sửa 16/2023, 31/2024, 146/2025) — nền cho NĐ 180/2026 (bổ sung v1.4.1) |
+| QD-1215-QD-BNN-TCCB-02-6-2014-quy-che-BCD-REDD.txt; QD-1803-QD-TTg-22-10-2015-du-an-PMR-WB.txt | QĐ 1215/QĐ-BNN-TCCB 02/6/2014 (quy chế BCĐ UN-REDD); QĐ 1803/QĐ-TTg 22/10/2015 (dự án PMR do WB tài trợ) — lịch sử, không viện dẫn (bổ sung v1.4.1) |
+| UNFCCC-Cong-uoc-khung-LHQ-ve-BDKH-ban-dich.txt | Công ước khung của Liên hợp quốc về BĐKH — bản dịch tiếng Việt, tham khảo (bổ sung v1.4.1) |
 | QD-896-QD-TTg-26-7-2022-chien-luoc-BDKH-2050.txt | QĐ 896/QĐ-TTg 26/7/2022 |
 | QD-1422-QD-TTg-19-11-2024-ke-hoach-thich-ung-BDKH.txt | QĐ 1422/QĐ-TTg 19/11/2024 |
 
@@ -56,6 +59,6 @@ Quy ước: file docx/pdf gốc đã chuyển sang text (bỏ định dạng); s
 |---|---|
 | Ghi-chu-chuc-nang-QLNN-BVMT-cua-So-Cong-Thuong.txt | Ghi chú nội bộ: căn cứ điểm a khoản 2 Điều 160 Luật BVMT; TT 35/2015/TT-BCT hết hiệu lực |
 | Du-thao-De-an-13-Tinh-uy-ban-UBND-tinh-KHONG-TRICH-SO.txt | Dự thảo Đề án 13 (bản chính: NQ 35-NQ/TU 29/12/2025) |
-| DU-THAO-2024-Phu-luc-II/III/IV-QD-13-2024-*-THAM-KHAO.txt | Dự thảo phụ lục QĐ 13/2024 (10/2023, có cột TOE) — chỉ để đối chiếu cơ sở bị loại/thêm |
+| DU-THAO-2024-Phu-luc-I/II/III/IV-QD-13-2024-*-THAM-KHAO.txt | Dự thảo phụ lục QĐ 13/2024 (10/2023, có cột TOE) — chỉ để đối chiếu cơ sở bị loại/thêm |
 
 Chưa có bản text (PDF scan): QĐ 942/QĐ-TTg 05/8/2022 (mê-tan); QĐ 11/2025/QĐ-TTg đã có trong ref 06. Các luật, nghị định BVMT chung (NĐ 08/2022, 48/2026, TT 09/2026, Luật 146/2025, NĐ 45/2022...) không sao chép — số/ngày tại `references/02`.

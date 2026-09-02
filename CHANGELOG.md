@@ -5,6 +5,10 @@
 
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — bvmt-sct-vn v1.4.1: bổ sung 5 văn bản gốc KNK/rừng (Luật Lâm nghiệp, QĐ 1215, QĐ 1803, UNFCCC, dự thảo PL I QĐ 13/2024), việc "kế hoạch kiểm tra MRV 2027" và 4 anti-error (NĐ 83 chỉ sửa ô-dôn; QĐ 334 đính chính TT 38; TT 28/2023 không áp ngành CT; tách nghĩa vụ cơ sở có/không hạn ngạch)
+
+Phần chênh lệch của phiên làm việc thứ hai cùng ngày trên kho "Môi trường.rar"; giữ nguyên v1.4.0 làm gốc.
+
 ## 02/9/2026 — SỬA LỖI ĐỌC SỐ VĂN BẢN (QĐ 5116/QĐ-SCT): xp-sct-vn 1.3.2, vbhc-pdf-reader-vn 2.0.4, vbhc-vn 2.12.2, pccc 1.1.4, quy-hoach 1.1.2
 
 QĐ 5116/QĐ-SCT ngày 20/8/2026 là bản ký số đầy đủ nhưng bị ghi "bản dự thảo chưa điền số" vì không chạy extract_metadata.py mà tin lớp text context (script đọc đúng ngay lần đầu). Sửa dữ liệu; sentinel thêm vụ thứ 4, cấm chữ "bản dự thảo" khi chưa chạy script, cờ 6 (đang làm plugin khác vẫn phải chạy); vbhc-vn quy tắc 19 bổ sung; xp-sct-vn thêm mục 0 GATE PDF; pccc và quy-hoach (2 plugin chưa có cổng) thêm đoạn GATE; CLAUDE.md sửa quy tắc đọc PDF ký số.

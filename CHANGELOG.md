@@ -1,5 +1,8 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — sd-vlncn-sct-vn v2026.9.2.1: tinh gọn SKILL.md 46k → 28k, anti-error tách sang ref 11
+Mục VI anti-error (26 quy tắc) chuyển nguyên văn sang `references/11-anti-error.md` (bắt buộc đọc trước khi soạn); SKILL.md giữ mục lục. Sửa đánh số trùng 22/23 → A/B.
+
 ## 02/9/2026 — xp-hc-vlncn-sct-vn v1.6.1: đánh dấu ĐÃ THAY THẾ bởi xp-sct-vn
 
 Thu hẹp description để plugin cũ không còn kích hoạt trùng với xp-sct-vn (đã kế thừa trọn 7 references). Khuyến nghị gỡ khỏi máy.

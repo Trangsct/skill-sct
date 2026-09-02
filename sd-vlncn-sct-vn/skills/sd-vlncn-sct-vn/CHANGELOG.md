@@ -1,5 +1,11 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.2.1] - 02/9/2026 — tinh gọn SKILL.md (46,3k → 27,7k ký tự)
+- Mục VI (26 anti-error, 21k ký tự) tách NGUYÊN VĂN sang `references/11-anti-error.md`; SKILL.md giữ mục lục 26 dòng + lệnh BẮT BUỘC đọc ref 11 trước khi thẩm định/soạn. Đã kiểm: 0 dòng mất.
+- Sửa lỗi đánh số trùng: hai mục "22" và hai mục "23" → 22-A/22-B, 23-A/23-B (viện dẫn "anti-error 22" về khuôn Phiếu trình + GP-SCT = 22-B; đã sửa 3 chỗ viện dẫn trong SKILL.md).
+- Mục VII cấu trúc plugin: bổ sung ref 10, 11 còn thiếu.
+- plugin.json 2026.9.2 → **2026.9.2.1**.
+
 ## [2026.9.2] - 02/9/2026 — rà soát tổng thể, gỡ mâu thuẫn người ký GP-SCT
 - **Gỡ mâu thuẫn nội bộ về người ký Giấy phép /GP-SCT**: ref 10 mục A-bis vẫn ghi "Người ký giấy phép chưa chốt" trong khi SKILL.md (bảng thẩm quyền, anti-error 22) và CHANGELOG 26/8 đã chốt → sửa thành ĐÃ CHỐT: **KT. GIÁM ĐỐC – PGĐ Hoàng Văn Thuân**, ký hiệu `/GP-SCT` (tiền lệ Kim Thành + Đồng Tiến). Sơ đồ quy trình mục V dòng "GIÁM ĐỐC SỞ ký" ghi rõ chủ thể ban hành là Giám đốc Sở nhưng người ký thực tế là PGĐ Thuân.
 - **Description (SKILL.md + plugin.json) lỗi thời**: vẫn "Chủ tịch UBND tỉnh ký GP-UBND" → cập nhật ủy quyền QĐ 2867, từ khóa GP-SCT; rút gọn SKILL.md description 1003 ký tự (≤1024), plugin.json 467 (≤500).

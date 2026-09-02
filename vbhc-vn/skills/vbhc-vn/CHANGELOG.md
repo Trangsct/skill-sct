@@ -1,5 +1,8 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.12.2] - 02/9/2026 — quy tắc bất biến 19 bổ sung vụ QĐ 5116/QĐ-SCT
+- Context trống số/ngày = PDF ký số, cấm kết luận "bản dự thảo" khi chưa chạy extract_metadata.py; áp dụng cả khi chỉ lưu bản gốc vào plugin khác.
+
 ## [2.12.1] - 02/9/2026 — bổ sung nhóm J vào tóm tắt A–J; tách bài học XML Chế độ B
 - Tóm tắt "Phòng tránh 10 nhóm A–J" trong SKILL.md thiếu **nhóm J** (giọng giải thích lọt vào thân văn bản, Bạn chốt 31/8/2026 — chỉ có trong reference) → bổ sung 1 dòng.
 - 11 bài học XML Chế độ B tách nguyên văn sang `reference/cong-cu-ky-thuat.md`; SKILL.md giữ 1 đoạn tóm tắt + lệnh đọc trước khi sửa XML. SKILL.md 42,7k → 40.9k ký tự. Quy tắc bất biến (21 mục) và quy trình 5 bước giữ nguyên trong SKILL.md vì dùng ở mọi lượt.

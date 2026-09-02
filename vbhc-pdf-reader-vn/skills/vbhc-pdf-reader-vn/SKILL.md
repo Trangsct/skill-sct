@@ -1,6 +1,6 @@
 ---
 name: vbhc-pdf-reader-vn
-description: "SENTINEL - PHẢI CHẠY NGAY khi nhận PDF là văn bản nhà nước VN (công văn, quyết định, tờ trình, báo cáo, kế hoạch, nghị quyết, nghị định, thông tư), không chờ phát hiện thiếu thông tin. Trích chính xác metadata: số văn bản, ngày, cơ quan, người ký, trích yếu, nơi nhận. Triggers: tên file chứa CV, QĐ, TTr, BC, KH, NQ, NĐ, TT, BYT, BNN, BCT, SYT, UBND, HĐND, SCT; cụm 'PDF', 'công văn đến', 'văn bản đến', 'file đính kèm', 'đọc giúp', 'tham gia ý kiến', 'soạn công văn triển khai', 'triển khai văn bản', 'báo cáo theo chỉ đạo'; context có 'Số: /UBND-...', 'ngày tháng năm 20...' bị trống. Vấn đề giải quyết: PDF VBHC layout 2 cột với text-box độc lập cho số/ngày, khi nạp vào context các vùng này thường trống hoặc nối sai. Từ khóa thêm: Bộ, Sở, KT., TM., TUQ., TL., người ký, trích yếu, nơi nhận."
+description: "SENTINEL - PHẢI CHẠY NGAY khi nhận PDF là văn bản nhà nước VN (công văn, quyết định, tờ trình, báo cáo, kế hoạch, nghị quyết, nghị định, thông tư), không chờ phát hiện thiếu thông tin. Trích chính xác metadata: số văn bản, ngày, cơ quan, người ký, trích yếu, nơi nhận. Triggers: tên file chứa CV, QĐ, TTr, BC, KH, NQ, NĐ, TT, BYT, BNN, BCT, SYT, UBND, HĐND, SCT; cụm 'PDF', 'công văn đến', 'văn bản đến', 'file đính kèm', 'đọc giúp', 'tham gia ý kiến', 'soạn công văn triển khai', 'triển khai văn bản', 'báo cáo theo chỉ đạo'; context có 'Số: /UBND-...', 'Số: /QĐ-SCT', 'ngày tháng năm 20...' bị trống (PDF ký số - CẤM kết luận 'bản dự thảo'). Vấn đề giải quyết: PDF VBHC layout 2 cột với text-box độc lập cho số/ngày, khi nạp vào context các vùng này thường trống hoặc nối sai. Từ khóa thêm: Bộ, Sở, KT., TM., TUQ., TL., người ký, trích yếu, nơi nhận."
 ---
 
 # vbhc-pdf-reader-vn v2.0 — Lính gác đọc PDF văn bản hành chính Việt Nam
@@ -29,13 +29,14 @@ KHÔNG được:
 - Bỏ qua vì "context đã có vẻ đủ thông tin".
 - Soạn văn bản trả lời/triển khai trước khi xác minh số/ngày bằng script.
 
-Bỏ qua quy tắc này đã gây **3 vụ dẫn chiếu sai** trong công việc thực tế:
+Bỏ qua quy tắc này đã gây **4 vụ dẫn chiếu sai** trong công việc thực tế:
 
 | Vụ | Số văn bản đúng | Context hiển thị |
 |---|---|---|
 | CV UBND tỉnh về ĐVHD | 3861/UBND-NC, 15/5/2026 | "Số: /UBND-NC", ngày trống |
 | CV UBND tỉnh về Đề án ATTP | 3954/UBND-VX, 17/5/2026 | "Số: /UBND-VX", ngày trống |
 | CV Sở Y tế | 2861/SYT-NVY, 19/6/2026 | "Số: /SYT-NVY" trống |
+| **QĐ Sở CT giao lập biên bản khoáng sản (02/9/2026, khi đang làm xp-sct-vn)** | **5116/QĐ-SCT, 20/8/2026** — bản ký số 2 trường /Sig | "Số: /QĐ-SCT", "ngày tháng 8" trống → **ghi nhầm "bản dự thảo chưa điền số"**; script đọc đúng ngay lần đầu |
 
 Chi phí chạy: ~2 giây. Chi phí bỏ qua: sửa tay từng chỗ, hoặc văn bản trình ký sai số/ngày.
 
@@ -43,9 +44,10 @@ Chi phí chạy: ~2 giây. Chi phí bỏ qua: sửa tay từng chỗ, hoặc vă
 
 1. **Tên file** chứa: CV/cong_van, QĐ/QD/quyet_dinh, TTr/to_trinh, BC/bao_cao, KH/ke_hoach, NQ, NĐ/ND, TT/thong_tu, UBND, HĐND, BCT, BYT, BNN, SYT, SCT, STC, SNN, SXD.
 2. **Dòng đầu context** có: "ỦY BAN NHÂN DÂN", "BỘ ...", "SỞ ...", "HỘI ĐỒNG NHÂN DÂN", "CHÍNH PHỦ", "THỦ TƯỚNG", "QUỐC HỘI".
-3. **Context** hiện trường số/ngày trống: `Số:    /UBND-...`, `ngày      tháng      năm`.
+3. **Context** hiện trường số/ngày trống: `Số:    /UBND-...`, `ngày      tháng      năm` — **cờ mạnh nhất**: PDF ký số của các cơ quan Lào Cai (iText/openPdf) đặt số và ngày trong appearance của trường chữ ký `/Sig`; parser context bỏ rơi, `pdftotext`/script đọc được. **CẤM** viết "bản dự thảo", "chưa điền số/ngày", "chưa cấp số" khi chưa chạy script; muốn kết luận "nháp" phải có JSON script trả `so_van_ban: null` VÀ ảnh render `pdftoppm -r 110 -f 1 -l 1` cho thấy ô số trống.
 4. **Người dùng nhắc**: "PDF", "công văn đến", "văn bản đến", "file đính kèm", "đọc giúp", "tham gia ý kiến", "soạn công văn triển khai", "báo cáo theo chỉ đạo".
 5. **Hội thoại có mục đích** soạn văn bản tham mưu/triển khai/trả lời dựa trên văn bản nguồn cấp trên.
+6. **Đang làm việc trong plugin nghiệp vụ khác** (xp-sct-vn, kccn, sd-vlncn, hnh, qlks…) và người dùng đính kèm PDF để "ghi vào plugin", "cập nhật skill", "lưu bản gốc" — vẫn phải chạy script trước khi ghi số/ngày vào references/INDEX/CHANGELOG.
 
 ## Quy trình rút gọn
 

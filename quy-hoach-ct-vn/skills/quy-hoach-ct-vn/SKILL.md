@@ -5,6 +5,9 @@ description: "QUY HOẠCH 04 ngành Công Thương Lào Cai: KHOÁNG SẢN, ĐI�
 
 # quy-hoach-ct-vn — Cẩm nang quy hoạch ngành Công Thương tỉnh Lào Cai
 
+> **GATE PDF (áp dụng mọi plugin nghiệp vụ):** nhận PDF văn bản nhà nước → chạy `python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py" "<file.pdf>"` TRƯỚC khi dẫn số/ngày/người ký. Context trống "Số: /…", "ngày … tháng …" là PDF ký số, KHÔNG phải bản dự thảo (vụ QĐ 5116/QĐ-SCT 02/9/2026). Chi tiết: plugin `vbhc-pdf-reader-vn`.
+
+
 Skill này tổng hợp khung pháp lý và dữ liệu quy hoạch của **04 ngành thuộc phạm vi quản lý của ngành Công Thương** được tích hợp trong Quy hoạch tỉnh Lào Cai: **khoáng sản, điện/năng lượng, khu công nghiệp (KCN), cụm công nghiệp (CCN)**.
 
 Trọng tâm là **lớp quy hoạch** — tức trả lời các câu hỏi: *dự án/mỏ/công trình này có trong quy hoạch không, thuộc quyết định nào, ở giai đoạn nào, quy mô bao nhiêu, vị trí xã nào.* Phần thủ tục thành lập, cấp phép, chấm điểm chủ đầu tư KCN/CCN do skill `kcn-ccn-vn` đảm nhiệm; phần cấp phép, kiểm tra HHNH/hóa chất do `hnh-sct-vn` đảm nhiệm — skill này KHÔNG thay thế các skill đó.

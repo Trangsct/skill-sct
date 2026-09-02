@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — SỬA LỖI ĐỌC SỐ VĂN BẢN (QĐ 5116/QĐ-SCT): xp-sct-vn 1.3.2, vbhc-pdf-reader-vn 2.0.4, vbhc-vn 2.12.2, pccc 1.1.4, quy-hoach 1.1.2
+
+QĐ 5116/QĐ-SCT ngày 20/8/2026 là bản ký số đầy đủ nhưng bị ghi "bản dự thảo chưa điền số" vì không chạy extract_metadata.py mà tin lớp text context (script đọc đúng ngay lần đầu). Sửa dữ liệu; sentinel thêm vụ thứ 4, cấm chữ "bản dự thảo" khi chưa chạy script, cờ 6 (đang làm plugin khác vẫn phải chạy); vbhc-vn quy tắc 19 bổ sung; xp-sct-vn thêm mục 0 GATE PDF; pccc và quy-hoach (2 plugin chưa có cổng) thêm đoạn GATE; CLAUDE.md sửa quy tắc đọc PDF ký số.
+
 ## 02/9/2026 — xp-sct-vn v1.3.1: chốt chuyển đổi chức danh Chánh TT Sở → GĐ Sở (80% trần, k2 Đ6 + k2 Đ21 NĐ 189) và tư cách lập biên bản khoáng sản theo QĐ 5116/QĐ-SCT 20/8/2026
 
 Hai điểm treo từ v1.2.0 đã được Bạn chốt; ghi tại references/09 mục K; bản gốc QĐ 5116 lưu van-ban-goc/khoang-san/.

@@ -93,3 +93,17 @@ if trPr.find(qn('w:cantSplit')) is None:
 ```
 
 QA khép vòng: `python3 scripts/qa_pdf_check.py <file.docx>` — kiểm widow word, khối ký cùng trang, đủ 2 Line header, cỡ 13pt dòng Số/Ngày. Khi tool view ảnh không hoạt động, script này + `pdftotext -layout` là đường QA chính.
+
+## Bài học XML Chế độ B đã rút ra (tách từ SKILL.md 02/9/2026 — áp dụng để khỏi vấp lại)
+
+- Khi một chuỗi (vd tên người, "Lào Cai") xuất hiện ở **cả bảng dữ liệu lẫn khối chữ ký**, `sed -i` sẽ thay nhầm tất cả → dùng `str_replace` kèm context `<w:rPr>` (cỡ chữ `<w:sz w:val="..."/>`, có/không `<w:b/>`) để trúng đúng vị trí.
+- Văn bản bị tách run bởi `<w:lastRenderedPageBreak/>` → phải `str_replace` cả cụm bắc qua thẻ ngắt, không tách 2 lần.
+- Đổi run **đậm → nghiêng**: thay cả khối `<w:r>...</w:r>` gồm `<w:rPr>` (đổi `<w:b/>` thành `<w:i/>`), không chỉ đổi text.
+- **Sắp xếp lại thứ tự dòng trong bảng** (gộp/đổi nhóm): thao tác ở cấp XML qua `tbl._tbl` / `tbl.tr_lst`, gỡ rồi nối lại `<w:tr>` theo thứ tự mong muốn — API `python-docx` chuẩn không hỗ trợ reorder.
+- **Điền ô trống**: tìm `<w:p ...>` không chứa `<w:r`/`<w:t>`, chèn `<w:r>` ngay sau `</w:pPr>`. `paraId` tự sinh phải < `0x80000000` (vd dùng tiền tố `0A...`, tránh `AA...`).
+- File `.doc` (cũ): convert sang `.docx` bằng `soffice.py --headless --convert-to docx` trước khi `extract-text`.
+- **KHÔNG truy cập `d.paragraphs[n]` theo chỉ số sau khi đã chèn/xóa cấu trúc** (vụ thật CV kho VLNCN 04/7/2026: 4 lỗi cùng gốc — body căn giữa, sót nội dung vụ cũ, thiếu dòng Kính gửi, sai tháng): danh sách paragraph tự tính lại nên chỉ số trôi. Bắt TRƯỚC mọi tham chiếu cần dùng: `paras0 = list(d.paragraphs)` rồi thao tác qua `._p` đã lưu.
+- **Clone paragraph để sinh body phải clone từ đoạn body chuẩn** (justify, firstLine ≥ 1cm) — clone từ đoạn căn giữa (Kính gửi, tiêu đề) sẽ thừa hưởng sai `pPr` cho toàn bộ nội dung.
+- **Thay text header tách nhiều run**: lấy đủ chuỗi `''.join(r.text for r in p.runs)`, sửa, ghi vào `runs[0].text`, xóa text run sau — NHƯNG trước đó PHẢI kiểm tra run có shape không (Quy tắc 11); run chứa shape thì đi đường `w:t`.
+- **Assertion tự động sau build** (bắt buộc với Chế độ B trên mẫu thật): không còn tên/địa danh vụ việc cũ; đủ các dòng Kính gửi; ngày tháng đúng; mọi đoạn body không CENTER; firstLine ≥ 1cm (≥ 360000 EMU); còn đủ số shape Line như gốc. Từ v2.1.0: phần CENTER/firstLine/shape Line/br-header đã nằm sẵn trong `scripts/qa_all.py` — chạy `qa_all.py` ngay sau build là phủ được; chỉ cần tự viết assertion riêng cho phần NỘI DUNG vụ việc (tên/địa danh cũ, dòng Kính gửi, ngày tháng).
+- **Sửa XML trực tiếp trên file có run vụn**: chạy `merge_runs.py` (skill docx public) gộp `<w:t>` trước rồi mới str_replace; khớp whitespace trong `<w:t>` chính xác từng dấu cách.

@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — vbhc-vn v2.12.1: bổ sung nhóm J vào tóm tắt A–J (thiếu từ 31/8), tách bài học XML Chế độ B sang reference
+
+SKILL.md 42,7k → ~40k; giữ nguyên quy tắc bất biến và quy trình 5 bước. Kết thúc đợt tinh gọn 4 SKILL.md dài (sd-vlncn 46k→28k, hnh 44k→24k, sct-laocai-org 42k→37k, vbhc-vn 43k→40k).
+
 ## 02/9/2026 — sct-laocai-org-vn v2.1.0: tinh gọn SKILL.md 42k → 37k, CNNV các phòng → references/01
 
 Chức năng nhiệm vụ 6 phòng theo QĐ 59 tách nguyên văn; SKILL.md giữ tóm tắt và toàn bộ phần dùng hằng ngày (chuyên viên, người ký, routing).

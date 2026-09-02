@@ -132,18 +132,7 @@ python /mnt/skills/public/docx/scripts/office/unpack.py /home/claude/work/src.do
 python /mnt/skills/public/docx/scripts/office/pack.py /home/claude/work/unpacked/ /home/claude/work/out.docx --original /home/claude/work/src.docx
 ```
 
-**Bài học XML đã rút ra (áp dụng để khỏi vấp lại):**
-- Khi một chuỗi (vd tên người, "Lào Cai") xuất hiện ở **cả bảng dữ liệu lẫn khối chữ ký**, `sed -i` sẽ thay nhầm tất cả → dùng `str_replace` kèm context `<w:rPr>` (cỡ chữ `<w:sz w:val="..."/>`, có/không `<w:b/>`) để trúng đúng vị trí.
-- Văn bản bị tách run bởi `<w:lastRenderedPageBreak/>` → phải `str_replace` cả cụm bắc qua thẻ ngắt, không tách 2 lần.
-- Đổi run **đậm → nghiêng**: thay cả khối `<w:r>...</w:r>` gồm `<w:rPr>` (đổi `<w:b/>` thành `<w:i/>`), không chỉ đổi text.
-- **Sắp xếp lại thứ tự dòng trong bảng** (gộp/đổi nhóm): thao tác ở cấp XML qua `tbl._tbl` / `tbl.tr_lst`, gỡ rồi nối lại `<w:tr>` theo thứ tự mong muốn — API `python-docx` chuẩn không hỗ trợ reorder.
-- **Điền ô trống**: tìm `<w:p ...>` không chứa `<w:r`/`<w:t>`, chèn `<w:r>` ngay sau `</w:pPr>`. `paraId` tự sinh phải < `0x80000000` (vd dùng tiền tố `0A...`, tránh `AA...`).
-- File `.doc` (cũ): convert sang `.docx` bằng `soffice.py --headless --convert-to docx` trước khi `extract-text`.
-- **KHÔNG truy cập `d.paragraphs[n]` theo chỉ số sau khi đã chèn/xóa cấu trúc** (vụ thật CV kho VLNCN 04/7/2026: 4 lỗi cùng gốc — body căn giữa, sót nội dung vụ cũ, thiếu dòng Kính gửi, sai tháng): danh sách paragraph tự tính lại nên chỉ số trôi. Bắt TRƯỚC mọi tham chiếu cần dùng: `paras0 = list(d.paragraphs)` rồi thao tác qua `._p` đã lưu.
-- **Clone paragraph để sinh body phải clone từ đoạn body chuẩn** (justify, firstLine ≥ 1cm) — clone từ đoạn căn giữa (Kính gửi, tiêu đề) sẽ thừa hưởng sai `pPr` cho toàn bộ nội dung.
-- **Thay text header tách nhiều run**: lấy đủ chuỗi `''.join(r.text for r in p.runs)`, sửa, ghi vào `runs[0].text`, xóa text run sau — NHƯNG trước đó PHẢI kiểm tra run có shape không (Quy tắc 11); run chứa shape thì đi đường `w:t`.
-- **Assertion tự động sau build** (bắt buộc với Chế độ B trên mẫu thật): không còn tên/địa danh vụ việc cũ; đủ các dòng Kính gửi; ngày tháng đúng; mọi đoạn body không CENTER; firstLine ≥ 1cm (≥ 360000 EMU); còn đủ số shape Line như gốc. Từ v2.1.0: phần CENTER/firstLine/shape Line/br-header đã nằm sẵn trong `scripts/qa_all.py` — chạy `qa_all.py` ngay sau build là phủ được; chỉ cần tự viết assertion riêng cho phần NỘI DUNG vụ việc (tên/địa danh cũ, dòng Kính gửi, ngày tháng).
-- **Sửa XML trực tiếp trên file có run vụn**: chạy `merge_runs.py` (skill docx public) gộp `<w:t>` trước rồi mới str_replace; khớp whitespace trong `<w:t>` chính xác từng dấu cách.
+**Bài học XML Chế độ B (11 điểm — vụ thật đã trả giá): đọc `reference/cong-cu-ky-thuat.md` mục "Bài học XML Chế độ B" TRƯỚC khi sửa XML** (sed thay nhầm khối ký, run tách bởi lastRenderedPageBreak, đổi đậm→nghiêng cả run, chèn ô trống + paraId, không truy cập paragraphs[n] sau khi chèn/xóa, clone body từ đoạn justify, merge_runs trước str_replace, assertion sau build).
 
 **Thay nội dung trong run giữ định dạng (python-docx)**: gán `runs[0].text = chuỗi_mới` rồi xóa các run sau (`r.text = ''`) — giữ được đậm/nghiêng/font của run đầu.
 
@@ -269,6 +258,7 @@ Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, l
 - **G — Thể thức từ chỉnh sửa tay:** dòng ngày điền sẵn tháng/năm, để trống ngày; `Lưu: VT, CN (Tên)` có khoảng trắng trước ngoặc; đậm deadline dùng `<w:b/>` chỉ đúng cụm ngày; nghiêng ghi chú "(có văn bản kèm theo)"; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Kính gửi 1 nơi = 1 dòng căn giữa, không bảng, không chấm cuối**; báo cáo gửi Bộ thêm Cục chuyên môn vào Nơi nhận, dòng lãnh đạo ghi "- Ban Giám đốc Sở;"; gửi xã/phường liên quan trực tiếp thì liệt kê rõ; header cơ quan chủ quản ghi đầy đủ. Chi tiết: `reference/phong-tranh-sai-lam.md` Nhóm G.
 - **H — Toàn vẹn trình bày khi thao tác XML/run & lắp ghép văn bản (H1–H12):** không gán `run.text` cho run neo shape Line (helper phải kiểm `.//w:pict|.//w:drawing`, assert số pict xuất == gốc); Số/Ngày 13pt tường minh + ngày nghiêng; không widow word; khối ký không gãy trang; khử gen lỗi mẫu thật (spid trùng, hanging indent, w:lang); **keepNext CHỈ gán đề mục** — chuỗi keepNext trên khoản nội dung gây trống nửa cuối trang trong Word; **bold đề mục SAU khi clone** (deepcopy lây format); đổi header khác cấp thêm đệm ~12pt; Line VML tự chèn ~70/110pt, y 2–3pt; paragraph trống xóa tồn dư giữa mục nhưng GIỮ 1 dòng đệm trước khối ký; nhãn a) nghiêng nội dung đứng; cấm `<w:trHeight>` bảng nội dung. QA: soi ảnh crop phóng to + `qa_pdf_check.py` (có audit keepNext) + đối chiếu pixel mẫu nguồn + bảng soát đậm/thường. Chi tiết: Nhóm H (H1–H12).
 - **I — Văn phong CV gửi doanh nghiệp:** không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm (chỉ nêu nghĩa vụ chung; mốc cụ thể để ở biên bản/phiếu trình nội bộ); không viết "đề nghị liên hệ Phòng ... để được hướng dẫn" — kết thúc ngay tại đoạn đề nghị nộp lại hồ sơ, đầu mối duy nhất là Trung tâm Phục vụ hành chính công tỉnh. *(Bạn chốt 24/7/2026.)*
+- **J — Giọng giải thích lọt vào thân văn bản (Bạn chốt 31/8/2026):** mỗi câu trong thân văn bản phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC; câu chỉ đánh giá mức độ/bình luận ("đây là luồng đầy đủ nhất", "doanh nghiệp cần nắm rõ"…) → bỏ hoặc viết lại; check_document.py không bắt được lỗi này — tự rà theo bảng mẫu câu J1 trong reference.
 
 ## Đọc PDF văn bản đến — trích metadata chính xác
 

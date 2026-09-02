@@ -1,5 +1,10 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.12.1] - 02/9/2026 — bổ sung nhóm J vào tóm tắt A–J; tách bài học XML Chế độ B
+- Tóm tắt "Phòng tránh 10 nhóm A–J" trong SKILL.md thiếu **nhóm J** (giọng giải thích lọt vào thân văn bản, Bạn chốt 31/8/2026 — chỉ có trong reference) → bổ sung 1 dòng.
+- 11 bài học XML Chế độ B tách nguyên văn sang `reference/cong-cu-ky-thuat.md`; SKILL.md giữ 1 đoạn tóm tắt + lệnh đọc trước khi sửa XML. SKILL.md 42,7k → 40.9k ký tự. Quy tắc bất biến (21 mục) và quy trình 5 bước giữ nguyên trong SKILL.md vì dùng ở mọi lượt.
+- plugin.json 2.12.0 → **2.12.1**.
+
 ## [2.12.0] - 02/9/2026 — rà soát tổng thể: Quốc hiệu/tiêu ngữ, Kính gửi, nơi nộp TTHC
 - **Phát hiện**: 19/23 mẫu thật trong `examples/` còn "CỘNG HOÀ" và/hoặc tiêu ngữ gạch nối "-" — Chế độ B kế thừa nguyên header nên văn bản xuất ra vi phạm quy ước cố định (HÒA + en dash), mà qa_all.py chưa bắt.
 - **Script mới `scripts/fix_quoc_hieu.py`**: chuẩn hóa chỉ trong `<w:t>` (giữ run/shape/relationships); `--check` để kiểm. Đã chạy chuẩn hóa toàn bộ `examples/` (kiểm số shape Line trước/sau giữ nguyên).

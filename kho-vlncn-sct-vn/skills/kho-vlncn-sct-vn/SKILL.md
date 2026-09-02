@@ -20,7 +20,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - Quản lý vận hành kho: lý lịch kho, xuất nhập, bảo vệ, camera, báo cáo định kỳ/đột xuất → reference `10`.
 - Xác định **thẩm quyền, ranh giới trách nhiệm** giữa Sở Công Thương – Công an (PCCC, ANTT) – Sở Xây dựng – UBND tỉnh – UBND xã → mục IV dưới đây + reference `06`.
 
-**KHÔNG thuộc plugin này:** cấp Giấy phép vận chuyển VLNCN (**Trưởng phòng PC06 Công an cấp tỉnh** — điểm đ k2 Đ4 TT 75/2024/TT-BCA; khối BQP dùng Mệnh lệnh vận chuyển; plugin `hnh-sct-vn` chỉ xử lý HHNH loại 1 TRỪ VLNCN); xử phạt VPHC (→ plugin `xp-hc-vlncn-sct-vn` theo NĐ 275/2026); huấn luyện KTAT VLNCN chỉ nêu ở mức liên quan hồ sơ (→ `hl-vlncn-sct-vn`). **PANM và Giấy phép sử dụng VLNCN: plugin `sd-vlncn-sct-vn` CHỦ TRÌ** (quy trình thẩm định, mẫu Tờ trình - QĐ đầy đủ, tiền lệ mới nhất) — reference `07` và mẫu 06, 07, 09 tại đây chỉ dùng khi vụ việc gắn trực tiếp hồ sơ kho.
+**KHÔNG thuộc plugin này:** cấp Giấy phép vận chuyển VLNCN (**Trưởng phòng PC06 Công an cấp tỉnh** — điểm đ k2 Đ4 TT 75/2024/TT-BCA; khối BQP dùng Mệnh lệnh vận chuyển; plugin `hnh-sct-vn` chỉ xử lý HHNH loại 1 TRỪ VLNCN); xử phạt VPHC (→ plugin `xp-sct-vn` (kế thừa xp-hc-vlncn-sct-vn, references/01-vlncn-hoachat/) theo NĐ 275/2026); huấn luyện KTAT VLNCN chỉ nêu ở mức liên quan hồ sơ (→ `hl-vlncn-sct-vn`). **PANM và Giấy phép sử dụng VLNCN: plugin `sd-vlncn-sct-vn` CHỦ TRÌ** (quy trình thẩm định, mẫu Tờ trình - QĐ đầy đủ, tiền lệ mới nhất) — reference `07` và mẫu 06, 07, 09 tại đây chỉ dùng khi vụ việc gắn trực tiếp hồ sơ kho.
 
 Khi soạn văn bản kết quả: kết hợp skill `vbhc-vn` (thể thức, mẫu), `sct-laocai-org-vn` (người ký, Lưu CN), `vbhc-pdf-reader-vn`/GATE (đọc PDF đến). Khi liên quan PCCC sâu: skill `pccc-sct-vn`.
 

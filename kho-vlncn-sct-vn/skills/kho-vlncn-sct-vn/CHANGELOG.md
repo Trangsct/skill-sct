@@ -1,5 +1,8 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.10.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## [1.10.2] - 02/9/2026 — rà soát tổng thể
 - SKILL.md mục II (QĐ 1883): câu "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký /GP-UBND" đã lỗi thời từ 20/8/2026 → sửa: ủy quyền cấp GP tại QĐ 2867/QĐ-UBND, `/GP-SCT`, PGĐ Thuân ký (mục IV và ref 01 đã đúng, chỉ dòng này sót).
 - Mẫu 01, 02: Quốc hiệu "CỘNG HOÀ" → "CỘNG HÒA", tiêu ngữ dùng en dash (quy ước cố định).

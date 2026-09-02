@@ -79,7 +79,7 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 - Khi trích metadata PDF: nếu không đọc được người ký, KHÔNG cần OCR lại — chỉ cần số văn bản + ngày là đủ.
 
 ### Sửa file SAU khi QA — hai bẫy đã trả giá (vụ Thành Hương 29-30/7/2026)
-- **Gán `run.text = ...` (python-docx) xóa TOÀN BỘ nội dung run, kể cả shape `v:line`/`w:pict` nằm trong run** — điền "tháng 7" vào ô ngày đã làm mất đường kẻ dưới "Độc lập - Tự do - Hạnh phúc" của dự thảo GP dù QA trước đó PASS. Trước khi gán text vào đoạn thuộc bảng header (ô ngày, ô quốc hiệu, ô tên cơ quan): grep `<w:pict`/`v:line` trong đoạn; nếu có, chỉ sửa phần tử `w:t` trong XML hoặc trích nguyên khối run chứa pict từ mẫu gốc chèn trả lại.
+- **Gán `run.text = ...` (python-docx) xóa TOÀN BỘ nội dung run, kể cả shape `v:line`/`w:pict` nằm trong run** — điền "tháng 7" vào ô ngày đã làm mất đường kẻ dưới "Độc lập – Tự do – Hạnh phúc" của dự thảo GP dù QA trước đó PASS. Trước khi gán text vào đoạn thuộc bảng header (ô ngày, ô quốc hiệu, ô tên cơ quan): grep `<w:pict`/`v:line` trong đoạn; nếu có, chỉ sửa phần tử `w:t` trong XML hoặc trích nguyên khối run chứa pict từ mẫu gốc chèn trả lại.
 - **Mọi chỉnh sửa sau lần QA PASS — dù chỉ một ô ngày — phải chạy lại `qa_all.py` và render soi lại**; khoảng hở "sửa nhẹ khỏi QA" chính là nơi lỗi lọt ra bản giao cho người dùng.
 - Khi nghi ngờ thể thức mà không soi được ảnh: **đối chiếu pixel với bản ký thật** — render cả hai cùng 120 dpi, dò các đoạn kẻ ngang (ngưỡng xám < 175, đoạn liên tục ≥ 30 px, liệt kê MỌI đoạn mỗi hàng chứ không chỉ đoạn dài nhất) rồi so tọa độ; đo đậm/thường bằng tỉ lệ mực hai vùng TRÊN CÙNG MỘT DÒNG (nhãn vs nội dung), không so giữa các dòng khác cấu trúc.
 

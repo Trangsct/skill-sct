@@ -17,4 +17,4 @@
 | 13 | 13-bc-ubnd-tinh-uy-quyen.md | Báo cáo UBND tỉnh hằng năm về thực hiện nhiệm vụ ủy quyền QĐ 1883 |
 | 14 | 14-mau-01-02-nd181-huong-dan-dn.md | Mẫu 01 + Mẫu 02 NĐ 181 bản điền sẵn hướng dẫn doanh nghiệp |
 
-Quy tắc chung: quốc hiệu "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"; tiêu ngữ dùng dấu gạch "Độc lập - Tự do - Hạnh phúc"; header 2 Line shapes; "Kính gửi" không bold; số bỏ trống "Số:      /…"; địa danh "Lào Cai, ngày … tháng … năm 20…"; Lưu theo mục IV SKILL.md.
+Quy tắc chung: quốc hiệu "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"; tiêu ngữ dùng dấu gạch "Độc lập – Tự do – Hạnh phúc"; header 2 Line shapes; "Kính gửi" không bold; số bỏ trống "Số:      /…"; địa danh "Lào Cai, ngày … tháng … năm 20…"; Lưu theo mục IV SKILL.md.

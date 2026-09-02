@@ -1,5 +1,8 @@
 # CHANGELOG — qlks-sct-vn
 
+## [1.9.1] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## v1.9.0 — 29/8/2026: nghiệp vụ 12 — xác minh kiến nghị lấn chiếm ranh giới mỏ giáp ranh (mẫu chuẩn vụ Đại Đồng Tiến)
 
 **Nguồn:** Bạn cung cấp trọn bộ 4 văn bản của vụ việc điển hình được đánh giá giải quyết rất tốt: (1) **CV 28/CV-ĐĐT ngày 04/8/2026** của Công ty TNHH Đại Đồng Tiến (GĐ Trần Thành Công ký, scan 61 trang kèm phụ lục chứng cứ) kiến nghị DNTN Thành Hương Nghĩa Lộ lấn chiếm, khai thác trái phép sang ranh giới mỏ đá xã Văn Chấn; (2) **CV 8129/UBND-KT ngày 10/8/2026** (PCT Nguyễn Thành Sinh ký) giao SNNMT chủ trì, phối hợp SXD, SCT, UBND xã Văn Chấn xác minh, báo cáo trước 30/8/2026; (3) **Biên bản kiểm tra thực địa ngày 21/8/2026** ký đủ 6 bên (3 sở + xã + 2 doanh nghiệp); (4) **BC 904/BC-SNNMT ngày 28/8/2026** (PGĐ Phạm Năng Chung ký) — hoàn thành trước hạn 2 ngày. Kết luận: đo GPS hệ VN2000 tại 2 vị trí bên kiến nghị chỉ → cả 2 nằm TRONG ranh giới GP 2596/GP-UBND của bên bị kiến nghị (cách ranh 11m/14m, cao độ +384/+386m > mức sâu cho phép +380m) — **chưa lấn chiếm**; cả hai doanh nghiệp ký thống nhất.

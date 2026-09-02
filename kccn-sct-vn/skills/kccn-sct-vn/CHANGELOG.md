@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## [1.22.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## [1.22.2] - 02/9/2026 — rà soát tổng thể
 - Ref 22 (ĐTC trung hạn) dòng 388: giữ nguyên tên nguồn "giai đoạn I" nhưng chú thích hồ sơ Sở chỉ dùng "CCN Yên Hợp" (12 ha), Yên Hợp 1 là dự án độc lập — tránh dùng lại cách gọi "giai đoạn I/II" (nguyên tắc bất biến 11).
 - plugin.json 1.22.1 → **1.22.2**.

@@ -4,7 +4,7 @@ Dựa trên Biên bản thực tế ngày 18/6/2026 (Ngòi Nhù 1A) và 29/5/202
 
 ---
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập - Tự do - Hạnh phúc
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do – Hạnh phúc
 
 **BIÊN BẢN KIỂM TRA**
 **Công tác nghiệm thu hoàn thành công trình xây dựng kho chứa vật liệu nổ công nghiệp phục vụ thi công công trình thuộc dự án {…} tại xã {…}, tỉnh Lào Cai**
@@ -60,7 +60,7 @@ Theo Phiếu trình thực tế vụ PANM Ngòi Nhù 1A.
 
 ---
 
-SỞ CÔNG THƯƠNG — **PHÒNG QLCN** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập - Tự do - Hạnh phúc
+SỞ CÔNG THƯƠNG — **PHÒNG QLCN** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do – Hạnh phúc
 
 **PHIẾU TRÌNH GIẢI QUYẾT CÔNG VIỆC**
 

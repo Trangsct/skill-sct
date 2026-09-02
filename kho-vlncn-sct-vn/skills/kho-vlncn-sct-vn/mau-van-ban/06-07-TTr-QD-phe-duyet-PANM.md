@@ -51,7 +51,7 @@ Dựa trên dự thảo QĐ thực tế vụ Ngòi Nhù 1A. Sở dự thảo tr�
 
 ---
 
-ỦY BAN NHÂN DÂN **TỈNH LÀO CAI** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập - Tự do - Hạnh phúc
+ỦY BAN NHÂN DÂN **TỈNH LÀO CAI** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do – Hạnh phúc
 Số:      /QĐ-UBND | Lào Cai, ngày … tháng … năm 20…
 
 **QUYẾT ĐỊNH**

@@ -19,7 +19,7 @@
 
 Kính gửi: Chủ tịch Ủy ban nhân dân tỉnh Lào Cai.
 
-Sở Công Thương nhận được hồ sơ đề nghị cấp Giấy phép sử dụng VLNCN của 【tên DN】 (tiếp nhận tại Trung tâm Phục vụ hành chính công tỉnh, mã hồ sơ 【…】 ngày 【…】). Sau khi thẩm định, Sở Công Thương báo cáo và trình Chủ tịch UBND tỉnh như sau:
+Sở Công Thương nhận được hồ sơ đề nghị cấp Giấy phép sử dụng VLNCN của 【tên DN】 (tiếp nhận trên Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/, mã hồ sơ 【…】 ngày 【…】). Sau khi thẩm định, Sở Công Thương báo cáo và trình Chủ tịch UBND tỉnh như sau:
 
 **1. Thông tin doanh nghiệp và đề nghị**
 - Tên, GCN ĐKDN, trụ sở, người ĐDPL; GCN đủ điều kiện về ANTT số 【…】 ngày 【…】 do 【Công an tỉnh …】 cấp.

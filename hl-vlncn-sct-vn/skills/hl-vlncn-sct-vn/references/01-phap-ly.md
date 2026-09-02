@@ -40,7 +40,7 @@ k1 người quản lý; k2 người sản xuất; k3 thủ kho; k4 chỉ huy n�
 1. **Người quản lý**: hồ sơ = Mẫu 01 + danh sách Mẫu 02 + 02 ảnh 3x4 + bản sao bằng cấp chứng minh k1 Đ4. Thời hạn: 05 ngày làm việc thông báo kế hoạch (hồ sơ chưa hợp lệ: 02 ngày trả lời bằng văn bản nêu rõ lý do) → 10 ngày tổ chức huấn luyện, kiểm tra → đạt ≥ **6/10** → 05 ngày cấp GCN Mẫu 03.
 2. **Đối tượng khác**: hồ sơ = Mẫu 01 + Mẫu 02 + 02 ảnh 3x4 + **kế hoạch huấn luyện** + **tài liệu huấn luyện chi tiết từng đối tượng** (điểm a k2 Đ8) + **bản sao bằng cấp** chứng minh k2, k3 Đ4 và **k3 Đ8 (người huấn luyện)**. Thời hạn 05–02–10–05 như trên (Sở chỉ kiểm tra).
 3. **Cấp lại** (mất, hư hỏng, thay đổi thông tin): Mẫu 01 + Mẫu 02 + 02 ảnh; **03 ngày làm việc**; hiệu lực như GCN cũ.
-4. **Nơi nộp** (01 bộ): Cổng DVC quốc gia; Hệ thống thông tin giải quyết TTHC của tỉnh (đối với thẩm quyền Sở Công Thương); bưu chính; trực tiếp.
+4. **Nơi nộp** (01 bộ): nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ — nơi nộp DUY NHẤT của mọi TTHC Sở Công Thương (Bạn chốt 02/9/2026; đăng nhập VNeID). (Văn bản QPPL liệt kê Cổng DVCQG/Hệ thống TTGQ TTHC tỉnh/bưu chính/trực tiếp — không ghi các kênh đó trong văn bản gửi DN.)
 5. **GCN hiệu lực 02 năm kể từ ngày cấp, giá trị toàn quốc.**
 
 ### Điều 10–14. Tiền chất thuốc nổ (TCTN)

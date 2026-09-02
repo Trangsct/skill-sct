@@ -85,7 +85,7 @@ Phụ thuộc mô hình đang áp dụng tại thời điểm xử lý (phải x
 | **Cấp điều chỉnh Giấy phép (loại 5, 8)** | **1.013350** | Vận chuyển hàng hóa nguy hiểm |
 | **Cấp lại Giấy phép (loại 5, 8)** | **1.013351** | Vận chuyển hàng hóa nguy hiểm |
 
-LƯU Ý: hai nhóm dùng hai bộ mã khác nhau - hồ sơ loại 5, 8 KHÔNG dùng mã 1.01496x và ngược lại; chọn đúng mã khi tiếp nhận trên Hệ thống thông tin giải quyết TTHC.
+LƯU Ý: hai nhóm dùng hai bộ mã khác nhau - hồ sơ loại 5, 8 KHÔNG dùng mã 1.01496x và ngược lại; chọn đúng mã khi tiếp nhận trên Cổng https://motcua-tthc.moit.gov.vn/.
 
 ## 6. Phân định đầu mối khi nhận câu hỏi sai thẩm quyền
 

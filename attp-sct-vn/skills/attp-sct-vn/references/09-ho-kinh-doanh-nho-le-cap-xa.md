@@ -57,7 +57,7 @@ Nhiệm vụ của xã với nhóm hộ kinh doanh: quản lý (khoản 7); ti�
 
 ## 5. Ba trường hợp KHÔNG áp dụng cơ chế cam kết
 
-1. **Cơ sở có Giấy chứng nhận đăng ký doanh nghiệp, hoặc tổ hợp tác, hợp tác xã, liên hợp tác xã** → thuộc Sở Công Thương, phải cấp Giấy chứng nhận. Hướng dẫn nộp qua Trung tâm Phục vụ hành chính công tỉnh hoặc Hệ thống thông tin giải quyết TTHC của tỉnh.
+1. **Cơ sở có Giấy chứng nhận đăng ký doanh nghiệp, hoặc tổ hợp tác, hợp tác xã, liên hợp tác xã** → thuộc Sở Công Thương, phải cấp Giấy chứng nhận. Hướng dẫn nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/.
 2. **Hộ kinh doanh có hoạt động kinh doanh dịch vụ ăn uống, thức ăn đường phố, bếp ăn tập thể** → phần này thuộc mảng dịch vụ ăn uống, Điều 7 khoản 1 và 2 QĐ 28/2025; **UBND cấp xã CẤP Giấy chứng nhận** cho phần này. Cơ sở hỗn hợp phải tách hai mảng.
 3. **Sản phẩm không thuộc Phụ lục III** mà thuộc ngành Y tế hoặc Nông nghiệp và Môi trường → hướng dẫn liên hệ cơ quan tương ứng.
 

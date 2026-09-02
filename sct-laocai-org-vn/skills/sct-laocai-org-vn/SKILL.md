@@ -218,7 +218,7 @@ Tóm tắt để định tuyến (chi tiết từng gạch đầu dòng nhiệm 
 | Trần Đăng Khôi | CN(Khôi) | VLNCN, tiền chất thuốc nổ, GCN huấn luyện KTAT, KHCN-ĐMST CN (HHNH chỉ trong giai đoạn 6/7–14/7/2026) |
 | Trần Trọng Trang (PTP tự soạn) | CN(Trang) | |
 
-⚠️ **Hai cặp trùng tên:** (1) CV **Lê Minh Long** ↔ TP **Nguyễn Hữu Long** → CV dùng **CN(M.Long)**; (2) CV **Bùi Việt Cường** ↔ PTP **Đỗ Mạnh Cường** → khi văn bản do PTP trực tiếp soạn hoặc dễ nhầm, CV dùng **CN(V.Cường)**, PTP dùng **CN(M.Cường)** (đã có tiền lệ trong văn bản VLNCN thực tế).
+⚠️ **Hai cặp trùng tên:** (1) CV **Lê Minh Long** ↔ TP **Nguyễn Hữu Long** → CV dùng **CN(M.Long)**; (2) CV **Bùi Việt Cường** ↔ PTP **Đỗ Mạnh Cường** → khi văn bản do PTP trực tiếp soạn hoặc dễ nhầm, CV dùng **CN(V.Cường)**, PTP dùng **CN(M.Cường)** (ngoại lệ có chủ ý: chỉ khi PTP trực tiếp soạn; không dùng cho VLNCN từ 10/7/2026) (đã có tiền lệ trong văn bản VLNCN thực tế).
 
 **b) Khối người ký — xác định theo LĨNH VỰC (không theo xã theo dõi):**
 

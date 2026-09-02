@@ -7,8 +7,7 @@ V/v giải quyết đề nghị huấn luyện, kiểm tra cấp Giấy chứng 
 
      Kính gửi: [Tên đơn vị]
 
-Sở Công Thương nhận được Văn bản số … ngày …/…/20… và hồ sơ nộp trên [Cổng dịch vụ công
-quốc gia / Hệ thống thông tin giải quyết TTHC tỉnh] của [Tên đơn vị] về việc đề nghị
+Sở Công Thương nhận được Văn bản số … ngày …/…/20… và hồ sơ nộp trên Cổng dịch vụ công một cửa Bộ Công Thương (https://motcua-tthc.moit.gov.vn/, mã hồ sơ […]) của [Tên đơn vị] về việc đề nghị
 huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công
 nghiệp cho ông (bà) [Họ tên].
 Theo hồ sơ, ông (bà) [Họ tên] được cử làm công tác [Người quản lý VLNCN] của [đơn vị];

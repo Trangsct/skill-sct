@@ -36,7 +36,7 @@ ALLOW_LINE = re.compile(
     r"(đến 19/8/2026|trước 20/8/2026|đến hết 19/8|trước đây|lịch sử|cũ\)|\(cũ\)|đã bãi bỏ|"
     r"không sửa lại|giữ nguyên lịch sử|không dùng|KHÔNG ghi|không ghi|cấm|CẤM|sai:|SAI|"
     r"→ đúng|-> đúng|thay vì|đã sửa|đã thay|từng ghi|trước 10/7/2026|đến 14/7/2026|"
-    r"quy ước cố định|check_facts|kênh phụ|hoặc qua Trung tâm|ghi nhầm|nguồn ghi|cách gọi|NQ 34 \(12/2025\)|"
+    r"quy ước cố định|check_facts|ghi nhầm|trích luật|nguyên văn\)|theo luật|nguồn ghi|cách gọi|NQ 34 \(12/2025\)|"
     r"không \"giai đoạn|vụ (QĐ )?5116)",
     re.I,
 )
@@ -58,11 +58,18 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "noi-nop-kenh-phu",
+        "pattern": r"(kênh phụ[^\n]{0,30}Trung tâm Phục vụ|hoặc qua Trung tâm Phục vụ|Trung tâm Phục vụ [Hh]ành chính công[^\n]{0,20}(kênh phụ|hoặc (trực tiếp|Hệ thống))|nộp (hồ sơ )?(tại|qua) Trung tâm Phục vụ|(qua|tại) Trung tâm Phục vụ hành chính công tỉnh\))",
+        "why": "Nơi nộp TTHC DUY NHẤT là https://motcua-tthc.moit.gov.vn/ (Bạn chốt lại 02/9/2026, đăng nhập VNeID) — không ghi Trung tâm PVHCC kể cả dạng 'kênh phụ'/'hoặc qua'.",
+        "since": "2026-09-02",
+        "level": "FAIL",
+    },
+    {
         "id": "noi-nop-dvcqg",
-        "pattern": r"nộp (hồ sơ )?(trên|qua|tại) Cổng Dịch vụ công [Qq]uốc gia",
+        "pattern": r"(nộp (hồ sơ )?(trên|qua|tại) Cổng (Dịch vụ công [Qq]uốc gia|DVC( quốc gia)?\b)|Nơi nộp[^\n]{0,40}(Hệ thống (thông tin giải quyết|TTGQ)|bưu chính))",
         "why": "Không hướng dẫn DN nộp qua Cổng DVCQG; ghi https://motcua-tthc.moit.gov.vn/ (trích dẫn nguyên văn luật thì thêm chữ 'theo luật' hoặc để trong ngoặc kép).",
         "since": "2026-08-02",
-        "level": "WARN",
+        "level": "FAIL",
     },
     {
         "id": "cong-hoa",

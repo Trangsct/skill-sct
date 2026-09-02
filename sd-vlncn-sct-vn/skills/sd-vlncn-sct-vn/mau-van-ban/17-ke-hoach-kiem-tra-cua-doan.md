@@ -1,6 +1,6 @@
 # Mẫu 17 — KẾ HOẠCH kiểm tra của Đoàn kiểm tra (Trưởng đoàn ký, GĐ Sở phê duyệt bằng QĐ riêng)
 
-> Văn bản thật: `vi-du-thuc-te/KH-1105-DKT-ke-hoach-kiem-tra.pdf` (+ .txt) — KH 1105/KH-ĐKT ngày 10/3/2026, được GĐ Sở phê duyệt tại QĐ 1268/QĐ-SCT ngày 16/3/2026. LƯU Ý THỂ THỨC ĐẶC THÙ: ô header trái ghi "SỞ CÔNG THƯƠNG / **ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT**"; Số:      /KH-ĐKT; ký "T/M. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Hoàng Văn Thuân — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG"; Lưu: VT, CN(M.Cường).
+> Văn bản thật: `vi-du-thuc-te/KH-1105-DKT-ke-hoach-kiem-tra.pdf` (+ .txt) — KH 1105/KH-ĐKT ngày 10/3/2026, được GĐ Sở phê duyệt tại QĐ 1268/QĐ-SCT ngày 16/3/2026. LƯU Ý THỂ THỨC ĐẶC THÙ: ô header trái ghi "SỞ CÔNG THƯƠNG / **ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT**"; Số:      /KH-ĐKT; ký "T/M. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Hoàng Văn Thuân — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG"; Lưu: VT, CN(M.Cường) (lịch sử, trước 10/7/2026 — mẫu mới dùng CN(Khôi)).
 
 **KẾ HOẠCH Kiểm tra việc chấp hành quy định pháp luật trong sử dụng và bảo quản VLNCN trên địa bàn tỉnh Lào Cai**
 
@@ -12,4 +12,4 @@ Mở đầu: Thực hiện Quyết định số 【…/QĐ-SCT】 ngày 【…�
 **5. Nguồn lực:** kinh phí theo quy định; xe ô tô do Văn phòng Sở bố trí.
 **6. Vấn đề khác:** kỷ luật Đoàn; đơn vị được kiểm tra chuẩn bị báo cáo theo **Đề cương (Phụ lục II)**, cử đại diện, cung cấp hồ sơ.
 **Phụ lục I:** bảng đơn vị — đối tượng — thời gian công bố QĐ — thời hạn (kèm ghi chú đầu mối liên hệ). **Phụ lục II:** Đề cương báo cáo của DN (thông tin chung; hồ sơ tài liệu từ pháp lý dự án → GP → PANM/hộ chiếu → kho → kiểm định → báo cáo; khó khăn kiến nghị).
-Nơi nhận: Giám đốc Sở (để báo cáo và phê duyệt); Văn phòng Sở (kinh phí, phương tiện); Thành viên Đoàn; Các đơn vị được kiểm tra; Lưu: VT, CN(M.Cường).
+Nơi nhận: Giám đốc Sở (để báo cáo và phê duyệt); Văn phòng Sở (kinh phí, phương tiện); Thành viên Đoàn; Các đơn vị được kiểm tra; Lưu: VT, CN(Khôi).

@@ -1,6 +1,6 @@
 # Mẫu 13 — CÔNG VĂN đôn đốc thực hiện quy định về VLNCN / nộp báo cáo định kỳ
 
-> Khung docx thật: `vi-du-thuc-te/CV-don-doc-bao-quan-su-dung-VLNCN.docx`. Số:      /SCT-CN; Kính gửi: Các tổ chức, doanh nghiệp hoạt động VLNCN trên địa bàn tỉnh. Lưu: VT, CN(Linh) 【văn bản thật 2026 dùng CN(M.Cường) — chọn theo người trực tiếp tham mưu】.
+> Khung docx thật: `vi-du-thuc-te/CV-don-doc-bao-quan-su-dung-VLNCN.docx`. Số:      /SCT-CN; Kính gửi: Các tổ chức, doanh nghiệp hoạt động VLNCN trên địa bàn tỉnh. Lưu: VT, CN(Linh) 【văn bản thật 2026 dùng CN(M.Cường) (lịch sử, trước 10/7/2026 — mẫu mới dùng CN(Khôi)) — chọn theo người trực tiếp tham mưu】.
 
 **V/v 【tăng cường công tác quản lý, bảo quản, sử dụng VLNCN / báo cáo định kỳ về VLNCN, tiền chất thuốc nổ】**
 

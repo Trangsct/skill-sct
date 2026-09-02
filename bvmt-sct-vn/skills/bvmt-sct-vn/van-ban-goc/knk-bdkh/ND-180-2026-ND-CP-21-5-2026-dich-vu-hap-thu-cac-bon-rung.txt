@@ -1,0 +1,1279 @@
+| CHÍNH PHỦ ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: 180/2026/NĐ-CP | *Hà Nội, ngày 21 tháng 5 năm 2026* |
+NGHỊ ĐỊNH
+QUY ĐỊNH VỀ DỊCH VỤ HẤP THỤ VÀ LƯU GIỮ CÁC-BON CỦA RỪNG
+*Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;*
+*Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;*
+*Căn cứ Luật Lâm nghiệp số 16/2017/QH14 được sửa đổi, bổ sung bởi Luật số 16/2023/QH15, Luật số 31/2024/QH15 và Luật số 146/2025/QH15;*
+*Căn cứ Luật Bảo vệ môi trường số 72/2020/QH14 được sửa đổi, bổ sung bởi Luật số 11/2022/QH15, Luật số 16/2023/QH15, Luật số 18/2023/QH15, Luật số 47/2024/QH15, Luật số 54/2024/QH15 và Luật số 146/2025/QH15;*
+*Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường;*
+*Chính phủ ban hành Nghị định quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng.*
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Phạm vi điều chỉnh
+Nghị định này quy định về đối tượng, hình thức chi trả, mức chi trả và quản lý, sử dụng tiền dịch vụ hấp thụ và lưu giữ các-bon của rừng; dự án các-bon rừng, xác định kết quả giảm phát thải khí nhà kính và tín chỉ các-bon rừng được cung ứng.
+2. Đối tượng áp dụng
+Nghị định này áp dụng đối với cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư có hoạt động liên quan đến nội dung quy định tại khoản 1 Điều này.
+Điều 2. Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ sau đây được hiểu như sau:
+1. Hấp thụ và lưu giữ các-bon của rừng là việc hấp thụ khí carbon dioxide (CO2) từ bầu khí quyển thông qua quá trình quang hợp của cây rừng và được lưu giữ trong rừng.
+2. Kết quả giảm phát thải khí nhà kính của rừng là lượng giảm phát thải khí nhà kính và lượng tăng hấp thụ các-bon của rừng tại thời điểm xác định so với thời điểm tham chiếu theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế (sau đây gọi là kết quả giảm phát thải), được tính bằng tấn CO2 hoặc tấn CO2 tương đương.
+3. Tín chỉ các-bon rừng là tín chỉ các-bon được cấp theo tiêu chuẩn các- bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế.
+4. Dịch vụ hấp thụ và lưu giữ các-bon của rừng là hoạt động cung ứng kết quả giảm phát thải khí nhà kính, tín chỉ các-bon rừng.
+5. Dự án các-bon rừng là dự án tạo ra kết quả giảm phát thải, tín chỉ các-bon rừng từ hoạt động hạn chế mất rừng và suy thoái rừng; bảo tồn, nâng cao trữ lượng các-bon và quản lý bền vững tài nguyên rừng (REDD+); trồng rừng, xúc tiến tái sinh tự nhiên; làm giàu rừng, nuôi dưỡng rừng tự nhiên; nâng cao năng suất, kéo dài chu kỳ kinh doanh rừng trồng; canh tác lâm nông kết hợp và trồng cây phân tán.
+6. Tiêu chuẩn các-bon rừng trong nước là tiêu chuẩn các-bon rừng quốc gia hoặc phương pháp tạo tín chỉ các-bon rừng theo quy định của Chính phủ về giảm phát thải khí nhà kính và bảo vệ tầng ô-dôn.
+7. Tiêu chuẩn các-bon rừng quốc gia là quy định về nguyên tắc, yêu cầu và phương pháp tạo tín chỉ các-bon từ hoạt động giảm phát thải khí nhà kính và tăng hấp thụ các-bon của rừng, được cơ quan có thẩm quyền công bố theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.
+8. Tiêu chuẩn các-bon rừng quốc tế là tiêu chuẩn các-bon rừng quốc tế độc lập hoặc tiêu chuẩn các-bon, phương pháp tạo tín chỉ các-bon theo Thỏa thuận Điều 6.2 và Cơ chế Điều 6.4 Thỏa thuận Paris theo quy định của Chính phủ về trao đổi quốc tế kết quả giảm phát thải, tín chỉ các-bon.
+9. Thỏa thuận hoặc hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng (sau đây gọi tắt là hợp đồng) là văn bản được ký giữa bên cung ứng dịch vụ hoặc đại diện chủ sở hữu kết quả giảm phát thải, tín chỉ các-bon rừng với bên sử dụng dịch vụ hấp thụ và lưu giữ các-bon của rừng.
+Điều 3. Nguyên tắc cung ứng và sử dụng dịch vụ hấp thụ và lưu giữ các-bon của rừng
+1. Hoạt động cung ứng và sử dụng dịch vụ hấp thụ và lưu giữ các-bon của rừng đảm bảo công khai, minh bạch, trách nhiệm giải trình; hài hòa lợi ích giữa Nhà nước, chủ rừng và các bên liên quan; đảm bảo quốc phòng, an ninh, bảo vệ môi trường sinh thái.
+2. Việc cung ứng và sử dụng dịch vụ hấp thụ và lưu giữ các-bon của rừng không được ảnh hưởng đến việc thực hiện cam kết quốc tế về giảm phát thải khí nhà kính mà Việt Nam tham gia.
+3. Kết quả giảm phát thải, tín chỉ các-bon rừng đã được trao đổi, chuyển nhượng theo hợp đồng hoặc trên sàn giao dịch các-bon thì bên cung ứng hoặc đại diện chủ sở hữu kết quả giảm phát thải, tín chỉ các-bon rừng không được trao đổi, chuyển nhượng cho các bên sử dụng khác.
+4. Đối với rừng thuộc sở hữu toàn dân, Bộ Nông nghiệp và Môi trường là đại diện chủ sở hữu kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do cơ quan chuyên môn thuộc Bộ thực hiện; Ủy ban nhân dân cấp tỉnh là đại diện chủ sở hữu kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (cơ quan chuyên môn cấp tỉnh) thực hiện; chủ rừng được sở hữu kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do chủ rừng thực hiện.
+5. Nguồn tiền thu được từ trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng của chủ rừng là tổ chức đối với rừng thuộc sở hữu toàn dân được ưu tiên hỗ trợ bảo vệ, phát triển rừng và sinh kế cho cộng đồng dân cư, xây dựng dự án các-bon rừng, đo đạc, báo cáo, thẩm định và xây dựng cơ sở dữ liệu về lâm nghiệp trên địa bàn tỉnh.
+6. Việc trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng ra thị trường quốc tế thực hiện theo quy định của Chính phủ về trao đổi quốc tế kết quả giảm phát thải, tín chỉ các-bon.
+7. Chủ rừng được hợp tác, liên kết với tổ chức, cá nhân để thực hiện dự án các-bon rừng; xây dựng, đo đạc, báo cáo, thẩm định, cấp tín chỉ các-bon rừng và chia sẻ kết quả giảm phát thải, tín chỉ các-bon rừng theo quy định của pháp luật.
+Điều 4. Bên cung ứng dịch vụ và bên sử dụng dịch vụ
+1. Bên cung ứng dịch vụ, gồm:
+a) Chủ rừng quy định tại Điều 8 Luật Lâm nghiệp;
+b) Ủy ban nhân dân cấp xã và các tổ chức khác không quy định tại điểm a khoản này được Nhà nước giao trách nhiệm quản lý rừng theo Luật Lâm nghiệp.
+2. Bên sử dụng dịch vụ, gồm:
+a) Cơ sở phát thải khí nhà kính được phân bổ hạn ngạch phát thải khí nhà kính theo quy định tại khoản 1 Điều 5 Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn có nhu cầu tự nguyện sử dụng dịch vụ để bù trừ hạn ngạch phát thải vượt mức;
+b) Tổ chức, cá nhân không thuộc quy định tại điểm a khoản này có nhu cầu sử dụng kết quả giảm phát thải, tín chỉ các-bon rừng;
+c) Tổ chức, cá nhân nước ngoài hoạt động hợp pháp theo quy định của pháp luật về đầu tư, doanh nghiệp và pháp luật khác có liên quan tại Việt Nam; tổ chức được thành lập theo pháp luật nước ngoài; cá nhân mang giấy tờ xác định quốc tịch nước ngoài.
+Điều 5. Yêu cầu đối với việc cung ứng và sử dụng dịch vụ hấp thụ và lưu giữ các-bon của rừng
+1. Bên cung ứng dịch vụ hoặc đại diện chủ sở hữu đáp ứng các yêu cầu sau:
+a) Xây dựng, đăng ký dự án các-bon rừng; tổ chức đo đạc, báo cáo, thẩm định kết quả giảm phát thải; được cấp tín chỉ các-bon rừng theo quy định tại Nghị định này;
+b) Thực hiện nghĩa vụ đóng góp kết quả giảm phát thải và các nghĩa vụ tài chính về thuế, phí, lệ phí (nếu có) theo quy định của pháp luật;
+c) Việc cung ứng dịch vụ được thực hiện thông qua trao đổi, chuyển nhượng theo hợp đồng hoặc trên sàn giao dịch các-bon;
+d) Chỉ được trao đổi, chuyển nhượng lượng kết quả giảm phát thải, tín chỉ các-bon rừng sau khi được Bộ Nông nghiệp và Môi trường xác nhận theo quy định tại khoản 3 Điều 10 Nghị định này.
+2. Bên sử dụng dịch vụ đáp ứng các yêu cầu sau:
+a) Hoạt động hợp pháp theo quy định của pháp luật về đầu tư, doanh nghiệp và pháp luật khác có liên quan của Việt Nam;
+b) Thực hiện đúng nội dung theo hợp đồng quy định tại khoản 1 Điều 13 Nghị định này hoặc tuân thủ quy định của Chính phủ về sàn giao dịch các-bon trong nước và các sàn giao dịch các-bon khác;
+c) Thực hiện đầy đủ nghĩa vụ tài chính về thuế, phí, lệ phí (nếu có) theo quy định của pháp luật.
+Điều 6. Hình thức chi trả
+1. Chi trả trực tiếp
+Bên sử dụng dịch vụ trả tiền trực tiếp cho bên cung ứng dịch vụ theo hợp đồng hoặc trên sàn giao dịch các-bon.
+2. Chi trả gián tiếp
+Bên sử dụng dịch vụ trả tiền cho bên cung ứng dịch vụ ủy thác qua Quỹ Bảo vệ và phát triển rừng theo hợp đồng quy định tại điểm a và điểm b khoản 1 Điều 13 Nghị định này hoặc trên sàn giao dịch các-bon.
+Điều 7. Mức chi trả
+1. Mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng là số tiền được tính bằng Đồng Việt Nam trên 01 tấn CO2 hoặc 01 tấn CO2 tương đương hoặc 01 tín chỉ các-bon rừng. Bộ trưởng Bộ Nông nghiệp và Môi trường quy định phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng đối với rừng thuộc sở hữu toàn dân.
+2. Giá trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng được xác định thông qua hợp đồng hoặc trên sàn giao dịch các-bon được tính bằng Đồng Việt Nam. Trường hợp chuyển nhượng ra nước ngoài, giá trao đổi, chuyển nhượng được tính bằng ngoại tệ theo quy định của pháp luật Việt Nam về quản lý ngoại hối.
+3. Đối tượng quy định tại khoản 1 Điều 9 Nghị định này có trách nhiệm xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng theo quy định tại khoản 1 Điều này và đảm bảo giá trao đổi, chuyển nhượng lần đầu đối với từng kết quả giảm phát thải, tín chỉ các-bon rừng không thấp hơn mức chi trả được xác định.
+4. Nguyên tắc xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng đối với rừng thuộc sở hữu toàn dân
+a) Bù đắp chi phí xây dựng, đăng ký, đo đạc, báo cáo, thẩm định, cấp, xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng; hỗ trợ chi phí bảo vệ và phát triển rừng và hỗ trợ phát triển sinh kế; thực hiện nghĩa vụ tài chính theo quy định của pháp luật và các chi phí hợp pháp khác (nếu có).
+b) Phù hợp với quan hệ cung - cầu và điều kiện thị trường tại thời điểm xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng.
+c) Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, tổ chức, cá nhân cung ứng và sử dụng kết quả giảm phát thải, tín chỉ các-bon rừng.
+5. Khuyến khích tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư sở hữu rừng theo quy định tại khoản 2 Điều 7 Luật Lâm nghiệp áp dụng phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng quy định tại khoản 1 Điều này.
+Chương II
+TRIỂN KHAI DỰ ÁN CÁC-BON RỪNG, XÁC ĐỊNH KẾT QUẢ GIẢM PHÁT THẢI, TÍN CHỈ CÁC-BON RỪNG ĐƯỢC CUNG ỨNG
+Điều 8. Xây dựng dự án các-bon rừng
+1. Đối với rừng thuộc sở hữu toàn dân
+a) Chủ rừng là tổ chức tự thực hiện hoặc hợp tác, liên kết với chủ rừng khác hoặc tổ chức khác xây dựng dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế.
+b) Chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư hợp tác, liên kết với tổ chức khác xây dựng dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế.
+c) Cơ quan chuyên môn cấp tỉnh xây dựng dự án các-bon rừng đối với toàn bộ diện tích rừng thuộc phạm vi hành chính của địa phương theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế, không bao gồm diện tích rừng đã đăng ký dự án của chủ rừng và diện tích rừng do cơ quan chuyên môn thuộc Bộ đã đăng ký dự án theo quy định tại các điểm a, b và d khoản này.
+d) Cơ quan chuyên môn thuộc Bộ xây dựng dự án các-bon rừng đối với toàn bộ diện tích rừng thuộc phạm vi hành chính từ 02 tỉnh, thành phố trở lên theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế, không bao gồm diện tích rừng đã đăng ký dự án của chủ rừng và diện tích rừng do cơ quan chuyên môn cấp tỉnh đã đăng ký dự án theo quy định tại các điểm a, b và c khoản này.
+2. Đối với rừng không thuộc sở hữu toàn dân quy định tại khoản 2 Điều 7 Luật Lâm nghiệp
+a) Chủ rừng là tổ chức tự thực hiện hoặc hợp tác, liên kết hoặc ủy quyền cho tổ chức, chủ rừng khác xây dựng dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế.
+b) Chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư hợp tác, liên kết hoặc ủy quyền cho tổ chức khác xây dựng dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước hoặc tiêu chuẩn các-bon rừng quốc tế.
+3. Trường hợp chủ rừng sở hữu rừng quy định tại khoản 2 Điều 7 Luật Lâm nghiệp có diện tích nằm xen kẽ với diện tích rừng của dự án các-bon rừng được xây dựng bởi cơ quan chuyên môn cấp tỉnh hoặc cơ quan chuyên môn thuộc Bộ; cơ quan chuyên môn cấp tỉnh phối hợp với Ủy ban nhân dân cấp xã rà soát, tổng hợp danh sách chủ rừng cam kết tham gia theo Mẫu số 01 (đối với chủ rừng là hộ gia đình, cá nhân), Mẫu số 02 (đối với chủ rừng là cộng đồng dân cư), Mẫu số 03 (đối với chủ rừng là tổ chức) Phụ lục I ban hành kèm theo Nghị định này; cơ quan chuyên môn cấp tỉnh có trách nhiệm gửi danh sách chủ rừng cam kết tham gia về cơ quan chuyên môn thuộc Bộ đối với dự án các-bon rừng do cơ quan chuyên môn thuộc Bộ xây dựng.
+Điều 9. Đăng ký, điều chỉnh, hủy đăng ký dự án các-bon rừng
+1. Đối tượng đăng ký, điều chỉnh, hủy đăng ký dự án các-bon rừng là cơ quan, tổ chức đã xây dựng dự án các-bon rừng theo quy định tại khoản 1 và khoản 2 Điều 8 Nghị định này.
+2. Hồ sơ đăng ký, điều chỉnh dự án các-bon rừng đối với tiêu chuẩn các-bon rừng trong nước, gồm:
+a) Bản chính Đơn đề nghị đăng ký, điều chỉnh dự án các-bon rừng theo Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định này;
+b) Bản chính Văn kiện dự án các-bon rừng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định này.
+3. Trình tự, thủ tục đăng ký, điều chỉnh, hủy đăng ký dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước
+a) Thẩm quyền phê duyệt đăng ký, điều chỉnh, hủy đăng ký dự án các-bon rừng
+Bộ trưởng Bộ Nông nghiệp và Môi trường phê duyệt đăng ký, điều chỉnh, hủy đăng ký đối với dự án các-bon rừng có diện tích rừng thuộc phạm vi hành chính từ 02 tỉnh, thành phố trở lên.
+Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt đăng ký, điều chỉnh, hủy đăng ký đối với dự án các-bon rừng có diện tích rừng thuộc phạm vi hành chính của tỉnh, thành phố.
+b) Trình tự, thủ tục đăng ký dự án các-bon rừng
+Cơ quan, tổ chức đăng ký dự án các-bon rừng nộp 01 bộ hồ sơ theo quy định tại khoản 2 Điều này đến Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh theo cách thức trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+Bộ phận tiếp nhận hồ sơ kiểm tra tính chính xác, đầy đủ của hồ sơ, trả lời ngay tính hợp lệ của hồ sơ đối với hồ sơ nộp trực tiếp, trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia; trường hợp hồ sơ không hợp lệ thì thông báo bằng văn bản và nêu rõ lý do.
+Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn được giao tham mưu trình phê duyệt dự án thực hiện đăng tải hồ sơ đề nghị đăng ký dự án trên trang thông tin điện tử của Bộ Nông nghiệp và Môi trường hoặc trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh để lấy ý kiến rộng rãi trong thời gian 24 ngày làm việc.
+Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc lấy ý kiến rộng rãi, cơ quan chuyên môn tổng hợp ý kiến và thông báo cho cơ quan, tổ chức nộp hồ sơ bằng văn bản theo Mẫu số 03 Phụ lục II ban hành kèm theo Nghị định này.
+Trong thời hạn 90 ngày làm việc kể từ ngày nhận được thông báo từ cơ quan chuyên môn thuộc Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh, cơ quan, tổ chức hoàn thiện hồ sơ và gửi cơ quan chuyên môn kèm báo cáo thẩm định văn kiện dự án do đơn vị thẩm định được cấp giấy chứng nhận hoạt động theo quy định của pháp luật về đánh giá sự phù hợp thực hiện theo Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định này; thời gian hoàn thiện hồ sơ của cơ quan, tổ chức đăng ký dự án các-bon rừng không tính vào thời gian giải quyết thủ tục phê duyệt đăng ký dự án các-bon rừng.
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan chuyên môn gửi hồ sơ đến các cơ quan, tổ chức liên quan lấy ý kiến về việc phê duyệt đăng ký dự án. Cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 08 ngày làm việc kể từ ngày nhận được hồ sơ lấy ý kiến.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến góp ý bằng văn bản của các cơ quan, tổ chức, cơ quan chuyên môn hoàn thiện hồ sơ trình Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, phê duyệt đăng ký dự án. Hồ sơ gồm: văn kiện dự án, báo cáo thẩm định, văn bản góp ý của cơ quan, tổ chức.
+Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ từ cơ quan chuyên môn, Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt đăng ký dự án các-bon rừng theo Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định này, cấp tài khoản cho cơ quan, tổ chức và công bố trên hệ thống đăng ký quốc gia theo quy định của Chính phủ về giảm phát thải khí nhà kính và bảo vệ tầng ô-dôn; trường hợp không phê duyệt đăng ký dự án thì thông báo bằng văn bản và nêu rõ lý do.
+c) Cơ quan, tổ chức có nhu cầu điều chỉnh quy mô, hoạt động giảm nhẹ phát thải khí nhà kính của dự án các-bon rừng đã được phê duyệt đăng ký thì thực hiện theo trình tự, thủ tục đăng ký dự án quy định tại điểm b khoản này.
+d) Hủy đăng ký dự án các-bon rừng
+Cơ quan, tổ chức đã được đăng ký dự án các-bon rừng có đề nghị hủy đăng ký dự án nộp bản chính Đơn đề nghị hủy đăng ký dự án các-bon rừng theo Mẫu số 06 Phụ lục II ban hành kèm theo Nghị định này đến Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh.
+Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đơn đề nghị, Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh thực hiện hủy đăng ký dự án trên Hệ thống đăng ký quốc gia.
+Cơ quan, tổ chức đăng ký dự án các-bon rừng có trách nhiệm hoàn thành các nghĩa vụ đã cam kết và chịu trách nhiệm với các bên liên quan theo quy định của pháp luật do quyết định hủy đăng ký dự án.
+4. Hồ sơ, trình tự, thủ tục đăng ký, điều chỉnh, hủy đăng ký dự án các-bon rừng theo tiêu chuẩn các-bon rừng quốc tế thực hiện theo quy định tại Nghị định số 112/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ về trao đổi quốc tế kết quả giảm nhẹ phát thải khí nhà kính và tín chỉ các-bon.
+Điều 10. Cấp tín chỉ các-bon rừng, xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng
+1. Cấp tín chỉ các-bon rừng đối với dự án các-bon rừng theo tiêu chuẩn các-bon rừng trong nước
+a) Hồ sơ cấp tín chỉ các-bon rừng gồm:
+Bản chính Đơn đề nghị cấp tín chỉ các-bon rừng theo Mẫu số 07 Phụ lục II ban hành kèm theo Nghị định này;
+Bản chính Báo cáo kết quả giảm nhẹ dự án theo Mẫu số 08 Phụ lục II ban hành kèm theo Nghị định này;
+Bản chính Báo cáo thẩm định kết quả giảm nhẹ dự án theo Mẫu số 09 Phụ lục II ban hành kèm theo Nghị định này.
+b) Thẩm quyền cấp tín chỉ các-bon rừng
+Bộ trưởng Bộ Nông nghiệp và Môi trường cấp tín chỉ các-bon rừng đối với dự án do Bộ Nông nghiệp và Môi trường phê duyệt.
+Chủ tịch Ủy ban nhân dân cấp tỉnh cấp tín chỉ các-bon rừng đối với dự án do Ủy ban nhân dân cấp tỉnh phê duyệt.
+c) Trình tự thực hiện
+Cơ quan, tổ chức đăng ký dự án các-bon rừng nộp 01 bộ hồ sơ quy định tại điểm a khoản này đến Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh theo cách thức trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+Bộ phận tiếp nhận hồ sơ kiểm tra tính chính xác, đầy đủ của hồ sơ, trả lời ngay tính hợp lệ của hồ sơ đối với hồ sơ nộp trực tiếp, trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia, trường hợp hồ sơ không hợp lệ thì thông báo bằng văn bản và nêu rõ lý do.
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn được Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh giao có trách nhiệm trình Bộ hoặc Ủy ban nhân dân cấp tỉnh văn bản lấy ý kiến của cơ quan, tổ chức liên quan đối với hồ sơ đề nghị. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản lấy ý kiến, cơ quan, tổ chức có trách nhiệm trả lời bằng văn bản.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của các cơ quan, tổ chức liên quan, cơ quan chuyên môn hoàn thiện hồ sơ trình Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn, Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp tín chỉ các-bon rừng theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định này; gửi cơ quan, tổ chức đăng ký cấp tín chỉ các-bon rừng; trường hợp không cấp tín chỉ các-bon rừng thì thông báo bằng văn bản và nêu rõ lý do.
+2. Hồ sơ, trình tự cấp tín chỉ các-bon rừng đối với dự án theo tiêu chuẩn các-bon rừng quốc tế thực hiện theo quy định tại Nghị định số 112/2026/NĐ-CP.
+3. Xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng
+a) Hồ sơ xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng gồm:
+Bản chính Đơn đề nghị xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng theo Mẫu số 11 Phụ lục II ban hành kèm theo Nghị định này;
+Bản chính Văn kiện dự án các-bon rừng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định này hoặc tài liệu đăng ký dự án đối với dự án các-bon rừng theo tiêu chuẩn các-bon rừng quốc tế;
+Bản chính Báo cáo kết quả giảm nhẹ dự án theo Mẫu số 08 Phụ lục II ban hành kèm theo Nghị định này;
+Bản chính Báo cáo thẩm định kết quả giảm nhẹ dự án theo Mẫu số 09 Phụ lục II ban hành kèm theo Nghị định này;
+Quyết định cấp tín chỉ các-bon rừng của Bộ Nông nghiệp và Môi trường hoặc Ủy ban nhân dân cấp tỉnh theo tiêu chuẩn các-bon rừng trong nước hoặc tài liệu (văn bản, thông tin trên môi trường điện tử) về việc cấp tín chỉ các-bon rừng của Tổ chức quản lý tiêu chuẩn các-bon rừng quốc tế;
+Tài liệu liên quan khác (nếu có).
+b) Trình tự thực hiện
+Cơ quan, tổ chức đăng ký dự án các-bon rừng nộp 01 bộ hồ sơ quy định tại điểm a khoản này đến Bộ Nông nghiệp và Môi trường theo cách thức trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+Bộ phận tiếp nhận hồ sơ kiểm tra tính chính xác, đầy đủ của hồ sơ, trả lời ngay tính hợp lệ của hồ sơ đối với hồ sơ nộp trực tiếp, trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia, trường hợp hồ sơ không hợp lệ thì thông báo bằng văn bản và nêu rõ lý do.
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn hoàn thiện hồ sơ trình Bộ trưởng Bộ Nông nghiệp và Môi trường.
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn, Bộ trưởng Bộ Nông nghiệp và Môi trường xem xét, xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng theo Mẫu số 12 Phụ lục II ban hành kèm theo Nghị định này; gửi cơ quan, tổ chức đăng ký xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng; trường hợp không xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng thì thông báo bằng văn bản và nêu rõ lý do.
+4. Trường hợp trao đổi, chuyển nhượng quốc tế đối với kết quả giảm phát thải, tín chỉ các-bon rừng, việc chấp thuận chuyển giao quốc tế thực hiện theo quy định tại Nghị định số 112/2026/NĐ-CP.
+Điều 11. Phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định
+1. Trách nhiệm phân bổ
+a) Bộ Nông nghiệp và Môi trường căn cứ báo cáo cập nhật đóng góp giảm phát thải khí nhà kính do quốc gia tự quyết định và quy định tại khoản 2 và khoản 3 Điều này có trách nhiệm phân bổ, thông báo mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định lĩnh vực lâm nghiệp cho từng tỉnh, thành phố;
+b) Ủy ban nhân dân cấp tỉnh trên cơ sở thông báo của Bộ Nông nghiệp và Môi trường và quy định tại khoản 2 và khoản 3 Điều này có trách nhiệm phân bố, thông báo mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định cho các đối tượng quy định tại khoản 1 Điều 4 Nghị định này và thông báo cho Bộ Nông nghiệp và Môi trường.
+2. Tiêu chí phân bổ mục tiêu giảm phát thải khí nhà kính, gồm:
+a) Diện tích rừng;
+b) Hệ số điều chỉnh tương ứng với kết quả đóng góp giảm phát thải theo nguồn gốc hình thành rừng và trạng thái rừng;
+c) Hệ số điều chỉnh theo tỷ lệ biến động rừng tự nhiên tham chiếu.
+3. Phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định thực hiện theo quy định tại Phụ lục III ban hành kèm theo Nghị định này.
+Điều 12. Kinh phí thực hiện dự án các-bon rừng
+Kinh phí xây dựng, thực hiện dự án các-bon rừng được bố trí từ nguồn ngân sách nhà nước; kinh phí quản lý tiền dịch vụ môi trường rừng; số tiền kết dư của các nguồn dịch vụ môi trường rừng chưa sử dụng đến ngày Nghị định này có hiệu lực thi hành; huy động nguồn hỗ trợ từ quốc tế, tổ chức, cá nhân tham gia hợp tác, liên kết và các nguồn kinh phí hợp pháp khác để thực hiện các hoạt động gồm: xây dựng, đăng ký dự án; đo đạc, báo cáo, thẩm định kết quả giảm phát thải; cấp tín chỉ các-bon rừng; xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng.
+Chương III
+QUẢN LÝ SỬ DỤNG NGUỒN THU TỪ DỊCH VỤ HẤP THỤ VÀ LƯU GIỮ CÁC-BON CỦA RỪNG
+Điều 13. Hình thức trao đổi, chuyển nhượng
+1. Trao đổi, chuyển nhượng theo hợp đồng
+a) Bộ Nông nghiệp và Môi trường ký hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do cơ quan chuyên môn thuộc Bộ thực hiện;
+b) Ủy ban nhân dân cấp tỉnh ký hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do cơ quan chuyên môn cấp tỉnh thực hiện;
+c) Chủ rừng hoặc tổ chức được ủy quyền ký hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng tạo ra từ dự án các-bon rừng do chủ rừng hoặc tổ chức khác được ủy quyền thực hiện;
+d) Hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng ra nước ngoài gồm các nội dung chính sau: Đối tượng của hợp đồng; giá trao đổi, chuyển nhượng; số lượng; thời gian chuyển nhượng; thời hạn thanh toán; quyền và nghĩa vụ của các bên; chấm dứt hợp đồng, vi phạm hợp đồng, xử lý rủi ro và giải quyết tranh chấp;
+đ) Hợp đồng trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng trong nước thực hiện theo quy định tại Phụ lục IV ban hành kèm theo Nghị định này.
+2. Trao đổi, chuyển nhượng tín chỉ các-bon rừng trên sàn giao dịch các-bon
+Việc trao đổi, chuyển nhượng tín chỉ các-bon rừng trên sàn giao dịch các-bon thực hiện theo quy định tại Nghị định số 29/2026/NĐ-CP ngày 19 tháng 01 năm 2026 của Chính phủ về sàn giao dịch các-bon trong nước và quy định của các sàn giao dịch các-bon khác.
+Điều 14. Quản lý sử dụng nguồn thu từ dịch vụ theo hình thức chi trả trực tiếp
+1. Bên cung ứng dịch vụ có quyền quyết định việc sử dụng số tiền thu được từ trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng sau khi thực hiện nghĩa vụ tài chính về thuế, phí, lệ phí (nếu có) theo quy định của pháp luật.
+2. Đối với bên cung ứng dịch vụ là tổ chức, số tiền thu được sau khi trừ đi các chi phí để xây dựng, thực hiện dự án các-bon rừng, trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng và chi trả cho bên nhận khoán bảo vệ rừng (nếu có), hỗ trợ cộng đồng dân cư thuộc vùng đệm của khu rừng đặc dụng, cộng đồng dân cư cư trú hợp pháp trong khu vực tiếp giáp với khu rừng phòng hộ; số tiền còn lại là nguồn thu của tổ chức được quản lý, sử dụng theo quy định của pháp luật về tài chính phù hợp với loại hình tổ chức đó.
+Điều 15. Quản lý, sử dụng nguồn thu từ dịch vụ được ủy thác qua Quỹ Bảo vệ và phát triển rừng
+1. Tiếp nhận tiền thu được từ dịch vụ hấp thụ và lưu giữ các-bon của rừng
+a) Quỹ Bảo vệ và phát triển rừng Việt Nam mở tài khoản tại ngân hàng thương mại để tiếp nhận nguồn tiền và thực hiện điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh hoặc đơn vị thực hiện nhiệm vụ của Quỹ Bảo vệ và phát triển rừng cấp tỉnh (sau đây gọi là Quỹ Bảo vệ và phát triển rừng cấp tỉnh) để thực hiện chi trả cho các đối tượng hưởng lợi đối với hợp đồng do Bộ Nông nghiệp và Môi trường ký;
+b) Quỹ Bảo vệ và phát triển rừng cấp tỉnh mở tài khoản tại ngân hàng thương mại để tiếp nhận nguồn tiền và thực hiện chi trả cho các đối tượng hưởng lợi đối với hợp đồng do Ủy ban nhân dân cấp tỉnh ký và nguồn kinh phí do Quỹ Bảo vệ và phát triển rừng Việt Nam điều phối.
+2. Xác định số tiền điều phối và chi trả
+a) Quỹ Bảo vệ và phát triển rừng Việt Nam xác định số tiền điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh căn cứ vào lượng kết quả giảm phát thải hoặc tín chỉ các-bon rừng và diện tích rừng cung ứng của từng tỉnh thực hiện theo quy định tại Phụ lục V ban hành kèm theo Nghị định này;
+b) Quỹ Bảo vệ và phát triển rừng cấp tỉnh xác định số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng căn cứ vào diện tích rừng cung ứng, thực hiện theo quy định tại Phụ lục V ban hành kèm theo Nghị định này.
+3. Sử dụng nguồn thu tại Quỹ Bảo vệ và phát triển rừng Việt Nam
+a) Kinh phí quản lý thực hiện theo quy định tại các điểm a, b và c khoản 1 Điều 70 Nghị định số 156/2018/NĐ-CP ngày 16 tháng 11 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lâm nghiệp được sửa đổi, bổ sung tại điểm a khoản 30 Điều 1 Nghị định số 91/2024/NĐ-CP ngày 18 tháng 7 năm 2024 của Chính phủ;
+b) Ngoài các chi phí theo quy định tại điểm a khoản này, được trích tối đa 3% tổng số tiền thực thu để hỗ trợ cho các hoạt động mà Nhà nước không bố trí hoặc bố trí không đầy đủ, bao gồm: Các hoạt động xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng; xây dựng hồ sơ dự án các-bon rừng; đăng ký, đo đạc, báo cáo, thẩm định kết quả giảm phát thải khí nhà kính, cấp tín chỉ các-bon rừng; điều tra, kiểm kê, theo dõi diễn biến rừng, trữ lượng các-bon rừng; tăng cường thực thi pháp luật về lâm nghiệp; giải quyết khiếu nại; xây dựng cơ sở dữ liệu về lâm nghiệp; các loại thuế, phí, lệ phí (nếu có) và chi khác có liên quan. Mức trích và nội dung chi cụ thể do Bộ trưởng Bộ Nông nghiệp và Môi trường quyết định;
+c) Quỹ Bảo vệ và phát triển rừng Việt Nam điều phối số tiền còn lại cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh sau khi trừ các chi phí tại điểm a và điểm b khoản này.
+4. Sử dụng nguồn thu tại Quỹ Bảo vệ và phát triển rừng cấp tỉnh
+a) Kinh phí quản lý thực hiện theo quy định tại các điểm a, b và c khoản 2 Điều 70 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại điểm b khoản 30 Điều 1 Nghị định số 91/2024/NĐ-CP và hỗ trợ cho các hoạt động mà Nhà nước không bố trí hoặc bố trí không đầy đủ, bao gồm: Các hoạt động xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng; xây dựng hồ sơ dự án các-bon rừng, đăng ký, đo đạc, báo cáo, thẩm định kết quả giảm phát thải, cấp tín chỉ các-bon rừng; điều tra, kiểm kê, theo dõi diễn biến rừng, trữ lượng các-bon rừng; thiết bị, vật tư phục vụ công tác bảo vệ, phát triển rừng và phòng cháy chữa cháy rừng; xây dựng cơ sở dữ liệu về lâm nghiệp trên địa bàn tỉnh; các loại thuế, phí, lệ phí (nếu có); giải quyết khiếu nại; xây dựng tài liệu hướng dẫn thực hiện; tăng cường thực thi pháp luật về lâm nghiệp và chi khác theo quy định. Mức trích và nội dung chi cụ thể do Ủy ban nhân dân cấp tỉnh quyết định;
+b) Quỹ Bảo vệ và phát triển rừng cấp tỉnh chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và các tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng sau khi trừ các chi phí tại điểm a khoản này;
+c) Đối với số tiền thu được từ bên sử dụng dịch vụ nhưng không xác định hoặc chưa xác định được đối tượng nhận tiền, Quỹ Bảo vệ và phát triển rừng cấp tỉnh thực hiện theo quy định tại điểm e khoản 2 Điều 70 Nghị định số 156/2018/NĐ-CP.
+5. Sử dụng nguồn thu tại chủ rừng là doanh nghiệp
+Số tiền thu được là nguồn thu của doanh nghiệp, được quản lý, sử dụng theo quy định pháp luật về tài chính đối với doanh nghiệp.
+6. Sử dụng nguồn thu tại chủ rừng là tổ chức khác
+a) Chủ rừng là tổ chức khác không khoán bảo vệ rừng hoặc có khoán một phần diện tích, toàn bộ số tiền nhận được tương ứng với diện tích rừng tự bảo vệ được sử dụng cho các hoạt động phục vụ công tác quản lý, bảo vệ và phát triển rừng của chủ rừng, trong đó ưu tiên hỗ trợ cộng đồng dân cư thuộc vùng đệm của khu rừng đặc dụng, cộng đồng dân cư cư trú hợp pháp trong khu vực tiếp giáp với khu rừng phòng hộ; mức hỗ trợ, nội dung, điều kiện và trình tự hỗ trợ thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều 8 Nghị định số 58/2024/NĐ-CP ngày 24 tháng 5 năm 2024 của Chính phủ về một số chính sách đầu tư trong lâm nghiệp được sửa đổi, bổ sung tại Điều 38 Nghị định số 42/2026/NĐ-CP ngày 26 tháng 01 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực lâm nghiệp và kiểm lâm.
+Số tiền còn lại thực hiện theo quy định tại điểm c khoản 3 Điều 70 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại điểm c khoản 30 Điều 1 Nghị định số 91/2024/NĐ-CP. Ngoài ra, các chủ rừng được sử dụng kinh phí chi cho các hoạt động mà Nhà nước không bố trí hoặc bố trí không đầy đủ, bao gồm: Hỗ trợ chuyển đổi mô hình sản xuất nông nghiệp theo hướng lâm, nông, ngư nghiệp kết hợp trên đất quy hoạch sản xuất lâm nghiệp; xây dựng, thực hiện dự án các-bon rừng; các hoạt động liên quan đến giao đất, giao rừng, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; bảo tồn đa dạng sinh học; khuyến nông, khuyến lâm; thúc đẩy tiêu thụ sản phẩm; tham quan, học hỏi kinh nghiệm; xây dựng các quy ước, quy chế, cam kết thực thi pháp luật về lâm nghiệp;
+b) Chủ rừng là tổ chức khác có khoán bảo vệ rừng, thực hiện theo quy định tại điểm d khoản 3 Điều 70 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại điểm c khoản 30 Điều 1 Nghị định số 91/2024/NĐ-CP. Ngoài ra, chủ rừng được sử dụng kinh phí quản lý để chi cho các hoạt động mà Nhà nước không bố trí hoặc bố trí không đủ, bao gồm: Xây dựng, thực hiện dự án các-bon rừng; tham quan, học hỏi kinh nghiệm; xây dựng các quy chế, cam kết thực thi pháp luật về lâm nghiệp.
+7. Chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư được sử dụng toàn bộ số tiền thu được để quản lý, bảo vệ, phát triển rừng và nâng cao đời sống.
+8. Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng theo quy định của pháp luật sử dụng tiền thu được theo quy định tại khoản 4 Điều 70 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại Điều 28 Nghị định số 42/2026/NĐ-CP.
+9. Nghĩa vụ thuế phát sinh từ việc chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng theo quy định tại Nghị định này thực hiện theo quy định pháp luật về thuế có liên quan.
+Điều 16. Lập, phê duyệt kế hoạch tài chính, giải ngân, thanh toán, quyết toán, chế độ báo cáo
+1. Lập kế hoạch tài chính đối với nguồn thu từ dịch vụ hấp thụ và lưu giữ các-bon của rừng
+a) Trước ngày 31 tháng 10 hằng năm, căn cứ theo hợp đồng do Bộ Nông nghiệp và Môi trường ký, Quỹ Bảo vệ và phát triển rừng Việt Nam lập kế hoạch tài chính năm sau liền kề theo Mẫu số 01 Phụ lục VI ban hành kèm theo Nghị định này, báo cáo Hội đồng quản lý Quỹ Bảo vệ và phát triển rừng Việt Nam thông qua, trình Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc thủ trưởng cơ quan chuyên môn thuộc Bộ được giao phê duyệt theo Mẫu số 03 Phụ lục VI ban hành kèm theo Nghị định này;
+b) Căn cứ thông báo số tiền điều phối của Quỹ Bảo vệ và phát triển rừng Việt Nam và hợp đồng do Ủy ban nhân dân cấp tỉnh ký, Quỹ Bảo vệ và phát triển rừng cấp tỉnh lập kế hoạch tài chính theo Mẫu số 02 Phụ lục VI ban hành kèm theo Nghị định này, báo cáo Hội đồng quản lý Quỹ Bảo vệ và phát triển rừng cấp tỉnh thông qua, trình Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc thủ trưởng cơ quan chuyên môn cấp tỉnh được giao phê duyệt theo Mẫu số 03 Phụ lục VI ban hành kèm theo Nghị định này.
+2. Thẩm quyền phê duyệt
+a) Bộ trưởng Bộ Nông nghiệp và Môi trường hoặc thủ trưởng cơ quan chuyên môn thuộc Bộ được giao phê duyệt kế hoạch tài chính đối với Quỹ Bảo vệ và phát triển rừng Việt Nam.
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc thủ trưởng cơ quan chuyên môn cấp tỉnh được giao phê duyệt kế hoạch tài chính đối với Quỹ Bảo vệ và phát triển rừng cấp tỉnh.
+3. Giải ngân và thanh toán
+a) Quỹ Bảo vệ và phát triển rừng Việt Nam
+Trước ngày 31 tháng 12 hằng năm, căn cứ số tiền thực thu trong năm tài chính, lãi tiền gửi (nếu có), diện tích rừng cung ứng dịch vụ và thông báo kết quả giảm phát thải hoặc tín chỉ các-bon rừng của Bộ Nông nghiệp và Môi trường, Giám đốc Quỹ Bảo vệ và phát triển rừng Việt Nam xác định số tiền và thực hiện điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh.
+b) Quỹ Bảo vệ và phát triển rừng cấp tỉnh
+Trước ngày 31 tháng 12 hằng năm, căn cứ số tiền thực thu trong năm tài chính, lãi tiền gửi (nếu có), diện tích rừng cung ứng dịch vụ, Giám đốc Quỹ Bảo vệ và phát triển rừng cấp tỉnh xác định số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng.
+Trước ngày 31 tháng 3 năm sau liền kề, Quỹ Bảo vệ và phát triển rừng cấp tỉnh thực hiện chi trả tiền cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng.
+c) Chủ rừng là tổ chức có khoán bảo vệ rừng
+Trước ngày 01 tháng 6 hằng năm, căn cứ số tiền thực nhận từ Quỹ Bảo vệ và phát triển rừng cấp tỉnh, chủ rừng là tổ chức có khoán bảo vệ rừng xác định số tiền chi trả cho bên nhận khoán bảo vệ rừng và thực hiện chi trả cho bên nhận khoán bảo vệ rừng theo hợp đồng khoán giữa hai bên.
+d) Hình thức thanh toán: Thực hiện qua tài khoản ngân hàng, chuyển tiền qua doanh nghiệp cung ứng dịch vụ bưu chính hoặc theo các phương thức thanh toán không dùng tiền mặt khác theo quy định của pháp luật.
+4. Quyết toán tiền dịch vụ hấp thụ và lưu giữ các-bon của rừng theo quy định tại khoản 4 Điều 71 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại khoản 31 Điều 1 Nghị định số 91/2024/NĐ-CP và Điều 29, khoản 1 Điều 34 Nghị định số 42/2026/NĐ-CP.
+5. Chế độ báo cáo về quản lý sử dụng nguồn thu dịch vụ hấp thụ và lưu giữ các-bon của rừng
+a) Hằng năm, Quỹ Bảo vệ và phát triển rừng Việt Nam gửi báo cáo định kỳ 6 tháng trước ngày 30 tháng 6 và báo cáo năm trước ngày 20 tháng 12 về kết quả thực hiện dịch vụ cho cơ quan quản lý trực tiếp để tổng hợp, báo cáo Bộ Nông nghiệp và Môi trường theo Mẫu số 04 Phụ lục VI ban hành kèm theo Nghị định này; thông báo tình hình chi trả tiền dịch vụ cho bên sử dụng dịch vụ trước ngày 31 tháng 12 hằng năm theo Mẫu số 05 Phụ lục VI ban hành kèm theo Nghị định này;
+b) Hằng năm, Quỹ Bảo vệ và phát triển rừng cấp tỉnh gửi báo cáo định kỳ 6 tháng trước ngày 15 tháng 6 và báo cáo năm trước ngày 10 tháng 12 về kết quả thực hiện dịch vụ tại địa phương cho cơ quan quản lý trực tiếp và Quỹ Bảo vệ và phát triển rừng Việt Nam theo Mẫu số 04 Phụ lục VI ban hành kèm theo Nghị định này; thông báo tình hình chi trả tiền dịch vụ cho các bên sử dụng dịch vụ trước ngày 31 tháng 12 hằng năm theo Mẫu số 05 Phụ lục VI ban hành kèm theo Nghị định này;
+c) Trước ngày 30 tháng 11 hằng năm, chủ rừng là tổ chức báo cáo cơ quan quản lý trực tiếp, gửi báo cáo đến Quỹ Bảo vệ và phát triển rừng cấp tỉnh về kết quả thực hiện dịch vụ để tổng hợp theo Mẫu số 04 Phụ lục VI ban hành kèm theo Nghị định này và thông báo tình hình chi trả tiền dịch vụ cho bên sử dụng dịch vụ trong trường hợp chi trả trực tiếp theo Mẫu số 05 Phụ lục VI ban hành kèm theo Nghị định này;
+d) Trước ngày 15 tháng 11 hằng năm, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng gửi báo cáo về Quỹ Bảo vệ và phát triển rừng cấp tỉnh về kết quả thực hiện dịch vụ để tổng hợp theo Mẫu số 04 Phụ lục VI ban hành kèm theo Nghị định này.
+6. Kiểm toán độc lập
+a) Hằng năm, Quỹ Bảo vệ và phát triển rừng các cấp có trách nhiệm lựa chọn đơn vị kiểm toán độc lập thực hiện kiểm toán hoạt động đối với nguồn thu từ dịch vụ theo quy định của pháp luật;
+b) Nguồn kinh phí thực hiện kiểm toán từ nguồn kinh phí quản lý tại Quỹ Bảo vệ và phát triển rừng các cấp theo quy định tại điểm a khoản 3 Điều 15 (đối với Quỹ Bảo vệ và phát triển rừng Việt Nam) và điểm a khoản 4 Điều 15 (đối với Quỹ Bảo vệ và phát triển rừng cấp tỉnh) Nghị định này.
+Điều 17. Kiểm tra, giám sát, công khai tài chính
+Thực hiện kiểm tra, giám sát, công khai tài chính theo quy định tại Điều 72 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại Nghị định số 42/2026/NĐ-CP.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 18. Trách nhiệm thi hành
+1. Bộ Nông nghiệp và Môi trường
+a) Tổ chức thực hiện, hướng dẫn, kiểm tra, xử lý các vấn đề phát sinh theo thẩm quyền;
+b) Xây dựng tiêu chuẩn các-bon rừng quốc gia; thiết lập hệ thống đo đạc, báo cáo, thẩm định kết quả giảm phát thải, xác nhận kết quả giảm phát thải, tín chỉ các-bon rừng được cung ứng;
+c) Đàm phán, ký kết hợp đồng và tổ chức trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng trên sàn giao dịch các-bon theo quy định tại Nghị định này; phối hợp với bên sử dụng dịch vụ xử lý các vấn đề phát sinh theo thẩm quyền hoặc trình cấp có thẩm quyền xem xét, xử lý phù hợp với pháp luật Việt Nam và thông lệ, cam kết quốc tế;
+d) Quản lý và đảm bảo việc thực hiện đóng góp giảm phát thải do quốc gia tự quyết định lĩnh vực lâm nghiệp và sử dụng đất trên phạm vi toàn quốc;
+đ) Xây dựng, quản lý và vận hành cơ sở dữ liệu về dịch vụ hấp thụ và lưu giữ các-bon của rừng, tổng hợp, báo cáo tình hình thực hiện dịch vụ hấp thụ và lưu giữ các-bon của rừng theo quy định.
+2. Bộ Quốc phòng, Bộ Công an phối hợp với Bộ Nông nghiệp và Môi trường trong việc quản lý, hướng dẫn, phê duyệt, giám sát việc thực hiện dịch vụ hấp thụ và lưu giữ các-bon của rừng tại các vùng, khu chiến lược, trọng điểm liên quan đến quốc phòng, an ninh, bí mật nhà nước, bí mật quân sự.
+3. Các bộ, ngành liên quan theo chức năng, nhiệm vụ được giao có trách nhiệm phối hợp với Bộ Nông nghiệp và Môi trường tổ chức thực hiện Nghị định này.
+4. Ủy ban nhân dân cấp tỉnh
+a) Tổ chức thực hiện, đôn đốc, kiểm tra, xử lý các vấn đề phát sinh tại địa phương theo thẩm quyền;
+b) Đàm phán, ký kết hợp đồng và tổ chức trao đổi, chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng trên sàn giao dịch các-bon theo quy định tại Nghị định này; phối hợp với bên sử dụng dịch vụ xử lý các vấn đề phát sinh theo thẩm quyền hoặc trình cấp có thẩm quyền xem xét, xử lý phù hợp với pháp luật Việt Nam và thông lệ quốc tế;
+c) Quản lý và đảm bảo việc thực hiện đóng góp giảm phát thải do quốc gia tự quyết định lĩnh vực lâm nghiệp tại địa phương; phê duyệt, kiểm tra, giám sát các dự án các-bon rừng do các chủ rừng hoặc tổ chức khác có trách nhiệm tổ chức triển khai dự án tại địa phương;
+d) Trước ngày 15 tháng 12 hằng năm, báo cáo Bộ Nông nghiệp và Môi trường về tình hình thực hiện dịch vụ hấp thụ và lưu giữ các-bon của rừng tại địa phương.
+5. Ủy ban nhân dân cấp xã
+a) Tham gia kiểm tra, giám sát các dự án các-bon rừng do các chủ rừng hoặc tổ chức khác thực hiện triển khai dự án trên địa bàn cấp xã;
+b) Tham gia xử lý các vấn đề phát sinh hoặc báo cáo cấp có thẩm quyền xử lý các vấn đề phát sinh trong quá trình triển khai dự án các-bon rừng trên địa bàn cấp xã.
+Điều 19. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 7 năm 2026.
+2. Trường hợp văn bản quy phạm pháp luật viện dẫn tại Nghị định này được sửa đổi, bổ sung hoặc thay thế bởi văn bản khác thì áp dụng văn bản sửa đổi, bổ sung hoặc thay thế.
+Điều 20. Điều khoản chuyển tiếp
+1. Đối với nguồn kinh phí còn lại trong quá trình thực hiện Nghị định số 107/2022/NĐ-CP ngày 28 tháng 12 năm 2022 của Chính phủ về thí điểm chuyển nhượng kết quả giảm phát thải và quản lý tài chính thỏa thuận chi trả giảm phát thải khí nhà kính vùng Bắc Trung Bộ và Nghị quyết số 261/NQ-CP ngày 29 tháng 8 năm 2025 của Chính phủ về việc chuyển nhượng lượng giảm phát thải khí nhà kính còn dư vùng Bắc Trung Bộ giai đoạn 2018-2019, được tiếp tục quản lý, sử dụng theo quy định tại Nghị định này kể từ ngày 01 tháng 01 năm 2027.
+Đối với nguồn kinh phí đã chi trả cho Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng trước ngày 01 tháng 01 năm 2027, lập kế hoạch tài chính theo quy định tại điểm d và điểm đ khoản 3 Điều 9 và quyết toán theo quy định tại điểm d khoản 1, điểm d khoản 2 Điều 12 Nghị định số 107/2022/NĐ-CP trình Hội đồng nhân dân cấp xã phê duyệt.
+2. Đối với hợp đồng chuyển nhượng kết quả giảm phát thải, tín chỉ các-bon rừng đã ký trước ngày Nghị định này có hiệu lực thi hành thì thực hiện theo hợp đồng đã ký.
+| *Nơi nhận:* - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các tổ chức chính trị - xã hội; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, NN(2). | TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG     Hồ Quốc Dũng |
+| --- | --- |
+PHỤ LỤC I
+MẪU BẢN CAM KẾT TỰ NGUYỆN THAM GIA DỰ ÁN CÁC-BON RỪNG
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+| Mẫu số 01 | Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là hộ gia đình, cá nhân) |
+| --- | --- |
+| Mẫu số 02 | Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là cộng đồng dân cư) |
+| Mẫu số 03 | Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là tổ chức) |
+Mẫu số 01. Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là hộ gia đình, cá nhân)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+---------------
+BẢN CAM KẾT TỰ NGUYỆN THAM GIA DỰ ÁN CÁC-BON RỪNG
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. THÔNG TIN CHUNG
+1. Họ và tên chủ hộ: ...................................................... 2. Dân tộc: ....................................
+3. Sinh ngày ... tháng ... năm ... 4. Số CCCD: ......................................................................
+Ngày cấp: ...................................Nơi cấp:.............................................................................
+5. Nơi ở hiện nay: …………………………………………………………………………………..
+6. Nơi đăng ký thường trú: ………………………………………………………………………...
+7. Tên dự án: ………………………………………………………………………........................
+II. VỊ TRÍ, DIỆN TÍCH, LOẠI RỪNG ĐỀ NGHỊ THAM GIA DỰ ÁN
+1. Vị trí: Lô, khoảnh; địa danh hành chính: .........................................................................
+2. Diện tích rừng: ………………………………………………………………………...............
+3. Loại rừng: ………………………………………………………………………......................
+4. Loài cây: ………………………………………………………………………........................
+Tôi xin tự nguyện tham gia dự án và xin cam đoan:
+- Tuân thủ đầy đủ nghĩa vụ, quyền công dân theo quy định của pháp luật; các nội dung, hoạt động theo văn kiện dự án.
+- Bảo đảm về độ trung thực của các số liệu trong bản cam kết này. Nếu có sai phạm tôi xin hoàn toàn chịu trách nhiệm trước pháp luật.
+- Ủy quyền cho Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... đại diện sở hữu kết quả giảm phát thải/tín chỉ các-bon rừng tạo ra từ dự án.
+- Chấp nhận giá bán tín chỉ các-bon, kế hoạch chia sẻ lợi ích của dự án được Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... phê duyệt.
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... xem xét và chấp nhận.
+Xin gửi đến Quý cơ quan những hồ sơ sau:
+*Bản sao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc Quyết định giao đất, giao rừng sản xuất.*
+| XÁC NHẬN CỦA UBND CẤP XÃ *(Ký, ghi rõ họ tên và đóng dấu)* | *... , ngày ... tháng ... năm ...* CHỦ HỘ/NGƯỜI ĐĂNG KÝ *(Ký và ghi rõ họ tên)* |
+| --- | --- |
+Mẫu số 02. Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là cộng đồng dân cư)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+---------------
+BẢN CAM KẾT TỰ NGUYỆN THAM GIA DỰ ÁN CÁC-BON RỪNG
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. THÔNG TIN CHUNG
+1. Tên cộng đồng dân cư: ......................................................................................................
+2. Địa chỉ: ………………………………………………………………………..............................
+3. Họ và tên người đại diện hợp pháp của cộng đồng dân cư: ..............................................
+4. Chức vụ:..................................................... 5. Số CCCD: ...................................................
+Ngày cấp:....................................................... Nơi cấp: ..........................................................
+6. Nơi đăng ký thường trú: ……………………………………………………………………….....
+7. Tên dự án: ………………………………………………………………………..........................
+II. VỊ TRÍ, DIỆN TÍCH, LOẠI RỪNG ĐỀ NGHỊ THAM GIA DỰ ÁN
+1. Vị trí: Lô, khoảnh; địa danh hành chính: …………………………………………………….....
+2. Diện tích rừng: ………………………………………………………………………..................
+3. Loại rừng: ……………………………………………………………………….........................
+4. Loài cây: ………………………………………………………………………...........................
+Sau khi trao đổi, thống nhất trong cộng đồng dân cư, tôi đại diện cộng đồng dân cư xin tham gia dự án ... và xin cam đoan:
+- Tuân thủ đầy đủ nghĩa vụ, quyền công dân theo quy định của pháp luật; các nội dung, hoạt động theo văn kiện dự án.
+- Ủy quyền cho Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... đại diện sở hữu kết quả giảm phát thải/tín chỉ các-bon rừng tạo ra từ dự án.
+- Bảo đảm về độ trung thực của các số liệu trong bản cam kết này. Nếu có sai phạm tôi xin hoàn toàn chịu trách nhiệm trước pháp luật.
+- Chấp nhận giá bán tín chỉ các-bon, kế hoạch chia sẻ lợi ích của dự án được Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... phê duyệt.
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... xem xét và chấp nhận.
+Xin gửi đến Quý cơ quan những hồ sơ sau:
+*Bản sao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc Quyết định giao đất, giao rừng sản xuất cho cộng đồng dân cư.*
+| XÁC NHẬN CỦA UBND CẤP XÃ *(Ký, ghi rõ họ tên và đóng dấu)* | *... , ngày ... tháng ... năm ...* NGƯỜI ĐẠI DIỆN *(Ký và ghi rõ họ tên)* |
+| --- | --- |
+Mẫu số 03. Bản cam kết tự nguyện tham gia dự án các-bon rừng (Áp dụng cho chủ rừng là tổ chức)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+---------------
+BẢN CAM KẾT TỰ NGUYỆN THAM GIA DỰ ÁN CÁC-BON RỪNG
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. THÔNG TIN CHUNG
+1. Tên tổ chức: ................................................................................................................
+2. Địa chỉ trụ sở chính: ………………………………………………………………………...
+3. Địa chỉ liên hệ: .......................................................... Điện thoại: .................................
+4. Họ và tên người đại diện hợp pháp của tổ chức: ........................................................
+5. Chức vụ: ............................................... 6. Số CCCD: ..................................................
+Ngày cấp:............................................ Nơi cấp: ................................................................
+7. Nơi đăng ký thường trú: ………………………………………………………………………
+8. Tên dự án: ………………………………………………………………………....................
+II. VỊ TRÍ, DIỆN TÍCH, LOẠI RỪNG ĐỀ NGHỊ THAM GIA DỰ ÁN
+1. Vị trí: Lô, khoảnh; địa danh hành chính: …………………………………………………....
+2. Diện tích rừng: ………………………………………………………………………..............
+3. Loại rừng: ………………………………………………………………………......................
+4. Loài cây: ………………………………………………………………………..................
+Tôi đại diện ...................... xin tham gia dự án ............................... và xin cam đoan:
+- Tuân thủ đầy đủ nghĩa vụ, quyền công dân theo quy định của pháp luật; các nội dung, hoạt động theo văn kiện dự án.
+- Bảo đảm về độ trung thực của các số liệu trong bản cam kết này. Nếu có sai phạm tôi xin hoàn toàn chịu trách nhiệm trước pháp luật.
+- Ủy quyền cho Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... đại diện sở hữu kết quả giảm phát thải/tín chỉ các-bon rừng tạo ra từ dự án.
+- Chấp nhận giá bán tín chỉ các-bon, kế hoạch chia sẻ lợi ích của dự án được Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... phê duyệt.
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... xem xét và chấp nhận.
+Xin gửi đến Quý cơ quan những hồ sơ sau:
+*Bản sao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc Quyết định giao đất, giao rừng sản xuất cho tổ chức.*
+|  | *... , ngày ... tháng ... năm ...* NGƯỜI ĐẠI DIỆN *(Ký và ghi rõ họ tên)* |
+| --- | --- |
+PHỤ LỤC II
+MẪU ĐĂNG KÝ, ĐIỀU CHỈNH, HỦY ĐĂNG KÝ DỰ ÁN CÁC-BON RỪNG, CẤP TÍN CHỈ CÁC-BON RỪNG VÀ XÁC NHẬN KẾT QUẢ GIẢM PHÁT THẢI, TÍN CHỈ CÁC-BON RỪNG ĐƯỢC CUNG ỨNG
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+| Mẫu số 01 | Đơn đề nghị đăng ký/điều chỉnh dự án các-bon rừng |
+| --- | --- |
+| Mẫu số 02 | Văn kiện dự án các-bon rừng |
+| Mẫu số 03 | Thông báo tổng hợp kết quả lấy ý kiến rộng rãi |
+| Mẫu số 04 | Báo cáo thẩm định văn kiện dự án |
+| Mẫu số 05 | Quyết định về việc phê duyệt đăng ký/điều chỉnh dự án các-bon rừng |
+| Mẫu số 06 | Đơn đề nghị hủy đăng ký dự án các-bon rừng |
+| Mẫu số 07 | Đơn đề nghị cấp tín chỉ các-bon rừng |
+| Mẫu số 08 | Báo cáo kết quả giảm nhẹ dự án |
+| Mẫu số 09 | Báo cáo thẩm định kết quả giảm nhẹ dự án |
+| Mẫu số 10 | Quyết định cấp tín chỉ các-bon rừng |
+| Mẫu số 11 | Đơn đề nghị xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng |
+| Mẫu số 12 | Văn bản xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng |
+Mẫu số 01. Đơn đề nghị đăng ký/điều chỉnh dự án các-bon rừng
+| TÊN CƠ QUAN, TỔ CHỨC ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: .../... | *......, ngày ..... tháng ..... năm ....* |
+ĐƠN ĐỀ NGHỊ
+Đăng ký/điều chỉnh dự án các-bon rừng
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. Thông tin về cơ quan, tổ chức đề nghị
+1. Tên cơ quan, tổ chức đăng ký: ..........................................................................................
+2. Mã số đơn vị: ……………………………………………………………………………………..
+3. Mã số thuế của cơ quan, tổ chức: ……………………………………………………………..
+4. Người đại diện: .................................. Chức vụ: ...............................................................
+Số CCCD/Hộ chiếu: ………………………………………........................……………………..
+5. Địa chỉ trụ sở: ..............……………………………………………………………...................
+6. Địa chỉ liên hệ: ……………………………………………………………..............................
+7. Điện thoại liên hệ: …………………………………………………………….........................
+8. Email: ……………………………………………………………...........................................
+II. Thông tin về cơ quan, tổ chức khác (dự kiến) tham gia dự án *(ghi rõ tên các tổ chức (dự kiến) tham gia dự án, mã đơn vị, địa chỉ trụ sở của tổ chức (dự kiến) tham gia dự án)*
+III. Nội dung đề nghị đăng ký hoặc điều chỉnh
+A. Đề nghị đăng ký (áp dụng cho việc đăng ký dự án mới)
+Đề nghị đăng ký dự án với những thông tin sau:
+1. Tên dự án đề nghị đăng ký: ............................................................................................
+2. Thời gian thực hiện dự án: ……………………………………………………………...........
+3. Địa điểm thực hiện dự án: ……………………………………………………………............
+4. Kinh phí thực hiện dự án: ……………………………………………………………..............
+5. Dự kiến tiến độ thực hiện dự án (ví dụ: thu thập số liệu cơ sở, tham vấn các bên liên quan, bắt đầu triển khai hoạt động...):
+6. Loại hình hoạt động giảm phát thải:
+□ Hạn chế mất rừng, suy thoái rừng, quản lý rừng bền vững, bảo tồn và nâng cao trữ lượng các-bon rừng (R1: REDD+ đối với rừng trên cạn, R2: REDD+ đối với rừng ngập mặn)
+□ Trồng mới rừng/xúc tiến tái sinh tự nhiên trên đất không có rừng (A/R1: Trồng/XTTS rừng trên cạn, A/R2: Trồng/XTTS rừng ngập mặn)
+□ Nuôi dưỡng rừng tự nhiên, làm giàu rừng (IFM-N)
+□ Nâng cao năng suất, kéo dài chu kỳ kinh doanh rừng trồng (IFM-P)
+□ Canh tác nông lâm kết hợp và trồng cây phân tán (AF1: Nông lâm kết hợp; AF2: Trồng cây phân tán)
+□ Khác (nếu có)
+7. Lượng giảm phát thải khí nhà kính dự kiến của dự án: ..................................................
+- Lượng giảm phát thải dự phòng dự kiến: ........................................................................
+- Lượng tín chỉ dự kiến: .....................................................................................................
+8. Mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định được phân bổ cho toàn bộ diện tích dự án: …………………………………………………………….............................................
+Dự kiến lượng đóng góp giảm phát thải khí nhà kính do quốc gia tự quyết định từ dự án (nếu có): ……………………………………………………………................................................................
+B. Đề nghị điều chỉnh (áp dụng cho việc điều chỉnh dự án)
+Mô tả thay đổi về diện tích, thời gian thực hiện dự án, loại hình hoạt động giảm phát thải và các nội dung có liên quan (kèm theo văn kiện dự án đề nghị điều chỉnh).
+Chúng tôi xin bảo đảm về độ trung thực và tuân thủ quy định pháp luật liên quan đến dự án. Nếu có vi phạm, chúng tôi xin hoàn toàn chịu trách nhiệm trước pháp luật.
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh xem xét phê duyệt đăng ký/điều chỉnh dự án các-bon rừng.
+*Tài liệu kèm theo: Bản sao Giấy chứng nhận quyền sử dụng đất, rừng; Hợp đồng hợp tác, liên kết; Giấy ủy quyền; Tài liệu khác (nếu có).*
+|  | *......., ngày ....... tháng ..... năm ......* THỦ TRƯỞNG ĐƠN VỊ *(Đại diện cơ quan/tổ chức ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+Mẫu số 02. Văn kiện dự án các-bon rừng
+VĂN KIỆN DỰ ÁN CÁC-BON RỪNG
+| A. Mô tả dự án |
+| --- |
+A.1. Tên dự án
+| Tên dự án: .......................................................................................................................................... Cơ quan, tổ chức đăng ký dự án: ....................................................................................................... Địa điểm dự án: ................................................................................................................................... Tình trạng dự án (mới/đang thực hiện - nếu đang thực hiện cung cấp thông tin QĐ phê duyệt/mã số trên Hệ thống đăng ký quốc gia): ..................................................................................... Hoạt động giảm phát thải của dự án (theo tiêu chuẩn quốc gia hoặc phương pháp được công nhận) - Hoạt động giảm phát thải theo Tiêu chuẩn quốc gia về tín chỉ các-bon rừng (TCVN): □ REDD+ (R1: REDD+ đối với rừng trên cạn, R2: REDD+ đối với rừng ngập mặn) □ Trồng mới rừng/xúc tiến tái sinh tự nhiên trên đất không có rừng (A/R1: Rừng trên cạn; A/R2: Rừng ngập mặn) □ Nuôi dưỡng rừng tự nhiên, làm giàu rừng (IFM-N) □ Nâng cao năng suất, kéo dài chu kỳ kinh doanh rừng trồng (IFM-P) □ Canh tác nông lâm kết hợp và trồng cây phân tán (AF1: Nông lâm kết hợp; AF2: Trồng cây phân tán) □ Khác (nếu có) - Hoạt động giảm phát thải theo phương pháp được công nhận: .......................................................... |
+| --- |
+| A.2. Mô tả chung về dự án, hoạt động giảm phát thải dự kiến sử dụng |
+| Bối cảnh và mục tiêu: ................................................................................................................... Mô tả tính phù hợp của hoạt động giảm phát thải lựa chọn: ........................................................ Mô tả hiện trạng quyền sử dụng đất và rừng của khu vực thực hiện dự án: ............................... Chỉ rõ hoạt động giảm phát thải áp dụng (ví dụ: trồng mới, trồng dặm, tỉa thưa, trồng lại, trồng xen - tham khảo thêm các biện pháp kỹ thuật lâm sinh), đầu vào của dự án, và sự phù hợp với biện pháp giảm nhẹ đã lựa chọn. Ranh giới và định vị địa lý của dự án (xã/phường; tỉnh và các địa phương lân cận): ............................ Cung cấp tài liệu/dữ liệu số bản đồ, địa giới hành chính (xã/tỉnh) và ranh giới tọa độ GPS, bản đồ ranh giới dự án và các biện pháp can thiệp của dự án. |
+| A.3. Các yếu tố rủi ro và giải trình tính bổ sung |
+| A.4. Tránh tính trùng lặp *(Mô tả các biện pháp để tránh nguy cơ tính trùng lặp)* |
+| A.5. Thông tin liên hệ |
+| Tên Tổ chức chủ trì đăng ký dự án: |  |
+| Địa chỉ: |  |
+| Điện thoại: | Fax: |
+| Địa chỉ thư điện tử: | Website: |
+| Người đại diện (chính thức): | Ông ☐ Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Chữ ký: | Ngày ... tháng ... năm ... |
+| Người đại diện (thay thế): | Ông ☐ Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Chữ ký: | Ngày ... tháng ... năm ... |
+| Đầu mối liên hệ: | Ông ☐                   Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Đơn vị công tác: |  |
+| Di động: | Điện thoại cơ quan: |
+| Địa chỉ thư điện tử: | Fax: |
+| Tên Tổ chức đồng tham gia dự án |
+| Địa chỉ: |  |
+| Điện thoại: | Fax: |
+| Địa chỉ thư điện tử: | Website: |
+| Tên tổ chức phối hợp |
+| Người đại diện (chính thức): | Ông ☐                Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Chữ ký: | Ngày ... tháng ... năm ... |
+| Người đại diện (thay thế): | Ông ☐                 Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Chữ ký: | Ngày ... tháng ... năm ... |
+| Đầu mối liên hệ: | Ông ☐ Bà ☐ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Đơn vị công tác: |  |
+| Di động: | Điện thoại cơ quan: |
+| Địa chỉ thư điện tử: | Fax: |
+| A.6. Thời gian thực hiện |
+| Thời điểm bắt đầu thực hiện dự án (ngày/tháng/năm) |  |
+| Thời gian thực hiện dự án (dự kiến) (Từ ngày/tháng/năm đến ngày/tháng/năm) |  |
+| Giai đoạn tín chỉ (Từ ngày/tháng/năm đến ngày/tháng/năm) |  |
+| Giai đoạn báo cáo, kỳ báo cáo (Từ ngày/tháng/năm đến ngày/tháng/năm) |  |
+| Phiên bản |  |
+| Thời gian duy trì dự án (Từ ngày/tháng/năm đến ngày/tháng/năm) |  |
+| Ngày nộp (ngày/tháng/năm) |  |
+|  |
+| B. Áp dụng tiêu chuẩn các-bon đã được công bố hoặc phương pháp đã được công nhận |
+| B.1. Tiêu chuẩn quốc gia về tín chỉ các-bon rừng (TCVN) hoặc phương pháp đã được công nhận *(Điền số ký hiệu của Tiêu chuẩn được phê duyệt và số của phiên bản sử dụng trong dự án)* |
+| Số ký hiệu của TCVN |  |
+| Số phiên bản |  |
+| Số ký hiệu của phương pháp |  |
+| B.2. Tính đủ điều kiện và tính áp dụng theo TCVN hoặc phương pháp được công bố *(Mô tả đầy đủ điều kiện và tính áp dụng theo TCVN đáp ứng điều kiện dự án/phương pháp luận)* |
+| C. Ước tính lượng giảm phát thải/tín chỉ các-bon rừng |
+| C.1. Liệt kê nguồn phát thải và khí nhà kính *(Mô tả thông tin các bể chứa, nguồn phát thải và loại khí nhà kính loại bỏ và lý do. Đảm bảo các bể/nguồn/khí nhà kính bắt buộc theo TCVN phải được tính toán)* Xác định bể chứa các-bon rừng, nguồn phát thải và các loại khí nhà kính *(Mô tả đầy đủ các bể chứa các-bon, nguồn phát thải và các loại khí nhà kính được tính toán hoặc bỏ qua)* C.2. Xác định số liệu hoạt động, hệ số phát thải *(Mô tả đầy đủ việc xác định số liệu hoạt động, hệ số phát thải để xác định mức tham chiếu và ước tính lượng giảm phát thải/hấp thụ khí nhà kính)* C.3. Xác định mức phát thải/hấp thụ tham chiếu, tính bổ sung, các yếu tố rủi ro, độ không chắc chắn để ước tính lượng phát thải/hấp thụ trong giai đoạn thực hiện *(Mô tả cách thức thực hiện, phương pháp/công thức tính toán các yếu tố để ước tính lượng phát thải/hấp thụ khí nhà kính trong giai đoạn thực hiện)* 1. Xác định mức phát thải/hấp thụ tham chiếu 2. Tính bổ sung và các yếu tố rủi ro ảnh hưởng đến tính bổ sung của dự án 3. Đánh giá độ không chắc chắn trong tính toán phát thải, hấp thụ các-bon rừng 4. Xác định nguy cơ rò rỉ, rủi ro đảo nghịch phát thải và lượng dự phòng 5. Ước tính lượng phát thải/hấp thụ khí nhà kính trong giai đoạn thực hiện |
+| D. Đảm bảo an toàn môi trường và xã hội *(Mô tả cách dự án đảm bảo tuân thủ các yêu cầu về đảm bảo an toàn về môi trường và xã hội tuỳ theo loại hình dự án. Phân mô tả gồm các nội dung chính sau đây)* |
+| *1. Tuân thủ pháp luật* *2.* *Đảm bảo an toàn môi trường* - Tác động tích cực (dự kiến): + Cải thiện độ ổn định đất và kiểm soát xói mòn (áp dụng với AR, IFM-N, IFM-P, AF) + Tăng cường đa dạng sinh học tại các khu vực suy thoái hoặc bị chia cắt (áp dụng với REDD+, IFM-N) + Phục hồi loài bản địa và sinh cảnh tự nhiên (áp dụng với REDD+, IFM-N) + Cải thiện thủy văn và khả năng giữ nước (áp dụng đối với REDD+, AR) + Các tác động tích cực khác (nếu có) + Rủi ro tiềm ẩn (cần được quản lý): + Nguy cơ loài ngoại lai xâm hại từ hoạt động trồng rừng (áp dụng với AR, IFM-N, IFM-P, AF) + Rửa trôi/dư thừa dinh dưỡng do sử dụng phân bón (áp dụng đối với AR, IFM-P, AF) + Tác động từ hoạt động chuẩn bị đất hoặc tỉa thưa (áp dụng đối với AR, IFM-P, AF) + Nguy cơ cháy rừng do tích tụ vật liệu cháy (áp dụng đối với AR, IFM-P, AF) + Các rủi ro khác (nếu có) *3.* *Đảm bảo an toàn xã hội (áp dụng với các hoạt động giảm phát thải có sự tham gia của hộ gia đình/cá nhân/cộng đồng địa phương và người dân tộc thiểu số)* - Thực hiện tham vấn tự nguyện, được thông báo trước và có cung cấp thông tin đầy đủ (FPIC) với cộng đồng địa phương và người dân tộc thiểu số. - Các biện pháp bảo vệ quyền sử dụng đất/rừng hợp pháp và theo truyền thống. - Đảm bảo cơ chế chia sẻ lợi ích công bằng và hợp lý, cơ chế giải quyết tranh chấp, khiếu nại và phản hồi (tạo việc làm, lâm sản ngoài gỗ, doanh thu từ tín chỉ các-bon). *4.* *Các nội dung khác (theo TCVN hoặc phương pháp được công nhận)* |
+|  |
+| Đ. Giám sát và Báo cáo *(Mô tả cách thức dự án sẽ giám sát, ghi chép và báo cáo dữ liệu phù hợp với các yêu cầu của TCVN và phương pháp áp dụng. Các tham số chi tiết, vai trò và quy trình được trình bày tại Mẫu Báo cáo kết quả giảm nhẹ dự án)* |
+| *1. Mục tiêu giám sát* Đảm bảo đo lường chính xác và minh bạch các hoạt động và kết quả của dự án. Theo dõi các lợi ích về các-bon, phi các-bon (đa dạng sinh học, xã hội, sinh kế...), và các biện pháp bảo đảm an toàn môi trường - xã hội. Cung cấp bằng chứng phục vụ việc thẩm định kết quả các khoản giảm phát thải/tăng cường hấp thụ khí nhà kính. 2. *Phương pháp giám sát* - Phạm vi: Trữ lượng các-bon rừng, lượng phát thải từ hoạt động dự án, rò rỉ, rủi ro đảo nghịch, đa dạng sinh học, sinh kế, can thiệp nông lâm kết hợp và các-bon xanh (nếu có). - Phương pháp: Kết hợp giữa lấy mẫu thực địa, viễn thám/GIS, thu thập dữ liệu hoạt động, khảo sát hộ gia đình/cộng đồng, và báo cáo từ các bên liên quan. - Tần suất: Theo quy định trong Phần 4 tại Mẫu báo cáo kết quả giảm nhẹ dự án (ví dụ: 5 năm/lần cho kiểm kê rừng, hàng năm cho dữ liệu hoạt động, liên tục cho nhật ký theo dõi sự kiện đảo nghịch). - Quản lý sai số/không chắc chắn: Thiết kế lấy mẫu, quy trình đảm bảo/kiểm soát chất lượng (QA/QC) và điều chỉnh bảo thủ theo TCVN. 3. *Quản lý dữ liệu* - Nguồn dữ liệu: Ô tiêu chuẩn trên thực địa, hồ sơ cộng đồng/hộ gia đình, ảnh viễn thám, dữ liệu thứ cấp đã được thẩm định. - Lưu trữ: Tất cả dữ liệu giám sát và dữ liệu dự án sẽ được lưu trữ an toàn và giữ lại ít nhất trong thời gian tối thiểu (≥ 2 năm sau kỳ tín chỉ). - Khả năng tiếp cận: Dữ liệu sẽ được cung cấp cho đơn vị thẩm định và các bên liên quan khi có yêu cầu. 4. *Phân công trách nhiệm* Mô tả việc phân công trách nhiệm giám sát cho các bộ phận, nhân sự và các bên liên quan trong quá trình thực hiện dự án. 5. *Báo cáo* Kết quả giám sát sẽ được tổng hợp thành Báo cáo kết quả giảm nhẹ dự án (theo yêu cầu của TCVN hoặc phương pháp đã được công nhận). |
+|  |
+| E. Tham vấn các bên liên quan |
+| E.1. Quy trình tham vấn |
+| Dự án có trách nhiệm tổ chức tham vấn với cộng đồng địa phương và các tổ chức liên quan trong quá trình xây dựng dự án. Quy trình tham vấn phải đảm bảo tính minh bạch và tạo điều kiện để các bên liên quan có cơ hội đưa ra ý kiến về lợi ích của dự án, kế hoạch triển khai và các tác động tiềm ẩn. Tài liệu ghi nhận tham vấn, bao gồm biên bản cuộc họp và danh sách người tham gia, hình ảnh cần được lưu trữ như tài liệu minh chứng. Ý kiến ủng hộ hoặc quan ngại từ cộng đồng: Dự án phải thu thập và báo cáo mức độ ủng hộ của cộng đồng, các quan ngại được nêu ra và các đề xuất liên quan đến cơ chế chia sẻ lợi ích hoặc biện pháp giảm thiểu. Trong trường hợp khu vực rừng do cộng đồng quản lý hoặc sử dụng theo tập quán, chủ dự án phải đạt được sự đồng thuận từ các nhóm bị ảnh hưởng và làm rõ cơ chế chia sẻ lợi ích. |
+| E.2. Cơ chế chia sẻ lợi ích *(áp dụng với các hoạt động giảm phát thải có sự tham gia/hưởng lợi của hộ gia đình/cá nhân/cộng đồng)* E.3. Đóng góp phát triển bền vững và đồng lợi ích E.4. Tổng hợp ý kiến và giải trình |
+| Các bên liên quan | Ý kiến | Giải trình |
+|  |
+| F. Thẩm định độc lập *(Mô tả tóm tắt các phát hiện, quá trình tiếp thu/giải trình và hoàn thiện tài liệu đăng ký dự án)* |
+|  |
+|  |
+| G. Tài liệu tham khảo |
+|  |
+|  |
+| Phụ lục |
+|  |
+| *(Thông tin thêm về ước tính lượng giảm phát thải, nếu cần thiết).* |
+|  |  |
+| Quá trình sửa đổi văn kiện dự án |
+| Phiên bản | Ngày | Nội dung sửa đổi |
+|  |  |  |
+Mẫu số 03. Thông báo tổng hợp kết quả lấy ý kiến rộng rãi
+| CƠ QUAN CHỦ QUẢN ĐƠN VỊ ... ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ... V/v tổng hợp kết quả lấy ý kiến rộng rãi về đăng ký dự án ... | *...., ngày... tháng... năm ....* |
+Kính gửi: .........................................................................
+Thực hiện quy trình đăng ký dự án các-bon rừng, (tên đơn vị cơ quan chuyên môn được giao) đã lấy ý kiến rộng rãi trên trang thông tin điện tử của Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân cấp tỉnh, kết quả như sau:
+1. Thông tin chung:
+- Tên dự án: .......................................................................................................................
+- Tổ chức đăng ký: ..............................................................................................................
+2. Kết quả lấy ý kiến
+Đã tiếp nhận ... ý kiến góp ý của các tổ chức, cá nhân *(chi tiết các ý kiến góp ý của tổ chức, cá nhân kèm theo).*
+Đề nghị ... (tổ chức đăng ký dự án) nghiên cứu, tiếp thu, giải trình các ý kiến góp ý; hoàn thiện hồ sơ và thực hiện các bước tiếp theo về đăng ký dự án theo quy định./.
+| *Nơi nhận:* - Cấp có thẩm quyền; - Lưu: VT, ... | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+Mẫu số 04. Báo cáo thẩm định văn kiện dự án
+BÁO CÁO THẨM ĐỊNH VĂN KIỆN DỰ ÁN
+| A. Tóm tắt nội dung |
+| --- |
+| A.1. Thông tin chung |
+| Tên dự án |  |
+| Số ký hiệu |  |
+| Đơn vị thẩm định độc lập |  |
+| Thành viên tham gia dự án đại diện ký hợp đồng với Đơn vị thẩm định độc lập |  |
+| Ngày lập báo cáo |  |
+| A.2. Tóm tắt các kết luận về quá trình thẩm định |
+| Nội dung thực hiện | Nội dung thẩm định | Đã hoàn thiện các yêu cầu sửa đổi hoặc yêu cầu làm rõ |
+| Hoàn thành Mẫu văn kiện dự án (VKDA) | VKDA có theo đúng mẫu VKDA mới nhất, phù hợp với loại dự án, và tuân thủ Hướng dẫn xây dựng VKDA theo TCVN hoặc phương pháp được phê duyệt (nếu có), Hướng dẫn xây dựng báo cáo kết quả giảm nhẹ dự án hay không? | Có □ Không □ |
+| Mô tả dự án | Phần mô tả dự án đề xuất trong VKDA có đảm bảo tính chính xác, hoàn thiện và bao quát hay không? | Có □ Không □ |
+| Áp dụng TCVN hoặc phương pháp đã được công nhận | TCVN hoặc phương pháp được lựa chọn áp dụng có phù hợp với các điều kiện của dự án hay không? Và phiên bản áp dụng có còn hiệu lực tại thời điểm đệ trình để thực hiện thẩm định dự án hay không? | Có □ Không □ |
+| Xác định lượng giảm phát thải dự kiến đóng góp NDC | Dự án có xác định lượng giảm phát thải dự kiến đóng góp NDC từ dự án hay không? | Có □ Không □ |
+| Tính bổ sung và các yếu tố rủi ro | Dự án đề xuất trong VKDA đã mô tả/chứng minh tính bổ sung và các yếu tố rủi ro đến tính bổ sung trong giai đoạn tín chỉ. | Có □ Không □ |
+| Tính phù hợp/đối tượng áp dụng của dự án | Phần mô tả dự án đề xuất trong VKDA về đơn vị triển khai dự án/chủ dự án và đối tượng hình thức sử dụng đất/đất tham gia loại hình dự án các-bon có đảm bảo tuân thủ theo TCVN không? | Có □ Không □ |
+| Nguồn phát thải và tính toán lượng giảm phát thải | Các nguồn phát thải khí nhà kính sử dụng để tính toán lượng phát thải của dự án và phát thải tham chiếu có được liệt kê đầy đủ hay không? | Có □ Không □ |
+|  | Nguy cơ đảo nghịch và lượng dự phòng đã được tính toán/mô tả đầy đủ hay không? | Có □ Không □ |
+|  | Công thức tính toán được sử dụng và tính toán lượng giảm phát thải trong từng năm đã tuân thủ TCVN/phương pháp được phê duyệt hay không? | Có □ Không □ |
+|  | Đánh giá độ không chắc chắn và điều chỉnh kết quả giảm phát thải/tín chỉ các-bon đã được tính toán/mô tả đầy đủ TCVN/phương pháp được phê duyệt hay không? | Có □ Không □ |
+|  | Các giá trị mặc định (tính toán trước) cho các thông số của dự án được liệt kê trong Mẫu giám sát có phù hợp hay không (nếu áp dụng)? | Có □ Không □ |
+| Bảo đảm tuân thủ yêu cầu an toàn môi trường và xã hội | Trong trường hợp phải tuân thủ yêu cầu an toàn môi trường và xã hội, dự án đã mô tả đầy đủ các rủi ro/biện pháp giảm thiểu rủi ro/tăng cường đồng lợi ích theo TCVN/phương pháp được công nhận hay không? | Có □ Không □ |
+| Tham vấn các bên liên quan tại địa phương | Dự án phải thực hiện quá trình tham vấn các bên liên quan tại địa phương nhằm gắn kết sự tham gia của các bên và tập hợp ý kiến đóng góp cho dự án. | Có □ Không □ |
+| Tổ chức giám sát | Phần mô tả về kế hoạch giám sát (sử dụng Mẫu kế hoạch giám sát và Cơ cấu tổ chức giám sát) phải dựa theo phương pháp đã phê duyệt và/hoặc Hướng dẫn về xây dựng VKDA, Kế hoạch giám sát và Báo cáo giám sát. | Có □ Không □ |
+| Tránh đăng ký trùng lặp | Dự án đăng ký thực hiện theo TCVN/ phương pháp được công nhận... không được đăng ký tham gia vào bất kỳ cơ chế giảm phát thải khí nhà kính quốc tế nào khác. Ranh giới trên bản đồ và thực địa có được đảm bảo không trùng/chồng lấn với bất kỳ dự án các-bon rừng theo TCVN, cơ chế quốc tế hoặc tiêu chuẩn độc lập nào khác. | Có □ Không □ |
+| Thời điểm bắt đầu thực hiện dự án; Thời gian thực hiện dự án; Giai đoạn tín chỉ; Thời gian duy trì dự án | Dự án đăng ký mô tả đầy đủ thời điểm bắt đầu thực hiện dự án; thời gian thực hiện dự án; giai đoạn tín chỉ và thời gian duy trì dự án có đảm bảo tuân thủ theo TCVN/phương pháp được công nhận hay không? | Có □ Không □ |
+|  |  |  |
+| Đại diện có thẩm quyền (chính thức): | Ông □                           Bà □ |
+| Họ: | Tên: |
+| Chức vụ: |
+| Chữ ký: | Ngày ... tháng ... năm .... |
+|  |  |  |  |
+| B. Nhóm công tác thực hiện việc thẩm định và chuyên gia |
+| --- |
+|  | Thành viên | Cơ quan | Chức vụ | Năng lực/kinh nghiệm trong việc thẩm định dự án theo các cơ chế trao đổi, bù trừ tín chỉ các-bon* | Trình độ chuyên môn* | Kinh nghiệm thực tế |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| C. Thông tin về ý kiến từ các bên liên quan, bao gồm cả cộng đồng |
+| C.1. Tóm tắt các ý kiến từ các bên liên quan, bao gồm cả cộng đồng C.2. Tóm tắt quá trình xử lý thông tin từ các bên liên quan, bao gồm cả cộng đồng |
+| D. Ý kiến thẩm định văn kiện dự án |
+| D.1. Về tính đầy đủ nội dung và biểu mẫu của văn kiện dự án D.2. Về tính bổ sung và các yếu tố rủi ro D.3. Về tính phù hợp/đối tượng áp dụng của dự án D.4. Về áp dụng tiêu chuẩn/phương pháp đã phê duyệt D.5. Về nguồn phát thải và tính toán lượng giảm phát thải D.6. Về đánh giá tuân thủ yêu cầu Bảo đảm an toàn môi trường - xã hội D.7. Về tham vấn các bên liên quan tại địa phương D.8. Về tổ chức giám sát và báo cáo D.9. Về tính trùng lặp đăng ký dự án, bao gồm cả địa bàn thực hiện dự án D.10. Về thời điểm bắt đầu thực hiện dự án; thời gian thực hiện dự án; giai đoạn tín chỉ; thời gian duy trì dự án D.11. Kết luận về việc thẩm định VKDA |
+| - Văn kiện dự án đạt yêu cầu theo TCVN hoặc phương pháp đã công nhận, đơn vị thẩm định đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân cấp tỉnh phê duyệt đăng ký dự án. - Văn kiện dự án không đạt yêu cầu, lý do: ............................................................................... |
+|  |
+| E. Bằng chứng và các tài liệu được cung cấp kèm theo trong quá trình tham vấn |
+| E.1. Danh sách cá nhân, đại diện cộng đồng và các bên liên quan tham gia tham vấn (kèm theo hình ảnh, biên bản/báo cáo) E.2. Danh sách tài liệu được cung cấp kèm theo |
+| Phụ lục: Bản sao bằng cấp và sơ yếu lý lịch các thành viên tham gia nhóm thực hiện thẩm định dự án của Đơn vị thẩm định độc lập |
+| *Đính kèm chứng chỉ và sơ yếu lý lịch của các thành viên nhóm thẩm định, các chuyên gia kỹ thuật và phản biện nội bộ của Đơn vị thẩm định độc lập.* |
+Mẫu số 05. Quyết định phê duyệt đăng ký, điều chỉnh dự án các-bon rừng
+| TÊN CƠ QUAN ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ......../QĐ-... | *......, ngày ..... tháng ..... năm ....* |
+QUYẾT ĐỊNH
+Về việc phê duyệt/điều chỉnh đăng ký dự án các-bon rừng
+THỦ TRƯỞNG CƠ QUAN ...
+Căn cứ Nghị định số .../..../NĐ-CP ngày... tháng... năm ... của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của ... ;
+Căn cứ Nghị định số .../..../NĐ-CP ngày... tháng... năm ... của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng;
+Xét đề nghị đăng ký dự án tại Công văn/văn bản số... ngày... tháng... năm ... của (1);
+Theo đề nghị của ...
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt/điều chỉnh đăng ký dự án với thông tin như sau:
+- Tên dự án: .................................................................................................................
+- Tên cơ quan, tổ chức đề xuất đăng ký/điều chỉnh dự án: .........................................
+- Thông tin chi tiết dự án ... tại văn kiện dự án kèm theo.
+Điều 2. Cơ quan, tổ chức đăng ký dự án tổ chức thực hiện dự án theo đúng văn kiện dự án đã được phê duyệt.
+Điều 3. Thủ trưởng cơ quan/đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+| Nơi nhận: - Như Điều 3; - ....; - Lưu: .... | THỦ TRƯỞNG CƠ QUAN (Ký, ghi rõ họ tên và đóng dấu) |
+| --- | --- |
+Ghi chú: (1) Tên cơ quan, tổ chức đăng ký dự án.
+Mẫu số 06. Đơn đề nghị hủy đăng ký dự án các-bon rừng
+| TÊN CƠ QUAN ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | ......, ngày ..... tháng ..... năm .... |
+ĐƠN ĐỀ NGHỊ
+Hủy đăng ký dự án các-bon rừng
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. Thông tin dự án đã đăng ký
+1. Tên đầy đủ của dự án: …………………………………………………………………...…..
+2. Mã dự án: …………………………………………………………………...….......................
+3. Lĩnh vực giảm nhẹ phát thải khí nhà kính của dự án: ……………………………………
+4. Đơn vị thẩm định văn kiện dự án:
+- Tên đơn vị thẩm định: …………………………………………………………………...…..
+- Mã số đơn vị: …………………………………………………………………...….................
+- Mã số thuế cơ quan/tổ chức: ………………………………………………………………….
+5. Ngày đơn vị thẩm định hoàn thành báo cáo thẩm định văn kiện dự án: .......................
+6. Ngày được phê duyệt đăng ký dự án: ……………………………………………………...
+7. Ngày được phê duyệt điều chỉnh dự án gần nhất (nếu có): ..........................................
+II. Thông tin tổ chức đăng ký dự án
+1. Tên cơ quan/tổ chức đăng ký dự án đề nghị:
+2. Người có thẩm quyền thay mặt cho tổ chức đăng ký dự án đề nghị: .............................
+3. Chức vụ: …………………………………………………………………...….........................
+4. Mã số đơn vị: …………………………………………………………………...….................
+5. Mã số thuế của cơ quan/tổ chức: ……………………………………………......................
+6. Thông tin liên hệ:
+- Địa chỉ liên hệ: …………………………………………………………………...….................
+- Điện thoại: …………………………………………………………………...…........................
+- Email: …………………………………………………………………...…................................
+III. Thông tin đề nghị
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... xem xét hủy đăng ký dự án (tên dự án).
+Lý do đề nghị hủy đăng ký dự án: …………………………………………...............................
+Chúng tôi xin hoàn toàn chịu trách nhiệm trước pháp luật nếu vi phạm các quy định về cung cấp thông tin, hoàn thành các nghĩa vụ đã cam kết và trách nhiệm với các bên liên quan theo quy định của pháp luật do quyết định hủy đăng ký dự án.
+|  | ......, ngày ...... tháng ...... năm ...... THỦ TRƯỞNG ĐƠN VỊ (Đại diện cơ quan/tổ chức ký, ghi rõ họ tên và* *đóng dấu) |
+| --- | --- |
+Mẫu số 07. Đơn đề nghị cấp tín chỉ các-bon rừng
+| TÊN CƠ QUAN, TỔ CHỨC ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ......../ | ......, ngày ..... tháng ..... năm .... |
+ĐƠN ĐỀ NGHỊ
+Cấp tín chỉ các-bon rừng
+Kính gửi: Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ...
+I. Thông tin dự án đã đăng ký
+1. Tên của dự án: .............................................................................................................
+2. Mã dự án: .....................................................................................................................
+3. Hoạt động giảm phát thải khí nhà kính của dự án: ......................................................
+4. Đơn vị thẩm định văn kiện dự án: ..................................................................................
+- Tên đơn vị thẩm định: ......................................................................................................
+- Mã đăng ký: ......................................................................................................................
+- Mã số thuế cơ quan/tổ chức: ............................................................................................
+5. Ngày đơn vị thẩm định hoàn thành báo cáo thẩm định: ................................................
+6. Ngày được phê duyệt đăng ký dự án: ...........................................................................
+7. Ngày được phê duyệt điều chỉnh dự án gần nhất (nếu có): ..........................................
+8. Lượng giảm phát thải/tín chỉ các-bon rừng dự kiến từ dự án: ........................................
+9. Mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định được phân bổ cho toàn bộ diện tích dự án: .............................................................................................................
+10. Lượng đóng góp giảm phát thải khí nhà kính do quốc gia tự quyết định của dự án: .............................................................................................................
+11. Thành phần tham gia dự án theo phê duyệt đăng ký/phê duyệt điều chỉnh dự án gần nhất và thông tin số tài khoản của các tổ chức tham gia dự án trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon rừng: (Liệt kê đầy đủ thành phần tham gia dự án)
+| TT | Tên tổ chức tham gia dự án | Trụ sở của tổ chức tham gia dự án | Mã đơn vị, mã số thuế tổ chức tham gia dự án | Số tài khoản tín chỉ của tổ chức trên Hệ thống đăng ký quốc gia |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| ... |  |  |  |  |
+12. Giai đoạn nhận tín chỉ của dự án: từ tháng ... năm ... đến tháng ... năm ...
+13. Lượng dự phòng: .........................................................................................................
+II. Thông tin tổ chức đại diện/đăng ký dự án
+1. Tên tổ chức đại diện/đăng ký dự án đề nghị: .................................................................
+2. Người có thẩm quyền thay mặt cho tổ chức đại diện/đăng ký dự án đề nghị: ............................................................................... chức vụ: .........................................................
+3. Mã đơn vị: .................................................................................................................
+4. Mã số thuế của tổ chức: ...........................................................................................
+5. Thông tin liên hệ:
+- Địa chỉ liên hệ: .............................................................................................................
+- Điện thoại: ....................................................................................................................
+- Email: ............................................................................................................................
+III. Thông tin thẩm định báo cáo kết quả giảm nhẹ của dự án
+1. Thông tin đơn vị thẩm định kết quả giảm nhẹ của dự án :
+- Tên đơn vị thẩm định: .............................................................................................................
+- Mã đơn vị: ...........................................................................................................................
+- Mã số thuế cơ quan/tổ chức: ...............................................................................................
+2. Ngày đơn vị thẩm định hoàn thành báo cáo thẩm định:
+3. Tổng lượng giảm phát thải khí nhà kính được xác minh: (Ghi rõ lượng giảm phát thải khí nhà kính được xác minh theo từng năm)
+|  | Lượng giảm phát thải khí nhà kính được thẩm định (tấn CO2 tương đương) |
+| --- | --- |
+| Năm 20... |  |
+| Năm 20... |  |
+| ... |  |
+IV. Đề nghị
+1. Cấp tín chỉ các-bon rừng cho dự án
+Đề nghị xem xét cấp tín chỉ các-bon cho ... (tên dự án, giai đoạn đề nghị cấp tín chỉ) theo đề xuất như sau:
+|  | Lượng giảm phát thải khí nhà kính được đơn vị thẩm định xác minh (tấn CO2 tương đương) | Lượng tín chỉ các-bon đề nghị cấp cho dự án (tín chỉ) |
+| --- | --- | --- |
+| Năm 20... |  |  |
+| Năm 20... |  |  |
+| ... |  |  |
+2. Cấp tín chỉ các-bon rừng cho các tổ chức tham gia dự án theo đề xuất phân bổ
+Đề nghị Bộ Nông nghiệp và Môi trường/Ủy ban nhân dân tỉnh ... xem xét cấp tín chỉ các-bon rừng của (tên dự án) cho các tổ chức tham gia dự án cho giai đoạn ... theo đề xuất phân bổ tín chỉ như sau:
+| Năm | Tổng số tín chỉ các-bon (tấn CO2 tương đương) | Tổ chức A (tín chỉ) | Tổ chức B (tín chỉ) | Tổ chức C (tín chỉ) |
+| --- | --- | --- | --- | --- |
+| Năm 20... |  |  |  |  |
+| Năm 20... |  |  |  |  |
+| ... |  |  |  |  |
+| Tổng |  |  |  |  |
+V. Hồ sơ kèm theo
+1. ………………………………………………………………………………………...…………..
+2. ………………………………………………………………………………………...…………..
+3. ………………………………………………………………………………………...…………..
+(Liệt kê đầy đủ tài liệu trong hồ sơ đề nghị cấp tín chỉ các-bon cho dự án theo danh mục hồ sơ quy định tại khoản 1 Điều 10 Nghị định này).
+VI. Xác nhận đồng thuận của các tổ chức tham gia dự án về đề nghị cấp tín chỉ cacbon rừng
+| Tên tổ chức | Xác nhận đồng thuận về đề nghị cấp tín chỉ các-bon (Đại diện hợp pháp của tất cả các tổ chức tham gia dự án ký, ghi rõ họ tên, chức vụ và đóng dấu) |
+| --- | --- |
+| Tổ chức A |  |
+| Tổ chức B |  |
+| Tổ chức C |  |
+| ... |  |
+Chúng tôi xin cam đoan chịu hoàn toàn trách nhiệm trước pháp luật nếu vi phạm các quy định về cung cấp thông tin.
+|  | ........., ngày ..... tháng ...... năm ..... THỦ TRƯỞNG ĐƠN VỊ (Đại diện cơ quan, tổ chức ký, ghi rõ họ tên và đóng dấu) |
+| --- | --- |
+Mẫu số 08. Báo cáo kết quả giảm nhẹ dự án
+BÁO CÁO KẾT QUẢ GIẢM NHẸ DỰ ÁN
+Phần 1. Thông tin dự án
+1. Tên dự án, mã dự án: .....................................................................................................
+Tổ chức chủ trì dự án và các tổ chức phối hợp (báo cáo/giám sát): ..................................
+3. Vị trí và ranh giới (kèm bản đồ): .....................................................................................
+4. Loại hình hoạt động giảm phát thải: ................................................................................
+5. Giai đoạn tín chỉ và kỳ báo cáo (ngày bắt đầu và kết thúc): ............................................
+6. Thời điểm bắt đầu thực hiện dự án (ngày/tháng/năm): ....................................................
+7. Tham chiếu tới văn kiện dự án (VKDA) và tiêu chuẩn/phương pháp được phê duyệt (số hiệu/phiên bản): .................................................................................................................................
+Phần 2. Tổng quan thời gian thực hiện dự án
+1. Tóm tắt các hoạt động được triển khai trong kỳ thực hiện dự án
+2. So sánh với các hoạt động đã được xác định trong VKDA
+3. Các thay đổi lớn, nếu có (ví dụ: diện tích quản lý, diện tích trồng, diện tích tránh mất rừng)
+4. Tổ chức thực hiện dự án
+5. Tóm tắt các hoạt động thực hiện theo tần suất trong kỳ báo cáo (theo từng hoạt động của dự án)
+Phần 3. Các tham số giai đoạn tham chiếu
+1. Mô tả và khẳng định lại mức tham chiếu đã được xác định trong VKDA
+2. Mô tả các thông số kịch bản tham chiếu chủ chốt được sử dụng trong giám sát (độ che phủ, mật độ các-bon, phát thải cơ sở...)
+3. Thông tin khác (nếu có)
+Phần 4. Các tham số và phương pháp giám sát
+(Mô tả tham số và phương pháp giám sát các hoạt động theo TCVN/phương pháp được công nhận)
+1. Tham số giám sát thực tế
+Tuỳ thuộc vào từng hoạt động của dự án (hoạt động giảm phát thải của dự án), các tham số giám sát thực tế có thể bao gồm:
+- Diện tích và trạng thái rừng;
+- Trữ lượng các-bon rừng (tỷ lệ sống của cây, D1.3, chiều cao, gia tăng sinh khối);
+- Phát thải từ hoạt động dự án (như đốt, vận chuyển cây giống, phân bón, thu gom củi);
+- Rò rỉ (chuyển đổi hoạt động, rò rỉ thị trường);
+- Rủi ro đảo nghịch (cháy, dịch hại, bão, khai thác bất hợp pháp);
+- Chỉ số đa dạng sinh học;
+- Chỉ số sinh kế/xã hội;
+- Chỉ số AFP (năng suất, độ che phủ cây bóng mát, độ phì nhiêu đất);
+- Chỉ số các-bon xanh (diện tích rừng ngập mặn/than bùn, sinh khối, trữ lượng C trong đất);
+- Các tham số khác.
+2. Tham số cố định đặc thù dự án
+Hằng số, giá trị đường cơ sở, hệ số phát thải
+3. Ước tính giảm/hấp thụ phát thải khí nhà kính
+- Lượng giảm phát thải trong kỳ giám sát (tCO2tđ)
+- Tổng lượng giảm phát thải tích lũy từ khi dự án bắt đầu
+4. Phương pháp và căn cứ giám sát
+- Tham chiếu TCVN/phương pháp được công nhận
+- Quy trình giám sát đã sử dụng
+5. Vai trò và trách nhiệm giám sát
+Vai trò của quản lý dự án, cán bộ hiện trường, quản lý dữ liệu, cán bộ kiểm soát chất lượng (QA/QC)
+Phần 5. Thu thập dữ liệu và hệ thống đảm bảo và QA/QC
+1. Đo đạc hiện trường (ô tiêu chuẩn, tuyến, mẫu đất)
+2. Dữ liệu viễn thám và GIS (bản đồ phủ toàn diện, chỉ số viễn thám)
+3. Hệ thống lưu trữ và duy trì dữ liệu
+4. Quy trình QA/QC (kiểm tra lỗi, đánh giá độ chính xác, phát hiện bất thường, kiểm tra độc lập)
+5. Sở hữu dữ liệu và chính sách truy cập dữ liệu (ai chịu trách nhiệm duy trì, ai cấp quyền truy cập, các quy tắc bảo mật)
+Phần 6. Biện pháp bảo đảm an toàn, đa dạng sinh học và tác động xã hội theo TCVN/phương pháp được công nhận
+1. Các hoạt động tham vấn cộng đồng (các cuộc họp, cập nhật FPIC, cơ chế giải quyết khiếu nại)
+2. Tuân thủ các biện pháp an toàn
+3. Kết quả đa dạng sinh học (giám sát giá trị đa dạng sinh học cao - HCV, chỉ số chất lượng sinh cảnh)
+4. Kết quả sinh kế (thu nhập, mức độ tham gia, chỉ số phúc lợi xã hội)
+5. Các kết quả khác
+Phần 7. Rò rỉ và Rủi ro đảo nghịch
+1. Bằng chứng về chuyển dịch hoạt động hoặc rò rỉ thị trường
+2. Rò rỉ thị trường (nếu có)
+3. Giám sát các sự cố (cháy, sâu bệnh, bão, khai thác trái phép)
+4. Cập nhật quỹ dự phòng và áp dụng công cụ đánh giá rủi ro
+Phần 8. Kết quả giảm phát thải và kết quả đồng lợi ích
+1. Lượng giảm phát thải /hấp thụ ròng đạt được
+2. Mức độ không chắc chắn và khoảng tin cậy
+3. Tóm tắt lợi ích đa dạng sinh học, môi trường và xã hội
+4. Khẳng định tuân thủ các yêu cầu giám sát theo TCVN/phương pháp được công nhận
+Phần 9. Quản lý thích ứng và bài học kinh nghiệm
+1. Bài học rút ra từ kết quả giám sát (ví dụ: tỷ lệ chết bất thường của cây, xu hướng rò rỉ, các vấn đề về biện pháp an toàn xã hội)
+2. Điều chỉnh thực hành quản lý dự kiến cho kỳ tiếp theo (cải tiến quy trình, tăng cường biện pháp bảo vệ, thay đổi loài cây trồng, cải thiện sự tham gia cộng đồng, v.v.)
+3. Các hành động khắc phục đối với thiếu hụt dữ liệu hoặc khoảng trống trong giám sát (bổ sung đo đạc, cải thiện hệ thống thu thập thông tin, tăng cường QA/QC, huy động thêm nguồn lực).
+Phần 10. Quá trình thẩm định và các nội dung thẩm định, ý kiến giải trình đã được cơ quan thẩm định chấp thuận
+| Quá trình sửa đổi báo cáo |
+| --- |
+| Phiên bản | Ngày/tháng/năm | Nội dung sửa đổi |
+|  |  |  |
+|  |  |  |
+Phần 11. Phụ lục
+1. Các bảng giám sát đã hoàn chỉnh (Phần 4, Mục 1-5)
+2. Phiếu thu thập dữ liệu hiện trường, hồ sơ ô tiêu chuẩn
+3. Bản đồ RS/GIS (thay đổi diện tích đất, thay đổi sinh khối, bản đồ sự cố)
+4. Hồ sơ tham vấn cộng đồng, phản hồi và khiếu nại
+5. Nhật ký QA/QC, hồ sơ kiểm toán
+6. Tư liệu ảnh/tài liệu minh chứng
+Mẫu số 09. Báo cáo thẩm định kết quả giảm nhẹ dự án
+BÁO CÁO THẨM ĐỊNH KẾT QUẢ GIẢM NHẸ DỰ ÁN
+| A. Tóm tắt nội dung |
+| --- |
+| A.1. Thông tin chung |
+| Tên dự án |  |
+| Số ký hiệu |  |
+| Đơn vị thẩm định độc lập |  |
+| Thành viên tham gia dự án đại diện ký hợp đồng với Đơn vị thẩm định độc lập |  |
+| Ngày lập báo cáo |  |
+| A.2. Tóm tắt nội dung, phương pháp thực hiện quá trình thẩm định |
+| A.3. Các nội dung thẩm định và việc hoàn thiện báo cáo |
+| Nội dung thực hiện | Nội dung thẩm định | Đã hoàn thiện các yêu cầu sửa đổi hoặc yêu cầu làm rõ |
+| Tuân thủ phương pháp luận và các thay đổi | Xác nhận xem dự án có đảm bảo tuân thủ theo đúng phương pháp/biện pháp giảm phát thải như văn kiện đăng ký không? Liệu có sự sai khác nào về phương pháp do không tuân thủ theo tiêu chuẩn gây ra không, hay do thay đổi về phương pháp trong TCVN/phương pháp được công nhận? | Có □ Không □ |
+| Tính đầy đủ của báo cáo giám sát | Báo cáo giám sát có nêu rõ kỳ giám sát, niên hạn tín chỉ, nguồn dữ liệu, hệ thống đảm bảo và kiểm soát chất lượng (QA/QC), độ không chắc chắn, và các công thức tính toán hay không? | Có □ Không □ |
+|  | Trường hợp có yêu cầu xây dựng lại đường cơ sở hoặc sai khác so với mô tả dự án đã đăng ký, các thay đổi này có được mô tả rõ ràng, đầy đủ hay không? | Có □ Không □ |
+| Khảo sát hiện trường và tham vấn các bên liên quan | Dự án có thực hiện chuyến tham vấn, khảo sát hiện trường, đảm bảo đánh giá bao phủ kỳ giám sát không? | Có □ Không □ |
+| Tính bổ sung, điều kiện đủ và tuân thủ pháp luật | Báo cáo kết quả có mô tả việc tuân thủ pháp luật hoặc không có thay đổi trọng yếu nào trong kỳ giám sát có thể làm mất tính bổ sung của dự án không? | Có □ Không □ |
+|  | Báo cáo kết quả dự án có mô tả hiện trạng về giấy chứng nhận quyền sử dụng đất/tài liệu tương đương hoặc hồ sơ pháp lý có được cập nhật và có ảnh hưởng đến kết quả của kỳ giám sát không? | Có □ Không □ |
+| Rò rỉ, đánh giá rủi ro đảo ngược và các sự cố đảo ngược | Báo cáo kết quả dự án có thực hiện giám sát rò rỉ và các hệ số được sử dụng (rò rỉ do chuyển đổi hoạt động hoặc do thị trường, nếu có) theo phương pháp; xác nhận các vùng rò rỉ không gian được theo dõi. | Có □ Không □ |
+|  | Báo cáo kết quả dự án có mô tả đánh giá báo cáo rủi ro không vĩnh viễn; xác nhận tỷ lệ tín chỉ dự phòng và mọi phần khấu trừ/bổ sung không? | Có □ Không □ |
+|  | Báo cáo kết quả dự án có mô tả đánh giá/theo dõi việc báo cáo lượng phát thải tăng hoặc đảo nghịch (bao gồm cả tránh được và không thể tránh được; các biện pháp khắc phục, phù hợp với các định nghĩa và quy định về quỹ dự phòng tập trung không? | Có □ Không □ |
+| Bảo đảm an toàn môi trường và xã hội | Báo cáo kết quả dự án có mô tả có đầy đủ các bằng chứng về tham vấn các bên liên quan đang diễn ra, nhật ký khiếu nại, và mọi tác động xã hội - môi trường được ghi nhận trong kỳ, phù hợp với các nội dung thực hiện và giám sát bảo đảm an toàn môi trường và xã hội trong báo cáo giám sát không? | Có □ Không □ |
+| Tránh tính hai lần | Dự án bảo đảm tính độc nhất của tín chỉ: không có đăng ký/phát hành/tuyên bố sử dụng kép; xác nhận không trùng lặp trước khi phát hành trên Hệ thống đăng ký quốc gia | Có □ Không □ |
+| Đại diện có thẩm quyền (chính thức): | Ông □ Bà □ |
+| Họ: | Tên: |
+| Chức vụ: |  |
+| Chữ ký: | Ngày ... tháng ... năm .... |
+| B. Nhóm công tác thực hiện việc thẩm định và chuyên gia |
+|  | Thành viên | Cơ quan | Chức vụ | Kinh nghiệm về các cơ chế trao đổi, bù trừ tín chỉ các-bon | Trình độ chuyên môn | Kinh nghiệm thực tế |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| Ông □ Bà □ |  |  |  | □ |  | □ |
+| C. Thông tin về ý kiến từ các bên liên quan, bao gồm cả cộng đồng |
+| C.1. Tóm tắt các ý kiến từ các bên liên quan, bao gồm cả cộng đồng C.2. Tóm tắt quá trình xử lý thông tin từ các bên liên quan, bao gồm cả cộng đồng |
+| D. Kết luận việc thẩm định báo cáo |
+| D.1. Về kiểm tra việc các tài liệu dự án và phiên bản được sử dụng D.2. Về tuân thủ TCVN/phương pháp luận và các thay đổi D.3. Về tính đầy đủ của báo cáo giám sát D.4. Về khảo sát hiện trường và tham vấn các bên liên quan D.5. Về kiểm chứng lại việc định lượng kết quả giảm phát thải D.6. Tính bổ sung, điều kiện đủ điều kiện và tuân thủ pháp luật D.7. Về rò rỉ, tính lâu dài và các sự cố đảo nghịch D.8. Về chất lượng của dữ liệu, độ không chắc chắn D.9. Về bảo đảm an toàn môi trường và xã hội D.10. Về tránh tính hai lần D.11. Về các vấn đề khác D. 12. Kết luận |
+| Kết quả giảm phát thải của giai đoạn ... đạt yêu cầu để thực hiện thủ tục cấp tín chỉ các-bon: ... |
+| E. Danh sách đối tượng thực hiện phỏng vấn và các tài liệu được cung cấp |
+| E.1. Danh sách đối tượng thực hiện phỏng vấn E.2. Danh sách tài liệu được cung cấp |
+| Phụ lục: Bản sao chứng chỉ và sơ yếu lý lịch của các thành viên nhóm thẩm định của Đơn vị thẩm định, các chuyên gia kỹ thuật và phản biện nội bộ của Đơn vị thẩm định. |
+|  |  |  |  |  |  |  |  |  |  |
+Mẫu số 10. Quyết định cấp tín chỉ các-bon rừng
+| TÊN CƠ QUAN ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ......./QĐ-... | *...., ngày ... tháng ... năm ....* |
+QUYẾT ĐỊNH
+Về việc cấp tín chỉ các-bon rừng
+THỦ TRƯỞNG CƠ QUAN ...
+*Căn cứ Nghị định số ..../.../NĐ-CP ngày... tháng... năm ... của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ ... ;*
+*Căn cứ Nghị định số .../.../NĐ-CP ngày ... tháng... năm ... của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng;*
+*Xét đề nghị cấp tín chỉ các-bon rừng tại Công văn/văn bản số ... ngày ... tháng... năm ... của (1);*
+*Theo đề nghị của ......*
+QUYẾT ĐỊNH:
+Điều 1. Cấp tín chỉ các-bon rừng, thông tin như sau:
+- Tên dự án: ........................................................................................................................
+- Tên tổ chức đăng ký dự án đề nghị: .................................................................................
+- Người đại diện: ...................................................; chức vụ: ...............................................
+1. Tổng số tín chỉ các-bon rừng được cấp: ...
+- Năm ...: ...
+- Năm ...: ...
+2. Lượng dự phòng: ...
+Điều 2. Thủ trưởng cơ quan/đơn vị ... và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+| Nơi nhận: - Như Điều 2; - ...; - Lưu: ... | THỦ TRƯỞNG CƠ QUAN (Ký, ghi rõ họ tên và đóng dấu) |
+| --- | --- |
+Ghi chú: (1) Tên tổ chức đăng ký dự án.
+Mẫu số 11. Đơn đề nghị xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng
+| TÊN TỔ CHỨC ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ........./ | *..., ngày ... tháng ..... năm .....* |
+ĐƠN ĐỀ NGHỊ
+Xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng
+Kính gửi: Bộ Nông nghiệp và Môi trường
+Tên cơ quan/tổ chức: .........................................................................................................
+Đại diện cơ quan/tổ chức:.................................................... Chức vụ: ...............................
+Mã đơn vị: ...........................................................................................................................
+Mã số thuế: ………………………………………………………………………………………...
+Địa chỉ liên hệ: ……………………………………………………………………………………...
+Điện thoại:.............................................................................. Fax: …………………….........
+Email: ………………………………………………………………………………………...........
+I. Thông tin dự án
+1. Tên dự án: ………………………………………………………………………………………...
+2. Mã số (nếu có): …………………………………………………………………………….........
+3. Tiêu chuẩn các-bon áp dụng: ……………………………………………………………….....
+4. Biện pháp/hoạt động giảm nhẹ phát thải khí nhà kính của dự án: ………………………..
+5. Lượng giảm phát thải/tín chỉ các-bon dự kiến từ dự án: ...................................................
+6. Giai đoạn nhận tín chỉ của dự án: từ tháng ... năm ... đến tháng ... năm ...
+II. Thông tin về kết quả giảm phát thải đã được thẩm định/tín chỉ các-bon rừng đã được cấp
+1. Kết quả giảm phát thải đã được thẩm định/tín chỉ các-bon rừng đã được cấp:...
+2. Lượng đóng góp giảm phát thải do quốc gia tự xác định (NDC) của dự án:...
+III. Đề nghị xác nhận
+Xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng:
+- Lượng kết quả giảm phát thải/tín chỉ các-bon (ghi số seri tín chỉ) được cung ứng/chuyển nhượng không cần thư chấp thuận chuyển giao quốc tế hoặc để giảm phát thải khí nhà kính tự nguyện/bên nhận chuyển nhượng cho phép bên chuyển nhượng được giữ lại để tính NDC: ...
+- Kết quả giảm phát thải/tín chỉ các-bon được cung ứng/chuyển nhượng cần thư chấp thuận chuyển giao quốc tế hoặc để chuyển nhượng trên sàn giao dịch các-bon/bên nhận chuyển nhượng không cho phép bên chuyển nhượng được giữ lại để tính NDC: ...
+Chúng tôi xin cam đoan chịu hoàn toàn trách nhiệm trước pháp luật nếu vi phạm các quy định về cung cấp thông tin.
+|  | .........., ngày ....... tháng ...... năm ...... THỦ TRƯỞNG ĐƠN VỊ (Đại diện cơ quan, tổ chức ký, ghi rõ họ tên và đóng dấu) |
+| --- | --- |
+Mẫu số 12. Văn bản xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng
+| TÊN CƠ QUAN ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: ...../.... V/v thông báo kết quả xác nhận kết quả giảm phát thải/tính chỉ các-bon rừng được cung ứng | ..., ngày ... tháng ..... năm ..... |
+Kính gửi: ..............(1)........
+*Căn cứ Nghị định số .../NĐ-CP ngày .... tháng .... năm ... của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ ... ;*
+*Căn cứ Nghị định số .../NĐ-CP ngày... tháng... năm ... của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng;*
+*Xét đề nghị xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng tại Công văn/văn bản số... ngày... tháng... năm ... của (1);*
+*Theo đề nghị của .....*
+Sau khi xem xét, Bộ Nông nghiệp và Môi trường xác nhận kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng từ:
+1. Tên dự án, mã số dự án: ...............................................................................
+2. Lượng kết quả giảm phát thải/tín chỉ các-bon rừng được cung ứng như sau:
+- Lượng kết quả giảm phát thải/tín chỉ các-bon được cung ứng/chuyển nhượng không cần thư chấp thuận chuyển giao quốc tế hoặc để giảm phát thải khí nhà kính tự nguyện/bên nhận chuyển nhượng cho phép bên chuyển nhượng được giữ lại để tính NDC: ... (bằng chữ: ...)
+- Lượng kết quả giảm phát thải/tín chỉ các-bon được cung ứng/chuyển nhượng cần thư chấp thuận chuyển giao quốc tế hoặc để chuyển nhượng trên sàn giao dịch các-bon/bên nhận chuyển nhượng không cho phép bên chuyển nhượng được giữ lại để tính NDC: ... (bằng chữ: ...)
+Bộ Nông nghiệp và Môi trường thông báo để ....(1).... biết.
+| Nơi nhận: - Như trên; - ....; - Lưu:.... | THỦ TRƯỞNG CƠ QUAN *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+Ghi chú: (1) Tên tổ chức đề nghị xác nhận.
+PHỤ LỤC III
+HƯỚNG DẪN PHÂN BỔ MỤC TIÊU GIẢM PHÁT THẢI KHÍ NHÀ KÍNH DO QUỐC GIA TỰ QUYẾT ĐỊNH
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+1.* *Phân bổ cho các địa phương
+Tổng điểm để tính phân bổ của tỉnh *t, Pt*, điều chỉnh theo các hệ số điều chỉnh *Kr* và *KMRr,t* được tính bằng công thức sau:
+Trong đó:
+*t* là số thứ tự của tỉnh; *l* là số trạng thái rừng; *r* (*r* = 1,2, ...,*l*) là số thứ tự trạng thái rừng; *Sr,t* là diện tích trạng thái rừng *r* của tỉnh *t*; *Kr* là hệ số điều chỉnh theo tiềm năng tăng trưởng các-bon của trạng thái rừng *r*; *KMRr,t* là hệ số điều chỉnh theo mức độ mất rừng tự nhiên trong lịch sử của trạng thái rừng r thuộc tỉnh *t*.
+Tỷ lệ phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp cho tỉnh *t, Rt,* được tính bằng công thức sau:
+Trong đó:
+*Pt* là tổng điểm để tính phân bổ của tỉnh *t* (được tính bằng công thức (1) ở trên); *m* là số tỉnh có rừng; *t *(*t *= 1,2, ..., *m*) là số thứ tự của tỉnh.
+Lượng phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp được phân bổ cho tỉnh *t, Et* (đơn vị tính là tấn CO2tđ), được tính bằng công thức sau:
+*Et = Etq x Rt                                                                     (3)*
+Trong đó:
+*Etq* là mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp của toàn quốc, đơn vị tính là tấn CO2tđ; *Rt* là tỷ lệ phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định cho tỉnh *t*, được tính theo công thức *(2)* ở trên.
+2.* *Phân bổ cho các chủ rừng, chủ thể được giao quản lý rừng
+Tổng điểm để tính phân bổ của chủ rừng *cr *thuộc tỉnh *t, Pcr,t,* điều chỉnh theo các hệ số điều chỉnh *Kr* và *KMRr,t* được tính bằng công thức sau:
+Trong đó:
+*cr* là số thứ tự của chủ rừng; *l* là số trạng thái rừng; *r* (*r* = 1,2, ...,*l*) là số thứ tự trạng thái rừng; *Scr,r,t* là diện tích trạng thái rừng *r* của chủ rừng *cr* thuộc tỉnh *t*; *Kr* là hệ số điều chỉnh theo tiềm năng tăng trưởng các-bon của trạng thái rừng *r; KMRr,t* là hệ số điều chỉnh theo mức độ mất rừng tự nhiên trong lịch sử của trạng thái rừng *r* thuộc tỉnh *t*.
+Tỷ lệ phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp cho chủ rừng *cr* thuộc tỉnh *t, Rcr,t*, được tính bằng công thức sau:
+Trong đó:
+*Pcr,t* là tổng điểm để tính phân bổ của chủ rừng *cr* thuộc tỉnh *t* (được tính bằng công thức (4) ở trên); *Nt* là số chủ rừng của tỉnh *t; cr* (*t*= 1, 2, ..., *Nt*)) là số thứ tự của chủ rừng thuộc tỉnh *t*.
+Lượng phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp được phân bổ cho chủ rừng cr thuộc tỉnh *t, Ecr,t* (đơn vị tính là tấn CO2tđ), được tính bằng công thức sau:
+*Ecr,t = Et x Rcr,t                                                    (6)*
+Trong đó:
+*Et* là lượng đóng góp giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp của tỉnh *t* (được tính theo công thức *(3)* ở trên), đơn vị tính là tấn CO2tđ; *Rcr,t* là tỷ lệ phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp cho chủ rừng *cr* thuộc tỉnh *t*, được tính theo công thức *(5)* ở trên.
+3.* *Nguồn dữ liệu
+- Lượng phân bổ mục tiêu giảm phát thải khí nhà kính do quốc gia tự quyết định trong lĩnh vực lâm nghiệp của toàn quốc (*Etq*): từ báo cáo cập nhật NDC mới nhất;
+- Diện tích các trạng thái rừng theo từng tỉnh *(Sr,t)* và diện tích các trạng thái rừng của từng chủ rừng theo từng tỉnh *(Scr,r,t):* do Bộ Nông nghiệp và Môi trường và các địa phương công bố của năm liền kề trước năm tính phân bổ.
+- Các hệ số điều chỉnh *Kr* và *KMRr,t* : do Bộ Nông nghiệp và Môi trường quy định tại thời điểm tính phân bổ.
+PHỤ LỤC IV
+MẪU HỢP ĐỒNG TRAO ĐỔI, CHUYỂN NHƯỢNG KẾT QUẢ GIẢM PHÁT THẢI, TÍN CHỈ CÁC-BON RỪNG
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+-------------
+HỢP ĐỒNG
+TRAO ĐỔI, CHUYỂN NHƯỢNG KẾT QUẢ GIẢM PHÁT THẢI, TÍN CHỈ CÁC-BON RỪNG
+Hợp đồng số: .../20.../HĐ
+*Căn cứ Bộ luật Dân sự...;*
+*Căn cứ Luật Thương mại ...;*
+*Căn cứ Luật Lâm nghiệp ...;*
+*Căn cứ Nghị định số...../20.../NĐ-CP ngày... tháng... năm ... của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng;*
+*Căn cứ nhu cầu và khả năng thực tế của các bên.*
+Hôm nay, ngày ..... tháng ...... năm .......
+Tại địa điểm: ...................................................................................................................
+Chúng tôi gồm có:
+I.* *BÊN CUNG ỨNG (BÊN A)
+Tên tổ chức/doanh nghiệp: ………………………………………………………………….....
+Mã số doanh nghiệp: …………………………………………………………………...............
+Địa chỉ trụ sở chính: …………………………………………………………………................
+Điện thoại: ......................................... Email: .......................................................................
+Đại diện theo pháp luật là ông (bà): .....................................................................................
+Chức vụ: ...............................................................................................................................
+CCCD số: .......................... ; cấp ngày: ........................ ; nơi cấp: .......................................
+Giấy ủy quyền số: ............................................ (nếu có); ngày .... tháng ... năm ...
+Do ông (bà): .........................................., chức vụ: ........................................., ký.
+II.* *BÊN SỬ DỤNG DỊCH VỤ (BÊN B)
+Tên tổ chức/doanh nghiệp: ................................................................................................
+Mã số doanh nghiệp: ……………………………………….............…………………………...
+Địa chỉ trụ sở chính: …………………………………………................………………………..
+Điện thoại: ............................................... Email: ................................................................
+Tài khoản ngân hàng số: ........…………………………………………………………………...
+Mở tại ngân hàng: ………………………………………………………………….....................
+Đại diện theo pháp luật là ông (bà): ....................................................................................
+Chức vụ: …………………………………………………………………....................................
+CCCD số: ................; cấp ngày: ........................; nơi cấp: ..................................................
+Giấy ủy quyền số: ..........................(nếu có); ngày .... tháng ..... năm ....
+Do ông (bà): ...................................., chức vụ: ............................, ký.
+Trên cơ sở thỏa thuận, hai bên thống nhất ký kết hợp đồng cung ứng dịch vụ hấp thụ và lưu giữ các-bon của rừng với các điều khoản như sau:
+Điều 1. Đối tượng hợp đồng, giá trị hợp đồng và tạm ứng, thanh toán
+1. Đối tượng hợp đồng:
+- Tên dự án các-bon rừng: ………………………………………………………………….....
+- Tiêu chuẩn áp dụng: …………………………………………………………………............
+- Loại kết quả giảm phát thải/tín chỉ các-bon rừng: …………………………………...........
+- Số lượng: ...
+- Năm tạo tín chỉ các-bon rừng: ...
+2. Giá trị hợp đồng:
+| STT | Loại kết quả giảm phát thải/tín chỉ các-bon rừng | Đơn vị tính | Số lượng | Đơn giá1 (Đồng) | Thành tiền (Đồng) | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |   |
+*(Số tiền bằng chữ: ....................................................................đồng)*
+3. Tạm ứng (nếu có): ...
+4. Thời hạn thanh toán:
+Bên B thanh toán cho Bên A số tiền ghi tại Điều 1 của hợp đồng này:
+- Lần 1: trước ngày ... tháng ... năm
+- Lần 2: trước ngày ... tháng ... năm
+- ...
+5. Hình thức thanh toán: ....................................................................................................
+6. Tài khoản tiếp nhận tiền thanh toán từ Bên B:
+- Tên tài khoản: ..................................................................................................................
+- Số tài khoản: ....................................................................................................................
+- Tại Ngân hàng: ................................................................................................................
+- Mã số ngân hàng: ............................................................................................................
+*(Trường hợp Bộ Nông nghiệp và Môi trường chuyển nhượng, Quỹ Bảo vệ và phát triển rừng Việt Nam là đơn vị nhận ủy thác, tiếp nhận và quản lý, sử dụng nguồn tiền theo quy định; đối với trường hợp Ủy ban nhân dân cấp tỉnh chuyển nhượng, Quỹ Bảo vệ và phát triển rừng cấp tỉnh là đơn vị nhận ủy thác, tiếp nhận và quản lý, sử dụng nguồn tiền theo quy định).*
+Điều 2. Thời gian chuyển giao kết quả giảm phát thải/tín chỉ các-bon rừng
+1. Lượng, loại kết quả giảm phát thải/tín chỉ các-bon rừng chuyển giao: ...
+2. Thời gian chuyển giao: (ghi rõ cho thời gian cụ thể cho từng lần giao hàng).
+3. Bên A được sử dụng ... (%) kết quả giảm phát thải/tín chỉ các-bon rừng đã chuyển giao cho Bên B tại khoản 2 Điều này để đóng góp vào NDC của Bên A *(nếu có)*.
+Điều 3. Trách nhiệm của Bên A
+1. Chuyển giao lượng giảm phát thải/tín chỉ các-bon rừng theo đúng cam kết tại Điều 2 hợp đồng này.
+2. Kết quả giảm phát thải/tín chỉ các-bon rừng đã được chuyển giao theo Điều 2 hợp đồng này thì không được chuyển nhượng cho bên thứ ba.
+3. Thực hiện thủ tục chấp thuận chuyển giao quốc tế kết quả giảm phát thải/tín chỉ các-bon rừng (nếu có).
+4. Thực hiện đầy đủ các trách nhiệm trong hợp đồng này và các trách nhiệm khác theo quy định của pháp luật hiện hành.
+...
+Điều 4. Trách nhiệm của Bên B
+1. Tiếp nhận lượng giảm phát thải/tín chỉ các-bon rừng và thanh toán theo đúng thời gian cam kết tại Điều 1 và Điều 2 hợp đồng này.
+2. Thanh toán cho Bên A theo giá trị hợp đồng, hình thức và thời hạn thanh toán quy định tại Điều 1 của hợp đồng này.
+3. Chuyển giao lại kết quả giảm phát thải/tín chỉ các-bon rừng cho Bên A để thực hiện đóng góp vào NDC (nếu có).
+4. Thực hiện đầy đủ các trách nhiệm trong hợp đồng này và các trách nhiệm khác theo quy định của pháp luật hiện hành.
+...
+Điều 5. Ngừng thanh toán tiền, chuyển giao kết quả giảm phát thải/tín chỉ các-bon rừng
+1. Bên B có quyền ngừng thanh toán cho Bên A trong các trường hợp sau:
+a) Bên B có bằng chứng về việc Bên A gian lận trong việc chuyển nhượng kết quả giảm phát thải/tín chỉ các-bon rừng.
+b) Bên B có bằng chứng về việc kết quả giảm phát thải/tín chỉ các-bon rừng đang là đối tượng bị tranh chấp thì có quyền tạm ngừng thanh toán cho đến khi việc tranh chấp đã được giải quyết.
+c) Bên B có bằng chứng về việc Bên A đã giao hàng không đúng loại, thời hạn giao kết quả giảm phát thải/tín chỉ các-bon rừng cam kết tại Điều 1 hợp đồng này thì có quyền tạm ngừng thanh toán cho đến khi Bên A đã khắc phục.
+d) Trường hợp tạm ngừng thanh toán theo quy định tại khoản 2 và khoản 3 Điều này mà bằng chứng do Bên B đưa ra không xác thực, gây thiệt hại cho Bên A thì Bên B phải bồi thường thiệt hại đó và chịu các chế tài khác theo quy định của pháp luật.
+đ) Xảy ra sự kiện bất khả kháng theo quy định tại Điều 7 của hợp đồng.
+...
+2. Bên A có quyền ngừng giao hàng cho Bên B trong các trường hợp sau:
+a) Trong trường hợp Bên B không thanh toán đúng hạn, quá ... ngày kể từ ngày đến hạn theo quy định tại Điều 1 hợp đồng này, Bên A có quyền tạm ngừng giao hàng cho đến khi Bên B hoàn thành nghĩa vụ thanh toán.
+Đồng thời, Bên B phải thanh toán lãi chậm trả đối với số tiền chậm thanh toán, tính theo mức lãi suất ...%/năm, tương ứng với thời gian chậm trả và chịu phạt vi phạm theo quy định tại Điều 6 hợp đồng này.
+b) Bên B vi phạm nghĩa vụ nhận kết quả giảm phát thải/tín chỉ các-bon rừng hoặc các nghĩa vụ khác gây ảnh hưởng trực tiếp đến việc thực hiện hợp đồng;
+c) Xảy ra sự kiện bất khả kháng theo quy định tại Điều ... của hợp đồng.
+...
+Điều 6. Điều khoản phạt vi phạm hợp đồng
+1. Hai bên cam kết thực hiện nghiêm chỉnh các điều khoản đã thỏa thuận trên, không được đơn phương thay đổi hoặc hủy bỏ hợp đồng.
+2. Bên nào vi phạm các điều khoản quy định tại hợp đồng này thì sẽ bị phạt tới ...% giá trị hợp đồng. Mức phạt cụ thể do hai bên thỏa thuận dựa trên khung phạt Nhà nước đã quy định trong các văn bản pháp luật về loại hợp đồng này.
+...
+Điều 7. Xử lý trường hợp bất khả kháng
+1. Sự kiện bất khả kháng là các sự kiện xảy ra một cách khách quan và nằm ngoài tầm kiểm soát của các bên như động đất, bão, lũ lụt, lốc, sóng thần, lở đất, hỏa hoạn, chiến tranh, nguy cơ xảy ra chiến tranh và các thảm họa khác chưa lường trước được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền dẫn đến không bàn giao được kết quả giảm phát thải/tín chỉ các-bon rừng theo cam kết tại hợp đồng này.
+2. Trong trường hợp xảy ra sự kiện bất khả kháng khiến cho mỗi bên không thể thực hiện hoặc thực hiện không đầy đủ quyền và nghĩa vụ của mình theo hợp đồng này thì trách nhiệm bồi thường thiệt hại của mỗi bên được loại trừ.
+3. Khi có sự kiện bất khả kháng xảy ra, bên bị ảnh hưởng có nghĩa vụ thông báo cho bên kia về sự kiện bất khả kháng xảy ra trong vòng ... ngày kể từ khi xảy ra sự kiện, đề xuất phương án xử lý và nỗ lực giảm thiểu tổn thất, thiệt hại đến mức thấp nhất có thể.
+4. Khi sự kiện bất khả kháng xảy ra thì nghĩa vụ của các bên tạm thời không thực hiện và sẽ ngay lập tức phục hồi lại các nghĩa vụ của mình theo hợp đồng khi chấm dứt sự kiện bất khả kháng hoặc sự kiện bất khả kháng đó bị loại bỏ.
+...
+Điều 8. Giải quyết tranh chấp
+Trong quá trình thực hiện hợp đồng, nếu có vướng mắc từ bất kỳ bên nào, hai bên sẽ cùng nhau giải quyết trên tinh thần hợp tác. Trong trường hợp không tự giải quyết được, hai bên thống nhất đưa ra giải quyết tại Tòa án có thẩm quyền. Phán quyết của tòa án là quyết định cuối cùng, có giá trị ràng buộc các bên.
+...
+Điều 9. Điều khoản chung
+1. Hợp đồng này có hiệu lực từ ngày ký và tự động thanh lý hợp đồng kể từ khi Bên B đã nhận đủ kết quả giảm phát thải/tín chỉ các-bon rừng và Bên A đã nhận đủ tiền.
+2. Hợp đồng này có giá trị thay thế mọi giao dịch, thỏa thuận trước đây của hai bên. Mọi sự bổ sung, sửa đổi hợp đồng này đều phải có sự đồng ý bằng văn bản của hai bên.
+3. Trừ các trường hợp được quy định ở trên, hợp đồng này không thể bị hủy bỏ nếu không có thỏa thuận bằng văn bản của các bên. Trong trường hợp hủy hợp đồng, trách nhiệm liên quan tới phạt vi phạm và bồi thường thiệt hại được bảo lưu.
+4. Hợp đồng này được làm thành .............. bản, có giá trị như nhau. Mỗi bên giữ ........... bản và có giá trị pháp lý như nhau.
+| ĐẠI DIỆN BÊN A Chức vụ *(Ký, ghi rõ họ tên và đóng dấu)* | ĐẠI DIỆN BÊN B Chức vụ *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+___________________________
+1 Giá trao đổi, chuyển nhượng theo đàm phán giữa hai bên; thuế, phí và lệ phí thực hiện theo quy định hiện hành. Trường hợp phát sinh phí cấp tín chỉ các-bon rừng ..., hai bên thỏa thuận, thống nhất chi tiết tại hợp đồng.
+PHỤ LỤC V
+XÁC ĐỊNH SỐ TIỀN ĐIỀU PHỐI CHO QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG CẤP TỈNH, CHỦ RỪNG, ỦY BAN NHÂN DÂN CẤP XÃ VÀ TỔ CHỨC KHÁC ĐƯỢC NHÀ NƯỚC GIAO TRÁCH NHIỆM QUẢN LÝ RỪNG
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+I. XÁC ĐỊNH SỐ TIỀN ĐIỀU PHỐI TỪ QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG VIỆT NAM CHO QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG CẤP TỈNH
+Hằng năm, căn cứ số thực thu trong năm tài chính, lãi tiền gửi (nếu có), diện tích rừng cung ứng dịch vụ năm trước liền kề, kết quả giảm phát thải hoặc tín chỉ các-bon rừng của từng địa phương do Bộ Nông nghiệp và Môi trường thông báo; Giám đốc Quỹ Bảo vệ và phát triển rừng Việt Nam xác định số tiền điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh theo công thức sau:
+1. Xác định số tiền điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh từ một bên sử dụng:
+Trong đó:
+- *Ti* là số tiền điều phối trong năm cho tỉnh, thành phố *i* (đồng), (*i* là một trong các tỉnh, thành phố có diện tích rừng cung ứng dịch vụ thuộc hợp đồng do Bộ Nông nghiệp và Môi trường ký).
+- *T* là số tiền thu được từ hợp đồng ủy thác qua Quỹ Bảo vệ và phát triển rừng Việt Nam (đồng).
+- *C* là kinh phí trích tại Quỹ Bảo vệ và phát triển rừng Việt Nam (đồng).
+- *Si* là diện tích rừng tham gia dự án các-bon rừng của tỉnh, thành phố *i* (ha). Căn cứ xác định diện tích rừng là kết quả điều tra, kiểm kê rừng theo chu kỳ; kết quả theo dõi diễn biến rừng hằng năm.
+- *S* là tổng diện tích rừng tham gia dự án các-bon rừng của các tỉnh, thành phố thuộc hợp đồng do Bộ Nông nghiệp và Môi trường ký (ha). - *Gi* là kết quả giảm phát thải hoặc tín chỉ các-bon rừng của tỉnh, thành phố *i* theo thông báo của Bộ Nông nghiệp và Môi trường.
+- *G* là tổng kết quả giảm phát thải hoặc tín chỉ các-bon rừng trao đổi, chuyển nhượng của các tỉnh, thành phố theo thông báo của Bộ Nông nghiệp và Môi trường (tấn CO2).
+2. Xác định tổng số tiền điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh từ nhiều bên sử dụng dịch vụ:
+*Tig *= *Ti1* + *Ti2* + ... + *Tin                                                 (2)*
+Trong đó:
+*Tig *là tổng số tiền điều phối cho Quỹ bảo vệ và phát triển rừng cấp tỉnh (đồng).
+*Ti1* là số tiền chi trả từ bên sử dụng dịch vụ thứ 1 (đồng).
+*Ti2 *là số tiền chi trả từ bên sử dụng dịch vụ thứ 2 (đồng).
+*Tin* là số tiền chi trả từ bên sử dụng dịch vụ thứ *n* (đồng).
+II. XÁC ĐỊNH SỐ TIỀN CHI TRẢ CHO CHỦ RỪNG, ỦY BAN NHÂN DÂN CẤP XÃ VÀ TỔ CHỨC KHÁC ĐƯỢC NHÀ NƯỚC GIAO TRÁCH NHIỆM QUẢN LÝ RỪNG
+1. Số tiền Quỹ Bảo vệ và phát triển rừng cấp tỉnh thực thu trong năm tài chính là số tiền thu được từ ngày 01 tháng 01 đến ngày 31 tháng 12, gồm: số tiền điều phối từ Quỹ Bảo vệ và phát triển rừng Việt Nam, số tiền thu từ các hợp đồng do Ủy ban nhân dân cấp tỉnh ký với bên sử dụng dịch vụ và lãi tiền gửi (nếu có).
+Số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng được xác định trên cơ sở diện tích rừng tham gia dự án các-bon rừng.
+2. Căn cứ vào số tiền thực thu trong năm tài chính và diện tích rừng theo kết quả diễn biến rừng của năm trước liền kề, Giám đốc Quỹ Bảo vệ và phát triển rừng cấp tỉnh xác định số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng theo công thức:
+a) Xác định số tiền chi trả cho 01 ha rừng từ một bên sử dụng dịch vụ:
+Trong đó:
+*Ta* là số tiền chi trả cho 01 ha rừng (đồng/ha).
+*Ty* là số tiền do Quỹ Bảo vệ và phát triển rừng cấp tỉnh thực thu trong năm (đồng).
+*Cy* là kinh phí trích tại Quỹ Bảo vệ và phát triển rừng cấp tỉnh (đồng).
+b) Xác định số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng từ một bên sử dụng dịch vụ:
+*Tp = Ta x Sp                                                                       (4)*
+Trong đó:
+*Tp* là số tiền chi trả cho bên cung ứng dịch vụ (đồng).
+*Sp* là diện tích rừng của chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng tham gia dự án các-bon rừng (ha).
+c) Xác định tổng số tiền chi trả cho chủ rừng, Ủy ban nhân dân cấp xã và tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng thu được từ nhiều bên sử dụng dịch vụ:
+*Tpg = Tp1 + Tp2 + ...+ Tpn                                                    (5)*
+Trong đó:
+*Tpg* là tổng số tiền chi trả (đồng).
+*Tp1* là số tiền chi trả từ bên sử dụng dịch vụ thứ 1 (đồng).
+*Tp2* là số tiền chi trả từ bên sử dụng dịch vụ thứ 2 (đồng).
+*Tpn* là số tiền chi trả từ bên sử dụng dịch vụ thứ *n* (đồng).
+d) Quỹ Bảo vệ và phát triển rừng cấp tỉnh phối hợp với các cơ quan liên quan tổng hợp diện tích rừng và đối tượng được hưởng lợi, trình Ủy ban nhân dân cấp tỉnh hoặc thủ trưởng cơ quan chuyên môn được Ủy ban nhân dân cấp tỉnh giao trách nhiệm quyết định theo thẩm quyền và quy định của pháp luật.
+III. XÁC ĐỊNH SỐ TIỀN CHI TRẢ CHO BÊN NHẬN KHOÁN BẢO VỆ RỪNG
+1. Hằng năm, bên khoán bảo vệ rừng (sau đây gọi là bên khoán) xác định số tiền chi trả cho bên nhận khoán bảo vệ rừng (sau đây gọi là bên nhận khoán) theo số tiền thực nhận từ Quỹ Bảo vệ và phát triển rừng cấp tỉnh.
+2. Xác định mức khoán bảo vệ rừng cho 01 ha từ một bên sử dụng dịch vụ:
+Trong đó:
+*Rc* là mức khoán bảo vệ rừng cho 01 ha (đồng/ha).
+*Tc* là số tiền bên khoán nhận được cho diện tích khoán (đồng).
+*Cm* là kinh phí quản lý của bên khoán (đồng).
+*Sc* là diện tích rừng khoán bảo vệ rừng tham gia dự án các-bon rừng (ha).
+3. Xác định số tiền chi trả cho bên nhận khoán từ một bên sử dụng dịch vụ:
+*Tcp = Rc x Scp                                                                        (7)*
+Trong đó:
+*Tcp* là số tiền chi trả cho bên nhận khoán (đồng).
+*Rc* là mức khoán bảo vệ rừng cho 01 ha (đồng/ha).
+*Scp* là diện tích rừng nhận khoán tham gia dự án các-bon rừng (ha).
+4. Xác định tổng số tiền chi trả cho bên nhận khoán từ nhiều bên sử dụng dịch vụ:
+*Tcpg* = *Tcp1 + Tcp2 + ... + Tcpn                                             (8)*
+Trong đó:
+*Tcpg *là tổng số tiền chi trả cho bên nhận khoán (đồng).
+*Tcp1 *là số tiền chi trả cho diện tích khoán từ bên sử dụng dịch vụ thứ 1 (đồng).
+*Tcp2* là số tiền chi trả cho diện tích khoán từ bên sử dụng dịch vụ thứ 2 (đồng).
+*Tcpn* là số tiền chi trả cho diện tích khoán từ bên sử dụng dịch vụ thứ *n* (đồng).
+PHỤ LỤC VI
+MẪU KẾ HOẠCH TÀI CHÍNH, BÁO CÁO KẾT QUẢ THỰC HIỆN VÀ THÔNG BÁO TÌNH HÌNH CHI TRẢ
+*(Kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ)*
+| Mẫu số 01 | Kế hoạch tài chính của Quỹ Bảo vệ và phát triển rừng Việt Nam |
+| --- | --- |
+| Mẫu số 02 | Kế hoạch tài chính của Quỹ Bảo vệ và phát triển rừng cấp tỉnh |
+| Mẫu số 03 | Quyết định phê duyệt kế hoạch tài chính |
+| Mẫu số 04 | Báo cáo kết quả thực hiện dịch vụ |
+| Mẫu số 05 | Thông báo tình hình chi trả tiền dịch vụ cho bên sử dụng dịch vụ |
+Mẫu số 01. Kế hoạch tài chính của Quỹ Bảo vệ và phát triển rừng Việt Nam
+| CƠ QUAN CHỦ QUẢN QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | *..., ngày ... tháng .... năm ...* |
+KẾ HOẠCH TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG VIỆT NAM
+NĂM ...
+*(Kèm theo Văn bản số ....... ngày ... tháng... năm ... của Quỹ Bảo vệ và phát triển rừng Việt Nam)*
+I.* *CĂN CỨ LẬP
+...
+II. TỔNG HỢP KẾ HOẠCH TÀI CHÍNH
+| TT | Nội dung | Số tiền | Ghi chú |
+| --- | --- | --- | --- |
+|  |  | Nguyên tệ | Đồng |  |
+| A | B | 1 | 2 |  |
+| I | Tổng thu |  |  |  |
+| 1 | Thu từ bên sử dụng |  |  |  |
+| 2 | Lãi tiền gửi (nếu có) |  |  |  |
+| II | Kế hoạch chi |  |  |  |
+| 1 | Kinh phí trích tại Quỹ Bảo vệ và phát triển rừng Việt Nam |  |  |  |
+| *1.1* | *Kinh phí quản lý* |  |  |  |
+| *1.2* | *Chi cho các hoạt động hỗ trợ* |  |  |  |
+| 2 | Kinh phí điều phối cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh |  |  |  |
+|  | Tổng cộng |  |  |  |
+III. CHI TIẾT TỔNG THU TRONG NĂM
+| TT | Đơn vị nộp tiền | Số tiền | Ghi chú |
+| --- | --- | --- | --- |
+|  |  | Nguyên tệ | Đồng |  |
+| A | B | 1 | 2 | C |
+| 1 | Năm trước chuyển sang |  |  |  |
+|  | ... |  |  |  |
+| 2 | Thu trong năm |  |  |  |
+|  | ... |  |  |  |
+|  | Tổng cộng |  |  |  |
+IV. CHI TIẾT KẾ HOẠCH CHI
+1. Dự toán chi nguồn kinh phí trích tại Quỹ Bảo vệ và phát triển rừng Việt Nam
+| TT | Nội dung chi | Đơn vị tính | Số lượng | Đơn giá (đồng) | Thành tiền (đồng) | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | B | C | 1 | 2 | 3 = 1*2 | 4 |
+| 1 | Kinh phí quản lý |  |  |  |  |  |
+| ... |  |  |  |  |  |  |
+| 2 | Chi cho các hoạt động hỗ trợ |  |  |  |  |  |
+|  | ... |  |  |  |  |  |
+|  | Tổng cộng |  |  |  |  |  |
+2. Kế hoạch điều phối tiền cho Quỹ Bảo vệ và phát triển rừng cấp tỉnh
+| TT | Quỹ Bảo vệ và phát triển rừng cấp tỉnh | Diện tích rừng cung ứng dịch vụ (Si) | Kết quả giảm phát thải hoặc lượng tín chỉ các-bon của tỉnh (Gi) | Tỷ lệ điều phối ((Si+Gi)/2) | Số tiền điều phối |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | Nguyên tệ | Đồng |
+| A | B | 1 | 2 | 3 | 4 | 5 |
+|  | ... |  |  |  |  |  |
+|  | ... |  |  |  |  |  |
+|  | Tổng cộng |  |  |  |  |  |
+V. THUYẾT MINH
+...
+|  | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên, và đóng dấu)* |
+| --- | --- |
+Mẫu số 02. Kế hoạch tài chính của Quỹ Bảo vệ và phát triển rừng cấp tỉnh
+| CƠ QUAN CHỦ QUẢN QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH ... ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | *..., ngày ... tháng .... năm ...* |
+KẾ HOẠCH TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG CẤP TỈNH
+NĂM ...
+*(Kèm theo Văn bản số ......... ngày .. tháng ... năm ... của Quỹ Bảo vệ và phát triển rừng tỉnh......)*
+I.* *CĂN CỨ LẬP
+...
+II. TỔNG HỢP KẾ HOẠCH TÀI CHÍNH
+| TT | Nội dung | Số tiền | Ghi chú |
+| --- | --- | --- | --- |
+|  |  | Nguyên tệ | Đồng |  |
+| A | B | 1 | 2 | C |
+| I | Tổng thu |  |  |  |
+| 1 | Điều phối từ Quỹ Bảo vệ và phát triển rừng Việt Nam |  |  |  |
+| 2 | Thu từ bên sử dụng dịch vụ |  |  |  |
+| 3 | Lãi tiền gửi (nếu có) |  |  |  |
+| II | Kế hoạch chi |  |  |  |
+| 1 | Kinh phí trích tại Quỹ Bảo vệ và phát triển rừng cấp tỉnh |  |  |  |
+| *1.1* | *Kinh phí quản lý* |  |  |  |
+| ... |  |  |  |  |
+| *1.2* | *Chi cho các hoạt động hỗ trợ* |  |  |  |
+| ... |  |  |  |  |
+| 2 | Chi cho bên cung ứng dịch vụ |  |  |  |
+| ... |  |  |  |  |
+|  | Tổng cộng |  |  |  |
+III. CHI TIẾT TỔNG THU TRONG NĂM
+| TT | Đơn vị sử dụng dịch vụ | Số tiền | Ghi chú |
+| --- | --- | --- | --- |
+|  |  | Nguyên tệ | Đồng |  |
+| A | B | 1 | 2 | C |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | ... |  |  |  |
+|  | Tổng cộng |  |  |  |
+IV. CHI TIẾT KẾ HOẠCH CHI
+1. Dự toán chi kinh phí trích tại Quỹ Bảo vệ và phát triển rừng cấp tỉnh
+| TT | Nội dung chi | Đơn vị tính | Số lượng | Đơn giá (đồng) | Thành tiền (đồng) | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | B | C | 1 | 2 | 3 = 1*2 | D |
+| I | Kinh phí quản lý |  |  |  |  |  |
+| ... |  |  |  |  |  |  |
+| II | Chi khác |  |  |  |  |  |
+| ... |  |  |  |  |  |  |
+|  | Tổng cộng |  |  |  |  |  |
+2. Kế hoạch chi tiền cho bên cung ứng dịch vụ
+| TT | Bên cung ứng dịch vụ | Diện tích rừng cung ứng dịch vụ (ha) | Số lượng (hộ) | Số tiền chi trả (đồng) | Thời gian thực hiện chi trả |
+| --- | --- | --- | --- | --- | --- |
+| A | B | 1 | 2 | 3 | C |
+| I | Chủ rừng là tổ chức (chi tiết cho từng chủ rừng) |  |  |  |  |
+| .. | ... |  |  |  |  |
+| II | Chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư |  |  |  |  |
+| ... | ... |  |  |  |  |
+| ... | ... |  |  |  |  |
+| III | Ủy ban nhân dân cấp xã được Nhà nước giao trách nhiệm quản lý rừng (chi tiết cho từng đơn vị) |  |  |  |  |
+| ... | ... |  |  |  |  |
+| ... | ... |  |  |  |  |
+| IV | Tổ chức khác được Nhà nước giao trách nhiệm quản lý rừng (chi tiết cho từng tổ chức) |  |  |  |  |
+| ... | ... |  |  |  |  |
+|  | Tổng cộng |  |  |  |  |
+V. THUYẾT MINH
+...
+|  | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên, chức vụ, đóng dấu)* |
+| --- | --- |
+Mẫu số 03. Quyết định phê duyệt kế hoạch tài chính
+| CƠ QUAN CHỦ QUẢN ĐƠN VỊ ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+| Số: | *..., ngày ... tháng .... năm ...* |
+QUYẾT ĐỊNH
+Về việc phê duyệt kế hoạch tài chính đối với nguồn thu từ dịch vụ hấp thụ và lưu giữ các-bon của rừng năm ...
+THỦ TRƯỞNG ĐƠN VỊ CƠ QUAN ...
+*Căn cứ Nghị định số .../.../NĐ-CP ngày ... tháng ... năm ... của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng;*
+*Căn cứ ... ;*
+*Xét đề nghị của ...;*
+...
+*Theo đề nghị của ...*
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt kế hoạch tài chính năm ... Quỹ Bảo vệ và phát triển rừng ..., cụ thể:
+1. Tổng thu: ...
+2. Tổng chi: ...
+Chi tiết tại Phụ lục kèm theo.
+Điều 2. Trách nhiệm tổ chức thực hiện kế hoạch tài chính được phê duyệt; báo cáo định kỳ và kiểm tra, giám sát của cơ quan có thẩm quyền theo quy định.
+Điều 3. Chánh Văn phòng ..., Thủ trưởng ... và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+| *Nơi nhận:* - Như Điều 3; - ... - Lưu: VT, ... | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+Mẫu số 04. Báo cáo kết quả thực hiện dịch vụ
+| CƠ QUAN CHỦ QUẢN ĐƠN VỊ BÁO CÁO ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | *..., ngày ... tháng .... năm ...* |
+BÁO CÁO KẾT QUẢ THỰC HIỆN DỊCH VỤ ...
+Năm:...
+Đơn vị ... báo cáo kết quả thực hiện dịch vụ như sau:
+1. Tổng thu
+...
+2. Tổng chi
+- Tổng chi:
+- Diện tích được chi trả:
+3. Đề xuất, kiến nghị
+...
+| *Nơi nhận:* - Cấp có thẩm quyền; - Lưu: VT, ... | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+Mẫu số 05. Thông báo tình hình chi trả tiền dịch vụ cho bên sử dụng dịch vụ
+| CƠ QUAN CHỦ QUẢN ĐƠN VỊ BÁO CÁO ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | *..., ngày ... tháng .... năm ...* |
+THÔNG BÁO TÌNH HÌNH THỰC HIỆN CHI TRẢ TIỀN DỊCH VỤ
+Năm:...
+Đơn vị chi trả ... thông báo tình hình thực hiện chi trả dịch vụ năm ... như sau:
+1. Đối tượng sử dụng dịch vụ
+*(Ghi tên, tổ chức cá nhân sử dụng dịch vụ, hình thức chi trả, địa chỉ, số hợp đồng ký kết, ...).*
+2. Diện tích cung ứng
+- Diện tích rừng theo kế hoạch: ... ha.
+- Diện tích rừng được chi trả: ... ha.
+3. Tổng thu
+4. Tổng chi
+*(Chi tiết tình hình sử dụng kinh phí: kinh phí trích sử dụng tại đơn vị, kinh phí chi trả cho các đối tượng hưởng lợi).*
+5. Đề xuất, kiến nghị
+...
+| *Nơi nhận:* - Cấp có thẩm quyền; - Lưu: VT, ... | THỦ TRƯỞNG ĐƠN VỊ *(Ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |

@@ -1,0 +1,1263 @@
+| BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: 28/2023/TT-BTNMT | *Hà Nội, ngày 29 tháng 12 năm 2023* |
+THÔNG TƯ
+BAN HÀNH ĐỊNH MỨC KINH TẾ - KỸ THUẬT ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH VÀ KIỂM KÊ KHÍ NHÀ KÍNH LĨNH VỰC QUẢN LÝ CHẤT THẢI
+*Căn cứ Luật Bảo vệ môi trường ngày 17 tháng 11 năm 2020;*
+*Căn cứ Nghị định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường;*
+*Căn cứ Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn;*
+*Căn cứ Nghị định số 08/2022/NĐ-CP ngày 10 tháng 01 năm 2022 của Chính phủ về quy định chi tiết một số điều của Luật Bảo vệ môi trường;*
+*Theo đề nghị của Cục trưởng Cục Biến đổi khí hậu, Vụ trưởng Vụ Kế hoạch - Tài chính;*
+*Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư ban hành định mức kinh tế - kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải.*
+Điều 1. Ban hành kèm theo Thông tư này định mức kinh tế - kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải.
+Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2024.
+Điều 3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương, các đơn vị thuộc Bộ và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+| *Nơi nhận:* - Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ; - Văn phòng Quốc hội; - Văn phòng Chính phủ; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án Nhân dân tối cao; - UBTƯ Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - UBND các tỉnh, thành phố trực thuộc Trung ương; - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp); - Bộ trưởng, các Thứ trưởng Bộ Tài nguyên và Môi trường; - Sở TN&MT các tỉnh, thành phố trực thuộc Trung ương; - Công báo; Cổng TTĐT của Chính phủ; - Các đơn vị thuộc Bộ TN&MT; Cổng TTĐT Bộ TN&MT; - Lưu: VT, PC, KHTC, BĐKH. | KT. BỘ TRƯỞNG THỨ TRƯỞNG     Lê Công Thành |
+| --- | --- |
+ĐỊNH MỨC KINH TẾ - KỸ THUẬT
+ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH VÀ KIỂM KÊ KHÍ NHÀ KÍNH LĨNH VỰC QUẢN LÝ CHẤT THẢI
+*(Ban hành kèm theo Thông tư số 28/2023/TT-BTNMT ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Tài nguyên và Môi trường)*
+Phần I
+QUY ĐỊNH CHUNG
+1. Phạm vi điều chỉnh
+Định mức kinh tế - kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải (sau đây gọi tắt là định mức KT-KT) áp dụng cho những công việc sau:
+1.1. Kiểm kê khí nhà kính cấp lĩnh vực.
+1.2. Đo đạc, báo cáo, thẩm định kết quả giảm nhẹ phát thải khí nhà kính cấp lĩnh vực.
+1.2.1. Xây dựng đường phát thải cơ sở của lĩnh vực quản lý chất thải.
+1.2.2. Xây dựng kế hoạch giảm nhẹ phát thải khí nhà kính cấp lĩnh vực.
+1.2.3. Xây dựng phương án giám sát cấp lĩnh vực.
+1.2.4. Thực hiện đo đạc và xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính cấp lĩnh vực.
+1.3. Kiểm kê khí nhà kính cấp cơ sở.
+1.4. Đo đạc, báo cáo kết quả thực hiện các biện pháp giảm nhẹ phát thải khí nhà kính cấp cơ sở.
+1.4.1. Xây dựng đường phát thải cơ sở của lĩnh vực quản lý chất thải.
+1.4.2. Đo đạc mức giảm nhẹ phát thải khí nhà kính của cơ sở.
+1.4.3. Xây dựng phương án giám sát.
+1.4.4. Xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính của cơ sở xử lý chất thải.
+2. Đối tượng áp dụng
+Định mức KT-KT này áp dụng cho các cơ quan quản lý nhà nước, đơn vị sự nghiệp, doanh nghiệp, các tổ chức và cá nhân có liên quan đến hoạt động đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải sử dụng ngân sách nhà nước.
+Định mức KT-KT này được sử dụng để tính đơn giá sản phẩm đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải; làm căn cứ giao dự toán và quyết toán giá trị sản phẩm đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải.
+3. Cơ sở xây dựng định mức kinh tế - kỹ thuật
+- Luật Lưu trữ số 01/2011/QH13 ngày 11 tháng 11 năm 2011;
+- Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020;
+- Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn;
+- Nghị định số 08/2022/NĐ-CP ngày 10 tháng 01 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi trường;
+- Thông tư số 17/2022/TT-BTNMT ngày 15 tháng 11 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định kỹ thuật đo đạc, báo cáo, thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải;
+- Thông tư số 23/2023/TT-BTC ngày 25 tháng 4 năm 2023 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do Nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;
+- Thông tư số 16/2021/TT-BTNMT ngày 27 tháng 9 năm 2021 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định xây dựng định mức kinh tế - kỹ thuật thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường;
+- Thông tư số 01/2022/TT-BTNMT ngày 07 tháng 01 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định hướng dẫn Luật Bảo vệ môi trường về ứng phó với biến đổi khí hậu;
+- Thông tư số 03/2022/TT-BTNMT ngày 28 tháng 02 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường ban hành quy định kỹ thuật và định mức kinh tế - kỹ thuật về công tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu tài nguyên và môi trường;
+- Thông tư liên tịch số 53/2015/TTLT-BTNMT-BNV ngày 08 tháng 12 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường và Bộ trưởng Bộ Nội vụ ban hành quy định mã số và tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành điều tra tài nguyên môi trường;
+- Quyết định số 1267/QĐ-BTNMT ngày 08 tháng 6 năm 2020 của Bộ trưởng Bộ Tài nguyên và Môi trường về việc ban hành Danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản chưa đủ tiêu chuẩn nhận biết tài sản cố định hữu hình; danh mục tài sản cố định đặc thù; Danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình thuộc phạm vi quản lý của Bộ Tài nguyên và Môi trường;
+- Quyết định số 107/QĐ-BTNMT ngày 19 tháng 01 năm 2023 của Bộ trưởng Bộ Tài nguyên và Môi trường phê duyệt Chương trình xây dựng, ban hành văn bản quy phạm pháp luật năm 2023 của Bộ Tài nguyên và Môi trường.
+4. Quy định viết tắt
+Bảng số 01
+| TT | Chữ viết tắt | Nội dung viết tắt |
+| --- | --- | --- |
+| 1 | IPCC | Ban liên Chính phủ về biến đổi khí hậu |
+| 2 | CSDL | Cơ sở dữ liệu |
+| 3 | QA/QC | Đảm bảo chất lượng/Kiểm soát chất lượng |
+| 4 | ĐTV II.2 | Điều tra viên tài nguyên và môi trường hạng II bậc 2 hoặc tương đương |
+| 5 | ĐTV III.1 | Điều tra viên tài nguyên và môi trường hạng III bậc 1 hoặc tương đương |
+| 6 | ĐTV III.2 | Điều tra viên tài nguyên và môi trường hạng III bậc 2 hoặc tương đương |
+| 7 | ĐTV III.3 | Điều tra viên tài nguyên và môi trường hạng III bậc 3 hoặc tương đương |
+| 8 | ĐTV III.4 | Điều tra viên tài nguyên và môi trường hạng III bậc 4 hoặc tương đương |
+| 9 | ĐTV III.5 | Điều tra viên tài nguyên và môi trường hạng III bậc 5 hoặc tương đương |
+| 10 | ĐTV III.6 | Điều tra viên tài nguyên và môi trường hạng III bậc 6 hoặc tương đương |
+| 11 | MRV | Đo đạc, báo cáo, thẩm định |
+| 12 | ĐVT | Đơn vị tính |
+| 13 | HSPT | Hệ số phát thải |
+| 14 | BAU | Kịch bản phát triển thông thường |
+| 15 | TT | Số thứ tự |
+5. Thành phần Định mức kinh tế - kỹ thuật
+5.1. Định mức lao động
+- Nội dung công việc quy định trong định mức KT - KT bao gồm các hoạt động chính và hoạt động phụ để thực hiện công việc.
+- Định biên lao động: xác định số lượng và cấp bậc lao động cụ thể để thực hiện từng nội dung công việc trong chu trình lao động đến khi hoàn thành sản phẩm. Trong Thông tư này, việc xác định cấp bậc kỹ thuật để thực hiện nội dung công việc theo quy định tại Thông tư liên tịch số 53/2015/TTLT-BTNMT-BNV ngày 08 tháng 12 năm 2015 của Bộ Tài nguyên và Môi trường, Bộ Nội vụ: Quy định mã số và tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành điều tra tài nguyên môi trường.
+- Định mức lao động: là thời gian lao động trực tiếp cần thiết để hoàn thành một sản phẩm hoặc một công việc. Đơn vị tính là công cá nhân hoặc công nhóm/đơn vị sản phẩm (hoặc công việc). Một công (ca) làm việc tính là 08 giờ.
+5.2. Các định mức dụng cụ lao động; tiêu hao vật liệu; tiêu hao năng lượng; sử dụng máy móc, thiết bị: được quy định tại Điều 17, Điều 18, Điều 19, Điều 21 Thông tư số 16/2021/TT-BTNMT ngày 27 tháng 9 năm 2021 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định xây dựng định mức kinh tế - kỹ thuật thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường.
+6. Quy định khác
+Định mức này chỉ quy định cho các hoạt động trực tiếp đo đạc, báo cáo giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính lĩnh vực quản lý chất thải. Các hoạt động lập nhiệm vụ, quản lý chung, báo cáo tổng kết nhiệm vụ, thẩm định, kiểm tra, nghiệm thu, hội thảo (nếu có) và các hoạt động khác có liên quan được xác định trong quá trình lập nhiệm vụ theo quy định hiện hành.
+Trong quá trình áp dụng Định mức kinh tế - kỹ thuật này, nếu có vướng mắc hoặc phát hiện bất hợp lý, đề nghị phản ánh về Bộ Tài nguyên và Môi trường để tổng hợp, điều chỉnh kịp thời.
+Phần II
+ĐỊNH MỨC KINH TẾ - KỸ THUẬT
+Chương I
+KIỂM KÊ KHÍ NHÀ KÍNH CẤP LĨNH VỰC
+1. Định mức lao động
+*1.1. Nội dung công việc*
+1.1.1 Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực
+a) Phân tích và xác định các nguồn phát thải.
+b) Xác định phương pháp luận tương ứng cho từng nguồn phát thải, gồm: bãi chôn lấp chất thải rắn; xử lý chất thải rắn bằng phương pháp sinh học; thiêu đốt chất thải trong lò đốt; đốt lộ thiên chất thải; xử lý và xả thải nước thải sinh hoạt; xử lý và xả thải nước thải công nghiệp; các nguồn phát sinh khác.
+1.1.2. Lựa chọn hệ số phát thải khí nhà kính cấp lĩnh vực
+a) Rà soát và lựa chọn hệ số phát thải khí nhà kính, các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải.
+b) Tổng hợp các hệ số phát thải khí nhà kính, thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải khí nhà kính.
+c) Tổng hợp các hệ số nóng lên toàn cầu áp dụng cho từng loại khí nhà kính.
+1.1.3. Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực
+a) Xác định các số liệu hoạt động cần thiết của từng nguồn phát thải khí nhà kính theo yêu cầu của phương pháp luận.
+b) Thiết lập các biểu các thông số, số liệu hoạt động cần thu thập.
+c) Xác định nguồn cung cấp số liệu hoạt động.
+d) Đánh giá mức độ sẵn có của số liệu.
+đ) Thu thập số liệu hoạt động.
+e) Xử lý số liệu thu thập, hoàn thiện số liệu đầu vào phục vụ cho kiểm kê.
+g) Phân tích các rào cản và đề xuất giải pháp cải thiện cho lần thu thập số liệu kế tiếp.
+1.1.4. Tính toán phát thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực
+a) Thiết lập bảng tính.
+b) Xử lý các số liệu theo các phương pháp tính toán.
+c) Tổng hợp và trích xuất kết quả kiểm kê khí nhà kính.
+d) Đánh giá xu thế phát thải khí nhà kính cấp quốc gia theo lĩnh vực.
+- Tổng hợp kết quả khí nhà kính của các kỳ kiểm kê trước.
+- Xây dựng bảng đánh giá xu thế phát thải khí nhà kính các nguồn phát thải.
+- Tổng hợp kết quả đánh giá xu thế phát thải khí nhà kính cấp lĩnh vực.
+- Xây dựng báo cáo đánh giá xu thế phát thải khí nhà kính cấp lĩnh vực.
+đ) Đánh giá và đề xuất biện pháp cải thiện.
+- Phân tích khả năng nâng bậc kiểm kê khí nhà kính.
+- Rà soát, bổ sung nguồn phát thải khí nhà kính phát sinh khác.
+1.1.5. Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực
+a) Kiểm tra sự toàn diện, chính xác và đầy đủ của số liệu.
+b) Xác định và điều chỉnh các lỗi và thiếu sót.
+c) Kiểm tra tài liệu kiểm kê khí nhà kính.
+1.1.6. Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực
+a) Đánh giá quy trình thực hiện kiểm kê khí nhà kính.
+b) Rà soát tính đầy đủ và chính xác số liệu hoạt động.
+c) Kiểm tra sự đầy đủ tài liệu phục vụ cho kiểm kê khí nhà kính.
+d) Kiểm tra quy trình trích xuất và dự trữ số liệu, kết quả kiểm kê khí nhà kính.
+1.1.7. Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực
+a) Phân tích, lựa chọn phương pháp đánh giá độ không chắc chắn theo hướng dẫn của IPCC.
+b) Xây dựng bảng tổng hợp độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực.
+- Đánh giá độ không chắc chắn của số liệu hoạt động.
+- Đánh giá độ không chắc chắn của hệ số phát thải áp dụng.
+- Đánh giá tổng hợp độ không chắc chắn của số liệu kết quả tính toán.
+1.1.8. Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực cho kỳ kiểm kê trước
+(Việc tính toán lại kết quả kiểm kê khí nhà kính cấp lĩnh vực kỳ trước được thực hiện trong các trường hợp sau: phát hiện ra sai sót trong kết quả tính toán lượng phát thải khí nhà kính; có thay đổi về các phương pháp định lượng khí nhà kính, số liệu hoạt động và hệ số phát thải).
+1.1.9. Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực
+a) Xây dựng khung cấu trúc và đề cương chi tiết của báo cáo.
+b) Tổng hợp, xử lý thông tin về số liệu hoạt động, hệ số phát thải.
+c) Xây dựng báo cáo.
+- Xây dựng dự thảo báo cáo thành phần.
+- Xây dựng dự thảo báo cáo kết quả kiểm kê khí nhà kính lĩnh vực quản lý chất thải.
+- Tham vấn các bên có liên quan.
+- Hoàn thiện báo cáo.
+*1.2. Định biên, định mức*
+Bảng số 02
+| TT | Nội dung công việc | Định biên | Định mức  (công nhóm/ lĩnh vực) |
+| --- | --- | --- | --- |
+| *1* | *Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 1.1 | Phân tích và xác định các nguồn phát thải | Nhóm 2 (01 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 1.2 | Xác định phương pháp luận tương ứng cho từng nguồn phát thải phát thải |  |  |
+| a | Bãi chôn lấp chất thải rắn | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| b | Xử lý chất thải rắn bằng phương pháp sinh học | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| c | Thiêu đốt chất thải trong lò đốt | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| d | Đốt lộ thiên chất thải | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| đ | Xử lý và xả thải nước thải sinh hoạt | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| e | Xử lý và xả thải nước thải công nghiệp | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| g | Các nguồn phát sinh khác | Nhóm 2 (01 ĐVT II.2, 01 ĐTV III.6) | 10 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 2.1 | Rà soát và lựa chọn hệ số phát thải khí nhà kính, các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải | Nhóm 2 (01 ĐTV III.2, 01 ĐTV III.3) | 03 |
+| 2.2 | Tổng hợp các hệ số phát thải khí nhà kính, thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải khí nhà kính | Nhóm 2 (01 ĐTV III.2, 01 ĐTV III.3) | 03 |
+| 2.3 | Tổng hợp các hệ số nóng lên toàn cầu áp dụng cho từng loại khí nhà kính | Nhóm 2 (01 ĐTV III.2, 01 ĐTV III.3) | 01 |
+| *3* | *Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 3.1 | Xác định các số liệu hoạt động cần thiết của từng nguồn phát thải theo yêu cầu của phương pháp luận | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 3.2 | Thiết lập các biểu các thông số, số liệu hoạt động cần thu thập | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 3.3 | Xác định nguồn cung cấp số liệu hoạt động | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 05 |
+| 3.4 | Đánh giá mức độ sẵn có của số liệu | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 35 |
+| 3.5 | Thu thập số liệu hoạt động | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 60 |
+| 3.6 | Xử lý số liệu thu thập, hoàn thiện số liệu đầu vào phục vụ cho kiểm kê | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 3.7 | Phân tích các rào cản và đề xuất giải pháp cải thiện cho lần thu thập số liệu kế tiếp | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| *4* | *Tính toán phát thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 4.1 | Thiết lập bảng tính | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 10 |
+| 4.2 | Xử lý các số liệu theo các phương pháp tính toán | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 10 |
+| 4.3 | Tổng hợp và trích xuất kết quả kiểm kê khí nhà kính | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 4.4 | Đánh giá xu thế phát thải khí nhà kính cấp quốc gia theo lĩnh vực |  |  |
+| 4.4.1 | Tổng hợp kết quả kiểm kê khí nhà kính của các kỳ kiểm kê trước | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 04 |
+| 4.4.2 | Xây dựng bảng đánh giá xu thế phát thải khí nhà kính theo các nguồn phát thải | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 04 |
+| 4.4.3 | Tổng hợp kết quả đánh giá xu thế phát thải khí nhà kính chính cấp lĩnh vực | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 09 |
+| 4.4.4 | Xây dựng báo cáo đánh giá xu thế phát thải khí nhà kính cấp lĩnh vực | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 04 |
+| 4.5 | Đánh giá và đề xuất biện pháp cải thiện |  |  |
+| 4.5.1 | Phân tích khả năng nâng bậc kiểm kê | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 30 |
+| 4.5.2 | Rà soát, bổ sung nguồn phát thải phát sinh khác | Nhóm 4 (01 ĐTV III.4, 02 ĐTV III.5, 01 ĐTV III.6) | 30 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 5.1 | Kiểm tra sự toàn diện, chính xác và đầy đủ của số liệu | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 35 |
+| 5.2 | Xác định và điều chỉnh các lỗi và thiếu sót | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 35 |
+| 5.3 | Kiểm tra tài liệu kiểm kê | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 35 |
+| *6* | *Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 6.1 | Đánh giá quy trình thực hiện kiểm kê | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 35 |
+| 6.2 | Rà soát tính đầy đủ và chính xác số liệu hoạt động | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 35 |
+| 6.3 | Kiểm tra sự đầy đủ tài liệu phục vụ cho kiểm kê | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 07 |
+| 6.4 | Kiểm tra quy trình trích xuất và dự trữ số liệu, kết quả kiểm kê | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 35 |
+| *7* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 7.1 | Phân tích, lựa chọn phương pháp đánh giá độ không chắc chắn theo hướng dẫn của IPCC | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 10 |
+| 7.2 | Xây dựng bảng tổng hợp độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực |  |  |
+| 7.2.1 | Đánh giá độ không chắc chắn của số liệu hoạt động | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 05 |
+| 7.2.2 | Đánh giá độ không chắc chắn của hệ số phát thải áp dụng | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 05 |
+| 7.2.3 | Đánh giá tổng hợp độ không chắc chắn của số liệu kết quả tính toán | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3,) | 10 |
+| *8* | *Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực cho kỳ kiểm kê trước* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức lao động tương ứng của công việc đó. |
+| *9* | *Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực* |  |  |
+| 9.1 | Xây dựng khung cấu trúc và đề cương chi tiết của báo cáo | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 10 |
+| 9.2 | Tổng hợp, xử lý thông tin về số liệu hoạt động, hệ số phát thải | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 10 |
+| 9.3 | Xây dựng báo cáo |  |  |
+| 9.3.1 | Xây dựng dự thảo báo cáo thành phần | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 30 |
+| 9.3.2 | Xây dựng báo cáo kết quả kiểm kê khí nhà kính lĩnh vực quản lý chất thải | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 30 |
+| 9.4 | Tham vấn các bên có liên quan | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 05 |
+| 9.5 | Hoàn thiện báo cáo | Nhóm 5 (01 ĐVT II.2, 01 ĐTV III.4, 02 ĐTV III.5 và 01 ĐTV III.6) | 20 |
+Ghi chú:
+1. Định mức tại mục 3.6 Bảng số 02 được tính cho một kỳ kiểm kê, trong trường hợp cần thu thập số liệu hoạt động bằng hình thức hội thảo, lấy ý kiến chuyên gia và bằng văn bản, mức lao động cho thu thập thông tin, số liệu theo các hình thức khác thì áp dụng hệ số điều chỉnh tại Bảng số 03.
+Bảng số 03
+| TT | Nội dung công việc | Hệ số |
+| --- | --- | --- |
+| I | Phương pháp trực tiếp (tại đơn vị triển khai) | 1,00 |
+| II | Phương pháp gián tiếp |  |
+| 1 | Qua tổ chức hội thảo | 0,70 |
+| 2 | Lấy ý kiến các chuyên gia | 0,50 |
+| 3 | Bằng hình thức gửi văn bản | 0,35 |
+2. Định mức tại mục 9.5 Bảng số 02 tính cho một kỳ kiểm kê, trong trường hợp phải thực hiện chỉnh lý nhiều lần thì áp dụng hệ số điều chỉnh nêu tại Bảng số 04.
+Bảng số 04
+| TT | Hạng mục công việc | Hệ số |
+| --- | --- | --- |
+| 1 | Xây dựng dự thảo báo cáo lần 1 | 1,00 |
+| 2 | Xây dựng dự thảo báo cáo lần 2 | 0,80 |
+| 3 | Xây dựng dự thảo báo cáo lần 3 | 0,60 |
+| 4 | Xây dựng dự thảo báo cáo hoàn thành | 0,40 |
+2. Định mức sử dụng máy móc, thiết bị
+Bảng số 05
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| *1* | *Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 1.1 | Máy vi tính để bàn | cái | 0,4 | 120,0 |
+| 1.2 | Điều hòa nhiệt độ | cái | 2,2 | 64,0 |
+| 1.3 | Máy chiếu | cái | 0,5 | 16,0 |
+| 1.4 | Máy tính xách tay | cái | 0,5 | 80,0 |
+| 1.5 | Máy in khổ A4 | cái | 0,4 | 48,0 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 2.1 | Máy vi tính để bàn | cái | 0,4 | 10,5 |
+| 2.2 | Điều hòa nhiệt độ | cái | 2,2 | 5,6 |
+| 2.3 | Máy chiếu | cái | 0,5 | 1,4 |
+| 2.4 | Máy tính xách tay | cái | 0,5 | 7,0 |
+| 2.5 | Máy in khổ A4 | cái | 0,4 | 4,2 |
+| *3* | *Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 3.1 | Máy vi tính để bàn | cái | 0,4 | 675,0 |
+| 3.2 | Điều hòa nhiệt độ | cái | 2,2 | 360,0 |
+| 3.3 | Máy chiếu | cái | 0,5 | 90,0 |
+| 3.4 | Máy tính xách tay | cái | 0,5 | 450,0 |
+| 3.5 | Máy in khổ A4 | cái | 0,4 | 270,0 |
+| *4* | *Tính toán phát thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 4.1 | Máy vi tính để bàn | cái | 0,4 | 318,0 |
+| 4.2 | Điều hòa nhiệt độ | cái | 2,2 | 169,6 |
+| 4.3 | Máy chiếu | cái | 0,5 | 42,4 |
+| 4.4 | Máy tính xách tay | cái | 0,5 | 212,0 |
+| 4.5 | Máy in khổ A4 | cái | 0,4 | 127,2 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 5.1 | Máy vi tính để bàn | cái | 0,4 | 393,8 |
+| 5.2 | Điều hòa nhiệt độ | cái | 2,2 | 210,0 |
+| 5.3 | Máy chiếu | cái | 0,5 | 52,5 |
+| 5.4 | Máy tính xách tay | cái | 0,5 | 262,5 |
+| 5.5 | Máy in khổ A4 | cái | 0,4 | 157,5 |
+| *6* | *Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 6.1 | Máy vi tính để bàn | cái | 0,4 | 420,0 |
+| 6.2 | Điều hòa nhiệt độ | cái | 2,2 | 224,0 |
+| 6.3 | Máy chiếu | cái | 0,5 | 56,0 |
+| 6.4 | Máy tính xách tay | cái | 0,5 | 280,0 |
+| 6.5 | Máy in khổ A4 | cái | 0,4 | 168,0 |
+| *7* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 7.1 | Máy vi tính để bàn | cái | 0,4 | 112,5 |
+| 7.2 | Điều hòa nhiệt độ | cái | 2,2 | 60,0 |
+| 7.3 | Máy chiếu | cái | 0,5 | 15,0 |
+| 7.4 | Máy tính xách tay | cái | 0,5 | 75,0 |
+| 7.5 | Máy in khổ A4 | cái | 0,4 | 45,0 |
+| *8* | *Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức sử dụng máy móc, thiết bị tương ứng của công việc đó. |
+| *9* | *Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực* |  |  |  |
+| 9.1 | Máy vi tính để bàn | cái | 0,4 | 412,5 |
+| 9.2 | Điều hòa nhiệt độ | cái | 2,2 | 220,0 |
+| 9.3 | Máy chiếu | cái | 0,5 | 55,0 |
+| 9.4 | Máy tính xách tay | cái | 0,5 | 275,0 |
+| 9.5 | Máy in khổ A4 | cái | 0,4 | 165,0 |
+3. Định mức dụng cụ lao động
+Bảng số 06
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| *1* | *Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 1.1 | Bàn làm việc | cái | 60 | 120,0 |
+| 1.2 | Ghế văn phòng | cái | 60 | 120,0 |
+| 1.3 | Tủ để tài liệu | cái | 60 | 120,0 |
+| 1.4 | Bộ lưu điện Santak 600W | cái | 60 | 120,0 |
+| 1.5 | Quạt thông gió 0,04 kW | cái | 60 | 40,0 |
+| 1.6 | Quạt trần 0,1 kW | cái | 60 | 16,0 |
+| 1.7 | Đèn neon 0,04 kW | bộ | 36 | 64,0 |
+| 1.8 | USB 32GB | cái | 12 | 16,0 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 2.1 | Bàn làm việc | cái | 60 | 10,5 |
+| 2.2 | Ghế văn phòng | cái | 60 | 10,5 |
+| 2.3 | Tủ để tài liệu | cái | 60 | 10,5 |
+| 2.4 | Bộ lưu điện Santak 600W | cái | 60 | 10,5 |
+| 2.5 | Quạt thông gió 0,04 kW | cái | 60 | 3,5 |
+| 2.6 | Quạt trần 0,1 kW | cái | 60 | 1,4 |
+| 2.7 | Đèn neon 0,04 kW | bộ | 36 | 5,6 |
+| 2.8 | USB 32GB | cái | 12 | 1,4 |
+| *3* | *Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 3.1 | Bàn làm việc | cái | 60 | 675,0 |
+| 3.2 | Ghế văn phòng | cái | 60 | 675,0 |
+| 3.3 | Tủ để tài liệu | cái | 60 | 675,0 |
+| 3.4 | Bộ lưu điện Santak 600W | cái | 60 | 675,0 |
+| 3.5 | Quạt thông gió 0,04 kW | cái | 60 | 225,0 |
+| 3.6 | Quạt trần 0,1 kW | cái | 60 | 90,0 |
+| 3.7 | Đèn neon 0,04 kW | bộ | 36 | 360,0 |
+| 3.8 | USB 32GB | cái | 12 | 90,0 |
+| *4* | *Tính toán phải thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 4.1 | Bàn làm việc | cái | 60 | 318,0 |
+| 4.2 | Ghế văn phòng | cái | 60 | 318,0 |
+| 4.3 | Tủ để tài liệu | cái | 60 | 318,0 |
+| 4.4 | Bộ lưu điện Santak 600W | cái | 60 | 318,0 |
+| 4.5 | Quạt thông gió 0,04 kW | cái | 60 | 106,0 |
+| 4.6 | Quạt trần 0,1 kW | cái | 60 | 42,4 |
+| 4.7 | Đèn neon 0,04 kW | bộ | 36 | 169,6 |
+| 4.8 | USB 32GB | cái | 12 | 42,4 |
+| 5 | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 5.1 | Bàn làm việc | cái | 60 | 393,8 |
+| 5.2 | Ghế văn phòng | cái | 60 | 393,8 |
+| 5.3 | Tủ để tài liệu | cái | 60 | 393,8 |
+| 5.4 | Bộ lưu điện Santak 600W | cái | 60 | 393,8 |
+| 5.5 | Quạt thông gió 0,04 kW | cái | 60 | 131,3 |
+| 5.6 | Quạt trần 0,1 kW | cái | 60 | 52,5 |
+| 5.7 | Đèn neon 0,04 kW | bộ | 36 | 210,0 |
+| 5.8 | USB 32GB | cái | 12 | 52,5 |
+| *6* | *Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 6.1 | Bàn làm việc | cái | 60 | 420,0 |
+| 6.2 | Ghế văn phòng | cái | 60 | 420,0 |
+| 6.3 | Tủ để tài liệu | cái | 60 | 420,0 |
+| 6.4 | Bộ lưu điện Santak 600W | cái | 60 | 420,0 |
+| 6.5 | Quạt thông gió 0,04 kW | cái | 60 | 140,0 |
+| 6.6 | Quạt trần 0,1 kW | cái | 60 | 56,0 |
+| 6.7 | Đèn neon 0,04 kW | bộ | 36 | 224,0 |
+| 6.8 | USB 32GB | cái | 12 | 56,0 |
+| *7* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực* |  |  |  |
+| 7.1 | Bàn làm việc | cái | 60 | 112,5 |
+| 7.2 | Ghế văn phòng | cái | 60 | 112,5 |
+| 7.3 | Tủ để tài liệu | cái | 60 | 112,5 |
+| 7.4 | Bộ lưu điện Santak 600W | cái | 60 | 112,5 |
+| 7.5 | Quạt thông gió 0,04 kW | cái | 60 | 37,5 |
+| 7.6 | Quạt trần 0,1 kW | cái | 60 | 15,0 |
+| 7.7 | Đèn neon 0,04 kW | bộ | 36 | 60,0 |
+| 7.8 | USB 32GB | cái | 12 | 15,0 |
+| *8* | *Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức sử dụng công cụ, dụng cụ tương ứng của công việc đó. |
+| *9* | *Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực* |  |  |  |
+| 9.1 | Bàn làm việc | cái | 60 | 412,5 |
+| 9.2 | Ghế văn phòng | cái | 60 | 412,5 |
+| 9.3 | Tủ để tài liệu | cái | 60 | 412,5 |
+| 9.4 | Bộ lưu điện Santak 600W | cái | 60 | 412,5 |
+| 9.5 | Quạt thông gió 0,04 kW | cái | 60 | 137,5 |
+| 9.6 | Quạt trần 0,1 kW | cái | 60 | 55,0 |
+| 9.7 | Đèn neon 0,04 kW | bộ | 36 | 220,0 |
+| 9.8 | USB 32GB | cái | 12 | 55,0 |
+4. Định mức tiêu hao vật liệu
+Bảng số 07
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| *1* | *Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 1.1 | Mực in A4 Laser | hộp | 0,040 |
+| 1.2 | Giấy A4 | ram | 0,096 |
+| 1.3 | Bút chì B2 | cái | 0,023 |
+| 1.4 | Thước kẻ | cái | 0,016 |
+| 1.5 | Bút bi | cái | 1,600 |
+| 1.6 | Sổ công tác | quyển | 0,040 |
+| 1.7 | Bút đánh dấu dòng | cái | 0,040 |
+| 1.8 | Dập ghim | cái | 0,160 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 2.1 | Mực in A4 Laser | hộp | 0,004 |
+| 2.2 | Giấy A4 | ram | 0,008 |
+| 2.3 | Bút chì B2 | cái | 0,002 |
+| 2.4 | Thước kẻ | cái | 0,001 |
+| 2.5 | Bút bi | cái | 0,140 |
+| 2.6 | Sổ công tác | quyển | 0,004 |
+| 2.7 | Bút đánh dấu dòng | cái | 0,004 |
+| 2.8 | Dập ghim | cái | 0,014 |
+| *3* | *Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 3.1 | Mực in A4 Laser | hộp | 0,225 |
+| 3.2 | Giấy A4 | ram | 0,540 |
+| 3.3 | Bút chì B2 | cái | 0,129 |
+| 3.4 | Thước kẻ | cái | 0,090 |
+| 3.5 | Bút bi | cái | 9,000 |
+| 3.6 | Sổ công tác | quyển | 0,225 |
+| 3.7 | Bút đánh dấu dòng | cái | 0,225 |
+| 3.8 | Dập ghim | cái | 0,900 |
+| *4* | *Tính toán phát thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 4.1 | Mực in A4 Laser | hộp | 0,106 |
+| 4.2 | Giấy A4 | ram | 0,254 |
+| 4.3 | Bút chì B2 | cái | 0,061 |
+| 4.4 | Thước kẻ | cái | 0,042 |
+| 4.5 | Bút bi | cái | 4,240 |
+| 4.6 | Sổ công tác | quyển | 0,106 |
+| 4.7 | Bút đánh dấu dòng | cái | 0,106 |
+| 4.8 | Dập ghim | cái | 0,424 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 5.1 | Mực in A4 Laser | hộp | 0,131 |
+| 5.2 | Giấy A4 | ram | 0,315 |
+| 5.3 | Bút chì B2 | cái | 0,075 |
+| 5.4 | Thước kẻ | cái | 0,053 |
+| 5.5 | Bút bi | cái | 5,250 |
+| 5.6 | Sổ công tác | quyển | 0,131 |
+| 5.7 | Bút đánh dấu dòng | cái | 0,131 |
+| 5.8 | Dập ghim | cái | 0,525 |
+| *6* | *Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 6.1 | Mực in A4 Laser | hộp | 0,140 |
+| 6.2 | Giấy A4 | ram | 0,336 |
+| 6.3 | Bút chì B2 | cái | 0,080 |
+| 6.4 | Thước kẻ | cái | 0,056 |
+| 6.5 | Bút bi | cái | 5,600 |
+| 6.6 | Sổ công tác | quyển | 0,140 |
+| 6.7 | Bút đánh dấu dòng | cái | 0,140 |
+| 6.8 | Dập ghim | cái | 0,560 |
+| *7* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực* |  |  |
+| 7.1 | Mực in A4 Laser | hộp | 0,038 |
+| 7.2 | Giấy A4 | ram | 0,090 |
+| 7.3 | Bút chì B2 | cái | 0,021 |
+| 7.4 | Thước kẻ | cái | 0,015 |
+| 7.5 | Bút bi | cái | 1,500 |
+| 7.6 | Sổ công tác | quyển | 0,038 |
+| 7.7 | Bút đánh dấu dòng | cái | 0,038 |
+| 7.8 | Dập ghim | cái | 0,150 |
+| *8* | *Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức tiêu hao vật liệu tương ứng của công việc đó. |
+| *9* | *Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực* |  |  |
+| 9.1 | Mực in A4 Laser | hộp | 0,138 |
+| 9.2 | Giấy A4 | ram | 0,330 |
+| 9.3 | Bút chì B2 | cái | 0,079 |
+| 9.4 | Thước kẻ | cái | 0,055 |
+| 9.5 | Bút bi | cái | 5,500 |
+| 9.6 | Sổ công tác | quyển | 0,138 |
+| 9.7 | Bút đánh dấu dòng | cái | 0,138 |
+| 9.8 | Dập ghim | cái | 0,550 |
+5. Định mức tiêu hao năng lượng
+Bảng số 08
+| TT | Danh mục năng lượng | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Xác định phương pháp kiểm kê khí nhà kính cấp lĩnh vực |  | 2.228,16 |
+| 1.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 2.150,40 |
+| 1.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 77,76 |
+| 2 | Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp lĩnh vực | kW | 194,96 |
+| 2.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 188,16 |
+| 2.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 6,80 |
+| 3 | Thu thập số liệu hoạt động kiểm kê khí nhà kính cấp lĩnh vực | kW | 12.533,40 |
+| 3.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 12.096,00 |
+| 3.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 437,40 |
+| 4 | Tính toán phát thải, hấp thụ kiểm kê khí nhà kính cấp lĩnh vực | kW | 5.904,62 |
+| 4.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 5.698,56 |
+| 4.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 206,06 |
+| 5 | Kiểm soát chất lượng kiểm kê khí nhà kính cấp lĩnh vực | kW | 7.311,15 |
+| 5.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 7.056,00 |
+| 5.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 255,15 |
+| 6 | Đảm bảo chất lượng kiểm kê khí nhà kính cấp lĩnh vực | kW | 7.798,56 |
+| 6.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 7.526,40 |
+| 6.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 272,16 |
+| 7 | Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực | kW | 2.088,90 |
+| 7.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 2.016,00 |
+| 7.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 72,90 |
+| 8 | Tính toán lại kiểm kê khí nhà kính cấp lĩnh vực | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức tiêu hao năng lượng tương ứng của công việc đó. |
+| 9 | Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp quốc gia theo lĩnh vực | kW | 7.659,30 |
+| 9.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 7.392,00 |
+| 9.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 267,30 |
+Chương II
+ĐO ĐẠC, BÁO CÁO, THẨM ĐỊNH KẾT QUẢ GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH CẤP LĨNH VỰC
+1. Xây dựng đường phát thải cơ sở của lĩnh vực quản lý chất thải
+*1.1. Định mức lao động*
+1.1.1. Nội dung công việc
+a) Thu thập các thông tin dự báo phục vụ cho việc xây dựng đường phát thải cơ sở
+- Thông tin dự báo về phát triển kinh tế - xã hội.
+- Thông tin dự báo về phát triển dân số.
+- Thông tin dự báo về lượng chất thải phát sinh.
+- Nhập số liệu thông tin thu thập.
+- Rà soát, hiệu chỉnh thông tin dữ liệu.
+- Xử lý các thiếu hụt số liệu hiện có.
+- Xác định phương pháp luận xây dựng đường phát thải cơ sở.
+b) Xây dựng đường phát thải cơ sở chi tiết đến từng năm theo kịch bản BAU
+- Xây dựng đường phát thải cơ sở cho từng nguồn phát thải.
+- Xây dựng đường phát thải cơ sở cấp lĩnh vực cho lĩnh vực quản lý chất thải.
+c) Đảm bảo chất lượng, kiểm soát chất lượng cho đường phát thải cơ sở
+d) Đánh giá độ không chắc chắn của kịch bản
+đ) Cập nhật và bổ sung định kỳ hai năm một lần cho kịch bản đã xây dựng
+1.1.2. Định biên, định mức
+Bảng số 09
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Thu thập các thông tin dự báo phục vụ cho việc xây dựng đường phát thải cơ sở |  |  |
+| 1.1 | Thông tin dự báo về phát triển kinh tế - xã hội | 01 ĐTV III.3 | 35 |
+| 1.2 | Thông tin dự báo về phát triển dân số | 01 ĐTV III.3 | 35 |
+| 1.3 | Thông tin dự báo về lượng chất thải phát sinh | Nhóm 2 (02 ĐTV III.3) | 35 |
+| 1.4 | Nhập số liệu thông tin thu thập | 01 ĐTV III.3 | 35 |
+| 1.5 | Rà soát, hiệu chỉnh thông tin dữ liệu | 01 ĐTV II.2 | 35 |
+| 1.6 | Xử lý các thiếu hụt số liệu hiện có | Nhóm 2 (02 ĐTV II.2) | 35 |
+| 1.7 | Xác định phương pháp luận xây dựng đường phát thải cơ sở | 01 ĐTV II.2 | 35 |
+| 2 | Xây dựng đường phát thải cơ sở chi tiết đến từng năm theo kịch bản BAU cho các nguồn phát thải |  |  |
+| 2.1 | Xây dựng đường phát thải cơ sở cho các nguồn phát thải | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 2.2 | Xây dựng đường phát thải cơ sở cho lĩnh vực quản lý chất thải | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 3 | Đảm bảo chất lượng, kiểm soát chất lượng cho đường phát thải cơ sở | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 4 | Đánh giá độ không chắc chắn của kịch bản | Nhóm 5 (02 ĐTV III.1, 02 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 5 | Cập nhật và bổ sung định kỳ hai năm một lần cho kịch bản đã xây dựng | Nhóm 5 (01 ĐTV III.4, 02 ĐTV III.5, 02 ĐTV III.6) | 10 |
+*1.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 10
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 573,8 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 306,0 |
+| 3 | Máy chiếu | cái | 0,5 | 76,5 |
+| 4 | Máy tính xách tay | cái | 0,5 | 382,5 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 229,5 |
+*1.3. Định mức dụng cụ lao động*
+Bảng số 11
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/ lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 573,8 |
+| 2 | Ghế văn phòng | cái | 60 | 573,8 |
+| 3 | Tủ để tài liệu | cái | 60 | 573,8 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 573,8 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 191,3 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 76,5 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 306,0 |
+| 8 | USB 32GB | cái | 12 | 76,5 |
+*1.4. Định mức tiêu hao vật liệu*
+Bảng số 12
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,191 |
+| 2 | Giấy A4 | ram | 0,459 |
+| 3 | Bút chì B2 | cái | 0,109 |
+| 4 | Thước kẻ | cái | 0,077 |
+| 5 | Bút bi | cái | 7,650 |
+| 6 | Sổ công tác | quyển | 0,191 |
+| 7 | Bút đánh dấu dòng | cái | 0,191 |
+| 8 | Dập ghim | cái | 0,765 |
+*1.5. Định mức tiêu hao năng lượng*
+Bảng số 13
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 10.281,60 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 371,79 |
+2. Xây dựng kế hoạch giảm nhẹ phát thải khí nhà kính cấp lĩnh vực
+*2.1. Định mức lao động*
+2.1.1. Nội dung công việc
+a) Tổng hợp các biện pháp giảm nhẹ phát thải khí nhà kính tiềm năng cho các nguồn phát thải
+- Bãi chôn lấp chất thải rắn.
+- Xử lý chất thải rắn bằng phương pháp sinh học.
+- Thiêu đốt chất thải trong lò đốt.
+- Đốt lộ thiên chất thải.
+- Xử lý và xả thải nước thải sinh hoạt.
+- Xử lý và xả thải nước thải công nghiệp.
+- Các nguồn phát sinh khác.
+b) Đánh giá và lựa chọn các biện pháp giảm nhẹ ưu tiên
+c) Xây dựng nội dung chi tiết cho các biện pháp giảm nhẹ phát thải khí nhà kính
+- Mô tả biện pháp.
+- Mục tiêu giảm nhẹ phát thải khí nhà kính của biện pháp.
+- Dự kiến nguồn lực triển khai.
+- Xây dựng bộ chỉ số theo dõi tiến độ thực hiện.
+d) Xác định lộ trình triển khai
+đ) Xây dựng kế hoạch giảm nhẹ phát thải khí cấp lĩnh vực
+e) Đánh giá rủi ro phát sinh thực hiện kế hoạch
+g) Đề xuất và biện pháp cải thiện công tác xây dựng kế hoạch giảm nhẹ cấp lĩnh vực
+h) Cập nhật và bổ sung kế hoạch khi có điều chỉnh
+2.1.2. Định biên, định mức
+Bảng số 14
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Tổng hợp các biện pháp giảm nhẹ phát thải khí nhà kính tiềm năng cho các nguồn phát thải | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 35 |
+| 2 | Đánh giá và lựa chọn các biện pháp giảm nhẹ ưu tiên | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 20 |
+| 3 | Xây dựng nội dung chi tiết cho các biện pháp giảm nhẹ phát thải khí nhà kính |  |  |
+| 3.1 | Mô tả biện pháp | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 05 |
+| 3.2 | Mục tiêu giảm nhẹ phát thải khí nhà kính của biện pháp | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 04 |
+| 3.3 | Dự kiến nguồn lực triển khai | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 05 |
+| 3.4 | Xây dựng bộ chỉ số theo dõi tiến độ thực hiện | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 10 |
+| 4 | Xác định lộ trình triển khai | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 10 |
+| 5 | Xây dựng kế hoạch giảm nhẹ phát thải khí cấp lĩnh vực | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 05 |
+| 6 | Đánh giá rủi ro phát sinh thực hiện kế hoạch | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 10 |
+| 7 | Đề xuất và biện pháp cải thiện công tác xây dựng kế hoạch giảm nhẹ cấp lĩnh vực | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 10 |
+| 8 | Cập nhật và bổ sung kế hoạch khi có điều chỉnh | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 30 |
+*2.2.* *Định mức sử dụng máy móc, thiết bị*
+Bảng số 15
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 540,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 288,0 |
+| 3 | Máy chiếu | cái | 0,5 | 72,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 360,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 216,0 |
+*2.3. Định mức dụng cụ lao động*
+Bảng số 16
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 540,0 |
+| 2 | Ghế văn phòng | cái | 60 | 540,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 540,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 540,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 180,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 72,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 288,0 |
+| 8 | USB 32GB | cái | 12 | 72,0 |
+*2.4. Định mức tiêu hao vật liệu*
+Bảng số 17
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,180 |
+| 2 | Giấy A4 | ram | 0,432 |
+| 3 | Bút chì B2 | cái | 0,103 |
+| 4 | Thước kẻ | cái | 0,072 |
+| 5 | Bút bi | cái | 7,200 |
+| 6 | Sổ công tác | quyển | 0,180 |
+| 7 | Bút đánh dấu dòng | cái | 0,180 |
+| 8 | Dập ghim | cái | 0,720 |
+*2.5. Định mức tiêu hao năng lượng*
+Bảng số 18
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 9.676,80 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 349,92 |
+3. Xây dựng phương án giám sát cấp lĩnh vực
+3.1. Định mức lao động
+3.1.1. Nội dung công việc
+a) Xác định các phương pháp tính toán mức giảm nhẹ phát thải khí nhà kính cho các biện pháp chính sách.
+b) Xây dựng bộ chỉ số theo dõi, đánh giá tiến độ triển khai cho biện pháp giảm nhẹ.
+c) Xây dựng hệ thống giám sát, vai trò và trách nhiệm của các tổ chức trong hệ thống giám sát, nguồn lực và công cụ cần thiết để thực hiện giám sát.
+d) Xây dựng phương án thu thập, giám sát các thông tin về các thông số cần được đo đạc, tần suất và cách thức thực hiện đo đạc.
+đ) Xây dựng quy trình thực hiện QA/QC kết quả phát thải khí nhà kính.
+e) Xây dựng phương án giám sát.
+g) Cập nhật phương án giám sát khi có thay đổi trong quá trình tổ chức thực hiện.
+3.1.2. Định biên, định mức
+Bảng số 19
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Xác định các phương pháp tính toán mức giảm nhẹ phát thải khí nhà kính cho các biện pháp chính sách | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 05 |
+| 2 | Xây dựng bộ chỉ số theo dõi, đánh giá tiến độ triển khai cho biện pháp giảm nhẹ | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 10 |
+| 3 | Xây dựng hệ thống giám sát, vai trò và trách nhiệm của các tổ chức trong hệ thống giám sát, nguồn lực và công cụ cần thiết để thực hiện giám sát | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 10 |
+| 4 | Xây dựng phương án thu thập, giám sát các thông tin về các thông số cần được đo đạc, tần suất và cách thức thực hiện đo đạc | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 10 |
+| 5 | Xây dựng quy trình thực hiện QA/QC kết quả phát thải khí nhà kính | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 05 |
+| 6 | Xây dựng phương án giám sát | Nhóm 5 (01 ĐTV III.3, 02 ĐTV III.2, 02 ĐTV III.1) | 10 |
+| 7 | Cập nhật phương án giám sát khi có thay đổi trong quá trình tổ chức thực hiện | Nhóm 5 (02 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 10 |  |
+*3.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 20
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 225,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 120,0 |
+| 3 | Máy chiếu | cái | 0,5 | 30,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 150,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 90,0 |
+*3.3. Định mức dụng cụ lao động*
+Bảng số 21
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 225,0 |
+| 2 | Ghế văn phòng | cái | 60 | 225,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 225,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 225,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 75,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 30,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 120,0 |
+| 8 | USB 32GB | cái | 12 | 30,0 |
+*3.4. Định mức tiêu hao vật liệu*
+Bảng số 22
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,075 |
+| 2 | Giấy A4 | ram | 0,180 |
+| 3 | Bút chì B2 | cái | 0,043 |
+| 4 | Thước kẻ | cái | 0,030 |
+| 5 | Bút bi | cái | 3,000 |
+| 6 | Sổ công tác | quyển | 0,075 |
+| 7 | Bút đánh dấu dòng | cái | 0,075 |
+| 8 | Dập ghim | cái | 0,300 |
+*3.5. Định mức tiêu hao năng lượng*
+Bảng số 23
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 4.032,00 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 145,80 |
+4. Thực hiện đo đạc và xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính cấp lĩnh vực
+*4.1. Định mức lao động*
+4.1.1. Nội dung công việc
+a) Thực hiện thu thập, tổng hợp quản lý, lưu trữ số liệu đầu vào phục vụ cho đánh giá mức giảm phát thải của biện pháp.
+b) Thực hiện QA/QC kết quả phát thải khí nhà kính.
+c) Tính toán mức giảm phát thải khí nhà kính.
+d) Tổng hợp kết quả giảm nhẹ phát thải của lĩnh vực quản lý chất thải.
+đ) Xây dựng báo cáo giảm nhẹ phát thải của lĩnh vực quản lý chất thải.
+e) Tham vấn các bên có liên quan.
+g) Chỉnh sửa, hiệu chỉnh báo cáo.
+4.1.2. Định biên, định mức
+Bảng số 24
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/ lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Thực hiện thu thập, tổng hợp quản lý, lưu trữ số liệu đầu vào phục vụ cho đánh giá mức giảm phát thải của biện pháp | Nhóm 3 (01 ĐTV III.3, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| 2 | Thực hiện QA/QC kết quả phát thải khí nhà kính | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 35 |
+| 3 | Tính toán mức giảm phát thải khí nhà kính | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 35 |
+| 4 | Tổng hợp kết quả giảm nhẹ phát thải của lĩnh vực quản lý chất thải | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 07 |
+| 5 | Xây dựng báo cáo giảm nhẹ phát thải của lĩnh vực quản lý chất thải | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 35 |
+| 6 | Tham vấn các bên có liên quan | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 35 |
+| 7 | Chỉnh sửa, hiệu chỉnh báo cáo | Nhóm 5 (01 ĐTV II.2, 01 ĐTV III.6, 02 ĐTV III.5, 01 ĐTV III.4) | 35 |
+*4.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 25
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 705,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 376,0 |
+| 3 | Máy chiếu | cái | 0,5 | 94,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 470,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 282,0 |
+*4.3. Định mức dụng cụ lao động*
+Bảng số 26
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/lĩnh vực) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 705,0 |
+| 2 | Ghế văn phòng | cái | 60 | 705,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 705,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 705,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 235,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 94,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 376,0 |
+| 8 | USB 32GB | cái | 12 | 94,0 |
+*4.4. Định mức tiêu hao vật liệu*
+Bảng số 27
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,235 |
+| 2 | Giấy A4 | ram | 0,564 |
+| 3 | Bút chì B2 | cái | 0,134 |
+| 4 | Thước kẻ | cái | 0,094 |
+| 5 | Bút bi | cái | 9,400 |
+| 6 | Sổ công tác | quyển | 0,235 |
+| 7 | Bút đánh dấu dòng | cái | 0,235 |
+| 8 | Dập ghim | cái | 0,940 |
+*4.5. Định mức tiêu hao năng lượng*
+Bảng số 28
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một lĩnh vực) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 12.032,00 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 456,84 |
+Chương III
+KIỂM KÊ KHÍ NHÀ KÍNH CẤP CƠ SỞ
+1. Định mức lao động
+*1.1. Nội dung công việc*
+a) Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở
+- Xác định ranh giới hoạt động và phân tích, xác định các nguồn phát thải của cơ sở.
+- Xác định phương pháp luận tương ứng cho từng nguồn phát thải khí nhà kính trực tiếp.
+- Xác định phương pháp luận tương ứng cho các nguồn thải khí nhà kính gián tiếp (tiêu thụ điện, hơi,...).
+b) Lựa chọn hệ số phát thải khí nhà kính cấp cơ sở
+- Rà soát và lựa chọn hệ số phát thải khí nhà kính và các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải.
+- Tổng hợp hệ số phát thải khí nhà kính và các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải.
+- Tổng hợp hệ số nóng lên toàn cầu áp dụng cho từng loại khí nhà kính.
+c) Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở
+- Xác định các số liệu hoạt động cần thiết của từng nguồn phát thải theo yêu cầu của phương pháp luận.
+- Thiết lập các biểu các thông số, số liệu hoạt động cần thu thập.
+- Thu thập số liệu hoạt động:
++ Tổng hợp các số liệu sẵn có tại cơ sở.
++ Rà soát và đánh giá tính đầy đủ của số liệu, xác định các số liệu cần bổ sung.
++ Thu thập bổ sung số liệu bằng phương pháp trực tiếp và gián tiếp: Phương pháp trực tiếp là sửa đổi các tập số liệu hiện có để đáp ứng các yêu cầu về kiểm kê khí nhà kính; tạo số liệu mới thông qua thu thập mẫu, điều tra khảo sát bổ sung. Phương pháp gián tiếp là sử dụng số liệu thay thế; lấy ý kiến của chuyên gia.
+- Xử lý số liệu thu thập, hoàn thiện số liệu đầu vào phục vụ cho kiểm kê.
+d) Tính toán phát thải khí nhà kính cấp cơ sở
+- Thiết lập bảng tính.
+- Thiết lập công thức và nhập hệ số phát thải, các thông số trung gian, số liệu hoạt động.
+- Tổng hợp và trích xuất kết quả kiểm kê.
+đ) Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở
+- Xác định và kiểm tra về trách nhiệm, quyền hạn của những người có trách nhiệm triển khai kiểm kê khí nhà kính.
+- Xác định, áp dụng và kiểm tra việc đào tạo tương ứng cho các thành viên thực hiện kiểm kê khí nhà kính.
+- Xác định và kiểm tra các ranh giới hoạt động của cơ sở.
+- Xác định và kiểm tra các nguồn phát thải khí nhà kính.
+- Lựa chọn và kiểm tra các phương pháp luận định lượng, gồm cả các số liệu hoạt động khí nhà kính và các hệ số phát thải khí nhà kính.
+- Kiểm tra việc áp dụng các phương pháp kiểm kê khí nhà kính để đảm bảo sự nhất quán trong nhiều cơ sở.
+- Sử dụng, bảo dưỡng và kiểm định thiết bị đo.
+- Xây dựng và bảo trì hệ thống thu thập số liệu.
+- Định kỳ kiểm tra độ chính xác của các phương tiện đo.
+- Đánh giá nội bộ và tiến hành kiểm tra kỹ thuật định kỳ.
+e) Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở
+- Đánh giá độ không chắc chắn về hệ số phát thải và các thông số trung gian đã áp dụng.
+- Đánh giá độ không chắc chắn về số liệu hoạt động.
+- Đánh giá độ không chắc chắn tổng hợp của kết quả kiểm kê khí nhà kính cấp cơ sở.
+g) Tính toán lại kiểm kê khí nhà kính cấp cơ sở kỳ trước
+(Việc tính toán lại kết quả kiểm kê khí nhà kính cấp cơ sở kỳ trước được thực hiện trong các trường hợp sau: phát hiện ra sai sót trong kết quả tính toán lượng phát thải khí nhà kính; có thay đổi về các phương pháp định lượng khí nhà kính, số liệu hoạt động và hệ số phát thải).
+h) Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở
+- Tổng hợp các thông tin đầu vào về hệ số phát thải, thông số có liên quan, kết quả kiểm kê khí nhà kính, đánh giá độ không chắc chắn.
+- Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở.
+*1.2. Định biên, định mức*
+Bảng số 29
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/cơ sở) |
+| --- | --- | --- | --- |
+| *1* | *Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 1.1 | Xác định ranh giới hoạt động và phân tích, xác định các nguồn phát thải của cơ sở | 01 ĐTV III.3 | 10 |
+| 1.2 | Xác định phương pháp luận tương ứng cho từng nguồn phát thải khí nhà kính trực tiếp | 01 ĐTV III.3 | 30 |
+| 1.3 | Xác định phương pháp luận tương ứng cho các nguồn thải khí nhà kính gián tiếp (tiêu thụ điện, hơi,...) | 01 ĐTV III.3 | 30 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp cơ sở* | 01 ĐTV III.3 |  |
+| 2.1 | Rà soát và lựa chọn hệ số phát thải khí nhà kính và các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải | 01 ĐTV III.3 | 03 |
+| 2.2 | Tổng hợp hệ số phát thải khí nhà kính và các thông số liên quan cho từng phương pháp luận áp dụng cho từng nguồn phát thải | 01 ĐTV III.3 | 03 |
+| 2.3 | Tổng hợp hệ số nóng lên toàn cầu áp dụng cho từng loại khí nhà kính | 01 ĐTV III.3 | 01 |
+| *3* | *Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 3.1 | Xác định các số liệu hoạt động cần thiết của từng nguồn phát thải theo yêu cầu của phương pháp luận | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 30 |
+| 3.2 | Thiết lập các biểu các thông số, số liệu hoạt động cần thu thập | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 45 |
+| 3.3 | Thu thập số liệu hoạt động |  |  |
+| 3.3.1 | Tổng hợp các số liệu sẵn có tại cơ sở | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 30 |
+| 3.3.2 | Rà soát và đánh giá tính đầy đủ của số liệu, xác định các số liệu cần bổ sung | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 10 |
+| 3.3.3 | Thu thập bổ sung số liệu bằng phương pháp trực tiếp và phương pháp gián tiếp |  |  |
+| a | Phương pháp trực tiếp |  |  |
+| - | Sửa đổi các tập số liệu hiện có để đáp ứng các yêu cầu về kiểm kê khí nhà kính | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 30 |
+| - | Tạo số liệu mới thông qua thu thập mẫu, điều tra khảo sát bổ sung | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 60 |
+| b | Phương pháp gián tiếp |  |  |
+| - | Sử dụng số liệu thay thế | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 40 |
+| - | Lấy ý kiến các chuyên gia | Nhóm 2 (01 ĐTV III.1, 1 ĐTV III.2) | 40 |
+| 3.4 | Xử lý số liệu thu thập, hoàn thiện số liệu đầu vào phục vụ cho kiểm kê | Nhóm 2 (01 ĐTV III.1, 01 ĐTV III.2) | 35 |
+| *4* | *Tính toán phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 4.1 | Thiết lập bảng tính | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| 4.2 | Thiết lập công thức và nhập hệ số phát thải, các thông số trung gian, số liệu hoạt động | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| 4.3 | Tổng hợp và trích xuất kết quả kiểm kê | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 05 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 5.1 | Xác định và kiểm tra về trách nhiệm, quyền hạn của những người có trách nhiệm triển khai kiểm kê khí nhà kính | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.2 | Xác định, áp dụng và kiểm tra việc đào tạo tương ứng cho các thành viên thực hiện kiểm kê khí nhà kính | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.3 | Xác định và kiểm tra các ranh giới hoạt động của cơ sở | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.4 | Xác định và kiểm tra các nguồn phát thải kiểm kê khí nhà kính | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.5 | Lựa chọn và kiểm tra các phương pháp luận định lượng, gồm cả các số liệu hoạt động kiểm kê khí nhà kính và các hệ số phát thải kiểm kê khí nhà kính | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.6 | Kiểm tra việc áp dụng các phương pháp kiểm kê khí nhà kính để đảm bảo sự nhất quán trong nhiều cơ sở | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.7 | Sử dụng, bảo dưỡng và kiểm định thiết bị đo | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.8 | Xây dựng và bảo trì hệ thống thu thập số liệu | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.9 | Định kỳ kiểm tra độ chính xác của các phương tiện đo | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| 5.10 | Đánh giá nội bộ và tiến hành kiểm tra kỹ thuật định kỳ | Nhóm 2 (01 ĐTV III.5, 01 ĐTV III.6) | 05 |
+| *6* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 6.1 | Đánh giá độ không chắc chắn về hệ số phát thải và các thông số trung gian đã áp dụng | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| 6.2 | Đánh giá độ không chắc chắn về số liệu hoạt động | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| 6.3 | Đánh giá độ không chắc chắn tổng hợp của kết quả kiểm kê khí nhà kính cấp cơ sở | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.1) | 10 |
+| *7* | *Tính toán lại kiểm kê khí nhà kính cấp cơ sở* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức lao động tương ứng của công việc đó. |
+| *8* | *Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 8.1 | Tổng hợp các thông tin đầu vào về hệ số phát thải, thông số có liên quan, kết quả kiểm kê khí nhà kính, đánh giá độ không chắc chắn | Nhóm 3 (01 ĐTV III.4, 01 ĐTV III.5, 01 ĐTV III.6) | 10 |
+| 8.2 | Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở | Nhóm 3 (01 ĐTV III.4, 01 ĐTV III.5, 01 ĐTV III.6) | 30 |
+2. Định mức sử dụng máy móc, thiết bị
+Bảng số 30
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| *1* | *Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 1.1 | Máy vi tính để bàn | cái | 0,4 | 105,0 |
+| 1.2 | Điều hòa nhiệt độ | cái | 2,2 | 56,0 |
+| 1.3 | Máy chiếu | cái | 0,5 | 14,0 |
+| 1.4 | Máy tính xách tay | cái | 0,5 | 70,0 |
+| 1.5 | Máy in khổ A4 | cái | 0,4 | 42,0 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 2.1 | Máy vi tính để bàn | cái | 0,4 | 5,3 |
+| 2.2 | Điều hòa nhiệt độ | cái | 2,2 | 2,8 |
+| 2.3 | Máy chiếu | cái | 0,5 | 0,7 |
+| 2.4 | Máy tính xách tay | cái | 0,5 | 3,5 |
+| 2.5 | Máy in khổ A4 | cái | 0,4 | 2,1 |
+| *3* | *Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 3.1 | Máy vi tính để bàn | cái | 0,4 | 480,0 |
+| 3.2 | Điều hòa nhiệt độ | cái | 2,2 | 256,0 |
+| 3.3 | Máy chiếu | cái | 0,5 | 64,0 |
+| 3.4 | Máy tính xách tay | cái | 0,5 | 320,0 |
+| 3.5 | Máy in khổ A4 | cái | 0,4 | 192,0 |
+| *4* | *Tính toán phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 4.1 | Máy vi tính để bàn | cái | 0,4 | 56,3 |
+| 4.2 | Điều hòa nhiệt độ | cái | 2,2 | 30,0 |
+| 4.3 | Máy chiếu | cái | 0,5 | 7,5 |
+| 4.4 | Máy tính xách tay | cái | 0,5 | 37,5 |
+| 4.5 | Máy in khổ A4 | cái | 0,4 | 22,5 |
+| *5* | *Kiểm soát chất kiểm kê khí nhà kính cấp cơ sở* | * * | * * | * * |
+| 5.1 | Máy vi tính để bàn | cái | 0,4 | 75,0 |
+| 5.2 | Điều hòa nhiệt độ | cái | 2,2 | 40,0 |
+| 5.3 | Máy chiếu | cái | 0,5 | 10,0 |
+| 5.4 | Máy tính xách tay | cái | 0,5 | 50,0 |
+| 5.5 | Máy in khổ A4 | cái | 0,4 | 30,0 |
+| *6* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 6.1 | Máy vi tính để bàn | cái | 0,4 | 67,5 |
+| 6.2 | Điều hòa nhiệt độ | cái | 2,2 | 36,0 |
+| 6.3 | Máy chiếu | cái | 0,5 | 9,0 |
+| 6.4 | Máy tính xách tay | cái | 0,5 | 45,0 |
+| 6.5 | Máy in khổ A4 | cái | 0,4 | 27,0 |
+| *7* | *Tính toán lại kiểm kê khí nhà kính cấp cơ sở* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức máy móc, thiết bị tương ứng của công việc đó. |
+| *8* | *Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 8.1 | Máy vi tính để bàn | cái | 0,4 | 90,0 |
+| 8.2 | Điều hòa nhiệt độ | cái | 2,2 | 48,0 |
+| 8.3 | Máy chiếu | cái | 0,5 | 12,0 |
+| 8.4 | Máy tính xách tay | cái | 0,5 | 60,0 |
+| 8.5 | Máy in khổ A4 | cái | 0,4 | 36,0 |
+3. Định mức dụng cụ lao động
+Bảng số 31
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| *1* | *Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 1.1 | Bàn làm việc | cái | 60 | 105,0 |
+| 1.2 | Ghế văn phòng | cái | 60 | 105,0 |
+| 1.3 | Tủ để tài liệu | cái | 60 | 105,0 |
+| 1.4 | Bộ lưu điện Santak 600W | cái | 60 | 105,0 |
+| 1.5 | Quạt thông gió 0,04 kW | cái | 60 | 35,0 |
+| 1.6 | Quạt trần 0,1 kW | cái | 60 | 14,0 |
+| 1.7 | Đèn neon 0,04 kW | bộ | 36 | 56,0 |
+| 1.8 | USB 32GB | cái | 12 | 14,0 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 2.1 | Bàn làm việc | cái | 60 | 5,3 |
+| 2.2 | Ghế văn phòng | cái | 60 | 5,3 |
+| 2.3 | Tủ để tài liệu | cái | 60 | 5,3 |
+| 2.4 | Bộ lưu điện Santak 600W | cái | 60 | 5,3 |
+| 2.5 | Quạt thông gió 0,04 kW | cái | 60 | 1,8 |
+| 2.6 | Quạt trần 0,1 kW | cái | 60 | 0,7 |
+| 2.7 | Đèn neon 0,04 kW | bộ | 36 | 2,8 |
+| 2.8 | USB 32GB | cái | 12 | 0,7 |
+| *3* | *Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 3.1 | Bàn làm việc | cái | 60 | 480,0 |
+| 3.2 | Ghế văn phòng | cái | 60 | 480,0 |
+| 3.3 | Tủ để tài liệu | cái | 60 | 480,0 |
+| 3.4 | Bộ lưu điện Santak 600W | cái | 60 | 480,0 |
+| 3.5 | Quạt thông gió 0,04 kW | cái | 60 | 160,0 |
+| 3.6 | Quạt trần 0,1 kW | cái | 60 | 64,0 |
+| 3.7 | Đèn neon 0,04 kW | bộ | 36 | 256,0 |
+| 3.8 | USB 32GB | cái | 12 | 64,0 |
+| *4* | *Tính toán phát thải khí nhà kính cấp cơ sở* |   |   |   |
+| 4.1 | Bàn làm việc | cái | 60 | 56,3 |
+| 4.2 | Ghế văn phòng | cái | 60 | 56,3 |
+| 4.3 | Tủ để tài liệu | cái | 60 | 56,3 |
+| 4.4 | Bộ lưu điện Santak 600W | cái | 60 | 56,3 |
+| 4.5 | Quạt thông gió 0,04 kW | cái | 60 | 18,8 |
+| 4.6 | Quạt trần 0,1 kW | cái | 60 | 7,5 |
+| 4.7 | Đèn neon 0,04 kW | bộ | 36 | 30,0 |
+| 4.8 | USB 32GB | cái | 12 | 7,5 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở* | * * | * * | * * |
+| 5.1 | Bàn làm việc | cái | 60 | 75,0 |
+| 5.2 | Ghế văn phòng | cái | 60 | 75,0 |
+| 5.3 | Tủ để tài liệu | cái | 60 | 75,0 |
+| 5.4 | Bộ lưu điện Santak 600W | cái | 60 | 75,0 |
+| 5.5 | Quạt thông gió 0,04 kW | cái | 60 | 25,0 |
+| 5.6 | Quạt trần 0,1 kW | cái | 60 | 10,0 |
+| 5.7 | Đèn neon 0,04 kW | bộ | 36 | 40,0 |
+| 5.8 | USB 32GB | cái | 12 | 10,0 |
+| *6* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 6.1 | Bàn làm việc | cái | 60 | 67,5 |
+| 6.2 | Ghế văn phòng | cái | 60 | 67,5 |
+| 6.3 | Tủ để tài liệu | cái | 60 | 67,5 |
+| 6.4 | Bộ lưu điện Santak 600W | cái | 60 | 67,5 |
+| 6.5 | Quạt thông gió 0,04 kW | cái | 60 | 22,5 |
+| 6.6 | Quạt trần 0,1 kW | cái | 60 | 9,0 |
+| 6.7 | Đèn neon 0,04 kW | bộ | 36 | 36,0 |
+| 6.8 | USB 32GB | cái | 12 | 9,0 |
+| *7* | *Tính toán lại kiểm kê khí nhà kính cấp cơ sở* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức sử dụng công cụ, dụng cụ tương ứng của công việc đó. |
+| *8* | *Xây dựng báo cáo phục vụ kiểm kê khí nhà kính cấp cơ sở* |   |   |   |
+| 8.1 | Bàn làm việc | cái | 60 | 90,0 |
+| 8.2 | Ghế văn phòng | cái | 60 | 90,0 |
+| 8.3 | Tủ để tài liệu | cái | 60 | 90,0 |
+| 8.4 | Bộ lưu điện Santak 600W | cái | 60 | 90,0 |
+| 8.5 | Quạt thông gió 0,04 kW | cái | 60 | 30,0 |
+| 8.6 | Quạt trần 0,1 kW | cái | 60 | 12,0 |
+| 8.7 | Đèn neon 0,04 kW | bộ | 36 | 48,0 |
+| 8.8 | USB 32GB | cái | 12 | 12,0 |
+|  |  |  |  |  |  |  |  |
+4. Định mức tiêu hao vật liệu
+Bảng số 32
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| *1* | *Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 1.1 | Mực in A4 Laser | hộp | 0,035 |
+| 1.2 | Giấy A4 | ram | 0,084 |
+| 1.3 | Bút chì B2 | cái | 0,020 |
+| 1.4 | Thước kẻ | cái | 0,014 |
+| 1.5 | Bút bi | cái | 1,400 |
+| 1.6 | Sổ công tác | quyển | 0,035 |
+| 1.7 | Bút đánh dấu dòng | cái | 0,035 |
+| 1.8 | Dập ghim | cái | 0,140 |
+| *2* | *Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 2.1 | Mực in A4 Laser | hộp | 0,002 |
+| 2.2 | Giấy A4 | ram | 0,004 |
+| 2.3 | Bút chì B2 | cái | 0,001 |
+| 2.4 | Thước kẻ | cái | 0,001 |
+| 2.5 | Bút bi | cái | 0,070 |
+| 2.6 | Sổ công tác | quyển | 0,002 |
+| 2.7 | Bút đánh dấu dòng | cái | 0,002 |
+| 2.8 | Dập ghim | cái | 0,007 |
+| *3* | *Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 3.1 | Mực in A4 Laser | hộp | 0,160 |
+| 3.2 | Giấy A4 | ram | 0,384 |
+| 3.3 | Bút chì B2 | cái | 0,091 |
+| 3.4 | Thước kẻ | cái | 0,064 |
+| 3.5 | Bút bi | cái | 6,400 |
+| 3.6 | Sổ công tác | quyển | 0,160 |
+| 3.7 | Bút đánh dấu dòng | cái | 0,160 |
+| 3.8 | Dập ghim | cái | 0,640 |
+| *4* | *Tính toán phát thải kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 4.1 | Mực in A4 Laser | hộp | 0,019 |
+| 4.2 | Giấy A4 | ram | 0,045 |
+| 4.3 | Bút chì B2 | cái | 0,011 |
+| 4.4 | Thước kẻ | cái | 0,008 |
+| 4.5 | Bút bi | cái | 0,750 |
+| 4.6 | Sổ công tác | quyển | 0,019 |
+| 4.7 | Bút đánh dấu dòng | cái | 0,019 |
+| 4.8 | Dập ghim | cái | 0,075 |
+| *5* | *Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở* | * * | * * |
+| 5.1 | Mực in A4 Laser | hộp | 0,025 |
+| 5.2 | Giấy A4 | ram | 0,060 |
+| 5.3 | Bút chì B2 | cái | 0,014 |
+| 5.4 | Thước kẻ | cái | 0,010 |
+| 5.5 | Bút bi | cái | 1,000 |
+| 5.6 | Sổ công tác | quyển | 0,025 |
+| 5.7 | Bút đánh dấu dòng | cái | 0,025 |
+| 5.8 | Dập ghim | cái | 0,100 |
+| *6* | *Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 6.1 | Mực in A4 Laser | hộp | 0,023 |
+| 6.2 | Giấy A4 | ram | 0,054 |
+| 6.3 | Bút chì B2 | cái | 0,013 |
+| 6.4 | Thước kẻ | cái | 0,009 |
+| 6.5 | Bút bi | cái | 0,900 |
+| 6.6 | Sổ công tác | quyển | 0,023 |
+| 6.7 | Bút đánh dấu dòng | cái | 0,023 |
+| 6.8 | Dập ghim | cái | 0,090 |
+| *7* | *Tính toán lại kiểm kê khí nhà kính cấp cơ sở* | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức tiêu hao vật liệu tương ứng của công việc đó. |
+| *8* | *Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở* |   |   |
+| 8.1 | Mực in A4 Laser | hộp | 0,030 |
+| 8.2 | Giấy A4 | ram | 0,072 |
+| 8.3 | Bút chì B2 | cái | 0,017 |
+| 8.4 | Thước kẻ | cái | 0,012 |
+| 8.5 | Bút bi | cái | 1,200 |
+| 8.6 | Sổ công tác | quyển | 0,030 |
+| 8.7 | Bút đánh dấu dòng | cái | 0,030 |
+| 8.8 | Dập ghim | cái | 0,120 |
+5. Định mức tiêu hao năng lượng
+Bảng số 33
+| TT | Danh mục năng lượng | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Xác định ranh giới hoạt động và phương pháp kiểm kê khí nhà kính cấp cơ sở | kW | 1.949,64 |
+| 1.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.881,60 |
+| 1.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 68,04 |
+| 2 | Lựa chọn hệ số phát thải kiểm kê khí nhà kính cấp cơ sở | kW | 97,48 |
+| 2.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 94,08 |
+| 2.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 3,40 |
+| 3 | Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp cơ sở | kW | 8.912,64 |
+| 3.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 8.601,60 |
+| 3.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 311,04 |
+| 4 | Tính toán phát thải kiểm kê khí nhà kính cấp cơ sở | kW | 996,45 |
+| 4.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 960,00 |
+| 4.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 36,45 |
+| 5 | Kiểm soát chất lượng kiểm kê khí nhà kính cấp cơ sở | kW | 1.392,60 |
+| 5.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.344,00 |
+| 5.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 48,60 |
+| 6 | Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp cơ sở | kW | 1.253,34 |
+| 6.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.209,60 |
+| 6.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 43,74 |
+| 7 | Tính toán lại kiểm kê khí nhà kính cấp cơ sở | Tính toán lại thực hiện đối với công việc nào thì áp dụng định mức tiêu hao năng lượng tương ứng của công việc đó. |
+| 8 | Xây dựng báo cáo kiểm kê khí nhà kính cấp cơ sở | kW | 1.671,12 |
+| 8.1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.612,80 |
+| 8.2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 58,32 |
+Chương IV
+ĐO ĐẠC, BÁO CÁO KẾT QUẢ THỰC HIỆN CÁC BIỆN PHÁP GIẢM NHẸ PHÁT THẢI KHÍ NHÀ KÍNH CẤP CƠ SỞ
+1. Xây dựng đường phát thải cơ sở của lĩnh vực quản lý chất thải
+*1.1. Định mức lao động*
+1.1.1. Nội dung công việc
+a) Xác định các giả định cho kịch bản BAU của cơ sở
+b) Xác định các nguồn phát thải khí nhà kính thuộc phạm vi hoạt động của cơ sở
+- Từ quá trình thu gom và vận chuyển chất thải rắn.
+- Từ quá trình xử lý, tiêu hủy chất thải.
+- Phát thải từ các hoạt động phân loại, tái chế rác thải.
+- Phát thải CO2 do tiêu thụ điện trong các hoạt động khác của một cơ sở xử lý chất thải.
+c) Xác định phương pháp tính toán mức phát thải khí nhà kính dự kiến theo kịch bản BAU
+- Xác định phương pháp tính toán lượng phát thải khí nhà kính tương ứng với từng nguồn thải của cơ sở.
+- Xác định các thông số giám sát phục vụ tính toán lượng phát thải khí nhà kính theo kịch bản BAU.
+d) Tính toán mức phát thải khí nhà kính dự kiến theo kịch bản BAU
+1.1.2. Định biên, định mức
+Bảng số 34
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Xác định các giả định cho kịch bản BAU của cơ sở | 01 ĐTV III.3 | 35 |
+| 2 | Xác định các nguồn phát thải khí nhà kính thuộc phạm vi hoạt động của cơ sở | 01 ĐTV III.3 |  |
+| 2.1 | Phát thải khí nhà kính từ quá trình thu gom và vận chuyển chất thải rắn | 01 ĐTV III.3 | 30 |
+| 2.2 | Phát thải từ quá trình xử lý, tiêu hủy chất thải | 01 ĐTV III.3 | 30 |
+| 2.3 | Phát thải từ các hoạt động phân loại, tái chế rác thải | 01 ĐTV III.3 | 30 |
+| 2.4 | Phát thải CO2 do tiêu thụ điện trong các hoạt động khác của một cơ sở xử lý chất thải | 01 ĐTV III.3 | 30 |
+| 3 | Xác định phương pháp tính toán mức phát thải khí nhà kính dự kiến theo kịch bản BAU |  |  |
+| 3.1 | Xác định phương pháp tính toán lượng phát thải khí nhà kính tương ứng với từng nguồn thải của cơ sở | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 3.2 | Xác định các thông số giám sát phục vụ tính toán lượng phát thải khí nhà kính theo kịch bản BAU | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 4 | Tính toán mức phát thải khí nhà kính dự kiến theo kịch bản BAU | Nhóm 3 (01 ĐTV III.4, 01 ĐTV III.5, 01 ĐTV III.6) | 35 |
+*1.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 35
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 330,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 176,0 |
+| 3 | Máy chiếu | cái | 0,5 | 44,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 220,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 132,0 |
+*1.3. Định mức dụng cụ lao động*
+Bảng số 36
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 330,0 |
+| 2 | Ghế văn phòng | cái | 60 | 330,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 330,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 330,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 110,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 44,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 176,0 |
+| 8 | USB 32GB | cái | 12 | 44,0 |
+*1.4. Định mức tiêu hao vật liệu*
+Bảng số 37
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,110 |
+| 2 | Giấy A4 | ram | 0,264 |
+| 3 | Bút chì B2 | cái | 0,063 |
+| 4 | Thước kẻ | cái | 0,044 |
+| 5 | Bút bi | cái | 4,400 |
+| 6 | Sổ công tác | quyển | 0,110 |
+| 7 | Bút đánh dấu dòng | cái | 0,110 |
+| 8 | Dập ghim | cái | 0,440 |
+*1.5. Định mức tiêu hao năng lượng*
+Bảng số 38
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 5.913,60 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 213,84 |
+2. Đo đạc mức giảm nhẹ phát thải khí nhà kính của cơ sở
+*2.1. Định mức lao động*
+2.1.1. Nội dung công việc
+a) Đo đạc mức giảm nhẹ phát thải khí nhà kính từ thu gom, vận chuyển chất thải.
+b) Đo đạc mức giảm nhẹ phát thải khí nhà kính từ việc xử lý, tiêu hủy chất thải.
+c) Đo đạc mức giảm nhẹ phát thải khí nhà kính từ tái chế chất thải.
+d) Tổng hợp mức giảm nhẹ phát thải khí nhà kính của cơ sở trong 01 năm.
+2.1.2. Định biên, định mức
+Bảng số 39
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/ cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Đo đạc mức giảm nhẹ phát thải khí nhà kính từ thu gom, vận chuyển chất thải | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 2 | Đo đạc mức giảm nhẹ phát thải khí nhà kính từ việc xử lý, tiêu hủy chất thải | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 3 | Đo đạc mức giảm nhẹ phát thải khí nhà kính từ tái chế chất thải | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+| 4 | Tổng hợp mức giảm nhẹ phát thải khí nhà kính của cơ sở trong 01 năm | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 30 |
+*2.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 40
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 270,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 144,0 |
+| 3 | Máy chiếu | cái | 0,5 | 36,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 180,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 108,0 |
+*2.3. Định mức dụng cụ lao động*
+Bảng số 41
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 270,0 |
+| 2 | Ghế văn phòng | cái | 60 | 270,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 270,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 270,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 90,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 36,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 144,0 |
+| 8 | USB 32GB | cái | 12 | 36,0 |
+*2.4. Định mức tiêu hao vật liệu*
+Bảng số 42
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,090 |
+| 2 | Giấy A4 | ram | 0,216 |
+| 3 | Bút chì B2 | cái | 0,051 |
+| 4 | Thước kẻ | cái | 0,036 |
+| 5 | Bút bi | cái | 3,600 |
+| 6 | Sổ công tác | quyển | 0,090 |
+| 7 | Bút đánh dấu dòng | cái | 0,090 |
+| 8 | Dập ghim | cái | 0,360 |
+*2.5. Định mức tiêu hao năng lượng*
+Bảng số 43
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 4.838,40 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 174,96 |
+3. Xây dựng phương án giám sát
+*3.1. Định mức lao động*
+3.1.1. Nội dung công việc
+a) Thu thập và tổng hợp thông tin chi tiết về hệ thống giám sát, vai trò và trách nhiệm của các cá nhân, tổ chức trong hệ thống giám sát, nguồn lực và công cụ cần thiết để thực hiện giám sát.
+b) Thu thập và tổng hợp thông tin về các phương pháp đo đạc lượng giảm nhẹ phát thải khí nhà kính cho các biện pháp giảm nhẹ phát thải khí nhà kính của cơ sở.
+c) Thu thập và tổng hợp thông tin về các thông số cần được đo đạc, tần suất thực hiện đo đạc trong một chu kỳ báo cáo.
+d) Thu thập và tổng hợp thông tin mô tả hệ thống quản lý, lưu trữ số liệu được thu thập.
+đ) Thu thập và tổng hợp thông tin về quy trình thực hiện QA/QC.
+e) Xây dựng phương án giám sát.
+3.1.2. Định biên, định mức:
+Bảng số 44
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Thu thập và tổng hợp thông tin chi tiết về hệ thống giám sát, vai trò và trách nhiệm của các cá nhân, tổ chức trong hệ thống giám sát, nguồn lực và công cụ cần thiết để thực hiện giám sát | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 2 | Thu thập và tổng hợp thông tin về các phương pháp đo đạc lượng giảm nhẹ phát thải khí nhà kính cho các biện pháp giảm nhẹ phát thải khí nhà kính của cơ sở | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 3 | Thu thập và tổng hợp thông tin về các thông số cần được đo đạc, tần suất thực hiện đo đạc trong một chu kỳ báo cáo | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 10 |
+| 4 | Thu thập và tổng hợp thông tin mô tả hệ thống quản lý, lưu trữ số liệu được thu thập | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 05 |
+| 5 | Thu thập và tổng hợp thông tin về quy trình thực hiện QA/QC | Nhóm 3 (01 ĐTV III.1, 01 ĐTV III.2, 01 ĐTV III.3) | 05 |
+| 6 | Xây dựng phương án giám sát | Nhóm 2 (01 ĐTV III.4, 01 ĐTV III.5) | 10 |
+*3.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 45
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 105,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 56,0 |
+| 3 | Máy chiếu | cái | 0,5 | 14,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 70,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 42,0 |
+*3.3. Định mức dụng cụ lao động*
+Bảng số 46
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 105,0 |
+| 2 | Ghế văn phòng | cái | 60 | 105,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 105,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 105,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 35,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 14,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 56,0 |
+| 8 | USB 32GB | cái | 12 | 14,0 |
+*3.4. Định mức tiêu hao vật liệu*
+Bảng số 47
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,035 |
+| 2 | Giấy A4 | ram | 0,084 |
+| 3 | Bút chì B2 | cái | 0,020 |
+| 4 | Thước kẻ | cái | 0,014 |
+| 5 | Bút bi | cái | 1,400 |
+| 6 | Sổ công tác | quyển | 0,035 |
+| 7 | Bút đánh dấu dòng | cái | 0,035 |
+| 8 | Dập ghim | cái | 0,140 |
+*3.5. Định mức tiêu hao năng lượng*
+Bảng số 48
+| TT | Danh mục năng lượng | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.881,60 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 68,04 |
+4. Xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính của cơ sở xử lý chất thải
+*4.1. Định mức lao động*
+4.1.1. Nội dung công việc
+a) Tổng hợp các kết quả giảm nhẹ phát thải khí nhà kính.
+b) Xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính của cơ sở.
+c) Chỉnh lý, hoàn thiện báo cáo sau thẩm định.
+d) Lưu trữ, hồ sơ tài liệu.
+4.1.2. Định biên, định mức
+Bảng số 49
+| TT | Nội dung công việc | Định biên | Định mức (công nhóm/cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Tổng hợp các kết quả giảm nhẹ phát thải khí nhà kính | 01 ĐTV III.3 | 10 |
+| 2 | Xây dựng báo cáo kết quả giảm nhẹ phát thải khí nhà kính của cơ sở | Nhóm 3 (01 ĐTV III.4, 01 ĐTV III.5, 01 ĐTV III.6) | 20 |
+| 3 | Chỉnh lý, hoàn thiện báo cáo sau thẩm định | 01 ĐTV III.6 | 10 |
+| 4 | Lưu trữ, hồ sơ tài liệu | Thông tư số 03/2022/TT-BTNMT của Bộ Tài nguyên và Môi trường: Ban hành Quy định kỹ thuật và Định mức kinh tế - kỹ thuật về công tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu tài nguyên và môi trường |
+*4.2. Định mức sử dụng máy móc, thiết bị*
+Bảng số 50
+| TT | Danh mục thiết bị | Đơn vị tính | Công suất (kW/h) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy vi tính để bàn | cái | 0,4 | 60,0 |
+| 2 | Điều hòa nhiệt độ | cái | 2,2 | 32,0 |
+| 3 | Máy chiếu | cái | 0,5 | 8,0 |
+| 4 | Máy tính xách tay | cái | 0,5 | 40,0 |
+| 5 | Máy in khổ A4 | cái | 0,4 | 24,0 |
+*4.3. Định mức dụng cụ lao động*
+Bảng số 51
+| TT | Danh mục dụng cụ | Đơn vị tính | Thời hạn sử dụng (tháng) | Định mức (ca/cơ sở) |
+| --- | --- | --- | --- | --- |
+| 1 | Bàn làm việc | cái | 60 | 60,0 |
+| 2 | Ghế văn phòng | cái | 60 | 60,0 |
+| 3 | Tủ để tài liệu | cái | 60 | 60,0 |
+| 4 | Bộ lưu điện Santak 600W | cái | 60 | 60,0 |
+| 5 | Quạt thông gió 0,04 kW | cái | 60 | 20,0 |
+| 6 | Quạt trần 0,1 kW | cái | 60 | 8,0 |
+| 7 | Đèn neon 0,04 kW | bộ | 36 | 32,0 |
+| 8 | USB 32GB | cái | 12 | 8,0 |
+*4.4. Định mức tiêu hao vật liệu*
+Bảng số 52
+| TT | Danh mục vật liệu | Đơn vị tính | Định mức (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Mực in A4 Laser | hộp | 0,020 |
+| 2 | Giấy A4 | ram | 0,048 |
+| 3 | Bút chì B2 | cái | 0,011 |
+| 4 | Thước kẻ | cái | 0,008 |
+| 5 | Bút bi | cái | 0,800 |
+| 6 | Sổ công tác | quyển | 0,020 |
+| 7 | Bút đánh dấu dòng | cái | 0,020 |
+| 8 | Dập ghim | cái | 0,080 |
+*4.5. Định mức tiêu hao năng lượng*
+Bảng số 53
+| TT | Danh mục năng lượng | Đơn vị tính | Mức tiêu hao (tính cho một cơ sở) |
+| --- | --- | --- | --- |
+| 1 | Điện năng tiêu hao sử dụng máy móc, thiết bị | kW | 1.024,00 |
+| 2 | Điện năng tiêu hao sử dụng dụng cụ lao động | kW | 38,88 |

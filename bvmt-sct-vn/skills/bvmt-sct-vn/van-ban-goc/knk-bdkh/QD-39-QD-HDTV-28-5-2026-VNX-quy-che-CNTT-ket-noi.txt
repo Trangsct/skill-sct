@@ -1,0 +1,576 @@
+| SỞ GIAO DỊCH  CHỨNG KHOÁN VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: 39/QĐ-HĐTV | *Hà Nội, ngày 28 tháng 5 năm 2026 * |
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH QUY CHẾ VỀ HỆ THỐNG CÔNG NGHỆ THÔNG TIN KẾT NỐI GIAO DỊCH ĐẾN SỞ GIAO DỊCH CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH, SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI
+HỘI ĐỒNG THÀNH VIÊN
+SỞ GIAO DỊCH CHỨNG KHOÁN VIỆT NAM
+*Căn cứ Luật Chứng khoán số 54/2019/QH14 được sửa đổi, bổ sung bởi Luật số 56/2024/QH15;*
+*Căn cứ Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP ngày 11/9/2025;*
+*Căn cứ Nghị định số 158/2020/NĐ-CP ngày 31/12/2020 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh được sửa đổi, bổ sung bởi Nghị định số 306/2025/NĐ-CP ngày 25/11/2025;*
+*Căn cứ Nghị định số 95/2018/NĐ-CP ngày 30/6/2018 của Chính phủ quy định về phát hành, đăng ký, lưu ký, niêm yết và giao dịch công cụ nợ của Chính phủ trên thị trường chứng khoán được sửa đổi, bổ sung bởi Nghị định số 83/2023/NĐ-CP ngày 29/11/2023;*
+*Căn cứ Nghị định số 153/2020/NĐ-CP ngày 31/12/2020 của Chính phủ quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế được sửa đổi, bổ sung bởi Nghị định số 65/2022/NĐ-CP ngày 16/9/2022 và Nghị định số 08/2023/NĐ-CP ngày 05/3/2023;*
+*Căn cứ Nghị định số 29/2026/NĐ-CP ngày 19/01/2026 của Chính phủ quy định về sàn giao dịch các-bon trong nước;*
+*Căn cứ Quyết định số 37/2020/QĐ-TTg ngày 23/12/2020 của Thủ tướng Chính phủ về việc thành lập, tổ chức và hoạt động của Sở Giao dịch Chứng khoán Việt Nam;*
+*Căn cứ Thông tư số 58/2021/TT-BTC ngày 12/7/2021 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 158/2020/NĐ-CP ngày 31/12/2020 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh;*
+*Căn cứ Thông tư số 30/2023/TT-BTC ngày 17/5/2023 của Bộ trưởng Bộ Tài chính hướng dẫn việc đăng ký, lưu ký, thực hiện quyền, chuyển quyền sở hữu, thanh toán giao dịch và tổ chức thị trường giao dịch trái phiếu doanh nghiệp chào bán riêng lẻ tại thị trường trong nước;*
+*Căn cứ Quyết định số 757/QĐ-BTC ngày 01/4/2021 của Bộ trưởng Bộ Tài chính ban hành Điều lệ tổ chức và hoạt động của Sở Giao dịch Chứng khoán Việt Nam;*
+*Căn cứ Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước ban hành Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch chứng khoán trực tuyến trên thị trường chứng khoán;*
+*Căn cứ Nghị quyết số 28/NQ-HĐTV ngày 27/5/2026 của Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam;*
+*Theo đề nghị của Tổng Giám đốc Sở Giao dịch Chứng khoán Việt Nam.*
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 25/QĐ-HĐTV ngày 18/4/2025 của Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam ban hành Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội.
+Điều 3. Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội, Thủ trưởng các đơn vị thuộc Sở Giao dịch Chứng khoán Việt Nam, các tổ chức và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+| *Nơi nhận:* - Như Điều 3; - UBCKNN; - SGDHCM, SGDHN; - HĐTV, BKS, BĐH; - Các thành viên; - Lưu: VT, QLTV (12b). | TM. HỘI ĐỒNG THÀNH VIÊN CHỦ TỊCH     Lương Hải Sinh |
+| --- | --- |
+QUY CHẾ
+VỀ HỆ THỐNG CÔNG NGHỆ THÔNG TIN KẾT NỐI GIAO DỊCH ĐẾN SỞ GIAO DỊCH CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH, SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI
+*(Ban hành kèm theo Quyết định số 39/QĐ-HĐTV ngày 28 tháng 5 năm 2026 của Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam)*
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định quyền hạn, trách nhiệm, nghĩa vụ và các yêu cầu về hệ thống công nghệ thông tin đối với tổ chức kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội để thực hiện các hoạt động giao dịch chứng khoán, các-bon.
+Điều 2. Đối tượng áp dụng
+1. Tổ chức đăng ký thành viên giao dịch, thành viên giao dịch đặc biệt của Sở Giao dịch Chứng khoán Việt Nam, Kho bạc Nhà nước đăng ký tham gia giao dịch công cụ nợ.
+2. Tổ chức kết nối giao dịch gồm các đối tượng theo quy định tại khoản 1 Điều này được hoặc đã được Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội chấp thuận kết nối giao dịch hoặc chấp thuận giao dịch trực tuyến.
+3. Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội.
+4. Các tổ chức, cá nhân có liên quan đến hoạt động kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội.
+Điều 3. Giải thích thuật ngữ, từ viết tắt
+Trong Quy chế này, các từ ngữ và cụm từ dưới đây được hiểu như sau:
+1. Sở GDCK Việt Nam: Sở Giao dịch Chứng khoán Việt Nam.
+2. Sở GDCK TPHCM: Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.
+3. Sở GDCK Hà Nội: Sở Giao dịch Chứng khoán Hà Nội.
+4. Công ty con: Sở GDCK TPHCM, Sở GDCK Hà Nội.
+5. KBNN: Kho bạc Nhà nước.
+6. Kết nối giao dịch bao gồm kết nối giao dịch trực tuyến, kết nối giao dịch qua kênh nhập lệnh khẩn cấp đến Sở GDCK TPHCM, Sở GDCK Hà Nội; kết nối giao dịch từ xa và kết nối giao dịch qua internet đến Sở GDCK Hà Nội.
+7. Kết nối giao dịch trực tuyến là hoạt động gửi lệnh trực tiếp, tự động từ hệ thống của tổ chức kết nối giao dịch trực tuyến vào các hệ thống giao dịch của Sở GDCK TPHCM, Sở GDCK Hà Nội và tuân theo các quy định hiện hành về giao dịch trên thị trường chứng khoán.
+8. Kết nối giao dịch qua kênh nhập lệnh khẩn cấp (Emergency Terminal) là hoạt động kết nối giao dịch qua internet để tổ chức kết nối giao dịch nhập lệnh vào Sở GDCK TPHCM, Sở GDCK Hà Nội trên hệ thống giao dịch chứng khoán niêm yết, đăng ký giao dịch và hệ thống giao dịch chứng khoán phái sinh trong trường hợp hệ thống giao dịch trực tuyến của tổ chức kết nối giao dịch bị sự cố và trên hệ thống giao dịch công cụ nợ của Sở GDCK Hà Nội đặt tại trung tâm dữ liệu của Sở GDCK TPHCM.
+9. Kết nối giao dịch từ xa là hoạt động kết nối giao dịch đến Sở GDCK Hà Nội bằng các phần mềm giao dịch từ xa do Sở GDCK Hà Nội cung cấp thông qua môi trường mạng Wan.
+10. Kết nối giao dịch qua internet là hoạt động kết nối giao dịch đến Sở GDCK Hà Nội thông qua các máy trạm được cài đặt các phần mềm phục vụ hoạt động giao dịch và được lắp đặt theo quy định tại Quy chế này của tổ chức kết nối giao dịch thông qua môi trường mạng internet.
+11. Phân vùng kết nối hoặc phân vùng là vùng mạng chỉ bao gồm các thiết bị máy tính, máy chủ có kết nối trực tiếp với nhau và có cùng chung một dải địa chỉ mạng; trao đổi thông tin giữa các phân vùng phải thông qua các thiết bị như tường lửa, bộ định tuyến hoặc các thiết bị mạng chuyên dụng khác.
+12. Nhân sự phụ trách kết nối giao dịch là cán bộ công nghệ thông tin được tổ chức kết nối giao dịch chỉ định để phối hợp với Sở GDCK TPHCM, Sở GDCK Hà Nội trong hoạt động kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội.
+13. Tài khoản nhập lệnh khẩn cấp là tài khoản do Sở GDCK TPHCM, Sở GDCK Hà Nội cấp cho tổ chức kết nối giao dịch để nhập lệnh giao dịch qua kênh nhập lệnh khẩn cấp. Một tài khoản nhập lệnh khẩn cấp chỉ được truy cập trên một máy trạm đặt tại tổ chức kết nối giao dịch.
+Chương II
+QUY ĐỊNH VỀ HỆ THỐNG CÔNG NGHỆ THÔNG TIN KẾT NỐI GIAO DỊCH ĐẾN TRUNG TÂM DỮ LIỆU DO SỞ GIAO DỊCH CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH VẬN HÀNH
+Điều 4. Các hệ thống đặt tại Trung tâm dữ liệu do Sở GDCK TPHCM vận hành
+1. Hệ thống giao dịch chứng khoán niêm yết do Sở GDCK TPHCM quản lý, vận hành.
+2. Hệ thống giao dịch chứng khoán niêm yết, đăng ký giao dịch; hệ thống giao dịch chứng khoán phái sinh; hệ thống giao dịch công cụ nợ do Sở GDCK Hà Nội quản lý, vận hành.
+Điều 5. Các hình thức kết nối giao dịch đến Trung tâm dữ liệu do Sở GDCK TPHCM vận hành
+1. Kết nối giao dịch trực tuyến. Tổ chức kết nối giao dịch có thể có nhiều hơn một kết nối giao dịch trực tuyến.
+2. Kết nối giao dịch qua kênh nhập lệnh khẩn cấp.
+Điều 6. Địa điểm kết nối giao dịch đến Trung tâm dữ liệu do Sở GDCK TPHCM vận hành
+1. Tổ chức kết nối giao dịch trực tuyến chỉ được đăng ký duy nhất 01 địa điểm kết nối chính và 01 địa điểm kết nối dự phòng đến Trung tâm dữ liệu do Sở GDCK TPHCM vận hành để kết nối giao dịch trực tuyến. Địa điểm kết nối giao dịch trực tuyến từ một trong các địa điểm sau:
+a) Trụ sở chính;
+b) Chi nhánh;
+c) Trung tâm dữ liệu độc lập không thuộc trụ sở chính hoặc chi nhánh của tổ chức kết nối giao dịch;
+d) Trung tâm dữ liệu thuê, mượn.
+2. Hệ thống công nghệ thông tin tại địa điểm kết nối dự phòng phải đáp ứng các yêu cầu kỹ thuật, được triển khai tương tự như hệ thống công nghệ thông tin tại địa điểm chính và không bắt buộc phải có dự phòng về thiết bị.
+a) Điểm kết nối dự phòng chỉ được sử dụng khi điểm kết nối chính gặp sự cố. Tổ chức kết nối giao dịch phải báo cáo Sở GDCK TPHCM, Sở GDCK Hà Nội đăng ký sử dụng điểm kết nối dự phòng và được Sở GDCK TPHCM, Sở GDCK Hà Nội chấp thuận;
+b) Trong thời gian kết nối từ địa điểm kết nối dự phòng, Sở GDCK TPHCM, Sở GDCK Hà Nội sẽ ngắt kết nối tại địa điểm kết nối chính;
+c) Sau khi khắc phục được sự cố, tổ chức kết nối giao dịch phải thông báo cho Sở GDCK TPHCM, Sở GDCK Hà Nội trước khi thực hiện chuyển kết nối về địa điểm kết nối chính. Việc chuyển đổi về địa điểm kết nối chính phải thực hiện ngoài giờ giao dịch.
+3. Khi Sở GDCK TPHCM chuyển đổi kết nối giao dịch trực tuyến từ trung tâm dữ liệu chính sang trung tâm dữ liệu dự phòng, tổ chức kết nối giao dịch trực tuyến cần đáp ứng các quy trình, thủ tục theo hướng dẫn của Sở GDCK TPHCM để chuyển đổi kết nối giao dịch trực tuyến đến trung tâm dữ liệu dự phòng của Sở GDCK TPHCM.
+Điều 7. Quy định về hệ thống công nghệ thông tin kết nối giao dịch trực tuyến
+Hệ thống công nghệ thông tin kết nối giao dịch trực tuyến của tổ chức kết nối trên các thị trường do Sở GDCK TPHCM và Sở GDCK Hà Nội quản lý phải đáp ứng các quy định sau:
+1. Tổ chức kết nối giao dịch trực tuyến đến Sở GDCK TPHCM, Sở GDCK Hà Nội trên thị trường chứng khoán niêm yết, đăng ký giao dịch, thị trường chứng khoán phái sinh từ các địa điểm quy định tại khoản 1 Điều 6 Quy chế này phải đáp ứng các tiêu chuẩn quy định tại Mục 2.2, Mục 2.3 Chương II - Quy định về hạ tầng kỹ thuật tại Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch chứng khoán trực tuyến trên thị trường chứng khoán được ban hành kèm theo Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước hoặc Hạ tầng kỹ thuật trung tâm dữ liệu phải có Chứng nhận/Chứng chỉ đáp ứng tiêu chuẩn TCVN 9250:2021.
+2. Tổ chức kết nối giao dịch trực tuyến phải có tối thiểu 02 đường truyền của các nhà cung cấp dịch vụ khác nhau (được Sở GDCK TPHCM, Sở GDCK Hà Nội chấp thuận) từ 01 địa điểm đăng ký kết nối đến Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng của Sở GDCK TPHCM. Hình thức kết nối đường truyền tới Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng của Sở GDCK TPHCM thực hiện theo hướng dẫn của Sở GDCK TPHCM.
+3. Hệ thống giao dịch của tổ chức kết nối giao dịch phải đảm bảo:
+a) Được xây dựng trên cơ sở tuân thủ các quy định về giao dịch chứng khoán do Sở GDCK Việt Nam và công ty con ban hành và các quy định khác liên quan;
+b) Xây dựng theo đúng tiêu chuẩn đặc tả kỹ thuật theo hướng dẫn của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+c) Có chức năng kiểm tra và chấp nhận dữ liệu từ hệ thống giao dịch của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+4. Các lệnh giao dịch của nhà đầu tư phải được hệ thống giao dịch của tổ chức kết nối giao dịch kiểm soát về tính tuân thủ trước khi tiếp tục được chuyển vào hệ thống giao dịch của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+5. Tổ chức kết nối giao dịch không được chuyển lệnh vào hệ thống giao dịch của Sở GDCK TPHCM, Sở GDCK Hà Nội ngoài giờ giao dịch theo quy định.
+6. Hệ thống cung cấp các phương thức nhận lệnh cho nhà đầu tư phải đáp ứng các tiêu chuẩn như sau:
+a) Tuân thủ các quy định về giao dịch chứng khoán hiện hành;
+b) Cung cấp được thông tin tức thời về trạng thái lệnh cho nhà đầu tư;
+c) Lưu vết nguồn gốc và hoạt động giao dịch của nhà đầu tư.
+7. Mô hình triển khai, trang thiết bị công nghệ thông tin kết nối giao dịch phải đáp ứng theo hướng dẫn của Sở GDCK TPHCM và Sở GDCK Hà Nội.
+8. Cài đặt, quản trị, vận hành và an ninh bảo mật phải đáp ứng theo hướng dẫn của Sở GDCK TPHCM và Sở GDCK Hà Nội.
+9. Có tối thiểu 02 nhân sự công nghệ thông tin có trình độ đại học trở lên chuyên ngành công nghệ thông tin. Trong đó, trưởng bộ phận công nghệ thông tin phải có ít nhất một năm kinh nghiệm trong lĩnh vực công nghệ thông tin; nhân viên công nghệ thông tin phải có chứng chỉ chuyên môn phù hợp với từng vị trí công tác sau: quản trị hệ thống mạng, quản trị hệ điều hành, bảo mật hệ thống công nghệ thông tin và quản trị cơ sở dữ liệu.
+Điều 8. Quy định về hệ thống công nghệ thông tin kết nối giao dịch qua kênh nhập lệnh khẩn cấp
+Hệ thống công nghệ thông tin kết nối giao dịch qua kênh nhập lệnh khẩn cấp của tổ chức kết nối trên các thị trường do Sở GDCK TPHCM và Sở GDCK Hà Nội quản lý phải đáp ứng các quy định sau:
+1. Về trang thiết bị công nghệ thông tin kết nối giao dịch qua kênh nhập lệnh khẩn cấp
+a) Đáp ứng đúng số lượng và cấu hình tối thiểu theo hướng dẫn của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+b) Phải có dự phòng, đảm bảo có thể hoạt động được ngay khi thiết bị chính gặp sự cố.
+2. Yêu cầu về khu vực kết nối giao dịch qua kênh nhập lệnh khẩn cấp
+a) Triển khai khu vực kết nối giao dịch qua kênh nhập lệnh khẩn cấp tại trụ sở chính hoặc chi nhánh của tổ chức kết nối giao dịch. Đối với tổ chức kết nối giao dịch là công ty chứng khoán, khu vực kết nối giao dịch qua kênh nhập lệnh khẩn cấp phải tách biệt hoàn toàn với các khu vực nghiệp vụ khác (ngoại trừ khu vực nhập lệnh từ xa);
+b) Chỉ có nhân sự được tổ chức kết nối giao dịch chỉ định nhập lệnh, nhân sự phụ trách kết nối và các cán bộ tin học (trong trường hợp có sự cố) được phép sử dụng các máy trạm của kênh nhập lệnh khẩn cấp;
+c) Bố trí hệ thống ghi hình (camera) tại khu vực kết nối giao dịch qua kênh nhập lệnh khẩn cấp đảm bảo ghi hình được khu vực nhập lệnh khẩn cấp và hoạt động của nhân sự. Dữ liệu từ hệ thống ghi hình đặt tại khu vực giao dịch qua kênh nhập lệnh khẩn cấp tối thiểu 01 tháng gần nhất phải được lưu giữ và cung cấp khi có yêu cầu;
+d) Các hệ thống liên lạc đọc lệnh bằng điện thoại (nếu có) tại khu vực kết nối giao dịch qua kênh nhập lệnh khẩn cấp phải gắn thiết bị ghi âm và lưu giữ thông tin cuộc gọi phục vụ mục đích kiểm tra, giám sát và giải quyết tranh chấp nếu có phát sinh;
+đ) Việc lắp đặt và sử dụng máy trạm hiển thị lệnh (nếu có) kết nối với hệ thống nội bộ của tổ chức kết nối giao dịch đáp ứng nhu cầu tra cứu và hiển thị lệnh cần nhập. Máy trạm này phải đảm bảo tách biệt hoàn toàn với máy trạm kết nối giao dịch qua kênh nhập lệnh khẩn cấp.
+3. Cài đặt, quản trị, vận hành giao dịch qua kênh nhập lệnh khẩn cấp
+a) Tổ chức đăng ký kết nối giao dịch phải đăng ký với Sở GDCK TPHCM, Sở GDCK Hà Nội số lượng tài khoản nhập lệnh khẩn cấp, máy trạm kết nối giao dịch qua kênh nhập lệnh khẩn cấp và phải duy trì tối thiểu một (01) tài khoản nhập lệnh khẩn cấp đối với Sở GDCK TPHCM, Sở GDCK Hà Nội trên mỗi thị trường; số lượng tài khoản nhập lệnh khẩn cấp được xét cấp trên cơ sở tài nguyên hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội. Tổ chức đăng ký kết nối giao dịch phải bố trí nhân sự sẵn sàng giao dịch trong trường hợp hệ thống giao dịch trực tuyến xảy ra sự cố;
+b) Máy trạm kết nối giao dịch qua kênh nhập lệnh khẩn cấp là máy trạm được triển khai trong phân vùng mạng riêng biệt, cho phép nhân sự của tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp thực hiện nhập lệnh giao dịch và phải được cài đặt như sau:
+- Chỉ được kết nối với phân vùng mạng Core, phân vùng mạng quản trị và phải tách biệt hoàn toàn với các phân vùng mạng nội bộ khác của tổ chức kết nối giao dịch;
+- Phải được đặt tên máy và NAT địa chỉ IP internet đã đăng ký với Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Môi trường hệ điều hành: Các phiên bản hệ điều hành Microsoft Windows đang trong thời gian hỗ trợ của hãng;
+- Phần mềm cài đặt: phần mềm phục vụ hoạt động giao dịch qua kênh nhập lệnh khẩn cấp do Sở GDCK TPHCM, Sở GDCK Hà Nội cung cấp;
+- Phần mềm antivirus có bản quyền và phải được cập nhật định kỳ (tối thiểu 01 tháng/01 lần);
+- Khóa cổng USB storage, CD/DVD.
+4. An ninh bảo mật
+a) Kết nối từ máy trạm giao dịch qua kênh nhập lệnh khẩn cấp phải được bảo vệ bởi thiết bị tường lửa chuyên dụng. Thiết bị tường lửa chuyên dụng phải được thiết lập các luật theo hướng dẫn của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+b) Tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp phải đảm bảo các dữ liệu giao dịch được xóa bỏ hoàn toàn trong trường hợp thay thế máy trạm, ổ đĩa cứng;
+c) Tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp phải bảo mật tài khoản nhập lệnh khẩn cấp do Sở GDCK TPHCM, Sở GDCK Hà Nội cấp và phải chịu mọi trách nhiệm về thiệt hại do việc lộ thông tin tài khoản gây ra;
+d) Tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp không được phép chuyển giao phần mềm nhập lệnh khẩn cấp do Sở GDCK TPHCM, Sở GDCK Hà Nội cung cấp cho bên thứ ba;
+đ) Tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp chỉ được gửi các kết nối tới hệ thống công nghệ thông tin của Sở GDCK TPHCM, Sở GDCK Hà Nội theo đúng địa chỉ IP, cổng dịch vụ và thời gian thực hiện kết nối theo yêu cầu của Sở GDCK TPHCM, Sở GDCK Hà Nội. Trường hợp phát hiện dấu hiệu kết nối bất thường từ phía tổ chức kết nối giao dịch qua kênh nhập lệnh khẩn cấp, Sở GDCK TPHCM, Sở GDCK Hà Nội được tạm thời ngắt kết nối giao dịch qua kênh nhập lệnh khẩn cấp để làm rõ nguyên nhân và đảm bảo an toàn chung cho hệ thống.
+5. Nhân viên công nghệ thông tin phải có chứng chỉ chuyên môn phù hợp với từng vị trí công tác sau: quản trị hệ thống mạng, quản trị hệ điều hành, bảo mật hệ thống công nghệ thông tin và quản trị cơ sở dữ liệu.
+Chương III
+QUY ĐỊNH VỀ HỆ THỐNG CÔNG NGHỆ THÔNG TIN KẾT NỐI GIAO DỊCH ĐẾN TRUNG TÂM DỮ LIỆU DO SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI VẬN HÀNH
+Điều 9. Các hệ thống đặt tại Trung tâm dữ liệu do Sở GDCK Hà Nội vận hành
+1. Hệ thống giao dịch công cụ nợ BTS/eBTS cùng các phân hệ liên quan.
+2. Hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ.
+3. Hệ thống giao dịch các-bon.
+Điều 10. Các hình thức kết nối giao dịch đến Trung tâm dữ liệu do Sở GDCK Hà Nội vận hành
+1. Kết nối giao dịch trực tuyến.
+2. Kết nối giao dịch từ xa.
+3. Kết nối giao dịch qua internet.
+Điều 11. Địa điểm kết nối giao dịch đến Trung tâm dữ liệu do Sở GDCK Hà Nội vận hành
+1. Địa điểm kết nối giao dịch trực tuyến, giao dịch từ xa của tổ chức đăng ký kết nối giao dịch từ một trong các địa điểm theo quy định tại điểm a, b, c, d khoản 1 Điều 6 Quy chế này.
+2. Tổ chức kết nối giao dịch trực tuyến chỉ được đăng ký 01 địa điểm kết nối chính và 01 địa điểm kết nối dự phòng đến Trung tâm dữ liệu và Trung tâm dữ liệu dự phòng của Sở GDCK Hà Nội.
+3. Tổ chức kết nối giao dịch từ xa có thể đăng ký nhiều địa điểm kết nối đến Trung tâm dữ liệu và Trung tâm dữ liệu dự phòng của Sở GDCK Hà Nội.
+4. Hệ thống công nghệ thông tin tại địa điểm kết nối dự phòng phải đáp ứng quy định tại khoản 2 Điều 6 Quy chế này.
+Điều 12. Quy định về hệ thống công nghệ thông tin kết nối giao dịch đến Trung tâm dữ liệu của Sở GDCK Hà Nội
+Tổ chức kết nối giao dịch đến Sở GDCK Hà Nội phải đáp ứng các quy định sau:
+1. Tổ chức kết nối giao dịch phải có tối thiểu 02 đường truyền của các nhà cung cấp dịch vụ khác nhau (các nhà cung cấp dịch vụ phải được Sở GDCK Hà Nội chấp thuận) kết nối trực tiếp từ địa điểm kết nối đến hạ tầng công nghệ thông tin của Sở GDCK Hà Nội. Hình thức kết nối đường truyền thực hiện theo hướng dẫn của Sở GDCK Hà Nội.
+2. Hệ thống phần mềm giao dịch trực tuyến của tổ chức kết nối giao dịch phải đảm bảo theo quy định tại khoản 3, 4, 5, 6 Điều 7 Quy chế này.
+3. Mô hình triển khai, trang thiết bị công nghệ thông tin kết nối giao dịch phải đáp ứng theo hướng dẫn của Sở GDCK Hà Nội.
+4. Cài đặt, quản trị, vận hành và an ninh bảo mật phải đáp ứng theo hướng dẫn của Sở GDCK Hà Nội.
+5. Khi Sở GDCK Hà Nội chuyển đổi kết nối giao dịch từ trung tâm dữ liệu chính sang trung tâm dữ liệu dự phòng, tổ chức kết nối giao dịch cần đáp ứng các quy trình, thủ tục theo hướng dẫn của Sở GDCK Hà Nội để chuyển đổi kết nối giao dịch đến trung tâm dữ liệu dự phòng của Sở GDCK Hà Nội.
+Điều 13. Quy định về hạ tầng kỹ thuật phòng máy chủ, trung tâm dữ liệu
+1. Phòng máy chủ
+Hạ tầng kỹ thuật phòng máy chủ của tổ chức kết nối giao dịch phải đáp ứng các yêu cầu được quy định tại Mục 2.2, Mục 2.3 Chương II - Quy định về hạ tầng kỹ thuật tại Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch trực tuyến trên thị trường chứng khoán được ban hành kèm theo Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước.
+2. Trung tâm dữ liệu
+Hạ tầng kỹ thuật trung tâm dữ liệu độc lập; trung tâm dữ liệu thuê, mượn phải có Chứng nhận/Chứng chỉ đáp ứng tiêu chuẩn TCVN 9250:2021 hoặc phải đáp ứng các yêu cầu được quy định tại Mục 2.2, Mục 2.3 Chương II - Quy định về hạ tầng kỹ thuật tại Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch trực tuyến trên thị trường chứng khoán được ban hành kèm theo Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước.
+Điều 14. Quy định về khu vực nhập lệnh từ xa
+Khu vực nhập lệnh từ xa của tổ chức kết nối giao dịch trên các thị trường do Sở GDCK Hà Nội quản lý phải đáp ứng các quy định sau:
+1. Triển khai khu vực kết nối giao dịch từ xa tại trụ sở chính hoặc chi nhánh của tổ chức kết nối giao dịch.
+2. Bố trí hệ thống ghi hình (camera) tại khu vực kết nối giao dịch từ xa đảm bảo ghi hình được khu vực nhập lệnh từ xa và hoạt động của nhân sự. Dữ liệu từ hệ thống ghi hình đặt tại khu vực kết nối giao dịch từ xa tối thiểu 01 tháng gần nhất phải được lưu giữ và cung cấp khi có yêu cầu.
+3. Hệ thống liên lạc đọc lệnh bằng điện thoại tại khu vực kết nối giao dịch từ xa phải được ghi âm và lưu trữ thông tin cuộc gọi phục vụ mục đích kiểm tra, giám sát và giải quyết tranh chấp nếu có phát sinh.
+4. Máy trạm hiển thị lệnh cần nhập của tổ chức kết nối giao dịch kết nối với hệ thống nội bộ của tổ chức kết nối giao dịch phải đảm bảo tách biệt hoàn toàn với máy trạm nhập lệnh từ xa.
+Điều 15. Quy định về triển khai, sử dụng máy trạm nhập lệnh từ xa và máy trạm nhập lệnh qua Internet
+1. Về trang thiết bị công nghệ thông tin kết nối giao dịch từ xa
+a) Đáp ứng đúng số lượng và cấu hình tối thiểu theo hướng dẫn của Sở GDCK Hà Nội;
+b) Phải có dự phòng, đảm bảo có thể hoạt động được ngay khi thiết bị chính gặp sự cố.
+2. Cài đặt, quản trị, vận hành và an ninh bảo mật qua kết nối giao dịch từ xa triển khai theo hướng dẫn của Sở GDCK Hà Nội.
+3. Chỉ có nhân sự được tổ chức kết nối giao dịch chỉ định nhập lệnh vào hệ thống giao dịch của Sở GDCK Hà Nội, nhân sự phụ trách kết nối và các cán bộ tin học được phép sử dụng máy trạm nhập lệnh từ xa.
+4. Máy trạm nhập lệnh qua Internet phải riêng biệt với máy trạm nhập lệnh từ xa và phải được đăng ký trước địa chỉ IP Internet kết nối giao dịch với Sở GDCK Hà Nội.
+Điều 16. Quy định về hệ thống giao dịch cho Kho bạc Nhà nước tham gia giao dịch công cụ nợ
+1. Hình thức kết nối: kết nối giao dịch từ xa tới hệ thống giao dịch công cụ nợ đặt tại trung tâm dữ liệu của Sở GDCK Hà Nội.
+2. Đường truyền: sử dụng hạ tầng truyền thông ngành tài chính.
+3. Mô hình triển khai, cài đặt, quản trị, vận hành và an ninh bảo mật: thực hiện theo hướng dẫn của Sở GDCK Hà Nội đối với KBNN triển khai hệ thống giao dịch công cụ nợ.
+Chương IV
+HỒ SƠ, THỦ TỤC ĐĂNG KÝ KẾT NỐI GIAO DỊCH
+Điều 17. Đăng ký kết nối giao dịch lần đầu
+1. Hồ sơ đăng ký kết nối giao dịch lần đầu bao gồm:
+a) Giấy đăng ký kết nối giao dịch theo mẫu tại Phụ lục 01A/CNTT ban hành kèm theo Quy chế này;
+b) Hồ sơ thiết kế và tài liệu thuyết minh hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo mẫu tại Phụ lục 02/CNTT ban hành kèm theo Quy chế này;
+c) Các quy định, quy trình nội bộ của tổ chức đăng ký kết nối giao dịch liên quan đến quản trị vận hành và xử lý sự cố kết nối đến Sở GDCK TPHCM, Sở GDCK Hà Nội;
+d) Quy trình sao lưu dự phòng, phục hồi dữ liệu (áp dụng đối với tổ chức đăng ký kết nối giao dịch trực tuyến);
+đ) Quy trình nhập lệnh trên hệ thống giao dịch từ xa, quy trình nhập lệnh qua kênh nhập lệnh khẩn cấp (áp dụng đối với tổ chức đăng ký kết nối giao dịch từ xa, kết nối giao dịch qua kênh nhập lệnh khẩn cấp);
+e) Quy trình nội bộ của tổ chức kết nối giao dịch về việc chuyển đổi giao dịch giữa trung tâm dữ liệu chính và trung tâm dữ liệu dự phòng (Trường hợp tổ chức kết nối giao dịch có triển khai trung tâm dữ liệu chính, trung tâm dữ liệu dự phòng);
+g) Quy trình chuyển đổi kết nối giao dịch của tổ chức kết nối giao dịch tới trung tâm dữ liệu dự phòng (và ngược lại) của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+h) Trường hợp địa điểm kết nối giao dịch là trung tâm dữ liệu thuê, mượn; trung tâm dữ liệu độc lập cần bổ sung các tài liệu sau:
+- Bản sao hợp lệ Hợp đồng thuê trung tâm dữ liệu (đối với trường hợp thuê trung tâm dữ liệu);
+- Bản sao hợp đồng hoặc văn bản chấp thuận cho mượn trung tâm dữ liệu (đối với trường hợp mượn trung tâm dữ liệu);
+- Quyết định thành lập trung tâm dữ liệu độc lập của tổ chức kết nối giao dịch (đối với trung tâm dữ liệu độc lập);
+- Chứng nhận/Chứng chỉ/Tuyên bố đáp ứng tiêu chuẩn TCVN 9250:2021 hoặc tài liệu đáp ứng các yêu cầu được quy định tại Mục 2.2, Mục 2.3 Chương II - Quy định về hạ tầng kỹ thuật tại Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch trực tuyến trên thị trường chứng khoán được ban hành kèm theo Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước.
+2. Thủ tục kết nối giao dịch lần đầu
+a) Tổ chức đăng ký kết nối giao dịch lần đầu nộp hồ sơ đăng ký kết nối giao dịch cho Sở GDCK Việt Nam cùng hồ sơ đăng ký thành viên và đồng thời nộp hồ sơ đăng ký kết nối giao dịch cho Sở GDCK TPHCM, Sở GDCK Hà Nội nơi đăng ký kết nối và giao dịch;
+b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký kết nối giao dịch, trường hợp hồ sơ chưa đầy đủ hợp lệ, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản yêu cầu tổ chức đăng ký kết nối giao dịch sửa đổi, bổ sung hồ sơ, đồng thời gửi Sở GDCK Việt Nam;
+c) Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ hợp lệ, Sở GDCK TPHCM, Sở GDCK Hà Nội báo cáo Sở GDCK Việt Nam để Sở GDCK Việt Nam hướng dẫn tổ chức đăng ký thành viên thực hiện các thủ tục tiếp theo;
+d) Các thủ tục hướng dẫn tổ chức đăng ký kết nối giao dịch hoàn thiện cơ sở vật chất, triển khai kết nối, thử nghiệm hệ thống giao dịch, kiểm tra cơ sở vật chất và chấp thuận kết nối giao dịch lần đầu thực hiện theo thủ tục đăng ký thành viên quy định tại Quy chế thành viên của Sở GDCK Việt Nam, Quy chế thành viên giao dịch trái phiếu doanh nghiệp riêng lẻ và Quy chế thành viên giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon.
+Điều 18. Đăng ký thay đổi kết nối giao dịch
+1. Tổ chức kết nối giao dịch phải gửi hồ sơ đăng ký thay đổi kết nối giao dịch tới Sở GDCK TPHCM, Sở GDCK Hà Nội trước khi thay đổi kết nối trong các trường hợp sau đây:
+a) Thay đổi địa điểm kết nối giao dịch: thay đổi địa điểm kết nối giao dịch, bổ sung địa điểm kết nối giao dịch, thay đổi vị trí khu vực nhập lệnh khẩn cấp và thay đổi vị trí khu vực nhập lệnh từ xa;
+b) Thay đổi, nâng cấp, chỉnh sửa giải pháp phần mềm giao dịch (không bao gồm các kênh nhận lệnh trực tiếp từ phía nhà đầu tư) trong các trường hợp sau:
+- Thay đổi nhà cung cấp;
+- Thay đổi, nâng cấp, chỉnh sửa phần mềm giao dịch trực tuyến;
+- Mô hình, kiến trúc;
+- Nền tảng công nghệ, giải pháp;
+- Hệ quản trị cơ sở dữ liệu;
+- Thêm cổng nhập lệnh.
+c) Thay đổi thiết bị, cấu trúc hạ tầng có ảnh hưởng đến kết nối giao dịch tới Sở GDCK TPHCM, Sở GDCK Hà Nội trong các trường hợp sau:
+- Máy chủ, hệ điều hành máy chủ;
+- Máy trạm;
+- Thiết bị mạng;
+- Thiết bị an ninh bảo mật;
+- Thay đổi đường truyền kết nối tới Sở GDCK TPHCM, Sở GDCK Hà Nội (trừ điều chỉnh băng thông);
+- Mô hình hệ thống mạng kết nối giao dịch.
+d) Thay đổi, bổ sung phương thức kết nối giao dịch
+- Kết nối giao dịch qua kênh nhập lệnh khẩn cấp;
+- Kết nối giao dịch từ xa, kết nối giao dịch trực tuyến.
+2. Hồ sơ đăng ký thay đổi kết nối giao dịch thực hiện theo quy định tại Phụ lục 01B/CNTT ban hành kèm theo Quy chế này. Trong trường hợp cần thiết, Sở GDCK TPHCM, Sở GDCK Hà Nội có thể yêu cầu bổ sung hồ sơ thiết kế và tài liệu thuyết minh hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo mẫu tại Phụ lục 02/CNTT ban hành kèm theo Quy chế này.
+3. Trường hợp tổ chức kết nối giao dịch thay đổi trang thiết bị công nghệ thông tin, hệ điều hành máy chủ, hồ sơ thay đổi kết nối bao gồm: Giấy đăng ký thay đổi kết nối giao dịch theo mẫu tại Phụ lục 01B/CNTT ban hành kèm theo Quy chế này, danh mục trang thiết bị công nghệ thông tin thay đổi, bảng luật trên thiết bị tường lửa (nếu thay đổi thiết bị tường lửa).
+4. Thủ tục thay đổi kết nối giao dịch
+a) Tổ chức đăng ký thay đổi kết nối giao dịch nộp hồ sơ đăng ký thay đổi kết nối giao dịch trực tiếp hoặc gửi qua đường bưu điện hoặc gửi qua hệ thống tiếp nhận văn bản trực tuyến (nếu có) cho Sở GDCK TPHCM, Sở GDCK Hà Nội;
+b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký thay đổi kết nối giao dịch, trường hợp hồ sơ đầy đủ và hợp lệ, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản thông báo để tổ chức đăng ký thay đổi kết nối giao dịch chuẩn bị hệ thống công nghệ thông tin. Trường hợp hồ sơ không đầy đủ, hợp lệ, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản yêu cầu tổ chức đăng ký thay đổi kết nối giao dịch sửa đổi, bổ sung hồ sơ;
+c) Tổ chức đăng ký thay đổi kết nối giao dịch báo cáo với Sở GDCK TPHCM, Sở GDCK Hà Nội sau khi hoàn thành việc chuẩn bị hệ thống công nghệ thông tin và gửi công văn đề nghị Sở GDCK TPHCM, Sở GDCK Hà Nội kiểm tra cơ sở vật chất. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được công văn đề nghị của tổ chức đăng ký thay đổi kết nối giao dịch, Sở GDCK TPHCM, Sở GDCK Hà Nội thông báo kế hoạch kiểm tra cơ sở vật chất và trạng thái kết nối của tổ chức đăng ký thay đổi kết nối giao dịch. Hình thức kiểm tra và nội dung kiểm tra thực hiện theo hướng dẫn của Sở GDCK TPHCM, Sở GDCK Hà Nội. Trường hợp cần thiết, Sở GDCK TPHCM, Sở GDCK Hà Nội yêu cầu tổ chức đăng ký thay đổi kết nối giao dịch thực hiện kiểm thử hệ thống giao dịch trước khi tiến hành kiểm tra;
+d) Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra:
+- Nếu kết quả kiểm tra đạt yêu cầu, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản chấp thuận thay đổi kết nối giao dịch;
+- Nếu kết quả kiểm tra không đạt yêu cầu, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản yêu cầu tổ chức đăng ký thay đổi kết nối giao dịch khắc phục. Tổ chức đăng ký thay đổi kết nối giao dịch phải gửi báo cáo kết quả khắc phục cho Sở GDCK TPHCM, Sở GDCK Hà Nội. Sở GDCK TPHCM, Sở GDCK Hà Nội thực hiện kiểm tra lại (nếu cần);
+đ) Trong thời hạn 03 ngày làm việc kể từ ngày chấp thuận thay đổi kết nối giao dịch, Sở GDCK TPHCM, Sở GDCK Hà Nội có văn bản báo cáo Sở GDCK Việt Nam những thay đổi của tổ chức kết nối giao dịch.
+Điều 19. Tạm ngừng, hủy bỏ kết nối giao dịch
+1. Tạm ngừng kết nối giao dịch
+a) Sở GDCK TPHCM, Sở GDCK Hà Nội thực hiện tạm ngừng kết nối giao dịch đối với tổ chức kết nối giao dịch khi xảy ra một trong các trường hợp sau:
+- Theo đề nghị của tổ chức kết nối giao dịch;
+- Tổ chức kết nối giao dịch bị Sở GDCK Việt Nam xử lý theo hình thức tạm ngừng kết nối giao dịch từ xa, tạm ngừng kết nối giao dịch trực tuyến, tạm ngừng kết nối giao dịch qua kênh nhập lệnh khẩn cấp, tạm ngừng kết nối giao dịch qua internet;
+- Tổ chức kết nối giao dịch bị Sở GDCK Việt Nam đình chỉ hoạt động giao dịch tại Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Tổ chức kết nối giao dịch ngừng giao dịch theo thông báo của Sở GDCK Việt Nam để thực hiện thủ tục hủy bỏ tư cách thành viên;
+- Tạm ngừng khẩn cấp: Sở GDCK TPHCM, Sở GDCK Hà Nội chủ động ngắt kết nối giao dịch, thông báo và yêu cầu khắc phục cho tổ chức kết nối giao dịch trong trường hợp phát hiện tổ chức kết nối giao dịch gây ảnh hưởng hoặc có khả năng gây ảnh hưởng tới khả năng hoạt động, an toàn thông tin cho hệ thống công nghệ thông tin của Sở GDCK TPHCM hoặc Sở GDCK Hà Nội. Tổ chức kết nối giao dịch được kết nối giao dịch trở lại sau khi đã khắc phục, báo cáo Sở GDCK TPHCM, Sở GDCK Hà Nội kết quả khắc phục và kết quả kiểm thử đạt yêu cầu của Sở GDCK TPHCM, Sở GDCK Hà Nội (trong trường hợp cần thiết). Trong vòng 24 giờ kể từ khi tạm ngừng khẩn cấp và 24 giờ kể từ khi mở kết nối trở lại, Sở GDCK TPHCM, Sở GDCK Hà Nội báo cáo Sở GDCK Việt Nam.
+b) Tổ chức kết nối giao dịch phải thực hiện chấm dứt toàn bộ các kết nối tới Sở GDCK TPHCM, Sở GDCK Hà Nội trong thời gian tạm ngừng kết nối giao dịch.
+2. Hủy bỏ kết nối giao dịch
+a) Sở GDCK TPHCM, Sở GDCK Hà Nội thực hiện hủy bỏ kết nối giao dịch đối với tổ chức kết nối giao dịch khi Sở GDCK Việt Nam ban hành quyết định hủy bỏ tư cách thành viên đối với tổ chức kết nối giao dịch;
+b) Sở GDCK TPHCM, Sở GDCK Hà Nội thực hiện hủy bỏ kết nối giao dịch theo đề nghị của tổ chức kết nối giao dịch;
+c) Khi hủy bỏ kết nối giao dịch, tổ chức kết nối giao dịch phải chấm dứt toàn bộ các kết nối giao dịch từ địa điểm hủy bỏ kết nối giao dịch tới Sở GDCK TPHCM, Sở GDCK Hà Nội.
+Chương V
+QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC KẾT NỐI GIAO DỊCH
+Điều 20. Quyền của tổ chức kết nối giao dịch
+1. Được hỗ trợ về mặt kỹ thuật trong hoạt động kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, bao gồm cung cấp tài liệu mô tả chuẩn kết nối, tài liệu hướng dẫn, hỗ trợ xử lý sự cố.
+2. Tham gia các chương trình đào tạo, tập huấn về hệ thống công nghệ thông tin liên quan đến hoạt động kết nối giao dịch do Sở GDCK TPHCM, Sở GDCK Hà Nội tổ chức.
+3. Tham gia đóng góp ý kiến với Sở GDCK TPHCM, Sở GDCK Hà Nội trong hoạt động xây dựng, quản lý, vận hành hệ thống công nghệ thông tin có liên quan đến hoạt động kết nối giao dịch.
+4. Tham gia thử nghiệm các giải pháp kỹ thuật mới có liên quan đến hoạt động kết nối giao dịch của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+5. Yêu cầu Sở GDCK TPHCM, Sở GDCK Hà Nội cùng phối hợp giải quyết sự cố phát sinh trong hoạt động kết nối giao dịch (nếu cần).
+Điều 21. Nghĩa vụ của tổ chức kết nối giao dịch
+1. Triển khai hệ thống công nghệ thông tin khi kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo đúng quy định của Sở GDCK Việt Nam và công ty con.
+2. Phối hợp với Sở GDCK Việt Nam và công ty con trong việc kiểm tra, giám sát về các vấn đề liên quan đến hệ thống công nghệ thông tin kết nối giao dịch tới Sở GDCK TPHCM, Sở GDCK Hà Nội.
+3. Chịu trách nhiệm về các thông tin, dữ liệu điện tử, lệnh giao dịch được chuyển vào hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội từ địa điểm đăng ký kết nối giao dịch của tổ chức kết nối giao dịch.
+4. Tổ chức kết nối giao dịch phải bảo mật tài khoản kết nối do Sở GDCK TPHCM, Sở GDCK Hà Nội cấp và phải chịu mọi trách nhiệm về thiệt hại do việc lộ thông tin tài khoản gây ra.
+5. Tổ chức kết nối giao dịch chỉ được gửi các kết nối tới Sở GDCK TPHCM, Sở GDCK Hà Nội theo đúng địa chỉ IP, cổng dịch vụ và thời gian thực hiện kết nối theo yêu cầu của Sở GDCK TPHCM, Sở GDCK Hà Nội. Trường hợp phát hiện dấu hiệu kết nối bất thường từ phía tổ chức kết nối giao dịch, Sở GDCK TPHCM, Sở GDCK Hà Nội sẽ tạm thời ngắt toàn bộ kết nối giao dịch để làm rõ nguyên nhân và đảm bảo an toàn chung cho hệ thống.
+6. Chịu trách nhiệm về các sự kiện tấn công an ninh mạng vào hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội phát sinh từ địa điểm đăng ký kết nối của tổ chức kết nối giao dịch.
+7. Tham gia tất cả các chương trình, kế hoạch thử nghiệm do Sở GDCK TPHCM, Sở GDCK Hà Nội tổ chức liên quan đến việc thay đổi, chỉnh sửa, nâng cấp hệ thống giao dịch và chạy thử các sản phẩm mới của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+8. Khi thay đổi hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, tổ chức kết nối giao dịch phải nộp hồ sơ và thực hiện thủ tục đăng ký thay đổi kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo quy định tại Điều 18 Quy chế này.
+9. Tổ chức kết nối giao dịch phải đăng ký tối thiểu một (01) nhân sự phụ trách kết nối là cán bộ công nghệ thông tin với Sở GDCK TPHCM, Sở GDCK Hà Nội để giải quyết các vấn đề phát sinh liên quan đến kết nối giao dịch, bao gồm:
+a) Đầu mối tiếp nhận thông tin, tài liệu hướng dẫn triển khai kết nối giao dịch với Sở GDCK TPHCM, Sở GDCK Hà Nội;
+b) Phối hợp xử lý sự cố phát sinh trong hoạt động kết nối giao dịch tại Sở GDCK TPHCM, Sở GDCK Hà Nội;
+c) Thực hiện nghĩa vụ báo cáo liên quan đến hoạt động kết nối và các đợt thử nghiệm hệ thống do Sở GDCK TPHCM, Sở GDCK Hà Nội tổ chức.
+10. Trong thời hạn 03 ngày làm việc kể từ khi thay đổi nhân sự phụ trách kết nối giao dịch, nhân sự công nghệ thông tin, tổ chức kết nối giao dịch phải báo cáo Sở GDCK TPHCM, Sở GDCK Hà Nội bằng văn bản và gửi kèm bản thông tin cá nhân, văn bằng, chứng chỉ có liên quan.
+Chương VI
+XỬ LÝ SỰ CỐ KẾT NỐI GIAO DỊCH
+Điều 22. Trách nhiệm và quy trình xử lý sự cố
+1. Tổ chức kết nối giao dịch phải thông báo cho Sở GDCK TPHCM, Sở GDCK Hà Nội trong thời hạn 01 giờ kể từ khi phát hiện sự cố liên quan đến kết nối giao dịch.
+2. Tổ chức kết nối giao dịch có trách nhiệm phối hợp với Sở GDCK TPHCM, Sở GDCK Hà Nội tìm nguyên nhân xảy ra sự cố, phương hướng và biện pháp khắc phục sự cố.
+Chương VII
+KIỂM TRA, XỬ LÝ VI PHẠM
+Điều 23. Kiểm tra, xử lý vi phạm
+Việc kiểm tra, xử lý vi phạm đối với tổ chức kết nối giao dịch thực hiện theo quy định tại các Quy chế thành viên của Sở GDCK Việt Nam.
+Chương VIII
+TỔ CHỨC THỰC HIỆN
+Điều 24. Điều khoản chuyển tiếp
+1. Đối với tổ chức kết nối giao dịch đã được Sở GDCK TPHCM, Sở GDCK Hà Nội chấp thuận kết nối đến Hệ thống công nghệ thông tin thị trường chứng khoán Việt Nam theo quy định tại khoản 2 Điều 23 Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 25/QĐ-HĐTV ngày 18/4/2025 của Hội đồng thành viên Sở GDCK Việt Nam, Sở GDCK TPHCM, Sở GDCK Hà Nội tiếp tục thực hiện quy định tại khoản 3, 4 Điều 23 Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 25/QĐ-HĐTV ngày 18/4/2025 cho đến khi hoàn tất toàn bộ nội dung này.
+2. Tổ chức đăng ký kết nối giao dịch lần đầu, đăng ký thay đổi kết nối giao dịch theo quy định của Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 25/QĐ-HĐTV ngày 18/4/2025 đã nộp hồ sơ nhưng chưa được chấp thuận tiếp tục thực hiện thủ tục đăng ký kết nối giao dịch lần đầu, đăng ký thay đổi kết nối giao dịch theo quy định tại Quy chế này.
+3. Kết nối giao dịch từ xa, kết nối giao dịch trực tuyến trên hệ thống giao dịch các-bon được triển khai sau khi hệ thống giao dịch các-bon được đưa vào vận hành.
+4. Kết nối giao dịch qua kênh nhập lệnh khẩn cấp đến các thị trường chứng khoán niêm yết, đăng ký giao dịch, thị trường chứng khoán phái sinh được triển khai sau khi kênh nhập lệnh khẩn cấp được đưa vào vận hành.
+Điều 25. Tổ chức thực hiện
+1. Trường hợp các văn bản được dẫn chiếu để áp dụng tại Quy chế này được sửa đổi, bổ sung, thay thế bằng văn bản mới thì thực hiện theo quy định tại văn bản được sửa đổi, bổ sung, thay thế.
+2. Trong quá trình thực hiện nếu có vướng mắc hoặc có vấn đề mới phát sinh, các cơ quan, đơn vị, cá nhân phản ánh về Sở GDCK Việt Nam để được hướng dẫn hoặc sửa đổi, bổ sung Quy chế theo quy định.
+3. Việc sửa đổi, bổ sung Quy chế thực hiện theo quy định của Sở GDCK Việt Nam, do Hội đồng thành viên Sở GDCK Việt Nam quyết định./.
+Phụ lục 01A/CNTT. Giấy đăng ký kết nối lần đầu
+*(Kèm theo Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 39/QĐ-HĐTV ngày 28/5/2026 của Hội đồng thành viên Sở GDCK Việt Nam)*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+….., ngày .... tháng .... năm....
+GIẤY ĐĂNG KÝ KẾT NỐI GIAO DỊCH LẦN ĐẦU
+| Kính gửi: | Sở Giao dịch Chứng khoán Việt Nam Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh  Sở Giao dịch Chứng khoán Hà Nội |
+| --- | --- |
+Thông tin tổ chức đăng ký kết nối giao dịch:
+Tên giao dịch (bằng tiếng Việt): …………………………………………………………………………..
+Tên giao dịch (bằng tiếng Anh): …………………………………………………………………………..
+Tên viết tắt: ………………………………………………………………………………………………….
+Mã thành viên: ………………………………………………………………………………………………
+Địa chỉ: ……………………………………………………………………………………………………….
+Điện thoại:…………………………………………………… Số fax: …………………………………….
+Đại diện : …………………………………………………… Chức vụ: ……………………………………
+Được thành lập theo Giấy phép thành lập và hoạt động số ... ngày .... do (nơi cấp).
+Giấy phép đăng ký kinh doanh số …………… ngày cấp……… nơi cấp ……………
+Xét thấy chúng tôi đã đáp ứng đầy đủ các quy định tại Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (Sở GDCK TPHCM), Sở Giao dịch Chứng khoán Hà Nội (Sở GDCK Hà Nội), nay, chúng tôi đề nghị được đăng ký kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội.
+Chúng tôi xin cung cấp thông tin để triển khai đăng ký kết nối giao dịch như sau:
+1. Hình thức kết nối và địa điểm đăng ký kết nối
+| Thị trường đăng ký kết nối | Địa điểm chính | Địa điểm dự phòng |
+| --- | --- | --- |
+| *Thị trường chứng khoán Niêm yết Sở GDCK TP. HCM* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm 1* | *Địa điểm 2* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Niêm yết Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Đăng ký giao dịch Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán phái sinh Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường công cụ nợ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch từ xa (BTS) | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua internet (eBTS) | * * | * * |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp (KTS) | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường Trái phiếu doanh nghiệp riêng lẻ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường các-bon Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+2. Thông tin về nhân sự phụ trách kết nối giao dịch
+| STT | Họ và tên | Chức vụ | Điện thoại | Email |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+3. Tài liệu kèm theo
+- Hồ sơ thiết kế và tài liệu thuyết minh hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo mẫu tại Phụ lục 02/CNTT ban hành kèm theo Quy chế này;
+- Các quy định, quy trình nội bộ của tổ chức đăng ký kết nối giao dịch liên quan đến quản trị vận hành và xử lý sự cố kết nối đến Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Quy trình sao lưu dự phòng, phục hồi dữ liệu (áp dụng đối với tổ chức đăng ký kết nối giao dịch trực tuyến);
+- Quy trình nội bộ của tổ chức kết nối giao dịch về việc chuyển đổi giao dịch giữa trung tâm dữ liệu chính và trung tâm dữ liệu dự phòng (Trường hợp tổ chức kết nối giao dịch có triển khai trung tâm dữ liệu chính, trung tâm dữ liệu dự phòng);
+- Quy trình chuyển đổi giao dịch kết nối của tổ chức kết nối giao dịch tới trung tâm dữ liệu dự phòng (và ngược lại) của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Quy trình nhập lệnh trên hệ thống giao dịch từ xa, quy trình nhập lệnh qua kênh nhập lệnh khẩn cấp;
+- Tài liệu chứng minh đảm bảo an toàn thông tin theo quy định pháp luật (áp dụng đối với tổ chức đăng ký kết nối giao dịch trực tuyến);
+- Trường hợp địa điểm kết nối giao dịch là trung tâm dữ liệu thuê/mượn; trung tâm dữ liệu độc lập cần bổ sung các tài liệu sau:
++ Bản sao hợp lệ Hợp đồng thuê trung tâm dữ liệu (đối với trường hợp thuê trung tâm dữ liệu);
++ Bản sao hợp đồng hoặc văn bản chấp thuận cho mượn trung tâm dữ liệu (đối với trường hợp mượn trung tâm dữ liệu);
++ Quyết định thành lập trung tâm dữ liệu độc lập của tổ chức kết nối giao dịch (đối với trung tâm dữ liệu độc lập);
++ Chứng nhận/Chứng chỉ/Tuyên bố đáp ứng tiêu chuẩn TCVN 9250:2021 hoặc tài liệu đáp ứng các yêu cầu được quy định tại Mục 2.2, Mục 2.3 Chương II - Quy định về hạ tầng kỹ thuật tại Tiêu chuẩn cơ sở kỹ thuật hệ thống công nghệ thông tin trong hoạt động cung cấp dịch vụ giao dịch trực tuyến trên thị trường chứng khoán được ban hành kèm theo Quyết định số 379/QĐ-UBCK ngày 03/6/2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước.
+4. Cam kết khi tham gia kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội
+Chúng tôi xin chịu hoàn toàn trách nhiệm trước pháp luật về tính xác thực của các thông tin trên đây cũng như các tài liệu kèm theo trong Hồ sơ đăng ký kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội.
+Khi được chấp thuận triển khai kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, chúng tôi cam kết tuân thủ nghiêm túc quy định tại Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, đảm bảo hệ thống giao dịch của công ty chúng tôi:
+- Luôn đảm bảo an toàn hệ thống thông tin trong suốt quá trình hoạt động và kết nối đến các hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Đáp ứng các yêu cầu chức năng theo quy định;
+- Không làm ảnh hưởng đến các hoạt động giao dịch và khai thác thông tin của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Trong quá trình hoạt động, kết nối đến các hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội, trường hợp phát sinh sự cố về an toàn hệ thống thông tin, chúng tôi xin hoàn toàn chịu trách nhiệm;
+- Chịu hoàn toàn trách nhiệm nếu hệ thống kết nối giao dịch của Công ty phát sinh sự cố làm ảnh hưởng đến hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+|  | Đại diện theo pháp luật của công ty (Ký, ghi rõ họ tên, chức danh và đóng dấu) |
+| --- | --- |
+Phụ lục 01B/CNTT. Giấy đăng ký thay đổi kết nối giao dịch
+*(Kèm theo Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 39/QĐ-HĐTV ngày 28/5/2026 của Hội đồng thành viên Sở GDCK Việt Nam)*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+...., ngày .... tháng .... năm....
+GIẤY ĐĂNG KÝ THAY ĐỔI KẾT NỐI GIAO DỊCH
+| Kính gửi: | Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh  Sở Giao dịch Chứng khoán Hà Nội |
+| --- | --- |
+Thông tin tổ chức đăng ký kết nối giao dịch:
+Tên giao dịch (bằng tiếng Việt): …………………………………………………………………………..
+Tên giao dịch (bằng tiếng Anh): …………………………………………………………………………..
+Tên viết tắt: ………………………………………………………………………………………………….
+Mã Thành viên: ……………………………………………………………………………………………..
+Địa chỉ: ……………………………………………………………………………………………………….
+Điện thoại:…………………………………………………… Số fax: …………………………………….
+Đại diện : …………………………………………………… Chức vụ: ……………………………………
+Được thành lập theo Giấy phép thành lập và hoạt động số ... ngày .... do (nơi cấp).
+Giấy phép đăng ký kinh doanh số……….. ngày cấp………… nơi cấp ……………….
+Xét thấy chúng tôi đã đáp ứng đầy đủ các quy định tại Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (Sở GDCK TPHCM), Sở Giao dịch Chứng khoán Hà Nội (Sở GDCK Hà Nội), nay, chúng tôi đăng ký thay đổi kết nối giao dịch đến Sở GDCK TPHCM/Sở GDCK Hà Nội.
+Chúng tôi xin cung cấp thông tin để triển khai thay đổi kết nối giao dịch như sau:
+1. Nội dung thay đổi
+*(Liệt kê các thay đổi liên quan theo mẫu sau nếu có) *
+a) Thay đổi địa điểm kết nối giao dịch
+- Mô tả ngắn gọn về nội dung thay đổi:
+*○ Thay đổi địa điểm kết nối *
+*○ Bổ sung địa điểm kết nối mới *
+*○ Thay đổi vị trí khu vực nhập lệnh khẩn cấp *
+*○ Thay đổi vị trí khu vực nhập lệnh từ xa*
+○ ……
+- Danh mục thị trường đăng ký sau khi thay đổi
+| Thị trường đăng ký kết nối | Địa điểm chính | Địa điểm dự phòng |
+| --- | --- | --- |
+| *Thị trường chứng khoán Niêm yết Sở GDCK TP. HCM* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm 1* | *Địa điểm 2* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Niêm yết Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Đăng ký giao dịch Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán phái sinh Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường công cụ nợ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch từ xa (BTS) | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua internet (eBTS) | * * | * * |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp (KTS) | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường Trái phiếu doanh nghiệp riêng lẻ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường các-bon Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+b) Thay đổi, nâng cấp, chỉnh sửa giải pháp phần mềm giao dịch
+*Mô tả ngắn gọn về nội dung thay đổi: *
+○* Thay đổi nhà cung cấp;*
+○* Thay đổi, nâng cấp, chỉnh sửa phần mềm giao dịch trực tuyến; *
+○* Mô hình, kiến trúc; *
+○* Nền tảng công nghệ, giải pháp; *
+*○ Hệ quản trị cơ sở dữ liệu; *
+*○ Thêm cổng nhập lệnh.*
+c) Thay đổi thiết bị, cấu trúc hạ tầng có ảnh hưởng đến kết nối giao dịch tới Sở GDCK TPHCM, Sở GDCK Hà Nội
+Mô tả ngắn gọn về nội dung thay đổi:
+*○ Máy chủ/hệ điều hành máy chủ; *
+*○ Máy trạm; *
+*○ Thiết bị mạng; *
+*○ Thiết bị an ninh bảo mật.*
+*○ Thay đổi đường truyền kết nối tới Sở GDCK TPHCM, Sở GDCK Hà Nội (trừ điều chỉnh băng thông);*
+○ *Mô hình hệ* thống mạng kết nối giao dịch
+d) Thay đổi, bổ sung phương thức kết nối giao dịch
+Mô tả ngắn gọn về nội dung thay đổi:
+○ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp;
+○ Kết nối giao dịch qua kênh nhập lệnh giao dịch từ xa, kết nối giao dịch trực tuyến.
+2. Thông tin về nhân sự phụ trách kết nối giao dịch
+| STT | Họ và tên | Chức vụ | Điện thoại | Email |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+3. Tài liệu kèm theo (Mô tả chi tiết các thay đổi)
+a) Hồ sơ thiết kế và tài liệu thuyết minh hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội theo mẫu tại Phụ lục 02/CNTT ban hành kèm theo Quy chế này;
+b) Các tài liệu có liên quan tới việc thay đổi.
+4. Cam kết khi tham gia kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội
+Chúng tôi xin chịu hoàn toàn trách nhiệm trước pháp luật về tính xác thực của các thông tin trên đây cũng như các tài liệu kèm theo trong Hồ sơ thay đổi kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội.
+Khi được chấp thuận thay đổi kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, chúng tôi cam kết tuân thủ nghiêm túc quy định tại Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội, đảm bảo hệ thống giao dịch của công ty chúng tôi:
+- Không có thay đổi nào khác ngoài các nội dung đã được đăng ký;
+- Luôn đảm bảo an toàn hệ thống thông tin trong suốt quá trình hoạt động và kết nối đến các hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Đáp ứng các yêu cầu chức năng theo quy định;
+- Không làm ảnh hưởng đến các hoạt động giao dịch và khai thác thông tin của Sở GDCK TPHCM, Sở GDCK Hà Nội;
+- Trong quá trình hoạt động, kết nối đến các hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội, trường hợp phát sinh sự cố về an toàn hệ thống thông tin, chúng tôi xin hoàn toàn chịu trách nhiệm;
+- Chịu hoàn toàn trách nhiệm nếu hệ thống kết nối giao dịch của Công ty phát sinh sự cố làm ảnh hưởng đến hệ thống của Sở GDCK TPHCM, Sở GDCK Hà Nội.
+|  | Đại diện theo pháp luật của công ty *(Ký, ghi rõ họ tên, chức danh và đóng dấu)* |
+| --- | --- |
+Phụ lục 02/CNTT. Thuyết minh hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội
+*(Kèm theo Quy chế về hệ thống công nghệ thông tin kết nối giao dịch đến Sở GDCK TPHCM, Sở GDCK Hà Nội ban hành kèm theo Quyết định số 39/QĐ-HĐTV ngày 28/5/2026 của Hội đồng thành viên Sở GDCK Việt Nam)*
+THUYẾT MINH HỆ THỐNG CÔNG NGHỆ THÔNG TIN KẾT NỐI GIAO DỊCH ĐẾN SỞ GDCK TPHCM, SỞ GDCK HÀ NỘI
+PHẦN I. ĐỐI VỚI CÔNG TY CHỨNG KHOÁN
+I. THÔNG TIN CHUNG
+1. Tên công ty: ………………………………………………………………………
+Thông tin tổ chức đăng ký kết nối giao dịch:
+Tên giao dịch (bằng tiếng Việt): ………………………………………………………………….
+Tên giao dịch (bằng tiếng Anh): ………………………………………………………………….
+Mã Thành viên: …………………………………………………………………………………….
+Địa chỉ: ………………………………………………………………………………………………
+Điện thoại:……………………………………… Số fax: …………………………………………
+Website:……………………………………….. Email: ………………………………………….
+2. Danh sách nhân sự công nghệ thông tin chủ chốt
+| STT | Họ và tên | Chức vụ | Điện thoại | Email | Văn bằng, chứng chỉ |
+| --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+*Ghi chú:*
+*- Danh sách nhân sự công nghệ thông tin đáp ứng Quy chế;*
+*- Các văn bằng, chứng chỉ chuyên môn đính kèm phải được công chứng.*
+3. Đăng ký số lượng mã nhận diện lệnh với Sở GDCK TPHCM (TraderlD)
+Số lượng mã nhận diện lệnh (TraderlD):
+• Lưu ý: Tổ chức kết nối giao dịch phải đăng ký số lượng mã nhận diện lệnh cho nhà đầu tư tự nhập và lệnh do tổ chức kết nối nhập. Trường hợp tổ chức kết nối đăng ký thêm mã nhận diện lệnh, đề nghị nêu rõ mục đích sử dụng cho từng mã nhận diện lệnh.
+Ví dụ: Tổ chức kết nối giao dịch có Mã thành viên 008 sẽ đăng ký và nêu rõ:
+- 0081 là mã nhận diện lệnh do nhà đầu tư tự nhập (nếu có);
+- 0082 là mã nhận diện lệnh do tổ chức kết nối giao dịch nhập;
+- Các mã nhận diện lệnh khác.
+II. HÌNH THỨC, ĐỊA ĐIỂM ĐĂNG KÝ KẾT NỐI GIAO DỊCH
+1. Danh sách các địa điểm đăng ký kết nối giao dịch
+- Địa điểm 1: *(Ghi rõ địa chỉ cụ thể)*
+- Địa điểm 2: *(Ghi rõ địa chỉ cụ thể) *
+- Địa điểm n: *(Ghi rõ địa chỉ cụ thể)*
+2. Danh mục thị trường đăng ký
+| Thị trường đăng ký kết nối  | Địa điểm chính | Địa điểm dự phòng |
+| --- | --- | --- |
+| *Thị trường chứng khoán Niêm yết Sở GDCK TP. HCM* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm 1* | *Địa điểm 2* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Niêm yết Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán Đăng ký giao dịch Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường chứng khoán phái sinh Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường công cụ nợ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch từ xa (BTS) | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch qua internet (eBTS) | * * | * * |
+| □ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp (KTS) | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường Trái phiếu doanh nghiệp riêng lẻ Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+| *Thị trường các-bon Sở GDCK Hà Nội* |
+| □ Kết nối giao dịch trực tuyến | *Địa điểm ...* | *Địa điểm ...* |
+| □ Kết nối giao dịch từ xa | *Địa điểm ...* | *Địa điểm ...* |
+III. HỆ THỐNG CÔNG NGHỆ THÔNG TIN *(trình bày cụ thể hệ thống công nghệ thông tin kết nối đến Sở GDCK TPHCM, Sở GDCK Hà Nội, chi tiết theo từng thị trường)*
+1. Hạ tầng, thiết bị mạng, máy chủ và an ninh bảo mật
+*1.1. Hạ tầng*
+*a) Hạ tầng trung tâm dữ liệu/phòng máy chủ*
+- Hệ thống lưu điện, hệ thống điện dự phòng, hệ thống thiết bị chống sét;
+- Hệ thống phòng cháy, chữa cháy;
+- Hệ thống điều hòa;
+- Hệ thống kiểm soát ra vào;
+- Hệ thống camera giám sát.
+*b) Hạ tầng khu vực nhập lệnh từ xa, khu vực nhập lệnh khẩn cấp*
+- Vị trí khu vực nhập lệnh từ xa, khu vực nhập lệnh khẩn cấp: *ghi rõ vị trí của khu vực tại địa điểm kết nối giao dịch;*
+- Hệ thống kiểm soát vào ra;
+- Hệ thống camera giám sát.
+*1.2. Thiết bị mạng, máy chủ và an ninh bảo mật phục vụ kết nối giao dịch tới Sở GDCK TP.HCM/Sở GDCK Hà Nội*
+- Sơ đồ hệ thống mạng *(kèm mô tả);*
+- Danh sách thiết bị mạng và đường truyền;
+- Danh sách, cấu hình chi tiết và chức năng của các máy chủ, máy trạm;
+- Hệ thống thiết bị sao lưu dự phòng;
+- Hệ thống an ninh bảo mật *(thông tin cấu hình thiết bị, chính sách an ninh bảo mật);*
+2. Hệ thống phần mềm
+*2.1. Danh mục hệ thống phần mềm*
+| STT | Tên phần mềm | Chức năng chính | Tên nhà cung cấp | Phiên bản |
+| --- | --- | --- | --- | --- |
+| 1 | *Phần mềm 1* | *Core cho thị trường cổ phiếu và phái sinh* |  |  |
+|  | *Phần mềm 2* | *Gateway cho thị trường cổ phiếu* |  |  |
+|  | *…..* | *…..* |  |  |
+*2.2. Mô hình tổng quan triển khai phần mềm*
+- Mô hình tổng quan thể hiện kết nối giữa các phần mềm;
+- Mô hình tổng quan thể hiện luồng lệnh từ nhà đầu tư qua các kênh đặt lệnh tới các Sở;
+*2.3. Mô tả chi tiết từng phần mềm*
+*a) Phần mềm 1*
+- Mô hình thiết kế, mô hình triển khai, cơ sở dữ liệu;
+- Mô tả các cấu phần, chức năng của phần mềm;
+- Mô tả về chức năng lưu vết;
+- Mô tả về chức năng bảo mật.
+- Mô tả về cách thức sao lưu và phục hồi dữ liệu.
+*b) Phần mềm 2*
+*- …….*
+* *
+|  | ……., ngày ... tháng ... năm ... Người đại diện theo pháp luật *(Ký, ghi rõ họ tên, chức danh và đóng dấu)* |
+| --- | --- |
+* Ghi chú: Công ty chứng khoán đang là thành viên giao dịch chứng khoán niêm yết, đăng ký giao dịch hoặc là thành viên thị trường công cụ nợ hoặc là thành viên thị trường chứng khoán phái sinh, khi đăng ký thành viên giao dịch trên các thị trường còn lại thì chỉ nộp hồ sơ công nghệ thông tin liên quan đến kết nối trên thị trường đăng ký kết nối giao dịch.
+PHẦN II. ĐỐI VỚI NGÂN HÀNG THƯƠNG MẠI, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
+THUYẾT MINH HỆ THỐNG CÔNG NGHỆ THÔNG TIN, NHÂN SỰ PHỤC VỤ KẾT NỐI GIAO DỊCH THỊ TRƯỜNG CÔNG CỤ NỢ, THỊ TRƯỜNG CHỨNG KHOÁN PHÁI SINH, THỊ TRƯỜNG TRÁI PHIẾU DOANH NGHIỆP RIÊNG LẺ
+I. THÔNG TIN CHUNG
+1. Tên ngân hàng: ……………………………………………………………………………
+Địa chỉ trụ sở chính: ……………………………………………………………………………….
+Điện thoại:……………………………………… Số fax: …………………………………………
+Website:……………………………………… Email: ……………………………………………
+2. Danh sách nhân sự phụ trách kết nối giao dịch và nhân viên công nghệ thông tin
+| STT | Họ và tên | Chức vụ | Điện thoại | Email | Văn bằng, chứng chỉ |
+| --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+*Ghi chú:*
+*- Danh sách nhân sự công nghệ thông tin đáp ứng Quy chế;*
+*- Các văn bằng, chứng chỉ chuyên môn đính kèm phải được công chứng.*
+II. HÌNH THỨC ĐĂNG KÝ KẾT NỐI GIAO DỊCH
+1. Đăng ký kết nối giao dịch trên thị trường công cụ nợ
+□ Kết nối giao dịch từ xa (BTS)
+□ Kết nối giao dịch qua internet (eBTS)
+□ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp (KTS)
+2. Đăng ký kết nối giao dịch trên thị trường chứng khoán phái sinh
+□ Kết nối giao dịch trực tuyến
+□ Kết nối giao dịch qua kênh nhập lệnh khẩn cấp
+3. Đăng ký kết nối giao dịch trên thị trường trái phiếu doanh nghiệp riêng lẻ
+□ Kết nối giao dịch trực tuyến
+□ Kết nối giao dịch từ xa
+III. Cơ sở vật chất phục vụ giao dịch chứng khoán phái sinh, công cụ nợ, trái phiếu doanh nghiệp riêng lẻ
+1. Cơ sở vật chất phòng máy chủ
+- Quản lý việc ra vào bằng thẻ từ hoặc các thiết bị tương đương hoặc có khóa được quản lý bởi nhân viên công nghệ thông tin;
+- Hệ thống camera giám sát;
+- Hệ thống điện dự phòng;
+- Hệ thống phòng cháy, chữa cháy.
+2. Cơ sở vật chất khu vực nhập lệnh: (mô tả tương tự đối với công ty chứng khoán tại Phần I Mục III Khoản 1.1 b của Phụ lục này)
+IV. Hệ thống công nghệ thông tin phục vụ giao dịch chứng khoán phái sinh, công cụ nợ, trái phiếu doanh nghiệp riêng lẻ
+1. Hệ thống mạng: đường truyền chính, đường truyền dự phòng, sơ đồ hệ thống mạng, thuyết minh kỹ thuật.
+2. Hệ thống phần mềm giao dịch từ xa, nhập lệnh qua internet: Bao gồm số lượng máy trạm, cấu hình máy (chính + dự phòng), phần mềm cài đặt phục vụ cho hoạt động nhập lệnh từ xa.
+3. Hệ thống phần mềm nhập lệnh qua kênh nhập lệnh khẩn cấp: Bao gồm số lượng máy trạm, cấu hình máy (chính + dự phòng), phần mềm cài đặt phục vụ cho hoạt động nhập lệnh qua kênh nhập lệnh khẩn cấp.
+5. Hệ thống phần mềm giao dịch trực tuyến: Bao gồm số lượng máy, cấu hình máy (chính + dự phòng), phần mềm cài đặt phục vụ cho kết nối giao dịch trực tuyến.
+6. Hệ thống an ninh bảo mật: Bao gồm các chính sách an ninh bảo mật thiết lập cho hệ thống, thiết bị an ninh bảo mật, các luật về an ninh bảo mật được thiết lập trên các thiết bị an ninh bảo mật.
+7. Các nội dung khác: Bao gồm danh mục trang thiết bị công nghệ thông tin phục vụ hoạt động giao dịch chứng khoán phái sinh, công cụ nợ, trái phiếu doanh nghiệp riêng lẻ.
+|  | *…., ngày ... tháng ... năm ...* Người đại diện theo pháp luật *(Ký, ghi rõ họ tên, chức danh và đóng dấu)* |
+| --- | --- |

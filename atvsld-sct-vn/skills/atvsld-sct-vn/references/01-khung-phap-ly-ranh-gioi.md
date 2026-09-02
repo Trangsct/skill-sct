@@ -308,6 +308,16 @@ Việc thẩm định tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc 
 
 3. Chính phủ quy định chi tiết về tổ chức và hoạt động của thanh tra an toàn, vệ sinh lao động quy định tại khoản 1 Điều này và cơ chế phối hợp liên ngành quy định tại khoản 2 Điều này.
 
+Điều 88. Hội đồng quốc gia về an toàn, vệ sinh lao động, Hội đồng an toàn, vệ sinh lao động cấp tỉnh
+
+1. Hội đồng quốc gia về an toàn, vệ sinh lao động là tổ chức tư vấn cho Chính phủ trong việc xây dựng mới hoặc sửa đổi, bổ sung chính sách, pháp luật về an toàn, vệ sinh lao động. Hội đồng do Thủ tướng Chính phủ thành lập, bao gồm đại diện Bộ Lao động - Thương binh và Xã hội, Bộ Y tế, Tổng Liên đoàn Lao động Việt Nam, Hội nông dân Việt Nam, tổ chức đại diện người sử dụng lao động, các bộ, ngành có liên quan và một số chuyên gia, nhà khoa học về lĩnh vực an toàn, vệ sinh lao động.
+
+2. Hội đồng an toàn, vệ sinh lao động cấp tỉnh là tổ chức tư vấn cho Ủy ban nhân dân trong việc tổ chức thực hiện chính sách, pháp luật về an toàn, vệ sinh lao động tại địa phương. Hội đồng do Chủ tịch Ủy ban nhân dân cấp tỉnh thành lập, bao gồm đại diện Sở Lao động - Thương binh và Xã hội, Sở Y tế, Liên đoàn Lao động, Hội nông dân, một số doanh nghiệp, cơ quan, tổ chức và chuyên gia, nhà khoa học về lĩnh vực an toàn, vệ sinh lao động tại địa phương.
+
+3. Hằng năm, Hội đồng an toàn, vệ sinh lao động có trách nhiệm tổ chức đối thoại nhằm chia sẻ thông tin, tăng cường sự hiểu biết giữa người sử dụng lao động, người lao động, tổ chức công đoàn, tổ chức đại diện người sử dụng lao động và các cơ quan nhà nước để thúc đẩy việc cải thiện các điều kiện làm việc công bằng, an toàn cho người lao động, nâng cao hiệu quả xây dựng, thực hiện chính sách, pháp luật về an toàn, vệ sinh lao động.
+
+4. Chính phủ quy định chi tiết việc thành lập, chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng quốc gia về an toàn, vệ sinh lao động và Hội đồng an toàn, vệ sinh lao động cấp tỉnh.
+
 ## C. NĐ 283/2026 — thẩm quyền (nguyên văn Đ54, Đ55, Đ61 k1, Đ63 k1, 2, 8)
 
 Điều 54. Thẩm quyền lập biên bản vi phạm hành chính

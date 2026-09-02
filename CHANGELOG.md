@@ -1,5 +1,9 @@
 ## 2026-09-02 — bvmt-sct-vn v1.3.0 → v1.4.0: nâng cấp toàn diện mảng KNK, hạn ngạch, thị trường các-bon, BĐKH, ô-dôn + Phụ lục BC 892
 
+## 02/9/2026 — VIỆC 3: plugin mới atvsld-sct-vn v1.0.0 (ATVSLĐ phần ngành Công Thương) — plugin thứ 21
+
+Dựng từ 2 bản gốc Luật 84/2015 và NĐ 283/2026 (hiệu lực 10/9/2026). Kết luận nền: Sở CT QLNN máy thiết bị chất nghiêm ngặt nhóm điểm d k1 Đ33; NĐ 283 không trao thẩm quyền lập biên bản/xử phạt cho Sở CT → CHUYỂN Sở Nội vụ; KTAT mỏ/VLNCN/hóa chất Sở XỬ. 6 references (01, 04 chép nguyên văn điều khoản), GATE rõ cho NĐ 39/44/2016, TT 36/2019, TT 06/2020, TT 09/2017/TT-BCT. xp-sct-vn 1.4.2 trỏ ref 07 sang plugin mới. ⚠️ Marketplace đã cài trên claude.ai không nạp entry mới — phải Remove → Add lại marketplace để thấy atvsld-sct-vn. (PR #48 merge thiếu entry marketplace và description >1024 — sửa tại PR kế tiếp.)
+
 ## 02/9/2026 — VIỆC 2: registry/ — sổ đăng ký văn bản pháp luật dùng chung (535 văn bản, 20 plugin)
 
 `scripts/build_registry.py` quét trích dẫn Luật/NĐ/TT/QĐ/NQ/VBHN/QCVN/KL trong mọi plugin → `registry/van-ban-phap-luat.csv` (mã, số plugin dùng, số lần, bản gốc ở plugin nào) + README tóm tắt (top văn bản dùng nhiều; đã bị thay thế/dự thảo; ≥3 plugin chưa có trạng thái). Lớp trạng thái `registry/trang-thai.csv` khởi tạo 48 văn bản đã đối chiếu trong tháng 8–9/2026. `--check` cảnh báo dẫn văn bản đã bị thay thế (NĐ 71/2019 → 275/2026: 30 chỗ trong xp-sct-vn, đều có chủ ý cho hành vi trước 25/8/2026). Gọi từ check_descriptions.py, không chặn CI.

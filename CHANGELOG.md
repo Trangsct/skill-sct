@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — khởi tạo CHANGELOG.md trong thư mục skill cho 6 plugin còn thiếu (bpb, hc, pccc, sct-laocai-org, vbhc-pdf-reader, xd)
+
+Không đổi phiên bản, không đổi nội dung nghiệp vụ; chỉ để đủ chuẩn ghi nhật ký theo CLAUDE.md. 20/20 plugin nay có CHANGELOG riêng.
+
 ## 02/9/2026 — RÀ SOÁT TỔNG THỂ 20 plugin: sd-vlncn 2026.9.2, vbhc-vn 2.12.0, kho 1.10.2, hl 1.4.1, hnh 1.8.4, kccn 1.22.2 — marketplace 4.11.14
 Rà lại toàn bộ lịch sử tạo/nâng cấp plugin (5/2026–9/2026) và quét chéo 20 plugin về cấu trúc, link tham chiếu, dữ kiện dễ lỗi thời. Kết quả kỹ thuật: marketplace khớp 20/20, description trong ngưỡng, không có link references/ gãy thật (các "gãy" là trỏ chéo sang plugin khác). Lỗi nội dung đã sửa:
 - **Thẩm quyền GP sử dụng VLNCN sau QĐ 2867/QĐ-UBND (20/8/2026)**: sd-vlncn còn tự mâu thuẫn người ký (ref 10 "chưa chốt" ↔ SKILL "đã chốt PGĐ Thuân"), description vẫn "Chủ tịch UBND tỉnh ký GP-UBND"; kho-vlncn SKILL.md mục II còn câu "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký"; hl-vlncn mẫu 12 còn `…/GP-UBND`. Thống nhất: Sở cấp `/GP-SCT`, KT. GĐ – PGĐ Hoàng Văn Thuân ký; thu hồi GP và phê duyệt PANM vẫn UBND tỉnh.

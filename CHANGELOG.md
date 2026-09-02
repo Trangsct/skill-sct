@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — xp-hc-vlncn-sct-vn v1.6.1: đánh dấu ĐÃ THAY THẾ bởi xp-sct-vn
+
+Thu hẹp description để plugin cũ không còn kích hoạt trùng với xp-sct-vn (đã kế thừa trọn 7 references). Khuyến nghị gỡ khỏi máy.
+
 ## 02/9/2026 — khởi tạo CHANGELOG.md trong thư mục skill cho 6 plugin còn thiếu (bpb, hc, pccc, sct-laocai-org, vbhc-pdf-reader, xd)
 
 Không đổi phiên bản, không đổi nội dung nghiệp vụ; chỉ để đủ chuẩn ghi nhật ký theo CLAUDE.md. 20/20 plugin nay có CHANGELOG riêng.

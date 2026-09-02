@@ -1,5 +1,8 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## [1.6.1] - 02/9/2026 — ĐÁNH DẤU ĐÃ THAY THẾ bởi xp-sct-vn
+- Description (SKILL.md + plugin.json) thu hẹp thành "[ĐÃ THAY THẾ]" để không tranh kích hoạt với xp-sct-vn; thêm banner cảnh báo đầu SKILL.md. Nội dung references giữ nguyên, không nâng cấp nữa.
+
 ## 1.6.0 — 15/8/2026 (SỬA LỖI của 1.4.0)
 - **Sửa lỗi nghiêm trọng tại references/07 mục I**: bản 1.4.0 nêu "bộ hồ sơ chuẩn 9 văn bản", trong đó có **02 văn bản không có căn cứ pháp lý** (Biên bản làm việc, Biên bản xác định hành vi VPHC) do soạn nhầm. Đối chiếu lại: **TT 56 chỉ ban hành DUY NHẤT 01 mẫu biên bản là Mẫu số 05**. Nay bảng rút về **07 văn bản**, mỗi dòng ghi rõ có mẫu quy định hay chỉ có tiền lệ Sở; bổ sung cảnh báo không tự đặt thêm loại biên bản mới và đánh số BB-ĐKT.
 - **Hướng dẫn thay thế**: danh mục hồ sơ do DN cung cấp → **Phụ lục đính kèm Biên bản kiểm tra** (đúng cách Sở làm tại BB kiểm tra Khí công nghiệp); xác định hành vi VPHC + thời hiệu → **mục cuối phần Nội dung Biên bản kiểm tra**; ghi chú BB09 của Thanh tra tỉnh thuộc quy trình thanh tra theo Luật Thanh tra, chỉ mượn bố cục.

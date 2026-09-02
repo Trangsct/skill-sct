@@ -1,9 +1,11 @@
 ---
 name: xp-hc-vlncn-sct-vn
-description: "XỬ PHẠT VI PHẠM HÀNH CHÍNH lĩnh vực HÓA CHẤT và VLNCN, Sở Công Thương Lào Cai. Kích hoạt: xử phạt VPHC, mức phạt, biên bản VPHC, QĐ-XPHC, tước giấy phép, đình chỉ hoạt động, NĐ 275/2026 (hiệu lực 25/8/2026), NĐ 71/2019, kiểm tra chuyên ngành NĐ 217/2025. 7 nghiệp vụ: (1) tra hành vi - mức phạt - hình thức bổ sung - biện pháp khắc phục theo NĐ 275/2026/NĐ-CP 08/7/2026 (hóa chất Đ7-52; VLNCN Đ53-61); (2) thẩm quyền xử phạt Đ62-73 (Chủ tịch UBND xã/tỉnh, Giám đốc SCT, thanh tra, công an, QLTT); (3) chọn nghị định đúng theo thời điểm hành vi: NĐ 275/2026 CHỈ từ 25/8/2026, trước đó NĐ 71/2019 sđ NĐ 17/2022 (chuyển tiếp Đ74); (4) phân định NĐ 282/2025 về an ninh trật tự (Điều 12, khoản 6); (5) đối chiếu điều khoản cũ - mới; (6) soạn biên bản VPHC, QĐ xử phạt; (7) kiểm tra chuyên ngành dẫn tới xử phạt (NĐ 217/2025 + TT 56/2025/TT-BCT): QĐ kiểm tra Mẫu số 03, kế hoạch, biên bản, báo cáo, tạm dừng - đình chỉ, kiểm tra sau kết luận thanh tra. Từ khóa thêm: Điều 305 BLHS, để mất VLNCN, Điều 59 xác minh tình tiết, HSKT."
+description: "[ĐÃ THAY THẾ - KHÔNG KÍCH HOẠT] Plugin cũ về xử phạt VPHC hóa chất và VLNCN. Toàn bộ nội dung (7 references NĐ 275/2026, NĐ 71/2019, thẩm quyền, chuyển tiếp, quy trình kiểm tra TT 56/2025) đã được kế thừa nguyên vẹn vào plugin xp-sct-vn (references/01-vlncn-hoachat/). Mọi câu hỏi về xử phạt, mức phạt, biên bản VPHC, QĐ-XPHC, kiểm tra chuyên ngành: dùng xp-sct-vn. Chỉ giữ để tra lịch sử; không dùng khi xp-sct-vn đã cài."
 ---
 
 # xp-hc-vlncn-sct-vn — Xử phạt VPHC hóa chất & VLNCN theo NĐ 275/2026/NĐ-CP (Sở Công Thương Lào Cai)
+
+> ⚠ **PLUGIN ĐÃ ĐƯỢC THAY THẾ (02/9/2026).** Toàn bộ nội dung đã chuyển nguyên vẹn sang `xp-sct-vn/references/01-vlncn-hoachat/` (v1.0.0, 01/9/2026) và tiếp tục được cập nhật ở đó. Nếu `xp-sct-vn` đã cài: DỪNG, dùng `xp-sct-vn`. Plugin này không còn nâng cấp; giữ lại chỉ để tra lịch sử và gỡ khỏi máy khi tiện.
 
 ## I. KHI NÀO DÙNG SKILL NÀY
 

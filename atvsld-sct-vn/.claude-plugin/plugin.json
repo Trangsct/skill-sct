@@ -1,0 +1,23 @@
+{
+  "name": "atvsld-sct-vn",
+  "version": "1.0.0",
+  "description": "An toàn, vệ sinh lao động (ATVSLĐ) phần ngành Công Thương - Sở Công Thương tỉnh Lào Cai: máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt thuộc Bộ Công Thương (điểm d k1 Đ33 Luật 84/2015: thiết bị áp lực, thiết bị nâng đặc thù công nghiệp, hóa chất, VLNCN, khai thác mỏ), khai báo - kiểm định - huấn luyện, tai nạn lao động và sự cố kỹ thuật, ranh giới với Sở Nội vụ - Sở Y tế - xã, xử phạt NĐ 283/2026 (hiệu lực 10/9/2026 - Sở CT CHUYỂN, không xử). Bản gốc Luật 84/2015, NĐ 283/2026.",
+  "author": {
+    "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
+  },
+  "homepage": "https://github.com/Trangsct/skill-sct",
+  "keywords": [
+    "atvsld",
+    "an-toan-lao-dong",
+    "luat-84-2015",
+    "nd-283-2026",
+    "may-thiet-bi-nghiem-ngat",
+    "kiem-dinh-ktat",
+    "tai-nan-lao-dong",
+    "su-co-ky-thuat",
+    "huan-luyen-atvsld",
+    "so-noi-vu",
+    "so-cong-thuong",
+    "lao-cai"
+  ]
+}

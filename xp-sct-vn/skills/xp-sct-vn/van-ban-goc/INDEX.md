@@ -38,6 +38,8 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | **khoang-san/ND-04-2022-NDCP-...docx** | **NĐ 04/2022/NĐ-CP ngày 06/01/2022** — sửa NĐ 91/2019 (đất đai), **NĐ 36/2020 (Điều 2, 36 khoản)**, NĐ 173/2013, NĐ 18/2020; hiệu lực 06/01/2022; chuyển tiếp k2 Đ5 | Đ2: k2 (Đ4), k3 (Đ5, 5a, 5b thời hiệu), k14 (Đ36), k15 (Đ37), k16 (Đ38), k17 (Đ40), k18 (Đ41), k23 (Đ48), k30 (Đ64), **k31 (Đ65 mới)**, k35 (Đ69), k36 (Đ70) — `references/09` D |
 | **chung/ND-17-2022-NDCP-...docx** | **NĐ 17/2022/NĐ-CP ngày 31/01/2022** — sửa NĐ 71/2019 (Điều 1), NĐ 134/2013 (Điều 2), **NĐ 98/2020 (Điều 3, 52 khoản)**, **NĐ 99/2020 (Điều 4, 20 khoản)**; hiệu lực từ ngày ký; chuyển tiếp Điều 5 | NĐ 99: k2 (Đ4a, 4b), k8 (Đ39), k9 (Đ40), k13 (Đ56), k18 (Đ61), k19 (Đ62), k20 (Đ63); NĐ 98: k43 (Đ80), k44–50 (Đ81–87), k51 (Đ87a), k52 (Đ88) — `references/09` B, C |
 
+| **khoang-san/2026.08.20-5116.QD.SCT-…pdf** (+ ảnh Data360X xác nhận số/ngày) | **QĐ 5116/QĐ-SCT ngày 20/8/2026** — Giám đốc Sở (Hoàng Chí Hiền) giao PTP phụ trách khoáng sản + CV Phòng QLCN lập biên bản VPHC khoáng sản với hành vi thuộc thẩm quyền GĐ Sở (k1 Đ58 Luật, k1 Đ12 NĐ 118). Bản PDF là bản dự thảo chưa điền số/ngày | Điều 1 (giao nhiệm vụ), Điều 2 (trách nhiệm) — `references/09` mục K.2 |
+
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|

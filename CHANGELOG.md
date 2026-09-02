@@ -1,5 +1,9 @@
 ## 2026-09-02 — bvmt-sct-vn v1.3.0 → v1.4.0: nâng cấp toàn diện mảng KNK, hạn ngạch, thị trường các-bon, BĐKH, ô-dôn + Phụ lục BC 892
 
+## 02/9/2026 — VIỆC 4: xp-sct-vn v1.4.0 — Luật 88/2025 + NĐ 118/2021 + 72 biểu mẫu vào trục chung (ref 10, mẫu 13)
+
+Đối chiếu nguyên văn theo điều khoản; sửa 3 điểm ref 00 theo luật cũ (gửi QĐ 03 ngày làm việc; chuyển BB "kịp thời"; Đ66 không sửa); Đ37a/Đ53 làm căn cứ luật cho chuyển đổi Chánh TT Sở → GĐ Sở; mẫu 13 QĐ giao nhiệm vụ lập BB theo lĩnh vực. Còn thiếu NĐ 68/2025, 190/2025.
+
 ## 02/9/2026 — NƠI NỘP TTHC DUY NHẤT https://motcua-tthc.moit.gov.vn/ (VNeID): attp-sct-vn 1.5.1, hc-sct-vn 1.2.3, hl-vlncn-sct-vn 1.4.3, hnh-sct-vn 1.9.2, pccc-sct-vn 1.1.5, sct-laocai-org-vn 2.1.1, sd-vlncn-sct-vn 2026.9.2.3, vbhc-vn 2.12.4
 
 Bạn chốt lại: không còn "kênh phụ" Trung tâm PVHCC/bưu chính/trực tiếp/Cổng DVCQG/Hệ thống TTGQ TTHC tỉnh trong mọi hướng dẫn DN. Sửa 20 chỗ ở 8 plugin; check_facts.py thêm rule noi-nop-kenh-phu (FAIL) và nâng noi-nop-dvcqg lên FAIL; dòng trích luật ghi rõ "trích luật".

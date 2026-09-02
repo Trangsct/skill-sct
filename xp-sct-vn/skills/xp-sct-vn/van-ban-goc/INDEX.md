@@ -40,7 +40,11 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 
 | **khoang-san/2026.08.20-5116.QD.SCT-…_ban-ky-so.pdf** | **QĐ 5116/QĐ-SCT ngày 20/8/2026** — Giám đốc Sở (Hoàng Chí Hiền) giao PTP phụ trách khoáng sản + CV Phòng QLCN lập biên bản VPHC khoáng sản với hành vi thuộc thẩm quyền GĐ Sở (k1 Đ58 Luật, k1 Đ12 NĐ 118). PDF ký số 2 trang — số/ngày nằm trong trường chữ ký, ĐỌC BẰNG extract_metadata.py, không tin context | Điều 1 (giao nhiệm vụ), Điều 2 (trách nhiệm) — `references/09` mục K.2 |
 
+| **chung/Luat-88-2025-QH15-…docx** (+ bản scan có dấu .pdf) | **Luật 88/2025/QH15 ngày 25/6/2025** sửa đổi Luật XLVPHC — hiệu lực 01/7/2025; 30 khoản Điều 1; Điều 2 hiệu lực; Điều 3 chuyển tiếp | Đ6 thời hiệu; Đ24 mức tối đa; **Đ37a chức danh xử phạt**; Đ52, **Đ53 chuyển đổi chức danh**, Đ54; Đ56, Đ58, Đ59, Đ60, Đ62, Đ63, Đ70, Đ71, Đ87, Đ125, Đ126; bãi bỏ Đ38–49, 51 — `references/10` |
+| **chung/ND-118-2021-NDCP-…_ban-goc-chua-hop-nhat-68-190-2025.docx** | **NĐ 118/2021/NĐ-CP ngày 23/12/2021** quy định chi tiết Luật XLVPHC — bản gốc, **chưa hợp nhất NĐ 68/2025, NĐ 190/2025** | Đ9 mức trung bình khung; **Đ12 lập biên bản (02/05/03 ngày làm việc)**; Đ17 giải trình — `references/10` E |
+| **chung/ND-118-2021-NDCP-Phu-luc-bieu-mau-MQD01-42-MBB01-30.docx** | Phụ lục biểu mẫu kèm NĐ 118/2021: 42 mẫu quyết định (MQĐ01–42), 30 mẫu biên bản (MBB01–30) | Danh mục dùng cho Sở: `references/10` K |
+
 ## Chưa có bản gốc — GATE (tải từ vbpl.vn khi mở rộng nhánh; lưu vào thư mục con theo lĩnh vực)
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
-| NĐ 118/2021 + 68/2025 + 190/2025; VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00 |
+| NĐ 68/2025 + 190/2025 (sửa NĐ 118 — NĐ 118 bản gốc và Luật 88/2025 đã có ở `chung/`); VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00, 10 |

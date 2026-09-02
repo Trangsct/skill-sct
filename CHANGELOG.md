@@ -1,3 +1,8 @@
+## 2026-09-02 — bvmt-sct-vn v1.3.0 → v1.4.0: nâng cấp toàn diện mảng KNK, hạn ngạch, thị trường các-bon, BĐKH, ô-dôn + Phụ lục BC 892
+- Chưng cất kho "Môi trường.rar" (88 file). **Ref 05 viết lại**: sơ đồ hệ văn bản NĐ 06/2022 → 119/2025 → 83/2026, TT 38/2023 + QĐ 334, TT 08/2025; bảng nghĩa vụ cơ sở (kiểm kê 02 năm/lần trước 31/3, kế hoạch giảm nhẹ 2026–2030, báo cáo giảm nhẹ hằng năm, thẩm định trước 01/12, nộp trả hạn ngạch 31/12 năm kế tiếp giai đoạn); bảng trách nhiệm cấp tỉnh (30/6) theo CV 9389/BNNMT-BĐKH; hạn ngạch (vay 15%, bù trừ 30%); Hệ thống đăng ký quốc gia TT 11/2026; sàn NĐ 29/2026 (miễn phí đến 2028); NĐ 112/2026 trao đổi quốc tế; NQ 235 Singapore; các-bon rừng NĐ 180/2026 (Sở chỉ phối hợp); ô-dôn; QĐ 896.
+- **Ref 09 mới**: 18 cơ sở công thương Lào Cai theo QĐ 42/2026/QĐ-TTg (10/8/2026, hiệu lực 25/9/2026, thay QĐ 13/2024); hạn ngạch thí điểm Việt Trung 255.476/297.830 tCO₂tđ (QĐ 699/QĐ-BNNMT); 7 cơ sở khả năng miễn trừ, 5 cơ sở mới. **Ref 10 mới**: sổ tay triển khai (lịch năm, 8 việc ưu tiên 9/2026–3/2027, checklist rà soát, 4 khung văn bản, sổ theo dõi).
+- Ref 02 mục D viết lại (sửa ngày NĐ 180/2026 = 21/5/2026); ref 07 thêm mục 5 phần Sở Công Thương trong Phụ lục BC 892 (54.000/57.500/58.500 triệu, 2 chênh lệch cộng tổng, nguồn vốn đầu tư công, tư cách chủ đầu tư XLNT 12 CCN). `van-ban-goc/knk-bdkh/` 41 văn bản text + INDEX; Phụ lục BC 892 PDF + text.
+
 # Nhật ký thay đổi bộ skill
 
 ## 02/9/2026 — SỬA LỖI ĐỌC SỐ VĂN BẢN (QĐ 5116/QĐ-SCT): xp-sct-vn 1.3.2, vbhc-pdf-reader-vn 2.0.4, vbhc-vn 2.12.2, pccc 1.1.4, quy-hoach 1.1.2

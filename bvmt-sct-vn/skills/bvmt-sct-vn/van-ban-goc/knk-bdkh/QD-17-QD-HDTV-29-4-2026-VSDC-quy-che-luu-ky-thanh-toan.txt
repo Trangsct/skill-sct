@@ -1,0 +1,639 @@
+| TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: 17/QĐ-HĐTV | *Hà Nội, ngày 29 tháng 4 năm 2026 * |
+QUYẾT ĐỊNH
+BAN HÀNH QUY CHẾ HOẠT ĐỘNG LƯU KÝ, THANH TOÁN GIAO DỊCH HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON VÀ THÀNH VIÊN LƯU KÝ CÁC-BON TẠI TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM
+HỘI ĐỒNG THÀNH VIÊN
+TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM
+*Căn cứ Luật Chứng khoán số 54/2019/QH14 được sửa đổi, bổ sung bởi Luật số 56/2024/QH15;*
+*Căn cứ Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn được sửa đổi, bổ sung bởi Nghị định số 119/2025/NĐ-CP và Nghị định số 83/2026/NĐ-CP;*
+*Căn cứ Nghị định số 29/2026/NĐ-CP ngày 19 tháng 01 năm 2026 của Chính phủ về sàn giao dịch các-bon trong nước;*
+*Căn cứ Quyết định số 26/2022/QĐ-TTg ngày 16 tháng 12 năm 2022 của Thủ tướng Chính phủ thành lập, tổ chức và hoạt động của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam;*
+*Căn cứ Quyết định số 1275/QĐ-BTC ngày 14 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính ban hành Điều lệ tổ chức và hoạt động của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam;*
+*Căn cứ Công văn số 4264/BNNMT-BĐKH ngày 29 tháng 4 năm 2026 của Bộ Nông nghiệp và Môi trường và Công văn số 3392/UBCK-PTTT ngày 24 tháng 4 năm 2026 của Ủy ban Chứng khoán Nhà nước ý kiến đối với nội dung Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam;*
+*Căn cứ Nghị quyết số 107/2026/NQ-HĐTV ngày 29 tháng 4 năm 2026 của Hội đồng thành viên thông qua việc ban hành Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam;*
+*Theo đề nghị của Tổng giám đốc Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam.*
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam”.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Tổng Giám đốc, Giám đốc Chi nhánh tại TP. Hồ Chí Minh, Chánh văn phòng Hội đồng thành viên, Trưởng các ban liên quan thuộc Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, các tổ chức và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+| *Nơi nhận:* - Như Điều 3; - Bộ NNMT (để b/c); - UBCKNN (để b/c); - SGDCK Việt Nam; - SGDCK Hà Nội; - HĐTV, BKS; - Ban TGĐ; - Lưu: VPHĐTV, LKCK (16b) | TM. HỘI ĐỒNG THÀNH VIÊN CHỦ TỊCH     Nguyễn Sơn |
+| --- | --- |
+QUY CHẾ
+HOẠT ĐỘNG LƯU KÝ, THANH TOÁN GIAO DỊCH HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON VÀ THÀNH VIÊN LƯU KÝ CÁC-BON TẠI TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM
+*(Ban hành kèm theo Quyết định số 17/QĐ-HĐTV ngày 29 tháng 4 năm 2026 của Hội đồng thành viên Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi áp dụng
+Quy chế này hướng dẫn hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính (sau đây gọi tắt cụm từ “hạn ngạch phát thải khí nhà kính” là “hạn ngạch”), tín chỉ các-bon; hoạt động đăng ký, chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon và các hoạt động liên quan đến thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam (sau đây gọi tắt là VSDC) theo quy định tại Nghị định số 29/2026/NĐ-CP ngày 19/01/2026 của Chính phủ về sàn giao dịch các-bon trong nước (sau đây gọi tắt là Nghị định số 29/2026/NĐ-CP).
+Điều 2. Giải thích từ ngữ
+Tại Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. *Ngày thanh toán* là ngày hạn ngạch, tín chỉ các-bon và tiền giao dịch hạn ngạch, tín chỉ các-bon được chuyển giao đồng thời cho bên mua và bên bán tại VSDC và ngân hàng thanh toán (sau đây gọi tắt là NHTT) vào ngày giao dịch (ngày T+0).
+2. *Cổng giao tiếp điện tử* là môi trường phần mềm ứng dụng trong đó cho phép các thành viên lưu ký các-bon, NHTT và VSDC trao đổi các thông tin về hoạt động nghiệp vụ dưới dạng báo cáo điện tử, giao dịch điện tử một cách gián tiếp thông qua các máy trạm đặt tại thành viên lưu ký các-bon, NHTT đã được cài đặt phần mềm của VSDC. Tài liệu hướng dẫn sử dụng các phần mềm ứng dụng này được VSDC đăng tải trên trang thông tin điện tử của VSDC.
+3. *Cổng giao tiếp trực tuyến* là môi trường phần mềm/ứng dụng trong đó cho phép các thành viên lưu ký các-bon, NHTT và VSDC trao đổi các thông tin hoạt động nghiệp vụ dưới dạng điện nghiệp vụ, điện xác nhận trực tiếp giữa hệ, thống nghiệp vụ của thành viên lưu ký các-bon, NHTT và hệ thống của VSDC.
+4. *Điện nghiệp vụ* (điện MT, FileAct): Là file dữ liệu chứa các thông tin về giao dịch nghiệp vụ có cấu trúc theo chuẩn ISO 15022 để trao đổi trực tiếp giữa hệ thống nghiệp vụ của thành viên lưu ký các-bon, NHTT với hệ thống của VSDC, được xác thực bằng chữ ký số của người có thẩm quyền của VSDC, NHTT hoặc thành viên lưu ký các-bon và được coi là chứng từ điện tử. Chuẩn điện nghiệp vụ được quy định chi tiết tại quy định hướng dẫn kết nối cổng giao tiếp trực tuyến của VSDC.
+5. *Chứng từ điện tử* là thông tin về hoạt động nghiệp vụ tại VSDC được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử theo quy định pháp luật về giao dịch điện tử trong hoạt động tài chính thông qua cổng giao tiếp điện tử hoặc cổng giao tiếp trực tuyến hoặc thông qua mạng toàn cầu bằng giao diện trên trang thông tin điện tử của VSDC và đã được xác thực bằng chữ ký số của người có thẩm quyền của VSDC hoặc thành viên lưu ký các-bon, NHTT. Chứng từ điện tử trong văn bản bao gồm các loại sau:
+a) Báo cáo điện tử và giao dịch điện tử là các báo cáo, giao dịch được tạo ra và thực hiện trên hệ thống lưu ký và thanh toán giao dịch các-bon của VSDC thông qua cổng giao tiếp điện tử của VSDC;
+b) Điện nghiệp vụ.
+6. *Chữ ký số *là một dạng chữ ký điện tử theo quy định pháp luật về giao dịch điện tử mà người có thẩm quyền của VSDC hoặc thành viên lưu ký các-bon, NHTT sử dụng để xác thực thông tin dữ liệu mà mình gửi đi.
+7. *Bản sao hợp lệ* là bản sao được cấp từ sổ gốc hoặc bản sao được chứng thực từ bản chính bởi cơ quan, tổ chức có thẩm quyền.
+8. *Hồ sơ hợp lệ* là hồ sơ có đầy đủ giấy tờ và nội dung các giấy tờ đó được lập, kê khai đầy đủ theo quy định pháp luật và Quy chế này.
+Điều 3. Nguyên tắc chung
+1: Tổ chức, cá nhân tham gia vào quá trình lập hồ sơ phải chịu trách nhiệm trước pháp luật về tính hợp pháp, chính xác, trung thực và đầy đủ của hồ sơ, bảo đảm thông tin rõ ràng, không gây hiểu nhầm và có đầy đủ những nội dung quan trọng ảnh hưởng đến quyết định của cơ quan, tổ chức.
+2. VSDC xem xét tính hợp lệ của hồ sơ, tài liệu trên cơ sở hồ sơ, tài liệu được cung cấp và không chịu trách nhiệm về những vi phạm của tổ chức, cá nhân xảy ra trước và sau khi nộp hồ sơ, tài liệu đến VSDC.
+3. Trong quá trình xử lý hồ sơ, tài liệu, trường hợp hồ sơ, tài liệu có nội dung cần xác minh, làm rõ hoặc phải có hướng dẫn của cơ quan quản lý trước khi thực hiện thì thời gian xác minh, làm rõ hồ sơ, tài liệu hoặc báo cáo, xin hướng dẫn của cơ quan quản lý không tính vào thời hạn xử lý hồ sơ, tài liệu quy định tại Quy chế này. VSDC có trách nhiệm thông báo tới tổ chức, cá nhân nộp hồ sơ, tài liệu biết để phối hợp xử lý.
+4. Trường hợp hồ sơ, tài liệu dưới dạng chứng từ điện tử được gửi, nhận qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến của VSDC, các bên có thể chuyển đổi các hồ sơ, tài liệu này sang chứng từ giấy trong trường hợp cần thiết. Các chứng từ điện tử của VSDC khi chuyển đổi sang chứng từ giấy được đóng dấu có ký hiệu như sau:
+|  | TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM   CHỨNG TỪ CHUYỂN ĐỔI TỪ CHỨNG TỪ ĐIỆN TỬ Họ và tên: Chữ ký: Thời gian thực hiện chuyển đổi: |  |
+| --- | --- | --- |
+5. Thành viên lưu ký các-bon gửi hồ sơ, tài liệu liên quan đến xử lý lỗi, loại bỏ thanh toán giao dịch hạn ngạch, tín chỉ các-bon đến VSDC bằng hình thức nộp trực tiếp hoặc văn bản điện tử đã ký số doanh nghiệp (trên file có định dạng PDF) từ email đã đăng ký với VSDC đến đồng thời các email phongttbtck@vsd.vn, phongttbtckvsdc@gmail.com, vanthuvsdc@gmail.com, vanthuvsdc@vsd.vn. Trường hợp nộp hồ sơ, tài liệu trực tiếp, thành viên lưu ký các-bon có thể gửi VSDC bằng bản fax hoặc bản scan vào các email nêu trên của VSDC từ email đã đăng ký với VSDC trước đó và có trách nhiệm gửi bản chính cho VSDC trong thời hạn 03 ngày làm việc liền kề sau đó.
+6. Ngày VSDC nhận được hồ sơ của các bên được xác định như sau:
+a) Là ngày ký nhận tại sổ giao nhận công văn của VSDC trong trường hợp nộp trực tiếp;
+b) Là ngày nhận theo dấu công văn đến của VSDC trong trường hợp gửi hồ sơ qua đường bưu điện;
+c) Là ngày hệ thống lưu ký và thanh toán giao dịch các-bon của VSDC nhận được chứng từ điện tử từ thành viên lưu ký các-bon.
+d) Là ngày VSDC nhận được tài liệu qua email quy định tại khoản 5 Điều này.
+7. Việc gửi, nhận chứng từ điện tử giữa thành viên lưu ký các-bon và VSDC thực hiện theo các nguyên tắc sau:
+a) Thành viên lưu ký các-bon gửi chứng từ điện tử tới hệ thống lưu ký và thanh toán giao dịch các-bon của VSDC thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến trong khoảng thời gian từ 08h00 đến 16h00 các ngày làm việc của hệ thống;
+b) VSDC trả kết quả xử lý hồ sơ bằng chứng từ điện tử cho thành viên lưu ký các-bon thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến sau khi hoàn tất xử lý hồ sơ nhận từ thành viên lưu ký các-bon;
+c) Mẫu các điện nghiệp vụ được quy định cụ thể tại quy định hướng dẫn kết nối cổng giao tiếp trực tuyến của VSDC.
+8. Thành viên lưu ký các-bon có trách nhiệm quản lý tách biệt hạn ngạch, tín chỉ các-bon với các loại tài sản khác của khách hàng và tài sản của thành viên lưu ký các- bon theo quy định tại điểm e khoản 2 Điều 23 Nghị định số 29/2026/NĐ-CP.
+Chương II
+ĐĂNG KÝ, QUẢN LÝ THÀNH VIÊN LƯU KÝ CÁC-BON
+Điều 4. Đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon
+1. Công ty chứng khoán đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon phải đáp ứng các yêu cầu theo quy định tại khoản 1 Điều 22 Nghị định số 29/2026/NĐ-CP và nộp hồ sơ cho VSDC theo quy định tại khoản 2 Điều 22 Nghị định số 29/2026/NĐ-CP, trong đó:
+a) Giấy đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon theo Mẫu 01/LKCB ban hành kèm theo Quy chế này;
+b) Bản thuyết minh về quy trình nghiệp vụ theo Mẫu 02/LKCB ban hành kèm theo Quy chế này;
+c) Bản thuyết minh về hạ tầng công nghệ thông tin theo Mẫu 03/LKCB ban hành kèm theo Quy chế này;
+d) Tài liệu đăng ký bổ sung các giao dịch sử dụng qua cổng giao tiếp trực tuyến.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon, VSDC thực hiện:
+2.1. Trường hợp hồ sơ hợp lệ, VSDC gửi văn bản thông báo cho công ty chứng khoán thực hiện kết nối cổng giao tiếp trực tuyến, thử nghiệm hoạt động lưu ký và thanh toán giao dịch hạn ngạch, tín chỉ các-bon với VSDC và đề nghị công ty chứng khoán gửi cho VSDC:
+a) Bản đăng ký thông tin tài khoản tiền gửi thanh toán mở tại NHTT để phục vụ cho hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon;
+b) Bản sao hợp lệ Giấy ủy quyền cho NHTT thực hiện thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon.
+2.2. Trường hợp hồ sơ không hợp lệ, VSDC gửi văn bản thông báo cho công ty chứng khoán yêu cầu bổ sung hồ sơ và nộp lại cho VSDC trong vòng 05 ngày làm việc kể từ ngày VSDC thông báo cho công ty chứng khoán. Hết thời hạn này, nếu công ty chứng khoán không nộp bổ sung hồ sơ cho VSDC, công ty chứng khoán muốn tiếp tục đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon phải nộp lại bộ hồ sơ mới để đăng ký tham gia hệ thống cho VSDC.
+3. Trường hợp công ty chứng khoán đã kết nối và tham gia thử nghiệm hoạt động lưu ký và thanh toán giao dịch hạn ngạch, tín chỉ các-bon trước khi VSDC đưa hệ thống lưu ký và thanh toán giao dịch các-bon vào vận hành và có kết quả đạt sẽ được coi là đáp ứng yêu cầu về kết nối hệ thống và thử nghiệm với hệ thống lưu ký và thanh toán giao dịch các-bon theo quy định tại khoản 2.1 Điều này.
+4. Trong thời hạn 03 ngày làm việc kể từ ngày công ty chứng khoán hoàn tất việc kết nối với cổng giao tiếp trực tuyến, đạt yêu cầu về thử nghiệm hoạt động lưu ký và thanh toán giao dịch các-bon và VSDC nhận được hồ sơ hợp lệ quy định tại điểm a, điểm b khoản 2.1 Điều này, VSDC gửi văn bản thông báo công ty chứng khoán được chấp thuận tham gia hệ thống lưu ký và thanh toán giao dịch các-bon.
+Điều 5. Chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon
+1. VSDC chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon của thành viên lưu ký các-bon theo quy định tại khoản 1 và khoản 2 Điều 25 Nghị định số 29/2026/NĐ-CP.
+2. Trường hợp thành viên lưu ký các-bon tự nguyện chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon, thành viên lưu ký các-bon nộp hồ sơ cho VSDC bao gồm các tài liệu như sau:
+a) Giấy đề nghị chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon theo Mẫu 04/LKCB kèm theo Quy chế này;
+b) Phương án xử lý số dư hạn ngạch, tín chỉ các-bon trên tài khoản lưu ký của khách hàng của thành viên lưu ký các-bon.
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ quy định tại khoản 2 Điều này:
+a) Trường hợp hồ sơ hợp lệ: VSDC có văn bản gửi thành viên lưu ký các-bon về việc ngừng cung cấp dịch vụ lưu ký, thanh toán giao dịch các-bon và cho phép tiến hành các thủ tục chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon đối với thành viên lưu ký các-bon theo quy định tại các khoản 6, 7, 8, 9, 10, 11 Điều này.
+b) Trường hợp hồ sơ không hợp lệ: VSDC có văn bản thông báo cho thành viên lưu ký các-bon bổ sung hồ sơ và nộp lại cho VSDC trong vòng 05 ngày làm việc kể từ ngày VSDG thông báo cho thành viên. Hết thời hạn này, thành viên lưu ký các-bon không nộp bổ sung hồ sơ cho VSDC, thành viên lưu ký các-bon muốn tiếp tục yêu cầu chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon phải nộp lại bộ hồ sơ chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon cho VSDC.
+4. Các trường hợp bị bắt buộc chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon bao gồm:
+a) Kết thúc thời hạn đình chỉ hoạt động lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon mà thành viên lưu ký các-bon không khắc phục được nguyên nhân dẫn đến việc bị đình chỉ;
+b) Thành viên lưu ký các-bon bị thu hồi Giấy chứng nhận thành viên lưu ký theo quy định tại Quy chế thành viên lưu ký tại VSDC.
+5. Trong thời hạn 01 ngày làm việc kể từ ngày xảy ra sự kiện dẫn đến việc bắt buộc chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon đối với thành viên lưu ký các-bon quy định tại khoản 4 Điều này, VSDC gửi văn bản cho thành viên lưu ký các-bon thông báo về việc ngừng cung cấp dịch vụ lưu ký, thanh toán giao dịch các-bon và tiến hành các thủ tục chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon đối với thành viên lưu ký các-bon theo quy định tại các khoản 6, 7, 8, 9, 10, 11 Điều này; đồng thời báo cáo Ủy ban Chứng khoán Nhà nước.
+6. Kể từ thời điểm ngừng cung cấp dịch vụ lưu ký, thanh toán giao dịch các-bon, VSDC chỉ thực hiện các hoạt động sau cho thành viên lưu ký các-bon:
+a) Chuyển khoản tất toán hạn ngạch, tín chỉ các-bon theo yêu cầu của khách hàng từ tài khoản của khách hàng tại thành viên lưu ký các-bon chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon sang tài khoản của khách hàng tại thành viên lưu ký các-bon khác;
+b) Ghi nhận hủy đăng ký thông tin tài khoản lưu ký các-bon cho khách hàng của thành viên lưu ký các-bon;
+c) Thông báo, đối chiếu với thành viên lưu ký các-bon về số dư hạn ngạch, tín chỉ các-bon trên tài khoản của từng khách hàng.
+7. VSDC gửi thành viên lưu ký các-bon các thông tin về số dư hạn ngạch, tín chỉ các-bon trên tài khoản của khách hàng và đề nghị thành viên lưu ký các-bon thực hiện đối chiếu và xác nhận thông tin về số dư nêu trên, bao gồm:
+a) Thông tin số dư hạn ngạch, tín chỉ các-bon sở hữu của từng khách hàng mở tài khoản tại thành viên lưu ký các-bon chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon (chi tiết theo tài khoản);
+b) Thông tin số dư hạn ngạch, tín chỉ các-bon trên tài khoản tổng của khách hàng (chi tiết theo mã hạn ngạch, tín chỉ các-bon).
+8. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo của VSDC theo quy định tại khoản 7 Điều này, thành viên lưu ký các-bon có trách nhiệm phối hợp với VSDC thực hiện đối chiếu và gửi văn bản xác nhận thông tin về số dư hạn ngạch, tín chỉ các-bon trên tài khoản của từng khách hàng đến VSDC. Trường hợp có sai lệch, trong văn bản xác nhận gửi VSDC, thành viên lưu ký các-bon nêu rõ thông tin sai lệch để VSDC phối hợp kiểm tra, xử lý.
+9. Trong thời hạn 01 ngày làm việc kể từ ngày VSDC có văn bản về việc ngừng, cung cấp dịch vụ lưu ký, thanh toán giao dịch các-bon, thành viên lưu ký các-bon phải: công bố thông tin về việc tiến hành thủ tục chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon và đề nghị khách hàng làm thủ tục chuyển khoản tất toán tài khoản lưu ký các-bon của khách hàng sang thành viên lưu ký các-bon khác. Thời gian VSDC thực hiện chuyển khoản tất toán tài khoản theo yêu cầu của khách hàng tối đa là 30 ngày kể từ ngày ngừng cung cấp dịch vụ. Việc chuyển khoản tất toán tài khoản lưu ký các-bon trong trường hợp này thực hiện theo quy định tại khoản 2 Điều 10 Quy chế này.
+10. Hết thời hạn chuyển khoản tất toán tài khoản lưu ký các-bon theo yêu cầu của khách hàng quy định tại khoản 9 Điều này, VSDC lập danh sách khách hàng chưa tất toán tài khoản cho thành viên lưu ký các-bon. Thành viên lưu ký các-bon có trách nhiệm sau:
+a) Thỏa thuận, xác lập thành viên lưu ký các-bon thay thế và thông báo cho VSDC bằng văn bản;
+b) Gửi danh sách khách hàng chưa tất toán cho thành viên lưu ký các-bon thay thế để thành viên lưu ký các-bon thay thế tiến hành các thủ tục đăng ký thông tin tài khoản lưu ký các-bon cho từng khách hàng trên hệ thống lưu ký và thanh toán giao dịch các- bon;
+c) Thực hiện các thủ tục để chuyển khoản tất toán hạn ngạch, tín chỉ các-bon trên; tài khoản lưu ký các-bon của khách hàng sang tài khoản lưu ký các-bon của khách hàng mở tại thành viên lưu ký các-bon thay thế theo quy định tại khoản 3.2 Điều 10 Quy chế này.
+11. VSDC ra văn bản thông báo chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon đối với thành viên lưu ký các-bon và công bố thông tin trên trang thông tin điện tử của VSDC sau khi thành viên lưu ký các-bon hoàn thành các công việc sau:
+a) Tất toán toàn bộ tài khoản của khách hàng sang thành viên lưu ký các-bon khác;
+b) Thực hiện đầy đủ nghĩa vụ với VSDC.
+Chương III
+LƯU KÝ HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON
+Điều 6. Đăng ký, hủy đăng ký, điều chỉnh thông tin tài khoản lưu ký tham gia giao dịch các-bon
+1. Chủ thể tham gia giao dịch chỉ được sử dụng 01 tài khoản lưu ký chứng khoán theo quy định pháp luật về chứng khoán tại thành viên lưu ký các-bon để lưu ký và thanh toán giao dịch hạn ngạch; tín chỉ các-bon (sau đây gọi tắt là tài khoản lưu ký các-bon). Việc mở, đóng, điều chỉnh thông tin tài khoản lưu ký chứng khoán sử dụng để lưu ký và thanh toán giao dịch các-bon thực hiện theo quy định của pháp luật chứng khoán.
+2. Đăng ký thông tin tài khoản lưu ký các-bon:
+a) Thành viên lưu ký các-bon cập nhật thông tin đăng ký tài khoản lưu ký các-bon của khách hàng trên hệ thống lưu ký và thanh toán giao dịch các-bon bằng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến (điện nghiệp vụ MT598) từ 8h00 đến 15h30 các ngày làm việc của hệ thống, trong đó xác định rõ khách hàng thuộc đối tượng được phép giao dịch hạn ngạch phát thải khí nhà kính và tín chỉ các-bon hay thuộc đối tượng chỉ được phép giao dịch tín chỉ các-bon;
+b) Ngay trong ngày nhận được yêu cầu từ thành viên lưu ký các-bon, VSDC ghi nhận thông tin đăng ký tài khoản lưu ký các-bon trên hệ thống và gửi xác nhận cho thành viên lưu ký các-bon bằng điện nghiệp vụ MT598 thông qua cổng giao tiếp trực tuyến. Đối với tài khoản sử dụng để lưu ký hạn ngạch phát thải khí nhà kính, VSDC chỉ ghi nhận thông tin đối với tài khoản của tổ chức thuộc danh sách quy định tại khoản 3 Điều 11 Nghị định số 29/2026/NĐ-CP;
+c) Cuối ngày giao dịch, VSDC gửi thông tin danh sách tài khoản lưu ký các-bon cho Sở giao dịch chứng khoán Hà Nội, Bộ Nông nghiệp và Môi trường để giao dịch vào ngày giao dịch tiếp theo.
+3. Hủy đăng ký thông tin tài khoản lưu ký các-bon:
+a) Thành viên lưu ký các-bon gửi yêu cầu hủy đăng ký thông tin tài khoản lưu ký các-bon của khách hàng trên hệ thống lưu ký và thanh toán giao dịch các-bon bằng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến (điện nghiệp vụ MT598) từ 8h00 đến 15h30 các ngày làm việc của hệ thống;
+b) VSDC ghi nhận hủy đăng ký thông tin tài khoản lưu ký các-bon trên hệ thống và gửi xác nhận cho thành viên lưu ký các-bon bằng điện nghiệp vụ MT598 thông qua cổng giao tiếp trực tuyến sau khi tài khoản lưu ký các-bon không còn số dư và đã hoàn tất nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon.
+4. Trường hợp cơ quan, tổ chức không còn thuộc đối tượng được phép giao dịch hạn ngạch phát thải khí nhà kính:
+a) Bộ Nông nghiệp và Môi trường gửi thông tin tài khoản có thay đổi cho VSDC thông qua hệ thống;
+b) VSDC cập nhật thông tin thay đổi về đối tượng giao dịch trên hệ thống của VSDC và thông báo cho thành viên lưu ký các-bon bằng điện nghiệp vụ MT598 thông qua cổng giao tiếp trực tuyến.
+5. Trường hợp cơ quan, tổ chức có thay đổi từ đối tượng chỉ được phép giao dịch tín chỉ các-bon sang đối tượng được phép giao dịch cả hạn ngạch phát thải khí nhà kính và tín chỉ các-bon:
+a) Thành viên lưu ký các-bon gửi yêu cầu điều chỉnh thông tin khách hàng đến VSDC bằng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến (điện nghiệp vụ MT598) từ 8h00 đến 15h30 các ngày làm việc của hệ thống, sau khi nhận được yêu cầu điều chỉnh thông tin từ khách hàng;
+b) VSDC thực hiện xác nhận yêu cầu điều chỉnh thông tin do thành viên lưu ký các-bon cập nhật trên hệ thống lưu ký và thanh toán giao dịch các-bon và gửi xác nhận cho thành viên lưu ký các-bon bằng điên nghiệp vụ MT598 thông qua cổng giao tiếp trực tuyến.
+Điều 7. Quản lý thông tin về cơ quan, tổ chức sở hữu hạn ngạch, tín chỉ các-bon
+1. Hàng tháng, trong ngày làm việc đầu tiên của tháng tiếp theo, hệ thống lưu ký và thanh toán giao dịch các-bon gửi cho thành viên lưu ký các-bon các báo cáo điện tử về thông tin số dư tổng hạn ngạch, tín chỉ các-bon theo Mẫu 05/LKCB kèm theo Quy chế này và thông tin số dư chi tiết hạn ngạch, tín chỉ các-bon cho từng cơ quan, tổ chức là khách hàng của thành viên lưu ký các-bon theo Mẫu 06/LKCB kèm theo Quy chế này qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến.
+2. Thành viên lưu ký các-bon có trách nhiệm thực hiện đối chiếu thông tin sở hữu hạn ngạch, tín chỉ các-bon của khách hàng tại thành viên lưu ký các-bon với thông tin sở hữu hạn ngạch, tín chỉ các-bon tại VSDC để đảm bảo số dư chi tiết trên tài khoản lưu ký các-bon tại thành viên lưu ký các-bon phải khớp với số liệu sở hữu hạn ngạch, tín chỉ các-bon tại VSDC và gửi xác nhận bằng văn bản theo thời hạn quy định tại Điều 19 Quy chế này.
+Điều 8. Ký gửi, rút ký gửi hạn ngạch, tín chỉ các-bon
+1. Việc ký gửi, rút ký gửi hạn ngạch, tín chỉ các-bon tại VSDC thực hiện theo quy định tại các khoản 2, 3 Điều 13 Nghị định số 29/2026/NĐ-CP.
+2. Bộ Nông nghiệp và Môi trường gửi danh sách cơ quan, tổ chức ký gửi, rút ký gửi hạn ngạch, tín chỉ các-bon đến hệ thống lưu ký và thanh toán giao dịch các-bon, trong đó nêu rõ thông tin nhận diện cơ quan, tổ chức, tài khoản lưu ký hạn ngạch, tín chỉ các-bon và số lượng ký gửi, rút ký gửi tương ứng với từng tài khoản lưu ký.
+3. VSDC ký gửi, rút ký gửi hạn ngạch, tín chỉ các-bon trên tài khoản lưu ký của các cơ quan, tổ chức căn cứ danh sách do Bộ Nông nghiệp và Môi trường gửi theo quy định tại khoản 2 Điều này. Hệ thống lưu ký và thanh toán giao dịch các-bon gửi xác nhận ký gửi, rút ký gửi cho Bộ Nông nghiệp và Môi trường, đồng thời gửi xác nhận thông báo ký gửi (bằng điện nghiệp vụ MT544), rút ký gửi (bằng điện nghiệp vụ MT546) cho thành viên lưu ký các-bon thông qua cổng giao tiếp trực tuyến.
+Điều 9. Chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon để thanh toán cho các giao dịch xác lập trên hệ thống giao dịch các-bon
+VSDC thực hiện chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon để thanh toán cho các giao dịch xác lập trên hệ thống giao dịch các-bon theo quy định tại khoản 1 Điều 12 Nghị định số 29/2026/NĐ-CP.
+Điều 10. Chuyển khoản hạn ngạch, tín chỉ các-bon ngoài hệ thống giao dịch các-bon không gắn với chuyển quyền sở hữu
+1. Các trường hợp chuyển khoản hạn ngạch, tín chỉ các-bon ngoài hệ thống giao dịch các-bon không gắn với chuyển quyền sở hữu do VSDC thực hiện theo quy định tại điểm c khoản 1 Điều 13 Nghị định số 29/2026/NĐ-CP bao gồm:
+a) Chuyển khoản hạn ngạch, tín chỉ các-bon từ tài khoản lưu ký các-bon của khách hàng tại thành viên lưu ký các-bon này sang tài khoản lưu ký các-bon của chính khách hàng đó tại thành viên lưu ký các-bon khác để tất toán tài khoản lưu ký các-bon;
+b) Chuyển khoản hạn ngạch, tín chỉ các-bon để thực hiện chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon đối với thành viên lưu ký các-bon;
+c) Chuyển khoản hạn ngạch, tín chỉ các-bon trong trường hợp thay đổi tỷ lệ sở hữu nước ngoài hoặc thay đổi quốc tịch dẫn tới thay đổi từ tổ chức trong nước thành tổ chức nước ngoài hoặc tổ chức kinh tế có nhà đầu tư nước ngoài sở hữu trên 50% vốn điều lệ và ngược lại.
+2. Trường hợp chuyển khoản hạn ngạch, tín chỉ các-bon theo quy định tại điểm a khoản 1 Điều này:
+a) Căn cứ theo yêu cầu chuyển khoản tất toán tài khoản của khách hàng, thành viên lưu ký các-bon bên chuyển khoản có trách nhiệm kiểm tra tính hợp lệ của các thông tin khách hàng yêu cầu và gửi yêu Cầu chuyển khoản hạn ngạch, tín chỉ các-bon tới hệ thống lưu ký và thanh toán giao dịch các-bon bằng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến (điện nghiệp vụ MT598).
+b) Trường hợp thông tin yêu cầu chuyển khoản do thành viên lưu ký các-bon gửi khớp đúng với thông tin trên hệ thống lưu ký và thanh toán giao dịch các-bon, hệ thống ghi nhận giao dịch chuyển khoản ngay trong ngày nhận được yêu cầu chuyển khoản của thành viên lưu ký các-bon; đồng thời gửi thông báo ghi tăng (bằng điện nghiệp vụ MT544), ghi giảm (bằng điện nghiệp vụ MT546) hạn ngạch, tín chỉ các- bon cho thành viên lưu ký các-bon liên quan thông qua cổng giao tiếp trực tuyến.
+Trường hợp yêu cầu chuyển khoản hạn ngạch, tín chỉ các-bon không hợp lệ, hệ thống lưu ký và thanh toán giao dịch các-bon từ chối chuyển khoản và gửi điện nghiệp vụ MT548 cho thành viên lưu ký các-bon thông qua cổng giao tiếp trực tuyến.
+c) Sau khi hoàn tất chuyển khoản hạn ngạch, tín chỉ các-bon cho khách hàng, thành viên lưu ký các-bon bên chuyển khoản có trách nhiệm hủy đăng ký tài khoản lưu ký các-bon cho khách hàng trên hệ thống lưu ký và thanh toán giao dịch các-bon.
+3. Việc chuyển khoản hạn ngạch, tín chỉ các-bon quy định tại điểm b khoản 1 Điều này được thực hiện theo yêu cầu của khách hàng hoặc theo văn bản thỏa thuận, hợp đồng chuyển giao tài khoản giữa thành viên lưu ký các-bon chấm dứt tham gia hệ thống với thành viên lưu ký các-bon thay thế trong trường hợp không có yêu cầu khách hàng (chuyển khoản theo chỉ định).
+3.1. Việc chuyển khoản hạn ngạch, tín chỉ các-bon theo yêu cầu khách hàng thực hiện theo quy định tại khoản 9 Điều 5 Quy chế này và khoản 2 Điều này.
+3.2. Việc chuyển khoản hạn ngạch, tín chỉ các-bon theo chỉ định thực hiện theo quy định tại khoản 10 Điều 5 Quy chế này và các quy định sau:
+a) Hồ sơ chuyển khoản hạn ngạch, tín chỉ các-bon theo chỉ định bao gồm:
+- Yêu cầu chuyển khoản tất toán tài khoản của thành viên lưu ký các-bon chấm dứt tham gia hệ thống theo Mẫu 07/LKCB ban hành kèm theo Quy chế này (03 bản gốc);
+- Bản sao hợp lệ văn bản thỏa thuận về việc chuyển khoản chỉ định giữa thành viên lưu ký các-bon chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các- bon và thành viên lưu ký các-bon được chỉ định thay thế;
+- Các tài liệu công bố thông tin với khách hàng về chuyển khoản chỉ định sang thành viên lưu ký các-bon khác.
+b) Thời gian VSDC xử lý hồ sơ chuyển khoản theo chỉ định tối đa là 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ từ thành viên lưu ký các-bon. Hiệu lực chuyển khoản là ngày hệ thống VSDC gửi thông báo ghi tăng (bằng điện nghiệp vụ MT544), ghi giảm (bằng điện nghiệp vụ MT546) hạn ngạch, tín chỉ các-bon cho thành viên lưu ký các-bon liên quan thông qua cổng giao tiếp trực tuyến và ngày ghi trên yêu cầu chuyển khoản tất toán tài khoản.
+c) Trường hợp hồ sơ chuyển khoản hạn ngạch, tín chỉ các-bon không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ từ thành viên lưu ký các-bon, VSDC gửi văn bản thông báo cho thành viên lưu ký các-bon về việc chưa thực hiện chuyển khoản và nêu rõ lý do.
+4. Việc chuyển khoản hạn ngạch, tín chỉ các-bon theo quy định tại điểm c khoản 1 Điều này được thực hiện như sau:
+a) Thành viên lưu ký các-bon bên chuyển khoản gửi cho VSDC yêu cầu chuyển khoản hạn ngạch, tín chỉ các-bon theo Mẫu 08/LKCB ban hành kèm theo Quy chế này (01 bản gốc), chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến (điện nghiệp vụ MT598) trên cơ sở yêu cầu của khách hàng.
+b) VSDC xử lý hồ sơ chuyển khoản trong vòng 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ của thành viên lưu ký các-bon. Hệ thống lưu ký và thanh toán giao dịch các-bon của VSDC gửi thông báo giữ tăng (bàng điện nghiệp vụ MT544), ghi giảm (bằng điện nghiệp vụ MT546) hạn ngạch, tín chỉ các-bon cho thành viên lưu ký các-bon liên quan thông qua cổng giao tiếp trực tuyến. Hiệu lực chuyển khoản là ngày hệ thống VSDC gửi điện thông báo hạch toán hạn ngạch, tín chỉ các-bon cho thành viên lưu ký các-bon liên quan thông qua cổng giao tiếp trực tuyến.
+Điều 11. Phong tỏa, giải tỏa tín chỉ các-bon
+1. VSDC thực hiện phong tỏa, giải tỏa tín chỉ các-bon ký gửi tại VSDC khi có yêu cầu bằng văn bản của Bộ Nông nghiệp và Môi trường theo quy định tại khoản 4, 5 Điều 8 Thông tư số 11/2026/TT-BNNMT ngày 13/02/2026 của Bộ Nông nghiệp và Môi trường. Thời hạn VSDC xử lý yêu cầu phong tỏa, giải tỏa tín chỉ các-bon là 01 ngày làm việc kể từ ngày VSDC nhận được yêu cầu bằng văn bản của Bộ Nông nghiệp và Môi trường.
+2. Ngay trong ngày VSDC thực hiện phong tỏa, giải tỏa tín chỉ các-bon, hệ thống lưu ký và thanh toán giao dịch các-bon gửi thông báo phong tỏa, giải tỏa bằng điện nghiệp vụ MT508 cho thành viên lưu ký các-bon liên quan thông qua cổng giao tiếp trực tuyến. Thành viên lưu ký các-bon có trách nhiệm thực hiện phong tỏa, giải tỏa tương ứng ngay trong ngày nhận được điện thông báo từ hệ thống lưu ký và thanh toán giao dịch các-bon. Ngày hiệu lực phong tỏa, giải tỏa tín chỉ các-bon là ngày hệ thống lưu ký và thanh toán giao dịch các-bon gửi điện thông báo hạch toán cho thành viên lưu ký các-bon thông qua cổng giao tiếp trực tuyến. Chậm nhất vào ngày làm việc liền sau ngày VSDC thực hiện phong tỏa, giải tỏa tín chỉ các-bon trên hệ thống, VSDC gửi văn bản thông báo về việc phong tỏa, giải tỏa đến thành viên lưu ký các- bon.
+Chương IV
+THANH TOÁN GIAO DỊCH HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON
+Điều 12. Đối chiếu, xác nhận kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+1. Sau khi nhận dữ liệu kết quả giao dịch từ Sở giao dịch chứng khoán Hà Nội (sau đây gọi tắt là HNX), VSDC kiểm tra và xác định các trường hợp loại bỏ thanh toán giao dịch theo quy định tại khoản 1 Điều 17 Nghị định số 29/2026/NĐ-CP đồng thời gửi thông báo cho thành viên lưu ký các-bon:
+a) Đối với giao dịch không thuộc trường hợp bị loại bỏ thanh toán, VSDC gửi thông báo kết quả giao dịch và nghĩa vụ thanh toán dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến của VSDC đồng thời thực hiện chuyển số hạn ngạch, tín chỉ các-bon phải giao từ tài khoản giao dịch sang tài khoản chờ thanh toán của thành viên lưu ký các-bon bên bán.
+b) Đối với giao dịch thuộc trường hợp bị loại bỏ thanh toán, VSDC gửi thông báo kết quả giao dịch kèm theo lý do bị loại bỏ thanh toán dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến của VSDC. Thời gian cụ thể quy định tại Phụ lục I Quy chế này.
+2. Thành viên lưu ký các-bon có trách nhiệm đối chiếu chi tiết giao dịch giữa lệnh gốc với danh sách giao dịch nhận được từ VSDC và gửi xác nhận chấp thuận kết quả giao dịch và nghĩa vụ thanh toán cho VSDC dưới dạng chứng từ điện tử qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến trong thời gian quy định tại Phụ lục I Quy chế này. Trường hợp phát hiện giao dịch sai thông tin số hiệu tài khoản của thành viên lưu ký các-bon, thành viên lưu ký các-bon thông báo cho VSDC dưới dạng chứng từ điện tử qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến và gửi hồ sơ đề nghị xử lý lỗi cho VSDC theo quy định tại Điều 13 Quy chế này.
+3. Trường hợp thành viên lưu ký các-bon không gửi xác nhận chấp thuận kết quả giao dịch và nghĩa vụ thanh toán hoặc giao dịch chưa hoàn tất thanh toán trong thời hạn quy định tại Phụ lục I Quy chế này thì giao dịch đó sẽ bị coi là giao dịch lỗi thuộc trường hợp loại bỏ thanh toán theo quy định tại khoản 2 Điều 16 Nghị định số 29/2026/NĐ-CP. Thành viên lưu ký các-bon phải chịu trách nhiệm về các sai sót, tổn thất phát sinh (nếu có) và bị xử lý vi phạm theo quy định tại Quy chế này.
+4. Việc đối chiếu, xác nhận, xử lý lỗi đối với lệnh thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon qua hệ thống thanh toán của NHTT được thực hiện theo quy trình của NHTT.
+Điều 13. Xử lý lỗi sau giao dịch hạn ngạch, tín chỉ các-bon
+1. Trường hợp thành viên giao dịch các-bon là thành viên lưu ký các-bon nhập sai số hiệu tài khoản của chính mình vào hệ thống giao dịch các-bon, VSDC thực hiện xử lý lỗi sau giao dịch theo quy định tại khoản 1 Điều 16 Nghị định số 29/2026/NĐ-CP.
+2. Cách thức xử lý lỗi sau giao dịch hạn ngạch, tín chỉ các-bon:
+a) Thành viên lưu ký các-bon có lỗi giao dịch hạn ngạch, tín chỉ các-bon gửi Giấy đề nghị xử lý lỗi giao dịch theo Mẫu 09/TTCB kèm theo Quy chế này cho VSDC chậm nhất vào 15h00 ngày thanh toán để đảm bảo việc thanh toán giao dịch được thực hiện theo thời gian thanh toán quy định tại Điều 16 Quy chế này.
+b) VSDC thực hiện điều chỉnh về đúng số hiệu tài khoản của chính thành viên lưu ký các-bon;
+c) Sau khi hoàn tất xử lý lỗi, VSDC gửi thông báo xử lý lỗi giao dịch dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến cho thành viên lưu ký các-bon liên quan;
+d) Thành viên-lưu ký các-bon có trách nhiệm xác nhận kết quả xử lý lỗi và xác nhận thanh toán dưới dạng chứng từ điện tử qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến ngay sau khi nhận được thông báo xử lý lỗi sau giao dịch của VSDC.
+3. VSDC không thực hiện xử lý lỗi đối với các hồ sơ xử lý lỗi không hợp lệ, hồ sơ xử lý lỗi do thành viên lưu ký các-bon nộp chậm hơn thời hạn quy định.
+Điều 14. Hoàn tất thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+1. Sau khi nhận được xác nhận kết quả giao dịch và nghĩa vụ thanh toán từ thành viên lưu ký các-bon bên mua, bên bán hoặc xác nhận thông báo xử lý lỗi giao dịch của thành viên lưu ký các-bon (trong trường hợp phát sinh xử lý lỗi), VSDC gửi thông báo nghĩa vụ thanh toán dưới dạng chứng từ điện tử qua cổng giao tiếp trực tuyến cho NHTT
+2. Sau khi thành viên lưu ký các-bon bên mua chuyển đủ tiền vào tài khoản tiền gửi thanh toán giao dịch hạn ngạch, tín chỉ các-bon tại NHTT chi tiết đến từng khách hàng (sau đây gọi tắt là tài khoản tiền gửi thanh toán), NHTT căn cứ thông báo nghĩa vụ thanh toán và thông tin tài khoản khách hàng bên bán do VSDC cung cấp để chuyển tiền từ tài khoản tiền gửi thanh toán giao dịch hạn ngạch, tín chỉ các-bon tại NHTT của thành viên lưu ký các-bon bên mua (chi tiết đến từng khách hàng) sang thành viên lưu ký các-bon bên bán (chi tiết đến từng khách hàng) và gửi thông báo xác nhận kết quả thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến cho VSDC.
+3. Căn cứ thông báo xác nhận hoàn tất thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon của NHTT, VSDC thực hiện:
+a) Chuyển giao hạn ngạch, tín chỉ các-bon trên hệ thống của VSDC trên cơ sở chuyển khoản hạn ngạch, tín chỉ các-bon giữa các tài khoản lưu ký của thành viên lưu ký các-bon, hạch toán chi tiết theo tài khoản của từng khách hàng.
+b) Gửi thông báo xác nhận kết quả thanh toán giao dịch hạn ngạch, tín chỉ các-bon dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến cho thành viên lưu ký các-bon.
+4. Thành viên lưu ký các-bon phải thực hiện phân bổ tiền và hạn ngạch, tín chỉ các-bon cho khách hàng ngay sau khi VSDC hoàn tất thanh toán hạn ngạch, tín chỉ các-bon và NHTT hoàn tất thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon. Thành viên lưu ký các-bon gửi VSDC thông báo kết quả phân bổ hạn ngạch, tín chỉ các-bon và tiền cho VSDC dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến chậm nhất 16h00 ngày thanh toán.
+Điều 15. Loại bỏ thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+1. VSDC thực hiện loại bỏ thanh toán giao dịch hạn ngạch, tín chỉ các-bon theo quy định tại khoản 2 Điều 16 và khoản 1 Điều 17 Nghị định số 29/2026/NĐ-CP.
+2. Sau khi hoàn tất loại bỏ thanh toán giao dịch, VSDC gửi thông báo loại bỏ thanh toán giao dịch dưới dạng chứng từ điện tử thông qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến cho thành viên lưu ký các-bon liên quan.
+Điều 16. Trình tự, thủ tục thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+Trình tự, thủ tục thanh toán giao dịch hạn ngạch, tín chỉ các-bon được quy định tại Phụ lục I Quy chế này.
+Chương V
+GIÁM SÁT VÀ XỬ LÝ VI PHẠM THÀNH VIÊN LƯU KÝ CÁC-BON
+Điều 17. Đối tượng, nội dung và phương thức giám sát
+1. Đối tượng giám sát
+VSDC thực hiện giám sát thành viên lưu ký các-bon trong việc tuân thủ quy định về hoạt động lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon theo quy định tại Nghị định số 29/2026/NĐ-CP và Quy chế này.
+2. Nội dung giám sát của VSDC bao gồm:
+a) Giám sát thành viên lưu ký các-bon trong việc tuân thủ quy định về cập nhật thông tin đăng ký, hủy đăng ký, thay đổi thông tin tài khoản lưu ký các-bon của khách hàng; chuyển khoản hạn ngạch, tín chỉ các-bon; phong tỏa, giải tỏa tín chỉ các-bon; quản lý thông tin về cơ quan, tổ chức sở hữu hạn ngạch, tín chỉ các-bon quy định tại Quy chế này;
+b) Giám sát thành viên lưu ký các-bon trong việc tuân thủ quy định về trình tự, thủ tục thanh toán giao dịch hạn ngạch, tín chỉ các-bon quy định tại Quy chế này;
+c) Giám sát việc thành viên lưu ký các-bon phân bổ và thông báo cho VSDC kết quả phân bổ tiền, hạn ngạch, tín chỉ các-bon cho khách hàng sau khi VSDC hoàn tất thanh toán hạn ngạch, tín chỉ các-bon và NHTT hoàn tất thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon.
+3. Về phương thức giám sát
+VSDC giám sát việc tuân thủ các quy định nghiệp vụ lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon dựa trên các thông tin, tài liệu sau:
+a) Hồ sơ, tài liệu liên quan đến hoạt động lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon;
+b) Trình tự, thủ tục và phương thức thực hiện các nghiệp vụ lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon tại VSDC;
+c) Báo cáo định kỳ, bất thường, theo yêu cầu, từ thành viên lưu ký các-bon quy định tại Quy chế này.
+4. Trường hợp phát hiện có vi phạm trong việc lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon, VSDC có quyền yêu cầu tổ chức, cá nhân liên quan giải trình, cung cấp bổ sung thông tin (nếu cần thiết), xử lý theo Quy chế này hoặc xem xét, xử lý tùy theo mức độ vi phạm và báo cáo Ủy ban Chứng khoán Nhà nước.
+Điều 18. Các hình thức xử lý vi phạm đối với thành viên lưu ký các-bon
+1. VSDC áp dụng các hình thức xử lý vi phạm sau đây đối với thành viên lưu ký các-bon tùy theo mức độ vi phạm quy chế, quy định liên quan đến hoạt động nghiệp vụ lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon của VSDC:
+a) Nhắc nhở bằng văn bản;
+b) Khiển trách;
+c) Đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các-bon;
+d) Đình chỉ hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon;
+đ) Bắt buộc chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon;
+2. Hình thức xử lý vi phạm theo quy định tại khoản 1 Điều này sẽ được công bố trên trang thông tin điện tử của VSDC và báo cáo Ủy ban Chứng khoán Nhà nước. Thành viên lưu ký các-bon bị xử lý vi phạm có trách nhiệm công bố thông tin trên trang thông tin điện tử của chính thành viên lưu ký các-bon.
+3. Các trường hợp áp dụng hình thức xử lý vi phạm nêu tại khoản 1 Điều này được quy định cụ thể tại Phụ lục II Quy chế này. Việc xử lý vi phạm tại khoản 1 Điều này không áp dụng đối với các thành viên lưu ký các-bon đang trong quá trình xử lý chấm dứt việc tham gia hệ thống lưu ký và thanh toán giao dịch các-bon, xử lý thu hồi Giấy chứng nhận thành viên lưu ký; các thành viên lưu ký các-bon có hành vi vi phạm phát sinh do sự kiện bất khả kháng như thiên tai, chiến tranh, dịch bệnh,... và các sự kiện bất khả kháng khác (nếu có).
+4. Đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon:
+a) VSDC ra quyết định đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon trong các trường hợp quy định tại Phụ lục II Quy chế này và báo cáo Ủy ban Chứng khoán Nhà nước;
+b) Thời hạn đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các-bon đối với thành viên lưu ký các-bon và kéo dài thời hạn đình chỉ (nếu có) được quy định cụ thể trong quyết định đình chỉ của VSDC nhưng tối đa không quá 90 ngày kể từ ngày quyết định đình chỉ có hiệu lực;
+c) Trong thời gian thành viên lưu ký các-bon bị đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các-bon, VSDC không thực hiện ghi nhận thông tin đăng ký tài khoản lưu ký các-bon cho khách hàng mới, không nhận ký gửi mới hạn ngạch, tín chỉ các- bon cho khách hàng của thành viên lưu ký các-bon.
+5. Đình chỉ hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon:
+a) VSDC ra quyết định đình chỉ hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon trong các trường hợp quy định tại Phụ lục II Quy chế này và báo cáo Ủy ban Chứng khoán Nhà nước;
+b) Thời hạn đình chỉ hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon và kéo dài thời hạn đình chỉ (nếu có) được quy định cụ thể trong quyết định đình chỉ của VSDC nhưng tối đa không quá 90 ngày kể từ ngày quyết định đình chỉ có hiệu lực;
+c) Trong thời gian thành viên lưu ký các-bon bị đình chỉ hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon, VSDC không thực hiện thanh toán giao dịch hạn ngạch, tín chỉ các-bon của thành viên lưu ký các-bon.
+6. Việc bắt buộc chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các- bon thực hiện theo quy định tại Điều 5 Quy chế này.
+Chương VI
+CHẾ ĐỘ BÁO CÁO
+Điều 19. Báo cáo định kỳ
+1. Thành viên lưu ký các-bon phải thực hiện báo cáo định kỳ hàng tháng theo quy định tại khoản 2 Điều này trong thời hạn 05 ngày làm việc đầu tiên của tháng tiếp theo. VSDC căn cứ vào dấu công văn đến trên văn bản để đánh giá việc tuân thủ quy định về thời gian nộp báo cáo của thành viên lưu ký các-bon.
+2. Báo cáo định ký hàng tháng của thành viên lưu ký các-bon bao gồm:
+a) Báo cáo xác nhận tổng số dư sở hữu hạn ngạch, tín chỉ các-bon của khách hàng mở tài khoản tại thành viên lưu ký các-bon (theo từng mã hạn ngạch, tín chỉ) theo Mẫu 12/LKCB ban hành kèm theo Quy chế này;
+b) Báo cáo xác nhận số dư chi tiết thông tin sở hữu hạn ngạch, tín chỉ các-bon của khách hàng mở tài khoản tại thành viên lưu ký các-bon theo Mẫu 13/LKCB ban hành kèm theo Quy chế này.
+3. Trường hợp dữ liệu do VSDC cung cấp có sai sót hoặc chênh lệch so với số liệu của thành viên lưu ký các-bon, thành viên lưu ký các-bon phải nêu rõ số liệu sai sót, chênh lệch tại Báo cáo xác nhận và phối hợp với VSDC xem xét điều chỉnh.
+Điều 20. Báo cáo bất thường
+Thành viên lưu ký các-bon phải báo cáo cho VSDC bằng văn bản trong thời hạn 01 ngày làm việc kể từ khi xảy ra các sự kiện sau đây:
+1. Hệ thống lưu ký và thanh toán giao dịch các-bon tại thành viên lưu ký các-bon gặp sự cố bất khả kháng làm ảnh hưởng đến việc thực hiện hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon cho khách hàng.
+2. Không đáp ứng yêu cầu về hạ tầng công nghệ thông tin, quy trình nghiệp vụ theo yêu cầu của VSDC.
+3. Bị chấm dứt tham gia hệ thống giao dịch các-bon.
+4. Bị đặt vào các tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động theo quy định của pháp luật.
+Điều 21. Báo cáo theo yêu cầu
+1. Trong trường hợp cần thiết, nhằm bảo vệ lợi ích của khách hàng hoặc để đáp ứng yêu cầu báo cáo của cơ quan có thẩm quyền, VSDC có thể yêu cầu thành viên lưu ký các-bon báo cáo, cung cấp các thông tin liên quan.
+2. Thành viên lưu ký các-bon có trách nhiệm báo cáo VSDC trong thời hạn VSDC yêu cầu.
+Chương VII
+TỔ CHỨC THỰC HIỆN
+Điều 22. Tổ chức thực hiện
+1. Trường hợp các văn bản quy phạm pháp luật, quy chế, quy định của VSDC được dẫn chiếu trong Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật, quy chế, quy định mới thì áp dụng theo các văn bản, quy chế, quy định mới.
+2. Trong quá trình triển khai thực hiện, nếu có vướng mắc đề nghị các bên liên quan liên hệ với VSDC để được hướng dẫn, giải quyết.
+3. Việc sửa đổi, bổ sung Quy chế này do Hội đồng Thành viên VSDC quyết định sau khi có ý kiến của Ủy ban Chứng khoán Nhà nước, Bộ Nông nghiệp và Môi trường.
+PHỤ LỤC I
+TRÌNH TỰ, THỦ TỤC THANH TOÁN GIAO DỊCH HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại VSDC)*
+I. Đối chiếu, xác nhận kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon, xử lý lỗi sau giao dịch
+1. Đối chiếu kết quả giao dịch
+Sau khi nhận kết quả giao dịch từ HNX, VSDC kiểm tra và xác định các trường hợp loại bỏ thanh toán giao dịch theo quy định tại khoản 1 Điều 17 Nghị định số 29/2026/NĐ-CP đồng giới gửi thông báo cho thành viên lưu ký các-bon:
+1.1. Đối với giao dịch không thuộc trường hợp bị loại bỏ thanh toán, VSDC gửi cho thành viên lưu ký các-bon thông báo kết quả giao dịch và nghĩa vụ thanh toán bằng điện MT518 - *Thông báo kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon* đồng thời thực hiện chuyển số hạn ngạch, tín chỉ các-bon phải giao từ tài khoản giao dịch sang tài khoản chờ thanh toán của thành viên lưu ký các-bon bên bán.
+1.2. Đối với giao dịch thuộc trường hợp bị loại bỏ thanh toán, VSDC thực hiện loại bỏ thanh toán theo quy định tại mục III Phụ lục này và gửi cho thành viên lưu ký các-bon thông báo kết quả giao dịch kèm theo lý do loại bỏ thanh toán bằng điện *MT598 - Thông báo kết quả giao dịch hạn ngạch, tín chỉ các-bon kèm theo lý do.*
+2. Xác nhận kết quả giao dịch, nghĩa vụ thanh toán và xử lý lỗi sau giao dịch
+*2.1 Chậm nhất 15h00:*
+- Đối với giao dịch không thuộc trường hợp bị loại bỏ thanh toán, thành viên lưu ký các-bon kiểm tra và gửi xác nhận chấp thuận kết quả giao dịch và nghĩa vụ thanh toán cho VSDC bằng điện *MT598 - Chấp thuận kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon.*
+- Đối với giao dịch thuộc trường hợp bị loại bỏ thanh toán: Việc loại bỏ thanh toán giao dịch thực hiện theo trình tự tại mục III Phụ lục này.
+- Trường hợp phát hiện giao dịch sai số hiệu tài khoản của chính thành viên lưu ký các-bon, thành viên lưu ký các-bon gửi thông báo không chấp thuận kết quả giao dịch cho VSDC bằng điện *MT598 - Không chấp thuận kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon* trong đó ghi rõ lý do không chấp thuận và nộp hồ sơ đề nghị xử lý lỗi cho VSDC theo quy định tại Điều 13 Quy chế này.
+*2.2 Chậm nhất 15h15:*
+- VSDC thực hiện xử lý lỗi đối với các trường hợp quy định tại Điều 13 Quy chế này và gửi thông báo xử lý lỗi giao dịch ngay sau khi hoàn tất xử lý lỗi cho thành viên lưu ký các-bon bằng điện *MT518 - Thông báo điều chỉnh kết quả giao dịch*.
+- Thành viên lưu ký các-bon kiểm tra và gửi xác nhận chấp thuận kết quả giao dịch điều chỉnh cho VSDC bằng điện *MT598 - Xác nhận kết quả giao dịch và nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon*.
+II. Quy trình thanh toán giao dịch hạn ngạch, tín chỉ các-bon giữa VSDC và NHTT
+1. Thông báo nghĩa vụ thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon cho NHTT
+Sau khi nhận được xác nhận chấp thuận kết quả giao dịch của thành viên lưu ký các-bon bên mua và bên bán hạn ngạch, tín chỉ các-bon, VSDC gửi thông báo nghĩa vụ thanh toán cho NHTT bằng điện *MT518 - Thông báo nghĩa vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon.*
+2. Thực hiện thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+*2.1 Từ 09h00 - 15h30:*
+- Sau khi kiểm tra tính hợp lệ của lệnh thanh toán và đảm bảo số dư tiền gửi thanh toán của thành viên lưu ký các-bon bên mua (chi tiết đến khách hàng) đủ để thanh toán cho giao dịch của khách hàng đó, NHTT thực hiện chuyển tiền từ tài khoản tiền gửi thanh toán của thành viên lưu ký các-bon bên mua (chi tiết đến khách hàng) sang thành viên lưu ký các-bon bên bán (chi tiết đến khách hàng); đồng thời gửi thông tin xác nhận thanh toán giao dịch cho VSDC bằng điện *MT910 - Xác nhận kết quả thanh toán tiền hạn ngạch, tín chỉ các-bon.*
+- Việc thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon cho khách hàng tại NHTT được thực hiện theo nguyên tắc ưu tiên trình tự thời gian NHTT tiếp nhận thông báo nghĩa vụ thanh toán giao dịch từ VSDC; giao dịch có đủ tiền thanh toán mà NHTT nhận được thông báo trước sẽ được thanh toán trước.
++ Trường hợp tài khoản tiền gửi thanh toán của thành viên lưu ký các-bon (tài khoản của chính thành viên lưu ký các-bon/môi giới trong nước/môi giới nước ngoài) chi tiết đến khách hàng có đủ số dư để thanh toán, NHTT thực hiện thanh toán ngay cho giao dịch đó.
++ Trường hợp tài khoản tiền gửi thanh toán của thành viên lưu ký các-bon chi tiết đến khách hàng không đủ số dư để thanh toán, giao dịch được ghi nhận chờ thanh toán. Các giao dịch chờ thanh toán sẽ được NHTT thực hiện thanh toán ngay khi tài khoản có đủ số dư.
++ Trường hợp đến thời điểm kết thúc thời hạn thanh toán giao dịch trong ngày, tài khoản tiền gửi thanh toán của thành viên lưu ký các-bon chi tiết đến khách hàng vẫn không đủ số dư để thanh toán, VSDC sẽ loại bỏ giao dịch chờ thanh toán theo quy định tại mục III Phụ lục này.
+- VSDC thực hiện chuyển số lượng hạn ngạch, tín chỉ các-bon phải giao từ tài khoản hạn ngạch, tín chỉ các-bon giao dịch/chờ thanh toán của thành viên lưu ký các- bon bên bán (tài khoản môi giới, tài khoản của chính thành viên lưu ký các-bon) sang tài khoản hạn ngạch, tín chỉ các-bon giao dịch của thành viên lưu ký các-bon (tài khoản môi giới, tài khoản của chính thành viên lưu ký các-bon) bên mua, đồng thời ghi tăng tài khoản hạn ngạch, tín chỉ các-bon giao dịch của khách hàng bên mua, ghi giảm tài khoản hạn ngạch, tín chỉ các-bon giao dịch của khách hàng bên bán.
+- VSDC thực hiện:
++ Gửi thành viên lưu ký các-bon bên mua điện *MT544 - Thông báo ghi tăng hạn ngạch, tín chỉ các-bon bên mua;*
++ Gửi thành viên lưu ký các-bon bên bán điện *MT546 - Thông báo ghi giảm hạn ngạch, tín chỉ các-bon bên bán.*
+- Thành viên lưu ký các-bon theo dõi việc thanh toán giao dịch hạn ngạch, tín chỉ các-bon trên hệ thống của YSDC tại báo cáo: Thông báo tổng hợp kết quả giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon theo Mẫu 10/TTCB ban hành kèm theo Quy chế này dưới dạng chứng từ điện tử qua cổng giao tiếp điện tử/cổng giao tiếp trực tuyến của VSDC (phân hệ thanh toán các-bon QS/mã báo cáo QS001); tiền thanh toán hạn ngạch, tín chỉ các-bon trên hệ thống thanh toán của NHTT.
+- Thành viên lưu ký các-bon thực hiện phân bổ tiền và hạn ngạch, tín chỉ các-bon cho khách hàng ngay sau khi VSDC xác nhận hoàn tất thanh toán hạn ngạch, tín chỉ các-bon thông qua cổng giao tiếp điện tử/ cổng giao tiếp trực tuyến (điện *MT544 - Thông báo ghi tăng hạn ngạch, tín chỉ các-bon bên mua *và điện *MT546 - Thông báo ghi giảm hạn ngạch, tín chỉ các-bon bên bán*) và NHTT hoàn tất thanh toán tiền.
+*2.2 Chậm nhất 16h00:*
+Thành viên lưu ký các-bon thông báo cho VSDC một lần vào cuối ngày kết quả phân bổ tiền và hạn ngạch, tín chỉ các-bon (tổng số tiền, tổng số lượng tài khoản khách hàng, tổng số lượng hạn ngạch, tín chỉ các-bon đã phân bổ) cho khách hàng bằng điện *MT598 - Thành viên thông báo kết quả phân bổ tiền và hạn ngạch, tín chỉ các-bon cho khách hàng.*
+III. Loại bỏ thanh toán giao dịch
+1. Thành viên lưu ký các-bon đối chiếu các giao dịch của mình, ghi nhận các sai sót (nếu có) để thông báo cho VSDC.
+2. *Chậm nhất 15h00*: Đối với trường hợp bị loại bỏ thanh toán quy định tại khoản 1 Điều 17 Nghị định số 29/2026/NĐ-CP, thành viên lưu ký các-bon phải gửi VSDC giấy đề nghị loại bỏ thanh toán giao dịch theo Mẫu 11/TTCB ban hành kèm theo Quy chế này. Quá thời hạn nêu trên thành viên lưu ký các-bon không gửi hồ sơ đề nghị loại bỏ thanh toán, VSDC tự động loại bỏ thanh toán giao dịch. Thời gian loại bỏ theo quy định tại khoản 3 Mục này.
+3. *Chậm nhất 16h00*: VSDC thực hiện loại bỏ thanh toán giao dịch đối với các trường hợp quy định tại Điều 15 Quy chế này. Ngay sau khi hoàn tất loại bỏ thanh toán giao dịch, VSDC gửi thông báo loại bỏ thanh toán giao dịch cho thành viên lưu ký các-bon bằng *điện MT518 - Thông báo loại bỏ thanh toán giao dịch hạn ngạch, tín chỉ các-bon. *
+IV. Đối chiếu thông tin cuối ngày với thành viên lưu ký các-bon
+1. Chậm nhất 16h30 ngày thanh toán, VSDC thực hiện lập và gửi thành viên lưu ký các-bon điện *Báo cáo tổng hợp kết quả giao dịch* (file.par gửi kèm tệp tin dữ liệu FileAct (dạng csv)) kèm file thông báo:
+- Số lượng giao dịch nhận về từ HNX.
+- Số lượng giao dịch đã thanh toán.
+- Số lượng giao dịch đã loại bỏ thanh toán
+- Số lượng giao dịch xử lý lỗi.
+2. Thành viên lưu ký các-bon có trách nhiệm kiểm tra, đối chiếu và thông báo cho VSDC trường hợp phát hiện sai lệch.
+PHỤ LỤC II
+HÌNH THỨC XỬ LÝ VI PHẠM THÀNH VIÊN LƯU KÝ CÁC-BON
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại VSDC)*
+| Nhắc nhở bằng văn bản | Khiển trách | Đình chỉ hoạt động lưu ký Các-bon | Đình chỉ hoạt động thanh toán giao dịch Các-bon | Bắt buộc chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch Các-bon |
+| --- | --- | --- | --- | --- |
+| A. QUY ĐỊNH CHUNG |
+|  | 1. Có từ 03 lần trở lên trong 01 tháng bị VSDC nhắc nhở bằng văn bản do vi phạm quy định về các hoạt động nghiệp vụ liên quan đến hạn ngạch, tín chỉ các-bon. | 1. Có từ 03 lần trở lên trong 01 tháng bị VSDC ra quyết định khiển trách do vi phạm quy định về các hoạt động nghiệp vụ liên quan đến hạn ngạch, tín chỉ các-bon. | 1. Vi phạm quy định về hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon trong thời gian bị đình chỉ hoạt động lưu ký hạn ngạch, tín chỉ các- bon. | 1. Hết thời hạn đình chỉ hoạt động lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các- bon theo quyết định đình chỉ của VSDC mà thành viên lưu ký các- bon vẫn chưa khắc phục được toàn bộ hành vi dẫn tới bị đình chỉ hoạt động. |
+|  | 2. Có từ 02 lần trở lên trong 01 tháng hoặc có 02 tháng liên tiếp bị VSDC nhắc nhở bằng văn bản do vi phạm quy định về cùng một nội dung nghiệp vụ liên quan đến hạn ngạch, tín chỉ các-bon. | 2. Có từ 02 lần trở lên trong 01 tháng hoặc có 02 tháng liên tiếp bị VSDC ra quyết định khiển trách do vi phạm quy định về cùng một nội dung nghiệp vụ liên quan đến hạn ngạch, tín chỉ các- bon. | 2. Thành viên lưu ký bị đình chỉ hoạt động thanh toán giao dịch chứng khoán theo quy định tại Quy chế thành viên lưu ký tại VSDC. | 2. Thành viên lưu ký bị thu hồi Giấy chứng nhận thành viên lưu ký theo quy định tại Quy chế thành viên lưu ký tại VSDC. |
+|  |  | 3. Thường xuyên vi phạm nghĩa vụ của thành viên lưu ký các-bon tại khoản 2 Điều 23 Nghị định số 29/2026/NĐ-CP, Quy chế này hoặc để xảy ra thiếu sót gây thiệt hại nghiêm trọng cho khách hàng. | 3. Để xảy ra thiếu sót trong hoạt động thanh toán giao dịch hạn ngạch, tín chỉ các-bon gây thiệt hại nghiêm trọng cho khách hàng. |  |
+|  |  | 4. Bị tạm ngừng, đình chỉ việc cung cấp dịch vụ lưu ký hạn ngạch, tín chỉ các- bon theo yêu cầu của cơ quan nhà nước có thẩm quyền quy định tại điểm b khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. | 4. Bị tạm ngừng, đình chỉ việc cung cấp dịch vụ thanh toán hạn ngạch, tín chỉ các-bon theo yêu cầu của cơ quan nhà nước có thẩm quyền quy định tại điểm b khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. |  |
+|  |  | 5. Đang trong tình trạng bị đình chỉ hoạt động theo quy định của pháp luật về chứng khoán theo quy định tại điểm c khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. | 5. Đang trong tình trạng bị đình chỉ hoạt động theo quy định của pháp luật về chứng khoán theo quy định tại điểm c khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. |  |
+|  |  | 6. Không đáp ứng yêu cầu về hạ tầng công nghệ thông tin, quy trình nghiệp vụ theo yêu cầu của VSDC theo quy định tại điểm d khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. | 6. Không đáp ứng yêu cầu về hạ tầng công nghệ thông tin, quy trình nghiệp vụ theo yêu cầu của VSDC theo quy định tại điểm d khoản 1 Điều 24 Nghị định số 29/2026/NĐ-CP. |  |
+| B. QUY ĐỊNH CỤ THỂ *(Các hành vi vi phạm bị xử lý theo quy định tại Mục này và theo quy định chung tại Mục A Phụ lục này)* |
+| 1. Xử lý lỗi sau giao dịch (nếu có) |
+| 1. Thành viên lưu ký các-bon thực hiện xử lý lỗi giao dịch do nhập sai số hiệu tài khoản của chính mình. | 1. Thành viên lưu ký các-bon thực hiện xử lý lỗi giao dịch do nhập sai số hiệu tài khoản của chính mình và bị mất khả năng thanh toán tiền giao dịch hạn ngạch, tín chỉ các-bon dẫn tới bị loại bỏ thanh toán. |  |  |  |
+| 2. Loại bỏ không thanh toán giao dịch các-bon |
+| 1. Có từ 01 đến 03 giao dịch trong 01 tháng bị loại bỏ thanh toán. | 1. Có từ 04 đến 08 giao dịch trong 01 tháng bị VSDC loại bỏ thanh toán với tổng số lượng hạn ngạch, tín chỉ các- bon/ 01 giao dịch loại bỏ thanh toán hoặc tổng số lượng hạn ngạch, tín chỉ các-bon bị VSDC loại bỏ thanh toán lũy kế trong tháng đó không quá 3.000.000 hạn ngạch, tín chỉ các-bon. | 1. Có từ 09 giao dịch trở lên trong 01 tháng bị VSDC loại bỏ thanh toán hoặc tổng số lượng hạn ngạch, tín chỉ các-bon/ 01 giao dịch loại bỏ thanh toán hoặc tổng số lượng hạn ngạch, tín chỉ các-bon bị VSDC loại bỏ thanh toán lũy kế trong tháng vượt quá 3.000.000 hạn ngạch, tín chỉ các-bon. |  |  |
+| 3. Thông báo kết quả, thực hiện phân bổ tiền và hạn ngạch, tín chỉ các-bon |
+| 1. Có 03 lần trong 01 tháng gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các- bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các- bon cho khách hàng chậm hơn thời hạn quy định tại Quy chế này. | 1. Có 04 lần trong 01 tháng gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các-bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các-bon chậm hơn thời hạn quy định tại Quy chế này. | 1. Có từ 05 lần trở lên trong 01 tháng gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các-bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các- bon chậm hơn thời hạn quy định tại Quy chế này. |  |  |
+| 2. Có 01 lần trong 01 tháng không gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các- bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các- bon cho khách hàng theo quy định tại Quy chế này. | 2. Có 02 lần trong 01 tháng không gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các-bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các-bon cho khách hàng theo quy định tại Quy chế này. | 2. Có từ 03 lần trở lên trong 01 tháng không gửi VSDC thông báo kết quả phân bổ tiền, hạn ngạch, tín chỉ các- bon nhận về từ giao dịch bán, mua hạn ngạch, tín chỉ các-bon cho khách hàng theo quy định tại Quy chế này. |  |  |
+|  |  | 3. Không thực hiện phân bổ tiền, hạn ngạch, tín chỉ các- bon nhận về từ giao dịch mua bán hạn ngạch, tín chỉ các-bon cho khách hàng theo quy định tại Quy chế này. |  |  |
+| 4. Vi phạm về nghĩa vụ báo cáo |
+| 1. Chậm báo cáo định kỳ theo quy định tại Điều 19 Quy chế này. 2. Chậm báo cáo đối với các nội dung phải báo cáo bất thường theo quy định tại Điều 20 Quy chế này. 3. Chậm báo cáo đối với các nội dung do VSDC yêu cầu theo quy định tại Điều 21 Quy chế này. | 1. Có 01 tháng không báo cáo định kỳ theo quy định tại Điều 19 Quy chế này. 2. Không báo cáo, báo cáo không đầy đủ chính xác báo cáo bất thường theo quy định tại Điều 20 Quy chế này. 3. Không báo cáo hoặc báo cáo không đầy đủ, chính xác thông tin, báo cáo VSDC yêu cầu theo quy định tại Điều 21 Quy chế này. |  |  |  |
+PHỤ LỤC III:
+DANH SÁCH MẪU BIỂU TẠI QUY CHẾ
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại VSDC)*
+| STT | Ký hiệu mẫu biểu | Tên mẫu biểu |
+| --- | --- | --- |
+| I. Mẫu biểu Lưu ký hạn ngạch, tín chỉ các-bon |
+| 1 | 01/LKCB | Giấy đăng ký tham gia hệ thống lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon |
+| 2 | 02/LKCB | Thuyết minh đáp ứng yêu cầu về quy trình nghiệp vụ |
+| 3 | 03/LKCB | Thuyết minh đáp ứng yêu cầu về hạ tầng công nghệ thông tin |
+| 4 | 04/LKCB | Giấy đề nghị chấm dứt việc tham gia hệ thống lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon |
+| 5 | 05/LKCB | Báo cáo số dư tài khoản lưu ký các-bon |
+| 6 | 06/LKCB | Báo cáo số dư lưu ký hạn ngạch/ tín chỉ các-bon |
+| 7 | 07/LKCB | Yêu cầu chuyển khoản tất toán tài khoản lưu ký các-bon |
+| 8 | 08/LKCB | Yêu cầu chuyển khoản hạn ngạch, tín chỉ các-bon |
+| 9 | 12/LKCB | Báo cáo xác nhận số dư tổng hạn ngạch, tín chỉ các-bon trên tài khoản lưu ký các- bon tại thành viên lưu ký các-bon |
+| 10 | 13/LKCB | Báo cáo xác nhận số dư hạn ngạch, tín chỉ các-bon sở hữu trên tài khoản của từng nhà đầu tư |
+| II. Mẫu biểu Thanh toán giao dịch hạn ngạch, tín chỉ các-bon |
+| 11 | 09/TTCB | Giấy đề nghị xử lý lỗi giao dịch |
+| 12 | 10/TTCB | Thông báo tổng hợp kết quả giao dịch hạn ngạch, tín chỉ các-bon |
+| 13 | 11/TTCB | Giấy đề nghị loại bỏ thanh toán giao dịch |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 01/LKCB*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+*…, ngày…. tháng… năm…. *
+GIẤY ĐĂNG KÝ THAM GIA HỆ THỐNG
+LƯU KÝ VÀ THANH TOÁN GIAO DỊCH CÁC-BON
+Kính gửi: Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam
+Chúng tôi là:
+Tên tổ chức (tên đầy đủ ghi bằng chữ in hoa):
+Tên viết tắt:
+Mã thành viên lưu ký:
+Trụ sở chính:
+Điện thoại:                                                    Fax:
+Giấy chứng nhận thành viên lưu ký số ... ngày ... do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cấp.
+Căn cứ các điều kiện tham gia hệ thống lưu ký và thanh toán giao dịch các-bon, chúng tôi nhận thấy đã đáp ứng đủ điều kiện theo yêu cầu và đăng ký tham gia hệ thống lưu ký và thanh toán giao dịch các-bon của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+Chúng tôi xin đảm bảo các thông tin trên đây và thông tin trong hồ sơ kèm theo là hoàn toàn chính xác. Chúng tôi cam kết tuân thủ quy định pháp luật và các quy chế hoạt động nghiệp vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+|  | NGƯỜI ĐẠI DIỆN PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+Hồ sơ đính kèm:
+*- Bản thuyết minh đáp ứng yêu cầu quy trình nghiệp vụ (Mẫu 02/LKCB);*
+*- Bản thuyết minh đáp ứng các quy trình về hạ tầng công nghệ thông tin (Mẫu 03/LKCB);*
+*- Tài liệu đăng ký bổ sung các giao dịch sử dụng qua cổng giao tiếp trực tuyến.*
+*(Ban hành kèm theo Quy chế lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+Mẫu 02/LKCB
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+*…, ngày…. tháng… năm….*
+BẢN THUYẾT MINH
+ĐÁP ỨNG YÊU CẦU VỀ QUY TRÌNH NGHIỆP VỤ
+*(Phục vụ hoạt động hai kỹ, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon qua cổng giao tiếp trực tuyến của VSDC)*
+I. THÔNG TIN CHUNG
+1. Tên tổ chức:
+2. Trụ sở chính:
+3. Điện thoại:                                                Fax:
+4. Danh sách thành viên Ban giám đốc được phân công phụ trách nghiệp vụ lưu ký, thanh toán giao dịch hạn ngạch, tín chỉ các-bon *(theo Phụ lục đính kèm).*
+II. THUYẾT MINH VỀ QUY TRÌNH NGHIỆP VỤ
+Thuyết minh các quy trình xử lý nghiệp vụ thanh toán giao dịch hạn ngạch, tín chỉ các-bon qua cổng giao tiếp trực tuyến giữa thành viên lưu ký và VSDC (trình tự, thời gian, cách thức xử lý) như sau:
+1. Đăng ký, hủy đăng ký thông tin tài khoản lưu ký cho mục đích giao dịch hạn ngạch, tín chỉ các-bon
+a) Đăng ký thông tin tài khoản;
+b) Điều chỉnh thông tin về loại hình tài khoản, loại hình chủ thể;
+c) Hủy đăng ký thông tin tài khoản;
+2. Hoạt động lưu ký hạn ngạch, tín chỉ các-bon
+a) Ký gửi, rút ký gửi hạn ngạch, tín chỉ các-bon;
+b) Chuyển khoản hạn ngạch, tín chỉ các-bon;
+c) Phong tỏa, giải tỏa tín chỉ các-bon.
+3. Thanh toán giao dịch hạn ngạch, tín chỉ các-bon
+a) Xác nhận kết quả giao dịch, nghĩa vụ thanh toán và gửi xác nhận cho VSDC;
+b) Quy trình xử lý lỗi sau giao dịch (trong trường hợp Thành viên lưu ký các-bon được thực hiện giao dịch cho chính mình);
+c) Quy trình xử lý sau khi nhận thông báo hoàn tất thanh toán giao dịch hạn ngạch, tín chỉ các-bon từ VSDC;
+d) Phân bổ tiền, hạn ngạch, tín chỉ các-bon cho khách hàng sau khi VSDC hoàn tất thanh toán giao dịch hạn ngạch, tín chỉ các-bon, ngân hàng thanh toán hoàn tất thanh toán tiền và thông báo cho VSDC kết quả thực hiện;
+đ) Xử lý trường hợp bán thiếu hạn ngạch, tín chỉ các-bon;
+e) Quy trình loại bỏ thanh toán giao dịch hạn ngạch, tín chỉ các-bon.
+4. Đối chiếu thông tin với VSDC
+a) Cách thức, thời gian đối chiếu;
+b) Xử lý trường hợp sai lệch thông tin.
+*(Lưu ý: Chỉ thể hiện các nội dung thuộc quy trình tương tác giữa TVLK các-bon và VSDC)*
+Chúng tôi cam kết quy trình nghiệp vụ tại Bản thuyết minh này tuân thủ quy định của pháp luật, quy chế của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam và đã được ban hành tại Quy trình nội bộ của *(tên TVLK các-bon).*
+* *
+|  | NGƯỜI ĐẠI DIỆN PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+* *
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 03/LKCB*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+*….., ngày… tháng…. năm....*
+BẢN THUYẾT MINH
+ĐÁP ỨNG YÊU CẦU VỀ HẠ TẦNG CÔNG NGHỆ THÔNG TIN
+*(Phục vụ hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon)*
+I. THÔNG TIN CHUNG
+1. Tên tổ chức: ……………………………………………………………………………………..
+2. Trụ sở chính: …………………………………………………………………………………….
+3. Điện thoại: ………………………………………Fax ………………………………………….
+II. THUYẾT MINH VỀ HẠ TẦNG CÔNG NGHỆ THÔNG TIN
+1. Mô tả đáp ứng điều kiện tham gia kết nối được quy định trong hướng dẫn tham gia kết nối Cổng giao tiếp trực tuyến của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam (VSDC) cho hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon.
+2. Số lượng và thông tin cấu hình máy chủ/thiết bị của hệ thống lưu ký và thanh toán giao dịch các-bon.
+3. Tóm tắt đặc tả thiết kế hệ thống phần mềm phục vụ hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon.
+4. Chính sách đảm bảo an ninh bảo mật cho hệ thống và kết nối tới VSDC.
+5. Phương án dự phòng, xử lý khi gặp sự cố.
+6. Phương pháp cung cấp thông tin cho khách hàng, Ủy ban Chứng khoán Nhà nước, VSDC và các cơ quan liên quan khác (thông qua hệ thống máy tính, điện thoại, telex, fax...).
+Chúng tôi cam kết các nội dung về hạ tầng công nghệ thông tin nêu trên là hoàn toàn phù hợp, đáp ứng yêu cầu và tuân thủ đúng quy định của pháp luật, quy chế của VSDC.
+|  | NGƯỜI ĐẠI DIỆN PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 04/LKCB*
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+*…., ngày ... tháng... năm ...*
+GIẤY ĐỀ NGHỊ
+CHẤM DỨT THAM GIA HỆ THỐNG LƯU KÝ VÀ THANH TOÁN GIAO DỊCH CÁC-BON
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam
+Chúng tôi là:
+- Tên thành viên lưu ký các-bon: ……………………………………………………………………..
+- Giấy chứng nhận thành viên lưu ký số .... ngày .... do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cấp.
+- Văn bản chấp thuận tham gia hệ thống lưu ký và thanh toán giao dịch các-bon số ... ngày …. của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+- Địa chỉ trụ sở chính:
+- Điện thoại:                                          Fax:
+Đề nghị Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận cho chúng tôi được chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon.
+Chúng tôi cam kết thực hiện đầy đủ các quy định, quy trình, thủ tục chấm dứt tham gia hệ thống lưu ký và thanh toán giao dịch các-bon theo quy định của pháp luật liên quan và quy chế của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+| Hồ sơ kèm theo:  *(Liệt kê đầy đủ)* | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(ký, ghi rõ họ tên và đóng dấu)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 05/LKCB*
+| TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+BÁO CÁO SỐ DƯ TÀI KHOẢN LƯU KÝ CÁC-BON
+*Tại ngày:* ………
+Tên Thành viên lưu ký các-bon:
+| Mã hạn ngạch/tín chỉ các-bon | Loại tài khoản | Số lượng giao dịch | Số lượng chờ thanh toán | Số lượng tạm giữ | Tổng cộng |
+| --- | --- | --- | --- | --- | --- |
+| *I. Hạn ngạch phát thải khí nhà kính* |
+| Mã 1 | Tự doanh |  |  |  |  |
+| Mã 2 | Môi giới trong nước |  |  |  |  |
+| Mã 3 | Môi giới nước ngoài |  |  |  |  |
+| Cộng |
+| *II. Tín chỉ các-bon* |
+| Mã 1 | Tự doanh |  |  |  |  |
+| Mã 1 | Môi giới trong nước |  |  |  |  |
+| Mã 1 | Môi giới nước ngoài |  |  |  |  |
+| Cộng |   |   |   |   |
+| Tổng cộng | 0 | 0 | 0 | 0 |
+| NGƯỜI LẬP | ĐẠI DIỆN VSDC |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 06/LKCB*
+| TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+BÁO CÁO SỐ DƯ LƯU KÝ HẠN NGẠCH/TÍN CHỈ CARBON
+*(Tại ngày....)*
+Thành viên lưu ký:
+Mã thành viên:
+| STT | Mã hạn ngạch/tín chỉ carbon | Số ĐKSH | Ngày cấp | Loại hình nhà đầu tư | Số tài khoản | Loại tài khoản | Số lượng |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Mã hạn ngạch phát thải khí nhà kính/tín chỉ các-bon 1 |   |
+| 1 | Nguyễn Văn A |  |  | Cá nhân trong nước |  | Lưu ký giao dịch |  |
+| Cộng |  |  |  |  |
+| Mã hạn ngạch phát thải khí nhà kính/tín chỉ các-bon 2 |  |  |
+| 1 | CTCP Thép Hòa Phát |  |  | Tổ chức trong nước |  | Tạm giữ |  |
+| 2 | Trần Thị B |  |  | Cá nhân trong nước |  | Chờ thanh toán |  |
+|  |  |  |  |  |  |  |  |
+| Cộng |  |  |  |  |
+| Tổng cộng |  |  |  |  |
+| NGƯỜI LẬP | ĐẠI DIỆN VSDC |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 07/LKCB*
+| Tên TVLK các-bon ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+|  | *…. Ngày…. tháng…. năm .... * |
+* *
+YÊU CẦU CHUYỂN KHOẢN TẤT TOÁN TÀI KHOẢN LƯU KÝ CÁC-BON
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam
+1. Thành viên lưu ký các-bon chuyển khoản: (Tên TVLK)
+- Số đăng ký thành viên lưu ký các-bon:                        - Số tài khoản TVLK:
+2. Thành viên lưu ký các-bon nhận chuyển khoản: (Tên TVLK)
+- Số đăng ký thành viên lưu ký các-bon:                        - Số tài khoản TVLK:
+Số dư hạn ngạch phát thải khí nhà kính, tín chỉ các-bon chuyển khoản:
+| STT | Họ và tên | Số tài khoản chuyển | Số tài khoản nhận | Số ĐKSH |
+| --- | --- | --- | --- | --- |
+Ngày cấp
+Mã hạn ngạch/tín chỉ các-bon
+Số lượng CK tại ngày chốt
+Ghi chú
+1
+Nguyễn A
+2
+Nguyễn B
+3
+Nguyễn C
+Xác nhận của TVLK các-bon bên chuyển khoản: Chúng tôi cam kết các khách hàng sở hữu các tài khoản nêu trên không có tranh chấp về tài sản và các nghĩa vụ dân sự với chúng tôi.
+| NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN  (TVLK các-bon bên chuyển khoản) *(Ký, đóng dấu, ghi rõ họ tên)* | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN  (TVLK các-bon bên nhận chuyển khoản) *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+_________________________________________________________
+Xác nhận của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam:
+Ngày hiệu lực chuyển khoản:…………………………………………………..
+|  | ĐẠI DIỆN VSDC *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+Mẫu 08/LKCB
+| Tên TVLK các-bon | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+|  | *…. Ngày… tháng ... ... năm…..* |
+* *
+YÊU CẦU CHUYỂN KHOẢN HẠN NGẠCH, TÍN CHỈ CÁC-BON
+*Chuyển khoản do thay đổi tỷ lệ sở hữu nước ngoài hoặc thay đổi quốc tịch dẫn tới thay đổi từ tổ chức trong nước thành tổ chức nước ngoài hoặc tổ chức kinh tế có nhà đầu tư nước ngoài sở hữu trên 50% vốn điều lệ và ngược lại.*
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam
+Công ty……….. đề nghị VSDC chuyển khoản hạn ngạch, tín chỉ các-bon như sau:
+1. Thành viên lưu ký các-bon chuyển khoản: (Tên TVLK)
+- Số đăng ký thành viên lưu ký:                                 - Số tài khoản lưu ký TVLK:
+- Người chuyển khoản:                                              - Số tài khoản:
+2. Thành viên lưu ký các-bon nhận chuyển khoản: (Tên TVLK)
+- Số đăng ký thành viên lưu ký:                                 - Số tài khoản lưu ký TVLK:
+- Người nhận chuyển khoản:                                     - Số tài khoản:
+Số dư hạn ngạch, tín chỉ các-bon chuyển khoản:
+| STT | Mã hạn ngạch, tín chỉ các-bon | Số lượng |
+| --- | --- | --- |
+| 1 | Hạn ngạch A |  |
+| 2 | Tín chỉ B |  |
+| ... |  |  |
+| ... |  |  |
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN  (TVLK các-bon bên chuyển khoản) *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+______________________________________________________________________
+Xác nhận chuyển khoản của Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam
+Ngày hiệu lực chuyển khoản………………………………………………………………..
+|  | ĐẠI DIỆN VSDC *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và Thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 09/TTCB*
+| Tên CTCK | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: | *…, ngày... tháng... năm ... * |
+GIẤY ĐỀ NGHỊ XỬ LÝ LỖI GIAO DỊCH
+Kính gửi: Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam
+Phiên giao dịch ngày... đã xảy ra lỗi giao dịch của chúng tôi như sau:
+| Lệnh nhập | Số hiệu lệnh | Số xác nhận | Loại lệnh | Mã sản phẩm | Loại sản phẩm | Số lượng đặt lệnh | Giá đặt lệnh | Số lượng khớp lệnh | Giá khớp lệnh | Số tài khoản |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lệnh sai |  |  |  |  |  |  |  |  |  |  |
+| Lệnh đúng |  |  |  |  |  |  |  |  |  |  |
+Lý do:
+Đề nghị Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) thực hiện điều chỉnh về đúng số hiệu tài khoản của Công ty …, tài khoản số ...
+Chúng tôi cam kết chịu trách nhiệm về tính chính xác của thông tin trên và cùng phối hợp với VSDC để hoàn thành việc xử lý giao dịch lỗi.
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+* *
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và Thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 10/TTCB*
+| TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+* *
+THÔNG BÁO TỔNG HỢP KẾT QUẢ GIAO DỊCH HẠN NGẠCH, TÍN CHỈ CÁC-BON
+| Ngày giao dịch: Tên TVLK: | Ngày thanh toán: Số đăng ký TVLK: |
+| --- | --- |
+| STT | Số hiệu lệnh | Số xác nhận | Mã sản phẩm | Loại sản phẩm | Số tài khoản | Mã TV/TC đặt lệnh | Mã NHTT | Giá (VNĐ) | Mua | Bán | TV đối ứng | Mã NHTT đối ứng | Trạng thái |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  | Số lượng | Giá trị (VNĐ) | Số lượng | Giá trị (VNĐ) |  |  |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 1 |  |  |  | 1 - Hạn ngạch |  |  |  |  |  |  |  |  |  |  | Đã xác nhận |
+| 1 |  |  |  | 2- Tín chỉ |  |  |  |  |  |  |  |  |  |  | Chưa xác nhận |
+|  |  |  |  |  |  |  | Đã xác nhận một bên |
+|  |  |  |  |  |  |  | Loại bỏ giao dịch.. |
+|  |  |  |  |  |  |  | TV từ chối thanh toán |
+|  |  |  |  |  |  |  | Đã thanh toán |
+| Tổng cộng | ... | ... | ... | ... |  |  |  |
+|  | *…, ngày... tháng... năm ... * ĐẠI DIỆN VSDC |
+| --- | --- |
+*(Ban hành kèm theo Quy chế lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và Thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+*Mẫu 11/TTCB*
+| Tên CTCK | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: ………. | *…, ngày... tháng... năm ... * |
+GIẤY ĐỀ NGHỊ LOẠI BỎ THANH TOÁN GIAO DỊCH
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam
+Liên quan đến giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon tại Công ty ………….. ngày ………….., thông tin chi tiết như sau:
+| Loại lệnh | Số xác nhận | Mã sản phẩm | Loại sản phẩm | Số lượng | Giá thực hiện | Giá trị thanh toán | Số tài khoản mua | Số tài khoản bán |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |
+Lý do:
+Đề nghị Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC) thực hiện loại bỏ thanh toán đối với giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các- bon, của ... theo nội dung nêu trên. Chúng tôi cam kết chịu trách nhiệm về tính chính xác của thông tin trên và cùng phối hợp với VSDC để hoàn thành việc loại bỏ thanh toán giao dịch.
+Chúng tôi cam kết chịu hoàn toàn trách nhiệm đối với các tổn thất phát sinh cho khách hàng do giao dịch không được thanh toán.
+Rất mong nhận được sự hợp tác và hỗ trợ của Quý Tổng công ty.
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, ghi rõ họ tên, đóng dấu)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam)*
+Mẫu 12/LKCB
+| TVLK: | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+|  | *Hà Nội, ngày ....tháng ...năm 20...* |
+BÁO CÁO XÁC NHẬN SỐ DƯ TỔNG HẠN NGẠCH, TÍN CHỈ CÁC-BON TRÊN TÀI KHOẢN LƯU KÝ CÁC-BON TẠI THÀNH VIÊN LƯU KÝ CÁC-BON
+Tại thời điểm…………
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC)
+Chúng tôi xác nhận tổng số dư hạn ngạch, tín chỉ các-bon trên tài khoản lưu ký các-bon theo thông báo của VSDC hoàn toàn trùng khớp với tổng số dư tín chỉ, hạn ngạch các-bon trên tài khoản lưu ký các-bon mở tại chúng tôi, ngoại trừ các sai lệch sau:
+| Mã CK | Loại tài khoản (MGTN/MGNN/TD) | Tiểu khoản | Số dư tại VSDC | Số dư tại TVLK | Chênh lệch |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Giao dịch |  |  |  |
+|  |  | Phong tỏa |  |  |  |
+|  |  | ………….. |  |  |  |
+|  |  |  |  |  |  |
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+*(Ban hành kèm theo Quy chế hoạt động lưu ký, thanh toán hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và thành viên lưu ký các-bon tại Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam)*
+Mẫu 13/LKCB
+| TVLK: | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+* *
+BÁO CÁO XÁC NHẬN SỐ DƯ HẠN NGẠCH, TÍN CHỈ CÁC-BON SỞ HỮU TRÊN TÀI KHOẢN CỦA TỪNG NHÀ ĐẦU TƯ
+Tại thời điểm…………………….
+Kính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC)
+Chúng tôi xác nhận số dư hạn ngạch, tín chỉ các-bon sở hữu của nhà đầu tư theo thông báo của VSDC hoàn toàn trùng khớp với số dư hạn ngạch, tín chỉ các-bon sở hữu của khách hàng mở tại chúng tôi, ngoại trừ các sai lệch sau:
+*Mã hạn ngạch, tín chỉ các-bon 1*
+| STT | Họ tên | Số ĐKNSH | Ngày cấp | Quốc tịch | Số TK | Tiểu khoản | Số lượng | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  | Tại VSDC | Tại TVLK | Chênh lệch |  |
+|  |  |  |  |  |  | Giao dịch |  |  |  |  |
+|  |  |  |  |  |  | Phong tỏa |  |  |  |  |
+|  |  |  |  |  |  | …… |  |  |  |  |
+| .... |  |  |  |  |  |  |  |  |  |  |
+| Tổng mã hạn ngạch, tín chỉ các-bon 1 |  |  |
+| *Mã hạn ngạch, tín chỉ các-bon 2* |  |
+| STT | Họ tên | Số ĐKNSH | Ngày cấp | Quốc tịch | Số TK | Tiểu khoản | Số lượng | Ghi chú |
+|  |  |  |  |  |  |  | Tại VSDC | Tại TVLK | Chênh lệch |  |
+|  |  |  |  |  |  | Giao dịch |  |  |  |  |
+|  |  |  |  |  |  | Phong tỏa |  |  |  |  |
+|  |  |  |  |  |  | …… |  |  |  |  |
+| .., |  |  |  |  |  |  |  |  |  |  |
+| Tổng mã hạn ngạch, tín chỉ các-bon 2 |  |  |  |  |
+| * Nguyên nhân sai lệch: * Đề xuất xử lý: | *…., ngày ... tháng ... năm ....* NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  HOẶC NGƯỜI ĐƯỢC ỦY QUYỀN *(Ký, đóng dấu, ghi rõ họ tên)* |
+| --- | --- |
+* *

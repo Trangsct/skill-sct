@@ -1,0 +1,178 @@
+| SỞ GIAO DỊCH  CHỨNG KHOÁN VIỆT NAM ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: 47/QĐ-HĐTV | *Hà Nội, ngày 05 tháng 6 năm 2026* |
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH QUY CHẾ GIAO DỊCH TRÊN SÀN GIAO DỊCH CÁC-BON TRONG NƯỚC
+HỘI ĐỒNG THÀNH VIÊN
+SỞ GIAO DỊCH CHỨNG KHOÁN VIỆT NAM
+*Căn cứ Luật Bảo vệ môi trường số 72/2020/QH14 được sửa đổi, bổ sung được sửa đổi, bổ sung bởi Luật số 146/2025/QH15;*
+*Căn cứ Nghị định số 06/2022/NĐ-CP ngày 17/01/2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn được sửa đổi, bổ sung bởi Nghị định số 119/2025/NĐ-CP;*
+*Căn cứ Nghị định số 29/2026/NĐ-CP ngày 19/01/2026 của Chính phủ quy định về sàn giao dịch các-bon trong nước;*
+*Căn cứ Thông tư số 11/2026/TT-BNNMT ngày 12/02/2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định quản lý, vận hành Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon;*
+*Căn cứ Thông tư số 48/2026/TT-BTC ngày 12/5/2026 của Bộ trưởng Bộ Tài chính hướng dẫn giám sát giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và chế độ báo cáo của Sở giao dịch chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam với Ủy ban Chứng khoán Nhà nước về hoạt động sàn giao dịch các-bon trong nước;*
+*Căn cứ Quyết định số 37/2020/QĐ-TTg ngày 23/12/2020 của Thủ tướng Chính phủ về việc thành lập, tổ chức và hoạt động của Sở Giao dịch Chứng khoán Việt Nam;*
+*Căn cứ Quyết định số 757/QĐ-BTC ngày 01/4/2021 của Bộ trưởng Bộ Tài chính ban hành Điều lệ tổ chức và hoạt động của Sở Giao dịch Chứng khoán Việt Nam;*
+*Căn cứ Công văn số 3393/UBCK-PTTT ngày 24/4/2026 của Ủy ban Chứng khoán Nhà nước có ý kiến với Quy chế giao dịch trên sàn giao dịch các-bon trong nước;*
+*Căn cứ Công văn số 5299/BNNMT-BĐKH ngày 25/5/2026 của Bộ Nông nghiệp và Môi trường về việc phối hợp triển khai thiết lập sàn giao dịch các-bon trong nước;*
+*Căn cứ Nghị quyết số 32/NQ-HĐTV ngày 05/6/2026 của Hội đồng Thành viên Sở Giao dịch Chứng khoán Việt Nam về việc phê duyệt Quy chế giao dịch trên sàn giao dịch các-bon trong nước;*
+*Theo đề nghị của Tổng Giám đốc Sở Giao dịch Chứng khoán Việt Nam.*
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế giao dịch trên sàn giao dịch các-bon trong nước”.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Tổng Giám đốc Sở Giao dịch Chứng khoán Việt Nam, Thủ trưởng các đơn vị thuộc Sở Giao dịch Chứng khoán Việt Nam, Sở Giao dịch Chứng khoán Hà Nội, các tổ chức và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+| *Nơi nhận:* - Như Điều 3; - UBCKNN (để b/c); - TCTLKBTCKVN; - HĐTV, BĐH, BKS; - Lưu: VT, GSTT (  b). | TM. HỘI ĐỒNG THÀNH VIÊN CHỦ TỊCH     Lương Hải Sinh |
+| --- | --- |
+QUY CHẾ
+GIAO DỊCH TRÊN SÀN GIAO DỊCH CÁC-BON TRONG NƯỚC
+*(Ban hành kèm theo Quyết định số 47/QĐ-HĐTV ngày 05 tháng 6 năm 2026 của Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam)*
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc tổ chức quản lý giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon đủ điều kiện được giao dịch trên hệ thống giao dịch các-bon của Sở Giao dịch Chứng khoán Hà Nội.
+Điều 2. Đối tượng áp dụng
+1. Sở Giao dịch Chứng khoán Việt Nam;
+2. Sở Giao dịch Chứng khoán Hà Nội
+3. Các chủ thể tham gia giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon theo quy định pháp luật;
+4. Các thành viên giao dịch các-bon;
+5. Các tổ chức, cá nhân khác có liên quan.
+Điều 3. Giải thích từ ngữ và viết tắt
+Ngoài các từ ngữ được giải thích trong Nghị định số 29/2026/NĐ-CP ngày 19 tháng 01 năm 2026 của Chính phủ về sàn giao dịch các-bon trong nước (sau đây gọi tắt là Nghị định số 29/2026/NĐ-CP), các từ ngữ dưới đây được hiểu như sau:
+1. Ngày giao dịch đầu tiên: là ngày đầu tiên hạn ngạch phát thải khí nhà kính, tín chỉ các-bon được giao dịch trên hệ thống giao dịch hạn ngạch phát thải khí nhà kính và tín chỉ các-bon tại Sở Giao dịch Chứng khoán Hà Nội (sau đây gọi tắt là hệ thống giao dịch các-bon). Bộ Nông nghiệp và Môi trường xác định và cung cấp thông tin ngày giao dịch đầu tiên cho Sở Giao dịch Chứng khoán Hà Nội theo Biên bản phối hợp tổ chức vận hành sàn giao dịch các-bon trong nước giữa Bộ Nông nghiệp và Môi trường và Sở Giao dịch Chứng khoán Hà Nội theo quy định tại Điều 33 Nghị định số 29/2026/NĐ-CP.
+2. Ngày giao dịch cuối cùng: là ngày cuối cùng hạn ngạch phát thải khí nhà kính, tín chỉ các-bon được giao dịch trên hệ thống giao dịch các-bon. Bộ Nông nghiệp và Môi trường xác định và cung cấp thông tin ngày giao dịch cuối cùng cho Sở Giao dịch Chứng khoán Hà Nội theo Biên bản phối hợp tổ chức vận hành sàn giao dịch các-bon trong nước giữa Bộ Nông nghiệp và Môi trường và Sở Giao dịch Chứng khoán Hà Nội theo quy định tại Điều 33 Nghị định số 29/2026/NĐ-CP.
+3. Lệnh đã xác lập: là lệnh đã được bên mua và bên bán xác nhận thực hiện trên Hệ thống giao dịch các-bon.
+4. Lệnh chưa xác lập: là lệnh chưa được bên mua hoặc bên bán xác nhận thực hiện trên Hệ thống giao dịch các-bon.
+Chương II
+TỔ CHỨC GIAO DỊCH HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH, TÍN CHỈ CÁC-BON
+Điều 4. Nguyên tắc giao dịch trên hệ thống giao dịch các-bon
+1. Giao dịch trên hệ thống giao dịch các-bon thực hiện theo nguyên tắc được quy định tại Điều 4 và Điều 14 Nghị định số 29/2026/NĐ-CP.
+2. Hệ thống giao dịch các-bon chỉ nhận lệnh giao dịch từ thành viên giao dịch các-bon.
+3. Thành viên giao dịch các-bon có trách nhiệm đảm bảo chủ thể tham gia giao dịch đúng đối tượng theo quy định tại Điều 7 Nghị định số 29/2026/NĐ-CP.
+Điều 5. Mã giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon
+1. Mã giao dịch của hạn ngạch phát thải khí nhà kính, tín chỉ các-bon là mã trong nước được Bộ Nông nghiệp và Môi trường cấp trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon (sau đây gọi là Hệ thống đăng ký quốc gia) để định danh hạn ngạch phát thải khí nhà kính hoặc tín chỉ các- bon trên lãnh thổ Việt Nam.
+2. Nguyên tắc cấp mã trong nước đối với hạn ngạch phát thải khí nhà kính và tín chỉ các-bon được quy định tại Điều 11 Thông tư số 11/2026/TT-BNNMT ngày 13/02/2026 của Bộ Nông nghiệp và Môi trường về quy định quản lý, vận hành Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon (sau đây gọi tắt là Thông tư số 11/2026/TT-BNNMT).
+Điều 6. Thời gian giao dịch còn lại của hạn ngạch phát thải khí nhà kính
+Thời gian giao dịch còn lại của hạn ngạch phát thải khí nhà kính: là số ngày còn lại hạn ngạch phát thải khí nhà kính được giao dịch trên Hệ thống giao dịch các-bon, được tính bằng số ngày giao dịch từ ngày hiện tại đến ngày giao dịch cuối cùng của hạn ngạch phát thải khí nhà kính.
+Điều 7. Phương thức giao dịch
+1. Phương thức giao dịch trên Hệ thống giao dịch các-bon là phương thức thỏa thuận. Phương thức giao dịch thỏa thuận được thực hiện theo nguyên tắc các bên tham gia giao dịch tự thỏa thuận, thống nhất các nội dung giao dịch. Giao dịch theo phương thức thỏa thuận được xác lập khi bên mua hoặc bên bán nhập lệnh giao dịch vào Hệ thống giao dịch các-bon và được bên đối ứng xác nhận.
+2. Phương thức giao dịch thỏa thuận bao gồm:
+a) Thỏa thuận điện tử: thành viên giao dịch các-bon nhập lệnh chào mua, chào bán với cam kết chắc chắn vào Hệ thống giao dịch các-bon hoặc lựa chọn các lệnh đối ứng phù hợp đã được nhập vào Hệ thống giao dịch các-bon để thực hiện giao dịch;
+b) Thỏa thuận thông thường: bên mua và bên bán tự thỏa thuận với nhau về các điều kiện giao dịch từ trước và báo cáo kết quả vào Hệ thống giao dịch các-bon để xác lập giao dịch.
+Điều 8. Thời gian giao dịch
+Thời gian giao dịch từ thứ Hai đến thứ Sáu hàng tuần, trừ các ngày nghỉ theo quy định trong Bộ Luật Lao động.
+| Phiên | Phương thức giao dịch | Giờ giao dịch |
+| --- | --- | --- |
+| Phiên sáng | Giao dịch thỏa thuận | 09h00 - 11h30 |
+| Nghỉ trưa | 11h30 - 13h00 |
+| Phiên chiều | Giao dịch thỏa thuận | 13h00 - 14h45 |
+Điều 9. Đơn vị giao dịch
+1. Đơn vị giao dịch của hạn ngạch phát thải khí nhà kính là 01 đơn vị hạn ngạch. 01 đơn vị hạn ngạch bằng 01 tấn CO2 tương đương.
+2. Đơn vị giao dịch của tín chỉ các-bon là 01 tín chỉ. 01 tín chỉ các-bon bằng 01 tấn CO2 tương đương.
+Điều 10. Đơn vị yết giá
+Đơn vị yết giá là 01 đồng.
+Điều 11. Thời hạn hiệu lực của lệnh chưa xác lập
+Lệnh chưa xác lập có hiệu lực kể từ khi lệnh được nhập vào Hệ thống giao dịch các-bon cho đến khi được hủy bỏ. Trường hợp kết thúc thời gian giao dịch của ngày hiện tại mà lệnh chưa được hủy bỏ thì được coi là hết hiệu lực.
+Điều 12. Sửa, hủy lệnh trong thời gian giao dịch
+1. Lệnh giao dịch chưa được xác lập được phép sửa, hủy.
+2. Lệnh giao dịch đã được xác lập trên Hệ thống giao dịch các-bon không được phép sửa, hủy.
+Điều 13. Xác lập giao dịch
+Giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon được xác lập khi bên mua và bên bán xác nhận thực hiện giao dịch trên Hệ thống giao dịch các-bon của Sở Giao dịch Chứng khoán Hà Nội.
+Điều 14. Phương thức thanh toán
+Bên mua và bên bán có trách nhiệm thực hiện nghĩa vụ thanh toán đối với giao dịch đã được xác lập. Phương thức thanh toán của giao dịch trên Hệ thống giao dịch các-bon được thực hiện theo quy định tại khoản 1 Điều 15 Nghị định số 29/2026/NĐ-CP.
+Điều 15. Tạm ngừng, khôi phục hoạt động cung cấp dịch vụ giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon của Sở Giao dịch chứng khoán Hà Nội
+1. Sở Giao dịch Chứng khoán Hà Nội thực hiện tạm ngừng một phần hoặc toàn bộ hoạt động cung cấp dịch vụ giao dịch trong các trường hợp quy định tại khoản 1 Điều 30 Nghị định số 29/2026/NĐ-CP.
+2. Sở Giao dịch Chứng khoán Hà Nội báo cáo Bộ Nông nghiệp và Môi trường, Ủy ban Chứng khoán Nhà nước và Sở Giao dịch Chứng khoán Việt Nam khi thực hiện tạm ngừng một phần hoặc toàn bộ hoạt động cung cấp dịch vụ giao dịch tại khoản 1 Điều này.
+3. Sở Giao dịch Chứng khoán Hà Nội khôi phục một phần hoặc toàn bộ hoạt động cung cấp dịch vụ giao dịch theo quy định tại khoản 2 Điều 30 Nghị định số 29/2026/NĐ-CP.
+Điều 16. Tạm ngừng/khôi phục giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon; hủy giao dịch tín chỉ các-bon theo nghiệp vụ của Bộ Nông nghiệp và Môi trường
+1. Sở Giao dịch Chứng khoán Hà Nội thực hiện tạm ngừng/khôi phục giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon khi Bộ Nông nghiệp và Môi trường thực hiện phong tỏa/giải tỏa toàn bộ mã hạn ngạch phát thải khí nhà kính/mã tín chỉ các-bon trên Hệ thống đăng ký quốc gia theo quy định tại khoản 4, khoản 5 Điều 8 Thông tư số 11/2026/TT-BNNMT và Biên bản phối hợp tổ chức vận hành sàn giao dịch các-bon trong nước giữa Bộ Nông nghiệp và Môi trường và Sở Giao dịch Chứng khoán Hà Nội theo quy định tại Điều 33 Nghị định số 29/2026/NĐ-CP.
+2. Sở Giao dịch Chứng khoán Hà Nội hủy giao dịch tín chỉ các-bon khi Bộ Nông nghiệp và Môi trường thực hiện hủy đăng ký số tín chỉ các-bon đã bị thu hồi theo quy định tại khoản 4 Điều 13 Thông tư số 11/2026/TT-BNNMT.
+Chương III
+NGHĨA VỤ BÁO CÁO, CÔNG BỐ THÔNG TIN
+Điều 17. Nghĩa vụ báo cáo
+1. Sở Giao dịch Chứng khoán Hà Nội thực hiện chế độ báo cáo định kỳ hàng quý, hàng năm cho Sở Giao dịch Chứng khoán Việt Nam về tình hình giao dịch trên sàn giao dịch các-bon trong nước bằng văn bản theo mẫu tại Phụ lục 01 Quy chế này.
+2. Thời hạn chốt số liệu báo cáo định kỳ và thời hạn báo cáo.
+a) Đối với báo cáo định kỳ hàng quý: thời gian chốt số liệu là hết ngày làm việc cuối cùng của quý báo cáo; thời hạn báo cáo là trước ngày 15 của tháng đầu tiên của quý tiếp theo liền kề;
+b) Đối với báo cáo định kỳ hàng năm: thời gian chốt số liệu là hết ngày làm việc cuối cùng của năm báo cáo; thời hạn báo cáo là trước ngày 25 tháng 01 của năm tiếp theo liền kề.
+3. Ngoài chế độ báo cáo định kỳ theo quy định tại khoản 1 Điều này, Sở Giao dịch Chứng khoán Hà Nội có trách nhiệm báo cáo đột xuất cho Sở Giao dịch Chứng khoán Việt Nam.
+4. Sở Giao dịch Chứng khoán Hà Nội có trách nhiệm báo cáo theo yêu cầu của Sở Giao dịch Chứng khoán Việt Nam.
+Điều 18. Nghĩa vụ công bố thông tin
+Sở Giao dịch Chứng khoán Hà Nội công bố các thông tin trên trang thông tin điện tử của mình theo quy định tại khoản 3 Điều 32 Nghị định số 29/2026/NĐ-CP.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 19. Điều khoản thi hành
+1. Sở Giao dịch Chứng khoán Hà Nội có trách nhiệm ban hành các quy trình nghiệp vụ phù hợp với Quy chế này.
+2. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì thực hiện theo quy định tại văn bản sửa đổi, bổ sung, thay thế.
+3. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới phát sinh, các cơ quan, đơn vị, cá nhân phản ánh về Sở Giao dịch Chứng khoán Việt Nam để được hướng dẫn hoặc sửa đổi, bổ sung Quy chế theo quy định.
+4. Việc sửa đổi, bổ sung Quy chế này thực hiện theo quy định của Sở Giao dịch Chứng khoán Việt Nam, do Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam quyết định sau khi có ý kiến của Ủy ban Chứng khoán Nhà nước./.
+PHỤ LỤC 01
+BÁO CÁO ĐỊNH KỲ QUÝ, NĂM CỦA SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI
+*(Kèm theo Quy chế giao dịch trên sàn giao dịch các-bon trong nước ban hành theo Quyết định số 47/QĐ-HĐTV ngày 05/6/2026 của Hội đồng thành viên Sở Giao dịch Chứng khoán Việt Nam)*
+| SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI ------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  --------------- |
+| --- | --- |
+| Số: … | *..., ngày ... tháng ... năm ... * |
+BÁO CÁO TÌNH HÌNH GIAO DỊCH, KẾT QUẢ GIÁM SÁT GIAO DỊCH
+TRÊN SÀN GIAO DỊCH CÁC-BON TRONG NƯỚC
+Kỳ báo cáo: [Quý/Năm]
+Kính gửi: Sở Giao dịch Chứng khoán Việt Nam
+1. Về việc ban hành, bổ sung, sửa đổi các quy trình, quy định tại Sở giao dịch chứng khoán Hà Nội
+2. Về tình hình giao dịch trên sàn giao dịch các-bon trong nước
+*Mẫu biểu 1:*
+- Báo cáo quý/năm đối với giao dịch hạn ngạch phát thải khí nhà kính, tín chỉ các-bon (theo mã sản phẩm):
+| STT | Loại hàng hóa | Mã trong nước | Tổng khối lượng giao dịch (hạn ngạch/ tín chỉ) | Tổng giá trị giao dịch (đồng) | Giá đóng cửa của ngày giao dịch cuối cùng của kỳ báo cáo (đồng) | Biến động giá giao dịch so với giá đóng của của ngày giao dịch cuối cùng của kỳ báo cáo trước (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 1 | Hạn ngạch phát thải khí nhà kính |  |  |  |  |  |
+| 2 | Tín chỉ các-bon |  |  |  |  |  |
+| 2.1 | Tín chỉ A |  |  |  |  |  |
+| 2.2 | Tín chỉ B |  |  |  |  |  |
+|  | ………... |  |  |  |  |  |
+Cột 1: thể hiện số thứ tự của các loại hạn ngạch phát thải khí nhà kính và tín chỉ các-bon giao dịch trong kỳ báo cáo
+Cột 2: thể hiện tên cụ thể của loại hạn ngạch phát thải khí nhà kính và tín chỉ các-bon trong kỳ báo cáo
+Cột 3: thể hiện mã được cấp để định danh của hạn ngạch phát thải khí nhà kính hoặc tín chỉ các-bon trên lãnh thổ Việt Nam
+Cột 4: thể hiện tổng khối lượng hạn ngạch phát thải khí nhà kính và tín chỉ các-bon đã giao dịch thành công trong kỳ báo cáo
+Cột 5: thể hiện tổng giá trị giao dịch của hạn ngạch phát thải khí nhà kính và tín chỉ các-bon tương ứng với khối lượng hàng hóa đã giao dịch trong kỳ báo cáo
+Cột 6: thể hiện mức giá đóng cửa của hạn ngạch phát thải khí nhà kính và tín chỉ các-bon tại ngày giao dịch cuối cùng của kỳ báo cáo
+Cột 7: thể hiện tỷ lệ biến động giá (%) của ngày giao dịch cuối cùng kỳ báo cáo này so với ngày giao dịch cuối cùng kỳ báo cáo trước = [(Giá đóng cửa của ngày giao dịch cuối cùng của kỳ báo cáo này - Giá đóng cửa của ngày giao dịch cuối cùng của kỳ báo cáo trước) / Giá đóng cửa của ngày giao dịch cuối cùng của kỳ báo cáo trước] x 100
+*Mẫu biểu 2:*
+- Báo cáo quý/năm đối với giao dịch hạn ngạch phát thải khí nhà kính (theo mã sản phẩm):
+| Thời gian | Mã sản phẩm | Tổng khối lượng giao dịch | % thay đổi so với kỳ báo cáo trước | Tổng giá trị giao dịch | % thay đổi so với kỳ báo cáo trước | Tổng khối lượng giao dịch lũy kế | Tổng giá trị giao dịch lũy kế | Khối lượng giao dịch bình quân ngày | % thay đổi so với kỳ báo cáo trước | Giá trị giao dịch bình quân ngày | % thay đổi so với kỳ báo cáo trước |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+Cột 1: thể hiện thời gian cụ thể của kỳ báo cáo (theo quý hoặc theo năm)
+Cột 2: thể hiện mã được cấp để định danh của hạn ngạch phát thải khí nhà kính được giao dịch trên sàn giao dịch các-bon
+Cột 3: thể hiện tổng khối lượng hạn ngạch phát thải khí nhà kính đã giao dịch thành công trong kỳ báo cáo
+Cột 4: thể hiện tỷ lệ biến động khối lượng (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Tổng khối lượng giao dịch kỳ báo cáo này - Tổng khối lượng giao dịch kỳ báo cáo trước) / Tổng khối lượng giao dịch kỳ báo cáo trước] x 100
+Cột 5: thể hiện tổng giá trị giao dịch của hạn ngạch phát thải khí nhà kính tương ứng với khối lượng hàng hóa đã giao dịch trong kỳ báo cáo
+Cột 6: thể hiện tỷ lệ biến động giá trị (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Tổng giá trị giao dịch của kỳ báo cáo này - Tổng giá trị giao dịch của kỳ báo cáo trước) / Tổng giá trị giao dịch của kỳ báo cáo trước] x 100
+Cột 7: thể hiện tổng khối lượng giao dịch lũy kế tính từ ngày 01 tháng 01 của năm báo cáo đến hết kỳ báo cáo hiện tại
+Cột 8: thể hiện tổng giá trị giao dịch lũy kế tính từ ngày 01 tháng 01 của năm báo cáo đến hết kỳ báo cáo hiện tại
+Cột 9: thể hiện khối lượng giao dịch bình quân tính trên một ngày giao dịch trong kỳ báo cáo = Tổng khối lượng giao dịch trong kỳ báo cáo (Cột 3) / Số ngày giao dịch thực tế trong kỳ báo cáo
+Cột 10: thể hiện tỷ lệ biến động khối lượng giao dịch bình quân ngày (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Khối lượng giao dịch bình quân ngày kỳ báo cáo này (Cột 9) - Khối lượng giao dịch bình quân ngày của kỳ báo cáo trước) / Khối lượng giao dịch bình quân ngày của kỳ báo cáo trước] x 100
+Cột 11: thể hiện giá trị giao dịch bình quân tính trên một ngày giao dịch trong kỳ báo cáo = Tổng giá trị giao dịch trong kỳ báo cáo (Cột 5) / Số ngày giao dịch thực tế trong kỳ báo cáo
+Cột 12: thể hiện tỷ lệ biến động giá trị giao dịch bình quân ngày (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Giá trị giao dịch bình quân ngày của kỳ báo cáo này (Cột 11) - Giá trị giao dịch bình quân ngày của kỳ báo cáo trước) / Giá trị giao dịch bình quân ngày của kỳ báo cáo trước] x 100
+*Mẫu biểu 3:*
+- Báo cáo quý/năm đối với giao dịch tín chỉ các-bon (theo mã sản phẩm):
+| Thời gian | Loại tín chỉ | Mã sản phẩm | Tổng khối lượng giao dịch | % thay đổi so với kỳ báo cáo trước | Tổng giá trị giao dịch | % thay đổi so với kỳ báo cáo trước | Tổng khối lượng giao dịch lũy kế | Tổng giá trị giao dịch lũy kế | Khối lượng giao dịch bình quân ngày | % thay đổi so với kỳ báo cáo trước | Giá trị giao dịch bình quân ngày | % thay đổi so với kỳ báo cáo trước |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cột 1: thể hiện thời gian cụ thể của kỳ báo cáo (theo quý hoặc theo năm)
+Cột 2: thể hiện tên loại tín chỉ các-bon được giao dịch trên sàn giao dịch các-bon
+Cột 3: thể hiện mã được cấp để định danh của sản phẩm tín chỉ các-bon được giao dịch trên sàn giao dịch các-bon
+Cột 4: thể hiện tổng khối lượng tín chỉ các-bon đã giao dịch thành công trong kỳ báo cáo
+Cột 5: thể hiện tỷ lệ biến động khối lượng (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Tổng khối lượng giao dịch của kỳ báo cáo này - Tổng khối lượng giao dịch của kỳ báo cáo trước) / Tổng khối lượng giao dịch của kỳ báo cáo trước] x 100
+Cột 6: thể hiện tổng giá trị giao dịch tương ứng với khối lượng hàng hóa đã giao dịch thành công trong kỳ báo cáo
+Cột 7: thể hiện tỷ lệ biến động giá trị (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Tổng giá trị giao dịch của kỳ báo cáo này - Tổng giá trị giao dịch của kỳ báo cáo trước) / Tổng giá trị giao dịch của kỳ báo cáo trước] x 100
+Cột 8: thể hiện tổng khối lượng giao dịch lũy kế tính từ ngày 01 tháng 01 của năm báo cáo đến hết kỳ báo cáo hiện tại
+Cột 9: thể hiện tổng giá trị giao dịch lũy kế tính từ ngày 01 tháng 01 của năm báo cáo đến hết kỳ báo cáo hiện tại
+Cột 10: thể hiện khối lượng giao dịch bình quân tính trên một ngày giao dịch trong kỳ báo cáo = Tổng khối lượng giao dịch trong kỳ báo cáo (Cột 4) / Số ngày giao dịch thực tế trong kỳ báo cáo
+Cột 11: thể hiện tỷ lệ biến động khối lượng giao dịch bình quân ngày (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Khối lượng giao dịch bình quân ngày của kỳ báo cáo này - Khối lượng giao dịch bình quân ngày của kỳ báo cáo trước) / Khối lượng giao dịch bình quân ngày của kỳ báo cáo trước] x 100
+Cột 12: thể hiện giá trị giao dịch bình quân tính trên một ngày giao dịch trong kỳ báo cáo = Tổng giá trị giao dịch trong kỳ báo cáo (Cột 6) / Số ngày giao dịch thực tế trong kỳ báo cáo
+Cột 13: thể hiện tỷ lệ biến động giá trị giao dịch bình quân ngày (%) của kỳ báo cáo này so với kỳ báo cáo trước = [(Giá trị giao dịch bình quân ngày của kỳ báo cáo này - Giá trị giao dịch bình quân ngày của kỳ báo cáo trước) / Giá trị giao dịch bình quân ngày của kỳ báo cáo trước] x 100
+3. Các vấn đề kỹ thuật và vận hành (nếu có)
+4. Đề xuất, kiến nghị (nếu có)
+………………………………………………………………………………………………………..
+………………………………………………………………………………………………………..
+………………………………………………………………………………………………………..
+| *Nơi nhận:* - Như trên; - Lưu: ... | TỔNG GIÁM ĐỐC SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI *(Ký, đóng dấu và ghi rõ họ tên)* |
+| --- | --- |

@@ -40,7 +40,7 @@
 | 2025 | **416.442 triệu đồng** | 38.124 triệu | 378.318 triệu |
 | 2026 (ước) | **337.274 triệu đồng** | 13.450 triệu | 323.824 triệu |
 
-- **Nhu cầu chi giai đoạn 2027–2029: 3.094,17 tỷ đồng** (2027: 1.055,76 tỷ; 2028: 1.060,42 tỷ; 2029: 977,99 tỷ). Chi tiết theo nhiệm vụ nằm ở Phụ lục kèm BC (không có trong file lưu — cần thì xin Bạn cung cấp).
+- **Nhu cầu chi giai đoạn 2027–2029: 3.094,17 tỷ đồng** (2027: 1.055,76 tỷ; 2028: 1.060,42 tỷ; 2029: 977,99 tỷ). Phụ lục chi tiết theo nhiệm vụ đã có (mục 5 dưới đây; file tại `van-ban-goc/`). Khối cơ quan cấp tỉnh: 250.650,0 / 262.572,8 / 131.795,1 triệu; khối xã phường: 805.113,6 / 797.844,1 / 846.192,1 triệu.
 - Đánh giá trong BC: kinh phí SNMT **chưa đáp ứng yêu cầu thực tế**; chi chủ yếu cho **thu gom, vận chuyển, xử lý chất thải sinh hoạt**; phần chi cho QLNN về môi trường của các sở, ngành (trong đó có SCT) **còn rất hạn chế** → luận cứ khi Sở Công Thương đề xuất kinh phí nhiệm vụ BVMT/KNK ngành.
 - Kiến nghị duy nhất của BC: đề nghị Bộ NN&MT sớm tham mưu trình Quốc hội **Luật BVMT (sửa đổi, bổ sung)** để tiếp tục giảm TTHC.
 
@@ -66,6 +66,28 @@
 - Nhóm kế hoạch BĐKH: **KH 105/KH-UBND ngày 29/9/2025** (hành động ứng phó BĐKH đến 2030); **KH 107/KH-UBND ngày 01/10/2025** (thích ứng BĐKH đến 2030, tầm nhìn 2050); **KH 114/KH-UBND ngày 07/10/2025** (thực hiện NQ 122/NQ-CP — Kết luận 81-KL/TW); **KH 173/KH-UBND ngày 16/11/2025** (hệ thống giám sát - đánh giá thích ứng BĐKH theo QĐ 148/QĐ-TTg); **KH 91-KH/TU ngày 08/6/2026** (khí tượng thủy văn theo Chỉ thị 10-CT/TW).
 
 ---
+
+### 5. Phần Sở Công Thương trong Phụ lục BC 892 (Bạn cung cấp 02/9/2026, bản PDF chưa ký — số/ngày lấy từ bản chính đã ký số; đọc kỹ trước khi dùng)
+
+Sở Công Thương được tổng hợp **54.000,0 / 57.500,0 / 58.500,0 triệu đồng** (2027 / 2028 / 2029), lớn thứ 3 khối cấp tỉnh (sau Sở NN&MT 108.912 và BQL dự án ĐTXD tỉnh 51.500 năm 2027). Chi tiết:
+
+| Năm | Nhiệm vụ | Kinh phí (triệu) |
+|---|---|---|
+| 2027 | Đầu tư xây dựng hệ thống XLNT tập trung tại 04 CCN do Nhà nước thành lập trước đây, Sở Công Thương làm chủ đầu tư: **Sơn Thịnh, Đông An, Phố Ràng, Hưng Khánh** | 53.500,0 |
+| 2027 | Tuyên truyền, phổ biến pháp luật BVMT, kiểm kê KNK, sản xuất sạch hơn cho doanh nghiệp ngành công thương | 500,0 |
+| 2028 | XLNT tập trung 04 CCN: **Bắc Văn Yên, Âu Lâu, Bắc Duyên Hải, Khánh Yên Thượng** (Phụ lục in "CCụm" — lỗi chính tả) | 55.000,0 |
+| 2028 | Đầu tư mô hình điểm ứng dụng năng lượng tái tạo giảm phát thải KNK | 2.500,0 |
+| 2028 | Tập huấn nâng cao năng lực kiểm kê KNK cho doanh nghiệp ngành công thương | 500,0 |
+| 2029 | XLNT tập trung 04 CCN: **Thịnh Hưng, Báo Đáp, Yên Thế, Yên Hợp** | 58.000,0 |
+| 2029 | Tuyên truyền giảm chất thải nhựa, túi ni lông dùng một lần tại chợ, siêu thị, TTTM (thuộc Phòng QLTM) | 500,0 |
+| 2029 | Hội thảo nhân rộng mô hình BVMT ngành công thương; xây dựng, thí điểm bộ tiêu chí "Doanh nghiệp Xanh ngành Công Thương" cấp tỉnh | 500,0 |
+
+**Ba điểm phải xử lý** (đã nêu với Bạn 02/9/2026):
+1. **Số liệu không khớp**: 2028 cộng dòng = 58.000 nhưng dòng tổng ghi 57.500; 2029 cộng dòng = 59.000 nhưng tổng ghi 58.500 (2027 khớp 54.000). Đối chiếu với văn bản Sở đã gửi Sở NN&MT để xác định lỗi ở đầu vào hay khâu tổng hợp; sai ở phía Sở thì gửi CV đề nghị ghi nhận điều chỉnh cho kỳ sau (BC đã đi Bộ, không sửa hồi tố).
+2. **Nguồn vốn**: XLNT tập trung là **chi đầu tư phát triển** (Luật Đầu tư công, KH đầu tư công trung hạn 2026–2030), không phải chi thường xuyên SNMT → phải có chủ trương đầu tư và đưa vào kênh đầu tư công (plugin `kccn-sct-vn` ref 22: KH trung hạn đã có XLNT KCN Âu Lâu 45 tỷ, Minh Quân 50 tỷ, Tằng Loỏng gđ 2; 12 CCN này chưa có). Nhiệm vụ sự nghiệp 500–2.500 triệu mới đúng tính chất SNMT theo NQ 12/2026/NQ-HĐND.
+3. **Tư cách chủ đầu tư và hiện trạng 12 CCN**: theo QĐ 16/2026/QĐ-UBND, XLNT tập trung là nghĩa vụ của chủ đầu tư hạ tầng CCN; NĐ 303/2026 (hiệu lực 15/9/2026) chuyển thẩm quyền về xã. Trước khi Sở đứng tên chủ đầu tư phải rà: CCN nào đã có NĐT hạ tầng (NĐT tự làm); CCN nào do Nhà nước thành lập, còn trong QĐ 525; ai quản lý. **Hiện trạng từng CCN hỏi Bạn, không lấy từ skill** (nguyên tắc 9).
+
+Số liệu tham chiếu khác trong Phụ lục: BQL Khu kinh tế tỉnh 7.269,7 / 4.804,5 / 4.923,6 triệu (quan trắc KCN + Đề án chuyển KCN Tằng Loỏng sang KCN sinh thái); BQL các KCN tỉnh 426 triệu/năm (báo cáo hiện trạng môi trường KCN); Chi cục Môi trường, KTTV&BĐKH 70.436 / 20.587 / 13.155 triệu (trong đó **8.853 triệu năm 2027** "Đánh giá tác động BĐKH; tiềm năng giảm phát thải KNK, tạo tín chỉ các-bon"; 500 triệu năm 2028 phát triển thị trường các-bon; 3.000 triệu năm 2029 điều tra chất suy giảm tầng ô-dôn, KNK; 12.000 triệu 02 trạm quan trắc không khí đô thị 2027); Sở Y tế 26.292,5 / 12.134,5 / 14.679,7; Chi cục Kiểm lâm 5.000 / 10.000 / 10.000 triệu bản đồ kinh tế các-bon tỉnh. Đề án 13 (dự thảo) ghi "giai đoạn 2026–2030 đầu tư đồng bộ XLNT tập trung tại 12 khu công nghiệp toàn tỉnh" — cách gọi khác với Phụ lục (12 cụm công nghiệp), khi viện dẫn cần nói rõ.
 
 ## PHẦN II — ĐIỂM NÓNG MÔI TRƯỜNG NGÀNH CÔNG THƯƠNG TẠI LÀO CAI
 

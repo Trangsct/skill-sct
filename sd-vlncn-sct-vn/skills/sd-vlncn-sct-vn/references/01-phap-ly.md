@@ -42,7 +42,7 @@
 
 **Khoản 4:** đủ điều kiện điểm b, d k1 Đ38 nhưng không tự nổ mìn → **ký hợp đồng thuê toàn bộ công việc nổ mìn với doanh nghiệp dịch vụ nổ mìn**.
 
-**Khoản 5:** nộp hồ sơ trên Cổng DVC quốc gia, Hệ thống TTGQ TTHC hoặc bưu chính; nộp trực tiếp thì bổ sung họ tên + số định danh người đến liên hệ. *(Sau TT 38/2025: hệ thống của tỉnh; tại Lào Cai nộp qua Trung tâm Phục vụ hành chính công tỉnh.)*
+**Khoản 5 (trích luật, nguyên văn):** "nộp hồ sơ trên Cổng DVC quốc gia, Hệ thống TTGQ TTHC hoặc bưu chính"; nộp trực tiếp thì bổ sung họ tên + số định danh người đến liên hệ. *(Tại Lào Cai, nơi nộp DUY NHẤT ghi cho DN: Cổng https://motcua-tthc.moit.gov.vn/, đăng nhập VNeID — Bạn chốt 02/9/2026.)*
 
 **Khoản 6:** **05 ngày làm việc** kể từ ngày nhận đủ hồ sơ — cơ quan có thẩm quyền kiểm tra hồ sơ, **điều kiện thực tế**, cấp GP; không cấp phải trả lời bằng văn bản nêu rõ lý do.
 
@@ -67,7 +67,7 @@ Các trường hợp thu hồi giấy phép về quản lý, sử dụng VLNCN: 
 - ⭐ **k7 điểm a** → **điểm b khoản 2 Điều 40** (dịch vụ nổ mìn): "Đối với vật liệu nổ công nghiệp, phải có kho bảo quản **hoặc gửi kho bảo quản** bảo đảm tiêu chuẩn theo quy định của Luật này. Việc **gửi kho phải có thỏa thuận bằng văn bản và thông báo đến Ủy ban nhân dân cấp tỉnh để theo dõi, quản lý**" → **nghĩa vụ thông báo MỚI**, Sở phải mở sổ theo dõi và đưa vào nội dung tuyên truyền, đôn đốc.
 - ⭐ **k7 điểm b** → **điểm b khoản 4 Điều 40**: dịch vụ nổ mìn tại địa phương có phạm vi trong địa bàn đất liền của 01 tỉnh hoặc thành phố → phải có **văn bản đề nghị của Ủy ban nhân dân cấp tỉnh** (SCT tham mưu; cơ quan CẤP phép vẫn là Cục KTAT&MTCN).
 - **k7 điểm c** → bổ sung **điểm d khoản 4 Điều 40**: DN đã có GP kinh doanh VLNCN thì hồ sơ GP dịch vụ nổ mìn **không bao gồm** giấy tờ tại điểm đ k1 Đ39.
-- ⭐ **k8** → **khoản 5 Điều 44** (GCN đủ điều kiện sản xuất tiền chất thuốc nổ): hồ sơ nộp trên Cổng DVC quốc gia, **Hệ thống thông tin giải quyết TTHC của UBND cấp tỉnh nơi sản xuất TCTN**, hoặc bưu chính về **cơ quan có thẩm quyền do UBND cấp tỉnh quy định**.
+- ⭐ **k8** → **khoản 5 Điều 44** (GCN đủ điều kiện sản xuất tiền chất thuốc nổ): hồ sơ (trích luật, nguyên văn) "nộp trên Cổng DVC quốc gia, **Hệ thống thông tin giải quyết TTHC của UBND cấp tỉnh nơi sản xuất TCTN**, hoặc bưu chính về **cơ quan có thẩm quyền do UBND cấp tỉnh quy định**.
 - **k15 điểm a, b** → thay "doanh nghiệp hoạt động dịch vụ nổ mìn" bằng "**tổ chức, doanh nghiệp** hoạt động dịch vụ nổ mìn" tại k4 Đ39; thay "doanh nghiệp" bằng "**tổ chức, doanh nghiệp**" tại điểm a, b k1 và k2 Đ40 → mở rộng chủ thể.
 
 **Không bị sửa:** Điều 38 (điều kiện, quy định sử dụng VLNCN); k6 Đ39 (05 ngày làm việc); k7 Đ39 (thời hạn GP 04/05/02 năm); Điều 41 (vận chuyển); Điều 42 (trách nhiệm tổ chức, DN).

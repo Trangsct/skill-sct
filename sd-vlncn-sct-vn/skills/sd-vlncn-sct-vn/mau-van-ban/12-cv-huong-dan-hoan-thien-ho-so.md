@@ -13,7 +13,7 @@ Sở Công Thương nhận được 【Phiếu chuyển số …/PC-VPUBND ngày
 **3.** 【Thiếu tài liệu: văn bản nghiệm thu PCCC kho; QĐ bổ nhiệm chỉ huy nổ mìn; GCN huấn luyện của …; ý định giao kết hợp đồng thuê kho…】.
 **4.** 【Thông số kỹ thuật chưa phù hợp QCVN 01:2019/BCT: bổ sung tính toán Rc, rs, Rđv; biện pháp che chắn; vị trí trạm gác…】.
 
-Hồ sơ hoàn thiện đề nghị gửi về Sở Công Thương (qua Trung tâm Phục vụ hành chính công tỉnh) trước ngày 【…】. Quá thời hạn trên, Sở Công Thương sẽ trả hồ sơ theo quy định. Chi tiết liên hệ: Phòng Quản lý công nghiệp, đ/c Vũ Việt Linh, ĐT 【…】./.
+Hồ sơ hoàn thiện đề nghị nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ trước ngày 【…】. Quá thời hạn trên, Sở Công Thương sẽ trả hồ sơ theo quy định. Chi tiết liên hệ: Phòng Quản lý công nghiệp, đ/c Vũ Việt Linh, ĐT 【…】./.
 
 
 ---

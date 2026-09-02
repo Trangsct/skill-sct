@@ -32,7 +32,7 @@ Dựa trên thực tiễn áp dụng (CV 656/SCT-CN ngày 06/02/2026 với CH 66
 
 ### Bước 1: Tiếp nhận hồ sơ đề nghị
 
-Chủ đầu tư nộp hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh hoặc trực tiếp tại Sở. Hồ sơ gồm:
+Chủ đầu tư nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất). Hồ sơ gồm:
 - Văn bản đề nghị kiểm tra nghiệm thu hoàn thành.
 - Báo cáo nghiệm thu của chủ đầu tư kèm các biên bản nghiệm thu.
 - Bản vẽ hoàn công.

@@ -55,7 +55,7 @@ GĐ9  BIẾN ĐỘNG      Đổi phạm vi/quy mô → xin ĐIỀU CHỈNH; hế
 6. (Nếu không có kho/phương tiện) văn bản thể hiện ý định giao kết hợp đồng thuê kho, phương tiện.
 7. QĐ bổ nhiệm chỉ huy nổ mìn + danh sách thợ mìn, người liên quan + bản sao chứng chỉ chuyên môn, GCN huấn luyện KTAT (+ GP lao động người nước ngoài nếu có).
 
-Nơi nộp: Trung tâm Phục vụ hành chính công tỉnh Lào Cai / Cổng DVC / bưu chính. Thời hạn: 05 ngày làm việc từ khi đủ hồ sơ hợp lệ. Kết quả: Giấy phép của Chủ tịch UBND tỉnh (GP-UBND).
+Nơi nộp: nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (duy nhất, đăng nhập VNeID). Thời hạn: 05 ngày làm việc từ khi đủ hồ sơ hợp lệ. Kết quả: Giấy phép của Giám đốc Sở Công Thương (/GP-SCT, từ 20/8/2026 theo QĐ 2867/QĐ-UBND).
 
 ## D. FAQ THƯỜNG GẶP
 

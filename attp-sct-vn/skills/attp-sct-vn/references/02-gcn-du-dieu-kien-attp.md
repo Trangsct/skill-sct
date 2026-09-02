@@ -18,7 +18,7 @@ Nguồn: bộ hồ sơ thực tế của Sở Công Thương Lào Cai (Bạn cun
 
 ## 2. Trình tự thực tế đã áp dụng (hồ sơ Siêu thị An Lạc)
 
-1. Doanh nghiệp nộp hồ sơ trên **Cổng Dịch vụ công Quốc gia** (hồ sơ mẫu mã H38.2-250811-0004) hoặc Cổng Dịch vụ công Bộ Công Thương `https://motcua-tthc.moit.gov.vn/vi/`.
+1. Doanh nghiệp nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất, đăng nhập VNeID; mã hồ sơ dạng H38.2-250811-0004).
 2. Phòng QLCN thẩm định thành phần hồ sơ.
 3. Giám đốc Sở ban hành **Quyết định thành lập Đoàn thẩm định** (hồ sơ mẫu: QĐ số 1142/QĐ-SCT ngày 28/8/2025) theo ủy quyền của UBND tỉnh.
 4. Đoàn thẩm định kiểm tra, đánh giá điều kiện bảo đảm ATTP **thực tế tại cơ sở**, lập **Biên bản thẩm định** theo **Mẫu số 03a** Phụ lục kèm NĐ 17/2020/NĐ-CP.

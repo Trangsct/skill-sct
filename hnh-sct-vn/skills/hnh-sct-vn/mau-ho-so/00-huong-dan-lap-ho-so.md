@@ -3,7 +3,7 @@
 Áp dụng cho hàng hóa nguy hiểm loại 1 (trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ), loại 2, 3, 4, 5, 8, 9. Căn cứ: Luật 36/2024/QH15 (Điều 51); Nghị định 161/2024/NĐ-CP; Nghị định 105/2025/NĐ-CP; Thông tư 38/2025/TT-BCT (Điều 8 sửa bởi Điều 25 Thông tư 26/2026/TT-BCT); Thông tư 37/2020/TT-BCT.
 
 ## Nơi nộp
-Trung tâm Phục vụ hành chính công tỉnh, hoặc Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh. Cơ quan giải quyết: Ủy ban nhân dân cấp tỉnh (tại Lào Cai: Sở Công Thương được ủy quyền). Số lượng: 01 bộ.
+Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất, đăng nhập VNeID). Cơ quan giải quyết: Ủy ban nhân dân cấp tỉnh (tại Lào Cai: Sở Công Thương được ủy quyền). Số lượng: 01 bộ.
 
 ## Thành phần hồ sơ cấp mới (Điều 15 Nghị định 161/2024)
 1. Giấy đề nghị cấp Giấy phép (Mẫu 1 - Phụ lục IV).

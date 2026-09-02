@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.24"
+    "version": "4.11.25"
   },
   "plugins": [
     {
       "name": "attp-sct-vn",
       "source": "./attp-sct-vn",
       "description": "An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP, tự công bố và đăng tải sản phẩm, hậu kiểm; thuốc lá, rượu, bia, nước giải khát, sữa, dầu thực vật, bánh kẹo; ranh giới 3 ngành. Ủy quyền QĐ 68/QĐ-UBND 09/01/2026; cắt giảm hồ sơ theo NQ 66.16/2026 từ 15/4/2026. Hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN. CẢNH BÁO: NĐ 46/2026 tạm ngưng theo NQ 15/2026, áp dụng NĐ 15/2018. Kèm văn bản gốc, biểu mẫu, ví dụ thực tế.",
-      "version": "1.5.0"
+      "version": "1.5.1"
     },
     {
       "name": "bpb-sct-vn",
@@ -36,19 +36,19 @@
       "name": "hc-sct-vn",
       "source": "./hc-sct-vn",
       "description": "Chuyên gia quản lý nhà nước về hóa chất của Sở Công Thương tỉnh Lào Cai theo khung pháp lý mới 2026 (Luật Hóa chất 69/2025, Nghị định 24/25/26/2026, Thông tư 01+02/2026): thẩm định cấp phép, thẩm định Kế hoạch phòng ngừa ứng phó sự cố hóa chất, hướng dẫn doanh nghiệp, kiểm tra chuyên ngành, báo cáo và soạn thảo văn bản hành chính.",
-      "version": "1.2.2"
+      "version": "1.2.3"
     },
     {
       "name": "hl-vlncn-sct-vn",
       "source": "./hl-vlncn-sct-vn",
       "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP.",
-      "version": "1.4.2"
+      "version": "1.4.3"
     },
     {
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
       "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND 14/8/2026 (ủy quyền bổ sung loại 5, 8 đến 31/12/2030). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit ăn mòn, ISO tank); chuyên sâu xuyên biên giới Việt - Trung.",
-      "version": "1.9.1"
+      "version": "1.9.2"
     },
     {
       "name": "kccn-sct-vn",
@@ -66,7 +66,7 @@
       "name": "pccc-sct-vn",
       "source": "./pccc-sct-vn",
       "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương tỉnh Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025, kiểm tra nghiệm thu, kiểm tra định kỳ Phụ lục II, phân loại Phụ lục I-II-III, phân ranh giới với Sở Xây dựng - Công an - BQL KKT - xã, lộ trình Điều 43 và giải pháp kỹ thuật công trình hiện hữu theo QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT, CV 7432/UBND-XD. Cập nhật 7/2026, 15 reference kèm văn bản gốc.",
-      "version": "1.1.4"
+      "version": "1.1.5"
     },
     {
       "name": "qlks-sct-vn",
@@ -84,13 +84,13 @@
       "name": "sct-laocai-org-vn",
       "source": "./sct-laocai-org-vn",
       "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Dùng để xác định PGĐ phụ trách lĩnh vực, trình ai, ai ký, ghi đúng dòng Lưu VT CN(tên), phòng chủ trì - phối hợp. Nguồn chuẩn duy nhất về nhân sự cho toàn hệ sinh thái plugin.",
-      "version": "2.1.0"
+      "version": "2.1.1"
     },
     {
       "name": "sd-vlncn-sct-vn",
       "source": "./sd-vlncn-sct-vn",
       "description": "Giay phep su dung VLNCN va Phuong an no min (PANM) - So Cong Thuong tinh Lao Cai: tham dinh cap/dieu chinh/cap lai/thu hoi GP su dung VLNCN (tu 20/8/2026 So cap theo uy quyen QD 2867/QD-UBND, ky hieu GP-SCT, PGD Hoang Van Thuan ky; truoc do GP-UBND), tham dinh PANM trinh Chu tich UBND tinh, ban do tham quyen UBND cap tinh va So Cong Thuong, huong dan doanh nghiep, kiem tra - xu phat theo ND 275/2026, bao cao. Cap nhat Luat 118/2025, TT 26/2026, VBHN 78/VBHN-VPQH.",
-      "version": "2026.9.2.2"
+      "version": "2026.9.2.3"
     },
     {
       "name": "tkm-sct-vn",
@@ -108,7 +108,7 @@
       "name": "vbhc-vn",
       "source": "./vbhc-vn",
       "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản cấp UBND tỉnh/VP do Sở dự thảo. 9 template trắng + 23 mẫu thật, Chế độ A (dựng từ template) / B (sửa file gốc), 10 nhóm anti-error A-J, QA một phát qa_all.py (--forbid/--require, audit keepNext), đọc metadata PDF công văn đến bằng extract_metadata.py. Dùng khi soạn/sửa/rà soát/chuyển thể VBHC hoặc sửa lỗi trình bày file Word.",
-      "version": "2.12.3"
+      "version": "2.12.4"
     },
     {
       "name": "xd-sct-vn",

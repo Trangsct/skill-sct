@@ -62,7 +62,7 @@ Dùng cho giải đáp thủ tục, điều kiện (kết hợp FAQ - reference 
 Kính gửi: (doanh nghiệp/HTX/hộ kinh doanh).
 - Tóm tắt nội dung hỏi.
 - Trả lời theo đúng quy định (viện dẫn điều khoản), ngôn ngữ rõ ràng, đủ bước thực hiện.
-- Nơi nộp hồ sơ: Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (kênh phụ: Trung tâm Phục vụ hành chính công tỉnh), thời hạn giải quyết.
+- Nơi nộp hồ sơ: Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (duy nhất, đăng nhập VNeID), thời hạn giải quyết.
 ```
 
 ## 8. Quyết định kiểm tra + Kế hoạch kiểm tra chuyên ngành

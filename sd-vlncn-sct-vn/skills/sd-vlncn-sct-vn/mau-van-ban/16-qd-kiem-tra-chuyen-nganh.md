@@ -1,6 +1,6 @@
 # Mẫu 16 — QUYẾT ĐỊNH kiểm tra chuyên ngành VLNCN (Giám đốc Sở ký)
 
-> Văn bản thật: `vi-du-thuc-te/QD-1050-kiem-tra-VLNCN-2026.pdf` (+ .txt toàn văn) — QĐ 1050/QĐ-SCT ngày 06/3/2026, GĐ Hoàng Chí Hiền ký. Số:      /QĐ-SCT; Lưu: VT, CN(M.Cường).
+> Văn bản thật: `vi-du-thuc-te/QD-1050-kiem-tra-VLNCN-2026.pdf` (+ .txt toàn văn) — QĐ 1050/QĐ-SCT ngày 06/3/2026, GĐ Hoàng Chí Hiền ký. Số:      /QĐ-SCT; Lưu: VT, CN(M.Cường) (lịch sử, trước 10/7/2026 — mẫu mới dùng CN(Khôi)).
 
 **QUYẾT ĐỊNH Kiểm tra việc chấp hành pháp luật trong sử dụng và bảo quản vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai năm 20…**
 
@@ -19,4 +19,4 @@ Căn cứ (theo bản thật): Luật số 42/2024/QH15; Luật số 15/2012/QH1
 **Điều 3. Nhiệm vụ, quyền hạn của Đoàn** (Điều 8 NĐ 217/2025): xây dựng Kế hoạch trình GĐ Sở phê duyệt; yêu cầu cung cấp hồ sơ, giải trình; kiểm tra hiện trường; lập biên bản kiểm tra; lập biên bản VPHC nếu phát hiện vi phạm; kiến nghị GĐ Sở biện pháp xử lý, vượt thẩm quyền thì dự thảo Tờ trình cấp có thẩm quyền; báo cáo kết quả sau khi kết thúc; **được sử dụng con dấu của Sở**; nhiệm vụ cụ thể do Trưởng đoàn phân công.
 
 **Điều 4.** Kinh phí theo quy định hiện hành. **Điều 5.** Đoàn tự giải thể sau khi hoàn thành nhiệm vụ; Chánh Văn phòng Sở, Trưởng phòng QLCN, các tổ chức, cá nhân liên quan và các ông/bà tại Điều 1 thi hành./.
-Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN(M.Cường). Ký: **GIÁM ĐỐC Hoàng Chí Hiền**.
+Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN(Khôi). Ký: **GIÁM ĐỐC Hoàng Chí Hiền**.

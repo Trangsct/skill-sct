@@ -5,10 +5,10 @@ Dùng khi giải đáp, hướng dẫn doanh nghiệp, hợp tác xã, hộ kinh
 ## Nhóm A - Thẩm quyền và đối tượng
 
 **Hỏi: Doanh nghiệp tôi vận chuyển oxy lỏng/xăng dầu thì xin Giấy phép ở đâu?**
-Trả lời: Oxy lỏng thuộc loại 2 (khí), xăng dầu thuộc loại 3 (chất lỏng dễ cháy). Cả hai thuộc nhóm loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 do UBND tỉnh thực hiện cấp phép. Tại Lào Cai, nhiệm vụ này được giao Sở Công Thương. Doanh nghiệp nộp hồ sơ tại Trung tâm Phục vụ Hành chính công tỉnh (trực tiếp, qua bưu chính, hoặc trực tuyến). Điều kiện: doanh nghiệp đặt trụ sở chính hoặc chi nhánh trên địa bàn tỉnh.
+Trả lời: Oxy lỏng thuộc loại 2 (khí), xăng dầu thuộc loại 3 (chất lỏng dễ cháy). Cả hai thuộc nhóm loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 do UBND tỉnh thực hiện cấp phép. Tại Lào Cai, nhiệm vụ này được giao Sở Công Thương. Doanh nghiệp nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID), qua bưu chính, hoặc trực tuyến). Điều kiện: doanh nghiệp đặt trụ sở chính hoặc chi nhánh trên địa bàn tỉnh.
 
 **Hỏi: Tôi vận chuyển hóa chất ăn mòn (loại 8)/chất oxi hóa (loại 5) thì sao?**
-Trả lời: Từ ngày 29/5/2026, loại 5 và loại 8 đã được chuyển về UBND cấp tỉnh cấp phép (theo khoản 1 Điều 8 Thông tư 38/2025/TT-BCT được sửa đổi bởi Điều 25 Thông tư 26/2026/TT-BCT). Tại Lào Cai, doanh nghiệp nộp hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh như đối với loại 1, 2, 3, 4, 9; Sở Công Thương tiếp nhận, thẩm định và cấp Giấy phép theo ủy quyền của UBND tỉnh. (Ghi chú nội bộ: từ 14/8/2026 Giám đốc Sở ký loại 5, 8 theo ủy quyền tại QĐ 2848/QĐ-UBND sửa đổi QĐ 1696; mã TTHC nhóm này là 1.013340/1.013350/1.013351. Hồ sơ tiếp nhận 29/5-13/8/2026: trình UBND tỉnh ký. Trước 29/5/2026 do Cục Hóa chất - Bộ Công Thương cấp; hồ sơ đã nộp Cục trước thời điểm này do Cục xử lý tiếp.)
+Trả lời: Từ ngày 29/5/2026, loại 5 và loại 8 đã được chuyển về UBND cấp tỉnh cấp phép (theo khoản 1 Điều 8 Thông tư 38/2025/TT-BCT được sửa đổi bởi Điều 25 Thông tư 26/2026/TT-BCT). Tại Lào Cai, doanh nghiệp nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID), 2, 3, 4, 9; Sở Công Thương tiếp nhận, thẩm định và cấp Giấy phép theo ủy quyền của UBND tỉnh. (Ghi chú nội bộ: từ 14/8/2026 Giám đốc Sở ký loại 5, 8 theo ủy quyền tại QĐ 2848/QĐ-UBND sửa đổi QĐ 1696; mã TTHC nhóm này là 1.013340/1.013350/1.013351. Hồ sơ tiếp nhận 29/5-13/8/2026: trình UBND tỉnh ký. Trước 29/5/2026 do Cục Hóa chất - Bộ Công Thương cấp; hồ sơ đã nộp Cục trước thời điểm này do Cục xử lý tiếp.)
 
 **Hỏi: Giấy phép có hiệu lực ở những tỉnh nào?**
 Trả lời: Giấy phép có hiệu lực trên toàn quốc, không giới hạn trong tỉnh Lào Cai.
@@ -22,7 +22,7 @@ Trả lời: 01 bộ gồm: (1) Giấy đề nghị cấp Giấy phép theo mẫ
 Trả lời: Cấp mới 05 ngày làm việc; cấp điều chỉnh 03 ngày làm việc; cấp lại (do mất, hỏng) 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Riêng cấp mới trên đường sắt là 03 ngày làm việc.
 
 **Hỏi: Hồ sơ nộp thế nào?**
-Trả lời: nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (kênh phụ: bưu chính hoặc Trung tâm Phục vụ hành chính công tỉnh).
+Trả lời: nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất; đăng nhập bằng VNeID).
 
 **Hỏi: Tôi chỉ thay đổi biển số xe/tuyến đường thì làm thủ tục gì?**
 Trả lời: Đây là cấp điều chỉnh thông tin trên Giấy phép. Hồ sơ gồm: Giấy đề nghị điều chỉnh theo mẫu Phụ lục IVa; hồ sơ chứng minh sự thay đổi; Giấy phép đã cấp cần điều chỉnh. Thời hạn 03 ngày làm việc.

@@ -1,5 +1,8 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## [2.1.1] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn
+- Nơi nộp hồ sơ TTHC: DUY NHẤT Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID) — Bạn chốt lại 02/9/2026. Bỏ mọi cách ghi "kênh phụ"/"hoặc qua" Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh" trong hướng dẫn DN; trích luật thì ghi rõ là trích luật.
+
 ## [2.1.0] - 02/9/2026 — tinh gọn SKILL.md (42,2k → 37k ký tự)
 - Chức năng, nhiệm vụ chi tiết 6 phòng theo QĐ 59/QĐ-SCT (nguyên văn) tách sang `references/01-chuc-nang-nhiem-vu-cac-phong-qd59.md` (kèm chế độ báo cáo nội bộ Phòng QLCN); SKILL.md giữ tóm tắt 1 dòng/phòng để định tuyến.
 - Giữ nguyên trong SKILL.md phần dùng hằng ngày: cơ cấu nội bộ Phòng QLCN, chuyên viên ↔ lĩnh vực, phân tầng duyệt, routing trình Lãnh đạo Sở, người soạn/người ký, bảng routing nhanh, quy tắc soạn văn bản phân công, sai lầm thường gặp.

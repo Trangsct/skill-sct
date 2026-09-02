@@ -1,5 +1,8 @@
 # CHANGELOG - attp-sct-vn
 
+## [1.5.1] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn
+- Nơi nộp hồ sơ TTHC: DUY NHẤT Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID) — Bạn chốt lại 02/9/2026. Bỏ mọi cách ghi "kênh phụ"/"hoặc qua" Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh" trong hướng dẫn DN; trích luật thì ghi rõ là trích luật.
+
 ## v1.5.0 - 30/8/2026
 Nạp 04 bộ hồ sơ thật của Sở; **GỠ GATE ỦY QUYỀN** và mở 02 tuyến nghiệp vụ mới.
 

@@ -106,60 +106,18 @@ Bố trí Phó Trưởng phòng theo biên chế: <10 biên chế → 1 PTP; 10-
 
 > Lưu ý: **xã Gia Phú** (nơi có KCN Phú Xuân và Phú Xuân 1) do **GĐ Hiền** theo dõi; **xã Xuân Hòa** do **PGĐ Thuân** theo dõi (Xuân Hòa là xã riêng, KHÔNG phải nơi đặt KCN Phú Xuân).
 
-## Phân công nhiệm vụ chi tiết (theo QĐ 59/QĐ-SCT)
+## Phân công nhiệm vụ chi tiết (theo QĐ 59/QĐ-SCT) — toàn văn: `references/01-chuc-nang-nhiem-vu-cac-phong-qd59.md`
 
-### 1. Văn phòng Sở (Điều 3 QĐ 59/QĐ-SCT)
+Tóm tắt để định tuyến (chi tiết từng gạch đầu dòng nhiệm vụ: mở ref 01):
 
-Tham mưu Giám đốc Sở về:
+- **1. Văn phòng Sở (Điều 3)** — tổ chức bộ máy - cán bộ; tài chính, tài sản cơ quan; pháp chế; CCHC, ISO, thường trực Một cửa; thi đua; hành chính - văn thư - con dấu - chữ ký số; CNTT; thường trực kiểm tra chuyên ngành, tiếp công dân, KNTC, PCTN; phòng thủ tỉnh.
+- **2. Phòng Kế hoạch - Tổng hợp (Điều 4)** — chiến lược, quy hoạch, kế hoạch ngành; tổng hợp - thống kê - báo cáo định kỳ; quản lý đầu tư (chủ trương đầu tư, GCN đầu tư ngành); tài chính ngành; CTMTQG; KHCN, ĐMST, chuyển đổi số ngành.
+- **3. Phòng Quản lý công nghiệp (Điều 5)** — phòng phạm vi rộng nhất: CN địa phương; cơ khí - luyện kim - điện tử; CN hỗ trợ; ATTP, CN tiêu dùng - thực phẩm - chế biến khác; khuyến công; **CCN (cơ quan đầu mối)**; TTCN; SX-TD bền vững; chất lượng SPHH; BVMT - CN môi trường; an toàn ngành (HHNH…); khai thác - chế biến khoáng sản; hóa chất, VLNCN, tiền chất; thẩm định CT công nghiệp; thường trực PCTT-TKCN, KHCN-ĐMST lĩnh vực CN, PCCC chuyên ngành. **Cơ cấu nội bộ, chuyên viên ↔ lĩnh vực, người soạn/người ký: mục ngay dưới.**
+- **4. Phòng Quản lý năng lượng (Điều 6)** — điện, năng lượng mới, NLTT, TKNL (quy hoạch điện lực, GP hoạt động điện lực, thẩm định CT năng lượng); an toàn đập, hồ chứa thủy điện; điện nông thôn.
+- **5. Phòng Quản lý thương mại (Điều 7)** — thị trường trong nước (chợ, TTTM, siêu thị; **rượu, thuốc lá, xăng dầu, khí** - GCN đủ điều kiện kinh doanh); XNK; thương mại biên giới; TMĐT; XTTM; cạnh tranh; bán hàng đa cấp; phòng vệ TM; logistics; bảo vệ NTD; hội nhập KTQT; phối hợp Chi cục QLTT.
+- **6. Chi cục Quản lý thị trường** — tổ chức hành chính trực thuộc Sở (không phải phòng chuyên môn); CNNV do UBND tỉnh quyết định riêng.
 
-- **Tổ chức bộ máy, cán bộ**: xây dựng đề án tổ chức, vị trí việc làm, quy hoạch - đào tạo - bổ nhiệm - kỷ luật công chức, quản lý hồ sơ.
-- **Tài chính, tài sản cơ quan**: lập dự toán ngân sách SCT, mua sắm - quản lý tài sản, thanh quyết toán.
-- **Pháp chế**: xây dựng VBQPPL, tuyên truyền PBPL, bồi thường nhà nước, hỗ trợ pháp lý.
-- **CCHC, kiểm soát TTHC**: kế hoạch CCHC, ISO, thường trực Một cửa tại TT PVHCC (cơ sở 1 và 2).
-- **Thi đua, khen thưởng**.
-- **Bảo vệ chính trị nội bộ, bảo vệ bí mật nhà nước**.
-- **Dân vận, dân chủ, cơ quan văn hóa**.
-- **Hành chính, quản trị**: văn thư-lưu trữ, con dấu - chữ ký số, phục vụ Lãnh đạo, xe ôtô, lễ tân, bếp ăn, PCCC nội bộ, ANTT cơ quan.
-- **CNTT và quản trị mạng**: hệ điều hành Sở, chính quyền điện tử/số, Trang thông tin điện tử Sở.
-- **Kiểm tra chuyên ngành, tiếp công dân, KNTC, PCTN**: thường trực; kê khai tài sản thu nhập.
-- **Theo dõi, đôn đốc tiến độ công việc** của Sở.
-- **Kế hoạch Công Thương trong các trạng thái QP của khu vực phòng thủ tỉnh**.
-
-### 2. Phòng Kế hoạch - Tổng hợp (Điều 4 QĐ 59/QĐ-SCT)
-
-Tham mưu Giám đốc Sở về:
-
-- **Chiến lược, quy hoạch, kế hoạch phát triển ngành**: xây dựng - rà soát - tổ chức thực hiện.
-- **Tổng hợp, thống kê**: theo dõi chỉ tiêu ngành, báo cáo tuần/tháng/quý/năm, dự thảo QĐ-CT cá biệt của UBND tỉnh về lĩnh vực Công Thương.
-- **Tổng hợp tiến độ công việc** (phối hợp Văn phòng).
-- **Quản lý đầu tư**: dự án SCT làm chủ đầu tư, cho ý kiến chủ trương đầu tư, giấy chứng nhận đầu tư các dự án ngành Công Thương, kêu gọi đầu tư.
-- **Quản lý tài chính ngành** (khác tài chính cơ quan của Văn phòng): hướng dẫn các đơn vị trực thuộc, kiểm soát báo cáo tài chính tổng hợp, phối hợp quản lý vốn khuyến công và XTTM, dịch vụ sự nghiệp công.
-- **Chương trình mục tiêu quốc gia** lĩnh vực Công Thương.
-- **KHCN, ĐMST, chuyển đổi số** của ngành Công Thương.
-
-### 3. Phòng Quản lý công nghiệp (Điều 5 QĐ 59/QĐ-SCT)
-
-**Đây là phòng có phạm vi rộng nhất.** Tham mưu Giám đốc Sở về:
-
-- **Công nghiệp địa phương**: cơ chế chính sách, quản lý hiệp hội, đơn vị sự nghiệp lĩnh vực CN, DN công nghiệp, làng nghề, HTX công nghiệp; thống kê sản lượng - giá trị - chỉ số sản xuất CN.
-- **Cơ khí, luyện kim, điện tử**.
-- **Công nghiệp hỗ trợ**.
-- **An toàn thực phẩm, CN tiêu dùng, CN thực phẩm, CN chế biến khác**:
-  - CN tiêu dùng: dệt-may, da-giầy, giấy, sành sứ, thủy tinh, nhựa.
-  - CN thực phẩm: rượu, bia, NGK, sữa chế biến, dầu thực vật, sản phẩm chế biến bột/tinh bột, bánh-mứt-kẹo, bao bì thực phẩm.
-  - ATTP đối với chợ, siêu thị, TTTM, hệ thống dự trữ - phân phối thực phẩm thuộc ngành Công Thương.
-- **Khuyến công**: chủ trì tham mưu, chính sách, chương trình KC địa phương, hướng dẫn Trung tâm XT đầu tư, thương mại và hỗ trợ DN (thuộc Sở Tài chính) về chuyên môn KC.
-- **Cụm công nghiệp**: **cơ quan đầu mối quản lý nhà nước về CCN trên địa bàn tỉnh**, thẩm định trình UBND tỉnh thành lập/mở rộng/điều chỉnh/bãi bỏ CCN, Quy chế quản lý CCN, một cửa-một cửa liên thông, kiểm tra-thanh tra CCN, CSDL CCN.
-- **Tiểu thủ công nghiệp** (DNNVV, HTX ngành Công Thương, làng nghề TTCN).
-- **Sản xuất và tiêu dùng bền vững**.
-- **Quản lý chất lượng sản phẩm hàng hóa** ngành Công Thương: chỉ định tổ chức ĐGSPH, đăng ký hoạt động chứng nhận-thử nghiệm-giám định-kiểm định, tiếp nhận công bố hợp quy.
-- **Bảo vệ môi trường, công nghiệp môi trường**: BVMT ngành Công Thương, Đề án phát triển CN môi trường, kinh tế tuần hoàn, ứng phó BĐKH ngành Công Thương.
-- **An toàn ngành, lĩnh vực thuộc phạm vi quản lý**: hàng hóa nguy hiểm, xăng dầu (an toàn), khí, máy-thiết bị yêu cầu nghiêm ngặt KT an toàn, huấn luyện ATHC, KĐKT an toàn lao động, GCN trạm nạp khí, chứng chỉ kiểm định viên, PCTT-CHCN ngành CT.
-- **CN khai thác mỏ, chế biến khoáng sản** (trừ VLXD thông thường và xi măng): thẩm định BCNCTKT, BCNCKT, BCKTKT, các bước thiết kế xây dựng triển khai sau thiết kế cơ sở các dự án khai thác - chế biến khoáng sản; tuyên truyền PBPL, kiểm tra ATKT, đề xuất xử phạt VPHC, xử lý SX-KD khoáng sản trái phép.
-- **Hóa chất, vật liệu nổ công nghiệp**: chiến lược, kế hoạch, chính sách; tuyên truyền - kiểm tra - đề xuất xử lý vi phạm; thẩm định cấp/cấp lại/cấp điều chỉnh/thu hồi GCN đủ điều kiện SX-KD hóa chất, Giấy phép SX/XNK hóa chất Bảng 1-2-3, GP kinh doanh hóa chất Bảng 2-3, GP sử dụng VLNCN, GCN huấn luyện KT an toàn VLNCN.
-- **Thẩm định CT công nghiệp**: BCNCKT, BCKTKT, thiết kế xây dựng sau TK cơ sở các dự án ĐTXD CTCN; QLNN và kiểm tra nghiệm thu CT chuyên ngành CN.
-- **Tiền chất ma túy lĩnh vực Công Thương, tiền chất thuốc nổ**.
-- **Thường trực PCTT-TKCN, KHCN-ĐMST lĩnh vực CN, an toàn PCCC** (PCCC chuyên ngành ngành Công Thương; PCCC nội bộ cơ quan giao Văn phòng).
+### 3. Phòng Quản lý công nghiệp — cơ cấu nội bộ, người soạn, người ký (dùng hằng ngày)
 
 #### Cơ cấu nội bộ Phòng QLCN (phân công đến từng công chức)
 
@@ -241,12 +199,6 @@ Tham mưu Giám đốc Sở về:
 
 > ⚠️ **Quy tắc trình GĐ:** mọi **Tờ trình, kế hoạch, quy hoạch, chủ trương đầu tư** (kể cả về KCN/CCN) trình **trực tiếp Giám đốc Hoàng Chí Hiền** — kể cả khi nội dung thuộc lĩnh vực thường lệ của PGĐ Chiến/Thuân. Việc thường lệ (cấp phép, thẩm định hồ sơ, công văn tham gia ý kiến, báo cáo chuyên đề) mới trình PGĐ phụ trách.
 > Khi **Thuân vắng** → việc nhóm Thuân trình **PGĐ Giang**; khi **Chiến vắng** → việc nhóm Chiến trình **trực tiếp GĐ Hiền**.
-
-**Chế độ báo cáo nội bộ phòng (Phần C Thông báo — dùng khi soạn lịch/kế hoạch/nhắc việc):**
-- **Trước 10h thứ Sáu hằng tuần**: mỗi CBCC kiểm điểm nhiệm vụ trong tuần + kế hoạch tuần tiếp theo → gửi Lãnh đạo phòng.
-- **Trước ngày 25 hằng tháng**: kiểm điểm tháng + kế hoạch tháng tiếp theo + **tự phân xếp loại** → gửi Lãnh đạo phòng.
-- **Trước 15/01 hằng năm**: kế hoạch hoạt động năm + phân kỳ thực hiện.
-- **Đoàn kiểm tra công tác**: báo cáo **trực tiếp Trưởng phòng chậm nhất 01 ngày làm việc** sau khi có kết quả; **báo cáo bằng văn bản chậm nhất 03 ngày** sau khi kết thúc đoàn.
 
 #### Ghi chính xác NGƯỜI SOẠN THẢO (dòng Lưu) và NGƯỜI KÝ (khối chữ ký)
 
@@ -430,9 +382,3 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 | **vbhc-vn** | Soạn/render .docx | — lấy routing + dòng Lưu từ skill này | — | — |
 | **bpb-sct-vn** | Bài phát biểu GĐ Sở | — dùng danh sách lãnh đạo + số liệu từ skill này | — | GĐ |
 | **vbhc-pdf-reader-vn** | Đọc metadata PDF đến | — chạy trước khi trích dẫn văn bản đến | — | — |
-
-## CHANGELOG
-
-- **v2.0.1 (15/7/2026)**: chốt 2 điểm mở theo xác nhận của Bạn — **KCN → CN(Trung)**; **HHNH toàn bộ (cấp GP vận chuyển + an toàn/tập huấn) → CN(Linh)** từ 15/7/2026; giai đoạn 6/7–14/7/2026 hồ sơ HHNH giữ CN(Khôi) đúng lịch sử; đồng bộ bảng routing, dòng Lưu, liên kết hnh-sct-vn, mục sai lầm.
-- **v2.0 (14/7/2026)**: viết lại toàn bộ mục "Cơ cấu nội bộ Phòng QLCN" theo **Thông báo phân công ngày 10/7/2026** (TP Nguyễn Hữu Long ký, không số, hiệu lực 10/7/2026): 1 TP + **3 PTP** (Nguyễn Hồng Vân, Trần Trọng Trang, Đỗ Mạnh Cường) + 10 chuyên viên; VLNCN + CCN + KHCN-ĐMST CN → TP trực tiếp chỉ đạo; VLNCN chuyển CN(Linh) → **CN(Khôi)**; ATTP chuyển CN(Dương) → **CN(Nam)** (chuyên viên mới Lã Doãn Nam); Dương → chất lượng SPHH + SXTD bền vững; Linh → an toàn ngành/HHNH (an toàn)/kiểm định/PCCC/thăm dò - đóng cửa mỏ; thêm phân tầng duyệt theo PTP, chế độ báo cáo nội bộ (10h thứ Sáu/ngày 25/15-01/đoàn kiểm tra 01-03 ngày), 2 điểm mở (KCN, thụ lý cấp GP HHNH) phải hỏi Bạn; quy ước CN(V.Cường)/CN(M.Cường) tránh trùng tên; bảng liên kết hệ sinh thái plugin kèm nguyên tắc single source of truth; 4 mục sai lầm mới.
-- **v1.x (đến 02/2026)**: bản theo phân công nội bộ cũ (1 PTP Trần Trọng Trang) + Dự thảo Lần 4 phân công BGĐ.

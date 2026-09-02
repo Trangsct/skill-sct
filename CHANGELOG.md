@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — sct-laocai-org-vn v2.1.0: tinh gọn SKILL.md 42k → 37k, CNNV các phòng → references/01
+
+Chức năng nhiệm vụ 6 phòng theo QĐ 59 tách nguyên văn; SKILL.md giữ tóm tắt và toàn bộ phần dùng hằng ngày (chuyên viên, người ký, routing).
+
 ## 02/9/2026 — hnh-sct-vn v1.9.0: tinh gọn SKILL.md 44k → 24k, khung pháp lý → ref 18, nguyên tắc bất biến → ref 19
 
 Tách nguyên văn, SKILL.md giữ danh mục/mục lục + lệnh bắt buộc đọc ref 19. Kiểm 0 dòng mất.

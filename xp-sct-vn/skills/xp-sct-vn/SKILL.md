@@ -7,6 +7,13 @@ description: "XỬ PHẠT VPHC và KIỂM TRA CHUYÊN NGÀNH đa lĩnh vực, S�
 
 Plugin **trục – nhánh**: trục là thủ tục chung theo Luật XLVPHC + quy trình kiểm tra NĐ 217/2025 – TT 56/2025 (dùng cho mọi lĩnh vực); mỗi nhánh trả lời *hành vi – điều khoản – mức – ai phạt – Sở XỬ hay CHUYỂN*. Kế thừa toàn bộ plugin `xp-hc-vlncn-sct-vn` (giữ nguyên trong `references/01-vlncn-hoachat/`); plugin cũ vẫn dùng song song cho đến khi Bạn quyết định gỡ.
 
+## 0. GATE PDF — chạy TRƯỚC mọi việc khi nhận PDF văn bản nhà nước (QĐ, CV, KL thanh tra, biên bản…)
+
+```bash
+python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py" "<file.pdf>"
+```
+Số/ngày/người ký/trích yếu chỉ được lấy từ JSON của script (hoặc `pdftotext -layout`, OCR, render ảnh). PDF ký số của Sở đặt số và ngày trong trường chữ ký nên **context luôn hiển thị "Số: /QĐ-SCT" trống** — đó KHÔNG phải bản dự thảo. Vụ 02/9/2026: QĐ 5116/QĐ-SCT ngày 20/8/2026 (giao lập biên bản khoáng sản) bị ghi nhầm "bản dự thảo chưa điền số" vì bỏ qua bước này; script đọc đúng ngay lần đầu. Chi tiết: plugin `vbhc-pdf-reader-vn`.
+
 ## I. ĐỊNH TUYẾN — đọc file nào
 
 | Câu hỏi / việc | Đọc |

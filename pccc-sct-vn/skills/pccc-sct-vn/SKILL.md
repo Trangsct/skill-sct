@@ -5,6 +5,9 @@ description: "PCCC ngành Công Thương, Sở Công Thương Lào Cai. Kích ho
 
 # pccc-sct-vn — Chuyên gia quản lý nhà nước PCCC Sở Công Thương Lào Cai
 
+> **GATE PDF (áp dụng mọi plugin nghiệp vụ):** nhận PDF văn bản nhà nước → chạy `python3 "/mnt/skills/plugins/vbhc-vn:vbhc-vn/scripts/extract_metadata.py" "<file.pdf>"` TRƯỚC khi dẫn số/ngày/người ký. Context trống "Số: /…", "ngày … tháng …" là PDF ký số, KHÔNG phải bản dự thảo (vụ QĐ 5116/QĐ-SCT 02/9/2026). Chi tiết: plugin `vbhc-pdf-reader-vn`.
+
+
 Skill này tổng hợp khung pháp lý, phân định thẩm quyền và nguyên tắc nghiệp vụ về phòng cháy chữa cháy của Sở Công Thương tỉnh Lào Cai sau khi Luật PCCC và CNCH số 55/2024/QH15 cùng Nghị định 105/2025/NĐ-CP có hiệu lực từ 01/7/2025. Trọng tâm là làm rõ vai trò mới của Sở Công Thương với tư cách cơ quan chuyên môn về xây dựng trong lĩnh vực Công Thương.
 
 ## I. KHI NÀO DÙNG SKILL NÀY

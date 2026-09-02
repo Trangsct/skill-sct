@@ -1,5 +1,8 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## [1.1.2] - 02/9/2026 — thêm GATE PDF đầu SKILL.md
+- Plugin chưa có cổng đọc PDF văn bản đến bằng extract_metadata.py; bổ sung 1 đoạn ngay dưới tiêu đề (bài học vụ QĐ 5116/QĐ-SCT).
+
 ## v1.1.0 — 26/7/2026: reference 09 — vốn đầu tư công cấp điện nông thôn 2026-2030
 
 Bổ sung `references/09-von-dtc-cap-dien-2026-2030.md` từ **Quyết định số 2390/QĐ-UBND ngày 09/7/2026** của UBND tỉnh Lào Cai về kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 nguồn vốn ngân sách địa phương (Chủ tịch Nguyễn Tuấn Anh ký; căn cứ NQ 25/NQ-HĐND ngày 29/6/2026; Tờ trình 536/TTr-STC ngày 19/6/2026).

@@ -20,3 +20,6 @@ Mọi mẫu bám **thể thức đã ban hành** của Sở (bộ Khí công ngh
 
 ## Thứ tự dùng trong một cuộc kiểm tra
 01 → 02 → 03 → 04 → 05 (+ phụ lục) → [06 → 07 hoặc 10] → 08 → [09] → 12 (nếu theo KLTT). 11 dùng khi trùng thanh tra/cần dừng.
+
+## Mẫu 13 — QĐ giao nhiệm vụ lập biên bản VPHC theo lĩnh vực (bổ sung 02/9/2026)
+Khuôn từ QĐ 5116/QĐ-SCT ngày 20/8/2026 (khoáng sản). Dùng cho môi trường (Đ45–46 NĐ 45/2022) và xăng dầu – khí khi cần; mỗi lĩnh vực một quyết định; căn cứ NĐ 68/2025, 190/2025 phải điền đúng ngày sau khi có bản gốc. File: `13-QD-giao-nhiem-vu-lap-bien-ban-VPHC.md`.

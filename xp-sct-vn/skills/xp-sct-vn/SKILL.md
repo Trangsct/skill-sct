@@ -27,10 +27,11 @@ Số/ngày/người ký/trích yếu chỉ được lấy từ JSON của script
 | Kho VLNCN, thiết kế kho: đứng trước tồn tại X → điểm-khoản-điều nào, bẫy tố tụng | `references/05-kho-vlncn-thiet-ke-hanh-vi.md` |
 | Khoáng sản, môi trường: nhận diện – chuyển hồ sơ; cách viết công văn chuyển; tiền lệ KL 45, KL 48 | `references/06-khoang-san-moi-truong-chuyen-ho-so.md` |
 | ATTP, ATVSLĐ, điện lực, xăng dầu – LPG, thương mại/QLTT | `references/07-attp-atvsld-dien-xangdau.md` |
-| **Đối chiếu bản gốc 8 nhánh** (điện lực, xăng dầu – khí, thương mại, khoáng sản, môi trường, đất đai, xây dựng, đầu tư): thời hiệu, mức, hành vi, ai lập biên bản, ai phạt; bảng "Sở lập BB được không / xử được không" | `references/09-doi-chieu-ban-goc-cac-nhanh.md` |
+| **Đối chiếu bản gốc 8 nhánh** (điện lực, xăng dầu – khí, thương mại, khoáng sản, môi trường, đất đai, xây dựng, đầu tư): thời hiệu, mức, hành vi, ai lập biên bản, ai phạt; bảng "Sở lập BB được không / xử được không"; mục K: 2 điểm Bạn chốt (GĐ Sở 80% trần; lập BB khoáng sản theo QĐ 5116) | `references/09-doi-chieu-ban-goc-cac-nhanh.md` |
+| **Luật 88/2025 và NĐ 118/2021 — số điều, khoản nguyên văn** (thời hiệu Đ6, trần Đ24, chức danh Đ37a/53/54, không lập BB Đ56, lập BB Đ58 + Đ12 NĐ 118, định giá Đ60, chuyển tội phạm Đ62, gửi QĐ Đ70 = 03 ngày làm việc, cưỡng chế Đ87, tạm giữ Đ125; 72 biểu mẫu MQĐ/MBB) | `references/10-luat-88-2025-nd-118-doi-chieu-nguyen-van.md` |
 | **Ai phạt đến bao nhiêu** theo chức danh (NĐ 189/2025 + 311/2026 bản gốc): xã 50%, GĐ sở 80%, QLTT 30/50%; Điều 21 chuyển tiếp; Trưởng đoàn kiểm tra của Sở không có thẩm quyền | `references/08-tham-quyen-chuc-danh-nd189-nd311.md` |
 | Tra nhanh 18 lĩnh vực → nghị định → thời hiệu → ai phạt → XỬ/CHUYỂN; việc còn nợ | `references/90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md` |
-| Soạn văn bản: QĐ kiểm tra, KH, TB, BB công bố, BB kiểm tra, BB VPHC, QĐ-XPHC, BC kết quả, CV chuyển hồ sơ, TTr UBND tỉnh, QĐ tạm dừng/đình chỉ, BC thực hiện KLTT | `mau-van-ban/00-README-quy-uoc.md` → mẫu 01–12 |
+| Soạn văn bản: QĐ kiểm tra, KH, TB, BB công bố, BB kiểm tra, BB VPHC, QĐ-XPHC, BC kết quả, CV chuyển hồ sơ, TTr UBND tỉnh, QĐ tạm dừng/đình chỉ, BC thực hiện KLTT, **QĐ giao nhiệm vụ lập biên bản VPHC theo lĩnh vực (khuôn QĐ 5116)** | `mau-van-ban/00-README-quy-uoc.md` → mẫu 01–13 |
 | Khung kiểm tra theo lĩnh vực (nội dung – căn cứ – hành vi – XỬ/CHUYỂN) | `checklists/00-README.md` → 01–08 |
 | Bản gốc nghị định, thông tư | `van-ban-goc/INDEX.md` |
 | Hồ sơ mẫu thật | `vi-du-thuc-te/` (Khí công nghiệp — đã ký; HCM Tây Bắc — sau KL 48; KL 45 Viglacera) |
@@ -92,8 +93,8 @@ xp-sct-vn/skills/xp-sct-vn/
 │   ├── 01-vlncn-hoachat/ (01–07 kế thừa xp-hc-vlncn-sct-vn v1.6.0; 07 = quy trình kiểm tra dùng chung)
 │   ├── 02-hhnh-van-chuyen.md · 03-ccn-dau-tu-xay-dung-dat-dai.md · 04-pccc-nganh-cong-thuong.md
 │   ├── 05-kho-vlncn-thiet-ke-hanh-vi.md · 06-khoang-san-moi-truong-chuyen-ho-so.md
-│   ├── 07-attp-atvsld-dien-xangdau.md · 08-tham-quyen-chuc-danh-nd189-nd311.md · 09-doi-chieu-ban-goc-cac-nhanh.md · 90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md
-├── mau-van-ban/ 00-README + 01–12
+│   ├── 07-attp-atvsld-dien-xangdau.md · 08-tham-quyen-chuc-danh-nd189-nd311.md · 09-doi-chieu-ban-goc-cac-nhanh.md · 10-luat-88-2025-nd-118-doi-chieu-nguyen-van.md · 90-ma-tran-linh-vuc-nghi-dinh-tham-quyen.md
+├── mau-van-ban/ 00-README + 01–13 (13 = QĐ giao nhiệm vụ lập BB VPHC theo lĩnh vực)
 ├── checklists/ 00-README + 01–08
 ├── vi-du-thuc-te/ (Khí công nghiệp mẫu thật 7 file; HCM Tây Bắc 10 file; KL 45 Viglacera; KH PGĐ duyệt)
 └── van-ban-goc/ (NĐ 275/2026, NĐ 282/2025, TT 56/2025, VBHN 78/2026; chung/ 189+311; pccc/ 106; giao-thong/ 168; lao-dong/ 283; attp/ 115+124; dien-luc/ 133; xang-dau-khi/ 99; thuong-mai/ 98+24; khoang-san/ 36+04/2022; chung/ +17/2022; moi-truong/ 45; dat-dai/ 123+281; xay-dung/ 16; dau-tu/ 122+288 + INDEX)

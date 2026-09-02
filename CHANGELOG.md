@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — xp-sct-vn v1.3.1: chốt chuyển đổi chức danh Chánh TT Sở → GĐ Sở (80% trần, k2 Đ6 + k2 Đ21 NĐ 189) và tư cách lập biên bản khoáng sản theo QĐ 5116/QĐ-SCT 20/8/2026
+
+Hai điểm treo từ v1.2.0 đã được Bạn chốt; ghi tại references/09 mục K; bản gốc QĐ 5116 lưu van-ban-goc/khoang-san/.
+
 ## 02/9/2026 — xp-sct-vn v1.3.0: hợp nhất NĐ 04/2022 (NĐ 36) và NĐ 17/2022 (NĐ 98, 99) — hết "bản gốc chưa hợp nhất"
 
 Đối chiếu nguyên văn: NĐ 99 k2 Đ62 nêu đích danh Chánh TT Sở CT 50/100 tr, k7 Đ63 thanh tra CT xử mọi hành vi; NĐ 36 Đ65 thêm Đ48, Đ5b thời hiệu 02 năm, Đ38 k3 mở rộng (vượt 10% chiều cao tầng/góc dốc, đổ thải sai vị trí); NĐ 98 Đ80/82/87 viết lại. Bản gốc lưu `van-ban-goc/khoang-san/` và `van-ban-goc/chung/`. Khép lại việc dở của phiên 01/9.

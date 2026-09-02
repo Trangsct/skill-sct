@@ -10,6 +10,6 @@
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.
 - **TUYỆT ĐỐI KHÔNG sửa tay `.claude-plugin/marketplace.json`.** Chỉ sửa `plugin.json` của plugin, rồi chạy `python3 scripts/sync_marketplace.py --bump` để script tự đồng bộ description/version và **nâng `metadata.version`**. Lý do: script chỉ nâng `metadata.version` khi phát hiện lệch giữa hai file; nếu sửa tay marketplace.json cùng lúc thì không còn lệch, script bỏ qua, `metadata.version` đứng yên và **claude.ai không nhận ra catalog đã đổi** nên người dùng vẫn thấy bản cũ. Lỗi này đã xảy ra ngày 30/8/2026 (attp v1.4.0 và v1.5.0), phải nâng bù 2 bậc.
-- Trước khi push: chạy `python3 scripts/sync_marketplace.py --check` và `python3 scripts/check_descriptions.py`, cả hai phải trả về ok.
+- Trước khi push: chạy `python3 scripts/sync_marketplace.py --check` và `python3 scripts/check_descriptions.py`, cả hai phải trả về ok; và `find . -name __pycache__ -not -path "./.git/*"` phải rỗng (CI validate-plugins.yml báo đỏ nếu còn — vụ 02/9/2026 sau khi chạy thử qa_all.py).
 - Văn bản pháp luật mới đưa vào plugin: lưu bản gốc vào thư mục `van-ban-goc/` tương ứng và cập nhật reference mục lục; tuyệt đối không bịa số/ngày văn bản.
 - **Đọc PDF ký số** (số/ngày điền qua trường ký số): lớp text hiển thị số/ngày rời rạc - phải render trang thành ảnh để đọc chính xác, không kết luận "để trống" chỉ từ text layer.

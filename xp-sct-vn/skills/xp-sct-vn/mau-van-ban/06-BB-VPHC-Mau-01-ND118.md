@@ -4,7 +4,7 @@ Quy tắc: `references/00` mục E; thể thức: `01-vlncn-hoachat/07` mục K.
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                               Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                               Độc lập – Tự do – Hạnh phúc
 Số: 01.{{VIẾT TẮT DN}}/BB-VPHC                                Mẫu biên bản số 01
 
                         BIÊN BẢN VI PHẠM HÀNH CHÍNH

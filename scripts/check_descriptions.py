@@ -86,5 +86,16 @@ def main():
     return 0
 
 
+def _run_check_facts() -> int:
+    """CI (validate-plugins.yml) chỉ gọi check_descriptions.py; token PAT không có quyền sửa
+    workflow nên check_facts.py được gọi từ đây để vẫn chặn dữ kiện lỗi thời trên CI."""
+    import subprocess
+    here = pathlib.Path(__file__).resolve().parent
+    print("\n=== scripts/check_facts.py (dữ kiện lỗi thời / quy ước cũ) ===")
+    return subprocess.run([sys.executable, str(here / "check_facts.py")]).returncode
+
+
 if __name__ == "__main__":
-    sys.exit(main())
+    rc = main()
+    rc_facts = _run_check_facts()
+    sys.exit(rc or rc_facts)

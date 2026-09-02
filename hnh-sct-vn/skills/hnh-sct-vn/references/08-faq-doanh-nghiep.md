@@ -22,7 +22,7 @@ Trả lời: 01 bộ gồm: (1) Giấy đề nghị cấp Giấy phép theo mẫ
 Trả lời: Cấp mới 05 ngày làm việc; cấp điều chỉnh 03 ngày làm việc; cấp lại (do mất, hỏng) 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Riêng cấp mới trên đường sắt là 03 ngày làm việc.
 
 **Hỏi: Hồ sơ nộp thế nào?**
-Trả lời: Nộp trực tiếp, qua dịch vụ bưu chính, hoặc trực tuyến qua Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh. Đầu mối tiếp nhận: Trung tâm Phục vụ Hành chính công tỉnh.
+Trả lời: nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (kênh phụ: bưu chính hoặc Trung tâm Phục vụ hành chính công tỉnh).
 
 **Hỏi: Tôi chỉ thay đổi biển số xe/tuyến đường thì làm thủ tục gì?**
 Trả lời: Đây là cấp điều chỉnh thông tin trên Giấy phép. Hồ sơ gồm: Giấy đề nghị điều chỉnh theo mẫu Phụ lục IVa; hồ sơ chứng minh sự thay đổi; Giấy phép đã cấp cần điều chỉnh. Thời hạn 03 ngày làm việc.

@@ -1,5 +1,8 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.4.2] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do script quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## [1.4.1] - 02/9/2026 — rà soát tổng thể
 - Mẫu 12: số GP sử dụng VLNCN ghi `…/GP-SCT` (từ 20/8/2026; GP cũ `…/GP-UBND`).
 - Mẫu 01: dòng Lưu mặc định CN(Khôi) từ 10/7/2026 thay ghi chú CN(M.Cường) cũ.

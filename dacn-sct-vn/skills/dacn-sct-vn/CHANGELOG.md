@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.3.2] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do script quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## v1.3.0 — 2026-07-27 (nạp mốc số liệu KTXH 6 tháng đầu năm 2026 của Thống kê tỉnh)
 
 **Nguồn:** Báo cáo số **615/BC-TKT ngày 30/6/2026** của Thống kê tỉnh Lào Cai (Cục Thống kê) — Tình hình kinh tế - xã hội tháng 6 và quý II năm 2026 (67 trang). Số/ngày đối chiếu bản scan có dấu trên vOffice (số đến 13116, ban hành 30/6/2026); file .docx bản soạn thảo để trống ô số và ngày.

@@ -100,7 +100,7 @@ B4  Công bố QĐ + kiểm tra tại đơn vị 23-27/3/2026 (~02 ngày/đơn v
     nếu phát hiện vi phạm → lập biên bản VPHC ngay
 B5  BC 1883/ĐKT-SCT ngày 08/4/2026 (Trưởng đoàn ký, gửi GĐ Sở; Lưu VT, ĐKT, CN(Linh))
     — kết quả chi tiết từng đơn vị [mẫu 18]
-B6  TB 1894/TB-SCT ngày 09/4/2026 (KT.GĐ - PGĐ ký, gửi các DN; Lưu VT, CN(M.Cường))
+B6  TB 1894/TB-SCT ngày 09/4/2026 (KT.GĐ - PGĐ ký, gửi các DN; Lưu VT, CN(M.Cường) (lịch sử, trước 10/7/2026))
     — thông báo kết quả sau kiểm tra + yêu cầu thực hiện [mẫu 19]
 ```
 

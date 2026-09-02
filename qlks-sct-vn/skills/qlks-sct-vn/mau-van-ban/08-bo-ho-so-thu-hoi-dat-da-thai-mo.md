@@ -16,7 +16,7 @@ Do **doanh nghiệp khai thác** lập. SCT dùng để hướng dẫn doanh ngh
 
 ```
 [TÊN DOANH NGHIỆP]              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-    Số: .../ĐK-...                    Độc lập - Tự do - Hạnh phúc
+    Số: .../ĐK-...                    Độc lập – Tự do – Hạnh phúc
                                    Lào Cai, ngày ... tháng ... năm ...
 
                   BẢN ĐĂNG KÝ THU HỒI KHOÁNG SẢN

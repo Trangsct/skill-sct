@@ -1,5 +1,8 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.12.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## [2.12.2] - 02/9/2026 — quy tắc bất biến 19 bổ sung vụ QĐ 5116/QĐ-SCT
 - Context trống số/ngày = PDF ký số, cấm kết luận "bản dự thảo" khi chưa chạy extract_metadata.py; áp dụng cả khi chỉ lưu bản gốc vào plugin khác.
 

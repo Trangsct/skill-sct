@@ -1,5 +1,8 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.2.2] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## [2026.9.2.1] - 02/9/2026 — tinh gọn SKILL.md (46,3k → 27,7k ký tự)
 - Mục VI (26 anti-error, 21k ký tự) tách NGUYÊN VĂN sang `references/11-anti-error.md`; SKILL.md giữ mục lục 26 dòng + lệnh BẮT BUỘC đọc ref 11 trước khi thẩm định/soạn. Đã kiểm: 0 dòng mất.
 - Sửa lỗi đánh số trùng: hai mục "22" và hai mục "23" → 22-A/22-B, 23-A/23-B (viện dẫn "anti-error 22" về khuôn Phiếu trình + GP-SCT = 22-B; đã sửa 3 chỗ viện dẫn trong SKILL.md).

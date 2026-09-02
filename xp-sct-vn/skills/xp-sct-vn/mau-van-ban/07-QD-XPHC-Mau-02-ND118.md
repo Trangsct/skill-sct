@@ -4,7 +4,7 @@ Bám 12 dòng căn cứ và kết cấu Điều 1 (6 khoản), Điều 3 theo m�
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                               Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                               Độc lập – Tự do – Hạnh phúc
 Số:      /QĐ-XPHC                          Lào Cai, ngày …… tháng …… năm 20……
 
                                 QUYẾT ĐỊNH

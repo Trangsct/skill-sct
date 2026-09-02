@@ -2,7 +2,7 @@
 
 ```
 SỞ CÔNG THƯƠNG                       CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-TỔ KIỂM TRA THEO KẾ HOẠCH …               Độc lập - Tự do - Hạnh phúc
+TỔ KIỂM TRA THEO KẾ HOẠCH …               Độc lập – Tự do – Hạnh phúc
 
                                       Lào Cai, ngày    tháng    năm 20…
 

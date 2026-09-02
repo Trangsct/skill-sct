@@ -4,7 +4,7 @@
 ## A. Báo cáo của Đoàn kiểm tra
 ```
 SỞ CÔNG THƯƠNG LÀO CAI               CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-ĐOÀN KIỂM TRA                             Độc lập - Tự do - Hạnh phúc
+ĐOÀN KIỂM TRA                             Độc lập – Tự do – Hạnh phúc
 Số:      /ĐKT-SCT                     Lào Cai, ngày    tháng    năm 20…
 
                               BÁO CÁO

@@ -35,7 +35,7 @@
 | # | Mục tiêu |
 |---|---|
 | (1) | Tập trung phát triển bền vững **06 khu công nghiệp và 20 cụm công nghiệp** đang hoạt động |
-| (2) | Thành lập mới khoảng **trên 500 ha** các khu, cụm công nghiệp, trong đó: **ít nhất 02 KCN (Bản Qua, Võ Lao)** → tổng số KCN toàn tỉnh lên **trên 08 khu**; **ít nhất 05 CCN (Bảo Minh, Bảo Hưng 2, An Thịnh, Bản Phung, Yên Hợp giai đoạn II)** → tổng số CCN lên **trên 25 cụm** |
+| (2) | Thành lập mới khoảng **trên 500 ha** các khu, cụm công nghiệp, trong đó: **ít nhất 02 KCN (Bản Qua, Võ Lao)** → tổng số KCN toàn tỉnh lên **trên 08 khu**; **ít nhất 05 CCN (Bảo Minh, Bảo Hưng 2, An Thịnh, Bản Phung, Yên Hợp giai đoạn II — cách gọi của NQ 34, hồ sơ Sở là "CCN Yên Hợp 1")** → tổng số CCN lên **trên 25 cụm** |
 | (3) | Hoàn thiện **ít nhất 500 ha mặt bằng sạch** để thu hút nhà đầu tư thứ cấp |
 | (4) | Hoàn thành di dời **01 KCN (Đông Phố Mới)** và **02 CCN (Đông Phố Mới và Sơn Mãn)** do nằm trong dự án đường sắt cao tốc Lào Cai - Hải Phòng |
 | (5) | Nghiên cứu thực hiện Đề án chuyển **KCN Tằng Loỏng** sang KCN xanh, sinh thái |

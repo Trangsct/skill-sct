@@ -2,7 +2,7 @@
 
 ```
        SỞ CÔNG THƯƠNG                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT        Độc lập - Tự do - Hạnh phúc
+ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT        Độc lập – Tự do – Hạnh phúc
 Số: 01/BB-ĐKT                              Lào Cai, ngày …… tháng …… năm 20……
 
                                   BIÊN BẢN

@@ -4,7 +4,7 @@
 
 ```
        SỞ CÔNG THƯƠNG                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-ĐOÀN KIỂM TRA THEO QĐ SỐ …/QĐ-SCT            Độc lập - Tự do - Hạnh phúc
+ĐOÀN KIỂM TRA THEO QĐ SỐ …/QĐ-SCT            Độc lập – Tự do – Hạnh phúc
 Số: …/KH-ĐKT                               Lào Cai, ngày …… tháng …… năm 20……
 
   PHÊ DUYỆT CỦA NGƯỜI RA QUYẾT ĐỊNH KIỂM TRA         (ký, đóng dấu — cùng người đã ký QĐ:

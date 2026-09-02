@@ -4,7 +4,7 @@
 > ủy quyền **Giám đốc Sở Công Thương** thực hiện **cấp, cấp lại, cấp điều chỉnh Giấy phép sử dụng VLNCN**;
 > dùng hình thức văn bản, con dấu của Sở. Ba thay đổi cứng đối với quy trình dưới đây:
 > 1. **Bỏ bước Tờ trình UBND tỉnh và bước Chủ tịch UBND tỉnh ký.** Kết thúc quy trình là **Phiếu trình
->    (mẫu 06) → Giám đốc Sở ký Giấy phép** (mẫu 01 Bản A / mẫu 02, ký hiệu dự kiến `/GP-SCT`).
+>    (mẫu 06) → Giấy phép của Giám đốc Sở, KT. GĐ – PGĐ Hoàng Văn Thuân ký** (mẫu 01 Bản A / mẫu 02, ký hiệu `/GP-SCT` — đã chốt 8/2026).
 > 2. **Thu hồi GP KHÔNG được ủy quyền** (Phụ lục QĐ 2867 chỉ có 01 nhiệm vụ cấp/cấp lại/cấp điều chỉnh)
 >    → mục F dưới đây giữ nguyên khuôn trình UBND tỉnh; xem cảnh báo tại mẫu 05.
 > 3. **Phê duyệt PANM KHÔNG được ủy quyền** → khi hồ sơ thuộc điểm d k2 Đ38, vẫn phải chạy quy trình

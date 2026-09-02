@@ -113,7 +113,7 @@ Khi soạn văn bản kết quả, kết hợp `vbhc-vn` (thể thức, mẫu 08
 ## VI. NGUYÊN TẮC NGHIỆP VỤ BẤT BIẾN
 
 1. **Số lượng hồ sơ: 01 bộ** cho mọi thủ tục cấp phép (riêng KH phòng ngừa: 01 bộ đề nghị + **09 bản KH**, sau chỉnh sửa nộp 01 bản điện tử + 07 bản in).
-2. **Hình thức nộp:** trực tiếp, qua bưu chính, hoặc trực tuyến qua Hệ thống dịch vụ công. Đầu mối tiếp nhận: **Trung tâm Phục vụ Hành chính công tỉnh**; phòng thụ lý: **Phòng Quản lý Công nghiệp**.
+2. **Hình thức nộp:** nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (kênh phụ: bưu chính hoặc Trung tâm Phục vụ hành chính công tỉnh) — quy ước cố định của Bạn 02/8/2026; phòng thụ lý: **Phòng Quản lý Công nghiệp**.
 3. **Thời hạn giải quyết** (kể từ ngày nhận đủ hồ sơ hợp lệ): GCN đủ điều kiện SX/KD có điều kiện (cơ sở cùng địa phương trụ sở): **12 ngày làm việc** (gồm kiểm tra thực tế); khác địa phương: 03 + 09 + 03 ngày. Cấp lại: **05 ngày làm việc**. Cấp điều chỉnh: như cấp mới. Dịch vụ tồn trữ: **12 ngày làm việc** (tương tự). Thẩm định KH: 15 ngày thẩm định + 05 ngày thông báo + 20 ngày kiểm tra thực tế + 10 ngày phê duyệt (Điều 34 NĐ 25). Đối chiếu Quyết định công bố TTHC mới nhất khi áp dụng cụ thể.
 4. **Hồ sơ thiếu/sai:** trong **03 ngày làm việc** thông báo bằng văn bản để bổ sung (thời gian bổ sung không tính vào thời hạn giải quyết).
 5. **Từ chối cấp phải trả lời bằng văn bản nêu rõ lý do** (hoặc qua hệ thống dịch vụ công). Mẫu chuẩn: CV từ chối tại vi-du-thuc-te/gcn-tu-choi/.

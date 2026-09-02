@@ -3,7 +3,7 @@
 ## Mẫu số 01 — Giấy đề nghị
 ```
 [TÊN TỔ CHỨC, DOANH NGHIỆP]          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Số: ………                                   Độc lập - Tự do - Hạnh phúc
+Số: ………                                   Độc lập – Tự do – Hạnh phúc
 
                             GIẤY ĐỀ NGHỊ
    [Huấn luyện, kiểm tra, cấp / Kiểm tra, cấp / Cấp lại] giấy chứng nhận

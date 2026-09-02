@@ -8,7 +8,7 @@ Dùng khi SNNMT gửi văn bản xin ý kiến kèm hồ sơ, đề án thăm d�
 
 ```
 UBND TỈNH LÀO CAI                    CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-HỘI ĐỒNG THẨM ĐỊNH ĐỀ ÁN                 Độc lập - Tự do - Hạnh phúc
+HỘI ĐỒNG THẨM ĐỊNH ĐỀ ÁN                 Độc lập – Tự do – Hạnh phúc
 THĂM DÒ KHOÁNG SẢN THEO
 QUYẾT ĐỊNH SỐ 777/QĐ-UBND            Lào Cai, ngày ... tháng ... năm 20...
 NGÀY 12/8/2025

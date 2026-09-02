@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## [1.3.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
+- Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
+
 ## 1.3.2 — 02/9/2026
 - Sửa lỗi đọc số văn bản: QĐ 5116/QĐ-SCT ngày 20/8/2026 là **bản ký số đầy đủ** (2 trường /Sig), không phải "bản dự thảo chưa điền số" như ghi tại 1.3.1 — lỗi do không chạy `extract_metadata.py` mà tin lớp text trong context. Đổi tên file bản gốc `_ban-ky-so.pdf`, bỏ ảnh chụp Data360X (không còn cần làm chứng cứ số/ngày), sửa ref 09 K.2, INDEX.
 - SKILL.md thêm **mục 0 GATE PDF** ngay trên mục định tuyến: chạy script trước mọi việc; context trống số/ngày = PDF ký số, cấm kết luận "dự thảo".

@@ -4,7 +4,7 @@ Tình huống mẫu: KL 45/KL-TT ngày 05/7/2026 (Viglacera) nêu Sở Công Th�
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                               Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                               Độc lập – Tự do – Hạnh phúc
 Số:      /BC-SCT                            Lào Cai, ngày …… tháng …… năm 20……
 
                                   BÁO CÁO

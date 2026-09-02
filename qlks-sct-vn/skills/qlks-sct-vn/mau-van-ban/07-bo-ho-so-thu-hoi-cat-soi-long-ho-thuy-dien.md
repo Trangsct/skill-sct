@@ -99,7 +99,7 @@ Do **doanh nghiệp** lập. SCT dùng khung này để **hướng dẫn doanh n
 
 ```
 [TÊN DOANH NGHIỆP]              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-    Số: .../ĐK-...                    Độc lập - Tự do - Hạnh phúc
+    Số: .../ĐK-...                    Độc lập – Tự do – Hạnh phúc
                                    Lào Cai, ngày ... tháng ... năm ...
 
                       BẢN ĐĂNG KÝ THU HỒI KHOÁNG SẢN

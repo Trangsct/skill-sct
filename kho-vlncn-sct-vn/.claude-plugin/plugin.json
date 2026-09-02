@@ -1,7 +1,7 @@
 {
   "name": "kho-vlncn-sct-vn",
   "description": "Kho vat lieu no cong nghiep (VLNCN), So Cong Thuong Lao Cai. PHAN LUONG 4 truong hop (ref 11): kho co dinh xay moi (co KTCTNT) - kho tam (MIEN KTCTNT tu 01/7/2026, loai tru k1 D25 ND 207/2026, chuyen tiep k3 D53) - kho hien huu (kiem dinh theo D34, D36 ND 207/2026) - thue kho. Cap cong trinh TT 34/2026: khong co kho cap III/IV. Nghiem thu PCCC tu to chuc theo NQ 66.18/2026. Kem mau van ban, van ban goc, case Dong Tien, Toan Kim Son, Mong Son.",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "author": {
     "name": "Trangsct"
   }

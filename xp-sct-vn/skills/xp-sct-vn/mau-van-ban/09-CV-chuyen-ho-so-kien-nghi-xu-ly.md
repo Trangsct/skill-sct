@@ -4,7 +4,7 @@ Dùng cho: giao thông (CSGT), PCCC (Công an), đất đai – khoáng sản �
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                               Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                               Độc lập – Tự do – Hạnh phúc
 Số:      /SCT-CN                            Lào Cai, ngày …… tháng …… năm 20……
 V/v chuyển hồ sơ, đề nghị xem xét xử lý
 {{dấu hiệu vi phạm về … của …}}

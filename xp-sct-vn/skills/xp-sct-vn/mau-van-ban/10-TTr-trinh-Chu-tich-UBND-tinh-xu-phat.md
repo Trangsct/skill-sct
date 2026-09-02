@@ -4,7 +4,7 @@ Khi: mức tối đa của khung (tổ chức) > trần GĐ Sở (hóa chất 80
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                               Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                               Độc lập – Tự do – Hạnh phúc
 Số:      /TTr-SCT                           Lào Cai, ngày …… tháng …… năm 20……
 
                                   TỜ TRÌNH

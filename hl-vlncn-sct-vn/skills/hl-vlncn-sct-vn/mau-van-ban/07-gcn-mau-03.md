@@ -15,7 +15,7 @@ Khổ **190 mm × 130 mm**, 2 mặt, in trên giấy bìa.
 ## Mặt sau
 ```
                 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM   (in hoa, đậm, 11-12)
-                     Độc lập - Tự do - Hạnh phúc      (in thường, đậm, 12-13)
+                     Độc lập – Tự do – Hạnh phúc      (in thường, đậm, 12-13)
 
 ỦY BAN NHÂN DÂN TỈNH LÀO CAI                 [Ảnh 3x4
 SỞ CÔNG THƯƠNG TỈNH LÀO CAI                   đóng dấu

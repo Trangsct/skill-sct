@@ -12,7 +12,7 @@
 
 ```
 UBND TỈNH LÀO CAI                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
- SỞ CÔNG THƯƠNG                        Độc lập - Tự do - Hạnh phúc
+ SỞ CÔNG THƯƠNG                        Độc lập – Tự do – Hạnh phúc
 
   Số:     /BC-SCT                  Lào Cai, ngày    tháng    năm 2026
 

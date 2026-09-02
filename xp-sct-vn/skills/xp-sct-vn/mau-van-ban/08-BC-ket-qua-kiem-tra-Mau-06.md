@@ -4,7 +4,7 @@ Người ra QĐ ban hành văn bản nhận xét, đánh giá trong 15 ngày t�
 
 ```
        SỞ CÔNG THƯƠNG                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT        Độc lập - Tự do - Hạnh phúc
+ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT        Độc lập – Tự do – Hạnh phúc
                                            Lào Cai, ngày …… tháng …… năm 20……
 
                                   BÁO CÁO

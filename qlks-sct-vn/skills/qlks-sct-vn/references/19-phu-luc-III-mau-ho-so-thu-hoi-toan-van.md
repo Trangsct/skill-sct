@@ -31,7 +31,7 @@ Bản đồ, bản vẽ kèm hồ sơ: **khoản 4 Điều 20 + mẫu số 35 Ph
 
 ```
 TÊN TỔ CHỨC, CÁ NHÂN          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-      -------                       Độc lập - Tự do - Hạnh phúc
+      -------                       Độc lập – Tự do – Hạnh phúc
                                           ---------------
                                     ……., ngày.... tháng.... năm ....
 
@@ -88,7 +88,7 @@ Bảng toạ độ: cột **Điểm góc · Hệ toạ độ VN-2000 (kinh tuy�
 
 ```
 TÊN TỔ CHỨC, CÁ NHÂN          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-      -------                       Độc lập - Tự do - Hạnh phúc
+      -------                       Độc lập – Tự do – Hạnh phúc
                                           ---------------
                                     ……., ngày.... tháng.... năm ....
 
@@ -255,7 +255,7 @@ Số ký hiệu bản đồ, bản vẽ phải bảo đảm tính thống nhất
 
 ```
 UBND TỈNH (THÀNH PHỐ)……     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-        -------                    Độc lập - Tự do - Hạnh phúc
+        -------                    Độc lập – Tự do – Hạnh phúc
     Số:....../XN-UBND                    ---------------
                               Địa danh......., ngày... tháng... năm...
 

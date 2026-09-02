@@ -49,7 +49,7 @@ Nhóm này có header, ký hiệu, thể thức người ký KHÁC HẲN văn b�
 #### Quy ước header (cơ quan ban hành)
 - **UBND tỉnh trực tiếp ban hành** (công văn chỉ đạo, giấy mời, quyết định): dòng cơ quan là **`ỦY BAN NHÂN DÂN TỈNH LÀO CAI`** (đậm), KHÔNG có dòng cấp trên (khác văn bản Sở: Sở có 2 dòng `UBND TỈNH LÀO CAI` + `SỞ CÔNG THƯƠNG`).
 - **Văn phòng UBND tỉnh ban hành** (thông báo, báo cáo, phiếu trình, một số công văn truyền đạt): 2 dòng `UBND TỈNH LÀO CAI` (thường) + **`VĂN PHÒNG`** (đậm).
-- Quốc hiệu bên phải; bắt buộc gạch chân dưới tên cơ quan và dưới "Độc lập - Tự do - Hạnh phúc".
+- Quốc hiệu bên phải; bắt buộc gạch chân dưới tên cơ quan và dưới "Độc lập – Tự do – Hạnh phúc".
 
 #### Quy ước ký hiệu (hậu tố theo khối/lĩnh vực của VP UBND)
 - Công văn UBND tỉnh: `Số: .../UBND-<Khối>`. Khối Kinh tế = `KT` (CCN/KCN, công nghiệp, xây dựng, tài chính); khối khác đã gặp: `NLN` (nông lâm nghiệp - môi trường), `NC` (nội chính). Nội dung CCN/KCN dùng `UBND-KT`.

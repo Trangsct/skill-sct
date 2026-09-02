@@ -95,7 +95,16 @@ def _run_check_facts() -> int:
     return subprocess.run([sys.executable, str(here / "check_facts.py")]).returncode
 
 
+def _run_check_registry() -> None:
+    """Sổ đăng ký văn bản pháp luật: chỉ cảnh báo dẫn văn bản đã bị thay thế (không chặn CI)."""
+    import subprocess
+    here = pathlib.Path(__file__).resolve().parent
+    print("\n=== scripts/build_registry.py --check (văn bản đã bị thay thế còn được dẫn) ===")
+    subprocess.run([sys.executable, str(here / "build_registry.py"), "--check"])
+
+
 if __name__ == "__main__":
     rc = main()
     rc_facts = _run_check_facts()
+    _run_check_registry()
     sys.exit(rc or rc_facts)

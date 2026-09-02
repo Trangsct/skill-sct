@@ -1,5 +1,9 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — hnh-sct-vn v1.9.0: tinh gọn SKILL.md 44k → 24k, khung pháp lý → ref 18, nguyên tắc bất biến → ref 19
+
+Tách nguyên văn, SKILL.md giữ danh mục/mục lục + lệnh bắt buộc đọc ref 19. Kiểm 0 dòng mất.
+
 ## 02/9/2026 — sd-vlncn-sct-vn v2026.9.2.1: tinh gọn SKILL.md 46k → 28k, anti-error tách sang ref 11
 Mục VI anti-error (26 quy tắc) chuyển nguyên văn sang `references/11-anti-error.md` (bắt buộc đọc trước khi soạn); SKILL.md giữ mục lục. Sửa đánh số trùng 22/23 → A/B.
 

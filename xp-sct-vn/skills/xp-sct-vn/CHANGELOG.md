@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.4.2 — 02/9/2026
+- Ref 07 mục ATVSLĐ trỏ sang plugin mới `atvsld-sct-vn`.
+
 ## 1.4.1 — 02/9/2026
 - Rút description plugin.json về ≤500 ký tự (1.4.0 để 561, vi phạm giới hạn CI).
 

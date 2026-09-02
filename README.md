@@ -24,6 +24,8 @@ Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công
 | `qlks-sct-vn` | QLNN về khoáng sản: phân vai liên ngành, KH quản lý rủi ro, GCN KTAT hầm lò, chế biến - nguồn gốc, đối chiếu VLNCN - sản lượng, rà chồng lấn khi thẩm định CCN, thống kê - kê khai - báo cáo định kỳ sản lượng (CV 5141), dữ liệu 178 GP + báo cáo năm 2025 |
 | `attp-sct-vn` | An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm: GCN đủ điều kiện ATTP, tự công bố, hậu kiểm, thuốc lá, rượu; hướng dẫn UBND cấp xã quản lý hộ kinh doanh nhỏ lẻ; GATE hiệu lực NĐ 46/2026 tạm ngưng theo NQ 15/2026 |
 | `xp-hc-vlncn-sct-vn` | Xử phạt VPHC hóa chất + VLNCN theo NĐ 275/2026/NĐ-CP (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): bảng hành vi - mức phạt Đ7-61, thẩm quyền Đ62-73, chuyển tiếp Đ74, đối chiếu điều cũ→mới — plugin chế tài DÙNG CHUNG cho `sd-vlncn-sct-vn`, `hl-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hc-sct-vn` |
+| `xp-sct-vn` | Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực (kế thừa xp-hc-vlncn-sct-vn); Luật 88/2025, NĐ 118, NĐ 189/311, 8 nhánh chuyên ngành, 13 mẫu, 8 checklist |
+| `atvsld-sct-vn` | ATVSLĐ phần ngành Công Thương: máy thiết bị nhóm Bộ Công Thương (điểm d k1 Đ33 Luật 84/2015), TNLĐ – sự cố, ranh giới với Sở Nội vụ, NĐ 283/2026 (10/9/2026) |
 
 ## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
 

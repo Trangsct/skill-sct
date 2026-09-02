@@ -1,6 +1,6 @@
 # 09 — ĐỐI CHIẾU BẢN GỐC CÁC NHÁNH: điện lực, xăng dầu – khí, thương mại, khoáng sản, môi trường, đất đai, xây dựng, đầu tư
 
-Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-ban-goc/<lĩnh vực>/` (01/9/2026). Cột "Sở Công Thương" ghi rõ căn cứ điều khoản; chỗ nào là **cách áp dụng** (Điều 21 NĐ 189/2025 chuyển chức danh "Chánh Thanh tra Sở" → Giám đốc Sở) đều được đánh dấu. Ba bản gốc **chưa hợp nhất** nghị định sửa đổi: NĐ 99/2020 (sđ NĐ 17/2022), NĐ 98/2020 (sđ NĐ 17/2022 — có NĐ 24/2025), NĐ 36/2020 (sđ NĐ 04/2022) — đối chiếu văn bản sửa đổi trước khi ghi số khoản.
+Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-ban-goc/<lĩnh vực>/` (01/9/2026). Cột "Sở Công Thương" ghi rõ căn cứ điều khoản; chỗ nào là **cách áp dụng** (Điều 21 NĐ 189/2025 chuyển chức danh "Chánh Thanh tra Sở" → Giám đốc Sở) đều được đánh dấu. Các nghị định sửa đổi **đã đối chiếu bản gốc (02/9/2026)**: NĐ 17/2022 (sửa NĐ 98, NĐ 99 — `van-ban-goc/chung/`), NĐ 04/2022 (sửa NĐ 36 — `van-ban-goc/khoang-san/`), NĐ 24/2025 (sửa NĐ 98 — `van-ban-goc/thuong-mai/`); nội dung sau sửa đổi ghi ở tiểu mục "Sửa đổi bởi …" ngay dưới từng bảng — **khi dẫn số khoản, dùng bản sau sửa đổi**.
 
 ## A. ĐIỆN LỰC — NĐ 133/2026/NĐ-CP ngày 06/4/2026, hiệu lực 25/5/2026 (32 điều; bãi bỏ phần điện lực của NĐ 134/2013 sđ 17/2022 — k2 Đ30)
 
@@ -20,7 +20,7 @@ Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-b
 
 → **Sở XỬ** (phòng QLNL). Với QLCN: kho VLNCN/hóa chất trong hành lang lưới điện → Đ17 (GĐ Sở phạt được); thủy điện → Đ21, 22.
 
-## B. XĂNG DẦU, KHÍ (LPG, LNG, CNG) — NĐ 99/2020/NĐ-CP ngày 26/8/2020, hiệu lực 11/10/2020 (65 điều; thay NĐ 67/2017) — **bản gốc chưa hợp nhất NĐ 17/2022** ⚠️
+## B. XĂNG DẦU, KHÍ (LPG, LNG, CNG) — NĐ 99/2020/NĐ-CP ngày 26/8/2020, hiệu lực 11/10/2020 (65 điều; thay NĐ 67/2017) — sửa đổi bởi **NĐ 17/2022/NĐ-CP ngày 31/01/2022** (Điều 4; hiệu lực từ ngày ký; chuyển tiếp Điều 5 NĐ 17)
 
 | Nội dung | Nguyên văn |
 |---|---|
@@ -36,7 +36,24 @@ Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-b
 
 → **Sở: lập biên bản được (k2 Đ55)**; xử phạt: "Chánh Thanh tra sở" → **Giám đốc Sở theo k2 Đ21 NĐ 189 = 80% × 100 = 80 tr CN / 160 tr TC** (cách áp dụng); thực tế Sở giao **Chi cục QLTT** xử (50/100 tr, có tước GCN). GCN cửa hàng xăng dầu/LPG do Sở cấp → nút thu hồi GCN song song.
 
-## C. THƯƠNG MẠI, HÀNG GIẢ, HÀNG CẤM, BẢO VỆ NGƯỜI TIÊU DÙNG — NĐ 98/2020/NĐ-CP ngày 26/8/2020 (91 điều) — **bản gốc chưa hợp nhất NĐ 17/2022** ⚠️; sửa bởi **NĐ 24/2025/NĐ-CP** (hiệu lực từ ngày ký)
+**Sửa đổi bởi NĐ 17/2022 (Điều 4, 20 khoản) — nguyên văn phần liên quan Sở:**
+
+| Điều NĐ 99 | Nội dung sau sửa đổi (NĐ 17/2022) |
+|---|---|
+| k3 Đ4 (điểm g mới) | Thêm biện pháp khắc phục: buộc nộp lại Giấy phép kinh doanh xăng dầu/khí bị tẩy xóa, sửa chữa |
+| Đ4a, 4b (mới) | Hành vi đã kết thúc/đang thực hiện xác định theo NĐ 118/2021; vi phạm nhiều lần: tình tiết tăng nặng, trừ hành vi xử theo giá trị/số lượng/khối lượng tang vật thì phạt từng hành vi (k2 Đ4a); số lợi bất hợp pháp (Đ4b) |
+| Đ20, 21, 24, 36, 38, 42, 43, 44–46, 52, 53 | Sửa/bãi bỏ một số điểm, khoản (chủ yếu biện pháp khắc phục, bỏ hình thức tước GP ở một số khoản) — đọc bản gốc trước khi dẫn |
+| **Đ39** (cửa hàng bán lẻ LPG chai) | **Bãi bỏ điểm a khoản 3**; khoản 4 mới: a) buộc nộp lại số lợi bất hợp pháp với k2; b) buộc nộp lại Giấy phép kinh doanh khí bị tẩy xóa với điểm b k2. Mức k1, k2 giữ nguyên |
+| **Đ40** (trạm nạp) | **Bãi bỏ điểm a khoản 5**; khoản 6 mới: a) nộp lại số lợi bất hợp pháp với k2, 3, 4; b) nộp lại Giấy phép bị tẩy xóa với điểm a k2 |
+| **Đ55 lập biên bản** | **KHÔNG sửa** — k2: công chức đang thi hành nhiệm vụ thanh tra, kiểm tra lĩnh vực dầu khí, xăng dầu, khí vẫn lập được |
+| **Đ56 mới** (UBND) | Xã **5 tr CN / 10 tr TC**, tịch thu ≤10 tr, khắc phục điểm a k3 Đ4; huyện 100/200 tr với Chương II (dầu khí), 50/100 tr với hành vi khác, tước GP; tỉnh mức tối đa, tước GP |
+| **Đ61 mới** (QLTT) | Kiểm soát viên 500 nghìn/1 tr; **Đội trưởng 25/50 tr**, tịch thu ≤50 tr; **Cục trưởng Cục QLTT cấp tỉnh (nay Chi cục trưởng) 50/100 tr, tước GP kinh doanh xăng dầu/khí, đình chỉ, tịch thu**; Tổng cục trưởng tối đa |
+| **Đ62 mới** (Thanh tra) | k1 thanh tra viên/người được giao thanh tra chuyên ngành 500 nghìn/1 tr; **k2 Chánh Thanh tra Sở Công Thương** (cùng Chánh TT Sở KH&CN, Sở TN&MT, Chi cục trưởng TĐC…): **50 tr CN / 100 tr TC, tước GP kinh doanh xăng dầu/khí, đình chỉ, tịch thu ≤100 tr, mọi biện pháp khắc phục**; k3 Cục trưởng Cục QLCL SPHH 250/500 tr (Chương II), 70/140 tr (khác); k4 Chánh TT Bộ CT, Cục trưởng Cục Hóa chất, Cục KTAT&MTCN… mức tối đa |
+| **Đ63 mới** (phân định) | k1a xã: k1 Đ21; điểm a k1 Đ31; k1 Đ33; k1, 3 Đ35; k1 Đ46; k1–4 Đ54. k1b huyện: danh mục dài (Đ11–19, 22–25, 28, 29, 31, 33–35, 37, 39, 41–43, 45–51, 53, 54 và một số khoản). k1c tỉnh: toàn bộ. **k6 QLTT**: Đội trưởng theo danh mục điểm b (gồm điểm c k1, k2 Đ14; k1 Đ15–17, 19; điểm a, b k2 Đ39; Đ41; k1 Đ42…); Cục trưởng cấp tỉnh theo danh mục điểm c (gồm Đ14–19, Đ39, k1–3 Đ40, Đ41–43…). **k7 Thanh tra chuyên ngành Công Thương: mọi hành vi tại Nghị định theo thẩm quyền Điều 62** |
+
+→ **Sau NĐ 17/2022, kết luận cho Sở không đổi về bản chất nhưng có căn cứ chắc hơn:** (1) công chức Sở lập biên bản theo k2 Đ55 (không sửa); (2) "Chánh Thanh tra Sở Công Thương" được nêu **đích danh** tại k2 Đ62 với thẩm quyền 50/100 tr + tước GP, và k7 Đ63 cho phép xử **mọi hành vi** của Nghị định → Giám đốc Sở tiếp nhận theo k2 Đ21 NĐ 189/2025 (cách áp dụng); (3) khi dẫn Đ39, Đ40 **không dẫn điểm a k3 Đ39 và điểm a k5 Đ40** (đã bãi bỏ); biện pháp khắc phục dẫn theo khoản 4 Đ39 / khoản 6 Đ40 bản mới.
+
+## C. THƯƠNG MẠI, HÀNG GIẢ, HÀNG CẤM, BẢO VỆ NGƯỜI TIÊU DÙNG — NĐ 98/2020/NĐ-CP ngày 26/8/2020 (91 điều) — sửa đổi bởi **NĐ 17/2022/NĐ-CP ngày 31/01/2022** (Điều 3, 52 khoản; hiệu lực từ ngày ký) và **NĐ 24/2025/NĐ-CP** (hiệu lực từ ngày ký)
 
 | Nội dung | Nguyên văn |
 |---|---|
@@ -50,7 +67,21 @@ Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-b
 
 → Vi phạm hàng hóa phát hiện khi kiểm tra chuyên ngành → **chuyển Chi cục QLTT** (nội bộ Sở) — QLTT lập biên bản và xử; công chức QLCN không tự lập biên bản theo NĐ 98.
 
-## D. KHOÁNG SẢN — NĐ 36/2020/NĐ-CP ngày 24/3/2020, hiệu lực 10/5/2020 (thay NĐ 33/2017) — **bản gốc chưa hợp nhất NĐ 04/2022** ⚠️; dự thảo nghị định mới theo Luật 54/2024 (3/2026)
+**Sửa đổi bởi NĐ 17/2022 (Điều 3) — phần thẩm quyền, nguyên văn:**
+
+| Điều NĐ 98 | Nội dung sau NĐ 17/2022 (rồi NĐ 24/2025 sửa tiếp phần biện pháp khắc phục) |
+|---|---|
+| Đ4a, 4b (mới) | Hành vi kết thúc/đang thực hiện theo NĐ 118/2021; vi phạm nhiều lần; số lợi bất hợp pháp — cùng cấu trúc NĐ 99 |
+| Đ6, 8–15, 18–23, 26–28, 30–33, 35, 38, 40, 41, 43, 44, 47, 61–69, 73, 74 | Sửa/bãi bỏ điểm, khoản về mức và biện pháp khắc phục — đọc bản gốc trước khi dẫn số khoản |
+| **k2 Đ80 mới** (lập biên bản) | "công chức, viên chức thuộc cơ quan quy định tại các Điều 81, 82, 83, 84, 85, 86, 87 và 87a đang thi hành công vụ" — danh sách vẫn là UBND, QLTT, Công an, Hải quan, Biên phòng, CSB, Thanh tra, UB Cạnh tranh QG; **công chức phòng QLCN không có trong danh sách** (kết luận giữ nguyên) |
+| Đ81 mới (UBND) | Xã 5 tr (→ NĐ 189: 50%); tỉnh tối đa, tước GP |
+| **Đ82 mới** (QLTT) | Kiểm soát viên 500 nghìn; **Đội trưởng 25 tr**, tịch thu ≤50 tr, khắc phục trừ điểm a k3 Đ4; **Cục trưởng Cục QLTT cấp tỉnh (nay Chi cục trưởng) 50 tr, tịch thu, tước GP/đình chỉ, mọi biện pháp khắc phục**; Tổng cục trưởng tối đa. (Mức cá nhân; tổ chức ×2 theo Đ4 NĐ 98.) NĐ 24/2025 k10 sửa điểm d k2 Đ82: biện pháp khắc phục theo điểm đ, e, g, h, i k1 Đ28 Luật + k3 Đ4 |
+| **Đ87 mới** (Thanh tra) | k1 thanh tra viên 500 nghìn; **k2 "Chánh Thanh tra sở" 50 tr, tước GP/đình chỉ, tịch thu ≤100 tr, mọi biện pháp khắc phục**; k3 Cục trưởng Cục QLCL SPHH 140 tr (Mục 2, 9 Chương II)/70 tr; NĐ 24/2025 k15 sửa điểm d k1 |
+| Đ87a (mới), k6a Đ88 | Chủ tịch Ủy ban Cạnh tranh Quốc gia: mức tối đa; xử Mục 9 Chương II (bảo vệ NTD) và Đ73 — NĐ 24/2025 k16 sửa lại k5, k6a Đ88 |
+
+→ **Kết luận giữ nguyên:** hàng hóa vi phạm phát hiện khi kiểm tra chuyên ngành → chuyển Chi cục QLTT (Đ82); công chức QLCN không lập biên bản theo NĐ 98 (k2 Đ80 bản NĐ 17/2022). "Chánh Thanh tra sở" k2 Đ87 → Giám đốc Sở theo k2 Đ21 NĐ 189 chỉ là phương án dự phòng khi QLTT không xử.
+
+## D. KHOÁNG SẢN — NĐ 36/2020/NĐ-CP ngày 24/3/2020, hiệu lực 10/5/2020 (thay NĐ 33/2017) — sửa đổi bởi **NĐ 04/2022/NĐ-CP ngày 06/01/2022** (Điều 2, 36 khoản; hiệu lực 06/01/2022; chuyển tiếp k2 Đ5 NĐ 04); dự thảo nghị định mới theo Luật 54/2024 (3/2026)
 
 | Nội dung | Nguyên văn |
 |---|---|
@@ -63,6 +94,28 @@ Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-b
 | Tước/đình chỉ (Đ70) | thời hạn = trung bình khung |
 
 → **Sửa nhận định cũ:** ngành Công Thương **có thẩm quyền xử phạt** khoáng sản ở Đ36, 38, 39, 55–62 (thiết kế mỏ, GĐĐH mỏ, XDCB – báo cáo – tiền cấp quyền, kỹ thuật an toàn khai thác). Chức danh "Chánh Thanh tra Sở CT/Trưởng đoàn thanh tra do GĐ Sở lập" → **Giám đốc Sở theo k2 Đ21 NĐ 189** (cách áp dụng; mức 80% của trần khoáng sản tại Điều 24 Luật — trần khoáng sản cá nhân **1 tỷ** → về lý thuyết 800 tr; đối chiếu Luật 88/2025 Điều 24 trước khi ghi). Ngoài ranh giới (Đ37), vượt công suất (Đ41), trạm cân – kiểm kê (Đ40), không GP (Đ47), đóng cửa mỏ (Đ49) → **vẫn CHUYỂN SNNMT** (không trong Đ65). Kiểm tra sau NĐ 217/2025 = "kiểm tra chuyên ngành", không "thanh tra" → cần văn bản xác định công chức kiểm tra chuyên ngành là "người được giao nhiệm vụ thanh tra chuyên ngành" theo k1 Đ65 hay không — chưa có → **lập biên bản theo k2a Đ69 với tư cách người có thẩm quyền theo Đ65 là chưa chắc chắn**; an toàn: Đoàn ghi biên bản kiểm tra, trình GĐ Sở ra QĐ theo Đ65 k2 (đã chuyển đổi), hoặc chuyển SNNMT/UBND tỉnh.
+
+**Sửa đổi bởi NĐ 04/2022 (Điều 2) — nguyên văn phần liên quan Sở:**
+
+| Điều NĐ 36 | Nội dung sau sửa đổi (NĐ 04/2022) |
+|---|---|
+| Đ4 | Điểm c k1: tước GP thăm dò, khai thác **01–24 tháng**; k2 bổ sung: tước GP/đình chỉ 01–24 tháng, tịch thu tang vật (kể cả mẫu khoáng sản), phương tiện; k3 khắc phục viết lại (điểm a–… gồm khôi phục hiện trạng, phá dỡ công trình, phục hồi môi trường, di chuyển máy móc ra khỏi khu vực…) |
+| k1 Đ5 | Mức Chương II, III là **mức cá nhân**; hộ kinh doanh, chi nhánh/VPĐD ngoài phạm vi ủy quyền = mức cá nhân; **tổ chức ×2**. k3 mới: khai thác không GP trong hành lang bảo vệ hạ tầng còn xử theo pháp luật chuyên ngành |
+| **Đ5b mới** | **Thời hiệu khoáng sản 02 năm**; k2 liệt kê hành vi đã kết thúc + thời điểm chấm dứt (không thông báo kế hoạch, ngày XDCB/khai thác; báo cáo sai; khai thác không đúng đề án/GP; **vi phạm thiết kế mỏ k3 Đ38; GĐĐH mỏ điểm b k1 Đ39**; đóng cửa mỏ k5 Đ49…) |
+| **Đ36** | k4 mới: nộp chậm báo cáo định kỳ khai thác **30–<60 ngày** (từ 01/02 năm kế tiếp) **30–50 tr**; k4a: chậm ≥60 ngày = không nộp **50–60 tr** |
+| Đ37 | Đoạn mở đầu k3–8 viết lại: thêm tiêu chí vượt ranh giới theo **độ sâu/độ cao** (0,5–<1 m; 1–<2 m; 2–<3 m; 3–<5 m trong diện tích ≥0,01 ha) bên cạnh diện tích bề mặt |
+| **Đ38** (thiết kế mỏ) | k3 đoạn mở đầu mở rộng: không đúng phương pháp; không đúng hệ thống khai thông, chuẩn bị (hầm lò)/mở vỉa (lộ thiên); không đúng trình tự, hệ thống khai thác; **vượt quá 10% chiều cao tầng, góc dốc sườn tầng; đổ thải không đúng vị trí trong Thiết kế mỏ/BCKTKT**; không đúng khung thời gian; không đúng chủng loại/vượt số lượng thiết bị (cát sỏi). Điểm b k3: 20–30 tr (than bùn, VLXDTT không VLNCN); điểm d k3: **50–70 tr** (lộ thiên khác); điểm d k4: **100–200 tr** (lộ thiên) |
+| Đ39 | **Không sửa** |
+| Đ40 | k2: không lắp trạm cân — thêm ngoại lệ (hộ KD VLXDTT; cát sỏi bơm hút lên tàu); điểm d k3 30–50 tr; k4, k5 viết lại đoạn mở đầu (bản đồ hiện trạng thiếu/sai; sổ sách xác định sản lượng) |
+| Đ41 (vượt công suất) | **Bãi bỏ k1** (mức cảnh cáo <15%); mức mới điểm b, c các khoản 2–5: k2 30–50 / 70–100 tr; k3 50–70 / 100–200 tr; k4 100–200 / 300–400 tr; k5 200–300 / … tr (đọc bản gốc) |
+| Đ48 (mới) | Khai thác **cát, sỏi lòng sông, suối, hồ, cửa sông** không GP: 20–30 tr (<10 m³) … 150–200 tr (≥50 m³); tịch thu khoáng sản + phương tiện |
+| Đ55–62 (KTAT khai thác) | **Không sửa** |
+| Đ63, 64 | TN&MT: tịch thu ≤2 lần mức phạt; UBND: xã tịch thu ≤2 lần mức phạt; **huyện 100 tr** (điểm b k2) |
+| **Đ65 mới** | Thanh tra chuyên ngành công thương (và thanh tra thủy lợi, đê điều) xử **Điều 36, 38, 39, 48 và Mục 2 Chương III (Đ55–62)**: k1 thanh tra viên/người được giao nhiệm vụ 500 nghìn; **k2 Chánh Thanh tra Sở CT; Trưởng đoàn thanh tra do Cục trưởng Cục KTAT&MTCN, Giám đốc Sở CT, Chánh TT Sở CT thành lập: 50 tr, tước GP/đình chỉ, khắc phục k6 Đ38**; k3 cấp Bộ 250 tr; k4 Chánh TT Bộ CT, Cục trưởng Cục KTAT&MTCN mức tối đa. (Chỉ **thêm Đ48** so với bản gốc.) |
+| k1 Đ69 mới | Biên bản lập theo **Điều 58 Luật XLVPHC**; **k2 Đ69 (ai lập) không sửa** |
+| Đ70 | Bãi bỏ k2; bỏ cụm "xả nước thải vào nguồn nước" k4, k5 |
+
+→ **Sau NĐ 04/2022:** phạm vi Sở xử được thêm **Đ48** (cát sỏi không GP — thực tế ít gặp ở mỏ đá/quặng); thời hiệu khoáng sản **02 năm có căn cứ trực tiếp (Đ5b)**; mức Đ38 k3 lộ thiên **50–70 tr (cá nhân) → 100–140 tr tổ chức**, k4 lộ thiên **100–200 → 200–400 tr tổ chức**; **thiết kế mỏ giờ bao cả vượt 10% chiều cao tầng/góc dốc và đổ thải sai vị trí** — đúng mảng Sở kiểm tra sau thẩm định thiết kế (`tkm-sct-vn`). Kết luận về k2a Đ69 (chưa chắc) và cách chuyển đổi chức danh theo Đ21 NĐ 189 giữ nguyên.
 
 ## E. BẢO VỆ MÔI TRƯỜNG — NĐ 45/2022/NĐ-CP ngày 07/7/2022 (78 điều)
 
@@ -117,9 +170,9 @@ Mọi số liệu dưới đây chép nguyên văn từ bản gốc trong `van-b
 | Nghị định | Công chức Sở CT lập BB? | Căn cứ | GĐ Sở ra QĐ? | Căn cứ |
 |---|---|---|---|---|
 | NĐ 133/2026 điện lực | **Có** | k2 Đ23 | **Có, 80/160 tr** | Đ25 (đích danh) |
-| NĐ 99/2020 xăng dầu, khí | **Có** | k2 Đ55 | Có qua Đ21 NĐ 189 (Chánh TT sở 50/100 → GĐ Sở); thực tế QLTT | k2 Đ62; Đ61 |
-| NĐ 98/2020 thương mại | Không (QLCN); **QLTT có** | k2 Đ80 | QLTT Đ82; "Chánh TT sở" Đ87 | |
-| NĐ 36/2020 khoáng sản | Chưa chắc (k2a Đ69 qua k1 Đ65) | Đ69, 65 | Có với Đ36, 38, 39, 55–62 qua Đ21 NĐ 189 (k2 Đ65: 50 tr, đình chỉ khai thác) | Đ65 |
+| NĐ 99/2020 (sđ NĐ 17/2022) xăng dầu, khí | **Có** | k2 Đ55 (không sửa) | Có qua Đ21 NĐ 189 — k2 Đ62 (bản NĐ 17) nêu **đích danh Chánh Thanh tra Sở Công Thương** 50/100 tr, tước GP; k7 Đ63: mọi hành vi NĐ; thực tế QLTT | k2 Đ62; k7 Đ63; Đ61 |
+| NĐ 98/2020 (sđ NĐ 17/2022, 24/2025) thương mại | Không (QLCN); **QLTT có** | k2 Đ80 (bản NĐ 17) | QLTT Đ82 (Chi cục trưởng 50 tr, tước GP); "Chánh TT sở" k2 Đ87 50 tr | |
+| NĐ 36/2020 (sđ NĐ 04/2022) khoáng sản | Chưa chắc (k2a Đ69 qua k1 Đ65; k1 Đ69 mới dẫn Đ58 Luật) | Đ69, 65 | Có với **Đ36, 38, 39, 48, 55–62** qua Đ21 NĐ 189 (k2 Đ65: 50 tr, tước GP/đình chỉ) | Đ65 (bản NĐ 04/2022) |
 | NĐ 45/2022 môi trường | Chỉ Đ45, 46 | Đ71 k2a + Đ64, Đ68 | Chỉ Đ45, 46 (k4 Đ64 50 tr → GĐ Sở) | Đ68 |
 | NĐ 123/2024 + 281/2026 đất đai | **Không** | k2b Đ32 | Không | |
 | NĐ 16/2022 xây dựng | Có cơ sở (k4 Đ72 — được phân công kiểm tra hoạt động xây dựng) | Đ72 | Không | |

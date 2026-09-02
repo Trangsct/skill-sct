@@ -37,7 +37,7 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định xử phạt | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** (hiệu lực 11/10/2020; bản gốc `van-ban-goc/xang-dau-khi/` **chưa hợp nhất NĐ 17/2022** ⚠️). **Mức ghi tại NĐ là mức TỔ CHỨC, cá nhân = ½ (Đ5)**. Chi tiết `references/09` mục B |
+| Nghị định xử phạt | **NĐ 99/2020/NĐ-CP ngày 26/8/2020** (hiệu lực 11/10/2020; bản gốc `van-ban-goc/xang-dau-khi/`) **sửa đổi bởi NĐ 17/2022 (Điều 4 — bản gốc `van-ban-goc/chung/`, đã đối chiếu 02/9/2026)**: Đ56, 61, 62, 63 viết lại; bãi bỏ điểm a k3 Đ39, điểm a k5 Đ40. **Mức ghi tại NĐ là mức TỔ CHỨC, cá nhân = ½ (Đ5)**. Chi tiết `references/09` mục B |
 | Nhóm hành vi | Kinh doanh xăng dầu, LPG không GCN đủ điều kiện; cửa hàng không đủ điều kiện (bồn, trụ bơm, khoảng cách, PCCC); chiết nạp LPG trái phép; chai LPG không đủ điều kiện lưu thông; không có hợp đồng với thương nhân đầu mối; niêm yết giá; đo lường (NĐ 119/2017 → GATE) |
 | Thẩm quyền (nguyên văn) | **k2 Đ55: công chức đang thi hành nhiệm vụ thanh tra, kiểm tra lĩnh vực xăng dầu, khí lập biên bản**; Đ61 QLTT: Đội trưởng 25/50 tr, Chi cục trưởng 50/100 tr + tước GP; **k2 Đ62 "Chánh Thanh tra sở" 50/100 tr, tước GP** → GĐ Sở qua k2 Đ21 NĐ 189; Chủ tịch xã 5/10 tr (→ NĐ 189: 50%); tỉnh 100/200 (dầu khí 1 tỷ/2 tỷ) |
 | Sở Công Thương | Cấp GCN đủ điều kiện (QLTM/QLNL) → công cụ thu hồi GCN; kiểm tra định kỳ PCCC cửa hàng xăng dầu, kho LPG (reference 04); vận chuyển LPG là HHNH loại 2 (reference 02) |
@@ -46,7 +46,7 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 
 | Nội dung | Quy định |
 |---|---|
-| Nghị định | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (bản gốc `van-ban-goc/thuong-mai/` chưa hợp nhất NĐ 17/2022 ⚠️) sđ **NĐ 24/2025/NĐ-CP** (hiệu lực từ ngày ký; thay Mục 9 Chương II Đ46–61 bảo vệ NTD; sửa Đ4, 17, 40, 62, 64, thẩm quyền Đ78–88); thời hiệu **02 năm**. Đ80: công chức QLTT lập biên bản; Đ82 Đội trưởng 25/50, Chi cục trưởng 50/100 tr + tước GP. Chi tiết `references/09` mục C |
+| Nghị định | **NĐ 98/2020/NĐ-CP ngày 26/8/2020** (bản gốc `van-ban-goc/thuong-mai/`) sđ **NĐ 17/2022** (Điều 3 — 52 khoản, đã đối chiếu 02/9/2026: Đ80, 81, 82, 87, 87a, 88 viết lại) và **NĐ 24/2025/NĐ-CP** (hiệu lực từ ngày ký; thay Mục 9 Chương II Đ46–61 bảo vệ NTD; sửa Đ4, 17, 40, 62, 64, thẩm quyền Đ78–88); thời hiệu **02 năm**. Đ80: công chức QLTT lập biên bản; Đ82 Đội trưởng 25/50, Chi cục trưởng 50/100 tr + tước GP. Chi tiết `references/09` mục C |
 | Khi nào QLCN gặp | Khoáng sản không nguồn gốc (reference 06); hóa chất, tiền chất không hóa đơn chứng từ; rượu, thuốc lá không phép (ATTP); phân bón, thuốc BVTV (nếu vẫn thuộc QLTT) |
 | Cách xử | Vi phạm dạng hàng hóa lưu thông → **chuyển Chi cục QLTT** kèm biên bản, bảng kê hàng hóa; QLTT lập biên bản, xử phạt theo thẩm quyền Đội trưởng/Chi cục trưởng (NĐ 189/2025 + NĐ 311/2026) |
 

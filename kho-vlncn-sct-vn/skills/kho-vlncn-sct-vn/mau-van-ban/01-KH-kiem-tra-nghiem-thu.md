@@ -4,7 +4,7 @@ Dựa trên bản đã ban hành: 1629/SCT-CN ngày 27/3/2026 (Nậm Cang 1A); 3
 
 ---
 
-UBND TỈNH LÀO CAI — **SỞ CÔNG THƯƠNG** | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập - Tự do - Hạnh phúc
+UBND TỈNH LÀO CAI — **SỞ CÔNG THƯƠNG** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do - Hạnh phúc
 
 Số:      /SCT-CN — V/v kế hoạch kiểm tra công tác nghiệm thu hoàn thành công trình xây dựng kho chứa vật liệu nổ công nghiệp của {dự án …} tại xã {…}, tỉnh Lào Cai. | Lào Cai, ngày … tháng … năm 20…
 

@@ -1,5 +1,13 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.12.0] - 02/9/2026 — rà soát tổng thể: Quốc hiệu/tiêu ngữ, Kính gửi, nơi nộp TTHC
+- **Phát hiện**: 19/23 mẫu thật trong `examples/` còn "CỘNG HOÀ" và/hoặc tiêu ngữ gạch nối "-" — Chế độ B kế thừa nguyên header nên văn bản xuất ra vi phạm quy ước cố định (HÒA + en dash), mà qa_all.py chưa bắt.
+- **Script mới `scripts/fix_quoc_hieu.py`**: chuẩn hóa chỉ trong `<w:t>` (giữ run/shape/relationships); `--check` để kiểm. Đã chạy chuẩn hóa toàn bộ `examples/` (kiểm số shape Line trước/sau giữ nguyên).
+- **qa_all.py**: thêm FAIL `QUOCHIEU` (HOÀ / gạch nối tiêu ngữ) và WARN `KINHGUI` ("Kính gửi" in đậm).
+- SKILL.md: mục Thể thức thêm quy ước Quốc hiệu/tiêu ngữ/Kính gửi; **Quy tắc bất biến 21 — nơi nộp hồ sơ TTHC** ghi `https://motcua-tthc.moit.gov.vn/` (quy ước 02/8/2026, trước đây chỉ có ở attp-sct-vn, nay đưa vào plugin gốc).
+- reference/templates-chi-tiet.md: ghi chú P0 template 07 là `CỘNG HÒA`.
+- plugin.json 2.11.0 → **2.12.0**.
+
 ## v2.10.0 — 21/8/2026 (Phong cách chuẩn mới cho công văn nội bộ phòng tham gia ý kiến + 2 mẫu vàng)
 
 Từ 2 văn bản Bạn chốt ngày 21/8/2026 (trả lời Phòng QLNL về đoạn tuyến ĐZ 110kV Âu Lâu qua CCN Bảo Hưng 2 và về hồ sơ thu hồi cát lòng hồ thủy điện Nậm Lúc):

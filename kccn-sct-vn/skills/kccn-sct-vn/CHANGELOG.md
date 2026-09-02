@@ -1,4 +1,9 @@
 # CHANGELOG
+
+## [1.22.2] - 02/9/2026 — rà soát tổng thể
+- Ref 22 (ĐTC trung hạn) dòng 388: giữ nguyên tên nguồn "giai đoạn I" nhưng chú thích hồ sơ Sở chỉ dùng "CCN Yên Hợp" (12 ha), Yên Hợp 1 là dự án độc lập — tránh dùng lại cách gọi "giai đoạn I/II" (nguyên tắc bất biến 11).
+- plugin.json 1.22.1 → **1.22.2**.
+
 ## v1.22.0 — 21/8/2026: QĐ 2978/QĐ-UBND điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bổ sung mục tiêu VSIC 3513)
 
 Bạn cung cấp bản PDF ký số ngày 21/8/2026 (số/ngày điền qua trường ký số — đã render trang thành ảnh để GATE số/ngày/người ký từ bản gốc):

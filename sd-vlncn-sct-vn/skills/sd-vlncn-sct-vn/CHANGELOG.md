@@ -1,5 +1,12 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.2] - 02/9/2026 — rà soát tổng thể, gỡ mâu thuẫn người ký GP-SCT
+- **Gỡ mâu thuẫn nội bộ về người ký Giấy phép /GP-SCT**: ref 10 mục A-bis vẫn ghi "Người ký giấy phép chưa chốt" trong khi SKILL.md (bảng thẩm quyền, anti-error 22) và CHANGELOG 26/8 đã chốt → sửa thành ĐÃ CHỐT: **KT. GIÁM ĐỐC – PGĐ Hoàng Văn Thuân**, ký hiệu `/GP-SCT` (tiền lệ Kim Thành + Đồng Tiến). Sơ đồ quy trình mục V dòng "GIÁM ĐỐC SỞ ký" ghi rõ chủ thể ban hành là Giám đốc Sở nhưng người ký thực tế là PGĐ Thuân.
+- **Description (SKILL.md + plugin.json) lỗi thời**: vẫn "Chủ tịch UBND tỉnh ký GP-UBND" → cập nhật ủy quyền QĐ 2867, từ khóa GP-SCT; rút gọn SKILL.md description 1003 ký tự (≤1024), plugin.json 467 (≤500).
+- Mục I dòng 1: "dự thảo Giấy phép (GP-UBND)" → `/GP-SCT` (hồ sơ nhận trước 20/8/2026 mới dùng GP-UBND). Bỏ chữ "dự kiến" ở ký hiệu `/GP-SCT`.
+- Ref 07 tiêu đề mục A: bổ sung mốc 20/8/2026.
+- plugin.json 2026.8.28 → **2026.9.2**.
+
 ## [2026.8.28] - 28/8/2026
 - **Vụ Mông Sơn giai đoạn 3 — DN nộp lại 28/8/2026, bộ trình cấp GP /GP-SCT đầu tiên cho MỎ theo ủy quyền QĐ 2867**:
   - ⭐ **Anti-error 15 chốt lại (PTP Trang 28/8)**: GP ghi GỘP cả THUỐC NỔ và KÍP NỔ theo nhóm, chủng loại liệt kê trong ngoặc — kể cả khi CV thẩm định trước đó (CV 4378 mục 3) từng yêu cầu tách; số liệu tách theo chủng loại lưu tại PANM + hồ sơ thẩm định, không đưa vào GP.

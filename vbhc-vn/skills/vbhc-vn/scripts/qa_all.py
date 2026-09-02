@@ -8,7 +8,8 @@ mỗi thứ một lượt tool và render PDF trùng lặp.
 Một lệnh duy nhất làm trọn:
   1. Kiểm XML không cần render: Line header, 13pt dòng Số/Ngày (từ qa_pdf_check),
      <w:br/> trong header (Quy tắc bất biến 10), đoạn body căn giữa / thiếu
-     firstLine 1cm (WARN — bài học Chế độ B).
+     firstLine 1cm (WARN — bài học Chế độ B); Quốc hiệu "CỘNG HÒA" + tiêu ngữ en dash (FAIL);
+     "Kính gửi" không đậm (WARN).
   2. check_document.py: VBQPPL hết hiệu lực, từ suy đoán, số văn bản đáng ngờ.
   3. Render PDF ĐÚNG MỘT LẦN (profile soffice ấm — nhanh hơn từ lần chạy 2)
      rồi dùng lại cho: widow word + khối ký gãy trang (qa_pdf_check),
@@ -99,6 +100,36 @@ def check_body_format(docx_path: Path):
                          f"'{text[:50]}…'")
         elif fl is not None and 0 < int(fl.twips if hasattr(fl, 'twips') else fl) < CM1_EMU_TWIPS - 30:
             warns.append(f"P{i} firstLine < 1cm: '{text[:50]}…'")
+    return warns
+
+
+def check_quoc_hieu_tieu_ngu(docx_path: Path):
+    """FAIL (quy ước cố định của Bạn): Quốc hiệu phải là "CỘNG HÒA" (không "HOÀ");
+    tiêu ngữ dùng en dash "Độc lập – Tự do – Hạnh phúc" (không gạch nối "-").
+    Sửa nhanh: python3 scripts/fix_quoc_hieu.py <file.docx>"""
+    import re
+    issues = []
+    text = _docx_all_text_nfc(docx_path)
+    if re.search(r"CỘNG\s+HOÀ", text):
+        issues.append('Quốc hiệu viết "CỘNG HOÀ" — phải là "CỘNG HÒA" (chạy scripts/fix_quoc_hieu.py)')
+    if re.search(r"Độc\s+lập\s*-\s*Tự\s+do", text):
+        issues.append('Tiêu ngữ dùng gạch nối "-" — phải là en dash "Độc lập – Tự do – Hạnh phúc" '
+                      "(chạy scripts/fix_quoc_hieu.py)")
+    return issues
+
+
+def check_kinh_gui_bold(docx_path: Path):
+    """WARN: dòng "Kính gửi:" KHÔNG in đậm (quy ước cố định). Ngoại lệ: Phiếu trình UBND (mẫu riêng)."""
+    import unicodedata
+    warns = []
+    doc = Document(str(docx_path))
+    for i, p in enumerate(doc.paragraphs):
+        t = unicodedata.normalize("NFC", p.text.strip())
+        if not t.startswith("Kính gửi"):
+            continue
+        if any(r.bold for r in p.runs if r.text.strip()) or (p.style is not None and p.style.font.bold):
+            warns.append(f'P{i} "Kính gửi" đang in ĐẬM — quy ước: không đậm (bỏ <w:b/> trên run)')
+        break
     return warns
 
 
@@ -225,6 +256,10 @@ def main():
         fails.append(("HDR-BR", msg))
     for msg in check_body_format(docx_path):
         warns.append(("BODY", msg))
+    for msg in check_quoc_hieu_tieu_ngu(docx_path):
+        fails.append(("QUOCHIEU", msg))
+    for msg in check_kinh_gui_bold(docx_path):
+        warns.append(("KINHGUI", msg))
     if forbid_list or require_list:
         for msg in check_content_lists(docx_path, forbid_list, require_list):
             fails.append(("CONTENT", msg))

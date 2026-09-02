@@ -60,7 +60,7 @@ Ngoài ra 02 tuyến đường nội bộ KCN Tằng Loỏng (T2, T12, T19) đư
 
 | # | Dự án | Địa điểm | QĐ | TMĐT | Lũy kế | Phân bổ kỳ này | XDCB | SDĐ |
 |---|---|---|---|---|---|---|---|---|
-| 388 | Hạ tầng kỹ thuật **CCN Yên Hợp** (giai đoạn I) | **Xã Xuân Ái** | 1160/QĐ-UBND 03/6/2025 | 50.000 | 18.000 | **30.000** | 5.000 | 25.000 |
+| 388 | Hạ tầng kỹ thuật **CCN Yên Hợp** (nguồn ghi "giai đoạn I" — hồ sơ Sở chỉ dùng "CCN Yên Hợp", 12 ha; Yên Hợp 1 là dự án độc lập, xem ref 12) | **Xã Xuân Ái** | 1160/QĐ-UBND 03/6/2025 | 50.000 | 18.000 | **30.000** | 5.000 | 25.000 |
 | 389 | Quy hoạch chi tiết xây dựng **CCN Yên Hợp** | **Xã Xuân Ái** | 5281/UBND-XD 21/11/2024 | 2.423 | 0 | **2.423** | 1.700 | 723 |
 | 384 | Tiểu dự án GPMB và xây dựng HTKT **CCN Bắc Văn Yên** | Xã Mậu A | 509/QĐ-UBND 07/4/2023; 2198/QĐ-UBND 24/11/2023; 718/QĐ-UBND 06/4/2025 | 50.000 | 43.800 | **5.000** | 0 | 5.000 |
 | 383 | Mở rộng **CCN Âu Lâu** | Phường Âu Lâu | 3820/QĐ-UBND 31/10/2019 | 97.000 | 50.860 | **40.000** | 15.000 | 25.000 |

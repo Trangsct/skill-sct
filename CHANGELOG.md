@@ -1,5 +1,15 @@
 # Nhật ký thay đổi bộ skill
 
+## 02/9/2026 — RÀ SOÁT TỔNG THỂ 20 plugin: sd-vlncn 2026.9.2, vbhc-vn 2.12.0, kho 1.10.2, hl 1.4.1, hnh 1.8.4, kccn 1.22.2 — marketplace 4.11.14
+Rà lại toàn bộ lịch sử tạo/nâng cấp plugin (5/2026–9/2026) và quét chéo 20 plugin về cấu trúc, link tham chiếu, dữ kiện dễ lỗi thời. Kết quả kỹ thuật: marketplace khớp 20/20, description trong ngưỡng, không có link references/ gãy thật (các "gãy" là trỏ chéo sang plugin khác). Lỗi nội dung đã sửa:
+- **Thẩm quyền GP sử dụng VLNCN sau QĐ 2867/QĐ-UBND (20/8/2026)**: sd-vlncn còn tự mâu thuẫn người ký (ref 10 "chưa chốt" ↔ SKILL "đã chốt PGĐ Thuân"), description vẫn "Chủ tịch UBND tỉnh ký GP-UBND"; kho-vlncn SKILL.md mục II còn câu "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký"; hl-vlncn mẫu 12 còn `…/GP-UBND`. Thống nhất: Sở cấp `/GP-SCT`, KT. GĐ – PGĐ Hoàng Văn Thuân ký; thu hồi GP và phê duyệt PANM vẫn UBND tỉnh.
+- **Nơi nộp hồ sơ TTHC**: hnh ref 14/16 và hl ref 04 còn ghi Trung tâm PVHCC/Cổng DVCQG là đầu mối — trái quy ước cố định 02/8/2026. Thống nhất https://motcua-tthc.moit.gov.vn/ và đưa thành Quy tắc bất biến 21 của vbhc-vn.
+- **Quốc hiệu/tiêu ngữ**: 19/23 mẫu thật trong vbhc-vn/examples còn "CỘNG HOÀ"/gạch nối → chuẩn hóa bằng script mới `fix_quoc_hieu.py`; qa_all.py thêm kiểm QUOCHIEU (FAIL) và KINHGUI (WARN). kho-vlncn mẫu 01/02 cùng lỗi.
+- Chuyên viên lưu ký: hl-vlncn mẫu 01 còn ghi chú CN(M.Cường) → CN(Khôi) từ 10/7/2026.
+- kccn ref 22: chú thích "CCN Yên Hợp (giai đoạn I)" là cách gọi của nguồn, hồ sơ Sở không dùng.
+
+Việc tồn (chưa sửa, cần Bạn quyết): (1) xp-hc-vlncn-sct-vn đã được xp-sct-vn kế thừa toàn bộ — nên gỡ khỏi máy để tránh kích hoạt trùng; (2) SKILL.md của sd-vlncn (46k), hnh (44k), sct-laocai-org (42k), vbhc-vn (41k ký tự) quá dài, nạp toàn bộ vào context mỗi lần kích hoạt — nên tách bớt xuống references; (3) 6 plugin chưa có CHANGELOG trong thư mục skill (bpb, hc, pccc, sct-laocai-org, vbhc-pdf-reader, xd).
+
 ## 01/9/2026 — xp-sct-vn v1.2.0: 11 bản gốc 8 nhánh — Sở CT có thẩm quyền khoáng sản (Đ65 NĐ 36/2020), môi trường chỉ Đ45–46, đầu tư thời hiệu 01 năm
 
 Reference 09 mới đối chiếu nguyên văn NĐ 133/2026, 99/2020, 98/2020 + 24/2025, 36/2020, 45/2022, 123/2024 + 281/2026, 16/2022, 122/2021 + 288/2026. Sửa 8 nhận định (thời hiệu đầu tư 01 năm; Điều 65 NĐ 36/2020 trao thẩm quyền khoáng sản cho thanh tra công thương; Điều 68 NĐ 45/2022 giới hạn Sở CT ở Đ45–46; NĐ 281 nâng xã lên 250 tr; NĐ 133 GĐ Sở 80/160 tr; NĐ 99 mức tổ chức; ai lập biên bản theo từng nghị định).

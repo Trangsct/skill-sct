@@ -22,7 +22,7 @@ có sử dụng VLNCN trên địa bàn tỉnh, gồm: …, kết quả như sau
 
 I. KẾT QUẢ KIỂM TRA
 1. Đối với [Đơn vị 1]:
-1.1. Hồ sơ pháp lý liên quan: GP sử dụng VLNCN số …/GP-UBND ngày … (thời hạn, tổng khối
+1.1. Hồ sơ pháp lý liên quan: GP sử dụng VLNCN số …/GP-SCT (từ 20/8/2026; GP cấp trước đó: …/GP-UBND) ngày … (thời hạn, tổng khối
 lượng, Qmax); Thông báo nổ mìn số …; Phương án nổ mìn (thông số cơ bản); hộ chiếu nổ mìn;
 hợp đồng mua bán, vận chuyển VLNCN; QĐ bổ nhiệm chỉ huy nổ mìn; DANH SÁCH NGƯỜI TIẾP XÚC
 VLNCN VÀ GCN HUẤN LUYỆN KTAT (số, ngày cấp, hết hạn, đối tượng — đối chiếu Đ5 NĐ 181).

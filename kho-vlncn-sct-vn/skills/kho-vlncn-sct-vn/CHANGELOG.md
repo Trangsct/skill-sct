@@ -1,5 +1,10 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.10.2] - 02/9/2026 — rà soát tổng thể
+- SKILL.md mục II (QĐ 1883): câu "GP sử dụng vẫn do Chủ tịch UBND tỉnh ký /GP-UBND" đã lỗi thời từ 20/8/2026 → sửa: ủy quyền cấp GP tại QĐ 2867/QĐ-UBND, `/GP-SCT`, PGĐ Thuân ký (mục IV và ref 01 đã đúng, chỉ dòng này sót).
+- Mẫu 01, 02: Quốc hiệu "CỘNG HOÀ" → "CỘNG HÒA", tiêu ngữ dùng en dash (quy ước cố định).
+- plugin.json 1.10.1 → **1.10.2**.
+
 ## [1.7.1] - 19/8/2026 (bổ sung — Phụ lục QĐ 2867)
 - Phụ lục QĐ 2867 (bản trình) chốt phạm vi: **từ 20/8/2026 GP sử dụng VLNCN do GĐ SCT ký theo ủy quyền** (cấp/cấp lại/cấp điều chỉnh; không gồm phê duyệt PANM, GCN sản xuất TCTN, GCN huấn luyện). Gỡ cảnh báo "chưa rõ người ký": SKILL.md mục IV, ref 01 mục IV, ref 07 (thẩm quyền GP sử dụng).
 

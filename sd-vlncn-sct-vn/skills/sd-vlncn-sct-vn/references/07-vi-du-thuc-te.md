@@ -2,7 +2,7 @@
 
 > Các file .docx là văn bản thật của Lào Cai 2025–2026, dùng làm CHUẨN THỂ THỨC (Chế độ B vbhc-vn). Số/ngày trong file có thể để trống hoặc thuộc vụ việc cũ — khi tái sử dụng phải thay toàn bộ thông tin vụ việc, KHÔNG để sót nội dung cũ.
 
-## A. GIẤY PHÉP SỬ DỤNG VLNCN (Chủ tịch UBND tỉnh ký, /GP-UBND)
+## A. GIẤY PHÉP SỬ DỤNG VLNCN (đến 19/8/2026: Chủ tịch UBND tỉnh ký `/GP-UBND`; từ 20/8/2026: Sở cấp theo ủy quyền QĐ 2867, KT. GĐ – PGĐ Hoàng Văn Thuân ký `/GP-SCT`)
 
 | File | Vụ việc | Điểm đáng học |
 |---|---|---|

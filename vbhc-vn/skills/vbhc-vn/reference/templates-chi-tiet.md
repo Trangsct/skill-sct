@@ -59,7 +59,7 @@
 
 ### 07-giay-chung-nhan-attp.docx (Giấy chứng nhận ATTP)
 - **KHÔNG có Table header** — Quốc hiệu là paragraph trực tiếp căn giữa
-- **Paragraphs đầu**: P0=`CỘNG HOÀ...`, P1=`Độc lập...`, P3=`GIẤY CHỨNG NHẬN`, P4=`CƠ SỞ ĐỦ ĐIỀU KIỆN ATTP`, P6=`SỞ CÔNG THƯƠNG TỈNH LÀO CAI`, P7=`CHỨNG NHẬN`
+- **Paragraphs đầu**: P0=`CỘNG HÒA...`, P1=`Độc lập...`, P3=`GIẤY CHỨNG NHẬN`, P4=`CƠ SỞ ĐỦ ĐIỀU KIỆN ATTP`, P6=`SỞ CÔNG THƯƠNG TỈNH LÀO CAI`, P7=`CHỨNG NHẬN`
 - Tiếp theo: thông tin cơ sở (tên, loại hình, chủ, địa chỉ, điện thoại)
 - `ĐỦ ĐIỀU KIỆN AN TOÀN THỰC PHẨM THEO QUY ĐỊNH`
 - Bảng chữ ký (cell trái trống, cell phải có `Lào Cai, ngày...` + `KT. GĐ - PGĐ`)

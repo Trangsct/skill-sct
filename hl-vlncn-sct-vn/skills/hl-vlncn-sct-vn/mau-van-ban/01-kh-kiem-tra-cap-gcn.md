@@ -74,4 +74,4 @@ Nơi nhận:                                      KT. GIÁM ĐỐC
 - Lưu: VT, CN(…).                              Hoàng Văn Thuân
 ```
 
-Ghi chú: Lưu CN theo người trực tiếp tham mưu (thực tiễn 2026: CN(M.Cường)); xác nhận với Bạn.
+Ghi chú: Lưu CN theo người trực tiếp tham mưu — từ 10/7/2026 mặc định CN(Khôi) (Trần Đăng Khôi, chuyên viên VLNCN); văn bản trước đó có thể là CN(M.Cường)/CN(Linh), không sửa lại lịch sử.

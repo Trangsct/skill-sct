@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.13"
+    "version": "4.11.14"
   },
   "plugins": [
     {
@@ -42,25 +42,25 @@
       "name": "hl-vlncn-sct-vn",
       "source": "./hl-vlncn-sct-vn",
       "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP.",
-      "version": "1.4.0"
+      "version": "1.4.1"
     },
     {
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
       "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND 14/8/2026 (ủy quyền bổ sung loại 5, 8 đến 31/12/2030). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit ăn mòn, ISO tank); chuyên sâu xuyên biên giới Việt - Trung.",
-      "version": "1.8.3"
+      "version": "1.8.4"
     },
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
       "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm lựa chọn chủ đầu tư (thang 100); điều kiện khởi công; Hội đồng thẩm định quy hoạch KCN; tra QĐ 525 quy hoạch tỉnh, QĐ 1382, QĐ 2390/2026, NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc, bộ theo dõi tiến độ, ví dụ thực tế.",
-      "version": "1.22.1"
+      "version": "1.22.2"
     },
     {
       "name": "kho-vlncn-sct-vn",
       "source": "./kho-vlncn-sct-vn",
       "description": "Kho vat lieu no cong nghiep (VLNCN), So Cong Thuong Lao Cai. PHAN LUONG 4 truong hop (ref 11): kho co dinh xay moi (co KTCTNT) - kho tam (MIEN KTCTNT tu 01/7/2026, loai tru k1 D25 ND 207/2026, chuyen tiep k3 D53) - kho hien huu (kiem dinh theo D34, D36 ND 207/2026) - thue kho. Cap cong trinh TT 34/2026: khong co kho cap III/IV. Nghiem thu PCCC tu to chuc theo NQ 66.18/2026. Kem mau van ban, van ban goc, case Dong Tien, Toan Kim Son, Mong Son.",
-      "version": "1.10.1"
+      "version": "1.10.2"
     },
     {
       "name": "pccc-sct-vn",
@@ -89,8 +89,8 @@
     {
       "name": "sd-vlncn-sct-vn",
       "source": "./sd-vlncn-sct-vn",
-      "description": "Giay phep su dung VLNCN va Phuong an no min (PANM) - So Cong Thuong tinh Lao Cai: tham dinh cap/dieu chinh/cap lai/thu hoi GP su dung VLNCN, tham dinh PANM trinh Chu tich UBND tinh, ban do tham quyen UBND cap tinh va So Cong Thuong, huong dan doanh nghiep, kiem tra - xu phat, bao cao. Cap nhat Luat 118/2025 va VBHN 78/VBHN-VPQH.",
-      "version": "2026.8.28"
+      "description": "Giay phep su dung VLNCN va Phuong an no min (PANM) - So Cong Thuong tinh Lao Cai: tham dinh cap/dieu chinh/cap lai/thu hoi GP su dung VLNCN (tu 20/8/2026 So cap theo uy quyen QD 2867/QD-UBND, ky hieu GP-SCT, PGD Hoang Van Thuan ky; truoc do GP-UBND), tham dinh PANM trinh Chu tich UBND tinh, ban do tham quyen UBND cap tinh va So Cong Thuong, huong dan doanh nghiep, kiem tra - xu phat theo ND 275/2026, bao cao. Cap nhat Luat 118/2025, TT 26/2026, VBHN 78/VBHN-VPQH.",
+      "version": "2026.9.2"
     },
     {
       "name": "tkm-sct-vn",
@@ -108,7 +108,7 @@
       "name": "vbhc-vn",
       "source": "./vbhc-vn",
       "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản cấp UBND tỉnh/VP do Sở dự thảo. 9 template trắng + 23 mẫu thật, Chế độ A (dựng từ template) / B (sửa file gốc), 10 nhóm anti-error A-J, QA một phát qa_all.py (--forbid/--require, audit keepNext), đọc metadata PDF công văn đến bằng extract_metadata.py. Dùng khi soạn/sửa/rà soát/chuyển thể VBHC hoặc sửa lỗi trình bày file Word.",
-      "version": "2.11.0"
+      "version": "2.12.0"
     },
     {
       "name": "xd-sct-vn",

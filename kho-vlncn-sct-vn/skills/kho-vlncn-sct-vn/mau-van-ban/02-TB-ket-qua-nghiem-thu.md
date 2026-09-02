@@ -4,7 +4,7 @@ Dựa trên: 1732/TB-SCT ngày 02/4/2026 (Nậm Cang 1A); TB Móng Sến 1 (6/20
 
 ---
 
-UBND TỈNH LÀO CAI — **SỞ CÔNG THƯƠNG** | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập - Tự do - Hạnh phúc
+UBND TỈNH LÀO CAI — **SỞ CÔNG THƯƠNG** | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do - Hạnh phúc
 
 Số:      /TB-SCT | Lào Cai, ngày … tháng … năm 20…
 

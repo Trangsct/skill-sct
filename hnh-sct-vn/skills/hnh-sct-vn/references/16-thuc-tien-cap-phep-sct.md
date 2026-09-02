@@ -110,8 +110,8 @@ Trong công văn hướng dẫn hoàn thiện/trả hồ sơ, TUYỆT ĐỐI kh�
 
 **Quy tắc B - KHÔNG viết câu "đề nghị liên hệ Phòng Quản lý Công nghiệp ... để được hướng dẫn".**
 Câu này dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, tiếp xúc riêng với doanh nghiệp. BỎ HẲN đoạn kết dạng "Trong quá trình hoàn thiện hồ sơ, nếu có vướng mắc, đề nghị liên hệ Phòng ... để được hướng dẫn./."
-- Kết thúc công văn ngay tại đoạn đề nghị nộp lại hồ sơ, gắn "./." vào cuối đoạn đó: "Đề nghị [tên DN] rà soát, hoàn thiện các nội dung nêu trên và gửi hồ sơ về Sở Công Thương tỉnh Lào Cai (qua Trung tâm Phục vụ hành chính công tỉnh) để được xem xét, giải quyết theo quy định./."
-- Áp dụng cho MỌI công văn gửi doanh nghiệp, không riêng HHNH. Đầu mối tiếp nhận duy nhất ghi trong văn bản là **Trung tâm Phục vụ hành chính công tỉnh**.
+- Kết thúc công văn ngay tại đoạn đề nghị nộp lại hồ sơ, gắn "./." vào cuối đoạn đó: "Đề nghị [tên DN] rà soát, hoàn thiện các nội dung nêu trên và nộp lại hồ sơ trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (hoặc qua Trung tâm Phục vụ hành chính công tỉnh) để được xem xét, giải quyết theo quy định./."
+- Áp dụng cho MỌI công văn gửi doanh nghiệp, không riêng HHNH. Nơi nộp hồ sơ ghi trong văn bản là **Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/** (quy ước cố định của Bạn từ 02/8/2026, áp dụng mọi TTHC; Trung tâm Phục vụ hành chính công tỉnh chỉ nêu là kênh phụ, KHÔNG ghi "Cổng DVCQG" hay "Hệ thống TTGQ TTHC tỉnh").
 - Mẫu cũ `CV-hoan-thien-bo-sung-chung-2-bo-ho-so.docx` còn câu này - khi dùng lại mẫu phải XÓA.
 
 ### 7.2. Bài học chuyên môn: đối chiếu MÔI CHẤT của bồn với hàng đề nghị cấp phép

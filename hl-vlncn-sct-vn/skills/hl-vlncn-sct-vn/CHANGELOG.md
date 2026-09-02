@@ -1,5 +1,11 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## [1.4.1] - 02/9/2026 — rà soát tổng thể
+- Mẫu 12: số GP sử dụng VLNCN ghi `…/GP-SCT` (từ 20/8/2026; GP cũ `…/GP-UBND`).
+- Mẫu 01: dòng Lưu mặc định CN(Khôi) từ 10/7/2026 thay ghi chú CN(M.Cường) cũ.
+- Ref 04 bước 2 (nơi nộp hồ sơ): thống nhất quy ước cố định — Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/, không ghi chung "Cổng DVCQG"/"Hệ thống TTGQ TTHC tỉnh".
+- plugin.json 1.4.0 → **1.4.1**.
+
 ## [1.4.0] - 29/8/2026 (CV 1198/ATMT-ATKV — hướng dẫn nghiệp vụ Cục ATMT)
 - Bạn cung cấp ảnh chụp **CV 1198/ATMT-ATKV ngày 21/7/2025** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Cục trưởng Phạm Tuấn Anh ký) trả lời SCT Lai Châu — GATE metadata từ ảnh. 3 nội dung: (1) GCN huấn luyện **thuộc quản lý của DN đề nghị cấp** (k2 Đ8 NĐ 181/2024); (2) NLĐ ký **nhiều HĐLĐ bán thời gian → từng DN phải tự huấn luyện + đề nghị cấp GCN riêng** (Đ19 BLLĐ), không dùng chung GCN giữa các DN; (3) thông báo sử dụng VLNCN với UBND tỉnh/xã — luật **không buộc UBND tỉnh kiểm tra điều kiện** đối với nội dung thông báo.
 - Lưu `van-ban-goc/` (trích lục .md + ảnh .jpg), cập nhật INDEX; thêm ref `01` mục **C-quater**; FAQ 11 (ref `04`); khung pháp lý mục 11 + **anti-error 13** (phân biệt "giá trị toàn quốc" k5 Đ9 với việc dùng chung GCN giữa các DN) tại SKILL.md; bổ sung từ khóa description; plugin.json → 1.4.0.

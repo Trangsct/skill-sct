@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.4.1 — 02/9/2026
+- Rút description plugin.json về ≤500 ký tự (1.4.0 để 561, vi phạm giới hạn CI).
+
 ## 1.4.0 — 02/9/2026
 ## Việc 4: nạp Luật 88/2025, NĐ 118/2021 + Phụ lục biểu mẫu vào trục chung
 - **Bản gốc mới (`van-ban-goc/chung/`)**: Luật 88/2025/QH15 (docx + scan có dấu 18 trang), NĐ 118/2021/NĐ-CP bản gốc (chưa hợp nhất NĐ 68/2025, 190/2025), Phụ lục biểu mẫu NĐ 118 (42 mẫu MQĐ, 30 mẫu MBB).

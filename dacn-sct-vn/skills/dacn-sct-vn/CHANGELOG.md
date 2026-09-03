@@ -1,5 +1,56 @@
 # CHANGELOG — dacn-sct-vn
 
+## v1.4.0 — 03/9/2026 (nạp danh mục dự án SXCN dự kiến hoàn thành, vận hành năm 2026)
+
+**Nguồn:** File `1. Các DA SXCN dự kiến hoàn thành năm 2026.docx` do Bạn cung cấp ngày 03/9/2026 (3 trang, 1.311 từ), tiêu đề bản gốc "CÁC DỰ ÁN SXCN DỰ KIẾN HOÀN THÀNH ĐI VOÀ SẢN XUẤT NĂM 2026", ghi kỳ "(Tháng 9/2026)".
+
+> ⚠️ **Tài liệu KHÔNG có số, ngày, cơ quan ban hành, người ký** — là bản tổng hợp/dự thảo phục vụ điều hành, không phải văn bản đã phát hành. GATE viện dẫn đã ghi ở đầu reference `10` và trường `_gate_vien_dan` của file JSON.
+
+### Thêm mới
+- `references/10-du-an-hoan-thanh-2026.md` — danh mục đầy đủ theo 05 nhóm a-đ của bản gốc:
+  - **Nhóm a) 08 dự án chế biến** kèm công suất, chủ đầu tư, địa điểm, mốc, đóng góp dự kiến và bảng *việc phải làm ↔ cơ quan chịu trách nhiệm*. Sở Công Thương trực tiếp chủ trì 02/08 đầu việc (cấp phép hóa chất Triều Dương, Đức Giang).
+  - **Nhóm b) khoáng sản**: mỏ sắt Quý Xa (5 triệu tấn/năm, 284 tỷ đồng — Sở Công Thương chủ trì, chạm 03 plugin `tkm-sct-vn`, `qlks-sct-vn`, `sd-vlncn-sct-vn`); khai trường apatit 24, 25, 19b; mỏ đồng Sin Quyền, Vi Kẽm, Tả Phời; các mỏ và nhà máy tuyển sắt đang tạm dừng.
+  - **Nhóm c) 09 KCN** tách đúng hai Ban theo nguyên tắc bất biến số 6: 05 KCN đã có CTĐT (Bản Qua, Phú Xuân, Phú Xuân 1, Võ Lao, Cam Đường — Ban Quản lý Khu kinh tế tỉnh) và 04 KCN đang lập quy hoạch phân khu (Việt Hồng 1, Việt Hồng 2, Y Can, Đông An — Ban Quản lý các Khu công nghiệp tỉnh).
+  - **Nhóm d) 14 lượt CCN** chia 05 nhóm đầu việc; Sở Công Thương chủ trì 04/05 nhóm — mảng nặng nhất của Sở trong tài liệu.
+  - **Nhóm đ) năng lượng**: 04 công trình lưới điện, 04 thủy điện (Nậm Khoá 1-2, Hồ Bốn 2, Si Ma Cai, Lán Bò — 27 tỷ đồng), dự án cấp điện nông thôn do Sở Công Thương làm chủ đầu tư.
+  - **Bảng gắn dự án ↔ chỉ tiêu NQ 169** (do plugin lập theo reference `03` mục V) và mục *giá trị sử dụng* của tài liệu.
+- `du-lieu/du-an-hoan-thanh-2026.json` — bản máy đọc, mỗi mục đã gắn mã nhóm (ref `03`) và chỉ tiêu tác động. **Tách riêng khỏi `danh-muc-du-an.json`** vì khác nguồn và khác cấu trúc.
+
+### Tổng hợp số
+| Nhóm | Đóng góp dự kiến cộng dồn được |
+|---|---|
+| a) 07/08 dự án chế biến (loại trừ Quế Hồi Việt Nam) | 344,6 tỷ đồng |
+| b) Mỏ sắt Quý Xa | 284 tỷ đồng |
+| đ) 04 thủy điện | 27 tỷ đồng |
+| **Tổng** | **655,6 tỷ đồng** |
+
+Bản gốc **không có dòng tổng cộng** — con số 655,6 tỷ là do plugin cộng dồn, đã ghi rõ phạm vi tại reference và JSON.
+
+### 11 cảnh báo bản gốc đã ghi nhận (KHÔNG tự sửa)
+1. Không có số, ngày, cơ quan ban hành, người ký → cấm viện dẫn dạng "theo Văn bản số ... ngày ...".
+2. Lỗi chính tả tiêu đề "ĐI VOÀ SẢN XUẤT" → đúng là "ĐI VÀO".
+3. ⚠️ **Đóng góp của Nhà máy quế hữu cơ Bảo Thắng ghi 4.343 tỷ đồng** — lớn hơn tổng 09 dự án còn lại 6,6 lần, không phù hợp quy mô (dây chuyền sấy, tháp chưng cất); nhiều khả năng là 4,343 tỷ. **Đã loại khỏi mọi số tổng, chờ Bạn xác nhận.**
+4. Lỗi bố cục: tiêu đề "b) Nhóm dự án khai thác, chế biến khoáng sản" dính vào cuối gạch đầu dòng dự án axit điện tử Đức Giang.
+5. ⚠️ **04 mốc đã quá hạn tại thời điểm lập**: tài liệu ghi kỳ tháng 9/2026 nhưng để mốc tháng 8/2026 cho tuyển apatit Tam Đỉnh, mỏ sắt Quý Xa, khởi công KCN Cam Đường; mốc đầu tháng 9/2026 cho quế hữu cơ Bảo Thắng.
+6. **Dồn 07 đầu việc vào mốc quý III/2026** (hết 30/9) — rủi ro trượt tiến độ tập trung rất cao trong tháng 9; cần rà từng đầu việc trước ngày 20/9 để kịp kỳ báo cáo.
+7. Diện tích CCN Yên Hợp 2 ghi 75 ha — đối chiếu hồ sơ thẩm định tại `kccn-sct-vn`; không nhầm với CCN Yên Hợp (12 ha, QĐ 2201/2024) và CCN Yên Hợp 1 (63 ha) cùng tại xã Xuân Ái.
+8. Công suất Nhà máy xử lý chất thải Việt Sơn 720.000 tấn/năm rất lớn — đối chiếu quyết định phê duyệt ĐTM trước khi trích.
+9. Không ghi đóng góp bằng tiền ≠ đóng góp bằng 0 — để trống, không điền số 0.
+10. Địa điểm Nhà máy quế hữu cơ Bảo Thắng không ghi xã/phường — không suy đoán từ tên "Bảo Thắng".
+11. Hai số văn bản dẫn chiếu trong nhóm năng lượng (**1599/UBND-KT ngày 06/3/2026**, **2182/QĐ-UBND ngày 23/6/2026**) lấy nguyên văn bản gốc, **chưa đối chiếu bản scan có dấu** — phải chạy GATE trước khi viện dẫn.
+
+### Phát hiện nghiệp vụ đáng chú ý
+- **Ba nguồn cùng chỉ về một nút thắt**: rủi ro nguồn cung quặng apatit tại reference `08` (hai đầu mối apatit đăng ký sản lượng 2027 bằng 0), phân bón giảm sâu tại reference `09` (NPK −72,65%, MAP −57,41%) và nhóm khai trường 24, 25, 19b tại reference `10` → **GPMB và thuê đất khai trường apatit** là điểm nghẽn số 1 của chỉ tiêu 3 và 4.
+- Tài liệu này chính là **danh mục giải pháp bù đắp** cho khoảng hụt 3,88 điểm % của chỉ tiêu 3 (IIP 6 tháng 9,12% / mục tiêu 13% — reference `09`).
+- Mỗi dòng đã có sẵn *ai làm gì, hạn nào* → dùng trực tiếp cho `mau-van-ban/02` (công văn đôn đốc) mà không phải dựng lại.
+
+### Cập nhật
+- `SKILL.md`: thêm nghiệp vụ (10); thêm reference `10` và file JSON mới vào hai bảng tra; **bảng phạm vi dữ liệu từ 02 lên 03 nguồn**, ghi rõ reference `10` chỉ có mốc và đóng góp dự kiến, không có hồ sơ dự án đầy đủ; GATE Bước 1 bổ sung quy tắc dùng reference `10`; description làm lại còn 1.000 ký tự.
+- `.claude-plugin/plugin.json`: version → **1.4.0**; bổ sung keywords `du-an-hoan-thanh-2026`, `quy-xa`, `thuy-dien`, `tram-bien-ap`.
+
+### Lưu ý vận hành
+Toàn bộ mốc và số đóng góp là **DỰ KIẾN tại thời điểm tháng 9/2026**. Trước mỗi kỳ báo cáo phải xác nhận với chủ đầu tư và cơ quan chủ trì xem dự án **đã vận hành thực tế chưa**; dự án chưa vận hành thì đưa vào mục điểm nghẽn, không tính vào chỉ tiêu sản lượng và IIP.
+
 ## [1.3.2] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
 - Sửa các vi phạm do script quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
 

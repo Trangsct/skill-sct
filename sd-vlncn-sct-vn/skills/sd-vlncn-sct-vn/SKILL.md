@@ -12,7 +12,8 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Cấp / cấp lại / cấp điều chỉnh / thu hồi Giấy phép sử dụng VLNCN**: thẩm định hồ sơ doanh nghiệp, checklist, Phiếu trình PGĐ, dự thảo Giấy phép `/GP-SCT` (hồ sơ nhận trước 20/8/2026: Tờ trình UBND tỉnh + GP-UBND), dự thảo QĐ điều chỉnh → reference `02` + mẫu 01–06.
 - **Phương án nổ mìn (PANM)**: xác định có phải trình UBND tỉnh phê duyệt không (cây quyết định); thẩm định nội dung theo Phụ lục VII TT 23/2024 và QCVN 01:2019/BCT; kiểm tra hiện trường; lấy ý kiến Sở Xây dựng; Tờ trình + dự thảo QĐ phê duyệt PANM (kèm/không kèm chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ) → reference `03` + mẫu 07–11.
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
-- **Soạn/chỉnh KHUNG PHƯƠNG ÁN NỔ MÌN cho doanh nghiệp** (lộ thiên gần khu dân cư hoặc hầm lò) → **mẫu 22** + 2 khung docx `vi-du-thuc-te/PANM-Manh-Chien-...-23.8.2026.docx` (lộ thiên, diện điểm d k2 Đ38, chữ đỏ = chỗ chờ đo đạc) và `PANM-Kim-Thanh-...-21.8.2026.docx` (hầm lò, tự phê duyệt).
+- **Soạn/chỉnh KHUNG PHƯƠNG ÁN NỔ MÌN cho doanh nghiệp** (lộ thiên gần khu dân cư hoặc hầm lò) → **mẫu 22** (có checklist Phụ lục VII) + khung docx `vi-du-thuc-te/PANM-Manh-Chien-...-23.8.2026.docx` (lộ thiên, diện điểm d k2 Đ38, chữ đỏ = chỗ chờ đo đạc) và ⭐ `PANM-Thinh-Dat-...-ham-lo-ban-chuan-3.9.2026.docx` (hầm lò, tự phê duyệt, đã rà đủ Phụ lục VII — thay khung Kim Thành 21/8).
+- **Soạn/đối chiếu GIẤY ĐỀ NGHỊ cấp/cấp lại/cấp điều chỉnh GP sử dụng VLNCN** → **mẫu 24 = Mẫu số 04 Phụ lục III TT 23/2024** (KHÔNG phải Mẫu 03; Mẫu 04 không bị TT 26/2026 sửa) + khung `vi-du-thuc-te/Giay-de-nghi-Mau-04-...-Thinh-Dat-ban-chuan-3.9.2026.docx`; anti-error 25.
 - **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** (giao nhiệm vụ SCT, Công an tỉnh, Bộ CHQS tỉnh, các sở, UBND xã; yêu cầu DN) → **mẫu 23** + 2 khung docx `vi-du-thuc-te/*-ban-23.8.2026.docx`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế. Riêng **công văn triển khai quy định mới của Luật 118/2025 (gửi kho, dịch vụ nổ mìn, hồ sơ PCCC, TCTN)** → **mẫu 21** + `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx`.
 - **Hồ sơ đã trình bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI**, hoặc chuẩn bị trình mà cần chặn rủi ro bị trả (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước xử lý sau khi bị trả) → reference `09` + mẫu 20. **Chạy bảng tự kiểm mẫu 20 trước MỌI lần trình UBND tỉnh.**
@@ -119,7 +120,7 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY — ⭐ BẮT BUỘC đọc `references/11-anti-error.md` trước khi thẩm định hồ sơ / soạn bất kỳ văn bản nào
 
-Toàn văn 26 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
+Toàn văn 32 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
 
 - **1** — Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026
 - **2** — Không nhầm 2 chế độ PANM
@@ -147,6 +148,12 @@ Toàn văn 26 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **22-B** — KHUÔN PHIẾU TRÌNH + GIẤY PHÉP /GP-SCT — bộ chuẩn từ 8/2026 (Kim Thành, chốt lại tại Đồng Tiến 26/8/2026)
 - **23-B** — HỒ SƠ NHÀ THẦU LIÊN DANH — cấp GP theo PHẦN VIỆC, không theo cả gói thầu (vụ Đồng Tiến 26/8/2026, ref 07 mụ…
 - **24** — CHỌN KHUÔN THEO LOẠI HỒ SƠ — CẤM "VÁ" THÀNH TỐ KHUYẾT BẰNG CHI TIẾT KỸ THUẬT (vụ Mông Sơn 28/8/2026, chỉ đạ…
+- **25** — GIẤY ĐỀ NGHỊ = MẪU SỐ 04 Phụ lục III (không phải 03; không bị TT 26/2026 sửa); 11 mục đúng thứ tự, địa danh–ngày ở đầu, không chèn mục ngoài mẫu (Thịnh Đạt 03/9/2026)
+- **26** — PANM HẦM LÒ: rà từng gạch đầu dòng Phụ lục VII — 9 nội dung khung Kim Thành thiếu (năng suất ngày/tháng/quý; thiết bị nhân công; bản đồ kèm; công trình ngầm; σn σk; ĐƯỜNG KÍNH LỖ KHOAN; cột thuốc; phương pháp nổ; khoảng cách thiết bị; che chắn "không áp dụng"; tên người lập/duyệt); khối ký PHÊ DUYỆT trái – NGƯỜI LẬP phải
+- **27** — THỜI GIAN NỔ MÌN HẦM LÒ: không ấn định khung giờ cấm, neo vào chế độ làm việc thiết kế; GP bỏ dòng giờ nổ mìn (chốt PTP Trang 03/9/2026)
+- **28** — SỐ LIỆU VLNCN NĂM khi thuyết minh nhiều phiên bản: GATE 3 nguồn (QĐ phê duyệt, mục 8.3, bảng mới) + kiểm tra nội bộ bảng mới; chốt mới nhất + nhỏ hơn, bôi đỏ, DN sửa thiết kế cho khớp
+- **29** — SỨC CHỨA KHO theo văn bản nghiệm thu PCCC, không theo báo cáo hoàn thành DN; nhu cầu tháng > sức chứa → nhập nhiều đợt; không tự ghi "cấp II"
+- **30** — CHỦNG LOẠI VLNCN + PHƯƠNG PHÁP NỔ theo Bảng thông số thiết kế (AĐ1, kíp điện vi sai; lò dốc >30° cấm dây cháy chậm), không chép PANM/GP cũ; Qđ max đối chứng GP cũ
 
 ## VII. CẤU TRÚC PLUGIN
 
@@ -174,7 +181,7 @@ sd-vlncn-sct-vn/
 │   ├── 11-anti-error.md              ← ⭐ 26 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
 │   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,
 │                                    GP-SCT đã cấp, TCTN, dịch vụ nổ mìn (máy sinh, không sửa tay)
-├── mau-van-ban/                      ← 23 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
+├── mau-van-ban/                      ← 24 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md
 │   ├── 03-to-trinh-cap-gp.md
@@ -196,8 +203,9 @@ sd-vlncn-sct-vn/
 │   ├── 19-thong-bao-ket-qua-sau-kiem-tra.md
 │   ├── 20-bang-tu-kiem-truoc-khi-trinh-ubnd.md
 │   ├── 21-cv-trien-khai-luat-118-2025.md
-│   ├── 22-phuong-an-no-min.md           ← khung PANM 2 biến thể (lộ thiên gần dân cư / hầm lò)
-│   └── 23-cv-de-nghi-va-du-thao-cv-ubnd-chi-dao-vlncn.md
+│   ├── 22-phuong-an-no-min.md           ← khung PANM 2 biến thể (lộ thiên gần dân cư / hầm lò) + checklist Phụ lục VII
+│   ├── 23-cv-de-nghi-va-du-thao-cv-ubnd-chi-dao-vlncn.md
+│   └── 24-giay-de-nghi-cap-gp-su-dung-vlncn-mau-04.md  ← Giấy đề nghị theo Mẫu số 04 PL III TT 23/2024
 ├── vi-du-thuc-te/                    ← văn bản thật đã ban hành (docx + PDF ký thật: Phiếu trình,
 │                                       biên bản hiện trường, PANM đầy đủ của DN, CV SXD/SCT)
 └── van-ban-goc/                      ← văn bản pháp luật ĐẦY ĐỦ (Luật 42, NĐ 181, TT 23, TT 38,

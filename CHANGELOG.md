@@ -1,3 +1,7 @@
+## 03/9/2026 — sd-vlncn-sct-vn v2026.9.3.1 → v2026.9.3.2: vụ Thịnh Đạt — PANM hầm lò chuẩn rà đủ Phụ lục VII, Giấy đề nghị Mẫu số 04, anti-error 25–30
+
+Hồ sơ Cty CP Thịnh Đạt (mỏ chì - kẽm Trống Pá Sang, xã Tú Lệ, hầm lò) rút ngày 23/7/2026, Bạn yêu cầu soạn lại để nộp ngay. Sản phẩm: 2 khung docx chuẩn + 2 script dựng lại; mẫu 24 mới (Giấy đề nghị đúng **Mẫu số 04** Phụ lục III — sửa nhầm "Mẫu 03"; Mẫu 04 không bị TT 26/2026 sửa); mẫu 22 thêm checklist Phụ lục VII; ref 07 mục M; ref 11 anti-error 25–30 (Mẫu 04; 9 nội dung PL VII dễ thiếu + khối ký PHÊ DUYỆT trái; **giờ nổ mìn hầm lò không ấn định khung cấm** — chốt PTP Trang 03/9; GATE 3 nguồn số VLNCN năm; sức chứa kho theo nghiệm thu PCCC; chủng loại/phương pháp theo thiết kế).
+
 ## 03/9/2026 — đồng bộ tri thức trang web ↔ plugin: sd-vlncn-sct-vn v2026.9.2.3 → v2026.9.3.1, hnh-sct-vn v1.9.2 → v1.10.0, sct-laocai-org-vn v2.1.1 → v2.2.0
 
 Bạn yêu cầu 03/9/2026: tri thức phải thống nhất giữa bộ plugin và 2 trang web. Từ nay CSDL giấy phép trên trang vlncn-laocai là nguồn sự thật về giấy phép đã cấp và được **máy sinh thành reference trong plugin, đồng bộ tự động 18h40 hằng ngày** (`scripts/dong_bo_tri_thuc.py` + workflow `dong-bo-tri-thuc.yml` của repo vlncn-laocai; chỉ nâng version plugin khi nội dung đổi, theo đúng quy trình sync_marketplace/check_descriptions).

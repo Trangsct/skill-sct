@@ -43,6 +43,14 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "mau-03-giay-de-nghi-su-dung",
+        # Giấy đề nghị cấp GP SỬ DỤNG VLNCN là Mẫu số 04 PL III TT 23/2024; Mẫu số 03 là XNK. Vụ Thịnh Đạt 03/9/2026.
+        "pattern": r"(Giấy đề nghị[^\n]{0,60}(sử dụng VLNCN|sử dụng vật liệu nổ)[^\n]{0,40}Mẫu số 03|Mẫu số 03[^\n]{0,40}Giấy đề nghị[^\n]{0,40}sử dụng (VLNCN|vật liệu nổ))",
+        "why": "Giấy đề nghị cấp/cấp lại/cấp điều chỉnh GP sử dụng VLNCN là Mẫu số 04 Phụ lục III TT 23/2024 (Mẫu số 03 là xuất khẩu, nhập khẩu; Mẫu 04 không bị TT 26/2026 sửa) — chốt 03/9/2026.",
+        "since": "2026-09-03",
+        "level": "FAIL",
+    },
+    {
         "id": "gp-ubnd-sau-2867",
         # "dự thảo Giấy phép (GP-UBND)", "ký GP-UBND", "trình Chủ tịch UBND tỉnh ký GP" — sau 20/8/2026 GP sử dụng VLNCN là /GP-SCT
         "pattern": r"(dự thảo giấy phép \(GP-UBND\)|Chủ tịch UBND tỉnh ký GP-UBND|GP sử dụng vẫn do Chủ tịch|ký hiệu dự kiến `/GP-SCT`)",

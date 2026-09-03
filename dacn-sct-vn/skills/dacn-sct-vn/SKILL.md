@@ -1,6 +1,6 @@
 ---
 name: dacn-sct-vn
-description: "DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP 27/6/2026. Kích hoạt: tăng trưởng, IIP, GRDP, GTSXCN, chế biến chế tạo, dự án động lực, điểm nghẽn, điện thương phẩm, xuất nhập khẩu, bán lẻ, báo cáo kinh tế xã hội, Thống kê tỉnh. 8 nghiệp vụ: (1) tra 09 chỉ tiêu SCT chủ trì + chỉ tiêu phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, xếp hạng danh mục dự án động lực; (3) phân tích sản xuất công nghiệp hằng tháng, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC); (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính, lồng ghép NQ 01/NQ-CP; (6) kịch bản tăng trưởng; (7) tổng hợp số liệu KCN, Khu kinh tế cửa khẩu (BQL Khu kinh tế tỉnh); (8) tra số liệu KTXH kỳ 6 tháng 2026 (BC 615/BC-TKT: GRDP 9,01%, IIP 9,12%, sản phẩm chủ yếu, XNK, bán lẻ, vốn đầu tư) đối chiếu mục tiêu NQ 169. Từ khóa thêm: Tằng Loỏng, quý II."
+description: "DANH MỤC DỰ ÁN CÔNG NGHIỆP phục vụ MỤC TIÊU TĂNG TRƯỞNG tỉnh Lào Cai theo NQ 169/NQ-CP 27/6/2026. Kích hoạt: tăng trưởng, IIP, GRDP, GTSXCN, dự án động lực, dự án hoàn thành đưa vào sản xuất, điểm nghẽn, điện thương phẩm, xuất nhập khẩu, bán lẻ, Thống kê tỉnh. 10 nghiệp vụ: (1) tra 09 chỉ tiêu SCT chủ trì + phối hợp, mục tiêu 2026 và 2026-2030; (2) lập, xếp hạng danh mục dự án động lực; (3) phân tích SXCN hằng tháng, cảnh báo sản phẩm hụt chỉ tiêu; (4) nhận diện điểm nghẽn (GPMB, quy hoạch, đất đai, GPXD, môi trường, PCCC); (5) báo cáo định kỳ trước ngày 20 gửi Sở Tài chính; (6) kịch bản tăng trưởng; (7) số liệu KCN, Khu kinh tế cửa khẩu; (8) giải trình chênh lệch số liệu với Thống kê tỉnh; (9) số liệu KTXH 6 tháng 2026 (BC 615/BC-TKT: GRDP 9,01%, IIP 9,12%) đối chiếu NQ 169; (10) danh mục dự án SXCN dự kiến hoàn thành, vận hành 2026 theo 05 nhóm a-đ (chế biến, khoáng sản, KCN, CCN, năng lượng): đóng góp dự kiến, mốc, cơ quan đôn đốc. Từ khóa thêm: Tằng Loỏng, Quý Xa, thủy điện, trạm biến áp 220kV."
 ---
 
 # dacn-sct-vn — Quản lý dự án công nghiệp phục vụ mục tiêu tăng trưởng (Sở Công Thương Lào Cai)
@@ -24,6 +24,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 7. **Tổng hợp số liệu KCN, Khu kinh tế cửa khẩu** (GTSXCN, kim ngạch XNK qua cửa khẩu, thu phí hạ tầng cửa khẩu, dự án mới đi vào hoạt động) → reference `08` + `du-lieu/gtsxcn-kcn-kkt-2027.json`.
 8. **Trả lời chất vấn, giải trình chênh lệch số liệu** giữa số liệu chuyên ngành của Sở và số liệu Thống kê tỉnh → reference `04` mục V + `05` mục IV.
 9. **Tra số liệu kinh tế - xã hội chính thức của Thống kê tỉnh** (GRDP, IIP, sản phẩm chủ yếu, tiêu thụ - tồn kho, XNK, bán lẻ, vốn đầu tư, doanh nghiệp) và bảng đối chiếu kết quả ↔ mục tiêu NQ 169 của kỳ 6 tháng đầu năm 2026 → reference `09`.
+10. **Tra danh mục dự án SXCN dự kiến hoàn thành, đưa vào sản xuất năm 2026** (05 nhóm a-đ: chế biến, khoáng sản, KCN, CCN, năng lượng): tên dự án, chủ đầu tư, công suất, mốc tiến độ, đóng góp dự kiến, cơ quan chủ trì đôn đốc; danh sách đầu mối để soạn công văn đôn đốc → reference `10` + `du-lieu/du-an-hoan-thanh-2026.json`.
 
 **KHÔNG dùng plugin này** để: làm thủ tục thành lập CCN (dùng `kccn-sct-vn`), cấp phép chuyên ngành (dùng plugin lĩnh vực tương ứng), soạn định dạng file .docx (dùng `vbhc-vn`).
 
@@ -33,6 +34,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 
 - **Bước 1 — GATE SỐ LIỆU.** Chỉ tiêu **mục tiêu** (giao tại NQ 169 và Phụ lục Công văn UBND tỉnh) là số **TĨNH, đã chốt** → tra reference `02`, dùng trực tiếp.
   Số liệu **thực hiện** (sản lượng, IIP, kim ngạch, tiến độ dự án, lấp đầy, GPMB) là số **ĐỘNG** → **TUYỆT ĐỐI KHÔNG lấy từ trí nhớ và không lấy từ reference cũ**. Phải: (a) Bạn cung cấp file kỳ mới nhất, hoặc (b) đọc từ file gốc trên đĩa bằng script, hoặc (c) dừng lại và hỏi Bạn. Riêng reference `09` là **ảnh chụp số liệu có kỳ chốt rõ (6 tháng đầu năm 2026, BC 615/BC-TKT)** — được dùng làm mốc so sánh và trích dẫn kèm nguồn - kỳ; không dùng làm số của kỳ báo cáo mới hơn.
+  Riêng reference `10` là **danh mục dự kiến, KHÔNG có số/ngày văn bản** — dùng để biết *ai làm gì, hạn nào*, tuyệt đối không viện dẫn dưới dạng "theo Văn bản số ... ngày ..." và không tính đóng góp dự kiến vào kết quả kỳ báo cáo khi chưa có xác nhận dự án đã vận hành thực tế.
 - **Bước 2 — Xác minh chuyên môn** tại reference tương ứng: đúng chỉ tiêu, đúng cơ quan chủ trì/phối hợp, đúng phương pháp tính, đúng kỳ báo cáo.
 - **Bước 3 — Đối chiếu chéo** với plugin lĩnh vực (`kccn-sct-vn`, `qlks-sct-vn`, `quy-hoach-ct-vn`...) nếu nội dung chạm tới thủ tục hoặc quy hoạch.
 - **Bước 4 — Soạn file .docx** bằng plugin `vbhc-vn` (thể thức NĐ 30/2020; ký hiệu SCT-CN; Lưu VT, CN(tên) theo lĩnh vực). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` trước.
@@ -104,6 +106,7 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | `references/07-kich-ban-tang-truong.md` | Phương pháp dựng kịch bản tháng/quý/năm, ngưỡng cảnh báo, mẫu giải trình chỉ tiêu có nguy cơ không đạt |
 | `references/08-kcn-kkt-bql-khu-kinh-te.md` | **KCN và Khu kinh tế cửa khẩu do Ban Quản lý Khu kinh tế tỉnh quản lý (vùng Lào Cai cũ):** kết quả 2026, mục tiêu 2027 (GTSXCN, kim ngạch XNK, thu phí hạ tầng), 05 dây chuyền mới, mốc Bản Vược và Cửa khẩu thông minh, 05 điểm mâu thuẫn số liệu phải rà. Nguồn: KH 72/KH-BQL ngày 08/7/2026 |
 | `references/09-so-lieu-ktxh-6-thang-2026.md` | **Mốc số liệu KTXH 6 tháng đầu năm 2026** (nguồn BC 615/BC-TKT ngày 30/6/2026 của Thống kê tỉnh): GRDP 9,01%; bảng đối chiếu 9 chỉ tiêu SCT chủ trì (IIP 9,12% — cảnh báo đỏ; bán lẻ 13,14% — vượt); IIP 4 ngành + 21 ngành cấp 2; sản phẩm chủ yếu tăng/giảm; tiêu thụ - tồn kho - lao động CBCT; XNK qua cửa khẩu; vốn đầu tư; dự án ngoài NN đang triển khai; 06 mâu thuẫn số liệu bản gốc |
+| `references/10-du-an-hoan-thanh-2026.md` | **Danh mục dự án SXCN dự kiến hoàn thành, vận hành năm 2026** (nguồn: file tổng hợp Bạn cung cấp 03/9/2026, kỳ ghi Tháng 9/2026 — **không có số/ngày văn bản, xem GATE viện dẫn**): 08 dự án chế biến kèm đóng góp dự kiến; 04 nhóm khoáng sản (mỏ sắt Quý Xa 284 tỷ); 09 KCN; 14 lượt CCN; lưới điện, 04 thủy điện, cấp điện nông thôn. Tổng đóng góp cộng dồn được 655,6 tỷ đồng. Bảng gắn dự án ↔ chỉ tiêu NQ 169; 11 cảnh báo bản gốc |
 
 ## VI. CÔNG CỤ (scripts)
 
@@ -114,6 +117,7 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 | `du-lieu/schema-du-an.json` | Lược đồ trường dữ liệu chuẩn của một dự án động lực |
 | `du-lieu/gtsxcn-kcn-kkt-2027.json` | **Biểu dự tính giá trị SXCN năm 2027** của Ban Quản lý Khu kinh tế tỉnh: 04 khu vực (Tằng Loỏng, Bắc Duyên Hải, Đông Phố Mới, KKT cửa khẩu), **37 cơ sở, 85 dòng sản phẩm**, có công suất thiết kế, tỷ lệ % công suất hoạt động, sản lượng đăng ký, GTSXCN và doanh thu. Tổng 26.301.347 triệu đồng. Kèm 08 cảnh báo sử dụng — đọc `_canh_bao_su_dung` trước khi trích |
 | `du-lieu/danh-muc-du-an.json` | Sổ dữ liệu. **Đã nạp 95 dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý** (phía Nam 66, Minh Quân 17, Âu Lâu 12; tổng vốn đăng ký 15.501,318 tỷ đồng; kỳ số liệu đến 16/4/2026, phụ lục 12/5/2026). Chạy `theo_doi_du_an.py kiem-tra` để đọc 05 cảnh báo về dữ liệu gốc trước khi dùng |
+| `du-lieu/du-an-hoan-thanh-2026.json` | **Danh mục dự án SXCN dự kiến hoàn thành, vận hành 2026** dạng máy đọc: 08 dự án nhóm a (công suất, chủ đầu tư, địa điểm, mốc, đóng góp, điểm nghẽn, cơ quan), 04 nhóm khoáng sản, 09 KCN, 14 lượt CCN, 09 mục năng lượng; mỗi mục đã gắn mã nhóm và chỉ tiêu NQ 169 tác động. Đọc `_gate_vien_dan` và 11 mục `_canh_bao_du_lieu_goc` trước khi trích |
 
 **Phạm vi dữ liệu hiện có — biết rõ để không báo cáo thiếu:**
 
@@ -121,8 +125,9 @@ Bảng đầy đủ, kể cả chỉ tiêu phối hợp và các lưu ý về sa
 |---|---|---|---|
 | Vùng **Yên Bái cũ** | Ban Quản lý **các Khu công nghiệp tỉnh** | 95 dự án thứ cấp trong 03 KCN (phía Nam, Minh Quân, Âu Lâu) — hồ sơ dự án, vốn, điểm nghẽn | `danh-muc-du-an.json` |
 | Vùng **Lào Cai cũ** | Ban Quản lý **Khu kinh tế tỉnh** | 37 cơ sở trong 03 KCN + KKT cửa khẩu — **sản lượng và GTSXCN đăng ký 2027**, chưa có hồ sơ dự án/điểm nghẽn | `gtsxcn-kcn-kkt-2027.json` + reference `08` |
+| **Toàn tỉnh** — dự án sắp vận hành | Sở Công Thương tổng hợp | **Dự án SXCN dự kiến hoàn thành, vận hành năm 2026**: 08 dự án chế biến, 04 nhóm khoáng sản, 09 KCN, 14 lượt CCN, lưới điện và 04 thủy điện — **mốc tiến độ, đóng góp dự kiến, cơ quan đôn đốc**; chưa có tổng mức đầu tư, lao động, sản lượng thực hiện | `du-an-hoan-thanh-2026.json` + reference `10` |
 
-⚠️ **Hai nguồn có cấu trúc khác nhau, KHÔNG cộng dồn cơ học.** **CHƯA có:** dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN. Khi lập báo cáo toàn ngành phải bổ sung các nhóm này.
+⚠️ **Ba nguồn có cấu trúc khác nhau, KHÔNG cộng dồn cơ học.** Reference `10` chỉ có **mốc và đóng góp dự kiến**, không có hồ sơ dự án đầy đủ như `danh-muc-du-an.json`. **CHƯA có:** dự án thứ cấp trong CCN, dự án ngoài khu/cụm, hồ sơ đầy đủ của dự án khoáng sản và thuỷ điện, hạ tầng KCN/CCN vùng Lào Cai cũ. Khi lập báo cáo toàn ngành phải bổ sung các nhóm này.
 
 ## VII. BIỂU MẪU VÀ CHECKLIST
 

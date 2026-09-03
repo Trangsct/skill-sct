@@ -1,7 +1,7 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.3.2",
-  "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026: tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm, tiết kiệm năng lượng) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích sản xuất công nghiệp hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20; kịch bản tăng trưởng; số liệu KCN, Khu kinh tế cửa khẩu và KTXH 6 tháng 2026 (BC 615/BC-TKT).",
+  "version": "1.4.0",
+  "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026: tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích SXCN hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20; kịch bản tăng trưởng; số liệu KCN, KKT cửa khẩu, KTXH 6 tháng 2026; dự án SXCN dự kiến hoàn thành năm 2026 kèm mốc, cơ quan đôn đốc.",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },
@@ -20,6 +20,12 @@
     "grdp",
     "thong-ke-tinh",
     "bao-cao-ktxh",
-    "san-pham-chu-yeu"
+    "san-pham-chu-yeu",
+    "du-an-hoan-thanh-2026",
+    "quy-xa",
+    "thuy-dien",
+    "tram-bien-ap",
+    "ccn",
+    "dong-gop-tang-truong"
   ]
 }

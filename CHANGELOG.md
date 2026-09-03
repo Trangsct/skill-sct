@@ -1,3 +1,13 @@
+## 03/9/2026 — dacn-sct-vn v1.3.2 → v1.4.0: nạp danh mục dự án SXCN dự kiến hoàn thành, đưa vào sản xuất năm 2026
+
+Nguồn: file tổng hợp "Các DA SXCN dự kiến hoàn thành năm 2026" Bạn cung cấp 03/9/2026, kỳ ghi Tháng 9/2026 — **KHÔNG có số/ngày/cơ quan ban hành/người ký**, đã đặt GATE cấm viện dẫn dạng "theo Văn bản số ... ngày ...".
+
+- **Ref 10 mới** + `du-lieu/du-an-hoan-thanh-2026.json` (máy đọc, tách riêng khỏi danh-muc-du-an.json): 05 nhóm a-đ — 08 dự án chế biến kèm bảng việc phải làm ↔ cơ quan chịu trách nhiệm (SCT chủ trì 02/08, đều là cấp phép hóa chất: Triều Dương, Đức Giang); 04 nhóm khoáng sản (mỏ sắt Quý Xa 5 triệu tấn/năm, 284 tỷ — SCT chủ trì, chạm tkm/qlks/sd-vlncn; khai trường apatit 24, 25, 19b; mỏ đồng Sin Quyền, Vi Kẽm, Tả Phời); 09 KCN tách đúng hai Ban; 14 lượt CCN chia 05 nhóm đầu việc (SCT chủ trì 04/05); lưới điện, 04 thủy điện (27 tỷ), cấp điện nông thôn do SCT làm chủ đầu tư. Thêm bảng gắn dự án ↔ chỉ tiêu NQ 169.
+- **Tổng đóng góp cộng dồn được 655,6 tỷ đồng** (nhóm a 344,6 + Quý Xa 284 + thủy điện 27). Bản gốc không có dòng tổng — ghi rõ là số Sở tổng hợp.
+- **11 cảnh báo bản gốc** ghi nhận, không tự sửa. Nổi bật: đóng góp Quế Hồi Việt Nam ghi **4.343 tỷ** (gấp 6,6 lần tổng 09 dự án còn lại, không hợp quy mô — nhiều khả năng 4,343 tỷ, ĐÃ LOẠI khỏi mọi số tổng, chờ Bạn xác nhận); **04 mốc đã quá hạn** so kỳ tài liệu (Tam Đỉnh, Quý Xa, khởi công KCN Cam Đường mốc 8/2026; quế Bảo Thắng đầu 9/2026); **07 đầu việc dồn mốc quý III** hết 30/9 — rà trước 20/9; CCN Yên Hợp 2 ghi 75 ha phải khớp hồ sơ thẩm định, không nhầm CCN Yên Hợp 12 ha và Yên Hợp 1 63 ha; 2 số văn bản dẫn chiếu (1599/UBND-KT, 2182/QĐ-UBND) chưa đối chiếu bản scan có dấu.
+- **Phát hiện**: ref 08 (apatit đăng ký sản lượng 2027 = 0) + ref 09 (NPK −72,65%, MAP −57,41%) + ref 10 (khai trường 24, 25, 19b vướng GPMB) cùng chỉ về một nút thắt — **GPMB và thuê đất khai trường apatit** là điểm nghẽn số 1 của chỉ tiêu 3 và 4. Tài liệu này chính là danh mục giải pháp bù khoảng hụt 3,88 điểm % của IIP.
+- SKILL.md: nghiệp vụ (10); bảng phạm vi dữ liệu từ 02 lên 03 nguồn; GATE Bước 1 bổ sung quy tắc dùng ref 10 (không tính đóng góp dự kiến vào kết quả kỳ khi chưa có xác nhận vận hành thực tế); description 1.013 ký tự.
+
 ## 2026-09-02 — bvmt-sct-vn v1.3.0 → v1.4.0: nâng cấp toàn diện mảng KNK, hạn ngạch, thị trường các-bon, BĐKH, ô-dôn + Phụ lục BC 892
 
 ## 02/9/2026 — VIỆC 3: plugin mới atvsld-sct-vn v1.0.0 (ATVSLĐ phần ngành Công Thương) — plugin thứ 21

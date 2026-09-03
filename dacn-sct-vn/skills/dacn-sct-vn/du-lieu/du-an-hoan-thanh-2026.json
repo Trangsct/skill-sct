@@ -1,0 +1,124 @@
+{
+  "_huong_dan": "Danh mục dự án SXCN dự kiến hoàn thành, đưa vào sản xuất năm 2026. Đọc reference 10-du-an-hoan-thanh-2026.md trước khi dùng. File này TÁCH RIÊNG khỏi danh-muc-du-an.json vì khác nguồn và khác cấu trúc - KHÔNG cộng dồn cơ học hai file.",
+  "_nguon": {
+    "tai_lieu": "File '1. Cac DA SXCN du kien hoan thanh nam 2026.docx' do Bạn cung cấp ngày 03/9/2026; tiêu đề bản gốc 'CÁC DỰ ÁN SXCN DỰ KIẾN HOÀN THÀNH ĐI VOÀ SẢN XUẤT NĂM 2026'",
+    "so_van_ban": null,
+    "ngay_van_ban": null,
+    "co_quan_ban_hanh": null,
+    "nguoi_ky": null,
+    "ky_ghi_tren_tai_lieu": "Tháng 9/2026"
+  },
+  "_gate_vien_dan": "TÀI LIỆU KHÔNG CÓ SỐ, NGÀY, CƠ QUAN BAN HÀNH, NGƯỜI KÝ. Là bản tổng hợp/dự thảo phục vụ điều hành. CẤM viết 'theo Văn bản số ... ngày ...' khi viện dẫn. Muốn viện dẫn phải để Bạn xác nhận số/ngày văn bản gốc, hoặc ghi nguồn là 'tổng hợp của Sở Công Thương'.",
+  "_canh_bao_han_dung": "SỐ LIỆU DỰ KIẾN, SỐ ĐỘNG. Toàn bộ mốc tiến độ và số đóng góp là dự kiến tại thời điểm lập (tháng 9/2026). Phải đối chiếu tình hình thực tế tại kỳ báo cáo. Dự án chưa vận hành thực tế KHÔNG được tính vào chỉ tiêu sản lượng, IIP.",
+  "_canh_bao_du_lieu_goc": [
+    "BẤT THƯỜNG SỐ LIỆU: đóng góp của Nhà máy quế hữu cơ Bảo Thắng (Quế Hồi Việt Nam) ghi 4.343 tỷ đồng - lớn hơn tổng 09 dự án còn lại 6,6 lần, không phù hợp quy mô mô tả (dây chuyền sấy, tháp chưng cất). Nhiều khả năng là 4,343 tỷ. ĐÃ LOẠI KHỎI MỌI SỐ TỔNG. Phải hỏi Bạn xác nhận.",
+    "MỐC QUÁ HẠN: tài liệu ghi kỳ tháng 9/2026 nhưng để mốc tháng 8/2026 cho tuyển apatit Tam Đỉnh, mỏ sắt Quý Xa, khởi công KCN Cam Đường; mốc đầu tháng 9/2026 cho quế hữu cơ Bảo Thắng. Phải xác nhận đã hoàn thành hay chưa.",
+    "DỒN MỐC QUÝ III/2026: 07 đầu việc đặt mốc hết 30/9/2026 - rủi ro trượt tiến độ tập trung rất cao trong tháng 9.",
+    "LỖI BỐ CỤC BẢN GỐC: tiêu đề 'b) Nhóm dự án khai thác, chế biến khoáng sản' bị dính vào cuối gạch đầu dòng dự án axit điện tử Đức Giang.",
+    "LỖI CHÍNH TẢ TIÊU ĐỀ: 'ĐI VOÀ SẢN XUẤT' - đúng là 'ĐI VÀO SẢN XUẤT'.",
+    "Diện tích CCN Yên Hợp 2 ghi 75 ha - đối chiếu hồ sơ thẩm định tại kccn-sct-vn. Không nhầm với CCN Yên Hợp (12 ha, đã thành lập QĐ 2201/2024) và CCN Yên Hợp 1 (63 ha, chưa thành lập).",
+    "Công suất Nhà máy xử lý chất thải Việt Sơn 720.000 tấn/năm rất lớn - đối chiếu quyết định phê duyệt ĐTM trước khi trích.",
+    "Địa điểm Nhà máy quế hữu cơ Bảo Thắng không ghi xã/phường - không suy đoán.",
+    "Số văn bản 1599/UBND-KT ngày 06/3/2026 và Quyết định 2182/QĐ-UBND ngày 23/6/2026 lấy nguyên văn bản gốc, CHƯA đối chiếu bản scan có dấu.",
+    "Bản gốc KHÔNG có dòng tổng cộng. Mọi số tổng dưới đây do plugin cộng dồn.",
+    "Không ghi đóng góp bằng tiền KHÔNG có nghĩa là đóng góp bằng 0 - để trống, không điền số 0."
+  ],
+  "_tong_hop": {
+    "tong_dong_gop_du_kien_ty_dong": 655.6,
+    "pham_vi_cong_don": "07/08 dự án nhóm a (loại trừ Quế Hồi Việt Nam) = 344,6 tỷ; mỏ sắt Quý Xa = 284 tỷ; 04 thủy điện = 27 tỷ",
+    "ghi_chu": "Số do plugin cộng dồn, không có trong bản gốc. Khi đưa vào văn bản phải ghi rõ là số Sở tổng hợp và nêu phạm vi."
+  },
+  "_ngay_cap_nhat": "2026-09-03",
+  "nhom_a_che_bien": [
+    {"tt": 1, "ten": "Nhà máy sản xuất Benzaldehyde", "cong_suat": "50 tấn/năm", "chu_dau_tu": "Công ty TNHH MTV Triều Dương", "dia_diem": "CCN Phố Ràng, xã Bảo Yên", "nhom": "LK-HC", "moc_du_kien": "Quý IV/2026", "dong_gop_ty_dong": 4.3, "chi_tieu_tac_dong": ["3", "4"], "diem_nghen": "Cấp Giấy phép đủ điều kiện sản xuất, kinh doanh hóa chất", "co_quan": "Sở Công Thương phối hợp Cục Hóa chất (Bộ Công Thương)"},
+    {"tt": 2, "ten": "Nhà máy sản xuất và chế biến quế hữu cơ Bảo Thắng", "cong_suat": null, "chu_dau_tu": "Công ty cổ phần Sản xuất và Xuất khẩu Quế Hồi Việt Nam", "dia_diem": null, "nhom": "CBCT", "moc_du_kien": "Đầu tháng 9/2026", "dong_gop_ty_dong": null, "dong_gop_ban_goc_ghi": "4.343 tỷ đồng (BẤT THƯỜNG - chưa xác minh, không cộng dồn)", "chi_tieu_tac_dong": ["3", "4", "5", "7a"], "diem_nghen": "Lắp đặt dây chuyền sấy, tháp chưng cất; điều chỉnh phương án PCCC; nghiệm thu PCCC", "co_quan": "Chủ đầu tư; Công an tỉnh"},
+    {"tt": 3, "ten": "Nhà máy tuyển quặng apatit", "cong_suat": "250.000 tấn/năm", "chu_dau_tu": "Công ty cổ phần Đầu tư Apatit Tam Đỉnh Lào Cai", "dia_diem": "xã Chiềng Ken", "nhom": "KS", "moc_du_kien": "Tháng 8/2026 (ĐÃ QUÁ HẠN - xác nhận)", "dong_gop_ty_dong": 40.4, "chi_tieu_tac_dong": ["3", "7c"], "diem_nghen": "Hoàn thành 10 m còn lại đập hồ thải quặng đuôi; hồ sơ hoàn thành công trình; nghiệm thu", "co_quan": "Chủ đầu tư"},
+    {"tt": 4, "ten": "Dây chuyền sản xuất DCP và MAP", "cong_suat": "tổng 50.000 tấn/năm", "chu_dau_tu": "Công ty cổ phần Phát triển Công nghiệp Hóa chất Yên Bái", "dia_diem": "KCN phía Nam, phường Văn Phú", "nhom": "LK-HC", "moc_du_kien": "Quý III/2026", "dong_gop_ty_dong": 155.0, "chi_tieu_tac_dong": ["3", "4", "7b", "8"], "diem_nghen": "Hoàn thiện hệ thống điện và PCCC; đấu nối, cấp điện; nghiệm thu PCCC", "co_quan": "Chủ đầu tư; Công ty Điện lực Lào Cai; Công an tỉnh"},
+    {"tt": 5, "ten": "Nhà máy xử lý chất thải công nghiệp và nguy hại", "cong_suat": "720.000 tấn/năm (cần đối chiếu ĐTM)", "chu_dau_tu": "Công ty cổ phần Dịch vụ Xử lý môi trường xanh Việt Sơn", "dia_diem": "KCN Tằng Loỏng", "nhom": "CBCT", "moc_du_kien": "Quý III/2026", "dong_gop_ty_dong": 11.0, "chi_tieu_tac_dong": ["3", "31"], "diem_nghen": "ĐTM điều chỉnh; đấu nối giao thông; thủ tục trong khu công nghiệp", "co_quan": "Sở Nông nghiệp và Môi trường; Sở Xây dựng; Ban Quản lý Khu kinh tế tỉnh"},
+    {"tt": 6, "ten": "Nhà máy nghiền xỉ phốt pho, xỉ lò cao", "cong_suat": "1.000.000 tấn/năm", "chu_dau_tu": "Công ty cổ phần Sản xuất và Thương mại Lao Kay", "dia_diem": "KCN Tằng Loỏng, xã Tằng Loỏng", "nhom": "CBCT", "moc_du_kien": "Quý III/2026", "dong_gop_ty_dong": 10.0, "chi_tieu_tac_dong": ["3", "4"], "diem_nghen": "Nghiệm thu PCCC; kiểm tra công tác nghiệm thu theo phân cấp, chấp thuận đưa công trình vào sử dụng", "co_quan": "Công an tỉnh; Ban Quản lý Khu kinh tế tỉnh"},
+    {"tt": 7, "ten": "Nhà máy tuyển quặng apatit nghèo", "cong_suat": "khoảng 200.000 tấn/năm", "chu_dau_tu": "Công ty TNHH Anh Nhẫn Lào Cai", "dia_diem": "phường Cam Đường", "nhom": "KS", "moc_du_kien": "Quý IV/2026", "dong_gop_ty_dong": 3.9, "chi_tieu_tac_dong": ["3", "7c"], "diem_nghen": "Hồ sơ kiểm tra công tác nghiệm thu và các thủ tục còn lại", "co_quan": "Đôn đốc, hướng dẫn chủ đầu tư"},
+    {"tt": 8, "ten": "Nhà máy sản xuất axit điện tử", "cong_suat": "60.000 tấn/năm", "chu_dau_tu": "Công ty TNHH MTV Đức Giang Lào Cai", "dia_diem": "KCN Tằng Loỏng, xã Tằng Loỏng", "nhom": "LK-HC", "moc_du_kien": "Quý IV/2026", "dong_gop_ty_dong": 120.0, "chi_tieu_tac_dong": ["3", "4", "7b"], "diem_nghen": "Hồ sơ kiểm tra công tác nghiệm thu; cấp phép đủ điều kiện sản xuất hóa chất", "co_quan": "Ban Quản lý Khu kinh tế tỉnh; Sở Công Thương phối hợp Cục Hóa chất"}
+  ],
+  "nhom_b_khoang_san": [
+    {"ten": "Mỏ sắt Quý Xa", "cong_suat": "5 triệu tấn quặng nguyên khai/năm", "dia_diem": "xã Văn Bàn", "nhom": "KS", "moc_du_kien": "Khởi công XDCB mỏ và khai thác trong tháng 8/2026 (ĐÃ QUÁ HẠN - xác nhận)", "dong_gop_ty_dong": 284.0, "chi_tieu_tac_dong": ["3", "7c"], "noi_dung": "Hoàn thành thủ tục thiết kế mỏ, giám đốc điều hành mỏ, vật liệu nổ công nghiệp; thuê đất; giải phóng mặt bằng", "co_quan": "Sở Công Thương chủ trì; Sở Nông nghiệp và Môi trường; UBND xã Văn Bàn", "plugin_lien_quan": ["tkm-sct-vn", "qlks-sct-vn", "sd-vlncn-sct-vn"]},
+    {"ten": "Khai trường apatit 24 và 25; khai trường 19b", "dia_diem": "khu vực Quang Kim, xã Bát Xát; xã Cốc San", "nhom": "KS", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "7c"], "noi_dung": "Đẩy nhanh bồi thường, GPMB khu vực thân quặng chính; ưu tiên thủ tục thuê đất để sớm khôi phục khai thác, bảo đảm nguyên liệu cho nhà máy tuyển, hóa chất, phân bón", "co_quan": "UBND xã Bát Xát, xã Cốc San; Sở Nông nghiệp và Môi trường", "lien_ket": "Khớp rủi ro nguồn cung apatit tại reference 08 và sản phẩm phân bón giảm sâu tại reference 09"},
+    {"ten": "Mỏ đồng Sin Quyền, Vi Kẽm, Tả Phời", "nhom": "KS", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "7c"], "noi_dung": "Hoàn thành GPMB, bố trí tái định cư phần diện tích còn lại; thuê đất bổ sung, bảo đảm nguyên liệu ổn định cho nhà máy tuyển và luyện đồng", "co_quan": "UBND các xã, phường liên quan; Sở Nông nghiệp và Môi trường"},
+    {"ten": "Các mỏ, nhà máy tuyển quặng sắt đang tạm dừng", "nhom": "KS", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "7c"], "noi_dung": "Rà soát, phân loại, tháo gỡ có chọn lọc theo từng nguyên nhân (công nghệ, hồ thải, năng lực chủ đầu tư); kiên quyết tham mưu xử lý dự án chậm triển khai kéo dài", "co_quan": "Sở Công Thương chủ trì; Sở Nông nghiệp và Môi trường"}
+  ],
+  "nhom_c_kcn": {
+    "da_chap_thuan_chu_truong_dau_tu": {
+      "co_quan_quan_ly": "Ban Quản lý Khu kinh tế tỉnh (vùng Lào Cai cũ)",
+      "danh_sach": [
+        {"ten": "KCN Bản Qua", "dien_tich_ha": 76.39, "dia_diem": "xã Bát Xát", "nha_dau_tu": "Công ty cổ phần Đầu tư phát triển công nghiệp Lào Cai"},
+        {"ten": "KCN Phú Xuân", "dien_tich_ha": 300, "dia_diem": "xã Gia Phú", "nha_dau_tu": "Công ty cổ phần Công nghiệp Linh Linh", "moc": "Phấn đấu khởi công tháng 9/2026"},
+        {"ten": "KCN Phú Xuân 1", "dien_tich_ha": 200, "dia_diem": "xã Gia Phú", "nha_dau_tu": "Công ty cổ phần Công nghiệp Linh Linh", "moc": "Phấn đấu khởi công tháng 9/2026"},
+        {"ten": "KCN Võ Lao", "dien_tich_ha": 482.6, "dia_diem": "xã Võ Lao và xã Tằng Loỏng", "nha_dau_tu": "Công ty cổ phần Đầu tư hạ tầng Châu Giang"},
+        {"ten": "KCN Cam Đường", "dien_tich_ha": 196.3, "dia_diem": "phường Cam Đường", "nha_dau_tu": "Công ty cổ phần Đầu tư Lê Premium", "moc": "Đẩy nhanh phê duyệt quy hoạch phân khu, phấn đấu khởi công tháng 8/2026 (ĐÃ QUÁ HẠN - xác nhận)"}
+      ],
+      "noi_dung": "Hướng dẫn nhà đầu tư hoàn thành thủ tục sau chấp thuận (quy hoạch, đất đai, môi trường, xây dựng); UBND các xã Bát Xát, Gia Phú, Võ Lao, Tằng Loỏng, phường Cam Đường tập trung GPMB"
+    },
+    "dang_lap_quy_hoach_phan_khu": {
+      "co_quan_quan_ly": "Ban Quản lý các Khu công nghiệp tỉnh (vùng Yên Bái cũ)",
+      "danh_sach": ["KCN Việt Hồng 1", "KCN Việt Hồng 2", "KCN Y Can", "KCN Đông An"],
+      "moc": "Lập, phê duyệt quy hoạch phân khu trong quý III/2026",
+      "noi_dung": "Phối hợp Sở Xây dựng, làm cơ sở kêu gọi, lựa chọn nhà đầu tư hạ tầng"
+    },
+    "chi_tieu_tac_dong": ["11", "3", "4", "29"]
+  },
+  "nhom_d_ccn": {
+    "dang_tham_dinh_thanh_lap": {
+      "danh_sach": [
+        {"ten": "CCN Yên Hợp 2", "dien_tich_ha": 75, "dia_diem": "xã Xuân Ái", "canh_bao": "Đối chiếu hồ sơ thẩm định tại kccn-sct-vn; không nhầm với CCN Yên Hợp 12 ha và CCN Yên Hợp 1 63 ha"},
+        {"ten": "CCN Tân Nguyên", "dien_tich_ha": 55, "dia_diem": "xã Bảo Ái"},
+        {"ten": "CCN Mông Sơn", "dien_tich_ha": 50, "dia_diem": "xã Bảo Ái"},
+        {"ten": "CCN Châu Quế", "dien_tich_ha": 48, "dia_diem": "xã Châu Quế"}
+      ],
+      "moc": "Hoàn thành thẩm định, tổ chức Hội đồng đánh giá lựa chọn chủ đầu tư hạ tầng, trình UBND tỉnh quyết định thành lập trong quý III/2026",
+      "co_quan": "Sở Công Thương chủ trì"
+    },
+    "hoan_thien_ho_so": {
+      "danh_sach": [
+        {"ten": "CCN An Thịnh", "dia_diem": "xã Mậu A"},
+        {"ten": "CCN Phú Thịnh 6", "dia_diem": "phường Văn Phú"}
+      ],
+      "muc_tieu": "Hoàn thành vượt mục tiêu thành lập mới 05 CCN trong năm 2026",
+      "co_quan": "Sở Công Thương chủ trì"
+    },
+    "day_nhanh_gpmb": {
+      "danh_sach": [
+        {"ten": "CCN Phú Thịnh 1", "dia_diem": "xã Yên Bình, phường Văn Phú"},
+        {"ten": "CCN Phú Thịnh 2", "gpmb_con_lai": "13/75 ha"},
+        {"ten": "CCN Phú Thịnh 3", "gpmb_con_lai": "32/75 ha"}
+      ],
+      "noi_dung": "Đẩy nhanh GPMB phần còn lại và san gạt tạo mặt bằng sạch; xử lý dứt điểm chồng lấn ranh giới với Công ty cổ phần Chè Văn Hưng",
+      "co_quan": "UBND xã Yên Bình, UBND phường Văn Phú; Sở Nông nghiệp và Môi trường (chồng lấn)"
+    },
+    "da_khoi_cong": {
+      "danh_sach": [
+        {"ten": "CCN Thống Nhất 1", "dien_tich_ha": 74.95},
+        {"ten": "CCN Phú Thịnh 3", "dien_tich_ha": 75}
+      ],
+      "noi_dung": "Tập trung thi công hạ tầng, đẩy nhanh san gạt mặt bằng sạch, xúc tiến thu hút nhà đầu tư thứ cấp",
+      "co_quan": "Sở Công Thương đôn đốc"
+    },
+    "chuan_bi_khoi_cong": {
+      "danh_sach": ["CCN Minh Quân", "CCN Y Can", "CCN Bảo Minh"],
+      "moc": "Khởi công xây dựng đầu quý IV/2026",
+      "noi_dung": "Đẩy nhanh tiến độ GPMB, hoàn thiện thủ tục thuê đất phần diện tích đã GPMB",
+      "co_quan": "Sở Công Thương đôn đốc"
+    },
+    "chi_tieu_tac_dong": ["11", "3", "4", "29"]
+  },
+  "nhom_dd_nang_luong": [
+    {"ten": "Trạm biến áp 220 kV Lục Yên", "dia_diem": "xã Tân Lĩnh", "nhom": "NL", "moc_du_kien": "Hoàn thành GPMB trong quý III/2026 để khởi công", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "15"], "co_quan": "UBND xã Tân Lĩnh chủ trì GPMB; Sở Công Thương đôn đốc chủ đầu tư (Ban QLDA các công trình điện miền Bắc - Tổng công ty Truyền tải điện Quốc gia)"},
+    {"ten": "Trạm biến áp 220 kV Nghĩa Lộ và đường dây 220 kV Nghĩa Lộ - Việt Trì", "nhom": "NL", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "15"], "noi_dung": "Hoàn thiện thủ tục chấp thuận chủ trương đầu tư, chấp thuận nhà đầu tư; thủ tục giao đất, cho thuê đất", "co_quan": "Sở Tài chính chủ trì; Sở Nông nghiệp và Môi trường"},
+    {"ten": "Đường dây 220 kV Than Uyên - Trạm 500 kV Lào Cai", "nhom": "NL", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "15"], "noi_dung": "Bàn giao mặt bằng 59 vị trí móng còn lại; triển khai theo hướng tuyến đã điều chỉnh tại khu vực Võ Lao", "van_ban_dan_chieu": "Văn bản số 1599/UBND-KT ngày 06/3/2026 (CHƯA đối chiếu bản scan có dấu)", "co_quan": "UBND các xã liên quan"},
+    {"ten": "Trạm biến áp 500 kV Yên Bái và đường dây đấu nối", "nhom": "NL", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["3", "15"], "noi_dung": "Đôn đốc nhà đầu tư triển khai các bước sau chấp thuận chủ trương đầu tư", "van_ban_dan_chieu": "Quyết định số 2182/QĐ-UBND ngày 23/6/2026 (CHƯA đối chiếu bản scan có dấu)"},
+    {"ten": "Thủy điện Nậm Khoá 1-2", "cong_suat": "15 MW", "nhom": "NL", "moc_du_kien": "Vận hành quý III/2026", "chi_tieu_tac_dong": ["3", "15"]},
+    {"ten": "Thủy điện Hồ Bốn 2", "cong_suat": "5 MW", "nhom": "NL", "moc_du_kien": "Vận hành quý III/2026", "chi_tieu_tac_dong": ["3", "15"]},
+    {"ten": "Thủy điện Si Ma Cai", "cong_suat": "18 MW", "nhom": "NL", "moc_du_kien": "Đóng điện quý IV/2026", "chi_tieu_tac_dong": ["3", "15"]},
+    {"ten": "Thủy điện Lán Bò", "cong_suat": "7,6 MW", "nhom": "NL", "moc_du_kien": "Đóng điện quý IV/2026", "chi_tieu_tac_dong": ["3", "15"]},
+    {"_ghi_chu_thuy_dien": "Đóng góp 27 tỷ đồng ghi CHUNG cho cả 04 thủy điện, bản gốc không tách từng nhà máy. Sở Công Thương đôn đốc chủ đầu tư, phối hợp Công ty Điện lực Lào Cai bảo đảm tiến độ đấu nối, giải tỏa công suất.", "dong_gop_chung_ty_dong": 27.0},
+    {"ten": "Dự án cấp điện nông thôn", "nhom": "NL", "chu_dau_tu": "Sở Công Thương", "dong_gop_ty_dong": null, "chi_tieu_tac_dong": ["15"], "noi_dung": "Đôn đốc nhà thầu tập trung thi công tại các thôn Tà Chơ, Háng Đay (xã Phình Hồ); Khe Đâm, Khe Lóng, Khe Cành, Mảm 2, Sài Lương 3, Suối Dầm, Tặng Chan (xã Mỏ Vàng); Khe Lép, Khe Đóm (xã Phong Dụ Hạ); Sán Trá 1, Sán Trá 2 (xã Hạnh Phúc)", "co_quan": "Sở Công Thương (chủ đầu tư); UBND các xã phối hợp vận động bàn giao mặt bằng"}
+  ]
+}

@@ -16,6 +16,16 @@ Tài liệu này đúc kết cách làm THỰC TẾ tại Sở từ các hồ s�
 | Công ty TNHH MTV thương mại Tiến Anh (MSDN 5300804272, phường Lào Cai) | Bộ 1: LPG UN 1075, SHNH 23. Bộ 2: Xăng UN 1203, Dầu diesel UN 1202 | 2 và 3 | 02 bộ cùng đợt, 01 doanh nghiệp; LPG đi ở **dạng chai chứa 12 kg và 48 kg** trên xe tải có mui 24C-055.24; bộ 2 dùng đầu kéo 24C-047.97 + SMRM xi téc 24R-004.50 | GP cấp 7/2026, thời hạn 24 tháng. Chốt cách ghi cột khối lượng "Theo giấy tờ của phương tiện" cho mọi GP; soát chéo đồng bộ 2 GP cùng đợt. Chi tiết mục 8; bản chốt tại `vi-du-thuc-te/tien-anh-lpg-xangdau-072026/` |
 | Công ty Hòa Bình Châu Kiềm Tây Nam / Mậu Thịnh (pháp nhân TQ) | Kali permanganat UN 1490 | 5.1 | Tuyến ngắn vạch biên giới - bãi kiểm hóa Kim Thành | Loại 5 thuộc tỉnh từ 29/5/2026; khoản 1 Điều 8 KHÔNG có điều kiện địa bàn; tiền lệ Bộ KHCN/Bộ CT từng cấp trực tiếp cho pháp nhân TQ (bản scan tại van-ban-goc/07-tham-khao/) |
 
+## 1a. Giấy phép đã phát hành đang có trên CSDL trang web (đối chiếu với bảng tiền lệ ở mục 1)
+
+Trang https://vlncn-laocai.vercel.app/hazmat lưu bản ký số và dữ liệu đầy đủ (danh mục hàng, số UN, số hiệu nguy hiểm, danh sách phương tiện, thời hạn kiểm định) — bảng tra nhanh máy sinh tại **reference `20`**. Đến 03/9/2026 CSDL có 15 GP: 5-7/2026 loại 3 (2956 Trung Hiếu, 2957 Hải Yến, cùng 26/5/2026), loại 2 (3190 Khí công nghiệp Lào Cai 03/6, 3805 Apatit Việt Nam 27/6, 4365 Toàn Phát TQ amoniac 21/7, thời hạn **23 tháng**); tháng 8/2026 loại 3 (4913 Ngọc Khánh QĐ 14/8, 4945 HKD Nguyễn Tiến Thành 17/8, 5062 DNTN Hồng Yên 19/8), **loại 8 sau QĐ 2848** (5128 Hà Tân 21/8 — 9 mặt hàng ISO tank; 5215 và 5216 Cty CP TM-VT và TVKT 24/8 axit nitric, 17 và 10 phương tiện; 5241 Toàn Phát TQ 25/8 hạn đến 31/3/2027), loại 2 (5299 Bắc Thăng Long LPG 27/8; 5334 Toàn Phát TQ amoniac 28/8 — 16 phương tiện biển Trung Quốc), **loại 5.1** (5333 Toàn Phát TQ kali permanganat 28/8).
+
+Điểm nghiệp vụ rút ra từ 15 GP thật:
+- Thời hạn GP theo **hạn kiểm định từng phương tiện** (5299, 5333, 5334): điều khoản "kể từ ngày ký đến hết thời hạn kiểm định của từng phương tiện tại biểu kèm theo", biểu có thêm cột "Thời hạn kiểm định phương tiện vận chuyển"; khi nhập CSDL lấy mốc muộn nhất làm ngày hết hạn và ghi rõ mốc sớm nhất.
+- GP 5241 khống chế "đến hết ngày 31/3/2027" (theo kiểm định); GP 4365 "23 tháng" — xác nhận thông lệ cấp ngắn hơn 24 tháng ở mục 2.
+- Trích yếu trên Data360X có thể sai (5216 ghi "Dự thảo" nhưng là bản phát hành có đủ số, ngày ký số) — luôn căn cứ nội dung PDF; số/ngày nằm trong trường ký số (widget Signature2 = số, Signature3 = ngày), lớp text để trống.
+- **Khoảng trống cần bù**: các hồ sơ ở bảng mục 1 cấp 6-7/2026 (An Khang, Bắc Cường, Thái Thịnh, Sợi Phương Nam, Tiến Anh 02 GP…) **chưa có trên trang web** vì bot chỉ quét từ 8/2026 — cần Bạn gửi PDF hoặc chạy bot với `--ngay 120` để bổ sung, khi đó reference 20 tự cập nhật.
+
 ## 2. Thể thức Giấy phép của Sở (đối chiếu 2 GP thực tế đã cấp)
 
 - Tiêu đề cơ quan: `UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG`; số ký hiệu: **`Số: .../GP - SCT`** (có khoảng trắng quanh gạch nối - giữ đúng theo bản đã phát hành).

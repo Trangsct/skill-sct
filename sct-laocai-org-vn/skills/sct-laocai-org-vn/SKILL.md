@@ -365,6 +365,17 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - ❌ Trình dự thảo lĩnh vực khoáng sản/hóa chất/thẩm định công trình lên PTP Trang hoặc PTP Đ.M.Cường kiểm duyệt — các lĩnh vực này thuộc **PTP Nguyễn Hồng Vân**. CCN, VLNCN, KHCN-ĐMST CN do **Trưởng phòng trực tiếp** chỉ đạo, không qua PTP.
 - ❌ Gán hồ sơ cấp GP vận chuyển HHNH cho CN(Khôi) từ 15/7/2026 trở đi — Bạn đã chốt: **HHNH toàn bộ → CN(Linh)**; Khôi chỉ còn VLNCN/tiền chất thuốc nổ/GCN huấn luyện KTAT/KHCN-ĐMST CN. Văn bản HHNH giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử. KCN → CN(Trung) (đã xác nhận).
 
+## Công cụ số và dây chuyền dữ liệu của Phòng Quản lý công nghiệp (từ 9/2026)
+
+| Công cụ | Địa chỉ / kho mã | Dùng để | Người vận hành |
+|---|---|---|---|
+| **Cổng Khu, Cụm công nghiệp Lào Cai** | https://www.congnghieplaocai.vn (repo `Trangsct/ccn-laocai`, Netlify CMS + Vercel) | Bản đồ, danh mục, chi tiết 23 CCN đã thành lập + 35 CCN quy hoạch + 20 KCN; văn bản pháp luật; chatbot Gemini | PTP Trần Trọng Trang; số liệu CCN: CN(Trung) |
+| **CSDL VLNCN và hàng hóa nguy hiểm** | https://vlncn-laocai.vercel.app (repo `Trangsct/vlncn-laocai`; PDF ký số tại `Trangsct/vlncn-laocai-files/uploads`) | GP sử dụng VLNCN, tiền chất thuốc nổ, GCN huấn luyện, dịch vụ nổ mìn, **GP vận chuyển HHNH** (lĩnh vực riêng, báo cáo riêng); xuất **Báo cáo định kỳ** đúng Mẫu 03 PL X TT 23/2024 và khung báo cáo HHNH; nút *Cập nhật dữ liệu ngay* | PTP Trang; VLNCN: CN(Khôi); HHNH: CN(Linh) |
+| **Dây chuyền tự động 18h** | bot `ccn-laocai/bot/` trên máy PTP Trang → Data360X (csdlvb.laocai.gov.vn, Văn bản đi/đến Phòng Công nghiệp) → GitHub Actions + Gemini (đọc PDF 2 lượt, so khớp số liệu, số/ngày lấy từ trường ký số) → CSDL web → 18h40 đồng bộ sang plugin | Giấy phép mới ký tự lên trang; trường bắt buộc chắc thì tự cập nhật, chưa chắc mở PR chờ duyệt; bấm đúp `cap-nhat-ngay.bat` để chạy sớm | PTP Trang (đăng nhập Data360X khi phiên hết hạn) |
+| **Bộ plugin skill-sct** | repo `Trangsct/skill-sct` (21 plugin) | Tri thức nghiệp vụ; hai plugin `sd-vlncn-sct-vn` (ref 12) và `hnh-sct-vn` (ref 20) nhận ảnh chụp CSDL trang web tự động mỗi ngày | PTP Trang |
+
+Nguyên tắc: **trang web là nguồn sự thật về giấy phép đã cấp** (số, ngày, hạn, PDF ký số); **plugin là nguồn sự thật về quy trình, thẩm quyền, mẫu văn bản**; số liệu hiện trạng khác (khối lượng đã dùng, kho, tiến độ CCN) hỏi Bạn. Không bịa số/ngày; mọi con số trong báo cáo xuất từ trang đều kèm nguồn.
+
 ## Liên kết với các skill/plugin khác (hệ sinh thái Trangsct/skill-sct)
 
 Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhân sự - routing của Sở. Khi các plugin nghiệp vụ dưới đây ghi tên chuyên viên/dòng Lưu khác với mục "Cơ cấu nội bộ Phòng QLCN" ở trên, **lấy skill này (bản mới nhất) làm chuẩn** và báo Bạn để đồng bộ plugin.

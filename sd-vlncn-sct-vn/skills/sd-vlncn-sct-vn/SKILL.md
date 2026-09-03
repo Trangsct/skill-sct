@@ -19,6 +19,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
 - **Báo cáo** định kỳ/đột xuất về VLNCN: của doanh nghiệp gửi Sở; của UBND tỉnh (SCT dự thảo) gửi Bộ Công Thương/Cục KTAT&MTCN → reference `06` + mẫu 15.
 - Tra cứu **ví dụ thực tế đã ban hành** (giấy phép, QĐ PANM, tờ trình, báo cáo… của Lào Cai 2025–2026) → reference `07` + thư mục `vi-du-thuc-te/`.
+- Tra **giấy phép nào đang còn hiệu lực, số/ngày/hạn/khối lượng của GP đã cấp, tổ chức nào có GP** → reference `12` (ảnh chụp CSDL trang https://vlncn-laocai.vercel.app, đồng bộ tự động 18h40; trích dẫn chính thức phải mở PDF ký số theo liên kết). Số liệu hiện trạng khác (khối lượng đã dùng, kho) vẫn hỏi Bạn.
 - ⭐ **Câu hỏi "việc này ai làm / có thuộc thẩm quyền UBND tỉnh, Sở Công Thương không"**: 10 thẩm quyền cấp phép – phê duyệt của UBND cấp tỉnh; 6 đầu mối tiếp nhận thông báo Sở phải mở sổ theo dõi; nhiệm vụ thường xuyên theo Điều 19 TT 23/2024; ranh giới với **Công an (GP vận chuyển – PC06/C06), Bộ Quốc phòng (Bộ Tham mưu/TCCNQP), Cục KTAT&MTCN, Cục Hóa chất**; bảng tác động của Luật 118/2025 → **reference `10`**.
 
 **Ranh giới với plugin khác:** kho VLNCN (thiết kế, nghiệm thu, kiểm định kho) → plugin `kho-vlncn-sct-vn`; **xử phạt VPHC chi tiết (bảng hành vi - mức phạt, thẩm quyền, chuyển tiếp NĐ 275/2026)** → plugin `xp-sct-vn` (kế thừa xp-hc-vlncn-sct-vn; references/01-vlncn-hoachat/); vận chuyển VLNCN → **Trưởng phòng PC06 Công an cấp tỉnh** cấp GP (điểm đ k2 Đ4 TT 75/2024/TT-BCA; quá cảnh/XNK: Cục trưởng C06; khối BQP: Mệnh lệnh vận chuyển), KHÔNG thuộc SCT (plugin `hnh-sct-vn` chỉ xử lý HHNH trừ VLNCN); PCCC chuyên sâu → `pccc-sct-vn`. Khi soạn văn bản: kết hợp `vbhc-vn` (thể thức), `sct-laocai-org-vn` (người ký, Lưu CN), GATE/`vbhc-pdf-reader-vn` khi đọc PDF đến.
@@ -170,7 +171,9 @@ sd-vlncn-sct-vn/
 │                                    ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình
 │                                    5 bước xử lý sau khi bị trả
 │   ├── 10-tham-quyen-ubnd-tinh-va-sct.md ← bản đồ thẩm quyền UBND tỉnh/SCT, QĐ 2867, CV 5085
-│   └── 11-anti-error.md              ← ⭐ 26 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── 11-anti-error.md              ← ⭐ 26 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,
+│                                    GP-SCT đã cấp, TCTN, dịch vụ nổ mìn (máy sinh, không sửa tay)
 ├── mau-van-ban/                      ← 23 mẫu sẵn dùng (điền 【...】), soạn docx bằng vbhc-vn
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md

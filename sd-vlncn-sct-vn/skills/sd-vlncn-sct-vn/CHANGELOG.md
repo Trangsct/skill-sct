@@ -1,5 +1,11 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.3.1] - 03/9/2026 — đồng bộ tri thức với trang vlncn-laocai; 06 GP-SCT đầu tiên; mẫu báo cáo 6 tháng 2026
+- **Ref 12 mới `12-csdl-vlncn-laocai.md`** (máy sinh từ CSDL trang web, đồng bộ tự động 18h40 hằng ngày qua `scripts/dong_bo_tri_thuc.py` của repo vlncn-laocai): 25 GP sử dụng VLNCN còn hiệu lực kèm mã số DN, công trình, khối lượng, liên kết PDF ký số; GP hết hiệu lực; thống kê theo năm; 14 GP tiền chất thuốc nổ; 16 thông báo dịch vụ nổ mìn; mô tả các mục trang web và dây chuyền Data360X → Gemini → web.
+- **Ref 07**: thêm 06 GP `/GP-SCT` đầu tiên cấp theo ủy quyền QĐ 2867 (5234, 5235, 5236 ngày 24/8/2026; 5315 cấp lại, 5323, 5347 ngày 28/8/2026) — khép hồ sơ Miền Tây và Mông Sơn; bài học: số/ngày nằm trong trường ký số PDF.
+- **Ref 06 mục C2 + mẫu 15**: cấu trúc bản báo cáo 6 tháng đầu năm 2026 (mục a bảng 7 cột, mục 2-3 tai nạn/thất thoát riêng, 6 kiến nghị sửa Luật 42/2024); khung docx `vi-du-thuc-te/BC-dinh-ky-6-thang-dau-nam-2026-du-thao.docx`; trang web xuất sẵn khung Word này.
+- SKILL.md: cây file + dòng routing tra CSDL.
+
 ## [2026.9.2.3] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn
 - Nơi nộp hồ sơ TTHC: DUY NHẤT Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID) — Bạn chốt lại 02/9/2026. Bỏ mọi cách ghi "kênh phụ"/"hoặc qua" Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh" trong hướng dẫn DN; trích luật thì ghi rõ là trích luật.
 

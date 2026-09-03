@@ -1,5 +1,8 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## [2.2.0] - 03/9/2026 — công cụ số và dây chuyền dữ liệu của Phòng QLCN
+- Thêm mục "Công cụ số và dây chuyền dữ liệu": 2 trang web (congnghieplaocai.vn; vlncn-laocai.vercel.app kèm kho PDF), dây chuyền tự động 18h Data360X → Gemini → web → plugin, bộ plugin skill-sct; ai vận hành; nguyên tắc nguồn sự thật (trang web = giấy phép đã cấp; plugin = quy trình/mẫu; hiện trạng khác hỏi Bạn).
+
 ## [2.1.1] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn
 - Nơi nộp hồ sơ TTHC: DUY NHẤT Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID) — Bạn chốt lại 02/9/2026. Bỏ mọi cách ghi "kênh phụ"/"hoặc qua" Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh" trong hướng dẫn DN; trích luật thì ghi rõ là trích luật.
 

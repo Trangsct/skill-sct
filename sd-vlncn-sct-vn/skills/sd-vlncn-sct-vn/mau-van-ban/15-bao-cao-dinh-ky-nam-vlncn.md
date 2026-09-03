@@ -1,6 +1,6 @@
 # Mẫu 15 — BÁO CÁO ĐỊNH KỲ (năm/6 tháng) về VLNCN, tiền chất thuốc nổ của UBND tỉnh
 
-> Mẫu 03 Phụ lục X TT 23/2024; chủ thể UBND tỉnh Lào Cai (SCT dự thảo, có thể kèm tờ trình/phiếu trình ký); Kính gửi: Bộ Công Thương (Cục Kỹ thuật an toàn và Môi trường công nghiệp). Hạn gửi: trước 30/6 và 30/12. Khung docx thật: `vi-du-thuc-te/BC-dinh-ky-VLNCN-nam-2025.docx`. MỌI SỐ LIỆU HỎI BẠN — không lấy số kỳ trước.
+> Mẫu 03 Phụ lục X TT 23/2024; chủ thể UBND tỉnh Lào Cai (SCT dự thảo, có thể kèm tờ trình/phiếu trình ký); Kính gửi: Bộ Công Thương (Cục Kỹ thuật an toàn và Môi trường công nghiệp). Hạn gửi: trước 30/6 và 30/12. Khung docx thật: **ưu tiên `vi-du-thuc-te/BC-dinh-ky-6-thang-dau-nam-2026-du-thao.docx`** (cấu trúc mới nhất, mục a dạng bảng 7 cột, có mục 2-3 tai nạn/thất thoát — xem ref 06 mục C2; trang vlncn-laocai xuất sẵn khung này ở mục Báo cáo định kỳ), bản năm 2025: `vi-du-thuc-te/BC-dinh-ky-VLNCN-nam-2025.docx`. MỌI SỐ LIỆU HỎI BẠN — không lấy số kỳ trước.
 
 **BÁO CÁO Định kỳ 【6 tháng/năm 20…】 về vật liệu nổ công nghiệp, tiền chất thuốc nổ** (số liệu từ 15/12/20【…】 đến 14/【6|12】/20【…】)
 

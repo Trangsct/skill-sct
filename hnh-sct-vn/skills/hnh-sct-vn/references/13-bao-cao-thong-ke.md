@@ -86,3 +86,7 @@ về sự cố trong vận chuyển hàng hóa nguy hiểm
 3. Phân tách rõ "Sở xử phạt" và "chuyển cơ quan khác xử lý" để không phản ánh sai thẩm quyền (xem plugin xử phạt riêng `xp-sct-vn`).
 4. Bám đúng đề cương/biểu mẫu của văn bản yêu cầu báo cáo nếu có; nếu không có đề cương, dùng khung tại mục 3/4.
 5. Báo cáo do PGĐ phụ trách lĩnh vực ký (SCT-CN); báo cáo quan trọng/Tờ trình UBND tỉnh do Giám đốc Sở ký - xác định đúng người ký trước khi hoàn thiện.
+
+## 6. Trang vlncn-laocai xuất sẵn báo cáo theo khung mục 2-3 (từ 03/9/2026)
+
+Mục *Báo cáo định kỳ* → lĩnh vực **Vận chuyển hàng hóa nguy hiểm** → chọn kỳ 6 tháng / 1 / 2 / 3 / 5 / 10 năm → *Xuất Word*: thể thức Sở (Số .../BC-SCT, KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC), cấu trúc I-V đúng mục 3, bảng 13 chỉ tiêu đúng mục 2 (kỳ này / lũy kế). Trang tự điền chỉ tiêu 2 (GP cấp mới) từ CSDL kèm phân theo loại hàng, GP còn hiệu lực, hết hiệu lực trong kỳ, danh sách GP cấp trong kỳ, bảng theo từng năm; các chỉ tiêu 1, 3-13 để 【…】 (trang chưa quản lý). **Kính gửi và câu dẫn "Thực hiện Văn bản số … của …" để trống** đúng cảnh báo mục 1 — cán bộ điền theo văn bản yêu cầu báo cáo. Bản Excel kèm sheet "Nguon so lieu". Không dùng số trong file làm số chính thức nếu chưa đối chiếu sổ theo dõi của Phòng.

@@ -1,3 +1,11 @@
+## 03/9/2026 — đồng bộ tri thức trang web ↔ plugin: sd-vlncn-sct-vn v2026.9.2.3 → v2026.9.3.1, hnh-sct-vn v1.9.2 → v1.10.0, sct-laocai-org-vn v2.1.1 → v2.2.0
+
+Bạn yêu cầu 03/9/2026: tri thức phải thống nhất giữa bộ plugin và 2 trang web. Từ nay CSDL giấy phép trên trang vlncn-laocai là nguồn sự thật về giấy phép đã cấp và được **máy sinh thành reference trong plugin, đồng bộ tự động 18h40 hằng ngày** (`scripts/dong_bo_tri_thuc.py` + workflow `dong-bo-tri-thuc.yml` của repo vlncn-laocai; chỉ nâng version plugin khi nội dung đổi, theo đúng quy trình sync_marketplace/check_descriptions).
+
+- **sd-vlncn-sct-vn**: ref 12 mới (ảnh chụp CSDL: 25 GP sử dụng VLNCN còn hiệu lực, 14 GP tiền chất, 16 thông báo dịch vụ nổ mìn, liên kết PDF ký số); ref 07 thêm 06 GP `/GP-SCT` đầu tiên theo ủy quyền QĐ 2867 (24 và 28/8/2026); ref 06 mục C2 + mẫu 15: cấu trúc bản báo cáo 6 tháng đầu năm 2026 (mục a bảng 7 cột) + khung docx mới; trang web xuất sẵn khung Word này.
+- **hnh-sct-vn**: ref 20 mới (15 GP vận chuyển HHNH đã cấp 5-8/2026); ref 16 mục 1a đối chiếu + 4 điểm nghiệp vụ (thời hạn theo kiểm định từng phương tiện, GP 23 tháng, trích yếu Data360X sai, số/ngày ở trường ký số) + khoảng trống GP 6-7/2026 chưa có trên trang; ref 13 mục 6 trang web xuất báo cáo HHNH theo khung I-V và 13 chỉ tiêu.
+- **sct-laocai-org-vn**: mục "Công cụ số và dây chuyền dữ liệu" — 2 trang web, dây chuyền tự động, bộ plugin, người vận hành, nguyên tắc nguồn sự thật.
+
 ## 03/9/2026 — dacn-sct-vn v1.3.2 → v1.4.0: nạp danh mục dự án SXCN dự kiến hoàn thành, đưa vào sản xuất năm 2026
 
 Nguồn: file tổng hợp "Các DA SXCN dự kiến hoàn thành năm 2026" Bạn cung cấp 03/9/2026, kỳ ghi Tháng 9/2026 — **KHÔNG có số/ngày/cơ quan ban hành/người ký**, đã đặt GATE cấm viện dẫn dạng "theo Văn bản số ... ngày ...".

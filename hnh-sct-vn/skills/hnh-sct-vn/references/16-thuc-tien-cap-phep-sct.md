@@ -211,3 +211,28 @@ Khổ A4, lề trên/dưới 2 cm, trái 3 cm, phải 2 cm; Times New Roman - th
 ### 9.4. Hạng GPLX hai hệ song song
 
 Ghi đúng hạng in trên GPLX của từng người. Hệ hạng cũ (E, FC) và hệ mới (CE) tồn tại song song trong cùng bộ hồ sơ là bình thường - GPLX cấp trước 01/01/2025 dùng đến hết hạn ghi trên giấy. Không tự quy đổi, không coi là mâu thuẫn hồ sơ.
+
+## 10. Bộ hồ sơ doanh nghiệp nhóm LOẠI 5 và mẫu riêng của Chi nhánh số 1 Sợi Phương Nam (03/9/2026)
+
+Vụ thứ ba của cùng một đơn vị trong năm 2026 (Argon lỏng 7/2026 - mục 6; NH3 khan 7/2026 - mục 6; canxi hypoclorit 9/2026 - mục này). Đơn vị nộp hồ sơ thường xuyên nên plugin giữ riêng một bộ mẫu tại `vi-du-thuc-te/soi-phuong-nam-canxi-hypoclorit-loai5-092026/` (04 tệp doanh nghiệp + công văn hoàn thiện bổ sung + README).
+
+### 10.1. Nhận dạng vụ việc
+
+Hàng: Canxi hypoclorit khô (UN 1748) và canxi hypoclorit ngậm nước (UN 2880), **loại 5, nhóm 5.1, số hiệu nguy hiểm 50** - hồ sơ loại 5 đầu tiên Sở thụ lý theo ủy quyền QĐ 2848/QĐ-UBND (mã TTHC 1.013340). Hàng rắn dạng hạt, đóng thùng nhựa 50 lít, xếp trong công-ten-nơ 40 feet trên tổ hợp đầu kéo Ngạc J0H466 - sơ mi rơ moóc chở công-ten-nơ Ngạc J6657 (biển Hồ Bắc, Trung Quốc), thuê của Công ty TNHH vận tải Khải Doanh Hồ Bắc theo Hợp đồng thuê xe và Giấy ủy quyền cùng số 2026-001 ngày 01/8/2026. Tuyến chỉ trong phạm vi 500 m khu vực cửa khẩu quốc tế đường bộ số II Kim Thành.
+
+### 10.2. Lỗi lặp lại của đơn vị này - kiểm trước tiên ở mọi đợt sau
+
+- **Hợp đồng song ngữ còn nguyên nội dung bộ hồ sơ trước.** Vụ 9/2026: phần tiếng Trung vẫn ghi 无水氨气 (amoniac khan) và tuyến đi khu công nghiệp Tằng Loỏng, trong khi phần tiếng Việt là canxi hypoclorit. Khi thẩm định hồ sơ của đơn vị này phải **đọc cả phần tiếng Trung**, không chỉ phần tiếng Việt.
+- **Khối lượng vận chuyển ghi tổng số tấn không rõ mốc tính.** Vụ 7/2026 ghi 15.000 tấn ở Giấy đề nghị và 10.000 tấn ở Phương án; vụ 9/2026 lặp lại con số 15.000 tấn. Chốt cách ghi: "Theo trọng tải được phép chở của phương tiện".
+- **Phương án sao chép bộ cũ:** sai tên pháp nhân, đội ứng phó gồm người ngoài hồ sơ, còn nhắc "xe bồn" khi hàng đi công-ten-nơ, nhiều mục để trống "chưa có thông tin".
+- **Số điện thoại không thống nhất** giữa Giấy chứng nhận đăng ký hoạt động chi nhánh (0869006933) và hồ sơ doanh nghiệp (0919346616).
+
+### 10.3. Ba điểm nghiệp vụ mới rút ra
+
+- **Trọng tải xe biển Trung Quốc:** Giấy phép lưu hành xe cơ giới ghi riêng "tổng trọng lượng kéo theo" của đầu kéo (40.000 kg) và "trọng tải theo quy định" của sơ mi rơ moóc (34.600 kg). Doanh nghiệp hay lấy 40.000 kg làm trọng tải chở của đầu kéo và tự kê 36.400 kg cho rơ moóc. Ghi đúng hai chỉ tiêu, áp nguyên tắc 14.
+- **Chứng nhận vận tải đường bộ Trung Quốc (道路运输证)** có mục phạm vi kinh doanh liệt kê từng loại hàng nguy hiểm được phép chở (loại 3, loại 5 mục 1, loại 5 mục 2, loại 8, loại 9). Đối chiếu mục này với loại hàng đề nghị cấp phép - đây là căn cứ thực tế cho điều kiện tiên quyết tại Điều 13 Nghị định thư Việt - Trung (xe phải được phía Trung Quốc cấp phép chở hàng nguy hiểm).
+- **Phương án loại 5 phải có phần chữa cháy riêng cho chất oxy hóa:** dùng nhiều nước, **cấm bột hóa học khô, CO2, bọt gốc hữu cơ và chất chữa cháy chứa hợp chất amoni**; nêu ngưỡng phân hủy trên 40°C và phản ứng với axit, chất hữu cơ, dầu mỡ, chất khử, amoniac, muối amoni. Không dùng lại nội dung đặc tính nguy hiểm của hàng loại 8 (ăn mòn) cho hàng loại 5.
+
+### 10.4. Bôi đỏ khi giao bộ hồ sơ cho doanh nghiệp tự hoàn thiện
+
+Khi Sở dựng lại bộ hồ sơ giúp doanh nghiệp, bản giao đi bôi màu đỏ đúng các vị trí doanh nghiệp phải tự điền hoặc tự khắc phục: số văn bản, ngày ký, điện thoại - email cần xác nhận, thời hạn đề nghị, các ô giấy tờ còn tồn tại (giấy phép lái xe sắp hết hạn, giấy chứng nhận tập huấn ghi sai tên người được cấp hoặc sai đơn vị công tác). Các nội dung Sở đã điền đúng theo giấy tờ gốc để màu đen - tránh làm doanh nghiệp sửa lại thành sai.

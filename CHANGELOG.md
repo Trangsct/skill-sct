@@ -1,3 +1,7 @@
+## 04/9/2026 — hnh-sct-vn v1.10.0 → v1.11.0: bộ hồ sơ mẫu chuẩn LOẠI 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam
+
+Vụ canxi hypoclorit (UN 1748, UN 2880 — loại 5, nhóm 5.1, số hiệu nguy hiểm 50) của Chi nhánh số 1 - Công ty cổ phần Xuất nhập khẩu Sợi Phương Nam nộp ngày 03/9/2026 — hồ sơ loại 5 đầu tiên Sở thụ lý theo ủy quyền QĐ 2848/QĐ-UBND (mã TTHC 1.013340), xe biển Trung Quốc, tuyến trong phạm vi 500 m khu vực cửa khẩu Kim Thành. Sản phẩm: thư mục `vi-du-thuc-te/soi-phuong-nam-canxi-hypoclorit-loai5-092026/` gồm 04 tệp hồ sơ doanh nghiệp bản Sở dựng lại + công văn hoàn thiện, bổ sung + README (09 lỗi đã sửa); reference 16 mục 10 mới (lỗi lặp lại của đơn vị này, trọng tải xe biển Trung Quốc, phạm vi kinh doanh trên 道路运输证, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp); cập nhật SKILL.md mục IV và IV-a.
+
 ## 03/9/2026 — sd-vlncn-sct-vn v2026.9.3.1 → v2026.9.3.2: vụ Thịnh Đạt — PANM hầm lò chuẩn rà đủ Phụ lục VII, Giấy đề nghị Mẫu số 04, anti-error 25–30
 
 Hồ sơ Cty CP Thịnh Đạt (mỏ chì - kẽm Trống Pá Sang, xã Tú Lệ, hầm lò) rút ngày 23/7/2026, Bạn yêu cầu soạn lại để nộp ngay. Sản phẩm: 2 khung docx chuẩn + 2 script dựng lại; mẫu 24 mới (Giấy đề nghị đúng **Mẫu số 04** Phụ lục III — sửa nhầm "Mẫu 03"; Mẫu 04 không bị TT 26/2026 sửa); mẫu 22 thêm checklist Phụ lục VII; ref 07 mục M; ref 11 anti-error 25–30 (Mẫu 04; 9 nội dung PL VII dễ thiếu + khối ký PHÊ DUYỆT trái; **giờ nổ mìn hầm lò không ấn định khung cấm** — chốt PTP Trang 03/9; GATE 3 nguồn số VLNCN năm; sức chứa kho theo nghiệm thu PCCC; chủng loại/phương pháp theo thiết kế).

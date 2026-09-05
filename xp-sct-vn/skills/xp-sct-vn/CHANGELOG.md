@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.5.0 — 05/9/2026
+NQ 66.25/2026/NQ-CP (04/9/2026, hiệu lực 15/9/2026): thẩm quyền xử phạt khoáng sản NĐ 36/2020 (21 điều) và k3 Đ6 NĐ 189/2025 chuyển sang ngành Công Thương — ref 06 mục A GATE mới; xem CHANGELOG-v2026.09.05.md.
+
 ## 1.4.2 — 02/9/2026
 - Ref 07 mục ATVSLĐ trỏ sang plugin mới `atvsld-sct-vn`.
 

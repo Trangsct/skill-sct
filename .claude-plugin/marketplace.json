@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.31"
+    "version": "4.11.33"
   },
   "plugins": [
     {
@@ -24,13 +24,13 @@
       "name": "bvmt-sct-vn",
       "source": "./bvmt-sct-vn",
       "description": "QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương Lào Cai: thẩm định ĐTM/GPMT; ủy viên Hội đồng thẩm định GPMT (Mẫu 30, Phiếu 31, checklist BCĐX hạ tầng CCN); GATE NQ 66.19/2026; phân loại nhóm I-IV (Luật 146/2025, NĐ 48/2026); KHÍ NHÀ KÍNH: kiểm kê KNK, MRV TT 38/2023, danh mục QĐ 42/2026/QĐ-TTg (18 cơ sở Lào Cai), hạn ngạch QĐ 699, sàn các-bon NĐ 29/2026, NĐ 112/2026, các-bon rừng NĐ 180/2026, BĐKH; đóng cửa mỏ; gyps Tằng Loỏng; sự cố; xử phạt; kinh phí SNMT BC 892.",
-      "version": "1.4.1"
+      "version": "1.4.2"
     },
     {
       "name": "dacn-sct-vn",
       "source": "./dacn-sct-vn",
-      "description": "Điều hành danh mục dự án công nghiệp và chỉ tiêu tăng trưởng ngành Công Thương tỉnh Lào Cai theo NQ 169/NQ-CP ngày 27/6/2026: tra 09 chỉ tiêu Sở chủ trì (IIP, chế biến chế tạo, bán lẻ, xuất nhập khẩu, điện thương phẩm) và chỉ tiêu phối hợp; lập, xếp hạng danh mục dự án động lực; phân tích SXCN hằng tháng, cảnh báo sớm; nhận diện điểm nghẽn; báo cáo trước ngày 20; kịch bản tăng trưởng; số liệu KCN, KKT cửa khẩu, KTXH 6 tháng 2026; dự án SXCN dự kiến hoàn thành năm 2026 kèm mốc, cơ quan đôn đốc.",
-      "version": "1.4.0"
+      "description": "Danh mục dự án công nghiệp phục vụ mục tiêu tăng trưởng tỉnh Lào Cai theo NQ 169/NQ-CP: 09 chỉ tiêu SCT chủ trì, dự án động lực, phân tích SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, kịch bản tăng trưởng, số liệu KCN/KKT, KTXH 6 tháng 2026, dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg (thay QĐ 1131; SP 25 chế biến sâu khoáng sản, đất hiếm) và dự thảo Kế hoạch UBND tỉnh Bài toán lớn số 2 (05 chuỗi giá trị, 16 nhiệm vụ, 42 tỷ).",
+      "version": "1.5.0"
     },
     {
       "name": "hc-sct-vn",
@@ -47,14 +47,14 @@
     {
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
-      "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND 14/8/2026 (ủy quyền bổ sung loại 5, 8 đến 31/12/2030). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit ăn mòn, ISO tank); chuyên sâu xuyên biên giới Việt - Trung.",
-      "version": "1.10.0"
+      "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương tỉnh Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND (ủy quyền loại 5, 8). Kèm văn bản gốc, mẫu hồ sơ, checklist, bộ hồ sơ mẫu chuẩn loại 8 (axit, ISO tank) và loại 5 (canxi hypoclorit, xe biển Trung Quốc); chuyên sâu xuyên biên giới Việt - Trung.",
+      "version": "1.11.0"
     },
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm lựa chọn chủ đầu tư (thang 100); điều kiện khởi công; Hội đồng thẩm định quy hoạch KCN; tra QĐ 525 quy hoạch tỉnh, QĐ 1382, QĐ 2390/2026, NQ 34-NQ/TU, KH 134. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Kèm hồ sơ gốc, bộ theo dõi tiến độ, ví dụ thực tế.",
-      "version": "1.22.3"
+      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp trọn quy trình; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; Hội đồng chấm điểm chủ đầu tư (thang 100); điều kiện khởi công; Hội đồng thẩm định quy hoạch KCN; tra QĐ 525, QĐ 1382, QĐ 2390/2026, NQ 34-NQ/TU. Khung 8/2026: NĐ 32/2024, 139/2025, 178/2026, 303/2026, TT 14/2024, QĐ 16/2026. Từ 15/9/2026 QLNN về KCN chuyển Bộ Tài chính → Bộ Công Thương theo NQ 66.25/2026/NQ-CP (ref 29).",
+      "version": "1.23.0"
     },
     {
       "name": "kho-vlncn-sct-vn",
@@ -71,20 +71,20 @@
     {
       "name": "qlks-sct-vn",
       "source": "./qlks-sct-vn",
-      "description": "QLNN về khoáng sản - Sở Công Thương Lào Cai: phân vai liên ngành; kế hoạch quản lý rủi ro; GCN kỹ thuật an toàn hầm lò; chế biến, nguồn gốc khoáng sản; đối chiếu VLNCN - sản lượng; rà chồng lấn khi thẩm định dự án, CCN; thống kê - báo cáo định kỳ; thu hồi khoáng sản trọn hồ sơ (nạo vét lòng hồ thủy điện, đất đá thải mỏ); ủy viên Hội đồng thẩm định Đề án thăm dò (QĐ 777/QĐ-UBND); xác minh kiến nghị ranh giới mỏ giáp ranh. Khung: Luật 54/2024, 147/2025, NĐ 193/2025, 62/2025, TT 24+36+37+43/2025.",
-      "version": "1.9.1"
+      "description": "QLNN về địa chất, khoáng sản - Sở Công Thương Lào Cai. Từ 15/9/2026 Sở tiếp nhận toàn bộ chức năng từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, sản lượng, xử phạt) - GATE ref 23. 13 nghiệp vụ: phân vai theo thời kỳ; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc; đối chiếu VLNCN - sản lượng; thu hồi khoáng sản; ủy viên Hội đồng thăm dò (QĐ 777); ranh giới mỏ giáp ranh. Luật 54/2024, 147/2025, NĐ 193/2025, 21/2026, 150/2025.",
+      "version": "2.0.0"
     },
     {
       "name": "quy-hoach-ct-vn",
       "source": "./quy-hoach-ct-vn",
-      "description": "Cẩm nang quy hoạch 04 ngành Công Thương tỉnh Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Xác định dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch không và thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối - gió - mặt trời, trạm biến áp và đường dây 500/220/110 kV, khu vực khoáng sản nhóm I-IV. Nguồn: QĐ 525/QĐ-UBND, QĐ 768/QĐ-TTg (Điện VIII), QĐ 866 và QĐ 1626/QĐ-TTg, kèm toàn văn và vốn cấp điện nông thôn (QĐ 2390/2026).",
-      "version": "1.1.2"
+      "description": "Cẩm nang quy hoạch 04 ngành Công Thương tỉnh Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Xác định dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch không, thuộc quyết định nào; tra thủy điện, điện sinh khối - gió - mặt trời, TBA và đường dây 500/220/110 kV, khoáng sản nhóm I-IV. Nguồn: QĐ 525/QĐ-UBND, QĐ 768/QĐ-TTg, QĐ 866 và 1626/QĐ-TTg, vốn cấp điện nông thôn QĐ 2390/2026. Từ 15/9/2026 quy hoạch khoáng sản thuộc Bộ Công Thương (NQ 66.25/2026/NQ-CP).",
+      "version": "1.2.0"
     },
     {
       "name": "sct-laocai-org-vn",
       "source": "./sct-laocai-org-vn",
-      "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Dùng để xác định PGĐ phụ trách lĩnh vực, trình ai, ai ký, ghi đúng dòng Lưu VT CN(tên), phòng chủ trì - phối hợp. Nguồn chuẩn duy nhất về nhân sự cho toàn hệ sinh thái plugin.",
-      "version": "2.2.0"
+      "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Xác định PGĐ phụ trách, trình ai, ai ký, dòng Lưu VT CN(tên), phòng chủ trì - phối hợp. Nguồn chuẩn về nhân sự cho toàn hệ sinh thái. Từ 15/9/2026 Sở tiếp nhận chức năng địa chất, khoáng sản, KCN theo NQ 66.25/2026/NQ-CP - ai phụ trách, GATE hành văn.",
+      "version": "2.3.0"
     },
     {
       "name": "sd-vlncn-sct-vn",
@@ -95,8 +95,8 @@
     {
       "name": "tkm-sct-vn",
       "source": "./tkm-sct-vn",
-      "description": "Thẩm định thiết kế mỏ khoáng sản - Sở Công Thương tỉnh Lào Cai, kinh nghiệm 20 năm (2006-2026): khung pháp lý 6 thời kỳ TT 03/2007 đến TT 31/2025/TT-BCT kèm toàn văn 10 Phụ lục; GATE chọn căn cứ theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp khoản 5 Điều 76 NĐ 217/2026; bản đồ rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template; liên kết trọn vòng đời dự án mỏ.",
-      "version": "1.3.2"
+      "description": "Thẩm định thiết kế mỏ khoáng sản - Sở Công Thương tỉnh Lào Cai, kinh nghiệm 20 năm (2006-2026): khung pháp lý 6 thời kỳ TT 03/2007 đến TT 31/2025/TT-BCT kèm 10 Phụ lục; GATE chọn căn cứ theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp khoản 5 Điều 76 NĐ 217/2026; rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template. GATE 15/9/2026: NQ 66.25/2026/NQ-CP chuyển chức năng khoáng sản của SXD, SNNMT về SCT - nhóm II/III chờ QĐ tỉnh.",
+      "version": "1.4.0"
     },
     {
       "name": "vbhc-pdf-reader-vn",
@@ -125,8 +125,8 @@
     {
       "name": "xp-sct-vn",
       "source": "./xp-sct-vn",
-      "description": "Xử phạt VPHC và kiểm tra chuyên ngành ĐA LĨNH VỰC - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026, kế thừa xp-hc-vlncn-sct-vn), kho VLNCN, HHNH (NĐ 168/2024), CCN (đầu tư, xây dựng, đất đai, môi trường), PCCC ngành CT (NĐ 105/106), khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, Luật 88/2025 + NĐ 118 nguyên văn, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật",
-      "version": "1.4.2"
+      "description": "Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026), kho VLNCN, HHNH, CCN, PCCC ngành CT, khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật. Từ 15/9/2026 xử phạt khoáng sản NĐ 36/2020 chuyển sang GĐ Sở Công Thương theo NQ 66.25/2026/NQ-CP (ref 06).",
+      "version": "1.5.0"
     },
     {
       "name": "atvsld-sct-vn",

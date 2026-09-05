@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.23.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: QLNN về KCN Bộ Tài chính → Bộ Công Thương (ref 29)
+
+- **`references/29` (MỚI):** Điều 2 NQ 66.25/2026/NQ-CP ngày 04/9/2026 (hiệu lực 15/9/2026 – 28/02/2027): điểm k k2 Đ44 Luật Đầu tư 143/2025 và Đ7, 13, 40, 53, 57, 68 NĐ 35/2022 do Bộ Công Thương thực hiện; Phụ lục Mục I (4 văn bản sửa, gồm điểm n k2 Đ68 NĐ 35: Ban Quản lý báo cáo định kỳ cả Bộ Công Thương); Điều 7 k5 UBND tỉnh phân công lại cơ quan chuyên môn; TT 37/2025/TT-BCT dự kiến bổ sung thẩm quyền KCN cho Sở Công Thương và UBND xã; 02 Ban Quản lý không đổi; CCN ngoài phạm vi; GATE hành văn khi chưa có QĐ phân công của tỉnh; 3 việc Sở làm ngay. Bản gốc lưu tại qlks-sct-vn (ref 23 toàn văn).
+- `SKILL.md`: bảng reference thêm ref 29; description bổ sung. `plugin.json` → 1.23.0.
+
 ## [1.22.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
 - Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
 

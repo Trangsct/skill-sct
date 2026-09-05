@@ -1,6 +1,6 @@
 ---
 name: qlks-sct-vn
-description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024, 147/2025. Kích hoạt: hội đồng thẩm định đề án thăm dò, QĐ 777/QĐ-UBND, thu hồi khoáng sản, giấy xác nhận đăng ký thu hồi, nạo vét lòng hồ thủy điện, đất đá thải mỏ, bãi thải, quặng đuôi, khoáng sản đi kèm, đá ốp lát, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 12 nghiệp vụ: ranh giới trách nhiệm SCT - SNNMT - SXD - Thuế - Công an - xã; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; kiểm tra thiết kế mỏ, đình chỉ; báo cáo Chỉ thị 11, 26-CT/TU; rà chồng lấn khi thẩm định dự án, CCN; thống kê sản lượng mỏ nhóm I; nguồn thu đóng góp KS; thu hồi khoáng sản trọn hồ sơ; ủy viên Hội đồng thẩm định đề án thăm dò - soạn Phiếu đánh giá, nhận xét; xác minh kiến nghị lấn chiếm, tranh chấp ranh giới mỏ giáp ranh. Từ khóa thêm: NĐ 193/2025 + 21/2026, TT 24+43/2025, TT 26/2026/TT-BCT, TT 36/2025/TT-BNNMT, tiền cấp quyền, nhóm I II III IV, apatit, cao lanh Sơn Mãn, đá hoa trắng, Điều 42 Luật ĐC&KS."
+description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024, 147/2025. TỪ 15/9/2026 Sở tiếp nhận toàn bộ chức năng địa chất, khoáng sản từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, kiểm soát sản lượng, dữ liệu, xử phạt; Bộ Công Thương thay Bộ NN&MT). Kích hoạt: NQ 66.25, chuyển giao chức năng khoáng sản, hội đồng thẩm định đề án thăm dò, QĐ 777/QĐ-UBND, thu hồi khoáng sản, nạo vét lòng hồ thủy điện, đất đá thải mỏ, quặng đuôi, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 13 nghiệp vụ: phân vai theo thời kỳ; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; kiểm tra thiết kế mỏ, đình chỉ; báo cáo Chỉ thị 11, 26-CT/TU; rà chồng lấn dự án, CCN; thống kê sản lượng; nguồn thu KS; thu hồi khoáng sản trọn hồ sơ; ủy viên Hội đồng thăm dò; xác minh ranh giới mỏ giáp ranh; tiếp nhận chức năng NQ 66.25. Từ khóa: NĐ 193/2025 + 21/2026, NĐ 150/2025, TT 24+43/2025, TT 26/2026, TT 36/2025, apatit, đất hiếm, Điều 108."
 ---
 
 # qlks-sct-vn — Quản lý nhà nước về khoáng sản (Sở Công Thương tỉnh Lào Cai)
@@ -9,8 +9,8 @@ description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luậ
 
 Plugin đóng vai **chuyên gia QLNN về khoáng sản của Sở Công Thương** — mảnh ghép "tổng hợp ngành" nối các plugin chuyên sâu đã có (thiết kế mỏ, VLNCN, kho VLNCN, huấn luyện, quy hoạch, môi trường). Ba năng lực cốt lõi:
 
-1. **Đứng đúng vai Sở Công Thương** — SCT KHÔNG cấp giấy phép thăm dò/khai thác khoáng sản (việc của Bộ NNMT / Chủ tịch UBND tỉnh, cơ quan tham mưu là Sở Nông nghiệp và Môi trường). SCT quản lý: công nghiệp khai thác mỏ và chế biến khoáng sản (trừ VLXD thông thường và sản xuất xi măng), VLNCN, kỹ thuật an toàn khai thác, kế hoạch quản lý rủi ro, thiết kế mỏ nhóm I, phương án khai thác - sử dụng khoáng sản nhóm I trong quy hoạch tỉnh (Điều 4 TT 37/2025/TT-BCT ngày 14/6/2025).
-2. **Nắm khung pháp lý mới toàn diện** — Luật 54/2024 (hiệu lực 01/7/2025), Luật 147/2025 (01/01/2026), NĐ 193/2025 → NĐ 21/2026, NQ 66.19/2026 phân quyền 9 nhóm TTHC về Chủ tịch UBND cấp tỉnh, chùm Thông tư BCT và BNNMT — kèm GATE chuyển tiếp (mục III).
+1. **Đứng đúng vai Sở Công Thương theo từng thời kỳ** — ⭐ **Từ 15/9/2026, theo Nghị quyết 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ, Sở Công Thương là cơ quan tham mưu, giúp UBND tỉnh thực hiện chức năng QLNN về địa chất và khoáng sản** (tiếp nhận từ Sở NN&MT, Sở Xây dựng: quy hoạch, cấp phép, tiền cấp quyền, đấu giá, kiểm soát sản lượng, đóng cửa mỏ, dữ liệu khoáng sản, xử phạt; cấp Bộ chuyển từ Bộ NN&MT, Bộ XD về Bộ Công Thương) — reference `23` là GATE bắt buộc. Trước 15/9/2026 (hồ sơ cũ): SCT KHÔNG tham mưu cấp giấy phép thăm dò/khai thác (việc của Bộ NN&MT / Chủ tịch UBND tỉnh qua Sở NN&MT); SCT chỉ quản lý công nghiệp khai thác mỏ và chế biến khoáng sản (trừ VLXD thông thường và xi măng), VLNCN, kỹ thuật an toàn khai thác, kế hoạch quản lý rủi ro, thiết kế mỏ nhóm I, phương án khai thác - sử dụng khoáng sản nhóm I trong quy hoạch tỉnh (Điều 4 TT 37/2025/TT-BCT). Ở cả hai thời kỳ, **thẩm quyền cấp** giấy phép vẫn là Chủ tịch UBND tỉnh/Bộ — Sở chỉ thẩm định, trình.
+2. **Nắm khung pháp lý mới toàn diện** — Luật 54/2024 (hiệu lực 01/7/2025), Luật 147/2025 (01/01/2026), NĐ 193/2025 → NĐ 21/2026, NQ 66.19/2026 phân quyền 9 nhóm TTHC về Chủ tịch UBND cấp tỉnh, **NQ 66.25/2026 chuyển chức năng về Công Thương (15/9/2026 – 28/02/2027, tạm thời theo NQ 206/2025/QH15)**, chùm Thông tư BCT và BNNMT — kèm GATE chuyển tiếp (mục III).
 3. **Phục vụ chỉ đạo của tỉnh** — Chỉ thị 11-CT/TU ngày 04/01/2026 (QLNN khoáng sản), Chỉ thị 26-CT/TU ngày 12/5/2026 (BVMT dự án khai thác KS), CV 5973/UBND-KT ngày 11/6/2026 (tăng cường thanh kiểm tra), KH 200/KH-UBND (CTr 39-CTr/TU thực hiện NQ 10-NQ/TW), Chỉ thị 38/CT-TTg.
 
 Kích hoạt khi:
@@ -28,11 +28,13 @@ Kích hoạt khi:
 - Khung xây dựng (BCNCKT, khởi công, KTCTNT) → **`xd-sct-vn`**; PCCC → **`pccc-sct-vn`**
 - Thể thức, render docx → **`vbhc-vn`**; PDF đến → GATE **`vbhc-pdf-reader-vn`**; người ký/người soạn → **`sct-laocai-org-vn`**
 
-## II. BẢN ĐỒ PHÂN VAI TRÊN ĐỊA BÀN (chi tiết reference `02`)
+## II. BẢN ĐỒ PHÂN VAI TRÊN ĐỊA BÀN (chi tiết reference `02`; ma trận trước/sau 15/9/2026 tại reference `23` mục IV)
 
-| Cơ quan | Phần việc chính về khoáng sản |
+**Từ 15/9/2026 (NQ 66.25/2026/NQ-CP):** Sở Công Thương nhận toàn bộ phần việc tham mưu QLNN về địa chất, khoáng sản của Sở NN&MT và Sở Xây dựng (cột "Sở Nông nghiệp và Môi trường" và phần khoáng sản của "Sở Xây dựng" dưới đây chuyển sang SCT); SNNMT còn đất đai, GPMB, ĐTM, GPMT, ký quỹ phục hồi môi trường; việc phân công cụ thể theo Quyết định của UBND tỉnh (Điều 7 khoản 5 NQ). Bảng dưới đây là phân vai **trước 15/9/2026** (lịch sử) — vẫn dùng để đọc hồ sơ cũ.
+
+| Cơ quan | Phần việc chính về khoáng sản (trước 15/9/2026) |
 |---|---|
-| **Sở Nông nghiệp và Môi trường** | Chủ trì tham mưu: cấp/gia hạn/thu hồi GP thăm dò, GP khai thác, đóng cửa mỏ, tiền cấp quyền, đấu giá quyền khai thác, khoanh định khu vực cấm, bảo vệ KS chưa khai thác, phối hợp Thuế kiểm soát sản lượng - nghĩa vụ tài chính |
+| **Sở Nông nghiệp và Môi trường** | Chủ trì tham mưu: cấp/gia hạn/thu hồi GP thăm dò, GP khai thác, đóng cửa mỏ, tiền cấp quyền, đấu giá quyền khai thác, khoanh định khu vực cấm, bảo vệ KS chưa khai thác, phối hợp Thuế kiểm soát sản lượng - nghĩa vụ tài chính (→ SCT từ 15/9/2026) |
 | **Sở Công Thương** | Thiết kế mỏ nhóm I (kiểm tra tuân thủ, tham mưu đình chỉ); VLNCN (cấp phép, kiểm tra, đối chiếu thuốc nổ - sản lượng); kỹ thuật an toàn khai thác (TT 43/2025 + 67/2025); KH quản lý rủi ro (TT 24/2025); GCN huấn luyện KTAT khai thác KS hầm lò; kiểm tra cơ sở chế biến, thu mua, tuyển, nghiền, sàng, tập kết - nguồn gốc khoáng sản; phương án khai thác sử dụng KS nhóm I trong quy hoạch tỉnh |
 | **Sở Xây dựng** | Thiết kế mỏ nhóm II, III; mỏ VLXD - VLXDTT; giá VLXD; bến thủy, phương tiện thủy khai thác cát sỏi; kiểm tra nguồn gốc vật liệu tại công trình |
 | **Sở Tài chính** | Vốn chủ sở hữu khi chấp thuận chủ trương đầu tư |
@@ -51,27 +53,28 @@ Kích hoạt khi:
 - Từ 16/01/2026 → cộng NĐ 21/2026 (sửa NĐ 193/2025)
 - Từ 18/5/2026 → cộng NQ 66.19/2026/NQ-CP: 9 nhóm TTHC của Bộ trưởng BNNMT phân quyền về **Chủ tịch UBND cấp tỉnh** (cấp lại/gia hạn/điều chỉnh/trả lại GP thăm dò; chuyển nhượng quyền thăm dò; phê duyệt + điều chỉnh đề án đóng cửa mỏ; chấp thuận phương án đóng cửa mỏ; quyết định đóng cửa mỏ; chấp thuận thăm dò - khai thác tại khu vực cấm; thăm dò bổ sung nâng cấp trữ lượng; thay đổi đề án thăm dò - KS đi kèm; bổ sung khối lượng thăm dò khi GP hết hạn; đánh giá ảnh hưởng đến KS dự trữ). Với đất hiếm: chuyển nhượng quyền thăm dò phải báo cáo Thủ tướng.
 - TT BCT: TT 26/2026/TT-BCT (sửa TT 24/2025 + TT 43/2025, rút ngắn thời hạn, khẳng định UBND cấp tỉnh cấp GCN KTAT khai thác KS).
+- **Từ 15/9/2026 → cộng NQ 66.25/2026/NQ-CP** (04/9/2026; hiệu lực đến 28/02/2027): chức năng QLNN địa chất, khoáng sản của Bộ NN&MT, Bộ XD → **Bộ Công Thương**; của Sở NN&MT, Sở XD → **Sở Công Thương** (Điều 8 NĐ 150/2025, Điều 25 NĐ 193/2025); xử phạt khoáng sản NĐ 36/2020 và quy hoạch khoáng sản (NĐ 70/2026 PL I) cũng chuyển; hồ sơ đang giải quyết chuyển nguyên trạng, không tính lại thời hạn, không nộp lại phí; giấy phép cũ giữ nguyên giá trị. Chi tiết reference `23`.
 
 **B2 — Có "kẹt" chuyển tiếp không?**
 - **Cấp đổi giấy phép:** GP khai thác cấp trước 01/7/2025 có nội dung không phù hợp khoản 2 Điều 56 Luật 54/2024 → phải cấp đổi trong **36 tháng** (hạn chót 01/7/2028, hồ sơ theo Điều 154 NĐ 193/2025); quá hạn → **tạm dừng khai thác**.
 - **KH quản lý rủi ro:** mỏ lộ thiên đang vận hành → doanh nghiệp tự phê duyệt trước 01/01/2026; mỏ hầm lò đang vận hành trước 01/7/2025 → phê duyệt trước **01/7/2027** (Điều 6 TT 24/2025).
 - **Thẩm quyền với GP cũ:** người có thẩm quyền theo Điều 108 mới có quyền cấp lại/gia hạn/điều chỉnh/thu hồi cả GP do cơ quan khác cấp trước đây (khoản 3 Điều 108 sửa bởi Luật 147/2025).
 
-**B3 — Chọn đúng BỘ căn cứ, không trộn.** Lỗi điển hình: viện dẫn Luật 60/2010/NĐ 158/2016 cho việc năm 2026; quên Luật 147/2025 và NĐ 21/2026 khi trích NĐ 193/2025; ghi "Bộ Tài nguyên và Môi trường" (đã là Bộ Nông nghiệp và Môi trường).
+**B3 — Chọn đúng BỘ căn cứ, không trộn.** Lỗi điển hình: viện dẫn Luật 60/2010/NĐ 158/2016 cho việc năm 2026; quên Luật 147/2025 và NĐ 21/2026 khi trích NĐ 193/2025; ghi "Bộ Tài nguyên và Môi trường" (đã là Bộ Nông nghiệp và Môi trường); **từ 15/9/2026 vẫn ghi "Sở NN&MT chủ trì tham mưu cấp phép" hoặc "kiến nghị Bộ NN&MT bổ sung quy hoạch"** (đã là Sở Công Thương / Bộ Công Thương theo NQ 66.25).
 
 ## IV. THẨM QUYỀN CẤP PHÉP — Điều 108 Luật 54/2024 (sửa bởi Luật 147/2025), tra nhanh
 
 | Loại giấy phép | Thẩm quyền |
 |---|---|
-| GP thăm dò + GP khai thác **nhóm I** (kim loại, năng lượng, đá quý - bán quý, khoáng chất công nghiệp: apatit, đồng, sắt, graphit, đất hiếm...) | **Bộ trưởng Bộ NNMT** |
+| GP thăm dò + GP khai thác **nhóm I** (kim loại, năng lượng, đá quý - bán quý, khoáng chất công nghiệp: apatit, đồng, sắt, graphit, đất hiếm...) | **Bộ trưởng Bộ NNMT** (đến 14/9/2026) → **Bộ trưởng Bộ Công Thương** từ 15/9/2026 (khoản 1, điểm b khoản 2, khoản 4 Điều 108 do Bộ Công Thương thực hiện — Điều 3 NQ 66.25) |
 | GP thăm dò + khai thác **nhóm II** (VLXD công nghiệp: đá hoa trắng, nguyên liệu xi măng, đá ốp lát...), **nhóm III** (VLXDTT, cát sỏi, nước khoáng, than bùn), GP khai thác **nhóm IV** (đất san lấp) | **Chủ tịch UBND cấp tỉnh** |
 | Nhóm I tại khu vực **phân tán, nhỏ lẻ** đã được Bộ trưởng BNNMT khoanh định, công bố | Chủ tịch UBND cấp tỉnh |
 | GP khai thác **tận thu** | Chủ tịch UBND cấp tỉnh |
 | 9 nhóm TTHC phân quyền theo NQ 66.19/2026 (kể cả với GP nhóm I Bộ cấp) | Chủ tịch UBND cấp tỉnh |
 
-Phân nhóm khoáng sản: Điều 6 Luật 54/2024 + danh mục chi tiết Phụ lục NĐ 193/2025 (sửa bởi NĐ 21/2026) — một khoáng sản có thể đổi nhóm theo mục đích sử dụng; không rõ nhóm → DỪNG, hỏi Bạn. Nhóm IV: không phải lập ĐTM/GPMT, không chấp thuận chủ trương đầu tư, nhưng phải lập **phương án khai thác khoáng sản nhóm IV** trình cấp phép (điểm d khoản 2 Điều 73 sửa bởi Luật 147/2025).
+Cơ quan tham mưu cho Chủ tịch UBND tỉnh ở các dòng "Chủ tịch UBND cấp tỉnh": Sở NN&MT (VLXD: Sở XD) đến 14/9/2026; **Sở Công Thương từ 15/9/2026** (reference `23`). Phân nhóm khoáng sản: Điều 6 Luật 54/2024 + danh mục chi tiết Phụ lục NĐ 193/2025 (sửa bởi NĐ 21/2026) — một khoáng sản có thể đổi nhóm theo mục đích sử dụng; không rõ nhóm → DỪNG, hỏi Bạn. Nhóm IV: không phải lập ĐTM/GPMT, không chấp thuận chủ trương đầu tư, nhưng phải lập **phương án khai thác khoáng sản nhóm IV** trình cấp phép (điểm d khoản 2 Điều 73 sửa bởi Luật 147/2025).
 
-## V. MƯỜI HAI NGHIỆP VỤ CỦA SCT
+## V. MƯỜI BA NGHIỆP VỤ CỦA SCT
 
 **1. Kiểm tra tuân thủ thiết kế mỏ + tham mưu đình chỉ (nhóm I).** Theo Chỉ thị 11-CT/TU và KH của UBND tỉnh: SCT chủ trì rà soát các mỏ thuộc phạm vi quản lý về lập - thẩm định - phê duyệt thiết kế mỏ; tham mưu đình chỉ đơn vị chưa có thiết kế mỏ được phê duyệt; kiểm tra khai thác đúng thiết kế. Nội dung kỹ thuật thẩm định → `tkm-sct-vn`; plugin này lo phần kiểm tra - đình chỉ - báo cáo. Mẫu: `mau-van-ban/03`.
 
@@ -106,6 +109,8 @@ Bốn trục nội dung bắt buộc của Phiếu SCT: (i) **rà tọa độ - 
 Bốn vụ đã thẩm định làm chuẩn đối chiếu: cát sỏi Ngòi Thia (xã Xuân Ái); cát sỏi sông Chảy Bản Mủng - Bản Chuân (xã Xuân Hòa); cát sỏi suối Nhù thôn Ngầu 3 (xã Võ Lao); đá hoa trắng Làng Lạnh III (xã Lục Yên) — bảng tra tại reference `21` mục IV.
 
 **12. Xác minh kiến nghị lấn chiếm, khai thác vượt ranh giới giữa hai mỏ giáp ranh** — reference `22` (mẫu chuẩn: vụ Công ty TNHH Đại Đồng Tiến ↔ DNTN Thành Hương Nghĩa Lộ, xã Văn Chấn, 8/2026 — SNNMT chủ trì theo CV 8129/UBND-KT, SCT phối hợp, hoàn thành trước hạn). Cốt lõi: mời **cả hai doanh nghiệp** cùng ra thực địa và ký biên bản; đo GPS hệ VN2000 đúng kinh tuyến trục/múi chiếu của giấy phép tại đúng vị trí bên kiến nghị chỉ, đo cả cao độ chân tầng; đối chiếu **3 lớp** (ranh giới điểm khép góc GP — mức sâu/cốt cao được phép — hồ sơ thuê đất); tách vụ cũ khỏi kiến nghị mới; câu giới hạn phạm vi kiểm tra; kết luận dứt khoát trên số liệu; **không có vi phạm vẫn kiến nghị phòng ngừa** khi ranh 2 mỏ quá gần (01–03m) và có nổ mìn. Ý kiến của SCT trong đoàn: trục VLNCN - giấy phép khai thác - thiết kế mỏ (câu mẫu tại reference `22` mục IV); không kết luận thay SNNMT về ranh giới, không kết luận thay xã về đất đai.
+
+**13. Tiếp nhận chức năng QLNN về địa chất, khoáng sản theo NQ 66.25/2026/NQ-CP (từ 15/9/2026)** — reference `23`. Gồm: tham mưu UBND tỉnh Quyết định phân công, chuyển giao giữa SCT – SNNMT – SXD (Điều 7 k5b); biên bản bàn giao nguyên trạng hồ sơ, giấy phép, nghĩa vụ tài chính, đề án, hệ thống thông tin, **biên chế và dự toán** (Điều 7 k3); công bố lại TTHC; thông báo doanh nghiệp (giấy phép cũ giữ nguyên, không nộp lại hồ sơ/phí — Điều 4); tiếp nhận hồ sơ đang giải quyết với thời hạn còn lại (Điều 4 k2d); tham mưu điều chỉnh cơ quan chủ trì tại KH 200, 218, 133/KH-UBND, QĐ 777/QĐ-UBND; từ đây các nghiệp vụ 1–12 mở rộng sang cả phần việc trước đây của SNNMT (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, báo cáo định kỳ mọi nhóm). Nghị quyết chỉ có hiệu lực đến 28/02/2027 (có thể gia hạn theo NQ 206/2025/QH15) — văn bản dài hạn phải có câu chuyển tiếp. Bài toán lớn số 2 (khai thác - tinh chế nguyên liệu chiến lược, Kế hoạch UBND tỉnh dự thảo 9/2026, 16 nhiệm vụ, 42 tỷ đồng NSNN) tra `dacn-sct-vn` reference 11.
 
 ## VI. DỮ LIỆU MỎ TRÊN ĐỊA BÀN (reference `10` + thư mục `du-lieu/`)
 
@@ -146,7 +151,7 @@ B6 QA              → render soi ảnh từng trang; đối chiếu checklist; 
 
 1. **Không bịa số/ngày văn bản.** Văn bản chưa xác minh (kể cả nghị định xử phạt mới, quyết định phân công nội bộ tỉnh) → để trống, ghi chú đề nghị Bạn cung cấp.
 2. **Không dùng dữ liệu `du-lieu/` làm hiện trạng thời sự** — chỉ dùng làm nền tra cứu; số liệu đưa vào văn bản chính thức phải được Bạn xác nhận.
-3. **Không lấn vai SNNMT/SXD** — mọi câu chữ về cấp phép thăm dò/khai thác/đóng cửa mỏ đều ở thế "phối hợp/tham gia ý kiến".
+3. **Đúng vai theo thời kỳ** — việc phát sinh trước 15/9/2026: không lấn vai SNNMT/SXD, mọi câu chữ về cấp phép thăm dò/khai thác/đóng cửa mỏ ở thế "phối hợp/tham gia ý kiến"; **từ 15/9/2026: SCT thẩm định, trình Chủ tịch UBND tỉnh** (không viết "Sở Công Thương cấp giấy phép"); chưa có Quyết định phân công của UBND tỉnh thì dùng cụm "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản" và dẫn NQ 66.25 để đề xuất.
 4. **Câu ranh giới trách nhiệm** trong biên bản, báo cáo kiểm tra: doanh nghiệp chịu trách nhiệm về tính chính xác của hồ sơ, số liệu cung cấp; kết quả kiểm tra không thay thế nghĩa vụ chấp hành pháp luật của doanh nghiệp.
 5. **Mọi nội dung xuất ra không dùng ký hiệu markdown**; file docx TNR 14pt, tên file `YYYY.MM.DD. Tên đầy đủ có dấu.docx`.
 
@@ -171,6 +176,9 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  thu hồi 01 · 02 · 03 · 03a · 04 · 05 · 06 + 05 bản vẽ bắt buộc
               20 biên bản thanh tra/kiểm tra — kinh nghiệm từ mẫu thật BB 13A/BB-ĐTT72
                  (Thanh tra tỉnh, vụ Mông Sơn) + checklist đón thanh tra tỉnh
+              23 NQ 66.25/2026/NQ-CP (04/9/2026): chuyển QLNN địa chất, khoáng sản, KCN
+                 về Công Thương từ 15/9/2026 — thẻ văn bản, 7 điều, chuyển tiếp Điều 4,
+                 phụ lục 74 VBQPPL, ma trận trước/sau, checklist tiếp nhận, hành văn
               21 HỘI ĐỒNG THẨM ĐỊNH ĐỀ ÁN THĂM DÒ (QĐ 777/QĐ-UBND) — vai ủy viên SCT:
                  phân vai Hội đồng, 4 trục nội dung Phiếu, 6 lỗi kỹ thuật lặp lại,
                  4 vụ thực tế, kỹ thuật xử lý hồ sơ đến (giải nén, OCR, tính diện tích)

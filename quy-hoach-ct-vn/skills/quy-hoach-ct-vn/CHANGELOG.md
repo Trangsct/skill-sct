@@ -1,5 +1,10 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## [1.2.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: quy hoạch khoáng sản về Bộ Công Thương
+
+- `references/04` bảng khung pháp lý: thêm NQ 66.25/2026/NQ-CP (04/9/2026, hiệu lực 15/9/2026 – 28/02/2027) — chức năng quy hoạch địa chất, khoáng sản (NĐ 70/2026 PL I số 26–28) chuyển Bộ NN&MT → Bộ Công Thương; cấp Sở → Sở Công Thương; kiến nghị điều chỉnh QĐ 866/2581/1626 từ 15/9/2026 gửi Bộ Công Thương.
+- `plugin.json` → 1.2.0.
+
 ## [1.1.2] - 02/9/2026 — thêm GATE PDF đầu SKILL.md
 - Plugin chưa có cổng đọc PDF văn bản đến bằng extract_metadata.py; bổ sung 1 đoạn ngay dưới tiêu đề (bài học vụ QĐ 5116/QĐ-SCT).
 

@@ -1,6 +1,6 @@
 ---
 name: sct-laocai-org-vn
-description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai (sau hợp nhất 01/7/2025). Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, người soạn thảo, dòng Lưu VT CN(tên), phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn + Chi cục QLTT theo QĐ 05/2025/QĐ-UBND, QĐ 59/QĐ-SCT, phân công BGĐ (Dự thảo Lần 4 - 02/2026), Thông báo phân công nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên - từng chuyên viên tham mưu lĩnh vực gì, PTP nào kiểm duyệt); soạn công văn phân công, quyết định cử công chức. Từ khóa thêm: Nguyễn Hồng Vân, Đỗ Mạnh Cường, Lã Doãn Nam, phòng QLCN, QLTM, QLNL, KH-TH, Văn phòng Sở, Chi cục QLTT, CCN, KCN, ATTP, khuyến công, HHNH, PCCC, ATVSLĐ, hóa chất, VLNCN, khoáng sản, điện lực, xăng dầu."
+description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai (sau hợp nhất 01/7/2025). Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, người soạn thảo, dòng Lưu VT CN(tên), phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn + Chi cục QLTT theo QĐ 05/2025/QĐ-UBND, QĐ 59/QĐ-SCT, phân công BGĐ (Dự thảo Lần 4 - 02/2026), Thông báo phân công nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên - từng chuyên viên tham mưu lĩnh vực gì, PTP nào kiểm duyệt); soạn công văn phân công, quyết định cử công chức. Từ khóa thêm: Nguyễn Hồng Vân, Đỗ Mạnh Cường, Lã Doãn Nam, phòng QLCN, QLTM, QLNL, KH-TH, Văn phòng Sở, Chi cục QLTT, CCN, KCN, ATTP, khuyến công, HHNH, PCCC, ATVSLĐ, hóa chất, VLNCN, khoáng sản, điện lực, xăng dầu Từ 15/9/2026 Sở tiếp nhận QLNN địa chất, khoáng sản, KCN (NQ 66.25/2026/NQ-CP): ai phụ trách, GATE hành văn."
 ---
 
 # sct-laocai-org-vn — Cơ cấu tổ chức Sở Công Thương tỉnh Lào Cai
@@ -364,6 +364,24 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - ❌ Dùng bản phân công nội bộ cũ (1 PTP, VLNCN → CV Linh, ATTP → CV Dương) cho văn bản soạn **từ 10/7/2026 trở đi** — từ ngày này: 3 PTP (Vân, Trang, Đ.M.Cường); **VLNCN → CN(Khôi)**; **ATTP → CN(Nam)**; **chất lượng SPHH → CN(Dương)**; khi TP vắng **PTP Vân** thường trực (không phải PTP Trang).
 - ❌ Trình dự thảo lĩnh vực khoáng sản/hóa chất/thẩm định công trình lên PTP Trang hoặc PTP Đ.M.Cường kiểm duyệt — các lĩnh vực này thuộc **PTP Nguyễn Hồng Vân**. CCN, VLNCN, KHCN-ĐMST CN do **Trưởng phòng trực tiếp** chỉ đạo, không qua PTP.
 - ❌ Gán hồ sơ cấp GP vận chuyển HHNH cho CN(Khôi) từ 15/7/2026 trở đi — Bạn đã chốt: **HHNH toàn bộ → CN(Linh)**; Khôi chỉ còn VLNCN/tiền chất thuốc nổ/GCN huấn luyện KTAT/KHCN-ĐMST CN. Văn bản HHNH giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử. KCN → CN(Trung) (đã xác nhận).
+
+## Tiếp nhận chức năng QLNN về địa chất, khoáng sản và khu công nghiệp từ 15/9/2026 (NQ 66.25/2026/NQ-CP)
+
+**Căn cứ:** Nghị quyết 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ (PTT Nguyễn Văn Thắng ký; hiệu lực 15/9/2026 – 28/02/2027 theo cơ chế NQ 206/2025/QH15). Toàn văn + ma trận trước/sau: `qlks-sct-vn` reference 23; phần KCN: `kccn-sct-vn` reference 29.
+
+| Nội dung | Trước 15/9/2026 | Từ 15/9/2026 |
+|---|---|---|
+| Tham mưu UBND tỉnh QLNN về địa chất, khoáng sản (Điều 8 NĐ 150/2025; Điều 25 NĐ 193/2025): quy hoạch, cấp phép thăm dò/khai thác, tiền cấp quyền, đấu giá, bảo vệ KS chưa khai thác, kiểm soát sản lượng, đóng cửa mỏ, dữ liệu, xử phạt | Sở NN&MT (khoáng sản VLXD: Sở Xây dựng) | **Sở Công Thương** (Điều 3 k2 NQ) |
+| QLNN về khu công nghiệp cấp Bộ; cơ quan chuyên môn cấp tỉnh về KCN | Bộ Tài chính; Sở Tài chính | **Bộ Công Thương**; Sở Công Thương theo QĐ phân công của UBND tỉnh (Điều 2; Điều 7 k5; TT 37/2025/TT-BCT sẽ sửa) |
+| Đất đai, thuê đất, GPMB, ĐTM, GPMT, ký quỹ phục hồi môi trường mỏ | Sở NN&MT | **Vẫn Sở NN&MT** |
+| Ban Quản lý Khu kinh tế tỉnh, Ban Quản lý các KCN tỉnh | Quản lý trực tiếp KCN, KKT | **Không đổi**; báo cáo thêm Bộ Công Thương |
+
+**Ai phụ trách trong Sở (áp dụng cho việc mới, chờ Quyết định phân công của UBND tỉnh và điều chỉnh phân công nội bộ):**
+- Lãnh đạo Sở: **PGĐ Hoàng Văn Thuân** (khoáng sản, VLNCN, môi trường) — mảng địa chất, khoáng sản tiếp nhận; **PGĐ Nguyễn Đình Chiến** (KCN, CCN) — mảng KCN tiếp nhận; Giám đốc Hoàng Chí Hiền ký Tờ trình UBND tỉnh về phân công, chuyển giao và biên bản bàn giao.
+- Phòng chủ trì: **Phòng Quản lý công nghiệp** — PTP Nguyễn Hồng Vân (khoáng sản); chuyên viên CN(Dũng) (mỏ, KTCTNT, quy hoạch KS), CN(Nhung) (chế biến, tổng hợp), CN(Khôi) (VLNCN, PANM); KCN: CN(Trung). Khối lượng cấp phép, tiền cấp quyền, hội đồng thẩm định tăng mạnh → tham mưu tiếp nhận **biên chế, nhân sự, dự toán chuyển theo nguyên trạng** (Điều 7 k3, k5c NQ) — điều kiện tiên quyết, ghi rõ trong Tờ trình.
+- Lưu VT, CN(tên) theo quy ước hiện hành; ký hiệu văn bản SCT-CN.
+
+**GATE hành văn (đến khi có Quyết định phân công của UBND tỉnh):** dùng cụm "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản (khu công nghiệp)"; dẫn NQ 66.25 làm căn cứ đề xuất SCT chủ trì; không viết "Sở Công Thương cấp giấy phép khai thác" (thẩm quyền cấp vẫn là Chủ tịch UBND tỉnh/Bộ Công Thương — Sở thẩm định, trình). Hồ sơ tiếp nhận từ SNNMT/SXD: chuyển nguyên trạng, không tính lại thời hạn, không yêu cầu nộp lại (Điều 4 NQ).
 
 ## Công cụ số và dây chuyền dữ liệu của Phòng Quản lý công nghiệp (từ 9/2026)
 

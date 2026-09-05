@@ -1,5 +1,22 @@
 # CHANGELOG — qlks-sct-vn
 
+## [2.0.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: Sở Công Thương tiếp nhận toàn bộ chức năng QLNN về địa chất, khoáng sản từ 15/9/2026
+
+**Nguồn:** Nghị quyết số 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ (PTT Nguyễn Văn Thắng ký; bản scan có dấu ký số VPCP — lớp text không đọc được bằng extract_metadata.py, đã soi ảnh từng trang; 8 trang + Phụ lục 12 trang). Hiệu lực 15/9/2026 – 28/02/2027 theo cơ chế NQ 206/2025/QH15.
+
+### Nội dung mới
+- **`references/23-nq-66-25-2026-chuyen-qlnn-dia-chat-khoang-san-ve-cong-thuong.md` (MỚI, GATE bắt buộc):** thẻ văn bản; 7 điều (Điều 2 KCN Bộ Tài chính → Bộ Công Thương; Điều 3 k1 danh sách 47 vị trí Luật ĐC&KS + hơn 100 vị trí NĐ 193/2025 + NĐ 189 k3 Đ6 + NĐ 36/2020 21 điều + NĐ 70/2026 PL I + NQ 66.4 + NQ 28/2026 do Bộ Công Thương thực hiện; **Điều 3 k2: nhiệm vụ của Sở NN&MT, Sở XD tại Điều 8 NĐ 150/2025 và Điều 25 NĐ 193/2025 do Sở Công Thương thực hiện**); Điều 4 chuyển tiếp 4 khoản (giấy phép cũ giữ giá trị, không cấp lại; hồ sơ chuyển nguyên trạng, không nộp lại phí, không tính lại thời hạn, không được yêu cầu bổ sung vì đổi cơ quan; nghĩa vụ tài chính; đề án, dự án, nhiệm vụ KH&CN kế thừa); Điều 5 trách nhiệm cơ quan chuyển giao; Điều 7 (bàn giao nguyên trạng cả biên chế, dự toán; UBND tỉnh phân công lại cơ quan chuyên môn); Phụ lục 74 VBQPPL (I: 4 KCN; II: 70 khoáng sản — nổi bật TT 19/2025/TT-BNNMT bãi bỏ chức năng KS của SNNMT, TT 37/2025/TT-BCT bổ sung cho cơ quan công thương cấp tỉnh + xã, TT 10/2025/TT-BXD bãi bỏ với SXD, TT 11/2026/TT-BXD xuất khẩu KS VLXD → BCT); **ma trận trước/sau 15/9/2026** 10 dòng việc; checklist 7 việc Sở làm ngay; 5 nguyên tắc hành văn.
+- `van-ban-goc/NQ-66.25-2026-NQ-CP-04-9-2026-...pdf` (bản gốc).
+- `SKILL.md`: mục I.1 đứng vai theo thời kỳ; mục II banner phân vai mới; mục III GATE thêm mốc 15/9/2026 + lỗi B3 mới; mục IV Điều 108 thêm cơ quan tham mưu theo thời kỳ; mục V thành **13 nghiệp vụ** (13 = tiếp nhận chức năng theo NQ 66.25); mục IX nguyên tắc 3 viết lại "đúng vai theo thời kỳ"; cây thư mục thêm ref 23; description viết lại.
+- `references/01`: thêm NQ 66.25 + NĐ 150/2025 vào bảng nghị định; GATE thời kỳ thêm dòng "Từ 15/9/2026"; chuyển tiếp mục VII thêm điểm 6.
+- `references/02`: banner GATE 15/9/2026; mục II đánh dấu "lịch sử trước 15/9/2026"; mục III giới hạn thời kỳ.
+- `references/11`: cập nhật dòng tkm, quy-hoach, sct-laocai-org; thêm dòng xp-sct-vn (xử phạt KS), kccn-sct-vn (KCN), dacn-sct-vn (Bài toán lớn số 2).
+- `plugin.json` → **2.0.0** (đổi bản chất vai trò của Sở → nâng major).
+
+### Chưa làm — chờ dữ kiện
+- Quyết định của UBND tỉnh về phân công, chuyển giao (Điều 7 k5b NQ) và Nghị định mới về chức năng các bộ (Điều 7 k3) — khi có, cập nhật ref 23 mục IV, ref 14 (nơi nhận báo cáo định kỳ), ref 21 (cơ quan thường trực Hội đồng thăm dò), ref 03.
+- Nghị định/thông tư sửa đổi theo Phụ lục NQ (nhất là TT 37/2025/TT-BCT sửa, TT xuất khẩu KS VLXD của BCT).
+
 ## [1.9.1] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
 - Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
 

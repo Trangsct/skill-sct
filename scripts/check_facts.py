@@ -43,6 +43,22 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-1131-thay-the-qd-21-2026",
+        # QĐ 1131/QĐ-TTg (danh mục công nghệ chiến lược) bị thay thế bởi QĐ 21/2026/QĐ-TTg từ 01/7/2026 — dòng dẫn 1131 mà không nhắc 21/2026
+        "pattern": r"^(?!.*(21/2026/QĐ-TTg|thay thế|lịch sử)).*1131/QĐ-TTg",
+        "why": "QĐ 1131/QĐ-TTg đã bị thay thế bởi QĐ 21/2026/QĐ-TTg (hiệu lực 01/7/2026) — dẫn QĐ 21/2026 (dacn-sct-vn ref 11); chỉ nhắc 1131 kèm chữ 'thay thế'/'lịch sử'.",
+        "since": "2026-07-01",
+        "level": "FAIL",
+    },
+    {
+        "id": "snnmt-cap-phep-sau-nq-66-25",
+        # Từ 15/9/2026, cơ quan tham mưu cấp phép khoáng sản cấp tỉnh là Sở Công Thương (NQ 66.25/2026/NQ-CP); cảnh báo dòng còn viết SNNMT chủ trì tham mưu cấp phép mà không nhắc NQ 66.25/mốc 15/9/2026
+        "pattern": r"^(?!.*(66\.25|15/9/2026|14/9/2026)).*(Sở Nông nghiệp và Môi trường|SNNMT|Sở NN&MT)[^\n]{0,40}(chủ trì|tham mưu)[^\n]{0,60}(cấp|gia hạn|thu hồi)[^\n]{0,30}(giấy phép|GP) (thăm dò|khai thác)",
+        "why": "Từ 15/9/2026 Sở Công Thương tham mưu QLNN về địa chất, khoáng sản (NQ 66.25/2026/NQ-CP, hiệu lực đến 28/02/2027) — viết theo thời kỳ; câu về SNNMT phải kèm mốc 15/9/2026 hoặc chữ 'lịch sử'/'trước ngày'.",
+        "since": "2026-09-15",
+        "level": "WARN",
+    },
+    {
         "id": "mau-03-giay-de-nghi-su-dung",
         # Giấy đề nghị cấp GP SỬ DỤNG VLNCN là Mẫu số 04 PL III TT 23/2024; Mẫu số 03 là XNK. Vụ Thịnh Đạt 03/9/2026.
         "pattern": r"(Giấy đề nghị[^\n]{0,60}(sử dụng VLNCN|sử dụng vật liệu nổ)[^\n]{0,40}Mẫu số 03|Mẫu số 03[^\n]{0,40}Giấy đề nghị[^\n]{0,40}sử dụng (VLNCN|vật liệu nổ))",

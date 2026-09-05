@@ -1,8 +1,11 @@
 {
   "name": "tkm-sct-vn",
-  "version": "1.3.2",
-  "description": "Thẩm định thiết kế mỏ khoáng sản - Sở Công Thương tỉnh Lào Cai, kinh nghiệm 20 năm (2006-2026): khung pháp lý 6 thời kỳ TT 03/2007 đến TT 31/2025/TT-BCT kèm toàn văn 10 Phụ lục; GATE chọn căn cứ theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp khoản 5 Điều 76 NĐ 217/2026; bản đồ rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template; liên kết trọn vòng đời dự án mỏ.",
+  "version": "1.4.0",
+  "description": "Thẩm định thiết kế mỏ khoáng sản - Sở Công Thương tỉnh Lào Cai, kinh nghiệm 20 năm (2006-2026): khung pháp lý 6 thời kỳ TT 03/2007 đến TT 31/2025/TT-BCT kèm 10 Phụ lục; GATE chọn căn cứ theo ngày trình; thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV; chuyển tiếp khoản 5 Điều 76 NĐ 217/2026; rủi ro hậu kiểm BC 452/BC-TTCP; 12 văn bản thực tế làm template. GATE 15/9/2026: NQ 66.25/2026/NQ-CP chuyển chức năng khoáng sản của SXD, SNNMT về SCT - nhóm II/III chờ QĐ tỉnh.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
-  }
+  },
+  "keywords": [
+    "nq-66-25-2026"
+  ]
 }

@@ -1,8 +1,12 @@
 {
   "name": "xp-sct-vn",
-  "version": "1.4.2",
-  "description": "Xử phạt VPHC và kiểm tra chuyên ngành ĐA LĨNH VỰC - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026, kế thừa xp-hc-vlncn-sct-vn), kho VLNCN, HHNH (NĐ 168/2024), CCN (đầu tư, xây dựng, đất đai, môi trường), PCCC ngành CT (NĐ 105/106), khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, Luật 88/2025 + NĐ 118 nguyên văn, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật",
+  "version": "1.5.0",
+  "description": "Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026), kho VLNCN, HHNH, CCN, PCCC ngành CT, khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật. Từ 15/9/2026 xử phạt khoáng sản NĐ 36/2020 chuyển sang GĐ Sở Công Thương theo NQ 66.25/2026/NQ-CP (ref 06).",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
-  }
+  },
+  "keywords": [
+    "nq-66-25-2026",
+    "xu-phat-khoang-san-so-cong-thuong"
+  ]
 }

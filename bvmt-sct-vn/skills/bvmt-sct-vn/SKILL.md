@@ -80,7 +80,7 @@ Trục chính:
 | Nội dung | Cơ quan chủ trì | Vai trò Sở Công Thương |
 |---|---|---|
 | Phê duyệt thẩm định ĐTM; cấp GPMT; đăng ký môi trường | Sở NN&MT / UBND tỉnh / Bộ NN&MT (theo phân cấp) | Phối hợp, cử ủy viên hội đồng, góp ý bằng văn bản |
-| Đề án đóng cửa mỏ; cải tạo phục hồi MT khai khoáng | UBND tỉnh (thẩm định: Sở NN&MT chủ trì) | Phối hợp thẩm định; theo dõi an toàn công trình mỏ, bãi thải |
+| Đề án đóng cửa mỏ; cải tạo phục hồi MT khai khoáng | UBND tỉnh (thẩm định: Sở NN&MT chủ trì đến 14/9/2026; **từ 15/9/2026 phần đóng cửa mỏ theo Luật ĐC&KS chuyển về Sở Công Thương theo NQ 66.25/2026/NQ-CP** — `qlks-sct-vn` ref 23; phương án cải tạo phục hồi môi trường, ký quỹ vẫn Sở NN&MT) | Trước 15/9/2026: phối hợp thẩm định; từ 15/9/2026: chủ trì phần đóng cửa mỏ theo QĐ phân công của UBND tỉnh; theo dõi an toàn công trình mỏ, bãi thải |
 | Hạ tầng BVMT KCN | BQL Khu kinh tế tỉnh + Sở NN&MT | Phối hợp; QLNN ngành CN trong KCN |
 | Hạ tầng BVMT CCN | UBND cấp xã / Sở Công Thương (theo quy chế CCN) | **Chủ trì/phối hợp** tùy nội dung; xem `kcn-ccn-vn` |
 | Kiểm kê KNK, MRV, hạn ngạch phát thải, danh mục cơ sở ngành CT | Bộ Công Thương → **Sở Công Thương** tham mưu cấp tỉnh | **Chủ trì** phần ngành Công Thương |

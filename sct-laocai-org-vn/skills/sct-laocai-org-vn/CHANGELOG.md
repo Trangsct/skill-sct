@@ -1,5 +1,10 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## [2.3.0] - 05/9/2026 — mục mới: tiếp nhận chức năng QLNN về địa chất, khoáng sản và KCN từ 15/9/2026 (NQ 66.25/2026/NQ-CP)
+
+- `SKILL.md`: mục mới (bảng trước/sau 15/9/2026; ai phụ trách: PGĐ Thuân khoáng sản, PGĐ Chiến KCN, Phòng QLCN với PTP Vân + CN(Dũng)/CN(Nhung)/CN(Khôi)/CN(Trung); yêu cầu tiếp nhận biên chế, dự toán theo Điều 7 k3, k5c; GATE hành văn chờ QĐ phân công của UBND tỉnh). Toàn văn NQ: qlks-sct-vn ref 23; phần KCN: kccn-sct-vn ref 29.
+- `plugin.json` → 2.3.0; description bổ sung.
+
 ## [2.2.0] - 03/9/2026 — công cụ số và dây chuyền dữ liệu của Phòng QLCN
 - Thêm mục "Công cụ số và dây chuyền dữ liệu": 2 trang web (congnghieplaocai.vn; vlncn-laocai.vercel.app kèm kho PDF), dây chuyền tự động 18h Data360X → Gemini → web → plugin, bộ plugin skill-sct; ai vận hành; nguyên tắc nguồn sự thật (trang web = giấy phép đã cấp; plugin = quy trình/mẫu; hiện trạng khác hỏi Bạn).
 

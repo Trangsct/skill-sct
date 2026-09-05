@@ -1,5 +1,10 @@
 # CHANGELOG — tkm-sct-vn
 
+## [1.4.0] - 05/9/2026 — GATE 15/9/2026 theo NQ 66.25/2026/NQ-CP (chức năng khoáng sản của SXD, SNNMT chuyển về SCT)
+
+- `references/03` mục 2: khối GATE — NQ 66.25 chuyển chức năng khoáng sản cấp Sở về SCT, TT 10/2025/TT-BXD dự kiến bãi bỏ chức năng KS của SXD, nhưng NQ không nêu trực tiếp thẩm định thiết kế công trình mỏ theo pháp luật xây dựng → bảng ánh xạ nhóm II/III → SXD chỉ chắc đến 14/9/2026; cách xử lý hồ sơ nhóm II/III từ 15/9/2026 (không tự nhận/từ chối, xin ý kiến UBND tỉnh, chuyển nguyên trạng theo Điều 4 NQ).
+- `SKILL.md` mục IV: cảnh báo tương ứng. `plugin.json` → 1.4.0.
+
 ## v1.0.0 → v1.2.0 (7/2026)
 - Phát hành và hoàn thiện: khung pháp lý 6 thời kỳ (TT 03/2007 → TT 31/2025/TT-BCT), GATE giai đoạn theo ngày trình, thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV, chuyển tiếp K5 Đ76 NĐ 217/2026, bản đồ rủi ro hậu kiểm BC 452/BC-TTCP, 12 văn bản thực tế làm template.
 

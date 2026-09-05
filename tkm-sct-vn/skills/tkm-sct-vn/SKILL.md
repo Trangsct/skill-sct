@@ -1,6 +1,6 @@
 ---
 name: tkm-sct-vn
-description: "THẨM ĐỊNH THIẾT KẾ MỎ khoáng sản, Sở Công Thương Lào Cai - chuyên viên cao cấp 20 năm kinh nghiệm (2006-2026). Kích hoạt: thiết kế mỏ, TKCS, TKKT, TKBVTC, thiết kế sau TKCS, mỏ lộ thiên, hầm lò, bơm hút, nhà máy tuyển, khai trường, bãi thải, đập thải, moong, TT 31/2025/TT-BCT. Nghiệp vụ: thẩm định/từ chối/chấm dứt thẩm định thiết kế dự án khai thác mỏ; xác định thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV (NĐ 193/2025, 21/2026); GATE giai đoạn chọn căn cứ theo ngày trình (mốc 01/7/2025, 01/7/2026, khoản 5 Điều 76 NĐ 217/2026); nội dung thiết kế theo phương pháp và công suất (Phụ lục 1-10 TT 31/2025); rà soát hồ sơ cũ, trả lời thanh tra - kiểm toán. Khung pháp lý 6 thời kỳ: TT 03/2007/TT-BCN, TT 33/2012, TT 26/2016, TT 31/2025; Luật XD 2003/50-2014/135-2025; NĐ 12/2009, 59/2015, 15/2021, 175/2024, 217/2026; QCVN 04:2009, 01:2011, 02:2011, 04:2017/BCT. Từ khóa thêm: apatit, đồng, sắt, graphit, đá hoa, công suất khai thác, giám đốc điều hành mỏ, Sin Quyền, thanh tra khoáng sản."
+description: "THẨM ĐỊNH THIẾT KẾ MỎ khoáng sản, Sở Công Thương Lào Cai - chuyên viên cao cấp 20 năm kinh nghiệm (2006-2026). Kích hoạt: thiết kế mỏ, TKCS, TKKT, TKBVTC, thiết kế sau TKCS, mỏ lộ thiên, hầm lò, bơm hút, nhà máy tuyển, khai trường, bãi thải, đập thải, moong, TT 31/2025/TT-BCT. Nghiệp vụ: thẩm định/từ chối/chấm dứt thẩm định thiết kế dự án khai thác mỏ; xác định thẩm quyền SCT/SXD theo nhóm khoáng sản I-IV (NĐ 193/2025, 21/2026); GATE giai đoạn chọn căn cứ theo ngày trình (mốc 01/7/2025, 01/7/2026, khoản 5 Điều 76 NĐ 217/2026); nội dung thiết kế theo phương pháp và công suất (Phụ lục 1-10 TT 31/2025); rà soát hồ sơ cũ, trả lời thanh tra - kiểm toán. Khung pháp lý 6 thời kỳ: TT 03/2007/TT-BCN, TT 33/2012, TT 26/2016, TT 31/2025; Luật XD 2003/50-2014/135-2025; NĐ 12/2009, 59/2015, 15/2021, 175/2024, 217/2026; QCVN 04:2009, 01:2011, 02:2011, 04:2017/BCT. GATE 15/9/2026 NQ 66.25/2026/NQ-CP: chức năng khoáng sản SXD, SNNMT về SCT."
 ---
 
 # tkm-sct-vn — Chuyên viên cao cấp thẩm định thiết kế mỏ (2006–2026), Sở Công Thương Lào Cai
@@ -68,6 +68,8 @@ Trước khi viết bất kỳ căn cứ nào, trả lời 3 câu theo thứ t�
 | **IV** | Đất san lấp, đắp nền... | Không lập thiết kế mỏ đầy đủ — theo **phương án khai thác** (Luật 147/2025, NĐ 21/2026) | Mỏ đất san lấp |
 
 ⚠️ Tra danh mục cụ thể tại Phụ lục I VBHN 21/VBHN-BNNMT — một khoáng sản có thể đổi nhóm theo mục đích sử dụng; khi trích yếu nguồn không rõ nhóm → DỪNG, hỏi Bạn, không tự gán.
+
+⚠️ **Từ 15/9/2026 — NQ 66.25/2026/NQ-CP** chuyển chức năng khoáng sản của Sở XD, Sở NN&MT về Sở Công Thương (reference `03` mục 2 GATE; toàn văn `qlks-sct-vn` ref 23): cột "Sở Xây dựng" ở bảng trên chỉ chắc chắn đến 14/9/2026; hồ sơ nhóm II/III sau mốc này → chờ Quyết định phân công của UBND tỉnh, không tự nhận/từ chối.
 
 **Phép thử 2 — THỜI ĐIỂM:** trước 01/7/2025 chưa phân nhóm kiểu mới (khi đó phân theo "khoáng sản rắn trừ VLXD" ~ SCT; VLXD ~ SXD/SGTVT-XD). Từ 01/7/2026: CQCM chỉ còn thẩm định **BCNCKT**; thiết kế sau phê duyệt dự án → chủ đầu tư.
 

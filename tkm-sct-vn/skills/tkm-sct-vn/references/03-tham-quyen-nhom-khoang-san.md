@@ -11,6 +11,8 @@ Tóm tắt để định hướng; **khi quyết định thẩm quyền một h�
 
 ## 2. Ánh xạ nhóm → cơ quan chuyên môn về xây dựng (cấp tỉnh Lào Cai)
 
+> ⚠️ **GATE 15/9/2026 — Nghị quyết 66.25/2026/NQ-CP ngày 04/9/2026** (hiệu lực đến 28/02/2027; toàn văn `qlks-sct-vn` ref 23): nhiệm vụ tham mưu QLNN về địa chất, khoáng sản của Sở NN&MT và **Sở Xây dựng** chuyển sang **Sở Công Thương** (Điều 3 k2; Phụ lục II.69 đề xuất bãi bỏ chức năng khoáng sản của SXD tại k11 Đ2 TT 10/2025/TT-BXD). NQ **không nêu trực tiếp** việc thẩm định thiết kế công trình mỏ theo pháp luật xây dựng (thẩm quyền "cơ quan chuyên môn về xây dựng" do Luật Xây dựng, NĐ 217/2026 và QĐ 11/2026 của tỉnh quy định) → bảng dưới đây vẫn là căn cứ **đến khi UBND tỉnh có Quyết định phân công** (Điều 7 k5b NQ). Cách xử lý hồ sơ nhóm II/III nộp vào SCT từ 15/9/2026: **không tự nhận, không tự từ chối** — báo Bạn, đề xuất xin ý kiến UBND tỉnh, dẫn NQ 66.25 + QĐ 11/2026; hồ sơ đang thẩm định tại SXD chuyển nguyên trạng, không tính lại thời hạn (Điều 4 k2 NQ).
+
 | Nhóm | CQCM về xây dựng | Căn cứ vận dụng thực tế |
 |---|---|---|
 | I | **Sở Công Thương** (Phòng QLCN — CN(Dũng)) | QĐ 05/2025/QĐ-UBND 01/7/2025 (chức năng SCT); Đ7 QĐ 11/2026 |

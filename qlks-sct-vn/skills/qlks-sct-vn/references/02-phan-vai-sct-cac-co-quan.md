@@ -1,5 +1,7 @@
 # 02 — Phân vai Sở Công Thương và các cơ quan trên địa bàn tỉnh Lào Cai
 
+> ⭐ **GATE 15/9/2026 — đọc trước:** theo **Nghị quyết 66.25/2026/NQ-CP ngày 04/9/2026** (hiệu lực 15/9/2026 – 28/02/2027), nhiệm vụ tham mưu QLNN về địa chất, khoáng sản của **Sở Nông nghiệp và Môi trường và Sở Xây dựng** (Điều 8 NĐ 150/2025; Điều 25 NĐ 193/2025) **do Sở Công Thương thực hiện**. Toàn bộ mục II dưới đây là phân vai **trước 15/9/2026** (lịch sử) — giữ để đọc hồ sơ cũ, trả lời thanh tra, xác định trách nhiệm trước thời điểm chuyển giao (Điều 5 khoản 1 NQ). Phân vai mới, ma trận trước/sau, checklist tiếp nhận: **reference 23**. Phần việc SNNMT còn giữ sau 15/9/2026: đất đai, thuê đất, GPMB, ĐTM, GPMT, ký quỹ cải tạo phục hồi môi trường, chất thải, quan trắc.
+
 ## I. CĂN CỨ PHẦN VIỆC CỦA SCT
 
 **Điều 4 TT 37/2025/TT-BCT ngày 14/6/2025** (hướng dẫn chức năng, nhiệm vụ cơ quan chuyên môn về công thương): Sở Công Thương tham mưu UBND cấp tỉnh QLNN về, trong đó có:
@@ -9,9 +11,9 @@
 
 Tại Lào Cai, chức năng nhiệm vụ cụ thể theo QĐ 05/2025/QĐ-UBND (tra `sct-laocai-org-vn`).
 
-## II. MA TRẬN PHÂN VAI CHI TIẾT (tổng hợp từ TT 37/2025, KH của UBND tỉnh triển khai Chỉ thị 11-CT/TU, CV 5973/UBND-KT ngày 11/6/2026)
+## II. MA TRẬN PHÂN VAI CHI TIẾT — LỊCH SỬ TRƯỚC 15/9/2026 (tổng hợp từ TT 37/2025, KH của UBND tỉnh triển khai Chỉ thị 11-CT/TU, CV 5973/UBND-KT ngày 11/6/2026)
 
-### Sở Nông nghiệp và Môi trường — cơ quan CHỦ TRÌ về tài nguyên khoáng sản
+### Sở Nông nghiệp và Môi trường — cơ quan CHỦ TRÌ về tài nguyên khoáng sản (trước 15/9/2026; các đầu việc dưới đây chuyển sang SCT theo NQ 66.25, trừ môi trường mỏ)
 - Tham mưu Chủ tịch UBND tỉnh: cấp/gia hạn/điều chỉnh/thu hồi/cấp đổi GP thăm dò, GP khai thác nhóm II-III-IV, tận thu, phân tán nhỏ lẻ; tiếp nhận các TTHC phân quyền theo NQ 66.19/2026 (đóng cửa mỏ, chuyển nhượng...).
 - Tiền cấp quyền khai thác, đấu giá quyền khai thác, khoanh định khu vực cấm/tạm cấm, khu vực không đấu giá.
 - Bảo vệ khoáng sản chưa khai thác (chủ trì phương án bảo vệ).
@@ -49,7 +51,7 @@ Tại Lào Cai, chức năng nhiệm vụ cụ thể theo QĐ 05/2025/QĐ-UBND (
 - Bảo vệ khoáng sản chưa khai thác trên địa bàn; phát hiện, ngăn chặn, xử lý ban đầu khai thác trái phép; chịu trách nhiệm người đứng đầu khi để xảy ra vi phạm kéo dài.
 - Một số việc theo phân quyền/quy định mới (xác nhận liên quan KS nhóm IV, giám sát cắm mốc...) — đối chiếu văn bản phân công cụ thể của tỉnh trước khi viện dẫn.
 
-## III. NGUYÊN TẮC HÀNH VĂN THEO VAI
+## III. NGUYÊN TẮC HÀNH VĂN THEO VAI (áp dụng cho việc phát sinh trước 15/9/2026; từ 15/9/2026 xem reference 23 mục VI)
 
 1. Việc của SNNMT/SXD mà văn bản đến "xin ý kiến SCT" → SCT **tham gia ý kiến trong phạm vi chức năng** (an toàn, VLNCN, thiết kế mỏ nhóm I, chế biến, quy hoạch KS nhóm I); mở đầu phần ý kiến bằng câu giới hạn phạm vi.
 2. Doanh nghiệp gửi SCT việc thuộc SNNMT (xin gia hạn GP khai thác, đóng cửa mỏ...) → công văn phúc đáp: nêu đúng cơ quan có thẩm quyền + căn cứ (Điều 108 Luật 54/2024 sửa bởi Luật 147/2025; NQ 66.19/2026), đồng gửi cơ quan đó.

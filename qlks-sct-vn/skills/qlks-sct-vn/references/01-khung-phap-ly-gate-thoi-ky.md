@@ -23,6 +23,8 @@ Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc tr
 | **NQ 168/NQ-CP; NQ 02/2025/NQ-CP** | 2025 | Cơ chế đặc thù trong khai thác khoáng sản |
 | **NQ 66.4/2025/NQ-CP** | 21/9/2025 | Cơ chế đặc thù tháo gỡ khó khăn thi hành Luật ĐC&KS |
 | **NQ 66.19/2026/NQ-CP** | 18/5/2026 | Phụ lục VIII: phân quyền 9 nhóm TTHC địa chất - khoáng sản của Bộ trưởng BNNMT về Chủ tịch UBND cấp tỉnh (chi tiết reference 03) + cắt giảm điều kiện kinh doanh |
+| **NQ 66.25/2026/NQ-CP** | **04/9/2026** (hiệu lực 15/9/2026 – 28/02/2027) | Chuyển chức năng QLNN về **địa chất, khoáng sản** của Bộ NN&MT, Bộ XD → **Bộ Công Thương**; của Sở NN&MT, Sở XD → **Sở Công Thương** (Điều 8 NĐ 150/2025, Điều 25 NĐ 193/2025); **khu công nghiệp** Bộ Tài chính → Bộ Công Thương; chuyển tiếp Điều 4; Phụ lục 74 VBQPPL đề xuất sửa. Bản gốc `van-ban-goc/NQ-66.25-...pdf`. **Reference 23** |
+| **NĐ 150/2025/NĐ-CP** | 12/6/2025 (sửa bởi NĐ 370/2025) | Tổ chức cơ quan chuyên môn thuộc UBND tỉnh, xã — **Điều 8** (chức năng khoáng sản của Sở) là điều được NQ 66.25 chuyển sang Sở Công Thương |
 | **QĐ 575/QĐ-TTg** (12/3/2025), **QĐ 504/QĐ-BNNMT**, **QĐ 3278/QĐ-BNNMT** | 2025 | Kế hoạch triển khai thi hành Luật; đính chính TT 36/2025/TT-BNNMT |
 
 ## III. THÔNG TƯ BỘ CÔNG THƯƠNG (phần việc SCT)
@@ -85,7 +87,8 @@ Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc tr
 | 01/7/2025 – 31/12/2025 | Luật 54/2024 + NĐ 193/2025 + TT 24/31/43/36-40/2025 |
 | 01/01/2026 – 15/01/2026 | + Luật 147/2025 |
 | 16/01/2026 – 17/5/2026 | + NĐ 21/2026 (trích dẫn NĐ 193/2025 phải kèm "được sửa đổi, bổ sung bởi NĐ 21/2026/NĐ-CP") |
-| Từ 18/5/2026 | + NQ 66.19/2026 (9 nhóm TTHC đã về Chủ tịch UBND tỉnh) + TT 26/2026/TT-BCT |
+| 18/5/2026 – 14/9/2026 | + NQ 66.19/2026 (9 nhóm TTHC đã về Chủ tịch UBND tỉnh) + TT 26/2026/TT-BCT |
+| **Từ 15/9/2026** | **+ NQ 66.25/2026/NQ-CP**: cơ quan tham mưu cấp tỉnh về địa chất, khoáng sản là **Sở Công Thương**; cấp Bộ là **Bộ Công Thương**; xử phạt NĐ 36/2020 và quy hoạch khoáng sản cũng chuyển; hồ sơ đang giải quyết chuyển nguyên trạng. Chỉ đến 28/02/2027 (hoặc theo gia hạn NQ 206/2025/QH15) — sau đó theo luật, nghị định sửa đổi (reference 23) |
 
 ## VII. CHUYỂN TIẾP HAY GẶP
 
@@ -94,3 +97,4 @@ Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc tr
 3. **Danh xưng cơ quan:** "Bộ Tài nguyên và Môi trường" → "Bộ Nông nghiệp và Môi trường"; "Ủy ban nhân dân" → "Chủ tịch Ủy ban nhân dân" tại nhiều điều (khoản 30-34 Điều 1 Luật 147/2025). GP nhóm I do Bộ TN&MT cấp còn hiệu lực vẫn được tính là GP Bộ NNMT cấp (cách hiểu tại TT 26/2026 về VLNCN).
 4. **Thẩm quyền với GP cũ:** khoản 3 Điều 108 (sửa bởi Luật 147/2025) — người có thẩm quyền mới xử lý cả GP do cơ quan khác cấp trước đây, trừ trường hợp tổ chức chọn theo pháp luật tại thời điểm nộp hồ sơ (điểm b K2 Đ111).
 5. **Khẩn cấp:** khai thác, thu hồi KS nhóm III, IV phục vụ tình trạng khẩn cấp/thiên tai không phải làm thủ tục cấp phép (điểm đ1 K2 Đ4 bổ sung bởi Luật 147/2025).
+6. **Chuyển giao cơ quan quản lý 15/9/2026 (Điều 4 NQ 66.25):** giấy phép, quyết định, kết quả hội đồng do Bộ TN&MT/Bộ NN&MT/Bộ XD/Sở NN&MT/Sở XD ban hành trước 15/9/2026 giữ nguyên giá trị, **không cấp lại, đổi lại**; hồ sơ TTHC đang giải quyết chuyển nguyên trạng sang Bộ/Sở Công Thương, **không nộp lại hồ sơ, phí, không tính lại thời hạn**, không được yêu cầu bổ sung chỉ vì đổi cơ quan; nghĩa vụ tài chính đã xác định không xác định lại; đề án, dự án, nhiệm vụ KH&CN đã phê duyệt tiếp tục thực hiện, Bộ/Sở Công Thương kế thừa.

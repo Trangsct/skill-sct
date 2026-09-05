@@ -9,6 +9,7 @@ Reference này tổng hợp khung pháp lý quy hoạch khoáng sản và đặc
 | Luật Địa chất và Khoáng sản số 54/2024/QH15 | Toàn ngành; phân khoáng sản thành **4 nhóm (I, II, III, IV)** | Hiệu lực 01/7/2025; thay Luật Khoáng sản 2010 |
 | Luật số 147/2025/QH15 | Sửa đổi, bổ sung Luật ĐCKS 54/2024 | Hiệu lực 01/01/2026 |
 | **QĐ 866/QĐ-TTg ngày 18/7/2023** | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại **khoáng sản** (nhóm I — kim loại, hóa chất, công nghiệp giá trị cao; trừ dầu khí, than, phóng xạ, VLXD, phân tán nhỏ lẻ) | PTT Trần Hồng Hà ký. Hiệu lực kể từ ngày ký. KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. **Đang được rà soát điều chỉnh** (Cục Địa chất và Khoáng sản VN chủ trì) |
+| **NQ 66.25/2026/NQ-CP ngày 04/9/2026** (hiệu lực 15/9/2026 – 28/02/2027) | Chuyển chức năng QLNN địa chất, khoáng sản (gồm **quy hoạch khoáng sản** — Phụ lục I NĐ 70/2026 số 26, 27, 28) từ Bộ NN&MT, Bộ XD về **Bộ Công Thương**; cấp Sở về **Sở Công Thương** | Từ 15/9/2026: văn bản kiến nghị điều chỉnh, bổ sung QĐ 866, QĐ 2581, QĐ 1626 gửi **Bộ Công Thương** (không gửi Bộ NN&MT); SCT tham mưu phương án khai thác, sử dụng KS trong quy hoạch tỉnh cho cả 4 nhóm. Toàn văn: `qlks-sct-vn` ref 23 |
 | **QĐ 1626/QĐ-TTg ngày 15/12/2023** | Quy hoạch thăm dò, khai thác, chế biến, sử dụng khoáng sản **làm vật liệu xây dựng** (nhóm II) | Kaolin-feldspar, dolomit, quarzit, thạch anh, đá hoa trắng, đá vôi/sét xi măng, đá ốp lát... |
 
 > ⚠️ Bản thuyết minh Báo cáo QHT (07/6/2026) ghi nhầm QĐ 866 "ngày 17/8/2023"; ngày đúng đã xác minh là **18/7/2023**. Dùng 18/7/2023 trong văn bản chính thức.

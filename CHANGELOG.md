@@ -1,3 +1,5 @@
+## 06/9/2026 (lần 4) — sd-vlncn-sct-vn 2026.9.6.4: Công văn Sở đề nghị ban hành chỉ đạo VLNCN viết lại (khung mới 1 trang; điền chỗ trống bản 23.8; gỡ trHeight bảng ký).
+
 ## 06/9/2026 (lần 3) — sd-vlncn-sct-vn 2026.9.6.3: câu chữ chốt mục 1đ "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn…, chịu trách nhiệm thẩm định, phê duyệt…"; vbhc-vn K8 đồng bộ nhịp câu giao vai trò (không nâng version).
 
 ## 06/9/2026 (lần 2) — vbhc-vn 2.13.1 (K8) + sd-vlncn-sct-vn 2026.9.6.2: Lãnh đạo chốt Sở dẫn điều khoản, Công an/Bộ CHQS viết tổng quát

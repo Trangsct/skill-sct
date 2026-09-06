@@ -45,8 +45,8 @@ RULES = [
     {
         "id": "ubnd-chi-dao-khong-cai-dieu-kien-cap-phep",
         # Văn bản chỉ đạo của UBND tỉnh không được đặt điều kiện tiên quyết vào thủ tục cấp phép của ngành khác (Lãnh đạo Sở bác 06/9/2026 — Nhóm K vbhc-vn)
-        "pattern": r"chỉ cấp (Giấy phép|GP|Mệnh lệnh) vận chuyển[^\n]{0,120}sau khi",
-        "why": "UBND tỉnh không cài điều kiện vào thủ tục cấp GP/Mệnh lệnh vận chuyển của Công an/Bộ Quốc phòng (Đ41 Luật 42/2024 chốt cứng hồ sơ + thời hạn) — viết cơ chế phối hợp, đối chiếu thông tin (vbhc-vn Nhóm K1; sd-vlncn anti-error 31).",
+        "pattern": r"chỉ cấp (Giấy phép|GP|Mệnh lệnh) vận chuyển[^\n]{0,120}(phối hợp|kiểm tra thực tế)",
+        "why": "Điều kiện 'sau khi phối hợp Sở kiểm tra thực tế' bị Lãnh đạo bác 06/9/2026 (mơ hồ, không sản phẩm). Dạng chốt: 'chỉ thực hiện cấp phép khi được Sở Công Thương (cơ quan quản lý về phương án nổ mìn trên địa bàn tỉnh) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn…' — vai trò giao trước ở mục 1đ (vbhc-vn Nhóm K1; sd-vlncn mẫu 23 B2).",
         "since": "2026-09-06",
         "level": "FAIL",
     },

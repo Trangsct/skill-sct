@@ -1,5 +1,12 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.6.5] - 06/9/2026 — BẢN CUỐI Bạn chốt: bộ đôi CV Sở + dự thảo CV UBND tỉnh chỉ đạo VLNCN; mẫu 23 viết lại toàn bộ; anti-error 31 viết lại
+- Khung chuẩn mới `vi-du-thuc-te/CV-SCT-...-ban-cuoi-6.9.2026.docx` và `Du-thao-CV-UBND-tinh-...-ban-cuoi-6.9.2026.docx` (gỡ các bản trung gian 23.8, ban-sua-6.9, ban-6.9).
+- Mẫu 23 viết lại: mục A (CV Sở 4 đoạn, không nêu "chưa có văn bản chỉ đạo chung", "(Khôi)." subscript cố ý), mục B (5 nguyên tắc: B1 gần như không dẫn điều khoản; B2 một cơ chế "Sở xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp nguyên văn 3 chỗ — cài điều kiện được vì đã giao vai trò trước; B3 Sở là cơ quan quản lý PANM: phê duyệt + đồng ý bằng văn bản thay UBND tỉnh; B4 kết cấu 7 mục đúng độ dài; B5 thể thức nhỏ), mục C pháp lý, mục D lịch sử 3 vòng.
+- Ref 10: cơ chế mới (xác nhận khoảng cách an toàn; đồng ý bằng văn bản) chờ ban hành; ref 11 anti-error 31 viết lại theo bản cuối; SKILL.md routing + mục VI.
+- Việc mở khi văn bản được ban hành: mẫu Văn bản xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn; cập nhật bảng III SKILL.md, mẫu 07/10, ref 03/10 theo số/ngày.
+- plugin.json 2026.9.6.4 → **2026.9.6.5**.
+
 ## [2026.9.6.4] - 06/9/2026 — Công văn Sở đề nghị UBND tỉnh ban hành chỉ đạo VLNCN viết lại theo phong cách hành chính (khung `CV-SCT-...-ban-6.9.2026.docx`, 1 trang); mẫu 23 mô tả 4 đoạn + lưu ý kỹ thuật khối ký.
 
 ## [2026.9.6.3] - 06/9/2026 — câu chữ chốt mục 1đ: "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn trên địa bàn tỉnh, chịu trách nhiệm thẩm định, phê duyệt…"; khung docx cập nhật; mẫu 23, ref 11.

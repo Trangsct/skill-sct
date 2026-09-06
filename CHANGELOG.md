@@ -1,3 +1,7 @@
+## 06/9/2026 (bản cuối) — vbhc-vn 2.14.0 (Nhóm K viết lại K1–K10) + sd-vlncn-sct-vn 2026.9.6.5: bộ đôi CV Sở + dự thảo CV UBND tỉnh chỉ đạo VLNCN — BẢN CUỐI Bạn chốt
+
+Diff bản cuối với bản Claude giao: Bạn bỏ gần hết viện dẫn điều/khoản (chỉ giữ QĐ ủy quyền + điểm d k2 Đ38), lắp một cơ chế "chỉ thực hiện… khi được Sở Công Thương (cơ quan quản lý về PANM) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp nguyên văn 3 chỗ (Công an cấp GP vận chuyển cho nhóm GP Bộ cấp; đơn vị BQP; tổ chức dịch vụ nổ mìn), bỏ PCCC của Công an, bỏ giao việc riêng SXD/SNNMT, bỏ đoạn gửi kết quả 15/6–15/12; mục 7 DN nổ mìn khu dân cư cần Sở đồng ý bằng văn bản (thay UBND tỉnh). Khung chuẩn mới `*-ban-cuoi-6.9.2026.docx`, mẫu 23 viết lại, anti-error 31 viết lại, ref 10 cơ chế mới chờ ban hành; check_facts rule sửa pattern (dạng bị bác = "sau khi phối hợp/kiểm tra thực tế").
+
 ## 06/9/2026 (lần 4) — sd-vlncn-sct-vn 2026.9.6.4: Công văn Sở đề nghị ban hành chỉ đạo VLNCN viết lại (khung mới 1 trang; điền chỗ trống bản 23.8; gỡ trHeight bảng ký).
 
 ## 06/9/2026 (lần 3) — sd-vlncn-sct-vn 2026.9.6.3: câu chữ chốt mục 1đ "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn…, chịu trách nhiệm thẩm định, phê duyệt…"; vbhc-vn K8 đồng bộ nhịp câu giao vai trò (không nâng version).

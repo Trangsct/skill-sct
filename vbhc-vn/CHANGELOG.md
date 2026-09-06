@@ -1,5 +1,10 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.14.0] - 06/9/2026 — Nhóm K viết lại theo BẢN CUỐI Bạn chốt (K1–K10)
+- Diff bản cuối của Bạn với bản Claude giao cho thấy 2 quy ước trái với 2.13.x: **K1** điều kiện đặt lên cơ quan khác vẫn được dùng — nhưng chỉ khi Sở đã được giao vai trò ở mục trước và có sản phẩm cụ thể (câu chốt "chỉ thực hiện… khi được Sở Công Thương (cơ quan quản lý về phương án nổ mìn) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn…", lặp nguyên văn 3 chỗ); **K6** văn bản chỉ đạo UBND tỉnh gần như không viện dẫn — bản sửa lần 1 dẫn đúng và đủ vẫn bị bác ("đúng không đồng nghĩa với cần ghi").
+- Thêm K9 (công văn Sở trình kèm không nêu thiếu sót của cấp trên; không sửa thể thức riêng của Sở như "(Khôi)." subscript), K10 (thể thức nhỏ: "(Dự thảo)", "(B/c)"; SZ13 do Word ghi lại không sửa file cuối). K2, K3, K4, K7, K8 chỉnh cho khớp bản cuối; checklist + tự bắt lỗi thêm K1/K6; lệnh QA `--forbid` mới + đếm viện dẫn ≤ 4–5.
+- Khung: `sd-vlncn-sct-vn/vi-du-thuc-te/*-ban-cuoi-6.9.2026.docx` (mẫu 23, plugin 2026.9.6.5).
+
 ## [2.13.1] - 06/9/2026 — Nhóm K8: mức chi tiết theo chủ thể
 - reference/phong-tranh-sai-lam.md: K8 — phần Sở mình dẫn điều khoản, phần Công an/Bộ CHQS/sở khác viết tổng quát "theo thẩm quyền" (Bạn chốt lần 2 sau khi bản 2.13.0 dẫn quá chi tiết cho ngành dọc khác); "kiểm tra hồ sơ" không tách khỏi "thẩm định"; giao vai trò bằng câu xác lập. SKILL.md đồng bộ.
 

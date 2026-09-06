@@ -1,6 +1,6 @@
 {
   "name": "vbhc-vn",
-  "version": "2.13.1",
+  "version": "2.14.0",
   "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản cấp UBND tỉnh/VP do Sở dự thảo. 9 template trắng + 23 mẫu thật, Chế độ A (dựng từ template) / B (sửa file gốc), 11 nhóm anti-error A-K, QA một phát qa_all.py (--forbid/--require, audit keepNext), đọc metadata PDF công văn đến bằng extract_metadata.py. Dùng khi soạn/sửa/rà soát/chuyển thể VBHC hoặc sửa lỗi trình bày file Word.",
   "author": {
     "name": "Trangsct"

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.38"
+    "version": "4.11.39"
   },
   "plugins": [
     {
@@ -133,6 +133,12 @@
       "source": "./atvsld-sct-vn",
       "description": "An toàn, vệ sinh lao động (ATVSLĐ) phần ngành Công Thương - Sở Công Thương tỉnh Lào Cai: máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt thuộc Bộ Công Thương (điểm d k1 Đ33 Luật 84/2015: thiết bị áp lực, thiết bị nâng đặc thù công nghiệp, hóa chất, VLNCN, khai thác mỏ), khai báo - kiểm định - huấn luyện, tai nạn lao động và sự cố kỹ thuật, ranh giới với Sở Nội vụ - Sở Y tế - xã, xử phạt NĐ 283/2026 (hiệu lực 10/9/2026 - Sở CT CHUYỂN, không xử). Bản gốc Luật 84/2015, NĐ 283/2026.",
       "version": "1.0.0"
+    },
+    {
+      "name": "skcn-vn",
+      "source": "./skcn-vn",
+      "description": "Theo dõi sức khỏe cá nhân của Trần Trọng Trang (nam, 1987): hồ sơ nền (hội chứng chuyển hóa, vảy nến, thoát vị đĩa đệm), ngưỡng tham chiếu, lịch sử chỉ số (đường huyết, mỡ máu, cân nặng, bước chân), cảnh báo đỏ, đánh giá TPCN, chuẩn bị đi khám, kế hoạch tập luyện tại nhà. Luôn đọc trước khi nhận định bất kỳ con số sức khỏe nào. Không dùng cho công việc Sở.",
+      "version": "1.1.0"
     }
   ]
 }

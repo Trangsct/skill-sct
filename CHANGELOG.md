@@ -1,3 +1,7 @@
+## 06/9/2026 (lần 6) — skcn-vn 1.1.0: plugin MỚI theo dõi sức khỏe cá nhân (đưa vào repo theo yêu cầu của Bạn, đã cảnh báo repo công khai)
+
+Skill cá nhân skcn-vn (tạo 31/8/2026, trước nay tải lên claude.ai riêng) lần đầu đóng gói thành plugin trong repo. Nội dung mới: `references/ke-hoach-tap-luyen.md` (lịch 30 phút sáng + 2 giờ tối từ 08/9/2026, 3 buổi tạ theo thiết bị tại nhà, 8 nguyên tắc với thoát vị đĩa đệm, mốc xét nghiệm lại 12/2026); ho-so-nen thêm thiết bị tập, lập trường không cắt rượu vì công vụ, lịch sử bỏ phương án 20.000 bước; lich-su-chi-so + CSV thêm glucose 8,5 sau ăn 30 phút và bước chân 05–06/9. Không liên quan nghiệp vụ Sở.
+
 ## 06/9/2026 (bản cuối) — vbhc-vn 2.14.0 (Nhóm K viết lại K1–K10) + sd-vlncn-sct-vn 2026.9.6.5: bộ đôi CV Sở + dự thảo CV UBND tỉnh chỉ đạo VLNCN — BẢN CUỐI Bạn chốt
 
 Diff bản cuối với bản Claude giao: Bạn bỏ gần hết viện dẫn điều/khoản (chỉ giữ QĐ ủy quyền + điểm d k2 Đ38), lắp một cơ chế "chỉ thực hiện… khi được Sở Công Thương (cơ quan quản lý về PANM) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp nguyên văn 3 chỗ (Công an cấp GP vận chuyển cho nhóm GP Bộ cấp; đơn vị BQP; tổ chức dịch vụ nổ mìn), bỏ PCCC của Công an, bỏ giao việc riêng SXD/SNNMT, bỏ đoạn gửi kết quả 15/6–15/12; mục 7 DN nổ mìn khu dân cư cần Sở đồng ý bằng văn bản (thay UBND tỉnh). Khung chuẩn mới `*-ban-cuoi-6.9.2026.docx`, mẫu 23 viết lại, anti-error 31 viết lại, ref 10 cơ chế mới chờ ban hành; check_facts rule sửa pattern (dạng bị bác = "sau khi phối hợp/kiểm tra thực tế").

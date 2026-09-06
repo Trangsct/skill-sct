@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.24.0] - 06/9/2026 — Kỳ cập nhật 06/9/2026: biểu tiến độ KCN/CCN năm 2026, 02 danh mục thu hút đầu tư, bảng tiến độ CCN Mông Sơn, chế độ báo cáo Lãnh đạo hằng tuần (ref 30)
+
+- **`references/30` (MỚI):** chỉ đạo GĐ Sở 06/9/2026 (biểu tiến độ dự kiến các dự án KCN, CCN thành lập, khởi công, hoàn thành năm 2026 — nhiệm vụ định kỳ thứ 6); số liệu chuẩn chốt 06/9 (CCN 6 nhóm, KCN 3 nhóm, mốc hoàn thành 2026); bảng nguồn TMĐT và nhà đầu tư đã chốt (Thống Nhất 1, Phú Thịnh 1/2/3, Minh Quân, Y Can, Bảo Minh, Mông Sơn, Yên Hợp 2, Tân Nguyên, Phú Thịnh 6, Xuân Ái, Tân Hợp, Châu Quế 31 ha, Bản Phiệt 1 66 ha, An Thịnh, KCN Trấn Yên 2.184,33 tỷ); văn bản viện dẫn cố định 25/8–05/9/2026 (5342/BC-SCT, 5343/TTr-SCT, 5420/5421/5424/TTr-SCT, 8854/UBND-KT, QĐ 3105/3116/3117/QĐ-UBND…); 8 quy tắc trình bày chốt với Bạn (tên biểu, 4 nhóm CCN, 11 cột, không ô trống, KHÔNG freeze panes, danh mục thêm sheet mới đặt đầu); mẫu tin Zalo 5 mục; quy trình cập nhật tuần; cảnh báo vênh số liệu (Cam Đường 1/Bảo Hưng 2, Tờ trình 187 Châu Quế 2 ký hiệu, Tân Nguyên mốc ước).
+- **`vi-du-thuc-te/`** thêm 04 file 06/9/2026: Biểu tiến độ; Danh mục CCN; Danh mục KCN; Bảng tiến độ CCN Mông Sơn (mốc QĐ 15/9/2026, khởi công 15/6/2027, vận hành 25/7/2028).
+- `SKILL.md`: bảng reference thêm ref 30; description bổ sung. `plugin.json` → 1.24.0.
+
 ## [1.23.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: QLNN về KCN Bộ Tài chính → Bộ Công Thương (ref 29)
 
 - **`references/29` (MỚI):** Điều 2 NQ 66.25/2026/NQ-CP ngày 04/9/2026 (hiệu lực 15/9/2026 – 28/02/2027): điểm k k2 Đ44 Luật Đầu tư 143/2025 và Đ7, 13, 40, 53, 57, 68 NĐ 35/2022 do Bộ Công Thương thực hiện; Phụ lục Mục I (4 văn bản sửa, gồm điểm n k2 Đ68 NĐ 35: Ban Quản lý báo cáo định kỳ cả Bộ Công Thương); Điều 7 k5 UBND tỉnh phân công lại cơ quan chuyên môn; TT 37/2025/TT-BCT dự kiến bổ sung thẩm quyền KCN cho Sở Công Thương và UBND xã; 02 Ban Quản lý không đổi; CCN ngoài phạm vi; GATE hành văn khi chưa có QĐ phân công của tỉnh; 3 việc Sở làm ngay. Bản gốc lưu tại qlks-sct-vn (ref 23 toàn văn).

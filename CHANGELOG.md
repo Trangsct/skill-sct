@@ -1,3 +1,5 @@
+## 06/9/2026 (lần 7) — kccn-sct-vn 1.24.0: ref 30 kỳ cập nhật 06/9/2026 (biểu tiến độ KCN/CCN năm 2026, danh mục thu hút đầu tư, bảng tiến độ CCN Mông Sơn, mẫu tin Zalo và quy trình báo cáo Lãnh đạo hằng tuần) + 04 file mẫu trong vi-du-thuc-te.
+
 ## 06/9/2026 (lần 6) — skcn-vn 1.1.0: plugin MỚI theo dõi sức khỏe cá nhân (đưa vào repo theo yêu cầu của Bạn, đã cảnh báo repo công khai)
 
 Skill cá nhân skcn-vn (tạo 31/8/2026, trước nay tải lên claude.ai riêng) lần đầu đóng gói thành plugin trong repo. Nội dung mới: `references/ke-hoach-tap-luyen.md` (lịch 30 phút sáng + 2 giờ tối từ 08/9/2026, 3 buổi tạ theo thiết bị tại nhà, 8 nguyên tắc với thoát vị đĩa đệm, mốc xét nghiệm lại 12/2026); ho-so-nen thêm thiết bị tập, lập trường không cắt rượu vì công vụ, lịch sử bỏ phương án 20.000 bước; lich-su-chi-so + CSV thêm glucose 8,5 sau ăn 30 phút và bước chân 05–06/9. Không liên quan nghiệp vụ Sở.

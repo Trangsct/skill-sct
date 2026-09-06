@@ -1,4 +1,4 @@
-# Phòng tránh 10 nhóm sai lầm tham mưu A–J (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 11 nhóm sai lầm tham mưu A–K (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -175,6 +175,32 @@ Hai lỗi này không phải lỗi thể thức mà là lỗi **quan hệ với 
 ```
 Rồi đọc lại toàn văn một lượt riêng chỉ để soi register, không soi nội dung.
 
+### Nhóm K — Văn bản chỉ đạo của UBND tỉnh do Sở dự thảo: giao việc cho cơ quan khác (Bạn chốt 06/9/2026 — vụ dự thảo CV UBND tỉnh tăng cường quản lý VLNCN)
+
+**Vụ thật:** dự thảo Công văn UBND tỉnh chỉ đạo tăng cường quản lý VLNCN (bản 03/9/2026, 7 mục, ~4 trang) bị Lãnh đạo Sở đọc nửa đầu và bôi đỏ 5 đoạn (mục 1đ, 2a, 2b, 2c, 2d) với hai nhận xét: **dùng từ vượt khỏi phong cách hành chính** và **trích dẫn điều khoản chưa chính xác**. Khi rà tiếp nửa sau theo cùng tiêu chí, phát hiện thêm mục 3 (Bộ CHQS tỉnh) sai thẩm quyền hoàn toàn. Nhóm K mở rộng quy tắc 1-1-1 của Nhóm B (nhiệm vụ của Sở) sang **nhiệm vụ giao cho cơ quan khác** và mở rộng Nhóm J (giọng giải thích) sang văn bản cấp tỉnh.
+
+**K1 — Không cài "điều kiện tiên quyết" vào thủ tục hành chính thuộc thẩm quyền cơ quan khác.** Câu bị bác: *"Công an tỉnh chỉ cấp Giấy phép vận chuyển VLNCN sau khi đã phối hợp với Sở Công Thương kiểm tra thực tế khu vực nổ mìn"*. Trình tự, hồ sơ, thời hạn cấp GP vận chuyển đã chốt cứng tại Điều 41 Luật 42/2024 (03 ngày làm việc, hồ sơ chỉ gồm văn bản đề nghị) — văn bản hành chính của UBND tỉnh không được đặt thêm điều kiện cấp phép. Viết lại thành **cơ chế phối hợp**: "trong quá trình giải quyết hồ sơ…, phối hợp với Sở Công Thương đối chiếu địa điểm, thời gian sử dụng VLNCN với nội dung đã thông báo…; kiểm tra, giám sát việc thực hiện đúng nội dung Giấy phép theo khoản 2 Điều 41". Dấu hiệu nhận biết: cụm **"chỉ cấp … sau khi"**, **"chỉ … khi đã"** đặt trước một thủ tục của cơ quan khác.
+
+**K2 — Mỗi nhiệm vụ giao cho cơ quan khác phải truy về đúng điều khoản xác lập thẩm quyền của CHÍNH cơ quan đó** (mở văn bản gốc của ngành đó, không suy từ chức năng chung). Hai lỗi thật:
+- Giao Bộ CHQS tỉnh *"chỉ cấp Mệnh lệnh vận chuyển sau khi…"* (bị bác) và *"cung cấp thông tin Mệnh lệnh đã cấp"* — Điều 6 TT 98/2024/TT-BQP: người cấp Mệnh lệnh là Tổng Tham mưu trưởng hoặc Tư lệnh quân khu, quân đoàn, quân chủng…; Bộ CHQS tỉnh KHÔNG cấp. Viết lại theo vai trò thật: theo dõi, nắm tình hình đơn vị thuộc BQP trên địa bàn; phối hợp kiểm tra, kiểm soát vận chuyển; phối hợp bảo vệ phương tiện khi nhận thông báo (điểm e k2 Đ41); đôn đốc thông báo ≥10 ngày (điểm đ k2 Đ38); báo cáo, đề nghị cơ quan có thẩm quyền của BQP xử lý.
+- Giao Công an tỉnh *"thẩm định thiết kế PCCC kho VLNCN thuộc thẩm quyền"* chung chung — Công an chỉ thẩm định 02 nội dung (Điều 9 NĐ 105/2025), 05 nội dung còn lại thuộc cơ quan chuyên môn về xây dựng (Sở Công Thương với kho VLNCN); kiểm tra nghiệm thu PCCC của Công an đã dừng từ 01/7/2026 (NQ 66.18/2026/NQ-CP). Viết: "thẩm định thiết kế về PCCC đối với các nội dung thuộc thẩm quyền và kiểm tra về PCCC theo Điều 9, Điều 13 NĐ 105/2025".
+Cách làm: trước khi viết mục "Giao [cơ quan X]", lập bảng 3 cột *nhiệm vụ – điều khoản xác lập thẩm quyền của X – plugin/văn bản gốc đã mở*; ô trống ở cột 2 → không được giao, chuyển thành "phối hợp".
+
+**K3 — Không nhắc lại nghĩa vụ luật định của cơ quan bằng tính từ đánh giá.** Bị bôi đỏ: *"Thẩm định chặt chẽ, cấp Giấy phép…, bảo đảm đúng thời hạn 05 ngày làm việc"*, *"Hướng dẫn chi tiết"*, *"bảo đảm chặt chẽ"*, *"nắm chắc địa bàn"*, *"báo cáo chi tiết, đầy đủ"*. UBND tỉnh giao việc bằng động từ nghiệp vụ + dẫn điều khoản: "Thực hiện việc cấp, cấp lại, cấp điều chỉnh Giấy phép… theo đúng nội dung ủy quyền tại QĐ… và trình tự, thủ tục, thời hạn quy định tại Điều 39…"; "tăng cường quản lý địa bàn". Tính từ "chặt chẽ" chỉ giữ ở cụm đã thành ngữ hành chính ("quản lý chặt chẽ", "kiểm soát chặt chẽ") — không đứng sau động từ thủ tục (thẩm định, cấp, hướng dẫn).
+
+**K4 — Không chèn ngoặc đơn giải thích cơ chế pháp lý vào câu giao việc** (Nhóm J áp cho văn bản cấp tỉnh). Đoạn bị bác nguyên văn: *"…(thẩm định thiết kế về PCCC thuộc thẩm quyền; việc nghiệm thu về PCCC do chủ đầu tư tự tổ chức từ ngày 01/7/2026; văn bản nghiệm thu về PCCC làm căn cứ hồ sơ đề nghị cấp Giấy phép… theo điểm đ khoản 1 Điều 39)"* — đây là phần thuyết minh cho người đọc, không phải chỉ đạo. Tách thành mệnh đề giao việc có dẫn điều khoản: "hướng dẫn tổ chức, doanh nghiệp thực hiện việc nghiệm thu về PCCC đối với kho cố định chứa VLNCN theo NQ 66.18/2026/NQ-CP, làm cơ sở để … hoàn thiện hồ sơ đề nghị cấp Giấy phép theo điểm đ khoản 1 Điều 39". Ngoặc đơn trong câu giao việc chỉ được chứa: tên viết tắt, số/ngày văn bản, đối tượng ngoại lệ.
+
+**K5 — Thuật ngữ lấy theo luật, không lấy theo khẩu ngữ.** Bị bôi đỏ: *"các vụ mất cắp, thất thoát"* → "các trường hợp mất, thất thoát" (khoản 16 Điều 5 Luật 42/2024 dùng "mất, thất thoát"; "mất cắp, thất thoát" chỉ dùng khi dẫn nguyên văn k4 Đ17 TT 23/2024). Kèm theo: "các vụ" → "các vụ việc/các trường hợp"; "các đơn vị" → "tổ chức, doanh nghiệp" (đúng chủ thể của Luật); "kho VLNCN phải có nghiệm thu PCCC" → "kho cố định chứa VLNCN" (điểm đ k1 Đ39 chỉ áp cho kho cố định).
+
+**K6 — Viện dẫn trong văn bản cấp tỉnh:**
+- Luật được sửa đổi: định nghĩa gọi tắt MỘT lần ở đoạn mở đầu *"Luật … số 42/2024/QH15 ngày 29/6/2024 (được sửa đổi, bổ sung tại Luật số 118/2025/QH15 ngày 10/12/2025; sau đây gọi là Luật số 42/2024/QH15)"*, các lần sau chỉ "Luật số 42/2024/QH15" — kể cả khi điều khoản viện dẫn là điều đã bị sửa (điểm đ k1 Đ39, điểm b k2 Đ40).
+- Điều khoản của thông tư đã bị sửa nội dung thì phải ghi kèm văn bản sửa: "khoản 4 Điều 17 TT 23/2024/TT-BCT (được sửa đổi, bổ sung tại TT 38/2025/TT-BCT ngày 19/6/2025)" — bản gốc ghi "Công an cấp huyện", TT 38/2025 đổi "Công an xã"; dẫn bản gốc mà viết "Công an cấp xã" là trích dẫn chưa chính xác.
+- Văn bản dẫn lần đầu ghi đủ *số – ngày – cơ quan ban hành*, các lần sau ghi ngắn; không ghi ngày ở lần thứ hai (mục 6 dự thảo cũ dẫn TT 23/2024 kèm ngày lần 2). Mỗi nghĩa vụ của doanh nghiệp trong mục "Yêu cầu tổ chức, doanh nghiệp" dẫn đúng điều/khoản/điểm (bán lại/tiêu hủy → điểm b k2 Đ38; PANM/hộ chiếu → Điều 15 TT 23; đánh giá rủi ro, KH ứng cứu → Điều 14, 16 TT 23).
+
+**K7 — Quy trình khi Lãnh đạo bôi đỏ một phần:** sửa TOÀN VĂN theo cùng tiêu chí (Lãnh đạo mới đọc một nửa), không chỉ sửa đoạn đỏ; xóa màu đỏ cả ở `<w:rPr>` của paragraph mark (`<w:pPr><w:rPr><w:color w:val="EE0000"/>`) chứ không chỉ ở run; báo cáo lại theo hai danh sách: (a) đoạn Lãnh đạo bôi đỏ đã sửa thế nào, (b) đoạn tự phát hiện sửa thêm ở nửa sau — để Lãnh đạo chỉ cần đọc tiếp phần chưa đọc.
+
+**Cách QA nhanh cho Nhóm K:** `qa_all.py --forbid "chỉ cấp" "chặt chẽ, cấp" "Thẩm định chặt chẽ" "Hướng dẫn chi tiết" "nắm chắc" "các vụ mất" "chi tiết, đầy đủ"`; sau đó đọc riêng một lượt mọi câu bắt đầu bằng tên cơ quan khác (Công an tỉnh, Bộ CHQS tỉnh, Sở X) và tự hỏi *"điều nào cho cơ quan đó quyền làm việc này?"*. Bản đã sửa làm khung: `sd-vlncn-sct-vn/vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-sua-6.9.2026.docx` (mẫu 23 của plugin đó).
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]
@@ -188,6 +214,7 @@ Rồi đọc lại toàn văn một lượt riêng chỉ để soi register, kh�
 ☐ Dòng ngày: điền sẵn tháng/năm, để trống ngày; Lưu: VT, CN (Tên) có khoảng trắng     [G]
 ☐ Kính gửi ↔ Nơi nhận "Như trên" nhất quán; tiêu ngữ en dash; kết "./."               [G]
 ☐ Bảng nội dung KHÔNG còn `<w:trHeight>`; không trang nào kết bằng đề mục rồi bỏ trắng    [F]
+☐ Văn bản cấp UBND tỉnh: mỗi việc giao cơ quan khác có điều khoản thẩm quyền của chính cơ quan đó; không "chỉ cấp … sau khi"; không ngoặc đơn giải thích [K]
 ☐ Đã ghi rõ phần nào "cần xác minh trước khi ký"
 ```
 Một ô không tick được → BÁO LẠI người dùng, không tự bịa/suy đoán.
@@ -212,5 +239,9 @@ Script dò: từ suy đoán [B/C], số văn bản đáng nghi [A], VB hết hi�
 - *"Điền luôn ngày hôm nay vào dòng ngày ban hành cho tiện"* → chỉ điền tháng/năm, để trống ngày. [G]
 - *"Bảng này bê từ file doanh nghiệp sang, để nguyên cho nhanh"* → DỪNG: gỡ sạch `<w:trHeight>` trong bảng nội dung trước đã, nếu không bảng sẽ nhảy trang và bỏ trắng nửa trang. [F-trHeight]
 - *"Kéo tay cho dòng bảng cao lên cho dễ nhìn"* → KHÔNG: chiều cao dòng luôn để tự co theo nội dung; muốn chừa chỗ ký/điền tay thì thêm paragraph trống trong ô. [F-trHeight]
+
+- *"Giao Công an/Bộ CHQS/Sở X làm việc này cho chặt"* → mở văn bản gốc của ngành đó: điều nào cho họ quyền làm? Không có → đổi thành "phối hợp". [K2]
+- *"Thêm chữ chặt chẽ/chi tiết cho mạnh"* → bỏ tính từ, thay bằng dẫn điều khoản. [K3]
+- *"Mở ngoặc giải thích cho Lãnh đạo hiểu vì sao"* → phần đó thuộc phiếu trình/Công văn của Sở, không thuộc thân văn bản UBND tỉnh. [K4]
 
 Đây là lúc kỷ luật này có giá trị nhất — bắt sai lầm ngay khi đang hình thành, không phải sửa sau khi đã sai.

@@ -14,7 +14,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
 - **Soạn/chỉnh KHUNG PHƯƠNG ÁN NỔ MÌN cho doanh nghiệp** (lộ thiên gần khu dân cư hoặc hầm lò) → **mẫu 22** (có checklist Phụ lục VII) + khung docx `vi-du-thuc-te/PANM-Manh-Chien-...-23.8.2026.docx` (lộ thiên, diện điểm d k2 Đ38, chữ đỏ = chỗ chờ đo đạc) và ⭐ `PANM-Thinh-Dat-...-ham-lo-ban-chuan-3.9.2026.docx` (hầm lò, tự phê duyệt, đã rà đủ Phụ lục VII — thay khung Kim Thành 21/8).
 - **Soạn/đối chiếu GIẤY ĐỀ NGHỊ cấp/cấp lại/cấp điều chỉnh GP sử dụng VLNCN** → **mẫu 24 = Mẫu số 04 Phụ lục III TT 23/2024** (KHÔNG phải Mẫu 03; Mẫu 04 không bị TT 26/2026 sửa) + khung `vi-du-thuc-te/Giay-de-nghi-Mau-04-...-Thinh-Dat-ban-chuan-3.9.2026.docx`; anti-error 25.
-- **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** (giao nhiệm vụ SCT, Công an tỉnh, Bộ CHQS tỉnh, các sở, UBND xã; yêu cầu DN) → **mẫu 23** + 2 khung docx `vi-du-thuc-te/*-ban-23.8.2026.docx`.
+- **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** (giao nhiệm vụ SCT, Công an tỉnh, Bộ CHQS tỉnh, các sở, UBND xã; yêu cầu DN) → **mẫu 23** + khung CV Sở `vi-du-thuc-te/CV-SCT-...-ban-23.8.2026.docx` + ⭐ khung dự thảo UBND tỉnh **`vi-du-thuc-te/Du-thao-CV-UBND-tinh-...-ban-sua-6.9.2026.docx`** (bản sửa theo ý kiến Lãnh đạo Sở; bản 23.8 chỉ còn lịch sử); anti-error 31 + Nhóm K `vbhc-vn`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế. Riêng **công văn triển khai quy định mới của Luật 118/2025 (gửi kho, dịch vụ nổ mìn, hồ sơ PCCC, TCTN)** → **mẫu 21** + `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx`.
 - **Hồ sơ đã trình bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI**, hoặc chuẩn bị trình mà cần chặn rủi ro bị trả (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước xử lý sau khi bị trả) → reference `09` + mẫu 20. **Chạy bảng tự kiểm mẫu 20 trước MỌI lần trình UBND tỉnh.**
 - **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
@@ -120,7 +120,7 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY — ⭐ BẮT BUỘC đọc `references/11-anti-error.md` trước khi thẩm định hồ sơ / soạn bất kỳ văn bản nào
 
-Toàn văn 32 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
+Toàn văn 33 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
 
 - **1** — Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026
 - **2** — Không nhầm 2 chế độ PANM
@@ -154,6 +154,7 @@ Toàn văn 32 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **28** — SỐ LIỆU VLNCN NĂM khi thuyết minh nhiều phiên bản: GATE 3 nguồn (QĐ phê duyệt, mục 8.3, bảng mới) + kiểm tra nội bộ bảng mới; chốt mới nhất + nhỏ hơn, bôi đỏ, DN sửa thiết kế cho khớp
 - **29** — SỨC CHỨA KHO theo văn bản nghiệm thu PCCC, không theo báo cáo hoàn thành DN; nhu cầu tháng > sức chứa → nhập nhiều đợt; không tự ghi "cấp II"
 - **30** — CHỦNG LOẠI VLNCN + PHƯƠNG PHÁP NỔ theo Bảng thông số thiết kế (AĐ1, kíp điện vi sai; lò dốc >30° cấm dây cháy chậm), không chép PANM/GP cũ; Qđ max đối chứng GP cũ
+- **31** — DỰ THẢO VĂN BẢN CHỈ ĐẠO UBND TỈNH giao việc cho Công an, Bộ CHQS, sở khác: không cài điều kiện vào thủ tục ngành khác ("chỉ cấp GP vận chuyển sau khi…"), Bộ CHQS tỉnh không cấp Mệnh lệnh vận chuyển (Đ6 TT 98/2024), Công an chỉ thẩm định 2 nội dung PCCC (Đ9 NĐ 105/2025), bỏ tính từ đánh giá, không ngoặc đơn giải thích, thuật ngữ theo luật (chốt 06/9/2026)
 
 ## VII. CẤU TRÚC PLUGIN
 

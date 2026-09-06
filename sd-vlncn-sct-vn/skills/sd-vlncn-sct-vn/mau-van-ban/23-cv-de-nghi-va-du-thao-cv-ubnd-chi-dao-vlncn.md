@@ -1,12 +1,14 @@
 # Mẫu 23 — BỘ ĐÔI: Công văn Sở đề nghị + Dự thảo Công văn UBND tỉnh chỉ đạo tăng cường quản lý VLNCN
 
 > Khung docx (bản chốt với Bạn 23/8/2026, đã QA):
-> - `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-23.8.2026.docx` — Công văn Sở, 1 trang, /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân, Lưu: VT, CN(Khôi).
+> - ⭐ `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-6.9.2026.docx` — **KHUNG HIỆN HÀNH** Công văn Sở (bản viết lại 06/9/2026, 1 trang, QA PASS), /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân, Lưu: VT, CN(Khôi). Bản 23.8.2026 chỉ còn lịch sử (có chỗ trống "góp phần đóng góp cho ....", "Để ...").
 > - ⭐ **`vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-sua-6.9.2026.docx` — KHUNG HIỆN HÀNH** (bản sửa lần 2 theo ý kiến Lãnh đạo Sở 06/9/2026, 4 trang, đã QA PASS): /UBND-KT, KT. CHỦ TỊCH PCT Nguyễn Thành Sinh, Lưu: VT, KT. Bản 23.8.2026 (`...-ban-23.8.2026.docx`) chỉ còn giá trị lịch sử — chứa 5 đoạn bị bôi đỏ + mục 3 sai thẩm quyền, KHÔNG dùng làm khung.
 
 ## Công văn Sở (văn phong tờ trình ban hành chỉ thị nhưng KHÔNG chia mục 1/2/3)
 
-3 đoạn văn xuôi: (1) bối cảnh + sự cần thiết — mở bằng THỰC TIỄN (hoạt động VLNCN thường xuyên, nổ mìn gần dân cư, nguy cơ mất an toàn), pháp lý đi sau và bám mốc còn "nóng" (hiệu lực 01/7/2026; ủy quyền 20/8/2026), chốt bằng khoảng trống "chưa có văn bản chỉ đạo chung theo quy định mới"; (2) kính trình ban hành, dự thảo kèm theo, giao nhiệm vụ cho các cơ quan, đơn vị + yêu cầu doanh nghiệp; (3) kính trình xem xét, quyết định.
+Bản chốt 06/9/2026 — 4 đoạn, vừa khít 1 trang: (1) thực tiễn (hoạt động VLNCN thường xuyên, phục vụ khai thác khoáng sản, thi công công trình; nổ mìn gần dân cư, giao thông, công trình cần bảo vệ) → pháp lý gọn (Luật 42/2024 sđ Luật 118/2025 + "các văn bản hướng dẫn thi hành", hiệu lực 01/7/2026; ủy quyền QĐ 2867 từ 20/8/2026) → khoảng trống "liên quan nhiều cơ quan nhưng chưa có văn bản chỉ đạo chung của UBND tỉnh theo quy định mới"; (2) "Để triển khai thống nhất…, phân định rõ trách nhiệm…, bảo đảm an ninh, an toàn…, Sở kính trình UBND tỉnh xem xét, ban hành văn bản chỉ đạo… (dự thảo gửi kèm theo)"; (3) dự thảo giao nhiệm vụ các sở, ngành, UBND xã, phường theo chức năng, địa bàn + nhiệm vụ đã được ủy quyền; yêu cầu DN dịch vụ nổ mìn và DN sử dụng, bảo quản, vận chuyển; (4) "kính trình UBND tỉnh xem xét, quyết định./.". Kỹ thuật khung: bảng ký có `cantSplit` + `trHeight 1700` đẩy khối ký sang trang 2 khi thân dài — đã gỡ trHeight, co 5 dòng trống khối ký xuống 10pt, spacing before thân 100→60, sửa run "(Khôi)." bị subscript.
+
+3 đoạn văn xuôi (bản 23.8, để so sánh): (1) bối cảnh + sự cần thiết — mở bằng THỰC TIỄN (hoạt động VLNCN thường xuyên, nổ mìn gần dân cư, nguy cơ mất an toàn), pháp lý đi sau và bám mốc còn "nóng" (hiệu lực 01/7/2026; ủy quyền 20/8/2026), chốt bằng khoảng trống "chưa có văn bản chỉ đạo chung theo quy định mới"; (2) kính trình ban hành, dự thảo kèm theo, giao nhiệm vụ cho các cơ quan, đơn vị + yêu cầu doanh nghiệp; (3) kính trình xem xét, quyết định.
 
 Bài học biên tập đã chốt với Bạn (áp dụng cho mọi công văn trình cùng loại):
 - KHÔNG mở đầu bằng "Từ ngày 01/01/2025..." — mốc cũ làm văn bản lạc hậu; thực tiễn trước, pháp lý sau.

@@ -1,5 +1,7 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.6.4] - 06/9/2026 — Công văn Sở đề nghị UBND tỉnh ban hành chỉ đạo VLNCN viết lại theo phong cách hành chính (khung `CV-SCT-...-ban-6.9.2026.docx`, 1 trang); mẫu 23 mô tả 4 đoạn + lưu ý kỹ thuật khối ký.
+
 ## [2026.9.6.3] - 06/9/2026 — câu chữ chốt mục 1đ: "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn trên địa bàn tỉnh, chịu trách nhiệm thẩm định, phê duyệt…"; khung docx cập nhật; mẫu 23, ref 11.
 
 ## [2026.9.6.2] - 06/9/2026 — bản sửa lần 2 theo ý kiến Lãnh đạo Sở: Sở dẫn điều khoản, Công an/Bộ CHQS viết tổng quát

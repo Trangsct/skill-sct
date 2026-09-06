@@ -1,0 +1,13 @@
+ngay,chi_so,gia_tri,don_vi,boi_canh,nguon,ghi_chu
+2026-01-19,glucose,8.3,mmol/L,khong ro doi hay sau an,BVDK so 1 Lao Cai,Phieu XN hoa sinh
+2026-01-19,cholesterol_tp,6.2,mmol/L,,BVDK so 1 Lao Cai,
+2026-01-19,triglycerid,4.92,mmol/L,,BVDK so 1 Lao Cai,
+2026-01-19,ure,5.3,mmol/L,,BVDK so 1 Lao Cai,Binh thuong
+2026-01-19,creatinin,94,umol/L,,BVDK so 1 Lao Cai,Binh thuong
+2026-01-19,can_nang,86,kg,,Nguoi dung,
+2026-05-16,glucose,7.4,mmol/L,doi buoi sang,May ca nhan,
+2026-08-31,glucose,7.5,mmol/L,sau an sang 2h,May ca nhan,Trong nguong binh thuong
+2026-08-31,can_nang,85,kg,,Nguoi dung,BMI 29.4
+2026-09-05,buoc_chan,13974,buoc,ca ngay den 20:26,Samsung Health,174% muc tieu 8000
+2026-09-06,buoc_chan,3510,buoc,den 07:16 gom 30 phut di bo sang,Samsung Health,
+2026-09-06,glucose,8.5,mmol/L,sau an 30 phut,May ca nhan,Moc 30 phut khong co nguong chan doan

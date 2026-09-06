@@ -1,6 +1,6 @@
 # Kho bài mẫu gốc — MỤC LỤC
 
-Thư mục `kho-bai-mau/` lưu 14 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
+Thư mục `kho-bai-mau/` lưu 16 văn bản gốc do Sở cung cấp, là cơ sở rút ra phong cách
 của skill này. Tên file đã chuẩn hoá ASCII (không dấu) để tương thích khi upload;
 tên gốc ghi ở cột "Tên gốc". Khi soạn bài mới, **ưu tiên mở đúng file mẫu gần nhất
 với dịp đang soạn** (Chế độ B — sửa mẫu thật, trước khi dựng mới). Bản GĐ đã duyệt
@@ -15,6 +15,8 @@ là chuẩn cao nhất để đối chiếu.
 | `bpb-giao-ke-hoach-2025-12-22.docx` | BPB tại hội nghị giao KH 22.12.2025 | HN giao kế hoạch — nhiệm vụ CN, TM, XNK 2026; giàu số liệu; có đoạn "tín hiệu-cơ hội" + chúc Tết |
 | `bpb-rut-gon-trien-khai-nq-hdnd.docx` | BPB rút gọn HN triển khai Nghị quyết HĐND tỉnh | Mẫu cho **biến thể rút gọn** |
 | `bpb-hop-kcn-2026-08-05.docx` | Bài phát biểu của GĐ Sở Công Thương tại cuộc họp về tình hình triển khai các KCN (05/8/2026) | ⭐ **Bản chuẩn Bạn hoàn thiện** — mẫu cho dạng PHÁT BIỂU TẠI CUỘC HỌP UBND TỈNH (không phải hội nghị lớn): kính thưa gọn 2 cấp (Chủ tịch chủ trì + PCT), mở đầu nêu căn cứ Giấy mời + "cơ bản thống nhất với báo cáo của..." + báo trước 04 nhóm nội dung; thân bài đánh số 1-2-3-4, trong mục dùng "Thứ nhất/Thứ hai" và "Một là/Hai là" cho kiến nghị; số liệu dày, chốt bằng thông điệp + cam kết khẩu hiệu. Số liệu khớp reference `25` plugin kccn-sct-vn |
+| `bpb-giao-ban-thang-9-2026-truong-phong-qlcn.docx` | Bài phát biểu tại cuộc họp giao ban tháng 9 năm 2026 của Sở Công Thương | ⭐ **Bản Bạn sửa tay 06/9/2026** — mẫu cho dạng TRƯỞNG PHÒNG báo cáo tại giao ban Sở: kính thưa 3 dòng (GĐ chủ trì, các PGĐ, toàn thể); kết quả lồng ghép lũy kế 9 tháng + tháng gần nhất TRONG TỪNG LĨNH VỰC ("Thứ …, về …:"); nhiệm vụ "Một là/Hai là/Ba là"; khó khăn - đề xuất "Thứ nhất/Thứ hai" đúng cấp; không nhắc vận chuyển HHNH, không đưa NQ 66.25 vào bài giao ban; nhiệm vụ PTP khác đã làm xong chuyển sang phần kết quả |
+| `bpb-tong-hop-9-thang-2026-truong-phong-qlcn.docx` | Bài phát biểu về kết quả công tác 9 tháng đầu năm 2026 | Biến thể tổng hợp 9 tháng thuần (kết quả → khó khăn → nhiệm vụ cuối năm + đề xuất), cùng ngày 06/9/2026 |
 | `bpb-tham-luan-phat-trien-cong-nghiep-sua.docx` | BÀI PHÁT BIỂU THAM LUẬN … PHÁT TRIỂN CÔNG NGHIỆP (Sửa) | **Bản đang biên tập** — nhiều ghi chú trong ngoặc; học cách xử lý nháp → duyệt |
 
 ## B. PHỎNG VẤN / BÀI VIẾT ký tên Giám đốc Sở (cùng giọng văn)

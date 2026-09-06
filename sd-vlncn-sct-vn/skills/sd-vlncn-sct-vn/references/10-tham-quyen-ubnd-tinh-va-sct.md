@@ -124,6 +124,7 @@ Bản ký: `van-ban-goc/2026.08.19-5085.SCT.VP-Trien-khai-nhiem-vu-uy-quyen-VLNC
 
 TT 09/2026/TT-BQP ngày 22/01/2026, **hiệu lực 22/01/2026**; hồ sơ tiếp nhận trước ngày hiệu lực tiếp tục theo TT 98/2024.
 → Khi DN quốc phòng hoạt động trên địa bàn tỉnh: SCT **không cấp phép**, nhưng vẫn **tiếp nhận thông báo sử dụng VLNCN trước ≥10 ngày** (điểm đ k2 Đ38) và vẫn theo dõi, giám sát, kiểm tra theo Đ19 TT 23/2024.
+→ ⚠ **Bộ Chỉ huy Quân sự tỉnh KHÔNG có thẩm quyền cấp Mệnh lệnh vận chuyển, GP sử dụng VLNCN** (Đ6, Đ9 TT 98/2024: Tổng Tham mưu trưởng / Tư lệnh quân khu, quân đoàn, quân chủng… / Bộ Tham mưu Tổng cục CNQP). Trong văn bản chỉ đạo của UBND tỉnh chỉ giao Bộ CHQS tỉnh: theo dõi, nắm tình hình đơn vị thuộc BQP trên địa bàn; phối hợp kiểm tra, kiểm soát vận chuyển theo Mệnh lệnh; phối hợp bảo vệ phương tiện khi được thông báo (điểm e k2 Đ41); đôn đốc thông báo ≥10 ngày; báo cáo, đề nghị cơ quan có thẩm quyền của BQP xử lý — KHÔNG giao "cấp Mệnh lệnh" hay "cung cấp thông tin Mệnh lệnh đã cấp" (lỗi bản dự thảo 23.8.2026, sửa 06/9/2026 — mẫu 23).
 
 ### D3. Các Cục thuộc Bộ Công Thương
 - **Cục Kỹ thuật an toàn và Môi trường công nghiệp:** GCN đủ điều kiện **sản xuất VLNCN**; GP **sử dụng** VLNCN cho tổ chức nghiên cứu/thử nghiệm VLNCN, tổ chức thăm dò–khai thác **dầu khí**, tổ chức có GP hoạt động khoáng sản **nhóm I** do Bộ NN&MT cấp (kể cả GP nhóm I do Bộ TN&MT cấp còn hiệu lực); **GP dịch vụ nổ mìn cả 3 hình thức**.

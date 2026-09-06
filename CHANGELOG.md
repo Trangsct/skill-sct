@@ -1,3 +1,11 @@
+## 06/9/2026 — vbhc-vn 2.12.4 → 2.13.0 (Nhóm K) + sd-vlncn-sct-vn 2026.9.3.2 → 2026.9.6.1: dự thảo CV UBND tỉnh chỉ đạo VLNCN sửa theo ý kiến Lãnh đạo Sở
+
+Lãnh đạo Sở đọc nửa đầu dự thảo Công văn UBND tỉnh tăng cường quản lý VLNCN (bản 03/9/2026) và bôi đỏ 5 đoạn: *dùng từ vượt khỏi phong cách hành chính* + *trích dẫn điều khoản chưa chính xác*. Đối chiếu VBHN 78/VBHN-VPQH, TT 23/2024 (sđ TT 38/2025), TT 98/2024/TT-BQP, NĐ 105/2025, NQ 66.18/2026 → sửa toàn văn (kể cả nửa sau chưa đọc: mục 3 Bộ CHQS tỉnh sai thẩm quyền hoàn toàn).
+
+- **vbhc-vn 2.13.0:** `reference/phong-tranh-sai-lam.md` **Nhóm K MỚI (K1–K7)** — văn bản chỉ đạo của UBND tỉnh do Sở dự thảo, giao việc cho cơ quan khác: K1 không cài điều kiện vào thủ tục ngành khác ("chỉ cấp … sau khi"); K2 mỗi việc giao cơ quan X phải có điều khoản thẩm quyền của chính X trong văn bản gốc ngành đó; K3 bỏ tính từ đánh giá sau động từ thủ tục; K4 không ngoặc đơn giải thích; K5 thuật ngữ theo luật; K6 viện dẫn (gọi tắt Luật một lần, điều khoản bị sửa ghi kèm văn bản sửa, không lặp ngày); K7 quy trình khi Lãnh đạo bôi đỏ một phần. SKILL.md 11 nhóm A–K; checklist + tự bắt lỗi; lệnh QA `--forbid`.
+- **sd-vlncn-sct-vn 2026.9.6.1:** khung mới `vi-du-thuc-te/Du-thao-CV-UBND-tinh-...-ban-sua-6.9.2026.docx` (QA PASS); mẫu 23 viết lại + 7 bài học; ref 10 (Bộ CHQS tỉnh không cấp Mệnh lệnh — Đ6 TT 98/2024); ref 11 anti-error 31; SKILL.md.
+- **Hạ tầng:** `check_facts.py` thêm rule `ubnd-chi-dao-khong-cai-dieu-kien-cap-phep` (FAIL — cụm "chỉ cấp Giấy phép/Mệnh lệnh vận chuyển … sau khi"); sync_marketplace --bump.
+
 ## 05/9/2026 — NQ 66.25/2026/NQ-CP (chuyển QLNN địa chất, khoáng sản, KCN về Công Thương từ 15/9/2026) + QĐ 21/2026/QĐ-TTg + Bài toán lớn số 2: nâng cấp 8 plugin
 
 **Nguồn:** Nghị quyết số 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ (PTT Nguyễn Văn Thắng ký; bản scan ký số VPCP, soi ảnh từng trang vì lớp text không đọc được; hiệu lực 15/9/2026 – 28/02/2027 theo NQ 206/2025/QH15); QĐ 21/2026/QĐ-TTg ngày 30/4/2026 (đối chiếu 5 nguồn công khai; thay QĐ 1131); chuỗi TB 78/TB-UBND, CV 7698, CV 8652/UBND-NC về Bài toán lớn số 2.

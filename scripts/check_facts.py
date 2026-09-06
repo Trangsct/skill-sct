@@ -37,11 +37,19 @@ ALLOW_LINE = re.compile(
     r"không sửa lại|giữ nguyên lịch sử|không dùng|KHÔNG ghi|không ghi|cấm|CẤM|sai:|SAI|"
     r"→ đúng|-> đúng|thay vì|đã sửa|đã thay|từng ghi|trước 10/7/2026|đến 14/7/2026|"
     r"quy ước cố định|check_facts|ghi nhầm|trích luật|nguyên văn\)|theo luật|nguồn ghi|cách gọi|NQ 34 \(12/2025\)|"
-    r"không \"giai đoạn|vụ (QĐ )?5116)",
+    r"không \"giai đoạn|vụ (QĐ )?5116|bị bác|bôi đỏ|KHÔNG viết|Không cài|không cài)",
     re.I,
 )
 
 RULES = [
+    {
+        "id": "ubnd-chi-dao-khong-cai-dieu-kien-cap-phep",
+        # Văn bản chỉ đạo của UBND tỉnh không được đặt điều kiện tiên quyết vào thủ tục cấp phép của ngành khác (Lãnh đạo Sở bác 06/9/2026 — Nhóm K vbhc-vn)
+        "pattern": r"chỉ cấp (Giấy phép|GP|Mệnh lệnh) vận chuyển[^\n]{0,120}sau khi",
+        "why": "UBND tỉnh không cài điều kiện vào thủ tục cấp GP/Mệnh lệnh vận chuyển của Công an/Bộ Quốc phòng (Đ41 Luật 42/2024 chốt cứng hồ sơ + thời hạn) — viết cơ chế phối hợp, đối chiếu thông tin (vbhc-vn Nhóm K1; sd-vlncn anti-error 31).",
+        "since": "2026-09-06",
+        "level": "FAIL",
+    },
     {
         "id": "qd-1131-thay-the-qd-21-2026",
         # QĐ 1131/QĐ-TTg (danh mục công nghệ chiến lược) bị thay thế bởi QĐ 21/2026/QĐ-TTg từ 01/7/2026 — dòng dẫn 1131 mà không nhắc 21/2026

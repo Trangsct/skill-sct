@@ -1,3 +1,5 @@
+## 06/9/2026 (lần 3) — sd-vlncn-sct-vn 2026.9.6.3: câu chữ chốt mục 1đ "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn…, chịu trách nhiệm thẩm định, phê duyệt…"; vbhc-vn K8 đồng bộ nhịp câu giao vai trò (không nâng version).
+
 ## 06/9/2026 (lần 2) — vbhc-vn 2.13.1 (K8) + sd-vlncn-sct-vn 2026.9.6.2: Lãnh đạo chốt Sở dẫn điều khoản, Công an/Bộ CHQS viết tổng quát
 
 Bản 2.13.0/2026.9.6.1 sửa quá tay: dẫn đủ NĐ 105/2025, TT 75/2024, TT 98/2024 cho Công an, Quân sự → Lãnh đạo yêu cầu viết ngắn gọn, tổng quát theo phong cách UBND tỉnh; bỏ vế "kiểm tra hồ sơ, điều kiện thực tế" (kiểm tra hồ sơ = thẩm định); thêm câu giao Sở là cơ quan quản lý về phương án nổ mìn. Khung docx bản lần 2 (4 trang) thay khung 6.9.2026; mẫu 23, ref 11 (31h), Nhóm K8 vbhc-vn.

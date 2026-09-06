@@ -1,5 +1,7 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.6.3] - 06/9/2026 — câu chữ chốt mục 1đ: "Thực hiện nhiệm vụ của cơ quan quản lý về phương án nổ mìn trên địa bàn tỉnh, chịu trách nhiệm thẩm định, phê duyệt…"; khung docx cập nhật; mẫu 23, ref 11.
+
 ## [2026.9.6.2] - 06/9/2026 — bản sửa lần 2 theo ý kiến Lãnh đạo Sở: Sở dẫn điều khoản, Công an/Bộ CHQS viết tổng quát
 - Khung `vi-du-thuc-te/...-ban-sua-6.9.2026.docx` thay bằng bản lần 2 (4 trang, QA PASS): mục 1đ bỏ "kiểm tra hồ sơ, điều kiện thực tế theo k6 Đ39" (kiểm tra hồ sơ chính là thẩm định) và thay vế điều kiện phê duyệt PANM bằng câu giao **Sở Công Thương là cơ quan quản lý về phương án nổ mìn trên địa bàn tỉnh**; mục 2 Công an tỉnh rút 5 → 3 điểm, mục 3 Bộ CHQS tỉnh rút 4 → 2 điểm, viết tổng quát "theo thẩm quyền/theo quy định", không dẫn TT 75/2024, NĐ 105/2025, TT 98/2024.
 - Mẫu 23 (mục 1đ, 2, 3, bài học 8), ref 11 anti-error 31 (h), SKILL.md routing. plugin.json 2026.9.6.1 → **2026.9.6.2**.

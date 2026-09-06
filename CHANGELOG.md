@@ -1,3 +1,7 @@
+## 06/9/2026 (lần 2) — vbhc-vn 2.13.1 (K8) + sd-vlncn-sct-vn 2026.9.6.2: Lãnh đạo chốt Sở dẫn điều khoản, Công an/Bộ CHQS viết tổng quát
+
+Bản 2.13.0/2026.9.6.1 sửa quá tay: dẫn đủ NĐ 105/2025, TT 75/2024, TT 98/2024 cho Công an, Quân sự → Lãnh đạo yêu cầu viết ngắn gọn, tổng quát theo phong cách UBND tỉnh; bỏ vế "kiểm tra hồ sơ, điều kiện thực tế" (kiểm tra hồ sơ = thẩm định); thêm câu giao Sở là cơ quan quản lý về phương án nổ mìn. Khung docx bản lần 2 (4 trang) thay khung 6.9.2026; mẫu 23, ref 11 (31h), Nhóm K8 vbhc-vn.
+
 ## 06/9/2026 — vbhc-vn 2.12.4 → 2.13.0 (Nhóm K) + sd-vlncn-sct-vn 2026.9.3.2 → 2026.9.6.1: dự thảo CV UBND tỉnh chỉ đạo VLNCN sửa theo ý kiến Lãnh đạo Sở
 
 Lãnh đạo Sở đọc nửa đầu dự thảo Công văn UBND tỉnh tăng cường quản lý VLNCN (bản 03/9/2026) và bôi đỏ 5 đoạn: *dùng từ vượt khỏi phong cách hành chính* + *trích dẫn điều khoản chưa chính xác*. Đối chiếu VBHN 78/VBHN-VPQH, TT 23/2024 (sđ TT 38/2025), TT 98/2024/TT-BQP, NĐ 105/2025, NQ 66.18/2026 → sửa toàn văn (kể cả nửa sau chưa đọc: mục 3 Bộ CHQS tỉnh sai thẩm quyền hoàn toàn).

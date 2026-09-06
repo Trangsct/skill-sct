@@ -1,5 +1,8 @@
 # CHANGELOG — plugin vbhc-vn
 
+## [2.13.1] - 06/9/2026 — Nhóm K8: mức chi tiết theo chủ thể
+- reference/phong-tranh-sai-lam.md: K8 — phần Sở mình dẫn điều khoản, phần Công an/Bộ CHQS/sở khác viết tổng quát "theo thẩm quyền" (Bạn chốt lần 2 sau khi bản 2.13.0 dẫn quá chi tiết cho ngành dọc khác); "kiểm tra hồ sơ" không tách khỏi "thẩm định"; giao vai trò bằng câu xác lập. SKILL.md đồng bộ.
+
 ## [2.13.0] - 06/9/2026 — Nhóm K: văn bản chỉ đạo của UBND tỉnh do Sở dự thảo — giao việc cho cơ quan khác
 
 ### Thêm

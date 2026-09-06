@@ -1,3 +1,10 @@
+## 2.15.0 — 06/9/2026 — Báo cáo định kỳ Phòng QLCN, phụ biểu giao ban, script build_bao_cao_phong.py
+
+- **examples/sct/** thêm 3 mẫu chuẩn Bạn duyệt 06/9/2026: `bao-cao-thang-phong-qlcn.docx` (Báo cáo tháng 9/2026), `bao-cao-9-thang-phong-qlcn.docx` (Báo cáo 9 tháng đầu năm 2026), `phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx` (Phụ biểu tháng 9/2026 phần Phòng QLCN).
+- **scripts/build_bao_cao_phong.py** (MỚI): dựng báo cáo định kỳ trên mẫu thật từ file nội dung có thẻ [H]/[I]/[P]; tự chuẩn hóa header (13pt, đậm, 2 Line VML, Quốc hiệu 1 dòng), thân giãn dòng đơn + widowControl (KHÔNG Exactly — vụ trống nửa trang trong Word 06/9/2026), khối ký cantSplit, sửa widow bằng `--widow`, đổi tháng/năm dòng ngày bằng `--month/--year`.
+- **reference/bao-cao-dinh-ky-phong-qlcn.md** (MỚI): kết cấu báo cáo tháng/9 tháng, cách đếm số liệu từ sổ văn bản đi Data360X và bảng GP VLNCN, quy tắc phụ biểu (X căn giữa, ghi chú dẫn số văn bản, gỡ highlight, tblHeader), quy ước bài phát biểu Trưởng phòng (lồng ghép 9 tháng + tháng trong từng lĩnh vực; không nhắc HHNH; không đưa NQ 66.25 vào bài giao ban).
+- thu-vien-mau-that.md thêm 3 dòng; SKILL.md thêm liên kết reference/script; 26 mẫu thật.
+
 # CHANGELOG — plugin vbhc-vn
 
 ## [2.12.4] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn

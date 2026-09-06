@@ -24,6 +24,7 @@ SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc
 - `reference/cong-cu-ky-thuat.md` — công thức kỹ thuật ĐÃ KIỂM CHỨNG (giải nén RAR/RAR5 tên tiếng Việt, OCR PDF scan/chữ ký số, sửa docx đa run, QA render) — đọc TRƯỚC khi xử lý file nén/PDF scan/sửa XML, không mò lại từ đầu.
 - `reference/doc-pdf-metadata.md` — chi tiết quy trình đọc PDF công văn đến (cờ kích hoạt, OCR, 11 trường).
 - `reference/cong-thuc-thuc-chien.md` — căn bảng/biểu khổ ngang, đồng bộ chéo nhiều file.
+- `reference/bao-cao-dinh-ky-phong-qlcn.md` — **quy ước 06/9/2026 cho BÁO CÁO ĐỊNH KỲ CỦA PHÒNG (tháng/9 tháng), PHỤ BIỂU đánh giá nhiệm vụ giao ban và BÀI PHÁT BIỂU Trưởng phòng**: kết cấu, nguồn số liệu (đếm sổ văn bản đi, bảng GP VLNCN), thể thức (giãn dòng đơn, không Exactly; header 13pt), quy tắc phụ biểu (X căn giữa, ghi chú dẫn số văn bản, gỡ highlight). Script: `scripts/build_bao_cao_phong.py` (dựng từ file nội dung có thẻ [H]/[I]/[P] trên mẫu thật + tự chuẩn hóa thể thức).
 - `reference/the-thuc-code.md` — **mã chuẩn khi DỰNG MỚI TỪ ĐẦU**: hàm định dạng đoạn 1cm duy nhất + XML đường Line (VML). Đọc khi không có mẫu và phải sinh .docx bằng code.
 - `reference/nd-79-2025-tom-tat.md` (+ file gốc `79_2025_ND-CP.docx`) — kiểm tra, rà soát, xử lý VBQPPL hết hiệu lực (gắn Nhóm D).
 - `reference/nd30-phu-luc-1-the-thuc.md` — **VĂN BẢN GỐC Phụ lục I NĐ 30/2020**: thể thức, kỹ thuật trình bày (cỡ chữ, kiểu chữ, vị trí ô 1-14, khoảng cách từng thành phần; sơ đồ bố trí; bảng mẫu chữ Mục V; bản sao văn bản). Đọc khi: (a) băn khoăn quy cách một thành phần thể thức mà SKILL.md/the-thuc-code.md chưa nêu; (b) người dùng hỏi căn cứ pháp lý của một quy tắc trình bày; (c) đối chiếu khi render soi ảnh phát hiện nghi vấn thể thức.
@@ -241,7 +242,7 @@ python3 scripts/<ten-script>.py && python3 scripts/qa_all.py output/<file>.docx
 Chi tiết cấu trúc paragraph/table của từng template (chỉ số P/Table để điền đúng) — đọc khi soạn bằng Chế độ A: **`reference/templates-chi-tiet.md`**.
 
 ## Thư viện mẫu thật đã ban hành (`examples/`)
-23 mẫu thật (`examples/sct/` 17 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
+26 mẫu thật (`examples/sct/` 20 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
 Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Chế độ B); KHÔNG dùng `TemplateDoc` cho file `examples/` (đã điền sẵn, không theo chỉ số paragraph); KHÔNG bê nguyên nội dung vụ việc cũ sang văn bản mới — chỉ kế thừa khung, thể thức, văn phong.
 
 ## Công thức & checklist thực chiến

@@ -1,3 +1,5 @@
+## 06/9/2026 (lần 8) — vbhc-vn 2.15.0 + bpb-sct-vn 1.4.0: mẫu báo cáo định kỳ Phòng QLCN (tháng, 9 tháng), phụ biểu đánh giá nhiệm vụ giao ban, bài phát biểu Trưởng phòng tại giao ban; script `build_bao_cao_phong.py`; reference `bao-cao-dinh-ky-phong-qlcn.md` (cách đếm số liệu từ sổ văn bản đi, thể thức giãn dòng đơn không Exactly, quy tắc phụ biểu).
+
 ## 06/9/2026 (lần 7) — kccn-sct-vn 1.24.0: ref 30 kỳ cập nhật 06/9/2026 (biểu tiến độ KCN/CCN năm 2026, danh mục thu hút đầu tư, bảng tiến độ CCN Mông Sơn, mẫu tin Zalo và quy trình báo cáo Lãnh đạo hằng tuần) + 04 file mẫu trong vi-du-thuc-te.
 
 ## 06/9/2026 (lần 6) — skcn-vn 1.1.0: plugin MỚI theo dõi sức khỏe cá nhân (đưa vào repo theo yêu cầu của Bạn, đã cảnh báo repo công khai)

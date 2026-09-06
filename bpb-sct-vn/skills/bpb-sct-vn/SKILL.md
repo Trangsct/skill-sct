@@ -200,6 +200,8 @@ Luôn **render soi ảnh từng trang** trước khi trình.
 
 ## 7. Người đọc & người ký (tra khi cần)
 
+**Trưởng phòng báo cáo tại giao ban Sở** (Bạn chốt 06/9/2026): mẫu `kho-bai-mau/bpb-giao-ban-thang-9-2026-truong-phong-qlcn.docx` — kính thưa 3 dòng (Giám đốc chủ trì, các Phó Giám đốc, toàn thể đồng chí dự họp), xưng "Thay mặt Phòng Quản lý Công nghiệp", kết quả lồng ghép lũy kế + tháng gần nhất trong từng lĩnh vực, đề xuất đúng cấp (PGĐ phụ trách/Giám đốc), không nhắc vận chuyển HHNH. Quy ước chi tiết: `vbhc-vn/reference/bao-cao-dinh-ky-phong-qlcn.md` mục 3.
+
 Mặc định bài phát biểu do **Giám đốc Sở Hoàng Chí Hiền** trình bày ("thay mặt Sở
 Công Thương / thay mặt ngành Công Thương, tôi…"). Nếu Phó Giám đốc đọc, đổi cách
 xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở ở skill
@@ -226,7 +228,7 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
   theo chuỗi sản phẩm có tên mỏ/nhà máy, nguyên tắc 3 tầng thẩm quyền, không đọc số
   hiệu văn bản, không xác nhận tiền đề tiêu cực của câu hỏi, giọng điềm đạm, sản
   phẩm kép kèm bản tóm tắt. **BẮT BUỘC đọc trước khi soạn bài phỏng vấn.**
-- `kho-bai-mau/` — **14 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
+- `kho-bai-mau/` — **16 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File
   `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu;

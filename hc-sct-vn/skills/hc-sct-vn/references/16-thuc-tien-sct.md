@@ -69,6 +69,10 @@ Tổng: **16.000.000 đ**; không tình tiết tăng nặng/giảm nhẹ; không
 4. **Hồ sơ huấn luyện phải lưu đủ 3 cấu phần**: nội dung huấn luyện; thông tin người huấn luyện; nội dung và kết quả kiểm tra — thiếu bất kỳ cấu phần nào đã đủ cấu thành hành vi vi phạm. Soi đúng 3 cấu phần này khi kiểm tra chuyên ngành (ref 10) và thẩm định hồ sơ cấp GCN (ref 03, 07).
 5. Đầu mối theo dõi tại Sở: **CN(Loan)**, lãnh đạo phụ trách **PGĐ Hoàng Văn Thuân**.
 
+## 5a. Vụ DAP số 2 — Sở là thành viên Hội đồng thẩm định KH của Cục Hóa chất (08/9/2026)
+
+Kế hoạch điều chỉnh của Công ty CP DAP số 2 - Vinachem (NH3 5.700 t ≫ ngưỡng 50 t → điểm a → Cục Hóa chất chủ trì); Sở cử CV Nguyễn Thị Loan tham gia Hội đồng, lập Phiếu Mẫu 03c. Bài học: (1) KH điều chỉnh sao chép bản 2015 nên hạng mục mới không được đưa vào bảng điểm nguy cơ và mục biện pháp; (2) số liệu vùng AEGL trong bảng tổng hợp lệch xa mục mô phỏng, bộ ngưỡng AEGL sai; (3) văn bản đề nghị ghi sai lần đăng ký thay đổi GCN ĐKDN; (4) bán H2SO4 ra ngoài kéo theo GP kinh doanh hóa chất kiểm soát đặc biệt nhóm 2 thuộc thẩm quyền tỉnh — việc của Sở, phải nêu trong phiếu. Toàn bộ checklist, điều kiện trạm xuất, mẫu phiếu: **ref 17**.
+
 ## 6. VIỆC CHỜ XÁC MINH (phải hỏi Bạn — không tự điền, không bịa)
 
 1. **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương** ký cấp GCN/GP/QĐ hóa chất thay UBND tỉnh — **đến 05/7/2026 chưa xác minh có/không**. Quyết định người ký (Sở ký theo ủy quyền hay trình Chủ tịch UBND tỉnh ký) phụ thuộc điều này. **Hỏi Bạn trước khi chốt người ký mọi văn bản cấp phép.**

@@ -71,6 +71,10 @@
 |---|---|---|
 | `CV-cu-nguoi-tham-gia-tham-dinh-KH-su-co.docx` | CV cử người tham gia Hội đồng thẩm định KH | 06, 14 |
 | `Danh-sach-bieu-mau-tham-dinh-KH-su-co.docx` | Danh sách biểu mẫu thẩm định KH | 06 |
+| `Mau-03c-goc.docx` | Mẫu 03c Phụ lục III TT 02/2026 — Phiếu nhận xét, đánh giá của thành viên Hội đồng (bản gốc Cục gửi, chuyển từ .doc) | 17 |
+| `2026.09.08. Phieu-nhan-xet-Mau-03c-KH-su-co-DAP-so-2.docx` | Phiếu 03c hoàn thiện cho CV Nguyễn Thị Loan — KH điều chỉnh DAP số 2 (10 nhóm yêu cầu chỉnh sửa; mẫu chuẩn thể thức) | 17 |
+| `build_phieu_03c.py` + `line_runs.txt` | Script dựng Phiếu 03c trên mẫu gốc (Line shape header, subscript hóa học, m2/m3 số mũ); sửa DAT/SUA rồi chạy `python3 build_phieu_03c.py <out.docx>` | 17 |
+| `VB-de-nghi-1648-DAP2-KTh-tham-dinh-KH.pdf` | Văn bản đề nghị thẩm định KH của DAP số 2 gửi Cục Hóa chất (Mẫu 03a, tháng 8/2026) | 17 |
 
 ### bao-cao-tham-muu/ (báo cáo, tham mưu)
 | File | Nội dung | Reference |

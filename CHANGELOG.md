@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 4) — hc-sct-vn 1.3.0: ref 17 Sở là thành viên Hội đồng thẩm định KH sự cố hóa chất của Cục Hóa chất (đối tượng điểm a), Phiếu Mẫu 03c + script dựng, checklist thẩm định KH điều chỉnh, điều kiện an toàn trạm xuất NH3/axit, quan hệ với thủ tục đầu tư - XD - PCCC - MT và GP kinh doanh H2SO4 nhóm 2; vụ DAP số 2 (CV Loan).
+
 ## 08/9/2026 (lần 3) — kccn-sct-vn 1.26.1: đính chính ref 32 — kỳ thứ 4 là dây chuyền tự động Data360X, kỳ thứ 6 làm tay báo cáo Lãnh đạo.
 
 ## 08/9/2026 (lần 2) — kccn-sct-vn 1.26.0: ref 32 chế độ cập nhật thứ 4 và thứ 6, reference kỳ mới nhất là nguồn hiện trạng (chuyển nốt mục ghi nhớ cá nhân về nhiệm vụ định kỳ vào skill).

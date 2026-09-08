@@ -60,5 +60,5 @@ Luật Quy hoạch đô thị và nông thôn 47/2024/QH15 (26/11/2024) + Luật
 
 - SCT đã tham gia ý kiến đồ án tại **VB 4901/SCT-CN ngày 13/8/2026** (CN(Trung) tham mưu mảng KCN/CCN — đối chiếu sổ văn bản đi khi cần trích nội dung).
 - Đại diện SCT trong Hội đồng: PGĐ Nguyễn Đình Chiến + Phó TP QLCN Trần Trọng Trang (ref 28; QĐ 229/QĐ-HĐTĐ chốt danh sách cho 02 đồ án Minh Quân, Âu Lâu).
-- Sắp tới: đồ án QHPK **KCN Âu Lâu** đi cùng lộ trình (cùng QĐ 229) — khi có giấy mời họp/hồ sơ xin ý kiến, dùng mẫu quy trình mục C và bộ căn cứ mục E; hiện trạng dự án thứ cấp Âu Lâu tra ref 33.
+- Đồ án QHPK **KCN Âu Lâu** đã họp CÙNG NGÀY 04/9/2026, kết luận tại **TB 78/TB-HĐTĐ 04/9/2026** — thống nhất thông qua, 03 nội dung hoàn thiện riêng (nhà ở công nhân QĐ 594, quy mô XLNT, hiện trạng SDĐ); ý kiến SCT tại VB 5138/SCT-CN 21/8/2026. Chi tiết phần riêng Âu Lâu: reference `33` mục E.
 - Đưa mốc "QHPK KCN Minh Quân đã qua HĐTĐ 04/9/2026, chờ phê duyệt" vào biểu tiến độ tuần (ref 30, 32) — khớp mục tiêu 09 KCN xong QHPK hết tháng 10/2026.

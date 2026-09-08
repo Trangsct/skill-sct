@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.29.0] - 08/9/2026 — QHPK KCN Âu Lâu qua Hội đồng thẩm định (TB 78/TB-HĐTĐ 04/9/2026) — bổ sung mục E ref 33
+
+- **`references/33` mục E (MỚI):** đồ án QHPK KCN Âu Lâu quy mô **120 ha theo ranh giới HIỆN HỮU** (QĐ 2078/QĐ-UBND 2008 + điều chỉnh cục bộ QĐ 1949/2015, QĐ 594/2019; nghiên cứu kết nối phần mở rộng lên 155 ha theo QĐ 525 — cảnh báo KHÔNG viết "QHPK 155 ha"); thống nhất thông qua tại họp 04/9/2026, TB 78/TB-HĐTĐ; 03 nội dung hoàn thiện (đất nhà ở công nhân QĐ 594, thống nhất quy mô XLNT giữa bản vẽ - thuyết minh, hiện trạng SDĐ); mốc riêng (dân cư thôn Cống Đá, 1145/BQLCKCN-NV, 1223/BQLCKCN-QLDA, TB 59/TB, VB 1702/UBND-KTHT); 08 ý kiến sở ngành — SCT tại **5138/SCT-CN 21/8/2026** (khác 4901 của Minh Quân); STC 6356 và CA 5577 dùng chung 01 văn bản cho cả 02 đồ án; trạng thái chờ QĐ phê duyệt.
+- Metadata PDF đã GATE: 78/TB-HĐTĐ ngày 04/9/2026 (bản ký số, ô số trống).
+- `references/34`: cập nhật mục F — Âu Lâu đã họp cùng ngày, trỏ ref 33 mục E. `references/12`: dòng KCN Âu Lâu ghi thêm QHPK. `SKILL.md`: hàng ref 33 và mục I.12 cập nhật. `plugin.json` → 1.29.0.
+
 ## [1.28.0] - 08/9/2026 — ref 34 QHPK KCN Minh Quân qua Hội đồng thẩm định (TB 76/TB-HĐTĐ 04/9/2026)
 
 - **`references/34-kcn-minh-quan-qhpk-tham-dinh.md` (MỚI):** đồ án QHPK KCN Minh Quân (160 ha, phường Âu Lâu; cơ quan lập + phê duyệt: BQLCKCN) thống nhất thông qua tại họp HĐTĐ 04/9/2026, TB kết luận 76/TB-HĐTĐ (Chủ tịch HĐ Đỗ Việt Bách); 03 nội dung hoàn thiện trước phê duyệt (đất an ninh, số liệu hiện trạng SDĐ, hoàn trả đường dân sinh); mẫu quy trình 10 bước (QĐ 2107/QĐ-UBND 27/11/2025 giao danh mục; HĐ tư vấn 03/2026/HĐ-TV; lấy ý kiến dân cư 25/6-15/7/2026; 08 ý kiến sở ngành — SCT tại 4901/SCT-CN 13/8/2026; tiếp thu 1222/BQLCKCN-QLDA 25/8; QĐ 229/QĐ-HĐTĐ 14/8/2026 danh sách HĐTĐ 02 đồ án Minh Quân + Âu Lâu; GM 101; họp + biên bản 04/9); bộ căn cứ pháp lý QHPK theo Luật 47/2024; bẫy số hiệu bản gốc (Luật XD ghi nhầm 135/2026/QH15; NĐ 178/2025 ≠ NĐ 178/2026; "229/QĐ-UBND" → 229/QĐ-HĐTĐ; "13/8/206"); trạng thái chờ QĐ phê duyệt đồ án.

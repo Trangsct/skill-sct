@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 7) — kccn-sct-vn 1.29.0: QHPK KCN Âu Lâu 120 ha hiện hữu qua Hội đồng thẩm định (TB 78/TB-HĐTĐ 04/9/2026, ý kiến SCT 5138/SCT-CN 21/8) — bổ sung mục E ref 33, cập nhật ref 34, 12.
+
 ## 08/9/2026 (lần 6) — kccn-sct-vn 1.28.0: ref 34 QHPK KCN Minh Quân qua Hội đồng thẩm định (TB 76/TB-HĐTĐ 04/9/2026, thống nhất thông qua, 03 nội dung hoàn thiện) + mẫu quy trình 10 bước lập QHPK KCN, QĐ 229/QĐ-HĐTĐ 14/8/2026 (bổ sung mục V ref 28).
 
 ## 08/9/2026 (lần 5) — kccn-sct-vn 1.27.0: ref 33 KCN Âu Lâu — hồ sơ điều chỉnh CTĐT lần 3 dự án Mundus Stones (TTr 109/TTr-BQLCKCN 23/8, NQ 1073-NQ/ĐU 07/9, CV 9109/UBND-KT 08/9/2026) + mẫu quy trình điều chỉnh CTĐT dự án thứ cấp trong KCN vượt 24 tháng (điểm b k4 Đ.33 Luật Đầu tư 143/2025, Đ.28 NĐ 96/2026).

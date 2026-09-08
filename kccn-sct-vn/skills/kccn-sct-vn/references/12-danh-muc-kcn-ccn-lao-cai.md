@@ -15,7 +15,7 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 | Bắc Duyên Hải | Phường Lào Cai | 85 |
 | Tằng Loỏng | Xã Tằng Loỏng | 1.100 |
 | Phía Nam | Phường Văn Phú | 400 |
-| Âu Lâu | Phường Âu Lâu, xã Quy Mông | 155 (hồ sơ dự án thứ cấp Mundus Stones + quy trình điều chỉnh CTĐT → reference 33) |
+| Âu Lâu | Phường Âu Lâu, xã Quy Mông | 155 (QHPK 120 ha hiện hữu qua HĐTĐ 04/9/2026, TB 78/TB-HĐTĐ; hồ sơ Mundus Stones → reference 33) |
 | Trấn Yên | Phường Âu Lâu | 339 |
 | Minh Quân | Phường Âu Lâu | 160 (QHPK qua HĐTĐ 04/9/2026, TB 76/TB-HĐTĐ → reference 34) |
 

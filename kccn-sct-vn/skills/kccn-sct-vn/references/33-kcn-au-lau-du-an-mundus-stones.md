@@ -94,3 +94,14 @@
 - TTr 109/TTr-BQLCKCN: thân tờ trình mục 4 phần I còn ghi "Địa điểm: KCN Âu Lâu, tỉnh Yên Bái" — đó là thông tin TRƯỚC điều chỉnh (trích nguyên trạng), không phải lỗi; văn bản mới của Sở luôn ghi "tỉnh Lào Cai".
 - TTr 109 đánh số mục nhảy từ VI sang VIII (thiếu mục VII) — lỗi trình bày của văn bản gốc, giữ nguyên khi trích, không tự sửa.
 - Hiện trạng lấp đầy 90,74% là số GỘP 03 KCN (ref 25, chốt 31/7/2026) — không gán riêng cho Âu Lâu.
+
+
+## E. QHPK KCN ÂU LÂU — ĐÃ QUA HỘI ĐỒNG THẨM ĐỊNH (bổ sung 08/9/2026)
+
+Nguồn: **TB kết luận 78/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đỗ Việt Bách ký; số/ngày đọc từ trường ký số bằng extract_metadata.py — ô trên bản in trống). Quy trình chung 10 bước và bộ căn cứ pháp lý: dùng reference `34` (Minh Quân); dưới đây chỉ ghi phần RIÊNG của Âu Lâu.
+
+1. Thông tin đồ án: QHPK KCN Âu Lâu, tỉnh Lào Cai; địa điểm phường Âu Lâu (phạm vi thuộc phường Âu Lâu và xã Quy Mông); quy mô **120 ha — theo ranh giới HIỆN HỮU** (QĐ 2078QĐ-UBND 25/12/2008 — bản gốc in thiếu dấu "/", đúng là 2078/QĐ-UBND; điều chỉnh cục bộ QĐ 1949/QĐ-UBND 05/10/2015 và QĐ 594/QĐ-UBND 08/4/2019), CÓ nghiên cứu phương án kết nối phần mở rộng theo QĐ 525 (lên 155 ha). ⚠️ KHÔNG viết "QHPK Âu Lâu 155 ha": 155 ha là diện tích quy hoạch tỉnh, đồ án QHPK lần này chỉ 120 ha hiện hữu — khác Minh Quân (QHPK trùng quy mô QĐ 525 là 160 ha). Cơ quan lập + phê duyệt: BQL các KCN tỉnh.
+2. Mốc riêng: lấy ý kiến dân cư 25/6/2026, niêm yết 25/6 – 15/7/2026 tại trụ sở UBND phường Âu Lâu + hội trường **thôn Cống Đá**; kết thúc VB 1702/UBND-KTHT + TB 59/TB cùng ngày 16/7/2026; xin ý kiến sở ngành VB **1145/BQLCKCN-NV 11/8/2026**; tiếp thu, giải trình VB **1223/BQLCKCN-QLDA 25/8/2026**; GM 101/GM-BQLCKCN 26/8/2026 (chung với Minh Quân); họp + biên bản 04/9/2026.
+3. 08 ý kiến sở ngành: 6356/STC-TĐ 12/8; **5138/SCT-CN 21/8/2026 (ý kiến của SCT — KHÁC văn bản 4901/SCT-CN cho Minh Quân)**; 2616/SKHCN-QLCN 13/8; 7783/SNNMT-QLĐĐ 13/8; 4436/BCH-TM 14/8; 2050/UBND-KTHT (phường Âu Lâu); 5283/SXD-QHKT 14/8; 5577/CAT-ANKT 18/8. Ghi chú: 6356/STC-TĐ và 5577/CAT-ANKT trùng số với hồ sơ Minh Quân — 01 văn bản góp ý chung cho cả 02 đồ án; các sở còn lại ban hành văn bản riêng từng đồ án.
+4. Kết luận Hội đồng: **thống nhất thông qua**, hồ sơ đủ điều kiện; 03 nội dung hoàn thiện trước khi trình phê duyệt: (a) kiểm tra thể hiện diện tích đất quy hoạch **Nhà ở công nhân** (đã điều chỉnh cục bộ tại QĐ 594/QĐ-UBND 08/4/2019) bảo đảm đúng quy định; (b) thống nhất số liệu quy mô **Hệ thống XLNT tập trung** giữa bản vẽ và thuyết minh; (c) chuẩn xác số liệu hiện trạng sử dụng đất.
+5. Trạng thái: chờ CĐT + tư vấn hoàn thiện, BQLCKCN ban hành QĐ phê duyệt đồ án QHPK (chưa có tại 08/9/2026 — khi có, cập nhật số/ngày vào đây). Mốc đưa vào biểu tiến độ tuần: "QHPK KCN Âu Lâu đã qua HĐTĐ 04/9/2026 (TB 78/TB-HĐTĐ), chờ phê duyệt".

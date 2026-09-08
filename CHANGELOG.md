@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 5) — kccn-sct-vn 1.27.0: ref 33 KCN Âu Lâu — hồ sơ điều chỉnh CTĐT lần 3 dự án Mundus Stones (TTr 109/TTr-BQLCKCN 23/8, NQ 1073-NQ/ĐU 07/9, CV 9109/UBND-KT 08/9/2026) + mẫu quy trình điều chỉnh CTĐT dự án thứ cấp trong KCN vượt 24 tháng (điểm b k4 Đ.33 Luật Đầu tư 143/2025, Đ.28 NĐ 96/2026).
+
 ## 08/9/2026 (lần 4) — hc-sct-vn 1.3.0: ref 17 Sở là thành viên Hội đồng thẩm định KH sự cố hóa chất của Cục Hóa chất (đối tượng điểm a), Phiếu Mẫu 03c + script dựng, checklist thẩm định KH điều chỉnh, điều kiện an toàn trạm xuất NH3/axit, quan hệ với thủ tục đầu tư - XD - PCCC - MT và GP kinh doanh H2SO4 nhóm 2; vụ DAP số 2 (CV Loan).
 
 ## 08/9/2026 (lần 3) — kccn-sct-vn 1.26.1: đính chính ref 32 — kỳ thứ 4 là dây chuyền tự động Data360X, kỳ thứ 6 làm tay báo cáo Lãnh đạo.

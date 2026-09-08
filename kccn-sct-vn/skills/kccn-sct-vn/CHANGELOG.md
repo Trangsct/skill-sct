@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.27.0] - 08/9/2026 — ref 33 KCN Âu Lâu: điều chỉnh CTĐT lần 3 dự án Mundus Stones + mẫu quy trình dự án thứ cấp vượt 24 tháng
+
+- **`references/33-kcn-au-lau-du-an-mundus-stones.md` (MỚI):** nền KCN Âu Lâu (155 ha, phường Âu Lâu + xã Quy Mông, BQLCKCN quản lý, vốn hạ tầng 77 tỷ); dự án Nhà máy SX thiết bị điện dân dụng và điện chiếu sáng của Công ty CP Tập đoàn ĐT&TM Mundus Stones (50 tỷ, 19.999,1 m², 20.000 bộ SP/năm, mã ngành 2740, ký quỹ 562,5 triệu); chuỗi pháp lý QĐ 622/503/140-QĐ-BQLCKCN, thuê đất QĐ 33/QĐ-UBND 08/01/2025, bàn giao đất 26/3/2026, GPXD 02/GPXD 13/4/2026, GXN MT 02/GXN-STNMT, PCCC 1430/PC07-Đ1; hồ sơ điều chỉnh lần 3 (4 nội dung; tiến độ QIII/2026 → QIV/2027, +48 tháng so lần đầu — ngoại lệ điểm b k4 Đ.33 Luật Đầu tư 143/2025, Đ.28 NĐ 96/2026): TTr 109/TTr-BQLCKCN 23/8/2026 (Đỗ Việt Bách) → TTr 1199/TTr-UBND 28/8/2026 → NQ 1073-NQ/ĐU 07/9/2026 (Bí thư Nguyễn Tuấn Anh) → CV 9109/UBND-KT 08/9/2026 (PCT Ngô Hạnh Phúc); trạng thái chờ BQLCKCN ban hành QĐ điều chỉnh lần 3; mẫu quy trình 7 bước + 5 lưu ý nghiệp vụ; cảnh báo số NQ trống trên PDF ký số, TTr 109 thiếu mục VII.
+- Metadata 03 PDF đã GATE bằng `extract_metadata.py` (vbhc-pdf-reader-vn): 109/TTr-BQLCKCN 23/8/2026; NQ ngày 07/9/2026 (số 1073 theo viện dẫn CV 9109); 9109/UBND-KT 08/9/2026.
+- `SKILL.md`: bảng reference thêm ref 33; mục I.12 mở rộng "CCN/dự án cụ thể". `references/12`: dòng KCN Âu Lâu trỏ ref 33. `plugin.json` → 1.27.0.
+
 ## [1.26.1] - 08/9/2026 — đính chính ref 32: kỳ THỨ 4 là dây chuyền TỰ ĐỘNG Data360X (bot + GitHub Actions cập nhật web và reference), kỳ THỨ 6 làm tay bộ 04 file + Zalo; lưu ý PR bot còn treo chưa tính là hiện trạng. `plugin.json` → 1.26.1.
 
 ## [1.26.0] - 08/9/2026 — ref 32 Chế độ cập nhật định kỳ thứ 4 và thứ 6; skill là nguồn hiện trạng

@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.26.0] - 08/9/2026 — ref 32 Chế độ cập nhật định kỳ thứ 4 và thứ 6; skill là nguồn hiện trạng
+
+- **`references/32-che-do-cap-nhat-dinh-ky-va-nguon-hien-trang.md` (MỚI):** nhịp cập nhật 02 lần/tuần (thứ 4 giữa tuần, thứ 6 báo cáo Lãnh đạo — Bạn chốt 08/9/2026); bộ 04 sản phẩm + tin Zalo; quy tắc mới: reference kỳ cập nhật MỚI NHẤT là nguồn hiện trạng đủ tin cậy (ghi ngày chốt; quá 04 ngày hoặc có thể có văn bản mới thì hỏi; không nội suy giữa hai kỳ). Thay quy tắc cũ "hiện trạng phải hỏi Bạn".
+- `SKILL.md`: bảng reference thêm ref 32; ghi chú ở mục 8 cập nhật theo. Ref 30 mục G ghi thêm kỳ thứ 4. `plugin.json` → 1.26.0.
+
 ## [1.25.0] - 08/9/2026 — ref 31 Sổ chốt dữ kiện cứng (chuyển từ ghi nhớ cá nhân sang skill)
 
 - **`references/31-so-chot-du-kien-cung.md` (MỚI):** CCN Yên Hợp (12 ha, QĐ 2201/QĐ-UBND 06/11/2024) và CCN Yên Hợp 1 (63 ha) là 02 dự án độc lập tại xã Xuân Ái, không gọi "giai đoạn I/II"; Yên Hợp 1, 2 đều xã Xuân Ái (tóm tắt QĐ 1382 ghi "xã Yên Hợp" là sai); CCN Tân Nguyên tại xã Bảo Ái; 04 CCN đã có NĐT đề xuất (8/2026); CCN Bản Phung sau khi NĐT rút — quy tắc hiển thị Bạn chốt 02/9/2026; KCN Phú Xuân và Phú Xuân 1 đều xã Gia Phú (QĐ 525 Mục III, IV; tổng 5.797 ha); cơ quan quản lý KCN theo địa bàn (BQL KKT / BQL các KCN).

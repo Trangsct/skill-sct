@@ -1,3 +1,10 @@
+## 08/9/2026 — sct-laocai-org-vn 2.4.0 + kccn-sct-vn 1.25.0 + vbhc-vn 2.16.0: chuyển 10 mục ghi nhớ cá nhân của Bạn vào skill tương ứng
+
+Bạn yêu cầu (08/9/2026) đưa các dữ kiện tra cứu cố định ra khỏi bộ nhớ cá nhân (đã đầy 30 mục) vào plugin. Đối chiếu: các mục về người áp tải HHNH, nhân sự Phòng QLCN, phong cách bài phát biểu, QĐ cá biệt, GCN ATTP, lùi đầu dòng, pháp lý thể thức đã có sẵn trong hnh-sct-vn, sct-laocai-org-vn, bpb-sct-vn, vbhc-vn — không thêm. Phần còn thiếu bổ sung như sau:
+- **sct-laocai-org-vn 2.4.0:** `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md` — địa giới tỉnh mới, lãnh đạo tỉnh 2026-2031, quy tắc ghi địa danh Yên Bái cũ, 8 xã không sắp xếp, Giám đốc 15 Sở ngành, địa chỉ/điện thoại Sở.
+- **kccn-sct-vn 1.25.0:** `references/31-so-chot-du-kien-cung.md` — Yên Hợp/Yên Hợp 1 hai dự án độc lập; Yên Hợp 1, 2 xã Xuân Ái; Bản Phung sau khi NĐT rút; Phú Xuân/Phú Xuân 1 xã Gia Phú; cơ quan quản lý KCN theo địa bàn.
+- **vbhc-vn 2.16.0:** Nhóm G thêm thứ tự Nơi nhận gửi doanh nghiệp (07/9/2026), Kính gửi gọn, dòng trống công văn nội bộ Phòng, không tự điền X biên bản thẩm định.
+
 ## 06/9/2026 (lần 8) — vbhc-vn 2.15.0 + bpb-sct-vn 1.4.0: mẫu báo cáo định kỳ Phòng QLCN (tháng, 9 tháng), phụ biểu đánh giá nhiệm vụ giao ban, bài phát biểu Trưởng phòng tại giao ban; script `build_bao_cao_phong.py`; reference `bao-cao-dinh-ky-phong-qlcn.md` (cách đếm số liệu từ sổ văn bản đi, thể thức giãn dòng đơn không Exactly, quy tắc phụ biểu).
 
 ## 06/9/2026 (lần 7) — kccn-sct-vn 1.24.0: ref 30 kỳ cập nhật 06/9/2026 (biểu tiến độ KCN/CCN năm 2026, danh mục thu hút đầu tư, bảng tiến độ CCN Mông Sơn, mẫu tin Zalo và quy trình báo cáo Lãnh đạo hằng tuần) + 04 file mẫu trong vi-du-thuc-te.

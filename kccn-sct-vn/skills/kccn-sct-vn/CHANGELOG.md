@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.25.0] - 08/9/2026 — ref 31 Sổ chốt dữ kiện cứng (chuyển từ ghi nhớ cá nhân sang skill)
+
+- **`references/31-so-chot-du-kien-cung.md` (MỚI):** CCN Yên Hợp (12 ha, QĐ 2201/QĐ-UBND 06/11/2024) và CCN Yên Hợp 1 (63 ha) là 02 dự án độc lập tại xã Xuân Ái, không gọi "giai đoạn I/II"; Yên Hợp 1, 2 đều xã Xuân Ái (tóm tắt QĐ 1382 ghi "xã Yên Hợp" là sai); CCN Tân Nguyên tại xã Bảo Ái; 04 CCN đã có NĐT đề xuất (8/2026); CCN Bản Phung sau khi NĐT rút — quy tắc hiển thị Bạn chốt 02/9/2026; KCN Phú Xuân và Phú Xuân 1 đều xã Gia Phú (QĐ 525 Mục III, IV; tổng 5.797 ha); cơ quan quản lý KCN theo địa bàn (BQL KKT / BQL các KCN).
+- `SKILL.md`: bảng reference thêm ref 31. `plugin.json` → 1.25.0.
+
 ## [1.24.0] - 06/9/2026 — Kỳ cập nhật 06/9/2026: biểu tiến độ KCN/CCN năm 2026, 02 danh mục thu hút đầu tư, bảng tiến độ CCN Mông Sơn, chế độ báo cáo Lãnh đạo hằng tuần (ref 30)
 
 - **`references/30` (MỚI):** chỉ đạo GĐ Sở 06/9/2026 (biểu tiến độ dự kiến các dự án KCN, CCN thành lập, khởi công, hoàn thành năm 2026 — nhiệm vụ định kỳ thứ 6); số liệu chuẩn chốt 06/9 (CCN 6 nhóm, KCN 3 nhóm, mốc hoàn thành 2026); bảng nguồn TMĐT và nhà đầu tư đã chốt (Thống Nhất 1, Phú Thịnh 1/2/3, Minh Quân, Y Can, Bảo Minh, Mông Sơn, Yên Hợp 2, Tân Nguyên, Phú Thịnh 6, Xuân Ái, Tân Hợp, Châu Quế 31 ha, Bản Phiệt 1 66 ha, An Thịnh, KCN Trấn Yên 2.184,33 tỷ); văn bản viện dẫn cố định 25/8–05/9/2026 (5342/BC-SCT, 5343/TTr-SCT, 5420/5421/5424/TTr-SCT, 8854/UBND-KT, QĐ 3105/3116/3117/QĐ-UBND…); 8 quy tắc trình bày chốt với Bạn (tên biểu, 4 nhóm CCN, 11 cột, không ô trống, KHÔNG freeze panes, danh mục thêm sheet mới đặt đầu); mẫu tin Zalo 5 mục; quy trình cập nhật tuần; cảnh báo vênh số liệu (Cam Đường 1/Bảo Hưng 2, Tờ trình 187 Châu Quế 2 ký hiệu, Tân Nguyên mốc ước).

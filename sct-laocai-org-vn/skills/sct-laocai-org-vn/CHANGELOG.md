@@ -1,5 +1,11 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## [2.4.0] - 08/9/2026 — reference 02: lãnh đạo tỉnh, lãnh đạo Sở ngành, địa giới (chuyển từ ghi nhớ cá nhân sang skill)
+
+- `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md` (MỚI): tỉnh Lào Cai mới từ 01/7/2025 (NQ 202/2025/QH15; 13.256,92 km², ~1,78 triệu dân, 99 xã/phường, không cấp huyện); Bí thư, Phó Bí thư, Chủ tịch HĐND, Chủ tịch và 5 Phó Chủ tịch UBND tỉnh 2026-2031; quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; Giám đốc 15 Sở ngành/đơn vị (5/2026); địa chỉ, điện thoại Sở Công Thương, không điền email.
+- `SKILL.md`: mục dẫn tới reference 02 đặt ngay đầu thân skill. `plugin.json` → 2.4.0.
+- Lý do: 3 mục ghi nhớ cá nhân của Bạn (địa giới, lãnh đạo tỉnh, lãnh đạo Sở ngành) chuyển vào skill để giải phóng bộ nhớ và dùng chung cho bpb-sct-vn, vbhc-vn.
+
 ## [2.3.0] - 05/9/2026 — mục mới: tiếp nhận chức năng QLNN về địa chất, khoáng sản và KCN từ 15/9/2026 (NQ 66.25/2026/NQ-CP)
 
 - `SKILL.md`: mục mới (bảng trước/sau 15/9/2026; ai phụ trách: PGĐ Thuân khoáng sản, PGĐ Chiến KCN, Phòng QLCN với PTP Vân + CN(Dũng)/CN(Nhung)/CN(Khôi)/CN(Trung); yêu cầu tiếp nhận biên chế, dự toán theo Điều 7 k3, k5c; GATE hành văn chờ QĐ phân công của UBND tỉnh). Toàn văn NQ: qlks-sct-vn ref 23; phần KCN: kccn-sct-vn ref 29.

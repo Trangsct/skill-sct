@@ -5,6 +5,10 @@ description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai (s
 
 # sct-laocai-org-vn — Cơ cấu tổ chức Sở Công Thương tỉnh Lào Cai
 
+## Lãnh đạo tỉnh, lãnh đạo các Sở ngành, địa giới hành chính — `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md`
+
+Tra ở đây (không suy đoán) khi cần: tên Bí thư/Chủ tịch/các Phó Chủ tịch UBND tỉnh (nhiệm kỳ 2026-2031); Giám đốc các Sở ngành (5/2026); diện tích, dân số, 99 xã/phường của tỉnh Lào Cai mới (NQ 202/2025/QH15, từ 01/7/2025); quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; địa chỉ, điện thoại Sở Công Thương (Số 165 Lý Thường Kiệt, phường Yên Bái; 02163.857.863 — không điền email). Chuyển từ bộ ghi nhớ cá nhân sang skill ngày 08/9/2026.
+
 ## Căn cứ pháp lý gốc
 
 - **NĐ số 40/2025/NĐ-CP** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (tham chiếu cấp Bộ — khung phân ngành công nghiệp/thương mại/năng lượng/hóa chất-VLNCN mà cơ cấu Sở soi chiếu xuống). Dùng để đối chiếu khi xác định một lĩnh vực thuộc nhóm nào ở cấp tỉnh.

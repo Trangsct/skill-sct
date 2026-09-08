@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 8) — kccn-sct-vn 1.30.0: điều chỉnh QHPK KCN Phía Nam (Khu A) 399,24 ha qua HĐTĐ (TB 77/TB-HĐTĐ 04/9/2026, Hội đồng riêng QĐ 228/QĐ-HĐTĐ, ý kiến SCT 4902/SCT-CN) — mục G ref 34 + bảng tra nhanh 03 đồ án, cập nhật ref 12, 28.
+
 ## 08/9/2026 (lần 7) — kccn-sct-vn 1.29.0: QHPK KCN Âu Lâu 120 ha hiện hữu qua Hội đồng thẩm định (TB 78/TB-HĐTĐ 04/9/2026, ý kiến SCT 5138/SCT-CN 21/8) — bổ sung mục E ref 33, cập nhật ref 34, 12.
 
 ## 08/9/2026 (lần 6) — kccn-sct-vn 1.28.0: ref 34 QHPK KCN Minh Quân qua Hội đồng thẩm định (TB 76/TB-HĐTĐ 04/9/2026, thống nhất thông qua, 03 nội dung hoàn thiện) + mẫu quy trình 10 bước lập QHPK KCN, QĐ 229/QĐ-HĐTĐ 14/8/2026 (bổ sung mục V ref 28).

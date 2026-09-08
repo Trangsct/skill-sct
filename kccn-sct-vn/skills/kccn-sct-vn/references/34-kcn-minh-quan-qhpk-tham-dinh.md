@@ -62,3 +62,24 @@ Luật Quy hoạch đô thị và nông thôn 47/2024/QH15 (26/11/2024) + Luật
 - Đại diện SCT trong Hội đồng: PGĐ Nguyễn Đình Chiến + Phó TP QLCN Trần Trọng Trang (ref 28; QĐ 229/QĐ-HĐTĐ chốt danh sách cho 02 đồ án Minh Quân, Âu Lâu).
 - Đồ án QHPK **KCN Âu Lâu** đã họp CÙNG NGÀY 04/9/2026, kết luận tại **TB 78/TB-HĐTĐ 04/9/2026** — thống nhất thông qua, 03 nội dung hoàn thiện riêng (nhà ở công nhân QĐ 594, quy mô XLNT, hiện trạng SDĐ); ý kiến SCT tại VB 5138/SCT-CN 21/8/2026. Chi tiết phần riêng Âu Lâu: reference `33` mục E.
 - Đưa mốc "QHPK KCN Minh Quân đã qua HĐTĐ 04/9/2026, chờ phê duyệt" vào biểu tiến độ tuần (ref 30, 32) — khớp mục tiêu 09 KCN xong QHPK hết tháng 10/2026.
+
+
+## G. KCN PHÍA NAM (KHU A) — ĐIỀU CHỈNH QHPK ĐÃ QUA HỘI ĐỒNG THẨM ĐỊNH (bổ sung 08/9/2026)
+
+Nguồn: **TB kết luận 77/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đỗ Việt Bách ký; số/ngày đọc từ trường ký số — ô bản in trống). Cùng ngày họp với Minh Quân (TB 76) và Âu Lâu (TB 78) nhưng đây là ĐIỀU CHỈNH QHPK (đồ án gốc đã có) và theo Hội đồng RIÊNG tại **QĐ 228/QĐ-HĐTĐ ngày 14/8/2026** (KHÁC QĐ 229 của 02 đồ án kia; thân văn bản có chỗ ghi nhầm "228/QĐ-UBND").
+
+1. Thông tin đồ án: Điều chỉnh QHPK KCN Phía Nam (Khu A), tỉnh Lào Cai; phường Văn Phú; quy mô **399,24 ha**. Ranh giới tuân thủ đồ án QHPK gốc **QĐ 770/QĐ-UBND ngày 20/4/2020** (UBND tỉnh Yên Bái) + QĐ 525/QĐ-UBND. ⚠️ Ref 12/13 ghi KCN Phía Nam 400 ha theo QĐ 525 — quy mô đồ án điều chỉnh QHPK là 399,24 ha; khi viện dẫn ghi đúng theo từng nguồn, không làm tròn lẫn nhau. Cơ quan lập + phê duyệt: BQL các KCN tỉnh.
+2. Mốc riêng: dân cư phường Văn Phú, niêm yết trụ sở UBND phường + hội trường **thôn Đồng Tiến** 25/6 – 15/7/2026; kết thúc VB 1497/UBND-KTHT + TB 57/TB cùng ngày 16/7/2026; xin ý kiến VB **1147/BQLCKCN-NV 11/8/2026**; tiếp thu, giải trình VB **1224/BQLCKCN-QLDA 25/8/2026**; GM 101/GM-BQLCKCN 26/8 (chung 03 đồ án); họp + biên bản 04/9/2026.
+3. **09 ý kiến** sở ngành (nhiều hơn 02 đồ án kia 01 đơn vị — có Chi cục Kiểm lâm): 6356/STC-TĐ 12/8 (chung 03 đồ án); **4902/SCT-CN 13/8/2026 (ý kiến của SCT — bộ 03 văn bản SCT: 4901 Minh Quân, 4902 Phía Nam, 5138 Âu Lâu)**; 2617/SKHCN-QLCN 13/8; 7828/SNNMT-QLĐĐ 14/8; 4438/BCH-TM 14/8; 1794/UBND-KTHT (phường Văn Phú); 5298/SXD-QHKT 17/8; **1973/CCKL-QLR 14/8/2026 (Chi cục Kiểm lâm — riêng đồ án này)**; 5577/CAT-ANKT 18/8 (chung).
+4. Kết luận: **thống nhất thông qua**; 04 nội dung hoàn thiện trước khi trình phê duyệt: (a) **cắt bỏ lối mở từ đường trục I ra Quốc lộ 2D** — hạn chế tối đa GPMB, ổn định đời sống nhân dân; (b) dải cây xanh cách ly KCN - khu dân cư: một số vị trí chưa bảo đảm khoảng cách an toàn môi trường do điều chỉnh theo hiện trạng các dự án đã cấp CTĐT tiếp giáp khu dân cư → giải trình làm rõ trong thuyết minh; (c) bổ sung, làm sâu sắc căn cứ và nguyên tắc điều chỉnh QHPK; (d) chuẩn xác vị trí **Khu XLNT tập trung** (liên quan trực tiếp dự án trạm XLNT KCN Phía Nam vốn NSNN, mốc hoàn thành quý IV/2026 — ref 25, 30).
+5. Trạng thái: chờ hoàn thiện + BQLCKCN ban hành QĐ phê duyệt đồ án điều chỉnh (chưa có tại 08/9/2026). Mốc biểu tiến độ tuần: "Điều chỉnh QHPK KCN Phía Nam (Khu A) đã qua HĐTĐ 04/9/2026 (TB 77/TB-HĐTĐ), chờ phê duyệt".
+
+### Bảng tra nhanh đợt thẩm định QHPK 04/9/2026 (03 đồ án, cùng Chủ tịch HĐ Đỗ Việt Bách, cùng GM 101, cùng ngày họp)
+
+| Đồ án | Loại | Quy mô | Hội đồng | TB kết luận | Ý kiến SCT | Tiếp thu của BQL |
+|---|---|---|---|---|---|---|
+| QHPK KCN Minh Quân | Lập mới QHPK | 160 ha | QĐ 229/QĐ-HĐTĐ | **76/TB-HĐTĐ 04/9/2026** | 4901/SCT-CN 13/8 | 1222/BQLCKCN-QLDA 25/8 |
+| Điều chỉnh QHPK KCN Phía Nam (Khu A) | Điều chỉnh | 399,24 ha | **QĐ 228/QĐ-HĐTĐ** | **77/TB-HĐTĐ 04/9/2026** | 4902/SCT-CN 13/8 | 1224/BQLCKCN-QLDA 25/8 |
+| QHPK KCN Âu Lâu | Lập mới QHPK | 120 ha hiện hữu | QĐ 229/QĐ-HĐTĐ | **78/TB-HĐTĐ 04/9/2026** | 5138/SCT-CN 21/8 | 1223/BQLCKCN-QLDA 25/8 |
+
+Cả 03 đều: thống nhất thông qua, có danh mục nội dung hoàn thiện, chờ QĐ phê duyệt của BQLCKCN.

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.30.0] - 08/9/2026 — Điều chỉnh QHPK KCN Phía Nam (Khu A) qua Hội đồng thẩm định (TB 77/TB-HĐTĐ 04/9/2026) — mục G ref 34 + bảng tra nhanh 03 đồ án
+
+- **`references/34` mục G (MỚI):** đồ án ĐIỀU CHỈNH QHPK KCN Phía Nam (Khu A) 399,24 ha, phường Văn Phú (ranh giới theo QĐ 770/QĐ-UBND 20/4/2020 + QĐ 525; cảnh báo không làm tròn lẫn 400 ha ↔ 399,24 ha); Hội đồng RIÊNG theo **QĐ 228/QĐ-HĐTĐ 14/8/2026** (khác QĐ 229; thân văn bản có chỗ ghi nhầm 228/QĐ-UBND); thống nhất thông qua, 04 nội dung hoàn thiện (cắt lối mở trục I ra QL 2D hạn chế GPMB; giải trình dải cây xanh cách ly do dự án hiện hữu đã cấp CTĐT; bổ sung căn cứ - nguyên tắc điều chỉnh; chuẩn xác vị trí Khu XLNT tập trung — gắn dự án trạm XLNT vốn NSNN quý IV/2026); 09 ý kiến sở ngành có thêm Chi cục Kiểm lâm 1973/CCKL-QLR; bộ 03 văn bản SCT: 4901 (Minh Quân), 4902 (Phía Nam), 5138 (Âu Lâu); bảng tra nhanh đợt thẩm định 04/9/2026 (03 đồ án, TB 76-77-78, QĐ 228/229, tiếp thu 1222/1223/1224).
+- Metadata PDF đã GATE: 77/TB-HĐTĐ ngày 04/9/2026 (bản ký số, ô số trống).
+- `references/28` mục V: bổ sung QĐ 228/QĐ-HĐTĐ — bẫy 03 quyết định cùng ngày 14/8/2026 (226/228/229) và 03 TB cùng ngày 04/9/2026. `references/12`: dòng KCN Phía Nam. `SKILL.md`: hàng ref 34 và mục I.12. `plugin.json` → 1.30.0.
+
 ## [1.29.0] - 08/9/2026 — QHPK KCN Âu Lâu qua Hội đồng thẩm định (TB 78/TB-HĐTĐ 04/9/2026) — bổ sung mục E ref 33
 
 - **`references/33` mục E (MỚI):** đồ án QHPK KCN Âu Lâu quy mô **120 ha theo ranh giới HIỆN HỮU** (QĐ 2078/QĐ-UBND 2008 + điều chỉnh cục bộ QĐ 1949/2015, QĐ 594/2019; nghiên cứu kết nối phần mở rộng lên 155 ha theo QĐ 525 — cảnh báo KHÔNG viết "QHPK 155 ha"); thống nhất thông qua tại họp 04/9/2026, TB 78/TB-HĐTĐ; 03 nội dung hoàn thiện (đất nhà ở công nhân QĐ 594, thống nhất quy mô XLNT giữa bản vẽ - thuyết minh, hiện trạng SDĐ); mốc riêng (dân cư thôn Cống Đá, 1145/BQLCKCN-NV, 1223/BQLCKCN-QLDA, TB 59/TB, VB 1702/UBND-KTHT); 08 ý kiến sở ngành — SCT tại **5138/SCT-CN 21/8/2026** (khác 4901 của Minh Quân); STC 6356 và CA 5577 dùng chung 01 văn bản cho cả 02 đồ án; trạng thái chờ QĐ phê duyệt.

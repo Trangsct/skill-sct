@@ -1,3 +1,8 @@
+## 2.16.0 — 08/9/2026 — Nhóm G bổ sung 4 quy tắc từ ghi nhớ cá nhân của Bạn
+
+- **reference/phong-tranh-sai-lam.md Nhóm G** thêm: (1) THỨ TỰ NƠI NHẬN văn bản gửi doanh nghiệp (Bạn chốt 07/9/2026): UBND tỉnh (b/c) → cơ quan phối hợp → Trung tâm PVHCC → Ban Giám đốc Sở → doanh nghiệp (gần cuối, ngay trên Lưu) → Lưu: VT, CN (Tên); tuyệt đối không đặt doanh nghiệp dòng đầu; (2) Kính gửi chung doanh nghiệp ngành viết gọn 1 dòng; (3) công văn nội bộ Phòng: 1 dòng trống giữa "PHÒNG QLCN" và "V/v", rà xóa hết nội dung vụ cũ trên mẫu thật, QA soi đến hết văn bản; (4) biên bản thẩm định có ô Đạt/Không đạt, ô đánh dấu X: giữ nguyên, không tự điền.
+- `SKILL.md`: tóm tắt Nhóm G cập nhật tương ứng. `plugin.json` → 2.16.0.
+
 ## 2.15.0 — 06/9/2026 — Báo cáo định kỳ Phòng QLCN, phụ biểu giao ban, script build_bao_cao_phong.py
 
 - **examples/sct/** thêm 3 mẫu chuẩn Bạn duyệt 06/9/2026: `bao-cao-thang-phong-qlcn.docx` (Báo cáo tháng 9/2026), `bao-cao-9-thang-phong-qlcn.docx` (Báo cáo 9 tháng đầu năm 2026), `phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx` (Phụ biểu tháng 9/2026 phần Phòng QLCN).

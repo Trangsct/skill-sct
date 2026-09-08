@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 2) — kccn-sct-vn 1.26.0: ref 32 chế độ cập nhật thứ 4 và thứ 6, reference kỳ mới nhất là nguồn hiện trạng (chuyển nốt mục ghi nhớ cá nhân về nhiệm vụ định kỳ vào skill).
+
 ## 08/9/2026 — sct-laocai-org-vn 2.4.0 + kccn-sct-vn 1.25.0 + vbhc-vn 2.16.0: chuyển 10 mục ghi nhớ cá nhân của Bạn vào skill tương ứng
 
 Bạn yêu cầu (08/9/2026) đưa các dữ kiện tra cứu cố định ra khỏi bộ nhớ cá nhân (đã đầy 30 mục) vào plugin. Đối chiếu: các mục về người áp tải HHNH, nhân sự Phòng QLCN, phong cách bài phát biểu, QĐ cá biệt, GCN ATTP, lùi đầu dòng, pháp lý thể thức đã có sẵn trong hnh-sct-vn, sct-laocai-org-vn, bpb-sct-vn, vbhc-vn — không thêm. Phần còn thiếu bổ sung như sau:

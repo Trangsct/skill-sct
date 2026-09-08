@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## [1.26.1] - 08/9/2026 — đính chính ref 32: kỳ THỨ 4 là dây chuyền TỰ ĐỘNG Data360X (bot + GitHub Actions cập nhật web và reference), kỳ THỨ 6 làm tay bộ 04 file + Zalo; lưu ý PR bot còn treo chưa tính là hiện trạng. `plugin.json` → 1.26.1.
+
 ## [1.26.0] - 08/9/2026 — ref 32 Chế độ cập nhật định kỳ thứ 4 và thứ 6; skill là nguồn hiện trạng
 
 - **`references/32-che-do-cap-nhat-dinh-ky-va-nguon-hien-trang.md` (MỚI):** nhịp cập nhật 02 lần/tuần (thứ 4 giữa tuần, thứ 6 báo cáo Lãnh đạo — Bạn chốt 08/9/2026); bộ 04 sản phẩm + tin Zalo; quy tắc mới: reference kỳ cập nhật MỚI NHẤT là nguồn hiện trạng đủ tin cậy (ghi ngày chốt; quá 04 ngày hoặc có thể có văn bản mới thì hỏi; không nội suy giữa hai kỳ). Thay quy tắc cũ "hiện trạng phải hỏi Bạn".

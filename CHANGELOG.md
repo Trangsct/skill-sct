@@ -1,3 +1,5 @@
+## 08/9/2026 (lần 3) — kccn-sct-vn 1.26.1: đính chính ref 32 — kỳ thứ 4 là dây chuyền tự động Data360X, kỳ thứ 6 làm tay báo cáo Lãnh đạo.
+
 ## 08/9/2026 (lần 2) — kccn-sct-vn 1.26.0: ref 32 chế độ cập nhật thứ 4 và thứ 6, reference kỳ mới nhất là nguồn hiện trạng (chuyển nốt mục ghi nhớ cá nhân về nhiệm vụ định kỳ vào skill).
 
 ## 08/9/2026 — sct-laocai-org-vn 2.4.0 + kccn-sct-vn 1.25.0 + vbhc-vn 2.16.0: chuyển 10 mục ghi nhớ cá nhân của Bạn vào skill tương ứng

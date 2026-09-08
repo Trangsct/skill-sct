@@ -17,7 +17,7 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 | Phía Nam | Phường Văn Phú | 400 |
 | Âu Lâu | Phường Âu Lâu, xã Quy Mông | 155 (hồ sơ dự án thứ cấp Mundus Stones + quy trình điều chỉnh CTĐT → reference 33) |
 | Trấn Yên | Phường Âu Lâu | 339 |
-| Minh Quân | Phường Âu Lâu | 160 |
+| Minh Quân | Phường Âu Lâu | 160 (QHPK qua HĐTĐ 04/9/2026, TB 76/TB-HĐTĐ → reference 34) |
 
 ### KCN mới được chấp thuận chủ trương đầu tư (05 — cập nhật 23/7/2026, chi tiết reference `15`)
 | Tên KCN | Vị trí | DT QH / DT chấp thuận (ha) | QĐ chấp thuận CTĐT |

@@ -98,3 +98,9 @@ Tất cả đều với chức danh **Thành viên** Hội đồng. **Điều 2:
 - Từ 14/8/2026, SCT có **02 đại diện** trong Hội đồng: **PGĐ Nguyễn Đình Chiến** và **Phó TP QLCN Trần Trọng Trang** (cử theo VB 4926/SCT-CN ngày 14/8/2026).
 - Khi BQLCKCN mời họp thẩm định nhiệm vụ/đồ án quy hoạch KCN: người dự đúng là 02 đại diện trên; ý kiến góp ý của đại diện SCT **ràng buộc trách nhiệm toàn diện của SCT** (khoản 2 Điều 3 QĐ 7) — soạn ý kiến tham gia phải qua Lãnh đạo Sở duyệt, tham chiếu quy hoạch tỉnh (reference `13`), danh mục thu hút đầu tư (reference `14`), hiện trạng KCN (reference `15`, `25`).
 - Khi SCT thay người tham gia Hội đồng: làm văn bản cử người gửi BQLCKCN (mẫu tiền lệ VB 4926/SCT-CN) để BQLCKCN ra QĐ điều chỉnh — KHÔNG tự coi là đã thay khi chưa có QĐ của Trưởng Ban.
+
+
+## V. CẬP NHẬT 08/9/2026 — QĐ 229/QĐ-HĐTĐ VÀ HOẠT ĐỘNG ĐẦU TIÊN CỦA HỘI ĐỒNG
+
+- **QĐ 229/QĐ-HĐTĐ ngày 14/8/2026** (Chủ tịch Hội đồng thẩm định ký): phê duyệt danh sách thành viên Hội đồng thẩm định đồ án QHPK **KCN Minh Quân + KCN Âu Lâu**. CÙNG NGÀY nhưng KHÁC văn bản với QĐ 226/QĐ-BQLCKCN (điều chỉnh thành viên Hội đồng khung theo QĐ 7) — thêm một bẫy số văn bản cùng ngày, phân biệt theo ký hiệu QĐ-HĐTĐ / QĐ-BQLCKCN. Lưu ý: trong thân TB 76/TB-HĐTĐ có chỗ ghi nhầm "229/QĐ-UBND".
+- Hoạt động đầu tiên: họp thẩm định đồ án QHPK KCN Minh Quân ngày 04/9/2026, kết luận tại **TB 76/TB-HĐTĐ ngày 04/9/2026** — thống nhất thông qua, 03 nội dung hoàn thiện. Chi tiết toàn bộ hồ sơ, quy trình: reference `34`.

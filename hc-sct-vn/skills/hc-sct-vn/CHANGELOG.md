@@ -1,5 +1,10 @@
 # CHANGELOG — hc-sct-vn
 
+## [1.3.0] - 08/9/2026 — Sở là thành viên Hội đồng thẩm định KH của Cục Hóa chất; Phiếu Mẫu 03c; vụ DAP số 2
+- **ref 17 (mới)** `17-thanh-vien-hoi-dong-tham-dinh-kh-cuc-hoa-chat.md`: phân biệt vai trò Sở (cơ quan thẩm định với điểm b / thành viên Hội đồng của Cục với điểm a); cách điền Phiếu Mẫu 03c (không tự đánh X ô lựa chọn, ngày để trống, chức vụ chuyên môn); checklist 8 điểm thẩm định nội dung KH theo Phụ lục II TT 02/2026 (KH điều chỉnh phải khớp Bảng 1.2 → 2.1 → 2.2 → mục 4.3 + diễn tập; bộ ngưỡng AEGL 60 phút; axit không bay hơi phải tính lượng tràn); điều kiện an toàn trạm xuất NH3 lỏng và trạm xuất axit (110% dung tích xe bồn, 17 m, vật liệu, không phun nước vào H2SO4 đặc); quan hệ KH điều chỉnh với thủ tục đầu tư - xây dựng - PCCC - môi trường; bán H2SO4 ra ngoài → GP kinh doanh hóa chất kiểm soát đặc biệt nhóm 2 (tỉnh) + phiếu kiểm soát mua bán; dữ kiện vụ DAP số 2 đã xác minh.
+- **vi-du-thuc-te/ke-hoach-su-co/**: `Mau-03c-goc.docx`; `2026.09.08. Phieu-nhan-xet-Mau-03c-KH-su-co-DAP-so-2.docx` (bản hoàn thiện cho CV Loan, 10 nhóm yêu cầu); `build_phieu_03c.py` + `line_runs.txt` (script dựng Phiếu 03c trên mẫu gốc: A4 lề 2-2-3-2, header 13pt 2 đường Line shape, thân 14pt lùi 1 cm, subscript công thức, m2/m3 số mũ, nén chữ tránh chữ lẻ); `VB-de-nghi-1648-DAP2-KTh-tham-dinh-KH.pdf`.
+- SKILL.md (mục I, IV, V), ref 06 (mục 3, 12), ref 15 (mục lục), ref 16 (mục 5a) trỏ sang ref 17; description plugin/SKILL thêm từ khóa Mẫu 03c, trạm xuất NH3, DAP số 2.
+
 ## [1.2.3] - 02/9/2026 — nơi nộp TTHC duy nhất motcua-tthc.moit.gov.vn
 - Nơi nộp hồ sơ TTHC: DUY NHẤT Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (đăng nhập VNeID) — Bạn chốt lại 02/9/2026. Bỏ mọi cách ghi "kênh phụ"/"hoặc qua" Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh" trong hướng dẫn DN; trích luật thì ghi rõ là trích luật.
 

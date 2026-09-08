@@ -23,7 +23,7 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 2
 
 ## 3. Thẩm quyền thẩm định, phê duyệt (khoản 6 Điều 34 NĐ 25) — CỐT LÕI
 
-- **Bộ Công Thương (Cục Hóa chất):** đối tượng **điểm a** khoản 2 Điều 33 (lĩnh vực dân sự).
+- **Bộ Công Thương (Cục Hóa chất):** đối tượng **điểm a** khoản 2 Điều 33 (lĩnh vực dân sự) — khi đó Sở chỉ là **thành viên Hội đồng** theo mời của Cục, lập Phiếu nhận xét Mẫu 03c → **ref 17** (vụ DAP số 2, 08/9/2026).
 - **UBND cấp tỉnh** nơi đặt dự án/cơ sở: đối tượng **điểm b** khoản 2 Điều 33 (lĩnh vực dân sự) → **đây là phần việc của Sở Công Thương Lào Cai** (Sở tham mưu UBND tỉnh tổ chức thẩm định, phê duyệt).
 - Bộ Công an: lĩnh vực an ninh, trật tự; Bộ Quốc phòng: lĩnh vực quốc phòng.
 
@@ -79,6 +79,8 @@ Chủ đầu tư/tổ chức **nộp phí thẩm định** theo pháp luật v�
 - QĐ phê duyệt KH được gửi **BQL khu công nghiệp/khu chế xuất/khu kinh tế** nếu cơ sở trong khu (điểm h khoản 2 Điều 34) → phối hợp theo plugin `kcn-ccn-vn`; gửi **UBND cấp xã** với KH do UBND cấp tỉnh phê duyệt.
 - **Biện pháp phòng ngừa trong VẬN CHUYỂN** (khoản 3 Điều 35) gắn hồ sơ Giấy phép vận chuyển HHNH → plugin `hnh-sct-vn`.
 
-## 12. Lưu ý thực tế (vụ HNO3, ref 16)
+## 12. Lưu ý thực tế (vụ HNO3 ref 16; vụ DAP số 2 ref 17)
 
 Nếu kho lưu chứa **đồng thời nhiều loại hóa chất/tiền chất thuốc nổ**, KH phải xây dựng **kịch bản, biện pháp ứng phó cho tình huống lưu chứa đồng thời** — không chỉ tình huống đơn lẻ từng chất. Thay đổi nội dung đã phê duyệt → báo cáo cơ quan phê duyệt xem xét, quyết định.
+
+KH **điều chỉnh** do bổ sung hạng mục (trạm xuất, tuyến ống): hạng mục mới phải có mặt đủ ở Bảng hạng mục công trình, Bảng điểm nguy cơ, Bảng tình huống + mô phỏng, mục biện pháp theo khu vực và kịch bản diễn tập; hạng mục chỉ được vận hành sau khi KH điều chỉnh được phê duyệt (khoản 8 Điều 36). Checklist đầy đủ và điều kiện an toàn trạm xuất NH3/axit: ref 17 mục 3, 4.

@@ -4,11 +4,18 @@ Chuyển từ bộ ghi nhớ cá nhân của người dùng sang skill ngày 08/
 
 ---
 
-## 1. Nhịp cập nhật
+## 1. Nhịp cập nhật: 02 kỳ mỗi tuần, khác nhau về cách làm
 
 - Nhiệm vụ định kỳ do Giám đốc Sở Hoàng Chí Hiền giao ngày 06/9/2026 (nhóm Zalo "NHÓM CCN LCI NEW"): Phòng QLCN cập nhật bộ sản phẩm tiến độ KCN, CCN và báo cáo Lãnh đạo Sở hằng tuần.
-- Từ 08/9/2026 người dùng chốt nhịp cập nhật 02 lần mỗi tuần: THỨ 4 và THỨ 6. Kỳ thứ 6 là kỳ báo cáo Lãnh đạo (tin Zalo + file); kỳ thứ 4 là kỳ cập nhật giữa tuần để số liệu trong plugin luôn sát thực tế.
-- Mỗi kỳ ghi thành một reference mới đánh số tiếp theo (33, 34...) với tên `NN-ky-cap-nhat-DD-M-YYYY.md`, theo đúng khung mục A-I của ref 30; file sản phẩm lưu vào `vi-du-thuc-te/`; cập nhật CHANGELOG, plugin.json và push repo ngay trong phiên.
+- Người dùng làm rõ ngày 08/9/2026, plugin được làm mới 02 lần mỗi tuần:
+
+| Kỳ | Ai làm | Nguồn | Sản phẩm |
+|---|---|---|---|
+| THỨ 4 | Dây chuyền TỰ ĐỘNG Data360X (bot Playwright trên máy cơ quan kết xuất sổ văn bản đến/đi từ https://csdlvb.laocai.gov.vn → GitHub Actions gọi Claude API bóc trường → cập nhật trang congnghieplaocai.vn và file tham chiếu plugin; trường hợp chưa chắc thì mở PR chờ người dùng duyệt) | Sổ văn bản Data360X | Diễn biến tuần được ghi vào reference kỳ cập nhật và dữ liệu web; KHÔNG làm bộ 04 file Excel, KHÔNG gửi Zalo |
+| THỨ 6 | Người dùng + Claude trong phiên làm việc (thủ công, có kiểm tra) | Sổ văn bản Data360X từ ngày chốt kỳ trước + hồ sơ nhà đầu tư + xác nhận của người dùng | Bộ 04 file Excel + tin Zalo báo cáo Giám đốc; ghi reference kỳ mới; push repo |
+
+- Vì kỳ thứ 4 là máy tự chạy: khi đọc reference do kỳ thứ 4 tạo ra, kiểm tra có PR nào của bot còn treo (chưa merge) hay không trước khi coi là hiện trạng; diễn biến nằm trong PR treo chưa được tính.
+- Mỗi kỳ ghi thành một reference mới đánh số tiếp theo (33, 34...) với tên `NN-ky-cap-nhat-DD-M-YYYY.md`, theo đúng khung mục A-I của ref 30; file sản phẩm (kỳ thứ 6) lưu vào `vi-du-thuc-te/`; cập nhật CHANGELOG, plugin.json và push repo ngay trong phiên.
 
 ## 2. Bộ 04 sản phẩm mỗi kỳ (chi tiết mẫu và quy tắc: ref 30 mục E, F, G, H)
 
@@ -33,6 +40,7 @@ Vì plugin được cập nhật 02 lần mỗi tuần, số liệu ở REFERENC
 
 ## 4. Liên kết
 
+- Dây chuyền tự động Data360X: mô tả kiến trúc 3 khâu ở sct-laocai-org-vn mục "Công cụ số và dây chuyền dữ liệu"; bản giao việc "2026.09.02. Bản giao việc Claude Code - Tự động cập nhật văn bản lên 2 trang web và skill.md".
 - Ref 30: khung nội dung một kỳ cập nhật, mẫu tin Zalo, quy tắc trình bày, quy trình 5 bước.
 - Ref 31: sổ chốt dữ kiện cứng.
 - sct-laocai-org-vn: người ký (PGĐ Nguyễn Đình Chiến), chuyên viên CN(Trung), Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo CCN.

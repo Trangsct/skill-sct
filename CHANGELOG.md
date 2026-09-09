@@ -1,4 +1,6 @@
-## 09/9/2026 — vbhc-vn 2.16.0 → 2.17.0: Quy tắc 22 khối ký chuẩn + kiểm tự động SIGSPACE
+## 09/9/2026 — vbhc-vn 2.16.0 → 2.17.1: Quy tắc 22 khối ký chuẩn + kiểm tự động SIGSPACE
+
+- 2.17.1: chốt lại theo bản Bạn sửa tay — ô ký công văn Sở giữ 5 paragraph trống của mẫu thật (3–4 dòng ký), không bớt; tên lãnh đạo ngang hoặc thấp hơn dòng Lưu.
 
 - vbhc-vn: Quy tắc 22 (1 dòng trống trước bảng ký; ô ký ≥ 3 dòng trống; tên lãnh đạo ngang dòng Lưu; dòng Nơi nhận ≤ 45 ký tự; không co khối ký để ép trang; keep_with_next 2 đoạn cuối + dòng trống, cantSplit hàng ký); Nhóm H13 trong phong-tranh-sai-lam; `qa_all.py` thêm `check_sig_block()` → tag SIGSPACE. Nguồn: 4 lượt Bạn sửa công văn xin ý kiến Bài toán lớn số 2 ngày 09/9/2026.
 

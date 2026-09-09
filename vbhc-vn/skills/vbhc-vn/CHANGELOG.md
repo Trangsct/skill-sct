@@ -1,3 +1,8 @@
+## [2.17.1] - 09/9/2026 — chốt lại số dòng trống ô ký theo bản Bạn sửa tay
+
+- Quy tắc 22 (b), (c) và Nhóm H13: ô ký công văn Sở giữ **5 paragraph trống của mẫu thật** (hiển thị 3–4 dòng), không dùng công thức "ngang dòng Lưu" để bớt dòng; tên lãnh đạo ngang hoặc thấp hơn dòng Lưu. Nguồn: file Bạn sửa tay gửi lại 09/9/2026 sau bản 3 dòng vẫn bị chê hẹp.
+- `plugin.json` → 2.17.1.
+
 ## [2.17.0] - 09/9/2026 — Quy tắc 22 khối ký chuẩn + kiểm SIGSPACE
 
 - **SKILL.md Quy tắc 22 (mới)** — khối ký chuẩn: đúng 1 dòng trống trước bảng ký/nơi nhận; ô ký ≥ 3 dòng trống 13pt; tên lãnh đạo ngang dòng "Lưu:" (công thức số dòng trống; dòng Nơi nhận ≤ 45 ký tự, viết tắt phòng); không co khối ký để ép trang — rút thân, gộp mục, chuyển phòng nội bộ xuống Nơi nhận; keep_with_next 2 đoạn cuối + dòng trống, cantSplit hàng ký vì Word ngắt trang khác LibreOffice. Quy tắc 14 bổ sung "không co dòng trống ô ký". Mục QA nhắc SIGSPACE.

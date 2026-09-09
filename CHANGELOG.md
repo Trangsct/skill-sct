@@ -1,3 +1,7 @@
+## 09/9/2026 — vbhc-vn 2.16.0 → 2.17.0: Quy tắc 22 khối ký chuẩn + kiểm tự động SIGSPACE
+
+- vbhc-vn: Quy tắc 22 (1 dòng trống trước bảng ký; ô ký ≥ 3 dòng trống; tên lãnh đạo ngang dòng Lưu; dòng Nơi nhận ≤ 45 ký tự; không co khối ký để ép trang; keep_with_next 2 đoạn cuối + dòng trống, cantSplit hàng ký); Nhóm H13 trong phong-tranh-sai-lam; `qa_all.py` thêm `check_sig_block()` → tag SIGSPACE. Nguồn: 4 lượt Bạn sửa công văn xin ý kiến Bài toán lớn số 2 ngày 09/9/2026.
+
 ## 08/9/2026 (lần 8) — kccn-sct-vn 1.30.0: điều chỉnh QHPK KCN Phía Nam (Khu A) 399,24 ha qua HĐTĐ (TB 77/TB-HĐTĐ 04/9/2026, Hội đồng riêng QĐ 228/QĐ-HĐTĐ, ý kiến SCT 4902/SCT-CN) — mục G ref 34 + bảng tra nhanh 03 đồ án, cập nhật ref 12, 28.
 
 ## 08/9/2026 (lần 7) — kccn-sct-vn 1.29.0: QHPK KCN Âu Lâu 120 ha hiện hữu qua Hội đồng thẩm định (TB 78/TB-HĐTĐ 04/9/2026, ý kiến SCT 5138/SCT-CN 21/8) — bổ sung mục E ref 33, cập nhật ref 34, 12.

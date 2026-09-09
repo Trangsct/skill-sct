@@ -133,6 +133,56 @@ def check_kinh_gui_bold(docx_path: Path):
     return warns
 
 
+def check_sig_block(docx_path: Path):
+    """Quy tắc 22 (vụ 09/9/2026): khối ký phải đủ rộng và đúng khoảng cách.
+    (1) Ngay trước bảng ký/nơi nhận (bảng cuối cùng của thân) phải có ĐÚNG 1 paragraph trống;
+    (2) Ô ký (cột phải): giữa dòng chức danh cuối và dòng tên người ký phải có >= 3 paragraph trống;
+    (3) Cột Nơi nhận: mỗi dòng "- ..." không dài quá 45 ký tự (tránh xuống dòng làm tên lãnh đạo lệch dòng Lưu).
+    Trả về list lỗi (FAIL)."""
+    out = []
+    try:
+        from docx import Document as _D
+        from docx.oxml.ns import qn as _qn
+    except ImportError:
+        return out
+    d = _D(str(docx_path))
+    body = d.element.body
+    tbls = body.findall(_qn("w:tbl"))
+    if len(tbls) < 2:
+        return out
+    sig_tbl = tbls[-1]
+    # (1) đúng 1 paragraph trống trước bảng ký
+    kids = list(body)
+    idx = kids.index(sig_tbl)
+    prev = kids[idx - 1] if idx > 0 else None
+    prev_txt = "".join(prev.itertext()).strip() if prev is not None else "x"
+    if prev is None or prev.tag != _qn("w:p") or prev_txt:
+        out.append("thiếu 1 dòng trống giữa thân văn bản và bảng ký/nơi nhận (Quy tắc 22)")
+    else:
+        prev2 = kids[idx - 2] if idx > 1 else None
+        if prev2 is not None and prev2.tag == _qn("w:p") and not "".join(prev2.itertext()).strip():
+            out.append("thừa dòng trống trước bảng ký (chỉ giữ đúng 1)")
+    # (2)+(3)
+    from docx.table import Table as _T
+    t = _T(sig_tbl, d)
+    try:
+        left, right = t.rows[0].cells[0], t.rows[0].cells[-1]
+    except Exception:
+        return out
+    rp = [p.text.strip() for p in right.paragraphs]
+    nonempty = [i for i, x in enumerate(rp) if x]
+    if len(nonempty) >= 2:
+        last_title, name = nonempty[-2], nonempty[-1]
+        blanks = name - last_title - 1
+        if blanks < 3:
+            out.append(f"ô ký chỉ có {blanks} dòng trống giữa chức danh và tên người ký (cần >= 3 để đủ chỗ ký, đóng dấu — Quy tắc 22)")
+    for p in left.paragraphs:
+        tx = p.text.strip()
+        if tx.startswith("-") and len(tx) > 45:
+            out.append(f"dòng Nơi nhận dài {len(tx)} ký tự, sẽ xuống dòng làm tên lãnh đạo lệch dòng Lưu: «{tx[:40]}…» (viết tắt cho vừa 1 dòng)")
+    return out
+
+
 def run_check_document(docx_path: Path):
     """Chạy check_document.py (VBQPPL hết hiệu lực, từ suy đoán…), gom output."""
     cd = SCRIPT_DIR / "check_document.py"
@@ -281,6 +331,8 @@ def main():
             fails.append(("WIDOW", msg))
         for msg in check_sig_split(pages_txt):
             fails.append(("SIGSPLIT", msg))
+    for msg in check_sig_block(docx_path):
+        fails.append(("SIGSPACE", msg))
     if pdf and do_image:
         try:
             pages_img, sheet = make_contact_sheet(pdf, dpi)

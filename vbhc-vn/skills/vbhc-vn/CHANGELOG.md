@@ -1,3 +1,10 @@
+## [2.17.0] - 09/9/2026 — Quy tắc 22 khối ký chuẩn + kiểm SIGSPACE
+
+- **SKILL.md Quy tắc 22 (mới)** — khối ký chuẩn: đúng 1 dòng trống trước bảng ký/nơi nhận; ô ký ≥ 3 dòng trống 13pt; tên lãnh đạo ngang dòng "Lưu:" (công thức số dòng trống; dòng Nơi nhận ≤ 45 ký tự, viết tắt phòng); không co khối ký để ép trang — rút thân, gộp mục, chuyển phòng nội bộ xuống Nơi nhận; keep_with_next 2 đoạn cuối + dòng trống, cantSplit hàng ký vì Word ngắt trang khác LibreOffice. Quy tắc 14 bổ sung "không co dòng trống ô ký". Mục QA nhắc SIGSPACE.
+- **reference/phong-tranh-sai-lam.md Nhóm H13 (mới)** — vụ 09/9/2026 (công văn xin ý kiến Bài toán lớn số 2 sửa 4 lượt): 4 triệu chứng, quy tắc a–e, số dòng trống theo từng mẫu (công văn PGĐ 3; tờ trình GĐ 3; kế hoạch UBND 6), mẫu code.
+- **scripts/qa_all.py** — hàm `check_sig_block()` → tag **SIGSPACE** (FAIL): thiếu/thừa dòng trống trước bảng ký; ô ký < 3 dòng trống giữa chức danh và tên; dòng Nơi nhận > 45 ký tự. Đã chạy thử trên 3 file thật (công văn, tờ trình, kế hoạch UBND) — bắt đúng lỗi, PASS sau khi sửa.
+- `plugin.json` → 2.17.0.
+
 ## 2.16.0 — 08/9/2026 — Nhóm G bổ sung 4 quy tắc từ ghi nhớ cá nhân của Bạn
 
 - **reference/phong-tranh-sai-lam.md Nhóm G** thêm: (1) THỨ TỰ NƠI NHẬN văn bản gửi doanh nghiệp (Bạn chốt 07/9/2026): UBND tỉnh (b/c) → cơ quan phối hợp → Trung tâm PVHCC → Ban Giám đốc Sở → doanh nghiệp (gần cuối, ngay trên Lưu) → Lưu: VT, CN (Tên); tuyệt đối không đặt doanh nghiệp dòng đầu; (2) Kính gửi chung doanh nghiệp ngành viết gọn 1 dòng; (3) công văn nội bộ Phòng: 1 dòng trống giữa "PHÒNG QLCN" và "V/v", rà xóa hết nội dung vụ cũ trên mẫu thật, QA soi đến hết văn bản; (4) biên bản thẩm định có ô Đạt/Không đạt, ô đánh dấu X: giữ nguyên, không tự điền.

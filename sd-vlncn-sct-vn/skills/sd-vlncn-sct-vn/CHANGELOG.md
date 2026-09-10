@@ -1,5 +1,12 @@
 # CHANGELOG — sd-vlncn-sct-vn
 
+## [2026.9.10.1] - 10/9/2026 — reference 12 có thêm mục G: báo cáo định kỳ của DN sử dụng VLNCN đã nhận
+- `references/12-csdl-vlncn-laocai.md` (máy sinh) thêm **mục G — Báo cáo định kỳ của DN sử dụng VLNCN đã nhận**: kỳ, doanh nghiệp, số/ký hiệu, ngày báo cáo, kho, khối lượng đã sử dụng trong kỳ, tồn cuối kỳ, liên kết PDF. Nguồn: bảng `company_reports` của trang vlncn-laocai (script `scripts/dong_bo_tri_thuc.py` được bổ sung tương ứng).
+- Cảnh báo kèm mục G: số liệu **do DN tự khai**, chưa qua kiểm tra, chỉ gồm báo cáo đã nhập lên trang — KHÔNG dùng thay số liệu tổng hợp toàn tỉnh. Ghi chú đầu file sửa lại cho khớp (trước đây ghi trống "khối lượng đã sử dụng, số kho vẫn HỎI Bạn").
+- SKILL.md: mục routing tra cứu và cây thư mục nêu mục G.
+- Kỳ đầu tiên có trong mục G: 6 báo cáo (tháng 6, 7 và 8/2026), mới nhất là 90/BC-YP-VLNCN ngày 03/9/2026 của Công ty cổ phần Yên Phú (tháng 8/2026).
+- plugin.json 2026.9.6.5 → **2026.9.10.1**.
+
 ## [2026.9.6.5] - 06/9/2026 — BẢN CUỐI Bạn chốt: bộ đôi CV Sở + dự thảo CV UBND tỉnh chỉ đạo VLNCN; mẫu 23 viết lại toàn bộ; anti-error 31 viết lại
 - Khung chuẩn mới `vi-du-thuc-te/CV-SCT-...-ban-cuoi-6.9.2026.docx` và `Du-thao-CV-UBND-tinh-...-ban-cuoi-6.9.2026.docx` (gỡ các bản trung gian 23.8, ban-sua-6.9, ban-6.9).
 - Mẫu 23 viết lại: mục A (CV Sở 4 đoạn, không nêu "chưa có văn bản chỉ đạo chung", "(Khôi)." subscript cố ý), mục B (5 nguyên tắc: B1 gần như không dẫn điều khoản; B2 một cơ chế "Sở xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp nguyên văn 3 chỗ — cài điều kiện được vì đã giao vai trò trước; B3 Sở là cơ quan quản lý PANM: phê duyệt + đồng ý bằng văn bản thay UBND tỉnh; B4 kết cấu 7 mục đúng độ dài; B5 thể thức nhỏ), mục C pháp lý, mục D lịch sử 3 vòng.

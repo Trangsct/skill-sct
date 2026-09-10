@@ -1,3 +1,9 @@
+## 10/9/2026 — sd-vlncn-sct-vn 2026.9.6.5 → 2026.9.10.1: reference 12 thêm mục G báo cáo định kỳ của DN
+
+- `references/12-csdl-vlncn-laocai.md` (máy sinh từ CSDL trang vlncn-laocai) thêm mục G liệt kê báo cáo định kỳ của DN sử dụng VLNCN đã nhận: kỳ, DN, số/ký hiệu, ngày, kho, khối lượng đã dùng và tồn cuối kỳ, liên kết PDF; kèm cảnh báo số liệu do DN tự khai, không thay số tổng hợp toàn tỉnh. Script `scripts/dong_bo_tri_thuc.py` bên repo vlncn-laocai được bổ sung để sinh mục này ở các lượt đồng bộ sau.
+
+- Dữ liệu nền: báo cáo tháng 8/2026 số 90/BC-YP-VLNCN của Công ty cổ phần Yên Phú đã nhập vào trang và kho file (vlncn-laocai #68, vlncn-laocai-files #19).
+
 ## 09/9/2026 — vbhc-vn 2.16.0 → 2.17.1: Quy tắc 22 khối ký chuẩn + kiểm tự động SIGSPACE
 
 - 2.17.1: chốt lại theo bản Bạn sửa tay — ô ký công văn Sở giữ 5 paragraph trống của mẫu thật (3–4 dòng ký), không bớt; tên lãnh đạo ngang hoặc thấp hơn dòng Lưu.

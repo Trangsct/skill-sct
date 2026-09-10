@@ -1,6 +1,6 @@
 # 12 - CSDL VLNCN trực tuyến của Sở (vlncn-laocai.vercel.app) - ảnh chụp tự động
 
-> **File do máy sinh tự động** từ cơ sở dữ liệu trang https://vlncn-laocai.vercel.app (lệnh `scripts/dong_bo_tri_thuc.py` trong repo vlncn-laocai), cập nhật ngày 03/09/2026. **KHÔNG sửa tay file này** - sửa dữ liệu trên trang web rồi chạy đồng bộ (hoặc chờ lượt tự động 18h40). Số liệu là **hiện trạng CSDL của trang**: giấy phép chưa nhập lên trang thì chưa có ở đây, nên đây là bảng tra nhanh, KHÔNG phải danh mục pháp lý đầy đủ; khi trích dẫn chính thức phải mở bản PDF ký số theo liên kết trong bảng. Dữ liệu hiện trạng khác (khối lượng đã sử dụng, số kho) vẫn HỎI Bạn, không lấy từ file này.
+> **File do máy sinh tự động** từ cơ sở dữ liệu trang https://vlncn-laocai.vercel.app (lệnh `scripts/dong_bo_tri_thuc.py` trong repo vlncn-laocai), cập nhật ngày 10/09/2026. **KHÔNG sửa tay file này** - sửa dữ liệu trên trang web rồi chạy đồng bộ (hoặc chờ lượt tự động 18h40). Số liệu là **hiện trạng CSDL của trang**: giấy phép chưa nhập lên trang thì chưa có ở đây, nên đây là bảng tra nhanh, KHÔNG phải danh mục pháp lý đầy đủ; khi trích dẫn chính thức phải mở bản PDF ký số theo liên kết trong bảng. Khối lượng đã sử dụng và số kho ở mục G chỉ là của các DN đã nộp báo cáo định kỳ và đã nhập lên trang, KHÔNG phải số liệu toàn tỉnh; số tổng hợp toàn tỉnh vẫn HỎI Bạn.
 
 ## A. Trang web và dây chuyền dữ liệu (để biết tra ở đâu)
 
@@ -9,13 +9,15 @@
 - Dây chuyền tự động 18h hằng ngày: bot trên máy Bạn đọc Văn bản đi/đến trên Data360X (csdlvb.laocai.gov.vn) -> tải PDF vào hộp thư đến -> GitHub Actions dùng Gemini đọc 2 lượt 2 model, so khớp số liệu -> ghi CSDL (trường bắt buộc chắc thì tự cập nhật, chưa chắc thì mở PR chờ duyệt) -> 18h40 đồng bộ file này sang plugin.
 - Bấm mọi tiêu đề cột trên trang để sắp xếp (ví dụ theo ngày hết hạn).
 
-## B. Giấy phép sử dụng VLNCN còn hiệu lực (30 giấy phép, tính đến 03/09/2026)
+## B. Giấy phép sử dụng VLNCN còn hiệu lực (32 giấy phép, tính đến 10/09/2026)
 
 | Số GP | Ngày cấp | Hết hạn | Tổ chức (mã số DN) | Công trình / địa điểm | Chủng loại, khối lượng | PDF |
 |---|---|---|---|---|---|---|
 | 5315/GP-SCT | 28/08/2026 | 15/03/2029 | Công ty trách nhiệm hữu hạn Khoáng sản Bản Cầm (5300692181) | Mỏ đá làm vật liệu xây dựng thông thường thôn Bản Cầm, xã Phong Hải, tỉnh Lào Cai | Thuốc nổ các loại (thuốc nổ Amonit AD1; thuốc nổ ANFO; thuốc nổ nhũ tương dùng cho lộ thiên): 62500 kg/năm; kíp nổ các l… | [5315_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5315_GP-SCT.pdf) |
 | 5347/GP-SCT | 28/08/2026 | 28/08/2031 | Công ty cổ phần Mông Sơn (5200278146) | mỏ đá hoa trắng khu vực Mông Sơn | Thuốc nổ các loại (thuốc nổ Amonit AD1; thuốc nổ Anfo): 38950 kg/năm; kíp nổ các loại (kíp nổ điện vi sai; kíp nổ điện s… | [5347_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5347_GP-SCT.pdf) |
 | 5323/GP-SCT | 28/08/2026 | 31/12/2026 | Công ty CP Xây dựng giao thông Yên Bái (5200193037) | Gói thầu số 14: Thi công xây dựng công trình Đường kết nối Mường La (Sơn La), Than Uyên, Tân Uyên (Lai Châu), … | Thuốc nổ các loại (thuốc nổ nhũ tương dùng cho lộ thiên; thuốc nổ Amonit AD1; thuốc nổ ANFO): 57266 kg; kíp nổ các loại … | [5323_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5323_GP-SCT.pdf) |
+| 5314/GP-SCT | 28/08/2026 | 25/11/2026 | Công ty TNHH Đồng Tiến (5200212314) | Gói thầu SFD-XL03: Xây dựng cơ sở hạ tầng giao thông liên vùng hỗ trợ phát triển kinh tế - xã hội các huyện ng… | Thuốc nổ các loại (thuốc nổ ANFO; thuốc nổ Amonit AD1; thuốc nổ nhũ tương dùng cho lộ thiên): 15400 kg; Kíp nổ các loại … | [5314_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5314_GP-SCT.pdf) |
+| 5248/GP-SCT | 25/08/2026 | 07/10/2028 | Công ty Cổ phần Kim Thành (5200484050) | mỏ chì - kẽm khu vực xã Cao Phạ, huyện Mù Cang Chải, tỉnh Yên Bái (nay là xã Tú Lệ, tỉnh Lào Cai) | Thuốc nổ các loại (năm 2026): 13493 kg; Thuốc nổ các loại (năm 2027): 40480 kg; Thuốc nổ các loại (đến hết ngày 07/10/20… | [5248_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5248_GP-SCT.pdf) |
 | 5236/GP-SCT | 24/08/2026 | 31/03/2027 | Công ty cổ phần Đầu tư xây dựng và dịch vụ thương mại Trường Phát (6200118578) | Dự án Thủy điện Yên Hà |  | [5236_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5236_GP-SCT.pdf) |
 | 5234/GP-SCT | 24/08/2026 | 24/08/2031 | Công ty cổ phần Miền Tây (5200278918) | Mỏ đá vôi làm vật liệu xây dựng thông thường khu vực phường Trung Tâm, tỉnh Lào Cai | Thuốc nổ các loại (thuốc nổ Amonit AD1; thuốc nổ Anfo): 21400 kg/năm; Kíp nổ điện các loại (kíp nổ điện vi sai; kíp nổ đ… | [5234_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5234_GP-SCT.pdf) |
 | 5235/GP-SCT | 24/08/2026 | 31/03/2027 | Công ty TNHH MTV Thương mại tổng hợp Thành Nam (5300738100) | dự án Thủy điện Yên Hà | Thuốc nổ các loại (Anfo, Amonit AD1, nhũ tương lộ thiên, nhũ tương chuyên dụng trong hầm lò, công trình ngầm không có kh… | [5235_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5235_GP-SCT.pdf) |
@@ -39,7 +41,7 @@
 | 2241/GP-UBND | 05/12/2025 | 05/12/2026 | Công ty TNHH Hiệp Phú (5000197820) | Thi công Gói thầu SFD-XL01: đoạn tuyến Khánh Hòa - Văn Yên (Km6+663,9 - Km10+981,63) | Thuốc nổ 12.301 kg; Kíp nổ 6.593 cái; Dây nổ chịu nước 5.663 m | [2241_GP-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/2241_GP-UBND.pdf) |
 | 2076/GP-UBND | 26/11/2025 | 10/12/2026 | Công ty TNHH Linh Huy Hoàng (0500455580) | Thi công Gói thầu số 31: đường kết nối Mường La - Than Uyên - IC15 (Km54+342 - Km57+260) | Thuốc nổ 17.454 kg; Kíp nổ 9.136 cái; Dây nổ 14.315 m | [2076_GP-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/2076_GP-UBND.pdf) |
 | 2044/GP-UBND | 24/11/2025 | 24/11/2028 | Công ty CP Xây dựng Thương mại và Phát triển Hầm mỏ Võ Nghệ (2902038301) | Thi công hầm dẫn nước bổ sung thủy điện Bắc Nà, xã Bản Liền, huyện Bắc Hà, tỉnh Lào Cai | Thuốc nổ 40.530 kg; Kíp nổ 35.486 cái; Dây nổ 12.056 m | [2044_GP-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/2044_GP-UBND.pdf) |
-| 1855/QĐ-UBND | 03/11/2025 | 03/11/2026 | Công ty cổ phần Khoáng sản Yên Bái VPG (5200190029) | Khai thác mỏ felspat thôn Hồng Quân, xã Thác Bà, tỉnh Lào Cai | Thuốc nổ 6.837 kg/năm; Kíp nổ 19.200 cái/năm | [1855_QĐ-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/1855_QĐ-UBND.pdf) |
+| 1855/QĐ-UBND | 03/11/2025 | 03/11/2026 | Công ty CP Khoáng sản Yên Bái VPG (5200190029) | Khai thác mỏ felspat thôn Hồng Quân, xã Thác Bà, tỉnh Lào Cai | Thuốc nổ 6.837 kg/năm; Kíp nổ 19.200 cái/năm | [1855_QĐ-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/1855_QĐ-UBND.pdf) |
 | 1822/GP-UBND | 31/10/2025 | 31/12/2028 | Công ty TNHH Xây lắp công trình Hồng Toàn (5300204892) | Khai thác đá làm VLXD thông thường tại mỏ đá thôn Bản Cầm, xã Phong Hải, tỉnh Lào Cai | Thuốc nổ 61.500 kg/năm; Kíp nổ 13.150 cái/năm; Dây nổ chịu nước 12.017 m/năm | [1822_GP-UBND.docx](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/1822_GP-UBND.docx) |
 | 1369/GP-UBND | 07/10/2025 | 07/10/2026 | Công ty TNHH HTQ Yên Bái (5200854939) | Khai thác đá làm VLXD thông thường tại khu vực Gốc Sấu, thôn Đoàn Kết, xã Tân Hợp, tỉnh Lào Cai | Thuốc nổ 6.150 kg/năm; Kíp nổ 2.015 cái/năm; Dây nổ chịu nước 2.743 m/năm | [1369_GP-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/1369_GP-UBND.pdf) |
 | 1285/GP-UBND | 30/09/2025 | 30/09/2026 | Công ty TNHH thương mại và xây dựng hạ tầng Bắc Hà (0107829819) | Thi công Gói thầu 11: Xây dựng hệ thống cấp nước sạch các xã trên địa bàn huyện Si Ma Cai | Thuốc nổ 4.039 kg; Kíp nổ 5.392 cái; Dây nổ 1.426 m | [1285_GP-UBND.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/1285_GP-UBND.pdf) |
@@ -78,13 +80,13 @@
 
 | Năm cấp | Số GP sử dụng VLNCN | Trong đó ký hiệu /GP-SCT |
 |---|---|---|
-| 2026 | 24 | 6 |
+| 2026 | 26 | 8 |
 | 2025 | 13 | 2 |
 | 2024 | 2 | 2 |
 | 2022 | 7 | 7 |
 | 2021 | 9 | 9 |
 
-- Tổ chức có GP sử dụng VLNCN còn hiệu lực: **25**.
+- Tổ chức có GP sử dụng VLNCN còn hiệu lực: **27**.
 - Giấy phép kinh doanh tiền chất thuốc nổ trong CSDL: **14** (còn hiệu lực 14).
 - Thông báo dịch vụ nổ mìn trong CSDL: **16**, đang hoạt động 16, của 5 đơn vị.
 
@@ -127,3 +129,16 @@
 | 387/PC-VPUBND | 06/11/2025 | Công ty Công nghiệp Hóa chất Mỏ Tây Bắc |  | Khai thác đá làm VLXD thông thường tại mỏ Đồng Bông, xã Xuân Ái, huyện Văn Yên, tỉnh Lào C… | đang hoạt động |
 | 349/PC-VPUBND | 29/10/2025 | Công ty Cổ phần Xi măng và Khoáng sản Yên Bái |  | Khai thác đá vôi tại mỏ Mông Sơn, xã Bảo Ái, huyện Yên Bình, tỉnh Lào Cai | đang hoạt động |
 | 29/TB-TH | 25/08/2025 | Doanh nghiệp tư nhân Thành Hương (Nghĩa Lộ, Yên Bái) |  | Hoạt động dịch vụ nổ mìn trên địa bàn tỉnh Lào Cai | đang hoạt động |
+
+## G. Báo cáo định kỳ của DN sử dụng VLNCN đã nhận (6 báo cáo)
+
+Số liệu do **doanh nghiệp tự khai** trong báo cáo gửi Sở (Điều 17 TT 23/2024), chưa qua kiểm tra; chỉ gồm các báo cáo đã nhập lên trang. Dùng để tra nhanh DN nào đã nộp kỳ nào và mức sử dụng tự khai, KHÔNG dùng thay số liệu tổng hợp toàn tỉnh.
+
+| Kỳ | Doanh nghiệp | Số/ký hiệu | Ngày BC | Kho | Đã sử dụng trong kỳ | Tồn cuối kỳ | PDF |
+|---|---|---|---|---|---|---|---|
+| Tháng 8/2026 | Công ty cổ phần Yên Phú | 90/BC-YP-VLNCN | 03/09/2026 | 1 kho / 7.500 kg | Thuốc nổ nhũ tương 10.774,8 kg; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 19.188 cái | Thuốc nổ nhũ tương 3.066,9 kg; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 7.407 cái | [90_BC-YP-VLNCN.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/90_BC-YP-VLNCN.pdf) |
+| Tháng 7/2026 | Công ty TNHH Huy Hoàng Lục Yên | 45/2026/BC-HHLY | 01/08/2026 | 1 kho / 5.000 kg | Thuốc nổ Amonit AD1 Ø60 113 kg; Thuốc nổ ANFO (bao 25 kg) 250 kg; Kíp điện K8 144 cái; Kíp vi sai 44 cái; Dây cháy chậm 0 m; Dây nổ 0 m; Dây dẫn nổ các loại 0 m | Thuốc nổ Amonit AD1 Ø60 252 kg; Thuốc nổ ANFO (bao 25 kg) 1.075 kg; Kíp điện K8 739 cái; Kíp vi sai 61 cái | [45_BC-HHLY.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/45_BC-HHLY.pdf) |
+| Tháng 7/2026 | Công ty cổ phần Yên Phú | 83/BC-YP-VLNCN | 03/08/2026 | 1 kho / 7.500 kg | Thuốc nổ nhũ tương 11.826 kg; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 21.060 cái | Thuốc nổ nhũ tương 3.401,7 kg; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 7.595 cái | [83_BC-YP-VLNCN.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/83_BC-YP-VLNCN.pdf) |
+| Tháng 7/2026 | Công ty cổ phần khoáng sản Yên Phú Đông Đô - BQP | 68/BC-VLNCN | 04/08/2026 | 0 kho | Thuốc nổ NT 32 0 kg; Thuốc nổ P113 6.156 kg; Kíp đốt K8 0 cái; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 10.044 cái; Dây cháy chậm 0 m | Thuốc nổ NT 32 0 kg; Thuốc nổ P113 510,4 kg; Kíp đốt K8 0 cái; Kíp vi sai 4,5m 0 cái; Kíp vi sai 3m 2.860 cái; Dây cháy chậm 0 m | [68_BC-VLNCN.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/68_BC-VLNCN.pdf) |
+| Tháng 7/2026 | Doanh nghiệp tư nhân Than đá Suối Bắc | 26/2026 | 02/08/2026 | 1 kho / 3.000 kg | Thuốc nổ AD1 ø60 336 kg; Thuốc nổ Anfo 6.450 kg; Thuốc nổ NT ø60 0 kg; Thuốc nổ NT ø80 0 kg; Kíp nổ điện số 8 588 cái; Kíp nổ điện vi sai 1.151 cái; Dây nổ 1.100 m | Thuốc nổ AD1 ø60 0 kg; Thuốc nổ Anfo 0 kg; Thuốc nổ NT ø60 0 kg; Thuốc nổ NT ø80 0 kg; Kíp nổ điện số 8 0 cái; Kíp nổ điện vi sai 0 cái; Dây nổ 0 m | [26_2026_BC-SuoiBac.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/26_2026_BC-SuoiBac.pdf) |
+| Tháng 6/2026 | Công ty Cổ phần Khoáng sản Simco - Fansipan | 30.06/SFC-BC | 30/06/2026 | 1 kho / 3.000 kg | Thuốc nổ Anfo 1.700 kg; Kíp điện K8 182 cái; Dây nổ chịu nước 500 m | Thuốc nổ Anfo 2.750 kg; Kíp điện K8 1.980 cái; Dây nổ chịu nước 2.900 m | [30.06_SFC-BC.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/30.06_SFC-BC.pdf) |

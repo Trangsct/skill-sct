@@ -1,3 +1,5 @@
+## 10/9/2026 — vbhc-vn 2.18.0: Quy tắc 23 giọng văn công văn xin ý kiến (đề nghị, không ra lệnh; cấm câu "quá thời hạn không có ý kiến…")
+
 ## 2026.09.10 — kccn-sct-vn 1.31.0: KCN Âu Lâu / Mundus Stones — điều chỉnh CTĐT lần 3 đã ban hành (QĐ 257/QĐ-BQLCKCN 10/9/2026) + bộ mẫu 07 điều chỉnh CTĐT dự án thứ cấp trong KCN
 
 - `references/33` thêm mục **F** (toàn bộ Báo cáo kết quả thẩm định 20/8/2026 của Tổ thẩm định BQLCKCN: thể thức không số văn bản, ký 03 khối, 09 căn cứ, bố cục 7 phần I–VI + VIII, 04 kết luận thẩm định theo Mẫu I.2.1/I.2.7 TT 55/2026/TT-BTC, ký quỹ 562,5 triệu, 07 quy định với nhà đầu tư), mục **G** (VB 1908/CV-MundusStones 19/8/2026 — cam kết tiến độ kết cấu 4 lớp, có lớp tự nguyện chấp nhận chấm dứt dự án nếu chậm do lỗi chủ quan), mục **H** (QĐ 257/QĐ-BQLCKCN 10/9/2026 — thể thức Mẫu I.2.7 không có dòng địa danh-ngày, 09 căn cứ, điểm h khoản 1 Điều 2 "khóa" cam kết, NĐ 19/2026 cho khâu giám sát, nơi nhận có Sở Công Thương).

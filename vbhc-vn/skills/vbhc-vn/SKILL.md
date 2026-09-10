@@ -321,6 +321,8 @@ Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức v
 
 22. **KHỐI KÝ CHUẨN — kích thước và khoảng cách (Bạn chốt 09/9/2026, vụ công văn xin ý kiến Bài toán lớn số 2 phải sửa 4 lượt):** (a) giữa đoạn cuối thân văn bản và bảng ký/nơi nhận **đúng 1 paragraph trống** (không 0, không 2); (b) ô ký: chức danh (1–3 dòng) + **đúng số paragraph trống của mẫu thật — công văn Sở là 5 paragraph trống (hiển thị 3–4 dòng ký, bản Bạn sửa tay 09/9/2026 là chuẩn)**, tối thiểu 3, không bao giờ bớt để ép trang; (c) tên lãnh đạo nằm **ngang hoặc thấp hơn dòng "Lưu:"**, không được cao hơn; mỗi dòng Nơi nhận nằm gọn 1 dòng (≤ 45 ký tự, viết tắt QLNL, QLTM, KH-TH, VP Sở, BQL…); (d) **không được co khối ký để ép vừa trang** — thiếu chỗ thì rút thân văn bản, gộp mục, chuyển phòng nội bộ xuống Nơi nhận; (e) Word ngắt trang khác LibreOffice: gán `keep_with_next` cho **2 đoạn cuối + dòng trống** trước bảng ký và `<w:cantSplit/>` cho hàng ký, để khối ký không rơi một mình sang trang mới hoặc tên ký bị đẩy sang trang sau. QA: `qa_all.py` tag **SIGSPACE** (tự kiểm (a), (b), (c)); ảnh render soi bằng mắt điều (c). *(Chi tiết: Nhóm H13.)*
 
+23. **GIỌNG VĂN CÔNG VĂN XIN Ý KIẾN (Bạn chốt 10/9/2026):** giọng đề nghị, không ra lệnh: "kính đề nghị quý cơ quan, đơn vị…", "xin gửi về…", "rất mong nhận được sự quan tâm, phối hợp"; xưng "quý cơ quan, đơn vị, doanh nghiệp"; **TUYỆT ĐỐI KHÔNG dùng câu "quá thời hạn không có ý kiến được hiểu là thống nhất với dự thảo"** hay biến thể áp đặt tương tự; hạn gửi ghi kèm lý do mềm ("để Sở kịp tổng hợp, hoàn thiện"). Áp dụng cả công văn gửi ngoài và công văn nội bộ Sở/phòng.
+
 ## Demo có sẵn
 
 Trong `scripts/`:

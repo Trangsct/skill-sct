@@ -1,3 +1,8 @@
+## [2.18.0] - 10/9/2026 — Quy tắc 23 giọng văn công văn xin ý kiến
+
+- SKILL.md Quy tắc 23: giọng đề nghị ("kính đề nghị quý cơ quan", "xin gửi về", "rất mong nhận được sự quan tâm, phối hợp"); cấm tuyệt đối câu "quá thời hạn không có ý kiến được hiểu là thống nhất"; hạn gửi kèm lý do mềm. Nguồn: Bạn sửa công văn xin ý kiến Bài toán lớn số 2 ngày 10/9/2026.
+- `plugin.json` → 2.18.0.
+
 ## [2.17.1] - 09/9/2026 — chốt lại số dòng trống ô ký theo bản Bạn sửa tay
 
 - Quy tắc 22 (b), (c) và Nhóm H13: ô ký công văn Sở giữ **5 paragraph trống của mẫu thật** (hiển thị 3–4 dòng), không dùng công thức "ngang dòng Lưu" để bớt dòng; tên lãnh đạo ngang hoặc thấp hơn dòng Lưu. Nguồn: file Bạn sửa tay gửi lại 09/9/2026 sau bản 3 dòng vẫn bị chê hẹp.

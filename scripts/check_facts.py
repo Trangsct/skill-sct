@@ -43,6 +43,14 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qua-thoi-han-mac-nhien",
+        # Bạn chốt 10/9/2026: công văn xin ý kiến không dùng câu áp đặt "quá thời hạn không có ý kiến được hiểu là thống nhất"
+        "pattern": r"quá thời hạn[^\n]{0,40}(không có ý kiến|không trả lời)[^\n]{0,40}(được hiểu|coi như|xem như) (là )?thống nhất",
+        "why": "Quy tắc 23 vbhc-vn: giọng đề nghị, không ra lệnh — bỏ câu này, thay bằng hạn gửi kèm lý do mềm.",
+        "since": "2026-09-10",
+        "level": "WARN",
+    },
+    {
         "id": "ubnd-chi-dao-khong-cai-dieu-kien-cap-phep",
         # Văn bản chỉ đạo của UBND tỉnh không được đặt điều kiện tiên quyết vào thủ tục cấp phép của ngành khác (Lãnh đạo Sở bác 06/9/2026 — Nhóm K vbhc-vn)
         "pattern": r"chỉ cấp (Giấy phép|GP|Mệnh lệnh) vận chuyển[^\n]{0,120}(phối hợp|kiểm tra thực tế)",

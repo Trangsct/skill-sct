@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.53"
+    "version": "4.11.54"
   },
   "plugins": [
     {
@@ -30,7 +30,7 @@
       "name": "dacn-sct-vn",
       "source": "./dacn-sct-vn",
       "description": "Danh mục dự án công nghiệp phục vụ mục tiêu tăng trưởng tỉnh Lào Cai theo NQ 169/NQ-CP: 09 chỉ tiêu SCT chủ trì, dự án động lực, phân tích SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, kịch bản tăng trưởng, số liệu KCN/KKT, KTXH 6 tháng 2026, dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg (thay QĐ 1131; SP 25 chế biến sâu khoáng sản, đất hiếm) và dự thảo Kế hoạch UBND tỉnh Bài toán lớn số 2 (05 chuỗi giá trị, 16 nhiệm vụ, 42 tỷ).",
-      "version": "1.5.0"
+      "version": "1.5.1"
     },
     {
       "name": "hc-sct-vn",

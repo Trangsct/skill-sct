@@ -1,5 +1,10 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.5.1] - 10/9/2026 — lưu bộ script dựng hồ sơ Bài toán lớn số 2
+
+- `scripts/bai-toan-lon-2/`: build_kh_bt2.py (thân + phụ lục, MODE=body|pl), noi_dung_bt2.py, phu_luc_bt2.py, build_ttr_bt2.py, build_cv_bt2.py (kèm danh sách viện/trường/DN), build_cv_noi_bo_bt2.py (mẫu Văn phòng Sở), bpb_bt2.txt, README. Bản 10/9/2026: 7 điểm nghẽn/7 câu hỏi, kinh phí 365 tỷ, không nêu thứ tự ưu tiên chuỗi thành văn, giọng công văn cầu thị.
+- `plugin.json` → 1.5.1.
+
 ## [1.5.0] - 05/9/2026 — công nghệ chiến lược QĐ 21/2026/QĐ-TTg + Bài toán lớn số 2 (ref 11)
 
 - **`references/11` (MỚI):** QĐ 21/2026/QĐ-TTg ngày 30/4/2026 (hiệu lực 01/7/2026, **thay QĐ 1131/QĐ-TTg** — GATE không dẫn 1131 sau 01/7/2026): 10 nhóm công nghệ (tên đối chiếu 5 nguồn Cổng TTĐT CP, Bộ KH&CN, VTV, VOV, thuvienphapluat) + toàn văn 30 sản phẩm công nghệ chiến lược; ánh xạ sản phẩm 17/18/20/23/25 với đồng, apatit - phốt pho, đất hiếm, graphit, sắt Lào Cai. QĐ 1493/QĐ-TTg 06/8/2026 (Chương trình quốc gia đặc biệt về công nghệ chiến lược — ghi nhận qua bản tin, chưa có bản gốc). Bài toán lớn số 2: chuỗi TB 78/TB-UBND 28/5/2026 → CV 7698/UBND-NC 29/7/2026 → CV 8652/UBND-NC 24/8/2026 (hạn 15/9/2026, không trùng CSDL, chưa thuê tư vấn); 7 sản phẩm dự kiến; cấu trúc dự thảo Kế hoạch UBND tỉnh do SCT dựng 05/9/2026 (11 mục, 16 nhiệm vụ/5 nhóm, 05 chuỗi giá trị, 42.000 triệu NSNN phân kỳ 2026–2030, chỉ tiêu 2030, 3 phụ lục); số liệu hiện trạng dẫn KH 200 + KH 283; nguyên tắc phân công theo NQ 66.25/2026/NQ-CP.

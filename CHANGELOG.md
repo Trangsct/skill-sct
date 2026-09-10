@@ -1,3 +1,5 @@
+## 10/9/2026 — dacn-sct-vn 1.5.1: lưu bộ script dựng hồ sơ Bài toán lớn số 2 (scripts/bai-toan-lon-2/)
+
 ## 10/9/2026 — vbhc-vn 2.18.0: Quy tắc 23 giọng văn công văn xin ý kiến (đề nghị, không ra lệnh; cấm câu "quá thời hạn không có ý kiến…")
 
 ## 2026.09.10 — kccn-sct-vn 1.31.0: KCN Âu Lâu / Mundus Stones — điều chỉnh CTĐT lần 3 đã ban hành (QĐ 257/QĐ-BQLCKCN 10/9/2026) + bộ mẫu 07 điều chỉnh CTĐT dự án thứ cấp trong KCN

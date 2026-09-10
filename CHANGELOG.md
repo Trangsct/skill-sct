@@ -1,3 +1,11 @@
+## 2026.09.10 — kccn-sct-vn 1.31.0: KCN Âu Lâu / Mundus Stones — điều chỉnh CTĐT lần 3 đã ban hành (QĐ 257/QĐ-BQLCKCN 10/9/2026) + bộ mẫu 07 điều chỉnh CTĐT dự án thứ cấp trong KCN
+
+- `references/33` thêm mục **F** (toàn bộ Báo cáo kết quả thẩm định 20/8/2026 của Tổ thẩm định BQLCKCN: thể thức không số văn bản, ký 03 khối, 09 căn cứ, bố cục 7 phần I–VI + VIII, 04 kết luận thẩm định theo Mẫu I.2.1/I.2.7 TT 55/2026/TT-BTC, ký quỹ 562,5 triệu, 07 quy định với nhà đầu tư), mục **G** (VB 1908/CV-MundusStones 19/8/2026 — cam kết tiến độ kết cấu 4 lớp, có lớp tự nguyện chấp nhận chấm dứt dự án nếu chậm do lỗi chủ quan), mục **H** (QĐ 257/QĐ-BQLCKCN 10/9/2026 — thể thức Mẫu I.2.7 không có dòng địa danh-ngày, 09 căn cứ, điểm h khoản 1 Điều 2 "khóa" cam kết, NĐ 19/2026 cho khâu giám sát, nơi nhận có Sở Công Thương).
+- `references/33` cập nhật B.3, B.4 (08 bước), B.5 (bảng đối chiếu tiến độ cũ ↔ mới), B.6 (nguyên văn điểm b k4 Đ.33 Luật 143/2025 + điểm b k1 Đ.28 NĐ 96/2026), C (nhịp 35 ngày, 04 lưu ý mới), D (07 cảnh báo mới — trong đó vênh dòng "khởi công quý II/2026" giữa Báo cáo thẩm định và QĐ 257).
+- `mau-van-ban/07-bo-mau-dieu-chinh-ctdt-du-an-thu-cap-kcn.md` MỚI: checklist 10 điểm + 03 mẫu (báo cáo thẩm định, cam kết tiến độ 4 lớp, quyết định chấp thuận điều chỉnh CTĐT). `mau-van-ban/00-MUC-LUC.md`, `SKILL.md` cập nhật.
+- `van-ban-goc/QD-257-QD-BQLCKCN-10-9-2026-dieu-chinh-CTDT-lan-3-Mundus-TEXT.txt` MỚI (toàn văn trích từ bản PDF ký số).
+- `scripts/check_facts.py`: thêm 02 rule `mundus-ctdt-lan-3-da-ban-hanh` và `mundus-tien-do-quy-3-2026`. `registry/` build lại; `marketplace.json` metadata.version → 4.11.52.
+
 ## 10/9/2026 — sd-vlncn-sct-vn 2026.9.6.5 → 2026.9.10.1: reference 12 thêm mục G báo cáo định kỳ của DN
 
 - `references/12-csdl-vlncn-laocai.md` (máy sinh từ CSDL trang vlncn-laocai) thêm mục G liệt kê báo cáo định kỳ của DN sử dụng VLNCN đã nhận: kỳ, DN, số/ký hiệu, ngày, kho, khối lượng đã dùng và tồn cuối kỳ, liên kết PDF; kèm cảnh báo số liệu do DN tự khai, không thay số tổng hợp toàn tỉnh. Script `scripts/dong_bo_tri_thuc.py` bên repo vlncn-laocai được bổ sung để sinh mục này ở các lượt đồng bộ sau.

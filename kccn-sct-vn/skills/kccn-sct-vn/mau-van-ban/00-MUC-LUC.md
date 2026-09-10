@@ -10,6 +10,7 @@ Bộ biểu mẫu sẵn dùng cho toàn bộ vòng đời quản lý CCN. Chọn
 | `04-bo-mau-bao-cao-ubnd.md` | Báo cáo định kỳ (Biểu 04), báo cáo chuyên đề NQ 34-NQ/TU, báo cáo nhanh một CCN | GĐ Hiền |
 | `05-bo-mau-cong-van-huong-dan.md` | CV hướng dẫn/trả lời DN, hướng dẫn UBND xã (2 cấp), yêu cầu bổ sung hồ sơ | PGĐ Chiến |
 | `06-mau-chinh-thuc-tt14.md` | Nguyên văn Mẫu 01-04 Phụ lục II TT 14/2024 (mẫu pháp lý gốc để đối chiếu) | Theo từng mẫu |
+| `07-bo-mau-dieu-chinh-ctdt-du-an-thu-cap-kcn.md` | **Dự án THỨ CẤP trong KCN — điều chỉnh chủ trương đầu tư:** checklist 10 điểm tiếp nhận hồ sơ; Báo cáo kết quả thẩm định của Tổ thẩm định; văn bản cam kết tiến độ 4 lớp của nhà đầu tư; Quyết định chấp thuận điều chỉnh CTĐT đồng thời chấp thuận nhà đầu tư (Mẫu I.2.7 TT 55/2026/TT-BTC) | Tổ trưởng Tổ thẩm định / người đại diện DN / **Trưởng ban BQLCKCN** |
 
 ## Bản đồ tình huống → mẫu
 
@@ -21,6 +22,7 @@ Bộ biểu mẫu sẵn dùng cho toàn bộ vòng đời quản lý CCN. Chọn
 - **Điều chỉnh/bãi bỏ QĐ** → 01.4 + 02.2/02.3 (điều chỉnh) + reference 11 mục D.
 - **Báo cáo định kỳ/chuyên đề/nhanh** → 04.1/04.2/04.3.
 - **Ban hành/sửa Quy chế CCN tỉnh, Quy chế dịch vụ tiện ích** → 06-Mẫu 03/Mẫu 04.
+- **Dự án thứ cấp trong KCN xin điều chỉnh chủ trương đầu tư (tiến độ, trụ sở, địa điểm…)** → 07 (checklist → 07.1 thẩm định → 07.2 cam kết tiến độ → 07.3 quyết định) + reference 33. Thẩm quyền là **BQL các khu công nghiệp tỉnh**, không phải Sở Công Thương — Sở chỉ góp ý khi được hỏi và nhận quyết định để biết.
 
 ## Người ký — tra nhanh (chi tiết: SKILL.md mục VI, skill `sct-laocai-org-vn`)
 

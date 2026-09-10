@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **593** (Luật 32, NĐ 191, TT 105, QĐ 197, NQ 28, khác 40).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **596** (Luật 32, NĐ 192, TT 105, QĐ 199, NQ 28, khác 40).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **54**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -31,8 +31,8 @@
 | NĐ 217/2026 | 6 | kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn | 01/7/2026 |  |  |
 | NĐ 139/2025 | 6 | attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn |  |  |  |
 | NĐ 146/2025 | 6 | attp-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn |  |  |  |
+| QĐ 5116/QĐ-SCT | 6 | atvsld-sct-vn, kccn-sct-vn, pccc-sct-vn, quy-hoach-ct-vn, vbhc-vn, xp-sct-vn | 20/8/2026 |  |  |
 | QĐ 11/2026/QĐ-UBND | 6 | kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn |  |  |  |
-| NĐ 161/2024 | 5 | hc-sct-vn, hnh-sct-vn, pccc-sct-vn, vbhc-vn, xp-sct-vn |  |  |  |
 
 ## Văn bản đã bị thay thế hoặc đang có dự thảo thay thế — theo dõi
 

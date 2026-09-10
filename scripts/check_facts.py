@@ -153,6 +153,25 @@ RULES = [
         "since": "2026-09-02",
         "level": "FAIL",
     },
+    {
+        "id": "mundus-ctdt-lan-3-da-ban-hanh",
+        # Dự án Mundus Stones (KCN Âu Lâu): QĐ chấp thuận điều chỉnh CTĐT lần 3 ĐÃ ban hành
+        # là QĐ 257/QĐ-BQLCKCN ngày 10/9/2026 — không còn dòng nào được ghi "chưa có/chưa ban hành".
+        "pattern": r"(Quyết định|QĐ)[^\n]{0,80}điều chỉnh (CTĐT|chủ trương đầu tư)[^\n]{0,80}lần (thứ )?0?3[^\n]{0,80}(chưa có|chưa ban hành|chờ ban hành)",
+        "why": "Điều chỉnh CTĐT lần 3 dự án Mundus Stones (KCN Âu Lâu) đã ban hành tại QĐ 257/QĐ-BQLCKCN ngày 10/9/2026 (kccn-sct-vn ref 33 mục H) — cập nhật số/ngày, chỉ còn GCN đăng ký đầu tư điều chỉnh lần 3 là chưa có.",
+        "since": "2026-09-10",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn"],
+    },
+    {
+        "id": "mundus-tien-do-quy-3-2026",
+        # Tiến độ hoàn thành dự án Mundus Stones nay là quý IV/2027 (QĐ 257); quý III/2026 là mốc CŨ theo QĐ 140
+        "pattern": r"^(?!.*(QĐ 140|quyết định số 140|140/QĐ-BQLCKCN|IV/2027|257|cũ|lịch sử|đối chiếu)).*Mundus[^\n]{0,160}(quý|Quý) III/2026",
+        "why": "Tiến độ hoàn thành dự án Mundus Stones sau điều chỉnh lần 3 là quý IV/2027 (QĐ 257/QĐ-BQLCKCN 10/9/2026); mốc quý III/2026 chỉ được nhắc kèm QĐ 140 hoặc chữ 'cũ'/'lịch sử' (kccn-sct-vn ref 33 mục B.5).",
+        "since": "2026-09-10",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn"],
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

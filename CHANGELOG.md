@@ -1,3 +1,9 @@
+## 11/9/2026 — bvmt-sct-vn 1.5.0 + kccn-sct-vn 1.32.0: Kết luận 75-KL/TW (BCH TW, 28/7/2026), CTr 31-CTr/TW (Bộ Chính trị) và CTr 104-CTr/TU (Tỉnh ủy Lào Cai, 30/8/2026) về BVMT, BĐKH thời kỳ mới — chỉ tiêu ngành 2030 + kế hoạch triển khai của Sở
+
+- **bvmt-sct-vn 1.5.0**: `references/11` MỚI (3 văn bản đã GATE số/ngày — CTr 104 lớp text trống số/ngày, ảnh trang 1 ghi Số 104-CTr/TU ngày 30/8/2026, Hoàng Giang ký; 18 chỉ tiêu quốc gia kèm cơ quan theo dõi — Bộ Công Thương giữ 3 chỉ tiêu; 45 nhiệm vụ CTr 31; 15 chỉ tiêu + 24 nhiệm vụ CTr 104 kèm PCT phụ trách; bảng đối chiếu TW ↔ tỉnh ↔ Sở; mục 5 triển khai: 3 nguyên tắc, lịch việc từ 9/2026 với hạn 15/10/2026, đề cương Kế hoạch của Sở 8 nhóm việc, khung công văn gửi Sở NN&MT, 12 anti-error). `van-ban-goc/dang/` 3 PDF + text. Cập nhật SKILL.md, README, ref 02/04/05/07.
+- **kccn-sct-vn 1.32.0**: `references/35` MỚI — chỉ tiêu 100% CCN có XLNT tập trung đạt QC đến 2030 (Bộ Công Thương theo dõi), 100% quan trắc tự động tại KCN/CCN, KCN Tằng Loỏng → KCN sinh thái, 05 hệ quả nghiệp vụ khi thẩm định/đôn đốc/báo cáo.
+- `scripts/check_facts.py`: thêm 3 rule (`ctr-104-khong-phai-du-thao`, `kl-75-ngay-28-7-2026`, `kl-75-cua-bch-tw`).
+
 ## 10/9/2026 — dacn-sct-vn 1.5.1: lưu bộ script dựng hồ sơ Bài toán lớn số 2 (scripts/bai-toan-lon-2/)
 
 ## 10/9/2026 — vbhc-vn 2.18.0: Quy tắc 23 giọng văn công văn xin ý kiến (đề nghị, không ra lệnh; cấm câu "quá thời hạn không có ý kiến…")

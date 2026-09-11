@@ -85,6 +85,8 @@
 
 ## H. Văn bản của tỉnh Lào Cai
 
+31a. **Kết luận số 75-KL/TW ngày 28/7/2026** của Ban Chấp hành Trung ương Đảng khóa XIV (Hội nghị TW 3) về BVMT và chủ động ứng phó BĐKH trong thời kỳ mới — khẳng định NQ 24-NQ/TW (03/6/2013) còn nguyên giá trị và bổ sung; 9 nhóm nhiệm vụ; Phụ lục 18 chỉ tiêu 2026–2030. **Chương trình hành động số 31-CTr/TW ngày 28/7/2026** của Bộ Chính trị thực hiện KL 75 — PL1 gắn cơ quan theo dõi (Bộ Công Thương: chỉ tiêu 4 CCN XLNT 100%, 15 NLTT 26,1%, 16 giảm tiêu hao năng lượng 1–1,5%/năm), PL2 45 nhiệm vụ (Bộ CT chủ trì số 39 công nghiệp môi trường). *(Bản scan có dấu tại `van-ban-goc/dang/`; số/ngày đọc từ ảnh.)* Xem ref 11.
+31b. **Chương trình hành động số 104-CTr/TU ngày 30/8/2026** của Tỉnh ủy Lào Cai thực hiện KL 75-KL/TW và CTr 31-CTr/TW trên địa bàn tỉnh (PBT Thường trực Hoàng Giang ký) — 15 chỉ tiêu 2030 (100% CCN có XLNT tập trung; 100% quan trắc tự động tại KCN/CCN; KCN Tằng Loỏng sinh thái; NLTT ≥ 26,1%; giảm tiêu hao NL 1,0–1,5%/năm; giảm 9% KNK so BAU; 2% ngân sách), 3 nhiệm vụ làm ngay 2026 (quán triệt + Kế hoạch UBND tỉnh trước 15/10/2026), 21 nhiệm vụ lộ trình. *(Bản ký số tại `van-ban-goc/dang/`; số/ngày GATE bằng ảnh — lớp text trống.)* Xem ref 11.
 32. **Chỉ thị số 26-CT/TU** ngày 12/5/2026 của Ban Thường vụ Tỉnh ủy Lào Cai — về tăng cường sự lãnh đạo của Đảng đối với công tác QLNN về BVMT đối với các dự án khai thác khoáng sản, các dự án quy mô lớn trong các khu, cụm công nghiệp trên địa bàn tỉnh Lào Cai. (Đã xác minh số/ngày từ văn bản gốc.) Xem ref 07.
 33. **Đề án số 13** — "Tăng cường quản lý, khai thác có hiệu quả tài nguyên đất, nước, khoáng sản và bảo vệ môi trường gắn với phát triển bền vững giai đoạn 2026–2030", **ban hành kèm theo Nghị quyết số 35-NQ/TU ngày 29/12/2025** của Ban Chấp hành Đảng bộ tỉnh Lào Cai. *(Số/ngày xác minh từ phần viện dẫn trong Chỉ thị 26-CT/TU đã đóng dấu; bản "Dự thảo Đề án số 13" rời không dùng để trích số.)*
 25. Văn bản phân công nhiệm vụ của UBND tỉnh giao Sở Công Thương về BVMT ngành (theo dự thảo/quyết định cụ thể của tỉnh — xác minh khi viện dẫn).
@@ -113,3 +115,5 @@
 | NQ 66.19/2026/NQ-CP | Hiệu lực | Cắt giảm TTHC môi trường |
 | Đề án 13 (NQ 35-NQ/TU 29/12/2025) | **Đã ban hành** | Xác minh qua Chỉ thị 26 |
 | Chỉ thị 26-CT/TU | Đã ban hành 12/5/2026 | Đã xác minh số/ngày |
+| KL 75-KL/TW, CTr 31-CTr/TW (28/7/2026) | Đã ban hành | Bản scan có dấu; NQ 24-NQ/TW còn nguyên giá trị (không bị thay thế) |
+| CTr 104-CTr/TU (30/8/2026) | **Đã ban hành** | Bản ký số — số/ngày chỉ có trên ảnh; KH của UBND tỉnh cụ thể hóa: hạn trước 15/10/2026, chưa ban hành đến 11/9/2026 |

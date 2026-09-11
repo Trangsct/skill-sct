@@ -28,6 +28,11 @@
 ### 3. Nghị quyết Đại hội Đảng bộ tỉnh Lào Cai lần thứ nhất, nhiệm kỳ 2025–2030
 Định hướng phát triển bền vững, gắn tăng trưởng công nghiệp với BVMT. Viện dẫn khi soạn báo cáo/tham mưu chủ trương.
 
+### 4. Kết luận 75-KL/TW (28/7/2026) → Chương trình hành động 31-CTr/TW của Bộ Chính trị (28/7/2026) → Chương trình hành động 104-CTr/TU của Tỉnh ủy (30/8/2026)
+**Khung chủ trương tổng thể BVMT – BĐKH 2026–2030, tầm nhìn 2045** — đứng trên Chỉ thị 26 và Đề án 13. Toàn bộ nội dung, 15 chỉ tiêu của tỉnh, 24 nhiệm vụ Phụ lục 2, lịch việc và đề cương Kế hoạch của Sở: **`references/11-kl75-ctr31-ctr104-tu-trien-khai-sct.md`**. Điểm chốt cho ngành: 100% CCN có XLNT tập trung đạt QC (Bộ CT theo dõi chỉ tiêu quốc gia); 100% nguồn thải lớn tại KCN/CCN quan trắc tự động; **KCN Tằng Loỏng → KCN sinh thái** (PL2 số 20); Nhà máy xử lý CTCN&NH Tằng Loỏng; NLTT ≥ 26,1%, giảm tiêu hao NL 1,0–1,5%/năm; giảm 9% KNK so BAU; thí điểm tuyển khô apatit/đồng/sắt; Kế hoạch UBND tỉnh **trước 15/10/2026** (Sở phải gửi đề xuất phần ngành trước đó).
+
+> ⚠️ CTr 104-CTr/TU: lớp text PDF để trống số/ngày — số 104 và ngày 30/8/2026 đọc từ ảnh trang 1 (bản có dấu, Hoàng Giang ký). Cấm ghi "dự thảo".
+
 ---
 
 ## PHẦN I-bis — KINH PHÍ SỰ NGHIỆP MÔI TRƯỜNG & SỐ LIỆU NỀN CỦA TỈNH (theo BC 892/BC-SNNMT ngày 28/8/2026)
@@ -124,6 +129,9 @@ Số liệu tham chiếu khác trong Phụ lục: BQL Khu kinh tế tỉnh 7.269
 
 ### Mẫu D — Câu trả lời doanh nghiệp về thủ tục môi trường
 > Đề nghị Quý Công ty liên hệ **Sở Nông nghiệp và Môi trường** — cơ quan chủ trì thẩm định, cấp **Giấy phép môi trường / phê duyệt kết quả thẩm định ĐTM / tiếp nhận đăng ký môi trường** theo Luật Bảo vệ môi trường 2020 và Nghị định 08/2022/NĐ-CP (đã sửa đổi). Sở Công Thương sẵn sàng phối hợp về phần nội dung thuộc ngành Công Thương (an toàn hóa chất, công nghiệp môi trường, KNK...).
+
+### Mẫu E-bis — Đoạn tham mưu thực hiện CTr 104-CTr/TU (KL 75, CTr 31)
+> Thực hiện Kết luận số 75-KL/TW ngày 28/7/2026 của Ban Chấp hành Trung ương Đảng khóa XIV, Chương trình hành động số 31-CTr/TW ngày 28/7/2026 của Bộ Chính trị và Chương trình hành động số 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy Lào Cai về bảo vệ môi trường và chủ động ứng phó với biến đổi khí hậu trong thời kỳ mới, Sở Công Thương đề xuất các nhiệm vụ thuộc ngành: (i) lộ trình đến năm 2030 100% cụm công nghiệp có hệ thống xử lý nước thải tập trung đạt quy chuẩn; (ii) đôn đốc cơ sở hóa chất, phân bón, luyện kim lắp đặt, vận hành, truyền dữ liệu quan trắc tự động, liên tục; (iii) xây dựng Khu công nghiệp Tằng Loỏng thành khu công nghiệp sinh thái gắn xử lý dứt điểm bã thải gyps; (iv) sử dụng năng lượng tiết kiệm, hiệu quả và phát triển năng lượng tái tạo; (v) kiểm kê, giảm nhẹ phát thải khí nhà kính các cơ sở ngành Công Thương. *(Chi tiết ref 11 mục 5.)*
 
 ### Mẫu E — Đoạn tham mưu thực hiện Chỉ thị 26-CT/TU
 > Thực hiện Chỉ thị số 26-CT/TU ngày 12/5/2026 của Ban Thường vụ Tỉnh ủy về tăng cường sự lãnh đạo của Đảng đối với công tác quản lý nhà nước về bảo vệ môi trường..., Sở Công Thương báo cáo/đề xuất các nhiệm vụ thuộc ngành: (i) phối hợp kiểm soát nguồn thải khai thác, chế biến khoáng sản, luyện kim, hóa chất; (ii) tham mưu giải pháp xử lý, tái chế bã thải gyps và chất thải rắn công nghiệp gắn kinh tế tuần hoàn; (iii) đôn đốc hoàn thiện hạ tầng xử lý nước thải tập trung tại các khu, cụm công nghiệp; (iv) phòng ngừa, ứng phó sự cố hóa chất tại KCN Tằng Loỏng.

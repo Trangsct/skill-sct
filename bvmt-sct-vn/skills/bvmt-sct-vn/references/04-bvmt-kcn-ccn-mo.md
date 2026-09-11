@@ -30,6 +30,12 @@ Khu sản xuất, kinh doanh, dịch vụ tập trung và cụm công nghiệp p
 - Đôn đốc chủ đầu tư hạ tầng hoàn thiện công trình BVMT trước khi tiếp nhận dự án thứ cấp.
 - Phương án xử lý bãi thải gyps, CTR công nghiệp; mô hình kinh tế tuần hoàn.
 
+### 4-bis. Chỉ tiêu 2030 về hạ tầng BVMT KCN/CCN theo KL 75-KL/TW và CTr 104-CTr/TU (30/8/2026) — đọc ref 11
+- **100% cụm công nghiệp có hệ thống xử lý nước thải tập trung đạt quy chuẩn môi trường** (chỉ tiêu 3 PL1 CTr 104 = chỉ tiêu 4 quốc gia, **Đảng ủy Bộ Công Thương theo dõi, tổng hợp**) → Sở Công Thương là đầu mối số liệu và lộ trình của tỉnh; rà từng CCN đã thành lập, gắn vốn đầu tư công QĐ 2390 (12 CCN Sở làm CĐT — ref 07 I-bis mục 5) và nghĩa vụ CĐT tư nhân.
+- **100% nguồn nước thải, khí thải lớn tại KCN/CCN được quan trắc tự động, liên tục, kết nối dữ liệu** (chỉ tiêu 2); mục 3.4 nêu đích danh nhà máy **hóa chất, phân bón, luyện kim**.
+- **KCN Tằng Loỏng → khu công nghiệp sinh thái** (chỉ tiêu 11 "01 khu"; PL2 số 20, PCT Phan Trung Bá, 2026–2030) và **đẩy nhanh dự án Nhà máy xử lý chất thải công nghiệp và nguy hại tại KCN Tằng Loỏng** (mục 3.4). Từ 15/9/2026 QLNN KCN thuộc ngành Công Thương (NQ 66.25/2026/NQ-CP) → Sở tham mưu lộ trình, tiêu chí KCN sinh thái theo NĐ 35/2022/NĐ-CP, cộng sinh công nghiệp (gyps, xỉ, nhiệt dư).
+- Không cho dự án thứ cấp vận hành khi hạ tầng BVMT của KCN/CCN chưa hoàn thành (Chỉ thị 26 + mục 3.4 CTr 104 "đúng tiến độ… toàn bộ nước thải công nghiệp phải được thu gom, xử lý đạt quy chuẩn").
+
 ---
 
 ## PHẦN II — ĐÓNG CỬA MỎ & CẢI TẠO, PHỤC HỒI MÔI TRƯỜNG

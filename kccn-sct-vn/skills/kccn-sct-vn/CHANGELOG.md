@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.32.0] - 11/9/2026 — Chỉ tiêu 2030 về KCN/CCN theo Kết luận 75-KL/TW, CTr 31-CTr/TW và CTr 104-CTr/TU (Tỉnh ủy, 30/8/2026)
+
+- **`references/35-chi-tieu-bvmt-kcn-ccn-kl75-ctr104.md` (MỚI):** ba văn bản (viện dẫn đúng cơ quan ban hành; GATE số 104/ngày 30/8/2026 từ ảnh vì lớp text trống); bảng chỉ tiêu quốc gia ↔ tỉnh: **100% CCN có XLNT tập trung đạt QC** (Đảng ủy Bộ Công Thương theo dõi chỉ tiêu quốc gia; PCT Phan Trung Bá phụ trách ở tỉnh), 100% nguồn thải lớn tại KCN/CCN quan trắc tự động, **KCN Tằng Loỏng → KCN sinh thái** (PL2 số 20, 2026–2030), Nhà máy xử lý CTCN&NH Tằng Loỏng; đối chiếu NQ 26 (41,7% KCN năm 2026); 05 hệ quả nghiệp vụ (tiêu chí cứng XLNT khi thẩm định/chấm điểm CĐT, bảng theo dõi từng CCN, báo cáo Bộ, lộ trình Tằng Loỏng, cách viện dẫn).
+- `SKILL.md`: mục I thêm trường hợp dùng; bảng reference thêm dòng 35; `references/01` mục E thêm CTr 104-CTr/TU. `plugin.json` → 1.32.0. Bản gốc PDF và phân tích đầy đủ đặt ở bvmt-sct-vn (ref 11, `van-ban-goc/dang/`).
+
 ## [1.31.0] - 10/9/2026 — KCN Âu Lâu / Mundus Stones: vụ điều chỉnh CTĐT lần 3 KẾT THÚC bằng QĐ 257/QĐ-BQLCKCN 10/9/2026 + bộ mẫu 07 điều chỉnh CTĐT dự án thứ cấp trong KCN
 
 - **`references/33` — 03 mục MỚI từ trọn bộ hồ sơ Bạn cung cấp 10/9/2026:**

@@ -27,6 +27,7 @@ Lỗi thường gặp nếu thiếu skill: gán cho Sở Công Thương thẩm q
 
 ### Dữ liệu/bối cảnh thực tiễn Lào Cai được tích hợp
 
+- **Kết luận 75-KL/TW ngày 28/7/2026** (BCH TW khóa XIV), **Chương trình hành động 31-CTr/TW ngày 28/7/2026** (Bộ Chính trị) và **Chương trình hành động 104-CTr/TU ngày 30/8/2026** (Tỉnh ủy Lào Cai) về BVMT và chủ động ứng phó BĐKH trong thời kỳ mới — 15 chỉ tiêu 2030 của tỉnh, 24 nhiệm vụ, lịch triển khai và đề cương Kế hoạch của Sở (reference 11);
 - **Chỉ thị 26-CT/TU ngày 12/5/2026** của BTV Tỉnh ủy (đã xác minh số/ngày) — BVMT khai khoáng và dự án lớn trong KCN/CCN;
 - **Đề án số 13** ban hành kèm **NQ 35-NQ/TU ngày 29/12/2025** (xác minh qua Chỉ thị 26) — tài nguyên, môi trường, phát triển bền vững 2026–2030;
 - **Bãi thải gyps** và **rủi ro sự cố hóa chất** tại KCN Tằng Loỏng;
@@ -46,7 +47,10 @@ bvmt-sct-vn/
     ├── 04-bvmt-kcn-ccn-mo.md         (BVMT khu/cụm công nghiệp + đóng cửa mỏ, cải tạo phục hồi môi trường)
     ├── 05-knk-carbon-bdkh.md         (Kiểm kê/giảm nhẹ KNK, MRV, thị trường các-bon, BĐKH ngành CT)
     ├── 06-su-co-xu-phat-cai-cach.md  (Ứng phó sự cố chất thải/hóa chất; xử phạt VPHC; cải cách TTHC)
-    └── 07-boi-canh-lao-cai.md        (Chỉ thị 26-CT/TU; Đề án 13/NQ 35; gyps Tằng Loỏng; bộ mẫu công việc + FAQ)
+    ├── 07-boi-canh-lao-cai.md        (Chỉ thị 26-CT/TU; Đề án 13/NQ 35; gyps Tằng Loỏng; bộ mẫu công việc + FAQ)
+    ├── 08-hoi-dong-tham-dinh-gpmt.md (Ủy viên HĐ thẩm định GPMT: Mẫu 30/31, checklist 19 điểm)
+    ├── 09-danh-muc-co-so-knk-lao-cai.md, 10-so-tay-trien-khai-knk-sct.md (KNK: 18 cơ sở, lịch năm, khung văn bản)
+    └── 11-kl75-ctr31-ctr104-tu-trien-khai-sct.md (KL 75-KL/TW, CTr 31-CTr/TW, CTr 104-CTr/TU: chỉ tiêu, nhiệm vụ, lịch việc và đề cương Kế hoạch của Sở)
 ```
 
 ## Nguyên tắc bất biến (anti-error)

@@ -43,6 +43,30 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ctr-104-khong-phai-du-thao",
+        # CTr 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy đã ban hành (ký Hoàng Giang, có dấu); lớp text PDF để trống số/ngày nên dễ bị ghi nhầm "dự thảo" — GATE ảnh 11/9/2026
+        "pattern": r"(dự thảo|chưa ban hành|chưa ký|chưa điền số|chưa có số)[^\n]{0,80}(104-CTr/TU|Chương trình hành động[^\n]{0,40}Tỉnh ủy[^\n]{0,60}(75-KL/TW|31-CTr/TW))|(104-CTr/TU)[^\n]{0,80}(dự thảo|chưa ban hành|chưa ký|chưa điền số|chưa có số)",
+        "why": "Chương trình hành động số 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy Lào Cai ĐÃ BAN HÀNH (Hoàng Giang ký, có dấu) — số/ngày chỉ có trên ảnh trang 1, lớp text trống; không kết luận dự thảo từ context (bvmt-sct-vn ref 11 mục 0).",
+        "since": "2026-08-30",
+        "level": "FAIL",
+    },
+    {
+        "id": "kl-75-ngay-28-7-2026",
+        # KL 75-KL/TW và CTr 31-CTr/TW đều ngày 28/7/2026; CTr 104-CTr/TU ngày 30/8/2026 — bắt ngày sai đi kèm số văn bản
+        "pattern": r"(75-KL/TW|31-CTr/TW)[^\n]{0,12}ngày (?!28/7/2026)\d{1,2}/\d{1,2}/\d{4}|104-CTr/TU[^\n]{0,12}ngày (?!30/8/2026)\d{1,2}/\d{1,2}/\d{4}",
+        "why": "Ngày đúng: KL 75-KL/TW và CTr 31-CTr/TW ngày 28/7/2026; CTr 104-CTr/TU ngày 30/8/2026 (bản có dấu tại bvmt-sct-vn/van-ban-goc/dang/).",
+        "since": "2026-07-28",
+        "level": "FAIL",
+    },
+    {
+        "id": "kl-75-cua-bch-tw",
+        # KL 75-KL/TW do Ban Chấp hành Trung ương (Hội nghị TW 3 khóa XIV) ban hành; CTr 31-CTr/TW mới là của Bộ Chính trị
+        "pattern": r"(Kết luận|KL)[^\n]{0,8}75-KL/TW[^\n]{0,40}của Bộ Chính trị|31-CTr/TW[^\n]{0,40}của Ban Chấp hành Trung ương",
+        "why": "KL 75-KL/TW là của Ban Chấp hành Trung ương Đảng khóa XIV (Tổng Bí thư Tô Lâm ký); Chương trình hành động 31-CTr/TW là của Bộ Chính trị (Trần Cẩm Tú ký) — bvmt-sct-vn ref 11 anti-error 1.",
+        "since": "2026-07-28",
+        "level": "FAIL",
+    },
+    {
         "id": "qua-thoi-han-mac-nhien",
         # Bạn chốt 10/9/2026: công văn xin ý kiến không dùng câu áp đặt "quá thời hạn không có ý kiến được hiểu là thống nhất"
         "pattern": r"quá thời hạn[^\n]{0,40}(không có ý kiến|không trả lời)[^\n]{0,40}(được hiểu|coi như|xem như) (là )?thống nhất",

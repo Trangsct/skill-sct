@@ -15,6 +15,8 @@
 | Vốn hoàn thiện hạ tầng KH 134 | 68 tỷ đồng (gói 285 tỷ của 04 KCN) | QĐ 1902 + QĐ 2339 (ref 19) |
 | QHCT cũ (nền) | QĐ 2077/QĐ-UBND 25/12/2008; QĐ 02/QĐ-UBND 04/01/2021 (Chủ tịch UBND tỉnh Yên Bái); điều chỉnh cục bộ QĐ 109/QĐ-BQLCKCN 27/6/2025 | TB 76 phần căn cứ |
 
+Đề xuất của Công ty CP Create Capital Việt Nam (VB 2008/CV-CRC 20/8/2026 → CV 910-CV/VPTU, 2347-CV/ĐU 26/8 → CV 8933/UBND-KT 02/9/2026, BQLCKCN chủ trì, báo cáo trước 20/9/2026): đầu tư kinh doanh hạ tầng phần mở rộng ~52 ha — **Bạn chốt 11/9/2026: 52 ha này NẰM TRONG ranh giới 160 ha theo QĐ 525** (không phải mở rộng ra ngoài quy hoạch). SCT tham gia ý kiến bằng CV SCT-CN (PGĐ Chiến ký, CN(Trung)) — 3 ý: phù hợp QH; đề nghị BQL xác định ranh giới, hiện trạng, quan hệ với dự án hạ tầng vốn NSNN (KHÔNG tự khẳng định 52 ha thuộc dự án nào); điều kiện KCN mở rộng NĐ 35/2022 + mô hình DN kinh doanh hạ tầng trên KCN vốn NSNN; tách nhu cầu đất của chính Công ty khỏi đề xuất kinh doanh hạ tầng. Không dẫn NQ 66.25 trước 15/9/2026.
+
 Phân biệt: KCN Minh Quân (160 ha, phường Âu Lâu) KHÁC **CCN Minh Quân** (CĐT Bảo Hưng, TMĐT 245,201 tỷ, khởi công dự kiến 10/2026 — ref 30 mục B.1, C).
 
 ## B. ĐỒ ÁN QHPK KCN MINH QUÂN — THÔNG TIN CHÍNH

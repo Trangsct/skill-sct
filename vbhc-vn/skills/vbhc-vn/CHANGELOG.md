@@ -1,3 +1,9 @@
+## [2.18.1] - 11/9/2026 — Nhóm A, D bổ sung từ vụ CV mở rộng KCN Minh Quân (Create Capital)
+
+- **reference/phong-tranh-sai-lam.md Nhóm A**: cấm ghép 2 dữ kiện trong reference plugin thành kết luận mới về vụ việc (viết "52 ha thuộc phạm vi dự án QĐ 767" khi không có căn cứ); hiện trạng KCN do BQL quản lý chỉ viết dạng đề nghị rà soát; mỗi câu khẳng định trong bản trình ký phải có đúng 1 nguồn gốc. Ghi lại 3 lỗi thật 11/9/2026 (52 ha nằm trong 160 ha QĐ 525 — Bạn đính chính; suy diễn phạm vi dự án đầu tư công; ghi hiện trạng XLNT từ số liệu 31/7 vào văn bản tháng 9).
+- **Nhóm D**: không viện dẫn văn bản CHƯA có hiệu lực tại ngày ký; bỏ nội dung không liên quan trực tiếp (vụ NQ 66.25/2026 hiệu lực 15/9/2026).
+- SKILL.md mục A, D cập nhật tương ứng. `plugin.json` → 2.18.1.
+
 ## [2.18.0] - 10/9/2026 — Quy tắc 23 giọng văn công văn xin ý kiến
 
 - SKILL.md Quy tắc 23: giọng đề nghị ("kính đề nghị quý cơ quan", "xin gửi về", "rất mong nhận được sự quan tâm, phối hợp"); cấm tuyệt đối câu "quá thời hạn không có ý kiến được hiểu là thống nhất"; hạn gửi kèm lý do mềm. Nguồn: Bạn sửa công văn xin ý kiến Bài toán lớn số 2 ngày 10/9/2026.

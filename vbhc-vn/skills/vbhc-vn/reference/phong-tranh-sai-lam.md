@@ -9,6 +9,8 @@ Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn
 - Tính theo công thức trong luật (tỷ lệ VCSH, dư nợ vay, suất đầu tư): viết rõ công thức, đối chiếu 2 chiều.
 - **Tuyệt đối không tự thêm điều kiện** ("phù hợp chuyên ngành", "trung cấp trở lên", "có chứng chỉ X") nếu luật không nói.
 - Vụ thật: bịa "QĐ 1099/QĐ-UBND"; trích sai Điều 5 (đúng Điều 8) NĐ 105/2017; suy diễn "chứng minh số dư tiền gửi" theo NĐ 96/2024; tính nhầm VCSH CCN ≥20 ha (đúng 15%).
+- **Dữ liệu trong reference plugin KHÔNG được ghép thành kết luận mới về vụ việc.** Reference có "dự án X của KCN Y đã được bố trí vốn" và hồ sơ có "đề xuất mở rộng Z ha tại KCN Y" → KHÔNG được viết "Z ha thuộc phạm vi dự án X". Mối quan hệ giữa hai dữ kiện phải có văn bản/bản đồ xác nhận; chưa có thì chỉ được viết dạng "đề nghị [cơ quan chủ trì] rà soát mối quan hệ giữa ... với ...".
+- Vụ thật 11/9/2026 (CV tham gia ý kiến đề xuất mở rộng KCN Minh Quân của Create Capital, gửi BQLCKCN): (1) viết "52 ha chưa có trong Quy hoạch tỉnh, Công ty dẫn quy hoạch chưa đúng" — sai, 52 ha nằm trong ranh giới 160 ha QĐ 525 (Bạn đính chính); (2) sau đó viết "phần diện tích này thuộc phạm vi dự án hoàn thiện hạ tầng và GPMB KCN Minh Quân (QĐ 767, 500 tỷ, bố trí 100 tỷ QĐ 2390)" — suy diễn từ ref 22/25, không có căn cứ 52 ha nằm trong dự án; (3) khẳng định "trạm XLNT đang thi công, chưa hoàn thành" lấy từ báo cáo chốt 31/7/2026 ghi vào văn bản trình ký tháng 9. Bạn nhận xét "hôm nay bịa ra nhiều thế". Quy tắc rút ra: hiện trạng KCN (đất, GPMB, dự án đầu tư công, XLNT) do BQL các KCN quản lý — Sở chỉ ĐỀ NGHỊ BQL xác định/rà soát, không tự khẳng định; mỗi câu khẳng định trong văn bản trình ký phải chỉ được đúng 1 nguồn gốc (văn bản, bản đồ, số liệu do cơ quan chủ quản cung cấp), không được là phép ghép 2 nguồn.
 
 ### Nhóm B — Tự suy diễn nhiệm vụ ngoài văn bản chỉ đạo
 - Đọc kỹ phần "yêu cầu/giao nhiệm vụ" của văn bản nguồn; phân loại: giao đích danh cơ quan mình / giao cơ quan khác (chỉ phối hợp) / giao chung.
@@ -38,6 +40,8 @@ Văn bản hành chính chỉ có 3 trạng thái: **khẳng định** (dẫn c�
 
 - VB còn hiệu lực nhưng đã sửa đổi → ghi đầy đủ: "NĐ 31/2021/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 239/2025/NĐ-CP)".
 - Lĩnh vực thay đổi nhanh (hóa chất, đầu tư, đất đai, môi trường, xây dựng, đấu thầu): luôn search trước khi viết.
+
+- **Văn bản CHƯA có hiệu lực cũng không được viện dẫn trong văn bản trình ký** (đối xứng với hết hiệu lực): NQ/NĐ ký rồi nhưng ngày hiệu lực còn ở tương lai so với ngày ký văn bản của Sở → không dẫn, không dùng làm căn cứ "trình tự thủ tục sau này"; chỉ nhắc ở phần trao đổi với Bạn. Nếu nội dung không liên quan trực tiếp việc đang tham mưu thì bỏ hẳn, kể cả khi đã có hiệu lực (Bạn: "không nên trình bày các nội dung không liên quan"). Vụ thật 11/9/2026: đưa NQ 66.25/2026/NQ-CP (hiệu lực 15/9/2026) vào công văn tham gia ý kiến ký tháng 9/2026 trước ngày 15/9 — Bạn yêu cầu bỏ.
 
 ### Nhóm E — Tin context window đối với PDF có header 2 cột
 - **DỪNG mọi thao tác**, chạy ngay `scripts/extract_metadata.py` (xem mục "Đọc PDF văn bản đến") khi nhận PDF là VBHC VN (tên file CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/BYT/SCT…, hoặc context có "ỦY BAN NHÂN DÂN/BỘ/SỞ/HĐND/CHÍNH PHỦ"):

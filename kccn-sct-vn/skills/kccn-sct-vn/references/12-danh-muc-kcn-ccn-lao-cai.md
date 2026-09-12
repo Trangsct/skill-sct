@@ -16,7 +16,7 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 | Tằng Loỏng | Xã Tằng Loỏng | 1.100 |
 | Phía Nam | Phường Văn Phú | 400 (điều chỉnh QHPK Khu A 399,24 ha qua HĐTĐ 04/9/2026, TB 77/TB-HĐTĐ → reference 34 mục G) |
 | Âu Lâu | Phường Âu Lâu, xã Quy Mông | 155 (QHPK 120 ha hiện hữu qua HĐTĐ 04/9/2026, TB 78/TB-HĐTĐ; hồ sơ Mundus Stones → reference 33) |
-| Trấn Yên | Phường Âu Lâu | 339 |
+| Trấn Yên | Phường Âu Lâu | 339 (QHPK GĐ I 254,59 ha - QĐ 1506/QĐ-UBND 31/8/2022 tỉnh Yên Bái, điều chỉnh cục bộ QĐ 161/QĐ-BQLCKCN 12/6/2026; NĐT Viglacera; GPMB khu phía Tây 109 ha, khu phía Đông 145,59 ha đang kiểm kê - ref 36) |
 | Minh Quân | Phường Âu Lâu | 160 (QHPK qua HĐTĐ 04/9/2026, TB 76/TB-HĐTĐ → reference 34) |
 
 ### KCN mới được chấp thuận chủ trương đầu tư (05 — cập nhật 23/7/2026, chi tiết reference `15`)

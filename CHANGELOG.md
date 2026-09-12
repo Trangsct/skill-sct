@@ -1,3 +1,8 @@
+## 12/9/2026 — kccn-sct-vn 1.34.0: kỳ cập nhật tiến độ thủ tục CCN từ dây chuyền TỰ ĐỘNG Data360X (lượt quét đầu tiên gom cả văn bản đi và đến)
+
+- **kccn-sct-vn 1.34.0**: `references/37` MỚI — CCN Xuân Ái có Hội đồng (QĐ 3226/QĐ-UBND 09/9) và **họp chấm điểm 14/9/2026**, Sở Tài chính (561/PG-VBNB2026) là ý kiến duy nhất đề nghị sửa dự thảo tiêu chí; **CCN Châu Quế: TTr 196/TTr-UBND 11/9 thay TTr 68/TTr-UBND 11/5**, chốt 31 ha thôn Khe Pháo, CĐT Thịnh Vượng Long; **CCN Tân Hợp: đơn 02/CV-GR của PH Group** (75 ha, 794,267 tỷ, vốn CSH đúng 15%); **chế độ báo cáo tuần mới của CĐT hạ tầng** (trước 16h thứ Năm, tuần đầu 17/9, chế tài k2 Đ.12 NĐ 32); **08 CCN vốn NSNN hạn trình tỉnh 15/10/2026**. Hai cảnh báo GATE: tờ trình Châu Quế chưa viện dẫn NĐ 303/2026; đơn PH Group ghi sai "QĐ 525/QĐ-TTg".
+- Nguồn: bot Data360X chạy trên máy cơ quan qua GitHub Actions, nay gom **cả văn bản đi lẫn văn bản đến** và xếp theo lĩnh vực của từng plugin; bản tin + bản gốc lưu ở kho riêng tư `vlncn-laocai`, thư mục `theo-doi/`.
+
 ## 11/9/2026 — vbhc-vn 2.18.1: Nhóm A/D bổ sung lỗi nghiêm trọng 11/9 (ghép dữ kiện reference thành kết luận về 52 ha KCN Minh Quân; dẫn NQ 66.25 chưa hiệu lực)
 
 ## 11/9/2026 — bvmt-sct-vn 1.5.0 + kccn-sct-vn 1.32.0: Kết luận 75-KL/TW (BCH TW, 28/7/2026), CTr 31-CTr/TW (Bộ Chính trị) và CTr 104-CTr/TU (Tỉnh ủy Lào Cai, 30/8/2026) về BVMT, BĐKH thời kỳ mới — chỉ tiêu ngành 2030 + kế hoạch triển khai của Sở

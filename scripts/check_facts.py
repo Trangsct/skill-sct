@@ -43,6 +43,23 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ccn-chau-que-to-trinh-196",
+        # Bản gốc lấy từ Data360X 12/9/2026: UBND xã Châu Quế trình Tờ trình 196/TTr-UBND ngày 11/9/2026,
+        # chính nó ghi thay thế Tờ trình 68/TTr-UBND ngày 11/5/2026 (bản 75 ha). Số 187 là của xã Tân Hợp.
+        "pattern": r"^(?!.*196/TTr-UBND)(?:.*Châu Quế[^\n]{0,120}Tờ trình số 187|.*Tờ trình số 187[^\n]{0,120}Châu Quế)",
+        "why": "Hồ sơ thành lập CCN Châu Quế hiện hành là Tờ trình 196/TTr-UBND ngày 11/9/2026 của UBND xã Châu Quế (thay thế Tờ trình 68/TTr-UBND ngày 11/5/2026); Tờ trình số 187 ngày 04/9/2026 là của UBND xã Tân Hợp — xem kccn-sct-vn ref 37 mục B.",
+        "since": "2026-09-11",
+        "level": "FAIL",
+    },
+    {
+        "id": "ccn-chau-que-31-ha",
+        # Quy mô chốt tại Tờ trình 196: 31 ha tại thôn Khe Pháo (giảm từ 75 ha do vướng hầm, tuyến đường sắt)
+        "pattern": r"^(?!.*(?:thay thế|quy mô cũ|giảm|68/TTr-UBND|31 ha)).*(?:CCN|[Cc]ụm công nghiệp) Châu Quế[^\n]{0,60}\b75\s*ha",
+        "why": "CCN Châu Quế chốt 31 ha tại thôn Khe Pháo theo Tờ trình 196/TTr-UBND ngày 11/9/2026; 75 ha là quy mô cũ đã bị thay thế (kccn-sct-vn ref 37 mục B).",
+        "since": "2026-09-11",
+        "level": "FAIL",
+    },
+    {
         "id": "ctr-104-khong-phai-du-thao",
         # CTr 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy đã ban hành (ký Hoàng Giang, có dấu); lớp text PDF để trống số/ngày nên dễ bị ghi nhầm "dự thảo" — GATE ảnh 11/9/2026
         "pattern": r"(dự thảo|chưa ban hành|chưa ký|chưa điền số|chưa có số)[^\n]{0,80}(104-CTr/TU|Chương trình hành động[^\n]{0,40}Tỉnh ủy[^\n]{0,60}(75-KL/TW|31-CTr/TW))|(104-CTr/TU)[^\n]{0,80}(dự thảo|chưa ban hành|chưa ký|chưa điền số|chưa có số)",

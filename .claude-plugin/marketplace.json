@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.60"
+    "version": "4.11.61"
   },
   "plugins": [
     {
@@ -53,8 +53,8 @@
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT (thang 100); điều kiện khởi công; HĐ thẩm định quy hoạch KCN; điều chỉnh CTĐT dự án thứ cấp trong KCN (mẫu 07); tra QĐ 525, 1382, 2390, NQ 34-NQ/TU; chỉ tiêu 2030 KL 75-KL/TW - CTr 104-CTr/TU (100% CCN có XLNT, KCN Tằng Loỏng sinh thái). Khung 9/2026: Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026, NĐ 32/2024, 139/2025, 178/2026, 303/2026.",
-      "version": "1.32.0"
+      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp; tham mưu hồ sơ trình, tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT (thang 100); điều kiện khởi công; HĐ thẩm định quy hoạch KCN; điều chỉnh CTĐT dự án thứ cấp trong KCN (mẫu 07); tra QĐ 525, 1382, 2390, NQ 34-NQ/TU; chỉ tiêu 2030 KL 75-KL/TW - CTr 104-CTr/TU (100% CCN có XLNT, KCN Tằng Loỏng sinh thái). Khung 9/2026: Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026, NĐ 32/2024, 139/2025, 178/2026, 303/2026. Số liệu KCN kỳ 12/9/2026, công thức ước giá trị xây dựng theo quý và bảng mã ngành VSIC (hạ tầng KCN/CCN = 42990): ref 36. Tiến độ thủ tục CCN kỳ 12/9/2026 (Xuân Ái họp chấm điểm 14/9, Châu Quế TTr 196 thay TTr 68, Tân Hợp đơn PH Group, báo cáo tuần của CĐT hạ tầng, 08 CCN vốn NSNN hạn 15/10): ref 37.",
+      "version": "1.34.0"
     },
     {
       "name": "kho-vlncn-sct-vn",

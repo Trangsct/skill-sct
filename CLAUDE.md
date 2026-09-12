@@ -6,6 +6,25 @@
 - Lý do Bạn chốt: cần hiệu quả công việc, đã có nhiều bản sao lưu nên ưu tiên nhanh, không lo sai lệch dữ liệu.
 - Quy tắc merge-ngay này áp dụng cho việc nâng cấp skill/plugin; việc khác ngoài phạm vi đó thì vẫn hỏi trước khi merge.
 
+## Nguồn cập nhật plugin hằng tuần (Bạn chốt 12/9/2026)
+
+Bot Data360X quét **cả văn bản đi lẫn văn bản đến** của Sở (11h30 thứ Tư hằng tuần, hoặc bấm tay ở Actions
+kho `vlncn-laocai` → *Quet Data360X (may co quan)*), xếp theo lĩnh vực của từng plugin ở đây, tải bản gốc về
+`theo-doi/` của kho **riêng tư** `vlncn-laocai` kèm bản tin `theo-doi/bao-cao/<ngày>.md`.
+
+**Đầu mỗi phiên làm việc với bộ plugin: đọc bản tin mới nhất đó trước.** Mỗi mục trong bản tin ghi rõ văn
+bản thuộc plugin nào và đường dẫn PDF. Đọc PDF → có quy định/số liệu mới thì sửa plugin tương ứng theo quy
+trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn là đã rà.
+
+Ba điều bắt buộc:
+
+- **Không chép văn bản nội bộ sang kho này.** `skill-sct` công khai ra Internet; bản gốc văn bản đi/đến chỉ
+  nằm ở kho riêng tư. Cập nhật plugin thì viết lại nội dung quy định, dẫn số hiệu và ngày, không đính kèm bản gốc.
+- **Không bịa số, ngày, tên.** Đọc được gì trong PDF thì ghi nấy; PDF ký số phải chạy
+  `vbhc-vn/skills/vbhc-vn/scripts/extract_metadata.py` trước khi ghi số/ngày (xem mục dưới).
+- Mục *"Chưa xếp được vào plugin nào"* trong bản tin: chủ đề nào lặp lại nhiều lần là dấu hiệu cần **lập
+  plugin mới** — đề xuất với Bạn.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

@@ -6,7 +6,10 @@ Dùng làm phần "Thực hiện..." trong công văn, báo cáo. Số/ngày đ�
 
 | Văn bản | Nội dung |
 |---|---|
-| **NQ 10-NQ/TW ngày 10/02/2022** của Bộ Chính trị | Định hướng chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 |
+| **NQ 10-NQ/TW ngày 10/02/2022** của Bộ Chính trị | Định hướng chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045. Thay NQ 02-NQ/TW ngày 25/4/2011. Toàn văn + phần việc của Sở: **reference 24** |
+| **NQ 88/NQ-CP ngày 22/7/2022** của Chính phủ — KT. TTg, PTT Lê Văn Thành | Chương trình hành động của Chính phủ thực hiện NQ 10-NQ/TW; danh mục **18 nhiệm vụ**. Hai nghĩa vụ thường xuyên của tỉnh: **hằng năm bố trí kinh phí bảo vệ khoáng sản chưa khai thác** + **báo cáo kết quả trước 31/12 hằng năm**. **Reference 24** |
+| **QĐ 334/QĐ-TTg ngày 01/4/2023** — KT. TTg, PTT Trần Hồng Hà | Phê duyệt **Chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến năm 2030, tầm nhìn đến năm 2045**. Chứa định hướng nêu đích danh Lào Cai (đồng, sắt Quý Xa, đất hiếm, apatit, đá hoa trắng) + mốc hạn còn phải đối chiếu khi báo cáo. **Reference 24** |
+| **QĐ 154/QĐ-TTg ngày 29/01/2022** | Kéo dài kỳ quy hoạch KS làm VLXD, KS làm xi măng — **lịch sử**, hết vai trò khi QĐ 1626/QĐ-TTg 15/12/2023 ban hành; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. **Reference 24** mục IV |
 | **Chỉ thị 38/CT-TTg** (*) | Tăng cường quản lý khoáng sản — tỉnh có Báo cáo kết quả thực hiện (bản word tại `van-ban-goc/BC-tinh-ket-qua-Chi-thi-38-TTg.docx`) |
 | **CV 4250/BNNMT-ĐCKS ngày 29/4/2026** | Tăng cường thanh tra, kiểm tra hoạt động khoáng sản |
 | **CV 4643/VPCP-CN ngày 20/5/2026** | Tăng cường công tác quản lý khai thác khoáng sản |

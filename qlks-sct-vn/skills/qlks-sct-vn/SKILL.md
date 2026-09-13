@@ -1,6 +1,6 @@
 ---
 name: qlks-sct-vn
-description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024, 147/2025. TỪ 15/9/2026 Sở tiếp nhận toàn bộ chức năng địa chất, khoáng sản từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, kiểm soát sản lượng, dữ liệu, xử phạt; Bộ Công Thương thay Bộ NN&MT). Kích hoạt: NQ 66.25, chuyển giao chức năng khoáng sản, hội đồng thẩm định đề án thăm dò, QĐ 777/QĐ-UBND, thu hồi khoáng sản, nạo vét lòng hồ thủy điện, đất đá thải mỏ, quặng đuôi, tận thu, đóng cửa mỏ, trạm cân, GĐĐH mỏ. 13 nghiệp vụ: phân vai theo thời kỳ; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; kiểm tra thiết kế mỏ, đình chỉ; báo cáo Chỉ thị 11, 26-CT/TU; rà chồng lấn dự án, CCN; thống kê sản lượng; nguồn thu KS; thu hồi khoáng sản trọn hồ sơ; ủy viên Hội đồng thăm dò; xác minh ranh giới mỏ giáp ranh; tiếp nhận chức năng NQ 66.25. Từ khóa: NĐ 193/2025 + 21/2026, NĐ 150/2025, TT 24+43/2025, TT 26/2026, TT 36/2025, apatit, đất hiếm, Điều 108."
+description: "KHOÁNG SẢN - QLNN của Sở Công Thương Lào Cai theo Luật ĐC&KS 54/2024, 147/2025. TỪ 15/9/2026 Sở tiếp nhận toàn bộ chức năng địa chất, khoáng sản từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, kiểm soát sản lượng, dữ liệu, xử phạt; Bộ Công Thương thay Bộ NN&MT). Kích hoạt: NQ 66.25, chuyển giao chức năng khoáng sản, hội đồng thẩm định đề án thăm dò, QĐ 777/QĐ-UBND, thu hồi khoáng sản, nạo vét lòng hồ thủy điện, đất đá thải mỏ, quặng đuôi, tận thu, đóng cửa mỏ, trạm cân. 13 nghiệp vụ: phân vai theo thời kỳ; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc, đối chiếu VLNCN - sản lượng; kiểm tra thiết kế mỏ, đình chỉ; báo cáo Chỉ thị 11, 26-CT/TU; rà chồng lấn dự án, CCN; thống kê sản lượng; thu hồi khoáng sản; ủy viên Hội đồng thăm dò; ranh giới mỏ giáp ranh; tiếp nhận chức năng NQ 66.25. Viện dẫn NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334/QĐ-TTg: ref 24. Từ khóa: NĐ 193/2025 + 21/2026, NĐ 150/2025, TT 24+43/2025, TT 36/2025, apatit, đất hiếm, Điều 108."
 ---
 
 # qlks-sct-vn — Quản lý nhà nước về khoáng sản (Sở Công Thương tỉnh Lào Cai)
@@ -11,7 +11,7 @@ Plugin đóng vai **chuyên gia QLNN về khoáng sản của Sở Công Thươn
 
 1. **Đứng đúng vai Sở Công Thương theo từng thời kỳ** — ⭐ **Từ 15/9/2026, theo Nghị quyết 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ, Sở Công Thương là cơ quan tham mưu, giúp UBND tỉnh thực hiện chức năng QLNN về địa chất và khoáng sản** (tiếp nhận từ Sở NN&MT, Sở Xây dựng: quy hoạch, cấp phép, tiền cấp quyền, đấu giá, kiểm soát sản lượng, đóng cửa mỏ, dữ liệu khoáng sản, xử phạt; cấp Bộ chuyển từ Bộ NN&MT, Bộ XD về Bộ Công Thương) — reference `23` là GATE bắt buộc. Trước 15/9/2026 (hồ sơ cũ): SCT KHÔNG tham mưu cấp giấy phép thăm dò/khai thác (việc của Bộ NN&MT / Chủ tịch UBND tỉnh qua Sở NN&MT); SCT chỉ quản lý công nghiệp khai thác mỏ và chế biến khoáng sản (trừ VLXD thông thường và xi măng), VLNCN, kỹ thuật an toàn khai thác, kế hoạch quản lý rủi ro, thiết kế mỏ nhóm I, phương án khai thác - sử dụng khoáng sản nhóm I trong quy hoạch tỉnh (Điều 4 TT 37/2025/TT-BCT). Ở cả hai thời kỳ, **thẩm quyền cấp** giấy phép vẫn là Chủ tịch UBND tỉnh/Bộ — Sở chỉ thẩm định, trình.
 2. **Nắm khung pháp lý mới toàn diện** — Luật 54/2024 (hiệu lực 01/7/2025), Luật 147/2025 (01/01/2026), NĐ 193/2025 → NĐ 21/2026, NQ 66.19/2026 phân quyền 9 nhóm TTHC về Chủ tịch UBND cấp tỉnh, **NQ 66.25/2026 chuyển chức năng về Công Thương (15/9/2026 – 28/02/2027, tạm thời theo NQ 206/2025/QH15)**, chùm Thông tư BCT và BNNMT — kèm GATE chuyển tiếp (mục III).
-3. **Phục vụ chỉ đạo của tỉnh** — Chỉ thị 11-CT/TU ngày 04/01/2026 (QLNN khoáng sản), Chỉ thị 26-CT/TU ngày 12/5/2026 (BVMT dự án khai thác KS), CV 5973/UBND-KT ngày 11/6/2026 (tăng cường thanh kiểm tra), KH 200/KH-UBND (CTr 39-CTr/TU thực hiện NQ 10-NQ/TW), Chỉ thị 38/CT-TTg.
+3. **Phục vụ chỉ đạo của tỉnh và chủ trương, chiến lược của trung ương** — Chỉ thị 11-CT/TU ngày 04/01/2026 (QLNN khoáng sản), Chỉ thị 26-CT/TU ngày 12/5/2026 (BVMT dự án khai thác KS), CV 5973/UBND-KT ngày 11/6/2026 (tăng cường thanh kiểm tra), KH 200/KH-UBND ngày 05/5/2026 (CTr 39-CTr/TU thực hiện NQ 10-NQ/TW), Chỉ thị 38/CT-TTg. Lớp trên: **NQ 10-NQ/TW 10/02/2022 → NQ 88/NQ-CP 22/7/2022 → QĐ 334/QĐ-TTg 01/4/2023** (Chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045) — cách viết căn cứ, mốc hạn còn phải đối chiếu, định hướng nêu đích danh Lào Cai: **reference `24`**.
 
 Kích hoạt khi:
 - Soạn công văn, báo cáo, kế hoạch kiểm tra, tham mưu đình chỉ liên quan hoạt động khoáng sản thuộc phần việc SCT.
@@ -23,7 +23,7 @@ Kích hoạt khi:
 **KHÔNG thuộc trọng tâm (dẫn sang plugin khác)** — chi tiết reference `11`:
 - Thẩm định thiết kế mỏ (TKCS/TKKT/TKBVTC, TT 31/2025) → **`tkm-sct-vn`**
 - Giấy phép sử dụng VLNCN, PANM → **`sd-vlncn-sct-vn`**; kho VLNCN → **`kho-vlncn-sct-vn`**; GCN huấn luyện KTAT **VLNCN** → **`hl-vlncn-sct-vn`** (lưu ý: GCN KTAT *khai thác khoáng sản* mỏ hầm lò theo TT 43/2025 thuộc plugin NÀY, khác GCN KTAT VLNCN theo NĐ 181/2024)
-- Quy hoạch khoáng sản (QĐ 866/QĐ-TTg, QĐ 1626/QĐ-TTg, QĐ 525/QĐ-UBND, 6 mỏ đấu giá) → **`quy-hoach-ct-vn`**
+- Quy hoạch khoáng sản (QĐ 866/QĐ-TTg, QĐ 1626/QĐ-TTg, QĐ 2581/QĐ-TTg, QĐ 525/QĐ-UBND, 6 mỏ đấu giá); toàn văn NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334, QĐ 154 → **`quy-hoach-ct-vn`** (ref 10; plugin này giữ phần việc của Sở ở ref `24`)
 - ĐTM/GPMT, đóng cửa mỏ khía cạnh môi trường, ký quỹ PHMT → **`bvmt-sct-vn`**
 - Khung xây dựng (BCNCKT, khởi công, KTCTNT) → **`xd-sct-vn`**; PCCC → **`pccc-sct-vn`**
 - Thể thức, render docx → **`vbhc-vn`**; PDF đến → GATE **`vbhc-pdf-reader-vn`**; người ký/người soạn → **`sct-laocai-org-vn`**
@@ -185,6 +185,12 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
               22 xác minh kiến nghị lấn chiếm ranh giới mỏ giáp ranh — mẫu chuẩn vụ
                  Đại Đồng Tiến 8/2026: dòng thời gian 18 ngày, phương pháp GPS VN2000
                  + đối chiếu 3 lớp, khuôn biên bản + báo cáo, 7 bài học, câu mẫu SCT
+              24 CHỦ TRƯƠNG - CHIẾN LƯỢC cấp trên (NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334/QĐ-TTg,
+                 QĐ 154/QĐ-TTg lịch sử): khi nào dẫn - khi nào không, thứ tự căn cứ,
+                 2 nghĩa vụ thường xuyên của tỉnh (kinh phí bảo vệ KS chưa khai thác;
+                 báo cáo trước 31/12), mốc hạn 2025/2030, định hướng nêu tên Lào Cai
+                 (đồng, sắt Quý Xa, đất hiếm, apatit, đá hoa trắng, VLXDTT), 3 loại
+                 dự trữ KS quốc gia của tỉnh, 8 anti-error
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT

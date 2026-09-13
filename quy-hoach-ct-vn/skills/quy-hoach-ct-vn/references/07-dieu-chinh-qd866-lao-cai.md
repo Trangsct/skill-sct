@@ -2,7 +2,7 @@
 
 Reference này bổ sung dữ liệu **danh mục mỏ khoáng sản nhóm I trên địa bàn Lào Cai**, từ hai nguồn:
 
-- **(A) QĐ 2581/QĐ-TTg ngày 24/11/2025** — **đã ký**, điều chỉnh QĐ 866 cho mỏ đồng Tả Phời.
+- **(A) QĐ 2581/QĐ-TTg ngày 24/11/2025** — **đã ký**, điều chỉnh QĐ 866 tại 03 khu vực của 03 tỉnh, trong đó Phụ lục II là **mỏ đồng Tả Phời (Lào Cai)**. Đã có toàn văn: `sources/qd2581-dieuchinh-qd866-toanvan.txt`.
 - **(B) Dự thảo Điều chỉnh Quy hoạch khoáng sản nhóm I 2021-2030, tầm nhìn 2050** — Thuyết minh + Phụ lục do Cục Địa chất và Khoáng sản Việt Nam (Bộ Nông nghiệp và Môi trường) lập, **bản tháng 3/2026 — CHƯA KÝ BAN HÀNH** (số/ngày để trống "…/QĐ-TTg … năm 2026").
 
 > ⚠️ **CẢNH BÁO TÍNH PHÁP LÝ:** Toàn bộ số liệu Phần B là **dự thảo**, chưa có hiệu lực. Khi đưa vào văn bản chính thức, KHÔNG viện dẫn như quy hoạch đã ban hành; chỉ dùng để tham khảo/đối chiếu/góp ý. Quy hoạch khoáng sản nhóm I đang có hiệu lực vẫn là **QĐ 866/QĐ-TTg ngày 18/7/2023** (được sửa đổi bởi các quyết định điều chỉnh đã ký như QĐ 2581).
@@ -11,18 +11,125 @@ Reference này bổ sung dữ liệu **danh mục mỏ khoáng sản nhóm I tr�
 
 ## A. QĐ 2581/QĐ-TTg ngày 24/11/2025 — Mỏ đồng Tả Phời (ĐÃ KÝ)
 
-Phụ lục II QĐ 2581 điều chỉnh:
-- **Điểm j** tiểu mục 1.2, mục 1 **Phụ lục III.10** (Danh mục dự án khai thác đồng 2021-2030, tầm nhìn 2050).
-- **Điểm a** mục 1 **Phụ lục VI.10** (Tọa độ khép góc các dự án thăm dò, khai thác đồng).
+**Trích yếu đầy đủ:** *Quyết định số 2581/QĐ-TTg ngày 24 tháng 11 năm 2025 của Thủ tướng Chính phủ phê duyệt điều chỉnh
+quy hoạch thăm dò, khai thác, chế biến sử dụng khoáng sản tại các khu vực: vonfram Núi Pháo, tỉnh Thái Nguyên;
+mỏ đồng Tả Phời, tỉnh Lào Cai và mỏ bôxit Thọ Sơn và Thống Nhất, tỉnh Đồng Nai trong Quy hoạch thăm dò, khai thác,
+chế biến và sử dụng các loại khoáng sản thời kỳ 2021 - 2030, tầm nhìn đến năm 2050.*
 
-**Mỏ Tả Phời (điều chỉnh), xã Hợp Thành** — dự án cấp mới:
-- Diện tích: **248,3 ha** (đã bao gồm 200 ha đã cấp phép khai thác).
-- Trữ lượng địa chất: quặng **15.694** (10³ tấn); tinh quặng **126** (10³ tấn).
-- Công suất khai thác 2021-2030 và 2031-2050: quặng **967,434** (10³ tấn); tinh quặng **8,473** (10³ tấn).
-- Ghi chú: trữ lượng 11.003 nghìn tấn quặng đã cấp phép.
-- Tọa độ khép góc VN2000 KTT 105 múi chiếu 6 độ: gồm các khu A (A1-A5, 25,0 ha đã CPKT), khu chính (điểm 1-16, 161,3 ha — gồm 113 ha đã CPKT), khu C (C1-C5, 37,0 ha đã CPKT), khu D (D1-D4, 25,0 ha đã CPKT). Bảng tọa độ chi tiết trong Phụ lục VI.10 QĐ 2581.
+KT. Thủ tướng — **PTT Trần Hồng Hà** ký. **Hiệu lực thi hành kể từ ngày ký.** Toàn văn (text):
+`sources/qd2581-dieuchinh-qd866-toanvan.txt`; bản gốc DOCX: `van-ban-goc/QD-2581-QD-TTg-24-11-2025-...docx`.
 
-> Lưu ý đơn vị: QĐ 2581 ghi "967.434" và "8.473" — đối chiếu phụ lục dự thảo (mục B) ghi 967,43 và 8,47 (10³ tấn). Khi trích số chính xác vào văn bản, **đọc lại bản QĐ 2581 đã ký** để xác định đúng dấu thập phân/đơn vị.
+> ⚠️ **Đây là quyết định cho 03 tỉnh, không chỉ Lào Cai.** Điều 1 có 3 khoản / 3 phụ lục:
+> **Phụ lục I** — vonfram Thái Nguyên (Núi Pháo mở rộng, Núi Chiếm, Núi Pháo điều chỉnh), sửa Phụ lục II.8, III.8, VI.8 QĐ 866;
+> **Phụ lục II** — **đồng Lào Cai (mỏ Tả Phời)**, sửa Phụ lục III.10 và VI.10 QĐ 866;
+> **Phụ lục III** — bôxit tỉnh Bình Phước **(nay là tỉnh Đồng Nai)**, sửa Phụ lục III.1 và IV.1 QĐ 866.
+> Khi viện dẫn cho việc của Lào Cai, **dẫn đúng Phụ lục II**; đừng viết "QĐ 2581 về mỏ đồng Tả Phời" như thể cả quyết định
+> chỉ có Tả Phời.
+
+**Căn cứ của QĐ 2581** (dùng để kiểm tra tính đồng bộ khi soạn văn bản): Luật Tổ chức Chính phủ 18/02/2025; Luật Tổ chức
+chính quyền địa phương 16/6/2025; **Luật Địa chất và khoáng sản 29/11/2024**; Luật Quy hoạch 21/11/2017; Luật sửa đổi 37 Luật
+liên quan đến quy hoạch 20/11/2018; **NQ 10-NQ/TW 10/02/2022**; **NQ 88/NQ-CP 22/7/2022**; **QĐ 334/QĐ-TTg 01/4/2023**;
+**QĐ 866/QĐ-TTg 18/7/2023**. Đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường tại CV **8004/BNNMT-ĐCKS** và
+**8008/BNNMT-ĐCKS** ngày 17/10/2025, **8796/BNNMT-ĐCKS** ngày 06/11/2025. (Chuỗi NQ 10 → NQ 88 → QĐ 334: **xem ref 10**.)
+
+**Điều 2** giao **Bộ Nông nghiệp và Môi trường, Bộ Công Thương và UBND các tỉnh Lào Cai, Đồng Nai, Thái Nguyên**
+*"chịu trách nhiệm toàn diện trước Thủ tướng Chính phủ về tính chính xác của thông tin, số liệu báo cáo"*; Bộ NN&MT
+phối hợp các bộ, ngành thực hiện cấp phép hoạt động khoáng sản đối với khu vực tại Điều 1.
+→ Từ **15/9/2026** chức năng này chuyển về **Bộ Công Thương** (NQ 66.25/2026/NQ-CP — ref 04, `qlks-sct-vn` ref 23):
+văn bản kiến nghị điều chỉnh tiếp theo gửi Bộ Công Thương, không gửi Bộ NN&MT.
+
+### A.1. Phụ lục II mục 1 — bổ sung điểm j, tiểu mục 1.2, mục 1 Phụ lục III.10 QĐ 866 (danh mục dự án KHAI THÁC đồng)
+
+**Mỏ Tả Phời (điều chỉnh) thuộc xã Hợp Thành** — thuộc nhóm **"Các dự án cấp mới"** (tiểu mục 1.2), *"đã bao gồm 200 ha
+diện tích đã cấp phép khai thác"*:
+
+| Chỉ tiêu | Giá trị theo QĐ 2581 |
+|---|---|
+| Diện tích | **248,3 ha** |
+| Trữ lượng địa chất — quặng | **15.694** ×10³ tấn (≈ 15,694 triệu tấn) |
+| Trữ lượng địa chất — tinh quặng | **126** ×10³ tấn |
+| Công suất khai thác 2021-2030 — quặng | **967,434** ×10³ tấn/năm |
+| Công suất khai thác 2021-2030 — tinh quặng | **8,473** ×10³ tấn/năm |
+| Công suất khai thác 2031-2050 | **giữ nguyên** như 2021-2030 (967,434 và 8,473 ×10³ tấn/năm) |
+| Ghi chú trong phụ lục | *"Dự án cấp mới, đã bao gồm diện tích 200ha, trữ lượng 11.003 nghìn tấn quặng đã cấp phép."* |
+
+> ✅ **Đã chốt dấu thập phân của cột công suất** (trước đây ref này còn để ngỏ). Bản QĐ 2581 in hai số là "967.434"
+> và "8.473"; phải đọc là **967,434 và 8,473 nghìn tấn/năm**, vì: (a) nếu hiểu "." là dấu phân nhóm nghìn thì công suất
+> thành 967 triệu tấn quặng/năm — vô lý so với trữ lượng 15.694 nghìn tấn; (b) đọc theo cách trên thì tuổi mỏ
+> ≈ 15.694 / 967,434 ≈ **16 năm**, và tinh quặng 126 / 8,473 ≈ 15 năm — khớp nhau; (c) trùng với phụ lục **dự thảo**
+> điều chỉnh QĐ 866 (3/2026) ghi 967,43 và 8,47 (mục B).
+>
+> **Cách viết khi trích vào văn bản:** ghi rõ đơn vị để người đọc không tự suy luận sai —
+> *"công suất khai thác 967,434 nghìn tấn quặng/năm (tương đương khoảng 967.434 tấn quặng/năm) và 8,473 nghìn tấn
+> tinh quặng/năm"*. Nếu hồ sơ đòi con số tuyệt đối chính xác tới từng tấn, **mở lại bản gốc QĐ 2581** và nêu rõ
+> đang dẫn theo bản nào.
+
+### A.2. Phụ lục II mục 2 — điều chỉnh điểm a, mục 1 Phụ lục VI.10 QĐ 866 (TỌA ĐỘ KHÉP GÓC)
+
+Hệ **VN2000, kinh tuyến trục 105°, múi chiếu 6°**. Điểm a của Phụ lục VI.10 là *"Tả Phời, xã Tả Phời"*, trong đó khối
+**"Tả Phời (điều chỉnh)"** gồm **4 khu**, tổng 248,3 ha:
+
+**Khu A — 25,0 ha (khu vực đã cấp phép khai thác)**
+
+| Điểm | X (m) | Y (m) |
+|---|---|---|
+| A1 | 2478962 | 392783 |
+| A2 | 2478711 | 392892 |
+| A3 | 2478138 | 392899 |
+| A4 | 2478131 | 392634 |
+| A5 | 2478887 | 392505 |
+
+**Khu chính — 161,3 ha** (*"Bao gồm diện tích 113 ha đã CPKT"*)
+
+| Điểm | X (m) | Y (m) | | Điểm | X (m) | Y (m) |
+|---|---|---|---|---|---|---|
+| 1 | 2477381 | 393601 | | 9 | 2476649 | 392919 |
+| 2 | 2477504 | 393500 | | 10 | 2476375 | 393152 |
+| 3 | 2477702 | 393533 | | 11 | 2476286 | 393303 |
+| 4 | 2478074 | 393034 | | 12 | 2476327 | 393438 |
+| 5 | 2477977 | 392576 | | 13 | 2476548 | 393655 |
+| 6 | 2477626 | 392340 | | 14 | 2476853 | 393575 |
+| 7 | 2477130 | 392339 | | 15 | 2476966 | 393545 |
+| 8 | 2476898 | 392534 | | 16 | 2477181 | 393613 |
+
+**Khu C — 37,0 ha (khu vực đã cấp phép khai thác)**
+
+| Điểm | X (m) | Y (m) |
+|---|---|---|
+| C1 | 2476310 | 393711 |
+| C2 | 2475633 | 394085 |
+| C3 | 2475352 | 393849 |
+| C4 | 2475721 | 393483 |
+| C5 | 2476048 | 393312 |
+
+**Khu D — 25,0 ha (khu vực đã cấp phép khai thác)**
+
+| Điểm | X (m) | Y (m) |
+|---|---|---|
+| D1 | 2475476 | 394601 |
+| D2 | 2475035 | 394987 |
+| D3 | 2474756 | 394643 |
+| D4 | 2475175 | 394284 |
+
+> **Kiểm tra số học:** 25,0 + 161,3 + 37,0 + 25,0 = **248,3 ha** — khớp đúng diện tích tại A.1. Trong đó phần **đã cấp phép
+> khai thác** = 25,0 (A) + 113 (trong khu chính) + 37,0 (C) + 25,0 (D) = **200 ha**, khớp với ghi chú "đã bao gồm 200 ha
+> diện tích đã cấp phép khai thác". Dùng hai phép cộng này để tự kiểm khi gõ lại tọa độ vào văn bản.
+
+> ⚠️ **Vênh tên xã giữa hai phụ lục của cùng QĐ 2581:** danh mục dự án khai thác (A.1) ghi mỏ thuộc **xã Hợp Thành**,
+> còn bảng tọa độ (A.2) giữ tiêu đề **"Tả Phời, xã Tả Phời"** (tên cũ, theo cách ghi trong QĐ 866). Đây là vênh **trong
+> bản gốc**, không phải lỗi chép. Khi viết văn bản: dùng **xã Hợp Thành** (địa giới sau 01/7/2025) và nếu cần dẫn bảng
+> tọa độ thì ghi *"điểm a 'Tả Phời, xã Tả Phời' Phụ lục VI.10 (tên theo QĐ 866)"*.
+
+### A.3. Hai phụ lục ngoài địa bàn (biết để không dẫn lẫn)
+
+| Phụ lục | Tỉnh | Nội dung điều chỉnh |
+|---|---|---|
+| **I** | Thái Nguyên | Vonfram khu vực Núi Pháo và liền kề: **Núi Pháo phần mở rộng** xã Đại Phúc (42,9 ha; 94.830 tấn WO₃); **khu vực Núi Chiếm** xã Phú Lạc, An Khánh, Đại Phúc (984,3 ha; 13.500 tấn WO₃); **Núi Pháo (điều chỉnh)** xã An Khánh, Phú Lạc, Đại Phúc (151,8 ha, gồm 90 ha đã cấp phép; trữ lượng huy động xác định theo GPKT số 1710/GP-BTNMT ngày 21/9/2010) |
+| **III** | Bình Phước **nay là Đồng Nai** | Bôxit **khu vực Thọ Sơn + Thống Nhất** (50.022,0 ha; trữ lượng địa chất 537.680 ×10³ tấn quặng / 200.506 ×10³ tấn tinh quặng; trữ lượng huy động sau khi trừ vùng cấm 376.376 / 180.455) cung cấp cho **nhà máy alumin Bình Phước** (chế biến 1÷2,5 ×10⁶ tấn/năm) |
+
+Hai phụ lục này **không dùng cho hồ sơ Lào Cai**; chỉ hữu ích khi đối chiếu cách trình bày phụ lục điều chỉnh quy hoạch
+(mẫu để soạn kiến nghị điều chỉnh cho mỏ của tỉnh: nêu rõ *điều chỉnh điểm nào, tiểu mục nào, mục nào, Phụ lục nào
+của QĐ 866*).
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "name": "qlks-sct-vn",
-  "version": "2.0.0",
-  "description": "QLNN về địa chất, khoáng sản - Sở Công Thương Lào Cai. Từ 15/9/2026 Sở tiếp nhận toàn bộ chức năng từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, sản lượng, xử phạt) - GATE ref 23. 13 nghiệp vụ: phân vai theo thời kỳ; kế hoạch quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc; đối chiếu VLNCN - sản lượng; thu hồi khoáng sản; ủy viên Hội đồng thăm dò (QĐ 777); ranh giới mỏ giáp ranh. Luật 54/2024, 147/2025, NĐ 193/2025, 21/2026, 150/2025.",
+  "version": "2.1.0",
+  "description": "QLNN về địa chất, khoáng sản - Sở Công Thương Lào Cai. Từ 15/9/2026 Sở tiếp nhận toàn bộ chức năng từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ, sản lượng, xử phạt) - GATE ref 23. 13 nghiệp vụ: phân vai theo thời kỳ; quản lý rủi ro; GCN an toàn hầm lò; chế biến, nguồn gốc; đối chiếu VLNCN - sản lượng; thu hồi khoáng sản; Hội đồng thăm dò (QĐ 777); ranh giới mỏ giáp ranh; viện dẫn NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334 (ref 24). Luật 54/2024, NĐ 193/2025.",
   "author": {
     "name": "Trần Trọng Trang"
   },
@@ -46,6 +46,11 @@
     "chuyen-giao-chuc-nang-khoang-san",
     "nd-150-2025",
     "dieu-25-nd-193",
-    "bo-cong-thuong-khoang-san"
+    "bo-cong-thuong-khoang-san",
+    "nq-10-nq-tw",
+    "nq-88-nq-cp",
+    "qd-334-chien-luoc",
+    "bao-ve-khoang-san-chua-khai-thac",
+    "du-tru-khoang-san-quoc-gia"
   ]
 }

@@ -1,5 +1,17 @@
 # CHANGELOG — qlks-sct-vn
 
+## [2.1.0] - 13/9/2026 — lớp chủ trương, chiến lược cấp trên: NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334/QĐ-TTg (ref 24)
+
+- `references/24-chu-truong-chien-luoc-nq10-nq88-qd334.md` MỚI, viết theo hướng "Sở phải làm gì": khi nào dẫn/không dẫn
+  chiến lược; thứ tự căn cứ chuẩn; **hai nghĩa vụ thường xuyên** (hằng năm bố trí kinh phí bảo vệ KS chưa khai thác;
+  báo cáo trước 31/12 — kèm cảnh báo đầu mối đã đổi 2 lần, từ 15/9/2026 là Bộ Công Thương); 6 mốc hạn 2025/2030;
+  bảng định hướng QĐ 334 **nêu đích danh Lào Cai** cho 7 nhóm khoáng sản; 3 loại dự trữ KS quốc gia của tỉnh;
+  6 nguyên tắc dùng ngay trong công văn; QĐ 154/QĐ-TTg cho hồ sơ cũ; 8 anti-error.
+- `references/01` thêm mục 0 "Chủ trương, chiến lược"; `references/09` bảng I thêm 3 dòng (NQ 88, QĐ 334, QĐ 154).
+- `SKILL.md`: description, mục I.3, ranh giới với `quy-hoach-ct-vn`, cây thư mục.
+- Bản gốc 4 văn bản giữ ở `quy-hoach-ct-vn` (`van-ban-goc/`, `sources/`) — không nhân bản.
+- `plugin.json` → 2.1.0. Chi tiết: `CHANGELOG-v2026.09.13.md`.
+
 ## [2.0.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: Sở Công Thương tiếp nhận toàn bộ chức năng QLNN về địa chất, khoáng sản từ 15/9/2026
 
 **Nguồn:** Nghị quyết số 66.25/2026/NQ-CP ngày 04/9/2026 của Chính phủ (PTT Nguyễn Văn Thắng ký; bản scan có dấu ký số VPCP — lớp text không đọc được bằng extract_metadata.py, đã soi ảnh từng trang; 8 trang + Phụ lục 12 trang). Hiệu lực 15/9/2026 – 28/02/2027 theo cơ chế NQ 206/2025/QH15.

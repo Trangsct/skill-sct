@@ -1,6 +1,6 @@
 ---
 name: quy-hoach-ct-vn
-description: "QUY HOẠCH 04 ngành Công Thương Lào Cai: KHOÁNG SẢN, ĐIỆN/NĂNG LƯỢNG, KCN, CCN. Kích hoạt: quy hoạch điện VIII (QĐ 768/QĐ-TTg), quy hoạch khoáng sản QĐ 866/QĐ-TTg, quy hoạch tỉnh QĐ 525/QĐ-UBND, thủy điện, TBA, đường dây 500-220-110kV, đấu nối, apatit, đồng, đất hiếm, graphit. Dùng khi: xác định dự án nguồn điện/lưới điện/mỏ/KCN/CCN có trong quy hoạch không, thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối/gió/mặt trời/rác; tra khu vực thăm dò - khai thác - chế biến khoáng sản nhóm I-IV; tham gia ý kiến, soạn báo cáo/công văn/tờ trình về điều chỉnh quy hoạch tỉnh, quy hoạch điện, khoáng sản, KCN/CCN; quan hệ Quy hoạch điện VIII và Quy hoạch khoáng sản quốc gia với Quy hoạch tỉnh; vốn đầu tư công cấp điện nông thôn (QĐ 2390/QĐ-UBND 09/7/2026). Tra: QĐ 525/QĐ-UBND 25/02/2026, QĐ 768/QĐ-TTg 15/4/2025, QĐ 866/QĐ-TTg 18/7/2023, QĐ 1626/QĐ-TTg 15/12/2023. Từ khóa thêm: Phụ lục II III QĐ 525, cấp điện nông thôn, Tằng Loỏng Từ 15/9/2026 quy hoạch khoáng sản về Bộ Công Thương (NQ 66.25/2026)."
+description: "QUY HOẠCH 04 ngành Công Thương Lào Cai: KHOÁNG SẢN, ĐIỆN/NĂNG LƯỢNG, KCN, CCN. Kích hoạt: quy hoạch điện VIII (QĐ 768/QĐ-TTg), quy hoạch khoáng sản QĐ 866 - 1626 - 2581/QĐ-TTg, quy hoạch tỉnh QĐ 525/QĐ-UBND, thủy điện, TBA, đường dây 500-220-110kV, đấu nối, apatit, đồng, đất hiếm, graphit, tọa độ khép góc mỏ. Dùng khi: xác định dự án nguồn điện/lưới điện/mỏ/KCN/CCN có trong quy hoạch không, thuộc quyết định nào; tra danh mục thủy điện, điện sinh khối/gió/mặt trời/rác; tra thăm dò - khai thác - chế biến khoáng sản nhóm I-IV; tham gia ý kiến, soạn báo cáo/công văn/tờ trình điều chỉnh quy hoạch; viết phần Căn cứ theo chuỗi chủ trương - chiến lược NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334/QĐ-TTg (Chiến lược địa chất, khoáng sản, công nghiệp khai khoáng 2030/2045), QĐ 154/QĐ-TTg (lịch sử); vốn cấp điện nông thôn (QĐ 2390/QĐ-UBND). Tra: QĐ 525 25/02/2026, QĐ 768 15/4/2025, QĐ 866 18/7/2023, QĐ 1626 15/12/2023, QĐ 2581 24/11/2025 (Tả Phời). Từ 15/9/2026 quy hoạch khoáng sản về Bộ Công Thương (NQ 66.25/2026)."
 ---
 
 # quy-hoach-ct-vn — Cẩm nang quy hoạch ngành Công Thương tỉnh Lào Cai
@@ -22,6 +22,7 @@ Tham chiếu skill này khi:
 4. Tham gia ý kiến, rà soát, góp ý dự thảo **điều chỉnh quy hoạch tỉnh**, quy hoạch điện, quy hoạch khoáng sản, phương án phát triển công nghiệp.
 5. Soạn báo cáo, công văn, tờ trình, phiếu góp ý về quy hoạch ngành; xác định **mối quan hệ tích hợp** giữa quy hoạch ngành quốc gia (điện VIII, khoáng sản 866) và quy hoạch tỉnh.
 6. Giải thích **hệ thống quy hoạch** theo Luật Quy hoạch 2017 (quốc gia → vùng → tỉnh → có tính chất kỹ thuật chuyên ngành).
+7. Viết phần **"Căn cứ…"** hoặc phần mở đầu báo cáo/tờ trình về khoáng sản cần dẫn đúng **chuỗi chủ trương → chiến lược → quy hoạch** (NQ 10-NQ/TW → NQ 88/NQ-CP → QĐ 334/QĐ-TTg → QĐ 866/QĐ 1626); tra **định hướng chiến lược** của một loại khoáng sản (đồng, sắt, đất hiếm, apatit, đá hoa trắng) — phần này ở QĐ 334, KHÔNG ở QĐ 866. **Xem ref 10**.
 
 Quy trình chuẩn khi cần TẠO FILE văn bản:
 - **Bước 1:** Tham chiếu skill này (và `kcn-ccn-vn` nếu là KCN/CCN) để xác định đúng căn cứ, số liệu, danh mục quy hoạch.
@@ -41,9 +42,13 @@ Quy trình chuẩn khi cần TẠO FILE văn bản:
 
 | Văn bản | Lĩnh vực | Tình trạng |
 |---|---|---|
+| **NQ 10-NQ/TW ngày 10/02/2022** (Bộ Chính trị) | Định hướng **chiến lược** địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 | Chủ trương gốc; thay NQ 02-NQ/TW 2011. Lào Cai triển khai bằng CTr 39-CTr/TU 29/01/2026, KH 200/KH-UBND 05/5/2026. **Xem ref 10** |
+| **NQ 88/NQ-CP ngày 22/7/2022** | Chương trình hành động của Chính phủ thực hiện NQ 10-NQ/TW; danh mục **18 nhiệm vụ** | Nhiệm vụ 7 → QĐ 866 (**Bộ Công Thương chủ trì lập**), 8 → QĐ 1626, 9 → QH năng lượng quốc gia, 11 → Quy hoạch tỉnh có phương án bảo vệ, sử dụng KS. **Xem ref 10** |
+| **QĐ 334/QĐ-TTg ngày 01/4/2023** | **Chiến lược** địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 | PTT Trần Hồng Hà ký; hiệu lực từ ngày ký. Chứa **định hướng từng loại khoáng sản** + mục tiêu 2025/2030/2045 + phân công Bộ Công Thương, UBND tỉnh. **Xem ref 10** |
 | **QĐ 768/QĐ-TTg ngày 15/4/2025** | **Điều chỉnh Quy hoạch điện VIII** (phát triển điện lực quốc gia 2021-2030, tầm nhìn 2050) | Hiệu lực kể từ ngày ký; thay thế QĐ 500/QĐ-TTg ngày 15/5/2023. Ký: KT. Thủ tướng - PTT Bùi Thanh Sơn. **Xem ref 02** |
 | **QĐ 866/QĐ-TTg ngày 18/7/2023** | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại **khoáng sản** (nhóm I; trừ dầu khí, than, phóng xạ, VLXD, phân tán nhỏ lẻ) | Hiệu lực kể từ ngày ký; PTT Trần Hồng Hà ký. Đang rà soát điều chỉnh (KH thực hiện QĐ 333/QĐ-TTg 23/4/2024). **Xem ref 04** |
 | **QĐ 1626/QĐ-TTg ngày 15/12/2023** | Quy hoạch thăm dò, khai thác, chế biến, sử dụng khoáng sản **làm vật liệu xây dựng** (nhóm II) | **Xem ref 04** |
+| **QĐ 154/QĐ-TTg ngày 29/01/2022** | Kéo dài kỳ quy hoạch KS làm **VLXD** và KS làm **xi măng** (QĐ 152/2008, QĐ 45/2012; QĐ 105/2008, QĐ 1065/2010) cho tới khi QH VLXD 2021-2030 được phê duyệt | **LỊCH SỬ — hết vai trò từ 15/12/2023** (khi QĐ 1626 ban hành). Chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. **Xem ref 10 mục V** |
 | **QĐ 2581/QĐ-TTg ngày 24/11/2025** | Điều chỉnh QĐ 866 — bổ sung/điều chỉnh **mỏ đồng Tả Phời** (xã Hợp Thành, Lào Cai); Phụ lục III.10 (khai thác) và VI.10 (tọa độ) | ĐÃ KÝ. **Xem ref 07** |
 | Dự thảo Điều chỉnh QH khoáng sản nhóm I (Cục ĐC&KS - Bộ NN&MT, 3/2026) | Rà soát toàn diện QĐ 866; danh mục mỏ nhóm I Lào Cai (đồng, sắt, đất hiếm, graphit) | **CHƯA KÝ** — chỉ tham khảo/góp ý. **Xem ref 07** |
 | Luật Điện lực số 61/2024/QH15 ngày 30/11/2024 | Quy hoạch phát triển điện lực, đầu tư xây dựng | Hiệu lực 01/02/2025; NĐ 56/2025/NĐ-CP (03/3/2025) hướng dẫn về quy hoạch điện lực, phương án phát triển mạng lưới cấp điện |
@@ -71,6 +76,7 @@ Quy trình chuẩn khi cần TẠO FILE văn bản:
 | `references/07-dieu-chinh-qd866-lao-cai.md` | Khi cần **danh mục mỏ nhóm I cụ thể trên địa bàn Lào Cai** (đồng Sin Quyền/Tả Phời/Vi Kẽm/Khe Cam, sắt Quý Xa/Kíp Tước, đất hiếm Yên Phú, graphit Bảo Hà/Nậm Thi); QĐ 2581/QĐ-TTg (Tả Phời, đã ký) và dự thảo điều chỉnh QĐ 866 (3/2026, chưa ký) |
 | `references/08-toa-do-tham-do-che-bien-lao-cai.md` | Khi cần **tọa độ khép góc**, danh mục **thăm dò (Phụ lục II)**, **chế biến (Phụ lục IV)** các mỏ Lào Cai; hướng dẫn tra file nguồn gốc cho số liệu chính xác |
 | `references/09-von-dtc-cap-dien-2026-2030.md` | Khi cần **vốn đầu tư công trung hạn 2026-2030 cho các dự án cấp điện do Sở Công Thương làm chủ đầu tư** (QĐ 2390/QĐ-UBND ngày 09/7/2026): 07 dự án / 130.447 triệu đồng, toàn bộ từ nguồn thu tiền sử dụng đất — 04 chuyển tiếp (cấp điện nông thôn Yên Bái 2014-2025, khắc phục thiên tai 2024, Sín Chải, Lếch Mông) + 03 khởi công mới theo QĐ 1411-1413/QĐ-UBND 28/4/2026 (Sơn Lương, Đề Chơ - Phình Hồ, Khao Mang - Mù Cang Chải - Lao Chải); lưu ý 03 dự án mới xếp ở lĩnh vực Nông nghiệp-PTNT chứ không phải công nghiệp; cách viết đúng khi viện dẫn |
+| `references/10-chu-truong-chien-luoc-khoang-san.md` | Khi cần **chuỗi chủ trương → chiến lược → quy hoạch** khoáng sản: **NQ 10-NQ/TW 10/02/2022** (quan điểm, mục tiêu 2025/2030/2045, câu về mỏ sắt Quý Xa), **NQ 88/NQ-CP 22/7/2022** (danh mục 18 nhiệm vụ, ai chủ trì QĐ 866/1626, nghĩa vụ bố trí kinh phí bảo vệ KS chưa khai thác + báo cáo 31/12 hằng năm), **QĐ 334/QĐ-TTg 01/4/2023** (Chiến lược — **định hướng thăm dò/khai thác/chế biến từng loại khoáng sản**, danh mục dự trữ KS quốc gia, phân công Bộ Công Thương và UBND tỉnh), **QĐ 154/QĐ-TTg 29/01/2022** (kéo dài kỳ QH VLXD, xi măng — lịch sử); 8 anti-error khi viện dẫn |
 
 ## IV. FILE NGUỒN GỐC ĐỂ TRA CỨU CHÍNH XÁC (`sources/`)
 
@@ -82,7 +88,9 @@ Thư mục **`sources/`** chứa **toàn văn các văn bản gốc** (text trí
 ```bash
 grep -n -i "quý xa\|tả phời" sources/qd866-dieuchinh-2026-phuluc.txt
 ```
-File hiện có: `qd866-dieuchinh-2026-thuyetminh.txt` và `...phuluc.txt` (DỰ THẢO 3/2026), `qd768-quyhoach-dien-viii-toanvan.txt` (ĐÃ KÝ), `qht-laocai-2026-baocao-thuyetminh.txt` và `...phuluc.txt` (bản thao tác QHT Lào Cai 7/6/2026, tích hợp cả 04 ngành). Có thể bổ sung file nguồn mới theo hướng dẫn trong mục lục.
+File hiện có: `qd866-dieuchinh-2026-thuyetminh.txt` và `...phuluc.txt` (DỰ THẢO 3/2026), `qd768-quyhoach-dien-viii-toanvan.txt` (ĐÃ KÝ), `qht-laocai-2026-baocao-thuyetminh.txt` và `...phuluc.txt` (bản thao tác QHT Lào Cai 7/6/2026, tích hợp cả 04 ngành), và 05 văn bản trung ương về khoáng sản ĐÃ KÝ: `qd2581-dieuchinh-qd866-toanvan.txt`, `qd334-chien-luoc-dckscnkk-toanvan.txt`, `nq10-nqtw-2022-toanvan.txt`, `nq88-nqcp-2022-toanvan.txt`, `qd154-keodai-ky-qh-vlxd-ximang-toanvan.txt`. Có thể bổ sung file nguồn mới theo hướng dẫn trong mục lục.
+
+Thư mục **`van-ban-goc/`** giữ **bản gốc DOCX** của 05 văn bản trung ương nêu trên (mục lục `van-ban-goc/00-MUC-LUC.md`) — dùng khi cần mở đọc nguyên văn, đối chiếu thể thức hoặc gửi kèm.
 
 > **Phân biệt pháp lý khi trích nguồn:** số liệu từ file *dự thảo* (qd866-dieuchinh-2026-*) chỉ để tham khảo/góp ý; viện dẫn chính thức phải căn cứ văn bản **ĐÃ KÝ** (QĐ 866 18/7/2023, QĐ 2581 24/11/2025, QĐ 768 15/4/2025, QĐ 525 25/02/2026).
 
@@ -109,7 +117,9 @@ File hiện có: `qd866-dieuchinh-2026-thuyetminh.txt` và `...phuluc.txt` (DỰ
 
 7. **Số liệu thay đổi nhanh & quy hoạch đang được điều chỉnh.** Cả QĐ 866 (đang rà soát điều chỉnh) và NĐ 35/2022 đều có thể thay đổi. Khi người dùng hỏi số liệu mới nhất, báo rõ mốc thời gian của dữ liệu trong skill và đề nghị cập nhật từ cơ quan đầu mối.
 
-8. **Nguyên tắc trích dẫn.** Trong văn bản hành chính ghi đầy đủ "Quyết định số 768/QĐ-TTg ngày 15 tháng 4 năm 2025 của Thủ tướng Chính phủ phê duyệt Điều chỉnh Quy hoạch phát triển điện lực quốc gia thời kỳ 2021-2030, tầm nhìn đến năm 2050". Tránh viết tắt "QH điện VIII", "QĐ 866" trong văn bản chính thức (chỉ dùng nội bộ).
+8. **Phân biệt 3 lớp khi trả lời về khoáng sản:** *định hướng chiến lược* (NQ 10-NQ/TW, QĐ 334) ≠ *danh mục quy hoạch* (QĐ 866, QĐ 1626 + các quyết định điều chỉnh như QĐ 2581) ≠ *dự án đã được chấp thuận chủ trương đầu tư/cấp phép*. Câu kiểu "đầu tư mở rộng cơ sở chế biến đồng kim loại tại Lào Cai" (QĐ 334) là định hướng quốc gia, KHÔNG phải dự án đã có chủ trương. Khi dẫn nguyên văn NQ 10/NQ 88/QĐ 334 thì giữ tên cơ quan trong bản gốc ("Bộ Tài nguyên và Môi trường") và **ghi chú trong ngoặc** tên cơ quan hiện nay (Bộ Nông nghiệp và Môi trường; mảng địa chất, khoáng sản từ 15/9/2026 là Bộ Công Thương). Chi tiết: ref 10 mục VI.
+
+9. **Nguyên tắc trích dẫn.** Trong văn bản hành chính ghi đầy đủ "Quyết định số 768/QĐ-TTg ngày 15 tháng 4 năm 2025 của Thủ tướng Chính phủ phê duyệt Điều chỉnh Quy hoạch phát triển điện lực quốc gia thời kỳ 2021-2030, tầm nhìn đến năm 2050". Tránh viết tắt "QH điện VIII", "QĐ 866" trong văn bản chính thức (chỉ dùng nội bộ).
 
 ## VI. NGƯỜI KÝ MẶC ĐỊNH CHO VĂN BẢN VỀ QUY HOẠCH NGÀNH
 

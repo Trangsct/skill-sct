@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **600** (Luật 32, NĐ 192, TT 105, QĐ 203, NQ 28, khác 40).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **54**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **612** (Luật 32, NĐ 192, TT 105, QĐ 212, NQ 31, khác 40).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **59**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -44,6 +44,8 @@
 | NĐ 36/2020 | atvsld-sct-vn, qlks-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế (3/2026) | Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT |
 | NĐ 71/2019 | hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | NĐ 275/2026 (25/8/2026) |  | Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026 |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
+| QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |
+| QĐ 866/QĐ-TTG | kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn |  | Dự thảo điều chỉnh toàn diện (Cục ĐC&KS, 3/2026 — chưa ký) | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương |
 
 ## Dùng ở ≥3 plugin nhưng chưa có trạng thái — cần rà bản gốc rồi ghi vào `trang-thai.csv`
 
@@ -70,6 +72,7 @@
 - NĐ 144/2021 (4 plugin: pccc-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - NĐ 15/2021 (3 plugin: pccc-sct-vn, qlks-sct-vn, tkm-sct-vn)
 - NĐ 31/2021 (3 plugin: kccn-sct-vn, vbhc-vn, xp-sct-vn)
+- NĐ 51/2021 (3 plugin: kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
 - NĐ 6/2021 (4 plugin: kccn-sct-vn, kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - NĐ 15/2018 (3 plugin: attp-sct-vn, skcn-vn, xp-sct-vn)
 - NĐ 105/2017 (3 plugin: attp-sct-vn, vbhc-vn, xp-sct-vn)
@@ -93,7 +96,6 @@
 - QĐ 1050/QĐ-SCT (4 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 59/QĐ-SCT (3 plugin: attp-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn)
 - QĐ 768/QĐ-TTG (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
-- QĐ 866/QĐ-TTG (4 plugin: kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn)
 - NQ 19/2026/NQ-CP (3 plugin: attp-sct-vn, hnh-sct-vn, kccn-sct-vn)
 - NQ 66.18/2026/NQ-CP (5 plugin: attp-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, xd-sct-vn)
 - NQ 66.19/2026/NQ-CP (3 plugin: bvmt-sct-vn, kccn-sct-vn, qlks-sct-vn)

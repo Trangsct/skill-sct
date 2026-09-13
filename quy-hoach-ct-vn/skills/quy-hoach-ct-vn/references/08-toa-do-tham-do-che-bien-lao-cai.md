@@ -3,6 +3,8 @@
 > **NGUỒN ĐẦY ĐỦ & CHÍNH XÁC:** Toàn bộ danh mục thăm dò (Phụ lục II), khai thác (III), chế biến (IV), tọa độ khép góc (VI) của TẤT CẢ khoáng sản nhóm I cả nước nằm trong file gốc đã đính kèm: **`sources/qd866-dieuchinh-2026-phuluc.txt`** (449 trang) và thuyết minh **`sources/qd866-dieuchinh-2026-thuyetminh.txt`**. Reference này chỉ trích sẵn phần Lào Cai để tra nhanh. Khi cần số liệu/tọa độ CHÍNH XÁC để đưa vào văn bản, **mở file nguồn và tra theo TÊN MỎ + TÊN XÃ** (xem hướng dẫn mục C).
 
 > ⚠️ Đây là **DỰ THẢO** điều chỉnh QĐ 866 (3/2026, chưa ký). Văn bản đã ký liên quan: QĐ 866/QĐ-TTg 18/7/2023 và QĐ 2581/QĐ-TTg 24/11/2025 (Tả Phời).
+>
+> ✅ **Riêng mỏ Tả Phời đã có tọa độ theo văn bản ĐÃ KÝ** — bảng tọa độ đầy đủ 4 khu (A, khu chính, C, D; tổng 248,3 ha) của QĐ 2581 nằm ở **ref 07 mục A.2**, toàn văn tại `sources/qd2581-dieuchinh-qd866-toanvan.txt`. Khi trích tọa độ Tả Phời vào văn bản chính thức, **dùng ref 07 mục A.2 (đã ký)**, KHÔNG dùng bảng dự thảo ở mục B dưới đây.
 
 ## A. Danh mục mỏ nhóm I Lào Cai theo từng khoáng sản (tra nhanh)
 
@@ -18,7 +20,7 @@
 
 ## B. TỌA ĐỘ KHÉP GÓC MỎ ĐỒNG LÀO CAI (Phụ lục VI.10 — dự thảo)
 
-H�� tọa độ VN2000, KTT 105, múi chiếu 6 độ. Gồm Tả Phời (mở rộng + điều chỉnh), Sin Quyền, Vi Kẽm, Trịnh Tường, Lùng Thàng. (Tọa độ Tả Phời đối chiếu QĐ 2581 đã ký — xem ref 07 mục A.)
+Hệ tọa độ VN2000, KTT 105, múi chiếu 6 độ. Gồm Tả Phời (mở rộng + điều chỉnh), Sin Quyền, Vi Kẽm, Trịnh Tường, Lùng Thàng. **Tọa độ Tả Phời: dùng bản ĐÃ KÝ ở ref 07 mục A.2** (QĐ 2581); bảng dưới đây chỉ để đối chiếu phần dự thảo và các mỏ khác.
 
 ```
 1    Lào Cai
@@ -189,7 +191,7 @@ File nguồn là text trích từ PDF gốc, có thể grep/đọc trực tiếp
    ```bash
    sed -n 'START,ENDp' sources/qd866-dieuchinh-2026-phuluc.txt
    ```
-4. **Đối chiếu** với văn bản đã ký (QĐ 866 18/7/2023, QĐ 2581 24/11/2025) trước khi trích vào văn bản chính thức — KHÔNG dùng số dự thảo như đã ban hành.
+4. **Đối chiếu** với văn bản đã ký (QĐ 866 18/7/2023, QĐ 2581 24/11/2025 — toàn văn tại `sources/qd2581-dieuchinh-qd866-toanvan.txt`) trước khi trích vào văn bản chính thức — KHÔNG dùng số dự thảo như đã ban hành.
 
 Lưu ý layout PDF: bảng tọa độ có header lặp giữa trang ("Tọa độ VN2000... / TT Tên mỏ... / X(m) Y(m)") — bỏ qua khi đọc. Diện tích (ha) nằm ở cột phải, căn theo nhóm điểm.
 

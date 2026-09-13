@@ -221,6 +221,38 @@ RULES = [
         "level": "FAIL",
         "only": ["kccn-sct-vn"],
     },
+    {
+        "id": "qd334-khong-phai-qd333",
+        # QĐ 334/QĐ-TTg 01/4/2023 = CHIẾN LƯỢC địa chất, khoáng sản, công nghiệp khai khoáng.
+        # QĐ 333/QĐ-TTg 23/4/2024 = Kế hoạch thực hiện Quy hoạch khoáng sản (QĐ 866). Hai văn bản hay bị gõ lẫn.
+        "pattern": r"^(?!.*334).*(QĐ|Quyết định số) ?333[^\n]{0,60}Chiến lược|^(?!.*333).*(QĐ|Quyết định số) ?334[^\n]{0,60}Kế hoạch thực hiện Quy hoạch khoáng sản",
+        "why": "QĐ 334/QĐ-TTg ngày 01/4/2023 = Chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045; QĐ 333/QĐ-TTg ngày 23/4/2024 = Kế hoạch thực hiện Quy hoạch khoáng sản (QĐ 866). Đừng gán nội dung chéo (quy-hoach-ct-vn ref 10 mục VI; qlks-sct-vn ref 24 mục V).",
+        "since": "2026-09-13",
+        "level": "FAIL",
+    },
+    {
+        "id": "qd154-het-vai-tro",
+        # QĐ 154/QĐ-TTg 29/01/2022 chỉ kéo dài kỳ QH KS làm VLXD, xi măng ĐẾN KHI QĐ 1626/QĐ-TTg 15/12/2023 ban hành.
+        "pattern": r"^(?!.*(1626|lịch sử|hết vai trò|hết hiệu lực|hồ sơ cũ|trước 15/12/2023|giải trình|thanh tra|kéo dài|không dẫn|Trích yếu)).*(QĐ|Quyết định số) ?154/QĐ-TTg",
+        "why": "QĐ 154/QĐ-TTg ngày 29/01/2022 (kéo dài kỳ quy hoạch KS làm VLXD, xi măng) đã hết vai trò khi QĐ 1626/QĐ-TTg ngày 15/12/2023 được phê duyệt. Việc hiện nay dẫn QĐ 1626; chỉ nhắc QĐ 154 kèm chữ 'lịch sử'/'hồ sơ cũ' hoặc kèm QĐ 1626 (quy-hoach-ct-vn ref 10 mục V; qlks-sct-vn ref 24 mục IV).",
+        "since": "2026-09-13",
+        "level": "FAIL",
+    },
+    {
+        "id": "ta-phoi-cong-suat-thap-phan",
+        # QĐ 2581 in "967.434"/"8.473"; phải đọc là 967,434 và 8,473 ×10³ tấn/năm (ref 07 mục A.1).
+        "pattern": r"967\.434 ?(nghìn tấn|×?\s?10³ tấn|103 tấn)|8\.473 ?(nghìn tấn|×?\s?10³ tấn|103 tấn)",
+        "why": "Công suất khai thác mỏ Tả Phời theo QĐ 2581/QĐ-TTg phải ghi 967,434 ×10³ tấn quặng/năm (≈ 967.434 tấn/năm) và 8,473 ×10³ tấn tinh quặng/năm — không ghi '967.434 nghìn tấn/năm' (sẽ thành 967 triệu tấn/năm). Xem quy-hoach-ct-vn ref 07 mục A.1.",
+        "since": "2026-09-13",
+        "level": "FAIL",
+    },
+    {
+        "id": "qd2581-ba-tinh",
+        "pattern": r"QĐ 2581[^\n]{0,40}(chỉ|duy nhất)[^\n]{0,30}(Tả Phời|Lào Cai)",
+        "why": "QĐ 2581/QĐ-TTg 24/11/2025 điều chỉnh QĐ 866 tại 03 khu vực của 03 tỉnh: vonfram Núi Pháo (Thái Nguyên, Phụ lục I), mỏ đồng Tả Phời (Lào Cai, Phụ lục II), bôxit Thọ Sơn - Thống Nhất (Đồng Nai, Phụ lục III). Phần Lào Cai là Phụ lục II (quy-hoach-ct-vn ref 07 mục A).",
+        "since": "2026-09-13",
+        "level": "WARN",
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

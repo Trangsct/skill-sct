@@ -2,6 +2,18 @@
 
 Mọi số/ngày dưới đây đã đối chiếu từ file văn bản gốc trong bộ tài liệu nguồn (thư mục `van-ban-goc/` và bộ tài liệu Bạn cung cấp tháng 7/2026). KHÔNG tự thay đổi. Văn bản không có trong danh sách → chưa xác minh, không viện dẫn khi chưa hỏi Bạn.
 
+## 0. CHỦ TRƯƠNG, CHIẾN LƯỢC (lớp trên luật — dùng cho phần "Căn cứ" của báo cáo, tờ trình)
+
+| Văn bản | Ngày | Vai trò |
+|---|---|---|
+| **NQ 10-NQ/TW** của Bộ Chính trị | 10/02/2022 | Định hướng chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 (thay NQ 02-NQ/TW 25/4/2011) |
+| **NQ 88/NQ-CP** của Chính phủ | 22/7/2022 | Chương trình hành động thực hiện NQ 10-NQ/TW; 18 nhiệm vụ; nghĩa vụ thường xuyên của địa phương |
+| **QĐ 334/QĐ-TTg** | 01/4/2023 | **Chiến lược** địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 |
+| **QĐ 154/QĐ-TTg** | 29/01/2022 | Kéo dài kỳ quy hoạch KS làm VLXD, xi măng — **lịch sử**, hết vai trò từ 15/12/2023 (QĐ 1626) |
+| Tỉnh Lào Cai | CTr **39-CTr/TU** 29/01/2026; KH **200/KH-UBND** 05/5/2026 | Triển khai NQ 10-NQ/TW trên địa bàn |
+
+→ Chi tiết, cách viết căn cứ, mốc hạn và 8 anti-error: **reference 24**. Nội dung quy hoạch khoáng sản: plugin `quy-hoach-ct-vn`.
+
 ## I. LUẬT
 
 | Văn bản | Ngày | Hiệu lực | Nội dung cốt lõi |

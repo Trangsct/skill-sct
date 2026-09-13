@@ -1,5 +1,17 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## [1.3.0] - 13/9/2026 — chuỗi chủ trương → chiến lược khoáng sản (NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334) + toàn văn QĐ 2581
+
+- `references/10-chu-truong-chien-luoc-khoang-san.md` MỚI: NQ 10-NQ/TW 10/02/2022, NQ 88/NQ-CP 22/7/2022 (18 nhiệm vụ),
+  QĐ 334/QĐ-TTg 01/4/2023 (Chiến lược — định hướng từng loại khoáng sản, dự trữ KS quốc gia, phân công), QĐ 154/QĐ-TTg
+  29/01/2022 (kéo dài kỳ QH VLXD, xi măng — lịch sử); 8 anti-error.
+- `references/07` mục A viết lại từ **toàn văn QĐ 2581 đã ký**: chốt dấu thập phân công suất (967,434 và 8,473 ×10³ tấn/năm),
+  bảng tọa độ đầy đủ 4 khu (30 điểm, tổng 248,3 ha, trong đó 200 ha đã cấp phép), cảnh báo QĐ 2581 cho 03 tỉnh,
+  cảnh báo vênh tên xã trong bản gốc. `references/08` trỏ sang bản đã ký + sửa 1 byte UTF-8 hỏng. `references/04` thêm 4 dòng.
+- `van-ban-goc/` MỚI (05 DOCX + mục lục); `sources/` thêm 05 file toàn văn + cập nhật mục lục.
+- `SKILL.md` (description, trường hợp dùng 7, bảng QH quốc gia, bảng reference, nguyên tắc bất biến mới số 8), `README.md`.
+- `plugin.json` → 1.3.0. Chi tiết: `CHANGELOG-v2026.09.13.md`.
+
 ## [1.2.0] - 05/9/2026 — NQ 66.25/2026/NQ-CP: quy hoạch khoáng sản về Bộ Công Thương
 
 - `references/04` bảng khung pháp lý: thêm NQ 66.25/2026/NQ-CP (04/9/2026, hiệu lực 15/9/2026 – 28/02/2027) — chức năng quy hoạch địa chất, khoáng sản (NĐ 70/2026 PL I số 26–28) chuyển Bộ NN&MT → Bộ Công Thương; cấp Sở → Sở Công Thương; kiến nghị điều chỉnh QĐ 866/2581/1626 từ 15/9/2026 gửi Bộ Công Thương.

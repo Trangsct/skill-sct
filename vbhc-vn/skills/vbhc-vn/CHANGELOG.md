@@ -1,3 +1,8 @@
+## [2.20.0] - 13/9/2026 — Quy tắc 25 công thức hóa học chỉ số dưới
+
+- **SKILL.md Quy tắc 25 (mới)**: chữ số trong công thức hóa học (P₂O₅, H₂SO₄, AlF₃...) phải là run subscript thật; cách làm Chế độ A/B và cách QA. Nguồn: Bạn phát hiện P2O5 viết thường trong Kế hoạch Bài toán lớn số 2 ngày 13/9/2026.
+- `plugin.json` → 2.20.0.
+
 ## [2.19.0] - 13/9/2026 — Quy tắc 24 căn lề ô bảng phụ lục
 
 - **SKILL.md Quy tắc 24 (mới)**: ô nhiều chữ trong bảng phụ lục/phụ biểu căn đều hai bên; ô ít chữ, cột TT, cột ngày tháng căn giữa; cấm căn trái. Ngưỡng 1 dòng ≈ 4,5 ký tự/cm bề rộng cột. Nguồn: Bạn phát hiện trên Phụ lục I Kế hoạch Bài toán lớn số 2 ngày 13/9/2026.

@@ -325,6 +325,8 @@ Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức v
 
 24. **CĂN LỀ Ô TRONG BẢNG PHỤ LỤC, PHỤ BIỂU (Bạn chốt 13/9/2026):** ô nhiều chữ (từ 2 dòng trở lên) **căn đều hai bên (justify)**; ô ít chữ (1 dòng: TT, số, ngày tháng, tên ngắn) **căn giữa**; **cấm căn trái** kiểu mặc định của Word. Cột TT và cột thời gian/ngày tháng luôn căn giữa (ngày justify sẽ bị giãn chữ xấu). Khi dựng bằng code: `cell_par(..., justify=True)` cho ô dài, ước lượng ngưỡng 1 dòng ≈ 4,5 ký tự/cm bề rộng cột ở cỡ 9,5–10,5pt; hàng nhóm (merge cả hàng, in đậm) căn trái. Mẫu tham chiếu: `dacn-sct-vn/scripts/bai-toan-lon-2/build_kh_bt2.py` (hàm `make_table`), `edit_bc.py` (bảng tiến độ). *(Soi ảnh bảng trước khi giao — lỗi này Bạn phát hiện trên Phụ lục I Kế hoạch Bài toán lớn số 2.)*
 
+25. **CÔNG THỨC HÓA HỌC — chữ số phải là chỉ số dưới thật (Bạn chốt 13/9/2026):** P₂O₅, H₂SO₄, H₃PO₄, AlF₃, CO₂, SO₂, NH₃... viết chữ số bằng run `font.subscript=True` (không viết P2O5 thường, không dùng ký tự Unicode ₂₅ vì font Times có thể thiếu). Khi dựng bằng code: `_emit()` trong `build_kh_bt2.py` tách công thức theo regex `FORMULA` và tạo run chỉ số dưới cho chữ số; Chế độ B: tách run chứa công thức thành các run con. QA: grep `P2O5|H2SO4|H3PO4` trong pdftotext — nếu còn nguyên chuỗi liền là chưa sửa. m2/m3 vẫn là chỉ số trên (Quy tắc 8).
+
 ## Demo có sẵn
 
 Trong `scripts/`:

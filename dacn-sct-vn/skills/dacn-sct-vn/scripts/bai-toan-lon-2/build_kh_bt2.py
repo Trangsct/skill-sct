@@ -32,7 +32,7 @@ sec.top_margin = sec.bottom_margin = Cm(2)
 sec.left_margin = Cm(3); sec.right_margin = Cm(2)
 
 
-def _run(p, text, bold=False, italic=False, size=14, sup=False):
+def _run(p, text, bold=False, italic=False, size=14, sup=False, sub=False):
     r = p.add_run(text)
     r.font.name = "Times New Roman"; r.font.size = Pt(size)
     r._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
@@ -40,6 +40,8 @@ def _run(p, text, bold=False, italic=False, size=14, sup=False):
     r.bold = bold; r.italic = italic
     if sup:
         r.font.superscript = True
+    if sub:
+        r.font.subscript = True
     return r
 
 
@@ -59,14 +61,21 @@ def add_runs(p, text, bold=False, italic=False, size=14):
         _emit(p, text[pos:], bold, italic, size)
 
 
+FORMULA = r"\b(P2O5|H2SO4|H3PO4|H2SiF6|AlF3|CaF2|CO2|SO2|NH3|CaSO4|SiO2|Fe2O3|Al2O3|Cu2S|H2O)\b"
+
+
 def _emit(p, text, bold, italic, size):
-    parts = re.split(r"(m[23](?!\d))", text)
+    """m2/m3 → chỉ số trên; công thức hóa học (P2O5, H2SO4...) → chữ số chỉ số dưới (Quy tắc 25 vbhc-vn)."""
+    parts = re.split(r"(m[23](?!\d)|" + FORMULA + ")", text)
     for part in parts:
         if not part:
             continue
         if re.fullmatch(r"m[23]", part):
             _run(p, "m", bold, italic, size)
             _run(p, part[1], bold, italic, size, sup=True)
+        elif re.fullmatch(FORMULA, part):
+            for ch in part:
+                _run(p, ch, bold, italic, size, sub=ch.isdigit())
         else:
             _run(p, part, bold, italic, size)
 

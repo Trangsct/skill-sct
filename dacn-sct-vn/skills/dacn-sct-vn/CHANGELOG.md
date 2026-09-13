@@ -1,5 +1,9 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.5.3] - 13/9/2026 — build_kh_bt2.py: công thức hóa học chỉ số dưới
+
+- `scripts/bai-toan-lon-2/build_kh_bt2.py`: `_emit()` tách công thức hóa học (regex `FORMULA`) và tạo run subscript cho chữ số (P₂O₅...); `_run(sub=)`. Theo Quy tắc 25 vbhc-vn.
+
 ## [1.5.2] - 14/9/2026 — bộ script Bài toán lớn số 2 bản v11
 
 - `scripts/bai-toan-lon-2/`: `noi_dung_bt2.py`, `phu_luc_bt2.py` bản v11 — Kế hoạch kết cấu 07 mục, Phụ lục I phân công 6 cột, Phụ lục II danh mục mở 16 dự án; căn cứ thêm KL 83-KL/TW, NĐ 351/2026/NĐ-CP, TT 50/2026/TT-BCT; khối ký KT. CHỦ TỊCH. `build_kh_bt2.py`: MODE=all mặc định, TITLE_LINES/NGAY_LINE, căn lề ô bảng theo Quy tắc 24 vbhc-vn. `edit_bc.py` (mới): sửa Báo cáo trực tiếp trên file gốc, ban hành chậm nhất 15/10/2026. Bản v6 giữ đối chiếu (`*_v6.py`). README-v11.md.

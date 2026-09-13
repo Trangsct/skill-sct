@@ -323,6 +323,8 @@ Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức v
 
 23. **GIỌNG VĂN CÔNG VĂN XIN Ý KIẾN (Bạn chốt 10/9/2026):** giọng đề nghị, không ra lệnh: "kính đề nghị quý cơ quan, đơn vị…", "xin gửi về…", "rất mong nhận được sự quan tâm, phối hợp"; xưng "quý cơ quan, đơn vị, doanh nghiệp"; **TUYỆT ĐỐI KHÔNG dùng câu "quá thời hạn không có ý kiến được hiểu là thống nhất với dự thảo"** hay biến thể áp đặt tương tự; hạn gửi ghi kèm lý do mềm ("để Sở kịp tổng hợp, hoàn thiện"). Áp dụng cả công văn gửi ngoài và công văn nội bộ Sở/phòng.
 
+24. **CĂN LỀ Ô TRONG BẢNG PHỤ LỤC, PHỤ BIỂU (Bạn chốt 13/9/2026):** ô nhiều chữ (từ 2 dòng trở lên) **căn đều hai bên (justify)**; ô ít chữ (1 dòng: TT, số, ngày tháng, tên ngắn) **căn giữa**; **cấm căn trái** kiểu mặc định của Word. Cột TT và cột thời gian/ngày tháng luôn căn giữa (ngày justify sẽ bị giãn chữ xấu). Khi dựng bằng code: `cell_par(..., justify=True)` cho ô dài, ước lượng ngưỡng 1 dòng ≈ 4,5 ký tự/cm bề rộng cột ở cỡ 9,5–10,5pt; hàng nhóm (merge cả hàng, in đậm) căn trái. Mẫu tham chiếu: `dacn-sct-vn/scripts/bai-toan-lon-2/build_kh_bt2.py` (hàm `make_table`), `edit_bc.py` (bảng tiến độ). *(Soi ảnh bảng trước khi giao — lỗi này Bạn phát hiện trên Phụ lục I Kế hoạch Bài toán lớn số 2.)*
+
 ## Demo có sẵn
 
 Trong `scripts/`:

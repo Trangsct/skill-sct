@@ -1,5 +1,10 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.5.2] - 14/9/2026 — bộ script Bài toán lớn số 2 bản v11
+
+- `scripts/bai-toan-lon-2/`: `noi_dung_bt2.py`, `phu_luc_bt2.py` bản v11 — Kế hoạch kết cấu 07 mục, Phụ lục I phân công 6 cột, Phụ lục II danh mục mở 16 dự án; căn cứ thêm KL 83-KL/TW, NĐ 351/2026/NĐ-CP, TT 50/2026/TT-BCT; khối ký KT. CHỦ TỊCH. `build_kh_bt2.py`: MODE=all mặc định, TITLE_LINES/NGAY_LINE, căn lề ô bảng theo Quy tắc 24 vbhc-vn. `edit_bc.py` (mới): sửa Báo cáo trực tiếp trên file gốc, ban hành chậm nhất 15/10/2026. Bản v6 giữ đối chiếu (`*_v6.py`). README-v11.md.
+- Ref 11 chưa cập nhật phương án v11 (chờ kết luận UBND tỉnh).
+
 ## [1.5.1] - 10/9/2026 — lưu bộ script dựng hồ sơ Bài toán lớn số 2
 
 - `scripts/bai-toan-lon-2/`: build_kh_bt2.py (thân + phụ lục, MODE=body|pl), noi_dung_bt2.py, phu_luc_bt2.py, build_ttr_bt2.py, build_cv_bt2.py (kèm danh sách viện/trường/DN), build_cv_noi_bo_bt2.py (mẫu Văn phòng Sở), bpb_bt2.txt, README. Bản 10/9/2026: 7 điểm nghẽn/7 câu hỏi, kinh phí 365 tỷ, không nêu thứ tự ưu tiên chuỗi thành văn, giọng công văn cầu thị.

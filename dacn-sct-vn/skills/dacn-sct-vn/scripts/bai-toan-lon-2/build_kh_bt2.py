@@ -9,9 +9,9 @@ from docx.enum.section import WD_ORIENT, WD_SECTION
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-from noi_dung_bt2 import CAN_CU, THAN, NOI_NHAN, PL1, PL2, PL3
+from noi_dung_bt2 import CAN_CU, THAN, NOI_NHAN, PL1, PL2, TITLE_LINES, NGAY_LINE
 
-MODE = os.environ.get("MODE", "body")  # body | pl | all
+MODE = os.environ.get("MODE", "all")  # body | pl | all
 OUT = "/home/claude/work/output/kh_bt2.docx" if MODE != "pl" else "/home/claude/work/output/kh_bt2_phuluc.docx"
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
@@ -129,7 +129,7 @@ def set_col_widths(table, widths_cm):
 
 
 def cell_par(cell, text, *, bold=False, italic=False, center=False, size=14,
-             first=0, before=0, after=0, clear=False):
+             first=0, before=0, after=0, clear=False, justify=False):
     if clear:
         p = cell.paragraphs[0]
         for r in list(p.runs):
@@ -140,7 +140,12 @@ def cell_par(cell, text, *, bold=False, italic=False, center=False, size=14,
     pf.first_line_indent = first
     pf.space_before = Pt(before); pf.space_after = Pt(after)
     pf.line_spacing_rule = WD_LINE_SPACING.SINGLE
-    pf.alignment = WD_ALIGN_PARAGRAPH.CENTER if center else WD_ALIGN_PARAGRAPH.LEFT
+    if center:
+        pf.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    elif justify:
+        pf.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    else:
+        pf.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_runs(p, text, bold=bold, italic=italic, size=size)
     return p
 
@@ -178,14 +183,12 @@ if MODE != "pl":
     cell_par(c1, "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM", bold=True, center=True, size=13, clear=True)
     cell_par(c1, "Độc lập – Tự do – Hạnh phúc", bold=True, center=True, size=14)
     cell_par(c1, "@@LINE2@@", center=True, size=13)
-    p_ngay = cell_par(c1, "Lào Cai, ngày         tháng 9 năm 2026", italic=True, center=True, size=13, before=4)
+    p_ngay = cell_par(c1, NGAY_LINE, italic=True, center=True, size=13, before=4)
     mark_13pt(p_ngay)
 
     P(doc, "DỰ THẢO", bold=True, left=True, first=0, before=6, after=0, size=12)  # theo sửa của Bạn 09/9: căn trái
     P(doc, "KẾ HOẠCH", bold=True, center=True, first=0, before=6, after=0, keep_next=True)
-    for i, tl in enumerate(["Thực hiện Bài toán lớn số 2 “Phát triển công nghiệp khai thác và tinh chế",
-                            "nguyên liệu phục vụ phát triển công nghệ chiến lược”",
-                            "trên địa bàn tỉnh Lào Cai giai đoạn 2026 - 2030"]):
+    for i, tl in enumerate(TITLE_LINES):
         P(doc, tl, bold=True, center=True, first=0, before=0, after=(6 if i == 2 else 0), keep_next=True)
     P(doc, "", first=0, before=3, after=3)  # dòng trống sau tiêu đề (theo sửa của Bạn 09/9)
 
@@ -223,11 +226,10 @@ if MODE != "pl":
     cell_par(s0, "Nơi nhận:", bold=True, italic=True, size=12, clear=True)
     for nn in NOI_NHAN:
         cell_par(s0, nn, size=11)
-    cell_par(s1, "TM. ỦY BAN NHÂN DÂN", bold=True, center=True, size=13, clear=True)
-    cell_par(s1, "KT. CHỦ TỊCH", bold=True, center=True, size=13)
+    cell_par(s1, "KT. CHỦ TỊCH", bold=True, center=True, size=13, clear=True)
     cell_par(s1, "PHÓ CHỦ TỊCH", bold=True, center=True, size=13)
     # số dòng trống = số dòng Nơi nhận (kể cả tiêu đề) - 3 dòng chức danh - 1 dòng tên; tối thiểu 3 (Quy tắc 22)
-    for _ in range(7):  # 7 dòng trống theo bản Bạn sửa tay 09/9/2026
+    for _ in range(8):  # 7 dòng trống theo bản Bạn sửa tay 09/9/2026
         cell_par(s1, "", center=True, size=13)
     cell_par(s1, "Giàng Quốc Hưng", bold=True, center=True, size=14)
     # khối ký không gãy trang
@@ -270,18 +272,21 @@ def make_table(headers, rows, widths, font=11, header_font=11, group_rows=None):
             r.cells[i].width = Cm(w)
         if ri in group_rows:
             merged = r.cells[0].merge(r.cells[-1])
-            cell_par(merged, row[0], bold=True, size=font, clear=True, before=2, after=2)
+            _note = row[0].startswith("Ghi chú")
+            cell_par(merged, row[0], bold=not _note, italic=_note, size=font, clear=True, before=2, after=2)
             continue
         for i, val in enumerate(row):
             paras = val.split("\n") if val else [""]
+            # Quy tắc ô bảng (vbhc-vn): ô ít chữ (1 dòng) căn giữa; ô nhiều chữ căn đều hai bên; không căn trái.
+            # Ước lượng số ký tự/dòng theo bề rộng cột: ~ 4,5 ký tự/cm ở cỡ 9,5-10,5.
+            _cap = widths[i] * 4.5
+            _long = any(len(pt) > _cap for pt in paras) or len(paras) > 2
+            _center = (i == 0 and headers[0] == "TT") or not _long
             first = True
             for ptxt in paras:
-                if first:
-                    cell_par(r.cells[i], ptxt, size=font, clear=True, before=1, after=1,
-                             center=(i == 0), bold=(i == 0 and ri not in group_rows and False))
-                    first = False
-                else:
-                    cell_par(r.cells[i], ptxt, size=font, before=1, after=1, center=(i == 0))
+                cell_par(r.cells[i], ptxt, size=font, clear=first, before=1, after=1,
+                         center=_center, justify=not _center)
+                first = False
     return t
 
 
@@ -298,7 +303,6 @@ def phu_luc(title_lines, sub, headers, rows, widths, font=10.5, group_rows=None,
 if MODE != "body":
     phu_luc(**PL1)
     phu_luc(**PL2)
-    phu_luc(**PL3)
 
 doc.save(OUT)
 

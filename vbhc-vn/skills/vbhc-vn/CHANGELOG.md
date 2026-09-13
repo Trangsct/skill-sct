@@ -1,3 +1,9 @@
+## [2.19.0] - 13/9/2026 — Quy tắc 24 căn lề ô bảng phụ lục
+
+- **SKILL.md Quy tắc 24 (mới)**: ô nhiều chữ trong bảng phụ lục/phụ biểu căn đều hai bên; ô ít chữ, cột TT, cột ngày tháng căn giữa; cấm căn trái. Ngưỡng 1 dòng ≈ 4,5 ký tự/cm bề rộng cột. Nguồn: Bạn phát hiện trên Phụ lục I Kế hoạch Bài toán lớn số 2 ngày 13/9/2026.
+- Mẫu code đã áp dụng: `dacn-sct-vn/.../bai-toan-lon-2/build_kh_bt2.py` (`cell_par(justify=)`, `make_table`) và `edit_bc.py`.
+- `plugin.json` → 2.19.0.
+
 ## [2.18.1] - 11/9/2026 — Nhóm A, D bổ sung từ vụ CV mở rộng KCN Minh Quân (Create Capital)
 
 - **reference/phong-tranh-sai-lam.md Nhóm A**: cấm ghép 2 dữ kiện trong reference plugin thành kết luận mới về vụ việc (viết "52 ha thuộc phạm vi dự án QĐ 767" khi không có căn cứ); hiện trạng KCN do BQL quản lý chỉ viết dạng đề nghị rà soát; mỗi câu khẳng định trong bản trình ký phải có đúng 1 nguồn gốc. Ghi lại 3 lỗi thật 11/9/2026 (52 ha nằm trong 160 ha QĐ 525 — Bạn đính chính; suy diễn phạm vi dự án đầu tư công; ghi hiện trạng XLNT từ số liệu 31/7 vào văn bản tháng 9).

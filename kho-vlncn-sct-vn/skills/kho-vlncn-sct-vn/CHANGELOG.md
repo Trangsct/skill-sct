@@ -1,5 +1,12 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.10.4] - 09/9/2026 — bổ sung vụ Phú Hà (kho hiện hữu mỏ đá Bản Cầm) + khung TT 32/2026
+- Thêm `vi-du-thuc-te/phu-ha-kho-hien-huu-ban-cam-2026/SCT-CN_YK_De_cuong_kiem_dinh_Kho_VLNCN_Phu_Ha_Ban_Cam_9.2026.docx` — CV tham gia ý kiến Đề cương kiểm định, phúc đáp VB 0709/2026/CV-PH ngày 07/9/2026 của Công ty cổ phần Phú Hà (nối tiếp CV 5400/SCT-CN ngày 04/9/2026).
+- **Mẫu này thay cho mẫu 04 vụ Mông Sơn** khi làm kho hiện hữu từ 01/7/2026: căn cứ chuyển sang Điều 4 Thông tư số 32/2026/TT-BXD ngày 22/6/2026 (hướng dẫn khoản 6 Điều 8 NĐ 207/2026; bãi bỏ các Điều 2-9 và 19 TT 10/2021/TT-BXD). Khoản 5 Điều 4 là căn cứ để SCT cho ý kiến về đề cương và là căn cứ yêu cầu tổ chức kiểm định phải độc lập với chủ đầu tư, chủ sở hữu và các nhà thầu.
+- Ghi nhận lập luận năng lực: không có CCHN mang tên "kiểm định xây dựng" (khoản 1, khoản 2 Điều 88 Luật Xây dựng 135/2025; khoản 1 Điều 28 NĐ 212/2026 chỉ 4 lĩnh vực cấp CCHN).
+- Cấp công trình kho: mục 1.2.6.8 điểm b Bảng 1.2 Phụ lục I TT 34/2026/TT-BXD — kho cố định nổi và nửa ngầm sức chứa ≤10 tấn là cấp II (>10 tấn: cấp I).
+- Cập nhật `vi-du-thuc-te/00-MUC-LUC.md` (thêm VỤ 5). plugin.json 1.10.3 → **1.10.4**.
+
 ## [1.10.3] - 02/9/2026 — sửa theo scripts/check_facts.py (CI dữ kiện lỗi thời)
 - Sửa các vi phạm do scripts/check_facts.py quét: nơi nộp hồ sơ → motcua-tthc.moit.gov.vn; tiêu ngữ en dash trong mẫu; trỏ xp-hc-vlncn-sct-vn → xp-sct-vn; CN(M.Cường) trong mẫu → CN(Khôi), trong ví dụ lịch sử chú thích "lịch sử"; ký hiệu /GP-SCT bỏ chữ "dự kiến". Không đổi nghiệp vụ.
 

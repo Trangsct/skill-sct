@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.67"
+    "version": "4.11.68"
   },
   "plugins": [
     {
@@ -60,7 +60,7 @@
       "name": "kho-vlncn-sct-vn",
       "source": "./kho-vlncn-sct-vn",
       "description": "Kho vat lieu no cong nghiep (VLNCN), So Cong Thuong Lao Cai. PHAN LUONG 4 truong hop (ref 11): kho co dinh xay moi (co KTCTNT) - kho tam (MIEN KTCTNT tu 01/7/2026, loai tru k1 D25 ND 207/2026, chuyen tiep k3 D53) - kho hien huu (kiem dinh theo D34, D36 ND 207/2026) - thue kho. Cap cong trinh TT 34/2026: khong co kho cap III/IV. Nghiem thu PCCC tu to chuc theo NQ 66.18/2026. Kem mau van ban, van ban goc, case Dong Tien, Toan Kim Son, Mong Son.",
-      "version": "1.10.3"
+      "version": "1.10.4"
     },
     {
       "name": "pccc-sct-vn",

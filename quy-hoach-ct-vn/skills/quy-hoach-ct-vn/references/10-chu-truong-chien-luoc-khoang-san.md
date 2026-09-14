@@ -224,7 +224,11 @@ khi tham mưu đưa mỏ vào/ra quy hoạch phải kiểm tra có chồng khu v
 
 ---
 
-## V. QĐ 154/QĐ-TTg ngày 29/01/2022 — kéo dài kỳ quy hoạch KS làm VLXD và KS làm xi măng (LỊCH SỬ, đã hết vai trò khi QĐ 1626/QĐ-TTg ban hành 15/12/2023)
+## V. HAI VĂN BẢN LỊCH SỬ VỀ QUY HOẠCH KS LÀM VLXD (QĐ 154/QĐ-TTg và QĐ 836/QĐ-BXD)
+
+Cả hai chỉ dùng để **giải trình hồ sơ cũ** và **hiểu vì sao quy hoạch VLXD chậm 26 tháng**; việc hiện nay dẫn **QĐ 1626/QĐ-TTg 15/12/2023**.
+
+### V.1. QĐ 154/QĐ-TTg ngày 29/01/2022 — kéo dài kỳ quy hoạch KS làm VLXD và KS làm xi măng (đã hết vai trò khi QĐ 1626/QĐ-TTg ban hành 15/12/2023)
 
 **Trích yếu đầy đủ** (văn bản lịch sử, thay bằng QĐ 1626/QĐ-TTg từ 15/12/2023): *Quyết định số 154/QĐ-TTg ngày 29 tháng 01 năm 2022 của Thủ tướng Chính phủ về việc điều chỉnh
 kéo dài kỳ quy hoạch khoáng sản làm vật liệu xây dựng, khoáng sản làm xi măng đến khi Quy hoạch thăm dò, khai thác,
@@ -232,7 +236,7 @@ chế biến và sử dụng các loại khoáng sản làm vật liệu xây d�
 KT. Thủ tướng — PTT Lê Văn Thành ký. Hiệu lực từ ngày ký. Theo đề nghị của Bộ trưởng Bộ Xây dựng tại
 Tờ trình số 04/TTr-BXD ngày 19/01/2022.
 
-### 1. Nội dung
+#### a) Nội dung
 
 Điều 1 kéo dài **hai quy hoạch cũ** cho tới khi quy hoạch VLXD thời kỳ 2021-2030 được phê duyệt; *"Các nội dung khác
 được giữ nguyên theo quy hoạch đã được Thủ tướng Chính phủ phê duyệt."*
@@ -249,7 +253,7 @@ Cơ sở pháp lý của việc kéo dài: **NQ 751/2019/UBTVQH14 ngày 16/8/201
 **NQ 110/NQ-CP ngày 02/12/2019** (danh mục quy hoạch được tích hợp vào quy hoạch cấp quốc gia, vùng, tỉnh theo điểm c
 khoản 1 Điều 59 Luật Quy hoạch), **NQ 119/NQ-CP ngày 27/9/2021**, NQ 74/2018/QH14.
 
-### 2. Vai trò hiện nay — ĐỌC KỸ
+#### b) Vai trò hiện nay — ĐỌC KỸ
 
 QĐ 154 **đã hết vai trò thực tiễn** từ khi **QĐ 1626/QĐ-TTg ngày 15/12/2023** (Quy hoạch thăm dò, khai thác, chế biến và
 sử dụng các loại khoáng sản làm vật liệu xây dựng thời kỳ 2021-2030, tầm nhìn đến năm 2050) được phê duyệt — đúng điều kiện
@@ -261,9 +265,61 @@ sử dụng các loại khoáng sản làm vật liệu xây dựng thời kỳ 
 | Đọc/giải trình **hồ sơ cũ** cấp trong khoảng **29/01/2022 → 15/12/2023** (hoặc hồ sơ viện dẫn quy hoạch 2020 đã hết kỳ) | QĐ 154 là văn bản giải thích: quy hoạch cũ **vẫn có hiệu lực áp dụng trong thời kỳ chờ**, nên hồ sơ dẫn QĐ 152/2008 hay QĐ 105/2008 ở thời kỳ đó **không sai** |
 | Trả lời thanh tra, kiểm toán về "quy hoạch đã hết kỳ 2020 mà vẫn cấp phép" | Dẫn QĐ 154 + NQ 751/2019/UBTVQH14 để chứng minh có cơ sở pháp lý kéo dài |
 
+### V.2. QĐ 836/QĐ-BXD ngày 14/10/2019 — Kế hoạch lập Quy hoạch KS làm VLXD 2021-2030, tầm nhìn 2050
+
+**Trích yếu đầy đủ** (văn bản lịch sử, quy hoạch tương ứng nay là QĐ 1626/QĐ-TTg 15/12/2023): *Quyết định số 836/QĐ-BXD
+ngày 14 tháng 10 năm 2019 của Bộ trưởng Bộ Xây dựng phê duyệt Kế hoạch lập Quy hoạch thăm dò, khai thác, chế biến và
+sử dụng các loại khoáng sản làm vật liệu xây dựng thời kỳ 2021-2030, tầm nhìn đến năm 2050.*
+
+**Bộ trưởng Phạm Hồng Hà** ký. Hiệu lực kể từ ngày ký. Căn cứ: Luật Quy hoạch 21/2017/QH14; **NĐ 37/2019/NĐ-CP
+ngày 07/5/2019**; NĐ 81/2017/NĐ-CP (cơ cấu tổ chức Bộ Xây dựng — đã hết hiệu lực); **QĐ 995/QĐ-TTg ngày 09/8/2018**
+(giao nhiệm vụ các bộ lập quy hoạch ngành quốc gia 2021-2030). Toàn văn: `sources/qd836-bxd-ke-hoach-lap-qh-vlxd-toanvan.txt`.
+
+Đây là **kế hoạch nội bộ của Bộ Xây dựng** để tổ chức lập quy hoạch — không chứa danh mục mỏ, không chứa số liệu
+trữ lượng. Giá trị sử dụng của nó với Sở là **giá trị quy trình** và **giá trị giải trình tiến độ**.
+
+#### a) Ba giai đoạn và tiến độ DỰ KIẾN trong kế hoạch
+
+| Giai đoạn | Mốc dự kiến trong QĐ 836 |
+|---|---|
+| **1. Lập, thẩm định, phê duyệt NHIỆM VỤ lập quy hoạch** | Lập nhiệm vụ 10-11/2019 · thẩm định 11-12/2019 · trình 12/2019 · **Thủ tướng phê duyệt nhiệm vụ 01/2020** |
+| **2. Lập, thẩm định, phê duyệt QUY HOẠCH** | Chọn tư vấn 02-03/2020 · lập quy hoạch + báo cáo ĐMC 3-12/2020 · lấy ý kiến bộ, ngành, UBND các cấp 01-4/2021 · Hội đồng thẩm định + tư vấn phản biện độc lập 5-8/2021 · trình 9-10/2021 · **Thủ tướng phê duyệt quy hoạch 10/2021** |
+| **3. Công bố quy hoạch** | Kế hoạch công bố, hội nghị công bố, bàn giao hồ sơ lưu giữ **11-12/2021** |
+
+Phân công trong Bộ XD: **Ban Quản lý quy hoạch** là *cơ quan lập quy hoạch*; **Vụ Vật liệu xây dựng** là cơ quan tham mưu
+chuyên ngành và thường trực Hội đồng thẩm định nhiệm vụ; **Vụ Kế hoạch - Tài chính** lo dự toán, vốn, đấu thầu.
+Ghi chú trong kế hoạch: *"Chủ tịch Hội đồng thẩm định quy hoạch là Thủ tướng Chính phủ hoặc Phó Thủ tướng Chính phủ
+(Điều 30 Luật Quy hoạch số 21/2017/QH14)"* và thời gian **sẽ được điều chỉnh theo thực tế** để đồng bộ với các quy hoạch
+cấp quốc gia, vùng, tỉnh khác.
+
+#### b) Dự kiến vs thực tế — chỗ này mới là điều đáng nhớ
+
+| | Mốc |
+|---|---|
+| QĐ 836 dự kiến Thủ tướng phê duyệt quy hoạch | **10/2021** |
+| Thực tế: **QĐ 1626/QĐ-TTg** phê duyệt Quy hoạch KS làm VLXD 2021-2030, tầm nhìn 2050 | **15/12/2023** |
+| Chậm | **≈ 26 tháng** |
+
+→ **Đó chính là lý do phải có QĐ 154/QĐ-TTg ngày 29/01/2022** (mục V.1 — văn bản lịch sử, kết thúc khi QĐ 1626 ban hành):
+quy hoạch cũ đã hết kỳ 2020, quy hoạch mới chưa kịp ban hành theo tiến độ của QĐ 836, nên Thủ tướng phải kéo dài kỳ
+quy hoạch cũ cho tới khi quy hoạch mới được phê duyệt. Ba văn bản QĐ 836 (10/2019) → QĐ 154 (01/2022) → QĐ 1626 (12/2023) là **một mạch liền**; nắm mạch này thì
+trả lời được câu hỏi kinh điển của thanh tra, kiểm toán: *"vì sao giai đoạn 2021-2023 vẫn cấp phép theo quy hoạch đã
+hết kỳ 2020?"*.
+
+#### c) Dùng QĐ 836 vào việc gì
+
+| Tình huống | Cách dùng |
+|---|---|
+| Giải trình tiến độ quy hoạch VLXD giai đoạn 2021-2023 | Dẫn mạch QĐ 836 → QĐ 154 → QĐ 1626 như trên |
+| Cần biết **quy trình chuẩn lập một quy hoạch ngành quốc gia** và **Sở góp ý ở bước nào** | QĐ 836 là ví dụ mẫu đầy đủ nhất trong bộ tài liệu — bảng 3 giai đoạn + 2 lần lấy ý kiến địa phương đã đưa vào **ref 01 mục 5** |
+| Truy nguồn nhiệm vụ lập quy hoạch ngành quốc gia | **QĐ 995/QĐ-TTg ngày 09/8/2018** — văn bản giao Bộ Công Thương lập quy hoạch khoáng sản (→ QĐ 866) và Bộ Xây dựng lập quy hoạch KS làm VLXD (→ QĐ 1626) |
+| Việc hiện nay về khoáng sản làm VLXD | **KHÔNG dẫn QĐ 836** — dẫn QĐ 1626/QĐ-TTg 15/12/2023. Và từ 15/9/2026 đầu mối là **Bộ Công Thương**, không phải Bộ Xây dựng |
+
 ---
 
-## VI. ANTI-ERROR — 8 lỗi phải tránh
+---
+
+## VI. ANTI-ERROR — 9 lỗi phải tránh
 
 1. **Không viết "Chiến lược khoáng sản"** rút gọn trong văn bản chính thức. Viết đủ: *"Chiến lược địa chất, khoáng sản
    và công nghiệp khai khoáng đến năm 2030, tầm nhìn đến năm 2045"*.
@@ -275,7 +331,7 @@ sử dụng các loại khoáng sản làm vật liệu xây dựng thời kỳ 
 5. **Không ghi "Bộ Tài nguyên và Môi trường"** khi nói về việc hiện tại. Bộ này nay là **Bộ Nông nghiệp và Môi trường**;
    riêng địa chất, khoáng sản (gồm quy hoạch khoáng sản) **từ 15/9/2026 thuộc Bộ Công Thương** (NQ 66.25/2026/NQ-CP).
    Khi trích nguyên văn NQ 10/NQ 88/QĐ 334 thì giữ nguyên tên bộ trong bản gốc và **ghi chú trong ngoặc** tên cơ quan hiện nay.
-6. **Không dẫn QĐ 154/QĐ-TTg cho việc hiện tại** — việc hiện nay dẫn QĐ 1626/QĐ-TTg 15/12/2023; xem mục V.2.
+6. **Không dẫn QĐ 154/QĐ-TTg cho việc hiện tại** — việc hiện nay dẫn QĐ 1626/QĐ-TTg 15/12/2023; xem mục V.1.b.
 7. **Không trộn mục tiêu của NQ 10-NQ/TW với mục tiêu của QĐ 334.** Hai văn bản cùng mốc 2025/2030/2045 nhưng câu chữ
    và mức chỉ tiêu có chỗ khác nhau (QĐ 334 chi tiết hơn, bổ sung điều tra địa chất đô thị, di sản địa chất, biển sâu).
    Dẫn đúng văn bản nào ghi chỉ tiêu đó.
@@ -283,12 +339,18 @@ sử dụng các loại khoáng sản làm vật liệu xây dựng thời kỳ 
    là **định hướng quốc gia**, không phải một dự án đã có chủ trương đầu tư. Khi viết báo cáo phải phân biệt
    *định hướng chiến lược* ≠ *danh mục quy hoạch (QĐ 866/1626)* ≠ *dự án đã được chấp thuận chủ trương đầu tư*.
 
+9. **Không dẫn QĐ 836/QĐ-BXD như một quy hoạch.** Nó là **kế hoạch tổ chức lập** quy hoạch (nội bộ Bộ Xây dựng, 2019),
+   không có danh mục mỏ, không có trữ lượng, không có tọa độ. Quy hoạch thật là **QĐ 1626/QĐ-TTg 15/12/2023**.
+   Cũng không ghi "Bộ Xây dựng chủ trì quy hoạch khoáng sản làm vật liệu xây dựng" cho việc hiện tại — từ **15/9/2026**
+   đầu mối là **Bộ Công Thương** (NQ 66.25/2026/NQ-CP).
+
 ## VII. LIÊN KẾT
 
 | Cần gì | Đến đâu |
 |---|---|
 | Danh mục mỏ, trữ lượng, công suất, tọa độ mỏ nhóm I ở Lào Cai | ref **07** (QĐ 2581 đã ký + dự thảo điều chỉnh QĐ 866), ref **08** (tọa độ, thăm dò, chế biến) |
 | Khung pháp lý quy hoạch khoáng sản, phân nhóm I-IV, thẩm quyền | ref **04** |
+| **Quy trình 3 giai đoạn lập một quy hoạch ngành quốc gia** và 2 lần Sở góp ý (ví dụ mẫu QĐ 836/QĐ-BXD) | ref **01** mục 5 |
 | Hệ thống chỉ đạo của Tỉnh ủy, UBND tỉnh về khoáng sản (CTr 39-CTr/TU, KH 200/KH-UBND) | `qlks-sct-vn` ref **09** |
 | Nhiệm vụ của Sở Công Thương phát sinh từ chuỗi văn bản này | `qlks-sct-vn` ref **24** |
 | Chuyển chức năng QLNN địa chất, khoáng sản về Công Thương từ 15/9/2026 | `qlks-sct-vn` ref **23** |

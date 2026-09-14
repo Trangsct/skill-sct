@@ -13,6 +13,7 @@ Bản gốc (DOCX toàn văn) các văn bản **công khai cấp trung ương** 
 | `QD-334-QD-TTg-01-4-2023-...docx` | **QĐ 334/QĐ-TTg ngày 01/4/2023** — phê duyệt Chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 | KT. TTg — PTT Trần Hồng Hà | từ ngày ký | ref **10** mục IV |
 | `QD-154-QD-TTg-29-01-2022-...docx` | **QĐ 154/QĐ-TTg ngày 29/01/2022** — điều chỉnh kéo dài kỳ quy hoạch khoáng sản làm VLXD, khoáng sản làm xi măng | KT. TTg — PTT Lê Văn Thành | từ ngày ký; **đã hết vai trò** khi QĐ 1626/QĐ-TTg 15/12/2023 được phê duyệt | ref **10** mục V |
 | `QD-2581-QD-TTg-24-11-2025-...docx` | **QĐ 2581/QĐ-TTg ngày 24/11/2025** — điều chỉnh QĐ 866 tại 3 khu vực: vonfram Núi Pháo (Thái Nguyên), **mỏ đồng Tả Phời (Lào Cai)**, bôxit Thọ Sơn + Thống Nhất (Đồng Nai). Kèm Phụ lục I, II, III | KT. TTg — PTT Trần Hồng Hà | từ ngày ký | ref **07** mục A, ref **08** |
+| `QD-836-QD-BXD-14-10-2019-...docx` | **QĐ 836/QĐ-BXD ngày 14/10/2019** — Kế hoạch lập Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản làm VLXD thời kỳ 2021-2030, tầm nhìn 2050 (kèm biểu nội dung chi tiết) | Bộ trưởng Bộ Xây dựng Phạm Hồng Hà | từ ngày ký; **LỊCH SỬ** — quy hoạch tương ứng là QĐ 1626/QĐ-TTg 15/12/2023 | ref **10** mục V.2; ref **01** mục 5 |
 
 ## Cách dùng
 

@@ -253,6 +253,15 @@ RULES = [
         "since": "2026-09-13",
         "level": "WARN",
     },
+    {
+        "id": "qd836-khong-phai-quy-hoach",
+        # QĐ 836/QĐ-BXD 14/10/2019 là KẾ HOẠCH TỔ CHỨC LẬP quy hoạch KS làm VLXD, không phải quy hoạch.
+        # Quy hoạch thật là QĐ 1626/QĐ-TTg 15/12/2023.
+        "pattern": r"(theo|căn cứ|tại) [^\n]{0,40}836/QĐ-BXD[^\n]{0,60}(quy hoạch khoáng sản|danh mục mỏ|trữ lượng)|Quy hoạch[^\n]{0,50}(ban hành|phê duyệt)[^\n]{0,30}(QĐ|Quyết định số) ?836/QĐ-BXD",
+        "why": "QĐ 836/QĐ-BXD ngày 14/10/2019 là KẾ HOẠCH tổ chức lập quy hoạch KS làm VLXD (nội bộ Bộ Xây dựng), không có danh mục mỏ/trữ lượng. Quy hoạch KS làm VLXD là QĐ 1626/QĐ-TTg ngày 15/12/2023; từ 15/9/2026 đầu mối là Bộ Công Thương. Xem quy-hoach-ct-vn ref 10 mục V.2 và ref 01 mục 5.",
+        "since": "2026-09-14",
+        "level": "FAIL",
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

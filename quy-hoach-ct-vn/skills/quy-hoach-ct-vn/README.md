@@ -16,7 +16,7 @@ Cẩm nang **quy hoạch 04 ngành Công Thương** trên địa bàn tỉnh Là
 quy-hoach-ct-vn/
 ├── SKILL.md                          # khung pháp lý + định tuyến + nguyên tắc
 └── references/
-    ├── 01-he-thong-quy-hoach.md      # hệ thống QH, vai trò Sở CT, tích hợp
+    ├── 01-he-thong-quy-hoach.md      # hệ thống QH, vai trò Sở CT, tích hợp; quy trình 3 giai đoạn lập QH ngành QG
     ├── 02-qh-dien-viii-qd768.md      # Quy hoạch điện VIII (QĐ 768) quốc gia
     ├── 03-dien-lao-cai.md            # danh mục nguồn/lưới điện Lào Cai (Bảng 32-43)
     ├── 04-khoang-san.md              # QĐ 866/1626, nhóm I-IV, khoáng sản Lào Cai
@@ -36,9 +36,10 @@ sources/                              # TOÀN VĂN FILE GỐC để tra cứu ch
     ├── nq10-nqtw-2022-toanvan.txt            # NQ 10-NQ/TW Bộ Chính trị (đã ban hành)
     ├── nq88-nqcp-2022-toanvan.txt            # NQ 88/NQ-CP + danh mục 18 nhiệm vụ (đã ký)
     ├── qd154-keodai-ky-qh-vlxd-ximang-toanvan.txt # QĐ 154 kéo dài kỳ QH VLXD, xi măng (lịch sử)
+    ├── qd836-bxd-ke-hoach-lap-qh-vlxd-toanvan.txt # QĐ 836/QĐ-BXD kế hoạch lập QH VLXD (lịch sử)
     ├── qht-laocai-2026-baocao-thuyetminh.txt # Báo cáo QHT Lào Cai 7/6/2026 (4 ngành tích hợp)
     └── qht-laocai-2026-phuluc.txt            # Phụ lục Báo cáo QHT Lào Cai 7/6/2026
-van-ban-goc/                          # BẢN GỐC DOCX 05 văn bản trung ương về khoáng sản
+van-ban-goc/                          # BẢN GỐC DOCX 06 văn bản trung ương về khoáng sản
     └── 00-MUC-LUC.md                 # mục lục + cách mở đọc
 ```
 
@@ -49,7 +50,7 @@ Cơ chế: `references/` cho khung + phần Lào Cai trích sẵn (tra nhanh); `
 - QĐ 525/QĐ-UBND 25/02/2026 — Quy hoạch tỉnh Lào Cai.
 - QĐ 768/QĐ-TTg 15/4/2025 — Điều chỉnh Quy hoạch điện VIII.
 - QĐ 866/QĐ-TTg 18/7/2023 — khoáng sản nhóm I; điều chỉnh bởi QĐ 2581/QĐ-TTg 24/11/2025 (mỏ đồng Tả Phời).
-- QĐ 1626/QĐ-TTg 15/12/2023 — khoáng sản VLXD (khép lại thời kỳ kéo dài theo QĐ 154/QĐ-TTg 29/01/2022).
+- QĐ 1626/QĐ-TTg 15/12/2023 — khoáng sản VLXD (mạch QĐ 995/QĐ-TTg 09/8/2018 → QĐ 836/QĐ-BXD 14/10/2019 → QĐ 154/QĐ-TTg 29/01/2022 → QĐ 1626).
 - NQ 10-NQ/TW 10/02/2022 (Bộ Chính trị) → NQ 88/NQ-CP 22/7/2022 → QĐ 334/QĐ-TTg 01/4/2023 — chủ trương, chương trình hành động và Chiến lược địa chất, khoáng sản, công nghiệp khai khoáng đến 2030, tầm nhìn 2045.
 - Luật Quy hoạch 2017; Luật Điện lực 2024; Luật Địa chất và Khoáng sản 54/2024 (sửa 147/2025).
 

@@ -1,5 +1,16 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## [1.4.0] - 14/9/2026 — QĐ 836/QĐ-BXD 14/10/2019: quy trình 3 giai đoạn lập quy hoạch ngành quốc gia + mạch QĐ 836 → QĐ 154 → QĐ 1626
+
+- `references/01` mục 5 MỚI: bảng 3 giai đoạn lập một quy hoạch ngành quốc gia (NHIỆM VỤ → QUY HOẠCH → CÔNG BỐ), đánh dấu
+  **2 lần địa phương được lấy ý kiến** (lần 1 góp nhiệm vụ, lần 2 góp danh mục mỏ); ĐMC, tư vấn phản biện độc lập, Hội đồng
+  thẩm định do TTg/PTTg làm Chủ tịch (Đ.30 Luật Quy hoạch); gốc nhiệm vụ QĐ 995/QĐ-TTg 09/8/2018.
+- `references/10` mục V viết lại (V.1 QĐ 154 + **V.2 QĐ 836 MỚI**): tiến độ dự kiến vs thực tế — dự kiến phê duyệt 10/2021,
+  thực tế QĐ 1626 ngày 15/12/2023, **chậm ≈26 tháng** → lý do có QĐ 154; anti-error 8 → **9 lỗi**.
+- `references/04`, `SKILL.md`, `README.md`, 2 mục lục cập nhật. `van-ban-goc/` + `sources/` thêm QĐ 836.
+- `check_facts.py`: rule `qd836-khong-phai-quy-hoach`. `registry/trang-thai.csv`: QĐ 836, QĐ 995.
+- `plugin.json` → 1.4.0. Chi tiết: `CHANGELOG-v2026.09.14.md`.
+
 ## [1.3.0] - 13/9/2026 — chuỗi chủ trương → chiến lược khoáng sản (NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334) + toàn văn QĐ 2581
 
 - `references/10-chu-truong-chien-luoc-khoang-san.md` MỚI: NQ 10-NQ/TW 10/02/2022, NQ 88/NQ-CP 22/7/2022 (18 nhiệm vụ),

@@ -13,6 +13,7 @@ Thư mục `sources/` chứa **toàn văn các văn bản gốc** (trích xuất
 | `nq10-nqtw-2022-toanvan.txt` | **NQ 10-NQ/TW 10/02/2022** của Bộ Chính trị — định hướng chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 (toàn văn) | **ĐÃ BAN HÀNH** (TBT Nguyễn Phú Trọng) | Quan điểm, mục tiêu, 5 nhóm nhiệm vụ - giải pháp; câu về **mỏ sắt Quý Xa (Lào Cai)**; trích nguyên văn khi mở đầu báo cáo |
 | `nq88-nqcp-2022-toanvan.txt` | **NQ 88/NQ-CP 22/7/2022** của Chính phủ — Chương trình hành động thực hiện NQ 10-NQ/TW (toàn văn + **danh mục 18 nhiệm vụ** có cơ quan chủ trì và hạn trình) | **ĐÃ KÝ** (PTT Lê Văn Thành) | Nhiệm vụ "đặt hàng" QĐ 866 (Bộ Công Thương), QĐ 1626 (Bộ XD), QH năng lượng, QH tỉnh có phương án bảo vệ - sử dụng KS; nghĩa vụ bố trí kinh phí bảo vệ KS chưa khai thác và báo cáo 31/12 hằng năm |
 | `qd154-keodai-ky-qh-vlxd-ximang-toanvan.txt` | **QĐ 154/QĐ-TTg 29/01/2022** — kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) (toàn văn) | ĐÃ KÝ — **đã hết vai trò** khi QĐ 1626/QĐ-TTg 15/12/2023 được phê duyệt | Giải trình hồ sơ cũ 29/01/2022 → 15/12/2023 vẫn dẫn quy hoạch 2020; căn cứ NQ 751/2019/UBTVQH14 |
+| `qd836-bxd-ke-hoach-lap-qh-vlxd-toanvan.txt` | **QĐ 836/QĐ-BXD 14/10/2019** — Kế hoạch lập Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại KS làm VLXD 2021-2030, tầm nhìn 2050 (toàn văn + biểu nội dung chi tiết 3 giai đoạn) | ĐÃ KÝ (Bộ trưởng Phạm Hồng Hà) — **LỊCH SỬ**, quy hoạch tương ứng là QĐ 1626/QĐ-TTg 15/12/2023 | **Quy trình chuẩn lập một quy hoạch ngành quốc gia**: 3 giai đoạn, 2 lần lấy ý kiến UBND các cấp, Hội đồng thẩm định do TTg/PTTg làm Chủ tịch, ĐMC, tư vấn phản biện độc lập; phân công các Vụ thuộc Bộ XD; đối chiếu tiến độ dự kiến vs thực tế |
 | `qd768-quyhoach-dien-viii-toanvan.txt` | QĐ 768/QĐ-TTg 15/4/2025 — Điều chỉnh Quy hoạch điện VIII (toàn văn quyết định) | **ĐÃ KÝ** (PTT Bùi Thanh Sơn) | Quan điểm, mục tiêu, cơ cấu nguồn điện quốc gia, định hướng lưới; danh mục TBA/ĐZ 500-220kV miền Bắc (trong bảng) |
 | `qht-laocai-2026-baocao-thuyetminh.txt` | Báo cáo (thuyết minh) Điều chỉnh Quy hoạch tỉnh Lào Cai 2021-2030 (UBND tỉnh, bản thao tác 07/6/2026); DOCX gốc | Bản thao tác — KHÔNG phải QĐ 525 đã ký | **Toàn bộ 04 ngành tích hợp**: hiện trạng + phương án điện (Bảng 4-15, 32-43), khoáng sản (mục 1.4.2, 4.6, 6), KCN (5.2), CCN; kèm các bảng |
 | `qht-laocai-2026-phuluc.txt` | Phụ lục Báo cáo Điều chỉnh QHT Lào Cai (07/6/2026); 54 bảng | Bản thao tác | Chỉ tiêu KT-XH, dân số, GRDP, sử dụng đất, danh mục dự án ưu tiên... |
@@ -23,7 +24,7 @@ Thư mục `sources/` chứa **toàn văn các văn bản gốc** (trích xuất
 
 ## Quan hệ với thư mục `van-ban-goc/`
 
-`van-ban-goc/` giữ **bản gốc DOCX** của 05 văn bản trung ương (NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334, QĐ 154, QĐ 2581) —
+`van-ban-goc/` giữ **bản gốc DOCX** của 06 văn bản trung ương (NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334, QĐ 154, QĐ 2581, QĐ 836/QĐ-BXD) —
 dùng khi cần mở đọc, đối chiếu thể thức, hoặc gửi kèm. `sources/` giữ **bản text** của chính các văn bản đó để `grep`.
 Mục lục: `van-ban-goc/00-MUC-LUC.md`.
 

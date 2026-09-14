@@ -41,3 +41,30 @@ Sở Công Thương KHÔNG phải là cơ quan lập quy hoạch tỉnh (do Sở
 - **"Giữ nguyên theo quy hoạch tỉnh" / "bổ sung mới" / "đưa ra khỏi quy hoạch":** trong danh mục điều chỉnh, mỗi dự án được phân loại theo các nhóm này. Khi rà soát phải đọc đúng cột phân loại.
 - **Công suất "chưa phân bổ" (điện):** phần công suất quy hoạch cho địa phương nhưng chưa gắn dự án cụ thể; sẽ phân bổ trong quá trình thực hiện.
 - **Khu vực "dự trữ khoáng sản quốc gia" và "khu vực cấm/tạm cấm hoạt động khoáng sản":** không được quy hoạch khai thác; phải loại trừ khi đề xuất.
+
+## 5. Quy trình lập MỘT quy hoạch ngành quốc gia — 3 giai đoạn (Sở góp ý ở đâu)
+
+Nguồn gốc nhiệm vụ: **QĐ 995/QĐ-TTg ngày 09/8/2018** của Thủ tướng Chính phủ giao nhiệm vụ cho các bộ tổ chức lập
+quy hoạch ngành quốc gia thời kỳ 2021-2030, tầm nhìn 2050 — đây là văn bản phân công **Bộ Công Thương** lập quy hoạch
+khoáng sản (→ QĐ 866) và **Bộ Xây dựng** lập quy hoạch khoáng sản làm VLXD (→ QĐ 1626).
+
+Mỗi bộ sau đó ban hành **kế hoạch lập quy hoạch** của mình. Ví dụ mẫu đầy đủ, có trong `van-ban-goc/`:
+**QĐ 836/QĐ-BXD ngày 14/10/2019** của Bộ trưởng Bộ Xây dựng — Kế hoạch lập Quy hoạch thăm dò, khai thác, chế biến và
+sử dụng các loại khoáng sản làm VLXD thời kỳ 2021-2030, tầm nhìn 2050 (Bộ trưởng Phạm Hồng Hà ký; căn cứ Luật Quy hoạch
+21/2017/QH14, NĐ 37/2019/NĐ-CP, QĐ 995/QĐ-TTg). Chi tiết + đối chiếu tiến độ dự kiến với thực tế: **ref 10 mục V.3**.
+
+| Giai đoạn | Các bước | ⭐ Sở Công Thương tham gia |
+|---|---|---|
+| **1. NHIỆM VỤ lập quy hoạch** | Khung định hướng → xây dựng nhiệm vụ lập quy hoạch (thuyết minh + tờ trình thẩm định + dự thảo QĐ của Thủ tướng) → **lấy ý kiến các bộ, cơ quan ngang bộ, UBND các cấp** → tổng hợp, tiếp thu, giải trình → Hội đồng thẩm định nhiệm vụ (Thủ tướng thành lập) → **Thủ tướng phê duyệt nhiệm vụ** | ⭐ **Lần 1** — góp ý *nhiệm vụ* (phạm vi, đối tượng, phương pháp lập), chưa phải góp ý danh mục mỏ |
+| **2. QUY HOẠCH** | Lựa chọn tư vấn lập quy hoạch → lập quy hoạch theo nhiệm vụ đã duyệt + **lập báo cáo đánh giá môi trường chiến lược (ĐMC)** → **lấy ý kiến các bộ, UBND các cấp, tổ chức liên quan về Quy hoạch** → tổng hợp, giải trình, hoàn chỉnh hồ sơ → Hội đồng thẩm định (**Chủ tịch là Thủ tướng hoặc Phó Thủ tướng** — Điều 30 Luật Quy hoạch) + **tư vấn phản biện độc lập** → trình → **Thủ tướng phê duyệt quy hoạch** | ⭐ **Lần 2 — quan trọng nhất.** Đây là lúc đề nghị **đưa mỏ/dự án của tỉnh vào danh mục**, sửa diện tích, trữ lượng, công suất, tọa độ. Bỏ lỡ bước này thì sau đó phải xin **điều chỉnh quy hoạch** (thủ tục nặng hơn nhiều — xem QĐ 2581 ở ref 07) |
+| **3. CÔNG BỐ** | Kế hoạch công bố → hội nghị công bố → bàn giao hồ sơ đến cơ quan lưu giữ theo quy định | Tiếp nhận, phổ biến, đối chiếu danh mục trên địa bàn |
+
+**Ba điều rút ra để làm việc:**
+
+1. **Hai lần lấy ý kiến địa phương là hai cơ hội khác nhau.** Văn bản xin ý kiến ở giai đoạn 1 hỏi về *nhiệm vụ*;
+   góp danh mục mỏ vào lúc này là lạc đề. Văn bản xin ý kiến ở giai đoạn 2 mới là lúc góp danh mục — trả lời phải kèm
+   số liệu đầy đủ (tên mỏ, xã, diện tích, trữ lượng, công suất, tọa độ khép góc).
+2. **Mọi quy hoạch ngành quốc gia đều do Thủ tướng phê duyệt**, Hội đồng thẩm định do Thủ tướng/Phó Thủ tướng làm
+   Chủ tịch. Vì vậy văn bản của tỉnh về quy hoạch ngành là **kiến nghị gửi Bộ chủ trì**, không phải "đề nghị phê duyệt".
+3. **Từ 15/9/2026, đầu mối chủ trì quy hoạch khoáng sản (cả nhóm I và VLXD) là Bộ Công Thương** (NQ 66.25/2026/NQ-CP,
+   NĐ 70/2026 Phụ lục I) — vai trò của Bộ Xây dựng trong QĐ 836 là **lịch sử**. Xem ref 04 và `qlks-sct-vn` ref 23.

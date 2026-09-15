@@ -1,4 +1,4 @@
-# Phòng tránh 11 nhóm sai lầm tham mưu A–K (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 12 nhóm sai lầm tham mưu A–L (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -211,6 +211,18 @@ Rồi đọc lại toàn văn một lượt riêng chỉ để soi register, kh�
 
 **Cách QA nhanh cho Nhóm K:** `qa_all.py --forbid "Thẩm định chặt chẽ" "Hướng dẫn chi tiết" "nắm chắc" "các vụ mất" "chi tiết, đầy đủ" "kiểm tra thực tế khu vực nổ mìn" "Nghị định số 217" "Thông tư số 23/2024" "Điều 39" "Điều 41"` cho văn bản chỉ đạo UBND tỉnh về VLNCN; sau đó đếm số viện dẫn điều/khoản toàn văn — quá 4–5 là đang dẫn thừa.
 
+### Nhóm L — Công văn Sở CHO Ý KIẾN, XIN GIA HẠN, HƯỚNG DẪN BỔ SUNG HỒ SƠ (Công văn 9060/UBND-TH ngày 07/9/2026 của Chủ tịch UBND tỉnh Lào Cai — mục 4, mục 5)
+
+Nguồn: Công văn số 9060/UBND-TH ngày 07/9/2026 của Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký) về chấn chỉnh, nâng cao chất lượng, trách nhiệm trong công tác tham mưu. Áp dụng cho mọi công văn Sở trả lời đề nghị tham gia ý kiến, công văn xin gia hạn thời hạn và công văn hướng dẫn hoàn thiện hồ sơ gửi UBND xã, phường, tổ chức, doanh nghiệp.
+
+**L1 — Cho ý kiến phải có chính kiến, không trả lời chung chung.** Mỗi nội dung được hỏi phải trả lời rõ **nhất trí** hay **không nhất trí**, kèm lý do. CẤM để câu *"căn cứ theo quy định của pháp luật để thực hiện"* và các biến thể (*"đề nghị thực hiện theo đúng quy định hiện hành"*, *"đề nghị nghiên cứu các quy định có liên quan"*) làm toàn bộ nội dung trả lời. Nhịp câu chuẩn: "Sở Công Thương nhất trí với … ; đề nghị … bổ sung, làm rõ … theo quy định tại …"; trường hợp không nhất trí: "Sở Công Thương chưa nhất trí với … vì … ; đề nghị …". Nội dung không thuộc thẩm quyền Sở thì chỉ rõ nội dung nào, thuộc cơ quan nào, không gộp vào một câu chung.
+
+**L2 — Xin gia hạn: không quá 01 lần, thời gian tối đa không quá 10 ngày.** Văn bản xin gia hạn phải gửi **trước** thời hạn, nêu rõ lý do, phần việc đã thực hiện, nội dung chưa hoàn thành và **mốc ngày hoàn thành cụ thể**; không thay mốc ngày bằng "sẽ báo cáo sau", "khi có kết quả sẽ báo cáo". Không có lần gia hạn thứ hai: hết thời hạn gia hạn phải có văn bản trả lời, kể cả khi mới có kết quả một phần (phần chưa có nêu rõ lý do và thời hạn).
+
+**L3 — Hướng dẫn hoàn thiện hồ sơ phải đủ trong MỘT lần.** Trước khi phát hành công văn đề nghị bổ sung, rà soát toàn bộ hồ sơ và liệt kê hết từng đầu mục còn thiếu, kèm căn cứ và mẫu biểu tương ứng; không ra công văn lần thứ hai cho lỗi lẽ ra đã thấy ở lần thứ nhất. Nếu buộc phải có văn bản lần hai do hồ sơ được sửa đổi sau đó thì nêu rõ lý do phát sinh.
+
+**Cách QA nhanh cho Nhóm L:** `qa_all.py --forbid "căn cứ theo quy định của pháp luật để thực hiện" "thực hiện theo đúng quy định hiện hành" "nghiên cứu các quy định có liên quan" "sẽ báo cáo sau"`; với công văn tham gia ý kiến, đếm số lần xuất hiện "nhất trí" — bằng 0 là chưa có chính kiến.
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]
@@ -225,6 +237,7 @@ Rồi đọc lại toàn văn một lượt riêng chỉ để soi register, kh�
 ☐ Kính gửi ↔ Nơi nhận "Như trên" nhất quán; tiêu ngữ en dash; kết "./."               [G]
 ☐ Bảng nội dung KHÔNG còn `<w:trHeight>`; không trang nào kết bằng đề mục rồi bỏ trắng    [F]
 ☐ Văn bản cấp UBND tỉnh: việc giao cơ quan khác nằm trong thẩm quyền thật của họ nhưng KHÔNG ghi điều khoản; điều kiện lên cơ quan khác chỉ khi đã giao vai trò cho Sở + có sản phẩm; toàn văn ≤ 4–5 viện dẫn [K]
+☐ Công văn cho ý kiến: từng nội dung đã ghi rõ nhất trí/không nhất trí kèm lý do; gia hạn ≤ 01 lần, ≤ 10 ngày; hướng dẫn bổ sung hồ sơ liệt kê đủ một lần [L]
 ☐ Đã ghi rõ phần nào "cần xác minh trước khi ký"
 ```
 Một ô không tick được → BÁO LẠI người dùng, không tự bịa/suy đoán.
@@ -255,5 +268,9 @@ Script dò: từ suy đoán [B/C], số văn bản đáng nghi [A], VB hết hi�
 - *"Đã tra đúng điều khoản, ghi vào cho chắc"* → văn bản chỉ đạo UBND tỉnh chỉ dẫn QĐ ủy quyền + điều khoản tạo thẩm quyền mới; còn lại "theo quy định". [K6]
 - *"Đặt điều kiện cho Công an/DN bằng cách phối hợp kiểm tra"* → chỉ được khi Sở đã có vai trò được giao ở mục trước và có sản phẩm cụ thể (văn bản xác nhận). [K1]
 - *"Mở ngoặc giải thích cho Lãnh đạo hiểu vì sao"* → phần đó thuộc phiếu trình/Công văn của Sở, không thuộc thân văn bản UBND tỉnh. [K4]
+
+- *"Nội dung này phức tạp, trả lời chung chung 'đề nghị thực hiện theo quy định' cho an toàn"* → DỪNG: đúng câu bị Công văn 9060/UBND-TH chấn chỉnh; chọn nhất trí (kèm điều kiện) hoặc không nhất trí (kèm lý do). [L1]
+- *"Xin gia hạn thêm một lần nữa cho chắc"* → không có lần thứ hai; trả lời phần đã có, phần chưa có nêu lý do và mốc ngày. [L2]
+- *"Ra công văn yêu cầu bổ sung phần thấy ngay, phần còn lại rà sau"* → DỪNG: rà hết hồ sơ rồi mới phát hành, tránh để địa phương đi lại nhiều lần. [L3]
 
 Đây là lúc kỷ luật này có giá trị nhất — bắt sai lầm ngay khi đang hình thành, không phải sửa sau khi đã sai.

@@ -1,3 +1,8 @@
+## 15/9/2026 — vbhc-vn 2.21.0: Nhóm L — công văn cho ý kiến, xin gia hạn, hướng dẫn bổ sung hồ sơ (CV 9060/UBND-TH)
+
+- **Văn bản nguồn:** Công văn số **9060/UBND-TH ngày 07/9/2026** của Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký), V/v chấn chỉnh, nâng cao chất lượng, trách nhiệm trong công tác tham mưu của các cơ quan, đơn vị, địa phương. Số và ngày đọc từ file gốc bằng `extract_metadata.py` (context hiển thị "Số: /UBND-TH", ngày trống).
+- **vbhc-vn 2.21.0** — `reference/phong-tranh-sai-lam.md` thêm **Nhóm L (L1–L3)** rút từ mục 4, mục 5 của công văn: L1 cho ý kiến phải có chính kiến (nhất trí/không nhất trí + lý do, cấm "căn cứ theo quy định của pháp luật để thực hiện"); L2 gia hạn không quá 01 lần và không quá 10 ngày, có mốc ngày cụ thể; L3 hướng dẫn hoàn thiện hồ sơ đủ trong một lần. Kèm lệnh QA `--forbid`, ô checklist [L], 3 dòng tự bắt lỗi. Anti-error **11 → 12 nhóm A–L**; SKILL.md và plugin.json đồng bộ.
+
 ## 14/9/2026 — quy-hoach-ct-vn 1.4.0: QĐ 836/QĐ-BXD 14/10/2019 — quy trình 3 giai đoạn lập quy hoạch ngành quốc gia và mạch QĐ 836 → QĐ 154 → QĐ 1626
 
 - **Văn bản:** QĐ 836/QĐ-BXD ngày 14/10/2019 của Bộ trưởng Bộ Xây dựng (Phạm Hồng Hà ký) — Kế hoạch lập Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản làm VLXD thời kỳ 2021-2030, tầm nhìn 2050. Căn cứ **QĐ 995/QĐ-TTg ngày 09/8/2018** (giao nhiệm vụ các bộ lập quy hoạch ngành quốc gia). Đây là **kế hoạch tổ chức lập** quy hoạch trong nội bộ Bộ Xây dựng — KHÔNG có danh mục mỏ, trữ lượng, tọa độ; quy hoạch thật là **QĐ 1626/QĐ-TTg 15/12/2023**.

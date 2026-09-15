@@ -1,3 +1,13 @@
+## [2.21.0] - 15/9/2026 — Nhóm L: công văn cho ý kiến, xin gia hạn, hướng dẫn bổ sung hồ sơ
+
+- **reference/phong-tranh-sai-lam.md — Nhóm L MỚI (L1–L3)**. Nguồn: Công văn số **9060/UBND-TH ngày 07/9/2026** của Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký) về chấn chỉnh, nâng cao chất lượng, trách nhiệm trong công tác tham mưu — mục 4 và mục 5.
+  - **L1** ý kiến phối hợp phải ghi rõ nhất trí hay không nhất trí kèm lý do; cấm dùng "căn cứ theo quy định của pháp luật để thực hiện" và biến thể làm toàn bộ nội dung trả lời; nội dung ngoài thẩm quyền phải chỉ rõ thuộc cơ quan nào.
+  - **L2** xin gia hạn không quá 01 lần, tối đa 10 ngày, gửi trước thời hạn, có mốc ngày hoàn thành cụ thể; không có lần gia hạn thứ hai.
+  - **L3** công văn hướng dẫn hoàn thiện hồ sơ (xã, phường, doanh nghiệp) phải liệt kê đủ đầu mục còn thiếu trong một lần.
+  - Lệnh QA `qa_all.py --forbid` cho 4 cụm chung chung; checklist thêm ô [L]; mục "Khi tự phát hiện sắp mắc lỗi" thêm 3 dòng L1–L3.
+- SKILL.md: "11 nhóm A–K" → **"12 nhóm A–L"** tại 3 vị trí, thêm tóm tắt Nhóm L vào mục "Luôn áp dụng"; tiêu đề reference đổi theo; plugin.json 2.20.0 → 2.21.0, description đồng bộ.
+- Các nội dung khác của Công văn 9060/UBND-TH (chủ động thẩm định từ 05/9/2026, quy tắc người đứng đầu trực tiếp ký, 07 chỉ số KPI tham mưu) chưa đưa vào plugin lần này theo yêu cầu.
+
 ## [2.20.0] - 13/9/2026 — Quy tắc 25 công thức hóa học chỉ số dưới
 
 - **SKILL.md Quy tắc 25 (mới)**: chữ số trong công thức hóa học (P₂O₅, H₂SO₄, AlF₃...) phải là run subscript thật; cách làm Chế độ A/B và cách QA. Nguồn: Bạn phát hiện P2O5 viết thường trong Kế hoạch Bài toán lớn số 2 ngày 13/9/2026.

@@ -16,7 +16,25 @@
 
 **Quan hệ với NQ 24-NQ/TW ngày 03/6/2013** (khóa XI, "chủ động ứng phó với BĐKH, tăng cường quản lý tài nguyên và BVMT"): KL 75 nêu rõ Ban Chấp hành Trung ương **"thống nhất khẳng định những quan điểm, mục tiêu cơ bản của Nghị quyết số 24-NQ/TW còn nguyên giá trị; đồng thời điều chỉnh, bổ sung một số quan điểm, mục tiêu, nhiệm vụ, giải pháp"**. → NQ 24 **không bị thay thế/hết hiệu lực**; văn bản mới viện dẫn cặp "NQ 24-NQ/TW + KL 75-KL/TW", với KL 75 là căn cứ chủ đạo cho giai đoạn 2026–2030.
 
-**Chuỗi văn bản chỉ đạo về môi trường của tỉnh (thứ tự thời gian, đều đã xác minh)**: Đề án 13 (NQ 35-NQ/TU 29/12/2025) → Chỉ thị 26-CT/TU 12/5/2026 (BVMT khai khoáng, dự án lớn trong KCN/CCN) → **CTr 104-CTr/TU 30/8/2026** (khung tổng thể BVMT – BĐKH 2026–2030). Kế hoạch/Chương trình hành động của **UBND tỉnh** cụ thể hóa CTr 104: hạn **trước 15/10/2026** (Phụ lục 2 CTr 104, mục I.2) — *đến 11/9/2026 chưa ban hành; khi có, cập nhật số/ngày vào ref 02 mục H và file này.*
+**Chuỗi văn bản chỉ đạo về môi trường của tỉnh (thứ tự thời gian, đều đã xác minh)**: Đề án 13 (NQ 35-NQ/TU 29/12/2025) → Chỉ thị 26-CT/TU 12/5/2026 (BVMT khai khoáng, dự án lớn trong KCN/CCN) → **CTr 104-CTr/TU 30/8/2026** (khung tổng thể BVMT – BĐKH 2026–2030). Kế hoạch/Chương trình hành động của **UBND tỉnh** cụ thể hóa CTr 104: hạn **trước 15/10/2026** (Phụ lục 2 CTr 104, mục I.2); **CV 9387/UBND-KT ngày 15/9/2026 giao Sở NN&MT chủ trì dự thảo, hoàn thành trước 05/10/2026** (mục 0-bis) — *đến 15/9/2026 chưa ban hành; khi có, cập nhật số/ngày vào ref 02 mục H và file này.* Kênh Đảng: **CV 2449-CV/ĐU ngày 07/9/2026** của Đảng ủy UBND tỉnh.
+
+---
+
+## 0-bis. Hai văn bản triển khai CTr 104 xuống cấp thực hiện (bổ sung 15/9/2026 — đã GATE bằng script từ file gốc)
+
+| Văn bản | Cơ quan ban hành | Ngày | Người ký | Giao việc |
+|---|---|---|---|---|
+| **Công văn số 2449-CV/ĐU** *về việc triển khai thực hiện Chương trình hành động số 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy Lào Cai* | **Đảng ủy Ủy ban nhân dân tỉnh Lào Cai** | **07/9/2026** | T/M Ban Thường vụ — Phó Bí thư **Nguyễn Hữu Long** | **Kênh Đảng.** (1) Đề nghị **UBND tỉnh** chỉ đạo các cơ quan, đơn vị nghiên cứu, cụ thể hóa CTr 104 thành **chương trình, đề án, dự án, kế hoạch 5 năm và hằng năm**; thường xuyên kiểm tra, giám sát, đôn đốc, tháo gỡ; sơ kết, tổng kết. (2) **Các cơ quan tham mưu giúp việc Đảng ủy, các chi bộ, đảng bộ cơ sở**: chủ động nghiên cứu, quán triệt KL 75, CTr 31, CTr 104 đến toàn thể cán bộ, đảng viên, CCVC, NLĐ; quán triệt quan điểm *"Đầu tư cho môi trường là đầu tư cho phát triển bền vững"*; **đưa chỉ tiêu BVMT, ứng phó BĐKH vào chỉ tiêu đánh giá kết quả thực hiện nhiệm vụ hằng năm của cấp ủy, chính quyền và người đứng đầu**; Ban xây dựng đảng Đảng ủy chủ trì hướng dẫn tuyên truyền |
+| **Công văn số 9387/UBND-KT** *V/v triển khai thực hiện Chương trình hành động số 104-CTr/TU ngày 30/8/2026 của Tỉnh ủy Lào Cai* | **UBND tỉnh Lào Cai** (Kính gửi: các Sở, ban, ngành thuộc tỉnh; Công an tỉnh; Bộ CHQS tỉnh; UBND các xã, phường) | **15/9/2026** | KT. Chủ tịch — Phó Chủ tịch **Phan Trung Bá** | **Kênh chính quyền.** (1) **Các Sở, ban, ngành** (trong đó có Sở Công Thương) tổ chức nghiên cứu, **cụ thể hóa CTr 104 thành chương trình, đề án, dự án, kế hoạch 5 năm và hằng năm**; theo chức năng, nhiệm vụ chỉ đạo kiểm tra, giám sát, đôn đốc, đánh giá kết quả; tháo gỡ vướng mắc; sơ kết, tổng kết. (2) **Giao Sở Nông nghiệp và Môi trường chủ trì, phối hợp các cơ quan, đơn vị, địa phương xây dựng dự thảo Kế hoạch thực hiện CTr 104 của UBND tỉnh — hoàn thành trước ngày 05/10/2026** |
+
+**GATE**: cả hai bản đều là PDF ký số, lớp text hiển thị `Số -CV/ĐU` và `Số: /UBND-KT` trống; số/ngày lấy bằng `extract_metadata.py` + `pdftotext -layout` trang 1 (15/9/2026) — CV 2449-CV/ĐU ngày 07/9/2026 (số cũng được CV 9387 viện dẫn lại, trùng khớp), CV 9387/UBND-KT ngày 15/9/2026.
+
+⚠️ **Lỗi chính tả trong bản gốc CV 9387**: nhiều chỗ viết *"Chương trình hành độ số 104-CTr/Tu"*. Khi viện dẫn lại trong văn bản của Sở, viết đúng **"Chương trình hành động số 104-CTr/TU"**; chỉ giữ nguyên số, ký hiệu, ngày của chính CV 9387/UBND-KT.
+
+**Ba hệ quả trực tiếp với Sở Công Thương (thay cho phần dự liệu tại mục 5.1 nguyên tắc 1):**
+1. **Mốc thật đã co lại**: dự thảo Kế hoạch của UBND tỉnh phải xong **trước 05/10/2026** (không phải 15/10 — 15/10 là hạn *ban hành* theo PL2 CTr 104). Muốn nhiệm vụ ngành Công Thương nằm trong Kế hoạch đúng vai, **Sở phải gửi đề xuất cho Sở NN&MT trước 30/9/2026**.
+2. **CV 9387 không giao riêng Sở Công Thương nhiệm vụ nào** — chỉ giao chung "các Sở, ban, ngành" và giao chủ trì cho Sở NN&MT. Nếu Sở không chủ động đề xuất, phần ngành (CCN XLNT, KCN sinh thái Tằng Loỏng, công nghiệp môi trường, NLTT, tiêu hao năng lượng, KNK) sẽ bị ghi chung chung hoặc gán sang cơ quan khác.
+3. **Hai việc phải làm song song**, không chờ nhau: (a) Đảng ủy Sở quán triệt theo CV 2449-CV/ĐU (hoàn thành trước 15/10/2026) và đưa chỉ tiêu BVMT–BĐKH vào đánh giá nhiệm vụ hằng năm; (b) chính quyền Sở cụ thể hóa thành kế hoạch của Sở theo CV 9387 — phần khung tại mục 5.3.
 
 ---
 
@@ -247,7 +265,7 @@ Nâng cao năng lực quản trị môi trường, chủ động ứng phó BĐK
 | Mốc | Việc | Phòng / người soạn (tra `sct-laocai-org-vn`) | Người ký |
 |---|---|---|---|
 | **Ngay (tuần 2–3 tháng 9/2026)** | Đảng ủy Sở ban hành **Kế hoạch học tập, quán triệt** KL 75, CTr 31, CTr 104 (lồng vào sinh hoạt chi bộ tháng 9–10; báo cáo viên: lãnh đạo Sở; sản phẩm: bài thu hoạch/biên bản) | Văn phòng Sở + Phòng QLCN cung cấp nội dung ngành | Bí thư Đảng ủy Sở |
-| **Trước khi Sở NN&MT trình dự thảo KH UBND tỉnh (dự kiến cuối 9 – đầu 10/2026)** | **Công văn gửi Sở NN&MT** đề xuất nội dung phần ngành Công Thương đưa vào Kế hoạch của UBND tỉnh (kèm phụ lục nhiệm vụ – chỉ tiêu – mốc – cơ quan chủ trì; mẫu mục 5.4) | Phòng QLCN (CN(M.Long)) chủ trì; QLNL góp phần năng lượng | KT.GĐ — PGĐ Hoàng Văn Thuân |
+| **Trước 30/9/2026** (Sở NN&MT phải hoàn thành dự thảo **trước 05/10/2026** theo CV 9387/UBND-KT) | **Công văn gửi Sở NN&MT** đề xuất nội dung phần ngành Công Thương đưa vào Kế hoạch của UBND tỉnh (kèm phụ lục nhiệm vụ – chỉ tiêu – mốc – cơ quan chủ trì; mẫu mục 5.4) | Phòng QLCN (CN(M.Long)) chủ trì; QLNL góp phần năng lượng | KT.GĐ — PGĐ Hoàng Văn Thuân |
 | **Trước 15/10/2026** | Hoàn thành quán triệt (nhiệm vụ 1 PL2 CTr 104); báo cáo kết quả quán triệt về Ban Tuyên giáo Tỉnh ủy/Đảng ủy UBND tỉnh theo hướng dẫn | Văn phòng Sở | Đảng ủy Sở |
 | **Trong 30 ngày sau khi UBND tỉnh ban hành Kế hoạch** | Sở ban hành **Kế hoạch của Sở Công Thương** (đề cương mục 5.3); phân công 8 nhóm việc; gắn KPI hằng năm cho phòng | Phòng QLCN tổng hợp; QLNL, Thanh tra/QLTT, Văn phòng | GĐ Hoàng Chí Hiền |
 | **Quý IV/2026** | Rà soát hiện trạng XLNT tập trung và quan trắc tự động tại từng CCN; lập **lộ trình 2026–2030 đạt 100%** (CCN nào có vốn QĐ 2390, CCN nào CĐT tư nhân, CCN nào chưa hoạt động); báo cáo UBND tỉnh và Bộ Công Thương (chỉ tiêu 4 quốc gia) | Phòng QLCN | PGĐ Thuân / GĐ |
@@ -293,5 +311,7 @@ Căn cứ: KL 75; CTr 31; CTr 104; Kế hoạch số …/KH-UBND của UBND tỉ
 8. Cơ quan chủ trì trong PL1/PL2 CTr 104 là **"Đảng ủy UBND tỉnh"** — khi trích bảng, giữ nguyên; khi diễn đạt sang chính quyền, viết "UBND tỉnh (theo chỉ đạo của Đảng ủy UBND tỉnh)".
 9. Phụ lục 2 CTr 104 nhiệm vụ 24 có cụm chữ dán sót — chỉ trích tên nhiệm vụ (mục 3.2 chú thích).
 10. Chương trình phát triển ngành công nghiệp môi trường 2025–2030 (nhiệm vụ 39 CTr 31 / 18 CTr 104): **chưa có số/ngày văn bản trong kho** — ghi tên chương trình, không bịa số quyết định; xác minh khi có bản gốc.
-11. Kế hoạch của UBND tỉnh thực hiện CTr 104: **chưa ban hành đến 11/9/2026** — viết "Kế hoạch của UBND tỉnh (đang xây dựng, hạn trước 15/10/2026)".
+11. Kế hoạch của UBND tỉnh thực hiện CTr 104: **chưa ban hành đến 15/9/2026**; đang được **Sở NN&MT chủ trì dự thảo theo CV 9387/UBND-KT ngày 15/9/2026, hoàn thành trước 05/10/2026** — viết "Kế hoạch của UBND tỉnh (đang xây dựng, dự thảo hoàn thành trước 05/10/2026, ban hành trước 15/10/2026)". **Không nhầm 05/10 (hạn dự thảo của Sở NN&MT) với 15/10 (hạn ban hành theo PL2 CTr 104).**
 12. Sau 15/9/2026, các nội dung KCN và khoáng sản trong CTr 104 (Tằng Loỏng sinh thái, tuyển khô, ký quỹ, an toàn hồ thải) thuộc phạm vi QLNN ngành Công Thương theo NQ 66.25/2026/NQ-CP — viết theo thời kỳ, không gán cho Sở NN&MT/BQL KKT như trước 15/9/2026.
+13. **CV 2449-CV/ĐU ngày 07/9/2026 là văn bản của Đảng ủy UBND tỉnh** (Phó Bí thư Nguyễn Hữu Long ký) — không phải của Tỉnh ủy, không phải của UBND tỉnh. Lưu ý **trùng tên** với Trưởng phòng QLCN Nguyễn Hữu Long của Sở Công Thương: khi viện dẫn ghi rõ chức danh "Phó Bí thư Đảng ủy Ủy ban nhân dân tỉnh".
+14. **CV 9387/UBND-KT ngày 15/9/2026 không giao đích danh Sở Công Thương nhiệm vụ nào** — cấm viết "UBND tỉnh giao Sở Công Thương…" khi trích văn bản này; viết đúng: "UBND tỉnh yêu cầu các Sở, ban, ngành cụ thể hóa…; giao Sở Nông nghiệp và Môi trường chủ trì xây dựng dự thảo Kế hoạch".

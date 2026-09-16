@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [1.36.0] - 16/9/2026 — ref 38: CCN Khánh Yên Thượng, dự án thứ cấp Nhà máy sản xuất giày da xuất khẩu (QĐ 3319/QĐ-UBND ngày 15/9/2026)
+
+- **`references/38-ccn-khanh-yen-thuong-du-an-giay-da-van-bao.md` (MỚI):** toàn bộ nội dung **Quyết định số 3319/QĐ-UBND ngày 15/9/2026** của Chủ tịch UBND tỉnh Lào Cai (KT. Chủ tịch — Phó Chủ tịch **Phan Trung Bá** ký) chấp thuận **điều chỉnh chủ trương đầu tư lần thứ nhất** dự án *Nhà máy sản xuất giày da xuất khẩu* (cấp lần đầu tại **QĐ 2428/QĐ-UBND ngày 14/7/2026**).
+  - **Mục A — nền CCN Khánh Yên Thượng:** 5,17 ha (QĐ 525 cho tăng lên 17,17 ha), QĐ thành lập 2971/QĐ-UBND 09/9/2016, UBND xã Văn Bàn quản lý; cảnh báo cụm này KHÔNG thuộc danh sách 08 CCN vốn NSNN họp 15/9/2026 ở ref 37 mục E.
+  - **Mục B — nhà đầu tư và tổ chức kinh tế:** ông **HUANG, YU - CHIEH** (nam, sinh 06/11/1971, Trung Quốc/Đài Loan); **CÔNG TY TNHH CÔNG NGHIỆP VĂN BẢO** (TNHH một thành viên, trụ sở tại CCN Khánh Yên Thượng, MST **5300854562**). Chuỗi pháp lý 5 mốc: QĐ 2428 (14/7) → hồ sơ nộp 07/8, bổ sung 21/8 → **BC 844/BC-STC 11/8** và **BC 915/BC-STC 21/8** của Sở Tài chính → QĐ 3319 (15/9). Bộ căn cứ 04 khoản (Luật 72/2025, Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026).
+  - **Mục C — hai nội dung điều chỉnh:** (1) **bổ sung** tổ chức kinh tế thực hiện dự án vào Điều 1 QĐ 2428; (2) **bãi bỏ** gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428.
+  - **Mục D — Điều 2:** 06 trách nhiệm của nhà đầu tư (ký quỹ; thủ tục môi trường, đất đai, PCCC; **tổ chức kinh tế kế thừa quyền, nghĩa vụ và được giao đất, cho thuê đất**; báo cáo giám sát đánh giá đầu tư 06 tháng/năm gửi Sở Tài chính, Sở NN&MT, Sở Xây dựng, UBND xã Văn Bàn; báo cáo quý/năm theo **Điều 94 NĐ 96/2026** trên Hệ thống thông tin quốc gia về đầu tư); Sở Công Thương có tên tại Điều 2 khoản 2.
+  - **Mục E — Điều 3:** hiệu lực từ ngày ký, **là bộ phận không tách rời QĐ 2428** (viện dẫn phải dẫn cả hai); UBKT Tỉnh ủy, Ban Nội chính Tỉnh ủy, Kiểm toán khu vực VII giám sát; chuyên viên VP UBND tỉnh thụ lý: XD (Thái).
+  - **Mục F — mẫu quy trình 07 bước** bổ sung tổ chức kinh tế khi nhà đầu tư cá nhân lập doanh nghiệp để thực hiện dự án; thời gian xử lý thực tế **39 ngày** (07/8 → 15/9, có 01 lần bổ sung hồ sơ).
+  - **Mục G — cảnh báo số liệu:** QĐ 3319 KHÔNG có diện tích, tổng vốn, công suất, tiến độ, lao động (đều ở QĐ 2428 mà kho chưa có bản gốc) → **cấm suy đoán**, **cấm nâng số doanh nghiệp/tỷ lệ lấp đầy của cụm** (hiện 35%, 01 dự án gạch không nung của HTX Mường Thát) cho tới khi có QĐ 2428 và xác nhận vị trí đất trong cụm.
+- ⚠️ **GATE ký số:** lớp text của PDF để trống toàn bộ 05 ô số/ngày; số **3319** và ngày **15/9/2026** đọc từ trường ký số bằng `extract_metadata.py` (PCT ký 19:14:16, văn thư điền số 21:50). Không lặp lại lỗi QĐ 5116/QĐ-SCT ngày 02/9/2026.
+- **Phân vai mới:** dự án thứ cấp **ngoài KCN** → **Sở Tài chính** thẩm định, **Chủ tịch UBND tỉnh** quyết định (khác dự án thứ cấp trong KCN do BQLCKCN quyết định — ref 33).
+- `SKILL.md`: thêm nghiệp vụ 15 (tra hồ sơ dự án thứ cấp trong CCN) + dòng ref 38 trong bảng reference; rút gọn description để còn chỗ cho nội dung mới. `plugin.json` → 1.36.0.
+- Theo quy tắc kho 12/9/2026: **không đưa bản gốc văn bản vào kho công khai này**. Bản ghi dự án tương ứng ở `dacn-sct-vn` (CBCT-081).
+
 ## [1.35.0] - 16/9/2026 — ref 31 mục 7, 8: CCN Thống Nhất không thu hút đầu tư; phân biệt địa điểm KCN Võ Lao giữa QĐ 525 và QĐ 2463
 
 - **`references/31-so-chot-du-kien-cung.md`:**

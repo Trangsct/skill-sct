@@ -324,10 +324,7 @@ def rule_R02(doc, ctx) -> list[Finding]:
     """
     out: list[Finding] = []
     for loc, p in ctx.items:
-        phang = "".join(
-            r.text for r in p.runs
-            if (r.font.subscript is not True)
-        )
+        phang = ""   # CỐ Ý LÀM HỎNG để thử CI — không bao giờ merge
         for m in CHEM.finditer(nfc(phang)):
             out.append(Finding(
                 "R02", FAIL, loc, cut(p.text),

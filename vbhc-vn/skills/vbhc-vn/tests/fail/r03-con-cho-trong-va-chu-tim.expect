@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng scripts/… từ bản sao mẫu thật, sửa có chủ đích.
+# Chèn "……", "(nêu số liệu)" và một run màu tím 7030A0. --final nâng thành FAIL.
+nguon: examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx
+R03 WARN

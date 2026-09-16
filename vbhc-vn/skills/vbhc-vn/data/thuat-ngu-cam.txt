@@ -1,0 +1,12 @@
+# Danh sách thuật ngữ CẤM dùng trong VBHC của Sở — quy tắc R09 (scripts/qa_rules.py).
+# Bổ sung ở đây, KHÔNG sửa code.
+# Định dạng mỗi dòng:  cụm cấm | cụm thay thế | điều kiện kèm (chỉ báo khi văn bản có cụm này)
+#
+# Nguồn: reference/phong-tranh-sai-lam.md Nhóm K5 (Bạn chốt 06/9/2026) và các lần Bạn sửa tay.
+
+cụm tiểu thủ công nghiệp | cụm công nghiệp | Sơn Mãn
+cụm tiểu thủ công nghiệp | cụm công nghiệp | Đông Phố Mới
+các vụ mất cắp | mất, thất thoát (khoản 16 Điều 5 Luật 42/2024) |
+xâm nhập trái phép, mất cắp | thất thoát, tai nạn, sự cố |
+sự cố lớn | sự cố nghiêm trọng |
+CỘNG HOÀ | CỘNG HÒA |

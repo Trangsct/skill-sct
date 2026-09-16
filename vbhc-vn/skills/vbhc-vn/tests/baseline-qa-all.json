@@ -1,0 +1,85 @@
+{
+  "examples/sct/bao-cao-9-thang-phong-qlcn.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": [
+    "SZ13"
+  ],
+  "examples/sct/bao-cao-thang-phong-qlcn.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": [
+    "LINES",
+    "SIGSPACE",
+    "SZ13"
+  ],
+  "examples/sct/bien-ban-kiem-tra-thuc-te-hhnh.docx": [
+    "SZ13"
+  ],
+  "examples/sct/bien-ban-lam-viec-lien-nganh-ccn.docx": [
+    "LINES"
+  ],
+  "examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx": [
+    "SIGSPACE",
+    "SZ13"
+  ],
+  "examples/sct/cong-van-don-doc-tien-do-ha-tang-ccn-bao-cao-hang-tuan.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/cong-van-moi-hop-sct.docx": [
+    "SZ13"
+  ],
+  "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-kcn.docx": [
+    "SZ13"
+  ],
+  "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx": [],
+  "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/cong-van-xin-y-kien-cac-co-quan-phuong-an-ccn-von-nsnn.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/giay-chung-nhan-attp-winmart.docx": [
+    "LINES"
+  ],
+  "examples/sct/giay-phep-van-chuyen-hhnh.docx": [
+    "SIGSPACE"
+  ],
+  "examples/sct/ke-hoach-thuc-hien-de-an-08.docx": [
+    "SZ13"
+  ],
+  "examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx": [
+    "HDR-BR",
+    "LINES"
+  ],
+  "examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx": [
+    "SZ13"
+  ],
+  "examples/ubnd/bao-cao-vp-ubnd.docx": [
+    "LINES",
+    "SIGSPACE",
+    "SZ13"
+  ],
+  "examples/ubnd/cong-van-ubnd-tinh-chi-dao.docx": [
+    "SIGSPACE",
+    "SZ13"
+  ],
+  "examples/ubnd/cong-van-vp-ubnd-truyen-dat.docx": [
+    "SZ13"
+  ],
+  "examples/ubnd/giay-moi-hop-ubnd.docx": [
+    "SIGSPACE",
+    "SZ13"
+  ],
+  "examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx": [],
+  "examples/ubnd/thong-bao-ket-luan-ubnd.docx": [
+    "SIGSPACE",
+    "SZ13"
+  ]
+}

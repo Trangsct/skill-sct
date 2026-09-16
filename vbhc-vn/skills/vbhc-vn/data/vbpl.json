@@ -1,0 +1,12 @@
+{
+  "_doc": "Kho dữ kiện văn bản pháp luật có kiểm chứng — dùng cho quy tắc R05 (không viện dẫn văn bản chưa có hiệu lực tại ngày ký) trong scripts/qa_rules.py.",
+  "_quy_uoc": {
+    "khoa": "Số hiệu VIẾT HOA đúng như xuất hiện sau chữ 'số' trong văn bản, vd '32/2024/NĐ-CP'.",
+    "ngay_ban_hanh": "YYYY-MM-DD",
+    "ngay_hieu_luc": "YYYY-MM-DD — bỏ trống hoặc bỏ hẳn trường nếu CHƯA kiểm chứng; R05 sẽ không báo gì.",
+    "nguon": "Đường dẫn bản gốc đã tra (vbpl.vn / thuvienphapluat.vn / file trong plugin).",
+    "ngay_kiem_chung": "YYYY-MM-DD — ngày người duy trì đối chiếu bản gốc."
+  },
+  "_canh_bao": "KHÔNG ghi số, ngày từ trí nhớ (Nhóm A). Chỉ ghi khi đã mở bản gốc. Chưa kiểm chứng thì để trống — R05 bỏ qua, không báo, không đoán.",
+  "van_ban": {}
+}

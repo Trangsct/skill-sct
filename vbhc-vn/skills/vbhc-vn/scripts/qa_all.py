@@ -15,6 +15,7 @@ Một lệnh duy nhất làm trọn:
      rồi dùng lại cho: widow word + khối ký gãy trang (qa_pdf_check),
      xuất ảnh từng trang, và GHÉP TẤT CẢ TRANG THÀNH 1 ẢNH qa_sheet.png
      — Claude chỉ cần MỘT lượt `view` thay vì xem từng trang.
+  1b. Bộ quy tắc máy kiểm scripts/qa_rules.py (R01…R15) — thêm --final cho bản xuất bản.
   4. Báo cáo gọn PASS/FAIL từng mục + exit code (0 = PASS, 1 = có FAIL).
 
 Cách dùng:
@@ -41,6 +42,9 @@ try:
 except ImportError:
     print("Cần python-docx: pip install python-docx --break-system-packages")
     sys.exit(2)
+
+# Tái dùng bộ quy tắc máy kiểm qa_rules.py (mục 1b) — KHÔNG viết lại các hàm này
+from qa_rules import chay as chay_qa_rules, FAIL as R_FAIL  # noqa: E402
 
 # Tái dùng các hàm kiểm đã kiểm chứng của qa_pdf_check — KHÔNG viết lại
 from qa_pdf_check import (  # noqa: E402
@@ -313,6 +317,13 @@ def main():
     if forbid_list or require_list:
         for msg in check_content_lists(docx_path, forbid_list, require_list):
             fails.append(("CONTENT", msg))
+
+    # ── 1b. Bộ quy tắc máy kiểm qa_rules.py (R01…R15) ────────────────
+    # --final: bản Bạn yêu cầu "hoàn thiện để xuất bản" — nâng WARN nhóm hoàn thiện
+    # (R03: chỗ trống, chữ tím) thành FAIL. Chi tiết từng quy tắc: scripts/qa_rules.py.
+    for f_ in chay_qa_rules(docx_path, final=("--final" in args)):
+        (fails if f_.level == R_FAIL else warns).append(
+            (f_.code, f"{f_.loc}: {f_.excerpt} → {f_.hint}"))
 
     # ── 2. check_document.py (nội dung: hiệu lực VBQPPL, từ suy đoán…) ─
     cd_code, cd_lines = run_check_document(docx_path)

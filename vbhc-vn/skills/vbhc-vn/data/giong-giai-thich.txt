@@ -1,0 +1,41 @@
+# Cụm từ thuộc GIỌNG GIẢI THÍCH (Nhóm J) — quy tắc R10 (scripts/qa_rules.py).
+# Lấy ĐÚNG danh sách trong reference/phong-tranh-sai-lam.md Nhóm J (Bạn chốt 31/8/2026),
+# KHÔNG tự thêm cụm mới; muốn thêm thì phải có một vụ thật ghi trong CHANGELOG.
+
+# J1 — mẫu câu đã mắc thật
+Đây là luồng đầy đủ nhất
+Đây là luồng đơn giản nhất
+cần nắm rõ
+để không nhầm rằng
+Đây chính là nguyên nhân
+không đồng nghĩa với
+giúp rút ngắn đáng kể
+công cụ pháp lý đúng là
+đơn giản hóa đáng kể
+cần đặc biệt lưu ý
+vì thiếu hồ sơ gốc
+
+# J2 — đề mục dạng hỏi đáp
+Câu hỏi 1
+Câu hỏi 2
+
+# J3 — từ định lượng cảm tính (không kèm số liệu)
+đáng kể
+rất nhiều
+cực kỳ
+vô cùng
+dễ dàng
+
+# J4 — câu meta về chính văn bản
+như đã nêu ở trên anh
+phần này quan trọng nhất
+để dễ hiểu, có thể hình dung
+
+# Nhóm L — trả lời chung chung, không có chính kiến (Công văn 9060/UBND-TH 07/9/2026)
+căn cứ theo quy định của pháp luật để thực hiện
+thực hiện theo đúng quy định hiện hành
+nghiên cứu các quy định có liên quan
+sẽ báo cáo sau
+
+# Nhóm I — câu cấm với công văn hoàn thiện hồ sơ TTHC của doanh nghiệp cụ thể
+quá thời hạn không có ý kiến được hiểu là thống nhất

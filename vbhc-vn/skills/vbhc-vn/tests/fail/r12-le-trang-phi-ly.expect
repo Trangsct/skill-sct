@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng scripts/… từ bản sao mẫu thật, sửa có chủ đích.
+# Đặt lề trái 0,2 cm (trị số phi lý — dấu hiệu file hỏng).
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+R12 FAIL

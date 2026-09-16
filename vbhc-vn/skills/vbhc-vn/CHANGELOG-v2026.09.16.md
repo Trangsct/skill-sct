@@ -51,7 +51,8 @@ bản 2.18.2 đã phải sửa lỗi trang trắng do keepNext sinh ra từ mộ
 
 ## Chưa đạt, đã ghi lại để Bạn quyết
 
-- **Tiêu chí "SKILL.md giảm ≥ 20%" mới đạt 4,4%.** Nguyên tắc IV.3 của bản giao việc chỉ cho
+- ~~Tiêu chí "SKILL.md giảm ≥ 20%" mới đạt 4,4%~~ — **đã đạt 71%** sau khi Bạn cho làm tiếp
+  Việc 4 (tinh gọn theo mô hình lõi và định tuyến). Ghi chép ban đầu giữ lại để thấy vì sao: Nguyên tắc IV.3 của bản giao việc chỉ cho
   phép xóa văn xuôi khi hàm kiểm tương ứng PASS trên toàn bộ examples/; các quy tắc 11–14
   (LINES, SZ13, WIDOW, SIGSPLIT) chưa PASS nên văn xuôi phải giữ. Phần còn lại là loại N hoặc
   thuộc việc tái cấu trúc SKILL.md mà mục III đã hoãn sang đợt sau.
@@ -59,6 +60,24 @@ bản 2.18.2 đã phải sửa lỗi trang trắng do keepNext sinh ra từ mộ
   SZ13 12, LINES 5, HDR-BR 1). Bộ quy tắc mới đóng góp 0 FAIL. Đã chốt hiện trạng vào
   `tests/baseline-qa-all.json` để nâng cấp sau không làm tệ thêm. Chi tiết: mục D.4 của
   `tests/rule-inventory.md`.
+
+## Làm thêm ngoài bản giao việc (Bạn giao tiếp 16/9/2026)
+
+- **Kho dữ kiện văn bản pháp luật có kiểm chứng.** `scripts/build_vbpl.py` ở gốc kho sinh
+  `data/vbpl.json` từ `registry/trang-thai.csv` — một nguồn duy nhất, không lập kho thứ hai.
+  Hiện 62 văn bản, 35 có ngày ban hành, 37 có ngày hiệu lực. `scripts/cite_check.py` quét mọi
+  số hiệu trong bản thảo và chia ba nhóm KHỚP / LỆCH / CHƯA CÓ; cờ `--to-tim` bôi tím chỗ cần
+  tra. Script không tự kết luận là bịa và không tự sửa số hiệu.
+- **Trình biên dịch nội dung sang .docx.** `scripts/build_vb.py` dựng 8 loại văn bản từ một file
+  nội dung dạng thẻ trên mẫu thật, tự tách run chỉ số dưới cho công thức hóa học và chỉ số trên
+  cho m2, m3, tự lùi đầu dòng đồng đều. Bộ hồi quy mục 4 dựng thử cả 8 loại mỗi lần chạy.
+- **Tinh gọn SKILL.md theo mô hình lõi và định tuyến.** 62.085 → 17.771 byte (giảm 71%). Ba khối
+  lớn chuyển sang reference, KHÔNG xóa: `reference/quy-tac-bat-bien.md` (đủ 27 quy tắc),
+  `reference/the-thuc-van-phong.md`, `reference/quy-trinh-hai-che-do.md`. SKILL.md nay gồm:
+  nguyên tắc lõi, **bảng định tuyến loại văn bản → mẫu → `--loai` → reference cần đọc**, 10 quy
+  tắc phải nhớ không tra, bảng lệnh QA, bảng 12 nhóm A–L mỗi nhóm một dòng kèm mã máy kiểm.
+  Đã đối chiếu máy: đủ 27 quy tắc, đủ 12 nhóm A–L, mọi file reference và script còn được nhắc,
+  các `--loai` và đường dẫn mẫu trong bảng định tuyến đều tồn tại thật.
 
 ## Quy trình từ nay khi phát hiện lỗi mới
 

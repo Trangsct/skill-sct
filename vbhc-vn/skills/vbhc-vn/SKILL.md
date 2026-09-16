@@ -3,6 +3,7 @@ name: vbhc-vn
 description: "SOẠN THẢO, RÀ SOÁT VĂN BẢN HÀNH CHÍNH (.docx) Sở Công Thương Lào Cai: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép (kể cả HHNH), GCN ATTP, công văn nội bộ phòng; ký hiệu SCT-CN, TTr-SCT, BC-SCT, KH-SCT, QĐ-SCT, GP-SCT, GCNATTP-SCTLC; thể thức NĐ 30/2020, trình ký. Cả văn bản cấp UBND tỉnh/VP do Sở dự thảo (giấy mời, chỉ đạo, thông báo kết luận, phiếu trình). Dùng khi: soạn/rà soát/sửa/tham mưu/thẩm định/góp ý/triển khai VBHC; chuyển thể văn bản giữa các cấp ban hành; sửa lỗi trình bày file Word (khoảng trống bất thường, mất đường kẻ header, sai đậm/nghiêng, khối ký gãy trang); nhận PDF văn bản đến (chạy scripts/extract_metadata.py đọc số/ngày/người ký từ đĩa, không tin context); soạn bài phát biểu, VBQPPL (thể thức riêng). Trigger thêm: tên file chứa CV/QĐ/TTr/BC/KH/NQ/NĐ/TT/UBND/SCT/HĐND; cụm 'công văn đến'. Nội dung quy tắc ở thân skill + reference, không ở đây."
 ---
 
+
 # vbhc-vn — Soạn văn bản hành chính từ mẫu thật của Sở Công Thương Lào Cai
 
 Nguyên tắc lõi: **giữ nguyên 100% định dạng gốc** (header, gạch chân, bảng chữ ký, font), chỉ thay nội dung — không sinh văn bản từ đầu bằng code khi đã có mẫu/file gốc. *Vì sao:* dựng lại bằng code thường không tái tạo đúng khung, đường gạch chân, layout chữ ký → dễ sai thể thức và mất thời gian; mẫu thật đã được kiểm chứng.
@@ -12,25 +13,6 @@ Skill có **2 chế độ làm việc** (xem mục "Hai chế độ làm việc"
 - **Chế độ B — Sửa file người dùng tải lên**: dùng workflow `unpack → sửa `word/document.xml` → pack`. Áp dụng khi rà soát/chỉnh sửa file .docx có sẵn (báo cáo, phụ lục, biểu, kịch bản điều hành, bài phát biểu, kết luận…). **Đây là loại việc thường gặp nhất** và phải giữ nguyên định dạng file gốc, KHÔNG dựng lại bằng template.
 
 **Thư viện mẫu sẵn có trong skill**: `templates/` = mẫu TRẮNG (Chế độ A, điền bằng `TemplateDoc`, đánh số 01-09); `examples/` = văn bản THẬT đã ban hành (Chế độ B - mở mẫu, copy ra chỗ làm việc, thay nội dung, giữ định dạng), gồm `examples/sct/` và `examples/ubnd/`. Xem mục "Thư viện mẫu thật đã ban hành (`examples/`)".
-
-## Tài liệu tham chiếu (`reference/`) — đọc khi cần
-SKILL.md chỉ giữ phần lõi; chi tiết nằm ở các file dưới (đọc đúng file khi cần, để tiết kiệm ngữ cảnh):
-- `reference/templates-chi-tiet.md` — cấu trúc paragraph/table từng template 01–09 (Chế độ A).
-- `reference/thu-vien-mau-that.md` — 23 mẫu thật `examples/`, bảng mẫu↔loại VB, người ký, cấu trúc mẫu UBND/VP (Chế độ B).
-- `reference/phong-tranh-sai-lam.md` — chi tiết 12 nhóm sai lầm A–L + checklist + vụ thật (nhóm "K" cũ về lắp ghép đã hợp nhất vào H = H6–H11; trHeight = H12; Nhóm J 31/8/2026 — giọng giải thích lọt vào thân văn bản; **Nhóm K 06/9/2026 (K1–K10, theo bản cuối Bạn chốt) — văn bản chỉ đạo UBND tỉnh: gần như không viện dẫn, điều kiện lên cơ quan khác chỉ khi Sở đã được giao vai trò + có sản phẩm, viết tổng quát cho ngành khác, không tính từ đánh giá, thuật ngữ theo luật**).
-- `scripts/fix_quoc_hieu.py` — chuẩn hóa Quốc hiệu/Tiêu ngữ (HOÀ→HÒA, gạch nối→en dash) chỉ trong `<w:t>`, giữ nguyên run/shape; `--check` để chỉ kiểm. Dùng cho Chế độ B.
-- `scripts/qa_all.py` — **QA MỘT PHÁT (đường QA chính từ v2.1.0)**: một lệnh gộp kiểm XML (Line header, 13pt Số/Ngày, br trong header, Quốc hiệu/tiêu ngữ, Kính gửi không đậm, body căn giữa/firstLine) + check_document + render PDF đúng 1 lần (widow word, khối ký gãy trang) + kiểm khối ký chuẩn SIGSPACE (1 dòng trống trước bảng ký, ≥3 dòng trống ô ký, dòng Nơi nhận ≤45 ký tự) + xuất ẢNH GHÉP mọi trang trong 1 ảnh để `view` 1 lượt. Chạy ở Bước 4, nối liền lệnh build.
-- `scripts/qa_pdf_check.py` — QA 4 mục thể thức chạy lẻ khi cần; có `--pdf <path>` dùng PDF render sẵn khỏi render lại.
-- `reference/cong-cu-ky-thuat.md` — công thức kỹ thuật ĐÃ KIỂM CHỨNG (giải nén RAR/RAR5 tên tiếng Việt, OCR PDF scan/chữ ký số, sửa docx đa run, QA render) — đọc TRƯỚC khi xử lý file nén/PDF scan/sửa XML, không mò lại từ đầu.
-- `reference/doc-pdf-metadata.md` — chi tiết quy trình đọc PDF công văn đến (cờ kích hoạt, OCR, 11 trường).
-- `reference/cong-thuc-thuc-chien.md` — căn bảng/biểu khổ ngang, đồng bộ chéo nhiều file.
-- `reference/bao-cao-dinh-ky-phong-qlcn.md` — **quy ước 06/9/2026 cho BÁO CÁO ĐỊNH KỲ CỦA PHÒNG (tháng/9 tháng), PHỤ BIỂU đánh giá nhiệm vụ giao ban và BÀI PHÁT BIỂU Trưởng phòng**: kết cấu, nguồn số liệu (đếm sổ văn bản đi, bảng GP VLNCN), thể thức (giãn dòng đơn, không Exactly; header 13pt), quy tắc phụ biểu (X căn giữa, ghi chú dẫn số văn bản, gỡ highlight). Script: `scripts/build_bao_cao_phong.py` (dựng từ file nội dung có thẻ [H]/[I]/[P] trên mẫu thật + tự chuẩn hóa thể thức).
-- `reference/van-ban-dang-ca-nhan.md` — **VĂN BẢN THỂ THỨC ĐẢNG và bộ 4 văn bản cá nhân đảng viên sau giám sát (Bạn chốt 16/9/2026)**: tiêu đề ĐẢNG CỘNG SẢN VIỆT NAM + gạch dưới cân, không Quốc hiệu, khối ký NGƯỜI BÁO CÁO; khối Kính gửi thẳng cột và cân giữa trang; trích yếu chia dòng cân; bản xuất bản không để chỗ trống. Script dựng: `scripts/build_vb_dang.js` (docx-js, tên giả — đổi NGUOI/CHI_BO/CHUC_VU/PHONG).
-- `reference/the-thuc-code.md` — **mã chuẩn khi DỰNG MỚI TỪ ĐẦU**: hàm định dạng đoạn 1cm duy nhất + XML đường Line (VML). Đọc khi không có mẫu và phải sinh .docx bằng code.
-- `reference/nd-79-2025-tom-tat.md` (+ file gốc `79_2025_ND-CP.docx`) — kiểm tra, rà soát, xử lý VBQPPL hết hiệu lực (gắn Nhóm D).
-- `reference/nd30-phu-luc-1-the-thuc.md` — **VĂN BẢN GỐC Phụ lục I NĐ 30/2020**: thể thức, kỹ thuật trình bày (cỡ chữ, kiểu chữ, vị trí ô 1-14, khoảng cách từng thành phần; sơ đồ bố trí; bảng mẫu chữ Mục V; bản sao văn bản). Đọc khi: (a) băn khoăn quy cách một thành phần thể thức mà SKILL.md/the-thuc-code.md chưa nêu; (b) người dùng hỏi căn cứ pháp lý của một quy tắc trình bày; (c) đối chiếu khi render soi ảnh phát hiện nghi vấn thể thức.
-- `reference/nd30-phu-luc-2-viet-hoa.md` — **VĂN BẢN GỐC Phụ lục II NĐ 30/2020**: quy tắc viết hoa (tên người, địa lý, cơ quan tổ chức, chức danh, ngày lễ, viện dẫn phần/chương/mục/điều/khoản/điểm). Đọc khi soạn thảo gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán.
-- `reference/nd30-phu-luc-3-viet-tat-mau.md` — **VĂN BẢN GỐC Phụ lục III NĐ 30/2020**: bảng chữ viết tắt tên loại văn bản (NQ, QĐ, CT, QC, TB, HD, KH, PA, ĐA, BC, BB, TTr, HĐ, CĐ, GM, GGT, GNP, PC...) + mô tả mẫu trình bày và ghi chú chân trang. Đọc khi cần ký hiệu chuẩn cho loại văn bản chưa có trong templates/, hoặc kiểm tra ký hiệu văn bản đến/đi.
 
 ## Khi nào dùng
 
@@ -44,224 +26,86 @@ Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** c�
 
 Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `QĐ-SCT`, `GP-SCT`, `GCNATTP-SCTLC`.
 
-**Luôn áp dụng mục "Phòng tránh 12 nhóm sai lầm tham mưu (A–L)"** (đã hợp nhất từ `anti-error-sct-vn`) ở cuối skill này: tránh bịa số văn bản, suy diễn nhiệm vụ, dùng từ suy đoán trong bản trình ký, dùng VBPL hết hiệu lực, tin context window với PDF; và **Nhóm I - văn phong công văn gửi doanh nghiệp**: không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm, không viết "đề nghị liên hệ Phòng ... để được hướng dẫn"; **Nhóm J - giọng giải thích lọt vào thân văn bản**: mỗi câu trong VBHC phải nêu quy định, nêu yêu cầu hoặc nêu sự việc; câu đánh giá mức độ ("đây là luồng đơn giản nhất", "cần nắm rõ", "đáng kể"), so sánh dễ - khó, hoặc dẫn dắt tâm lý người đọc thuộc phần trao đổi với người dùng, KHÔNG thuộc văn bản; đề mục không dùng dạng hỏi đáp; **Nhóm K - văn bản chỉ đạo UBND tỉnh do Sở dự thảo (06/9/2026)**: gần như không viện dẫn điều khoản (chỉ QĐ ủy quyền + điều khoản tạo thẩm quyền mới), việc giao cơ quan khác viết tổng quát trong thẩm quyền thật của họ, điều kiện lên cơ quan khác chỉ khi Sở đã được giao vai trò + có sản phẩm cụ thể, không tính từ đánh giá, thuật ngữ theo luật. **Nhóm H** còn bao bố cục trang khi lắp ghép (keepNext chỉ cho đề mục, bold sau clone, đệm header/khối ký — Nhóm K cũ). **Nhóm L - công văn Sở cho ý kiến, xin gia hạn, hướng dẫn bổ sung hồ sơ (CV 9060/UBND-TH 07/9/2026)**: mỗi nội dung phải ghi rõ nhất trí hay không nhất trí kèm lý do, cấm trả lời "căn cứ theo quy định của pháp luật để thực hiện"; gia hạn không quá 01 lần và không quá 10 ngày, có mốc ngày cụ thể; hướng dẫn bổ sung hồ sơ liệt kê đủ trong một lần. Xem mục "Đọc PDF văn bản đến" (đã hợp nhất từ vbhc-pdf-reader-vn — xác minh số/ngày từ PDF công văn đến). Đối chiếu nội dung chuyên môn với `kcn-ccn-vn`/`hnh-sct-vn`.
+**Luôn áp dụng bảng "Phòng tránh 12 nhóm sai lầm tham mưu A–L" bên dưới** (đã hợp nhất từ `anti-error-sct-vn`) và mục "Đọc PDF văn bản đến" (hợp nhất từ `vbhc-pdf-reader-vn`). Đối chiếu nội dung chuyên môn với `kccn-sct-vn` / `hnh-sct-vn`.
 
-## Thể thức, văn phong và rà soát (quy ước cố định của Bạn — hợp nhất từ bộ nhớ)
+## Định tuyến — soạn loại nào thì đọc file nào
 
-Áp dụng cho MỌI văn bản soạn/sửa trong skill này.
+| Loại văn bản | Mẫu thật (Chế độ B) | `--loai` cho build_vb.py | Đọc thêm |
+|---|---|---|---|
+| Công văn | `examples/sct/cong-van-*.docx` | `cong-van` | `reference/the-thuc-van-phong.md`; Nhóm I, L nếu gửi doanh nghiệp |
+| Công văn nội bộ Phòng | `examples/sct/cong-van-noi-bo-phong-*.docx` | `cong-van-noi-bo` | `reference/the-thuc-van-phong.md` mục "loại có quy ước riêng" |
+| Tờ trình | `examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx` | `to-trinh` | `reference/quy-tac-bat-bien.md` QT 6 (người ký) |
+| Báo cáo | `examples/sct/bao-cao-*.docx` | `bao-cao` | `reference/thu-vien-mau-that.md` |
+| Báo cáo định kỳ của Phòng | `examples/sct/bao-cao-thang-phong-qlcn.docx` | `bao-cao-phong` | `reference/bao-cao-dinh-ky-phong-qlcn.md` |
+| Kế hoạch | `examples/sct/ke-hoach-thuc-hien-de-an-08.docx` | `ke-hoach` | QT 24 (căn lề ô bảng phụ lục) |
+| Quyết định cá biệt | `templates/05-quyet-dinh.docx` | — (Chế độ A) | `reference/templates-chi-tiet.md` |
+| Giấy phép | `examples/sct/giay-phep-van-chuyen-hhnh.docx` | `giay-phep` | Nhóm G (thứ tự Nơi nhận gửi doanh nghiệp) |
+| GCN ATTP | `examples/sct/giay-chung-nhan-attp-winmart.docx` | — (Chế độ A) | `reference/templates-chi-tiet.md` |
+| Biên bản | `examples/sct/bien-ban-*.docx` | `bien-ban` | `reference/the-thuc-van-phong.md` |
+| Văn bản cấp UBND tỉnh / VP UBND | `examples/ubnd/*.docx` | — (Chế độ B) | **Nhóm K** trong `reference/phong-tranh-sai-lam.md` |
+| Văn bản thể thức Đảng | — | — | `reference/van-ban-dang-ca-nhan.md` |
+| VBQPPL (QĐ UBND, NQ HĐND) | — | — | `reference/the-thuc-van-phong.md` mục VBQPPL |
+| Phụ lục, biểu khổ ngang | `examples/sct/phu-bieu-*.docx` | — | `reference/cong-thuc-thuc-chien.md` |
 
-### Thể thức trình bày (VBHC thường — theo NĐ 30/2020)
-Căn cứ gốc đầy đủ nằm ở `reference/nd30-phu-luc-1-the-thuc.md` (thể thức từng thành phần), `nd30-phu-luc-2-viet-hoa.md` (viết hoa), `nd30-phu-luc-3-viet-tat-mau.md` (viết tắt tên loại VB) — tra khi có điểm chưa chắc, KHÔNG suy đoán quy cách. Các dòng dưới là quy ước đã chốt áp dụng hằng ngày:
-- **Font** Times New Roman, **cỡ 14**. **Lề A4**: trên/dưới 20mm, trái 30mm, phải 20mm. Line spacing single; before/after 6pt; **first line indent 1cm**; **căn đều (justify)**. TẤT CẢ đoạn nội dung và đề mục lùi đầu dòng **đồng nhất**, **không thụt treo**. Khi dựng bằng code: dùng **một hàm định dạng đoạn duy nhất**, KHÔNG đặt riêng firstLine=0 cho đề mục; số thứ tự viết liền đầu dòng (không dùng numbering treo). *(Kiểm tự động: **R12** lề, **R13** lùi đầu dòng — `scripts/qa_rules.py`.)*
-- Bố cục đủ: Quốc hiệu/Tiêu ngữ, tên cơ quan, số ký hiệu, địa danh-ngày, trích yếu, nội dung, nơi nhận, chữ ký.
-- **Header bắt buộc vẽ đường kẻ ngang bằng ĐỐI TƯỢNG LINE (Insert > Shapes > Line)** ở CẢ HAI bên: dưới tên cơ quan ban hành (vd "SỞ CÔNG THƯƠNG", "PHÒNG QUẢN LÝ CÔNG NGHIỆP") và dưới "Độc lập – Tự do – Hạnh phúc"; căn giữa, dài ~1/2 ô (3-5cm), là đường kẻ thật chọn/di chuyển được. Không dùng ký tự gạch chân (underscore) cũng không dùng paragraph border — *vì sao:* underscore và border không phải đối tượng vẽ, không căn giữa/chỉnh độ dài được và dễ lệch khi sửa nội dung. Khi dựng .docx bằng code: tạo đường kẻ dưới dạng line drawing object (VML `<v:line>` nổi, căn giữa theo lề: `mso-position-horizontal:center;mso-position-horizontal-relative:margin`, hoặc DrawingML) — mã sẵn ở `reference/the-thuc-code.md`; render ra ảnh kiểm tra đường kẻ hiển thị đúng trước khi xuất.
-- **Quốc hiệu "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" (HÒA, không "HOÀ"); tiêu ngữ dùng EN DASH "–"**. File người dùng tải lên: chạy `python3 scripts/fix_quoc_hieu.py <file.docx>` ngay sau build. **Dòng "Kính gửi:" KHÔNG in đậm.** *(Kiểm tự động: tag `QUOCHIEU` + **R09**; **R04** cho khối Kính gửi.)*
-- **Không dùng màu nền/shading** cho bất kỳ ô/dòng/bảng nào — bảng nền trắng, chỉ viền đen mảnh. *Vì sao:* VBHC chuẩn dùng nền trắng; shading dễ lệch màu, khó đọc khi in/photocopy.
-- Cột Quốc hiệu được phép rộng vượt tỷ lệ chuẩn để Quốc hiệu nằm gọn trên 1 dòng. Đoạn bị lẻ 1 chữ ở dòng cuối: co khoảng cách chữ (character spacing/condensed) để tránh.
-- **KHÔNG bao giờ chèn ngắt dòng cứng `\n`/`<w:br/>` trong một paragraph** (xem Quy tắc bất biến 10) — V/v, tên cơ quan, ngày tháng để chuỗi liền, Word tự wrap.
-- **Số mũ đơn vị đo (m³, m², cm²) BẮT BUỘC là superscript thật** — không để "m3/m2" số thường (lỗi lặp nhiều lần, PTP Trang nhắc 29/7/2026). Khi sửa bằng code: tách chữ số mũ thành run riêng kế thừa nguyên rPr + `<w:vertAlign w:val="superscript"/>`; rà toàn văn (cả bảng) bằng regex `m[23](?!\d)` trước khi xuất; kiểm nhanh trên bản render — tesseract đọc thành "m°"/"m?" là dấu hiệu superscript đã ăn.
+## Quy tắc bất biến — bản rút gọn
 
-### VBQPPL (QĐ UBND, NQ HĐND) — KHÔNG dùng NĐ 30/2020
-Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30-35mm. Quốc hiệu/Tiêu ngữ/Tên CQ 12-14 đậm; số ký hiệu CÓ năm (.../2026/QĐ-UBND); CĂN CỨ cỡ 14 nghiêng; nội dung 13-14 lùi 1-1.27cm; Điều đậm; Nơi nhận 12 nghiêng đậm. QĐ UBND QPPL trực tiếp theo **Mẫu 19** (NĐ 78/2025 PL III): có dòng "Ủy ban nhân dân tỉnh ban hành Quyết định..." nghiêng, sau căn cứ, trước "QUYẾT ĐỊNH:".
+Đủ 27 quy tắc kèm lý do và vụ thật: **`reference/quy-tac-bat-bien.md`** — đọc file đó khi soạn
+văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đây là phần phải nhớ mà không tra:
 
-### Văn phong & viết tắt
-- Phong cách hành chính: KHÔNG ký tự đặc biệt, emoji, dấu sao (*); không dùng `*` để in đậm/gạch đầu dòng.
-- Trong nội dung chính (trừ tiêu đề và dòng "Kính gửi"): **viết tắt ngay từ lần đầu**: Ủy ban nhân dân→UBND; Hội đồng nhân dân→HĐND; Mặt trận Tổ quốc→MTTQ; trách nhiệm hữu hạn→TNHH (kể cả trong tên DN: "Công ty TNHH..."). "Quốc hội" giữ nguyên.
-- Đơn vị diện tích: luôn **"ha"**, KHÔNG "héc-ta"/"hecta" — kể cả nội dung cho truyền hình/đại chúng.
-- Địa danh cũ của Yên Bái (Âu Lâu, Trấn Yên, Văn Chấn, Nghĩa Lộ, Mù Cang Chải, Trạm Tấu, Lục Yên, Văn Yên, Yên Bình...) nay thuộc **tỉnh Lào Cai** (từ 1/7/2025) — ghi "tỉnh Lào Cai".
+1. **Không sinh văn bản từ đầu bằng code khi đã có mẫu/file gốc.** Chế độ A mở `templates/`;
+   Chế độ B sửa trực tiếp file người dùng tải lên (Nhóm F — rebuild là xóa mất chỉnh sửa tay).
+2. **Không đụng bảng header, bảng chữ ký, đường Line**; không xóa/thêm paragraph trong ô bảng.
+3. **Không chèn ngắt dòng cứng** `\n`/`<w:br/>` trong một paragraph — tách thành paragraph riêng.
+4. **Không giao PDF** cho người dùng; sản phẩm cuối chỉ là .docx.
+5. **Người ký theo lĩnh vực**: KCN, CCN, ATTP → PGĐ Nguyễn Đình Chiến; HHNH, hóa chất, VLNCN,
+   khoáng sản, môi trường, PCCC, ATVSLĐ, năng lượng, thương mại → PGĐ Hoàng Văn Thuân; TTr UBND
+   tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.
+6. **Người soạn trong dòng Lưu = chuyên viên phụ trách lĩnh vực**, không mặc định CN (Trang);
+   tra bảng trong `sct-laocai-org-vn`. Không rõ thì hỏi, không đoán.
+7. **PDF văn bản đến: chạy `scripts/extract_metadata.py` TRƯỚC khi dẫn số/ngày.** Ô số/ngày
+   trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "chưa cấp số" hay "bản dự thảo".
+8. **Nơi nộp hồ sơ TTHC = Cổng dịch vụ công một cửa Bộ Công Thương**
+   `https://motcua-tthc.moit.gov.vn/` — nơi nộp DUY NHẤT, không ghi Trung tâm Phục vụ hành chính
+   công dưới bất kỳ hình thức nào.
+9. **Mọi lệnh replace là bắt buộc khớp, thất bại phải nổ to** — không bọc try/except nuốt lỗi.
+10. **Tên file**: `YYYY.MM.DD. Tên văn bản đầy đủ tiếng Việt có dấu.docx`.
 
-### Ký hiệu, người soạn, tên file, định dạng xuất
-- **Ký hiệu**: Công văn `SCT-CN`; Tờ trình `TTr-SCT`; Báo cáo `BC-SCT`; Kế hoạch `KH-SCT`; QĐ cá biệt `QĐ-SCT`; Giấy phép `GP-SCT`; GCN ATTP `.../{năm}/GCNATTP-SCTLC`. Dòng lưu: `Lưu: VT, CN (Tên).` *(Kiểm tự động: **R07**; thứ tự Nơi nhận khi gửi doanh nghiệp: **R06**.)* Văn bản do Bạn (PGĐ Chiến, phụ trách QLCN) yêu cầu **luôn dùng `SCT-CN` + `Lưu: VT, CN(tên)`**, kể cả khi nội dung thuộc lĩnh vực phòng khác — KHÔNG đổi sang ký hiệu phòng khác.
-- **Tên file**: `năm.tháng.ngày. Trích yếu` tiếng Việt CÓ DẤU (vd `2026.06.19. Báo cáo tổng kết...`). Ngày = ngày ban hành/dự kiến ký, không rút gọn tùy tiện ("v2", "final").
-- **CHỈ tạo file Word (.docx), KHÔNG kèm PDF**.
+## QA — chạy gì, khi nào
 
-### Rà soát/review — các lỗi KHÔNG được báo (đã thống nhất)
-- KHÔNG báo lỗi **thiếu số ký hiệu** ("Số: .../...") đối với file Word (số do văn thư cấp sau).
-- KHÔNG báo lỗi **"thiếu chữ NAM"** trong Quốc hiệu và KHÔNG tự thêm "NAM" — nếu công cụ trích xuất hiển thị Quốc hiệu kết thúc ở "...VIỆT", đó là lỗi hiển thị phía Claude (NAM nằm ở run/dòng khác), không phải văn bản thiếu chữ.
-- Khi trích metadata PDF: nếu không đọc được người ký, KHÔNG cần OCR lại — chỉ cần số văn bản + ngày là đủ.
-
-### Sửa file SAU khi QA — hai bẫy đã trả giá (vụ Thành Hương 29-30/7/2026)
-- **Gán `run.text = ...` (python-docx) xóa TOÀN BỘ nội dung run, kể cả shape `v:line`/`w:pict` nằm trong run** — điền "tháng 7" vào ô ngày đã làm mất đường kẻ dưới "Độc lập – Tự do – Hạnh phúc" của dự thảo GP dù QA trước đó PASS. Trước khi gán text vào đoạn thuộc bảng header (ô ngày, ô quốc hiệu, ô tên cơ quan): grep `<w:pict`/`v:line` trong đoạn; nếu có, chỉ sửa phần tử `w:t` trong XML hoặc trích nguyên khối run chứa pict từ mẫu gốc chèn trả lại.
-- **Mọi chỉnh sửa sau lần QA PASS — dù chỉ một ô ngày — phải chạy lại `qa_all.py` và render soi lại**; khoảng hở "sửa nhẹ khỏi QA" chính là nơi lỗi lọt ra bản giao cho người dùng.
-- Khi nghi ngờ thể thức mà không soi được ảnh: **đối chiếu pixel với bản ký thật** — render cả hai cùng 120 dpi, dò các đoạn kẻ ngang (ngưỡng xám < 175, đoạn liên tục ≥ 30 px, liệt kê MỌI đoạn mỗi hàng chứ không chỉ đoạn dài nhất) rồi so tọa độ; đo đậm/thường bằng tỉ lệ mực hai vùng TRÊN CÙNG MỘT DÒNG (nhãn vs nội dung), không so giữa các dòng khác cấu trúc.
-
-### Một số loại có quy ước riêng (tóm tắt; chi tiết ở mục template/examples)
-- **Công văn nội bộ Phòng - tham gia ý kiến (phong cách chốt 21/8/2026, thay kiểu cũ của mẫu KCN Phú Xuân)**: người ký **TRƯỞNG PHÒNG Nguyễn Hữu Long**; thân gồm đề mục đậm `1.` (hiện trạng/bối cảnh hoặc phạm vi) và `2.` (ý kiến), **KHÔNG có đề mục "3. Kết luận"** — kết luận là đoạn thường cuối; ý kiến trong mục 2 trình bày **gạch đầu dòng nhãn nghiêng `- Về ...:`** (không dùng a) b) c)). Hồ sơ trải nhiều lĩnh vực → mục 1 đổi thành "Về phạm vi tham gia ý kiến": chỉ rõ nội dung nào thuộc cơ quan/phòng nào và ghi thành văn "không tham gia ý kiến đối với các nội dung thuộc trách nhiệm của cơ quan, đơn vị khác". **Bộ 4 lớp bảo vệ pháp lý** khi phải chấp thuận phương án bất lợi cho lĩnh vực Phòng quản lý: ghi nhận quan điểm nhất quán của Phòng tại các cuộc họp trước đó; quy nguồn lý do thay đổi cho ý kiến các đơn vị liên quan; quy trách nhiệm tính chính xác của hồ sơ, số liệu cho chủ đầu tư/đơn vị tư vấn/đơn vị đăng ký; chốt "phương án tối ưu tại thời điểm hiện nay" kèm điều kiện theo dõi tiếp. Hai mẫu thật: `cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx` và `...-thu-hoi-cat-long-ho.docx` (chi tiết ở `reference/thu-vien-mau-that.md`).
-- **Giấy mời họp `SCT-GM`**: văn bản độc lập, không tham chiếu cuộc họp trước, các thành phần bình đẳng, không ghi "mời thêm"; kết cấu 4 mục (Thành phần; Thời gian; Địa điểm; Nội dung).
-- **QĐ cá biệt SCT**: "QUYẾT ĐỊNH" + "Về việc..."; "GIÁM ĐỐC SỞ CÔNG THƯƠNG" in hoa đậm căn giữa; căn cứ in nghiêng; cuối căn cứ "Theo đề nghị của Trưởng phòng Quản lý công nghiệp,"; "QUYẾT ĐỊNH:" đậm; Điều 1, 2, 3 đậm.
-- **GCN ATTP**: KHÔNG có số góc trái; Quốc hiệu căn giữa toàn trang; số cấp `.../{năm}/GCNATTP-SCTLC` đặt dưới bảng; hiệu lực 3 năm; kèm phụ lục danh mục.
-- **Biên bản (làm việc, kiểm tra)**: mở đầu Quốc hiệu căn giữa, **KHÔNG cấp số**; đường gạch chân ngang dưới Quốc hiệu vẽ bằng ĐỐI TƯỢNG LINE (shape) căn giữa — không dùng character underline, không dùng paragraph border. Có **template trắng `templates/09-bien-ban.docx`** (Chế độ A) và 2 mẫu thật `bien-ban-lam-viec-lien-nganh-ccn.docx`, `bien-ban-kiem-tra-thuc-te-hhnh.docx` trong `examples/sct/` (Chế độ B — ưu tiên khi có vụ việc tương tự).
-
-## Quy tắc tốc độ (v2.1.0) — hoàn thành 1 văn bản trong ÍT LƯỢT TOOL NHẤT
-
-Mục tiêu: văn bản thường (công văn, tờ trình ≤ 3 trang) xong trong **3-4 lượt tool**: (1) viết script build, (2) một lệnh bash `build && qa_all`, (3) view 1 ảnh ghép, (4) copy outputs + present_files. Cụ thể:
-1. **Không chạy inspect template** khi `reference/templates-chi-tiet.md` đã có chỉ số (Bước 2).
-2. **Nối build + QA trong MỘT lệnh bash**: `python3 build.py && python3 scripts/qa_all.py output/<file>.docx --forbid "<chuỗi vụ cũ>" ... --require "<chuỗi vụ mới>" ...`. Không tách validate/render/qa thành các lượt riêng. Với Chế độ B trên mẫu thật, `--forbid`/`--require` là BẮT BUỘC (Quy tắc bất biến 17).
-3. **Render PDF đúng 1 lần mỗi vòng** — `qa_all.py` tự lo; không tự gọi soffice/pdftoppm rời nữa.
-4. **View đúng 1 ảnh ghép** `qa_sheet.png`; chỉ mở ảnh trang lẻ khi có nghi vấn cụ thể.
-5. **Sửa lỗi theo báo cáo text, gom hết rồi mới render lại** — không lặp render/view sau từng lỗi nhỏ.
-6. **Đọc reference đúng file cần** (bảng ở mục "Tài liệu tham chiếu"), không đọc dàn trải; nội dung SKILL.md này đã đủ cho văn bản thường.
-7. Chỉ vòng lặp thêm khi qa_all FAIL hoặc người dùng yêu cầu sửa — chất lượng vẫn là chốt chặn: **không giao file chưa PASS**.
-
-## Hai chế độ làm việc
-
-> **QUY TẮC ƯU TIÊN (theo yêu cầu của Bạn): luôn ưu tiên sửa trên MẪU THẬT thay vì soạn từ template trắng.**
-> Khi cần soạn một văn bản, TRƯỚC TIÊN kiểm tra `examples/` xem có mẫu thật phù hợp với loại văn bản đó không:
-> - **Có mẫu phù hợp** → dùng **Chế độ B**: copy mẫu thật ra chỗ làm việc, thay nội dung, giữ 100% định dạng đã được kiểm chứng. Đây là cách Bạn muốn ưu tiên.
-> - **Không có mẫu phù hợp** → mới dùng **Chế độ A** (template trắng trong `templates/`).
-> - Nếu Bạn tải lên một file .docx cụ thể để sửa → luôn dùng Chế độ B trên chính file đó.
-> Bảng "Mẫu thật ↔ loại văn bản" ở mục "Thư viện mẫu thật đã ban hành (`examples/`)" giúp tra nhanh mẫu nào dùng cho việc gì.
-
-### Chế độ A — Tạo mới từ template (`templates/` + `TemplateDoc`)
-Theo "Quy trình bắt buộc (5 bước)" bên dưới. Dùng khi soạn một văn bản mới **chưa có mẫu thật phù hợp trong `examples/`** và Bạn không tải lên file gốc.
-
-### Chế độ B — Sửa file người dùng tải lên hoặc mẫu thật trong `examples/` (unpack → sửa XML → pack)
-Dùng khi rà soát/chỉnh sửa file .docx có sẵn, **hoặc khi soạn mới mà có mẫu thật phù hợp trong `examples/`** (ưu tiên). **Tuyệt đối không dựng lại từ template** (sẽ mất định dạng gốc). Workflow đã kiểm chứng nhiều lần:
-
-```bash
-# 1. Đọc nội dung để nắm cấu trúc (text + bảng)
-cd /mnt/user-data/uploads && ls -la
-extract-text "TÊN_FILE.docx"          # với .doc: convert trước bằng soffice.py --convert-to docx
-
-# 2. Giải nén để sửa trực tiếp XML
-cp "/mnt/user-data/uploads/TÊN_FILE.docx" /home/claude/work/src.docx
-python /mnt/skills/public/docx/scripts/office/unpack.py /home/claude/work/src.docx /home/claude/work/unpacked/
-
-# 3. Sửa /home/claude/work/unpacked/word/document.xml bằng str_replace (kèm context <w:rPr> để trúng đúng run)
-#    grep -n "chuỗi cần tìm" để định vị; sửa số liệu / câu chữ / đánh số mục…
-
-# 4. Đóng gói lại — BẮT BUỘC dùng --original để giữ relationships, media, content-types
-python /mnt/skills/public/docx/scripts/office/pack.py /home/claude/work/unpacked/ /home/claude/work/out.docx --original /home/claude/work/src.docx
-```
-
-**Bài học XML Chế độ B (11 điểm — vụ thật đã trả giá): đọc `reference/cong-cu-ky-thuat.md` mục "Bài học XML Chế độ B" TRƯỚC khi sửa XML** (sed thay nhầm khối ký, run tách bởi lastRenderedPageBreak, đổi đậm→nghiêng cả run, chèn ô trống + paraId, không truy cập paragraphs[n] sau khi chèn/xóa, clone body từ đoạn justify, merge_runs trước str_replace, assertion sau build).
-
-**Thay nội dung trong run giữ định dạng (python-docx)**: gán `runs[0].text = chuỗi_mới` rồi xóa các run sau (`r.text = ''`) — giữ được đậm/nghiêng/font của run đầu.
-
-## Quy trình bắt buộc cho Chế độ A (5 bước)
-
-### Bước 1: Chọn template
-
-| Loại văn bản | File template |
+| Việc | Lệnh |
 |---|---|
-| Công văn | `templates/01-cong-van.docx` |
-| Tờ trình | `templates/02-to-trinh.docx` |
-| Báo cáo | `templates/03-bao-cao.docx` |
-| Kế hoạch | `templates/04-ke-hoach.docx` |
-| Quyết định cá biệt | `templates/05-quyet-dinh.docx` |
-| Giấy phép | `templates/06-giay-phep.docx` |
-| Giấy chứng nhận ATTP | `templates/07-giay-chung-nhan-attp.docx` |
-| Công văn nội bộ Phòng (tham gia ý kiến) | `templates/08-cong-van-noi-bo-phong.docx` |
-| Biên bản (làm việc, kiểm tra) | `templates/09-bien-ban.docx` |
+| QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
+| Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
+| Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
+| Chỉ bộ quy tắc R01–R15, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
+| Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
+| Đọc số/ngày/người ký từ PDF văn bản đến | `python3 scripts/extract_metadata.py <file>.pdf` |
 
-### Bước 2: Lấy cấu trúc paragraph của template — KHÔNG chạy inspect nếu đã có sẵn
-
-Chỉ số paragraph/table của cả 9 template đã ghi sẵn trong **`reference/templates-chi-tiet.md`** — đọc file đó và dùng luôn chỉ số, **bỏ qua lượt chạy inspect** (tiết kiệm 1 lượt tool). Chỉ chạy inspect khi nghi template đã bị sửa hoặc reference chưa khớp:
-
-```bash
-python3 scripts/fill_template.py templates/01-cong-van.docx   # chỉ khi cần đối chiếu
-```
-
-Lệnh trên in ra:
-- Danh sách paragraph (P0, P1, P2,...) với text rút gọn
-- Danh sách table (Table 0 = header, Table 1 = footer chữ ký)
-
-### Bước 3: Viết script Python để sửa nội dung
-
-Dùng `TemplateDoc` từ `scripts/fill_template.py`:
-
-```python
-from fill_template import TemplateDoc
-doc = TemplateDoc('templates/01-cong-van.docx')
-
-# Sửa header (Table 0)
-doc.replace_in_cell(0, 0, 0, 'Số:       /SCT-CN', 'Số: 458/SCT-CN')
-doc.replace_in_cell(0, 0, 0, 'V/v ……………….', 'V/v báo cáo tiến độ ...')
-doc.replace_in_cell(0, 0, 1, 'ngày      tháng      năm 2026',
-                    'ngày 15 tháng 5 năm 2026')
-
-# Sửa Kính gửi (P2 trong công văn)
-doc.replace_in_paragraph(2, '…………..', 'Ủy ban nhân dân tỉnh Lào Cai')
-
-# Thay nội dung body (P4 đến P15)
-doc.replace_body_paragraphs(start_idx=4, end_idx=16, new_paragraphs=[
-    {'text': 'Đoạn mở đầu...'},
-    {'text': '1. Mục thứ nhất', 'bold': True},
-    {'text': '- Nội dung...'},
-    # ...
-])
-
-# Sửa Lưu VT
-doc.replace_in_cell(1, 0, 0, 'Lưu: VT, CN.', 'Lưu: VT, CN(Tên).')
-
-# Lưu
-doc.save('output/cong-van-moi.docx')
-```
-
-### Bước 4: Chạy script build + QA MỘT PHÁT (`qa_all.py`) — trong CÙNG MỘT lệnh bash
-
-Trước khi xuất, **rà soát căn chỉnh đều đẹp và đồng bộ danh mục đánh số thứ tự các mục** (xem Quy tắc 8): hệ thống đề mục nhất quán, đánh số liên tục không nhảy bậc, đúng cấp (I, II, III → 1, 2, 3 → a, b, c hoặc 1.1, 1.2).
-
-**Gộp build và QA vào MỘT lệnh bash duy nhất** (tiết kiệm 3-4 lượt tool so với chạy rời):
-
-```bash
-python3 scripts/<ten-script>.py && python3 scripts/qa_all.py output/<file>.docx
-```
-
-`qa_all.py` là **đường QA chính từ v2.1.0** — một lệnh, render PDF **đúng 1 lần** (profile soffice ấm, ~1-3s), làm trọn:
-1. **Kiểm XML**: đủ Line header, 13pt dòng Số/Ngày (Quy tắc 11-12), `<w:br/>` trong header = 0 (Quy tắc 10), body căn giữa/thiếu firstLine 1cm (WARN — bài học Chế độ B).
-2. **check_document.py**: VBQPPL hết hiệu lực (Nhóm D), từ suy đoán (Nhóm C), số văn bản đáng ngờ (Nhóm A).
-3. **Kiểm trên PDF render**: widow word (Quy tắc 13), khối chữ ký gãy trang (Quy tắc 14).
-4. **Xuất ẢNH GHÉP** `/home/claude/work/qa/qa_sheet.png` — mọi trang trong 1 ảnh.
-
-**QA trực quan**: `view` **MỘT ảnh ghép `qa_sheet.png` là đủ** để soi tổng thể (header/số ký hiệu trang đầu, khối chữ ký trang cuối, ngắt trang, tràn lề). Chỉ mở ảnh trang riêng `qa-N.jpg` khi ảnh ghép phát hiện nghi vấn ở trang N, hoặc văn bản > 6 trang cần soi kỹ biểu/tiêu đề bảng lặp. Đây là file QA tạm — KHÔNG xuất PDF cho người dùng.
-
-**Vòng sửa lỗi**: khi FAIL, sửa theo **báo cáo TEXT** trước (đủ căn cứ định vị lỗi), chạy lại `qa_all.py` MỘT lần sau khi đã sửa hết — KHÔNG render/soi ảnh sau từng lỗi nhỏ. Khi tool view ảnh không truyền được nội dung, báo cáo text của `qa_all.py` là đủ căn cứ kết luận. KHÔNG giao file chưa qua `qa_all.py` PASS (hoặc PASS kèm WARN đã được cân nhắc).
-
-`qa_pdf_check.py` vẫn dùng được độc lập khi chỉ cần kiểm 4 mục thể thức; đã có PDF render sẵn thì thêm `--pdf <path>` để khỏi render lại. `validate.py` của skill docx public chỉ cần chạy khi qa_all báo nghi hỏng cấu trúc file.
-
-### Bước 5: Đặt tên file chuẩn & trả file qua present_files
-
-Đặt file vào `/mnt/user-data/outputs/` với **tên file chuẩn** `YYYY.MM.DD. [Tên văn bản].docx` (xem Quy tắc 7) rồi gọi `present_files`. KHÔNG tạo PDF kèm.
-
-## API thư viện `TemplateDoc`
-
-| Method | Mô tả |
-|---|---|
-| `replace_in_paragraph(idx, pattern, replacement)` | Thay text khớp pattern trong paragraph thứ idx |
-| `set_paragraph_text(idx, new_text)` | Đặt toàn bộ text paragraph idx (giữ format run đầu) |
-| `replace_in_cell(table_idx, row, col, pattern, replacement)` | Thay text trong ô bảng |
-| `replace_in_cell_paragraph(t, r, c, p_idx, pattern, replacement)` | Thay trong 1 paragraph cụ thể của ô bảng |
-| `set_cell_paragraph_text(t, r, c, p_idx, new_text)` | Đặt text 1 paragraph trong ô bảng |
-| `replace_keeping_first_run(p_idx, new_after, separator=': ')` | Cho paragraph "Điều X:..." — giữ "Điều X" bold, thay phần sau |
-| `replace_body_paragraphs(start, end, new_paragraphs)` | Thay nguyên 1 đoạn nhiều paragraph (giữ format paragraph mẫu) |
-| `replace_all(pattern, replacement)` | Find & replace trong toàn doc |
-| `inspect()` | In cấu trúc paragraph & table để debug |
-| `save(path)` | Lưu file |
-
-## Cấu trúc cụ thể từng template
-Chi tiết cấu trúc paragraph/table của từng template (chỉ số P/Table để điền đúng) — đọc khi soạn bằng Chế độ A: **`reference/templates-chi-tiet.md`**.
-
-## Thư viện mẫu thật đã ban hành (`examples/`)
-26 mẫu thật (`examples/sct/` 20 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
-Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Chế độ B); KHÔNG dùng `TemplateDoc` cho file `examples/` (đã điền sẵn, không theo chỉ số paragraph); KHÔNG bê nguyên nội dung vụ việc cũ sang văn bản mới — chỉ kế thừa khung, thể thức, văn phong.
-
-## Công thức & checklist thực chiến
-Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, lặp dòng tiêu đề, nền trắng), đồng bộ chéo Báo cáo↔Phụ lục↔VP UBND, toàn vẹn số liệu/metadata, mã người soạn dòng "Lưu" — đọc khi dựng biểu hoặc đồng bộ nhiều file: **`reference/cong-thuc-thuc-chien.md`**.
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R15 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
+trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
 ## Phòng tránh 12 nhóm sai lầm tham mưu A–L (luôn áp dụng)
-Áp dụng cho mọi việc soạn/rà soát/góp ý/tham mưu (không chỉ tạo .docx). Tóm tắt dưới đây; checklist đầy đủ + `scripts/check_document.py` + các vụ thật ở **`reference/phong-tranh-sai-lam.md`**.
-- **A — Pháp lý:** không điền số/ngày văn bản hay nội dung điều/khoản từ trí nhớ; phải có nguồn hoặc tra cứu, chưa rõ thì ghi "[cần xác minh]". **Lần đầu dẫn một văn bản phải đủ số, ngày, cơ quan, trích yếu** *(**R01**)*. *Vì sai một số văn bản trong tờ trình/phát biểu của Lãnh đạo gây hậu quả nặng.* **Không ghép 2 dữ kiện trong reference plugin thành kết luận mới về vụ việc** (vd "52 ha thuộc phạm vi dự án đã bố trí vốn") — hiện trạng do cơ quan khác quản lý chỉ được viết dạng "đề nghị cơ quan đó rà soát" (vụ 11/9/2026, KCN Minh Quân).
-- **B — Nhiệm vụ:** mỗi nhiệm vụ đề xuất Sở làm phải truy ngược về 1 câu chỉ đạo / 1 điều khoản / 1 chức năng của Sở (quy tắc 1-1-1); không suy diễn ngoài văn bản chỉ đạo.
-- **C — Từ ngữ:** bản trình ký chỉ ở 3 trạng thái: khẳng định (có căn cứ), đề nghị (nêu căn cứ), bảo lưu — không dùng từ suy đoán. *(Kiểm tự động: **R08**.)*
-- **D — Hiệu lực:** mọi VBQPPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** (vụ NQ 66.25 ngày 11/9/2026) *(**R05** + `data/vbpl.json`)*; tra trạng thái với VB ban hành trước 2024; đối chiếu danh mục hết hiệu lực theo **NĐ 79/2025** (xem `reference/nd-79-2025-tom-tat.md`). Bảng VB đã thay thế ở file reference.
-- **E — PDF:** nguồn là PDF VBHC thì chạy `scripts/extract_metadata.py` đọc số/ngày từ file gốc, không tin context (layout 2 cột); header/tiêu đề không được lọt `<w:br/>`.
-- **F — Không rebuild:** người dùng tải .docx lên để sửa tiếp (kể cả file do Claude tạo trước đó) → **sửa trực tiếp file đó**, không chạy lại script build/template cũ; giữa các vòng người dùng thường đã sửa tay trong Word. Chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay. *Vụ thật: Báo cáo PCCC 01/7/2026 mất 4 chỉnh sửa tay do rebuild.*
-- **G — Thể thức từ chỉnh sửa tay:** dòng ngày điền sẵn tháng/năm, để trống ngày; `Lưu: VT, CN (Tên)` *(**R07**)*; đậm deadline dùng `<w:b/>` chỉ đúng cụm ngày; nghiêng ghi chú "(có văn bản kèm theo)"; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Kính gửi 1 nơi = 1 dòng căn giữa, không bảng, không chấm cuối**; báo cáo gửi Bộ thêm Cục chuyên môn vào Nơi nhận, dòng lãnh đạo ghi "- Ban Giám đốc Sở;"; gửi xã/phường liên quan trực tiếp thì liệt kê rõ; header cơ quan chủ quản ghi đầy đủ; **THỨ TỰ NƠI NHẬN văn bản gửi doanh nghiệp (chốt 07/9/2026): UBND tỉnh (b/c) → cơ quan phối hợp → TT PVHCC → Ban Giám đốc Sở → doanh nghiệp (gần cuối, ngay trên Lưu) → Lưu; KHÔNG đặt doanh nghiệp ở dòng đầu** *(**R06**)*; Kính gửi chung doanh nghiệp ngành viết gọn "Các đơn vị hoạt động công nghiệp, thương mại trên địa bàn tỉnh."; công văn nội bộ Phòng có 1 dòng trống giữa "PHÒNG QLCN" và "V/v"; **biên bản thẩm định có ô Đạt/Không đạt, ô đánh dấu X: giữ nguyên, KHÔNG tự điền**. Chi tiết: `reference/phong-tranh-sai-lam.md` Nhóm G.
-- **H — Toàn vẹn trình bày khi thao tác XML/run & lắp ghép văn bản (H1–H13):** không gán `run.text` cho run neo shape Line (helper phải kiểm `.//w:pict|.//w:drawing`, assert số pict xuất == gốc); Số/Ngày 13pt tường minh + ngày nghiêng; không widow word; khối ký không gãy trang; khử gen lỗi mẫu thật (spid trùng, hanging indent, w:lang); **keepNext CHỈ gán đề mục** — chuỗi keepNext trên khoản nội dung gây trống nửa cuối trang trong Word; **bold đề mục SAU khi clone** (deepcopy lây format); đổi header khác cấp thêm đệm ~12pt; Line VML tự chèn ~70/110pt, y 2–3pt; paragraph trống xóa tồn dư giữa mục nhưng GIỮ 1 dòng đệm trước khối ký; nhãn a) nghiêng nội dung đứng; cấm `<w:trHeight>` bảng nội dung. QA: soi ảnh crop phóng to + `qa_pdf_check.py` (có audit keepNext) + đối chiếu pixel mẫu nguồn + bảng soát đậm/thường. Chi tiết: Nhóm H (H1–H13; **H13 = khối ký chuẩn 09/9/2026**: 1 dòng trống trước bảng ký, ≥3 dòng trống ô ký, tên ngang dòng Lưu, keepNext 2 đoạn cuối + dòng trống, QA SIGSPACE).
-- **I — Văn phong CV gửi doanh nghiệp:** không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm (chỉ nêu nghĩa vụ chung; mốc cụ thể để ở biên bản/phiếu trình nội bộ); không viết "đề nghị liên hệ Phòng ... để được hướng dẫn" — kết thúc ngay tại đoạn đề nghị nộp lại hồ sơ, nơi nộp ghi duy nhất là Cổng https://motcua-tthc.moit.gov.vn/ (Quy tắc 21). *(Bạn chốt 24/7/2026.)*
-- **J — Giọng giải thích lọt vào thân văn bản (Bạn chốt 31/8/2026):** mỗi câu trong thân văn bản phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC; câu chỉ đánh giá mức độ/bình luận → bỏ hoặc viết lại. *(Kiểm tự động: **R10** + `data/giong-giai-thich.txt`. Máy chỉ bắt được danh sách cụm cố định nên vẫn phải tự rà register một lượt — xem J5 trong reference.)*
-- **K — Văn bản chỉ đạo của UBND tỉnh do Sở dự thảo (Bạn chốt 06/9/2026 qua 3 vòng; khung: `sd-vlncn-sct-vn/vi-du-thuc-te/*-ban-cuoi-6.9.2026.docx`):** K1 điều kiện đặt lên cơ quan khác chỉ hợp lệ khi đã giao vai trò cho Sở ở mục trước + có sản phẩm cụ thể ("chỉ thực hiện… khi được Sở Công Thương (cơ quan quản lý về PANM) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn…"), lặp nguyên văn ở mọi chủ thể; dạng bị bác: "sau khi phối hợp Sở kiểm tra thực tế"; K2 việc giao cơ quan khác phải trong thẩm quyền thật của họ (tra văn bản gốc ngành đó) nhưng viết tổng quát, không ghi điều khoản; K3 bỏ tính từ đánh giá ("thẩm định chặt chẽ", "hướng dẫn chi tiết", "nắm chắc địa bàn"), "kiểm tra hồ sơ" không tách khỏi "thẩm định"; K4 không ngoặc đơn giải thích (chỉ định danh vai trò); K5 thuật ngữ theo luật; **K6 gần như không viện dẫn — chỉ Luật gốc ở mở đầu, QĐ ủy quyền, điều khoản tạo thẩm quyền mới; còn lại "theo quy định" — đúng không đồng nghĩa với cần ghi**; K7 bôi đỏ một phần → sửa toàn văn, diff bản cuối của Bạn để rút quy ước; K8 độ dài: Sở 5–6 điểm, Công an 4, Bộ CHQS 3, sở khác 1 câu; giao vai trò bằng "Thực hiện nhiệm vụ của…, chịu trách nhiệm…"; K9 công văn Sở trình kèm không nêu thiếu sót của cấp trên; K10 "(Dự thảo)", "(B/c)", không sửa thể thức riêng của Sở như "(Khôi)." subscript.
+
+Áp dụng cho mọi việc soạn / rà soát / góp ý / tham mưu, không chỉ khi tạo .docx.
+**Chi tiết từng nhóm, vụ thật và checklist: `reference/phong-tranh-sai-lam.md`** — đọc file đó
+trước khi trình ký. Mỗi nhóm một dòng để nhớ:
+
+| Nhóm | Điều phải nhớ | Máy kiểm |
+|---|---|---|
+| **A** Pháp lý | Không điền số/ngày/điều khoản từ trí nhớ; không ghép 2 dữ kiện trong reference thành kết luận mới về vụ việc | R01, `cite_check.py` |
+| **B** Nhiệm vụ | Quy tắc 1-1-1: mỗi nhiệm vụ đề xuất Sở làm phải truy về 1 câu chỉ đạo / 1 điều khoản / 1 chức năng của Sở | — (loại N) |
+| **C** Từ ngữ | Bản trình ký chỉ có 3 trạng thái: khẳng định có căn cứ, đề nghị nêu căn cứ, bảo lưu. Không từ suy đoán | R08 |
+| **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
+| **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
+| **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN (Tên).`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07 |
+| **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
+| **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
+| **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |
+| **K** Văn bản chỉ đạo UBND tỉnh | **Gần như không viện dẫn điều khoản**; giao cơ quan khác viết tổng quát trong thẩm quyền thật của họ; điều kiện đặt lên cơ quan khác chỉ hợp lệ khi Sở đã được giao vai trò + có sản phẩm cụ thể; không tính từ đánh giá; thuật ngữ theo luật | R09, R15 |
+| **L** Cho ý kiến, gia hạn, hướng dẫn hồ sơ | Phải ghi rõ **nhất trí / không nhất trí** kèm lý do — cấm "căn cứ theo quy định của pháp luật để thực hiện"; gia hạn không quá 01 lần, không quá 10 ngày, có mốc ngày cụ thể; hướng dẫn bổ sung hồ sơ đủ trong MỘT lần | R10 (một phần) |
 
 ## Đọc PDF văn bản đến — trích metadata chính xác
 
@@ -274,58 +118,39 @@ Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, l
 
 Cờ kích hoạt, OCR fallback (`ocrmypdf`), 11 trường output JSON, chức vụ ký (KT./TM./TUQ./TL.), khi nào chạy lại — chi tiết: **`reference/doc-pdf-metadata.md`**.
 
-## Quy tắc bất biến
+## Thư viện mẫu thật đã ban hành (`examples/`)
+26 mẫu thật (`examples/sct/` 20 + `examples/ubnd/` 6) để soạn bằng Chế độ B: bảng "mẫu thật ↔ loại văn bản", người ký/ký hiệu, cấu trúc từng mẫu UBND/VP, lưu ý số liệu — đọc khi chọn mẫu hoặc soạn văn bản cấp UBND/VP: **`reference/thu-vien-mau-that.md`**.
+Cốt lõi: ưu tiên mẫu thật trong `examples/` hơn template trắng (Chế độ B); KHÔNG dùng `TemplateDoc` cho file `examples/` (đã điền sẵn, không theo chỉ số paragraph); KHÔNG bê nguyên nội dung vụ việc cũ sang văn bản mới — chỉ kế thừa khung, thể thức, văn phong.
 
-1. **KHÔNG bao giờ sinh văn bản từ đầu bằng code khi đã có mẫu/file gốc** — Chế độ A: mở mẫu trong `templates/`; Chế độ B: sửa trực tiếp file người dùng tải lên (unpack→XML→pack), giữ nguyên định dạng gốc.
-2. **KHÔNG động vào structure tables** (header table, footer signature table) — chỉ thay text trong cells.
-3. **KHÔNG xóa/thêm paragraph trong giữa table cells** — chỉ thay text (ngoại lệ duy nhất: thêm paragraph trống trong ô để chừa chỗ ký/điền tay theo Quy tắc 20). Paragraph NGOÀI bảng khi lắp ghép: theo Nhóm H10 (xóa tồn dư giữa mục, giữ 1 dòng đệm trước khối ký).
-4. **Khi thay text trong paragraph có "Điều X" bold**: dùng `replace_keeping_first_run` (không dùng `set_paragraph_text`).
-5. **KHÔNG giao PDF cho người dùng** — sản phẩm cuối chỉ là .docx. (Được phép render PDF/JPG **nội bộ** để QA trực quan ở Bước 4, nhưng không `present_files` file PDF đó.)
-6. **Người ký mặc định**:
-   - **Chọn PGĐ ký theo LĨNH VỰC** (phân công cắt ngang phòng — xem bảng đầy đủ trong `sct-laocai-org-vn` mục "Phân công lĩnh vực giữa các Phó Giám đốc"):
-     - **PGĐ Nguyễn Đình Chiến** ký: **KCN, CCN, ATTP** (vd QĐ/GCN ATTP, CV/BC về cụm công nghiệp).
-     - **PGĐ Hoàng Văn Thuân** ký: **HHNH (vận chuyển hàng nguy hiểm), hóa chất, VLNCN, tiền chất thuốc nổ, khoáng sản, môi trường, PCCC, khoa học (KHCN), ATVSLĐ, năng lượng, thương mại** (vd GP vận chuyển HHNH, văn bản hóa chất/VLNCN, PCCC).
-     - Lĩnh vực QLCN chưa nêu tên: mặc định PGĐ Nguyễn Đình Chiến (phụ trách phòng) hoặc hỏi lại.
-   - TTr UBND tỉnh, KH quan trọng, QĐ/BC quan trọng → **GIÁM ĐỐC Hoàng Chí Hiền**.
-   - Khi PGĐ phụ trách vắng, PGĐ còn lại ký thay (nêu rõ để người dùng xác nhận, không mặc định cứng).
-   - **Ngoại lệ - Công văn nội bộ Phòng (template 08)**: do **Trưởng phòng** ký (mặc định Trưởng phòng QLCN Nguyễn Hữu Long), không phải Lãnh đạo Sở; header không có số ký hiệu, dòng lưu chỉ `Lưu: CN (...)`.
-   - **Văn bản cấp UBND tỉnh / VP UBND (examples/ubnd)**: người ký là Lãnh đạo UBND tỉnh hoặc Văn phòng UBND tỉnh (KT. CHỦ TỊCH - PHÓ CHỦ TỊCH; TL. CHỦ TỊCH - KT. CHÁNH VĂN PHÒNG - PHÓ CHÁNH VĂN PHÒNG; CHÁNH VĂN PHÒNG; TM. ỦY BAN NHÂN DÂN TỈNH - CHỦ TỊCH). Xem mục "Văn bản cấp UBND tỉnh và Văn phòng UBND tỉnh".
-7. **Tên file chuẩn**: đặt theo định dạng `YYYY.MM.DD. [Tên văn bản].docx` — tiền tố ngày (năm.tháng.ngày), một dấu chấm và khoảng trắng, rồi tên văn bản đầy đủ bằng tiếng Việt **có dấu**.
-   - Ví dụ: `2026.06.19. Báo cáo tổng kết triển khai cụm công nghiệp.docx`
-   - Ví dụ: `2026.05.15. Công văn báo cáo tiến độ thẩm định CCN An Thịnh.docx`
-   - Ngày trong tên file = ngày ban hành ghi trên văn bản (không phải ngày tạo file). Nếu chưa rõ ngày ban hành thì dùng ngày dự kiến ký.
-8. **Căn chỉnh đều đẹp, đồng bộ đánh số trước khi xuất file**: văn bản cần được căn chỉnh đều đẹp và đồng bộ danh mục đánh số thứ tự các mục trước khi xuất file. Hệ thống đề mục phải đánh số liên tục, không nhảy bậc, đúng cấp (I, II, III → 1, 2, 3 → a, b, c hoặc 1.1, 1.2); canh lề, thụt đầu dòng và khoảng cách đoạn nhất quán. Thực hiện rà soát này ở Bước 4, trước khi `save`.
-9. **In nghiêng các đầu mục chữ cái a), b), c)…**: ở cấp đề mục thấp nhất dùng chữ cái thường (a), b), c), d)…), phần **nhãn chữ cái cùng tiêu đề ngắn của mục** in **nghiêng đứng (italic), không đậm** — để phân biệt với cấp trên (I, II, III và 1, 2, 3 in **đậm đứng**, không nghiêng). Áp dụng đồng bộ cho mọi mục a), b), c)… cùng cấp trong toàn văn bản (đúng kiểu đã chỉnh ở báo cáo CCN). Chỉ nghiêng nhãn + tiêu đề đầu mục; nội dung diễn giải phía sau để đứng. Chữ khoản: a, b, c, d, đ, e, g. *(Kỹ thuật tách run: Nhóm H11.)*
-10. **TUYỆT ĐỐI KHÔNG chèn ngắt dòng cứng (`\n`/`<w:br/>`) vào trong một paragraph** — một paragraph VBHC không bao giờ chứa ngắt dòng cứng; mọi việc "xuống dòng" tách thành paragraph riêng. Trường V/v, ngày tháng, tên cơ quan truyền **một chuỗi liền**, để Word tự wrap. *(`_norm_inline()` trong `fill_template.py` đã tự chuẩn hóa `\n` thành dấu cách nhưng giữ nguyên chuỗi nhiều dấu cách căn chỉnh có chủ đích — không ỷ lại guard. Kiểm tự động: tag `HDR-BR` trong `qa_all.py`.)*
-11. **Không gán `run.text` cho run neo shape Line trong header** — shape bọc trong `mc:AlternateContent`, gán text là mất Line + định dạng; kiểm shape bằng `iter(qn('w:pict'))/iter(qn('w:drawing'))` trước, sửa qua node `w:t`, hỏng thì deep copy `<w:p>` từ gốc; QA đếm shape file xuất == gốc (chuẩn SCT = 2 Line). *(Chi tiết: Nhóm H1, H5.)*
-12. **Dòng "Số: …" và "Địa danh, ngày…" 13pt tường minh (`w:sz/szCs=26` trên run), dòng ngày `<w:i/>`** — không dựa kế thừa Normal; mẫu chưa đặt thì bổ sung. *(H2.)*
-13. **Không widow word (1 chữ lẻ rơi dòng)** — co `w:spacing` âm (-4…-8) hoặc nới cho 2-3 chữ cùng xuống; QA quét `pdftotext -layout`. *(H3.)*
-14. **Khối chữ ký không gãy giữa 2 trang** — `<w:cantSplit/>` vào trPr hàng ký; hụt trang thì co space before/after body 6→4pt hoặc rút thân văn bản — **không co dòng trống của ô ký** (xem Quy tắc 22); QA pdftotext: tên người ký cùng trang chức danh. *(H4.)*
-15. **Unicode NFC/NFD — so khớp text file docx PHẢI chuẩn hóa NFC hai phía** (vụ thật 09/7/2026 — CV Yên Hợp gửi Sở Tài chính): nhiều file mẫu thật lưu tiếng Việt dạng **NFD** (dấu tách rời: `ị` = `i` + `U+0323`) trong khi chuỗi Claude gõ là NFC → `pattern in text` trượt. `fill_template.py` đã NFC-normalize sẵn ở tầng `_replace_text_in_paragraph`; khi tự viết code so khớp/assert ngoài TemplateDoc (grep nội dung, kiểm tra forbidden strings...), LUÔN `unicodedata.normalize('NFC', ...)` cả hai phía.
-16. **Mọi lệnh replace là BẮT BUỘC KHỚP, thất bại phải nổ to** (cùng vụ 09/7/2026: `replace_in_cell` trượt im lặng → trích yếu V/v vụ nổ mìn cũ lọt ra bản trình ký dù QA thể thức PASS): `replace_in_cell`/`replace_in_paragraph` từ v2.2.0 mặc định `required=True` — pattern không khớp là raise `ValueError` kèm text thật để sửa pattern ngay. Chỉ truyền `required=False` khi pattern là tùy chọn CÓ CHỦ ĐÍCH. KHÔNG bọc try/except để nuốt lỗi này.
-17. **QA nội dung bằng `--forbid`/`--require` là BẮT BUỘC với Chế độ B trên mẫu thật** (chốt chặn thứ hai, độc lập với assertion trong build script): 
-   ```bash
-   python3 scripts/qa_all.py output/<file>.docx \
-     --forbid "<trích yếu vụ cũ>" "<tên DN cũ>" "CN(<tên người soạn cũ>)" "<người ký cũ nếu khác>" \
-     --require "<số CV đến>" "<ngày CV đến>" "CN(<tên người soạn mới>)" "<người ký mới>"
-   ```
-   Danh sách forbid tối thiểu = các chuỗi đặc trưng của vụ việc trong mẫu gốc (đọc mẫu trước khi build là có ngay); require tối thiểu = số/ngày văn bản đến, `CN(tên)`, tên người ký. Thể thức PASS ≠ nội dung đúng — hai tầng kiểm khác nhau.
-18. **Người soạn thảo trong dòng Lưu = CHUYÊN VIÊN phụ trách lĩnh vực, KHÔNG mặc định CN(Trang)** (cùng vụ 09/7/2026): tra bảng "Chuyên viên ↔ lĩnh vực tham mưu" trong `sct-laocai-org-vn` (vd CCN/KCN → **Lê Quang Trung** → `CN(Trung)`; HHNH → theo bảng; ATTP → theo bảng). `CN(Trang)` CHỈ dùng khi Bạn (PTP) nói rõ tự soạn. Không rõ lĩnh vực của ai → hỏi, không đoán.
-19. **Văn bản đến là PDF (kể cả đã thấy nội dung trong context) → PHẢI chạy `extract_metadata.py` TRƯỚC khi dẫn chiếu số/ngày** (cùng vụ 09/7/2026: context hiển thị "Số: /UBND-KT" trống, đĩa có đủ **857/UBND-KT ngày 08/7/2026**): ô số/ngày trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "văn bản chưa cấp số". Nếu script cũng không đọc được số → để trống và NÓI RÕ với Bạn, không tự điền "số .../...". **Bổ sung 02/9/2026 (vụ QĐ 5116/QĐ-SCT):** context trống "Số: /QĐ-SCT", "ngày tháng" = PDF ký số (số/ngày nằm trong trường chữ ký /Sig), KHÔNG phải bản dự thảo — cấm viết "bản dự thảo/chưa điền số" khi chưa chạy script; áp dụng cả khi đang làm việc trong plugin nghiệp vụ khác và chỉ "lưu bản gốc vào plugin".
-20. **Không đặt chiều cao dòng cố định `<w:trHeight>` cho bảng nội dung** — trHeight + cantSplit đẩy nguyên bảng sang trang sau, trang trước trắng nửa trang (vụ 24/7/2026). Chế độ B gỡ sạch (trừ bảng header). *(Kiểm tự động: `check_document.py` nhóm **[F]**. Chi tiết: Nhóm H12.)*
-21. **NƠI NỘP HỒ SƠ TTHC — ghi Cổng dịch vụ công một cửa Bộ Công Thương `https://motcua-tthc.moit.gov.vn/`** (quy ước cố định của Bạn từ 02/8/2026, áp dụng MỌI TTHC: GP sử dụng VLNCN, HHNH, hóa chất, ATTP, huấn luyện KTAT…). Trong công văn hướng dẫn, danh mục thành phần hồ sơ, bản kê gửi doanh nghiệp: câu chuẩn "nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/" (DN đăng nhập bằng VNeID). Đây là nơi nộp DUY NHẤT (Bạn chốt lại 02/9/2026): KHÔNG ghi Trung tâm Phục vụ hành chính công (kể cả "hoặc qua"/"kênh phụ"), KHÔNG ghi "Cổng Dịch vụ công quốc gia", "Hệ thống thông tin giải quyết TTHC của tỉnh", bưu chính, trực tiếp. Trích nguyên văn điều luật có nêu Cổng DVCQG thì để trong ngoặc kép và ghi rõ là trích luật. Kết thúc công văn ngay tại đoạn đề nghị nộp lại hồ sơ, không thêm "liên hệ Phòng … để được hướng dẫn".
+## Công thức & checklist thực chiến
+Công thức căn bảng/biểu khổ ngang "vuông vắn" (A4 ngang 9071 DXA, lặp dòng tiêu đề, nền trắng), đồng bộ chéo Báo cáo↔Phụ lục↔VP UBND, toàn vẹn số liệu/metadata, mã người soạn dòng "Lưu" — đọc khi dựng biểu hoặc đồng bộ nhiều file: **`reference/cong-thuc-thuc-chien.md`**.
 
-22. **KHỐI KÝ CHUẨN (Bạn chốt 09/9/2026):** (a) đúng **1 paragraph trống** giữa đoạn cuối thân và bảng ký; (b) ô ký: chức danh + **đúng số paragraph trống của mẫu thật** (công văn Sở = 5), tối thiểu 3, không bớt để ép trang; (c) tên lãnh đạo ngang hoặc thấp hơn dòng "Lưu:"; mỗi dòng Nơi nhận gọn 1 dòng (≤ 45 ký tự); (d) **không co khối ký để ép vừa trang** — thiếu chỗ thì rút thân văn bản; (e) `keep_with_next` cho 2 đoạn cuối + dòng trống trước bảng ký và `<w:cantSplit/>` cho hàng ký (Word ngắt trang khác LibreOffice). *(Kiểm tự động: tag **SIGSPACE** trong `qa_all.py` — tự kiểm (a)(b)(c). Chi tiết: Nhóm H13.)*
+## Tài liệu tham chiếu (`reference/`) — đọc khi cần
 
-23. **GIỌNG VĂN CÔNG VĂN XIN Ý KIẾN (Bạn chốt 10/9/2026):** giọng đề nghị, không ra lệnh: "kính đề nghị quý cơ quan, đơn vị…", "xin gửi về…", "rất mong nhận được sự quan tâm, phối hợp"; xưng "quý cơ quan, đơn vị, doanh nghiệp"; **TUYỆT ĐỐI KHÔNG dùng câu "quá thời hạn không có ý kiến được hiểu là thống nhất với dự thảo"** hay biến thể áp đặt tương tự; hạn gửi ghi kèm lý do mềm ("để Sở kịp tổng hợp, hoàn thiện"). Áp dụng cả công văn gửi ngoài và công văn nội bộ Sở/phòng.
+SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm ở các file dưới.
 
-24. **CĂN LỀ Ô TRONG BẢNG PHỤ LỤC, PHỤ BIỂU (Bạn chốt 13/9/2026):** ô nhiều chữ (từ 2 dòng trở lên) **căn đều hai bên (justify)**; ô ít chữ (1 dòng: TT, số, ngày tháng, tên ngắn) **căn giữa**; **cấm căn trái** kiểu mặc định của Word. Cột TT và cột thời gian/ngày tháng luôn căn giữa (ngày justify sẽ bị giãn chữ xấu). Khi dựng bằng code: `cell_par(..., justify=True)` cho ô dài, ước lượng ngưỡng 1 dòng ≈ 4,5 ký tự/cm bề rộng cột ở cỡ 9,5–10,5pt; hàng nhóm (merge cả hàng, in đậm) căn trái. Mẫu tham chiếu: `dacn-sct-vn/scripts/bai-toan-lon-2/build_kh_bt2.py` (hàm `make_table`), `edit_bc.py` (bảng tiến độ). *(Soi ảnh bảng trước khi giao — lỗi này Bạn phát hiện trên Phụ lục I Kế hoạch Bài toán lớn số 2.)*
+| File | Đọc khi |
+|---|---|
+| `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
+| `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |
+| `quy-trinh-hai-che-do.md` | Chọn Chế độ A hay B; cú pháp `TemplateDoc`; quy trình unpack-sửa-pack; quy tắc tốc độ |
+| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 12 nhóm A–L, checklist, vụ thật |
+| `thu-vien-mau-that.md` | Chọn mẫu thật cho Chế độ B — bảng mẫu ↔ loại VB ↔ người ký |
+| `templates-chi-tiet.md` | Chế độ A — cấu trúc paragraph/table từng template 01–09 |
+| `bao-cao-dinh-ky-phong-qlcn.md` | Báo cáo tháng/quý/9 tháng của Phòng, phụ biểu giao ban, bài phát biểu Trưởng phòng |
+| `van-ban-dang-ca-nhan.md` | Văn bản thể thức Đảng, bộ 4 văn bản cá nhân đảng viên sau giám sát |
+| `cong-cu-ky-thuat.md` | **Trước** khi xử lý file nén, PDF scan, sửa docx đa run — công thức đã kiểm chứng, không mò lại |
+| `doc-pdf-metadata.md` | Đọc PDF công văn đến — cờ kích hoạt, OCR, 11 trường |
+| `cong-thuc-thuc-chien.md` | Căn bảng/biểu khổ ngang, đồng bộ chéo nhiều file |
+| `the-thuc-code.md` | Phải sinh .docx bằng code khi KHÔNG có mẫu — hàm định dạng đoạn + XML đường Line |
+| `nd-79-2025-tom-tat.md` | Rà soát VBQPPL hết hiệu lực (Nhóm D) |
+| `nd30-phu-luc-1-the-thuc.md` | Văn bản gốc Phụ lục I NĐ 30/2020 — căn cứ pháp lý của một quy tắc trình bày |
+| `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
+| `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-25. **CÔNG THỨC HÓA HỌC — chữ số phải là chỉ số dưới thật (Bạn chốt 13/9/2026):** P₂O₅, H₂SO₄, CO₂… viết chữ số bằng run `font.subscript=True` (không dùng ký tự Unicode ₂₅ vì font Times có thể thiếu). m2/m3 vẫn là chỉ số TRÊN (Quy tắc 8). *(Kiểm tự động: **R02** trong `scripts/qa_rules.py`. Mã dựng mẫu: `_emit()` trong `dacn-sct-vn/.../build_kh_bt2.py`.)*
-
-26. **VĂN BẢN THỂ THỨC ĐẢNG, VĂN BẢN CÁ NHÂN ĐẢNG VIÊN (Bạn chốt 16/9/2026):** không Quốc hiệu; góc phải **ĐẢNG CỘNG SẢN VIỆT NAM** đậm 13pt + **gạch dưới đúng bằng và cân với chữ** (soi ảnh, lệch vài chục dxa đã thấy), dưới là dòng `Lào Cai, ngày… ` nghiêng 13pt; góc trái cơ quan cấp trên / đơn vị đậm / dấu `*`; không dòng Số. Trích yếu dưới tên loại **viết hoa chữ đầu**, dài quá 1 dòng thì **chia dòng thủ công cho cân số chữ**, dòng căn cứ nghiêng cũng vậy, không để dòng lẻ. Khối ký `NGƯỜI BÁO CÁO` + họ tên; Nơi nhận: Như trên; Đảng ủy Sở; Chi ủy chi bộ; Lưu: cá nhân. Chi bộ sinh hoạt đọc từ hồ sơ (dự thảo báo cáo giám sát), không đoán. Bộ 4 văn bản sau giám sát (ý kiến phát biểu, báo cáo giải trình tiếp thu, kế hoạch khắc phục có bảng 5 cột, báo cáo kết quả khắc phục) — kết cấu và script: `reference/van-ban-dang-ca-nhan.md`, `scripts/build_vb_dang.js`.
-
-27. **KHỐI KÍNH GỬI NHIỀU NƠI VÀ BẢN XUẤT BẢN KHÔNG CHỖ TRỐNG (Bạn chốt 16/9/2026):** (a) "Kính gửi:" và tên các cơ quan **thẳng cột** (tab + hanging indent — ngoại lệ có chủ đích duy nhất của quy tắc không thụt treo), cả khối cân giữa trang, mỗi cơ quan đúng 1 dòng; (b) mọi đoạn thân, kể cả đề mục và gạch đầu dòng, **lùi đồng đều**; (c) bản "hoàn thiện để xuất bản" **cấm còn chỗ trống và chữ tím** — căn cứ chưa có số thì viết thẳng tên văn bản, kết quả chưa có số thì viết định tính thành câu hoàn chỉnh; chỉ dòng ngày tháng góc phải được để trống cho văn thư điền khi ký. *(Kiểm tự động: **R04** (a), **R13** (b), **R03** (c) trong `scripts/qa_rules.py`; chạy `qa_all.py --final` cho bản xuất bản.)*
+Script: `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R15) · `cite_check.py` (đối chiếu số hiệu)
+· `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
+· `extract_metadata.py` (đọc PDF) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 
 ## Demo có sẵn
 

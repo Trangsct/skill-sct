@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.35.0] - 16/9/2026 — ref 31 mục 7, 8: CCN Thống Nhất không thu hút đầu tư; phân biệt địa điểm KCN Võ Lao giữa QĐ 525 và QĐ 2463
+
+- **`references/31-so-chot-du-kien-cung.md`:**
+  - **Mục 7 (MỚI)** — CCN Thống Nhất (35 ha, xã Gia Phú, nhóm IV Phụ lục III QĐ 525) **KHÔNG thuộc diện thu hút, kêu gọi nhà đầu tư hạ tầng**; mục tiêu là bố trí mặt bằng di chuyển các cơ sở sản xuất từ 02 CCN Đông Phố Mới và Sơn Mãn (rút khỏi quy hoạch do dự án đường sắt Lào Cai - Hà Nội - Hải Phòng). Người dùng chốt 16/9/2026 sau trao đổi với Lãnh đạo Sở. Cấm đưa dòng "Thống Nhất 35 ha/420 tỷ" ở nhóm III ref 14 vào danh mục kêu gọi đầu tư và cấm viết "chưa có nhà đầu tư nên là dư địa kêu gọi đầu tư". Liên quan QHCT Khu vực SXCN Thống Nhất tại QĐ 763/QĐ-UBND ngày 23/3/2026 (ref 22).
+  - **Mục 8 (MỚI)** — đã soi bản gốc Phụ lục II QĐ 525 (bản scan có dấu): địa điểm **KCN Võ Lao (giai đoạn 1) chỉ ghi "Xã Võ Lao"**, điều chỉnh 200 → 500 ha; địa danh **"xã Võ Lao và xã Tằng Loỏng" là theo QĐ 2463/QĐ-UBND ngày 16/7/2026** (chấp thuận CTĐT 482,6 ha). Không gán địa danh hai xã cho QĐ 525.
+- `references/14-qd1382-danh-muc-thu-hut.md`: gắn cảnh báo vào dòng 17 nhóm III (CCN Thống Nhất).
+- `references/12-danh-muc-kcn-ccn-lao-cai.md`: ghi chú tương ứng ở bảng CCN trọng điểm.
+- `SKILL.md`: cập nhật mô tả ref 31. `plugin.json` → 1.35.0.
+
 ## [1.34.0] - 12/9/2026 — ref 37: kỳ cập nhật tiến độ thủ tục CCN từ dây chuyền tự động Data360X (Xuân Ái, Châu Quế, Tân Hợp, báo cáo tuần, 08 CCN vốn NSNN)
 
 - **`references/37-ky-cap-nhat-12-9-2026-data360x.md` (MỚI):** nguồn là lượt quét tự động Data360X ngày 12/9/2026 (1.000 văn bản đi + đến, giai đoạn 20/8 – 11/9/2026); mọi dữ kiện đọc từ bản gốc, không lấy từ trích yếu.

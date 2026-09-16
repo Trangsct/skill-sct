@@ -84,7 +84,7 @@ Theo Báo cáo Sở Công Thương ngày 18/6/2026, 35 CCN này (cùng 02 CCN m�
 | 14 | Bản Phiệt 2 | phường Lào Cai | 75 | 900 |
 | 15 | Cam Đường 1 | phường Cam Đường | 40 | 480 |
 | 16 | Cam Đường 2 | phường Cam Đường | 12 | 144 |
-| 17 | Thống Nhất | xã Gia Phú | 35 | 420 |
+| 17 | Thống Nhất ⚠️ KHÔNG thu hút đầu tư — cụm phục vụ di chuyển cơ sở từ CCN Đông Phố Mới, Sơn Mãn; không đưa vào danh mục kêu gọi CĐT hạ tầng (chốt 16/9/2026, ref 31 mục 7) | xã Gia Phú | 35 | 420 |
 | 18 | Phố Ràng 1 | xã Bảo Yên | 56 | 672 |
 | 19 | Phố Ràng 2 | xã Bảo Yên | 75 | 900 |
 | 20 | Bát Xát | xã Bát Xát | 57 | 684 |

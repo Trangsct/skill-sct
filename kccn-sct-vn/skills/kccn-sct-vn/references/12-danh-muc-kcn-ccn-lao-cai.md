@@ -52,7 +52,7 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 | Tên CCN | Vị trí (xã/phường) chuẩn | Ghi chú vị trí |
 |---|---|---|
 | Thống Nhất 1 | Xã Gia Phú | Đã thành lập (75 ha) |
-| Thống Nhất | Xã Gia Phú | Bổ sung mới (35 ha) |
+| Thống Nhất | Xã Gia Phú | Bổ sung mới (35 ha) — phục vụ di chuyển cơ sở từ CCN Đông Phố Mới, Sơn Mãn; KHÔNG thu hút đầu tư (ref 31 mục 7) |
 | Phú Thịnh 1, 2, 3, 4 | Xã Yên Bình, phường Văn Phú | |
 | Phú Thịnh 5, Phú Thịnh 6 | **Phường Văn Phú** | QĐ 525 chốt Văn Phú (không dùng Gia Phú) |
 | Minh Quân | Phường Âu Lâu | Điều chỉnh theo QĐ 2364 |

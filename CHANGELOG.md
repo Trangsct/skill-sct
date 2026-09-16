@@ -1,3 +1,8 @@
+## 16/9/2026 — vbhc-vn 2.22.0: Quy tắc 26, 27 — văn bản thể thức Đảng, bộ 4 văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
+
+- **Nguồn:** Bạn duyệt 4 lượt bộ văn bản cho Trưởng phòng QLCN sau khi Đoàn giám sát BTV Đảng ủy UBND tỉnh (QĐ 580-QĐ/ĐU ngày 07/8/2026) thông qua dự thảo Báo cáo kết quả giám sát 04 đảng viên (16/9/2026). Các ý kiến sửa: lùi đầu dòng không đồng đều; còn chỗ trống "……"; gạch dưới tiêu đề Đảng chưa cân; hai cơ quan ở Kính gửi lệch nhau và cả khối lệch trái; trích yếu chưa viết hoa chữ đầu, chia dòng chưa cân.
+- **vbhc-vn 2.22.0** — `reference/van-ban-dang-ca-nhan.md` (mới) + `scripts/build_vb_dang.js` (mới, tên giả); SKILL.md Quy tắc 26 (thể thức Đảng + kết cấu 4 văn bản) và 27 (Kính gửi thẳng cột, cân giữa; mọi đoạn thân lùi 1,27 cm; bản "hoàn thiện để xuất bản" không còn "……"/chữ tím). Không đưa văn bản gốc vào repo.
+
 ## 15/9/2026 — vbhc-vn 2.21.0: Nhóm L — công văn cho ý kiến, xin gia hạn, hướng dẫn bổ sung hồ sơ (CV 9060/UBND-TH)
 
 - **Văn bản nguồn:** Công văn số **9060/UBND-TH ngày 07/9/2026** của Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký), V/v chấn chỉnh, nâng cao chất lượng, trách nhiệm trong công tác tham mưu của các cơ quan, đơn vị, địa phương. Số và ngày đọc từ file gốc bằng `extract_metadata.py` (context hiển thị "Số: /UBND-TH", ngày trống).

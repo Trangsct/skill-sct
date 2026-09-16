@@ -1,3 +1,9 @@
+## [2.22.0] - 16/9/2026 — Quy tắc 26, 27: văn bản thể thức Đảng, bộ văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
+
+- **reference/van-ban-dang-ca-nhan.md (MỚI)**: thể thức Đảng (tiêu đề ĐẢNG CỘNG SẢN VIỆT NAM + gạch dưới cân, không Quốc hiệu, không số, khối ký NGƯỜI BÁO CÁO); khối Kính gửi thẳng cột bằng tab + hanging indent và cân giữa trang; trích yếu viết hoa chữ đầu, chia dòng cân; mọi đoạn thân lùi 1,27 cm đồng đều; cấm chỗ trống "……" trong bản xuất bản; kết cấu đã duyệt của 4 văn bản (ý kiến phát biểu, báo cáo giải trình tiếp thu, kế hoạch khắc phục bảng 5 cột, báo cáo kết quả khắc phục). Nguồn: Bạn duyệt 4 lượt bộ văn bản sau giám sát của BTV Đảng ủy UBND tỉnh ngày 16/9/2026.
+- **scripts/build_vb_dang.js (MỚI)**: dựng 3 văn bản bằng docx-js với hàm `header`, `kg`, `sign`, `P/C/H1`; nội dung ví dụ đã thay tên thật bằng biến NGUOI/CHI_BO/CHUC_VU/PHONG (repo công khai, không chép văn bản nội bộ).
+- SKILL.md: Quy tắc 26 (thể thức Đảng, bộ 4 văn bản), Quy tắc 27 (Kính gửi nhiều nơi cân giữa; lùi đầu dòng đồng đều; bản xuất bản không chỗ trống, không chữ tím); bảng tham chiếu thêm dòng reference mới. `plugin.json` → 2.22.0, description đồng bộ.
+
 # CHANGELOG — plugin vbhc-vn
 
 ## [2.14.0] - 06/9/2026 — Nhóm K viết lại theo BẢN CUỐI Bạn chốt (K1–K10)

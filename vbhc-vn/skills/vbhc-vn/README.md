@@ -191,3 +191,38 @@ ghi trong file `.expect` cùng tên. Nâng cấp làm hỏng thứ đang đúng 
 
 Kiểm kê toàn bộ quy tắc, phân loại máy kiểm được / không kiểm được: **`tests/rule-inventory.md`**.
 Quy trình khi phát hiện lỗi mới: mục "Quy trình khi phát hiện lỗi mới" trong `HUONG_DAN_CAP_NHAT.md`.
+
+## Trình biên dịch nội dung sang .docx (từ v2.23.0)
+
+**`scripts/build_vb.py`** — viết NỘI DUNG dạng text có thẻ, script dựng .docx trên mẫu thật và
+tự chuẩn hóa thể thức. Phần dễ sai nhất (sửa XML tay từng run) biến mất; sửa nội dung lần hai
+chỉ là sửa text rồi build lại.
+
+```bash
+python3 scripts/build_vb.py noi-dung.txt ra.docx --loai cong-van
+python3 scripts/build_vb.py noi-dung.txt ra.docx --mau examples/sct/<mẫu>.docx
+```
+
+Thẻ đầu dòng: `[H]` đề mục đậm · `[I]` đề mục nghiêng · `[K]` dòng Kính gửi · `[P]` đoạn thường
+(mặc định) · `##` chú thích. Tám loại dùng được ngay qua `--loai`: `cong-van`,
+`cong-van-noi-bo`, `to-trinh`, `bao-cao`, `bao-cao-phong`, `ke-hoach`, `giay-phep`, `bien-ban`.
+
+Script tự làm, không phải nhớ: công thức hóa học P2O5, H2SO4, CO2… thành **chỉ số dưới thật**
+(Quy tắc 25); đơn vị m2, m3 thành **chỉ số trên thật** (Quy tắc 8); mọi đoạn thân lùi đầu dòng
+đồng đều theo trị của chính mẫu (Quy tắc 27b); đoạn thường căn đều hai bên. Gặp markdown hoặc
+ngắt dòng cứng trong file nội dung là dừng và báo lỗi. Header, đường Line, khối chữ ký của mẫu
+giữ nguyên tuyệt đối. Dựng xong script tự chạy `qa_rules.py`.
+
+## Đối chiếu số hiệu văn bản (từ v2.23.0)
+
+**`scripts/cite_check.py`** — quét mọi số hiệu trong bản thảo, đối chiếu `data/vbpl.json`
+(sinh từ `registry/trang-thai.csv` của kho, do người duy trì ghi sau khi mở bản gốc):
+
+```bash
+python3 scripts/cite_check.py file.docx
+python3 scripts/cite_check.py file.docx --to-tim   # xuất bản _cantra.docx bôi tím chỗ cần tra
+```
+
+Ba nhóm kết quả: **KHỚP** · **LỆCH** (ngày trong văn bản khác kho — phải sửa một bên) ·
+**CHƯA CÓ** (chưa đối chiếu được, không có nghĩa là sai). Script không bao giờ tự sửa số hiệu.
+Bổ sung văn bản vào kho: sửa `registry/trang-thai.csv` rồi chạy `python3 scripts/build_vbpl.py`.

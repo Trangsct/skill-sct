@@ -13,6 +13,9 @@ Kiểm hai chiều:
      với tests/baseline-qa-all.json. Baseline này ghi nhận nợ kỹ thuật có sẵn từ trước đợt
      2.23.0 (SZ13, SIGSPACE, LINES, HDR-BR trên 24/26 mẫu) — xem mục D.4 rule-inventory.md.
 
+  4. TRÌNH BIÊN DỊCH build_vb.py dựng được cả 7 loại văn bản từ cùng một file nội dung, bản
+     dựng không có FAIL, và công thức hóa học / đơn vị m2, m3 được tách run chỉ số thật.
+
   2. FILE LỖI PHẢI BỊ BẮT — mỗi file trong tests/fail/ phải bắt ĐÚNG và ĐỦ các mã ghi
      trong file .expect cùng tên, và KHÔNG được sinh thêm mã FAIL nào ngoài danh sách
      cho phép (= mã kỳ vọng + các mã vốn có của chính mẫu thật gốc ghi ở dòng "nguon:").
@@ -177,6 +180,41 @@ def main() -> int:
             BASELINE_QA.write_text(json.dumps(moi_qa, ensure_ascii=False, indent=2) + "\n",
                                    encoding="utf-8")
             print(f"   Đã ghi lại {BASELINE_QA.relative_to(PLUGIN)}")
+
+    # ── 4. Trình biên dịch build_vb.py dựng được cả 7 loại ───────────
+    print("\n── 4. Trình biên dịch build_vb.py ──")
+    sys.path.insert(0, str(PLUGIN / "scripts"))
+    import importlib
+    bv = importlib.import_module("build_vb")
+    tam = TESTS / "_ket-qua" / "_bien-dich"
+    tam.mkdir(parents=True, exist_ok=True)
+    nd = TESTS / "bien-dich" / "mau-thu.txt"
+    for loai, mau in sorted(bv.MAU_MAC_DINH.items()):
+        if not mau.exists():
+            loi.append(f"build_vb: thiếu mẫu mặc định của '{loai}': {mau}")
+            continue
+        ra = tam / f"{loai}.docx"
+        r = subprocess.run(
+            [sys.executable, str(PLUGIN / "scripts" / "build_vb.py"), str(nd), str(ra),
+             "--loai", loai, "--khong-qa"],
+            capture_output=True, text=True, timeout=180)
+        if r.returncode != 0 or not ra.exists():
+            loi.append(f"build_vb dựng hỏng loại '{loai}': {r.stderr.strip()[:200]}")
+            continue
+        ds = chay(ra)
+        fails = [x for x in ds if x.level == FAIL]
+        if fails:
+            loi.append(f"build_vb: bản dựng loại '{loai}' có FAIL — "
+                       + "; ".join(f"{x.code} {x.excerpt[:40]}" for x in fails[:3]))
+        # Chỉ số dưới/trên phải được tách run thật, không còn chuỗi phẳng.
+        from docx import Document as _D
+        co_sub = any(r.font.subscript for p in _D(str(ra)).paragraphs for r in p.runs)
+        co_sup = any(r.font.superscript for p in _D(str(ra)).paragraphs for r in p.runs)
+        if not (co_sub and co_sup):
+            loi.append(f"build_vb loại '{loai}': thiếu chỉ số "
+                       f"{'dưới ' if not co_sub else ''}{'trên' if not co_sup else ''} "
+                       f"(công thức hóa học / đơn vị m2, m3 chưa tách run)")
+        print(f"   {loai}: {'ok' if not fails and co_sub and co_sup else 'SAI'}")
 
     if a.cap_nhat_baseline:
         BASELINE.write_text(json.dumps(moi_baseline, ensure_ascii=False, indent=2) + "\n",

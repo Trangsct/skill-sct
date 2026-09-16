@@ -30,8 +30,9 @@ def dat_text(p, moi):
     làm hỏng một file lỗi ngày 16/9/2026. Nên chọn run ĐẦU TIÊN CÓ CHỮ làm run giữ lại."""
     co_chu = [r for r in p.runs if r.text.strip()]
     giu = co_chu[0] if co_chu else p.runs[0]
+    # So theo phần tử XML: p.runs trả object bọc MỚI mỗi lần gọi nên `is not` luôn đúng.
     for r in p.runs:
-        if r is not giu:
+        if r._element is not giu._element:
             r.text = ''
     giu.text = moi
 OUT.mkdir(parents=True, exist_ok=True)

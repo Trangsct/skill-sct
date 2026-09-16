@@ -1,4 +1,4 @@
-# File lỗi NHÂN TẠO — sinh bằng scripts/… từ bản sao mẫu thật, sửa có chủ đích.
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
 # Bỏ nghiêng dòng địa danh/ngày và bỏ đậm dòng chức danh.
 nguon: examples/sct/cong-van-moi-hop-sct.docx
 R11 FAIL

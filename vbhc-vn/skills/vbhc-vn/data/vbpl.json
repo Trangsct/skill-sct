@@ -1,12 +1,288 @@
 {
-  "_doc": "Kho dữ kiện văn bản pháp luật có kiểm chứng — dùng cho quy tắc R05 (không viện dẫn văn bản chưa có hiệu lực tại ngày ký) trong scripts/qa_rules.py.",
+  "_doc": "Kho dữ kiện văn bản pháp luật có kiểm chứng. SINH TỰ ĐỘNG bởi scripts/build_vbpl.py từ registry/trang-thai.csv — KHÔNG SỬA TAY file này. Muốn thêm/sửa một văn bản: sửa registry/trang-thai.csv rồi chạy lại script.",
+  "_nguon": "registry/trang-thai.csv",
   "_quy_uoc": {
-    "khoa": "Số hiệu VIẾT HOA đúng như xuất hiện sau chữ 'số' trong văn bản, vd '32/2024/NĐ-CP'.",
-    "ngay_ban_hanh": "YYYY-MM-DD",
-    "ngay_hieu_luc": "YYYY-MM-DD — bỏ trống hoặc bỏ hẳn trường nếu CHƯA kiểm chứng; R05 sẽ không báo gì.",
-    "nguon": "Đường dẫn bản gốc đã tra (vbpl.vn / thuvienphapluat.vn / file trong plugin).",
-    "ngay_kiem_chung": "YYYY-MM-DD — ngày người duy trì đối chiếu bản gốc."
+    "khoa": "Mã như trong registry, vd 'NĐ 32/2024', 'Luật 42/2024', 'QĐ 2867/QĐ-UBND'. Hàm ma_tu_so_hieu() trong scripts/build_vbpl.py quy một số hiệu trong văn bản về mã này.",
+    "ngay": "YYYY-MM-DD; thiếu trường nghĩa là CHƯA kiểm chứng — R05 bỏ qua, không báo."
   },
-  "_canh_bao": "KHÔNG ghi số, ngày từ trí nhớ (Nhóm A). Chỉ ghi khi đã mở bản gốc. Chưa kiểm chứng thì để trống — R05 bỏ qua, không báo, không đoán.",
-  "van_ban": {}
+  "_canh_bao": "Không ghi số, ngày từ trí nhớ (Nhóm A). registry/trang-thai.csv chỉ được ghi khi đã mở bản gốc đối chiếu.",
+  "van_ban": {
+    "KL 48/KL-TT": {
+      "ghi_chu": "Kết luận thanh tra Hóa chất mỏ Tây Bắc — 3 vi phạm hết thời hiệu"
+    },
+    "Luật 118/2025": {
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "Sửa Luật 42/2024 — k5 Đ44 nơi nộp GCN sản xuất TCTN (trích luật)"
+    },
+    "Luật 135/2025": {
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "Luật Xây dựng mới — xd-sct-vn"
+    },
+    "Luật 15/2012": {
+      "ngay_ban_hanh": "2012-06-20",
+      "ngay_hieu_luc": "2013-07-01",
+      "bi_sua_doi_boi": "Luật 67/2020; Luật 88/2025 (01/7/2025)",
+      "ghi_chu": "Luật XLVPHC; bản hợp nhất 63/VBHN-VPQH 2025; Luật 88 bãi bỏ Đ38–49, 51 — thẩm quyền theo NĐ 189/2025"
+    },
+    "Luật 42/2024": {
+      "ngay_hieu_luc": "2025-01-01",
+      "bi_sua_doi_boi": "Luật 118/2025 (01/7/2026)",
+      "ghi_chu": "Luật Quản lý sử dụng vũ khí VLNCN CCHT; VBHN 78/VBHN-VPQH; uỷ quyền cấp GP sử dụng VLNCN cho Sở: QĐ 2867/QĐ-UBND từ 20/8/2026"
+    },
+    "Luật 54/2024": {
+      "ngay_hieu_luc": "2025-07-01",
+      "bi_sua_doi_boi": "Luật 147/2025",
+      "ghi_chu": "Luật Địa chất và Khoáng sản"
+    },
+    "Luật 84/2025": {
+      "ngay_hieu_luc": "2025-07-01",
+      "ghi_chu": "Luật Thanh tra — bỏ Thanh tra Sở; chức danh Chánh TT Sở trong nghị định cũ → GĐ Sở (k2 Đ53 Luật XLVPHC sđ 88/2025; k2 Đ21 NĐ 189)"
+    },
+    "Luật 88/2025": {
+      "ngay_ban_hanh": "2025-06-25",
+      "ngay_hieu_luc": "2025-07-01",
+      "ghi_chu": "Sửa Luật XLVPHC; bản gốc xp-sct-vn/van-ban-goc/chung; đối chiếu ref 10"
+    },
+    "NQ 15/2026/NQ-CP": {
+      "ghi_chu": "Tạm ngưng NĐ 46/2026 (ATTP)"
+    },
+    "NQ 169/NQ-CP": {
+      "ngay_ban_hanh": "2026-06-27",
+      "ghi_chu": "Mục tiêu tăng trưởng — dacn-sct-vn"
+    },
+    "NQ 66.25/2026/NQ-CP": {
+      "ngay_ban_hanh": "2026-09-04",
+      "ngay_hieu_luc": "2026-09-15",
+      "ghi_chu": "Chuyển chức năng QLNN địa chất, khoáng sản (Bộ NN&MT, Bộ XD; Sở NN&MT, Sở XD) và KCN (Bộ Tài chính) về Công Thương; cơ chế NQ 206/2025/QH15; bản gốc qlks-sct-vn/van-ban-goc; ref 23"
+    },
+    "NQ 88/NQ-CP": {
+      "ngay_ban_hanh": "2022-07-22",
+      "ngay_hieu_luc": "2022-07-22",
+      "ghi_chu": "Chương trình hành động của Chính phủ thực hiện NQ 10-NQ/TW về địa chất, khoáng sản; danh mục 18 nhiệm vụ. Bản gốc quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/ — ref 10; qlks-sct-vn ref 24"
+    },
+    "NĐ 105/2025": {
+      "ghi_chu": "Chi tiết Luật PCCC 55/2024; kiểm tra định kỳ Phụ lục II"
+    },
+    "NĐ 106/2025": {
+      "ghi_chu": "Xử phạt PCCC"
+    },
+    "NĐ 118/2021": {
+      "ngay_ban_hanh": "2021-12-23",
+      "ngay_hieu_luc": "2022-01-01",
+      "bi_sua_doi_boi": "NĐ 68/2025; NĐ 190/2025",
+      "ghi_chu": "Chi tiết Luật XLVPHC; bản gốc + 72 biểu mẫu tại xp-sct-vn/van-ban-goc/chung — CHƯA hợp nhất 68/190 (chưa có bản gốc 2 NĐ này)"
+    },
+    "NĐ 133/2026": {
+      "ghi_chu": "Xử phạt điện lực — QLNL"
+    },
+    "NĐ 146/2025": {
+      "ghi_chu": "Sửa NĐ 181/2024 (phân cấp, phân quyền); Đ24; k5 Đ37 ATTP"
+    },
+    "NĐ 150/2025": {
+      "ngay_ban_hanh": "2025-06-12",
+      "bi_sua_doi_boi": "NĐ 370/2025",
+      "ghi_chu": "Tổ chức cơ quan chuyên môn UBND tỉnh, xã — Điều 8 chức năng khoáng sản của Sở chuyển sang Sở CT theo NQ 66.25 (15/9/2026)"
+    },
+    "NĐ 16/2022": {
+      "ghi_chu": "Xử phạt xây dựng — kiểm tra khi có nghị định mới"
+    },
+    "NĐ 161/2024": {
+      "ghi_chu": "Danh mục HHNH, vận chuyển HHNH — hnh-sct-vn"
+    },
+    "NĐ 168/2024": {
+      "ghi_chu": "Xử phạt giao thông đường bộ (vận chuyển HHNH)"
+    },
+    "NĐ 17/2022": {
+      "ngay_ban_hanh": "2022-01-31",
+      "ngay_hieu_luc": "2022-01-31",
+      "ghi_chu": "Sửa NĐ 71/2019, 134/2013, 98/2020, 99/2020 — bản gốc xp-sct-vn/van-ban-goc/chung"
+    },
+    "NĐ 181/2024": {
+      "ngay_hieu_luc": "2025-01-01",
+      "bi_sua_doi_boi": "NĐ 146/2025",
+      "ghi_chu": "Chi tiết Luật 42/2024 (VLNCN, tiền chất); Mẫu 01, 02 huấn luyện"
+    },
+    "NĐ 189/2025": {
+      "ngay_ban_hanh": "2025-07-01",
+      "ngay_hieu_luc": "2025-07-01",
+      "bi_sua_doi_boi": "NĐ 311/2026 (hiệu lực 26/9/2026)",
+      "ghi_chu": "Thẩm quyền xử phạt các chức danh sau sắp xếp; k2 Đ6 GĐ Sở 80% trần; k2 Đ21 chuyển đổi chức danh"
+    },
+    "NĐ 207/2026": {
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "Chi tiết Luật Xây dựng 135/2025; kho VLNCN tạm miễn KTCTNT (k1 Đ25, k3 Đ53)"
+    },
+    "NĐ 217/2025": {
+      "ngay_ban_hanh": "2025-08-05",
+      "ghi_chu": "Kiểm tra chuyên ngành; TT 56/2025/TT-BCT hướng dẫn"
+    },
+    "NĐ 217/2026": {
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "Quản lý dự án/thiết kế xây dựng — tkm-sct-vn GATE k5 Đ76"
+    },
+    "NĐ 24/2025": {
+      "ghi_chu": "Sửa NĐ 98/2020 (Đ78, 81–88 biện pháp khắc phục)"
+    },
+    "NĐ 275/2026": {
+      "ngay_hieu_luc": "2026-08-25",
+      "ghi_chu": "Xử phạt hóa chất, VLNCN, tiền chất — thay NĐ 71/2019; Đ63 có Giám đốc Sở CT"
+    },
+    "NĐ 283/2026": {
+      "ngay_hieu_luc": "2026-09-10",
+      "ghi_chu": "Xử phạt lao động, ATVSLĐ — chưa có plugin ATVSLĐ riêng"
+    },
+    "NĐ 30/2020": {
+      "ngay_ban_hanh": "2020-03-05",
+      "ngay_hieu_luc": "2020-03-05",
+      "ghi_chu": "Công tác văn thư — thể thức VBHC (vbhc-vn)"
+    },
+    "NĐ 303/2026": {
+      "ngay_hieu_luc": "2026-09-15",
+      "ghi_chu": "Sửa NĐ 32/2024 về CCN"
+    },
+    "NĐ 311/2026": {
+      "ngay_ban_hanh": "2026-08-06",
+      "ngay_hieu_luc": "2026-09-26",
+      "ghi_chu": "Sửa NĐ 189/2025"
+    },
+    "NĐ 32/2024": {
+      "ngay_ban_hanh": "2024-03-15",
+      "ngay_hieu_luc": "2024-05-01",
+      "bi_sua_doi_boi": "NĐ 303/2026 (15/9/2026)",
+      "ghi_chu": "Quản lý CCN; NĐ 303 hạ ngưỡng lấp đầy 50%, thẩm quyền thành lập → UBND xã, 4 loại CCN mới"
+    },
+    "NĐ 35/2022": {
+      "ngay_ban_hanh": "2022-05-28",
+      "bi_sua_doi_boi": "NĐ 70/2023; NĐ 129/2025; NĐ 178/2025",
+      "ghi_chu": "Quản lý KCN, KKT — Đ7, 13, 40, 53, 57, 68 do Bộ Công Thương thực hiện từ 15/9/2026 (NQ 66.25 Điều 2)"
+    },
+    "NĐ 36/2020": {
+      "ngay_ban_hanh": "2020-03-24",
+      "ngay_hieu_luc": "2020-05-10",
+      "bi_sua_doi_boi": "NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước)",
+      "ghi_chu": "Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
+    },
+    "NĐ 4/2022": {
+      "ngay_ban_hanh": "2022-01-06",
+      "ngay_hieu_luc": "2022-01-06",
+      "ghi_chu": "Sửa NĐ 91/2019, NĐ 36/2020 — bản gốc xp-sct-vn/van-ban-goc/khoang-san"
+    },
+    "NĐ 45/2022": {
+      "ngay_ban_hanh": "2022-07-07",
+      "ngay_hieu_luc": "2022-08-25",
+      "bi_sua_doi_boi": "NĐ 290/2025 (tài nguyên nước)",
+      "ghi_chu": "Xử phạt BVMT; Sở CT chỉ Đ45–46 (k4 Đ64); lập BB cần QĐ giao (Đ71 không liệt kê Sở CT)"
+    },
+    "NĐ 46/2026": {
+      "ghi_chu": "ATTP — đọc attp-sct-vn reference 08 trước khi dẫn"
+    },
+    "NĐ 71/2019": {
+      "bi_sua_doi_boi": "NĐ 17/2022 (Điều 1)",
+      "bi_thay_the_boi": "NĐ 275/2026 (25/8/2026)",
+      "ghi_chu": "Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026"
+    },
+    "NĐ 98/2020": {
+      "ngay_ban_hanh": "2020-08-26",
+      "ngay_hieu_luc": "2020-10-15",
+      "bi_sua_doi_boi": "NĐ 17/2022 (Điều 3); NĐ 24/2025",
+      "ghi_chu": "Xử phạt thương mại, hàng giả, hàng cấm, bảo vệ NTD — QLTT xử; QLCN không lập BB (k2 Đ80)"
+    },
+    "NĐ 99/2020": {
+      "ngay_ban_hanh": "2020-08-26",
+      "ngay_hieu_luc": "2020-10-11",
+      "bi_sua_doi_boi": "NĐ 17/2022 (Điều 4)",
+      "ghi_chu": "Xử phạt dầu khí, xăng dầu, khí; k2 Đ62 Chánh TT Sở CT đích danh; k7 Đ63"
+    },
+    "QĐ 1131/QĐ-TTG": {
+      "ngay_ban_hanh": "2025-06-12",
+      "bi_thay_the_boi": "QĐ 21/2026/QĐ-TTg (01/7/2026)",
+      "ghi_chu": "Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026"
+    },
+    "QĐ 1493/QĐ-TTG": {
+      "ngay_ban_hanh": "2026-08-06",
+      "ghi_chu": "Chương trình KH,CN&ĐMST quốc gia đặc biệt về công nghệ chiến lược — chưa có bản gốc, ghi nhận qua bản tin"
+    },
+    "QĐ 154/QĐ-TTG": {
+      "ngay_ban_hanh": "2022-01-29",
+      "ngay_hieu_luc": "2022-01-29",
+      "bi_thay_the_boi": "QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài)",
+      "ghi_chu": "Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV"
+    },
+    "QĐ 16/2026/QĐ-UBND": {
+      "ghi_chu": "Quy chế quản lý CCN Lào Cai"
+    },
+    "QĐ 1883/QĐ-UBND": {
+      "ghi_chu": "Uỷ quyền GĐ Sở cấp GCN huấn luyện KTAT VLNCN — KHÔNG phải uỷ quyền cấp GP sử dụng"
+    },
+    "QĐ 21/2026/QĐ-TTG": {
+      "ngay_ban_hanh": "2026-04-30",
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "Danh mục 10 nhóm công nghệ + 30 sản phẩm công nghệ chiến lược (SP 25 chế biến sâu khoáng sản, đất hiếm) — dacn-sct-vn ref 11"
+    },
+    "QĐ 2581/QĐ-TTG": {
+      "ngay_ban_hanh": "2025-11-24",
+      "ngay_hieu_luc": "2025-11-24",
+      "ghi_chu": "Điều chỉnh QĐ 866/QĐ-TTg tại 03 khu vực/03 tỉnh: vonfram Núi Pháo (Thái Nguyên, PL I), mỏ đồng Tả Phời (Lào Cai, PL II — 248,3 ha), bôxit Thọ Sơn + Thống Nhất (Đồng Nai, PL III). Toàn văn + tọa độ: quy-hoach-ct-vn ref 07 mục A"
+    },
+    "QĐ 2848/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-08-14",
+      "ghi_chu": "Sửa QĐ 1696 — mở rộng uỷ quyền cấp GP vận chuyển HHNH (7 loại, GĐ Sở ký)"
+    },
+    "QĐ 2867/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-08-17",
+      "ngay_hieu_luc": "2026-08-20",
+      "ghi_chu": "Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT, PGĐ Thuân ký); không gồm thu hồi GP, phê duyệt PANM"
+    },
+    "QĐ 334/QĐ-TTG": {
+      "ngay_ban_hanh": "2023-04-01",
+      "ngay_hieu_luc": "2023-04-01",
+      "ghi_chu": "Chiến lược địa chất, khoáng sản và công nghiệp khai khoáng đến 2030, tầm nhìn 2045 (PTT Trần Hồng Hà). CĂN CỨ của nó là Luật Khoáng sản 2010 — đã bị Luật 54/2024 thay; chưa thấy văn bản thay thế Chiến lược, kiểm tra hiệu lực trước khi viện dẫn. Bản gốc quy-hoach-ct-vn/…/van-ban-goc/ — ref 10 mục IV; qlks-sct-vn ref 24. KHÔNG lẫn với QĐ 333/QĐ-TTg 23/4/2024 (Kế hoạch thực hiện QĐ 866)"
+    },
+    "QĐ 42/2026/QĐ-TTG": {
+      "ngay_hieu_luc": "2026-09-25",
+      "ghi_chu": "Danh mục cơ sở kiểm kê KNK (18 cơ sở công thương Lào Cai)"
+    },
+    "QĐ 5/2025/QĐ-UBND": {
+      "ngay_ban_hanh": "2025-07-01",
+      "ngay_hieu_luc": "2025-07-01",
+      "ghi_chu": "Chức năng, nhiệm vụ, cơ cấu tổ chức Sở Công Thương"
+    },
+    "QĐ 5116/QĐ-SCT": {
+      "ngay_ban_hanh": "2026-08-20",
+      "ngay_hieu_luc": "2026-08-20",
+      "ghi_chu": "Giao PTP phụ trách khoáng sản + CV QLCN lập biên bản VPHC khoáng sản — bản ký số xp-sct-vn/van-ban-goc/khoang-san"
+    },
+    "QĐ 525/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-25",
+      "ghi_chu": "Quy hoạch tỉnh Lào Cai (điều chỉnh)"
+    },
+    "QĐ 68/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-09",
+      "ghi_chu": "Uỷ quyền cấp GCN ATTP"
+    },
+    "QĐ 836/QĐ-BXD": {
+      "ngay_ban_hanh": "2019-10-14",
+      "ngay_hieu_luc": "2019-10-14",
+      "ghi_chu": "LỊCH SỬ — Kế hoạch tổ chức lập Quy hoạch KS làm VLXD 2021-2030 (Bộ trưởng Phạm Hồng Hà; căn cứ QĐ 995/QĐ-TTg 09/8/2018). KHÔNG phải quy hoạch, không có danh mục mỏ. Dự kiến TTg phê duyệt QH 10/2021, thực tế QĐ 1626/QĐ-TTg 15/12/2023 (chậm ~26 tháng) → lý do có QĐ 154/QĐ-TTg. Từ 15/9/2026 đầu mối là Bộ Công Thương. quy-hoach-ct-vn ref 10 mục V.2, ref 01 mục 5"
+    },
+    "QĐ 866/QĐ-TTG": {
+      "ngay_ban_hanh": "2023-07-18",
+      "ngay_hieu_luc": "2023-07-18",
+      "bi_sua_doi_boi": "QĐ 2581/QĐ-TTg (24/11/2025)",
+      "ghi_chu": "Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương"
+    },
+    "QĐ 995/QĐ-TTg": {
+      "ngay_ban_hanh": "2018-08-09",
+      "ghi_chu": "Giao nhiệm vụ các bộ tổ chức lập quy hoạch ngành quốc gia 2021-2030, tầm nhìn 2050 — gốc nhiệm vụ của QĐ 866 (Bộ Công Thương) và QĐ 1626 (Bộ Xây dựng). Chưa có bản gốc trong bộ tài liệu; số/ngày đọc từ căn cứ của QĐ 836/QĐ-BXD"
+    },
+    "TT 26/2026": {
+      "ngay_hieu_luc": "2026-05-29",
+      "ghi_chu": "TT-BCT sửa TT 38/2025, 23/2024… — HHNH loại 5, 8 về UBND tỉnh"
+    },
+    "TT 56/2025": {
+      "ngay_ban_hanh": "2025-11-28",
+      "ghi_chu": "TT-BCT hướng dẫn kiểm tra chuyên ngành NĐ 217/2025 — 10 mẫu"
+    }
+  },
+  "_bo_qua": []
 }

@@ -1,5 +1,4 @@
-# File lỗi NHÂN TẠO — bản sao mẫu thật to-trinh-vbqppl-tien-chat-thuoc-no.docx, sửa có chủ đích.
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
 # Chèn một dòng Căn cứ dẫn văn bản TRẦN (không ngày ban hành, không cơ quan đầy đủ).
-# Số hiệu 1936/SCT-CN lấy nguyên từ chính mẫu thật — không bịa số mới.
 nguon: examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx
 R01 FAIL

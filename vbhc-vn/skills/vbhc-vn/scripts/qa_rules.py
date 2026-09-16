@@ -169,6 +169,11 @@ def _doc_list(ten_file: str) -> list[str]:
 
 
 def _doc_vbpl() -> dict:
+    """Kho dữ kiện văn bản pháp luật, khóa theo mã registry (vd 'NĐ 32/2024').
+
+    File data/vbpl.json SINH TỰ ĐỘNG từ registry/trang-thai.csv bởi scripts/build_vbpl.py —
+    không sửa tay. Thiếu file thì trả rỗng và R05 im lặng bỏ qua (không đoán).
+    """
     f = DATA_DIR / "vbpl.json"
     if not f.exists():
         return {}
@@ -179,11 +184,50 @@ def _doc_vbpl() -> dict:
     return {nfc(k): v for k, v in (data.get("van_ban") or {}).items()}
 
 
+# Hậu tố số hiệu → loại văn bản, để quy một trích dẫn về mã của registry/trang-thai.csv.
+# Định nghĩa đặt TRONG plugin để plugin chạy được cả khi cài độc lập, không có kho skill-sct;
+# scripts/build_vbpl.py ở gốc kho nhập lại hàm này, không định nghĩa bản thứ hai.
+HAU_TO_LOAI = [
+    (re.compile(r"/QH\d+$|/UBTVQH\d+$"), "Luật"),
+    (re.compile(r"/NĐ-CP$"), "NĐ"),
+    (re.compile(r"/NQ-"), "NQ"),
+    (re.compile(r"/TT-"), "TT"),
+    (re.compile(r"/QĐ-"), "QĐ"),
+    (re.compile(r"/QCVN"), "QCVN"),
+    (re.compile(r"/VBHN-"), "VBHN"),
+    (re.compile(r"-KL/"), "KL"),
+]
+
+
+def ma_tu_so_hieu(so: str) -> str | None:
+    """Quy số hiệu trong văn bản về mã registry: '32/2024/NĐ-CP' → 'NĐ 32/2024'.
+
+    Không nhận dạng được loại thì trả None — phía gọi phải BỎ QUA, không được đoán.
+    """
+    s_ = nfc(so).upper()
+    loai = next((l for rx, l in HAU_TO_LOAI if rx.search(s_)), None)
+    if loai is None:
+        return None
+    phan = so.split("/")
+    if loai == "Luật":
+        goc = "/".join(phan[:2])
+    elif loai in ("NĐ", "TT") and len(phan) >= 3 and re.fullmatch(r"\d{2,4}", phan[1]):
+        goc = "/".join(phan[:2])
+    else:
+        goc = so
+    return f"{loai} {goc}"
+
+
+def _ma_registry(so: str) -> str | None:
+    return ma_tu_so_hieu(so)
+
+
 # ────────────────────────── Các quy tắc ──────────────────────────
 
 SO_VB = re.compile(
-    r"số\s+(\d{1,5}[a-zA-Z]?/\d{2,4}/[A-ZĐ][A-ZĐ0-9\-]{1,13}"
-    r"|\d{1,5}[a-zA-Z]?/[A-ZĐ][A-ZĐa-z0-9\-]{1,14})",
+    # số hiệu có thể có phần thập phân (NQ 66.25/2026/NQ-CP) hoặc chữ cái (12a/2026/QĐ-UBND)
+    r"số\s+(\d{1,5}(?:\.\d{1,3})?[a-zA-Z]?/\d{2,4}/[A-ZĐ][A-ZĐ0-9\-]{1,13}"
+    r"|\d{1,5}(?:\.\d{1,3})?[a-zA-Z]?/[A-ZĐ][A-ZĐa-z0-9\-]{1,14})",
     re.IGNORECASE,
 )
 NGAY = re.compile(r"ngày\s+\d{1,2}\s*(?:tháng\s*\d{1,2}\s*năm\s*\d{4}|/\d{1,2}/\d{4})|\d{1,2}/\d{1,2}/\d{4}")
@@ -446,6 +490,8 @@ def rule_R05(doc, ctx) -> list[Finding]:
     Quy tắc: đọc ngày ở dòng địa danh/ngày tháng; với mỗi văn bản được viện dẫn,
     nếu tra được ngày hiệu lực trong data/vbpl.json mà ngày hiệu lực SAU ngày ký
     thì FAIL. KHÔNG có dữ liệu thì bỏ qua, không báo (không đoán).
+    Kho sinh từ registry/trang-thai.csv — lớp trạng thái người duy trì ghi sau khi đối chiếu
+    bản gốc; bổ sung văn bản thì sửa CSV đó rồi chạy `python3 scripts/build_vbpl.py`.
     Nguồn: Nhóm A, Nhóm D (vụ NQ 66.25/2026 ngày 11/9/2026).
     Mức: FAIL.
     """
@@ -465,23 +511,24 @@ def rule_R05(doc, ctx) -> list[Finding]:
     da_bao: set[str] = set()
     for loc, t in ctx.texts:
         for m in SO_VB.finditer(t):
-            so = m.group(1).upper()
-            if so in da_bao:
+            so = m.group(1)
+            ma = _ma_registry(so)
+            if ma is None or ma in da_bao:
                 continue
-            ghi = kho.get(so)
+            ghi = kho.get(nfc(ma))
             if not ghi or not ghi.get("ngay_hieu_luc"):
                 continue
             try:
                 y, mo, d = (int(x) for x in ghi["ngay_hieu_luc"].split("-"))
             except (ValueError, AttributeError):
                 raise ValueError(
-                    f"data/vbpl.json: '{so}' có ngay_hieu_luc sai định dạng YYYY-MM-DD"
+                    f"data/vbpl.json: '{ma}' có ngay_hieu_luc sai định dạng YYYY-MM-DD"
                 )
             if (y, mo, d) > ngay_ky:
-                da_bao.add(so)
+                da_bao.add(ma)
                 out.append(Finding(
                     "R05", FAIL, loc, cut(t),
-                    f"'{m.group(1)}' hiệu lực {ghi['ngay_hieu_luc']}, SAU ngày ký văn bản "
+                    f"'{so}' ({ma}) hiệu lực {ghi['ngay_hieu_luc']}, SAU ngày ký văn bản "
                     f"({ngay_ky[2]:02d}/{ngay_ky[1]:02d}/{ngay_ky[0]}) — bỏ khỏi văn bản trình ký.",
                 ))
     return out

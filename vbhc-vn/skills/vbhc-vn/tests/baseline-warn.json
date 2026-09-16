@@ -1,6 +1,6 @@
 {
   "examples/sct/bao-cao-9-thang-phong-qlcn.docx": {
-    "R01": 9,
+    "R01": 10,
     "R08": 1,
     "R10": 1
   },
@@ -9,7 +9,7 @@
   },
   "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": {},
   "examples/sct/bao-cao-thang-phong-qlcn.docx": {
-    "R01": 1,
+    "R01": 2,
     "R08": 1
   },
   "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": {
@@ -62,7 +62,7 @@
     "R13": 12
   },
   "examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx": {
-    "R01": 1,
+    "R01": 2,
     "R12": 4,
     "R15": 3
   },

@@ -1,3 +1,10 @@
+## [2.23.0] - 16/9/2026 — Chuyển quy tắc soạn thảo sang kiểm tra bằng máy + bộ kiểm thử hồi quy
+
+- **scripts/qa_rules.py (MỚI)**: 15 quy tắc máy kiểm R01–R15 (dẫn văn bản lần đầu, chỉ số dưới công thức hóa học, bản xuất bản không chỗ trống, khối Kính gửi, hiệu lực văn bản viện dẫn, thứ tự Nơi nhận gửi doanh nghiệp, dòng Lưu, từ suy đoán, thuật ngữ cấm, giọng giải thích Nhóm J, địa danh/chức danh, lề trang, lùi đầu dòng, dấu vết lần sửa, dẫn Quyết định kèm tờ trình). Mỗi hàm ghi rõ mã, nội dung, nguồn, mức FAIL/WARN. Nối vào `qa_all.py` thành mục 1b; thêm cờ `--final` cho bản xuất bản.
+- **tests/ (MỚI)**: `run_regression.py` (hồi quy lớp 1, tất định, chạy trên CI qua job `qa-evals`) + 11 file lỗi kèm `.expect` + `run_cases.sh`/`cham_case.py`/12 case lớp 2 + `rule-inventory.md` kiểm kê toàn bộ quy tắc, phân loại M/N.
+- **data/ (MỚI)**: `thuat-ngu-cam.txt`, `thuat-ngu-canh-bao.txt`, `giong-giai-thich.txt`, `vbpl.json` — bổ sung quy tắc không phải sửa code.
+- SKILL.md 62.085 → 59.363 byte: các quy tắc đã có hàm kiểm chạy đúng rút thành dòng dẫn chiếu mã. Ba quy tắc (R01, R04, R12) được hiệu chỉnh theo mẫu thật thay vì sửa mẫu. Hai tiêu chí chưa đạt (SKILL.md giảm 20%, qa_all.py PASS mọi mẫu thật) đã ghi rõ lý do trong mục D.4 `tests/rule-inventory.md`.
+
 ## 16/9/2026 — vbhc-vn 2.22.0: Quy tắc 26, 27 — văn bản thể thức Đảng, bộ 4 văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
 
 - **Nguồn:** Bạn duyệt 4 lượt bộ văn bản cho Trưởng phòng QLCN sau khi Đoàn giám sát BTV Đảng ủy UBND tỉnh (QĐ 580-QĐ/ĐU ngày 07/8/2026) thông qua dự thảo Báo cáo kết quả giám sát 04 đảng viên (16/9/2026). Các ý kiến sửa: lùi đầu dòng không đồng đều; còn chỗ trống "……"; gạch dưới tiêu đề Đảng chưa cân; hai cơ quan ở Kính gửi lệch nhau và cả khối lệch trái; trích yếu chưa viết hoa chữ đầu, chia dòng chưa cân.

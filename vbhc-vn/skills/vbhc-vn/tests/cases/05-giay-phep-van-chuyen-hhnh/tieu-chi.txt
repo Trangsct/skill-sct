@@ -1,0 +1,17 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: GIẤY PHÉP
+require: VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+require: Nơi nhận
+rule-pass: R03 R06 R07 R11 R14
+trang: 1-2
+ghi-chu: R06 là tiêu chí then chốt — doanh nghiệp phải ở gần cuối Nơi nhận, ngay trên dòng Lưu
+ghi-chu: (Bạn chốt 07/9/2026, áp dụng vĩnh viễn cho văn bản cấp cho doanh nghiệp).
+ghi-chu: Ký hiệu trong mẫu thật viết là '/GP - SCT' (có dấu cách) nên không đặt làm tiêu chí máy.

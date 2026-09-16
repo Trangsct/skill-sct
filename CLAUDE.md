@@ -25,6 +25,34 @@ Ba điều bắt buộc:
 - Mục *"Chưa xếp được vào plugin nào"* trong bản tin: chủ đề nào lặp lại nhiều lần là dấu hiệu cần **lập
   plugin mới** — đề xuất với Bạn.
 
+## Dây chuyền quy tắc máy kiểm của vbhc-vn (Bạn chốt 16/9/2026)
+
+Plugin `vbhc-vn` từ bản 2.23.0 **không nhận thêm quy tắc dưới dạng văn xuôi nữa**. Phát hiện lỗi
+soạn thảo mới thì thêm một hàm kiểm và một trường hợp thử, theo 4 bước ghi trong
+`vbhc-vn/skills/vbhc-vn/HUONG_DAN_CAP_NHAT.md` mục "Quy trình khi phát hiện lỗi mới":
+
+1. Lưu file lỗi vào `vbhc-vn/skills/vbhc-vn/tests/fail/` kèm file `.expect` cùng tên (ghi mã quy
+   tắc bắt buộc FAIL/WARN và dòng `nguon:` trỏ mẫu thật gốc).
+2. Viết hàm `rule_Rnn(doc, ctx)` trong `vbhc-vn/skills/vbhc-vn/scripts/qa_rules.py`, đăng ký vào
+   bảng `RULES`. Docstring bắt buộc ghi: mã, nội dung tiếng Việt, nguồn (số quy tắc trong SKILL.md
+   hoặc nhóm A–L + ngày Bạn chốt), mức FAIL/WARN. Quy tắc chỉ là danh sách cụm từ thì thêm dòng
+   vào `data/` chứ không sửa code.
+3. Chạy `python3 tests/run_regression.py` tại thư mục plugin — phải xanh.
+4. Tăng version, ghi CHANGELOG, chạy `sync_marketplace.py --bump` như thường lệ.
+
+Ba điều bắt buộc khi làm việc với dây chuyền này:
+
+- **Mẫu thật là chuẩn.** 26 file trong `examples/` phải PASS mọi quy tắc. Quy tắc nào làm mẫu thật
+  FAIL thì quy tắc viết sai hoặc hiểu sai — **sửa quy tắc, tuyệt đối không sửa mẫu**. Đã có tiền lệ:
+  R01, R04, R12 đều phải thu hẹp phạm vi vì bắt nhầm mẫu thật (xem `tests/rule-inventory.md` mục D).
+- **Chỉ rút văn xuôi khỏi SKILL.md sau khi hàm kiểm đã bắt đúng lỗi trên ít nhất một file trong
+  `tests/fail/` VÀ PASS trên toàn bộ `examples/`.** Chưa đủ hai điều kiện thì giữ nguyên văn xuôi.
+- **Quy tắc máy không kiểm được** (nội dung pháp lý, suy diễn nhiệm vụ, giọng văn tổng thể) giữ
+  nguyên văn xuôi và ghi là loại N trong `tests/rule-inventory.md` — không ép thành regex.
+
+CI: job `qa-evals` trong `.github/workflows/validate-plugins.yml` chạy hồi quy lớp 1 mỗi lần có
+thay đổi; job đỏ thì không merge.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

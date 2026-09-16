@@ -1,0 +1,15 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: KH-SCT
+require: Phụ lục
+rule-pass: R01 R03 R07 R11 R13 R14
+trang: 4-8
+ghi-chu: Quy tắc 24 (căn lề ô bảng phụ lục) CHƯA có hàm kiểm — người duyệt soi ảnh bảng:
+ghi-chu: ô nhiều chữ justify, ô 1 dòng căn giữa, cột TT và ngày tháng căn giữa.

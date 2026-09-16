@@ -1,0 +1,19 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+forbid: Thẩm định chặt chẽ
+forbid: Hướng dẫn chi tiết
+forbid: nắm chắc
+forbid: chi tiết, đầy đủ
+forbid: các vụ mất cắp
+require: (Dự thảo)
+rule-pass: R03 R09 R11 R14
+trang: 2-3
+ghi-chu: Nhóm K (Bạn chốt 06/9/2026 qua 3 vòng). K6: đếm số viện dẫn điều/khoản toàn văn,
+ghi-chu: quá 4-5 là đang dẫn thừa — tiêu chí này người duyệt đếm tay.

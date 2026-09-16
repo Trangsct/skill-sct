@@ -161,3 +161,33 @@ Không cần sửa code Python.
 
 ### v1
 - Bộ template đầu tiên — đã loại bỏ.
+
+## Bộ quy tắc máy kiểm và kiểm thử hồi quy (từ v2.23.0)
+
+**`scripts/qa_rules.py`** — 15 quy tắc soạn thảo được kiểm bằng máy (R01–R15), thay cho việc
+người soạn phải tự nhớ. Mỗi hàm `rule_Rnn(doc, ctx)` có docstring ghi mã quy tắc, nội dung,
+nguồn (số quy tắc trong SKILL.md hoặc nhóm A–L, ngày Bạn chốt) và mức FAIL/WARN.
+
+```bash
+python3 scripts/qa_rules.py file.docx              # chạy toàn bộ
+python3 scripts/qa_rules.py file.docx --only R03   # chạy một quy tắc
+python3 scripts/qa_rules.py file.docx --final      # bản xuất bản: WARN chỗ trống → FAIL
+python3 scripts/qa_rules.py file.docx --json       # xuất JSON
+```
+
+Bộ quy tắc này đã được nối vào `qa_all.py` thành **mục 1b**, nên chạy QA một phát là có đủ.
+Danh sách cụm từ (thuật ngữ cấm, giọng giải thích) để ở **`data/`** — bổ sung không phải sửa code.
+
+**`tests/`** — bộ kiểm thử hồi quy hai lớp:
+
+| Lớp | Lệnh | Gọi mô hình | Chạy trên CI |
+|---|---|---|---|
+| 1 — tất định | `python3 tests/run_regression.py` | không | có (job `qa-evals`) |
+| 2 — đề bài thật | `bash tests/run_cases.sh` | có | không |
+
+Lớp 1 kiểm hai chiều: 26 mẫu thật trong `examples/` không được có FAIL nào (và không phát sinh
+WARN mới so với `baseline-warn.json`), còn 11 file lỗi trong `tests/fail/` phải bị bắt đúng mã
+ghi trong file `.expect` cùng tên. Nâng cấp làm hỏng thứ đang đúng thì CI đỏ, không merge được.
+
+Kiểm kê toàn bộ quy tắc, phân loại máy kiểm được / không kiểm được: **`tests/rule-inventory.md`**.
+Quy trình khi phát hiện lỗi mới: mục "Quy trình khi phát hiện lỗi mới" trong `HUONG_DAN_CAP_NHAT.md`.

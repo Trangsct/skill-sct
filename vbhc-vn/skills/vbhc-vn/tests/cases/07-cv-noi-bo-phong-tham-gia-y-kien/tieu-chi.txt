@@ -1,0 +1,16 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: Lưu: CN
+forbid: 3. Kết luận
+forbid: VT, CN
+rule-pass: R03 R07 R10 R11 R14
+trang: 1-2
+ghi-chu: Phong cách chốt 21/8/2026: thân gồm mục 1 và mục 2, KHÔNG có đề mục '3. Kết luận';
+ghi-chu: ý kiến trình bày bằng gạch đầu dòng nhãn nghiêng '- Về ...:'.

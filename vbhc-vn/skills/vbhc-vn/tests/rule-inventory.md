@@ -23,7 +23,7 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R02 | Công thức hóa học phải có chỉ số dưới thật (run `subscript`), không viết phẳng P2O5 | Quy tắc bất biến 25 (13/9/2026) | `qa_rules.rule_R02` | FAIL |
 | R03 | Bản hoàn thiện không còn "……", "....", "[ ]", "…/…", "(nêu số liệu)", chữ tím 7030A0 | Quy tắc bất biến 27(c) (16/9/2026) | `qa_rules.rule_R03` | WARN → FAIL khi `--final` |
 | R04 | Khối Kính gửi nhiều cơ quan: không in đậm, các dòng cơ quan thẳng cột | Nhóm G; Quy tắc 27(a) | `qa_rules.rule_R04` | FAIL (đậm) / WARN (thẳng cột) |
-| R05 | Không viện dẫn văn bản chưa có hiệu lực tại ngày ký | Nhóm A, D (vụ NQ 66.25 ngày 11/9/2026) | `qa_rules.rule_R05` + `data/vbpl.json` | FAIL |
+| R05 | Không viện dẫn văn bản chưa có hiệu lực tại ngày ký | Nhóm A, D (vụ NQ 66.25 ngày 11/9/2026) | `qa_rules.rule_R05` + `data/vbpl.json` (62 văn bản, 37 có ngày hiệu lực) | FAIL |
 | R06 | Nơi nhận gửi doanh nghiệp: doanh nghiệp không ở dòng đầu; dòng cuối là Lưu | Nhóm G, Bạn chốt 07/9/2026 | `qa_rules.rule_R06` | FAIL |
 | R07 | Dòng Lưu: ký hiệu đơn vị hợp lệ, kết thúc dấu chấm, dùng "CN" không "QLCN" | Nhóm G | `qa_rules.rule_R07` | FAIL / WARN (khoảng trắng trước ngoặc) |
 | R08 | Cấm từ suy đoán trong văn bản trình ký | Nhóm C | `qa_rules.rule_R08` → `check_document.find_speculative` | WARN |
@@ -89,6 +89,10 @@ tắc "mẫu thật là chuẩn", tôi đã hạ mức hoặc thu hẹp phạm v
    lề dưới 0,75 cm). Đã hạ FAIL xuống WARN, chỉ giữ FAIL khi lề thiếu hoặc phi lý (<0,5 cm).
    Đề nghị Bạn chốt: có chuẩn hóa lại các mẫu này không?
 
+**Cập nhật cuối ngày 16/9/2026:** mục 1 và 3 dưới đây đã được xử lý theo hướng "mẫu thật là
+chuẩn" và ghi vào code; mục 2 vẫn chờ Bạn chốt; mục 4 là nợ kỹ thuật có sẵn, chờ Bạn quyết cho
+đợt sau.
+
 4. **`qa_all.py` đang FAIL 24/26 mẫu thật — nợ kỹ thuật CÓ SẴN TỪ TRƯỚC đợt 2.23.0.**
    Đo ngày 16/9/2026: chỉ `cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx`
    và `phieu-trinh-giai-quyet-cong-viec.docx` PASS. Phân bố tag:
@@ -103,6 +107,20 @@ tắc "mẫu thật là chuẩn", tôi đã hạ mức hoặc thu hẹp phạm v
    đã làm với R01, R04, R12 đợt này), hay chuẩn hóa lại 24 mẫu thật?
    Đây cũng là lý do tiêu chí hoàn thành VII.1 ("qa_all.py trên bất kỳ file examples/ đều
    PASS") CHƯA đạt — và không đạt được nếu không đụng vào các hàm cũ.
+
+## Đ. Công cụ đi kèm bộ quy tắc (bổ sung 16/9/2026)
+
+| Công cụ | Việc | Nguồn dữ liệu |
+|---|---|---|
+| `scripts/qa_rules.py` | 15 quy tắc R01–R15, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
+| `scripts/cite_check.py` | Đối chiếu mọi số hiệu trong bản thảo: KHỚP / LỆCH / CHƯA CÓ | `data/vbpl.json` |
+| `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
+| `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |
+| `tests/tao_file_loi.py` | Sinh lại toàn bộ `tests/fail/` một cách tái lập được | mẫu thật trong `examples/` |
+| `tests/run_regression.py` | Hồi quy 4 mục: mẫu thật sạch · file lỗi bị bắt · `qa_all` không tệ thêm · biên dịch 8 loại | — |
+
+Muốn bổ sung một văn bản pháp luật vào kho đối chiếu: sửa `registry/trang-thai.csv` (chỉ ghi khi
+đã mở bản gốc), rồi chạy `python3 scripts/build_vbpl.py` tại gốc kho và commit cùng.
 
 ## E. Quy trình từ nay khi phát hiện lỗi mới
 

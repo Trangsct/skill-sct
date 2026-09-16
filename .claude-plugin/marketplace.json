@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.74"
+    "version": "4.11.75"
   },
   "plugins": [
     {
@@ -23,14 +23,14 @@
     {
       "name": "bvmt-sct-vn",
       "source": "./bvmt-sct-vn",
-      "description": "QLNN bảo vệ môi trường ngành Công Thương - Sở Công Thương Lào Cai: thẩm định ĐTM/GPMT; ủy viên HĐ thẩm định GPMT (Mẫu 30, Phiếu 31, checklist BCĐX CCN); GATE NQ 66.19/2026; phân loại nhóm I-IV (Luật 146/2025, NĐ 48/2026); khí nhà kính: kiểm kê, MRV TT 38/2023, QĐ 42/2026, hạn ngạch QĐ 699, sàn các-bon NĐ 29/2026; KL 75-KL/TW, CTr 104-CTr/TU, CV 9387/UBND-KT 15/9/2026 (chỉ tiêu 2030, đề xuất phần ngành trước 30/9/2026); đóng cửa mỏ; gyps Tằng Loỏng; sự cố; xử phạt.",
-      "version": "1.5.1"
+      "description": "QLNN về bảo vệ môi trường ngành Công Thương - Sở Công Thương Lào Cai: thẩm định ĐTM/GPMT; ủy viên HĐ thẩm định GPMT (Mẫu 30, Phiếu 31, checklist BCĐX CCN); GATE NQ 66.19/2026; phân loại nhóm I-IV (Luật 146/2025, NĐ 48/2026); KHÍ NHÀ KÍNH: kiểm kê, MRV TT 38/2023, QĐ 42/2026 (18 cơ sở), hạn ngạch QĐ 699, sàn các-bon NĐ 29/2026; KL 75-KL/TW, CTr 31-CTr/TW, CTr 104-CTr/TU, CV 2449-CV/ĐU, CV 9387/UBND-KT 15/9/2026: chỉ tiêu 2030, kế hoạch của Sở; đóng cửa mỏ; gyps Tằng Loỏng; sự cố; xử phạt.",
+      "version": "1.5.2"
     },
     {
       "name": "dacn-sct-vn",
       "source": "./dacn-sct-vn",
-      "description": "Danh mục dự án công nghiệp phục vụ mục tiêu tăng trưởng tỉnh Lào Cai theo NQ 169/NQ-CP: 09 chỉ tiêu SCT chủ trì, dự án động lực, phân tích SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, kịch bản tăng trưởng, số liệu KCN/KKT, KTXH 6 tháng 2026, dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg (thay QĐ 1131; SP 25 chế biến sâu khoáng sản, đất hiếm) và dự thảo Kế hoạch UBND tỉnh Bài toán lớn số 2 (05 chuỗi giá trị, 16 nhiệm vụ, 42 tỷ).",
-      "version": "1.5.3"
+      "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, phân tích SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, kịch bản, số liệu KCN/KKT, KTXH 6 tháng 2026, dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg (thay QĐ 1131; SP 25 chế biến sâu khoáng sản, đất hiếm) và dự thảo Kế hoạch Bài toán lớn số 2 (05 chuỗi giá trị, 16 nhiệm vụ, 42 tỷ); dự án thứ cấp trong CCN (giày da, CCN Khánh Yên Thượng, QĐ 3319/2026).",
+      "version": "1.6.0"
     },
     {
       "name": "hc-sct-vn",
@@ -53,8 +53,8 @@
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "Quản lý nhà nước về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn doanh nghiệp; tham mưu tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT (thang 100); điều kiện khởi công; HĐ thẩm định quy hoạch KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU; chỉ tiêu 2030 KL 75-KL/TW - CTr 104-CTr/TU (100% CCN có XLNT, Tằng Loỏng sinh thái). Khung 9/2026: Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026, NĐ 32/2024, 139/2025, 303/2026. Số liệu KCN, tiến độ CCN kỳ 12/9/2026: ref 36, 37.",
-      "version": "1.35.0"
+      "description": "QLNN về KCN/CCN - Sở Công Thương tỉnh Lào Cai: hướng dẫn DN; tham mưu tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT (thang 100); điều kiện khởi công; HĐ thẩm định quy hoạch KCN; điều chỉnh CTĐT dự án thứ cấp KCN và CCN; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU; chỉ tiêu 2030 KL 75-KL/TW, CTr 104-CTr/TU (100% CCN có XLNT). Khung 9/2026: Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026, NĐ 32/2024, 303/2026. Số liệu KCN, tiến độ CCN kỳ 12/9/2026: ref 36, 37; dự án thứ cấp CCN Khánh Yên Thượng: ref 38.",
+      "version": "1.36.0"
     },
     {
       "name": "kho-vlncn-sct-vn",

@@ -8,9 +8,9 @@
   "Trường nhom và nganh_cap_2 do phân loại tự động theo từ khoá tên dự án - cần rà soát thủ công, đặc biệt nhóm chế biến bột đá CaCO3 (ranh giới giữa CBCT và KS ảnh hưởng trực tiếp tới chỉ tiêu 4)."
  ],
  "_canh_bao_han_dung": "SỐ LIỆU ĐỘNG, CHỈ ĐÚNG TẠI KỲ GHI Ở _ky_so_lieu. Trước mỗi kỳ báo cáo phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý các Khu công nghiệp tỉnh và Ban Quản lý Khu kinh tế tỉnh. Không viện dẫn trực tiếp vào văn bản phát hành nếu chưa đối chiếu kỳ hiện hành.",
- "_pham_vi": "Mới gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu). CHƯA gồm: dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, dự án trong CCN, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
+ "_pham_vi": "Gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu) và - từ 16/9/2026 - dự án thứ cấp trong CCN được ghi nhận lẻ khi có quyết định chủ trương đầu tư (hiện có 01: CBCT-081, CCN Khánh Yên Thượng). CHƯA gồm: dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, các dự án CCN còn lại, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
  "_ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
- "_ngay_cap_nhat": "2026-07-23",
+ "_ngay_cap_nhat": "2026-09-16",
  "_nguoi_cap_nhat": "",
  "du_an": [
   {
@@ -4637,6 +4637,43 @@
     "nguoi_cap_nhat": ""
    },
    "ghi_chu": "Nhóm và ngành cấp 2 do phân loại tự động theo từ khoá tên dự án - CẦN RÀ SOÁT LẠI. Chỉ tiêu tác động suy từ quy tắc reference 03 mục V, chưa đối chiếu sản lượng thực tế."
+  },
+  {
+   "ma": "CBCT-081",
+   "ten": "Nhà máy sản xuất giày da xuất khẩu",
+   "chu_dau_tu": "Ông HUANG, YU - CHIEH (nam, sinh 06/11/1971, quốc tịch Trung Quốc (Đài Loan)); tổ chức kinh tế thực hiện dự án: CÔNG TY TNHH CÔNG NGHIỆP VĂN BẢO (công ty TNHH một thành viên)",
+   "ma_so_thue": "5300854562",
+   "vi_tri": {
+    "xa_phuong": "Xã Văn Bàn",
+    "kcn_ccn": "CCN Khánh Yên Thượng (trụ sở tổ chức kinh tế đặt tại cụm; vị trí và diện tích đất của dự án chưa có trong QĐ 3319, phải đối chiếu QĐ 2428)",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo (da giày)",
+   "trang_thai": "CT",
+   "phap_ly": {
+    "loai_van_ban": "QĐ chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư; QĐ chấp thuận điều chỉnh chủ trương đầu tư (lần thứ nhất)",
+    "so_van_ban": "2428/QĐ-UBND (cấp lần đầu); 3319/QĐ-UBND (điều chỉnh lần thứ nhất)",
+    "ngay_van_ban": "2026-09-15",
+    "co_quan_cap": "Chủ tịch UBND tỉnh Lào Cai (QĐ 3319 do KT. Chủ tịch - Phó Chủ tịch Phan Trung Bá ký)"
+   },
+   "quy_mo": {},
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4",
+     "5"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Quyết định số 3319/QĐ-UBND ngày 15/9/2026 của Chủ tịch UBND tỉnh Lào Cai chấp thuận điều chỉnh chủ trương đầu tư dự án Nhà máy sản xuất giày da xuất khẩu (cấp lần đầu tại QĐ 2428/QĐ-UBND ngày 14/7/2026); thẩm định tại Báo cáo 844/BC-STC ngày 11/8/2026 và Báo cáo 915/BC-STC ngày 21/8/2026 của Sở Tài chính. Chi tiết: kccn-sct-vn reference 38",
+    "ky_so_lieu": "đến 15/9/2026 (ngày ban hành QĐ 3319)",
+    "ngay_cap_nhat": "2026-09-16",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Dự án THỨ CẤP trong cụm công nghiệp - bản ghi CCN đầu tiên của sổ này (xem _pham_vi). Số và ngày của QĐ 3319 đọc từ TRƯỜNG KÝ SỐ (lớp text của PDF để trống toàn bộ ô số/ngày) - đã chạy GATE extract_metadata.py; Phó Chủ tịch ký 15/9/2026 19:14, văn thư điền số 15/9/2026 21:50. Nội dung điều chỉnh: (1) bổ sung tổ chức kinh tế thực hiện dự án là Công ty TNHH Công nghiệp Văn Bảo, được kế thừa quyền, nghĩa vụ của nhà đầu tư và được giao đất, cho thuê đất; (2) bãi bỏ gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428. THIẾU DỮ LIỆU: tổng mức đầu tư, diện tích, công suất, tiến độ, lao động - đều nằm ở QĐ 2428/QĐ-UBND ngày 14/7/2026, kho CHƯA có bản gốc. KHÔNG suy đoán, KHÔNG đưa vào báo cáo phát hành phần quy mô cho tới khi có QĐ 2428. Trạng thái CT (đã có chủ trương đầu tư) - chỉ đóng góp chỉ tiêu vốn đầu tư, KHÔNG tính vào sản lượng/IIP. Chỉ tiêu tác động là suy từ quy tắc reference 03 mục V theo ngành da giày xuất khẩu, chưa đối chiếu số liệu thực tế."
   }
  ]
 }

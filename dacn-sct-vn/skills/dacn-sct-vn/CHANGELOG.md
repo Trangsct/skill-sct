@@ -1,5 +1,14 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.6.0] - 16/9/2026 — sổ dự án nhận bản ghi dự án thứ cấp trong CCN đầu tiên (CBCT-081, Nhà máy sản xuất giày da xuất khẩu)
+
+- **`du-lieu/danh-muc-du-an.json`:** thêm **CBCT-081 — Nhà máy sản xuất giày da xuất khẩu**, CCN Khánh Yên Thượng, xã Văn Bàn. Nhà đầu tư ông **HUANG, YU - CHIEH** (Trung Quốc/Đài Loan); tổ chức kinh tế thực hiện dự án **CÔNG TY TNHH CÔNG NGHIỆP VĂN BẢO**, MST **5300854562**. Nhóm CBCT, trạng thái **CT** (đã có chủ trương đầu tư → chỉ tính vào chỉ tiêu vốn đầu tư, **KHÔNG tính vào sản lượng/IIP**). Pháp lý: **QĐ 2428/QĐ-UBND ngày 14/7/2026** (cấp lần đầu) và **QĐ 3319/QĐ-UBND ngày 15/9/2026** (điều chỉnh lần thứ nhất — bổ sung tổ chức kinh tế, bãi bỏ gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428); thẩm định BC 844/BC-STC 11/8 và BC 915/BC-STC 21/8 của Sở Tài chính.
+  - ⚠️ **Trường `quy_mo` để TRỐNG có chủ đích**: tổng mức đầu tư, diện tích, công suất, tiến độ, lao động đều nằm ở QĐ 2428 mà kho chưa có bản gốc. Không suy đoán, không đưa phần quy mô vào báo cáo phát hành cho tới khi có QĐ 2428.
+  - ⚠️ Số và ngày QĐ 3319 đọc từ **trường ký số** (lớp text để trống) — đã chạy GATE `extract_metadata.py`.
+- **`_pham_vi` mở rộng:** ngoài 95 dự án thứ cấp trong 03 KCN do BQL các KCN tỉnh quản lý, sổ bắt đầu ghi nhận lẻ **dự án thứ cấp trong CCN** khi có quyết định chủ trương đầu tư. `_ngay_cap_nhat` → 2026-09-16. Tổng 96 bản ghi.
+- `SKILL.md`: nghiệp vụ (2) thêm quy tắc "nhận QĐ chủ trương đầu tư hoặc QĐ điều chỉnh CTĐT → chạy GATE đọc PDF ký số → thêm/cập nhật bản ghi, để trống trường chưa có bản gốc"; bảng `du-lieu/` và bảng phân nguồn cập nhật dòng CCN; sửa dòng "CHƯA có: dự án thứ cấp trong CCN". `plugin.json` → 1.6.0, thêm keyword `du-an-thu-cap-ccn`, `ccn-khanh-yen-thuong`.
+- Hồ sơ đầy đủ của vụ việc: `kccn-sct-vn` reference 38.
+
 ## [1.5.3] - 13/9/2026 — build_kh_bt2.py: công thức hóa học chỉ số dưới
 
 - `scripts/bai-toan-lon-2/build_kh_bt2.py`: `_emit()` tách công thức hóa học (regex `FORMULA`) và tạo run subscript cho chữ số (P₂O₅...); `_run(sub=)`. Theo Quy tắc 25 vbhc-vn.

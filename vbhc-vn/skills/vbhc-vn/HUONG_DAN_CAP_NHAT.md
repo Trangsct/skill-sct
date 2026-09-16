@@ -91,3 +91,43 @@ Muốn kiểm một file bất kỳ bằng riêng bộ quy tắc, không cần r
 Thêm hai gạch only kèm mã quy tắc để chạy một quy tắc, ví dụ hai gạch only R03. Thêm hai gạch
 final khi đây là bản hoàn thiện để xuất bản, khi đó các cảnh báo về chỗ trống và chữ tím được
 nâng thành lỗi chặn.
+
+## Ba việc Bạn phải tự làm trên GitHub (bản 2.23.0)
+
+Ba việc dưới đây tôi không làm thay được. Mỗi việc ghi rõ bấm ở đâu, gõ gì.
+
+Việc thứ nhất: bật yêu cầu bộ kiểm thử phải xanh mới cho merge vào nhánh main.
+
+Mở trình duyệt, vào địa chỉ github.com/Trangsct/skill-sct. Ở hàng chữ ngang phía trên
+(Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, Settings), bấm
+chữ Settings ở ngoài cùng bên phải. Cột menu bên trái hiện ra, tìm mục Rules, bấm vào, rồi
+bấm Rulesets. Bấm nút xanh New ruleset ở góc phải, chọn New branch ruleset.
+
+Ở ô Ruleset Name gõ: bat buoc qa xanh. Ở mục Enforcement status, đổi từ Disabled sang
+Active. Kéo xuống mục Target branches, bấm Add target, chọn Include default branch.
+
+Kéo tiếp xuống phần Rules, tích vào ô Require status checks to pass. Một khung mới hiện ra,
+bấm nút Add checks, gõ vào ô tìm kiếm chữ: Hoi quy. Chọn dòng có tên đầy đủ là
+"Hồi quy quy tắc soạn thảo vbhc-vn". Làm thêm một lần nữa với chữ validate để chọn dòng
+validate. Cuối cùng kéo xuống hết trang, bấm nút xanh Create.
+
+Từ lúc này, pull request nào có bộ kiểm thử đỏ thì nút merge sẽ bị khóa.
+
+Việc thứ hai: xóa nhánh thử.
+
+Trong lúc kiểm chứng rằng bộ kiểm thử thật sự chặn được lỗi, tôi đã đẩy lên một nhánh cố ý
+làm hỏng một quy tắc, tên là claude/thu-ci-do-6s6o6a. Nhánh này không bao giờ được merge và
+cần xóa. Cách xóa: vào github.com/Trangsct/skill-sct, bấm chữ Code ở hàng menu trên, rồi bấm
+vào ô có hình nhánh cây ghi số nhánh, ví dụ "8 Branches". Trong danh sách nhánh, tìm dòng
+claude/thu-ci-do-6s6o6a, bấm biểu tượng thùng rác ở cuối dòng đó.
+
+Việc thứ ba: duyệt hai thứ trước khi merge bản 2.23.0.
+
+Thứ nhất là bảng kiểm kê quy tắc, ở đường dẫn tests/rule-inventory.md trong plugin. Xin Bạn
+đọc kỹ mục D, gồm bốn chỗ mà quy tắc ghi trong skill đang lệch với chính các mẫu thật đã ban
+hành. Mỗi chỗ tôi đã nêu con số cụ thể và câu hỏi cần Bạn chốt.
+
+Thứ hai là mười hai trường hợp thử ở thư mục tests/cases. Mỗi thư mục con có hai tệp:
+de-bai.txt là đề bài viết theo cách Bạn hay gõ trong chat, và tieu-chi.txt là các tiêu chí
+để chấm sản phẩm. Cả hai đều là bản nháp do tôi soạn, xin Bạn sửa lại cho đúng thực tế công
+việc, nhất là các dòng bắt đầu bằng chữ require và forbid.

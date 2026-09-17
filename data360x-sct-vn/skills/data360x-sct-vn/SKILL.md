@@ -58,7 +58,11 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
 9. **Một hồ sơ có nhiều tệp.** Trang chi tiết có PDF chính và tab *File đính kèm* (dự thảo .docx, bảng so sánh,
    báo cáo…). Bot tải đủ: tệp gốc `<số>__dkN-<tên>` + bản chữ `.md` cho .docx/.pdf; mục *Tệp đính kèm* ở
    cuối phần đầu tệp `.md` chính. Khi đọc một văn bản xin ý kiến dự thảo, **đọc cả đính kèm** — nội dung
-   thật nằm ở đó, công văn chính thường chỉ vài dòng.
+   thật nằm ở đó, công văn chính thường chỉ vài dòng. **PDF chính bot lưu có thể là tệp đính kèm đầu tiên**
+   (khung xem của Data360X mở tệp đầu — vụ 9425/UBND-NC 17/9/2026: `9425_UBND-NC.pdf` thực ra là công văn
+   4865/BCA của Bộ, còn công văn 9425 của tỉnh nằm ở `__dk3-…`): đối chiếu số ký hiệu ở đầu từng tệp `.md`
+   trước khi trích dẫn. Trong `_ket-qua.json`, mỗi đính kèm có `tai_duoc: true/false`; false → xem log
+   run (ref 03 mục 6), không tự kết luận nội dung.
 10. **Tài liệu sau mã QR.** Công văn của Bộ, ngành hay chỉ in mã QR *"Đề nghị quét QR để tải tài liệu"*. Bot
     quét QR trong PDF chính và PDF đính kèm, tải tài liệu ở đường dẫn đó (Google Drive tệp/thư mục, trang web,
     tệp trực tiếp) thành đính kèm `<số>__qrN-<tên>`, ghi rõ URL trong mục *Tệp đính kèm*. Bot không tải được

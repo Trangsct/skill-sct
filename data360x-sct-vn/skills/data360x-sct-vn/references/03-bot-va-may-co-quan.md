@@ -56,3 +56,19 @@ Chế độ dòng lệnh:
 
 Sửa bot = sửa `scripts/bot-data360x.py` ở kho `ccn-laocai` (công khai — không ghi khóa, không ghi tên
 người vào code), mở PR, merge; máy tự lấy bản mới ở lượt sau.
+
+## 6. Cách bot tải đính kèm trên Data360X (từ 17/9/2026)
+
+- Cổng là SPA (PrimeReact); backend `csdlvb-backend.laocai.gov.vn` **thiếu chứng thư trung gian** và giữ token
+  đăng nhập ở localStorage (không ở cookie). Vì thế request riêng chỉ mang cookie bị 401, `ctx.request` lỗi
+  chứng thư, fetch trong trang bị CORS, bấm hàng .pdf từng làm Chrome sập.
+- Bot bắt hai thứ từ chính Chrome khi mở trang chi tiết: header `Authorization` gửi tới backend, và **URL đầy đủ
+  Chrome dùng để tải tệp đầu** (`…/get-attach-by-id/<tên tệp>?attachId=…&token=…&isOld=…`). Danh sách tệp lấy
+  từ JSON `get-attachs-by-id` (`attacH_ID`, `attacH_NAME`). Tệp còn lại tải bằng cách thay tên + attachId vào
+  khuôn URL đó, qua request context `ignore_https_errors`. Kết quả lượt 23:31 17/9/2026: 3/3 tệp.
+- Trong log run, `token=` bị che (`token=…`). Log có các dòng để soi: `API backend đã thấy`, `URL tải tệp Chrome
+  đã dùng`, `JSON đính kèm (đầu)`, `<tên>: tải theo khuôn URL của Chrome (N bytes)`; trượt thì `KHÔNG tải được`
+  kèm HTTP status. `chưa bắt được Authorization của backend` → trang chi tiết chưa gọi backend (phiên hết hạn
+  hoặc cổng đổi) — xem mục 5.
+- Đường dự phòng vẫn giữ trong `tai_dinh_kem`: URL trần từ JSON (hiện 400), URL có sẵn trong HTML, quét lân cận
+  attachId ±24 theo tên trong content-disposition.

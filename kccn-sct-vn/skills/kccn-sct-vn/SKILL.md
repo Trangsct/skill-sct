@@ -7,6 +7,27 @@ description: "KHU CÔNG NGHIỆP (KCN) và CỤM CÔNG NGHIỆP (CCN), Sở Côn
 
 Plugin chuyên môn giúp Phòng Quản lý Công nghiệp tham mưu Giám đốc Sở Công Thương tỉnh Lào Cai toàn bộ công tác QLNN về CCN (trực tiếp) và KCN (phối hợp với Ban Quản lý Khu kinh tế/KCN tỉnh). Trọng tâm là **hành động**: hướng dẫn doanh nghiệp, soạn thảo trọn hồ sơ, tham mưu văn bản cho Lãnh đạo Sở.
 
+## 0. GATE TRẠNG THÁI HỒ SƠ — CHẠY TRƯỚC MỌI VIỆC SOẠN THẢO
+
+⚠️ Khi yêu cầu là **soạn, sửa hoặc góp ý một văn bản gắn tên một CCN/KCN cụ thể** (kể cả khi người dùng
+đã gửi sẵn file mẫu và file dự thảo), DỪNG mọi thao tác khác và chạy:
+
+```bash
+python3 <thư mục plugin kccn-sct-vn>/scripts/trang_thai_cum.py "<tên cụm>"
+```
+
+Script trả về **bậc thủ tục cao nhất** cụm đó đã đạt (bảng 11 bậc ở `references/39-gate-trang-thai-ho-so-cum.md`)
+và cảnh báo các văn bản bị CẤM ở bậc đó. Quy tắc:
+
+- Văn bản định soạn thuộc bậc **thấp hơn hoặc bằng** bậc đã đạt → không soạn, báo lại người dùng.
+- Script không tìm thấy dòng nào, hoặc dòng mới nhất quá 07 ngày, hoặc có cảnh báo thay thế/đổi vị trí
+  → **hỏi người dùng một câu cụ thể** (mẫu câu: ref `39` mục E) trước khi viết.
+- Mượn mẫu của cụm khác chỉ mượn thể thức; **trạng thái hồ sơ không mượn được** (ref `39` mục F).
+
+Vụ thật 17/9/2026: soạn công văn đề nghị cử cán bộ "để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng"
+cho CCN Châu Quế trong khi cụm đã có Quyết định thành lập Hội đồng — người dùng phải nhận lỗi với Lãnh
+đạo Sở. Dấu hiệu đã nằm sẵn ở ref `17` (TTr 4299/SCT-TTr ngày 17/7/2026) nhưng không được tra.
+
 ## I. KHI NÀO DÙNG PLUGIN NÀY
 
 Kích hoạt khi xử lý bất kỳ việc nào sau:
@@ -26,6 +47,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 13. **Chỉ tiêu, nhiệm vụ 2026–2030 về XLNT tập trung CCN, quan trắc tự động, KCN Tằng Loỏng sinh thái** theo Kết luận 75-KL/TW, CTr 31-CTr/TW, CTr 104-CTr/TU (30/8/2026); viện dẫn khi thẩm định CCN, đôn đốc CĐT, báo cáo tiến độ → reference `35` (đầy đủ: bvmt-sct-vn ref 11).
 14. **Tra số liệu HIỆN TRẠNG KCN mới nhất (từ 12/9/2026)** — giá trị khối lượng xây dựng, giải ngân, GPMB, tỷ lệ lấp đầy từng KCN, tiến độ khởi công - hoàn thành phục vụ biểu thống kê giá trị xây dựng và báo cáo Đề án 08 → reference `36`. Quy tắc bắt buộc: **giải ngân ≠ khối lượng xây dựng** (KCN Trấn Yên lũy kế giải ngân 350 tỷ gồm 220 tỷ GPMB, khối lượng xây dựng chỉ 108 tỷ); ba con số TMĐT KCN Trấn Yên (2.184,33 - 2.184 - 2.353 tỷ) khác phạm vi, luôn ghi kèm nguồn; hai Ban Quản lý quản hai địa bàn khác nhau. **Mã ngành VSIC khi lập biểu giá trị xây dựng: hạ tầng KCN, CCN = 42990 (nhóm 42), thủy điện và lưới điện = 42210, nhà xưởng = 41020; KHÔNG dùng 6810 vì đó là mã ngành nghề kinh doanh của chủ đầu tư** — ref `36` mục K. Công thức ước giá trị quý khi chưa có số quyết toán và các suất 2,02 tỷ/ha GPMB, 0,92 tỷ/ha san nền: ref `36` mục I.2. Hồ sơ điều chỉnh cục bộ QHPK KCN Trấn Yên dùng làm mẫu quy trình 20 mốc thủ tục: ref `36` mục F.
 15. **Tra hồ sơ dự án THỨ CẤP trong CCN** (nhà đầu tư thuê đất, đầu tư sản xuất trong cụm — khác dự án hạ tầng cụm): hiện có **CCN Khánh Yên Thượng (xã Văn Bàn) — dự án Nhà máy sản xuất giày da xuất khẩu** của ông HUANG, YU - CHIEH (Trung Quốc/Đài Loan): chuỗi **QĐ 2428/QĐ-UBND ngày 14/7/2026** (chấp thuận CTĐT đồng thời chấp thuận nhà đầu tư) → **QĐ 3319/QĐ-UBND ngày 15/9/2026** (điều chỉnh lần thứ nhất — **bổ sung tổ chức kinh tế thực hiện dự án là Công ty TNHH Công nghiệp Văn Bảo, MST 5300854562**; bãi bỏ gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428), kèm **mẫu quy trình 7 bước bổ sung tổ chức kinh tế** khi nhà đầu tư cá nhân lập doanh nghiệp để thực hiện dự án → reference `38`. Lưu ý phân vai: dự án thứ cấp **ngoài KCN** do **Sở Tài chính** thẩm định và **Chủ tịch UBND tỉnh** quyết định (khác dự án thứ cấp trong KCN do BQLCKCN quyết định — ref `33`).
+16. **Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư** (tiếp nhận hồ sơ, công khai kết quả tiếp nhận): KHÔNG có biểu mẫu bắt buộc — NĐ 32/2024 (sửa đổi tại NĐ 303/2026), TT 14/2024 và QĐ 16/2026/QĐ-UBND đều không ban hành mẫu; chỉ ràng buộc thể thức NĐ 30/2020 và nội dung bảo đảm công khai, minh bạch. CCN cũ có hạ tầng từ NSNN thì tên Thông báo bắt buộc có chữ "hoàn thiện". Checklist 12 nội dung + 08 lỗi thật (viện dẫn Điều 11 NĐ 139/2025 đã hết hiệu lực 15/9/2026; 15 ngày của Điều 10 gốc ≠ 05 ngày làm việc của bản sửa đổi; 03 bộ ≠ 01 bộ; quên bãi bỏ điểm c khoản 1 Điều 9) → `mau-van-ban/08`.
 
 ## II. QUY TRÌNH CHUẨN (bắt buộc)
 
@@ -111,6 +133,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `references/37-ky-cap-nhat-12-9-2026-data360x.md` | **(MỚI 12/9/2026 — MỚI NHẤT về tiến độ thủ tục CCN, nguồn: dây chuyền tự động Data360X)**: **CCN Xuân Ái** có Hội đồng (QĐ 3226/QĐ-UBND 09/9), lấy ý kiến dự thảo tiêu chí (CV 5511/SCT-CN 09/9 — SXD 5928 và SNNMT 8782 thống nhất, **Sở Tài chính 561/PG-VBNB2026 đề nghị sửa theo Phụ lục**), **họp chấm điểm 14h00 ngày 14/9/2026** do PCT Thường trực Ngô Hạnh Phúc chủ trì (GM 5615/GM-HĐ); **CCN Châu Quế: TTr 196/TTr-UBND ngày 11/9/2026 THAY THẾ TTr 68/TTr-UBND 11/5/2026**, chốt 31 ha thôn Khe Pháo, CĐT đăng ký Thịnh Vượng Long (VB 08/CV-TVL 10/9), 4 lý do chuyển vị trí (cách hầm đường sắt 40 m, chênh cao TL163 74 m…), **chưa viện dẫn NĐ 303/2026 → phải chạy GATE chuyển tiếp**; **CCN Tân Hợp: đơn 02/CV-GR 12/8/2026 của PH Group** (75 ha, 794,267 tỷ = 15% vốn tự có 119,141 + 85% vay 675,126; tiến độ 24 tháng; vốn điều lệ 120 tỷ; đơn ghi sai 'QĐ 525/QĐ-TTg'); **chế độ báo cáo TUẦN mới của CĐT hạ tầng CCN (CV 5563/SCT-CN 10/9)** — trước 16h thứ Năm, chốt số hết thứ Tư, tuần đầu trước 17/9, chế tài bãi bỏ QĐ thành lập theo k2 Đ.12 NĐ 32; **08 CCN vốn NSNN** (Âu Lâu, Báo Đáp, Hưng Khánh, Thịnh Hưng, Sơn Thịnh, Yên Thế, Bắc Văn Yên, Đông An) họp 15/9, **hạn trình UBND tỉnh 15/10/2026** (GM 5562/GM-SCT). ⚠️ DỮ LIỆU ĐỘNG |
 | `references/28-hdtd-quy-hoach-kcn-bqlckcn.md` | **Hội đồng thẩm định Quy hoạch các KCN do BQLCKCN quản lý** — QĐ 7/QĐ-BQLCKCN 15/01/2026 (thành lập, cơ cấu, nhiệm vụ Điều 2, BQLCKCN thường trực, Phòng Nghiệp vụ thư ký, danh sách Phụ lục đầy đủ) + QĐ 226/QĐ-BQLCKCN 14/8/2026 (06 điều chỉnh: Nguyễn Đình Chiến thay Hoàng Văn Thuận, Trần Trọng Trang thay Nguyễn Hồng Vân, Trịnh Thị Thu Huyền thay Phạm Bình Minh, Nguyễn Ngọc Quân thay Nông Thị Quỳnh Hoa, bổ sung 02 người xã Việt Hồng); vai trò SCT; bẫy số văn bản trùng năm |
 | `references/38-ccn-khanh-yen-thuong-du-an-giay-da-van-bao.md` | **(MỚI 16/9/2026) CCN Khánh Yên Thượng — dự án thứ cấp Nhà máy sản xuất giày da xuất khẩu**: QĐ **3319/QĐ-UBND ngày 15/9/2026** (KT. Chủ tịch — PCT Phan Trung Bá) chấp thuận điều chỉnh CTĐT **lần thứ nhất** của QĐ **2428/QĐ-UBND ngày 14/7/2026**; nhà đầu tư ông **HUANG, YU - CHIEH** (sinh 06/11/1971, Trung Quốc/Đài Loan); **bổ sung tổ chức kinh tế: CÔNG TY TNHH CÔNG NGHIỆP VĂN BẢO** (MTV, trụ sở tại CCN Khánh Yên Thượng, MST 5300854562) được kế thừa quyền, nghĩa vụ và được giao đất, cho thuê đất; **bãi bỏ** gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428; hồ sơ nộp 07/8, bổ sung 21/8, thẩm định **BC 844/BC-STC 11/8** và **BC 915/BC-STC 21/8** của Sở Tài chính (39 ngày); chế độ báo cáo Điều 94 NĐ 96/2026; **mẫu quy trình 7 bước** bổ sung tổ chức kinh tế. ⚠️ GATE ký số: lớp text để trống toàn bộ số/ngày. ⚠️ Chưa có QĐ 2428 gốc → **chưa biết diện tích, vốn, công suất, tiến độ; KHÔNG được nâng số doanh nghiệp/tỷ lệ lấp đầy của cụm** |
+| `references/39-gate-trang-thai-ho-so-cum.md` | **(MỚI 17/9/2026) GATE TRẠNG THÁI HỒ SƠ — đọc trước khi soạn bất kỳ văn bản nào gắn tên một cụm cụ thể**: vụ thật CCN Châu Quế 17/9/2026 (soạn công văn đề nghị cử cán bộ lập Hội đồng khi cụm đã có QĐ thành lập Hội đồng); GATE 4 bước; **bảng 11 bậc thủ tục** thành lập CCN và lựa chọn chủ đầu tư kèm văn bản đặc trưng từng bậc; **bảng cấm ngược** (đã có văn bản nào thì cấm soạn văn bản nào, kèm loại văn bản thay thế đúng); mẫu câu hỏi người dùng khi thiếu dữ kiện; quy tắc mượn mẫu từ cụm khác. Công cụ: `scripts/trang_thai_cum.py` |
 
 ## V. BIỂU MẪU SẴN SÀNG (`mau-van-ban/`)
 
@@ -123,6 +146,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `04-bo-mau-bao-cao-ubnd.md` | Báo cáo tình hình CCN 6 tháng/năm; báo cáo chuyên đề NQ 34; báo cáo đột xuất; Biểu tổng hợp |
 | `05-bo-mau-cong-van-huong-dan.md` | Công văn hướng dẫn doanh nghiệp; công văn đôn đốc UBND xã; công văn phản hồi vướng mắc |
 | `06-mau-chinh-thuc-tt14.md` | Nguyên văn Mẫu 01-04 Phụ lục II TT 14/2024 (để đối chiếu, trích khi cần) |
+| `08-thong-bao-tiep-nhan-ho-so-ubnd-xa.md` | **Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư**: khẳng định không có mẫu bắt buộc (3 căn cứ); 03 văn bản xã phải ban hành và mốc thời gian; checklist 12 nội dung; 08 lỗi thật đã bắt; thẩm quyền xã phê duyệt quy hoạch chi tiết CCN (điểm c khoản 2 Điều 8 Quy chế kèm QĐ 16/2026/QĐ-UBND) |
 
 ## VI. NGƯỜI KÝ MẶC ĐỊNH (phối hợp `vbhc-vn`, `sct-laocai-org-vn`)
 
@@ -145,3 +169,4 @@ Dòng lưu: **Lưu: VT, CN(Trung)** (chuyên viên tham mưu KCN/CCN/dự án c�
 6. **Địa danh dễ nhầm — dùng đúng** (chi tiết reference `12`, nguồn gốc reference `13`): KCN Phú Xuân (300 ha) & Phú Xuân 1 (200 ha) đều tại **xã Gia Phú**; CCN Yên Hợp, Yên Hợp 1, Yên Hợp 2 tại **xã Xuân Ái** (Yên Hợp và Yên Hợp 1 là 2 dự án ĐỘC LẬP, không dùng "giai đoạn I/II"); CCN Tân Nguyên & Mông Sơn tại **xã Bảo Ái**; CCN Thống Nhất & Thống Nhất 1 tại **xã Gia Phú**. **KHÔNG suy tên xã từ tên KCN:** Bản Qua → xã Bát Xát; Y Can → xã Lương Thịnh + Quy Mông; Đông An → xã Đông Cuông; Thịnh Hưng → xã Yên Bình + phường Văn Phú; Lục Yên → xã Lục Yên + Tân Lĩnh (Phụ lục II QĐ 525).
 7. **Phân biệt CCN với KCN cùng tên** (Bắc Duyên Hải, Đông Phố Mới do phường Lào Cai quản lý là CCN, khác KCN cùng tên).
 8. **Phân vai QLNN:** Sở Công Thương quản lý CCN (đầu mối), KHÔNG quản lý xây dựng (Sở Xây dựng) — thông báo khởi công gửi Sở Xây dựng. KCN vùng Lào Cai cũ → BQL Khu kinh tế tỉnh; KCN vùng Yên Bái cũ → BQL các KCN tỉnh (quy hoạch các KCN khối này do Hội đồng thẩm định theo QĐ 7 + 226/QĐ-BQLCKCN thẩm định — reference `28`).
+9. **Trạng thái hồ sơ phải tra trước khi soạn.** Mỗi cụm đi theo bậc thủ tục riêng; cụm A và cụm B cùng nhận một mẫu văn bản KHÔNG có nghĩa là cùng bậc. Chạy `scripts/trang_thai_cum.py` (mục 0) và ref `39` trước khi viết; thiếu dữ kiện thì hỏi, không suy đoán.

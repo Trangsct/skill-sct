@@ -1,8 +1,13 @@
-# vbhc-vn 2.23.0 — 16/9/2026
+# vbhc-vn 2.24.0 — 16–17/9/2026
 
 Chuyển quy tắc soạn thảo từ văn xuôi sang kiểm tra bằng máy, và dựng bộ kiểm thử hồi quy.
 
 Nguồn: Bản giao việc ngày 16/9/2026 của Trần Trọng Trang, Phó Trưởng phòng Quản lý công nghiệp.
+
+Số phiên bản: đợt này bắt đầu là 2.23.0, nhưng trong lúc làm, hai phiên khác đã phát hành 2.22.1
+(Nhóm M), 2.23.0 (Quy tắc 28, `fit_pages.py`) và 2.23.1 (Nhóm N, `normalize_body.py`) lên `main`.
+Khi gộp, Quy tắc 28 được đưa vào `reference/quy-tac-bat-bien.md`, Nhóm M và N thành hai dòng
+trong bảng A–N của SKILL.md, hai script mới vào bảng QA và bảng định tuyến. Bản gộp lấy số 2.24.0.
 
 ## Vì sao làm
 

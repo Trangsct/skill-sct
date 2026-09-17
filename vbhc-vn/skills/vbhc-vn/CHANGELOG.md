@@ -1,3 +1,31 @@
+## [2.24.0] - 17/9/2026 — Quy tắc soạn thảo kiểm bằng máy, hồi quy trên CI, kho VBPL, trình biên dịch, SKILL.md gọn 71%
+
+Chi tiết đầy đủ: `CHANGELOG-v2026.09.16.md`. Tóm tắt: `scripts/qa_rules.py` 15 quy tắc R01–R15 nối vào `qa_all.py` mục 1b (thêm `--final`); `tests/` hồi quy hai lớp, job CI `qa-evals`; `data/vbpl.json` sinh từ `registry/trang-thai.csv` + `scripts/cite_check.py`; `scripts/build_vb.py` dựng 8 loại từ nội dung dạng thẻ; SKILL.md 62 KB → 17,8 KB theo mô hình lõi + định tuyến, ba khối lớn chuyển sang `reference/quy-tac-bat-bien.md` (đủ 28 quy tắc, gồm Quy tắc 28 của bản 2.23.0), `the-thuc-van-phong.md`, `quy-trinh-hai-che-do.md`. Gộp đủ Nhóm M, N và hai script `normalize_body.py`, `fit_pages.py` của 2.22.1–2.23.1.
+
+## [2.23.1] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
+
+- **Nguồn:** vụ thật 17/9/2026 — rà soát, sửa Thông báo tiếp nhận hồ sơ đề nghị làm chủ đầu tư CCN Đông An do UBND xã Đông Cuông gửi. Sửa xong nội dung, bản render vẫn lỗi trình bày vì định dạng ẩn của file gốc; người dùng phải chỉ lại hai lượt ("- -" hai dấu gạch, thụt lề lệch, khoảng trắng trên mục 5).
+- **reference/phong-tranh-sai-lam.md — Nhóm N (mới)**: N1 `w:numPr` danh sách tự động làm Word sinh thêm dấu gạch, hiển thị "- -" (trích xuất text KHÔNG thấy); N2 `w:ind` lẫn lộn giữa các nhóm đoạn (left=720 / left=0 / không có) gây thụt lề bậc thang; N3 `w:tab` đầu đoạn chồng lên firstLine; N4 đoạn trống thừa giữa thân đẩy đề mục xuống, tạo mảng trắng. Kèm quy trình bắt buộc 4 bước khi nhận file cơ quan khác gửi và 3 câu tự nhủ bắt lỗi sớm. Tiêu đề file → "14 nhóm sai lầm A–N".
+- **scripts/normalize_body.py (mới)**: gỡ `w:numPr`; xóa `w:ind` rồi đặt lại left=0, right=0, firstLine đồng nhất; gỡ `w:tab` đầu run; xóa đoạn trống thừa (giữ 1 đoạn dưới trích yếu + 2 đoạn trước khối ký). Có `--check` (chỉ đếm) và `--indent` (567 hoặc 720). Không dùng `run.text=` nên không làm mất shape `v:line` ở header (bài học vụ Thành Hương 29/7/2026). Chạy thử trên chính file của UBND xã: bắt 3 numPr, 36 ind lệch, 24 tab, 8 đoạn trống thừa; sau chuẩn hóa về 0.
+- **SKILL.md**: thêm `scripts/normalize_body.py` vào danh mục tham chiếu; tóm tắt Nhóm N vào đoạn "Luôn áp dụng…"; đổi A–M → A–N.
+- `plugin.json` → 2.23.1.
+
+## [2.23.0] - 17/9/2026 — Quy tắc 28: căn trang hợp đồng bằng giãn dòng Exactly 17–21pt + scripts/fit_pages.py
+
+- **Nguồn:** bộ 04 hợp đồng tư vấn ngày 17/9/2026 (QHCT 1/500 và BCNCKT, TKBVTC CCN Mông Sơn; BCNCKT KCN Minh Quân mở rộng) — bản đầu để khối chữ ký trơ trọi một trang, trang cuối gần như trắng.
+- **SKILL.md — Quy tắc 28 MỚI:** phạm vi chỉ hợp đồng, phụ lục hợp đồng và văn bản dài (VBHC theo NĐ 30/2020 và báo cáo định kỳ của Phòng vẫn giãn dòng đơn); mức hợp lệ 340–420 dxa `lineRule="exact"` (17–21pt), dưới 17pt cắt dấu tiếng Việt; cách dò mức theo số trang và độ đầy của trang cuối; gán keepNext/keepLines cho đề mục "Điều N." và keepNext cho các đoạn cuối trước bảng ký; bắt buộc sửa lại câu "Hợp đồng gồm … trang" sau khi đổi giãn dòng; QA bằng ảnh render trang đầu, trang cuối.
+- **scripts/fit_pages.py (MỚI):** `sweep` dò các mức 17 / 17,5 / 18 / 19 / 20 / 21pt và in số trang; `apply <pt> -o <file>` xuất bản đã chọn; tự gán keepNext/keepLines; chặn mức ngoài khoảng 17–21pt; nhắc sửa số trang sau khi xuất.
+- Mức đã dùng cho bộ 4 hợp đồng: QHCT Mông Sơn 19pt, BCNCKT Mông Sơn 18pt, TKBVTC Mông Sơn 17,5pt, BCNCKT Minh Quân mở rộng 17,5pt.
+- `plugin.json` → 2.23.0.
+
+
+## [2.22.1] - 17/9/2026 — Nhóm M: trạng thái hồ sơ vụ việc (vụ công văn cử cán bộ CCN Châu Quế)
+
+- **Nguồn:** vụ thật 17/9/2026 — sửa công văn cử cán bộ tham gia Hội đồng đánh giá lựa chọn chủ đầu tư cho CCN Châu Quế theo mẫu của CCN Phú Thịnh 6, Xuân Ái (CV 5348/SCT-CN ngày 28/8/2026), trong khi CCN Châu Quế đã có Quyết định thành lập Hội đồng. Người dùng phải nhận lỗi với Lãnh đạo Sở.
+- **`reference/phong-tranh-sai-lam.md`:** thêm **Nhóm M** (M1-M6): xác định bước hiện tại của vụ việc trước khi viết; đã có Quyết định thì không soạn văn bản của bước trước đó mà soạn văn bản kiện toàn, sửa đổi, thay thế; mẫu mượn được, trạng thái không mượn được; người dùng gửi file là giao việc chứ không xác nhận trạng thái; tra trước - hỏi sau - không suy đoán; ghi giả định vào phần trao đổi chứ không vào văn bản. Thêm dòng checklist [M], 3 dấu hiệu tự bắt lỗi, cách QA nhanh (`--forbid "để có cơ sở tham mưu"`). Tiêu đề mục đổi thành 13 nhóm A-M.
+- **`SKILL.md`:** cập nhật hai chỗ nêu bộ nhóm sai lầm (A-L → A-M) kèm tóm tắt Nhóm M và chỉ dẫn chạy `kccn-sct-vn/scripts/trang_thai_cum.py` với hồ sơ CCN/KCN.
+- `plugin.json` → 2.22.1.
+
 ## [2.22.0] - 16/9/2026 — Quy tắc 26, 27: văn bản thể thức Đảng, bộ văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
 
 - **reference/van-ban-dang-ca-nhan.md (MỚI)**: thể thức Đảng (tiêu đề ĐẢNG CỘNG SẢN VIỆT NAM + gạch dưới cân, không Quốc hiệu, không số, khối ký NGƯỜI BÁO CÁO); khối Kính gửi thẳng cột bằng tab + hanging indent và cân giữa trang; trích yếu viết hoa chữ đầu, chia dòng cân; mọi đoạn thân lùi 1,27 cm đồng đều; cấm chỗ trống "……" trong bản xuất bản; kết cấu đã duyệt của 4 văn bản (ý kiến phát biểu, báo cáo giải trình tiếp thu, kế hoạch khắc phục bảng 5 cột, báo cáo kết quả khắc phục). Nguồn: Bạn duyệt 4 lượt bộ văn bản sau giám sát của BTV Đảng ủy UBND tỉnh ngày 16/9/2026.

@@ -30,3 +30,5 @@ Bộ biểu mẫu sẵn dùng cho toàn bộ vòng đời quản lý CCN. Chọn
 - **KT.GĐ - PGĐ Nguyễn Đình Chiến** (phụ trách KCN/CCN/ATTP): công văn nghiệp vụ, thẩm định, hướng dẫn, lấy ý kiến.
 - **UBND tỉnh** (Chủ tịch Nguyễn Tuấn Anh / PCT phụ trách): QĐ thành lập/mở rộng/điều chỉnh/bãi bỏ CCN, QĐ lập Hội đồng.
 - Mọi văn bản Sở: ký hiệu **SCT-CN**, Lưu **VT, CN(Trung)**.
+
+- `08-thong-bao-tiep-nhan-ho-so-ubnd-xa.md` — Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư (tiếp nhận hồ sơ / công khai kết quả): không có mẫu bắt buộc, 12 nội dung phải có, 08 lỗi thật, thẩm quyền xã phê duyệt quy hoạch chi tiết CCN.

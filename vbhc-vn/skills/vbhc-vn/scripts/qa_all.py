@@ -15,6 +15,8 @@ Một lệnh duy nhất làm trọn:
      rồi dùng lại cho: widow word + khối ký gãy trang (qa_pdf_check),
      xuất ảnh từng trang, và GHÉP TẤT CẢ TRANG THÀNH 1 ẢNH qa_sheet.png
      — Claude chỉ cần MỘT lượt `view` thay vì xem từng trang.
+  1b. Bộ quy tắc máy kiểm scripts/qa_rules.py (R01…R15) — thêm --final cho bản xuất bản.
+  --goc <mẫu gốc>: Chế độ B — FAIL nếu số shape Line/drawing giảm so với mẫu gốc (Quy tắc 11).
   4. Báo cáo gọn PASS/FAIL từng mục + exit code (0 = PASS, 1 = có FAIL).
 
 Cách dùng:
@@ -42,6 +44,9 @@ except ImportError:
     print("Cần python-docx: pip install python-docx --break-system-packages")
     sys.exit(2)
 
+# Tái dùng bộ quy tắc máy kiểm qa_rules.py (mục 1b) — KHÔNG viết lại các hàm này
+from qa_rules import chay as chay_qa_rules, FAIL as R_FAIL  # noqa: E402
+
 # Tái dùng các hàm kiểm đã kiểm chứng của qa_pdf_check — KHÔNG viết lại
 from qa_pdf_check import (  # noqa: E402
     check_line_shapes, check_so_ngay_13pt, check_widow, check_sig_split,
@@ -66,6 +71,21 @@ def render_pdf_once(docx_path: Path, outdir: Path) -> Path:
     return pdf
 
 
+def check_line_shapes_vs_goc(docx_path: Path, goc_path: Path):
+    """Quy tắc 11 / Nhóm H1: số shape Line (w:pict + w:drawing) của file xuất phải BẰNG file gốc.
+    Dùng khi Chế độ B: qa_all.py <file> --goc <mẫu gốc>. Giảm so với gốc = mất Line do gán run.text."""
+    def dem(p):
+        x = Document(str(p)).element.xml
+        return x.count("<w:pict") + x.count("<w:drawing")
+    if not goc_path.exists():
+        return [f"--goc {goc_path}: không tìm thấy file gốc"]
+    a, b = dem(docx_path), dem(goc_path)
+    if a < b:
+        return [f"file xuất có {a} shape Line/drawing, file gốc có {b} — mất {b - a} shape "
+                f"(Quy tắc 11: không gán run.text vào run neo shape)"]
+    return []
+
+
 def check_header_br(docx_path: Path):
     """Quy tắc bất biến 10: không <w:br/> trong ô header (table 0)."""
     issues = []
@@ -73,6 +93,11 @@ def check_header_br(docx_path: Path):
     if not doc.tables:
         return issues
     header = doc.tables[0]
+    # Phụ biểu/biểu khổ ngang: bảng 0 là bảng SỐ LIỆU, không phải header — bỏ qua
+    # (hiệu chỉnh 17/9/2026 theo mẫu thật phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx).
+    hdr_txt = " ".join(p.text for row in header.rows for cell in row.cells for p in cell.paragraphs)
+    if not re.search(r"CỘNG H[OÒ]À?|Số\s*:|Độc lập", hdr_txt):
+        return issues
     n_br = sum(len(list(p._p.iter(qn("w:br"))))
                for row in header.rows for cell in row.cells
                for p in cell.paragraphs)
@@ -298,10 +323,22 @@ def main():
     fails, warns = [], []
 
     # ── 1. Kiểm XML (không cần render) ────────────────────────────────
+    # LINES: đếm tuyệt đối chỉ là WARN (3 mẫu thật đã ban hành không có shape Line;
+    # biên bản, GCN chỉ có 1). FAIL khi có --goc <file gốc> và số shape GIẢM so với gốc —
+    # đúng ý Quy tắc 11/H1 "QA đếm shape file xuất == gốc".
+    goc_path = Path(args[args.index("--goc") + 1]) if "--goc" in args else None
     for msg in check_line_shapes(docx_path, min_lines):
-        fails.append(("LINES", msg))
+        warns.append(("LINES", msg))
+    if goc_path is not None:
+        for msg in check_line_shapes_vs_goc(docx_path, goc_path):
+            fails.append(("LINES", msg))
+    # SZ13: mẫu thật để sz trống (kế thừa Normal — Word ghi lại làm mất sz, Nhóm K10) hoặc
+    # 27/28; chỉ FAIL khi sz đặt tường minh ra một cỡ khác hẳn, hoặc dòng ngày mất nghiêng.
     for msg in check_so_ngay_13pt(docx_path):
-        fails.append(("SZ13", msg))
+        if "thiếu in nghiêng" in msg or not re.search(r"sz=(None|26|27|28)\b", msg):
+            fails.append(("SZ13", msg))
+        else:
+            warns.append(("SZ13", msg))
     for msg in check_header_br(docx_path):
         fails.append(("HDR-BR", msg))
     for msg in check_body_format(docx_path):
@@ -313,6 +350,13 @@ def main():
     if forbid_list or require_list:
         for msg in check_content_lists(docx_path, forbid_list, require_list):
             fails.append(("CONTENT", msg))
+
+    # ── 1b. Bộ quy tắc máy kiểm qa_rules.py (R01…R15) ────────────────
+    # --final: bản Bạn yêu cầu "hoàn thiện để xuất bản" — nâng WARN nhóm hoàn thiện
+    # (R03: chỗ trống, chữ tím) thành FAIL. Chi tiết từng quy tắc: scripts/qa_rules.py.
+    for f_ in chay_qa_rules(docx_path, final=("--final" in args)):
+        (fails if f_.level == R_FAIL else warns).append(
+            (f_.code, f"{f_.loc}: {f_.excerpt} → {f_.hint}"))
 
     # ── 2. check_document.py (nội dung: hiệu lực VBQPPL, từ suy đoán…) ─
     cd_code, cd_lines = run_check_document(docx_path)
@@ -331,8 +375,14 @@ def main():
             fails.append(("WIDOW", msg))
         for msg in check_sig_split(pages_txt):
             fails.append(("SIGSPLIT", msg))
+    # SIGSPACE: (2) ô ký ≥3 dòng trống giữ FAIL (26/26 mẫu thật đạt); (1) đúng 1 dòng trống
+    # trước bảng ký và (3) dòng Nơi nhận ≤45 ký tự hạ WARN — 13 mẫu thật có 0 hoặc 2 dòng
+    # trống, dòng Nơi nhận dài tới 78 ký tự (hiệu chỉnh 17/9/2026, mẫu thật là chuẩn).
     for msg in check_sig_block(docx_path):
-        fails.append(("SIGSPACE", msg))
+        if msg.startswith("ô ký chỉ có"):
+            fails.append(("SIGSPACE", msg))
+        else:
+            warns.append(("SIGSPACE", msg))
     if pdf and do_image:
         try:
             pages_img, sheet = make_contact_sheet(pdf, dpi)

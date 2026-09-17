@@ -12,7 +12,9 @@ Bot Data360X quét **cả văn bản đi lẫn văn bản đến** của Sở (1
 kho `vlncn-laocai` → *Quet Data360X (may co quan)*), xếp theo lĩnh vực của từng plugin ở đây, tải bản gốc về
 `theo-doi/` của kho **riêng tư** `vlncn-laocai` kèm bản tin `theo-doi/bao-cao/<ngày>.md`.
 
-**Đầu mỗi phiên làm việc với bộ plugin: đọc bản tin mới nhất đó trước.** Mỗi mục trong bản tin ghi rõ văn
+**Đầu mỗi phiên làm việc với bộ plugin: đọc bản tin mới nhất đó trước.** Cùng lúc nạp văn bản pháp luật công khai mà bot đã lọc:
+`python3 scripts/nap_vbpl_data360x.py ../vlncn-laocai/theo-doi/de-xuat-vbpl.csv` (thêm dòng mới vào
+`registry/trang-thai.csv`, không ghi đè dòng đã đối chiếu tay, hiệu lực để trống; sinh lại `vbpl.json`). Mỗi mục trong bản tin ghi rõ văn
 bản thuộc plugin nào và đường dẫn PDF. Đọc PDF → có quy định/số liệu mới thì sửa plugin tương ứng theo quy
 trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn là đã rà.
 
@@ -24,6 +26,34 @@ Ba điều bắt buộc:
   `vbhc-vn/skills/vbhc-vn/scripts/extract_metadata.py` trước khi ghi số/ngày (xem mục dưới).
 - Mục *"Chưa xếp được vào plugin nào"* trong bản tin: chủ đề nào lặp lại nhiều lần là dấu hiệu cần **lập
   plugin mới** — đề xuất với Bạn.
+
+## Dây chuyền quy tắc máy kiểm của vbhc-vn (Bạn chốt 16/9/2026)
+
+Plugin `vbhc-vn` từ bản 2.23.0 **không nhận thêm quy tắc dưới dạng văn xuôi nữa**. Phát hiện lỗi
+soạn thảo mới thì thêm một hàm kiểm và một trường hợp thử, theo 4 bước ghi trong
+`vbhc-vn/skills/vbhc-vn/HUONG_DAN_CAP_NHAT.md` mục "Quy trình khi phát hiện lỗi mới":
+
+1. Lưu file lỗi vào `vbhc-vn/skills/vbhc-vn/tests/fail/` kèm file `.expect` cùng tên (ghi mã quy
+   tắc bắt buộc FAIL/WARN và dòng `nguon:` trỏ mẫu thật gốc).
+2. Viết hàm `rule_Rnn(doc, ctx)` trong `vbhc-vn/skills/vbhc-vn/scripts/qa_rules.py`, đăng ký vào
+   bảng `RULES`. Docstring bắt buộc ghi: mã, nội dung tiếng Việt, nguồn (số quy tắc trong SKILL.md
+   hoặc nhóm A–L + ngày Bạn chốt), mức FAIL/WARN. Quy tắc chỉ là danh sách cụm từ thì thêm dòng
+   vào `data/` chứ không sửa code.
+3. Chạy `python3 tests/run_regression.py` tại thư mục plugin — phải xanh.
+4. Tăng version, ghi CHANGELOG, chạy `sync_marketplace.py --bump` như thường lệ.
+
+Ba điều bắt buộc khi làm việc với dây chuyền này:
+
+- **Mẫu thật là chuẩn.** 26 file trong `examples/` phải PASS mọi quy tắc. Quy tắc nào làm mẫu thật
+  FAIL thì quy tắc viết sai hoặc hiểu sai — **sửa quy tắc, tuyệt đối không sửa mẫu**. Đã có tiền lệ:
+  R01, R04, R12 đều phải thu hẹp phạm vi vì bắt nhầm mẫu thật (xem `tests/rule-inventory.md` mục D).
+- **Chỉ rút văn xuôi khỏi SKILL.md sau khi hàm kiểm đã bắt đúng lỗi trên ít nhất một file trong
+  `tests/fail/` VÀ PASS trên toàn bộ `examples/`.** Chưa đủ hai điều kiện thì giữ nguyên văn xuôi.
+- **Quy tắc máy không kiểm được** (nội dung pháp lý, suy diễn nhiệm vụ, giọng văn tổng thể) giữ
+  nguyên văn xuôi và ghi là loại N trong `tests/rule-inventory.md` — không ép thành regex.
+
+CI: job `qa-evals` trong `.github/workflows/validate-plugins.yml` chạy hồi quy lớp 1 mỗi lần có
+thay đổi; job đỏ thì không merge.
 
 ## Quy tắc nghiệp vụ chung
 

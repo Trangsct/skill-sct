@@ -161,3 +161,68 @@ Không cần sửa code Python.
 
 ### v1
 - Bộ template đầu tiên — đã loại bỏ.
+
+## Bộ quy tắc máy kiểm và kiểm thử hồi quy (từ v2.23.0)
+
+**`scripts/qa_rules.py`** — 15 quy tắc soạn thảo được kiểm bằng máy (R01–R15), thay cho việc
+người soạn phải tự nhớ. Mỗi hàm `rule_Rnn(doc, ctx)` có docstring ghi mã quy tắc, nội dung,
+nguồn (số quy tắc trong SKILL.md hoặc nhóm A–L, ngày Bạn chốt) và mức FAIL/WARN.
+
+```bash
+python3 scripts/qa_rules.py file.docx              # chạy toàn bộ
+python3 scripts/qa_rules.py file.docx --only R03   # chạy một quy tắc
+python3 scripts/qa_rules.py file.docx --final      # bản xuất bản: WARN chỗ trống → FAIL
+python3 scripts/qa_rules.py file.docx --json       # xuất JSON
+```
+
+Bộ quy tắc này đã được nối vào `qa_all.py` thành **mục 1b**, nên chạy QA một phát là có đủ.
+Danh sách cụm từ (thuật ngữ cấm, giọng giải thích) để ở **`data/`** — bổ sung không phải sửa code.
+
+**`tests/`** — bộ kiểm thử hồi quy hai lớp:
+
+| Lớp | Lệnh | Gọi mô hình | Chạy trên CI |
+|---|---|---|---|
+| 1 — tất định | `python3 tests/run_regression.py` | không | có (job `qa-evals`) |
+| 2 — đề bài thật | `bash tests/run_cases.sh` | có | không |
+
+Lớp 1 kiểm hai chiều: 26 mẫu thật trong `examples/` không được có FAIL nào (và không phát sinh
+WARN mới so với `baseline-warn.json`), còn 11 file lỗi trong `tests/fail/` phải bị bắt đúng mã
+ghi trong file `.expect` cùng tên. Nâng cấp làm hỏng thứ đang đúng thì CI đỏ, không merge được.
+
+Kiểm kê toàn bộ quy tắc, phân loại máy kiểm được / không kiểm được: **`tests/rule-inventory.md`**.
+Quy trình khi phát hiện lỗi mới: mục "Quy trình khi phát hiện lỗi mới" trong `HUONG_DAN_CAP_NHAT.md`.
+
+## Trình biên dịch nội dung sang .docx (từ v2.23.0)
+
+**`scripts/build_vb.py`** — viết NỘI DUNG dạng text có thẻ, script dựng .docx trên mẫu thật và
+tự chuẩn hóa thể thức. Phần dễ sai nhất (sửa XML tay từng run) biến mất; sửa nội dung lần hai
+chỉ là sửa text rồi build lại.
+
+```bash
+python3 scripts/build_vb.py noi-dung.txt ra.docx --loai cong-van
+python3 scripts/build_vb.py noi-dung.txt ra.docx --mau examples/sct/<mẫu>.docx
+```
+
+Thẻ đầu dòng: `[H]` đề mục đậm · `[I]` đề mục nghiêng · `[K]` dòng Kính gửi · `[P]` đoạn thường
+(mặc định) · `##` chú thích. Tám loại dùng được ngay qua `--loai`: `cong-van`,
+`cong-van-noi-bo`, `to-trinh`, `bao-cao`, `bao-cao-phong`, `ke-hoach`, `giay-phep`, `bien-ban`.
+
+Script tự làm, không phải nhớ: công thức hóa học P2O5, H2SO4, CO2… thành **chỉ số dưới thật**
+(Quy tắc 25); đơn vị m2, m3 thành **chỉ số trên thật** (Quy tắc 8); mọi đoạn thân lùi đầu dòng
+đồng đều theo trị của chính mẫu (Quy tắc 27b); đoạn thường căn đều hai bên. Gặp markdown hoặc
+ngắt dòng cứng trong file nội dung là dừng và báo lỗi. Header, đường Line, khối chữ ký của mẫu
+giữ nguyên tuyệt đối. Dựng xong script tự chạy `qa_rules.py`.
+
+## Đối chiếu số hiệu văn bản (từ v2.23.0)
+
+**`scripts/cite_check.py`** — quét mọi số hiệu trong bản thảo, đối chiếu `data/vbpl.json`
+(sinh từ `registry/trang-thai.csv` của kho, do người duy trì ghi sau khi mở bản gốc):
+
+```bash
+python3 scripts/cite_check.py file.docx
+python3 scripts/cite_check.py file.docx --to-tim   # xuất bản _cantra.docx bôi tím chỗ cần tra
+```
+
+Ba nhóm kết quả: **KHỚP** · **LỆCH** (ngày trong văn bản khác kho — phải sửa một bên) ·
+**CHƯA CÓ** (chưa đối chiếu được, không có nghĩa là sai). Script không bao giờ tự sửa số hiệu.
+Bổ sung văn bản vào kho: sửa `registry/trang-thai.csv` rồi chạy `python3 scripts/build_vbpl.py`.

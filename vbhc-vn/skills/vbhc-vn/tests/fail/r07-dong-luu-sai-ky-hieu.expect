@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đổi "CN" thành "QLCN" và bỏ dấu chấm cuối dòng Lưu.
+nguon: examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx
+R07 FAIL

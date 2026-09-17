@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn một dòng Căn cứ dẫn văn bản TRẦN (không ngày ban hành, không cơ quan đầy đủ).
+nguon: examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx
+R01 FAIL

@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đặt cỡ chữ dòng "Số:" thành 10pt tường minh (sz=20).
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+SZ13 FAIL

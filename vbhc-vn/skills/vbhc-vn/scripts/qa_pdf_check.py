@@ -114,7 +114,8 @@ def check_sig_split(pages) -> list:
 def check_line_shapes(docx_path: Path, min_lines: int) -> list:
     d = Document(str(docx_path))
     xml = d.element.xml
-    n = xml.count("<w:pict")
+    # đếm cả VML (w:pict) lẫn DrawingML (w:drawing) — mẫu thật dùng cả hai kiểu
+    n = xml.count("<w:pict") + xml.count("<w:drawing")
     if n < min_lines:
         return [f"chỉ có {n} shape Line trong file (yêu cầu >= {min_lines}: "
                 "dưới tên cơ quan VÀ dưới Tiêu ngữ). Nghi mất Line do gán run.text "

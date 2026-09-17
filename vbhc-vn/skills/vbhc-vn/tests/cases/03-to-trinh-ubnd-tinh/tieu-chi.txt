@@ -1,0 +1,16 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: Kính gửi: Ủy ban nhân dân tỉnh Lào Cai
+require: Căn cứ
+require: TTr-SCT
+forbid: dự kiến gần như
+rule-pass: R01 R03 R07 R11 R14
+trang: 2-4
+ghi-chu: Mọi dòng Căn cứ phải đủ số, ngày, cơ quan, trích yếu (R01 mức FAIL ở vùng căn cứ).

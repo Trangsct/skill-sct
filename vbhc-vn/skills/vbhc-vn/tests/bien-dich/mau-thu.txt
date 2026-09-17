@@ -1,0 +1,12 @@
+## Nội dung thử cho trình biên dịch scripts/build_vb.py — KHÔNG phải văn bản thật.
+## Dùng trong tests/run_regression.py mục 4. Cố tình chứa công thức hóa học và đơn vị đo
+## để kiểm chỉ số dưới / chỉ số trên được tách run tự động.
+[K] Kính gửi: Ủy ban nhân dân tỉnh Lào Cai
+Thực hiện chỉ đạo của Ủy ban nhân dân tỉnh, Sở Công Thương báo cáo như sau:
+[H] I. KẾT QUẢ THỰC HIỆN
+[H] 1. Về mặt bằng
+Diện tích bàn giao là 12 ha, tương đương 120000 m2; khối lượng đào đắp 3500 m3.
+[I] a) Về nguyên liệu
+Cơ sở sử dụng H2SO4, P2O5 và CaCO3 trong dây chuyền; phát thải CO2 được kiểm soát theo quy định.
+[H] II. KIẾN NGHỊ
+Sở Công Thương kính đề nghị Ủy ban nhân dân tỉnh xem xét, chỉ đạo các nội dung nêu trên./.

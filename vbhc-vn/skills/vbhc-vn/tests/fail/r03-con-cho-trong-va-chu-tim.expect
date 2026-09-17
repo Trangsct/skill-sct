@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn "……", "(nêu số liệu)" và một run màu tím 7030A0. --final nâng thành FAIL.
+nguon: examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx
+R03 WARN

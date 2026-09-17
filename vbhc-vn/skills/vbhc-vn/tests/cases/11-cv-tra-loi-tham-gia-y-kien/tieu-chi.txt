@@ -1,0 +1,17 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: nhất trí
+forbid: căn cứ theo quy định của pháp luật để thực hiện
+forbid: thực hiện theo đúng quy định hiện hành
+forbid: nghiên cứu các quy định có liên quan
+rule-pass: R03 R07 R10 R11 R14
+trang: 1-2
+ghi-chu: Nhóm L1 (Công văn 9060/UBND-TH ngày 07/9/2026 — mục 4). Đếm số lần 'nhất trí',
+ghi-chu: bằng 0 là chưa có chính kiến.

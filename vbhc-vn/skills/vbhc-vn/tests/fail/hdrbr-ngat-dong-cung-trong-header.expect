@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn một thẻ <w:br/> vào dòng V/v trong bảng header (Quy tắc 10).
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+HDR-BR FAIL

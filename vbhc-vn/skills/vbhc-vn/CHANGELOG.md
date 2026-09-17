@@ -1,3 +1,7 @@
+## [2.24.0] - 17/9/2026 — Quy tắc soạn thảo kiểm bằng máy, hồi quy trên CI, kho VBPL, trình biên dịch, SKILL.md gọn 71%
+
+Chi tiết đầy đủ: `CHANGELOG-v2026.09.16.md`. Tóm tắt: `scripts/qa_rules.py` 15 quy tắc R01–R15 nối vào `qa_all.py` mục 1b (thêm `--final`); `tests/` hồi quy hai lớp, job CI `qa-evals`; `data/vbpl.json` sinh từ `registry/trang-thai.csv` + `scripts/cite_check.py`; `scripts/build_vb.py` dựng 8 loại từ nội dung dạng thẻ; SKILL.md 62 KB → 17,8 KB theo mô hình lõi + định tuyến, ba khối lớn chuyển sang `reference/quy-tac-bat-bien.md` (đủ 28 quy tắc, gồm Quy tắc 28 của bản 2.23.0), `the-thuc-van-phong.md`, `quy-trinh-hai-che-do.md`. Gộp đủ Nhóm M, N và hai script `normalize_body.py`, `fit_pages.py` của 2.22.1–2.23.1.
+
 ## [2.23.1] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
 
 - **Nguồn:** vụ thật 17/9/2026 — rà soát, sửa Thông báo tiếp nhận hồ sơ đề nghị làm chủ đầu tư CCN Đông An do UBND xã Đông Cuông gửi. Sửa xong nội dung, bản render vẫn lỗi trình bày vì định dạng ẩn của file gốc; người dùng phải chỉ lại hai lượt ("- -" hai dấu gạch, thụt lề lệch, khoảng trắng trên mục 5).

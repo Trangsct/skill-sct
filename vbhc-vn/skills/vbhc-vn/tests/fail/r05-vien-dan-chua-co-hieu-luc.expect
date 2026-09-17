@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đặt ngày ký 11/9/2026 và chèn viện dẫn NQ 66.25/2026/NQ-CP (hiệu lực 15/9/2026).
+nguon: examples/sct/cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh.docx
+R05 FAIL

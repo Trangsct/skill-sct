@@ -1,3 +1,14 @@
+## [vbhc-vn 2.24.0] - 16–17/9/2026 — Chuyển quy tắc soạn thảo sang kiểm tra bằng máy + bộ kiểm thử hồi quy
+
+- **17/9:** `qa_all.py` PASS 26/26 mẫu thật sau khi hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo mẫu thật (16 file lỗi); kho VBPL nạp 43 văn bản công khai từ Data360X (`scripts/nap_vbpl_data360x.py`), tổng 105; lớp 2 chạy được bằng `claude` CLI; gộp Quy tắc 28, Nhóm M–N của 2.22.1–2.23.1.
+
+- **scripts/qa_rules.py (MỚI)**: 15 quy tắc máy kiểm R01–R15 (dẫn văn bản lần đầu, chỉ số dưới công thức hóa học, bản xuất bản không chỗ trống, khối Kính gửi, hiệu lực văn bản viện dẫn, thứ tự Nơi nhận gửi doanh nghiệp, dòng Lưu, từ suy đoán, thuật ngữ cấm, giọng giải thích Nhóm J, địa danh/chức danh, lề trang, lùi đầu dòng, dấu vết lần sửa, dẫn Quyết định kèm tờ trình). Mỗi hàm ghi rõ mã, nội dung, nguồn, mức FAIL/WARN. Nối vào `qa_all.py` thành mục 1b; thêm cờ `--final` cho bản xuất bản.
+- **tests/ (MỚI)**: `run_regression.py` (hồi quy lớp 1, tất định, chạy trên CI qua job `qa-evals`) + 11 file lỗi kèm `.expect` + `run_cases.sh`/`cham_case.py`/12 case lớp 2 + `rule-inventory.md` kiểm kê toàn bộ quy tắc, phân loại M/N.
+- **data/ (MỚI)**: `thuat-ngu-cam.txt`, `thuat-ngu-canh-bao.txt`, `giong-giai-thich.txt`, `vbpl.json` — bổ sung quy tắc không phải sửa code.
+- **scripts/build_vbpl.py + cite_check.py (MỚI)**: kho dữ kiện văn bản pháp luật sinh từ `registry/trang-thai.csv` (62 văn bản, 37 có ngày hiệu lực) và script đối chiếu mọi số hiệu trong bản thảo (KHỚP / LỆCH / CHƯA CÓ, cờ `--to-tim` bôi tím chỗ cần tra).
+- **scripts/build_vb.py (MỚI)**: dựng 8 loại văn bản từ một file nội dung dạng thẻ trên mẫu thật; tự tách run chỉ số dưới cho công thức hóa học, chỉ số trên cho m2/m3, lùi đầu dòng đồng đều.
+- SKILL.md 62.085 → 17.771 byte (giảm 71%), theo mô hình lõi + định tuyến; ba khối lớn chuyển sang `reference/quy-tac-bat-bien.md`, `the-thuc-van-phong.md`, `quy-trinh-hai-che-do.md` — chuyển chứ không xóa, đã đối chiếu máy đủ 27 quy tắc và 12 nhóm A–L. Ghi chép cũ: các quy tắc đã có hàm kiểm chạy đúng rút thành dòng dẫn chiếu mã. Ba quy tắc (R01, R04, R12) được hiệu chỉnh theo mẫu thật thay vì sửa mẫu. Hai tiêu chí chưa đạt (SKILL.md giảm 20%, qa_all.py PASS mọi mẫu thật) đã ghi rõ lý do trong mục D.4 `tests/rule-inventory.md`.
+
 ## [2.23.1] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
 
 - **Nguồn:** vụ thật 17/9/2026 — rà soát, sửa Thông báo tiếp nhận hồ sơ đề nghị làm chủ đầu tư CCN Đông An do UBND xã Đông Cuông gửi. Sửa xong nội dung, bản render vẫn lỗi trình bày vì định dạng ẩn của file gốc; người dùng phải chỉ lại hai lượt ("- -" hai dấu gạch, thụt lề lệch, khoảng trắng trên mục 5).

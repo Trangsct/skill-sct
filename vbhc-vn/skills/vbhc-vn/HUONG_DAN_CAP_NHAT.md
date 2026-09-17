@@ -28,3 +28,107 @@ vbhc-vn-vX.Y.Z.zip
 ## Ghi chú đường dẫn
 
 Skill cài dạng **plugin** nằm tại `/mnt/skills/plugins/vbhc-vn:vbhc-vn/`; cài dạng **user skill** nằm tại `/mnt/skills/user/vbhc-vn/`. Các script trong tài liệu viết theo đường dẫn plugin — nếu dùng bản user skill thì thay tiền tố tương ứng.
+
+## Quy trình khi phát hiện lỗi mới (từ bản 2.23.0, Bạn chốt 16/9/2026)
+
+Từ nay khi phát hiện một lỗi soạn thảo mới thì không viết thêm một đoạn văn xuôi vào SKILL.md
+nữa, mà thêm một hàm kiểm và một trường hợp thử. Bốn bước, làm tuần tự.
+
+Bước một. Lưu file lỗi. Chép file .docx đang mắc lỗi vào thư mục tests/fail của plugin, đặt tên
+theo dạng mã quy tắc và mô tả ngắn, ví dụ r16-thieu-dau-cham-cuoi.docx. Tạo cạnh nó một file
+cùng tên nhưng đuôi .expect, trong đó ghi ba thứ: các dòng bắt đầu bằng dấu thăng là ghi chú
+nói rõ đã sửa gì so với bản gốc; một dòng nguon: trỏ tới mẫu thật đã dùng làm bản gốc; và mỗi
+dòng còn lại là một mã quy tắc kèm mức, ví dụ R16 FAIL. Nếu chưa có file lỗi thật thì chép một
+mẫu thật trong examples ra rồi sửa có chủ đích đúng một chỗ, và ghi rõ trong phần ghi chú rằng
+đây là file lỗi nhân tạo. Tuyệt đối không bịa số hiệu hay ngày tháng văn bản mới; số hiệu trong
+file lỗi phải lấy nguyên từ chính mẫu thật.
+
+Bước hai. Viết hàm kiểm. Mở scripts/qa_rules.py, viết một hàm mới tên rule_R kèm số thứ tự tiếp
+theo, nhận vào doc và ctx, trả về danh sách phát hiện. Docstring của hàm bắt buộc ghi bốn thứ:
+mã quy tắc, nội dung quy tắc bằng tiếng Việt, nguồn gồm số quy tắc trong SKILL.md hoặc tên nhóm
+trong phong tranh sai lam kèm ngày chốt, và mức là FAIL hay WARN. Đăng ký hàm vào bảng RULES ở
+cuối file. Nếu quy tắc chỉ là một danh sách cụm từ thì không viết vào code mà thêm dòng vào file
+tương ứng trong thư mục data, như thuat-ngu-cam.txt hoặc giong-giai-thich.txt.
+
+Bước ba. Chạy hồi quy. Gõ lệnh python3 tests/run_regression.py tại thư mục plugin. Lệnh này kiểm
+hai chiều: toàn bộ mẫu thật trong examples không được có lỗi FAIL nào, và mỗi file trong tests
+fail phải bị bắt đúng mã đã ghi. Nếu quy tắc mới làm một mẫu thật bị FAIL thì quy tắc viết sai
+hoặc hiểu sai, phải sửa quy tắc chứ tuyệt đối không sửa mẫu thật. Nếu quy tắc mới chỉ làm phát
+sinh cảnh báo WARN mới trên mẫu thật mà xét thấy cảnh báo đó là đúng thì chạy lại lệnh trên kèm
+tham số hai gạch cap-nhat-baseline để chốt lại mốc.
+
+Bước bốn. Tăng phiên bản và ghi nhật ký. Mở file plugin.json trong thư mục chấm claude-plugin,
+tăng số phiên bản. Thêm một file CHANGELOG theo mẫu ngày tháng trong thư mục skill và thêm một
+mục mới lên đầu file CHANGELOG ở gốc kho. Chạy python3 scripts/sync_marketplace.py với tham số
+hai gạch bump tại gốc kho, không sửa tay marketplace.json.
+
+Sau khi làm xong bốn bước, đẩy lên nhánh làm việc và mở pull request như thường lệ. Job qa-evals
+trên GitHub sẽ tự chạy lại bước ba; job này đỏ thì không merge được.
+
+## Cách tự chạy bộ kiểm thử
+
+Chạy lớp một, tức phần tất định không gọi mô hình, bằng lệnh sau, gõ tại thư mục
+vbhc-vn/skills/vbhc-vn của kho skill-sct:
+
+    python3 tests/run_regression.py
+
+Thêm tham số hai gạch chi-tiet để xem kết quả từng file. Thêm tham số hai gạch voi-qa-all để
+chạy thêm qa_all.py trên toàn bộ mẫu thật; phần này cần cài LibreOffice nên chậm hơn, khoảng
+một phút.
+
+Chạy lớp hai, tức phần giao đề bài thật cho Claude Code rồi chấm sản phẩm, bằng lệnh:
+
+    bash tests/run_cases.sh
+
+Muốn chạy vài trường hợp thôi thì ghi thêm số thứ tự, ví dụ bash tests/run_cases.sh 01 05. Lệnh
+này gọi Claude Code nên chỉ chạy khi cần, không chạy trên GitHub. Sản phẩm và nhật ký từng lần
+chạy nằm trong tests/_ket-qua.
+
+Muốn kiểm một file bất kỳ bằng riêng bộ quy tắc, không cần render ảnh, thì gõ:
+
+    python3 scripts/qa_rules.py duong-dan-file.docx
+
+Thêm hai gạch only kèm mã quy tắc để chạy một quy tắc, ví dụ hai gạch only R03. Thêm hai gạch
+final khi đây là bản hoàn thiện để xuất bản, khi đó các cảnh báo về chỗ trống và chữ tím được
+nâng thành lỗi chặn.
+
+## Hai việc Bạn phải tự làm trên GitHub (bản 2.24.0)
+
+Hai việc dưới đây cổng kết nối của Claude Code bị chặn quyền ghi cài đặt kho, nên tôi không làm
+thay được. Mỗi việc ghi rõ bấm ở đâu, gõ gì.
+
+Việc thứ nhất: bật yêu cầu bộ kiểm thử phải xanh mới cho merge vào nhánh main.
+
+Mở trình duyệt, vào địa chỉ github.com/Trangsct/skill-sct. Ở hàng chữ ngang phía trên
+(Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, Settings), bấm
+chữ Settings ở ngoài cùng bên phải. Cột menu bên trái hiện ra, tìm mục Rules, bấm vào, rồi
+bấm Rulesets. Bấm nút xanh New ruleset ở góc phải, chọn New branch ruleset.
+
+Ở ô Ruleset Name gõ: bat buoc qa xanh. Ở mục Enforcement status, đổi từ Disabled sang
+Active. Kéo xuống mục Target branches, bấm Add target, chọn Include default branch.
+
+Kéo tiếp xuống phần Rules, tích vào ô Require status checks to pass. Một khung mới hiện ra,
+bấm nút Add checks, gõ vào ô tìm kiếm chữ: Hoi quy. Chọn dòng có tên đầy đủ là
+"Hồi quy quy tắc soạn thảo vbhc-vn". Làm thêm một lần nữa với chữ validate để chọn dòng
+validate. Cuối cùng kéo xuống hết trang, bấm nút xanh Create.
+
+Từ lúc này, pull request nào có bộ kiểm thử đỏ thì nút merge sẽ bị khóa.
+
+Việc thứ hai: xóa nhánh thử.
+
+Trong lúc kiểm chứng rằng bộ kiểm thử thật sự chặn được lỗi, tôi đã đẩy lên một nhánh cố ý
+làm hỏng một quy tắc, tên là claude/thu-ci-do-6s6o6a. Nhánh này không bao giờ được merge và
+cần xóa. Cách xóa: vào github.com/Trangsct/skill-sct, bấm chữ Code ở hàng menu trên, rồi bấm
+vào ô có hình nhánh cây ghi số nhánh, ví dụ "8 Branches". Trong danh sách nhánh, tìm dòng
+claude/thu-ci-do-6s6o6a, bấm biểu tượng thùng rác ở cuối dòng đó.
+
+Việc thứ ba (không bắt buộc): xem lại hai thứ khi rảnh.
+
+Thứ nhất là bảng kiểm kê quy tắc, ở đường dẫn tests/rule-inventory.md trong plugin. Xin Bạn
+đọc kỹ mục D, gồm bốn chỗ mà quy tắc ghi trong skill đang lệch với chính các mẫu thật đã ban
+hành. Mỗi chỗ tôi đã nêu con số cụ thể và câu hỏi cần Bạn chốt.
+
+Thứ hai là mười hai trường hợp thử ở thư mục tests/cases. Mỗi thư mục con có hai tệp:
+de-bai.txt là đề bài viết theo cách Bạn hay gõ trong chat, và tieu-chi.txt là các tiêu chí
+để chấm sản phẩm. Cả hai đều là bản nháp do tôi soạn, xin Bạn sửa lại cho đúng thực tế công
+việc, nhất là các dòng bắt đầu bằng chữ require và forbid.

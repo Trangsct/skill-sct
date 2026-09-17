@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Xóa 4 shape Line/drawing khỏi file — so với mẫu gốc qua --goc thì FAIL (Quy tắc 11).
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+LINES FAIL

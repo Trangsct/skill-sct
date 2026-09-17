@@ -1,3 +1,6 @@
 *.docx.tmp
 *.pyc
 __pycache__/
+__pycache__/
+*.pyc
+vbhc-vn/skills/vbhc-vn/tests/_ket-qua/

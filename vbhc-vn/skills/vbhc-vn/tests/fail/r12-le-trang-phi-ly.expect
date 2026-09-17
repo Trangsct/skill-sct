@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đặt lề trái 0,2 cm (trị số phi lý — dấu hiệu file hỏng).
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+R12 FAIL

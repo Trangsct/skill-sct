@@ -115,7 +115,7 @@ NĐ 56/2025,NĐ,1,1,quy-hoach-ct-vn,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,
 NĐ 62/2025,NĐ,1,15,qlks-sct-vn,,,,,,,
 NĐ 68/2025,NĐ,4,24,atvsld-sct-vn;hnh-sct-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,xp-sct-vn,,,,,,
 NĐ 78/2025,NĐ,1,7,vbhc-vn,,,,,,,
-NĐ 79/2025,NĐ,1,3,vbhc-vn,,,,,,,
+NĐ 79/2025,NĐ,1,2,vbhc-vn,,,,,,,
 NĐ 85/2025,NĐ,1,1,kccn-sct-vn,,,,,,,
 NĐ 102/2024,NĐ,2,4,kccn-sct-vn;qlks-sct-vn,,,,,,,
 NĐ 103/2024,NĐ,1,4,kccn-sct-vn,,,,,,,
@@ -173,7 +173,7 @@ NĐ 152/2020,NĐ,1,1,atvsld-sct-vn,,,,,,,
 NĐ 17/2020,NĐ,1,16,attp-sct-vn,xp-sct-vn,,,,,,
 NĐ 23/2020,NĐ,1,2,qlks-sct-vn,,,,,,,
 NĐ 24/2020,NĐ,1,1,attp-sct-vn,xp-sct-vn,,,,,,
-NĐ 30/2020,NĐ,12,42,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC (vbhc-vn)
+NĐ 30/2020,NĐ,12,41,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC (vbhc-vn)
 NĐ 36/2020,NĐ,3,45,atvsld-sct-vn;qlks-sct-vn;xp-sct-vn,xp-sct-vn,24/3/2020,10/5/2020,NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước),,Dự thảo NĐ thay thế (3/2026),"Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
 NĐ 42/2020,NĐ,1,5,hnh-sct-vn,,,,,,,
 NĐ 45/2020,NĐ,1,1,kccn-sct-vn,,,,,,,
@@ -348,10 +348,10 @@ QĐ 3319/QĐ-UBND,QĐ,2,4,dacn-sct-vn;kccn-sct-vn,,,,,,,
 QĐ 3278/QĐ-BNNMT,QĐ,1,2,qlks-sct-vn,,,,,,,
 QĐ 3226/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
 QĐ 3118/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
-QĐ 3117/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
-QĐ 3116/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,
-QĐ 3105/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
-QĐ 2978/QĐ-UBND,QĐ,1,4,kccn-sct-vn,kccn-sct-vn,,,,,,
+QĐ 3117/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17302648; chưa kiểm ngày hiệu lực; Về việc thành lập Ban Chỉ đạo phát triển các khu công nghiệp do Ban Quản lý các khu công n
+QĐ 3116/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17302725; chưa kiểm ngày hiệu lực; Quyết định giải thể Hội đồng đánh giá lựa chọn chủ đầu tư hạ tầng CCN Bản Phung.
+QĐ 3105/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,27/08/2026,,,,,"nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17294551; chưa kiểm ngày hiệu lực; V/v phê duyệt chủ trương đầu tư dự án Khu tái định cư Phú Xuân, xã Gia Phú, tỉnh Lào Cai"
+QĐ 2978/QĐ-UBND,QĐ,1,4,kccn-sct-vn,kccn-sct-vn,21/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17221870; chưa kiểm ngày hiệu lực; Ban hành Quyết định chấp thuận điều chỉnh chủ trương đầu tư Dự án đầu tư xây dựng và kinh 
 QĐ 2872/QĐ-SCT,QĐ,2,4,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,,
 QĐ 2867/QĐ-UBND,QĐ,4,38,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn;vbhc-vn,sd-vlncn-sct-vn,17/8/2026,20/8/2026 → 28/02/2027,,,,"Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT, PGĐ Thuân ký); không gồm thu hồi GP, phê duyệt PANM"
 QĐ 2848/QĐ-UBND,QĐ,3,39,hnh-sct-vn;sd-vlncn-sct-vn;xp-sct-vn,hnh-sct-vn,14/8/2026,,,,,"Sửa QĐ 1696 — mở rộng uỷ quyền cấp GP vận chuyển HHNH (7 loại, GĐ Sở ký)"

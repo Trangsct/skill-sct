@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn tên doanh nghiệp làm dòng ĐẦU của khối Nơi nhận (Bạn chốt 07/9/2026).
+nguon: examples/sct/giay-phep-van-chuyen-hhnh.docx
+R06 FAIL

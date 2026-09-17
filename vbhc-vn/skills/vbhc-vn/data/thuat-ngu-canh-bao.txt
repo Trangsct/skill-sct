@@ -1,0 +1,13 @@
+# Thuật ngữ nên tránh — quy tắc R09 mức WARN (scripts/qa_rules.py).
+# Khác thuat-ngu-cam.txt ở chỗ: các cụm dưới đây CÓ trong mẫu thật đã ban hành, nên
+# không được bắt FAIL; máy chỉ nhắc để người soạn cân nhắc.
+# Định dạng:  cụm | cụm thay thế | điều kiện kèm (chỉ báo khi văn bản có cụm này)
+#
+# Hiện chưa có mục nào.
+#
+# ĐÃ GỠ 16/9/2026 — "UBND TỈNH LÀO CAI | ỦY BAN NHÂN DÂN TỈNH LÀO CAI":
+#   quy tắc Nhóm G "header cơ quan chủ quản ghi đầy đủ" khi đưa vào máy bắt 22/26 mẫu
+#   thật, vì ô header chuẩn của Sở vốn in "UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG".
+#   Mẫu thật là chuẩn nên đã gỡ. Xem dòng R09 trong tests/rule-inventory.md — chờ Bạn
+#   chốt lại phạm vi của quy tắc này (chỉ áp cho thân văn bản? chỉ áp cho văn bản do
+#   UBND tỉnh ban hành?) rồi mới đưa lại vào máy.

@@ -1,0 +1,18 @@
+# Tiêu chí đạt cho case này. Cú pháp:
+#   require: <chuỗi bắt buộc xuất hiện trong sản phẩm>
+#   forbid:  <chuỗi cấm xuất hiện>
+#   rule-pass: <các mã quy tắc qa_rules.py phải không có FAIL>
+#   trang:   <khoảng số trang chấp nhận được, vd 1-2>
+#   ghi-chu: <ghi chú cho người duyệt, không phải tiêu chí máy chấm>
+#
+# NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
+
+require: Cổng dịch vụ công một cửa Bộ Công Thương
+require: https://motcua-tthc.moit.gov.vn/
+require: Kính gửi
+forbid: đề nghị liên hệ Phòng
+forbid: Trung tâm Phục vụ hành chính công
+forbid: liên hệ Phòng Quản lý Công nghiệp
+rule-pass: R03 R06 R07 R10 R11 R14
+trang: 1-2
+ghi-chu: Nhóm I (Bạn chốt 24/7/2026) + Quy tắc bất biến 21 + Nhóm L3 (hướng dẫn đủ trong MỘT lần).

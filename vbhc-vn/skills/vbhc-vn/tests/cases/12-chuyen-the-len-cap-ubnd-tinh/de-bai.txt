@@ -1,0 +1,4 @@
+Chuyển thể văn bản của Sở lên thể thức UBND tỉnh
+
+Cho một công văn đã soạn ở thể thức Sở Công Thương, chuyển thể thành văn bản của UBND tỉnh
+Lào Cai do Sở dự thảo: đổi header, số ký hiệu, người ký, Nơi nhận và nhịp văn bản theo Nhóm K.

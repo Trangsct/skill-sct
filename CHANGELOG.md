@@ -1,3 +1,5 @@
+## 17/9/2026 — data360x-sct-vn 1.0.2: từ khóa ngắn (tên riêng), hồ sơ nhiều tệp — bot tải đủ đính kèm, trích chữ .docx
+
 ## 17/9/2026 — data360x-sct-vn 1.0.1: bot tìm bằng ô tìm kiếm của Data360X thay vì lật trang; workflow chạy PowerShell (máy cơ quan không có bash)
 
 ## 17/9/2026 — data360x-sct-vn 1.0.0 (PLUGIN MỚI): Data360X là cánh tay của Claude — tra kho văn bản đã gom, sai bot vào Data360X lấy đúng văn bản đang cần

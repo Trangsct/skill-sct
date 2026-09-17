@@ -1,4 +1,6 @@
-## [2.23.0] - 16/9/2026 — Chuyển quy tắc soạn thảo sang kiểm tra bằng máy + bộ kiểm thử hồi quy
+## [vbhc-vn 2.24.0] - 16–17/9/2026 — Chuyển quy tắc soạn thảo sang kiểm tra bằng máy + bộ kiểm thử hồi quy
+
+- **17/9:** `qa_all.py` PASS 26/26 mẫu thật sau khi hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo mẫu thật (16 file lỗi); kho VBPL nạp 43 văn bản công khai từ Data360X (`scripts/nap_vbpl_data360x.py`), tổng 105; lớp 2 chạy được bằng `claude` CLI; gộp Quy tắc 28, Nhóm M–N của 2.22.1–2.23.1.
 
 - **scripts/qa_rules.py (MỚI)**: 15 quy tắc máy kiểm R01–R15 (dẫn văn bản lần đầu, chỉ số dưới công thức hóa học, bản xuất bản không chỗ trống, khối Kính gửi, hiệu lực văn bản viện dẫn, thứ tự Nơi nhận gửi doanh nghiệp, dòng Lưu, từ suy đoán, thuật ngữ cấm, giọng giải thích Nhóm J, địa danh/chức danh, lề trang, lùi đầu dòng, dấu vết lần sửa, dẫn Quyết định kèm tờ trình). Mỗi hàm ghi rõ mã, nội dung, nguồn, mức FAIL/WARN. Nối vào `qa_all.py` thành mục 1b; thêm cờ `--final` cho bản xuất bản.
 - **tests/ (MỚI)**: `run_regression.py` (hồi quy lớp 1, tất định, chạy trên CI qua job `qa-evals`) + 11 file lỗi kèm `.expect` + `run_cases.sh`/`cham_case.py`/12 case lớp 2 + `rule-inventory.md` kiểm kê toàn bộ quy tắc, phân loại M/N.

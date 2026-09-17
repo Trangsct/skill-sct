@@ -194,4 +194,65 @@ d.save(str(p))
 ghi_expect(p, ['R05 FAIL'],
            'Đặt ngày ký 11/9/2026 và chèn viện dẫn NQ 66.25/2026/NQ-CP (hiệu lực 15/9/2026).')
 
+# ── Bốn file lỗi cho các HÀM KIỂM CŨ của qa_all.py (tag SZ13, SIGSPACE, HDR-BR, LINES) ──
+# Thêm 17/9/2026 khi hiệu chỉnh các hàm này theo mẫu thật: mức FAIL thu hẹp lại, nên phải có
+# file lỗi chứng minh chúng vẫn bắt được lỗi thật. .expect ghi "TAG FAIL" — run_regression.py
+# thấy mã không bắt đầu bằng R thì chạy qa_all.py để lấy tag.
+from docx.shared import Pt
+from docx.oxml.ns import qn as _qn
+from docx.oxml import OxmlElement
+
+# SZ13: dòng Số đặt cỡ chữ tường minh SAI HẲN (20 = 10pt) — mẫu thật chỉ có trống/26/27/28.
+p = sao('sct/cong-van-moi-hop-sct.docx', 'sz13-dong-so-sai-co-chu.docx')
+d = Document(str(p))
+xong = False
+for row in d.tables[0].rows:
+    for c in row.cells:
+        for pp in c.paragraphs:
+            if not xong and re.search(r'Số\s*:', pp.text):
+                for r in pp.runs:
+                    if r.text.strip(): r.font.size = Pt(10)
+                xong = True
+if not xong: sys.exit('SZ13: không tìm được dòng Số')
+d.save(str(p))
+ghi_expect(p, ['SZ13 FAIL'], 'Đặt cỡ chữ dòng "Số:" thành 10pt tường minh (sz=20).')
+
+# SIGSPACE: ô ký chỉ còn 1 dòng trống giữa chức danh và tên (mẫu thật tối thiểu 3).
+p = sao('sct/cong-van-moi-hop-sct.docx', 'sigspace-o-ky-thieu-dong-trong.docx')
+d = Document(str(p))
+right = d.tables[-1].rows[0].cells[-1]
+rp = right.paragraphs
+ne = [i for i, q in enumerate(rp) if q.text.strip()]
+title_i, name_i = ne[-2], ne[-1]
+trong = [rp[i] for i in range(title_i + 1, name_i) if not rp[i].text.strip()]
+for q in trong[:-1]:
+    q._p.getparent().remove(q._p)
+d.save(str(p))
+ghi_expect(p, ['SIGSPACE FAIL'], 'Xóa bớt dòng trống trong ô ký, chỉ còn 1 dòng giữa chức danh và tên người ký.')
+
+# HDR-BR: chèn <w:br/> vào ô V/v của bảng header thật.
+p = sao('sct/cong-van-moi-hop-sct.docx', 'hdrbr-ngat-dong-cung-trong-header.docx')
+d = Document(str(p))
+xong = False
+for row in d.tables[0].rows:
+    for c in row.cells:
+        for pp in c.paragraphs:
+            if not xong and pp.text.strip().startswith('V/v'):
+                r = [x for x in pp.runs if x.text.strip()][0]
+                br = OxmlElement('w:br'); r._r.append(br)
+                xong = True
+if not xong: sys.exit('HDR-BR: không tìm được dòng V/v')
+d.save(str(p))
+ghi_expect(p, ['HDR-BR FAIL'], 'Chèn một thẻ <w:br/> vào dòng V/v trong bảng header (Quy tắc 10).')
+
+# LINES: xóa hết shape Line trong header; .expect có dòng goc: để qa_all so với mẫu gốc.
+p = sao('sct/cong-van-moi-hop-sct.docx', 'lines-mat-duong-ke-header.docx')
+d = Document(str(p))
+n = 0
+for el in list(d.element.body.iter(_qn('w:pict'))) + list(d.element.body.iter(_qn('w:drawing'))):
+    el.getparent().remove(el); n += 1
+if n == 0: sys.exit('LINES: mẫu không có shape')
+d.save(str(p))
+ghi_expect(p, ['LINES FAIL'], f'Xóa {n} shape Line/drawing khỏi file — so với mẫu gốc qua --goc thì FAIL (Quy tắc 11).')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

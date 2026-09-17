@@ -92,9 +92,10 @@ Thêm hai gạch only kèm mã quy tắc để chạy một quy tắc, ví dụ 
 final khi đây là bản hoàn thiện để xuất bản, khi đó các cảnh báo về chỗ trống và chữ tím được
 nâng thành lỗi chặn.
 
-## Ba việc Bạn phải tự làm trên GitHub (bản 2.23.0)
+## Hai việc Bạn phải tự làm trên GitHub (bản 2.24.0)
 
-Ba việc dưới đây tôi không làm thay được. Mỗi việc ghi rõ bấm ở đâu, gõ gì.
+Hai việc dưới đây cổng kết nối của Claude Code bị chặn quyền ghi cài đặt kho, nên tôi không làm
+thay được. Mỗi việc ghi rõ bấm ở đâu, gõ gì.
 
 Việc thứ nhất: bật yêu cầu bộ kiểm thử phải xanh mới cho merge vào nhánh main.
 
@@ -121,7 +122,7 @@ cần xóa. Cách xóa: vào github.com/Trangsct/skill-sct, bấm chữ Code ở
 vào ô có hình nhánh cây ghi số nhánh, ví dụ "8 Branches". Trong danh sách nhánh, tìm dòng
 claude/thu-ci-do-6s6o6a, bấm biểu tượng thùng rác ở cuối dòng đó.
 
-Việc thứ ba: duyệt hai thứ trước khi merge bản 2.23.0.
+Việc thứ ba (không bắt buộc): xem lại hai thứ khi rảnh.
 
 Thứ nhất là bảng kiểm kê quy tắc, ở đường dẫn tests/rule-inventory.md trong plugin. Xin Bạn
 đọc kỹ mục D, gồm bốn chỗ mà quy tắc ghi trong skill đang lệch với chính các mẫu thật đã ban

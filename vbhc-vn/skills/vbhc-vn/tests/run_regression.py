@@ -9,9 +9,9 @@ Kiểm hai chiều:
   1. MẪU THẬT PHẢI SẠCH — mọi file trong examples/ không được có FAIL nào.
      Số WARN của từng file được chốt trong tests/baseline-warn.json; phát sinh WARN mới
      cũng là đỏ (quy tắc mới bắt nhầm mẫu thật), trừ khi cập nhật baseline có chủ đích.
-  3. (tùy chọn --voi-qa-all) qa_all.py trên mẫu thật không được SINH THÊM tag FAIL nào so
-     với tests/baseline-qa-all.json. Baseline này ghi nhận nợ kỹ thuật có sẵn từ trước đợt
-     2.23.0 (SZ13, SIGSPACE, LINES, HDR-BR trên 24/26 mẫu) — xem mục D.4 rule-inventory.md.
+  3. (tùy chọn --voi-qa-all) qa_all.py trên mẫu thật phải PASS hoàn toàn (0 tag FAIL) —
+     tiêu chí VII.1. Đạt từ 17/9/2026 sau khi hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo
+     mẫu thật. tests/baseline-qa-all.json chỉ còn để ghi hiện trạng, không dùng để so.
 
   4. TRÌNH BIÊN DỊCH build_vb.py dựng được cả 7 loại văn bản từ cùng một file nội dung, bản
      dựng không có FAIL, và công thức hóa học / đơn vị m2, m3 được tách run chỉ số thật.
@@ -49,11 +49,13 @@ BASELINE_QA = TESTS / "baseline-qa-all.json"
 TAG_FAIL = re.compile(r"^\[FAIL ([A-Z0-9\-]+)\]")
 
 
-def tags_qa_all(f: Path) -> list[str]:
-    """Các tag FAIL mà qa_all.py báo trên một file (cần LibreOffice để render PDF)."""
-    r = subprocess.run(
-        [sys.executable, str(PLUGIN / "scripts" / "qa_all.py"), str(f), "--no-image"],
-        capture_output=True, text=True, timeout=300)
+def tags_qa_all(f: Path, goc: Path | None = None) -> list[str]:
+    """Các tag FAIL mà qa_all.py báo trên một file (cần LibreOffice để render PDF).
+    goc: mẫu gốc để so số shape Line (--goc, Quy tắc 11)."""
+    lenh = [sys.executable, str(PLUGIN / "scripts" / "qa_all.py"), str(f), "--no-image"]
+    if goc is not None:
+        lenh += ["--goc", str(goc)]
+    r = subprocess.run(lenh, capture_output=True, text=True, timeout=300)
     return sorted({m.group(1) for m in (TAG_FAIL.match(ln) for ln in r.stdout.splitlines()) if m})
 
 
@@ -137,6 +139,14 @@ def main() -> int:
             loi.append(f".expect rỗng: {exp_f.name}")
             continue
         thuc = ma_muc(ket_qua(f))
+        # Mã không bắt đầu bằng R là tag của hàm kiểm cũ trong qa_all.py (SZ13, SIGSPACE,
+        # HDR-BR, LINES) — lấy bằng cách chạy qa_all.py, kèm --goc là mẫu gốc cho LINES.
+        if any(not m.startswith("R") for m in ky_vong):
+            pn0 = PLUGIN / nguon if nguon else None
+            try:
+                thuc |= {f"{tg} {FAIL}" for tg in tags_qa_all(f, pn0)}
+            except subprocess.TimeoutExpired:
+                loi.append(f"qa_all.py quá 300s trên {f.name}")
         thieu = ky_vong - thuc
         if thieu:
             loi.append(f"KHÔNG BẮT ĐƯỢC — {f.name}: thiếu {sorted(thieu)}; thực tế {sorted(thuc)}")
@@ -166,16 +176,16 @@ def main() -> int:
                 loi.append(f"qa_all.py quá 300s trên {ten}")
                 continue
             moi_qa[ten] = tags
-            them = set(tags) - set(cu_qa.get(ten, []))
-            if cu_qa and them and not a.cap_nhat_baseline:
-                loi.append(f"qa_all.py SINH LỖI MỚI — {ten}: {sorted(them)}")
+            # Từ 17/9/2026 (hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo mẫu thật): mẫu thật
+            # phải PASS hoàn toàn qa_all.py — tiêu chí VII.1 của bản giao việc. Không còn
+            # chấp nhận "không tệ hơn baseline".
+            if tags:
+                loi.append(f"qa_all.py FAIL trên mẫu thật — {ten}: {tags}")
             if a.chi_tiet:
                 print(f"   {ten}: {tags or 'PASS'}")
         if not a.chi_tiet:
             sach = sum(1 for v in moi_qa.values() if not v)
-            print(f"   xong — {sach}/{len(moi_qa)} file PASS qa_all.py "
-                  f"(phần còn lại là NỢ KỸ THUẬT có sẵn: SZ13, SIGSPACE, LINES, HDR-BR "
-                  f"— xem mục D.4 tests/rule-inventory.md)")
+            print(f"   xong — {sach}/{len(moi_qa)} file PASS qa_all.py")
         if a.cap_nhat_baseline:
             BASELINE_QA.write_text(json.dumps(moi_qa, ensure_ascii=False, indent=2) + "\n",
                                    encoding="utf-8")

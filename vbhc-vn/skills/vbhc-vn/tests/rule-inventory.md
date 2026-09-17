@@ -89,9 +89,16 @@ tắc "mẫu thật là chuẩn", tôi đã hạ mức hoặc thu hẹp phạm v
    lề dưới 0,75 cm). Đã hạ FAIL xuống WARN, chỉ giữ FAIL khi lề thiếu hoặc phi lý (<0,5 cm).
    Đề nghị Bạn chốt: có chuẩn hóa lại các mẫu này không?
 
-**Cập nhật cuối ngày 16/9/2026:** mục 1 và 3 dưới đây đã được xử lý theo hướng "mẫu thật là
-chuẩn" và ghi vào code; mục 2 vẫn chờ Bạn chốt; mục 4 là nợ kỹ thuật có sẵn, chờ Bạn quyết cho
-đợt sau.
+**Cập nhật 17/9/2026 — Bạn yêu cầu tự động hóa tối đa, nên cả 4 mục đã được xử lý theo nguyên
+tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
+
+- Mục 1 (header viết tắt): quy tắc Nhóm G "ghi đầy đủ ỦY BAN NHÂN DÂN TỈNH LÀO CAI" xếp vào
+  **lịch sử** — ô header chuẩn của Sở in "UBND TỈNH LÀO CAI" ở 22/26 mẫu thật và thân văn bản
+  vốn phải viết tắt UBND từ lần đầu. Không đưa vào máy kiểm. Bạn muốn khôi phục thì nói.
+- Mục 2 (`CN(Trung)` viết liền): giữ WARN — máy nhắc, không chặn.
+- Mục 3 (lề trang): giữ WARN, FAIL chỉ khi phi lý.
+- Mục 4 (`qa_all.py` đỏ 24/26): **ĐÃ HIỆU CHỈNH 4 hàm kiểm cũ theo mẫu thật** — chi tiết ngay dưới.
+  Kết quả: **26/26 mẫu thật PASS `qa_all.py`**, tiêu chí VII.1 đạt.
 
 4. **`qa_all.py` đang FAIL 24/26 mẫu thật — nợ kỹ thuật CÓ SẴN TỪ TRƯỚC đợt 2.23.0.**
    Đo ngày 16/9/2026: chỉ `cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx`
@@ -105,8 +112,15 @@ chuẩn" và ghi vào code; mục 2 vẫn chờ Bạn chốt; mục 4 là nợ k
    chỉ chốt hiện trạng vào `tests/baseline-qa-all.json` để nâng cấp sau không làm tệ thêm.
    Đề nghị Bạn chốt cho đợt sau: hiệu chỉnh SIGSPACE, SZ13, LINES theo mẫu thật (giống cách
    đã làm với R01, R04, R12 đợt này), hay chuẩn hóa lại 24 mẫu thật?
-   Đây cũng là lý do tiêu chí hoàn thành VII.1 ("qa_all.py trên bất kỳ file examples/ đều
-   PASS") CHƯA đạt — và không đạt được nếu không đụng vào các hàm cũ.
+   ~~Đây cũng là lý do tiêu chí VII.1 chưa đạt.~~ **Đã xử lý 17/9/2026** — hiệu chỉnh theo đúng
+   cách đã làm với R01/R04/R12, có file lỗi chứng minh vẫn bắt được lỗi thật:
+
+   | Tag | Trước | Sau hiệu chỉnh | File lỗi chứng minh |
+   |---|---|---|---|
+   | SZ13 | FAIL khi sz ≠ 26 | FAIL khi sz đặt tường minh ra cỡ lạ (≠ 26/27/28) hoặc dòng ngày mất nghiêng; trống/27/28 → WARN (Word ghi lại làm mất sz — K10) | `sz13-dong-so-sai-co-chu.docx` (sz=20) |
+   | SIGSPACE | 3 điều kiện đều FAIL | (2) ô ký ≥3 dòng trống giữ FAIL; (1) đúng 1 dòng trống trước bảng ký và (3) Nơi nhận ≤45 ký tự → WARN (13 mẫu thật có 0–2 dòng trống, Nơi nhận dài tới 78 ký tự) | `sigspace-o-ky-thieu-dong-trong.docx` |
+   | LINES | FAIL khi < 2 `w:pict` | đếm cả `w:drawing`; tuyệt đối → WARN; FAIL khi `--goc <mẫu gốc>` và số shape GIẢM (đúng ý H1 "đếm shape file xuất == gốc") | `lines-mat-duong-ke-header.docx` |
+   | HDR-BR | xét bảng 0 vô điều kiện | chỉ xét khi bảng 0 thật sự là header (có Quốc hiệu/Số:); phụ biểu bảng 0 là bảng số liệu | `hdrbr-ngat-dong-cung-trong-header.docx` |
 
 ## Đ. Công cụ đi kèm bộ quy tắc (bổ sung 16/9/2026)
 
@@ -117,7 +131,8 @@ chuẩn" và ghi vào code; mục 2 vẫn chờ Bạn chốt; mục 4 là nợ k
 | `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
 | `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |
 | `tests/tao_file_loi.py` | Sinh lại toàn bộ `tests/fail/` một cách tái lập được | mẫu thật trong `examples/` |
-| `tests/run_regression.py` | Hồi quy 4 mục: mẫu thật sạch · file lỗi bị bắt · `qa_all` không tệ thêm · biên dịch 8 loại | — |
+| `tests/run_regression.py` | Hồi quy 4 mục: mẫu thật sạch · 16 file lỗi bị bắt (kể cả tag cũ SZ13/SIGSPACE/LINES/HDR-BR) · `qa_all` PASS 26/26 · biên dịch 8 loại | — |
+| `scripts/nap_vbpl_data360x.py` (gốc kho) + `vlncn-laocai/scripts/de-xuat-vbpl.py` | Nạp văn bản pháp luật CÔNG KHAI từ danh mục Data360X vào registry (số, ngày ban hành; hiệu lực để trống) | `theo-doi/danh-muc-<năm>.json` |
 
 Muốn bổ sung một văn bản pháp luật vào kho đối chiếu: sửa `registry/trang-thai.csv` (chỉ ghi khi
 đã mở bản gốc), rồi chạy `python3 scripts/build_vbpl.py` tại gốc kho và commit cùng.

@@ -46,9 +46,23 @@ for c in "$CASES"/*/; do
     dau_vao=$'\n\nTệp đầu vào kèm theo nằm trong thư mục: '"$c/dau-vao"
   fi
 
-  "$CLAUDE_BIN" -p "Dùng plugin vbhc-vn. $de$dau_vao
+  # Chạy không tương tác nên phải cho phép trước các công cụ cần dùng (lần chạy đầu 17/9/2026
+  # dừng lại chờ duyệt quyền, không sinh file; --permission-mode bypassPermissions lại bị từ chối
+  # khi chạy bằng tài khoản root). Chỉ dùng trong thư mục thử.
+  "$CLAUDE_BIN" -p --permission-mode acceptEdits \
+    --allowedTools "Bash" "Read" "Write" "Edit" "Glob" "Grep" \
+    "Bạn đang chạy một TRƯỜNG HỢP THỬ CẤU TRÚC của plugin vbhc-vn (tests/cases), không phải việc thật.
+Plugin nằm tại $PLUGIN. Đề bài:
 
-Lưu sản phẩm .docx vào thư mục $thu_muc. Chỉ giao file .docx, không giao PDF." \
+$de$dau_vao
+
+Quy ước cho lần thử: KHÔNG bịa số liệu thống kê, số hiệu, ngày tháng, tên người — chỗ nào việc thật
+cần số liệu thì viết mô tả định tính bằng câu hoàn chỉnh (không để dấu chấm lửng, không để chỗ trống).
+Số hiệu văn bản viện dẫn chỉ lấy từ registry/trang-thai.csv hoặc từ chính mẫu thật trong examples/.
+Không hỏi lại — tự quyết mọi giả định và ghi giả định vào cuối nhật ký.
+
+Dựng file trên mẫu thật (Chế độ B) hoặc bằng scripts/build_vb.py, chạy qa_all.py, rồi lưu sản phẩm
+.docx vào thư mục $thu_muc. Chỉ giao file .docx, không giao PDF." \
     >"$thu_muc/nhat-ky.txt" 2>&1
 
   san_pham="$(find "$thu_muc" -name '*.docx' -print -quit)"

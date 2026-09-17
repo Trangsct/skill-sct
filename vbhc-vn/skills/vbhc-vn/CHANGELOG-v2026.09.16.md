@@ -84,6 +84,22 @@ bản 2.18.2 đã phải sửa lỗi trang trắng do keepNext sinh ra từ mộ
   Đã đối chiếu máy: đủ 27 quy tắc, đủ 12 nhóm A–L, mọi file reference và script còn được nhắc,
   các `--loai` và đường dẫn mẫu trong bảng định tuyến đều tồn tại thật.
 
+## Bổ sung 17/9/2026 — tự động hóa tối đa theo yêu cầu của Bạn
+
+- **`qa_all.py` PASS 26/26 mẫu thật** (trước: 2/26). Hiệu chỉnh 4 hàm kiểm cũ theo mẫu thật:
+  SZ13 (trống/27/28 → WARN, cỡ lạ hoặc mất nghiêng → FAIL), SIGSPACE (chỉ điều kiện ô ký ≥3 dòng
+  trống giữ FAIL), LINES (đếm cả `w:drawing`; FAIL chỉ khi `--goc` cho thấy mất shape so với mẫu gốc),
+  HDR-BR (chỉ xét khi bảng 0 là header). Thêm 4 file lỗi tương ứng; bộ hồi quy nay 16 file lỗi và
+  yêu cầu mẫu thật PASS hoàn toàn `qa_all.py`, không còn "không tệ hơn baseline".
+- **Kho VBPL nạp từ Data360X**: `vlncn-laocai/scripts/de-xuat-vbpl.py` lọc văn bản của cơ quan
+  ban hành công khai (NĐ-CP, TT-B*, QĐ-TTg, QĐ-B*, NQ-CP, QĐ-UBND…) từ danh mục csdlvb.laocai.gov.vn;
+  `scripts/nap_vbpl_data360x.py` ở gốc kho nạp vào `registry/trang-thai.csv` (không ghi đè dòng
+  người duy trì; hiệu lực để trống) rồi sinh lại `vbpl.json`. Kho từ 62 → **105 văn bản**.
+- **Lớp 2 chạy được bằng `claude` CLI**: `run_cases.sh` thêm `--allowedTools` (cờ bypass bị từ chối
+  với tài khoản root) và lời dẫn "trường hợp thử cấu trúc — không bịa số liệu, không hỏi lại".
+- 4 điểm chờ chốt ở mục D `rule-inventory.md` đã xử lý theo "mẫu thật là chuẩn"; quy tắc header
+  viết đầy đủ xếp vào lịch sử.
+
 ## Quy trình từ nay khi phát hiện lỗi mới
 
 Không thêm văn xuôi vào SKILL.md nữa — xem mục "Quy trình khi phát hiện lỗi mới" trong

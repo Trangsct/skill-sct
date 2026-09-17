@@ -1,6 +1,6 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "description": "GATE trạng thái hồ sơ (ref 39, scripts/trang_thai_cum.py): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - Sở Công Thương Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT (thang 100); điều kiện khởi công; HĐ thẩm định quy hoạch KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW, CTr 104-CTr/TU. Khung 9/2026: NĐ 32/2024, 303/2026, Luật Đầu tư 143/2025, NĐ 96/2026, TT 55/2026. Tiến độ kỳ 12/9/2026: ref 36, 37; ref 38.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"

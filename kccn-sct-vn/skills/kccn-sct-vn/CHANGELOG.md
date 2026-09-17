@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [1.38.0] - 17/9/2026 — Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư: không có mẫu bắt buộc + checklist 12 nội dung + 08 lỗi thật
+
+- **Nguồn:** vụ thật 17/9/2026 — Sở hướng dẫn 08 CCN hình thành trước đây có hạ tầng kỹ thuật đầu tư bằng nguồn vốn NSNN (Âu Lâu, Báo Đáp, Hưng Khánh, Thịnh Hưng, Sơn Thịnh, Yên Thế, Bắc Văn Yên, Đông An — 433,73 ha) và rà soát bản Thông báo của UBND xã Đông Cuông.
+- **`mau-van-ban/08-thong-bao-tiep-nhan-ho-so-ubnd-xa.md` (MỚI)**:
+  - Mục A: **KHÔNG có mẫu bắt buộc** — Điều 10 NĐ 32/2024 (sửa đổi tại NĐ 303/2026) chỉ yêu cầu thông báo rộng rãi trong 02 ngày làm việc, nhận hồ sơ 05 ngày làm việc; TT 14/2024 Phụ lục II chỉ có 04 mẫu (01 văn bản đề nghị làm CĐT, 02 QĐ thành lập, 03 Quy chế cấp tỉnh, 04 Quy chế dịch vụ công cộng); QĐ 16/2026/QĐ-UBND không ban hành mẫu. Ràng buộc chỉ gồm thể thức NĐ 30/2020 + nội dung bảo đảm công khai, minh bạch.
+  - Mục B: 03 văn bản của xã trong bước lựa chọn CĐT kèm mốc thời gian; CCN cũ có hạ tầng NSNN thì tên Thông báo bắt buộc có chữ **"hoàn thiện"**; mẫu thật bước 2 là TB 831 của UBND phường Cam Đường (dẫn chiếu TB bước 1 số 711/TB-UBND ngày 22/7/2026).
+  - Mục C: checklist **12 nội dung bắt buộc** (ranh giới, hiện trạng hạ tầng từ NSNN, hạng mục còn phải hoàn thiện, phương thức nộp, câu xử lý khi hết hạn không có đơn vị nộp, đầu mối đăng tải trong Nơi nhận, lưu chứng cứ đăng tải).
+  - Mục D: **08 lỗi thật** — viện dẫn Điều 11 NĐ 139/2025 (các Điều 6, 11, 12 hết hiệu lực từ 15/9/2026 theo khoản 2 Điều 3 NĐ 303/2026); nhầm 15 ngày của Điều 10 bản gốc với 05 ngày làm việc của bản sửa đổi; yêu cầu 03 bộ thay vì 01 bộ; quên điểm c khoản 1 Điều 9 đã bị bãi bỏ; trùng số đề mục, thiếu điểm b; mâu thuẫn nguồn vốn NSNN với vốn chủ đầu tư; khái toán lệch tổng mức đầu tư; thiếu 5 nội dung bắt buộc.
+  - Mục E: **UBND cấp xã phê duyệt điều chỉnh quy hoạch chi tiết CCN là ĐÚNG thẩm quyền** (điểm c khoản 2 Điều 8 Quy chế kèm QĐ 16/2026/QĐ-UBND) — khỏi tra lại; thuật ngữ sau 15/9/2026 ("phương hướng phát triển", "quy hoạch chi tiết").
+- `SKILL.md`: thêm mục I.16 và hàng bộ mẫu 08 trong bảng biểu mẫu; `mau-van-ban/00-MUC-LUC.md` cập nhật.
+- Liên kết: định dạng ẩn của file .docx do xã gửi xử lý bằng `vbhc-vn/scripts/normalize_body.py` (Nhóm N).
+- `plugin.json` → 1.38.0.
+
 ## [1.37.0] - 17/9/2026 — GATE TRẠNG THÁI HỒ SƠ: bậc thủ tục của từng cụm, bảng cấm ngược, script trang_thai_cum.py
 
 - **Vụ thật 17/9/2026 (CCN Châu Quế):** soạn công văn đề nghị Công an tỉnh cử cán bộ "để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng và Tổ giúp việc" cho CCN Châu Quế, trong khi **cụm đã có Quyết định của UBND tỉnh thành lập Hội đồng**. Mẫu dùng để sửa là Công văn 5348/SCT-CN ngày 28/8/2026 của hai cụm Phú Thịnh 6, Xuân Ái — hai cụm này mới trình lập Hội đồng ngày 04/9/2026, KHÁC bậc với Châu Quế (đã trình từ TTr 4299/SCT-TTr ngày 17/7/2026, ref 17). Người dùng phải nhận lỗi với Lãnh đạo Sở. Nguyên nhân gốc: lấy mẫu cụm A áp cho cụm B mà không tra trạng thái cụm B.

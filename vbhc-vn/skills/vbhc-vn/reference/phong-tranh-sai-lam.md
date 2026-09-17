@@ -1,4 +1,4 @@
-# Phòng tránh 13 nhóm sai lầm tham mưu A–M (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 14 nhóm sai lầm tham mưu A–N (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -240,6 +240,28 @@ Vụ thật: người dùng gửi công văn mẫu **5348/SCT-CN ngày 28/8/2026
 **M6 — Ghi giả định vào phần trao đổi, không đưa vào văn bản.** Khi buộc phải soạn trong lúc chưa xác nhận được trạng thái, nói rõ với người dùng một dòng: bản này soạn theo giả định vụ việc đang ở bước nào, căn cứ văn bản nào, và nếu bước kế tiếp đã xong thì phải đổi hướng.
 
 **Cách QA nhanh cho Nhóm M:** với văn bản mang tính đề nghị làm một bước thủ tục, `qa_all.py --forbid "để có cơ sở tham mưu"` rồi rà lại từng cụm bị bắt — mỗi cụm đó phải tương ứng một bước CHƯA thực hiện. Với CCN/KCN, chạy `trang_thai_cum.py` và dán bậc kết luận vào phần trao đổi.
+
+### Nhóm N — Định dạng ẩn trong file .docx do cơ quan khác gửi đến (Bạn chốt 17/9/2026, vụ Thông báo tiếp nhận hồ sơ CCN Đông An của UBND xã Đông Cuông)
+
+Bối cảnh: nhận file .docx của UBND cấp xã (hoặc doanh nghiệp) để rà soát, sửa nội dung. Sửa xong chữ thì đúng, nhưng bản render lại lỗi trình bày vì định dạng ẩn của file gốc vẫn còn. Bốn triệu chứng đã trả giá trong một vụ:
+
+- **N1 — "- -" hai dấu gạch đầu dòng.** Đoạn còn `w:numPr` (danh sách tự động của Word): Word tự sinh một dấu "-" ở đầu đoạn, cộng dấu "-" mình gõ trong text thành "- -". Trích xuất text KHÔNG nhìn thấy dấu do Word sinh — chỉ lộ khi render. **Xử lý:** xóa `w:numPr` khỏi mọi đoạn thân, giữ ký tự gạch đầu dòng gõ thật; không dùng numbering treo trong VBHC.
+- **N2 — thụt lề "cái vào cái ra".** Mỗi nhóm đoạn trong file gốc một kiểu `w:ind`: nhóm này `left=720 firstLine=567`, nhóm kia `left=0`, nhóm khác không có `w:ind` → các mục lệch bậc thang. **Xử lý:** xóa sạch `w:ind` rồi đặt lại `left=0, right=0, firstLine` đồng nhất cho TẤT CẢ đoạn thân (đề mục lẫn gạch đầu dòng).
+- **N3 — tab thừa đầu đoạn.** File gốc lùi đầu dòng bằng ký tự tab (`w:tab` trong run) chứ không bằng `firstLine`; chỉ đặt `firstLine` mà không gỡ tab thì đoạn lùi gấp đôi. **Xử lý:** gỡ hết `w:tab` đứng đầu run trước khi đặt firstLine.
+- **N4 — đoạn trống thừa giữa thân.** Các đoạn rỗng (thường 2 đoạn liền) giữa các mục vẫn chiếm chiều cao dòng, đẩy mục sau xuống, tạo mảng trắng lớn — người đọc tưởng lỗi ngắt trang. **Xử lý:** xóa đoạn trống trong thân, chỉ giữ 1 đoạn dưới trích yếu và 2 đoạn trước khối Nơi nhận - chữ ký.
+
+Hai lỗi thể thức đi kèm hay gặp ở file cấp xã: tiêu ngữ dùng gạch nối thay en dash (chạy `scripts/fix_quoc_hieu.py`); một vài đề mục mang style lạc của mẫu cũ (ví dụ style "04 Cơ quan ban hành") — thay bằng cách clone đoạn đề mục cùng cấp trong chính file đó, không tự set style theo tên.
+
+**Quy trình bắt buộc khi nhận file người khác gửi (4 bước):**
+1. `python3 scripts/normalize_body.py <file>.docx --check` — đếm numPr, ind lệch, tab, đoạn trống thừa. Có số khác 0 nghĩa là file gốc có định dạng ẩn, không được sửa nội dung rồi giao ngay.
+2. Sửa nội dung (text, đề mục, căn cứ) theo yêu cầu.
+3. `python3 scripts/normalize_body.py <file>.docx` rồi `python3 scripts/fix_quoc_hieu.py <file>.docx`.
+4. `scripts/qa_all.py` + soi ảnh render TOÀN BỘ trang. N1 và N4 chỉ lộ trên ảnh, không lộ ở trích xuất text.
+
+Câu tự nhủ bắt lỗi sớm:
+- *"Trích xuất text thấy đúng rồi, giao thôi"* → N1, N4 không hiện trong trích xuất text; chưa soi ảnh render là chưa xong. [N1, N4]
+- *"Chỉ sửa mấy chữ, khỏi chạy normalize"* → định dạng ẩn là của file gốc, không liên quan mình sửa nhiều hay ít. [N2]
+- *"Đoạn trống để cho thoáng"* → VBHC dùng spacing before/after, không dùng đoạn rỗng. [N4]
 
 ### Checklist bắt buộc trước khi trình tham mưu
 ```

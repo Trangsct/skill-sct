@@ -59,7 +59,7 @@ NĐ 281/2026,NĐ,1,5,xp-sct-vn,xp-sct-vn,,,,,,
 NĐ 283/2026,NĐ,2,33,atvsld-sct-vn;xp-sct-vn,atvsld-sct-vn;xp-sct-vn,,10/9/2026,,,,"Xử phạt lao động, ATVSLĐ — chưa có plugin ATVSLĐ riêng"
 NĐ 288/2026,NĐ,1,6,xp-sct-vn,xp-sct-vn,,,,,,
 NĐ 29/2026,NĐ,1,8,bvmt-sct-vn,bvmt-sct-vn;pccc-sct-vn,,,,,,
-NĐ 303/2026,NĐ,3,32,bvmt-sct-vn;kccn-sct-vn;xp-sct-vn,,,15/9/2026,,,,Sửa NĐ 32/2024 về CCN
+NĐ 303/2026,NĐ,3,39,bvmt-sct-vn;kccn-sct-vn;xp-sct-vn,,,15/9/2026,,,,Sửa NĐ 32/2024 về CCN
 NĐ 311/2026,NĐ,2,18,atvsld-sct-vn;xp-sct-vn,xp-sct-vn,06/8/2026,26/9/2026,,,,Sửa NĐ 189/2025
 NĐ 34/2026,NĐ,1,1,kccn-sct-vn,xd-sct-vn,,,,,,
 NĐ 351/2026,NĐ,1,1,dacn-sct-vn,,,,,,,
@@ -82,7 +82,7 @@ NĐ 119/2025,NĐ,1,7,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 NĐ 129/2025,NĐ,1,1,kccn-sct-vn,,,,,,,
 NĐ 131/2025,NĐ,1,4,bvmt-sct-vn,,,,,,,
 NĐ 136/2025,NĐ,2,10,bvmt-sct-vn;qlks-sct-vn,,,,,,,
-NĐ 139/2025,NĐ,6,44,attp-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;pccc-sct-vn;sd-vlncn-sct-vn,kccn-sct-vn,,,,,,
+NĐ 139/2025,NĐ,6,47,attp-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;pccc-sct-vn;sd-vlncn-sct-vn,kccn-sct-vn,,,,,,
 NĐ 140/2025,NĐ,3,22,kho-vlncn-sct-vn;tkm-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NĐ 144/2025,NĐ,3,21,kho-vlncn-sct-vn;tkm-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NĐ 145/2025,NĐ,1,2,kccn-sct-vn,,,,,,,
@@ -129,7 +129,7 @@ NĐ 165/2024,NĐ,1,3,sd-vlncn-sct-vn,,,,,,,
 NĐ 168/2024,NĐ,2,13,hnh-sct-vn;xp-sct-vn,xp-sct-vn,,,,,,Xử phạt giao thông đường bộ (vận chuyển HHNH)
 NĐ 175/2024,NĐ,7,72,kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;qlks-sct-vn;tkm-sct-vn;xd-sct-vn;xp-sct-vn,xd-sct-vn,,,,,,
 NĐ 181/2024,NĐ,8,120,atvsld-sct-vn;hl-vlncn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;sd-vlncn-sct-vn;vbhc-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,,01/01/2025,NĐ 146/2025,,,"Chi tiết Luật 42/2024 (VLNCN, tiền chất); Mẫu 01, 02 huấn luyện"
-NĐ 32/2024,NĐ,7,108,dacn-sct-vn;kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;vbhc-vn;xp-sct-vn,kccn-sct-vn,15/3/2024,01/5/2024,NĐ 303/2026 (15/9/2026),,,"Quản lý CCN; NĐ 303 hạ ngưỡng lấp đầy 50%, thẩm quyền thành lập → UBND xã, 4 loại CCN mới"
+NĐ 32/2024,NĐ,7,115,dacn-sct-vn;kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;vbhc-vn;xp-sct-vn,kccn-sct-vn,15/3/2024,01/5/2024,NĐ 303/2026 (15/9/2026),,,"Quản lý CCN; NĐ 303 hạ ngưỡng lấp đầy 50%, thẩm quyền thành lập → UBND xã, 4 loại CCN mới"
 NĐ 34/2024,NĐ,2,9,hc-sct-vn;hnh-sct-vn,hc-sct-vn,,,,,,
 NĐ 44/2024,NĐ,1,1,kccn-sct-vn,,,,,,,
 NĐ 53/2024,NĐ,1,1,qlks-sct-vn,,,,,,,
@@ -173,7 +173,7 @@ NĐ 152/2020,NĐ,1,1,atvsld-sct-vn,,,,,,,
 NĐ 17/2020,NĐ,1,16,attp-sct-vn,xp-sct-vn,,,,,,
 NĐ 23/2020,NĐ,1,2,qlks-sct-vn,,,,,,,
 NĐ 24/2020,NĐ,1,1,attp-sct-vn,xp-sct-vn,,,,,,
-NĐ 30/2020,NĐ,12,38,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC (vbhc-vn)
+NĐ 30/2020,NĐ,12,40,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC (vbhc-vn)
 NĐ 36/2020,NĐ,3,45,atvsld-sct-vn;qlks-sct-vn;xp-sct-vn,xp-sct-vn,24/3/2020,10/5/2020,NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước),,Dự thảo NĐ thay thế (3/2026),"Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
 NĐ 42/2020,NĐ,1,5,hnh-sct-vn,,,,,,,
 NĐ 45/2020,NĐ,1,1,kccn-sct-vn,,,,,,,
@@ -280,7 +280,7 @@ TT 8/2025,TT,1,12,bvmt-sct-vn,bvmt-sct-vn;qlks-sct-vn,,,,,,
 TT 9/2025,TT,2,4,tkm-sct-vn;xd-sct-vn,qlks-sct-vn,,,,,,
 TT 91/2025,TT,1,1,qlks-sct-vn,,,,,,,
 TT 1/2024,TT,1,1,attp-sct-vn,hc-sct-vn,,,,,,
-TT 14/2024,TT,3,30,kccn-sct-vn;vbhc-vn;xp-sct-vn,bvmt-sct-vn;kccn-sct-vn,,,,,,
+TT 14/2024,TT,3,32,kccn-sct-vn;vbhc-vn;xp-sct-vn,bvmt-sct-vn;kccn-sct-vn,,,,,,
 TT 15/2024,TT,2,3,xp-hc-vlncn-sct-vn;xp-sct-vn,kho-vlncn-sct-vn;qlks-sct-vn;sd-vlncn-sct-vn,,,,,,
 TT 19/2024,TT,1,3,hc-sct-vn,bvmt-sct-vn;hc-sct-vn,,,,,,
 TT 23/2024,TT,9,124,hl-vlncn-sct-vn;hnh-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;vbhc-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,hnh-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,,,,,,
@@ -390,7 +390,7 @@ QĐ 2077/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 2054/QĐ-BCT,QĐ,1,1,hc-sct-vn,,,,,,,
 QĐ 2031/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
 QĐ 11/2026/QĐ-UBND,QĐ,6,22,kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;tkm-sct-vn;xd-sct-vn;xp-sct-vn,bvmt-sct-vn;qlks-sct-vn;xd-sct-vn,,,,,,
-QĐ 16/2026/QĐ-UBND,QĐ,4,24,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;pccc-sct-vn,kccn-sct-vn,,,,,,Quy chế quản lý CCN Lào Cai
+QĐ 16/2026/QĐ-UBND,QĐ,4,29,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;pccc-sct-vn,kccn-sct-vn,,,,,,Quy chế quản lý CCN Lào Cai
 QĐ 20/2026/QĐ-UBND,QĐ,1,3,bvmt-sct-vn,,,,,,,
 QĐ 21/2026/QĐ-TTG,QĐ,2,9,dacn-sct-vn;qlks-sct-vn,bvmt-sct-vn;pccc-sct-vn;qlks-sct-vn,30/4/2026,01/7/2026,,,,"Danh mục 10 nhóm công nghệ + 30 sản phẩm công nghệ chiến lược (SP 25 chế biến sâu khoáng sản, đất hiếm) — dacn-sct-vn ref 11"
 QĐ 42/2026/QĐ-TTG,QĐ,1,17,bvmt-sct-vn,bvmt-sct-vn,,25/9/2026,,,,Danh mục cơ sở kiểm kê KNK (18 cơ sở công thương Lào Cai)
@@ -513,7 +513,7 @@ QĐ 500/QĐ-TTG,QĐ,1,2,quy-hoach-ct-vn,,,,,,,
 QĐ 503/QĐ-BQLCKCN,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 504/QĐ-BNNMT,QĐ,1,2,qlks-sct-vn,,,,,,,
 QĐ 525/QĐ-TTG,QĐ,1,2,kccn-sct-vn,,,,,,,
-QĐ 525/QĐ-UBND,QĐ,7,65,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;tkm-sct-vn;xd-sct-vn,,25/02/2026,,,,,Quy hoạch tỉnh Lào Cai (điều chỉnh)
+QĐ 525/QĐ-UBND,QĐ,7,67,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;tkm-sct-vn;xd-sct-vn,,25/02/2026,,,,,Quy hoạch tỉnh Lào Cai (điều chỉnh)
 QĐ 536/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 555/QĐ-BCT,QĐ,1,8,hnh-sct-vn,,,,,,,
 QĐ 564/QĐ-SCT,QĐ,1,8,hl-vlncn-sct-vn,,,,,,,
@@ -531,6 +531,7 @@ QĐ 699/QĐ-BNNMT,QĐ,1,10,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 QĐ 7/QĐ-BQLCKCN,QĐ,1,7,kccn-sct-vn,bvmt-sct-vn;kccn-sct-vn;pccc-sct-vn,,,,,,
 QĐ 717/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 72/QĐ-TT,QĐ,1,1,qlks-sct-vn,,,,,,,
+QĐ 723/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 763/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 766/QĐ-SCT,QĐ,1,2,sd-vlncn-sct-vn,,,,,,,
 QĐ 767/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,

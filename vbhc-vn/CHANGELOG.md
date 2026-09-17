@@ -1,10 +1,10 @@
-## [2.22.2] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
+## [2.23.1] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
 
 - **Nguồn:** vụ thật 17/9/2026 — rà soát, sửa Thông báo tiếp nhận hồ sơ đề nghị làm chủ đầu tư CCN Đông An do UBND xã Đông Cuông gửi. Sửa xong nội dung, bản render vẫn lỗi trình bày vì định dạng ẩn của file gốc; người dùng phải chỉ lại hai lượt ("- -" hai dấu gạch, thụt lề lệch, khoảng trắng trên mục 5).
 - **reference/phong-tranh-sai-lam.md — Nhóm N (mới)**: N1 `w:numPr` danh sách tự động làm Word sinh thêm dấu gạch, hiển thị "- -" (trích xuất text KHÔNG thấy); N2 `w:ind` lẫn lộn giữa các nhóm đoạn (left=720 / left=0 / không có) gây thụt lề bậc thang; N3 `w:tab` đầu đoạn chồng lên firstLine; N4 đoạn trống thừa giữa thân đẩy đề mục xuống, tạo mảng trắng. Kèm quy trình bắt buộc 4 bước khi nhận file cơ quan khác gửi và 3 câu tự nhủ bắt lỗi sớm. Tiêu đề file → "14 nhóm sai lầm A–N".
 - **scripts/normalize_body.py (mới)**: gỡ `w:numPr`; xóa `w:ind` rồi đặt lại left=0, right=0, firstLine đồng nhất; gỡ `w:tab` đầu run; xóa đoạn trống thừa (giữ 1 đoạn dưới trích yếu + 2 đoạn trước khối ký). Có `--check` (chỉ đếm) và `--indent` (567 hoặc 720). Không dùng `run.text=` nên không làm mất shape `v:line` ở header (bài học vụ Thành Hương 29/7/2026). Chạy thử trên chính file của UBND xã: bắt 3 numPr, 36 ind lệch, 24 tab, 8 đoạn trống thừa; sau chuẩn hóa về 0.
 - **SKILL.md**: thêm `scripts/normalize_body.py` vào danh mục tham chiếu; tóm tắt Nhóm N vào đoạn "Luôn áp dụng…"; đổi A–M → A–N.
-- `plugin.json` → 2.22.2.
+- `plugin.json` → 2.23.1.
 
 ## [2.22.0] - 16/9/2026 — Quy tắc 26, 27: văn bản thể thức Đảng, bộ văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
 

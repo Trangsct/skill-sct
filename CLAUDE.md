@@ -12,7 +12,9 @@ Bot Data360X quét **cả văn bản đi lẫn văn bản đến** của Sở (1
 kho `vlncn-laocai` → *Quet Data360X (may co quan)*), xếp theo lĩnh vực của từng plugin ở đây, tải bản gốc về
 `theo-doi/` của kho **riêng tư** `vlncn-laocai` kèm bản tin `theo-doi/bao-cao/<ngày>.md`.
 
-**Đầu mỗi phiên làm việc với bộ plugin: đọc bản tin mới nhất đó trước.** Mỗi mục trong bản tin ghi rõ văn
+**Đầu mỗi phiên làm việc với bộ plugin: đọc bản tin mới nhất đó trước.** Cùng lúc nạp văn bản pháp luật công khai mà bot đã lọc:
+`python3 scripts/nap_vbpl_data360x.py ../vlncn-laocai/theo-doi/de-xuat-vbpl.csv` (thêm dòng mới vào
+`registry/trang-thai.csv`, không ghi đè dòng đã đối chiếu tay, hiệu lực để trống; sinh lại `vbpl.json`). Mỗi mục trong bản tin ghi rõ văn
 bản thuộc plugin nào và đường dẫn PDF. Đọc PDF → có quy định/số liệu mới thì sửa plugin tương ứng theo quy
 trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn là đã rà.
 

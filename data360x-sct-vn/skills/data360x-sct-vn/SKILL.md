@@ -58,7 +58,16 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
 9. **Một hồ sơ có nhiều tệp.** Trang chi tiết có PDF chính và tab *File đính kèm* (dự thảo .docx, bảng so sánh,
    báo cáo…). Bot tải đủ: tệp gốc `<số>__dkN-<tên>` + bản chữ `.md` cho .docx/.pdf; mục *Tệp đính kèm* ở
    cuối phần đầu tệp `.md` chính. Khi đọc một văn bản xin ý kiến dự thảo, **đọc cả đính kèm** — nội dung
-   thật nằm ở đó, công văn chính thường chỉ vài dòng. Lệnh gửi lúc máy tắt nằm chờ tối đa 24 giờ rồi
+   thật nằm ở đó, công văn chính thường chỉ vài dòng.
+10. **Tài liệu sau mã QR.** Công văn của Bộ, ngành hay chỉ in mã QR *"Đề nghị quét QR để tải tài liệu"*. Bot
+    quét QR trong PDF chính và PDF đính kèm, tải tài liệu ở đường dẫn đó (Google Drive tệp/thư mục, trang web,
+    tệp trực tiếp) thành đính kèm `<số>__qrN-<tên>`, ghi rõ URL trong mục *Tệp đính kèm*. Bot không tải được
+    (thư mục Drive không công khai, trang cần đăng nhập) → mục đó ghi URL trong tệp `qr-khong-tai-duoc.txt`:
+    đưa URL cho người dùng mở bằng tay, **không** đoán nội dung dự thảo.
+11. **Từ khóa rộng bị chặn trần 12 văn bản** — bản tin kết quả ghi "Từ khóa quá rộng, bỏ qua N". Gặp dòng đó
+    thì thu hẹp từ khóa hoặc dùng số ký hiệu, không kết luận "không có".
+12. **Chrome trên máy cơ quan bị đóng giữa lượt** (người dùng đóng nhầm, máy khóa): bot tự mở lại và làm tiếp;
+    `README.md` luôn được ghi kể cả khi lỗi, mục *Lượt lấy bị lỗi giữa chừng* cho biết phải gọi lại phần nào. Lệnh gửi lúc máy tắt nằm chờ tối đa 24 giờ rồi
    bị hủy. Xem `trang-thai/bot-chay.json` (nhịp tim) để biết máy im bao lâu trước khi hứa với người dùng.
 
 ## III. BỐN ĐỘNG TÁC

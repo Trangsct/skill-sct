@@ -11,6 +11,7 @@ nội dung để làm việc; không chép sang kho công khai (`skill-sct`, `cc
 | `theo-doi/<năm>/<số>_<ký hiệu>.md` | bot | Chữ trong văn bản **mang quy định**, phần đầu là số, ngày, đơn vị, người ký, lĩnh vực, URL bản gốc |
 | `theo-doi/<năm>/<số>_<ký hiệu>.pdf` | bot | Chỉ với **bản scan** không có lớp chữ |
 | `theo-doi/<năm>/<số>_<ký hiệu>__dkN-<tên>.*` | bot | Tệp đính kèm thứ N của hồ sơ (dự thảo .docx, bảng biểu…) và bản chữ `.md` của nó |
+| `…__qrN-<tên>.*` | bot | Tài liệu tải từ **mã QR** in trong PDF (dự thảo của Bộ trên Google Drive, cổng của Bộ…); `qr-khong-tai-duoc.txt` = URL bot không mở được |
 | `theo-doi/bao-cao/<ngày>.md` | bot | **Bản tin** một lượt quét: văn bản mới xếp theo plugin; mục "Chưa xếp được vào plugin nào" |
 | `theo-doi/yeu-cau/<ten>/` | bot, khi Claude ra lệnh | Kết quả động tác "Lay van ban theo yeu cau": `README.md` (thấy gì, thiếu gì), `<số>.md`/`.pdf`, **đính kèm `<số>__dkN-<tên gốc>` + bản chữ `.md`**, `<số>.json` (có danh sách `dinh_kem`), `_ket-qua.json` |
 | `theo-doi/_da-gom.json` | bot | `"<số>|<ngày>": "<ngày gom>"` — chống ghi lại |

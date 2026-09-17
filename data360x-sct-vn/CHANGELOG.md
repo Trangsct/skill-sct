@@ -1,3 +1,8 @@
+# data360x-sct-vn 1.0.5 — 17/9/2026 (f)
+
+- Bot tải được **đính kèm trên Data360X** (tab *File đính kèm*): bắt Authorization + khuôn URL tải tệp từ Chrome, danh sách tệp từ JSON `get-attachs-by-id`; 3/3 tệp hồ sơ 9425/UBND-NC (PR ccn-laocai #81–#84). Token bị che trong log.
+- Quy tắc 9 bổ sung: PDF chính bot lưu có thể là đính kèm đầu tiên — đối chiếu số ký hiệu ở từng `.md` trước khi trích dẫn; `tai_duoc: false` → xem log, không đoán. Ref 03 thêm mục 6 (cách tải đính kèm, dòng log để soi).
+
 # data360x-sct-vn 1.0.4 — 17/9/2026 (e)
 
 - Quy tắc 12b: đọc **luồng xử lý** (tab *Thông tin gửi, nhận*) trước khi chọn loại văn bản — Phòng chủ trì → văn bản của Sở, phối hợp → công văn nội bộ Phòng gửi phòng chủ trì, nhận để biết → không soạn; người xử lý chính = người soạn (Bạn chốt 17/9/2026). Bot ghi sẵn `vai_tro_phong`, `nguoi_xu_ly_chinh`, `han_xu_ly`.

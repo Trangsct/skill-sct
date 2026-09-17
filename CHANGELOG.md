@@ -1,3 +1,5 @@
+## 17/9/2026 — data360x-sct-vn 1.0.5: bot tải được đính kèm trên Data360X (Authorization + khuôn URL của Chrome); PDF chính có thể là đính kèm đầu
+
 ## 17/9/2026 — data360x-sct-vn 1.0.4: đọc luồng xử lý (chủ trì / phối hợp) trước khi chọn loại văn bản
 
 ## 17/9/2026 — data360x-sct-vn 1.0.3: tài liệu sau mã QR, trần từ khóa rộng, chịu lỗi Chrome bị đóng

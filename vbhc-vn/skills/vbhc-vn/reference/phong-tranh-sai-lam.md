@@ -1,4 +1,4 @@
-# Phòng tránh 12 nhóm sai lầm tham mưu A–L (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 13 nhóm sai lầm tham mưu A–M (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -223,6 +223,24 @@ Nguồn: Công văn số 9060/UBND-TH ngày 07/9/2026 của Chủ tịch UBND t�
 
 **Cách QA nhanh cho Nhóm L:** `qa_all.py --forbid "căn cứ theo quy định của pháp luật để thực hiện" "thực hiện theo đúng quy định hiện hành" "nghiên cứu các quy định có liên quan" "sẽ báo cáo sau"`; với công văn tham gia ý kiến, đếm số lần xuất hiện "nhất trí" — bằng 0 là chưa có chính kiến.
 
+### Nhóm M — TRẠNG THÁI HỒ SƠ VỤ VIỆC: soạn văn bản cho một bước đã xong (Bạn chốt 17/9/2026, vụ công văn cử cán bộ CCN Châu Quế)
+
+Vụ thật: người dùng gửi công văn mẫu **5348/SCT-CN ngày 28/8/2026** (cử cán bộ tham gia Hội đồng đánh giá lựa chọn chủ đầu tư CCN Phú Thịnh 6 và CCN Xuân Ái) kèm bản dự thảo cùng loại cho **CCN Châu Quế**, yêu cầu sửa cho giống. Bản giao ra đề nghị cử cán bộ *"để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng"*, trong khi **CCN Châu Quế đã có Quyết định thành lập Hội đồng**. Văn bản sai về bản chất, không phải sai câu chữ; người dùng phải nhận lỗi với Lãnh đạo Sở. Dấu hiệu đã có sẵn trong plugin `kccn-sct-vn` (Tờ trình 4299/SCT-TTr ngày 17/7/2026) nhưng không được tra.
+
+**M1 — Xác định bước hiện tại của vụ việc TRƯỚC khi viết.** Văn bản hành chính luôn nằm ở một bước trong chuỗi thủ tục (đề nghị → trình → quyết định → tổ chức thực hiện). Trước khi soạn hoặc sửa, trả lời được: vụ việc này đang ở bước nào, văn bản gần nhất là văn bản gì, số mấy, ngày nào. Chưa trả lời được thì chưa viết.
+
+**M2 — Đã có Quyết định thì không soạn văn bản của bước trước đó.** Đã có quyết định thành lập thì không đề nghị cử người để thành lập; đã ban hành tiêu chí thì không xin ý kiến dự thảo tiêu chí; đã có kết quả thẩm định thì không đôn đốc nộp hồ sơ. Cần thay đổi thì soạn văn bản **kiện toàn, sửa đổi, thay thế**, dẫn thẳng quyết định đã có (không nhắc tờ trình, báo cáo đã hình thành nên nó).
+
+**M3 — Mẫu mượn được, trạng thái không mượn được.** Lấy mẫu của vụ việc khác chỉ để mượn thể thức, văn phong, khối ký. Câu mở đầu, lý do ban hành, mốc thời hạn phải dựng lại theo hồ sơ của vụ việc đích. Hai hồ sơ cùng loại không có nghĩa là cùng bước; ngày tháng trên file mẫu không nói gì về vụ việc đích.
+
+**M4 — Người dùng gửi file là giao việc, không phải xác nhận trạng thái.** Bản dự thảo có thể được soạn từ nhiều tuần trước hoặc do bộ phận khác soạn. File đính kèm không thay thế bước tra trạng thái.
+
+**M5 — Tra trước, hỏi sau, không suy đoán.** Thứ tự: (1) tra trong plugin nghiệp vụ tương ứng — với CCN/KCN chạy `kccn-sct-vn/scripts/trang_thai_cum.py "<tên cụm>"` và đọc ref 39; (2) thiếu dữ kiện thì hỏi người dùng **một câu cụ thể** ("Cụm X đã có Quyết định thành lập Hội đồng chưa, số và ngày bao nhiêu?"); (3) không tự điền số quyết định, không kết luận "chắc đã có"/"chắc chưa có" theo mốc thời gian.
+
+**M6 — Ghi giả định vào phần trao đổi, không đưa vào văn bản.** Khi buộc phải soạn trong lúc chưa xác nhận được trạng thái, nói rõ với người dùng một dòng: bản này soạn theo giả định vụ việc đang ở bước nào, căn cứ văn bản nào, và nếu bước kế tiếp đã xong thì phải đổi hướng.
+
+**Cách QA nhanh cho Nhóm M:** với văn bản mang tính đề nghị làm một bước thủ tục, `qa_all.py --forbid "để có cơ sở tham mưu"` rồi rà lại từng cụm bị bắt — mỗi cụm đó phải tương ứng một bước CHƯA thực hiện. Với CCN/KCN, chạy `trang_thai_cum.py` và dán bậc kết luận vào phần trao đổi.
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]
@@ -238,6 +256,7 @@ Nguồn: Công văn số 9060/UBND-TH ngày 07/9/2026 của Chủ tịch UBND t�
 ☐ Bảng nội dung KHÔNG còn `<w:trHeight>`; không trang nào kết bằng đề mục rồi bỏ trắng    [F]
 ☐ Văn bản cấp UBND tỉnh: việc giao cơ quan khác nằm trong thẩm quyền thật của họ nhưng KHÔNG ghi điều khoản; điều kiện lên cơ quan khác chỉ khi đã giao vai trò cho Sở + có sản phẩm; toàn văn ≤ 4–5 viện dẫn [K]
 ☐ Công văn cho ý kiến: từng nội dung đã ghi rõ nhất trí/không nhất trí kèm lý do; gia hạn ≤ 01 lần, ≤ 10 ngày; hướng dẫn bổ sung hồ sơ liệt kê đủ một lần [L]
+☐ Đã xác định vụ việc đang ở BƯỚC nào, văn bản gần nhất số mấy ngày nào; bước định đề nghị CHƯA thực hiện [M]
 ☐ Đã ghi rõ phần nào "cần xác minh trước khi ký"
 ```
 Một ô không tick được → BÁO LẠI người dùng, không tự bịa/suy đoán.
@@ -272,5 +291,9 @@ Script dò: từ suy đoán [B/C], số văn bản đáng nghi [A], VB hết hi�
 - *"Nội dung này phức tạp, trả lời chung chung 'đề nghị thực hiện theo quy định' cho an toàn"* → DỪNG: đúng câu bị Công văn 9060/UBND-TH chấn chỉnh; chọn nhất trí (kèm điều kiện) hoặc không nhất trí (kèm lý do). [L1]
 - *"Xin gia hạn thêm một lần nữa cho chắc"* → không có lần thứ hai; trả lời phần đã có, phần chưa có nêu lý do và mốc ngày. [L2]
 - *"Ra công văn yêu cầu bổ sung phần thấy ngay, phần còn lại rà sau"* → DỪNG: rà hết hồ sơ rồi mới phát hành, tránh để địa phương đi lại nhiều lần. [L3]
+
+- *"Người dùng đã gửi cả mẫu lẫn dự thảo, cứ thế sửa cho nhanh"* → DỪNG: tra bước hiện tại của vụ việc đích trước; file đính kèm không xác nhận trạng thái. [M4]
+- *"Cụm kia vừa làm bước này nên cụm này chắc cũng vậy"* → DỪNG: mỗi hồ sơ một tiến độ; chạy `trang_thai_cum.py`, thiếu thì hỏi. [M3]
+- *"Viết 'để có cơ sở tham mưu ... thành lập/ban hành ...'"* → kiểm tra việc đó đã có quyết định chưa; có rồi thì chuyển sang văn bản kiện toàn, sửa đổi. [M2]
 
 Đây là lúc kỷ luật này có giá trị nhất — bắt sai lầm ngay khi đang hình thành, không phải sửa sau khi đã sai.

@@ -1,3 +1,10 @@
+## [2.22.1] - 17/9/2026 — Nhóm M: trạng thái hồ sơ vụ việc (vụ công văn cử cán bộ CCN Châu Quế)
+
+- **Nguồn:** vụ thật 17/9/2026 — sửa công văn cử cán bộ tham gia Hội đồng đánh giá lựa chọn chủ đầu tư cho CCN Châu Quế theo mẫu của CCN Phú Thịnh 6, Xuân Ái (CV 5348/SCT-CN ngày 28/8/2026), trong khi CCN Châu Quế đã có Quyết định thành lập Hội đồng. Người dùng phải nhận lỗi với Lãnh đạo Sở.
+- **`reference/phong-tranh-sai-lam.md`:** thêm **Nhóm M** (M1-M6): xác định bước hiện tại của vụ việc trước khi viết; đã có Quyết định thì không soạn văn bản của bước trước đó mà soạn văn bản kiện toàn, sửa đổi, thay thế; mẫu mượn được, trạng thái không mượn được; người dùng gửi file là giao việc chứ không xác nhận trạng thái; tra trước - hỏi sau - không suy đoán; ghi giả định vào phần trao đổi chứ không vào văn bản. Thêm dòng checklist [M], 3 dấu hiệu tự bắt lỗi, cách QA nhanh (`--forbid "để có cơ sở tham mưu"`). Tiêu đề mục đổi thành 13 nhóm A-M.
+- **`SKILL.md`:** cập nhật hai chỗ nêu bộ nhóm sai lầm (A-L → A-M) kèm tóm tắt Nhóm M và chỉ dẫn chạy `kccn-sct-vn/scripts/trang_thai_cum.py` với hồ sơ CCN/KCN.
+- `plugin.json` → 2.22.1.
+
 ## [2.22.0] - 16/9/2026 — Quy tắc 26, 27: văn bản thể thức Đảng, bộ văn bản cá nhân đảng viên sau giám sát; Kính gửi cân giữa; bản xuất bản không chỗ trống
 
 - **reference/van-ban-dang-ca-nhan.md (MỚI)**: thể thức Đảng (tiêu đề ĐẢNG CỘNG SẢN VIỆT NAM + gạch dưới cân, không Quốc hiệu, không số, khối ký NGƯỜI BÁO CÁO); khối Kính gửi thẳng cột bằng tab + hanging indent và cân giữa trang; trích yếu viết hoa chữ đầu, chia dòng cân; mọi đoạn thân lùi 1,27 cm đồng đều; cấm chỗ trống "……" trong bản xuất bản; kết cấu đã duyệt của 4 văn bản (ý kiến phát biểu, báo cáo giải trình tiếp thu, kế hoạch khắc phục bảng 5 cột, báo cáo kết quả khắc phục). Nguồn: Bạn duyệt 4 lượt bộ văn bản sau giám sát của BTV Đảng ủy UBND tỉnh ngày 16/9/2026.

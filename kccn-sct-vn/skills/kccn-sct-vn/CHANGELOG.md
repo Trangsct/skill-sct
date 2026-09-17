@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.37.0] - 17/9/2026 — GATE TRẠNG THÁI HỒ SƠ: bậc thủ tục của từng cụm, bảng cấm ngược, script trang_thai_cum.py
+
+- **Vụ thật 17/9/2026 (CCN Châu Quế):** soạn công văn đề nghị Công an tỉnh cử cán bộ "để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng và Tổ giúp việc" cho CCN Châu Quế, trong khi **cụm đã có Quyết định của UBND tỉnh thành lập Hội đồng**. Mẫu dùng để sửa là Công văn 5348/SCT-CN ngày 28/8/2026 của hai cụm Phú Thịnh 6, Xuân Ái — hai cụm này mới trình lập Hội đồng ngày 04/9/2026, KHÁC bậc với Châu Quế (đã trình từ TTr 4299/SCT-TTr ngày 17/7/2026, ref 17). Người dùng phải nhận lỗi với Lãnh đạo Sở. Nguyên nhân gốc: lấy mẫu cụm A áp cho cụm B mà không tra trạng thái cụm B.
+- **`references/39-gate-trang-thai-ho-so-cum.md` (MỚI):** GATE 4 bước bắt buộc trước khi soạn hoặc sửa văn bản gắn tên một CCN/KCN cụ thể; **bảng 11 bậc thủ tục** thành lập CCN và lựa chọn chủ đầu tư kèm văn bản đặc trưng từng bậc (bậc 5 cử cán bộ - trình lập Hội đồng, bậc 6 QĐ thành lập Hội đồng, bậc 7 QĐ tiêu chí của Chủ tịch Hội đồng, bậc 10 QĐ thành lập cụm); **bảng cấm ngược** (đã có văn bản nào thì cấm soạn văn bản nào và soạn gì thay thế); mẫu câu hỏi người dùng khi thiếu dữ kiện; quy tắc mượn mẫu từ cụm khác (mượn thể thức, không mượn trạng thái).
+- **`scripts/trang_thai_cum.py` (MỚI):** quét references, vi-du-thuc-te, checklists, mau-van-ban; lọc dòng nhắc tên cụm có số văn bản; tách dòng liệt kê nhiều cụm ra khỏi dòng nói riêng về cụm (chỉ dòng riêng mới dùng xếp bậc); kết luận bậc cao nhất, cảnh báo văn bản bị cấm ở bậc đó, cảnh báo dòng "thay thế/đổi vị trí" (hồ sơ làm lại, hai chuỗi chạy song song) và cảnh báo khi dòng mới nhất quá 07 ngày.
+- **`SKILL.md`:** thêm **mục 0 — GATE TRẠNG THÁI HỒ SƠ** đặt trước mọi nghiệp vụ; thêm dòng ref 39 trong bảng reference; thêm Nguyên tắc bất biến số 9 (trạng thái hồ sơ phải tra trước khi soạn).
+- Liên kết: `vbhc-vn` Nhóm M (bản rút gọn cho mọi lĩnh vực). `plugin.json` → 1.37.0.
+
 ## [1.36.0] - 16/9/2026 — ref 38: CCN Khánh Yên Thượng, dự án thứ cấp Nhà máy sản xuất giày da xuất khẩu (QĐ 3319/QĐ-UBND ngày 15/9/2026)
 
 - **`references/38-ccn-khanh-yen-thuong-du-an-giay-da-van-bao.md` (MỚI):** toàn bộ nội dung **Quyết định số 3319/QĐ-UBND ngày 15/9/2026** của Chủ tịch UBND tỉnh Lào Cai (KT. Chủ tịch — Phó Chủ tịch **Phan Trung Bá** ký) chấp thuận **điều chỉnh chủ trương đầu tư lần thứ nhất** dự án *Nhà máy sản xuất giày da xuất khẩu* (cấp lần đầu tại **QĐ 2428/QĐ-UBND ngày 14/7/2026**).

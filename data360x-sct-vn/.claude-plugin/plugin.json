@@ -1,9 +1,18 @@
 {
   "name": "data360x-sct-vn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cánh tay của Claude vào Data360X (csdlvb.laocai.gov.vn) - Sở Công Thương Lào Cai: tra kho văn bản đi/đến đã gom (theo-doi/ kho riêng tư vlncn-laocai), sai bot trên máy cơ quan vào Data360X lấy đúng văn bản đang cần (số ký hiệu, từ khóa), quét mới, tìm văn bản viện dẫn của dự thảo; chờ kết quả rồi đọc tiếp trong cùng phiên. Kèm script tra kho và gọi bot qua GitHub Actions, quy tắc không bịa số/ngày, kho công khai - riêng tư.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
-  "keywords": ["data360x", "csdlvb-laocai", "van-ban-den", "van-ban-di", "bot-may-co-quan", "github-actions", "theo-doi", "lay-van-ban"]
+  "keywords": [
+    "data360x",
+    "csdlvb-laocai",
+    "van-ban-den",
+    "van-ban-di",
+    "bot-may-co-quan",
+    "github-actions",
+    "theo-doi",
+    "lay-van-ban"
+  ]
 }

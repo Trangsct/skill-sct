@@ -49,9 +49,10 @@ for c in "$CASES"/*/; do
   # Chạy không tương tác nên phải cho phép trước các công cụ cần dùng (lần chạy đầu 17/9/2026
   # dừng lại chờ duyệt quyền, không sinh file; --permission-mode bypassPermissions lại bị từ chối
   # khi chạy bằng tài khoản root). Chỉ dùng trong thư mục thử.
-  "$CLAUDE_BIN" -p --permission-mode acceptEdits \
-    --allowedTools "Bash" "Read" "Write" "Edit" "Glob" "Grep" \
-    "Bạn đang chạy một TRƯỜNG HỢP THỬ CẤU TRÚC của plugin vbhc-vn (tests/cases), không phải việc thật.
+  # Đề bài đưa qua STDIN: --allowedTools nhận nhiều đối số nên nếu để đề bài làm đối số vị trí
+  # thì bị nuốt mất (lần chạy 17/9/2026 báo "Input must be provided…"). Danh sách công cụ viết
+  # liền bằng dấu phẩy. Chỉ dùng trong thư mục thử.
+  printf '%s\n' "Bạn đang chạy một TRƯỜNG HỢP THỬ CẤU TRÚC của plugin vbhc-vn (tests/cases), không phải việc thật.
 Plugin nằm tại $PLUGIN. Đề bài:
 
 $de$dau_vao
@@ -63,7 +64,9 @@ Không hỏi lại — tự quyết mọi giả định và ghi giả định v�
 
 Dựng file trên mẫu thật (Chế độ B) hoặc bằng scripts/build_vb.py, chạy qa_all.py, rồi lưu sản phẩm
 .docx vào thư mục $thu_muc. Chỉ giao file .docx, không giao PDF." \
-    >"$thu_muc/nhat-ky.txt" 2>&1
+  | "$CLAUDE_BIN" -p --permission-mode acceptEdits \
+      --allowedTools "Bash,Read,Write,Edit,Glob,Grep" \
+      >"$thu_muc/nhat-ky.txt" 2>&1
 
   san_pham="$(find "$thu_muc" -name '*.docx' -print -quit)"
   if [ -z "$san_pham" ]; then

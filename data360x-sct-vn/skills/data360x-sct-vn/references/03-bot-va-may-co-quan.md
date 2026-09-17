@@ -12,7 +12,7 @@ Chế độ dòng lệnh:
 | Lệnh | Việc |
 |---|---|
 | `--ngay N` (mặc định) | quét đi + đến N ngày: giấy phép → `inbox/`; gom tri thức → `theo-doi/` |
-| `--lay "a; b; c" --ngay N --luu DIR` | lấy văn bản theo yêu cầu (số ký hiệu / từ khóa) |
+| `--lay "a; b; c" --luu DIR` (hoặc `--lay @tệp.txt`) | lấy văn bản theo yêu cầu: gõ từng mục vào **ô tìm kiếm** của cổng, đọc bảng kết quả; `--ngay N` chỉ dùng khi ô tìm không hoạt động (lật trang) |
 | `--tim trich-dan.json --luu DIR` | tìm văn bản viện dẫn của dự thảo |
 | `--giu-phien` | mở trang chủ rồi đóng, giữ phiên SSO |
 | `--dang-nhap` | mở Chrome để người dùng đăng nhập lần đầu (`dang-nhap-lan-dau.bat`) |

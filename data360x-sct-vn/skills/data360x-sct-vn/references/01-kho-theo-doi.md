@@ -74,7 +74,7 @@ bản gốc thì sai bot lấy đích danh.
 
 ## 6. Giới hạn cần nhớ
 
-- Kho bắt đầu từ **20/8/2026**; văn bản cũ hơn phải sai bot với `ngay` lớn (Data360X có từ 2025).
+- Kho bắt đầu từ **20/8/2026**; văn bản cũ hơn thì sai bot lấy đích danh — bot tìm bằng ô tìm kiếm của cổng nên không bị giới hạn ngày (Data360X có văn bản từ 2025).
 - Lớp chữ `.md` là text-layer của PDF: **số, ngày ở trường ký số thường trống trong phần chữ** → lấy ở
   phần đầu tệp. Phụ lục bảng biểu có thể vỡ cột; con số quan trọng thì đối chiếu bản gốc/ảnh trang.
 - `linh_vuc` xếp bằng từ khóa: có thể thiếu hoặc thừa. Tra kho nên dùng cả từ khóa lẫn `--linh-vuc`.

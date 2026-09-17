@@ -79,7 +79,7 @@ Workflow **`lay-van-ban.yml`** — *Lay van ban theo yeu cau (may co quan)*, kho
 | input | ý nghĩa | ví dụ |
 |---|---|---|
 | `tim` | các mục cách nhau bằng `;` — mục có `/` là **số ký hiệu** (khớp đúng), còn lại là **từ khóa** trong trích yếu (không phân biệt dấu) | `5511/SCT-CN; 3226/QĐ-UBND; tiêu chí lựa chọn chủ đầu tư Xuân Ái` |
-| `ngay` | quét bao nhiêu ngày gần nhất (mặc định 60; văn bản cũ hơn thì tăng, tối đa nên 180) | `90` |
+| `ngay` | chỉ dùng khi ô tìm kiếm của cổng không hoạt động (bot phải lật trang): quét bao nhiêu ngày gần nhất, mặc định 60 | `90` |
 | `ten` | tên thư mục kết quả (chữ không dấu, `-`); trống = ngày giờ | `ccn-xuan-ai-cham-diem` |
 
 Gọi (chọn một):
@@ -90,8 +90,11 @@ gh:    gh workflow run lay-van-ban.yml -R Trangsct/vlncn-laocai -f tim="..." -f 
 script: python3 scripts/goi_bot.py lay --tim "..." --ngay 60 --ten "..."   # tự chờ và in README kết quả
 ```
 
+Bot **gõ từng mục vào ô tìm kiếm của Data360X** (Bạn chốt 17/9/2026) rồi đọc bảng kết quả — không lật từng
+trang — nên văn bản cũ mấy năm cũng tìm được, không bị giới hạn bởi `ngay`.
+
 Rồi **chờ**: xem run mới nhất của workflow (MCP `actions_list` `list_workflow_runs`, resource `lay-van-ban.yml`)
-đến khi `status = completed`. Thời gian: 3–5 phút cho 60 ngày, 10–15 phút cho 180 ngày. Không chờ bằng vòng
+đến khi `status = completed`. Thời gian: 2–5 phút cho vài mục (mỗi mục là một lần tìm trên hai bảng đến/đi). Không chờ bằng vòng
 lặp dày; kiểm tra sau 3 phút rồi mỗi 2 phút. Xong thì đọc
 `theo-doi/yeu-cau/<ten>/README.md` (thấy gì, thiếu gì) và từng tệp `.md`/`.pdf` trong đó.
 

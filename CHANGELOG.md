@@ -1,3 +1,8 @@
+## 17/9/2026 — data360x-sct-vn 1.0.0 (PLUGIN MỚI): Data360X là cánh tay của Claude — tra kho văn bản đã gom, sai bot vào Data360X lấy đúng văn bản đang cần
+
+- **data360x-sct-vn 1.0.0**: SKILL.md (7 quy tắc, 4 động tác, bảng khi nào tự dùng), 4 reference (kho `theo-doi/`, 5 workflow và cách gọi MCP/gh/script, bot và máy cơ quan, 5 kịch bản mẫu), 2 script (`tim_trong_kho.py` tra danh mục; `goi_bot.py` gửi lệnh và chờ kết quả).
+- Kèm theo: bot `--lay "số; từ khóa"` + chịu được Chrome bị đóng khi chờ đăng nhập (ccn-laocai); workflow `lay-van-ban.yml` (lấy văn bản theo yêu cầu) và `giu-phien.yml` (08h00 thứ Hai–Bảy, sau vụ lượt quét 16/9 đổ vì phiên hết hạn) ở vlncn-laocai.
+
 ## [vbhc-vn 2.24.0] - 16–17/9/2026 — Chuyển quy tắc soạn thảo sang kiểm tra bằng máy + bộ kiểm thử hồi quy
 
 - **17/9:** `qa_all.py` PASS 26/26 mẫu thật sau khi hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo mẫu thật (16 file lỗi); kho VBPL nạp 43 văn bản công khai từ Data360X (`scripts/nap_vbpl_data360x.py`), tổng 105; lớp 2 chạy được bằng `claude` CLI; gộp Quy tắc 28, Nhóm M–N của 2.22.1–2.23.1.

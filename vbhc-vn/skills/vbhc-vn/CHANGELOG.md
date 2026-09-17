@@ -1,3 +1,11 @@
+## [2.23.0] - 17/9/2026 — Quy tắc 28: căn trang hợp đồng bằng giãn dòng Exactly 17–21pt + scripts/fit_pages.py
+
+- **Nguồn:** bộ 04 hợp đồng tư vấn ngày 17/9/2026 (QHCT 1/500 và BCNCKT, TKBVTC CCN Mông Sơn; BCNCKT KCN Minh Quân mở rộng) — bản đầu để khối chữ ký trơ trọi một trang, trang cuối gần như trắng.
+- **SKILL.md — Quy tắc 28 MỚI:** phạm vi chỉ hợp đồng, phụ lục hợp đồng và văn bản dài (VBHC theo NĐ 30/2020 và báo cáo định kỳ của Phòng vẫn giãn dòng đơn); mức hợp lệ 340–420 dxa `lineRule="exact"` (17–21pt), dưới 17pt cắt dấu tiếng Việt; cách dò mức theo số trang và độ đầy của trang cuối; gán keepNext/keepLines cho đề mục "Điều N." và keepNext cho các đoạn cuối trước bảng ký; bắt buộc sửa lại câu "Hợp đồng gồm … trang" sau khi đổi giãn dòng; QA bằng ảnh render trang đầu, trang cuối.
+- **scripts/fit_pages.py (MỚI):** `sweep` dò các mức 17 / 17,5 / 18 / 19 / 20 / 21pt và in số trang; `apply <pt> -o <file>` xuất bản đã chọn; tự gán keepNext/keepLines; chặn mức ngoài khoảng 17–21pt; nhắc sửa số trang sau khi xuất.
+- Mức đã dùng cho bộ 4 hợp đồng: QHCT Mông Sơn 19pt, BCNCKT Mông Sơn 18pt, TKBVTC Mông Sơn 17,5pt, BCNCKT Minh Quân mở rộng 17,5pt.
+- `plugin.json` → 2.23.0.
+
 ## [2.22.1] - 17/9/2026 — Nhóm M: trạng thái hồ sơ vụ việc (vụ công văn cử cán bộ CCN Châu Quế)
 
 - **Nguồn:** vụ thật 17/9/2026 — sửa công văn cử cán bộ tham gia Hội đồng đánh giá lựa chọn chủ đầu tư cho CCN Châu Quế theo mẫu của CCN Phú Thịnh 6, Xuân Ái (CV 5348/SCT-CN ngày 28/8/2026), trong khi CCN Châu Quế đã có Quyết định thành lập Hội đồng. Người dùng phải nhận lỗi với Lãnh đạo Sở.

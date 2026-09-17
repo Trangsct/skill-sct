@@ -5,7 +5,7 @@
 1. Tra kho: `python3 scripts/tim_trong_kho.py "Xuân Ái" --tu 01/09/2026` → thấy GM 5615/GM-HĐ, QĐ 3226/QĐ-UBND
    (mục lục), 5928/SXD-PTĐT, 8782/SNNMT-QLĐĐ, 561/PG-VBNB2026 (có `.md`).
 2. Thiếu bản gốc QĐ 3226 và Biên bản họp (nếu đã phát hành) → sai bot:
-   `tim = "3226/QĐ-UBND; biên bản họp Hội đồng Xuân Ái; kết quả lựa chọn chủ đầu tư Xuân Ái"`, `ngay = 30`,
+   `tim = "3226/QĐ-UBND; Xuân Ái"` (từ khóa ngắn — chỉ tên riêng; bot lọc kết quả, Claude chọn văn bản cần),
    `ten = xuan-ai-cham-diem`.
 3. Chờ ~5 phút, đọc `theo-doi/yeu-cau/xuan-ai-cham-diem/README.md`. Không thấy biên bản → ghi rõ trong báo cáo
    gửi người dùng: "Data360X chưa có Biên bản/Thông báo kết quả tính đến <ngày giờ quét>".
@@ -38,7 +38,14 @@ OCR của mô hình khác để ghi số/ngày mà không soi lại ảnh.
 3. Chạy `python3 scripts/nap_vbpl_data360x.py ../vlncn-laocai/theo-doi/de-xuat-vbpl.csv` để nạp VBPL công khai.
 4. Không có gì mới → một dòng: "Đã rà bản tin <ngày>, không có văn bản làm đổi plugin nào."
 
-## 5. Soát dự thảo có viện dẫn
+## 5. "Tham gia ý kiến dự thảo Thông tư của Bộ Xây dựng" (hồ sơ nhiều tệp)
+
+1. Sai bot: `tim = "9500/UBND-XD"` (công văn của UBND tỉnh chuyển văn bản Bộ). Bot tải công văn chính **và**
+   5 tệp đính kèm (dự thảo Tờ trình, dự thảo Thông tư, báo cáo tổng kết, bảng so sánh, đánh giá TTHC).
+2. Đọc `9500_UBND-XD.md` → mục *Tệp đính kèm* → mở `9500_UBND-XD__dk2-…Thong-tu….md` (bản chữ của .docx).
+3. Soạn văn bản góp ý theo `vbhc-vn`; dẫn đúng tên tệp dự thảo và ngày bản dự thảo ghi trong tên tệp.
+
+## 6. Soát dự thảo có viện dẫn
 
 1. Thả `.docx` vào `du-thao/` (kho vlncn-laocai) → workflow *Soat du thao* sinh `trich-dan.json`.
 2. Gọi `tim-van-ban.yml` với `ho_so` = tên thư mục → `du-thao/<ho_so>/kem-theo/`.

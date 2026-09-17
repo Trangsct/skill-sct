@@ -50,7 +50,15 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
    bản gốc** sang.
 6. **Không sửa lịch, không tạo workflow mới, không đổi nhãn runner** nếu người dùng không yêu cầu. Cần thêm
    khả năng cho bot thì sửa `bot-data360x.py` ở kho `ccn-laocai` theo quy trình PR.
-7. Bot cần **máy cơ quan đang bật và đã đăng nhập Windows**. Lệnh gửi lúc máy tắt nằm chờ tối đa 24 giờ rồi
+7. Bot cần **máy cơ quan đang bật và đã đăng nhập Windows**.
+8. **Từ khóa NGẮN** (Bạn chốt 17/9/2026): số văn bản chỉ ghi phần số hoặc số/ký hiệu (`3226/QĐ-UBND`), không
+   kèm mã đuôi; tra về một dự án, doanh nghiệp, địa danh thì **chỉ tên riêng** — `Xuân Ái`, `PH Group`, `Châu Quế`
+   — không viết "cụm công nghiệp Xuân Ái" vì cổng khớp chuỗi đúng từng chữ, còn văn bản viết CCN/Cụm CN/KCN mỗi
+   nơi một kiểu. Bot cũng tự bỏ các chữ chung ở đầu và chỉ gõ phần số, nhưng đừng trông vào đó.
+9. **Một hồ sơ có nhiều tệp.** Trang chi tiết có PDF chính và tab *File đính kèm* (dự thảo .docx, bảng so sánh,
+   báo cáo…). Bot tải đủ: tệp gốc `<số>__dkN-<tên>` + bản chữ `.md` cho .docx/.pdf; mục *Tệp đính kèm* ở
+   cuối phần đầu tệp `.md` chính. Khi đọc một văn bản xin ý kiến dự thảo, **đọc cả đính kèm** — nội dung
+   thật nằm ở đó, công văn chính thường chỉ vài dòng. Lệnh gửi lúc máy tắt nằm chờ tối đa 24 giờ rồi
    bị hủy. Xem `trang-thai/bot-chay.json` (nhịp tim) để biết máy im bao lâu trước khi hứa với người dùng.
 
 ## III. BỐN ĐỘNG TÁC
@@ -78,7 +86,7 @@ Workflow **`lay-van-ban.yml`** — *Lay van ban theo yeu cau (may co quan)*, kho
 
 | input | ý nghĩa | ví dụ |
 |---|---|---|
-| `tim` | các mục cách nhau bằng `;` — mục có `/` là **số ký hiệu** (khớp đúng), còn lại là **từ khóa** trong trích yếu (không phân biệt dấu) | `5511/SCT-CN; 3226/QĐ-UBND; tiêu chí lựa chọn chủ đầu tư Xuân Ái` |
+| `tim` | các mục cách nhau bằng `;` — mục có `/` là **số ký hiệu** (khớp đúng), còn lại là **từ khóa ngắn** trong trích yếu (không phân biệt dấu; tên riêng, không kèm chữ chung) | `5511/SCT-CN; 3226/QĐ-UBND; Xuân Ái; PH Group` |
 | `ngay` | chỉ dùng khi ô tìm kiếm của cổng không hoạt động (bot phải lật trang): quét bao nhiêu ngày gần nhất, mặc định 60 | `90` |
 | `ten` | tên thư mục kết quả (chữ không dấu, `-`); trống = ngày giờ | `ccn-xuan-ai-cham-diem` |
 

@@ -10,8 +10,9 @@ nội dung để làm việc; không chép sang kho công khai (`skill-sct`, `cc
 | `theo-doi/danh-muc-<năm>.json` | bot, mỗi lượt quét | **Mục lục MỌI văn bản đi + đến** quét được (kể cả loại chỉ ghi mục lục). Mảng các bản ghi, mới nhất ở cuối |
 | `theo-doi/<năm>/<số>_<ký hiệu>.md` | bot | Chữ trong văn bản **mang quy định**, phần đầu là số, ngày, đơn vị, người ký, lĩnh vực, URL bản gốc |
 | `theo-doi/<năm>/<số>_<ký hiệu>.pdf` | bot | Chỉ với **bản scan** không có lớp chữ |
+| `theo-doi/<năm>/<số>_<ký hiệu>__dkN-<tên>.*` | bot | Tệp đính kèm thứ N của hồ sơ (dự thảo .docx, bảng biểu…) và bản chữ `.md` của nó |
 | `theo-doi/bao-cao/<ngày>.md` | bot | **Bản tin** một lượt quét: văn bản mới xếp theo plugin; mục "Chưa xếp được vào plugin nào" |
-| `theo-doi/yeu-cau/<ten>/` | bot, khi Claude ra lệnh | Kết quả động tác "Lay van ban theo yeu cau": `README.md` (thấy gì, thiếu gì), `<số>.md`/`.pdf`, `<số>.json`, `_ket-qua.json` |
+| `theo-doi/yeu-cau/<ten>/` | bot, khi Claude ra lệnh | Kết quả động tác "Lay van ban theo yeu cau": `README.md` (thấy gì, thiếu gì), `<số>.md`/`.pdf`, **đính kèm `<số>__dkN-<tên gốc>` + bản chữ `.md`**, `<số>.json` (có danh sách `dinh_kem`), `_ket-qua.json` |
 | `theo-doi/_da-gom.json` | bot | `"<số>|<ngày>": "<ngày gom>"` — chống ghi lại |
 | `theo-doi/de-xuat-vbpl.csv` | workflow *De xuat VBPL* (13h30 thứ Tư) | Văn bản pháp luật **công khai** (NĐ, TT, QĐ-TTg, QĐ-UBND…) lọc từ danh mục, để nạp vào `registry/trang-thai.csv` của `skill-sct` |
 | `theo-doi/README.md` | người | Giải thích thư mục |

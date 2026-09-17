@@ -1,3 +1,7 @@
+# data360x-sct-vn 1.0.4 — 17/9/2026 (e)
+
+- Quy tắc 12b: đọc **luồng xử lý** (tab *Thông tin gửi, nhận*) trước khi chọn loại văn bản — Phòng chủ trì → văn bản của Sở, phối hợp → công văn nội bộ Phòng gửi phòng chủ trì, nhận để biết → không soạn; người xử lý chính = người soạn (Bạn chốt 17/9/2026). Bot ghi sẵn `vai_tro_phong`, `nguoi_xu_ly_chinh`, `han_xu_ly`.
+
 # data360x-sct-vn 1.0.3 — 17/9/2026 (d)
 
 - Quy tắc 10: tài liệu sau mã QR — bot quét QR trong PDF, tải từ Google Drive / trang web; không tải được thì đưa URL cho người dùng, không đoán.

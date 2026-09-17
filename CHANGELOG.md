@@ -1,3 +1,5 @@
+## 17/9/2026 — data360x-sct-vn 1.0.4: đọc luồng xử lý (chủ trì / phối hợp) trước khi chọn loại văn bản
+
 ## 17/9/2026 — data360x-sct-vn 1.0.3: tài liệu sau mã QR, trần từ khóa rộng, chịu lỗi Chrome bị đóng
 
 ## 17/9/2026 — data360x-sct-vn 1.0.2: từ khóa ngắn (tên riêng), hồ sơ nhiều tệp — bot tải đủ đính kèm, trích chữ .docx

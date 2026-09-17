@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.85"
+    "version": "4.11.86"
   },
   "plugins": [
     {
@@ -144,7 +144,7 @@
       "name": "data360x-sct-vn",
       "source": "./data360x-sct-vn",
       "description": "Cánh tay của Claude vào Data360X (csdlvb.laocai.gov.vn) - Sở Công Thương Lào Cai: tra kho văn bản đi/đến đã gom (theo-doi/ kho riêng tư vlncn-laocai), sai bot trên máy cơ quan vào Data360X lấy đúng văn bản đang cần (số ký hiệu, từ khóa), quét mới, tìm văn bản viện dẫn của dự thảo; chờ kết quả rồi đọc tiếp trong cùng phiên. Kèm script tra kho và gọi bot qua GitHub Actions, quy tắc không bịa số/ngày, kho công khai - riêng tư.",
-      "version": "1.0.3"
+      "version": "1.0.4"
     }
   ]
 }

@@ -46,6 +46,10 @@ nội dung để làm việc; không chép sang kho công khai (`skill-sct`, `cc
   (chỉ máy trong nước đã đăng nhập mở được) hoặc sai bot (SKILL.md động tác 2).
 - `so_ky_hieu` có thể **rỗng** (bản cam kết, phụ lục doanh nghiệp gửi lên) — tệp khi đó tên `vb-<id>`.
 - `nguoi_ky` thường rỗng ở văn bản đến; **không suy ra người ký từ chức danh**.
+- `luong_xu_ly` (chỉ ở hồ sơ bot lấy theo yêu cầu / gom từ 17/9/2026): mảng các bước `{nguoi gui, don vi gui,
+  thoi gian, nguoi nhan, don vi nhan, hanh dong, ngay qua han, trang thai}` chép từ tab *Thông tin gửi, nhận*;
+  `vai_tro_phong` = chủ trì / phối hợp / nhận để biết / không có; `nguoi_xu_ly_chinh`; `han_xu_ly`. Cùng nội dung
+  in ở đầu tệp `.md` (mục *Luồng xử lý*).
 
 ## 3. Bản tin `bao-cao/<ngày>.md`
 

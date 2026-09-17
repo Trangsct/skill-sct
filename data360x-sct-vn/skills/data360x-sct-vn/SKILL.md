@@ -66,6 +66,14 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
     đưa URL cho người dùng mở bằng tay, **không** đoán nội dung dự thảo.
 11. **Từ khóa rộng bị chặn trần 12 văn bản** — bản tin kết quả ghi "Từ khóa quá rộng, bỏ qua N". Gặp dòng đó
     thì thu hẹp từ khóa hoặc dùng số ký hiệu, không kết luận "không có".
+12b. **Đọc luồng xử lý trước khi chọn loại văn bản** (Bạn chốt 17/9/2026). Mỗi hồ sơ bot lấy có mục *Luồng xử lý*
+    (từ tab *Thông tin gửi, nhận* trên Data360X): ai gửi ai, hành động *Xử lý chính / Phối hợp / Nhận để biết*,
+    hạn xử lý. Bot đã suy sẵn vai trò của Phòng Công nghiệp:
+    - **Chủ trì** (Trưởng phòng nhận *Xử lý chính*) → soạn **văn bản của Sở** (công văn, tờ trình… Lãnh đạo Sở ký);
+      người xử lý chính trong luồng là **người soạn** — ghi vào dòng `Lưu: VT, CN(Tên)`.
+    - **Phối hợp** → chuyên viên soạn **công văn nội bộ của Phòng** gửi phòng chủ trì (mẫu vbhc-vn template 08).
+    - **Nhận để biết** → không soạn, chỉ theo dõi. Phòng không có trong luồng → hỏi người dùng.
+    Hạn xử lý trong luồng là hạn **của Sở**; hạn ghi trong công văn của Bộ/tỉnh là hạn gửi đi — lấy hạn sớm hơn.
 12. **Chrome trên máy cơ quan bị đóng giữa lượt** (người dùng đóng nhầm, máy khóa): bot tự mở lại và làm tiếp;
     `README.md` luôn được ghi kể cả khi lỗi, mục *Lượt lấy bị lỗi giữa chừng* cho biết phải gọi lại phần nào. Lệnh gửi lúc máy tắt nằm chờ tối đa 24 giờ rồi
    bị hủy. Xem `trang-thai/bot-chay.json` (nhịp tim) để biết máy im bao lâu trước khi hứa với người dùng.

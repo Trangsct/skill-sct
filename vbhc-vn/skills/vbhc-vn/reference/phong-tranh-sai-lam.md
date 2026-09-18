@@ -252,6 +252,8 @@ Bối cảnh: nhận file .docx của UBND cấp xã (hoặc doanh nghiệp) đ�
 
 Hai lỗi thể thức đi kèm hay gặp ở file cấp xã: tiêu ngữ dùng gạch nối thay en dash (chạy `scripts/fix_quoc_hieu.py`); một vài đề mục mang style lạc của mẫu cũ (ví dụ style "04 Cơ quan ban hành") — thay bằng cách clone đoạn đề mục cùng cấp trong chính file đó, không tự set style theo tên.
 
+**Ba vùng script KHÔNG được đụng vào** (vá 17/9/2026 sau khi chạy lại trên chính hai văn bản đã giao): đoạn trống kề sát một bảng (xóa đi thì bảng dính vào đoạn chữ, vỡ khối Nơi nhận - chữ ký, vỡ văn bản nhiều phụ lục); đoạn không có chữ nhưng chứa shape, ảnh hoặc ngắt trang (đường kẻ dưới trích yếu nằm trong một đoạn rỗng — xóa là mất đường kẻ); khối "Kính gửi" có lề trái riêng theo mẫu thật cùng dòng trống ngay dưới khối.
+
 **Quy trình bắt buộc khi nhận file người khác gửi (4 bước):**
 1. `python3 scripts/normalize_body.py <file>.docx --check` — đếm numPr, ind lệch, tab, đoạn trống thừa. Có số khác 0 nghĩa là file gốc có định dạng ẩn, không được sửa nội dung rồi giao ngay.
 2. Sửa nội dung (text, đề mục, căn cứ) theo yêu cầu.

@@ -9,7 +9,8 @@ Xu ly 4 loi lap lai khi nhan file cua UBND cap xa / doanh nghiep:
               -> xoa het, dat left=0, right=0, firstLine=1cm dong nhat.
   3. w:tab  — tab thua o dau doan (lui dau dong chong len firstLine).
   4. doan trong thua nam giua than van ban -> xoa, chi giu 1 doan trong dau
-     (duoi trich yeu) va 2 doan trong cuoi (truoc khoi Noi nhan - chu ky).
+     (duoi trich yeu), 2 doan trong cuoi va MOI doan trong ke sat mot bang
+     (khoi Noi nhan - chu ky, bang noi dung, van ban nhieu phu luc).
 
 KHONG dung run.text = ... nen khong lam mat shape v:line trong header.
 Khong dong vao bang (bang giu nguyen dinh dang goc).
@@ -43,12 +44,32 @@ def is_title(p):
     return pf.alignment is not None and int(pf.alignment) == 1   # CENTER
 
 
+def khoi_kinh_gui(doc):
+    """Cac doan thuoc khoi 'Kinh gui' — thut le rieng theo mau that, KHONG chuan hoa."""
+    ids, dang = set(), False
+    for p in doc.paragraphs:
+        t = p.text.strip()
+        if t.startswith('Kính gửi'):
+            ids.add(id(p._p))
+            dang = True
+            continue
+        if dang:
+            li = p.paragraph_format.left_indent
+            if not t or (li is not None and li > 0):
+                ids.add(id(p._p))          # dong tiep theo cua khoi + 1 dong trong duoi khoi
+                if t:
+                    continue
+            dang = False
+    return ids
+
+
 def normalize(path, out=None, indent=567, check=False):
     doc = Document(path)
     stat = {'numPr': 0, 'ind': 0, 'tab': 0, 'empty': 0}
+    kg = khoi_kinh_gui(doc)
 
     for p in doc.paragraphs:
-        if not p.text.strip() or is_title(p):
+        if not p.text.strip() or is_title(p) or id(p._p) in kg:
             continue
         pPr = p._p.get_or_add_pPr()
         for e in pPr.findall(qn('w:numPr')):
@@ -72,8 +93,35 @@ def normalize(path, out=None, indent=567, check=False):
             pf.right_indent = Twips(0)
             pf.first_line_indent = Twips(indent)
 
-    empties = [q for q in doc.paragraphs if not q.text.strip()]
-    thua = empties[1:-2] if len(empties) > 3 else []
+    def rong(q):
+        """doan RONG that: khong chu VA khong chua shape/anh/ngat trang"""
+        if q.text.strip():
+            return False
+        for tag in ('w:pict', 'w:drawing', 'w:br', 'w:object'):
+            if q._p.find('.//' + qn(tag)) is not None:
+                return False
+        if q._p.find('.//{http://schemas.openxmlformats.org/markup-compatibility/2006}AlternateContent') is not None:
+            return False
+        return True
+
+    empties = [q for q in doc.paragraphs if rong(q)]
+    # doan trong ke sat mot bang (khoi Noi nhan - chu ky, bang noi dung) phai giu:
+    # xoa di thi bang dinh vao doan chu, vo bo cuc khoi ky.
+    def sat_bang(q):
+        for sib in (q._p.getprevious(), q._p.getnext()):
+            if sib is not None and sib.tag == qn('w:tbl'):
+                return True
+        return False
+
+    giu = set()
+    if empties:
+        giu.add(id(empties[0]._p))
+    for q in empties[-2:]:
+        giu.add(id(q._p))
+    for q in empties:
+        if sat_bang(q) or id(q._p) in kg:
+            giu.add(id(q._p))
+    thua = [q for q in empties if id(q._p) not in giu]
     stat['empty'] = len(thua)
     if not check:
         for q in thua:

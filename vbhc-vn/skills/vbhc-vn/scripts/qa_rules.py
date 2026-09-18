@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.23.0).
+"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.24.0).
 
 Mỗi quy tắc là một hàm `rule_Rnn(doc, ctx)` trả về danh sách `Finding`.
 Docstring của mỗi hàm ghi: mã quy tắc, nội dung quy tắc, nguồn, mức FAIL/WARN.
@@ -917,6 +917,94 @@ def rule_R15(doc, ctx) -> list[Finding]:
 
 # ────────────────────────── Bảng đăng ký ──────────────────────────
 
+def _con_lai_trong_bang(doc, loc: str) -> str:
+    """Chữ ở mọi ô KHÁC của bảng chứa 'Kính gửi' (khi nơi nhận bị đặt xuống hàng dưới)."""
+    m = re.match(r"bảng (\d+) ô \[(\d+),(\d+)\]", loc)
+    if not m:
+        return ""
+    ti, ri, ci = (int(x) for x in m.groups())
+    try:
+        bang = doc.tables[ti]
+    except IndexError:
+        return ""
+    ra = []
+    for r_i, row in enumerate(bang.rows):
+        for c_i, cell in enumerate(row.cells):
+            if (r_i, c_i) == (ri, ci):
+                continue
+            t = nfc(cell.text).strip()
+            if t and not re.match(r"^Kính\s+gửi", t):
+                ra.append(t)
+    return "\n".join(ra)
+
+
+def _khoi_kinh_gui(doc, ctx) -> tuple[str, str, list[str]] | None:
+    """Trả (vị trí, phần chữ NẰM CÙNG dòng/ô với 'Kính gửi', danh sách nơi nhận của cả khối).
+
+    Mẫu thật của Sở có ba cách trình bày khối này, cùng phải nhận ra được:
+      - một paragraph 'Kính gửi: <một cơ quan>.'                      (một nơi nhận)
+      - bảng 2 ô: ô trái 'Kính gửi:', ô phải danh sách '- A;' '- B.'   (nhiều nơi nhận)
+      - một ô/paragraph 'Kính gửi:' rồi danh sách ngay dưới trong cùng ô, hoặc ở các
+        paragraph tiếp theo (mẫu của UBND tỉnh, cong-van-xin-y-kien-cac-co-quan…).
+    """
+    for i, (loc, t) in enumerate(ctx.texts):
+        s0 = nfc(t).strip()
+        if not re.match(r"^Kính\s+gửi", s0):
+            continue
+        cung_cho = re.sub(r"^Kính\s+gửi\s*:?\s*", "", s0).strip()
+        muc = [x.strip().strip(";.").strip()
+               for x in re.split(r"[;\n]", cung_cho) if x.strip().strip(";.-").strip()]
+        if not muc:
+            # danh sách nằm ở ô kế bên (bảng) hoặc các đoạn tiếp theo
+            nguon = "\n".join(nfc(x.text) for x in _o_ke_ben(doc, loc))
+            if not nguon.strip():
+                nguon = _con_lai_trong_bang(doc, loc)
+            if not nguon.strip():
+                gom = []
+                for _, t2 in ctx.texts[i + 1:i + 8]:
+                    s2 = nfc(t2).strip()
+                    if not s2:
+                        if gom:
+                            break
+                        continue
+                    if not s2.startswith("-"):
+                        break
+                    gom.append(s2)
+                nguon = "\n".join(gom)
+            muc = [x.strip().strip(";.").strip()
+                   for x in re.split(r"[;\n]", nguon) if x.strip().strip(";.-").strip()]
+        return loc, cung_cho, muc
+    return None
+
+
+def rule_R16(doc, ctx) -> list[Finding]:
+    """R16 — Khối Kính gửi: gửi MỘT cơ quan thì phải nằm trên cùng một dòng.
+
+    Quy tắc: gửi một cơ quan → 'Kính gửi: <tên cơ quan>.' trên CÙNG MỘT DÒNG; gửi nhiều cơ quan
+    → 'Kính gửi:' tách lên trên, danh sách '- A;' … '- Z.' xuống dưới. Khối Kính gửi phải có nơi
+    nhận, không được để trống.
+    Nguồn: Nhóm G, Bạn chốt 18/9/2026 (bản xuất ra ngày 18/9/2026 để 'Kính gửi:' một dòng, tên
+    cơ quan một dòng dù chỉ gửi Công an tỉnh).
+    Mức: FAIL.
+    """
+    kg = _khoi_kinh_gui(doc, ctx)
+    if kg is None:
+        return []
+    loc, cung_cho, muc = kg
+    if not muc:
+        return [Finding("R16", FAIL, loc, "Kính gửi:",
+                        "Khối Kính gửi chưa có nơi nhận — ghi tên cơ quan nhận văn bản.")]
+    # Dấu hiệu chắc chắn sai: 'Kính gửi:' đứng một mình, dưới/bên nó là ĐÚNG MỘT nơi nhận viết
+    # trơn (không có gạch đầu dòng) — tức một cơ quan mà vẫn tách hai dòng. Mọi mẫu thật trình bày
+    # dạng danh sách đều mở đầu bằng '- ', nên điều kiện này không bắt nhầm mẫu thật.
+    if not cung_cho and len(muc) == 1 and not muc[0].lstrip().startswith("-"):
+        return [Finding(
+            "R16", FAIL, loc, cut(f"Kính gửi: / {muc[0]}"),
+            "Chỉ gửi một cơ quan thì 'Kính gửi: " + cut(muc[0], 40) + ".' phải nằm trên CÙNG MỘT "
+            "dòng (xóa bảng/đoạn tách dòng); tách dòng chỉ dùng khi gửi nhiều cơ quan.")]
+    return []
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -933,6 +1021,7 @@ RULES = [
     ("R13", rule_R13),
     ("R14", rule_R14),
     ("R15", rule_R15),
+    ("R16", rule_R16),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

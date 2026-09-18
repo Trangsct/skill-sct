@@ -9,8 +9,8 @@ Xu ly 4 loi lap lai khi nhan file cua UBND cap xa / doanh nghiep:
               -> xoa het, dat left=0, right=0, firstLine=1cm dong nhat.
   3. w:tab  — tab thua o dau doan (lui dau dong chong len firstLine).
   4. doan trong thua nam giua than van ban -> xoa, chi giu 1 doan trong dau
-     (duoi trich yeu), 2 doan trong cuoi va MOI doan trong ke sat mot bang
-     (khoi Noi nhan - chu ky, bang noi dung, van ban nhieu phu luc).
+     (duoi trich yeu), 1 doan trong cuoi (truoc khoi ky) va MOI doan trong
+     ke sat mot bang (khoi Noi nhan - chu ky, bang noi dung, nhieu phu luc).
 
 KHONG dung run.text = ... nen khong lam mat shape v:line trong header.
 Khong dong vao bang (bang giu nguyen dinh dang goc).
@@ -116,7 +116,7 @@ def normalize(path, out=None, indent=567, check=False):
     giu = set()
     if empties:
         giu.add(id(empties[0]._p))
-    for q in empties[-2:]:
+    for q in empties[-1:]:
         giu.add(id(q._p))
     for q in empties:
         if sat_bang(q) or id(q._p) in kg:

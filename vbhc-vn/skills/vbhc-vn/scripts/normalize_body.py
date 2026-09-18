@@ -9,7 +9,7 @@ Xu ly 4 loi lap lai khi nhan file cua UBND cap xa / doanh nghiep:
               -> xoa het, dat left=0, right=0, firstLine=1cm dong nhat.
   3. w:tab  — tab thua o dau doan (lui dau dong chong len firstLine).
   4. doan trong thua nam giua than van ban -> xoa, chi giu 1 doan trong dau
-     (duoi trich yeu) va 2 doan trong cuoi (truoc khoi Noi nhan - chu ky).
+     (duoi trich yeu) va 1 doan trong cuoi (truoc khoi Noi nhan - chu ky).
 
 KHONG dung run.text = ... nen khong lam mat shape v:line trong header.
 Khong dong vao bang (bang giu nguyen dinh dang goc).
@@ -73,7 +73,9 @@ def normalize(path, out=None, indent=567, check=False):
             pf.first_line_indent = Twips(indent)
 
     empties = [q for q in doc.paragraphs if not q.text.strip()]
-    thua = empties[1:-2] if len(empties) > 3 else []
+    # Giu 1 doan trong duoi trich yeu + 1 doan trong truoc khoi ky (Ban chot 18/9/2026:
+    # khoi ky cach than dung MOT dong trong).
+    thua = empties[1:-1] if len(empties) > 2 else []
     stat['empty'] = len(thua)
     if not check:
         for q in thua:

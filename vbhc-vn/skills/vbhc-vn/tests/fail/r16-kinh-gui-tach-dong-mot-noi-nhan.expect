@@ -1,0 +1,5 @@
+# File lỗi THẬT — bản công văn xuất ra ngày 18/9/2026 mà Bạn phát hiện lỗi trình bày:
+# chỉ gửi một cơ quan (Công an tỉnh) nhưng "Kính gửi:" và tên cơ quan nằm hai dòng lệch nhau
+# (do giữ lại bảng 2 ô của mẫu gửi nhiều cơ quan), lại không cách một dòng với khối trên/dưới.
+nguon: examples/sct/cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh.docx
+R16 FAIL

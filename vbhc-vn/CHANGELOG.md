@@ -1,3 +1,10 @@
+## [2.24.1] - 17/9/2026 — normalize_body.py: ba vùng bảo vệ (đoạn trống kề bảng, đoạn chứa shape/ngắt trang, khối Kính gửi)
+
+- **Nguồn:** chạy lại script Nhóm N trên hai văn bản đã giao (công văn hướng dẫn 08 CCN có phụ lục mẫu Thông báo; Thông báo CCN Đông An) thì script đòi xóa nhầm: 2 đoạn trống kẹp khối Nơi nhận - chữ ký và bảng phụ lục; đoạn rỗng chứa **đường kẻ dưới trích yếu** (v:line) của mẫu Thông báo; và đòi ép lùi đầu dòng khối **Kính gửi** (left=1134, firstLine=0) về mức chung.
+- **scripts/normalize_body.py**: (1) giữ mọi đoạn trống có anh chị em liền kề là `w:tbl`; (2) "đoạn rỗng" định nghĩa lại = không chữ VÀ không chứa `w:pict`, `w:drawing`, `w:br`, `w:object`, `mc:AlternateContent`; (3) hàm `khoi_kinh_gui()` bỏ qua đoạn "Kính gửi", các dòng tiếp theo còn lề trái riêng và dòng trống ngay dưới khối. Kiểm lại: hai văn bản đã chuẩn → 0/0/0/0; file gốc của UBND xã vẫn bắt 3 numPr, 36 ind lệch, 24 tab, 6 đoạn trống thừa.
+- **reference/phong-tranh-sai-lam.md — Nhóm N**: thêm đoạn "Ba vùng script KHÔNG được đụng vào".
+- `plugin.json` → 2.24.1.
+
 ## [2.23.1] - 17/9/2026 — Nhóm N: định dạng ẩn trong file .docx do cơ quan khác gửi đến + scripts/normalize_body.py
 
 - **Nguồn:** vụ thật 17/9/2026 — rà soát, sửa Thông báo tiếp nhận hồ sơ đề nghị làm chủ đầu tư CCN Đông An do UBND xã Đông Cuông gửi. Sửa xong nội dung, bản render vẫn lỗi trình bày vì định dạng ẩn của file gốc; người dùng phải chỉ lại hai lượt ("- -" hai dấu gạch, thụt lề lệch, khoảng trắng trên mục 5).

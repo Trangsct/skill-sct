@@ -34,6 +34,7 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R13 | Đoạn thân lùi đầu dòng đồng đều | Quy tắc 27(b) (16/9/2026) | `qa_rules.rule_R13` | WARN |
 | R14 | Không để lại dấu vết lần sửa trước; không còn comment, tracked change | Nhóm F, K7 | `qa_rules.rule_R14` | FAIL |
 | R15 | Dẫn Quyết định thì không nhắc văn bản trình hình thành Quyết định đó | Nhóm K6 | `qa_rules.rule_R15` | WARN |
+| R16 | Khối Kính gửi: một cơ quan thì cùng một dòng, nhiều cơ quan mới tách dòng; không để trống nơi nhận | Nhóm G, Bạn chốt 18/9/2026 | `qa_rules.rule_R16` | FAIL |
 
 ## B. Quy tắc loại M — ĐÃ CÓ hàm kiểm từ trước, đợt này chỉ gắn mã
 
@@ -126,7 +127,7 @@ tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
 
 | Công cụ | Việc | Nguồn dữ liệu |
 |---|---|---|
-| `scripts/qa_rules.py` | 15 quy tắc R01–R15, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
+| `scripts/qa_rules.py` | 16 quy tắc R01–R16, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
 | `scripts/cite_check.py` | Đối chiếu mọi số hiệu trong bản thảo: KHỚP / LỆCH / CHƯA CÓ | `data/vbpl.json` |
 | `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
 | `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |

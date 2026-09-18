@@ -214,6 +214,156 @@ def do_than(doc, co_kinh_gui: bool) -> tuple[int, int]:
     return dau, cuoi
 
 
+# ────────────────── Khối "Kính gửi" và khoảng cách giữa các khối (Bạn chốt 18/9/2026) ──────────────────
+# Bạn chốt 18/9/2026: gửi MỘT cơ quan thì "Kính gửi:" và tên cơ quan phải nằm TRÊN CÙNG MỘT DÒNG;
+# gửi NHIỀU cơ quan thì "Kính gửi:" tách lên trên, danh sách xuống dưới. Khối Kính gửi cách khối trên
+# (trích yếu) và khối dưới (thân) đúng một dòng trống; khối ký cách thân đúng một dòng trống.
+# Mẫu thật của Sở có hai kiểu khối Kính gửi: paragraph căn giữa (một nơi nhận) và bảng 2 ô (nhiều
+# nơi nhận) — script phải dựng đúng kiểu theo SỐ nơi nhận trong dòng [K], không theo kiểu của mẫu.
+
+def _phan_tu_than(doc) -> list[tuple[str, object]]:
+    """Các phần tử ở cấp tài liệu theo thứ tự đọc: ('p', Paragraph) hoặc ('t', Table)."""
+    from docx.table import Table
+    from docx.text.paragraph import Paragraph
+    ra: list[tuple[str, object]] = []
+    for ch in doc.element.body.iterchildren():
+        if ch.tag.endswith("}p"):
+            ra.append(("p", Paragraph(ch, doc)))
+        elif ch.tag.endswith("}tbl"):
+            ra.append(("t", Table(ch, doc)))
+    return ra
+
+
+def _trong(x) -> bool:
+    return x[0] == "p" and not nfc(x[1].text).strip()
+
+
+def bang_kinh_gui(doc):
+    """Bảng 2 ô dùng làm khối Kính gửi trong mẫu (ô đầu bắt đầu bằng 'Kính gửi')."""
+    for t in doc.tables:
+        for r in t.rows:
+            for c in r.cells:
+                if re.match(r"^Kính\s+gửi", nfc(c.text).strip()):
+                    return t
+    return None
+
+
+def p_kinh_gui(doc):
+    for p in doc.paragraphs[:14]:
+        if re.match(r"^Kính\s+gửi", nfc(p.text).strip()):
+            return p
+    return None
+
+
+def tach_noi_nhan(dong: str) -> list[str]:
+    """'Kính gửi: A; B.' → ['A', 'B'] (bỏ chữ 'Kính gửi', dấu ; . - ở hai đầu)."""
+    s = re.sub(r"^\s*Kính\s+gửi\s*:?\s*", "", nfc(dong)).strip()
+    return [x.strip().strip(";.").strip() for x in s.split(";") if x.strip().strip(";.-").strip()]
+
+
+def _p_moi_tu_khuon(khuon, text: str, cang_giua: bool):
+    """Nhân bản paragraph khuôn (giữ font mẫu) rồi ghi text; trả Paragraph mới CHƯA gắn vào thân."""
+    from copy import deepcopy
+    from docx.text.paragraph import Paragraph
+    el = deepcopy(khuon._p)
+    p = Paragraph(el, khuon._parent)
+    if text:
+        viet(p, text, dam=False, nghieng=False)
+    else:
+        for r in list(p.runs):
+            r._element.getparent().remove(r._element)
+    p.paragraph_format.first_line_indent = None
+    if cang_giua:
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    return p
+
+
+def dat_kinh_gui(doc, dong: str, khuon) -> None:
+    """Dựng khối Kính gửi đúng thể thức theo SỐ nơi nhận (xem ghi chú đầu mục)."""
+    muc = tach_noi_nhan(dong)
+    bang, p_kg = bang_kinh_gui(doc), p_kinh_gui(doc)
+    if len(muc) <= 1:
+        ten = (muc[0] if muc else "").rstrip(".")
+        text = f"Kính gửi: {ten}." if ten else "Kính gửi:"
+        if bang is not None:
+            # Thay cả bảng bằng MỘT dòng căn giữa, giữ đúng một dòng trống ở trên và ở dưới.
+            tbl = bang._tbl
+            truoc_trong = tbl.getprevious() is not None and tbl.getprevious().tag.endswith("}p") \
+                and not nfc(tbl.getprevious().xpath("string(.)")).strip()
+            sau_trong = tbl.getnext() is not None and tbl.getnext().tag.endswith("}p") \
+                and not nfc(tbl.getnext().xpath("string(.)")).strip()
+            p_moi = _p_moi_tu_khuon(khuon, text, cang_giua=True)
+            tbl.addprevious(p_moi._p)
+            if not truoc_trong:
+                p_moi._p.addprevious(_p_moi_tu_khuon(khuon, "", cang_giua=False)._p)
+            if not sau_trong:
+                p_moi._p.addnext(_p_moi_tu_khuon(khuon, "", cang_giua=False)._p)
+            tbl.getparent().remove(tbl)
+        elif p_kg is not None:
+            viet(p_kg, text, dam=False, nghieng=False)
+            p_kg.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_kg.paragraph_format.first_line_indent = None
+        return
+    # Nhiều nơi nhận: "Kính gửi:" ở trên, danh sách '- A;' … '- Z.' ở dưới.
+    ds = [f"- {m};" for m in muc[:-1]] + [f"- {muc[-1].rstrip('.')}."]
+    if bang is not None:
+        o_trai, o_phai = None, None
+        for r in bang.rows:
+            for c in r.cells:
+                if re.match(r"^Kính\s+gửi", nfc(c.text).strip()):
+                    o_trai = c
+                elif o_trai is not None and o_phai is None and c is not o_trai:
+                    o_phai = c
+        if o_phai is None:      # bảng một ô: ghi cả khối vào ô đó
+            o_phai = o_trai
+        ps = o_phai.paragraphs
+        khuon_o = ps[0]
+        for extra in ps[1:]:
+            extra._p.getparent().remove(extra._p)
+        viet(khuon_o, ds[0], dam=False, nghieng=False)
+        truoc = khuon_o
+        for dong_ds in ds[1:]:
+            p_moi = _p_moi_tu_khuon(khuon_o, dong_ds, cang_giua=False)
+            p_moi.alignment = khuon_o.alignment
+            truoc._p.addnext(p_moi._p)
+            truoc = p_moi
+        if o_trai is not o_phai:
+            viet(o_trai.paragraphs[0], "Kính gửi:", dam=False, nghieng=False)
+        return
+    if p_kg is not None:
+        viet(p_kg, "Kính gửi:", dam=False, nghieng=False)
+        truoc = p_kg
+        for dong_ds in ds:
+            p_moi = _p_moi_tu_khuon(khuon, dong_ds, cang_giua=False)
+            truoc._p.addnext(p_moi._p)
+            truoc = p_moi
+
+
+def cach_mot_dong_truoc_khoi_ky(doc, khuon) -> None:
+    """Khối ký (bảng có 'Nơi nhận' / chức danh người ký) cách thân ĐÚNG MỘT dòng trống.
+
+    Bạn chốt 18/9/2026. Mẫu thật đã ban hành có bản 0, bản 2 dòng trống nên qa_all chỉ WARN,
+    nhưng bản script dựng ra thì luôn đúng một dòng.
+    """
+    pt = _phan_tu_than(doc)
+    for i, (k, el) in enumerate(pt):
+        if k != "t":
+            continue
+        chu = nfc(" ".join(c.text for r in el.rows for c in r.cells))
+        if "Nơi nhận" not in chu and "GIÁM ĐỐC" not in chu.upper():
+            continue
+        j, trong = i - 1, []
+        while j >= 0 and _trong(pt[j]):
+            trong.append(pt[j][1])
+            j -= 1
+        if not trong:
+            el._tbl.addprevious(_p_moi_tu_khuon(khuon, "", cang_giua=False)._p)
+        else:
+            for p_thua in trong[1:]:          # giữ lại đúng một dòng trống
+                p_thua._p.getparent().remove(p_thua._p)
+        return
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(
         description="Biên dịch nội dung dạng thẻ sang .docx trên mẫu thật.",
@@ -239,7 +389,18 @@ def main() -> int:
 
     rows = doc_noi_dung(Path(a.noi_dung))
     doc = Document(str(mau))
-    dau, cuoi = do_than(doc, co_kinh_gui=any(k == "k" for _, k in rows))
+    # Dòng [K] KHÔNG đi vào thân: khối Kính gửi có thể là paragraph hay bảng, dựng riêng ở cuối
+    # để giữ đúng thể thức và các dòng trống ngăn cách (Bạn chốt 18/9/2026).
+    dong_kg = next((t for t, k in rows if k == "k"), None)
+    rows = [(t, k) for t, k in rows if k != "k"]
+    if not rows:
+        print("LỖI: nội dung chỉ có dòng [K], không có đoạn thân nào.", file=sys.stderr)
+        return 2
+    dau, cuoi = do_than(doc, co_kinh_gui=False)
+    # Dòng trống ngăn giữa khối Kính gửi và thân là một phần thể thức — không ghi thân lên nó.
+    ps_dd = doc.paragraphs
+    while dau < cuoi and not nfc(ps_dd[dau].text).strip():
+        dau += 1
     if a.than_tu is not None:
         dau = a.than_tu
     co_cho = cuoi - dau + 1
@@ -277,6 +438,10 @@ def main() -> int:
                 p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             if lui is not None:
                 p.paragraph_format.first_line_indent = Cm(lui)
+
+    if dong_kg:
+        dat_kinh_gui(doc, dong_kg, khuon=dich[0])
+    cach_mot_dong_truoc_khoi_ky(doc, khuon=dich[0])
 
     ra = Path(a.ra)
     ra.parent.mkdir(parents=True, exist_ok=True)

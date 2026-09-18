@@ -1,3 +1,5 @@
+## 18/9/2026 — vbhc-vn 2.25.0: R16 khối Kính gửi (một cơ quan thì cùng một dòng); build_vb dựng đúng khoảng cách khối Kính gửi và khối ký
+
 ## 17/9/2026 — data360x-sct-vn 1.0.5: bot tải được đính kèm trên Data360X (Authorization + khuôn URL của Chrome); PDF chính có thể là đính kèm đầu
 
 ## 17/9/2026 — data360x-sct-vn 1.0.4: đọc luồng xử lý (chủ trì / phối hợp) trước khi chọn loại văn bản

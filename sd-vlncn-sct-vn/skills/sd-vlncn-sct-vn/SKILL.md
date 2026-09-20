@@ -155,6 +155,9 @@ Toàn văn 33 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **29** — SỨC CHỨA KHO theo văn bản nghiệm thu PCCC, không theo báo cáo hoàn thành DN; nhu cầu tháng > sức chứa → nhập nhiều đợt; không tự ghi "cấp II"
 - **30** — CHỦNG LOẠI VLNCN + PHƯƠNG PHÁP NỔ theo Bảng thông số thiết kế (AĐ1, kíp điện vi sai; lò dốc >30° cấm dây cháy chậm), không chép PANM/GP cũ; Qđ max đối chứng GP cũ
 - **31** — DỰ THẢO VĂN BẢN CHỈ ĐẠO UBND TỈNH VỀ VLNCN (bản cuối 06/9/2026): gần như không dẫn điều khoản (chỉ QĐ ủy quyền + điểm d k2 Đ38); một cơ chế "chỉ thực hiện… khi được Sở Công Thương (cơ quan quản lý về PANM) xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp nguyên văn 3 chỗ — cài điều kiện được vì đã giao vai trò trước; Công an/Bộ CHQS/sở khác viết tổng quát, không PCCC, không giao việc riêng; bỏ đoạn gửi kết quả 15/6-15/12
+- **32** — KHO BẢO QUẢN VLNCN: có kho → khoản 3 ghi "Kho bảo quản VLNCN trữ lượng … tấn"; không có kho, mua theo từng hộ chiếu → ghi "Nổ mìn theo hộ chiếu nổ mìn"; hai cách loại trừ nhau
+- **33** — LUÔN VIẾT "Công ty TNHH" / "Công ty TNHH MTV", không viết "Công ty trách nhiệm hữu hạn"
+- **34** — KHOẢN 4 ĐIỀU 2 VIẾT NGẮN GỌN TÊN VĂN BẢN (căn cứ đã nêu đủ trích yếu) — thay mục 3 của 22-A
 
 ## VII. CẤU TRÚC PLUGIN
 

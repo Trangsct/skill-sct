@@ -1,3 +1,11 @@
+# CHANGELOG vbhc-vn
+
+## v2.26.0 — 20/9/2026
+
+- Thêm **Nhóm O** (reference/phong-tranh-sai-lam.md): viết tên loại hình doanh nghiệp — luôn "Công ty TNHH", "Công ty TNHH MTV"; không viết "Công ty trách nhiệm hữu hạn", kể cả khi hồ sơ nguồn viết đủ chữ; nhất quán trong cả bộ hồ sơ.
+- Bổ sung dòng [O] vào checklist bắt buộc trước khi trình tham mưu.
+- Nguồn: chỉ đạo PTP Trần Trọng Trang ngày 20/9/2026 khi rà bộ giấy phép sử dụng VLNCN cấp lại (Bắc Hà, Duy Cương). Quy tắc chuyên ngành tương ứng: sd-vlncn-sct-vn anti-error 33.
+
 ## [2.25.1] - 17/9/2026 — normalize_body.py: ba vùng bảo vệ (đoạn trống kề bảng, đoạn chứa shape/ngắt trang, khối Kính gửi)
 
 - **Nguồn:** chạy lại script Nhóm N trên hai văn bản đã giao (công văn hướng dẫn 08 CCN có phụ lục mẫu Thông báo; Thông báo CCN Đông An) thì script đòi xóa nhầm: 2 đoạn trống kẹp khối Nơi nhận - chữ ký và bảng phụ lục; đoạn rỗng chứa **đường kẻ dưới trích yếu** (v:line) của mẫu Thông báo; và đòi ép lùi đầu dòng khối **Kính gửi** (left=1134, firstLine=0) về mức chung.

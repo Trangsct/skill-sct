@@ -1,3 +1,14 @@
+# CHANGELOG sd-vlncn-sct-vn
+
+## v2026.9.20.1 — 20/9/2026
+
+Nguồn: chỉ đạo PTP Trần Trọng Trang khi thẩm định 02 hồ sơ cấp lại Giấy phép sử dụng VLNCN (Cty TNHH TM&XD hạ tầng Bắc Hà - Gói thầu 11 Si Ma Cai; Cty TNHH MTV Duy Cương - thủy điện Suối Chăn 2).
+
+- Thêm **anti-error 32** (references/11): kho bảo quản VLNCN tại khoản 3 Điều 2 — có kho ghi "Kho bảo quản VLNCN trữ lượng … tấn"; không có kho, mua theo từng hộ chiếu ghi "Nổ mìn theo hộ chiếu nổ mìn"; hai cách loại trừ nhau.
+- Thêm **anti-error 33**: luôn viết "Công ty TNHH", "Công ty TNHH MTV"; không viết "Công ty trách nhiệm hữu hạn" (quy tắc chung ở vbhc-vn Nhóm O).
+- Thêm **anti-error 34**: khoản 4 Điều 2 viết ngắn gọn tên văn bản vì phần căn cứ đã nêu đủ trích yếu; thay mục 3 của anti-error 22-A và điểm 3 mục "Đối chiếu Mẫu số 10" tại mẫu 01.
+- Cập nhật mẫu 01 (khoản 3, khoản 4, ghi chú kỹ thuật nén trang), mẫu 02 (2b, 2b-bis, 2b-ter), mục lục anti-error tại SKILL.md.
+
 # CHANGELOG — sd-vlncn-sct-vn
 
 ## [2026.9.10.1] - 10/9/2026 — reference 12 có thêm mục G: báo cáo định kỳ của DN sử dụng VLNCN đã nhận

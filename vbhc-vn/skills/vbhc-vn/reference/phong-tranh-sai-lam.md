@@ -265,6 +265,15 @@ Câu tự nhủ bắt lỗi sớm:
 - *"Chỉ sửa mấy chữ, khỏi chạy normalize"* → định dạng ẩn là của file gốc, không liên quan mình sửa nhiều hay ít. [N2]
 - *"Đoạn trống để cho thoáng"* → VBHC dùng spacing before/after, không dùng đoạn rỗng. [N4]
 
+### Nhóm O — Viết tên loại hình doanh nghiệp trong văn bản (Bạn chốt 20/9/2026, bộ giấy phép sử dụng VLNCN cấp lại)
+
+- **O1 — Luôn viết "Công ty TNHH", không viết "Công ty trách nhiệm hữu hạn".** Một thành viên viết "Công ty TNHH MTV"; hai thành viên trở lên vẫn là "Công ty TNHH". Áp dụng cho mọi loại văn bản: giấy phép, giấy chứng nhận, quyết định, tờ trình, phiếu trình, công văn, báo cáo.
+- **O2 — Không chép cách viết đủ chữ từ hồ sơ nguồn.** Giấy chứng nhận đăng ký doanh nghiệp, giấy đề nghị của doanh nghiệp, văn bản của cơ quan khác thường viết "Công ty trách nhiệm hữu hạn (một thành viên)" — chuyển sang dạng viết tắt khi đưa vào văn bản của Sở; các thành tố khác của tên (tên riêng, ngành nghề) giữ nguyên văn.
+- **O3 — Viết nhất quán trong cả bộ hồ sơ.** Cùng một doanh nghiệp phải cùng một cách viết ở dự thảo văn bản chính, phiếu trình, nơi nhận và mọi lần nhắc lại trong cùng văn bản.
+
+Câu tự nhủ bắt lỗi sớm:
+- *"Giấy đăng ký doanh nghiệp ghi đủ chữ nên chép y nguyên cho chắc"* → sai, O2 yêu cầu viết "Công ty TNHH". [O1, O2]
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]
@@ -281,6 +290,7 @@ Câu tự nhủ bắt lỗi sớm:
 ☐ Văn bản cấp UBND tỉnh: việc giao cơ quan khác nằm trong thẩm quyền thật của họ nhưng KHÔNG ghi điều khoản; điều kiện lên cơ quan khác chỉ khi đã giao vai trò cho Sở + có sản phẩm; toàn văn ≤ 4–5 viện dẫn [K]
 ☐ Công văn cho ý kiến: từng nội dung đã ghi rõ nhất trí/không nhất trí kèm lý do; gia hạn ≤ 01 lần, ≤ 10 ngày; hướng dẫn bổ sung hồ sơ liệt kê đủ một lần [L]
 ☐ Đã xác định vụ việc đang ở BƯỚC nào, văn bản gần nhất số mấy ngày nào; bước định đề nghị CHƯA thực hiện [M]
+☐ Tên doanh nghiệp viết "Công ty TNHH" / "Công ty TNHH MTV", nhất quán toàn bộ hồ sơ            [O]
 ☐ Đã ghi rõ phần nào "cần xác minh trước khi ký"
 ```
 Một ô không tick được → BÁO LẠI người dùng, không tự bịa/suy đoán.

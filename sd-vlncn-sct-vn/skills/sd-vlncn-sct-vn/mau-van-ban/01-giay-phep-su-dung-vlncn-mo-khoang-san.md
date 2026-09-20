@@ -33,7 +33,7 @@ Theo đề nghị của Trưởng phòng Quản lý công nghiệp.
 
 **QUYẾT ĐỊNH:**
 
-**Điều 1.** Cho phép 【tên doanh nghiệp】;
+**Điều 1.** Cho phép 【tên doanh nghiệp — viết "Công ty TNHH", "Công ty TNHH MTV", không viết "trách nhiệm hữu hạn"; anti-error 33】;
 Giấy chứng nhận đăng ký doanh nghiệp 【loại hình】 số 【…】 do 【cơ quan】 cấp lần đầu ngày 【…】, 【Sở Tài chính Lào Cai】 cấp thay đổi lần thứ 【…】 ngày 【…】;
 Trụ sở tại: 【địa chỉ】;
 Điện thoại: 【…】;
@@ -42,8 +42,10 @@ Trụ sở tại: 【địa chỉ】;
 **Điều 2. Điều kiện sử dụng**
 1. Địa điểm sử dụng: tại mỏ 【tên mỏ】, xã 【…】, tỉnh Lào Cai theo Giấy phép khai thác khoáng sản số 【…/GP-UBND】 ngày 【…】 của 【Chủ tịch UBND tỉnh Lào Cai】.
 2. Chủng loại, số lượng VLNCN được phép sử dụng: Thuốc nổ các loại (【amonit AD1; Anfo; nhũ tương lộ thiên…】): 【…】 kg; Kíp nổ các loại (【kíp điện vi sai; kíp vi sai phi điện…】): 【…】 cái; Dây nổ 【chịu nước】: 【…】 m; Mồi nổ: 【…】 quả.
-3. Điều kiện khác: khối lượng thuốc nổ lớn nhất trong một đợt nổ không quá 【…】 kg; phương pháp điều khiển nổ bằng 【…】; nổ mìn theo hộ chiếu; khoảng cách an toàn đối với người ≥ 【300】 m, đối với công trình, thiết bị ≥ 【200】 m theo QCVN 01:2019/BCT; thời gian nổ mìn: 【buổi trưa từ …h đến …h; buổi chiều từ …h đến …h】; thực hiện đúng nội dung Phương án nổ mìn đã được phê duyệt 【tại Quyết định số …/QĐ-UBND ngày … của Chủ tịch UBND tỉnh Lào Cai / theo quy định】.
-4. 【Tên doanh nghiệp】 phải thực hiện đúng các quy định tại Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ; Nghị định số 181/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ; Thông tư số 23/2024/TT-BCT ngày 07/11/2024 của Bộ trưởng Bộ Công Thương quy định về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Công Thương; Quy chuẩn kỹ thuật quốc gia về an toàn trong sản xuất, thử nghiệm, nghiệm thu, bảo quản, vận chuyển, sử dụng, tiêu hủy vật liệu nổ công nghiệp và bảo quản tiền chất thuốc nổ QCVN 01:2019/BCT【; Quy chuẩn kỹ thuật quốc gia về an toàn trong khai thác quặng hầm lò QCVN 04:2017/BCT — chỉ khi mỏ hầm lò】 và những quy định pháp luật liên quan.
+3. Điều kiện khác: khối lượng thuốc nổ lớn nhất trong một đợt nổ không quá 【…】 kg; phương pháp điều khiển nổ bằng 【…】; 【nổ mìn theo hộ chiếu nổ mìn — khi doanh nghiệp KHÔNG có kho, mua VLNCN theo hợp đồng và nhận theo từng hộ chiếu / Kho bảo quản VLNCN trữ lượng 【…】 tấn — khi doanh nghiệp CÓ kho; hai cách loại trừ nhau, xem anti-error 32】; khoảng cách an toàn đối với người ≥ 【300】 m, đối với công trình, thiết bị ≥ 【200】 m theo QCVN 01:2019/BCT; thời gian nổ mìn: 【buổi trưa từ …h đến …h; buổi chiều từ …h đến …h】; thực hiện đúng nội dung Phương án nổ mìn đã được phê duyệt 【tại Quyết định số …/QĐ-UBND ngày … của Chủ tịch UBND tỉnh Lào Cai / theo quy định】.
+4. 【Tên doanh nghiệp】 phải thực hiện đúng các quy định tại Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ; Nghị định số 181/2024/NĐ-CP; Thông tư số 23/2024/TT-BCT; QCVN 01:2019/BCT【; QCVN 04:2017/BCT — chỉ khi mỏ hầm lò】【; Quyết định số …/QĐ-UBND ngày … của Chủ tịch UBND tỉnh Lào Cai về việc phê duyệt phương án nổ mìn — chỉ khi văn bản này không có ở phần căn cứ】 và những quy định pháp luật liên quan.
+
+> ⭐ **Khoản 4 viết NGẮN GỌN tên văn bản (chỉ đạo PTP Trang 20/9/2026 — anti-error 34):** phần căn cứ đã nêu đủ số, ngày, cơ quan ban hành và trích yếu nên khoản 4 không lặp lại trích yếu. Cách viết đủ trích yếu trong bộ Kim Thành, Miền Tây 8/2026 NGỪNG DÙNG.
 
 > **KHÔNG có khoản 5.** Mẫu số 10 Điều 2 chỉ có 4 khoản; khoản "đề nghị/giao Công an tỉnh, UBND xã phối hợp giám sát" là bịa thêm — Công an tỉnh và UBND xã đã có tên trong Nơi nhận nên vẫn nhận được giấy phép để theo dõi theo chức năng (chốt 24/8/2026, bỏ khỏi cả bộ Kim Thành và Miền Tây).
 
@@ -51,10 +53,10 @@ Trụ sở tại: 【địa chỉ】;
 > Bản trên đã dựng đúng khung ô chú thích của Mẫu số 10. Bốn lỗi hay mắc khi lấy giấy phép cũ làm khung:
 > 1. **Điều 1 phải là 5 dòng, nối bằng dấu chấm phẩy**: (6) tên DN; (8)(9) giấy đăng ký doanh nghiệp; (10) trụ sở; **điện thoại đứng RIÊNG một dòng** (mẫu có cả ô Fax — bỏ nếu DN không đăng ký); (11) mục đích, **bắt buộc có chữ "để"** ("Được sử dụng VLNCN **để** khai thác…", không viết "Được sử dụng VLNCN khai thác…").
 > 2. **Ô (12) = khoản 3 "Điều kiện khác"** là chỗ ghi điều kiện bảo đảm an toàn (lượng thuốc nổ lớn nhất một đợt, phương pháp điều khiển nổ, khoảng cách an toàn, thời điểm nổ mìn) — **nội dung "thực hiện đúng Phương án nổ mìn được phê duyệt" đặt ở CUỐI khoản 3, không đặt ở khoản 4.**
-> 3. **Ô (13) = tên các quy chuẩn, viết ĐỦ TÊN GỌI**, không chỉ ký hiệu; khoản 4 phải kết đúng chuỗi "…của Bộ Công Thương; …(13)… **và những quy định pháp luật liên quan.**" (mẫu ghi "những", không phải "các").
+> 3. ~~**Ô (13) = tên các quy chuẩn, viết ĐỦ TÊN GỌI**~~ — **đã thay ngày 20/9/2026 (anti-error 34): khoản 4 chỉ ghi tên gọi ngắn của văn bản (Luật…; Nghị định số 181/2024/NĐ-CP; Thông tư số 23/2024/TT-BCT; QCVN 01:2019/BCT) và kết bằng "và những quy định pháp luật liên quan."**
 > 4. **Hai thông tư 38/2025 và 26/2026 KHÔNG gộp một căn cứ**: trích yếu khác nhau — TT 38/2025 là "phân cấp thực hiện thủ tục hành chính", TT 26/2026 là "phân cấp, **cắt giảm, đơn giản hóa** thủ tục hành chính". Gộp sẽ gán nhầm trích yếu của TT 26 cho TT 38.
 >
-> **Kỹ thuật:** khoản 4 viết đủ theo mẫu dài thêm ~8 dòng, đủ để đẩy khối ký sang một trang riêng. Xử lý bằng cách nén `line_spacing` × 0,88 và `space_before/space_after` × 0,5 cho toàn bộ đoạn (giữ nguyên cỡ chữ 14, lề, font) — cả hai bộ Kim Thành và Miền Tây 24/8/2026 đều về đúng 2 trang.
+> **Kỹ thuật (chỉ còn dùng khi giấy phép vẫn tràn trang sau khi đã viết ngắn khoản 4 theo anti-error 34):** nén `line_spacing` × 0,88 và `space_before/space_after` × 0,5 cho toàn bộ đoạn (giữ nguyên cỡ chữ 14, lề, font) — cả hai bộ Kim Thành và Miền Tây 24/8/2026 đều về đúng 2 trang.
 
 **Điều 3.** Giấy phép này có giá trị 【05 năm kể từ ngày ký ban hành / đến hết ngày … — không vượt thời hạn Giấy phép khai thác】./.
 

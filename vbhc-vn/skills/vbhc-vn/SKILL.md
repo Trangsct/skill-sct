@@ -26,7 +26,7 @@ Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** c�
 
 Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `QĐ-SCT`, `GP-SCT`, `GCNATTP-SCTLC`.
 
-**Luôn áp dụng bảng "Phòng tránh 14 nhóm sai lầm tham mưu A–N" bên dưới** (đã hợp nhất từ `anti-error-sct-vn`) và mục "Đọc PDF văn bản đến" (hợp nhất từ `vbhc-pdf-reader-vn`). Đối chiếu nội dung chuyên môn với `kccn-sct-vn` / `hnh-sct-vn`.
+**Luôn áp dụng bảng "Phòng tránh 15 nhóm sai lầm tham mưu A–O" bên dưới** (đã hợp nhất từ `anti-error-sct-vn`) và mục "Đọc PDF văn bản đến" (hợp nhất từ `vbhc-pdf-reader-vn`). Đối chiếu nội dung chuyên môn với `kccn-sct-vn` / `hnh-sct-vn`.
 
 ## Định tuyến — soạn loại nào thì đọc file nào
 
@@ -90,7 +90,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
-## Phòng tránh 14 nhóm sai lầm tham mưu A–N (luôn áp dụng)
+## Phòng tránh 15 nhóm sai lầm tham mưu A–O (luôn áp dụng)
 
 Áp dụng cho mọi việc soạn / rà soát / góp ý / tham mưu, không chỉ khi tạo .docx.
 **Chi tiết từng nhóm, vụ thật và checklist: `reference/phong-tranh-sai-lam.md`** — đọc file đó
@@ -112,6 +112,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **L** Cho ý kiến, gia hạn, hướng dẫn hồ sơ | Phải ghi rõ **nhất trí / không nhất trí** kèm lý do — cấm "căn cứ theo quy định của pháp luật để thực hiện"; gia hạn không quá 01 lần, không quá 10 ngày, có mốc ngày cụ thể; hướng dẫn bổ sung hồ sơ đủ trong MỘT lần | R10 (một phần) |
 | **M** Trạng thái hồ sơ vụ việc (17/9/2026) | Trước khi soạn văn bản gắn một vụ việc/cụm cụ thể phải xác định vụ việc đang ở **BƯỚC nào**, văn bản gần nhất số mấy; **đã có Quyết định thì không soạn văn bản của bước trước đó**; mẫu mượn được, trạng thái không mượn được; CCN/KCN chạy `kccn-sct-vn/scripts/trang_thai_cum.py` trước | — (loại N); `--forbid "để có cơ sở tham mưu"` |
 | **N** Định dạng ẩn trong file cơ quan khác gửi (17/9/2026) | File .docx của xã/doanh nghiệp gửi đến: `w:numPr` sinh "- -", `w:ind` lẫn lộn, `w:tab` đầu đoạn, đoạn trống thừa — trích xuất text KHÔNG thấy, chỉ lộ trên ảnh render. **Chạy `normalize_body.py --check` trước và `normalize_body.py` sau khi sửa**, rồi `fix_quoc_hieu.py`, rồi `qa_all.py` | `normalize_body.py` |
+| **O** Tên doanh nghiệp (20/9/2026) | Luôn viết **"Công ty TNHH" / "Công ty TNHH MTV"**, không viết "Công ty trách nhiệm hữu hạn" — kể cả khi giấy đăng ký doanh nghiệp, giấy đề nghị của DN hay văn bản cơ quan khác viết đủ chữ; nhất quán trong cả bộ hồ sơ | — (loại N) |
 
 ## Đọc PDF văn bản đến — trích metadata chính xác
 
@@ -140,7 +141,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
 | `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |
 | `quy-trinh-hai-che-do.md` | Chọn Chế độ A hay B; cú pháp `TemplateDoc`; quy trình unpack-sửa-pack; quy tắc tốc độ |
-| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 14 nhóm A–N, checklist, vụ thật |
+| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 15 nhóm A–O, checklist, vụ thật |
 | `thu-vien-mau-that.md` | Chọn mẫu thật cho Chế độ B — bảng mẫu ↔ loại VB ↔ người ký |
 | `templates-chi-tiet.md` | Chế độ A — cấu trúc paragraph/table từng template 01–09 |
 | `bao-cao-dinh-ky-phong-qlcn.md` | Báo cáo tháng/quý/9 tháng của Phòng, phụ biểu giao ban, bài phát biểu Trưởng phòng |

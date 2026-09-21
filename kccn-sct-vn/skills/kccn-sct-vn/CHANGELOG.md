@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [1.40.0] - 21/9/2026 — QHPK KCN đợt 18/9/2026: Minh Quân đã phê duyệt; Y Can và Đông An xin ý kiến sở ngành (hạn 23/9/2026)
+
+- **Nguồn:** 04 bản PDF ký số Bạn cung cấp ngày 21/9/2026 — Quyết định phê duyệt QHPK KCN Minh Quân; VB 5947/SXD-QHKT ngày 10/9/2026 của Sở Xây dựng (ý kiến THỐNG NHẤT); 02 công văn `/BQLCKCN-NV` xin ý kiến đồ án QHPK KCN Y Can và KCN Đông An. **Cả 04 bản để trống ô số và ngày trên bản in (trống cả lớp text lẫn ảnh render)** — mốc lấy từ trường ký số: Trưởng ban Đỗ Việt Bách ký 17/9/2026, ký số cơ quan 18/9/2026. Số hiệu phải tra sổ văn bản đến, KHÔNG suy số.
+- **`references/34-kcn-minh-quan-qhpk-tham-dinh.md` — thêm mục H** (3 phần):
+  - H.1 QĐ phê duyệt QHPK KCN Minh Quân ban hành 18/9/2026, khép bước 10 của quy trình. **Phát hiện BƯỚC 11 của quy trình QHPK KCN: trước khi phê duyệt phải có ý kiến THỐNG NHẤT bằng văn bản của Sở Xây dựng** theo khoản 4 Điều 41 Luật Quy hoạch đô thị và nông thôn 47/2024 (sửa tại điểm b khoản 29 Điều 1 Luật 144/2025) — khác với bước 4 xin ý kiến tham gia; hai văn bản khác nhau của Sở Xây dựng (5352/SXD-QHKT 18/8 và 5947/SXD-QHKT 10/9). Thêm TTr 119/TTr-BQLCKCN 11/9 và BC 272/BC-BQLCKCN 07/9. Chép trọn số liệu Điều 1 (cơ cấu SDĐ 06 loại, lao động 8.675, cấp nước 7.900 m³/ngđ, XLNT 4.000 m³/ngđ, TBA 110 kV Minh Quân 29,2 MVA, 1.743 thuê bao, cao độ san nền).
+  - **⚠️ BẪY QUY CHUẨN MỚI: bản gốc ghi "QCVN 40:2021/BTNMT" — KHÔNG CÓ quy chuẩn mang ký hiệu này.** Quy chuẩn nước thải công nghiệp đang hiệu lực là **QCVN 40:2025/BTNMT** (TT 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025, thay QCVN 40:2011/BTNMT). Đã thành một ý bắt buộc trong khung ý kiến của SCT.
+  - H.2 bảng so sánh 02 đồ án Y Can (349,76 ha — **lệch 0,24 ha** so với 350 ha tại QĐ 525) và Đông An (350 ha, khớp); nơi nhận; hạn 23/9/2026 kèm điều khoản *quá hạn không trả lời được hiểu là đồng ý*. Hai chỗ trong mô tả ranh giới phải rà: Y Can ghi phía Nam giáp **CCN Âu Lâu** (CCN này ở phường Âu Lâu, còn đồ án ở xã Lương Thịnh + Quy Mông) trong khi cùng xã Quy Mông có **CCN Y Can 75 ha trùng tên**; Đông An ghi **"đường sắt cao tốc Côn Minh - Hải Phòng"** (tên đúng: tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng) và không nhắc **CCN Đông An** (trùng tên, 34 → 50 ha) lẫn **CCN Bắc Văn Yên** (55 ha) cùng xã Đông Cuông.
+  - H.3 **khung 10 ý kiến của SCT đối với một đồ án QHPK KCN**, dùng lại cho Việt Hồng 1 và Việt Hồng 2. Điểm riêng có của SCT: ranh giới với CCN cùng địa bàn. Điểm hay bỏ sót: **quỹ đất nhà ở, dịch vụ, tiện ích cho người lao động bắt buộc với KCN từ 200 ha trở lên** (NĐ 35/2022) — Minh Quân 160 ha và Âu Lâu 120 ha không thuộc diện, Y Can/Đông An/Việt Hồng 1 thì có.
+- **`SKILL.md`**: cập nhật mô tả ref 34 trong bảng reference.
+- Dự thảo 02 công văn của SCT (kèm bảng giải trình từng ý) lưu ở kho riêng tư `vlncn-laocai`: `du-thao/2026.09.21-QHPK-KCN-Y-Can/`, `du-thao/2026.09.21-QHPK-KCN-Dong-An/`.
+- ⚠️ Bản gốc PDF **không chép sang kho này** (kho công khai) theo quy tắc CLAUDE.md.
+- `plugin.json` → 1.40.0.
+
 ## [1.39.0] - 21/9/2026 — Đường kết nối nút giao IC18 – CCN Thống Nhất 1: phê duyệt dự án QĐ 3382/QĐ-UBND ngày 18/9/2026 (TMĐT 260 tỷ)
 
 - **Nguồn:** bản gốc PDF ký số **Quyết định 3382/QĐ-UBND ngày 18/9/2026** của UBND tỉnh Lào Cai phê duyệt dự án *Đường kết nối từ nút giao IC18 đến Cụm công nghiệp Thống Nhất 1* (KT. Chủ tịch — Phó Chủ tịch Phan Trung Bá). Số và ngày **không có ở lớp text**, phải soi trường ký số của văn thư (ký số 18/9/2026 11:56) — đúng cảnh báo GATE PDF ký số của CLAUDE.md.

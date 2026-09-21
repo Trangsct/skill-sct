@@ -128,7 +128,7 @@ Sử dụng khi Sở Công Thương tiếp nhận hồ sơ thành lập, mở r�
   - [ ] Cấp điện (TBA, đường dây);
   - [ ] Cấp nước;
   - [ ] Thoát nước (mưa, thải);
-  - [ ] **XLNT tập trung** (BẮT BUỘC, đạt QCVN 40:2011/BTNMT);
+  - [ ] **XLNT tập trung** (BẮT BUỘC, đạt QCVN 40:2025/BTNMT (TT 06/2025/TT-BTNMT, hiệu lực 01/9/2025 — thay QCVN 40:2011/BTNMT));
   - [ ] PCCC;
   - [ ] Viễn thông;
   - [ ] Cây xanh, cảnh quan;

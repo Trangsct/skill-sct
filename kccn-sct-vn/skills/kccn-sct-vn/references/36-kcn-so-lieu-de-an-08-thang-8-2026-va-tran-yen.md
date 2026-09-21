@@ -73,7 +73,7 @@ Mã số thông tin quy hoạch: **15262200001**. Địa điểm sau sáp nhập
 
 - Tổng diện tích nghiên cứu quy hoạch **339 ha**; diện tích lập QHPK 1/2000 giai đoạn I **254,59 ha (2.545.865,75 m²)**.
 - Cơ cấu sử dụng đất gốc: hành chính, dịch vụ KCN 13,36 ha (5,24%); nhà máy, kho tàng 174,86 ha (68,68%); cây xanh 31,95 ha (12,55%); khu kỹ thuật 3,43 ha (1,35%); giao thông, bãi xe tĩnh 31,01 ha (12,18%).
-- Hạ tầng: cấp điện từ TBA 110/22kV Bảo Hưng (2x63kVA), tổng công suất tiêu thụ 60 MVA; cấp nước Q = 9.615 m³/ngđ, giai đoạn sau xây nhà máy nước 30.000 m³/ngđ; thoát nước thải Q = 6.688 m³/ngđ, đạt cột A QCVN 40:2011/BTNMT; chất thải rắn 97 tấn/ngày đêm.
+- Hạ tầng: cấp điện từ TBA 110/22kV Bảo Hưng (2x63kVA), tổng công suất tiêu thụ 60 MVA; cấp nước Q = 9.615 m³/ngđ, giai đoạn sau xây nhà máy nước 30.000 m³/ngđ; thoát nước thải Q = 6.688 m³/ngđ, đạt cột A QCVN 40:2011/BTNMT (theo hồ sơ; quy chuẩn hiện hành là QCVN 40:2025/BTNMT); chất thải rắn 97 tấn/ngày đêm.
 - **Mục 8.1: tổng mức vốn đầu tư xây dựng hạ tầng khoảng 2.353 tỷ đồng.** Mục 8.2: đầu tư trong 4 năm kể từ ngày được bàn giao đất, **03 giai đoạn** (GĐ1 ~70 ha phía Đông Nam + trung tâm điều hành, trạm XLNT, trạm cấp nước sạch; GĐ2 ~80 ha phía Đông Nam + khu hành chính; GĐ3 phần còn lại phía Tây Bắc). Nguồn: vốn nhà đầu tư.
 - Căn cứ bổ sung KCN Trấn Yên vào quy hoạch quốc gia: **VB 91/TTg-CN ngày 24/01/2021** của Thủ tướng Chính phủ.
 

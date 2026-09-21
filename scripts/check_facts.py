@@ -43,6 +43,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qcvn-40-nuoc-thai-cong-nghiep",
+        # QCVN 40:2025/BTNMT (TT 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025) thay QCVN 40:2011/BTNMT.
+        # "QCVN 40:2021/BTNMT" là ký hiệu KHÔNG TỒN TẠI - lỗi có thật trong QĐ phê duyệt QHPK KCN Minh Quân 18/9/2026.
+        "pattern": r"^(?!.*(?:40:2025|thay thế|đã hết hiệu lực|không tồn tại|ký hiệu sai|lịch sử|trước ngày|nguyên văn|bản gốc)).*QCVN\s*40:\s*20(?:11|21)/BTNMT",
+        "why": "Quy chuẩn nước thải công nghiệp đang hiệu lực là QCVN 40:2025/BTNMT (Thông tư 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025) thay QCVN 40:2011/BTNMT; ký hiệu QCVN 40:2021/BTNMT KHÔNG tồn tại (lỗi trong QĐ phê duyệt QHPK KCN Minh Quân ngày 18/9/2026) - xem kccn-sct-vn ref 34 mục H.1.",
+        "since": "2026-09-21",
+        "level": "FAIL",
+    },
+    {
         "id": "duong-ic18-tmdt-260-ty",
         # QĐ 3382/QĐ-UBND ngày 18/9/2026 phê duyệt dự án đường IC18 - CCN Thống Nhất 1: TMĐT 260.000 triệu đồng.
         # 210.000 chỉ còn đúng khi nói về CHỦ TRƯƠNG đầu tư (QĐ 1955) hoặc KẾ HOẠCH đầu tư công trung hạn (QĐ 2390).

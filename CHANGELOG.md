@@ -1,3 +1,11 @@
+## 21/9/2026 — kccn-sct-vn 1.40.0: QHPK KCN đợt 18/9/2026 (Minh Quân phê duyệt; Y Can, Đông An xin ý kiến sở ngành)
+
+- 04 PDF ký số: QĐ phê duyệt QHPK KCN Minh Quân, VB 5947/SXD-QHKT 10/9/2026 (ý kiến thống nhất của Sở Xây dựng), 02 công văn xin ý kiến đồ án QHPK KCN Y Can và KCN Đông An. Số/ngày trống trên bản in, lấy mốc từ trường ký số (ban hành 18/9/2026).
+- ref 34 thêm mục H: **bước 11 của quy trình QHPK KCN — phải có ý kiến THỐNG NHẤT bằng văn bản của Sở Xây dựng trước khi phê duyệt** (khoản 4 Điều 41 Luật 47/2024 sửa tại Luật 144/2025), khác bước 4 xin ý kiến tham gia.
+- **Bẫy quy chuẩn: "QCVN 40:2021/BTNMT" trong QĐ phê duyệt Minh Quân là ký hiệu không tồn tại** — quy chuẩn nước thải công nghiệp đang hiệu lực là QCVN 40:2025/BTNMT (TT 06/2025/TT-BTNMT, hiệu lực 01/9/2025).
+- Y Can 349,76 ha (lệch 0,24 ha so với QĐ 525), Đông An 350 ha; hạn góp ý 23/9/2026, quá hạn coi như đồng ý. Cờ đỏ ranh giới: Y Can ghi giáp CCN Âu Lâu (CCN này ở phường Âu Lâu) trong khi cùng xã Quy Mông có CCN Y Can 75 ha trùng tên; Đông An không nhắc CCN Đông An (trùng tên) và CCN Bắc Văn Yên cùng xã.
+- ref 34 mục H.3: khung 10 ý kiến của SCT cho một đồ án QHPK KCN, dùng lại cho Việt Hồng 1, Việt Hồng 2; nhấn quỹ đất nhà ở, dịch vụ, tiện ích cho người lao động bắt buộc với KCN từ 200 ha trở lên.
+
 ## 21/9/2026 — kccn-sct-vn 1.39.0: đường kết nối nút giao IC18 – CCN Thống Nhất 1 được phê duyệt dự án (QĐ 3382/QĐ-UBND ngày 18/9/2026, TMĐT 260 tỷ)
 
 - Bản gốc PDF ký số QĐ 3382/QĐ-UBND ngày 18/9/2026 (Phó Chủ tịch Phan Trung Bá) — số/ngày lấy từ trường ký số, lớp text để trống.

@@ -265,3 +265,10 @@ Phần KHỚP giữa hai bản: Bảng 8.2 lò chợ (384,8 kg/vòng khấu = 2�
 - Căn cứ gia hạn: QĐ 1559/QĐ-UBND ngày 24/6/2024 khoản 8 Điều 1 (hạng mục 9/2026, phát điện 12/2026); CV 7017/STC-TĐ ngày 04/9/2026 của Sở Tài chính trả lời CV 74/CV-CT ngày 03/9/2026 của VIDIFI: chậm tiến độ hạng mục nhưng không chậm phát điện → không phải điều chỉnh chấp thuận CTĐT (Điều 33 Luật Đầu tư năm 2026); không hoàn thành trong 12/2026 thì phải điều chỉnh trước khi hết hạn tiến độ. PLHĐ 05 ngày 17/8/2026: hoàn thành chậm nhất 31/12/2026 (gia cố tạm đoạn hầm đứt gãy).
 - Khối lượng cấp lại 24.018 kg / 20.015 kíp / 13.229 m, tính tại PANM 01/2026/PANM-DC ngày 10/9/2026: q = 2,6 kg/m³ × 9.238 m³; kíp = 24.018 ÷ 1,2 kg/lỗ; thấp hơn số còn lại. Lưu ý: chỉ tiêu thực tế đã dùng 2,22 kg/m³; bảng tách kíp trong PANM (15.000 vi sai + 6.015 số 8 = 21.015) lệch tổng 20.015.
 - Khung: `vi-du-thuc-te/Phieu-trinh-PGD-ky-GP-cap-lai-Duy-Cuong-ban-chot-21.9.2026.docx` (bản sửa theo anti-error 35).
+
+## O. VỤ BẮC HÀ (9/2026) — CẤP LẠI GP /GP-SCT, GÓI THẦU 11 CẤP NƯỚC SẠCH SI MA CAI (nhà thầu thành viên liên danh)
+
+- GP cũ 1285/GP-UBND ngày 30/9/2025 (4.039 kg, 5.392 kíp, 1.426 m dây nổ; hạn 01/12/2025; PANM phê duyệt tại QĐ 1196/QĐ-UBND ngày 22/9/2025). Báo cáo 2408/BC-HTBH ngày 24/8/2026: chưa sử dụng (khu vực ngập nước, chưa thi công); không có kho, bảo quản tại Kho K10B xã Xuân Quang, giao theo hộ chiếu.
+- Căn cứ gia hạn: CV 2215/UBND-XD ngày 26/3/2026 của UBND tỉnh (theo đề nghị của Sở Tài chính tại VB 1358/STC-TĐ ngày 19/3/2026) đồng ý chủ trương gia hạn hợp đồng gói thầu 11 đến 20/12/2026, yêu cầu UBND xã Si Ma Cai hoàn thành GPMB, bàn giao mặt bằng sạch; PLHĐ 04/PLHĐ-XD ngày 30/3/2026 (HĐ 468/2024/HĐ-XD ngày 25/12/2024, Công ty là thành viên liên danh thứ ba) hoàn thành 20/12/2026.
+- Lưu ý khi trình: hồ sơ không có văn bản bàn giao mặt bằng khu vực nổ mìn (anti-error 17); GP ghi địa điểm cả Gói thầu 11 dù Công ty là 1/8 thành viên liên danh (anti-error 23-B).
+- Khung: `vi-du-thuc-te/Phieu-trinh-PGD-ky-GP-cap-lai-Bac-Ha-ban-chot-21.9.2026.docx`.

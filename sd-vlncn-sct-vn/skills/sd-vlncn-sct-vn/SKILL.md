@@ -158,7 +158,7 @@ Toàn văn 33 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **32** — KHO BẢO QUẢN VLNCN: có kho → khoản 3 ghi "Kho bảo quản VLNCN trữ lượng … tấn"; không có kho, mua theo từng hộ chiếu → ghi "Nổ mìn theo hộ chiếu nổ mìn"; hai cách loại trừ nhau
 - **33** — LUÔN VIẾT "Công ty TNHH" / "Công ty TNHH MTV", không viết "Công ty trách nhiệm hữu hạn"
 - **34** — KHOẢN 4 ĐIỀU 2 VIẾT NGẮN GỌN TÊN VĂN BẢN (căn cứ đã nêu đủ trích yếu) — thay mục 3 của 22-A
-- **35** — CẤP LẠI GP: Phiếu trình mô tả đủ GP đã cấp (cấp/đã dùng/còn lại), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ CTĐT + nội dung trả lời Sở Tài chính + PLHĐ), đối chiếu khối lượng 3 chiều (≤ còn lại; đã dùng + cấp lại ≤ đã cấp; theo PANM trên đá còn lại) — bộ Duy Cương 21/9/2026
+- **35** — CẤP LẠI GP: Phiếu trình mô tả đủ GP đã cấp (cấp/đã dùng/còn lại), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ CTĐT + nội dung trả lời Sở Tài chính + PLHĐ), đối chiếu khối lượng 3 chiều (≤ còn lại; đã dùng + cấp lại ≤ đã cấp; theo PANM trên đá còn lại) — bộ Duy Cương, Bắc Hà 21/9/2026; PTP ký thì mục II "Ý KIẾN CỦA PHÒNG QUẢN LÝ CÔNG NGHIỆP", khối ký PHÓ TRƯỞNG PHÒNG Trần Trọng Trang
 
 ## VII. CẤU TRÚC PLUGIN
 

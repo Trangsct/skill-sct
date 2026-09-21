@@ -6,7 +6,8 @@ Nguồn: chỉ đạo PTP Trần Trọng Trang khi sửa Phiếu trình cấp l�
 
 - Thêm **anti-error 35** (references/11): Phiếu trình cấp lại phải mô tả đủ GP đã cấp (cấp, đã dùng, còn lại, tồn kho), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ chủ trương đầu tư, văn bản hỏi và nội dung trả lời của Sở Tài chính, PLHĐ), đối chiếu khối lượng VLNCN 3 chiều; thứ tự đoạn mục 4 và danh mục mục 3.
 - references/02 mục E: dẫn chiếu anti-error 35; references/07: thêm mục N (vụ Duy Cương); SKILL.md: mục lục anti-error 35.
-- vi-du-thuc-te: thêm khung `Phieu-trinh-PGD-ky-GP-cap-lai-Duy-Cuong-ban-chot-21.9.2026.docx`.
+- Anti-error 35 bổ sung (h) khối ký theo người ký thực tế (PTP ký: mục II "Ý KIẾN CỦA PHÒNG QUẢN LÝ CÔNG NGHIỆP", khối ký PHÓ TRƯỞNG PHÒNG Trần Trọng Trang), (i) trường hợp GP cũ chưa sử dụng; references/07 thêm mục O (vụ Bắc Hà).
+- vi-du-thuc-te: thêm khung Phiếu trình cấp lại Duy Cương, Bắc Hà (bản chốt 21/9/2026).
 
 ## v2026.9.20.1 — 20/9/2026
 

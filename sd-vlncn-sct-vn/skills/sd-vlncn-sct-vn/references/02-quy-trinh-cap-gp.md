@@ -109,6 +109,7 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 
 ## E. CẤP LẠI / ĐIỀU CHỈNH — LƯU Ý RIÊNG
 
+- **Phiếu trình cấp lại** (từ 21/9/2026): bắt buộc theo **anti-error 35** — mô tả GP đã cấp, khối lượng đá đã phá nổ, căn cứ gia hạn (QĐ CTĐT, văn bản Sở Tài chính, PLHĐ) và đối chiếu khối lượng 3 chiều; khối lượng cấp lại có thể THẤP HƠN số còn lại nếu PANM tính theo khối lượng đá còn lại (vụ Duy Cương: 24.018/44.868,4 kg).
 - **Cấp lại**: chỉ khi KHÔNG đổi điều kiện/quy mô. Báo cáo hoạt động trong thời hạn GP đã cấp là đầu mục bắt buộc — kiểm tra khối lượng đã sử dụng, tồn kho, tình hình chấp hành. GP mới vẫn bị chặn trần thời hạn theo GP khai thác/công trình còn lại.
 - **Điều chỉnh**: dùng hình thức **QĐ điều chỉnh nội dung Giấy phép** (ví dụ Hỏm Dưới: điều chỉnh khoản 1 Điều 2 — địa điểm/phạm vi lý trình): trích nguyên văn "Nội dung đã cấp" → "Nội dung điều chỉnh thành"; Điều 2 khẳng định "Quyết định này là một bộ phận không tách rời của Giấy phép số …/GP-UBND"; các nội dung khác giữ nguyên hiệu lực. Ký hiệu văn bản vẫn `/GP-UBND`.
 - Điều chỉnh làm TĂNG quy mô/Qmax hoặc THAY ĐỔI vị trí gần công trình cần bảo vệ → thẩm định lại an toàn như cấp mới, cân nhắc yêu cầu PANM cập nhật + kiểm tra hiện trường.

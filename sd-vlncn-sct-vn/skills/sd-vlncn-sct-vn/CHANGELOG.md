@@ -1,5 +1,13 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.9.21.1 — 21/9/2026
+
+Nguồn: chỉ đạo PTP Trần Trọng Trang khi sửa Phiếu trình cấp lại Giấy phép sử dụng VLNCN cho Cty TNHH MTV Duy Cương (hầm dẫn nước thủy điện Suối Chăn 2).
+
+- Thêm **anti-error 35** (references/11): Phiếu trình cấp lại phải mô tả đủ GP đã cấp (cấp, đã dùng, còn lại, tồn kho), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ chủ trương đầu tư, văn bản hỏi và nội dung trả lời của Sở Tài chính, PLHĐ), đối chiếu khối lượng VLNCN 3 chiều; thứ tự đoạn mục 4 và danh mục mục 3.
+- references/02 mục E: dẫn chiếu anti-error 35; references/07: thêm mục N (vụ Duy Cương); SKILL.md: mục lục anti-error 35.
+- vi-du-thuc-te: thêm khung `Phieu-trinh-PGD-ky-GP-cap-lai-Duy-Cuong-ban-chot-21.9.2026.docx`.
+
 ## v2026.9.20.1 — 20/9/2026
 
 Nguồn: chỉ đạo PTP Trần Trọng Trang khi thẩm định 02 hồ sơ cấp lại Giấy phép sử dụng VLNCN (Cty TNHH TM&XD hạ tầng Bắc Hà - Gói thầu 11 Si Ma Cai; Cty TNHH MTV Duy Cương - thủy điện Suối Chăn 2).

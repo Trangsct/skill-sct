@@ -258,3 +258,10 @@ Phần KHỚP giữa hai bản: Bảng 8.2 lò chợ (384,8 kg/vòng khấu = 2�
 
 **Việc còn lại khi DN nộp lại:** Phiếu trình PGĐ Thuân + dự thảo GP /GP-SCT khuôn mỏ (Mông Sơn 28/8) — khoản 3 Điều 2 bỏ dòng giờ nổ mìn; kiểm tra thực tế lập biên bản khoảng cách 1.000 m; DN sửa mục 8.3 + bảng QĐ 09 khớp Bảng 8.12.
 
+## N. VỤ DUY CƯƠNG (9/2026) — CẤP LẠI GP /GP-SCT, HẦM DẪN NƯỚC THỦY ĐIỆN SUỐI CHĂN 2 (xã Võ Lao, xã Văn Bàn)
+
+- GP cũ: 914/GP-UBND ngày 26/8/2025 (Chủ tịch UBND tỉnh), 85.423 kg thuốc nổ, 78.291 kíp, 51.265 m dây nổ, hạn 30/8/2026. Báo cáo 308/BC-DC ngày 30/8/2026: đã dùng 40.554,6 kg / 33.898 kíp / 17.600 m; còn lại 44.868,4 kg / 44.393 / 33.665 (chưa mua theo hộ chiếu, không tồn kho).
+- BBNT khối lượng hoàn thành 01/NTKLHT ngày 25/8/2026: phá đá theo hợp đồng 27.489,8 m³, hoàn thành 18.251,8 m³, còn lại 9.238 m³ (toàn bộ đào hầm, hạng mục hầm dẫn nước; giếng điều áp đã xong).
+- Căn cứ gia hạn: QĐ 1559/QĐ-UBND ngày 24/6/2024 khoản 8 Điều 1 (hạng mục 9/2026, phát điện 12/2026); CV 7017/STC-TĐ ngày 04/9/2026 của Sở Tài chính trả lời CV 74/CV-CT ngày 03/9/2026 của VIDIFI: chậm tiến độ hạng mục nhưng không chậm phát điện → không phải điều chỉnh chấp thuận CTĐT (Điều 33 Luật Đầu tư năm 2026); không hoàn thành trong 12/2026 thì phải điều chỉnh trước khi hết hạn tiến độ. PLHĐ 05 ngày 17/8/2026: hoàn thành chậm nhất 31/12/2026 (gia cố tạm đoạn hầm đứt gãy).
+- Khối lượng cấp lại 24.018 kg / 20.015 kíp / 13.229 m, tính tại PANM 01/2026/PANM-DC ngày 10/9/2026: q = 2,6 kg/m³ × 9.238 m³; kíp = 24.018 ÷ 1,2 kg/lỗ; thấp hơn số còn lại. Lưu ý: chỉ tiêu thực tế đã dùng 2,22 kg/m³; bảng tách kíp trong PANM (15.000 vi sai + 6.015 số 8 = 21.015) lệch tổng 20.015.
+- Khung: `vi-du-thuc-te/Phieu-trinh-PGD-ky-GP-cap-lai-Duy-Cuong-ban-chot-21.9.2026.docx` (bản sửa theo anti-error 35).

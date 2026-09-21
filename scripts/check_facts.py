@@ -43,6 +43,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "duong-ic18-tmdt-260-ty",
+        # QĐ 3382/QĐ-UBND ngày 18/9/2026 phê duyệt dự án đường IC18 - CCN Thống Nhất 1: TMĐT 260.000 triệu đồng.
+        # 210.000 chỉ còn đúng khi nói về CHỦ TRƯƠNG đầu tư (QĐ 1955) hoặc KẾ HOẠCH đầu tư công trung hạn (QĐ 2390).
+        "pattern": r"^(?!.*(?:3382|260\.000|chủ trương|kế hoạch|trung hạn|2390|1955|lịch sử|trước ngày)).*IC18[^\n]{0,160}210\.000",
+        "why": "Tổng mức đầu tư dự án Đường kết nối từ nút giao IC18 đến CCN Thống Nhất 1 là 260.000 triệu đồng theo QĐ 3382/QĐ-UBND ngày 18/9/2026; 210.000 chỉ dùng khi nói về chủ trương đầu tư (QĐ 1955/QĐ-UBND ngày 19/6/2025) hoặc phân bổ kế hoạch đầu tư công trung hạn (QĐ 2390) — kccn-sct-vn ref 23 mục D.3, ref 22 mục B.",
+        "since": "2026-09-18",
+        "level": "FAIL",
+    },
+    {
         "id": "ccn-chau-que-to-trinh-196",
         # Bản gốc lấy từ Data360X 12/9/2026: UBND xã Châu Quế trình Tờ trình 196/TTr-UBND ngày 11/9/2026,
         # chính nó ghi thay thế Tờ trình 68/TTr-UBND ngày 11/5/2026 (bản 75 ha). Số 187 là của xã Tân Hợp.

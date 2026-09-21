@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **621** (Luật 32, NĐ 194, TT 106, QĐ 218, NQ 31, khác 40).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **624** (Luật 32, NĐ 195, TT 106, QĐ 220, NQ 31, khác 40).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **64**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -56,6 +56,7 @@
 - Luật 67/2020 (3 plugin: atvsld-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - Luật 6/2007 (3 plugin: hc-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - VBHN 78/VBHN-VPQH (3 plugin: hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn)
+- NĐ 212/2026 (3 plugin: kccn-sct-vn, kho-vlncn-sct-vn, xd-sct-vn)
 - NĐ 25/2026 (3 plugin: hc-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - NĐ 139/2025 (6 plugin: attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn)
 - NĐ 140/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)

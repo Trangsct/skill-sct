@@ -103,6 +103,8 @@ Tổng Biểu 02.1: **76 dự án, TMĐT 16.676.421, phân bổ 7.395.296** (XDC
 | Đường kết nối từ **Quốc lộ 4E đến CCN Thống Nhất 1** | Xã Gia Phú | **1693/QĐ-UBND ngày 15/5/2026** | 130.000 | **130.000** |
 | Đường kết nối từ **nút giao IC18 đến CCN Thống Nhất 1**, thành phố Lào Cai | Xã Gia Phú | **1955/QĐ-UBND ngày 19/6/2025** | 210.000 | **210.000** |
 
+> 🔄 **CẬP NHẬT 18/9/2026 — tuyến IC18 đã được phê duyệt dự án.** Chuỗi: CTĐT **1955/QĐ-UBND ngày 19/6/2025** → điều chỉnh CTĐT **2071/QĐ-UBND ngày 15/6/2026** (chưa có bản gốc) → **phê duyệt dự án 3382/QĐ-UBND ngày 18/9/2026**, **TMĐT 260.000 triệu đồng** (GPMB 72.012,451 + xây dựng 162.085,719 + QLDA 3.146,406 + tư vấn 7.396,694 + khác 3.702,355 + dự phòng 11.656,375). Con số **210.000 trong bảng này là số KẾ HOẠCH theo QĐ 2390 — giữ nguyên, không sửa**; khi báo cáo nhu cầu vốn phải nêu phần **chênh 50.000 triệu đồng** giữa TMĐT phê duyệt và phân bổ trung hạn. Chi tiết dự án → reference `23` mục D.3.
+
 > ✅ **GIẢI QUYẾT CỜ ĐỎ ref 19.** CHANGELOG v1.9.0 ghi cờ đỏ: Kế hoạch 134/KH-UBND (26/3/2026) viện dẫn "QĐ số 1955/QĐ-UBND **ngày 19/6/2026**" — sau ngày ban hành KH 3 tháng, nghi lỗi đánh máy. QĐ 2390 (biểu 02.1, dòng 22) ghi **1955/QĐ-UBND ngày 19/06/2025**. Kết luận: **ngày đúng là 19/6/2025**; bản KH 134 ghi 2026 là lỗi đánh máy. Từ nay được viện dẫn QĐ 1955/QĐ-UBND ngày 19/6/2025 (chủ trương đầu tư đường IC18 – CCN Thống Nhất 1).
 
 ### C. Khu tái định cư phục vụ GPMB các KCN (Lĩnh vực khác, Biểu 02.1)
@@ -133,6 +135,8 @@ Tổng nguồn 1.594.379; đã phân bổ **257.448**; còn lại **1.336.931**.
 | KCN Tằng Loỏng — đường T2, T12, T19 (nguồn khoáng sản) | 70.000 |
 | CCN chuyển tiếp (10 dự án) | 324.374 |
 | Đường kết nối CCN Thống Nhất 1 (02 dự án khởi công mới) | 340.000 |
+
+> Lưu ý đọc bảng trên: 340.000 là **phân bổ trung hạn** (IC18 210.000 + QL4E 130.000). Tổng **TMĐT đã phê duyệt/chủ trương** của 02 tuyến hiện là **390.000 triệu đồng** (IC18 260.000 theo QĐ 3382 ngày 18/9/2026 + QL4E 130.000 theo QĐ 1693 ngày 15/5/2026).
 | QHCT Khu vực SXCN Thống Nhất (di dời Đông Phố Mới, Sơn Mãn) | 109 |
 | Khu TĐC phục vụ GPMB các KCN | 50.000 |
 | Hạ tầng khu cửa khẩu Bản Vược (khu kinh tế) | 139.856 |

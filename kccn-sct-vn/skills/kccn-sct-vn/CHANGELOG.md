@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [1.39.0] - 21/9/2026 — Đường kết nối nút giao IC18 – CCN Thống Nhất 1: phê duyệt dự án QĐ 3382/QĐ-UBND ngày 18/9/2026 (TMĐT 260 tỷ)
+
+- **Nguồn:** bản gốc PDF ký số **Quyết định 3382/QĐ-UBND ngày 18/9/2026** của UBND tỉnh Lào Cai phê duyệt dự án *Đường kết nối từ nút giao IC18 đến Cụm công nghiệp Thống Nhất 1* (KT. Chủ tịch — Phó Chủ tịch Phan Trung Bá). Số và ngày **không có ở lớp text**, phải soi trường ký số của văn thư (ký số 18/9/2026 11:56) — đúng cảnh báo GATE PDF ký số của CLAUDE.md.
+- **`references/23-ccn-thong-nhat-1-ho-so-goc.md` — viết lại mục D** thành chuỗi 03 quyết định:
+  - D.1 chủ trương đầu tư **1955/QĐ-UBND ngày 19/6/2025** (giữ nguyên, đánh dấu TMĐT 210.000 triệu đã bị thay).
+  - D.2 **điều chỉnh chủ trương đầu tư 2071/QĐ-UBND ngày 15/6/2026 — VĂN BẢN MỚI, CHƯA CÓ BẢN GỐC** (chỉ biết qua căn cứ của QĐ 3382); ghi rõ không suy đoán nội dung điều chỉnh.
+  - D.3 **phê duyệt dự án 3382/QĐ-UBND ngày 18/9/2026**: nhóm B, công trình giao thông **cấp II**, mã định danh **1526416844900**, địa điểm **phường Cam Đường**, CĐT Ban QLDA ĐTXD công trình giao thông tỉnh, 02 bước thiết kế, 2026–2028, NSTW + NS tỉnh; **TMĐT 260.000.000.000 đồng** với đủ 06 khoản (GPMB 72.012.450.608; xây dựng 162.085.719.350; QLDA 3.146.405.900; tư vấn 7.396.694.355; khác 3.702.354.569; dự phòng 11.656.375.218 — cộng đúng tuyệt đối); quy mô kỹ thuật (2,6 km, 04 làn, Bnền 19,5 m, Bmặt 15,0 m, Vtk 60 km/h, cấp cao A1 Eyc ≥ 155 MPa, P = 4%, nút giao **vòng xuyến**, **03 hầm chui dân sinh** 4,0 x 3,5 m tại Km0+072,69 / Km0+905,07 / Km1+920, hoàn trả 03 đường dân sinh ~1.000 m); nhà thầu tư vấn CTCP Tư vấn xây dựng giao thông Lào Cai (MSDN 5300212646) và khảo sát Viện Kiến trúc quy hoạch xây dựng tỉnh Lào Cai (MSDN 5300215534); căn cứ thẩm định VB 5392/SXD-PTĐT 19/8/2026, VB 5887/SXD-PTĐT 08/9/2026, TTr 418/TTr-SXD 09/9/2026.
+  - **Nhiệm vụ của Sở Công Thương** tại Điều 2 khoản 4: cùng Sở Nông nghiệp và Môi trường hướng dẫn chủ đầu tư thủ tục khi phát hiện **quặng apatit** và khoáng sản có giá trị cao hơn VLXD thông thường (liên kết `qlks-sct-vn`).
+  - **CỜ ĐỎ ĐỊA DANH:** QĐ 3382 ghi tuyến và ranh giới CCN thuộc **phường Cam Đường**, trong khi ref 12, 13 và báo cáo của Sở ghi CCN Thống Nhất 1 ở **xã Gia Phú** — chưa đối chiếu được, đề nghị Phòng QLCN xác minh; trước mắt viện dẫn theo bản gốc, không tự sửa.
+  - Bảng đầu reference thêm 02 dòng (QĐ 2071, QĐ 3382); mục E thêm 03 dòng số chuẩn của tuyến IC18; mục F thêm cảnh báo 6 (**không dùng lại số 210.000 triệu một mình**) và cảnh báo 7 (mốc "hoàn thành trước 6/2027" là định hướng chỉ đạo, quyết định ghi 2026–2028).
+- **`references/22-dtc-trung-han-2026-2030-kcn-ccn.md`**: giữ nguyên số **kế hoạch** 210.000 triệu theo QĐ 2390, thêm khối cập nhật 18/9/2026 và ghi chú ở bảng tổng hợp vốn ngành — **phân bổ trung hạn 02 tuyến vẫn 340.000 triệu**, **tổng TMĐT đã phê duyệt/chủ trương của 02 tuyến nay là 390.000 triệu**, chênh **50.000 triệu** phải nêu khi báo cáo nhu cầu vốn.
+- **`SKILL.md`**: cập nhật mô tả ref 23 trong bảng reference.
+- ⚠️ **Bản gốc PDF chưa đính kèm vào `van-ban-goc/`** (thao tác sao chép tệp bị chặn trong phiên) — cần bổ sung `QD-3382-2026-phe-duyet-du-an-duong-IC18-CCN-Thong-Nhat-1.pdf` ở đợt sau.
+- `plugin.json` → 1.39.0.
+
 ## [1.38.0] - 17/9/2026 — Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư: không có mẫu bắt buộc + checklist 12 nội dung + 08 lỗi thật
 
 - **Nguồn:** vụ thật 17/9/2026 — Sở hướng dẫn 08 CCN hình thành trước đây có hạ tầng kỹ thuật đầu tư bằng nguồn vốn NSNN (Âu Lâu, Báo Đáp, Hưng Khánh, Thịnh Hưng, Sơn Thịnh, Yên Thế, Bắc Văn Yên, Đông An — 433,73 ha) và rà soát bản Thông báo của UBND xã Đông Cuông.

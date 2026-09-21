@@ -1,3 +1,11 @@
+## 21/9/2026 — kccn-sct-vn 1.39.0: đường kết nối nút giao IC18 – CCN Thống Nhất 1 được phê duyệt dự án (QĐ 3382/QĐ-UBND ngày 18/9/2026, TMĐT 260 tỷ)
+
+- Bản gốc PDF ký số QĐ 3382/QĐ-UBND ngày 18/9/2026 (Phó Chủ tịch Phan Trung Bá) — số/ngày lấy từ trường ký số, lớp text để trống.
+- ref 23 mục D viết lại thành chuỗi 03 quyết định: CTĐT 1955 (19/6/2025) → điều chỉnh CTĐT **2071 (15/6/2026, chưa có bản gốc)** → phê duyệt dự án **3382 (18/9/2026)**; TMĐT 210.000 → **260.000 triệu đồng**, đủ 06 khoản chi phí, quy mô kỹ thuật, 03 hầm chui dân sinh, nút giao vòng xuyến, nhà thầu tư vấn/khảo sát.
+- Nhiệm vụ Sở Công Thương tại Điều 2 khoản 4 (hướng dẫn thủ tục khi phát hiện quặng apatit) được ghi vào reference.
+- Cờ đỏ địa danh: QĐ ghi **phường Cam Đường**, hồ sơ cụm ghi **xã Gia Phú** — chờ Phòng QLCN xác minh.
+- ref 22 giữ số kế hoạch 210.000 (QĐ 2390), thêm ghi chú chênh 50.000 triệu so với TMĐT phê duyệt.
+
 ## [2.25.1] - 17/9/2026 — normalize_body.py: ba vùng bảo vệ (đoạn trống kề bảng, đoạn chứa shape/ngắt trang, khối Kính gửi)
 
 - **Nguồn:** chạy lại script Nhóm N trên hai văn bản đã giao (công văn hướng dẫn 08 CCN có phụ lục mẫu Thông báo; Thông báo CCN Đông An) thì script đòi xóa nhầm: 2 đoạn trống kẹp khối Nơi nhận - chữ ký và bảng phụ lục; đoạn rỗng chứa **đường kẻ dưới trích yếu** (v:line) của mẫu Thông báo; và đòi ép lùi đầu dòng khối **Kính gửi** (left=1134, firstLine=0) về mức chung.

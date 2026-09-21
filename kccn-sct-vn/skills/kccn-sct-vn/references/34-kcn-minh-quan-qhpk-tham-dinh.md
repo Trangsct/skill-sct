@@ -85,3 +85,86 @@ Nguồn: **TB kết luận 77/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đ�
 | QHPK KCN Âu Lâu | Lập mới QHPK | 120 ha hiện hữu | QĐ 229/QĐ-HĐTĐ | **78/TB-HĐTĐ 04/9/2026** | 5138/SCT-CN 21/8 | 1223/BQLCKCN-QLDA 25/8 |
 
 Cả 03 đều: thống nhất thông qua, có danh mục nội dung hoàn thiện, chờ QĐ phê duyệt của BQLCKCN.
+
+## H. ĐỢT 18/9/2026 — MINH QUÂN ĐÃ PHÊ DUYỆT; Y CAN VÀ ĐÔNG AN XIN Ý KIẾN SỞ NGÀNH (bổ sung 21/9/2026)
+
+> NGUỒN: 04 bản PDF ký số Bạn cung cấp ngày 21/9/2026. **Cả 04 bản đều để TRỐNG ô số và ngày trên bản in
+> (trống cả trong lớp chữ lẫn ảnh render)** — chỉ đọc được mốc từ trường ký số. Khi viện dẫn chính thức
+> phải lấy số hiệu từ sổ văn bản đến trên Data360X, KHÔNG suy số.
+
+### H.1. Quyết định phê duyệt QHPK KCN Minh Quân
+
+- Trưởng Ban BQLCKCN **Đỗ Việt Bách ký 17/9/2026, ký số cơ quan 18/9/2026** → ban hành **18/9/2026**;
+  ký hiệu `/QĐ-BQLCKCN`, **số chưa xác định**. Khép lại mục C bước 10 và mục B ở trên.
+- Căn cứ bổ sung so với chuỗi cũ: **VB 5947/SXD-QHKT ngày 10/9/2026** của Sở Xây dựng — *ý kiến THỐNG NHẤT*
+  (khác VB 5352/SXD-QHKT 18/8 là ý kiến tham gia); **TTr 119/TTr-BQLCKCN ngày 11/9/2026** (cơ quan tổ chức
+  lập quy hoạch trình) và **BC 272/BC-BQLCKCN ngày 07/9/2026** (cơ quan thẩm định báo cáo kết quả thẩm định).
+  → **Bước 11 của quy trình QHPK KCN: trước khi phê duyệt phải có ý kiến THỐNG NHẤT bằng văn bản của Sở Xây
+  dựng** theo khoản 4 Điều 41 Luật Quy hoạch đô thị và nông thôn 47/2024 (sửa tại điểm b khoản 29 Điều 1
+  Luật 144/2025) — cơ quan quản lý khu chức năng phê duyệt quy hoạch thì phải có ý kiến thống nhất của cơ
+  quan chuyên môn về quy hoạch đô thị và nông thôn cấp tỉnh về kết nối hạ tầng kỹ thuật tỉnh và việc tuân
+  thủ quy chuẩn, tiêu chuẩn. Ghi vào bảng quy trình: bước 4 (xin ý kiến) và bước 11 (xin ý kiến thống nhất)
+  là HAI bước khác nhau, hai văn bản khác nhau của Sở Xây dựng.
+- Số liệu Điều 1 dùng được ngay: quy mô **160 ha** (hiện có 107,89 + mở rộng 52,11 — khớp "52 ha nằm trong
+  ranh giới 160 ha" tại mục A); lao động **8.675 người (~80 lao động/ha)**; cơ cấu SDĐ: dịch vụ 1,87 ha
+  (1,17%), an ninh 2,50 ha (1,56%), sản xuất công nghiệp và kho bãi 106,81 ha (66,76%), cây xanh và mặt nước
+  27,21 ha (17,01%), hạ tầng kỹ thuật khác 5,18 ha (3,24%), giao thông 16,42 ha (10,26%); cấp nước
+  7.900 m³/ngày đêm; **XLNT tập trung 4.000 m³/ngày đêm (giai đoạn 1 khoảng 500 m³/ngày đêm)**; cấp điện
+  **TBA 110 kV Minh Quân, nhu cầu 29,2 MVA**; viễn thông 1.743 thuê bao; cao độ san nền +36,50 đến +55,00 m.
+  Ranh giới trong Điều 1: Bắc giáp đất nông nghiệp phường Âu Lâu, Nam giáp đường khu dân cư, Đông giáp
+  sông Hồng, Tây giáp Quốc lộ 32C.
+- ⚠️ **BẪY QUY CHUẨN — bản gốc ghi "QCVN 40:2021/BTNMT (Cột A)". KHÔNG CÓ quy chuẩn mang ký hiệu này.**
+  Quy chuẩn nước thải công nghiệp đang hiệu lực là **QCVN 40:2025/BTNMT** ban hành kèm Thông tư 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025 (thay QCVN 40:2011/BTNMT). Khi soạn ý kiến cho các
+  đồ án sau phải yêu cầu sửa; khi trích nguyên văn QĐ Minh Quân thì giữ và ghi chú.
+- Bẫy số hiệu lặp lại từ TB 76: bản gốc vẫn ghi "Luật Xây dựng số **135/2026**/QH15 ngày 10/12/2025" —
+  số đúng là **135/2025/QH15**.
+
+### H.2. Xin ý kiến 02 đồ án QHPK KCN Y Can và KCN Đông An
+
+Hai công văn `/BQLCKCN-NV` (số để trống), Trưởng ban Đỗ Việt Bách ký 17/9/2026, ký số cơ quan **18/9/2026**;
+đơn vị lập quy hoạch cả hai đồ án: **Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam - VCC**;
+đã tổ chức xin ý kiến cộng đồng dân cư trước khi xin ý kiến sở ngành. **Hạn trả lời: trước 23/9/2026 — quá
+hạn không trả lời được hiểu là đồng ý** (điều khoản này có trong cả hai công văn). Đầu mối: đ/c Trần Hà Châu,
+CV phòng Nghiệp vụ BQLCKCN.
+
+| | KCN Y Can | KCN Đông An |
+|---|---|---|
+| Quy mô lập QH | **349,76 ha** (QĐ 525 ghi 350 ha — lệch 0,24 ha, phải giải trình) | **350 ha** (khớp QĐ 525) |
+| Địa bàn | Xã Lương Thịnh, xã Quy Mông | Xã Đông Cuông |
+| Ranh giới | Bắc: khu thương mại dịch vụ quy hoạch + khu quốc phòng hiện trạng; Nam: **cụm công nghiệp Âu Lâu**; Đông: cao tốc Nội Bài - Lào Cai; Tây: khu dân cư và đường vào thôn Vực Tròn | Đông Bắc: **"đường sắt cao tốc Côn Minh - Hải Phòng"**; Đông Nam và Tây Nam: khu trồng cây sản xuất; Tây Bắc: đường hiện trạng và khu trang trại chăn nuôi |
+| Nơi nhận | 05 sở (XD, NN&MT, Công Thương, TC, KH&CN), Công an tỉnh, BCH quân sự tỉnh, UBND xã Quy Mông, UBND xã Lương Thịnh | 05 sở như trên, Công an tỉnh, BCH quân sự tỉnh, UBND xã Đông Cuông |
+
+**Hai chỗ trong mô tả ranh giới cần rà khi soạn ý kiến (đã nêu trong 02 dự thảo ý kiến của SCT ngày 21/9/2026):**
+
+1. **Y Can — "phía Nam giáp cụm công nghiệp Âu Lâu".** Theo QĐ 525 Phụ lục III, CCN Âu Lâu (75 ha) thuộc
+   **phường Âu Lâu**, trong khi đồ án nằm ở xã Lương Thịnh + Quy Mông. Cùng xã Quy Mông lại có **CCN Y Can
+   75 ha** (QĐ thành lập 949/QĐ-UBND 06/5/2025, đã điều chỉnh địa danh về xã Quy Mông; doanh nghiệp làm CĐT;
+   đã đền bù ~20 ha) — **trùng tên với KCN Y Can**. Phải yêu cầu thể hiện ranh giới CCN trên bản vẽ và khẳng
+   định không chồng lấn (xem ref 12 mục III.8).
+2. **Đông An — "đường sắt cao tốc Côn Minh - Hải Phòng".** Tên theo hồ sơ quy hoạch, chủ trương đầu tư đã
+   duyệt là **tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng**. Ngoài ra mô tả ranh giới KHÔNG nhắc tới
+   **CCN Đông An** (đã thành lập, QĐ 525 tăng 34 → 50 ha, **trùng tên với KCN Đông An**) và **CCN Bắc Văn Yên**
+   (55 ha) tuy cả hai cùng ở xã Đông Cuông.
+
+### H.3. Khung ý kiến của SCT đối với một đồ án QHPK KCN (dùng lại cho Việt Hồng 1, Việt Hồng 2)
+
+Dự thảo 02 công văn của SCT ngày 21/9/2026 lưu tại kho riêng tư `vlncn-laocai`, thư mục
+`du-thao/2026.09.21-QHPK-KCN-Y-Can/` và `du-thao/2026.09.21-QHPK-KCN-Dong-An/` (kèm GIAI-TRINH.md). Bộ 10 ý:
+
+1. Sự phù hợp quy hoạch tỉnh (QĐ 525 Phụ lục II) và danh mục thu hút đầu tư (QĐ 1382) — đối chiếu **diện
+   tích, tên xã**; lệch thì yêu cầu giải trình.
+2. Sự phù hợp định hướng phát triển công nghiệp: NQ 34-NQ/TU, KH 134/KH-UBND, Đề án 08-ĐA/TU, NQ 26-NQ/TU.
+3. **Ranh giới với CCN cùng địa bàn** — ý kiến riêng có của SCT, không cơ quan nào khác trong nhóm được hỏi
+   quản CCN. Yêu cầu thể hiện ranh giới CCN trên bản vẽ + khẳng định không chồng lấn + phân biệt tên gọi.
+4. Danh mục ngành nghề theo **VSIC** và loại hình KCN theo NĐ 35/2022; khoảng cách an toàn với hóa chất,
+   LPG, xăng dầu, VLNCN theo QCVN của Bộ Công Thương.
+5. XLNT tập trung (NĐ 35/2022) + **quy chuẩn đúng là QCVN 40:2025/BTNMT**.
+6. **Quỹ đất nhà ở, dịch vụ, tiện ích cho người lao động — bắt buộc với KCN từ 200 ha trở lên** (NĐ 35/2022).
+   Minh Quân 160 ha và Âu Lâu 120 ha KHÔNG thuộc diện này; Y Can, Đông An, Việt Hồng 1 (300 ha) thì có.
+7. Cấp điện: nguồn, đấu nối, TBA 110 kV, hành lang tuyến; phù hợp QĐ 768/QĐ-TTg và kế hoạch thực hiện;
+   rà chồng lấn với dự án nguồn điện, lưới điện trên địa bàn; thống nhất với Công ty Điện lực Lào Cai.
+8. Đối chiếu quy hoạch khoáng sản, khu vực mỏ đã cấp phép, khu vực dự trữ khoáng sản quốc gia.
+9. Hành lang an toàn công trình đối ngoại (cao tốc, đường sắt), hoàn trả đường dân sinh, dải cây xanh
+   cách ly — ba nội dung Hội đồng đã bắt ở đợt 04/9/2026.
+10. Chuẩn xác hiện trạng SDĐ; **xin tọa độ ranh giới theo hệ VN-2000 sau khi phê duyệt** để cập nhật CSDL,
+    bản đồ KCN/CCN của Sở.

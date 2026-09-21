@@ -1,11 +1,13 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.39.0",
-  "description": "GATE trạng thái hồ sơ (ref 39, trang_thai_cum.py): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; HĐ thẩm định QH KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW, CTr 104-CTr/TU. Khung 9/2026: NĐ 32/2024, 303/2026, LĐT 143/2025, NĐ 96/2026, TT 55/2026. Tiến độ 12/9/2026: ref 36-38. Đường IC18 - CCN Thống Nhất 1: QĐ 3382 18/9/2026, 260 tỷ (ref 23).",
+  "version": "1.40.0",
+  "description": "GATE trạng thái hồ sơ (ref 39): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; HĐ thẩm định QH KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW. Khung 9/2026: NĐ 32/2024, 303/2026, LĐT 143/2025, NĐ 96/2026. QHPK KCN 18/9/2026: Minh Quân đã duyệt, Y Can và Đông An xin ý kiến (ref 34 mục H).",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "qcvn-40-2025-btnmt",
+    "qhpk-kcn-y-can-dong-an",
     "duong-ic18-ccn-thong-nhat-1",
     "gate-trang-thai-ho-so",
     "dieu-chinh-ctdt-du-an-thu-cap",

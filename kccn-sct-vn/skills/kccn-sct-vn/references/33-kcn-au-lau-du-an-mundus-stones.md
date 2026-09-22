@@ -149,11 +149,11 @@ Lưu ý:
 
 Nguồn: **TB kết luận 78/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đỗ Việt Bách ký; số/ngày đọc từ trường ký số bằng extract_metadata.py — ô trên bản in trống). Quy trình chung 10 bước và bộ căn cứ pháp lý: dùng reference `34` (Minh Quân); dưới đây chỉ ghi phần RIÊNG của Âu Lâu.
 
-1. Thông tin đồ án: QHPK KCN Âu Lâu, tỉnh Lào Cai; địa điểm phường Âu Lâu (phạm vi thuộc phường Âu Lâu và xã Quy Mông); quy mô **120 ha — theo ranh giới HIỆN HỮU** (QĐ 2078QĐ-UBND 25/12/2008 — bản gốc in thiếu dấu "/", đúng là 2078/QĐ-UBND; điều chỉnh cục bộ QĐ 1949/QĐ-UBND 05/10/2015 và QĐ 594/QĐ-UBND 08/4/2019), CÓ nghiên cứu phương án kết nối phần mở rộng theo QĐ 525 (lên 155 ha). ⚠️ KHÔNG viết "QHPK Âu Lâu 155 ha": 155 ha là diện tích quy hoạch tỉnh, đồ án QHPK lần này chỉ 120 ha hiện hữu — khác Minh Quân (QHPK trùng quy mô QĐ 525 là 160 ha). Cơ quan lập + phê duyệt: BQL các KCN tỉnh.
+1. Thông tin đồ án: QHPK KCN Âu Lâu, tỉnh Lào Cai; địa điểm phường Âu Lâu (phạm vi thuộc phường Âu Lâu và xã Quy Mông); quy mô hồ sơ thẩm định ghi **120 ha — theo ranh giới HIỆN HỮU** (bản được duyệt chốt lại **118,35 ha** — mục I.1) (QĐ 2078QĐ-UBND 25/12/2008 — bản gốc in thiếu dấu "/", đúng là 2078/QĐ-UBND; điều chỉnh cục bộ QĐ 1949/QĐ-UBND 05/10/2015 và QĐ 594/QĐ-UBND 08/4/2019), CÓ nghiên cứu phương án kết nối phần mở rộng theo QĐ 525 (lên 155 ha). ⚠️ KHÔNG viết "QHPK Âu Lâu 155 ha": 155 ha là diện tích quy hoạch tỉnh, đồ án QHPK lần này chỉ 120 ha hiện hữu — khác Minh Quân (QHPK trùng quy mô QĐ 525 là 160 ha). Cơ quan lập + phê duyệt: BQL các KCN tỉnh.
 2. Mốc riêng: lấy ý kiến dân cư 25/6/2026, niêm yết 25/6 – 15/7/2026 tại trụ sở UBND phường Âu Lâu + hội trường **thôn Cống Đá**; kết thúc VB 1702/UBND-KTHT + TB 59/TB cùng ngày 16/7/2026; xin ý kiến sở ngành VB **1145/BQLCKCN-NV 11/8/2026**; tiếp thu, giải trình VB **1223/BQLCKCN-QLDA 25/8/2026**; GM 101/GM-BQLCKCN 26/8/2026 (chung với Minh Quân); họp + biên bản 04/9/2026.
 3. 08 ý kiến sở ngành: 6356/STC-TĐ 12/8; **5138/SCT-CN 21/8/2026 (ý kiến của SCT — KHÁC văn bản 4901/SCT-CN cho Minh Quân)**; 2616/SKHCN-QLCN 13/8; 7783/SNNMT-QLĐĐ 13/8; 4436/BCH-TM 14/8; 2050/UBND-KTHT (phường Âu Lâu); 5283/SXD-QHKT 14/8; 5577/CAT-ANKT 18/8. Ghi chú: 6356/STC-TĐ và 5577/CAT-ANKT trùng số với hồ sơ Minh Quân — 01 văn bản góp ý chung cho cả 02 đồ án; các sở còn lại ban hành văn bản riêng từng đồ án.
 4. Kết luận Hội đồng: **thống nhất thông qua**, hồ sơ đủ điều kiện; 03 nội dung hoàn thiện trước khi trình phê duyệt: (a) kiểm tra thể hiện diện tích đất quy hoạch **Nhà ở công nhân** (đã điều chỉnh cục bộ tại QĐ 594/QĐ-UBND 08/4/2019) bảo đảm đúng quy định; (b) thống nhất số liệu quy mô **Hệ thống XLNT tập trung** giữa bản vẽ và thuyết minh; (c) chuẩn xác số liệu hiện trạng sử dụng đất.
-5. Trạng thái: chờ CĐT + tư vấn hoàn thiện, BQLCKCN ban hành QĐ phê duyệt đồ án QHPK (chưa có tại 08/9/2026 — khi có, cập nhật số/ngày vào đây). Mốc đưa vào biểu tiến độ tuần: "QHPK KCN Âu Lâu đã qua HĐTĐ 04/9/2026 (TB 78/TB-HĐTĐ), chờ phê duyệt".
+5. Trạng thái: **ĐÃ PHÊ DUYỆT** tại **QĐ 263/QĐ-BQLCKCN** (ô ngày ghi 11/9/2026 — xem cảnh báo vênh ngày ở mục I). Quy mô đồ án được duyệt là **118,35 ha**, KHÔNG phải 120 ha như hồ sơ thẩm định ghi tròn. Toàn bộ nội dung được duyệt: **mục I** dưới đây. Mốc biểu tiến độ tuần: "QHPK KCN Âu Lâu ĐÃ PHÊ DUYỆT (QĐ 263/QĐ-BQLCKCN)".
 
 
 ## F. BÁO CÁO KẾT QUẢ THẨM ĐỊNH NGÀY 20/8/2026 — CẤU TRÚC VÀ KẾT LUẬN (bổ sung 10/9/2026)
@@ -274,3 +274,83 @@ Như Điều 3; UBND tỉnh; **các Sở: Tài chính, Công Thương, Xây dự
 ### H.5. Trạng thái vụ việc
 
 **ĐÃ KẾT THÚC** ở khâu chủ trương đầu tư (10/9/2026). Còn treo: (a) GCN ĐKĐT điều chỉnh lần 3; (b) thủ tục Giấy phép môi trường/Đăng ký môi trường trước khi vận hành; (c) nghiệm thu PCCC trước khi đưa vào hoạt động. Ba việc này là điều kiện để dự án được tính vào sản lượng, lấp đầy KCN Âu Lâu.
+
+## I. QUY HOẠCH PHÂN KHU KCN ÂU LÂU ĐÃ ĐƯỢC PHÊ DUYỆT — QĐ 263/QĐ-BQLCKCN (bổ sung 22/9/2026)
+
+> NGUỒN: bản PDF ký số Bạn cung cấp 22/9/2026 — *Quyết định phê duyệt Quy hoạch phân khu Khu công nghiệp Âu Lâu, tỉnh Lào Cai*, Trưởng Ban Quản lý các khu công nghiệp **Đỗ Việt Bách** ký. Đã chạy GATE đọc PDF ký số: **số 263** và **ngày 11** (tháng 9 năm 2026) nằm trong TRƯỜNG KÝ SỐ của văn thư, lớp chữ thường của bản in để trống — đọc bằng `extract_metadata.py` / render ảnh có bật form field, KHÔNG kết luận "dự thảo chưa điền số". Khép lại mục E khoản 5 ở trên và bước 10 của bảng quy trình ref 34 mục C.
+>
+> ⚠️ **VÊNH NGÀY — phải đối chiếu sổ văn bản trước khi viện dẫn chính thức.** Ô ngày điền **11/9/2026**, nhưng dấu thời gian chữ ký số là: Trưởng ban ký **20/9/2026 22:31**, ký số cơ quan (văn thư) **21/9/2026 08:46**. Một văn bản không thể ban hành trước ngày người có thẩm quyền ký ⇒ hoặc văn thư điền nhầm "11" thay vì "21", hoặc số 263 được cấp lùi theo ngày trình. Số 263 khớp mạch số của BQLCKCN (QĐ 257 ngày 10/9/2026 — mục H). **Khi soạn văn bản của Sở: ghi "Quyết định số 263/QĐ-BQLCKCN" và tra ngày trong sổ văn bản đến trên Data360X, không suy từ bản PDF.**
+
+### I.1. Phạm vi, quy mô (Điều 1 khoản 2)
+
+- Phạm vi: địa giới hành chính **phường Âu Lâu và xã Quy Mông**, tỉnh Lào Cai. Ranh giới: Bắc giáp đường Âu Lâu đi Quy Mông; Nam giáp **thôn Đắng Con**; Đông giáp **sông Hồng**; Tây giáp **đường cao tốc Nội Bài - Lào Cai**.
+- **Quy mô ranh giới lập quy hoạch: 118,35 ha** (1.183.454 m²). Thời gian lập quy hoạch: tháng 5/2026 – tháng 8/2026.
+- ⚠️ **SỐ CHỐT MỚI — thay cho "QHPK Âu Lâu 120 ha" đã ghi ở mục E và ref 12, 34.** Ba con số phải phân biệt: **118,35 ha** = ranh giới đồ án QHPK được duyệt; **120 ha** = quy mô KCN hiện hữu theo QHCT 2008 (số danh nghĩa vẫn dùng trong biểu báo cáo hiện trạng); **155 ha** = quy mô theo quy hoạch tỉnh QĐ 525/QĐ-UBND 25/02/2026 (định hướng mở rộng, đồ án lần này chỉ *nghiên cứu phương án kết nối*). Không làm tròn hay thay thế lẫn nhau.
+- Quy mô lao động dự kiến: **khoảng 10.000 lao động (~80 lao động/ha)** — cùng định mức 80 lao động/ha với QHPK Minh Quân.
+
+### I.2. Cơ cấu sử dụng đất được duyệt (Điều 1 khoản 6.1)
+
+| TT | Chức năng sử dụng đất | Ký hiệu | Diện tích (m²) | Diện tích (ha) | Tỷ lệ (%) |
+|---|---|---|---|---|---|
+| | **TỔNG** | | **1.183.454** | **118,35** | **100,00** |
+| 1 | Đất dịch vụ, hành chính | DV | 23.886 | 2,39 | 2,02 |
+| 2 | Đất an ninh | AN | 25.054 | 2,51 | 2,12 |
+| 3 | Đất sản xuất công nghiệp, kho bãi | CN | 836.940 | 83,69 | 70,72 |
+| 4 | Đất cây xanh, mặt nước | CX; MN | 139.956 | 14,00 | 11,83 |
+| 4a | — cây xanh chuyên dụng | CX | 122.591 | 12,26 | 10,36 |
+| 4b | — mặt nước | MN | 17.365 | 1,74 | 1,47 |
+| 5 | Đất hạ tầng kỹ thuật khác (có trạm PCCC) | HTKT | 14.265 | 1,43 | 1,21 |
+| 6 | Đất giao thông (gồm bãi đỗ xe) | GT | 143.353 | 14,34 | 12,11 |
+| 6a | — bãi đỗ xe | | 17.827 | 1,78 | 1,51 |
+| 6b | — đường giao thông | | 125.526 | 12,55 | 10,61 |
+
+Mật độ xây dựng / tầng cao tối đa: DV 40% - 5 tầng; AN 40% - 3 tầng; CN 70% - 5 tầng; HTKT 70% - 2 tầng. Chiều cao công trình trong nhà máy theo nhu cầu công nghệ, thực hiện theo NĐ 32/2016/NĐ-CP ngày 06/5/2016 và NĐ 101/2025/NĐ-CP ngày 06/5/2025 (theo viện dẫn của bản gốc).
+
+**Chỉ giới xây dựng: tối thiểu 6 m tính từ chỉ giới đường đỏ; RIÊNG các nhà máy dọc đường trục I KCN Âu Lâu là 5 m** (theo hiện trạng và giấy phép xây dựng đã cấp). Đây là ngoại lệ đặc thù của Âu Lâu, ghi 2 lần trong bản gốc (mục 6.2 và 6.3) — dùng khi trả lời doanh nghiệp hỏi khoảng lùi.
+
+⚠️ Cơ cấu sử dụng đất được duyệt **KHÔNG có hạng mục đất nhà ở công nhân** (Hội đồng thẩm định tại TB 78/TB-HĐTĐ 04/9/2026 yêu cầu kiểm tra thể hiện diện tích đất Nhà ở công nhân đã điều chỉnh cục bộ tại QĐ 594/QĐ-UBND 08/4/2019 — mục E khoản 4a). Phù hợp với NĐ 35/2022: quỹ đất nhà ở, dịch vụ, tiện ích cho người lao động chỉ bắt buộc với KCN từ **200 ha** trở lên, Âu Lâu 118,35 ha không thuộc diện. Khi doanh nghiệp hoặc UBND phường hỏi về nhà ở công nhân tại Âu Lâu: trả lời theo cơ cấu được duyệt, không viện dẫn phần điều chỉnh cục bộ 2019 như đang còn hiệu lực nếu chưa đối chiếu bản vẽ QH được duyệt.
+
+### I.3. Hạ tầng kỹ thuật — số liệu dùng ngay khi tham gia ý kiến, thẩm định dự án thứ cấp
+
+| Hạng mục | Số liệu được duyệt |
+|---|---|
+| Giao thông | Mặt cắt 1-1 lộ giới **19,0 m** (lòng 2×6,50; hè 2×3,0); mặt cắt 2-2 lộ giới **27,0 m** (lòng 2×7,5; hè 2×6,0); mặt cắt 3-3 lộ giới **19,5 m** (lòng 2×5,25; hè 2×4,5); bãi đỗ xe 1,78 ha |
+| San nền | Cao độ min **+37,30 m**, max **+57,30 m**; cân bằng đào đắp |
+| Thoát nước mưa | Riêng hoàn toàn, tự chảy, thoát ra suối hiện trạng; cống BTCT B800, B1000, B1200, B1500, B2000 và cống tròn D2000 hoàn trả |
+| Cấp nước | Nguồn: **hệ thống cấp nước Yên Bái** dọc đường trục I; nhu cầu **3.600 m³/ngđ**; mạng vòng kết hợp chữa cháy, trụ cứu hỏa cách nhau **120–150 m**; ống **D110–D350** |
+| Thoát nước thải | Riêng hoàn toàn; **Trạm XLNT tập trung 2.000 m³/ngđ (giai đoạn 1 khoảng 500 m³/ngđ)**; cống D200–D500; nước thải nhà máy phải xử lý cục bộ đạt chuẩn trước khi xả vào hệ thống chung |
+| Chất thải rắn | CTR sinh hoạt và công nghiệp không nguy hại: thùng chứa + hợp đồng đơn vị chức năng; CTNH: phân loại, dán nhãn, lưu kho tạm, bàn giao đơn vị đủ điều kiện |
+| Cấp điện | Đấu nối **tuyến 35 kV** đi gần hàng rào KCN; lưới trung thế **22 kV mạch vòng vận hành hở**; TBA 22/0,4 kV xây hoặc kios; nhu cầu **32,2 MVA** |
+| Viễn thông | **1.382 thuê bao**, đấu nối từ trạm vệ tinh gần nhất |
+| Nguồn vốn | Ngân sách nhà nước và các nguồn vốn hợp pháp khác |
+
+So sánh nhanh với QHPK Minh Quân (ref 34 mục H.1) khi làm báo cáo chung: Âu Lâu 118,35 ha - 10.000 LĐ - cấp nước 3.600 m³/ngđ - XLNT 2.000 m³/ngđ - điện 32,2 MVA - 1.382 thuê bao; Minh Quân 160 ha - 8.675 LĐ - cấp nước 7.900 m³/ngđ - XLNT 4.000 m³/ngđ - điện 29,2 MVA (TBA 110 kV Minh Quân) - 1.743 thuê bao. **Cả hai đều có giai đoạn 1 của trạm XLNT khoảng 500 m³/ngđ.**
+
+### I.4. Ngành nghề thu hút (Điều 1 khoản 4) — dùng khi thẩm định mục tiêu dự án thứ cấp
+
+KCN tập trung, ngành **sản xuất công nghiệp sạch, ít gây ô nhiễm độc hại**: may mặc; lắp ráp điện tử; thủ công mỹ nghệ; cơ khí, sản xuất hàng tiêu dùng; chế biến nông, lâm sản; sản xuất thiết bị điện, linh kiện điện tử; sản xuất thuốc, mỹ phẩm, thiết bị y tế; sản xuất plastic và sản phẩm từ plastic. Lâu dài ưu tiên công nghệ hiện đại, công nghiệp hỗ trợ, thân thiện môi trường, suất tiêu hao năng lượng thấp, giá trị gia tăng cao. (Mục tiêu dự án Mundus Stones — thiết bị điện dân dụng và điện chiếu sáng, VSIC 2740 — nằm trong danh mục này.)
+
+### I.5. Bộ căn cứ và trình tự — khép bước 10 và 11 của quy trình QHPK
+
+Ba văn bản của khâu phê duyệt (song song bộ Minh Quân tại ref 34 mục H.1, số liền kề nhau):
+
+| Khâu | KCN Âu Lâu | KCN Minh Quân |
+|---|---|---|
+| Ý kiến **THỐNG NHẤT** của Sở Xây dựng (bước 11, khoản 4 Điều 41 Luật 47/2024 sửa tại Luật 144/2025) | **5946/SXD-QHKT ngày 10/9/2026** | 5947/SXD-QHKT ngày 10/9/2026 |
+| Tờ trình của cơ quan tổ chức lập quy hoạch | **118/TTr-BQLCKCN ngày 11/9/2026** | 119/TTr-BQLCKCN ngày 11/9/2026 |
+| Báo cáo kết quả thẩm định của cơ quan thẩm định | **273/BC-BQLCKCN ngày 07/9/2026** | 272/BC-BQLCKCN ngày 07/9/2026 |
+| Quyết định phê duyệt | **263/QĐ-BQLCKCN** (ô ngày ghi 11/9/2026 — xem cảnh báo vênh ngày) | `/QĐ-BQLCKCN` ban hành 18/9/2026, số chưa xác định |
+
+Căn cứ riêng của Âu Lâu (nền quy hoạch cũ thời Yên Bái, giữ nguyên khi viện dẫn): QĐ 2078/QĐ-UBND 25/12/2008 (QHCT xây dựng KCN Âu Lâu); QĐ 1949/QĐ-UBND 05/10/2015 và QĐ 594/QĐ-UBND 08/4/2019 (điều chỉnh cục bộ); QĐ 2108/QĐ-UBND 15/9/2020 (QH chung TP Yên Bái và vùng phụ cận đến 2040, tầm nhìn 2060); QĐ 2614/QĐ-UBND 04/11/2019 (QH xây dựng vùng huyện Trấn Yên); **QĐ 3881/QĐ-UBND 04/11/2022 của Chủ tịch UBND huyện Trấn Yên** (QH chung xây dựng xã Y Can đến 2030 — căn cứ cấp huyện, chỉ Âu Lâu có do phạm vi lấn sang xã Quy Mông); QĐ 2031/QĐ-UBND 10/6/2026 của UBND tỉnh (phân công trách nhiệm giữa cơ quan quản lý khu chức năng và UBND cấp xã về thẩm quyền phê duyệt, trách nhiệm thẩm định quy hoạch trong khu chức năng) — **văn bản này là căn cứ thẩm quyền để BQLCKCN vừa thẩm định vừa phê duyệt, chưa xuất hiện trong bộ căn cứ của TB 76/77/78**.
+
+### I.6. Điều 2, Điều 3 — việc phải làm sau khi phê duyệt
+
+BQLCKCN với **hai tư cách**: (a) cơ quan thẩm định — kiểm tra, đóng dấu thẩm định, lưu trữ hồ sơ; (b) cơ quan tổ chức lập và quản lý quy hoạch — bàn giao hồ sơ, **tổ chức công bố công khai quy hoạch**, **lập hồ sơ cắm mốc ranh giới** làm cơ sở quản lý đất đai, thu hồi đất, cấp phép xây dựng và thực hiện dự án; hướng dẫn, kiểm tra, giám sát thực hiện theo Quy định quản lý QHPK được duyệt. Hiệu lực kể từ ngày ký. Nơi nhận **có Sở Công Thương**.
+
+→ **Việc của SCT:** (1) đề nghị BQLCKCN cung cấp **tọa độ ranh giới hệ VN-2000** sau cắm mốc để cập nhật CSDL và bản đồ KCN/CCN của Sở (ý thứ 10 trong khung ý kiến ref 34 mục H.3 — nay có cơ sở để đòi vì QĐ đã yêu cầu lập hồ sơ cắm mốc); (2) cập nhật mốc "QHPK KCN Âu Lâu đã phê duyệt (QĐ 263/QĐ-BQLCKCN)" vào biểu tiến độ tuần — còn lại Phía Nam (Khu A) chờ QĐ phê duyệt, Y Can và Đông An đang xin ý kiến sở ngành; (3) dùng cơ cấu SDĐ tại I.2 làm mốc đối chiếu khi thẩm định mục tiêu, diện tích thuê đất của dự án thứ cấp.
+
+### I.7. Bẫy trong bản gốc — biết để KHÔNG chép lại
+
+1. **"QCVN 40:2021/BTNMT (Cột A)"** cho nước thải sau trạm XLNT tập trung — **không có quy chuẩn mang ký hiệu này**. Đang hiệu lực là **QCVN 40:2025/BTNMT** (TT 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025, thay QCVN 40:2011/BTNMT). Lỗi này lặp y hệt QĐ phê duyệt QHPK Minh Quân (ref 34 mục H.1) ⇒ là **lỗi hệ thống của đơn vị tư vấn**, phải nêu thành ý kiến chung khi góp ý các đồ án QHPK KCN còn lại (Y Can, Đông An, Việt Hồng 1, Việt Hồng 2).
+2. **"Luật Xây dựng số 135/2026/QH15 ngày 10/12/2025"** — số đúng là **135/2025/QH15**. Lỗi lặp lần thứ ba (TB 76, QĐ Minh Quân, QĐ Âu Lâu).
+3. Trích yếu cũ ghi "Khu công nghiệp Âu Lâu, **tỉnh Yên Bái**" / "thành phố Yên Bái" ở phần căn cứ — giữ nguyên khi trích dẫn văn bản cũ, nhưng văn bản mới ghi "tỉnh Lào Cai", "phường Âu Lâu", "xã Quy Mông".

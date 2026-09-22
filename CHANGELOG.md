@@ -1,3 +1,12 @@
+## 22/9/2026 — kccn-sct-vn 1.41.0: QĐ 263/QĐ-BQLCKCN phê duyệt Quy hoạch phân khu KCN Âu Lâu (118,35 ha)
+
+- Bản PDF ký số QĐ phê duyệt QHPK KCN Âu Lâu (Trưởng ban BQLCKCN Đỗ Việt Bách ký). Số 263 và ngày 11 chỉ đọc được từ trường ký số của văn thư — lớp text bản in để trống.
+- ⚠️ Vênh ngày: ô ngày ghi 11/9/2026 nhưng ký số Trưởng ban 20/9/2026, ký số cơ quan 21/9/2026 — phải tra sổ văn bản đến Data360X trước khi viện dẫn ngày ban hành.
+- ref 33 thêm mục I: quy mô đồ án **118,35 ha** (khác 120 ha hiện hữu và 155 ha theo QĐ 525), cơ cấu sử dụng đất 06 loại, mật độ xây dựng, **chỉ giới xây dựng 6 m — riêng dọc đường trục I là 5 m**, toàn bộ hạ tầng kỹ thuật (XLNT 2.000 m³/ngđ, cấp nước 3.600 m³/ngđ, điện 32,2 MVA, 1.382 thuê bao), ngành nghề thu hút, Điều 2 — Điều 3 và việc của Sở Công Thương.
+- Cơ cấu sử dụng đất được duyệt không có đất nhà ở công nhân — phù hợp NĐ 35/2022 (bắt buộc từ 200 ha trở lên).
+- ref 34: quy trình lập QHPK KCN nâng lên 12 bước; mục H.4 và bảng tra nhanh cập nhật trạng thái (Minh Quân + Âu Lâu đã duyệt; Phía Nam Khu A chờ duyệt; Y Can, Đông An đang xin ý kiến).
+- Bẫy "QCVN 40:2021/BTNMT" lặp lần hai và "Luật Xây dựng 135/2026/QH15" sai lần ba — nâng thành ý kiến bắt buộc khi góp ý các đồ án QHPK còn lại.
+
 ## 21/9/2026 — kccn-sct-vn 1.40.0: QHPK KCN đợt 18/9/2026 (Minh Quân phê duyệt; Y Can, Đông An xin ý kiến sở ngành)
 
 - 04 PDF ký số: QĐ phê duyệt QHPK KCN Minh Quân, VB 5947/SXD-QHKT 10/9/2026 (ý kiến thống nhất của Sở Xây dựng), 02 công văn xin ý kiến đồ án QHPK KCN Y Can và KCN Đông An. Số/ngày trống trên bản in, lấy mốc từ trường ký số (ban hành 18/9/2026).

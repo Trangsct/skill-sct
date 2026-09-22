@@ -40,7 +40,9 @@ Phân biệt: KCN Minh Quân (160 ha, phường Âu Lâu) KHÁC **CCN Minh Quân
 | 7. Mời họp | GM 101/GM-BQLCKCN 26/8/2026 |
 | 8. Họp Hội đồng + Biên bản | 04/9/2026 |
 | 9. Thông báo kết luận | **TB 76/TB-HĐTĐ 04/9/2026** |
-| 10. Còn lại | CĐT + tư vấn hoàn thiện theo mục 4.2 → BQLCKCN phê duyệt đồ án QHPK (chưa có QĐ phê duyệt tại 08/9/2026 — khi có, cập nhật vào đây) |
+| 10. Hoàn thiện theo kết luận | CĐT + tư vấn hoàn thiện theo mục 4.2 |
+| 11. **Xin ý kiến THỐNG NHẤT của Sở Xây dựng** | Bắt buộc trước khi phê duyệt — khoản 4 Điều 41 Luật 47/2024 (sửa tại Luật 144/2025); Minh Quân: VB 5947/SXD-QHKT 10/9/2026, Âu Lâu: VB 5946/SXD-QHKT 10/9/2026 (KHÁC bước 4) |
+| 12. Trình và phê duyệt | Tờ trình của cơ quan tổ chức lập + Báo cáo kết quả thẩm định → QĐ phê duyệt của BQLCKCN (Minh Quân 18/9/2026; **Âu Lâu QĐ 263/QĐ-BQLCKCN** — ref 33 mục I) |
 
 ## D. KẾT LUẬN CỦA HỘI ĐỒNG (TB 76)
 
@@ -62,7 +64,7 @@ Luật Quy hoạch đô thị và nông thôn 47/2024/QH15 (26/11/2024) + Luật
 
 - SCT đã tham gia ý kiến đồ án tại **VB 4901/SCT-CN ngày 13/8/2026** (CN(Trung) tham mưu mảng KCN/CCN — đối chiếu sổ văn bản đi khi cần trích nội dung).
 - Đại diện SCT trong Hội đồng: PGĐ Nguyễn Đình Chiến + Phó TP QLCN Trần Trọng Trang (ref 28; QĐ 229/QĐ-HĐTĐ chốt danh sách cho 02 đồ án Minh Quân, Âu Lâu).
-- Đồ án QHPK **KCN Âu Lâu** đã họp CÙNG NGÀY 04/9/2026, kết luận tại **TB 78/TB-HĐTĐ 04/9/2026** — thống nhất thông qua, 03 nội dung hoàn thiện riêng (nhà ở công nhân QĐ 594, quy mô XLNT, hiện trạng SDĐ); ý kiến SCT tại VB 5138/SCT-CN 21/8/2026. Chi tiết phần riêng Âu Lâu: reference `33` mục E.
+- Đồ án QHPK **KCN Âu Lâu** đã họp CÙNG NGÀY 04/9/2026, kết luận tại **TB 78/TB-HĐTĐ 04/9/2026** — thống nhất thông qua, 03 nội dung hoàn thiện riêng (nhà ở công nhân QĐ 594, quy mô XLNT, hiện trạng SDĐ); ý kiến SCT tại VB 5138/SCT-CN 21/8/2026. Chi tiết phần riêng Âu Lâu: reference `33` mục E; **đồ án Âu Lâu ĐÃ ĐƯỢC PHÊ DUYỆT tại QĐ 263/QĐ-BQLCKCN, quy mô chốt 118,35 ha — toàn bộ nội dung được duyệt tại reference `33` mục I**.
 - Đưa mốc "QHPK KCN Minh Quân đã qua HĐTĐ 04/9/2026, chờ phê duyệt" vào biểu tiến độ tuần (ref 30, 32) — khớp mục tiêu 09 KCN xong QHPK hết tháng 10/2026.
 
 
@@ -84,7 +86,7 @@ Nguồn: **TB kết luận 77/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đ�
 | Điều chỉnh QHPK KCN Phía Nam (Khu A) | Điều chỉnh | 399,24 ha | **QĐ 228/QĐ-HĐTĐ** | **77/TB-HĐTĐ 04/9/2026** | 4902/SCT-CN 13/8 | 1224/BQLCKCN-QLDA 25/8 |
 | QHPK KCN Âu Lâu | Lập mới QHPK | 120 ha hiện hữu | QĐ 229/QĐ-HĐTĐ | **78/TB-HĐTĐ 04/9/2026** | 5138/SCT-CN 21/8 | 1223/BQLCKCN-QLDA 25/8 |
 
-Cả 03 đều: thống nhất thông qua, có danh mục nội dung hoàn thiện, chờ QĐ phê duyệt của BQLCKCN.
+Cả 03 đều thống nhất thông qua, có danh mục nội dung hoàn thiện. **Trạng thái đến 22/9/2026: Minh Quân đã phê duyệt (QĐ ban hành 18/9/2026, số chưa xác định — mục H.1); Âu Lâu đã phê duyệt (QĐ 263/QĐ-BQLCKCN — ref 33 mục I); Phía Nam (Khu A) CHƯA có QĐ phê duyệt.**
 
 ## H. ĐỢT 18/9/2026 — MINH QUÂN ĐÃ PHÊ DUYỆT; Y CAN VÀ ĐÔNG AN XIN Ý KIẾN SỞ NGÀNH (bổ sung 21/9/2026)
 
@@ -168,3 +170,24 @@ Dự thảo 02 công văn của SCT ngày 21/9/2026 lưu tại kho riêng tư `v
    cách ly — ba nội dung Hội đồng đã bắt ở đợt 04/9/2026.
 10. Chuẩn xác hiện trạng SDĐ; **xin tọa độ ranh giới theo hệ VN-2000 sau khi phê duyệt** để cập nhật CSDL,
     bản đồ KCN/CCN của Sở.
+
+### H.4. Đợt 22/9/2026 — QHPK KCN ÂU LÂU ĐÃ PHÊ DUYỆT (QĐ 263/QĐ-BQLCKCN)
+
+Bản PDF ký số Bạn cung cấp 22/9/2026. Toàn bộ nội dung được duyệt (phạm vi, cơ cấu sử dụng đất, hạ tầng
+kỹ thuật, ngành nghề, bẫy trong bản gốc) ghi tại **reference `33` mục I** — không chép lại ở đây.
+
+Ba điểm phải nhớ khi dùng ref 34 này:
+
+1. **Quy mô QHPK Âu Lâu được duyệt là 118,35 ha**, không phải 120 ha ghi trong hồ sơ thẩm định (TB 78) và
+   bảng tra nhanh mục G ở trên. Bảng mục G giữ nguyên "120 ha hiện hữu" vì đó là số tại thời điểm thẩm định.
+2. **Bước 11 (ý kiến thống nhất của Sở Xây dựng) đã được kiểm chứng lần thứ hai**: Minh Quân 5947/SXD-QHKT,
+   Âu Lâu 5946/SXD-QHKT, cùng ngày 10/9/2026. Hai đồ án cùng đợt trình (TTr 118 và 119/TTr-BQLCKCN
+   11/9/2026; BC thẩm định 272 và 273/BC-BQLCKCN 07/9/2026) nhưng **ban hành lệch nhau** — đừng suy số hiệu
+   của văn bản này từ văn bản kia.
+3. **Bẫy ký hiệu không tồn tại "QCVN 40:2021/BTNMT" (đúng là QCVN 40:2025/BTNMT) lặp ở cả hai quyết định phê duyệt** ⇒ lỗi hệ thống của hồ sơ tư vấn, phải nêu
+   thành ý kiến bắt buộc khi SCT góp ý các đồ án QHPK KCN còn lại (Y Can, Đông An, Việt Hồng 1, Việt Hồng 2)
+   — bổ sung vào ý số 5 của khung 10 ý tại mục H.3.
+
+Tiến độ QHPK các KCN đến 22/9/2026: **đã phê duyệt** Minh Quân (18/9), Âu Lâu (QĐ 263); **chờ phê duyệt**
+điều chỉnh QHPK Phía Nam Khu A (TB 77/TB-HĐTĐ 04/9); **đang xin ý kiến sở ngành** Y Can, Đông An (hạn
+23/9/2026). Mục tiêu 09 KCN xong QHPK hết tháng 10/2026 (ref 30 mục B.2).

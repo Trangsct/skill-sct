@@ -69,7 +69,7 @@ Nơi nộp: nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ
 
 **5. "Hết hạn GP thì làm gì?"** — Không đổi điều kiện/quy mô → cấp LẠI (kèm báo cáo hoạt động kỳ GP cũ). Có thay đổi → hồ sơ cấp mới/điều chỉnh tương ứng.
 
-**6. "Đổi vị trí/lý trình thi công trong cùng dự án?"** — Xin cấp điều chỉnh: báo cáo hoạt động + tài liệu chứng minh thay đổi (tiền lệ Hỏm Dưới: điều chỉnh phân đoạn lý trình hầm dẫn nước bằng QĐ điều chỉnh khoản 1 Điều 2 của GP).
+**6. "Đổi vị trí/lý trình thi công trong cùng dự án?"** — Xin cấp điều chỉnh: báo cáo hoạt động + tài liệu chứng minh thay đổi (tiền lệ Hỏm Dưới: điều chỉnh phân đoạn lý trình hầm dẫn nước tại khoản 1 Điều 2 của GP; từ 22/9/2026 kết quả là Giấy phép "(Cấp điều chỉnh)" theo anti-error 36).
 
 **7. "Huấn luyện KTAT ở đâu?"** — Nộp hồ sơ đề nghị huấn luyện, kiểm tra về Sở Công Thương Lào Cai (được UBND tỉnh ủy quyền); Sở thông báo kế hoạch trong 05 ngày làm việc, tổ chức kiểm tra trong 10 ngày làm việc, cấp GCN trong 05 ngày sau kiểm tra (đạt ≥ 6/10 điểm).
 

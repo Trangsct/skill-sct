@@ -78,7 +78,7 @@ Từ 01/7/2026, UBND cấp tỉnh còn **quy định cơ quan tiếp nhận hồ
 - **Lưu: VT, CN(Khôi)** — từ **10/7/2026** (Thông báo phân công nội bộ Phòng QLCN, xem skill `sct-laocai-org-vn`), chuyên viên tham mưu GP sử dụng VLNCN + PANM + tiền chất thuốc nổ là **Trần Đăng Khôi**; VLNCN do **Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo**. Văn bản trước 6/7/2026 dùng CN(Linh) — Vũ Việt Linh (đúng lịch sử, không sửa lại). Một số văn bản đôn đốc chung dùng CN(M.Cường) — Đỗ Mạnh Cường, Phó TP QLCN. Mặc định từ nay dùng CN(Khôi), hỏi Bạn nếu khác.
 - ⭐ **TỪ 20/8/2026 (ủy quyền QĐ 2867/QĐ-UBND ngày 17/8/2026): GIẤY PHÉP SỬ DỤNG VLNCN (cấp, cấp lại, cấp điều chỉnh) là VĂN BẢN CỦA SỞ CÔNG THƯƠNG** — chủ thể "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI", dùng hình thức văn bản và **con dấu của Sở**, ký hiệu `/GP-SCT` (đã chốt theo tiền lệ Kim Thành, Đồng Tiến 8/2026); căn cứ bắt buộc có QĐ 05/2025/QĐ-UBND và QĐ 2867/QĐ-UBND; bỏ dòng "Theo đề nghị của Sở Công Thương tại Tờ trình…", thay bằng "Theo đề nghị của Trưởng phòng Quản lý công nghiệp"; Lưu: VT, CN(Khôi). ✅ **Người ký ĐÃ CHỐT (tiền lệ Kim Thành + Đồng Tiến 8/2026): KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**, ký hiệu `Số:      /GP - SCT`. Phiếu trình theo khuôn mới (anti-error 22-B, ref 11) kính gửi đích danh "Đồng chí Hoàng Văn Thuân, Phó Giám đốc Sở Công Thương".
 - Văn bản UBND tỉnh **còn lại** (QĐ phê duyệt PANM, QĐ thu hồi GP, văn bản đề nghị GP dịch vụ nổ mìn — **không nằm trong phạm vi ủy quyền**): **CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI** là chủ thể ban hành, ký **KT. CHỦ TỊCH / PHÓ CHỦ TỊCH Nguyễn Thành Sinh**; nơi nhận có "CVP, PCVP UBND tỉnh (Bích)", "Lưu: VT, TTPVHCC, KT.". Giấy phép ban hành đến 19/8/2026 giữ nguyên ký hiệu `/GP-UBND` khi trích dẫn.
-- Ký hiệu: giấy phép sử dụng VLNCN và QĐ điều chỉnh — đến 19/8/2026 `/GP-UBND`, từ 20/8/2026 `/GP-SCT`; QĐ phê duyệt PANM `/QĐ-UBND`; tờ trình `/TTr-SCT`; công văn `/SCT-CN`.
+- Ký hiệu: giấy phép sử dụng VLNCN (cấp, cấp lại, cấp điều chỉnh — cấp lại và cấp điều chỉnh thêm dòng "(Cấp lại)" / "(Cấp điều chỉnh)" dưới tên loại văn bản) — đến 19/8/2026 `/GP-UBND`, từ 20/8/2026 `/GP-SCT`; QĐ phê duyệt PANM `/QĐ-UBND`; tờ trình `/TTr-SCT`; công văn `/SCT-CN`.
 
 ## V. HAI QUY TRÌNH LÕI (tóm tắt — chi tiết reference 02, 03)
 
@@ -120,7 +120,7 @@ Hồ sơ DN đến (thường qua Phiếu chuyển VPUBND) → GATE đọc PDF
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY — ⭐ BẮT BUỘC đọc `references/11-anti-error.md` trước khi thẩm định hồ sơ / soạn bất kỳ văn bản nào
 
-Toàn văn 33 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
+Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
 
 - **1** — Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026
 - **2** — Không nhầm 2 chế độ PANM
@@ -159,6 +159,7 @@ Toàn văn 33 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **33** — LUÔN VIẾT "Công ty TNHH" / "Công ty TNHH MTV", không viết "Công ty trách nhiệm hữu hạn"
 - **34** — KHOẢN 4 ĐIỀU 2 VIẾT NGẮN GỌN TÊN VĂN BẢN (căn cứ đã nêu đủ trích yếu) — thay mục 3 của 22-A
 - **35** — CẤP LẠI GP: Phiếu trình mô tả đủ GP đã cấp (cấp/đã dùng/còn lại), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ CTĐT + nội dung trả lời Sở Tài chính + PLHĐ), đối chiếu khối lượng 3 chiều (≤ còn lại; đã dùng + cấp lại ≤ đã cấp; theo PANM trên đá còn lại) — bộ Duy Cương, Bắc Hà 21/9/2026; PTP ký thì mục II "Ý KIẾN CỦA PHÒNG QUẢN LÝ CÔNG NGHIỆP", khối ký PHÓ TRƯỞNG PHÒNG Trần Trọng Trang
+- **36** — CẤP ĐIỀU CHỈNH GP: kết quả là **Giấy phép /GP-SCT** có dòng "(Cấp điều chỉnh)" (đường vẽ như GP 5870/GP-SCT), KHÔNG dùng QĐ điều chỉnh; Điều 1 = 1. Nội dung điều chỉnh (gộp các khoản) + 2. Lý do + 3. Các nội dung khác theo GP gốc; Điều 2 "không thể tách rời", không "thay thế"; khối lượng theo năm dương lịch ở Phụ lục (năm lẻ tính tháng trọn); có kho nghiệm thu SXD → điều chỉnh khoản 3 thay "nổ mìn theo hộ chiếu", không ghi trữ lượng khi hồ sơ không có; GP gốc chưa dùng → ghi khối lượng bằng 0; Phiếu trình gọn 2 trang — bộ GTYB Đồng Tâm 22/9/2026
 
 ## VII. CẤU TRÚC PLUGIN
 
@@ -183,7 +184,7 @@ sd-vlncn-sct-vn/
 │                                    ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình
 │                                    5 bước xử lý sau khi bị trả
 │   ├── 10-tham-quyen-ubnd-tinh-va-sct.md ← bản đồ thẩm quyền UBND tỉnh/SCT, QĐ 2867, CV 5085
-│   ├── 11-anti-error.md              ← ⭐ 26 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── 11-anti-error.md              ← ⭐ 36 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
 │   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,
 │                                    GP-SCT đã cấp, TCTN, dịch vụ nổ mìn, mục G báo cáo định kỳ
 │                                    của DN đã nhận (máy sinh, không sửa tay)
@@ -191,7 +192,7 @@ sd-vlncn-sct-vn/
 │   ├── 01-giay-phep-su-dung-vlncn-mo-khoang-san.md
 │   ├── 02-giay-phep-su-dung-vlncn-cong-trinh.md
 │   ├── 03-to-trinh-cap-gp.md
-│   ├── 04-qd-dieu-chinh-gp.md
+│   ├── 04-qd-dieu-chinh-gp.md        ← từ 22/9/2026: khung GP /GP-SCT "(Cấp điều chỉnh)" (anti-error 36); QĐ điều chỉnh chỉ còn lịch sử
 │   ├── 05-qd-thu-hoi-gp.md
 │   ├── 06-phieu-trinh-tham-dinh.md
 │   ├── 07-to-trinh-phe-duyet-panm.md

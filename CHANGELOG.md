@@ -1,3 +1,7 @@
+## 22/9/2026 — sd-vlncn-sct-vn v2026.9.22.1: cấp điều chỉnh Giấy phép sử dụng VLNCN
+
+- **sd-vlncn-sct-vn 2026.9.22.1**: anti-error 36 — cấp điều chỉnh ra kết quả là Giấy phép /GP-SCT có dòng "(Cấp điều chỉnh)" (đường vẽ như GP 5870/GP-SCT), không dùng Quyết định điều chỉnh; Điều 1 ba mục (nội dung điều chỉnh gộp các khoản, lý do, các nội dung khác theo GP gốc), Điều 2 "không thể tách rời"; Phụ lục khối lượng theo năm dương lịch; kho nghiệm thu SXD thay "nổ mìn theo hộ chiếu"; GP gốc chưa dùng → khối lượng bằng 0. Mẫu 04 viết lại, ref 02/07 cập nhật, thêm 3 khung vi-du-thuc-te (bộ GTYB Đồng Tâm). check_facts.py thêm rule `vlncn-cap-dieu-chinh-la-giay-phep`.
+
 ## 22/9/2026 — kccn-sct-vn 1.41.0: QĐ 263/QĐ-BQLCKCN phê duyệt Quy hoạch phân khu KCN Âu Lâu (118,35 ha)
 
 - Bản PDF ký số QĐ phê duyệt QHPK KCN Âu Lâu (Trưởng ban BQLCKCN Đỗ Việt Bách ký). Số 263 và ngày 11 chỉ đọc được từ trường ký số của văn thư — lớp text bản in để trống.

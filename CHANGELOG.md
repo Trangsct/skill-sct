@@ -1,7 +1,7 @@
-## 22/9/2026 — kccn-sct-vn 1.42.0: QĐ 264/QĐ-BQLCKCN ngày 11/9/2026 phê duyệt QHPK KCN Minh Quân (160 ha)
+## 22/9/2026 — sd-vlncn-sct-vn 2026.9.22.2: kinh nghiệm kiểm tra chuyên đề VLNCN của Cục ATMT (CV 1994/ATMT-ATKV ngày 17/9/2026)
 
-- Đọc được số/ngày trong trường ký số của bản QĐ phê duyệt QHPK KCN Minh Quân (cùng văn bản đợt 18/9, ký số 17–18/9/2026) — số 264, ngày 11/9/2026.
-- Gỡ nghi vấn vênh ngày của QĐ 263 (Âu Lâu): hai quyết định 263 và 264 cùng ghi ngày 11/9/2026, đúng ngày cặp tờ trình 118 và 119/TTr-BQLCKCN; BQLCKCN cấp số/ngày theo ngày trình, ký số sau.
-- ref 34 mục H.1 viết lại theo bản ban hành: cơ cấu sử dụng đất 06 loại (SXCN 106,81 ha = 66,76%), 8.675 lao động, 06 mặt cắt đường (1A-1A lộ giới 55 m), cấp nước 7.900 m³/ngđ, XLNT 4.000 m³/ngđ, TBA 110 kV Minh Quân 29,2 MVA, 1.743 thuê bao, thoát nước hạ lưu đập Đá Mài cống hộp B3000, chỉ giới xây dựng 6 m không có ngoại lệ.
-- Đính chính: QĐ không ghi tách 107,89 + 52,11 ha; ngành nghề Minh Quân thuộc nhóm nặng, khác nhóm sạch của Âu Lâu.
+- Nguồn: CV 1994/ATMT-ATKV ngày 17/9/2026 của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Bộ Công Thương), Cục trưởng Phạm Tuấn Anh ký, gửi Công ty Công nghiệp hóa chất mỏ Tây Bắc — nơi nhận có SCT tỉnh Lào Cai.
+- ref 05 thêm mục G: chuỗi mốc kiểm tra chuyên đề cấp Bộ đặt cạnh chuỗi 6 bước của Sở (QĐ 338/QĐ-BCT 25/02/2026 → QĐ 154/QĐ-ATMT 07/8/2026 → kiểm tra 10–11/9 → báo cáo 15/9 → CV 17/9); mẫu văn bản kết luận khi đơn vị không có vi phạm; 04 yêu cầu sau kiểm tra, nhấn yêu cầu doanh nghiệp tự kiểm tra theo tầng có thời hạn khắc phục và phúc tra.
+- ⚠️ Bẫy viện dẫn: CV 1994 dẫn "Điều 45 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ" nhưng Điều 45 hiện hành là thủ tục cấp GP kinh doanh tiền chất thuốc nổ; điều đúng nội dung là Điều 42 (trách nhiệm của tổ chức, doanh nghiệp trong quản lý, sử dụng VLNCN; lưu trữ sổ sách, chứng từ 10 năm).
+- Bổ sung một dòng hỏi về hồ sơ tự kiểm tra nội bộ vào checklist kiểm tra hiện trường.
 

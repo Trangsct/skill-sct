@@ -153,7 +153,7 @@ Nguồn: **TB kết luận 78/TB-HĐTĐ ngày 04/9/2026** (Chủ tịch HĐ Đ�
 2. Mốc riêng: lấy ý kiến dân cư 25/6/2026, niêm yết 25/6 – 15/7/2026 tại trụ sở UBND phường Âu Lâu + hội trường **thôn Cống Đá**; kết thúc VB 1702/UBND-KTHT + TB 59/TB cùng ngày 16/7/2026; xin ý kiến sở ngành VB **1145/BQLCKCN-NV 11/8/2026**; tiếp thu, giải trình VB **1223/BQLCKCN-QLDA 25/8/2026**; GM 101/GM-BQLCKCN 26/8/2026 (chung với Minh Quân); họp + biên bản 04/9/2026.
 3. 08 ý kiến sở ngành: 6356/STC-TĐ 12/8; **5138/SCT-CN 21/8/2026 (ý kiến của SCT — KHÁC văn bản 4901/SCT-CN cho Minh Quân)**; 2616/SKHCN-QLCN 13/8; 7783/SNNMT-QLĐĐ 13/8; 4436/BCH-TM 14/8; 2050/UBND-KTHT (phường Âu Lâu); 5283/SXD-QHKT 14/8; 5577/CAT-ANKT 18/8. Ghi chú: 6356/STC-TĐ và 5577/CAT-ANKT trùng số với hồ sơ Minh Quân — 01 văn bản góp ý chung cho cả 02 đồ án; các sở còn lại ban hành văn bản riêng từng đồ án.
 4. Kết luận Hội đồng: **thống nhất thông qua**, hồ sơ đủ điều kiện; 03 nội dung hoàn thiện trước khi trình phê duyệt: (a) kiểm tra thể hiện diện tích đất quy hoạch **Nhà ở công nhân** (đã điều chỉnh cục bộ tại QĐ 594/QĐ-UBND 08/4/2019) bảo đảm đúng quy định; (b) thống nhất số liệu quy mô **Hệ thống XLNT tập trung** giữa bản vẽ và thuyết minh; (c) chuẩn xác số liệu hiện trạng sử dụng đất.
-5. Trạng thái: **ĐÃ PHÊ DUYỆT** tại **QĐ 263/QĐ-BQLCKCN** (ô ngày ghi 11/9/2026 — xem cảnh báo vênh ngày ở mục I). Quy mô đồ án được duyệt là **118,35 ha**, KHÔNG phải 120 ha như hồ sơ thẩm định ghi tròn. Toàn bộ nội dung được duyệt: **mục I** dưới đây. Mốc biểu tiến độ tuần: "QHPK KCN Âu Lâu ĐÃ PHÊ DUYỆT (QĐ 263/QĐ-BQLCKCN)".
+5. Trạng thái: **ĐÃ PHÊ DUYỆT** tại **QĐ 263/QĐ-BQLCKCN ngày 11/9/2026** (ký số 20–21/9/2026 — xem mục I). Quy mô đồ án được duyệt là **118,35 ha**, KHÔNG phải 120 ha như hồ sơ thẩm định ghi tròn. Toàn bộ nội dung được duyệt: **mục I** dưới đây. Mốc biểu tiến độ tuần: "QHPK KCN Âu Lâu ĐÃ PHÊ DUYỆT (QĐ 263/QĐ-BQLCKCN)".
 
 
 ## F. BÁO CÁO KẾT QUẢ THẨM ĐỊNH NGÀY 20/8/2026 — CẤU TRÚC VÀ KẾT LUẬN (bổ sung 10/9/2026)
@@ -275,11 +275,17 @@ Như Điều 3; UBND tỉnh; **các Sở: Tài chính, Công Thương, Xây dự
 
 **ĐÃ KẾT THÚC** ở khâu chủ trương đầu tư (10/9/2026). Còn treo: (a) GCN ĐKĐT điều chỉnh lần 3; (b) thủ tục Giấy phép môi trường/Đăng ký môi trường trước khi vận hành; (c) nghiệm thu PCCC trước khi đưa vào hoạt động. Ba việc này là điều kiện để dự án được tính vào sản lượng, lấp đầy KCN Âu Lâu.
 
-## I. QUY HOẠCH PHÂN KHU KCN ÂU LÂU ĐÃ ĐƯỢC PHÊ DUYỆT — QĐ 263/QĐ-BQLCKCN (bổ sung 22/9/2026)
+## I. QUY HOẠCH PHÂN KHU KCN ÂU LÂU ĐÃ ĐƯỢC PHÊ DUYỆT — QĐ 263/QĐ-BQLCKCN NGÀY 11/9/2026 (bổ sung 22/9/2026)
 
 > NGUỒN: bản PDF ký số Bạn cung cấp 22/9/2026 — *Quyết định phê duyệt Quy hoạch phân khu Khu công nghiệp Âu Lâu, tỉnh Lào Cai*, Trưởng Ban Quản lý các khu công nghiệp **Đỗ Việt Bách** ký. Đã chạy GATE đọc PDF ký số: **số 263** và **ngày 11** (tháng 9 năm 2026) nằm trong TRƯỜNG KÝ SỐ của văn thư, lớp chữ thường của bản in để trống — đọc bằng `extract_metadata.py` / render ảnh có bật form field, KHÔNG kết luận "dự thảo chưa điền số". Khép lại mục E khoản 5 ở trên và bước 10 của bảng quy trình ref 34 mục C.
 >
-> ⚠️ **VÊNH NGÀY — phải đối chiếu sổ văn bản trước khi viện dẫn chính thức.** Ô ngày điền **11/9/2026**, nhưng dấu thời gian chữ ký số là: Trưởng ban ký **20/9/2026 22:31**, ký số cơ quan (văn thư) **21/9/2026 08:46**. Một văn bản không thể ban hành trước ngày người có thẩm quyền ký ⇒ hoặc văn thư điền nhầm "11" thay vì "21", hoặc số 263 được cấp lùi theo ngày trình. Số 263 khớp mạch số của BQLCKCN (QĐ 257 ngày 10/9/2026 — mục H). **Khi soạn văn bản của Sở: ghi "Quyết định số 263/QĐ-BQLCKCN" và tra ngày trong sổ văn bản đến trên Data360X, không suy từ bản PDF.**
+> ✅ **NGÀY 11/9/2026 ĐÃ ĐƯỢC ĐỐI CHỨNG (cập nhật 22/9/2026).** Ban đầu nghi văn thư điền nhầm vì chữ ký số
+> muộn hơn (Trưởng ban **20/9/2026 22:31**, ký số cơ quan **21/9/2026 08:46**). Bản QĐ phê duyệt QHPK KCN
+> Minh Quân đọc được số/ngày ngày 22/9/2026 cho thấy đây là nếp làm việc của BQLCKCN: **QĐ 264/QĐ-BQLCKCN
+> (Minh Quân) cũng ghi ngày 11/9/2026** dù ký số 17–18/9/2026. Hai số liền nhau 263 - 264, cùng ngày
+> 11/9/2026, đúng ngày cặp tờ trình 118 và 119/TTr-BQLCKCN ⇒ **số và ngày cấp theo ngày trình hồ sơ, ký số
+> sau vài ngày**. Viện dẫn: **Quyết định số 263/QĐ-BQLCKCN ngày 11/9/2026**; khi cần mốc phát hành thực tế
+> (tính thời hiệu, đối chiếu sổ văn bản đến) thì dùng mốc ký số 21/9/2026.
 
 ### I.1. Phạm vi, quy mô (Điều 1 khoản 2)
 
@@ -339,7 +345,7 @@ Ba văn bản của khâu phê duyệt (song song bộ Minh Quân tại ref 34 m
 | Ý kiến **THỐNG NHẤT** của Sở Xây dựng (bước 11, khoản 4 Điều 41 Luật 47/2024 sửa tại Luật 144/2025) | **5946/SXD-QHKT ngày 10/9/2026** | 5947/SXD-QHKT ngày 10/9/2026 |
 | Tờ trình của cơ quan tổ chức lập quy hoạch | **118/TTr-BQLCKCN ngày 11/9/2026** | 119/TTr-BQLCKCN ngày 11/9/2026 |
 | Báo cáo kết quả thẩm định của cơ quan thẩm định | **273/BC-BQLCKCN ngày 07/9/2026** | 272/BC-BQLCKCN ngày 07/9/2026 |
-| Quyết định phê duyệt | **263/QĐ-BQLCKCN** (ô ngày ghi 11/9/2026 — xem cảnh báo vênh ngày) | `/QĐ-BQLCKCN` ban hành 18/9/2026, số chưa xác định |
+| Quyết định phê duyệt | **263/QĐ-BQLCKCN ngày 11/9/2026** (ký số 20–21/9/2026) | **264/QĐ-BQLCKCN ngày 11/9/2026** (ký số 17–18/9/2026) |
 
 Căn cứ riêng của Âu Lâu (nền quy hoạch cũ thời Yên Bái, giữ nguyên khi viện dẫn): QĐ 2078/QĐ-UBND 25/12/2008 (QHCT xây dựng KCN Âu Lâu); QĐ 1949/QĐ-UBND 05/10/2015 và QĐ 594/QĐ-UBND 08/4/2019 (điều chỉnh cục bộ); QĐ 2108/QĐ-UBND 15/9/2020 (QH chung TP Yên Bái và vùng phụ cận đến 2040, tầm nhìn 2060); QĐ 2614/QĐ-UBND 04/11/2019 (QH xây dựng vùng huyện Trấn Yên); **QĐ 3881/QĐ-UBND 04/11/2022 của Chủ tịch UBND huyện Trấn Yên** (QH chung xây dựng xã Y Can đến 2030 — căn cứ cấp huyện, chỉ Âu Lâu có do phạm vi lấn sang xã Quy Mông); QĐ 2031/QĐ-UBND 10/6/2026 của UBND tỉnh (phân công trách nhiệm giữa cơ quan quản lý khu chức năng và UBND cấp xã về thẩm quyền phê duyệt, trách nhiệm thẩm định quy hoạch trong khu chức năng) — **văn bản này là căn cứ thẩm quyền để BQLCKCN vừa thẩm định vừa phê duyệt, chưa xuất hiện trong bộ căn cứ của TB 76/77/78**.
 

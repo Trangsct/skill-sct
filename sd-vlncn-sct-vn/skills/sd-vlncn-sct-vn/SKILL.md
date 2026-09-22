@@ -17,7 +17,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** → **mẫu 23** + 2 khung **`vi-du-thuc-te/*-ban-cuoi-6.9.2026.docx`** (bản Bạn chốt sau 3 vòng Lãnh đạo góp ý: gần như không dẫn điều khoản; một cơ chế "Sở xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp 3 chỗ; Sở là cơ quan quản lý PANM); anti-error 31 + Nhóm K `vbhc-vn`.
 - **CV hướng dẫn hoàn thiện hồ sơ, CV đôn đốc, VB trả lời/giải quyết đề nghị, VB tuyên truyền** → mẫu 12–14 + ví dụ thực tế. Riêng **công văn triển khai quy định mới của Luật 118/2025 (gửi kho, dịch vụ nổ mìn, hồ sơ PCCC, TCTN)** → **mẫu 21** + `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx`.
 - **Hồ sơ đã trình bị UBND tỉnh / Văn phòng UBND tỉnh TRẢ LẠI**, hoặc chuẩn bị trình mà cần chặn rủi ro bị trả (ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình 5 bước xử lý sau khi bị trả) → reference `09` + mẫu 20. **Chạy bảng tự kiểm mẫu 20 trước MỌI lần trình UBND tỉnh.**
-- **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
+- **Kiểm tra, giám sát, xử phạt VPHC** trong sử dụng VLNCN: kế hoạch kiểm tra, nội dung kiểm tra, biên bản, tra cứu hành vi – mức phạt **Đ60 NĐ 275/2026/NĐ-CP** (ref `05`; **mục G — mẫu văn bản kết luận khi đơn vị KHÔNG vi phạm, 04 yêu cầu sau kiểm tra của Cục ATMT và bẫy viện dẫn "Điều 45" — nội dung đúng là Điều 42 Luật 42/2024**) (từ 25/8/2026; hành vi kết thúc trước đó theo NĐ 71/2019 sđ NĐ 17/2022), hình thức bổ sung tước GP/đình chỉ, thẩm quyền xử phạt → reference `05` + plugin `xp-hc-vlncn-sct-vn` (bảng đầy đủ, chuyển tiếp, thẩm quyền).
 - **Báo cáo** định kỳ/đột xuất về VLNCN: của doanh nghiệp gửi Sở; của UBND tỉnh (SCT dự thảo) gửi Bộ Công Thương/Cục KTAT&MTCN → reference `06` + mẫu 15.
 - Tra cứu **ví dụ thực tế đã ban hành** (giấy phép, QĐ PANM, tờ trình, báo cáo… của Lào Cai 2025–2026) → reference `07` + thư mục `vi-du-thuc-te/`.
 - Tra **giấy phép nào đang còn hiệu lực, số/ngày/hạn/khối lượng của GP đã cấp, tổ chức nào có GP** → reference `12` (ảnh chụp CSDL trang https://vlncn-laocai.vercel.app, đồng bộ tự động 18h40; trích dẫn chính thức phải mở PDF ký số theo liên kết). Tra **DN nào đã nộp báo cáo định kỳ của kỳ nào, khối lượng DN tự khai đã dùng và tồn cuối kỳ** → **mục G** reference `12`. Số liệu tổng hợp toàn tỉnh (khối lượng đã dùng, số kho trên địa bàn) vẫn hỏi Bạn.
@@ -174,7 +174,9 @@ sd-vlncn-sct-vn/
 │   ├── 03-panm.md                    ← PANM: cây quyết định, nội dung PL VII, công thức QCVN,
 │   │                                    quy trình thẩm định-trình phê duyệt, hộ chiếu nổ mìn
 │   ├── 04-huong-dan-dn.md            ← hướng dẫn doanh nghiệp A→Z + FAQ
-│   ├── 05-kiem-tra-xu-phat.md        ← kiểm tra, giám sát; bảng hành vi-mức phạt Đ60 NĐ 275/2026
+│   ├── 05-kiem-tra-xu-phat.md        ← kiểm tra, giám sát; bảng hành vi-mức phạt Đ60 NĐ 275/2026;
+│   │                                   mục F chuỗi 6 bước kiểm tra của Sở; **mục G kinh nghiệm từ cuộc
+│   │                                   kiểm tra chuyên đề của Cục ATMT (CV 1994/ATMT-ATKV 17/9/2026)**
 │   │                                    (chuyển tiếp NĐ 71/2019); thẩm quyền; quy trình xử phạt
 │   ├── 06-bao-cao.md                 ← chế độ báo cáo định kỳ/đột xuất các cấp
 │   ├── 07-vi-du-thuc-te.md           ← index ví dụ + bài học kinh nghiệm từng vụ việc

@@ -110,3 +110,83 @@ B6  TB 1894/TB-SCT ngày 09/4/2026 (KT.GĐ - PGĐ ký, gửi các DN; Lưu VT, C
 - Hiện trường: xác nhận bán kính 300 m có/không dân cư và công trình cần bảo vệ (liên quan diện phê duyệt PANM); kiểm tra giám sát ảnh hưởng nổ mìn (báo cáo của đơn vị giám sát độc lập theo QCVN).
 - Kho: đủ 3 lớp giấy tờ PCCC (thẩm duyệt → nghiệm thu → thông báo KQ kiểm tra nghiệm thu kho của SCT) + đánh giá rủi ro + KH ứng cứu + biện pháp sự cố hóa chất; kiến nghị hạ tầng thường gặp: rãnh thoát nước, gia cố ta luy chống sạt lở, bảo vệ 24/24.
 - Văn bản của Đoàn dùng ký hiệu riêng: /KH-ĐKT, /ĐKT-SCT; đóng dấu Sở; ô header trái ghi "ĐOÀN KIỂM TRA THEO QUYẾT ĐỊNH SỐ …/QĐ-SCT".
+
+## G. KIỂM TRA CHUYÊN ĐỀ CỦA CỤC ATMT (BỘ CÔNG THƯƠNG) — CV 1994/ATMT-ATKV NGÀY 17/9/2026 (bổ sung 22/9/2026)
+
+> NGUỒN: **Công văn 1994/ATMT-ATKV ngày 17/9/2026** của Cục Kỹ thuật an toàn và Môi trường công nghiệp
+> (Bộ Công Thương) *V/v nhận xét, đánh giá việc thực hiện chính sách, pháp luật về kỹ thuật an toàn trong
+> hoạt động VLNCN*, gửi **Công ty Công nghiệp hóa chất mỏ Tây Bắc**; **Cục trưởng Phạm Tuấn Anh** ký
+> (ký số 17/9/2026 12:24, ký số cơ quan 17/9/2026 13:33). **Nơi nhận có SCT tỉnh Lào Cai** — Sở nhận để
+> theo dõi, giám sát doanh nghiệp trên địa bàn, không phải để thực hiện.
+>
+> Vì sao lưu: Công ty CN Hóa chất Mỏ Tây Bắc là đơn vị **dịch vụ nổ mìn lớn nhất trên địa bàn Lào Cai**
+> (Sin Quyền, Tả Phời, apatit Làng Cáng 2, khai trường 32… — reference `12`), nên đây vừa là thông tin nền
+> về đối tượng Sở quản lý, vừa là **mẫu chuẩn của cuộc kiểm tra chuyên đề cấp Bộ** để đối chiếu với chuỗi
+> kiểm tra của Sở ở mục F.
+
+### G.1. Chuỗi mốc của một cuộc kiểm tra chuyên đề cấp Bộ (đặt cạnh chuỗi B1–B6 của Sở ở mục F)
+
+| Bước | Văn bản / mốc | Đối chiếu với Sở (mục F) |
+|---|---|---|
+| Kế hoạch kiểm tra chuyên đề cả năm | **QĐ 338/QĐ-BCT ngày 25/02/2026** của Bộ trưởng Bộ Công Thương | Sở: kế hoạch kiểm tra năm do UBND tỉnh/GĐ Sở phê duyệt |
+| Quyết định kiểm tra từng đơn vị | **QĐ 154/QĐ-ATMT ngày 07/8/2026** của Cục ATMT | B1 — QĐ 1050/QĐ-SCT 06/3/2026 thành lập Đoàn |
+| Kiểm tra tại đơn vị | **10 – 11/9/2026 (02 ngày)** | B4 — ~02 ngày/đơn vị (khớp định mức) |
+| Trưởng đoàn báo cáo kết quả | **15/9/2026** (04 ngày sau khi kết thúc) | B5 — BC 1883/ĐKT-SCT (kết thúc 27/3 → báo cáo 08/4, 12 ngày) |
+| Văn bản gửi doanh nghiệp | **CV 1994/ATMT-ATKV ngày 17/9/2026** (02 ngày sau báo cáo) | B6 — TB 1894/TB-SCT (09/4, 01 ngày sau báo cáo) |
+
+**Rút ra cho Sở:** khoảng cách kết thúc kiểm tra → báo cáo trưởng đoàn của Cục là 04 ngày, của Sở đợt 3/2026
+là 12 ngày. Khi lập kế hoạch đợt sau, đặt mốc báo cáo trong vòng **05 ngày làm việc** kể từ ngày kết thúc và
+ra thông báo kết quả trong **03 ngày làm việc** tiếp theo — bám được nhịp của cấp Bộ mà vẫn trong khung
+NĐ 217/2025.
+
+### G.2. Thể thức văn bản kết luận khi KHÔNG phát hiện vi phạm — mẫu dùng lại được
+
+Cục ATMT dùng **công văn nhận xét, đánh giá** (không phải kết luận kiểm tra, không kèm biên bản VPHC), kết
+cấu đúng 2 phần, rất gọn — Sở nên dùng lại khuôn này cho Thông báo kết quả kiểm tra khi đơn vị chấp hành tốt:
+
+1. **Phần đánh giá chấp hành** — nêu doanh nghiệp *"đã chấp hành đầy đủ các quy định của pháp luật về an
+   toàn trong hoạt động VLNCN"*, kèm **03 trọng tâm đã kiểm**: (a) hệ thống quản lý, hồ sơ, quy trình, biện
+   pháp kỹ thuật an toàn — *"được xây dựng và triển khai tương đối đầy đủ theo quy định, được điều chỉnh
+   theo thực tế sản xuất"*; (b) công tác kiểm tra, giám sát, huấn luyện an toàn và **quản lý rủi ro**;
+   (c) các giải pháp bảo đảm an toàn trong hoạt động VLNCN.
+2. **Phần yêu cầu tăng cường tự kiểm tra, phòng ngừa tai nạn, sự cố** — 04 yêu cầu (mục G.3).
+
+Lưu ý cách viết: dùng "tương đối đầy đủ" thay vì "đầy đủ" ở phần hệ thống hồ sơ — cách hạ giọng để vẫn đánh
+giá tốt mà không đóng khung trách nhiệm cho cơ quan kiểm tra. Đây là lối viết nên học khi đơn vị không có vi
+phạm nhưng vẫn còn tồn tại nhỏ.
+
+### G.3. Bốn yêu cầu sau kiểm tra của Cục ATMT — đưa thẳng vào checklist và thông báo kết quả của Sở
+
+1. **Thường xuyên cập nhật văn bản quy phạm pháp luật**, rà soát nội quy, quy định, quy trình, **phương án
+   nổ mìn**, **kế hoạch ứng cứu sự cố khẩn cấp** cho phù hợp thực tiễn và quy định pháp luật.
+2. **Duy trì điều kiện bảo đảm an ninh trật tự**; quản lý chặt, **không để thất thoát, mất VLNCN**; thường
+   xuyên phối hợp chính quyền địa phương; thực hiện nghiêm quy định an toàn khi thi công nổ mìn.
+3. **Tăng cường kiểm tra việc chấp hành quy trình, quy định, nội quy an toàn ở TỪNG CẤP** — cả cấp quản lý
+   lẫn người lao động, **đặc biệt là phân xưởng, tổ đội**; phát hiện thiếu sót thì **đặt thời hạn khắc phục
+   và PHÚC TRA kết quả thực hiện**.
+4. Thực hiện đầy đủ trách nhiệm của tổ chức, doanh nghiệp trong quản lý, sử dụng VLNCN theo Luật Quản lý,
+   sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ.
+
+**Điểm 3 là điểm đáng học nhất:** yêu cầu doanh nghiệp tự kiểm tra theo tầng (công ty → phân xưởng → tổ đội)
+và **bắt buộc có phúc tra** — mục B của reference này chưa có, nay bổ sung thành một dòng trong checklist:
+*"Có kế hoạch tự kiểm tra nội bộ theo cấp không? Biên bản tự kiểm tra gần nhất? Thiếu sót đã phát hiện có
+ghi thời hạn khắc phục và biên bản phúc tra không?"* — hỏi ngay ở buổi làm việc, vì doanh nghiệp làm tốt sẽ
+có hồ sơ, làm hình thức thì lộ ngay.
+
+### G.4. ⚠️ BẪY VIỆN DẪN — "Điều 45" trong CV 1994 KHÔNG khớp luật hiện hành
+
+Bản gốc ghi: *"Thực hiện đầy đủ các quy định tại **Điều 45** Luật Quản lý, sử dụng vũ khí, vật liệu nổ và
+công cụ hỗ trợ"*. Đối chiếu VBHN 78/VBHN-VPQH ngày 26/3/2026 (Luật 42/2024 hợp nhất Luật 118/2025):
+
+- **Điều 45 hiện hành = *Thủ tục cấp giấy phép kinh doanh tiền chất thuốc nổ*** — không liên quan trách
+  nhiệm an toàn của đơn vị sử dụng VLNCN (trừ khi doanh nghiệp có kinh doanh tiền chất thuốc nổ).
+- Điều đúng nội dung là **Điều 42 — Trách nhiệm của tổ chức, doanh nghiệp trong quản lý, sử dụng vật liệu
+  nổ công nghiệp**: (a) có giấy phép, giấy chứng nhận hoặc phê duyệt của cơ quan có thẩm quyền; (b) kiểm tra
+  an toàn, **đánh giá nguy cơ rủi ro**, **xây dựng kế hoạch ứng cứu khẩn cấp**, ban hành nội quy, quy định,
+  quy trình bảo đảm an ninh, an toàn, PCCC, bảo vệ môi trường; (c) **bảo quản, lưu trữ sổ sách, chứng từ
+  từng loại VLNCN trong 10 năm**; (d) báo cáo định kỳ, đột xuất; khoản 2: **chỉ được mua bán đúng khối
+  lượng, số lượng, chủng loại theo giấy phép**.
+
+→ **Khi Sở nhắc lại yêu cầu này trong văn bản của mình thì viện dẫn Điều 42, không chép "Điều 45" của CV
+1994.** Nếu cần dẫn nguyên văn CV 1994 thì giữ nguyên và ghi chú số điều đúng trong ngoặc. Tra nhanh: mốc
+lưu trữ chứng từ **10 năm** tại điểm c khoản 1 Điều 42 là câu hỏi hay dùng khi kiểm tra sổ xuất nhập.

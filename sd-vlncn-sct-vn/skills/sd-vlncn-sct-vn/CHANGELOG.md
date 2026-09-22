@@ -1,5 +1,17 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.9.22.2 — 22/9/2026 — Kinh nghiệm từ cuộc kiểm tra chuyên đề VLNCN của Cục ATMT (CV 1994/ATMT-ATKV ngày 17/9/2026)
+
+Nguồn: Công văn **1994/ATMT-ATKV ngày 17/9/2026** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Bộ Công Thương), Cục trưởng Phạm Tuấn Anh ký, gửi Công ty Công nghiệp hóa chất mỏ Tây Bắc — **nơi nhận có SCT tỉnh Lào Cai**. Bản PDF ký số Bạn cung cấp 22/9/2026.
+
+- **`references/05-kiem-tra-xu-phat.md` — thêm mục G** (4 phần):
+  - G.1 bảng chuỗi mốc của cuộc kiểm tra chuyên đề cấp Bộ đặt cạnh chuỗi B1–B6 của Sở: QĐ 338/QĐ-BCT 25/02/2026 (kế hoạch kiểm tra chuyên đề năm) → QĐ 154/QĐ-ATMT 07/8/2026 (kiểm tra từng đơn vị) → kiểm tra 10–11/9/2026 (02 ngày) → trưởng đoàn báo cáo 15/9 → CV gửi doanh nghiệp 17/9. Đề xuất siết nhịp của Sở: báo cáo trong 05 ngày làm việc, thông báo kết quả trong 03 ngày làm việc tiếp theo.
+  - G.2 **mẫu văn bản kết luận khi đơn vị KHÔNG có vi phạm**: công văn nhận xét, đánh giá 2 phần (đánh giá chấp hành với 03 trọng tâm + yêu cầu tăng cường), kể cả lối viết "tương đối đầy đủ".
+  - G.3 **04 yêu cầu sau kiểm tra** đưa thẳng vào checklist của Sở; nhấn yêu cầu số 3 — doanh nghiệp tự kiểm tra theo tầng (công ty → phân xưởng → tổ đội), có thời hạn khắc phục và **phúc tra**; bổ sung một dòng hỏi tương ứng vào checklist mục B.
+  - G.4 ⚠️ **BẪY VIỆN DẪN**: CV 1994 dẫn "Điều 45 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ", nhưng Điều 45 hiện hành là *thủ tục cấp giấy phép kinh doanh tiền chất thuốc nổ*. Điều đúng nội dung là **Điều 42 — Trách nhiệm của tổ chức, doanh nghiệp trong quản lý, sử dụng VLNCN** (đối chiếu VBHN 78/VBHN-VPQH 26/3/2026), kèm tóm tắt 4 điểm của khoản 1 và mốc **lưu trữ sổ sách, chứng từ 10 năm**. Khi Sở nhắc lại yêu cầu thì dẫn Điều 42.
+- **`SKILL.md`**: cập nhật mô tả ref 05 trong cây thư mục và mục "Kiểm tra, giám sát, xử phạt VPHC".
+- ⚠️ Bản gốc PDF không chép sang kho công khai này theo quy tắc CLAUDE.md.
+
 ## v2026.9.22.1 — 22/9/2026
 
 Nguồn: chỉ đạo PTP Trần Trọng Trang khi thẩm định hồ sơ cấp điều chỉnh Giấy phép sử dụng VLNCN số 2269/GP-UBND của Cty CP Xây dựng giao thông Yên Bái (mỏ đá vôi thôn Đồng Tâm, xã Yên Thành) — hồ sơ đầu tiên điều chỉnh một Giấy phép do Chủ tịch UBND tỉnh cấp sau mốc ủy quyền 20/8/2026.

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.99"
+    "version": "4.11.100"
   },
   "plugins": [
     {
@@ -53,8 +53,8 @@
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "GATE trạng thái hồ sơ (ref 39): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; HĐ thẩm định QH KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW. Khung 9/2026: NĐ 32/2024, 303/2026, LĐT 143/2025, NĐ 96/2026. QHPK KCN 22/9/2026: Minh Quân và Âu Lâu đã duyệt (Âu Lâu 118,35 ha - QĐ 263, ref 33 mục I), Y Can và Đông An xin ý kiến.",
-      "version": "1.41.0"
+      "description": "GATE trạng thái hồ sơ (ref 39): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; HĐ thẩm định QH KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW. Khung 9/2026: NĐ 32/2024, 303/2026, LĐT 143/2025, NĐ 96/2026. QHPK KCN: Âu Lâu QĐ 263 (118,35 ha) và Minh Quân QĐ 264 (160 ha) cùng ngày 11/9/2026 đã duyệt; Y Can, Đông An xin ý kiến.",
+      "version": "1.42.0"
     },
     {
       "name": "kho-vlncn-sct-vn",

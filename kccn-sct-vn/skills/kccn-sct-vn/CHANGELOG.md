@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [1.42.0] - 22/9/2026 — QĐ 264/QĐ-BQLCKCN ngày 11/9/2026 phê duyệt QHPK KCN Minh Quân (160 ha); chốt được số/ngày của cả cặp 263 - 264
+
+- **Nguồn:** bản PDF ký số *Quyết định phê duyệt Quy hoạch phân khu Khu công nghiệp Minh Quân, tỉnh Lào Cai* Bạn cung cấp 22/9/2026 — CÙNG văn bản của đợt 18/9 (ký số Trưởng ban 17/9/2026 22:19, ký số cơ quan 18/9/2026 08:00) nhưng lần này đọc được ô số/ngày trong trường ký số: **số 264, ngày 11/9/2026**. Bỏ ghi chú "số chưa xác định" của bản 1.40.0.
+- ✅ **Gỡ nghi vấn vênh ngày của QĐ 263 (Âu Lâu):** hai quyết định số liền nhau 263 và 264 **cùng ghi ngày 11/9/2026** — đúng ngày cặp tờ trình 118 và 119/TTr-BQLCKCN — dù ký số lệch nhau (Minh Quân 17–18/9, Âu Lâu 20–21/9). Kết luận: BQLCKCN cấp số và ngày theo ngày trình hồ sơ, ký số sau vài ngày. Viện dẫn theo số/ngày trên văn bản; dùng mốc ký số khi cần ngày phát hành thực tế.
+- **`references/34-kcn-minh-quan-qhpk-tham-dinh.md` — viết lại mục H.1** theo bản ban hành: phạm vi (chỉ phường Âu Lâu, Tây giáp QL32C), 160 ha, 8.675 lao động; **bảng cơ cấu sử dụng đất 06 loại** (SXCN và kho bãi 106,81 ha = 66,76%; cây xanh 26,29 + mặt nước 0,92; HTKT 5,18; giao thông 16,42 gồm bãi đỗ xe 1,81); mật độ xây dựng; **chỉ giới xây dựng 6 m — không có ngoại lệ 5 m như Âu Lâu**; bảng hạ tầng kỹ thuật (**06 mặt cắt đường, 1A-1A lộ giới 55 m**; san nền +36,50 đến +55,00 m; cấp nước 7.900 m³/ngđ nguồn dọc QL32C, ống D110–D400; **XLNT 4.000 m³/ngđ, giai đoạn 1 ~500**; cống nước thải D300–D500; **thoát nước hạ lưu đập Đá Mài bằng cống hộp B3000 → mương hở 3×7 m ra sông Hồng**; **TBA 110 kV Minh Quân, 29,2 MVA**; 1.743 thuê bao); căn cứ nền riêng (QĐ 2077, QĐ 02/QĐ-UBND 04/01/2021, **QĐ 51/QĐ-UBND 07/01/2022 của Chủ tịch UBND huyện Trấn Yên**, QĐ 109/QĐ-BQLCKCN 27/6/2025); Điều 2 — Điều 3 và nơi nhận.
+- ⚠️ **ĐÍNH CHÍNH bản 1.40.0:** QĐ phê duyệt **không** ghi tách "hiện có 107,89 ha + mở rộng 52,11 ha" — toàn văn chỉ có 160 ha; 107,887 ha là quy mô theo QĐ 02/QĐ-UBND 04/01/2021 (nguồn khác).
+- **Ngành nghề Minh Quân khác hẳn Âu Lâu** — nhóm nặng (vật liệu xây dựng, chế biến khoáng sản, chế biến nông lâm sản, hóa chất và hàng tiêu dùng, kim loại, plastic; "thuộc hệ thống các khu công nghiệp Quốc gia") so với nhóm sạch của Âu Lâu. Ghi vào reference để không áp nhầm danh mục khi thẩm định mục tiêu dự án thứ cấp.
+- **`references/33-...md`, `references/12-...md`, `SKILL.md`**: thay cảnh báo vênh ngày bằng kết luận đã đối chứng; ghi đủ số/ngày của cả hai quyết định.
+- ⚠️ Bản gốc PDF **không chép sang kho này** (kho công khai) theo quy tắc CLAUDE.md.
+- `plugin.json` → 1.42.0.
+
 ## [1.41.0] - 22/9/2026 — QĐ 263/QĐ-BQLCKCN phê duyệt Quy hoạch phân khu KCN Âu Lâu (118,35 ha)
 
 - **Nguồn:** bản PDF ký số Bạn cung cấp 22/9/2026 — *Quyết định phê duyệt Quy hoạch phân khu Khu công nghiệp Âu Lâu, tỉnh Lào Cai*, Trưởng Ban Quản lý các khu công nghiệp Đỗ Việt Bách ký. **Số 263 và ngày 11 nằm trong trường ký số của văn thư, lớp text của bản in để trống** — đọc bằng cách render có bật form field (`may_draw_forms`) sau khi `extract_metadata.py` không chạy được do máy thiếu poppler. Đúng vết cảnh báo GATE PDF ký số của CLAUDE.md: nếu chỉ đọc lớp text sẽ kết luận sai là "dự thảo chưa điền số".

@@ -43,6 +43,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "vlncn-cap-dieu-chinh-la-giay-phep",
+        # Chốt 22/9/2026 (PTP Trang, bộ GTYB Đồng Tâm): cấp điều chỉnh GP sử dụng VLNCN → kết quả là GIẤY PHÉP /GP-SCT
+        # có dòng "(Cấp điều chỉnh)", không còn dùng "Quyết định điều chỉnh (nội dung) Giấy phép" (anti-error 36, mẫu 04).
+        "pattern": r"^(?!.*(?:lịch sử|cách cũ|cách làm cũ|anti-error 36|không dùng|KHÔNG dùng|chỉ còn|trước đây|Hỏm Dưới|thay bằng|thay toàn bộ|THAY toàn bộ)).*(?:QĐ|Quyết định) điều chỉnh (?:nội dung )?(?:Giấy phép|GP)\b",
+        "why": "Từ 22/9/2026 cấp điều chỉnh Giấy phép sử dụng VLNCN ra kết quả là Giấy phép /GP-SCT có dòng \"(Cấp điều chỉnh)\" (anti-error 36 sd-vlncn-sct-vn, mẫu 04); không dùng hình thức Quyết định điều chỉnh nữa.",
+        "since": "2026-09-22",
+        "level": "FAIL",
+        "only": ["sd-vlncn-sct-vn"],
+    },
+    {
         "id": "qcvn-40-nuoc-thai-cong-nghiep",
         # QCVN 40:2025/BTNMT (TT 06/2025/TT-BTNMT ngày 28/02/2025, hiệu lực 01/9/2025) thay QCVN 40:2011/BTNMT.
         # "QCVN 40:2021/BTNMT" là ký hiệu KHÔNG TỒN TẠI - lỗi có thật trong QĐ phê duyệt QHPK KCN Minh Quân 18/9/2026.

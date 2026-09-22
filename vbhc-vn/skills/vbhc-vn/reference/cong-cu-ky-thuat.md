@@ -107,3 +107,13 @@ QA khép vòng: `python3 scripts/qa_pdf_check.py <file.docx>` — kiểm widow w
 - **Thay text header tách nhiều run**: lấy đủ chuỗi `''.join(r.text for r in p.runs)`, sửa, ghi vào `runs[0].text`, xóa text run sau — NHƯNG trước đó PHẢI kiểm tra run có shape không (Quy tắc 11); run chứa shape thì đi đường `w:t`.
 - **Assertion tự động sau build** (bắt buộc với Chế độ B trên mẫu thật): không còn tên/địa danh vụ việc cũ; đủ các dòng Kính gửi; ngày tháng đúng; mọi đoạn body không CENTER; firstLine ≥ 1cm (≥ 360000 EMU); còn đủ số shape Line như gốc. Từ v2.1.0: phần CENTER/firstLine/shape Line/br-header đã nằm sẵn trong `scripts/qa_all.py` — chạy `qa_all.py` ngay sau build là phủ được; chỉ cần tự viết assertion riêng cho phần NỘI DUNG vụ việc (tên/địa danh cũ, dòng Kính gửi, ngày tháng).
 - **Sửa XML trực tiếp trên file có run vụn**: chạy `merge_runs.py` (skill docx public) gộp `<w:t>` trước rồi mới str_replace; khớp whitespace trong `<w:t>` chính xác từng dấu cách.
+
+
+## Bẫy helper thay chữ trải nhiều run (22/9/2026)
+
+Khi tự viết hàm thay một cụm chữ nằm vắt qua nhiều run rồi tô màu phần mới: duyệt mọi đoạn bằng
+`doc.element.body.iter(qn('w:p'))` và bọc `Paragraph(e, doc._body)`. KHÔNG dùng `id(p._p)` để đánh dấu
+đoạn đã duyệt — lxml trả proxy mới mỗi lần truy cập, `id()` bị tái sử dụng sau khi proxy cũ bị thu hồi,
+nên hàm bỏ sót đoạn (vụ thật: bỏ sót ô bảng, lệnh thay số diện tích trong bảng báo không khớp). Mọi lệnh thay phải
+assert đúng số lần khớp (Quy tắc 16). Tách run: chép nguyên `w:r` bằng deepcopy rồi đặt lại chữ, để
+giữ rPr; màu chèn trước `w:sz` cho đúng thứ tự schema.

@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.27.0 — 22/9/2026
+
+- Quy tắc máy kiểm mới R17 (đánh số kép "(1) Một là", nhiều ý dồn một đoạn) và R18 (đề mục La Mã lệch tab); sửa `is_bold` để R11 tính đậm kế thừa từ kiểu đoạn. Chi tiết: `CHANGELOG-v2026.09.22.md`.
+
 ## v2.26.0 — 20/9/2026
 
 - Thêm **Nhóm O** (reference/phong-tranh-sai-lam.md): viết tên loại hình doanh nghiệp — luôn "Công ty TNHH", "Công ty TNHH MTV"; không viết "Công ty trách nhiệm hữu hạn", kể cả khi hồ sơ nguồn viết đủ chữ; nhất quán trong cả bộ hồ sơ.

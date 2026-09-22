@@ -255,4 +255,23 @@ if n == 0: sys.exit('LINES: mẫu không có shape')
 d.save(str(p))
 ghi_expect(p, ['LINES FAIL'], f'Xóa {n} shape Line/drawing khỏi file — so với mẫu gốc qua --goc thì FAIL (Quy tắc 11).')
 
+# R17: đánh số kép "(1) Một là" ở đoạn đầu mục Khó khăn, vướng mắc (lỗi gặp 22/9/2026).
+p = sao('sct/bao-cao-thang-phong-qlcn.docx', 'r17-danh-so-kep-mot-la.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('Một số dự án khai thác khoáng sản'))
+if q is None: sys.exit('R17: không tìm được đoạn Khó khăn')
+dat_text(q, '(1) Một là, ' + q.text[0].lower() + q.text[1:])
+d.save(str(p))
+ghi_expect(p, ['R17 WARN'], 'Thêm "(1) Một là, " vào đầu đoạn đầu tiên của mục II. Khó khăn, vướng mắc.')
+
+# R18: đề mục II mở đầu bằng ký tự tab trong khi các đề mục La Mã khác không có (lỗi gặp 22/9/2026).
+p = sao('sct/bao-cao-thang-phong-qlcn.docx', 'r18-de-muc-la-ma-lech-tab.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('II. KHÓ KHĂN'))
+if q is None: sys.exit('R18: không tìm được đề mục II')
+r = [x for x in q.runs if x.text.strip()][0]
+tab = OxmlElement('w:tab'); r._r.insert(1 if r._r.rPr is not None else 0, tab)
+d.save(str(p))
+ghi_expect(p, ['R18 WARN'], 'Chèn một ký tự tab vào đầu đề mục "II. KHÓ KHĂN, VƯỚNG MẮC"; các đề mục I, III giữ nguyên.')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

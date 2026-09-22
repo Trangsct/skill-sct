@@ -43,6 +43,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "kcn-3-khu-626-24-ha",
+        # Chốt 22/9/2026 (BC 294/BC-BQLCKCN 18/9/2026): 03 KCN Phía Nam 400 + Minh Quân 107,89 + Âu Lâu 118,35 = 626,24 ha.
+        # 627,89 chỉ còn trong bảng lịch sử tháng 7/2026 (ref 17, dòng dẫn BC 225).
+        "pattern": r"^(?!.*(?:lịch sử|tháng 7|BC 225|225/BC|thay 627,89|thay bằng 626,24|trước ngày)).*627,89",
+        "why": "Diện tích 03 KCN Phía Nam, Minh Quân, Âu Lâu dùng 626,24 ha theo BC 294/BC-BQLCKCN ngày 18/9/2026 (400 + 107,89 + 118,35) — kccn-sct-vn ref 40 mục B.",
+        "since": "2026-09-22",
+        "level": "FAIL",
+    },
+    {
         "id": "vlncn-cap-dieu-chinh-la-giay-phep",
         # Chốt 22/9/2026 (PTP Trang, bộ GTYB Đồng Tâm): cấp điều chỉnh GP sử dụng VLNCN → kết quả là GIẤY PHÉP /GP-SCT
         # có dòng "(Cấp điều chỉnh)", không còn dùng "Quyết định điều chỉnh (nội dung) Giấy phép" (anti-error 36, mẫu 04).

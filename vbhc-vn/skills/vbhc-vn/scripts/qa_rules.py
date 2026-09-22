@@ -141,7 +141,23 @@ def is_italic(run) -> bool:
 
 
 def is_bold(run) -> bool:
-    return bool(run.bold) or bool(run.font.bold)
+    """Đậm THẬT khi hiển thị: đặt trên run, hoặc run để trống (None) thì kế thừa kiểu ký tự /
+    kiểu đoạn (vd Heading 1) theo chuỗi base_style. Run ghi rõ không đậm (<w:b w:val="0"/>)
+    thì là không đậm. Vụ 22/9/2026: dòng 'KT. GIÁM ĐỐC' đậm qua kiểu Heading 1 bị R11 bắt nhầm."""
+    if run.bold is not None:
+        return bool(run.bold)
+    st = getattr(run, "style", None)
+    while st is not None and getattr(st, "name", "") not in ("Default Paragraph Font",):
+        if st.font.bold is not None:
+            return bool(st.font.bold)
+        st = st.base_style
+    par = getattr(run, "_parent", None)
+    st = getattr(par, "style", None)
+    while st is not None:
+        if st.font.bold is not None:
+            return bool(st.font.bold)
+        st = st.base_style
+    return False
 
 
 def text_runs(p):
@@ -1005,6 +1021,68 @@ def rule_R16(doc, ctx) -> list[Finding]:
     return []
 
 
+THU_TU_LA = re.compile(r"(?<![\w])(Một|Hai|Ba|Bốn|Năm|Sáu|Bảy|Tám|Chín|Mười)\s+là\s*,", re.IGNORECASE)
+DANH_SO_KEP = re.compile(r"\(\s*\d{1,2}\s*\)\s*(Một|Hai|Ba|Bốn|Năm|Sáu|Bảy|Tám|Chín|Mười)\s+là\b", re.IGNORECASE)
+
+
+def rule_R17(doc, ctx) -> list[Finding]:
+    """R17 — Liệt kê "Một là, Hai là…": không đánh số kép, mỗi ý một đoạn.
+
+    Quy tắc: khi liệt kê bằng "Một là, …", "Hai là, …" thì KHÔNG thêm số trong ngoặc
+    "(1) Một là", "(2) Hai là" (đánh số hai lần); mỗi ý viết thành một đoạn riêng, ý giữa kết
+    thúc bằng dấu chấm phẩy, ý cuối bằng dấu chấm — không dồn cả dãy ý vào một đoạn.
+    Nguồn: rà soát Báo cáo tháng 9/2026 thực hiện NQ 34-NQ/TU (mục Khó khăn, vướng mắc viết
+    "(1) Một là… (2) Hai là… (4) Bốn là…" trong cùng một đoạn), Bạn chốt 22/9/2026
+    "thống nhất kiểu đánh số".
+    Mức: WARN.
+    """
+    out: list[Finding] = []
+    for loc, t in ctx.texts:
+        if not loc.startswith("đoạn"):
+            continue
+        if DANH_SO_KEP.search(t):
+            out.append(Finding("R17", WARN, loc, cut(t),
+                               "Đánh số kép '(n) Một là' — bỏ '(n)', chỉ giữ 'Một là, …'."))
+        elif len(THU_TU_LA.findall(t)) >= 2:
+            out.append(Finding("R17", WARN, loc, cut(t),
+                               "Nhiều ý 'Một là/Hai là…' dồn trong một đoạn — tách mỗi ý thành một đoạn."))
+    return out
+
+
+LA_MA = re.compile(r"^\s*(I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s")
+
+
+def _mo_dau_tab(p) -> bool:
+    for r in p._p.findall(qn("w:r")):
+        con = [c for c in r if c.tag not in (qn("w:rPr"), qn("w:lastRenderedPageBreak"))]
+        if con:
+            return con[0].tag == qn("w:tab")
+    return False
+
+
+def rule_R18(doc, ctx) -> list[Finding]:
+    """R18 — Đề mục La Mã (I, II, III…) trong cùng văn bản phải lùi đầu dòng thống nhất.
+
+    Quy tắc: các đề mục cùng cấp I, II, III, IV… phải cùng một cách lùi đầu dòng; không để đề
+    mục này gõ ký tự tab ở đầu còn đề mục kia dùng thụt dòng đầu của đoạn (lệch 1,27 cm và 1 cm).
+    Chỉ bắt khi văn bản LẪN hai cách — nhiều mẫu thật dùng tab đầu đoạn một cách nhất quán nên
+    tab tự nó không phải lỗi (tests/rule-inventory.md mục D: quy tắc phải PASS mẫu thật).
+    Nguồn: Quy tắc thể thức "lùi đầu dòng đồng nhất 1cm" (SKILL.md mục Thể thức); rà soát Báo cáo
+    tháng 9/2026 thực hiện NQ 34-NQ/TU (đề mục I, II, IV mở đầu bằng tab, đề mục III không),
+    Bạn chốt 22/9/2026 "thống nhất kiểu đánh số và thể thức".
+    Mức: WARN.
+    """
+    muc = [(loc, p) for loc, p in ctx.items
+           if loc.startswith("đoạn") and LA_MA.match(nfc(p.text))]
+    co_tab = [(loc, p) for loc, p in muc if _mo_dau_tab(p)]
+    if not co_tab or len(co_tab) == len(muc):
+        return []
+    return [Finding("R18", WARN, loc, cut(p.text),
+                    "Đề mục La Mã mở đầu bằng tab trong khi đề mục cùng cấp khác không dùng tab — "
+                    "xóa tab, đặt thụt dòng đầu 1 cm như các đề mục còn lại.")
+            for loc, p in co_tab]
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1022,6 +1100,8 @@ RULES = [
     ("R14", rule_R14),
     ("R15", rule_R15),
     ("R16", rule_R16),
+    ("R17", rule_R17),
+    ("R18", rule_R18),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

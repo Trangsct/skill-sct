@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.43.0] - 22/9/2026 — Báo cáo NQ 34-NQ/TU tháng 9/2026: số chốt GPMB và các điểm vênh giữa báo cáo các Ban
+
+- **Nguồn:** rà soát dự thảo Báo cáo tháng 9/2026 thực hiện NQ 34 của Sở cùng Bạn ngày 22/9/2026; 06 báo cáo đầu vào đọc số/ngày từ trường ký số.
+- **`references/40-bao-cao-nq34-thang-9-2026.md` (mới):** bảng nguồn; số chốt (03 KCN Phía Nam, Minh Quân, Âu Lâu **626,24 ha** thay 627,89 của bảng tháng 7; GPMB 2026 35,86 ha; Trấn Yên 140 ha và Cam Đường 90 ha lấy theo báo cáo chủ đầu tư — khác BQL; tổng GPMB 597,74 ha, mặt bằng sạch 361,47 ha = 72,29%); 8 điểm vênh và cách viết (Y Can/Đông An "trước 30/9/2026"; Âu Lâu, Minh Quân đã phê duyệt QHPK; KCN Thống Nhất đã có QHPK 1/2000 QĐ 1828/QĐ-UBND 31/12/2021; Châu Quế TTr 196/TTr-UBND; STC nhầm QĐ Võ Lao 1463 → 2463).
+- **check_facts.py:** thêm rule `kcn-3-khu-626-24-ha`.
+- `SKILL.md`: thêm dòng ref 40 vào bảng reference. `plugin.json` → 1.43.0.
+
 ## [1.42.0] - 22/9/2026 — QĐ 264/QĐ-BQLCKCN ngày 11/9/2026 phê duyệt QHPK KCN Minh Quân (160 ha); chốt được số/ngày của cả cặp 263 - 264
 
 - **Nguồn:** bản PDF ký số *Quyết định phê duyệt Quy hoạch phân khu Khu công nghiệp Minh Quân, tỉnh Lào Cai* Bạn cung cấp 22/9/2026 — CÙNG văn bản của đợt 18/9 (ký số Trưởng ban 17/9/2026 22:19, ký số cơ quan 18/9/2026 08:00) nhưng lần này đọc được ô số/ngày trong trường ký số: **số 264, ngày 11/9/2026**. Bỏ ghi chú "số chưa xác định" của bản 1.40.0.

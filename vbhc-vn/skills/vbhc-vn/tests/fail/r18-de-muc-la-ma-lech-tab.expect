@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn một ký tự tab vào đầu đề mục "II. KHÓ KHĂN, VƯỚNG MẮC"; các đề mục I, III giữ nguyên.
+nguon: examples/sct/bao-cao-thang-phong-qlcn.docx
+R18 WARN

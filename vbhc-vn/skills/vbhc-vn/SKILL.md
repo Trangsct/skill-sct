@@ -79,14 +79,14 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
-| Chỉ bộ quy tắc R01–R16, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chỉ bộ quy tắc R01–R18, không render | `python3 scripts/qa_rules.py <file>.docx` |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
 | Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
 | Đọc số/ngày/người ký từ PDF văn bản đến | `python3 scripts/extract_metadata.py <file>.pdf` |
 | File .docx cơ quan khác gửi đến — gỡ định dạng ẩn (Nhóm N) | `python3 scripts/normalize_body.py <file>.docx --check` rồi `... <file>.docx` |
 | Hợp đồng, phụ lục hợp đồng, văn bản dài — căn trang (Quy tắc 28) | `python3 scripts/fit_pages.py sweep <file>.docx` rồi `apply <pt>` |
 
-`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R16 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R18 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
@@ -155,7 +155,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-Script: `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R16) · `cite_check.py` (đối chiếu số hiệu)
+Script: `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R18) · `cite_check.py` (đối chiếu số hiệu)
 · `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
 · `extract_metadata.py` (đọc PDF) · `normalize_body.py` (định dạng ẩn, Nhóm N) · `fit_pages.py` (căn trang hợp đồng, Quy tắc 28) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 

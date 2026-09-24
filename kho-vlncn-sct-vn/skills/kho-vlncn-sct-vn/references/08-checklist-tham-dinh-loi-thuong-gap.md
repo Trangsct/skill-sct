@@ -31,7 +31,8 @@
 - [ ] Báo cáo hoàn thành thi công; văn bản gửi SCT trước ≥10 ngày
 
 **D. Công an**
-- [ ] Văn bản chấp thuận kết quả nghiệm thu về PCCC (không thay bằng biên bản PC03)
+- [ ] Biên bản nghiệm thu về PCCC do CĐT tổ chức (từ 15/9/2026, NĐ 347/2026) — hoặc văn bản chấp thuận của Công an nếu đã cấp trước 15/9/2026; không thay bằng biên bản PC03; KHÔNG đòi DN xin thêm văn bản của Công an
+- [ ] Đã khai báo CSDL PCCC và thông báo Công an tỉnh thời gian đưa kho vào hoạt động
 - [ ] GCN đủ điều kiện về an ninh, trật tự
 
 **E. Hình thức**
@@ -45,7 +46,7 @@
 2. **Thiếu bước Điều 131 Luật XD**: không có bằng chứng gửi thiết kế cho Sở trước khởi công → yêu cầu bổ sung quy trình cho vụ sau; vụ hiện tại ghi nhận tồn tại, nhắc nhở.
 3. **Nghiệm thu - bàn giao trước khi có văn bản chấp thuận** (vi phạm Điều 23 NĐ 06/2021) → yêu cầu dừng sử dụng; biên bản mẫu CĐT phải thêm điều kiện "chỉ đưa vào sử dụng sau khi có văn bản chấp thuận".
 4. **Không đủ 10 ngày thông báo trước nghiệm thu**; hồ sơ "nén" (báo cáo hoàn thành cùng ngày biên bản nghiệm thu) → nhắc nhở bằng văn bản, lưu ý rủi ro thanh tra.
-5. **Thiếu văn bản nghiệm thu PCCC** (chỉ có PC03) → yêu cầu bổ sung trước khi chấp thuận; hoặc nếu theo hướng "không thuộc diện" thì gỡ viện dẫn Điều 18 Luật 55/2024 khỏi biên bản — một trong hai, không nửa vời.
+5. **Thiếu biên bản nghiệm thu PCCC của CĐT** (chỉ có PC03) → yêu cầu bổ sung trước khi chấp thuận; hoặc nếu theo hướng "không thuộc diện" thì gỡ viện dẫn Điều 18 Luật 55/2024 khỏi biên bản — một trong hai, không nửa vời.
 6. **Thiếu GCN ANTT** trong danh mục → bổ sung thành đầu mục bắt buộc.
 7. **Một pháp nhân 3 vai** (CĐT + thi công + tự giám sát) không kèm chứng chỉ giám sát cá nhân + văn bản giao nhiệm vụ → yêu cầu bổ sung; danh mục đánh dấu "đã xuất trình" trong khi không có là lỗi lập hồ sơ nghiêm trọng.
 8. **Chỉ huy trưởng chỉ có bằng kỹ sư + CCCD** → yêu cầu chứng minh điều kiện năng lực theo NĐ 175/2024 (chứng chỉ, QĐ bổ nhiệm, HĐLĐ, kinh nghiệm).

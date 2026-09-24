@@ -61,7 +61,10 @@
       "ghi_chu": "Chương trình hành động của Chính phủ thực hiện NQ 10-NQ/TW về địa chất, khoáng sản; danh mục 18 nhiệm vụ. Bản gốc quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/ — ref 10; qlks-sct-vn ref 24"
     },
     "NĐ 105/2025": {
-      "ghi_chu": "Chi tiết Luật PCCC 55/2024; kiểm tra định kỳ Phụ lục II"
+      "ngay_ban_hanh": "2025-05-15",
+      "ngay_hieu_luc": "2025-07-01",
+      "bi_sua_doi_boi": "NĐ 347/2026 (15/9/2026)",
+      "ghi_chu": "Chi tiết Luật PCCC 55/2024; kiểm tra định kỳ Phụ lục II; NĐ 347/2026 bãi bỏ k5 Đ6, Đ10 (kiểm tra nghiệm thu PCCC), thay Phụ lục III, IV — đối chiếu bản gốc 24/9/2026"
     },
     "NĐ 106/2025": {
       "ghi_chu": "Xử phạt PCCC"
@@ -118,6 +121,7 @@
     },
     "NĐ 217/2026": {
       "ngay_hieu_luc": "2026-07-01",
+      "bi_sua_doi_boi": "NĐ 347/2026 (bãi bỏ Điều 74; 15/9/2026)",
       "ghi_chu": "Quản lý dự án/thiết kế xây dựng — tkm-sct-vn GATE k5 Đ76"
     },
     "NĐ 24/2025": {
@@ -150,6 +154,11 @@
       "ngay_hieu_luc": "2024-05-01",
       "bi_sua_doi_boi": "NĐ 303/2026 (15/9/2026)",
       "ghi_chu": "Quản lý CCN; NĐ 303 hạ ngưỡng lấp đầy 50%, thẩm quyền thành lập → UBND xã, 4 loại CCN mới"
+    },
+    "NĐ 347/2026": {
+      "ngay_ban_hanh": "2026-09-08",
+      "ngay_hieu_luc": "2026-09-15",
+      "ghi_chu": "Sửa NĐ 169/2025, NĐ 105/2025, NĐ 106/2025, NĐ 282/2025; bãi bỏ Điều 74 NĐ 217/2026; bản gốc pccc-sct-vn/van-ban-goc; khoản 2 Điều 41: một số quy định về phương tiện PCCC hiệu lực cùng Luật sửa đổi"
     },
     "NĐ 35/2022": {
       "ngay_ban_hanh": "2022-05-28",

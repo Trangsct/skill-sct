@@ -12,13 +12,13 @@
 
 Điều 6 NĐ 105 quy định chi tiết về thẩm định thiết kế PCCC của CQCM về xây dựng (xem `references/03-tham-dinh-thiet-ke-pccc.md`).
 
-Điều 41 khoản 7 NĐ 105 quy định 05 nhiệm vụ của Bộ Công Thương về PCCC.
+Điều 41 khoản 7 NĐ 105 quy định 05 nhiệm vụ của Bộ Công Thương về PCCC; điểm b, đ sửa bởi khoản 2 Điều 27 NĐ 347/2026/NĐ-CP (hiệu lực 15/9/2026) — bỏ vế kiểm tra công tác nghiệm thu, chỉ còn thẩm định thiết kế PCCC gắn với thẩm định BCNCKT. Khoản 1 Điều 6 cũng sửa: CQCM thẩm định PCCC chỉ trong BCNCKT (ref 16).
 
 ### 1.3. Công văn 311/BCT-ATMT ngày 16/6/2025 của Bộ Công Thương
 
 Văn bản hướng dẫn cốt lõi đối với Sở Công Thương các tỉnh. Xác định Sở Công Thương là CQCM về xây dựng trong lĩnh vực Công Thương với 03 nhiệm vụ trọng tâm:
 - Thẩm định thiết kế PCCC (05 nội dung điểm a-đ khoản 1 Điều 16 Luật).
-- Kiểm tra công tác nghiệm thu PCCC.
+- Kiểm tra công tác nghiệm thu PCCC — *nhiệm vụ này hết từ 15/9/2026 (NĐ 347/2026 bãi bỏ khoản 5 Điều 6 NĐ 105).*
 - Kiểm tra định kỳ PCCC đối với cơ sở Phụ lục II NĐ 105.
 
 ### 1.4. Công văn 5269/BXD-KTQLXD ngày 18/6/2025 của Bộ Xây dựng
@@ -39,6 +39,10 @@ VBQPPL đầu tiên của UBND tỉnh Lào Cai sau hợp nhất. Điều 7 kho�
 
 ## 2. Nguyên văn 05 nhiệm vụ Bộ Công Thương theo Điều 41 khoản 7 NĐ 105/2025
 
+> **Điểm b, đ dưới đây là bản gốc NĐ 105 (lịch sử, trước 15/9/2026).** Nguyên văn hiện hành sau khoản 2 Điều 27 NĐ 347/2026:
+> *"b) Hướng dẫn, chỉ đạo, tổ chức thực hiện thẩm định thiết kế về phòng cháy và chữa cháy thuộc lĩnh vực quản lý quy định tại Điều 17 của Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ;"*
+> *"đ) Kiểm tra cơ quan chuyên môn trực thuộc trong việc tổ chức thẩm định thiết kế về phòng cháy và chữa cháy cùng với việc kiểm tra tổ chức thẩm định Báo cáo nghiên cứu khả thi dự án, công trình xây dựng thuộc chuyên ngành theo quy định của pháp luật về xây dựng."*
+
 > "7. Bộ Công Thương:
 > a) Chủ trì, phối hợp với Bộ Công an quy định về giải pháp kỹ thuật nâng cao an toàn phòng cháy, chữa cháy cho các cơ sở, công trình không bảo đảm yêu cầu về phòng cháy và chữa cháy và không có khả năng khắc phục theo các tiêu chuẩn, quy chuẩn kỹ thuật tại thời điểm đưa vào hoạt động đến trước ngày Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ có hiệu lực thi hành thuộc thẩm quyền quản lý;
 > b) Hướng dẫn, chỉ đạo, tổ chức thực hiện thẩm định thiết kế, kiểm tra công tác nghiệm thu về phòng cháy và chữa cháy thuộc lĩnh vực quản lý quy định tại Điều 17 và Điều 18 của Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ;
@@ -53,7 +57,7 @@ VBQPPL đầu tiên của UBND tỉnh Lào Cai sau hợp nhất. Điều 7 kho�
 | Lĩnh vực | Lãnh đạo phụ trách |
 |---|---|
 | Chỉ đạo chung công tác PCCC của Sở | Giám đốc Hoàng Chí Hiền (TUV) |
-| Trực tiếp phụ trách công nghiệp, thẩm định PCCC, kiểm tra nghiệm thu | Phó Giám đốc Nguyễn Đình Chiến |
+| Trực tiếp phụ trách công nghiệp, thẩm định PCCC, KTCTNT (xây dựng) | Phó Giám đốc Nguyễn Đình Chiến |
 | Trực tiếp phụ trách năng lượng, thương mại | Phó Giám đốc Hoàng Văn Thuân |
 
 ### 3.2. Phòng chuyên môn trực tiếp tham mưu

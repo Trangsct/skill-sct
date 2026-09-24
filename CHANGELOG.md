@@ -1,3 +1,11 @@
+## 24/9/2026 — pccc-sct-vn 1.2.0 + kho-vlncn-sct-vn 1.11.0 + xd-sct-vn 1.6.0: NĐ 347/2026/NĐ-CP và CV 6501/CAT-PCCC (chủ đầu tư tự nghiệm thu PCCC)
+
+- Nguồn: NĐ 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) sửa NĐ 105/2025, NĐ 106/2025; CV 6501/CAT-PCCC ngày 23/9/2026 của Công an tỉnh Lào Cai phối hợp triển khai NQ 66.18/2026/NQ-CP.
+- **pccc-sct-vn 1.2.0:** ref 16 mới; bãi bỏ k5 Đ6, Đ10 NĐ 105 → không còn kiểm tra nghiệm thu PCCC của Sở lẫn Công an, CĐT tự nghiệm thu; thẩm định PCCC chỉ trong BCNCKT; trình tự kiểm tra định kỳ mới (trước 15/12, 03 ngày làm việc, PC03, Công an chủ trì khi phối hợp); Phụ lục III mới; ref 04 viết lại, ref 05 và 9 ref khác sửa.
+- **kho-vlncn-sct-vn 1.11.0:** đầu mục PCCC của kho = biên bản nghiệm thu PCCC của CĐT; mẫu 01, 02, 08 và checklist bỏ yêu cầu văn bản chấp thuận của Công an.
+- **xd-sct-vn 1.6.0:** PCCC trong KTCTNT; Điều 74 NĐ 217/2026 bị Điều 39 NĐ 347 bãi bỏ; anti-error 15.
+- **check_facts.py:** rule `pccc-nghiem-thu-nd347` (chỉ quét 3 plugin trên).
+
 ## 22/9/2026 — kccn-sct-vn 1.43.0 + vbhc-vn 2.27.0: rà soát Báo cáo NQ 34-NQ/TU tháng 9/2026
 
 - **kccn-sct-vn 1.43.0:** ref 40 (mới) — 06 báo cáo đầu vào kỳ tháng 9/2026; số chốt bảng GPMB (03 KCN 626,24 ha; tổng GPMB 597,74 ha; mặt bằng sạch 361,47 ha = 72,29%; Trấn Yên, Cam Đường theo báo cáo chủ đầu tư); 8 điểm vênh giữa báo cáo các Ban và cách viết đã chốt (Y Can/Đông An trước 30/9; Âu Lâu, Minh Quân đã duyệt QHPK; KCN Thống Nhất đã có QHPK 1/2000; Châu Quế TTr 196/TTr-UBND).

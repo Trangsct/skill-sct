@@ -13,15 +13,17 @@ Chi tiết chuyên sâu PCCC ngành Công Thương: dùng kèm skill `pccc-sct-v
 
 ## II. PHÂN ĐỊNH "AI LÀM GÌ" VỀ PCCC KHO VLNCN
 
-**Nguyên tắc "điều kiện kép":** một số hạng mục chỉ thuộc diện thẩm định/nghiệm thu PCCC khi đồng thời thuộc diện theo pháp luật PCCC và thuộc dự án/công trình theo pháp luật xây dựng — với kho cố định chứa VLNCN thì luôn thuộc diện (không ngưỡng). Với kho tạm phục vụ thi công: lập luận phải nhất quán — nếu xác định không thỏa điều kiện kép thì KHÔNG viện dẫn điểm a khoản 5 Điều 18 Luật 55/2024 trong biên bản (lỗi đã chỉ ra tại phản biện Ngòi Nhù 1A); nếu viện dẫn thì phải có đủ văn bản nghiệm thu PCCC của Công an.
+**Nguyên tắc "điều kiện kép":** một số hạng mục chỉ thuộc diện thẩm định/nghiệm thu PCCC khi đồng thời thuộc diện theo pháp luật PCCC và thuộc dự án/công trình theo pháp luật xây dựng — với kho cố định chứa VLNCN thì luôn thuộc diện (không ngưỡng). Với kho tạm phục vụ thi công: lập luận phải nhất quán — nếu xác định không thỏa điều kiện kép thì KHÔNG viện dẫn điểm a khoản 5 Điều 18 Luật 55/2024 trong biên bản (lỗi đã chỉ ra tại phản biện Ngòi Nhù 1A); nếu viện dẫn thì phải có biên bản nghiệm thu PCCC do CĐT tổ chức (từ 15/9/2026 không còn văn bản nghiệm thu của Công an).
 
 | Việc | Cơ quan chuyên môn về xây dựng (SCT đối với kho VLNCN) | Cơ quan Công an |
 |---|---|---|
 | Thẩm định thiết kế PCCC | 5 nội dung điểm a–đ Điều 6 NĐ 105/2025: (1) khoảng cách PCCC; (2) đường, bãi đỗ, khoảng trống phục vụ chữa cháy - CNCH; (3) giải pháp thoát nạn; (4) bậc chịu lửa, ngăn cháy, chống cháy lan; (5) giải pháp chống khói | Các nội dung còn lại (hệ thống báo cháy, chữa cháy, phương tiện...) theo thẩm quyền |
-| Kiểm tra nghiệm thu PCCC | Kiểm tra 5 nội dung trên trong khuôn khổ KTCTNT (khối 2 — ref 04) | Kiểm tra kết quả nghiệm thu → **văn bản chấp thuận kết quả nghiệm thu về PCCC** (ví dụ thực tế: 66/NT-PCCC, 67/NT-PCCC ngày 01/7/2025) |
-| Kiểm tra định kỳ vận hành | Kiểm tra chuyên ngành an toàn VLNCN (lồng ghép) | Kiểm tra an toàn PCCC định kỳ (biên bản PC03) |
+| Nghiệm thu PCCC | **Không còn kiểm tra** từ 15/9/2026 (NĐ 347/2026 bãi bỏ k5 Đ6 NĐ 105); trong KTCTNT chỉ đối chiếu hồ sơ PCCC của CĐT | **Không còn kiểm tra** (NĐ 347 bãi bỏ Đ10 NĐ 105, Mẫu PC15-PC17); nhận thông báo thời gian đưa vào hoạt động (CV 6501/CAT-PCCC). Lịch sử: văn bản 66/NT-PCCC, 67/NT-PCCC ngày 01/7/2025 vẫn có giá trị |
+| Kiểm tra định kỳ vận hành | Kiểm tra điểm g, h k1 Đ13 NĐ 105 (kho = PL II STT 26 nhóm 1: 01 năm/lần) + kiểm tra chuyên ngành an toàn VLNCN (lồng ghép); trình tự k3 Đ14 mới, biên bản PC03 | Kiểm tra an toàn PCCC định kỳ (biên bản PC03); kiểm tra chung với SCT thì Công an chủ trì (k8 Đ14 mới) |
 
-⚠ **Biên bản kiểm tra định kỳ (PC03) ≠ văn bản chấp thuận kết quả nghiệm thu PCCC.** Hồ sơ chỉ có PC03 là THIẾU đầu mục nghiệm thu (lỗi số 1 tại phản biện Ngòi Nhù 1A).
+**Chủ đầu tư (từ 15/9/2026):** tự tổ chức nghiệm thu PCCC, chịu trách nhiệm; khai báo CSDL PCCC và truyền tin báo cháy trước khi đưa kho vào hoạt động; thông báo Công an tỉnh (Phòng CS PCCC và CNCH) thời gian đưa vào hoạt động. Đưa vào sử dụng khi chưa tự nghiệm thu: phạt 30–50 triệu đồng (k3 Đ18 NĐ 106 sửa bởi NĐ 347).
+
+⚠ **Biên bản kiểm tra định kỳ (PC03) ≠ biên bản nghiệm thu PCCC.** Hồ sơ chỉ có PC03 là THIẾU đầu mục nghiệm thu (lỗi số 1 tại phản biện Ngòi Nhù 1A). Ngược lại, **không đòi văn bản chấp thuận của Công an** với kho nghiệm thu từ 15/9/2026 — đòi là đặt thêm điều kiện ngoài quy định.
 
 ## III. AN NINH, TRẬT TỰ
 
@@ -34,7 +36,7 @@ Chi tiết chuyên sâu PCCC ngành Công Thương: dùng kèm skill `pccc-sct-v
 | Cơ quan | Vai trò với kho VLNCN |
 |---|---|
 | **Sở Công Thương** | Cơ quan chuyên môn về xây dựng + PCCC (5 nội dung) đối với công trình kho VLNCN; thẩm định hồ sơ GP sử dụng VLNCN trình UBND tỉnh/ký theo ủy quyền; hướng dẫn, kiểm tra chuyên ngành; tham mưu PANM; báo cáo Bộ Công Thương |
-| **Công an tỉnh** | Thẩm định + nghiệm thu PCCC (phần thẩm quyền CA); GCN ANTT; quản lý vận chuyển VLNCN (giấy phép vận chuyển); phòng chống tội phạm về VLN |
+| **Công an tỉnh** | Thẩm định thiết kế PCCC (điểm e, g); kiểm tra định kỳ PCCC; nhận thông báo đưa kho vào hoạt động; GCN ANTT; quản lý vận chuyển VLNCN (giấy phép vận chuyển); phòng chống tội phạm về VLN |
 | **Sở Xây dựng** | Không trực tiếp quản lý kho VLNCN (kho VLNCN thuộc CQCM xây dựng là SCT); liên quan khi: đơn vị sự nghiệp trực thuộc làm tư vấn kiểm định (Trung tâm TVGS&QLDA), cấp chứng chỉ hành nghề, quy định chung về quản lý xây dựng của tỉnh |
 | **Sở Nông nghiệp và Môi trường** | ĐTM/GPMT dự án; đất đai |
 | **UBND cấp xã** | Nắm địa bàn, phối hợp ANTT, xác nhận hiện trạng dân cư lân cận, tham gia giám sát vùng cấm quanh kho |

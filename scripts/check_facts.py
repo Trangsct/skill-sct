@@ -43,6 +43,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "pccc-nghiem-thu-nd347",
+        # Chốt 24/9/2026 (NĐ 347/2026/NĐ-CP ngày 08/9/2026, hiệu lực 15/9/2026 + CV 6501/CAT-PCCC ngày 23/9/2026):
+        # bãi bỏ k5 Đ6, Đ10 NĐ 105/2025 và Mẫu PC15-PC17 → CĐT tự nghiệm thu PCCC; không đòi văn bản chấp thuận của Công an.
+        "pattern": r"^(?!.*(?:347|66\.18|bãi bỏ|(?:không|còn) (?:yêu cầu|đòi|còn)|KHÔNG (?:đòi|yêu cầu)|hoặc văn bản chấp thuận|nghiệm thu PCCC/|trước 15/9/2026|lịch sử|đã cấp)).*(?:Mẫu (?:số )?PC1[567]\b|văn bản chấp thuận (?:kết quả )?(?:kiểm tra )?nghiệm thu (?:về )?(?:PCCC|phòng cháy))",
+        "why": "Từ 15/9/2026 NĐ 347/2026/NĐ-CP bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105/2025 và Mẫu PC15, PC16, PC17: chủ đầu tư tự nghiệm thu PCCC (điểm đ k1 Đ12 mới), hồ sơ là biên bản nghiệm thu PCCC của chủ đầu tư; không yêu cầu văn bản chấp thuận kết quả nghiệm thu PCCC của Công an (CV 6501/CAT-PCCC ngày 23/9/2026) — pccc-sct-vn ref 16.",
+        "since": "2026-09-15",
+        "level": "FAIL",
+        "only": ["pccc-sct-vn", "kho-vlncn-sct-vn", "xd-sct-vn"],
+    },
+    {
         "id": "kcn-3-khu-626-24-ha",
         # Chốt 22/9/2026 (BC 294/BC-BQLCKCN 18/9/2026): 03 KCN Phía Nam 400 + Minh Quân 107,89 + Âu Lâu 118,35 = 626,24 ha.
         # 627,89 chỉ còn trong bảng lịch sử tháng 7/2026 (ref 17, dòng dẫn BC 225).

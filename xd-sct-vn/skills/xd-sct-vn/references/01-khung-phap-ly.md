@@ -39,6 +39,7 @@ Mọi số/ngày dưới đây đã trích trực tiếp từ văn bản gốc t
 - **Tên:** quy định chi tiết một số điều của Luật Xây dựng về **quản lý hoạt động xây dựng**.
 - **Hiệu lực:** 01/7/2026. Thay NĐ 175/2024/NĐ-CP.
 - **Điều then chốt:** Đ5 (phân loại dự án ĐTXD); Đ6 (giao chủ đầu tư, điều kiện); Đ16-25 (thiết kế: quy định chung, nhiệm vụ, quy cách, TK sơ bộ/cơ sở/FEED/kỹ thuật/bản vẽ thi công, chỉ dẫn kỹ thuật, quản lý công tác thiết kế); Đ27-40 (lập, thẩm định BCNCKT/BCKTKT; **Đ31 thẩm định**, **Đ32 thẩm quyền thẩm định của CQCM**, Đ35-38 hồ sơ - trình tự - thời gian - nội dung kết quả thẩm định; Đ39 phê duyệt dự án); Đ41-43 (thẩm định, phê duyệt, điều chỉnh thiết kế triển khai sau khi dự án được duyệt); Đ44-48 (hình thức quản lý dự án, BQLDA); **Đ49-62 (giấy phép xây dựng: Đ49 nội dung GPXD; Đ50-52 điều kiện cấp mới/sửa chữa/có thời hạn; Đ53 thẩm quyền; Đ54 trình tự; Đ55 giấy tờ đất đai; Đ56-62 hồ sơ các loại)**.
+- ⚠ **Điều 74 NĐ 217/2026** (sửa k1 Đ6 NĐ 105/2025 về thẩm định PCCC trong BCNCKT) **đã bị bãi bỏ bởi Điều 39 NĐ 347/2026/NĐ-CP ngày 08/9/2026** (hiệu lực 15/9/2026); nội dung được đưa thẳng vào khoản 1 Điều 6 NĐ 105 (khoản 2 Điều 12 NĐ 347). Dẫn NĐ 105 sửa bởi NĐ 347, không dẫn Điều 74 NĐ 217.
 
 ## B. PHÂN QUYỀN, PHÂN CẤP — mô hình chính quyền 02 cấp
 

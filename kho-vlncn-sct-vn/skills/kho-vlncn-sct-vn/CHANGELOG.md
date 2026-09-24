@@ -1,5 +1,10 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.11.0] - 24/9/2026 — nghiệm thu PCCC kho theo NĐ 347/2026 (bỏ văn bản chấp thuận của Công an)
+- Căn cứ: NĐ 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) bãi bỏ k5 Đ6, Đ10 NĐ 105/2025 và Mẫu PC15-PC17; CV 6501/CAT-PCCC ngày 23/9/2026 của Công an tỉnh.
+- Đầu mục PCCC của kho đổi thành **biên bản nghiệm thu PCCC do CĐT tổ chức** (hợp với điểm đ k1 Đ39 Luật 42/2024 sđ Luật 118/2025 "văn bản nghiệm thu… hoặc văn bản chấp thuận…"); văn bản chấp thuận đã cấp trước 15/9/2026 vẫn dùng; thêm khai báo CSDL PCCC và thông báo Công an tỉnh thời gian đưa kho vào hoạt động.
+- Sửa SKILL.md (bảng 4 trụ, GĐ4, anti-error 3), ref 03, 04, 06, 08, 09, 10, 11; mẫu 01 (mục b chỉ còn đối chiếu hồ sơ PCCC), mẫu 02 (căn cứ + yêu cầu CĐT), mẫu 08.
+
 ## [1.10.4] - 09/9/2026 — bổ sung vụ Phú Hà (kho hiện hữu mỏ đá Bản Cầm) + khung TT 32/2026
 - Thêm `vi-du-thuc-te/phu-ha-kho-hien-huu-ban-cam-2026/SCT-CN_YK_De_cuong_kiem_dinh_Kho_VLNCN_Phu_Ha_Ban_Cam_9.2026.docx` — CV tham gia ý kiến Đề cương kiểm định, phúc đáp VB 0709/2026/CV-PH ngày 07/9/2026 của Công ty cổ phần Phú Hà (nối tiếp CV 5400/SCT-CN ngày 04/9/2026).
 - **Mẫu này thay cho mẫu 04 vụ Mông Sơn** khi làm kho hiện hữu từ 01/7/2026: căn cứ chuyển sang Điều 4 Thông tư số 32/2026/TT-BXD ngày 22/6/2026 (hướng dẫn khoản 6 Điều 8 NĐ 207/2026; bãi bỏ các Điều 2-9 và 19 TT 10/2021/TT-BXD). Khoản 5 Điều 4 là căn cứ để SCT cho ý kiến về đề cương và là căn cứ yêu cầu tổ chức kiểm định phải độc lập với chủ đầu tư, chủ sở hữu và các nhà thầu.

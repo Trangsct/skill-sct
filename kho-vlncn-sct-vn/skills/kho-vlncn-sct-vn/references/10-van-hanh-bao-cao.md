@@ -50,7 +50,7 @@ Khi công trình chính hoàn thành: doanh nghiệp **dỡ bỏ kho, thu hồi/
 | Doanh nghiệp | tên, GP sử dụng VLNCN (số, ngày, hạn) |
 | Sức chứa | thuốc nổ/kíp/dây theo thiết kế và GP |
 | Pháp lý công trình | TB chấp thuận nghiệm thu (số, ngày) / văn bản xác nhận kiểm định |
-| PCCC - ANTT | văn bản nghiệm thu PCCC; GCN ANTT (số, ngày) |
+| PCCC - ANTT | biên bản nghiệm thu PCCC của CĐT (hoặc văn bản chấp thuận đã cấp trước 15/9/2026); GCN ANTT (số, ngày) |
 | Chống sét | ngày đo điện trở gần nhất |
 | Kiểm tra | lần kiểm tra gần nhất, tồn tại, hạn khắc phục |
 | Mốc kết thúc | hạn dự án/GP — nhắc dỡ bỏ kho tạm |

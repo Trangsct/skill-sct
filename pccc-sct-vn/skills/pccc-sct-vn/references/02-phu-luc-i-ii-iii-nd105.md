@@ -100,9 +100,11 @@ Mọi cửa hàng xăng dầu đều thuộc PL II Nhóm 1, không phân biệt 
 | Phân nhóm | Tần suất kiểm tra của CQCM về xây dựng | Tần suất kiểm tra của Công an |
 |---|---|---|
 | Nhóm 1 | 01 năm/lần (điểm g, h K1 Đ13) | 01 năm/lần (điểm a, c, d, đ K1 Đ13) |
-| Nhóm 2 | 02 năm/lần | Kiểm tra đột xuất |
+| Nhóm 2 | 02 năm/lần | 02 năm/lần (từ 15/9/2026, điểm a K2 Đ13 sửa bởi NĐ 347/2026); trước đó chỉ kiểm tra đột xuất |
 
 ## III. PHỤ LỤC III - DANH MỤC CÔNG TRÌNH THUỘC DIỆN THẨM ĐỊNH THIẾT KẾ PCCC
+
+> **Từ 15/9/2026 Phụ lục III được thay thế bởi Phụ lục III kèm NĐ 347/2026/NĐ-CP** (khoản 1 Điều 31). Các mục ngành Công Thương dưới đây đã đối chiếu với bản mới; ghi chú mới: tổng DT sàn tính theo nhà lớn nhất của dự án; hạng mục dùng chung hệ thống báo cháy/chữa cháy với công trình thuộc diện phải thẩm định điểm a, b khoản 2 Điều 9. Nguyên văn: ref 16 mục B.5.
 
 Công trình thuộc PL III phải được THẨM ĐỊNH thiết kế PCCC (không phải thẩm duyệt như NĐ 136 cũ). Cơ quan thẩm định: CQCM về xây dựng (5 nội dung điểm a-đ) + Công an (2 nội dung điểm e, g).
 
@@ -123,7 +125,7 @@ Mục 9 điểm c: Nhà máy sản xuất VLNCN, tiền chất thuốc nổ côn
 Mục 9 điểm d:
 - Công trình SX công nghiệp khác có nhà phục vụ SX thuộc hạng nguy hiểm cháy nổ A, B có khối tích ≥ 7.000 m³ hoặc tổng DT sàn ≥ 1.000 m²
 - Hạng C: khối tích ≥ 15.000 m³ hoặc tổng DT sàn ≥ 2.000 m²
-- Hạng D, E: theo quy mô tương ứng
+- Hạng D, E: khối tích ≥ 30.000 m³ hoặc tổng DT sàn ≥ 10.000 m² (Phụ lục III kèm NĐ 347/2026)
 
 **Mục 10 - Nhà kho chứa hàng hóa:**
 Hàng hóa hạng A, B, C có khối tích ≥ 15.000 m³ hoặc tổng DT sàn ≥ 2.000 m².

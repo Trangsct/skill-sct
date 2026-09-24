@@ -41,9 +41,9 @@
 
 Cửa hàng xăng dầu, kho LPG thường là công trình cấp III hoặc cấp IV theo phân cấp công trình. Cần xác định cụ thể theo Thông tư 06/2021/TT-BXD.
 
-### 2.2. Kiểm tra nghiệm thu PCCC
+### 2.2. Nghiệm thu PCCC
 
-Theo quy trình 06 bước (xem reference 04).
+Từ 15/9/2026 không còn thủ tục kiểm tra nghiệm thu PCCC (NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105): chủ đầu tư tự nghiệm thu, chịu trách nhiệm; Sở vẫn KTCTNT theo pháp luật xây dựng nếu công trình thuộc diện, không đòi văn bản chấp thuận của Công an. Xem reference 04, 16.
 
 ### 2.3. Kiểm tra định kỳ PCCC
 
@@ -82,7 +82,7 @@ Quy chuẩn kỹ thuật quốc gia mới của Bộ Công an, áp dụng từ 0
 
 ## IV. Thực tiễn áp dụng tại Sở Công Thương Lào Cai
 
-### 4.1. Trường hợp CH 66 Petrolimex Bắc Hà
+### 4.1. Trường hợp CH 66 Petrolimex Bắc Hà (lịch sử — trước 15/9/2026)
 
 Theo CV 656/SCT-CN ngày 06/02/2026 (Kế hoạch kiểm tra) và CV 787/SCT-CN ngày 12/02/2026 (Từ chối nghiệm thu).
 
@@ -92,12 +92,12 @@ Theo CV 656/SCT-CN ngày 06/02/2026 (Kế hoạch kiểm tra) và CV 787/SCT-CN 
 - Chủ đầu tư nộp hồ sơ đề nghị kiểm tra nghiệm thu PCCC tại Sở Công Thương.
 - Sở Công Thương ban hành Kế hoạch kiểm tra (CV 656).
 - Tổ chức kiểm tra thực địa.
-- Phát hiện chủ đầu tư CHƯA có Văn bản chấp thuận kết quả nghiệm thu PCCC của Phòng PC07 Công an tỉnh (đối với 02 nội dung điểm e, g).
+- Phát hiện chủ đầu tư CHƯA có Văn bản chấp thuận kết quả nghiệm thu PCCC của Phòng PC07 Công an tỉnh (đối với 02 nội dung điểm e, g) — yêu cầu theo cơ chế lịch sử, nay không còn.
 - Sở Công Thương ban hành CV 787 từ chối nghiệm thu, yêu cầu chủ đầu tư hoàn thiện hồ sơ.
 
-**Bài học rút ra:**
-1. Sở Công Thương chỉ chấp thuận nghiệm thu sau khi đã có chấp thuận của Công an cho 02 nội dung e, g.
-2. Hồ sơ đề nghị kiểm tra nghiệm thu phải đầy đủ ngay từ đầu để tránh kéo dài thời gian.
+**Bài học rút ra (đã điều chỉnh theo NĐ 347/2026):**
+1. Lý do từ chối ở vụ này (lịch sử: thiếu văn bản của Phòng PC07) **không còn dùng được từ 15/9/2026** — không yêu cầu văn bản chấp thuận của Công an; CĐT tự nghiệm thu PCCC.
+2. Hồ sơ KTCTNT phải đầy đủ ngay từ đầu để tránh kéo dài thời gian.
 3. Cần hướng dẫn chủ đầu tư về quy trình hai nhánh (Sở CT thẩm định 5 nội dung + Công an thẩm định 2 nội dung) ngay từ giai đoạn thẩm định thiết kế.
 
 ### 4.2. Khối lượng cửa hàng xăng dầu trên địa bàn tỉnh

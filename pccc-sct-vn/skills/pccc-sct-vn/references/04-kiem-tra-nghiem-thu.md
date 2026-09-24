@@ -1,154 +1,49 @@
-# 04. Kiểm tra công tác nghiệm thu PCCC
+# 04. Nghiệm thu về PCCC — từ 15/9/2026 chủ đầu tư tự nghiệm thu
 
-## I. Cơ sở pháp lý
+> **Đổi cơ chế:** NĐ 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) **bãi bỏ khoản 5 Điều 6 và Điều 10 NĐ 105/2025**,
+> bãi bỏ Mẫu PC15, PC16, PC17. Từ 01/7/2026 các thủ tục này đã tạm ngừng theo NQ 66.18/2026/NQ-CP.
+> Không còn thủ tục **kiểm tra nghiệm thu PCCC** của Sở Công Thương lẫn của Công an. Chi tiết điều khoản: `16-nd347-2026-sua-doi-nd105-nghiem-thu-kiem-tra.md`.
 
-**Điều 18 Luật PCCC và CNCH 2024:** Nghiệm thu PCCC, kiểm tra công tác nghiệm thu PCCC.
+## I. Cơ sở pháp lý hiện hành
 
-**Khoản 5 Điều 6 Nghị định 105/2025/NĐ-CP:** Việc kiểm tra nghiệm thu PCCC của CQCM về xây dựng được thực hiện CÙNG quá trình kiểm tra nghiệm thu công trình xây dựng theo pháp luật về xây dựng.
+- **Điểm đ khoản 1 Điều 12 NĐ 105 (sửa bởi khoản 1 Điều 16 NĐ 347):** chủ đầu tư **tổ chức nghiệm thu về PCCC** đối với dự án, công trình và **chịu trách nhiệm trước pháp luật về kết quả nghiệm thu**; **khai báo trên hệ thống CSDL về PCCC, CNCH và truyền tin báo cháy trước khi đưa công trình vào hoạt động**.
+- **Điểm c khoản 1 Điều 4 NĐ 105 (sửa bởi khoản 1 Điều 11 NĐ 347):** hồ sơ PCCC của cơ sở gồm văn bản thẩm định/thẩm duyệt thiết kế PCCC và **biên bản nghiệm thu hoàn thành hạng mục công trình, công trình có liên quan đến PCCC để đưa vào sử dụng theo pháp luật về xây dựng**.
+- **Khoản 3 Điều 18 NĐ 106/2025 (sửa bởi Điều 32 NĐ 347):** đưa công trình đã được thẩm duyệt/thẩm định thiết kế PCCC vào khai thác, sử dụng khi **chưa hoàn thành việc tổ chức nghiệm thu PCCC** → phạt 30–50 triệu đồng.
+- **CV 6501/CAT-PCCC ngày 23/9/2026** của Công an tỉnh: đề nghị các Sở hướng dẫn chủ đầu tư tự nghiệm thu, **không yêu cầu văn bản chấp thuận của Công an**, thông báo thời gian đưa vào hoạt động về Công an tỉnh (Phòng Cảnh sát PCCC và CNCH).
 
-**Khoản 2 Điều 11 NĐ 105:** Trách nhiệm phối hợp giữa CQCM về xây dựng và cơ quan Công an trong kiểm tra nghiệm thu PCCC.
+## II. Sở Công Thương làm gì từ 15/9/2026
 
-**Điều 10 NĐ 105:** Kiểm tra nghiệm thu PCCC của cơ quan Công an (đối với 02 nội dung điểm e, g).
+1. **Không tiếp nhận, không giải quyết** hồ sơ "kiểm tra nghiệm thu PCCC". Hồ sơ loại này tiếp nhận trước 15/9/2026 mà chưa giải quyết → **dừng giải quyết, hoàn trả nếu DN yêu cầu** (khoản 2 Điều 40 NĐ 347).
+2. **KTCTNT theo pháp luật xây dựng** (NĐ 207/2026, Điều 25–27) vẫn làm với công trình thuộc diện — quy trình tại plugin `xd-sct-vn` ref 04. Trong hồ sơ KTCTNT:
+   - **không yêu cầu** văn bản chấp thuận kết quả nghiệm thu PCCC của Công an (Mẫu PC17 đã bãi bỏ);
+   - biên bản nghiệm thu PCCC do chủ đầu tư lập là một phần hồ sơ nghiệm thu hoàn thành; Sở **không ban hành kết luận riêng về nghiệm thu PCCC** và không thay chủ đầu tư chịu trách nhiệm về kết quả nghiệm thu PCCC;
+   - thông báo kết quả KTCTNT nhắc chủ đầu tư các việc ở mục III (khai báo CSDL, truyền tin báo cháy, thông báo Công an tỉnh trước khi đưa vào hoạt động).
+3. **Hướng dẫn, tuyên truyền** cho chủ đầu tư ngành Công Thương theo mục III (thực hiện CV 6501 mục 1); dùng tài liệu hướng dẫn tự nghiệm thu PCCC của Công an tỉnh (mã QR kèm CV 6501).
+4. **Rà văn bản, biểu mẫu, checklist của Sở** còn đòi văn bản chấp thuận nghiệm thu PCCC → sửa.
 
-## II. Nguyên tắc cốt lõi
+## III. Hướng dẫn chủ đầu tư (nội dung đưa vào công văn của Sở)
 
-Theo khoản 5 Điều 6 và khoản 2 Điều 11 NĐ 105:
+1. Tự tổ chức nghiệm thu về PCCC cùng nhà thầu thi công, tư vấn giám sát; lập biên bản; chịu trách nhiệm trước pháp luật về kết quả.
+2. Chỉ đưa dự án, công trình, hạng mục vào hoạt động khi đáp ứng đủ yêu cầu PCCC theo thiết kế đã được thẩm định/thẩm duyệt.
+3. Trước khi đưa vào hoạt động: khai báo thông tin cơ sở trên phần mềm khai báo của Hệ thống CSDL về PCCC và CNCH (phiếu thông tin cơ sở Mẫu PC01 mới); kết nối truyền tin báo cháy theo quy định.
+4. Thông báo thời gian đưa dự án, công trình vào hoạt động về Công an tỉnh (qua Phòng Cảnh sát PCCC và CNCH Công an tỉnh Lào Cai).
+5. Lưu hồ sơ PCCC của cơ sở theo Điều 4 NĐ 105 (sửa đổi) — biên bản nghiệm thu PCCC thay cho văn bản chấp thuận của Công an; văn bản chấp thuận đã được cấp trước 15/9/2026 vẫn giữ giá trị (khoản 3 Điều 40 NĐ 347).
 
-1. CQCM về xây dựng **chủ trì** kiểm tra nghiệm thu công trình xây dựng (bao gồm PCCC) đối với công trình thuộc phạm vi thẩm định của mình.
+## IV. Khi nào không phải nghiệm thu PCCC
 
-2. Cơ quan Công an **cử cán bộ tham gia** đoàn kiểm tra do CQCM về xây dựng chủ trì, lập biên bản theo Mẫu PC16 (TT 38/2025/TT-BCA).
+1. Công trình không thuộc Phụ lục III NĐ 105 (Phụ lục III thay thế bởi NĐ 347) và không thuộc diện thẩm duyệt trước đây.
+2. Công trình tạm theo pháp luật xây dựng.
+3. Công trình quốc phòng phục vụ quân sự.
 
-3. Chủ đầu tư có thể nộp đồng thời:
-   - Hồ sơ đề nghị kiểm tra nghiệm thu công trình xây dựng (cho CQCM về xây dựng).
-   - Hồ sơ đề nghị kiểm tra nghiệm thu PCCC (cho cơ quan Công an).
+## V. Lưu ý
 
-4. Kết quả:
-   - CQCM về xây dựng thông báo kết quả kiểm tra theo pháp luật về xây dựng.
-   - Công an thông báo kết quả theo điểm b khoản 3 Điều 10 NĐ 105.
+1. **Trách nhiệm pháp lý:** kết quả KTCTNT của Sở không thay thế, không làm giảm trách nhiệm của chủ đầu tư về chất lượng công trình và về kết quả tự nghiệm thu PCCC.
+2. **Kho VLNCN:** nghiệm thu PCCC do chủ đầu tư tự tổ chức; GCN đủ điều kiện về ANTT vẫn bắt buộc (không bị cắt giảm) — chi tiết plugin `kho-vlncn-sct-vn` ref 06, ref 11.
+3. **Văn bản cũ trong ví dụ thực tế** (CV 656/SCT-CN, CV 787/SCT-CN, TB 1732/TB-SCT, TB 1739/TB-SCT) là thực tiễn lịch sử trước 15/9/2026: có thể dùng khung trình bày Kế hoạch, Biên bản, Thông báo KTCTNT, nhưng **bỏ mọi câu yêu cầu văn bản chấp thuận của Phòng Cảnh sát PCCC**.
 
-## III. Quy trình kiểm tra nghiệm thu 06 bước thực tiễn của Sở Công Thương Lào Cai
+## VI. Lịch sử — cơ chế trước 15/9/2026 (chỉ để đọc hồ sơ cũ)
 
-Dựa trên thực tiễn áp dụng (CV 656/SCT-CN ngày 06/02/2026 với CH 66 Petrolimex Bắc Hà; CV 787/SCT-CN ngày 12/02/2026; TB 1732/TB-SCT ngày 02/4/2026 với Kho VLNCN Nậm Cang; TB 1739/TB-SCT ngày 02/4/2026 với NM tinh dầu Quế Bảo Yên):
-
-### Bước 1: Tiếp nhận hồ sơ đề nghị
-
-Chủ đầu tư nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất). Hồ sơ gồm:
-- Văn bản đề nghị kiểm tra nghiệm thu hoàn thành.
-- Báo cáo nghiệm thu của chủ đầu tư kèm các biên bản nghiệm thu.
-- Bản vẽ hoàn công.
-- **Văn bản chấp thuận kết quả nghiệm thu PCCC của Phòng Cảnh sát PCCC Công an tỉnh (Mẫu PC17)** - đối với 02 nội dung Công an thẩm định.
-- Giấy chứng nhận đủ điều kiện an ninh trật tự (đối với kho VLNCN, xăng dầu).
-- Giấy chứng nhận đủ điều kiện kinh doanh khí (đối với cửa hàng khí gas) hoặc kinh doanh xăng dầu (đối với cửa hàng xăng dầu).
-
-### Bước 2: Ban hành Kế hoạch kiểm tra
-
-Trưởng phòng QLCN tham mưu Phó Giám đốc Sở ký Kế hoạch kiểm tra. Mẫu Kế hoạch theo CV 656/SCT-CN gồm các nội dung:
-- Mục đích, yêu cầu kiểm tra.
-- Đối tượng kiểm tra: tên dự án, chủ đầu tư.
-- Nội dung kiểm tra: bám 05 nội dung điểm a-đ khoản 2 Điều 6 NĐ 105.
-- Phương pháp kiểm tra: kiểm tra hồ sơ; quan sát thực địa.
-- Thời gian, địa điểm.
-- Thành phần đoàn kiểm tra.
-- Trách nhiệm các bên.
-
-### Bước 3: Tổ chức kiểm tra thực địa
-
-Đoàn kiểm tra Sở Công Thương:
-- Trưởng đoàn: Phó Giám đốc Sở phụ trách công nghiệp (Nguyễn Đình Chiến) hoặc năng lượng (Hoàng Văn Thuân).
-- Phó trưởng đoàn: Trưởng phòng QLCN (Nguyễn Hữu Long).
-- Thành viên: cán bộ Phòng QLCN, Phòng QLNL (nếu liên quan).
-
-Có sự tham gia của:
-- Đại diện chủ đầu tư.
-- Đại diện đơn vị tư vấn thiết kế, đơn vị giám sát thi công.
-- Đại diện nhà thầu thi công.
-- Đại diện UBND cấp xã sở tại.
-- Đại diện Phòng Cảnh sát PCCC Công an tỉnh (nếu mời phối hợp).
-
-Nội dung kiểm tra thực địa:
-1. Kiểm tra khoảng cách PCCC thực tế giữa các hạng mục, đến ranh giới khu đất, đến công trình tiếp giáp.
-2. Kiểm tra đường giao thông, bãi đỗ, lối vào cho xe chữa cháy.
-3. Kiểm tra lối thoát nạn, đường thoát nạn, lối ra khẩn cấp.
-4. Kiểm tra bậc chịu lửa, vật liệu xây dựng tường, vách, mái, sàn; giải pháp ngăn cháy.
-5. Kiểm tra giải pháp chống khói (cửa thông gió, hệ thống thông gió cưỡng bức).
-
-### Bước 4: Lập Biên bản kiểm tra
-
-Biên bản theo mẫu, có các phần:
-- Thành phần đoàn kiểm tra và các đơn vị liên quan.
-- Nội dung kiểm tra (5 nội dung).
-- Kết quả kiểm tra từng nội dung.
-- Kết luận chung: đạt/chưa đạt yêu cầu.
-- Kiến nghị bổ sung, hoàn thiện (nếu có).
-- Chữ ký các bên.
-
-### Bước 5: Ban hành kết quả
-
-**Trường hợp đạt yêu cầu:** Sở Công Thương ban hành Thông báo chấp thuận kết quả nghiệm thu hoàn thành (mẫu TB 1732/TB-SCT ngày 02/4/2026). Nội dung:
-- Căn cứ pháp lý (Luật 55/2024, NĐ 105/2025).
-- Tên dự án, chủ đầu tư, địa điểm.
-- Quy mô, công năng.
-- Kết quả kiểm tra.
-- Chấp thuận đưa vào sử dụng.
-- Yêu cầu chủ đầu tư duy trì các điều kiện an toàn PCCC trong quá trình vận hành.
-- **Lưu ý**: việc kiểm tra của Đoàn kiểm tra trên cơ sở quan sát ngoại quan thực địa và hồ sơ do Chủ đầu tư cung cấp; không thay thế, không làm giảm trách nhiệm của Chủ đầu tư về công tác quản lý chất lượng công trình.
-
-**Trường hợp chưa đạt yêu cầu:** Sở Công Thương ban hành Công văn yêu cầu chủ đầu tư bổ sung, hoàn thiện (mẫu CV 787/SCT-CN ngày 12/02/2026). Nội dung:
-- Lý do từ chối chấp thuận.
-- Các nội dung cần bổ sung, hoàn thiện.
-- Thời hạn báo cáo kết quả khắc phục.
-
-### Bước 6: Lưu hồ sơ và báo cáo
-
-- Hồ sơ kiểm tra nghiệm thu lưu tại Phòng QLCN và Văn phòng Sở (Lưu: VT, CN).
-- Báo cáo kết quả vào Báo cáo công tác PCCC định kỳ của Sở (mẫu BC 3241/BC-SCT ngày 22/12/2025).
-
-## IV. Quy trình kiểm tra nghiệm thu của Công an (Điều 10 NĐ 105)
-
-Để đối chiếu, dưới đây là quy trình của cơ quan Công an đối với 02 nội dung điểm e, g:
-
-### 4.1. Hồ sơ đề nghị (khoản 1 Điều 10)
-
-- Văn bản đề nghị kiểm tra nghiệm thu PCCC theo Mẫu PC15.
-- Báo cáo công tác nghiệm thu PCCC của chủ đầu tư kèm các biên bản nghiệm thu hoàn thành.
-- Bản vẽ hoàn công hệ thống PCCC, hệ thống điện phục vụ PCCC.
-
-### 4.2. Thời hạn xử lý
-
-- **05 ngày làm việc** kể từ ngày nhận đủ hồ sơ hợp lệ: cơ quan Công an tổ chức kiểm tra nghiệm thu và lập biên bản theo Mẫu PC16.
-- **05 ngày làm việc** kể từ ngày thông qua biên bản: cơ quan Công an ban hành văn bản chấp thuận kết quả nghiệm thu PCCC theo Mẫu PC17 (nếu kết quả đạt yêu cầu).
-
-### 4.3. Nội dung kiểm tra của Công an (khoản 4 Điều 10)
-
-- Kiểm tra việc nghiệm thu của chủ đầu tư theo các nội dung quy định tại khoản 2 Điều 8 NĐ 105 đối với phương tiện, hệ thống PCCC, hệ thống điện phục vụ PCCC.
-- Tổ chức kiểm tra, thử nghiệm thực tế các hệ thống PCCC.
-
-## V. Mối quan hệ giữa hai cơ quan trong kiểm tra nghiệm thu
-
-| Tiêu chí | CQCM về xây dựng (Sở CT) | Công an (PC07) |
-|---|---|---|
-| Phạm vi nội dung | 05 nội dung (a, b, c, d, đ) | 02 nội dung (e, g) |
-| Khi nào kiểm tra | Cùng kiểm tra nghiệm thu công trình xây dựng | Sau khi chủ đầu tư đề nghị, độc lập |
-| Mẫu biên bản | Theo pháp luật xây dựng | Mẫu PC16 (TT 38/2025/TT-BCA) |
-| Mẫu kết quả | Thông báo chấp thuận của Sở CT | Văn bản chấp thuận Mẫu PC17 |
-| Thời hạn | Lồng ghép kiểm tra nghiệm thu xây dựng | 05 + 05 = 10 ngày làm việc |
-| Thứ tự | Sau khi có chấp thuận của Công an cho 2 nội dung e, g | Trước |
-
-**Nguyên tắc cốt lõi:** Sở Công Thương CHỈ chấp thuận kết quả nghiệm thu sau khi chủ đầu tư đã có Văn bản chấp thuận nghiệm thu PCCC của Phòng Cảnh sát PCCC (đối với 02 nội dung e, g). Điều này được thực tiễn áp dụng tại Sở qua CV 787/SCT-CN khi từ chối nghiệm thu CH 66 Petrolimex vì thiếu văn bản chấp thuận của Công an.
-
-## VI. Khi nào không cần kiểm tra nghiệm thu PCCC
-
-1. Công trình không thuộc PL III NĐ 105 (không qua thẩm định PCCC).
-2. Công trình thuộc PL III nhưng đã được thẩm duyệt theo NĐ 136 (trước 01/7/2025) và đã được nghiệm thu xong trước thời điểm Luật 55/2024 có hiệu lực.
-3. Công trình tạm theo pháp luật xây dựng.
-4. Công trình quốc phòng phục vụ quân sự.
-
-## VII. Lưu ý đặc biệt
-
-1. **Trách nhiệm pháp lý:** Sở Công Thương không thay thế trách nhiệm của chủ đầu tư về chất lượng công trình. Việc chấp thuận của Sở chỉ là xác nhận đã kiểm tra trong phạm vi 5 nội dung điểm a-đ; không miễn trừ trách nhiệm chủ đầu tư về các nội dung khác hoặc về toàn bộ chất lượng công trình.
-
-2. **Lưu trữ hồ sơ:** Sở Công Thương lưu hồ sơ tối thiểu 10 năm (theo pháp luật về văn thư, lưu trữ).
-
-3. **Phối hợp:** Khi kiểm tra liên ngành (Sở CT + Công an + Sở XD + UBND xã), Sở Công Thương là cơ quan chủ trì đối với công trình thuộc lĩnh vực Công Thương. Trưởng đoàn là Phó Giám đốc Sở Công Thương.
-
-4. **Trường hợp đặc biệt:** Đối với kho VLNCN (như Nậm Cang 1A), việc kiểm tra nghiệm thu PCCC còn lồng ghép với kiểm tra điều kiện an ninh trật tự theo NĐ 96/2016/NĐ-CP - cần phối hợp Phòng Cảnh sát Quản lý hành chính về Trật tự xã hội (PC06) Công an tỉnh.
+- Khoản 5 Điều 6 NĐ 105 (nay đã bãi bỏ): CQCM về xây dựng kiểm tra nghiệm thu PCCC 5 nội dung điểm a-đ cùng với KTCTNT.
+- Điều 10 NĐ 105 (nay đã bãi bỏ): Công an kiểm tra nghiệm thu 02 nội dung điểm e, g — hồ sơ Mẫu PC15, biên bản PC16, văn bản chấp thuận PC17; thời hạn 05 + 05 ngày làm việc.
+- Thực tiễn lịch sử của Sở: quy trình 6 bước (tiếp nhận hồ sơ kèm văn bản chấp thuận của Công an → Kế hoạch kiểm tra theo mẫu CV 656/SCT-CN ngày 06/02/2026 → kiểm tra thực địa do PGĐ Sở chủ trì → Biên bản → Thông báo chấp thuận theo mẫu TB 1732/TB-SCT ngày 02/4/2026 hoặc CV yêu cầu hoàn thiện theo mẫu CV 787/SCT-CN ngày 12/02/2026 → lưu hồ sơ, báo cáo). Nguyên tắc lịch sử "Sở chỉ chấp thuận sau khi có văn bản chấp thuận của Công an" (vụ CH 66 Petrolimex Bắc Hà) **không còn áp dụng**.
+- Giai đoạn 01/7/2026 – 14/9/2026: thủ tục đã tạm ngừng theo Mục C Phụ lục I.1 NQ 66.18/2026/NQ-CP; hồ sơ nộp Công an trước 0h ngày 20/6/2026 được tiếp tục xử lý, trả kết quả trước 0h ngày 01/7/2026 (hướng dẫn của Cục Cảnh sát PCCC và CNCH).

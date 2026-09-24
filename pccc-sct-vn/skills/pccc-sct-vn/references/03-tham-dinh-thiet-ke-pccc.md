@@ -4,17 +4,17 @@
 
 **Điều 17 Luật PCCC và CNCH 2024:** Thẩm định thiết kế PCCC, kiểm tra công tác nghiệm thu PCCC.
 
-**Điều 6 Nghị định 105/2025/NĐ-CP:** Thẩm định thiết kế PCCC, kiểm tra nghiệm thu PCCC của CQCM về xây dựng (nguyên văn).
+**Điều 6 Nghị định 105/2025/NĐ-CP** (tên điều sửa bởi NĐ 347/2026: "Thẩm định thiết kế về phòng cháy và chữa cháy của cơ quan chuyên môn về xây dựng"; khoản 1 sửa, khoản 5 về kiểm tra nghiệm thu **bãi bỏ** từ 15/9/2026 — xem ref 16).
 
 **Điều 16 khoản 1 Luật 55/2024/QH15:** Liệt kê 07 nội dung của thiết kế PCCC, trong đó 05 nội dung do CQCM về xây dựng thẩm định (điểm a-đ) và 02 nội dung do Công an thẩm định (điểm e, g).
 
 ## II. Điều kiện áp dụng (kép)
 
-Theo khoản 1 Điều 6 NĐ 105/2025/NĐ-CP, công trình phải đồng thời thỏa mãn 02 điều kiện thì mới phải thẩm định thiết kế PCCC tại CQCM về xây dựng:
+Theo khoản 1 Điều 6 NĐ 105/2025/NĐ-CP (sửa bởi khoản 2 Điều 12 NĐ 347/2026/NĐ-CP), công trình phải đồng thời thỏa mãn 02 điều kiện thì mới phải thẩm định thiết kế PCCC tại CQCM về xây dựng:
 
-**Điều kiện 1:** Công trình thuộc đối tượng phải thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng hoặc thiết kế xây dựng triển khai sau thiết kế cơ sở tại CQCM về xây dựng (theo pháp luật về xây dựng).
+**Điều kiện 1:** Công trình thuộc đối tượng phải thẩm định **Báo cáo nghiên cứu khả thi** tại CQCM về xây dựng (theo pháp luật về xây dựng). Thẩm định PCCC và thời gian trả kết quả được tích hợp, lồng ghép với thẩm định BCNCKT. *(Trước 01/7/2026 còn gồm thiết kế xây dựng triển khai sau thiết kế cơ sở; Điều 74 NĐ 217/2026 thu hẹp về BCNCKT từ 01/7/2026, nay NĐ 347/2026 đưa thẳng vào khoản 1 Điều 6 và bãi bỏ Điều 74 NĐ 217.)*
 
-**Điều kiện 2:** Công trình thuộc Phụ lục III NĐ 105.
+**Điều kiện 2:** Công trình thuộc Phụ lục III NĐ 105 (**Phụ lục III thay thế bởi NĐ 347/2026 từ 15/9/2026**; tổng DT sàn tính theo nhà lớn nhất của dự án — ref 16 mục B.5).
 
 Nếu thiếu 01 trong 02 điều kiện thì KHÔNG phải thẩm định tại Sở Công Thương:
 - Công trình thuộc PL III nhưng thuộc loại Báo cáo kinh tế - kỹ thuật do người quyết định đầu tư tự thẩm định (vd: dự án vốn ngoài ngân sách quy mô nhỏ): không qua CQCM về xây dựng.
@@ -92,6 +92,8 @@ Việc thẩm định PCCC lồng ghép trong thẩm định Báo cáo NCKT, BC 
 - Phương án chống khói.
 
 ### 5.3. Nội dung thể hiện trong thiết kế xây dựng triển khai sau thiết kế cơ sở (khoản 3 điểm b Điều 6)
+
+> Từ 15/9/2026 khoản 1 Điều 6 chỉ còn giao CQCM thẩm định PCCC trong BCNCKT. Mục này dùng để kiểm tra hồ sơ thiết kế triển khai do chủ đầu tư lập; muốn dẫn khoản 3 Điều 6 thì đối chiếu bản gốc NĐ 105 và NĐ 347 trước.
 
 - Danh mục tiêu chuẩn, quy chuẩn áp dụng.
 - Loại, cấp công trình sử dụng trong tính toán.

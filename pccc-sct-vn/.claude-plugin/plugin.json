@@ -1,7 +1,7 @@
 {
   "name": "pccc-sct-vn",
-  "version": "1.1.5",
-  "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương tỉnh Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025, kiểm tra nghiệm thu, kiểm tra định kỳ Phụ lục II, phân loại Phụ lục I-II-III, phân ranh giới với Sở Xây dựng - Công an - BQL KKT - xã, lộ trình Điều 43 và giải pháp kỹ thuật công trình hiện hữu theo QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT, CV 7432/UBND-XD. Cập nhật 7/2026, 15 reference kèm văn bản gốc.",
+  "version": "1.2.0",
+  "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025 (trong BCNCKT); nghiệm thu PCCC do chủ đầu tư tự tổ chức từ 15/9/2026 (NĐ 347/2026, NQ 66.18/2026, CV 6501/CAT-PCCC); kiểm tra định kỳ Phụ lục II (trình tự mới, PC03); phân loại Phụ lục I-II-III; ranh giới với SXD - Công an - BQL KKT - xã; lộ trình Điều 43, QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT. Cập nhật 9/2026, 16 reference.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },

@@ -1,12 +1,17 @@
 # 05. Kiểm tra định kỳ PCCC
 
+> **Cập nhật 15/9/2026 — NĐ 347/2026/NĐ-CP** sửa điểm a, b khoản 2 Điều 13 và khoản 3 Điều 14, bổ sung khoản 8 Điều 14 NĐ 105:
+> Công an kiểm tra thêm cơ sở nhóm 2 Phụ lục II (02 năm/lần); trình tự kiểm tra định kỳ nay áp dụng chung cho Công an,
+> CQCM về xây dựng, UBND cấp xã (kế hoạch trước 15/12, báo trước 03 ngày làm việc, biên bản Mẫu PC03); kiểm tra phối hợp
+> với Công an thì Công an chủ trì. Nguyên văn: `16-nd347-2026-sua-doi-nd105-nghiem-thu-kiem-tra.md` mục B.4.
+
 ## I. Cơ sở pháp lý
 
 **Điều 11 khoản 2 Luật PCCC và CNCH 2024:** Nội dung kiểm tra PCCC.
 
 **Điều 13 Nghị định 105/2025/NĐ-CP:** Nội dung, thẩm quyền kiểm tra về PCCC (nguyên văn).
 
-**Điều 14 Nghị định 105/2025/NĐ-CP:** Trình tự, thủ tục kiểm tra về PCCC.
+**Điều 14 Nghị định 105/2025/NĐ-CP:** Trình tự, thủ tục kiểm tra về PCCC (khoản 3 sửa, khoản 8 bổ sung bởi Điều 18, 19 NĐ 347/2026/NĐ-CP).
 
 ## II. Nội dung kiểm tra theo khoản 1 Điều 13 NĐ 105
 
@@ -39,9 +44,10 @@ Khoản 1 Điều 13 NĐ 105 liệt kê 16 nội dung kiểm tra (điểm a đ�
 **Kiểm tra định kỳ:**
 - **01 năm/lần** đối với cơ sở thuộc **Nhóm 1 Phụ lục II**.
 - **01 năm/lần** đối với công trình xây dựng trong quá trình thi công thuộc diện phải thẩm định thiết kế PCCC.
-- **01 năm/lần** đối với phương tiện thủy nội địa vận tải hành khách, tàu thủy lưu trú du lịch có sức chở ≥ 50 người (Mục 16 PL III).
+- **01 năm/lần** đối với phương tiện giao thông thuộc Phụ lục III.
+- **02 năm/lần** đối với cơ sở thuộc **Nhóm 2 Phụ lục II** — MỚI từ 15/9/2026 (điểm a khoản 2 Điều 13 sửa bởi khoản 1 Điều 17 NĐ 347).
 
-Lưu ý: NĐ 105 KHÔNG quy định Công an kiểm tra cơ sở Nhóm 2 PL II định kỳ - chỉ kiểm tra đột xuất khi có dấu hiệu vi phạm.
+Kiểm tra đột xuất: khi có dấu hiệu vi phạm, đơn khiếu nại, tố cáo hoặc theo yêu cầu bảo đảm an ninh, trật tự, đối với cơ sở Phụ lục II và phương tiện Phụ lục III.
 
 **Nội dung kiểm tra của Công an:**
 - Đối với cơ sở PL II: điểm a, c, d và đ khoản 1 Điều 13 (trách nhiệm người đứng đầu; trang bị + duy trì hệ thống PCCC; thiết bị truyền tin báo cháy).
@@ -50,12 +56,12 @@ Lưu ý: NĐ 105 KHÔNG quy định Công an kiểm tra cơ sở Nhóm 2 PL II �
 
 ### 3.2. CQCM về xây dựng (Sở Công Thương) - điểm b khoản 2
 
-UBND tỉnh phân công CQCM về xây dựng tổ chức kiểm tra:
+UBND tỉnh phân công, phân cấp CQCM về xây dựng tổ chức kiểm tra (điểm b khoản 2 Điều 13, sửa bởi khoản 2 Điều 17 NĐ 347 — tần suất, nội dung giữ như cũ):
 
 **Tần suất kiểm tra:**
 - **01 năm/lần** đối với cơ sở thuộc **Nhóm 1 Phụ lục II**.
 - **02 năm/lần** đối với cơ sở thuộc **Nhóm 2 Phụ lục II**.
-- Kiểm tra đột xuất khi có dấu hiệu vi phạm hoặc đơn khiếu nại, tố cáo.
+- Kiểm tra đột xuất khi có dấu hiệu vi phạm pháp luật, đơn khiếu nại, tố cáo về PCCC và CNCH, hoặc khi có yêu cầu phối hợp phục vụ bảo đảm an ninh, trật tự của cơ quan có thẩm quyền.
 
 **Nội dung kiểm tra (điểm g và h khoản 1 Điều 13):**
 - Duy trì khoảng cách PCCC, đường, bãi đỗ, khoảng trống phục vụ chữa cháy, CNCH.
@@ -82,37 +88,36 @@ Tự tổ chức kiểm tra:
 - Thường xuyên: nội dung điểm d, e, h, l khoản 1 Điều 13.
 - Định kỳ: nội dung điểm c, d, đ, e, g, h, l, m khoản 1 Điều 13.
 
-## IV. Trình tự, thủ tục kiểm tra (Điều 14 NĐ 105)
+## IV. Trình tự, thủ tục kiểm tra (Điều 14 NĐ 105, sửa đổi bởi NĐ 347/2026)
 
-### 4.1. Đối với cơ quan Công an (khoản 3 Điều 14)
+### 4.1. Trình tự kiểm tra định kỳ chung — khoản 3 Điều 14 (sửa bởi Điều 18 NĐ 347)
 
-a) Lập kế hoạch kiểm tra hàng năm hoặc khi có yêu cầu.
-b) Thông báo cho cơ sở ít nhất 03 ngày làm việc trước khi kiểm tra.
-c) Lập đoàn kiểm tra (tối thiểu 02 người).
-d) Tiến hành kiểm tra, lập biên bản theo mẫu.
-đ) Đối với kiểm tra đột xuất, có thể không cần thông báo trước.
+Áp dụng cho **cơ quan Công an, CQCM về xây dựng (Sở Công Thương), UBND cấp xã** theo phân cấp, đối với cơ sở Phụ lục I, công trình đang thi công thuộc diện thẩm duyệt/thẩm định thiết kế PCCC, phương tiện Phụ lục III thuộc phạm vi quản lý:
 
-### 4.2. Đối với UBND cấp xã (khoản 4 Điều 14)
+a) **Trước ngày 15 tháng 12 hằng năm** xây dựng kế hoạch kiểm tra định kỳ của năm kế tiếp; điều chỉnh khi cần thiết.
+b) Thành lập Đoàn kiểm tra hoặc phân công cán bộ; gửi văn bản thông báo thời gian, nội dung, thành phần kiểm tra cho đối tượng **trước 03 ngày làm việc**.
+c) Trưởng đoàn hoặc cán bộ được phân công giới thiệu thành phần, nội dung, phương pháp, phân công thành viên kiểm tra theo thẩm quyền.
+d) Kết thúc kiểm tra lập **biên bản theo Mẫu số PC03**; đối tượng không ký thì ghi rõ lý do vào biên bản.
 
-Tương tự cơ quan Công an, với phân cấp riêng cho cơ sở Phụ lục I.
+Kiểm tra đột xuất: theo khoản 5 Điều 14.
 
-### 4.3. Đối với CQCM về xây dựng (Sở Công Thương)
+### 4.2. Kiểm tra phối hợp Công an — Sở Công Thương — khoản 8 Điều 14 (bổ sung bởi Điều 19 NĐ 347)
 
-NĐ 105 **chưa có quy định riêng về trình tự kiểm tra của CQCM về xây dựng** tại Điều 14. Đây là VƯỚNG MẮC đang tồn tại đã được Sở Công Thương phản ánh tại CV 314/SCT-CN ngày 20/01/2026.
+Khi Công an và CQCM về xây dựng **phối hợp** kiểm tra định kỳ, đột xuất cơ sở Phụ lục II → **cơ quan Công an chủ trì**, phối hợp với CQCM về xây dựng:
+- định kỳ: theo điểm b, c, d khoản 3 Điều 14 (thông báo trước 03 ngày làm việc, giới thiệu đoàn, biên bản PC03);
+- đột xuất: theo khoản 5 Điều 14.
 
-**Giải pháp tạm thời:** Sở Công Thương áp dụng linh hoạt theo 02 hình thức:
+Sở Công Thương ghi ý kiến về điểm g, h khoản 1 Điều 13 trong biên bản chung.
 
-**Hình thức 1 - Phối hợp với Phòng Cảnh sát PCCC Công an tỉnh** (đã thực hiện với 02 kho VLNCN, 01 NMTĐ theo BC 3241/BC-SCT):
-- Phòng Cảnh sát PCCC chủ trì lập kế hoạch.
-- Sở Công Thương cử cán bộ tham gia đoàn.
-- Phòng Cảnh sát PCCC lập biên bản chung.
-- Sở Công Thương có ý kiến riêng về 02 nội dung điểm g, h trong biên bản.
+### 4.3. Sở Công Thương tự tổ chức kiểm tra
 
-**Hình thức 2 - Lồng ghép trong các đoàn kiểm tra của Sở** (đã thực hiện với 10 doanh nghiệp khoáng sản và VLNCN):
-- Phòng QLCN, Phòng Thanh tra Sở lập kế hoạch kiểm tra điều kiện kinh doanh + PCCC.
-- PGĐ phụ trách công nghiệp chủ trì đoàn kiểm tra.
-- Lập biên bản kiểm tra theo mẫu của Sở.
-- Báo cáo riêng phần PCCC trong báo cáo tổng kết kiểm tra.
+Từ 15/9/2026 vướng mắc "NĐ 105 chưa có trình tự riêng cho CQCM về xây dựng" (CV 314/SCT-CN ngày 20/01/2026) **đã được giải quyết** bằng khoản 3 Điều 14 mới. Sở áp dụng đúng 4 bước ở mục 4.1: kế hoạch năm trình Giám đốc Sở ký trước 15/12; thông báo đối tượng trước 03 ngày làm việc; biên bản Mẫu PC03 (không dùng mẫu biên bản riêng của Sở cho nội dung PCCC).
+
+Hai hình thức đã làm trong thực tiễn trước 15/9/2026 vẫn dùng được, điều chỉnh như sau:
+- **Phối hợp với Phòng Cảnh sát PCCC và CNCH Công an tỉnh** (đã làm với 02 kho VLNCN, 01 NMTĐ theo BC 3241/BC-SCT): nay là trường hợp khoản 8 Điều 14 — Công an chủ trì, Sở cử cán bộ, biên bản chung PC03.
+- **Lồng ghép trong đoàn kiểm tra của Sở** (đã làm với 10 DN khoáng sản và VLNCN): phần PCCC phải theo trình tự khoản 3 Điều 14 và lập biên bản PC03 riêng cho phần PCCC.
+
+Phần việc còn chờ UBND tỉnh: văn bản **phân công, phân cấp** Sở Công Thương kiểm tra định kỳ (điểm b khoản 2 Điều 13) — xem SKILL.md mục IX.2.
 
 ## V. Áp dụng kiểm tra định kỳ đối với từng loại cơ sở ngành Công Thương
 
@@ -170,18 +175,16 @@ Tùy hạng nguy hiểm cháy nổ. Hầu hết là hạng D, E - thuộc PL II 
 
 Đề xuất quy trình lập Kế hoạch kiểm tra định kỳ hàng năm:
 
+*Mốc pháp lý: kế hoạch phải xong **trước 15/12** năm trước (điểm a khoản 3 Điều 14 sửa bởi NĐ 347).*
+
 **Tháng 11 năm trước:**
 - Phòng QLCN tổng hợp danh sách cơ sở thuộc PL II.
 - Phân loại Nhóm 1 (01 năm/lần) và Nhóm 2 (02 năm/lần).
 - Đối chiếu với danh sách kiểm tra của Công an tỉnh.
 
-**Tháng 12 năm trước:**
-- Dự thảo Kế hoạch kiểm tra cho năm sau.
-- Gửi Công an tỉnh để phối hợp tránh trùng lặp.
-
-**Tháng 01 năm thực hiện:**
-- Trình Giám đốc Sở ký ban hành Kế hoạch.
-- Gửi UBND tỉnh báo cáo.
+**Đầu tháng 12 năm trước (trước 15/12):**
+- Dự thảo Kế hoạch kiểm tra cho năm sau; gửi Công an tỉnh để phối hợp tránh trùng lặp (cơ sở PL II kiểm tra chung thì Công an chủ trì).
+- Trình Giám đốc Sở ký ban hành Kế hoạch **trước 15/12**; gửi UBND tỉnh báo cáo.
 
 **Tháng 02 trở đi:**
 - Triển khai theo lịch.
@@ -193,7 +196,7 @@ Tùy hạng nguy hiểm cháy nổ. Hầu hết là hạng D, E - thuộc PL II 
 
 2. **Mối quan hệ với bảo hiểm cháy nổ bắt buộc:** Khi kiểm tra cơ sở PL II, Sở Công Thương cũng nên rà soát việc mua bảo hiểm cháy nổ bắt buộc theo Phụ lục VII.
 
-3. **Xử lý vi phạm:** Khi phát hiện vi phạm về điểm g, h, Sở Công Thương lập biên bản và:
+3. **Xử lý vi phạm:** Khi phát hiện tồn tại, vi phạm về điểm g, h, Sở Công Thương ghi cụ thể biện pháp khắc phục, thời hạn hoàn thành vào biên bản PC03, có văn bản kiến nghị, theo dõi kết quả (cách làm Công an tỉnh đề nghị tại CV 6501/CAT-PCCC ngày 23/9/2026) và:
 - Trường hợp vi phạm nhẹ: yêu cầu khắc phục, ấn định thời hạn.
 - Trường hợp vi phạm có dấu hiệu xử phạt: chuyển hồ sơ cho Thanh tra Sở (xử phạt theo thẩm quyền GĐ Sở) hoặc Công an tỉnh (xử phạt PCCC).
 - Trường hợp vi phạm nghiêm trọng: đề xuất GĐ Sở thu hồi Giấy chứng nhận đủ điều kiện kinh doanh.

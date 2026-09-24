@@ -1,6 +1,6 @@
 ---
 name: kho-vlncn-sct-vn
-description: "KHO VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN), Sở Công Thương Lào Cai. Kích hoạt: kho VLNCN, kho tạm, kho cố định, gửi kho, nghiệm thu công trình kho, KTCTNT, kiểm định, phương án nổ mìn (PANM), kho tiền chất thuốc nổ, QCVN 01:2019/BCT. ⭐ PHÂN LUỒNG 4 trường hợp (ref 11) chạy TRƯỚC mọi việc: (A) kho cố định xây mới - có KTCTNT; (B) kho tạm phục vụ thi công - MIỄN GPXD, MIỄN thông báo khởi công, CĐT tự thẩm định thiết kế, MIỄN KTCTNT từ 01/7/2026 (loại trừ k1 Đ25 NĐ 207/2026; chuyển tiếp k3 Đ53 - dừng kiểm tra); (C) kho hiện hữu - kiểm định hiện trạng + quy trình bảo trì (Đ8, Đ34, Đ36 NĐ 207/2026); (D) thuê kho, thuê dịch vụ nổ mìn. Cấp công trình theo TT 34/2026: không có kho cấp III/IV. Nghiệm thu PCCC do CĐT tự tổ chức theo NQ 66.18/2026. Nghiệp vụ khác: hướng dẫn doanh nghiệp, kế hoạch - biên bản - thông báo KTCTNT, gửi kho, PANM, giấy phép sử dụng VLNCN, kiểm tra, báo cáo. Kèm mẫu văn bản, ví dụ thực tế, văn bản gốc."
+description: "KHO VẬT LIỆU NỔ CÔNG NGHIỆP (VLNCN), Sở Công Thương Lào Cai. Kích hoạt: kho VLNCN, kho tạm, kho cố định, gửi kho, nghiệm thu công trình kho, KTCTNT, kiểm định, phương án nổ mìn (PANM), kho tiền chất thuốc nổ, QCVN 01:2019/BCT. ⭐ PHÂN LUỒNG 4 trường hợp (ref 11) chạy TRƯỚC mọi việc: (A) kho cố định xây mới - có KTCTNT; (B) kho tạm phục vụ thi công - MIỄN GPXD, MIỄN thông báo khởi công, CĐT tự thẩm định thiết kế, MIỄN KTCTNT từ 01/7/2026 (loại trừ k1 Đ25 NĐ 207/2026; chuyển tiếp k3 Đ53 - dừng kiểm tra); (C) kho hiện hữu - kiểm định hiện trạng + quy trình bảo trì (Đ8, Đ34, Đ36 NĐ 207/2026); (D) thuê kho, thuê dịch vụ nổ mìn. Cấp công trình theo TT 34/2026: không có kho cấp III/IV. Nghiệm thu PCCC do CĐT tự tổ chức (NĐ 347/2026, NQ 66.18/2026), không đòi chấp thuận của Công an. Nghiệp vụ khác: hướng dẫn doanh nghiệp, kế hoạch - biên bản - thông báo KTCTNT, gửi kho, PANM, giấy phép sử dụng VLNCN, kiểm tra, báo cáo. Kèm mẫu văn bản, ví dụ thực tế, văn bản gốc."
 ---
 
 # kho-vlncn-sct-vn — Quản lý nhà nước về kho vật liệu nổ công nghiệp (Sở Công Thương Lào Cai)
@@ -79,7 +79,7 @@ Kho VLNCN phải đồng thời thỏa mãn 4 trụ, thiếu 1 trụ là chưa �
 | Trụ | Nội dung | Cơ quan | Kết quả đầu ra |
 |---|---|---|---|
 | 1. Xây dựng | Thiết kế, thi công, nghiệm thu công trình đúng pháp luật xây dựng | **Sở Công Thương** (cơ quan chuyên môn về xây dựng đối với kho VLNCN — khoản 5 Điều 19 TT 23/2024) | Văn bản chấp thuận kết quả nghiệm thu (TB-SCT) |
-| 2. PCCC | Thẩm định thiết kế PCCC, nghiệm thu PCCC | Công an tỉnh (phần thẩm quyền CA) + SCT (5 nội dung a–đ Điều 6 NĐ 105/2025) | Văn bản chấp thuận kết quả nghiệm thu PCCC |
+| 2. PCCC | Thẩm định thiết kế PCCC (SCT: 5 nội dung a–đ Điều 6 NĐ 105/2025, trong BCNCKT; Công an: điểm e, g); **nghiệm thu PCCC do CĐT tự tổ chức** (NĐ 347/2026, từ 15/9/2026) | CĐT; Công an tỉnh nhận thông báo đưa vào hoạt động | Biên bản nghiệm thu PCCC của CĐT; khai báo CSDL PCCC; thông báo Công an tỉnh (Phòng CS PCCC và CNCH) |
 | 3. ANTT | Đủ điều kiện an ninh trật tự | Công an tỉnh | GCN đủ điều kiện về ANTT |
 | 4. Kỹ thuật an toàn VLNCN | Đáp ứng QCVN 01:2019/BCT (vị trí, khoảng cách, sức chứa, kết cấu, chống sét, tiếp địa...) | Sở Công Thương thẩm định khi cấp GP sử dụng VLNCN | Giấy phép sử dụng VLNCN (UBND tỉnh/ủy quyền) |
 
@@ -130,7 +130,8 @@ GĐ2 THIẾT KẾ      → tư vấn đủ năng lực; thiết kế theo QCVN 0
                     thiết kế PCCC; xác định loại - cấp công trình (TT 34/2026)
 GĐ3 THI CÔNG      → thông báo khởi công; nhà thầu + TVGS đủ điều kiện; hồ sơ QLCL lập ĐỒNG THỜI
                     với thi công (không lập bù); chống sét - tiếp địa, đủ phiếu đo TỪNG hệ
-GĐ4 HOÀN THÀNH    → nghiệm thu nội bộ; nghiệm thu PCCC do CĐT tự tổ chức (NQ 66.18/2026);
+GĐ4 HOÀN THÀNH    → nghiệm thu nội bộ; nghiệm thu PCCC do CĐT tự tổ chức (NĐ 347/2026 sửa NĐ 105);
+                    khai báo CSDL PCCC; báo Công an tỉnh ngày đưa vào hoạt động (CV 6501/CAT-PCCC);
                     hồ sơ hoàn công; Báo cáo hoàn thành theo Phụ lục VI NĐ 207/2026; GCN ANTT
 GĐ5 SCT KIỂM TRA  → KH kiểm tra → kiểm tra hiện trường + hồ sơ → Biên bản → TB chấp thuận
                     (12 ngày làm việc với công trình cấp II — điểm b k4 Đ27 NĐ 207/2026)
@@ -143,7 +144,7 @@ GĐ6 CẤP PHÉP      → hồ sơ GP sử dụng VLNCN (Đ39 Luật 42/2024 + L
 
 1. **Nhất quán tư cách công trình:** chọn MỘT hướng — "công trình xây dựng tạm" (Điều 72 Luật 135/2025 từ 01/7/2026, trước đó Điều 131 Luật XD 2014: miễn GPXD, CĐT tự thẩm định, phê duyệt thiết kế) HOẶC "công trình thuộc diện thẩm định tại CQCM về xây dựng" — và giữ nhất quán trong toàn bộ hồ sơ, biên bản, thông báo. Không viết "được SCT thẩm định thiết kế" nếu Sở không thẩm định. Tư cách công trình tạm quyết định luôn việc CÓ hay KHÔNG phải KTCTNT (ref 11 mục II).
 2. **Trình tự nghiệm thu:** công trình thuộc diện kiểm tra công tác nghiệm thu CHỈ được đưa vào sử dụng sau khi có văn bản chấp thuận (khoản 2 Điều 29 NĐ 207/2026; khung cũ: Điều 23 NĐ 06/2021). Biên bản nghiệm thu của chủ đầu tư không được ghi "bàn giao đưa vào sử dụng từ ngày nghiệm thu".
-3. **Đủ 2 đầu mục Công an:** văn bản chấp thuận kết quả nghiệm thu PCCC + GCN đủ điều kiện ANTT (biên bản kiểm tra định kỳ PC03 KHÔNG thay thế văn bản nghiệm thu PCCC).
+3. **Đủ 2 đầu mục PCCC - ANTT:** (i) **biên bản nghiệm thu về PCCC do CĐT tự tổ chức** (điểm đ k1 Đ12 NĐ 105 sửa bởi NĐ 347/2026; hợp với điểm đ k1 Đ39 Luật 42/2024 "văn bản nghiệm thu về PCCC hoặc văn bản chấp thuận…"); văn bản chấp thuận của Công an đã cấp trước 15/9/2026 vẫn dùng được; **không đòi DN xin văn bản chấp thuận của Công an** (Mẫu PC17 đã bãi bỏ — đòi là đặt thêm điều kiện, CV 6501/CAT-PCCC); (ii) GCN đủ điều kiện ANTT. Biên bản kiểm tra định kỳ PC03 KHÔNG thay thế biên bản nghiệm thu PCCC.
 4. **Không copy sót nội dung vụ khác:** rà tên chủ đầu tư, ngày biên bản, tên xã tại mọi phụ lục.
 5. **Năng lực cá nhân phải có minh chứng:** chỉ huy trưởng, TVGS phải có chứng chỉ hành nghề + quyết định giao nhiệm vụ (NĐ 175/2024); giấy ủy quyền ký văn bản phải còn hiệu lực, rõ phạm vi.
 6. **Không tự điền số/ngày văn bản chưa ban hành**; số liệu sức chứa, khoảng cách phải khớp thiết kế được duyệt; GATE khi đọc PDF đến.
@@ -174,7 +175,7 @@ references/
   10-van-hanh-bao-cao.md           Lý lịch kho, xuất nhập, bảo vệ, báo cáo định kỳ/đột xuất, kiểm tra
   11-phan-luong-4-truong-hop.md    ⭐ PHÂN LUỒNG 4 trường hợp; cấp công trình TT 34/2026; loại trừ
                                    công trình tạm khỏi KTCTNT (k1 Đ25, k3 Đ53 NĐ 207/2026);
-                                   căn cứ kiểm định theo NĐ 207/2026; NQ 66.18/2026 về PCCC
+                                   căn cứ kiểm định theo NĐ 207/2026; NĐ 347/2026 (+NQ 66.18) về PCCC
 mau-van-ban/                       9 mẫu sẵn dùng (điền chỗ trống là ban hành được)
 vi-du-thuc-te/                     Văn bản Sở đã ban hành 4 vụ việc thật + bản phản biện hồ sơ
   dong-tien-kho-tam-KTCTNT-2026/   Case CHUẨN kho tạm theo khung mới (KH 4826, BB 11/8, TB 5088/TB-SCT)

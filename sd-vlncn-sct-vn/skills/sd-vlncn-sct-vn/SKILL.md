@@ -31,7 +31,7 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Toàn bộ đã xác minh từ
 
 1. **Luật số 42/2024/QH15** ngày 29/6/2024 (hiệu lực 01/01/2025) — Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ. Cốt lõi: **Điều 38** (điều kiện + quy định sử dụng VLNCN; điểm d khoản 2: PANM tại khu dân cư/công trình cần bảo vệ phải được cơ quan cấp GP phê duyệt + đồng ý bằng văn bản của UBND cấp tỉnh); **Điều 39** (hồ sơ, thủ tục cấp/cấp lại/điều chỉnh GP sử dụng; thời hạn GP); Điều 40 (dịch vụ nổ mìn); Điều 42 (trách nhiệm tổ chức); khoản 5 Điều 9 + Điều 10 (các trường hợp thu hồi).
 2. **Luật số 118/2025/QH15** ngày 10/12/2025 (**hiệu lực 01/7/2026**) — Điều 9 sửa Luật 42/2024. Các nội dung tác động trực tiếp đến nghiệp vụ Sở:
-   - **k6** → điểm đ k1 Đ39: "Bản sao văn bản nghiệm thu về PCCC **hoặc văn bản chấp thuận kết quả nghiệm thu về PCCC đối với kho cố định** chứa VLNCN và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật".
+   - **k6** → điểm đ k1 Đ39: "Bản sao văn bản nghiệm thu về PCCC **hoặc văn bản chấp thuận kết quả nghiệm thu về PCCC đối với kho cố định** chứa VLNCN và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật". Từ 15/9/2026 (NĐ 347/2026/NĐ-CP bãi bỏ Điều 10 NĐ 105/2025, Công an không còn chấp thuận kết quả nghiệm thu PCCC): "văn bản nghiệm thu về PCCC" là **biên bản nghiệm thu PCCC do chủ đầu tư tổ chức** (điểm đ k1 Đ12 NĐ 105 mới); KHÔNG yêu cầu DN xin văn bản chấp thuận của Công an; văn bản chấp thuận đã cấp trước 15/9/2026 vẫn dùng (plugin `pccc-sct-vn` ref 16).
    - ⭐ **k7 điểm a** → điểm b k2 Đ40: dịch vụ nổ mìn được **gửi kho bảo quản**; việc gửi kho phải có **thỏa thuận bằng văn bản và thông báo đến UBND cấp tỉnh để theo dõi, quản lý** (nghĩa vụ MỚI — Sở phải mở sổ theo dõi, đưa vào công văn tuyên truyền/đôn đốc).
    - ⭐ **k7 điểm b** → điểm b k4 Đ40: dịch vụ nổ mìn phạm vi 01 tỉnh phải có **văn bản đề nghị của UBND cấp tỉnh** (SCT tham mưu; Cục KTAT&MTCN vẫn là cơ quan cấp phép).
    - **k7 điểm c** → điểm d k4 Đ40 (mới): DN đã có GP kinh doanh VLNCN thì hồ sơ dịch vụ nổ mìn không gồm điểm đ k1 Đ39.
@@ -128,7 +128,7 @@ Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **4** — Số liệu 3 khớp
 - **5** — Khoảng cách an toàn
 - **6** — Điều kiện tiên quyết trước khi cấp GP
-- **7** — GCN ANTT + nghiệm thu PCCC kho
+- **7** — GCN ANTT + nghiệm thu PCCC kho (từ 15/9/2026: biên bản nghiệm thu PCCC của chủ đầu tư, NĐ 347/2026)
 - **8** — Không tự điền số/ngày
 - **9** — Chọn đúng nghị định xử phạt theo thời điểm hành vi (Đ74 NĐ 275/2026)
 - **10** — Render-and-verify

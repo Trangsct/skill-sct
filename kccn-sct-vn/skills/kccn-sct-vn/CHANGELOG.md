@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## [1.43.1] - 24/9/2026 — NĐ 347/2026 (nghiệm thu PCCC)
+- ref 01 dòng PCCC: NĐ 105, 106 sửa bởi NĐ 347/2026; chủ đầu tư tự nghiệm thu PCCC, không còn văn bản chấp thuận của Công an.
+
 ## [1.43.0] - 22/9/2026 — Báo cáo NQ 34-NQ/TU tháng 9/2026: số chốt GPMB và các điểm vênh giữa báo cáo các Ban
 
 - **Nguồn:** rà soát dự thảo Báo cáo tháng 9/2026 thực hiện NQ 34 của Sở cùng Bạn ngày 22/9/2026; 06 báo cáo đầu vào đọc số/ngày từ trường ký số.

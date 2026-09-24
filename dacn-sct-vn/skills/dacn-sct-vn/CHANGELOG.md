@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.6.1] - 24/9/2026 — NĐ 347/2026 (nghiệm thu PCCC)
+- ref 10 thêm ghi chú dưới bảng việc phải làm (bản gốc lập trước 15/9/2026): Công an tỉnh không còn nghiệm thu PCCC, chủ đầu tư tự nghiệm thu; ref 06 nhóm MT-PCCC, checklist điểm nghẽn — theo NĐ 347/2026.
+
 ## [1.6.0] - 16/9/2026 — sổ dự án nhận bản ghi dự án thứ cấp trong CCN đầu tiên (CBCT-081, Nhà máy sản xuất giày da xuất khẩu)
 
 - **`du-lieu/danh-muc-du-an.json`:** thêm **CBCT-081 — Nhà máy sản xuất giày da xuất khẩu**, CCN Khánh Yên Thượng, xã Văn Bàn. Nhà đầu tư ông **HUANG, YU - CHIEH** (Trung Quốc/Đài Loan); tổ chức kinh tế thực hiện dự án **CÔNG TY TNHH CÔNG NGHIỆP VĂN BẢO**, MST **5300854562**. Nhóm CBCT, trạng thái **CT** (đã có chủ trương đầu tư → chỉ tính vào chỉ tiêu vốn đầu tư, **KHÔNG tính vào sản lượng/IIP**). Pháp lý: **QĐ 2428/QĐ-UBND ngày 14/7/2026** (cấp lần đầu) và **QĐ 3319/QĐ-UBND ngày 15/9/2026** (điều chỉnh lần thứ nhất — bổ sung tổ chức kinh tế, bãi bỏ gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428); thẩm định BC 844/BC-STC 11/8 và BC 915/BC-STC 21/8 của Sở Tài chính.

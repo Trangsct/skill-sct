@@ -56,6 +56,8 @@ Tài liệu chia 05 nhóm theo mã chữ cái của bản gốc:
 | 7 | Hồ sơ kiểm tra công tác nghiệm thu và các thủ tục còn lại | Đôn đốc, hướng dẫn chủ đầu tư |
 | 8 | Hồ sơ kiểm tra công tác nghiệm thu; cấp phép đủ điều kiện sản xuất hóa chất | **Ban Quản lý Khu kinh tế tỉnh**; **Sở Công Thương** phối hợp Cục Hóa chất |
 
+> ⚠ **Cập nhật 15/9/2026 (NĐ 347/2026/NĐ-CP):** bảng trên chép theo bản gốc (lập trước ngày đó). Từ 15/9/2026 Công an tỉnh **không còn nghiệm thu / chấp thuận kết quả nghiệm thu PCCC** (bãi bỏ Điều 10 NĐ 105/2025); các dòng 2, 4, 6 đọc là: **chủ đầu tư tự tổ chức nghiệm thu PCCC**, khai báo CSDL PCCC, thông báo Công an tỉnh thời gian đưa vào hoạt động (CV 6501/CAT-PCCC ngày 23/9/2026). Khi đôn đốc, không ghi "chờ Công an nghiệm thu PCCC" là điểm nghẽn. Chi tiết `pccc-sct-vn` ref 16.
+
 > **Sở Công Thương trực tiếp chủ trì 02/08 đầu việc** (TT 1 và TT 8 — cấp phép hóa chất). 06 đầu việc còn lại thuộc cơ quan khác, Sở đôn đốc. Khi soạn công văn đôn đốc phải gửi đúng cơ quan chủ trì, không gửi chung chung.
 
 ---

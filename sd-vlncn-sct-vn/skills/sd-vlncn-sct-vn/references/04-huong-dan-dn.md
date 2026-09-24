@@ -51,7 +51,7 @@ GĐ9  BIẾN ĐỘNG      Đổi phạm vi/quy mô → xin ĐIỀU CHỈNH; hế
 2. Bản sao GP thăm dò/khai thác khoáng sản (mỏ) HOẶC QĐ trúng thầu + hợp đồng nhận thầu/văn bản giao nhiệm vụ (công trình).
 3. Thiết kế khai thác mỏ / thiết kế - bản vẽ thi công (quy mô công nghiệp) hoặc phương án thi công, khai thác (thủ công) — chủ đầu tư phê duyệt.
 4. PANM lãnh đạo DN ký duyệt (+ QĐ phê duyệt PANM của Chủ tịch UBND tỉnh nếu thuộc diện).
-5. Bản sao văn bản nghiệm thu PCCC / văn bản chấp thuận kết quả nghiệm thu PCCC đối với kho cố định.
+5. Bản sao văn bản nghiệm thu PCCC / văn bản chấp thuận kết quả nghiệm thu PCCC đối với kho cố định (từ 15/9/2026: biên bản nghiệm thu PCCC do chủ đầu tư tổ chức — NĐ 347/2026; không đòi văn bản chấp thuận của Công an).
 6. (Nếu không có kho/phương tiện) văn bản thể hiện ý định giao kết hợp đồng thuê kho, phương tiện.
 7. QĐ bổ nhiệm chỉ huy nổ mìn + danh sách thợ mìn, người liên quan + bản sao chứng chỉ chuyên môn, GCN huấn luyện KTAT (+ GP lao động người nước ngoài nếu có).
 

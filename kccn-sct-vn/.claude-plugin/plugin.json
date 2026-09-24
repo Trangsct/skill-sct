@@ -1,6 +1,6 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.43.0",
+  "version": "1.43.1",
   "description": "GATE trạng thái hồ sơ (ref 39): tra bậc thủ tục của cụm TRƯỚC khi soạn văn bản. QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; HĐ thẩm định QH KCN; điều chỉnh CTĐT dự án thứ cấp; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU, KL 75-KL/TW. Khung 9/2026: NĐ 32/2024, 303/2026, LĐT 143/2025, NĐ 96/2026. QHPK KCN: Âu Lâu QĐ 263 (118,35 ha) và Minh Quân QĐ 264 (160 ha) cùng ngày 11/9/2026 đã duyệt; Y Can, Đông An xin ý kiến.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"

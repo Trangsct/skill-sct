@@ -1,6 +1,6 @@
 {
   "name": "sd-vlncn-sct-vn",
-  "version": "2026.9.22.2",
+  "version": "2026.9.24.1",
   "description": "Giay phep su dung VLNCN va Phuong an no min (PANM) - So Cong Thuong tinh Lao Cai: tham dinh cap/dieu chinh/cap lai/thu hoi GP su dung VLNCN (tu 20/8/2026 So cap theo uy quyen QD 2867/QD-UBND, ky hieu GP-SCT; truoc do GP-UBND), tham dinh PANM trinh Chu tich UBND tinh, ban do tham quyen, huong dan DN, kiem tra - xu phat theo ND 275/2026, bao cao. Cap nhat Luat 118/2025, TT 26/2026, VBHN 78. Ref 05 muc G: kinh nghiem kiem tra chuyen de cua Cuc ATMT (CV 1994).",
   "author": {
     "name": "Tran Trong Trang - So Cong Thuong Lao Cai"

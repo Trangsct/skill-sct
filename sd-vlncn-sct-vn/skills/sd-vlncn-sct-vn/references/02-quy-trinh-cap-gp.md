@@ -77,7 +77,7 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 - [ ] Nổ mìn trong khu vực dân cư/công trình cần bảo vệ? → phải có **QĐ phê duyệt PANM của Chủ tịch UBND tỉnh** trước/kèm hồ sơ (ref 03)
 
 **C4. Kho, vận chuyển, PCCC (điểm đ, e)**
-- [ ] Có kho: văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC (kho cố định — Luật 118/2025); kho đạt QCVN 01:2019/BCT (4 trụ — plugin kho-vlncn)
+- [ ] Có kho: văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC (kho cố định — Luật 118/2025) (từ 15/9/2026: biên bản nghiệm thu PCCC do chủ đầu tư tổ chức — NĐ 347/2026; không đòi văn bản chấp thuận của Công an); kho đạt QCVN 01:2019/BCT (4 trụ — plugin kho-vlncn)
 - [ ] Không có kho/phương tiện: hợp đồng thuê **hoặc văn bản thể hiện ý định giao kết hợp đồng** với đơn vị đủ điều kiện (kiểm tra GP của bên cho thuê)
 
 **C5. Nhân sự (điểm g)**

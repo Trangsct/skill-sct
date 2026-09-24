@@ -1,3 +1,11 @@
+## 24/9/2026 (đợt 2) — NĐ 347/2026 lan sang 6 plugin + mẫu công văn triển khai; sửa mức phạt tổ chức
+
+- **pccc-sct-vn 1.3.0:** mẫu 01 — công văn Sở hướng dẫn chủ đầu tư thực hiện NĐ 347/2026 + CV 6501/CAT-PCCC; sửa mức phạt k3 Đ18 NĐ 106 (tổ chức 60–100 triệu, đình chỉ 3–6 tháng); sửa nhận định "UBND tỉnh chưa phân cấp kiểm tra định kỳ" — Điều 17 khoản 1 QĐ 11/2026/QĐ-UBND đã giao.
+- **xp-sct-vn 1.6.0:** k3, k4 Điều 18 NĐ 106 theo NĐ 347; Sở còn 3 việc về PCCC; checklist 01, 05, 06.
+- **sd-vlncn-sct-vn 2026.9.24.1:** hồ sơ PCCC kho cố định trong hồ sơ GP sử dụng = biên bản nghiệm thu của chủ đầu tư.
+- **kho-vlncn-sct-vn 1.11.1, dacn-sct-vn 1.6.1, kccn-sct-vn 1.43.1:** mức phạt tổ chức; bỏ "Công an tỉnh nghiệm thu PCCC".
+- **check_facts.py:** rule `pccc-nghiem-thu-nd347` quét thêm xp, sd-vlncn, dacn, kccn, hc, tkm, attp.
+
 ## 24/9/2026 — pccc-sct-vn 1.2.0 + kho-vlncn-sct-vn 1.11.0 + xd-sct-vn 1.6.0: NĐ 347/2026/NĐ-CP và CV 6501/CAT-PCCC (chủ đầu tư tự nghiệm thu PCCC)
 
 - Nguồn: NĐ 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) sửa NĐ 105/2025, NĐ 106/2025; CV 6501/CAT-PCCC ngày 23/9/2026 của Công an tỉnh Lào Cai phối hợp triển khai NQ 66.18/2026/NQ-CP.

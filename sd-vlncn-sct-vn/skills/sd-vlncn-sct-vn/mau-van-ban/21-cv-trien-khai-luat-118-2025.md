@@ -10,7 +10,7 @@ Dùng khi cần **tuyên truyền, đôn đốc doanh nghiệp** thực hiện c
 1. **Gửi kho bảo quản VLNCN** — phải có thỏa thuận bằng văn bản và **thông báo đến UBND tỉnh (qua Sở Công Thương)** để theo dõi, quản lý (điểm b k2 Đ40, sửa tại điểm a k7 Đ9 Luật 118/2025); kho nhận gửi vẫn phải đạt QCVN 01:2019/BCT và Đ15 NĐ 181/2024. ⭐ Mục quan trọng nhất — nghĩa vụ mới, đa số DN chưa nắm.
 2. **GP dịch vụ nổ mìn tại địa phương (01 tỉnh)** — hồ sơ phải có **văn bản đề nghị của UBND tỉnh** (điểm b k4 Đ40); DN gửi hồ sơ về Sở để thẩm định, tham mưu.
 3. DN **đã có GP kinh doanh VLNCN** → hồ sơ dịch vụ nổ mìn **không gồm** giấy tờ điểm đ k1 Đ39 (điểm d k4 Đ40).
-4. **Tài liệu PCCC** trong hồ sơ GP sử dụng: văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC đối với **kho cố định** (điểm đ k1 Đ39, sửa tại k6 Đ9).
+4. **Tài liệu PCCC** trong hồ sơ GP sử dụng: văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC đối với **kho cố định** (điểm đ k1 Đ39, sửa tại k6 Đ9) (từ 15/9/2026: biên bản nghiệm thu PCCC do chủ đầu tư tổ chức — NĐ 347/2026; không đòi văn bản chấp thuận của Công an).
 5. **Sản xuất, kinh doanh VLNCN**: DNNN hoặc DN do DNNN nắm 100% vốn, được **Bộ trưởng BCT, BQP hoặc BCA** giao nhiệm vụ; hồ sơ phải có bản sao văn bản giao nhiệm vụ (Đ34, 35, 36).
 6. **Hồ sơ GCN đủ điều kiện sản xuất TCTN** nộp qua Cổng DVCQG, Hệ thống TTGQ TTHC của UBND tỉnh, hoặc bưu chính đến **Sở Công Thương — cơ quan tiếp nhận theo QĐ 2272/QĐ-UBND ngày 29/6/2026** (k5 Đ44, sửa tại k8 Đ9 Luật 118/2025).
 7. **Nghĩa vụ thường xuyên**: thông báo UBND tỉnh ≥10 ngày trước khi hoạt động theo GP do BCT, BQP cấp; dịch vụ nổ mìn thông báo UBND tỉnh ≥10 ngày và UBND cấp xã ≥24 giờ; báo cáo định kỳ và **báo cáo đột xuất trong 24 giờ** (Đ17 TT 23/2024).

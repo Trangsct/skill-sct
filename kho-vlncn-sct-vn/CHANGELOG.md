@@ -1,5 +1,8 @@
 # CHANGELOG — plugin kho-vlncn-sct-vn
 
+## [1.11.1] - 24/9/2026 — mức phạt tổ chức k3 Đ18 NĐ 106
+- ref 06: đưa kho vào sử dụng khi chưa tự nghiệm thu PCCC — tổ chức 60–100 triệu (cá nhân 30–50), đình chỉ 03–06 tháng (bản 1.11.0 chỉ ghi mức cá nhân).
+
 ## [1.11.0] - 24/9/2026 — nghiệm thu PCCC kho theo NĐ 347/2026 (bỏ văn bản chấp thuận của Công an)
 - Căn cứ: NĐ 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) bãi bỏ k5 Đ6, Đ10 NĐ 105/2025 và Mẫu PC15-PC17; CV 6501/CAT-PCCC ngày 23/9/2026 của Công an tỉnh.
 - Đầu mục PCCC của kho đổi thành **biên bản nghiệm thu PCCC do CĐT tổ chức** (hợp với điểm đ k1 Đ39 Luật 42/2024 sđ Luật 118/2025 "văn bản nghiệm thu… hoặc văn bản chấp thuận…"); văn bản chấp thuận đã cấp trước 15/9/2026 vẫn dùng; thêm khai báo CSDL PCCC và thông báo Công an tỉnh thời gian đưa kho vào hoạt động.

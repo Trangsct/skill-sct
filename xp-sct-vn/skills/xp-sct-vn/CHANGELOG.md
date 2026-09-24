@@ -1,5 +1,8 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.6.0 — 24/9/2026
+NĐ 347/2026/NĐ-CP (08/9/2026, hiệu lực 15/9/2026) sửa k3, k4 Điều 18 NĐ 106/2025: k3 = đưa vào sử dụng khi **chủ đầu tư chưa hoàn thành tự nghiệm thu PCCC** (không còn "chưa có văn bản chấp thuận nghiệm thu"); k4 = thuộc diện thẩm định mà **chưa có văn bản thẩm định**; mức tiền và đình chỉ (k6) giữ nguyên. Sở không còn "kiểm tra công tác nghiệm thu PCCC" (bãi bỏ k5 Đ6, Đ10 NĐ 105) — ref 04 mục A (4 việc → 3 việc), bảng B2; ref 03, 05, 90; checklist 01, 05, 06; SKILL.md.
+
 ## 1.5.0 — 05/9/2026
 NQ 66.25/2026/NQ-CP (04/9/2026, hiệu lực 15/9/2026): thẩm quyền xử phạt khoáng sản NĐ 36/2020 (21 điều) và k3 Đ6 NĐ 189/2025 chuyển sang ngành Công Thương — ref 06 mục A GATE mới; xem CHANGELOG-v2026.09.05.md.
 

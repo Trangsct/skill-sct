@@ -8,7 +8,7 @@
 
 - **Điểm đ khoản 1 Điều 12 NĐ 105 (sửa bởi khoản 1 Điều 16 NĐ 347):** chủ đầu tư **tổ chức nghiệm thu về PCCC** đối với dự án, công trình và **chịu trách nhiệm trước pháp luật về kết quả nghiệm thu**; **khai báo trên hệ thống CSDL về PCCC, CNCH và truyền tin báo cháy trước khi đưa công trình vào hoạt động**.
 - **Điểm c khoản 1 Điều 4 NĐ 105 (sửa bởi khoản 1 Điều 11 NĐ 347):** hồ sơ PCCC của cơ sở gồm văn bản thẩm định/thẩm duyệt thiết kế PCCC và **biên bản nghiệm thu hoàn thành hạng mục công trình, công trình có liên quan đến PCCC để đưa vào sử dụng theo pháp luật về xây dựng**.
-- **Khoản 3 Điều 18 NĐ 106/2025 (sửa bởi Điều 32 NĐ 347):** đưa công trình đã được thẩm duyệt/thẩm định thiết kế PCCC vào khai thác, sử dụng khi **chưa hoàn thành việc tổ chức nghiệm thu PCCC** → phạt 30–50 triệu đồng.
+- **Khoản 3 Điều 18 NĐ 106/2025 (sửa bởi Điều 32 NĐ 347):** đưa công trình đã được thẩm duyệt/thẩm định thiết kế PCCC vào khai thác, sử dụng khi **chưa hoàn thành việc tổ chức nghiệm thu PCCC** → phạt 30–50 triệu đồng với cá nhân, **60–100 triệu đồng với tổ chức** (k1 Đ4 NĐ 106: tổ chức gấp 02 lần), kèm đình chỉ hoạt động 03–06 tháng (điểm a k6 Đ18 — khoản 6 không bị sửa).
 - **CV 6501/CAT-PCCC ngày 23/9/2026** của Công an tỉnh: đề nghị các Sở hướng dẫn chủ đầu tư tự nghiệm thu, **không yêu cầu văn bản chấp thuận của Công an**, thông báo thời gian đưa vào hoạt động về Công an tỉnh (Phòng Cảnh sát PCCC và CNCH).
 
 ## II. Sở Công Thương làm gì từ 15/9/2026

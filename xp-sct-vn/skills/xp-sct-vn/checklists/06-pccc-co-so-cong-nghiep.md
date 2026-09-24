@@ -3,7 +3,7 @@
 Phạm vi: chỉ 02 nội dung g, h — duy trì các giải pháp đã thẩm định. Các nội dung khác (hồ sơ PCCC, lực lượng, phương tiện, hệ thống báo/chữa cháy, điện) → Công an. Tần suất: Nhóm 1 PL II 01 năm/lần; Nhóm 2 02 năm/lần. Chi tiết: `pccc-sct-vn/05`, `references/04`.
 
 ## A. Hồ sơ đối chiếu (mang theo)
-- Văn bản thẩm định thiết kế (có mục PCCC) của Sở/CQCM; bản vẽ tổng mặt bằng đã thẩm định; văn bản chấp thuận nghiệm thu PCCC (Công an) / kết quả kiểm tra nghiệm thu của Sở; giải pháp kỹ thuật Điều 43 (cơ sở hiện hữu) đã xác nhận.
+- Văn bản thẩm định thiết kế (có mục PCCC) của Sở/CQCM; bản vẽ tổng mặt bằng đã thẩm định; biên bản nghiệm thu PCCC do chủ đầu tư tổ chức (từ 15/9/2026, NĐ 347/2026; văn bản chấp thuận của Công an nếu đã cấp trước ngày đó) / văn bản chấp thuận KTCTNT của Sở (xây dựng); giải pháp kỹ thuật Điều 43 (cơ sở hiện hữu) đã xác nhận.
 
 ## B. Điểm g — khoảng cách, đường, bãi đỗ, khoảng trống
 | Nội dung | Đối chiếu | Xem | Vi phạm | Xử |
@@ -26,7 +26,7 @@ Phạm vi: chỉ 02 nội dung g, h — duy trì các giải pháp đã thẩm �
 | Nội dung | Vi phạm (NĐ 106/2025, mức TC) | Xử |
 |---|---|---|
 | Văn bản thẩm định thiết kế PCCC trước khi thi công | Thi công chưa thẩm định: k2 Đ18 (40–50 tr) | Sở lập BB VPHC → chuyển Chủ tịch UBND tỉnh |
-| Văn bản chấp thuận nghiệm thu PCCC trước khi sử dụng | Đã thẩm định, chưa nghiệm thu đã dùng: k3 Đ18 (60–100 tr, đình chỉ 3–6 tháng); chưa cả hai: k4 Đ18 (80–100 tr, đình chỉ 6–12 tháng) — thời hiệu tính từ ngày công trình chấm dứt hoạt động (k4 Đ5) | như trên |
+| Chủ đầu tư đã tự nghiệm thu PCCC trước khi sử dụng (biên bản; khai báo CSDL PCCC) | Đã thẩm định, chưa hoàn thành tự nghiệm thu đã dùng: k3 Đ18 sửa bởi NĐ 347/2026 (60–100 tr, đình chỉ 3–6 tháng); thuộc diện thẩm định mà chưa có văn bản thẩm định đã dùng: k4 Đ18 (80–100 tr, đình chỉ 6–12 tháng) — thời hiệu tính từ ngày công trình chấm dứt hoạt động (k4 Đ5) | như trên |
 | Cải tạo, chuyển đổi công năng có thẩm định lại | điểm a k1 Đ18 (30–40 tr) | như trên |
 
 ## E. Kết luận trong biên bản (mục 4.5 Mẫu 05)

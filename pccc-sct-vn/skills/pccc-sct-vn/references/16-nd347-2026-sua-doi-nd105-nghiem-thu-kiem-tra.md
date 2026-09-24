@@ -90,10 +90,12 @@ Ghi chú mới của Phụ lục III: (i) **tổng diện tích sàn xác địn
 
 ### B.7. Xử phạt (Điều 18 NĐ 106/2025, sửa bởi Điều 32 NĐ 347)
 
-| Hành vi | Mức phạt |
-|---|---|
-| Đưa công trình, hạng mục, phương tiện đã được thẩm duyệt hoặc thẩm định thiết kế PCCC vào khai thác, sử dụng **khi chủ đầu tư, chủ sở hữu, chủ phương tiện chưa hoàn thành việc tổ chức nghiệm thu về PCCC** (khoản 3) | 30 – 50 triệu đồng |
-| Đưa công trình, hạng mục, phương tiện **thuộc diện phải thẩm định thiết kế PCCC** vào khai thác, sử dụng **khi chưa có văn bản thẩm định** thiết kế PCCC của cơ quan quản lý chuyên ngành (khoản 4) | 40 – 50 triệu đồng |
+Mức trong Chương II NĐ 106 là **mức cá nhân**; tổ chức gấp 02 lần (k1, k2 Đ4 NĐ 106). Khoản 6 Điều 18 (đình chỉ) không bị NĐ 347 sửa, vẫn áp cho k3, k4.
+
+| Hành vi | Mức phạt cá nhân / tổ chức | Bổ sung |
+|---|---|---|
+| Đưa công trình, hạng mục, phương tiện đã được thẩm duyệt hoặc thẩm định thiết kế PCCC vào khai thác, sử dụng **khi chủ đầu tư, chủ sở hữu, chủ phương tiện chưa hoàn thành việc tổ chức nghiệm thu về PCCC** (khoản 3) | 30–50 / 60–100 triệu đồng | Đình chỉ 03–06 tháng (điểm a k6) |
+| Đưa công trình, hạng mục, phương tiện **thuộc diện phải thẩm định thiết kế PCCC** vào khai thác, sử dụng **khi chưa có văn bản thẩm định** thiết kế PCCC của cơ quan quản lý chuyên ngành (khoản 4) | 40–50 / 80–100 triệu đồng | Đình chỉ 06–12 tháng (điểm b k6) |
 
 ### B.8. Chuyển tiếp (Điều 40 NĐ 347)
 
@@ -113,7 +115,7 @@ Ghi chú mới của Phụ lục III: (i) **tổng diện tích sàn xác địn
 
 **Khi hướng dẫn doanh nghiệp (theo CV 6501/CAT-PCCC):**
 1. Tự tổ chức nghiệm thu PCCC đủ trình tự, lập biên bản; không xin văn bản chấp thuận của Công an.
-2. Chỉ đưa công trình vào hoạt động khi đáp ứng đủ yêu cầu PCCC; nếu không sẽ bị phạt 30–50 triệu đồng (khoản 3 Điều 18 NĐ 106 mới).
+2. Chỉ đưa công trình vào hoạt động khi đáp ứng đủ yêu cầu PCCC; nếu không: tổ chức bị phạt 60–100 triệu đồng (cá nhân 30–50 triệu) và đình chỉ 03–06 tháng (k3, điểm a k6 Đ18 NĐ 106 sửa đổi).
 3. Trước khi đưa vào hoạt động: **khai báo thông tin cơ sở trên phần mềm của Hệ thống CSDL về PCCC và CNCH**, kết nối truyền tin báo cháy theo quy định.
 4. **Thông báo thời gian đưa dự án, công trình vào hoạt động về Công an tỉnh (qua Phòng Cảnh sát PCCC và CNCH)** để phối hợp quản lý.
 5. Cơ sở đang bị đình chỉ: khắc phục đủ tồn tại, vi phạm rồi mới hoạt động trở lại và thông báo cơ quan Công an (không còn thủ tục phục hồi hoạt động).
@@ -130,7 +132,7 @@ Ghi chú mới của Phụ lục III: (i) **tổng diện tích sàn xác địn
 **Mục 2 — gửi UBND xã, phường:** hướng dẫn cơ sở, phương tiện bị đình chỉ chấp hành, khắc phục, thông báo Công an trước khi hoạt động trở lại; kiểm tra định kỳ theo NĐ 105 sửa đổi bởi NĐ 347, chú trọng việc chấp hành quyết định đình chỉ và kết quả khắc phục; ghi biện pháp, thời hạn khắc phục vào **biên bản Mẫu PC03**, có văn bản kiến nghị và theo dõi; xử lý vi phạm, chuyển Cơ quan điều tra khi có dấu hiệu tội phạm theo **NQ 02/2024/NQ-HĐTP ngày 24/5/2024** của Hội đồng Thẩm phán TANDTC.
 
 **Việc Sở Công Thương cần làm để thực hiện CV 6501:**
-1. Rà danh sách dự án, công trình lĩnh vực Công Thương đã thẩm định/thẩm duyệt thiết kế PCCC mà chưa nghiệm thu (xăng dầu, trạm biến áp, thủy điện, kho VLNCN, hạ tầng CCN…) → có văn bản hướng dẫn chủ đầu tư theo 5 điểm ở mục C.
+1. Rà danh sách dự án, công trình lĩnh vực Công Thương đã thẩm định/thẩm duyệt thiết kế PCCC mà chưa nghiệm thu (xăng dầu, trạm biến áp, thủy điện, kho VLNCN, hạ tầng CCN…) → có văn bản hướng dẫn chủ đầu tư theo 5 điểm ở mục C — **mẫu soạn sẵn: `mau-van-ban/01-cv-trien-khai-nd347-chu-dau-tu.md`**.
 2. Rà các văn bản, biểu mẫu, checklist của Sở còn yêu cầu văn bản chấp thuận nghiệm thu PCCC của Công an → bỏ.
-3. Kế hoạch kiểm tra định kỳ điểm g, h năm 2027: lập **trước 15/12/2026**, gửi Công an tỉnh để phối hợp (Công an chủ trì khi kiểm tra chung).
+3. Kế hoạch kiểm tra định kỳ điểm g, h năm 2027 (căn cứ phân công: Điều 17 khoản 1 QĐ 11/2026/QĐ-UBND): lập **trước 15/12/2026**, gửi Công an tỉnh để phối hợp (Công an chủ trì khi kiểm tra chung).
 4. Khó khăn, vướng mắc: trao đổi với Công an tỉnh qua Phòng Cảnh sát PCCC và CNCH.

@@ -21,7 +21,7 @@ Chi tiết chuyên sâu PCCC ngành Công Thương: dùng kèm skill `pccc-sct-v
 | Nghiệm thu PCCC | **Không còn kiểm tra** từ 15/9/2026 (NĐ 347/2026 bãi bỏ k5 Đ6 NĐ 105); trong KTCTNT chỉ đối chiếu hồ sơ PCCC của CĐT | **Không còn kiểm tra** (NĐ 347 bãi bỏ Đ10 NĐ 105, Mẫu PC15-PC17); nhận thông báo thời gian đưa vào hoạt động (CV 6501/CAT-PCCC). Lịch sử: văn bản 66/NT-PCCC, 67/NT-PCCC ngày 01/7/2025 vẫn có giá trị |
 | Kiểm tra định kỳ vận hành | Kiểm tra điểm g, h k1 Đ13 NĐ 105 (kho = PL II STT 26 nhóm 1: 01 năm/lần) + kiểm tra chuyên ngành an toàn VLNCN (lồng ghép); trình tự k3 Đ14 mới, biên bản PC03 | Kiểm tra an toàn PCCC định kỳ (biên bản PC03); kiểm tra chung với SCT thì Công an chủ trì (k8 Đ14 mới) |
 
-**Chủ đầu tư (từ 15/9/2026):** tự tổ chức nghiệm thu PCCC, chịu trách nhiệm; khai báo CSDL PCCC và truyền tin báo cháy trước khi đưa kho vào hoạt động; thông báo Công an tỉnh (Phòng CS PCCC và CNCH) thời gian đưa vào hoạt động. Đưa vào sử dụng khi chưa tự nghiệm thu: phạt 30–50 triệu đồng (k3 Đ18 NĐ 106 sửa bởi NĐ 347).
+**Chủ đầu tư (từ 15/9/2026):** tự tổ chức nghiệm thu PCCC, chịu trách nhiệm; khai báo CSDL PCCC và truyền tin báo cháy trước khi đưa kho vào hoạt động; thông báo Công an tỉnh (Phòng CS PCCC và CNCH) thời gian đưa vào hoạt động. Đưa vào sử dụng khi chưa tự nghiệm thu: tổ chức phạt 60–100 triệu đồng (cá nhân 30–50 triệu), đình chỉ 03–06 tháng (k3, điểm a k6 Đ18 NĐ 106 sửa bởi NĐ 347; k1 Đ4 NĐ 106).
 
 ⚠ **Biên bản kiểm tra định kỳ (PC03) ≠ biên bản nghiệm thu PCCC.** Hồ sơ chỉ có PC03 là THIẾU đầu mục nghiệm thu (lỗi số 1 tại phản biện Ngòi Nhù 1A). Ngược lại, **không đòi văn bản chấp thuận của Công an** với kho nghiệm thu từ 15/9/2026 — đòi là đặt thêm điều kiện ngoài quy định.
 

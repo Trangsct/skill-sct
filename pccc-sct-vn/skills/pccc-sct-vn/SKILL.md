@@ -41,7 +41,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 | Quy định chi tiết thi hành Luật 55/2024 | 01/7/2025 |
 | Nghị định số 106/2025/NĐ-CP ngày 15/5/2025 | Xử phạt vi phạm hành chính lĩnh vực PCCC | 01/7/2025 |
 | **Nghị quyết số 66.18/2026/NQ-CP ngày 18/5/2026** của Chính phủ — Mục C Phụ lục I.1 | Tạm ngừng thủ tục kiểm tra công tác nghiệm thu PCCC (Điều 10 NĐ 105), nghiệm thu PCCC công trình đã có GCN thẩm duyệt (k3 Đ46), phục hồi hoạt động (điểm b k5 Đ46) | 01/7/2026 – 28/02/2027 |
-| **Nghị định số 347/2026/NĐ-CP ngày 08/9/2026** (KT. Thủ tướng — PTTg Phạm Gia Túc) | Sửa NĐ 105 và NĐ 106: bãi bỏ k5 Đ6, Đ10, Mẫu PC15-PC17; CĐT tự nghiệm thu (điểm đ k1 Đ12); thẩm định PCCC của CQCM chỉ trong BCNCKT (k1 Đ6); trình tự kiểm tra định kỳ k3, k8 Đ14; thay Phụ lục III, IV, Mẫu PC01, PC11, PC12; phạt 30-50 triệu khi đưa vào sử dụng chưa tự nghiệm thu. Bản gốc `van-ban-goc/ND-347-2026-*` | **15/9/2026** |
+| **Nghị định số 347/2026/NĐ-CP ngày 08/9/2026** (KT. Thủ tướng — PTTg Phạm Gia Túc) | Sửa NĐ 105 và NĐ 106: bãi bỏ k5 Đ6, Đ10, Mẫu PC15-PC17; CĐT tự nghiệm thu (điểm đ k1 Đ12); thẩm định PCCC của CQCM chỉ trong BCNCKT (k1 Đ6); trình tự kiểm tra định kỳ k3, k8 Đ14; thay Phụ lục III, IV, Mẫu PC01, PC11, PC12; k3 Đ18 NĐ 106 mới: đưa vào sử dụng khi chưa tự nghiệm thu — cá nhân 30-50 triệu, tổ chức 60-100 triệu, đình chỉ 3-6 tháng. Bản gốc `van-ban-goc/ND-347-2026-*` | **15/9/2026** |
 | Thông tư số 36/2025/TT-BCA | Quy định chi tiết một số điều của Luật và NĐ 105 | 2025 |
 | Thông tư số 37/2025/TT-BCA | Phương tiện, thiết bị PCCC | 2025 |
 | Thông tư số 38/2025/TT-BCA | Mẫu biểu, hồ sơ thẩm định, nghiệm thu, kiểm tra PCCC | 2025 |
@@ -104,6 +104,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | `references/14-lo-trinh-dieu-43.md` | Khi xử lý cơ sở không bảo đảm PCCC trước 01/7/2025; lộ trình các mốc 01/01/2026, 01/7/2026, 01/7/2028 |
 | `references/15-giai-phap-ky-thuat-qd1074-bxd.md` | Khi xử lý cơ sở, công trình hiện hữu không bảo đảm PCCC theo QĐ 1074/QĐ-BXD 29/6/2026: 3 điều kiện phạm vi; 3 nhóm giải pháp; tóm tắt 6 Phụ lục A-F (bậc chịu lửa, thoát nạn, cháy lan, tiếp cận chữa cháy, chống khói, phương tiện PCCC); loại trừ hạng A, B; triển khai tại Lào Cai theo CV 7432/UBND-XD 21/7/2026 |
 | `references/16-nd347-2026-sua-doi-nd105-nghiem-thu-kiem-tra.md` | **Đọc đầu tiên khi việc dính đến nghiệm thu, kiểm tra PCCC, Phụ lục III:** NĐ 347/2026 (hiệu lực 15/9/2026) + NQ 66.18/2026 + CV 6501/CAT-PCCC 23/9/2026 — bảng điều khoản bị bãi bỏ/sửa, CĐT tự nghiệm thu, trình tự kiểm tra mới, Phụ lục III mới, xử phạt k3 k4 Đ18 NĐ 106, chuyển tiếp Đ40, việc Sở cần làm |
+| `mau-van-ban/01-cv-trien-khai-nd347-chu-dau-tu.md` | Nội dung công văn Sở hướng dẫn chủ đầu tư, cơ sở ngành Công Thương thực hiện NĐ 347/2026 + CV 6501/CAT-PCCC (đã QA trên mẫu thật vbhc-vn, 24/9/2026) — dựng .docx bằng `vbhc-vn` |
 
 ## IV. NĂM NHIỆM VỤ CỦA SỞ CÔNG THƯƠNG THEO ĐIỀU 41 KHOẢN 7 NĐ 105/2025
 
@@ -185,7 +186,7 @@ Chi tiết: `references/04-kiem-tra-nghiem-thu.md`, `references/16-...`. Quy tr�
 ### Nhiệm vụ 3: Kiểm tra định kỳ PCCC cơ sở Phụ lục II (Điều 13 NĐ 105)
 
 Phân công kiểm tra theo điểm b khoản 2 Điều 13 (sửa bởi NĐ 347/2026, nội dung giữ nguyên):
-- UBND tỉnh phân công, phân cấp CQCM về xây dựng tổ chức kiểm tra định kỳ.
+- UBND tỉnh phân công, phân cấp CQCM về xây dựng tổ chức kiểm tra định kỳ — tại Lào Cai đã giao tại Điều 17 khoản 1 QĐ 11/2026/QĐ-UBND.
 - Tần suất: **01 năm một lần** đối với cơ sở thuộc Nhóm 1 Phụ lục II; **02 năm một lần** đối với cơ sở thuộc Nhóm 2.
 - Kiểm tra đột xuất khi có dấu hiệu vi phạm, đơn khiếu nại, tố cáo, hoặc khi có yêu cầu phối hợp bảo đảm an ninh, trật tự.
 - **Trình tự (khoản 3 Điều 14 mới):** kế hoạch năm sau xong **trước 15/12**; thông báo đối tượng **trước 03 ngày làm việc**; biên bản **Mẫu PC03**. Kiểm tra chung với Công an cơ sở PL II → **Công an chủ trì** (khoản 8 Điều 14).
@@ -260,7 +261,7 @@ Tham chiếu: phân định ranh giới tại Công văn 314/SCT-CN ngày 20/01/
 
 1. **Tỉnh Lào Cai sau hợp nhất với Yên Bái (NQ 202/2025/QH15, 01/7/2025):** 13.256,92 km², 1,78 triệu dân, trung tâm tại TP Yên Bái cũ, 99 xã/phường, KHÔNG có cấp huyện. Cửa hàng xăng dầu, khí gas, nhà máy điện, thủy điện trên địa bàn cả 02 tỉnh cũ đều thuộc thẩm quyền Sở Công Thương Lào Cai mới.
 
-2. **Vướng mắc đang tồn tại:** UBND tỉnh Lào Cai chưa ban hành văn bản phân cấp cụ thể cho CQCM về xây dựng (Sở Công Thương) tổ chức kiểm tra định kỳ PCCC theo điểm b khoản 2 Điều 13 NĐ 105 (điểm b sửa bởi NĐ 347/2026 vẫn giữ "UBND cấp tỉnh phân công, phân cấp"). Phần **trình tự** kiểm tra của CQCM đã có tại khoản 3 Điều 14 mới từ 15/9/2026. Trong khi đó, Quyết định 11/2026/QĐ-UBND ngày 29/01/2026 đã giải quyết phần phân cấp thẩm định BCNCKT, BCKTKT, thiết kế xây dựng.
+2. **Kiểm tra định kỳ PCCC — ĐÃ đủ căn cứ (sửa 24/9/2026):** việc phân công đã có tại **Điều 17 khoản 1 Quyết định 11/2026/QĐ-UBND ngày 29/01/2026** của UBND tỉnh Lào Cai: cơ quan chuyên môn về xây dựng cấp tỉnh kiểm tra các công trình chuyên ngành, *"đồng thời có trách nhiệm tổ chức kiểm tra công tác phòng cháy chữa cháy hàng năm theo quy định tại điểm b, khoản 2 Điều 13 Nghị định số 105/2025/NĐ-CP"* (Sở Công Thương là CQCM về xây dựng đối với công trình công nghiệp). Trình tự: khoản 3, khoản 8 Điều 14 NĐ 105 sửa bởi NĐ 347/2026 (kế hoạch năm sau ký trước 15/12; báo trước 03 ngày làm việc; biên bản PC03; kiểm tra chung thì Công an chủ trì). *Lịch sử: bản plugin trước 24/9/2026 ghi "UBND tỉnh chưa phân cấp, quá hạn 8 tháng" — nhận định đó sai từ ngày QĐ 11/2026 có hiệu lực.* Việc Sở phải làm: lập danh sách cơ sở PL II ngành Công Thương và kế hoạch kiểm tra năm 2027 trước 15/12/2026.
 
 3. **Thực tiễn áp dụng tại Sở (đến 22/12/2025 theo BC 3241/BC-SCT):** Đã thẩm định 03 dự án (01 thiết kế xây dựng, 02 BCNCKT); kiểm tra nghiệm thu 02 dự án; phối hợp kiểm tra liên ngành 02 kho VLNCN + 01 NMTĐ; kiểm tra điều kiện kinh doanh khí + PCCC tại 10 doanh nghiệp khoáng sản và VLNCN.
 

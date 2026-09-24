@@ -43,7 +43,7 @@ Dùng khi doanh nghiệp hỏi "muốn xây kho VLNCN thì làm gì" hoặc khi 
 1. Chủ đầu tư tổ chức **nghiệm thu hoàn thành hạng mục/công trình** (biên bản KHÔNG ghi "bàn giao đưa vào sử dụng ngay" — phải ghi điều kiện: *chỉ đưa vào sử dụng sau khi có văn bản chấp thuận kết quả nghiệm thu của cơ quan có thẩm quyền*).
 2. Lập **Báo cáo hoàn thành thi công xây dựng** + hồ sơ hoàn thành công trình.
 3. **Gửi Sở Công Thương**: báo cáo hoàn thành + giấy mời/đề nghị kiểm tra nghiệm thu — **trước tối thiểu 10 ngày** so với thời điểm dự kiến nghiệm thu hoàn thành (Điều 23 NĐ 06/2021, công trình dưới cấp I). Không "nén" quy trình: nghiệm thu xong mới báo → lỗi trình tự.
-4. Song song hoàn tất với **Công an tỉnh**: kiểm tra kết quả nghiệm thu về PCCC → **văn bản chấp thuận kết quả nghiệm thu PCCC** (không phải biên bản kiểm tra định kỳ PC03); **GCN đủ điều kiện về ANTT**.
+4. **PCCC — CĐT tự nghiệm thu** (điểm đ k1 Đ12 NĐ 105 sửa bởi NĐ 347/2026, hiệu lực 15/9/2026; từ 01/7/2026 đã theo NQ 66.18/2026): tổ chức nghiệm thu về PCCC, lập biên bản, chịu trách nhiệm; khai báo trên Hệ thống CSDL về PCCC và CNCH, truyền tin báo cháy trước khi đưa vào hoạt động; **thông báo thời gian đưa kho vào hoạt động về Công an tỉnh (Phòng Cảnh sát PCCC và CNCH)** (CV 6501/CAT-PCCC ngày 23/9/2026). Không còn thủ tục xin chấp thuận kết quả nghiệm thu của Công an. Biên bản kiểm tra định kỳ PC03 không thay biên bản nghiệm thu. Song song: **GCN đủ điều kiện về ANTT** của Công an tỉnh (vẫn bắt buộc).
 5. Chuẩn bị nhân sự: **thủ kho VLNCN** có trình độ + GCN huấn luyện KTAT VLNCN; lực lượng bảo vệ 24/24; nội quy, phương án (ANTT, chữa cháy&CNCH, ứng cứu khẩn cấp) được phê duyệt.
 
 ## GIAI ĐOẠN 5 — SỞ CÔNG THƯƠNG KIỂM TRA CÔNG TÁC NGHIỆM THU (chi tiết ref 04)
@@ -55,7 +55,7 @@ Dùng khi doanh nghiệp hỏi "muốn xây kho VLNCN thì làm gì" hoặc khi 
 
 ## GIAI ĐOẠN 6 — GIẤY PHÉP SỬ DỤNG VLNCN VÀ VẬN HÀNH
 
-1. Nộp hồ sơ cấp **GP sử dụng VLNCN** (Điều 39 Luật 42/2024 sửa đổi Luật 118/2025; thẩm quyền UBND tỉnh — TT 38/2025; tại Lào Cai theo QĐ ủy quyền): mẫu đơn theo TT 23/2024; kèm văn bản chấp thuận nghiệm thu PCCC kho + tài liệu chứng minh điều kiện an toàn theo TC-QCKT (chính là bộ kết quả GĐ5).
+1. Nộp hồ sơ cấp **GP sử dụng VLNCN** (Điều 39 Luật 42/2024 sửa đổi Luật 118/2025; thẩm quyền UBND tỉnh — TT 38/2025; tại Lào Cai theo QĐ ủy quyền): mẫu đơn theo TT 23/2024; kèm bản sao văn bản nghiệm thu về PCCC của kho (biên bản nghiệm thu PCCC của CĐT; hoặc văn bản chấp thuận của Công an nếu đã cấp trước 15/9/2026) + tài liệu chứng minh điều kiện an toàn theo TC-QCKT (chính là bộ kết quả GĐ5).
 2. Khu vực nổ mìn có công trình cần bảo vệ → **PANM phải được phê duyệt** (ref 07, mẫu 06-07).
 3. Vận hành: lý lịch kho (PL9), sổ xuất nhập (PL8), kẹp chì, đo tiếp địa định kỳ trước mùa mưa, diễn tập PCCC, **báo cáo định kỳ 6 tháng/năm và báo cáo 24 giờ khi có sự cố** (Điều 17 TT 23/2024) — ref 10.
 4. Kho tạm: khi xong công trình chính → **dỡ bỏ, thu hồi VLNCN còn lại, hoàn trả mặt bằng**; không dùng vào mục đích khác (điều kiện chuẩn trong TB của Sở).
@@ -65,7 +65,7 @@ Dùng khi doanh nghiệp hỏi "muốn xây kho VLNCN thì làm gì" hoặc khi 
 1. Pháp lý dự án: ĐKKD; GP khoáng sản/QĐ CTĐT (+ điều chỉnh); hợp đồng thầu/văn bản giao nhiệm vụ.
 2. Đất đai, môi trường: giấy tờ đất/vị trí; QĐ phê duyệt ĐTM/GPMT (+ điều chỉnh nếu bổ sung kho).
 3. Thiết kế: hồ sơ thiết kế; báo cáo thẩm tra; QĐ phê duyệt thiết kế; văn bản gửi SCT trước khởi công (công trình tạm) hoặc văn bản thẩm định của SCT.
-4. PCCC: văn bản thẩm định/thẩm duyệt thiết kế PCCC; văn bản chấp thuận kết quả nghiệm thu PCCC.
+4. PCCC: văn bản thẩm định/thẩm duyệt thiết kế PCCC; biên bản nghiệm thu về PCCC do CĐT tổ chức (không phải xin văn bản chấp thuận của Công an từ 15/9/2026); xác nhận đã khai báo CSDL PCCC, thông báo Công an tỉnh thời gian đưa vào hoạt động.
 5. ANTT: GCN đủ điều kiện về an ninh, trật tự.
 6. Thi công: TB khởi công; năng lực nhà thầu/TVGS/chỉ huy trưởng (chứng chỉ + QĐ giao nhiệm vụ); nhật ký; nghiệm thu; thí nghiệm vật liệu; bản vẽ hoàn công; kết quả đo điện trở tiếp địa.
 7. Hoàn thành: BB nghiệm thu hoàn thành; Báo cáo hoàn thành thi công; văn bản đề nghị SCT kiểm tra (trước ≥10 ngày).

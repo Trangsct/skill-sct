@@ -108,9 +108,9 @@ Nhà máy tinh dầu sử dụng dung môi để chiết xuất → có thể th
 
 Đối với các cơ sở SX công nghiệp thuộc PL III mục 9d, Sở Công Thương thẩm định 05 nội dung điểm a-đ (nếu thuộc đối tượng thẩm định BCNCKT/BC KTKT tại Sở).
 
-### 4.2. Kiểm tra nghiệm thu PCCC
+### 4.2. Nghiệm thu PCCC
 
-Quy trình chuẩn (xem reference 04).
+Từ 15/9/2026 không còn thủ tục kiểm tra nghiệm thu PCCC (NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105): chủ đầu tư tự nghiệm thu, chịu trách nhiệm; Sở vẫn KTCTNT theo pháp luật xây dựng nếu công trình thuộc diện, không đòi văn bản chấp thuận của Công an. Xem reference 04, 16.
 
 ### 4.3. Kiểm tra định kỳ PCCC
 

@@ -78,9 +78,9 @@ Lưu ý:
 - Đối với nhà máy sản xuất VLNCN có quy mô lớn, có thể là dự án nhóm A do Bộ Xây dựng thẩm định.
 - Trên địa bàn tỉnh Lào Cai chủ yếu là kho VLNCN của doanh nghiệp khai khoáng hoặc thủy điện - quy mô nhóm B, C.
 
-### 4.2. Kiểm tra nghiệm thu PCCC
+### 4.2. Nghiệm thu PCCC
 
-Theo quy trình 06 bước (xem reference 04). Có lồng ghép kiểm tra điều kiện an ninh trật tự theo NĐ 96/2016/NĐ-CP.
+Từ 15/9/2026 không còn thủ tục kiểm tra nghiệm thu PCCC (NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105): chủ đầu tư tự nghiệm thu, chịu trách nhiệm; Sở vẫn KTCTNT theo pháp luật xây dựng nếu công trình thuộc diện, không đòi văn bản chấp thuận của Công an. Xem reference 04, 16. Kho VLNCN vẫn phải có GCN đủ điều kiện về ANTT của Công an (không bị cắt giảm).
 
 ### 4.3. Kiểm tra định kỳ PCCC
 
@@ -94,7 +94,7 @@ Theo quy trình 06 bước (xem reference 04). Có lồng ghép kiểm tra đi�
 - Đơn vị thi công xây dựng (đường, hầm).
 - Đơn vị thi công thủy điện.
 
-Trong hồ sơ cấp Giấy phép, yêu cầu phải có Giấy chứng nhận đủ điều kiện về an ninh, trật tự của Công an tỉnh + Văn bản thẩm định/chấp thuận nghiệm thu PCCC.
+Trong hồ sơ cấp Giấy phép (kho cố định): Giấy chứng nhận đủ điều kiện về an ninh, trật tự của Công an tỉnh + bản sao văn bản nghiệm thu về PCCC hoặc văn bản chấp thuận kết quả nghiệm thu về PCCC (điểm đ khoản 1 Điều 39 Luật 42/2024 sửa bởi Luật 118/2025). Từ 15/9/2026 là **biên bản nghiệm thu PCCC do chủ đầu tư lập**; văn bản chấp thuận của Công an chỉ còn với kho đã được cấp trước 15/9/2026.
 
 ### 4.5. Cấp Giấy chứng nhận đủ điều kiện sản xuất, kinh doanh tiền chất thuốc nổ
 
@@ -102,7 +102,7 @@ Tương tự VLNCN.
 
 ## V. Thực tiễn áp dụng tại Lào Cai
 
-### 5.1. Trường hợp Kho VLNCN tạm Thủy điện Nậm Cang 1A
+### 5.1. Trường hợp Kho VLNCN tạm Thủy điện Nậm Cang 1A (lịch sử — trước 15/9/2026)
 
 Theo CV 1629/SCT-CN ngày 27/3/2026 (Kế hoạch kiểm tra nghiệm thu) và Thông báo 1732/TB-SCT ngày 02/4/2026 (Chấp thuận nghiệm thu).
 
@@ -111,7 +111,7 @@ Theo CV 1629/SCT-CN ngày 27/3/2026 (Kế hoạch kiểm tra nghiệm thu) và T
 - Loại kho: Kho VLNCN tạm thời phục vụ thi công.
 - Quy mô: Theo thiết kế đã được thẩm định.
 - Hồ sơ chủ đầu tư nộp đầy đủ:
-  - Văn bản chấp thuận nghiệm thu PCCC của Phòng PC07 Công an tỉnh.
+  - Văn bản chấp thuận nghiệm thu PCCC của Phòng PC07 Công an tỉnh (lịch sử — thủ tục đã bãi bỏ từ 15/9/2026).
   - Giấy chứng nhận đủ điều kiện về an ninh, trật tự của Công an tỉnh.
   - Hồ sơ kỹ thuật, bản vẽ hoàn công.
 - Sở Công Thương ban hành Kế hoạch kiểm tra (CV 1629).
@@ -119,7 +119,7 @@ Theo CV 1629/SCT-CN ngày 27/3/2026 (Kế hoạch kiểm tra nghiệm thu) và T
 - Sở Công Thương ban hành Thông báo chấp thuận (TB 1732) cho phép đưa vào sử dụng.
 
 **Bài học:**
-1. Đối với kho VLNCN, hồ sơ kiểm tra nghiệm thu phải có đầy đủ 3 loại văn bản: chấp thuận PCCC của Công an + GCN an ninh trật tự + hồ sơ kỹ thuật.
+1. Lịch sử: hồ sơ vụ này có văn bản chấp thuận PCCC của Công an + GCN an ninh trật tự + hồ sơ kỹ thuật. Từ 15/9/2026: biên bản nghiệm thu PCCC của chủ đầu tư + GCN ANTT + hồ sơ kỹ thuật; kho tạm được miễn KTCTNT từ 01/7/2026 (plugin `kho-vlncn-sct-vn` ref 11).
 2. Quy trình 6 bước đã được áp dụng nhuần nhuyễn.
 3. Thông báo chấp thuận của Sở phải ghi rõ điều khoản miễn trừ trách nhiệm: "không thay thế, không làm giảm trách nhiệm của Chủ đầu tư".
 

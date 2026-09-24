@@ -1,5 +1,10 @@
 # CHANGELOG — plugin xd-sct-vn
 
+## [1.6.0] - 24/9/2026 — NĐ 347/2026/NĐ-CP: PCCC trong KTCTNT; Điều 74 NĐ 217/2026 bị bãi bỏ
+- SKILL.md: mục NĐ 347/2026 (hiệu lực 15/9/2026) trong khối cắt giảm; anti-error **15** — KTCTNT không kèm kiểm tra nghiệm thu PCCC, không đòi văn bản chấp thuận của Công an, không dẫn Điều 74 NĐ 217/2026 (bãi bỏ bởi Điều 39 NĐ 347).
+- ref 01 (ghi chú Điều 74 NĐ 217), ref 04 (PCCC trong KTCTNT; trình tự PCCC hằng năm k3 Đ14), ref 08 mục C, D.
+- `van-ban-goc/ND-347-2026-ND-CP-08-9-2026-sua-doi-ND-105-2025.docx` + mục lục.
+
 ## [1.5.1] - 31/8/2026 — Gọi đúng tên tài liệu quản lý chất lượng
 
 - **ref 04 mục I.0b MỚI**: bảng ba tài liệu và ai lập — nhật ký thi công xây dựng công trình (nhà thầu thi công, k13 Đ15 + Phụ lục IIa); báo cáo về công tác giám sát thi công xây dựng công trình (TVGS, k3 Đ20 + Phụ lục IVa, IVb); báo cáo đánh giá việc thực hiện giám sát tác giả (nhà thầu thiết kế, Đ21). **Không có "nhật ký giám sát"** trong NĐ 06/2021 lẫn NĐ 207/2026.

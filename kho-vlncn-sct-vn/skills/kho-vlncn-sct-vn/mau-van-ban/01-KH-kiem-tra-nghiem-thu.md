@@ -40,9 +40,9 @@ a) Đối với công tác nghiệm thu hoàn thành công trình xây dựng:
 - Kiểm tra sự tuân thủ các quy định về công tác quản lý chất lượng của chủ đầu tư và các nhà thầu tham gia hoạt động xây dựng theo quy định tại Nghị định 06/2021/NĐ-CP ngày 26/01/2021, các Nghị định sửa đổi, bổ sung và quy định của pháp luật có liên quan.
 - Kiểm tra các điều kiện nghiệm thu hoàn thành công trình theo quy định tại Điều 23 Nghị định số 06/2021/NĐ-CP ngày 26/01/2021, được sửa đổi bổ sung bởi Nghị định số 35/2023/NĐ-CP ngày 20/06/2023.
 
-b) Đối với công tác nghiệm thu về phòng cháy chữa cháy: Theo quy định tại điểm a khoản 5 Điều 18 Luật số 55/2024/QH15; Điều 6 Nghị định số 105/2025/NĐ-CP ngày 15/05/2025, bao gồm: (1) Khoảng cách phòng cháy, chữa cháy; (2) Đường bộ, bãi đỗ, khoảng trống phục vụ hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ; (3) Giải pháp thoát nạn; (4) Bậc chịu lửa, giải pháp ngăn cháy, chống cháy lan; (5) Giải pháp chống khói.
+b) Đối với hồ sơ về phòng cháy và chữa cháy: đối chiếu văn bản thẩm định thiết kế về phòng cháy và chữa cháy; biên bản nghiệm thu về phòng cháy và chữa cháy do Chủ đầu tư tổ chức theo điểm đ khoản 1 Điều 12 Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 của Chính phủ, được sửa đổi, bổ sung bởi Nghị định số 347/2026/NĐ-CP ngày 08/9/2026 của Chính phủ; việc khai báo trên hệ thống Cơ sở dữ liệu về phòng cháy, chữa cháy, cứu nạn, cứu hộ và truyền tin báo cháy.
 
-*(Lưu ý: nếu vụ việc xác định công trình tạm KHÔNG thuộc diện nghiệm thu PCCC theo điều kiện kép Điều 6 NĐ 105/2025 thì BỎ mục b và không viện dẫn Luật 55/2024 — giữ nhất quán, xem ref 06, 08.)*
+*(Lưu ý: từ 15/9/2026 Sở KHÔNG kiểm tra nghiệm thu PCCC — NĐ 347/2026 bãi bỏ khoản 5 Điều 6 NĐ 105 — nên mục b chỉ là đối chiếu hồ sơ, không liệt kê 5 nội dung kiểm tra PCCC, không yêu cầu văn bản chấp thuận của Công an. Công trình tạm không thuộc diện thì BỎ mục b — giữ nhất quán, xem ref 06, 08.)*
 
 **6. Phương pháp kiểm tra:** Kiểm tra, đối chiếu hồ sơ quản lý chất lượng, hồ sơ hoàn thành công trình; Quan sát, kiểm tra trực quan tại hiện trường; Nghe báo cáo, giải trình của Chủ đầu tư và các đơn vị tư vấn có liên quan.
 

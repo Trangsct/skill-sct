@@ -27,7 +27,7 @@ Hôm nay, ngày … tháng … năm 20…, Sở Công Thương tỉnh Lào Cai t
 4. Pháp luật chuyên ngành: (i) xây dựng, quản lý chất lượng công trình; (ii) quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 và văn bản hướng dẫn); (iii) PCCC&CNCH; các quy chuẩn, tiêu chuẩn áp dụng đối với kho VLNCN;
 5. Quy định về quản lý hoạt động xây dựng trên địa bàn tỉnh Lào Cai;
 6. Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
-7. Hồ sơ PCCC do Chủ đầu tư xuất trình: {Biên bản kiểm tra PCCC ngày … của Phòng CS PCCC&CNCH / văn bản chấp thuận nghiệm thu PCCC số … ngày …};
+7. Hồ sơ PCCC do Chủ đầu tư xuất trình: {văn bản thẩm định thiết kế PCCC số … ngày …; Biên bản nghiệm thu về PCCC ngày … do Chủ đầu tư tổ chức / văn bản chấp thuận nghiệm thu PCCC số … ngày … (chỉ khi đã cấp trước 15/9/2026)};
 8. Kết quả đo điện trở tiếp địa số {…} ngày {…} của {đơn vị};
 9. Báo cáo hoàn thành thi công xây dựng số {…} ngày {…}; Biên bản nghiệm thu hoàn thành hạng mục công trình; báo cáo về công tác giám sát thi công xây dựng công trình; nhật ký thi công xây dựng công trình; bản vẽ hoàn công; hồ sơ quản lý chất lượng và các tài liệu do Chủ đầu tư, nhà thầu, tư vấn xuất trình;
 10. Văn bản thông báo kế hoạch kiểm tra số {…}/SCT-CN ngày {…} của Sở Công Thương;

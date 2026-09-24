@@ -77,9 +77,9 @@ Sở Công Thương thẩm định 05 nội dung điểm a-đ khoản 2 Điều 
 - Nhà máy điện công suất lớn (nhóm A, dự án quan trọng quốc gia): Bộ Xây dựng hoặc Cục/Cục chuyên ngành thuộc Bộ Xây dựng thẩm định.
 - Trạm biến áp 500 kV: thường là dự án trọng điểm quốc gia.
 
-### 4.2. Kiểm tra nghiệm thu PCCC
+### 4.2. Nghiệm thu PCCC
 
-Quy trình 06 bước (xem reference 04).
+Từ 15/9/2026 không còn thủ tục kiểm tra nghiệm thu PCCC (NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105): chủ đầu tư tự nghiệm thu, chịu trách nhiệm; Sở vẫn KTCTNT theo pháp luật xây dựng nếu công trình thuộc diện, không đòi văn bản chấp thuận của Công an. Xem reference 04, 16.
 
 ### 4.3. Kiểm tra định kỳ PCCC
 

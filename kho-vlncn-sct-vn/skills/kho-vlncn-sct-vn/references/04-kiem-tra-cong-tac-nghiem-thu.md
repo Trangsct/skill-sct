@@ -6,7 +6,7 @@
 - Khoản 5 Điều 19 TT 23/2024 (bản sửa TT 38/2025): UBND cấp tỉnh thực hiện chức năng QLNN về **xây dựng và PCCC** đối với công trình sản xuất, kho chứa VLNCN, tiền chất thuốc nổ → Sở Công Thương là cơ quan chuyên môn giúp việc.
 - **Khung hiện hành (từ 01/7/2026)**: khoản 4 Điều 57 Luật 135/2025; Điều 25 (đối tượng, có phần loại trừ công trình tạm), Điều 26 điểm c khoản 1 (thẩm quyền CQCM cấp tỉnh), Điều 27 (nội dung, trình tự), khoản 2 Điều 29 (điều kiện đưa vào khai thác, sử dụng) NĐ 207/2026; Điều 17 QĐ 11/2026/QĐ-UBND.
 - **Khung cũ (chuyển tiếp)**: Điều 23, Điều 24 NĐ 06/2021 (sửa NĐ 35/2023) — lưu ý **khoản 1 Điều 24 NĐ 06/2021 KHÔNG loại trừ công trình tạm**; điểm c khoản 2 Điều 89 Luật XD 2014 (sửa đổi 2020); Điều 131 (công trình tạm).
-- Điểm a khoản 5 Điều 18 Luật 55/2024 + Điều 6 NĐ 105/2025 (phần nghiệm thu PCCC thuộc phạm vi cơ quan chuyên môn về xây dựng: 5 nội dung).
+- PCCC: từ 15/9/2026 **NĐ 347/2026/NĐ-CP bãi bỏ khoản 5 Điều 6 NĐ 105/2025** (CQCM kiểm tra nghiệm thu PCCC 5 nội dung cùng KTCTNT) và Điều 10 (Công an kiểm tra nghiệm thu) → trong KTCTNT Sở **không kiểm tra nghiệm thu PCCC**, chỉ đối chiếu hồ sơ PCCC của CĐT (văn bản thẩm định thiết kế PCCC, biên bản nghiệm thu PCCC do CĐT tổ chức — điểm đ k1 Đ12 NĐ 105 mới). Chi tiết plugin `pccc-sct-vn` ref 16.
 - QĐ 05/2025/QĐ-UBND (chức năng Sở).
 
 ## II. TRÌNH TỰ CHUẨN (đã vận hành ổn định qua 3 vụ việc)
@@ -40,7 +40,7 @@ Thời gian thực tế tham chiếu: Nậm Cang 1A (BC 17/3 → KH 1629/SCT-CN 
 **Phương pháp:** kiểm tra, đối chiếu hồ sơ quản lý chất lượng, hồ sơ hoàn thành; quan sát trực quan hiện trường; nghe báo cáo, giải trình.
 
 ## IV. HỒ SƠ ĐỐI CHIẾU TẠI CUỘC KIỂM TRA (căn cứ mục III Biên bản Ngòi Nhù 1A)
-1. Hồ sơ PCCC: biên bản kiểm tra/văn bản chấp thuận nghiệm thu PCCC của Phòng CS PCCC&CNCH.
+1. Hồ sơ PCCC: văn bản thẩm định/thẩm duyệt thiết kế PCCC; **biên bản nghiệm thu về PCCC do CĐT tổ chức** (hoặc văn bản chấp thuận của Công an nếu đã cấp trước 15/9/2026). Không đòi văn bản chấp thuận của Phòng CS PCCC&CNCH cho công trình nghiệm thu từ 15/9/2026.
 2. Kết quả đo điện trở tiếp địa (đơn vị kiểm định đủ năng lực, còn hiệu lực).
 3. Báo cáo hoàn thành thi công; biên bản nghiệm thu hoàn thành; **báo cáo về công tác giám sát thi công xây dựng công trình** (khoản 3 Điều 20 + Phụ lục IVa, IVb NĐ 207/2026); **nhật ký thi công xây dựng công trình** do nhà thầu thi công lập (Phụ lục IIa); bản vẽ hoàn công; hồ sơ quản lý chất lượng; kết quả thí nghiệm vật liệu. ⚠ KHÔNG yêu cầu "nhật ký giám sát" — văn bản hiện hành không có tài liệu này.
 4. Hồ sơ năng lực: chứng chỉ hành nghề TVGS, chỉ huy trưởng, chủ trì thiết kế/thẩm tra; QĐ giao nhiệm vụ; ủy quyền ký còn hiệu lực.
@@ -55,7 +55,7 @@ Tường kho ≥220 mm, bậc I chịu lửa; 2 lớp cửa, khóa chống cắt
 Thông báo chấp thuận phải có mục "Yêu cầu đối với chủ đầu tư":
 a) lưu trữ hồ sơ; b) quản lý, vận hành đúng công năng, thiết kế được duyệt; c) các yêu cầu khác:
 - tuân thủ quy trình, quy phạm an toàn, ANTT;
-- thực hiện đầy đủ điều kiện PCCC vận hành, huấn luyện, diễn tập, bảo trì định kỳ; thực hiện các yêu cầu kèm theo văn bản chấp thuận nghiệm thu PCCC; chỉ thay đổi giải pháp/công năng/quy mô/hệ thống kỹ thuật sau khi được chấp thuận điều chỉnh;
+- thực hiện đầy đủ điều kiện PCCC vận hành, huấn luyện, diễn tập, bảo trì định kỳ; thực hiện các yêu cầu kèm theo biên bản nghiệm thu PCCC (hoặc văn bản chấp thuận nghiệm thu PCCC đã cấp trước 15/9/2026); khai báo CSDL PCCC, thông báo Công an tỉnh thời gian đưa kho vào hoạt động; chỉ thay đổi giải pháp/công năng/quy mô/hệ thống kỹ thuật sau khi được chấp thuận điều chỉnh;
 - kho **chỉ được duy trì phục vụ đúng dự án** đã được chấp thuận; kho tạm: **dỡ bỏ sau khi hoàn thành thi công, thu hồi VLNCN còn lại, hoàn trả mặt bằng**;
 - CĐT và nhà thầu chịu trách nhiệm về tính chính xác của hồ sơ và kết quả nghiệm thu trước pháp luật;
 - **điều khoản giới hạn trách nhiệm**: việc kiểm tra thực hiện trên cơ sở quan sát ngoại quan và hồ sơ do CĐT cung cấp, không thay thế/không làm giảm trách nhiệm của CĐT và nhà thầu;
@@ -69,4 +69,4 @@ KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC **Hoàng Văn Thuân**; nơi nhận: Như t
 1. **DN đã nghiệm thu và tự đưa vào sử dụng trước khi Sở chấp thuận**: nêu rõ trong biên bản là vi phạm trình tự Điều 23 NĐ 06/2021; yêu cầu dừng sử dụng đến khi có văn bản chấp thuận; xem xét chuyển xử lý VPHC nếu đủ căn cứ.
 2. **Hồ sơ "nén" thời gian** (báo cáo hoàn thành lập cùng ngày biên bản nghiệm thu, không đủ 10 ngày báo trước): chấp nhận xử lý nhanh nhưng ghi nhận và nhắc nhở bằng văn bản, yêu cầu rút kinh nghiệm — tránh rủi ro thanh tra, kiểm toán về sau.
 3. **Kho có 2 vị trí thuộc 2 xã (sau sáp nhập)**: ghi địa danh hiện hành, mở ngoặc chú thích địa danh cũ (tiền lệ TB Móng Sến 1).
-4. **Hạng mục PCCC do Công an đã nghiệm thu từ trước sáp nhập/thay đổi pháp luật**: viện dẫn đúng số văn bản chấp thuận PCCC (ví dụ 66/NT-PCCC, 67/NT-PCCC ngày 01/7/2025) và yêu cầu CĐT tiếp tục thực hiện các điều kiện kèm theo.
+4. **Hạng mục PCCC do Công an đã nghiệm thu trước 15/9/2026** (văn bản đã cấp tiếp tục có giá trị — khoản 3 Điều 40 NĐ 347/2026): viện dẫn đúng số văn bản chấp thuận PCCC (ví dụ 66/NT-PCCC, 67/NT-PCCC ngày 01/7/2025) và yêu cầu CĐT tiếp tục thực hiện các điều kiện kèm theo.

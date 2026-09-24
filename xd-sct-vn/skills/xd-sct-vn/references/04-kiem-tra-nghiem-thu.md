@@ -71,6 +71,12 @@ Công trình KHÔNG thuộc các nhóm trên → không bắt buộc KTCTNT; ch�
 - b) CQCM kiểm tra theo nội dung điểm b khoản 1; nếu công trình không được kiểm tra trong quá trình thi công thì kiểm tra cả nội dung điểm a.
 - Kết quả: **văn bản chấp thuận kết quả nghiệm thu** (là điều kiện đưa công trình vào sử dụng — Điều 57 khoản 2 Luật 135/2025).
 
+**PCCC trong KTCTNT — từ 15/9/2026 (NĐ 347/2026/NĐ-CP ngày 08/9/2026):** khoản 5 Điều 6 NĐ 105/2025 (CQCM về xây dựng kiểm tra nghiệm thu PCCC cùng KTCTNT) và Điều 10 (Công an kiểm tra nghiệm thu PCCC) **đã bãi bỏ**. Vì vậy:
+- KTCTNT chỉ theo pháp luật xây dựng; **không kiểm tra nghiệm thu PCCC**, không ban hành kết luận riêng về PCCC;
+- hồ sơ: đối chiếu văn bản thẩm định thiết kế PCCC và **biên bản nghiệm thu PCCC do chủ đầu tư tổ chức** (điểm đ k1 Đ12 NĐ 105 mới); **không yêu cầu văn bản chấp thuận của Công an** (Mẫu PC17 đã bãi bỏ; văn bản đã cấp trước 15/9/2026 vẫn có giá trị);
+- thông báo chấp thuận nhắc CĐT: khai báo CSDL PCCC, truyền tin báo cháy, báo Công an tỉnh (Phòng CS PCCC và CNCH) thời gian đưa vào hoạt động (CV 6501/CAT-PCCC ngày 23/9/2026).
+Chi tiết: plugin `pccc-sct-vn` ref 04, ref 16.
+
 **Nghiệm thu có điều kiện (khoản 5):** nếu đã chấp thuận có điều kiện, chủ đầu tư phải báo cáo kết quả thực hiện các nội dung điều kiện (khoản 3 Điều 24) đến CQCM.
 
 ## IV. QUYỀN, TRÁCH NHIỆM CQCM KHI KTCTNT (Điều 25 khoản 4)
@@ -92,7 +98,8 @@ Công trình KHÔNG thuộc các nhóm trên → không bắt buộc KTCTNT; ch�
 1. Chủ đầu tư gửi báo cáo hoàn thành thi công (Phụ lục VI NĐ 207/2026) → SCT
 2. Phòng QLCN (CN Dũng) rà hồ sơ + xác định công trình thuộc diện KTCTNT không (ref mục I)
 3. SCT ban hành KẾ HOẠCH KIỂM TRA (mẫu 01) — nêu thời gian, thành phần, nội dung
-   (gộp nội dung PCCC hằng năm nếu đến kỳ — Đ17.1 QĐ 11/2026)
+   (gộp nội dung PCCC hằng năm nếu đến kỳ — Đ17.1 QĐ 11/2026; phần PCCC theo trình tự k3 Đ14 NĐ 105
+   sửa bởi NĐ 347/2026: báo trước 03 ngày làm việc, biên bản PC03. KHÔNG kiểm tra nghiệm thu PCCC)
 4. Kiểm tra hiện trường + hồ sơ → lập BIÊN BẢN KIỂM TRA (mẫu 02)
 5. Nếu đạt → THÔNG BÁO chấp thuận kết quả nghiệm thu (mẫu 03) — điều kiện đưa vào sử dụng
    Nếu có tồn tại → yêu cầu khắc phục, kiểm tra lại

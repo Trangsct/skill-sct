@@ -8,7 +8,7 @@
 
 **Luật PCCC và CNCH số 55/2024/QH15:**
 - Điều 17: phân định thẩm quyền thẩm định thiết kế giữa CQCM về xây dựng và Công an.
-- Điều 18: thẩm quyền kiểm tra nghiệm thu.
+- Điều 18: nghiệm thu PCCC (từ 15/9/2026 chủ đầu tư tự nghiệm thu — NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105).
 - Điều 41: trách nhiệm các Bộ.
 - Điều 42: trách nhiệm UBND các cấp.
 
@@ -173,18 +173,20 @@ CCN không có BQL riêng (theo NĐ 32/2024/NĐ-CP đã sửa đổi). Sở Côn
 
 | Nội dung kiểm tra | Cơ quan | Tần suất |
 |---|---|---|
-| Điểm a - Trách nhiệm người đứng đầu | Công an | 1 năm (Nhóm 1 PL II) |
-| Điểm c - Trang bị PCCC | Công an | 1 năm (Nhóm 1 PL II) |
-| Điểm d - Duy trì hoạt động PCCC | Công an | 1 năm (Nhóm 1 PL II) |
-| Điểm đ - Thiết bị truyền tin báo cháy | Công an | 1 năm (Nhóm 1 PL II) |
+| Điểm a - Trách nhiệm người đứng đầu | Công an | 1 năm (N1) / 2 năm (N2, từ 15/9/2026) |
+| Điểm c - Trang bị PCCC | Công an | 1 năm (N1) / 2 năm (N2, từ 15/9/2026) |
+| Điểm d - Duy trì hoạt động PCCC | Công an | 1 năm (N1) / 2 năm (N2, từ 15/9/2026) |
+| Điểm đ - Thiết bị truyền tin báo cháy | Công an | 1 năm (N1) / 2 năm (N2, từ 15/9/2026) |
 | **Điểm g - Duy trì khoảng cách PCCC** | **Sở Công Thương** | **1 năm (N1) / 2 năm (N2)** |
 | **Điểm h - Duy trì thoát nạn, ngăn cháy, chống khói** | **Sở Công Thương** | **1 năm (N1) / 2 năm (N2)** |
 
-### 5.3. Kiểm tra nghiệm thu PCCC
+### 5.3. Nghiệm thu PCCC
 
-Sở Công Thương chủ trì khi công trình thuộc phạm vi mình đã thẩm định. Công an tham gia phối hợp lập biên bản Mẫu PC16.
+Từ 15/9/2026 **không cơ quan nào kiểm tra nghiệm thu PCCC** (NĐ 347/2026 bãi bỏ khoản 5 Điều 6, Điều 10 NĐ 105 và các mẫu biên bản, văn bản chấp thuận của Công an). Chủ đầu tư tự nghiệm thu, chịu trách nhiệm, khai báo CSDL PCCC, thông báo Công an tỉnh thời gian đưa vào hoạt động (CV 6501/CAT-PCCC). Sở Công Thương chỉ còn KTCTNT theo pháp luật xây dựng.
 
-Tuy nhiên, Sở Công Thương chỉ chấp thuận sau khi đã có chấp thuận của Công an cho 02 nội dung e, g (theo Mẫu PC17 do Công an cấp).
+### 5.4. Kiểm tra phối hợp Công an — Sở Công Thương
+
+Khoản 8 Điều 14 NĐ 105 (bổ sung bởi NĐ 347/2026): phối hợp kiểm tra định kỳ, đột xuất cơ sở Phụ lục II → **Công an chủ trì**, Sở phối hợp (nội dung điểm g, h).
 
 ## VI. Quy trình xử lý vướng mắc
 

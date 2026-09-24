@@ -20,7 +20,7 @@ GĐ4  KỸ THUẬT       Thiết kế khai thác mỏ / thiết kế BVTC đư�
 GĐ5  PANM ĐẶC BIỆT  Nổ mìn trong/gần khu dân cư, công trình cần bảo vệ → nộp hồ sơ để
                     Sở Công Thương thẩm định, trình Chủ tịch UBND tỉnh phê duyệt PANM
                     TRƯỚC khi xin GP (ref 03)
-GĐ6  NỘP HỒ SƠ GP   7 đầu mục k1 Đ39 (mục C) → Trung tâm PVHCC tỉnh / Cổng DVC / bưu chính
+GĐ6  NỘP HỒ SƠ GP   7 đầu mục k1 Đ39 (mục C) → nộp trực tuyến https://motcua-tthc.moit.gov.vn/
                     → 05 ngày làm việc (đủ hồ sơ) có kết quả
 GĐ7  TRƯỚC KHI NỔ   Mua VLNCN từ DN kinh doanh (đúng Danh mục); GP vận chuyển (Công an);
                     lập HỘ CHIẾU cho từng lần nổ; thông báo giờ nổ cho chính quyền,

@@ -1,3 +1,7 @@
+## 24/9/2026 (đợt 3) — sd-vlncn-sct-vn 2026.9.24.2: sửa nơi nộp hồ sơ GĐ6
+
+- ref 04 GĐ6: nơi nộp hồ sơ GP sử dụng VLNCN là https://motcua-tthc.moit.gov.vn/ (bỏ Trung tâm PVHCC / Cổng DVC / bưu chính).
+
 ## 24/9/2026 (đợt 2) — NĐ 347/2026 lan sang 6 plugin + mẫu công văn triển khai; sửa mức phạt tổ chức
 
 - **pccc-sct-vn 1.3.0:** mẫu 01 — công văn Sở hướng dẫn chủ đầu tư thực hiện NĐ 347/2026 + CV 6501/CAT-PCCC; sửa mức phạt k3 Đ18 NĐ 106 (tổ chức 60–100 triệu, đình chỉ 3–6 tháng); sửa nhận định "UBND tỉnh chưa phân cấp kiểm tra định kỳ" — Điều 17 khoản 1 QĐ 11/2026/QĐ-UBND đã giao.

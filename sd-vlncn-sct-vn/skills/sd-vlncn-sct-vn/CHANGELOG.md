@@ -1,5 +1,8 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.9.24.2 — 24/9/2026 — sửa nơi nộp hồ sơ ở lộ trình GĐ6
+- ref 04 mục A, GĐ6: "Trung tâm PVHCC tỉnh / Cổng DVC / bưu chính" → nộp trực tuyến https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất, quy ước 02/9/2026; dòng này nằm trong khối sơ đồ nên check_facts chưa bắt). Phát hiện khi soạn công văn hướng dẫn sử dụng VLNCN thi công thủy điện.
+
 ## v2026.9.24.1 — 24/9/2026 — hồ sơ PCCC kho cố định theo NĐ 347/2026
 - Từ 15/9/2026 NĐ 347/2026/NĐ-CP bãi bỏ Điều 10 NĐ 105/2025 (Công an không còn chấp thuận kết quả nghiệm thu PCCC): tài liệu "văn bản nghiệm thu về PCCC" tại điểm đ k1 Đ39 Luật 42/2024 (sđ Luật 118/2025) là **biên bản nghiệm thu PCCC do chủ đầu tư tổ chức**; không đòi văn bản chấp thuận của Công an; văn bản đã cấp trước 15/9/2026 vẫn dùng. Sửa SKILL.md, anti-error 7, ref 02 (C4), ref 04, ref 10, mẫu 21.
 

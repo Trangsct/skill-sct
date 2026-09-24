@@ -102,7 +102,7 @@ Mục 4 mục I Công văn triển khai yêu cầu **"kịp thời nhận diện
 
 **Biểu hiện**
 - Chưa có giấy phép môi trường / chưa đăng ký môi trường.
-- Chưa được nghiệm thu phòng cháy chữa cháy nhưng đã hoạt động.
+- Chủ đầu tư chưa tự tổ chức nghiệm thu phòng cháy chữa cháy nhưng đã hoạt động (từ 15/9/2026 không còn thủ tục Công an nghiệm thu/chấp thuận — NĐ 347/2026; tổ chức vi phạm bị phạt 60–100 triệu đồng, đình chỉ 3–6 tháng theo k3 Đ18 NĐ 106 sửa đổi).
 - Khu công nghiệp đang hoạt động chưa có hệ thống xử lý nước thải tập trung đạt chuẩn (**trực tiếp là chỉ tiêu 29**).
 
 **Hướng xử lý**

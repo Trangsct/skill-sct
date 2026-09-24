@@ -2,12 +2,14 @@
 
 Nghiệp vụ thẩm định, nghiệm thu, kiểm tra định kỳ, phân loại cơ sở: plugin `pccc-sct-vn` (đặc biệt reference 01, 05, 13). File này gom lại **phạm vi trách nhiệm của Sở** và **đường đi của chế tài** để khi kiểm tra một cơ sở công nghiệp, Đoàn biết mình được ghi gì, kiến nghị ai.
 
-## A. Sở Công Thương phụ trách 4 việc về PCCC (Luật 55/2024; NĐ 105/2025; QĐ 11/2026/QĐ-UBND)
+## A. Sở Công Thương phụ trách 3 việc về PCCC (Luật 55/2024; NĐ 105/2025 sửa bởi NĐ 347/2026; QĐ 11/2026/QĐ-UBND)
+
+> **Từ 15/9/2026 (NĐ 347/2026/NĐ-CP):** bãi bỏ khoản 5 Điều 6 và Điều 10 NĐ 105 → không còn kiểm tra nghiệm thu PCCC của Sở lẫn Công an; chủ đầu tư tự nghiệm thu (điểm đ k1 Đ12 mới); khoản 3, 4 Điều 18 NĐ 106 được sửa (bảng B2). Chi tiết: `pccc-sct-vn` ref 16.
 
 | # | Việc | Căn cứ | Phạm vi cơ sở ngành Công Thương (Phụ lục II NĐ 105) | Sản phẩm |
 |---|---|---|---|---|
 | 1 | **Thẩm định thiết kế PCCC** cùng thẩm định BCNCKT/thiết kế xây dựng — 05 nội dung điểm a–đ khoản 2 Điều 6 NĐ 105 (khoảng cách an toàn PCCC; đường – bãi đỗ – nguồn nước chữa cháy; giải pháp thoát nạn; ngăn cháy, chống cháy lan; chống khói) | Điều 17 Luật 55/2024; Điều 6 NĐ 105/2025; khoản 7 Điều 41 NĐ 105 (Bộ CT); CV 311/BCT-ATMT | Công trình công nghiệp do SCT là cơ quan chuyên môn về xây dựng (`xd-sct-vn/02`): kho VLNCN, kho hóa chất, nhà máy chế biến khoáng sản, thủy điện, TBA 110–500 kV, kho xăng dầu, kho LPG, hạ tầng CCN, cơ sở SXCN hạng A–E thuộc thẩm quyền tỉnh | Văn bản thẩm định có mục PCCC riêng (`pccc-sct-vn/03`) |
-| 2 | **Kiểm tra công tác nghiệm thu về PCCC** cùng kiểm tra nghiệm thu xây dựng | Điều 18 Luật 55/2024; Điều 9–10 NĐ 105 | Như trên | Văn bản chấp thuận kết quả nghiệm thu (có phần PCCC) — chủ đầu tư **không được đưa vào sử dụng** khi chưa có (`pccc-sct-vn/04`) |
+| 2 | ~~Kiểm tra công tác nghiệm thu về PCCC~~ — **đã bãi bỏ từ 15/9/2026** (NĐ 347/2026 bãi bỏ k5 Đ6, Đ10 NĐ 105). Chủ đầu tư tự nghiệm thu, chịu trách nhiệm; Sở chỉ còn KTCTNT theo pháp luật xây dựng | Điểm đ k1 Đ12 NĐ 105 sửa bởi NĐ 347 | Như trên | Biên bản nghiệm thu PCCC của chủ đầu tư; khai báo CSDL PCCC (`pccc-sct-vn/04`, `/16`) |
 | 3 | **Kiểm tra định kỳ** việc **duy trì** 02 nội dung: điểm g (khoảng cách PCCC, đường, bãi đỗ, khoảng trống) và điểm h (giải pháp thoát nạn, ngăn cháy, chống cháy lan, chống khói) khoản 1 Điều 13 NĐ 105 | Điểm b khoản 2 Điều 13 NĐ 105; QĐ 11/2026/QĐ-UBND phân công | Nhóm 1 Phụ lục II: **01 năm/lần**; Nhóm 2: **02 năm/lần**; đột xuất khi có dấu hiệu | Biên bản kiểm tra định kỳ PCCC (phần của Sở); tổng hợp báo cáo năm (`pccc-sct-vn/05` mục VI) |
 | 4 | **Giải pháp kỹ thuật cho cơ sở hiện hữu không bảo đảm PCCC** (lộ trình Điều 43 Luật 55/2024) | Điểm a khoản 7 Điều 41 NĐ 105; QĐ 1074/QĐ-BXD; CV 7432/UBND-XD | Kho VLNCN cũ, kho hóa chất cũ, chợ, CCN cũ… | Hướng dẫn, xác nhận giải pháp; theo dõi lộ trình (`pccc-sct-vn/14, 15`) |
 
@@ -17,10 +19,10 @@ Nghiệp vụ thẩm định, nghiệm thu, kiểm tra định kỳ, phân loạ
 
 Bản gốc: `van-ban-goc/pccc/ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.docx` (41 điều; hành vi Đ6–28; thẩm quyền Đ29–37; sửa NĐ 119/2017 tại Đ38; chuyển tiếp Đ40).
 
-**Quy tắc nền:** mức tối đa cá nhân **50 triệu**, tổ chức ×2 (Đ4); hộ kinh doanh = mức cá nhân; **thời hiệu 01 năm** (Đ5); nhiều hành vi "gấp hai lần khi để xảy ra cháy" (khoản cuối mỗi điều). Mốc tính thời hiệu đặc thù (k4 Đ5): hành vi k1, k2 Đ18 (cải tạo/thi công chưa thẩm định) chấm dứt **từ ngày bàn giao công trình**; hành vi k3, k4 Đ18 (đưa vào sử dụng chưa nghiệm thu) chấm dứt **từ ngày công trình chấm dứt hoạt động** → gần như luôn còn thời hiệu khi cơ sở đang hoạt động.
+**Quy tắc nền:** mức tối đa cá nhân **50 triệu**, tổ chức ×2 (Đ4); hộ kinh doanh = mức cá nhân; **thời hiệu 01 năm** (Đ5); nhiều hành vi "gấp hai lần khi để xảy ra cháy" (khoản cuối mỗi điều). Mốc tính thời hiệu đặc thù (k4 Đ5): hành vi k1, k2 Đ18 (cải tạo/thi công chưa thẩm định) chấm dứt **từ ngày bàn giao công trình**; hành vi k3, k4 Đ18 (đưa vào sử dụng chưa tự nghiệm thu / chưa có văn bản thẩm định — nội dung k3, k4 sửa bởi NĐ 347/2026) chấm dứt **từ ngày công trình chấm dứt hoạt động** → gần như luôn còn thời hiệu khi cơ sở đang hoạt động.
 
 ### B1. Thẩm quyền — điểm quyết định cho Sở
-- **Khoản 2 Điều 29:** *"Công chức, viên chức thuộc UBND các cấp, **cơ quan chuyên môn về xây dựng**, cơ quan đăng kiểm đang thi hành công vụ"* có thẩm quyền **lập biên bản VPHC**. → Đoàn kiểm tra của Sở (CQCM về xây dựng công trình công nghiệp) **lập được Biên bản VPHC Mẫu 01** cho hành vi Đ6–28 phát hiện khi kiểm tra định kỳ điểm g, h Đ13 NĐ 105 / kiểm tra nghiệm thu, rồi **chuyển trong 24 giờ** (k5 Đ58 Luật) đến người có thẩm quyền ra QĐ.
+- **Khoản 2 Điều 29:** *"Công chức, viên chức thuộc UBND các cấp, **cơ quan chuyên môn về xây dựng**, cơ quan đăng kiểm đang thi hành công vụ"* có thẩm quyền **lập biên bản VPHC**. → Đoàn kiểm tra của Sở (CQCM về xây dựng công trình công nghiệp) **lập được Biên bản VPHC Mẫu 01** cho hành vi Đ6–28 phát hiện khi kiểm tra định kỳ điểm g, h Đ13 NĐ 105 / KTCTNT, rồi **chuyển trong 24 giờ** (k5 Đ58 Luật) đến người có thẩm quyền ra QĐ.
 - **Không có tên Giám đốc Sở** trong Đ30–36 → Sở không ra QĐ xử phạt. Người ra QĐ: Chủ tịch UBND xã — NĐ 106 Đ30 k1 ghi 5 tr, nhưng NĐ 106 ban hành trước NĐ 189/2025 nên theo **k1 Đ21 NĐ 189** áp dụng **50% = 25 tr cá nhân / 50 tr tổ chức** (`references/08` mục D.3, ghi cả hai căn cứ); **Chủ tịch UBND tỉnh (đến 50 tr, tước văn bản thẩm định/nghiệm thu PCCC, đình chỉ — Đ30 k2)**; Công an (Đ31); Chánh Thanh tra tỉnh (Đ36 k3 ghi 35 tr; từ 26/9/2026 = 80% theo NĐ 311). Với tổ chức, hành vi Đ18 k3–4, Đ24 k5, Đ25 k6 có khung ×2 tới 100 tr → **vượt cấp xã (50 tr TC), gửi Chủ tịch UBND tỉnh hoặc Công an tỉnh** (Trưởng phòng Cảnh sát PCCC theo Đ31 — mức GATE).
 - Phân định Đ37: Chủ tịch UBND và Công an xử được toàn bộ Đ6–28; Thanh tra Đ6–28; Biên phòng chỉ Đ7, 14, 15, 16, 20, 21.
 
@@ -30,8 +32,8 @@ Bản gốc: `van-ban-goc/pccc/ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.docx` (41
 |---|---|---|---|
 | Cải tạo, chuyển đổi công năng hạng mục thuộc diện thẩm định PCCC khi chưa có văn bản thẩm định | điểm a k1 Đ18 | 30–40 tr | ×2 nếu để cháy (k5) |
 | **Thi công công trình thuộc diện thẩm định khi chưa có văn bản thẩm định thiết kế PCCC** | k2 Đ18 | 40–50 tr | ×2 nếu để cháy |
-| **Đưa công trình đã thẩm định vào sử dụng khi chưa có văn bản chấp thuận nghiệm thu PCCC** | k3 Đ18 | 60–100 tr | Đình chỉ 3–6 tháng (điểm a k6) |
-| Đưa vào sử dụng khi chưa có cả thẩm định lẫn nghiệm thu | k4 Đ18 | 80–100 tr | Đình chỉ 6–12 tháng (điểm b k6) |
+| **Đưa công trình đã được thẩm duyệt/thẩm định thiết kế PCCC vào khai thác, sử dụng khi chủ đầu tư chưa hoàn thành việc tổ chức nghiệm thu PCCC** (k3 Đ18 sửa bởi k1 Đ32 NĐ 347/2026, từ 15/9/2026) | k3 Đ18 | 60–100 tr | Đình chỉ 3–6 tháng (điểm a k6) |
+| Đưa công trình **thuộc diện phải thẩm định thiết kế PCCC** vào khai thác, sử dụng khi **chưa có văn bản thẩm định** thiết kế PCCC (k4 Đ18 sửa bởi k2 Đ32 NĐ 347/2026) | k4 Đ18 | 80–100 tr | Đình chỉ 6–12 tháng (điểm b k6) |
 | Để vật tư, hàng hóa, xe không bảo đảm khoảng cách PCCC | k1 Đ25 | 4–8 tr | Buộc di chuyển (9a) |
 | Không duy trì bộ phận ngăn cháy đã lắp (cửa, van ngăn cháy) | k2 Đ25 | 10–14 tr | Buộc duy trì (9b) |
 | Lắp ống dẫn khí/chất lỏng cháy nơi không được phép; không dọn chất cháy hành lang tuyến ống | k3 Đ25 | 16–20 tr | |

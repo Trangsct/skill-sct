@@ -25,7 +25,7 @@ Cập nhật 01/9/2026. Cột "Trạng thái" = mức độ đã xác minh: ✅ 
 
 ## Quy tắc quyết định XỬ / CHUYỂN (3 câu hỏi)
 
-1. **Hành vi thuộc nghị định nào?** — theo nghĩa vụ gốc bị vi phạm, không theo tên cơ sở. Kho VLNCN thiếu chống sét = VLNCN (XỬ); kho VLNCN chưa nghiệm thu PCCC = PCCC (CHUYỂN).
+1. **Hành vi thuộc nghị định nào?** — theo nghĩa vụ gốc bị vi phạm, không theo tên cơ sở. Kho VLNCN thiếu chống sét = VLNCN (XỬ); kho VLNCN đưa vào sử dụng khi chủ đầu tư chưa tự nghiệm thu PCCC = PCCC (CHUYỂN; k3 Đ18 NĐ 106 sửa bởi NĐ 347/2026).
 2. **Nghị định đó có ghi tên "Giám đốc Sở Công Thương" / "Chi cục trưởng QLTT" không?** — có → XỬ; không nhưng NĐ 189/2025 + NĐ 311/2026 quy đổi chức danh → XỬ sau khi đối chiếu; không → CHUYỂN.
 3. **Tổng mức tổ chức của hành vi nặng nhất có vượt trần GĐ Sở? Có hình thức bổ sung ngoài phạm vi?** — vượt → tờ trình Chủ tịch UBND tỉnh (`mau-van-ban/10`); không → QĐ-XPHC của Sở.
 

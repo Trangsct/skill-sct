@@ -1,5 +1,8 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.9.24.1 — 24/9/2026 — hồ sơ PCCC kho cố định theo NĐ 347/2026
+- Từ 15/9/2026 NĐ 347/2026/NĐ-CP bãi bỏ Điều 10 NĐ 105/2025 (Công an không còn chấp thuận kết quả nghiệm thu PCCC): tài liệu "văn bản nghiệm thu về PCCC" tại điểm đ k1 Đ39 Luật 42/2024 (sđ Luật 118/2025) là **biên bản nghiệm thu PCCC do chủ đầu tư tổ chức**; không đòi văn bản chấp thuận của Công an; văn bản đã cấp trước 15/9/2026 vẫn dùng. Sửa SKILL.md, anti-error 7, ref 02 (C4), ref 04, ref 10, mẫu 21.
+
 ## v2026.9.22.2 — 22/9/2026 — Kinh nghiệm từ cuộc kiểm tra chuyên đề VLNCN của Cục ATMT (CV 1994/ATMT-ATKV ngày 17/9/2026)
 
 Nguồn: Công văn **1994/ATMT-ATKV ngày 17/9/2026** của Cục Kỹ thuật an toàn và Môi trường công nghiệp (Bộ Công Thương), Cục trưởng Phạm Tuấn Anh ký, gửi Công ty Công nghiệp hóa chất mỏ Tây Bắc — **nơi nhận có SCT tỉnh Lào Cai**. Bản PDF ký số Bạn cung cấp 22/9/2026.

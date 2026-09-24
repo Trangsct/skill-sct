@@ -177,6 +177,6 @@ TT 09/2026/TT-BQP ngày 22/01/2026, **hiệu lực 22/01/2026**; hồ sơ tiếp
 2. **Có GP hoạt động khoáng sản nhóm I do Bộ NN&MT (hoặc Bộ TN&MT cũ) cấp? Dầu khí? Nghiên cứu, thử nghiệm VLNCN?** → Cục KTAT&MTCN cấp GP sử dụng; Sở không trình UBND tỉnh.
 3. **Còn lại** → UBND tỉnh cấp, SCT thẩm định trình. Chạy **bảng tự kiểm mẫu 20** trước khi trình.
 4. **Nổ mìn ở khu vực có công trình, đối tượng cần bảo vệ?** → thêm quy trình PANM (ref 03) + kiểm tra hiện trường + lấy ý kiến Sở Xây dựng.
-5. **Kho cố định?** → yêu cầu văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC (điểm đ k1 Đ39 bản mới). **Gửi kho?** → yêu cầu thỏa thuận bằng văn bản + kiểm tra đã thông báo UBND tỉnh chưa.
+5. **Kho cố định?** → yêu cầu văn bản nghiệm thu PCCC **hoặc** văn bản chấp thuận kết quả nghiệm thu PCCC (điểm đ k1 Đ39 bản mới) (từ 15/9/2026: biên bản nghiệm thu PCCC do chủ đầu tư tổ chức — NĐ 347/2026; không đòi văn bản chấp thuận của Công an). **Gửi kho?** → yêu cầu thỏa thuận bằng văn bản + kiểm tra đã thông báo UBND tỉnh chưa.
 6. **Vận chuyển?** → hướng dẫn DN sang **PC06 Công an tỉnh**, không phải SCT.
 7. **Xử phạt?** → phân loại nhóm hành vi theo mục F trước khi lập biên bản.

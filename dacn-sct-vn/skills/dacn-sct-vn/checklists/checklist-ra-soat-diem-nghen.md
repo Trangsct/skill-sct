@@ -49,7 +49,7 @@ Dùng khi làm việc trực tiếp với chủ đầu tư hoặc khi tổng h�
 ## 6. MÔI TRƯỜNG, PHÒNG CHÁY CHỮA CHÁY (MT-PCCC)
 
 - [ ] Đã có giấy phép môi trường hoặc đăng ký môi trường chưa
-- [ ] Đã nghiệm thu phòng cháy chữa cháy chưa
+- [ ] Chủ đầu tư đã tự tổ chức nghiệm thu phòng cháy chữa cháy, khai báo CSDL PCCC và thông báo Công an tỉnh thời gian đưa vào hoạt động chưa (NĐ 347/2026)
 - [ ] Nếu là hạ tầng KCN/CCN: đã có hệ thống xử lý nước thải tập trung đạt chuẩn chưa (chỉ tiêu 29)
 
 ## 7. TÀI CHÍNH, VỐN, THỊ TRƯỜNG (TC)

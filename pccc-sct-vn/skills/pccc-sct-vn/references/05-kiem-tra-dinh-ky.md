@@ -117,7 +117,7 @@ Hai hình thức đã làm trong thực tiễn trước 15/9/2026 vẫn dùng đ
 - **Phối hợp với Phòng Cảnh sát PCCC và CNCH Công an tỉnh** (đã làm với 02 kho VLNCN, 01 NMTĐ theo BC 3241/BC-SCT): nay là trường hợp khoản 8 Điều 14 — Công an chủ trì, Sở cử cán bộ, biên bản chung PC03.
 - **Lồng ghép trong đoàn kiểm tra của Sở** (đã làm với 10 DN khoáng sản và VLNCN): phần PCCC phải theo trình tự khoản 3 Điều 14 và lập biên bản PC03 riêng cho phần PCCC.
 
-Phần việc còn chờ UBND tỉnh: văn bản **phân công, phân cấp** Sở Công Thương kiểm tra định kỳ (điểm b khoản 2 Điều 13) — xem SKILL.md mục IX.2.
+Căn cứ phân công: **Điều 17 khoản 1 Quyết định 11/2026/QĐ-UBND ngày 29/01/2026** của UBND tỉnh Lào Cai: cơ quan chuyên môn về xây dựng cấp tỉnh kiểm tra các công trình chuyên ngành, *"đồng thời có trách nhiệm tổ chức kiểm tra công tác phòng cháy chữa cháy hàng năm theo quy định tại điểm b, khoản 2 Điều 13 Nghị định số 105/2025/NĐ-CP"* — không còn chờ UBND tỉnh ban hành văn bản riêng (SKILL.md mục IX.2).
 
 ## V. Áp dụng kiểm tra định kỳ đối với từng loại cơ sở ngành Công Thương
 

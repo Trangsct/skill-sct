@@ -7,7 +7,7 @@ Kỹ thuật chi tiết: `kho-vlncn-sct-vn/02, 04, 05, 08`. Hành vi: `reference
 |---|---|---|---|---|
 | GP sử dụng VLNCN / GP dịch vụ nổ mìn còn hiệu lực, có ghi kho | Luật 42/2024 (sđ 118/2025); NĐ 181/2024 | Bản chính GP; phụ lục kho | Sử dụng không GP/GP hết hạn: điểm b k6 Đ60 NĐ 275 (160–200 tr, Đ6) | XỬ → vượt trần GĐ Sở → UBND tỉnh + chuyển tố tụng |
 | GCN đủ điều kiện ANTT cho kho | NĐ 56/2023 | GCN Công an | NĐ 282/2025 Đ12 ⚠️ | CHUYỂN Công an |
-| Văn bản chấp thuận nghiệm thu PCCC của Công an | Luật 55/2024; NĐ 105/2025 | Văn bản (không phải biên bản PC03) | NĐ 106/2025 ⚠️ | CHUYỂN Cảnh sát PCCC |
+| Biên bản nghiệm thu PCCC do chủ đầu tư tổ chức (từ 15/9/2026; văn bản chấp thuận của Công an nếu đã cấp trước ngày đó) | Luật 55/2024; NĐ 105/2025 sửa bởi NĐ 347/2026 (điểm đ k1 Đ12) | Văn bản (không phải biên bản PC03) | NĐ 106/2025 ⚠️ | CHUYỂN Cảnh sát PCCC |
 | Hợp đồng gửi kho/cho thuê kho bằng văn bản; thông báo UBND tỉnh khi gửi kho (điểm b k2 Đ40 Luật 42 sđ) | Luật 118/2025 | Hợp đồng; văn bản thông báo | điểm a k4 Đ57 (60–100 tr; buộc di chuyển) | XỬ |
 
 ## B. Thiết kế – xây dựng – đưa vào sử dụng

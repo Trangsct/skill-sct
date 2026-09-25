@@ -176,7 +176,8 @@ references/
   11-phan-luong-4-truong-hop.md    ⭐ PHÂN LUỒNG 4 trường hợp; cấp công trình TT 34/2026; loại trừ
                                    công trình tạm khỏi KTCTNT (k1 Đ25, k3 Đ53 NĐ 207/2026);
                                    căn cứ kiểm định theo NĐ 207/2026; NĐ 347/2026 (+NQ 66.18) về PCCC
-mau-van-ban/                       9 mẫu sẵn dùng (điền chỗ trống là ban hành được)
+mau-van-ban/                       mẫu sẵn dùng (điền chỗ trống là ban hành được); mẫu 10: CV hướng dẫn
+                                   trình tự từng bước 3 đối tượng kho (cố định mới, tạm, hiện hữu) 25/9/2026
 vi-du-thuc-te/                     Văn bản Sở đã ban hành 4 vụ việc thật + bản phản biện hồ sơ
   dong-tien-kho-tam-KTCTNT-2026/   Case CHUẨN kho tạm theo khung mới (KH 4826, BB 11/8, TB 5088/TB-SCT)
                                    + README-BAI-HOC: 8 điểm làm đúng, 6 điểm rút kinh nghiệm

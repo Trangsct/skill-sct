@@ -1,3 +1,8 @@
+## 25/9/2026 — kho-vlncn-sct-vn 1.12.0: ref 03 theo khung 01/7/2026; mẫu 10 hướng dẫn trình tự 3 đối tượng kho
+
+- ref 03: thẩm định BCNCKT tại Sở, thiết kế triển khai do chủ đầu tư thẩm định (Đ41 NĐ 217), năng lực NĐ 212/2026, báo cáo hoàn thành k4 Đ27 NĐ 207; bỏ NĐ 175/2024 và Điều 23 NĐ 06/2021 khỏi hướng dẫn hiện hành.
+- mẫu 10 mới: công văn hướng dẫn trình tự kho cố định xây mới, kho tạm (kể cả container), kho hiện hữu.
+
 ## 24/9/2026 (đợt 3) — sd-vlncn-sct-vn 2026.9.24.2: sửa nơi nộp hồ sơ GĐ6
 
 - ref 04 GĐ6: nơi nộp hồ sơ GP sử dụng VLNCN là https://motcua-tthc.moit.gov.vn/ (bỏ Trung tâm PVHCC / Cổng DVC / bưu chính).

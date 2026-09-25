@@ -1,5 +1,9 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.12.0] - 25/9/2026 — ref 03 theo khung 01/7/2026; mẫu 10 hướng dẫn trình tự 3 đối tượng kho
+- **ref 03 (quy trình kho mới) bỏ khung cũ:** "Hướng A/B" theo Điều 131 Luật XD 2014 và "Sở thẩm định thiết kế triển khai sau TKCS" chuyển thành lịch sử; nay Sở thẩm định **BCNCKT** (k1 Đ27 Luật 135; Đ32 NĐ 217) lồng ghép PCCC, thiết kế triển khai do **chủ đầu tư thẩm định** trên cơ sở thẩm tra (k3 Đ29 Luật 135; k1, k4 Đ41, Đ42 NĐ 217); năng lực theo NĐ 212/2026 (Đ41 tự công khai, k1 Đ28 CCHN 4 lĩnh vực, k2 Đ38 chỉ huy trưởng không cần CCHN, k4 Đ22); bỏ NĐ 175/2024, "chứng chỉ năng lực", "hợp đồng lao động"; báo cáo hoàn thành theo PL VI và k4 Đ27 NĐ 207 thay "báo trước 10 ngày" của Điều 23 NĐ 06/2021.
+- **mẫu 10 MỚI:** công văn hướng dẫn trình tự từng bước cho kho cố định xây mới (8 bước), kho tạm (7 bước, kể cả container lưu động — điểm 2.1, 2.7 PL10 QCVN) và kho hiện hữu (7 bước theo Điều 4 TT 32/2026), mỗi bước dẫn điều khoản.
+
 ## [1.11.1] - 24/9/2026 — mức phạt tổ chức k3 Đ18 NĐ 106
 - ref 06: đưa kho vào sử dụng khi chưa tự nghiệm thu PCCC — tổ chức 60–100 triệu (cá nhân 30–50), đình chỉ 03–06 tháng (bản 1.11.0 chỉ ghi mức cá nhân).
 

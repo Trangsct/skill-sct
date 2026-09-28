@@ -100,10 +100,12 @@ Tổng Biểu 02.1: **76 dự án, TMĐT 16.676.421, phân bổ 7.395.296** (XDC
 
 | Dự án | Địa điểm | QĐ | TMĐT | Phân bổ kỳ này |
 |---|---|---|---|---|
-| Đường kết nối từ **Quốc lộ 4E đến CCN Thống Nhất 1** | Xã Gia Phú | **1693/QĐ-UBND ngày 15/5/2026** | 130.000 | **130.000** |
+| Đường kết nối từ **Quốc lộ 4E đến CCN Thống Nhất 1** | Xã Gia Phú | **1693/QĐ-UBND ngày 15/5/2026** (CTĐT) → **phê duyệt dự án 3480/QĐ-UBND ngày 27/9/2026** | 130.000 | **130.000** |
 | Đường kết nối từ **nút giao IC18 đến CCN Thống Nhất 1**, thành phố Lào Cai | Xã Gia Phú | **1955/QĐ-UBND ngày 19/6/2025** | 210.000 | **210.000** |
 
-> 🔄 **CẬP NHẬT 18/9/2026 — tuyến IC18 đã được phê duyệt dự án.** Chuỗi: CTĐT **1955/QĐ-UBND ngày 19/6/2025** → điều chỉnh CTĐT **2071/QĐ-UBND ngày 15/6/2026** (chưa có bản gốc) → **phê duyệt dự án 3382/QĐ-UBND ngày 18/9/2026**, **TMĐT 260.000 triệu đồng** (GPMB 72.012,451 + xây dựng 162.085,719 + QLDA 3.146,406 + tư vấn 7.396,694 + khác 3.702,355 + dự phòng 11.656,375). Con số **210.000 trong bảng này là số KẾ HOẠCH theo QĐ 2390 — giữ nguyên, không sửa**; khi báo cáo nhu cầu vốn phải nêu phần **chênh 50.000 triệu đồng** giữa TMĐT phê duyệt và phân bổ trung hạn. Chi tiết dự án → reference `23` mục D.3.
+> 🔄 **CẬP NHẬT 18/9/2026 — tuyến IC18 đã được phê duyệt dự án.** Chuỗi: CTĐT **1955/QĐ-UBND ngày 19/6/2025** → điều chỉnh CTĐT **2071/QĐ-UBND ngày 15/6/2026** (bản gốc đã đối chiếu 28/9/2026 — ref 41: TMĐT 260.000, địa điểm phường Cam Đường) → **phê duyệt dự án 3382/QĐ-UBND ngày 18/9/2026**, **TMĐT 260.000 triệu đồng** (GPMB 72.012,451 + xây dựng 162.085,719 + QLDA 3.146,406 + tư vấn 7.396,694 + khác 3.702,355 + dự phòng 11.656,375). Con số **210.000 trong bảng này là số KẾ HOẠCH theo QĐ 2390 — giữ nguyên, không sửa**; khi báo cáo nhu cầu vốn phải nêu phần **chênh 50.000 triệu đồng** giữa TMĐT phê duyệt và phân bổ trung hạn. Chi tiết dự án → reference `23` mục D.3.
+
+> 🔄 **CẬP NHẬT 28/9/2026 — tuyến Quốc lộ 4E đã được phê duyệt dự án:** **QĐ 3480/QĐ-UBND ngày 27/9/2026** (KT. Chủ tịch — PCT Phan Trung Bá): nhóm C, giao thông cấp II, dài 1,2 km, 04 làn, Bnền 31 m, TMĐT **130.000 triệu đồng** (đúng bằng CTĐT và phân bổ trung hạn), ngân sách tỉnh, 2026–2028, CĐT Ban QLDA ĐTXD công trình giao thông tỉnh. Tổng TMĐT phê duyệt 02 tuyến: **390.000 triệu đồng**. Chi tiết ref 41 mục A.
 
 > ✅ **GIẢI QUYẾT CỜ ĐỎ ref 19.** CHANGELOG v1.9.0 ghi cờ đỏ: Kế hoạch 134/KH-UBND (26/3/2026) viện dẫn "QĐ số 1955/QĐ-UBND **ngày 19/6/2026**" — sau ngày ban hành KH 3 tháng, nghi lỗi đánh máy. QĐ 2390 (biểu 02.1, dòng 22) ghi **1955/QĐ-UBND ngày 19/06/2025**. Kết luận: **ngày đúng là 19/6/2025**; bản KH 134 ghi 2026 là lỗi đánh máy. Từ nay được viện dẫn QĐ 1955/QĐ-UBND ngày 19/6/2025 (chủ trương đầu tư đường IC18 – CCN Thống Nhất 1).
 

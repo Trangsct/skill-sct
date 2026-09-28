@@ -54,6 +54,22 @@ Quy tắc hành văn: dùng đúng tên "CCN Yên Hợp" và "CCN Yên Hợp 1".
 - QĐ 2463/QĐ-UBND ngày 16/7/2026 chấp thuận chủ trương đầu tư 482,6 ha ghi địa điểm gồm "Xã Võ Lao và xã Tằng Loỏng".
 - Khi viện dẫn phải ghi đúng nguồn: nói theo quy hoạch thì chỉ xã Võ Lao; nói theo dự án đã chấp thuận CTĐT thì hai xã. Không gán địa danh hai xã cho QĐ 525. Xem ref 13, 15.
 
+## 9. CCN Mông Sơn và CCN Yên Hợp 2 đã có Quyết định thành lập (chốt 24/9/2026)
+
+- QĐ 3426/QĐ-UBND ngày 23/9/2026 thành lập CCN Mông Sơn (xã Bảo Ái, 50 ha, CĐT Công ty CP Đầu tư xây dựng hạ tầng CRC); QĐ 3427/QĐ-UBND ngày 23/9/2026 thành lập CCN Yên Hợp 2 (xã Xuân Ái, 75 ha, CĐT Công ty CP PH GREEN, tiến độ 23 tháng).
+- Từ 23/9/2026 hai cụm ở bậc 10 (ref 39): KHÔNG viết "đang trình", "chờ ban hành Quyết định thành lập", "dự kiến thành lập"; toàn tỉnh có 25 CCN đã thành lập hoặc có QHCT (23 cũ + 02 mới), 09 cụm do doanh nghiệp làm CĐT hạ tầng. Sở đã có CV 6020, 6021/SCT-CN ngày 25/9/2026 triển khai. Mông Sơn chốt khởi công trên mặt bằng đợt 1 trước 31/12/2026 (chốt 25/9). Xem ref 41.
+
+## 10. Đường kết nối CCN Thống Nhất 1: cả hai tuyến đã được phê duyệt dự án (chốt 28/9/2026)
+
+- Tuyến nút giao IC18: CTĐT 1955/QĐ-UBND ngày 19/6/2025 → điều chỉnh CTĐT 2071/QĐ-UBND ngày 15/6/2026 (TMĐT 260.000 triệu đồng, địa điểm phường Cam Đường — bản gốc đã đối chiếu) → phê duyệt dự án 3382/QĐ-UBND ngày 18/9/2026.
+- Tuyến Quốc lộ 4E: CTĐT 1693/QĐ-UBND ngày 15/5/2026 → phê duyệt dự án 3480/QĐ-UBND ngày 27/9/2026 (1,2 km, 130.000 triệu đồng, 2026–2028, CĐT Ban QLDA ĐTXD công trình giao thông tỉnh).
+- Từ 27/9/2026 KHÔNG viết "tuyến từ đường 4E chưa được phê duyệt chủ trương đầu tư" (câu này chỉ đúng đến 14/5/2026 và còn nằm trong Báo cáo VP UBND tỉnh 6/2026, Báo cáo Sở 07/7/2026 — lịch sử). Việc còn lại của cả hai tuyến là lựa chọn nhà thầu, khởi công; mốc "hoàn thành trước tháng 6/2027" của IC18 là định hướng chỉ đạo, quyết định ghi 2026–2028.
+
+## 11. Cách đếm CCN chưa có Quyết định thành lập (chốt 28/9/2026)
+
+- Excel Phòng 28/9/2026: 10 cụm cấp xã quản lý chưa có QĐ thành lập theo quy định hiện hành = 08 cụm phải hoàn thiện thủ tục trước 31/12/2026 theo CV 8854/UBND-KT ngày 28/8/2026 (Âu Lâu, Báo Đáp, Hưng Khánh, Thịnh Hưng, Sơn Thịnh, Yên Thế, Bắc Văn Yên, Đông An; UBND xã làm CĐT hạ tầng) + 02 cụm thuộc diện đưa ra khỏi quy hoạch, không làm thủ tục (Đầm Hồng, Tây Cầu Mậu A). Khi viết "08 cụm" phải kèm "vốn ngân sách nhà nước, đang lập hồ sơ thành lập"; khi viết "10 cụm" phải kèm "chưa có quyết định thành lập theo quy định hiện hành".
+- Tỷ lệ lấp đầy bình quân CCN dùng số của Phòng: 29,02% (188,75/650,32 ha, 23 cụm hiện hữu, 28/9/2026); không dùng "trên 30%" của Báo cáo VP UBND tỉnh 6/2026.
+
 ## 6. Nguyên tắc dùng sổ này
 
 - Sổ chỉ chứa dữ kiện đã chốt. Tỷ lệ lấp đầy, nhà đầu tư, tiến độ là dữ liệu động: lấy từ kỳ cập nhật mới nhất (ref 30 hoặc kỳ sau) hoặc hỏi người dùng, không lấy số cũ trong sổ này để viết văn bản mới.

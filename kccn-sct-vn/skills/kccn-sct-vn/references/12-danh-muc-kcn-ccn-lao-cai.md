@@ -58,9 +58,9 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 | Minh Quân | Phường Âu Lâu | Điều chỉnh theo QĐ 2364 |
 | Yên Hợp | **Xã Xuân Ái** | Hiện hữu 12 ha (QĐ thành lập 2201/QĐ-UBND 06/11/2024; QĐ 525 giảm 75→12 ha) |
 | Yên Hợp 1 | **Xã Xuân Ái** | 63 ha — DỰ ÁN ĐỘC LẬP với Yên Hợp (không "giai đoạn I/II") |
-| Yên Hợp 2 (PH Green) | **Xã Xuân Ái** | 75 ha |
+| Yên Hợp 2 (PH Green) | **Xã Xuân Ái** | 75 ha — **ĐÃ THÀNH LẬP: QĐ 3427/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Tân Nguyên | **Xã Bảo Ái** | 55 ha (Công ty 186 Yên Bái) |
-| Mông Sơn | **Xã Bảo Ái** | 50 ha (CRC) |
+| Mông Sơn | **Xã Bảo Ái** | 50 ha (CRC) — **ĐÃ THÀNH LẬP: QĐ 3426/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Âu Lâu | Phường Âu Lâu | Tăng 50→75 ha |
 | Đầm Hồng | Các phường Yên Bái, Văn Phú | Rút khỏi quy hoạch (di dời) |
 | Y Can | **Xã Quy Mông** | 75 ha (Công ty Tây Bắc) — KHÁC vị trí KCN Y Can |

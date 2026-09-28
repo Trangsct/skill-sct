@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [1.44.0] - 28/9/2026 — Kỳ cập nhật 28/9/2026: Mông Sơn, Yên Hợp 2 đã có Quyết định thành lập; tuyến Quốc lộ 4E phê duyệt dự án; bản gốc QĐ 2071; bộ tài liệu họp Chủ tịch UBND tỉnh về CCN
+
+- **Nguồn:** Báo cáo 5945/BC-SCT ngày 23/9/2026 (bản ban hành); bản gốc QĐ 2071/QĐ-UBND ngày 15/6/2026 và QĐ 3480/QĐ-UBND ngày 27/9/2026 (đọc bằng `extract_metadata.py`); bản scan Thông báo khởi công 43/TBKC-LCI ngày 25/4/2026; Excel Phòng 28/9/2026; sổ văn bản đi Data360X 09–28/9/2026; hồ sơ họp 19/6/2026 của VP UBND tỉnh; các mốc Bạn chốt 17–25/9/2026.
+- **`references/41-ky-cap-nhat-28-9-2026-hop-chu-tich-ccn.md` (mới):** bảng văn bản mới (QĐ 3426, 3427 thành lập Mông Sơn, Yên Hợp 2; CV 6020, 6021 triển khai; TTr 5957 lập Hội đồng Tân Hợp; TTr 5723 trình thành lập Xuân Ái; GP 5913 nổ mìn đường trục chính Phú Thịnh; CV 5828, 5831, 6065 khu TĐC phục vụ CCN; QĐ 2071 — TMĐT IC18 260 tỷ, địa điểm phường Cam Đường; QĐ 3480 — tuyến 4E 1,2 km, 130 tỷ, 2026–2028; TB khởi công 43/TBKC-LCI — Thống Nhất 1 khởi công 07/5, 11 tháng); trạng thái 25 CCN theo bậc ref 39 (09 DN làm CĐT; Xuân Ái bậc 9; Tân Hợp bậc 5; Phú Thịnh 6 lập lại theo CCN công nghệ cao; Cam Đường 1 đủ 40 ha phân kỳ, kho hóa chất Long Biên là dự án riêng ngoài cụm; 08 CCN vốn NSNN do UBND xã làm CĐT); số liệu lấp đầy 29,02%, 234 dự án, lấp đầy từng cụm; 08 quy ước viết bộ tài liệu họp Chủ tịch; việc theo dõi kỳ sau.
+- **Rà soát, loại thông tin cũ:** ref 22 (tuyến 4E đã phê duyệt dự án; QĐ 2071 có bản gốc); ref 23 (bảng văn bản thêm QĐ 2071 người ký, QĐ 3480, TB khởi công 43; mục D.2 viết theo bản gốc; **gỡ cờ đỏ địa danh** — phường Cam Đường là địa điểm tuyến đường IC18 theo QĐ 2071, CCN vẫn ở xã Gia Phú theo QĐ 3480); ref 12 (Mông Sơn, Yên Hợp 2 ghi ĐÃ THÀNH LẬP); ref 30 (đầu file ghi rõ phần đã bị thay thế; dòng Zalo Mông Sơn đánh dấu lịch sử); ref 31 thêm mục 9 (Mông Sơn, Yên Hợp 2 bậc 10), 10 (hai tuyến đường đã phê duyệt dự án; cấm viết "4E chưa được phê duyệt chủ trương"), 11 (cách đếm 10/08 cụm chưa có QĐ thành lập; lấp đầy 29,02%); ref 39 bậc 10, 11 có mẫu văn bản thật.
+- **SKILL.md:** description viết lại (dưới 1024 ký tự) nêu ref 41 là mới nhất; dòng ref 26, 30, 37 đổi nhãn "MỚI NHẤT" thành lịch sử; thêm dòng ref 41.
+- **check_facts.py:** thêm rule `duong-4e-da-phe-duyet-du-an` và `ccn-mong-son-yen-hop-2-da-thanh-lap`.
+- **`vi-du-thuc-te/`:** thêm 04 file `2026.09.28.*` (Bài phát biểu khai mạc, Chương trình, Kết luận của Chủ tịch UBND tỉnh; Báo cáo của Sở kèm 02 phụ lục) + dòng README.
+- `plugin.json` → 1.44.0.
+
 ## [1.43.1] - 24/9/2026 — NĐ 347/2026 (nghiệm thu PCCC)
 - ref 01 dòng PCCC: NĐ 105, 106 sửa bởi NĐ 347/2026; chủ đầu tư tự nghiệm thu PCCC, không còn văn bản chấp thuận của Công an.
 

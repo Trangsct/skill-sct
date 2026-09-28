@@ -59,7 +59,7 @@ NĐ 281/2026,NĐ,1,5,xp-sct-vn,xp-sct-vn,,,,,,
 NĐ 283/2026,NĐ,2,33,atvsld-sct-vn;xp-sct-vn,atvsld-sct-vn;xp-sct-vn,,10/9/2026,,,,"Xử phạt lao động, ATVSLĐ — chưa có plugin ATVSLĐ riêng"
 NĐ 288/2026,NĐ,1,6,xp-sct-vn,xp-sct-vn,,,,,,
 NĐ 29/2026,NĐ,1,8,bvmt-sct-vn,bvmt-sct-vn;pccc-sct-vn,,,,,,
-NĐ 303/2026,NĐ,3,39,bvmt-sct-vn;kccn-sct-vn;xp-sct-vn,,,15/9/2026,,,,Sửa NĐ 32/2024 về CCN
+NĐ 303/2026,NĐ,3,42,bvmt-sct-vn;kccn-sct-vn;xp-sct-vn,,,15/9/2026,,,,Sửa NĐ 32/2024 về CCN
 NĐ 311/2026,NĐ,2,18,atvsld-sct-vn;xp-sct-vn,xp-sct-vn,06/8/2026,26/9/2026,,,,Sửa NĐ 189/2025
 NĐ 34/2026,NĐ,1,1,kccn-sct-vn,xd-sct-vn,,,,,,
 NĐ 347/2026,NĐ,7,109,dacn-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;sd-vlncn-sct-vn;xd-sct-vn;xp-sct-vn,pccc-sct-vn;xd-sct-vn,08/9/2026,15/9/2026,,,,"Sửa NĐ 169/2025, NĐ 105/2025, NĐ 106/2025, NĐ 282/2025; bãi bỏ Điều 74 NĐ 217/2026; bản gốc pccc-sct-vn/van-ban-goc; khoản 2 Điều 41: một số quy định về phương tiện PCCC hiệu lực cùng Luật sửa đổi"
@@ -288,7 +288,7 @@ TT 8/2025,TT,1,12,bvmt-sct-vn,bvmt-sct-vn;qlks-sct-vn,,,,,,
 TT 9/2025,TT,2,4,tkm-sct-vn;xd-sct-vn,pccc-sct-vn;qlks-sct-vn;xd-sct-vn,,,,,,
 TT 91/2025,TT,1,1,qlks-sct-vn,,,,,,,
 TT 1/2024,TT,1,1,attp-sct-vn,hc-sct-vn,,,,,,
-TT 14/2024,TT,3,32,kccn-sct-vn;vbhc-vn;xp-sct-vn,bvmt-sct-vn;kccn-sct-vn,,,,,,
+TT 14/2024,TT,3,31,kccn-sct-vn;vbhc-vn;xp-sct-vn,bvmt-sct-vn;kccn-sct-vn,,,,,,
 TT 15/2024,TT,2,3,xp-hc-vlncn-sct-vn;xp-sct-vn,kho-vlncn-sct-vn;qlks-sct-vn;sd-vlncn-sct-vn,,,,,,
 TT 19/2024,TT,1,3,hc-sct-vn,bvmt-sct-vn;hc-sct-vn,,,,,,
 TT 23/2024,TT,9,128,hl-vlncn-sct-vn;hnh-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;vbhc-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,hnh-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,,,,,,
@@ -351,6 +351,9 @@ QĐ 4875/QĐ-SCT,QĐ,2,5,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,,
 QĐ 3881/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 3728/QĐ-SCT,QĐ,1,1,hl-vlncn-sct-vn,,,,,,,
 QĐ 3488/QĐ-SCT,QĐ,1,3,sct-laocai-org-vn,,,,,,,
+QĐ 3480/QĐ-UBND,QĐ,1,5,kccn-sct-vn,,,,,,,
+QĐ 3427/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,
+QĐ 3426/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,
 QĐ 3382/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 3380/QĐ-BNNMT,QĐ,1,2,kccn-sct-vn,,,,,,,
 QĐ 3339/QĐ-BNNMT,QĐ,1,1,qlks-sct-vn,,,,,,,
@@ -359,7 +362,7 @@ QĐ 3278/QĐ-BNNMT,QĐ,1,2,qlks-sct-vn,,,,,,,
 QĐ 3226/QĐ-UBND,QĐ,2,4,data360x-sct-vn;kccn-sct-vn,,,,,,,
 QĐ 3118/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
 QĐ 3117/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17302648; chưa kiểm ngày hiệu lực; Về việc thành lập Ban Chỉ đạo phát triển các khu công nghiệp do Ban Quản lý các khu công n
-QĐ 3116/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17302725; chưa kiểm ngày hiệu lực; Quyết định giải thể Hội đồng đánh giá lựa chọn chủ đầu tư hạ tầng CCN Bản Phung.
+QĐ 3116/QĐ-UBND,QĐ,1,4,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17302725; chưa kiểm ngày hiệu lực; Quyết định giải thể Hội đồng đánh giá lựa chọn chủ đầu tư hạ tầng CCN Bản Phung.
 QĐ 3105/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,27/08/2026,,,,,"nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17294551; chưa kiểm ngày hiệu lực; V/v phê duyệt chủ trương đầu tư dự án Khu tái định cư Phú Xuân, xã Gia Phú, tỉnh Lào Cai"
 QĐ 2978/QĐ-UBND,QĐ,1,4,kccn-sct-vn,kccn-sct-vn,21/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17221870; chưa kiểm ngày hiệu lực; Ban hành Quyết định chấp thuận điều chỉnh chủ trương đầu tư Dự án đầu tư xây dựng và kinh 
 QĐ 2872/QĐ-SCT,QĐ,2,4,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,,
@@ -399,7 +402,7 @@ QĐ 2100/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 2084/QĐ-UBND,QĐ,1,1,qlks-sct-vn,,,,,,,
 QĐ 2078/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
 QĐ 2077/QĐ-UBND,QĐ,1,2,kccn-sct-vn,,,,,,,
-QĐ 2071/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
+QĐ 2071/QĐ-UBND,QĐ,1,4,kccn-sct-vn,,,,,,,
 QĐ 2054/QĐ-BCT,QĐ,1,1,hc-sct-vn,,,,,,,
 QĐ 2031/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,
 QĐ 11/2026/QĐ-UBND,QĐ,6,30,kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;tkm-sct-vn;xd-sct-vn;xp-sct-vn,bvmt-sct-vn;qlks-sct-vn;xd-sct-vn,,,,,,
@@ -522,7 +525,7 @@ QĐ 4/QĐ-SCT,QĐ,2,3,sct-laocai-org-vn;sd-vlncn-sct-vn,bvmt-sct-vn;quy-hoach-ct
 QĐ 40/QĐ-HĐTV,QĐ,1,2,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 QĐ 409/QĐ-BXD,QĐ,2,3,tkm-sct-vn;xd-sct-vn,,,,,,,
 QĐ 419/QĐ-TTG,QĐ,1,2,bvmt-sct-vn,bvmt-sct-vn,,,,,,
-QĐ 425/QĐ-BXD,QĐ,1,13,kccn-sct-vn,kccn-sct-vn,,,,,,
+QĐ 425/QĐ-BXD,QĐ,1,12,kccn-sct-vn,kccn-sct-vn,,,,,,
 QĐ 435/QĐ-UBND,QĐ,1,1,sd-vlncn-sct-vn,,,,,,,
 QĐ 45/QĐ-TTG,QĐ,2,3,qlks-sct-vn;quy-hoach-ct-vn,,,,,,,
 QĐ 464/QĐ-BCT,QĐ,1,2,hc-sct-vn,,,,,,,
@@ -589,7 +592,7 @@ NQ 66.13/2026/NQ-CP,NQ,1,2,attp-sct-vn,attp-sct-vn,,,,,,
 NQ 66.16/2026/NQ-CP,NQ,1,6,attp-sct-vn,,,,,,,
 NQ 66.18/2026/NQ-CP,NQ,6,16,attp-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NQ 66.19/2026/NQ-CP,NQ,3,18,bvmt-sct-vn;kccn-sct-vn;qlks-sct-vn,qlks-sct-vn,,,,,,
-NQ 66.25/2026/NQ-CP,NQ,9,40,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;tkm-sct-vn;vbhc-vn;xp-sct-vn,qlks-sct-vn,04/9/2026,15/9/2026 → 28/02/2027,,,,"Chuyển chức năng QLNN địa chất, khoáng sản (Bộ NN&MT, Bộ XD; Sở NN&MT, Sở XD) và KCN (Bộ Tài chính) về Công Thương; cơ chế NQ 206/2025/QH15; bản gốc qlks-sct-vn/van-ban-goc; ref 23"
+NQ 66.25/2026/NQ-CP,NQ,9,39,bvmt-sct-vn;dacn-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;tkm-sct-vn;vbhc-vn;xp-sct-vn,qlks-sct-vn,04/9/2026,15/9/2026 → 28/02/2027,,,,"Chuyển chức năng QLNN địa chất, khoáng sản (Bộ NN&MT, Bộ XD; Sở NN&MT, Sở XD) và KCN (Bộ Tài chính) về Công Thương; cơ chế NQ 206/2025/QH15; bản gốc qlks-sct-vn/van-ban-goc; ref 23"
 NQ 9/2026/NQ-CP,NQ,1,3,attp-sct-vn,bvmt-sct-vn;kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;xd-sct-vn,,,,,,
 NQ 19/2025/NQ-HĐND,NQ,1,2,kccn-sct-vn,qlks-sct-vn,,,,,,
 NQ 2/2025/NQ-CP,NQ,1,1,qlks-sct-vn,kccn-sct-vn;xd-sct-vn,,,,,,

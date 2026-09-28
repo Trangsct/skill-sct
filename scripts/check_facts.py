@@ -43,6 +43,25 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "duong-4e-da-phe-duyet-du-an",
+        # Chốt 28/9/2026: QĐ 3480/QĐ-UBND ngày 27/9/2026 phê duyệt dự án Đường kết nối từ Quốc lộ 4E đến CCN Thống Nhất 1
+        # (CTĐT 1693/QĐ-UBND ngày 15/5/2026). Câu "chưa được phê duyệt chủ trương đầu tư" chỉ còn là lịch sử (báo cáo 6-7/2026).
+        "pattern": r"^(?!.*(?:3480|1693|lịch sử|trước 15/5/2026|đến 14/5/2026|KHÔNG viết|không viết|Không còn|không còn)).*(?:đường|tuyến)[^\n]{0,40}4E[^\n]{0,120}chưa (?:được )?(?:phê duyệt|có) chủ trương",
+        "why": "Tuyến đường từ Quốc lộ 4E đến CCN Thống Nhất 1 đã có chủ trương đầu tư (QĐ 1693/QĐ-UBND ngày 15/5/2026) và phê duyệt dự án (QĐ 3480/QĐ-UBND ngày 27/9/2026, 130 tỷ, 1,2 km, 2026–2028) — kccn-sct-vn ref 41 mục A, ref 22 mục B.",
+        "since": "2026-09-27",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn", "vbhc-vn", "quy-hoach-ct-vn"],
+    },
+    {
+        "id": "ccn-mong-son-yen-hop-2-da-thanh-lap",
+        # Chốt 24/9/2026: QĐ 3426 (Mông Sơn) và 3427/QĐ-UBND (Yên Hợp 2) cùng ngày 23/9/2026. Không còn "chờ/dự kiến ban hành QĐ thành lập".
+        "pattern": r"^(?!.*(?:3426|3427|lịch sử|đã thành lập|ĐÃ THÀNH LẬP|trước 23/9/2026|KHÔNG viết|không viết)).*(?:CCN|[Cc]ụm công nghiệp) (?:Mông Sơn|Yên Hợp 2)[^\n]{0,160}(?:chờ|dự kiến|đang trình)[^\n]{0,40}(?:ban hành )?(?:Quyết định|QĐ) thành lập",
+        "why": "CCN Mông Sơn (QĐ 3426/QĐ-UBND) và CCN Yên Hợp 2 (QĐ 3427/QĐ-UBND) đã được thành lập ngày 23/9/2026 — bậc 10 ref 39; viết theo trạng thái sau thành lập (kế hoạch, đường găng, QHCT, GPMB đợt 1) — kccn-sct-vn ref 41, ref 31 mục 9.",
+        "since": "2026-09-23",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn", "quy-hoach-ct-vn"],
+    },
+    {
         "id": "pccc-nghiem-thu-nd347",
         # Chốt 24/9/2026 (NĐ 347/2026/NĐ-CP ngày 08/9/2026, hiệu lực 15/9/2026 + CV 6501/CAT-PCCC ngày 23/9/2026):
         # bãi bỏ k5 Đ6, Đ10 NĐ 105/2025 và Mẫu PC15-PC17 → CĐT tự nghiệm thu PCCC; không đòi văn bản chấp thuận của Công an.

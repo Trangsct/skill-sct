@@ -4,6 +4,9 @@
 Trình upload plugin của Claude từ chối gói nếu vượt giới hạn:
   - description trong .claude-plugin/plugin.json : tối đa 500 ký tự
   - description trong frontmatter SKILL.md       : tối đa 1024 ký tự
+  - description (cả hai nơi) không được chứa ký tự < hoặc >
+    (vụ 28/9/2026: claude.ai báo "Sync failed" cho cả marketplace vì SKILL.md
+    data360x-sct-vn có "danh-muc-<năm>.json" trong description)
 
     python3 scripts/check_descriptions.py
 """
@@ -15,6 +18,7 @@ import sys
 REPO = pathlib.Path(__file__).resolve().parent.parent
 MAX_PLUGIN_JSON = 500
 MAX_SKILL_MD = 1024
+ANGLE = re.compile(r"[<>]")
 
 
 def read_json_description(path):
@@ -56,11 +60,15 @@ def main():
     problems = []
     for manifest in sorted(REPO.glob("*/.claude-plugin/plugin.json")):
         name = manifest.parents[1].name
-        length = len(read_json_description(manifest))
+        json_description = read_json_description(manifest)
+        length = len(json_description)
         status = "ok  "
         if length > MAX_PLUGIN_JSON:
             status = "VƯỢT"
             problems.append(f"{name}: plugin.json description {length} > {MAX_PLUGIN_JSON}")
+        if ANGLE.search(json_description):
+            status = "VƯỢT"
+            problems.append(f"{name}: plugin.json description chứa ký tự < hoặc >")
 
         skill = REPO / name / "skills" / name / "SKILL.md"
         skill_len = -1
@@ -73,6 +81,14 @@ def main():
                 if skill_len > MAX_SKILL_MD:
                     status = "VƯỢT"
                     problems.append(f"{name}: SKILL.md description {skill_len} > {MAX_SKILL_MD}")
+
+        # Mọi skill trong plugin (không chỉ skill trùng tên plugin): cấm < >
+        for other in sorted((REPO / name / "skills").glob("*/SKILL.md")):
+            other_description = read_skill_description(other) or ""
+            if ANGLE.search(other_description):
+                status = "VƯỢT"
+                rel = other.relative_to(REPO)
+                problems.append(f"{rel}: description chứa ký tự < hoặc > (claude.ai từ chối đồng bộ)")
 
         print(f"{status} {name:24} plugin.json={length:4}  SKILL.md={skill_len:5}")
 

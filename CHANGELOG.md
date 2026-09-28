@@ -1,3 +1,8 @@
+## data360x-sct-vn 1.0.6 — 28/9/2026: sửa lỗi "Sync failed" trên claude.ai
+
+- Description SKILL.md của data360x-sct-vn có `danh-muc-<năm>.json` — ký tự `<` `>` làm claude.ai từ chối đồng bộ marketplace; đổi thành `danh-muc-NĂM.json`.
+- `scripts/check_descriptions.py`: chặn ký tự `<` `>` trong description plugin.json và mọi SKILL.md.
+
 ## kccn-sct-vn 1.44.0 — 28/9/2026
 
 - Kỳ cập nhật 28/9/2026 (ref 41): Mông Sơn, Yên Hợp 2 đã thành lập (QĐ 3426, 3427 ngày 23/9/2026); tuyến Quốc lộ 4E phê duyệt dự án QĐ 3480 ngày 27/9/2026; bản gốc QĐ 2071 (IC18 260 tỷ, gỡ cờ đỏ địa danh); lấp đầy CCN 29,02%; 08 quy ước bộ tài liệu họp Chủ tịch UBND tỉnh; rà lại ref 12, 22, 23, 30, 31, 39; 02 rule check_facts mới; 04 ví dụ thực tế.

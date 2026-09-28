@@ -28,6 +28,8 @@ Thư mục lưu các ví dụ thực tế (case study) đã xử lý, dùng đ�
 | Kỳ cập nhật hằng tuần bộ theo dõi tiến độ + phụ lục thu hút đầu tư + tin Zalo báo cáo GĐ (thứ 6) | **Kỳ 07/8/2026** — 04 file gốc trong thư mục này: theo dõi tiến độ 5 sheet (thêm CCN Tân Hợp); 02 phụ lục thu hút đầu tư KCN (21 danh mục, 5.677,47 ha) và CCN (56 danh mục, 3.002,81 ha) cấu trúc 7 cột theo mẫu Phụ lục dự án năng lượng; nhiệm vụ tuần 10.8-16.8.2026 | reference 26 |
 | Bản Word chuyển thể từ Bảng theo dõi tiến độ (văn xuôi 4 mục I-IV, gửi lãnh đạo Phòng đọc nhanh) | **Báo cáo theo dõi tiến độ CCN, KCN 07/8/2026** — file `2026.08.07. Báo cáo theo dõi tiến độ CCN, KCN (cập nhật đến 07.8.2026).docx` trong thư mục này; thể thức kế thừa bản Nhiệm vụ tuần | reference 26 mục H |
 
+| Bộ tài liệu phục vụ buổi làm việc của **Chủ tịch UBND tỉnh** về tình hình triển khai CCN (Sở chuẩn bị theo phân công tại Giấy mời 312/GM-VPUBND ngày 17/6/2026 của VP UBND tỉnh; dựng lại 28/9/2026 theo hiện trạng mới) | 04 file `2026.09.28.*` trong thư mục này: **Bài phát biểu khai mạc** của Chủ tịch (3 trang, 05 điểm nghẽn, 04 nhóm vấn đề thảo luận); **Chương trình** buổi làm việc (10 mục, nội dung phát biểu từng xã, phường, sở); **Kết luận** của Chủ tịch (05 điểm nghẽn, giao việc 8 đầu mối có mốc thời gian, không giao báo cáo định kỳ); **Báo cáo của Sở** (8 trang + Phụ lục 1 danh sách 25 CCN, Phụ lục 2 tiến độ thành lập mới; GĐ Hiền ký, CN(Trung); dựng trên mẫu Báo cáo 07/7/2026 bằng Chế độ B). Quy ước viết: ref 41 mục D | reference 41 |
+
 ## B. Cách dùng
 
 Khi Bạn cung cấp file ví dụ thực tế (hồ sơ, tờ trình, báo cáo đã ban hành), lưu vào thư mục này theo tên chuẩn `YYYY.MM.DD. [Tên đầy đủ có dấu].[ext]` để tái sử dụng làm Chế độ B (sửa file gốc) trong `vbhc-vn`.

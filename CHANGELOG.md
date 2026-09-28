@@ -1,3 +1,7 @@
+## kccn-sct-vn 1.44.0 — 28/9/2026
+
+- Kỳ cập nhật 28/9/2026 (ref 41): Mông Sơn, Yên Hợp 2 đã thành lập (QĐ 3426, 3427 ngày 23/9/2026); tuyến Quốc lộ 4E phê duyệt dự án QĐ 3480 ngày 27/9/2026; bản gốc QĐ 2071 (IC18 260 tỷ, gỡ cờ đỏ địa danh); lấp đầy CCN 29,02%; 08 quy ước bộ tài liệu họp Chủ tịch UBND tỉnh; rà lại ref 12, 22, 23, 30, 31, 39; 02 rule check_facts mới; 04 ví dụ thực tế.
+
 ## 25/9/2026 — kho-vlncn-sct-vn 1.12.0: ref 03 theo khung 01/7/2026; mẫu 10 hướng dẫn trình tự 3 đối tượng kho
 
 - ref 03: thẩm định BCNCKT tại Sở, thiết kế triển khai do chủ đầu tư thẩm định (Đ41 NĐ 217), năng lực NĐ 212/2026, báo cáo hoàn thành k4 Đ27 NĐ 207; bỏ NĐ 175/2024 và Điều 23 NĐ 06/2021 khỏi hướng dẫn hiện hành.

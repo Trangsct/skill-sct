@@ -73,8 +73,8 @@ Tân Nguyên, Mông Sơn, Yên Hợp 2 (ref 26, 27, 30).
 | 7 | Xin ý kiến thành viên Hội đồng, ban hành tiêu chí chấm điểm | CV .../SCT-CN; TTr .../TTr-SCT; **QĐ .../QĐ-HĐ** của Chủ tịch Hội đồng |
 | 8 | Họp Hội đồng chấm điểm, báo cáo kết quả | GM .../GM-HĐ; biên bản, phiếu chấm; báo cáo kết quả |
 | 9 | Sở thẩm định, trình UBND tỉnh quyết định thành lập cụm | BC .../BC-SCT + TTr .../TTr-SCT |
-| 10 | UBND tỉnh ban hành **Quyết định thành lập CCN**, giao chủ đầu tư | QĐ .../QĐ-UBND |
-| 11 | Sau thành lập: QHCT 1/500, đất đai, môi trường, khởi công | Chuỗi văn bản chuyên ngành, ref 08, 23 |
+| 10 | UBND tỉnh ban hành **Quyết định thành lập CCN**, giao chủ đầu tư | QĐ .../QĐ-UBND (mẫu: QĐ 3426 Mông Sơn, QĐ 3427 Yên Hợp 2 cùng ngày 23/9/2026 — ref 41) |
+| 11 | Sau thành lập: QHCT 1/500, đất đai, môi trường, khởi công | CV .../SCT-CN triển khai QĐ thành lập (mẫu: 6020, 6021/SCT-CN ngày 25/9/2026); chuỗi văn bản chuyên ngành, ref 08, 23 |
 
 Cụm đang ở bậc nào thì chỉ soạn được văn bản của bậc đó hoặc bậc liền sau. Bậc 5 chính là bậc của vụ
 Châu Quế; cụm đã ở bậc 6 nên văn bản bậc 5 không còn chỗ đứng.

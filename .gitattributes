@@ -1,0 +1,61 @@
+# TỰ SINH bởi scripts/export_ignore.py - KHÔNG sửa tay, chạy lại script rồi commit.
+#
+# claude.ai đồng bộ marketplace bằng archive (zip) của kho, trần 512 MB; mỗi plugin 200 MB.
+# Tệp từ 3 MB trở lên được đánh export-ignore: vẫn nằm trong kho (git clone,
+# Claude Code) nhưng không vào gói claude.ai. Vụ 11/9/2026: archive 512,8 MB -> "Sync failed".
+#
+"attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2018.12.26 57.2018.TT.BCT Quy định chi tiết các NĐ về kinh doanh thuốc lá.pdf" export-ignore
+"attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2023.12.28 43.2023.TT.BCT Sửa đổi TT 57.2018 về kinh doanh thuốc lá.pdf" export-ignore
+bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/CTr-104-CTr-TU-30-8-2026-Tinh-uy-Lao-Cai-thuc-hien-KL-75-CTr-31.pdf export-ignore
+bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/CTr-31-CTr-TW-28-7-2026-Bo-Chinh-tri-thuc-hien-KL-75.pdf export-ignore
+hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/2025.11.06-1883.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf export-ignore
+hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/ND-105-2025-PCCC-CNCH.pdf export-ignore
+hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/ND-158-2024-van-tai-duong-bo.docx export-ignore
+hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/NQ-19-2026-NQ-CP.pdf export-ignore
+hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/04-uy-quyen-quy-trinh/QD-1696-QD-UBND-uy-quyen-15-5-2026.pdf export-ignore
+hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/04-uy-quyen-quy-trinh/QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/KH-134-KH-UBND-26-3-2026.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/NQ-26-NQ-TU-05-12-2025.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-16-2026-QD-UBND-Quy-che-CCN-Lao-Cai.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2170-2026-CTDT-KCN-Ban-Qua.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2336-2026-CTDT-KCN-Phu-Xuan.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2390-2026-KH-dau-tu-cong-trung-han-2026-2030.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2463-2026-CTDT-KCN-Vo-Lao.pdf export-ignore
+kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2978-2026-dieu-chinh-CTDT-KCN-Phu-Xuan-1.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/2019.08.30-71.2019.ND.CP-Xu-phat-VPHC-linh-vuc-hoa-chat-va-VLNCN.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/2022.01.31-17.2022.ND.CP-Sua-doi-cac-nghi-dinh-xu-phat-VPHC-linh-vuc-cong-thuong.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/2024.11.15-149.2024.ND.CP-Quy-dinh-chi-tiet-Luat-Quan-ly-vu-khi-VLN-va-CCHT.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/18.6.2026_BB_kiemtra_Kho_VLNCN_Ngoi-Nhu-1A.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/29.5.2026_BBKT_Khomin_Mongsen1.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/DecuongKiemdinh_kem_VB_08.pdf export-ignore
+"kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/ho-so/11.8.2026_BB KTNT kho Dong Tien_KH4826.pdf" export-ignore
+"kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/ho-so/III.5.1a. Năng lực thí nghiệm.pdf" export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/dong-tien-kho-tam-KTCTNT-2026/ho-so/SCT-CN_TB_KQKTNT_KhoMin_Dongtien_BC_50.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/ho-so/07.1_BC-TKS_BaocaoHoanthanh_7.7.2026.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/ho-so/15.7.2026_BB_kiemtra_Kho_VLNCN_ToanKimSon_da_sua_28.7.2026.pdf export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/ho-so/SCT_Thong_bao_KQKTNT_Kho_VLNCN_Hang_Chua_Xay_ND207.pdf export-ignore
+"kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/ho-so/TKS- Biên bản kiểm tra về PCCC- Ngày 10-6-2026.pdf" export-ignore
+kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/vi-du-thuc-te/toan-kim-son-kho-mo-hang-chua-say-2026/ho-so/TKS_Banvehoancong_khomin_hangchuaXay.pdf export-ignore
+pccc-sct-vn/skills/pccc-sct-vn/van-ban-goc/Tai-lieu-giai-phap-nang-cao-PCCC-kem-QD-1074.pdf export-ignore
+qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/BB-13A-BB-DTT72-10-5-2026-thanh-tra-khai-thac-KS-Mong-Son.pdf export-ignore
+qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-28-CV-DDT-04-8-2026-kien-nghi-lan-chiem-ranh-gioi-mo-Dai-Dong-Tien.pdf export-ignore
+qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/NQ-66.25-2026-NQ-CP-04-9-2026-chuyen-QLNN-dia-chat-khoang-san-KCN-ve-Cong-Thuong.pdf export-ignore
+qlks-sct-vn/skills/qlks-sct-vn/vi-du-thuc-te/BC-vi-tri-khoi-luong-thu-hoi-KS-di-kem-che-bien-cao-lanh-Son-Man-28-5-2026.pdf export-ignore
+sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2024.11.15-75.2024.TT.BCA-Tham-quyen-cap-giay-phep-van-chuyen-VLNCN.docx export-ignore
+sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/ND-17-2022-sua-doi-xu-phat.pdf export-ignore
+sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/vi-du-thuc-te/CV-SCT-tham-gia-y-kien-PANM-Xuan-Hoa.pdf export-ignore
+sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/vi-du-thuc-te/CV-SXD-phuc-dap-Dai-Dong-Tien.pdf export-ignore
+sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/vi-du-thuc-te/PANM-cua-DN-cong-trinh-giao-thong-IC14.pdf export-ignore
+tkm-sct-vn/skills/tkm-sct-vn/van-ban-goc/BC-452-BC-TTCP-26-02-2026-thanh-tra-chuyen-de-mo-VLXD.pdf export-ignore
+xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-217-2026-quan-ly-hoat-dong-xay-dung.pdf export-ignore
+xd-sct-vn/skills/xd-sct-vn/van-ban-goc/QD-11-2026-QD-UBND-Lao-Cai-quan-ly-dau-tu-xay-dung.pdf export-ignore
+"xd-sct-vn/skills/xd-sct-vn/vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/ho-so/0. VB TGYK ĐƯỜNG ĐIỆN ÂU LÂU.pdf" export-ignore
+"xd-sct-vn/skills/xd-sct-vn/vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/ho-so/08.2026 Thông báo thẩm định Báo cáo nghiên cứu khả thi 110kV Âu Lâu V2.pdf" export-ignore
+"xd-sct-vn/skills/xd-sct-vn/vi-du-thuc-te/au-lau-110kv-tham-dinh-BCNCKT/ho-so/1699 0. TBKQ TĐ TKCS DUONG DIEN AU LAU SXD.pdf" export-ignore
+xp-hc-vlncn-sct-vn/skills/xp-hc-vlncn-sct-vn/vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/BB-VPHC-Mau-bien-ban-so-01-da-ky.pdf export-ignore
+xp-hc-vlncn-sct-vn/skills/xp-hc-vlncn-sct-vn/vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/QD-2872-quyet-dinh-kiem-tra-Mau-03-da-ban-hanh.pdf export-ignore
+xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/Luat-88-2025-QH15-sua-doi-Luat-XLVPHC_ban-scan-co-dau.pdf export-ignore
+xp-sct-vn/skills/xp-sct-vn/vi-du-thuc-te/KL-45-Viglacera-thanh-tra-tinh/KL-45-KL-TT-05.7.2026-Thanh-tra-tinh-Viglacera.pdf export-ignore
+xp-sct-vn/skills/xp-sct-vn/vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/BB-VPHC-Mau-bien-ban-so-01-da-ky.pdf export-ignore
+xp-sct-vn/skills/xp-sct-vn/vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/BB-kiem-tra-Mau-05-Khi-cong-nghiep-da-ky.pdf export-ignore
+xp-sct-vn/skills/xp-sct-vn/vi-du-thuc-te/bo-ho-so-xu-phat-Khi-cong-nghiep-mau-that/QD-2872-quyet-dinh-kiem-tra-Mau-03-da-ban-hanh.pdf export-ignore

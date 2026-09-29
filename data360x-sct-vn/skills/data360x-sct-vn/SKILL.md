@@ -1,6 +1,6 @@
 ---
 name: data360x-sct-vn
-description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ thống văn bản đi/đến của Sở Công Thương Lào Cai). Kích hoạt khi: cần một văn bản đi/đến của Sở, văn bản của UBND tỉnh/Bộ gửi đến, hồ sơ một CCN/KCN/doanh nghiệp, 'lấy văn bản', 'tìm trên Data360X', 'văn bản mới tuần này', 'có công văn nào về…', 'sai bot', 'gọi bot', 'quét lại', soát dự thảo cần văn bản viện dẫn, cập nhật plugin theo bản tin theo-doi, hoặc bất kỳ việc nào đang thiếu dữ liệu gốc mà Data360X có. 4 động tác: (1) TRA KHO đã gom theo-doi/ ở kho riêng tư vlncn-laocai (danh-muc-NĂM.json, bao-cao/, tệp .md/.pdf); (2) SAI BOT LẤY đúng văn bản theo số ký hiệu/từ khóa (workflow 'Lay van ban theo yeu cau'); (3) QUÉT MỚI cả đi + đến (workflow 'Quet Data360X'); (4) TÌM VĂN BẢN VIỆN DẪN của dự thảo. Chờ kết quả rồi đọc tiếp trong cùng phiên; số/ngày lấy ở đầu tệp, không đọc trong lớp chữ; kho công khai không chép văn bản nội bộ."
+description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ thống văn bản đi/đến của Sở Công Thương Lào Cai). Kích hoạt khi: cần một văn bản đi/đến của Sở, văn bản của UBND tỉnh/Bộ gửi đến, hồ sơ một CCN/KCN/doanh nghiệp, 'lấy văn bản', 'tìm trên Data360X', 'văn bản mới tuần này', 'có công văn nào về…', 'sai bot', 'gọi bot', 'quét lại', soát dự thảo cần văn bản viện dẫn, cập nhật plugin theo bản tin theo-doi, hoặc bất kỳ việc nào đang thiếu dữ liệu gốc mà Data360X có. 4 động tác: (1) TRA KHO đã gom theo-doi/ ở kho riêng tư vlncn-laocai (danh-muc-NĂM.json, bao-cao/, tệp .md/.pdf); (2) SAI BOT LẤY đúng văn bản theo số ký hiệu/từ khóa (workflow 'Lay van ban theo yeu cau'); (3) QUÉT MỚI cả đi + đến (workflow 'Quet Data360X'); (4) TÌM VĂN BẢN VIỆN DẪN của dự thảo. Chờ kết quả rồi đọc tiếp trong cùng phiên; số/ngày lấy ở đầu tệp, không đọc trong lớp chữ; kho công khai không chép văn bản nội bộ. Từ 30/9/2026 ưu tiên ghi yêu cầu vào hàng đợi yeu-cau/ cho tiến trình TAY (ref 05)."
 ---
 
 # data360x-sct-vn — Data360X là cánh tay, chuột và bàn phím của Claude
@@ -31,6 +31,8 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
   và chờ người dùng đăng nhập (ref 03).
 - Bốn workflow trong kho `vlncn-laocai` là bốn "nút bấm" (ref 02). Gọi bằng công cụ GitHub có trong phiên
   (MCP `actions_run_trigger`, `gh workflow run`, hoặc `scripts/goi_bot.py`).
+- **Từ 30/9/2026 ưu tiên hàng đợi TAY** (ref 05): ghi một tệp JSON vào `vlncn-laocai/yeu-cau/`, tiến trình TAY
+  trên laptop/máy bàn tự kéo về làm mỗi 10 phút, không cần runner. Bốn workflow cũ chỉ còn là dự phòng.
 
 ## II. QUY TẮC LÀM VIỆC (đọc trước khi làm bất cứ gì)
 
@@ -50,7 +52,7 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
    bản gốc** sang.
 6. **Không sửa lịch, không tạo workflow mới, không đổi nhãn runner** nếu người dùng không yêu cầu. Cần thêm
    khả năng cho bot thì sửa `bot-data360x.py` ở kho `ccn-laocai` theo quy trình PR.
-7. Bot cần **máy cơ quan đang bật và đã đăng nhập Windows**.
+7. Bot cần **một máy ở Lào Cai đang bật và đã đăng nhập Windows** (laptop hoặc máy bàn); xem `trang-thai/tay.json` (TAY) hoặc `trang-thai/bot-chay.json` để biết máy còn sống không.
 8. **Từ khóa NGẮN** (Bạn chốt 17/9/2026): số văn bản chỉ ghi phần số hoặc số/ký hiệu (`3226/QĐ-UBND`), không
    kèm mã đuôi; tra về một dự án, doanh nghiệp, địa danh thì **chỉ tên riêng** — `Xuân Ái`, `PH Group`, `Châu Quế`
    — không viết "cụm công nghiệp Xuân Ái" vì cổng khớp chuỗi đúng từng chữ, còn văn bản viết CCN/Cụm CN/KCN mỗi
@@ -165,6 +167,7 @@ Trước khi trả lời người dùng, luôn ghi rõ **nguồn**: `số ký hi
 | `references/02-workflows.md` | 4 workflow: tên tệp, inputs, thời gian, nơi trả kết quả, cách gọi bằng MCP / gh / script, cách đọc log lỗi |
 | `references/03-bot-va-may-co-quan.md` | Bot làm gì, không làm gì; runner; phiên đăng nhập; giữ phiên hằng ngày; nhịp tim; các mã thoát; khi bot hỏng thì làm gì |
 | `references/04-kich-ban-mau.md` | 5 kịch bản có thật, từng bước lệnh và câu trả lời mẫu cho người dùng |
+| `references/05-tay-hang-doi.md` | TAY (từ 30/9/2026): tiến trình trên máy tự kéo việc từ `yeu-cau/`; định dạng tệp yêu cầu, 3 cách ghi, chờ và đọc kết quả, nhịp tim `trang-thai/tay.json` |
 
 ## VI. LIÊN KẾT VỚI PLUGIN KHÁC
 

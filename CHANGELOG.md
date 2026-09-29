@@ -1,3 +1,8 @@
+## data360x-sct-vn 1.1.0 — 30/9/2026: hàng đợi TAY thay runner
+
+- Reference 05 mới: tiến trình TAY (`ccn-laocai/tay/tay.py`) trên laptop/máy bàn tự kéo việc từ `vlncn-laocai/yeu-cau/*.json` mỗi 10 phút; định dạng tệp yêu cầu, 3 cách ghi, chờ/đọc kết quả, nhịp tim `trang-thai/tay.json`. `goi_bot.py --qua-tay`. SKILL.md: ưu tiên TAY, bốn workflow runner chỉ còn dự phòng.
+- Bối cảnh: bot ngừng 11 ngày (18–29/9), runner lên laptop hỏng 3 lần, lượt online bị cổng từ chối; Bạn chốt 30/9/2026 xây lại bộ công cụ (`ccn-laocai/bot/KE-HOACH-XAY-LAI.md`).
+
 ## 29/9/2026 — marketplace: sửa lỗi claude.ai ngừng đồng bộ từ 11/9 (archive kho vượt trần 512 MB)
 
 - Nguyên nhân: claude.ai tải archive zip của kho khi đồng bộ, trần 512 MB (docs Cowork → Limits). Archive nén: 503,6 MB ở commit 10/9 (đồng bộ được), 512,8 MB ở commit 11/9 (bvmt 1.5.0 thêm 5 PDF), 520,1 MB ngày 28/9 → "Sync failed", mọi plugin trên claude.ai đứng ở bản 10/9 trong khi kho và CI vẫn bình thường.

@@ -8,6 +8,8 @@
     python3 goi_bot.py giu-phien
     python3 goi_bot.py trang-thai                 # nhịp tim máy + run gần nhất của từng workflow
     thêm --khong-cho để chỉ gửi lệnh, không chờ
+    thêm --qua-tay  để ghi vào HÀNG ĐỢI yeu-cau/ cho tiến trình TAY trên máy (từ 30/9/2026, ref 05)
+                    thay vì sai runner; TAY nhận việc mỗi 10 phút, không cần runner đăng ký.
 
 Cần token GitHub có quyền Actions: write + Contents: read trên kho Trangsct/vlncn-laocai, đặt ở
 GITHUB_TOKEN / GH_TOKEN / BOT_GITHUB_TOKEN. Trong phiên Claude Code có MCP GitHub thì gọi thẳng
@@ -21,10 +23,11 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 REPO = "Trangsct/vlncn-laocai"
 WF = {"lay": "lay-van-ban.yml", "quet": "quet-tren-may.yml", "tim": "tim-van-ban.yml", "giu-phien": "giu-phien.yml"}
+WF_TAY = "yeu-cau.yml"      # ghi tệp yeu-cau/<...>.json; TAY (ccn-laocai/tay/tay.py) trên máy tự kéo về làm
 CHO_TOI_DA_PHUT = 40
 
 
@@ -75,6 +78,35 @@ def cho(wf, sau_luc):
     return None
 
 
+def cho_tay(loai, sau_luc_vn):
+    """Chờ tệp yeu-cau/*.json (loai khớp, tạo sau mốc) chuyển sang xong/loi. TAY kéo việc mỗi 10 phút."""
+    het = time.time() + CHO_TOI_DA_PHUT * 60
+    tep = None
+    while time.time() < het:
+        ds = gh("GET", f"repos/{REPO}/contents/yeu-cau?ref=main") or []
+        ung = []
+        for x in ds:
+            if x.get("type") != "file" or not x["name"].endswith(".json"):
+                continue
+            try:
+                yc = json.loads(doc_tep(x["path"]))
+            except Exception:
+                continue
+            if yc.get("loai") == loai and (yc.get("tao_luc") or "") >= sau_luc_vn:
+                ung.append((x["path"], yc))
+        if ung:
+            tep, yc = sorted(ung)[-1]
+            tt = yc.get("trang_thai", "cho")
+            print(f"  {tep}: {tt}" + (f" trên {yc.get('may')}" if yc.get("may") else "") + (f" - {yc.get('tom_tat')}" if yc.get("tom_tat") else ""))
+            if tt in ("xong", "loi"):
+                return yc
+        else:
+            print("  chưa thấy tệp yêu cầu (workflow yeu-cau.yml đang ghi)...")
+        time.sleep(120)
+    print("Quá thời gian chờ: TAY có thể chưa chạy trên máy nào (xem trang-thai/tay.json).")
+    return None
+
+
 def doc_tep(duong):
     d = gh("GET", f"repos/{REPO}/contents/{duong}?ref=main")
     return base64.b64decode(d["content"]).decode("utf-8") if d.get("content") else ""
@@ -96,6 +128,7 @@ def main():
     ap.add_argument("--ten", default="", help="(lay) tên thư mục kết quả")
     ap.add_argument("--ho-so", help="(tim) tên thư mục trong du-thao/")
     ap.add_argument("--khong-cho", action="store_true")
+    ap.add_argument("--qua-tay", action="store_true", help="ghi vào hàng đợi yeu-cau/ cho TAY thay vì sai runner")
     a = ap.parse_args()
 
     if a.viec == "trang-thai":
@@ -105,6 +138,12 @@ def main():
                   + (f", lỗi: {nt.get('loi')}" if nt.get("loi") else ""))
         except SystemExit:
             print("Chưa có nhịp tim.")
+        try:
+            tay = json.loads(doc_tep("trang-thai/tay.json"))
+            print(f"TAY: {tay.get('may')} ({tay.get('loai_may')}, {tay.get('mang')}) lúc {tay.get('luc')}, "
+                  f"giữ phiên {tay.get('giu_phien_luc')}, quét {tay.get('quet_luc')}, bản {tay.get('phien_ban')}")
+        except SystemExit:
+            print("TAY: chưa có nhịp tim (chưa cài trên máy nào).")
         for k, wf in WF.items():
             r = run_moi_nhat(wf)
             print(f"{k:10} {wf:22} " + (f"#{r['run_number']} {r['status']}/{r.get('conclusion')} lúc {r['created_at']}" if r else "chưa chạy lần nào"))
@@ -121,6 +160,21 @@ def main():
         if not a.ho_so:
             sys.exit("tim cần --ho-so")
         inputs = {"ho_so": a.ho_so}
+
+    if a.qua_tay:
+        yc_in = {"loai": a.viec, "yeu_cau": a.tim or a.ho_so or "", "ngay": a.ngay or "", "ten": a.ten}
+        vn = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%dT%H:%M")
+        gh("POST", f"repos/{REPO}/actions/workflows/{WF_TAY}/dispatches", {"ref": "main", "inputs": yc_in})
+        print(f"Đã ghi yêu cầu cho TAY: {json.dumps(yc_in, ensure_ascii=False)}")
+        if a.khong_cho:
+            return 0
+        time.sleep(60)
+        yc = cho_tay(a.viec, vn)
+        if not yc or yc.get("trang_thai") != "xong":
+            return 1
+        if a.viec == "lay" and yc.get("luu"):
+            print(f"\n=== {yc['luu']}/README.md ===\n" + doc_tep(f"{yc['luu']}/README.md"))
+        return 0
 
     wf = WF[a.viec]
     truoc = run_moi_nhat(wf)

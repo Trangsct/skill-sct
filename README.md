@@ -87,7 +87,7 @@ Ba nút thắt, phải thông cả ba:
 
    Bật một lần cho đỡ phải nhớ: `/plugin` → tab **Marketplaces** → chọn `skill-sct` → **Enable auto-update**. Sau khi bật, Claude Code kiểm tra sau lúc khởi động phiên với độ trễ ngẫu nhiên tới 10 phút, và phiên đang chạy vẫn dùng bản cũ cho tới khi `/reload-plugins`.
 
-   Trên claude.ai: Settings → Plugins → mở marketplace `skill-sct` và bấm làm mới; nếu vẫn không đổi thì gỡ marketplace rồi Add lại (gỡ marketplace sẽ gỡ theo các plugin đã cài từ nó).
+   Trên claude.ai: marketplace thêm từ GitHub **tự đồng bộ mỗi khi push/merge vào `main`** (tải archive zip của kho qua GitHub App); bấm **Re-sync** trên marketplace để chạy tay. Nếu báo "Sync failed" thì đọc thông báo lỗi ngay trên marketplace; nguyên nhân đã gặp: description có ký tự `<` `>` (28/9/2026) và **archive kho vượt trần 512 MB** (11/9/2026 → mọi plugin đứng ở bản 10/9). Từ 29/9/2026 tệp ≥ 3 MB được `export-ignore` bằng `scripts/export_ignore.py`, xem CLAUDE.md. Gỡ marketplace rồi Add lại chỉ là bước cuối (gỡ marketplace sẽ gỡ theo các plugin đã cài từ nó).
 
 ## Xem lại lịch sử / so sánh
 
@@ -119,3 +119,9 @@ Hai script:
 Điều kiện: repo bật **Settings → Actions → General → Workflow permissions → Read and write permissions** thì bước commit ngược mới chạy được.
 
 Lưu ý vẫn còn: marketplace đã cài trên claude.ai không tự nạp **entry plugin mới**. Nâng version của plugin đã có thì cập nhật được; thêm plugin mới vào catalog thì vẫn phải Remove → Add lại marketplace.
+
+## Archive claude.ai dưới 512 MB (từ 29/9/2026)
+
+claude.ai tải archive (zip) của cả kho khi đồng bộ, trần 512 MB nén; mỗi plugin ≤ 200 MB. Kho chứa ~440 MB PDF gốc nên
+`.gitattributes` (tự sinh bởi `python3 scripts/export_ignore.py`) đánh `export-ignore` cho mọi tệp ≥ 3 MB: tệp vẫn ở trên
+GitHub và trong git clone, nhưng không vào gói claude.ai. `check_descriptions.py` (CI) gọi `export_ignore.py --check`.

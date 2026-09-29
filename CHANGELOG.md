@@ -1,3 +1,10 @@
+## 29/9/2026 — marketplace: sửa lỗi claude.ai ngừng đồng bộ từ 11/9 (archive kho vượt trần 512 MB)
+
+- Nguyên nhân: claude.ai tải archive zip của kho khi đồng bộ, trần 512 MB (docs Cowork → Limits). Archive nén: 503,6 MB ở commit 10/9 (đồng bộ được), 512,8 MB ở commit 11/9 (bvmt 1.5.0 thêm 5 PDF), 520,1 MB ngày 28/9 → "Sync failed", mọi plugin trên claude.ai đứng ở bản 10/9 trong khi kho và CI vẫn bình thường.
+- Sửa: `scripts/export_ignore.py` (mới) sinh `.gitattributes` đánh `export-ignore` cho 55 tệp ≥ 3 MB → archive còn 207 MB; tệp vẫn nằm trong kho cho git clone / Claude Code. `check_descriptions.py` gọi thêm `export_ignore.py --check` (CI đỏ nếu `.gitattributes` lệch hoặc archive dự tính > 400 MB, plugin > 150 MB).
+- CLAUDE.md, README: ghi cơ chế đồng bộ của claude.ai (tự chạy khi push/merge vào main, nút Re-sync) và quy tắc kèm bản trích chữ cho văn bản gốc nặng.
+- Không đổi nội dung hay version plugin nào.
+
 ## data360x-sct-vn 1.0.6 — 28/9/2026: sửa lỗi "Sync failed" trên claude.ai
 
 - Description SKILL.md của data360x-sct-vn có `danh-muc-<năm>.json` — ký tự `<` `>` làm claude.ai từ chối đồng bộ marketplace; đổi thành `danh-muc-NĂM.json`.

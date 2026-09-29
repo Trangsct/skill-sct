@@ -111,6 +111,16 @@ def _run_check_facts() -> int:
     return subprocess.run([sys.executable, str(here / "check_facts.py")]).returncode
 
 
+def _run_export_ignore() -> int:
+    """Archive của kho phải dưới trần 512 MB của claude.ai (vụ 11/9/2026: 512,8 MB -> "Sync failed",
+    mọi plugin trên claude.ai đứng ở bản 10/9). export_ignore.py --check đỏ nếu .gitattributes
+    thiếu tệp nặng hoặc archive dự tính vượt mức cảnh báo."""
+    import subprocess
+    here = pathlib.Path(__file__).resolve().parent
+    print("\n=== scripts/export_ignore.py --check (archive claude.ai dưới trần 512 MB) ===")
+    return subprocess.run([sys.executable, str(here / "export_ignore.py"), "--check"]).returncode
+
+
 def _run_check_registry() -> None:
     """Sổ đăng ký văn bản pháp luật: chỉ cảnh báo dẫn văn bản đã bị thay thế (không chặn CI)."""
     import subprocess
@@ -122,5 +132,6 @@ def _run_check_registry() -> None:
 if __name__ == "__main__":
     rc = main()
     rc_facts = _run_check_facts()
+    rc_archive = _run_export_ignore()
     _run_check_registry()
-    sys.exit(rc or rc_facts)
+    sys.exit(rc or rc_facts or rc_archive)

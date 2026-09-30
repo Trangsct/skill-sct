@@ -328,6 +328,17 @@ RULES = [
         "since": "2026-09-14",
         "level": "FAIL",
     },
+    {
+        "id": "kim-thanh-tham-tra-2021-88-bctt",
+        # Chốt 30/9/2026: thiết kế BVTC 2021 mỏ chì - kẽm Cao Phạ (Cty CP Kim Thành) do Cty TNHH tư vấn và đầu tư
+        # Sơn Thái lập, thẩm tra tại Báo cáo 88/BCTT-AH ngày 06/5/2021, Sở Công Thương Yên Bái thông báo thẩm định
+        # tại VB 897/SCT-KTATMT ngày 18/5/2021. Số "28/BCTT-AH" là đọc nhầm.
+        "pattern": r"^(?!.*(88/BCTT|lịch sử|sai|nhầm)).*\b28/BCTT-AH",
+        "why": "Thẩm tra thiết kế 2021 mỏ chì - kẽm Cao Phạ (Kim Thành) là Báo cáo 88/BCTT-AH ngày 06/5/2021, không phải 28/BCTT-AH; khi viện dẫn nên dẫn thẳng VB 897/SCT-KTATMT ngày 18/5/2021 của Sở Công Thương Yên Bái (sd-vlncn-sct-vn anti-error 37e).",
+        "since": "2026-09-30",
+        "level": "FAIL",
+        "only": ["sd-vlncn-sct-vn"],
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

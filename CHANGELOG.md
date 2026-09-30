@@ -1,3 +1,10 @@
+## sd-vlncn-sct-vn 2026.9.30.1 — 30/9/2026: PANM bản đầy đủ có bìa, đường kẻ quốc hiệu; kíp theo thiết kế đã thẩm định (Kim Thành)
+
+- Anti-error 37 (references/11): PANM giao doanh nghiệp phải đầy đủ, dài theo Phụ lục VII TT 23/2024; bìa viền kép, đường kẻ Straight Connector dưới tên DN và tiêu ngữ (gạch ngang dài), đánh số trang từ trang nội dung; kíp tính theo chỉ tiêu thiết kế đã thẩm định, không tự dựng tỷ lệ kíp/kg; bỏ câu đối chiếu thừa dễ làm DN bị bắt lỗi; viện dẫn thiết kế bằng văn bản thẩm định của Sở.
+- mau-van-ban/22: thêm mục "Trình bày bắt buộc khi xuất PANM cho doanh nghiệp"; references/07 mục K: sửa chuỗi thiết kế 2021 (Sơn Thái, 88/BCTT-AH, VB 897/SCT-KTATMT ngày 18/5/2021), thêm giai đoạn 2.
+- Ví dụ thực tế: script dựng PANM Kim Thành và bản .docx đầy đủ 42 trang (57.115 kíp/năm, 40.480 kg thuốc nổ/năm).
+- scripts/check_facts.py: rule `kim-thanh-tham-tra-2021-88-bctt`.
+
 ## data360x-sct-vn 1.1.0 — 30/9/2026: hàng đợi TAY thay runner
 
 - Reference 05 mới: tiến trình TAY (`ccn-laocai/tay/tay.py`) trên laptop/máy bàn tự kéo việc từ `vlncn-laocai/yeu-cau/*.json` mỗi 10 phút; định dạng tệp yêu cầu, 3 cách ghi, chờ/đọc kết quả, nhịp tim `trang-thai/tay.json`. `goi_bot.py --qua-tay`. SKILL.md: ưu tiên TAY, bốn workflow runner chỉ còn dự phòng.

@@ -43,6 +43,25 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ccn-yen-the-lap-day-59-5",
+        # Bạn chốt 01/10/2026: lấy số liệu theo xã (mới hơn) — BC 590/BC-UBND ngày 29/9/2026 của UBND xã Lục Yên:
+        # 05 DN được giao/cho thuê 23,78/39,97 ha = 59,5%. Số 40,24% (Excel Phòng 28/9/2026) chỉ còn là lịch sử.
+        "pattern": r"^(?!.*(?:59,5|lịch sử|ref 42|trước 01/10/2026)).*Yên Thế[^\n]{0,60}40,24",
+        "why": "Lấp đầy CCN Yên Thế từ 01/10/2026 là 59,5% (23,78/39,97 ha, BC 590/BC-UBND ngày 29/9/2026 của UBND xã Lục Yên) — kccn-sct-vn ref 42 mục C.1, ref 31 mục 12.",
+        "since": "2026-10-01",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
+        "id": "ccn-hung-khanh-lap-day-32-75",
+        # Bạn chốt 01/10/2026: BC 388/BC-UBND ngày 29/9/2026 của UBND xã Hưng Khánh — 6,55/20 ha = 32,75% (thay 29% và 49,3%).
+        "pattern": r"^(?!.*(?:32,75|lịch sử|ref 42|trước 01/10/2026)).*Hưng Khánh[^\n]{0,40}(?:\b29(?:,0)? ?%|\b29;|49,3)",
+        "why": "Lấp đầy CCN Hưng Khánh từ 01/10/2026 là 32,75% (6,55/20 ha, BC 388/BC-UBND ngày 29/9/2026 của UBND xã Hưng Khánh) — kccn-sct-vn ref 42 mục C.5.",
+        "since": "2026-10-01",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
         "id": "ccn-phu-thinh-2-chua-co-qd-thue-dat",
         # Chốt 01/10/2026 theo BC 30/BC-THDA ngày 29/9/2026 của Công ty TNHH Lâm nghiệp 888 Yên Bái: "37 ha" là diện tích
         # đơn xin thuê đất GĐ1 (373.782,8 m², nộp 25/11/2025), CHƯA có quyết định cho thuê đất (hạn CĐT tự đặt 15/11/2026).
@@ -55,11 +74,11 @@ RULES = [
     {
         "id": "ccn-y-can-khoi-cong-11-2026",
         # 01/10/2026: BC 37/2026/TB-BC ngày 29/9/2026 của Công ty CP Luyện kim hóa chất Tây Bắc — giao đất 10/2026, dự kiến
-        # khởi công 11/2026 (mốc 10/2026 trong dự thảo kết luận của Chủ tịch 28/9 chưa được Bạn chốt lại → WARN, không FAIL).
+        # khởi công 11/2026 Bạn chốt 01/10/2026 lấy theo CĐT (thông tin mới hơn) → FAIL.
         "pattern": r"^(?!.*(?:11/2026|ref 42|lịch sử)).*Y Can[^\n]{0,120}khởi công[^\n]{0,30}10/2026",
         "why": "Chủ đầu tư CCN Y Can báo cáo 29/9/2026: làm thủ tục giao đất trong 10/2026, dự kiến khởi công 11/2026 — ghi kèm mốc này (kccn-sct-vn ref 42 mục B.2, C.11).",
         "since": "2026-09-29",
-        "level": "WARN",
+        "level": "FAIL",
         "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
     },
     {

@@ -1,3 +1,8 @@
+## kccn-sct-vn 1.45.1 — 01/10/2026: Bạn chốt lấy số liệu theo báo cáo của xã, chủ đầu tư (mới hơn)
+
+- Ref 42 mục C đã chốt: Yên Thế lấp đầy 59,5%, 05 DN; Hưng Khánh 32,75%; Bắc Văn Yên theo danh sách xã; Y Can khởi công dự kiến 11/2026; lấp đầy bình quân 23 cụm tính lại 30,49%. Ref 31 mục 12 mới; ref 41 đánh dấu số cũ là lịch sử.
+- check_facts: `ccn-yen-the-lap-day-59-5`, `ccn-hung-khanh-lap-day-32-75` (FAIL); `ccn-y-can-khoi-cong-11-2026` lên FAIL.
+
 ## kccn-sct-vn 1.45.0 — 01/10/2026: báo cáo của UBND cấp xã và chủ đầu tư hạ tầng theo CV 6059/SCT-CN ngày 28/9/2026
 
 - Reference 42 mới: 07 báo cáo (Bắc Duyên Hải; phường Văn Phú — Phú Thịnh 1, 2, 3; xã Lục Yên — Yên Thế; xã Đông Cuông — Bắc Văn Yên, Đông An, An Bình; xã Hưng Khánh; Công ty 888 — Phú Thịnh 2; Công ty Tây Bắc — Y Can): số liệu GPMB, doanh nghiệp, hạ tầng, kiến nghị; bảng 12 điểm vênh chờ chốt.

@@ -40,10 +40,10 @@ Tổng: **25 CCN đã thành lập hoặc có QHCT** = 23 cụm cũ (903,78 ha) 
 
 ## C. SỐ LIỆU LẤP ĐẦY, DỰ ÁN THỨ CẤP (Excel Phòng 28/9/2026 — sheet "PL 1.Hiện trạng")
 
-- 23 cụm hiện hữu: đất công nghiệp **650,32 ha**; đã cho thuê **188,75 ha**; tỷ lệ lấp đầy bình quân **29,02%** (= 188,749/650,324). Số này thay cho "trên 30%" của Báo cáo VP UBND tỉnh 6/2026 và "28,81%" (187,39 ha) của Báo cáo Sở 07/7/2026.
+- 23 cụm hiện hữu: đất công nghiệp **650,32 ha**; đã cho thuê **188,75 ha**; tỷ lệ lấp đầy bình quân **29,02%** (= 188,749/650,324). Số này thay cho "trên 30%" của Báo cáo VP UBND tỉnh 6/2026 và "28,81%" (187,39 ha) của Báo cáo Sở 07/7/2026. **Từ 01/10/2026 áp số xã cho Yên Thế, Hưng Khánh: 30,49% (203,76/668,31 ha) — ref 42, mục "Hệ quả của mục C".**
 - Dự án thứ cấp: **234** (199 hoạt động; 18 đang triển khai; 17 dừng). 03 dự án đề nghị thu hồi: Hoàng Đạo, Đồng Tiến (Tây Cầu Mậu A); Gold Dragon (Thịnh Hưng). Sơn Thịnh: 02 dự án lớn tạm dừng thi công (đa kim loại màu Yên Bái; nghiền thạch anh Thạch Sơn).
 - Vốn đã đầu tư hạ tầng 23 cụm: **332,01 tỷ đồng**.
-- Lấp đầy từng cụm (%): Đầm Hồng 100; Âu Lâu **91,19** (28,45/31,20 ha — bản 6/2026 ghi 86,83); Báo Đáp 23,29; Hưng Khánh 29; Thịnh Hưng 87,75; Sơn Thịnh 37,88; Yên Thế 40,24; Bắc Văn Yên 88,05; Tây Cầu Mậu A 45,55; Đông An 48,35; Yên Hợp 78,87; Bắc Duyên Hải, Đông Phố Mới, Sơn Mãn 100; Phố Ràng 30,59; Khánh Yên Thượng 35; 07 cụm DN làm CĐT: 0.
+- Lấp đầy từng cụm (%): Đầm Hồng 100; Âu Lâu **91,19** (28,45/31,20 ha — bản 6/2026 ghi 86,83); Báo Đáp 23,29; Hưng Khánh 29 (lịch sử — Bạn chốt 01/10/2026 lấy 32,75% theo xã, ref 42 C.5); Thịnh Hưng 87,75; Sơn Thịnh 37,88; Yên Thế 40,24 (lịch sử — Bạn chốt 01/10/2026 lấy 59,5% theo xã, ref 42 C.1); Bắc Văn Yên 88,05; Tây Cầu Mậu A 45,55; Đông An 48,35; Yên Hợp 78,87; Bắc Duyên Hải, Đông Phố Mới, Sơn Mãn 100; Phố Ràng 30,59; Khánh Yên Thượng 35; 07 cụm DN làm CĐT: 0.
 - ⚠️ Excel sheet "hiện trạng" ghi địa điểm Tây Cầu Mậu A là "xã Xuân Ái" — **sai, đúng là xã Mậu A** (sheet PL 1 ghi đúng).
 
 ## D. ĐIỂM NGHẼN VÀ PHÂN CÔNG ĐÃ CHỐT TRONG BỘ TÀI LIỆU PHỤC VỤ CHỦ TỊCH (28/9/2026)
@@ -56,7 +56,7 @@ Người dùng chốt cách viết cho Bài phát biểu khai mạc, Chương tr
 4. Cam Đường 1: "lập hồ sơ theo đúng quy mô 40 ha trong quy hoạch, phân kỳ đầu tư thành các giai đoạn phù hợp".
 5. Số dự án đang hoạt động trong bài phát biểu viết "khoảng 200", không ghi 199.
 6. Lấp đầy cao nêu Bắc Văn Yên, Thịnh Hưng, Yên Hợp — **không nêu Đầm Hồng, Bắc Duyên Hải, Đông Phố Mới, Sơn Mãn** làm điểm sáng vì đều thuộc diện di dời.
-7. Mốc giao việc (dùng lại được): Y Can khởi công 10/2026 (CĐT báo cáo 29/9/2026 dự kiến 11/2026 — ref 42 C.11, chờ chốt); Minh Quân, Phú Thịnh 1 khởi công 11/2026 (Âu Lâu bàn giao ~05 ha); Mông Sơn khởi công đợt 1 trước 31/12/2026; GĐ1 03 cụm Phú Thịnh Quý IV/2026; trình thành lập Xuân Ái, Tân Nguyên, Châu Quế, Tân Hợp Quý IV/2026; 08 cụm NSNN trước 31/12/2026; phương án Chè Văn Hưng báo cáo Quý IV/2026; sửa Quy chế CCN + kiện toàn Hội đồng theo NĐ 303/2026 Quý IV/2026; đường trục chính Phú Thịnh xong năm 2026; IC18 phấn đấu trước 6/2027 (định hướng, QĐ ghi 2026–2028).
+7. Mốc giao việc (dùng lại được): Y Can khởi công 10/2026 (lịch sử — Bạn chốt 01/10/2026 theo CĐT: dự kiến 11/2026, ref 42 C.11); Minh Quân, Phú Thịnh 1 khởi công 11/2026 (Âu Lâu bàn giao ~05 ha); Mông Sơn khởi công đợt 1 trước 31/12/2026; GĐ1 03 cụm Phú Thịnh Quý IV/2026; trình thành lập Xuân Ái, Tân Nguyên, Châu Quế, Tân Hợp Quý IV/2026; 08 cụm NSNN trước 31/12/2026; phương án Chè Văn Hưng báo cáo Quý IV/2026; sửa Quy chế CCN + kiện toàn Hội đồng theo NĐ 303/2026 Quý IV/2026; đường trục chính Phú Thịnh xong năm 2026; IC18 phấn đấu trước 6/2027 (định hướng, QĐ ghi 2026–2028).
 8. Người ký Báo cáo phục vụ Chủ tịch: Giám đốc Hoàng Chí Hiền (bảng người ký mục VI SKILL.md); CN(Trung).
 
 ## E. VIỆC CẦN THEO DÕI KỲ SAU

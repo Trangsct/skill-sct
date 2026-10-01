@@ -9,7 +9,7 @@
 > ⚠️ SỐ LIỆU ĐỘNG — chốt theo ngày ghi trong từng báo cáo (22/9 – 30/9/2026). Reference này MỚI HƠN ref `41` về:
 > GPMB các CCN Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3 và Y Can; hiện trạng Yên Thế, Hưng Khánh, Bắc Văn Yên, Đông An,
 > An Bình, Bắc Duyên Hải. Ref `41` vẫn là nguồn về **bậc thủ tục** (thành lập, Hội đồng) của các cụm khác.
-> Mục C liệt kê các điểm vênh **chưa được người dùng chốt** — khi viết văn bản chính thức phải hỏi lại trước.
+> Mục C: **Bạn chốt 01/10/2026 — lấy số liệu theo báo cáo của xã, phường và chủ đầu tư vì là thông tin mới hơn.**
 
 ## A. VĂN BẢN ĐẦU VÀO (đã đối chiếu số/ngày)
 
@@ -176,22 +176,32 @@ xây dựng, môi trường cho dự án đang nghiên cứu; xúc tiến đầu
 - ⚠️ Khi dùng: CCN Bắc Duyên Hải **thuộc diện rút khỏi quy hoạch sau 2030/di dời** (ref 13, ref 41 mục D.6) — kiến nghị "lựa
   chọn CĐT hạ tầng theo NĐ 32" của phường cần đặt cạnh định hướng này khi Sở tham mưu (xem C.12).
 
-## C. ĐIỂM VÊNH — CHƯA CHỐT, PHẢI HỎI NGƯỜI DÙNG TRƯỚC KHI VIẾT VĂN BẢN CHÍNH THỨC
+## C. ĐIỂM VÊNH — ĐÃ CHỐT 01/10/2026: LẤY THEO BÁO CÁO CỦA XÃ, PHƯỜNG, CHỦ ĐẦU TƯ (MỚI HƠN)
 
-| # | Nội dung | Nguồn A | Nguồn B | Cách viết đề xuất (chờ chốt) |
+Bạn chốt 01/10/2026: "lấy thông tin theo xã vì đây là thông tin mới hơn". Cột cuối là cách viết từ nay; cột "Nguồn B" là số cũ (lịch sử).
+Trang congnghieplaocai.vn đã cập nhật theo cột cuối (PR Trangsct/ccn-laocai#104, merge 01/10/2026).
+
+| # | Nội dung | Nguồn A (xã, phường, CĐT — mới) | Nguồn B (cũ, lịch sử) | Cách viết đã chốt |
 |---|---|---|---|---|
-| C.1 | Lấp đầy Yên Thế | BC 590 xã Lục Yên: 23,78/39,97 ha = **59,5%** (toàn bộ 39,97 ha là đất CN) | Excel Phòng 28/9/2026 (ref 41 mục C): **40,24%** = 11,26/27,98 ha đất CN | Báo cáo của Sở giữ 40,24% cho tới khi đối chiếu QĐ thuê đất 05 DN; nêu số của xã kèm nguồn |
-| C.2 | Danh sách DN Yên Thế | BC 590: 05 DN (RK VN, VPG, Việt Long, Thành Phát, Phan Xi Păng) | Trang web, Báo cáo Sở 6/2026: 03 DN FDI (RK VN 5,95 ha; Darpan Stonex – Hoàng Tuân/Ramoji 3,76 ha; An Hòa 1,55 ha) | Ramoji/Hoàng Tuân nằm ở danh sách "đang hoàn thiện thủ tục" của xã (3,1 ha); An Hòa không có trong báo cáo xã → hỏi Phòng/xã |
-| C.3 | Mô hình CĐT hạ tầng Yên Thế | BC 590 + CV 234/UBND-KTHT 24/9/2026: **lựa chọn nhà đầu tư, vốn ngoài NSNN**, TMĐT 204,242 tỷ | Ref 41 mục B, ref 31: 08 CCN vốn NSNN (có Yên Thế) — **UBND xã làm CĐT** theo CV 8854/UBND-KT 28/8/2026 | Hỏi người dùng: Yên Thế có được tách khỏi nhóm 08 cụm UBND xã làm CĐT không |
-| C.4 | Quy mô Yên Thế đến 2030 | QĐ 525: **39,97 ha** | Trang web (moTa): "quy hoạch mở rộng lên 55 ha đến 2030" | Theo QĐ 525 — 39,97 ha (sửa web) |
-| C.5 | Lấp đầy Hưng Khánh | BC 388: 32,75% (6,55 ha GPMB/20 ha); thực tế 02 DN thuê 3,81 ha | Excel Phòng 28/9: 29% (4,06/14 ha đất CN); trang web: trường tỷ lệ 49,3% (sai, chính trang ghi 29%) | Giữ 29% (Excel Phòng); web sửa 49,3 → 29 |
-| C.6 | Diện tích từng DN Hưng Khánh | BC 388 theo diện tích thuê đất: YAMAZAKI 2,75 ha; GREENCO 1,07 ha; HTX Hưng Thành 2,78 ha | Trang web: Greeneco 1,18 ha; Yamazaki + HTX 2,84 ha; HTX 2,88 ha | Theo BC 388 (dẫn từ QĐ thuê đất, CTĐT); tên viết "GREENCO Việt Nam" |
-| C.7 | Dự án Bắc Văn Yên | BC 364: viên nén sinh khối (Cty TNHH Điện sinh khối Yên Bái) **10,76 ha CN.06**; điện sinh khối Yên Bái 1 (EREX Sakura Biomass Yên Bái) **06 ha CN.07+CN.08**; Đạt Thành 4,84; sắn 15,58 | Trang web: EREX điện sinh khối 50 MW 10,76 ha; EREX Sakura viên nén 3 ha; Đạt Thành 3,96; sắn 15; + HaPaco 1 ha, LNSTP 0,17 ha | Hai nguồn đảo tên dự án ↔ diện tích; đối chiếu QĐ CTĐT EREX trước khi sửa web |
-| C.8 | GPMB Phú Thịnh 2 | Công ty 888: 54,49 ha đã chi trả (22/9); 87/90 lượt hộ | Phường: 83/88 hộ, 52,96 ha (phần thuộc phường 70,66 ha); ref 41: GPMB 62 ha, "thuê đất 37 ha" | Ghi rõ nguồn và ngày từng số; **"37 ha" là diện tích đơn xin thuê đất GĐ1 (37,38 ha, 25/11/2025), chưa có QĐ cho thuê** |
-| C.9 | Khởi công các CCN Phú Thịnh | Phường: cả ba cụm **chưa thi công hạ tầng kỹ thuật** | Ref 25, 30, 41: Phú Thịnh 3 khởi công 16/7/2026; Phú Thịnh 1, 2 khởi công các năm trước | Viết: "đã khởi công, đang GPMB, san tạo mặt bằng; chưa thi công các hạng mục hạ tầng kỹ thuật; chưa cho thuê đất cho dự án thứ cấp" |
-| C.10 | Quyết định ngày 26/7/2016 (đất Chè Văn Hưng) | Phường: **QĐ 1505/QĐ-UBND**, 4,99 ha, giao Ban QLDA ĐTXD khu vực Yên Bình | Công ty 888: **QĐ 1050/QĐ-UBND**, 2,11 ha, giao Trung tâm PTQĐ huyện Yên Bình | Chưa viện dẫn số QĐ này cho tới khi xem bản gốc; ghi "quyết định ngày 26/7/2016 của UBND tỉnh Yên Bái" |
-| C.11 | Y Can | CĐT 29/9: bồi thường **6,8 ha** (14,3 tỷ); khởi công dự kiến **11/2026** | Ref 41: bồi thường 25 ha, khởi công 10/2026 (mốc trong dự thảo kết luận của Chủ tịch); web: ~20 ha (20/7) | Số bồi thường và mốc khởi công lấy theo báo cáo CĐT 29/9; mốc 10/2026 trong kết luận cần hỏi lại |
-| C.12 | Định hướng CCN Bắc Duyên Hải | Phường: đề nghị lựa chọn/giao doanh nghiệp đầu tư, kinh doanh hạ tầng theo NĐ 32 | QĐ 525/ref 13, ref 41 D.6: thuộc diện di dời, rút khỏi QH | Tham mưu: ưu tiên phương án quản lý, vận hành hạ tầng tối thiểu (PCCC, thoát nước) trong thời gian chờ di dời; hỏi người dùng |
+| C.1 | Lấp đầy Yên Thế | BC 590 xã Lục Yên: 23,78/39,97 ha = **59,5%** (toàn bộ 39,97 ha là đất CN) | Excel Phòng 28/9/2026 (ref 41 mục C): **40,24%** = 11,26/27,98 ha đất CN | **59,5%** (23,78/39,97 ha; toàn bộ 39,97 ha là đất công nghiệp) theo xã |
+| C.2 | Danh sách DN Yên Thế | BC 590: 05 DN (RK VN, VPG, Việt Long, Thành Phát, Phan Xi Păng) | Trang web, Báo cáo Sở 6/2026: 03 DN FDI (RK VN 5,95 ha; Darpan Stonex – Hoàng Tuân/Ramoji 3,76 ha; An Hòa 1,55 ha) | **05 DN theo xã** (RK Việt Nam, VPG, Việt Long, Thành Phát, Phan Xi Păng); Ramoji/Hoàng Tuân thuộc nhóm 10 DN đang làm thủ tục; An Hòa không còn trong danh sách |
+| C.3 | Mô hình CĐT hạ tầng Yên Thế | BC 590 + CV 234/UBND-KTHT 24/9/2026: **lựa chọn nhà đầu tư, vốn ngoài NSNN**, TMĐT 204,242 tỷ | Ref 41 mục B, ref 31: 08 CCN vốn NSNN (có Yên Thế) — **UBND xã làm CĐT** theo CV 8854/UBND-KT 28/8/2026 | Theo xã: Yên Thế **lựa chọn nhà đầu tư** xây dựng hoàn thiện hạ tầng bằng vốn ngoài NSNN (TMĐT dự kiến 204,242 tỷ). Khi đếm nhóm cụm vốn NSNN do UBND xã làm CĐT (CV 8854) phải ghi chú riêng Yên Thế |
+| C.4 | Quy mô Yên Thế đến 2030 | QĐ 525: **39,97 ha** | Trang web (moTa): "quy hoạch mở rộng lên 55 ha đến 2030" | Theo QĐ 525 — 39,97 ha (web đã sửa) |
+| C.5 | Lấp đầy Hưng Khánh | BC 388: 32,75% (6,55 ha GPMB/20 ha); thực tế 02 DN thuê 3,81 ha | Excel Phòng 28/9: 29% (4,06/14 ha đất CN); trang web: trường tỷ lệ 49,3% (sai, chính trang ghi 29%) | **32,75%** (6,55/20 ha) theo xã |
+| C.6 | Diện tích từng DN Hưng Khánh | BC 388 theo diện tích thuê đất: YAMAZAKI 2,75 ha; GREENCO 1,07 ha; HTX Hưng Thành 2,78 ha | Trang web: Greeneco 1,18 ha; Yamazaki + HTX 2,84 ha; HTX 2,88 ha | Theo xã: YAMAZAKI 2,75 ha; GREENCO 1,07 ha; HTX Hưng Thành 2,78 ha; tên viết "GREENCO Việt Nam" |
+| C.7 | Dự án Bắc Văn Yên | BC 364: viên nén sinh khối (Cty TNHH Điện sinh khối Yên Bái) **10,76 ha CN.06**; điện sinh khối Yên Bái 1 (EREX Sakura Biomass Yên Bái) **06 ha CN.07+CN.08**; Đạt Thành 4,84; sắn 15,58 | Trang web: EREX điện sinh khối 50 MW 10,76 ha; EREX Sakura viên nén 3 ha; Đạt Thành 3,96; sắn 15; + HaPaco 1 ha, LNSTP 0,17 ha | Theo xã: viên nén sinh khối (Công ty TNHH Điện sinh khối Yên Bái) **10,76 ha lô CN.06**; điện sinh khối Yên Bái 1 (Công ty TNHH EREX Sakura Biomass Yên Bái) **06 ha lô CN.07 + CN.08**; Đạt Thành 4,84; sắn 15,58 ha |
+| C.8 | GPMB Phú Thịnh 2 | Công ty 888: 54,49 ha đã chi trả (22/9); 87/90 lượt hộ | Phường: 83/88 hộ, 52,96 ha (phần thuộc phường 70,66 ha); ref 41: GPMB 62 ha, "thuê đất 37 ha" | Theo CĐT, phường: chi trả 54,49 ha đến 22/9/2026 (CĐT); 83/88 hộ, 52,96 ha phần thuộc phường. **"37 ha" là đơn xin thuê đất GĐ1 (37,38 ha), chưa có QĐ cho thuê** |
+| C.9 | Khởi công các CCN Phú Thịnh | Phường: cả ba cụm **chưa thi công hạ tầng kỹ thuật** | Ref 25, 30, 41: Phú Thịnh 3 khởi công 16/7/2026; Phú Thịnh 1, 2 khởi công các năm trước | Theo phường: "đang GPMB, san tạo mặt bằng; chưa thi công các hạng mục hạ tầng kỹ thuật; chưa cho thuê đất cho dự án thứ cấp" |
+| C.10 | Quyết định ngày 26/7/2016 (đất Chè Văn Hưng) | Phường: **QĐ 1505/QĐ-UBND**, 4,99 ha, giao Ban QLDA ĐTXD khu vực Yên Bình | Công ty 888: **QĐ 1050/QĐ-UBND**, 2,11 ha, giao Trung tâm PTQĐ huyện Yên Bình | Theo phường: **QĐ 1505/QĐ-UBND ngày 26/7/2016** (4,99 ha, Ban QLDA ĐTXD khu vực Yên Bình); khi trích nguyên văn vẫn nên xem bản gốc |
+| C.11 | Y Can | CĐT 29/9: bồi thường **6,8 ha** (14,3 tỷ); khởi công dự kiến **11/2026** | Ref 41: bồi thường 25 ha, khởi công 10/2026 (mốc trong dự thảo kết luận của Chủ tịch); web: ~20 ha (20/7) | Theo CĐT: bồi thường **6,8 ha** (14,3 tỷ); **khởi công dự kiến 11/2026** |
+| C.12 | Định hướng CCN Bắc Duyên Hải | Phường: đề nghị lựa chọn/giao doanh nghiệp đầu tư, kinh doanh hạ tầng theo NĐ 32 | QĐ 525/ref 13, ref 41 D.6: thuộc diện di dời, rút khỏi QH | Ghi nhận kiến nghị của phường (lựa chọn/giao CĐT hạ tầng theo NĐ 32); khi tham mưu nêu kèm định hướng di dời, rút khỏi QH sau 2030 |
+
+## HỆ QUẢ CỦA MỤC C: TỶ LỆ LẤP ĐẦY BÌNH QUÂN CCN TÍNH LẠI
+
+Áp số của xã cho Yên Thế (23,78/39,97 ha thay 11,26/27,98) và Hưng Khánh (6,55/20 ha thay 4,06/14) vào Excel Phòng 28/9/2026:
+đã cho thuê 188,749 + 12,52 + 2,49 = **203,759 ha**; đất công nghiệp 650,324 + 11,99 + 6 = **668,314 ha** → **30,49%**.
+Số 29,02% (ref 41 mục C) giữ cho các văn bản đã ban hành trước 01/10/2026 (lịch sử). Khi dùng 30,49% trong văn bản mới, ghi rõ
+"tính lại theo báo cáo của UBND xã Lục Yên, xã Hưng Khánh tháng 9/2026"; nếu Phòng có Excel mới thì lấy theo Excel mới.
 
 ## D. KIẾN NGHỊ GỬI SỞ CÔNG THƯƠNG VÀ UBND TỈNH (để tổng hợp)
 
@@ -222,12 +232,11 @@ Các dòng trên chưa đọc bản gốc: muốn ghi bậc thủ tục (ref 39)
 
 ## F. VIỆC CẦN THEO DÕI KỲ SAU
 
-- Người dùng chốt 12 điểm vênh mục C (nhất là C.1, C.3, C.7, C.11).
+- ~~Chốt 12 điểm vênh mục C~~ — đã chốt 01/10/2026 (lấy theo xã, phường, CĐT).
 - Báo cáo theo CV 6059 của các cụm chưa gửi (danh sách mục A).
 - Phú Thịnh 2: QĐ cho thuê đất GĐ1 + giấy chứng nhận (hạn 15/11/2026); bàn giao 2,3 ha; QĐ điều chỉnh cục bộ QHCT 1/500.
 - Y Can: chi trả đợt 2 (30/9), kiểm kê 30 ha (10/2026), giao đất (10/2026), khởi công (11/2026).
 - Yên Thế: kết quả thông báo tiếp nhận hồ sơ nhà đầu tư hạ tầng; QHCT theo VN-2000.
 - Hưng Khánh: kết quả thẩm định CTĐT hạ tầng theo TTr 565/TTr-UBND.
 - Đơn vị tiếp nhận đất Ban QLDA ĐTXD khu vực Yên Bình; phương án đất, tài sản Chè Văn Hưng (mốc Quý IV/2026, ref 41 mục D.7).
-- Trang web congnghieplaocai.vn: đã soạn bản cập nhật 9 cụm theo reference này (PR kho `ccn-laocai`), chờ người dùng chốt
-  mục C rồi mới đổi các trường số liệu (lấp đầy, diện tích đã cho thuê, danh sách dự án Bắc Văn Yên).
+- Trang web congnghieplaocai.vn: đã cập nhật theo reference này và mục C đã chốt (Trangsct/ccn-laocai#104, 01/10/2026).

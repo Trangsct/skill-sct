@@ -1,7 +1,7 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.45.0",
-  "description": "Ref 42 (01/10/2026) MỚI NHẤT: báo cáo xã, chủ đầu tư theo CV 6059/SCT-CN — GPMB Phú Thịnh 1-3 (Chè Văn Hưng 40,97 ha), Y Can khởi công dự kiến 11/2026, Yên Thế, Hưng Khánh, Bắc Văn Yên, Đông An, Bắc Duyên Hải (105 cơ sở); 12 điểm vênh chờ chốt. Ref 41 (28/9): 25 CCN, lấp đầy 29,02%. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU. Khung 9/2026: NĐ 32/2024, 303/2026.",
+  "version": "1.45.1",
+  "description": "Ref 42 (01/10/2026) MỚI NHẤT: báo cáo xã, CĐT theo CV 6059 — đã chốt lấy số xã: Yên Thế lấp đầy 59,5%, Hưng Khánh 32,75%, bình quân CCN 30,49%; GPMB Phú Thịnh 1-3 (Chè Văn Hưng 40,97 ha); Y Can khởi công dự kiến 11/2026. Ref 41: 25 CCN. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU. Khung: NĐ 32/2024, 303/2026.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },

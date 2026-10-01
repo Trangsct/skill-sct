@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **649** (Luật 32, NĐ 201, TT 107, QĐ 236, NQ 32, khác 41).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **65**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **657** (Luật 32, NĐ 204, TT 108, QĐ 240, NQ 32, khác 41).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **71**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -43,6 +43,7 @@
 | NĐ 45/2022 | bvmt-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế | Xử phạt BVMT; Sở CT chỉ Đ45–46 (k4 Đ64); lập BB cần QĐ giao (Đ71 không liệt kê Sở CT) |
 | NĐ 36/2020 | atvsld-sct-vn, qlks-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế (3/2026) | Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT |
 | NĐ 71/2019 | hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | NĐ 275/2026 (25/8/2026) |  | Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026 |
+| QĐ 44/2021/QĐ-UBND | bvmt-sct-vn | QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026) |  | Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
 | QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |
 | QĐ 866/QĐ-TTG | kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn |  | Dự thảo điều chỉnh toàn diện (Cục ĐC&KS, 3/2026 — chưa ký) | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương |
@@ -81,7 +82,7 @@
 - TT 34/2026 (5 plugin: attp-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - TT 39/2026 (3 plugin: attp-sct-vn, kho-vlncn-sct-vn, xd-sct-vn)
 - TT 9/2026 (4 plugin: attp-sct-vn, bvmt-sct-vn, hl-vlncn-sct-vn, sd-vlncn-sct-vn)
-- TT 2/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
+- TT 2/2025 (4 plugin: bvmt-sct-vn, kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - TT 31/2025 (3 plugin: qlks-sct-vn, tkm-sct-vn, xp-sct-vn)
 - TT 37/2025 (4 plugin: kccn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn)
 - TT 38/2025 (8 plugin: attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, vbhc-vn)

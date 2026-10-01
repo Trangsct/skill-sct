@@ -56,6 +56,7 @@ Sở Công Thương **không** làm thay vai trò chủ trì này. Khi nhận m�
 | BVMT hoạt động hóa chất/POP | Chủ trì/phối hợp | Theo pháp luật hóa chất |
 | Xử phạt VPHC môi trường | Phối hợp | "Phối hợp", "lập biên bản trong phạm vi" |
 | Quan trắc môi trường nền của tỉnh | Không | (Cung cấp số liệu cơ sở ngành nếu được yêu cầu) |
+| Dữ liệu TNMT do Sở tạo lập/đang giữ (KNK, ranh giới CCN, khoáng sản…) — QĐ 3556/QĐ-UBND | Chủ trì phần dữ liệu của Sở; giao nộp, báo cáo về Sở NN&MT | "Giao nộp", "cung cấp", "báo cáo" — CSDL TNMT tỉnh do Sở NN&MT chủ quản; ref 12 |
 
 ## 6. Sai lầm thường gặp cần tránh
 

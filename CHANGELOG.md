@@ -1,3 +1,10 @@
+## bvmt-sct-vn 1.6.0 — 01/10/2026: Quy chế dữ liệu tài nguyên và môi trường tỉnh Lào Cai (QĐ 3556/QĐ-UBND ngày 30/9/2026)
+
+- Reference 12 mới: phần việc của Sở Công Thương theo Quy chế kèm QĐ 3556/QĐ-UBND — giao nộp dữ liệu (≤ 30 ngày sau nghiệm thu nhiệm vụ; 01 năm; 03–04 tháng hồ sơ XDCB), biên bản BM.01 TT 03/2022, metadata, Mẫu 01 và báo cáo Mẫu 05 NĐ 73/2017 trước 15/12 hằng năm; bảng dữ liệu TNMT đang ở Sở; điểm vênh về khoáng sản với NQ 66.25/2026/NQ-CP; lịch việc đề xuất.
+- Bản gốc + bản trích chữ tại `bvmt-sct-vn/.../van-ban-goc/tinh/`; ref 01, 02, SKILL.md, INDEX cập nhật.
+- QĐ 44/2021/QĐ-UBND (Lào Cai) và QĐ 23/2011/QĐ-UBND (Yên Bái) bị bãi bỏ từ 30/9/2026: rule check_facts `qd-44-2021-ubnd-du-lieu-tnmt-bai-bo`, ghi vào `registry/trang-thai.csv`.
+- Kèm theo: nạp 4 văn bản pháp luật mới từ `vlncn-laocai/theo-doi/de-xuat-vbpl.csv` (QĐ 2405/QĐ-BCT, QĐ 3430, 3433, 3443/QĐ-UBND) vào `registry/trang-thai.csv`, sinh lại `vbhc-vn/.../data/vbpl.json`.
+
 ## sd-vlncn-sct-vn 2026.9.30.1 — 30/9/2026: PANM bản đầy đủ có bìa, đường kẻ quốc hiệu; kíp theo thiết kế đã thẩm định (Kim Thành)
 
 - Anti-error 37 (references/11): PANM giao doanh nghiệp phải đầy đủ, dài theo Phụ lục VII TT 23/2024; bìa viền kép, đường kẻ Straight Connector dưới tên DN và tiêu ngữ (gạch ngang dài), đánh số trang từ trang nội dung; kíp tính theo chỉ tiêu thiết kế đã thẩm định, không tự dựng tỷ lệ kíp/kg; bỏ câu đối chiếu thừa dễ làm DN bị bắt lỗi; viện dẫn thiết kế bằng văn bản thẩm định của Sở.

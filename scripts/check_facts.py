@@ -43,6 +43,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-44-2021-ubnd-du-lieu-tnmt-bai-bo",
+        # Chốt 01/10/2026: QĐ 3556/QĐ-UBND ngày 30/9/2026 ban hành Quy chế dữ liệu TNMT tỉnh Lào Cai, bãi bỏ
+        # QĐ 44/2021/QĐ-UBND (Lào Cai cũ) và QĐ 23/2011/QĐ-UBND (Yên Bái cũ). Dòng dẫn văn bản cũ phải nhắc 3556 hoặc "bãi bỏ".
+        "pattern": r"^(?!.*(?:3556|bãi bỏ|BÃI BỎ|lịch sử|trước 30/9/2026)).*(?:QĐ|Quyết định)(?: số)? (?:44/2021|23/2011)/QĐ-UBND",
+        "why": "QĐ 44/2021/QĐ-UBND (Lào Cai) và QĐ 23/2011/QĐ-UBND (Yên Bái) về quy chế dữ liệu tài nguyên và môi trường đã bị bãi bỏ từ 30/9/2026 — dẫn Quy chế ban hành kèm QĐ 3556/QĐ-UBND ngày 30/9/2026 (bvmt-sct-vn ref 12).",
+        "since": "2026-09-30",
+        "level": "FAIL",
+    },
+    {
         "id": "duong-4e-da-phe-duyet-du-an",
         # Chốt 28/9/2026: QĐ 3480/QĐ-UBND ngày 27/9/2026 phê duyệt dự án Đường kết nối từ Quốc lộ 4E đến CCN Thống Nhất 1
         # (CTĐT 1693/QĐ-UBND ngày 15/5/2026). Câu "chưa được phê duyệt chủ trương đầu tư" chỉ còn là lịch sử (báo cáo 6-7/2026).

@@ -96,6 +96,7 @@
 37. **KH 348/KH-UBND ngày 22/7/2026** — đầu tư hạ tầng cơ sở xử lý CTR sinh hoạt trên địa bàn tỉnh giai đoạn 2026–2030; **KH 192/KH-UBND ngày 29/4/2026** — triển khai **NQ 247/2025/QH15 ngày 10/12/2025** của Quốc hội về BVMT; **QĐ 525/QĐ-UBND ngày 25/02/2026** — điều chỉnh Quy hoạch tỉnh 2021–2030, tầm nhìn 2050. *(Xác minh qua BC 892.)*
 29. Nhóm kế hoạch BĐKH của tỉnh: **KH 105/KH-UBND (29/9/2025)**, **KH 107/KH-UBND (01/10/2025)**, **KH 114/KH-UBND (07/10/2025)**, **KH 173/KH-UBND (16/11/2025)**, **KH 91-KH/TU (08/6/2026)**. *(Xác minh qua BC 892; chi tiết ref 07 Phần I-bis.)*
 39. **BC 892/BC-SNNMT ngày 28/8/2026** của Sở NN&MT — báo cáo kinh phí sự nghiệp môi trường 2025–2026, kế hoạch 2027 và 2027–2029 (mẫu báo cáo định kỳ theo CV 3318/BTNMT-KHTC ngày 07/4/2026 của Bộ NN&MT). Nguồn số liệu kinh phí, quan trắc, KNK của tỉnh — xem ref 07 Phần I-bis, ref 05 mục 10.
+40. **QĐ 3556/QĐ-UBND ngày 30/9/2026** của UBND tỉnh Lào Cai (KT.CT — PCT Nguyễn Thành Sinh ký; hiệu lực từ ngày ký) — ban hành **Quy chế thu thập, quản lý, sử dụng, cập nhật và khai thác, chia sẻ thông tin, dữ liệu tài nguyên và môi trường tỉnh Lào Cai** (8 lĩnh vực, gồm môi trường, BĐKH, địa chất - khoáng sản, đo đạc - bản đồ). **Bãi bỏ QĐ 44/2021/QĐ-UBND ngày 11/8/2021** (Lào Cai cũ), QĐ 23/2011/QĐ-UBND (Yên Bái cũ) và khoản 16 Điều 3 QĐ 59/2025/QĐ-UBND. Căn cứ: NĐ 73/2017/NĐ-CP ngày 14/6/2017, NĐ 165/2025/NĐ-CP, NĐ 278/2025/NĐ-CP, TT 03/2022/TT-BTNMT ngày 28/02/2022, TT 02/2025/TT-BNNMT. Sở Công Thương: giao nộp dữ liệu (30 ngày sau nghiệm thu nhiệm vụ), báo cáo Mẫu 05 NĐ 73 **trước 15/12 hằng năm**. *(Bản gốc + bản trích chữ tại `van-ban-goc/tinh/`; số/ngày đã đối chiếu ảnh trang 1.)* Xem ref 12.
 
 ## I. Bảng theo dõi hiệu lực / dự thảo
 
@@ -119,3 +120,5 @@
 | KL 75-KL/TW, CTr 31-CTr/TW (28/7/2026) | Đã ban hành | Bản scan có dấu; NQ 24-NQ/TW còn nguyên giá trị (không bị thay thế) |
 | CTr 104-CTr/TU (30/8/2026) | **Đã ban hành** | Bản ký số — số/ngày chỉ có trên ảnh; triển khai bằng CV 2449-CV/ĐU (07/9/2026) và CV 9387/UBND-KT (15/9/2026) |
 | Kế hoạch của UBND tỉnh thực hiện CTr 104 | **CHƯA BAN HÀNH** (đến 15/9/2026) | Sở NN&MT chủ trì dự thảo, **hạn 05/10/2026**; ban hành trước 15/10/2026. Khi có: cập nhật số/ngày tại đây và ref 11 |
+| QĐ 44/2021/QĐ-UBND (Lào Cai cũ), QĐ 23/2011/QĐ-UBND (Yên Bái cũ) — quy chế dữ liệu TNMT | **BỊ BÃI BỎ từ 30/9/2026** | Thay bằng Quy chế ban hành kèm QĐ 3556/QĐ-UBND ngày 30/9/2026 — ref 12 |
+| QĐ 3556/QĐ-UBND (30/9/2026) — Quy chế dữ liệu TNMT tỉnh | Hiệu lực từ 30/9/2026 | Chưa theo kịp NQ 66.25/2026 (khoáng sản đã về Sở Công Thương từ 15/9/2026) — ref 12 mục 5 |

@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.45.1] - 01/10/2026 — Bạn chốt 12 điểm vênh của ref 42: lấy số liệu theo báo cáo của xã, phường, chủ đầu tư (mới hơn)
+
+- **ref 42 mục C:** cột cuối thành "Cách viết đã chốt" — Yên Thế lấp đầy 59,5% (23,78/39,97 ha), 05 DN, lựa chọn nhà đầu tư hạ tầng vốn ngoài NSNN; Hưng Khánh 32,75% (6,55/20 ha); Bắc Văn Yên viên nén 10,76 ha (CN.06), điện sinh khối Yên Bái 1 (EREX Sakura Biomass) 06 ha (CN.07, CN.08); Y Can khởi công dự kiến 11/2026; Chè Văn Hưng theo QĐ 1505/QĐ-UBND ngày 26/7/2016 (phường). Thêm mục "Hệ quả của mục C": lấp đầy bình quân 23 cụm tính lại **30,49%** (203,76/668,31 ha).
+- **ref 31 mục 12 (mới):** nguyên tắc lấy số của xã, chủ đầu tư khi mới hơn; 29,02% thành lịch sử.
+- **ref 41:** lấp đầy Yên Thế 40,24, Hưng Khánh 29, bình quân 29,02%, mốc Y Can 10/2026 ghi là lịch sử, trỏ sang ref 42.
+- **check_facts.py:** thêm `ccn-yen-the-lap-day-59-5`, `ccn-hung-khanh-lap-day-32-75` (FAIL); `ccn-y-can-khoi-cong-11-2026` nâng WARN → FAIL.
+- Trang congnghieplaocai.vn đã cập nhật theo các số đã chốt (Trangsct/ccn-laocai#104).
+- `plugin.json` → 1.45.1.
+
 ## [1.45.0] - 01/10/2026 — Kỳ cập nhật 01/10/2026: báo cáo của UBND cấp xã và chủ đầu tư hạ tầng theo CV 6059/SCT-CN ngày 28/9/2026
 
 - **Nguồn:** 09 tệp người dùng gửi 01/10/2026 — BC 604/BC-TCT (28/9, Bắc Duyên Hải, kèm Phụ biểu 01), 585/BC-UBND (29/9, phường Văn Phú), 590/BC-UBND (29/9, xã Lục Yên, bản scan), 364/BC-UBND (30/9, xã Đông Cuông), 388/BC-UBND (29/9, xã Hưng Khánh), 30/BC-THDA (29/9, Công ty 888, bản scan), 37/2026/TB-BC (29/9, Công ty Tây Bắc, bản scan). Số/ngày bản ký số đọc bằng `extract_metadata.py`; bản scan soi ảnh từng trang. Bản gốc và Phụ biểu (số điện thoại, nợ từng cơ sở) không chép vào kho.

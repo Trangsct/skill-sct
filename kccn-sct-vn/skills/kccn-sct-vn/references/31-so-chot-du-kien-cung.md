@@ -70,6 +70,12 @@ Quy tắc hành văn: dùng đúng tên "CCN Yên Hợp" và "CCN Yên Hợp 1".
 - Excel Phòng 28/9/2026: 10 cụm cấp xã quản lý chưa có QĐ thành lập theo quy định hiện hành = 08 cụm phải hoàn thiện thủ tục trước 31/12/2026 theo CV 8854/UBND-KT ngày 28/8/2026 (Âu Lâu, Báo Đáp, Hưng Khánh, Thịnh Hưng, Sơn Thịnh, Yên Thế, Bắc Văn Yên, Đông An; UBND xã làm CĐT hạ tầng) + 02 cụm thuộc diện đưa ra khỏi quy hoạch, không làm thủ tục (Đầm Hồng, Tây Cầu Mậu A). Khi viết "08 cụm" phải kèm "vốn ngân sách nhà nước, đang lập hồ sơ thành lập"; khi viết "10 cụm" phải kèm "chưa có quyết định thành lập theo quy định hiện hành".
 - Tỷ lệ lấp đầy bình quân CCN dùng số của Phòng: 29,02% (188,75/650,32 ha, 23 cụm hiện hữu, 28/9/2026); không dùng "trên 30%" của Báo cáo VP UBND tỉnh 6/2026.
 
+## 12. Số liệu hiện trạng cụm: lấy theo báo cáo của xã, phường, chủ đầu tư khi mới hơn (Bạn chốt 01/10/2026)
+
+- Khi báo cáo của UBND cấp xã hoặc chủ đầu tư hạ tầng mới hơn Excel/Báo cáo của Phòng thì **lấy theo báo cáo của xã, chủ đầu tư** ("đây là thông tin mới hơn"), ghi rõ số, ngày văn bản làm nguồn.
+- Áp dụng đợt CV 6059/SCT-CN (ref 42 mục C): Yên Thế lấp đầy 59,5% (23,78/39,97 ha), 05 DN; Hưng Khánh 32,75% (6,55/20 ha); Bắc Văn Yên viên nén sinh khối 10,76 ha, điện sinh khối Yên Bái 1 (EREX Sakura Biomass) 06 ha; Y Can khởi công dự kiến 11/2026; Phú Thịnh 2 chưa có QĐ cho thuê đất (37,38 ha là đơn xin thuê GĐ1).
+- Lấp đầy bình quân 23 cụm hiện hữu tính lại **30,49%** (203,76/668,31 ha); số 29,02% của mục 11 là lịch sử, chỉ còn đúng cho văn bản đã ban hành trước 01/10/2026.
+
 ## 6. Nguyên tắc dùng sổ này
 
 - Sổ chỉ chứa dữ kiện đã chốt. Tỷ lệ lấp đầy, nhà đầu tư, tiến độ là dữ liệu động: lấy từ kỳ cập nhật mới nhất (ref 30 hoặc kỳ sau) hoặc hỏi người dùng, không lấy số cũ trong sổ này để viết văn bản mới.

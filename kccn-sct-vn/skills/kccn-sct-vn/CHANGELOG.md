@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.46.0] - 01/10/2026 — Danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD); chi tiết QĐ 3480 tuyến 4E
+
+- **Nguồn:** bản PDF ký số Văn bản 9813/UBND-XD ngày 27/9/2026 của UBND tỉnh (PCT Phan Trung Bá; chữ ký hợp lệ, số/ngày đọc bằng `extract_metadata.py`) và bản gốc QĐ 3480/QĐ-UBND ngày 27/9/2026, người dùng gửi 01/10/2026.
+- **ref 15 mục IV-ter (mới):** căn cứ xét (0909/CV-CNLL ngày 09/9/2026; 297/BC-BQL ngày 17/9/2026), 03 điểm chỉ đạo, **bảng đủ 38 nhóm ngành** (mã ngành QĐ 36/2025/QĐ-TTg; STT Phụ lục II NĐ 48/2026/NĐ-CP), 4 lưu ý khi Sở góp ý dự án thứ cấp (ba nhóm có loại trừ; 11 nhóm có nguy cơ ô nhiễm; văn bản không thay QĐ chấp thuận CTĐT; chép nguyên mã ngành hệ mới). Tiêu đề ref 15 cập nhật đến 27/9/2026.
+- **ref 23:** chi tiết QĐ 3480 — mặt cắt Bnền 31 m, kết cấu mặt đường, nút giao, cơ cấu TMĐT 130 tỷ (bồi thường 33,743 tỷ; xây dựng 83,291 tỷ…), tư vấn, nguồn vốn.
+- SKILL.md dòng ref 15; `plugin.json` → 1.46.0.
+- Trang congnghieplaocai.vn: Trangsct/ccn-laocai#105 (38 ngành Phú Xuân), #106 (QĐ 3480 Thống Nhất 1).
+
 ## [1.45.1] - 01/10/2026 — Bạn chốt 12 điểm vênh của ref 42: lấy số liệu theo báo cáo của xã, phường, chủ đầu tư (mới hơn)
 
 - **ref 42 mục C:** cột cuối thành "Cách viết đã chốt" — Yên Thế lấp đầy 59,5% (23,78/39,97 ha), 05 DN, lựa chọn nhà đầu tư hạ tầng vốn ngoài NSNN; Hưng Khánh 32,75% (6,55/20 ha); Bắc Văn Yên viên nén 10,76 ha (CN.06), điện sinh khối Yên Bái 1 (EREX Sakura Biomass) 06 ha (CN.07, CN.08); Y Can khởi công dự kiến 11/2026; Chè Văn Hưng theo QĐ 1505/QĐ-UBND ngày 26/7/2016 (phường). Thêm mục "Hệ quả của mục C": lấp đầy bình quân 23 cụm tính lại **30,49%** (203,76/668,31 ha).

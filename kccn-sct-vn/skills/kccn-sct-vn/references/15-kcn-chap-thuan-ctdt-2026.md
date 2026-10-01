@@ -1,4 +1,4 @@
-# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 21/8/2026)
+# 15. Các KCN đã được chấp thuận chủ trương đầu tư (cập nhật đến 27/9/2026)
 
 > NGUỒN: 05 Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (bản đã ký/đã cấp số) do Bạn cung cấp ngày 06/7/2026, 20/7/2026 và 04/8/2026 (QĐ 2548 Cam Đường — bản scan, đã OCR xác minh số/ngày/người ký từ file gốc); QĐ 2978/QĐ-UBND ngày 21/8/2026 điều chỉnh CTĐT lần 01 KCN Phú Xuân 1 (bản ký số, số/ngày điền qua trường ký số — đã render ảnh xác minh) Bạn cung cấp ngày 21/8/2026; bổ sung tiến độ sau chấp thuận theo Báo cáo tháng 7/2026 của Ban Quản lý Khu kinh tế (Trưởng ban Vương Trinh Quốc ký) — xem thêm reference `17`. Đây là dữ liệu văn bản đã ban hành (số/ngày cố định) — dùng để viện dẫn. Các nội dung tiến độ là cam kết theo QĐ, không phải hiện trạng thực tế thi công; hiện trạng thực tế HỎI Bạn.
 
@@ -62,6 +62,83 @@
 | Căn cứ chính | Luật Đầu tư 143/2025/QH15; NĐ 96/2026/NĐ-CP ngày 31/3/2026; TT 55/2026/TT-BTC ngày 15/5/2026; Kết luận 748-KL/ĐU ngày 20/8/2026 và Nghị quyết 998-NQ/ĐU ngày 20/8/2026 (về Tờ trình của UBND tỉnh); Văn bản đề nghị điều chỉnh + Hồ sơ đề xuất điều chỉnh của Công ty CP Công nghiệp Linh Linh nộp ngày 10/8/2026; Báo cáo thẩm định **259/BC-BQL ngày 13/8/2026** của BQL Khu kinh tế |
 | Vai trò SCT (Điều 2) | Sở Công Thương, BQL Khu kinh tế tỉnh có trách nhiệm giám sát thực hiện dự án; hướng dẫn, theo dõi, đôn đốc nhà đầu tư thực hiện theo đúng dự án đã được phê duyệt |
 | Số bản chính | 03 bản: 01 cấp cho Công ty CP Công nghiệp Linh Linh, 01 gửi BQL Khu kinh tế tỉnh, 01 lưu Văn phòng UBND tỉnh |
+
+### IV-ter. NGÀNH, NGHỀ THU HÚT ĐẦU TƯ VÀO KCN PHÚ XUÂN VÀ KCN PHÚ XUÂN 1 — Văn bản 9813/UBND-XD ngày 27/9/2026
+
+> NGUỒN: bản PDF ký số Bạn gửi 01/10/2026 — **Văn bản số 9813/UBND-XD ngày 27/9/2026** của UBND tỉnh Lào Cai (KT. Chủ tịch —
+> PCT **Phan Trung Bá** ký số; số/ngày đọc bằng `extract_metadata.py`, chữ ký hợp lệ), V/v đăng ký các ngành, nghề thu hút đầu tư tại
+> KCN Phú Xuân và KCN Phú Xuân 1. Kính gửi: **Ban Quản lý Khu kinh tế tỉnh**. Nơi nhận có các Sở XD, NN&MT, **CT**, KH&CN; UBND xã
+> Gia Phú; Công ty CP công nghiệp Linh Linh. Lưu VT, XD(Thái). Bản gốc đăng tại trang congnghieplaocai.vn (mục văn bản của 02 KCN).
+
+- **Căn cứ xét:** Văn bản **0909/CV-CNLL ngày 09/9/2026** của Công ty CP công nghiệp Linh Linh và Báo cáo **297/BC-BQL ngày 17/9/2026** của
+  Ban Quản lý Khu kinh tế về danh mục ngành nghề dự kiến thu hút đầu tư.
+- **Điểm 1:** thống nhất danh mục **38 nhóm ngành, nghề** (phụ lục dưới). Dự án thuộc nhóm ngành nghề có nguy cơ tác động đến môi trường
+  phải **phù hợp quy hoạch** và chỉ được triển khai khi đáp ứng điều kiện của pháp luật về BVMT và pháp luật liên quan. Mức độ ảnh hưởng
+  xác định **cho từng dự án** theo quy mô, công suất, loại hình sản xuất, kinh doanh, dịch vụ; diện tích đất, đất có mặt nước; quy mô khai
+  thác tài nguyên và yếu tố nhạy cảm về môi trường.
+- **Điểm 2:** giao BQL KKT tiếp nhận đăng ký ngành, nghề bảo đảm phù hợp quy hoạch, khả năng đáp ứng của hạ tầng và BVMT; áp dụng công
+  nghệ tiên tiến, tiết kiệm tài nguyên, năng lượng; kiểm soát chất thải; **không tiếp nhận công nghệ lạc hậu, nguy cơ gây ô nhiễm**;
+  thường xuyên kiểm tra, giám sát dự án sau chấp thuận.
+- **Điểm 3:** BQL KKT chịu trách nhiệm trước pháp luật về nội dung thuộc chức năng, nhiệm vụ của mình.
+
+**Phụ lục — 38 nhóm ngành, nghề** (cột 3: mã ngành theo **QĐ 36/2025/QĐ-TTg ngày 29/9/2025**; cột 4: số thứ tự trong danh mục loại hình
+sản xuất, kinh doanh, dịch vụ có nguy cơ gây ô nhiễm môi trường tại **Phụ lục II NĐ 48/2026/NĐ-CP ngày 29/01/2026**; để trống = không thuộc
+danh mục):
+
+| TT | Ngành, nghề | Mã ngành (QĐ 36/2025/QĐ-TTg) | STT Phụ lục II NĐ 48/2026/NĐ-CP |
+|---|---|---|---|
+| 1 | Sản xuất, chế biến thực phẩm | C10 (không bao gồm sản xuất thức ăn gia súc, gia cầm và thủy sản) |  |
+| 2 | Sản xuất đồ uống | C11 | 14 |
+| 3 | Sản xuất sản phẩm thuốc lá | C12 |  |
+| 4 | Sản xuất sợi, vải dệt thoi và hoàn thiện sản phẩm dệt | C13 | 5 |
+| 5 | Sản xuất trang phục | C14 |  |
+| 6 | Sản xuất da và các sản phẩm có liên quan | C15 | 6 |
+| 7 | Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện | C16 |  |
+| 8 | Sản xuất giấy và sản phẩm từ giấy | C17 | 3 |
+| 9 | In, sao chép bản ghi các loại | C18 |  |
+| 10 | Sản xuất hóa chất và các sản phẩm hóa chất | C20 | 4 |
+| 11 | Sản xuất thuốc, hoá dược và dược liệu | C21 |  |
+| 12 | Sản xuất sản phẩm từ cao su và plastic | C22 |  |
+| 13 | Sản xuất sản phẩm từ khoáng phi kim loại khác | C23 (trừ mã ngành C2394) |  |
+| 14 | Sản xuất kim loại | C24 (trừ ngành luyện từ quặng, tái chế phế liệu) | 2 |
+| 15 | Sản xuất sản phẩm bằng kim loại; các dịch vụ xử lý, gia công kim loại | C259 | 10 (nếu có công đoạn mạ kim loại hoặc làm sạch bề mặt kim loại bằng hóa chất) |
+| 16 | Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học | C26 | 17 |
+| 17 | Sản xuất thiết bị điện (bao gồm cả sản xuất pin và ắc quy) | C27 | 11, 17 |
+| 18 | Sản xuất máy móc, thiết bị chưa được phân vào đâu | C28 |  |
+| 19 | Sản xuất ô tô và xe có động cơ khác | C29 |  |
+| 20 | Sản xuất phương tiện vận tải khác | C30 |  |
+| 21 | Sản xuất giường, tủ, bàn, ghế | C31 |  |
+| 22 | Công nghiệp chế biến, chế tạo khác | C32 |  |
+| 23 | Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị | C33 |  |
+| 24 | Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí | D35 |  |
+| 25 | Khai thác, xử lý và cung cấp nước | E36 |  |
+| 26 | Thoát nước và xử lý nước thải | E37 |  |
+| 27 | Hoạt động thu gom, xử lý và tiêu hủy rác thải; tái chế phế liệu | E38 | 9 |
+| 28 | Xử lý ô nhiễm và hoạt động quản lý chất thải khác | E39 | 9 |
+| 29 | Xây dựng | F |  |
+| 30 | Kho bãi và các hoạt động hỗ trợ cho vận tải | H52 |  |
+| 31 | Bưu chính và chuyển phát | H53 |  |
+| 32 | Hoạt động viễn thông, Lập trình máy tính, Tư vấn, Cơ sở hạ tầng máy tính và các dịch vụ thông tin khác | K |  |
+| 33 | Hoạt động kinh doanh bất động sản | M68 |  |
+| 34 | Hoạt động chuyên môn, khoa học và công nghệ | N |  |
+| 35 | Hoạt động dịch vụ lao động và việc làm | O78 |  |
+| 36 | Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan | O81 |  |
+| 37 | Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác | O82 |  |
+| 38 | Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan | 4671 |  |
+
+**Cách dùng khi Sở Công Thương góp ý dự án thứ cấp tại 02 KCN này:**
+
+1. Đối chiếu mục tiêu dự án với 38 nhóm. Ba nhóm có **loại trừ ghi trong phụ lục**: C10 không gồm thức ăn gia súc, gia cầm, thủy sản;
+   C23 trừ C2394 (xi măng, vôi, thạch cao); C24 trừ luyện từ quặng, tái chế phế liệu. Dự án rơi vào phần loại trừ → không thuộc danh mục
+   đã thống nhất, đề nghị BQL KKT báo cáo UBND tỉnh.
+2. Dự án thuộc 11 nhóm có số ở cột 4 (TT 2, 4, 6, 8, 10, 14, 15 khi có mạ/làm sạch bằng hóa chất, 16, 17, 27, 28) → nêu điều kiện BVMT
+   (phối hợp `bvmt-sct-vn`); **dự án hóa chất (TT 10, C20)** → thêm điều kiện sản xuất hóa chất của `hc-sct-vn`; **pin, ắc quy (TT 17)**
+   và **bán buôn nhiên liệu (TT 38, mã 4671)** → lưu ý điều kiện kinh doanh, PCCC (`pccc-sct-vn`).
+3. Văn bản chỉ "thống nhất danh mục ngành nghề dự kiến thu hút" — **không** thay QĐ chấp thuận CTĐT của từng dự án thứ cấp, **không**
+   sửa mục tiêu dự án hạ tầng tại QĐ 2336, 2338 (và QĐ 2978 điều chỉnh Phú Xuân 1). Khi viện dẫn ghi: "danh mục ngành, nghề thu hút đầu
+   tư tại Khu công nghiệp Phú Xuân và Khu công nghiệp Phú Xuân 1 theo Văn bản số 9813/UBND-XD ngày 27/9/2026 của UBND tỉnh".
+4. Mã ngành trong phụ lục theo hệ thống ngành kinh tế mới (QĐ 36/2025/QĐ-TTg) — chữ cái cấp 1 khác hệ cũ QĐ 27/2018/QĐ-TTg (ví dụ
+   kinh doanh bất động sản ghi M68, xây dựng ghi F, viễn thông - CNTT ghi K). Chép nguyên văn mã theo văn bản, không tự quy đổi.
 
 ## V. KCN VÕ LAO — QĐ 2463/QĐ-UBND ngày 16/7/2026
 

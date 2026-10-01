@@ -65,7 +65,7 @@ NĐ 34/2026,NĐ,1,1,kccn-sct-vn,xd-sct-vn,,,,,,
 NĐ 347/2026,NĐ,7,109,dacn-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;sd-vlncn-sct-vn;xd-sct-vn;xp-sct-vn,pccc-sct-vn;xd-sct-vn,08/9/2026,15/9/2026,,,,"Sửa NĐ 169/2025, NĐ 105/2025, NĐ 106/2025, NĐ 282/2025; bãi bỏ Điều 74 NĐ 217/2026; bản gốc pccc-sct-vn/van-ban-goc; khoản 2 Điều 41: một số quy định về phương tiện PCCC hiệu lực cùng Luật sửa đổi"
 NĐ 351/2026,NĐ,1,1,dacn-sct-vn,,,,,,,
 NĐ 46/2026,NĐ,2,18,attp-sct-vn;xp-sct-vn,attp-sct-vn,,,,,TẠM NGƯNG theo NQ 15/2026,ATTP — đọc attp-sct-vn reference 08 trước khi dẫn
-NĐ 48/2026,NĐ,2,49,bvmt-sct-vn;kccn-sct-vn,bvmt-sct-vn,,,,,,
+NĐ 48/2026,NĐ,2,52,bvmt-sct-vn;kccn-sct-vn,bvmt-sct-vn,,,,,,
 NĐ 49/2026,NĐ,1,2,kccn-sct-vn,bvmt-sct-vn,,,,,,
 NĐ 50/2026,NĐ,1,1,kccn-sct-vn,,,,,,,
 NĐ 61/2026,NĐ,1,1,xp-sct-vn,,,,,,,
@@ -356,7 +356,7 @@ QĐ 3881/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 3728/QĐ-SCT,QĐ,1,1,hl-vlncn-sct-vn,,,,,,,
 QĐ 3556/QĐ-UBND,QĐ,1,13,bvmt-sct-vn,bvmt-sct-vn,30/9/2026,30/9/2026,,,,"Quy chế thu thập, quản lý, sử dụng, cập nhật, khai thác, chia sẻ dữ liệu TNMT tỉnh Lào Cai (PCT Nguyễn Thành Sinh ký); bãi bỏ QĐ 44/2021/QĐ-UBND, QĐ 23/2011/QĐ-UBND (Yên Bái), k16 Đ3 QĐ 59/2025/QĐ-UBND — bản gốc bvmt-sct-vn/van-ban-goc/tinh, ref 12"
 QĐ 3488/QĐ-SCT,QĐ,1,3,sct-laocai-org-vn,,,,,,,
-QĐ 3480/QĐ-UBND,QĐ,1,5,kccn-sct-vn,,27/09/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17613471; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt dự án: Đường kết nối từ quốc lộ 4E đến Cụm công nghiệp Thống Nhất 1
+QĐ 3480/QĐ-UBND,QĐ,1,6,kccn-sct-vn,,27/09/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17613471; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt dự án: Đường kết nối từ quốc lộ 4E đến Cụm công nghiệp Thống Nhất 1
 QĐ 3427/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,23/09/2026,,,,,"nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17568371; chưa kiểm ngày hiệu lực; Về việc thành lập CCN Yên Hợp 2, xã Xuân Ái, tỉnh Lào Cai"
 QĐ 3426/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,23/09/2026,,,,,"nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17568435; chưa kiểm ngày hiệu lực; Về việc thành lập cụm công nghiệp Mông Sơn, xã Bảo Ái, tỉnh Lào Cai"
 QĐ 3382/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,18/09/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17522293; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt dự án: Đường kết nối từ nút giao IC18 đến Cụm công nghiệp Thống Nhất 
@@ -423,6 +423,7 @@ QĐ 180/2025/QĐ-GTYB,QĐ,1,1,sd-vlncn-sct-vn,,,,,,,
 QĐ 23/2025/QĐ-UBND,QĐ,1,1,sct-laocai-org-vn,,,,,,,
 QĐ 26/2025/QĐ-UBND,QĐ,1,1,hnh-sct-vn,kccn-sct-vn,,,,,,
 QĐ 28/2025/QĐ-UBND,QĐ,1,18,attp-sct-vn,attp-sct-vn;bvmt-sct-vn,,,,,,
+QĐ 36/2025/QĐ-TTG,QĐ,1,4,kccn-sct-vn,qlks-sct-vn,,,,,,
 QĐ 5/2025/QĐ-PD,QĐ,1,2,sd-vlncn-sct-vn,,,,,,,
 QĐ 5/2025/QĐ-UBND,QĐ,15,62,attp-sct-vn;bvmt-sct-vn;hc-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;qlks-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;tkm-sct-vn;xd-sct-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,,01/7/2025,01/7/2025,,,,"Chức năng, nhiệm vụ, cơ cấu tổ chức Sở Công Thương"
 QĐ 5/2025/QĐ-UNBD,QĐ,1,1,sd-vlncn-sct-vn,,,,,,,
@@ -437,6 +438,7 @@ QĐ 45/2024/QĐ-UBND,QĐ,1,2,attp-sct-vn,,,,,,,
 QĐ 68/2024/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 44/2021/QĐ-UBND,QĐ,1,6,bvmt-sct-vn,,11/8/2021,,,QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026),,Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ
 QĐ 8/2021/QĐ-UBND,QĐ,1,2,attp-sct-vn,,,,,,,
+QĐ 27/2018/QĐ-TTG,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 23/2011/QĐ-UBND,QĐ,1,5,bvmt-sct-vn,,,,,,,
 QĐ 105/2009/QĐ-TTG,QĐ,1,8,kccn-sct-vn,,,,,,,
 QĐ 105/2008/QĐ-TTG,QĐ,2,3,qlks-sct-vn;quy-hoach-ct-vn,,,,,,,
@@ -634,7 +636,7 @@ QCVN 10:2025/BCA,QCVN,1,7,pccc-sct-vn,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-
 QCVN 26:2025/BNNMT,QCVN,1,1,bvmt-sct-vn,kccn-sct-vn,,,,,,
 QCVN 27:2025/BNNMT,QCVN,1,1,bvmt-sct-vn,bvmt-sct-vn;kccn-sct-vn,,,,,,
 QCVN 40:2025/BTNMT,QCVN,3,11,bvmt-sct-vn;kccn-sct-vn;qlks-sct-vn,,,,,,,
-QCVN 07:2023/BXD,QCVN,1,4,kccn-sct-vn,,,,,,,
+QCVN 07:2023/BXD,QCVN,1,5,kccn-sct-vn,,,,,,,
 QCVN 06:2022/BXD,QCVN,3,17,kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn,bvmt-sct-vn,,,,,,
 QCVN 01:2021/BXD,QCVN,2,12,bvmt-sct-vn;kccn-sct-vn,xp-sct-vn,,,,,,
 QCVN 40:2021/BTNMT,QCVN,1,4,kccn-sct-vn,,,,,,,

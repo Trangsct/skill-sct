@@ -483,9 +483,19 @@
       "ngay_ban_hanh": "2026-09-28",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17619755; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án Trường Mầm non A Mú Sung, xã A Mú Sung"
     },
+    "QĐ 3556/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-09-30",
+      "ngay_hieu_luc": "2026-09-30",
+      "ghi_chu": "Quy chế thu thập, quản lý, sử dụng, cập nhật, khai thác, chia sẻ dữ liệu TNMT tỉnh Lào Cai (PCT Nguyễn Thành Sinh ký); bãi bỏ QĐ 44/2021/QĐ-UBND, QĐ 23/2011/QĐ-UBND (Yên Bái), k16 Đ3 QĐ 59/2025/QĐ-UBND — bản gốc bvmt-sct-vn/van-ban-goc/tinh, ref 12"
+    },
     "QĐ 42/2026/QĐ-TTG": {
       "ngay_hieu_luc": "2026-09-25",
       "ghi_chu": "Danh mục cơ sở kiểm kê KNK (18 cơ sở công thương Lào Cai)"
+    },
+    "QĐ 44/2021/QĐ-UBND": {
+      "ngay_ban_hanh": "2021-08-11",
+      "bi_thay_the_boi": "QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026)",
+      "ghi_chu": "Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ"
     },
     "QĐ 5/2025/QĐ-UBND": {
       "ngay_ban_hanh": "2025-07-01",

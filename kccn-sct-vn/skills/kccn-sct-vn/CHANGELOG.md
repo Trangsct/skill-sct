@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.45.0] - 01/10/2026 — Kỳ cập nhật 01/10/2026: báo cáo của UBND cấp xã và chủ đầu tư hạ tầng theo CV 6059/SCT-CN ngày 28/9/2026
+
+- **Nguồn:** 09 tệp người dùng gửi 01/10/2026 — BC 604/BC-TCT (28/9, Bắc Duyên Hải, kèm Phụ biểu 01), 585/BC-UBND (29/9, phường Văn Phú), 590/BC-UBND (29/9, xã Lục Yên, bản scan), 364/BC-UBND (30/9, xã Đông Cuông), 388/BC-UBND (29/9, xã Hưng Khánh), 30/BC-THDA (29/9, Công ty 888, bản scan), 37/2026/TB-BC (29/9, Công ty Tây Bắc, bản scan). Số/ngày bản ký số đọc bằng `extract_metadata.py`; bản scan soi ảnh từng trang. Bản gốc và Phụ biểu (số điện thoại, nợ từng cơ sở) không chép vào kho.
+- **`references/42-ky-cap-nhat-01-10-2026-bao-cao-xa-cv-6059.md` (mới):** bảng văn bản đầu vào; số liệu GPMB phần thuộc phường Văn Phú của các CCN Phú Thịnh 1 (23,3%), Phú Thịnh 2 (74,9%), Phú Thịnh 3 (~59%); báo cáo Công ty 888 (chi trả 54,49 ha/60,496 tỷ đến 22/9; đơn xin thuê đất GĐ1 37,38 ha, chưa có QĐ cho thuê, hạn 15/11/2026; 2,3 ha đất dôi dư; điều chỉnh cục bộ QHCT 1/500); đất Chè Văn Hưng 40,97 ha, Ban QLDA khu vực Yên Bình giải thể 15/5/2026; Y Can (6,8 ha, 14,3 tỷ; giao đất 10/2026; khởi công dự kiến 11/2026); Yên Thế (05 DN 23,78 ha, 10 DN chờ 27,18 ha, thiếu XLNT và bãi thải bột đá, xã lựa chọn nhà đầu tư hạ tầng vốn ngoài NSNN 204,242 tỷ); Hưng Khánh (02 DN thuê 3,81 ha, HTX Hưng Thành, BHT VINA; TTr 68, 76, 565/TTr-UBND); Bắc Văn Yên (đường vào 320 m 36,5 tỷ; lô CN.06–CN.09), Đông An (lô CN.01–CN.07, CN.05 còn trống; điều chỉnh QHCT), An Bình (tích hợp QH chung xã); Bắc Duyên Hải (105 cơ sở; 83/105 đã kiểm tra; 06 nhóm vướng mắc; kiến nghị theo cơ quan). **Mục C: 12 điểm vênh chờ người dùng chốt**; mục D: kiến nghị theo cơ quan; mục E: văn bản liên quan trong bản tin Data360X 30/9/2026.
+- **ref 41:** thêm dòng trỏ sang ref 42; làm rõ "thuê đất 37 ha" của Phú Thịnh 2 là đơn xin thuê; ghi mốc khởi công Y Can theo báo cáo CĐT bên cạnh mốc 10/2026.
+- **SKILL.md:** description nêu ref 42 là mới nhất về hiện trạng; thêm dòng ref 42, đổi nhãn ref 41.
+- **check_facts.py:** thêm rule `ccn-phu-thinh-2-chua-co-qd-thue-dat` (FAIL) và `ccn-y-can-khoi-cong-11-2026` (WARN).
+- `plugin.json` → 1.45.0.
+
 ## [1.44.0] - 28/9/2026 — Kỳ cập nhật 28/9/2026: Mông Sơn, Yên Hợp 2 đã có Quyết định thành lập; tuyến Quốc lộ 4E phê duyệt dự án; bản gốc QĐ 2071; bộ tài liệu họp Chủ tịch UBND tỉnh về CCN
 
 - **Nguồn:** Báo cáo 5945/BC-SCT ngày 23/9/2026 (bản ban hành); bản gốc QĐ 2071/QĐ-UBND ngày 15/6/2026 và QĐ 3480/QĐ-UBND ngày 27/9/2026 (đọc bằng `extract_metadata.py`); bản scan Thông báo khởi công 43/TBKC-LCI ngày 25/4/2026; Excel Phòng 28/9/2026; sổ văn bản đi Data360X 09–28/9/2026; hồ sơ họp 19/6/2026 của VP UBND tỉnh; các mốc Bạn chốt 17–25/9/2026.

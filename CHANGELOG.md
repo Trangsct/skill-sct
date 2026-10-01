@@ -1,3 +1,9 @@
+## kccn-sct-vn 1.45.0 — 01/10/2026: báo cáo của UBND cấp xã và chủ đầu tư hạ tầng theo CV 6059/SCT-CN ngày 28/9/2026
+
+- Reference 42 mới: 07 báo cáo (Bắc Duyên Hải; phường Văn Phú — Phú Thịnh 1, 2, 3; xã Lục Yên — Yên Thế; xã Đông Cuông — Bắc Văn Yên, Đông An, An Bình; xã Hưng Khánh; Công ty 888 — Phú Thịnh 2; Công ty Tây Bắc — Y Can): số liệu GPMB, doanh nghiệp, hạ tầng, kiến nghị; bảng 12 điểm vênh chờ chốt.
+- Ref 41 trỏ sang ref 42; check_facts thêm `ccn-phu-thinh-2-chua-co-qd-thue-dat` (FAIL), `ccn-y-can-khoi-cong-11-2026` (WARN).
+- Kèm theo: sinh lại `vbhc-vn/.../data/vbpl.json` từ `registry/trang-thai.csv` (bước nạp VBPL đầu phiên; không có dòng mới).
+
 ## bvmt-sct-vn 1.6.0 — 01/10/2026: Quy chế dữ liệu tài nguyên và môi trường tỉnh Lào Cai (QĐ 3556/QĐ-UBND ngày 30/9/2026)
 
 - Reference 12 mới: phần việc của Sở Công Thương theo Quy chế kèm QĐ 3556/QĐ-UBND — giao nộp dữ liệu (≤ 30 ngày sau nghiệm thu nhiệm vụ; 01 năm; 03–04 tháng hồ sơ XDCB), biên bản BM.01 TT 03/2022, metadata, Mẫu 01 và báo cáo Mẫu 05 NĐ 73/2017 trước 15/12 hằng năm; bảng dữ liệu TNMT đang ở Sở; điểm vênh về khoáng sản với NQ 66.25/2026/NQ-CP; lịch việc đề xuất.

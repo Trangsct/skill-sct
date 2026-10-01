@@ -15,7 +15,7 @@ Tóm tắt để định hướng; **khi quyết định thẩm quyền một h�
 
 | Nhóm | CQCM về xây dựng | Căn cứ vận dụng thực tế |
 |---|---|---|
-| I | **Sở Công Thương** (Phòng QLCN — CN(Dũng)) | QĐ 05/2025/QĐ-UBND 01/7/2025 (chức năng SCT); Đ7 QĐ 11/2026 |
+| I | **Sở Công Thương** (Phòng QLCN — CV Dũng) | QĐ 05/2025/QĐ-UBND 01/7/2025 (chức năng SCT); Đ7 QĐ 11/2026 |
 | II | **Sở Xây dựng** | QĐ 09/2025/QĐ-UBND 01/7/2025 (chức năng SXD); tiền lệ: 2 CV từ chối đá hoa trắng Mông Sơn V và Làng Lạnh II (11-12/2025) |
 | III | **Sở Xây dựng** (giai đoạn trước 7/2025 tại Lào Cai cũ: Sở GTVT-XD — tiền lệ mỏ đá Sâu Chua 2019) | như trên |
 | IV | Không qua CQCM (phương án khai thác) | Luật 147/2025; NĐ 21/2026 |

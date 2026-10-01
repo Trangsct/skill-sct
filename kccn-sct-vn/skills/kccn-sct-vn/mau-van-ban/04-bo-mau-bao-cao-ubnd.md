@@ -1,6 +1,6 @@
 # Bộ mẫu 04 — Báo cáo UBND tỉnh và Bộ Công Thương
 
-Bộ mẫu báo cáo định kỳ/chuyên đề về CCN. Ký hiệu **BC-SCT**; người ký **Giám đốc Hoàng Chí Hiền** (báo cáo tổng thể gửi UBND tỉnh/Bộ); Lưu **VT, CN(Trung)**. Chế độ báo cáo, biểu mẫu số liệu: reference 09.
+Bộ mẫu báo cáo định kỳ/chuyên đề về CCN. Ký hiệu **BC-SCT**; người ký **Giám đốc Hoàng Chí Hiền** (báo cáo tổng thể gửi UBND tỉnh/Bộ); Lưu **VT, CN.**. Chế độ báo cáo, biểu mẫu số liệu: reference 09.
 
 ---
 
@@ -35,7 +35,7 @@ Bộ mẫu báo cáo định kỳ/chuyên đề về CCN. Ký hiệu **BC-SCT**;
 3. Kiến nghị Bộ Công Thương: {…} (ví dụ: sớm ban hành nghị định sửa đổi NĐ 32; hướng dẫn CSDL CCN).
 Kèm biểu số liệu (Biểu 04 Phụ lục I TT 14/2024)./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: GIÁM ĐỐC Hoàng Chí Hiền.*
 
 ---
@@ -52,7 +52,7 @@ Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
 **III. TỒN TẠI, NGUYÊN NHÂN** {…}.
 **IV. GIẢI PHÁP, KIẾN NGHỊ** {…}./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: GIÁM ĐỐC Hoàng Chí Hiền.*
 
 ---
@@ -69,7 +69,7 @@ Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
 3. **Khó khăn, vướng mắc:** {…}.
 4. **Đề xuất, kiến nghị:** {…}./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: {GIÁM ĐỐC Hoàng Chí Hiền / KT.GĐ - PGĐ Nguyễn Đình Chiến tùy tính chất}.*
 
 ---

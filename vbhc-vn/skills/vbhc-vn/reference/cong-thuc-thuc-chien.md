@@ -21,6 +21,6 @@ Việc CCN thường gồm 1 báo cáo + nhiều phụ lục + đôi khi bản c
 - **Xác minh số/ngày từ PDF công văn đến** bằng `scripts/extract_metadata.py` (mục "Đọc PDF văn bản đến") trước khi trích dẫn (vùng số/ngày hay bị trống trong context do PDF layout 2 cột) — đã nhiều lần phát hiện số thật khác hẳn (vd 833/BQL-QHXD, 3501/SCT-CN, 2861/SYT-NVY).
 - Tránh dùng "dự kiến", "gần như", "có thể" trong bản trình ký (trừ khi là **tên gọi văn bản** hoặc thuật ngữ chuẩn như "tổng mức đầu tư dự kiến" ở bước chủ trương).
 
-### Mã người soạn ở dòng "Lưu" và người ký
-- Dòng lưu: `Lưu: VT, CN(<Mã>).` với mã viết tắt người soạn của Phòng QLCN (đã gặp: Long, Trang, Khôi, LTH…). Hỏi/ướm theo người thụ lý hồ sơ; nếu không rõ để `Lưu: VT, CN.`.
+### Dòng "Lưu" và người ký
+- Dòng lưu: `Lưu: VT, CN.` — không ghi tên/mã người soạn (Bạn chốt 01/10/2026).
 - **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (KCN/CCN/ATTP → Nguyễn Đình Chiến; HHNH/hóa chất/VLNCN/khoáng sản/môi trường/PCCC/KHCN/ATVSLĐ/năng lượng/thương mại → Hoàng Văn Thuân; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.

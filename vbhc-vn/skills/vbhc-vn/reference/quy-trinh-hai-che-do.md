@@ -107,8 +107,7 @@ doc.replace_body_paragraphs(start_idx=4, end_idx=16, new_paragraphs=[
     # ...
 ])
 
-# Sửa Lưu VT
-doc.replace_in_cell(1, 0, 0, 'Lưu: VT, CN.', 'Lưu: VT, CN(Tên).')
+# Dòng Lưu giữ nguyên 'Lưu: VT, CN.' — không ghi tên chuyên viên (save() tự bỏ tên còn sót)
 
 # Lưu
 doc.save('output/cong-van-moi.docx')

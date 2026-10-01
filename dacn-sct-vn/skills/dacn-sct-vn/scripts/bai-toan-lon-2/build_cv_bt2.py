@@ -98,7 +98,7 @@ for p in c_nn.paragraphs:
     if 'UBND tỉnh' in p.text:
         set_text(p, '- UBND tỉnh (báo cáo);')
     if 'Lưu' in p.text:
-        set_text(p, '- Lưu: VT, CN(Khôi).')
+        set_text(p, '- Lưu: VT, CN.')
 c_ky = d.tables[1].rows[0].cells[1]
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn

@@ -1,6 +1,6 @@
 # 14 — Bộ mẫu văn bản kết quả của Sở (việc → mẫu → reference)
 
-Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn kết hợp `vbhc-vn` (thể thức NĐ 30/2020, mẫu 08/09) và `sct-laocai-org-vn` (người ký, dòng Lưu). Ưu tiên **sửa từ ví dụ thực tế** tại `vi-du-thuc-te/` thay vì soạn mới. Người soạn/dòng Lưu: **VT, CN(Loan)**. Không bịa số/ngày.
+Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn kết hợp `vbhc-vn` (thể thức NĐ 30/2020, mẫu 08/09) và `sct-laocai-org-vn` (người ký, dòng Lưu). Ưu tiên **sửa từ ví dụ thực tế** tại `vi-du-thuc-te/` thay vì soạn mới. Người soạn/dòng Lưu: **VT, CV Loan**. Không bịa số/ngày.
 
 ## 1. Bảng tra nhanh "việc → mẫu → nguồn"
 
@@ -46,7 +46,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 
 - Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phụ lục TT 01.
 - **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**; tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
-- **Dòng Lưu:** `Lưu: VT, CN(Loan).`
+- **Dòng Lưu:** `Lưu: VT, CN.`
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; "Kính gửi" không in đậm; heading mục 1,2,3 trong công văn in đậm.
 - **Không bịa số văn bản, ngày ký, mã TTHC.** Lấy số thật khi phát hành.
 

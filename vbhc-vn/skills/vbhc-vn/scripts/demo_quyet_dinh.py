@@ -81,11 +81,7 @@ def main():
         'tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.'
     )
 
-    # ==========================================================
-    # Lưu VT — đổi tên người soạn (mẫu là Trang - T.Dương, đổi thành Trung)
-    # ==========================================================
-    doc.replace_in_cell(1, 0, 0, '- Lưu VT, CN(Trang - T.Dương).',
-                        '- Lưu: VT, CN(Trung).')
+    # Dòng Lưu của mẫu đã là "- Lưu: VT, CN." — không ghi tên chuyên viên (Bạn chốt 01/10/2026)
 
     # Người ký giữ nguyên (KT. GĐ - PGĐ Nguyễn Đình Chiến)
 

@@ -64,4 +64,4 @@ Sở Công Thương **không** làm thay vai trò chủ trì này. Khi nhận m�
 2. Viện dẫn TT 35/2015/TT-BCT đang hiệu lực → **SAI**, đã hết hiệu lực.
 3. Gọi cơ quan môi trường là "Sở Tài nguyên và Môi trường" hoặc bộ chủ quản là "Bộ Tài nguyên và Môi trường" → cập nhật thành **Sở Nông nghiệp và Môi trường / Bộ Nông nghiệp và Môi trường**.
 4. Nhận việc kiểm kê KNK của toàn tỉnh → Sở chỉ chủ trì **phần cơ sở/lĩnh vực ngành Công Thương**; tổng hợp toàn tỉnh do Sở NN&MT.
-5. Ghi sai người soạn: BVMT/KNK/các-bon là **CN(M.Long)** (Lê Minh Long), không phải CN(Trung).
+5. Ghi sai người soạn: BVMT/KNK/các-bon là **CV M.Long** (Lê Minh Long), không phải CV Trung.

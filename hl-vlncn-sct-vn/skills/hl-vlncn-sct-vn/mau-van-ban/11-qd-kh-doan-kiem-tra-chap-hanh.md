@@ -29,7 +29,7 @@ dụng con dấu của Sở; lập biên bản, báo cáo kết quả và kiến
 Điều 4. Thời hạn kiểm tra: … ngày làm việc, từ ngày … đến ngày …
 Điều 5. Chánh Văn phòng, Trưởng phòng QLCN, các ông (bà) tại Điều 1 và các tổ chức,
 doanh nghiệp liên quan căn cứ Quyết định thi hành./.
-Ký: GIÁM ĐỐC. Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN(…).
+Ký: GIÁM ĐỐC. Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN.
 ```
 
 ## B. Khung KH kiểm tra của Đoàn (/KH-ĐKT — Trưởng đoàn ký; GĐ phê duyệt bằng QĐ riêng)

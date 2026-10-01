@@ -25,7 +25,7 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R04 | Khối Kính gửi nhiều cơ quan: không in đậm, các dòng cơ quan thẳng cột | Nhóm G; Quy tắc 27(a) | `qa_rules.rule_R04` | FAIL (đậm) / WARN (thẳng cột) |
 | R05 | Không viện dẫn văn bản chưa có hiệu lực tại ngày ký | Nhóm A, D (vụ NQ 66.25 ngày 11/9/2026) | `qa_rules.rule_R05` + `data/vbpl.json` (62 văn bản, 37 có ngày hiệu lực) | FAIL |
 | R06 | Nơi nhận gửi doanh nghiệp: doanh nghiệp không ở dòng đầu; dòng cuối là Lưu | Nhóm G, Bạn chốt 07/9/2026 | `qa_rules.rule_R06` | FAIL |
-| R07 | Dòng Lưu: ký hiệu đơn vị hợp lệ, kết thúc dấu chấm, dùng "CN" không "QLCN" | Nhóm G | `qa_rules.rule_R07` | FAIL / WARN (khoảng trắng trước ngoặc) |
+| R07 | Dòng Lưu: ký hiệu đơn vị hợp lệ, kết thúc dấu chấm, dùng "CN" không "QLCN" | Nhóm G | `qa_rules.rule_R07` | FAIL / WARN (còn tên chuyên viên trong ngoặc — Bạn chốt 01/10/2026) |
 | R08 | Cấm từ suy đoán trong văn bản trình ký | Nhóm C | `qa_rules.rule_R08` → `check_document.find_speculative` | WARN |
 | R09 | Thuật ngữ sai theo danh sách cấm | Nhóm K5 | `qa_rules.rule_R09` + `data/thuat-ngu-cam.txt` | FAIL |
 | R10 | Giọng giải thích lọt vào thân văn bản | Nhóm J (31/8/2026), Nhóm L | `qa_rules.rule_R10` + `data/giong-giai-thich.txt` | WARN |
@@ -73,7 +73,7 @@ vừa bắt nhầm mẫu thật vừa bỏ lọt lỗi thật, nên **giữ nguy
 | K1, K2, K8 — giao việc cho cơ quan khác | Đòi tra thẩm quyền pháp định của từng ngành và cân nhịp văn bản theo chủ thể. |
 | L1 — cho ý kiến phải có chính kiến | Máy đếm được số lần "nhất trí" (đã đưa vào `--forbid` của Nhóm L) nhưng không đánh giá được chính kiến có đúng không. |
 | Quy tắc bất biến 6 — chọn người ký theo lĩnh vực | Phụ thuộc bảng phân công của Sở và nội dung vụ việc. |
-| Quy tắc bất biến 18 — người soạn trong dòng Lưu | Máy kiểm được ĐỊNH DẠNG (R07) nhưng không biết chuyên viên nào phụ trách vụ việc. |
+| Quy tắc bất biến 18 — dòng Lưu không ghi tên chuyên viên (01/10/2026) | Đã chuyển sang máy: R07 WARN khi còn tên; `build_vb.py`/`TemplateDoc.save()` tự bỏ tên. |
 
 ## D. Những chỗ quy tắc văn xuôi LỆCH với mẫu thật — cần Bạn chốt
 
@@ -98,7 +98,7 @@ tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
 - Mục 1 (header viết tắt): quy tắc Nhóm G "ghi đầy đủ ỦY BAN NHÂN DÂN TỈNH LÀO CAI" xếp vào
   **lịch sử** — ô header chuẩn của Sở in "UBND TỈNH LÀO CAI" ở 22/26 mẫu thật và thân văn bản
   vốn phải viết tắt UBND từ lần đầu. Không đưa vào máy kiểm. Bạn muốn khôi phục thì nói.
-- Mục 2 (`CN(Trung)` viết liền): giữ WARN — máy nhắc, không chặn.
+- Mục 2 (`CN(Trung)` viết liền): lịch sử — từ 01/10/2026 Bạn chốt bỏ hẳn tên chuyên viên ở dòng Lưu ("Lưu: VT, CN."); R07 WARN khi còn tên, mẫu thật cũ giữ nguyên.
 - Mục 3 (lề trang): giữ WARN, FAIL chỉ khi phi lý.
 - Mục 4 (`qa_all.py` đỏ 24/26): **ĐÃ HIỆU CHỈNH 4 hàm kiểm cũ theo mẫu thật** — chi tiết ngay dưới.
   Kết quả: **26/26 mẫu thật PASS `qa_all.py`**, tiêu chí VII.1 đạt.

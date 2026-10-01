@@ -52,7 +52,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 ## II. QUY TRÌNH CHUẨN (bắt buộc)
 
 - **Bước 1 — Xác minh chuyên môn tại plugin này:** đúng căn cứ pháp lý (số/ngày văn bản), đúng thẩm quyền (ai ký, mô hình 2 cấp), đúng quy trình, đúng số liệu.
-- **Bước 2 — Soạn file .docx** bằng plugin `vbhc-vn` theo thể thức NĐ 30/2020 (ký hiệu SCT-CN, Lưu VT CN(Trung) cho KCN/CCN/dự án công nghiệp). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` đọc số/ngày/người ký từ file gốc.
+- **Bước 2 — Soạn file .docx** bằng plugin `vbhc-vn` theo thể thức NĐ 30/2020 (ký hiệu SCT-CN, Lưu VT CN cho KCN/CCN/dự án công nghiệp). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` đọc số/ngày/người ký từ file gốc.
 - **Bước 3 — GATE xuất file:** render ảnh, soi kỹ lề/lùi đầu dòng/Line header/bảng/chính tả rồi mới giao.
 
 Plugin này **xác minh nội dung chuyên môn KCN/CCN**, không thay thế các plugin khác. Bảng phân vai hệ sinh thái:
@@ -68,7 +68,7 @@ Plugin này **xác minh nội dung chuyên môn KCN/CCN**, không thay thế cá
 | `hnh-sct-vn` | Vận chuyển hàng hóa nguy hiểm phục vụ dự án trong CCN |
 | `kho-vlncn-sct-vn` / `sd-vlncn-sct-vn` / `hl-vlncn-sct-vn` | GPMB có nổ mìn, kho VLNCN tạm phục vụ thi công hạ tầng CCN |
 | `quy-hoach-ct-vn` | Đối chiếu quy hoạch điện, khoáng sản khi kiểm tra chồng lấn vị trí CCN (reference 11 mục E) |
-| `sct-laocai-org-vn` | Xác định người ký, chuyên viên tham mưu, dòng Lưu VT CN(tên) |
+| `sct-laocai-org-vn` | Xác định người ký, chuyên viên tham mưu, dòng Lưu VT CN |
 | Skill `kcn-ccn-vn` (cũ) | **Là tiền thân của plugin này** — sau khi cài plugin, nên gỡ skill cũ trong Settings → Skills để tránh trùng trigger; dữ liệu hiện trạng chi tiết (reference 15-18 skill cũ) hỏi Bạn hoặc chuyển dần vào `vi-du-thuc-te/` |
 
 ## III. KHUNG PHÁP LÝ CỐT LÕI (cập nhật 7/2026 — chi tiết reference `01`)
@@ -160,7 +160,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | Báo cáo thẩm định hồ sơ thành lập/mở rộng CCN | KT.GĐ - PGĐ Nguyễn Đình Chiến (phụ trách KCN, CCN) |
 | Công văn lấy ý kiến sở ngành, cử cán bộ Hội đồng, hướng dẫn DN, nghiệp vụ Phòng QLCN | KT.GĐ - PGĐ Nguyễn Đình Chiến |
 
-Dòng lưu: **Lưu: VT, CN(Trung)** (chuyên viên tham mưu KCN/CCN/dự án công nghiệp). Trưởng phòng QLCN: Nguyễn Hữu Long; Phó Trưởng phòng: Trần Trọng Trang.
+Dòng lưu: **Lưu: VT, CN** (chuyên viên tham mưu KCN/CCN/dự án công nghiệp). Trưởng phòng QLCN: Nguyễn Hữu Long; Phó Trưởng phòng: Trần Trọng Trang.
 
 ## VII. NGUYÊN TẮC BẤT BIẾN
 

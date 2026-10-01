@@ -19,7 +19,7 @@ Nguyên tắc: `tkm-sct-vn` là plugin CHUYÊN SÂU về thẩm định thiết 
 | 11 | Vận chuyển hàng hóa nguy hiểm (axit, amoniac... phục vụ tuyển) | `hnh-sct-vn` | Lưu ý: vận chuyển VLNCN/TCTN KHÔNG thuộc hnh (giấy phép vận chuyển VLNCN do cơ quan Công an cấp theo pháp luật VLNCN) — chỉ hóa chất nguy hiểm loại khác mới sang hnh |
 | 12 | Nhà máy chế biến sâu đặt trong CCN/KCN (thủ tục đầu tư vào cụm, ưu đãi, khởi công trong CCN) | `kccn-sct-vn` | tkm chỉ thẩm định thiết kế phần khai thác mỏ; dự án trong CCN → điều kiện CCN theo kccn |
 | 13 | Soạn - render mọi văn bản (.docx), QA thể thức | `vbhc-vn` | Mọi output văn bản của tkm đi qua vbhc Chế độ B, dùng file `vi-du-thuc-te/` làm template gốc |
-| 14 | Ai ký, phòng nào chủ trì, dòng Lưu | `sct-laocai-org-vn` | tkm mặc định PGĐ Hoàng Văn Thuân + CN(Dũng); trường hợp lạ (liên phòng, trình GĐ) → tra org |
+| 14 | Ai ký, phòng nào chủ trì, dòng Lưu | `sct-laocai-org-vn` | tkm mặc định PGĐ Hoàng Văn Thuân + CV Dũng; trường hợp lạ (liên phòng, trình GĐ) → tra org |
 | 15 | Bài phát biểu, tham luận về khoáng sản/thiết kế mỏ cho Lãnh đạo Sở | `bpb-sct-vn` | tkm cấp chất liệu (số liệu BC 452, dòng thời gian pháp lý, tồn tại - kiến nghị); kết cấu và giọng văn → bpb |
 
 ## B. Bốn kịch bản liên plugin hay gặp (chuỗi gọi chuẩn)

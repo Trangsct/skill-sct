@@ -23,7 +23,7 @@ render kiểm tra rồi mới giao (nguyên tắc pre-delivery của Bạn).
   dùng con dấu và thể thức của Sở; nếu chưa ủy quyền thì **Sở thẩm định, trình Chủ tịch
   UBND tỉnh ký**. **Đến 05/7/2026 chưa xác minh QĐ ủy quyền — phải hỏi Bạn trước khi
   chốt người ký** (xem CHANGELOG mục "Việc chờ xác minh").
-- Dòng Lưu: `Lưu: VT, CN(Loan)` (Nguyễn Thị Loan — chuyên viên tham mưu hóa chất).
+- Dòng Lưu: `Lưu: VT, CN` (Nguyễn Thị Loan — chuyên viên tham mưu hóa chất).
 - Sau khi cấp phải gửi bản sao đến **Bộ Công Thương (Cục Hóa chất)** và UBND cấp tỉnh
   nơi đặt trụ sở chính/cơ sở SX-KD để phối hợp quản lý (điểm đ khoản 5 Điều 9 NĐ 26).
 

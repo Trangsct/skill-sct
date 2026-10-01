@@ -21,7 +21,7 @@ Sở Công Thương Lào Cai thông báo cho các đơn vị hoạt động vậ
 địa bàn tỉnh được biết và triển khai thực hiện./.
 
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân. Nơi nhận: Như trên; Ban Giám đốc Sở;
-Lưu: VT, CN(…).
+Lưu: VT, CN.
 ```
 
 ⚠️ Kiểm tra kỹ ngày tháng trước khi phát hành (TB 3915 bản phát hành từng in "tháng 76").

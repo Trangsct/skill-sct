@@ -16,7 +16,7 @@
 | Báo cáo Bộ Công Thương (Cục KTAT&MTCN) về an toàn ngành | Theo yêu cầu | Máy thiết bị nhóm Công Thương, sự cố ngành | GĐ Sở / PGĐ Thuân |
 | Ý kiến thành viên Hội đồng ATVSLĐ tỉnh (nếu là thành viên) | Theo phiên họp | Đánh giá rủi ro ngành; đề xuất kiểm tra liên ngành | PGĐ Thuân |
 
-Chuyên viên tham mưu: **CN(Linh)**; PTP kiểm duyệt: **Trang**; TP: **Long**. Nội dung số liệu: lấy từ báo cáo giao ban Phòng QLCN, kết quả kiểm tra chuyên ngành (`xp-sct-vn`), số GCN huấn luyện VLNCN (`hl-vlncn-sct-vn`).
+Chuyên viên tham mưu: **CV Linh**; PTP kiểm duyệt: **Trang**; TP: **Long**. Nội dung số liệu: lấy từ báo cáo giao ban Phòng QLCN, kết quả kiểm tra chuyên ngành (`xp-sct-vn`), số GCN huấn luyện VLNCN (`hl-vlncn-sct-vn`).
 
 ## C. Anti-error
 

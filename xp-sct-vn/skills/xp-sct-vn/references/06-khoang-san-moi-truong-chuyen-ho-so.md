@@ -42,7 +42,7 @@ Nghiệp vụ: `qlks-sct-vn` (đặc biệt reference 02 phân vai, 08 kiểm tr
 4. **Đề nghị cụ thể**: xem xét, xử lý theo thẩm quyền; **thông báo kết quả** về Sở để tổng hợp báo cáo UBND tỉnh/Thanh tra tỉnh (dòng này là bằng chứng "đã đôn đốc").
 5. **Tài liệu kèm**: bản sao biên bản, ảnh, sơ đồ; danh mục đánh số.
 
-Nơi nhận luôn có: cơ quan nhận; UBND tỉnh (b/c) nếu vụ việc theo chỉ đạo; UBND xã nơi có cơ sở; Lưu VT, CN(tên), HSKT.
+Nơi nhận luôn có: cơ quan nhận; UBND tỉnh (b/c) nếu vụ việc theo chỉ đạo; UBND xã nơi có cơ sở; Lưu VT, CN, HSKT.
 
 ## D. Tiền lệ 2026 để dẫn chiếu cách làm
 

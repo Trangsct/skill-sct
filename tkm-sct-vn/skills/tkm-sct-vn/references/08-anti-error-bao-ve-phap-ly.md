@@ -44,6 +44,6 @@ Mục tiêu: mọi văn bản do plugin hỗ trợ soạn phải "đứng vững
 - [ ] Có câu giới hạn phạm vi + câu ranh giới trách nhiệm (nếu là văn bản trả/từ chối/chấm dứt)?
 - [ ] Đối chiếu giấy phép khai thác + trữ lượng đã ghi kết quả vào văn bản?
 - [ ] Địa danh "xã ..., tỉnh Lào Cai"; chú thích địa danh cũ đúng cách?
-- [ ] Nơi nhận đủ: Như trên / GĐ-PGĐ / Một cửa (T/h) / đơn vị phối hợp / Lưu: VT, CN(Dũng)?
+- [ ] Nơi nhận đủ: Như trên / GĐ-PGĐ / Một cửa (T/h) / đơn vị phối hợp / Lưu: VT, CN?
 - [ ] Người ký đúng phân công (PGĐ Hoàng Văn Thuân)?
 - [ ] Đã render soi ảnh từng trang (qua `vbhc-vn`)?

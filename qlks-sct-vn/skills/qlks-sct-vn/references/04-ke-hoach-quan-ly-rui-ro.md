@@ -57,7 +57,7 @@ B5 Sau phê duyệt: vào sổ theo dõi; nhắc doanh nghiệp thực hiện v�
    thay đổi công nghệ, điều kiện khai thác
 ```
 
-Người ký tham mưu: PGĐ Hoàng Văn Thuân (văn bản Sở), GĐ ký Tờ trình UBND tỉnh nếu quan trọng; Lưu: VT, CN(Dũng).
+Người ký tham mưu: PGĐ Hoàng Văn Thuân (văn bản Sở), GĐ ký Tờ trình UBND tỉnh nếu quan trọng; Lưu: VT, CN.
 
 ## VIII. LỖI CẦN TRÁNH
 

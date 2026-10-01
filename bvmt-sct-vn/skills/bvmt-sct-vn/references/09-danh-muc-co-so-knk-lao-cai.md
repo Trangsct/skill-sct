@@ -1,6 +1,6 @@
 # 09 — Danh mục cơ sở phải kiểm kê KNK tại Lào Cai theo QĐ 42/2026/QĐ-TTg và hạn ngạch đã phân bổ
 
-> Nguồn: **QĐ 42/2026/QĐ-TTg ngày 10/8/2026** của Thủ tướng Chính phủ (hiệu lực **25/9/2026**, thay QĐ 13/2024/QĐ-TTg) — bản text tại `van-ban-goc/knk-bdkh/QD-42-2026-QD-TTg-10-8-2026-danh-muc-co-so-kiem-ke-KNK.txt`; **QĐ 699/QĐ-BNNMT ngày 27/02/2026** thí điểm phân bổ hạn ngạch 2025–2026. Tên, địa chỉ, ngành nghề chép **nguyên văn** theo văn bản (kể cả cách viết tên). Hiện trạng hoạt động, người liên hệ, tình trạng nộp báo cáo của từng cơ sở: **hỏi Bạn / CN(M.Long)**, không suy đoán.
+> Nguồn: **QĐ 42/2026/QĐ-TTg ngày 10/8/2026** của Thủ tướng Chính phủ (hiệu lực **25/9/2026**, thay QĐ 13/2024/QĐ-TTg) — bản text tại `van-ban-goc/knk-bdkh/QD-42-2026-QD-TTg-10-8-2026-danh-muc-co-so-kiem-ke-KNK.txt`; **QĐ 699/QĐ-BNNMT ngày 27/02/2026** thí điểm phân bổ hạn ngạch 2025–2026. Tên, địa chỉ, ngành nghề chép **nguyên văn** theo văn bản (kể cả cách viết tên). Hiện trạng hoạt động, người liên hệ, tình trạng nộp báo cáo của từng cơ sở: **hỏi Bạn / CV M.Long**, không suy đoán.
 
 ## 1. Ngành Công Thương — 18 cơ sở (Phụ lục II QĐ 42, STT 8–25, mục "3. Tỉnh Lào Cai")
 
@@ -25,7 +25,7 @@
 | 24 | Công ty TNHH Khoáng Sản Và Luyện Kim Việt Trung | KCN Tằng Loỏng, xã Tằng Loỏng | Sản xuất sắt, thép, gang | **Luyện kim – ĐÃ CÓ HẠN NGẠCH** |
 | 25 | Công ty Cổ Phần Dịch Vụ Năng Lượng SBM | Thôn Cù 1, xã Gia Phú | Sản xuất, truyền tải và phân phối điện | Năng lượng (MỚI) |
 
-Tất cả địa chỉ ghi "tỉnh Lào Cai" (địa danh sau hợp nhất 01/7/2025). Nhóm "Hóa chất – Tằng Loỏng" 8 cơ sở, "Khoáng sản" 4, "Luyện kim" 2, "Chế biến" 4, "Năng lượng" 1 → thuận tiện phân công theo dõi giữa CN(M.Long) (môi trường/KNK), CN(Loan) (hóa chất), CN(Nhung)/CN(Dũng) (khoáng sản), Phòng QLNL (năng lượng).
+Tất cả địa chỉ ghi "tỉnh Lào Cai" (địa danh sau hợp nhất 01/7/2025). Nhóm "Hóa chất – Tằng Loỏng" 8 cơ sở, "Khoáng sản" 4, "Luyện kim" 2, "Chế biến" 4, "Năng lượng" 1 → thuận tiện phân công theo dõi giữa CV M.Long (môi trường/KNK), CV Loan (hóa chất), CV Nhung/CV Dũng (khoáng sản), Phòng QLNL (năng lượng).
 
 ## 2. Ngành Xây dựng (gồm giao thông vận tải) tại Lào Cai — 4 cơ sở (Phụ lục III QĐ 42), Sở Công Thương KHÔNG theo dõi
 

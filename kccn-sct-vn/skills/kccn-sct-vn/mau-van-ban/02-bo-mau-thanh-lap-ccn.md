@@ -1,6 +1,6 @@
 # Bộ mẫu 02 — Văn bản của Sở Công Thương trong thành lập/mở rộng CCN
 
-Bộ 04 mẫu cốt lõi Sở Công Thương soạn khi tham mưu Giám đốc Sở thành lập/mở rộng CCN. Điền chỗ `{…}`; áp thể thức NĐ 30/2020 qua `vbhc-vn`; ký hiệu **SCT-CN**; Lưu **VT, CN(Trung)**; GATE render trước khi giao. Trình tự các mẫu bám theo quy trình 4 bước (reference 05).
+Bộ 04 mẫu cốt lõi Sở Công Thương soạn khi tham mưu Giám đốc Sở thành lập/mở rộng CCN. Điền chỗ `{…}`; áp thể thức NĐ 30/2020 qua `vbhc-vn`; ký hiệu **SCT-CN**; Lưu **VT, CN.**; GATE render trước khi giao. Trình tự các mẫu bám theo quy trình 4 bước (reference 05).
 
 ---
 
@@ -30,7 +30,7 @@ Căn cứ Điều 10, Điều 11 Nghị định số 32/2024/NĐ-CP ngày 15/3/2
 
 **Đề nghị Quý cơ quan trả lời bằng văn bản trong thời hạn 10 ngày làm việc** kể từ ngày nhận được công văn này (quá thời hạn không có ý kiến được coi là đồng ý và chịu trách nhiệm về nội dung được đề nghị phối hợp — theo Quy chế CCN tỉnh). Hồ sơ gửi kèm gồm: {liệt kê}.
 
-Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN.
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -69,7 +69,7 @@ Căn cứ Nghị định số 32/2024/NĐ-CP ngày 15/3/2024 của Chính phủ;
    - {Ban hành Quyết định thành lập CCN, giao {DN} làm chủ đầu tư (sau khi Hội đồng chấm ≥50 điểm)}; HOẶC
    - {Yêu cầu nhà đầu tư bổ sung, hoàn thiện hồ sơ nội dung {…} trước khi tổ chức chấm điểm}.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -94,7 +94,7 @@ Trên cơ sở hồ sơ và Báo cáo thẩm định số {…}/BC-SCT ngày {�
 **III. KIẾN NGHỊ**
 Kính đề nghị UBND tỉnh xem xét, {ban hành Quyết định thành lập Hội đồng / Quyết định thành lập cụm công nghiệp} theo dự thảo kèm theo./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: GIÁM ĐỐC Hoàng Chí Hiền.*
 
 ---

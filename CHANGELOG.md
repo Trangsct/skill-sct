@@ -1,3 +1,12 @@
+## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
+
+- Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".
+- vbhc-vn 2.28.0: `fill_template.chuan_hoa_dong_luu()` tự bỏ tên khi dựng từ mẫu thật cũ (`build_vb.py`, `TemplateDoc.save()`); R07 WARN khi còn tên; template trắng 02–06, 08 sửa dòng Lưu; mẫu thật `examples/` giữ nguyên.
+- sct-laocai-org-vn 2.5.0: bảng chuyên viên ↔ lĩnh vực chỉ còn để phân việc, không đưa tên vào văn bản.
+- Mọi plugin nghiệp vụ: mẫu văn bản, hướng dẫn về `Lưu: VT, CN.`; chỗ nêu chuyên viên tham mưu đổi "CN(Tên)" thành "CV Tên". Ví dụ thực tế, văn bản gốc, CHANGELOG cũ giữ nguyên (lịch sử).
+- `scripts/check_facts.py`: rule mới `luu-khong-ghi-ten-chuyen-vien` (FAIL), bỏ rule `cn-m-cuong-vlncn`.
+- Phiên bản: attp-sct-vn 1.5.2, atvsld-sct-vn 1.0.1, bvmt-sct-vn 1.6.1, dacn-sct-vn 1.6.2, data360x-sct-vn 1.1.1, hc-sct-vn 1.3.1, hl-vlncn-sct-vn 1.4.4, hnh-sct-vn 1.11.1, kccn-sct-vn 1.46.1, kho-vlncn-sct-vn 1.12.1, pccc-sct-vn 1.3.1, qlks-sct-vn 2.1.1, quy-hoach-ct-vn 1.4.1, sct-laocai-org-vn 2.5.0, sd-vlncn-sct-vn 2026.10.1.1, tkm-sct-vn 1.4.1, vbhc-vn 2.28.0, xd-sct-vn 1.6.1, xp-hc-vlncn-sct-vn 1.6.2, xp-sct-vn 1.6.1.
+
 ## kccn-sct-vn 1.46.0 — 01/10/2026: 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD ngày 27/9/2026); chi tiết QĐ 3480 tuyến 4E
 
 - Ref 15 mục IV-ter mới: bảng 38 nhóm ngành (mã ngành QĐ 36/2025/QĐ-TTg, STT Phụ lục II NĐ 48/2026/NĐ-CP), điều kiện BVMT, lưu ý khi góp ý dự án thứ cấp.

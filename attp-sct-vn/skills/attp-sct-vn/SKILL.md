@@ -1,6 +1,6 @@
 ---
 name: attp-sct-vn
-description: "AN TOÀN THỰC PHẨM (ATTP) và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai. Kích hoạt: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP (GCNATTP-SCTLC), Đoàn thẩm định, tự công bố và đăng tải sản phẩm, bản cam kết, hộ kinh doanh nhỏ lẻ cấp xã, rượu, thuốc lá, hậu kiểm, ngộ độc thực phẩm, kiểm tra ATTP nhập khẩu, NĐ 15/2018, NQ 15/2026. 7 nghiệp vụ: (1) thẩm định, cấp/cấp lại/thu hồi GCN ATTP (khoản 5 Điều 37 NĐ 146/2025; ủy quyền QĐ 68/QĐ-UBND 09/01/2026; hồ sơ đã cắt giảm theo NQ 66.16/2026 từ 15/4/2026); (2) tự công bố, đăng tải lên Cổng TTĐT, cơ sở không thuộc diện cấp GCN (Điều 12 NĐ 15/2018), hướng dẫn cấp xã (QĐ 28/2025 Điều 7); (3) thuốc lá (NĐ 67/2013); (4) rượu (NĐ 105/2017); (5) hậu kiểm, truy xuất nguồn gốc, thu hồi sản phẩm; (6) ranh giới 3 ngành Công Thương - Y tế - Nông nghiệp và Môi trường; (7) báo cáo. CẢNH BÁO: NĐ 46/2026 TẠM NGƯNG theo NQ 15/2026 - đọc reference 08. Từ khóa thêm: TT 43/2018/TT-BCT, TT 22/2026/TT-BNNMT, CN(Nam)."
+description: "AN TOÀN THỰC PHẨM (ATTP) và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai. Kích hoạt: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP (GCNATTP-SCTLC), Đoàn thẩm định, tự công bố và đăng tải sản phẩm, bản cam kết, hộ kinh doanh nhỏ lẻ cấp xã, rượu, thuốc lá, hậu kiểm, ngộ độc thực phẩm, kiểm tra ATTP nhập khẩu, NĐ 15/2018, NQ 15/2026. 7 nghiệp vụ: (1) thẩm định, cấp/cấp lại/thu hồi GCN ATTP (khoản 5 Điều 37 NĐ 146/2025; ủy quyền QĐ 68/QĐ-UBND 09/01/2026; hồ sơ đã cắt giảm theo NQ 66.16/2026 từ 15/4/2026); (2) tự công bố, đăng tải lên Cổng TTĐT, cơ sở không thuộc diện cấp GCN (Điều 12 NĐ 15/2018), hướng dẫn cấp xã (QĐ 28/2025 Điều 7); (3) thuốc lá (NĐ 67/2013); (4) rượu (NĐ 105/2017); (5) hậu kiểm, truy xuất nguồn gốc, thu hồi sản phẩm; (6) ranh giới 3 ngành Công Thương - Y tế - Nông nghiệp và Môi trường; (7) báo cáo. CẢNH BÁO: NĐ 46/2026 TẠM NGƯNG theo NQ 15/2026 - đọc reference 08. Từ khóa thêm: TT 43/2018/TT-BCT, TT 22/2026/TT-BNNMT, Lã Doãn Nam."
 ---
 
 # attp-sct-vn - An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm (Sở Công Thương Lào Cai)
@@ -31,7 +31,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 |---|---|---|
 | Soạn văn bản kết quả (CV, GCN, TTr, QĐ, KH, BC) | `vbhc-vn` | Thể thức NĐ 30/2020, Chế độ A/B, tên file chuẩn, QA render |
 | Nhận PDF văn bản đến, hồ sơ DN | `vbhc-pdf-reader-vn` | Đọc đúng số/ngày/người ký từ file gốc (GATE PDF) |
-| Xác định người ký, dòng Lưu CN(tên), phòng chủ trì | `sct-laocai-org-vn` | ATTP/CN tiêu dùng - thực phẩm: CN(Nam); PGĐ phụ trách ATTP: Nguyễn Đình Chiến |
+| Xác định người ký, dòng Lưu CN, phòng chủ trì | `sct-laocai-org-vn` | ATTP/CN tiêu dùng - thực phẩm: CV Nam; PGĐ phụ trách ATTP: Nguyễn Đình Chiến |
 | Cơ sở chế biến thực phẩm dùng hóa chất, phụ gia thuộc quản lý hóa chất | `hc-sct-vn` | GCN đủ điều kiện SX/KD hóa chất, khai báo hóa chất |
 | Cơ sở nằm trong KCN, CCN | `kccn-sct-vn` | Vị trí, đầu mối quản lý hạ tầng |
 | Điều kiện PCCC của cơ sở chế biến thực phẩm, kho hàng | `pccc-sct-vn` | Phụ lục phân loại cơ sở, thẩm duyệt, kiểm tra |
@@ -91,7 +91,7 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 3. **GATE HIỆU LỰC ATTP:** mỗi lần trích căn cứ ATTP, kiểm tra mục II; mặc định dùng NĐ 15/2018, không dùng NĐ 46/2026.
 3a. **ỦY QUYỀN ĐOÀN THẨM ĐỊNH - GATE ĐÃ GỠ:** căn cứ đang áp dụng là **Quyết định số 68/QĐ-UBND ngày 09/01/2026** ủy quyền Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực thương mại và ATTP. **KHÔNG dẫn QĐ 904/QĐ-UBND** (hết thời hạn 31/12/2025). Khối căn cứ chuẩn của Quyết định thành lập Đoàn thẩm định: reference 11 mục 2.
 4. **Không tra hiện trạng cơ sở trong skill** (số lượng cơ sở đã cấp GCN, danh sách doanh nghiệp) - dữ liệu tĩnh dễ lỗi thời; hỏi Bạn hoặc chờ số liệu cập nhật.
-5. **Ký hiệu văn bản:** dùng SCT-CN và dòng Lưu VT, CN(Nam) cho lĩnh vực ATTP/CN tiêu dùng - thực phẩm; GCN ATTP dùng ký hiệu GCNATTP-SCTLC. Không tự đổi sang ký hiệu phòng khác.
+5. **Ký hiệu văn bản:** dùng SCT-CN và dòng Lưu VT, CN cho lĩnh vực ATTP/CN tiêu dùng - thực phẩm; GCN ATTP dùng ký hiệu GCNATTP-SCTLC. Không tự đổi sang ký hiệu phòng khác.
 6. **Người ký:** GCN, quyết định, báo cáo quan trọng - Giám đốc Sở Hoàng Chí Hiền; KT.GĐ - PGĐ Nguyễn Đình Chiến (phụ trách ATTP).
 7. **Biên bản thẩm định/kiểm tra dạng bảng có ô đánh giá (Đạt/Không đạt, checkbox):** giữ nguyên như mẫu, **không tự điền X**, chỉ thay thông tin cơ sở.
 

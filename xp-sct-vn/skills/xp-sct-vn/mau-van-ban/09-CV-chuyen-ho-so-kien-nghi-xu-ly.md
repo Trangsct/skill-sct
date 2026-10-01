@@ -30,5 +30,5 @@ Nơi nhận:                                            GIÁM ĐỐC (hoặc KT.
 - [Thanh tra tỉnh (b/c) — nếu sau KLTT];
 - UBND xã {{…}} (phối hợp);
 - {{Tên đối tượng}} (để biết, thực hiện);
-- Lưu: VT, CN({{tên}}), HSKT.
+- Lưu: VT, CN, HSKT.
 ```

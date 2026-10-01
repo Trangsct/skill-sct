@@ -1,7 +1,7 @@
 # Mẫu 21 — CÔNG VĂN triển khai quy định mới của Luật 118/2025/QH15 về VLNCN
 
 > Khung docx: `vi-du-thuc-te/CV-trien-khai-Luat-118-2025-VLNCN-du-thao-9.8.2026.docx` (dự thảo 09/8/2026, dựng theo Chế độ B từ `CV-don-doc-bao-quan-su-dung-VLNCN.docx`, đã QA PASS 2 trang).
-> Số:      /SCT-CN. Kính gửi: Các tổ chức, cá nhân hoạt động vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai. Người ký: KT. GIÁM ĐỐC, PHÓ GIÁM ĐỐC Hoàng Văn Thuân. Lưu: VT, CN(Khôi).
+> Số:      /SCT-CN. Kính gửi: Các tổ chức, cá nhân hoạt động vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai. Người ký: KT. GIÁM ĐỐC, PHÓ GIÁM ĐỐC Hoàng Văn Thuân. Lưu: VT, CN.
 
 **V/v triển khai quy định mới của Luật số 118/2025/QH15 về vật liệu nổ công nghiệp**
 
@@ -21,5 +21,5 @@ Dùng khi cần **tuyên truyền, đôn đốc doanh nghiệp** thực hiện c
 **Lưu ý khi dùng lại:**
 - Bản này **không nêu chế tài** (khác mẫu 13) vì là văn bản triển khai quy định mới, doanh nghiệp chưa có lỗi — theo Nhóm I văn phong công văn gửi doanh nghiệp của `vbhc-vn`.
 - Nếu bổ sung chế tài: **NĐ 275/2026 chỉ áp dụng từ 25/8/2026**; trước mốc đó viện dẫn NĐ 71/2019 sđ NĐ 17/2022 (xem `xp-hc-vlncn-sct-vn/references/06`).
-- Xác nhận lại người soạn ở dòng Lưu trước khi trình ký (VLNCN → CN(Khôi); bản gốc mẫu 13 dùng CN(Khôi)).
+- Xác nhận lại người soạn ở dòng Lưu trước khi trình ký (VLNCN → CV Khôi; bản gốc mẫu 13 dùng CV Khôi).
 - Mục 6 viện dẫn **QĐ 2272/QĐ-UBND ngày 29/6/2026** (bản ký trong `van-ban-goc/`) — số/ngày đã GATE xác minh, dùng thẳng.

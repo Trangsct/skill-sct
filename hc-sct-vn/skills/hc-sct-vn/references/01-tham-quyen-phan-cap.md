@@ -57,7 +57,7 @@ Thẩm quyền pháp lý của tất cả TTHC mục 2a là của **UBND cấp t
 
 ## 5. Người soạn — dòng Lưu, PGĐ phụ trách (tra `sct-laocai-org-vn`)
 
-- Hóa chất → chuyên viên tham mưu **Nguyễn Thị Loan** (kiêm phòng chống thiên tai) → dòng Lưu: **`Lưu: VT, CN(Loan)`**.
+- Hóa chất → chuyên viên tham mưu **Nguyễn Thị Loan** (kiêm phòng chống thiên tai) → dòng Lưu: **`Lưu: VT, CN`**.
 - **Phân tầng duyệt nội bộ phòng:** CN Loan → **TP Nguyễn Hữu Long** duyệt (hóa chất KHÔNG thuộc phân công trực tiếp của PTP Trang) → trình PGĐ phụ trách. PTP **Trần Trọng Trang** chỉ ký thay/kiêm duyệt hóa chất **khi cán bộ phụ trách vắng**.
 - PGĐ phụ trách hóa chất: **Hoàng Văn Thuân** (ký KT.GĐ các báo cáo, công văn, cấp phép thường lệ lĩnh vực hóa chất; khi Thuân vắng → PGĐ Giang).
 - **Tờ trình, kế hoạch, chủ trương** → trình trực tiếp **GĐ Hoàng Chí Hiền**.

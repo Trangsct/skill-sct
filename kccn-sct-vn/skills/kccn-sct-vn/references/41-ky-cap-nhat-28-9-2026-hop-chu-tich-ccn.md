@@ -1,6 +1,6 @@
 # Reference 41 — Kỳ cập nhật 28/9/2026: Mông Sơn, Yên Hợp 2 đã có Quyết định thành lập; tuyến Quốc lộ 4E được phê duyệt dự án; bộ tài liệu phục vụ buổi làm việc của Chủ tịch UBND tỉnh về cụm công nghiệp
 
-> NGUỒN: phiên làm việc 28/9/2026 — (1) Báo cáo **5945/BC-SCT ngày 23/9/2026** (bản ban hành, PGĐ Nguyễn Đình Chiến ký, CN(Trung); số/ngày đọc bằng `extract_metadata.py`); (2) bản gốc **QĐ 2071/QĐ-UBND ngày 15/6/2026** và **QĐ 3480/QĐ-UBND ngày 27/9/2026** (đọc bằng `extract_metadata.py`); (3) bản scan **Thông báo khởi công 43/TBKC-LCI ngày 25/4/2026** (soi ảnh trang 1, trang 6); (4) file Excel *Tổng hợp tình hình hoạt động các CCN* của Phòng ngày 28/9/2026; (5) ảnh chụp sổ văn bản đi Data360X (từ khóa "cụm", 09/9 – 28/9/2026); (6) hồ sơ họp 19/6/2026 của Văn phòng UBND tỉnh (Giấy mời 312/GM-VPUBND ngày 17/6/2026, Báo cáo VP, kết luận, bài khai mạc) do người dùng cung cấp; (7) các mốc người dùng chốt 17 – 25/9/2026.
+> NGUỒN: phiên làm việc 28/9/2026 — (1) Báo cáo **5945/BC-SCT ngày 23/9/2026** (bản ban hành, PGĐ Nguyễn Đình Chiến ký, CV Trung; số/ngày đọc bằng `extract_metadata.py`); (2) bản gốc **QĐ 2071/QĐ-UBND ngày 15/6/2026** và **QĐ 3480/QĐ-UBND ngày 27/9/2026** (đọc bằng `extract_metadata.py`); (3) bản scan **Thông báo khởi công 43/TBKC-LCI ngày 25/4/2026** (soi ảnh trang 1, trang 6); (4) file Excel *Tổng hợp tình hình hoạt động các CCN* của Phòng ngày 28/9/2026; (5) ảnh chụp sổ văn bản đi Data360X (từ khóa "cụm", 09/9 – 28/9/2026); (6) hồ sơ họp 19/6/2026 của Văn phòng UBND tỉnh (Giấy mời 312/GM-VPUBND ngày 17/6/2026, Báo cáo VP, kết luận, bài khai mạc) do người dùng cung cấp; (7) các mốc người dùng chốt 17 – 25/9/2026.
 >
 > 🔄 **Kỳ mới hơn: ref `42` (01/10/2026)** — báo cáo của UBND cấp xã và chủ đầu tư theo CV 6059/SCT-CN: GPMB các CCN Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3, Y Can; hiện trạng Yên Thế, Hưng Khánh, Bắc Văn Yên, Đông An, An Bình, Bắc Duyên Hải; 12 điểm vênh chờ chốt.
 >
@@ -57,7 +57,7 @@ Người dùng chốt cách viết cho Bài phát biểu khai mạc, Chương tr
 5. Số dự án đang hoạt động trong bài phát biểu viết "khoảng 200", không ghi 199.
 6. Lấp đầy cao nêu Bắc Văn Yên, Thịnh Hưng, Yên Hợp — **không nêu Đầm Hồng, Bắc Duyên Hải, Đông Phố Mới, Sơn Mãn** làm điểm sáng vì đều thuộc diện di dời.
 7. Mốc giao việc (dùng lại được): Y Can khởi công 10/2026 (lịch sử — Bạn chốt 01/10/2026 theo CĐT: dự kiến 11/2026, ref 42 C.11); Minh Quân, Phú Thịnh 1 khởi công 11/2026 (Âu Lâu bàn giao ~05 ha); Mông Sơn khởi công đợt 1 trước 31/12/2026; GĐ1 03 cụm Phú Thịnh Quý IV/2026; trình thành lập Xuân Ái, Tân Nguyên, Châu Quế, Tân Hợp Quý IV/2026; 08 cụm NSNN trước 31/12/2026; phương án Chè Văn Hưng báo cáo Quý IV/2026; sửa Quy chế CCN + kiện toàn Hội đồng theo NĐ 303/2026 Quý IV/2026; đường trục chính Phú Thịnh xong năm 2026; IC18 phấn đấu trước 6/2027 (định hướng, QĐ ghi 2026–2028).
-8. Người ký Báo cáo phục vụ Chủ tịch: Giám đốc Hoàng Chí Hiền (bảng người ký mục VI SKILL.md); CN(Trung).
+8. Người ký Báo cáo phục vụ Chủ tịch: Giám đốc Hoàng Chí Hiền (bảng người ký mục VI SKILL.md); CV Trung.
 
 ## E. VIỆC CẦN THEO DÕI KỲ SAU
 

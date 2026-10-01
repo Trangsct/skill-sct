@@ -1,3 +1,8 @@
+## kccn-sct-vn 1.46.0 — 01/10/2026: 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD ngày 27/9/2026); chi tiết QĐ 3480 tuyến 4E
+
+- Ref 15 mục IV-ter mới: bảng 38 nhóm ngành (mã ngành QĐ 36/2025/QĐ-TTg, STT Phụ lục II NĐ 48/2026/NĐ-CP), điều kiện BVMT, lưu ý khi góp ý dự án thứ cấp.
+- Ref 23: mặt cắt, cơ cấu tổng mức đầu tư 130 tỷ của tuyến QL4E – CCN Thống Nhất 1 theo bản gốc QĐ 3480.
+
 ## kccn-sct-vn 1.45.1 — 01/10/2026: Bạn chốt lấy số liệu theo báo cáo của xã, chủ đầu tư (mới hơn)
 
 - Ref 42 mục C đã chốt: Yên Thế lấp đầy 59,5%, 05 DN; Hưng Khánh 32,75%; Bắc Văn Yên theo danh sách xã; Y Can khởi công dự kiến 11/2026; lấp đầy bình quân 23 cụm tính lại 30,49%. Ref 31 mục 12 mới; ref 41 đánh dấu số cũ là lịch sử.

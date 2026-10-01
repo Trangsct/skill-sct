@@ -43,6 +43,26 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ccn-phu-thinh-2-chua-co-qd-thue-dat",
+        # Chốt 01/10/2026 theo BC 30/BC-THDA ngày 29/9/2026 của Công ty TNHH Lâm nghiệp 888 Yên Bái: "37 ha" là diện tích
+        # đơn xin thuê đất GĐ1 (373.782,8 m², nộp 25/11/2025), CHƯA có quyết định cho thuê đất (hạn CĐT tự đặt 15/11/2026).
+        "pattern": r"^(?!.*(?:đơn xin|chưa có QĐ|chưa có quyết định|ref 42|lịch sử)).*Phú Thịnh 2[^\n]{0,120}thuê đất \d{2}(?:[,.]\d+)? ha",
+        "why": "CCN Phú Thịnh 2 chưa có quyết định cho thuê đất; 37,38 ha là diện tích đơn xin thuê đất giai đoạn 1 (25/11/2025) — viết 'đã nộp đơn xin thuê đất GĐ1 37,38 ha, chưa có QĐ cho thuê' (kccn-sct-vn ref 42 mục B.1, C.8).",
+        "since": "2026-09-29",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
+        "id": "ccn-y-can-khoi-cong-11-2026",
+        # 01/10/2026: BC 37/2026/TB-BC ngày 29/9/2026 của Công ty CP Luyện kim hóa chất Tây Bắc — giao đất 10/2026, dự kiến
+        # khởi công 11/2026 (mốc 10/2026 trong dự thảo kết luận của Chủ tịch 28/9 chưa được Bạn chốt lại → WARN, không FAIL).
+        "pattern": r"^(?!.*(?:11/2026|ref 42|lịch sử)).*Y Can[^\n]{0,120}khởi công[^\n]{0,30}10/2026",
+        "why": "Chủ đầu tư CCN Y Can báo cáo 29/9/2026: làm thủ tục giao đất trong 10/2026, dự kiến khởi công 11/2026 — ghi kèm mốc này (kccn-sct-vn ref 42 mục B.2, C.11).",
+        "since": "2026-09-29",
+        "level": "WARN",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
         "id": "qd-44-2021-ubnd-du-lieu-tnmt-bai-bo",
         # Chốt 01/10/2026: QĐ 3556/QĐ-UBND ngày 30/9/2026 ban hành Quy chế dữ liệu TNMT tỉnh Lào Cai, bãi bỏ
         # QĐ 44/2021/QĐ-UBND (Lào Cai cũ) và QĐ 23/2011/QĐ-UBND (Yên Bái cũ). Dòng dẫn văn bản cũ phải nhắc 3556 hoặc "bãi bỏ".

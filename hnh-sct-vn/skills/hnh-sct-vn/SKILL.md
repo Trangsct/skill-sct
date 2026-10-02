@@ -113,10 +113,10 @@ Mã TTHC đã công bố (theo Phụ lục QĐ 2848/QĐ-UBND, nguồn QĐ 1213/Q
 - `13-bao-cao-thong-ke.md` - **Báo cáo cấp trên:** các loại báo cáo và đầu mối; bộ chỉ tiêu thống kê chuẩn; khung báo cáo định kỳ/đột xuất. ĐỌC khi lập báo cáo.
 - `14-bo-mau-van-ban.md` - **Bộ mẫu văn bản kết quả:** thông báo bổ sung, từ chối, tờ trình cấp phép, thông báo CSGT, quyết định thu hồi, trả lời doanh nghiệp, quyết định/kế hoạch kiểm tra, biên bản kiểm tra, chuyển hồ sơ, báo cáo; kèm bảng tra "việc→mẫu→reference". (Biên bản VPHC/QĐ XPVPHC thuộc plugin xử phạt riêng.)
 - `15-muc-luc-van-ban-goc.md` - **Mục lục tra cứu bộ văn bản gốc** kèm trong `van-ban-goc/` và `vi-du-thuc-te/`: bảng ánh xạ từng file → nội dung → reference dùng. ĐỌC khi cần mở nguyên văn một văn bản.
-- `16-thuc-tien-cap-phep-sct.md` - **Thực tiễn cấp phép tại Sở (đúc kết hồ sơ đã xử lý 2026):** bảng tiền lệ nội bộ (An Khang, Thái Thịnh, Bắc Cường, Apatit, Sợi Phương Nam, HNL...); thể thức Giấy phép thực tế (số /GP - SCT, người ký, nơi nhận, Lưu VT, BP1C, CN); quy trình 6 bước sau ủy quyền; các quyết định nghiệp vụ đã chốt (thời hạn GP khống chế theo kiểm định, GPKDVT, lỗi phân loại điển hình). mục 10 - bộ hồ sơ mẫu loại 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam (lỗi lặp lại của đơn vị, trọng tải xe biển Trung Quốc, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp). ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.
+- `16-thuc-tien-cap-phep-sct.md` - **Thực tiễn cấp phép tại Sở (đúc kết hồ sơ đã xử lý 2026):** bảng tiền lệ nội bộ (An Khang, Thái Thịnh, Bắc Cường, Apatit, Sợi Phương Nam, HNL...); thể thức Giấy phép thực tế (số /GP - SCT, người ký, nơi nhận, Lưu VT, BP1C, CN); quy trình 6 bước sau ủy quyền; các quyết định nghiệp vụ đã chốt (thời hạn GP khống chế theo kiểm định, GPKDVT, lỗi phân loại điển hình). mục 10 - bộ hồ sơ mẫu loại 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam (lỗi lặp lại của đơn vị, trọng tải xe biển Trung Quốc, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp). mục 11 - vụ amoniac khan bằng container bồn (02/10/2026): cách lập bảng phương tiện và thiết bị chứa hàng, phép tính khối lượng thấp nhất, 05 điểm soát riêng cho container bồn. ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.
 - `17-xuyen-bien-gioi-viet-trung.md` - **Hồ sơ có yếu tố nước ngoài/xuyên biên giới Việt - Trung (chuyên sâu):** cây quyết định thẩm quyền (khoản 1 vs khoản 2 Điều 8 - loại 5,8 không có điều kiện địa bàn); giấy phép loại D của Sở Xây dựng; checklist riêng cho xe biển Trung Quốc; tiền lệ 4 vụ việc. ĐỌC khi hồ sơ có xe biển nước ngoài, pháp nhân nước ngoài hoặc tuyến qua cửa khẩu.
 - `18-khung-phap-ly-tong-hop.md` - **Khung pháp lý HHNH tổng hợp 19 văn bản** (toàn văn diễn giải, mốc hiệu lực, chuyển tiếp; tách từ SKILL.md mục II 02/9/2026).
-- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **21 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
+- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **24 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
 - `20-csdl-gp-hhnh-da-cap.md` - **Ảnh chụp tự động CSDL trang vlncn-laocai** (máy sinh, không sửa tay, đồng bộ 18h40 hằng ngày): bảng mọi GP vận chuyển HHNH Sở đã phát hành có trên trang (số, ngày, hạn, loại, tổ chức, mã số DN, hàng hóa - số UN, số phương tiện, liên kết PDF ký số), thống kê theo loại/tháng, cách trang hỗ trợ nghiệp vụ. ĐỌC khi cần tra "GP số mấy, cấp ngày nào, còn hạn không, tổ chức nào đã có GP".
 - `mau-ho-so/` - Bộ biểu mẫu dựng trực tiếp từ hồ sơ thực tế (giữ nguyên cấu trúc, nội dung đã chuyển thành placeholder): Mẫu 1 Giấy đề nghị (Phụ lục IV), Mẫu 2 Bảng kê phương tiện, Mẫu 3 Bảng kê người lái xe + người áp tải, Mẫu 4 Phương án tổ chức vận chuyển (Phụ lục V), Mẫu 5 Giấy phép vận chuyển HHNH của Sở Công Thương, Mẫu 6 Biên bản thẩm định hồ sơ cấp Giấy phép (văn bản NỘI BỘ của Sở, bản chuẩn văn phong 24/7/2026 - xe biển Việt Nam, thẩm định tại trụ sở doanh nghiệp; khi dùng cho vụ mới thay toàn bộ thông tin doanh nghiệp/phương tiện/nhân sự theo hồ sơ thực tế và cập nhật tên thành viên Đoàn theo phân công hiện hành), kèm `00-huong-dan-lap-ho-so.md`.
 
@@ -158,7 +158,7 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 
 ## VII. NGUYÊN TẮC NGHIỆP VỤ BẤT BIẾN — ⭐ BẮT BUỘC đọc `references/19-nguyen-tac-nghiep-vu-bat-bien.md` trước khi thẩm định / soạn văn bản
 
-Toàn văn 21 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
+Toàn văn 24 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
 
 - **1** — Số lượng hồ sơ: 01 bộ
 - **2** — Hình thức nộp
@@ -181,6 +181,9 @@ Toàn văn 21 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để �
 - **19** — Doanh nghiệp nộp NHIỀU bộ hồ sơ cùng đợt: soát chéo để hai Giấy phép không lệch nhau
 - **20** — BIỂN KIỂM SOÁT ghi KHÔNG kèm hậu tố trên đăng ký xe
 - **21** — Rà soát bộ hồ sơ doanh nghiệp nộp: soát chéo cả 04 tệp, không đọc từng tệp rời
+- **22** — Hàng đi bằng container bồn trên sơ mi rơ moóc chở container: bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng", mỗi xe, mỗi bồn một dòng
+- **23** — Khối lượng vận chuyển với container bồn: lấy mức thấp nhất bảo đảm quy định, ghi "Không quá ... kg/chuyến"
+- **24** — Công văn hoàn thiện hồ sơ: bỏ qua lỗi chính tả; đã chốt thời hạn thì không viết mục thời hạn
 
 ## VIII. BỐI CẢNH LÀO CAI
 

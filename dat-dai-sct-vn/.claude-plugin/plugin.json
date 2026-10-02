@@ -1,0 +1,39 @@
+{
+  "name": "dat-dai-sct-vn",
+  "version": "1.2.0",
+  "description": "Đất đai phục vụ dự án công nghiệp - Sở Công Thương Lào Cai: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã (Sổ tay Sở NN&MT 7/2026, đã đối chiếu đủ bản gốc Luật Đất đai, NQ 254/2025/QH15, NĐ 88, 101, 102/2024, 151, 226/2025, 49/2026); phân cấp QĐ 40/2026 và trình tự cho thuê đất QĐ 47/2026 của tỉnh; Bảng giá đất (giá đất KCN, CCN), chính sách bồi thường QĐ 18, 20, 21/2025, tách thửa. Dùng để đọc báo cáo GPMB KCN, CCN, viết phần vướng mắc GPMB.",
+  "author": {
+    "name": "Trần Trọng Trang"
+  },
+  "homepage": "https://github.com/Trangsct/skill-sct",
+  "keywords": [
+    "dat-dai",
+    "thu-hoi-dat",
+    "boi-thuong-ho-tro-tai-dinh-cu",
+    "giai-phong-mat-bang",
+    "kiem-dem-bat-buoc",
+    "cuong-che-thu-hoi-dat",
+    "cap-xa",
+    "luat-dat-dai-31-2024",
+    "nd-88-2024",
+    "nd-102-2024",
+    "nd-151-2025",
+    "nd-49-2026",
+    "nq-254-2025-qh15",
+    "qd-40-2026-ubnd-lao-cai",
+    "so-cong-thuong",
+    "lao-cai",
+    "kcn-ccn",
+    "nq-19-2025-nq-hdnd",
+    "bang-gia-dat",
+    "qd-21-2025-ubnd",
+    "qd-49-2026-ubnd-lao-cai",
+    "tach-thua",
+    "qd-47-2026-ubnd-lao-cai",
+    "qd-18-2025-ubnd",
+    "qd-20-2025-ubnd",
+    "cho-thue-dat",
+    "nd-101-2024",
+    "nd-226-2025"
+  ]
+}

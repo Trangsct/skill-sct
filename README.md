@@ -26,6 +26,7 @@ Kho lưu trữ và theo dõi lịch sử thay đổi bộ plugin dùng cho công
 | `xp-hc-vlncn-sct-vn` | Xử phạt VPHC hóa chất + VLNCN theo NĐ 275/2026/NĐ-CP (hiệu lực 25/8/2026, thay NĐ 71/2019 + Điều 1 NĐ 17/2022): bảng hành vi - mức phạt Đ7-61, thẩm quyền Đ62-73, chuyển tiếp Đ74, đối chiếu điều cũ→mới — plugin chế tài DÙNG CHUNG cho `sd-vlncn-sct-vn`, `hl-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hc-sct-vn` |
 | `xp-sct-vn` | Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực (kế thừa xp-hc-vlncn-sct-vn); Luật 88/2025, NĐ 118, NĐ 189/311, 8 nhánh chuyên ngành, 13 mẫu, 8 checklist |
 | `atvsld-sct-vn` | ATVSLĐ phần ngành Công Thương: máy thiết bị nhóm Bộ Công Thương (điểm d k1 Đ33 Luật 84/2015), TNLĐ – sự cố, ranh giới với Sở Nội vụ, NĐ 283/2026 (10/9/2026) |
+| `dat-dai-sct-vn` | Đất đai phục vụ dự án công nghiệp: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã theo Sổ tay của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (7/2026); thẩm quyền cấp xã, bảng mốc thời hạn, kiểm đếm bắt buộc, cưỡng chế, 10 tình huống phát sinh, 39 biểu mẫu; dùng để đọc báo cáo GPMB KCN, CCN |
 
 ## Quy tắc validate BẮT BUỘC trước khi đóng gói plugin (tránh lỗi upload lặp lại)
 

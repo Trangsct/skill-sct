@@ -1,3 +1,25 @@
+## dat-dai-sct-vn 1.2.0 — 02/10/2026: nạp QĐ 40, 43, 47/2026 và QĐ 18, 20/2025 của tỉnh, Luật 43/2024, Luật 146/2025, NĐ 101/2024, NĐ 226/2025; hoàn tất đối chiếu Sổ tay
+
+- Reference 13 mới: phân cấp cho Chủ tịch UBND cấp xã (QĐ 40/2026/QĐ-UBND, hiệu lực 01/6/2026) và trình tự, thủ tục đất đai của tỉnh (QĐ 47/2026/QĐ-UBND, hiệu lực 28/6/2026; cho thuê đất không quá 15 ngày làm việc).
+- Reference 12 thêm mức thưởng bàn giao mặt bằng sớm, hỗ trợ ổn định sản xuất kinh doanh (QĐ 18/2025), cây trồng vật nuôi (QĐ 20/2025), nghiệm thu sản phẩm đo đạc (QĐ 43/2026).
+- Reference 11: các mốc 02, 03, 05 ngày làm việc và 30 ngày làm việc là hướng dẫn riêng của Sổ tay; hiệu lực Luật Đất đai 01/8/2024.
+- `registry/trang-thai.csv` thêm 9 văn bản.
+
+## dat-dai-sct-vn 1.1.0 — 02/10/2026: nạp bản gốc 14 văn bản đất đai, đối chiếu Sổ tay với bản gốc, thêm văn bản của tỉnh
+
+- Bản gốc (Word): Luật Đất đai 31/2024/QH15; NQ 254/2025/QH15; NĐ 71, 88, 102/2024; NĐ 151/2025; NĐ 49, 50/2026; NQ 66.3/2025, 66.11/2026; Văn bản 1153/BNNMT-QLĐĐ; NQ 19/2025/NQ-HĐND; QĐ 21/2025/QĐ-UBND; QĐ 49/2026/QĐ-UBND.
+- Reference 11 mới: kết quả đối chiếu — 07 điểm Sổ tay dẫn chưa đúng hoặc chưa đủ, 11 quy định Sổ tay chưa nêu, bảng hiệu lực. Reference 12 mới: Bảng giá đất Lào Cai (có giá đất từng KCN, CCN), bồi thường nhà xưởng và di chuyển máy móc, diện tích tối thiểu tách thửa.
+- Sửa reference 01 đến 10, SKILL.md; `registry/trang-thai.csv` thêm 12 văn bản đã đối chiếu.
+- Còn thiếu bản gốc: QĐ 40/2026/QĐ-UBND, QĐ 18/2025/QĐ-UBND, QĐ 43/2026/QĐ-UBND (Lào Cai), NĐ 101/2024, NĐ 226/2025.
+
+## dat-dai-sct-vn 1.0.0 — 02/10/2026: plugin mới về đất đai phục vụ dự án công nghiệp (thu hồi đất, bồi thường, hỗ trợ, tái định cư)
+
+- Nguồn: Sổ tay hướng dẫn trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (file tạo 27/7/2026; không số, ngày, người ký — không dùng làm căn cứ viện dẫn).
+- 10 reference: văn bản viện dẫn; thẩm quyền UBND, Chủ tịch UBND cấp xã, Hội đồng bồi thường, chủ đầu tư; quy trình 12 bước; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao sớm, khiếu nại, hồ sơ địa chính; 10 tình huống phát sinh; 39 biểu mẫu và bảng quy đổi số mẫu; áp dụng cho Sở Công Thương (đọc báo cáo GPMB KCN, CCN); 14 điểm chưa thống nhất trong Sổ tay. Checklist đọc báo cáo GPMB.
+- Bản gốc PDF 13,4 MB (export-ignore, chỉ trên GitHub) kèm bản trích chữ bằng máy.
+- Chưa đối chiếu bản gốc các luật, nghị định, quyết định Sổ tay viện dẫn; chưa ghi `registry/trang-thai.csv`.
+- kccn-sct-vn 1.46.2: thêm dòng liên kết sang `dat-dai-sct-vn`.
+- marketplace: thêm entry `dat-dai-sct-vn`. Trên claude.ai có thể phải Remove rồi Add lại marketplace để entry mới hiện ra.
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 
 - Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".

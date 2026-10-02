@@ -1,3 +1,12 @@
+## dat-dai-sct-vn 1.0.0 — 02/10/2026: plugin mới về đất đai phục vụ dự án công nghiệp (thu hồi đất, bồi thường, hỗ trợ, tái định cư)
+
+- Nguồn: Sổ tay hướng dẫn trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (file tạo 27/7/2026; không số, ngày, người ký — không dùng làm căn cứ viện dẫn).
+- 10 reference: văn bản viện dẫn; thẩm quyền UBND, Chủ tịch UBND cấp xã, Hội đồng bồi thường, chủ đầu tư; quy trình 12 bước; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao sớm, khiếu nại, hồ sơ địa chính; 10 tình huống phát sinh; 39 biểu mẫu và bảng quy đổi số mẫu; áp dụng cho Sở Công Thương (đọc báo cáo GPMB KCN, CCN); 14 điểm chưa thống nhất trong Sổ tay. Checklist đọc báo cáo GPMB.
+- Bản gốc PDF 13,4 MB (export-ignore, chỉ trên GitHub) kèm bản trích chữ bằng máy.
+- Chưa đối chiếu bản gốc các luật, nghị định, quyết định Sổ tay viện dẫn; chưa ghi `registry/trang-thai.csv`.
+- kccn-sct-vn 1.46.1: thêm dòng liên kết sang `dat-dai-sct-vn`.
+- marketplace: thêm entry `dat-dai-sct-vn`. Trên claude.ai có thể phải Remove rồi Add lại marketplace để entry mới hiện ra.
+
 ## kccn-sct-vn 1.46.0 — 01/10/2026: 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD ngày 27/9/2026); chi tiết QĐ 3480 tuyến 4E
 
 - Ref 15 mục IV-ter mới: bảng 38 nhóm ngành (mã ngành QĐ 36/2025/QĐ-TTg, STT Phụ lục II NĐ 48/2026/NĐ-CP), điều kiện BVMT, lưu ý khi góp ý dự án thứ cấp.

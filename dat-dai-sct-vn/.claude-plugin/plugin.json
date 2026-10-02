@@ -1,0 +1,28 @@
+{
+  "name": "dat-dai-sct-vn",
+  "version": "1.0.0",
+  "description": "Đất đai phục vụ dự án công nghiệp - Sở Công Thương Lào Cai: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã theo Sổ tay của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (7/2026); thẩm quyền UBND và Chủ tịch UBND cấp xã; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao mặt bằng sớm; 10 tình huống phát sinh; 39 biểu mẫu. Dùng để đọc báo cáo GPMB KCN, CCN, xác định hồ sơ đang ở bước nào, viết phần vướng mắc GPMB đúng thuật ngữ.",
+  "author": {
+    "name": "Trần Trọng Trang"
+  },
+  "homepage": "https://github.com/Trangsct/skill-sct",
+  "keywords": [
+    "dat-dai",
+    "thu-hoi-dat",
+    "boi-thuong-ho-tro-tai-dinh-cu",
+    "giai-phong-mat-bang",
+    "kiem-dem-bat-buoc",
+    "cuong-che-thu-hoi-dat",
+    "cap-xa",
+    "luat-dat-dai-31-2024",
+    "nd-88-2024",
+    "nd-102-2024",
+    "nd-151-2025",
+    "nd-49-2026",
+    "nq-254-2025-qh15",
+    "qd-40-2026-ubnd-lao-cai",
+    "so-cong-thuong",
+    "lao-cai",
+    "kcn-ccn"
+  ]
+}

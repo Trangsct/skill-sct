@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.46.1] - 02/10/2026 — Liên kết sang plugin dat-dai-sct-vn
+
+- SKILL.md bảng plugin liên kết: thêm dòng `dat-dai-sct-vn` (trình tự thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn; cách tách số liệu GPMB).
+- `plugin.json` → 1.46.1.
+
 ## [1.46.0] - 01/10/2026 — Danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD); chi tiết QĐ 3480 tuyến 4E
 
 - **Nguồn:** bản PDF ký số Văn bản 9813/UBND-XD ngày 27/9/2026 của UBND tỉnh (PCT Phan Trung Bá; chữ ký hợp lệ, số/ngày đọc bằng `extract_metadata.py`) và bản gốc QĐ 3480/QĐ-UBND ngày 27/9/2026, người dùng gửi 01/10/2026.

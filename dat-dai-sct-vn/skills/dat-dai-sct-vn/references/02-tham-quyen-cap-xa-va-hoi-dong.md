@@ -17,6 +17,8 @@ Nguồn: Sổ tay, Chương I (trang in 6-7) và Chương II mục I (trang in 1
 
 ## B. Thẩm quyền, nhiệm vụ của Chủ tịch UBND cấp xã
 
+Căn cứ hiện hành là quyết định phân cấp của UBND tỉnh (QĐ 40/2026/QĐ-UBND ngày 31/5/2026 theo Sổ tay; **chưa có bản gốc trong kho**) ban hành theo k1 Đ14 NĐ 49/2026/NĐ-CP. Điều 5 NĐ 151/2025/NĐ-CP — căn cứ trước đây — đã hết hiệu lực từ 31/01/2026 (reference `11` mục B.1). Khi viết văn bản của Sở, ghi "Chủ tịch Ủy ban nhân dân xã (phường)… theo thẩm quyền được phân cấp"; chưa đối chiếu được QĐ 40/2026 thì không dẫn điều khoản.
+
 | Việc | Điều khoản Sổ tay dẫn |
 |---|---|
 | Quyết định thu hồi đất theo k1 Đ83 Luật số 31/2024/QH15 thuộc trường hợp thu hồi do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng — đối với trường hợp được phân cấp tại k2, k3, k4 Đ3 QĐ 40/2026/QĐ-UBND ngày 31/5/2026 | k6 Đ3 QĐ 40/2026/QĐ-UBND |
@@ -57,7 +59,7 @@ Tổ kiểm kê do Chủ tịch Hội đồng (hoặc Chủ tịch UBND cấp x�
 1. Có văn bản đề nghị thực hiện dự án kèm hồ sơ dự án gửi UBND cấp xã (k1 Đ80 Luật Đất đai năm 2024). Hồ sơ là một trong các văn bản:
    - dự án có trong quy hoạch sử dụng đất, kế hoạch sử dụng đất hằng năm cấp huyện đã phê duyệt trước ngày 01/7/2025; hoặc chỉ tiêu sử dụng đất trong phương án phân bổ và khoanh vùng đất đai của quy hoạch tỉnh được phân bổ đến đơn vị hành chính cấp xã sau sắp xếp; hoặc quy hoạch được lập theo pháp luật về quy hoạch đô thị và nông thôn (k2 Đ2 NQ 66.3/2025/NQ-CP);
    - quyết định đầu tư theo pháp luật về đầu tư công; quyết định phê duyệt dự án đầu tư theo phương thức đối tác công tư;
-   - quyết định chấp thuận chủ trương đầu tư, quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư, quyết định chấp thuận nhà đầu tư; dự án thuộc thẩm quyền phê duyệt chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ;
+   - quyết định chấp thuận chủ trương đầu tư, quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư, quyết định chấp thuận nhà đầu tư **đối với dự án thuộc thẩm quyền phê duyệt chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ** (điểm c k1 Đ80 Luật Đất đai; dự án do UBND cấp tỉnh chấp thuận chủ trương đầu tư không thuộc điểm này, phải có trong kế hoạch sử dụng đất hoặc căn cứ thay thế theo NQ 66.3/2025/NQ-CP);
    - văn bản của cơ quan nhà nước có thẩm quyền quy định tại Đ84 Luật Đất đai đối với thu hồi đất liên quan quốc phòng, an ninh.
 2. Ký hợp đồng với đơn vị, tổ chức thực hiện nhiệm vụ bồi thường để thực hiện dịch vụ bồi thường.
 3. Cung cấp bản vẽ vị trí, ranh giới, diện tích khu đất thu hồi cho UBND cấp xã và đơn vị thực hiện nhiệm vụ bồi thường.

@@ -28,7 +28,7 @@
 
 ## C. Văn bản pháp luật Sổ tay viện dẫn
 
-Cột "Điều khoản được dẫn" chép theo chú thích trong Sổ tay. **Chưa đối chiếu bản gốc từng văn bản**; trạng thái hiệu lực chưa ghi vào `registry/trang-thai.csv`.
+Cột "Điều khoản được dẫn" chép theo chú thích trong Sổ tay. Ngày 02/10/2026 đã đối chiếu với bản gốc các văn bản có trong `van-ban-goc/`: Luật Đất đai, NQ 254/2025/QH15, NQ 66.3/2025/NQ-CP, NĐ 88/2024, NĐ 102/2024, NĐ 151/2025, NĐ 49/2026, Văn bản 1153/BNNMT-QLĐĐ. Kết quả, các điểm Sổ tay dẫn chưa đúng và mốc hiệu lực: reference `11`. **Chưa có bản gốc, chưa đối chiếu:** NĐ 101/2024, QĐ 40/2026/QĐ-UBND, QĐ 43/2026/QĐ-UBND, QĐ 18/2025/QĐ-UBND, Luật Cư trú, Luật Quản lý thuế.
 
 | Văn bản (ghi như trong Sổ tay) | Điều khoản được dẫn và nội dung |
 |---|---|
@@ -49,5 +49,7 @@ Cột "Điều khoản được dẫn" chép theo chú thích trong Sổ tay. **
 
 ## D. Ghi nhớ khi viện dẫn
 
-- Văn bản của Sở chỉ dẫn luật, nghị định, nghị quyết, quyết định ở bảng trên, **sau khi đã mở bản gốc đối chiếu**; trích yếu, ngày ban hành nào bảng trên chưa có thì KHÔNG tự điền.
+- Văn bản của Sở chỉ dẫn luật, nghị định, nghị quyết, quyết định ở bảng trên; ngày ban hành, hiệu lực lấy ở reference `11` mục D; văn bản chưa có bản gốc thì KHÔNG tự điền trích yếu, ngày.
+- Không dẫn Điều 5 và các mẫu số 45 đến 48 NĐ 151/2025 (đã hết hiệu lực từ 31/01/2026); không dẫn Điều 39 NĐ 102/2024 cho cưỡng chế thu hồi đất thực hiện dự án (reference `11` mục B).
+- Văn bản của tỉnh về giá đất, bồi thường nhà và công trình, tách thửa: reference `12`.
 - Sổ tay ghi "Nghị định số 151/2024/NĐ-CP" ở một chú thích (trang in 35) và "254/2025/HQ15" ở một chú thích (trang in 18): là lỗi in, các chỗ khác đều ghi 151/2025/NĐ-CP và 254/2025/QH15 (reference `10`).

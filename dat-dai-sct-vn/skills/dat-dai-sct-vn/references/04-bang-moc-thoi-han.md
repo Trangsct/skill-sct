@@ -1,6 +1,6 @@
 # 04 — Bảng mốc thời hạn
 
-Nguồn: Sổ tay, Chương II. "Ngày" là ngày theo lịch nếu Sổ tay không ghi "ngày làm việc". Điều khoản ghi theo chú thích của Sổ tay.
+Nguồn: Sổ tay, Chương II, đã đối chiếu bản gốc ngày 02/10/2026 (reference `11`). "Ngày" là ngày theo lịch nếu không ghi "ngày làm việc". Các mốc có căn cứ ở cột cuối là mốc của luật, nghị định, nghị quyết. Các mốc để trống cột căn cứ (02 ngày, 03 ngày làm việc, 05 ngày làm việc…) chỉ có trong Sổ tay, nhiều khả năng theo quy định trình tự, thủ tục của tỉnh chưa có bản gốc — khi viết văn bản của Sở không nêu các mốc này như quy định của pháp luật. Riêng thẩm định phương án: bản gốc ghi "không quá 30 ngày", Sổ tay ghi "30 ngày làm việc".
 
 ## A. Toàn bộ mốc thời hạn
 
@@ -17,11 +17,11 @@ Nguồn: Sổ tay, Chương II. "Ngày" là ngày theo lịch nếu Sổ tay kh�
 | | Vận động, thuyết phục kiểm đếm | 15 ngày | | UBND cấp xã, MTTQ | |
 | | Đề nghị kiểm đếm bắt buộc | sau 10 ngày | ngày kết thúc vận động | Đơn vị bồi thường | |
 | | Trình quyết định kiểm đếm bắt buộc | 03 ngày làm việc | ngày nhận văn bản đề nghị | Phòng chuyên môn | |
-| | Ban hành quyết định kiểm đếm bắt buộc | 02 ngày làm việc | ngày nhận hồ sơ trình | Chủ tịch UBND cấp xã | mẫu số 45 NĐ 151/2025 |
+| | Ban hành quyết định kiểm đếm bắt buộc | 02 ngày làm việc | ngày nhận hồ sơ trình | Chủ tịch UBND cấp xã | điểm đ k2 Đ87 Luật Đất đai |
 | | Gửi, niêm yết quyết định | 03 ngày làm việc | ngày ban hành | Đơn vị bồi thường, Phòng chuyên môn | |
 | | Thời gian chờ chấp hành | 05 ngày | ngày niêm yết | | |
 | 4. Cưỡng chế kiểm đếm bắt buộc | Trình quyết định cưỡng chế | 03 ngày làm việc | ngày nhận văn bản đề nghị | Phòng chuyên môn | Đ88 Luật Đất đai; Đ36 NĐ 102/2024 |
-| | Ban hành quyết định cưỡng chế | 02 ngày làm việc | ngày nhận tờ trình | Chủ tịch UBND cấp xã | mẫu số 46 NĐ 151/2025 |
+| | Ban hành quyết định cưỡng chế | 02 ngày làm việc | ngày nhận tờ trình | Chủ tịch UBND cấp xã | k3 Đ88 Luật Đất đai |
 | | Gửi quyết định cho người bị cưỡng chế | 02 ngày làm việc | ngày ban hành | Đơn vị bồi thường | |
 | | Vận động, thuyết phục, đối thoại | 05 ngày làm việc | | Ban cưỡng chế kiểm đếm bắt buộc | k2 Đ36 NĐ 102/2024 |
 | | Văn bản đề nghị Công an bố trí lực lượng | trước 05 ngày làm việc | thời điểm cưỡng chế | UBND cấp xã | Đ37 NĐ 102/2024 |
@@ -39,9 +39,12 @@ Nguồn: Sổ tay, Chương II. "Ngày" là ngày theo lịch nếu Sổ tay kh�
 | 9. Bàn giao mặt bằng | Vận động thực hiện phương án, bàn giao đất | 10 ngày | ngày ghi nhận ý kiến không đồng ý | UBND cấp xã, MTTQ | k6, k7 Đ87 Luật Đất đai |
 | | Đề nghị cưỡng chế thu hồi đất | sau 10 ngày | ngày kết thúc vận động | Đơn vị bồi thường | |
 | | Trình quyết định cưỡng chế thu hồi đất | 03 ngày làm việc | ngày nhận văn bản đề nghị | Phòng chuyên môn | |
-| | Ban hành quyết định cưỡng chế thu hồi đất | 02 ngày làm việc | ngày nhận hồ sơ trình | Chủ tịch UBND cấp xã | Đ89 Luật Đất đai; Đ39 NĐ 102/2024; mẫu số 48 NĐ 151/2025 |
+| | Ban hành quyết định cưỡng chế thu hồi đất | 02 ngày làm việc | ngày nhận hồ sơ trình | Chủ tịch UBND cấp xã | Đ89 Luật Đất đai; Đ37, Đ38 NĐ 102/2024 |
 | | Giao, niêm yết quyết định cưỡng chế | 03 ngày làm việc | ngày ban hành | Ban thực hiện cưỡng chế | |
 | | Vận động, đối thoại trước cưỡng chế | 05 ngày làm việc | ngày giao quyết định hoặc ngày lập biên bản không nhận, vắng mặt | Ban thực hiện cưỡng chế | |
+| | Thi hành quyết định cưỡng chế thu hồi đất | trong 10 ngày, trừ khi quyết định ghi thời gian dài hơn | ngày người bị cưỡng chế nhận quyết định hoặc ngày lập biên bản vắng mặt, từ chối nhận | Ban cưỡng chế thu hồi đất | k3 Đ89 Luật Đất đai |
+| | Bàn giao đất khi người bị cưỡng chế chấp hành | chậm nhất 30 ngày | ngày lập biên bản ghi nhận chấp hành | Người bị cưỡng chế | điểm b k4 Đ89 Luật Đất đai |
+| | Thời gian không được cưỡng chế | 10 giờ đêm đến 06 giờ sáng; ngày nghỉ, ngày lễ; 15 ngày trước và sau thời gian nghỉ Tết Âm lịch | | | điểm b k1 Đ89 Luật Đất đai |
 | | Thông báo nhận lại tài sản | 60 ngày; quá hạn thì bán đấu giá | ngày nhận thông báo | Ban cưỡng chế | Đ38 NĐ 102/2024 |
 | 10. Thưởng bàn giao sớm | Thẩm định, lập tờ trình | 02 ngày | ngày nhận đủ hồ sơ | Phòng chuyên môn | Đ13 QĐ 18/2025/QĐ-UBND |
 | | Phê duyệt danh sách, kinh phí | 02 ngày | ngày nhận tờ trình | Chủ tịch UBND cấp xã | |
@@ -57,7 +60,8 @@ Dùng khi cần ước "sớm nhất bao giờ có quyết định thu hồi đ�
 
 1. Ràng buộc cứng: từ ngày gửi thông báo thu hồi đất đến ngày ban hành quyết định thu hồi đất **không ngắn hơn 60 ngày (đất nông nghiệp) hoặc 120 ngày (đất phi nông nghiệp)**.
 2. Chuỗi sau khi có dự thảo phương án: niêm yết 10 ngày → họp lấy ý kiến → đối thoại (trong 30 ngày, nếu còn ý kiến không đồng ý) → thẩm định (không quá 30 ngày làm việc) → phê duyệt (không quá 05 ngày làm việc) → gửi quyết định (không quá 05 ngày làm việc) → quyết định thu hồi đất (trong 10 ngày, trường hợp không phải bố trí tái định cư) → chi trả (30 ngày kể từ ngày quyết định phê duyệt có hiệu lực).
-3. Ràng buộc trần: thông báo thu hồi đất hết hiệu lực sau 12 tháng; quá hạn phải ban hành thông báo mới (hiệu lực 12 tháng tính từ ngày thông báo cũ hết hiệu lực).
+3. Ràng buộc trần: thông báo thu hồi đất hết hiệu lực sau 12 tháng; quá hạn phải ban hành lại thông báo, tiếp tục các bước tiếp theo và không phải tính lại 60 ngày, 120 ngày (k3 Đ28 NĐ 102/2024).
+4. Rút ngắn được khi: người có đất đồng ý thu hồi trước thời hạn (k2 Đ85 Luật Đất đai); trên 75% người sử dụng đất đồng ý thu hồi trước khi phê duyệt phương án (k3 Đ3 NQ 254/2025/QH15).
 
 Dự án vừa có đất nông nghiệp vừa có đất phi nông nghiệp (đất ở): mốc 120 ngày áp cho phần đất phi nông nghiệp → khi chủ đầu tư, xã báo "dự kiến thu hồi xong trong 02 tháng kể từ thông báo" mà có đất ở thì hỏi lại.
 

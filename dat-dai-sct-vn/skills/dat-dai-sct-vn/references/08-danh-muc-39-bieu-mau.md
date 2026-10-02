@@ -22,10 +22,10 @@ Tên mẫu ghi theo bảng danh mục ở trang in 46-47; chỗ tiêu đề th�
 | 14 | Đơn đề nghị thu hồi phần diện tích đất còn lại | 66 | Người làm đơn, Trưởng thôn | |
 | 15 | Phiếu xác minh nhân khẩu | 67 | Chủ hộ, Trưởng thôn, Công an xã, UBND xã, phường | tiêu đề mẫu: "Phiếu xác nhận hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp" |
 | 16 | Biên bản vận động, thuyết phục thực hiện kiểm đếm đất đai và tài sản trên đất thu hồi | 68-70 | Đơn vị bồi thường, UBND xã, MTTQ, hộ dân | |
-| 17 | Quyết định về việc kiểm đếm bắt buộc | 71-72 | Chủ tịch UBND cấp xã (/QĐ-UBND) | tương ứng mẫu số 45 NĐ 151/2025 |
+| 17 | Quyết định về việc kiểm đếm bắt buộc | 71-72 | Chủ tịch UBND cấp xã (/QĐ-UBND) | |
 | 18 | Biên bản niêm yết, công khai quyết định kiểm đếm bắt buộc | 73-75 | | |
 | 19 | Biên bản vận động, thuyết phục thực hiện kiểm đếm của Ban cưỡng chế | 76-78 | Ban cưỡng chế kiểm đếm bắt buộc | lập 05 bản |
-| 20 | Quyết định về việc cưỡng chế kiểm đếm bắt buộc | 79-80 | Chủ tịch UBND cấp xã | tương ứng mẫu số 46 NĐ 151/2025 |
+| 20 | Quyết định về việc cưỡng chế kiểm đếm bắt buộc | 79-80 | Chủ tịch UBND cấp xã | |
 | 21 | Thông báo niêm yết công khai quyết định cưỡng chế kiểm đếm bắt buộc | 81 | UBND cấp xã | |
 | 22 | Biên bản niêm yết, công khai quyết định cưỡng chế kiểm đếm bắt buộc | 82-83 | | |
 | 23 | Biên bản làm việc trường hợp người bị cưỡng chế kiểm đếm bắt buộc hoặc cưỡng chế thu hồi đất từ chối không nhận quyết định cưỡng chế hoặc vắng mặt khi giao quyết định | 84-85 | | |
@@ -42,7 +42,7 @@ Tên mẫu ghi theo bảng danh mục ở trang in 46-47; chỗ tiêu đề th�
 | 34 | Thông báo về việc chi trả kinh phí bồi thường, hỗ trợ | 109 | Đơn vị bồi thường | |
 | 35 | Biên bản giao nhận kinh phí bồi thường, hỗ trợ, tái định cư và cam kết bàn giao mặt bằng sạch cho chủ đầu tư | 110-111 | | lập 03 bản |
 | 36 | Biên bản vận động thuyết phục chấp hành quyết định thu hồi đất, bàn giao mặt bằng | 112-114 | | |
-| 37 | Quyết định cưỡng chế thu hồi đất | 115-116 | Chủ tịch UBND cấp xã | tương ứng mẫu số 48 NĐ 151/2025 |
+| 37 | Quyết định cưỡng chế thu hồi đất | 115-116 | Chủ tịch UBND cấp xã | |
 | 38 | Thông báo công khai quyết định cưỡng chế thực hiện quyết định thu hồi đất | 117 | Đơn vị bồi thường | |
 | 39 | Biên bản làm việc trường hợp người bị cưỡng chế từ chối nhận tài sản | 118-119 | | |
 

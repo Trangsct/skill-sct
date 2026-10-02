@@ -15,13 +15,21 @@ Sở Công Thương gặp nội dung này ở các việc:
 
 | Chủ đầu tư phải có | Dùng để |
 |---|---|
-| Văn bản đề nghị thực hiện dự án gửi UBND cấp xã, kèm hồ sơ dự án (một trong các loại văn bản ở reference `02` mục E) | Mốc bắt đầu tính 10 ngày xây dựng kế hoạch thu hồi đất |
+| Văn bản đề nghị thực hiện dự án gửi UBND cấp xã, kèm hồ sơ dự án (một trong các loại văn bản ở reference `02` mục E; quyết định chấp thuận chủ trương đầu tư của UBND tỉnh tự nó chưa phải căn cứ theo điểm c k1 Đ80 Luật Đất đai) | Mốc bắt đầu tính 10 ngày xây dựng kế hoạch thu hồi đất |
 | Hợp đồng với đơn vị bồi thường | Xác định đơn vị lập kế hoạch, kiểm đếm, lập phương án |
 | Bản vẽ vị trí, ranh giới, diện tích khu đất thu hồi | Hồ sơ thông báo thu hồi đất |
 | Sản phẩm đo đạc, trích đo đã kiểm tra, nghiệm thu, ký duyệt | Hồ sơ thông báo thu hồi đất, hồ sơ thẩm định phương án |
 | Kinh phí bồi thường, hỗ trợ, tái định cư | Chi trả trong 30 ngày kể từ ngày quyết định phê duyệt phương án có hiệu lực; chậm ứng thì chịu khoản chi trả chậm, tính vào chi phí đầu tư, không được khấu trừ vào tiền thuê đất |
 
 Sổ tay không nêu riêng trường hợp quyết định thành lập cụm công nghiệp. Văn bản pháp lý của từng KCN, CCN cụ thể (quyết định thành lập, quyết định chấp thuận chủ trương đầu tư, giao chủ đầu tư): tra `kccn-sct-vn` (GATE trạng thái hồ sơ); việc văn bản đó có đủ làm căn cứ thu hồi đất hay không do UBND cấp xã, Sở Nông nghiệp và Môi trường xác định.
+
+## B2. Ba quy định nên biết khi dự án công nghiệp vướng mặt bằng (reference `11` mục C)
+
+1. Doanh nghiệp tự thỏa thuận nhận quyền sử dụng đất đã đạt trên 75% diện tích và trên 75% số người sử dụng đất khi hết thời hạn thỏa thuận: Hội đồng nhân dân tỉnh xem xét, thông qua việc thu hồi phần còn lại để giao đất, cho thuê đất cho chủ đầu tư; doanh nghiệp phải chứng minh tỷ lệ 75%.
+2. Trên 75% người sử dụng đất đồng ý thì được quyết định thu hồi đất ngay sau khi hết thời hạn niêm yết phương án, trước khi phê duyệt phương án (phương án không bố trí tái định cư).
+3. Cơ sở sản xuất, kinh doanh phải di dời do bị thu hồi đất được giao đất, cho thuê đất tại vị trí khác để tiếp tục sản xuất (k2 Đ44a NĐ 102/2024) — căn cứ khi tham mưu di dời cơ sở vào KCN, CCN.
+
+Giá đất trong KCN, CCN theo Bảng giá đất của tỉnh và quy định tách thửa đất nhà xưởng: reference `12`.
 
 ## C. Xác định "đang ở bước nào" từ một câu trong báo cáo
 
@@ -48,7 +56,7 @@ Sổ tay không nêu riêng trường hợp quyết định thành lập cụm c
 - Với Sở Nông nghiệp và Môi trường: "Đề nghị Sở Nông nghiệp và Môi trường hướng dẫn Ủy ban nhân dân xã … tháo gỡ vướng mắc về xác định nguồn gốc đất, …".
 - Nêu vướng mắc: ghi số hộ, diện tích, lý do theo báo cáo của xã; không viết "do xã chậm" khi báo cáo không nêu.
 
-Không viết: "Sở Công Thương chỉ đạo UBND xã thu hồi đất"; "đề nghị UBND tỉnh ban hành quyết định thu hồi đất" đối với trường hợp thẩm quyền đã thuộc Chủ tịch UBND cấp xã (reference `02` mục B); "theo Sổ tay của Sở Nông nghiệp và Môi trường" ở phần căn cứ.
+Không viết: "Sở Công Thương chỉ đạo UBND xã thu hồi đất"; "đề nghị UBND tỉnh ban hành quyết định thu hồi đất" đối với trường hợp thẩm quyền đã phân cấp cho Chủ tịch UBND cấp xã (reference `02` mục B); "theo Sổ tay của Sở Nông nghiệp và Môi trường" ở phần căn cứ.
 
 ## E. Câu hỏi nên đặt cho xã, chủ đầu tư khi số liệu chưa rõ
 

@@ -20,9 +20,11 @@ Không dùng plugin này để: tính tiền bồi thường, áp giá đất, x
 Toàn bộ nội dung lấy từ **Sổ tay hướng dẫn trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất** của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (bìa ghi Ủy ban nhân dân tỉnh Lào Cai - Sở Nông nghiệp và Môi trường; file PDF tạo ngày 27/7/2026; 119 trang in, 61 trang PDF dạng trang đôi).
 
 - Sổ tay là **tài liệu hướng dẫn, tuyên truyền**: không có số, ký hiệu, ngày ban hành, người ký. **CẤM viện dẫn Sổ tay làm căn cứ pháp lý** trong văn bản của Sở; chỉ viện dẫn luật, nghị định, nghị quyết, quyết định mà Sổ tay dẫn tới.
-- Số hiệu, điều khoản trong plugin là **theo chú thích của Sổ tay**, CHƯA đối chiếu bản gốc từng văn bản. Trước khi đưa một điều khoản vào văn bản trình ký: mở bản gốc văn bản đó đối chiếu, hoặc viết "theo quy định của pháp luật về đất đai" nếu chưa đối chiếu được.
-- Sổ tay có một số điểm chưa thống nhất nội bộ (số biểu mẫu, thời hạn niêm yết ghi trong mẫu, tên phòng chuyên môn) → reference `10`. Gặp các điểm này lấy theo phần thân quy trình và điều luật được dẫn.
-- Bản gốc: `van-ban-goc/So-tay-BTHTTDC-SNNMT-Lao-Cai-7-2026.pdf` (13,4 MB, chỉ có trên GitHub); bản trích chữ bằng máy: `van-ban-goc/So-tay-BTHTTDC-SNNMT-Lao-Cai-7-2026-OCR.txt` (có lỗi nhận dạng, chỉ dùng để tìm kiếm).
+- Ngày 02/10/2026 đã đối chiếu các điều khoản Sổ tay dẫn với **bản gốc** Luật Đất đai, NQ 254/2025/QH15, NQ 66.3/2025/NQ-CP, NĐ 88/2024, NĐ 102/2024, NĐ 151/2025, NĐ 49/2026, Văn bản 1153/BNNMT-QLĐĐ (bản Word trong `van-ban-goc/trung-uong/`). Phần lớn khớp; 07 điểm Sổ tay dẫn chưa đúng hoặc chưa đủ và 11 quy định Sổ tay chưa nêu ghi ở reference `11` — **đọc reference `11` trước khi viện dẫn điều khoản**.
+- Chưa có bản gốc: QĐ 40/2026/QĐ-UBND (phân cấp cho Chủ tịch UBND cấp xã), quy định trình tự, thủ tục của tỉnh, QĐ 18/2025/QĐ-UBND, QĐ 43/2026/QĐ-UBND, NĐ 101/2024. Nội dung dựa vào các văn bản này vẫn là "theo Sổ tay"; chưa đối chiếu thì viết "theo quy định của pháp luật về đất đai", không dẫn điều khoản.
+- Các mốc 02 ngày, 03 ngày làm việc, 05 ngày làm việc trong quy trình chỉ có trong Sổ tay, không có trong luật, nghị định.
+- Sổ tay có 18 điểm chưa thống nhất hoặc dẫn chưa đúng (số biểu mẫu, thời hạn niêm yết ghi trong mẫu, tên phòng chuyên môn, mẫu NĐ 151 đã hết hiệu lực, Điều 39 NĐ 102) → reference `10`. Gặp các điểm này lấy theo phần thân quy trình và điều luật được dẫn.
+- Bản gốc Sổ tay: `van-ban-goc/So-tay-BTHTTDC-SNNMT-Lao-Cai-7-2026.pdf` (13,4 MB, chỉ có trên GitHub); bản trích chữ bằng máy: `van-ban-goc/So-tay-BTHTTDC-SNNMT-Lao-Cai-7-2026-OCR.txt` (có lỗi nhận dạng, chỉ dùng để tìm kiếm).
 
 ## III. TÓM TẮT CỐT LÕI
 
@@ -34,13 +36,13 @@ Toàn bộ nội dung lấy từ **Sổ tay hướng dẫn trình tự, thủ t�
 
 | Việc | Thời hạn theo Sổ tay |
 |---|---|
-| Xây dựng kế hoạch thu hồi đất | 10 ngày kể từ ngày nhận văn bản đề nghị của chủ đầu tư kèm hồ sơ dự án |
-| Gửi thông báo thu hồi đất trước khi ban hành quyết định thu hồi đất | chậm nhất 60 ngày với đất nông nghiệp, 120 ngày với đất phi nông nghiệp |
+| Xây dựng kế hoạch thu hồi đất | 10 ngày kể từ ngày nhận văn bản đề nghị của chủ đầu tư kèm hồ sơ dự án (k1 Đ28 NĐ 102/2024) |
+| Gửi thông báo thu hồi đất trước khi ban hành quyết định thu hồi đất | chậm nhất 60 ngày với đất nông nghiệp, 120 ngày với đất phi nông nghiệp (điểm a k9 Đ3 NQ 254/2025/QH15); không áp dụng khi người có đất đồng ý thu hồi trước thời hạn hoặc khi thông báo được ban hành lại |
 | Hiệu lực thông báo thu hồi đất | 12 tháng kể từ ngày ban hành |
-| Niêm yết công khai phương án | 10 ngày |
+| Niêm yết công khai phương án | 10 ngày (điểm b k9 Đ3 NQ 254/2025/QH15) |
 | Đối thoại với trường hợp còn ý kiến không đồng ý | trong 30 ngày kể từ ngày tổ chức lấy ý kiến |
-| Thẩm định phương án | không quá 30 ngày làm việc kể từ ngày nhận đủ hồ sơ |
-| Phê duyệt phương án | không quá 05 ngày làm việc |
+| Thẩm định phương án | không quá 30 ngày kể từ ngày nhận đủ hồ sơ (k3 Đ3 NĐ 88/2024; Sổ tay ghi 30 ngày làm việc) |
+| Phê duyệt phương án | không quá 05 ngày làm việc (theo Sổ tay) |
 | Chi trả tiền bồi thường, hỗ trợ | 30 ngày kể từ ngày quyết định phê duyệt phương án có hiệu lực |
 | Ban hành quyết định thu hồi đất | 10 ngày kể từ ngày đủ một trong 07 điều kiện (reference `03` Bước 10) |
 
@@ -51,6 +53,8 @@ Toàn bộ nội dung lấy từ **Sổ tay hướng dẫn trình tự, thủ t�
 3. Dùng đúng tên gọi: "thông báo thu hồi đất", "quyết định kiểm đếm bắt buộc", "quyết định cưỡng chế thực hiện quyết định kiểm đếm bắt buộc", "phương án bồi thường, hỗ trợ, tái định cư", "quyết định thu hồi đất", "quyết định cưỡng chế thực hiện quyết định thu hồi đất", "đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư".
 4. Khi ước tiến độ: cộng các mốc tối thiểu ở reference `04` mục B, ghi rõ là thời gian tối thiểu theo trình tự, chưa kể thời gian vận động, kiểm đếm bắt buộc, cưỡng chế.
 5. Không chép số biểu mẫu trong phần thân Sổ tay (mẫu số 01 đến 17) sang văn bản; số biểu mẫu đúng theo danh mục 39 mẫu ở Phụ lục → reference `08`.
+6. Không dẫn Điều 5 và các mẫu số 45 đến 48 NĐ 151/2025/NĐ-CP (hết hiệu lực từ 31/01/2026 theo NĐ 49/2026/NĐ-CP); không dẫn Điều 39 NĐ 102/2024/NĐ-CP cho cưỡng chế thu hồi đất thực hiện dự án.
+7. Giá đất, đơn giá bồi thường, diện tích tối thiểu tách thửa chỉ lấy từ văn bản của tỉnh ở reference `12`; khu, cụm công nghiệp chưa có trong Phụ lục IV Bảng giá đất thì không tự suy giá.
 
 ## V. CÁC REFERENCE FILES
 
@@ -66,6 +70,8 @@ Toàn bộ nội dung lấy từ **Sổ tay hướng dẫn trình tự, thủ t�
 | `references/08-danh-muc-39-bieu-mau.md` | Danh mục 39 biểu mẫu Phụ lục, trang in, cơ quan ký; bảng quy đổi số mẫu giữa phần thân và Phụ lục |
 | `references/09-ap-dung-cho-so-cong-thuong.md` | Cách dùng cho KCN, CCN, dự án công nghiệp: đọc báo cáo xã, câu hỏi cần hỏi, mẫu câu |
 | `references/10-diem-chua-thong-nhat-trong-so-tay.md` | Các điểm chưa thống nhất, lỗi in trong Sổ tay và cách xử lý |
+| `references/11-doi-chieu-ban-goc-va-bo-sung.md` | Kết quả đối chiếu Sổ tay với bản gốc; 07 điểm dẫn chưa đúng; 11 quy định Sổ tay chưa nêu (ngoại lệ 75%, thu hồi trước khi phê duyệt phương án, thời gian không cưỡng chế, di dời cơ sở sản xuất…); bảng ngày ban hành, hiệu lực; văn bản còn thiếu |
+| `references/12-van-ban-tinh-lao-cai-gia-dat-don-gia-tach-thua.md` | NQ 19/2025/NQ-HĐND Bảng giá đất (giá đất nông nghiệp, giá đất từng KCN, CCN); QĐ 21/2025/QĐ-UBND bồi thường nhà, công trình, di chuyển máy móc; QĐ 49/2026/QĐ-UBND diện tích tối thiểu tách thửa |
 | `checklists/checklist-doc-bao-cao-gpmb.md` | Bảng kiểm khi đọc báo cáo GPMB của xã, chủ đầu tư |
 | `van-ban-goc/00-MUC-LUC.md` | Mục lục văn bản gốc |
 

@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **674** (Luật 33, NĐ 207, TT 108, QĐ 252, NQ 33, khác 41).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **71**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **684** (Luật 34, NĐ 208, TT 108, QĐ 258, NQ 35, khác 41).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **83**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -67,7 +67,6 @@
 - NĐ 282/2025 (5 plugin: pccc-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - NĐ 40/2025 (3 plugin: qlks-sct-vn, sct-laocai-org-vn, tkm-sct-vn)
 - NĐ 68/2025 (4 plugin: atvsld-sct-vn, hnh-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
-- NĐ 102/2024 (3 plugin: dat-dai-sct-vn, kccn-sct-vn, qlks-sct-vn)
 - NĐ 175/2024 (7 plugin: kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn)
 - NĐ 35/2023 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - NĐ 70/2023 (3 plugin: atvsld-sct-vn, kccn-sct-vn, qlks-sct-vn)

@@ -1,3 +1,10 @@
+## dat-dai-sct-vn 1.1.0 — 02/10/2026: nạp bản gốc 14 văn bản đất đai, đối chiếu Sổ tay với bản gốc, thêm văn bản của tỉnh
+
+- Bản gốc (Word): Luật Đất đai 31/2024/QH15; NQ 254/2025/QH15; NĐ 71, 88, 102/2024; NĐ 151/2025; NĐ 49, 50/2026; NQ 66.3/2025, 66.11/2026; Văn bản 1153/BNNMT-QLĐĐ; NQ 19/2025/NQ-HĐND; QĐ 21/2025/QĐ-UBND; QĐ 49/2026/QĐ-UBND.
+- Reference 11 mới: kết quả đối chiếu — 07 điểm Sổ tay dẫn chưa đúng hoặc chưa đủ, 11 quy định Sổ tay chưa nêu, bảng hiệu lực. Reference 12 mới: Bảng giá đất Lào Cai (có giá đất từng KCN, CCN), bồi thường nhà xưởng và di chuyển máy móc, diện tích tối thiểu tách thửa.
+- Sửa reference 01 đến 10, SKILL.md; `registry/trang-thai.csv` thêm 13 văn bản đã đối chiếu.
+- Còn thiếu bản gốc: QĐ 40/2026/QĐ-UBND, QĐ 18/2025/QĐ-UBND, QĐ 43/2026/QĐ-UBND (Lào Cai), NĐ 101/2024, NĐ 226/2025.
+
 ## dat-dai-sct-vn 1.0.0 — 02/10/2026: plugin mới về đất đai phục vụ dự án công nghiệp (thu hồi đất, bồi thường, hỗ trợ, tái định cư)
 
 - Nguồn: Sổ tay hướng dẫn trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất của Sở Nông nghiệp và Môi trường tỉnh Lào Cai (file tạo 27/7/2026; không số, ngày, người ký — không dùng làm căn cứ viện dẫn).

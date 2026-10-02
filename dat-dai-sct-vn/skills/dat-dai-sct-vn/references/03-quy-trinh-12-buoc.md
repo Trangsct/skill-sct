@@ -77,7 +77,7 @@ c) Không quá **02 ngày** kể từ ngày nhận tờ trình: Chủ tịch UBN
 
 **3.2. Gửi thông báo**
 
-UBND cấp xã chủ trì, phối hợp đơn vị bồi thường, chủ đầu tư gửi thông báo cho từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan — **chậm nhất 60 ngày đối với đất nông nghiệp và 120 ngày đối với đất phi nông nghiệp trước khi ban hành quyết định thu hồi đất** (điểm a k9 Đ3 NQ 254/2025/QH15). Đồng thời niêm yết thông báo và danh sách tại trụ sở UBND cấp xã, địa điểm sinh hoạt chung của khu dân cư, đăng Cổng thông tin điện tử của UBND cấp xã trong suốt thời gian thực hiện bồi thường.
+UBND cấp xã chủ trì, phối hợp đơn vị bồi thường, chủ đầu tư gửi thông báo cho từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan — **chậm nhất 60 ngày đối với đất nông nghiệp và 120 ngày đối với đất phi nông nghiệp trước khi ban hành quyết định thu hồi đất** (điểm a k9 Đ3 NQ 254/2025/QH15). Không phải chờ hết thời hạn này khi người sử dụng đất, chủ sở hữu tài sản, người có quyền lợi và nghĩa vụ liên quan trong khu vực thu hồi đồng ý thu hồi đất trước thời hạn (k2 Đ85 Luật Đất đai). Đồng thời niêm yết thông báo và danh sách tại trụ sở UBND cấp xã, địa điểm sinh hoạt chung của khu dân cư, đăng Cổng thông tin điện tử của UBND cấp xã trong suốt thời gian thực hiện bồi thường.
 
 **3.3. Không xác định được hoặc vắng mặt chủ sử dụng đất**
 
@@ -87,7 +87,7 @@ c) Không liên hệ được: Phòng chuyên môn ra thông báo về việc kh
 
 **3.4.** Hiệu lực của thông báo thu hồi đất: **12 tháng** tính từ ngày ban hành (k5 Đ85 Luật Đất đai).
 
-**3.5.** Đang thực hiện trình tự mà thông báo hết hiệu lực: đơn vị bồi thường đề nghị Phòng chuyên môn trình Chủ tịch UBND cấp xã ban hành thông báo thu hồi đất mới; hiệu lực thông báo mới là 12 tháng tính từ ngày hết hiệu lực của thông báo đã ban hành.
+**3.5.** Đang thực hiện trình tự mà thông báo hết hiệu lực: đơn vị bồi thường đề nghị Phòng chuyên môn trình Chủ tịch UBND cấp xã ban hành thông báo thu hồi đất mới; hiệu lực thông báo mới là 12 tháng tính từ ngày hết hiệu lực của thông báo đã ban hành (câu này theo Sổ tay, không có trong bản gốc). Theo k3 Đ28 NĐ 102/2024 (bổ sung tại NĐ 49/2026): ban hành lại thông báo rồi tiếp tục các bước tiếp theo; quyết định thu hồi đất theo thông báo ban hành lại **không phải áp dụng mốc 60 ngày, 120 ngày**.
 
 ## Bước 4 — Điều tra, khảo sát, đo đạc, kiểm đếm, xác định nguồn gốc đất (k2 Đ87 Luật Đất đai)
 
@@ -139,7 +139,7 @@ c) Trong **30 ngày** kể từ ngày tổ chức lấy ý kiến: đối thoạ
 **7.1. Trách nhiệm thẩm định:** Phòng chuyên môn chủ trì, phối hợp Phòng Văn hóa - Xã hội thẩm định thành phần hồ sơ, đối tượng, cơ chế, chính sách, dự toán kinh phí tổ chức thực hiện. Phòng Văn hóa - Xã hội chủ trì thẩm định phương án đào tạo nghề, giải quyết việc làm; hỗ trợ hộ có người đang hưởng trợ cấp xã hội.
 
 **7.2. Trình tự thẩm định** (điểm b k3 Đ87 Luật Đất đai):
-a) Không quá **30 ngày làm việc** kể từ ngày nhận đủ hồ sơ. Thời gian chỉnh sửa, bổ sung phương án không tính vào thời hạn này (thời hạn chỉnh sửa không quá **10 - 15 ngày** kể từ ngày có kết quả thẩm định).
+a) Không quá **30 ngày làm việc** kể từ ngày nhận đủ hồ sơ (theo Sổ tay; bản gốc k3 Đ3 NĐ 88/2024 ghi "không quá 30 ngày" — reference `11` mục B.4). Thời gian chỉnh sửa, bổ sung phương án không tính vào thời hạn này (thời hạn chỉnh sửa không quá **10 - 15 ngày** kể từ ngày có kết quả thẩm định).
 b) Hồ sơ thẩm định (điểm b k3 Đ3 NĐ 88/2024/NĐ-CP): văn bản đề nghị thẩm định; dự thảo phương án; thông báo thu hồi đất; văn bản kiểm đếm, thống kê, phân loại; trích lục bản đồ địa chính hoặc trích đo địa chính thửa đất; văn bản xác định nguồn gốc; biên bản lấy ý kiến; giấy tờ khác (nếu có).
 c) Nội dung thẩm định (điểm c k3 Đ3 NĐ 88/2024/NĐ-CP): việc tuân thủ pháp luật về bồi thường, hỗ trợ, tái định cư; trình tự, thủ tục; nội dung khác.
 
@@ -179,7 +179,9 @@ Phòng chuyên môn trình Chủ tịch UBND cấp xã ban hành quyết định
 6. người có đất thu hồi đồng ý và đã nhận tiền bồi thường để tự lo chỗ ở;
 7. người có đất thu hồi tự nguyện bàn giao đất và đã được bố trí tạm cư hoặc được chi trả kinh phí tạm cư.
 
-Ràng buộc với Bước 3: quyết định thu hồi đất chỉ ban hành khi đã đủ 60 ngày (đất nông nghiệp) hoặc 120 ngày (đất phi nông nghiệp) kể từ khi gửi thông báo thu hồi đất, và thông báo còn hiệu lực.
+Ràng buộc với Bước 3: quyết định thu hồi đất chỉ ban hành khi đã đủ 60 ngày (đất nông nghiệp) hoặc 120 ngày (đất phi nông nghiệp) kể từ khi gửi thông báo thu hồi đất, và thông báo còn hiệu lực; trừ trường hợp người có đất đồng ý thu hồi trước thời hạn và trường hợp thông báo ban hành lại.
+
+Ngoại lệ về thứ tự (k3 Đ3 NQ 254/2025/QH15; Phụ lục NĐ 49/2026 — reference `11` mục C.2): được quyết định thu hồi đất ngay sau khi hết thời hạn niêm yết phương án, trước khi phê duyệt phương án, đối với dự án quan trọng quốc gia, dự án đầu tư công khẩn cấp, hoặc dự án khác có trên 75% người sử dụng đất đồng ý (phương án không bố trí tái định cư).
 
 ## Bước 11 — Vận động, thuyết phục bàn giao mặt bằng (k6, k7 Đ87 Luật Đất đai)
 
@@ -188,8 +190,8 @@ Ràng buộc với Bước 3: quyết định thu hồi đất chỉ ban hành k
 
 ## Bước 12 — Quản lý quỹ đất đã thu hồi
 
-Tổ chức phát triển quỹ đất và UBND cấp xã quản lý đất đã thu hồi mà chưa giao, chưa cho thuê (k5 Đ86 Luật Đất đai).
+Đất đã thu hồi mà chưa giao, chưa cho thuê: tại khu vực đô thị giao tổ chức phát triển quỹ đất quản lý, khai thác, sử dụng; tại khu vực nông thôn giao UBND cấp xã quản lý (k5 Đ86, k8 Đ87 Luật Đất đai).
 
 ## Việc sau thu hồi: chỉnh lý hồ sơ địa chính
 
-Reference `06` mục C và reference `04` mục A nhóm 9.
+Reference `06` mục C và reference `04` mục A nhóm 12.

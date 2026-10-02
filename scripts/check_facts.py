@@ -389,6 +389,16 @@ RULES = [
         "level": "FAIL",
         "only": ["sd-vlncn-sct-vn"],
     },
+    {
+        "id": "hnh-container-bon-khong-ghep-smrm",
+        # Bạn chốt 02/10/2026 (vụ amoniac khan bằng container bồn): trong Giấy phép, dòng sơ mi rơ moóc
+        # chở container viết riêng, mỗi container bồn một dòng riêng — hnh-sct-vn nguyên tắc 22, ref 16 mục 11.2.
+        "pattern": r"kèm container dạng bồn số",
+        "why": "Giấy phép HHNH cho hàng đi bằng container bồn: sơ mi rơ moóc và container bồn ghi thành các dòng riêng trong bảng 'Danh sách phương tiện vận chuyển và thiết bị chứa hàng' (hnh-sct-vn nguyên tắc 22).",
+        "since": "2026-10-02",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

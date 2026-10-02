@@ -1,3 +1,8 @@
+## hnh-sct-vn 1.12.0 — 02/10/2026: Giấy phép cho hàng đi bằng container bồn; khối lượng thấp nhất; công văn bỏ lỗi chính tả
+
+- Nguyên tắc 22-24 (ref 19), reference 16 mục 11, reference 11 lỗi 20-23: bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng" mỗi xe, mỗi container bồn một dòng, ô gộp "Theo giấy tờ của phương tiện, thiết bị"; khối lượng "Không quá ... kg/chuyến" theo mức thấp nhất; công văn hoàn thiện hồ sơ bỏ lỗi chính tả, bỏ mục thời hạn khi Bạn đã chốt.
+- check_facts: `hnh-container-bon-khong-ghep-smrm` (WARN).
+
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 
 - Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".

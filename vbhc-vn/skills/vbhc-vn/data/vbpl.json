@@ -18,6 +18,11 @@
       "ngay_hieu_luc": "2026-07-01",
       "ghi_chu": "Luật Xây dựng mới — xd-sct-vn"
     },
+    "Luật 146/2025": {
+      "ngay_ban_hanh": "2025-12-11",
+      "ngay_hieu_luc": "2026-01-01",
+      "ghi_chu": "Sửa 15 luật lĩnh vực nông nghiệp và môi trường; bãi bỏ điểm a k4 Đ182 Luật Đất đai"
+    },
     "Luật 15/2012": {
       "ngay_ban_hanh": "2012-06-20",
       "ngay_hieu_luc": "2013-07-01",
@@ -26,13 +31,19 @@
     },
     "Luật 31/2024": {
       "ngay_ban_hanh": "2024-01-18",
-      "bi_sua_doi_boi": "Luật 43/2024 và các luật sau; NQ 254/2025/QH15 (01/01/2026)",
-      "ghi_chu": "Luật Đất đai; bản gốc ghi hiệu lực 01/01/2025, đã sửa bởi Luật 43/2024 (chưa có bản gốc Luật 43); bản gốc dat-dai-sct-vn/van-ban-goc/trung-uong"
+      "ngay_hieu_luc": "2024-08-01",
+      "bi_sua_doi_boi": "Luật 43/2024 (01/8/2024); các luật 47/2024… 147/2025; NQ 254/2025/QH15 (01/01/2026)",
+      "ghi_chu": "Luật Đất đai; hiệu lực 01/8/2024 theo k2 Đ1 Luật 43/2024; bản gốc ban hành lần đầu tại dat-dai-sct-vn/van-ban-goc/trung-uong, chưa hợp nhất"
     },
     "Luật 42/2024": {
       "ngay_hieu_luc": "2025-01-01",
       "bi_sua_doi_boi": "Luật 118/2025 (01/7/2026)",
       "ghi_chu": "Luật Quản lý sử dụng vũ khí VLNCN CCHT; VBHN 78/VBHN-VPQH; uỷ quyền cấp GP sử dụng VLNCN cho Sở: QĐ 2867/QĐ-UBND từ 20/8/2026"
+    },
+    "Luật 43/2024": {
+      "ngay_ban_hanh": "2024-06-29",
+      "ngay_hieu_luc": "2024-08-01",
+      "ghi_chu": "Sửa Luật Đất đai 31/2024 (hiệu lực 01/8/2024), Luật Nhà ở, Luật KDBĐS, Luật Các TCTD"
     },
     "Luật 54/2024": {
       "ngay_hieu_luc": "2025-07-01",
@@ -79,6 +90,12 @@
       "ngay_ban_hanh": "2022-07-22",
       "ngay_hieu_luc": "2022-07-22",
       "ghi_chu": "Chương trình hành động của Chính phủ thực hiện NQ 10-NQ/TW về địa chất, khoáng sản; danh mục 18 nhiệm vụ. Bản gốc quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/ — ref 10; qlks-sct-vn ref 24"
+    },
+    "NĐ 101/2024": {
+      "ngay_ban_hanh": "2024-07-29",
+      "ngay_hieu_luc": "2024-08-01",
+      "bi_sua_doi_boi": "NĐ 151/2025; NĐ 226/2025; NĐ 49/2026",
+      "ghi_chu": "Điều tra cơ bản đất đai, đăng ký, cấp GCN, hệ thống thông tin đất đai"
     },
     "NĐ 102/2024": {
       "ngay_ban_hanh": "2024-07-30",
@@ -155,6 +172,12 @@
       "ngay_hieu_luc": "2026-07-01",
       "bi_sua_doi_boi": "NĐ 347/2026 (bãi bỏ Điều 74; 15/9/2026)",
       "ghi_chu": "Quản lý dự án/thiết kế xây dựng — tkm-sct-vn GATE k5 Đ76"
+    },
+    "NĐ 226/2025": {
+      "ngay_ban_hanh": "2025-08-15",
+      "ngay_hieu_luc": "2025-08-15",
+      "bi_sua_doi_boi": "NĐ 49/2026 (31/01/2026)",
+      "ghi_chu": "Sửa các nghị định chi tiết Luật Đất đai"
     },
     "NĐ 24/2025": {
       "ghi_chu": "Sửa NĐ 98/2020 (Đ78, 81–88 biện pháp khắc phục)"
@@ -273,8 +296,18 @@
     "QĐ 16/2026/QĐ-UBND": {
       "ghi_chu": "Quy chế quản lý CCN Lào Cai"
     },
+    "QĐ 18/2025/QĐ-UBND": {
+      "ngay_ban_hanh": "2025-08-15",
+      "ngay_hieu_luc": "2025-08-15",
+      "ghi_chu": "Bồi thường, hỗ trợ, tái định cư (Lào Cai); Đ13 thưởng bàn giao mặt bằng sớm"
+    },
     "QĐ 1883/QĐ-UBND": {
       "ghi_chu": "Uỷ quyền GĐ Sở cấp GCN huấn luyện KTAT VLNCN — KHÔNG phải uỷ quyền cấp GP sử dụng"
+    },
+    "QĐ 20/2025/QĐ-UBND": {
+      "ngay_ban_hanh": "2025-08-29",
+      "ngay_hieu_luc": "2025-09-10",
+      "ghi_chu": "Bồi thường, hỗ trợ cây trồng, vật nuôi (Lào Cai)"
     },
     "QĐ 21/2025/QĐ-UBND": {
       "ngay_ban_hanh": "2025-09-10",
@@ -546,14 +579,30 @@
       "ngay_hieu_luc": "2026-09-30",
       "ghi_chu": "Quy chế thu thập, quản lý, sử dụng, cập nhật, khai thác, chia sẻ dữ liệu TNMT tỉnh Lào Cai (PCT Nguyễn Thành Sinh ký); bãi bỏ QĐ 44/2021/QĐ-UBND, QĐ 23/2011/QĐ-UBND (Yên Bái), k16 Đ3 QĐ 59/2025/QĐ-UBND — bản gốc bvmt-sct-vn/van-ban-goc/tinh, ref 12"
     },
+    "QĐ 40/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-31",
+      "ngay_hieu_luc": "2026-06-01",
+      "bi_sua_doi_boi": "QĐ 47/2026/QĐ-UBND (bãi bỏ Điều 4 từ 28/6/2026)",
+      "ghi_chu": "Phân cấp thẩm quyền đất đai cho Chủ tịch UBND cấp xã (Lào Cai); PCT Nguyễn Thành Sinh ký"
+    },
     "QĐ 42/2026/QĐ-TTG": {
       "ngay_hieu_luc": "2026-09-25",
       "ghi_chu": "Danh mục cơ sở kiểm kê KNK (18 cơ sở công thương Lào Cai)"
+    },
+    "QĐ 43/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ngay_hieu_luc": "2026-06-25",
+      "ghi_chu": "Giám sát, nghiệm thu sản phẩm dịch vụ công lĩnh vực đất đai dùng NSNN (Lào Cai)"
     },
     "QĐ 44/2021/QĐ-UBND": {
       "ngay_ban_hanh": "2021-08-11",
       "bi_thay_the_boi": "QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026)",
       "ghi_chu": "Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ"
+    },
+    "QĐ 47/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-28",
+      "ngay_hieu_luc": "2026-06-28",
+      "ghi_chu": "Trình tự, thủ tục hành chính về đất đai tỉnh Lào Cai; PCT Nguyễn Thành Sinh ký"
     },
     "QĐ 49/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-30",

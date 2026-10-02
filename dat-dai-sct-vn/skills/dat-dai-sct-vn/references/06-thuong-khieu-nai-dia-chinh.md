@@ -17,7 +17,7 @@ Nguồn: Sổ tay, Chương II mục III (trang in 35-36), V (trang in 39), VII 
    - xác định lại thời hạn tính thưởng: sau khi phương án điều chỉnh, bổ sung được phê duyệt và phát hành thông báo chi trả tiền bổ sung (lần đầu của phương án điều chỉnh), mốc **05 ngày (tổ chức) hoặc 10 ngày (hộ gia đình, cá nhân)** tính lại kể từ ngày nhận thông báo mới;
    - quyền lợi được thưởng vẫn bảo lưu nếu bàn giao đúng thời hạn tính từ mốc phương án đã sửa đổi, bổ sung.
 
-Mức thưởng cụ thể: Sổ tay không ghi; tra bản gốc Đ13 QĐ 18/2025/QĐ-UBND.
+Mức thưởng (Đ13 QĐ 18/2025/QĐ-UBND, đã đối chiếu bản gốc): 3% tổng tiền bồi thường, hỗ trợ theo phương án; hộ gia đình, cá nhân tối thiểu 1.000.000 đồng, tối đa 30.000.000 đồng; tổ chức tối thiểu 5.000.000 đồng, tối đa 200.000.000 đồng; đồng thuận và có đơn bàn giao trong 10 ngày kể từ ngày niêm yết dự thảo phương án thì thưởng gấp hai lần. Chi tiết reference `12` mục D.
 
 ## B. Giải quyết khiếu nại (Đ40 NĐ 102/2024/NĐ-CP; Đ237, Đ238 Luật Đất đai năm 2024)
 
@@ -33,6 +33,8 @@ Mức thưởng cụ thể: Sổ tay không ghi; tra bản gốc Đ13 QĐ 18/202
 3. Văn phòng Đăng ký đất đai chỉnh lý xong trong **05 ngày** (tổ chức); Chi nhánh Văn phòng Đăng ký đất đai khu vực cập nhật, chỉnh lý trong **10 ngày** (hộ gia đình, cá nhân).
 
 ## D. Kiểm tra, nghiệm thu bản đồ địa chính, trích đo phục vụ thu hồi đất
+
+QĐ 43/2026/QĐ-UBND ngày 16/6/2026 (hiệu lực 25/6/2026) chỉ áp dụng cho sản phẩm dùng ngân sách nhà nước (reference `12` mục F).
 
 1. **Công trình dùng vốn ngân sách nhà nước** (UBND các cấp, sở, ban, ngành làm chủ đầu tư): chủ đầu tư có thể hợp đồng với đơn vị tư vấn kiểm tra nghiệm thu đủ năng lực, có Giấy phép hoạt động đo đạc bản đồ do Cục Đo đạc, Bản đồ và Thông tin địa lý Việt Nam cấp, trong đó có nội dung kiểm tra chất lượng sản phẩm đo đạc và bản đồ, giấy phép còn thời hạn. Không thuê tư vấn: chủ đầu tư gửi hồ sơ về Sở Nông nghiệp và Môi trường; Sở Nông nghiệp và Môi trường tổ chức kiểm tra, nghiệm thu, lập biên bản kiểm tra chất lượng sản phẩm, biên bản thẩm định chất lượng, khối lượng. Kinh phí kiểm tra, thẩm định xác định trong dự án, thiết kế kỹ thuật - dự toán, phương án nhiệm vụ.
 2. **Công trình không dùng vốn ngân sách nhà nước**: nhà đầu tư ký hợp đồng với đơn vị đủ năng lực, có giấy phép như trên để kiểm tra, lập hồ sơ kiểm tra nghiệm thu trước khi gửi Sở Nông nghiệp và Môi trường hoặc cơ quan quản lý đất đai cấp xã ký duyệt.

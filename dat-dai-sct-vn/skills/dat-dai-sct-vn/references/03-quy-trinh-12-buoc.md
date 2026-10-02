@@ -28,7 +28,7 @@ c) Đo đạc, lập bản đồ địa chính:
 - Chủ đầu tư phê duyệt thiết kế kỹ thuật - dự toán, phương án nhiệm vụ sau khi có ý kiến thẩm định bằng văn bản; bố trí kinh phí; rồi đo đạc.
 - Hộ không phối hợp trích đo: đơn vị bồi thường chủ trì với UBND cấp xã, chủ đầu tư rà soát hồ sơ địa chính, cơ sở dữ liệu đất đai hiện có, lập biểu thông tin thửa đất, chủ sử dụng đất để phục vụ thông báo thu hồi đất.
 
-d) Giám sát, kiểm tra, thẩm định, nghiệm thu sản phẩm trích đo: theo QĐ 43/2026/QĐ-UBND ngày 16/6/2026 của UBND tỉnh Lào Cai.
+d) Giám sát, kiểm tra, thẩm định, nghiệm thu sản phẩm trích đo: theo QĐ 43/2026/QĐ-UBND ngày 16/6/2026 của UBND tỉnh Lào Cai (áp dụng cho sản phẩm dùng ngân sách nhà nước).
 
 đ) Ký duyệt bản đồ địa chính: chủ đầu tư trình Sở Nông nghiệp và Môi trường kiểm tra, ký duyệt mảnh bản đồ thuộc thẩm quyền cấp tỉnh; trình cơ quan quản lý đất đai cấp xã ký duyệt phần thuộc thẩm quyền cấp xã.
 
@@ -191,6 +191,10 @@ Ngoại lệ về thứ tự (k3 Đ3 NQ 254/2025/QH15; Phụ lục NĐ 49/2026 �
 ## Bước 12 — Quản lý quỹ đất đã thu hồi
 
 Đất đã thu hồi mà chưa giao, chưa cho thuê: tại khu vực đô thị giao tổ chức phát triển quỹ đất quản lý, khai thác, sử dụng; tại khu vực nông thôn giao UBND cấp xã quản lý (k5 Đ86, k8 Đ87 Luật Đất đai).
+
+## Việc sau thu hồi: giao đất, cho thuê đất
+
+Reference `13` mục B (QĐ 47/2026/QĐ-UBND: không quá 15 ngày làm việc; thẩm quyền theo QĐ 40/2026/QĐ-UBND).
 
 ## Việc sau thu hồi: chỉnh lý hồ sơ địa chính
 

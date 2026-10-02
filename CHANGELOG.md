@@ -1,3 +1,10 @@
+## dat-dai-sct-vn 1.2.0 — 02/10/2026: nạp QĐ 40, 43, 47/2026 và QĐ 18, 20/2025 của tỉnh, Luật 43/2024, Luật 146/2025, NĐ 101/2024, NĐ 226/2025; hoàn tất đối chiếu Sổ tay
+
+- Reference 13 mới: phân cấp cho Chủ tịch UBND cấp xã (QĐ 40/2026/QĐ-UBND, hiệu lực 01/6/2026) và trình tự, thủ tục đất đai của tỉnh (QĐ 47/2026/QĐ-UBND, hiệu lực 28/6/2026; cho thuê đất không quá 15 ngày làm việc).
+- Reference 12 thêm mức thưởng bàn giao mặt bằng sớm, hỗ trợ ổn định sản xuất kinh doanh (QĐ 18/2025), cây trồng vật nuôi (QĐ 20/2025), nghiệm thu sản phẩm đo đạc (QĐ 43/2026).
+- Reference 11: các mốc 02, 03, 05 ngày làm việc và 30 ngày làm việc là hướng dẫn riêng của Sổ tay; hiệu lực Luật Đất đai 01/8/2024.
+- `registry/trang-thai.csv` thêm 9 văn bản.
+
 ## dat-dai-sct-vn 1.1.0 — 02/10/2026: nạp bản gốc 14 văn bản đất đai, đối chiếu Sổ tay với bản gốc, thêm văn bản của tỉnh
 
 - Bản gốc (Word): Luật Đất đai 31/2024/QH15; NQ 254/2025/QH15; NĐ 71, 88, 102/2024; NĐ 151/2025; NĐ 49, 50/2026; NQ 66.3/2025, 66.11/2026; Văn bản 1153/BNNMT-QLĐĐ; NQ 19/2025/NQ-HĐND; QĐ 21/2025/QĐ-UBND; QĐ 49/2026/QĐ-UBND.

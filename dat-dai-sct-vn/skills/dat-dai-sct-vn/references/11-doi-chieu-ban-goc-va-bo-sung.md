@@ -1,5 +1,7 @@
 # 11 — Kết quả đối chiếu Sổ tay với bản gốc văn bản (02/10/2026) và các quy định Sổ tay chưa nêu
 
+Đã đối chiếu đủ các văn bản Sổ tay viện dẫn, kể cả văn bản của tỉnh (QĐ 40/2026, QĐ 18/2025, QĐ 43/2026) và NĐ 101/2024.
+
 Bản gốc dùng để đối chiếu: các tệp Word trong `van-ban-goc/trung-uong/` và `van-ban-goc/tinh/` (mục lục: `van-ban-goc/00-MUC-LUC.md`). Luật Đất đai, NĐ 71/2024, NĐ 88/2024, NĐ 102/2024 là **bản ban hành lần đầu**, chưa hợp nhất các lần sửa đổi; khi một điều đã bị sửa thì ghi rõ ở cột ghi chú.
 
 ## A. Điều khoản Sổ tay dẫn — đã khớp bản gốc
@@ -23,15 +25,18 @@ Bản gốc dùng để đối chiếu: các tệp Word trong `van-ban-goc/trung
 | Bảo quản, thanh lý tài sản cưỡng chế | Đ38 NĐ 102/2024 | Khớp nguyên văn, kể cả "cơ quan quản lý nhà nước chuyên ngành" đối với vật liệu nổ công nghiệp, công cụ hỗ trợ |
 | Khiếu nại | Đ40 NĐ 102/2024; Đ237, Đ238 Luật Đất đai | Khớp |
 | Căn cứ thu hồi đất khi chưa có kế hoạch sử dụng đất cấp xã | k2 Đ2 NQ 66.3/2025/NQ-CP | Khớp. NQ 66.3 có hiệu lực từ 15/9/2025 đến 28/02/2027 |
-| Đo đạc: trường hợp không phải lập thiết kế kỹ thuật - dự toán; thẩm định | k1 và điểm b k2 Đ12 NĐ 49/2026 (sửa Đ4, Đ5 NĐ 101/2024) | Khớp phần NĐ 49; chưa có bản gốc NĐ 101/2024 |
+| Đo đạc: trường hợp không phải lập thiết kế kỹ thuật - dự toán; thẩm định | k1 và điểm b k2 Đ12 NĐ 49/2026 (sửa Đ4, Đ5 NĐ 101/2024) | Khớp cả NĐ 49/2026 và bản gốc NĐ 101/2024 (k3 Đ4; điểm b k2 Đ8 trích lục bản đồ địa chính; điểm a k8 Đ9 chủ đầu tư thẩm định dự toán) |
+| Thẩm quyền Chủ tịch UBND cấp xã | k6, k9, k10, k11 Đ3 QĐ 40/2026/QĐ-UBND | Khớp nguyên văn |
+| Thưởng bàn giao mặt bằng trước thời hạn; mốc 05 ngày (tổ chức), 10 ngày (hộ gia đình, cá nhân) | k1, k2, k3 Đ13 QĐ 18/2025/QĐ-UBND | Khớp; mức thưởng ở reference `12` mục D |
+| Giám sát, nghiệm thu sản phẩm trích đo | QĐ 43/2026/QĐ-UBND ngày 16/6/2026 | Khớp số, ngày, trích yếu; quyết định chỉ áp dụng cho sản phẩm dùng ngân sách nhà nước |
 | Xác định nguồn gốc đất do UBND cấp xã chủ trì | Phụ lục kèm Văn bản 1153/BNNMT-QLĐĐ ngày 03/02/2026 | Khớp. Phụ lục này là tài liệu Bộ gửi để địa phương tham khảo khi quy định trình tự, thủ tục |
 
 ## B. Điểm Sổ tay dẫn chưa đúng hoặc chưa đủ so với bản gốc
 
-1. **Thẩm quyền của Chủ tịch UBND cấp xã.** Điều 5 NĐ 151/2025/NĐ-CP từng chuyển trực tiếp các thẩm quyền này cho Chủ tịch UBND cấp xã (thông báo thu hồi đất, phê duyệt phương án, quyết định thu hồi đất, kiểm đếm bắt buộc, cưỡng chế, thành lập Hội đồng bồi thường). **Điều 5 đã hết hiệu lực từ 31/01/2026** theo điểm đ k3 Đ16 NĐ 49/2026/NĐ-CP (trừ điểm i k1, điểm g k2, điểm d k5). Từ đó thẩm quyền quyết định về thu hồi đất, bồi thường, hỗ trợ, tái định cư, giao đất, cho thuê đất thuộc **UBND cấp tỉnh**, UBND cấp tỉnh quyết định phân cấp, ủy quyền (k1 Đ14 NĐ 49/2026; Chương IV thực hiện đến trước ngày 01/3/2027). Vì vậy căn cứ thẩm quyền của Chủ tịch UBND cấp xã ở Lào Cai hiện là QĐ 40/2026/QĐ-UBND ngày 31/5/2026 như Sổ tay dẫn — **văn bản này chưa có bản gốc trong kho**.
+1. **Thẩm quyền của Chủ tịch UBND cấp xã.** Điều 5 NĐ 151/2025/NĐ-CP từng chuyển trực tiếp các thẩm quyền này cho Chủ tịch UBND cấp xã (thông báo thu hồi đất, phê duyệt phương án, quyết định thu hồi đất, kiểm đếm bắt buộc, cưỡng chế, thành lập Hội đồng bồi thường). **Điều 5 đã hết hiệu lực từ 31/01/2026** theo điểm đ k3 Đ16 NĐ 49/2026/NĐ-CP (trừ điểm i k1, điểm g k2, điểm d k5). Từ đó thẩm quyền quyết định về thu hồi đất, bồi thường, hỗ trợ, tái định cư, giao đất, cho thuê đất thuộc **UBND cấp tỉnh**, UBND cấp tỉnh quyết định phân cấp, ủy quyền (k1 Đ14 NĐ 49/2026; Chương IV thực hiện đến trước ngày 01/3/2027). Căn cứ thẩm quyền của Chủ tịch UBND cấp xã ở Lào Cai hiện là **k9, k10, k11 Đ3 QĐ 40/2026/QĐ-UBND ngày 31/5/2026** (hiệu lực 01/6/2026) — đã đối chiếu bản gốc, Sổ tay dẫn đúng; chi tiết reference `13`.
 2. **Biểu mẫu NĐ 151/2025.** Sổ tay ghi "tham khảo mẫu số 45, 46, 48 phụ lục kèm theo NĐ 151/2025/NĐ-CP". Phụ lục II NĐ 151/2025 đã hết hiệu lực từ 31/01/2026, chỉ giữ các mẫu số 14, 14a, 14b, 14c, 14d, 14đ và 28 đến 43 (điểm e2 k3 Đ16 NĐ 49/2026). Mẫu số 45 (kiểm đếm bắt buộc), 46 (cưỡng chế kiểm đếm bắt buộc), 47 (thu hồi đất), 48 (cưỡng chế thu hồi đất) không còn hiệu lực; chỉ dùng tham khảo cách trình bày.
-3. **Trình tự, thủ tục ở cấp tỉnh.** Phần II Phụ lục I NĐ 151/2025 (trình tự thu hồi đất) cũng hết hiệu lực từ 31/01/2026. UBND cấp tỉnh phải quy định trình tự, thủ tục hành chính về đất đai chậm nhất ngày 01/7/2026 (k1 Đ15 NĐ 49/2026). Các mốc "02 ngày", "03 ngày làm việc", "05 ngày làm việc" của Sổ tay không có trong luật, nghị định; nhiều khả năng lấy từ quy định của tỉnh — **chưa có văn bản này để đối chiếu**.
-4. **Thẩm định phương án "30 ngày làm việc".** Bản gốc k3 Đ3 NĐ 88/2024 và Mục IV Phần II Phụ lục I NĐ 151/2025 đều ghi "không quá 30 ngày kể từ ngày nhận đủ hồ sơ", không có chữ "làm việc". Trong văn bản của Sở viết "không quá 30 ngày" cho đến khi có quy định của tỉnh.
+3. **Trình tự, thủ tục ở cấp tỉnh.** Phần II Phụ lục I NĐ 151/2025 (trình tự thu hồi đất) cũng hết hiệu lực từ 31/01/2026. Tỉnh đã ban hành QĐ 47/2026/QĐ-UBND ngày 28/6/2026 theo k1 Đ15 NĐ 49/2026. Điều 7 quyết định này chỉ dẫn về Đ87 Luật Đất đai và Đ28 NĐ 102/2024, **không đặt mốc thời gian riêng** cho quy trình thu hồi đất thông thường. Vì vậy các mốc "02 ngày", "03 ngày làm việc", "05 ngày làm việc" của Sổ tay là hướng dẫn nội bộ của Sổ tay, không phải quy định của pháp luật.
+4. **Thẩm định phương án "30 ngày làm việc".** Bản gốc k3 Đ3 NĐ 88/2024 và Mục IV Phần II Phụ lục I NĐ 151/2025 đều ghi "không quá 30 ngày kể từ ngày nhận đủ hồ sơ", không có chữ "làm việc". NĐ 226/2025 và QĐ 47/2026/QĐ-UBND cũng không sửa mốc này. Trong văn bản của Sở viết "không quá 30 ngày".
 5. **Cưỡng chế thu hồi đất dẫn Điều 39 NĐ 102/2024.** Điều 39 quy định cưỡng chế quyết định thu hồi đất do vi phạm pháp luật, do chấm dứt việc sử dụng đất, có nguy cơ đe dọa tính mạng con người — không phải thu hồi đất để thực hiện dự án. Với thu hồi đất vì mục đích quốc phòng, an ninh, phát triển kinh tế - xã hội: căn cứ là Đ89 Luật Đất đai, Đ37 và Đ38 NĐ 102/2024.
 6. **Hồ sơ dự án của chủ đầu tư (k1 Đ80 Luật Đất đai).** Điểm c k1 Đ80 chỉ áp dụng cho quyết định chấp thuận chủ trương đầu tư, chấp thuận nhà đầu tư **đối với dự án thuộc thẩm quyền phê duyệt chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ**. Dự án do UBND cấp tỉnh chấp thuận chủ trương đầu tư không thuộc điểm c; phải thuộc điểm a (có trong kế hoạch sử dụng đất, nay theo k2 Đ2 NQ 66.3/2025/NQ-CP) hoặc điểm b (quyết định đầu tư công, PPP).
 7. **Thông báo thu hồi đất ban hành lại.** Sổ tay ghi thông báo mới có hiệu lực 12 tháng tính từ ngày thông báo cũ hết hiệu lực — câu này không có trong bản gốc. Bản gốc (k3 Đ28 NĐ 102/2024, bổ sung tại điểm c k2 Đ13 NĐ 49/2026): thông báo hết hiệu lực mà chưa có quyết định thu hồi đất thì ban hành lại thông báo và tiếp tục các bước tiếp theo; **quyết định thu hồi đất theo thông báo ban hành lại không phải áp dụng mốc 60 ngày, 120 ngày**.
@@ -61,23 +66,26 @@ Bản gốc dùng để đối chiếu: các tệp Word trong `van-ban-goc/trung
 
 | Văn bản | Ngày ban hành | Hiệu lực |
 |---|---|---|
-| Luật Đất đai số 31/2024/QH15 | 18/01/2024 | Bản gốc ghi 01/01/2025; Luật số 43/2024/QH15 có sửa đổi (chưa có bản gốc Luật 43 trong kho; NQ 254 dùng mốc 01/8/2024) |
+| Luật Đất đai số 31/2024/QH15 | 18/01/2024 | **01/8/2024** (k1 Đ252 đã sửa bởi k2 Đ1 Luật số 43/2024/QH15 ngày 29/6/2024; bản gốc ban đầu ghi 01/01/2025) |
 | NĐ 71/2024/NĐ-CP (giá đất) | 27/6/2024 | Từ ngày Luật Đất đai có hiệu lực; nhiều điều đã hết hiệu lực theo NĐ 151/2025, NĐ 49/2026 |
 | NĐ 88/2024/NĐ-CP | 15/7/2024 | 01/8/2024; sửa bởi NĐ 151/2025, NĐ 226/2025, NĐ 49/2026 |
 | NĐ 102/2024/NĐ-CP | 30/7/2024 | 01/8/2024; sửa bởi NĐ 151/2025, NĐ 226/2025, NĐ 49/2026 |
 | NĐ 151/2025/NĐ-CP | 12/6/2025 | 01/7/2025, thực hiện đến trước 01/3/2027; nhiều điều, phụ lục hết hiệu lực từ 31/01/2026 |
+| NĐ 101/2024/NĐ-CP | 29/7/2024 | 01/8/2024; sửa bởi NĐ 151/2025, NĐ 226/2025, NĐ 49/2026 |
+| NĐ 226/2025/NĐ-CP | 15/8/2025 | 15/8/2025 |
 | NQ 66.3/2025/NQ-CP | 15/9/2025 | 15/9/2025 đến 28/02/2027 |
 | NQ 254/2025/QH15 | 11/12/2025 | 01/01/2026 |
+| Luật số 146/2025/QH15 | 11/12/2025 | 01/01/2026; bãi bỏ điểm a k4 Đ182 Luật Đất đai |
 | NQ 66.11/2026/NQ-CP (đấu giá quyền sử dụng đất khi giao đất ở) | 06/01/2026 | 06/01/2026 đến hết 28/02/2027 |
 | NĐ 49/2026/NĐ-CP | 31/01/2026 | 31/01/2026; Chương IV thực hiện đến trước 01/3/2027 |
 | NĐ 50/2026/NĐ-CP (tiền sử dụng đất, tiền thuê đất) | 31/01/2026 | 31/01/2026 |
 | Văn bản 1153/BNNMT-QLĐĐ | 03/02/2026 | Bộ trưởng Trần Đức Thắng ký; văn bản hướng dẫn, kèm phụ lục thủ tục để tham khảo |
 
+Văn bản của tỉnh (chi tiết reference `12`, `13`): QĐ 18/2025/QĐ-UBND 15/8/2025 (hiệu lực 15/8/2025); QĐ 20/2025/QĐ-UBND 29/8/2025 (10/9/2025); QĐ 21/2025/QĐ-UBND 10/9/2025 (10/9/2025); NQ 19/2025/NQ-HĐND 09/12/2025 (01/01/2026); QĐ 40/2026/QĐ-UBND 31/5/2026 (01/6/2026; Điều 4 bị bãi bỏ từ 28/6/2026); QĐ 43/2026/QĐ-UBND 16/6/2026 (25/6/2026); QĐ 47/2026/QĐ-UBND 28/6/2026 (28/6/2026); QĐ 49/2026/QĐ-UBND 30/6/2026 (15/7/2026).
+
 ## E. Văn bản còn thiếu bản gốc
 
-- QĐ 40/2026/QĐ-UBND ngày 31/5/2026 của UBND tỉnh Lào Cai (phân cấp thẩm quyền cho Chủ tịch UBND cấp xã) — cần nhất.
-- Quy định của UBND tỉnh Lào Cai về trình tự, thủ tục hành chính về đất đai theo Đ15 NĐ 49/2026 (nếu là văn bản khác QĐ 40/2026).
-- QĐ 18/2025/QĐ-UBND ngày 15/8/2025 (thưởng bàn giao mặt bằng trước thời hạn).
-- QĐ 43/2026/QĐ-UBND ngày 16/6/2026 của UBND tỉnh Lào Cai (kiểm tra, nghiệm thu sản phẩm đo đạc). Tệp gửi ngày 02/10/2026 mang số này là quyết định của UBND tỉnh Sơn La ngày 29/7/2026 về nội dung khác, không đưa vào kho.
-- NĐ 101/2024/NĐ-CP ngày 29/7/2024; NĐ 226/2025/NĐ-CP; Luật số 43/2024/QH15; văn bản hợp nhất Luật Đất đai.
-- Bộ đơn giá bồi thường nhà, công trình và đơn giá bồi thường cây trồng, vật nuôi của UBND tỉnh Lào Cai (QĐ 21/2025/QĐ-UBND dẫn tới nhưng không kèm).
+- Bộ đơn giá bồi thường nhà, công trình và Bộ đơn giá bồi thường cây trồng, vật nuôi của UBND tỉnh Lào Cai (QĐ 21/2025, QĐ 20/2025 dẫn tới nhưng không kèm).
+- Văn bản hợp nhất Luật Đất đai (bản trong kho là bản ban hành lần đầu; các luật sửa đổi 47/2024, 58/2024, 71/2025, 84/2025, 93/2025, 95/2025, 147/2025 chưa có).
+- Luật Cư trú, Luật Quản lý thuế (Sổ tay chỉ dẫn điều phụ).
+- Các quyết định công bố thủ tục hành chính, quy trình nội bộ về đất đai của UBND tỉnh (QĐ 2151, 2457, 873, 1014, 1373, 1983/QĐ-UBND nêu tại Điều 4 QĐ 40/2026, điều này đã bị bãi bỏ) — chỉ cần khi tra thủ tục cụ thể.

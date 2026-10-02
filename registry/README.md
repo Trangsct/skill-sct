@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **684** (Luật 34, NĐ 208, TT 108, QĐ 258, NQ 35, khác 41).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **83**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **692** (Luật 34, NĐ 208, TT 108, QĐ 266, NQ 35, khác 41).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **92**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -50,7 +50,6 @@
 
 ## Dùng ở ≥3 plugin nhưng chưa có trạng thái — cần rà bản gốc rồi ghi vào `trang-thai.csv`
 
-- Luật 146/2025 (3 plugin: bvmt-sct-vn, kccn-sct-vn, qlks-sct-vn)
 - Luật 147/2025 (3 plugin: qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn)
 - Luật 69/2025 (3 plugin: hc-sct-vn, hnh-sct-vn, xp-sct-vn)
 - Luật 55/2024 (3 plugin: kho-vlncn-sct-vn, pccc-sct-vn, xp-sct-vn)

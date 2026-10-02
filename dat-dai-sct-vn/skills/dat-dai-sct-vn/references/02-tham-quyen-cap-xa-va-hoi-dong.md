@@ -17,7 +17,7 @@ Nguồn: Sổ tay, Chương I (trang in 6-7) và Chương II mục I (trang in 1
 
 ## B. Thẩm quyền, nhiệm vụ của Chủ tịch UBND cấp xã
 
-Căn cứ hiện hành là quyết định phân cấp của UBND tỉnh (QĐ 40/2026/QĐ-UBND ngày 31/5/2026 theo Sổ tay; **chưa có bản gốc trong kho**) ban hành theo k1 Đ14 NĐ 49/2026/NĐ-CP. Điều 5 NĐ 151/2025/NĐ-CP — căn cứ trước đây — đã hết hiệu lực từ 31/01/2026 (reference `11` mục B.1). Khi viết văn bản của Sở, ghi "Chủ tịch Ủy ban nhân dân xã (phường)… theo thẩm quyền được phân cấp"; chưa đối chiếu được QĐ 40/2026 thì không dẫn điều khoản.
+Căn cứ hiện hành là Điều 3 Quyết định số 40/2026/QĐ-UBND ngày 31/5/2026 của UBND tỉnh Lào Cai (hiệu lực 01/6/2026), ban hành theo k1 Đ14 NĐ 49/2026/NĐ-CP — **đã đối chiếu bản gốc, các khoản dưới đây khớp**. Điều 5 NĐ 151/2025/NĐ-CP — căn cứ trước đây — đã hết hiệu lực từ 31/01/2026. Toàn bộ 16 khoản phân cấp, trong đó có cho thuê đất trả tiền hằng năm cho tổ chức: reference `13`.
 
 | Việc | Điều khoản Sổ tay dẫn |
 |---|---|

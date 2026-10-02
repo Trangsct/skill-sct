@@ -1,6 +1,6 @@
 # 04 — Bảng mốc thời hạn
 
-Nguồn: Sổ tay, Chương II, đã đối chiếu bản gốc ngày 02/10/2026 (reference `11`). "Ngày" là ngày theo lịch nếu không ghi "ngày làm việc". Các mốc có căn cứ ở cột cuối là mốc của luật, nghị định, nghị quyết. Các mốc để trống cột căn cứ (02 ngày, 03 ngày làm việc, 05 ngày làm việc…) chỉ có trong Sổ tay, nhiều khả năng theo quy định trình tự, thủ tục của tỉnh chưa có bản gốc — khi viết văn bản của Sở không nêu các mốc này như quy định của pháp luật. Riêng thẩm định phương án: bản gốc ghi "không quá 30 ngày", Sổ tay ghi "30 ngày làm việc".
+Nguồn: Sổ tay, Chương II, đã đối chiếu bản gốc ngày 02/10/2026 (reference `11`). "Ngày" là ngày theo lịch nếu không ghi "ngày làm việc". Các mốc có căn cứ ở cột cuối là mốc của luật, nghị định, nghị quyết. Các mốc để trống cột căn cứ (02 ngày, 03 ngày làm việc, 05 ngày làm việc…) chỉ có trong Sổ tay; QĐ 47/2026/QĐ-UBND của tỉnh không đặt các mốc này (Điều 7 dẫn về Đ87 Luật Đất đai) — khi viết văn bản của Sở không nêu các mốc này như quy định của pháp luật. Mốc của tỉnh cho trường hợp thỏa thuận trên 75%, thu hồi trước khi phê duyệt phương án và cho thuê đất (15 ngày làm việc): reference `13`. Riêng thẩm định phương án: bản gốc ghi "không quá 30 ngày", Sổ tay ghi "30 ngày làm việc".
 
 ## A. Toàn bộ mốc thời hạn
 

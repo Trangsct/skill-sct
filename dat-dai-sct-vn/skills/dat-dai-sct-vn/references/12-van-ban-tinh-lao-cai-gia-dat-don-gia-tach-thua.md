@@ -1,4 +1,4 @@
-# 12 — Văn bản của tỉnh Lào Cai: bảng giá đất, bồi thường nhà và công trình, tách thửa
+# 12 — Văn bản của tỉnh Lào Cai: bảng giá đất, bồi thường nhà và công trình, tách thửa, chính sách bồi thường, cây trồng vật nuôi, nghiệm thu đo đạc
 
 Nguồn: bản Word trong `van-ban-goc/tinh/`, số và ngày đọc từ phần đầu văn bản. Trước khi chép một con số vào văn bản trình ký, đối chiếu thêm với bản ký ban hành (Công báo tỉnh).
 
@@ -51,7 +51,7 @@ Các giá đất khác (Đ10): đất công cộng có mục đích kinh doanh, 
 ## B. Quyết định số 21/2025/QĐ-UBND ngày 10/9/2025 của UBND tỉnh Lào Cai — bồi thường nhà, công trình và chi phí tháo dỡ, di chuyển, lắp đặt
 
 - Hiệu lực: từ ngày ký. Thay thế QĐ 27/2024/QĐ-UBND, QĐ 45/2025/QĐ-UBND (Lào Cai) và QĐ 09/2024/QĐ-UBND (Yên Bái).
-- Đơn giá bồi thường (Đ3): Đ1 = ĐPL × Kv, trong đó ĐPL là Bộ đơn giá bồi thường do UBND tỉnh ban hành, Kv là hệ số điều chỉnh đến trung tâm xã, phường. Bộ đơn giá không kèm trong quyết định này.
+- Đơn giá bồi thường (Đ3): Đ1 = ĐPL × Kv, trong đó ĐPL là Bộ đơn giá bồi thường do UBND tỉnh ban hành, Kv là hệ số điều chỉnh đến trung tâm xã, phường. Bộ đơn giá không kèm trong quyết định này (chưa có trong kho).
 - Nhà, công trình không có trong bộ đơn giá: đơn vị bồi thường căn cứ định mức xây dựng xác định đơn giá, gửi phòng chuyên môn cấp xã thẩm định, báo cáo Hội đồng bồi thường; kết cấu, vật liệu khác biệt thì được thuê tư vấn xác định giá trị thực tế.
 - Chi phí tháo dỡ, di chuyển, lắp đặt tài sản (Đ4): lập dự toán theo bộ đơn giá của tỉnh; **phải di chuyển hệ thống máy móc, dây chuyền sản xuất thì còn được bồi thường thiệt hại khi tháo dỡ, vận chuyển, lắp đặt**; tài sản nhà, công trình đã được bồi thường thì không tính chi phí tháo dỡ, di chuyển; đơn giá không có trong bộ đơn giá thì chủ đầu tư dự án chủ trì cùng đơn vị bồi thường hoặc thuê tư vấn xác định; công trình quy mô lớn, phức tạp do Chủ tịch UBND tỉnh xem xét, quyết định hình thức thực hiện.
 - Sở Xây dựng chủ trì hướng dẫn, kiểm tra (Đ5).
@@ -80,11 +80,55 @@ Diện tích tối thiểu tách thửa ở nơi chưa có quy hoạch xây dự
 
 Liên hệ với tình huống 8 ở reference `07` (phần còn lại của thửa sau thu hồi nhỏ hơn diện tích tối thiểu tách thửa): diện tích tối thiểu lấy theo bảng trên; người sử dụng đất đồng ý thì thu hồi nốt và bồi thường (k7 Đ91 Luật Đất đai).
 
-## D. Văn bản trung ương có bản gốc trong kho nhưng chưa khai thác vào reference
+## D. Quyết định số 18/2025/QĐ-UBND ngày 15/8/2025 của UBND tỉnh Lào Cai — quy định về bồi thường, hỗ trợ, tái định cư
+
+- Hiệu lực: **15/8/2025**. Thay thế QĐ 16/2024/QĐ-UBND (Yên Bái), QĐ 25/2024/QĐ-UBND và QĐ 47/2025/QĐ-UBND (Lào Cai). Dự án đã làm thủ tục thu hồi đất mà chưa phê duyệt phương án thì tiếp tục các bước tiếp theo theo Luật Đất đai và quy định này.
+- Gồm 24 điều: tỷ lệ quy đổi khi bồi thường bằng đất khác mục đích hoặc bằng nhà ở (Đ3); nhà, công trình không đủ tiêu chuẩn kỹ thuật (Đ4); di dời mồ mả (Đ5); chi phí đầu tư vào đất còn lại không có hồ sơ, chứng từ (Đ7); hạn chế khả năng sử dụng đất (Đ8); hỗ trợ ổn định đời sống (Đ10); **hỗ trợ ổn định sản xuất, kinh doanh (Đ11)**; tiền thuê nhà chờ tái định cư (Đ12); **thưởng bàn giao mặt bằng trước thời hạn (Đ13)**; bố trí tái định cư (Đ14); đào tạo, chuyển đổi nghề (Đ15); hỗ trợ tái định cư (Đ17); cưỡng chế khi có nguy cơ đe dọa tính mạng (Đ18); phần diện tích còn lại (Đ19 đến Đ22); nhà, công trình không đủ điều kiện bồi thường (Đ23); trách nhiệm các cấp, các ngành (Đ24).
+
+**Thưởng bàn giao mặt bằng trước thời hạn (Đ13):**
+
+| Đối tượng | Điều kiện | Mức thưởng |
+|---|---|---|
+| Hộ gia đình, cá nhân (k1) | Bàn giao trong 10 ngày kể từ ngày chi trả ghi trong thông báo nhận tiền lần đầu | 3% tổng tiền bồi thường, hỗ trợ theo phương án; tối thiểu 1.000.000 đồng, tối đa 30.000.000 đồng mỗi hộ mỗi dự án |
+| Tổ chức (k2) | Bàn giao trong 05 ngày kể từ ngày chi trả ghi trong thông báo nhận tiền lần đầu | 3%; tối thiểu 5.000.000 đồng, tối đa 200.000.000 đồng mỗi tổ chức mỗi dự án |
+| Đồng thuận ngay khi niêm yết dự thảo (k3) | Trong 10 ngày kể từ ngày niêm yết dự thảo phương án, thống nhất dự thảo và có đơn đề nghị di dời tài sản, bàn giao mặt bằng | Gấp hai lần mức ở k1, k2 |
+
+Chủ tịch UBND xã, phường quyết định thưởng; kinh phí từ kinh phí bồi thường, hỗ trợ, tái định cư của dự án (k4, k5).
+
+**Hỗ trợ ổn định sản xuất, kinh doanh (Đ11):**
+- Hộ gia đình, cá nhân bị thu hồi đất nông nghiệp: 10.000 đồng/m² đối với đất trồng cây hằng năm, cây lâu năm, nuôi trồng thủy sản; 5.000 đồng/m² đối với đất còn lại; tối đa 15.000.000 đồng mỗi hộ mỗi dự án.
+- **Tổ chức kinh tế, hộ sản xuất kinh doanh, doanh nghiệp có vốn đầu tư nước ngoài** thuộc k1 Đ20 NĐ 88/2024: hỗ trợ bằng tiền **30% một năm thu nhập sau thuế**, theo mức bình quân 03 năm liền kề trước đó (chưa đủ 03 năm thì tính bình quân từ khi bắt đầu kinh doanh).
+- Tổ chức chỉ bị phá dỡ một phần nhà, công trình mà không ảnh hưởng sản xuất kinh doanh: không được hỗ trợ.
+- Hộ kinh doanh không có báo cáo tài chính nhưng có đăng ký kinh doanh, nộp thuế khoán: 6.000.000 đồng mỗi hộ một lần.
+- Người lao động theo hợp đồng lao động của cơ sở phải ngừng sản xuất: hỗ trợ trợ cấp ngừng việc theo mức lương tối thiểu vùng (k5; đọc bản gốc khi cần thời gian hỗ trợ).
+
+**Cưỡng chế thu hồi đất do nguy cơ đe dọa tính mạng (Đ18):** quyết định cưỡng chế thi hành trong không quá 05 ngày; bàn giao đất chậm nhất 15 ngày kể từ ngày lập biên bản chấp hành. Đây là trường hợp của Đ39 NĐ 102/2024, không phải thu hồi đất thực hiện dự án.
+
+**Trách nhiệm (Đ24):** Sở Nông nghiệp và Môi trường hướng dẫn, kiểm tra, chủ trì giải quyết khó khăn, vướng mắc về bồi thường, hỗ trợ, tái định cư; tổ chức, cá nhân có vướng mắc gửi văn bản về Sở Nông nghiệp và Môi trường để tổng hợp, báo cáo UBND tỉnh. Các sở, ban, ngành khác phối hợp theo chức năng. UBND xã, phường xác định nguồn gốc đất; đơn vị bồi thường chủ trì kiểm đếm.
+
+## E. Quyết định số 20/2025/QĐ-UBND ngày 29/8/2025 của UBND tỉnh Lào Cai — bồi thường, hỗ trợ cây trồng, vật nuôi
+
+- Hiệu lực: **10/9/2025**. Thay thế QĐ 30/2024/QĐ-UBND, QĐ 41/2025/QĐ-UBND (Lào Cai) và QĐ 17/2024/QĐ-UBND, quyết định sửa đổi của Yên Bái.
+- Chỉ bồi thường cây trồng, vật nuôi tạo lập **trước thời điểm thông báo thu hồi đất**; kiểm đếm theo số lượng, diện tích thực tế tại thời điểm kiểm đếm.
+- Cây hằng năm: khối lượng thực tế nhân đơn giá. Cây lâu năm: diện tích, số lượng thực tế (không vượt mật độ quy định) theo giai đoạn sinh trưởng nhân đơn giá. Cây vượt mật độ không quá 30% hỗ trợ 100% đơn giá; vượt trên 30% hỗ trợ 30% đơn giá. Cây trồng trên đất chưa phù hợp mục đích sử dụng đất hỗ trợ 100% đơn giá; không hỗ trợ cây trồng trên đất lấn, chiếm.
+- Thủy sản: bồi thường thiệt hại thực tế. Vật nuôi khác: hỗ trợ di dời theo hệ số K ở Phụ lục I.
+- Cây trồng, vật nuôi đặc biệt chưa có đơn giá: đơn vị bồi thường xác định thiệt hại thực tế, giải trình trong phương án.
+- Đơn giá từng loại cây theo Bộ đơn giá bồi thường của UBND tỉnh, không nằm trong quyết định này.
+
+## F. Quyết định số 43/2026/QĐ-UBND ngày 16/6/2026 của UBND tỉnh Lào Cai — giám sát, kiểm tra, thẩm định, nghiệm thu sản phẩm dịch vụ công về đất đai
+
+- Hiệu lực: **25/6/2026**.
+- Phạm vi: sản phẩm dịch vụ công **sử dụng ngân sách nhà nước** trong lĩnh vực đất đai: đo đạc, chỉnh lý, lập bản đồ địa chính; đăng ký đất đai, hồ sơ địa chính; thống kê, kiểm kê; bảng giá đất, giá đất cụ thể; hệ thống thông tin đất đai…
+- Trách nhiệm theo ba cấp: cơ quan quyết định đầu tư (thẩm định hồ sơ nghiệm thu), chủ đầu tư (giám sát, kiểm tra, nghiệm thu, lập hồ sơ quyết toán), đơn vị thi công (kiểm tra, nghiệm thu cấp đơn vị thi công).
+- Sổ tay dẫn quyết định này cho mọi sản phẩm trích đo phục vụ thu hồi đất; theo Điều 1, Điều 2 thì quyết định chỉ áp dụng cho sản phẩm dùng ngân sách nhà nước. Dự án của doanh nghiệp không dùng ngân sách nhà nước thực hiện theo NĐ 101/2024 (sửa bởi NĐ 49/2026).
+
+## G. Văn bản trung ương có bản gốc trong kho nhưng chưa khai thác vào reference
 
 - NĐ 71/2024/NĐ-CP ngày 27/6/2024 quy định về giá đất (nhiều điều đã hết hiệu lực theo NĐ 151/2025, NĐ 49/2026).
 - NĐ 50/2026/NĐ-CP ngày 31/01/2026 về tiền sử dụng đất, tiền thuê đất theo NQ 254/2025/QH15.
 - NQ 66.11/2026/NQ-CP ngày 06/01/2026 về đấu giá quyền sử dụng đất khi giao đất ở.
-- Giao đất, cho thuê đất, chuyển mục đích sử dụng đất: Đ4 NQ 254/2025/QH15; Đ44a NĐ 102/2024 (bổ sung tại NĐ 49/2026). Các Điều 44, 45, 48, 49 NĐ 102/2024 đã hết hiệu lực từ 01/7/2025 (điểm c k4 Đ21 NĐ 151/2025); Phần III Phụ lục I NĐ 151/2025 hết hiệu lực từ 31/01/2026 trừ khoản 6 Mục I; trình tự do UBND cấp tỉnh quy định theo Đ15 NĐ 49/2026.
+- Luật số 146/2025/QH15 ngày 11/12/2025 sửa đổi 15 luật lĩnh vực nông nghiệp và môi trường (hiệu lực 01/01/2026): với Luật Đất đai chỉ bãi bỏ điểm a k4 Đ182 (k4 Đ16).
+- NĐ 226/2025/NĐ-CP ngày 15/8/2025 (hiệu lực 15/8/2025) sửa các nghị định về đất đai: bổ sung Đ7a NĐ 88/2024 (đã thu hồi đất nhưng đổi quy hoạch, mốc giới, hướng tuyến), Đ14a (cây trồng, vật nuôi), công thức chi phí đầu tư vào đất còn lại (k4 Đ17), thứ tự ưu tiên địa điểm tái định cư.
+- Giao đất, cho thuê đất, chuyển mục đích sử dụng đất: trình tự của tỉnh ở reference `13`; Đ4 NQ 254/2025/QH15; Đ44a NĐ 102/2024 (bổ sung tại NĐ 49/2026). Các Điều 44, 45, 48, 49 NĐ 102/2024 đã hết hiệu lực từ 01/7/2025 (điểm c k4 Đ21 NĐ 151/2025); Phần III Phụ lục I NĐ 151/2025 hết hiệu lực từ 31/01/2026 trừ khoản 6 Mục I; trình tự do UBND cấp tỉnh quy định theo Đ15 NĐ 49/2026.
 
 Khi có việc cụ thể về tiền thuê đất KCN, CCN hoặc thủ tục cho thuê đất, mở bản gốc đọc trực tiếp rồi bổ sung reference.

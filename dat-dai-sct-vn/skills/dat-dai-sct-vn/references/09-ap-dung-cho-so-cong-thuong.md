@@ -29,7 +29,7 @@ Sổ tay không nêu riêng trường hợp quyết định thành lập cụm c
 2. Trên 75% người sử dụng đất đồng ý thì được quyết định thu hồi đất ngay sau khi hết thời hạn niêm yết phương án, trước khi phê duyệt phương án (phương án không bố trí tái định cư).
 3. Cơ sở sản xuất, kinh doanh phải di dời do bị thu hồi đất được giao đất, cho thuê đất tại vị trí khác để tiếp tục sản xuất (k2 Đ44a NĐ 102/2024) — căn cứ khi tham mưu di dời cơ sở vào KCN, CCN.
 
-Giá đất trong KCN, CCN theo Bảng giá đất của tỉnh và quy định tách thửa đất nhà xưởng: reference `12`.
+Giá đất trong KCN, CCN theo Bảng giá đất của tỉnh, hỗ trợ ổn định sản xuất kinh doanh cho doanh nghiệp bị thu hồi đất (30% một năm thu nhập sau thuế), quy định tách thửa đất nhà xưởng: reference `12`. Thẩm quyền và thủ tục cho thuê đất sau khi có mặt bằng (Chủ tịch UBND cấp xã hay UBND tỉnh; không quá 15 ngày làm việc): reference `13`. Vướng mắc về bồi thường gửi Sở Nông nghiệp và Môi trường tổng hợp, báo cáo UBND tỉnh (Đ24 QĐ 18/2025/QĐ-UBND).
 
 ## C. Xác định "đang ở bước nào" từ một câu trong báo cáo
 

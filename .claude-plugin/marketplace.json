@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.120"
+    "version": "4.11.121"
   },
   "plugins": [
     {
@@ -149,8 +149,8 @@
     {
       "name": "dat-dai-sct-vn",
       "source": "./dat-dai-sct-vn",
-      "description": "Đất đai phục vụ dự án công nghiệp - Sở Công Thương Lào Cai: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã theo Sổ tay của Sở Nông nghiệp và Môi trường (7/2026), đã đối chiếu bản gốc Luật Đất đai, NQ 254/2025/QH15, NĐ 88, 102/2024, 151/2025, 49/2026; mốc thời hạn; cưỡng chế; 39 biểu mẫu; Bảng giá đất Lào Cai (giá đất KCN, CCN), bồi thường nhà xưởng, tách thửa. Dùng để đọc báo cáo GPMB KCN, CCN và viết phần vướng mắc GPMB.",
-      "version": "1.1.0"
+      "description": "Đất đai phục vụ dự án công nghiệp - Sở Công Thương Lào Cai: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã (Sổ tay Sở NN&MT 7/2026, đã đối chiếu đủ bản gốc Luật Đất đai, NQ 254/2025/QH15, NĐ 88, 101, 102/2024, 151, 226/2025, 49/2026); phân cấp QĐ 40/2026 và trình tự cho thuê đất QĐ 47/2026 của tỉnh; Bảng giá đất (giá đất KCN, CCN), chính sách bồi thường QĐ 18, 20, 21/2025, tách thửa. Dùng để đọc báo cáo GPMB KCN, CCN, viết phần vướng mắc GPMB.",
+      "version": "1.2.0"
     }
   ]
 }

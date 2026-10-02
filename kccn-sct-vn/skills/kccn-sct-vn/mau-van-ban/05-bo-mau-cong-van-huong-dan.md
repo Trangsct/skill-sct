@@ -1,6 +1,6 @@
 # Bộ mẫu 05 — Công văn hướng dẫn, trả lời doanh nghiệp và UBND cấp xã
 
-Ký hiệu **SCT-CN**; người ký **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến**; Lưu **VT, CN(Trung)**. Nội dung nghiệp vụ tra reference 10 (FAQ) và reference 02 (điều khoản NĐ 32). Đề mục 1/2/3 in đậm.
+Ký hiệu **SCT-CN**; người ký **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến**; Lưu **VT, CN.**. Nội dung nghiệp vụ tra reference 10 (FAQ) và reference 02 (điều khoản NĐ 32). Đề mục 1/2/3 in đậm.
 
 ---
 
@@ -24,7 +24,7 @@ Hồ sơ theo khoản 1 Điều 9 gồm: văn bản đề nghị làm chủ đ�
 
 Đề nghị {doanh nghiệp} liên hệ Sở Công Thương (Phòng Quản lý Công nghiệp) để được hướng dẫn chi tiết trong quá trình lập hồ sơ./.
 
-Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN.
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -49,7 +49,7 @@ UBND cấp xã là cơ quan tiếp nhận hồ sơ đề nghị thành lập/m�
 
 Trong quá trình thực hiện, đề nghị UBND xã phối hợp chặt chẽ với Sở Công Thương để được hướng dẫn kịp thời./.
 
-Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN.
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -69,5 +69,5 @@ Qua thẩm định hồ sơ đề nghị thành lập CCN {tên} (do UBND xã {�
 
 Đề nghị {doanh nghiệp} phối hợp UBND xã {…} hoàn thiện, gửi lại Sở Công Thương trước ngày {…} để tiếp tục thẩm định theo quy định./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN(Trung).
+Nơi nhận: - Như trên; - Lưu: VT, CN.
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*

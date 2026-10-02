@@ -22,6 +22,38 @@ from copy import deepcopy
 import re
 
 
+# Dòng Lưu KHÔNG ghi tên chuyên viên (Bạn chốt 01/10/2026): "Lưu: VT, CN." — văn bản nội bộ
+# Phòng: "Lưu: CN.". Mẫu thật đã ban hành trước ngày này còn tên trong ngoặc ("CN(Trung)",
+# "CN (Khôi)") nên mọi văn bản dựng từ mẫu đều phải đi qua hàm này trước khi lưu.
+_LUU = re.compile(r"^\s*-?\s*Lưu\s*[:;]?", re.IGNORECASE)
+_TEN_TRONG_NGOAC = re.compile(r"\b(CN|QLCN)\s?\([^)]*\)")
+
+
+def chuan_hoa_dong_luu(document) -> int:
+    """Bỏ tên chuyên viên trong ngoặc ở dòng Lưu của mọi bảng; trả về số dòng đã sửa."""
+    sua = 0
+    for t in document.tables:
+        for row in t.rows:
+            for cell in row.cells:
+                for p in cell.paragraphs:
+                    cu = p.text
+                    if not _LUU.match(cu) or not _TEN_TRONG_NGOAC.search(cu):
+                        continue
+                    moi = _TEN_TRONG_NGOAC.sub(r"\1", cu)
+                    moi = re.sub(r"Lưu\s*[:;]?\s*VT\s*[,;]\s*", "Lưu: VT, ", moi)
+                    moi = re.sub(r"\s+\.$", ".", moi.rstrip())
+                    if not moi.endswith("."):
+                        moi += "."
+                    runs = [r for r in p.runs]
+                    if not runs:
+                        continue
+                    runs[0].text = moi
+                    for r in runs[1:]:
+                        r.text = ""
+                    sua += 1
+    return sua
+
+
 class TemplateDoc:
     def __init__(self, template_path):
         self.template_path = template_path
@@ -312,6 +344,7 @@ class TemplateDoc:
     def save(self, output_path):
         import os
         os.makedirs(os.path.dirname(output_path), exist_ok=True) if os.path.dirname(output_path) else None
+        chuan_hoa_dong_luu(self.doc)
         self.doc.save(output_path)
         print(f'✓ Đã lưu: {output_path}')
 

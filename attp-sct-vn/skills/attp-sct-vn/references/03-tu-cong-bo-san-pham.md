@@ -43,7 +43,7 @@ Trích đúng hai điểm này là cách chốt cơ sở pháp lý cho việc đ
 
 **Phụ lục kèm theo bắt buộc** - bảng thông tin gồm các cột: TT; Tên tổ chức/cá nhân công bố; Địa chỉ; Tên sản phẩm tự công bố; Hồ sơ tự công bố của đơn vị (số tự công bố, thời gian, phiếu kết quả kiểm nghiệm); Ngày đơn vị gửi hồ sơ tự công bố đến Sở Công Thương (số hiệu văn bản, thời gian).
 
-**Nơi nhận:** Như trên; **Chi cục Quản lý thị trường (p/h)** - đây là điểm quan trọng, gửi phối hợp để phục vụ hậu kiểm trên thị trường; Lưu VT, CN(Dương). **Người ký: Phó Trưởng phòng** (công văn nội bộ phòng, không phải lãnh đạo Sở ký).
+**Nơi nhận:** Như trên; **Chi cục Quản lý thị trường (p/h)** - đây là điểm quan trọng, gửi phối hợp để phục vụ hậu kiểm trên thị trường; Lưu VT, CN. **Người ký: Phó Trưởng phòng** (công văn nội bộ phòng, không phải lãnh đạo Sở ký).
 
 **Ghi nhớ nghiệp vụ:** gom nhiều sản phẩm của cùng một doanh nghiệp vào **một công văn theo kỳ** (tháng), không làm lẻ từng sản phẩm.
 

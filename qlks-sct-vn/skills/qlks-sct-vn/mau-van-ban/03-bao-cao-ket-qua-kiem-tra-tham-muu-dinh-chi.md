@@ -27,7 +27,7 @@ IV. KIẾN NGHỊ
 3. Thuế tỉnh, Công an tỉnh, UBND xã: [tương ứng].
 4. Doanh nghiệp: [thời hạn khắc phục, chế độ báo cáo].
 
-Người ký: GIÁM ĐỐC Hoàng Chí Hiền (báo cáo UBND tỉnh). Nơi nhận: UBND tỉnh (b/c); SNNMT, SXD, Thuế tỉnh, Công an tỉnh (p/h); các doanh nghiệp; Lưu: VT, CN(Dũng).
+Người ký: GIÁM ĐỐC Hoàng Chí Hiền (báo cáo UBND tỉnh). Nơi nhận: UBND tỉnh (b/c); SNNMT, SXD, Thuế tỉnh, Công an tỉnh (p/h); các doanh nghiệp; Lưu: VT, CN.
 
 ## B. CÔNG VĂN THAM MƯU ĐÌNH CHỈ (SCT-CN, gửi UBND tỉnh) — dùng khi cần tách riêng vụ việc
 
@@ -39,6 +39,6 @@ V/v đề nghị chỉ đạo tạm dừng hoạt động khai thác khoáng s�
 4. Đề nghị: Sở Công Thương trân trọng đề nghị UBND tỉnh: (i) chỉ đạo [Công ty ...] tạm dừng hoạt động khai thác tại mỏ ... kể từ ngày ... cho đến khi hoàn thành [nội dung khắc phục]; (ii) giao Sở Nông nghiệp và Môi trường [nội dung thuộc thẩm quyền: xem xét trình tự xử lý theo pháp luật khoáng sản]; (iii) giao UBND xã ... giám sát việc chấp hành.
 5. [Nếu gắn VLNCN: Sở Công Thương đồng thời tạm dừng hiệu lực/xem xét thu hồi Giấy phép sử dụng VLNCN số ... theo thẩm quyền — dẫn quy trình sd-vlncn-sct-vn.]
 
-Người ký: GIÁM ĐỐC (vụ việc trình UBND tỉnh). Lưu: VT, CN(Dũng).
+Người ký: GIÁM ĐỐC (vụ việc trình UBND tỉnh). Lưu: VT, CN.
 
 Lưu ý hành văn: (1) SCT "đề nghị/kiến nghị" đình chỉ khai thác — quyền quyết định thuộc UBND tỉnh/cơ quan cấp GP; chỉ phần VLNCN SCT xử lý trực tiếp; (2) mọi tồn tại nêu trong văn bản phải khớp biên bản kiểm tra đã ký; (3) thời hạn tạm dừng luôn gắn điều kiện "đến khi khắc phục xong", không vô thời hạn.

@@ -47,5 +47,5 @@ Nơi nhận:                                            GIÁM ĐỐC
 - [Thanh tra tỉnh — nếu sau KLTT];
 - [UBND xã {{…}} (phối hợp)];
 - Lãnh đạo Sở;
-- Lưu: VT, CN({{tên}}), HSKT.
+- Lưu: VT, CN, HSKT.
 ```

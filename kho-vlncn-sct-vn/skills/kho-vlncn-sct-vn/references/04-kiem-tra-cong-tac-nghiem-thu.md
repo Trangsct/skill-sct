@@ -63,7 +63,7 @@ a) lưu trữ hồ sơ; b) quản lý, vận hành đúng công năng, thiết k
 - thực hiện pháp luật quản lý, sử dụng VLNCN: chỉ bảo quản, sử dụng theo đúng giấy phép, phạm vi, khối lượng, phương án được cấp/chấp thuận.
 
 ## VII. NGƯỜI KÝ, LƯU
-KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC **Hoàng Văn Thuân**; nơi nhận: Như trên; Ban Giám đốc Sở; (Phòng QLNL để phối hợp — khi kho thuộc dự án thủy điện); **Lưu: VT, CN(Dũng)**.
+KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC **Hoàng Văn Thuân**; nơi nhận: Như trên; Ban Giám đốc Sở; (Phòng QLNL để phối hợp — khi kho thuộc dự án thủy điện); **Lưu: VT, CN**.
 
 ## VIII. TÌNH HUỐNG ĐẶC BIỆT
 1. **DN đã nghiệm thu và tự đưa vào sử dụng trước khi Sở chấp thuận**: nêu rõ trong biên bản là vi phạm trình tự Điều 23 NĐ 06/2021; yêu cầu dừng sử dụng đến khi có văn bản chấp thuận; xem xét chuyển xử lý VPHC nếu đủ căn cứ.

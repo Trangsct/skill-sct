@@ -1,7 +1,7 @@
 # Reference 40 — Báo cáo tháng 9/2026 thực hiện NQ 34-NQ/TU: số chốt, nguồn và các điểm vênh giữa các báo cáo
 
 > NGUỒN: rà soát dự thảo Báo cáo tình hình triển khai thực hiện NQ 34-NQ/TU tháng 9/2026 của Sở Công Thương
-> (người ký PGĐ Nguyễn Đình Chiến, soạn CN(Trung)) ngày 22/9/2026, đối chiếu 06 báo cáo đầu vào. Số, ngày các
+> (người ký PGĐ Nguyễn Đình Chiến, soạn CV Trung) ngày 22/9/2026, đối chiếu 06 báo cáo đầu vào. Số, ngày các
 > báo cáo đầu vào đọc từ trường ký số bằng `extract_metadata.py`. Bản gốc không chép sang kho này.
 >
 > ⚠️ SỐ LIỆU ĐỘNG — chốt đến **20/9/2026**. Kỳ báo cáo sau lấy lại từ báo cáo mới của các Ban và chủ đầu tư.

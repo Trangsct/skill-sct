@@ -6,7 +6,7 @@
 
 | Tình huống | Người sử dụng lao động | Sở Nội vụ | Sở Công Thương | Khác |
 |---|---|---|---|---|
-| Tai nạn **chết người** hoặc **≥2 người bị thương nặng** (điểm b k1 Đ34) | Khai báo **ngay** với cơ quan QLNN về lao động cấp tỉnh (Sở Nội vụ); chết người: đồng thời báo Công an | Thành lập Đoàn điều tra cấp tỉnh (Trưởng đoàn = thanh tra chuyên ngành ATVSLĐ) | **Tham gia đoàn** theo mời (k2 Đ35 "một số thành viên khác") — cử CN(Linh)/CN chuyên ngành mỏ, VLNCN, hóa chất; cung cấp hồ sơ giấy phép, thiết kế mỏ, PANM, kết quả kiểm tra gần nhất | Sở Y tế, LĐLĐ tỉnh là thành viên |
+| Tai nạn **chết người** hoặc **≥2 người bị thương nặng** (điểm b k1 Đ34) | Khai báo **ngay** với cơ quan QLNN về lao động cấp tỉnh (Sở Nội vụ); chết người: đồng thời báo Công an | Thành lập Đoàn điều tra cấp tỉnh (Trưởng đoàn = thanh tra chuyên ngành ATVSLĐ) | **Tham gia đoàn** theo mời (k2 Đ35 "một số thành viên khác") — cử CV Linh/CN chuyên ngành mỏ, VLNCN, hóa chất; cung cấp hồ sơ giấy phép, thiết kế mỏ, PANM, kết quả kiểm tra gần nhất | Sở Y tế, LĐLĐ tỉnh là thành viên |
 | Tai nạn nhẹ, 01 người bị thương nặng | NSDLĐ tự điều tra cấp cơ sở (k1 Đ35) | Nhận báo cáo | Không tham gia, trừ khi liên quan sự cố thiết bị nhóm Công Thương | |
 | Sự cố kỹ thuật gây mất ATVSLĐ **trong dầu khí** | Khai báo theo luật chuyên ngành (điểm c k1 Đ34) | Phối hợp | QLNN dầu khí (cấp Bộ) | |
 | **Sự cố hóa chất** (rò rỉ, cháy nổ hóa chất) | Kích hoạt Kế hoạch/Biện pháp phòng ngừa ứng phó sự cố hóa chất; báo Sở CT | Nếu có tai nạn lao động: theo Đ34 | **Chủ trì phần hóa chất** — `hc-sct-vn`; báo cáo Cục Hóa chất | Công an PCCC, UBND xã |

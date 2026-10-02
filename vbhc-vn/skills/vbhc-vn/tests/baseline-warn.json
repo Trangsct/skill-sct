@@ -7,13 +7,16 @@
   "examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx": {
     "R07": 1
   },
-  "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": {},
+  "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": {
+    "R07": 1
+  },
   "examples/sct/bao-cao-thang-phong-qlcn.docx": {
     "R01": 2,
     "R08": 1
   },
   "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": {
     "R01": 1,
+    "R07": 1,
     "R08": 4,
     "R13": 1
   },
@@ -34,12 +37,15 @@
     "R07": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-kcn.docx": {
+    "R07": 1,
     "R12": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx": {
+    "R07": 1,
     "R12": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx": {
+    "R07": 1,
     "R12": 1
   },
   "examples/sct/cong-van-xin-y-kien-cac-co-quan-phuong-an-ccn-von-nsnn.docx": {
@@ -79,12 +85,10 @@
     "R12": 2
   },
   "examples/ubnd/cong-van-vp-ubnd-truyen-dat.docx": {
-    "R07": 1,
     "R08": 1,
     "R12": 4
   },
   "examples/ubnd/giay-moi-hop-ubnd.docx": {
-    "R07": 1,
     "R13": 3
   },
   "examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx": {

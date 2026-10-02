@@ -37,7 +37,7 @@
 Kính gửi: 【Lãnh đạo Sở (PGĐ Hoàng Văn Thuân)】
 
 - Nội dung trình: giải quyết hồ sơ đề nghị 【cấp GP sử dụng VLNCN / phê duyệt PANM】 của 【tên DN】 (mã hồ sơ một cửa 【…】, hạn xử lý 【…】).
-- Chuyên viên trình: 【Trần Đăng Khôi — CN(Khôi), mặc định từ 10/7/2026】. Lãnh đạo phòng: 【Nguyễn Hữu Long / Trần Trọng Trang / Đỗ Mạnh Cường】.
+- Chuyên viên trình: 【Trần Đăng Khôi — CV Khôi, mặc định từ 10/7/2026】. Lãnh đạo phòng: 【Nguyễn Hữu Long / Trần Trọng Trang / Đỗ Mạnh Cường】.
 - Hồ sơ kèm theo: 【liệt kê】.
 
 **I. Tóm tắt nội dung hồ sơ:** 【DN, mục đích, địa điểm, pháp lý gốc, khối lượng đề nghị, thời hạn】.

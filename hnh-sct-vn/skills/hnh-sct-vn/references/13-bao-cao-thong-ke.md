@@ -61,7 +61,7 @@ IV. KHÓ KHĂN, VƯỚNG MẮC VÀ KIẾN NGHỊ
 
 V. PHƯƠNG HƯỚNG KỲ TỚI
 
-Nơi nhận; quyền hạn, chức vụ người ký (PGĐ phụ trách - SCT-CN); Lưu: VT, CN(tên).
+Nơi nhận; quyền hạn, chức vụ người ký (PGĐ phụ trách - SCT-CN); Lưu: VT, CN.
 ```
 
 ## 4. Khung BÁO CÁO ĐỘT XUẤT (sự cố vận chuyển HHNH)

@@ -63,7 +63,7 @@ bvmt-sct-vn/
 
 ## Tổ chức & người ký (mặc định)
 
-- **Chuyên viên tham mưu:** CN(M.Long) — Lê Minh Long (môi trường/KNK/các-bon/công nghiệp môi trường). Dòng lưu: **Lưu: VT, CN(M.Long)**.
+- **Chuyên viên tham mưu:** CV M.Long — Lê Minh Long (môi trường/KNK/các-bon/công nghiệp môi trường). Dòng lưu: **Lưu: VT, CN**.
 - **Người ký:** KT.GĐ – PGĐ **Hoàng Văn Thuân** (môi trường, khoáng sản, hóa chất); văn bản cấp tỉnh: GĐ **Hoàng Chí Hiền**.
 - **Ký hiệu:** SCT-CN.
 

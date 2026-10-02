@@ -61,7 +61,7 @@ for p in targets[len(body):]:
 
 for p in d.tables[1].rows[0].cells[0].paragraphs:
     if 'Lưu' in p.text:
-        set_text(p, '- Lưu: VT, CN(Khôi).')
+        set_text(p, '- Lưu: VT, CN.')
 for p in d.tables[1].rows[0].cells[1].paragraphs:
     if 'Trịnh Văn Thành' in p.text:
         set_text(p, 'Hoàng Văn Thuân')

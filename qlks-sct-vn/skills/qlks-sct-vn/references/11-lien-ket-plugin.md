@@ -16,7 +16,7 @@ qlks-sct-vn là plugin "tổng hợp ngành khoáng sản" — khi đi sâu vào
 | Vận chuyển khoáng sản là HHNH (không phổ biến) hoặc vận chuyển VLNCN | **hnh-sct-vn** / sd-vlncn | |
 | Soạn - render docx, thể thức NĐ 30/2020, QA | **vbhc-vn** | Chế độ B ưu tiên khi có văn bản mẫu |
 | PDF văn bản đến | **vbhc-pdf-reader-vn** | GATE bắt buộc trước khi trích số/ngày |
-| Ai ký, ai soạn, phòng nào chủ trì | **sct-laocai-org-vn** | Khoáng sản: PGĐ Thuân; PTP Nguyễn Hồng Vân; CN(Dũng)/CN(Nhung)/CN(Khôi); từ 15/9/2026 Sở tiếp nhận thêm chức năng địa chất, khoáng sản, KCN (NQ 66.25 — mục riêng trong sct-laocai-org-vn) |
+| Ai ký, ai soạn, phòng nào chủ trì | **sct-laocai-org-vn** | Khoáng sản: PGĐ Thuân; PTP Nguyễn Hồng Vân; CV Dũng/CV Nhung/CV Khôi; từ 15/9/2026 Sở tiếp nhận thêm chức năng địa chất, khoáng sản, KCN (NQ 66.25 — mục riêng trong sct-laocai-org-vn) |
 | Xử phạt VPHC khoáng sản (NĐ 36/2020) — thẩm quyền chuyển sang ngành Công Thương từ 15/9/2026 | **xp-sct-vn** ref 06 mục A | qlks ref 23 mục IV + xp ref 06 |
 | Khu công nghiệp: QLNN về KCN Bộ Tài chính → Bộ Công Thương (Điều 2 NQ 66.25); UBND tỉnh phân công lại giữa cơ quan chuyên môn | **kccn-sct-vn** ref 29 | |
 | Bài toán lớn số 2 (khai thác - tinh chế nguyên liệu chiến lược, QĐ 21/2026/QĐ-TTg, QĐ 1493/QĐ-TTg, dự thảo Kế hoạch UBND tỉnh 9/2026) | **dacn-sct-vn** ref 11 | qlks cấp phần tài nguyên, cấp phép; dacn cấp phần chỉ tiêu tăng trưởng, chuỗi giá trị |

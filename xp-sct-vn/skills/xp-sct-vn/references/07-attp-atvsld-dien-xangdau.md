@@ -2,7 +2,7 @@
 
 Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chưa có plugin xử phạt riêng. Mỗi dòng: nghị định hiện hành (đã xác minh đến 9/2026 ở mức số hiệu; **số điều/khoản luôn GATE** — tra bản gốc trước khi ghi).
 
-## A. An toàn thực phẩm (phòng QLCN — CN(Nam); plugin `attp-sct-vn`)
+## A. An toàn thực phẩm (phòng QLCN — CV Nam; plugin `attp-sct-vn`)
 
 | Nội dung | Quy định |
 |---|---|

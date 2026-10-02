@@ -60,7 +60,7 @@ Trụ sở tại: 【địa chỉ】;
 
 **Điều 3.** Giấy phép này có giá trị 【05 năm kể từ ngày ký ban hành / đến hết ngày … — không vượt thời hạn Giấy phép khai thác】./.
 
-Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06); UBND xã 【…】; Trung tâm Phục vụ hành chính công tỉnh; GĐ, PGĐ Sở (Hoàng Văn Thuân); Lưu: VT, CN(Khôi).
+Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06); UBND xã 【…】; Trung tâm Phục vụ hành chính công tỉnh; GĐ, PGĐ Sở (Hoàng Văn Thuân); Lưu: VT, CN.
 
 **Người ký:** ⚠ **điểm phải chốt với Lãnh đạo Sở trước giấy phép đầu tiên.** Hai tiền lệ nội bộ đang khác nhau:
 > - **QĐ 1883** (huấn luyện KTAT): nhiệm vụ ủy quyền đích danh Giám đốc → **Giám đốc Hoàng Chí Hiền ký trực tiếp**; Giám đốc vắng thì Phó Giám đốc ký phải kèm **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ GUQ 2180/GUQ-SCT ngày 21/4/2026).

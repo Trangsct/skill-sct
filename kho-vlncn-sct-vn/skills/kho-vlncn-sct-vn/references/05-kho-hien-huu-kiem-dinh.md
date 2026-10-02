@@ -35,7 +35,7 @@ Doanh nghiệp có kho VLNCN:
 
 **Bước 2 — DN chọn đơn vị kiểm định, lập đề cương, trình Sở.** Đơn vị đã dùng thực tế: Trung tâm Tư vấn giám sát và Quản lý dự án xây dựng tỉnh Lào Cai (thuộc Sở Xây dựng; LAS-XD 1688; công bố năng lực 01/CB-TVGS&QLDA ngày 14/4/2026) — kiểm tra tính độc lập với từng vụ việc.
 
-**Bước 3 — Sở ban hành công văn XÁC NHẬN ĐỀ CƯƠNG** (mẫu 04): nêu nội dung, phạm vi (liệt kê hạng mục: kho thuốc nổ, kho kíp, kè đá, rãnh chống đá lăn, kim thu sét, hạ tầng kỹ thuật), tổ chức thực hiện (tên, trụ sở, năng lực, chủ trì + số chứng chỉ + thời hạn) — Lưu CN(Dũng).
+**Bước 3 — Sở ban hành công văn XÁC NHẬN ĐỀ CƯƠNG** (mẫu 04): nêu nội dung, phạm vi (liệt kê hạng mục: kho thuốc nổ, kho kíp, kè đá, rãnh chống đá lăn, kim thu sét, hạ tầng kỹ thuật), tổ chức thực hiện (tên, trụ sở, năng lực, chủ trì + số chứng chỉ + thời hạn) — Lưu CN.
 
 **Bước 4 — DN tổ chức kiểm định** theo đề cương; đơn vị kiểm định lập **Báo cáo kết quả kiểm định** kết luận khả năng tiếp tục sử dụng an toàn (kèm điều kiện khắc phục nếu có).
 

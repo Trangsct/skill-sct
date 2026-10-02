@@ -31,7 +31,7 @@ Theo **NĐ 78/2025 + NĐ 187/2025**. Lề trên/dưới/phải 15-20mm, trái 30
 - Địa danh cũ của Yên Bái (Âu Lâu, Trấn Yên, Văn Chấn, Nghĩa Lộ, Mù Cang Chải, Trạm Tấu, Lục Yên, Văn Yên, Yên Bình...) nay thuộc **tỉnh Lào Cai** (từ 1/7/2025) — ghi "tỉnh Lào Cai".
 
 ### Ký hiệu, người soạn, tên file, định dạng xuất
-- **Ký hiệu**: Công văn `SCT-CN`; Tờ trình `TTr-SCT`; Báo cáo `BC-SCT`; Kế hoạch `KH-SCT`; QĐ cá biệt `QĐ-SCT`; Giấy phép `GP-SCT`; GCN ATTP `.../{năm}/GCNATTP-SCTLC`. Dòng lưu: `Lưu: VT, CN (Tên).` *(Kiểm tự động: **R07**; thứ tự Nơi nhận khi gửi doanh nghiệp: **R06**.)* Văn bản do Bạn (PGĐ Chiến, phụ trách QLCN) yêu cầu **luôn dùng `SCT-CN` + `Lưu: VT, CN(tên)`**, kể cả khi nội dung thuộc lĩnh vực phòng khác — KHÔNG đổi sang ký hiệu phòng khác.
+- **Ký hiệu**: Công văn `SCT-CN`; Tờ trình `TTr-SCT`; Báo cáo `BC-SCT`; Kế hoạch `KH-SCT`; QĐ cá biệt `QĐ-SCT`; Giấy phép `GP-SCT`; GCN ATTP `.../{năm}/GCNATTP-SCTLC`. Dòng lưu: `Lưu: VT, CN.` *(Kiểm tự động: **R07**; thứ tự Nơi nhận khi gửi doanh nghiệp: **R06**.)* Văn bản do Bạn (PGĐ Chiến, phụ trách QLCN) yêu cầu **luôn dùng `SCT-CN` + `Lưu: VT, CN`**, kể cả khi nội dung thuộc lĩnh vực phòng khác — KHÔNG đổi sang ký hiệu phòng khác.
 - **Tên file**: `năm.tháng.ngày. Trích yếu` tiếng Việt CÓ DẤU (vd `2026.06.19. Báo cáo tổng kết...`). Ngày = ngày ban hành/dự kiến ký, không rút gọn tùy tiện ("v2", "final").
 - **CHỈ tạo file Word (.docx), KHÔNG kèm PDF**.
 

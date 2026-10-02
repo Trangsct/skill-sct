@@ -1,6 +1,6 @@
 # MẪU 01 — Công văn kế hoạch kiểm tra công tác nghiệm thu hoàn thành công trình kho VLNCN
 
-Dựa trên bản đã ban hành: 1629/SCT-CN ngày 27/3/2026 (Nậm Cang 1A); 3036/SCT-CN ngày 28/5/2026 (Móng Sến 1). Ký hiệu `/SCT-CN`; ký KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN(Dũng). Phần {…} là chỗ điền.
+Dựa trên bản đã ban hành: 1629/SCT-CN ngày 27/3/2026 (Nậm Cang 1A); 3036/SCT-CN ngày 28/5/2026 (Móng Sến 1). Ký hiệu `/SCT-CN`; ký KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN. Phần {…} là chỗ điền.
 
 ---
 
@@ -50,6 +50,6 @@ b) Đối với hồ sơ về phòng cháy và chữa cháy: đối chiếu văn
 
 Sở Công Thương thông báo để {Công ty} được biết và phối hợp triển khai thực hiện./.
 
-**Nơi nhận:** Như trên; Ban Giám đốc Sở; Phòng QLNL (để phối hợp — nếu dự án thủy điện); Lưu: VT, CN(Dũng).
+**Nơi nhận:** Như trên; Ban Giám đốc Sở; Phòng QLNL (để phối hợp — nếu dự án thủy điện); Lưu: VT, CN.
 
 **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC — Hoàng Văn Thuân**

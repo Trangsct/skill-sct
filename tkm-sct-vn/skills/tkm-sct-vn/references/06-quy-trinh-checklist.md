@@ -43,12 +43,12 @@ III. NỘI DUNG HỒ SƠ TRÌNH (tóm tắt giải pháp thiết kế → PL 02)
 IV.  PHẠM VI, CƠ SỞ VÀ NGUYÊN TẮC THẨM ĐỊNH (câu giới hạn phạm vi — bắt buộc)
 V.   KẾT QUẢ THẨM ĐỊNH (đạt/chưa đạt từng nhóm; nội dung yêu cầu hoàn thiện → PL 03/04)
 VI.  KẾT LUẬN VÀ YÊU CẦU (điều kiện triển khai bước tiếp; trách nhiệm chủ đầu tư)
-Nơi nhận: Như trên; GĐ/PGĐ; Một cửa (T/h); Lưu: VT, CN(Dũng).   KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân
+Nơi nhận: Như trên; GĐ/PGĐ; Một cửa (T/h); Lưu: VT, CN.   KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân
 ```
 Kèm đóng dấu xác nhận của Sở vào hồ sơ bản vẽ (giai đoạn còn cơ chế này). Thuật ngữ: dự án 2 bước → dùng "thiết kế xây dựng triển khai sau thiết kế cơ sở" (có đoạn giải thích chuẩn trong mẫu Sin Quyền nếu doanh nghiệp gọi "TKBVTC").
 
 ## B6 — LƯU, THEO DÕI
-Lưu: VT, CN(Dũng); cập nhật sổ theo dõi thẩm định (số TB, ngày, dự án, kết quả); nếu từ chối/chuyển → đồng gửi cơ quan tiếp nhận đúng thẩm quyền. Soạn - render docx qua `vbhc-vn` Chế độ B (dùng file trong `vi-du-thuc-te/` làm template gốc), soi ảnh từng trang trước khi giao.
+Lưu: VT, CN; cập nhật sổ theo dõi thẩm định (số TB, ngày, dự án, kết quả); nếu từ chối/chuyển → đồng gửi cơ quan tiếp nhận đúng thẩm quyền. Soạn - render docx qua `vbhc-vn` Chế độ B (dùng file trong `vi-du-thuc-te/` làm template gốc), soi ảnh từng trang trước khi giao.
 
 ## Câu chuẩn dùng lại (đã kiểm nghiệm qua văn bản thật)
 - Giới hạn phạm vi: "Sở Công Thương chỉ thực hiện thẩm định: (1) các nội dung đề nghị thẩm định tại Tờ trình số ... ; (2) theo quy định tại Điều ..., Nghị định số ...".

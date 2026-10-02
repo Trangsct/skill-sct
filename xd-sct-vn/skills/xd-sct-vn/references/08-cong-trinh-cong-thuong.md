@@ -6,13 +6,13 @@
 
 | Loại công trình | Vai trò SCT (CQCM về XD) | Chuyên viên QLCN | Plugin liên kết | Ghi chú cấp/đặc thù |
 |---|---|---|---|---|
-| **Kho VLNCN** (cố định, tạm) | Thẩm định thiết kế (nếu thuộc diện), KTCTNT, xác nhận đáp ứng QCVN | CN(Dũng) chủ trì công trình + CN(Linh) VLNCN | **kho-vlncn-sct-vn** (chi tiết QCVN 01:2019/BCT, quy trình) | Kho ≤10 tấn thường cấp II; kho tạm áp Đ72 (ref 06) |
-| **Nhà máy, kho hóa chất** | Thẩm định BCNCKT/thiết kế, KTCTNT | CN(Dũng) + phối hợp CN(Loan) hóa chất | (hóa chất: `sct-laocai-org-vn`) | Đối chiếu an toàn hóa chất, khoảng cách; PCCC → `pccc-sct-vn` |
-| **Công trình khai thác - chế biến khoáng sản** (trừ VLXD thông thường, xi măng) | Thẩm định BCNCTKT/BCNCKT/BCKTKT + các bước thiết kế sau TK cơ sở; KTCTNT; kiểm tra ATKT | CN(Dũng) thẩm định + CN(Nhung) khoáng sản | `quy-hoach-ct-vn` (quy hoạch khoáng sản) | Loại trừ rõ VLXD thông thường + xi măng (→ Sở Xây dựng) |
-| **Hạ tầng kỹ thuật CCN** | Thẩm định (phần thuộc thẩm quyền), phối hợp quản lý | CN(Dũng) + CN(Trung) KCN/CCN | **kcn-ccn-vn** | CCN ngoài KCN/KKT; hạ tầng dùng chung |
-| **Cơ khí, luyện kim, điện tử, công nghiệp hỗ trợ** | Thẩm định BCNCKT/BCKTKT, thiết kế, KTCTNT | CN(Dũng) + CN(Cường) | — | Công trình công nghiệp chế tạo |
-| **Công nghiệp chế biến, thực phẩm, tiêu dùng** | Thẩm định, KTCTNT | CN(Dũng) + CN(T.Dương) | — | ATTP → nghiệp vụ khác, không phải xây dựng |
-| **Cửa hàng xăng dầu, cửa hàng gas, kho LPG** | Thẩm định (phần công trình công nghiệp), KTCTNT | CN(Dũng) | `pccc-sct-vn` (PCCC cửa hàng xăng dầu/gas) | Đối chiếu QCVN xăng dầu; PCCC bắt buộc |
+| **Kho VLNCN** (cố định, tạm) | Thẩm định thiết kế (nếu thuộc diện), KTCTNT, xác nhận đáp ứng QCVN | CV Dũng chủ trì công trình + CV Linh VLNCN | **kho-vlncn-sct-vn** (chi tiết QCVN 01:2019/BCT, quy trình) | Kho ≤10 tấn thường cấp II; kho tạm áp Đ72 (ref 06) |
+| **Nhà máy, kho hóa chất** | Thẩm định BCNCKT/thiết kế, KTCTNT | CV Dũng + phối hợp CV Loan hóa chất | (hóa chất: `sct-laocai-org-vn`) | Đối chiếu an toàn hóa chất, khoảng cách; PCCC → `pccc-sct-vn` |
+| **Công trình khai thác - chế biến khoáng sản** (trừ VLXD thông thường, xi măng) | Thẩm định BCNCTKT/BCNCKT/BCKTKT + các bước thiết kế sau TK cơ sở; KTCTNT; kiểm tra ATKT | CV Dũng thẩm định + CV Nhung khoáng sản | `quy-hoach-ct-vn` (quy hoạch khoáng sản) | Loại trừ rõ VLXD thông thường + xi măng (→ Sở Xây dựng) |
+| **Hạ tầng kỹ thuật CCN** | Thẩm định (phần thuộc thẩm quyền), phối hợp quản lý | CV Dũng + CV Trung KCN/CCN | **kcn-ccn-vn** | CCN ngoài KCN/KKT; hạ tầng dùng chung |
+| **Cơ khí, luyện kim, điện tử, công nghiệp hỗ trợ** | Thẩm định BCNCKT/BCKTKT, thiết kế, KTCTNT | CV Dũng + CV Cường | — | Công trình công nghiệp chế tạo |
+| **Công nghiệp chế biến, thực phẩm, tiêu dùng** | Thẩm định, KTCTNT | CV Dũng + CV T.Dương | — | ATTP → nghiệp vụ khác, không phải xây dựng |
+| **Cửa hàng xăng dầu, cửa hàng gas, kho LPG** | Thẩm định (phần công trình công nghiệp), KTCTNT | CV Dũng | `pccc-sct-vn` (PCCC cửa hàng xăng dầu/gas) | Đối chiếu QCVN xăng dầu; PCCC bắt buộc |
 
 ## Nguyên tắc "3 câu hỏi" áp cho công trình cụ thể (nhắc lại từ SKILL mục III)
 

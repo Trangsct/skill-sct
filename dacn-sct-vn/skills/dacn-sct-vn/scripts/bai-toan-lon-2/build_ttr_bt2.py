@@ -53,7 +53,7 @@ _bl = [p for p in _c.paragraphs if not p.text.strip()]
 for _p in _bl[3:]:
     _p._element.getparent().remove(_p._element)
 
-doc.replace_in_cell(1, 0, 0, 'Lưu VT; CN(Trung).', 'Lưu: VT, CN(Trang).')
+# Dòng Lưu của mẫu đã là "- Lưu: VT, CN." — không ghi tên chuyên viên (Bạn chốt 01/10/2026)
 out = '/home/claude/work/output/ttr_bt2.docx'
 os.makedirs(os.path.dirname(out), exist_ok=True)
 doc.save(out)

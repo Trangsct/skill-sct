@@ -1,7 +1,7 @@
 # Mẫu 23 — BỘ ĐÔI: Công văn Sở đề nghị + Dự thảo Công văn UBND tỉnh chỉ đạo tăng cường quản lý VLNCN
 
 > **KHUNG CHUẨN = BẢN CUỐI BẠN CHỐT 06/9/2026** (sau 3 vòng Lãnh đạo Sở góp ý; đây là "văn bản của Bạn", soạn lại loại này phải theo đúng nhịp này):
-> - `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-cuoi-6.9.2026.docx` — Công văn Sở, 1 trang, /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân, Lưu: VT, CN(Khôi).
+> - `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-cuoi-6.9.2026.docx` — Công văn Sở, 1 trang, /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân, Lưu: VT, CN.
 > - `vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-cuoi-6.9.2026.docx` — Dự thảo của UBND tỉnh, 4 trang, /UBND-KT, KT. CHỦ TỊCH PCT Nguyễn Thành Sinh, Lưu: VT, KT.
 > - Các bản 23.8.2026 và bản sửa trung gian 06/9 đã gỡ khỏi plugin (lịch sử ở CHANGELOG). Hai file cuối do Bạn lưu lại từ Word nên run "Số:" mất sz tường minh — qa_all báo SZ13 là do Word ghi lại, KHÔNG sửa file của Bạn.
 
@@ -12,7 +12,7 @@
 3. "Dự thảo văn bản giao nhiệm vụ cho các sở, ngành, UBND các xã, phường theo chức năng, nhiệm vụ, địa bàn được phân công và các nhiệm vụ đã được UBND tỉnh ủy quyền; đồng thời quy định yêu cầu đối với các tổ chức, doanh nghiệp hoạt động dịch vụ nổ mìn và các tổ chức, doanh nghiệp sử dụng, bảo quản, vận chuyển VLNCN trên địa bàn tỉnh." (viết chung, không nêu riêng Sở).
 4. "Sở Công Thương kính trình UBND tỉnh xem xét, quyết định./."
 
-Thể thức riêng của khung này: dòng Lưu "CN(Khôi)." với phần "(Khôi)." để **subscript** — là cách trình bày cố ý của Sở, KHÔNG "sửa" thành cỡ thường (06/9 đã sửa nhầm, Bạn khôi phục). Bảng ký có `cantSplit`; thân dài hơn 1 trang thì gỡ `trHeight` và co spacing, không đụng cấu trúc.
+Thể thức riêng của khung này: dòng Lưu ghi `Lưu: VT, CN.` (từ 01/10/2026 không ghi tên chuyên viên; bản ban hành 6/9/2026 còn "(Khôi)" in subscript là lịch sử). Bảng ký có `cantSplit`; thân dài hơn 1 trang thì gỡ `trHeight` và co spacing, không đụng cấu trúc.
 
 ## B. Dự thảo Công văn UBND tỉnh (4 trang, 7 mục + đoạn kết) — NGUYÊN TẮC HÀNH VĂN BẠN CHỐT
 

@@ -22,7 +22,7 @@ IV. THÀNH PHẦN, THỜI GIAN, KINH PHÍ: Đoàn kiểm tra do [Lãnh đạo S�
 
 V. TỔ CHỨC THỰC HIỆN: phòng QLCN chủ trì; thông báo trước cho đối tượng [trừ đột xuất]; báo cáo kết quả trong [15] ngày sau kết thúc.
 
-Người ký: GIÁM ĐỐC (kế hoạch năm) hoặc KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân. Lưu: VT, CN(Dũng).
+Người ký: GIÁM ĐỐC (kế hoạch năm) hoặc KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân. Lưu: VT, CN.
 
 ## B. KHUNG BIÊN BẢN KIỂM TRA
 

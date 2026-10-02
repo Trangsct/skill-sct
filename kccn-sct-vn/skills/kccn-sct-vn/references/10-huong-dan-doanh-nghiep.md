@@ -143,4 +143,4 @@ Theo mẫu tại phụ lục của pháp luật BVMT (Luật BVMT 2020, NĐ 08/2
 
 ---
 
-**Khi soạn công văn hướng dẫn chính thức:** không sao chép nguyên văn câu hỏi; chọn nội dung phù hợp tình huống, trích đầy đủ điều khoản, dùng thể thức `vbhc-vn`, người ký KT.GĐ - PGĐ Nguyễn Đình Chiến, Lưu VT CN(Trung). Bộ mẫu công văn: `mau-van-ban/05-bo-mau-cong-van-huong-dan.md`.
+**Khi soạn công văn hướng dẫn chính thức:** không sao chép nguyên văn câu hỏi; chọn nội dung phù hợp tình huống, trích đầy đủ điều khoản, dùng thể thức `vbhc-vn`, người ký KT.GĐ - PGĐ Nguyễn Đình Chiến, Lưu VT CN. Bộ mẫu công văn: `mau-van-ban/05-bo-mau-cong-van-huong-dan.md`.

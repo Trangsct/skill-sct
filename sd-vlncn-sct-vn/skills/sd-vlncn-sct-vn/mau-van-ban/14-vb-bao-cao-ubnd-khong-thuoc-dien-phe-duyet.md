@@ -1,6 +1,6 @@
 # Mẫu 14 — VĂN BẢN báo cáo UBND tỉnh: trường hợp KHÔNG thuộc diện phê duyệt PANM
 
-> Khung docx thật: `vi-du-thuc-te/CV-giai-quyet-de-nghi-GTYB-Yen-Thanh.docx`. Số:      /SCT-CN; Kính gửi: Ủy ban nhân dân tỉnh Lào Cai; Lưu: VT, CN(Linh).
+> Khung docx thật: `vi-du-thuc-te/CV-giai-quyet-de-nghi-GTYB-Yen-Thanh.docx`. Số:      /SCT-CN; Kính gửi: Ủy ban nhân dân tỉnh Lào Cai; Lưu: VT, CN.
 
 **V/v giải quyết đề nghị phê duyệt Phương án nổ mìn của 【tên DN】**
 

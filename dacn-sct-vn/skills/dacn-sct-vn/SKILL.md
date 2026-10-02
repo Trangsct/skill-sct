@@ -38,7 +38,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
   Riêng reference `10` là **danh mục dự kiến, KHÔNG có số/ngày văn bản** — dùng để biết *ai làm gì, hạn nào*, tuyệt đối không viện dẫn dưới dạng "theo Văn bản số ... ngày ..." và không tính đóng góp dự kiến vào kết quả kỳ báo cáo khi chưa có xác nhận dự án đã vận hành thực tế.
 - **Bước 2 — Xác minh chuyên môn** tại reference tương ứng: đúng chỉ tiêu, đúng cơ quan chủ trì/phối hợp, đúng phương pháp tính, đúng kỳ báo cáo.
 - **Bước 3 — Đối chiếu chéo** với plugin lĩnh vực (`kccn-sct-vn`, `qlks-sct-vn`, `quy-hoach-ct-vn`...) nếu nội dung chạm tới thủ tục hoặc quy hoạch.
-- **Bước 4 — Soạn file .docx** bằng plugin `vbhc-vn` (thể thức NĐ 30/2020; ký hiệu SCT-CN; Lưu VT, CN(tên) theo lĩnh vực). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` trước.
+- **Bước 4 — Soạn file .docx** bằng plugin `vbhc-vn` (thể thức NĐ 30/2020; ký hiệu SCT-CN; Lưu VT, CN theo lĩnh vực). Nếu có PDF văn bản đến → chạy GATE `vbhc-pdf-reader-vn` trước.
 - **Bước 5 — GATE xuất file**: render soi ảnh từng trang trước khi giao.
 
 ### Bảng phân vai hệ sinh thái

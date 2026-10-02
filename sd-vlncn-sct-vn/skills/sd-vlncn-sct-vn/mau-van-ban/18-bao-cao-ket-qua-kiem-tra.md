@@ -1,6 +1,6 @@
 # Mẫu 18 — BÁO CÁO kết quả kiểm tra của Đoàn (gửi Giám đốc Sở)
 
-> Văn bản thật: `vi-du-thuc-te/BC-1883-DKT-ket-qua-kiem-tra-VLNCN-2026.docx` — BC 1883/ĐKT-SCT ngày 08/4/2026. Header trái "SỞ CÔNG THƯƠNG LÀO CAI / ĐOÀN KIỂM TRA"; Số:      /ĐKT-SCT; Kính gửi: Giám đốc Sở Công Thương Lào Cai; ký "TM. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Hoàng Văn Thuân — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG"; **Lưu: VT, ĐKT, CN(Linh)**.
+> Văn bản thật: `vi-du-thuc-te/BC-1883-DKT-ket-qua-kiem-tra-VLNCN-2026.docx` — BC 1883/ĐKT-SCT ngày 08/4/2026. Header trái "SỞ CÔNG THƯƠNG LÀO CAI / ĐOÀN KIỂM TRA"; Số:      /ĐKT-SCT; Kính gửi: Giám đốc Sở Công Thương Lào Cai; ký "TM. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Hoàng Văn Thuân — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG"; **Lưu: VT, ĐKT, CN**.
 
 **BÁO CÁO Kết quả kiểm tra việc chấp hành các quy định của pháp luật trong quản lý, bảo quản và sử dụng vật liệu nổ công nghiệp**
 
@@ -15,4 +15,4 @@ Mở đầu: Thực hiện Quyết định số 【…/QĐ-SCT】 ngày 【…�
 
 **II. KẾT LUẬN, KIẾN NGHỊ** — 1. Kết luận (đánh giá chung mức độ chấp hành, các nhóm hồ sơ đã xuất trình); 2. Kiến nghị (các yêu cầu đã đặt ra với DN: nổ đúng thiết kế/PANM, tuân thủ GP, giám sát lập hộ chiếu theo TT 23/2024, biển báo - nội quy - sắp xếp kho, rãnh thoát nước - gia cố ta luy chống sạt lở, bảo vệ 24/24; đề xuất với GĐ Sở nếu có vi phạm).
 Kết: "Trên đây là Báo cáo kết quả kiểm tra… theo Quyết định số 【…】./."
-Nơi nhận: Các đơn vị trong lịch kiểm tra; Ban Giám đốc Sở; Thành viên ĐKT; Lưu: VT, ĐKT, CN(Linh).
+Nơi nhận: Các đơn vị trong lịch kiểm tra; Ban Giám đốc Sở; Thành viên ĐKT; Lưu: VT, ĐKT, CN.

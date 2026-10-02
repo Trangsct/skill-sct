@@ -1,6 +1,6 @@
 ---
 name: sct-laocai-org-vn
-description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai (sau hợp nhất 01/7/2025). Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, người soạn thảo, dòng Lưu VT CN(tên), phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn + Chi cục QLTT theo QĐ 05/2025/QĐ-UBND, QĐ 59/QĐ-SCT, phân công BGĐ (Dự thảo Lần 4 - 02/2026), Thông báo phân công nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên - từng chuyên viên tham mưu lĩnh vực gì, PTP nào kiểm duyệt); soạn công văn phân công, quyết định cử công chức. Từ khóa thêm: Nguyễn Hồng Vân, Đỗ Mạnh Cường, Lã Doãn Nam, phòng QLCN, QLTM, QLNL, KH-TH, Văn phòng Sở, Chi cục QLTT, CCN, KCN, ATTP, khuyến công, HHNH, PCCC, ATVSLĐ, hóa chất, VLNCN, khoáng sản, điện lực, xăng dầu Từ 15/9/2026 Sở tiếp nhận QLNN địa chất, khoáng sản, KCN (NQ 66.25/2026/NQ-CP): ai phụ trách, GATE hành văn."
+description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai (sau hợp nhất 01/7/2025). Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, chuyên viên tham mưu, dòng Lưu VT CN (không ghi tên chuyên viên), phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn + Chi cục QLTT theo QĐ 05/2025/QĐ-UBND, QĐ 59/QĐ-SCT, phân công BGĐ (Dự thảo Lần 4 - 02/2026), Thông báo phân công nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên - từng chuyên viên tham mưu lĩnh vực gì, PTP nào kiểm duyệt); soạn công văn phân công, quyết định cử công chức. Từ khóa thêm: Nguyễn Hồng Vân, Đỗ Mạnh Cường, Lã Doãn Nam, phòng QLCN, QLTM, QLNL, KH-TH, Văn phòng Sở, Chi cục QLTT, CCN, KCN, ATTP, khuyến công, HHNH, PCCC, ATVSLĐ, hóa chất, VLNCN, khoáng sản, điện lực, xăng dầu Từ 15/9/2026 Sở tiếp nhận QLNN địa chất, khoáng sản, KCN (NQ 66.25/2026/NQ-CP): ai phụ trách, GATE hành văn."
 ---
 
 # sct-laocai-org-vn — Cơ cấu tổ chức Sở Công Thương tỉnh Lào Cai
@@ -180,8 +180,8 @@ Tóm tắt để định tuyến (chi tiết từng gạch đầu dòng nhiệm 
 | Cơ khí - điện tử, CN hỗ trợ, khuyến công, TTCN | Cường (CV) | **PTP Đ.M.Cường** | |
 
 ✅ **Hai điểm Thông báo 10/7/2026 không nêu đích danh — Bạn đã chốt ngày 15/7/2026:**
-1. **Khu công nghiệp**: CV **Lê Quang Trung** tiếp tục theo dõi KCN / tham gia ý kiến dự án trong KCN → dòng Lưu **CN(Trung)**.
-2. **HHNH (vận chuyển hàng hóa nguy hiểm)**: **toàn bộ về CV Vũ Việt Linh** — cả thụ lý hồ sơ cấp GP vận chuyển lẫn an toàn - kiểm tra - tập huấn → dòng Lưu **CN(Linh)**. Riêng giai đoạn **6/7 – 14/7/2026** hồ sơ HHNH do CN(Khôi) thụ lý — văn bản giai đoạn này giữ `CN(Khôi)` đúng lịch sử, không sửa lại.
+1. **Khu công nghiệp**: CV **Lê Quang Trung** tiếp tục theo dõi KCN / tham gia ý kiến dự án trong KCN.
+2. **HHNH (vận chuyển hàng hóa nguy hiểm)**: **toàn bộ về CV Vũ Việt Linh** — cả thụ lý hồ sơ cấp GP vận chuyển lẫn an toàn - kiểm tra - tập huấn. Riêng giai đoạn **6/7 – 14/7/2026** hồ sơ HHNH do CV Khôi thụ lý — văn bản giai đoạn này giữ `CV Khôi` đúng lịch sử, không sửa lại.
 
 **Bảng routing trình Lãnh đạo Sở (kết hợp phân công BGĐ + phân công nội bộ 10/7/2026):**
 
@@ -204,25 +204,27 @@ Tóm tắt để định tuyến (chi tiết từng gạch đầu dòng nhiệm 
 > ⚠️ **Quy tắc trình GĐ:** mọi **Tờ trình, kế hoạch, quy hoạch, chủ trương đầu tư** (kể cả về KCN/CCN) trình **trực tiếp Giám đốc Hoàng Chí Hiền** — kể cả khi nội dung thuộc lĩnh vực thường lệ của PGĐ Chiến/Thuân. Việc thường lệ (cấp phép, thẩm định hồ sơ, công văn tham gia ý kiến, báo cáo chuyên đề) mới trình PGĐ phụ trách.
 > Khi **Thuân vắng** → việc nhóm Thuân trình **PGĐ Giang**; khi **Chiến vắng** → việc nhóm Chiến trình **trực tiếp GĐ Hiền**.
 
-#### Ghi chính xác NGƯỜI SOẠN THẢO (dòng Lưu) và NGƯỜI KÝ (khối chữ ký)
+#### Dòng Lưu, CHUYÊN VIÊN THAM MƯU và NGƯỜI KÝ (khối chữ ký)
 
-**a) Dòng Lưu cuối Nơi nhận:** `Lưu: VT, CN(tên).` — trong đó **VT** = Văn thư, **CN** = Phòng Quản lý công nghiệp, **(tên)** = tên gọi của **chuyên viên trực tiếp soạn thảo**:
+**a) Dòng Lưu cuối Nơi nhận:** `Lưu: VT, CN.` — **VT** = Văn thư, **CN** = Phòng Quản lý công nghiệp. **KHÔNG ghi tên chuyên viên soạn thảo** ở cuối văn bản (Bạn chốt 01/10/2026, thay quy ước cũ "CN(tên)"); công văn nội bộ Phòng ghi `Lưu: CN.`. Văn bản ban hành trước 01/10/2026 có "CN(Trung)", "CN (Khôi)"… là lịch sử, không sửa lại; khi dựng từ mẫu thật cũ, `build_vb.py`/`TemplateDoc.save()` của `vbhc-vn` tự bỏ tên.
 
-| Người soạn | Ký hiệu Lưu | Lĩnh vực mặc định (từ 10/7/2026) |
+Bảng dưới chỉ dùng để biết **chuyên viên nào tham mưu lĩnh vực nào** (giao việc, hỏi thông tin, kiểm duyệt), không đưa tên vào văn bản:
+
+| Chuyên viên | Gọi tắt | Lĩnh vực mặc định (từ 10/7/2026) |
 |---|---|---|
-| Lã Doãn Nam | CN(Nam) | ATTP, CN tiêu dùng/thực phẩm/chế biến khác |
-| Nguyễn Thị Thùy Dương | CN(Dương) | Chất lượng SPHH, SXTD bền vững |
-| Lê Quang Trung | CN(Trung) | CCN, CN địa phương (KCN: mặc định, xác nhận) |
-| Bùi Việt Cường | CN(Cường) — nếu cần phân biệt PTP Đỗ Mạnh Cường thì CV dùng **CN(V.Cường)** | Khuyến công, cơ khí - điện tử, CN hỗ trợ, TTCN |
-| Nguyễn Thị Thúy Nhung | CN(Nhung) | Khoáng sản (chế biến, luyện kim), tổng hợp báo cáo Phòng |
-| Vũ Việt Linh | CN(Linh) | An toàn ngành, **HHNH toàn bộ (cấp GP vận chuyển + an toàn/tập huấn — Bạn chốt 15/7/2026)**, kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ |
-| Ngô Ngọc Dũng | CN(Dũng) | Thẩm định công trình CN, KTCTNT, quy hoạch khoáng sản, hồ đập, PCTT |
-| Lê Minh Long | CN(M.Long) — quy ước tránh trùng tên TP Nguyễn Hữu Long | BVMT, CN môi trường, KNK/carbon |
-| Nguyễn Thị Loan | CN(Loan) | Hóa chất, tiền chất |
-| Trần Đăng Khôi | CN(Khôi) | VLNCN, tiền chất thuốc nổ, GCN huấn luyện KTAT, KHCN-ĐMST CN (HHNH chỉ trong giai đoạn 6/7–14/7/2026) |
-| Trần Trọng Trang (PTP tự soạn) | CN(Trang) | |
+| Lã Doãn Nam | CV Nam | ATTP, CN tiêu dùng/thực phẩm/chế biến khác |
+| Nguyễn Thị Thùy Dương | CV Dương | Chất lượng SPHH, SXTD bền vững |
+| Lê Quang Trung | CV Trung | CCN, CN địa phương (KCN: mặc định, xác nhận) |
+| Bùi Việt Cường | CV V.Cường (phân biệt PTP Đỗ Mạnh Cường) | Khuyến công, cơ khí - điện tử, CN hỗ trợ, TTCN |
+| Nguyễn Thị Thúy Nhung | CV Nhung | Khoáng sản (chế biến, luyện kim), tổng hợp báo cáo Phòng |
+| Vũ Việt Linh | CV Linh | An toàn ngành, **HHNH toàn bộ (cấp GP vận chuyển + an toàn/tập huấn — Bạn chốt 15/7/2026)**, kiểm định KTAT, PCCC, thăm dò - đóng cửa mỏ |
+| Ngô Ngọc Dũng | CV Dũng | Thẩm định công trình CN, KTCTNT, quy hoạch khoáng sản, hồ đập, PCTT |
+| Lê Minh Long | CV M.Long (phân biệt TP Nguyễn Hữu Long) | BVMT, CN môi trường, KNK/carbon |
+| Nguyễn Thị Loan | CV Loan | Hóa chất, tiền chất |
+| Trần Đăng Khôi | CV Khôi | VLNCN, tiền chất thuốc nổ, GCN huấn luyện KTAT, KHCN-ĐMST CN (HHNH chỉ trong giai đoạn 6/7–14/7/2026) |
+| Trần Trọng Trang (PTP tự soạn) | PTP Trang | |
 
-⚠️ **Hai cặp trùng tên:** (1) CV **Lê Minh Long** ↔ TP **Nguyễn Hữu Long** → CV dùng **CN(M.Long)**; (2) CV **Bùi Việt Cường** ↔ PTP **Đỗ Mạnh Cường** → khi văn bản do PTP trực tiếp soạn hoặc dễ nhầm, CV dùng **CN(V.Cường)**, PTP dùng **CN(M.Cường)** (ngoại lệ có chủ ý: chỉ khi PTP trực tiếp soạn; không dùng cho VLNCN từ 10/7/2026) (đã có tiền lệ trong văn bản VLNCN thực tế).
+⚠️ **Hai cặp trùng tên** (chỉ để gọi trong trao đổi nội bộ, không ghi vào văn bản): (1) CV **Lê Minh Long** ↔ TP **Nguyễn Hữu Long** → gọi **CV M.Long**; (2) CV **Bùi Việt Cường** ↔ PTP **Đỗ Mạnh Cường** → gọi **CV V.Cường** / **PTP Đ.M.Cường**.
 
 **b) Khối người ký — xác định theo LĨNH VỰC (không theo xã theo dõi):**
 
@@ -365,9 +367,9 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - ❌ Ghi số/ngày cho QĐ phân công BGĐ mới — bản hiện hành là **QĐ 3488/QĐ-SCT ngày 31/12/2025**; bản thay thế đang ở **Dự thảo Lần 4 (chưa có số/ngày)**. Không bịa số/ngày; khi ban hành chính thức mới điền.
 - ❌ Coi PGĐ Chiến hoặc PGĐ Tưởng là "người phụ trách phòng" — dự thảo chỉ giao **Thuân phụ trách Phòng QLCN** và **Thành phụ trách Phòng QLTM**; Chiến/Tưởng *chỉ đạo theo lĩnh vực* trong hai phòng đó.
 - ❌ Ghi số văn bản cho Thông báo phân công nội bộ Phòng QLCN 10/7/2026 — thông báo này **không có số**; trích dẫn theo ngày + người ký (Trưởng phòng Nguyễn Hữu Long).
-- ❌ Dùng bản phân công nội bộ cũ (1 PTP, VLNCN → CV Linh, ATTP → CV Dương) cho văn bản soạn **từ 10/7/2026 trở đi** — từ ngày này: 3 PTP (Vân, Trang, Đ.M.Cường); **VLNCN → CN(Khôi)**; **ATTP → CN(Nam)**; **chất lượng SPHH → CN(Dương)**; khi TP vắng **PTP Vân** thường trực (không phải PTP Trang).
+- ❌ Dùng bản phân công nội bộ cũ (1 PTP, VLNCN → CV Linh, ATTP → CV Dương) cho văn bản soạn **từ 10/7/2026 trở đi** — từ ngày này: 3 PTP (Vân, Trang, Đ.M.Cường); **VLNCN → CV Khôi**; **ATTP → CV Nam**; **chất lượng SPHH → CV Dương**; khi TP vắng **PTP Vân** thường trực (không phải PTP Trang).
 - ❌ Trình dự thảo lĩnh vực khoáng sản/hóa chất/thẩm định công trình lên PTP Trang hoặc PTP Đ.M.Cường kiểm duyệt — các lĩnh vực này thuộc **PTP Nguyễn Hồng Vân**. CCN, VLNCN, KHCN-ĐMST CN do **Trưởng phòng trực tiếp** chỉ đạo, không qua PTP.
-- ❌ Gán hồ sơ cấp GP vận chuyển HHNH cho CN(Khôi) từ 15/7/2026 trở đi — Bạn đã chốt: **HHNH toàn bộ → CN(Linh)**; Khôi chỉ còn VLNCN/tiền chất thuốc nổ/GCN huấn luyện KTAT/KHCN-ĐMST CN. Văn bản HHNH giai đoạn 6/7–14/7/2026 giữ CN(Khôi) đúng lịch sử. KCN → CN(Trung) (đã xác nhận).
+- ❌ Gán hồ sơ cấp GP vận chuyển HHNH cho CV Khôi từ 15/7/2026 trở đi — Bạn đã chốt: **HHNH toàn bộ → CV Linh**; Khôi chỉ còn VLNCN/tiền chất thuốc nổ/GCN huấn luyện KTAT/KHCN-ĐMST CN. Văn bản HHNH giai đoạn 6/7–14/7/2026 giữ CV Khôi đúng lịch sử. KCN → CV Trung (đã xác nhận).
 
 ## Tiếp nhận chức năng QLNN về địa chất, khoáng sản và khu công nghiệp từ 15/9/2026 (NQ 66.25/2026/NQ-CP)
 
@@ -382,8 +384,8 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 
 **Ai phụ trách trong Sở (áp dụng cho việc mới, chờ Quyết định phân công của UBND tỉnh và điều chỉnh phân công nội bộ):**
 - Lãnh đạo Sở: **PGĐ Hoàng Văn Thuân** (khoáng sản, VLNCN, môi trường) — mảng địa chất, khoáng sản tiếp nhận; **PGĐ Nguyễn Đình Chiến** (KCN, CCN) — mảng KCN tiếp nhận; Giám đốc Hoàng Chí Hiền ký Tờ trình UBND tỉnh về phân công, chuyển giao và biên bản bàn giao.
-- Phòng chủ trì: **Phòng Quản lý công nghiệp** — PTP Nguyễn Hồng Vân (khoáng sản); chuyên viên CN(Dũng) (mỏ, KTCTNT, quy hoạch KS), CN(Nhung) (chế biến, tổng hợp), CN(Khôi) (VLNCN, PANM); KCN: CN(Trung). Khối lượng cấp phép, tiền cấp quyền, hội đồng thẩm định tăng mạnh → tham mưu tiếp nhận **biên chế, nhân sự, dự toán chuyển theo nguyên trạng** (Điều 7 k3, k5c NQ) — điều kiện tiên quyết, ghi rõ trong Tờ trình.
-- Lưu VT, CN(tên) theo quy ước hiện hành; ký hiệu văn bản SCT-CN.
+- Phòng chủ trì: **Phòng Quản lý công nghiệp** — PTP Nguyễn Hồng Vân (khoáng sản); chuyên viên CV Dũng (mỏ, KTCTNT, quy hoạch KS), CV Nhung (chế biến, tổng hợp), CV Khôi (VLNCN, PANM); KCN: CV Trung. Khối lượng cấp phép, tiền cấp quyền, hội đồng thẩm định tăng mạnh → tham mưu tiếp nhận **biên chế, nhân sự, dự toán chuyển theo nguyên trạng** (Điều 7 k3, k5c NQ) — điều kiện tiên quyết, ghi rõ trong Tờ trình.
+- Dòng Lưu `Lưu: VT, CN.` (không ghi tên chuyên viên); ký hiệu văn bản SCT-CN.
 
 **GATE hành văn (đến khi có Quyết định phân công của UBND tỉnh):** dùng cụm "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản (khu công nghiệp)"; dẫn NQ 66.25 làm căn cứ đề xuất SCT chủ trì; không viết "Sở Công Thương cấp giấy phép khai thác" (thẩm quyền cấp vẫn là Chủ tịch UBND tỉnh/Bộ Công Thương — Sở thẩm định, trình). Hồ sơ tiếp nhận từ SNNMT/SXD: chuyển nguyên trạng, không tính lại thời hạn, không yêu cầu nộp lại (Điều 4 NQ).
 
@@ -391,8 +393,8 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 
 | Công cụ | Địa chỉ / kho mã | Dùng để | Người vận hành |
 |---|---|---|---|
-| **Cổng Khu, Cụm công nghiệp Lào Cai** | https://www.congnghieplaocai.vn (repo `Trangsct/ccn-laocai`, Netlify CMS + Vercel) | Bản đồ, danh mục, chi tiết 23 CCN đã thành lập + 35 CCN quy hoạch + 20 KCN; văn bản pháp luật; chatbot Gemini | PTP Trần Trọng Trang; số liệu CCN: CN(Trung) |
-| **CSDL VLNCN và hàng hóa nguy hiểm** | https://vlncn-laocai.vercel.app (repo `Trangsct/vlncn-laocai`; PDF ký số tại `Trangsct/vlncn-laocai-files/uploads`) | GP sử dụng VLNCN, tiền chất thuốc nổ, GCN huấn luyện, dịch vụ nổ mìn, **GP vận chuyển HHNH** (lĩnh vực riêng, báo cáo riêng); xuất **Báo cáo định kỳ** đúng Mẫu 03 PL X TT 23/2024 và khung báo cáo HHNH; nút *Cập nhật dữ liệu ngay* | PTP Trang; VLNCN: CN(Khôi); HHNH: CN(Linh) |
+| **Cổng Khu, Cụm công nghiệp Lào Cai** | https://www.congnghieplaocai.vn (repo `Trangsct/ccn-laocai`, Netlify CMS + Vercel) | Bản đồ, danh mục, chi tiết 23 CCN đã thành lập + 35 CCN quy hoạch + 20 KCN; văn bản pháp luật; chatbot Gemini | PTP Trần Trọng Trang; số liệu CCN: CV Trung |
+| **CSDL VLNCN và hàng hóa nguy hiểm** | https://vlncn-laocai.vercel.app (repo `Trangsct/vlncn-laocai`; PDF ký số tại `Trangsct/vlncn-laocai-files/uploads`) | GP sử dụng VLNCN, tiền chất thuốc nổ, GCN huấn luyện, dịch vụ nổ mìn, **GP vận chuyển HHNH** (lĩnh vực riêng, báo cáo riêng); xuất **Báo cáo định kỳ** đúng Mẫu 03 PL X TT 23/2024 và khung báo cáo HHNH; nút *Cập nhật dữ liệu ngay* | PTP Trang; VLNCN: CV Khôi; HHNH: CV Linh |
 | **Dây chuyền tự động 18h** | bot `ccn-laocai/bot/` trên máy PTP Trang → Data360X (csdlvb.laocai.gov.vn, Văn bản đi/đến Phòng Công nghiệp) → GitHub Actions + Gemini (đọc PDF 2 lượt, so khớp số liệu, số/ngày lấy từ trường ký số) → CSDL web → 18h40 đồng bộ sang plugin | Giấy phép mới ký tự lên trang; trường bắt buộc chắc thì tự cập nhật, chưa chắc mở PR chờ duyệt; bấm đúp `cap-nhat-ngay.bat` để chạy sớm | PTP Trang (đăng nhập Data360X khi phiên hết hạn) |
 | **Bộ plugin skill-sct** | repo `Trangsct/skill-sct` (21 plugin) | Tri thức nghiệp vụ; hai plugin `sd-vlncn-sct-vn` (ref 12) và `hnh-sct-vn` (ref 20) nhận ảnh chụp CSDL trang web tự động mỗi ngày | PTP Trang |
 
@@ -404,14 +406,14 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 
 | Plugin nghiệp vụ | Lĩnh vực | CV chủ trì (từ 10/7/2026) | PTP kiểm duyệt | PGĐ ký thường lệ |
 |---|---|---|---|---|
-| **kccn-sct-vn** | CCN/KCN | CN(Trung) | TP Long trực tiếp (PTP Trang phối hợp) | Chiến |
-| **sd-vlncn-sct-vn**, **kho-vlncn-sct-vn**, **hl-vlncn-sct-vn** | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT, tiền chất thuốc nổ | **CN(Khôi)** (trước 6/7/2026 là CN(Linh) — văn bản cũ vẫn đúng lịch sử) | TP Long trực tiếp | Thuân |
-| **hnh-sct-vn** | GP vận chuyển HHNH | **CN(Linh)** — toàn bộ HHNH từ 15/7/2026 (giai đoạn 6/7–14/7/2026: CN(Khôi)) | PTP Trang | Thuân |
-| **hc-sct-vn** | Hóa chất, tiền chất | CN(Loan) | **PTP Vân** | Thuân |
-| **tkm-sct-vn**, **xd-sct-vn** | Thẩm định thiết kế mỏ, công trình CN, KTCTNT | CN(Dũng) | **PTP Vân** | Thuân |
-| **bvmt-sct-vn** | BVMT, CN môi trường, KNK | CN(M.Long) | PTP Trang | Thuân |
-| **quy-hoach-ct-vn** | Quy hoạch khoáng sản/điện/KCN/CCN | CN(Dũng) (QH khoáng sản), CN(Trung) (KCN/CCN) | theo lĩnh vực | GĐ (tờ trình quy hoạch) |
-| **pccc-sct-vn** | PCCC ngành Công Thương | CN(Linh) (Trung/Cường/Dũng/Khôi phối hợp) | PTP Trang | Thuân |
+| **kccn-sct-vn** | CCN/KCN | CV Trung | TP Long trực tiếp (PTP Trang phối hợp) | Chiến |
+| **sd-vlncn-sct-vn**, **kho-vlncn-sct-vn**, **hl-vlncn-sct-vn** | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT, tiền chất thuốc nổ | **CV Khôi** (trước 6/7/2026 là CV Linh — văn bản cũ vẫn đúng lịch sử) | TP Long trực tiếp | Thuân |
+| **hnh-sct-vn** | GP vận chuyển HHNH | **CV Linh** — toàn bộ HHNH từ 15/7/2026 (giai đoạn 6/7–14/7/2026: CV Khôi) | PTP Trang | Thuân |
+| **hc-sct-vn** | Hóa chất, tiền chất | CV Loan | **PTP Vân** | Thuân |
+| **tkm-sct-vn**, **xd-sct-vn** | Thẩm định thiết kế mỏ, công trình CN, KTCTNT | CV Dũng | **PTP Vân** | Thuân |
+| **bvmt-sct-vn** | BVMT, CN môi trường, KNK | CV M.Long | PTP Trang | Thuân |
+| **quy-hoach-ct-vn** | Quy hoạch khoáng sản/điện/KCN/CCN | CV Dũng (QH khoáng sản), CV Trung (KCN/CCN) | theo lĩnh vực | GĐ (tờ trình quy hoạch) |
+| **pccc-sct-vn** | PCCC ngành Công Thương | CV Linh (Trung/Cường/Dũng/Khôi phối hợp) | PTP Trang | Thuân |
 | **vbhc-vn** | Soạn/render .docx | — lấy routing + dòng Lưu từ skill này | — | — |
 | **bpb-sct-vn** | Bài phát biểu GĐ Sở | — dùng danh sách lãnh đạo + số liệu từ skill này | — | GĐ |
 | **vbhc-pdf-reader-vn** | Đọc metadata PDF đến | — chạy trước khi trích dẫn văn bản đến | — | — |

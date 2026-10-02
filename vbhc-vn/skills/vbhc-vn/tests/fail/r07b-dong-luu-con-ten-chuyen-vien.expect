@@ -1,0 +1,4 @@
+# Bản sao NGUYÊN VẸN mẫu thật ban hành trước 01/10/2026: dòng Lưu còn tên chuyên viên "CN(Linh)".
+# Từ 01/10/2026 Bạn chốt không ghi tên chuyên viên ở cuối văn bản → R07 phải WARN.
+nguon: examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx
+R07 WARN

@@ -62,8 +62,8 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 5. **Người ký theo lĩnh vực**: KCN, CCN, ATTP → PGĐ Nguyễn Đình Chiến; HHNH, hóa chất, VLNCN,
    khoáng sản, môi trường, PCCC, ATVSLĐ, năng lượng, thương mại → PGĐ Hoàng Văn Thuân; TTr UBND
    tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.
-6. **Người soạn trong dòng Lưu = chuyên viên phụ trách lĩnh vực**, không mặc định CN (Trang);
-   tra bảng trong `sct-laocai-org-vn`. Không rõ thì hỏi, không đoán.
+6. **Dòng Lưu KHÔNG ghi tên chuyên viên** (Bạn chốt 01/10/2026): `Lưu: VT, CN.`; công văn nội bộ
+   Phòng `Lưu: CN.`. `build_vb.py` và `TemplateDoc.save()` tự bỏ tên còn sót trong mẫu thật cũ; R07 WARN nếu còn tên.
 7. **PDF văn bản đến: chạy `scripts/extract_metadata.py` TRƯỚC khi dẫn số/ngày.** Ô số/ngày
    trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "chưa cấp số" hay "bản dự thảo".
 8. **Nơi nộp hồ sơ TTHC = Cổng dịch vụ công một cửa Bộ Công Thương**
@@ -104,7 +104,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN (Tên).`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |

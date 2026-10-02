@@ -1,6 +1,6 @@
 # MẪU 06 — Tờ trình UBND tỉnh phê duyệt PANM và chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ
 
-Dựa trên Tờ trình thực tế vụ Ngòi Nhù 1A (5/2026). Ký hiệu `/TTr-SCT`; người trình: Giám đốc/PGĐ theo tính chất; Lưu: VT, CN(Linh).
+Dựa trên Tờ trình thực tế vụ Ngòi Nhù 1A (5/2026). Ký hiệu `/TTr-SCT`; người trình: Giám đốc/PGĐ theo tính chất; Lưu: VT, CN.
 
 ---
 

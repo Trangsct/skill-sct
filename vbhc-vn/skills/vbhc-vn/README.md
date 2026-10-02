@@ -109,7 +109,7 @@ KHÔNG tạo PDF. KHÔNG động vào cấu trúc table. KHÔNG xóa paragraph t
 Người ký mặc định:
 - QĐ, GP, GCN ATTP, BC, CV: KT.GĐ-PGĐ Nguyễn Đình Chiến
 - TTr quan trọng: GIÁM ĐỐC Hoàng Chí Hiền
-- "Lưu: VT, CN(Tên người soạn)" - hỏi tôi tên người soạn nếu không biết.
+- "Lưu: VT, CN." - không ghi tên người soạn.
 ```
 
 ### Bước 4: Yêu cầu Claude

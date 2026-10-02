@@ -77,7 +77,7 @@ set_text(P[30], "(Gửi kèm: dự thảo Kế hoạch và 02 phụ lục)", ita
 cell = d.tables[1].cell(0, 0)
 for p in cell.paragraphs:
     if "Lưu: VT" in p.text:
-        set_text(p, "- Lưu: VT, CN(Khôi).")
+        set_text(p, "- Lưu: VT, CN.")
 
 # ---------------- Phụ lục tiến độ
 t = d.tables[2]

@@ -8,7 +8,7 @@
 - **Trích yếu:** V/v triển khai thực hiện Nghị định số 347/2026/NĐ-CP ngày 08/9/2026 của Chính phủ về nghiệm thu, kiểm tra phòng cháy và chữa cháy
 - **Kính gửi:** - Các chủ đầu tư dự án, công trình xây dựng chuyên ngành Công Thương trên địa bàn tỉnh; - Các cơ sở thuộc lĩnh vực quản lý của ngành Công Thương có trong danh mục Phụ lục II Nghị định số 105/2025/NĐ-CP.
 - **Người ký:** KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân (lĩnh vực PCCC)
-- **Nơi nhận:** Như trên; Công an tỉnh (Phòng PCCC&CNCH); Ban Giám đốc Sở; Lưu: VT, CN (Linh).
+- **Nơi nhận:** Như trên; Công an tỉnh (Phòng PCCC&CNCH); Ban Giám đốc Sở; Lưu: VT, CN.
 - **Lưu ý mức phạt:** mức trong NĐ 106 là mức cá nhân; văn bản gửi doanh nghiệp ghi mức tổ chức (gấp 02 lần, k1 Đ4 NĐ 106) trước.
 
 ## Thân văn bản

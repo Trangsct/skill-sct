@@ -391,4 +391,4 @@ Khi vị trí CCN chồng lấn với quy hoạch khác (khoáng sản, năng l�
 | Công văn trả lời/hướng dẫn nhà đầu tư, UBND xã | KT.GĐ - PGĐ Nguyễn Đình Chiến |
 | Báo cáo tổng hợp rà soát CCN trước 2009 gửi UBND tỉnh | Giám đốc Hoàng Chí Hiền |
 
-Lưu: VT, CN(Trung).
+Lưu: VT, CN.

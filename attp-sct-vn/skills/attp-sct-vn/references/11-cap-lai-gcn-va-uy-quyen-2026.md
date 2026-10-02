@@ -34,7 +34,7 @@ Thứ tự 10 căn cứ trong Quyết định thật, dùng lại nguyên khối
 
 **Người ký:** KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến (phụ trách ATTP).
 
-**Cần Bạn xác nhận:** bản đã phát hành ghi dòng Lưu là `VT, CN(Trang-T.Dương)`, trong khi quy tắc chung của Bạn là **không ghi tên lãnh đạo phòng vào dòng Lưu** và ATTP dùng `CN(Nam)`. Chưa rõ đây là ngoại lệ có chủ ý (Trưởng đoàn kiêm người soạn) hay cần thống nhất lại. **Không tự suy diễn khi soạn bản mới - hỏi Bạn.**
+**Dòng Lưu:** bản đã phát hành (lịch sử, trước 01/10/2026) ghi tên người soạn trong ngoặc; từ 01/10/2026 Bạn chốt không ghi tên chuyên viên — bản mới ghi `Lưu: VT, CN.`
 
 ## 3. Cấp lại Giấy chứng nhận khi hết hiệu lực - quy trình cảnh báo sớm
 
@@ -50,7 +50,7 @@ Thứ tự 10 căn cứ trong Quyết định thật, dùng lại nguyên khối
    - Mục 2 - Thành phần hồ sơ cấp lại (mục 4 dưới đây).
    - Mục 3 - Lưu ý chuẩn bị để thẩm định thực tế: cập nhật địa danh hành chính mới; rà soát danh sách người trực tiếp sản xuất, bảo đảm **đã khám sức khỏe và tập huấn kiến thức còn thời hạn**; chuẩn bị **phiếu kết quả xét nghiệm nguồn nước còn hiệu lực**; bảo đảm hệ thống xử lý nước thải, khu tập kết và xử lý phụ phẩm vận hành thường xuyên.
    - Mục 4 - Hình thức và thời hạn nộp: trực tuyến tại **https://motcua-tthc.moit.gov.vn/** hoặc trực tiếp/bưu chính đến Sở (số 165 Lý Thường Kiệt, phường Yên Bái, tỉnh Lào Cai); **nộp phí thẩm định**; ấn định ngày cụ thể phải nộp trước để Sở đủ thời gian thẩm định; cảnh báo hậu quả nếu quá hạn mà vẫn hoạt động.
-3. Nơi nhận: Như trên; **Giám đốc Sở (b/c)**; Lưu VT, CN(Nam). Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.
+3. Nơi nhận: Như trên; **Giám đốc Sở (b/c)**; Lưu VT, CN. Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.
 
 **Mẫu thật:** `vi-du-thuc-te/hieu-hung-cap-lai-2026/06. CONG VAN SCT huong dan...` - dùng lại nguyên khung, thay thông tin cơ sở.
 

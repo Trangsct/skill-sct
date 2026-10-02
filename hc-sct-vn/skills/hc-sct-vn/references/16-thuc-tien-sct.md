@@ -24,7 +24,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 - **Trưởng đoàn:** PGĐ **Hoàng Văn Thuân** (phụ trách hóa chất).
 - **Phó Trưởng đoàn:** **Nguyễn Hồng Vân** (lãnh đạo phòng).
 - **Thành viên:** **Nguyễn Thị Thúy Nhung**; **Nguyễn Thị Loan** (thư ký, chuyên viên hóa chất).
-- **Dòng Lưu:** VT, CN(Loan).
+- **Dòng Lưu:** `Lưu: VT, CN.`
 - Căn cứ pháp lý dùng khung 2026 đầy đủ (Luật 69/2025; NĐ 24/25/26/2026; NĐ 217/2025; TT 56/2025...).
 → Dùng làm khuôn khi soạn QĐ kiểm tra mới (thay danh sách đơn vị, thời gian; giữ cơ cấu đoàn, căn cứ).
 
@@ -34,7 +34,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 - Ký hiệu quyết định: **/QĐ-SCT**.
 - Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**.
 - Tờ trình, chủ trương, báo cáo quan trọng gửi UBND tỉnh/Bộ: **GIÁM ĐỐC Hoàng Chí Hiền**.
-- Dòng Lưu: **Lưu: VT, CN(Loan).**
+- Dòng Lưu: **Lưu: VT, CN.**
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; kết hợp `vbhc-vn` để chuẩn thể thức NĐ 30/2020.
 
 ## 4. Các quyết định nghiệp vụ đã chốt (áp dụng nhất quán)
@@ -67,7 +67,7 @@ Tổng: **16.000.000 đ**; không tình tiết tăng nặng/giảm nhẹ; không
 2. **Cục Hóa chất kiểm tra trực tiếp DN trên địa bàn** (không qua Sở) rồi gửi QĐ xử phạt cho Sở phối hợp. Khi nhận: (a) cập nhật DN vào hồ sơ theo dõi vi phạm; (b) loại DN khỏi/điều chỉnh kế hoạch kiểm tra chuyên ngành của Sở cùng nội dung để tránh trùng lặp (nguyên tắc NĐ 217/2025); (c) đưa vào báo cáo năm về công tác quản lý hóa chất (ref 11); (d) đôn đốc DN chấp hành nộp phạt và khắc phục (nộp báo cáo, hoàn thiện hồ sơ huấn luyện) trong các đợt làm việc tiếp theo.
 3. **Số liệu răn đe dùng cho CV đôn đốc DN**: không nộp báo cáo tổng hợp năm qua chemicaldata.gov.vn → phạt tới 12 triệu đồng; không lưu đủ hồ sơ huấn luyện → 4 triệu đồng (tiền lệ có thật ngay tại phường Lào Cai). Trích dẫn vụ này (không nêu tên DN trong văn bản gửi rộng rãi) khi soạn CV đôn đốc báo cáo năm.
 4. **Hồ sơ huấn luyện phải lưu đủ 3 cấu phần**: nội dung huấn luyện; thông tin người huấn luyện; nội dung và kết quả kiểm tra — thiếu bất kỳ cấu phần nào đã đủ cấu thành hành vi vi phạm. Soi đúng 3 cấu phần này khi kiểm tra chuyên ngành (ref 10) và thẩm định hồ sơ cấp GCN (ref 03, 07).
-5. Đầu mối theo dõi tại Sở: **CN(Loan)**, lãnh đạo phụ trách **PGĐ Hoàng Văn Thuân**.
+5. Đầu mối theo dõi tại Sở: **CV Loan**, lãnh đạo phụ trách **PGĐ Hoàng Văn Thuân**.
 
 ## 5a. Vụ DAP số 2 — Sở là thành viên Hội đồng thẩm định KH của Cục Hóa chất (08/9/2026)
 

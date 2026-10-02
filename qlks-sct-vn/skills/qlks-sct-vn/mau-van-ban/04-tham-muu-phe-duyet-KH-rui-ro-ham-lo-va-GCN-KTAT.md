@@ -13,7 +13,7 @@ TỜ TRÌNH (TTr-SCT) V/v phê duyệt Kế hoạch quản lý rủi ro trong kh
 
 Kèm: dự thảo QĐ của UBND tỉnh phê duyệt KH quản lý rủi ro (điều 1 phê duyệt kèm theo; điều 2 trách nhiệm Công ty tổ chức thực hiện, cập nhật khi thay đổi công nghệ/điều kiện; điều 3 trách nhiệm SCT theo dõi, kiểm tra; hiệu lực).
 
-Người ký Tờ trình: GIÁM ĐỐC Hoàng Chí Hiền. Lưu: VT, CN(Dũng).
+Người ký Tờ trình: GIÁM ĐỐC Hoàng Chí Hiền. Lưu: VT, CN.
 
 ## B. CHUỖI KIỂM TRA, CẤP GCN HUẤN LUYỆN KTAT KHAI THÁC KHOÁNG SẢN (mỏ hầm lò — Điều 7 TT 43/2025, sửa bởi TT 26/2026)
 
@@ -28,4 +28,4 @@ Mô hình chuỗi văn bản (tái dùng khung tổ chức của hl-vlncn-sct-vn
 
 ## C. VĂN BẢN TIẾP NHẬN KH RỦI RO LỘ THIÊN (tự phê duyệt, gửi theo dõi — Điều 8 TT 24/2025)
 
-Công văn ngắn (SCT-CN) gửi doanh nghiệp: xác nhận đã nhận Kế hoạch quản lý rủi ro do Công ty tự phê duyệt tại QĐ số ... ngày ...; đề nghị tổ chức thực hiện đúng Kế hoạch, cập nhật khi thay đổi công nghệ, điều kiện khai thác và gửi lại bản cập nhật; Sở sẽ kiểm tra việc thực hiện theo kế hoạch kiểm tra hằng năm. Lưu: VT, CN(Dũng).
+Công văn ngắn (SCT-CN) gửi doanh nghiệp: xác nhận đã nhận Kế hoạch quản lý rủi ro do Công ty tự phê duyệt tại QĐ số ... ngày ...; đề nghị tổ chức thực hiện đúng Kế hoạch, cập nhật khi thay đổi công nghệ, điều kiện khai thác và gửi lại bản cập nhật; Sở sẽ kiểm tra việc thực hiện theo kế hoạch kiểm tra hằng năm. Lưu: VT, CN.

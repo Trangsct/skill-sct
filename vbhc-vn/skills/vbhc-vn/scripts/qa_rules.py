@@ -613,12 +613,14 @@ KY_HIEU_HOP_LE = re.compile(
 def rule_R07(doc, ctx) -> list[Finding]:
     """R07 — Dòng Lưu đúng dạng.
 
-    Quy tắc: dòng Lưu ghi ký hiệu đơn vị lưu rồi tên người soạn trong ngoặc, kết thúc
-    bằng dấu chấm — vd "Lưu: VT, CN (Trung)."; phòng QLCN dùng ký hiệu **CN**, không "QLCN";
-    không ghi tên lãnh đạo phòng.
-    Nguồn: Nhóm G (Bạn sửa tay "CN(Khôi)" → "CN (Khôi)").
-    Mức: FAIL cho phần cấu trúc; WARN cho khoảng trắng trước ngoặc — vì 9/26 mẫu thật
-    đã ban hành vẫn viết liền "CN(Trung)", không được bắt mẫu thật FAIL.
+    Quy tắc: dòng Lưu chỉ ghi ký hiệu đơn vị lưu, KHÔNG ghi tên chuyên viên soạn thảo,
+    kết thúc bằng dấu chấm — "Lưu: VT, CN."; công văn nội bộ Phòng "Lưu: CN."; phòng QLCN
+    dùng ký hiệu **CN**, không "QLCN".
+    Nguồn: Nhóm G; Bạn chốt 01/10/2026 bỏ tên chuyên viên ở cuối văn bản (thay quy ước cũ
+    "CN (Tên)").
+    Mức: FAIL cho phần cấu trúc; WARN khi còn tên trong ngoặc — vì mẫu thật đã ban hành
+    trước 01/10/2026 vẫn có "CN(Trung)", không được bắt mẫu thật FAIL. build_vb.py và
+    TemplateDoc.save() tự bỏ tên (fill_template.chuan_hoa_dong_luu) nên bản dựng mới luôn sạch.
     """
     out: list[Finding] = []
     for loc, t in ctx.texts:
@@ -641,10 +643,11 @@ def rule_R07(doc, ctx) -> list[Finding]:
                 "R07", FAIL, loc, cut(s),
                 "Trong dòng Lưu dùng ký hiệu 'CN', không dùng 'QLCN'.",
             ))
-        if re.search(r"[A-ZĐ]{2,}\(", s):
+        if re.search(r"\b(?:Q?LCN|CN)\s?\([^)]*\)", s):
             out.append(Finding(
                 "R07", WARN, loc, cut(s),
-                "Bạn đã sửa tay 'CN(Khôi)' → 'CN (Khôi)' — thêm khoảng trắng trước ngoặc.",
+                "Từ 01/10/2026 không ghi tên chuyên viên ở dòng Lưu — ghi 'Lưu: VT, CN.' "
+                "(nội bộ Phòng: 'Lưu: CN.').",
             ))
     return out
 

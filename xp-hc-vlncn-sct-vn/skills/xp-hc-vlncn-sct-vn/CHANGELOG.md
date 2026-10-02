@@ -1,5 +1,9 @@
 # CHANGELOG — xp-hc-vlncn-sct-vn
 
+## [1.6.3] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.6.1] - 02/9/2026 — ĐÁNH DẤU ĐÃ THAY THẾ bởi xp-sct-vn
 - Description (SKILL.md + plugin.json) thu hẹp thành "[ĐÃ THAY THẾ]" để không tranh kích hoạt với xp-sct-vn; thêm banner cảnh báo đầu SKILL.md. Nội dung references giữ nguyên, không nâng cấp nữa.
 

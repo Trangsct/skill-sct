@@ -11,7 +11,7 @@
 | **NĐ 189/2025/NĐ-CP ngày 01/7/2025** (thẩm quyền xử phạt của các chức danh sau sắp xếp bộ máy), **sửa đổi bởi NĐ 311/2026/NĐ-CP ngày 06/8/2026 — hiệu lực 26/9/2026** (PTTg Lê Tiến Châu ký) | **Đã đối chiếu bản gốc** (`van-ban-goc/chung/`): Chủ tịch xã **50%**, Chủ tịch tỉnh 100% (Đ5); Chi cục trưởng thuộc Sở 50%, **Giám đốc sở 80%**, Cục trưởng 100% (Đ6); Kiểm soát viên 10%, Đội trưởng QLTT 30%, Chi cục trưởng QLTT 50% (Đ12) — tỷ lệ trên mức tối đa lĩnh vực tại Điều 24 Luật. **Điều 21 chuyển tiếp**: mức của NĐ 189 thay cho số tiền trong nghị định chuyên ngành ban hành trước; chức danh mất (Chánh Thanh tra Sở) → chức danh tiếp nhận nhiệm vụ. NĐ 311 (từ 26/9/2026): Chánh Thanh tra tỉnh vào nhóm Giám đốc sở; Trưởng đoàn kiểm tra của tổ chức thuộc bộ giảm 80% → 50%; Thanh tra viên, Trưởng đoàn thanh tra Thanh tra tỉnh; Trưởng phòng Công an tỉnh; THADS; Cảng vụ; Đ8 chuyển tiếp | Chi tiết bảng chức danh + cách áp dụng: `references/08`. ⚠️ Đến hết 25/9/2026 chưa dẫn NĐ 311/2026 trong QĐ-XPHC |
 | **NĐ 217/2025/NĐ-CP ngày 05/8/2025** + **TT 56/2025/TT-BCT ngày 28/11/2025** | Kiểm tra chuyên ngành — "cửa ngõ chứng cứ" của xử phạt; 10 mẫu (Mẫu 03 QĐ kiểm tra, 04 KH, 05 BB kiểm tra, 06 BC, 07 tạm dừng, 08 đình chỉ) | Chi tiết: `01-vlncn-hoachat/07-quy-trinh-kiem-tra-chuyen-nganh-tt56.md` (áp dụng chung mọi lĩnh vực, không riêng VLNCN) |
 | **NĐ 61/2026/NĐ-CP** | Danh mục, quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và dữ liệu do cá nhân, tổ chức cung cấp để phát hiện VPHC | Dùng khi chứng cứ là ảnh, video, dữ liệu camera, trạm cân của doanh nghiệp/người dân cung cấp |
-| **QĐ 05/2025/QĐ-UBND ngày 01/7/2025** (chức năng Sở); **QĐ 1094/QĐ-SCT ngày 09/3/2026** (giao quyền xử phạt cho PGĐ) | Căn cứ cứng trong mọi QĐ kiểm tra và QĐ xử phạt của Sở | Người ký KT. GĐ phải có QĐ giao quyền còn hiệu lực; giao quyền không được giao lại (k3 Đ54) |
+| **QĐ 3628/QĐ-UBND ngày 02/10/2026** (chức năng Sở); **QĐ 1094/QĐ-SCT ngày 09/3/2026** (giao quyền xử phạt cho PGĐ) | Căn cứ cứng trong mọi QĐ kiểm tra và QĐ xử phạt của Sở | Người ký KT. GĐ phải có QĐ giao quyền còn hiệu lực; giao quyền không được giao lại (k3 Đ54) |
 
 ## B. Thời hiệu xử phạt (Điều 6, sửa tại Luật 88/2025) — bảng tra theo lĩnh vực Sở hay gặp
 
@@ -79,7 +79,7 @@ Căn cứ <nghị định xử phạt chuyên ngành đúng thời điểm hành
 Căn cứ NĐ 118/2021 + NĐ 68/2025 + NĐ 190/2025;
 Căn cứ NĐ 189/2025 (+ NĐ 311/2026 nếu đã có hiệu lực tại ngày ký);
 Căn cứ NĐ 217/2025 (+ TT 56/2025);
-Căn cứ QĐ 05/2025/QĐ-UBND;
+Căn cứ QĐ 3628/QĐ-UBND;
 Căn cứ Quyết định kiểm tra số …/QĐ-SCT;
 Căn cứ Biên bản VPHC số … lập hồi … giờ … ngày … tại …;
 Căn cứ QĐ 1094/QĐ-SCT 09/3/2026 giao quyền xử phạt (khi PGĐ ký KT.)

@@ -12,7 +12,7 @@ Số:      /QĐ-SCT                            Lào Cai, ngày …… tháng …
                  GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI
 Căn cứ Nghị định số 217/2025/NĐ-CP ngày 05/8/2025 [Điều 7 — đình chỉ];
 Căn cứ Thông tư số 56/2025/TT-BCT ngày 28/11/2025;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai;
 Căn cứ Quyết định số …/QĐ-SCT ngày … về việc kiểm tra …;
 Theo đề nghị của Trưởng đoàn kiểm tra tại Báo cáo/Tờ trình ngày ….
                                 QUYẾT ĐỊNH:

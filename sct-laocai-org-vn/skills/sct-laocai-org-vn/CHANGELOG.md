@@ -1,5 +1,9 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## [2.6.0] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Cập nhật QĐ 3628/QĐ-UBND ngày 02/10/2026: 06 phòng (thêm Phòng Quản lý khoáng sản), ref 03 mới, QĐ 05/2025 thành lịch sử — chi tiết CHANGELOG-v2026.10.02.md.
+
 ## [2.4.0] - 08/9/2026 — reference 02: lãnh đạo tỉnh, lãnh đạo Sở ngành, địa giới (chuyển từ ghi nhớ cá nhân sang skill)
 
 - `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md` (MỚI): tỉnh Lào Cai mới từ 01/7/2025 (NQ 202/2025/QH15; 13.256,92 km², ~1,78 triệu dân, 99 xã/phường, không cấp huyện); Bí thư, Phó Bí thư, Chủ tịch HĐND, Chủ tịch và 5 Phó Chủ tịch UBND tỉnh 2026-2031; quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; Giám đốc 15 Sở ngành/đơn vị (5/2026); địa chỉ, điện thoại Sở Công Thương, không điền email.

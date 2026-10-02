@@ -1,5 +1,9 @@
 # CHANGELOG — qlks-sct-vn
 
+## [2.1.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [2.1.0] - 13/9/2026 — lớp chủ trương, chiến lược cấp trên: NQ 10-NQ/TW, NQ 88/NQ-CP, QĐ 334/QĐ-TTg (ref 24)
 
 - `references/24-chu-truong-chien-luoc-nq10-nq88-qd334.md` MỚI, viết theo hướng "Sở phải làm gì": khi nào dẫn/không dẫn

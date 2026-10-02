@@ -1,5 +1,9 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## [1.12.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.12.0] - 25/9/2026 — ref 03 theo khung 01/7/2026; mẫu 10 hướng dẫn trình tự 3 đối tượng kho
 - **ref 03 (quy trình kho mới) bỏ khung cũ:** "Hướng A/B" theo Điều 131 Luật XD 2014 và "Sở thẩm định thiết kế triển khai sau TKCS" chuyển thành lịch sử; nay Sở thẩm định **BCNCKT** (k1 Đ27 Luật 135; Đ32 NĐ 217) lồng ghép PCCC, thiết kế triển khai do **chủ đầu tư thẩm định** trên cơ sở thẩm tra (k3 Đ29 Luật 135; k1, k4 Đ41, Đ42 NĐ 217); năng lực theo NĐ 212/2026 (Đ41 tự công khai, k1 Đ28 CCHN 4 lĩnh vực, k2 Đ38 chỉ huy trưởng không cần CCHN, k4 Đ22); bỏ NĐ 175/2024, "chứng chỉ năng lực", "hợp đồng lao động"; báo cáo hoàn thành theo PL VI và k4 Đ27 NĐ 207 thay "báo trước 10 ngày" của Điều 23 NĐ 06/2021.
 - **mẫu 10 MỚI:** công văn hướng dẫn trình tự từng bước cho kho cố định xây mới (8 bước), kho tạm (7 bước, kể cả container lưu động — điểm 2.1, 2.7 PL10 QCVN) và kho hiện hữu (7 bước theo Điều 4 TT 32/2026), mỗi bước dẫn điều khoản.

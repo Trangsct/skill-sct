@@ -1,5 +1,9 @@
 # CHANGELOG — pccc-sct-vn
 
+## [1.3.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.3.0] - 24/9/2026 — mẫu công văn triển khai NĐ 347; sửa mức phạt tổ chức; QĐ 11/2026 đã phân công kiểm tra định kỳ
 - **mau-van-ban/01 MỚI** — nội dung công văn Sở hướng dẫn chủ đầu tư, cơ sở ngành Công Thương thực hiện NĐ 347/2026 + CV 6501/CAT-PCCC (đã dựng .docx trên mẫu thật vbhc-vn, QA PASS).
 - **Sửa sai 1.2.0:** mức 30–50 triệu tại k3 Đ18 NĐ 106 là mức **cá nhân**; tổ chức gấp 02 lần = 60–100 triệu (k1 Đ4 NĐ 106), kèm đình chỉ 03–06 tháng (điểm a k6 Đ18, không bị NĐ 347 sửa) — ref 04, ref 16 (bảng B.7 thêm cột), SKILL.md.

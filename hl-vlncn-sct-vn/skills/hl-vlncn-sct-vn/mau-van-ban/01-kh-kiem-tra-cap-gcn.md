@@ -18,9 +18,7 @@ của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực
 Căn cứ Quyết định số 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai về việc
 Ủy quyền cho Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của Ủy ban
 nhân dân tỉnh trong lĩnh vực vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai về việc
-Ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương
-tỉnh Lào Cai;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của Ủy ban nhân dân tỉnh Lào Cai ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
 Căn cứ Quyết định số 2797/QĐ-SCT ngày 28/11/2025 của Giám đốc Sở Công Thương về
 việc thành lập Tổ kiểm tra, cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ
 công nghiệp, tiền chất thuốc nổ; Quyết định số 564/QĐ-SCT ngày 31/01/2026 của Giám đốc

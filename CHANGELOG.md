@@ -1,3 +1,11 @@
+## 02/10/2026 — Căn cứ chức năng Sở Công Thương theo QĐ 3628/QĐ-UBND ngày 02/10/2026 (14 plugin)
+
+- QĐ 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh (Chủ tịch Nguyễn Tuấn Anh ký) ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương: thêm than, địa chất, khoáng sản, công nghiệp công nghệ cao; 06 phòng (thêm Phòng Quản lý khoáng sản); không có khu công nghiệp. Số, ngày, người ký đọc từ bản ký số.
+- sct-laocai-org-vn 2.6.0: ref 03 mới (tóm lược Quy định, câu căn cứ chuẩn, việc phải làm theo Điều 8); SKILL.md viết lại phần căn cứ, cơ cấu, Phòng Quản lý khoáng sản, mục tiếp nhận chức năng khoáng sản; QĐ 05/2025/QĐ-UBND thành lịch sử.
+- 13 plugin nghiệp vụ: mẫu văn bản, reference đổi căn cứ chức năng Sở sang QĐ 3628; văn bản đã ban hành trước 02/10/2026 giữ nguyên (lịch sử).
+- `scripts/check_facts.py`: rule `qd-3628-chuc-nang-so`, `so-cong-thuong-6-phong` (FAIL). `registry/trang-thai.csv`: thêm QĐ 3628/QĐ-UBND, ghi chú QĐ 05/2025.
+- Phiên bản: attp-sct-vn 1.5.3, bvmt-sct-vn 1.6.2, hc-sct-vn 1.3.2, hl-vlncn-sct-vn 1.4.5, kccn-sct-vn 1.46.2, kho-vlncn-sct-vn 1.12.2, pccc-sct-vn 1.3.2, qlks-sct-vn 2.1.2, sct-laocai-org-vn 2.6.0, sd-vlncn-sct-vn 2026.10.2.1, tkm-sct-vn 1.4.2, xd-sct-vn 1.6.2, xp-hc-vlncn-sct-vn 1.6.3, xp-sct-vn 1.6.2.
+
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 
 - Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".

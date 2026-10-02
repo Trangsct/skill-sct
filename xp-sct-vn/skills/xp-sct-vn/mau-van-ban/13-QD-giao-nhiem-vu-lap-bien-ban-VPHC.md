@@ -23,7 +23,7 @@ Căn cứ Nghị định số 118/2021/NĐ-CP ngày 23/12/2021 của Chính ph�
 【Xăng dầu – khí:】 Căn cứ Nghị định số 99/2020/NĐ-CP ngày 26/8/2020 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực dầu khí, kinh doanh xăng dầu và khí; Nghị định số 17/2022/NĐ-CP ngày 31/01/2022 sửa đổi, bổ sung một số điều của các nghị định quy định về xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp; điện lực, an toàn đập thủy điện, sử dụng năng lượng tiết kiệm và hiệu quả; hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng; hoạt động dầu khí, kinh doanh xăng dầu và khí;
 Căn cứ Nghị định số 189/2025/NĐ-CP ngày 01/7/2025 của Chính phủ hướng dẫn Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính;
 Căn cứ Nghị định số 217/2025/NĐ-CP ngày 05/8/2025 của Chính phủ về hoạt động kiểm tra chuyên ngành;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của Ủy ban nhân dân tỉnh Lào Cai quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của Ủy ban nhân dân tỉnh Lào Cai ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
 Theo đề nghị của Trưởng phòng Quản lý công nghiệp và Chánh Văn phòng Sở,
 
 QUYẾT ĐỊNH:

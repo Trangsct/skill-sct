@@ -276,7 +276,7 @@ Nâng cao năng lực quản trị môi trường, chủ động ứng phó BĐK
 | **Hằng năm** | Báo cáo kết quả thực hiện CTr 104 phần ngành (kiểm điểm cấp ủy + báo cáo UBND tỉnh); số liệu 5 chỉ tiêu ngành (2, 3, 11, 12, 13, 15) | Phòng QLCN tổng hợp, QLNL cung cấp 12–13 | GĐ |
 
 ### 5.3. Đề cương Kế hoạch của Sở Công Thương thực hiện CTr 104-CTr/TU (khung 8 nhóm việc)
-Căn cứ: KL 75; CTr 31; CTr 104; Kế hoạch số …/KH-UBND của UBND tỉnh (điền khi có); Chỉ thị 26-CT/TU; Đề án 13; QĐ 05/2025/QĐ-UBND (chức năng Sở).
+Căn cứ: KL 75; CTr 31; CTr 104; Kế hoạch số …/KH-UBND của UBND tỉnh (điền khi có); Chỉ thị 26-CT/TU; Đề án 13; QĐ 3628/QĐ-UBND (chức năng Sở).
 - **I. Mục đích, yêu cầu** (bám mục I CTr 104; nhấn "rõ chủ trì – phối hợp – tiến độ – sản phẩm – nguồn lực").
 - **II. Chỉ tiêu phần ngành đến 2030**: (1) 100% CCN có XLNT tập trung đạt QC; (2) 100% nguồn nước thải, khí thải lớn cơ sở ngành tại KCN/CCN quan trắc tự động, truyền dữ liệu; (3) KCN Tằng Loỏng đạt tiêu chí KCN sinh thái; (4) NLTT ≥ 26,1% tổng cung năng lượng sơ cấp; (5) giảm tiêu hao năng lượng/GRDP 1,0–1,5%/năm; (6) đóng góp giảm 9% KNK so BAU: 100% cơ sở thuộc QĐ 42/2026 kiểm kê, có kế hoạch giảm nhẹ; cơ sở được phân bổ hạn ngạch tuân thủ.
 - **III. Tám nhóm nhiệm vụ** (mỗi nhóm: nội dung – sản phẩm – mốc – phòng chủ trì):

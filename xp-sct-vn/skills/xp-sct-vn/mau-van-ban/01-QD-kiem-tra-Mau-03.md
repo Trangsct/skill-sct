@@ -18,7 +18,7 @@ Số:      /QĐ-SCT                          Lào Cai, ngày …… tháng …�
 Căn cứ Nghị định số 217/2025/NĐ-CP ngày 05/8/2025 của Chính phủ quy định về hoạt động kiểm tra chuyên ngành;
 Căn cứ Thông tư số 56/2025/TT-BCT ngày 28/11/2025 của Bộ trưởng Bộ Công Thương quy định về quy trình kiểm tra chuyên ngành Công Thương;
 Căn cứ {{VBQPPL chuyên ngành của lĩnh vực kiểm tra — VLNCN: Luật 42/2024 (sđ Luật 118/2025), NĐ 181/2024, TT 23/2024, QCVN 01:2019/BCT; hóa chất: Luật 69/2025, NĐ 24/25/26/2026; HHNH: Luật 36/2024, NĐ 161/2024; ATTP: Luật ATTP, NĐ 15/2018; CCN: NĐ 32/2024 (sđ NĐ 303/2026)…}};
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của Ủy ban nhân dân tỉnh Lào Cai ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai;
 [Căn cứ {{văn bản phân công BGĐ}} — khi PGĐ ký KT.]
 [Căn cứ Quyết định số …/QĐ-UBND ngày … của Chủ tịch UBND tỉnh ban hành Kế hoạch kiểm tra chuyên đề năm 20…] HOẶC [Căn cứ {{văn bản chỉ đạo của UBND tỉnh / Kết luận thanh tra số …/KL-TT ngày …}} — kiểm tra đột xuất];
 Theo đề nghị của Trưởng phòng Quản lý Công nghiệp.

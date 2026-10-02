@@ -23,7 +23,7 @@ Thứ tự 10 căn cứ trong Quyết định thật, dùng lại nguyên khối
 5. Thông tư số 43/2018/TT-BCT ngày 15/11/2018;
 6. Thông tư số 13/2020/TT-BCT ngày 18/6/2020;
 7. Thông tư số 38/2025/TT-BCT ngày 19/6/2025;
-8. Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 (chức năng, nhiệm vụ SCT Lào Cai);
+8. Quyết định số 3628/QĐ-UBND ngày 02/10/2026 (chức năng, nhiệm vụ SCT Lào Cai; bản phát hành 8/2026 dẫn QĐ 05/2025/QĐ-UBND — lịch sử);
 9. **Quyết định số 68/QĐ-UBND ngày 09/01/2026** (ủy quyền);
 10. Hồ sơ đơn đề nghị của cơ sở **nộp trực tuyến qua Cổng dịch vụ công Quốc gia**, ghi rõ ngày nộp và **mã hồ sơ** (ví dụ: ngày 31/7/2026, mã H38.2-260731-0200002);
 11. "Theo đề nghị của Trưởng phòng Quản lý công nghiệp,".

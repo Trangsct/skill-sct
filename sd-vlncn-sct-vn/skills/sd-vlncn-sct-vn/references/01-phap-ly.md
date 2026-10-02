@@ -146,7 +146,7 @@ Cốt lõi cho thẩm định PANM: **Phụ lục 7** — công thức tính kho
 - **NĐ 71/2019/NĐ-CP (sđ NĐ 17/2022)** — chỉ còn dùng cho hành vi xảy ra và kết thúc trước 25/8/2026 (k1 Đ74) và giải quyết khiếu nại QĐ đã ban hành (k4 Đ74). Ghi chú cũ giữ để tra hồ sơ giai đoạn trước: NĐ 17/2022 sửa NĐ 71/2019 tại một số điểm/khoản Đ51, nhóm thẩm quyền Đ58–60, 62–65, bổ sung Đ4a, 4b, 61a; các Điều 49, 50, 53–57 (hành vi VLNCN chính) không bị sửa nội dung.
 
 ## 9. Văn bản địa phương (Lào Cai)
-- **QĐ 05/2025/QĐ-UBND ngày 01/7/2025** — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Sở Công Thương (căn cứ chuẩn).
+- **QĐ 3628/QĐ-UBND ngày 02/10/2026** — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Sở Công Thương (căn cứ chuẩn).
 - ✅ **QĐ 1883/QĐ-UBND ngày 06/11/2025** (đã có **bản ký thật**: `hl-vlncn-sct-vn/van-ban-goc/2025.11.06-1883.QD.UBND-...ban-ky.pdf` + Phụ lục): ủy quyền **Giám đốc SCT** huấn luyện, kiểm tra, cấp, cấp lại GCN huấn luyện KTAT VLNCN (TTHC 2.000229, 2.000210; căn cứ k1 Đ24 NĐ 146/2025); thời hạn **đến hết 28/02/2027**; không ủy quyền tiếp; dùng văn bản, con dấu của Sở; báo cáo UBND tỉnh hằng năm/đột xuất. TM. UBND, KT. Chủ tịch, PCT **Nguyễn Thành Sinh** ký. ⚠ Phạm vi CHỈ gồm GCN huấn luyện — GP sử dụng VLNCN do Chủ tịch UBND tỉnh ký `/GP-UBND` **đến hết 19/8/2026**; từ **20/8/2026** GP sử dụng chuyển GĐ SCT ký theo QĐ 2867 dưới.
 - ⭐ **QĐ 2272/QĐ-UBND ngày 29/6/2026** (hiệu lực **01/7/2026**; bản ký: `van-ban-goc/2026.06.29-2272.QD.UBND-...pdf`): **Sở Công Thương là cơ quan tiếp nhận hồ sơ** cấp, cấp lại, cấp điều chỉnh **GCN đủ điều kiện sản xuất tiền chất thuốc nổ** trên địa bàn tỉnh (thực hiện k5 Đ44 Luật 42/2024 sđ Luật 118/2025, k2 Đ23 NĐ 146/2025). Điều 2: SCT chủ trì thẩm định, trình; **Công an tỉnh** phối hợp thẩm định ANTT, PCCC; UBND cấp xã nơi có cơ sở phối hợp giám sát. Hồ sơ trình: TTr **2869/TTr-SCT ngày 21/5/2026**; căn cứ QĐ 482/QĐ-UBND ngày 13/02/2026, VB 6324/UBND-NC ngày 20/6/2026. PCT **Nguyễn Thành Sinh** ký.
 - ⭐ **QĐ 2867/QĐ-UBND ngày 17/8/2026** (hiệu lực **20/8/2026 → hết 28/02/2027**; bản ký: `van-ban-goc/2026.08.17-2867.QD.UBND-...ban-ky.pdf` + Phụ lục bản trình `..._Phu-luc-danh-muc-uy-quyen_ban-trinh.docx`): **ủy quyền GĐ SCT CẤP, CẤP LẠI, CẤP ĐIỀU CHỈNH GP SỬ DỤNG VLNCN** trên địa bàn (danh mục Phụ lục chỉ 01 nhiệm vụ này; căn cứ k1 Đ1 TT 26/2026/TT-BCT). Đ3: không ủy quyền tiếp; **dùng văn bản, con dấu SCT** (GP do GĐ SCT ký, không còn trình `/GP-UBND`); báo cáo UBND tỉnh 06 tháng/01 năm/đột xuất. PCT **Nguyễn Thành Sinh** ký; trình tại TTr 2205/TTr-SCT 28/10/2025. Không thay thế/bãi bỏ QĐ 1883 (huấn luyện) — hai QĐ song song, cùng hết hạn 28/02/2027. KHÔNG ủy quyền: GCN sản xuất TCTN, GP kinh doanh/XNK VLNCN, phê duyệt PANM. Chi tiết + hệ quả nghiệp vụ: reference `10` mục A-bis.
@@ -199,7 +199,7 @@ phạm vi quản lý của Bộ Công Thương;
 [Với PANM thêm:] Căn cứ Quy chuẩn kỹ thuật quốc gia về an toàn trong sản xuất, thử nghiệm,
 nghiệm thu, bảo quản, vận chuyển, sử dụng, tiêu hủy vật liệu nổ công nghiệp và bảo quản tiền
 chất thuốc nổ (viết tắt là QCVN 01:2019/BCT của Bộ Công Thương);
-[Văn bản của Sở thêm:] Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh
+[Văn bản của Sở thêm:] Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh
 Lào Cai về việc Ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của
 Sở Công Thương tỉnh Lào Cai.
 ```

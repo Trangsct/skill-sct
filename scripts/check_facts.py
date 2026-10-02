@@ -281,11 +281,13 @@ RULES = [
         "level": "WARN",
     },
     {
-        "id": "cn-m-cuong-vlncn",
-        "pattern": r"CN\(M\.?\s?Cường\)",
-        "why": "Từ 10/7/2026 chuyên viên VLNCN/PANM là CN(Khôi); Đỗ Mạnh Cường là PTP, không đứng dòng Lưu (văn bản cũ giữ nguyên lịch sử — thêm chữ 'lịch sử'/'trước 10/7/2026' vào dòng nếu là trích dẫn cũ).",
-        "since": "2026-07-10",
-        "level": "WARN",
+        "id": "luu-khong-ghi-ten-chuyen-vien",
+        # Chốt 01/10/2026: dòng Lưu cuối văn bản không ghi tên chuyên viên soạn thảo — "Lưu: VT, CN."
+        # (nội bộ Phòng "Lưu: CN."). Thay quy ước cũ "Lưu: VT, CN(tên)" và rule cn-m-cuong-vlncn.
+        "pattern": r"(?:Lưu[^\n]{0,30}\b(?:Q?L?CN)\s?\((?!\s*\d)[^)\n]{1,25}\)|\bCN\s?\((?:tên|Tên)\))",
+        "why": "Từ 01/10/2026 dòng Lưu không ghi tên chuyên viên: viết 'Lưu: VT, CN.' (công văn nội bộ Phòng 'Lưu: CN.'). Dòng trích văn bản đã ban hành trước ngày này thì thêm chữ 'lịch sử'.",
+        "since": "2026-10-01",
+        "level": "FAIL",
     },
     {
         "id": "yen-hop-giai-doan",

@@ -32,7 +32,7 @@ Sở Công Thương đề nghị các tổ chức, cá nhân hoạt động khai
 
 Quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị phản ánh về Sở Công Thương (Phòng Quản lý Công nghiệp, điện thoại ...) để được hướng dẫn./.
 
-Nơi nhận: Như trên; UBND tỉnh (b/c); Sở Nông nghiệp và Môi trường, Sở Xây dựng (p/h); Lãnh đạo Sở; Lưu: VT, CN(Dũng).
+Nơi nhận: Như trên; UBND tỉnh (b/c); Sở Nông nghiệp và Môi trường, Sở Xây dựng (p/h); Lãnh đạo Sở; Lưu: VT, CN.
 
 KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC — Hoàng Văn Thuân
 

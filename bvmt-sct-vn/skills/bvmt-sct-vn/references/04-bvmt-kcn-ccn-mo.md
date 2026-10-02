@@ -48,7 +48,7 @@ Khu sản xuất, kinh doanh, dịch vụ tập trung và cụm công nghiệp p
 ### 6. Thẩm quyền và vai trò Sở Công Thương
 - **Quyết định đóng cửa mỏ**: UBND cấp tỉnh (theo thẩm quyền cấp phép khai thác) hoặc Bộ NN&MT.
 - **Tổ chức thẩm định đề án đóng cửa mỏ**: cơ quan quản lý khoáng sản chủ trì (Sở NN&MT ở cấp tỉnh).
-- **Sở Công Thương: phối hợp** — góp ý về an toàn công trình mỏ, bãi thải, khía cạnh công nghiệp khai khoáng; tham gia hội đồng thẩm định nếu được mời. Tại Sở, phần khoáng sản do chuyên viên khoáng sản chủ trì, phối hợp môi trường (CN(M.Long)).
+- **Sở Công Thương: phối hợp** — góp ý về an toàn công trình mỏ, bãi thải, khía cạnh công nghiệp khai khoáng; tham gia hội đồng thẩm định nếu được mời. Tại Sở, phần khoáng sản do chuyên viên khoáng sản chủ trì, phối hợp môi trường (CV M.Long).
 
 ### 7. Nội dung thẩm định đề án đóng cửa mỏ (Điều 26 — để soi nội dung)
 1. **Lý do** đóng cửa mỏ (đóng cửa một phần hay toàn bộ).

@@ -17,7 +17,7 @@ III. TỒN TẠI, HẠN CHẾ, NGUYÊN NHÂN.
 IV. PHƯƠNG HƯỚNG KỲ TỚI.
 V. ĐỀ XUẤT, KIẾN NGHỊ: [với UBND tỉnh; với SNNMT; với Bộ Công Thương].
 
-Người ký: GIÁM ĐỐC (báo cáo Tỉnh ủy/UBND tỉnh) hoặc KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân (báo cáo gửi SNNMT tổng hợp). Lưu: VT, CN(Dũng).
+Người ký: GIÁM ĐỐC (báo cáo Tỉnh ủy/UBND tỉnh) hoặc KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân (báo cáo gửi SNNMT tổng hợp). Lưu: VT, CN.
 
 ## B. CÔNG VĂN PHỐI HỢP ĐỐI CHIẾU VLNCN - SẢN LƯỢNG (SCT-CN gửi Thuế tỉnh, SNNMT)
 
@@ -35,4 +35,4 @@ V/v [thủ tục ... thuộc thẩm quyền giải quyết của ...]
 
 Sở Công Thương nhận được Văn bản số ... ngày ... của [Công ty ...] đề nghị [gia hạn Giấy phép khai thác khoáng sản / phê duyệt đề án đóng cửa mỏ ...]. Căn cứ Điều 108 Luật Địa chất và khoáng sản (được sửa đổi, bổ sung bởi Luật số 147/2025/QH15) [và Nghị quyết số 66.19/2026/NQ-CP ngày 18/5/2026 của Chính phủ], thủ tục nêu trên thuộc thẩm quyền giải quyết của [Chủ tịch Ủy ban nhân dân tỉnh; cơ quan tiếp nhận, tham mưu là Sở Nông nghiệp và Môi trường]. Đề nghị Công ty liên hệ, nộp hồ sơ theo quy định. Sở Công Thương chuyển Văn bản của Công ty đến Sở Nông nghiệp và Môi trường để xem xét theo thẩm quyền./.
 
-Nơi nhận: Công ty; SNNMT (kèm hồ sơ); Lưu: VT, CN(Dũng). Ký: KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân.
+Nơi nhận: Công ty; SNNMT (kèm hồ sơ); Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ Hoàng Văn Thuân.

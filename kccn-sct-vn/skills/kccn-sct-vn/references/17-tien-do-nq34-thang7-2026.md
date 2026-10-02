@@ -1,7 +1,7 @@
 # 17. Tiến độ thực hiện Nghị quyết 34-NQ/TU — số liệu chốt đến 20/7/2026
 
 > NGUỒN (2 báo cáo tháng 7/2026 do Bạn cung cấp ngày 22/7/2026):
-> 1. **Báo cáo Sở Công Thương gửi UBND tỉnh** về tình hình triển khai NQ 34-NQ/TU (số liệu chốt **đến 20/7/2026**; KT. GIÁM ĐỐC, PGĐ Nguyễn Đình Chiến ký; Lưu VT, CN(Trung)).
+> 1. **Báo cáo Sở Công Thương gửi UBND tỉnh** về tình hình triển khai NQ 34-NQ/TU (số liệu chốt **đến 20/7/2026**; KT. GIÁM ĐỐC, PGĐ Nguyễn Đình Chiến ký; Lưu VT, CN).
 > 2. **Báo cáo Ban Quản lý Khu kinh tế gửi Sở Công Thương** (số .../BC-BQL tháng 7/2026, Trưởng ban Vương Trinh Quốc ký) về triển khai Kế hoạch 134/KH-UBND trong tháng 7/2026.
 >
 > ⚠️ ĐÂY LÀ DỮ LIỆU ĐỘNG — chỉ đúng tại thời điểm 20-22/7/2026. **Số liệu MỚI HƠN (chốt 31/7/2026, báo cáo họp UBND tỉnh 05/8/2026): xem reference `25`** — ưu tiên dùng reference 25 cho các nội dung trùng nhau (thu hút đầu tư, GPMB 4 KCN phía Nam, XLNT, vốn QĐ 767, CCN Phú Thịnh 3 khởi công 16/7/2026). Khi soạn văn bản kỳ sau, HỎI Bạn số liệu mới; các số/ngày văn bản viện dẫn (QĐ, TTr, CV) là cố định, dùng được lâu dài.

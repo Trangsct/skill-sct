@@ -15,13 +15,13 @@ File .docx gốc lưu tại `vi-du-thuc-te/`. Các PDF scan dung lượng lớn 
 | Thông báo | 3059/SCT-CN ngày 29/5/2026 | TB kiểm tra Sin Quyền: **2 đợt × 100 người** (02–03/6/2026), ghi số thứ tự từng chức danh |
 | Công văn | 3155/SCT-CN ngày 02/6/2026 | **Từ chối** đề nghị của HTX Văn Thịnh: người quản lý bằng Kỹ sư CN kỹ thuật cơ khí — không thuộc k1 Đ4 |
 | Kế hoạch | 3281/KH-SCT ngày 05/6/2026 | kỳ huấn luyện NGƯỜI QUẢN LÝ T6 (huấn luyện + kiểm tra 16–17/6/2026) |
-| QĐ công nhận | 3728/QĐ-SCT ngày 24/6/2026 | Cty CP Xi măng Yên Bình — 03 học viên người quản lý, kỳ 16–17/6; GIÁM ĐỐC ký; Lưu VT, CN(Linh) |
+| QĐ công nhận | 3728/QĐ-SCT ngày 24/6/2026 | Cty CP Xi măng Yên Bình — 03 học viên người quản lý, kỳ 16–17/6; GIÁM ĐỐC ký; Lưu VT, CN |
 | QĐ công nhận | 3770/QĐ-SCT ngày 25/6/2026 | Cty XD Miền Bắc — người quản lý, kỳ KH 3281 |
 | QĐ công nhận | (số trống trong bản lưu) T4/2026 | Cty Hóa chất mỏ Tây Bắc — kỳ KH 973; **PGĐ Trịnh Văn Thành ký theo GUQ 2180/GUQ-SCT ngày 21/4/2026** (GĐ vắng 22–30/4) |
 | Kế hoạch | 3898/KH-SCT ngày 30/6/2026 | kỳ người quản lý T7 — 03 đơn vị (KS Yên Bái; Yên Phú Đông Đô – BQP*; Đá quý và Vàng). *Lưu ý DN gắn BQP: xác minh thẩm quyền trước khi đưa vào kỳ |
 | Thông báo | 3915/SCT-CN ngày 01/7/2026 | TB huấn luyện người quản lý kỳ KH 3898: 1,5 ngày từ 13h30' 06/7/2026 (bản phát hành có lỗi đánh máy "tháng 76" — không lặp lại) |
 | Kế hoạch | 3957/KH-SCT ngày 03/7/2026 | kỳ kiểm tra T7 — **19 đơn vị** (Hóa chất mỏ Tây Bắc, Sơn Thạch, Yên Hà, Simco-Fansipan, Suối Bắc, Trung Anh, Đèo Cả, Đông Dương, Thịnh Đạt, đường sắt…) |
-| Công văn | /SCT-CN (T3/2026) | Cty TNHH MTV Duy Hiếu: DN không cử người dự kỳ 20/3 → **không đủ điều kiện cấp GCN**; Lưu: VT, BP1C, CN(M.Cường) (lịch sử, trước 10/7/2026) |
+| Công văn | /SCT-CN (T3/2026) | Cty TNHH MTV Duy Hiếu: DN không cử người dự kỳ 20/3 → **không đủ điều kiện cấp GCN**; Lưu: VT, BP1C, CN (lịch sử, trước 10/7/2026) |
 | Báo cáo Tổ kiểm tra | không số, 24/6/2026 | "SỞ CÔNG THƯƠNG / TỔ KIỂM TRA THEO KẾ HOẠCH 3281" — kết quả lớp người quản lý, kính gửi GĐ; căn cứ QĐ 2797/QĐ-SCT 28/11/2025 + QĐ 564/QĐ-SCT 31/01/2026 (bản scan) |
 | Báo cáo Tổ kiểm tra | không số, 20/4/2026 | "TỔ KIỂM TRA THEO KẾ HOẠCH 1896" — kết quả kiểm tra, cấp GCN (bản scan) |
 
@@ -29,7 +29,7 @@ File .docx gốc lưu tại `vi-du-thuc-te/`. Các PDF scan dung lượng lớn 
 
 | Văn bản | Số / ngày | Nội dung |
 |---|---|---|
-| QĐ thành lập Đoàn | 1050/QĐ-SCT ngày 06/3/2026 | GĐ ký; kiểm tra chấp hành pháp luật trong sử dụng, bảo quản VLNCN năm 2026; Lưu VT, CN(M.Cường) (lịch sử, trước 10/7/2026) |
+| QĐ thành lập Đoàn | 1050/QĐ-SCT ngày 06/3/2026 | GĐ ký; kiểm tra chấp hành pháp luật trong sử dụng, bảo quản VLNCN năm 2026; Lưu VT, CN (lịch sử, trước 10/7/2026) |
 | KH của Đoàn | 1105/KH-ĐKT ngày 10/3/2026 | phê duyệt tại **QĐ 1268/QĐ-SCT ngày 16/3/2026** |
 | Báo cáo Đoàn | 1883/ĐKT-SCT ngày 08/4/2026 | kiểm tra 23–27/3/2026: 03 đơn vị/05 công trình (XD giao thông Yên Bái — gói 13 GP 507/GP-UBND 25/02/2026 + gói 14; TCty XD Trường Sơn — gói 16, 23; Hiệp Phú — gói 15); kết cấu I. Kết quả (hồ sơ pháp lý — kho — thực địa) II. Tồn tại III. Kiến nghị |
 | Thông báo sau kiểm tra | 1894/TB-SCT ngày 09/4/2026 | gửi các đơn vị: kết quả + yêu cầu khắc phục; ghi nhận "những người tiếp xúc với VLNCN đã được đào tạo, huấn luyện và có QĐ bổ nhiệm" |

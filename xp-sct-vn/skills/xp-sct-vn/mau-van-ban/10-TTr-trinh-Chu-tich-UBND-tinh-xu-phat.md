@@ -27,5 +27,5 @@ Sở Công Thương kính trình Chủ tịch UBND tỉnh xem xét, quyết đ�
 Nơi nhận:                                            GIÁM ĐỐC
 - Như trên;
 - Văn phòng UBND tỉnh;
-- Lưu: VT, CN({{tên}}), HSKT.
+- Lưu: VT, CN, HSKT.
 ```

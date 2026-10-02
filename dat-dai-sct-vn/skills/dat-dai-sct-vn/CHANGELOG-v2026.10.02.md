@@ -5,7 +5,7 @@
 - Reference 11 (mới): bảng điều khoản đã khớp; 07 điểm Sổ tay dẫn chưa đúng hoặc chưa đủ (Điều 5 và mẫu 45-48 NĐ 151/2025 hết hiệu lực từ 31/01/2026; Điều 39 NĐ 102/2024 không áp dụng cho thu hồi đất thực hiện dự án; thẩm định 30 ngày chứ không phải 30 ngày làm việc; điểm c k1 Đ80 chỉ cho dự án thuộc thẩm quyền Quốc hội, Thủ tướng; thông báo ban hành lại không tính lại 60, 120 ngày); 11 quy định Sổ tay chưa nêu; bảng ngày ban hành, hiệu lực; văn bản còn thiếu.
 - Reference 12 (mới): Bảng giá đất Lào Cai (giá đất nông nghiệp, Phụ lục IV giá đất KCN, CCN), bồi thường nhà, công trình, di chuyển máy móc, diện tích tối thiểu tách thửa.
 - Sửa reference 01 đến 10 và SKILL.md theo kết quả đối chiếu; reference 10 thêm điểm 15 đến 18; SKILL.md thêm quy tắc hành văn 6, 7.
-- `registry/trang-thai.csv`: ghi ngày ban hành, hiệu lực 13 văn bản đã đối chiếu.
+- `registry/trang-thai.csv`: ghi ngày ban hành, hiệu lực 12 văn bản đã đối chiếu.
 - Còn thiếu: QĐ 40/2026/QĐ-UBND, quy định trình tự thủ tục của tỉnh, QĐ 18/2025/QĐ-UBND, QĐ 43/2026/QĐ-UBND (Lào Cai), NĐ 101/2024, NĐ 226/2025, Luật 43/2024.
 
 ## [1.0.0] - 02/10/2026 — Lập plugin từ Sổ tay bồi thường, hỗ trợ, tái định cư của Sở Nông nghiệp và Môi trường tỉnh Lào Cai

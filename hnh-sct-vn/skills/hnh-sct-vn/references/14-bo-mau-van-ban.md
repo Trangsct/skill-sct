@@ -2,7 +2,7 @@
 
 Tập hợp khung các văn bản hành chính hay dùng nhất trong lĩnh vực HHNH, để soạn nhanh. **Định dạng .docx, thể thức, căn lề, font theo skill `vbhc-vn`** (NĐ 30/2020); chống sai số/ngày theo nguyên tắc bất biến. Mỗi khung dưới đây chỉ là bố cục nội dung - khi tạo file phải dựng đúng thể thức của `vbhc-vn`.
 
-Quy ước chung: ký hiệu **SCT-CN**; nơi nhận + **Lưu: VT, CN(tên)**; người ký theo phân công (PGĐ Nguyễn Đình Chiến ký lĩnh vực HHNH thuộc KCN/CCN/ATTP **chỉ khi** được phân; lưu ý theo phân công hiện hành, HHNH/hóa chất/VLNCN do PGĐ Hoàng Văn Thuân phụ trách - **xác định đúng người ký trước khi hoàn thiện**, xem skill `sct-laocai-org-vn`).
+Quy ước chung: ký hiệu **SCT-CN**; nơi nhận + **Lưu: VT, CN**; người ký theo phân công (PGĐ Nguyễn Đình Chiến ký lĩnh vực HHNH thuộc KCN/CCN/ATTP **chỉ khi** được phân; lưu ý theo phân công hiện hành, HHNH/hóa chất/VLNCN do PGĐ Hoàng Văn Thuân phụ trách - **xác định đúng người ký trước khi hoàn thiện**, xem skill `sct-laocai-org-vn`).
 
 ---
 

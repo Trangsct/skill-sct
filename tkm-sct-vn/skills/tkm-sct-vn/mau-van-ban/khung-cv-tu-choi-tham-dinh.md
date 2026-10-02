@@ -20,5 +20,5 @@ Do đó, căn cứ [Điều __ Nghị định __ theo đúng thời kỳ và bư
 
 Sở Công Thương thông báo để [chủ đầu tư] biết và thực hiện./.
 
-Nơi nhận: Như trên; Giám đốc Sở (để b/c); [Sở Xây dựng tỉnh Lào Cai (để phối hợp) — nếu chuyển]; Bộ phận Tiếp nhận và Trả kết quả của SCT tại Trung tâm PVHCC tỉnh (để thực hiện); Phòng QLCN (để theo dõi); Lưu: VT, CN(Dũng).
+Nơi nhận: Như trên; Giám đốc Sở (để b/c); [Sở Xây dựng tỉnh Lào Cai (để phối hợp) — nếu chuyển]; Bộ phận Tiếp nhận và Trả kết quả của SCT tại Trung tâm PVHCC tỉnh (để thực hiện); Phòng QLCN (để theo dõi); Lưu: VT, CN.
 KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC — Hoàng Văn Thuân

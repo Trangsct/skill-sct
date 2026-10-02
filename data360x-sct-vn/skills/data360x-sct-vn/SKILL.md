@@ -76,7 +76,7 @@ description: "CÁNH TAY CỦA CLAUDE VÀO DATA360X (csdlvb.laocai.gov.vn - hệ 
     (từ tab *Thông tin gửi, nhận* trên Data360X): ai gửi ai, hành động *Xử lý chính / Phối hợp / Nhận để biết*,
     hạn xử lý. Bot đã suy sẵn vai trò của Phòng Công nghiệp:
     - **Chủ trì** (Trưởng phòng nhận *Xử lý chính*) → soạn **văn bản của Sở** (công văn, tờ trình… Lãnh đạo Sở ký);
-      người xử lý chính trong luồng là **người soạn** — ghi vào dòng `Lưu: VT, CN(Tên)`.
+      người xử lý chính trong luồng là **người soạn** (dòng Lưu của văn bản mới chỉ ghi `Lưu: VT, CN.`, không ghi tên).
     - **Phối hợp** → chuyên viên soạn **công văn nội bộ của Phòng** gửi phòng chủ trì (mẫu vbhc-vn template 08).
     - **Nhận để biết** → không soạn, chỉ theo dõi. Phòng không có trong luồng → hỏi người dùng.
     Hạn xử lý trong luồng là hạn **của Sở**; hạn ghi trong công văn của Bộ/tỉnh là hạn gửi đi — lấy hạn sớm hơn.

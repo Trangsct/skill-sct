@@ -128,7 +128,7 @@ Ví dụ đạt: `vi-du-thuc-te/BD-vi-tri-toa-do-dien-tich-thu-hoi-da-op-lat-Vie
 
 ## IV. VĂN BẢN SCT THAM GIA Ý KIẾN THEO ĐỀ NGHỊ CỦA SNNMT
 
-Việc thường xuyên nhất của SCT trong chế định thu hồi. Ký hiệu `.../SCT-CN`; người ký KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân**; Lưu: `VT, CN(Dũng)`.
+Việc thường xuyên nhất của SCT trong chế định thu hồi. Ký hiệu `.../SCT-CN`; người ký KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân**; Lưu: `VT, CN.`
 
 ```
 Kính gửi: Sở Nông nghiệp và Môi trường tỉnh Lào Cai.
@@ -177,7 +177,7 @@ dân tỉnh theo quy định./.
 Nơi nhận:                                        KT. GIÁM ĐỐC
 - Như trên;                                      PHÓ GIÁM ĐỐC
 - Lãnh đạo Sở;
-- Lưu: VT, CN(Dũng).                             Hoàng Văn Thuân
+- Lưu: VT, CN.                             Hoàng Văn Thuân
 ```
 
 ---

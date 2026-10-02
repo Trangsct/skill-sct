@@ -34,6 +34,6 @@ Nơi nhận:                                            GIÁM ĐỐC
 - Như trên;
 - UBND tỉnh (b/c);
 - PGĐ phụ trách;
-- Lưu: VT, CN({{tên}}).
+- Lưu: VT, CN.
 Kèm theo: bảng thống kê văn bản đã ban hành trong thời kỳ; biên bản họp kiểm điểm; bản sao các văn bản dẫn chứng.
 ```

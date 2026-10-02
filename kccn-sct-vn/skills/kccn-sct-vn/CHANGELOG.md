@@ -1,9 +1,9 @@
 # CHANGELOG
 
-## [1.46.1] - 02/10/2026 — Liên kết sang plugin dat-dai-sct-vn
+## [1.46.2] - 02/10/2026 — Liên kết sang plugin dat-dai-sct-vn
 
 - SKILL.md bảng plugin liên kết: thêm dòng `dat-dai-sct-vn` (trình tự thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn; cách tách số liệu GPMB).
-- `plugin.json` → 1.46.1.
+- `plugin.json` → 1.46.2 (1.46.1 là đợt bỏ tên chuyên viên ở dòng Lưu, xem CHANGELOG gốc kho).
 
 ## [1.46.0] - 01/10/2026 — Danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD); chi tiết QĐ 3480 tuyến 4E
 

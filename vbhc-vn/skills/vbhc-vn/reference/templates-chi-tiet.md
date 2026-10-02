@@ -71,7 +71,7 @@ Văn bản **nội bộ giữa các phòng** trong Sở (vd Phòng QLCN gửi Ph
 - **Đặc trưng nhận diện** (KHÔNG nhầm với template 01):
   - Header **không có dòng `UBND TỈNH LÀO CAI`** và **không có dòng số ký hiệu `Số: .../SCT-CN`** — chỉ gồm `SỞ CÔNG THƯƠNG` (thường) + `PHÒNG QLCN` (đậm, có gạch chân). Đây là văn bản nội bộ nên không cấp số văn thư.
   - **Người ký là TRƯỞNG PHÒNG** (mặc định: Nguyễn Hữu Long - Trưởng phòng QLCN), KHÔNG phải Lãnh đạo Sở. Đây là **ngoại lệ** so với Quy tắc 6.
-  - Dòng lưu ghi `- Lưu: CN (<Mã người soạn>).` (vd `Lưu: CN (Trung).`) — chỉ `CN`, không có `VT`.
+  - Dòng lưu ghi `- Lưu: CN.` (vd `Lưu: CN.`) — chỉ `CN`, không có `VT`.
 - **Table 0** (header):
   - Cell trái P0=`SỞ CÔNG THƯƠNG` (thường), P1=`PHÒNG QLCN` (đậm), P2=`V/v ...`
   - Cell phải P0=`CỘNG HÒA...`, P1=`Độc lập...`, P2=`Lào Cai, ngày      tháng      năm 20...`
@@ -81,7 +81,7 @@ Văn bản **nội bộ giữa các phòng** trong Sở (vd Phòng QLCN gửi Ph
   - P=`Sau khi nghiên cứu hồ sơ, Phòng Quản lý công nghiệp có ý kiến tham gia như sau:`
   - Hệ đề mục: **1, 2, 3 (đậm đứng)** → **a), b), c) (in nghiêng nhãn + tiêu đề; nội dung diễn giải để đứng)** - đúng Quy tắc 9
   - Mục cuối thường là `3. Kết luận` rồi đoạn `Phòng Quản lý công nghiệp ...; đề nghị ... ./.`
-- **Table 1** (footer): cell trái=`Nơi nhận:` / `- Như trên;` / `- Ban Giám đốc Sở;` / `- Lưu: CN (...).`; cell phải=`TRƯỞNG PHÒNG` + (để trống ký) + `Nguyễn Hữu Long`
+- **Table 1** (footer): cell trái=`Nơi nhận:` / `- Như trên;` / `- Ban Giám đốc Sở;` / `- Lưu: CN.`; cell phải=`TRƯỞNG PHÒNG` + (để trống ký) + `Nguyễn Hữu Long`
 - Body sửa bằng cách **rebuild các paragraph ở cấp XML** (như Chế độ B) để giữ đúng cặp run nghiêng/đứng cho nhãn a), b), c); hoặc dùng `TemplateDoc.replace_in_paragraph` cho từng đoạn.
 
 ### 09-bien-ban.docx (Biên bản làm việc/kiểm tra)

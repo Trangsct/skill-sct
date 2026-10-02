@@ -84,7 +84,7 @@ Nơi nhận:                                        KT. GIÁM ĐỐC
 - Sở Nông nghiệp và Môi trường (phối hợp);
 - UBND xã [...] (phối hợp quản lý);
 - Lãnh đạo Sở;
-- Lưu: VT, CN(Dũng).                             Hoàng Văn Thuân
+- Lưu: VT, CN.                             Hoàng Văn Thuân
 ```
 
 ---

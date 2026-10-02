@@ -98,7 +98,7 @@ Trục chính:
 
 ## VI. AI SOẠN / AI KÝ (tra `sct-laocai-org-vn` khi cần)
 
-- **Chuyên viên tham mưu BVMT, công nghiệp môi trường, KNK/các-bon ngành Công Thương**: **Lê Minh Long** → dòng Lưu ghi **CN(M.Long)** (lưu ý trùng tên với Trưởng phòng Nguyễn Hữu Long — luôn dùng `M.Long`).
+- **Chuyên viên tham mưu BVMT, công nghiệp môi trường, KNK/các-bon ngành Công Thương**: **Lê Minh Long** (gọi CV M.Long; dòng Lưu chỉ ghi `Lưu: VT, CN.`) (lưu ý trùng tên với Trưởng phòng Nguyễn Hữu Long — luôn dùng `M.Long`).
 - **Phối hợp khoáng sản/đóng cửa mỏ**: Nguyễn Thị Thúy Nhung chủ trì khoáng sản, Lê Minh Long phối hợp môi trường.
 - **Lãnh đạo phụ trách**: BVMT, công nghiệp môi trường, KNK, khoáng sản thuộc lĩnh vực **PGĐ Hoàng Văn Thuân** phụ trách → văn bản trình **KT.GĐ — PGĐ Hoàng Văn Thuân** ký.
 - **Ký hiệu**: văn bản do Phòng QLCN thụ lý dùng **SCT-CN** (không đổi sang SCT-QLTM/QLNL).
@@ -126,7 +126,7 @@ Trục chính:
 3. **Không bịa số/ngày văn bản pháp luật.** Chỉ dùng số đã xác minh ở `02-khung-phap-ly.md`. Văn bản còn dự thảo (NĐ sửa NĐ 45/2022) ghi rõ "(dự thảo)" hoặc "[đề nghị Bạn xác minh]".
 4. **Khi nhận PDF văn bản đến** (chỉ đạo của tỉnh, văn bản Bộ, hồ sơ ĐTM): chạy đọc metadata (số/ngày/người ký) từ file gốc TRƯỚC khi viện dẫn — theo skill `vbhc-pdf-reader-vn`/`vbhc-vn`.
 5. **Ngôn ngữ phối hợp**: dùng "tham gia ý kiến", "đề nghị", "phối hợp", "thống nhất/không thống nhất với điều kiện…"; tránh "phê duyệt", "quyết định", "cấp phép" khi không thuộc thẩm quyền Sở.
-6. **Văn bản đúng thể thức** theo NĐ 30/2020; ký hiệu **SCT-CN**; người soạn **CN(M.Long)**; người ký mặc định **KT.GĐ — PGĐ Hoàng Văn Thuân** (trừ văn bản cấp tỉnh do GĐ Hoàng Chí Hiền ký). Tên file: `YYYY.MM.DD. [Tên đầy đủ tiếng Việt CÓ DẤU].docx`.
+6. **Văn bản đúng thể thức** theo NĐ 30/2020; ký hiệu **SCT-CN**; chuyên viên tham mưu **CV M.Long**, dòng Lưu `Lưu: VT, CN.`; người ký mặc định **KT.GĐ — PGĐ Hoàng Văn Thuân** (trừ văn bản cấp tỉnh do GĐ Hoàng Chí Hiền ký). Tên file: `YYYY.MM.DD. [Tên đầy đủ tiếng Việt CÓ DẤU].docx`.
 7. **Cập nhật tổ chức Lào Cai mới** (từ 01/7/2025, không còn cấp huyện; địa danh Yên Bái cũ ghi "tỉnh Lào Cai"). Bộ chủ quản môi trường là **Bộ Nông nghiệp và Môi trường** (không còn Bộ Tài nguyên và Môi trường); thông tư mới mang ký hiệu **TT-BNNMT**.
 
 ## IX. BỐI CẢNH LÀO CAI (tóm tắt — chi tiết tại `references/07-boi-canh-lao-cai.md`)

@@ -1,6 +1,6 @@
 # MẪU 03 — CV hướng dẫn doanh nghiệp kho hiện hữu thực hiện kiểm định (theo 2826/SCT-CN ngày 19/5/2026)
 
-Ký hiệu `/SCT-CN`; V/v phúc đáp đề nghị hướng dẫn thực hiện an toàn đưa kho VLNCN vào sử dụng; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN(Dũng).
+Ký hiệu `/SCT-CN`; V/v phúc đáp đề nghị hướng dẫn thực hiện an toàn đưa kho VLNCN vào sử dụng; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN.
 
 **Kính gửi:** {Công ty}
 
@@ -25,7 +25,7 @@ Sở Công Thương phúc đáp để {Công ty} biết, thực hiện./.
 
 # MẪU 04 — CV xác nhận Đề cương kiểm định chất lượng công trình kho VLNCN
 
-Theo bản đã ban hành (Mông Sơn, 5/2026). Ký hiệu `/SCT-CN`; V/v xác nhận Đề cương kiểm định chất lượng công trình Kho chứa VLNCN tại {…}; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN(Dũng).
+Theo bản đã ban hành (Mông Sơn, 5/2026). Ký hiệu `/SCT-CN`; V/v xác nhận Đề cương kiểm định chất lượng công trình Kho chứa VLNCN tại {…}; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN.
 
 **Kính gửi:** {Công ty}
 
@@ -45,7 +45,7 @@ Sở Công Thương tỉnh Lào Cai đề nghị {Công ty} tổ chức kiểm �
 
 # MẪU 05 — CV xác nhận kho đáp ứng QCVN sau khắc phục (theo CV Mông Sơn 6/2026)
 
-Ký hiệu `/SCT-CN`; V/v đáp ứng quy chuẩn đối với kho bảo quản VLNCN {…} của {Công ty}; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN(Dũng).
+Ký hiệu `/SCT-CN`; V/v đáp ứng quy chuẩn đối với kho bảo quản VLNCN {…} của {Công ty}; KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN.
 
 **Kính gửi:** {Công ty}
 

@@ -55,6 +55,6 @@ Quyết định bổ nhiệm"…)
 kết quả về Sở trước ngày …)
 3. Tổ chức thực hiện./.
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC. Nơi nhận: các đơn vị được kiểm tra; UBND các xã liên
-quan; Ban Giám đốc Sở; Lưu: VT, CN(…).
+quan; Ban Giám đốc Sở; Lưu: VT, CN.
 ```
 ⚠️ Soát lỗi chính tả bản cũ, không lặp lại: "công ghiệp", "CỘNG HÕA", "tháng 4năm".

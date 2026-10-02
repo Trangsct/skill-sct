@@ -38,7 +38,7 @@ Trang https://vlncn-laocai.vercel.app/hazmat lưu bản ký số và dữ liệu
 ## 3. Quy trình thực tế tại Sở sau ủy quyền (QĐ 1696)
 
 Chuỗi hồ sơ nội bộ hoàn chỉnh cho một vụ cấp mới (theo bộ Sợi Phương Nam/An Khang):
-1. Tiếp nhận qua TTPVHCC → chuyển Phòng QLCN, chuyên viên thụ lý (hiện là **Trần Đăng Khôi** → dòng lưu văn bản: `Lưu: VT, CN(Khôi)` cho công văn; GP dùng `Lưu: VT, BP1C, CN`).
+1. Tiếp nhận qua TTPVHCC → chuyển Phòng QLCN, chuyên viên thụ lý (hiện là **Trần Đăng Khôi** → dòng lưu văn bản: `Lưu: VT, CN` cho công văn; GP dùng `Lưu: VT, BP1C, CN`).
 2. Soát xét: nếu cần bổ sung → **Công văn hướng dẫn hoàn thiện, bổ sung hồ sơ** (SCT-CN, PGĐ Hoàng Văn Thuân ký; nội dung xếp theo nhóm: thẩm quyền/tư cách → phân loại hàng → phương tiện → nhân sự → phương án; có thể kèm Phụ lục bảng như mẫu Cục Hóa chất tại vi-du-thuc-te/cuc-hoa-chat/).
 3. **Biên bản thẩm định hồ sơ** - dựng theo **MẪU CHUẨN CỦA SỞ** tại `vi-du-thuc-te/giay-phep-da-cap/Bien-ban-tham-dinh-SCT-ThaiThinh-xangdau-loai3.docx` (Chế độ B: sửa trên file gốc, giữ nguyên định dạng). Đây là biên bản thật của Sở cho hồ sơ loại 3 (xăng, dầu) - dùng cho **mọi hồ sơ loại 1, 2, 3, 4, 9**. **KHÔNG dùng mẫu Biên bản thẩm định của Cục Hóa chất (Đức Giang) tại `cuc-hoa-chat/` cho loại này** (mẫu Cục Hóa chất chỉ tham chiếu cho loại 5, 8). Đặc điểm mẫu Biên bản của Sở:
    - **Cơ quan:** `UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG`; tên văn bản: "BIÊN BẢN THẨM ĐỊNH HỒ SƠ / Phục vụ cấp Giấy phép vận chuyển hàng hóa nguy hiểm loại [x] / của [tên doanh nghiệp]".
@@ -134,7 +134,7 @@ Câu này dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, 
 ### 7.3. Ghi chú hồ sơ xe biển Việt Nam (khác vụ xe biển Trung Quốc mục 6.2)
 - Niên hạn sử dụng đọc từ Giấy chứng nhận đăng ký xe/kiểm định (dòng "Giá trị đến ngày" hoặc "Niên hạn sử dụng"); **sơ mi rơ moóc không quy định niên hạn** - cột niên hạn ghi "Không quy định niên hạn", không để trống.
 - Trọng tải: đầu kéo ghi theo "khối lượng cho phép trên mâm kéo"; sơ mi rơ moóc ghi "khối lượng hàng chuyên chở cho phép". Khi không đọc chắc được số từ giấy tờ gốc, áp thông lệ mục 6.6 - ghi "Theo Giấy chứng nhận kiểm định".
-- Chuyên viên thụ lý HHNH từ 15/7/2026 là **Vũ Việt Linh** - biên bản ghi thành phần "Ông Vũ Việt Linh, Chuyên viên - Phòng Quản lý Công nghiệp - Thành viên", dòng lưu công văn `Lưu: VT, CN(Linh)`.
+- Chuyên viên thụ lý HHNH từ 15/7/2026 là **Vũ Việt Linh** - biên bản ghi thành phần "Ông Vũ Việt Linh, Chuyên viên - Phòng Quản lý Công nghiệp - Thành viên", dòng lưu công văn `Lưu: VT, CN`.
 
 ## 8. Cập nhật 26/7/2026 - vụ Công ty TNHH MTV thương mại Tiến Anh (02 bộ: LPG loại 2 + xăng, dầu diesel loại 3, xe biển Việt Nam)
 

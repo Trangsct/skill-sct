@@ -47,5 +47,5 @@ Sở Công Thương trân trọng báo cáo Ủy ban nhân dân tỉnh./.
 Nơi nhận:                                        GIÁM ĐỐC
 - Như trên;
 - Ban Giám đốc Sở;
-- Lưu: VT, CN(…).
+- Lưu: VT, CN.
 ```

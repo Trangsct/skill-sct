@@ -43,5 +43,5 @@ Vì plugin được cập nhật 02 lần mỗi tuần, số liệu ở REFERENC
 - Dây chuyền tự động Data360X: mô tả kiến trúc 3 khâu ở sct-laocai-org-vn mục "Công cụ số và dây chuyền dữ liệu"; bản giao việc "2026.09.02. Bản giao việc Claude Code - Tự động cập nhật văn bản lên 2 trang web và skill.md".
 - Ref 30: khung nội dung một kỳ cập nhật, mẫu tin Zalo, quy tắc trình bày, quy trình 5 bước.
 - Ref 31: sổ chốt dữ kiện cứng.
-- sct-laocai-org-vn: người ký (PGĐ Nguyễn Đình Chiến), chuyên viên CN(Trung), Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo CCN.
+- sct-laocai-org-vn: người ký (PGĐ Nguyễn Đình Chiến), chuyên viên CV Trung, Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo CCN.
 - vbhc-vn: thể thức file Word nếu cần chuyển thể báo cáo.

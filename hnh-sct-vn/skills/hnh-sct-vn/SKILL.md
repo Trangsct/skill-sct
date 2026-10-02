@@ -28,7 +28,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 |---|---|---|
 | Soạn văn bản kết quả (CV, GP, TTr, QĐ, BC) | `vbhc-vn` | Thể thức NĐ 30/2020, template Chế độ A/B, tên file chuẩn |
 | Nhận PDF văn bản đến (hồ sơ DN, văn bản chỉ đạo) | `vbhc-pdf-reader-vn` | Đọc đúng số/ngày/người ký từ file gốc |
-| Xác định người ký, dòng Lưu CN(tên), phòng chủ trì | `sct-laocai-org-vn` | Phân công BGĐ, chuyên viên QLCN |
+| Xác định người ký, dòng Lưu CN, phòng chủ trì | `sct-laocai-org-vn` | Phân công BGĐ, chuyên viên QLCN |
 | DN vận chuyển hóa chất loại 5, 8, khí độc 2.3 (NH3, clo, axit): kiểm tra nghĩa vụ hóa chất song song | `hc-sct-vn` | GCN đủ điều kiện SX/KD hóa chất; Kế hoạch phòng ngừa, ứng phó sự cố hóa chất; khai báo hóa chất nhập khẩu; huấn luyện an toàn hóa chất (Luật 69/2025, NĐ 24-26/2026). Phương án ứng cứu "sự cố hóa chất" điểm d khoản 1 Điều 15 NĐ 161 đối chiếu chéo với KH phòng ngừa sự cố hóa chất của DN; SDS/MSDS dùng chung để phân loại |
 | VLNCN, tiền chất thuốc nổ (loại 1 đã trừ) | `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hl-vlncn-sct-vn` | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT - pháp luật chuyên ngành riêng; XNK VLNCN thuộc tỉnh từ 01/7/2026 (Điều 27 TT 26/2026) |
 | Điều kiện PCCC vận chuyển, Điều 44 NĐ 105/2025, cửa hàng xăng dầu/kho LPG của DN | `pccc-sct-vn` | Nội dung chi tiết Điều 44; PCCC 8 lĩnh vực ngành Công Thương |

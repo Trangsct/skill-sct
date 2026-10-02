@@ -12,5 +12,5 @@ require: Lưu: CN
 forbid: VT, CN
 rule-pass: R03 R07 R11 R13 R14
 trang: 3-6
-ghi-chu: Công văn/báo cáo nội bộ Phòng: dòng lưu chỉ 'Lưu: CN (Tên).', không có VT.
+ghi-chu: Công văn/báo cáo nội bộ Phòng: dòng lưu chỉ 'Lưu: CN.', không có VT, không ghi tên chuyên viên (Bạn chốt 01/10/2026).
 ghi-chu: Kết cấu chuẩn ở reference/bao-cao-dinh-ky-phong-qlcn.md.

@@ -22,5 +22,5 @@ Lý do: {{trùng lặp với cuộc thanh tra theo Quyết định số … củ
 [Các nội dung khác của Quyết định số … tiếp tục thực hiện.]
 Điều 2. Trưởng đoàn kiểm tra thông báo Quyết định này đến {{đối tượng}} [và Thanh tra tỉnh]; bàn giao, lưu giữ hồ sơ, tài liệu đã thu thập theo quy định.
 Điều 3. Quyết định có hiệu lực kể từ ngày ký. Chánh Văn phòng Sở, Trưởng phòng QLCN, Đoàn kiểm tra và {{đối tượng}} chịu trách nhiệm thi hành./.
-Nơi nhận: - Như Điều 3; - [Thanh tra tỉnh]; - Lãnh đạo Sở; - Lưu: VT, CN(…), HSKT.        GIÁM ĐỐC
+Nơi nhận: - Như Điều 3; - [Thanh tra tỉnh]; - Lãnh đạo Sở; - Lưu: VT, CN, HSKT.        GIÁM ĐỐC
 ```

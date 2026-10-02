@@ -2,7 +2,7 @@
 
 **Loại:** Báo cáo · **Ký hiệu:** `.../BC-SCT` · **Nơi nhận chính:** Sở Tài chính
 **Hạn:** trước ngày 20 của kỳ báo cáo · **Người ký:** Giám đốc Sở Hoàng Chí Hiền
-**Dòng Lưu:** `Lưu: VT, CN(tên)` — chuyên viên theo lĩnh vực chủ đạo của kỳ báo cáo
+**Dòng Lưu:** `Lưu: VT, CN` — chuyên viên theo lĩnh vực chủ đạo của kỳ báo cáo
 
 > Soạn file .docx bằng plugin `vbhc-vn` (Chế độ B nếu có mẫu thật của kỳ trước).
 
@@ -97,7 +97,7 @@ Nơi nhận:                              GIÁM ĐỐC
 - Thống kê tỉnh (p/h);
 - Giám đốc, các PGĐ Sở;
 - Các phòng chuyên môn;
-- Lưu: VT, CN(...).                     Hoàng Chí Hiền
+- Lưu: VT, CN.                     Hoàng Chí Hiền
 ```
 
 ---

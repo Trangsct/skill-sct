@@ -17,5 +17,5 @@ Căn cứ khoản 5 Điều 76 Nghị định số 217/2026/NĐ-CP, Sở Công T
 
 Sở Công Thương thông báo cho [chủ đầu tư] biết và thực hiện./.
 
-Nơi nhận: Như trên; Ban Giám đốc Sở; Bộ phận Một cửa SCT (T/h); Lưu: VT, CN(Dũng).
+Nơi nhận: Như trên; Ban Giám đốc Sở; Bộ phận Một cửa SCT (T/h); Lưu: VT, CN.
 KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC — Hoàng Văn Thuân

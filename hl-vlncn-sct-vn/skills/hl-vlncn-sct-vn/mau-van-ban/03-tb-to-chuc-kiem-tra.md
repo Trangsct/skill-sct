@@ -36,5 +36,5 @@ Sở Công Thương Lào Cai thông báo cho các đơn vị hoạt động vậ
 Nơi nhận:                                      KT. GIÁM ĐỐC
 - Như trên;                                    PHÓ GIÁM ĐỐC
 - Ban Giám đốc Sở;
-- Lưu: VT, CN(…).                              Hoàng Văn Thuân
+- Lưu: VT, CN.                              Hoàng Văn Thuân
 ```

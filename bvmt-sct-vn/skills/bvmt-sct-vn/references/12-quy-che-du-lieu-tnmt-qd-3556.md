@@ -74,7 +74,7 @@ Số điều của NĐ 73/2017 và TT 03/2022 trong file này **lấy theo việ
 
 | Thời điểm | Việc | Ghi chú |
 |---|---|---|
-| 10/2026 | Tham mưu Giám đốc văn bản **phân công đầu mối dữ liệu TNMT trong Sở** (Đ22 k2): Phòng QLCN tổng hợp; KNK, môi trường CCN — CN(M.Long); khoáng sản — chuyên viên khoáng sản (Nguyễn Thị Thúy Nhung); ranh giới CCN — chuyên viên CCN (tra `sct-laocai-org-vn`) | Đề xuất, chưa có văn bản Sở |
+| 10/2026 | Tham mưu Giám đốc văn bản **phân công đầu mối dữ liệu TNMT trong Sở** (Đ22 k2): Phòng QLCN tổng hợp; KNK, môi trường CCN — CV M.Long; khoáng sản — chuyên viên khoáng sản (Nguyễn Thị Thúy Nhung); ranh giới CCN — chuyên viên CCN (tra `sct-laocai-org-vn`) | Đề xuất, chưa có văn bản Sở |
 | 10–11/2026 | Lập **danh mục dữ liệu TNMT Sở đang giữ** theo bảng mục 4 + dữ liệu đặc tả (Mục 2 PL II TT 03/2022) | Làm nền cho báo cáo 15/12 |
 | Liên tục | Nhiệm vụ, dự án dùng NSNN có sản phẩm TNMT (đề án, điều tra, quy hoạch, kiểm kê) → **giao nộp trong 30 ngày** từ ngày nghiệm thu, 01 bộ điện tử + 01 bộ giấy, biên bản BM.01 | Ghi hạn vào phiếu trình nghiệm thu |
 | Khi cung cấp dữ liệu cho tổ chức, cá nhân | Thông báo Sở NN&MT theo **Mẫu 01** NĐ 73/2017 | — |

@@ -39,7 +39,7 @@ B4. Tổ trưởng lập BÁO CÁO kết quả (mẫu 06): tiêu đề cơ quan 
 B5. QĐ CÔNG NHẬN KẾT QUẢ /QĐ-SCT (mẫu 05): GIÁM ĐỐC ký; Điều 1 công nhận kết quả
     cho N học viên làm công tác Người quản lý VLNCN của [DN, địa chỉ], được Sở tổ chức
     huấn luyện, kiểm tra từ ngày … đến hết ngày … (danh sách kèm theo); Điều 2 kết quả
-    làm căn cứ cấp GCN; Điều 3 trách nhiệm thi hành. Lưu: VT, CN(Linh).
+    làm căn cứ cấp GCN; Điều 3 trách nhiệm thi hành. Lưu: VT, CN.
     → Mỗi DN một QĐ riêng (tiền lệ QĐ 3728 Xi măng Yên Bình; 3770 XD Miền Bắc).
 B6. TRONG 05 NGÀY kể từ kết thúc kiểm tra: cấp GCN Mẫu 03 (khổ 190x130 mm, GĐ ký,
     dấu Sở; mặt trước tên UBND tỉnh Lào Cai + SỞ CÔNG THƯƠNG TỈNH LÀO CAI); vào sổ

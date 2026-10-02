@@ -58,8 +58,7 @@ def main():
     # ==========================================================
     # 4. SỬA NƠI NHẬN (Table cuối, cell trái)
     # ==========================================================
-    # Thay "Lưu: VT, CN." → "Lưu: VT, CN(Trung)."
-    doc.replace_in_cell(1, 0, 0, 'Lưu: VT, CN.', 'Lưu: VT, CN(Trung).')
+    # Dòng Lưu giữ nguyên "Lưu: VT, CN." — không ghi tên chuyên viên (Bạn chốt 01/10/2026)
 
     # Người ký: giữ nguyên (Nguyễn Đình Chiến) trong mẫu
 

@@ -75,7 +75,7 @@ Tình huống: Thanh tra tỉnh thanh tra Công ty A (Apatit VN), phát hiện v
 - [ ] Thời hạn ≤ 10 ngày (không tự thêm "làm việc" làm phình trần NĐ 217)
 - [ ] Không có chữ "kiểm tra lại", "xác minh lại" nội dung đã thanh tra/kiểm toán
 - [ ] Điều nhiệm vụ dẫn Điều 8, Điều 15 NĐ 217/2025
-- [ ] Nơi nhận có UBND tỉnh (nếu theo chỉ đạo), Thanh tra tỉnh (nếu sau KLTT); Lưu: VT, CN(tên), HSKT
+- [ ] Nơi nhận có UBND tỉnh (nếu theo chỉ đạo), Thanh tra tỉnh (nếu sau KLTT); Lưu: VT, CN, HSKT
 - [ ] Sau ban hành: thông báo địa điểm — thời gian trong 03 ngày làm việc (Đ7 TT 56); báo cáo kết quả ≤ 10 ngày làm việc sau kết thúc (Đ10)
 
 ## G. Kế hoạch tiến hành kiểm tra (Mẫu 04) — bản thực chiến đã được lãnh đạo duyệt

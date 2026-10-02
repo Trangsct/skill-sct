@@ -2,7 +2,7 @@
 
 - Bản gốc (Word): Luật Đất đai 31/2024/QH15; NQ 254/2025/QH15; NĐ 71, 88, 102/2024; NĐ 151/2025; NĐ 49, 50/2026; NQ 66.3/2025, 66.11/2026; Văn bản 1153/BNNMT-QLĐĐ; NQ 19/2025/NQ-HĐND; QĐ 21/2025/QĐ-UBND; QĐ 49/2026/QĐ-UBND.
 - Reference 11 mới: kết quả đối chiếu — 07 điểm Sổ tay dẫn chưa đúng hoặc chưa đủ, 11 quy định Sổ tay chưa nêu, bảng hiệu lực. Reference 12 mới: Bảng giá đất Lào Cai (có giá đất từng KCN, CCN), bồi thường nhà xưởng và di chuyển máy móc, diện tích tối thiểu tách thửa.
-- Sửa reference 01 đến 10, SKILL.md; `registry/trang-thai.csv` thêm 13 văn bản đã đối chiếu.
+- Sửa reference 01 đến 10, SKILL.md; `registry/trang-thai.csv` thêm 12 văn bản đã đối chiếu.
 - Còn thiếu bản gốc: QĐ 40/2026/QĐ-UBND, QĐ 18/2025/QĐ-UBND, QĐ 43/2026/QĐ-UBND (Lào Cai), NĐ 101/2024, NĐ 226/2025.
 
 ## dat-dai-sct-vn 1.0.0 — 02/10/2026: plugin mới về đất đai phục vụ dự án công nghiệp (thu hồi đất, bồi thường, hỗ trợ, tái định cư)
@@ -11,8 +11,16 @@
 - 10 reference: văn bản viện dẫn; thẩm quyền UBND, Chủ tịch UBND cấp xã, Hội đồng bồi thường, chủ đầu tư; quy trình 12 bước; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao sớm, khiếu nại, hồ sơ địa chính; 10 tình huống phát sinh; 39 biểu mẫu và bảng quy đổi số mẫu; áp dụng cho Sở Công Thương (đọc báo cáo GPMB KCN, CCN); 14 điểm chưa thống nhất trong Sổ tay. Checklist đọc báo cáo GPMB.
 - Bản gốc PDF 13,4 MB (export-ignore, chỉ trên GitHub) kèm bản trích chữ bằng máy.
 - Chưa đối chiếu bản gốc các luật, nghị định, quyết định Sổ tay viện dẫn; chưa ghi `registry/trang-thai.csv`.
-- kccn-sct-vn 1.46.1: thêm dòng liên kết sang `dat-dai-sct-vn`.
+- kccn-sct-vn 1.46.2: thêm dòng liên kết sang `dat-dai-sct-vn`.
 - marketplace: thêm entry `dat-dai-sct-vn`. Trên claude.ai có thể phải Remove rồi Add lại marketplace để entry mới hiện ra.
+## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
+
+- Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".
+- vbhc-vn 2.28.0: `fill_template.chuan_hoa_dong_luu()` tự bỏ tên khi dựng từ mẫu thật cũ (`build_vb.py`, `TemplateDoc.save()`); R07 WARN khi còn tên; template trắng 02–06, 08 sửa dòng Lưu; mẫu thật `examples/` giữ nguyên.
+- sct-laocai-org-vn 2.5.0: bảng chuyên viên ↔ lĩnh vực chỉ còn để phân việc, không đưa tên vào văn bản.
+- Mọi plugin nghiệp vụ: mẫu văn bản, hướng dẫn về `Lưu: VT, CN.`; chỗ nêu chuyên viên tham mưu đổi "CN(Tên)" thành "CV Tên". Ví dụ thực tế, văn bản gốc, CHANGELOG cũ giữ nguyên (lịch sử).
+- `scripts/check_facts.py`: rule mới `luu-khong-ghi-ten-chuyen-vien` (FAIL), bỏ rule `cn-m-cuong-vlncn`.
+- Phiên bản: attp-sct-vn 1.5.2, atvsld-sct-vn 1.0.1, bvmt-sct-vn 1.6.1, dacn-sct-vn 1.6.2, data360x-sct-vn 1.1.1, hc-sct-vn 1.3.1, hl-vlncn-sct-vn 1.4.4, hnh-sct-vn 1.11.1, kccn-sct-vn 1.46.1, kho-vlncn-sct-vn 1.12.1, pccc-sct-vn 1.3.1, qlks-sct-vn 2.1.1, quy-hoach-ct-vn 1.4.1, sct-laocai-org-vn 2.5.0, sd-vlncn-sct-vn 2026.10.1.1, tkm-sct-vn 1.4.1, vbhc-vn 2.28.0, xd-sct-vn 1.6.1, xp-hc-vlncn-sct-vn 1.6.2, xp-sct-vn 1.6.1.
 
 ## kccn-sct-vn 1.46.0 — 01/10/2026: 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD ngày 27/9/2026); chi tiết QĐ 3480 tuyến 4E
 

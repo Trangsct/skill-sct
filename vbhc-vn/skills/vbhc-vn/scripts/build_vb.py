@@ -443,6 +443,11 @@ def main() -> int:
         dat_kinh_gui(doc, dong_kg, khuon=dich[0])
     cach_mot_dong_truoc_khoi_ky(doc, khuon=dich[0])
 
+    # Dòng Lưu không ghi tên chuyên viên (Bạn chốt 01/10/2026) — mẫu thật cũ còn "CN(Tên)".
+    sys.path.insert(0, str(SCRIPT_DIR))
+    from fill_template import chuan_hoa_dong_luu  # noqa: E402
+    chuan_hoa_dong_luu(doc)
+
     ra = Path(a.ra)
     ra.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(ra))

@@ -20,7 +20,7 @@ Thực hiện quy trình thẩm định hồ sơ đề nghị thành lập cụm
 
 Để bảo đảm điều kiện trình UBND tỉnh, Sở Công Thương đề nghị [Chủ đầu tư]: 1. Rà soát, điều chỉnh ranh giới, diện tích, bảng tọa độ các điểm khép góc khu đất bảo đảm không chồng lấn với khu vực mỏ nêu trên; cập nhật đồng bộ trong toàn bộ hồ sơ (báo cáo đầu tư, bản đồ, phương án...). 2. [Cập nhật các nội dung khác theo ý kiến thẩm định: căn cứ pháp lý môi trường QCVN 40:2025/BTNMT; khoảng cách an toàn môi trường; chi phí bồi thường GPMB...]. 3. Gửi hồ sơ hoàn thiện về Sở Công Thương trước ngày ... để tiếp tục trình tự thẩm định.
 
-Lưu: VT, CN(Trung). Ký: KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến (lĩnh vực CCN).
+Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến (lĩnh vực CCN).
 
 ## C. Ý KIẾN CỦA SCT KHI ĐƯỢC HỎI VỀ DỰ ÁN KHÁC (chiều 2 — phần khoáng sản thuộc chức năng SCT)
 
@@ -29,4 +29,4 @@ Lưu: VT, CN(Trung). Ký: KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến (lĩ
 - Khu vực dự án [không có / có] cơ sở khai thác, chế biến khoáng sản đang hoạt động do Sở Công Thương theo dõi; [nếu gần mỏ nổ mìn: đề nghị chủ đầu tư phối hợp đánh giá khoảng cách an toàn về chấn động, đá văng theo QCVN 01:2019/BCT đối với hoạt động nổ mìn của mỏ ... trước khi bố trí công trình].
 - Nội dung chồng lấn với quy hoạch khoáng sản khác, khu vực dự trữ khoáng sản quốc gia và các khu vực đã cấp phép hoạt động khoáng sản, đề nghị cơ quan chủ trì tổng hợp ý kiến của Sở Nông nghiệp và Môi trường theo thẩm quyền."
 
-Lưu: VT, CN(Dũng) [hoặc CN(Trung) nếu trục việc là CCN]. Ký: KT. GIÁM ĐỐC — PGĐ theo trục việc (Thuân: khoáng sản; Chiến: CCN).
+Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ theo trục việc (Thuân: khoáng sản; Chiến: CCN).

@@ -106,7 +106,7 @@ QCVN đối chiếu bắt buộc khi thẩm định:
 ## VII. NGƯỜI KÝ, NGƯỜI SOẠN, KÝ HIỆU (khớp `sct-laocai-org-vn`)
 
 - Lĩnh vực thẩm định thiết kế/dự án công nghiệp mỏ → **PGĐ Hoàng Văn Thuân** ký KT. GIÁM ĐỐC (đúng các văn bản mẫu thực tế). Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền.
-- Chuyên viên: **CN(Dũng)** — thẩm định thiết kế/công trình mỏ (dòng Lưu: `Lưu: VT, CN(Dũng).`); vấn đề khoáng sản chung phối hợp CN(Nhung); kho VLNCN trong mỏ phối hợp CN(Khôi).
+- Chuyên viên: **CV Dũng** — thẩm định thiết kế/công trình mỏ (dòng Lưu: `Lưu: VT, CN.`); vấn đề khoáng sản chung phối hợp CV Nhung; kho VLNCN trong mỏ phối hợp CV Khôi.
 - Ký hiệu: công văn `/SCT-CN`; thông báo `/TB-SCT`; báo cáo `/BC-SCT`.
 - Soạn docx: qua `vbhc-vn` (Chế độ B ưu tiên — dùng ví dụ thực tế làm template), render soi ảnh trước khi giao.
 
@@ -125,7 +125,7 @@ B4 THẨM ĐỊNH NỘI DUNG → đối chiếu Phụ lục TT 31/2025 theo bư�
                      đối chiếu QCVN; đối chiếu TKCS đã thẩm định; kết quả thẩm tra
 B5 THÔNG BÁO KQ    → theo mẫu NĐ hiện hành, cấu trúc I-VII + Phụ lục (mẫu Anh Nhẫn
                      4/2026 và tinh dầu quế 04 PL); đóng dấu xác nhận hồ sơ bản vẽ
-B6 LƯU + THEO DÕI  → Lưu VT, CN(Dũng); cập nhật sổ theo dõi thẩm định
+B6 LƯU + THEO DÕI  → Lưu VT, CN; cập nhật sổ theo dõi thẩm định
 ```
 
 ## IX. CẤU TRÚC PLUGIN
@@ -167,5 +167,5 @@ mau-van-ban/                       Khung sườn CV từ chối / chấm dứt /
 - **Khối VLNCN:** thiết kế khoan nổ TRONG thiết kế mỏ = tkm; giấy phép sử dụng VLNCN + PANM = `sd-vlncn-sct-vn`; kho VLNCN (QCVN 01:2019/BCT, chế độ riêng, tkm không thẩm theo phụ lục mỏ) = `kho-vlncn-sct-vn`; nhân sự = `hl-vlncn-sct-vn`. Vận chuyển VLNCN do Công an cấp phép — KHÔNG thuộc `hnh-sct-vn`.
 - **Tuyển khoáng - hóa chất:** điều kiện hóa chất, KH phòng ngừa sự cố = `hc-sct-vn`; vận chuyển hóa chất nguy hiểm = `hnh-sct-vn`.
 - **Chế biến sâu trong CCN/KCN:** `kccn-sct-vn`.
-- **Đầu ra:** `vbhc-vn` (render + QA), `sct-laocai-org-vn` (ký/Lưu — mặc định PGĐ Hoàng Văn Thuân, CN(Dũng)), `bpb-sct-vn` (tham luận, phát biểu).
+- **Đầu ra:** `vbhc-vn` (render + QA), `sct-laocai-org-vn` (ký/Lưu — mặc định PGĐ Hoàng Văn Thuân, CV Dũng), `bpb-sct-vn` (tham luận, phát biểu).
 Chống giẫm chân: câu hỏi trọn domain khác → chuyển hẳn; giáp ranh → trả phần thiết kế mỏ + chỉ rõ thủ tục và chuyên viên phụ trách phần còn lại; hai plugin lệch nhau về số/ngày văn bản → DỪNG, báo Bạn.

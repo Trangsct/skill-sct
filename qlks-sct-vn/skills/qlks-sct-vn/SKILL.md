@@ -123,7 +123,7 @@ Bốn vụ đã thẩm định làm chuẩn đối chiếu: cát sỏi Ngòi Thi
 
 - PGĐ phụ trách khoáng sản: **Hoàng Văn Thuân** ký KT. GIÁM ĐỐC các văn bản chuyên ngành; Tờ trình UBND tỉnh, báo cáo quan trọng: GĐ **Hoàng Chí Hiền**.
 - PTP kiểm duyệt lĩnh vực khoáng sản, hóa chất: **Nguyễn Hồng Vân**.
-- Chuyên viên (dòng Lưu): **CN(Dũng)** — thẩm định công trình/khoáng sản, kiểm tra mỏ; **CN(Nhung)** — khoáng sản chế biến - luyện kim; **CN(Khôi)** — khi gắn VLNCN/GCN huấn luyện VLNCN. Ví dụ: `Lưu: VT, CN(Dũng).`
+- Chuyên viên tham mưu (dòng Lưu chỉ ghi `Lưu: VT, CN.`): **CV Dũng** — thẩm định công trình/khoáng sản, kiểm tra mỏ; **CV Nhung** — khoáng sản chế biến - luyện kim; **CV Khôi** — khi gắn VLNCN/GCN huấn luyện VLNCN. Ví dụ: `Lưu: VT, CN.`
 - Ký hiệu: công văn `/SCT-CN`; báo cáo `/BC-SCT`; kế hoạch `/KH-SCT`; tờ trình `/TTr-SCT`.
 - Soạn docx qua `vbhc-vn`; PDF đến chạy GATE `vbhc-pdf-reader-vn` (extract_metadata.py) trước khi trích số/ngày.
 

@@ -1,7 +1,7 @@
 # 25. Báo cáo tình hình phát triển KCN, CCN — cuộc họp UBND tỉnh ngày 05/8/2026 (số liệu chốt đến 31/7/2026)
 
 > NGUỒN: 02 văn bản bản chuẩn do Bạn hoàn thiện ngày 05/8/2026 (đã lưu `vi-du-thuc-te/`):
-> 1. **Báo cáo Sở Công Thương gửi UBND tỉnh** "Tình hình phát triển các khu công nghiệp, cụm công nghiệp trên địa bàn tỉnh" (KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến ký; Lưu VT, CN(Trung)).
+> 1. **Báo cáo Sở Công Thương gửi UBND tỉnh** "Tình hình phát triển các khu công nghiệp, cụm công nghiệp trên địa bàn tỉnh" (KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến ký; Lưu VT, CN).
 > 2. **Bài phát biểu của Giám đốc Sở Công Thương** tại cuộc họp ngày 05/8/2026 (mẫu văn phong: plugin `bpb-sct-vn`, file `bpb-hop-kcn-2026-08-05.docx`).
 >
 > Bối cảnh: cuộc họp về tình hình triển khai các KCN theo **Giấy mời số 410/GM-UBND ngày 04/8/2026** của UBND tỉnh và **Văn bản số 1309/VPUBND-KT ngày 31/7/2026** của Văn phòng UBND tỉnh; chủ trì: Chủ tịch UBND tỉnh **Nguyễn Tuấn Anh**; dự: PCT **Nguyễn Thành Sinh**. Phạm vi báo cáo sâu: **08 KCN do Ban Quản lý các KCN tỉnh quản lý**.

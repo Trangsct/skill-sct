@@ -105,4 +105,4 @@ Chi tiết: plugin `pccc-sct-vn` ref 04, ref 16.
    Nếu có tồn tại → yêu cầu khắc phục, kiểm tra lại
 ```
 
-Người ký: KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu VT, CN(Dũng). Với kho VLNCN: phối hợp CN(Linh), dùng kèm plugin `kho-vlncn-sct-vn` (đã có bộ mẫu KTCTNT kho chuyên biệt).
+Người ký: KT.GĐ - PGĐ Hoàng Văn Thuân; Lưu VT, CN. Với kho VLNCN: phối hợp CV Linh, dùng kèm plugin `kho-vlncn-sct-vn` (đã có bộ mẫu KTCTNT kho chuyên biệt).

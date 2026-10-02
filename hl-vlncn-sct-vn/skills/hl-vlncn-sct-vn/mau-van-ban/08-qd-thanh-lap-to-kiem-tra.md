@@ -14,7 +14,7 @@ Số:      /QĐ-SCT
 Căn cứ Luật số 42/2024/QH15 ngày 29/6/2024…;
 Căn cứ Nghị định số 181/2024/NĐ-CP ngày 31/12/2024…; Nghị định số 146/2025/NĐ-CP ngày
 12/6/2025…;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025…;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026…;
 Căn cứ Quyết định số 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai về việc Ủy quyền
 cho Giám đốc Sở Công Thương…;
 [Bổ sung: Căn cứ Quyết định số 2797/QĐ-SCT ngày 28/11/2025…;]

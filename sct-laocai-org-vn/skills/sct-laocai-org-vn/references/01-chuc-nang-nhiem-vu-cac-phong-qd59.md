@@ -1,5 +1,7 @@
 # 01 — Chức năng, nhiệm vụ các phòng theo QĐ 59/QĐ-SCT (tách nguyên văn từ SKILL.md ngày 02/9/2026)
 
+> QĐ 59/QĐ-SCT ban hành theo cơ cấu 05 phòng. Từ 02/10/2026 Sở có 06 phòng (thêm Phòng Quản lý khoáng sản — QĐ 3628/QĐ-UBND, ref 03); Giám đốc Sở sẽ ban hành quyết định thay QĐ 59. Đến khi có bản gốc: tra nhiệm vụ các phòng ở đây, riêng mảng địa chất, khoáng sản thuộc Phòng Quản lý khoáng sản.
+>
 > Dùng khi cần trích dẫn nhiệm vụ cụ thể của một phòng (soạn công văn phân công, quyết định cử công chức, xác định phòng chủ trì việc mới). Bảng routing nhanh và cơ cấu nội bộ Phòng QLCN vẫn ở SKILL.md.
 
 ### 1. Văn phòng Sở (Điều 3 QĐ 59/QĐ-SCT)
@@ -116,4 +118,4 @@ Không phải phòng chuyên môn của Sở mà là **tổ chức hành chính 
 - Các phòng chuyên môn, nghiệp vụ thuộc Chi cục.
 - Các Đội Quản lý thị trường trên địa bàn.
 
-CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cục do **UBND tỉnh ban hành quyết định riêng** (theo Điều 2 khoản 1 điểm c QĐ 05/2025/QĐ-UBND).
+CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cục do **UBND tỉnh ban hành quyết định riêng** (điểm c khoản 1 Điều 2 Quy định kèm QĐ 3628/QĐ-UBND ngày 02/10/2026).

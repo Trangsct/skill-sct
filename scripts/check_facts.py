@@ -43,6 +43,22 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-3628-chuc-nang-so",
+        # Bạn yêu cầu 02/10/2026: QĐ 3628/QĐ-UBND ngày 02/10/2026 (Chủ tịch Nguyễn Tuấn Anh ký) ban hành Quy định CNNV, cơ cấu tổ chức
+        # Sở Công Thương — 06 phòng (thêm Phòng Quản lý khoáng sản). QĐ 05/2025/QĐ-UBND chỉ còn nhắc kèm chữ 'lịch sử' hoặc khi trích văn bản đã ban hành.
+        "pattern": r"^(?!.*(?:3628|lịch sử|5116|5085/SCT|QĐ 1696|Sáp nhập|so_van_ban|trước 02/10/2026)).*0?5/2025/QĐ-UBND",
+        "why": "Từ 02/10/2026 căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở là QĐ 3628/QĐ-UBND ngày 02/10/2026 (sct-laocai-org-vn ref 03); QĐ 05/2025/QĐ-UBND chỉ nhắc kèm chữ 'lịch sử'/'trước 02/10/2026'.",
+        "since": "2026-10-02",
+        "level": "FAIL",
+    },
+    {
+        "id": "so-cong-thuong-6-phong",
+        "pattern": r"^(?!.*(?:❌|lịch sử|QĐ 59|05 phòng theo|trước 02/10/2026|cơ cấu 05 phòng)).*(?:\b5|05|năm) phòng chuyên môn",
+        "why": "Từ 02/10/2026 Sở Công Thương có 06 phòng chuyên môn, nghiệp vụ (thêm Phòng Quản lý khoáng sản) — QĐ 3628/QĐ-UBND, sct-laocai-org-vn ref 03.",
+        "since": "2026-10-02",
+        "level": "FAIL",
+    },
+    {
         "id": "ccn-yen-the-lap-day-59-5",
         # Bạn chốt 01/10/2026: lấy số liệu theo xã (mới hơn) — BC 590/BC-UBND ngày 29/9/2026 của UBND xã Lục Yên:
         # 05 DN được giao/cho thuê 23,78/39,97 ha = 59,5%. Số 40,24% (Excel Phòng 28/9/2026) chỉ còn là lịch sử.

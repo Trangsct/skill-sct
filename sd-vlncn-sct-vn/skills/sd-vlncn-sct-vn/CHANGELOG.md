@@ -1,5 +1,9 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## [2026.10.2.1] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## v2026.9.30.1 — 30/9/2026 — PANM bản đầy đủ có bìa, đường kẻ quốc hiệu; tính kíp theo thiết kế đã thẩm định (Kim Thành)
 
 Nguồn: chỉ đạo PTP Trần Trọng Trang 29–30/9/2026 khi dựng Phương án nổ mìn cho Cty CP Kim Thành (mỏ chì - kẽm Cao Phạ, xã Tú Lệ) để DN nộp hồ sơ cấp điều chỉnh Giấy phép 5248/GP-SCT ngày 25/8/2026.

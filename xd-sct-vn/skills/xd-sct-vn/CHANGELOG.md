@@ -2,6 +2,10 @@
 
 Nhật ký thay đổi của plugin (Quản lý nhà nước về xây dựng ngành Công Thương). Lịch sử trước 02/9/2026 xem CHANGELOG.md ở gốc repo (tìm theo tên plugin) và `git log -- xd-sct-vn/`.
 
+## [1.6.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.6.0] - 24/9/2026 — NĐ 347/2026/NĐ-CP: PCCC trong KTCTNT; Điều 74 NĐ 217/2026 bị bãi bỏ
 - SKILL.md: mục NĐ 347/2026 (hiệu lực 15/9/2026) trong khối cắt giảm; anti-error **15** — KTCTNT không kèm kiểm tra nghiệm thu PCCC, không đòi văn bản chấp thuận của Công an, không dẫn Điều 74 NĐ 217/2026 (bãi bỏ bởi Điều 39 NĐ 347).
 - ref 01 (ghi chú Điều 74 NĐ 217), ref 04 (PCCC trong KTCTNT; trình tự PCCC hằng năm k3 Đ14), ref 08 mục C, D.

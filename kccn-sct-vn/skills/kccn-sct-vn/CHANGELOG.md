@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.46.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.46.0] - 01/10/2026 — Danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD); chi tiết QĐ 3480 tuyến 4E
 
 - **Nguồn:** bản PDF ký số Văn bản 9813/UBND-XD ngày 27/9/2026 của UBND tỉnh (PCT Phan Trung Bá; chữ ký hợp lệ, số/ngày đọc bằng `extract_metadata.py`) và bản gốc QĐ 3480/QĐ-UBND ngày 27/9/2026, người dùng gửi 01/10/2026.

@@ -1,5 +1,9 @@
 # CHANGELOG — tkm-sct-vn
 
+## [1.4.2] - 02/10/2026 — căn cứ chức năng Sở theo QĐ 3628/QĐ-UBND
+
+- Căn cứ chức năng, nhiệm vụ, cơ cấu tổ chức của Sở đổi sang **QĐ 3628/QĐ-UBND ngày 02/10/2026** (thay QĐ 05/2025/QĐ-UBND trong mẫu văn bản, reference; văn bản đã ban hành trước 02/10/2026 giữ nguyên — lịch sử). Nguồn: `sct-laocai-org-vn` ref 03.
+
 ## [1.4.0] - 05/9/2026 — GATE 15/9/2026 theo NQ 66.25/2026/NQ-CP (chức năng khoáng sản của SXD, SNNMT chuyển về SCT)
 
 - `references/03` mục 2: khối GATE — NQ 66.25 chuyển chức năng khoáng sản cấp Sở về SCT, TT 10/2025/TT-BXD dự kiến bãi bỏ chức năng KS của SXD, nhưng NQ không nêu trực tiếp thẩm định thiết kế công trình mỏ theo pháp luật xây dựng → bảng ánh xạ nhóm II/III → SXD chỉ chắc đến 14/9/2026; cách xử lý hồ sơ nhóm II/III từ 15/9/2026 (không tự nhận/từ chối, xin ý kiến UBND tỉnh, chuyển nguyên trạng theo Điều 4 NQ).

@@ -1,3 +1,9 @@
+## vbhc-vn 2.29.0, dacn-sct-vn 1.7.0 — 04/10/2026: quy tắc rút từ 6 vòng sửa Kế hoạch Bài toán lớn số 2
+
+- vbhc-vn: quy tắc máy kiểm **R19** ("Ủy ban nhân dân" viết "UBND" ở căn cứ, thân, nơi nhận, phụ lục — WARN, baseline chốt lại vì 13 mẫu thật cũ viết đủ chữ) và **R20** (Nơi nhận theo vị thế cơ quan nhà nước; doanh nghiệp đứng riêng dòng sau cùng — chung dòng với cơ quan nhà nước FAIL, cơ quan nhà nước đứng sau doanh nghiệp WARN); 2 ca thử mới; **Nhóm P** (kế hoạch UBND tỉnh triển khai đề án, bài toán lớn: bám đề bài không nhắc tên văn bản cấp tỉnh cũ, bỏ câu ghi chú làm việc, chỉ tiêu phấn đấu đồng bộ, việc ngoài thẩm quyền ghi "đề xuất", không tự chặn mục tiêu, mục đích - yêu cầu 4 ý theo mẫu đã duyệt, thứ tự theo đề bài, giao đúng Ban Quản lý theo địa bàn); công thức phụ lục bảng (tiêu đề một đoạn, cột cơ quan đủ rộng, `cantSplit`) và khối ký cùng trang với phần kết (xử lý chuỗi `keep_with_next`).
+- dacn-sct-vn: ref 11 theo bản Kế hoạch trình ký 04/10/2026 (7 mục, 06 nội dung, 14 dự án, căn cứ 4 nhóm + CV 9958/UBND-NC 30/9/2026); bản 05/9, 15/9 thành lịch sử.
+- `scripts/check_facts.py`: rule WARN `ubnd-viet-tat-trong-mau` (không chặn CI) nhắc mẫu .md còn viết "Ủy ban nhân dân tỉnh".
+
 ## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 
 - Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.

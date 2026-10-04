@@ -1,0 +1,12 @@
+# CHANGELOG — vbhc-vn v2.29.0 (04/10/2026)
+
+Bạn chốt 04/10/2026 qua 6 vòng sửa Kế hoạch của UBND tỉnh phát triển công nghiệp khai thác và tinh chế nguyên liệu phục vụ phát triển công nghệ chiến lược (Bài toán lớn số 2) sau khi CV 9958/UBND-NC ngày 30/9/2026 trả về "chưa đạt".
+
+- Quy tắc máy kiểm mới **R19** (WARN): "Ủy ban nhân dân" ở căn cứ, thân, nơi nhận, phụ lục phải viết "UBND"; chữ đầy đủ chỉ ở đầu trang và khối ký "TM. ỦY BAN NHÂN DÂN". 13/26 mẫu thật cũ còn viết đủ chữ → chốt baseline WARN, văn bản mới phải sạch. Ca thử `tests/fail/r19-uy-ban-nhan-dan-viet-du-chu`.
+- Quy tắc máy kiểm mới **R20**: Nơi nhận xếp theo vị thế cơ quan nhà nước (cấp trên b/c → sở ngành → ngành dọc → UBND xã, phường → doanh nghiệp → Văn phòng → Lưu); doanh nghiệp chung dòng với cơ quan nhà nước → FAIL (vụ "Chi cục Hải quan khu vực VII; Công ty Điện lực Lào Cai"); cơ quan nhà nước đứng sau doanh nghiệp → WARN. Ca thử `tests/fail/r20-doanh-nghiep-chung-dong-co-quan`. Bổ sung cho R06.
+- **Nhóm P** mới trong `reference/phong-tranh-sai-lam.md` (16 nhóm A–P): kế hoạch UBND tỉnh triển khai đề án, bài toán lớn — P1 bám đề bài không nhắc tên văn bản cấp tỉnh cũ trong thân, căn cứ rút gọn, công văn mới nhất ghép vào dòng căn cứ cuối; P2 bỏ câu ghi chú làm việc; P3 chỉ tiêu phụ thuộc doanh nghiệp, Trung ương ghi phấn đấu đồng bộ; P4 việc ngoài thẩm quyền tỉnh là "đề xuất", tiêu chí là "định hướng"; P5 không đặt điều kiện tự chặn mục tiêu (xử lý nước thải cụm công nghiệp); P6 mục đích, yêu cầu, quan điểm, mục tiêu chung viết theo mẫu kế hoạch cùng loại đã duyệt; P7 thứ tự nội dung bám đề bài (khoáng sản trước khu, cụm công nghiệp); P8 giao đúng cơ quan, đúng Ban Quản lý theo địa bàn, mở nguồn sự nghiệp kinh tế cho việc cần tư vấn; P9 bản trình ký duy nhất.
+- `reference/cong-thuc-thuc-chien.md`: mục mới về phụ lục bảng (tiêu đề một đoạn, cột cơ quan ≥ 3,5 cm, `cantSplit`, viết tắt trong bảng) và mục khối ký cùng trang với phần kết (chuỗi `keep_with_next` tạo trang ngắn; 5 bước xử lý theo thứ tự; cách đo bằng pdfplumber).
+- SKILL.md: bảng định tuyến dòng Kế hoạch trỏ Nhóm P; bảng A–P; Nhóm G thêm R19, R20; `tests/rule-inventory.md` thêm R19, R20 và dòng loại N cho P1–P8.
+- `tests/tao_file_loi.py` thêm 2 ca; `tests/baseline-warn.json` chốt lại.
+- Kèm theo: `scripts/check_facts.py` (gốc kho) rule WARN `ubnd-viet-tat-trong-mau` nhắc mẫu văn bản .md còn viết "Ủy ban nhân dân tỉnh"; dacn-sct-vn 1.7.0 cập nhật ref 11 theo bản Kế hoạch trình ký 04/10/2026.
+- `plugin.json` → 2.29.0.

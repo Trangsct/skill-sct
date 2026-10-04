@@ -1086,6 +1086,85 @@ def rule_R18(doc, ctx) -> list[Finding]:
             for loc, p in co_tab]
 
 
+UBND_DAY_DU = re.compile(r"Ủy ban nhân dân")
+
+
+def rule_R19(doc, ctx) -> list[Finding]:
+    """R19 — "Ủy ban nhân dân" trong thân văn bản phải viết tắt "UBND".
+
+    Quy tắc: ở phần căn cứ, thân văn bản, nơi nhận và phụ lục luôn viết "UBND tỉnh", "UBND các
+    xã, phường"…; chữ đầy đủ chỉ giữ ở tên cơ quan ban hành trên đầu trang và khối ký
+    "TM. ỦY BAN NHÂN DÂN" (viết hoa toàn bộ nên không bị bắt). Chỉ bắt dạng chữ thường
+    "Ủy ban nhân dân" để không đụng tiêu đề, khối ký.
+    Nguồn: Bạn chốt 04/10/2026 khi rà Kế hoạch Bài toán lớn số 2 ("tất cả văn bản hành chính
+    đều viết UBND tỉnh"); Nhóm P trong reference/phong-tranh-sai-lam.md.
+    Mức: WARN — mẫu thật ban hành trước 04/10/2026 còn viết đủ chữ nên không FAIL; văn bản
+    soạn mới phải sửa hết trước khi trình ký.
+    """
+    out: list[Finding] = []
+    for loc, t in ctx.texts:
+        if UBND_DAY_DU.search(t):
+            out.append(Finding(
+                "R19", WARN, loc, cut(t),
+                "Viết tắt 'UBND' (UBND tỉnh, UBND các xã, phường) — chữ đầy đủ chỉ ở tên cơ "
+                "quan ban hành đầu trang và khối ký.",
+            ))
+        if len(out) >= 5:
+            break
+    return out
+
+
+CQNN = re.compile(
+    r"(UBND|Ủy ban|HĐND|Tỉnh ủy|\bSở\b|Chi cục|\bCục\b|\bBộ\b|Ban Quản lý|BQL|Công an|Thuế|"
+    r"Thống kê|Hải quan|Trung tâm|Viện\b|Trường\b)",
+    re.IGNORECASE,
+)
+DONG_NOI_BO = re.compile(
+    r"^-?\s*(Lưu\s*:|Như\s+trên|Như\s+kính\s+gửi|CVP|PCVP|Chánh\s+VP|Phó\s+CVP|Văn\s+phòng|VP\b|"
+    r"Ban\s+Giám\s+đốc|Giám\s+đốc|GĐ|PGĐ|Lãnh\s+đạo|Các\s+phòng|Phòng\b)",
+    re.IGNORECASE,
+)
+
+
+def rule_R20(doc, ctx) -> list[Finding]:
+    """R20 — Nơi nhận xếp theo vị thế cơ quan nhà nước; doanh nghiệp đứng riêng dòng, sau cùng.
+
+    Quy tắc: thứ tự khối Nơi nhận đi từ cấp trên (Tỉnh ủy, HĐND, UBND tỉnh, BCĐ — để b/c) →
+    sở, ban, ngành tỉnh → cơ quan ngành dọc (Công an, Thuế, Thống kê, Hải quan) → UBND xã,
+    phường → doanh nghiệp (dòng riêng) → Văn phòng (CVP, PCVP) → Lưu. Doanh nghiệp KHÔNG
+    chung dòng với cơ quan nhà nước (vụ "Chi cục Hải quan khu vực VII; Công ty Điện lực Lào
+    Cai" bị Bạn bác 04/10/2026).
+    Nguồn: Bạn chốt 04/10/2026; Nhóm G, Nhóm P. Bổ sung cho R06 (R06 chỉ bắt dòng đầu).
+    Mức: FAIL khi doanh nghiệp chung dòng với cơ quan nhà nước; WARN khi sau dòng doanh nghiệp
+    còn dòng cơ quan nhà nước (trừ Văn phòng, Ban Giám đốc, Lưu).
+    """
+    khoi = _khoi_noi_nhan(ctx)
+    if not khoi:
+        return []
+    out: list[Finding] = []
+    da_co_dn = False
+    for loc, dong in khoi:
+        la_dn = bool(DN.search(dong))
+        la_cq = bool(CQNN.search(dong)) and not DONG_NOI_BO.match(dong)
+        if la_dn and la_cq:
+            out.append(Finding(
+                "R20", FAIL, loc, cut(dong),
+                "Doanh nghiệp không chung dòng với cơ quan nhà nước — tách thành dòng riêng, "
+                "xếp sau các cơ quan nhà nước, trước dòng Văn phòng và Lưu.",
+            ))
+            continue
+        if la_dn:
+            da_co_dn = True
+            continue
+        if da_co_dn and la_cq:
+            out.append(Finding(
+                "R20", WARN, loc, cut(dong),
+                "Cơ quan nhà nước đứng sau dòng doanh nghiệp — sắp lại Nơi nhận theo vị thế: "
+                "cấp trên (b/c), sở ngành, ngành dọc, UBND xã phường, rồi mới đến doanh nghiệp.",
+            ))
+    return out
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1105,6 +1184,8 @@ RULES = [
     ("R16", rule_R16),
     ("R17", rule_R17),
     ("R18", rule_R18),
+    ("R19", rule_R19),
+    ("R20", rule_R20),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

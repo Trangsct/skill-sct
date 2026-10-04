@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.29.0 — 04/10/2026
+
+- Quy tắc máy kiểm mới R19 ("Ủy ban nhân dân" → "UBND", WARN) và R20 (Nơi nhận theo vị thế cơ quan nhà nước, doanh nghiệp riêng dòng sau cùng; FAIL/WARN); Nhóm P (kế hoạch UBND tỉnh triển khai đề án, bài toán lớn — 9 quy tắc); công thức phụ lục bảng và khối ký cùng trang. Chi tiết: `CHANGELOG-v2026.10.04.md`.
+
 ## v2.27.0 — 22/9/2026
 
 - Quy tắc máy kiểm mới R17 (đánh số kép "(1) Một là", nhiều ý dồn một đoạn) và R18 (đề mục La Mã lệch tab); sửa `is_bold` để R11 tính đậm kế thừa từ kiểu đoạn. Chi tiết: `CHANGELOG-v2026.09.22.md`.

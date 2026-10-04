@@ -24,3 +24,14 @@ Việc CCN thường gồm 1 báo cáo + nhiều phụ lục + đôi khi bản c
 ### Dòng "Lưu" và người ký
 - Dòng lưu: `Lưu: VT, CN.` — không ghi tên/mã người soạn (Bạn chốt 01/10/2026).
 - **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (KCN/CCN/ATTP → Nguyễn Đình Chiến; HHNH/hóa chất/VLNCN/khoáng sản/môi trường/PCCC/KHCN/ATVSLĐ/năng lượng/thương mại → Hoàng Văn Thuân; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.
+
+### Phụ lục bảng của kế hoạch, danh mục dự án (rút từ Kế hoạch Bài toán lớn số 2, 04/10/2026)
+- **Tiêu đề phụ lục là một đoạn**: "PHỤ LỤC II" / "DANH MỤC … CÔNG NGHỆ CHIẾN LƯỢC GIAI ĐOẠN 2026 - 2030" / "(Kèm theo Kế hoạch số …/KH-UBND ngày … của UBND tỉnh Lào Cai)". Không tách "GIAI ĐOẠN 2026 - 2030" thành đoạn riêng — Bạn yêu cầu ghép nối với dòng trên.
+- **Cột tên cơ quan phải đủ rộng** (≥ 3,5 cm ở khổ ngang 10pt) để "Sở Công Thương; BQL Khu kinh tế tỉnh" không bị giãn chữ thành "Sở Công / Thương; BQL / Khu kinh tế" khi căn đều. Cân lại các cột trong cùng tổng `tblGrid`; không đổi khổ giấy.
+- **Không cắt một dòng bảng sang hai trang**: đặt `w:cantSplit` cho mọi `w:tr` của bảng danh mục; dòng tiêu đề giữ `tblHeader`. Sau đó render kiểm tra phần Ghi chú dưới bảng không bị đẩy sang trang riêng — nếu bị thì rút gọn câu chữ vài ô dài nhất (trạng thái, địa điểm), không thu nhỏ chữ.
+- **Viết tắt trong bảng, viết đủ trong thân**: Phụ lục dùng KCN, CCN, XLNT, Sở NN&MT, Sở KH&CN, BQL; thân văn bản viết đủ tên sở, ban. Riêng "UBND" viết tắt ở cả hai (R19).
+
+### Khối ký phải nằm cùng trang với phần kết — cách xử lý khi LibreOffice đẩy sang trang mới
+- `keep_with_next` ở đề mục tạo CHUỖI (đề mục → "a) Điểm nghẽn" → đoạn thân có widow control): một chuỗi không vừa chỗ trống cuối trang sẽ kéo cả nhóm sang trang sau, để lại trang chỉ đầy 84–88%; dồn tích vài trang như vậy thì phần kết + khối ký rơi sang trang riêng. Dấu hiệu: bảng "fill% từng trang" có nhiều trang dưới 90% trước trang ký.
+- Cách sửa theo thứ tự: (1) đặt `keep_with_next` cho đoạn "Trên đây là…" để phần kết luôn đi cùng bảng ký; (2) bỏ đoạn trống thừa ngay trước bảng ký (giữ đúng 1 — SIGSPACE); (3) gộp dòng Nơi nhận cùng cấp (ví dụ "Công an tỉnh; Thuế tỉnh; Thống kê tỉnh") nhưng không gộp doanh nghiệp với cơ quan nhà nước (R20); (4) lược câu trùng lặp ở các mục cuối (tổ chức thực hiện, chế độ báo cáo) — việc đã nêu ở nội dung nhiệm vụ thì không nhắc lại ở phần giao việc; (5) chỉ khi vẫn thiếu mới cắt ý. Không giảm số dòng trống trong ô ký xuống dưới 4, không đổi cỡ chữ, không đổi lề.
+- Đo bằng script: với mỗi trang lấy `max(bottom)` của chữ so với chiều cao trang (pdfplumber); trang ký phải ≤ 92% và trang trước nó không được dưới ~85% nếu còn trang ký lẻ.

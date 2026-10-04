@@ -1,4 +1,4 @@
-# Phòng tránh 14 nhóm sai lầm tham mưu A–N (hợp nhất từ anti-error-sct-vn)
+# Phòng tránh 16 nhóm sai lầm tham mưu A–P (hợp nhất từ anti-error-sct-vn)
 
 Mục này **hợp nhất toàn bộ nội dung** của skill `anti-error-sct-vn` vào đây, để khi soạn/rà soát/góp ý VBHC luôn áp dụng kỷ luật chống sai sót. Mỗi quy tắc rút ra từ sai lầm **đã thực sự xảy ra**; mục tiêu là không lặp lại. Áp dụng cho cả các việc **tham mưu, thẩm định, góp ý dự thảo, viết bài phát biểu, tham gia ý kiến VBQPPL** — không chỉ khi tạo .docx.
 
@@ -273,6 +273,25 @@ Câu tự nhủ bắt lỗi sớm:
 
 Câu tự nhủ bắt lỗi sớm:
 - *"Giấy đăng ký doanh nghiệp ghi đủ chữ nên chép y nguyên cho chắc"* → sai, O2 yêu cầu viết "Công ty TNHH". [O1, O2]
+
+### Nhóm P — Kế hoạch của UBND tỉnh triển khai đề án, chương trình, bài toán lớn do Sở dự thảo (Bạn chốt 04/10/2026, vụ Kế hoạch Bài toán lớn số 2 bị CV 9958/UBND-NC ngày 30/9/2026 trả về "chưa đạt")
+
+Rút từ 6 vòng sửa trong một ngày (04/10/2026) để bản Kế hoạch được Giám đốc chấp thuận trình ký. Áp dụng cho mọi kế hoạch cấp UBND tỉnh triển khai một đề bài của Tỉnh ủy, UBND tỉnh (bài toán lớn, đề án, chương trình), kể cả kế hoạch cấp Sở cùng dạng.
+
+- **P1 — Bám đề bài, nhưng không chép đề bài vào thân.** Thân văn bản chỉ nêu các văn bản của Trung ương làm căn cứ chủ trương; văn bản cấp tỉnh đã cũ (nghị quyết, đề án, kế hoạch của Tỉnh ủy, UBND tỉnh) được BÁM theo nội dung nhưng **không nhắc tên trong thân**, chỉ còn ở phần căn cứ nếu thật cần. Phần căn cứ rút gọn tối đa theo bản đã trình gần nhất (vụ BT2: 4 nhóm — chủ trương của Bộ Chính trị; luật; quyết định của Thủ tướng; thông báo và công văn của UBND tỉnh giao việc) rồi "Theo đề nghị của Sở … tại Tờ trình số …". Công văn mới nhất của UBND tỉnh về chính kế hoạch đó ghép vào dòng căn cứ cuối, không thành dòng riêng.
+- **P2 — Không đưa câu "ghi chú làm việc" vào văn bản.** Các câu kiểu "không đặt ra mục tiêu, chỉ tiêu mới ngoài các văn bản nêu trên", "không trùng lặp với các bài toán lớn khác", "Kế hoạch này là bước triển khai của…", "không đầu tư hệ thống mới", "rà soát, phân định phạm vi để tránh trùng lặp giữa các bài toán lớn", "tổng hợp chung kết quả 08 bài toán lớn" là điều những người soạn biết với nhau — **bỏ hết**. Nguyên tắc ngân sách "không trùng lặp nguồn vốn" ở mục kinh phí thì giữ.
+- **P3 — Chỉ tiêu phụ thuộc doanh nghiệp hoặc Trung ương là chỉ tiêu phấn đấu, ghi đồng bộ.** Nhà máy vận hành, mỏ vào khai thác, dự án được quyết định đầu tư, số dự án thu hút… viết "phấn đấu"/"hỗ trợ đưa vào" ở MỌI chỗ (mục tiêu, nội dung, phụ lục, danh mục), kèm một câu "các chỉ tiêu tại điểm này là chỉ tiêu phấn đấu, phụ thuộc quyết định đầu tư của doanh nghiệp và thẩm quyền của Trung ương". Không để một chỗ ghi phấn đấu, chỗ khác ghi cứng.
+- **P4 — Việc ngoài thẩm quyền của tỉnh thì sản phẩm là "đề xuất", không phải "ban hành".** Cơ chế ưu tiên cấp phép, ưu đãi đầu tư, bộ tiêu chí lựa chọn dự án: tỉnh không được đặt thêm điều kiện đầu tư kinh doanh (Luật Đầu tư) và không quyết định được cấp phép khoáng sản nhóm I, II (Bộ). Viết "đề xuất cấp có thẩm quyền…", "tiêu chí định hướng… làm cơ sở xem xét", "thực hiện theo quy hoạch quốc gia và định hướng của Trung ương" — không viết "ban hành bộ tiêu chí", "không mở rộng công suất X", "cơ chế được ban hành năm …".
+- **P5 — Không đặt điều kiện tự chặn mục tiêu của chính tỉnh.** Vụ thật: "cụm công nghiệp phải hoàn thành xử lý nước thải tập trung trước khi tiếp nhận dự án thứ cấp" chặn luôn mục tiêu lấp đầy cụm. Viết theo luật: "đầu tư phù hợp quy mô, tiến độ tiếp nhận dự án theo pháp luật về bảo vệ môi trường"; chỉ dự án phát sinh nước thải công nghiệp mới buộc vào cụm đã có xử lý nước thải.
+- **P6 — Mục đích, yêu cầu, quan điểm viết theo mẫu các kế hoạch cùng loại đã được duyệt.** Mỗi mục 4 gạch đầu dòng, mỗi ý một tầng: cụ thể hóa đề bài → chuyển đổi cốt lõi → sản phẩm, không gian thực hiện → hiệu quả kinh tế - xã hội; yêu cầu: căn cứ xác định nhiệm vụ → sáu rõ và chỉ tiêu phấn đấu → tập trung nguồn lực, không chồng chéo → đánh giá theo sản phẩm, tuân thủ pháp luật. Mục tiêu chung viết thành một mạch từ lợi thế → chuỗi giá trị → thu hút đầu tư → hiệu quả. Quan điểm 4 điểm, không lặp ý đã có ở mục đích (vụ BT2 bỏ điểm "thứ tự thực hiện" vì đã nằm trong mục đích).
+- **P7 — Thứ tự nội dung bám đề bài.** Đề bài về khoáng sản thì khoáng sản, chuỗi nguyên liệu đứng trước ở mọi mục; khu, cụm công nghiệp là nơi tiếp nhận, đứng sau (mục đích, quan điểm, mục tiêu, nội dung nhiệm vụ, phụ lục phân công cùng hoán đổi và đánh lại số).
+- **P8 — Giao việc đúng cơ quan, không giao việc đương nhiên.** Không ghi "thực hiện quản lý nhà nước về … theo phân công" (việc đương nhiên); không giao nhiệm vụ báo cáo định kỳ dày thêm; khu công nghiệp vùng Lào Cai cũ thuộc Ban Quản lý Khu kinh tế tỉnh, vùng Yên Bái cũ thuộc Ban Quản lý các khu công nghiệp tỉnh (`kccn-sct-vn` ref 12, 36) — giao đúng Ban theo địa bàn; dòng kinh phí của nhiệm vụ cần khảo sát, thuê tư vấn, xúc tiến phải mở nguồn sự nghiệp kinh tế, xúc tiến đầu tư thay vì chỉ "chi thường xuyên".
+- **P9 — Bản trình ký là bản duy nhất.** Tên file và nội dung không mang dấu vết lần sửa (R14); bỏ chữ "giai đoạn" lẻ dòng dưới tiêu đề phụ lục — tiêu đề phụ lục là MỘT đoạn chạy liền "… CÔNG NGHỆ CHIẾN LƯỢC GIAI ĐOẠN 2026 - 2030"; "Ủy ban nhân dân" viết "UBND" (R19); nơi nhận theo vị thế, doanh nghiệp đứng riêng dòng sau cùng (R20).
+
+Câu tự nhủ bắt lỗi sớm:
+- *"Ghi 'bám Đề án 08, Nghị quyết 34' vào thân cho rõ nguồn gốc"* → sai, P1: bám nội dung, không nhắc tên. [P1]
+- *"Thêm câu 'không đặt ra chỉ tiêu mới' cho an toàn"* → sai, P2: đó là ghi chú làm việc. [P2]
+- *"Ghi 'ban hành bộ tiêu chí lựa chọn dự án' để có sản phẩm cứng"* → sai, P4: tỉnh không có thẩm quyền đặt điều kiện đầu tư. [P4]
 
 ### Checklist bắt buộc trước khi trình tham mưu
 ```

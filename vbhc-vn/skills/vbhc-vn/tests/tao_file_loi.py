@@ -275,3 +275,25 @@ d.save(str(p))
 ghi_expect(p, ['R18 WARN'], 'Chèn một ký tự tab vào đầu đề mục "II. KHÓ KHĂN, VƯỚNG MẮC"; các đề mục I, III giữ nguyên.')
 
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')
+
+# ── R19: "Ủy ban nhân dân" viết đủ chữ trong thân (Bạn chốt 04/10/2026) ─────────
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r19-uy-ban-nhan-dan-viet-du-chu.docx')
+d = Document(str(p))
+alt = dau_tien(d, lambda t: len(t.strip()) > 80)
+# Số hiệu 1696/QĐ-UBND ngày 15/5/2026 lấy NGUYÊN từ mẫu thật bien-ban-kiem-tra-thuc-te-hhnh.docx.
+dat_text(alt, 'Căn cứ Quyết định số 1696/QĐ-UBND ngày 15/5/2026 của Ủy ban nhân dân tỉnh Lào Cai. '
+              + alt.text)
+d.save(str(p))
+ghi_expect(p, ['R19 WARN'],
+           'Chèn câu viết đủ "Ủy ban nhân dân tỉnh" vào thân — phải viết tắt "UBND tỉnh" (Bạn chốt 04/10/2026).')
+
+# ── R20: doanh nghiệp chung dòng với cơ quan nhà nước ở Nơi nhận (04/10/2026) ──
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r20-doanh-nghiep-chung-dong-co-quan.docx')
+d = Document(str(p))
+alt = dau_tien(d, lambda t: t.strip().startswith('- Sở Xây dựng'))
+if alt is None: sys.exit('R20: không tìm được dòng Sở Xây dựng trong Nơi nhận')
+# Tên doanh nghiệp lấy nguyên từ khối Nơi nhận của chính mẫu thật.
+dat_text(alt, '- Sở Xây dựng; Công ty TNHH vật tư chuyên dùng xăng dầu An Khang;')
+d.save(str(p))
+ghi_expect(p, ['R20 FAIL'],
+           'Ghép doanh nghiệp vào cùng dòng "Sở Xây dựng" ở Nơi nhận — doanh nghiệp phải đứng riêng dòng, sau cơ quan nhà nước (Bạn chốt 04/10/2026).')

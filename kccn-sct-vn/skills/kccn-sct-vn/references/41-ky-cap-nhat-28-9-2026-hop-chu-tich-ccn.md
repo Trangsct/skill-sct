@@ -2,6 +2,8 @@
 
 > NGUỒN: phiên làm việc 28/9/2026 — (1) Báo cáo **5945/BC-SCT ngày 23/9/2026** (bản ban hành, PGĐ Nguyễn Đình Chiến ký, CV Trung; số/ngày đọc bằng `extract_metadata.py`); (2) bản gốc **QĐ 2071/QĐ-UBND ngày 15/6/2026** và **QĐ 3480/QĐ-UBND ngày 27/9/2026** (đọc bằng `extract_metadata.py`); (3) bản scan **Thông báo khởi công 43/TBKC-LCI ngày 25/4/2026** (soi ảnh trang 1, trang 6); (4) file Excel *Tổng hợp tình hình hoạt động các CCN* của Phòng ngày 28/9/2026; (5) ảnh chụp sổ văn bản đi Data360X (từ khóa "cụm", 09/9 – 28/9/2026); (6) hồ sơ họp 19/6/2026 của Văn phòng UBND tỉnh (Giấy mời 312/GM-VPUBND ngày 17/6/2026, Báo cáo VP, kết luận, bài khai mạc) do người dùng cung cấp; (7) các mốc người dùng chốt 17 – 25/9/2026.
 >
+> 🔄 **Kỳ mới hơn nữa: ref `43` (04/10/2026, số chốt hết 01/10/2026)** — phân nhóm danh mục: Bản Phiệt 1 đã lên nhóm đã nộp hồ sơ (TTr 351/TTr-UBND 25/9/2026), Bảo Hưng 2 vào nhóm hồ sơ tại xã, phường; Minh Quân, Y Can khởi công dự kiến 11/2026; mốc khởi công Phú Thịnh 1 còn vênh, không đưa vào bản trình.
+>
 > 🔄 **Kỳ mới hơn: ref `42` (01/10/2026)** — báo cáo của UBND cấp xã và chủ đầu tư theo CV 6059/SCT-CN: GPMB các CCN Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3, Y Can; hiện trạng Yên Thế, Hưng Khánh, Bắc Văn Yên, Đông An, An Bình, Bắc Duyên Hải; 12 điểm vênh chờ chốt.
 >
 > ⚠️ SỐ LIỆU ĐỘNG — chốt đến **27/9/2026**. Reference này MỚI HƠN ref `30`, `37`, `40` đối với: trạng thái Mông Sơn, Yên Hợp 2 (bậc 10), tuyến Quốc lộ 4E (đã phê duyệt dự án), tuyến IC18 (đã có bản gốc QĐ 2071), tỷ lệ lấp đầy CCN, Cam Đường 1, Phú Thịnh 6, 08 CCN vốn NSNN. Bản gốc văn bản không chép sang kho này.

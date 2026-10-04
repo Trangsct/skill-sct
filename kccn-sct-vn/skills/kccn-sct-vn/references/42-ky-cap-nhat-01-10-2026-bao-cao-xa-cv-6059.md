@@ -11,6 +11,8 @@
 > An Bình, Bắc Duyên Hải. Ref `41` vẫn là nguồn về **bậc thủ tục** (thành lập, Hội đồng) của các cụm khác.
 > Mục C: **Bạn chốt 01/10/2026 — lấy số liệu theo báo cáo của xã, phường và chủ đầu tư vì là thông tin mới hơn.**
 
+> 🔄 **Kỳ mới hơn: ref `43` (04/10/2026)** — danh mục thu hút đầu tư các CCN, các KCN chốt hết 01/10/2026; 05 điểm vênh còn mở.
+
 ## A. VĂN BẢN ĐẦU VÀO (đã đối chiếu số/ngày)
 
 | Văn bản | Cơ quan, người ký | Cụm | Ghi chú |

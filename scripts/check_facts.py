@@ -43,6 +43,24 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "kcn-cam-duong-chua-khoi-cong",
+        # Bạn chốt 04/10/2026: KCN Cam Đường chưa khởi công; mốc "khởi công tháng 9/2026" là kế hoạch cũ.
+        "pattern": r"^(?!.*(?:chưa khởi công|lịch sử|kế hoạch|ref 43|Cam Đường 1)).*KCN Cam Đường[^\n]{0,80}khởi công[^\n]{0,30}9/2026",
+        "why": "KCN Cam Đường chưa khởi công (Bạn chốt 04/10/2026) — viết 'đang thực hiện GPMB', không ghi mốc khởi công tháng 9/2026 (kccn-sct-vn ref 43 mục A, ref 31 mục 13).",
+        "since": "2026-10-04",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
+        "id": "ccn-mong-son-tmdt-496-651",
+        # File Excel của Phòng 02/10/2026 ghi nhầm 596,651 tỷ ở dòng chi tiết; QĐ 3426/QĐ-UBND ngày 23/9/2026: 496,651 tỷ.
+        "pattern": r"^(?!.*(?:496,651|lịch sử)).*Mông Sơn[^\n]{0,80}596,651",
+        "why": "Tổng mức đầu tư CCN Mông Sơn là 496,651 tỷ đồng (QĐ 3426/QĐ-UBND ngày 23/9/2026) — kccn-sct-vn ref 43 mục D, ref 41 mục A.",
+        "since": "2026-10-04",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
         "id": "ccn-yen-the-lap-day-59-5",
         # Bạn chốt 01/10/2026: lấy số liệu theo xã (mới hơn) — BC 590/BC-UBND ngày 29/9/2026 của UBND xã Lục Yên:
         # 05 DN được giao/cho thuê 23,78/39,97 ha = 59,5%. Số 40,24% (Excel Phòng 28/9/2026) chỉ còn là lịch sử.

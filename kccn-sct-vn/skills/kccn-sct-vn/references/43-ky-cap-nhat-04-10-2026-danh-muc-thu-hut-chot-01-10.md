@@ -73,13 +73,15 @@ Quy tắc trình bày để dán sang Zalo không vỡ:
 
 - Đánh mục bằng ký tự gõ thẳng `1)`, `2)`, `3)` và dấu `+` đầu dòng; **không dùng danh sách tự động** (gạch đầu dòng, số tự động của trình soạn thảo) vì khi copy sang Zalo bị mất ký hiệu.
 - Mỗi dòng: tên nhóm, tên cụm trước; diện tích, tổng mức đầu tư sau.
-- Xưng "Báo cáo Giám đốc, các Phó Giám đốc và các thành viên"; viết đủ tên từng cụm; không nêu văn bản trình khi đã có Quyết định; số lẻ làm tròn 2 chữ số thập phân.
+- Mở đầu "Báo cáo Lãnh đạo, tính đến hết ngày …:" (bản gửi cuối 04/10/2026); viết đủ tên từng cụm; không nêu văn bản trình khi đã có Quyết định; số lẻ làm tròn 2 chữ số thập phân.
 - Nội dung chưa rõ thì bỏ (mục A.4); cụm còn vênh về khởi công ghi đúng hiện trạng "đang GPMB, san gạt mặt bằng".
 
-Nguyên văn tin đã gửi (số chốt hết 01/10/2026):
+Giám đốc yêu cầu bổ sung lúc 10h54–10h57 ngày 04/10/2026: nêu rõ 22 cụm chưa có nhà đầu tư quan tâm là cụm nào, diện tích bao nhiêu; ghi chung vào một tin; **ngắn gọn, chỉ tên và diện tích**. Từ kỳ sau dòng cuối luôn liệt kê đủ tên từng cụm kèm diện tích trong ngoặc.
+
+Nguyên văn bản cuối đã gửi (số chốt hết 01/10/2026):
 
 ```
-Báo cáo Giám đốc, các Phó Giám đốc và các thành viên, tính đến hết ngày 01/10/2026:
+Báo cáo Lãnh đạo, tính đến hết ngày 01/10/2026:
 
 1) Tổng số CCN theo quy hoạch đến năm 2030: 56 cụm, 3.052,81 ha.
 
@@ -94,7 +96,7 @@ Báo cáo Giám đốc, các Phó Giám đốc và các thành viên, tính đ�
 + Đang trình thành lập: Xuân Ái (đã trình UBND tỉnh), 75 ha, 815,6 tỷ đồng.
 + Dự kiến hết năm 2026 sẽ thành lập: Tân Nguyên, Tân Hợp, Bản Phiệt 1, Châu Quế (đang thẩm định, 227 ha, 2.337,44 tỷ đồng) và 08 cụm hạ tầng vốn ngân sách.
 + Nhà đầu tư đang hoàn thiện hồ sơ: An Thịnh, Cam Đường 1, Phú Thịnh 6, Bảo Hưng 2 (240 ha); nhà đầu tư quan tâm: Phú Thịnh 4, Yên Hợp 1, Gia Hội (188 ha).
-+ Chưa có nhà đầu tư quan tâm: 22 cụm, 1.086,4 ha.
++ Chưa có nhà đầu tư quan tâm: 22 cụm, 1.086,4 ha, gồm: Hợp Minh (37,4 ha), Tân Lĩnh (75 ha), Thượng Bằng La (20 ha), Bảo Thắng (40 ha), Bản Phung (40 ha), Trà Trẩu (35 ha), Bát Xát (57 ha), Mường Khương (30 ha), Tân An (40 ha), Hòa Mạc (20 ha), Cam Đường 2 (12 ha), Phố Ràng 1 (56 ha), Phố Ràng 2 (75 ha), Quang Kim 1 (55 ha), An Bình (50 ha), Ngòi A (62 ha), Yên Hưng (42 ha), Bản Phiệt 2 (75 ha), Văn Chấn (75 ha), Phú Thịnh 5 (75 ha), Châu Quế Thượng (40 ha), Phong Hải (75 ha).
 ```
 
 Nguồn từng con số: tổng 56 cụm, 3.052,81 ha theo Báo cáo của Sở ngày 18/6/2026 (ref 13); 06 cụm thành lập đến năm 2025 = nhóm I trừ 03 cụm thành lập năm 2026; các nhóm còn lại theo bảng mục B. Phần KCN báo cáo riêng theo mục C khi Lãnh đạo yêu cầu (02 dòng: 05/14 KCN đã chấp thuận chủ trương đầu tư; 09 KCN đang thu hút đầu tư).

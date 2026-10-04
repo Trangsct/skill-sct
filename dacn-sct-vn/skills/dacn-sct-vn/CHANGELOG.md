@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.7.0] - 04/10/2026 — Kế hoạch Bài toán lớn số 2 bản trình ký
+- Ref 11 mục III.2 viết lại theo bản trình ký 04/10/2026 (7 mục, 06 nội dung, 14 dự án, căn cứ rút gọn, chỉ tiêu phấn đấu); bản 05/9 và 15/9 thành dòng lịch sử. Chi tiết: `CHANGELOG-v2026.10.04.md`.
+
 ## [1.6.1] - 24/9/2026 — NĐ 347/2026 (nghiệm thu PCCC)
 - ref 10 thêm ghi chú dưới bảng việc phải làm (bản gốc lập trước 15/9/2026): Công an tỉnh không còn nghiệm thu PCCC, chủ đầu tư tự nghiệm thu; ref 06 nhóm MT-PCCC, checklist điểm nghẽn — theo NĐ 347/2026.
 

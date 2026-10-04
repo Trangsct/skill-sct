@@ -43,6 +43,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ubnd-viet-tat-trong-mau",
+        # Bạn chốt 04/10/2026: mọi VBHC viết "UBND tỉnh"; chữ đầy đủ chỉ ở tên cơ quan ban hành đầu trang
+        # và khối ký "TM. ỦY BAN NHÂN DÂN" (viết hoa, không bị bắt). Chỉ quét mẫu văn bản (mau-van-ban/) và
+        # chỉ nhắc (WARN) vì mẫu lấy từ văn bản đã ban hành; mẫu sửa dần, văn bản mới phải sạch (vbhc-vn R19).
+        "pattern": r"^(?!.*(?:(?-i:ỦY BAN NHÂN DÂN)|lịch sử)).*(?-i:Ủy ban nhân dân tỉnh)",
+        "why": "Từ 04/10/2026 viết 'UBND tỉnh' trong căn cứ, Kính gửi, thân, nơi nhận, phụ lục; chữ đầy đủ chỉ ở đầu trang và khối ký (vbhc-vn R19, Nhóm P9).",
+        "since": "2026-10-04",
+        "level": "WARN",
+    },
+    {
         "id": "kcn-cam-duong-chua-khoi-cong",
         # Bạn chốt 04/10/2026: KCN Cam Đường chưa khởi công; mốc "khởi công tháng 9/2026" là kế hoạch cũ.
         "pattern": r"^(?!.*(?:chưa khởi công|lịch sử|kế hoạch|ref 43|Cam Đường 1)).*KCN Cam Đường[^\n]{0,80}khởi công[^\n]{0,30}9/2026",

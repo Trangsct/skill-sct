@@ -90,7 +90,7 @@ b) **NĐ 193/2025/NĐ-CP** (sửa bởi NĐ 21/2026): **Điều 25**.
 | II.3–4 | NĐ 189/2025; NĐ 36/2020 | Khoản 3 Điều 6; các Điều xử phạt khoáng sản |
 | II.5 | NĐ 33/2025 (Bộ Xây dựng) | Sửa chức năng về **khoáng sản làm VLXD** |
 | II.6 | NĐ 35/2025 (Bộ NN&MT) | Chuyển thẩm quyền và **tổ chức bộ máy QLNN địa chất, khoáng sản về Bộ Công Thương** |
-| II.7 | NĐ 40/2025 (Bộ Công Thương) | Bổ sung thẩm quyền địa chất, khoáng sản (từ Bộ NN&MT, Bộ XD), KCN (từ Bộ Tài chính) |
+| II.7 | NĐ 40/2025 (Bộ Công Thương; đã thay bằng NĐ 351/2026/NĐ-CP ngày 11/9/2026 — xem sct-laocai-org-vn ref 03) | Bổ sung thẩm quyền địa chất, khoáng sản (từ Bộ NN&MT, Bộ XD), KCN (từ Bộ Tài chính) |
 | II.8 | **NĐ 150/2025 — Điều 8** | Cơ quan chuyên môn cấp tỉnh: chức năng khoáng sản chuyển sang Sở Công Thương |
 | II.9 | NĐ 70/2026 | Phụ lục I số 26, 27, 28: quy hoạch địa chất, khoáng sản → Bộ Công Thương |
 | II.12–66 | 55 Thông tư BTNMT/BNNMT (2010–2026) | Sửa điều "tổ chức thực hiện"/điều khoản thẩm quyền: TT 36/2025 (Đ4, 6, 7, 8, 11, 12, 16, 20, 20a, 25, PL I–IV); TT 37/2025 (Đ4, 5, 10, PL I–V); TT 38/2025; TT 39/2025; TT 40/2025 (k2, k3 Đ44, PL VI); TT 33, 34, 35/2025; TT 26/2019 (đóng cửa mỏ); TT 04/2026... |

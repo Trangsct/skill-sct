@@ -14,7 +14,7 @@ V/v kiểm tra công tác nghiệm thu hoàn thành công trình {…} thuộc d
 Căn cứ Luật Xây dựng số 135/2025/QH15 ngày 10/12/2025;
 Căn cứ Nghị định số 207/2026/NĐ-CP ngày 15/6/2026 của Chính phủ quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
 Căn cứ Quyết định số 11/2026/QĐ-UBND ngày 29/01/2026 của UBND tỉnh Lào Cai ban hành Quy định một số nội dung về quản lý đầu tư và xây dựng trên địa bàn tỉnh;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai;
 Trên cơ sở {Báo cáo hoàn thành thi công số … ngày … của Chủ đầu tư},
 
 Sở Công Thương thông báo kế hoạch kiểm tra công tác nghiệm thu hoàn thành công trình như sau:
@@ -50,7 +50,7 @@ Hôm nay, ngày … tháng … năm 20…, Sở Công Thương tỉnh Lào Cai t
 - Nghị định số 217/2026/NĐ-CP ngày 19/6/2026 *(nếu liên quan hoạt động XD)*;
 - Quy định pháp luật chuyên ngành công nghiệp và quy chuẩn, tiêu chuẩn áp dụng đối với công trình;
 - Quyết định số 11/2026/QĐ-UBND ngày 29/01/2026 của UBND tỉnh Lào Cai;
-- Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai;
+- Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai;
 - Hồ sơ do Chủ đầu tư xuất trình: {liệt kê}.
 
 **IV. NỘI DUNG VÀ KẾT QUẢ KIỂM TRA**
@@ -73,7 +73,7 @@ Biên bản lập thành … bản, các bên ký. Đại diện các bên ký, 
 **THÔNG BÁO**
 Kết quả kiểm tra công tác nghiệm thu hoàn thành công trình {…} thuộc dự án {…} tại xã {…}, tỉnh Lào Cai
 
-Căn cứ Luật Xây dựng số 135/2025/QH15; Nghị định số 207/2026/NĐ-CP ngày 15/6/2026; Quyết định số 11/2026/QĐ-UBND ngày 29/01/2026 của UBND tỉnh Lào Cai; Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025;
+Căn cứ Luật Xây dựng số 135/2025/QH15; Nghị định số 207/2026/NĐ-CP ngày 15/6/2026; Quyết định số 11/2026/QĐ-UBND ngày 29/01/2026 của UBND tỉnh Lào Cai; Quyết định số 3628/QĐ-UBND ngày 02/10/2026;
 Trên cơ sở Biên bản kiểm tra ngày … và hồ sơ hoàn thành công trình,
 
 Sở Công Thương thông báo:

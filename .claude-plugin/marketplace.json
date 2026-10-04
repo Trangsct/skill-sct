@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.121"
+    "version": "4.11.123"
   },
   "plugins": [
     {
@@ -83,8 +83,8 @@
     {
       "name": "sct-laocai-org-vn",
       "source": "./sct-laocai-org-vn",
-      "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Xác định PGĐ phụ trách, trình ai, ai ký, dòng Lưu VT CN, phòng chủ trì - phối hợp. Nguồn chuẩn về nhân sự cho toàn hệ sinh thái. Từ 15/9/2026 Sở tiếp nhận chức năng địa chất, khoáng sản, KCN theo NQ 66.25/2026/NQ-CP - ai phụ trách, GATE hành văn.",
-      "version": "2.5.0"
+      "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai theo QĐ 3628/QĐ-UBND 02/10/2026: 06 phòng (thêm Phòng Quản lý khoáng sản) + Chi cục QLTT, KCN không thuộc Sở; BGĐ 1 GĐ + 6 PGĐ (PGĐ Phạm Năng Chung từ 01/10/2026); TT 50/2026, NĐ 351/2026; phân công BGĐ QĐ 766/QĐ-SCT; CNNV phòng QĐ 59/QĐ-SCT; 03 dự thảo 10/2026 đang lấy ý kiến (chưa áp dụng); nội bộ Phòng QLCN 10/7/2026. Xác định PGĐ phụ trách, ai ký, dòng Lưu, phòng chủ trì; quy tắc góp ý dự thảo tổ chức. Nguồn chuẩn nhân sự cho hệ sinh thái.",
+      "version": "2.6.0"
     },
     {
       "name": "sd-vlncn-sct-vn",

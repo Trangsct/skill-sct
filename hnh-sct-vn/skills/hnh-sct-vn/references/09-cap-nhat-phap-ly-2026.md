@@ -76,7 +76,7 @@ Ban hành sau khi **tiếp thu ý kiến Thành viên UBND tỉnh** (theo Tờ t
 
 **Điều 2** - Giám đốc Sở chịu trách nhiệm toàn diện trước pháp luật và UBND tỉnh; các nội dung khác của QĐ 1696 tiếp tục thực hiện. **Điều 3** - hiệu lực kể từ ngày ký ban hành (**14/8/2026**).
 
-Căn cứ ban hành (đáng chú ý, mới so với QĐ 1696 gốc): Luật Tổ chức CQĐP 16/6/2025; NĐ 146/2025; NĐ 34/2024; NĐ 161/2024; NĐ 105/2025; **TT 38/2025 + TT 26/2026**; **QĐ 1213/QĐ-BCT ngày 22/5/2026**; QĐ 1522/QĐ-UBND ngày 04/5/2026 (Quy chế làm việc UBND tỉnh nhiệm kỳ 2026-2031); QĐ 05/2025/QĐ-UBND ngày 01/7/2025 (chức năng, nhiệm vụ Sở Công Thương).
+Căn cứ ban hành (đáng chú ý, mới so với QĐ 1696 gốc): Luật Tổ chức CQĐP 16/6/2025; NĐ 146/2025; NĐ 34/2024; NĐ 161/2024; NĐ 105/2025; **TT 38/2025 + TT 26/2026**; **QĐ 1213/QĐ-BCT ngày 22/5/2026**; QĐ 1522/QĐ-UBND ngày 04/5/2026 (Quy chế làm việc UBND tỉnh nhiệm kỳ 2026-2031); QĐ 05/2025/QĐ-UBND (lịch sử; văn bản mới dẫn QĐ 3628/QĐ-UBND ngày 02/10/2026) ngày 01/7/2025 (chức năng, nhiệm vụ Sở Công Thương).
 
 **Hệ quả nghiệp vụ từ 14/8/2026:**
 - Loại 5, 8: Giám đốc Sở ký Giấy phép theo ủy quyền (con dấu Sở), KHÔNG còn trình UBND tỉnh; quy trình nội bộ rút về mô hình ủy quyền như loại 1,2,3,4,9 (reference 03, 16). Hồ sơ loại 5, 8 tiếp nhận trong giai đoạn 29/5-13/8/2026 xử lý theo mô hình trình UBND tỉnh ký.

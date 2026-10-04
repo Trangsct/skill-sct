@@ -19,7 +19,7 @@ Sau khi nghiên cứu hồ sơ và đối chiếu với các quy định pháp l
 - Quyết định của UBND tỉnh Lào Cai quy định về quản lý hoạt động xây dựng trên địa bàn tỉnh Lào Cai;
 - Quy chuẩn Việt Nam, tiêu chuẩn Việt Nam liên quan đến kho chứa vật liệu nổ công nghiệp;
 - Các văn bản pháp luật khác có liên quan;
-- Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai quy định chức năng, nhiệm vụ của Sở Công Thương tỉnh Lào Cai,
+- Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Lào Cai,
 
 Sở Công Thương thông báo kế hoạch kiểm tra công tác nghiệm thu hoàn thành công trình xây dựng kho chứa vật liệu nổ công nghiệp của {dự án …} tại xã {…}, tỉnh Lào Cai do {Công ty} làm chủ đầu tư, cụ thể như sau:
 

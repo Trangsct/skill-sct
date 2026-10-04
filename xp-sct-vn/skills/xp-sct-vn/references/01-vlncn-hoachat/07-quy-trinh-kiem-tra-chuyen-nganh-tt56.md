@@ -32,7 +32,7 @@ Văn bản gốc: `van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh
 QUYẾT ĐỊNH — Kiểm tra việc chấp hành quy định của pháp luật về …
 Căn cứ NĐ 217/2025/NĐ-CP; Căn cứ TT 56/2025/TT-BCT;        ← 2 căn cứ CỨNG in sẵn trong mẫu
 Căn cứ (5) VBQPPL chuyên ngành lĩnh vực kiểm tra;          ← VLNCN: Luật 42/2024, NĐ 181/2024, TT 23/2024…
-Căn cứ (6) văn bản chức năng nhiệm vụ cơ quan;             ← QĐ 05/2025/QĐ-UBND (+ văn bản phân công BGĐ nếu PGĐ ký KT.)
+Căn cứ (6) văn bản chức năng nhiệm vụ cơ quan;             ← QĐ 3628/QĐ-UBND (+ văn bản phân công BGĐ nếu PGĐ ký KT.)
 Căn cứ (7) QĐ ban hành KH kiểm tra chuyên đề;              ← nếu đột xuất: thay bằng văn bản chỉ đạo/KLTT
 Theo đề nghị của (8) Thủ trưởng đơn vị chủ trì,
 Điều 1. Kiểm tra việc chấp hành … đối với (9). + Thời kỳ kiểm tra + Thời hạn kiểm tra
@@ -71,7 +71,7 @@ Tình huống: Thanh tra tỉnh thanh tra Công ty A (Apatit VN), phát hiện v
 
 - [ ] Tên QĐ: "Kiểm tra việc chấp hành quy định của pháp luật về …" (không phải "Thành lập Đoàn…")
 - [ ] Kết cấu 4 điều theo Mẫu 03; Điều 1 có đủ đối tượng + nội dung + thời kỳ (cụ thể/phụ lục) + thời hạn
-- [ ] Căn cứ: NĐ 217/2025 + **TT 56/2025/TT-BCT** + VBQPPL chuyên ngành + QĐ 05/2025/QĐ-UBND + (văn bản phân công BGĐ nếu PGĐ ký KT.) + KH chuyên đề hoặc văn bản chỉ đạo/KLTT nếu đột xuất
+- [ ] Căn cứ: NĐ 217/2025 + **TT 56/2025/TT-BCT** + VBQPPL chuyên ngành + QĐ 3628/QĐ-UBND + (văn bản phân công BGĐ nếu PGĐ ký KT.) + KH chuyên đề hoặc văn bản chỉ đạo/KLTT nếu đột xuất
 - [ ] Thời hạn ≤ 10 ngày (không tự thêm "làm việc" làm phình trần NĐ 217)
 - [ ] Không có chữ "kiểm tra lại", "xác minh lại" nội dung đã thanh tra/kiểm toán
 - [ ] Điều nhiệm vụ dẫn Điều 8, Điều 15 NĐ 217/2025
@@ -140,7 +140,7 @@ Ghi dòng *Mẫu biên bản số 01* ở đầu. Kết cấu: 1. Người có t
 Khối ký 6 ô: NGƯỜI ĐẠI DIỆN CỦA TỔ CHỨC VI PHẠM | **NGƯỜI LẬP BIÊN BẢN** *(Ký, ghi rõ chức vụ, họ và tên)*; CÁ NHÂN/TỔ CHỨC BỊ THIỆT HẠI | ĐẠI DIỆN CHÍNH QUYỀN; NGƯỜI PHIÊN DỊCH | NGƯỜI CHỨNG KIẾN. Sau khối ký, in ở mặt sau: *"Biên bản đã giao trực tiếp cho … vào hồi … "* + **NGƯỜI NHẬN BIÊN BẢN**.
 
 ### 4. Quyết định xử phạt VPHC — căn cứ bắt buộc (đủ 12 dòng)
-`Điều 57, Điều 68, Điều 70, Điều 78, Điều 85 Luật XLVPHC` (KHÔNG chỉ 57, 68) → luật chuyên ngành → **NĐ 71/2019 + NĐ 17/2022** → NĐ chuyên ngành (VLNCN: NĐ 181/2024) → **NĐ 118/2021 + NĐ 68/2025 + NĐ 190/2025** → **NĐ 189/2025** (thẩm quyền) → NĐ 217/2025 + TT 56/2025 → QĐ 05/2025/QĐ-UBND → **Quyết định kiểm tra** → Kết luận thanh tra/văn bản chỉ đạo (nếu có) → **Biên bản VPHC (số, giờ, ngày, địa điểm)** → **Quyết định số 1094/QĐ-SCT ngày 09/3/2026 của Giám đốc Sở Công Thương về việc giao quyền xử phạt vi phạm hành chính** ← căn cứ để PGĐ ký, TUYỆT ĐỐI không bỏ.
+`Điều 57, Điều 68, Điều 70, Điều 78, Điều 85 Luật XLVPHC` (KHÔNG chỉ 57, 68) → luật chuyên ngành → **NĐ 71/2019 + NĐ 17/2022** → NĐ chuyên ngành (VLNCN: NĐ 181/2024) → **NĐ 118/2021 + NĐ 68/2025 + NĐ 190/2025** → **NĐ 189/2025** (thẩm quyền) → NĐ 217/2025 + TT 56/2025 → QĐ 3628/QĐ-UBND → **Quyết định kiểm tra** → Kết luận thanh tra/văn bản chỉ đạo (nếu có) → **Biên bản VPHC (số, giờ, ngày, địa điểm)** → **Quyết định số 1094/QĐ-SCT ngày 09/3/2026 của Giám đốc Sở Công Thương về việc giao quyền xử phạt vi phạm hành chính** ← căn cứ để PGĐ ký, TUYỆT ĐỐI không bỏ.
 
 ### 5. Quyết định xử phạt — kết cấu Điều 1 (6 khoản) và Điều 3
 Điều 1: 1. Xử phạt đối với tổ chức (6 gạch đầu dòng thông tin) → 2. Đã thực hiện hành vi VPHC (tên hành vi + *Mô tả hành vi*) → 3. Quy định tại → 4. Tình tiết tăng nặng → 5. Tình tiết giảm nhẹ → 6. Hình thức xử phạt (a chính: từng hành vi + **tổng số tiền phạt**; b bổ sung; c khắc phục hậu quả).

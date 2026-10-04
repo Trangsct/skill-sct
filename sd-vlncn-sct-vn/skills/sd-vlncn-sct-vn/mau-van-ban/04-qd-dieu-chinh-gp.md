@@ -19,7 +19,7 @@
 > cấp điều chỉnh Giấy phép sử dụng VLNCN do **Giám đốc Sở Công Thương** ký, dùng văn bản/con dấu Sở.
 > Phê duyệt PANM (điểm d k2 Đ38) KHÔNG được ủy quyền — vẫn Chủ tịch UBND tỉnh. Chi tiết ref `10` A-bis.
 
-> **Từ 20/8/2026:** chủ thể là **GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI**; ký hiệu **`/GP-SCT`**; bỏ dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …/TTr-SCT", thay bằng "Theo đề nghị của Trưởng phòng Quản lý công nghiệp"; căn cứ bổ sung QĐ 05/2025/QĐ-UBND và **QĐ 2867/QĐ-UBND ngày 17/8/2026**. Điều chỉnh một giấy phép **do Chủ tịch UBND tỉnh cấp trước 20/8/2026** ⚠ là điểm chưa có tiền lệ — xem ghi chú cuối file.
+> **Từ 20/8/2026:** chủ thể là **GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI**; ký hiệu **`/GP-SCT`**; bỏ dòng "Theo đề nghị của Sở Công Thương tại Tờ trình số …/TTr-SCT", thay bằng "Theo đề nghị của Trưởng phòng Quản lý công nghiệp"; căn cứ bổ sung QĐ 3628/QĐ-UBND và **QĐ 2867/QĐ-UBND ngày 17/8/2026**. Điều chỉnh một giấy phép **do Chủ tịch UBND tỉnh cấp trước 20/8/2026** ⚠ là điểm chưa có tiền lệ — xem ghi chú cuối file.
 
 > Khung docx thật: `vi-du-thuc-te/QD-dieu-chinh-GP-Hom-Duoi.docx`. Ký hiệu vẫn /GP-UBND (hoặc theo hệ thống VB của UBND tỉnh); tiêu đề "QUYẾT ĐỊNH Về việc điều chỉnh Giấy phép sử dụng vật liệu nổ công nghiệp số 【…/GP-UBND】 ngày 【…】".
 

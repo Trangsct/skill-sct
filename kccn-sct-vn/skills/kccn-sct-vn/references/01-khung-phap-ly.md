@@ -53,7 +53,7 @@ Danh mục đầy đủ văn bản pháp luật điều chỉnh KCN/CCN, tình t
 | NQ 26-NQ/TU (Tỉnh ủy) | Nhiệm vụ chính trị năm 2026 | 05/12/2025 |
 | **CTr 104-CTr/TU (Tỉnh ủy)** | Chương trình hành động thực hiện KL 75-KL/TW (BCH TW, 28/7/2026) và CTr 31-CTr/TW (Bộ Chính trị, 28/7/2026) về BVMT, BĐKH: **100% CCN có XLNT tập trung đạt QC đến 2030**, 100% quan trắc tự động tại KCN/CCN, KCN Tằng Loỏng sinh thái. Xem reference 35 | 30/8/2026 |
 | KH 134/KH-UBND | Triển khai NQ 34-NQ/TU năm 2026 | 26/3/2026 |
-| QĐ 05/2025/QĐ-UBND | Quy định chức năng, nhiệm vụ, cơ cấu Sở Công Thương Lào Cai | 01/7/2025 |
+| QĐ 3628/QĐ-UBND | Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Sở Công Thương Lào Cai (thay QĐ 05/2025/QĐ-UBND ngày 01/7/2025 — lịch sử; Sở có 06 phòng, thêm Phòng Quản lý khoáng sản; KCN không thuộc chức năng Sở) | 02/10/2026 |
 | Đề án 08-ĐA/TU | Phát triển công nghiệp tỉnh xanh, hiện đại 2026-2030 | |
 
 ## F. NGUYÊN TẮC VIỆN DẪN KHI SOẠN VĂN BẢN

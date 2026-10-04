@@ -35,7 +35,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 - Nghị định số 24/2026/NĐ-CP, 25/2026/NĐ-CP, 26/2026/NĐ-CP ngày 17/01/2026;
 - Thông tư số 01/2026/TT-BCT, 02/2026/TT-BCT ngày 17/01/2026;
 - QCVN 05A:2020/BCT (sửa đổi 1:2024 theo Thông tư 19/2024/TT-BCT);
-- Quyết định số 05/2025/QĐ-UBND (chức năng, nhiệm vụ Sở Công Thương);
+- Quyết định số 3628/QĐ-UBND (chức năng, nhiệm vụ Sở Công Thương);
 - *(Nếu ký theo ủy quyền)* Quyết định ủy quyền của UBND tỉnh Lào Cai — **[XÁC MINH SỐ/NGÀY, chưa có → hỏi Bạn].**
 
 **Kiểm tra chuyên ngành:** bổ sung Luật Thanh tra 84/2025; NĐ 217/2025/NĐ-CP; TT 56/2025/TT-BCT; NĐ 189/2025 (thẩm quyền xử phạt); NĐ 71/2019 sửa NĐ 17/2022; QĐ kế hoạch kiểm tra năm của Sở.

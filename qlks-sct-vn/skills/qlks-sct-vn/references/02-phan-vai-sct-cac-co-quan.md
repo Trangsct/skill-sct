@@ -9,7 +9,7 @@
 - "vật liệu nổ công nghiệp";
 - nhiệm vụ cụ thể: "Chủ trì, phối hợp với các ngành liên quan tổ chức lập **phương án khai thác, sử dụng khoáng sản nhóm I trong quy hoạch tỉnh** và triển khai thực hiện quy hoạch khoáng sản sau khi được cấp có thẩm quyền phê duyệt".
 
-Tại Lào Cai, chức năng nhiệm vụ cụ thể theo QĐ 05/2025/QĐ-UBND (tra `sct-laocai-org-vn`).
+Tại Lào Cai, chức năng nhiệm vụ cụ thể theo QĐ 3628/QĐ-UBND (tra `sct-laocai-org-vn`).
 
 ## II. MA TRẬN PHÂN VAI CHI TIẾT — LỊCH SỬ TRƯỚC 15/9/2026 (tổng hợp từ TT 37/2025, KH của UBND tỉnh triển khai Chỉ thị 11-CT/TU, CV 5973/UBND-KT ngày 11/6/2026)
 

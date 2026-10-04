@@ -1,3 +1,7 @@
+## kccn-sct-vn 1.47.1 — 04/10/2026: mẫu tin Zalo báo cáo CCN hằng tuần theo khung Giám đốc Sở yêu cầu
+
+- Ref 43 mục F viết lại: khung 03 mục, nội dung trước số liệu sau, nguyên văn tin đã gửi 04/10/2026; đánh mục bằng ký tự gõ thẳng để dán sang Zalo không mất. Ref 32 trỏ sang mẫu mới.
+
 ## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 
 - Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.

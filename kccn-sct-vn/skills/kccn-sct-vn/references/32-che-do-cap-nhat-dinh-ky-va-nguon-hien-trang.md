@@ -46,3 +46,4 @@ Vì plugin được cập nhật 02 lần mỗi tuần, số liệu ở REFERENC
 - sct-laocai-org-vn: người ký (PGĐ Nguyễn Đình Chiến), chuyên viên CV Trung, Trưởng phòng Nguyễn Hữu Long trực tiếp chỉ đạo CCN.
 - vbhc-vn: thể thức file Word nếu cần chuyển thể báo cáo.
 - Kỳ 04/10/2026 (số chốt hết 01/10/2026): ref `43` — danh mục thu hút đầu tư các CCN, các KCN và mẫu tin báo cáo Lãnh đạo 02 mục.
+- **Mẫu tin Zalo báo cáo CCN hằng tuần từ 04/10/2026:** khung 03 mục Giám đốc Sở yêu cầu và đã khen — ref `43` mục F (thay mẫu tin 5 mục của ref 30 đối với phần CCN).

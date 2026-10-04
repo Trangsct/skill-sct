@@ -1,11 +1,12 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.47.0",
+  "version": "1.47.1",
   "description": "Ref 43 (04/10/2026) MỚI NHẤT: danh mục thu hút đầu tư CCN, KCN chốt hết 01/10/2026 — 09 CCN doanh nghiệp làm CĐT, 05 cụm đã nộp hồ sơ, 22 cụm kêu gọi; KCN Cam Đường chưa khởi công. Ref 42: GPMB từng cụm theo xã, CĐT. Ref 41: bậc thủ tục, 25 CCN. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU. NĐ 32/2024, 303/2026.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "mau-tin-zalo-bao-cao-ccn-hang-tuan",
     "ky-cap-nhat-04-10-2026",
     "danh-muc-thu-hut-chot-01-10-2026",
     "kcn-cam-duong-chua-khoi-cong",

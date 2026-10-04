@@ -65,14 +65,39 @@ Thay đổi so với ref 41 mục B (27/9/2026):
 4. **Quy hoạch phân khu KCN Y Can:** chưa rõ đã phê duyệt hay chưa.
 5. **Sheet danh sách 11 KCN** kèm trong file CCN của Phòng (KCN Trấn Yên "san gạt được 80 ha mặt bằng sạch"…) chưa kiểm chứng — đã bỏ khỏi bản trình.
 
-## F. MẪU TIN BÁO CÁO LÃNH ĐẠO (đã dùng 04/10/2026)
+## F. MẪU TIN ZALO BÁO CÁO LÃNH ĐẠO — KHUNG GIÁM ĐỐC SỞ YÊU CẦU, ĐÃ ĐƯỢC KHEN 04/10/2026 ("Rõ thế chứ") — DÙNG LẠI HẰNG TUẦN
 
-Mở đầu "Báo cáo LĐ, tính đến hết ngày 01/10/2026:", sau đó 02 mục:
+Giám đốc Sở yêu cầu 04/10/2026 trên nhóm Zalo: "Sắp xếp lại; ghi nội dung trước, số liệu sau", theo khung: 1) tổng số CCN; 2) thành lập năm 2025: đã khởi công, chưa khởi công; 3) thành lập năm 2026: số cụm, đã khởi công, dự kiến khởi công, đang trình thành lập, dự kiến hết năm 2026 sẽ thành lập, số cụm chưa có nhà đầu tư quan tâm. Tin gửi 10h45 ngày 04/10/2026 theo đúng khung này được Giám đốc khen. **Từ kỳ sau giữ nguyên khung, thứ tự dòng và cách đánh mục; chỉ thay ngày chốt và số liệu.**
 
-- **1. Về CCN** — 07 gạch đầu dòng theo đúng thứ tự: thành lập năm 2026 và tổng số cụm doanh nghiệp làm chủ đầu tư; khởi công; đã nộp hồ sơ; hồ sơ tại xã, phường; nhà đầu tư quan tâm; 08 cụm vốn ngân sách; số cụm tiếp tục kêu gọi. Mỗi nhóm nêu tên cụm, tổng diện tích, tổng mức đầu tư.
-- **2. Về KCN** — 02 gạch đầu dòng: 05/14 KCN đã chấp thuận chủ trương đầu tư (khu nào đã khởi công, khu nào đang GPMB); 09 KCN đang thu hút đầu tư (tình trạng quy hoạch phân khu).
+Quy tắc trình bày để dán sang Zalo không vỡ:
 
-Viết đủ tên từng cụm, từng khu; không nêu văn bản trình khi đã có Quyết định; số lẻ làm tròn 2 chữ số thập phân.
+- Đánh mục bằng ký tự gõ thẳng `1)`, `2)`, `3)` và dấu `+` đầu dòng; **không dùng danh sách tự động** (gạch đầu dòng, số tự động của trình soạn thảo) vì khi copy sang Zalo bị mất ký hiệu.
+- Mỗi dòng: tên nhóm, tên cụm trước; diện tích, tổng mức đầu tư sau.
+- Xưng "Báo cáo Giám đốc, các Phó Giám đốc và các thành viên"; viết đủ tên từng cụm; không nêu văn bản trình khi đã có Quyết định; số lẻ làm tròn 2 chữ số thập phân.
+- Nội dung chưa rõ thì bỏ (mục A.4); cụm còn vênh về khởi công ghi đúng hiện trạng "đang GPMB, san gạt mặt bằng".
+
+Nguyên văn tin đã gửi (số chốt hết 01/10/2026):
+
+```
+Báo cáo Giám đốc, các Phó Giám đốc và các thành viên, tính đến hết ngày 01/10/2026:
+
+1) Tổng số CCN theo quy hoạch đến năm 2030: 56 cụm, 3.052,81 ha.
+
+2) CCN thành lập từ năm 2025 trở về trước, doanh nghiệp làm chủ đầu tư hạ tầng: 06 cụm, 449,95 ha, 3.536,73 tỷ đồng.
++ Đã khởi công: Thống Nhất 1 (07/5/2026), Phú Thịnh 3 (16/7/2026).
++ Đang GPMB, san gạt mặt bằng: Phú Thịnh 1, Phú Thịnh 2.
++ Chưa khởi công: Y Can, Minh Quân, dự kiến khởi công tháng 11/2026.
+
+3) CCN thành lập năm 2026: 03 cụm (Bảo Minh, Mông Sơn, Yên Hợp 2), 185 ha, 1.621,85 tỷ đồng.
++ Đã khởi công: chưa có.
++ Dự kiến khởi công: Mông Sơn trước 31/12/2026, Bảo Minh quý I/2027; Yên Hợp 2 đang thu hồi đất, lập quy hoạch chi tiết.
++ Đang trình thành lập: Xuân Ái (đã trình UBND tỉnh), 75 ha, 815,6 tỷ đồng.
++ Dự kiến hết năm 2026 sẽ thành lập: Tân Nguyên, Tân Hợp, Bản Phiệt 1, Châu Quế (đang thẩm định, 227 ha, 2.337,44 tỷ đồng) và 08 cụm hạ tầng vốn ngân sách.
++ Nhà đầu tư đang hoàn thiện hồ sơ: An Thịnh, Cam Đường 1, Phú Thịnh 6, Bảo Hưng 2 (240 ha); nhà đầu tư quan tâm: Phú Thịnh 4, Yên Hợp 1, Gia Hội (188 ha).
++ Chưa có nhà đầu tư quan tâm: 22 cụm, 1.086,4 ha.
+```
+
+Nguồn từng con số: tổng 56 cụm, 3.052,81 ha theo Báo cáo của Sở ngày 18/6/2026 (ref 13); 06 cụm thành lập đến năm 2025 = nhóm I trừ 03 cụm thành lập năm 2026; các nhóm còn lại theo bảng mục B. Phần KCN báo cáo riêng theo mục C khi Lãnh đạo yêu cầu (02 dòng: 05/14 KCN đã chấp thuận chủ trương đầu tư; 09 KCN đang thu hút đầu tư).
 
 ## G. SẢN PHẨM KỲ NÀY (lưu `vi-du-thuc-te/`)
 

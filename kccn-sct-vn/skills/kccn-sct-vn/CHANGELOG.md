@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.47.1] - 04/10/2026 — Mẫu tin Zalo báo cáo CCN hằng tuần theo khung Giám đốc Sở yêu cầu
+
+- **ref 43 mục F viết lại:** khung 03 mục (tổng số; thành lập đến năm 2025; thành lập năm 2026 và các cụm đang trình, dự kiến thành lập, chưa có nhà đầu tư), nội dung trước số liệu sau; nguyên văn tin gửi 04/10/2026 được Giám đốc khen; quy tắc đánh mục bằng ký tự gõ thẳng để dán sang Zalo không mất.
+- ref 32 trỏ sang mẫu mới. `plugin.json` → 1.47.1.
+
 ## [1.47.0] - 04/10/2026 — Danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 
 - **Nguồn:** 02 file Excel của Phòng (CCN cập nhật 02/10/2026; KCN đến 21/8/2026) và các mốc Bạn chốt 04/10/2026.

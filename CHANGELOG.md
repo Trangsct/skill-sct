@@ -1,3 +1,11 @@
+## sct-laocai-org-vn 2.6.0 — 04/10/2026: QĐ 3628/QĐ-UBND (06 phòng, thêm Phòng Quản lý khoáng sản), PGĐ Phạm Năng Chung, TT 50/2026, NĐ 351/2026, 03 dự thảo tổ chức đang lấy ý kiến
+
+- QĐ 3628/QĐ-UBND ngày 02/10/2026 dùng thay QĐ 05/2025/QĐ-UBND: Sở 06 phòng + Chi cục QLTT, chức năng thêm điện, than, địa chất, khoáng sản, dầu khí, **không có KCN**. Căn cứ "Quyết định số 05/2025/QĐ-UBND" trong mẫu văn bản, danh mục căn cứ của 20 plugin đổi sang "Quyết định số 3628/QĐ-UBND ngày 02/10/2026" (dòng về văn bản đã ký trước 02/10/2026 giữ nguyên, đánh dấu lịch sử).
+- QĐ 3589/QĐ-UBND ngày 30/9/2026: PGĐ Phạm Năng Chung từ 01/10/2026 → BGĐ 1 GĐ + 6 PGĐ. Phân công BGĐ hiện hành: QĐ 766/QĐ-SCT ngày 12/02/2026.
+- NĐ 351/2026/NĐ-CP (11/9/2026) thay NĐ 40/2025; TT 50/2026/TT-BCT (13/9/2026, hiệu lực 15/9/2026) sửa TT 37/2025.
+- Mục mới "Thay đổi tổ chức tháng 10/2026" + ref 03: 03 dự thảo (CNNV phòng, phân công BGĐ, Quy chế làm việc) GATE chưa áp dụng; GATE soạn văn bản chuyển tiếp; quy tắc Phòng QLCN tham gia ý kiến dự thảo tổ chức (Bạn chốt 04/10/2026).
+- check_facts: `qd-05-2025-da-thay-bang-qd-3628` (FAIL). registry/trang-thai.csv: thêm QĐ 3628, TT 50/2026, NĐ 351/2026, QĐ 05/2025 (bị thay), NĐ 40/2025 (bị thay).
+
 ## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 
 - Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.

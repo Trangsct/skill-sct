@@ -1,7 +1,7 @@
 {
   "name": "sct-laocai-org-vn",
-  "version": "2.5.0",
-  "description": "Cơ cấu tổ chức và phân công nhiệm vụ Sở Công Thương tỉnh Lào Cai sau hợp nhất 01/7/2025: Ban Giám đốc (GĐ + 5 PGĐ), 5 phòng chuyên môn, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên). Xác định PGĐ phụ trách, trình ai, ai ký, dòng Lưu VT CN, phòng chủ trì - phối hợp. Nguồn chuẩn về nhân sự cho toàn hệ sinh thái. Từ 15/9/2026 Sở tiếp nhận chức năng địa chất, khoáng sản, KCN theo NQ 66.25/2026/NQ-CP - ai phụ trách, GATE hành văn.",
+  "version": "2.6.0",
+  "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai theo QĐ 3628/QĐ-UBND 02/10/2026: 06 phòng (thêm Phòng Quản lý khoáng sản) + Chi cục QLTT, KCN không thuộc Sở; BGĐ 1 GĐ + 6 PGĐ (PGĐ Phạm Năng Chung từ 01/10/2026); TT 50/2026, NĐ 351/2026; phân công BGĐ QĐ 766/QĐ-SCT; CNNV phòng QĐ 59/QĐ-SCT; 03 dự thảo 10/2026 đang lấy ý kiến (chưa áp dụng); nội bộ Phòng QLCN 10/7/2026. Xác định PGĐ phụ trách, ai ký, dòng Lưu, phòng chủ trì; quy tắc góp ý dự thảo tổ chức. Nguồn chuẩn nhân sự cho hệ sinh thái.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
@@ -15,9 +15,13 @@
     "lao-cai",
     "nguoi-ky",
     "luu-vt",
-    "qd-05-2025",
     "chi-cuc-qltt",
     "nq-66-25-2026",
-    "tiep-nhan-chuc-nang-khoang-san"
+    "tiep-nhan-chuc-nang-khoang-san",
+    "qd-3628-2026",
+    "phong-quan-ly-khoang-san",
+    "tt-50-2026",
+    "nd-351-2026",
+    "pham-nang-chung"
   ]
 }

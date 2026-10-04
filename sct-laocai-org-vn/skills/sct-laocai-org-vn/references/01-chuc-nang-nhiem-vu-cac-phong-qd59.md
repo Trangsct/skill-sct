@@ -116,4 +116,4 @@ Không phải phòng chuyên môn của Sở mà là **tổ chức hành chính 
 - Các phòng chuyên môn, nghiệp vụ thuộc Chi cục.
 - Các Đội Quản lý thị trường trên địa bàn.
 
-CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cục do **UBND tỉnh ban hành quyết định riêng** (theo Điều 2 khoản 1 điểm c QĐ 05/2025/QĐ-UBND).
+CNNV, quyền hạn, cơ cấu tổ chức của Chi cục QLTT do **UBND tỉnh quyết định** (điểm c khoản 1 Điều 2 QĐ 3628/QĐ-UBND ngày 02/10/2026); CNNV các phòng, đội QLTT thuộc Chi cục do **Giám đốc Sở quy định** (khoản 12 Điều 2 QĐ 3628). Trước 02/10/2026 theo QĐ 05/2025/QĐ-UBND — lịch sử. Lưu ý: QĐ 59/QĐ-SCT vẫn hiện hành đến khi Quy định CNNV phòng mới (dự thảo 02/10/2026, có thêm Điều 6 Phòng Quản lý khoáng sản) ban hành.

@@ -7,7 +7,7 @@
 - **Khung hiện hành (từ 01/7/2026)**: khoản 4 Điều 57 Luật 135/2025; Điều 25 (đối tượng, có phần loại trừ công trình tạm), Điều 26 điểm c khoản 1 (thẩm quyền CQCM cấp tỉnh), Điều 27 (nội dung, trình tự), khoản 2 Điều 29 (điều kiện đưa vào khai thác, sử dụng) NĐ 207/2026; Điều 17 QĐ 11/2026/QĐ-UBND.
 - **Khung cũ (chuyển tiếp)**: Điều 23, Điều 24 NĐ 06/2021 (sửa NĐ 35/2023) — lưu ý **khoản 1 Điều 24 NĐ 06/2021 KHÔNG loại trừ công trình tạm**; điểm c khoản 2 Điều 89 Luật XD 2014 (sửa đổi 2020); Điều 131 (công trình tạm).
 - PCCC: từ 15/9/2026 **NĐ 347/2026/NĐ-CP bãi bỏ khoản 5 Điều 6 NĐ 105/2025** (CQCM kiểm tra nghiệm thu PCCC 5 nội dung cùng KTCTNT) và Điều 10 (Công an kiểm tra nghiệm thu) → trong KTCTNT Sở **không kiểm tra nghiệm thu PCCC**, chỉ đối chiếu hồ sơ PCCC của CĐT (văn bản thẩm định thiết kế PCCC, biên bản nghiệm thu PCCC do CĐT tổ chức — điểm đ k1 Đ12 NĐ 105 mới). Chi tiết plugin `pccc-sct-vn` ref 16.
-- QĐ 05/2025/QĐ-UBND (chức năng Sở).
+- QĐ 3628/QĐ-UBND (chức năng Sở).
 
 ## II. TRÌNH TỰ CHUẨN (đã vận hành ổn định qua 3 vụ việc)
 

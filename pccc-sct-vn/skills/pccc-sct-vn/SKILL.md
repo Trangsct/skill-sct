@@ -71,7 +71,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Văn bản | Nội dung | Ngày |
 |---|---|---|
 | Quyết định 11/2026/QĐ-UBND của UBND tỉnh Lào Cai | Quản lý đầu tư xây dựng trên địa bàn tỉnh - xác lập Sở Công Thương là CQCM về xây dựng | 29/01/2026 |
-| Quyết định 05/2025/QĐ-UBND của UBND tỉnh Lào Cai | Chức năng, nhiệm vụ, quyền hạn của Sở Công Thương sau hợp nhất | 01/7/2025 |
+| Quyết định 3628/QĐ-UBND của UBND tỉnh Lào Cai | Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương (thay QĐ 05/2025/QĐ-UBND ngày 01/7/2025 — lịch sử) | 02/10/2026 |
 | Kế hoạch số 23/KH-UBND của UBND tỉnh | Triển khai Nghị định 105/2025/NĐ-CP | 27/7/2025 |
 | Kế hoạch số 25/KH-UBND của UBND tỉnh | Triển khai Luật PCCC và CNCH | 27/7/2025 |
 | Kế hoạch số 62/KH-UBND của UBND tỉnh | Tăng cường PCCC sau vụ cháy CCN Âu Lâu | 21/8/2025 |
@@ -265,7 +265,7 @@ Tham chiếu: phân định ranh giới tại Công văn 314/SCT-CN ngày 20/01/
 
 3. **Thực tiễn áp dụng tại Sở (đến 22/12/2025 theo BC 3241/BC-SCT):** Đã thẩm định 03 dự án (01 thiết kế xây dựng, 02 BCNCKT); kiểm tra nghiệm thu 02 dự án; phối hợp kiểm tra liên ngành 02 kho VLNCN + 01 NMTĐ; kiểm tra điều kiện kinh doanh khí + PCCC tại 10 doanh nghiệp khoáng sản và VLNCN.
 
-4. **8 lĩnh vực Sở Công Thương Lào Cai phụ trách (theo QĐ 05/2025/QĐ-UBND):**
+4. **8 lĩnh vực Sở Công Thương Lào Cai phụ trách (theo QĐ 3628/QĐ-UBND):**
    - Lĩnh vực 1: Điện lực, năng lượng (Phòng QLNL).
    - Lĩnh vực 2: Xăng dầu, khí dầu mỏ hóa lỏng (Phòng QLNL hoặc QLTM tùy phân công nội bộ).
    - Lĩnh vực 3: Vật liệu nổ công nghiệp, tiền chất thuốc nổ (Phòng QLCN).

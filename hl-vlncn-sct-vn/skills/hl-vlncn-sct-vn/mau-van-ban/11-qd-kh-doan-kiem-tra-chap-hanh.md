@@ -14,7 +14,7 @@ Căn cứ Luật số 15/2012/QH13 ngày 20/6/2012 về Xử lý vi phạm hành
 bổ sung năm 2020);
 Căn cứ Nghị định số 181/2024/NĐ-CP…; [Nghị định số 217/2025/NĐ-CP về kiểm tra chuyên
 ngành — đối chiếu hiệu lực];
-Căn cứ Quyết định số 05/2025/QĐ-UBND…;
+Căn cứ Quyết định số 3628/QĐ-UBND…;
 Căn cứ Kế hoạch công tác năm 20… của Sở Công Thương;
 Theo đề nghị của Trưởng phòng Quản lý công nghiệp,
                             QUYẾT ĐỊNH:

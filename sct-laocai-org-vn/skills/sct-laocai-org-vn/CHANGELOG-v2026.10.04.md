@@ -1,0 +1,14 @@
+# CHANGELOG — sct-laocai-org-vn v2.6.0 (04/10/2026)
+
+Nguồn: 04 bản gốc Bạn cung cấp 04/10/2026 (QĐ 3628/QĐ-UBND, QĐ 3589/QĐ-UBND, TT 50/2026/TT-BCT, NĐ 351/2026/NĐ-CP — số/ngày/người ký đọc bằng `extract_metadata.py` + `pdftotext` + soi ảnh) và 03 dự thảo Văn phòng Sở gửi lấy ý kiến cùng ngày.
+
+- **Căn cứ chức năng Sở đổi**: QĐ 3628/QĐ-UBND ngày 02/10/2026 (Chủ tịch Nguyễn Tuấn Anh ký) dùng thay QĐ 05/2025/QĐ-UBND — Sở có **06 phòng** (thêm **Phòng Quản lý khoáng sản**) + Chi cục QLTT; chức năng thêm điện, than, địa chất, khoáng sản, dầu khí; **không có khu công nghiệp**; Giám đốc Sở quy định CNNV phòng, đội thuộc Chi cục QLTT (khoản 12 Điều 2). Đã thay số QĐ 05/2025 → QĐ 3628 ở mẫu văn bản, danh mục căn cứ của 20 plugin khác (dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên, đánh dấu lịch sử).
+- **BGĐ 1 GĐ + 6 PGĐ**: QĐ 3589/QĐ-UBND ngày 30/9/2026 bổ nhiệm **Phạm Năng Chung** (từ PGĐ Sở NN&MT) làm PGĐ Sở Công Thương, 05 năm kể từ 01/10/2026; lĩnh vực phụ trách chờ QĐ phân công mới.
+- **Phân công BGĐ hiện hành là QĐ 766/QĐ-SCT ngày 12/02/2026** (nội dung Dự thảo Lần 4 đã ban hành; số/ngày xác nhận qua điều khoản thay thế của dự thảo 03/10/2026) — bỏ ghi chú "Dự thảo Lần 4 chưa có số".
+- **Khung cấp Bộ, cấp Sở**: NĐ 351/2026/NĐ-CP ngày 11/9/2026 thay NĐ 40/2025; TT 50/2026/TT-BCT ngày 13/9/2026 (hiệu lực 15/9/2026) sửa TT 37/2025 — Sở thêm điểm y "Về địa chất và khoáng sản", xã thêm khoản 20 Điều 6; Điều 3 chuyển tiếp ATTP vẫn ở Sở.
+- Mục mới "Thay đổi tổ chức tháng 10/2026": tóm tắt văn bản đã hiệu lực; nội dung chính 03 dự thảo (CNNV phòng, phân công BGĐ, Quy chế làm việc) với GATE **chưa ban hành, chưa áp dụng**; GATE soạn văn bản giai đoạn chuyển tiếp (căn cứ QĐ 3628 + QĐ 59 + QĐ 766; người ký hóa chất - VLNCN - khoáng sản vẫn PGĐ Thuân); **quy tắc Phòng QLCN tham gia ý kiến dự thảo tổ chức bộ máy** (Bạn chốt 04/10/2026: chỉ góp ý phần liên quan Phòng và PGĐ phụ trách Phòng; không góp ý thể thức, ngày áp dụng, chế độ xin ý kiến PGĐ, báo cáo tuần, lịch họp, QLTT, mảng QLKS, tài chính - CNTT của Văn phòng/KH-TH).
+- Bảng routing: hàng KCN ghi rõ không thuộc chức năng Sở; thêm hàng địa chất - khoáng sản và thẩm định thiết kế mỏ → Phòng QLKS (chuyển tiếp từ QLCN). Mục NQ 66.25: hàng KCN cập nhật theo TT 50 + QĐ 3628; GATE hành văn viết thẳng theo QĐ 3628.
+- Sai lầm thường gặp: thêm 5 mục (QĐ 3488, QĐ 05/2025, 05 phòng/05 PGĐ, Sở quản lý KCN, áp dụng dự thảo).
+- Reference mới `03-qd-3628-tt-50-nd-351-va-du-thao-10-2026.md`; ref 01 ghi chú về Chi cục QLTT và QĐ 59 còn hiệu lực. `van-ban-goc/`: QĐ 3628 (PDF 3,9 MB — export-ignore, kèm `.txt` không dấu), TT 50 (scan), NĐ 351 (PDF + `.txt`). Không lưu QĐ 3589 (văn bản nhân sự).
+- check_facts: `qd-05-2025-da-thay-bang-qd-3628` (FAIL) — dòng còn dẫn QĐ 05/2025/QĐ-UBND mà không nhắc QĐ 3628 hoặc lịch sử.
+- `plugin.json` → 2.6.0; description cập nhật.

@@ -43,6 +43,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-05-2025-da-thay-bang-qd-3628",
+        # Bạn cung cấp 04/10/2026: QĐ 3628/QĐ-UBND ngày 02/10/2026 dùng thay QĐ 05/2025/QĐ-UBND làm căn cứ chức năng Sở.
+        "pattern": r"^(?!.*(?:3628|lịch sử|trước 02/10/2026|ký trước|bị thay|đến 01/10/2026|đã ban hành\))).*05/2025/QĐ-UBND",
+        "why": "Từ 02/10/2026 căn cứ chức năng Sở là QĐ 3628/QĐ-UBND ngày 02/10/2026 (sct-laocai-org-vn ref 03); QĐ 05/2025/QĐ-UBND chỉ còn ở văn bản ký trước đó — ghi kèm 'lịch sử' nếu cố ý nhắc.",
+        "since": "2026-10-02",
+        "level": "FAIL",
+        "skip": ["vbhc-vn"],
+    },
+    {
         "id": "kcn-cam-duong-chua-khoi-cong",
         # Bạn chốt 04/10/2026: KCN Cam Đường chưa khởi công; mốc "khởi công tháng 9/2026" là kế hoạch cũ.
         "pattern": r"^(?!.*(?:chưa khởi công|lịch sử|kế hoạch|ref 43|Cam Đường 1)).*KCN Cam Đường[^\n]{0,80}khởi công[^\n]{0,30}9/2026",

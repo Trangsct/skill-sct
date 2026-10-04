@@ -1,3 +1,9 @@
+## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
+
+- Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.
+- Bạn chốt 04/10/2026: chưa rõ thì bỏ khỏi bản trình; tên 02 file danh mục cùng một kiểu (ref 31 mục 13). Rà thông tin cũ ở ref 32, 34, 36, 41, 42.
+- check_facts: `kcn-cam-duong-chua-khoi-cong`, `ccn-mong-son-tmdt-496-651` (FAIL).
+
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 
 - Bạn chốt 01/10/2026: từ nay không ghi tên chuyên viên ở cuối văn bản — dòng Lưu chỉ ghi `Lưu: VT, CN.` (công văn nội bộ Phòng `Lưu: CN.`), thay quy ước cũ "Lưu: VT, CN(tên)".

@@ -1,9 +1,19 @@
 # CHANGELOG
 
-## [1.46.2] - 02/10/2026 — Liên kết sang plugin dat-dai-sct-vn
+## [1.47.1] - 05/10/2026 — Liên kết sang plugin dat-dai-sct-vn
 
 - SKILL.md bảng plugin liên kết: thêm dòng `dat-dai-sct-vn` (trình tự thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn; cách tách số liệu GPMB).
-- `plugin.json` → 1.46.2 (1.46.1 là đợt bỏ tên chuyên viên ở dòng Lưu, xem CHANGELOG gốc kho).
+- `plugin.json` → 1.47.1.
+
+## [1.47.0] - 04/10/2026 — Danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
+
+- **Nguồn:** 02 file Excel của Phòng (CCN cập nhật 02/10/2026; KCN đến 21/8/2026) và các mốc Bạn chốt 04/10/2026.
+- **ref 43 (mới):** phân nhóm 52 CCN và số cộng từng nhóm; Bản Phiệt 1 lên nhóm đã nộp hồ sơ (TTr 351/TTr-UBND ngày 25/9/2026), Bảo Hưng 2 vào nhóm hồ sơ tại xã, phường; 22 cụm kêu gọi (bỏ CCN Thống Nhất 35 ha); KCN Cam Đường chưa khởi công, quy hoạch phân khu KCN Đông An chưa phê duyệt; bảng 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.
+- **Rà thông tin cũ:** ref 34 (CCN Minh Quân khởi công dự kiến 11/2026), ref 36 (mốc khởi công KCN Cam Đường 9/2026 là kế hoạch cũ), ref 41, 42 trỏ sang ref 43; SKILL.md bỏ nhãn "MỚI NHẤT" của ref 42 về phân nhóm.
+- **ref 31 mục 13:** chưa rõ thì bỏ khỏi bản trình; Mông Sơn 496,651 tỷ; tên 02 file cùng kiểu.
+- `vi-du-thuc-te/`: 02 file `2026.10.01. Danh mục thu hút đầu tư các CCN / các KCN …`.
+- check_facts: `kcn-cam-duong-chua-khoi-cong`, `ccn-mong-son-tmdt-496-651` (FAIL).
+- `plugin.json` → 1.47.0.
 
 ## [1.46.0] - 01/10/2026 — Danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 (VB 9813/UBND-XD); chi tiết QĐ 3480 tuyến 4E
 

@@ -145,6 +145,8 @@ Biểu theo Văn bản **9240/UBND-TH ngày 11/9/2026** của UBND tỉnh; hạn
 | Bản Qua | 5300828932 | 42990 | 3/2027 | 12/2027 | 1.360.668 | 0 | 7.000 |
 | Võ Lao | 5300826822 | 42990 | 6/2027 | 12/2032 | 5.171.344 | 0 | 26.000 |
 
+> Cập nhật 04/10/2026: KCN Cam Đường **chưa khởi công** (Bạn chốt); mốc 9/2026 trong bảng trên là kế hoạch tại thời điểm lập biểu, lịch sử — ref 43 mục A.
+
 Cộng giá trị quý III/2026 của 06 KCN: **159.000 triệu đồng**. Quý II/2026 chỉ có KCN Trấn Yên, vì 05 KCN còn lại mới được chấp thuận chủ trương đầu tư từ 23/6 đến 23/7/2026.
 
 ### I.1. Quy tắc chọn số (Bạn quyết ngày 12/9/2026)

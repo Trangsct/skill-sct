@@ -76,6 +76,13 @@ Quy tắc hành văn: dùng đúng tên "CCN Yên Hợp" và "CCN Yên Hợp 1".
 - Áp dụng đợt CV 6059/SCT-CN (ref 42 mục C): Yên Thế lấp đầy 59,5% (23,78/39,97 ha), 05 DN; Hưng Khánh 32,75% (6,55/20 ha); Bắc Văn Yên viên nén sinh khối 10,76 ha, điện sinh khối Yên Bái 1 (EREX Sakura Biomass) 06 ha; Y Can khởi công dự kiến 11/2026; Phú Thịnh 2 chưa có QĐ cho thuê đất (37,38 ha là đơn xin thuê GĐ1).
 - Lấp đầy bình quân 23 cụm hiện hữu tính lại **30,49%** (203,76/668,31 ha); số 29,02% của mục 11 là lịch sử, chỉ còn đúng cho văn bản đã ban hành trước 01/10/2026.
 
+## 13. Bản trình Lãnh đạo: chưa rõ thì bỏ; KCN Cam Đường chưa khởi công; quy hoạch phân khu KCN Đông An chưa phê duyệt (Bạn chốt 04/10/2026)
+
+- Nội dung chưa rõ hoặc chưa chính xác thì bỏ hẳn khỏi bản trình Lãnh đạo; không để chữ tím, không ghi "cần xác nhận" trong bản trình. Chữ tím chỉ dùng ở bản làm việc gửi Bạn rà.
+- KCN Cam Đường chưa khởi công (đến 04/10/2026); quy hoạch phân khu KCN Đông An chưa phê duyệt.
+- Tổng mức đầu tư CCN Mông Sơn là 496,651 tỷ đồng (QĐ 3426/QĐ-UBND ngày 23/9/2026).
+- Hai file danh mục thu hút đầu tư CCN, KCN đặt tên cùng một kiểu, cùng một ngày chốt; tin báo cáo mở đầu "Báo cáo LĐ, tính đến hết ngày …". Chi tiết: ref 43.
+
 ## 6. Nguyên tắc dùng sổ này
 
 - Sổ chỉ chứa dữ kiện đã chốt. Tỷ lệ lấp đầy, nhà đầu tư, tiến độ là dữ liệu động: lấy từ kỳ cập nhật mới nhất (ref 30 hoặc kỳ sau) hoặc hỏi người dùng, không lấy số cũ trong sổ này để viết văn bản mới.

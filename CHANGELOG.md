@@ -1,3 +1,9 @@
+## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
+
+- Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.
+- Bạn chốt 04/10/2026: chưa rõ thì bỏ khỏi bản trình; tên 02 file danh mục cùng một kiểu (ref 31 mục 13). Rà thông tin cũ ở ref 32, 34, 36, 41, 42.
+- check_facts: `kcn-cam-duong-chua-khoi-cong`, `ccn-mong-son-tmdt-496-651` (FAIL).
+
 ## dat-dai-sct-vn 1.2.0 — 02/10/2026: nạp QĐ 40, 43, 47/2026 và QĐ 18, 20/2025 của tỉnh, Luật 43/2024, Luật 146/2025, NĐ 101/2024, NĐ 226/2025; hoàn tất đối chiếu Sổ tay
 
 - Reference 13 mới: phân cấp cho Chủ tịch UBND cấp xã (QĐ 40/2026/QĐ-UBND, hiệu lực 01/6/2026) và trình tự, thủ tục đất đai của tỉnh (QĐ 47/2026/QĐ-UBND, hiệu lực 28/6/2026; cho thuê đất không quá 15 ngày làm việc).
@@ -18,7 +24,7 @@
 - 10 reference: văn bản viện dẫn; thẩm quyền UBND, Chủ tịch UBND cấp xã, Hội đồng bồi thường, chủ đầu tư; quy trình 12 bước; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao sớm, khiếu nại, hồ sơ địa chính; 10 tình huống phát sinh; 39 biểu mẫu và bảng quy đổi số mẫu; áp dụng cho Sở Công Thương (đọc báo cáo GPMB KCN, CCN); 14 điểm chưa thống nhất trong Sổ tay. Checklist đọc báo cáo GPMB.
 - Bản gốc PDF 13,4 MB (export-ignore, chỉ trên GitHub) kèm bản trích chữ bằng máy.
 - Chưa đối chiếu bản gốc các luật, nghị định, quyết định Sổ tay viện dẫn; chưa ghi `registry/trang-thai.csv`.
-- kccn-sct-vn 1.46.2: thêm dòng liên kết sang `dat-dai-sct-vn`.
+- kccn-sct-vn 1.47.1: thêm dòng liên kết sang `dat-dai-sct-vn`.
 - marketplace: thêm entry `dat-dai-sct-vn`. Trên claude.ai có thể phải Remove rồi Add lại marketplace để entry mới hiện ra.
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 

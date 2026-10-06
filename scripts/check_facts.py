@@ -64,6 +64,16 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "ccn-lap-day-binh-quan-tren-dat-da-gpmb",
+        # Bạn chốt 06/10/2026: tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp ĐÃ GPMB; 26,96% (chia cho toàn bộ
+        # đất CN quy hoạch, Báo cáo 05/10/2026) bị phê bình — mọi chỗ nhắc 26,96% phải kèm "lịch sử"/"bị phê bình"/"không dùng".
+        "pattern": r"^(?!.*(?:lịch sử|bị phê bình|không dùng|cách cũ)).*26,96 ?%",
+        "why": "Tỷ lệ lấp đầy bình quân CCN tính trên diện tích đất công nghiệp đã giải phóng mặt bằng, không chia cho toàn bộ đất CN quy hoạch; 26,96% là cách tính cũ bị phê bình (Bạn chốt 06/10/2026 — kccn-sct-vn ref 44 mục B.6).",
+        "since": "2026-10-06",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
         "id": "ccn-thu-tu-phu-thinh-1-2-3",
         # Bạn chốt 05/10/2026 (Báo cáo họp UBND tỉnh 06/10): ba cụm Phú Thịnh xếp theo thứ tự 1, 2, 3 — "đừng 3, 2, 1".
         "pattern": r"^(?!.*(?:lịch sử|KHÔNG viết|không viết|đừng)).*Phú Thịnh 3,? (?:Phú Thịnh )?2,? (?:Phú Thịnh )?1\b",

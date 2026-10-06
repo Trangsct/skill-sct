@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.48.1] - 06/10/2026 — Tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp đã GPMB
+
+- Bạn chốt sau cuộc họp UBND tỉnh 06/10/2026: mẫu số là đất công nghiệp đã giải phóng mặt bằng (có mặt bằng cho thuê); 26,96% (203,76/755,81 ha) là cách tính cũ, bị phê bình — không dùng lại. Ref 44 mục B.6, C, K; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb`.
+- `plugin.json` → 1.48.1.
+
 ## [1.48.0] - 06/10/2026 — Báo cáo tình hình triển khai các CCN đến 05/10/2026 phục vụ cuộc họp UBND tỉnh (Giấy mời 565/GM-UBND)
 
 - **Nguồn:** Giấy mời 565/GM-UBND ngày 05/10/2026; chỉ đạo của Giám đốc Sở qua Zalo (05–06/10/2026); BC 214/BC-LCIDI 29/9/2026 (Thống Nhất 1); BC 499/BC-SNNMT 05/6/2026, BC 1107/BC-SNNMT 02/10/2026, QĐ 505/QĐ-UBND 23/3/2016, QĐ 1505/QĐ-UBND 26/7/2016 (đất Chè Văn Hưng); báo cáo CĐT, xã, phường trả lời CV 6059. Bản gốc không đưa vào kho.

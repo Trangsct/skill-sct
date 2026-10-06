@@ -2,7 +2,7 @@
 
 > NGUỒN: phiên làm việc 05–06/10/2026 — (1) Giấy mời số 565/GM-UBND ngày 05/10/2026 của UBND tỉnh (Chủ tịch Nguyễn Tuấn Anh chủ trì; Phó Chủ tịch Thường trực Ngô Hạnh Phúc, Phó Chủ tịch Nguyễn Thành Sinh dự); (2) khoảng 15 vòng chỉ đạo của Giám đốc Sở qua Zalo; (3) các báo cáo của chủ đầu tư, UBND xã, phường trả lời CV 6059/SCT-CN (ref 42) và văn bản mới đọc trong kỳ này (mục A); (4) sản phẩm cuối: Báo cáo của Sở (17 trang + 02 phụ lục, Giám đốc Hoàng Chí Hiền ký) và Bài phát biểu tóm tắt của Giám đốc (03 trang). Số, ngày văn bản ở mục A đã soi bản gốc PDF (extract_metadata.py hoặc render ảnh); bản gốc KHÔNG đưa vào kho này.
 >
-> ⚠️ SỐ LIỆU ĐỘNG — hiện trạng chốt đến **ngày 05/10/2026**. Reference này MỚI NHẤT về: khung Báo cáo CCN gửi UBND tỉnh do Giám đốc chốt (mục B), hiện trạng 09 cụm doanh nghiệp làm chủ đầu tư và 16 cụm cấp xã (mục C), đất Chè Văn Hưng theo Sở Nông nghiệp và Môi trường (mục D), mốc giao việc (mục E). Phân nhóm, số cộng danh mục vẫn lấy ở ref `43`; số GPMB chi tiết từng hộ ở ref `42`; bậc thủ tục ở ref `41` cộng mục A dưới đây.
+> ⚠️ SỐ LIỆU ĐỘNG — hiện trạng chốt đến **ngày 05/10/2026**. Reference này MỚI NHẤT về: khung Báo cáo CCN gửi UBND tỉnh do Giám đốc chốt (mục B; **cách tính tỷ lệ lấp đầy bình quân trên đất đã GPMB — B.6**), hiện trạng 09 cụm doanh nghiệp làm chủ đầu tư và 16 cụm cấp xã (mục C), đất Chè Văn Hưng theo Sở Nông nghiệp và Môi trường (mục D), mốc giao việc (mục E). Phân nhóm, số cộng danh mục vẫn lấy ở ref `43`; số GPMB chi tiết từng hộ ở ref `42`; bậc thủ tục ở ref `41` cộng mục A dưới đây.
 
 ## A. VĂN BẢN MỚI ĐÃ ĐỐI CHIẾU TRONG KỲ (cố định, dùng lâu dài)
 
@@ -70,7 +70,13 @@ Quy ước này bổ sung 08 quy ước của bộ tài liệu họp Chủ tịc
 
 ## C. HIỆN TRẠNG ĐẾN 05/10/2026 (số đã vào Báo cáo)
 
-**Toàn tỉnh:** 25 cụm hình thành, 1.028,78 ha; đất CN 755,81 ha; cho thuê 203,76 ha; lấp đầy bình quân **26,96%**; 232 dự án, cơ sở; vốn đã đầu tư hạ tầng 332,01 tỷ. (Số 26,96% là theo Excel Phòng chốt 01/10/2026; số 30,49% ở ref 42 là cách tính lại theo báo cáo xã — khi dùng ghi rõ cách tính.)
+**Toàn tỉnh:** 25 cụm hình thành, 1.028,78 ha; đất CN 755,81 ha; cho thuê 203,76 ha; 232 dự án, cơ sở; vốn đã đầu tư hạ tầng 332,01 tỷ. Tỷ lệ lấp đầy bình quân trong Báo cáo 05/10/2026 ghi 26,96% (= 203,76/755,81 ha, mẫu số là toàn bộ đất CN quy hoạch của 25 cụm, Excel Phòng chốt 01/10/2026) — **lịch sử, bị phê bình, không dùng lại cách tính này** (xem B.6).
+
+### B.6. Tỷ lệ lấp đầy bình quân — Bạn chốt 06/10/2026 sau cuộc họp
+- **Mẫu số là diện tích đất công nghiệp ĐÃ GIẢI PHÓNG MẶT BẰNG (có mặt bằng để cho thuê)**, không phải toàn bộ đất công nghiệp theo quy hoạch của các cụm. Tử số vẫn là diện tích đã cho thuê. Lý do: 09 cụm doanh nghiệp làm chủ đầu tư chiếm gần 60% quỹ đất công nghiệp nhưng đang GPMB, chưa có đất cho thuê — tính cả phần này vào mẫu số thì tỷ lệ bị kéo xuống (26,96% ở Báo cáo 05/10/2026), lãnh đạo đánh giá là thấp bất hợp lý và người dùng bị phê bình.
+- Cách trình bày: ghi rõ "tỷ lệ lấp đầy bình quân tính trên diện tích đất công nghiệp đã giải phóng mặt bằng" ngay lần đầu nêu; có thể nêu thêm tỷ lệ cho thuê so với toàn bộ quỹ đất công nghiệp quy hoạch như một con số phụ (ghi rõ là tính trên quỹ đất quy hoạch), nhưng con số chính là theo đất đã GPMB.
+- Dữ liệu cần có trong Excel Phòng: cột "đất công nghiệp đã GPMB" của từng cụm (các cụm cấp xã đã có hạ tầng: coi đất CN hiện có là đã GPMB; 09 cụm doanh nghiệp: lấy diện tích đã bồi thường theo báo cáo CĐT/xã ở ref 42, 44 mục C). Chưa có cột này thì hỏi Bạn, **không tự chia cho tổng đất CN quy hoạch**.
+- Con số theo cách tính mới chưa được lập đến 06/10/2026 — tính và chốt với Bạn ở kỳ báo cáo sau; ghi vào ref kỳ đó. (30,49% ở ref 42 là cách tính lại theo báo cáo xã cho 23 cụm, cũng chưa phải cách tính này.)
 
 | Cụm | Trạng thái 05/10/2026 | Mốc trong Báo cáo | Đề nghị UBND tỉnh chỉ đạo (tóm tắt) |
 |---|---|---|---|
@@ -128,6 +134,7 @@ Khi Giám đốc dự họp UBND tỉnh về CCN, Sở chuẩn bị thêm **bài
 
 ## K. VIỆC CẦN THEO DÕI KỲ SAU
 
+- Tính lại tỷ lệ lấp đầy bình quân theo đất công nghiệp đã GPMB (B.6) cho kỳ báo cáo sau; bổ sung cột đất CN đã GPMB vào Excel Phòng.
 - Kết luận của Chủ tịch UBND tỉnh sau họp 06/10/2026 (Thông báo kết luận của VP UBND tỉnh) — cập nhật mốc giao việc vào ref mới.
 - QĐ điều chỉnh thành lập Phú Thịnh 1 (TTr 5424); QĐ thành lập Xuân Ái (TTr 5723); ý kiến UBND tỉnh về 03 nội dung BC 499 và 02 nội dung BC 1107.
 - 10/10 và 15/10/2026: hồ sơ và tờ trình 08 cụm NSNN.

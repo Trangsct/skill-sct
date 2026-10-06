@@ -7,3 +7,8 @@ Kỳ cập nhật 06/10/2026: Báo cáo tình hình triển khai các cụm côn
 - `vi-du-thuc-te/`: Báo cáo bản cuối 05/10/2026 (GĐ ký).
 - check_facts: 03 rule mới (`ccn-thu-tu-phu-thinh-1-2-3`, `ccn-lao-dong-uoc-80-8-ld-ha`, `che-van-hung-40-97-ha-khac-pham-vi`).
 - `plugin.json` → 1.48.0.
+
+## Bổ sung cùng ngày — v1.48.1 (sau cuộc họp 06/10/2026)
+
+- Bạn chốt: **tỷ lệ lấp đầy bình quân CCN tính trên diện tích đất công nghiệp đã giải phóng mặt bằng**, không chia cho toàn bộ đất CN quy hoạch; 26,96% trong Báo cáo 05/10/2026 là cách tính cũ, bị phê bình. Ref 44 mục B.6 (cách tính, cách trình bày, dữ liệu cần có), mục C đánh dấu lịch sử, mục K việc theo dõi; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb` (FAIL).
+- `plugin.json` → 1.48.1.

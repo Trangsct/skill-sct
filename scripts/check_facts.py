@@ -43,6 +43,34 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ccn-thu-tu-phu-thinh-1-2-3",
+        # Bạn chốt 05/10/2026 (Báo cáo họp UBND tỉnh 06/10): ba cụm Phú Thịnh xếp theo thứ tự 1, 2, 3 — "đừng 3, 2, 1".
+        "pattern": r"^(?!.*(?:lịch sử|KHÔNG viết|không viết|đừng)).*Phú Thịnh 3,? (?:Phú Thịnh )?2,? (?:Phú Thịnh )?1\b",
+        "why": "Ba cụm Phú Thịnh viết theo thứ tự 'các Cụm công nghiệp Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3' (Bạn chốt 05/10/2026 — kccn-sct-vn ref 44 mục B.2, ref 41 mục D.2).",
+        "since": "2026-10-05",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
+        "id": "ccn-lao-dong-uoc-80-8-ld-ha",
+        # Giám đốc bác 80 lao động/ha rồi 8 lao động/ha (06/10/2026); chốt ước mỗi cụm 75 ha khoảng 1.500 lao động, không ghi cách tính.
+        "pattern": r"^(?!.*(?:lịch sử|bị bác|không dùng|KCN|khu công nghiệp)).*(?:cụm|CCN)[^\n]*\b(?:80|8) lao động ?/ ?ha",
+        "why": "Ước lao động khi lấp đầy: cụm 75 ha khoảng 1.500 lao động (Bảo Minh 60 ha 1.200; Mông Sơn 50 ha 1.000), ghi kết quả 'khoảng', không ghi suất 80 hay 8 lao động/ha (Giám đốc chốt 06/10/2026 — kccn-sct-vn ref 44 mục B.3).",
+        "since": "2026-10-06",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
+        "id": "che-van-hung-40-97-ha-khac-pham-vi",
+        # 40,97 ha là số của UBND phường Văn Phú (BC 585, chỉ phần trên địa bàn phường); toàn bộ ba cụm + đường trục chính
+        # theo BC 499/BC-SNNMT 05/6/2026 là 72,23 ha. Dùng 40,97 phải ghi rõ "trên địa bàn phường Văn Phú".
+        "pattern": r"^(?!.*(?:phường|ref 42|lịch sử|72,23)).*Chè Văn Hưng[^\n]{0,80}40,97",
+        "why": "40,97 ha đất Chè Văn Hưng là phần trên địa bàn phường Văn Phú (BC 585/BC-UBND); toàn bộ ba cụm + đường trục chính là 72,23 ha (BC 499/BC-SNNMT 05/6/2026) — ghi rõ phạm vi (kccn-sct-vn ref 44 mục D).",
+        "since": "2026-10-06",
+        "level": "WARN",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn"],
+    },
+    {
         "id": "kcn-cam-duong-chua-khoi-cong",
         # Bạn chốt 04/10/2026: KCN Cam Đường chưa khởi công; mốc "khởi công tháng 9/2026" là kế hoạch cũ.
         "pattern": r"^(?!.*(?:chưa khởi công|lịch sử|kế hoạch|ref 43|Cam Đường 1)).*KCN Cam Đường[^\n]{0,80}khởi công[^\n]{0,30}9/2026",

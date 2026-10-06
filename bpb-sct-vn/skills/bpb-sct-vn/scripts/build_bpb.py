@@ -15,7 +15,7 @@ có thể dùng **in đậm** và *in nghiêng* nội dòng.
   [TITLE]      dòng tiêu đề — căn giữa, in đậm, IN HOA giữ nguyên như gõ.
   [GREET-HEAD] dòng "Kính thưa:" đầu — căn đều, in đậm, thụt dòng đầu.
   [GREET]      dòng đối tượng kính thưa — in nghiêng, thụt lề trái 1.27cm.
-  [BREAK]      dấu ngắt "Kính thưa Hội nghị!" — in đậm + nghiêng.
+  [BREAK]      dấu ngắt "Kính thưa Hội nghị!" — in đậm + nghiêng, thụt dòng đầu.
   [H]          đề mục nhóm nhiệm vụ (1. / I - / * Nhóm 1:) — in đậm, thụt dòng đầu.
   [LEAD]       đoạn có cụm dẫn đầu in đậm — tự dùng **...** để đánh dấu phần đậm.
   [P]          đoạn văn thường — căn đều, thụt dòng đầu.
@@ -126,6 +126,7 @@ def build(lines):
             _add_inline(p, body, base_italic=True)
         elif tag == 'BREAK':
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            pf.first_line_indent = INDENT   # 06/10/2026: dòng "Kính thưa Hội nghị!" thụt dòng đầu như thân bài
             _add_inline(p, body, base_bold=True, base_italic=True)
         elif tag == 'H':
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY

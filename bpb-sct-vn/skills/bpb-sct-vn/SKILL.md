@@ -182,7 +182,9 @@ Bài phát biểu **KHÔNG** dùng thể thức VBHC (không Quốc hiệu/số/
   thụt lề trái 1.27 cm.
 - **Thân bài:** căn đều (JUSTIFY), thụt dòng đầu 1.27 cm, giãn dòng đơn (1.0),
   cách đoạn before/after 6pt.
-- **Đề mục & cụm dẫn đầu:** in đậm. **`Kính thưa Hội nghị!`** in đậm + nghiêng.
+- **Đề mục & cụm dẫn đầu:** in đậm. **`Kính thưa Hội nghị!`** in đậm + nghiêng,
+  **thụt dòng đầu 1.27 cm như thân bài** (thẻ `[BREAK]` của script đã thụt từ 06/10/2026;
+  trước đó dòng này sát lề trái — lỗi bắt được khi dựng bài 06/10/2026).
   Các ý phụ `(1)(2)(3)` có thể in nghiêng.
 - Tên file: `YYYY.MM.DD. [Tên đầy đủ có dấu].docx`.
 
@@ -201,6 +203,8 @@ Luôn **render soi ảnh từng trang** trước khi trình.
 ## 7. Người đọc & người ký (tra khi cần)
 
 **Trưởng phòng báo cáo tại giao ban Sở** (Bạn chốt 06/9/2026): mẫu `kho-bai-mau/bpb-giao-ban-thang-9-2026-truong-phong-qlcn.docx` — kính thưa 3 dòng (Giám đốc chủ trì, các Phó Giám đốc, toàn thể đồng chí dự họp), xưng "Thay mặt Phòng Quản lý Công nghiệp", kết quả lồng ghép lũy kế + tháng gần nhất trong từng lĩnh vực, đề xuất đúng cấp (PGĐ phụ trách/Giám đốc), không nhắc vận chuyển HHNH. Quy ước chi tiết: `vbhc-vn/reference/bao-cao-dinh-ky-phong-qlcn.md` mục 3.
+
+**Giám đốc dự cuộc họp của UBND tỉnh do Chủ tịch chủ trì về một lĩnh vực Sở chủ trì** (Bạn chốt 06/10/2026, vụ họp CCN theo Giấy mời 565/GM-UBND): soạn **bài phát biểu tóm tắt 03 trang** đi kèm Báo cáo đầy đủ đã gửi Văn phòng UBND tỉnh — mẫu `kho-bai-mau/bpb-hop-ccn-ubnd-tinh-2026-10-06-tom-tat.docx`. Kính thưa 04 dòng (Chủ tịch; PCT Thường trực; PCT phụ trách; lãnh đạo sở, ngành, đơn vị, UBND xã, phường dự họp); mở đầu một câu nêu đã gửi Báo cáo đầy đủ + báo trước 04 nội dung; 04 đề mục `1. Về … / 2. Về … / 3. Về nguyên nhân … / 4. Những việc đề nghị UBND tỉnh chỉ đạo` bám đúng thứ tự Báo cáo; mục 4 dùng "Một là … Năm là", mỗi ý một việc + cơ quan + mốc; nguyên nhân nêu đủ 03 nhóm, có câu "UBND tỉnh đã nhiều lần chỉ đạo tại …" và "Sở … nhận trách nhiệm …"; kết bằng cam kết đôn đốc + "Xin trân trọng cảm ơn các đồng chí!". **Số liệu chép đúng Báo cáo cùng kỳ** (plugin `kccn-sct-vn` ref 44), không thêm số mới; tên 03 cụm Phú Thịnh viết đủ.
 
 Mặc định bài phát biểu do **Giám đốc Sở Hoàng Chí Hiền** trình bày ("thay mặt Sở
 Công Thương / thay mặt ngành Công Thương, tôi…"). Nếu Phó Giám đốc đọc, đổi cách

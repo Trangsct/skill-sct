@@ -2,7 +2,7 @@
 
 > NGUỒN: phiên làm việc 04/10/2026 — (1) file Excel của Phòng *Danh mục thu hút đầu tư các CCN đến năm 2030 theo QĐ số 1382 cập nhật đến 02/10/2026*; (2) file Excel *Danh mục thu hút đầu tư KCN giai đoạn 2026-2030 theo QĐ số 1382 đến 21/8/2026*; (3) các mốc Bạn chốt trực tiếp ngày 04/10/2026; (4) ref 40, 41, 42 của plugin. Số, ngày văn bản ở mục B chép từ file Excel của Phòng, **chưa soi bản gốc** — khi viện dẫn vào văn bản hành chính phải tra sổ văn bản.
 >
-> ⚠️ SỐ LIỆU ĐỘNG — chốt đến **hết ngày 01/10/2026**. Reference này MỚI NHẤT về: cách phân nhóm 52 CCN trong danh mục, tổng diện tích - tổng mức đầu tư từng nhóm, trạng thái 05 KCN đã chấp thuận chủ trương đầu tư và 09 KCN đang thu hút. Hiện trạng GPMB từng cụm vẫn lấy ở ref `42`; bậc thủ tục lấy ở ref `41` cộng các thay đổi ở mục B dưới đây.
+> ⚠️ SỐ LIỆU ĐỘNG — chốt đến **hết ngày 01/10/2026**. Reference này MỚI NHẤT về: cách phân nhóm 52 CCN trong danh mục, tổng diện tích - tổng mức đầu tư từng nhóm, trạng thái 05 KCN đã chấp thuận chủ trương đầu tư và 09 KCN đang thu hút. Hiện trạng GPMB từng cụm vẫn lấy ở ref `42`; bậc thủ tục lấy ở ref `41` cộng các thay đổi ở mục B dưới đây. Hiện trạng, mốc giao việc từng cụm đến 05/10/2026 và khung Báo cáo họp UBND tỉnh: ref `44` (mới hơn).
 
 ## A. BẠN CHỐT NGÀY 04/10/2026
 

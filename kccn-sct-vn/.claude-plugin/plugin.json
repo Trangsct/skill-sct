@@ -1,11 +1,17 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.47.0",
-  "description": "Ref 43 (04/10/2026) MỚI NHẤT: danh mục thu hút đầu tư CCN, KCN chốt hết 01/10/2026 — 09 CCN doanh nghiệp làm CĐT, 05 cụm đã nộp hồ sơ, 22 cụm kêu gọi; KCN Cam Đường chưa khởi công. Ref 42: GPMB từng cụm theo xã, CĐT. Ref 41: bậc thủ tục, 25 CCN. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo UBND tỉnh; HĐ chấm điểm CĐT; điều kiện khởi công; tra QĐ 525, 1382, 2390, NQ 34-NQ/TU. NĐ 32/2024, 303/2026.",
+  "version": "1.48.0",
+  "description": "Ref 44 (06/10/2026) MỚI NHẤT: khung Báo cáo CCN họp UBND tỉnh do GĐ chốt (thứ tự cụm, nguyên nhân - trách nhiệm CĐT trước, mục Đề nghị UBND tỉnh chỉ đạo, 1.500 lao động/cụm 75 ha), hiện trạng 25 CCN đến 05/10/2026, đất Chè Văn Hưng 72,23 ha (BC 499/BC-SNNMT), 08 cụm NSNN trình 15/10/2026, QH 1/500 và GPXD. Ref 43: danh mục thu hút chốt 01/10/2026. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "ky-cap-nhat-06-10-2026",
+    "bao-cao-ccn-hop-ubnd-tinh-565-gm",
+    "nguyen-nhan-trach-nhiem-cdt",
+    "che-van-hung-bc-499-snnmt",
+    "bc-1107-snnmt-phu-thinh-2",
+    "qhct-1-500-gpxd",
     "ky-cap-nhat-04-10-2026",
     "danh-muc-thu-hut-chot-01-10-2026",
     "kcn-cam-duong-chua-khoi-cong",
@@ -20,12 +26,6 @@
     "qd-3480-duong-4e-thong-nhat-1",
     "qd-2071-ic18",
     "hop-chu-tich-ubnd-tinh-ccn",
-    "lap-day-ccn-29-02",
-    "bao-cao-nq34-thang-9-2026",
-    "gate-trang-thai-ho-so",
-    "qhpk-kcn-au-lau-263",
-    "nd-303-2026",
-    "luat-dau-tu-143-2025",
-    "bqlckcn-lao-cai"
+    "lap-day-ccn-29-02"
   ]
 }

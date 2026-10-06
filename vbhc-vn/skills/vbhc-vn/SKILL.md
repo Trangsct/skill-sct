@@ -59,8 +59,10 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 2. **Không đụng bảng header, bảng chữ ký, đường Line**; không xóa/thêm paragraph trong ô bảng.
 3. **Không chèn ngắt dòng cứng** `\n`/`<w:br/>` trong một paragraph — tách thành paragraph riêng.
 4. **Không giao PDF** cho người dùng; sản phẩm cuối chỉ là .docx.
-5. **Người ký theo lĩnh vực**: KCN, CCN, ATTP → PGĐ Nguyễn Đình Chiến; HHNH, hóa chất, VLNCN,
-   khoáng sản, môi trường, PCCC, ATVSLĐ, năng lượng, thương mại → PGĐ Hoàng Văn Thuân; TTr UBND
+5. **Người ký theo lĩnh vực** (QĐ 6286/QĐ-SCT ngày 05/10/2026): Phòng QLCN — KCN, CCN, ATTP, hóa chất,
+   VLNCN, PCTT (dự kiến cả HHNH, PCCC) → PGĐ Nguyễn Đình Chiến; khai thác, chế biến khoáng sản, thiết kế mỏ,
+   CN môi trường, ATVSLĐ → PGĐ Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → PGĐ Phạm Năng Chung;
+   năng lượng → PGĐ Nguyễn Trường Giang; thương mại → PGĐ Trịnh Văn Thành / Nguyễn Huy Tưởng; TTr UBND
    tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.
 6. **Dòng Lưu KHÔNG ghi tên chuyên viên** (Bạn chốt 01/10/2026): `Lưu: VT, CN.`; công văn nội bộ
    Phòng `Lưu: CN.`. `build_vb.py` và `TemplateDoc.save()` tự bỏ tên còn sót trong mẫu thật cũ; R07 WARN nếu còn tên.

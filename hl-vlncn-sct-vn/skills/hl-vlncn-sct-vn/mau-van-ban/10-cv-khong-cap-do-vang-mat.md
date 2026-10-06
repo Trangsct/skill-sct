@@ -20,5 +20,5 @@ tiếp theo.]
 Sở Công Thương thông báo cho [Tên đơn vị] được biết và thực hiện./.
 
 Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN.
-Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân
+Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 ```

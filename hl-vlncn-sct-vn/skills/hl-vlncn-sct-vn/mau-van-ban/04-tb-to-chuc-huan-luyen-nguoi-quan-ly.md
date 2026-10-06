@@ -20,7 +20,7 @@ trên địa bàn tỉnh Lào Cai.
 Sở Công Thương Lào Cai thông báo cho các đơn vị hoạt động vật liệu nổ công nghiệp trên
 địa bàn tỉnh được biết và triển khai thực hiện./.
 
-Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân. Nơi nhận: Như trên; Ban Giám đốc Sở;
+Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến. Nơi nhận: Như trên; Ban Giám đốc Sở;
 Lưu: VT, CN.
 ```
 

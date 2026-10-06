@@ -25,7 +25,7 @@ Nguồn: bộ sản phẩm Bạn duyệt ngày 06/9/2026 (Báo cáo 9 tháng, B�
 
 ## 2. Phụ biểu theo dõi, đánh giá kết quả nhiệm vụ giao ban (phần Phòng QLCN)
 
-Mẫu `examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx` (khổ ngang, bảng 7 cột: Lãnh đạo phụ trách | Phòng/Đơn vị | Công việc cụ thể được giao | Hoàn thành | Đang triển khai | Chưa thực hiện | Ghi chú). Phòng QLCN có 2 khối: "5. Ông Hoàng Văn Thuân (PGĐ 3)" và "6. Ông Nguyễn Đình Chiến (PGĐ 4)", cột 1–2 gộp dọc (vMerge) theo khối.
+Mẫu `examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx` (khổ ngang, bảng 7 cột: Lãnh đạo phụ trách | Phòng/Đơn vị | Công việc cụ thể được giao | Hoàn thành | Đang triển khai | Chưa thực hiện | Ghi chú). Phòng QLCN có 2 khối: "5. Ông Hoàng Văn Thuân (PGĐ 3)" và "6. Ông Nguyễn Đình Chiến (PGĐ 4)", cột 1–2 gộp dọc (vMerge) theo khối (mẫu 06/9/2026 — lịch sử). Từ 05/10/2026 (QĐ 6286/QĐ-SCT) Chiến là PGĐ5 phụ trách Phòng QLCN, nhận thêm hóa chất, VLNCN, PCTT; khối Thuân (PGĐ3) chỉ còn việc khai thác, chế biến khoáng sản, CN môi trường, ATVSLĐ mà Phòng QLCN còn làm — xếp lại công việc giữa hai khối theo bảng của `sct-laocai-org-vn`, đánh số PGĐ theo QĐ 6286.
 
 Quy ước:
 - Cột "Công việc cụ thể được giao" chép NGUYÊN VĂN nhiệm vụ từ báo cáo giao ban kỳ trước của Sở (mục "Nhiệm vụ, giải pháp trong thời gian tới") + nhiệm vụ Lãnh đạo Sở/Trưởng phòng giao thêm (tin nhắn Zalo) — mỗi nhiệm vụ 1 dòng.

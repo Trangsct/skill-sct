@@ -3,7 +3,7 @@
 **BIÊN BẢN Kiểm tra hiện trường khu vực đề nghị 【sử dụng VLNCN / phê duyệt phương án nổ mìn】 của 【tên DN】**
 
 Hôm nay, hồi … giờ … ngày … tháng … năm 20…, tại 【vị trí, xã, tỉnh Lào Cai】, thành phần gồm:
-**I. Đoàn kiểm tra (Sở Công Thương chủ trì):** 1. Ông 【Hoàng Văn Thuân — PGĐ Sở / lãnh đạo Phòng QLCN】 — Trưởng đoàn; 2. Ông Vũ Việt Linh — CV Phòng QLCN; 3. 【mời: đại diện Phòng CSQLHC về TTXH (PC06) Công an tỉnh; đại diện UBND xã …; đại diện Sở Xây dựng (nếu ven quốc lộ)】.
+**I. Đoàn kiểm tra (Sở Công Thương chủ trì):** 1. Ông 【Nguyễn Đình Chiến — PGĐ Sở / lãnh đạo Phòng QLCN】 — Trưởng đoàn; 2. Ông Vũ Việt Linh — CV Phòng QLCN; 3. 【mời: đại diện Phòng CSQLHC về TTXH (PC06) Công an tỉnh; đại diện UBND xã …; đại diện Sở Xây dựng (nếu ven quốc lộ)】.
 **II. Đại diện doanh nghiệp:** 【họ tên, chức vụ; chỉ huy nổ mìn】.
 
 **III. Nội dung kiểm tra, ghi nhận:**

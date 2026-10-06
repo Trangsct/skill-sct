@@ -1,6 +1,6 @@
 # Mẫu 18 — BÁO CÁO kết quả kiểm tra của Đoàn (gửi Giám đốc Sở)
 
-> Văn bản thật: `vi-du-thuc-te/BC-1883-DKT-ket-qua-kiem-tra-VLNCN-2026.docx` — BC 1883/ĐKT-SCT ngày 08/4/2026. Header trái "SỞ CÔNG THƯƠNG LÀO CAI / ĐOÀN KIỂM TRA"; Số:      /ĐKT-SCT; Kính gửi: Giám đốc Sở Công Thương Lào Cai; ký "TM. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Hoàng Văn Thuân — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG"; **Lưu: VT, ĐKT, CN**.
+> Văn bản thật: `vi-du-thuc-te/BC-1883-DKT-ket-qua-kiem-tra-VLNCN-2026.docx` — BC 1883/ĐKT-SCT ngày 08/4/2026. Header trái "SỞ CÔNG THƯƠNG LÀO CAI / ĐOÀN KIỂM TRA"; Số:      /ĐKT-SCT; Kính gửi: Giám đốc Sở Công Thương Lào Cai; ký "TM. ĐOÀN KIỂM TRA — TRƯỞNG ĐOÀN — Nguyễn Đình Chiến — PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG" (từ 05/10/2026; BC 1883 do PGĐ Hoàng Văn Thuân ký — lịch sử); **Lưu: VT, ĐKT, CN**.
 
 **BÁO CÁO Kết quả kiểm tra việc chấp hành các quy định của pháp luật trong quản lý, bảo quản và sử dụng vật liệu nổ công nghiệp**
 

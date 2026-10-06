@@ -27,7 +27,7 @@ Sở Công Thương thông báo để [Tên đơn vị] biết, chủ động b�
 kiện để đề nghị huấn luyện, kiểm tra theo quy định./.
 
 Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN.
-Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân
+Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 ```
 
 ## Biến thể — hồ sơ thiếu thành phần (đối tượng khác)

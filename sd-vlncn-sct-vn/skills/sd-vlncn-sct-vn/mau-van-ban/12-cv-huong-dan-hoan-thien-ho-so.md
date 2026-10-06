@@ -1,6 +1,6 @@
 # Mẫu 12 — CÔNG VĂN hướng dẫn doanh nghiệp hoàn thiện hồ sơ
 
-> Khung docx thật: `vi-du-thuc-te/CV-hoan-thien-ho-so-PANM-Van-Thang.docx`. Số:      /SCT-CN; ký KT.GĐ — PGĐ Hoàng Văn Thuân; Lưu: VT, CN. Nếu hồ sơ đến từ VP UBND tỉnh: mở đầu dẫn Phiếu chuyển số 【…/PC-VPUBND】, đồng gửi "UBND tỉnh (b/c)".
+> Khung docx thật: `vi-du-thuc-te/CV-hoan-thien-ho-so-PANM-Van-Thang.docx`. Số:      /SCT-CN; ký KT.GĐ — PGĐ Nguyễn Đình Chiến; Lưu: VT, CN. Nếu hồ sơ đến từ VP UBND tỉnh: mở đầu dẫn Phiếu chuyển số 【…/PC-VPUBND】, đồng gửi "UBND tỉnh (b/c)".
 
 **V/v hoàn thiện hồ sơ đề nghị 【phê duyệt Phương án nổ mìn / cấp Giấy phép sử dụng VLNCN】**
 
@@ -20,7 +20,7 @@ Hồ sơ hoàn thiện đề nghị nộp trực tuyến trên Cổng dịch v�
 
 ## BIẾN THỂ CHUẨN MỚI (từ 22/7/2026) — CÔNG VĂN TRẢ LẠI HỒ SƠ (hồ sơ TTHC chưa đủ điều kiện)
 
-> Khung docx thật: `vi-du-thuc-te/CV-tra-lai-ho-so-GPSD-VLNCN-Mong-Son.docx` (bản đã ban hành nội bộ, PGĐ Hoàng Văn Thuân ký, Lưu: VT, CN). Dùng biến thể này thay khung cũ khi hồ sơ đề nghị cấp GP sử dụng VLNCN chưa đủ điều kiện.
+> Khung docx thật: `vi-du-thuc-te/CV-tra-lai-ho-so-GPSD-VLNCN-Mong-Son.docx` (bản đã ban hành nội bộ, PGĐ Hoàng Văn Thuân ký — lịch sử; từ 05/10/2026 đổi khối ký sang PGĐ Nguyễn Đình Chiến; Lưu: VT, CN). Dùng biến thể này thay khung cũ khi hồ sơ đề nghị cấp GP sử dụng VLNCN chưa đủ điều kiện.
 
 **V/v trả lại hồ sơ đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp**
 

@@ -100,7 +100,7 @@ Có → SCT có thể là CQCM về xây dựng. Gồm: kho VLNCN, nhà máy - k
 
 ## V. NGƯỜI KÝ, NGƯỜI SOẠN (khớp `sct-laocai-org-vn`)
 
-- Lĩnh vực **thẩm định công trình công nghiệp** thuộc **PGĐ Hoàng Văn Thuân** phụ trách (tham gia quản lý dự án CN) → văn bản thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân**. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền (cân nhắc theo vụ việc).
+- Người ký theo **QĐ 6286/QĐ-SCT ngày 05/10/2026**: công trình **khai thác, chế biến khoáng sản (mỏ)** → **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (QĐ ghi đích danh thẩm định dự án, thiết kế khai thác, chế biến khoáng sản); **công trình công nghiệp khác** (kho VLNCN, kho hóa chất, nhà máy CN, hạ tầng CCN) → **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (phụ trách Phòng QLCN — dự kiến, Bạn chốt 06/10/2026). Trước 05/10/2026 PGĐ Thuân ký cả hai nhóm — lịch sử. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền (cân nhắc theo vụ việc).
 - PTP QLCN phụ trách "tham gia quản lý các dự án công nghiệp": **Trần Trọng Trang**.
 - **Lưu VT, CN:** văn bản về thẩm định BCNCKT/BCKTKT/thiết kế, KTCTNT, sự cố công trình công nghiệp → **CV Dũng** — Ngô Ngọc Dũng; kiểm duyệt nội bộ từ 10/7/2026: **PTP Nguyễn Hồng Vân** (thẩm định + KTCTNT thuộc phân công PTP Vân — xem skill `sct-laocai-org-vn`). Riêng công trình **kho VLNCN**, khi nghiệp vụ đan xen VLNCN thì phối hợp **CV Khôi** — Trần Đăng Khôi (từ 10/7/2026; trước đó CV Linh — Vũ Việt Linh) (xem plugin `kho-vlncn-sct-vn`, `sd-vlncn-sct-vn`).
 - Ký hiệu: công văn `/SCT-CN`; thông báo `/TB-SCT`; tờ trình `/TTr-SCT`; báo cáo `/BC-SCT`; QĐ UBND `/QĐ-UBND`.

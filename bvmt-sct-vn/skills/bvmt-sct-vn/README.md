@@ -64,7 +64,7 @@ bvmt-sct-vn/
 ## Tổ chức & người ký (mặc định)
 
 - **Chuyên viên tham mưu:** CV M.Long — Lê Minh Long (môi trường/KNK/các-bon/công nghiệp môi trường). Dòng lưu: **Lưu: VT, CN**.
-- **Người ký:** KT.GĐ – PGĐ **Hoàng Văn Thuân** (môi trường, khoáng sản, hóa chất); văn bản cấp tỉnh: GĐ **Hoàng Chí Hiền**.
+- **Người ký:** KT.GĐ – PGĐ **Hoàng Văn Thuân** (CN môi trường, BVMT, khai thác - chế biến khoáng sản — QĐ 6286/QĐ-SCT ngày 05/10/2026; hóa chất nay PGĐ Nguyễn Đình Chiến); văn bản cấp tỉnh: GĐ **Hoàng Chí Hiền**.
 - **Ký hiệu:** SCT-CN.
 
 ## Cách cài đặt

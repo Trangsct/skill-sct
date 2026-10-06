@@ -12,7 +12,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM — Độc lập – Tự do – H
 Hôm nay, ngày … tháng … năm 20…, Sở Công Thương tỉnh Lào Cai tiến hành kiểm tra công tác nghiệm thu hoàn thành công trình xây dựng kho chứa VLNCN phục vụ thi công công trình thuộc Dự án {…} tại xã {…}, tỉnh Lào Cai; cụ thể như sau:
 
 **I. THÀNH PHẦN**
-1. Đại diện Sở Công Thương tỉnh Lào Cai: {Ông Hoàng Văn Thuân — Phó Giám đốc; Ông Đỗ Mạnh Cương — Phó Trưởng phòng QLCN; Ông Vũ Việt Linh — Chuyên viên phòng QLCN; Ông Ngô Ngọc Dũng — Chuyên viên phòng QLCN} *(điều chỉnh theo QĐ/phân công thực tế)*.
+1. Đại diện Sở Công Thương tỉnh Lào Cai: {Ông Nguyễn Đình Chiến — Phó Giám đốc; Ông Đỗ Mạnh Cường — Phó Trưởng phòng QLCN; Ông Vũ Việt Linh — Chuyên viên phòng QLCN; Ông Ngô Ngọc Dũng — Chuyên viên phòng QLCN} *(điều chỉnh theo QĐ/phân công thực tế)*.
 2. Đại diện {Chủ đầu tư — kiêm đơn vị thi công nếu tự thực hiện}: {họ tên — chức vụ từng người}.
 3. Đại diện {nhà thầu tư vấn thiết kế/thẩm tra/giám sát}: {…}.
 

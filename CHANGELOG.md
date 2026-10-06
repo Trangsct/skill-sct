@@ -1,3 +1,10 @@
+## 06/10/2026 — Phân công Ban Giám đốc mới (QĐ 6286/QĐ-SCT ngày 05/10/2026): PGĐ Chiến ký hóa chất, VLNCN thay PGĐ Thuân (15 plugin)
+
+- QĐ 6286/QĐ-SCT ngày 05/10/2026 của Giám đốc Sở (thay QĐ 766/QĐ-SCT ngày 12/02/2026): GĐ + 6 PGĐ. **PGĐ Nguyễn Đình Chiến** phụ trách Phòng QLCN, nhận thêm **hóa chất, VLNCN, PCTT-TKCN**; **PGĐ Hoàng Văn Thuân** phụ trách **Phòng Quản lý Khoáng sản** (mới), giữ khai thác - chế biến khoáng sản, thiết kế mỏ, luyện kim, CN môi trường, ATVSLĐ, địa chất; **PGĐ Phạm Năng Chung** (mới) — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, KS làm VLXD. Xử lý thay khi vắng: Chiến ↔ Giang, Thuân ↔ Chung, Thành ↔ Tưởng.
+- Bạn chốt 06/10/2026: dự kiến PGĐ Chiến ký thay PGĐ Thuân cả các việc Phòng QLCN mà QĐ không ghi đích danh (HHNH, PCCC, an toàn ngành ngoài ATVSLĐ, KTCTNT công trình CN không thuộc mỏ). Văn bản đã ký trước 05/10/2026 giữ nguyên (lịch sử).
+- sct-laocai-org-vn 2.6.0 (viết lại mục Ban Giám đốc, routing, khối ký, xã theo dõi); đổi khối ký, Phiếu trình, trưởng đoàn sang PGĐ Chiến: sd-vlncn-sct-vn 2026.10.6.1, kho-vlncn-sct-vn 1.12.2, hl-vlncn-sct-vn 1.4.5, hc-sct-vn 1.3.2, hnh-sct-vn 1.11.2, pccc-sct-vn 1.3.2; quy tắc người ký: vbhc-vn 2.28.1, xd-sct-vn 1.6.2; khoáng sản tách Thuân/Chung: qlks-sct-vn 2.1.2, tkm-sct-vn 1.4.2, quy-hoach-ct-vn 1.4.2; sửa ghi cũ gán năng lượng/hóa chất cho PGĐ Thuân: bvmt-sct-vn 1.6.2, dacn-sct-vn 1.6.3, xp-sct-vn 1.6.2.
+- `scripts/check_facts.py`: rule `pgd-chien-ky-hoa-chat-vlncn-hhnh` (FAIL — 6 plugin hóa chất, VLNCN, HHNH, PCCC), `phan-cong-bgd-du-thao-lan-4` (FAIL); thêm khóa `skip_rel` bỏ qua từng file. `registry/trang-thai.csv`: ghi chú người ký QĐ 2867.
+
 ## kccn-sct-vn 1.48.1 — 06/10/2026: tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp đã GPMB
 
 - Bạn chốt sau cuộc họp UBND tỉnh 06/10/2026: tỷ lệ lấp đầy bình quân tính trên diện tích đất công nghiệp đã giải phóng mặt bằng, không chia cho toàn bộ đất CN quy hoạch của 25 cụm; 26,96% trong Báo cáo 05/10/2026 là cách tính cũ, bị phê bình. Ref 44 mục B.6; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb` (FAIL).

@@ -1,7 +1,7 @@
 # Mẫu 23 — BỘ ĐÔI: Công văn Sở đề nghị + Dự thảo Công văn UBND tỉnh chỉ đạo tăng cường quản lý VLNCN
 
 > **KHUNG CHUẨN = BẢN CUỐI BẠN CHỐT 06/9/2026** (sau 3 vòng Lãnh đạo Sở góp ý; đây là "văn bản của Bạn", soạn lại loại này phải theo đúng nhịp này):
-> - `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-cuoi-6.9.2026.docx` — Công văn Sở, 1 trang, /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân, Lưu: VT, CN.
+> - `vi-du-thuc-te/CV-SCT-de-nghi-UBND-tinh-ban-hanh-chi-dao-VLNCN-ban-cuoi-6.9.2026.docx` — Công văn Sở, 1 trang, /SCT-CN, KT. GIÁM ĐỐC PGĐ Hoàng Văn Thuân (lịch sử — từ 05/10/2026 PGĐ Nguyễn Đình Chiến ký), Lưu: VT, CN.
 > - `vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-cuoi-6.9.2026.docx` — Dự thảo của UBND tỉnh, 4 trang, /UBND-KT, KT. CHỦ TỊCH PCT Nguyễn Thành Sinh, Lưu: VT, KT.
 > - Các bản 23.8.2026 và bản sửa trung gian 06/9 đã gỡ khỏi plugin (lịch sử ở CHANGELOG). Hai file cuối do Bạn lưu lại từ Word nên run "Số:" mất sz tường minh — qa_all báo SZ13 là do Word ghi lại, KHÔNG sửa file của Bạn.
 

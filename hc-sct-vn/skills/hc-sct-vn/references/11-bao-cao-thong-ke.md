@@ -42,5 +42,5 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 27, 28, 41); Nghị định 25/20
 
 - Số liệu từ báo cáo DN + dữ liệu chuyên ngành; **không dùng số liệu hiện trạng cũ trong skill** — hỏi Bạn số thực tế kỳ báo cáo.
 - Căn cứ pháp lý: dùng khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01/02-2026).
-- Người ký: báo cáo/công văn thường lệ → **KT.GĐ - PGĐ Hoàng Văn Thuân**; **báo cáo/tờ trình quan trọng gửi UBND tỉnh/Bộ → GĐ Hoàng Chí Hiền**. Dòng Lưu: **`Lưu: VT, CN.`**
+- Người ký: báo cáo/công văn thường lệ → **KT.GĐ - PGĐ Nguyễn Đình Chiến** (từ 05/10/2026); **báo cáo/tờ trình quan trọng gửi UBND tỉnh/Bộ → GĐ Hoàng Chí Hiền**. Dòng Lưu: **`Lưu: VT, CN.`**
 - Kết hợp `vbhc-vn` (thể thức báo cáo, tờ trình) khi soạn.

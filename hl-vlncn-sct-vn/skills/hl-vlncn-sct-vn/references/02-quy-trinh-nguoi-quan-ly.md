@@ -25,7 +25,7 @@ B1. Tổng hợp đề nghị các DN (gộp nhiều DN một kỳ — tiền l�
     căn cứ đủ bộ (mục II SKILL.md) + "Xét đề nghị của N đơn vị gồm: … tại Văn bản số … ngày …"
     Nội dung KH: I. Mục đích, yêu cầu; II. Thời gian, địa điểm, đối tượng;
     III. Nội dung huấn luyện, kiểm tra (dẫn Điều 7 + k1 Đ9); IV. Kinh phí; V. Tổ chức thực hiện.
-    Ký: KT. GĐ — PGĐ Hoàng Văn Thuân. TRONG 05 NGÀY làm việc kể từ nhận đủ hồ sơ hợp lệ.
+    Ký: KT. GĐ — PGĐ Nguyễn Đình Chiến (từ 05/10/2026). TRONG 05 NGÀY làm việc kể từ nhận đủ hồ sơ hợp lệ.
 B2. THÔNG BÁO /SCT-CN gửi các đơn vị (mẫu 04): thời gian (1,5 ngày, bắt đầu 13h30'
     thứ …, ngày …), địa điểm (Hội trường tầng 3, Nhà 3, số 165 Lý Thường Kiệt,
     phường Yên Bái, tỉnh Lào Cai — hoặc địa điểm khác), đối tượng, nội dung dẫn ĐIỀU 7.

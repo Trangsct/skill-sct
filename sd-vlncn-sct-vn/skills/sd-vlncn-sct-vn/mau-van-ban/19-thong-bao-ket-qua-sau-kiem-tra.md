@@ -1,6 +1,6 @@
 # Mẫu 19 — THÔNG BÁO kết quả sau kiểm tra (Sở gửi các đơn vị được kiểm tra)
 
-> Văn bản thật: `vi-du-thuc-te/TB-1894-ket-qua-sau-kiem-tra-VLNCN.docx` (+ bản ký .pdf) — TB 1894/TB-SCT ngày 09/4/2026. Header "UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG"; Số:      /TB-SCT; ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**; Lưu: VT, CN. Đây là văn bản "đầu ra" của chuỗi kiểm tra gửi doanh nghiệp (Báo cáo mẫu 18 là nội bộ gửi GĐ Sở).
+> Văn bản thật: `vi-du-thuc-te/TB-1894-ket-qua-sau-kiem-tra-VLNCN.docx` (+ bản ký .pdf) — TB 1894/TB-SCT ngày 09/4/2026. Header "UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG"; Số:      /TB-SCT; ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026; TB 1894 do PGĐ Hoàng Văn Thuân ký — lịch sử); Lưu: VT, CN. Đây là văn bản "đầu ra" của chuỗi kiểm tra gửi doanh nghiệp (Báo cáo mẫu 18 là nội bộ gửi GĐ Sở).
 
 **THÔNG BÁO Kết quả kiểm tra việc chấp hành quy định của pháp luật trong sử dụng và bảo quản vật liệu nổ công nghiệp**
 

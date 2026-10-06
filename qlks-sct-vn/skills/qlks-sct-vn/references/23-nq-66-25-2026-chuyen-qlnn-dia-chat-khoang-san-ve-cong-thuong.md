@@ -122,7 +122,7 @@ b) **NĐ 193/2025/NĐ-CP** (sửa bởi NĐ 21/2026): **Điều 25**.
 4. **Thông báo cho doanh nghiệp**: giấy phép cũ giữ nguyên giá trị, không phải nộp lại hồ sơ/phí (Điều 4 k1, k2) — mẫu công văn thông báo: `mau-van-ban/01`.
 5. Rà soát **các kế hoạch của UBND tỉnh đang giao SNNMT** (KH 200, 218, 133/KH-UBND; Chỉ thị 11-CT/TU; QĐ 777/QĐ-UBND) → tham mưu điều chỉnh cơ quan chủ trì.
 6. Rà soát VBQPPL của tỉnh (quy chế phối hợp, quy định đấu giá, bảo vệ KS chưa khai thác) theo Điều 7 k5a.
-7. Chuẩn bị nhân lực: chuyên viên khoáng sản hiện có CV Dũng, CV Nhung, CV Khôi; PGĐ phụ trách Hoàng Văn Thuân (tra `sct-laocai-org-vn`); đề xuất tiếp nhận công chức từ Phòng Khoáng sản SNNMT theo Điều 7 k3, k5c.
+7. Chuẩn bị nhân lực: chuyên viên khoáng sản hiện có CV Dũng, CV Nhung, CV Khôi; PGĐ phụ trách Hoàng Văn Thuân (Phòng Quản lý Khoáng sản, khai thác - chế biến) và Phạm Năng Chung (cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ) theo QĐ 6286/QĐ-SCT ngày 05/10/2026 (tra `sct-laocai-org-vn`); đề xuất tiếp nhận công chức từ Phòng Khoáng sản SNNMT theo Điều 7 k3, k5c.
 
 ## VI. NGUYÊN TẮC HÀNH VĂN SAU 15/9/2026
 

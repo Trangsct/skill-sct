@@ -121,7 +121,7 @@ Bốn vụ đã thẩm định làm chuẩn đối chiếu: cát sỏi Ngòi Thi
 
 ## VII. NGƯỜI KÝ, NGƯỜI SOẠN, KÝ HIỆU (khớp `sct-laocai-org-vn`)
 
-- PGĐ phụ trách khoáng sản: **Hoàng Văn Thuân** ký KT. GIÁM ĐỐC các văn bản chuyên ngành; Tờ trình UBND tỉnh, báo cáo quan trọng: GĐ **Hoàng Chí Hiền**.
+- PGĐ phụ trách theo **QĐ 6286/QĐ-SCT ngày 05/10/2026**: **Hoàng Văn Thuân** (phụ trách **Phòng Quản lý Khoáng sản**) ký KT. GIÁM ĐỐC văn bản về địa chất, khai thác, chế biến khoáng sản, an toàn, thiết kế mỏ, kiểm tra, xử lý vi phạm khai thác; **Phạm Năng Chung** ký văn bản về đánh giá tiềm năng, thẩm định đề án, công nhận trữ lượng, khoanh định khu vực, **cấp phép (đầu mối tham mưu), đóng cửa mỏ, tiền cấp quyền, đấu giá, dữ liệu, thống kê - kiểm kê, khoáng sản làm VLXD**; hai PGĐ xử lý thay nhau khi vắng. VLNCN cho mỏ → PGĐ Nguyễn Đình Chiến. Tờ trình UBND tỉnh, báo cáo quan trọng: GĐ **Hoàng Chí Hiền**. Ký hiệu và dòng Lưu của Phòng Quản lý Khoáng sản: hỏi Bạn (đến khi có, văn bản Phòng QLCN soạn vẫn `SCT-CN`, `Lưu: VT, CN.`).
 - PTP kiểm duyệt lĩnh vực khoáng sản, hóa chất: **Nguyễn Hồng Vân**.
 - Chuyên viên tham mưu (dòng Lưu chỉ ghi `Lưu: VT, CN.`): **CV Dũng** — thẩm định công trình/khoáng sản, kiểm tra mỏ; **CV Nhung** — khoáng sản chế biến - luyện kim; **CV Khôi** — khi gắn VLNCN/GCN huấn luyện VLNCN. Ví dụ: `Lưu: VT, CN.`
 - Ký hiệu: công văn `/SCT-CN`; báo cáo `/BC-SCT`; kế hoạch `/KH-SCT`; tờ trình `/TTr-SCT`.

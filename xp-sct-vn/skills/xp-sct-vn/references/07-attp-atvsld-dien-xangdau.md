@@ -25,7 +25,7 @@ Bảng định tuyến ngắn cho các lĩnh vực Sở phụ trách nhưng chư
 | Thẩm quyền (nguyên văn) | **Đ54 lập biên bản**: công chức, viên chức **Sở Nội vụ** (k2), công chức văn hóa – xã hội cấp xã (k3), Bộ Nội vụ, BHXH, Công an (hành vi liệt kê), Trưởng đoàn/Thanh tra viên đoàn thanh tra — **không có công chức Sở Công Thương**. **Đ55**: Chủ tịch xã 37,5 tr; tỉnh 75 tr (lao động, BHXH). **Đ61**: Giám đốc Sở Nội vụ 60 tr; Cục trưởng Cục Việc làm, Cục Tiền lương–BHXH 75 tr; Trưởng đoàn kiểm tra do Bộ trưởng Nội vụ/Tài chính/Ngoại giao lập 75 tr. Tổ chức ×2 (k1 Đ63) |
 | Sở Công Thương | **Không lập biên bản, không xử phạt** theo NĐ 283 → ghi nhận, chuyển Sở Nội vụ (`mau-van-ban/09`) kèm danh sách thiết bị/người chưa kiểm định/huấn luyện (mức phạt theo số lượng nên bảng kê là chứng cứ chính). Sở chỉ phạt được góc độ VLNCN: điểm c k3 Đ60 NĐ 275/2026 "không kiểm định máy, thiết bị nghiêm ngặt ATVSLĐ" dùng trong nổ mìn. Bộ CT quản lý thiết bị đặc thù ngành CT (Điều 33 Luật ATVSLĐ 2015; thông tư danh mục — GATE số hiện hành) — là căn cứ kiểm tra, không phải căn cứ phạt |
 
-## C. Điện lực (phòng QLNL; PGĐ Thuân)
+## C. Điện lực (phòng QLNL; PGĐ Nguyễn Trường Giang — QĐ 6286/QĐ-SCT)
 
 | Nội dung | Quy định |
 |---|---|

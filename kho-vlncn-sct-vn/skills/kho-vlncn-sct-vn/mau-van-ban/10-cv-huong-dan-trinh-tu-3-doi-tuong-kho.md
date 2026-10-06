@@ -1,6 +1,6 @@
 # Mẫu 10 — Công văn hướng dẫn trình tự, các bước thực hiện theo 3 đối tượng kho (cố định xây mới, kho tạm, kho hiện hữu)
 
-> Soạn 25/9/2026 trên khung công văn kho VLNCN của Sở (build_vb.py, QA qa_all PASS, 6 trang). Người ký: KT. GĐ - PGĐ Hoàng Văn Thuân; Lưu: VT, CN.
+> Soạn 25/9/2026 trên khung công văn kho VLNCN của Sở (build_vb.py, QA qa_all PASS, 6 trang). Người ký: KT. GĐ - PGĐ Nguyễn Đình Chiến (từ 05/10/2026, QĐ 6286/QĐ-SCT; bản soạn 25/9/2026 trình PGĐ Thuân — lịch sử); Lưu: VT, CN.
 > Trích yếu: V/v hướng dẫn trình tự, các bước thực hiện đối với kho vật liệu nổ công nghiệp xây dựng mới, kho tạm và kho hiện hữu.
 > Căn cứ chính: Luật 135/2025 (Đ27, Đ29, Đ43, Đ72); NĐ 217/2026 (Đ32, Đ35, Đ36, Đ41, Đ42, PL IV); NĐ 207/2026 (Đ15, Đ20, Đ22-29, Đ34, Đ36, Đ53); NĐ 105/2025 sđ NĐ 347/2026; TT 32/2026/TT-BXD Điều 4; NĐ 212/2026; QCVN 01:2019/BCT (Đ5, PL7, PL10, PL11); QĐ 11/2026/QĐ-UBND.
 

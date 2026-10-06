@@ -14,7 +14,7 @@ Từ Luật Thanh tra 84/2025 (hiệu lực 01/7/2025), **các sở không còn 
 
 ## 3. Trình tự cuộc kiểm tra
 
-1. **Ban hành Quyết định kiểm tra** (Giám đốc Sở ký) — thành lập **Đoàn kiểm tra** (Trưởng đoàn thường là **PGĐ Hoàng Văn Thuân** phụ trách hóa chất; Phó Trưởng đoàn: lãnh đạo Phòng QLCN; thành viên + thư ký: chuyên viên). Xác định phạm vi, thời kỳ, thời hạn, danh sách đơn vị (phụ lục kèm). Mẫu: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.docx`.
+1. **Ban hành Quyết định kiểm tra** (Giám đốc Sở ký) — thành lập **Đoàn kiểm tra** (Trưởng đoàn thường là **PGĐ phụ trách hóa chất** — từ 05/10/2026 **PGĐ Nguyễn Đình Chiến**, đoàn 2026 trước đó do PGĐ Thuân làm trưởng đoàn; Phó Trưởng đoàn: lãnh đạo Phòng QLCN; thành viên + thư ký: chuyên viên). Xác định phạm vi, thời kỳ, thời hạn, danh sách đơn vị (phụ lục kèm). Mẫu: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.docx`.
 2. **Thông báo/công bố** Quyết định; **CV thông báo thời gian kiểm tra thực tế** cho đơn vị (mẫu: `vi-du-thuc-te/kiem-tra/CV-thong-bao-thoi-gian-kiem-tra-thuc-te.docx`).
 3. **Kiểm tra thực tế** tại cơ sở; lập **Biên bản kiểm tra** ghi nhận hiện trạng, đối chiếu quy định.
 4. **Kết luận kiểm tra**; kiến nghị khắc phục; nếu phát hiện vi phạm cần xử phạt → **chuyển hồ sơ/kiến nghị** sang bộ phận xử phạt (plugin xử phạt riêng).

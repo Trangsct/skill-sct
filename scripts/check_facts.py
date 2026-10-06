@@ -22,6 +22,7 @@ Cách viết một rule:
     "level": "FAIL" | "WARN",
     "only": ["sd-vlncn-sct-vn"],    # (tùy chọn) chỉ quét các plugin này
     "skip": ["vbhc-vn"],            # (tùy chọn) bỏ qua các plugin này
+    "skip_rel": ["references/07-vi-du-thuc-te.md"],  # (tùy chọn) bỏ qua các file này (đường dẫn trong skill)
   }
 """
 import re
@@ -42,6 +43,26 @@ ALLOW_LINE = re.compile(
 )
 
 RULES = [
+    {
+        "id": "pgd-chien-ky-hoa-chat-vlncn-hhnh",
+        # QĐ 6286/QĐ-SCT ngày 05/10/2026 (phân công BGĐ, thay QĐ 766): PGĐ Nguyễn Đình Chiến phụ trách Phòng QLCN, hóa chất,
+        # VLNCN, PCTT; Bạn chốt 06/10/2026 dự kiến Chiến ký cả HHNH, PCCC. PGĐ Thuân giữ khai thác - chế biến khoáng sản,
+        # thiết kế mỏ, CN môi trường, ATVSLĐ. Dòng nói văn bản đã ký trước 05/10/2026 ghi kèm "lịch sử"/"đến 04/10/2026".
+        "pattern": r"^(?!.*(?:05/10/2026|04/10/2026|lịch sử|trước đó)).*(KT\.? ?(GĐ|GIÁM ĐỐC)[^\n]{0,40}Thuân|PGĐ (Hoàng Văn )?Thuân\**[^\n]{0,20}(ký|phụ trách|chủ trì)|Kính gửi[^\n]{0,40}Thuân|Trưởng đoàn[^\n]{0,20}Thuân|Thuân — Phó Giám đốc)",
+        "why": "Từ 05/10/2026 (QĐ 6286/QĐ-SCT) hóa chất, VLNCN (GP sử dụng /GP-SCT, kho, huấn luyện), tiền chất, PCTT do PGĐ Nguyễn Đình Chiến phụ trách và ký KT.GĐ; HHNH, PCCC dự kiến cũng PGĐ Chiến (Bạn chốt 06/10/2026). Văn bản đã ký trước đó ghi rõ 'lịch sử' (sct-laocai-org-vn mục Ban Giám đốc).",
+        "since": "2026-10-05",
+        "level": "FAIL",
+        "only": ["hc-sct-vn", "sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn", "hnh-sct-vn", "pccc-sct-vn"],
+        "skip_rel": ["references/07-vi-du-thuc-te.md"],  # nhật ký văn bản đã ký — lịch sử
+    },
+    {
+        "id": "phan-cong-bgd-du-thao-lan-4",
+        # Phân công BGĐ hiện hành là QĐ 6286/QĐ-SCT ngày 05/10/2026; "Dự thảo Lần 4" (thành QĐ 766 ngày 12/02/2026) đã bị thay.
+        "pattern": r"^(?!.*(?:6286|lịch sử|trước đây)).*(Dự thảo Lần 4|QĐ 3488/QĐ-SCT)[^\n]{0,60}(hiện hành|phân công)",
+        "why": "Phân công nhiệm vụ Ban Giám đốc hiện hành là QĐ 6286/QĐ-SCT ngày 05/10/2026 (GĐ + 6 PGĐ), thay QĐ 766/QĐ-SCT ngày 12/02/2026 (sct-laocai-org-vn).",
+        "since": "2026-10-05",
+        "level": "FAIL",
+    },
     {
         "id": "ccn-thu-tu-phu-thinh-1-2-3",
         # Bạn chốt 05/10/2026 (Báo cáo họp UBND tỉnh 06/10): ba cụm Phú Thịnh xếp theo thứ tự 1, 2, 3 — "đừng 3, 2, 1".
@@ -287,7 +308,7 @@ RULES = [
         "id": "gp-ubnd-sau-2867",
         # "dự thảo Giấy phép (GP-UBND)", "ký GP-UBND", "trình Chủ tịch UBND tỉnh ký GP" — sau 20/8/2026 GP sử dụng VLNCN là /GP-SCT
         "pattern": r"(dự thảo giấy phép \(GP-UBND\)|Chủ tịch UBND tỉnh ký GP-UBND|GP sử dụng vẫn do Chủ tịch|ký hiệu dự kiến `/GP-SCT`)",
-        "why": "Từ 20/8/2026 GP sử dụng VLNCN do Sở cấp theo QĐ 2867/QĐ-UBND, ký hiệu /GP-SCT, KT. GĐ – PGĐ Hoàng Văn Thuân ký (thu hồi GP, phê duyệt PANM vẫn UBND tỉnh).",
+        "why": "Từ 20/8/2026 GP sử dụng VLNCN do Sở cấp theo QĐ 2867/QĐ-UBND, ký hiệu /GP-SCT, KT. GĐ – PGĐ phụ trách VLNCN ký (từ 05/10/2026 PGĐ Nguyễn Đình Chiến; thu hồi GP, phê duyệt PANM vẫn UBND tỉnh).",
         "since": "2026-08-20",
         "level": "FAIL",
     },
@@ -477,6 +498,8 @@ def main():
                 if r.get("only") and plugin not in r["only"]:
                     continue
                 if plugin in r.get("skip", []):
+                    continue
+                if rel in r.get("skip_rel", []):
                     continue
                 m = rx.search(line)
                 if m:

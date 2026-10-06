@@ -4,7 +4,7 @@
 
 - **Căn cứ:** Điều 19 TT 23/2024 (sđ TT 38/2025) — UBND cấp tỉnh (SCT tham mưu) chủ trì, phối hợp cơ quan chức năng **thanh tra, kiểm tra và xử lý vi phạm** về sử dụng VLNCN, tiền chất thuốc nổ trên địa bàn; **theo dõi, giám sát** việc sử dụng VLNCN và dịch vụ nổ mìn theo thông báo của tổ chức, doanh nghiệp. Việc kiểm tra thực hiện theo pháp luật về kiểm tra chuyên ngành và kế hoạch được cấp có thẩm quyền phê duyệt (đối chiếu quy định kiểm tra hiện hành trước khi lập kế hoạch; phối hợp Thanh tra tỉnh, Công an tỉnh tránh chồng chéo).
 - **Hình thức:** (1) kiểm tra theo kế hoạch năm (SCT trình phê duyệt, thường gộp nhiều đơn vị sử dụng — tiền lệ 2025: 01 cuộc/06 đơn vị); (2) kiểm tra đột xuất khi có phản ánh, tai nạn, sự cố, chỉ đạo của UBND tỉnh; (3) kiểm tra hiện trường phục vụ thẩm định hồ sơ (GP, PANM); (4) giám sát thường xuyên qua thông báo sử dụng, báo cáo định kỳ, CSDL VLNCN.
-- **Thành phần đoàn thường lệ:** PGĐ Hoàng Văn Thuân (trưởng đoàn) hoặc lãnh đạo Phòng QLCN; Phó TP Đỗ Mạnh Cương; CV Vũ Việt Linh; CV Ngô Ngọc Dũng (khi liên quan công trình kho); mời PC06 Công an tỉnh, UBND xã.
+- **Thành phần đoàn thường lệ:** PGĐ Nguyễn Đình Chiến (trưởng đoàn, từ 05/10/2026; trước đó PGĐ Thuân) hoặc lãnh đạo Phòng QLCN; Phó TP Đỗ Mạnh Cường; CV Vũ Việt Linh; CV Ngô Ngọc Dũng (khi liên quan công trình kho); mời PC06 Công an tỉnh, UBND xã.
 
 ## B. NỘI DUNG KIỂM TRA (checklist hiện trường + hồ sơ)
 
@@ -89,7 +89,7 @@ Sử dụng, mua bán, tàng trữ, vận chuyển **trái phép** VLNCN có d�
 ```
 B1  QĐ 1050/QĐ-SCT ngày 06/3/2026 (GĐ Hoàng Chí Hiền ký) — thành lập Đoàn kiểm tra
     [mẫu 16; căn cứ có Luật XLVPHC sđ 2025 + NĐ 189/2025 + NĐ 217/2025]
-    Đoàn: Trưởng đoàn PGĐ Hoàng Văn Thuân; Phó TĐ Đỗ Mạnh Cường; TV Bùi Việt Cường
+    Đoàn (lịch sử): Trưởng đoàn PGĐ Hoàng Văn Thuân; Phó TĐ Đỗ Mạnh Cường; TV Bùi Việt Cường
     (PCCC + lập BB VPHC); TV-Thư ký Vũ Việt Linh (nghiệp vụ sử dụng-bảo quản, lập BB kiểm tra)
 B2  KH 1105/KH-ĐKT ngày 10/3/2026 (Trưởng đoàn ký) — kèm PL I lịch kiểm tra
     + PL II đề cương báo cáo của DN [mẫu 17]

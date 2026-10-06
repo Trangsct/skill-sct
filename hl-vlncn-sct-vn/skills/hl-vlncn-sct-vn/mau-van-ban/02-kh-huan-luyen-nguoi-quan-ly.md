@@ -41,6 +41,6 @@ Kết thúc: "Trên đây là Kế hoạch huấn luyện, kiểm tra, cấp Gi�
 thuật an toàn vật liệu nổ công nghiệp cho người quản lý của Sở Công Thương tỉnh Lào Cai,
 đề nghị các tổ chức, cá nhân liên quan phối hợp, triển khai thực hiện./."
 
-Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân. Nơi nhận: các đơn vị; Ban Giám đốc Sở;
+Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến. Nơi nhận: các đơn vị; Ban Giám đốc Sở;
 Lưu: VT, CN.
 ```

@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "vo-lao-khoi-cong-thang-11-2026",
+        # TB 173/TB-VPUBND ngày 01/10/2026 (kết luận Chủ tịch UBND tỉnh họp 29/9/2026): KCN Võ Lao khởi công trong tháng 11/2026
+        # (xã bàn giao ≥ 20 ha tháng 10, ~100 ha cuối tháng 11). Nhận định "khởi công quý II/2027" (báo cáo BQL 9/2026) là lịch sử.
+        "pattern": r"^(?!.*(?:lịch sử|173/TB|11/2026)).*Võ Lao[^\n]{0,80}khởi công[^\n]{0,20}quý II/2027",
+        "why": "Mốc chỉ đạo mới nhất: KCN Võ Lao khởi công trong tháng 11/2026 (TB 173/TB-VPUBND ngày 01/10/2026 — kccn-sct-vn ref 45); 'quý II/2027' chỉ ghi kèm 'lịch sử'.",
+        "since": "2026-10-01",
+        "level": "WARN",
+    },
+    {
         "id": "tt-11-2026-bct-thay-boi-tt-63",
         # TT 63/2026/TT-BCT ngày 30/9/2026 (CSDL thực phẩm, truy xuất nguồn gốc) thay thế TT 11/2026/TT-BCT ngày 27/02/2026
         # từ 15/11/2026 (khoản 2 Điều 19). Chỉ khớp ký hiệu TT-BCT — TT 11/2026/TT-BNNMT, TT-BXD là văn bản khác.

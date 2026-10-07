@@ -62,7 +62,7 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 | Tân Nguyên | **Xã Bảo Ái** | 55 ha (Công ty 186 Yên Bái) |
 | Mông Sơn | **Xã Bảo Ái** | 50 ha (CRC) — **ĐÃ THÀNH LẬP: QĐ 3426/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Âu Lâu | Phường Âu Lâu | Tăng 50→75 ha |
-| Đầm Hồng | Các phường Yên Bái, Văn Phú | Rút khỏi quy hoạch (di dời) |
+| Đầm Hồng | Các phường Yên Bái, Văn Phú | Rút khỏi quy hoạch (di dời); hiện trạng 23 cơ sở, Đề án di dời 42,9 tỷ (TTr 351/TTr-UBND 09/9/2026 phường Yên Bái) — ref 45 |
 | Y Can | **Xã Quy Mông** | 75 ha (Công ty Tây Bắc) — KHÁC vị trí KCN Y Can |
 | Bảo Hưng 2 | Phường Âu Lâu | Giảm 75→50 ha; chồng lấn Vietquartz — reference 11 mục E |
 | Bắc Duyên Hải (CCN) | Phường Lào Cai | 19,5 ha — KHÁC KCN cùng tên |

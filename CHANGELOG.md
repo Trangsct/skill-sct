@@ -1,3 +1,8 @@
+## sd-vlncn-sct-vn 2026.10.7.2 — 07/10/2026: Giấy phép dịch vụ nổ mìn 46/GP-ATMT (Công ty TNHH Đồng Tiến) — thông tin và kinh nghiệm
+
+- Ref 07 mục Q: GP dịch vụ nổ mìn do Cục KTAT&MTCN cấp lại ngày 02/10/2026 (hạn 01/10/2028); bốn điều kiện khác chuẩn của Cục; hồ sơ cấp lại k5 Đ40 không cần văn bản đề nghị của UBND tỉnh; phí 50% = 2 triệu; khoảng trống GP 10/5 – 01/10/2026 cần lưu ý khi rà hoạt động dịch vụ của DN.
+- Ref 01: dòng hồ sơ cấp lại GP dịch vụ nổ mìn. Ref 12 (máy sinh): mục E2 GP dịch vụ nổ mìn — trang web vlncn-laocai đã nhập GP và script đồng bộ thêm loại `dich_vu_no_min`.
+
 ## kccn-sct-vn 1.49.0 — 07/10/2026: CCN Đầm Hồng (BC 541/BC-UBND phường Yên Bái); Ban Chỉ đạo KCN Võ Lao, Bản Qua (QĐ 2029/QĐ-UBND); kết luận Chủ tịch UBND tỉnh về KCN Võ Lao (TB 173/TB-VPUBND)
 
 - Reference 45 mới: hiện trạng CCN Đầm Hồng đến 29/9/2026 (lấp đầy 100%, 23 cơ sở, chưa có QĐ thành lập, Đề án di dời 42,9 tỷ về Âu Lâu 2028–2029, Sở thẩm định 10/2026); thành phần, nhiệm vụ Ban Chỉ đạo KCN Võ Lao, Bản Qua (PGĐ Chiến thành viên, BQL KKT thường trực); mốc chỉ đạo KCN Võ Lao: bàn giao ≥ 20 ha tháng 10, ~100 ha cuối tháng 11, khởi công tháng 11/2026.

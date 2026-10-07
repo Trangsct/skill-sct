@@ -52,6 +52,7 @@
 - 3 hình thức: tại địa phương (1 tỉnh); trên thềm lục địa; toàn quốc. DN toàn quốc phải là DNNN hoặc DN 100% vốn DNNN.
 - Bên thuê dịch vụ: **không phải có GP** đối với hoạt động đã thuê; chỉ thuê **tối đa 02** DN dịch vụ cho 1 loại dịch vụ ở 1 khu vực, phải **phân định bằng văn bản** có sự tham gia của **đại diện cơ quan quản lý VLNCN tại địa phương** (= SCT).
 - Hồ sơ cấp GP dịch vụ nổ mìn tại địa phương: điểm b k4 — có **văn bản đề nghị cấp GP dịch vụ nổ mìn của UBND cấp tỉnh** (SCT tham mưu văn bản này).
+- **Cấp lại** GP dịch vụ nổ mìn (k5 Đ40) — thực tiễn Cục KTAT&MTCN tại vụ Đồng Tiến 10/2026 (ref 07 mục Q): hồ sơ chỉ gồm **Giấy đề nghị cấp lại + Báo cáo tình hình hoạt động dịch vụ nổ mìn**, Cục xác nhận "đầy đủ theo khoản 5 Điều 40"; **không có văn bản đề nghị của UBND tỉnh** (văn bản này là của hồ sơ cấp mới, điểm b k4); Cục vẫn kiểm tra điều kiện thực tế theo k2 Đ40.
 - GP dịch vụ nổ mìn thời hạn **02 năm**. DN phải thông báo UBND cấp tỉnh ≥ **10 ngày**, **UBND cấp xã nơi nổ mìn ≥ 24 giờ** trước khi thực hiện.
 
 ### Khoản 5 Điều 9 + Điều 10 — Thu hồi (áp dụng cho GP sử dụng VLNCN)

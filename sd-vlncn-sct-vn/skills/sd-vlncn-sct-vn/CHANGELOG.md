@@ -1,5 +1,13 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.10.7.2 — 07/10/2026 — Giấy phép dịch vụ nổ mìn 46/GP-ATMT của Công ty TNHH Đồng Tiến (Cục KTAT&MTCN cấp lại)
+
+Nguồn: GP 46/GP-ATMT ngày 02/10/2026 (Cục trưởng Phạm Tuấn Anh; nơi nhận có Sở Công Thương) và phiếu trình của Phòng ATKV ngày 01/10/2026 — Bạn gửi 07/10/2026.
+
+- references/07 **mục Q mới**: nội dung GP (phạm vi khai thác khoáng sản, thi công hạ tầng kỹ thuật trên địa bàn tỉnh; 02/10/2026 – 01/10/2028); bốn "điều kiện khác" chuẩn của Cục (k7 Đ5 và điểm b k1 Đ32 QCVN 01:2019/BCT; cấm nổ mìn ốp trong 300 m; cột bua > 1/3 chiều sâu lỗ khoan < 65 mm; tuân thủ thiết kế); hồ sơ cấp lại k5 Đ40 (giấy đề nghị + báo cáo hoạt động, không có văn bản đề nghị của UBND tỉnh); tài liệu Cục kiểm tra thực tế (GCN ANTT 292/GCN-CĐ4, đề án dịch vụ, HĐ nguyên tắc với GAET giao VLNCN theo hộ chiếu); 05 ngày; phí cấp lại 50% = 2.000.000 đồng; **khoảng trống GP 10/5 – 01/10/2026** (GP 33/GP-ATMT hết hạn 09/5/2026) và 4 kinh nghiệm cho Sở.
+- references/01 mục Điều 40: thêm dòng hồ sơ cấp lại GP dịch vụ nổ mìn theo thực tiễn Cục.
+- references/12 (máy sinh, `dong_bo_tri_thuc.py` 07/10/2026): **mục E2 mới — GP dịch vụ nổ mìn trong CSDL** (46/GP-ATMT còn hiệu lực; 33/GP-ATMT hết hiệu lực). Trang web đã nhập 02 GP này (Trangsct/vlncn-laocai#118; PDF Trangsct/vlncn-laocai-files#21).
+
 ## v2026.10.7.1 — 07/10/2026 — báo cáo VLNCN tháng 9/2026 của Công ty TNHH Huy Hoàng Lục Yên; đồng bộ CSDL trang web
 
 - references/12 (máy sinh bằng `scripts/dong_bo_tri_thuc.py` của repo vlncn-laocai, ngày 07/10/2026): mục G thêm báo cáo **51/2026/BC-HHLY** ngày 01/10/2026 (kỳ tháng 9/2026, đến Sở số 21170 ngày 06/10/2026) — Amonit AD1 Ø60 dùng 43 kg, tồn 156 kg; ANFO dùng 475 kg, tồn 200 kg; kíp điện K8 dùng 261 cái, tồn 338 cái; kíp vi sai 0; không nhập mới; 01 kho 5.000 kg; không sự cố. Tổng 7 báo cáo định kỳ trên trang.

@@ -89,7 +89,7 @@ Phân định thẩm quyền cấp Giấy phép hiện hành theo loại hàng:
 - Giấy phép **có hiệu lực trên toàn quốc** (không bị giới hạn trong tỉnh), thời hạn theo đề nghị của người vận tải nhưng **tối đa 24 tháng và không quá niên hạn sử dụng phương tiện**.
 
 **Ai ký Giấy phép - theo QĐ 1696/QĐ-UBND ngày 15/5/2026, được sửa đổi, bổ sung tại QĐ 2848/QĐ-UBND ngày 14/8/2026:**
-- **Loại 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 9 → mô hình ủy quyền:** lãnh đạo Sở ký trực tiếp Giấy phép, dùng hình thức văn bản và con dấu của Sở Công Thương (theo QĐ 1696). Thực tế các Giấy phép đã phát hành do **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân** ký (PGĐ phụ trách HHNH, theo phân công nội bộ) - xem thể thức chuẩn tại reference 16 mục 2 và bản gốc tại vi-du-thuc-te/giay-phep-da-cap/.
+- **Loại 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 9 → mô hình ủy quyền:** lãnh đạo Sở ký trực tiếp Giấy phép, dùng hình thức văn bản và con dấu của Sở Công Thương (theo QĐ 1696). Thực tế các Giấy phép đã phát hành đến 04/10/2026 do **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân** ký (lịch sử); **từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến ký** (QĐ 6286/QĐ-SCT giao Chiến phụ trách Phòng QLCN; QĐ không ghi đích danh HHNH — Bạn chốt 06/10/2026) - xem thể thức chuẩn tại reference 16 mục 2 và bản gốc tại vi-du-thuc-te/giay-phep-da-cap/.
 - **Loại 5, 8 → từ 14/8/2026 cùng mô hình ủy quyền:** Giám đốc Sở ký theo ủy quyền như loại 1,2,3,4,9 - con dấu Sở; căn cứ trong Giấy phép dẫn "Quyết định số 1696/QĐ-UBND ngày 15/5/2026... (được sửa đổi, bổ sung tại Quyết định số 2848/QĐ-UBND ngày 14/8/2026...)" và **khoản 1** Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026). Hồ sơ tiếp nhận trong giai đoạn 29/5-13/8/2026: Sở thẩm định, trình UBND tỉnh ký.
 
 Mã TTHC đã công bố (theo Phụ lục QĐ 2848/QĐ-UBND, nguồn QĐ 1213/QĐ-BCT ngày 22/5/2026): loại 1 (trừ VLNCN/TCTN), 2, 3, 4, 9: cấp mới 1.014967; cấp điều chỉnh 1.014968; cấp lại 1.014969. **Loại 5, 8: cấp mới 1.013340; cấp điều chỉnh 1.013350; cấp lại 1.013351.**
@@ -152,7 +152,7 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 | *(Xử phạt VPHC)* | Cần lập biên bản VPHC, ra QĐ xử phạt | → **plugin xử phạt riêng `xp-sct-vn`** | (plugin riêng) |
 
 **Ba câu hỏi gác cổng cho mọi nghiệp vụ** (trả lời trước khi làm):
-1. **Đúng thẩm quyền không?** Loại hàng thuộc 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 và đối tượng đặt trụ sở/chi nhánh tại Lào Cai (điều kiện địa bàn chỉ áp cho nhóm 1,2,3,4,9)? Người ký đúng (cả 7 loại → lãnh đạo Sở ký theo ủy quyền QĐ 1696 + QĐ 2848; thực tế KT.GĐ - PGĐ Hoàng Văn Thuân ký; riêng hồ sơ loại 5,8 tiếp nhận trước 14/8/2026 → trình UBND tỉnh)? (mục III, reference 16)
+1. **Đúng thẩm quyền không?** Loại hàng thuộc 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 và đối tượng đặt trụ sở/chi nhánh tại Lào Cai (điều kiện địa bàn chỉ áp cho nhóm 1,2,3,4,9)? Người ký đúng (cả 7 loại → lãnh đạo Sở ký theo ủy quyền QĐ 1696 + QĐ 2848; từ 05/10/2026 dự kiến KT.GĐ - PGĐ Nguyễn Đình Chiến ký (trước đó PGĐ Thuân); riêng hồ sơ loại 5,8 tiếp nhận trước 14/8/2026 → trình UBND tỉnh)? (mục III, reference 16)
 2. **Đúng văn bản hiện hành không?** Đã áp chuỗi thẩm quyền mới (loại 5, 8 về tỉnh từ 29/5/2026; ủy quyền cho Giám đốc Sở từ 14/8/2026 tại QĐ 2848 - mục II.15a); mã TTHC đúng nhóm (loại 5,8 dùng 1.013340/50/51, KHÔNG dùng 1.01496x); với kiểm tra dùng NĐ 217/2025 ("kiểm tra" không phải "thanh tra")?
 3. **Có số/ngày nào đang bịa không?** Kế hoạch/quyết định kiểm tra, số văn bản nội bộ - đã xác minh chưa? Căn cứ ủy quyền dẫn đúng "QĐ 1696/QĐ-UBND ngày 15/5/2026 (được sửa đổi, bổ sung tại QĐ 2848/QĐ-UBND ngày 14/8/2026)"? (mục VII dưới đây, điểm 10)
 
@@ -186,4 +186,4 @@ Toàn văn 21 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để �
 
 - Đối tượng điển hình trên địa bàn: vận chuyển oxy lỏng, nitơ lỏng, khí công nghiệp (loại 2); xăng, dầu, nhiên liệu lỏng dễ cháy (loại 3); LPG/LNG/CNG (loại 2); một số hóa chất công nghiệp.
 - Lào Cai là tỉnh biên giới với Trung Quốc (cửa khẩu quốc tế Lào Cai, Kim Thành) - cần lưu ý quy định vận chuyển xuyên biên giới (Nghị định thư Việt - Trung) khi doanh nghiệp có hoạt động qua cửa khẩu.
-- Vật liệu nổ công nghiệp và tiền chất thuốc nổ (phục vụ khai thác apatit, đá, khoáng sản) là lĩnh vực riêng do Phó Giám đốc Hoàng Văn Thuân phụ trách, theo pháp luật chuyên ngành VLNCN - KHÔNG thuộc thủ tục cấp phép vận chuyển HHNH loại 1, 2, 3, 4, 9 này (loại 1 đã trừ VLNCN, tiền chất thuốc nổ).
+- Vật liệu nổ công nghiệp và tiền chất thuốc nổ (phục vụ khai thác apatit, đá, khoáng sản) là lĩnh vực riêng do Phó Giám đốc Nguyễn Đình Chiến phụ trách (từ 05/10/2026, QĐ 6286/QĐ-SCT), theo pháp luật chuyên ngành VLNCN - KHÔNG thuộc thủ tục cấp phép vận chuyển HHNH loại 1, 2, 3, 4, 9 này (loại 1 đã trừ VLNCN, tiền chất thuốc nổ).

@@ -8,7 +8,7 @@
 
 Căn cứ (theo bản thật): Luật số 42/2024/QH15; Luật số 15/2012/QH13 về Xử lý VPHC, sửa đổi bổ sung năm 2025; **Nghị định số 189/2025/NĐ-CP** (thẩm quyền xử phạt); Nghị định số 181/2024/NĐ-CP; Nghị định số 71/2019/NĐ-CP được sửa đổi, bổ sung tại Nghị định số 17/2022/NĐ-CP; **Nghị định số 217/2025/NĐ-CP** (kiểm tra chuyên ngành); Thông tư số 23/2024/TT-BCT; Thông tư số 32/2019/TT-BCT (QCVN 01:2019/BCT); Quyết định số 05/2025/QĐ-UBND; Theo đề nghị của Trưởng phòng Quản lý Công nghiệp,
 
-**Điều 1.** Thành lập Đoàn kiểm tra…, gồm: 1. Ông Hoàng Văn Thuân — Phó Giám đốc Sở, Trưởng đoàn; 2. Ông Đỗ Mạnh Cường — Phó Trưởng phòng QLCN, Phó Trưởng đoàn; 3. Ông 【Bùi Việt Cường】 — Chuyên viên phòng QLCN, Thành viên; 4. Ông Vũ Việt Linh — Chuyên viên phòng QLCN, Thành viên - Thư ký đoàn.
+**Điều 1.** Thành lập Đoàn kiểm tra…, gồm: 1. Ông Nguyễn Đình Chiến — Phó Giám đốc Sở, Trưởng đoàn; 2. Ông Đỗ Mạnh Cường — Phó Trưởng phòng QLCN, Phó Trưởng đoàn; 3. Ông 【Bùi Việt Cường】 — Chuyên viên phòng QLCN, Thành viên; 4. Ông Vũ Việt Linh — Chuyên viên phòng QLCN, Thành viên - Thư ký đoàn.
 
 **Điều 2. Đối tượng, phạm vi, nội dung, thời hạn và thời hiệu kiểm tra**
 1. Đối tượng: 【…】 đơn vị (Phụ lục đính kèm: tên, địa chỉ DN, tên và địa chỉ dự án/gói thầu).

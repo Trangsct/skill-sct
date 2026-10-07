@@ -29,7 +29,7 @@ Trang https://vlncn-laocai.vercel.app/hazmat lưu bản ký số và dữ liệu
 ## 2. Thể thức Giấy phép của Sở (đối chiếu 2 GP thực tế đã cấp)
 
 - Tiêu đề cơ quan: `UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG`; số ký hiệu: **`Số: .../GP - SCT`** (có khoảng trắng quanh gạch nối - giữ đúng theo bản đã phát hành).
-- Người ký: **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (PGĐ phụ trách HHNH ký thay theo phân công nội bộ, trong khuôn khổ ủy quyền QĐ 1696 cho Giám đốc Sở).
+- Người ký: **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC** phụ trách HHNH (ký thay theo phân công nội bộ, trong khuôn khổ ủy quyền QĐ 1696 cho Giám đốc Sở) — Giấy phép đến 04/10/2026: **PGĐ Hoàng Văn Thuân** (lịch sử); **từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến** (QĐ 6286/QĐ-SCT, Chiến phụ trách Phòng QLCN — Bạn chốt 06/10/2026).
 - Nơi nhận chuẩn (đã dùng ổn định): UBND tỉnh (để b/c); **Cục Cảnh sát Giao thông - Bộ Công an**; **Công an tỉnh Lào Cai**; Sở Xây dựng; [Doanh nghiệp]; Ban Giám đốc Sở; **Lưu: VT, BP1C, CN.** → việc gửi CSGT ngay tại nơi nhận chính là thực hiện khoản 5 Điều 51 Luật 36/2024 (thông báo ngay đến cơ quan CSGT).
 - Thân GP ghi: tên tổ chức; số ĐKKD/mã số chi nhánh **do "Phòng Doanh nghiệp, Sở Tài chính tỉnh Lào Cai" cấp** (KHÔNG còn ghi "Sở Kế hoạch và Đầu tư" - lỗi hay gặp); địa chỉ; người đại diện/người đứng đầu chi nhánh; câu "Được phép vận chuyển hàng hóa nguy hiểm: ... phải có trách nhiệm duy trì các điều kiện an toàn..., [bố trí người áp tải nếu hàng bắt buộc] và chấp hành đầy đủ các quy định... (Danh mục kèm theo Giấy phép này)".
 - Danh mục kèm theo: bảng TT / Tên hàng / Số hiệu UN / Loại, nhóm / Số hiệu nguy hiểm / Khối lượng vận chuyển / Ghi chú (biển kiểm soát phương tiện). **Cột "Khối lượng vận chuyển" - cách ghi hiện hành là "Theo giấy tờ của phương tiện"** (Bạn chốt 26/7/2026, dùng thống nhất cho mọi Giấy phép, xem mục 8.1); các bản GP phát hành trước đó ghi "Theo thiết kế của phương tiện" (Thái Thịnh - xi téc) hoặc "Theo tải trọng phương tiện" (Argon) - giữ nguyên trong hồ sơ lịch sử, KHÔNG dùng lại cho GP mới. Trường hợp nhiều phương tiện: thêm bảng "Danh sách phương tiện vận chuyển" riêng (xem GP Sợi Phương Nam - 16 phương tiện, ghi rõ đầu kéo/sơ mi rơ moóc, dung tích bồn, khối lượng kéo theo).
@@ -39,7 +39,7 @@ Trang https://vlncn-laocai.vercel.app/hazmat lưu bản ký số và dữ liệu
 
 Chuỗi hồ sơ nội bộ hoàn chỉnh cho một vụ cấp mới (theo bộ Sợi Phương Nam/An Khang):
 1. Tiếp nhận qua TTPVHCC → chuyển Phòng QLCN, chuyên viên thụ lý (hiện là **Trần Đăng Khôi** → dòng lưu văn bản: `Lưu: VT, CN` cho công văn; GP dùng `Lưu: VT, BP1C, CN`).
-2. Soát xét: nếu cần bổ sung → **Công văn hướng dẫn hoàn thiện, bổ sung hồ sơ** (SCT-CN, PGĐ Hoàng Văn Thuân ký; nội dung xếp theo nhóm: thẩm quyền/tư cách → phân loại hàng → phương tiện → nhân sự → phương án; có thể kèm Phụ lục bảng như mẫu Cục Hóa chất tại vi-du-thuc-te/cuc-hoa-chat/).
+2. Soát xét: nếu cần bổ sung → **Công văn hướng dẫn hoàn thiện, bổ sung hồ sơ** (SCT-CN, PGĐ phụ trách HHNH ký — từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến; nội dung xếp theo nhóm: thẩm quyền/tư cách → phân loại hàng → phương tiện → nhân sự → phương án; có thể kèm Phụ lục bảng như mẫu Cục Hóa chất tại vi-du-thuc-te/cuc-hoa-chat/).
 3. **Biên bản thẩm định hồ sơ** - dựng theo **MẪU CHUẨN CỦA SỞ** tại `vi-du-thuc-te/giay-phep-da-cap/Bien-ban-tham-dinh-SCT-ThaiThinh-xangdau-loai3.docx` (Chế độ B: sửa trên file gốc, giữ nguyên định dạng). Đây là biên bản thật của Sở cho hồ sơ loại 3 (xăng, dầu) - dùng cho **mọi hồ sơ loại 1, 2, 3, 4, 9**. **KHÔNG dùng mẫu Biên bản thẩm định của Cục Hóa chất (Đức Giang) tại `cuc-hoa-chat/` cho loại này** (mẫu Cục Hóa chất chỉ tham chiếu cho loại 5, 8). Đặc điểm mẫu Biên bản của Sở:
    - **Cơ quan:** `UBND TỈNH LÀO CAI / SỞ CÔNG THƯƠNG`; tên văn bản: "BIÊN BẢN THẨM ĐỊNH HỒ SƠ / Phục vụ cấp Giấy phép vận chuyển hàng hóa nguy hiểm loại [x] / của [tên doanh nghiệp]".
    - **04 căn cứ:** NĐ 161/2024; Điều 44 NĐ 105/2025; khoản 2 Điều 8 TT 38/2025 (được sửa đổi, bổ sung bởi Điều 25 TT 26/2026); QĐ 1696/QĐ-UBND.
@@ -69,7 +69,7 @@ Quy trình nội bộ TTHC ban hành kèm QĐ của Chủ tịch UBND tỉnh (th
 ## 5. Bối cảnh liên quan (không thuộc thủ tục nhưng hay bị hỏi kèm)
 
 - **PCCC phương tiện VLNCN/TCTN đang vướng:** UBND tỉnh đã có CV **3686/UBND-XD ngày 11/5/2026** kiến nghị Bộ Xây dựng tháo gỡ (QCVN 122:2024, TT 47/2024/TT-BGTVT chưa có hạng mục kiểm tra PCCC; Cục Đăng kiểm chưa hướng dẫn). Khi doanh nghiệp VLNCN hỏi lây sang phòng, trả lời: thủ tục GP vận chuyển VLNCN/TCTN thuộc cơ quan Công an theo Luật 42/2024, vướng mắc kiểm định PCCC đang được UBND tỉnh kiến nghị Trung ương - bản CV tại van-ban-goc/04-uy-quyen-quy-trinh/.
-- **Từ 01/7/2026, UBND cấp tỉnh có thẩm quyền cấp giấy phép xuất khẩu, nhập khẩu VLNCN** (khoản 2 Điều 27 TT 26/2026) - lĩnh vực VLNCN do PGĐ Hoàng Văn Thuân phụ trách, KHÔNG nhập vào thủ tục HHNH này nhưng cần biết để chuyển đúng đầu mối.
+- **Từ 01/7/2026, UBND cấp tỉnh có thẩm quyền cấp giấy phép xuất khẩu, nhập khẩu VLNCN** (khoản 2 Điều 27 TT 26/2026) - lĩnh vực VLNCN do PGĐ Nguyễn Đình Chiến phụ trách (từ 05/10/2026), KHÔNG nhập vào thủ tục HHNH này nhưng cần biết để chuyển đúng đầu mối.
 
 ## 6. Cập nhật 22/7/2026 - vụ Chi nhánh số 1 Sợi Phương Nam (02 bộ: Argon lỏng + NH3, xe biển Trung Quốc)
 

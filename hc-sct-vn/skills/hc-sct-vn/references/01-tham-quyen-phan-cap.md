@@ -50,7 +50,7 @@ Tổ chức đã được **UBND cấp tỉnh** cấp GP nhóm 2 còn hiệu l�
 
 Thẩm quyền pháp lý của tất cả TTHC mục 2a là của **UBND cấp tỉnh**. Ai ký thực tế phụ thuộc **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương**:
 
-- **Nếu đã ủy quyền** → Giám đốc Sở ký (dùng dấu, thể thức của Sở); phân công nội bộ: lĩnh vực hóa chất do **PGĐ Hoàng Văn Thuân** ký thay (KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC) đối với cấp phép, thẩm định thường lệ.
+- **Nếu đã ủy quyền** → Giám đốc Sở ký (dùng dấu, thể thức của Sở); phân công nội bộ: lĩnh vực hóa chất do **PGĐ Nguyễn Đình Chiến** ký thay (từ 05/10/2026, QĐ 6286/QĐ-SCT; trước đó PGĐ Thuân) (KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC) đối với cấp phép, thẩm định thường lệ.
 - **Nếu chưa ủy quyền** → Sở thẩm định, lập **Tờ trình + dự thảo GCN/GP/QĐ trình Chủ tịch UBND tỉnh ký**.
 
 ⚠️ **Đến 05/7/2026 CHƯA xác minh QĐ ủy quyền có/không.** Thực tiễn vụ HNO3 (4/2026, ref 16): CV từ chối ghi *"Sở Công Thương không có đủ cơ sở tham mưu Ủy ban nhân dân tỉnh cấp"* → tại thời điểm đó Sở tham mưu, **UBND tỉnh ký**. **PHẢI HỎI BẠN** để chốt trước khi soạn văn bản cấp phép. Không tự điền người ký, không bịa số QĐ ủy quyền.
@@ -59,7 +59,7 @@ Thẩm quyền pháp lý của tất cả TTHC mục 2a là của **UBND cấp t
 
 - Hóa chất → chuyên viên tham mưu **Nguyễn Thị Loan** (kiêm phòng chống thiên tai) → dòng Lưu: **`Lưu: VT, CN`**.
 - **Phân tầng duyệt nội bộ phòng:** CN Loan → **TP Nguyễn Hữu Long** duyệt (hóa chất KHÔNG thuộc phân công trực tiếp của PTP Trang) → trình PGĐ phụ trách. PTP **Trần Trọng Trang** chỉ ký thay/kiêm duyệt hóa chất **khi cán bộ phụ trách vắng**.
-- PGĐ phụ trách hóa chất: **Hoàng Văn Thuân** (ký KT.GĐ các báo cáo, công văn, cấp phép thường lệ lĩnh vực hóa chất; khi Thuân vắng → PGĐ Giang).
+- PGĐ phụ trách hóa chất: **Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6286/QĐ-SCT; trước đó Hoàng Văn Thuân — lịch sử) — ký KT.GĐ các báo cáo, công văn, cấp phép thường lệ lĩnh vực hóa chất; khi Chiến vắng → PGĐ Nguyễn Trường Giang.
 - **Tờ trình, kế hoạch, chủ trương** → trình trực tiếp **GĐ Hoàng Chí Hiền**.
 
 ## 6. Mã TTHC

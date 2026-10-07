@@ -1,3 +1,20 @@
+## 06/10/2026 — Phân công Ban Giám đốc mới (QĐ 6286/QĐ-SCT ngày 05/10/2026): PGĐ Chiến ký hóa chất, VLNCN thay PGĐ Thuân (15 plugin)
+
+- QĐ 6286/QĐ-SCT ngày 05/10/2026 của Giám đốc Sở (thay QĐ 766/QĐ-SCT ngày 12/02/2026): GĐ + 6 PGĐ. **PGĐ Nguyễn Đình Chiến** phụ trách Phòng QLCN, nhận thêm **hóa chất, VLNCN, PCTT-TKCN**; **PGĐ Hoàng Văn Thuân** phụ trách **Phòng Quản lý Khoáng sản** (mới), giữ khai thác - chế biến khoáng sản, thiết kế mỏ, luyện kim, CN môi trường, ATVSLĐ, địa chất; **PGĐ Phạm Năng Chung** (mới) — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, KS làm VLXD. Xử lý thay khi vắng: Chiến ↔ Giang, Thuân ↔ Chung, Thành ↔ Tưởng.
+- Bạn chốt 06/10/2026: dự kiến PGĐ Chiến ký thay PGĐ Thuân cả các việc Phòng QLCN mà QĐ không ghi đích danh (HHNH, PCCC, an toàn ngành ngoài ATVSLĐ, KTCTNT công trình CN không thuộc mỏ). Văn bản đã ký trước 05/10/2026 giữ nguyên (lịch sử).
+- sct-laocai-org-vn 2.6.0 (viết lại mục Ban Giám đốc, routing, khối ký, xã theo dõi); đổi khối ký, Phiếu trình, trưởng đoàn sang PGĐ Chiến: sd-vlncn-sct-vn 2026.10.6.1, kho-vlncn-sct-vn 1.12.2, hl-vlncn-sct-vn 1.4.5, hc-sct-vn 1.3.2, hnh-sct-vn 1.11.2, pccc-sct-vn 1.3.2; quy tắc người ký: vbhc-vn 2.28.1, xd-sct-vn 1.6.2; khoáng sản tách Thuân/Chung: qlks-sct-vn 2.1.2, tkm-sct-vn 1.4.2, quy-hoach-ct-vn 1.4.2; sửa ghi cũ gán năng lượng/hóa chất cho PGĐ Thuân: bvmt-sct-vn 1.6.2, dacn-sct-vn 1.6.3, xp-sct-vn 1.6.2.
+- `scripts/check_facts.py`: rule `pgd-chien-ky-hoa-chat-vlncn-hhnh` (FAIL — 6 plugin hóa chất, VLNCN, HHNH, PCCC), `phan-cong-bgd-du-thao-lan-4` (FAIL); thêm khóa `skip_rel` bỏ qua từng file. `registry/trang-thai.csv`: ghi chú người ký QĐ 2867.
+
+## kccn-sct-vn 1.48.1 — 06/10/2026: tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp đã GPMB
+
+- Bạn chốt sau cuộc họp UBND tỉnh 06/10/2026: tỷ lệ lấp đầy bình quân tính trên diện tích đất công nghiệp đã giải phóng mặt bằng, không chia cho toàn bộ đất CN quy hoạch của 25 cụm; 26,96% trong Báo cáo 05/10/2026 là cách tính cũ, bị phê bình. Ref 44 mục B.6; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb` (FAIL).
+
+## kccn-sct-vn 1.48.0, bpb-sct-vn 1.5.0 — 06/10/2026: Báo cáo và bài phát biểu tóm tắt phục vụ cuộc họp UBND tỉnh về các CCN (Giấy mời 565/GM-UBND ngày 05/10/2026)
+
+- kccn-sct-vn 1.48.0 — Reference 44 mới: **khung Báo cáo CCN gửi UBND tỉnh do Giám đốc chốt** (bố cục 05 phần; thứ tự Thống Nhất 1 → Phú Thịnh 1, 2, 3 → Minh Quân → Y Can → Bảo Minh → Mông Sơn → Yên Hợp 2; khung cố định từng cụm với "* Đề nghị UBND tỉnh chỉ đạo:" in đậm + mỗi việc một gạch đầu dòng; nguyên nhân "trước hết thuộc về chủ đầu tư…", "Trách nhiệm chính thuộc…, sau đó là…"; 03 nhóm nguyên nhân; "UBND tỉnh đã nhiều lần chỉ đạo"; chỉ quy trách nhiệm khi có căn cứ; ước 1.500 lao động/cụm 75 ha không ghi cách tính; dẫn nguồn đủ lần đầu; Phụ lục I chỉ 09 cụm vốn doanh nghiệp; khối ký cùng trang câu kết); hiện trạng 25 cụm đến 05/10/2026; đất Chè Văn Hưng 72,23 ha theo BC 499/BC-SNNMT ngày 05/6/2026 (03 đề xuất chưa được cho ý kiến) và BC 1107/BC-SNNMT ngày 02/10/2026 (2,3 ha dôi dư Phú Thịnh 2); BC 214/BC-LCIDI (Thống Nhất 1 thi công từ 01/10/2026); mốc 08 cụm NSNN: hồ sơ 10/10, trình 15/10/2026; quy ước tin Zalo; hỏi đáp QHCT 1/500 không tự miễn GPXD. SKILL.md mục I.2, bảng reference, mục VII.10. `vi-du-thuc-te/`: Báo cáo bản cuối 05/10/2026.
+- bpb-sct-vn 1.5.0 — kho-bai-mau thêm bài phát biểu tóm tắt 03 trang của Giám đốc tại cuộc họp 06/10/2026 (mẫu "phát biểu tóm tắt đi kèm Báo cáo đầy đủ", SKILL.md mục 7); `build_bpb.py` thẻ `[BREAK]` thụt dòng đầu (mục 6).
+- `scripts/check_facts.py`: `ccn-thu-tu-phu-thinh-1-2-3` (FAIL), `ccn-lao-dong-uoc-80-8-ld-ha` (FAIL), `che-van-hung-40-97-ha-khac-pham-vi` (WARN).
+
 ## kccn-sct-vn 1.47.0 — 04/10/2026: danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 
 - Reference 43 mới: phân nhóm, số cộng danh mục CCN (09 cụm doanh nghiệp làm chủ đầu tư 634,95 ha, 5.158,58 tỷ; 05 cụm đã nộp hồ sơ, có Bản Phiệt 1; 22 cụm kêu gọi sau khi bỏ CCN Thống Nhất 35 ha); 14 KCN (Cam Đường chưa khởi công; quy hoạch phân khu Đông An chưa phê duyệt); 10 lỗi đã bắt trong file nguồn; 05 điểm vênh còn mở; mẫu tin báo cáo Lãnh đạo.
@@ -24,7 +41,7 @@
 - 10 reference: văn bản viện dẫn; thẩm quyền UBND, Chủ tịch UBND cấp xã, Hội đồng bồi thường, chủ đầu tư; quy trình 12 bước; bảng mốc thời hạn; kiểm đếm bắt buộc, cưỡng chế; thưởng bàn giao sớm, khiếu nại, hồ sơ địa chính; 10 tình huống phát sinh; 39 biểu mẫu và bảng quy đổi số mẫu; áp dụng cho Sở Công Thương (đọc báo cáo GPMB KCN, CCN); 14 điểm chưa thống nhất trong Sổ tay. Checklist đọc báo cáo GPMB.
 - Bản gốc PDF 13,4 MB (export-ignore, chỉ trên GitHub) kèm bản trích chữ bằng máy.
 - Chưa đối chiếu bản gốc các luật, nghị định, quyết định Sổ tay viện dẫn; chưa ghi `registry/trang-thai.csv`.
-- kccn-sct-vn 1.47.1: thêm dòng liên kết sang `dat-dai-sct-vn`.
+- kccn-sct-vn 1.48.2: thêm dòng liên kết sang `dat-dai-sct-vn`.
 - marketplace: thêm entry `dat-dai-sct-vn`. Trên claude.ai có thể phải Remove rồi Add lại marketplace để entry mới hiện ra.
 ## 01/10/2026 — Dòng Lưu không ghi tên chuyên viên (20 plugin)
 

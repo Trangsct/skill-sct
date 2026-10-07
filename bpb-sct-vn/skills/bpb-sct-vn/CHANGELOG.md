@@ -1,3 +1,9 @@
+## 1.5.0 — 06/10/2026 — Mẫu bài phát biểu tóm tắt tại cuộc họp UBND tỉnh về CCN; thẻ [BREAK] thụt dòng đầu
+
+- kho-bai-mau thêm `bpb-hop-ccn-ubnd-tinh-2026-10-06-tom-tat.docx` (bản cuối Giám đốc đọc tại cuộc họp 06/10/2026 theo Giấy mời 565/GM-UBND; 03 trang, 04 phần bám Báo cáo của Sở); mục lục + SKILL.md mục 7 bổ sung dạng "phát biểu tóm tắt đi kèm Báo cáo đầy đủ".
+- `scripts/build_bpb.py`: thẻ `[BREAK]` ("Kính thưa Hội nghị!") thêm `first_line_indent` 1.27 cm cho khớp thân bài (trước đó sát lề trái); SKILL.md mục 6 ghi rõ.
+- Số liệu CCN trong bài phải chép đúng Báo cáo cùng kỳ — plugin kccn-sct-vn ref 44.
+
 ## 1.4.0 — 06/9/2026 — Mẫu bài phát biểu Trưởng phòng tại giao ban Sở
 
 - kho-bai-mau thêm `bpb-giao-ban-thang-9-2026-truong-phong-qlcn.docx` (bản Bạn sửa tay, lồng ghép 9 tháng + tháng 9 theo từng lĩnh vực) và `bpb-tong-hop-9-thang-2026-truong-phong-qlcn.docx`; mục lục + SKILL.md mục 7 bổ sung dạng Trưởng phòng báo cáo giao ban.

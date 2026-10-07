@@ -60,11 +60,11 @@ Trụ sở tại: 【địa chỉ】;
 
 **Điều 3.** Giấy phép này có giá trị 【05 năm kể từ ngày ký ban hành / đến hết ngày … — không vượt thời hạn Giấy phép khai thác】./.
 
-Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06); UBND xã 【…】; Trung tâm Phục vụ hành chính công tỉnh; GĐ, PGĐ Sở (Hoàng Văn Thuân); Lưu: VT, CN.
+Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06); UBND xã 【…】; Trung tâm Phục vụ hành chính công tỉnh; GĐ, PGĐ Sở (Nguyễn Đình Chiến); Lưu: VT, CN.
 
 **Người ký:** ⚠ **điểm phải chốt với Lãnh đạo Sở trước giấy phép đầu tiên.** Hai tiền lệ nội bộ đang khác nhau:
 > - **QĐ 1883** (huấn luyện KTAT): nhiệm vụ ủy quyền đích danh Giám đốc → **Giám đốc Hoàng Chí Hiền ký trực tiếp**; Giám đốc vắng thì Phó Giám đốc ký phải kèm **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ GUQ 2180/GUQ-SCT ngày 21/4/2026).
-> - **QĐ 1696 / QĐ 2848** (HHNH): thực tế Sở ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân**, coi là phân công nội bộ trong khuôn khổ ủy quyền cho Giám đốc, không phải "ủy quyền tiếp".
+> - **QĐ 1696 / QĐ 2848** (HHNH): thực tế Sở ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC** (đến 04/10/2026 PGĐ Hoàng Văn Thuân — lịch sử; từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến), coi là phân công nội bộ trong khuôn khổ ủy quyền cho Giám đốc, không phải "ủy quyền tiếp".
 >
 > QĐ 2867 điểm a khoản 2 Điều 3 chỉ ghi "Không được uỷ quyền tiếp nhiệm vụ, quyền hạn mà mình được ủy quyền" — không nói rõ về phân công nội bộ. Trước khi phát hành giấy phép đầu tiên, chốt một cách và ghi lại vào mẫu này.
 

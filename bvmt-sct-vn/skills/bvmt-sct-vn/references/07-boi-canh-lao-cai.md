@@ -144,7 +144,7 @@ Số liệu tham chiếu khác trong Phụ lục: BQL Khu kinh tế tỉnh 7.269
 → **Không.** Thẩm quyền thuộc UBND tỉnh / Sở Nông nghiệp và Môi trường (hoặc Bộ NN&MT với dự án thuộc thẩm quyền trung ương). Sở Công Thương chỉ **tham gia ý kiến/phối hợp** khi được mời. (Xem reference 03.)
 
 **Hỏi: Văn bản BVMT của Sở do ai soạn, ai ký?**
-→ Chuyên viên tham mưu: **CV M.Long** – Lê Minh Long (môi trường/KNK/các-bon/công nghiệp môi trường). Lĩnh vực môi trường, khoáng sản, hóa chất do **KT.GĐ – PGĐ Hoàng Văn Thuân** phụ trách ký. Văn bản cấp tỉnh do **GĐ Hoàng Chí Hiền** ký. Ký hiệu **SCT-CN**, dòng lưu **Lưu: VT, CN**. (Xem reference 01 mục VI.)
+→ Chuyên viên tham mưu: **CV M.Long** – Lê Minh Long (môi trường/KNK/các-bon/công nghiệp môi trường). Lĩnh vực CN môi trường, BVMT, khai thác - chế biến khoáng sản do **KT.GĐ – PGĐ Hoàng Văn Thuân** phụ trách ký; hóa chất từ 05/10/2026 do PGĐ Nguyễn Đình Chiến (QĐ 6286/QĐ-SCT). Văn bản cấp tỉnh do **GĐ Hoàng Chí Hiền** ký. Ký hiệu **SCT-CN**, dòng lưu **Lưu: VT, CN**. (Xem reference 01 mục VI.)
 
 **Hỏi: Còn Thông tư 35/2015/TT-BCT về BVMT ngành Công Thương thì sao?**
 → **Đã hết hiệu lực, chưa có văn bản thay thế** → khoảng trống pháp lý. Trong tham mưu, kiến nghị Bộ Công Thương sớm ban hành VBQPPL hướng dẫn. **Không** viện dẫn TT 35/2015 như đang còn hiệu lực.

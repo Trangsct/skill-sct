@@ -23,4 +23,4 @@ Việc CCN thường gồm 1 báo cáo + nhiều phụ lục + đôi khi bản c
 
 ### Dòng "Lưu" và người ký
 - Dòng lưu: `Lưu: VT, CN.` — không ghi tên/mã người soạn (Bạn chốt 01/10/2026).
-- **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (KCN/CCN/ATTP → Nguyễn Đình Chiến; HHNH/hóa chất/VLNCN/khoáng sản/môi trường/PCCC/KHCN/ATVSLĐ/năng lượng/thương mại → Hoàng Văn Thuân; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.
+- **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (từ 05/10/2026, QĐ 6286/QĐ-SCT: KCN/CCN/ATTP/hóa chất/VLNCN/PCTT, dự kiến HHNH/PCCC → Nguyễn Đình Chiến; khai thác - chế biến khoáng sản/thiết kế mỏ/CN môi trường/ATVSLĐ → Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → Phạm Năng Chung; năng lượng → Nguyễn Trường Giang; thương mại → Trịnh Văn Thành/Nguyễn Huy Tưởng; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.

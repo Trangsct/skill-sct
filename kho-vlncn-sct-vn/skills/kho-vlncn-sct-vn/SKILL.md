@@ -96,11 +96,11 @@ Kho chỉ là **điều kiện thành phần** của Giấy phép sử dụng VL
 
 ## V. NGƯỜI KÝ, NGƯỜI SOẠN (thực tiễn đã ban hành, khớp `sct-laocai-org-vn`)
 
-- Lĩnh vực VLNCN thuộc **PGĐ Hoàng Văn Thuân** phụ trách → văn bản thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân**. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền (cân nhắc theo vụ việc).
+- Từ **05/10/2026** lĩnh vực VLNCN thuộc **PGĐ Nguyễn Đình Chiến** phụ trách (QĐ 6286/QĐ-SCT, Chiến phụ trách Phòng QLCN) → văn bản thường ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến**; Chiến vắng → PGĐ Nguyễn Trường Giang. Văn bản ban hành trước 05/10/2026 do PGĐ Hoàng Văn Thuân ký là lịch sử, không sửa lại. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền (cân nhắc theo vụ việc).
 - **Lưu VT, CN:**
   - Văn bản về **công trình xây dựng kho** (KH kiểm tra, TB kết quả nghiệm thu, xác nhận đề cương kiểm định, CV hướng dẫn/xác nhận QCVN): **CV Dũng** — Ngô Ngọc Dũng (thẩm định dự án/công trình công nghiệp).
   - Văn bản về **giấy phép sử dụng VLNCN, PANM**: từ **10/7/2026** dùng **CV Khôi** — Trần Đăng Khôi (chuyên viên VLNCN theo Thông báo phân công nội bộ Phòng QLCN 10/7/2026, xem skill `sct-laocai-org-vn`); văn bản trước 6/7/2026 dùng CV Linh — Vũ Việt Linh (đúng lịch sử).
-- Đoàn kiểm tra thực tế thường gồm: PGĐ Hoàng Văn Thuân (chủ trì), Phó TP QLCN Đỗ Mạnh Cường, CV VLNCN (từ 10/7/2026: Trần Đăng Khôi; trước đó: Vũ Việt Linh), CV Ngô Ngọc Dũng.
+- Đoàn kiểm tra thực tế thường gồm: PGĐ Nguyễn Đình Chiến (chủ trì, từ 05/10/2026; trước đó PGĐ Thuân), Phó TP QLCN Đỗ Mạnh Cường, CV VLNCN (từ 10/7/2026: Trần Đăng Khôi; trước đó: Vũ Việt Linh), CV Ngô Ngọc Dũng.
 - Ký hiệu: công văn `/SCT-CN`; thông báo `/TB-SCT`; tờ trình `/TTr-SCT`; QĐ UBND `/QĐ-UBND`.
 
 ## VI. PHÂN LUỒNG 4 TRƯỜNG HỢP RỒI MỚI ĐẾN QUY TRÌNH (chi tiết reference `11`, quy trình Luồng A tại reference `03`)

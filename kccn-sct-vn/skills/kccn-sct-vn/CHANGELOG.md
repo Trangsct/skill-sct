@@ -1,9 +1,24 @@
 # CHANGELOG
 
-## [1.47.1] - 05/10/2026 — Liên kết sang plugin dat-dai-sct-vn
+## [1.48.2] - 07/10/2026 — Liên kết sang plugin dat-dai-sct-vn
 
 - SKILL.md bảng plugin liên kết: thêm dòng `dat-dai-sct-vn` (trình tự thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn; cách tách số liệu GPMB).
-- `plugin.json` → 1.47.1.
+- `plugin.json` → 1.48.2.
+
+## [1.48.1] - 06/10/2026 — Tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp đã GPMB
+
+- Bạn chốt sau cuộc họp UBND tỉnh 06/10/2026: mẫu số là đất công nghiệp đã giải phóng mặt bằng (có mặt bằng cho thuê); 26,96% (203,76/755,81 ha) là cách tính cũ, bị phê bình — không dùng lại. Ref 44 mục B.6, C, K; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb`.
+- `plugin.json` → 1.48.1.
+
+## [1.48.0] - 06/10/2026 — Báo cáo tình hình triển khai các CCN đến 05/10/2026 phục vụ cuộc họp UBND tỉnh (Giấy mời 565/GM-UBND)
+
+- **Nguồn:** Giấy mời 565/GM-UBND ngày 05/10/2026; chỉ đạo của Giám đốc Sở qua Zalo (05–06/10/2026); BC 214/BC-LCIDI 29/9/2026 (Thống Nhất 1); BC 499/BC-SNNMT 05/6/2026, BC 1107/BC-SNNMT 02/10/2026, QĐ 505/QĐ-UBND 23/3/2016, QĐ 1505/QĐ-UBND 26/7/2016 (đất Chè Văn Hưng); báo cáo CĐT, xã, phường trả lời CV 6059. Bản gốc không đưa vào kho.
+- **ref 44 (mới):** khung Báo cáo CCN gửi UBND tỉnh do Giám đốc chốt — bố cục 05 phần, thứ tự 09 cụm (Thống Nhất 1 → Phú Thịnh 1, 2, 3 → Minh Quân → Y Can → Bảo Minh → Mông Sơn → Yên Hợp 2), khung cố định từng cụm, nguyên nhân "trước hết thuộc về chủ đầu tư…" + "Trách nhiệm chính thuộc…, sau đó là…", 03 nhóm nguyên nhân, câu "UBND tỉnh đã nhiều lần chỉ đạo", chỉ quy trách nhiệm khi có căn cứ, các cụm từ đã bỏ, ước hiệu quả 1.500 lao động/cụm 75 ha (không ghi cách tính), dẫn nguồn đủ lần đầu; hiện trạng 25 cụm đến 05/10/2026; đất Chè Văn Hưng 72,23 ha theo BC 499 (khác 40,97 ha của phường ở ref 42 — khác phạm vi); mốc giao việc; quy ước tin Zalo nhóm lãnh đạo Sở; hỏi đáp QHCT 1/500 không tự miễn GPXD (Điều 21 NĐ 32/2024; điểm e khoản 2 Điều 43 Luật Xây dựng 135/2025).
+- **SKILL.md:** mục I.2 thêm dạng Báo cáo họp UBND tỉnh; bảng reference thêm ref 44, ref 43 bỏ nhãn "MỚI NHẤT" về hiện trạng; mục VII thêm nguyên tắc 10 (nguyên nhân, trách nhiệm).
+- `vi-du-thuc-te/`: `2026.10.05. Báo cáo tình hình triển khai các cụm công nghiệp trên địa bàn tỉnh đến ngày 05.10.2026.docx` (bản cuối, GĐ ký).
+- check_facts: `ccn-thu-tu-phu-thinh-1-2-3` (FAIL — không viết "Phú Thịnh 3, 2, 1"), `ccn-lao-dong-uoc-80-8-ld-ha` (FAIL — không dùng lại 80 hay 8 lao động/ha), `che-van-hung-40-97-ha-khac-pham-vi` (WARN).
+- Mốc 08 cụm NSNN đổi: xã gửi đủ hồ sơ trước 10/10, Sở trình UBND tỉnh trước 15/10/2026 (thay mốc 31/12/2026 của VB 8854 ở ref 41, 42 — lịch sử).
+- `plugin.json` → 1.48.0.
 
 ## [1.47.0] - 04/10/2026 — Danh mục thu hút đầu tư các CCN, các KCN và tin báo cáo Lãnh đạo, số chốt hết 01/10/2026
 

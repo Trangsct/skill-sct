@@ -64,6 +64,24 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "dacn-moc-ktxh-moi-nhat-9-thang",
+        # 07/10/2026: đã nạp mốc 9 tháng năm 2026 (dacn-sct-vn ref 12); mốc 6 tháng (ref 09) không còn là "mới nhất".
+        "pattern": r"^(?!.*(?:lịch sử|9 tháng|ref(?:erence)? `?12)).*[Mm]ốc (?:6 tháng )?mới nhất[^\n]{0,40}6 tháng",
+        "why": "Mốc số liệu KTXH mới nhất là 9 tháng năm 2026 (BC 998/BC-TKT ngày 30/9/2026 — dacn-sct-vn ref 12); ref 09 chỉ còn là mốc 6 tháng để so sánh.",
+        "since": "2026-10-07",
+        "level": "FAIL",
+        "only": ["dacn-sct-vn"],
+    },
+    {
+        "id": "qd-453-ten-de-an-day-du",
+        # 07/10/2026 đối chiếu bản gốc QĐ 453/QĐ-TTg ngày 18/3/2026: mục tiêu 2030 là "khoảng 9 tỷ USD qua hai lối thông quan",
+        # không phải kim ngạch toàn tỉnh.
+        "pattern": r"^(?!.*(?:lịch sử|hai lối thông quan|Kim Thành)).*453/QĐ-TTg[^\n]*9 tỷ USD",
+        "why": "QĐ 453/QĐ-TTg ngày 18/3/2026: khoảng 9 tỷ USD là tổng giá trị XNK qua lối thông quan cầu đường bộ Kim Thành và lối thông quan Bản Vược (dacn-sct-vn ref 13 mục D).",
+        "since": "2026-10-07",
+        "level": "WARN",
+    },
+    {
         "id": "ccn-lap-day-binh-quan-tren-dat-da-gpmb",
         # Bạn chốt 06/10/2026: tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp ĐÃ GPMB; 26,96% (chia cho toàn bộ
         # đất CN quy hoạch, Báo cáo 05/10/2026) bị phê bình — mọi chỗ nhắc 26,96% phải kèm "lịch sử"/"bị phê bình"/"không dùng".

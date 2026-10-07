@@ -1,3 +1,9 @@
+## dacn-sct-vn 1.7.0 — 07/10/2026: mốc số liệu 9 tháng năm 2026; thế mạnh công nghiệp và đề xuất hợp tác với Trung Quốc
+
+- Reference 12 mới: số liệu 9 tháng năm 2026 từ BC 998/BC-TKT ngày 30/9/2026, BC 432-BC/ĐU ngày 16/9/2026, báo cáo giao ban tháng 10 của Sở — bảng hai nguồn lệch nhau (GRDP 9,53% / 9,09%; công nghiệp - xây dựng 38,21% / 37,58%), số khớp (GTSXCN 56.678 tỷ +9,9%; IIP +7,7%; XNK 2.993,05 triệu USD +34,83%; 12 KCN lấp đầy 73,9%), diễn biến dự án đã xác nhận (Quý Xa hoạt động lại 10/9/2026).
+- Reference 13 mới: khung 12 mục công văn cung cấp thế mạnh công nghiệp, đề xuất hợp tác với Trung Quốc (Văn bản 10073/UBND-NC ngày 03/10/2026); Bạn chốt 07/10/2026: không nêu tên riêng doanh nghiệp, dựng bản đầy đủ, không đưa đất hiếm vào đề xuất hợp tác; QĐ 453/QĐ-TTg ngày 18/3/2026 đối chiếu bản gốc.
+- Rà thông tin cũ: SKILL.md, ref 02, 08, 09, 10. check_facts: `dacn-moc-ktxh-moi-nhat-9-thang` (FAIL), `qd-453-ten-de-an-day-du` (WARN).
+
 ## 06/10/2026 — Phân công Ban Giám đốc mới (QĐ 6286/QĐ-SCT ngày 05/10/2026): PGĐ Chiến ký hóa chất, VLNCN thay PGĐ Thuân (15 plugin)
 
 - QĐ 6286/QĐ-SCT ngày 05/10/2026 của Giám đốc Sở (thay QĐ 766/QĐ-SCT ngày 12/02/2026): GĐ + 6 PGĐ. **PGĐ Nguyễn Đình Chiến** phụ trách Phòng QLCN, nhận thêm **hóa chất, VLNCN, PCTT-TKCN**; **PGĐ Hoàng Văn Thuân** phụ trách **Phòng Quản lý Khoáng sản** (mới), giữ khai thác - chế biến khoáng sản, thiết kế mỏ, luyện kim, CN môi trường, ATVSLĐ, địa chất; **PGĐ Phạm Năng Chung** (mới) — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, KS làm VLXD. Xử lý thay khi vắng: Chiến ↔ Giang, Thuân ↔ Chung, Thành ↔ Tưởng.

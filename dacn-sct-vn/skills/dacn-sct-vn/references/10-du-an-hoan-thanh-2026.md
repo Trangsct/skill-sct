@@ -7,6 +7,8 @@
 > - Khi đưa vào báo cáo phát hành: hoặc Bạn xác nhận số/ngày văn bản gốc mà bản này được trích ra, hoặc ghi nguồn là "tổng hợp của Sở Công Thương" và chịu trách nhiệm về số liệu.
 > - Toàn bộ mốc tiến độ và số đóng góp trong tài liệu là **DỰ KIẾN** (số động) — phải đối chiếu tình hình thực tế tại kỳ báo cáo trước khi trích.
 
+> ✅ **Cập nhật 07/10/2026 — diễn biến đã xác nhận đến 30/9/2026 (chi tiết ref `12` mục IV):** Mỏ sắt Quý Xa **đã hoạt động trở lại từ 10/9/2026**; tuyển apatit Tam Đỉnh 250.000 tấn/năm **đã đi vào sản xuất**; KCN Phú Xuân, Phú Xuân 1 **đã khởi công**; 01 hệ tuyển Bắc Nhạc Sơn - Tằng Loỏng tái khởi động 20/9/2026. Các mốc "tháng 8/2026", "tháng 9/2026" trong bảng dưới là mốc dự kiến của bản gốc (lịch sử). Các dự án còn lại của nhóm a) **chưa có xác nhận hoàn thành** — hỏi Bạn trước khi viết "đã vận hành".
+
 ---
 
 ## I. TỔNG QUAN
@@ -160,7 +162,7 @@ Bảng này **không có trong bản gốc** — do plugin lập theo quy tắc 
 2. **Danh sách đầu mối đôn đốc**: mỗi dòng đã có sẵn *ai làm gì, hạn nào* → soạn công văn đôn đốc theo `mau-van-ban/02` không phải dựng lại từ đầu.
 3. **Đầu vào cập nhật sổ `danh-muc-du-an.json`**: bổ sung nhóm dự án hiện đang thiếu trong sổ (dự án khoáng sản, thủy điện, hạ tầng KCN/CCN — xem bảng phạm vi tại `SKILL.md` mục VI).
 4. **Đầu vào dựng kịch bản tăng trưởng** (ref `07`): 655,6 tỷ đồng đóng góp dự kiến là biến số then chốt của kịch bản quý IV/2026 — nhưng phần lớn phụ thuộc mốc quý III và quý IV, rủi ro trượt cao.
-5. **Đối chiếu cảnh báo đỏ IIP** (ref `09`: IIP 6 tháng 9,12% / mục tiêu 13%): tài liệu này chính là **danh mục giải pháp bù đắp** cho khoảng hụt 3,88 điểm %.
+5. **Đối chiếu cảnh báo đỏ IIP** (ref `12`: IIP 9 tháng 7,7%; ref `09`: IIP 6 tháng 9,12% / mục tiêu 13%): tài liệu này chính là **danh mục giải pháp bù đắp** cho khoảng hụt 3,88 điểm %.
 
 ---
 

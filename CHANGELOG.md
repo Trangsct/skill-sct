@@ -1,3 +1,9 @@
+## 07/10/2026 — sd-vlncn-sct-vn 2026.10.7.1, hnh-sct-vn 1.11.3: báo cáo VLNCN tháng 9/2026 của Công ty TNHH Huy Hoàng Lục Yên; đồng bộ CSDL trang vlncn-laocai
+
+- sd-vlncn-sct-vn ref 12 (máy sinh): thêm báo cáo 51/2026/BC-HHLY ngày 01/10/2026 kỳ tháng 9/2026 (Amonit AD1 43 kg, ANFO 475 kg, kíp điện K8 261 cái; tồn 156 kg / 200 kg / 338 cái); GP sử dụng VLNCN cập nhật đến 07/10/2026 (thêm 5466, 5467, 5468/GP-SCT; 1285/GP-UBND hết hiệu lực).
+- hnh-sct-vn ref 20 (máy sinh): thêm 5622/GP-SCT ngày 11/9/2026, tổng 16 GP.
+- Nguồn: PDF lưu `Trangsct/vlncn-laocai-files` (`uploads/bao_cao/51_BC-HHLY.pdf`), CSDL trang nạp qua `import_bao_cao.py`.
+
 ## dacn-sct-vn 1.7.0 — 07/10/2026: mốc số liệu 9 tháng năm 2026; thế mạnh công nghiệp và đề xuất hợp tác với Trung Quốc
 
 - Reference 12 mới: số liệu 9 tháng năm 2026 từ BC 998/BC-TKT ngày 30/9/2026, BC 432-BC/ĐU ngày 16/9/2026, báo cáo giao ban tháng 10 của Sở — bảng hai nguồn lệch nhau (GRDP 9,53% / 9,09%; công nghiệp - xây dựng 38,21% / 37,58%), số khớp (GTSXCN 56.678 tỷ +9,9%; IIP +7,7%; XNK 2.993,05 triệu USD +34,83%; 12 KCN lấp đầy 73,9%), diễn biến dự án đã xác nhận (Quý Xa hoạt động lại 10/9/2026).

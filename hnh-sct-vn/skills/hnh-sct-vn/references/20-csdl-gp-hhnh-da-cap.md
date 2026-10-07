@@ -1,11 +1,12 @@
 # 20 - Giấy phép vận chuyển HHNH Sở đã cấp (CSDL vlncn-laocai) - ảnh chụp tự động
 
-> **File do máy sinh tự động** từ cơ sở dữ liệu trang https://vlncn-laocai.vercel.app (lệnh `scripts/dong_bo_tri_thuc.py` trong repo vlncn-laocai), cập nhật ngày 03/09/2026. **KHÔNG sửa tay file này** - sửa dữ liệu trên trang web rồi chạy đồng bộ (hoặc chờ lượt tự động 18h40). Số liệu là **hiện trạng CSDL của trang**: giấy phép chưa nhập lên trang thì chưa có ở đây, nên đây là bảng tra nhanh, KHÔNG phải danh mục pháp lý đầy đủ; khi trích dẫn chính thức phải mở bản PDF ký số theo liên kết trong bảng. Danh sách phương tiện đầy đủ xem trên trang chi tiết từng giấy phép.
+> **File do máy sinh tự động** từ cơ sở dữ liệu trang https://vlncn-laocai.vercel.app (lệnh `scripts/dong_bo_tri_thuc.py` trong repo vlncn-laocai), cập nhật ngày 07/10/2026. **KHÔNG sửa tay file này** - sửa dữ liệu trên trang web rồi chạy đồng bộ (hoặc chờ lượt tự động 18h40). Số liệu là **hiện trạng CSDL của trang**: giấy phép chưa nhập lên trang thì chưa có ở đây, nên đây là bảng tra nhanh, KHÔNG phải danh mục pháp lý đầy đủ; khi trích dẫn chính thức phải mở bản PDF ký số theo liên kết trong bảng. Danh sách phương tiện đầy đủ xem trên trang chi tiết từng giấy phép.
 
-## A. Danh sách giấy phép (15 giấy phép trong CSDL, mới nhất trước)
+## A. Danh sách giấy phép (16 giấy phép trong CSDL, mới nhất trước)
 
 | Số GP | Ngày cấp | Hết hạn | Loại | Tổ chức (mã số DN) | Hàng hóa (số UN) | Số PT | Người đại diện | PDF |
 |---|---|---|---|---|---|---|---|---|
+| 5622/GP-SCT | 11/09/2026 | 31/05/2027 | 5.1 | Chi nhánh số 1 - Công ty CP Xuất nhập khẩu Sợi Phương Nam (0106092522001) | Canxi hypoclorit, khô hoặc hỗn hợp canxi hypoclorit, khô chứa trên 39% clo có sẵn (8,8% oxy có sẵn) (Calcium hypochlorit… | 1 | Bà Bùi Thanh Phương - Giám đốc Chi nhánh | [5622_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5622_GP-SCT.pdf) |
 | 5333/GP-SCT | 28/08/2026 | 30/06/2027 | 5.1 | Công ty TNHH Vận tải Toàn Phát TQ (5300843056) | Kali permanganat (Potassium Permanganate) (UN 1490) | 2 | Bà Trần Thị Minh Hoàn - Giám đốc | [5333_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5333_GP-SCT.pdf) |
 | 5334/GP-SCT | 28/08/2026 | 31/03/2027 | 2 | Công ty TNHH Vận tải Toàn Phát TQ (5300843056) | Amoniac khan (Ammonia, Anhydrous) (UN 1005) | 16 | Bà Trần Thị Minh Hoàn - Giám đốc | [5334_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5334_GP-SCT.pdf) |
 | 5299/GP-SCT | 27/08/2026 | 11/08/2027 | 2 | Công ty TNHH Bắc Thăng Long (5200281163) | Khí dầu mỏ hóa lỏng (LPG) (UN 1075) | 6 | Ông Nguyễn Anh Đức - Giám đốc | [5299_GP-SCT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/5299_GP-SCT.pdf) |
@@ -28,7 +29,7 @@
 |---|---|
 | Loại 2 | 5 |
 | Loại 3 | 5 |
-| Loại 5.1 | 1 |
+| Loại 5.1 | 2 |
 | Loại 8 | 4 |
 
 | Tháng cấp | Số GP |
@@ -37,9 +38,10 @@
 | 06/2026 | 2 |
 | 07/2026 | 1 |
 | 08/2026 | 10 |
+| 09/2026 | 1 |
 
-- Còn hiệu lực đến 03/09/2026: **15** giấy phép của **11** tổ chức.
-- Giấy phép sớm hết hạn nhất: 5334/GP-SCT (31/03/2027), 5241/GP-SCT (31/03/2027), 5333/GP-SCT (30/06/2027).
+- Còn hiệu lực đến 07/10/2026: **16** giấy phép của **12** tổ chức.
+- Giấy phép sớm hết hạn nhất: 5334/GP-SCT (31/03/2027), 5241/GP-SCT (31/03/2027), 5622/GP-SCT (31/05/2027).
 
 ## C. Cách trang web hỗ trợ nghiệp vụ HHNH
 

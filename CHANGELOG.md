@@ -1,3 +1,8 @@
+## kccn-sct-vn 1.49.0 — 07/10/2026: CCN Đầm Hồng (BC 541/BC-UBND phường Yên Bái); Ban Chỉ đạo KCN Võ Lao, Bản Qua (QĐ 2029/QĐ-UBND); kết luận Chủ tịch UBND tỉnh về KCN Võ Lao (TB 173/TB-VPUBND)
+
+- Reference 45 mới: hiện trạng CCN Đầm Hồng đến 29/9/2026 (lấp đầy 100%, 23 cơ sở, chưa có QĐ thành lập, Đề án di dời 42,9 tỷ về Âu Lâu 2028–2029, Sở thẩm định 10/2026); thành phần, nhiệm vụ Ban Chỉ đạo KCN Võ Lao, Bản Qua (PGĐ Chiến thành viên, BQL KKT thường trực); mốc chỉ đạo KCN Võ Lao: bàn giao ≥ 20 ha tháng 10, ~100 ha cuối tháng 11, khởi công tháng 11/2026.
+- Ref 12, 15, 30 trỏ sang ref 45; check_facts rule `vo-lao-khoi-cong-thang-11-2026` (WARN). Bản gốc 03 văn bản không đưa vào kho công khai.
+
 ## xp-sct-vn 1.7.0 — 07/10/2026: xử phạt VPHC lĩnh vực sở hữu công nghiệp (VBHN 25/2026/VBHN-NĐ-BKHCN; NĐ 99/2013 sđ 126/2021, 46/2024, 186/2026)
 
 - Reference 11 mới: Sở xử phạt hàng giả mạo nhãn hiệu, chỉ dẫn địa lý, tem nhãn giả (Đ12, 13) và xâm phạm quyền, cạnh tranh không lành mạnh khâu lưu thông (Đ6, 9, 11, 14) qua Chi cục QLTT (Đ18: KSV 25, Đội trưởng 75, Chi cục trưởng 125 tr — mức cá nhân, tổ chức ×2); GĐ Sở CT không có thẩm quyền; GĐ Sở KH&CN 200 tr; NĐ 186/2026 bãi bỏ thẩm quyền thanh tra (Đ16, 17) từ 15/7/2026; thủ tục Chương IV; câu viện dẫn chuẩn.

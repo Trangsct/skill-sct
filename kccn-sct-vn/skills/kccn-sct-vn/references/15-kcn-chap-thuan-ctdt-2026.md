@@ -142,6 +142,8 @@ danh mục):
 
 ## V. KCN VÕ LAO — QĐ 2463/QĐ-UBND ngày 16/7/2026
 
+> Cập nhật 07/10/2026: Ban Chỉ đạo KCN Võ Lao, Bản Qua (QĐ 2029/QĐ-UBND 10/6/2026) và kết luận Chủ tịch UBND tỉnh ngày 29/9/2026 (TB 173/TB-VPUBND 01/10/2026: bàn giao ≥ 20 ha trong tháng 10, ~100 ha cuối tháng 11, khởi công tháng 11/2026) — reference `45`.
+
 | Nội dung | Chi tiết |
 |---|---|
 | Văn bản | Quyết định số 2463/QĐ-UBND ngày 16/7/2026 của **UBND tỉnh Lào Cai** (TM. UBND, Chủ tịch Nguyễn Tuấn Anh ký; lưu VT, KT (Long)) |

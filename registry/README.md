@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **714** (Luật 35, NĐ 215, TT 109, QĐ 278, NQ 35, khác 42).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **716** (Luật 35, NĐ 215, TT 109, QĐ 280, NQ 35, khác 42).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **95**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -8,7 +8,7 @@
 
 | Mã | Số plugin | Plugins | Hiệu lực | Bị sửa đổi bởi | Bị thay thế bởi / dự thảo |
 |---|---|---|---|---|---|
-| QĐ 6286/QĐ-SCT | 15 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn |  |  |  |
+| QĐ 6286/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn |  |  |  |
 | QĐ 5/2025/QĐ-UBND | 15 | attp-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/7/2025 |  |  |
 | NĐ 30/2020 | 12 | attp-sct-vn, bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
 | Luật 42/2024 | 11 | atvsld-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/01/2025 | Luật 118/2025 (01/7/2026) |  |
@@ -90,7 +90,7 @@
 - TT 75/2024 (4 plugin: hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, vbhc-vn)
 - TT 98/2024 (3 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, vbhc-vn)
 - TT 6/2021 (4 plugin: kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn)
-- QĐ 6286/QĐ-SCT (15 plugin: bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn)
+- QĐ 6286/QĐ-SCT (16 plugin: bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn)
 - QĐ 2390/QĐ-UBND (4 plugin: dacn-sct-vn, kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
 - QĐ 2272/QĐ-UBND (5 plugin: hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 11/2026/QĐ-UBND (6 plugin: kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn)

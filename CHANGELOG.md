@@ -1,3 +1,8 @@
+## xp-sct-vn 1.7.0 — 07/10/2026: xử phạt VPHC lĩnh vực sở hữu công nghiệp (VBHN 25/2026/VBHN-NĐ-BKHCN; NĐ 99/2013 sđ 126/2021, 46/2024, 186/2026)
+
+- Reference 11 mới: Sở xử phạt hàng giả mạo nhãn hiệu, chỉ dẫn địa lý, tem nhãn giả (Đ12, 13) và xâm phạm quyền, cạnh tranh không lành mạnh khâu lưu thông (Đ6, 9, 11, 14) qua Chi cục QLTT (Đ18: KSV 25, Đội trưởng 75, Chi cục trưởng 125 tr — mức cá nhân, tổ chức ×2); GĐ Sở CT không có thẩm quyền; GĐ Sở KH&CN 200 tr; NĐ 186/2026 bãi bỏ thẩm quyền thanh tra (Đ16, 17) từ 15/7/2026; thủ tục Chương IV; câu viện dẫn chuẩn.
+- Văn bản gốc: PDF bản sao y UBND tỉnh (18,7 MB, export-ignore) + bản trích chữ .md + phiếu sao y. Ma trận ref 90 thêm dòng 19. `registry/trang-thai.csv`: NĐ 186/2026, NĐ 99/2013.
+
 ## attp-sct-vn 1.6.0 — 07/10/2026: Thông tư 63/2026/TT-BCT về cơ sở dữ liệu thực phẩm, truy xuất nguồn gốc (thay TT 11/2026/TT-BCT từ 15/11/2026)
 
 - Reference 12 mới: TT 63/2026/TT-BCT ngày 30/9/2026 (hiệu lực 15/11/2026) — 8 nhóm dữ liệu; việc của Sở tham mưu UBND tỉnh (Điều 15: số hóa GCN ATTP còn hiệu lực, hồ sơ công bố, hậu kiểm, báo cáo); nghĩa vụ truy xuất của cơ sở (Điều 9-11: hồ sơ phải lưu, lưu 12/60 tháng, cung cấp trong 24 giờ, các bước, Mẫu báo cáo Phụ lục); khung công văn yêu cầu truy xuất.

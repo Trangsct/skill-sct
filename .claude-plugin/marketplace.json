@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.134"
+    "version": "4.11.135"
   },
   "plugins": [
     {
@@ -125,8 +125,8 @@
     {
       "name": "xp-sct-vn",
       "source": "./xp-sct-vn",
-      "description": "Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026), kho VLNCN, HHNH, CCN, PCCC ngành CT, khoáng sản, ATTP, ATVSLĐ, điện lực; ma trận XỬ/CHUYỂN, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật. Từ 15/9/2026 xử phạt khoáng sản NĐ 36/2020 chuyển sang GĐ Sở Công Thương theo NQ 66.25/2026/NQ-CP (ref 06).",
-      "version": "1.6.2"
+      "description": "Xử phạt VPHC và kiểm tra chuyên ngành đa lĩnh vực - Sở Công Thương Lào Cai: trục Luật XLVPHC (sđ 2025), NĐ 118/2021, NĐ 189/2025 + 311/2026, NĐ 217/2025 + TT 56/2025; nhánh hóa chất - VLNCN (NĐ 275/2026), kho VLNCN, HHNH, CCN, PCCC ngành CT, khoáng sản, ATTP, ATVSLĐ, điện lực, sở hữu công nghiệp (VBHN 25/2026); ma trận XỬ/CHUYỂN, 13 mẫu văn bản, 8 checklist, hồ sơ mẫu thật. Từ 15/9/2026 xử phạt khoáng sản NĐ 36/2020 chuyển sang GĐ Sở Công Thương theo NQ 66.25/2026/NQ-CP (ref 06).",
+      "version": "1.7.0"
     },
     {
       "name": "atvsld-sct-vn",

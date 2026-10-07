@@ -112,6 +112,13 @@
 | 02/KDTCTN/GP-HC | 14/07/2025 | 14/07/2030 | Công ty CP Sản xuất và Thương mại Hóa chất An Phú | [02_KDTCTN_GP-HC.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/tctn/02_KDTCTN_GP-HC.pdf) |
 | 03/KDTCTN/GP-HC | 14/07/2025 | 14/07/2030 | Công ty CP Vật tư Phú Thọ | [03_KDTCTN_GP-HC.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/tctn/03_KDTCTN_GP-HC.pdf) |
 
+## E2. Giấy phép dịch vụ nổ mìn trong CSDL (2 giấy phép; Cục KTAT&MTCN cấp)
+
+| Số GP | Ngày cấp | Hết hạn | Tổ chức (mã số DN) | Phạm vi | Trạng thái | PDF |
+|---|---|---|---|---|---|---|
+| 46/GP-ATMT | 02/10/2026 | 01/10/2028 | Công ty TNHH Đồng Tiến (5200212314) | Phục vụ khai thác khoáng sản, thi công công trình xây dựng hạ tầng kỹ thuật | còn hiệu lực | [46_GP-ATMT.pdf](https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/dvnm/46_GP-ATMT.pdf) |
+| 33/GP-ATMT | 10/05/2024 | 09/05/2026 | Công ty TNHH Đồng Tiến (5200212314) | Dịch vụ nổ mìn trên địa bàn tỉnh Lào Cai | hết hiệu lực |  |
+
 ## F. Dịch vụ nổ mìn (thông báo Sở đã tiếp nhận)
 
 | Số VB | Ngày | Đơn vị dịch vụ nổ mìn | GP dịch vụ nổ mìn | Công trình | Trạng thái |

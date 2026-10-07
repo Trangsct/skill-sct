@@ -1,5 +1,11 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.10.7.1 — 07/10/2026 — báo cáo VLNCN tháng 9/2026 của Công ty TNHH Huy Hoàng Lục Yên; đồng bộ CSDL trang web
+
+- references/12 (máy sinh bằng `scripts/dong_bo_tri_thuc.py` của repo vlncn-laocai, ngày 07/10/2026): mục G thêm báo cáo **51/2026/BC-HHLY** ngày 01/10/2026 (kỳ tháng 9/2026, đến Sở số 21170 ngày 06/10/2026) — Amonit AD1 Ø60 dùng 43 kg, tồn 156 kg; ANFO dùng 475 kg, tồn 200 kg; kíp điện K8 dùng 261 cái, tồn 338 cái; kíp vi sai 0; không nhập mới; 01 kho 5.000 kg; không sự cố. Tổng 7 báo cáo định kỳ trên trang.
+- Cùng lượt (lượt tự động 18h40 dừng từ 10/9/2026): mục B, C, D cập nhật theo CSDL đến 07/10/2026 — thêm 5466, 5467, 5468/GP-SCT ngày 07/9/2026; 1285/GP-UBND chuyển sang hết hiệu lực (30/9/2026); 34 GP còn hiệu lực của 29 tổ chức.
+- Bản PDF: `vlncn-laocai-files/uploads/bao_cao/51_BC-HHLY.pdf`.
+
 ## v2026.9.30.1 — 30/9/2026 — PANM bản đầy đủ có bìa, đường kẻ quốc hiệu; tính kíp theo thiết kế đã thẩm định (Kim Thành)
 
 Nguồn: chỉ đạo PTP Trần Trọng Trang 29–30/9/2026 khi dựng Phương án nổ mìn cho Cty CP Kim Thành (mỏ chì - kẽm Cao Phạ, xã Tú Lệ) để DN nộp hồ sơ cấp điều chỉnh Giấy phép 5248/GP-SCT ngày 25/8/2026.

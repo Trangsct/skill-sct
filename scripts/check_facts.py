@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "tt-11-2026-bct-thay-boi-tt-63",
+        # TT 63/2026/TT-BCT ngày 30/9/2026 (CSDL thực phẩm, truy xuất nguồn gốc) thay thế TT 11/2026/TT-BCT ngày 27/02/2026
+        # từ 15/11/2026 (khoản 2 Điều 19). Chỉ khớp ký hiệu TT-BCT — TT 11/2026/TT-BNNMT, TT-BXD là văn bản khác.
+        "pattern": r"^(?!.*(?:63/2026|lịch sử)).*11/2026/TT-BCT",
+        "why": "TT 11/2026/TT-BCT (truy xuất nguồn gốc thực phẩm) bị TT 63/2026/TT-BCT ngày 30/9/2026 thay thế từ 15/11/2026; dòng nào nhắc TT 11/2026/TT-BCT phải nêu kèm TT 63/2026 (attp-sct-vn ref 12).",
+        "since": "2026-10-07",
+        "level": "FAIL",
+    },
+    {
         "id": "pgd-chien-ky-hoa-chat-vlncn-hhnh",
         # QĐ 6286/QĐ-SCT ngày 05/10/2026 (phân công BGĐ, thay QĐ 766): PGĐ Nguyễn Đình Chiến phụ trách Phòng QLCN, hóa chất,
         # VLNCN, PCTT; Bạn chốt 06/10/2026 dự kiến Chiến ký cả HHNH, PCCC. PGĐ Thuân giữ khai thác - chế biến khoáng sản,

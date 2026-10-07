@@ -21,6 +21,7 @@ Trình tự lập biên bản VPHC, ra quyết định xử phạt: chuyển plu
 ## 4. Kiểm tra nhà nước về ATTP nhập khẩu, xuất khẩu
 
 - Theo NĐ 146/2025: kiểm tra nhà nước đối với **thực phẩm xuất khẩu** (khoản 1 Điều 23 NĐ 15/2018) và **truy xuất nguồn gốc** sản phẩm không bảo đảm an toàn (khoản 2 Điều 35 NĐ 15/2018) do **Chủ tịch UBND cấp tỉnh** thực hiện; **chỉ định cơ sở kiểm nghiệm** phục vụ QLNN và **chỉ định cơ quan kiểm tra nhà nước về ATTP nhập khẩu** do **UBND cấp tỉnh** thực hiện.
+- **Truy xuất nguồn gốc - trình tự, hồ sơ, mẫu báo cáo:** từ **15/11/2026** theo **TT 63/2026/TT-BCT ngày 30/9/2026** (thay TT 11/2026/TT-BCT ngày 27/02/2026): cơ quan phát hiện thực phẩm không an toàn gửi văn bản yêu cầu cơ sở truy xuất (Điều 12); cơ sở thực hiện các bước Điều 11, báo cáo theo Mẫu Phụ lục; hồ sơ cung cấp trong 24 giờ (Điều 10). Chi tiết **reference 12**. Thu hồi, xử lý sản phẩm vẫn theo Chương IV TT 43/2018/TT-BCT.
 - **Công văn số 699/BCT-CN ngày 02/02/2026** của Bộ Công Thương về kiểm tra nhà nước ATTP nhập khẩu (file gốc Bạn cung cấp) - **chưa trích nội dung**, mở file khi xử lý việc cụ thể.
 - **Công văn số 857/UBND-KT ngày 03/02/2026** của UBND tỉnh về tháo gỡ vướng mắc xuất nhập khẩu hàng hóa nông sản (file gốc Bạn cung cấp).
 

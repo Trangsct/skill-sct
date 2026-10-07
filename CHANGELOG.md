@@ -1,3 +1,9 @@
+## attp-sct-vn 1.6.0 — 07/10/2026: Thông tư 63/2026/TT-BCT về cơ sở dữ liệu thực phẩm, truy xuất nguồn gốc (thay TT 11/2026/TT-BCT từ 15/11/2026)
+
+- Reference 12 mới: TT 63/2026/TT-BCT ngày 30/9/2026 (hiệu lực 15/11/2026) — 8 nhóm dữ liệu; việc của Sở tham mưu UBND tỉnh (Điều 15: số hóa GCN ATTP còn hiệu lực, hồ sơ công bố, hậu kiểm, báo cáo); nghĩa vụ truy xuất của cơ sở (Điều 9-11: hồ sơ phải lưu, lưu 12/60 tháng, cung cấp trong 24 giờ, các bước, Mẫu báo cáo Phụ lục); khung công văn yêu cầu truy xuất.
+- Ref 08, 05, SKILL.md cập nhật; bản gốc .docx + text trong van-ban-goc. TT 63 vẫn dẫn NĐ 15/2018 + NQ 15/2026 — củng cố kết luận áp dụng NĐ 15/2018.
+- `scripts/check_facts.py`: rule `tt-11-2026-bct-thay-boi-tt-63` (FAIL). `registry/trang-thai.csv`: thêm TT 63/2026; dựng lại registry.
+
 ## 07/10/2026 — sd-vlncn-sct-vn 2026.10.7.1, hnh-sct-vn 1.11.3: báo cáo VLNCN tháng 9/2026 của Công ty TNHH Huy Hoàng Lục Yên; đồng bộ CSDL trang vlncn-laocai
 
 - sd-vlncn-sct-vn ref 12 (máy sinh): thêm báo cáo 51/2026/BC-HHLY ngày 01/10/2026 kỳ tháng 9/2026 (Amonit AD1 43 kg, ANFO 475 kg, kíp điện K8 261 cái; tồn 156 kg / 200 kg / 338 cái); GP sử dụng VLNCN cập nhật đến 07/10/2026 (thêm 5466, 5467, 5468/GP-SCT; 1285/GP-UBND hết hiệu lực).

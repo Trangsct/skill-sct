@@ -67,6 +67,7 @@ Plugin này **xác minh nội dung chuyên môn KCN/CCN**, không thay thế cá
 | `hc-sct-vn` | Dự án thứ cấp hóa chất trong CCN (GCN đủ điều kiện, KH phòng ngừa sự cố) |
 | `hnh-sct-vn` | Vận chuyển hàng hóa nguy hiểm phục vụ dự án trong CCN |
 | `kho-vlncn-sct-vn` / `sd-vlncn-sct-vn` / `hl-vlncn-sct-vn` | GPMB có nổ mìn, kho VLNCN tạm phục vụ thi công hạ tầng CCN |
+| `dat-dai-sct-vn` | Đọc báo cáo GPMB của xã, chủ đầu tư: trình tự 12 bước thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn (thông báo thu hồi đất 60 ngày, 120 ngày; niêm yết 10 ngày; thẩm định 30 ngày làm việc; chi trả 30 ngày); tách số liệu đã phê duyệt phương án, đã chi trả, đã thu hồi, đã bàn giao |
 | `quy-hoach-ct-vn` | Đối chiếu quy hoạch điện, khoáng sản khi kiểm tra chồng lấn vị trí CCN (reference 11 mục E) |
 | `sct-laocai-org-vn` | Xác định người ký, chuyên viên tham mưu, dòng Lưu VT CN |
 | Skill `kcn-ccn-vn` (cũ) | **Là tiền thân của plugin này** — sau khi cài plugin, nên gỡ skill cũ trong Settings → Skills để tránh trùng trigger; dữ liệu hiện trạng chi tiết (reference 15-18 skill cũ) hỏi Bạn hoặc chuyển dần vào `vi-du-thuc-te/` |

@@ -1,0 +1,20 @@
+# 07 — 10 trường hợp phát sinh và cách xử lý
+
+Nguồn: Sổ tay, Chương II mục VI (trang in 39-42).
+
+| STT | Tình huống | Cách xử lý theo Sổ tay |
+|---|---|---|
+| 1 | Người có đất thu hồi đã chết trước thời điểm đo đạc, kiểm đếm mà chưa làm thủ tục thừa kế | Đo đạc, kiểm đếm với sự tham gia của những người thuộc diện thừa kế hoặc người đại diện cho họ (có biên bản họp thống nhất giữa những người thuộc diện thừa kế, có xác nhận của chính quyền nơi có đất thu hồi hoặc Văn phòng công chứng) |
+| 2 | Giấy chứng nhận gồm nhiều loại đất trên cùng một thửa, không có ranh giới phân chia các loại đất, dự án chỉ thu hồi một phần thửa | Căn cứ hiện trạng sử dụng đất thực tế để xác định loại đất của phần thu hồi. Người bị thu hồi có đề nghị cụ thể về loại đất bồi thường: ghi rõ vào biên bản kiểm đếm để làm cơ sở áp giá. Cơ quan có thẩm quyền chỉnh lý Giấy chứng nhận cho phù hợp |
+| 3 | Người có đất có mặt nhưng không ký biên bản kiểm kê | Ghi rõ sự việc, lý do từ chối; thành viên tổ kiểm đếm, đại diện bản (tổ dân phố) ký xác nhận; UBND cấp xã xác nhận. Niêm yết công khai kết quả đo đạc, kiểm đếm trong **07 ngày** tại trụ sở UBND cấp xã, điểm sinh hoạt khu dân cư, đăng Cổng thông tin điện tử của UBND cấp xã |
+| 4 | Hộ gia đình có cả vợ, chồng đang chấp hành án phạt tù, không có người thân tại địa phương, không có giấy ủy quyền | Kiểm đếm, thu hồi đất theo diện vắng chủ, có sự chứng kiến, giám sát của đại diện cộng đồng dân cư (tổ dân phố, thôn, bản), MTTQ, đại diện Viện kiểm sát nhân dân. UBND cấp xã đề nghị Viện kiểm sát nhân dân cử cán bộ làm việc với người đang chấp hành án tại nơi giam giữ để gửi thông báo thu hồi đất, phương án chi tiết; phối hợp cơ quan Công an nơi giam giữ thông báo chủ trương thu hồi đất, kết quả đo đạc, kiểm đếm, giá trị bồi thường. Không đồng thuận kết quả: thực hiện theo quy định kiểm đếm bắt buộc |
+| 5 | Sau khi giải tỏa một phần nhà ở, công trình, phần còn lại không thể tiếp tục sử dụng | Đo đạc, kiểm đếm, tính bồi thường toàn bộ phần diện tích còn lại của nhà ở, công trình; biên bản ghi rõ lý do. Chỉ chi trả phần còn lại sau khi người sử dụng đất bàn giao nhà ở, công trình để phá dỡ |
+| 6 | Thửa đất, tài sản đã bị kê biên theo quyết định của Tòa án hoặc Thi hành án, hoặc đã đăng ký thế chấp vay vốn tại tổ chức tín dụng | Thông báo cho cơ quan có thẩm quyền quản lý, xử lý tài sản cùng phối hợp kiểm đếm, lập phương án. Chỉ chi trả sau khi có ý kiến chính thức bằng văn bản của cơ quan đã ban hành quyết định kê biên hoặc tổ chức tín dụng nhận thế chấp |
+| 7 | Chuyển quyền sử dụng đất, nhà ở gắn liền với đất ở đã lập xong hợp đồng nhưng người chuyển quyền không nộp Giấy chứng nhận hoặc giấy tờ theo Đ137 Luật Đất đai năm 2024 để chỉnh lý, cấp Giấy chứng nhận cho người nhận chuyển quyền | Kiểm đếm, lập phương án cho người nhận chuyển quyền. Người được bồi thường cam kết chịu trách nhiệm trước pháp luật khi có khiếu nại của người có tên trong Giấy chứng nhận |
+| 8 | Phần diện tích còn lại của thửa đất sau thu hồi nhỏ hơn diện tích tối thiểu tách thửa theo quy định của UBND tỉnh | Người sử dụng đất đồng ý thu hồi thì UBND cấp xã quyết định thu hồi và bồi thường, hỗ trợ, tái định cư (k7 Đ91 Luật Đất đai). Đơn: Mẫu số 14. Diện tích tối thiểu tách thửa tại Lào Cai: Đ12, Đ13, Đ14 QĐ 49/2026/QĐ-UBND (reference `12` mục C) |
+| 9 | Người sử dụng đất có giấy tờ theo k2 Đ95 Luật Đất đai năm 2024 đã chết, có di chúc hoặc những người thừa kế đã phân chia di sản nhưng chưa đăng ký đất đai | Thực hiện trình tự thu hồi, bồi thường đối với người thừa kế theo di chúc hoặc người nhận thừa kế theo phân chia di sản |
+| 10 | Thửa đất, khu đất thu hồi đang tranh chấp | Vẫn kiểm đếm, ghi rõ trong biên bản "đất đang tranh chấp" làm cơ sở lập hồ sơ. Chi trả theo k5 Đ25 NĐ 88/2024/NĐ-CP ngày 15/7/2024 (gửi tiền vào tài khoản, trả sau khi giải quyết xong — reference `03` Bước 9 khoản 10) |
+
+## Dùng cho báo cáo của Sở
+
+Khi xã, chủ đầu tư báo "còn … hộ vướng", hỏi vướng thuộc tình huống nào trong bảng: tình huống 6, 10 không chặn việc bàn giao mặt bằng (tiền gửi tài khoản, vẫn thu hồi); tình huống 1, 4, 9 kéo dài do thủ tục nhân thân; tình huống 3 xử lý bằng niêm yết 07 ngày.

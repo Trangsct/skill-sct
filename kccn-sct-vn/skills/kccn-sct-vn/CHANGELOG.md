@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.48.2] - 07/10/2026 — Liên kết sang plugin dat-dai-sct-vn
+
+- SKILL.md bảng plugin liên kết: thêm dòng `dat-dai-sct-vn` (trình tự thu hồi đất, bồi thường, hỗ trợ, tái định cư ở cấp xã; mốc thời hạn; cách tách số liệu GPMB).
+- `plugin.json` → 1.48.2.
+
 ## [1.48.1] - 06/10/2026 — Tỷ lệ lấp đầy bình quân CCN tính trên đất công nghiệp đã GPMB
 
 - Bạn chốt sau cuộc họp UBND tỉnh 06/10/2026: mẫu số là đất công nghiệp đã giải phóng mặt bằng (có mặt bằng cho thuê); 26,96% (203,76/755,81 ha) là cách tính cũ, bị phê bình — không dùng lại. Ref 44 mục B.6, C, K; SKILL.md VII.11; check_facts `ccn-lap-day-binh-quan-tren-dat-da-gpmb`.

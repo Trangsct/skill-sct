@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.131"
+    "version": "4.11.134"
   },
   "plugins": [
     {
       "name": "attp-sct-vn",
       "source": "./attp-sct-vn",
-      "description": "An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP, tự công bố và đăng tải sản phẩm, hậu kiểm; thuốc lá, rượu, bia, nước giải khát, sữa, dầu thực vật, bánh kẹo; ranh giới 3 ngành. Ủy quyền QĐ 68/QĐ-UBND 09/01/2026; cắt giảm hồ sơ theo NQ 66.16/2026 từ 15/4/2026. Hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN. CẢNH BÁO: NĐ 46/2026 tạm ngưng theo NQ 15/2026, áp dụng NĐ 15/2018. Kèm văn bản gốc, biểu mẫu, ví dụ thực tế.",
-      "version": "1.5.2"
+      "description": "An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP, tự công bố và đăng tải sản phẩm, hậu kiểm, truy xuất (TT 63/2026/TT-BCT); thuốc lá, rượu, bia, nước giải khát, sữa, bánh kẹo; ranh giới 3 ngành. Ủy quyền QĐ 68/QĐ-UBND 09/01/2026; cắt giảm hồ sơ theo NQ 66.16/2026 từ 15/4/2026. Hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN. CẢNH BÁO: NĐ 46/2026 tạm ngưng theo NQ 15/2026, áp dụng NĐ 15/2018. Kèm văn bản gốc, mẫu, ví dụ.",
+      "version": "1.6.0"
     },
     {
       "name": "bpb-sct-vn",

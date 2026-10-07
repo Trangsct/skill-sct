@@ -21,3 +21,7 @@ Chưa có trong thư mục (mở từ bộ tài liệu của Bạn khi cần): L
 - `2018.04.20 3109.BCT.KHCN ...pdf` - hướng dẫn của Bộ Công Thương: mục 1 xác định sản xuất thực phẩm nhỏ lẻ là một công đoạn của kinh doanh thực phẩm nhỏ lẻ; mục 2 TT 57/2015/TT-BCT không còn hiệu lực; mục 3 khoản 9 Điều 36; mục 4 rượu thủ công; mục 5 siêu thị cấp 01 GCN.
 - `2021.12.30 8520.BCT.KHCN ...pdf` - hướng dẫn của Bộ Công Thương: cơ sở nhỏ lẻ không thuộc diện cấp GCN, phải đáp ứng khoản 1 Điều 22 Luật ATTP và gửi bản cam kết theo khoản 2 Điều 10 NĐ 17/2020/NĐ-CP; Điều 40-43 Mục 7 Chương VI NĐ 77/2016 đã bị bãi bỏ bởi khoản 14 Điều 18 NĐ 08/2018.
 - Hai công văn này là căn cứ đảo kết luận của v1.2.0. Đọc trước khi trả lời bất kỳ câu hỏi về "cơ sở có phải xin Giấy chứng nhận không".
+
+## Bổ sung v1.6.0 (07/10/2026)
+
+- `2026.09.30 63.2026.TT.BCT Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.docx` - **bản gốc TT 63/2026/TT-BCT** ngày 30/9/2026 (KT. Bộ trưởng - Thứ trưởng Trương Thanh Hoài ký), hiệu lực 15/11/2026, thay thế TT 11/2026/TT-BCT. Kèm bản `.txt` trích bằng pandoc (giữ bảng quốc hiệu, nơi nhận, Phụ lục mẫu báo cáo) để grep nhanh. Tóm tắt nghiệp vụ: reference 12.

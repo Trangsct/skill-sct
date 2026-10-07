@@ -1,6 +1,6 @@
 # Reference 08 - CẢNH BÁO HIỆU LỰC lĩnh vực ATTP (trạng thái năm 2026)
 
-Cập nhật: 30/8/2026. Đây là reference **bắt buộc đọc** trước khi trích căn cứ pháp lý ATTP vào bất kỳ văn bản nào.
+Cập nhật: 30/8/2026; bổ sung TT 63/2026/TT-BCT ngày 07/10/2026. Đây là reference **bắt buộc đọc** trước khi trích căn cứ pháp lý ATTP vào bất kỳ văn bản nào.
 
 ## 1. Diễn biến
 
@@ -14,6 +14,7 @@ Cập nhật: 30/8/2026. Đây là reference **bắt buộc đọc** trước kh
 | 06/4/2026 | **Nghị quyết số 15/2026/NQ-CP** | **Thay thế NQ 09/2026**; tạm ngưng hiệu lực áp dụng NĐ 46/2026 và NQ 66.13/2026 **cho đến khi Luật ATTP (sửa đổi) và Nghị định hướng dẫn có hiệu lực**; trong thời gian tạm ngưng, **NĐ 15/2018 và các văn bản hướng dẫn tiếp tục có hiệu lực**; hồ sơ đã nộp trước ngày NQ có hiệu lực tiếp tục giải quyết theo NĐ 15/2018 |
 | 09/7/2026 | (đang soạn thảo) | Tổ soạn thảo Luật ATTP (sửa đổi) thông qua khung đề cương |
 | 18/8/2026 | Phiên họp Chính phủ chuyên đề xây dựng pháp luật tháng 8/2026 | Cho ý kiến các dự án luật trình Kỳ họp thứ 2; hồ sơ phải hoàn thiện gửi UBTVQH **trước 20/8/2026** |
+| 30/9/2026 | **Thông tư số 63/2026/TT-BCT** (Bộ Công Thương) | CSDL thực phẩm thuộc phạm vi Bộ Công Thương và truy xuất nguồn gốc; hiệu lực **15/11/2026**; **thay thế TT 11/2026/TT-BCT** ngày 27/02/2026. Phần căn cứ vẫn dẫn **NĐ 15/2018 + NQ 15/2026** (reference 12) |
 | Dự kiến 10/2026 | Kỳ họp thứ 2, Quốc hội khóa XVI | Chính phủ **dự kiến trình** dự án Luật ATTP (sửa đổi). Tính đến 30/8/2026 **Luật chưa được thông qua** |
 
 ## 2. Kết luận áp dụng tại thời điểm cập nhật (30/8/2026)
@@ -23,6 +24,7 @@ Cập nhật: 30/8/2026. Đây là reference **bắt buộc đọc** trước kh
 - Văn bản nghiệp vụ đang áp dụng: **Luật ATTP số 55/2010/QH12 + Nghị định số 15/2018/NĐ-CP + Thông tư số 43/2018/TT-BCT**.
 - **KHÔNG dẫn NĐ 46/2026/NĐ-CP** làm căn cứ trong công văn, quyết định, giấy chứng nhận.
 - Khi cần nêu lý do vì sao vẫn dùng NĐ 15/2018 (doanh nghiệp thắc mắc, đoàn kiểm tra hỏi): dẫn **Nghị quyết số 15/2026/NQ-CP ngày 06/4/2026**.
+- **Bằng chứng củng cố (mới nhất):** Thông tư số 63/2026/TT-BCT ngày 30/9/2026 của Bộ Công Thương vẫn dẫn NQ 15/2026/NQ-CP và NĐ 15/2018/NĐ-CP làm căn cứ, điểm d khoản 1 Điều 9 dẫn điểm k khoản 1 Điều 12 NĐ 15/2018 (reference 12).
 - **Bằng chứng củng cố:** Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026 của Bộ Nông nghiệp và Môi trường (ban hành sau NQ 15/2026) vẫn dẫn **Điều 15-19 NĐ 15/2018** làm trình tự kiểm tra nhà nước về ATTP nhập khẩu - xác nhận NĐ 15/2018 là văn bản đang áp dụng (reference 10).
 - **Cửa sổ rủi ro sắp tới:** nếu Luật ATTP (sửa đổi) được thông qua tại Kỳ họp thứ 2 (dự kiến tháng 10/2026), trạng thái pháp lý sẽ thay đổi khi Luật và Nghị định hướng dẫn có hiệu lực. **Từ tháng 10/2026 trở đi, bắt buộc tra lại trước mỗi lần trích căn cứ**, không dựa vào kết luận của bản skill này.
 
@@ -39,7 +41,7 @@ Một số trang tra cứu pháp luật vẫn ghi "NĐ 15/2018 hết hiệu lự
 
 ## 5. Văn bản liên quan cần theo dõi
 
-- Thông tư số 11/2026/TT-BCT về truy xuất nguồn gốc thực phẩm thuộc phạm vi quản lý của Bộ Công Thương - **chưa đối chiếu toàn văn**, cần xác minh phạm vi và tình trạng hiệu lực trước khi viện dẫn.
+- Thông tư số 11/2026/TT-BCT ngày 27/02/2026 về truy xuất nguồn gốc thực phẩm thuộc phạm vi quản lý của Bộ Công Thương **bị thay thế bởi TT 63/2026/TT-BCT từ 15/11/2026** (khoản 2 Điều 19 TT 63). Trước 15/11/2026 còn áp dụng (plugin chưa có toàn văn); từ 15/11/2026 chỉ dẫn TT 63/2026 - **reference 12**.
 - Thông tư số 34/2026/TT-BCT về quản lý chất lượng sản phẩm hàng hóa thuộc quản lý của Bộ Công Thương - **chưa đối chiếu toàn văn**.
 - Nghị định số 115/2018/NĐ-CP về xử phạt VPHC về ATTP và các văn bản sửa đổi - cần rà bản hợp nhất mới nhất khi dùng.
 - **Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026** (Bộ Nông nghiệp và Môi trường): Điều 2 và Điều 3 có hiệu lực **01/9/2026** - chuyển đầu mối kiểm tra nhà nước về ATTP nhập khẩu thuộc thẩm quyền Bộ NN&MT về cơ quan do Chủ tịch UBND cấp tỉnh giao hoặc chỉ định. Chi tiết tại **reference 10**.

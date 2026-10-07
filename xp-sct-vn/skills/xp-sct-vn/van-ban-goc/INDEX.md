@@ -48,3 +48,5 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 | Nghị định | Lĩnh vực | Reference cần |
 |---|---|---|
 | NĐ 68/2025 + 190/2025 (sửa NĐ 118 — NĐ 118 bản gốc và Luật 88/2025 đã có ở `chung/`); VBHN 63/VBHN-VPQH 2025 (Luật XLVPHC) | Thủ tục chung | 00, 10 |
+
+| **so-huu-cong-nghiep/VBHN-25-2026-...pdf** (18,7 MB — **chỉ có trên GitHub**, không vào gói claude.ai) + **...ban-trich-chu.md** + phiếu sao y .docx | **Văn bản hợp nhất 25/2026/VBHN-NĐ-BKHCN ngày 30/9/2026** — NĐ 99/2013/NĐ-CP xử phạt VPHC lĩnh vực sở hữu công nghiệp, sửa bởi NĐ 126/2021, NĐ 46/2024, **NĐ 186/2026** (hiệu lực 15/7/2026); bản sao y điện tử UBND tỉnh ký số 03/10/2026 (TL. Chủ tịch, KT. CVP, PCVP Nguyễn Thúc Mạnh) | Đ2 mức (CN 250 / TC 500 tr), **Đ11–14** hành vi, **k2 Đ15 + Đ18 QLTT** (KSV 25, Đội trưởng 75, Chi cục trưởng 125 tr — mức CN), k6 Đ15 + k2 Đ21 GĐ Sở KH&CN 200 tr, Đ21a lập BB, Đ22–31 thủ tục — `references/11`. Bản trích chữ do Claude đọc từ scan; quyết định xử phạt phải đối chiếu PDF |

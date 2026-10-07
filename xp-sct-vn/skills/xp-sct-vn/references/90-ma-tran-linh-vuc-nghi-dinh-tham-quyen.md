@@ -1,6 +1,6 @@
 # 90 — MA TRẬN TRA NHANH: lĩnh vực → nghị định xử phạt → thời hiệu → ai phạt → Sở XỬ hay CHUYỂN
 
-Cập nhật 01/9/2026. Cột "Trạng thái" = mức độ đã xác minh: ✅ có bản gốc trong plugin; 🔎 đã xác minh số hiệu/hiệu lực qua tra cứu 2026 nhưng chưa có bản gốc; ⚠️ có dấu hiệu sắp thay đổi (dự thảo) hoặc chưa xác minh — bắt buộc tra vbpl.vn trước khi viện dẫn điều khoản.
+Cập nhật 01/9/2026; thêm dòng 19 sở hữu công nghiệp 07/10/2026. Cột "Trạng thái" = mức độ đã xác minh: ✅ có bản gốc trong plugin; 🔎 đã xác minh số hiệu/hiệu lực qua tra cứu 2026 nhưng chưa có bản gốc; ⚠️ có dấu hiệu sắp thay đổi (dự thảo) hoặc chưa xác minh — bắt buộc tra vbpl.vn trước khi viện dẫn điều khoản.
 
 | # | Lĩnh vực | Nghị định xử phạt hiện hành | Thời hiệu | Ai có thẩm quyền chính | Sở Công Thương | Reference | Trạng thái |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@ Cập nhật 01/9/2026. Cột "Trạng thái" = mức độ đã xác minh: ✅ 
 | 16 | Thương mại, hàng giả, hàng cấm, bảo vệ NTD | **NĐ 98/2020** sđ **NĐ 17/2022**, **NĐ 24/2025** (đã đối chiếu cả hai) (thay Mục 9 Chương II) | 02 năm | QLTT (Đ82: Đội trưởng 25/50; Chi cục trưởng 50/100, tước GP); Chủ tịch UBND | XỬ qua Chi cục QLTT (công chức QLCN không lập BB — Đ80) | 07, 09 | ✅ |
 | 17 | An ninh trật tự (GCN ANTT kho, ngành nghề có điều kiện) | **NĐ 282/2025** (thay NĐ 144/2021) | 01 năm | Công an | CHUYỂN | 01/06 | ✅ |
 | 18 | Thuế, phí (tiền cấp quyền, thuế tài nguyên) | NĐ 125/2020 (thuế) sđ; NĐ 2/2026 (phí, lệ phí) | 02 năm (thuế) | Thuế tỉnh | Không liên quan; chỉ đối chiếu VLNCN – sản lượng khi được hỏi | 06 | 🔎 |
+| 19 | Sở hữu công nghiệp: hàng giả mạo nhãn hiệu, chỉ dẫn địa lý; xâm phạm quyền; cạnh tranh không lành mạnh | **NĐ 99/2013** sđ NĐ 126/2021, NĐ 46/2024, **NĐ 186/2026** (hiệu lực 15/7/2026) — VBHN 25/2026/VBHN-NĐ-BKHCN | 02 năm | **QLTT** (k2 Đ15, Đ18: KSV 25, Đội trưởng 75, Chi cục trưởng 125 tr — mức CN, TC ×2) xử Đ12, 13 cả sản xuất và Đ6, 9, 11, 14 khâu lưu thông; **GĐ Sở KH&CN 200 tr** (toàn Chương II); Chủ tịch xã 125 / tỉnh 250; Công an; Hải quan | XỬ qua **Chi cục QLTT**; GĐ Sở, công chức phòng của Sở không có tên (Đ15–21a) → không lập BB, CHUYỂN QLTT/Sở KH&CN; sáng chế Đ10 → Sở KH&CN | 11 | ✅ |
 
 ## Quy tắc quyết định XỬ / CHUYỂN (3 câu hỏi)
 

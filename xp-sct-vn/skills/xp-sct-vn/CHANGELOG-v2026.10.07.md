@@ -1,0 +1,7 @@
+# CHANGELOG — xp-sct-vn v1.7.0 (07/10/2026)
+
+Nạp **Văn bản hợp nhất số 25/2026/VBHN-NĐ-BKHCN ngày 30/9/2026** của Bộ Khoa học và Công nghệ (KT. Bộ trưởng - Thứ trưởng Hoàng Minh xác thực): Nghị định xử phạt VPHC trong lĩnh vực sở hữu công nghiệp — NĐ 99/2013/NĐ-CP sửa đổi bởi NĐ 126/2021, NĐ 46/2024 và **NĐ 186/2026/NĐ-CP ngày 26/5/2026 (hiệu lực 15/7/2026)**. Bạn gửi bản sao y điện tử của UBND tỉnh (ký số 03/10/2026) và phiếu sao y .docx.
+
+- **references/11 mới** `11-so-huu-cong-nghiep-vbhn-25-2026.md`: mốc hiệu lực; thời hiệu 02 năm; mức CN 250 / TC 500 tr; **Sở xử phạt qua Chi cục QLTT** (k2 Đ15: Đ12, 13 cả khâu sản xuất; Đ6, 9, 11, 14 khâu lưu thông, tiếp tục xử lý tại cơ sở sản xuất); bảng thẩm quyền Đ18 (KSV 25, Đội trưởng 75, Chi cục trưởng 125 tr — mức CN); GĐ Sở CT và công chức phòng chuyên môn không có tên trong Đ15–21a → chuyển QLTT/Sở KH&CN; bảng ai khác xử phạt (GĐ Sở KH&CN 200 tr, Chủ tịch UBND, Công an, Hải quan; Đ16, 17 thanh tra bãi bỏ); bảng hành vi – mức hay gặp (Đ6, 9, 11–14); thủ tục Chương IV (thời hạn 10 ngày, 30 ngày; rút đơn vẫn xử phạt; đổi tên DN, tên hộ kinh doanh 60 ngày); câu viện dẫn chuẩn (dẫn NĐ 99/2013 và các NĐ sửa đổi, không dẫn VBHN làm căn cứ).
+- `van-ban-goc/so-huu-cong-nghiep/`: PDF bản sao y 42 trang (18,7 MB — export-ignore, chỉ có trên GitHub), **bản trích chữ .md** (Claude đọc từ scan, chép sát hành vi, mức, thẩm quyền, thủ tục), phiếu sao y .docx; INDEX.
+- references/90: thêm dòng 19 sở hữu công nghiệp. SKILL.md: bảng tra, quy tắc XỬ/CHUYỂN, description. plugin.json 1.7.0.

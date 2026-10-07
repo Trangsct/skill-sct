@@ -3,6 +3,8 @@
 > **Nguồn duy nhất của reference này:** Kế hoạch số **72/KH-BQL ngày 08/7/2026** của **Ban Quản lý Khu kinh tế tỉnh Lào Cai** về Phát triển kinh tế - xã hội năm 2027, người ký: **Trưởng ban Vương Trinh Quốc**; kèm biểu **"Dự tính giá trị SXCN năm 2027"**. Nơi nhận có **Sở Công Thương** và **Sở Tài chính** (đầu mối tổng hợp).
 > Văn bản này được ban hành để thực hiện **Văn bản số 6607/UBND-TH ngày 27/6/2026 của UBND tỉnh Lào Cai** về đánh giá thực hiện KH PTKTXH năm 2026 và xây dựng KH PTKTXH năm 2027.
 
+> **Cập nhật 07/10/2026:** số 9 tháng năm 2026 toàn tỉnh (XNK qua cửa khẩu 2.993,05 triệu USD, +34,83%; 12 KCN 3.306,18 ha, lấp đầy 73,9%) ở reference `12`. Nội dung Đề án cửa khẩu thông minh theo bản gốc **QĐ 453/QĐ-TTg ngày 18/3/2026** (mục tiêu 2030: năng lực vận chuyển gấp 2 lần, chi phí logistics bình quân giảm 20 - 30%, khoảng 9 tỷ USD qua hai lối thông quan) ở reference `13` mục D. Số 6 tháng và ước cả năm 2026 trong file này là số của Ban tại thời điểm 08/7/2026.
+
 ---
 
 ## I. VÌ SAO REFERENCE NÀY QUAN TRỌNG VỚI SỞ CÔNG THƯƠNG

@@ -1,5 +1,7 @@
 # Reference 09 — Số liệu kinh tế - xã hội 6 tháng đầu năm 2026 (mốc so sánh mới, thay mốc Quý I)
 
+> **Đã có mốc 9 tháng năm 2026 tại reference `12`** (BC 998/BC-TKT ngày 30/9/2026: IIP lũy kế còn +7,7%; hóa chất −19,01%). File này giữ làm mốc 6 tháng để so sánh nhịp, không dùng làm số mới nhất.
+
 **Nguồn:** Báo cáo số **615/BC-TKT ngày 30/6/2026** của **Thống kê tỉnh Lào Cai (Cục Thống kê)** — Tình hình kinh tế - xã hội tháng 6 và quý II năm 2026 (67 trang, kính gửi Ban Thống kê Tổng hợp và Đối ngoại, Cục Thống kê).
 Số/ngày văn bản đối chiếu bản scan có dấu trên vOffice (số đến 13116, ngày ban hành 30/6/2026, tác giả Thống kê tỉnh Lào Cai). Lưu ý: file .docx bản soạn thảo để trống ô số và ngày — chỉ dùng số 615 và ngày 30/6/2026 theo bản đóng dấu.
 

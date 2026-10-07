@@ -1,5 +1,10 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.7.0] - 07/10/2026 — mốc số liệu 9 tháng 2026 (ref 12); thế mạnh công nghiệp, hợp tác Trung Quốc (ref 13)
+- Ref 12 mới: BC 998/BC-TKT 30/9/2026, BC 432-BC/ĐU 16/9/2026, báo cáo giao ban tháng 10 — hai nguồn lệch nhau và quy tắc dùng; GTSXCN 56.678 tỷ (+9,9%), IIP +7,7%, XNK 2.993,05 triệu USD; diễn biến dự án đến 30/9/2026.
+- Ref 13 mới: khung 12 mục công văn gửi Sở Ngoại vụ (Văn bản 10073/UBND-NC), quy ước không nêu tên riêng doanh nghiệp, QĐ 453/QĐ-TTg 18/3/2026, QĐ 1620/QĐ-TTg 20/12/2024.
+- Rà thông tin cũ ở SKILL.md, ref 02, 08, 09, 10. Chi tiết: `CHANGELOG-v2026.10.07.md`.
+
 ## [1.6.1] - 24/9/2026 — NĐ 347/2026 (nghiệm thu PCCC)
 - ref 10 thêm ghi chú dưới bảng việc phải làm (bản gốc lập trước 15/9/2026): Công an tỉnh không còn nghiệm thu PCCC, chủ đầu tư tự nghiệm thu; ref 06 nhóm MT-PCCC, checklist điểm nghẽn — theo NĐ 347/2026.
 

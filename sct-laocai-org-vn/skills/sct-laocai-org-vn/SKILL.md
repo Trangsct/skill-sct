@@ -438,3 +438,7 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 | **vbhc-vn** | Soạn/render .docx | — lấy routing + dòng Lưu từ skill này | — | — |
 | **bpb-sct-vn** | Bài phát biểu GĐ Sở | — dùng danh sách lãnh đạo + số liệu từ skill này | — | GĐ |
 | **vbhc-pdf-reader-vn** | Đọc metadata PDF đến | — chạy trước khi trích dẫn văn bản đến | — | — |
+
+## Văn bản gốc (`van-ban-goc/`)
+
+- `ND-303-2025-chuc-nang-nhiem-vu-co-cau-to-chuc-bo-co-quan-ngang-bo.docx` và `.pdf` — **Nghị định số 303/2025/NĐ-CP ngày 19/11/2025** của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ (Phó Thủ tướng Phạm Thị Thanh Trà ký; hiệu lực 20/11/2025; thay Nghị định 123/2016/NĐ-CP). Bạn gửi ngày 08/10/2026. **Không nhầm với Nghị định số 303/2026/NĐ-CP ngày 01/8/2026** sửa đổi Nghị định 32/2024/NĐ-CP về cụm công nghiệp (plugin `kccn-sct-vn` reference 24).

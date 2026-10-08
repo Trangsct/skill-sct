@@ -1,3 +1,8 @@
+## 08/10/2026 (lần 2) — Bản trích chữ toàn văn cho mọi PDF văn bản quy phạm trong van-ban-goc; CI chặn khi thiếu
+
+- Bạn chốt: PDF gốc đẩy lên GitHub là được, nhưng Claude phải nắm trọn nội dung trong gói claude.ai. `CLAUDE.md` bổ sung quy tắc; `scripts/trich_chu_van_ban_goc.py` mới (pdftotext hoặc tesseract tiếng Việt, đánh dấu [OCR]); `check_descriptions.py` gọi `--check` → CI đỏ khi còn PDF thiếu .txt.
+- Sinh 15 bản .txt (≈ 7,5 MB) cho hnh-sct-vn (NĐ 105/2025, NQ 19/2026, TT 23/2024), kccn-sct-vn (QĐ 16/2026, 2170, 2336, 2338, 2390, 2463, 2736, 2978), sd-vlncn-sct-vn (NĐ 17/2022), xd-sct-vn (NĐ 217/2026, QĐ 11/2026), xp-sct-vn (Luật 88/2025 bản quét). Bản OCR có thể sai số, ngày — trích nguyên văn phải đối chiếu PDF gốc.
+
 ## 08/10/2026 — Quy tắc chung: văn bản quy phạm pháp luật Bạn gửi phải lưu bản Word; kccn-sct-vn 1.49.1, sct-laocai-org-vn 2.6.1
 
 - `CLAUDE.md`: Bạn chốt 08/10/2026 — văn bản quy phạm pháp luật Bạn gửi phải lưu bản Word vào `van-ban-goc/` ngay trong phiên, reference ghi đường dẫn file gốc và bảng đối chiếu khoản sửa đổi; đọc số, năm từ chính file trước khi lưu. Script rà tồn đọng `scripts/check_ban_word_vbqppl.py`.

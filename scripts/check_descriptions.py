@@ -134,4 +134,9 @@ if __name__ == "__main__":
     rc_facts = _run_check_facts()
     rc_archive = _run_export_ignore()
     _run_check_registry()
-    sys.exit(rc or rc_facts or rc_archive)
+    # Bạn chốt 08/10/2026: PDF văn bản quy phạm trong van-ban-goc/ phải có bản trích chữ .txt cùng tên
+    # (PDF ≥ 3 MB bị export-ignore, Claude trên claude.ai chỉ đọc được bản .txt) — thiếu thì CI đỏ.
+    print("\n=== scripts/trich_chu_van_ban_goc.py --check (bản trích chữ toàn văn) ===")
+    import subprocess
+    rc_trich = subprocess.run([sys.executable, str(here / "trich_chu_van_ban_goc.py"), "--check"]).returncode
+    sys.exit(rc or rc_facts or rc_archive or rc_trich)

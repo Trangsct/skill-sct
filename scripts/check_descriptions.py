@@ -138,5 +138,5 @@ if __name__ == "__main__":
     # (PDF ≥ 3 MB bị export-ignore, Claude trên claude.ai chỉ đọc được bản .txt) — thiếu thì CI đỏ.
     print("\n=== scripts/trich_chu_van_ban_goc.py --check (bản trích chữ toàn văn) ===")
     import subprocess
-    rc_trich = subprocess.run([sys.executable, str(here / "trich_chu_van_ban_goc.py"), "--check"]).returncode
+    rc_trich = subprocess.run([sys.executable, str(pathlib.Path(__file__).resolve().parent / "trich_chu_van_ban_goc.py"), "--check"]).returncode
     sys.exit(rc or rc_facts or rc_archive or rc_trich)

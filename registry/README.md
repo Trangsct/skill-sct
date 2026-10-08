@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **719** (Luật 35, NĐ 217, TT 110, QĐ 280, NQ 35, khác 42).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **96**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **722** (Luật 35, NĐ 218, TT 110, QĐ 282, NQ 35, khác 42).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **99**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -44,6 +44,7 @@
 | NĐ 36/2020 | atvsld-sct-vn, qlks-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế (3/2026) | Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT |
 | NĐ 71/2019 | hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | NĐ 275/2026 (25/8/2026) |  | Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026 |
 | QĐ 44/2021/QĐ-UBND | bvmt-sct-vn | QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026) |  | Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ |
+| QĐ 1894/QĐ-UBND | kccn-sct-vn | QĐ 2167/QĐ-UBND (23/6/2026) |  | Công bố địa bàn ưu đãi đầu tư (61 ĐBKK, 34 KK) — đã bị thay thế; bản gốc kccn-sct-vn/van-ban-goc, ref 46 |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
 | QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |
 | QĐ 866/QĐ-TTG | kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn |  | Dự thảo điều chỉnh toàn diện (Cục ĐC&KS, 3/2026 — chưa ký) | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương |

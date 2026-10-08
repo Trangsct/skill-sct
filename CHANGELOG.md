@@ -1,3 +1,10 @@
+## hnh-sct-vn 1.13.0 — 08/10/2026: mẫu Biên bản thẩm định bản gọn, mẫu Giấy phép cho hàng đi bằng container bồn; thời hạn đúng khoản 3 Điều 13 NĐ 161
+
+- `mau-ho-so/` thêm Mẫu 7 (Biên bản thẩm định bản gọn 4 trang) và Mẫu 8 (Giấy phép cho hàng đi bằng container bồn), đã ẩn danh, bảng rộng đúng khổ chữ 9071 dxa — mẫu chuẩn từ 08/10/2026.
+- Nguyên tắc 23 viết lại (khối lượng với container bồn ghi "Theo giấy tờ của phương tiện"); nguyên tắc 25 (thời hạn đúng khoản 3 Điều 13, không khống chế theo mốc kiểm định, tập huấn), 26 (Biên bản ngắn gọn), 27 (bảng căn bằng khổ chữ); reference 16 mục 12; reference 11 lỗi 24-27.
+- Gộp cùng đợt bản 1.12.0 ngày 02/10/2026 (PR 111): nguyên tắc 22, 24, reference 16 mục 11 — bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng", công văn hoàn thiện hồ sơ bỏ lỗi chính tả.
+- check_facts: `hnh-container-bon-khong-ghep-smrm`, `hnh-khoi-luong-container-bon-theo-giay-to`, `hnh-thoi-han-gp-dung-khoan-3-dieu-13` (WARN).
+
 ## 08/10/2026 (lần 2) — Bản trích chữ toàn văn cho mọi PDF văn bản quy phạm trong van-ban-goc; CI chặn khi thiếu
 
 - Bạn chốt: PDF gốc đẩy lên GitHub là được, nhưng Claude phải nắm trọn nội dung trong gói claude.ai. `CLAUDE.md` bổ sung quy tắc; `scripts/trich_chu_van_ban_goc.py` mới (pdftotext hoặc tesseract tiếng Việt, đánh dấu [OCR]); `check_descriptions.py` gọi `--check` → CI đỏ khi còn PDF thiếu .txt.

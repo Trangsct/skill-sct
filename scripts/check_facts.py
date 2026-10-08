@@ -502,6 +502,36 @@ RULES = [
         "level": "FAIL",
         "only": ["sd-vlncn-sct-vn"],
     },
+    {
+        "id": "hnh-khoi-luong-container-bon-theo-giay-to",
+        # Bạn chốt lại 08/10/2026: cột "Khối lượng vận chuyển" với container bồn ghi "Theo giấy tờ của phương tiện";
+        # cách ghi "Không quá ... kg/chuyến" (02/10/2026) là lịch sử — hnh-sct-vn nguyên tắc 23.
+        "pattern": r"^(?!.*(?:lịch sử|Lịch sử|08/10/2026)).*Không quá[^\n]{0,20}kg/chuyến",
+        "why": "Giấy phép HHNH cho hàng đi bằng container bồn: cột khối lượng ghi 'Theo giấy tờ của phương tiện' (Bạn chốt lại 08/10/2026 — hnh-sct-vn nguyên tắc 23); 'Không quá ... kg/chuyến' chỉ ghi kèm 'lịch sử'.",
+        "since": "2026-10-08",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
+        "id": "hnh-thoi-han-gp-dung-khoan-3-dieu-13",
+        # Bạn chốt 08/10/2026: thời hạn GP vận chuyển HHNH cấp đúng khoản 3 Điều 13 NĐ 161 (theo đề nghị, tối đa 24 tháng,
+        # không quá niên hạn); không khống chế theo mốc kiểm định, tập huấn — hnh-sct-vn nguyên tắc 25.
+        "pattern": r"^(?!.*(?:lịch sử|Lịch sử|08/10/2026|KHÔNG|không)).*khống chế[^\n]{0,40}(?:hạn kiểm định|GCN tập huấn)",
+        "why": "Từ 08/10/2026 thời hạn Giấy phép vận chuyển HHNH cấp đúng khoản 3 Điều 13 NĐ 161/2024, không khống chế theo mốc kiểm định, tập huấn (hnh-sct-vn nguyên tắc 25); dòng nói cách làm cũ ghi kèm 'lịch sử'.",
+        "since": "2026-10-08",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
+        "id": "hnh-container-bon-khong-ghep-smrm",
+        # Bạn chốt 02/10/2026 (vụ amoniac khan bằng container bồn): trong Giấy phép, dòng sơ mi rơ moóc
+        # chở container viết riêng, mỗi container bồn một dòng riêng — hnh-sct-vn nguyên tắc 22, ref 16 mục 11.2.
+        "pattern": r"kèm container dạng bồn số",
+        "why": "Giấy phép HHNH cho hàng đi bằng container bồn: sơ mi rơ moóc và container bồn ghi thành các dòng riêng trong bảng 'Danh sách phương tiện vận chuyển và thiết bị chứa hàng' (hnh-sct-vn nguyên tắc 22).",
+        "since": "2026-10-02",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

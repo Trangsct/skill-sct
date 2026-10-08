@@ -32,8 +32,8 @@ Trang https://vlncn-laocai.vercel.app/hazmat lưu bản ký số và dữ liệu
 - Người ký: **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC** phụ trách HHNH (ký thay theo phân công nội bộ, trong khuôn khổ ủy quyền QĐ 1696 cho Giám đốc Sở) — Giấy phép đến 04/10/2026: **PGĐ Hoàng Văn Thuân** (lịch sử); **từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến** (QĐ 6286/QĐ-SCT, Chiến phụ trách Phòng QLCN — Bạn chốt 06/10/2026).
 - Nơi nhận chuẩn (đã dùng ổn định): UBND tỉnh (để b/c); **Cục Cảnh sát Giao thông - Bộ Công an**; **Công an tỉnh Lào Cai**; Sở Xây dựng; [Doanh nghiệp]; Ban Giám đốc Sở; **Lưu: VT, BP1C, CN.** → việc gửi CSGT ngay tại nơi nhận chính là thực hiện khoản 5 Điều 51 Luật 36/2024 (thông báo ngay đến cơ quan CSGT).
 - Thân GP ghi: tên tổ chức; số ĐKKD/mã số chi nhánh **do "Phòng Doanh nghiệp, Sở Tài chính tỉnh Lào Cai" cấp** (KHÔNG còn ghi "Sở Kế hoạch và Đầu tư" - lỗi hay gặp); địa chỉ; người đại diện/người đứng đầu chi nhánh; câu "Được phép vận chuyển hàng hóa nguy hiểm: ... phải có trách nhiệm duy trì các điều kiện an toàn..., [bố trí người áp tải nếu hàng bắt buộc] và chấp hành đầy đủ các quy định... (Danh mục kèm theo Giấy phép này)".
-- Danh mục kèm theo: bảng TT / Tên hàng / Số hiệu UN / Loại, nhóm / Số hiệu nguy hiểm / Khối lượng vận chuyển / Ghi chú (biển kiểm soát phương tiện). **Cột "Khối lượng vận chuyển" - cách ghi hiện hành là "Theo giấy tờ của phương tiện"** (Bạn chốt 26/7/2026, dùng thống nhất cho mọi Giấy phép, xem mục 8.1); các bản GP phát hành trước đó ghi "Theo thiết kế của phương tiện" (Thái Thịnh - xi téc) hoặc "Theo tải trọng phương tiện" (Argon) - giữ nguyên trong hồ sơ lịch sử, KHÔNG dùng lại cho GP mới. Trường hợp nhiều phương tiện: thêm bảng "Danh sách phương tiện vận chuyển" riêng (xem GP Sợi Phương Nam - 16 phương tiện, ghi rõ đầu kéo/sơ mi rơ moóc, dung tích bồn, khối lượng kéo theo).
-- Thời hạn: "24 tháng kể từ ngày ký" là mặc định; **được phép cấp ngắn hơn** (23 tháng, hoặc khống chế đến hạn kiểm định/GCN tập huấn/niên hạn phương tiện) khi hồ sơ có yếu tố hết hạn sớm - ghi rõ trong Phiếu trình lý do chọn thời hạn. **LƯU Ý CĂN CỨ (bài học 20/7/2026, vụ Toàn Phát TQ):** căn cứ LUẬT giới hạn thời hạn GP là khoản 3 Điều 13 NĐ 161 = "tối đa 24 tháng và không quá NIÊN HẠN SỬ DỤNG của phương tiện" - KHÔNG có "thời hạn kiểm định" trong luật. Khống chế theo hạn kiểm định/GCN tập huấn là BIỆN PHÁP NGHIỆP VỤ thận trọng của Sở (tránh GP còn hiệu lực khi xe hết hạn đăng kiểm), chỉ ghi lý do trong Phiếu trình/Biên bản thẩm định; trong văn bản gửi DN không được viết như thể đó là quy định của pháp luật. Với xe biển Trung Quốc: "niên hạn sử dụng" theo pháp luật VN áp cho xe đăng ký tại VN; xe TQ hoạt động theo Nghị định thư Việt - Trung nên thực tiễn lấy mốc hạn kiểm định (do cơ quan TQ cấp) làm cơ sở cấp thời hạn ngắn hơn cho an toàn - vẫn là quyết định nghiệp vụ, nêu trong Phiếu trình.
+- Danh mục kèm theo: bảng TT / Tên hàng / Số hiệu UN / Loại, nhóm / Số hiệu nguy hiểm / Khối lượng vận chuyển / Ghi chú (biển kiểm soát phương tiện). **Cột "Khối lượng vận chuyển" - cách ghi hiện hành là "Theo giấy tờ của phương tiện"** (Bạn chốt 26/7/2026, dùng thống nhất cho mọi Giấy phép, xem mục 8.1; riêng hàng đi bằng container bồn ghi "Không quá ... kg/chuyến" theo mục 11.3); các bản GP phát hành trước đó ghi "Theo thiết kế của phương tiện" (Thái Thịnh - xi téc) hoặc "Theo tải trọng phương tiện" (Argon) - giữ nguyên trong hồ sơ lịch sử, KHÔNG dùng lại cho GP mới. Trường hợp nhiều phương tiện: thêm bảng "Danh sách phương tiện vận chuyển" riêng (xem GP Sợi Phương Nam - 16 phương tiện, ghi rõ đầu kéo/sơ mi rơ moóc, dung tích bồn, khối lượng kéo theo).
+- Thời hạn: **từ 08/10/2026 cấp đúng khoản 3 Điều 13 Nghị định số 161/2024/NĐ-CP** - theo đề nghị, tối đa 24 tháng, không quá niên hạn sử dụng; không khống chế theo mốc kiểm định, tập huấn (nguyên tắc 25). Lịch sử trước ngày 08/10/2026: "24 tháng kể từ ngày ký" là mặc định; **được phép cấp ngắn hơn** (23 tháng, hoặc khống chế đến hạn kiểm định/GCN tập huấn/niên hạn phương tiện) khi hồ sơ có yếu tố hết hạn sớm - ghi rõ trong Phiếu trình lý do chọn thời hạn. **LƯU Ý CĂN CỨ (bài học 20/7/2026, vụ Toàn Phát TQ):** căn cứ LUẬT giới hạn thời hạn GP là khoản 3 Điều 13 NĐ 161 = "tối đa 24 tháng và không quá NIÊN HẠN SỬ DỤNG của phương tiện" - KHÔNG có "thời hạn kiểm định" trong luật. Khống chế theo hạn kiểm định/GCN tập huấn là BIỆN PHÁP NGHIỆP VỤ thận trọng của Sở (tránh GP còn hiệu lực khi xe hết hạn đăng kiểm), chỉ ghi lý do trong Phiếu trình/Biên bản thẩm định; trong văn bản gửi DN không được viết như thể đó là quy định của pháp luật. Với xe biển Trung Quốc: "niên hạn sử dụng" theo pháp luật VN áp cho xe đăng ký tại VN; xe TQ hoạt động theo Nghị định thư Việt - Trung nên thực tiễn lấy mốc hạn kiểm định (do cơ quan TQ cấp) làm cơ sở cấp thời hạn ngắn hơn cho an toàn - vẫn là quyết định nghiệp vụ, nêu trong Phiếu trình.
 
 ## 3. Quy trình thực tế tại Sở sau ủy quyền (QĐ 1696)
 
@@ -236,3 +236,69 @@ Hàng: Canxi hypoclorit khô (UN 1748) và canxi hypoclorit ngậm nước (UN 2
 ### 10.4. Bôi đỏ khi giao bộ hồ sơ cho doanh nghiệp tự hoàn thiện
 
 Khi Sở dựng lại bộ hồ sơ giúp doanh nghiệp, bản giao đi bôi màu đỏ đúng các vị trí doanh nghiệp phải tự điền hoặc tự khắc phục: số văn bản, ngày ký, điện thoại - email cần xác nhận, thời hạn đề nghị, các ô giấy tờ còn tồn tại (giấy phép lái xe sắp hết hạn, giấy chứng nhận tập huấn ghi sai tên người được cấp hoặc sai đơn vị công tác). Các nội dung Sở đã điền đúng theo giấy tờ gốc để màu đen - tránh làm doanh nghiệp sửa lại thành sai.
+
+## 11. Amoniac khan bằng CONTAINER BỒN trên sơ mi rơ moóc chở container (vụ Chi nhánh số 1 Sợi Phương Nam, 02/10/2026)
+
+Vụ thứ tư của cùng đơn vị trong năm 2026 và là vụ đầu tiên khí hóa lỏng đi bằng container bồn tháo lắp được (không phải bồn gắn cố định như đợt 7/2026). Bộ hồ sơ theo Giấy đề nghị số 06-2026 ngày 30/9/2026: 02 ô tô đầu kéo Vân FA7387, Vân FA2732; 02 sơ mi rơ moóc chở container Vân FE816, Vân F6779; 02 container dạng bồn số FUWU 260054-2, FUWU 260056-3 (bồn T50, dung tích 42.000 lít, áp suất tối đa cho phép 22 bar, hàng hóa vận tải ghi Ammonia khan UN 1005, Giấy chứng nhận container do Hiệp hội phân loại Trung Quốc - CCS cấp). Tuyến cầu Kim Thành - khu công nghiệp Tằng Loỏng. Kết quả phiên: 01 công văn hoàn thiện, bổ sung hồ sơ và 01 dự thảo Giấy phép thời hạn 24 tháng. Bản văn bản không lưu trong kho này (kho công khai).
+
+### 11.1. Năm điểm soát riêng khi hàng đi bằng container bồn
+
+- **Giấy tờ của bồn là Giấy chứng nhận container (CCS), không phải báo cáo kiểm định bồn áp lực** của Viện kiểm định thiết bị đặc biệt như mục 6.2. Đọc: hướng dẫn bồn UN (T50 cho khí hóa lỏng), áp suất tối đa cho phép, hàng hóa vận tải (đối chiếu số UN - nguyên tắc 16), tổng trọng lượng vận hành tối đa, trọng lượng thùng rỗng, tải trọng tối đa cho phép, thời gian duy trì kiểm định CSC lần đầu.
+- **Đối chiếu tên chủ sở hữu trên BẢN GỐC tiếng Trung với bản dịch.** Vụ này bản dịch của bồn FUWU 260054-2 ghi chủ sở hữu là một công ty ở Côn Minh, bản gốc ghi một công ty ở huyện Hà Khẩu. Cả hai bồn đều không thuộc chủ phương tiện ký hợp đồng với Chi nhánh - hồ sơ phải làm rõ quyền sử dụng bồn.
+- **Đối chiếu ba mốc ngày của bản dịch chứng thực:** ngày cấp giấy gốc, ngày người dịch cam đoan, ngày ghi trong lời chứng của công chứng viên. Vụ này lời chứng ghi ngày 25/9/2026 trong khi giấy gốc cấp ngày 28/9/2026.
+- **Cặp ghép sơ mi rơ moóc - container bồn** phải giống nhau ở Giấy đề nghị, Bảng kê phương tiện và Phương án. Vụ này Bảng kê ghép ngược với hai tệp còn lại. Hồ sơ còn mâu thuẫn thì Giấy phép không ghi cặp ghép (mục 11.2).
+- **Phương án chép phiếu an toàn của DUNG DỊCH amoniac cho hàng là KHÍ HÓA LỎNG:** dấu hiệu nhận biết là các câu "thu gom hàng hóa rơi vãi", "liều gây chết theo đường tiêu hóa 3 - 4 ml", "thấm bằng đất sét", "sử dụng bất kì phương tiện chữa cháy nào". Yêu cầu bổ sung biện pháp xử lý rò rỉ khí từ van, đường ống, thân bồn; khoảng cách cách ly; sơ tán theo hướng gió; sơ cứu bỏng lạnh.
+
+Lỗi lặp lại của đơn vị (mục 10.2) tiếp tục xuất hiện: hợp đồng song ngữ lệch tuyến giữa phần tiếng Trung và tiếng Việt; hợp đồng với chủ phương tiện không ghi biển kiểm soát, ký trước ngày đăng ký của 02 sơ mi rơ moóc; số điện thoại không thống nhất. Thêm một lỗi mới: hợp đồng thuê lái xe chưa có chữ ký, con dấu của bên thuê và bên thuê là công ty mẹ, không phải Chi nhánh.
+
+### 11.2. Bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng" (Bạn chốt 02/10/2026)
+
+| TT | Loại phương tiện, thiết bị; biển kiểm soát, số hiệu | Trọng tải được phép chở |
+|---|---|---|
+| 1 | Ô tô đầu kéo - Vân FA7387 | Theo giấy tờ của phương tiện, thiết bị (một ô gộp cho cả bảng) |
+| 2 | Ô tô đầu kéo - Vân FA2732 | |
+| 3 | Sơ mi rơ moóc chở container - Vân FE816 (kéo) | |
+| 4 | Sơ mi rơ moóc chở container - Vân F6779 (kéo) | |
+| 5 | Container dạng bồn số FUWU 260054-2 | |
+| 6 | Container dạng bồn số FUWU 260056-3 | |
+
+Trình tự Bạn chỉnh trong phiên, để lần sau làm đúng ngay từ bản đầu: (1) bỏ số 40.000 và 34.900 ở từng dòng, đổi tiêu đề cột thành "Trọng tải được phép chở", gộp một ô; (2) không gộp các xe cùng loại vào một dòng; (3) dòng sơ mi rơ moóc không ghép với container bồn, bồn thành dòng riêng; (4) vì bảng có cả thiết bị chứa nên đổi tiêu đề bảng, tiêu đề cột giữa và nội dung ô gộp cho đủ ý "phương tiện, thiết bị". Nguyên tắc 22.
+
+Với bồn gắn cố định trên sơ mi rơ moóc (đợt 7/2026, mục 6) vẫn giữ tiêu đề "Danh sách phương tiện vận chuyển" và cách mô tả "Sơ mi rơ moóc - [biển số] (kéo) kèm bồn chứa khí ...".
+
+### 11.3. Cột "Khối lượng vận chuyển" với container bồn
+
+Cách ghi hiện hành: "Theo giấy tờ của phương tiện" (Bạn chốt lại 08/10/2026, nguyên tắc 23). Lịch sử: bản dự thảo 02/10/2026 ghi "Không quá 21.800 kg/chuyến". Cách tính: trọng tải sơ mi rơ moóc 34.900 kg trừ trọng lượng thùng rỗng của bồn 13.100 kg = 21.800 kg, nhỏ hơn tải trọng tối đa cho phép của bồn 22.260 kg. Nguyên tắc 23.
+
+### 11.4. Công văn hoàn thiện, bổ sung hồ sơ của vụ này
+
+Dựng từ công văn loại 5 tại mục 10 (Chế độ B), 04 nhóm: phương tiện và thiết bị chứa hàng; hợp đồng với chủ phương tiện; người lái xe, người áp tải; Phương án tổ chức vận chuyển. Căn cứ đối chiếu là **khoản 2** Điều 15 Nghị định số 161/2024/NĐ-CP (hàng loại 2), biện pháp ứng cứu dẫn **điểm d khoản 2**. Bỏ lỗi chính tả và bỏ mục thời hạn (nguyên tắc 24). Dòng Lưu: `Lưu: VT, CN.`
+
+## 12. Bộ mẫu Biên bản thẩm định bản gọn và Giấy phép cho hàng đi bằng container bồn (phiên 08/10/2026)
+
+Phiên thẩm định hồ sơ amoniac khan (UN 1005) đi bằng container bồn T50 đặt trên sơ mi rơ moóc chở container, 01 tổ hợp xe biển Trung Quốc thuê theo hợp đồng, tuyến trong phạm vi 500 m khu vực cửa khẩu quốc tế đường bộ số II Kim Thành, 01 người lái xe và 01 người áp tải. Kết quả: Biên bản thẩm định bản gọn và dự thảo Giấy phép 24 tháng, không phát hành công văn hoàn thiện hồ sơ. Hồ sơ doanh nghiệp và bản văn bản của vụ không lưu trong kho này (kho công khai); kho chỉ giữ hai mẫu đã ẩn danh.
+
+### 12.1. Hai mẫu chuẩn trong `mau-ho-so/`
+
+- `Mau 7 - Bien ban tham dinh ban gon (chuan tu 08-10-2026).docx` - **MẪU BIÊN BẢN THẨM ĐỊNH CHUẨN từ 08/10/2026** (bản gọn 4 trang, bảng căn bằng khổ chữ). Dựng biên bản mới từ tệp này (Chế độ B), thay Mẫu 6 và các biên bản 7/2026.
+- `Mau 8 - Giay phep hang di bang container bon (chuan tu 08-10-2026).docx` - **MẪU GIẤY PHÉP CHUẨN cho hàng đi bằng container bồn**: bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng" theo nguyên tắc 22, khối lượng "Theo giấy tờ của phương tiện", thời hạn 24 tháng, bảng căn bằng khổ chữ, KT. Giám đốc - Phó Giám đốc Nguyễn Đình Chiến. Hàng chứa trong bồn gắn cố định thì đổi lại tiêu đề bảng theo mục 11.2 đoạn cuối.
+- Chỗ cần điền để trong ngoặc vuông; số Giấy phép, ngày ký, giờ và ngày thẩm định để trống.
+
+### 12.2. Các quyết định Bạn chốt trong phiên (áp dụng cho các vụ sau)
+
+- Lỗi chính tả nhỏ bỏ qua, không ghi Biên bản, không ra công văn (ví dụ số khung ở Bảng kê chép thừa một ký tự so với giấy tờ xe; hai số điện thoại; "phố" và "đường").
+- Khối lượng hàng hồ sơ ghi không rõ: Giấy phép ghi "Theo giấy tờ của phương tiện" (nguyên tắc 23).
+- Hợp đồng thuê lái xe ghi tuyến dài hơn Phương án: không ảnh hưởng pháp lý, không yêu cầu sửa.
+- Tên hợp đồng ghi khác nhau giữa các tài liệu (hợp đồng áp tải vận chuyển, hợp đồng dịch vụ vận chuyển, hợp đồng thuê xe): cùng bản chất, không yêu cầu sửa; trong Biên bản gọi "Hợp đồng số ... ngày ...".
+- Thời hạn Giấy phép đúng khoản 3 Điều 13 (nguyên tắc 25). Biên bản ngắn gọn (nguyên tắc 26). Bảng căn bằng khổ chữ (nguyên tắc 27).
+
+### 12.3. Điểm soát giữ cho vụ sau
+
+- Giấy chứng nhận container: đối chiếu tên chủ sở hữu ở bản gốc và bản dịch; ngày lời chứng phải sau ngày cấp giấy gốc.
+- Chứng nhận vận tải đường bộ Trung Quốc có dòng thẩm tra hằng năm riêng, có thể sớm hơn hạn kiểm định ghi trên Giấy phép lưu hành - đọc cả hai.
+- Giấy chứng nhận tập huấn ghi "nhóm" hay "loại" thì chép đúng như bản in; chỉ cần phủ loại hàng đề nghị.
+- Giấy tờ tùy thân của người đứng đầu nộp kèm không thuộc thành phần Điều 15, không yêu cầu bổ sung.
+
+### 12.4. Bài học quy trình
+
+Phiên 08/10/2026 mở đầu bằng gói plugin 1.11.3 trên claude.ai, chưa có các nguyên tắc 22 - 24 chốt ngày 02/10/2026 (PR 111 khi đó chưa gộp vào main), nên bản Giấy phép đầu tiên ghép sơ mi rơ moóc với container bồn trong một dòng và phải sửa lại. Trước khi soạn Giấy phép, Biên bản: xem các PR đang mở của plugin này trên kho (`gh api "repos/Trangsct/skill-sct/pulls?state=open"`).

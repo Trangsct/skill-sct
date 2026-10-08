@@ -147,3 +147,17 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 19. **Đọc từng tệp rời mà không soát chéo cả bộ 04 tệp của doanh nghiệp.** Vụ Hà Tân lệch ở: hạng GPLX của cùng một người (Phương án ghi FC, Bảng kê và GPLX gốc ghi CE); tiêu đề Phương án ghi "loại 5 và loại 8" trong khi danh mục chỉ có loại 8; Phương án còn nguyên phần đặc tính của HYDRO FLORUA khan UN 1052 - chất KHÔNG có trong danh mục đề nghị (rác sao chép từ phiếu an toàn hóa chất); địa danh còn cấp huyện đã bỏ; số/ngày để trống ở tệp này nhưng còn số cũ ở tệp kia. Bảy điểm soát chéo bắt buộc: nguyên tắc 21 SKILL.md.
 
 **Lưu ý về hạng GPLX khi thẩm định (từ 15/8/2026):** ghi ĐÚNG hạng in trên GPLX của từng người, KHÔNG tự quy đổi giữa hệ hạng cũ (E, FC) và hệ hạng mới (CE). GPLX cấp trước 01/01/2025 theo hệ cũ vẫn có giá trị sử dụng đến hết thời hạn ghi trên giấy theo điều khoản chuyển tiếp của Luật 36/2024; trong cùng một hồ sơ có thể tồn tại song song người hạng "E, FC" (GPLX cũ) và người hạng "CE" (GPLX cấp mới) - đây KHÔNG phải mâu thuẫn hồ sơ.
+
+### Bổ sung 02/10/2026 - lỗi thẩm định thường gặp (tiếp) - từ bộ hồ sơ amoniac khan bằng container bồn
+
+20. **Không cộng trọng lượng vỏ container bồn khi soát khối lượng hàng.** Doanh nghiệp kê khối lượng hàng bằng tải trọng tối đa cho phép của bồn (22.260 kg) nhưng vỏ bồn 13.100 kg cũng nằm trên sơ mi rơ moóc trọng tải 34.900 kg. Phép thử: tổng trọng lượng vận hành tối đa của bồn có lớn hơn trọng tải sơ mi rơ moóc không. Nguyên tắc 23, reference 16 mục 11.3. [Từ 08/10/2026 kết quả phép thử chỉ để nắm hồ sơ; Giấy phép ghi "Theo giấy tờ của phương tiện" - nguyên tắc 23.]
+21. **Chỉ đọc bản dịch của giấy tờ Trung Quốc, không soi bản gốc đính kèm.** Tên chủ sở hữu container bồn ở bản dịch và bản gốc khác nhau; ngày trong lời chứng sớm hơn ngày cấp giấy gốc. Reference 16 mục 11.1.
+22. **Ghép sẵn sơ mi rơ moóc với container bồn trong Giấy phép khi hồ sơ ghi cặp ghép mâu thuẫn.** Bồn tháo lắp được; lập bảng theo nguyên tắc 22, mỗi xe, mỗi bồn một dòng.
+23. **Không nhận ra Phương án chép phiếu an toàn của dung dịch amoniac cho hàng là khí hóa lỏng.** Dấu hiệu tại reference 16 mục 11.1.
+
+### Bổ sung 08/10/2026 - lỗi thẩm định thường gặp (tiếp)
+
+24. **Đề xuất khống chế thời hạn Giấy phép theo mốc kiểm định, tập huấn.** Từ 08/10/2026 thời hạn cấp đúng khoản 3 Điều 13 Nghị định số 161/2024/NĐ-CP; Biên bản không viết câu đề xuất cấp ngắn hơn. Nguyên tắc 25.
+25. **Đưa lỗi chính tả nhỏ, khác biệt tên gọi hợp đồng, tuyến trong hợp đồng thuê lái xe dài hơn Phương án thành nội dung phải hoàn thiện.** Các điểm này không ảnh hưởng pháp lý, bỏ qua. Reference 16 mục 12.2.
+26. **Biên bản thẩm định viết dài, chép nguyên văn Điều 15 vào bảng thành phần hồ sơ, liệt kê mọi mốc hết hạn.** Dùng Mẫu 7 bản gọn. Nguyên tắc 26.
+27. **Bảng rộng hẹp khác nhau, tràn lề hoặc lệch cột giữa dòng tiêu đề và dòng dữ liệu.** Mọi bảng rộng đúng khổ chữ 9071 dxa. Nguyên tắc 27.

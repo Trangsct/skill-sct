@@ -44,6 +44,14 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-1894-dia-ban-uu-dai-thay-boi-qd-2167",
+        # QĐ 2167/QĐ-UBND ngày 23/6/2026 (công bố địa bàn ưu đãi đầu tư cấp xã) thay thế QĐ 1894/QĐ-UBND ngày 07/11/2025 (Điều 3).
+        "pattern": r"^(?!.*(?:2167|lịch sử|thay thế|bị thay)).*1894/QĐ-UBND",
+        "why": "QĐ 1894/QĐ-UBND ngày 07/11/2025 (địa bàn ưu đãi đầu tư) đã bị QĐ 2167/QĐ-UBND ngày 23/6/2026 thay thế; dòng nào nhắc QĐ 1894 phải nêu kèm QĐ 2167 (kccn-sct-vn ref 46).",
+        "since": "2026-10-08",
+        "level": "FAIL",
+    },
+    {
         "id": "vo-lao-khoi-cong-thang-11-2026",
         # TB 173/TB-VPUBND ngày 01/10/2026 (kết luận Chủ tịch UBND tỉnh họp 29/9/2026): KCN Võ Lao khởi công trong tháng 11/2026
         # (xã bàn giao ≥ 20 ha tháng 10, ~100 ha cuối tháng 11). Nhận định "khởi công quý II/2027" (báo cáo BQL 9/2026) là lịch sử.

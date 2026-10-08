@@ -8,7 +8,7 @@ Nguồn: Tài liệu giới thiệu chính sách ưu đãi đầu tư đối v�
 - Khoản 1: CCN là **địa bàn có điều kiện KT-XH khó khăn**; đầu tư xây dựng hạ tầng kỹ thuật CCN là **ngành, nghề đặc biệt ưu đãi đầu tư**.
 - Khoản 2: ưu đãi thực hiện theo pháp luật đất đai, thuế, tín dụng và pháp luật liên quan; **nếu có các mức ưu đãi khác nhau thì áp dụng mức cao nhất**.
 
-**Địa bàn ưu đãi tại Lào Cai (QĐ 2167/QĐ-UBND ngày 23/6/2026, căn cứ Phụ lục III NĐ 31/2021 sửa đổi tại NĐ 239/2025):**
+**Địa bàn ưu đãi tại Lào Cai (QĐ 2167/QĐ-UBND ngày 23/6/2026 về công bố địa bàn ưu đãi đầu tư cấp xã, căn cứ NĐ 96/2026/NĐ-CP ngày 31/3/2026 và QĐ 2752/QĐ-UBND ngày 31/12/2025; thay thế QĐ 1894/QĐ-UBND ngày 07/11/2025 — danh mục đầy đủ, bảng tra nơi đặt KCN/CCN: reference `46`):**
 - **87 xã, phường + Khu kinh tế cửa khẩu Lào Cai** = địa bàn **đặc biệt khó khăn (ĐBKK)**.
 - **08 xã, phường** = địa bàn **khó khăn (KK)**.
 - KCN, CCN, khu chế xuất trên địa bàn tỉnh = địa bàn ưu đãi đầu tư, hưởng mức KK; **CCN đặt tại xã ĐBKK thì hưởng mức ĐBKK** (mức cao nhất theo khoản 2 Điều 25 NĐ 32).
@@ -22,7 +22,7 @@ Nguồn: Tài liệu giới thiệu chính sách ưu đãi đầu tư đối v�
 | Đất đai | Luật Đất đai 31/2024/QH15; NĐ 103/2024/NĐ-CP (sửa đổi tại NĐ 291/2025/NĐ-CP); NĐ 50/2026/NĐ-CP; NQ 19/2025/NQ-HĐND (Bảng giá đất); QĐ 42/2024/QĐ-UBND + QĐ 20/2024/QĐ-UBND (tỷ lệ % đơn giá thuê đất) |
 | Thuế XNK | Luật 107/2016/QH13; NĐ 134/2016/NĐ-CP (sửa đổi tại NĐ 18/2021/NĐ-CP) |
 | Tín dụng | NĐ 78/2023/NĐ-CP (sửa đổi tại NĐ 312/2025/NĐ-CP) |
-| Địa bàn/ngành nghề ưu đãi | NĐ 31/2021/NĐ-CP (sửa đổi tại NĐ 239/2025/NĐ-CP); QĐ 2167/QĐ-UBND 23/6/2026 |
+| Địa bàn/ngành nghề ưu đãi | NĐ 96/2026/NĐ-CP ngày 31/3/2026 (căn cứ của QĐ 2167); QĐ 2167/QĐ-UBND 23/6/2026 (thay QĐ 1894/QĐ-UBND 07/11/2025 — lịch sử, căn cứ NĐ 31/2021 sđ NĐ 239/2025) — reference `46` |
 
 ## II. Ưu đãi đối với CHỦ ĐẦU TƯ HẠ TẦNG CCN
 
@@ -59,5 +59,5 @@ Nguồn: Tài liệu giới thiệu chính sách ưu đãi đầu tư đối v�
 ## IV. Bảo đảm đầu tư và lưu ý áp dụng
 
 - **Bảo đảm ưu đãi**: nếu văn bản mới quy định ưu đãi **thấp hơn** mức đang hưởng → nhà đầu tư **tiếp tục áp dụng ưu đãi cũ** cho thời gian còn lại của dự án (bảo đảm đầu tư — Luật Đầu tư 2025).
-- **Lưu ý**: mức ưu đãi cụ thể xác định theo hồ sơ dự án, địa điểm, ngành nghề, văn bản chấp thuận CTĐT/GCN ĐKĐT và kết quả xác định của cơ quan thuế, cơ quan quản lý đất đai. Khi tư vấn phải đối chiếu vị trí CCN với danh mục địa bàn tại QĐ 2167/QĐ-UBND và Phụ lục III NĐ 31/2021 (sđ NĐ 239/2025) — KHÔNG khẳng định mức cụ thể thay cơ quan thuế.
+- **Lưu ý**: mức ưu đãi cụ thể xác định theo hồ sơ dự án, địa điểm, ngành nghề, văn bản chấp thuận CTĐT/GCN ĐKĐT và kết quả xác định của cơ quan thuế, cơ quan quản lý đất đai. Khi tư vấn phải đối chiếu vị trí CCN với danh mục địa bàn tại QĐ 2167/QĐ-UBND (reference `46` mục C, D; 04 phường Văn Phú, Yên Bái, Nam Cường, Âu Lâu không có tên trong danh mục) — KHÔNG khẳng định mức cụ thể thay cơ quan thuế; Sở Công Thương chỉ tham gia ý kiến hồ sơ cho thuê đất (điểm a khoản 2 Điều 33 NĐ 32/2024), không xác định, quyết định miễn, giảm tiền thuê đất (vụ CCN Thống Nhất 1 08/10/2026 — reference `46` mục F).
 - **Đầu mối**: Sở Công Thương Lào Cai (đầu mối QLNN về CCN, Đ.33 NĐ 32) — 165 Lý Thường Kiệt, phường Yên Bái; ĐT 02163.857.863. Cơ quan đăng ký đầu tư ngoài KCN/KKT: **Sở Tài chính** — 1179+1183 đường Yên Ninh, phường Yên Bái; ĐT 02163.852.442.

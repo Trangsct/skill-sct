@@ -1,3 +1,9 @@
+## 08/10/2026 — Quy tắc chung: văn bản quy phạm pháp luật Bạn gửi phải lưu bản Word; kccn-sct-vn 1.49.1, sct-laocai-org-vn 2.6.1
+
+- `CLAUDE.md`: Bạn chốt 08/10/2026 — văn bản quy phạm pháp luật Bạn gửi phải lưu bản Word vào `van-ban-goc/` ngay trong phiên, reference ghi đường dẫn file gốc và bảng đối chiếu khoản sửa đổi; đọc số, năm từ chính file trước khi lưu. Script rà tồn đọng `scripts/check_ban_word_vbqppl.py`.
+- kccn-sct-vn ref 24: Nghị định 303/2026/NĐ-CP thiếu bản gốc; bảng đối chiếu khoản của Điều 1 (chưa đủ); bẫy trùng số 303/2025 ≠ 303/2026.
+- sct-laocai-org-vn: lưu bản Word, PDF Nghị định 303/2025/NĐ-CP ngày 19/11/2025. `registry/trang-thai.csv`: thêm NĐ 303/2025; ghi ngày ban hành NĐ 303/2026.
+
 ## sd-vlncn-sct-vn 2026.10.7.2 — 07/10/2026: Giấy phép dịch vụ nổ mìn 46/GP-ATMT (Công ty TNHH Đồng Tiến) — thông tin và kinh nghiệm
 
 - Ref 07 mục Q: GP dịch vụ nổ mìn do Cục KTAT&MTCN cấp lại ngày 02/10/2026 (hạn 01/10/2028); bốn điều kiện khác chuẩn của Cục; hồ sơ cấp lại k5 Đ40 không cần văn bản đề nghị của UBND tỉnh; phí 50% = 2 triệu; khoảng trống GP 10/5 – 01/10/2026 cần lưu ý khi rà hoạt động dịch vụ của DN.

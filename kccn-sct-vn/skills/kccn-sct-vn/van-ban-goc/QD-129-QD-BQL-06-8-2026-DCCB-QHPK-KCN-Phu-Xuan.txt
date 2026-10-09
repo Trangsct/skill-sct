@@ -1,0 +1,379 @@
+[Bản trích chữ tự động bằng pdftotext từ QD-129-QD-BQL-06-8-2026-DCCB-QHPK-KCN-Phu-Xuan.pdf — 9 trang. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+UBND TỈNH LÀO CAI                 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+BAN QUẢN LÝ KHU KINH TẾ                    Độc lập - Tự do - Hạnh phúc
+
+       Số: 129 /QĐ-BQL                      Lào Cai, ngày 06 tháng 8 năm 2026
+
+                            QUYẾT ĐỊNH
+            Phê duyệt Điều chỉnh cục bộ Quy hoạch phân khu
+           Khu công nghiệp Phú Xuân, xã Gia Phú, tỉnh Lào Cai.
+
+              Mã số thông tin quy hoạch:………………………..
+
+             BAN QUẢN LÝ KHU KINH TẾ TỈNH LÀO CAI
+
+
+      Căn cứ Luật Quy hoạch ngày 10/12/2025;
+      Căn cứ Luật Quy hoạch Đô thị và nông thôn ngày 26/11/2024; Luật sửa
+đổi, bồ sung một số điều của Luật quy hoạch đô thị và nông thôn ngày
+11/12/2025;
+      Luật Xây dựng ngày 10/12/2025;
+       Căn cứ Nghị định số 178/NĐ-CP ngày 01/7/2025 của Chính phủ Quy định chi
+tiết một số điều của Luật Quy hoạch đô thị và nông thôn;
+       Căn cứ Nghị định số 34/2026/NĐ-CP ngày 22/01/2026 của Chính phủ sửa
+đổi, bổ sung một số điều của Nghị định 178/2025/NĐ-CP ngày 01/7/2025 của Chính
+phủ Quy định chi tiết một số điều của Luật Quy hoạch đô thị và nông thôn;
+       Căn cứ Nghị định số 35/2022/NĐ-CP ngày 28/5/2022 của Chính phủ Quy
+định về quản lý khu công nghiệp và khu kinh tế;
+      Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ về việc sửa
+đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước
+của Bộ Xây dựng;
+      Căn cứ Thông tư số 16/2025/TT-BXD ngày 30/6/2025 của Bộ trưởng Bộ Xây
+dựng Quy định chi tiết một số điều của Luật quy hoạch đô thị và nông thôn;
+      Căn cứ Thông tư 43/2025/TT-BXD ngày 09/12/2025 của Bộ trưởng Bộ Xây
+dựng Sửa đổi, bổ sung một số điều của Thông tư số 16/TT-BXD ngày 30/6/2025;
+      Căn cứ Thông tư 17/2025/TT-BXD ngày 30/06/2025 của Bộ Xây dựng Ban
+hành định mức, phương pháp lập và quản lý chi phí cho hoạt động Quy hoạch đô thị
+và nông thôn;
+      Căn cứ Thông tư số 01/2021/TT-BXD ngày 09/5/2021 của Bộ Xây dựng ban
+hành "QCVN 01:2021/BXD Quy chuẩn kỹ thuật Quốc gia về quy hoạch xây dựng";
+                                       2
+
+       Căn cứ Thông tư số 15/2023/TT-BXD ngày 29/12/2023 của Bộ Xây dựng ban
+hành "QCVN 07:2023/BXD Quy chuẩn kỹ thuật Quốc gia về hệ thống công trình hạ
+tầng kỹ thuật";
+      Căn cứ vào các Quy chuẩn, Tiêu chuẩn Việt Nam hiện hành;
+      Căn cứ Quyết định số 525/QĐ-UBND ngày 25/2/2026 của UBND tỉnh Lào
+Cai Quyết định phê duyệt Điều chỉnh Quy hoạch tỉnh Lào Cai thời kỳ 2021-2030,
+tầm nhìn đến 2050;
+      Căn cứ quyết định số 2031/QĐ-UBND của Uỷ ban nhân dân tỉnh Lào Cai
+10/06/2026 về việc Phân công trách nhiệm giữa cơ quan quản lý khu chức năng và
+Uỷ ban nhân dân cấp xã đối với việc thực hiện thẩm quyền phê duyệt và trách nhiệm
+thẩm định quy hoạch trong phạm vi khu chức năng trên địa bàn tỉnh Lào Cai;
+       Căn cứ Quyết định số 2336/QĐ-UBND ngày 02/7/2026 của UBND tỉnh Lào
+Cai về việc Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu
+tư đối với Dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng Khu công nghiệp
+Phú Xuân, xã Gia Phú, tỉnh Lào Cai;
+       Căn cứ Quyết định số 880/QĐ-UBND ngày 15/6/2026 của UBND xã Gia Phú
+về việc phê duyệt điều chỉnh cục bộ quy hoạch chung xây dựng xã Gia Phú, huyện
+Bảo Thắng, tỉnh Lào Cai;
+       Căn cứ Quyết định số 881/QĐ-UBND ngày 15/6/2026 của UBND xã Gia Phú
+về việc phê duyệt điều chỉnh cục bộ quy hoạch chung xây dựng xã Xuân Giao, huyện
+Bảo Thắng, tỉnh Lào Cai;
+        Căn cứ Quyết định số 95/QĐ-BQL ngày 18/6/2026 của Ban Quản lý khu kinh
+tế tỉnh Lào Cai về việc Phê duyệt Quy hoạch phân khu Khu công nghiệp Phú Xuân,
+xã Gia Phú, tỉnh Lào Cai;
+      Xét đề nghị của Công ty Cổ phần công nghiệp Linh Linh tại Tờ trình số
+32.7/TTr-CNLL ngày 31/7/2026 và Báo cáo kết quả thẩm định số 39/BC-QHXD
+ngày 06/8/2026 của phòng Quản lý Quy hoạch, xây dựng và Đầu tư.
+
+                               QUYẾT ĐỊNH
+
+     Điều 1. Phê duyệt Điều chỉnh cục bộ Quy hoạch phân khu Khu công nghiệp
+Phú Xuân, xã Gia Phú, tỉnh Lào Cai. Với những nội dung chủ yếu như sau:
+      1. Phạm vi, quy mô lập điều chỉnh cục bộ quy hoạch
+     Các khu vực lập Điều chỉnh cục bộ nằm trong phạm vi Quy hoạch phân
+khu Khu công nghiệp Phú Xuân, xã Gia Phú, tỉnh Lào Cai.
+     2. Quan điểm, mục tiêu của điều chỉnh cục bộ quy hoạch.
+     - Cụ thể hóa Quy hoạch tỉnh Lào Cai thời kỳ 2021-2030, tầm nhìn đến
+năm 2050 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 316/QĐ-
+TTg ngày 29/3/2023 và Điều chỉnh Quy hoạch tỉnh Lào Cai thời kỳ 2021-2030,
+                                        3
+
+tầm nhìn đến 2050 đã được UBND tỉnh Lào Cai phê duyệt tại Quyết định số
+525/QĐ-UBND ngày 25/2/2026.
+       - Quy hoạch phân khu với đầy đủ cơ sở lý luận, cơ sở thực tiễn, cơ sở
+pháp lý đảm bảo tính khả thi đầu tư xây dựng Khu công nghiệp, không đánh đổi
+môi trường lấy tăng trưởng kinh tế, định hướng phát triển các khu công nghiệp
+theo mô hình xanh, sạch, hiện đại và sinh thái. Kiểm soát chặt chẽ các nguồn xả
+thải để bảo vệ hệ thống sinh thái nguồn nước, dòng sông Hồng, suối Ngòi Bo
+quanh khu vực quy hoạch.
+       - Tận dụng triệt để lợi thế về hạ tầng giao thông đối ngoại mang tính chiến
+lược của tỉnh chạy qua địa bàn xã Gia Phú (bao gồm cả hệ thống đường cao tốc,
+quốc lộ, đường tỉnh và hệ thống đường sắt điện khí hoá kết nối liên vùng, liên
+quốc gia) để biến khu vực Gia Phú thành trung tâm công nghiệp, logistics trọng
+điểm.
+       - Đồng bộ hạ tầng công nghiệp và dân dụng, sản xuất gắn liền với các vấn
+đề đảm bảo vệ sinh môi trường, dân sinh cho lao động, nhân dân vùng lân cận,
+giữ vững an ninh trật tự tại địa phương.
+       - Điều chỉnh, bổ sung các khu vực phát triển thuận lợi, phù hợp nhằm thu
+hút đầu tư, thực hiện các dự án quan trọng, có quy mô lớn theo định hướng quy
+hoạch cấp trên và tạo động lực thúc đẩy phát triển kinh tế - xã hội của khu vực.
+       - Tạo lập công cụ quản lý nhà nước hiệu quả về đất đai, xây dựng, làm cơ
+sở pháp lý thu hút đầu tư, đầu tư xây dựng, vận hành hiệu quả.
+      3. Nội dung Điều chỉnh cục bộ Quy hoạch phân khu.
+       3.1. Điều chỉnh khung hạ tầng kỹ thuật:
+       + Toàn bộ các tuyến đường D3, D4 và D5 mở rộng lòng đường về mỗi
+bên vỉa hè 1m để bố trí dải phân cách giữa rộng 2m. Tuyến D1 giữ nguyên lòng
+đường và bố trí dải phân cách giữa rộng 2m. Việc bố trí dải phân cách giữa
+đường rộng 2m để lắp đặt cột đèn chiếu sáng thay thế cột đèn trên 02 vỉa hè ảnh
+hưởng đến hệ thống thoát nước mưa dọc 2 bên đường.
+       + Bỏ đoạn đường D4 từ nút giao đường D3 đến nút quay xe phía Tây
+Nam tuyến đường để gộp 02 ô đất sản xuất công nghiệp K2-CN14 và K2-CN15
+(được phê duyệt) thành 02 ô đất sản xuất công nghiệp mới (K2-CN6 và K2-
+CN7); Mở mới tuyến đường D3 kéo dài về phía Bắc và Tây Bắc cắt qua ô đất
+K2-CN16 (được phê duyệt) để bố trí các quỹ đất An ninh (K2-AN), đất bãi xe
+(K2-BX), mở rộng đất dịch vụ quản lý khu công nghiệp (K2-DVHC), còn lại là
+đất sản xuất công nghiệp (K2-CN8).
+                                         4
+
+      + Chuyển đổi ô đất sản xuất công nghiệp K2-CN1 và một phần diện tích ô
+đất cây xanh chuyện dụng K2-CXCD4 thành đất Hạ tầng kỹ thuật ký hiệu K2-
+HTKT 1 (Khu xử lý nước thải tập trung cho 2 KCN Phú Xuân và Phú Xuân 1).
+      3.2. Điều chỉnh cục bộ các ô đất sản xuất công nghiệp:
+      + Chuyển đổi 03 ô đất: K2-HTKT1 Khu xử lý nước thải; K2-AN Đất An
+ninh và K2-ĐX Bãi đỗ xe thành đất sản xuất công nghiệp có ký hiệu K2-CN1.
+      + Bỏ ô đất hạ tầng kỹ thuật K2-HTKT5 (được phê duyệt) và gộp 02 lô đất
+sản xuất công nghiệp được phê duyệt (K2-CN2 và K2-CN3) thành 01 ô đất sản
+xuất công nghiệp mới có ký hiệu K2-CN2.
+      + Bỏ ô đất hạ tầng kỹ thuật K2-HTKT6 (được phê duyệt) và gộp 02 lô đất
+sản xuất công nghiệp được phê duyệt (K2-CN4 và K2-CN5) thành 01 ô đất sản
+xuất công nghiệp mới có ký hiệu K2-CN3.
+      + Bỏ ô đất hạ tầng kỹ thuật K2-HTKT7 (được phê duyệt) và gộp 02 lô đất
+sản xuất công nghiệp được phê duyệt (K2-CN6 và K2-CN7) thành 01 ô đất sản
+xuất công nghiệp mới có ký hiệu K2-CN4.
+      + Bỏ ô đất hạ tầng kỹ thuật K2-HTKT4 (được phê duyệt) và gộp 02 lô đất
+sản xuất công nghiệp được phê duyệt (K2-CN8 và K2-CN9) thành 01 ô đất sản
+xuất công nghiệp mới có ký hiệu K2-CN5.
+      Ngoài ra, còn vi chỉnh một số vị trí theo hệ thống đường giao thông mới
+và các ô đất chức năng khác thay đổi về hình học.
+      Bảng thống kê sử dụng đất quy hoạch Khu công nghiệp Phú Xuân.
+                      Trước điều chỉnh                     Sau điều chỉnh           Chênh
+                                                                                     lệch
+ S                                                                           Chỉ     tăng
+ T     Loại đất             Diện                             Diện            tiêu
+                                     Tỷ lệ                           Tỷ lệ            (+),
+ T                Kí hiệu   tích                 Kí hiệu     tích            theo
+                                      (%)                             (%)            giảm
+                            (ha)                             (ha)            quy       (-)
+                                                                             định
+      Đất    sản
+                 K2-CN1-                         K2-CN1-
+ 1    xuất công             183,21       61,07              175,48   58,49           -7,73
+                   16                              13
+      nghiệp
+                  K2-CN1      9,43        3,14   K2-CN1       9,17    3,06
+                  K2-CN2     13,04        4,35
+                                                 K2-CN2      26,94    8,98
+                  K2-CN3     13,23        4,41
+                  K2-CN4     13,17        4,39
+                                                 K2-CN3      26,45    8,82
+                  K2-CN5     12,62        4,21
+                  K2-CN6      9,50        3,17   K2-CN4      19,72    6,57
+                                      5
+                    K2-CN7     9,50    3,17
+
+                    K2-CN8     9,43    3,14
+                                              K2-CN5    19,72    6,57
+                    K2-CN9     9,43    3,14
+                    K2-CN10   12,35    4,12   K2-CN10   12,35    4,12
+                    K2-CN11   11,06    3,69   K2-CN11   11,06    3,69
+                    K2-CN12    8,74    2,91   K2-CN12    8,74    2,91
+                    K2-CN13   12,76    4,25   K2-CN13   12,76    4,25
+                    K2-CN14   11,38    3,79   K2-CN6     5,78    1,93
+                    K2-CN15   15,89    5,30   K2-CN7    21,79    7,26
+                    K2-CN16   11,68    3,89   K2-CN8     1,00    0,33
+      Đất dịch
+      vụ, quản
+                     K2-                       K2-
+2     lý     khu               5,42    1,81              9,16    3,05          3,74
+                    DVHC                      DVHC
+      công
+      nghiệp
+      Đất      an
+3                   K2-AN      2,29    0,76   K2-AN      2,51    0,84          0,22
+      ninh
+      Đất công       K2-                       K2-
+4     trình         HTKT1-     7,27    2,42   HTKT1-    11,46    3,82   >1%    4,19
+      HTKT            2                         2
+      Khu xử lý      K2-                       K2-
+4.1                            5,45    1,82              9,64    3,21
+      nước thải     HTKT1                     HTKT1
+      Trạm điện      K2-                       K2-
+4.2                            1,82    0,61              1,82    0,61
+      110kV         HTKT2                     HTKT2
+      Đất     cây
+      xanh           K2-                       K2-
+5     chuyên        CXCD1-    52,80   17,60   CXCD1-    53,82   17,94   >10%   1,02
+      dụng      -     4                         5
+      cách ly
+                     K2-                       K2-
+                              45,69   15,23             45,69   15,23
+                    CXCD1                     CXCD1
+                     K2-                       K2-
+                               0,25    0,08              0,25    0,08
+                    CXCD2                     CXCD2
+                     K2-                       K2-
+                               1,97    0,66              1,97    0,66
+                    CXCD3                     CXCD3
+                     K2-                       K2-
+                               4,89    1,63              4,98    1,66
+                    CXCD4                     CXCD4
+                                               K2-
+                                                         0,93    0,31
+                                              CXCD5
+      Đất giao
+      thông và
+6                             49,01   16,34             47,57   15,86          -1,44
+      HTKT
+      khác
+6.1   Bãi đỗ xe     K2-ĐX      1,59    0,53   K2-ĐX      1,52    0,51
+                                      6
+       Taluy, kè,   K2-                         K2-
+ 6.2                         16,86     5,62              13,91    4,64
+       thoát nước HTKT3-9                     HTKT3-5
+                    K2-                         K2-
+                              1,88     0,63               1,88    0,63
+                   HTKT3                       HTKT3
+                    K2-
+                              0,85     0,28
+                   HTKT4
+                    K2-
+                              0,66     0,22
+                   HTKT5
+                    K2-
+                              0,66     0,22
+                   HTKT6
+                    K2-
+                              0,73     0,24
+                   HTKT7
+                    K2-                        K2-
+                              0,87     0,29               0,65    0,22
+                   HTKT8                      HTKT4
+                    K2-                        K2-
+                             11,21     3,74              11,38    3,79
+                   HTKT9                      HTKT5
+       Đất giao
+ 6.3                         30,56    10,19              32,14   10,71   >10%
+       thông
+       Tổng diện
+ 7                          300,00   100,00             300,00 100,00
+       tích
+
+       * Ghi chú:
+       Tổ chức không gian kiến trúc cảnh quan tại các ô đất được xem xét cụ thể
+ở quy hoạch chi tiết tỷ lệ 1/500 (hoặc quy hoạch tổng mặt bằng của từng dự án
+theo dây chuyền sản xuất của nhà đầu tư thứ cấp), đảm bảo hài hòa với cảnh
+quan chung khu vực, phù hợp với tính chất sử dụng công trình; đảm bảo các yêu
+cầu về khoảng cách, khoảng lùi công trình, phòng cháy chữa cháy theo quy định,
+tuân thủ Quy chuẩn kỹ thuật Quốc gia, Tiêu chuẩn thiết kế hiện hành; khớp nối
+đồng bộ với hệ thống hạ tầng kỹ thuật chung của khu vực theo quy hoạch.
+       3.3. Điều chỉnh các tuyến đường giao thông:
+      + Tuyến N1-A: thể hiện ở mặt cắt 2-2 có bề rộng mặt đường (2x11.5)m,
+bề rộng hè đường (2x10.0)m, bề rộng dải phân cách 2.0m, bề rộng nền đường
+45.0m;
+      + Tuyến N4-A: thể hiện ở mặt cắt 2-2 có bề rộng mặt đường (2x11.5)m,
+bề rộng hè đường (2x10.0)m, bề rộng dải phân cách 2.0m, bề rộng nền đường
+45.0m;
+      + Tuyến N2-A: thể hiện ở mặt cắt 1-1 và 3-3 có bề rộng mặt đường (15.0-
+36.0)m, bề rộng hè đường (2x5.0)m, bề rộng dải phân cách 2.0m, bề rộng nền
+đường (27.0-48.0)m;
+      + Tuyến N3-A: thể hiện ở mặt cắt 1-1 có bề rộng mặt đường 15.0m, bề
+rộng hè đường (2x5.0)m, bề rộng dải phân cách 2.0m, bề rộng nền đường
+27.0m;
+      + Tuyến đường gom kết nối IC17 và ĐT.152: bề rộng mặt đường 15.0m,
+bề rộng hè đường 5.0m và dải cây xanh cách ly rộng 10m.
+                                       7
+
+      Điều chỉnh cao độ nút giao thông một số tuyến đường trong khu công
+nghiệp.
+      Các tuyến đường trong khu quy hoạch sử dụng mặt đường kết cấu bê tông
+nhựa đảm bảo yêu cầu với đường giao thông đối ngoại, giao thông khu vực và
+đường trong khu công nghiệp Eyc ≥ 155Mpa; vỉa hè lát gạch Granite cường độ
+cao hoặc gạch tự chèn.
+      3.4. Điều chỉnh cục bộ Quy hoạch chuẩn bị kỹ thuật:
+      - San nền: giải pháp quy hoạch san nền theo quy hoạch phân khu đã được
+phê duyệt, tận dụng tối đa dạng địa hình để có phương án khống chế cân bằng
+khối lượng đào và đắp giảm chi phí đầu tư xây dựng.
+      Phạm vi, cao độ san gạt các lô đất có thể hiệu chỉnh trong bước lập dự án.
+      Khối lượng san nền các lô đất trong khu công nghiệp không bao gồm khối
+lượng đào đắp mạng lưới giao thông như sau:
+      Tổng khối lượng đào tạm tính: 6,46 triệu m3.
+      Tổng khối lượng đắp tạm tính: 6,48 triệu m3.
+      - Thoát nước mặt:
+      Giải pháp thiết kế, phương án tính toán để lựa chọn tiết diện cống phù hợp
+với diện tích lưu vực thoát nước, tận dụng tối đa địa hình để vạch tuyến thoát
+nước mưa, chia nhỏ các lưu vực thoát nước để giảm diện tích lưu vực từ đó giảm
+đường kính cống thoát nước chính của lưu vực tính toán.
+       Chu kỳ lặp lại trận mưa tính toán với khu công nghiệp có công nghệ bình
+thường từ 5-10 năm (theo Bảng 2 TCVN 7957:2023), lựa chọn P=10 năm làm
+cơ sở tính toán lựa chọn đường kính cống thoát nước mưa.
+       Sau khi tính toán lại hệ thống thoát nước mưa khu công nghiệp Phú Xuân,
+đường cống thoát nước chính từ D2000-D2500, tuyến cống nhánh từ D1000-
+D1500, bố trí 01 vị trí cống xả nước B2500 ra ngoài khu vực mương, suối hiện
+trạng để thoát ra suối Trát.
+      3.5. Điều chỉnh cục bộ Quy hoạch cấp nước:
+      Tổng nhu cầu cấp nước lớn nhất khoảng 34.672,5 m3/ngày đêm cho nhu
+cầu sản xuất, sinh hoạt và phòng cháy theo số liệu khảo sát thực tế các ngành
+nghề và quy mô dự kiến trong khu công nghiệp.
+       Nguồn nước: Nguồn nước cấp cho hoạt động sản xuất công nghiệp được
+lấy từ nhà máy nước được xây dựng mới đặt tại Khu công nghiệp Phú Xuân 1,
+công suất nhà máy nước theo tính toán là 70.000 m3/ngđ cấp cho 2 khu công
+nghiệp Phú Xuân và Phú Xuân 1 và cho khu dân cư lân cận khi có nhu cầu.
+Nguồn cấp nước thô cho Trạm cấp nước sạch dự kiến lấy từ trạm cấp nước thô
+đặt tại suối Ngòi Bo cách vị trí xây dựng Trạm cấp nước sạch khoảng 1,8km.
+                                       8
+
+      Mạng lưới cấp nước sạch sử dụng ống HDPE D160-D315 sử dụng mạch
+vòng khép kín.
+        Các nội dung khác tuân thủ theo quy hoạch phân khu đã được phê duyệt.
+        3.6. Điều chỉnh cục bộ Quy hoạch cấp điện, thông tin liên lạc như sau:
+      Điều chỉnh phương án cấp điện từ 02 trạm biến áp 110kV thành 01 Trạm
+biến áp 110kV gồm 02 máy biến áp công suất 2x63MVA đặt tại khu công
+nghiệp Phú Xuân; ngoài ra còn bổ sung thêm 01 trạm biến áp cấp điện cho khu
+dịch vụ và 01 trạm biến áp cấp cho khu xử lý nước thải.
+      Hệ thống đèn chiếu sáng được giao thông được bố trí tại dải phân cách
+các tuyến đường trong khu công nghiệp.
+        Các nội dung khác theo quy hoạch phân khu đã được duyệt.
+        3.7. Điều chỉnh cục bộ Quy hoạch thoát nước thải, xử lý CTR:
+      Lưu lượng nước thải phát sinh khu công nghiệp tính bằng 85% lưu lượng
+nước cấp cho sản xuất công nghiệp do các nhà máy cũng có công nghệ tái sử
+dụng nước thải.
+  STT                  Hạng mục                      Lưu lượng (m3/ngđ)
+    1       Lưu lượng nước cấp lớn nhất                     34.672,5
+    2       Lưu lượng thoát nước lớn nhất (85%)              27.738
+       Giải pháp thiết kế: Để đảm bảo dự phòng phát triển và vận hành ổn định,
+thuận tiện cho phân kì đầu tư sau này với từng modul, đề xuất quy hoạch nhà
+máy xử lý nước thải tập trung khu Phú Xuân và Phú Xuân 1 có tổng công suất
+45.000 m3/ngđ và đặt tại vị trí thấp nhất tại Khu công nghiệp Phú Xuân, xử lý
+đạt chuẩn cột A QCVN 40:2025/BTNMT trước khi xả ra môi trường.
+       - Nước thải sau khi được xử lý đạt chuẩn cột A theo QCVN
+40:2025/BTNMT có thể tận dụng làm nước tưới cây xanh, rửa đường trong khu
+công nghiệp; còn thừa sẽ được thoát vào mương, suối thoát nước hiện trạng dẫn
+ra suối Trát.
+       - Công trình xử lý nước thải bằng phương pháp cơ học, hóa lý và sinh học
+được xây dựng khép kín và có hệ thống thu gom và xử lý mùi.
+     - Toàn bộ ống thoát nước thải sử dụng loại cống HDPE gân xoắn 2 lớp có
+đường kính từ D200-D600 SN8.
+        - Các nội dung khác tuân thủ theo quy hoạch phân khu đã được phê duyệt.
+      4. Các nội dung khác.
+      Thực hiện theo Quyết định số 95/QĐ-BQL ngày 18/6/2026 của Ban Quản
+lý khu kinh tế tỉnh Lào Cai về việc phê duyệt Quy hoạch phân khu Khu công
+nghiệp Phú Xuân, xã Gia Phú, tỉnh Lào Cai.
+      5. Quy định quản lý
+                                    9
+
+       Quy định quản lý theo đồ án Quy hoạch phân khu Khu công nghiệp Phú
+Xuân, xã Gia Phú, tỉnh Lào Cai được ban hành kèm theo Quyết định phê duyệt
+và hồ sơ quy hoạch phân khu được duyệt.
+       Điều 2. Tổ chức thực hiện
+       Giao Công ty Cổ phần công nghiệp Linh Linh phối hợp với Phòng Quản
+lý Quy hoạch xây dựng và Đầu tư thực hiện: kiểm soát hồ sơ xuất bản theo
+Quyết định phê duyệt, đóng dấu, bàn giao hồ sơ cho các cơ quan quản lý theo
+quy định, bảo quản lưu trữ hồ theo quy định, tổ chức công bố quy hoạch, cắm
+mốc giới đảm bảo thời gian qui định.
+       Điều 3. Hiệu lực thi hành
+       Quyết định này có hiệu lực kể từ ngày ký ban hành.
+       Chánh Văn phòng Ban Quản lý khu kinh tế, Trưởng phòng Quản lý Quy
+hoạch xây dựng và Đầu tư, Trưởng phòng Kế hoạch Tổng hợp, Thủ trưởng các
+cơ quan, đơn vị có liên quan và Công ty Cổ phần công nghiệp Linh Linh chịu
+trách nhiệm thi hành Quyết định này./.
+Nơi nhận:                                        TRƯỞNG BAN
+- UBND tỉnh Lào Cai(b/c);
+- Sở Xây dựng tỉnh Lào Cai;
+- UBND xã Gia Phú;
+- Lãnh đạo ban;
+- Như Điều 3 QĐ;
+- Cổng TTĐT Ban;
+- Lưu: VT, QHXD5.                              Vương Trinh Quốc

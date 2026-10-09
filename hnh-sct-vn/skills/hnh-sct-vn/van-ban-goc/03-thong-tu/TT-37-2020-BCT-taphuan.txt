@@ -1,0 +1,2143 @@
+[Bản trích chữ tự động (docx) từ TT-37-2020-BCT-taphuan.docx — 2078 đoạn, chuẩn hóa Unicode NFC. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+BỘ CÔNG THƯƠNG
+------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+---------------
+Số: 37/2020/TT-BCT | Hà Nội, ngày 30 tháng 11 năm 2020
+
+THÔNG TƯ
+QUY ĐỊNH DANH MỤC HÀNG HÓA NGUY HIỂM PHẢI ĐÓNG GÓI TRONG QUÁ TRÌNH VẬN CHUYỂN VÀ VẬN CHUYỂN HÀNG HÓA NGUY HIỂM BẰNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ, ĐƯỜNG SẮT VÀ ĐƯỜNG THỦY NỘI ĐỊA
+Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;
+Căn cứ Nghị định số 42/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định Danh mục hàng hoá nguy hiểm, vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và vận chuyển hàng hóa nguy hiểm trên đường thủy nội địa;
+Căn cứ Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt;
+Theo đề nghị của Cục trưởng Cục Kỹ thuật an toàn và Môi trường công nghiệp;
+Bộ trưởng Bộ Công Thương ban hành Thông tư quy định Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển và vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa.
+Chương I.
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển; yêu cầu về đóng gói, phương tiện chứa đối với hàng hóa nguy hiểm; phương án ứng cứu khẩn cấp và tập huấn người tham gia vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa thuộc trách nhiệm quản lý của Bộ Công Thương quy định tại Điều 24 Nghị định số 42/2020/NĐ-CP.
+Điều 2. Đối tượng áp dụng
+Thông tư này áp dụng đối với tổ chức, cá nhân thực hiện hoạt động vận chuyển hàng hóa nguy hiểm và các tổ chức cá nhân có liên quan đến vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường thủy nội địa, đường sắt trên lãnh thổ Việt Nam.
+Điều 3. Giải thích từ ngữ
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1. “Đóng gói hàng hóa nguy hiểm” là việc sử dụng các thao tác kỹ thuật để chứa đựng hàng hóa nguy hiểm trong các phương tiện chứa phù hợp tiêu chuẩn đã đăng ký, công bố.
+2. “Phương tiện chứa” là các loại bao gói, chai, thùng, bồn, bể hoặc côngtenơ (container) dùng để chứa và vận chuyển hàng hóa nguy hiểm. Phương tiện chứa hàng hóa nguy hiểm gồm các loại:
+a) “Bao gói cỡ nhỏ” (ký hiệu là P) là phương tiện chứa có dung tích chứa nước đến 450 lít hoặc có khối lượng chứa đến 400 kg.
+b) “Bao gói cỡ lớn” (ký hiệu là LP) là phương tiện chứa có dung tích chứa nước lớn hơn 450 lít hoặc có khối lượng chứa lớn hơn 400 kg nhưng có thể tích chứa nhỏ hơn 3 m3.
+c) “Thùng chứa hàng rời cỡ trung” (ký hiệu là IBC), bao gồm:
+- Thùng kim loại có thể tích chứa tối đa đến 3 m3 đối với hàng hóa dạng lỏng, rắn.
+- Thùng bằng gỗ, chất dẻo, giấy có thể tích chứa tối đa đến 1,5 m3 đối với hàng hóa dạng rắn.
+d) “Bao gói trong” (còn gọi là bao gói trực tiếp) là phương tiện chứa tiếp xúc trực tiếp với hàng hóa, thực hiện đầy đủ chức năng chứa đựng hàng hóa mà không cần có thêm bất kỳ bao gói khác.
+đ) “Bao gói ngoài” là phương tiện chứa bao gói trong, cùng với các vật liệu hấp thụ, chèn đệm nhằm tạo ra sự bảo vệ bao gói trong trong khi vận chuyển.
+e) “Bao gói kết hợp” là phương tiện chứa gồm một hoặc nhiều bao gói trong, gắn, xếp cố định trong bao gói ngoài.
+g) “Bồn, bể chuyên dụng” là phương tiện chứa (hệ thống bồn/bể chứa) lắp trên phương tiện vận chuyển, gồm:
+- Phương tiện chứa có dung tích lớn hơn 1m3 hoặc kiểu côngtenơ bồn (tank-container) có dung tích lớn hơn 3m3 chứa hàng hóa nguy hiểm loại 3 có nhiệt độ chớp cháy không quá 60°C (kiểu FL, chi tiết xem Phụ lục III).
+- Phương tiện chứa có dung tích lớn hơn 1m3 hoặc côngtenơ bồn (tank- container) có dung tích lớn hơn 3m3 chứa hàng hóa nguy hiểm khác với kiểu FL (kiểu AT, chi tiết xem Phụ lục III).
+h) “Côngtenơ” là phương tiện chứa dạng thùng, hộp có dung tích chứa lớn hơn 1 m3 để chứa và trung chuyển các loại hàng hóa đã được đóng gói hoàn chỉnh.
+3. “Hàng rời” là hàng hóa chưa được đóng gói.
+4. “Mức đóng gói” là mức được ấn định tùy theo mức độ nguy hiểm của hàng hóa được đóng gói (ký hiệu là PG I, PG II, PG III).
+Chương II.
+DANH MỤC, YÊU CẦU VỀ ĐÓNG GÓI, PHƯƠNG TIỆN CHỨA ĐỐI VỚI HÀNG HÓA NGUY HIỂM VÀ VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Điều 4. Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển
+Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển là Danh mục được quy định tại Phụ lục I của Thông tư này (sau đây gọi là Danh mục).
+Điều 5. Yêu cầu về biểu trưng nguy hiểm và báo hiệu nguy hiểm
+Kích thước, ký hiệu, màu sắc biểu trưng và báo hiệu nguy hiểm thực hiện theo quy định tại Điều 7, Phụ lục I và Phụ lục III Nghị định số 42/2020/NĐ-CP.
+Điều 6. Yêu cầu về đóng gói hàng hóa nguy hiểm
+1. Trừ các loại hàng hóa nguy hiểm loại 2, hàng hóa nguy hiểm dạng rắn, lỏng được đóng gói theo 3 mức quy định tại cột 6, Danh mục như sau:
+a) Mức rất nguy hiểm biểu thị bằng số I (PGI).
+b) Mức nguy hiểm biểu thị bằng số II (PG II).
+c) Mức nguy hiểm thấp biểu thị bằng số III (PG III).
+Quy định cụ thể về mức đóng gói tại Phụ lục II Thông tư này.
+2. Mã đóng gói hàng hóa nguy hiểm quy định tại cột 9 Danh mục. Các yêu cầu về vật liệu, điều kiện đóng gói và chi tiết quy cách đóng gói hàng hóa nguy hiểm tương ứng với từng mã đóng gói quy định tại Phụ lục III Thông tư này.
+3. Tổ chức sản xuất hoặc người vận tải hàng hóa nguy hiểm phải đóng gói hàng hóa nguy hiểm theo quy định tại Thông tư này, các Quy chuẩn kỹ thuật quốc gia tương ứng đã được ban hành và các văn bản quy phạm pháp luật khác có quy định cụ thể về đóng gói vận chuyển hàng hóa nguy hiểm.
+Điều 7. Yêu cầu về kiểm tra, thử nghiệm, kiểm định phương tiện chứa
+1. Phương tiện chứa hàng hóa nguy hiểm được kiểm tra, thử nghiệm, kiểm định trước khi đóng gói theo quy định của pháp luật hiện hành.
+2. Phương tiện chứa chịu áp lực, thuộc Danh mục máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động phải được kiểm định kỹ thuật an toàn lao động theo quy định.
+Điều 8. Hàng hóa nguy hiểm yêu cầu bắt buộc phải có người áp tải
+Yêu cầu bắt buộc phải có người áp tải đối với việc vận chuyển hàng hóa nguy hiểm có khối lượng lớn hơn mức quy định tại cột 7 Danh mục.
+Điều 9. Ứng cứu khẩn cấp
+1. Việc vận chuyển hàng hóa nguy hiểm với khối lượng lớn hơn khối lượng quy định tại cột 7 Danh mục, yêu cầu phải lập phương án ứng cứu khẩn cấp; nội dung phương án ứng cứu khẩn cấp quy định tại Phụ lục IV Thông tư này.
+2. Trường hợp vận chuyển hàng hóa nguy hiểm không thuộc khoản 1 Điều này, phải có hướng dẫn xử lý sự cố tràn đổ, rò rỉ hoặc cháy nổ đối với hàng hóa đang vận chuyển.
+3. Phương án ứng cứu khẩn cấp hoặc hướng dẫn xử lý sự cố phải được mang theo trong khi vận chuyển hàng hóa nguy hiểm và do người điều khiển phương tiện quản lý, cất giữ ở vị trí dễ thấy trên buồng lái phương tiện vận chuyển.
+4. Người điều khiển phương tiện vận chuyển, người áp tải phải hiểu rõ nội dung phương án ứng cứu khẩn cấp hoặc hướng dẫn xử lý sự cố, thực hiện các thủ tục ứng cứu và sử dụng thành thạo các trang thiết bị xử lý sự cố cháy, tràn đổ, rò rỉ. Trước mỗi lần vận chuyển hàng hóa nguy hiểm, người điều khiển phương tiện phải rà soát kiểm tra các trang thiết bị cảnh báo, xử lý sự cố.
+Chương III.
+QUY ĐỊNH VỀ TẬP HUẤN
+Điều 10. Đối tượng, nội dung, hình thức và thời gian tập huấn
+1. Đối tượng tập huấn: Người điều khiển phương tiện, thủ kho, người áp tải, người xếp dỡ hàng hóa khi tham gia vận chuyển hàng hóa nguy hiểm.
+2. Nội dung tập huấn
+a) Các văn bản quy phạm pháp luật liên quan đến vận chuyển hàng hóa nguy hiểm.
+b) Tính chất nguy hiểm hàng hóa cần vận chuyển; biểu trưng, báo hiệu nguy hiểm trên phương tiện chứa, vận chuyển.
+c) Yêu cầu đối với phương tiện vận chuyển, bao bì, thùng chứa hàng hóa nguy hiểm.
+d) An toàn trong xếp, dỡ, vận chuyển hàng hóa nguy hiểm; các biện pháp, thủ tục cần thực hiện khi xảy ra tai nạn, sự cố trên đường vận chuyển.
+đ) Phương án ứng cứu khẩn cấp.
+3. Hình thức và thời gian tập huấn
+a) Hình thức tập huấn
+- Tập huấn lần đầu.
+- Tập huấn định kỳ: 02 năm.
+- Tập huấn lại: Được thực hiện khi có thay đổi hàng hóa nguy hiểm được vận chuyển hoặc khi người lao động nghỉ việc từ sáu tháng trở lên hoặc khi kiểm tra không đạt yêu cầu.
+b) Thời gian tập huấn
+- Tập huấn lần đầu: Tối thiểu 16 giờ, bao gồm cả thời gian kiểm tra.
+- Tập huấn định kỳ: Bằng một nửa thời gian huấn luyện lần đầu.
+- Tập huấn lại: Tối thiểu 12 giờ, bao gồm cả thời gian kiểm tra.
+c) Tập huấn vận chuyển hàng hóa nguy hiểm có thể được tổ chức riêng hoặc kết hợp với các hoạt động huấn luyện an toàn khác được pháp luật quy định.
+Điều 11. Tiêu chuẩn người tập huấn
+Người tập huấn cho người điều khiển phương tiện, người thủ kho, người áp tải, người xếp, dỡ hàng hóa khi tham gia vận chuyển hàng hoá nguy hiểm phải có trình độ đại học trở lên và có ít nhất 05 năm kinh nghiệm công tác phù hợp với chuyên ngành tập huấn.
+Điều 12. Đánh giá kết quả và lưu giữ hồ sơ tập huấn
+1. Người vận tải hoặc các tổ chức huấn luyện được người vận tải thuê tập huấn chịu trách nhiệm kiểm tra để đánh giá kết quả tập huấn đối với người điều khiển phương tiện giao thông cơ giới đường bộ.
+2. Người thuê vận tải hoặc các tổ chức huấn luyện được người thuê vận tải thuê tập huấn chịu trách nhiệm kiểm tra để đánh giá kết quả tập huấn đối với người áp tải, người xếp, dỡ, thủ kho.
+3. Quy định về kiểm tra
+a) Nội dung kiểm tra phải phù hợp với nội dung tập huấn.
+b) Bài kiểm tra đạt yêu cầu phải đạt điểm trung bình trở lên.
+4. Trong thời gian 15 ngày làm việc kể từ khi kết thúc tập huấn, người vận tải hoặc tổ chức huấn luyện ban hành quyết định công nhận kết quả tập huấn vận chuyển hàng hóa nguy hiểm và cấp Giấy chứng nhận hoàn thành chương trình tập huấn.
+5. Hồ sơ tập huấn bao gồm:
+a) Tài liệu tập huấn.
+b) Danh sách đối tượng tập huấn với các thông tin và chữ ký xác nhận tham gia tập huấn theo mẫu tại Phụ lục VI.
+c) Thông tin về người tập huấn bao gồm: Họ tên, ngày tháng năm sinh, số CMND/CCCD/ hộ chiếu, nghề nghiệp, đơn vị công tác.
+d) Nội dung và kết quả kiểm tra tập huấn.
+đ) Quyết định công nhận kết quả kiểm tra tập huấn theo mẫu tại Phụ lục VII.
+6. Người vận tải hàng hóa nguy hiểm có trách nhiệm lưu giữ đầy đủ hồ sơ quy định tại khoản 5 Điều này đối với người điều khiển phương tiện giao thông cơ giới đường bộ và xuất trình khi cơ quan quản lý nhà nước yêu cầu.
+7. Người thuê vận tải hàng hóa nguy hiểm có trách nhiệm lưu giữ đầy đủ hồ sơ quy định tại khoản 5 Điều này đối với áp tải, người xếp, dỡ, thủ kho và xuất trình khi cơ quan quản lý nhà nước yêu cầu.
+8. Giấy chứng nhận hoàn thành chương trình tập huấn theo mẫu tại Phụ lục V và có giá trị trong thời hạn 02 (hai) năm.
+Chương IV.
+TỔ CHỨC THỰC HIỆN
+Điều 13. Tổ chức thực hiện
+1. Cục Kỹ thuật an toàn và Môi trường công nghiệp có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Thông tư này.
+2. Sở Công Thương các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
+a) Phổ biến, hướng dẫn cho các tổ chức, cá nhân vận chuyển hàng hóa nguy hiểm trên địa bàn quản lý thực hiện các quy định tại Thông tư này.
+b) Kiểm tra việc thực hiện công tác tập huấn đối với người điều khiển phương tiện giao thông cơ giới đường bộ, người áp tải, người xếp, dỡ, thủ kho trên địa bàn thuộc phạm vi quản lý.
+3. Người vận tải, người thuê vận tải, tổ chức tập huấn vận chuyển hàng hóa nguy hiểm có trách nhiệm:
+a) Tổ chức tập huấn hoặc thuê tổ chức tập huấn vận chuyển hàng hóa nguy hiểm đảm bảo các quy định về chương trình và nội dung tập huấn quy định tại Thông tư này.
+b) Đảm bảo người tập huấn đáp ứng tiêu chuẩn quy định tại Điều 11 của Thông tư này.
+c) Người vận tải, người thuê vận tải cần thực hiện đầy đủ các quy định về vận chuyển hàng hóa nguy hiểm quy định tại Thông tư này và các văn bản pháp luật có liên quan.
+Điều 14. Điều khoản thi hành
+1. Thông tư này có hiệu lực từ ngày 14 tháng 01 năm 2021 và thay thế Thông tư số 44/2012/TT-BCT ngày 28 tháng 12 năm 2012 của Bộ Công Thương quy định Danh mục hàng công nghiệp nguy hiểm phải đóng gói trong quá trình vận chuyển và vận chuyển hàng công nghiệp nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa.
+2. Trường hợp các văn bản quy phạm pháp luật được viện dẫn trong Thông tư này có sửa đổi, bổ sung hoặc được thay thế thì áp dụng các quy định tại văn bản quy phạm pháp luật đã sửa đổi, bổ sung hoặc thay thế.
+3. Giấy chứng nhận huấn luyện kỹ thuật an toàn vận chuyển hàng hóa nguy hiểm đã cấp trước ngày Thông tư này có hiệu lực có giá trị đến khi hết hạn.
+4. Trong quá trình thực hiện, nếu có vấn đề phát sinh hoặc vướng mắc, các tổ chức, cá nhân phản ánh về Bộ Công Thương để kịp thời xem xét, giải quyết./.
+
+Nơi nhận:
+- Văn phòng Tổng Bí thư;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+- Lãnh đạo Bộ Công Thương;
+- Các đơn vị thuộc Bộ Công Thương;
+- UBND các tỉnh, TP trực thuộc TW;
+- Sở Công Thương các tỉnh, TP trực thuộc TW;
+- Cục kiểm tra VBQPPL - Bộ Tư pháp;
+- Cục Kiểm soát thủ tục hành chính - VPCP;
+- Website Chính phủ, Bộ Công Thương;
+- Công báo;
+- Lưu: VT,PC, ATMT. | BỘ TRƯỞNG
+
+Trần Tuấn Anh
+
+PHỤ LỤC I
+DANH MỤC HÀNG HÓA NGUY HIỂM PHẢI ĐÓNG GÓI TRONG QUÁ TRÌNH VẬN CHUYỂN
+(Kèm theo Thông tư số 37/2020/TT-BCT ngày 30 tháng 11 năm 2020 của Bộ trưởng Bộ Công Thương)
+
+STT | Tên hàng | Số UN | Loại, nhóm hàng | Số hiệu nguy hiểm | Mức đóng gói (PG) | Ngưỡng khối lượng cần xây dựng phương án ứng cứu khẩn cấp | Bồn bể chuyên dụng | Loại đóng gói
+(1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9)
+1. | AXETYLEN, DẠNG PHÂN RÃ | 1001 | 2 | 239 |  |  | FL | P200
+2. | KHÔNG KHÍ DẠNG NÉN | 1002 | 2 | 20 |  |  | AT | P200
+3. | KHÔNG KHÍ, DẠNG LỎNG LÀM LẠNH | 1003 | 2 | 225 |  | 3000 | AT | P203
+4. | AMONIAC, KHAN | 1005 | 2 | 268 |  | 3000 | AT | P200
+5. | ARGON, DẠNG NÉN | 1006 | 2 | 20 |  |  | AT | P200
+6. | BO TRIFLORUA | 1008 | 2 | 268 |  | 50 | AT | P200
+7. | BOTRIFLOMET AN (MÔI CHẤT LẠNH R13B1) | 1009 | 2 | 20 |  |  | AT | P200
+8. | BUTADIEN, ĐƯỢC ỔN ĐỊNH hoặc HỖN HỢP BUTADIEN và HYDROCACBON, ĐƯỢC ỔN ĐỊNH, có áp suất hơi ở 70 °C không lớn hơn 1,1 Mpa (11 bar) và mật độ khối lượng ở 50 °C không thấp hơn 0,525 kg/l | 1010 | 2 | 239 |  | 3000 | FL | P200
+9. | BUTAN | 1011 | 2 | 23 |  | 3000 | FL | P200
+10. | HỖN HỢP CÁC BUTYLEN hoặc 1-BUTYLEN hoặc cis-2- BUTYLEN hoặc trans-2- BUTYLEN | 1012 | 2 | 23 |  | 3000 | FL | P200
+11. | CACBON DIOXIT | 1013 | 2 | 20 |  |  | AT | P200
+12. | CACBON MONOXIT, DẠNG NÉN | 1016 | 2 | 263 |  | 500 | FL | P200
+13. | CLO | 1017 | 2 | 265 |  | 500 | AT | P200
+14. | CLODIFLOMETAN (MÔI CHẤT LẠNH R 22) | 1018 | 2 | 20 |  |  | AT | P200
+15. | CLOPENTANFLOETAN (MÔI CHẤT LẠNH R 115) | 1020 | 2 | 20 |  |  | AT | P200
+16. | 1-CLO-1,2,2,2- TETRAFLOETAN (MÔI CHẤT LẠNH R 124) | 1021 | 2 | 20 |  |  | AT | P200
+17. | CLOTRIFLOMETAN (MÔI CHẤT LẠNH R13) | 1022 | 2 | 20 |  |  | AT | P200
+18. | KHÍ THAN, DẠNG NÉN | 1023 | 2 | 263 |  | 500 | FL | P200
+19. | XYANOGEN | 1026 | 2 | 263 |  | 25 | FL | P200
+20. | CYCLOPROPAN | 1027 | 2 | 23 |  | 3000 | FL | P200
+21. | DICLODIFLOMETAN (MÔI CHẤT LẠNH R12) | 1028 | 2 | 20 |  |  | AT | P200
+22. | DICLOFLOMETAN (MÔI CHẤT LẠNH R21) | 1029 | 2 | 20 |  |  | AT | P200
+23. | 1,1-DIFLOETAN (MÔI CHẤT LẠNH R152A) | 1030 | 2 | 23 |  | 3000 | FL | P200
+24. | DIMETYLAMIN, KHAN | 1032 | 2 | 23 |  | 3000 | FL | P200
+25. | DIMETYL ETE | 1033 | 2 | 23 |  | 3000 | FL | P200
+26. | ETAN | 1035 | 2 | 23 |  | 3000 | FL | P200
+27. | ETYLAMIN | 1036 | 2 | 23 |  | 3000 | FL | P200
+28. | ETYLCLORUA | 1037 | 2 | 23 |  | 3000 | FL | P200
+29. | ETYLEN, CHẤT LỎNG LÀM LẠNH | 1038 | 2 | 223 |  | 3000 | FL | P203
+30. | ETYL METYL ETE | 1039 | 2 | 23 |  | 3000 | FL | P200
+31. | OXIT ETYLEN | 1040 | 2 | 263 |  | 500 | FL | P200
+32. | OXIT ETYLEN VỚI NITƠ đạt áp suất toàn phần 1MPa (10 bar) ở 50 °C | 1040 | 2 | 263 |  | 500 | FL | P200
+33. | HỖN HỢP OXIT ETYLEN VÀ CACBON DIOXIT chứa hơn 9% nhưng nhỏ hơn 87% oxit etylen | 1041 | 2 | 239 |  | 3000 | FL | P200
+34. | BÌNH CHỮA CHÁY chứa khí nén hoặc hóa lỏng | 1044 | 2 |  |  |  |  | P003
+35. | FLO, DẠNG NÉN | 1045 | 2 |  |  | 25 |  | P200
+36. | HELI, DẠNG NÉN | 1046 | 2 | 20 |  |  | AT | P200
+37. | HYDRO BROMUA, KHAN | 1048 | 2 | 268 |  | 500 | AT | P200
+38. | HYDRO, NÉN | 1049 | 2 | 23 |  | 3000 | FL | P200
+39. | HYDRO CLORUA, KHAN | 1050 | 2 | 268 |  | 500 | AT | P200
+40. | HYDRO XYANUA, Được ỔN ĐỊNH chứa dưới 3% nước | 1051 | 6.1 |  | I | 1000 |  | P200
+41. | HYDRO SUNFUA | 1053 | 2 | 263 |  | 500 | FL | P200
+42. | ISOBUTYLEN | 1055 | 2 | 23 |  | 3000 | FL | P200
+43. | KRYPTON, DẠNG NÉN | 1056 | 2 | 20 |  |  | AT | P200
+44. | BẬT LỬA hoặc NHIÊN LIỆU NẠP BẬT LỬA chứa khí dễ cháy | 1057 | 2 |  |  |  |  | P002
+45. | KHÍ HÓA LỎNG, không cháy, bơm nạp nitơ, cacbon dioxit hoặc không khí | 1058 | 2 | 20 |  |  | AT | P200
+46. | HỖN HỢP METYLAXETYLEN VÀ PROPADIEN, ỔN ĐỊNH, ví dụ hỗn hợp P1 hoặc hỗn hợp P2 | 1060 | 2 | 239 |  | 3000 | FL | P200
+47. | METYLAMIN, KHAN | 1061 | 2 | 23 |  | 3000 | FL | P200
+48. | METYL BROMUA chứa dưới 2% clopicrin | 1062 | 2 | 26 |  | 50 | AT | P200
+49. | METYLCLORUA (MÔI CHẤT LẠNH R40) | 1063 | 2 | 23 |  | 3000 | FL | P200
+50. | METYL MERCAPTAN | 1064 | 2 | 263 |  | 500 | FL | P200
+51. | NEON, NÉN | 1065 | 2 | 20 |  |  | AT | P200
+52. | NITƠ, NÉN | 1066 | 2 | 20 |  |  | AT | P200
+53. | DINIƠ TETROXIT (NITƠ DIOXIT) | 1067 | 2 | 265 |  | 25 | AT | P200
+54. | NITROSYL CLORUA | 1069 | 2 |  |  | 25 |  | P200
+55. | DINITƠ MONOXIT | 1070 | 2 | 25 |  | 3000 | AT | P200
+56. | KHÍ DÂU MỎ, DẠNG NÉN | 1071 | 2 | 263 |  | 25 | FL | P200
+57. | OXY, DẠNG NÉN | 1072 | 2 | 25 |  | 3000 | AT | P200
+58. | OXY, CHẤT LỎNG LÀM LẠNH | 1073 | 2 | 225 |  | 3000 | AT | P203
+59. | KHÍ DẦU MỎ, HÓA LỎNG | 1075 | 2 | 23 |  | 3000 | FL | P200
+60. | PHOTGEN | 1076 | 2 | 268 |  | 25 | AT | P200
+61. | PROPYLEN | 1077 | 2 | 23 |  | 3000 | FL | P200
+62. | MÔI CHẤT LẠNH, N.O.S., ví dụ hỗn hợp F1, hỗn hợp F2 hoặc hỗn hợp F3 | 1078 | 2 | 20 |  |  | AT | P200
+63. | LƯU HUỲNH DIOXIT | 1079 | 2 | 268 |  | 500 | AT | P200
+64. | LƯU HUỲNH HEXAFLORUA | 1080 | 2 | 20 |  |  | AT | P200
+65. | TETRAFLOETYLEN, ỔN ĐỊNH | 1081 | 2 | 239 |  | 3000 | FL | P200
+66. | TRIFLOCLOETYLEN, ỔN ĐỊNH (MÔI CHẤT LẠNH R1113) | 1082 | 2 | 263 |  | 500 | FL | P200
+67. | TRIMETYLAMIN, KHAN | 1083 | 2 | 23 |  | 3000 | FL | P200
+68. | VINYL BROMUA, ỔN ĐỊNH | 1085 | 2 | 239 |  | 3000 | FL | P200
+69. | VINYL CLORUA, ỔN ĐỊNH | 1086 | 2 | 239 |  | 3000 | FL | P200
+70. | VINYL METYL ETE, ỔN ĐỊNH | 1087 | 2 | 239 |  | 3000 | FL | P200
+71. | AXETAL | 1088 | 3 | 33 | II |  | FL | P001 IBC02 R001
+72. | AXETALDEHIT | 1089 | 3 | 33 | I | 3000 | FL | P001
+73. | AXETON | 1090 | 3 | 33 | II |  | FL | P001 IBC02 R001
+74. | DẦU AXETON | 1091 | 3 | 33 | II |  | FL | P001 IBC02 R001
+75. | ACROLEIN, ỔN ĐỊNH | 1092 | 6.1 | 663 | I | 1000 | FL | P601
+76. | ACRYLONITRIL, ỔN ĐỊNH | 1093 | 3 | 336 | I | 1000 | FL | P001
+77. | CỒN ALLYL | 1098 | 6.1 | 663 | I | 1000 | FL | P602
+78. | ALLYL BROMUA | 1099 | 3 | 336 | I | 1000 | FL | P001
+79. | ALLYL CLORUA | 1100 | 3 | 336 | I | 1000 | FL | P001
+80. | AMYL AXETAT | 1104 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+81. | PENTANOL | 1105 | 3 | 33 | II |  | FL | P001 IBC02 R001
+82. | PENTANOL | 1105 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+83. | AMYLAMIN | 1106 | 3 | 338 | II |  | FL | P001 IBC02
+84. | AMYLAMIN | 1106 | 3 | 38 | III |  | FL | P001 IBC03 R001
+85. | AMYL CLORUA | 1107 | 3 | 33 | II |  | FL | P001 IBC02 R001
+86. | 1-PENTEN (n-AMYLEN) | 1108 | 3 | 33 | I |  | FL | P001
+87. | AMYL FORMAT | 1109 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+88. | n-AMYL METYL KETON | 1110 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+89. | AMYL MERCAPTAN | 1111 | 3 | 33 | II |  | FL | P001 IBC02 R001
+90. | AMYL NITRAT | 1112 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+91. | AMYL NITRIT | 1113 | 3 | 33 | II |  | FL | P001 IBC02 R001
+92. | BENZEN | 1114 | 3 | 33 | II |  | FL | P001 IBC02 R001
+93. | BUTANOL | 1120 | 3 | 33 | II |  | FL | P001 IBC02 R001
+94. | BUTANOL | 1120 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+95. | BUTYL AXETAT | 1123 | 3 | 33 | II |  | FL | P001 IBC02 R001
+96. | BUTYL AXETAT | 1123 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+97. | n-BUTYLAMIN | 1125 | 3 | 338 | II |  | FL | P001 IBC02
+98. | 1-BROMBUTAN | 1126 | 3 | 33 | II |  | FL | P001 IBC02 R001
+99. | CLOBUTAN | 1127 | 3 | 33 | II |  | FL | P001 IBC02 R001
+100. | n-BUTYL FORMAT | 1128 | 3 | 33 | II |  | FL | P001 IBC02 R001
+101. | BUTYRALDEHIT | 1129 | 3 | 33 | II |  | FL | P001 IBC02 R001
+102. | DẦU LONG NÃO | 1130 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+103. | CACBON DISUNFUA | 1131 | 3 | 336 | I | 1000 | FL | P001
+104. | CÁC CHẤT DÍNH chứa dung môi dễ cháy | 1133 | 3 | 33 | I |  | FL | P001
+105. | CÁC CHẤT DÍNH chứa dung môi dễ cháy (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1133 | 3 | 33 | II |  | FL | P001
+106. | CÁC CHẤT DÍNH chứa dung môi dễ cháy (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1133 | 3 | 33 | II |  | FL | P001 IBC02 R001
+107. | CÁC CHẤT DÍNH chứa dung môi dễ cháy | 1133 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+108. | CÁC CHẤT DÍNH chứa dung môi dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1133 | 3 |  | III |  |  | P001 R001
+109. | CÁC CHẤT DÍNH chứa dung môi dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1133 | 3 |  | III |  |  | P001 IBC02 R001
+110. | CLOBENZEN | 1134 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+111. | ETYLEN CLOHYDRIN | 1135 | 6.1 | 663 | I | 1000 | FL | P602
+112. | NHỰA ĐƯỜNG ĐEN ĐÃ CHƯNG CẤT, DỄ CHÁY | 1136 | 3 | 33 | II |  | FL | P001 IBC02 R001
+113. | NHỰA ĐƯỜNG ĐEN ĐÃ CHƯNG CẤT, DỄ CHÁY | 1136 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+114. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) | 1139 | 3 | 33 | I |  | FL | P001
+115. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1139 | 3 | 33 | II |  | FL | P001
+116. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1139 | 3 | 33 | II |  | FL | P001 IBC02 R001
+117. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) | 1139 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+118. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1139 | 3 |  | III |  |  | P001 R001
+119. | DUNG DỊCH PHỦ (gồm dung dịch phủ hoặc xử lý bề mặt sử dụng trong công nghiệp hoặc mục đích khác như lớp sơn phủ xe, lớp phủ thùng) (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1139 | 3 |  | III |  |  | P001 IBC02 R001
+120. | CROTONALDEHIT hoặc CROTONALDEHIT, ỔN ĐỊNH | 1143 | 6.1 | 663 | I | 1000 | FL | P602
+121. | CROTONYLEN | 1144 | 3 | 339 | I |  | FL | P001
+122. | CYCLOHEXAN | 1145 | 3 | 33 | II |  | FL | P001 IBC02 R001
+123. | CYCLOPENTAN | 1146 | 3 | 33 | II |  | FL | P001 IBC02 R001
+124. | DECAHYDRO- NAPHTHALEN | 1147 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+125. | RƯỢU CỒN DIAXETON | 1148 | 3 | 33 | II |  | FL | P001 IBC02 R001
+126. | RƯỢU CỒN DIAXETON | 1148 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+127. | DIBUTYL ETE | 1149 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+128. | 1,2-DICLOETYLEN | 1150 | 3 | 33 | II |  | FL | P001 IBC02 R001
+129. | DICLOPENTAN | 1152 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+130. | ETYLEN GLYCOL DIETYL ETE | 1153 | 3 | 33 | 11 |  | FL | P001 IBC02 R001
+131. | ETYLEN GLYCOL DIETYL ETE | 1153 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+132. | DIETYLAMIN | 1154 | 3 | 338 | II |  | FL | P001 IBC02
+133. | DIETYL ETE (ETYL ETE) | 1155 | 3 | 33 | I |  | FL | P001
+134. | DIETYL KETON | 1156 | 3 | 33 | II |  | FL | P001 IBC02 R001
+135. | DIISOBUTYL KETON | 1157 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+136. | DIISOPROPYLAMIN | 1158 | 3 | 338 | II |  | FL | P001 IBC02
+137. | DIISOPROPYL ETE | 1159 | 3 | 33 | II |  | FL | P001 IBC02 R001
+138. | DUNG DỊCH NƯỚC DIMETYLAMIN | 1160 | 3 | 338 | II |  | FL | P001 IBC02
+139. | DIMETYLCACBONAT | 1161 | 3 | 33 | II |  | FL | P001 IBC02 R001
+140. | DIMETYLDICLO-SILAN | 1162 | 3 | X338 | II | 1000 | FL | P010
+141. | DIMETYLHYDRAZIN, KHÔNG ĐỐI XỨNG | 1163 | 6.1 | 663 | I | 1000 | FL | P602
+142. | DIMETYL SUNFUA | 1164 | 3 | 33 | II |  | FL | P001 IBC02
+143. | DIOXAN | 1165 | 3 | 33 | II |  | FL | P001 IBC02 R001
+144. | DIOXOLAN | 1166 | 3 | 33 | II |  | FL | P001 IBC02 R001
+145. | DIVINYL ETE, ỔN ĐỊNH | 1167 | 3 | 339 | I |  | FL | P001
+146. | CÁC CHIẾT XUẤT, HỢP CHẤT THƠM, DẠNG LỎNG (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1169 | 3 | 33 | II |  | FL | P001
+147. | CÁC CHIẾT XUẤT, HỢP CHẤT THƠM, DẠNG LỎNG (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1169 | 3 | 33 | II |  | FL | P001 IBC02 R001
+148. | CÁC CHIẾT XUẤT, HỢP CHẤT THƠM, DẠNG LỎNG | 1169 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+149. | CÁC CHIẾT XUẤT, HỢP CHẤT THƠM, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1169 | 3 |  | III |  |  | P001 R001
+150. | CÁC CHIẾT XUẤT, HỢP CHẤT THƠM, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1169 | 3 |  | III |  |  | P001 IBC02 R001
+151. | ETANOL (RƯỢU ETYL) hoặc DUNG DỊCH ETANOL (DUNG DỊCH RƯỢU ETYL) | 1170 | 3 | 33 | II |  | FL | P001 IBC02 R001
+152. | DUNG DỊCH ETANOL (DUNG DỊCH RƯỢU ETYL) | 1170 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+153. | ETYLEN GLYCOL MONOETYLETE | 1171 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+154. | ETYLEN GLYCOL MONOETYL ETE AXETAT | 1172 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+155. | ETYL AXETAT | 1173 | 3 | 33 | II |  | FL | P001 IBC02 R001
+156. | ETYLBENZEN | 1175 | 3 | 33 | II |  | FL | P001 IBC02 R001
+157. | ETYL BORAT | 1176 | 3 | 33 | II |  | FL | P001 IBC02 R001
+158. | 2-ETYLBUTYL AXETAT | 1177 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001 P001
+159. | 2-ETYLBUTYRALDEHIT | 1178 | 3 | 33 | II |  | FL | P001 IBC02 R001
+160. | ETYL BUTYL ETE | 1179 | 3 | 33 | II |  | FL | P001 IBC02 R001
+161. | ETYL BUTYRAT | 1180 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+162. | ETYL CLOAXETAT | 1181 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+163. | ETYL CLOFORMAT | 1182 | 6.1 | 663 | I | 1000 | FL | P602
+164. | ETYLEN DICLORUA | 1184 | 3 | 336 | II |  | FL | P001 IBC02
+165. | ETYLENIMIN, ỔN ĐỊNH | 1185 | 6.1 | 663 | I | 1000 | FL | P601
+166. | ETYLEN GLYCOL MONOMTYL ETE | 1188 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+167. | ETYLEN GLYCOL MONOMTYL ETE AXETAT | 1189 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+168. | ETYL FORMAT | 1190 | 3 | 33 | II |  | FL | P001 IBC02 R001
+169. | OCTYL ALDEHIT | 1191 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+170. | ETYL LACTAT | 1192 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+171. | ETYL METYL KETON (METYL ETYL KETON) | 1193 | 3 | 33 | II |  | FL | P001 IBC02 R001
+172. | DUNG DỊCH ETYL NITRIT | 1194 | 3 | 336 | I | 1000 | FL | P001
+173. | ETYL PROPIONAT | 1195 | 3 | 33 | II |  | FL | P001 IBC02 R001
+174. | ETYLTRICLOSILAN | 1196 | 3 | X338 | II | 3000 | FL | P010
+175. | CHẤT CHIẾT XUẤT TẠO MÙI VỊ, DẠNG LỎNG (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1197 | 3 | 33 | II |  | FL | P001
+176. | CHẤT CHIẾT XUẤT TẠO MÙI VỊ, DẠNG LỎNG (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1197 | 3 | 33 | II |  | FL | P001 IBC02 R001
+177. | CHẤT CHIÉT XUẤT TẠO MÙI VỊ, DẠNG LỎNG | 1197 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+178. | CHẤT CHIẾT XUẤT TẠO MÙI VỊ, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1197 | 3 |  | III |  |  | P001 R001
+179. | CHẤT CHIẾT XUẤT TẠO MÙI VỊ, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1197 | 3 |  | III |  |  | P001 IBC02 R001
+180. | DUNG DỊCH FORMALDEHIT, DỄ CHÁY | 1198 | 3 | 38 | III |  | FL | P001 IBC03 R001
+181. | FURALDEHIT | 1199 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+182. | DẦU RƯỢU TẠP | 1201 | 3 | 33 | II |  | FL | P001 IBC02 R001
+183. | DẦU RƯỢU TẠP | 1201 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+184. | KHÍ DẦU hoặc DẦU DIESEL hoặc DẦU NÓNG, NHẸ (điểm chớp cháy dưới 60 °C) | 1202 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+185. | DẦU DIESEL theo tiêu chuẩn EN 590:2013 + AC:2014 hoặc KHÍ DẦU hoặc DẦU NÓNG, NHẸ có điểm chớp cháy quy định trong EN 590:2013 + AC:2014 | 1202 | 3 | 30 | III |  | AT | P001 IBC03 LP01 R001
+186. | KHÍ DẦU hoặc DẦU DIESEL hoặc DẦU NÓNG, NHẸ (điểm chớp cháy từ 60 °C đến 100 °C) | 1202 | 3 | 30 | III |  | AT | P001 IBC03 LP01 R001
+187. | NHIÊN LIỆU ĐỘNG CƠ hoặc XĂNG hoặc DẦU | 1203 | 3 | 33 | II |  | FL | P001 IBC02 R001
+188. | DUNG DỊCH NITƠ GLYXERIN TRONG RƯỢU CỒN chứa dưới 1% nitơ glyxerin | 1204 | 3 |  | II |  |  | P001 IBC02
+189. | HEPTAN | 1206 | 3 | 33 | II |  | FL | P001 IBC02 R001
+190. | HEXALDEHIT | 1207 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+191. | HEXAN | 1208 | 3 | 33 | II |  | FL | P001 IBC02 R001
+192. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐẾN MỰC IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy | 1210 | 3 | 33 | I |  | FL | P001
+193. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐẾN MỰC IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1210 | 3 | 33 | II |  | FL | P001
+194. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐẾN MỰC IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1210 | 3 | 33 | II |  | FL | P001 IBC02 R001
+195. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐẾN MỰC IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy | 1210 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+196. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐẾN MỰC IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1210 | 3 |  | III |  |  | P001 R001
+197. | MỰC IN, dễ cháy hoặc VẬT LIỆU LIÊN QUAN ĐEN Mực IN (bao gồm hợp chất làm loãng hoặc giảm nồng độ mực in), dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1210 | 3 |  | III |  |  | P001 IBC02 R001
+198. | ISOBUTANOL (RƯỢU CỒN ISOBUTYL) | 1212 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+199. | ISOBUTYL AXETAT | 1213 | 3 | 33 | II |  | FL | P001 IBC02 R001
+200. | ISOBUTYLAMIN | 1214 | 3 | 338 | II |  | FL | P001 IBC02
+201. | ISOOCTEN | 1216 | 3 | 33 | II |  | FL | P001 IBC02 R001
+202. | ISOPREN, ỔN ĐỊNH | 1218 | 3 | 339 | I |  | FL | P001
+203. | ISOPROPANOL (RƯỢU CỒN ISOPROPYL) | 1219 | 3 | 33 | II |  | FL | P001 IBC02 R001
+204. | ISOPROPYL AXETAT | 1220 | 3 | 33 | II |  | FL | P001 IBC02 R001
+205. | ISOPROPYLAMIN | 1221 | 3 | 338 | I |  | FL | P001
+206. | ISOPROPYL NITRAT | 1222 | 3 |  | II |  |  | P001 IBC02 R001
+207. | DẦU HỎA | 1223 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+208. | KETON, DẠNG LỎNG, N.O.S. (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1224 | 3 | 33 | II |  | FL | P001
+209. | KETON, DẠNG LỎNG, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1224 | 3 | 33 | II |  | FL | P001 IBC02 R001
+210. | KETON, DẠNG LỎNG, N.O.S. | 1224 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+211. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, ĐỘC, N.O.S. hoặc HỖN HỢP MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, ĐỘC, N.O.S. | 1228 | 3 | 336 | II | 1000 | FL | P001 IBC02
+212. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, ĐỘC, N.O.S. hoặc HỖN HỢP MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, ĐỘC, N.O.S. | 1228 | 3 | 36 | III |  | FL | P001 IBC03 R001
+213. | MESITYL OXIT | 1229 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+214. | METANOL | 1230 | 3 | 336 | II |  | FL | P001 IBC02
+215. | METYL AXETAT | 1231 | 3 | 33 | II |  | FL | P001 IBC02 R001
+216. | METYLAMYL AXETAT | 1233 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+217. | METYLAL | 1234 | 3 | 33 | II |  | FL | P001 IBC02
+218. | METYLAMIN, DUNG DỊCH NƯỚC | 1235 | 3 | 338 | II |  | FL | P001 IBC02
+219. | METYL BUTYRAT | 1237 | 3 | 33 | II |  | FL | P001 IBC02 R001
+220. | METYL CLOFORMAT | 1238 | 6.1 | 663 | I | 1000 | FL | P602
+221. | METYL CLO-METYL ETE | 1239 | 6.1 | 663 | I | 1000 | FL | P602
+222. | METYL FORMAT | 1243 | 3 | 33 | I |  | FL | P001
+223. | METYLHYDRAZIN | 1244 | 6.1 | 663 | I | 1000 | FL | P602
+224. | METYL ISOBUTYL KETON | 1245 | 3 | 33 | II |  | FL | P001 IBC02 R001
+225. | METYL ISOPROPENYL KETON, ỔN ĐỊNH | 1246 | 3 | 339 | II |  | FL | P001 IBC02 R001
+226. | METYL METACRYLAT MONOM, ỔN ĐỊNH | 1247 | 3 | 339 | II |  | FL | P001 IBC02 R001
+227. | METYL PROPIONAT | 1248 | 3 | 33 | II |  | FL | P001 IBC02 R001
+228. | METYL PROPYL KETON | 1249 | 3 | 33 | II |  | FL | P001 IBC02 R001
+229. | METYLTRICLO-SILAN | 1250 | 3 | X338 | II | 1000 | FL | P010
+230. | METYL VINYL KETON, ỔN ĐỊNH | 1251 | 6.1 | 639 | I | 1000 | FL | P601
+231. | NIKEN CACBONYL | 1259 | 6.1 | 663 | I | 1000 | FL | P601
+232. | NITROMETAN | 1261 | 3 |  | II |  |  | P001 R001
+233. | OCTAN | 1262 | 3 | 33 | II |  | FL | P001 IBC02 R001
+234. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) | 1263 | 3 | 33 | I |  | FL | P001
+235. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1263 | 3 | 33 | II |  | FL | P001
+236. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) (áp suất hơi ở 50 °C nhỏ hơn 110kPa) | 1263 | 3 | 33 | II |  | FL | P001 IBC02 R001
+237. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) | 1263 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+238. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1263 | 3 |  | III |  |  | P001 R001
+239. | SƠN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN (hợp chất làm giảm nồng độ hoặc pha loãng sơn) (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1263 | 3 |  | III |  |  | P001 IBC02 R001
+240. | PARALDEHIT | 1264 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+241. | PENTAN, lỏng | 1265 | 3 | 33 | I |  | FL | P001
+242. | PENT AN, lỏng | 1265 | 3 | 33 | 11 |  | FL | P001 IBC02
+243. | CÁC SẢN PHẨM CÓ MÙI THƠM với chất hòa tan dễ cháy (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1266 | 3 | 33 | II |  | FL | P001
+244. | CÁC SẢN PHẨM CÓ MÙI THƠM với chất hòa tan dễ cháy (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1266 | 3 | 33 | II |  | FL | P001 IBC02 R001
+245. | CÁC SẢN PHẨM CÓ MÙI THƠM với chất hòa tan dễ cháy | 1266 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+246. | CÁC SẢN PHẨM CÓ MÙI THƠM với chất hòa tan dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1266 | 3 |  | III |  |  | P001 R001
+247. | CÁC SẢN PHẨM CÓ MÙI THƠM với chất hòa tan dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1266 | 3 |  | III |  |  | P001 IBC02 R001
+248. | DẦU THÔ PETROL | 1267 | 3 | 33 | I |  | FL | P001
+249. | DẦU THÔ PETROL (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1267 | 3 | 33 | II |  | FL | P001
+250. | DẦU THÔ PETROL (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1267 | 3 | 33 | II |  | FL | P001 IBC02 R001
+251. | DẦU THÔ PETROL | 1267 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+252. | SẢN PHẨM CHƯNG CẤT PHÂN ĐOẠN TRONG DẦU MỎ, N.O.S. hoặc SẢN PHẨM DẦU MỎ, N.O.S. | 1268 | 3 | 33 | I |  | FL | P001
+253. | SẢN PHẨM CHƯNG CẤT PHÂN ĐOẠN TRONG DẦU MỎ, N.O.S. hoặc SẢN PHẨM DẦU MỎ, N.O.S. (áp suất hơi ở 50 °C lớn hơn 110 KPa) | 1268 | 3 | 33 | II |  | FL | P001
+254. | SẢN PHẨM CHƯNG CẤT PHÂN ĐOẠN TRONG DẦU Mỏ, N.O.S. hoặc SẢN PHẨM DẦU MỎ, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1268 | 3 | 33 | II |  | FL | P001 IBC02 R001
+255. | SẢN PHẨM CHƯNG CẤT PHÂN ĐOẠN TRONG DẦU MỎ, N.O.S. hoặc SẢN PHẨM DẦU MỎ, N.O.S. | 1268 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+256. | DẦU GỖ THÔNG | 1272 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+257. | n-PROPANOL (RƯỢU CỒN PROPYL, THƯỜNG) | 1274 | 3 | 33 | II |  | FL | P001 IBC02 R001
+258. | n-PROPANOL (Rượu CỒN PROPYL, THƯỜNG) | 1274 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+259. | PROPIONALDEHIT | 1275 | 3 | 33 | II |  | FL | P001 IBC02 R001
+260. | n-PROPYL AXETAT | 1276 | 3 | 33 | II |  | FL | P001 IBC02 R001
+261. | PROPYLAMIN | 1277 | 3 | 338 | II |  | FL | P001 IBC02
+262. | 1-CLOPROPAN | 1278 | 3 | 33 | II |  | FL | P001 IBC02
+263. | 1,2-DICLOPROPAN | 1279 | 3 | 33 | II |  | FL | P001 IBC02 R001
+264. | PROPYLEN OXIT | 1280 | 3 | 33 | I |  | FL | P001
+265. | PROPYL FORMAT | 1281 | 3 | 33 | II |  | FL | P001 IBC02 R001
+266. | PYRIDIN | 1282 | 3 | 33 | II |  | FL | P001 IBC02 R001
+267. | DẦU ROSIN (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1286 | 3 | 33 | II |  | FL | P001
+268. | DẦU ROSIN (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1286 | 3 | 33 | II |  | FL | P001 IBC02 R001
+269. | DẦU ROSIN | 1286 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+270. | DẦU ROSIN (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1286 | 3 |  | III |  |  | P001 R001
+271. | DẦU ROSIN (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1286 | 3 |  | III |  |  | P001 IBC02 R001
+272. | DUNG DỊCH CHỨA CAO SU (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1287 | 3 | 33 | II |  | FL | P001
+273. | DƯNG DỊCH CHỨA CAO SU (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1287 | 3 | 33 | II |  | FL | P001 IBC02 R001
+274. | DUNG DỊCH CHỨA CAO SU | 1287 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+275. | DUNG DỊCH CHỨA CAO SU (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1287 | 3 |  | III |  |  | P001 R001
+276. | DUNG DỊCH CHỨA CAO SU (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1287 | 3 |  | III |  |  | P001 IBC02 R001
+277. | DẦU ĐÁ PHIẾN SÉT | 1288 | 3 | 33 | II |  | FL | P001 IBC02 R001
+278. | DẦU ĐÁ PHIẾN SÉT | 1288 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+279. | DUNG DỊCH NATRI METYLAT trong rượu cồn | 1289 | 3 | 338 | II |  | FL | P001 IBC02
+280. | DUNG DỊCH NATRI METYLAT trong rượu cồn | 1289 | 3 | 38 | III |  | FL | P001 IBC02 R001
+281. | TETRAETYL SILICAT | 1292 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+282. | TOLUEN | 1294 | 3 | 33 | II |  | FL | P001 IBC02 R001
+283. | TRIETYLAMIN | 1296 | 3 | 338 | II |  | FL | P001 IBC02
+284. | TRIMETYLAMIN, DUNG DỊCH NƯỚC, chứa dưới 50% trimetylamin theo khối lượng | 1297 | 3 | 338 | I |  | FL | P001
+285. | TRIMETYLAMIN, DUNG DỊCH NƯỚC, chứa dưới 50% trimetylamin theo khối lượng | 1297 | 3 | 338 | II |  | FL | P001 IBC02
+286. | TRIMETYLAMIN, DUNG DỊCH NƯỚC, chứa dưới 50% trimetylamin theo khối lượng | 1297 | 3 | 38 | III |  | FL | P001 IBC03 R001
+287. | TRIMETYLCLO-SILAN | 1298 | 3 | X338 | II | 1000 | FL | P010
+288. | TURPENTIN | 1299 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+289. | SẢN PHẨM THAY THẾ DẦU THÔNG | 1300 | 3 | 33 | II |  | FL | P001 IBC02 R001
+290. | SẢN PHẨM THAY THẾ DẦU THÔNG | 1300 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+291. | VINYL AXETAT, ỔN ĐỊNH | 1301 | 3 | 339 | II |  | FL | P001 IBC02 R001
+292. | VINYL ETYL ETE, ỔN ĐỊNH | 1302 | 3 | 339 | I |  | FL | P001
+293. | VINYLIDEN CLORUA, ỔN ĐỊNH | 1303 | 3 | 339 | I |  | FL | P001
+294. | VINYL ISOBUTYL ETE, ỔN ĐỊNH | 1304 | 3 | 339 | II |  | FL | P001 IBC02 R001
+295. | VINYLTRICLOSILAN | 1305 | 3 | X338 | II |  | FL | P010
+296. | CHẤT BẢO QUẢN GỖ, DẠNG LỎNG (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1306 | 3 | 33 | II |  | FL | P001
+297. | CHẤT BẢO QUẢN GỖ, DẠNG LỎNG (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1306 | 3 | 33 | II |  | FL | P001 IBC02 R001
+298. | CHẤT BẢO QUẢN GỖ, DẠNG LỎNG | 1306 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+299. | CHẤT BẢO QUẢN GỖ, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1306 | 3 |  | III |  |  | P001 R001
+300. | CHẤT BẢO QUẢN GỖ, DẠNG LỎNG (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1306 | 3 |  | III |  |  | P001 IBC02 R001
+301. | XYLEN | 1307 | 3 | 33 | II |  | FL | P001 IBC02 R001
+302. | XYLEN | 1307 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+303. | ZIRCONI TRONG CHẤT LỎNG DỄ CHÁY | 1308 | 3 | 33 | I |  | FL | P001
+304. | ZIRCONI TRONG CHẤT LỎNG DỄ CHÁY (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1308 | 3 | 33 | II |  | FL | P001 R001
+305. | ZIRCONI TRONG CHẤT LỎNG DỄ CHÁY (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1308 | 3 | 33 | II |  | FL | P001 R001
+306. | ZIRCONI TRONG CHẤT LỎNG DỄ CHÁY | 1308 | 3 | 30 | III |  | FL | P001 R001
+307. | TETRANITROMETAN | 1510 | 6.1 | 665 | I | 1000 | AT | P602
+308. | AXETON XYANOHYDRIN, ỔN ĐỊNH | 1541 | 6.1 | 669 | I | 1000 | AT | P602
+309. | ALKALOIT, DẠNG RẮN, N.O.S. hoặc MUỐI ALKALOIT, DẠNG RẮN, N.O.S. | 1544 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+310. | ALKALOIT, DẠNG RẮN, N.O.S. hoặc MUỐI ALKALOIT, DẠNG RẮN, N.O.S. | 1544 | 6.1 | 60 | II |  | AT | P002 IBC08
+311. | ALKALOIT, DẠNG RẮN, N.O.S. hoặc MUỐI ALKALOIT, DẠNG RẮN, N.O.S. | 1544 | 6.1 | 60 | 111 |  | AT | P002 IBC08 LP02 R001
+312. | ALLYL ISOTHIOXYANAT, ỔN ĐỊNH | 1545 | 6.1 | 639 | II | 1000 | FL | P001 IBC02
+313. | AMONIARSENAT | 1546 | 6.1 | 60 | II |  | AT | P002 IBC08
+314. | ANILIN | 1547 | 6.1 | 60 | II |  | AT | P001 IBC02
+315. | ANILIN HYDROCLORUA | 1548 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+316. | HỢP CHẤT ANTIMONY, VÔ CƠ, DẠNG RẮN, N.O.S. | 1549 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+317. | ANTIMONY LACTAT | 1550 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+318. | ANTIMONY KALI TARTRAT | 1551 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+319. | AXIT ARSENIC, DẠNG LỎNG | 1553 | 6.1 | 66 | I | 1000 | AT | P001
+320. | AXIT ARSENIC, DẠNG RẮN | 1554 | 6.1 | 60 | II |  | AT | P002 IBC08
+321. | BROMUA ARSENIC | 1555 | 6.1 | 60 | II |  | AT | P002 IBC08
+322. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1556 | 6.1 | 66 | I | 1000 | AT | P001
+323. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1556 | 6.1 | 60 | II |  | AT | P001 IBC02
+324. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1556 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+325. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1557 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+326. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1557 | 6.1 | 60 | II |  | AT | P002 IBC08
+327. | HỢP CHẤT ARSENIC, DẠNG LỎNG, N.O.S., vô cơ, bao gồm: Arsenat, n.o.s., Arsenit, n.o.s.; và Arsenic sunfua, n.o.s. | 1557 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+328. | ARSENIC | 1558 | 6.1 | 60 | II |  | AT | P002 IBC08
+329. | ARSENIC PENTOXIT | 1559 | 6.1 | 60 | II |  | AT | P002 IBC08
+330. | ARSENIC TRICLORUA | 1560 | 6.1 | 66 | I | 1000 | AT | P602
+331. | ARSENIC TRIOXIT | 1561 | 6.1 | 60 | II |  | AT | P002 IBC08
+332. | BỤI ARSENIC | 1562 | 6.1 | 60 | II |  | AT | P002 IBC08
+333. | HỢP CHẤT BARI, N.O.S. | 1564 | 6.1 | 60 | II |  | AT | P002 IBC08
+334. | HỢP CHẤT BARI, N.O.S. | 1564 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+335. | BARI XYANUA | 1565 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+336. | HỢP CHẤT BERYLI, N.O.S. | 1566 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+337. | HỢP CHẤT BERYLI, N.O.S. | 1566 | 6.1 | 60 | II |  | AT | P002 IBC08
+338. | BERYLI DẠNG BỘT | 1567 | 6.1 | 64 | II |  | AT | P002 IBC08
+339. | BROMAXETON | 1569 | 6.1 | 63 | II | 1000 | FL | P602
+340. | BRUXIN | 1570 | 6.1 | 66 | I | 1000 | AT | P602 IBC07
+341. | AXIT CACODYLIC | 1572 | 6.1 | 60 | II |  | AT | P002 IBC08
+342. | CANXI ARSENAT | 1573 | 6.1 | 60 | II |  | AT | P002 IBC08
+343. | HỖN HỢP CỦA CANXI ARSENAT VÀ CANXI ARSENIT, DẠNG RẮN | 1574 | 6.1 | 60 | II |  | AT | P002 IBC08
+344. | CANXI XYANUA | 1575 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+345. | CLODINITRO-BENZEN, DẠNG LỎNG | 1577 | 6.1 | 60 | II |  | AT | P001 IBC02
+346. | CLONITROBENZEN, DẠNG RẮN | 1578 | 6.1 | 60 | II |  | AT | P002 IBC08
+347. | 4-CLO-o-TOLUIDIN HYDROCLORUA, DẠNG RẮN | 1579 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+348. | CLOPICRIN | 1580 | 6.1 | 66 | I | 1000 | AT | P601
+349. | HỖN HỢP CỦA CLOPICRIN VÀ METYL BROMUA chứa hơn 2% clopicrin | 1581 | 2 | 26 |  |  | AT | P200
+350. | HỖN HỢP CỦA CLOPICRIN VÀ METYL CLORUA | 1582 | 2 | 26 |  |  | AT | P200
+351. | HỖN HỢP CLOPICRIN, N.O.S. | 1583 | 6.1 | 66 | I |  | AT | P602
+352. | HỖN HỢP CLOPICRIN, N.O.S. | 1583 | 6.1 | 60 | II |  | AT | P001 IBC02
+353. | HỖN HỢP CLOPICRIN, N.O.S. | 1583 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+354. | ĐỒNG AXETOARSENIT | 1585 | 6.1 | 60 | II |  | AT | P002 IBC08
+355. | ĐỒNG ARSENIT | 1586 | 6.1 | 60 | II |  | AT | P002 IBC08
+356. | ĐỒNG XYANUA | 1587 | 6.1 | 60 | II |  | AT | P002 IBC08
+357. | XYANUA, VÔ CƠ, DẠNG RẮN, N.O.S. | 1588 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+358. | XYANUA, VÔ CƠ, DẠNG RẮN, N.O.S. | 1588 | 6.1 | 60 | II |  | AT | P002 IBC08
+359. | XYANUA, VÔ CƠ, DẠNG RẮN, N.O.S. | 1588 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+360. | XYANOGEN CLORUA, ỔN ĐỊNH | 1589 | 2 |  |  | 25 |  | P200
+361. | DICLOANILIN, DẠNG LỎNG | 1590 | 6.1 | 60 | II |  | AT | P001 IBC02
+362. | o-DICLOBENZEN | 1591 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+363. | DICLOMETAN | 1593 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+364. | DIETYL SUNPHAT | 1594 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+365. | DIMETYL SUNPHAT | 1595 | 6.1 | 668 | I | 1000 | AT | P602
+366. | DINITROANILIN | 1596 | 6.1 | 60 | II |  | AT | P002 IBC08
+367. | DINITROBENZEN, DẠNG LỎNG | 1597 | 6.1 | 60 | II |  | AT | P001 IBC02
+368. | DINITROBENZEN, DẠNG LỎNG | 1597 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+369. | DINITRO-o-CRESOL | 1598 | 6.1 | 60 | II |  | AT | P002 IBC08
+370. | DUNG DỊCH DINITROPHENOL | 1599 | 6.1 | 60 | II |  | AT | P001 IBC02
+371. | DUNG DỊCH DINITROPHENOL | 1599 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+372. | DINITROTOLUEN, DẠNG CHẢY | 1600 | 6.1 | 60 | II |  | AT | 
+373. | CHẤT SÁT TRÙNG, DẠNG RẮN, ĐỘC, N.O.S. | 1601 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+374. | CHẤT SÁT TRÙNG, DẠNG RẮN, ĐỘC, N.O.S. | 1601 | 6.1 | 60 | II |  | AT | P002 IBC08
+375. | CHẤT SÁT TRÙNG, DẠNG RẮN, ĐỘC, N.O.S. | 1601 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+376. | THUỐC NHUỘM, DẠNG LỎNG, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG LỎNG, ĐỘC, N.O.S. | 1602 | 6.1 | 66 | I | 1000 | AT | P001
+377. | THUỐC NHUỘM, DẠNG LỎNG, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG LỎNG, ĐỘC, N.O.S. | 1602 | 6.1 | 60 | II |  | AT | P001 IBC02
+378. | THUỐC NHUỘM, DẠNG LỎNG, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG LỎNG, ĐỘC, N.O.S. | 1602 | 6.1 | 60 | 111 |  | AT | P001 IBC03 LP01 R001
+379. | ETYL BROMAXETAT | 1603 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+380. | ETYLEN DIBROMUA | 1605 | 6.1 | 66 | I | 1000 | AT | P602
+381. | SẮT (III) ARSENAT | 1606 | 6.1 | 60 | II |  | AT | P002 IBC08
+382. | SẮT (III) ARSENIT | 1607 | 6.1 | 60 | II |  | AT | P002 IBC08
+383. | SẮT (II) ARSENAT | 1608 | 6.1 | 60 | II |  | AT | P002 IBC08
+384. | HEXAETYL TETRAPHOTPHAT | 1611 | 6.1 | 60 | II |  | AT | P001 IBC02
+385. | HỖN HỢP CỦA HEXAETYL TETRAPHOTPHAT VÀ KHÍ NÉN | 1612 | 2 | 26 |  | 25 | AT | P200
+386. | AXIT HYDROXYANIC, DUNG DỊCH NƯỚC (HYDRO XYANUA, DUNG DỊCH NƯỚC) chứa ít hơn 20% hydro xyanua | 1613 | 6.1 | 663 | I | 1000 | FL | P601
+387. | HYDRO XYANUA, ỔN ĐỊNH, chứa ít hơn 3% nước và thấm hút trong vật liệu trơ xốp | 1614 | 6.1 |  | I | 1000 |  | P099 P601
+388. | CHÌ AXETAT | 1616 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+389. | CHÌ ARSENAT | 1617 | 6.1 | 60 | II |  | AT | P002 IBC08
+390. | CHÌ ARSENIT | 1618 | 6.1 | 60 | II |  | AT | P002 IBC08
+391. | CHÌ XYANUA | 1620 | 6.1 | 60 | II |  | AT | P002 IBC08
+392. | LONDON TÍA | 1621 | 6.1 | 60 | II |  | AT | P002 IBC08
+393. | MAGIE ARSENAT | 1622 | 6.1 | 60 | II |  | AT | P002 IBC08
+394. | THỦY NGÂN (II) ARSENAT | 1623 | 6.1 | 60 | II |  | AT | P002 IBC08
+395. | THỦY NGÂN (II) CLORUA | 1624 | 6.1 | 60 | II |  | AT | P002 IBC08
+396. | THỦY NGÂN (II) NITRAT | 1625 | 6.1 | 60 | II | 1000 | AT | P002 IBC08
+397. | THỦY NGÂN (II) KALI XYANUA | 1626 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+398. | THỦY NGÂN (I) NITRAT | 1627 | 6.1 | 60 | II | 1000 | AT | P002 IBC08
+399. | THỦY NGÂN AXETAT | 1629 | 6.1 | 60 | II |  | AT | P002 IBC08
+400. | THỦY NGÂN AMONI CLORUA | 1630 | 6.1 | 60 | II |  | AT | P002 IBC08
+401. | THỦY NGÂN BENZOAT | 1631 | 6.1 | 60 | II |  | AT | P002 IBC08
+402. | THỦY NGÂN BROMUA | 1634 | 6.1 | 60 | II |  | AT | P002 IBC08
+403. | THỦY NGÂN XYANUA | 1636 | 6.1 | 60 | II |  | AT | P002 IBC08
+404. | THỦY NGÂN GLUCONAT | 1637 | 6.1 | 60 | II |  | AT | P002 IBC08
+405. | THỦY NGÂN IODUA | 1638 | 6.1 | 60 | II |  | AT | P002 IBC08
+406. | THỦY NGÂN NUCLEAT | 1639 | 6.1 | 60 | II |  | AT | P002 IBC08
+407. | THỦY NGÂN OLEAT | 1640 | 6.1 | 60 | II |  | AT | P002 IBC08
+408. | THỦY NGÂN OXIT | 1641 | 6.1 | 60 | II |  | AT | P002 IBC08
+409. | THỦY NGÂN OXYXYANUA, CHẤT GÂY TÊ | 1642 | 6.1 | 60 | II |  | AT | P002 IBC08
+410. | THỦY NGÂN KALI IODUA | 1643 | 6.1 | 60 | II |  | AT | P002 IBC08
+411. | THỦY NGÂN SALICYLAT | 1644 | 6.1 | 60 | II |  | AT | P002 IBC08
+412. | THỦY NGÂN SUNPHAT | 1645 | 6.1 | 60 | II |  | AT | P002 IBC08
+413. | THỦY NGÂN THIOXYANAT | 1646 | 6.1 | 60 | II |  | AT | P002 IBC08
+414. | HỖN HỢP CỦA METYL BROMUA VÀ ETYLEN DIBROMUA, DẠNG LỎNG | 1647 | 6.1 | 66 | I | 1000 | AT | P602
+415. | AXETONITRIL | 1648 | 3 | 33 | II |  | FL | P001 IBC02 R001
+416. | HỖN HỢP PHỤ GIA CHỐNG KÍCH NỔ NHIÊN LIỆU ĐỘNG CƠ | 1649 | 6.1 | 66 | I | 1000 | AT | P602
+417. | beta-NAPHTHYLAMIN, DẠNG RẮN | 1650 | 6.1 | 60 | II |  | AT | P002 IBC08
+418. | NAPHTHYLTHIOUREA | 1651 | 6.1 | 60 | II |  | AT | P002 IBC08
+419. | NAPHTHYLUREA | 1652 | 6.1 | 60 | II |  | AT | P002 IBC08
+420. | NIKEN XYANUA | 1653 | 6.1 | 60 | II |  | AT | P002 IBC08
+421. | NICOTIN | 1654 | 6.1 | 60 | II |  | AT | P001 IBC02
+422. | NICOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. hoặc NICOTIN ĐIỀU CHẾ, DẠNG RẮN, N.O.S. | 1655 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+423. | NICOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. hoặc NICOTIN ĐIỀU CHẾ, DẠNG RẮN, N.O.S. | 1655 | 6.1 | 60 | II |  | AT | P002 IBC08
+424. | NICOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. hoặc NICOTIN ĐIỀU CHẾ, DẠNG RẮN, N.O.S. | 1655 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+425. | NICOTIN HYDROCLORUA, DẠNG LỎNG hoặc DUNG DỊCH | 1656 | 6.1 | 60 | II |  | AT | P001 IBC02
+426. | NICOTIN HYDROCLORUA, DẠNG LỎNG hoặc DUNG DỊCH | 1656 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+427. | NICOTIN SALICYLAT | 1657 | 6.1 | 60 | II |  | AT | P002 IBC08
+428. | NICOTIN SUNPHAT, DUNG DỊCH | 1658 | 6.1 | 60 | II |  | AT | P001 IBC02
+429. | NICOTIN SUNPHAT, DUNG DỊCH | 1658 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+430. | NICOTIN TARTRAT | 1659 | 6.1 | 60 | II |  | AT | P002 IBC08
+431. | ÔXIT NITRIC, DẠNG NÉN | 1660 | 2 |  |  | 25 |  | P200
+432. | NITROANILIN (o-, m-, p-) | 1661 | 6.1 | 60 | II |  | AT | P002 IBC08
+433. | NITROBENZEN | 1662 | 6.1 | 60 | II |  | AT | P001 IBC02
+434. | NITROPHENOL (o-, m-, p-) | 1663 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+435. | NITROTOLUEN, DẠNG LỎNG | 1664 | 6.1 | 60 | II |  | AT | P001 IBC02
+436. | NITROXYLEN, DẠNG LỎNG | 1665 | 6.1 | 60 | II |  | AT | P001 IBC02
+437. | PENTACLOETAN | 1669 | 6.1 | 60 | II |  | AT | P001 IBC02
+438. | PERCLOMETYL MERCAPTAN | 1670 | 6.1 | 66 | I | 1000 | AT | P602
+439. | PHENOL, DẠNG RẮN | 1671 | 6.1 | 60 | II | 1000 | AT | P002 IBC08
+440. | PHENYLCARBYLAMIN CLORUA | 1672 | 6.1 | 66 | I | 1000 | AT | P602
+441. | PHENYLENEDIAMIN (o-, m-, p-) | 1673 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+442. | THỦY NGÂN PHENYL AXETAT | 1674 | 6.1 | 60 | II |  | AT | P002 IBC08
+443. | KALI ARSENAT | 1677 | 6.1 | 60 | II |  | AT | P002 IBC08
+444. | KALI ARSENIT | 1678 | 6.1 | 60 | II |  | AT | P002 IBC08
+445. | KALI CUPROXYANUA | 1679 | 6.1 | 60 | II |  | AT | P002 IBC08
+446. | KALI XYANUA, DẠNG RẮN | 1680 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+447. | BẠC ARSENIT | 1683 | 6.1 | 60 | II |  | AT | P002 IBC08
+448. | BẠC XYANUA | 1684 | 6.1 | 60 | II |  | AT | P002 IBC08
+449. | NATRI ARSENAT | 1685 | 6.1 | 60 | II |  | AT | P002 IBC08
+450. | NATRI ARSENIT, DUNG DỊCH NƯỚC | 1686 | 6.1 | 60 | II |  | AT | P001 IBC02
+451. | NATRI ARSENIT, DUNG DỊCH NƯỚC | 1686 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+452. | NATRI AZIT | 1687 | 6.1 |  | II | 1000 |  | P002 IBC08
+453. | NATRI CACODYLAT | 1688 | 6.1 | 60 | II |  | AT | P002 IBC08
+454. | NATRI XYANUA, DẠNG RẮN | 1689 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+455. | NATRI FLORIT, DẠNG RẮN | 1690 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+456. | STRONTIARSENIT | 1691 | 6.1 | 60 | II |  | AT | P002 IBC08
+457. | STRYCHNIN hoặc MUỐI STRYCHNIN | 1692 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+458. | CHẤT KHÍ GÂY CHẢY NƯỚC MẮT, DẠNG LỎNG, N.O.S. | 1693 | 6.1 | 66 | I | 1000 | AT | P001
+459. | CHẤT KHÍ GÂY CHẢY NƯỚC MẮT, DẠNG LỎNG, N.O.S. | 1693 | 6.1 | 60 | II |  | AT | P001 IBC02
+460. | BROMBENZYL XYANUA, DẠNG LỎNG | 1694 | 6.1 | 66 | I | 1000 | AT | P001
+461. | CLOAXETON, ỔN ĐỊNH | 1695 | 6.1 | 663 | I | 1000 | FL | P602
+462. | CLOAXETOPHENON, DẠNG RẮN | 1697 | 6.1 | 60 | II |  | AT | P002 IBC08
+463. | DIPHENYLAMIN CLOARSIN | 1698 | 6.1 | 66 | I | 1000 | AT | P002
+464. | DIPHENYLCLO-ARSIN, DẠNG LỎNG | 1699 | 6.1 | 66 | I | 1000 | AT | P001
+465. | NẾN SINH RA KHÍ GÂY CHẢY NƯỚC MẮT | 1700 | 6.1 |  |  |  | AT | P600
+466. | XYLYL BROMUA, DẠNG LỎNG | 1701 | 6.1 | 60 | II |  | AT | P001 IBC02
+467. | 1,1,2,2-TETRACLOETAN | 1702 | 6.1 | 60 | II |  | AT | P001 IBC02
+468. | TETRAETYL DITHIOPYROPHOTPHAT | 1704 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+469. | TALI HỢP CHẤT, N.O.S. | 1707 | 6.1 | 60 | II |  | AT | P002 IBC08
+470. | TOLUIDIN, DẠNG LỎNG | 1708 | 6.1 | 60 | II |  | AT | P001 IBC02
+471. | 2,4-TOLUYLENEDIAMIN, DẠNG RẮN | 1709 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+472. | TRICLOETYLEN | 1710 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+473. | XYLIDIN, DẠNG LỎNG | 1711 | 6.1 | 60 | II |  | AT | P001 IBC02
+474. | KẼM ARSENAT, KẼM ARSENIT hoặc HỖN HỢP KẼM ARSENAT và KẼM ARSENIT | 1712 | 6.1 | 60 | II |  | AT | P002 IBC08
+475. | KẼM XYANUA | 1713 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+476. | ALLYL CLOFORMAT | 1722 | 6.1 | 668 | I | 1000 | FL | P001
+477. | ALLYL IODUA | 1723 | 3 | 338 | II | 3000 | FL | P001 IBC02
+478. | BENZYL BROMUA | 1737 | 6.1 | 68 | II | 3000 | AT | P001 IBC02
+479. | BENZYL CLORUA | 1738 | 6.1 | 68 | II | 1000 | AT | P001 IBC02
+480. | BORON TRICLORUA | 1741 | 2 | 268 |  | 500 | AT | P002
+481. | CLO TRIFLORIT | 1749 | 2 | 265 |  | 25 | AT | P200
+482. | DUNG DỊCH AXIT CLOAXETIC | 1750 | 6.1 | 68 | II | 1000 | AT | P001 IBC02
+483. | AXIT CLOAXETIC, DẠNG RẮN | 1751 | 6.1 | 68 | II | 1000 | AT | P002 IBC08
+484. | CLOAXETYL CLORUA | 1752 | 6.1 | 668 | I | 1000 | AT | P602
+485. | PHOTPHO TRICLORUA | 1809 | 6.1 | 668 | I | 1000 | AT | P602
+486. | PHOTPHO OXYCLORUA | 1810 | 6.1 | X668 | I | 1000 | AT | P602
+487. | KALI FLORIT, DẠNG RẮN | 1812 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+488. | PROPIONYL CLORUA | 1815 | 3 | 338 | II |  | FL | P001 IBC02
+489. | SULPHURYL CLORUA | 1834 | 6.1 | X668 | I | 3000 | AT | P602
+490. | TITAN TETRACLORUA | 1838 | 6.1 | X668 | I |  | AT | P602
+491. | AMONI DINITRO-o- CRESOLAT, DẠNG RẮN | 1843 | 6.1 | 60 | II |  | AT | P002 IBC08
+492. | CACBON TETRACLORUA | 1846 | 6.1 | 60 | II |  | AT | P001 IBC02
+493. | HEXAFLOPROPYLEN (MÔI CHẤT LẠNH R 1216) | 1858 | 2 | 20 |  |  | AT | P200
+494. | SILICON TETRAFLORIT | 1859 | 2 | 268 |  | 25 | AT | P200
+495. | VINYL FLORIT, ỔN ĐỊNH | 1860 | 2 | 239 |  | 3000 | FL | P200
+496. | ETYL CROTONAT | 1862 | 3 | 33 | II |  | FL | P001 IBC02 R001
+497. | NHIÊN LIỆU DÙNG TRONG ĐỘNG CƠ TURBIN HÀNG KHÔNG | 1863 | 3 | 33 | I |  | FL | P001
+498. | NHIÊN LIỆU DÙNG TRONG ĐỘNG CƠ TURBIN HÀNG KHÔNG (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1863 | 3 | 33 | II |  | FL | P001
+499. | NHIÊN LIỆU DÙNG TRONG ĐỘNG CƠ TURBIN HÀNG KHÔNG (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1863 | 3 | 33 | II |  | FL | P001 IBC02 R001
+500. | NHIÊN LIỆU DÙNG TRONG ĐỘNG CƠ TURBIN HÀNG KHÔNG | 1863 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+501. | n-PROPYL NITRAT | 1865 | 3 |  | II |  |  | P001 IBC02 R001
+502. | DUNG DỊCH NHỰA THÔNG, dễ cháy | 1866 | 3 | 33 | I |  | FL | P001
+503. | DUNG DỊCH NHỰA THÔNG, dễ cháy (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1866 | 3 | 33 | II |  | FL | P001
+504. | DUNG DỊCH NHỰA THÔNG, dễ cháy (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1866 | 3 | 33 | II |  | FL | P001 IBC02 R001
+505. | DUNG DỊCH NHỰA THÔNG, dễ cháy | 1866 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+506. | DUNG DỊCH NHỰA THÔNG, dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1866 | 3 |  | III |  |  | P001 R001
+507. | DUNG DỊCH NHỰA THÔNG, dễ cháy (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1866 | 3 |  | III |  |  | P001 IBC02 R001
+508. | BARI OXIT | 1884 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+509. | BENZIDIN | 1885 | 6.1 | 60 | II |  | AT | P002 IBC08
+510. | BENZYLIDEN CLORUA | 1886 | 6.1 | 60 | II |  | AT | P001 IBC02
+511. | BROMCLOMETAN | 1887 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+512. | CLOFORM | 1888 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+513. | XYANOGEN BROMUA | 1889 | 6.1 | 668 | I |  | AT | P002
+514. | ETYL BROMUA | 1891 | 6.1 | 60 | II |  | AT | P001 IBC02
+515. | ETYLDICLOARSIN | 1892 | 6.1 | 66 | I | 1000 | AT | P602
+516. | THỦY NGÂN PHENYLYDROXIT | 1894 | 6.1 | 60 | II |  | AT | P602 IBC08
+517. | THỦY NGÂN PHENYLNITRAT | 1895 | 6.1 | 60 | II |  | AT | P602 IBC08
+518. | TETRACLOETYLEN | 1897 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+519. | DIBORAN | 1911 | 2 |  |  | 50 |  | P200
+520. | HỖN HỢP METYL CLORUA VÀ METYLEN CLORUA | 1912 | 2 | 23 |  | 3000 | FL | P200
+521. | NEON, CHẤT LỎNG LÀM LẠNH | 1913 | 2 | 22 |  |  | AT | P203
+522. | BUTUL PROPIONAT | 1914 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+523. | CYCLOHEXANON | 1915 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+524. | 2,2'-DICLODIETYL ETE | 1916 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+525. | ETYL ACRYLAT, ỔN ĐỊNH | 1917 | 3 | 339 | II |  | FL | P001 IBC02 R001
+526. | ISOPROPYLBENZEN | 1918 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+527. | METYL ACRYLAT, ỔN ĐỊNH | 1919 | 3 | 339 | II |  | FL | P001 IBC02 R001
+528. | NONAN | 1920 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+529. | PROPYLENIMIN, ỔN ĐỊNH | 1921 | 3 | 336 | I | 1000 | FL | P001
+530. | PYROLIDIN | 1922 | 3 | 338 | II |  | FL | P001 IBC02
+531. | XYANUA DUNG DỊCH, N.O.S. | 1935 | 6.1 | 66 | I | 1000 | AT | P001
+532. | XYANUA DUNG DỊCH, N.O.S. | 1935 | 6.1 | 60 | II |  | AT | P001 IBC02
+533. | XYANUA DUNG DỊCH, N.O.S. | 1935 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+534. | SOL KHÍ, chất làm ngạt | 1950 | 2 |  |  |  |  | P207 LP200
+535. | SOL KHÍ, ăn mòn | 1950 | 2 |  |  |  |  | P207 LP200
+536. | SOL KHÍ, ăn mòn, ô xy hóa | 1950 | 2 |  |  |  |  | P207 LP200
+537. | SOL KHÍ, dễ cháy | 1950 | 2 |  |  |  |  | P207 LP200
+538. | SOL KHÍ, dễ cháy, ăn mòn | 1950 | 2 |  |  |  |  | P207 LP200
+539. | SOL KHÍ, ô xy hóa | 1950 | 2 |  |  |  |  | P207 LP200
+540. | SOL KHÍ, độc | 1950 | 2 |  |  |  |  | P207 LP200
+541. | SOL KHÍ, độc, ăn mòn | 1950 | 2 |  |  |  |  | P207 LP200
+542. | SOL KHÍ, độc, dễ cháy | 1950 | 2 |  |  |  |  | P207 LP200
+543. | SOL KHÍ, độc, dễ cháy, ăn mòn | 1950 | 2 |  |  |  |  | P207 LP200
+544. | SOL KHÍ, độc, ô xy hóa | 1950 | 2 |  |  |  |  | P207 LP200
+545. | SOL KHÍ, độc, ô xy hóa, ăn mòn | 1950 | 2 |  |  |  |  | P207 LP200
+546. | ARGON, CHẤT LỎNG LÀM LẠNH | 1951 | 2 | 22 |  |  | AT | P203
+547. | HỖN HỢP OXIT ETYLEN VÀ CACBON DIOXIT chứa ít hơn 9% oxit etylen | 1952 | 2 | 20 |  |  | AT | P200
+548. | KHÍ DẠNG NÉN, ĐỘC, DỄ CHÁY, N.O.S. | 1953 | 2 | 263 |  | 50 | FL | P200
+549. | KHÍ DẠNG NÉN, DỄ CHÁY, N.O.S. | 1954 | 2 | 23 |  | 3000 | FL | P200
+550. | KHÍ DẠNG NÉN, ĐỘC, N.O.S. | 1955 | 2 | 26 |  | 50 | AT | P200
+551. | KHÍ DẠNG NÉN, N.O.S. | 1956 | 2 | 20 |  |  | AT | P200
+552. | DEUTERI, DẠNG NÉN | 1957 | 2 | 23 |  | 3000 | FL | P200
+553. | 1,2-DICLO-1,1,2,2-TETRAFLOETAN (MÔI CHẤT LẠNH R 114) | 1958 | 2 | 20 |  |  | AT | P200
+554. | 1,1-DIFLOETYLEN (MÔI CHẤT LẠNH R 1132a) | 1959 | 2 | 239 |  | 3000 | FL | P200
+555. | ETAN, CHẤT LỎNG LÀM LẠNH | 1961 | 2 | 223 |  | 3000 | FL | P203
+556. | ETYLEN | 1962 | 2 | 23 |  | 3000 | FL | P200
+557. | HELI, CHẤT LỎNG LÀM LẠNH | 1963 | 2 | 22 |  |  | AT | P203
+558. | HỖN HỢP KHÍ HYDROCACBON, DẠNG NÉN, N.O.S. | 1964 | 2 | 23 |  | 3000 | FL | P200
+559. | HỖN HỢP KHÍ HYDROCACBON, HÓA LỎNG, N.O.S. ví dụ các hỗn hợp A, A01, A02, A0, A1, B1, B2, B hoặc C | 1965 | 2 | 23 |  | 3000 | FL | P200
+560. | HYDRO, CHẤT LỎNG LÀM LẠNH | 1966 | 2 | 223 |  | 3000 | FL | P203
+561. | ISOBUTAN | 1969 | 2 | 23 |  | 3000 | FL | P200
+562. | KRYPTON, CHẤT LỎNG LÀM LẠNH | 1970 | 2 | 22 |  |  | AT | P203
+563. | METAN, DẠNG NÉN hoặc KHÍ TỰ NHIÊN, DẠNG NÉN chứa nồng độ metan cao | 1971 | 2 | 23 |  | 3000 | FL | P200
+564. | METAN, CHẤT LỎNG LÀM LẠNH hoặc KHÍ TỰ NHIÊN, CHẤT LỎNG LÀM LẠNH chứa nồng độ metan cao | 1972 | 2 | 223 |  | 3000 | FL | P203
+565. | CLODIFLO-METAN VÀ CLOPENTAFLO-ETAN HỖN HỢP có nhiệt độ sôi cố định, với khoảng 49% clodiflometan (MÔI CHẤT LẠNH R 502) | 1973 | 2 | 20 |  |  | AT | P200
+566. | CLODIFLOBROM-METAN (MÔI CHẤT LẠNH R 12B1) | 1974 | 2 | 20 |  |  | AT | P200
+567. | HỖN HỢP ÔXIT NITRIC VÀ DINITƠ TETROXIT (HỖN HỢP ÔXIT NITRIC VÀ NITƠ DIOXIT) | 1975 | 2 |  |  | 25 |  | P200
+568. | OCTAFLOCYCLO-BUTAN (MÔI CHẤT LẠNH RC 318) | 1976 | 2 | 20 |  |  | AT | P200
+569. | NITƠ, CHẤT LỎNG LÀM LẠNH | 1977 | 2 | 22 |  |  | AT | P203
+570. | PROPAN | 1978 | 2 | 23 |  | 3000 | FL | P200
+571. | TETRAFLOMETAN (MÔI CHẤT LẠNH R 14) | 1982 | 2 | 20 |  |  | AT | P200
+572. | 1-CLO-2,2,2-TRIFLOETAN (MÔI CHẤT LẠNH R 133a) | 1983 | 2 | 20 |  |  | AT | P200
+573. | TRIFLOMETAN (MÔI CHẤT LẠNH R 23) | 1984 | 2 | 20 |  |  | AT | P200
+574. | RƯỢU CỒN, DỄ CHÁY, ĐỘC, N.O.S. | 1986 | 3 | 336 | I | 1000 | FL | P001
+575. | RƯỢU CỒN, DỄ CHÁY, ĐỘC, N.O.S. | 1986 | 3 | 336 | II |  | FL | P001 IBC02
+576. | RƯỢU CỒN, DỄ CHÁY, ĐỘC, N.O.S. | 1986 | 3 | 36 | III |  | FL | P001 IBC03 R001
+577. | RƯỢU CỒN, N.O.S. (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1987 | 3 | 33 | II |  | FL | P001
+578. | RƯỢU CỒN, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1987 | 3 | 33 | II |  | FL | P001 IBC02 R001
+579. | RƯỢU CỒN, N.O.S. | 1987 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+580. | ALDEHIT, DỄ CHÁY, ĐỘC, N.O.S. | 1988 | 3 | 336 | I | 1000 | FL | P001
+581. | ALDEHIT, DỄ CHÁY, ĐỘC, N.O.S. | 1988 | 3 | 336 | II |  | FL | P001 IBC02
+582. | ALDEHIT, DỄ CHÁY, ĐỘC, N.O.S. | 1988 | 3 | 36 | III |  | FL | P001 IBC03 R001
+583. | ALDEHIT, N.O.S. | 1989 | 3 | 33 | I |  | FL | P001
+584. | ALDEHIT, N.O.S. (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1989 | 3 | 33 | II |  | FL | P001
+585. | ALDEHIT, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1989 | 3 | 33 | II |  | FL | P001 IBC02 R001
+586. | ALDEHIT, N.O.S. | 1989 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+587. | CLOPREN, ỔN ĐỊNH | 1991 | 3 | 336 | I | 1000 | FL | P001
+588. | CHẤT LỎNG DỄ CHÁY, ĐỘC, N.O.S. | 1992 | 3 | 336 | I | 1000 | FL | P001
+589. | CHẤT LỎNG DỄ CHÁY, ĐỘC, N.O.S. | 1992 | 3 | 336 | II |  | FL | P001 IBC02
+590. | CHẤT LỎNG DỄ CHÁY, ĐỘC, N.O.S. | 1992 | 3 | 36 | III |  | FL | P001 IBC03 R001
+591. | CHẤT LỎNG DỄ CHÁY, N.O.S. | 1993 | 3 | 33 | I |  | FL | P001
+592. | CHẤT LỎNG DỄ CHÁY, N.O.S. (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1993 | 3 | 33 | II |  | FL | P001
+593. | CHẤT LỎNG DỄ CHÁY, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa | 1993 | 3 | 33 | II |  | FL | P001 IBC02 R001
+594. | CHẤT LỎNG DỄ CHÁY, N.O.S. | 1993 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+595. | CHẤT LỎNG DỄ CHÁY, N.O.S. (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1993 | 3 |  | III |  |  | P001 R001
+596. | CHẤT LỎNG DỄ CHÁY, N.O.S. (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1993 | 3 | 33 | III |  |  | P001 IBC02 R001
+597. | SẮT PENTACACBONYL | 1994 | 6.1 | 663 | I | 1000 | FL | P601
+598. | NHỰA ĐƯỜNG DẠNG LỎNG, kể cả dầu rải đường, và bitumen bị biến loãng (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1999 | 3 | 33 | II |  | FL | P001
+599. | NHỰA ĐƯỜNG DẠNG LỎNG, kể cả dầu rải đường, và bitumen bị biến loãng (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1999 | 3 | 33 | II |  | FL | P001 IBC02 R001
+600. | NHỰA ĐƯỜNG DẠNG LỎNG, kể cả dầu rải đường, và bitumen bị biến loãng | 1999 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+601. | NHỰA ĐƯỜNG DẠNG LỎNG, kể cả dầu rải đường, và bitumen bị biến loãng (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 1999 | 3 |  | III |  |  | P001 R001
+602. | NHỰA ĐƯỜNG DẠNG LỎNG, kể cả dầu rải đường, và bitumen bị biến loãng (có điểm chớp cháy dưới 23 °C và độ nhớt theo mục 2.2.3.1.4) (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 1999 | 3 |  | III |  |  | P001 IBC02 R001
+603. | CLOANILIN, DẠNG RẮN | 2018 | 6.1 | 60 | II |  | AT | P002 IBC08
+604. | CLOANILIN, DẠNG LỎNG | 2019 | 6.1 | 60 | II |  | AT | P001 IBC02
+605. | CLOPHENON, DẠNG RẮN | 2020 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+606. | CLOPHENON, DẠNG LỎNG | 2021 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+607. | AXIT CRESYLIC | 2022 | 6.1 | 68 | II |  | AT | P001 IBC02
+608. | EPICLOHYDRIN | 2023 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+609. | THỦY NGÂN HỢP CHẤT, DẠNG LỎNG, N.O.S. | 2024 | 6.1 | 66 | I | 1000 | AT | P001
+610. | THỦY NGÂN HỢP CHẤT, DẠNG LỎNG, N.O.S. | 2024 | 6.1 | 60 | II |  | AT | P001 IBC02
+611. | THỦY NGÂN HỢP CHẤT, DẠNG LỎNG, N.O.S. | 2024 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+612. | THỦY NGÂN HỢP CHẤT, DẠNG RẮN, N.O.S. | 2025 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+613. | THỦY NGÂN HỢP CHẤT, DẠNG RẮN, N.O.S. | 2025 | 6.1 | 60 | II |  | AT | P002 IBC08
+614. | THỦY NGÂN HỢP CHẤT, DẠNG RẮN, N.O.S. | 2025 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+615. | HỢP CHẤT THỦY NGÂN PHENYL, N.O.S. | 2026 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+616. | HỢP CHẤT THỦY NGÂN PHENYL, N.O.S. | 2026 | 6.1 | 60 | II |  | AT | P002 IBC08
+617. | HỢP CHẤT THỦY NGÂN PHENYL, N.O.S. | 2026 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+618. | NATRI ARSENIT, DẠNG RẮN | 2027 | 6.1 | 60 | II |  | AT | P002 IBC08
+619. | HỖN HỢP HYDRO VÀ METAN, DẠNG NÉN | 2034 | 2 | 23 |  | 3000 | FL | P200
+620. | 1,1,1 –TRIFLOETAN
+(MÔI CHẤT LẠNH R 143a) | 2035 | 2 | 23 |  | 3000 | FL | P200
+621. | XENON | 2036 | 2 | 20 |  |  | AT | P200
+622. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+623. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+624. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+625. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+626. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+627. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+628. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+629. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+630. | BÌNH, LOẠI NHỎ CHỨA KHÍ (BÌNH GA) không có thiết bị xả khí, không nạp lại được | 2037 | 2 |  |  |  |  | P003
+631. | DINITƠ TOLUEN, DẠNG LỎNG | 2038 | 6.1 | 60 | II |  | AT | P001 IBC02
+632. | 2,2-DIMETYLPROPAN | 2044 | 2 | 23 |  | 3000 | FL | P200
+633. | ISOBUTYRALDEHIT (ISOBUTYL ALDEHIT) | 2045 | 3 | 33 | II |  | FL | P001 IBC02 R001
+634. | XYMEN | 2046 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+635. | DICLOPROPEN | 2047 | 3 | 33 | II |  | FL | P001 IBC02 R001
+636. | DICLOPROPEN | 2047 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+637. | DICYCLOPENTADIEN | 2048 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+638. | DIETYLBENZEN | 2049 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+639. | DIISOBUTYLEN, ISOMERIC HỢP CHẤT | 2050 | 3 | 33 | II |  | FL | P001 IBC02 R001
+640. | DIPENTEN | 2052 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+641. | METYL ISOBUTYL CARBINOL | 2053 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+642. | STYREN MONOM, ỔN ĐỊNH | 2055 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+643. | TETRAHYDROFURAN | 2056 | 3 | 33 | II |  | FL | P001 IBC02 R001
+644. | TRIPROPYLEN | 2057 | 3 | 33 | II |  | FL | P001 IBC02 R001
+645. | TRIPROPYLEN | 2057 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+646. | VALERALDEHIT | 2058 | 3 | 33 | II |  | FL | P001 IBC02 R001
+647. | NITƠ XENLULO DUNG DỊCH, DỄ CHÁY, chứa ít hơn 12,6% nitơ theo khối lượng khô, và nhỏ hơn 55% nitơ xenlulo | 2059 | 3 | 33 | I |  | FL | P001
+648. | NITƠ XENLULO DUNG DỊCH, DỄ CHÁY, chứa ít hơn 12,6% nitơ, theo khối lượng khô, và nhỏ hơn 55% nitơ xenlulo (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 2059 | 3 | 33 | II |  | FL | P001 IBC02
+649. | NITƠ XENLULO DUNG DỊCH, DỄ CHÁY, chứa ít hơn 12,6% nitơ theo khối lượng khô, và nhỏ hơn 55% nitơ xenlulo (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 2059 | 3 | 33 | II |  | FL | P001 IBC02 R001
+650. | NITƠ XENLULO DUNG DỊCH, DỄ CHÁY, chứa ít hơn 12,6% nitơ theo khối lượng khô, và nhỏ hơn 55% nitơ xenlulo | 2059 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+651. | DUNG DỊCH AMONIAC, khối lượng riêng tương đối nhỏ hơn 0,880 ở 15°C trong nước, chứa từ 35% đến 50% amoniac | 2073 | 2 | 20 |  | 3000 | AT | P200
+652. | ACRYLAMIT, DẠNG RẮN | 2074 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+653. | CHLORAL, KHAN, HẠN CHẾ | 2075 | 6.1 | 69 | II |  | AT | P001 IBC02
+654. | CRESOL, DẠNG LỎNG | 2076 | 6.1 | 68 | II |  | AT | P001 IBC02
+655. | alpha-NAPHTHYLAMIN | 2077 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+656. | TOLUEN DIISOXYANAT | 2078 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+657. | CACBON DIOXIT, CHẤT LỎNG LÀM LẠNH | 2187 | 2 | 22 |  |  | AT | P203
+658. | ARSIN | 2188 | 2 |  |  | 25 |  | P200
+659. | DICLOSILAN | 2189 | 2 | 263 |  | 50 | FL | P200
+660. | Ô XY DIFLORIT, DẠNG NÉN | 2190 | 2 |  |  | 25 |  | P200
+661. | SULPHURYL FLORIT | 2191 | 2 | 26 |  | 500 | AT | P200
+662. | GERMANE | 2192 | 2 | 263 |  | 25 | FL | P200
+663. | HEXAFLOETAN (MÔI CHẤT LẠNH R 116) | 2193 | 2 | 20 |  |  | AT | P200
+664. | SELEN HEXAFLORIT | 2194 | 2 |  |  | 25 |  | P200
+665. | TELU HEXAFLORIT | 2195 | 2 |  |  | 25 |  | P200
+666. | VONFRAM HEXAFLORIT | 2196 | 2 |  |  | 25 |  | P200
+667. | HYDRO IODUA, KHAN | 2197 | 2 | 268 |  | 500 | AT | P200
+668. | PHOTPHO PENTAFLORIT | 2198 | 2 |  |  | 25 |  | P200
+669. | PHOTPHIN | 2199 | 2 |  |  | 25 |  | P200
+670. | PROPADIEN, ỔN ĐỊNH | 2200 | 2 | 239 |  | 3000 | FL | P200
+671. | DINITƠ MONOXIT, CHẤT LỎNG LÀM LẠNH | 2201 | 2 | 225 |  | 3000 | AT | P203
+672. | HYDRO SELENUA, KHAN | 2202 | 2 |  |  | 25 |  | P200
+673. | SILAN | 2203 | 2 | 23 |  | 25 | FL | P200
+674. | CACBONYL SUNFUA | 2204 | 2 | 263 |  | 500 | FL | P200
+675. | ADIPONITRIL | 2205 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+676. | ISOXYANAT, ĐỘC, N.O.S. hoặc ISOXYANAT DUNG DỊCH, ĐỘC, N.O.S. | 2206 | 6.1 | 60 | II | 3000 | AT | P001 IBC02
+677. | ISOXYANAT, ĐỘC, N.O.S. hoặc ISOXYANAT DUNG DỊCH, ĐỘC, N.O.S. | 2206 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+678. | ALLYL GLYCIDYL ETE | 2219 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+679. | ANISOL | 2222 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+680. | BENZONITRIL | 2224 | 6.1 | 60 | II |  | AT | P001 IBC02
+681. | n-BUTYL METACRYLAT, ỔN ĐỊNH | 2227 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+682. | 2-CLOETHANAL | 2232 | 6.1 | 66 | I | 1000 | AT | P602
+683. | CLOANISIDIN | 2233 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+684. | CLOBENZOTRI-FLORIT | 2234 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+685. | CLOBENZYL CLORUA, DẠNG LỎNG | 2235 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+686. | 3-CLO-4-METYLPHENYL ISOXYANAT, DẠNG LỎNG | 2236 | 6.1 | 60 | II |  | AT | P001 IBC02
+687. | CLONITROANILIN | 2237 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+688. | CLOTOLUEN | 2238 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+689. | CLOTOLUIDIN, DẠNG RẮN | 2239 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+690. | CYCLOHEPTAN | 2241 | 3 | 33 | II |  | FL | P001 IBC02 R001
+691. | CYCLOHEPTEN | 2242 | 3 | 33 | II |  | FL | P001 IBC02 R001
+692. | CYCLOHEXYL AXETAT | 2243 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+693. | CYCLOPENTANOL | 2244 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+694. | CYCLOPENTANON | 2245 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+695. | CYCLOPENTEN | 2246 | 3 | 33 | II |  | FL | P001 IBC02
+696. | n-DECAN | 2247 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+697. | DICLOPHENYL ISOXYANAT | 2250 | 6.1 | 60 | II |  | AT | P002 IBC08
+698. | BICYCLO[2.2.1]HEPTA-2,5-DIEN, ỔN ĐỊNH (2,5-NORBORNADIEN, ỔN ĐỊNH) | 2251 | 3 | 339 | II |  | FL | P001 IBC02 R001
+699. | 1,2-DIMETHOXYETAN | 2252 | 3 | 33 | II |  | FL | P001 IBC02 R001
+700. | N,N-DIMETYLANILIN | 2253 | 6.1 | 60 | II |  | AT | P001 IBC02
+701. | CYCLOHEXEN | 2256 | 3 | 33 | II |  | FL | P001 IBC02 R001
+702. | TRIPROPYLAMIN | 2260 | 3 | 38 | III |  | FL | P001 IBC03 R001
+703. | XYLENOL, DẠNG RẮN | 2261 | 6.1 | 60 | II |  | AT | P002 IBC08
+704. | DIMETYL-CYCLOHEXAN | 2263 | 3 | 33 | II |  | FL | P001 IBC02 R001
+705. | N,N-DIMETYL-FORMAMIT | 2265 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+706. | DIMETYL-N-PROPYLAMIN | 2266 | 3 | 338 | II |  | FL | P001 IBC02
+707. | DIMETYL THIOPHOSPHORYL CLORUA | 2267 | 6.1 | 68 | II |  | AT | P001 IBC02
+708. | ETYLAMIN, DUNG DỊCH NƯỚC chứa từ 50% đến 70% etylamin | 2270 | 3 | 338 | II |  | FL | P001 IBC02
+709. | ETYL AMYL KETON | 2271 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+710. | N-ETYLANILIN | 2272 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+711. | 2-ETYLANILIN | 2273 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+712. | N-ETYL-N-BENZYLANILIN | 2274 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+713. | 2-ETYLBUTANOL | 2275 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+714. | 2-ETYLHEXYLAMIN | 2276 | 3 | 38 | III |  | FL | P001 IBC03 R001
+715. | ETYL METACRYLAT, ỔN ĐỊNH | 2277 | 3 | 339 | II |  | FL | P001 IBC02 R001
+716. | n-HEPTEN | 2278 | 3 | 33 | II |  | FL | P001 IBC02 R001
+717. | HEXACLOBUTADIEN | 2279 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+718. | HEXAMETYLEN DIISOXYANAT | 2281 | 6.1 | 60 | II |  | AT | P001 IBC02
+719. | HEXANOL | 2282 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+720. | ISOBUTYL METACRYLAT, ỔN ĐỊNH | 2283 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+721. | ISOBUTYRONITRIL | 2284 | 3 | 336 | II |  | FL | P001 IBC02
+722. | ISOCYANATOBENZO-TRIFLORIT | 2285 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+723. | PENTAMETYLHEPTAN | 2286 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+724. | ISOHEPTEN | 2287 | 3 | 33 | II |  | FL | P001 IBC02 R001
+725. | ISOHEXEN | 2288 | 3 | 33 | II |  | FL | P001 IBC02 R001
+726. | ISOPHORONE DIISOXYANAT | 2290 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+727. | HỢP CHẤT CHÌ, CÓ KHẢ NĂNG HÒA TAN, N.O.S. | 2291 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+728. | 4-METHOXY-4-METYLPENTAN-2-ONE | 2293 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+729. | N-METYLANILIN | 2294 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+730. | METYL CLOAXETAT | 2295 | 6.1 | 663 | I | 1000 | FL | P001
+731. | METYLCYCLOHEXAN | 2296 | 3 | 33 | II |  | FL | P001 IBC02 R001
+732. | METYLCYCLO-HEXANON | 2297 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+733. | METYLCYCLOPENTAN | 2298 | 3 | 33 | II |  | FL | P001 IBC02 R001
+734. | METYL DICLOAXETAT | 2299 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+735. | 2-METYL-5-ETYLPYRIDIN | 2300 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+736. | 2-METYLFURAN | 2301 | 3 | 33 | II |  | FL | P001 IBC02 R001
+737. | 5-METYLHEXAN-2-ONE | 2302 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+738. | ISOPROPENYLBENZEN | 2303 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+739. | NITROBENZOTRI-FLORIT, DẠNG LỎNG | 2306 | 6.1 | 60 | II |  | AT | P001 IBC02
+740. | 3-NITRO-4-CLO-BENZOTRIFLORIT | 2307 | 6.1 | 60 | II |  | AT | P001 IBC02
+741. | OCTADIEN | 2309 | 3 | 33 | II |  | FL | P001 IBC02 R001
+742. | PENTAN-2,4-DION | 2310 | 3 | 36 | III |  | FL | P001 IBC03 R001
+743. | PHENETIDIN | 2311 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+744. | PHENOL, DẠNG CHẢY | 2312 | 6.1 | 60 | II | 3000 | AT | 
+745. | PICOLIN | 2313 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+746. | NATRI CUPROXYANUA, DẠNG RẮN | 2316 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+747. | DUNG DỊCH NATRI CUPROXYANUA | 2317 | 6.1 | 66 | I | 1000 | AT | P001
+748. | TERPEN HYDROCACBON, N.O.S. | 2319 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+749. | TRICLOBENZEN, DẠNG LỎNG | 2321 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+750. | TRICLOBUTEN | 2322 | 6.1 | 60 | II |  | AT | P001 IBC02
+751. | TRIETYL PHOTPHIT | 2323 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+752. | TRIISOBUTYLEN | 2324 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+753. | 1,3,5-TRIMETYLBENZEN | 2325 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+754. | TRIMETYLHEXAMETYLEN DIISOXYANAT | 2328 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+755. | TRIMETYL PHOTPHIT | 2329 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+756. | UNDECAN | 2330 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+757. | AXETALDEHIT OXIM | 2332 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+758. | ALLYL AXETAT | 2333 | 3 | 336 | II | 1000 | FL | P001 IBC02
+759. | ALLYLAMIN | 2334 | 6.1 | 663 | I | 1000 | FL | P602
+760. | ALLYL ETYL ETE | 2335 | 3 | 336 | II | 1000 | FL | P001 IBC02
+761. | ALLYL FORMAT | 2336 | 3 | 336 | I | 1000 | FL | P001
+762. | PHENYL MERCAPTAN | 2337 | 6.1 | 663 | I | 1000 | FL | P602
+763. | BENZOTRIFLORIT | 2338 | 3 | 33 | II |  | FL | P001 IBC02 R001
+764. | 2-BROMBUTAN | 2339 | 3 | 33 | II |  | FL | P001 IBC02 R001
+765. | 2-BROMETYL ETYL ETE | 2340 | 3 | 33 | II |  | FL | P001 IBC02 R001
+766. | 1-BROM-3-METYLBUTAN | 2341 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+767. | BROMMETYL-PROPAN | 2342 | 3 | 33 | II |  | FL | P001 IBC02 R001
+768. | 2-BROMPENTAN | 2343 | 3 | 33 | II |  | FL | P001 IBC02 R001
+769. | BROMPROPAN | 2344 | 3 | 33 | II |  | FL | P001 IBC02 R001
+770. | BROMPROPAN | 2344 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+771. | 3-BROMPROPYN | 2345 | 3 | 33 | II |  | FL | P001 IBC02 R001
+772. | BUTANDION | 2346 | 3 | 33 | II |  | FL | P001 IBC02 R001
+773. | BUTYL MERCAPTAN | 2347 | 3 | 33 | II |  | FL | P001 IBC02 R001
+774. | BUTYL ACRYLAT, ỔN ĐỊNH | 2348 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+775. | BUTYL METYL ETE | 2350 | 3 | 33 | II |  | FL | P001 IBC02 R001
+776. | BUTYL NITRIT | 2351 | 3 | 33 | II |  | FL | P001 IBC02 R001
+777. | BUTYL NITRIT | 2351 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+778. | BUTYL VINYL ETE, ỔN ĐỊNH | 2352 | 3 | 339 | II |  | FL | P001 IBC02 R001
+779. | BUTYRYL CLORUA | 2353 | 3 | 338 | II |  | FL | P001 IBC02
+780. | CLOMETYL ETYL ETE | 2354 | 3 | 336 | II | 3000 | FL | P001 IBC02
+781. | 2-CLOPROPAN | 2356 | 3 | 33 | I |  | FL | P001
+782. | CYCLOOCTATETRAEN | 2358 | 3 | 33 | II |  | FL | P001 IBC02 R001
+783. | DIALLYLAMIN | 2359 | 3 | 338 | II | 1000 | FL | P001 IBC02
+784. | DLALLYL ETE | 2360 | 3 | 336 | II | 1000 | FL | P001 IBC02
+785. | DIISOBUTYLAMIN | 2361 | 3 | 38 | III |  | FL | P001 IBC03 R001
+786. | 1,1-DICLOETAN | 2362 | 3 | 33 | II |  | FL | P001 IBC02 R001
+787. | ETYL MERCAPTAN | 2363 | 3 | 33 | I |  | FL | P001
+788. | n-PROPYLBENZEN | 2364 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+789. | DIETYL CACBONAT | 2366 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+790. | alpha-METYL-VALERALDEHIT | 2367 | 3 | 33 | II |  | FL | P001 IBC02 R001
+791. | alpha-PINEN | 2368 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+792. | 1-HEXEN | 2370 | 3 | 33 | II |  | FL | P001 IBC02 R001
+793. | PINENISOPENTEN | 2371 | 3 | 33 | I |  | FL | P001
+794. | 1,2-DI-(DIMETYLAMINO) ETAN | 2372 | 3 | 33 | II |  | FL | P001 IBC02 R001
+795. | DIETHOXYMETAN | 2373 | 3 | 33 | II |  | FL | P001 IBC02 R001
+796. | 3,3-DIETHOXYPROPEN | 2374 | 3 | 33 | II |  | FL | P001 IBC02 R001
+797. | DIETYL SUNFUA | 2375 | 3 | 33 | II |  | FL | P001 IBC02 R001
+798. | 2,3-DIHYDROPYRAN | 2376 | 3 | 33 | II |  | FL | P001 IBC02 R001
+799. | 1,1-DIMETHOXYETAN | 2377 | 3 | 33 | II |  | FL | P001 IBC02 R001
+800. | 2-DIMETYLAMINO-AXETONITRIL | 2378 | 3 | 336 | II | 1000 | FL | P001 IBC02
+801. | 1,3-DIMETYLBUTYLAMIN | 2379 | 3 | 338 | II |  | FL | P001 IBC02
+802. | DIMETYLDIETHOXY-SILAN | 2380 | 3 | 33 | II |  | FL | P001 IBC02 R001
+803. | DIMETYL DISUNFUA | 2381 | 3 | 336 | II | 1000 | FL | P001 IBC02
+804. | DIMETYLHYDRAZIN, ĐỐI XỨNG | 2382 | 6.1 | 663 | I | 1000 | FL | P602
+805. | DIPROPYLAMIN | 2383 | 3 | 338 | II | 3000 | FL | P001 IBC02
+806. | DI-n-PROPYL ETE | 2384 | 3 | 33 | II |  | FL | P001 IBC02 R001
+807. | ETYL ISOBUTYRAT | 2385 | 3 | 33 | II |  | FL | P001 IBC02 R001
+808. | 1 -ETYLPIPERIDIN | 2386 | 3 | 338 | II | 3000 | FL | P001 IBC02
+809. | FLOBENZEN | 2387 | 3 | 33 | II |  | FL | P001 IBC02 R001
+810. | FLOTOLUEN | 2388 | 3 | 33 | II |  | FL | P001 IBC02 R001
+811. | FURAN | 2389 | 3 | 33 | I |  | FL | P001
+812. | 2-IODOBUTAN | 2390 | 3 | 33 | II |  | FL | P001 IBC02 R001
+813. | IODOMETYLPROPAN | 2391 | 3 | 33 | II |  | FL | P001 IBC02 R001
+814. | IODOPROPAN | 2392 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+815. | ISOBUTYL FORMAT | 2393 | 3 | 33 | II |  | FL | P001 IBC02 R001
+816. | ISOBUTYL PROPIONAT | 2394 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+817. | ISOBUTYRYL CLORUA | 2395 | 3 | 338 | II | 3000 | FL | P001 IBC02
+818. | METHACRYLALDEHIT, ỔN ĐỊNH | 2396 | 3 | 336 | II | 1000 | FL | P001 IBC02
+819. | 3 -METYLBUTAN-2-ONE | 2397 | 3 | 33 | II |  | FL | P001 IBC02 R001
+820. | METYL tert-BUTYL ETE | 2398 | 3 | 33 | II |  | FL | P001 IBC02 R001
+821. | 1-METYLPIPERIDIN | 2399 | 3 | 338 | II |  | FL | P001 IBC02
+822. | METYL ISOVALERAT | 2400 | 3 | 33 | II |  | FL | P001 IBC02 R001
+823. | PROPANTHIOL | 2402 | 3 | 33 | II |  | FL | P001 IBC02 R001
+824. | ISOPROPENYL AXETAT | 2403 | 3 | 33 | II |  | FL | P001 IBC02 R001
+825. | PROPIONITRIL | 2404 | 3 | 336 | II | 1000 | FL | P001 IBC02
+826. | ISOPROPYL BUTYRAT | 2405 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+827. | ISOPROPYL ISOBUTYRAT | 2406 | 3 | 33 | II |  | FL | P001 IBC02 R001
+828. | ISOPROPYL CLOFORMAT | 2407 | 6.1 |  | I | 1000 |  | P602
+829. | ISOPROPYL PROPIONAT | 2409 | 3 | 33 | II |  | FL | P001 IBC02 R001
+830. | 1,2,3,6-TETRAHYDROPYRIDIN | 2410 | 3 | 33 | II |  | FL | P001 IBC02 R001
+831. | BUTYRONITRIL | 2411 | 3 | 336 | II | 3000 | FL | P001 IBC02
+832. | TETRAHYDROTHIOPHEN | 2412 | 3 | 33 | II |  | FL | P001 IBC02 R001
+833. | TETRAPROPYL ORTHOTITANAT | 2413 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+834. | THIOPHEN | 2414 | 3 | 33 | II |  | FL | P001 IBC02 R001
+835. | TRIMETYL BORAT | 2416 | 3 | 33 | II |  | FL | P001 IBC02 R001
+836. | CACBONYL FLORIT | 2417 | 2 | 268 |  | 50 | AT | P200
+837. | LƯU HUỲNH TETRAFLORIT | 2418 | 2 |  |  | 25 |  | P200
+838. | BROMTRIFLO-ETYLEN | 2419 | 2 | 23 |  | 3000 | FL | P200
+839. | HEXAFLOAXETON | 2420 | 2 | 268 |  | 25 | AT | P200
+840. | OCTAFLOBUT-2-ENE (MÔI CHẤT LẠNH R 1318) | 2422 | 2 | 20 |  |  | AT | P200
+841. | OCTAFLOPROPAN (MÔI CHẤT LẠNH R 218) | 2424 | 2 | 20 |  |  | AT | P200
+842. | ANISIDIN | 2431 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+843. | N,N-DIETYLANILIN | 2432 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+844. | CLONITROTOLUEN, DẠNG LỎNG | 2433 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+845. | AXIT THIOAXETIC | 2436 | 3 | 33 | II |  | FL | P001 IBC02 R001
+846. | TRIMETYLAXETYL CLORUA | 2438 | 6.1 | 663 | I | 1000 | FL | P001
+847. | NITROCRESOL, DẠNG RẮN | 2446 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+848. | NITƠ TRIFLORIT | 2451 | 2 | 25 |  | 25 | AT | P200
+849. | ETYLAXETYLEN, ỔN ĐỊNH | 2452 | 2 | 239 |  | 3000 | FL | P200
+850. | ETYL FLORIT (MÔI CHẤT LẠNH R 161) | 2453 | 2 | 23 |  | 3000 | FL | P200
+851. | METYL FLORIT (MÔI CHẤT LẠNH R 41) | 2454 | 2 | 23 |  | 3000 | FL | P200
+852. | 2-CLOPROPEN | 2456 | 3 | 33 | I |  | FL | P001
+853. | 2,3-DIMETYLBUTAN | 2457 | 3 | 33 | II |  | FL | P001 IBC02 R001
+854. | HEXADIEN | 2458 | 3 | 33 | II |  | FL | P001 IBC02 R001
+855. | 2-METYL-1-BUTEN | 2459 | 3 | 33 | I |  | FL | P001
+856. | 2-METYL-2-BUTEN | 2460 | 3 | 33 | II |  | FL | P001 IBC02
+857. | METYLPENTADIEN | 2461 | 3 | 33 | II |  | FL | P001 IBC02 R001
+858. | PHENYLAXETONITRIL, DẠNG LỎNG | 2470 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+859. | OSMI TETROXIT | 2471 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+860. | NATRIARSANILAT | 2473 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+861. | THIOPHOTGEN | 2474 | 6.1 | 66 | I | 1000 | AT | P602
+862. | METYLISOTHIOXYANAT | 2477 | 6.1 | 663 | I | 1000 | FL | P602
+863. | ISOXYANAT, DỄ CHÁY, ĐỘC, N.O.S. hoặc ISOXYANAT DUNG DỊCH, DỄ CHÁY, ĐỘC, N.O.S. | 2478 | 3 | 336 | II | 1000 | FL | P001 IBC02
+864. | ISOXYANAT, DỄ CHÁY, ĐỘC, N.O.S. hoặc ISOXYANAT DUNG DỊCH, DỄ CHÁY, ĐỘC, N.O.S. | 2478 | 3 | 36 | III |  | FL | P001 IBC03 R001
+865. | METYL ISOXYANAT | 2480 | 6.1 | 663 | I | 1000 | FL | P601
+866. | ETYLISOXYANAT | 2481 | 6.1 | 663 | I | 1000 | FL | P602
+867. | n-PROPYL ISOXYANAT | 2482 | 6.1 | 663 | I | 1000 | FL | P602
+868. | ISOPROPYL ISOXYANAT | 2483 | 6.1 | 663 | I | 1000 | FL | P602
+869. | tert-BUTYL ISOXYANAT | 2484 | 6.1 | 663 | I | 1000 | FL | P602
+870. | n-BUTYL ISOXYANAT | 2485 | 6.1 | 663 | I | 1000 | FL | P602
+871. | ISOBUTYL ISOXYANAT | 2486 | 6.1 | 663 | I | 1000 | FL | P602
+872. | PHENYL ISOXYANAT | 2487 | 6.1 | 663 | I | 1000 | FL | P602
+873. | CYCLOHEXYL ISOXYANAT | 2488 | 6.1 | 663 | I | 1000 | FL | P602
+874. | DICLOISOPROPYL ETE | 2490 | 6.1 | 60 | II |  | AT | P001 IBC02
+875. | HEXAMETYLENIMIN | 2493 | 3 | 338 | II |  | FL | P001 IBC02
+876. | 1,2,3,6-TETRAHYDROBENZAL- DEHIT | 2498 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+877. | TRIS-(1-AZIRIDINYL) PHOTPHIN OXIT DUNG DỊCH | 2501 | 6.1 | 60 | II |  | AT | P001 IBC02
+878. | TRIS-(1-AZIRIDINYL) PHOTPHIN OXIT DUNG DỊCH | 2501 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+879. | TETRABROMETAN | 2504 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+880. | AMONI FLORIT | 2505 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+881. | AMINOPHENOL (o-, m-, p-) | 2512 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+882. | BROMBENZEN | 2514 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+883. | BROMFORM | 2515 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+884. | CACBON TETRABROMUA | 2516 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+885. | 1 -CLO-1,1-DIFLOETAN (MÔI CHẤT LẠNH R 142b) | 2517 | 2 | 23 |  | 3000 | FL | P200
+886. | 1,5,9-CYCLODODECATRIEN | 2518 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+887. | CYCLOOCTADIEN | 2520 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+888. | DIKETEN, HẠN CHẾ | 2521 | 6.1 | 663 | I | 1000 | FL | P602
+889. | 2-DIMETYLAMINOETYL METACRYLAT | 2522 | 6.1 | 69 | II |  | AT | P001 IBC02
+890. | ETYL ORTHOFORMAT | 2524 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+891. | ETYL OXALAT | 2525 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+892. | FURFURYLAMIN | 2526 | 3 | 38 | III |  | FL | P001 IBC03 R001
+893. | ISOBUTYL ACRYLAT, ỔN ĐỊNH | 2527 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+894. | ISOBUTYL ISOBUTYRAT | 2528 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+895. | AXIT ISOBUTYRIC | 2529 | 3 | 38 | III |  | FL | P001 IBC03 R001
+896. | METYL TRICLOAXETAT | 2533 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+897. | METYLCLOSILAN | 2534 | 2 | 263 |  | 25 | FL | P200
+898. | 4-METYLMORPHOLIN (N-METYLMORPHOLIN) | 2535 | 3 | 338 | II | 3000 | FL | P001 IBC02
+899. | METYLTETRAHYDRO-FURAN | 2536 | 3 | 33 | II |  | FL | P001 IBC02 R001
+900. | TERPINOLEN | 2541 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+901. | TRIBUTYLAMIN | 2542 | 6.1 | 60 | II |  | AT | P001 IBC02
+902. | CLO PENTAFLORIT | 2548 | 2 |  |  | 25 |  | P200
+903. | HEXAFLOAXETON HYDRAT, DẠNG LỎNG | 2552 | 6.1 | 60 | II |  | AT | P001 IBC02
+904. | METYLALLYL CLORUA | 2554 | 3 | 33 | II |  | FL | P001 IBC02 R001
+905. | EPIBROMHYDRIN | 2558 | 6.1 | 663 | I | 1000 | FL | P001
+906. | 2-METYLPENTAN-2-OL | 2560 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+907. | 3-METYL-1-BUTEN | 2561 | 3 | 33 | I |  | FL | P001
+908. | NATRI PENTACLOPHENAT | 2567 | 6.1 | 60 | II |  | AT | P002 IBC08
+909. | CADMI HỢP CHẤT | 2570 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+910. | CADMI HỢP CHẤT | 2570 | 6.1 | 60 | II |  | AT | P002 IBC08
+911. | CADMI HỢP CHẤT | 2570 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+912. | PHENYLHYDRAZIN | 2572 | 6.1 | 60 | II |  | AT | P001 IBC02
+913. | TRICRESYL PHOTPHAT chứa hơn 3% ortho isomer | 2574 | 6.1 | 60 | II |  | AT | P001 IBC02
+914. | BENZOQUINON | 2587 | 6.1 | 60 | II |  | AT | P002 IBC08
+915. | VINYL CLOAXETAT | 2589 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+916. | XENON, CHẤT LỎNG LÀM LẠNH | 2591 | 2 | 22 |  |  | AT | P203
+917. | HỖN HỢP CLOTRIFLO-METAN VÀ TRIFLOMETAN AZEOTROPIC chứa khoảng 60% clotriflometan (MÔI CHẤT LẠNH R 503) | 2599 | 2 | 20 |  |  | AT | P200
+918. | CYCLOBUTAN | 2601 | 2 | 23 |  | 3000 | FL | P200
+919. | HỖN HỢP DICLODIFLO-METAN VÀ 1,1-DIFLOETAN AZEOTROPIC chứa khoảng 74% diclodiflometan (MÔI CHẤT LẠNH R 500) | 2602 | 2 | 20 |  |  | AT | P200
+920. | CYCLOHEPTATRIEN | 2603 | 3 | 336 | II |  | FL | P001 IBC02
+921. | METHOXYMETYL ISOXYANAT | 2605 | 6.1 | 663 | I | 1000 | FL | P602
+922. | METYL ORTHOSILICAT | 2606 | 6.1 | 663 | I | 1000 | FL | P602
+923. | ACROLEIN DIMER, ỔN ĐỊNH | 2607 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+924. | NITROPROPAN | 2608 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+925. | TRIALLYL BORAT | 2609 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+926. | TRIALLYLAMIN | 2610 | 3 | 38 | III |  | FL | P001 IBC03 R001
+927. | PROPYLEN CLOHYDRIN | 2611 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+928. | METYL PROPYL ETE | 2612 | 3 | 33 | II |  | FL | P001 IBC02
+929. | RƯỢU CỒN METHALLYL | 2614 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+930. | ETYL PROPYL ETE | 2615 | 3 | 33 | II |  | FL | P001 IBC02 R001
+931. | TRIISOPROPYL BORAT | 2616 | 3 | 33 | II |  | FL | P001 IBC02 R001
+932. | TRIISOPROPYL BORAT | 2616 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+933. | METYLCYCLO-HEXANOL, dễ cháy | 2617 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+934. | VINYLTOLUEN, ỔN ĐỊNH | 2618 | 3 | 39 | III |  | FL | P001 IBC03 LP01 R001
+935. | AMYL BUTYRAT | 2620 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+936. | AXETYL METYL CARBINOL | 2621 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+937. | GLYCIDALDEHIT | 2622 | 3 | 336 | II | 1000 | FL | P001 IBC02
+938. | KALI FLOAXETAT | 2628 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+939. | NATRI FLOAXETAT | 2629 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+940. | SELENAT hoặc SELENIT | 2630 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+941. | AXIT FLOAXETIC | 2642 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+942. | METYL BROMAXETAT | 2643 | 6.1 | 60 | II |  | AT | P001 IBC02
+943. | METYL IODUA | 2644 | 6.1 | 66 | I | 1000 | AT | P602
+944. | PHENACYL BROMUA | 2645 | 6.1 | 60 | II |  | AT | P002 IBC08
+945. | HEXACLOCYCLO-PENTADIEN | 2646 | 6.1 | 66 | I | 1000 | AT | P602
+946. | MALONONITRIL | 2647 | 6.1 | 60 | II |  | AT | P002 IBC08
+947. | 1,2-DIBROMBUTAN-3-ONE | 2648 | 6.1 | 60 | II |  | AT | P001 IBC02
+948. | 1,3-DICLOAXETON | 2649 | 6.1 | 60 | II |  | AT | P002 IBC08
+949. | 1,1-DICLO-1-NITROETAN | 2650 | 6.1 | 60 | II |  | AT | P001 IBC02
+950. | 4,4'-DIAMINODIPHENYL-METAN | 2651 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+951. | BENZYL IODUA | 2653 | 6.1 | 60 | II |  | AT | P001 IBC02
+952. | KALI FLOSILICAT | 2655 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+953. | QUINOLIN | 2656 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+954. | SELEN DISUNFUA | 2657 | 6.1 | 60 | II |  | AT | P002 IBC08
+955. | NATRI CLOAXETAT | 2659 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+956. | NITROTOLUIDIN (MONO) | 2660 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+957. | HEXACLOAXETON | 2661 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+958. | DIBROMMETAN | 2664 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+959. | BUTYLTOLUEN | 2667 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+960. | CLOAXETONITRIL | 2668 | 6.1 | 663 | I | 1000 | FL | P602
+961. | CLOCRESOL DUNG DỊCH | 2669 | 6.1 | 60 | II |  | AT | P001 IBC02
+962. | CLOCRESOL DUNG DỊCH | 2669 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+963. | AMINOPYRIDIN (o-, m-, p-) | 2671 | 6.1 | 60 | II |  | AT | P002 IBC08
+964. | 2-AMINO-4-CLOPHENOL | 2673 | 6.1 | 60 | II |  | AT | P002 IBC08
+965. | NATRI FLOSILICAT | 2674 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+966. | STIBIN | 2676 | 2 |  |  | 25 |  | P200
+967. | 3-DIETYLAMINOPROPYL-AMIN | 2684 | 3 | 38 | III |  | FL | P001 IBC03 R001
+968. | 1-BROM-3-CLOPROPAN | 2688 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+969. | GLYCEROL alpha-MONOCLOHYDRIN | 2689 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+970. | N,n-BUTYLIMIDAZOL | 2690 | 6.1 | 60 | II |  | AT | P001 IBC02
+971. | DIMETYLDIOXAN | 2707 | 3 | 33 | II |  | FL | P001 IBC02 R001
+972. | DIMETYLDIOXAN | 2707 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+973. | BUTYLBENZEN | 2709 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+974. | DIPROPYL KETON | 2710 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+975. | ACRIDIN | 2713 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+976. | 1,4-BUTYNEDIOL | 2716 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+977. | TALI NITRAT | 2727 | 6.1 | 65 | II |  | AT | P002 IBC06
+978. | HEXACLOBENZEN | 2729 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+979. | NITROANISOL, DẠNG LỎNG | 2730 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+980. | NITROBROMBENZEN, DẠNG LỎNG | 2732 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+981. | AMIN, DỄ CHÁY, ĂN MÒN, N.O.S. hoặc POLYAMIN, DỄ CHÁY, ĂN MÒN, N.O.S. | 2733 | 3 | 338 | I | 1000 | FL | P001
+982. | AMIN, DỄ CHÁY, ĂN MÒN, N.O.S. hoặc POLYAMIN, DỄ CHÁY, ĂN MÒN, N.O.S. | 2733 | 3 | 338 | II |  | FL | P001 IBC02
+983. | AMIN, DỄ CHÁY, ĂN MÒN, N.O.S. hoặc POLYAMIN, DỄ CHÁY, ĂN MÒN, N.O.S. | 2733 | 3 | 38 | III |  | FL | P001 IBC03 R001
+984. | N-BUTYLANILIN | 2738 | 6.1 | 60 | II |  | AT | P001 IBC02
+985. | n-PROPYL CLOFORMAT | 2740 | 6.1 | 668 | I | 1000 | FL | P602
+986 | CLOFORMAT, ĐỘC, ĂN MÒN, DỄ CHÁY, N.O.S. | 2742 | 6.1 | 638 | II | 1000 | FL | P001 IBC01
+987. | n-BUTYL CLOFORMAT | 2743 | 6.1 | 638 | II | 1000 | FL | P001
+988. | CYCLOBUTYL CLOFORMAT | 2744 | 6.1 | 638 | II | 1000 | FL | P001 IBC01
+989. | CLOMETYL CLOFORMAT | 2745 | 6.1 | 68 | II | 1000 | AT | P001 IBC02
+990. | PHENYL CLOFORMAT | 2746 | 6.1 | 68 | II | 1000 | AT | P001 IBC02
+991. | tert-BUTYLCYCLOHEXYL CLOFORMAT | 2747 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+992. | 2-ETYLHEXYL CLOFORMAT | 2748 | 6.1 | 68 | II | 3000 | AT | P001 IBC02
+993. | TETRAMETYLSILAN | 2749 | 3 | 33 | I |  | FL | P001
+994. | 1,3-DICLOPROPANOL-2 | 2750 | 6.1 | 60 | II |  | AT | P001 IBC02
+995. | 1,2-EPOXY-3-ETHOXYPROPAN | 2752 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+996. | N-ETYLBENZYL- TOLUIDIN, DẠNG LỎNG | 2753 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+997. | N-ETYLTOLUIDIN | 2754 | 6.1 | 60 | II |  | AT | P001 IBC02
+998. | ORGANOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S | 2788 | 6.1 | 66 | I | 1000 | AT | P001
+999. | ORGANOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S. | 2788 | 6.1 | 60 | II |  | AT | P001 IBC02
+1000. | ORGANOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S. | 2788 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1001. | CHẤT ĐỘC DẠNG LỎNG, CHẤT HỮU CƠ, N.O.S | 2810 | 6.1 | 66 | 1 | 1000 | AT | P001
+1002. | CHẤT ĐỘC DẠNG LỎNG, CHẤT HỮU CƠ, N.O.S | 2810 | 6.1 | 60 | II |  | AT | P001 IBC02
+1003. | CHẤT ĐỘC DẠNG LỎNG, CHẤT HỮU CƠ, N.O.S | 2810 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1004. | CHẤT ĐỘC DẠNG RẮN, CHẤT HỮU CƠ, N.O.S | 2811 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1005. | CHẤT ĐỘC DẠNG RẮN, CHẤT HỮU CƠ, N.O.S. | 2811 | 6.1 | 60 | II |  | AT | P002 IBC08
+1006. | CHẤT ĐỘC DẠNG RẮN, CHẤT HỮU CƠ, N.O.S. | 2811 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1007. | DUNG DỊCH PHENOL | 2821 | 6.1 | 60 | II |  | AT | P001 IBC02
+1008. | DUNG DỊCH PHENOL | 2821 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1009. | 2-CLOPYRIDIN | 2822 | 6.1 | 60 | II |  | AT | P001 IBC02
+1010. | 1,1,1-TRICLOETAN | 2831 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1011. | VINYL BUTYRAT, ỔN ĐỊNH | 2838 | 3 | 339 | II |  | FL | P001 IBC02 R001
+1012. | ALDOL | 2839 | 6.1 | 60 | II |  | AT | P001 IBC02
+1013. | BUTYRALDOXIM | 2840 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1014. | DI-n-AMYLAMIN | 2841 | 3 | 36 | III |  | FL | P001 IBC03 R001
+1015. | NITROETAN | 2842 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1016. | 3-CLOPROPANOL-1 | 2849 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1017. | PROPYLEN TETRAMER | 2850 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1018. | MAGIE FLOSILICAT | 2853 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1019. | AMONI FLOSILICAT | 2854 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1020. | KẼM FLOSILICAT | 2855 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1021. | FLOSILICAT, N.O.S | 2856 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1022. | MÁY LÀM LẠNH chứa khí không cháy, không độc hoặc dung dịch amoniac (UN 2672) | 2857 | 2 |  |  |  |  | P003
+1023. | AMONI METAVANADAT | 2859 | 6.1 | 60 | II |  | AT | P002 IBC08
+1024. | AMONI POLYVANADAT | 2861 | 6.1 | 60 | II |  | AT | P002 IBC08
+1025. | VANADI PENTOXIT, dạng không nóng chảy | 2862 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1026. | NATRI AMONI VANADAT | 2863 | 6.1 | 60 | II |  | AT | P002 IBC08
+1027. | KALI METAVANADAT | 2864 | 6.1 | 60 | II |  | AT | P002 IBC08
+1028. | ANTIMONY DẠNG BỘT | 2871 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1029. | DIBROMCLO-PROPAN | 2872 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+1030. | DIBROMCLO-PROPAN | 2872 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1031. | DIBUTYLAMINOETANON | 2873 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1032. | CỒN FURFURYL | 2874 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1033. | HEXACLOPHEN | 2875 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1034. | RESORCINOL | 2876 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1035. | BROM CLORUA | 2901 | 2 | 265 |  | 25 |  | P200
+1036. | CHẤT LỎNG DỄ CHÁY, ĂN MÒN, N.O.S | 2924 | 3 | 338 | I | 1000 | FL | P001
+1037. | CHẤT LỎNG DỄ CHÁY, ĂN MÒN, N.O.S | 2924 | 3 | 338 | II |  | FL | P001 IBC02
+1038. | CHẤT LỎNG DỄ CHÁY, ĂN MÒN, N.O.S | 2924 | 3 | 38 | III |  | FL | P001 IBC03 R001
+1039. | CHẤT ĐỘC DẠNG LỎNG, ĂN MÒN, CHẤT HỮU CƠ, N.O.S | 2927 | 6.1 | 668 | I | 1000 | AT | P001
+1040. | CHẤT ĐỘC DẠNG LỎNG, ĂN MÒN, CHẤT HỮU CƠ, N.O.S | 2927 | 6.1 | 68 | II |  | AT | P001 IBC02
+1041. | CHẤT ĐỘC DẠNG RẮN, ĂN MÒN, CHẤT HỮU CƠ, N.O.S | 2928 | 6.1 | 668 | I | 1000 | AT | P002 IBC05
+1042. | CHẤT ĐỘC DẠNG RẮN, ĂN MÒN, CHẤT HỮU CƠ, N.O.S | 2928 | 6.1 | 68 | II |  | AT | P002 IBC06
+1043. | CHẤT ĐỘC DẠNG LỎNG, DỄ CHÁY, CHẤT HỮU CƠ, N.O.S. | 2929 | 6.1 | 663 | I | 1000 | FL | P001
+1044. | CHẤT ĐỘC DẠNG LỎNG, DỄ CHÁY, CHẤT HỮU CƠ, N.O.S | 2929 | 6.1 | 63 | II |  | FL | P001 IBC02
+1045. | CHẤT ĐỘC DẠNG RẮN, DỄ CHÁY, CHẤT HỮU CƠ, N.O.S | 2930 | 6.1 | 664 | I | 1000 | AT | P002 IBC05
+1046. | CHẤT ĐỘC DẠNG RẮN, DỄ CHÁY, CHẤT HỮU CƠ, N.O.S | 2930 | 6.1 | 64 | II |  | AT | P002 IBC08
+1047. | VANADYL SUNPHAT | 2931 | 6.1 | 60 | II |  | AT | P002 IBC08
+1048. | METYL 2-CLOPROPIONAT | 2933 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1049. | ISOPROPYL 2- CLOPROPIONAT | 2934 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1050. | ETYL 2-CLOPROPIONAT | 2935 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1051. | AXIT THIOLACTIC | 2936 | 6.1 | 60 | II |  | AT | P001 IBC02
+1052. | alpha-METYLBENZYL RƯỢU CỒN, DẠNG LỎNG | 2937 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1053. | FLOANILIN | 2941 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1054. | 2-TRIFLOMETYL-ANILIN | 2942 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1055. | TETRAHYDROFURFURYL-AMIN | 2943 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1056. | N-METYLBUTYLAMIN | 2945 | 3 | 338 | II |  | FL | P001 IBC02
+1057. | 2-AMINO-5-DIETYLAMINOPENTAN | 2946 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1058. | ISOPROPYL CLOAXETAT | 2947 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1059. | 3 -TRIFLOMET YL-ANILIN | 2948 | 6.1 | 60 | II |  | AT | P001 IBC02
+1060. | THIOGLYCOL | 2966 | 6.1 | 60 | II | THUYVY | AT | P001 IBC02
+1061. | HỖN HỢP OXIT ETYLEN VÀ OXIT PROPYLEN, chứa dưới 30% oxit etylen | 2983 | 3 | 336 | I | 1000 | FL | P001
+1062. | CLOSILAN, DỄ CHÁY, ĂN MÒN, N.O.S | 2985 | 3 | X338 | II |  | FL | P010
+1063. | OXIT 1,2-BUTYLENE, ỔN ĐỊNH | 3022 | 3 | 339 | II |  | FL | P001 IBC02 R001
+1064. | 2-METYL-2-HEPTANTHIOL | 3023 | 6.1 | 663 | I | 1000 | FL | P602
+1065. | CYCLOHEXYL MERCAPTAN | 3054 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1066. | n-HEPTALDEHIT | 3056 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1067. | TRIFLOAXETYL CLORUA | 3057 | 2 | 268 |  | 25 | AT | P200
+1068. | NITƠ GLYXERIN, DUNG DỊCH TRONG CỒN chứa từ 1% đến 5% nitơ glyxerin | 3064 | 3 |  | II |  |  | P300
+1069. | ĐỒ UỐNG CÓ CỒN, chứa hơn 70% cồn theo thể tích | 3065 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1070. | ĐỒ UỐNG CÓ CỒN, chứa từ 24% đến 70% cồn theo thể tích | 3065 | 3 | 30 | III |  | FL | P001 IBC03 R001
+1071. | HỖN HỢP OXIT ETYLEN VÀ DICLODIFLOMETAN chứa ít hơn 12,5% oxit etylen | 3070 | 2 | 20 |  |  | AT | P200
+1072. | MERCAPTAN, DẠNG LỎNG, ĐỘC, DỄ CHÁY, N.O.S hoặc MERCAPTAN HỖN HỢP, DẠNG LỎNG, ĐỘC, DỄ CHÁY, N.O.S | 3071 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+1073. | VINYLPYRIDIN, ỔN ĐỊNH | 3073 | 6.1 | 638 | II | 1000 | FL | P001 IBC01
+1074. | METHACRYLONITRIL, ỔN ĐỊNH | 3079 | 6.1 | 663 | I | 1000 | FL | P602
+1075. | ISOXYANAT, ĐỘC, DỄ CHÁY, N.O.S hoặc ISOXYANAT DUNG DỊCH, ĐỘC, DỄ CHÁY, N.O.S | 3080 | 6.1 | 63 | II | 1000 | FL | P001 IBC02
+1076. | PERCLORYL FLORIT | 3083 | 2 | 265 |  | 25 | AT | P200
+1077. | CHẤT ĐỘC DẠNG RẮN, Ô XY HÓA, N.O.S. | 3086 | 6.1 | 665 | I | 1000 | AT | P002
+1078. | CHẤT ĐỘC DẠNG RẮN, Ô XY HÓA, N.O.S. | 3086 | 6.1 | 65 | II |  | AT | P002 IBC06
+1079. | 1-METHOXY-2-PROPANOL | 3092 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1080. | CHẤT ĐỘC DẠNG LỎNG, Ô XY HÓA, N.O.S | 3122 | 6.1 | 665 | I | 3000 | AT | P001
+1081. | CHẤT ĐỘC DẠNG LỎNG, Ô XY HÓA, N.O.S | 3122 | 6.1 | 65 | II |  | AT | P001 IBC02
+1082. | CHẤT ĐỘC DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S | 3123 | 6.1 | 623 | I | 1000 | AT | P099
+1083. | CHẤT ĐỘC DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S | 3123 | 6.1 | 623 | II | 3000 | AT | P001 IBC02
+1084. | CHẤT ĐỘC DẠNG RẮN, TỰ GIA NHIỆT, N.O.S. | 3124 | 6.1 | 664 | I | 1000 | AT | P002 P002 IbC06
+1085. | CHẤT ĐỘC DẠNG RẮN, TỰ GIA NHIỆT, N.O.S. | 3124 | 6.1 | 64 | II |  | AT | 
+1086. | CHẤT ĐỘC DẠNG RẮN, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S | 3125 | 6.1 | 642 | I | 1000 | AT | P099
+1087. | CHẤT ĐỘC DẠNG RẮN, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S | 3125 | 6.1 | 642 | II |  | AT | P002 IBC06
+1088. | TRIFLOMETAN, CHẤT LỎNG LÀM LẠNH | 3136 | 2 | 22 |  |  | AT | P203
+1089. | HỖN HỢP ETYLEN, AXETYLEN VÀ PROPYLEN, CHẤT LỎNG LÀM LẠNH chứa ít nhất 71,5% etylen, chứa ít hơn 22,5% axetylen và dưới 6% propylen | 3138 | 2 | 223 |  |  | FL | P203
+1090. | ALKALOIT, DẠNG LỎNG, N.O.S hoặc MUỐI ALKALOIT, DẠNG LỎNG, N.O.S | 3140 | 6.1 | 66 | I | 1000 | AT | P001
+1091. | ALKALOIT, DẠNG LỎNG, N.O.S hoặc MUỐI ALKALOIT, DẠNG LỎNG, N.O.S | 3140 | 6.1 | 60 | II |  | AT | P001 IBC02
+1092. | ALKALOIT, DẠNG LỎNG, N.O.S. hoặc MUỐI ALKALOIT, DẠNG LỎNG, N.O.S | 3140 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1093. | HỢP CHẤT ANTIMONY, VÔ CƠ, DẠNG LỎNG, N.O.S | 3141 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1094. | CHẤT SÁT TRÙNG, DẠNG LỎNG, ĐỘC, N.O.S | 3142 | 6.1 | 66 | I | 1000 | AT | P001
+1095. | CHẤT SÁT TRÙNG, DẠNG LỎNG, ĐỘC, N.O.S | 3142 | 6.1 | 60 | II |  | AT | P001 IBC02
+1096. | CHẤT SÁT TRÙNG, DẠNG LỎNG, ĐỘC, N.O.S | 3142 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1097. | THUỐC NHUỘM, DẠNG RẮN, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG RẮN, ĐỘC, N.O.S | 3143 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1098. | THUỐC NHUỘM, DẠNG RẮN, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG RẮN, ĐỘC, N.O.S | 3143 | 6.1 | 60 | 11 |  | AT | P002 IBC08
+1099. | THUỐC NHUỘM, DẠNG RẮN, ĐỘC, N.O.S. hoặc THUỐC NHUỘM BÁN THÀNH PHẨM, DẠNG RẮN, ĐỘC, N.O.S | 3143 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1100. | NICOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S hoặc NICOTIN ĐIỀU CHẾ, DẠNG LỎNG, N.O.S | 3144 | 6.1 | 66 | I | 1000 | AT | P001
+1101. | NICOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S. hoặc NICOTIN ĐIỀU CHẾ, DẠNG LỎNG, N.O.S | 3144 | 6.1 | 60 | II |  | AT | P001 IBC02
+1102. | NICOTIN HỢP CHẤT, DẠNG LỎNG, N.O.S hoặc NICOTIN ĐIỀU CHẾ, DẠNG LỎNG, N.O.S | 3144 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1103. | ORGANOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. | 3146 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1104. | ORGANOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. | 3146 | 6.1 | 60 | II |  | AT | P002 IBC08
+1105. | ORGANOTIN HỢP CHẤT, DẠNG RẮN, N.O.S. | 3146 | 6.1 | 60 | 111 |  | AT | P002 IBC08 LP02 R001
+1106. | PERFLO(METYL VINYL ETE) | 3153 | 2 | 23 |  | 3000 | FL | P200
+1107. | PERFLO(ETYL VINYL ETE) | 3154 | 2 | 23 |  | 3000 | FL | P200
+1108. | PENTACLOPHENOL | 3155 | 6.1 | 60 | II |  | AT | P002 IBC08
+1109. | KHÍ DẠNG NÉN, Ô XY HÓA, N.O.S | 3156 | 2 | 25 |  | 3000 | AT | P200
+1110. | KHÍ HÓA LỎNG, Ô XY HÓA, N.O.S | 3157 | 2 | 25 |  | 3000 | AT | P200
+1111. | KHÍ, LÀM LẠNH DẠNG LỎNG, N.O.S | 3158 | 2 | 22 |  |  | AT | P203
+1112. | 1,1,1,2-TETRAF LOET AN (MÔI CHẤT LẠNH R 134a) | 3159 | 2 | 20 |  |  | AT | P200
+1113. | KHÍ HÓA LỎNG, ĐỘC, DỄ CHÁY, N.O.S | 3160 | 2 | 263 |  | 25 | FL | P200
+1114. | KHÍ HÓA LỎNG, DỄ CHÁY, N.O.S | 3161 | 2 | 23 |  | 3000 | FL | P200
+1115. | KHÍ HÓA LỎNG, ĐỘC, N.O.S | 3162 | 2 | 26 |  | 25 | AT | P200
+1116. | KHÍ HÓA LỎNG, N.O.S | 3163 | 2 | 20 |  |  | AT | P200
+1117. | VÂT PHẨM, NÉN HƠI HOẶC THỦY LỰC (chứa khí không cháy) | 3164 | 2 |  |  |  |  | P003
+1118. | MẪU KHÍ KHÔNG NÉN, DỄ CHÁY, N.O.S., chất lỏng không làm lạnh | 3167 | 2 |  |  |  |  | P201
+1119. | MẪU KHÍ KHÔNG NÉN, ĐỘC, DỄ CHÁY, N.O.S., chất lỏng không làm lạnh | 3168 | 2 |  |  |  |  | P201
+1120. | MẪU KHÍ KHÔNG NÉN, ĐỘC, N.O.S., chất lỏng không làm lạnh | 3169 | 2 |  |  |  |  | P201
+1121. | CHẤT ĐỘC, CHIẾT XUẨT TỪ SẢN PHẨM SỐNG, DẠNG LỎNG, N.O.S | 3172 | 6.1 | 66 | I | 1000 | AT | P001
+1122. | CHẤT ĐỘC, CHIẾT XUẤT TỪ SẢN PHẨM SỐNG, DẠNG LỎNG, N.O.S | 3172 | 6.1 | 60 | II |  | AT | P001 IBC02
+1123. | CHẤT ĐỘC, CHIẾT XUẤT TỪ SẢN PHẨM SỐNG, DẠNG LỎNG, N.O.S | 3172 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1124. | PENTAFLOETAN (MÔI CHẤT LẠNH R 125) | 3220 | 2 | 20 |  |  | AT | P200
+1125. | CHẤT RẮN CHỨA CHẤT ĐỘC DẠNG LỎNG, N.O.S | 3243 | 6.1 | 60 | II |  | AT | P002 IBC02
+1126. | METANSULPHONYL CLORUA | 3246 | 6.1 | 668 | I | 1000 | AT | P602
+1127. | DIFLOMETAN (MÔI CHẤT LẠNH R 32) | 3252 | 2 | 23 |  | 3000 | FL | P200
+1128. | CHẤT LỎNG NHIỆT ĐỘ CẠO, DỄ CHÁY, N.O.S. có điểm chớp cháy trên 60° C, bằng và lớn hơn điểm chớp cháy và dưới 100° C | 3256 | 3 | 30 | III |  | FL | P099 IBC99
+1129. | CHẤT LỎNG NHIỆT ĐỘ CẠO, DỄ CHÁY, N.O.S. có điểm chớp cháy trên 60° C, bằng và lớn hơn điểm chớp cháy và bằng và lớn hơn 100° C | 3256 | 3 | 30 | III |  | FL | P099 IBC99
+1130. | BỘ DỤNG CỤ BẰNG NHỰA POLYESTE, vật liệu bazơ lỏng | 3269 | 3 |  | II |  |  | P302 R001
+1131. | BỘ DỤNG CỤ BẰNG NHỰA POLYESTE, vật liệu bazơ lỏng | 3269 | 3 |  | III |  |  | P302 R001
+1132. | ETE, N.O.S | 3271 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1133. | ETE, N.O.S | 3271 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1134. | ESTE, N.O.S | 3272 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1135. | ESTE, N.O.S | 3272 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1136. | NITRIL, DỄ CHÁY, ĐỘC, N.O.S. | 3273 | 3 | 336 | I | 1000 | FL | P001
+1137. | NITRIL, DỄ CHÁY, ĐỘC, N.O.S | 3273 | 3 | 336 | II |  | FL | P001 IBC02
+1138. | DUNG DỊCH ALCOHOLAT, N.O.S., trong cồn | 3274 | 3 | 338 | II |  | FL | P001 IBC02
+1139. | NITRIL, ĐỘC, DỄ CHÁY, N.O.S | 3275 | 6.1 | 663 | I | 1000 | FL | P001
+1140. | N1TRIL, ĐỘC, DỄ CHÁY, N.O.S | 3275 | 6.1 | 63 | II |  | FL | P001 IBC02
+1141. | NITRIL, DẠNG LỎNG, ĐỘC, N.O.S | 3276 | 6.1 | 66 | I | 1000 | AT | P001
+1142. | NITRIL, DẠNG LỎNG, ĐỘC, N.O.S | 3276 | 6.1 | 60 | II |  | AT | P001 IBC02
+1143. | NITRIL, DẠNG LỎNG, ĐỘC, N.O.S | 3276 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1144. | CLOFORMAT, ĐỘC, ĂN MÒN, N.O.S | 3277 | 6.1 | 68 | II | 1000 | AT | P001 IBC02
+1145. | ORGANOPHOTPHO HỢP CHẤT, DẠNG LỎNG, ĐỘC, N.O.S | 3278 | 6.1 | 66 | I | 1000 | AT | P001
+1146. | ORGANOPHOTPHO HỢP CHẤT, DẠNG LỎNG, ĐỘC, N.O.S | 3278 | 6.1 | 60 | II |  | AT | P001 IBC02
+1147. | ORGANOPHOTPHO HỢP CHẤT, DẠNG LỎNG, ĐỘC, N.O.S | 3278 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1148. | ORGANOPHOTPHO HỢP CHẤT, ĐỘC, DỄ CHÁY, N.O.S | 3279 | 6.1 | 663 | I | 1000 | FL | P001
+1149. | ORGAN OPHOTPHO HỢP CHẤT, ĐỘC, DỄ CHÁY, N.O.S | 3279 | 6.1 | 63 | II |  | FL | P001
+1150. | ORGANOARSENIC HỢP CHẤT, DẠNG LỎNG, N.O.S | 3280 | 6.1 | 66 | I | 1000 | AT | P001
+1151. | ORGANOARSENIC HỢP CHẤT, DẠNG LỎNG, N.O.S | 3280 | 6.1 | 60 | 11 |  | AT | P001 IBC02
+1152. | ORGANOARSENIC HỢP CHẤT, DẠNG LỎNG, N.O.S | 3280 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1153. | CACBONYL KIM LOẠI, DẠNG LỎNG, N.O.S | 3281 | 6.1 | 66 | I | 1000 | AT | P601
+1154. | CACBONYL KIM LOẠI, DẠNG LỎNG, N.O.S | 3281 | 6.1 | 60 | II |  | AT | P001 IBC02
+1155. | CACBONYL KIM LOẠI, DẠNG LỎNG, N.O.S | 3281 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1156. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG LỎNG, ĐỘC, N.O.S | 3282 | 6.1 | 66 | I | 1000 | AT | P001
+1157. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG LỎNG, ĐỘC, N.O.S | 3282 | 6.1 | 60 | II |  | AT | P001 IBC02
+1158. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG LỎNG, ĐỘC, N.O.S | 3282 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1159. | SELEN HỢP CHẤT, DẠNG RẮN, N.O.S. | 3283 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1160. | SELEN HỢP CHẤT, DẠNG RẮN, N.O.S. | 3283 | 6.1 | 60 | II |  | AT | P002 IBC08
+1161. | SELEN HỢP CHẤT, DẠNG RẮN, N.O.S | 3283 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1162. | TELU HỢP CHẤT, N.O.S | 3284 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1163. | TELU HỢP CHẤT, N.O.S | 3284 | 6.1 | 60 | II |  | AT | P002 IBC08
+1164. | TELU HỢP CHẤT, N.O.S | 3284 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1165. | VANADI HỢP CHẤT, N.O.S | 3285 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1166. | VANADI HỢP CHẤT, N.O.S | 3285 | 6.1 | 60 | II |  | AT | P002 IBC08
+1167. | VANADI HỢP CHẤT, N.O.S | 3285 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1168. | CHẤT LỎNG DỄ CHÁY, ĐỘC, ĂN MÒN, N.O.S | 3286 | 3 | 368 | I | 1000 | FL | P001
+1169. | CHẤT LỎNG DỄ CHÁY, ĐỘC, ĂN MÒN, N.O.S | 3286 | 3 | 368 | II |  | FL | P001 IBC02
+1170. | CHẤT ĐỘC DẠNG LỎNG, VÔ CƠ, N.O.S | 3287 | 6.1 | 66 | I | 1000 | AT | P001
+1171. | CHẤT ĐỘC DẠNG LỎNG, VÔ CƠ, N.O.S | 3287 | 6.1 | 60 | II |  | AT | P001 IBC02
+1172. | CHẤT ĐỘC DẠNG LỎNG, VÔ CƠ, N.O.S | 3287 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1173. | CHẤT ĐỘC DẠNG RẮN, VÔ CƠ, N.O.S | 3288 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1174. | CHẤT ĐỘC DẠNG RẮN, VÔ CƠ, N.O.S | 3288 | 6.1 | 60 | II |  | AT | P002 IBC08
+1175. | CHẤT ĐỘC DẠNG RẮN, VÔ CƠ, N.O.S | 3288 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1176. | CHẤT ĐỘC DẠNG LỎNG, ĂN MÒN, VÔ CƠ, N.O.S | 3289 | 6.1 | 668 | I | 1000 | AT | P001
+1177. | CHẤT ĐỘC DẠNG LỎNG, ĂN MÒN, VÔ CƠ, N.O.S | 3289 | 6.1 | 68 | II |  | AT | P001 IBC02
+1178. | CHẤT ĐỘC DẠNG RẮN, ĂN MÒN, VÔ CƠ, N.O.S | 3290 | 6.1 | 668 | I | 1000 | AT | P002 IBC05
+1179. | CHẤT ĐỘC DẠNG RẮN, ĂN MÒN, VÔ CƠ, N.O.S | 3290 | 6.1 | 68 | II |  | AT | P002 IBC06
+1180. | HYDRAZIN, DUNG DỊCH NƯỚC chứa ít hơn 37% hydrazin theo khối lượng | 3293 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1181. | HYDRO XYANUA, DUNG DỊCH TRONG CÒN chứa ít hơn 45% hydro xyanua | 3294 | 6.1 | 663 | I | 1000 | FL | P601
+1182. | HYDROCACBON, DẠNG LỎNG, N.O.S | 3295 | 3 | 33 | I |  | FL | P001
+1183. | HYDROCACBON, DẠNG LỎNG, N.O.S (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 3295 | 3 | 33 | II |  | FL | P001
+1184. | HYDROCACBON, DẠNG LỎNG, N.O.S (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 3295 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1185. | HYDROCACBON, DẠNG LỎNG, N.O.S | 3295 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1186. | HEPTAFLOPROPAN (MÔI CHẤT LẠNH R 227) | 3296 | 2 | 20 |  |  | AT | P200
+1187. | HỖN HỢP OXIT ETYLEN VÀ CLOTETRAFLOETAN chứa ít hơn 8,8% oxit etylen | 3297 | 2 | 20 |  |  | AT | P200
+1188. | HỖN HỢP OXIT ETYLEN VÀ PENTAFLOETAN chứa ít hơn 7,9% oxit etylen | 3298 | 2 | 20 |  |  | AT | P200
+1189. | HỖN HỢP OXIT ETYLEN VÀ TETRAFLOETAN chứa ít hơn 5,6% oxit etylen | 3299 | 2 | 20 |  |  | AT | P200
+1190. | HỖN HỢP OXIT ETYLEN VÀ CACBON DIOXIT chứa hơn 87% oxit etylen | 3300 | 2 | 263 |  | 500 | FL | P200
+1191. | 2-DIMETYLAMINOETYL ACRYLAT | 3302 | 6.1 | 60 | II |  | AT | P001 IBC02
+1192. | KHÍ DẠNG NÉN, ĐỘC, Ô XY HÓA, N.O.S | 3303 | 2 | 265 |  | 25 | AT | P200
+1193. | KHÍ DẠNG NÉN, ĐỘC, ĂN MÒN, N.O.S | 3304 | 2 | 268 |  | 25 | AT | P200
+1194. | KHÍ DẠNG NÉN, ĐỘC, DỄ CHÁY, ĂN MÒN, N.O.S | 3305 | 2 | 263 |  | 25 | FL | P200
+1195. | KHÍ DẠNG NÉN, ĐỘC, Ô XY HÓA, ĂN MÒN, N.O.S | 3306 | 2 | 265 |  | 25 | AT | P200
+1196. | KHÍ HỎA LỎNG, ĐỘC, Ô XY HÓA, N.O.S | 3307 | 2 | 265 |  | 25 | AT | P200
+1197. | KHÍ HÓA LỎNG, ĐỘC, ĂN MÒN, N.O.S | 3308 | 2 | 268 |  | 25 | AT | P200
+1198. | KHÍ HÓA LỎNG, ĐỘC, DỄ CHÁY, ĂN MÒN, N.O.S | 3309 | 2 | 263 |  | 25 | FL | P200
+1199. | KHÍ HÓA LỎNG, ĐỘC, Ô XY HÓA, ĂN MÒN, N.O.S. | 3310 | 2 | 265 |  | 25 | AT | P200
+1200. | KHÍ, LÀM LẠNH DẠNG LỎNG, Ô XY HÓA, N.O.S | 3311 | 2 | 225 |  | 3000 | AT | P203
+1201. | KHÍ, LÀM LẠNH DẠNG LỎNG, DỄ CHÁY, N.O.S | 3312 | 2 | 223 |  | 3000 | FL | P203
+1202. | MẪU HÓA CHẤT, ĐỘC | 3315 | 6.1 |  | I |  |  | P099
+1203. | DỤNG DỊCH AMONIAC, khối lượng riêng tương đối nhỏ hơn 0,880 ở 15 °C trong nước, chứa hơn 50% amoniac | 3318 | 2 | 268 |  | 3000 | AT | P200
+1204. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, N.O.S hoặc MERCAPTAN HỖN HỢP, DẠNG LỎNG, DỄ CHÁY, N.O.S | 3336 | 3 | 33 | I |  | FL | P001
+1205. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, N.O.S hoặc MERCAPTAN HỖN HỢP, DẠNG LỎNG, DỄ CHÁY, N.O.S (áp suất hơi ở 50 °C lớn hơn 110 kPa) | 3336 | 3 | 33 | 11 |  | FL | P001
+1206. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, N.O.S hoặc MERCAPTAN HỖN HỢP, DẠNG LỎNG, DỄ CHÁY, N.O.S. (áp suất hơi ở 50 °C nhỏ hơn 110 kPa) | 3336 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1207. | MERCAPTAN, DẠNG LỎNG, DỄ CHÁY, N.O.S hoặc MERCAPTAN HỖN HỢP, DẠNG LỎNG, DỄ CHÁY, N.O.S | 3336 | 3 | 30 | III |  | FL | P001 IBC03 LP01 R001
+1208. | MÔI CHẤT LẠNH R 404A (Pentafloetan, 1,1,1 -trifloetan, và 1,1,1,2-tetrafloetan zeotropic hỗn hợp chứa khoảng 44% pentafloetan và 52% 1,1,1- trifloetan) | 3337 | 2 | 20 |  |  | AT | P200
+1209. | MÔI CHẤT LẠNH R 407A (diflometan, pentafloetan, và 1,1,1,2-tetrafloetan zeotropic hỗn hợp chứa khoảng 20% diflometan và 40% pentafloetan) | 3338 | 2 | 20 |  |  | AT | P200
+1210. | MÔI CHẤT LẠNH R 407B (diflometan, pentafloetan, và 1,1,1,2-tetrafloetan zeotropic hỗn hợp chứa khoảng 10% diflometan và 70% pentafloetan) | 3339 | 2 | 20 |  |  | AT | P200
+1211. | MÔI CHẤT LẠNH R 407C (diflometan, pentafloetan, và 1,1,1,2-tetrafloetan zeo tropic hỗn hợp chứa khoảng 23% diflometan và 25% pentafloetan) | 3340 | 2 | 20 |  |  | AT | P200
+1212. | NITƠ GLYXERIN HỖN HỢP, KHỬ NHẠY, DẠNG LỎNG, DỄ CHÁY, N.O.S. chứa ít hon 30% nitơ glyxerin theo khối lượng | 3343 | 3 |  |  |  |  | P099
+1213. | NITƠ GLYXERIN HỖN HỢP, KHỬ NHẠY, DẠNG LỎNG, N.O.S chứa ít hơn 30% nitơ glyxerin theo khối lượng | 3357 | 3 |  | II |  |  | P099
+1214. | MÁY LÀM LẠNH, chứa khí hóa lỏng, dễ cháy, không độc | 3358 | 2 |  |  |  |  | P003
+1215. | CLOSILAN, ĐỘC, ĂN MÒN, N.O.S. | 3361 | 6.1 | 68 | II | 1000 | AT | P010
+1216. | CLOSILAN, ĐỘC, ĂN MÒN, DỄ CHÁY, N.O.S. | 3362 | 6.1 | 638 | II | 1000 | FL | P010
+1217. | 2 -METYLBUTANAL | 3371 | 3 | 33 | II |  | FL | P001 IBC02 R001
+1218. | AXETYLEN, KHÔNG DUNG MÔI | 3374 | 2 |  |  |  |  | P200
+1219. | CHẤT NỔ KHỬ NHẠY, DẠNG LỎNG, N.O.S | 3379 | 3 |  |  |  |  | P099
+1220. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, N.O.S có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3381 | 6.1 | 66 | I | 1000 | AT | P601
+1221. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, N.O.S có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3382 | 6.1 | 66 | I | 1000 | AT | P602
+1222. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, DỄ CHÁY, N.O.S có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3383 | 6.1 | 663 | I | 1000 | FL | P601
+1223. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, DỄ CHÁY, N.O.S có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10LC50 | 3384 | 6.1 | 663 | I | 1000 | FL | P602
+1224. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S., có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3385 | 6.1 | 623 | I | 1000 | AT | P601
+1225. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, N.O.S., có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3386 | 6.1 | 623 | I | 1000 | AT | P602
+1226. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, ÔXI HÓA, N.O.S., có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3387 | 6.1 | 665 | I | 1000 | AT | P601
+1227. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HỒ HẤP, DẠNG LỎNG, ÔXI HÓA, N.O.S., có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3388 | 6.1 | 665 | I | 1000 | AT | P602
+1228. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, ĂN MÒN, N.O.S., có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3389 | 6.1 | 668 | I | 1000 | AT | P601
+1229. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, ĂN MÒN, N.O.S., có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3390 | 6.1 | 668 | I | 1000 | AT | P602
+1230. | CLONITROBENZEN, DẠNG LỎNG | 3409 | 6.1 | 60 | II |  | AT | P001 IBC02
+1231. | 4-CLO-o-TOLUIDIN HYDROCLORUA DUNG DỊCH | 3410 | 6.1 | 60 | III |  | AT | P001 IBC03 R001
+1232. | beta-NAPHTHYLAMIN DUNG DỊCH | 3411 | 6.1 | 60 | II |  | AT | P001 IBC02
+1233. | beta-NAPHTHYLAMIN DUNG DỊCH | 3411 | 6.1 | 60 | III |  | AT | P001 IBC02
+1234. | KALI XYANUA DUNG DỊCH | 3413 | 6.1 | 66 | I | 1000 | AT | P001
+1235. | KALI XYANUA DUNG DỊCH | 3413 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+1236. | KALI XYANUA DUNG DỊCH | 3413 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1237. | NATRI XYANUA DUNG DỊCH | 3414 | 6.1 | 66 | I | 1000 | AT | P001
+1238. | NATRI XYANUA DUNG DỊCH | 3414 | 6.1 | 60 | II | 1000 | AT | P001 IBC02
+1239. | NATRI XYANUA DUNG DỊCH | 3414 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1240. | NATRI FLORIT DUNG DỊCH | 3415 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001 P001 IBC02
+1241. | CLOACETO-PHENON, DẠNG LỎNG | 3416 | 6.1 | 60 | II |  | AT | 
+1242. | XYLYL BROMUA, DẠNG RẮN | 3417 | 6.1 | 60 | II |  | AT | P002 IBC08
+1243. | 2,4-TOLUYLENEDIAMIN DUNG DỊCH | 3418 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1244. | KALI FLORIT DUNG DỊCH | 3422 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1245. | AMONI DINITRO-o- CRESOLAT DUNG DỊCH | 3424 | 6.1 | 60 | II |  | AT | P001 IBC02
+1246. | AMONI DINITRO-o- CRESOLAT DUNG DỊCH | 3424 | 6.1 | 60 | III |  | AT | P001 IBC02
+1247. | ACRYLAMIT DUNG DỊCH | 3426 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1248. | CLOBENZYL CLORUA, DẠNG RẮN | 3427 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1249. | 3-CLO-4-METYLPHENYL ISOXYANAT, DẠNG RẮN | 3428 | 6.1 | 60 | II |  | AT | P002 IBC08
+1250. | CLOTOLUIDIN, DẠNG LỎNG | 3429 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1251. | XYLENOL, DẠNG LỎNG | 3430 | 6.1 | 60 | II |  | AT | P001 IBC02
+1252. | NITROBENZO-TRIFLORIT, DẠNG RẮN | 3431 | 6.1 | 60 | II |  | AT | P002 IBC08
+1253. | NITROCRESOL, DẠNG LỎNG | 3434 | 6.1 | 60 | III |  | AT | P001 IBC03 LP01 R001
+1254. | HEXAFLOAXETON HYDRAT, DẠNG RẮN | 3436 | 6.1 | 60 | II |  | AT | P002 IBC08
+1255. | CLOCRESOL, DẠNG RẮN | 3437 | 6.1 | 60 | II |  | AT | P002 IBC08
+1256. | CỒN alpha- METYLBENZYL, DẠNG RẮN | 3438 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1257. | NITRIL, DẠNG RẮN, ĐỘC, N.O.S | 3439 | 6.1 | 66 | 1 | 1000 | AT | P002 IBC07
+1258. | NITRIL, DẠNG RẮN, ĐỘC, N.O.S | 3439 | 6.1 | 60 | II |  | AT | P002 IBC08
+1259. | NITRIL, DẠNG RẮN, ĐỘC, N.O.S | 3439 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1260. | SELEN HỢP CHẤT, DẠNG LỎNG, N.O.S | 3440 | 6.1 | 66 | I | 1000 | AT | P001
+1261. | SELEN HỢP CHẤT, DẠNG LỎNG, N.O.S | 3440 | 6.1 | 60 | II |  | AT | P001 IBC02
+1262. | SELEN HỢP CHẤT, DẠNG LỎNG, N.O.S | 3440 | 6.1 | 60 | III |  | AT | P001 IBC03 R001
+1263. | CLODINITROBENZEN, DẠNG RẮN | 3441 | 6.1 | 60 | II |  | AT | P002 IBC08
+1264. | DICLOANILIN, DẠNG RẮN | 3442 | 6.1 | 60 | II |  | AT | P002 IBC08
+1265. | DINITROBENZEN, DẠNG RẮN | 3443 | 6.1 | 60 | II |  | AT | P002 IBC08
+1266. | NICOTIN HYDROCLORUA, DẠNG RẮN | 3444 | 6.1 | 60 | II |  | AT | P002 IBC08
+1267. | NICOTIN SUNPHAT, DẠNG RẮN | 3445 | 6.1 | 60 | II |  | AT | P002 IBC08
+1268. | NITROTOLUEN, DẠNG RẮN | 3446 | 6.1 | 60 | II |  | AT | P002 IBC08
+1269. | NITROXYLEN, DẠNG RẮN | 3447 | 6.1 | 60 | II |  | AT | P002 IBC08
+1270. | CHẤT KHÍ GÂY CHẢY NƯỚC MẮT, DẠNG RẮN, N.O.S | 3448 | 6.1 | 66 | I | 1000 | AT | P002
+1271. | CHẤT KHÍ GÂY CHẢY NƯỚC MẮT, DẠNG RẮN, N.O.S | 3448 | 6.1 | 60 | II | 1000 | AT | P002 IBC08
+1272. | BROMBENZYL XYANUA, DẠNG RẮN | 3449 | 6.1 | 66 | I | 1000 | AT | P002
+1273. | DIPHENYLCLO-ARSIN, DẠNG RẮN | 3450 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1274. | TOLUIDIN, DẠNG RẮN | 3451 | 6.1 | 60 | 11 |  | AT | P002 IBC08
+1275. | XYLIDIN, DẠNG RẮN | 3452 | 6.1 | 60 | II |  | AT | P002 IBC08
+1276. | DINITƠ TOLUEN, DẠNG RẮN | 3454 | 6.1 | 60 | II |  | AT | P002 IBC08
+1277. | CRESOL, DẠNG RẮN | 3455 | 6.1 | 68 | II |  | AT | P002 IBC08
+1278. | CLONITROTOLUEN, DẠNG RẮN | 3457 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1279. | NITROANISOL, DẠNG RẮN | 3458 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1280. | NITROBROMBENZEN, DẠNG RẮN | 3459 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1281. | N-ETYLBENZYL- TOLUIDIN, DẠNG RẮN | 3460 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1282. | CHẤT ĐỘC, CHIẾT XUẤT TỪ SẢN PHẨM SỐNG, DẠNG RẮN, N.O.S | 3462 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1283. | CHẤT ĐỘC, CHIẾT XUẤT TỪ SẢN PHẨM SỐNG, DẠNG RẮN, N.O.S | 3462 | 6.1 | 60 | II |  | AT | P002 IBC08
+1284. | CHẤT ĐỘC, CHIẾT XUẤT TỪ SẢN PHẨM SỐNG, DẠNG RẮN, N.O.S | 3462 | 6.1 | 60 | III |  | AT | P002 IBC08 R001
+1285. | ORGANOPHOTPHO HỢP CHẤT, DẠNG RẮN, ĐỘC, N.O.S | 3464 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1286. | ORGANOPHOTPHO HỢP CHẤT, DẠNG RẮN, ĐỘC, N.O.S | 3464 | 6.1 | 60 | II |  | AT | P002 IBC08
+1287. | ORGANOPHOTPHO HỢP CHẤT, DẠNG RẮN, ĐỘC, N.O.S | 3464 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1288. | ORGANOARSEN IC HỢP CHẤT, DẠNG RẮN, N.O.S | 3465 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1289. | ORGANOARSENIC HỢP CHẤT, DẠNG RẮN, N.O.S | 3465 | 6.1 | 60 | II |  | AT | P002 IBC08
+1290. | ORGANOARSENIC HỢP CHẤT, DẠNG RẮN, N.O.S. | 3465 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1291. | CACBONYL KIM LOẠI, CHẤT RẮN, N.O.S. | 3466 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1292. | CACBONYL KIM LOẠI, CHẤT RẮN, N.O.S | 3466 | 6.1 | 60 | II |  | AT | P002 IBC08
+1293. | CACBONYL KIM LOẠI, CHẤT RẮN, N.O.S | 3466 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1294. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG RẮN, ĐỘC, N.O.S. | 3467 | 6.1 | 66 | I | 1000 | AT | P002 IBC07
+1295. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG RẮN, ĐỘC, N.O.S. | 3467 | 6.1 | 60 | II |  | AT | P002 IBC08
+1296. | HỢP CHẤT HỮU CƠ KIM LOẠI, DẠNG RẮN, ĐỘC, N.O.S. | 3467 | 6.1 | 60 | III |  | AT | P002 IBC08 LP02 R001
+1297. | HYDRO TRONG HỆ THỐNG TRỮ HYDRUA KIM LOẠI hoặc HYDRO TRONG HỆ THỐNG TRỮ HYDRUA KIM LOẠI có TRONG THIẾT BỊ hoặc HYDRO TRONG HỆ THỐNG TRỮ HYDRUA KIM LOẠI ĐÓNG GÓI KÈM THEO THIẾT BỊ | 3468 | 2 |  |  | 1000 |  | P205
+1298. | SƠN, DỄ CHÁY, ĂN MÒN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN, DỄ CHÁY, ĂN MÒN (gồm hợp chất làm giảm nồng độ hoặc pha loãng sơn) | 3469 | 3 | 338 | I |  | FL | P001
+1299. | SƠN, DỄ CHÁY, ĂN MÒN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIỆU LÀM SƠN, DỄ CHÁY, ĂN MÒN (gồm hợp chất làm giảm nồng độ hoặc pha loãng sơn) | 3469 | 3 | 338 | II |  | FL | P001 IBC02
+1300. | SƠN, DỄ CHÁY, ĂN MÒN (gồm sơn, sơn mài, sơn dầu, chất nhuộm màu, senlac, vécni, dầu đánh bóng, chất trám dạng lỏng và sơn gốc dầu dạng lỏng) hoặc VẬT LIÊU LÀM SƠN, DỄ CHÁY, ĂN MÒN (gồm hợp chất làm giảm nồng độ hoặc pha loãng sơn) | 3469 | 3 | 38 | III |  | FL | P001 IBC03 R001
+1301. | BÌNH CHỨA PIN NHIÊN LIỆU hoặc BÌNH CHỨA PIN NHIÊN LIỆU TRONG THIẾT BỊ hoặc BÌNH CHỨA PIN NHIÊN LIỆU ĐÓNG GÓI VỚI THIẾT BỊ chứa chất lỏng dễ cháy | 3473 | 3 |  |  |  |  | P004
+1302. | HỖN HỢP ETANON VÀ XĂNG hoặc HỖN HỢP ETANON VÀ NHIÊU LIỆU ĐỘNG CƠ hoặc HỖN HỢP ETANON VÀ DẦU, chứa hơn 10% etanon | 3475 | 3 | 33 | II |  | FL | P001 IBC02
+1303. | BÌNH CHỨA PIN NHIÊN LIỆU hoặc BÌNH CHỨA PIN NHIÊN LIỆU TRONG THIẾT BỊ hoặc BÌNH CHỨA PIN NHIÊN LIỆU ĐÓNG GÓI VỚI THIẾT BỊ, chứa khí dễ cháy hóa lỏng | 3478 | 2 |  |  |  |  | P004
+1304. | BÌNH CHỨA PIN NHIÊN LIỆU hoặc BÌNH CHỨA PIN NHIÊN LIỆU TRONG THIẾT BỊ hoặc BÌNH CHỨA PIN NHIÊN LIỆU ĐÓNG GÓI VỚI THIẾT BỊ, chứa hydro trong hydrua kim loại | 3479 | 2 |  |  |  |  | P004
+1305. | HỖN HỢP PHỤ GIA CHỐNG KÍCH NỔ NHIÊN LIỆU ĐỘNG CƠ, DỄ CHÁY | 3483 | 6.1 | 663 | I | 1000 | FL | P602
+1306. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, DỄ CHÁY, ĂN MÒN, N.O.S., có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3488 | 6.1 | 663 | I | 1000 | FL | P601
+1307. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, DỄ CHÁY, ĂN MÒN, N.O.S., có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3489 | 6.1 | 663 | I | 1000 | FL | P602
+1308. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, DỄ CHÁY, N.O.S., có LC50 thấp hơn hoặc bằng 200 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 500 LC50 | 3490 | 6.1 | 623 | I | 1000 | FL | P601
+1309. | CHẤT ĐỘC XÂM NHẬP QUA ĐƯỜNG HÔ HẤP, DẠNG LỎNG, CÓ KHẢ NĂNG KẾT HỢP VỚI NƯỚC, DỄ CHÁY, N.O.S., có LC50 thấp hơn hoặc bằng 1000 ml/m3 và nồng độ hơi bão hòa lớn hơn hoặc bằng 10 LC50 | 3491 | 6.1 | 623 | I | 1000 | FL | P602
+1310. | DẦU THÔ NHIỀU LƯU HUỲNH, DỄ CHÁY, ĐỘC | 3494 | 3 | 336 | I |  | FL | P001
+1311. | DẦU THÔ NHIỀU LƯU HUỲNH, DỄ CHÁY, ĐỘC | 3494 | 3 | 336 | II |  | FL | P001 IBC02
+1312. | DẦU THÔ NHIỀU LƯU HUỲNH, DỄ CHÁY, ĐỘC | 3494 | 3 | 36 | III |  | FL | P001 IBC03 R001
+1313. | HÓA CHẤT CHỊU ÁP, N.O.S | 3500 | 2 | 20 |  |  | AT | P206
+1314. | HÓA CHẤT CHỊU ÁP, DỄ CHÁY, N.O.S | 3501 | 2 | 23 |  |  | FL | P206
+1315. | HÓA CHẤT CHỊU ÁP, ĐỘC, N.O.S | 3502 | 2 | 26 |  |  | AT | P206
+1316. | HÓA CHẤT CHỊU ÁP, ĂN MÒN, N.O.S | 3503 | 2 | 28 |  |  | AT | P206
+1317. | HÓA CHẤT CHỊU ÁP, DỄ CHÁY, ĐỘC, N.O.S | 3504 | 2 | 263 |  |  | FL | P206
+1318. | HÓA CHẤT CHỊU ÁP, DỄ CHÁY, ĂN MÒN, N.O.S | 3505 | 2 | 238 |  |  | FL | P206
+1319. | URANI HEXAFLORIT, VẬT LIỆU PHÓNG XẠ, KIỆN HÀNG MIỄN TRỪ, số lượng dưới 0,1 kg mỗi kiện, phân hạch hoặc không phân hạch-được miễn trừ | 3507 | 6.1 |  | I |  |  | P603
+1320. | KHÍ HÚT BÁM, DỄ CHÁY, N.O.S | 3510 | 2 |  |  | 3000 |  | P208
+1321. | KHÍ HÚT BÁM, N.O.S | 3511 | 2 |  |  |  |  | P208
+1322. | KHÍ HÚT BÁM, ĐỘC, N.O.S | 3512 | 2 |  |  | 25 |  | P208
+1323. | KHÍ HÚT BÁM, ÔXY HÓA, N.O.S | 3513 | 2 |  |  | 3000 |  | P208
+1324. | KHÍ HÚT BÁM, ĐỘC, DỄ CHÁY, N.O.S | 3514 | 2 |  |  | 25 |  | P208
+1325. | KHÍ HÚT BÁM, ĐỘC, ÔXY HÓA, N.O.S | 3515 | 2 |  |  | 25 |  | P208
+1326. | KHÍ HÚT BÁM, ĐỘC, ĂN MÒN, N.O.S | 3516 | 2 |  |  | 25 |  | P208
+1327. | KHÍ HÚT BÁM, ĐỘC, DỄ CHÁY, ĂN MÒN, N.O.S. | 3517 | 2 |  |  | 25 |  | P208
+1328. | KHÍ HÚT BÁM, ĐỘC, ÔXY HÓA, ĂN MÒN, N.O.S. | 3518 | 2 |  |  | 25 |  | P208
+1329. | BO TRIFLORUA, BỊ HẤP THỤ | 3519 | 2 |  |  | 50 |  | P208
+1330. | CLO, BỊ HẤP THỤ | 3520 | 2 |  |  | 500 |  | P208
+1331. | SILICON TETRAFLORIT, BỊ HẤP THỤ | 3521 | 2 |  |  | 25 |  | P208
+1332. | ARSIN, BỊ HẤP THỤ | 3522 | 2 |  |  | 25 |  | P208
+1333. | GERMANE, BỊ HẤP THỤ | 3523 | 2 |  |  | 25 |  | P208
+1334. | PHOTPHO PENTAFLORIT, BỊ HẤP THỤ | 3524 | 2 |  |  | 25 |  | P208
+1335. | PHOTPHIN, BỊ HẤP THỤ | 3525 | 2 |  |  | 25 |  | P208
+1336. | HYDRO SELENUA, BỊ HẤP THỤ | 3526 | 2 |  |  | 25 |  | P208
+
+Ghi chú:
+- Danh mục này không quy định đối với các hàng hóa nguy hiểm thuộc hóa chất bảo vệ thực vật, hóa chất sử dụng trong lĩnh vực y tế, diệt côn trùng, diệt khuẩn trong lĩnh vực gia dụng.
+- Đơn vị tính ngưỡng khối lượng cần xây dựng phương án ứng cứu khẩn cấp (cột 7) là kg (đối với chất rắn), lít (đối với chất lỏng), lít (dung tích phương tiện chứa đối với chất khí).
+
+PHỤ LỤC II
+PHÂN LOẠI MỨC ĐÓNG GÓI HÀNG HÓA NGUY HIỂM
+(Kèm theo Thông tư số     /2020/TT-BCT ngày    tháng    năm 2020 của Bộ trưởng Bộ Công Thương)
+1. Chất lỏng dễ cháy
+a) Chất lỏng dễ cháy được đóng gói theo quy định sau đây:
+
+Nhóm đóng gói | Nhiệt độ chớp cháy cốc kín | Điểm sôi bắt đầu
+I | - | ≤ 35°C
+II | ≤ 23°C | > 35°C
+III | ≥ 23°C ≤ 60°C | > 35°C
+
+Đối với chất lỏng có rủi ro phụ, nhóm đóng gói được căn cứ vào bảng trên và tính nghiêm trọng của rủi ro phụ.
+b) Chất lỏng và hỗn hợp chất dẻo bao gồm hồn hợp chứa nhỏ hơn 20% Nitrocellulose với Nitơ không vượt quá 12,6% khối lượng được xếp vào nhóm đóng gói III với các yêu cầu sau:
+- Chiều cao của lóp không hòa tan nhỏ hơn hoặc bằng 3% chiều cao của hỗn hợp chất.
+- Độ nhớt và nhiệt độ chớp cháy tuân theo bảng sau:
+
+Độ nhớt động học ở 23°C (mm2/s) | Thời gian chảy theo quy định tại ISO 2431:1993 | Nhiệt độ chớp cháy (°C)
+ | Thời gian (s) | Đường kính ống (mm) | 
+20 < v ≤ 80 | 20 < t ≤ 60 | 4 | > 17
+80 < v ≤ 135 | 60 < t ≤ 100 | 4 | > 10
+135 < v ≤ 220 | 20 < t ≤ 32 | 6 | > 5
+220 < v ≤ 300 | 32 < t ≤ 44 | 6 | > -1
+300 < v ≤ 700 | 44 < t ≤ 100 | 6 | > -5
+700 < v | 100 < t | 6 | ≤ - 5
+
+Ghi chú: Hỗn hợp chất có 20% < Nitrocellulose < 55% với Nitơ không vượt quá 12,6% khối lượng được xếp vào chất có số UN 2059.
+Các hợp chất có nhiệt độ chớp cháy nhỏ hơn 23°C có chứa:
++ Lớn hơn 55% Nitrocellulose với bất kỳ hàm lượng Nitơ.
++ Nhỏ hơn 55% Nitrocellulose với Nitơ không vượt quá 12,6% khối lượng được xếp loại vào chất có số UN 0340 hoặc UN 0342 hoặc UN 2555 hoặc UN 2556 hoặc UN 2557.
+2. Chất rắn dễ cháy được thử nghiệm theo phương pháp mô tả tại Phần III, tiểu mục 33.2.1 Sách hướng thử nghiệm và tiêu chuẩn (Khuyến cáo Liên hợp quốc về vận chuyển hàng hoá nguy hiểm), được phân loại đóng gói như sau:
+a) Đốt cháy chất rắn dễ cháy thời gian nhỏ hơn 45 giây với khoảng cách 100 mm
+- Đóng gói mức II (PGII) đối với chất cháy qua vùng ẩm.
+- Đóng gói mức III (PG III) đối với chất không cháy qua vùng ẩm trong thời gian tối thiểu 4 phút.
+b) Bột kim loại hoặc hỗn hợp kim loại
+- Đóng gói mức II (PG II) đối với chất cháy qua chiều dài thử nghiệm trong thời gian nhỏ hơn hoặc bằng 5 phút.
+- Đóng gói mức III (PG III) đối với chất cháy qua chiều dài mẫu thử lớn hơn 5 phút.
+3. Chất dễ tự bốc cháy được phân loại đóng gói I, II, III theo quy định sau:
+- Đóng gói mức I (PG I) đối với chất có khả năng tự cháy.
+- Đóng gói mức II (PG II) đối với chất tự cháy hoặc tăng nhiệt độ lên hơn 200°C trong vòng 24 giờ với mẫu thử 2,5 cm3 tại nhiệt độ thử là 140°C hoặc là các chất tự cháy tại nhiệt độ 50°C với thể tích là 450 lít.
+- Đóng gói mức III (PG III) đối với chất tự cháy hoặc tăng nhiệt độ lên hơn 200°C trong vòng 24 giờ với mẫu thử 10 cm3 tại nhiệt độ thử là 140°C.
+4. Chất phát ra khí dễ cháy khi gặp nước được phân loại đóng gói I, II, III theo quy định sau:
+- Đóng gói mức I (PG I) đối với chất phản ứng mãnh liệt với nước ở nhiệt độ môi trường và thường có xu hướng khí tạo thành tự bắt cháy hoặc phản ứng dễ dàng với nước ở nhiệt độ môi trường mà tốc độ giải phóng khí dễ cháy lớn hơn hoặc bằng 10 lit/kg hợp chất trong mỗi phút.
+- Đóng gói mức II (PG II) đối với chất phản ứng dễ dàng với nước ở nhiệt độ môi trường và tốc độ giải phóng khí lớn hơn hoặc bằng 20 lít/kg hợp chất mỗi giờ và không thuộc đóng gói nhóm I.
+- Đóng gói mức III (PG III) đối với chất phản ứng chậm với nước ở nhiệt độ môi trường và tốc độ giải phóng khí lớn hơn hoặc bằng 1 lít/kg hợp chất trong một giờ và không thuộc đóng gói mức I, II.
+
+PHỤ LỤC III
+YÊU CẦU VỀ PHƯƠNG TIỆN CHỨA HÀNG HÓA NGUY HIỂM
+(Kèm theo Thông tư số     /2020/TT-BCT ngày    tháng    năm 2020 của Bộ trưởng Bộ Công Thương)
+I. YÊU CẦU CHUNG
+1. Hàng hóa nguy hiểm phải được đóng gói trong các phương tiện chứa đủ vững chắc để có thể chịu được những va chạm và tác động của thời tiết trong quá trình vận chuyển, chuyển tiếp hàng hoá giữa các phương tiện và xếp dỡ vào kho tàng bằng thủ công hoặc thiết bị cơ giới. Phương tiện chứa phải đảm bảo kết cấu đủ kín để hàng hóa bên trong không bị thất thoát trong quá trình chuẩn bị vận chuyển hoặc khi vận chuyển với các tác động như rung lắc, tăng nhiệt độ, độ ẩm và áp suất.
+2. Các phần tiếp xúc với hàng hóa nguy hiểm của phương tiện chứa phải đảm bảo:
+a) Không bị ảnh hưởng hay bị suy giảm chất lượng do tác động của loại hàng đóng gói bên trong.
+b) Không phản ứng hoặc làm xúc tác phản ứng với các loại hàng mà nó bao gói.
+c) Cho phép dùng lớp lót trơ thích hợp để làm lớp lót bảo vệ, cách ly bao gói với loại hàng đóng gói bên trong.
+3. Khi đóng gói chất lỏng, cần để lại khoảng không gian cần thiết để đảm bảo bao gói không bị rò rỉ hay biến dạng xảy ra vì sự tăng thể tích của các chất lỏng được bao gói khi nhiệt độ tăng trong quá trình vận chuyển. Nếu việc đóng gói chất lỏng diễn ra ở 50°C, thì chỉ được phép nạp tối đa 98% thể tích của đơn vị bao gói. Khi đóng gói chất lỏng ở nhiệt độ 15°C, mức độ nạp chất lỏng vào đơn vị bao gói cần tính toán theo bảng sau:
+
+Nhiêt đô sôi (°C) | <60 | ≥60 <100 | ≥100 <200 | ≥200 <300 | ≥300
+Mức độ nạp (Phần trăm thể tích bình chứa) | 90 | 92 | 94 | 96 | 98
+
+4. Các lớp bao gói trong, khi hàng hóa nguy hiểm được đóng gói hai lớp phải đảm bảo sao cho trong điều kiện vận chuyển bình thường, không bị vỡ, đâm thủng hoặc rò rỉ các chất được bao gói ra lớp bao gói bên ngoài.
+5. Các loại bao gói bên trong thuộc dạng dễ bị vỡ hoặc đâm thủng như các loại thuỷ tinh, sành sứ hoặc một số loại nhựa nhât định... cân phải được chèn cố định với lớp bao gói ngoài bằng các vật liệu chèn, đệm giảm chấn động thích hợp có tính trơ đối với hàng hóa nguy hiểm được bao gói.
+6. Không đóng gói trong cùng một bao gói ngoài hoặc trong cùng thùng chứa, côngtenơ các bao gói trong chứa hàng hóa nguy hiểm thuộc các nhóm khác nhau có thể phản ứng với nhau và gây ra các hiện tượng:
+a) Bùng cháy hoặc phát nhiệt lớn.
+b) Phát nhiệt hoặc bùng cháy tạo hơi ngạt, ô xy hoá hay khí độc.
+c) Tạo ra chất có tính ăn mòn mạnh.
+d) Tạo ra các chất không bền.
+7. Độ kín của phương tiện chứa các chất được làm ẩm hoặc pha loãng phải đủ kín để đảm bảo trong quá trình vận chuyển hàm lượng chất lỏng làm ẩm hoặc pha loãng không xuống thấp dưới mức giới hạn.
+8. Hàng hóa nguy hiểm có khả năng sinh khí làm tăng áp suất bên trong phương tiện chứa phải có cơ cấu thông hơi gắn trên nắp phương tiện chứa nếu hơi thoát ra không gây nguy hiểm độc, cháy nổ và khối lượng khí thoát ra ở mức nhỏ không gây nguy hiểm. Cơ cấu thoát khí cần phải thiết kế sao cho không gây ra rò rỉ các chất được bao gói cũng như không cho phép các vật lạ xâm nhập vào bên trong trong quá trình vận chuyển bình thường.
+9. Các loại thùng chứa, bao gói rỗng đã chứa đựng hàng hóa nguy hiểm cần phải được quản lý như bao gói đang chứa hàng hóa nguy hiểm.
+10. Các phương tiện chứa chất lỏng, khí nguy hiểm đều phải thử nghiệm độ rò rỉ trước khi sử dụng.
+11. Phương tiện chứa hàng hóa nguy hiểm dạng rắn có khả năng chuyển đổi thành trạng thái lỏng trong quá trình vận chuyển cần phải được chế tạo theo tiêu chuẩn chứa hàng hóa nguy hiểm ở trạng thái lỏng. Các chất có điểm chảy bằng hoặc thấp hơn 45°C được coi là các chất có khả năng thay đổi trạng thái thành chất lỏng.
+12. Phương tiện chứa hàng hóa nguy hiểm dạng hạt hay bột cần phải đủ kín để tránh rơi lọt hoặc cần có các lớp đệm lót kín.
+13. Các phương tiện chứa được chế tạo để đóng gói hàng hóa nguy hiểm ở mức đóng gói cao được phép sử dụng để đóng gói hàng hóa nguy hiểm ở mức đóng gói thấp hơn.
+14. Các bao gói được chế tạo mới hay tái chế, sử dụng lại phải đảm bảo được các yêu cầu kỹ thuật và định kỳ thử nghiệm, kiểm tra theo quy định. Việc sử dụng lại các bao gói, thùng chứa phải tuân thủ các yêu cầu sau:
+- Không sử dụng các loại bao gói bằng nhựa quá 5 năm kể từ ngày sản xuất để đóng gói, vận chuyển hàng hóa nguy hiểm; không sử dụng lại các loại bao gói, thùng chứa bằng nhựa để đóng gói, vận chuyển hàng hóa nguy hiểm có mức đóng gói PGI.
+- Không sử dụng lại các loại bao gói, thùng chứa có dấu hiệu hư hỏng, rạn nứt. Các loại bao gói, thùng chứa có nắp thông hơi, khi sử dụng lại phải thay mới cơ cấu thông hơi.
+15. Các loại hàng hóa nguy hiểm có khả năng phản ứng với nhau không được chở chung trên cùng một phương tiện. Bảng sau đây chỉ dẫn những hàng hóa nguy hiểm được chuyên chở trên cùng phương tiện:
+
+ | 2.1 2.2 2.3 | 3 | 4.1 | 4.1+1 | 4.2 | 4.3 | 5.1 | 5.2 | 5.2+1 | 6.1 | 6.2 | 7A, B,C | 8 | 9
+2.1 2.2 2.3 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+3 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+4.1 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+4.1+1 |  |  |  | X |  |  |  |  |  |  |  |  |  | 
+4.2 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+4.3 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+5.1 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+5.2 | X | X | X |  | X | X | X | X | X | X | X | X | X | X
+5.2+1 |  |  |  |  |  |  |  |  | X |  |  |  |  | 
+6.1 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+6.2 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+7
+A,B,C | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+8 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+9 | X | X | X |  | X | X | X | X |  | X | X | X | X | X
+
+Các dấu (X) là dấu hiệu cho phép được thực hiện
+II. CHI TIẾT VỀ YÊU CẦU ĐÓNG GÓI
+1. Yêu cầu đóng gói loại P001
+
+Đóng kiện | Khối lượng tối đa cho một kiện hàng (kg)
+Bao gói trong và vật liệu bao gói | Bao gói ngoài và vật liệu bao gói | Nhóm rất nguy hiểm (I) | Nhóm nguy hiểm (II) | Nhóm nguy hiểm thấp (III)
+Thủy tinh 10 lít | Thùng trònb |  |  | 
+Nhựa 30 lít | Sắt | 250 kg | 400 kg | 400 kg
+Kim loại 40 lít | Nhôm | 250 kg | 400 kg | 400 kg
+ | Kim loại khác | 250 kg | 400 kg | 400 kg
+ | Nhựa | 250 kg | 400 kg | 400 kg
+ | Gỗ dán | 150 kg | 400 kg | 400 kg
+ | Xơ ép (fibre) | 75 kg | 400 kg | 400 kg
+ | Hộp |  |  | 
+ | Sắt | 250 kg | 400 kg | 400 kg
+ | Nhôm | 250 kg | 400 kg | 400 kg
+ | Gỗ tự nhiên | 150 kg | 400 kg | 400 kg
+ | Gỗ dán | 150 kg | 400 kg | 400 kg
+ | Gỗ tái chế | 75 kg | 400 kg | 400 kg
+ | Tấm xơ ép (fibreboard) | 75 kg | 400 kg | 400 kg
+ | Nhựa dẻo | 60 kg | 60 kg | 60 kg
+ | Nhựa cứng | 150 kg | 400 kg | 400 kg
+ | Can (Jerrican)c |  |  | 
+ | Sắt | 120 kg | 120 kg | 120 kg
+ | Nhôm | 120 kg | 120 kg | 120 kg
+ | Nhựa | 120 kg | 120 kg | 120 kg
+Đóng thùng đơn
+Dạng thùng tròn |  |  | 
+Bằng thép, nắp liền | 250 lít | 450 lít | 450 lít
+Bằng thép, nắp rời | 250 lít a | 450 lít | 450 lít
+Bằng nhôm, nắp liền | 250 lít | 450 lít | 450 lít
+Bằng nhôm, nắp rời | 250 lít a | 450 lít | 450 lít
+Kim loại khác, nắp liền | 250 lít | 450 lít | 450 lít
+Kim loại khác, nắp rời | 250 lít a | 450 lít | 450 lít
+Nhựa, nắp liền | 250 lít | 450 lít | 450 lít
+Nhựa, nắp rời | 250 lít a | 450 lít | 450 lít
+Can |  |  | 
+Bằng thép, nắp liền | 60 lít | 60 lít | 60 lít
+Bằng thép, nắp rời | 60 lít a | 60 lít | 60 lít
+Bằng nhôm, nắp liền | 60 lít | 60 lít | 60 lít
+Bằng nhôm, nắp rời | 60 lít a | 60 lít | 60 lít
+Nhựa, nắp liền | 60 lít | 60 lít | 60 lít
+Nhựa, nắp rời | 60 lít8 | 60 lít | 60 lít
+Bao gói hỗn hợp
+Chai nhựa, bao gói ngoài là thùng tròn bằng thép hoặc nhôm | 250 lít | 250 lít | 250 lít
+Chai nhựa, bao gói ngoài là thùng tròn bằng xơ ép, nhựa hoặc gỗ dán | 120 lít | 250 lít | 250 lít
+Chai nhựa, bao gói ngoài là thùng thưa bằng thép hoặc nhôm; Hộp hoặc thùng chứa bằng nhựa, bao gói ngoài bằng gỗ, gỗ dán, tấm xơ ép hoặc hộp nhựa cứng | 60 lít | 60 lít | 60 lít
+Chai thủy tinh, bao gói ngoài là thùng tròn bằng thép, tấm xơ ép, gỗ dán, nhựa đặc hoặc bao gói ngoài là thùng thưa bằng thép, nhôm, gỗ hoặc bao ngoài bằng giỏ mây | 60 lít | 60 lít | 60 lít
+a Chỉ áp dụng với các chất có độ nhớt lớn hơn 2680 mm2/s. b Thùng tròn: Bao gói hình trụ có đáy phẳng hoặc đáy lồi làm bằng kim loại, nhựa, gỗ dán hoặc các loại phù hợp khác. Nó cũng bao gồm các bao gói có hình dạng khác, ví dụ. bao gói tròn, thuôn hoặc dạng xô. Không bao gồm thùng gỗ (wooden barrel) và can (jerrican). c Can (Jerrican): bao gói bằng kim loại hoặc nhựa có mặt cắt ngang hình chữ nhật hoặc đa giác với một hoặc nhiều miệng nắp.
+
+2. Yêu cầu đóng gói loại P002
+
+Đóng kiện | Khối lượng tối đa cho một kiện hàng (kg)
+Bao gói trong và vật liệu bao gói | Bao gói ngoài và vật liệu bao gói | Nhóm rất nguy hiểm (I) | Nhóm nguy hiểm (II) | Nhóm nguy hiểm thấp (III)
+ | Thùng tròn |  |  | 
+Thủy tinh	10 kg | Thép | 400 kg | 400 kg | 400 kg
+Nhựa a	50 kg | Nhôm | 400 kg | 400 kg | 400 kg
+Kim loại	50 kg | Kim loại khác thép hoặc nhôm | 400 kg | 400 kg | 400 kg
+Giấy a,b,c	50 kg | Nhựa | 400 kg | 400 kg | 400 kg
+Xơ ép a,b,c	50 kg | Gỗ dán | 400 kg | 400 kg | 400 kg
+ | Xơ ép (fibre) | 400 kg | 400 kg | 400 kg
+ | Hộp |  |  | 
+ | Thép | 400 kg | 400 kg | 400 kg
+ | Nhôm | 400 kg | 400 kg | 400 kg
+ | Kim loại khác thép hoặc nhôm | 400 kg | 400 kg | 400 kg
+ | Gỗ tự nhiên | 250 kg | 400 kg | 400 kg
+ | Gỗ tự nhiên có lớp chống lọt bột | 250 kg | 400 kg | 400 kg
+ | Gỗ dán | 250 kg | 400 kg | 400 kg
+ | Gỗ tái chế | 125 kg | 400 kg | 400 kg
+ | Tấm xơ ép | 125 kg | 400 kg | 400 kg
+ | Nhựa mềm | 60 kg | 60 kg | 60 kg
+ | Nhựa cứng | 250 kg | 400 kg | 400 kg
+ | Can |  |  | 
+ | Thép | 120 kg | 120 kg | 120 kg
+ | Nhôm | 120 kg | 120 kg | 120 kg
+ | Nhựa | 120 kg | 120 kg | 120 kg
+Đóng gói đơn
+Thùng tròn |  |  | 
+Thép | 400 kg | 400 kg | 400 kg
+Nhôm | 400 kg | 400 kg | 400 kg
+Kim loại khác thép hoặc nhôm | 400 kg | 400 kg | 400 kg
+Nhựa d | 400 kg | 400 kg | 400 kg
+Xơ ép d | 400 kg | 400 kg | 400 kg
+Gỗ dán d | 400 kg | 400 kg | 400 kg
+Can |  |  | 
+Thép | 120 kg | 120 kg | 120 kg
+Nhôm | 120 kg | 120 kg | 120 kg
+Nhựa | 120 kg | 120 kg | 120 kg
+Hộp |  |  | 
+Thép | Không cho phép | 400 kg | 400 kg
+Nhôm | Không cho phép | 400 kg | 400 kg
+Gỗ tự nhiên | Không cho phép | 400 kg | 400 kg
+Gỗ dán | Không cho phép | 400 kg | 400 kg
+Gỗ tái chế d | Không cho phép | 400 kg | 400 kg
+Gỗ tự nhiên có lớp chống lọt bột d | Không cho phép | 400 kg | 400 kg
+Tấm xơ ép d | Không cho phép | 400 kg | 400 kg
+Nhựa cứng d | Không cho phép | 400 kg | 400 kg
+Túi |  |  | 
+Túi d | Không cho phép | 50 kg | 50 kg
+Bao gói hỗn hợp
+Chai nhựa, bao gói ngoài là thùng tròn bằng thép, nhôm, gỗ dán, xơ ép hoặc nhựa. | 400 kg | 400 kg | 400 kg
+Chai nhựa, bao gói ngoài là thùng thưa hoặc hộp bằng thép, nhôm, hộp gỗ, gỗ dán, tấm xơ ép, nhựa cứng. | 75 kg | 75 kg | 75 kg
+Chai thủy tinh, bao gói ngoài là thùng tròn bằng thép, nhôm, tấm xơ ép hoặc thùng thưa bằng thép, nhôm hoặc hộp gỗ, giỏ đan, nhựa cứng, nhựa mềm. | 75 kg | 75 kg | 75 kg
+Bình chịu áp.
+a bao gói trong có lớp chống lọt. b bao gói trong không được sử dụng khi chứa chất có thể chuyển thành chất lỏng khi vận chuyển. c bao gói trong không được sử dụng cho chất đóng gói nhóm I. d Đóng gói không được sử dụng cho chất có thể thành chất lỏng khi vận chuyển
+
+3. Yêu cầu đóng gói loại P003
+Hàng hóa nguy hiểm phải được đặt trong bao gói bên ngoài phù hợp. Phải sử dụng các bao gói bên ngoài làm bằng vật liệu thích hợp, có độ bền và thiết kế phù hợp với khả năng đóng gói và mục đích sử dụng của nó. Trường hợp yêu cầu đóng gói này được sử dụng để vận chuyển các sản phẩm hoặc các bao gói bên trong của bao gói hỗn hợp, bao gói phải được thiết kế và kết cấu để ngăn ngừa việc đổ hàng trong điều kiện vận chuyển bình thường.
+4. Yêu cầu đóng gói loại P004
+Yêu cầu áp dụng cho UN 3473, 3476, 3477, 3478 và 3479.
+Đóng gói cho các thùng tròn, hộp, bình đối với các hộp pin nhiên liệu, các hộp pin nhiên liệu được đóng gói với thiết bị hoặc chứa trong thiết bị.
+5. Yêu cầu đóng gói loại P010
+
+Bao gói trong | Bao gói ngoài | Khối lượng tối đa
+Thủy tinh 1 l | Thùng tròn | 
+Thép 40 l | Thép | 400 kg
+ | Nhựa | 400 kg
+ | Gỗ dán | 400 kg
+ | Xơ ép | 400 kg
+ | Hộp | 
+ | Thép | 400 kg
+ | Gỗ tự nhiên | 400 kg
+ | Gỗ dán | 400 kg
+ | Gỗ hoàn nguyên | 400 kg
+ | Ván xơ ép | 400 kg
+ | Nhựa giãn nở | 60 kg
+ | Nhựa rắn | 400 kg
+Bao gói đơn | Khối lượng tối đa
+Thùng tròn | 
+thép, đầu không tháo rời | 450 l
+Bình chứa | 
+thép, đầu không tháo rời | 60 l
+Bao gói hỗn hợp | 
+Bình nhựa trong các thùng tròn bằng thép | 250 l
+Bình chịu áp bằng thép
+
+6. Yêu cầu đóng gói loại P200
+a) Đóng gói loại P200 (trừ axetylen và khí đốt hoá lỏng) theo tiêu chuẩn đóng gói TCVN 6714:2000 - Chai chứa khí hóa lỏng (trừ Axetylen và khí đốt hóa lỏng) - Kiểm tra tại thời điểm nạp khí.
+b) Đóng gói axetylen hoà tan tuân thủ theo TCVN 6871:2007, TCVN 5331-91, TCVN 7052-1:2002 và TCVN 7052-2:2002.
+c) Đối với các loại chai chứa khí, khí hóa lỏng, khí hòa tan loại khác, việc đóng gói, chế tạo, thử nghiệm và kiểm định tuân theo các tiêu chuẩn, quy chuẩn kỹ thuật hiện hành.
+7. Yêu cầu đóng gói loại P201
+Yêu cầu này áp dụng đối với UN 3167, 3168 and 3169.
+Các đóng gói sau đây được chấp nhận:
+a) Bao gói bên ngoài
+- Các chai và các bình chứa khí tuân thủ với yêu cầu chế tạo, thử nghiệm và nạp.
+- Các bao gói hỗn hợp sau đây với điều kiện đáp ứng các quy định phần yêu cầu chung:
++ Thùng tròn.
++ Hộp.
++ Can.
+b) Bao gói bên trong
+- Đối với khí không độc, bao gói bên trong bằng thủy tinh hoặc kim loại được hàn kín có dung tích tối đa là 5 lít/bao gói.
+- Đối với khí độc, các bao gói bên trong bằng thủy tinh hoặc kim loại được hàn kín có dung tích tối đa là 1 lít /bao gói.
+Bao gói phải phù hợp với mức nhóm đóng gói III.
+8. Yêu cầu đóng gói loại P203
+Đóng gói cho các loại bình chứa lạnh cryo kín, bình chứa lạnh cryo hở. Áp dụng cho khí hóa lỏng được làm lạnh loại 2.
+a) Yêu cầu đối với bình chứa lạnh cryo kín
+- Các bình chứa lạnh kín phải được cách nhiệt để chúng không bị đóng băng.
+- Áp suất thử
+Các chất lỏng được làm lạnh phải được chứa đầy trong các bình chứa lạnh cryo kín với áp suất thử nghiệm tối thiểu sau đây:
++ Đối với bình chứa lạnh cryo kín có cách nhiệt chân không, áp suất thử không được nhỏ hơn 1,3 lần tổng áp suất bên trong tối đa của bình, kể cả trong quá trình nạp và xả, cộng với 100 kPa (1 bar).
++ Đối với các bình chứa lạnh cryo kín khác, áp suất thử không được nhỏ hơn 1,3 lần áp suất bên trong tối đa của bình chứa, có tính đến áp suất trong quá trình nạp và xả.
+- Mức nạp
+Đối với khí hóa lỏng lạnh không cháy, không độc (mã phân loại 3A và 3O), thể tích của pha lỏng ở nhiệt độ nạp và ở áp suất 100 kPa (1 bar) không được vượt quá 98% dung tích chứa nước của bình chứa.
+Đối với khí hóa lỏng lạnh dễ cháy (mã phân loại 3F), mức nạp phải duy trì dưới mức môi chất được nâng lên đến nhiệt độ tại đó áp suất hơi bằng với áp suất mở của van an toàn, thể tích của pha lỏng sẽ đạt 98% thể tích chứa nước ở nhiệt độ đó.
+- Thiết bị giảm áp
+Các bình chứa lạnh cryo kín phải được lắp ít nhất một thiết bị giảm áp.
+- Vật liệu được sử dụng để đảm bảo độ kín rò các mối nối hoặc bảo quản vỏ phải phù hợp với môi chất bên trong. Trong trường hợp các bình chứa được thiết kế để vận chuyển các khí oxy hóa (mã phân loại 30), các vật liệu này không được phản ứng nguy hiểm với các khí.
+b) Yêu cầu đối với bình chứa lạnh cryo mở
+Chỉ các khí hóa lỏng làm lạnh không bị oxy hóa sau đây thuộc mã phân loại 3A mới được chứa trong các bình chứa lạnh mở: UN 1913, 1951, 1963, 1970, 1977, 2591, 3136 và 3158.
+Các bình chứa lạnh cryo mở phải được chế tạo để đáp ứng các yêu cầu sau:
+- Các bình chứa phải được thiết kế, sản xuất, thử nghiệm và trang bị để có thể chịu mọi điều kiện, kể cả mỏi, mà chúng sẽ phải chịu trong quá trình sử dụng bình thường và trong điều kiện vận chuyển bình thường.
+- Dung tích không được quá 450 lít.
+- Bình chứa phải có kết cấu vách kép với không gian giữa vách trong và ngoài được hút chân không (cách nhiệt chân không). Lớp cách nhiệt phải ngăn chặn sự hình thành đọng sương ở mặt ngoài của bình chứa.
+- Vật liệu chế tạo phải có cơ tính phù hợp ở nhiệt độ làm việc.
+- Các vật liệu tiếp xúc trực tiếp với hàng hóa nguy hiểm sẽ không bị ảnh hưởng hoặc yếu đi bởi hàng hóa nguy hiểm dự định vận chuyển và không gây ra ảnh hưởng nguy hiểm, ví dụ: phản ứng xúc tác hoặc phản ứng với hàng hóa nguy hiểm.
+- Bình chứa bằng thủy tinh có thành kép phải có bao gói bên ngoài bằng vật liệu đệm hoặc vật liệu thấm hút thích hợp, chịu được áp suất và các tác động có thể xảy ra trong điều kiện vận chuyển bình thường.
+- Bình chứa phải được thiết kế để giữ ở vị trí thẳng đứng trong quá trình vận chuyển.
+- Các lỗ mở của bình chứa phải được trang bị các thiết bị thoát khí, ngăn ngừa chất lỏng bắn ra và có kết cấu sao cho giữ nguyên trong quá trình vận chuyển.
+9. Yêu cầu đóng gói loại P205
+Yêu cầu đóng gói áp dụng cho UN 3468. Đóng gói cho hệ thống tồn trữ hydrua kim loại. Chỉ đề cập đối với các bình chứa áp suất có dung tích chứa nước không quá 150 lít và áp suất tối đa không quá 25 MPa.
+10. Yêu cầu đóng gói loại P206
+Yêu cầu đóng gói áp dụng cho UN 3500, 3501, 3502, 3503, 3504 và 3505.
+Các chai và bình áp lực phải được nạp sao cho pha không phải pha khí không vượt quá 95% dung tích ở 50 °C, không bị đầy hoàn toàn ở 60 °C. Khi nạp, áp suất bên trong ở 65 °C không được vượt quá áp suất thử của chai và bình áp lực. Phải tính đến áp suất hơi và độ giãn nở thể tích của tất cả các chất trong chai và bình áp suất.
+Áp suất thử nghiệm tối thiểu phải phù hợp với hướng dẫn đóng gói P200 đối với chất đẩy nhưng không được nhỏ hơn 20 bar.
+11. Yêu cầu đóng gói loại P207
+Yêu cầu đóng gói áp dụng cho UN 1950.
+Các đóng gói sau được chấp nhận, với điều kiện đáp ứng các quy định yêu cầu chung:
+- Thùng, hộp: Bao gói phải phù hợp với mức tính năng của nhóm bao gói II.
+- Bao gói bên ngoài cứng có khối lượng tối đa như sau:
++ Tấm xơ ép (fibreboard) 55 kg
++ Khác tấm xơ ép 125 kg
+Bao gói phải được thiết kế và kết cấu để ngăn chặn sự di chuyển quá mức của các sol khí và vô ý xả trong điều kiện vận chuyển bình thường.
+12. Yêu cầu đóng gói loại P208
+Yêu cầu này áp dụng cho khí bị hấp thụ loại 2.
+a) Áp suất của mỗi chai chứa đã nạp phải nhỏ hơn 101,3 kPa ở 20 °C và nhỏ hơn 300 kPa ở 50 °C.
+b) Áp suất thử tối thiểu của chai là 21 bar.
+c) Áp suất nổ tối thiểu của chai là 94,5 bar.
+d) Áp suất bên trong ở 65 °C của chai chứa đã nạp không được vượt quá áp suất thử của chai.
+đ) Vật liệu hấp thụ phải tương thích với chai và không được tạo thành các hợp chất có hại hoặc nguy hiểm với khí được hấp thụ. Khí kết hợp với vật liệu hấp thụ không được ảnh hưởng hoặc làm yếu chai hoặc gây ra phản ứng nguy hiểm (ví dụ phản ứng xúc tác).
+e) Các quy định đóng gói đặc biệt dành riêng chất (trong bảng).
+a: Không được sử dụng các chai chứa khí bằng hợp kim nhôm.
+d: Khi sử dụng các chai thép, chỉ cho phép những chai mang dấu "H" phù hợp được phép sử dụng.
+r: Việc nạp khí này phải được giới hạn sao cho nếu xảy ra sự phân hủy hoàn toàn thì áp suất không vượt quá 2/3 áp suất thử của chai.
+z: Vật liệu chế tạo của chai và các phụ kiện của chúng phải phù hợp với môi chất và không được phản ứng để tạo thành các hợp chất có hại hoặc nguy hiểm với chúng.
+
+Số UN | Tên và mô tả | Mã phân loại | LC50
+ml/m3 | Các điều khoản đóng gói đặc biệt
+3510 | Khí hút bám, dễ cháy, N.O.S | 9F |  | z
+3511 | KHÍ HÚT BÁM, N.O.S | 9A |  | z
+3512 | KHÍ HÚT BÁM, ĐỘC, N.O.S | 9T | ≤ 5000 | z
+3513 | KHÍ HÚT BÁM, ÔXY HÓA, N.O.S | 90 |  | z
+3514 | KHÍ HÚT BÁM, ĐỘC, DỄ CHÁY, N.O.S | 9TF | ≤ 5000 | z
+3515 | KHÍ HÚT BÁM, ĐỘC, ÔXY HÓA, N.O.S | 9TO | ≤ 5000 | z
+3516 | KHÍ HÚT BÁM, ĐỘC, ĂN MÒN, N.O.S | 9TC | ≤ 5000 | z
+3517 | KHÍ HÚT BÁM, ĐỘC, DỄ CHÁY, ĂN MÒN, N.O.S | 9TFC | ≤ 5000 | z
+3518 | KHÍ HÚT BÁM, ĐỘC, ÔXY HÓA, ĂN MÒN, N.O.S | 9TOC | ≤ 5000 | z
+3519 | BO TRIFLORUA, BỊ HẤP THỤ | 9TC | 387 | a
+3520 | CLO, BỊ HẤP THỤ | 9TOC | 293 | a
+3521 | SILICON TETRAFLORIT, BỊ HẤP THỤ | 9TC | 450 | a
+3522 | ARSIN, BỊ HẤP THỤ | 9TF | 20 | d
+3523 | GERMANE, BỊ HẤP THỤ | 9TF | 620 | d,r
+3524 | PHOTPHO PENTAFLORIT, BỊ HẤP THỤ | 9TC | 190 | 
+3525 | PHOTPHIN, BỊ HẤP THỤ | 9TF | 20 | d
+3526 | HYDRO SELENUA, BỊ HẤP THỤ | 9TF | 2 | 
+
+13. Yêu cầu đóng gói loại P300
+Quy định này áp dụng cho UN 3064. Đóng gói đối với các bao gói hỗn hợp gồm các hộp kim loại bên trong có dung tích không quá 1 lít và các hộp gỗ bên ngoài chứa không quá 5 lít dung dịch.
+Các yêu cầu bổ sung:
+a) Hộp kim loại phải được bao bọc hoàn toàn bằng vật liệu đệm hấp thụ.
+b) Hộp gỗ phải được lót toàn bộ bằng vật liệu thích hợp không thấm nước và nitroglycerin.
+14. Yêu cầu đóng gói loại P302
+Yêu cầu này áp dụng cho UN 3269.
+Bao gói hỗn hợp sau được cho phép, với điều kiện là đáp ứng các quy định chung:
+- Bao gói bên ngoài:
++ Thùng tròn.
++ Hộp.
++ Bình.
+- Bao gói bên trong:
++ Chất hoạt hóa (peroxit hữu cơ) phải có số lượng tối đa là 125 ml cho mỗi bao gói bên trong nếu là chất lỏng và 500 g cho mỗi bao gói bên trong nếu là chất rắn.
++ Vật liệu cơ bản và chất kích hoạt phải được đóng gói riêng biệt trong các bao gói bên trong.
+Nhiều thành phần có thể được đặt trong cùng một bao gói bên ngoài với điều kiện là chúng sẽ không tương tác nguy hiểm trong trường hợp rò rỉ.
+Bao gói phải phù hợp với cấp độ tính năng của nhóm đóng gói II hoặc III theo tiêu chí cho loại 3 áp dụng cho vật liệu cơ bản.
+15. Yêu cầu đóng gói loại P600
+Yêu cầu này áp dụng cho UN 1700.
+Các đóng gói sau đây được cho phép:
+Bao gói bên ngoài đáp ứng mức hoạt động của nhóm đóng gói II. Các mặt hàng phải được đóng gói riêng lẻ và ngăn cách với nhau bằng cách sử dụng vách ngăn, bộ phận chia tách, bao gói bên trong hoặc vật liệu đệm để ngăn ngừa vô ý xả trong điều kiện vận chuyển bình thường.
+Khối lượng tối đa: 75 kg.
+16. Yêu cầu đóng gói loại P601
+Bao gói phải được làm kín, và đảm bảo các yêu cầu sau:
+a) Bao gói hỗn hợp có khối lượng tối đa là 15kg, gồm:
+- Một hoặc nhiều bao gói trong bằng thủy tinh có sức chứa tối đa là 1 lít và chứa tối đa 90% thể tích.
+- Chai chứa kim loại có đệm và chất hấp thụ để hấp thụ toàn bộ các chất chứa tại bao gói trong.
+- Bao gói ngoài là thùng tròn bằng thép; nhôm; kim loại khác thép, nhôm; nhựa; gỗ dán; xơ ép hoặc hộp thép, nhôm, gỗ tự nhiên, gỗ dán, gỗ tái chế, nhựa cứng.
+b) Bao gói hỗn hợp gồm bao gói bên trong bằng kim loại (cho UN 1744), polyvinylidene fluoride (PVDF), chứa không lớn hơn 5 lít có chứa chất hấp thụ đủ hấp thụ chất chứa bên trong bao gói ngoài khối lượng tối đa 75kg là thùng tròn bằng thép; nhôm; kim loại khác thép, nhôm; gỗ dán; xơ ép hoặc hộp thép; nhôm; gỗ tự nhiên; gỗ dán; gỗ tái chế; tấm xơ ép; nhựa cứng. Bao gói trong không được phép điền đầy hơn 90% thể tích. Các nút, nắp đậy phải bảo đảm không bị nới lỏng, bung do rung lắc trong quá trình vận chuyển.
+c) Bao gói gồm:
+- Bao gói ngoài: Thùng tròn bằng thép, nhựa nắp rời.
+- Bao gói trong: Thùng tròn và bao gói hỗn hợp phải đảm bảo các yêu cầu sau:
++ Thử áp lực thủy tĩnh với áp suất tối thiểu là 0,3 MPa.
++ Thử độ rò rỉ với áp suất 30 kPa.
++ Khả năng chứa không lớn hơn 125 lít; làm chặt bằng nắp kiểu ren. Nắp đậy có thiết kế để đảm bảo: Chắc chắn, không bị long, rời do rung lắc trong quá trình vận chuyển; có khóa niêm phong.
+d) Chai áp lực được kiểm định ban đầu và kiểm tra định kỳ theo quy định tại áp suất không nhỏ hơn 1 MPa. Chai áp lực có thể không lắp thiết bị giảm áp khi chứa chất độc có LC50 không lớn hơn 200 ml/m3 (ppm) được làm chặt bằng nút hoặc van.
+17. Yêu cầu đóng gói loại P602
+Bao gói được làm kín theo yêu cầu sau:
+a) Bao gói hỗn hợp có khối lượng tối đa 15 kg, gồm:
+- Một hoặc nhiều bao gói trong bằng thủy tinh với khả năng chứa tối đa là 1 lít và không nạp hơn 90% thể tích. Các nút, nắp đậy phải bảo đảm không bị nới lỏng, bung do rung lắc trong quá trình vận chuyển.
+- Chai chứa kim loại có đệm và chất hấp thụ để hấp thụ toàn bộ các chất chứa tại bao gói trong.
+- Bao gói ngoài là thùng tròn bằng thép; nhôm; kim loại khác thép, nhôm; nhựa; gỗ dán; xơ ép hoặc hộp thép, nhôm, gỗ tự nhiên, gỗ dán, gỗ tái chế, nhựa cứng.
+b) Bao gói hỗn hợp với lớp đệm trơ được đóng gói trong các kiện dạng thùng, dạng hộp với vật liệu là sắt, nhôm, kim loại khác, nhựa, gỗ dán, gỗ tự nhiên, gỗ tái chế và gỗ ép. Khối lượng tối đa của kiện hàng không quá 75 kg. Mỗi bình chứa bên trong kiện có thể tích không quá 5 lít. Khi đóng gói hóa chất nguy hiểm chiếm không quá 90% thể tích. Các nút, nắp đậy phải bảo đảm không bị nới lỏng, bung do rung lắc trong quá trình vận chuyển.
+c) Thùng tròn bằng thép, nhôm, kim loại phải đảm bảo các yêu cầu sau:
+- Thử áp lực thủy tĩnh với áp suất tối thiểu là 0,3 MPa.
+- Thử độ rò rỉ với áp suất 30 kPa.
+- Nắp đậy có thiết kế để đảm bảo: chắc chắn, không bị long, rời do rung lắc trong quá trình vận chuyển. Có khóa niêm phong.
+d) Chai áp lực được kiểm định ban đầu và kiểm tra định kỳ theo quy định tại áp suất không nhỏ hơn 1 MPa. Chai áp lực có thể không lắp thiết bị giảm áp khi chứa chất độc có LC50 không lớn hơn 200 ml/m3 (ppm) được làm chặt bằng nút hoặc van.
+18. Yêu cầu đóng gói loại P603
+Yêu cầu này áp dụng cho UN 3507. Đóng gói đối với các bình chứa chính bằng kim loại hoặc nhựa, các bao gói thứ hai chống rò rỉ, bao gói cứng bên ngoài.
+Các bao gói gồm:
+a) Các bình chứa chính bằng kim loại hoặc nhựa.
+b) Các bao gói thứ hai cứng chống rò rỉ.
+c) Bao gói cứng bên ngoài:
+- Thùng tròn.
+- Hộp.
+- Can.
+19. Yêu cầu đóng gói loại R001
+
+Can, thùng, hộp kim loại | Sức chứa tối đa/Trọng lượng tối đa
+ | Nhóm rất nguy hiểm (I) | Nhóm nguy hiểm (II) | Nhóm nguy hiểm thấp (III)
+Bằng thép, nắp đầu không tháo rời | Không được phép | 40 lít / 50 kg | 40 lít / 50 kg
+Bằng thép, nắp đầu tháo rời | Không được phép | 40 lít / 50 kg | 40 lít / 50 kg
+Ghi chú: - Áp dụng cho chất rắn và lỏng. - Đối với chất loại 3, nhóm đóng gói II, có thể sử dụng nhóm đóng gói này với các chất có áp suất hơi không lớn hơn 110 kPa tại 50 °C và có độc tính nhẹ.
+
+20. Yêu cầu đóng gói loại IBC01
+a) Chỉ áp dụng cho chất lỏng có áp suất hơi nhỏ hơn hoặc bằng 110 kPa tại 50°C hoặc 130 kPa tại 55°C.
+b) Sử dụng thùng chứa hàng rời cỡ trung bình để chứa chất lỏng có nhiệt độ chớp cháy cốc kín không lớn hơn 60°C hoặc bột có khả năng nổ bụi cần có biện pháp chống tĩnh điện. Thùng chứa hàng rời cỡ trung bình bằng thép, nhôm, kim loại khác cần được kiểm định định kỳ theo quy định.
+Không được sử dụng thùng chứa hàng rời cỡ trung bình trong thời gian 03 tháng đến lần kiểm định tiếp theo.
+21. Yêu cầu đóng gói loại IBC02
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cờ trung bình, dung tích chứa lớn hơn 450 lít và chỉ áp dụng cho chất lỏng có áp suất hơi nhỏ hơn hoặc bằng 110 kPa tại 50°C hoặc 130 kPa tại 55°C.
+22. Yêu cầu đóng gói loại IBC03
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cỡ trung bình bằng kim loại, nhựa, bao gói hỗn hợp chứa chất lỏng có áp suất hơi nhỏ hơn hoặc bằng 110 kPa tại 50°C hoặc 130 kPa tại 55°C.
+23. Yêu cầu đóng gói IBC05
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cỡ trung bình bằng kim loại, nhựa cứng và hỗn hợp.
+24. Yêu cầu đóng gói loại IBC06
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cỡ trung bình bằng kim loại, nhựa, bao gói hỗn hợp.
+25. Yêu cầu đóng gói loại IBC07
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cỡ trung bình bằng kim loại, nhựa, bao gói hỗn hợp, gỗ.
+26. Yêu cầu đóng gói loại IBC08
+Đóng gói cho các loại bao bì, thùng chứa hàng rời cỡ trung bình bằng kim loại, nhựa, tấm xơ ép, bao gói hỗn hợp, gỗ.
+27. Yêu cầu đóng gói loại LP01
+
+Bao gói trong | Bao gói ngoài lớn | Nhóm rất nguy hiểm, nguy hiểm (I, II) | Nhóm nguy hiểm thấp (III)
+Thủy tinh 10 lít Nhựa 30 lít Kim loại 40 lít | Thép Nhôm Kim loại khác thép, nhôm Nhựa cứng Gỗ tự nhiên Gỗ dán Gỗ tái chế Tấm xơ ép | Không được phép | Chứa tối đa: 3 m3
+
+28. Yêu cầu đóng gói loại LP02
+
+Bao gói trong | Bao gói ngoài lớn | Nhóm rất nguy hiểm, nguy hiểm (I, II) | Nhóm nguy hiểm thấp (III)
+Thủy tinh 10kg Nhựab 50kg Kim loại 50 kg Giấy a, b 50 kg Xơ ép a, b 50 kg | Thép Nhôm Kim loại khác thép, nhôm Nhựa cứng Gỗ tự nhiên Gỗ dán Gỗ tái chế Tấm xơ ép Nhựa dẻoc | Không được phép | Chứa tối đa: 3 m3
+a Không áp dụng khi chứa các chất có thể thành chất lỏng trong quá trình vận chuyển. b Bao gói trong có tấm chống lọt bột c Chỉ sử dụng với bao gói trong mềm.
+
+29. Yêu cầu đóng gói LP200
+Yêu cầu áp dụng đối với UN 1950. Đóng gói đối với bao gói lớn cứng phù hợp với cấp hiệu suất của nhóm đóng gói II, được làm bằng: thép, nhôm, kim loại không phải thép hoặc nhôm, chất dẻo cứng, gỗ tự nhiên, gỗ dán, gỗ tái chế, tấm xơ ép cứng.
+III. YÊU CẦU VỀ CẤU TẠO BAO BÌ, THÙNG CHỨA
+1. Bao bì, thùng chứa có khả năng chứa tối đa là 400 kg hoặc 450 lít
+a) Thùng tròn bằng thép, nhôm hoặc kim loại khác
+- Thân, đầu được làm bằng thép tấm, nhôm hoặc kim loại khác có chiều dày phù hợp với các chất dự kiến chứa.
+- Đối với thùng chứa lớn hơn 40 lít chất lỏng, đường nối thân được hàn; đối với thùng chứa nhỏ hơn hoặc bằng 40 lít chất lỏng, đường nối thân có thể làm bằng cơ học hoặc hàn.
+- Thân thùng chứa lớn hơn 60 lít chất lỏng phải có tối thiểu 02 đai an toàn.
+- Miệng nạp, rót chất lỏng hoặc lỗ thông hơi được lắp đặt trên thân hoặc đầu thùng có đường kính không lớn hơn 7cm.
+- Khả năng chứa tối đa là 400 kg hoặc 450 lít.
+b) Can thép hoặc nhôm
+- Thân, đầu được làm bằng thép tấm, nhôm hoặc kim loại khác có chiều dày phù hợp với các chất dự kiến chứa.
+- Đối với can chứa lớn hơn 40 lít chất lỏng, đường nối thân được hàn; đối với can chứa nhỏ hơn hoặc bằng 40 lít chất lỏng, đường nối thân có thể làm bằng cơ học hoặc hàn.
+- Miệng nạp, rót chất lỏng hoặc lỗ thông hơi được lắp đặt trên thân hoặc đầu thùng có đường kính không lớn hơn 7cm.
+- Khả năng chứa tối đa là 120 kg hoặc 60 lít.
+c) Thùng tròn bằng gỗ dán
+- Thân được làm bằng gỗ dán tối thiểu 02 lớp, đầu được làm bằng gỗ dán tối thiểu 03 lớp, các lớp được liên kết với nhau bằng keo có thể chịu được thấm nước.
+- Trong trường hợp yêu cầu chống lọt bột, nắp được làm bằng giấy loại dày.
+- Khả năng chứa tối đa là 400 kg hoặc 250 lít.
+d) Thùng tròn và can bằng nhựa
+- Vật liệu chế tạo thùng, can phù hợp với chất chứa bên trong đảm bảo không ảnh hưởng tới chất lượng của thùng, can.
+- Miệng nạp, rót chất lỏng hoặc lỗ thông hơi được lắp đặt trên thân hoặc đầu thùng có đường kính không lớn hơn 7cm.
+- Khả năng thấm tối đa chấp nhận được đối với chất lỏng dễ cháy là 0,008 g/l.h ở nhiệt độ 23 °C.
+- Khả năng chứa tối đa: đối với thùng tròn là 400 kg hoặc 450 lít; đối với can là 120 kg hoặc 60 lít.
+đ) Hộp gỗ tự nhiên
+- Hộp được đóng chặt đảm bảo chống rung khi vận chuyển trong điều kiện vận chuyển bình thường.
+- Khả năng chứa tối đa: đối với thùng tròn là 400 kg.
+e) Hộp gỗ dán
+- Gỗ dán được sử dụng tối thiểu 3 lớp được gắn với nhau bằng keo dán chịu nước.
+- Khả năng chứa tối đa: Đối với thùng tròn là 400 kg.
+g) Hộp gỗ tái chế
+- Thành hộp làm bằng gỗ tái chế chịu nước.
+- Khả năng chứa tối đa: Đối với thùng tròn là 400 kg.
+h) Hộp tấm xơ ép, kim loại
+Khả năng chứa tối đa: Đối với thùng tròn là 400 kg.
+2. Bao bì, thùng chứa hàng rời cỡ trung bình
+a) Thùng chứa hàng rời cỡ trung bình bằng kim loại phải đảm bảo các yêu cầu sau:
+- Độ giãn dài của thép (%) không nhỏ hơn 10.000/Rm với mức tối thiểu là 20%, trong đó Rm là giới hạn kéo nhỏ nhất của thép (N/mm2).
+- Độ giãn dài của nhôm hoặc hợp kim của nhôm (%) không nhỏ hơn 10.000/6Rm với mức tối thiểu là 8%.
+- Chiều dày thành tối thiểu của thùng chứa bằng thép không nhỏ hơn yêu cầu trong bảng sau:
+
+Thể tích (C), lít | Chiều dày thành, mm
+ | Thùng chứa không được bảo vệ | Thùng chứa được bảo vệ
+C ≤ 1000 | 2,5 | 2,0
+1000 < C ≤ 2000 | T = C/2000 + 2,0 | T = C/2000 + 1,5
+2000 < C ≤ 3000 | T = C/1000 + 1,0 | T = C/2000 + 1,5
+
+- Chiều dày thành tối thiểu của thùng chứa bằng kim loại khác thép được tính theo công thức sau, tuy nhiên không nhỏ hơn 1,5 mm
+
+Trong đó:
+e1: Chiều dày tối thiểu của thành thùng chứa, mm.
+e0: Chiều dày tối thiểu tính cho thùng chứa bằng thép, mm.
+Rm1: Giới hạn kéo nhỏ nhất, in N/mm2.
+A1: Độ giãn dài tối thiểu.
+- Thùng chứa được lắp thiết bị giảm áp đảm bảo áp suất hơi trên bề mặt chất lỏng trong thùng chứa không lớn hơn 65 kPa và không nhỏ hơn -100 kPa tại nhiệt độ 55°C.
+b) Thùng chứa hàng rời cỡ trung bình bằng nhựa
+Vật liệu chế tạo thùng phù hợp với chất chứa bên trong đảm bảo không ảnh hưởng tới chất lượng của thùng chứa và không có khả năng thấm các chất nguy hiểm khi vận chuyển trong điều kiện bình thường.
+3. Bao bì, thùng chứa cỡ lớn
+a) Bằng kim loại: Sử dụng liên kết hàn để chế tạo bao bì, thùng chứa cỡ lớn. Mối hàn đảm bảo vững chắc và an toàn.
+b) Bằng nhựa: Vật liệu chế tạo thùng phù hợp với chất chứa bên trong đảm bảo không ảnh hưởng tới chất lượng của thùng chứa và không có khả năng thấm các chất nguy hiểm khi vận chuyển trong điều kiện bình thường.
+c) Bằng gỗ: Được chế tạo bằng gỗ tự nhiên, gỗ dán (tối thiểu 3 lớp), gỗ tái chế đảm bảo vững chắc, an toàn khi chứa hàng hóa nguy hiểm.
+4. Bao bì, thùng chứa hàng hóa loại 2
+Bao bì thùng chứa hàng hóa loại 2 được thực hiện theo quy định tại các tiêu chuẩn, quy chuẩn sau đây:
+- TCVN 8366:2010 - Bình chịu áp lực - Yêu cầu về thiết kế và chế tạo.
+- TCVN 6289:2008 (ISO 10286:2007) - Chai chứa khí - Thuật ngữ.
+- TCVN 6290:1997 (ISO 10463:1993) - Chai chứa khí - Chai chứa các khí vĩnh cửu - Kiểm tra tại thời điểm nạp khí.
+- TCVN 6292:2013 (ISO 4706:2008) - Chai chứa khí - Chai chứa khí bằng thép hàn nạp lại được - Áp suất thử 6 MPa và thấp hơn.
+- TCVN 6293:1997 - Chai chứa khí. Chai chứa khí dùng trong y tế. Ghi nhãn để nhận biết khí chứa.
+- TCVN 6294:2007 - Chai chứa khí. Chai chứa khí bằng thép cacbon hàn. Kiểm tra và thử định kỳ.
+- TCVN 6295:1997 - Chai chứa khí. Chai chứa khí không hàn. Tiêu chuẩn an toàn và đặc tính.
+- TCVN 6304-1997 - Chai chứa khí đốt hóa lỏng - Yêu cầu an toàn trong bảo quản, xếp dỡ và vận chuyển.
+- TCVN 6484:1999 - Khí đốt hóa lỏng (LPG). Xe bồn vận chuyển. Yêu cầu an toàn về thiết kế, chế tạo và sử dụng.
+- TCVN 6485:1999 - Khí đốt hóa lỏng (LPG). Nạp khí vào chai có dung tích nước đến 150 lít. Yêu cầu an toàn.
+- TCVN 6713:2013 (ISO 11625:2007) - Chai chứa khí - An toàn trong thao tác.
+- TCVN 6714:2000 - Chai chứa khí hóa lỏng (trừ axetylen và khí đốt hóa lỏng). Kiểm tra tại thời điểm nạp khí.
+- TCVN 6872:2013 (ISO 11117:2008) - Chai chứa khí - Mũ bảo vệ van và vành bảo vệ van - Thiết kế, kết cấu và thử nghiệm.
+- TCVN 6873:2007 - Chai chứa khí. Giá chai chứa khí nén và khí hóa lỏng (trừ axetylen). Kiểm tra tại thời điểm nạp khí.
+- TCVN 6874-1:2013 (ISO 11114-1:2012) - Chai chứa khí - Tính tương thích của vật liệu làm chai chứa và làm van với khí chứa. Phần 1: Vật liệu kim loại.
+- TCVN 7051:2002 - Chai chứa khí. Chai chứa khí bằng kim loại không được nạp lại. Đặc tính kỹ thuật và phương pháp thử.
+- TCVN 7163:2013 (ISO 10297:2006) - Chai chứa khí di động - Van chai - Đặc tính kỹ thuật và thử kiểu.
+- TCVN 7388-1:2013 (ISO 9809-1:2010) - Chai chứa khí - Chai chứa khí bằng thép không hàn có thể nạp lại được - Thiết kế, kết cấu và thử nghiệm. Phần 1: Chai bằng thép tôi và ram có độ bền kéo nhỏ hơn 1100 MPa.
+- TCVN 7388-2:2013 (ISO 9809 -2:2010) - Chai chứa khí. Chai chứa khí bằng thép không hàn có thể nạp lại được. Thiết kế, kết cấu và thử nghiệm. Phần 2: Chai bằng thép tôi và ram có độ bền kéo lớn hơn hoặc bằng 1100 MPa.
+- TCVN 7388-3:2013 (ISO 9809-3:2010) - Chai chứa khí. Chai chứa khí bằng thép không hàn có thể nạp lại được. Thiết kế, kết cấu và thử nghiệm. Phần 3: Chai bằng thép thường hóa.
+- TCVN 8616:2010 - Khí thiên nhiên hóa lỏng (LNG). Yêu cầu trong sản xuất, tồn chứa và vận chuyển.
+- QCVN 04: 2013/BCT - Quy chuẩn kỹ thuật quốc gia về an toàn chai chứa khí dầu mỏ hóa lỏng bằng thép.
+- QCVN 02: 2017/BCT - Quy chuẩn kỹ thuật quốc gia về an toàn chai chứa khí dầu mỏ hóa lỏng mini.
+5. Bồn bể chuyên dụng lắp trên phương tiện vận chuyển
+- Vật liệu chế tạo bồn bể chuyên dụng được làm bằng kim loại và phù hợp với hàng hóa nguy hiểm dự kiến chứa bên trong;
+- Trong trường hợp sử dụng thép để chế tạo bồn bể chuyên dụng, cường độ uốn không vượt quá 460 N/mm2 và cường độ kéo không vượt quá 725 N/mm2.
+- Chiều dày tối thiểu của vỏ bồn được tính theo công thức sau:
+
+Trong đó:
+
+e: | Chiều dày vỏ bồn (mm)
+PT: | Áp lực thử (Mpa)
+PT: | Áp lực tính toán (Mpa)
+D: | Đường kính vỏ bồn (mm)
+δ: | Ứng suất của vật liệu chế tạo (N/mm2)
+λ: | Hệ số hàn
+
+Hệ số λ = 0,8 trong trường hợp tất cả các mối hàn chữ “T” với tổng chiều dài mối hàn kiểm tra không nhỏ hơn 10% tổng chiều dài mối hàn; λ = 0,9 trong trường hợp kiểm tra không nhỏ hơn 25% tổng chiều dài mối hàn, λ = 1 trong trường hợp tất cả các mối hàn được kiểm tra.
+Chiều dày bồn bể chuyên dụng không nhỏ hơn quy định trong bảng sau:
+
+ | Đường kính bao bì, thùng chứa | ≤ 1,80 m | > 1,80 m
+Chiều dày tối thiểu (mm) | Thép không gỉ | 2,5 | 3
+ | Thép khác | 3 | 4
+ | Hợp chất của nhôm | 4 | 5
+ | Nhôm có hàm lượng lớn hơn 99,8% | 6 | 8
+
+6. Phương tiện thủy nội địa chuyên dụng
+Phương tiện thủy nội địa vận chuyển hàng hóa nguy hiểm được thực hiện theo quy định của các tiêu chuẩn, quy chuẩn sau:
+- QCVN 21:2015/BGTVT- Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+- Sửa đổi 1:2016 QCVN 21:2015/BGTVT - Quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển vỏ thép.
+- QCVN 01:2008/BGTVT - Quy chuẩn kỹ thuật quốc gia về Phân cấp và đóng phương tiện thủy nội địa vỏ thép chở xô hóa chất nguy hiểm.
+- Sửa đổi lần 1: 2016 QCVN 01:2008/BGTVT - Quy chuẩn kỹ thuật quốc gia về Phân cấp và đóng phương tiện thủy nội địa vỏ thép chở xô hóa chất nguy hiểm.
+
+PHỤ LỤC IV
+NỘI DUNG PHƯƠNG ÁN ỨNG CỨU KHẨN CẤP
+(Kèm theo Thông tư số   /2020/TT-BCT ngày   tháng   năm 2020 của Bộ trưởng Bộ Công Thương)
+I. Thông tin chung
+
+1. Tên tổ chức vận tải:
+2. Địa chỉ của trụ sở chính:
+3. Điện thoại:                                Fax: Email:                                           Website:               (nếu có)
+4. Họ và tên người đại diện:
+5. Đặc điểm hàng vận chuyển
+
+Tên hàng theo danh mục | Số UN | Loại nhóm hàng | Số hiệu nguy hiểm | Mức đóng gói | Khối lượng vận chuyển | Phương tiện chứa
+Hàng hóa 1 |  |  |  |  |  | 
+Hàng hóa 2 (nếu có) |  |  |  |  |  | 
+Hàng hóa 3 (nếu có) |  |  |  |  |  | 
+………… |  |  |  |  |  | 
+6. Đặc điểm vận chuyển 6.1. Nơi khởi hành: 6.2. Nơi đến: 6.3. Tuyến đường vận chuyển: (Mô tả chung về loại đường vận chuyển, độ dài, các điểm chuyển hướng chính, các điểm dừng đỗ, đặc điểm dân cư ...) 6.4. Tuyến đường thay thế: (Mô tả chung về loại đường vận chuyển, độ dài, các điểm chuyển hướng chính, các điểm dừng đỗ, đặc điểm dân cư ...) 6.5. Thời gian vận chuyển: (Ban ngày, ban đêm) 6.6. Phương tiện vận chuyển: (Mô tả chung về loại, số lượng phương tiện vận chuyển, cự ly vận chuyển tối đa, tốc độ vận chuyển và các trang thiết bị xử lý sự cố kèm theo trên phương tiện vận chuyển)
+
+II. Các khả năng tai nạn, sự cố và biện pháp khắc phục
+II.1. Đặc tính nguy hiểm của hàng vận chuyển
+
+1. Nguy hiểm về cháy
+1.1. Tính chất dễ cháy: Xếp loại, tác nhân gây cháy (nhiệt độ cao, tia lửa, tiếp xúc với không khí hoặc nước..) 1.2. Các nguy hiểm kèm theo khi cháy: nổ, khói độc 1.3. Các chất dập cháy thích hợp 1.4. Biện pháp chữa cháy 1.5. Phương tiện bảo vệ cá nhân khi tiếp xúc 1.6. Khoảng cách cách ly an toàn
+2. Nguy hiểm về nổ
+2.1. Tính chất nổ: Xếp loại, tác nhân kích thích (nhiệt độ cao, tia lửa, ma sát, va đập..) 2.2. Các nguy hiểm kèm theo nổ: mảnh văng, sóng nổ... 2.3. Khoảng cách cách ly an toàn
+3. Nguy hiểm về độc
+3.1. Tính chất độc hại: Xếp loại, ngưỡng tiếp xúc 3.2. Các nguy hiểm kèm theo khi rò rỉ, tràn đổ: nổ, khói độc 3.3. Các chất dập cháy thích hợp 3.4. Khoảng cách cách ly an toàn 3.5. Biện pháp thu gom, làm sạch 3.6. Phương tiện bảo vệ cá nhân khi tiếp xúc
+4. Nguy hiểm về ăn mòn
+4.1. Tính chất ăn mòn: Xếp loại (mạnh, vừa, yếu), vật liệu bị phá hủy (kim loại, nhựa, gỗ...) 4.2. Các nguy hiểm kèm theo khi tràn đổ, rò rỉ: ăn mòn phát nhiệt gây cháy, khí độc 4.3. Các chất trung hòa thích hợp 4.4. Biện pháp thu gom, làm sạch 4.5. Phương tiện bảo vệ cá nhân khi tiếp xúc 4.6. Khoảng cách cách ly an toàn
+
+II.2 Các tình huống điển hình và biện pháp xử lý
+
+TT | Tình huống cơ bản | Hậu quả | Hành động cần thực hiện | Số điện thoại cần liên lạc
+1 | Cản trở giao thông (do hỏng đường, ùn tắc kéo dài...) | Dừng đỗ lâu tại vị trí không an toàn, có thể tiếp xúc các nguồn nhiệt, va chạm... dẫn đến cháy, rò rỉ | - Chuyển tuyến đường vận chuyển - Cách ly, bảo vệ khu vực tiếp xúc - Tham gia bảo vệ hiện trường và cung cấp thông tin phục vụ công tác điều tra sự cố | - Cơ quan cứu nạn - Chuyên gia kỹ thuật
+2 | Trục trặc hoặc tai nạn phương tiện vận chuyển nhưng không ảnh hưởng đến phương tiện chứa | Dừng đỗ lâu tại vị trí không an toàn, có thể tiếp xúc các nguồn nhiệt, va chạm... dẫn đến cháy, rò rỉ | - Khắc phục hoặc thay phương tiện vận chuyển - Thay người điều khiển phương tiện nếu có thương vong do tai nạn - Tham gia bảo vệ hiện trường và cung cấp thông tin phục vụ công tác điều tra sự cố | - Cơ quan cứu nạn - Trung tâm cứu hộ giao thông - Chuyên gia kỹ thuật
+3 | Trục trặc hoặc tai nạn phương tiện vận chuyển có hư hỏng phương tiện chứa | Rò rỉ, tràn đổ thoát ra các chất độc hại hoặc dễ cháy, nổ... gây thiệt hại về người, tài sản xung quanh | - Khắc phục hư hỏng nhỏ nếu đã có phương án, công cụ dự kiến cho các trường hợp này (bịt chỗ rò, khóa van...) - Cách ly khu vực nguy hiểm theo chỉ dẫn (bán kính cách ly tùy theo đặc tính hàng vận chuyển) - Gọi trợ giúp - Bảo vệ, ngăn chặn người xâm nhập khu vực cách ly, chờ trợ giúp của lực lượng cứu hộ... Sơ tán người trong khu vực nguy hiểm. - Các biện pháp thu gom, tẩy sạch - Tham gia bảo vệ hiện trường và cung cấp thông tin phục vụ công tác điều tra sự cố | - Cơ quan cứu nạn - Trung tâm cứu hộ giao thông - Chuyên gia kỹ thuật. Trung tâm cấp cứu y tế
+4 | Cháy phương tiện vận chuyển | Hỏng phương tiện chứa hoặc nổ phương tiện chứa nếu hàng vận chuyển có khả năng tăng áp suất do nhiệt, phát thải khí độc... gây thiệt hạn về người, tài sản. | - Dập cháy bằng phương tiện kèm theo xe nếu đám cháy nhỏ. - Cách ly khu vực nguy hiểm theo chỉ dẫn (bán kính cách ly tùy theo đặc tính hàng vận chuyển) - Gọi trợ giúp - Bảo vệ, ngăn chặn người xâm nhập khu vực cách ly, chờ trợ giúp của lực lượng cứu hộ... Sơ tán người trong khu vực nguy hiểm. - Các biện pháp thu gom, tẩy sạch - Tham gia bảo vệ hiện trường và cung cấp thông tin phục vụ công tác điều tra sự cố | - Cơ quan cứu nạn - Trung tâm cứu hộ giao thông - Chuyên gia kỹ thuật
+5 | Các tình huống khác |  |  | 
+
+Ghi chú: Các tình huống và nội dung trên chỉ có tính minh họa, tổ chức vận tải phải dựa trên đặc điểm hàng hóa và đặc điểm vận chuyển để đánh giá về khả năng xảy ra sự cố, mức độ hậu quả xảy ra để xây dựng các tình huống điển hình và hành động khắc phục phù hợp.
+III. Khả năng ứng cứu và tổ chức ứng cứu
+
+III.1 Khả năng ứng cứu sự cố khẩn cấp
+1. Khả năng ứng cứu ban đầu tại hiện trường 1.1. Người đủ điều kiện ứng cứu: (người điều khiển phương tiện, áp tải đã được huấn luyện phương pháp ứng cứu, xử lý...) 1.2. Trang thiết bị phục vụ ứng cứu: (thông tin, chữa cháy, dập lửa, bảo hộ cá nhân, dụng cụ sơ cứu, biển báo sự cố, thu gom...) 1.3. Phạm vi, mức độ ứng cứu: Liệt kê các tình huống nằm trong khả năng ứng cứu của người điều khiển phương tiện, mức độ phát triển của tình huống cần gọi trợ giúp. 2. Khả năng ứng cứu của người vận tải hoặc người gửi hàng 2.1. Số chuyên gia kỹ thuật hướng dẫn từ xa cho người xử lý tại hiện trường; số chuyên gia kỹ thuật xử lý hiện trường (nếu có) 2.2. Thiết bị, phương tiện huy động phục vụ ứng cứu: (của người vận tải hoặc của các tổ chức dịch vụ khác ở các địa phương nơi hàng vận chuyển đi qua - nếu có) 2.3. Mức độ đáp ứng: Dự kiến thời gian tiếp cận hiện trường (theo cự ly xa nhất), các tình huống trong khả năng ứng cứu 3. Khả năng ứng cứu của lực lượng cứu nạn, cứu hộ 3.1. Đội xử lý sự cố: Số người, chuyên môn... 3.2. Thiết bị, phương tiện huy động phục vụ ứng cứu. 3.3. Mức độ đáp ứng: Dự kiến thời gian tiếp cận hiện trường (theo cự ly xa nhất), các tình huống trong khả năng ứng cứu.
+III.2. Tổ chức ứng cứu
+1. Tổ chức thực hiện Bộ phận điều hành, phối hợp tại trụ sở để nhận thông báo, chuyển tiếp, hướng dẫn và điều hành các hoạt động xử lý tại hiện trường. Phải có quy định trách nhiệm rõ ràng các thành viên trong bộ phận điều hành. 2. Các quy trình hoạt động 2.1. Quy trình thông tin khẩn cấp Gồm thủ tục thông báo khẩn cấp, người nhận thông báo, thứ tự ưu tiên trong trường hợp thông báo nhiều nơi, chuyển tiếp và cơ chế đảm bảo thông tin đã xác nhận. 2.2. Quy trình xử lý sự cố - Của người phát hiện, xử lý ban đầu - Của bộ phận điều hành - Chuyển tiếp cho lực lượng cứu nạn, cứu hộ
+III.3. Các số điện thoại liên lạc khẩn cấp (gồm cả số cố định và di động)
+1. Số điện thoại của cơ quan chịu trách nhiệm cứu nạn, cứu hộ: (Trường hợp vận chuyển qua nhiều tỉnh, phải liệt kê đầy đủ số điện thoại của cơ quan này ở các tỉnh). 2. Số điện thoại của các Trung tâm cứu hộ giao thông: (Trường hợp vận chuyển qua nhiều tỉnh, phải liệt kê đầy đủ số điện thoại của trung tâm này ở các tỉnh). 3. Số điện thoại của các chuyên gia kỹ thuật hướng dẫn xử lý sự cố do người vận tải hoặc người gửi hàng chỉ định. 4. Số điện thoại của trung tâm cấp cứu y tế hoặc các dịch vụ khác (chuyển hàng, vận chuyển...). 5. Số điện thoại của người vận tải hoặc người gửi hàng. 6. Số điện thoại của Sở Công Thương các tỉnh có hàng vận chuyển đi qua.
+III.4. Kế hoạch diễn tập 1. Kỳ hạn thực hiện diễn tập: (quý hoặc năm) 2. Các nội dung diễn tập, đánh giá: 3. Hình thức diễn tập: (thảo luận, thực nghiệm hiện trường, phối hợp...).
+Ngày biên soạn: Ngày sửa đổi: Người đại diện Tổ chức vận tải (Đóng dấu, ký tên)
+
+PHỤ LỤC V
+MẪU GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+(Kèm theo Thông tư số    /2020/TT-BCT ngày   tháng   năm 2020 của Bộ trưởng Bộ Công Thương)
+Mặt ngoài: Kích thước: 190 mm x 130 mm
+
+ | (1) ………………………………. GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+
+(1) Tên đơn vị tổ chức tập huấn (cơ sở vận tải/ cơ sở thuê vận tải hoặc tổ chức huấn luyện)
+Mặt trong: Kích thước: 190 mm x 130 mm
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+--------------- GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM | Họ và tên: ……………….. Nam/Nữ: …………………. Ngày sinh: ………………. CMND/CCCD/ hộ chiếu số: ……………………………... Nghề nghiệp: …………….. Đơn vị công tác: ………........................................... …………………………………………………………… Số: …………….. Giấy chứng nhận này có giá trị 02 năm Từ ngày...tháng...năm... đến ngày...tháng ... năm... | Đã hoàn thành lớp tập huấn vận chuyển hàng hóa nguy hiểm: …………. (1) cho ………..(2) do (3) …………….. tổ chức từ ngày: …….. đến ngày: ………... và kiểm tra đạt yêu cầu. …. ngày... .tháng....năm……. Đơn vị tập huấn 3 (Ký tên đóng dấu)
+
+(1) Tên hàng hóa nguy hiểm
+(2) Đối tượng tập huấn: người tham gia vận chuyển hàng hóa nguy hiểm (người điều khiển phương tiện/ thủ kho, người áp tải, người xếp, dỡ hàng hóa)
+(3) Tên đơn vị tập huấn (cơ sở vận chuyển/ cơ sở thuê vận chuyển hoặc tổ chức huấn luyện)
+
+PHỤ LỤC VI
+DANH SÁCH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+(Kèm theo Thông tư số ……../2020/TT-BCT ngày .... tháng …. năm 2020 của Bộ trưởng Bộ Công Thương)
+Tên cơ sở: ………………………………………………………………………………………………………………..
+Thời gian tổ chức tập huấn: từ ngày ... tháng ... năm ... đến ngày ... tháng ... năm ...
+Người tập huấn: ………………………………. Đơn vị tập huấn:  ………………………………….…………….
+Nội dung tập huấn: Tập huấn vận chuyển hàng hóa nguy hiểm: …………….1 đối với: ……………………. 2
+
+TT | Họ và tên | Nam Nữ | Ngày sinh | Chức vụ | Số CMND/Hộ chiếu/ CCCD | Đơn vị công tác | Hình thức | Kết quả | Chữ ký | Ghi chú
+ |  |  |  |  |  |  | Lần đầu | Định kỳ | Tập huấn lại |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+Thủ trưởng đơn vị 3
+(Ký tên, đóng dấu) | Người tập huấn
+(ký tên) | Người lập danh sách
+(ký tên)
+
+1 Tên hàng hóa nguy hiểm
+2 Đối tượng được tập huấn: người điều khiển phương tiện vận chuyển/ thủ kho, người áp tải, người xếp/ dỡ hàng hóa nguy hiểm
+3 Thủ trưởng đơn vị tập huấn (Cơ sở vận tải/ cơ sở thuê vận tải hoặc Tổ chức huấn luyện)
+
+PHỤ LỤC VII
+QUYẾT ĐỊNH CÔNG NHẬN KẾT QUẢ TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+(Kèm theo Thông tư số      /2020/TT-BCT ngày   tháng   năm 2020 của Bộ trưởng Bộ Công Thương)
+
+………………………… 1
+-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+---------------
+Số: ………………… | ………., ngày ... tháng ... năm .....
+
+QUYẾT ĐỊNH
+Về việc công nhận kết quả tập huấn vận chuyển hàng hóa nguy hiểm
+……………………………….. 2
+Căn cứ Nghị định số 42/2020/NĐ-CP ngày 12 tháng 5 năm 2020 của Chính phủ quy định Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và vận chuyển hàng hóa nguy hiểm trên đường thủy nội địa;
+Căn cứ Thông tư số .../2020/TT-BCT ngày ... tháng ... năm 2020 của Bộ trưởng Bộ Công Thương quy định Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển và vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa;
+Căn cứ kết quả kiểm tra sau tập huấn vận chuyển hàng hóa nguy hiểm của ………………………………….1;
+QUYẾT ĐỊNH:
+Điều 1. Công nhận kết quả kiểm tra sau tập huấn vận chuyển hàng hóa nguy hiểm cho các học viên theo danh sách đính kèm.
+Điều 2. Thời gian tập huấn từ ngày …. tháng … năm …… đến ngày …… tháng …… năm …… 
+Điều 3. …………………….3 và các học viên được công nhận kết quả tập huấn có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Lưu VP. | …………………………..2
+
+1 Tên đơn vị tập huấn (Cơ sở vận tải/ cơ sở thuê vận tải hoặc tổ chức huấn luyện)
+2 Thủ trưởng đơn vị tập huấn (Cơ sở vận tải/ cơ sở thuê vận tải hoặc tổ chức huấn luyện)
+3 Thủ trưởng đơn vị có đối tượng được tập huấn
+
+DANH SÁCH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+(Kèm theo Quyết định số …… ngày.... tháng.... năm ….. về việc công nhận kết quả tập huấn vận chuyển hàng hóa nguy hiểm)
+
+TT | Họ và tên | Nam Nữ | Ngày sinh | Nghề nghiệp | Số CMND/Hộ chiếu/ CCCD | Đơn vị công tác | Hình thức | Kết quả | Ghi chú
+ |  |  |  |  |  |  | Lần đầu | Định kỳ | Tập huấn lại |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |

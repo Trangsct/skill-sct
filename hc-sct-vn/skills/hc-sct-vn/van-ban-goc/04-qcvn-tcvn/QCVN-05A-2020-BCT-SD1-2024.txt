@@ -1,0 +1,87 @@
+[Bản trích chữ tự động (docx) từ QCVN-05A-2020-BCT-SD1-2024.docx — 82 đoạn, chuẩn hóa Unicode NFC. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+SỬA ĐỔI 1:2024 QCVN 05A:2020/BCT
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN TRONG SẢN XUẤT, KINH DOANH, SỬ DỤNG, BẢO QUẢN VÀ VẬN CHUYỂN HÓA CHẤT NGUY HIỂM
+Amendment 1:2024 QCVN 05A:2020/BCT
+National technical regulation on safety in production, commerce, use, storage and transportation of hazardous chemicals
+Lời nói đầu
+Sửa đổi 1:2024 QCVN 05A:2020/BCT do Tổ soạn thảo biên soạn, Cục Hóa chất trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công Thương ban hành kèm theo Thông tư số 19/2024/TT-BCT ngày 10 tháng 10 năm 2024.
+Sửa đổi 1:2024 QCVN 05A:2020/BCT chỉ bao gồm nội dung sửa đổi, bổ sung một số quy định của QCVN 05A:2020/BCT. Các nội dung không được nêu tại Sửa đổi 1:2024 này thì tiếp tục áp dụng QCVN 05A:2020/BCT ban hành kèm theo Thông tư số 48/2020/TT-BCT ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Công Thương.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN TRONG SẢN XUẤT, KINH DOANH, SỬ DỤNG, BẢO QUẢN VÀ VẬN CHUYỂN HÓA CHẤT NGUY HIỂM
+National technical regulation on safety in production, commerce, use, storage and transportation of hazardous chemicals
+I. Quy định chung
+1. Bổ sung điểm 3.6 như sau:
+“3.6. Hệ thống thu gom là một trong các phương tiện: đê bao, phao quây, rãnh thu gom và hố/bể thu hồi, khay chứa nhằm mục đích thu gom, ngăn ngừa hóa chất tràn, đổ thoát ra môi trường.”
+II. Quy định kỹ thuật
+2. Sửa đổi điểm 1.5 như sau:
+“1.5. QCVN 06:2022/BXD - Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công trình và Sửa đổi 1:2023 QCVN 06:2022/BXD.”
+3. Bổ sung điểm 1.12 như sau:
+“1.12 TCVN 3890:2023 - Tiêu chuẩn quốc gia về Phòng cháy chữa cháy - Phương tiện phòng cháy và chữa cháy cho nhà và công trình - trang bị, bố trí”
+4. Sửa đổi điểm 5.1 như sau:
+“5.1. Nhà xưởng sản xuất, kho chứa hóa chất nguy hiểm, khi thiết kế xây dựng mới hoặc cải tạo phải thực hiện theo TCVN 4604:2012, TCVN 3890:2023 và các quy định pháp luật có liên quan, phù hợp với tính chất, quy mô và công nghệ sản xuất, lưu trữ hóa chất.”
+5. Bãi bỏ điểm 5.2.
+6. Sửa đổi điểm 5.8 như sau:
+“5.8. Nhà xưởng, kho chứa hóa chất nguy hiểm có chiều dài hoặc chiều rộng từ 3m trở lên (≥ 3m) phải có tối thiểu hai cửa, gồm một cửa ra vào và một cửa thoát hiểm. Cửa thoát hiểm không được lắp đặt cùng phía với cửa ra vào, có thể mở ra từ bên trong và phải có biển báo chỉ dẫn.
+Nhà xưởng, kho chứa có chiều dài và chiều rộng nhỏ hơn 3m không bắt buộc phải có cửa thoát hiểm.”
+7. Sửa đổi, bổ sung điểm 5.9 như sau:
+“5.9. Nhà xưởng, kho chứa hóa chất nguy hiểm phải trang bị thiết bị rửa mắt di động hoặc thiết bị rửa mắt và tắm khẩn cấp, trừ trường hợp quy định tại đoạn thứ hai của điểm này.
+Nhà xưởng, kho chứa hóa chất ăn mòn, trong phạm vi tối đa 17m từ khu vực tồn trữ phải lắp đặt thiết bị rửa mắt và tắm khẩn cấp.”
+8. Sửa đổi điểm 5.12 như sau:
+“5.12. Quy cách xếp hóa chất trong kho:
+- Hóa chất đóng bao phải xếp trên bục hoặc trên kệ chứa, cách tường tối thiểu 0,5m;
+- Hóa chất có khả năng phản ứng với nước phải xếp trên bục hoặc trên kệ cách mặt đất tối thiểu 0,3m;
+- Hóa chất phải được xếp cách trần kho tối thiểu 1,5m;
+- Đường đi trong nhà xưởng, kho chứa phải rộng tối thiểu 0,75m. Trường hợp sử dụng xe nâng, đường đi phải rộng tối thiểu 2m”.
+9. Sửa đổi điểm 5.14 như sau:
+“5.14. Xếp chồng các phương tiện chứa hóa chất phải đảm bảo khả năng chịu tải cho phép của pa-lết. Không xếp nhiều hơn 03 (ba) tầng đối với phương tiện chứa dung tích dưới 1.000L. Không xếp nhiều hơn 02 (hai) tầng đối với phương tiện chứa dung tích trên 1.000L. Hóa chất không xếp cao quá 2m nếu không có kệ chứa.”
+10. Sửa đổi điểm 5.15 như sau:
+“5.15. Nhà xưởng, kho chứa hóa chất nguy hiểm dạng lỏng phải có hệ thống thu gom để đảm bảo hóa chất không thoát ra môi trường; hóa chất không tiếp xúc với các loại hóa chất có khả năng phản ứng trong trường hợp xảy ra sự cố tràn đổ, rò rỉ hóa chất nguy hiểm khác.”
+11. Sửa đổi điểm 8.1.3 như sau:
+“8.1.3. Hóa chất dễ cháy, nổ không bảo quản cùng khu vực với ô xy, các chất có khả năng sinh ra ô xy ở điều kiện bảo quản thường, các hóa chất nguy hiểm có đặc tính không tương thích, các chất có yêu cầu về phương pháp chữa cháy khác nhau hoặc có khả năng tạo phản ứng nguy hiểm khi tiếp xúc hoặc cháy.”
+12. Sửa đổi điểm 8.4.9 như sau:
+“8.4.9. Trường hợp xảy ra sự cố cháy, nổ, mọi người có mặt phải dùng phương tiện bảo vệ cá nhân đảm bảo an toàn tham gia cứu chữa người bị nạn và ứng phó sự cố. Những người không có phương tiện bảo vệ cá nhân đảm bảo an toàn phải rời khỏi hiện trường, không được tham gia ứng phó sự cố.”
+13. Sửa đổi điểm 9.1.1 như sau:
+“9.1.1. Nhà xưởng, kho chứa hóa chất ăn mòn ở dạng lỏng phải có hệ thống thu gom hóa chất. Hệ thống thu gom phải có dung tích tối thiểu bằng 110% dung tích phương tiện chứa lớn nhất.”
+14. Sửa đổi điểm 9.1.4 như sau:
+“9.1.4. Nhà xưởng, kho chứa hóa chất ăn mòn phải có biện pháp phòng ngừa chống ăn mòn.”
+15. Sửa đổi điểm 10.1.3 như sau:
+“10.1.3. Nhà xưởng, kho chứa hóa chất độc dạng lỏng, dạng khí phải có thiết bị cảnh báo rò rỉ, tràn đổ phù hợp. Đối với chất độc dạng rắn phải lắp thiết bị giám sát. Đối với hóa chất độc có khả năng phát tán dạng khí ra môi trường phải trang bị thiết bị hút và xử lý khí độc hoặc giàn phun mưa tự động để ứng phó sự cố.”
+16. Sửa đổi điểm 10.1.7 như sau:
+“10.1.7. Nhà xưởng, kho chứa hóa chất độc dạng lỏng phải có hệ thống thu gom. Dung tích tối thiểu hệ thống thu gom phải bằng 110% dung tích phương tiện chứa lớn nhất.”
+17. Sửa đổi điểm 11.2 như sau:
+“11.2. Dung tích chứa của hệ thống đê bao phải có khả năng chứa tối thiểu 110% dung tích phương tiện chứa lớn nhất.”
+18. Sửa đổi điểm 12.1 như sau:
+“12.1. Khi vận chuyển hóa chất nguy hiểm phải tuân thủ theo quy định Nghị định 34/2024/NĐ-CP ngày 31 tháng 3 năm 2024 của Chính phủ quy định Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và phương tiện thủy nội địa và các văn bản quy phạm pháp luật hiện hành.”
+III. Tổ chức thực hiện
+19. Bổ sung điểm 2.3 như sau:
+“2.3. Trường hợp văn bản quy phạm pháp luật và quy định được viện dẫn trong Quy chuẩn kỹ thuật này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới”.
+
+Phụ lục A
+CÁC HÌNH ĐỒ CẢNH BÁO THỂ HIỆN CÁC ĐẶC TÍNH NGUY HIỂM CỦA HÓA CHẤT
+Thay thế Phụ lục A của QCVN 05A:2020/BCT Quy chuẩn kỹ thuật quốc gia về an toàn trong sản xuất, kinh doanh, sử dụng, bảo quản và vận chuyển hóa chất nguy hiểm ban hành kèm theo Thông tư số 48/2020/TT-BCT ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Công Thương bằng Phụ lục A kèm theo Sửa đổi 1:2024 QCVN 05A:2020/BCT.
+
+Hình đồ cảnh báo theo GHS | Hình đồ cảnh báo được phân loại và nhóm loại theo tính chất hóa, lý, hàng hóa nguy hiểm (Nhãn tương đương hình đồ cảnh báo theo GHS)
+GHS01 |  |  |  |  |  | 
+ | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.1: Chất và vật phẩm có nguy cơ nổ rộng. | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.2: Chất và vật phẩm có nguy cơ bắn tóe nhưng không nổ rộng. | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.3: Chất và vật phẩm có nguy cơ cháy và nguy cơ nổ nhỏ hoặc bắn tóe nhỏ hoặc cả hai, nhưng không nổ rộng. | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.4: Chất và vật phẩm có nguy cơ không đáng kể. | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.5: Chất rất không nhạy nhưng có nguy cơ nổ rộng. | Loại 1. Chất nổ và vật phẩm dễ nổ. Nhóm 1.6: Vật phẩm đặc biệt không nhạy, không có nguy cơ nổ rộng.
+GHS02 |  |  |  |  |  | 
+ | Loại 3. Chất lỏng dễ cháy và chất nổ lỏng khử nhạy. | Loại 4. Nhóm 4.1: Chất rắn dễ cháy, chất tự phản ứng và chất nổ rắn được ngâm trong chất lỏng hoặc bị khử nhạy. | Loại 4. Nhóm 4.2: Chất có khả năng tự bốc cháy. | Loại 4. Nhóm 4.3: Chất khi tiếp xúc với nước tạo ra khí dễ cháy. |  | 
+ |  |  |  |  |  | 
+ | Loại 2. Khí. Nhóm 2.1: Khí dễ cháy. | Loại 5. Nhóm 5.2: Perôxít hữu cơ. |  |  |  | 
+GHS03 |  |  |  |  |  | 
+ | Loại 5. Nhóm 5.1: Chất ôxy hóa |  |  |  |  | 
+GHS04 |  |  |  |  |  | 
+ | Loại 2. Khí. Nhóm 2.1: Khí dễ cháy. | Loại 2. Khí. Nhóm 2.2: Khí không dễ cháy, không độc hại | Loại 2. Khí. Nhóm 2.3: Khí độc hại. |  |  | 
+GHS05 |  |  |  |  |  | 
+ | Loại 8: Chất ăn mòn. |  |  |  |  | 
+GHS06 |  |  |  |  |  | 
+ | Loại 6. Nhóm 6.1: Chất độc. | Loại 2. Khí. Nhóm 2.3: Khí độc hại. |  |  |  | 
+GHS07 | Không có hình đồ tương đương |  |  |  |  | 
+ |  |  |  |  |  | 
+GHS08 | Không có hình đồ tương đương |  |  |  |  | 
+ |  |  |  |  |  | 
+GHS09 | Không có hình đồ tương đương |  |  |  |  | 
+Không có hình đồ tương đương |  |  |  |  |  | 
+ | Loại 9: Chất và vật phẩm nguy hiểm khác. |  |  |  |  | 
+Không nằm trong phạm vi yêu cầu về hóa chất nguy hiểm tại nơi làm việc |  |  |  |  |  | 
+ | Loại 6. Nhóm 6.2: Chất gây nhiễm bệnh. | Loại 7: Chất phóng xạ. |

@@ -1,0 +1,90 @@
+[Bản trích chữ tự động bằng pdftotext từ CV-216-ATMT-ATD-30-01-2026-huong-dan-nao-vet-ket-hop-thu-hoi-KS-long-ho-thuy-dien.pdf — 2 trang. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+BỘ CÔNG THƯƠNG       CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+   CỤC KỸ THUẬT AN TOÀN         Độc lập - Tự do - Hạnh phúc
+VÀ MÔI TRƯỜNG CÔNG NGHIỆP
+
+       Số: 216/ATMT-ATĐ                                   Hà Nội, ngày 30 tháng 01 năm 2026
+V/v hướng dẫn thực hiện hoạt động
+nạo vét kết hợp thu hồi sản phẩm là
+khoáng sản trong lòng hồ thủy điện
+
+
+                                   Kính gửi: Sở Công Thương tỉnh Lài Cai
+
+      Trả lời Văn bản số 472/SCT-NL ngày 28 tháng 01 năm 2026 của Sở Công
+Thương tỉnh Lào Cai về việc đề nghị hướng dẫn thực hiện hoạt động nạo vét kết
+hợp thu hồi sản phẩm là khoáng sản trong lòng hồ thủy điện, sau khi nghiên cứu,
+Cục Kỹ thuật an toàn và Môi trường công nghiệp (Cục ATMT) có ý kiến như
+sau:
+      1. Căn cứ quy định tại Điều 42 Nghị định số 62/2025/NĐ-CP ngày
+04/3/2025 của Chính phủ quy định chi tiết thi hành Luật Điện lực về bảo vệ
+công trình điện lực và an toàn trong lĩnh vực điện lực và Quyết định số 628/QĐ-
+BCT ngày 07 tháng 3 năm 2025 của Bộ Công Thương về việc công bố thủ tục
+hành chính mới ban hành; thủ tục hành chính được sửa đổi, bổ sung và thủ tục
+hành chính bị bãi bỏ trong lĩnh vực an toàn đập, hồ chứa thủy điện, điện thuộc
+phạm vi chức năng quản lý của Bộ Công Thương thì hiện nay đã không còn thủ
+tục hành chính cấp giấy phép hoạt động trong phạm vi bảo vệ đập, hồ chứa thủy
+điện. Do đó, các hoạt động trong phạm vi bảo vệ đập, hồ chứa thủy điện sẽ
+không còn phải thực hiện thủ tục xin cấp giấy phép trong phạm vi bảo vệ đập,
+hồ chứa thủy điện theo Nghị định số 114/2018/NĐ-CP. Ngoài ra, Điều 14 Nghị
+định số 67/2018/NĐ-CP ngày 14/5/2018 của Chính phủ Quy định chi tiết một số
+điều của Luật Thủy lợi được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định số
+40/2023/NĐ-CP ngày 27/6/2023 Sửa đổi, bổ sung một số điều của Nghị định số
+67/2018/NĐ-CP ngày 14/5/2018 của Chính phủ quy định chi tiết một số điều
+của Luật Thủy lợi đã quy định rõ: “Đối với các dự án bảo trì, sửa chữa, nâng
+cấp, hiện đại hóa hoặc bổ sung hạng mục vào công trình thủy lợi hiện có do chủ
+sở hữu công trình thủy lợi quyết định chủ trương đầu tư thì không phải xin giấy
+phép” (giấy phép hoạt động trong phạm vi bảo vệ đập, hồ chứa).
+       Việc bảo trì, sửa chữa, nâng cấp công trình (trong đó có việc nạo vét bồi
+lắng lòng hồ) trước mùa mưa hàng năm thực hiện theo quy định tại Điều 42
+Nghị định số 62/2025/NĐ-CP ngày 04/3/2025 của Chính phủ. Trường hợp hoạt
+động nạo vét bồi lắng lòng hồ có kết hợp thu hồi cát, sỏi, cuội thì phải tuân thủ
+quy định của pháp luật về địa chất và khoáng sản và pháp luật về xây dựng (theo
+đúng quy định tại Khoản 61 Điều 78 Luật Điện lực).
+
+         1 6. Hoạt động thăm dò, khai thác cát, sỏi và hoạt động nạo vét kết hợp thu hồi khoáng sản trong lòng hồ thủy điện
+
+phải bảo đảm an toàn cho đập, hồ chứa thủy điện quy định tại khoản 5 Điều này và tuân thủ quy định của pháp luật về địa
+chất và khoáng sản, pháp luật về tài nguyên nước.
+                                       2
+
+       2. Các nội dung cần lưu ý khi chủ đầu tư triển khai:
+       - Về bảo trì, sửa chữa, nâng cấp, hiện đại hóa công trình và thiết bị; đảm
+bảo an toàn công trình, hồ chứa thủy điện
+       + Chịu trách nhiệm bảo đảm kinh phí bảo trì, sửa chữa, nâng cấp, hiện đại
+hóa, lắp đặt hệ thống giám sát vận hành, thiết bị thông tin, lập và thực hiện quy
+trình bảo trì công trình, cảnh báo an toàn cho đập, hồ chứa nước và vùng hạ du.
+       + Bảo đảm an toàn lao động, tuyệt đối không để xảy ra tai nạn trong quá
+trình thực hiện công tác nạo vét bùn cát.
+       + Bảo đảm không gây cản trở cho việc vận hành và bảo đảm các yêu cầu
+về an toàn công trình thủy điện theo quy định tại khoản 1, Điều 49 Nghị định số
+62/2025/NĐ-CP ngày 04 tháng 3 năm 2025 của Chính phủ, cụ thể:
+       (i) Tuân thủ các quy định pháp luật về xây dựng, bảo vệ môi trường, tài
+nguyên nước, đất đai, khoáng sản và các quy định khác của pháp luật.
+       (ii) Không được ảnh hưởng đến phạm vi bảo vệ đập thủy điện; có biện
+pháp triệt tiêu ngay cơ xâm phạm vào phạm vi bảo vệ đập, cửa nhận nước của
+công trình thủy điện.
+       (iii) Không gây sạt lở bờ hồ thủy điện, làm bồi lắng lòng hồ, tác động đến
+trầm tích đáy hồ thủy điện.
+       - Trường hợp thực hiện nạo vét bồi lắng lòng hồ thủy điện mà có hoạt
+động thu hồi khoáng sản (cát, sỏi) trong quá trình nạo vét thì đề nghị Sở Công
+Thương hướng dẫn chủ đầu tư có trách nhiệm liên hệ với Sở Nông nghiệp và
+Môi trường để được hướng dẫn việc cấp giấy xác nhận đăng ký thu hồi khoáng
+sản lòng hồ đảm bảo tuân thủ nguyên tắc, thẩm quyền theo quy định Điều 75,
+Điều 76 Luật Địa chất và Khoáng sản năm 2024 và Nghị định số 193/2025/NĐ-
+CP ngày 02 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi hành Luật Địa
+chất và Khoáng sản.
+      Trên đây là ý kiến của Cục ATMT, đề nghị Sở Công Thương tỉnh Lào Cai
+nghiên cứu, hướng dẫn chủ đập thủy điện thực hiện đúng quy định./.
+Nơi nhận:                                       KT. CỤC TRƯỞNG
+- Như trên;                                     PHÓ CỤC TRƯỞNG
+- TT Trương Thanh Hoài (để b/c);
+- Cục trưởng (để b/c);
+- UBND tỉnh Lào Cai;
+- Lưu: VT, ATĐ (Anhch).
+
+
+
+
+                                                 Trịnh Văn Thuận

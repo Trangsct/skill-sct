@@ -1,0 +1,75 @@
+name: Nap kho (Hop thu _inbox)
+
+# Bạn kéo thả tệp văn bản (.pdf/.doc/.docx/.xlsx) vào thư mục _inbox/ trên GitHub (Add file → Upload files).
+# Mỗi lần có push chạm _inbox/, workflow này chạy scripts/nap_kho.py: đọc số, ngày, tên bằng script, đoán
+# plugin chủ, đổi tên chuẩn, chuyển vào van-ban-goc/ của plugin, sinh bản .txt, dựng lại danh mục chung,
+# xóa tệp khỏi _inbox/, rồi mở Pull Request "Nạp kho: ..." để Bạn duyệt merge.
+#
+# Cần bật một lần trong Settings → Actions → General → Workflow permissions:
+#   "Read and write permissions" + "Allow GitHub Actions to create and approve pull requests".
+
+on:
+  push:
+    paths:
+      - "_inbox/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: nap-kho-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  nap:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Co tep can nap khong
+        id: co
+        run: |
+          n=$(find _inbox -maxdepth 1 -type f \( -iname '*.pdf' -o -iname '*.doc' -o -iname '*.docx' -o -iname '*.xlsx' \) | wc -l)
+          echo "so_tep=$n" >> "$GITHUB_OUTPUT"
+          echo "Tep trong _inbox: $n"
+
+      - name: Cai cong cu doc van ban (pdftotext, tesseract tieng Viet, LibreOffice)
+        if: steps.co.outputs.so_tep != '0'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-vie libreoffice-writer
+          pip install openpyxl pyyaml
+
+      - name: Nap tep vao van-ban-goc cua plugin chu
+        if: steps.co.outputs.so_tep != '0'
+        id: nap
+        run: python3 scripts/nap_kho.py --ket-qua /tmp/nap
+
+      - name: Tao nhanh, commit va mo Pull Request
+        if: steps.co.outputs.so_tep != '0' && steps.nap.outputs.co_tep == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          nhanh="nap-kho/$(date -u +%Y%m%d-%H%M%S)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$nhanh"
+          find . -name __pycache__ -not -path "./.git/*" -prune -exec rm -rf {} +
+          git add -A
+          git commit -F /tmp/nap/commit.txt
+          git push -u origin "$nhanh"
+          if ! gh pr create --base main --head "$nhanh" --title "$(cat /tmp/nap/title.txt)" --body-file /tmp/nap/body.md; then
+            echo "::error::Không mở được PR: vào Settings → Actions → General → Workflow permissions, bật 'Read and write permissions' và 'Allow GitHub Actions to create and approve pull requests' rồi chạy lại. Nhánh đã đẩy: $nhanh — có thể mở PR tay tại https://github.com/${GITHUB_REPOSITORY}/pull/new/$nhanh"
+            { echo "## Nạp kho: nhánh \`$nhanh\` đã đẩy nhưng KHÔNG mở được PR"; echo; echo "Bật Settings → Actions → General → Workflow permissions → *Allow GitHub Actions to create and approve pull requests*, hoặc mở PR tay: https://github.com/${GITHUB_REPOSITORY}/pull/new/$nhanh"; echo; cat /tmp/nap/body.md; } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi

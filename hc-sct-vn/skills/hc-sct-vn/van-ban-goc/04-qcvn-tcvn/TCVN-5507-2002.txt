@@ -1,0 +1,663 @@
+[Bản trích chữ tự động (doc->docx) từ TCVN-5507-2002.doc — 643 đoạn, chuẩn hóa Unicode NFC. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+TIÊU CHUẨN VIỆT NAM
+TCVN 5507: 2002
+SOÁT XÉT LẦN 2
+HOÁ CHẤT NGUY HIỂM – QUI PHẠM AN TOÀN 
+TRONG SẢN XUẤT, KINH DOANH, SỬ DỤNG, 
+BẢO QUẢN VÀ VẬN CHUYỂN
+Hazardous chemicals - Code of practice for safety in production, 
+commerce, use, handing and transportation
+MỤC LỤC
+1 Phạm vi áp dụng 
+2 Tiêu chuẩn trích dẫn 
+3 Thuật ngữ 
+4 Qui định chung 
+5 Yêu cầu an toàn trong sản xuất, kinh doanh và sử dụng hoá chất nguy hiểm
+6 Yêu cầu an toàn trong bảo quản hoá chất nguy hiểm
+7 Yêu cầu an toàn trong vận chuyển hoá chất nguy hiểm
+8 Yêu cầu an toàn trong lao động, vệ sinh lao động và bảo vệ môi trường
+Phụ lục A 
+Phụ lục B 
+Phụ lục C 
+Phụ lục D 
+Phụ lục E 
+
+LỜI NÓI ĐẦU
+TCVN 5507: 2002 thay thế cho TCVN 5507: 1991
+TCVN 5507: 2002 do Tiểu ban kỹ thuật tiêu chuẩn TCVN/TC 47/SC3 an toàn hoá chất hoàn thiện trên cơ sở dự thảo của Công ty Hoá chất, Bộ Thương mại đề nghị, Tổng cục Tiêu chuẩn Đo lường Chất lượng xét duyệt, Bộ Khoa học và Công nghệ ban hành.
+TCVN 5507:2002
+HOÁ CHẤT NGUY HIỂM – QUI PHẠM AN TOÀN TRONG SẢN XUẤT, KINH DOANH, SỬ DỤNG, BẢO QUẢN VÀ VẬN CHUYỂN
+Hazardous chemicals - Code of practice for safety in production, commerce, use, handing and transportation
+1 Phạm vi áp dụng
+Tiêu chuẩn này áp dụng cho các cơ sở có các hoạt động sản xuất, kinh doanh, sử dụng, bảo quản và vận chuyển hoá chất nguy hiểm, kể cả hoá chất bảo vệ thực vật dùng trong nông nghiệp.
+Tiêu chuẩn này không áp dụng cho chất nổ và chất phóng xạ.
+2 Tiêu chuẩn viện dẫn
+TCVN 2290 – 78 Thiết bị sản xuất. Yêu cầu chung về an toàn.
+TCVN 2622: 1995 Phòng cháy, chống cháy cho nhà và công trình – Yêu cầu thiết kế. TCVN 3147 – 1990 Qui phạm an toàn trong công tác xếp dỡ – Yêu cầu chung.
+TCVN 3255 – 86 An toàn nổ. Yêu cầu chung.
+TCVN 3288 – 79 Hệ thống thông gió. Yêu cầu chung.
+TCVN 4512 – 88 Qui phạm vận chuyển hàng nguy hiểm bằng đường biển. TCVN 4604 – 88 Xí nghiệp công nghiệp. Nhà sản xuất. Tiêu chuẩn thiết kế.
+TCVN 5939: 1995 Chất lượng không khí – Tiêu chuẩn khí thải công nghiệp đối với bụi và các chất vô cơ.
+TCVN 5940: 1995 Chất lượng không khí – Tiêu chuẩn khí thải công nghiệp đối với bụi và các chất hữu cơ.
+TCVN 5945: 1995 Nước thải công nghiệp – Tiêu chuẩn thải.
+TCVN 6304: 1997 Chai chứa khí đốt lỏng – Yêu cầu an toàn trong bảo quản, xếp dỡ, vận chuyển. TCVN 6404: 1998 Sử dụng bao bì trong sản xuất – Yêu cầu chung về an toàn.
+3 Thuật ngữ
+Tiêu chuẩn này có sử dụng các thuật ngữ sau:
+3.1 Hoá chất nguy hiểm (Hazardous chemicals)
+Là những hoá chất trong quá trình sản xuất, kinh doanh, sử dụng, bảo quản, vận chuyển và thải bỏ có thể gây ra cháy, nổ, ăn mòn, khó phân huỷ trong môi trường gây nhiễm độc cho con người, động thực vật và ô nhiễm môi trường.
+3.1.1 Hoá chất dễ cháy, nổ (explosive flammable chemicals)
+Là những hoá chất có thể/ hoặc tự phân giải gây cháy, nổ hoặc cùng các chất khác tạo thành hỗn hợp cháy, nổ trong điều kiện nhất định về thành phần, nhiệt độ, độ ẩm, áp suất.
+Chú thích – Trong tiêu chuẩn này các chất dễ cháy, nổ được phân theo nhóm theo nhiệt độ bùng cháy và theo giới hạn nổ trong phụ lục B và C.
+3.1.2 Hoá chất ăn mòn (Corrosive chemicals)
+Là những hoá chất có tác dụng phá huỷ dần các dạng vật chất như: kết cấu xây dựng và máy móc, thiết bị, đường ống … huỷ hoại da và gây bỏng đối với người và súc vật.
+3.1.3 Hoá chất độc (Toxic chemicals)
+Là những hoá chất gây độc hại, ảnh hưởng xấu trực tiếp hoặc gián tiếp đến người và sinh vật. Hoá chất độc có thể xâm nhập vào cơ thể qua da, qua đường tiêu hoá, qua đường hô hấp, gây nhiễm/ngộ độc cấp tính hoặc mon tính, gây nhiễm độc cục bộ hoặc toàn thân; có thể là những hóa chất có khả năng gây ung thư, dị tật…
+3.2 Sự cố hóa chất (Event of chemical hazards)
+Sự việc bất thường liên quan tới hóa chất gây cháy, nổ, độc hại, ăn mòn hoặc ô nhiễm môi trường.
+3.3 Chất thải nguy hại (hazardous waste)
+Là chất thải có chứa các đơn chất hoặc hợp chất có một trong các đặc tính gây nguy hại trực tiếp (dễ cháy, nổ, gây ngộ độc, dễ ăn mòn, dễ gây ô nhiễm môi trường và các đặc tính nguy hại khác) hoặc tương tác với các chất khác gây nguy hại tới môi trường, động thực vật và sức khỏe con người.
+4 Qui định chung
+4.1 Yêu cầu chung
+4.1.1 Cơ sở sản xuất, kinh doanh, sử dụng và vận chuyển hóa chất nguy hiểm (sau đây được gọi tắt là: cơ sở có hóa chất nguy hiểm) phải tuân theo các qui định trong tiêu chuẩn này cùng với các qui định pháp lý hiện hành khác có liên quan. Danh mục các hóa chất nguy hiểm thông dụng theo phụ lục A.
+4.1.2 Cơ sở có hóa chất nguy hiểm phải biết rõ được các tính chất nguy hiểm, phương pháp phòng ngừa và xử lý sự cố nguy hại xảy ra của từng loại hóa chất; có trách nhiệm cung cấp những thông tin nguy hiểm về hóa chất cho cơ quan quản lý an toàn lao động có thẩm quyền, những đối tượng sử dụng trực tiếp và những đối tượng có liên quan trong hoạt động hóa chất đó.
+4.1.3 Tại mỗi phân xưởng, kho tàng có hoạt động liên quan đến hóa chất nguy hiểm phải có bảng hướng dẫn cụ thể về qui trình thao tác an toàn và đặt ở vị trí dễ đọc.
+4.1.4 Những người làm việc tiếp xúc với các hóa chất nguy hiểm phải được đào tạo và được cấp thẻ an toàn lao động theo qui định hiện hành của pháp luật. Định kỳ, cơ sở có hóa chất nguy hiểm phải mở lớp bổ túc kiến thức, nghiệp vụ về an toàn lao động, vệ sinh lao động và xử lý sự cố hóa chất cho cán bộ công nhân viên của mình.
+4.1.6 Cơ sở có hóa chất nguy hiểm phải trang bị đầy đủ phương tiện bảo vệ cá nhân phù hợp với tính chất công việc, mức độ độc hại của từng loại hóa chất. Phải hướng dẫn cho công nhân cách sử dụng và bảo quản các phương tiện này. Cấm sử dụng các phương tiện bảo vệ cá nhân đã bị hư hỏng.
+4.1.7 Cơ sở có hóa chất nguy hiểm phải có trách nhiệm thực hiện các qui định pháp luật về bảo vệ môi trường, đảm bảo an toàn vệ sinh môi trường.
+4.1.8 Tất cả các trường hợp tai nạn lao động, sự cố xảy ra do hóa chất nguy hiểm đều phải được xử lý kịp thời, khai báo, điều tra, lập biên bản và báo cáo với cơ quan có thẩm quyền theo đúng qui định.
+4.1.9 Trường hợp xảy ra sự cố hóa chất. (cháy, nổ, đổ vỡ…) người chịu trách nhiệm về hàng hóa hoặc lãnh đạo cơ sở xảy ra tai nạn, phải báo ngay cho cơ quan có thẩm quyền theo qui định hiện hành.
+Phải tổ chức canh gác và cắm biển để khoanh vùng và cách ly hiện trường (khu vực có hóa chất bắn ra, đổ vỡ, chảy,…) phải tiến hành và hoàn thành một cách triệt để việc xử lý hiện trường.
+4.1.10 Chỉ những người hiểu rõ tính chất nguy hiểm của hóa chất, biết phương pháp xử lý và có đủ phương tiện bảo vệ cá nhân mới được xử lý sự cố.
+4.1.11 Những cơ sở có hóa chất nguy hiểm, khi xảy ra sự cố hóa chất có khả năng gây tác hại nghiêm trọng đến cộng đồng và môi trường, phải lập và triển khai thực hiện kế hoạch xử lý và ứng cứu khẩn cấp.
+4.2 Yêu cầu về nhà kho, nhà xưởng
+4.2.1 Nhà xưởng, kho tàng của các cơ sở có hóa chất nguy hiểm, khi thiết kế xây dựng mới hoặc cải tạo phải theo qui định trong TCVN 2622: 1995 ; TCVN 4604: 1988 và phải đảm bảo khoảng cách an toàn với khu dân cư và cuối nguồn nước .
+Không được bố trí nhà xưởng, kho tàng ở đầu hướng gió thuộc hướng gió ưu thế so với cơ sở. Nếu bố trí các cơ sở này trong hang hầm thì phải có đủ các biện pháp đảm bảo yêu cầu về an toàn lao động và vệ sinh lao động.
+Hệ thống thông gió nhà xưởng, kho tàng phải theo qui định TCVN 3288:1979.
+4.2.2 Nhà xưởng, kho hóa chất nguy hiểm phải khô ráo không thấm, dột, phải có hệ thống thu lôi chống sét, phải định kỳ kiểm tra hệ thống này theo các qui định hiện hành.
+4.2.3 Kho hóa chất nguy hiểm phải được kiểm tra định kỳ hàng năm về an toàn và biện pháp đảm bảo an toàn trước mùa mưa bão.
+4.2.4 Hóa chất nguy hiểm nhất thiết phải để trong kho. Kho chứa hóa chất nguy hiểm phải qui hoạch khu vực sắp xếp theo tính chất của từng loại hóa chất. Không được xếp trong cùng một kho các hóa chất có khả năng phản ứng với nhau, hoặc có phương pháp chữa cháy khác nhau.
+4.2.5 Bên ngoài kho, xưởng phải có biển “Cấm lửa”, “cấm hút thuốc”, chữ to, màu đỏ; biển ghi ký hiệu chất chữa cháy. Các biển này phải rõ ràng và để ở chỗ dễ thấy nhất.
+4.2.6 Khi xếp hóa chất trong kho phải đảm bảo yêu cầu an toàn cho người lao động và hàng hóa như sau:
+- Đối với hàng đóng bao phải xếp trên bục hoặc trên giá đỡ, cách tương ít nhất 0,5 m, hóa chất kỵ ẩm phải xếp trên bục cao tối thiểu 0,3m;
+- Hóa chất dạng lỏng chứa trong phuy, can… và hóa chất dạng khí chứa trong các bình chịu áp lực phải được xếp đúng qui định;
+- Các lô hàng không được xếp sát trần kho và không cao quá 2 m;
+- Lối đi chính trong kho rộng tối thiểu 1,5 m;
+- Không được xếp các lô hàng nặng qua tải trọng của nền kho;
+- Không được để các bao bì đã dùng, các vật liệu dễ cháy ở trong kho;
+- Thường xuyên kiểm tra các lô hàng, thông gió, thoát ẩm, lớp hóa chất cuối cùng không bị đè hỏng.
+4.3 Yêu cầu về thiết bị
+4.3.1 Thiết bị sản xuất, bảo quản, vận chuyển, sử dụng với hóa chất nguy hiểm phải theo qui định trong TCVN 2290: 1978.
+4.3.2 Khi thay thế, bổ sung các chi tiết như: thiết bị đơn lẻ, đường ống, các van, khóa hãm … sử dụng với hóa chất nguy hiểm phải đảm bảo độ bền cơ học, hóa học, độ chịu lửa, chịu nhiệt, độ kín theo đúng chi tiêu kỹ thuật qui định.
+4.3.3 Thiết bị vận chuyển (băng tải, băng nâng..) phải có hệ thống phát tín hiệu cảnh báo trước khi khởi động.
+4.3.4 Bề mặt nóng của thiết bị và ống dẫn có thể gây ra bỏng cho người làm việc, phải được che chắn cách ly.
+4.3.5 Trong khi vận hành, sử dụng các thiết bị làm việc có áp lực cần thực hiện đúng những yêu cầu trong hệ thống tiêu chuẩn Việt Nam về các thiết bị chịu áp lực.
+4.3.6 Hệ thống đo lường, kiểm sóat công nghệ của các thiết bị trong các quá trình sản xuất hóa chất nguy hiểm phải được kiểm tra định kỳ, hiệu chuẩn sai số đảm bảo cho thiết bị vận hành ổn định.
+4.4 Yêu cầu về bao bì
+4.4.1 Vật liệu, chủng loại, kết cấu và kiểm tra bao bì phải theo các qui định trong TCVN 6406: 1998.
+4.4.2 Vật chứa, bao bì phải đảm bảo kín và chắc chắn. Bao bì khi dùng hết phải bảo quản riêng. Trường hợp sử dụng lại bao bì phải làm sạch, bảo đảm không gây ảnh hưởng đến hóa chất mới hoặc gây nguy hiểm.
+Vật liệt kê, đậy phải được đánh dấu để phân biệt từng loại hóa chất, không được dùng lẫn lộn.
+4.4.3 Vật chứa, bao bì chứa đựng hóa chất nguy hiểm phải có nhãn hàng hóa ghi đầy đủ các nội dung theo qui định của Qui chế ghi nhãn hàng hóa. Các biểu trưng an toàn theo qui định trong phụ lục E.
+4.4.4 Nhãn của hóa chất phải đảm bảo rõ, dễ đọc và không bị rách. Trường hợp nhãn bị mất, không phân biệt được là chất gì, phải phân tích, xác định rõ tên và thành phần chính của hóa chất và bổ sung nhãn mới trước khi đưa ra lưu thông hoặc đưa vào sử dụng.
+4.5 Yêu cầu về quản lý
+4.5.1 Cơ sở có hóa chất nguy hiểm thuộc danh mục các mặt hàng hạn chế kinh doanh, kinh doanh có điều kiện, ngoài việc áp dụng tiêu chuẩn này còn phải thực hiện theo các qui định hiện hành của pháp luật.
+4.5.2 Cơ sở có hóa chất nguy hiểm phải có qui chế quản lý chặt chẽ trong xuất, nhập. Chỉ có người có trình độ chuyên môn phù hợp được giao trách nhiệm quản lý hóa chất nguy hiểm mới được phép giao, nhận. Phải có sổ theo dõi xuất, nhập, tồn kho hàng ngà, khi thấy thiếu, thừa, sai qui cách phải báo ngay với cấp trên.
+4.5.3 Khi giao nhận hóa chất nguy hiểm, chứng từ phải ghi rõ ngày, tháng, năm, họ tên, có chữ ký của người giao hàng, nhận hàng và xác nhận của cơ sở có hàng. Chỉ được giao, nhận hàng có bao bì nguyên vẹn và đầy đủ nhãn hàng hóa với đầy đủ các thông tin theo qui định hiện hành.
+4.5.4 Hóa chất hết thời hạn sử dụng hoặc mất phẩm chất phải được xử lý, nếu huỷ bỏ phải tuân thủ nghiêm ngặt các quy định hiện hành của Nhà nước.
+5 Yêu cầu an toàn trong sản xuất, kinh doanh và sử dụng hóa chất nguy hiểm
+5.1 Hóa chất dễ cháy nổ
+5.1.1 Cơ sở có hóa chất nguy hiểm, đặc biệt là hóa chất dễ cháy, nổ đều phải thực hiện đúng các qui trình kỹ thuật để đảm bảo hỗn hợp, khí, hơi bụi của các hóa chất này với không khí luôn ngoài vùng giới hạn cháy nổ theo qui định trong phụ lục B, C và bảo quản theo phụ lục D.
+5.1.2 Cơ sở có hóa chất dễ gây cháy, nổ phải đăng ký với các cơ quan có thẩm quyền ở địa phương và phải lập và thực hiện kế hoạch phòng cháy, nổ, bảo vệ môi trường theo qui định.
+5.1.3 Khi xây dựng các kho chứa, các cơ sở sản xuất, sử dụng hóa chất dễ cháy, nổ phải tuân theo các qui định về cự ly an toàn, các cấp bậc chịu lửa của công trình và việc bố trí giao thông đi lại của người và phương tiện phải tuân theo các qui định trong TCVN 2622: 1995.
+5.1.4 Nơi sản xuất, sử dụng hóa chất dễ cháy, nổ phải có lối thoát nạn, phải có các buồng phụ. Những buồng phụ này phải cách ly với buồng chính bằng các cấu kiện ngăn chặn có giới hạn chịu lửa nhỏ nhất là 1,5 giờ.
+5.1.5 Cơ sở có hóa chất dễ cháy, nổ ngoài việc phải trang bị đẩy đủ các phương tiện và chất chữa cháy thích hợp, phải trang bị thêm các phương tiện bảo vệ cá nhân chống độc thích hợp khi chữa cháy.
+5.1.6 Trong khu vực sản xuất, sử dụng và kho tàng chứa các hóa chất dễ cháy, nổ phái qui định chặt chẽ chế độ dùng lửa . Khi cần thiết sửa chữa cơ khí, hàn điện hay hàn hơi phải có quy trình làm việc làm việc an toàn phòng cháy, nổ, có xác nhận bảo đảm của cán bộ an toàn lao động.
+5.1.7 Hệ thống điện ở những nơi có hóa chất dễ chay, nổ phải đảm bảo các yêu cầu sau:
+- Dụng cụ điện, thiết bị điện đều phải là loại an toàn cháy, nổ và có cấp phòng nổ tương ứng với môi trường hơi, khí dễ cháy nổ;
+- Không được đặt dây cáp điện trong cùng một đường rãnh ngầm hoặc nổi có ống dẫn hơi khí, chất lỏng dễ cháy, nổ. Không được dùng các đường ống này làm vật nối đất tự nhiên;
+- Cầu dao, cầu chì, ổ cắm điện phải đặt ở ngoài khu vực chứa các hóa chất dễ cháy, nổ. Bất kỳ nhánh dây điện nào cũng đều phải có cầu chì hay thiết bị bảo vệ tương đương;
+- Hệ thống điện chiếu sáng phải là loại phòng nổ, phải ngăn ngừa sự xâm nhập của hơi khí, bụi dễ cháy, nổ vào thiết bị chiếu sáng;
+- Khi sửa chữa, thay thế thiết bị điện thuộc nhánh nào thì phải cắt điện dẫn vào nhánh đó và treo bảng cấm đóng điện. Chỉ người chịu trách nhiệm, có kỹ thuật về điện mới được làm việc này.
+5.1.8 Máy móc, thiết bị làm việc trong khu vực hóa chất dễ cháy, nổ đều phải an toàn phòng chống cháy, nổ . Khi thiết kế , chế tạo, vận hành phải phù hợp yêu cầu của TCVN 3255: 1986.
+Dụng cụ làm việc trong khu vực hóa chất dễ cháy, nổ đều phải làm bằng vật liệu không phát sinh tia lửa do ma sát hay va đập.
+5.1.9 Trước khi đưa vào đường ống hay thiết bị một chất có khả năng gây cháy, nổ, hoặc trước và sau khi sửa chữa đều phải thực hiện nghiêm ngặt các qui trình phòng cháy,nổ:
+- Thử kín, thử áp (nếu cần);
+- Thông rửa bằng môi chất thích hợp hoặc khí trơ;
+- Xác định hàm lượng ôxy hay thiết bị một chất có khả năng gây cháy, nổ còn lại sao cho không còn khả năng tạo hỗn hợp cháy, nổ.
+5.1.10 Thiết bị , bao bì chứa chất hóa lỏng dễ cháy, nổ đều phải giữ đúng hệ số đầy qui định tuỳ theo đặc tính hóa lý của chất lỏng đó. Thiết bị lớn phải có van xả một chiều, van ngắt lửa kèm bích an toàn phòng nổ. Bích an toàn phòng nổ làm bằng vật liệu không cháy, nổ. Đầu ống dẫn hóa chất dễ cháy, nổ vào phải sát mép hoặc sát đáy thiết bị. Thiết bị có áp suất, phải sát có ban an toàn xả qua áp. Phải thường xuyên kiểm tra các thiết bị này.
+5.1.11 Không để hóa chất dễ cháy, nổ cùng chỗ với các chất duy trì sự cháy (như ôxy hoặc các chất nhả ôxy…). Đường ống dẫn hóa chất dễ cháy, nổ không đi chung với giá đỡ đường ống ôxy, không khí nén.
+5.1.12 Không dùng khí nén có ôxy để nén đẩy hóa chất dễ cháy, nổ từ thiết bị này sang thiết bị khác. Khi san rót hóa chất dễ cháy, nổ từ bình này sang bình khác, phải tiếp đất bình chứa và bình rót.
+5.1.13 Cấm để thiết bị, đường ống chứa hóa chất dễ cháy, nổ gần nguồn phát nhiệt, Đối với trường hợp có ánh nắng mặt trời chiếu trực tiếp, phải có biện pháp hạ nhiệt (sơn phản xạ hoặc tưới nước…).
+5.1.14 Không được đun nóng hóa hóa chất lỏng dễ cháy bằng ngọn lửa trực tiếp. Chỉ được mở nắp sau khi đã đun xong và hỗn hợp bên trong đã đủ nguội.
+5.1.15 Khi pha dung môi vào khối hóa chất lỏng ở thiết bị hở phải cách xa vùng có lửa ít nhất 10m. Chỉ được pha dung môi vào khối hóa chất lỏng khi nhiệt độ khối hóa chất lỏng thấp hơn nhiệt độ sôi của dung môi.
+5.1.16 Không dùng ngọn lửa trực tiếp soi sáng để tìm chỗ hở các đường ống dẫn, thiết bị chứa các hóa chất dễ cháy, nổ mà phải dùng nước xà phòng hay các chất khác không có khả năng gây cháy, nổ với các hóa chất trong ống dẫn thiết bị.
+5.1.17 Trong quá trình sản xuất hoặc sử dụng các hóa chất dễ cháy, nổ. Việc sử dụng các chất thêm vào phải đảm bảo các yêu cầu sau:
+- Thực hiện đúng qui trình công nghệ sản xuất;
+- Biết rõ ảnh hưởng của chất thêm vào đối với tính chịu nhiệt, tính dễ cháy, nổ của loại hóa chất dễ cháy, nổ đó;
+- Chất thêm vào không có tạp chất lạ (bị nhiễm bẩn).
+5.1.18 Để hàn thiết bị, ống dẫn trước đây có chứa hóa chất dễ cháy, nổ, phải mở hết các nắp thiết bị, mặt bích ống dẫn và làm thoát hết khí dễ cháy, nổ ra ngoài, thau rửa sạch đảm bảo không còn khả năng tạo thành hỗn hợp cháy, nổ khi đí mới được tiến hành hàn.
+5.1.19 Khi sơn xì, nhất là sơn trong diện tích kín phải đảm bảo hỗn hợp sơn với không khí ở ngoài vùng giới hạn nổ và tránh hiện tượng tĩnh điện gây ra cháy, nổ.
+5.1.20 Trong quá trình sản xuất, kinh doanh, sử dụng hóa chất dễ cháy, nổ phải đảm bảo yêu cầu vệ sinh an toàn lao động. Phải có ống dẫn nước, hệ thống thoát nước; tránh sự ứ đọng của các loại hóa chất dễ gây cháy, nổ.
+5.1.21 Trong khu vực có hóa chất dễ cháy, nổ đều phải thông thoáng bằng thông gió tự nhiên hoặc cưỡng bức. Bố trí thiết bị thông gió phù hợp với mặt bằng sản xuất và tỷ trọng của hơi, khí dễ cháy, nổ để tránh sự tích tụ của hơi, khí dễ cháy, nổ đó.
+5.1.22 Khi xảy ra cháy ở khu vực có máy thông gió đang hoạt động phải lập tức dừng máy thông gió lại để cháy không lan rộng ra những vùng khác, rồi áp dụng các biện pháp chữa cháy phù hợp.
+5.1.23 Khi xảy ra sự cố cháy, nổ, mọi người có mặt đều phải dùng phương tiện bảo vệ cá nhân tham gia cứu chữa người bị nạn và chữa cháy. Những người không có phương tiện bảo vệ cá nhân đảm bảo an toàn không được tham gia chữa cháy. Người gọi điện thoại báo công an phóng cháy chữa cháy và y tế cấp cứu, phải chỉ dẫn địa chỉ rõ ràng và trực tiếp đón dẫn đường nhanh nhất.
+5.2 Hóa chất ăn mòn
+5.2.1 Cơ sở có hóa chất ăn mòn phải có biện pháp hạn chế sự ăn mòn, bảo vệ công trình xây dựng. Phải có hệ thống cống rãnh thoát chất ăn mòn, hệ thống thu hồi xử lý.
+5.2.2 Thiết bị, đường ống chứa chất ăn mòn phải được làm bằng vật liệu thích hợp, đảm bảo kín. Các vị trí van và cửa mở phải ở vị trí an toàn cho người thao tác đi lại, Trường hợp chứa trong thiết bị chịu áp lực, phải định kỳ kiểm tra theo qui định.
+5.2.3 Đường đi phía trên thiết bị có hóa chất ăn mòn phải được rào chắn vững chắc, có tay vịn. Thành thiết bị, bể chứa phải cao hơn vị trí người thao tác ít nhất 0,9 m, không được xây bục hoặc kê bất cứ vật gì làm giảm chiều cao nói trên.
+5.2.4 Không được ôm, vác trực tiếp hóa chất ăn mòn gây nguy hiểm cho người làm việc. Khi nâng lên cao đóng rót, di chuyển phải có thiết bị chuyên dùng.
+5.2.5 Khi tẩy rửa, sửa chữa thiết bị, ống dẫn hóa chất ăn mòn phải có phương án làm việc an toàn, được tiến hành dưới sự chỉ dẫn của những người am hiểu về kỹ thuật, biết cách xử lý những sự cố có thể xảy ra trong khi thực hiện.
+5.2.6 Tại nơi có hóa chất ăn mòn phải có cả tủ thuốc cấp cứu, vòi nước, thùng chứa hóa chất trung hoà (ví dụ dung dịch natri cacbonat ( NaHCO3) nồng độ 0.3 %, dung dịch axit (CH3COOH) nồng độ 0,3 % ) để cấp cứu khi xả ra tai nạn.
+5.2.7 Phải thường xuyên kiểm tra, tu sửa máy móc, thiết bị, không còn tác dụng trước khi thải.
+5.3 Hóa chất độc
+5.3.1 Tuỳ theo nồng độ, tính chất và số lượng hóa chất độc, cơ sở sản xuất,kinh doanh,sử dụng, bảo quản hóa chất độc (sau đây được gọi là: các cơ sở có hóa chất độc) đều phảt thực hiện việc đăng kiểm theo quy định pháp lý hiện hành.
+5.3.2 Cơ sở phải có nội qui xuất nhập hóa chất nghiêm ngặt, sổ xuất nhập ghi chép đầy đủ, đảm bảo quản lý chính xác về khối lượng hóa chất độc chứa trong kho so với sổ sách. Thực hiện nghiêm chỉnh chế độ kiểm kê hàng tháng, hàng quí.
+5.3.3 Nơi có hơi khí độc, bụi độc phải thông gió tự nhiên và kết hợp với các biện pháp thông gió cưỡng bức để đảm bảo nồng độ chất độc trong môi trường làm việc không vượt quá nồng độ giới hạn cho phép theo qui định pháp lý hiện hành1).
+5.3.4 Cơ sở có hóa chất độc phải thực hiện nghiêm chỉnh các qui định pháp luật về bảo vệ môi trường. Nước thải , khí thải phải được xử lý theo đạt tiêu chuẩn qui định: TCVN 5945:1995, TCVN 5939:1995, TCVN 5940:1995.
+Chất thải độc hại khác phát sinh trong quá trình sản xuất, lưu thông, sử dụng phải được thu gom để xử lý. Cấm chôn lấp, thiêu huỷ tuỳ tiện hoặc để lẫn với các chất thải thông thường khác.
+5.3.5 Cơ sở có hóa chất độc phải có chế độ định kỳ kiểm tra nồng độ chất độc hại trong môi trường làm việc. Phải trang bị phương tiện kỹ thuật, y tế cần thiết, để ứng cứu xử lý kịp thời khi xảy ra tai nạn lao động, sự cố hóa chất.
+1) Hiện nay Bộ y tế đang soạn thảo qui định này.
+5.3.6 Khí tiếp xúc với hóa chất độc, phải có mặt nạ phòng độc. Khi sử dụng mặt nạ phòng độc phải theo những qui định sau đây:
+- Phù hợp với loại hóa chất độc;
+- Phù hợp với kích thước người sử dụng;
+- Đảm bảo thời gian qui định chất lượng hóa chất dùng khử độc;
+- Cấm dùng mặt nạ hết tác dụng.
+Phải cất giữ mặt nạ ở nơi có ít khí độc và phải định kỳ kiểm tra tác dụng của mặt nạ.
+5.3.7 Khi tiếp xúc với bụi độc phải dùng quần áo kín may bằng loại vải bông dày có khẩu trang chống bụi, quần áo bảo vệ chống hơi bụi. Khi tiếp xúc với chất lỏng đội cần phải che kín cổ tay, chân, ngực. Khi làm việc với dung môi hữu cơ hoà tan phải mang quần áo bảo vệ không thấm và mặt nạ cách ly.
+Phương tiện bảo vệ cá nhân phải để trong tủ kín cấm mang về nhà để tránh nhiễm độc.
+5.3.8 Máy, thiết bị, ống dẫn hóa chất độc đều phải bảo đảm bền và kín, các ống dẫn khí phải được thiết kế sao cho hạn chế được tối đa các chỗ nối, chờ, nối dự phòng.
+5.3.10 Nơi có hóa chất độc phải có tín hiệu báo động tình trạng thiếu an toàn của máy, thiết bị, báo hiệu các chặng sản xuất đặc biệt, báo “Cấm" như cấm đóng mở máy, cấm tháo hơi nước… trong quá trình sản xuất.
+5.3.11 Trong quá trình sản xuất hóa chất độc, khi lấy mẫu trong áp lực cao để thử, cần dùng máy giảm áp để giảm áp lực. Các thiết bị sản xuất hóa chất lỏng, phải có thiết bị đo hóa chất.
+5.3.12 Cấm hút dung dịch hóa chất độc bằng miệng. Khi lấy mẫu chất lỏng trong thiết bị, phải sử dụng những dụng cụ đã qui định. Không được tiếp xúc trực tiếp hóa chất độc. Các dụng cụ cân, đong hóa chất độc sau khi đã dùng phải được lau rửa sạch sẽ.
+5.3.13 Trước khi đưa người vào làm việc ở nơi kín, có hóa chất độc, phải kiểm tra không khí ở nơi đó hoặc dùng động vật (chim bồ câu, thỏ) để thử nghiệm. Phải khử độc bằng biện pháp phù hợp, đảm bảo nồng độ chất độc còn lại nhỏ hơn nồng độ giới hạn cho phép, mới cho người vào làm việc. Khi làm việc ở những nơi đó phải có từ hai người trở lên, một người vào làm việc, một người đứng giám sát để cấp cứu kịp thời khi cần thiết.
+5.3.14 Thiết bị chứa hóa chất độc dễ bốc hơi, dễ sinh bụi phải thật kín, nếu không do qui trình sản xuất bắt buộc thì không được đặt cùng với bộ phận khác không có hóa chất độc.
+6 Yêu cầu an toàn trong bảo quản hóa chất nguy hiểm
+6.1 Bảo quản hóa chất dễ cháy, nổ
+6.1.1 Phải chia thành nhiều khu vực, kho riêng theo mức độ dễ cháy, nổ của các nhóm hóa chất, để bảo quản được an toàn theo qui định trong phụ lục D.
+6.1.2 Kho chứa hóa chất dễ cháy, nổ phải cách lu với lửa và nguồn nhiệt. Phải chấp hành nghiêm ngặt các qui định sau:
+- Cấm đem các vật gây ra lửa vào kho, cấm chiếu sáng bằng lửa, chỉ được chiếu sáng bằng đèn phòng cháy, nổ. Cấm hàn hoặc làm những việc phát ra tia lửa điện gần kho dưới 20 m;
+- Không đi giầy đinh hoặc có đóng cá sắt đem vào kho. Khi vận chuyển đồ chứa bằng kim loại, cấm quăng quật, kéo lê trên sàn cứng, cấm dùng các dụng cụ gây ra tia lửa
+- Cấm để các vải lau, giẻ bẩn dính dầu mỡ trong kho;
+- Các xe chạy bằng ắc qui, thiết bị nâng, xúc bằng điện phải lắp động cơ an toàn phòng nổ.
+6.1.3 Kho phải khô ráo, thông thoáng, phải có hệ thống thông gió tự nhiên hay cưỡng bức. Đối với các chất dễ bị ôxy hóa, bay hơi, cháy, nổ bắt lửa ở nhiệt độ thấp phải thường xuyên theo dõi độ ẩm và nhiệt độ.
+6.1.4 Bao bì chứa đựng hóa chất dễ cháy, nổ dưới tác dụng của ánh sáng, phải bằng vật liệu hoặc có màu cản được ánh sáng hoặc được bọc bằng các vật liệu ngăn ngừa ánh sáng chiếu vào. Các cửa kính của nhà kho phải được sơn cản ánh sáng hoặc dùng kính mờ.
+6.1.5 Chất lỏng dễ cháy, bay hơi phải chứa trong các thùng không rò rỉ và để trong hang hầm hoặc để trong kho thoáng mát, không tồn chứa cùng các chất ôxy hóa trong một kho.
+6.1.6 Khi rót chất lỏng dễ cháy vào thùng kim loại tiếp đất vỏ thùng bằng miếng đồng hoặc nhôm, không tiếp đất bằng kim loại đen.
+6.1.7 Việc sử dụng điện trong kho phải tuần thủ theo điều 5.1.7 của tiêu chuẩn này.
+6.2 Bảo quản chất ăn mòn
+6.2.1 Kho chứa hóa chất ăn mòn phải làm bằng các vật liệu không bị chất ăn mòn phá huỷ. Nền nhà kho phải bằng phẳng, xung quanh chỗ để phải có gờ cao ít nhất 0,1 m hoặc rải một lớp cát dày 0,2 – 0,3 m.
+6.2.2 Cấm để các chất hữu cơ (như rơm, vỏ bào, mùn cưa, giấy), chất ô xy hóa, chất dễ cháy, nổ trong cùng một kho với hóa chất ăn mòn. Phải phân chia khu vực bảo quản hóa chất ăn mòn theo tính chất của chúng. Hóa chất ăn mòn vô cơ có tính axít, chất ăn mòn có tính kiềm và các chất ăn mòn khác phải bảo quản ở những khu vực hoặc nhà kho riêng.
+6.2.3 Mỗi loại axít phải để theo từng khu vực riêng trong kho. Các bình axít phải để theo từng lô và phải có thẻ kho để theo dõi. Giữa các lô phải để lối đi rộng ít nhất là 1 m. Khi sắp xếp hóa chất ăn mòn phải để đúng chiều qui định.
+6.2.4 Bao bì chứa hóa chất ăn mòn phải làm bằng vật liệu không bị hóa chất ăn mòn phá huỷ, phải đảm bảo kín; hóa chất ăn mòn dạng lỏng, không được nạp đầy qua hệ số đầy theo qui định.
+6.2.5 Những người làm việc trong kho phải thường xuyên kiểm tra độ kín của bao bì, thiết bị chứa đựng hóa chất ăn mòn; định kỳ kiểm tra chất lượng hóa chất và có biện pháp xử lý kịp thời. Khi tiếp xúc phải dùng phương tiện bảo vệ cá nhân.
+6.3 Bảo quản chất độc
+6.3.1 Hóa chất độc phải bảo quản trong kho có tường và nền không thấm nước, không bị ảnh hưởng của lũ lụt, xa nơi đông dân cư, đảm bảo khoảng cách an toàn theo qui định, kho phải có khóa bảo đảm, chắc chắn.
+6.3.2 Khi bảo quản, nếu cần san rót, đóng gói lại bao bì, không được thao tác ở trong kho mà phải làm ở nơi thông thoáng, đảm bảo vệ sinh an toàn, hoặc nơi có trang bị hệ thống hút hơi khí độc.
+6.3.3 Khí sử dụng các phương tiện cân đong hóa chất độc, đảm bảo không làm rơi vãi hoặc tung bụi ra ngoài.
+6.3.4 Trước khi vào kho hóa chất độc phải mở thông các cứa làm thoáng kho. Khi vào phải trang bị đầy đủ các phương tiện bảo vệ cá nhân.
+7. Yêu cầu trong vận chuyển hóa chất nguy hiểm
+7.1 Yêu cầu chung
+7.1.1 Khi vận chuyển hóa chất nguy hiểm phải tuần theo các qui định TCVN 4512: 1988, các văn bản qui định hiện hành và các qui định trong tiêu chuẩn này.
+7.1.2 Khi vận chuyển hóa chất nguy hiểm, cơ quan có hàng phải gửi kèm các giấy tờ theo qui định hiện hành, thông báo cho cơ quan tiếp nhận và cơ quan chịu trách nhiệm bốc dỡ.
+7.1.3 Khi vận chuyển hóa chất nguy hiểm, nhân viên áp tải hoặc người vận chuyển, phải biết rõ tính chất hóa lý của hóa chất, biện pháp đề phòng và cách giải quyết các sự cố. Khi đi theo hàng, nhân viên áp tải hoặc người vận chuyển phải mang theo đầy đủ phương tiện bảo vệ cá nhân.
+7.1.4 Khi chuyên chở hóa chất nguy hiểm phải đảm bảo các yêu cầu đối với vật chứa sau:
+- Vật chứa phải bằng vật liệu không gây phản ứng hóa học với các chất lỏng, không bị hóa chất bên trong phá huỷ;
+- Vật chứa bằng gỗ thì bên trong phải lót bằng thứ vật liệu bền đảm bảo hóa chất không thấm, lọt ra ngoài;
+- Vật chứa bằng thuỷ tinh, sành sứ phải là loại tốt, nút kín, không rạn nứt. Các bình này phải đặt trong sọt, hộp hoặc cũi gỗ chèn bằng các vật liệu mềm;
+- Vật chứa bằng kim loại phải có nắp kín, nếu cần phải cặp chì niêm phong;
+- Vật chứa các hóa chất lỏng và dạng keo phải kín, đảm bảo không để hóa chất thấm chảy ra ngoài. Các kiện hàng phải đóng gọn chắc chắn để xếp dỡ dễ dàng;
+- Vật chứa là loại chịu áp lực phải chèn, chống va đập.
+7.1.5 Bao bì rỗng trước đây đã chứa đựng hóa chất nguy hiểm, chỉ sau khi đã làm sạch cả bên trong và bên ngoài thì khi vận chuyển mới được coi như hàng hóa bình thường, nếu chưa làm sạch, vẫn phải coi như hàng hóa nguy hiểm.
+7.1.6 Trước khi hàng đến ga, cảng, cơ quan vận chuyển phải thông báo cho cơ quan nhận hàng biết để có kế hoạch tiếp nhận kịp thời.
+7.2 Yêu cầu khi xếp dỡ
+7.2.1 Trước khi tiến hành xếp dỡ, người phụ trách xếp dỡ phải kiểm tra bao bì, nhãn hiệu và trực tiếp điều khiển hướng dẫn biện pháp làm việc an toàn.
+7.2.2 Cấm xếp các loại hóa chất có khả năng phản ứng với nhau, kỵ nhau hoặc các chữa cháy khác nhau trên cùng một xe, một toa tàu, một xà lan, một thuyền. Các kiện hàng phải xếp khít với nhau; phải chèn lót tránh lăn đổ, xê dịch.
+7.2.3 Khi xếp dỡ hàng phải tuân theo các qui định TCVN 3147: 1990.
+Trên đường vận chuyển, nếu bốc dỡ bớt háng xuống, phần còn lại phải chèn buộc cẩn thận đảm bảo không lăn, đổ xê dịch mới được tiếp tục vận chuyển.
+7.2.4 Trong quá trình xếp dỡ không được kéo lê; quăng vứt, va chạm làm đổ vỡ. Không được ôm vác hóa chất nguy hiểm vào người. Các bao bì đặc đúng chiều ký hiệu qui định.
+7.2.5 Phải kiểm tra thiết bị nâng chuyển bảo đảm an toàn mới được tiến hành xếp dỡ các kiện hàng.
+7.3 Yêu cầu an toàn trong vận chuyển
+7.3.1 Trước khi xếp hóa chất nguy hiểm lên phương tiện vận chuyển, người có hàng và người phụ trách phương tiện vận chuyển phải cùng kiểm tra, nếu phương tiện vận chuyển đảm bảo an toàn mới được xếp hàng lên.
+7.3.2 Khi vận chuyển các bình khí nén, khí hóa lỏng phải theo các qui định: Yêu cầu an toàn trong vận chuyển của TCVN 6304: 1997.
+7.3.3 Cấm vận chuyển các bình ôxy cùng với bình khí dễ cháy và các chất dễ cháy khác.
+7.3.4 Xe chuyên dụng vận chuyển các chất lỏng dễ cháy phải có sử dụng dây tiếp đất và có biển cấm lửa. Trên xe phải trang bị phương tiện chữa cháy thích hợp.
+Hóa chất dễ cháy, nổ nguy hiểm khi vận chuyển phải có giấy phép vận chuyển hàng cháy nổ của cơ quan có thẩm quyền.
+7.3.5 Khi vận chuyển hóa chất nguy hiểm, xe phải có mui hoặc bạt che tránh mưa, nắng...
+7.3.6 Cấm vận chuyển hóa chất nguy hiểm chung với người, gia súc và các hàng hóa khác.
+7.3.7 Trên đường vận chuyển hóa chất nguy hiểm, chủ phương tiện không được đỗ dừng phương tiện ở nơi công cộng đông người (chợ, trường học, bệnh viện…). Đối với hóa chất nguy hiểm bị nhiều tác động, khi vận chuyển không được dừng, đỗ nơi phát sinh ra nguồn nhiệt và không được đỗ lâu dưới trời nắng gắt.
+8 Yêu cầu an toàn lao động, vệ sinh lao động và bảo vệ môi trường
+8.1 Không khí để cấp thông hơi nhà xưởng, nhà kho phải thu hút từ vùng khí sạch, hoặc qua lọc sạch.
+8.2 Người làm việc trong môi trường hóa chất nguy hiểm phải có sức khỏe đảm bảo yêu cầu qui định.
+Người không có trách nhiệm không được vào nơi có hóa chất nguy hiểm. Cấm ăn, uống, hút thuốc, nghỉ ngơi, hội họp ở nơi có hóa chất nguy hiểm.
+8.3 Cơ sở có hóa chất nguy hiểm phải định kỳ khám sức khỏe cho người lao động, theo dõi độ nhiễm độc hóa chất, kịp thời phát hiện bệnh nghề nghiệp và tổ chức tốt việc điều trị.
+8.4 Khi phát hiện có các sinh vật, gia súc, cây cối rau quả bị nhiễm độc ở khu vực có hóa chất nguy hiểm phải có biện pháp tiêu huỷ chúng đảm bảo an toàn vệ sinh và phải có biên bản về việc xử lý đó. Nghiêm cấm việc mua bán trao đổi các loại đó cho người tiêu dùng trong sinh hoạt và ăn uống.
+8.5 Cơ sở có hóa chất nguy hiểm phải có hệ thống thu hồi và xử lý hơi, khí , bụi của các hóa chất nguy hiểm để đảm bảo môi trường nơi làm việc phải đạt giới hạn cho phép qui định pháp lý hiện hành. Khí thải ra ngoài môi trường phải đạt TCVN 5939: 1995.
+8.6 Cần có hệ thống thu gọn riêng nước mưa ở những khu vực nhà xưởng, kho chứa hóa chất nguy hiểm. Nước thải từ các nhà xưởng, kho chứa hóa chất nguy hiểm phải cho vào hệ thống riêng để xử lý trước khi thải vào hệ thống chung sao cho khí thải ra ngoài môi trường phải theo các qui định TCVN 5945: 1995.
+8.7 Những chất thải như: hóa chất hết thời hạn sử dụng, hóa chất mất phẩm chất, hóa chất rơi vãi, bao bì phế thải… phải được tập trung vào nơi quy định để xử lý kịp thời bằng phương pháp phù hợp theo qui định pháp lý hiện hành, tránh gây ô nhiễm và sự cố môi trường.
+8.8 Bãi chứa chất thải từ quá trình sản xuất phải đặt ở ngoài khu vực sản xuất, xa khu nhà ở, khu dân cư, xa nguồn cung cấp nước. Bộ phận lọc sạch xử lý nước thải, chất thải bố trí xa các khu nhà sinh hoạt của người lao động, xa khu dân cư với khoảng cách đảm bảo vệ sinh an toàn theo qui định hiện hành.
+8.9 Cơ sở có hóa chất nguy hiểm phải có kế hoạch ngăn ngừa và xử lý sự cố hóa chất:
+- Phải ưu tiên áp dụng công nghệ sản xuất sạch, thay thế hóa chất độc hại bằng hóa chất không độc hại hoặc ít độc hại hơn;
+- Phải có kế hoạch hành động khẩn cấp, tự ứng cứu và các biện pháp hỗ trợ từ bên ngoài, nhằm ứng cứu và khắc phục kịp thời khi xảy ra sự cố hóa chất.
+
+PHỤ LỤC A
+(qui định)
+DANH MỤC CÁC HOÁ CHẤT NGUY HIỂM THÔNG DỤNG
+Bảng A.1 Danh mục các hoá chất nguy hiểm thông dụng
+
+TT | Tên tiếng Việt | Tên tiếng Anh | Công thức hoá học | Số UN | Số CAS
+1 | Axit axetic, 80% và lớn hơn (dạng băng hoặc dung dịch) | Acetic acid 80% and greater (glacial or solution) | CH3COOH | 2789 | 64-19-7
+2 | Axit axetic có chứa 50%-80% axit tinh khiết | Acetic acid containing 50% to 80% pure acid |  | 2790 | 
+3 | Anhydrit axetic | Acetic anhydride | (CH2CO)2O | 1715 | 108-24-7
+4 | Axeton | Acetone | (CH3)2CO | 1090 | 67-64-1
+5 | Axetonitril | Acetonitrile | CH3CN | 1648 | 75-05-8
+6 | Acrolein, chất ức chế | Acrolein, inhibited | CH2=CHCHO | 1092 | 107-02-8
+7 | Acrylonitril | Acrylonitrile | CH2=CHCN | 1093 | 107-13-1
+8 | Amoniac khan hoá lỏng và dung dịch amoniăc 50% và lớn hơn | Ammonia anhydrous liquefied and ammonia solutions 50% and greater | NH3 | 1005 | 7664-41-7
+9 | Dung dịch amoniac (35%-50%) | Ammonia solutions (35%-50%) |  | 2073 | 
+10 | Dung dịch amoniac (10%-35%) | Ammonia solution (10%-35%) |  | 2672 | 
+11 | Amoni biflorua, chất rắn | Ammonium bifluoride, solid | NH4FHF | 1727 | 
+12 | Amoni biflorua, dung dịch | Ammonium bifluoride, solution of |  | 2817 | 
+13 | Antimon pentaclorua, dạng lỏng (SbCl5) | Antimony pentachloride, liquid (SbCl5) | SbCl5 | 1730 | sb(7440-36-0)
+14 | Antimon pentaclorua, dung dịch không nước | Antimony pentachloride, non aqueous, solutions of |  | 1731 | 
+15 | Antimon pentaflorua | Antimony pentafluoride | SbF5 | 1732 | 
+16 | Antimon triclorua (SbCl3) | Antimony trichloride (SbCl3) | SbCl3 | 1733 | 
+17 | Asen triclorua | Arsenic trichloride | AsCl3 | 1560 | As(7440-38-2)
+18 | Asin | Arsine | AsH3 | 2188 | 7784-42-1
+19 | Benzen | Benzene | C6H6 | 1114 | 71-43-2
+20 | Bo triclorua | Boron trichloride | BCl3 | 1741 | 
+21 | Bo triflorua | Boron trifluoride | BF3 | 1008 | 7637-07-2
+22 | Brom, dung dịch brom | Bromine, bromine solutions | Br2 | 1744 | 7726-95-6
+23 | Butadien | Butadienes | CH2=CH-CH=CH2 | 1010 | 106-99-0
+24 | Butan | Butane | CH3CH2CH2CH3 | 1011 | 106-97-8
+25 | Butyl acrylat | Butyl acrylate | CH2CHCOOC4H9 | 2348 | 141-32-2
+26 | Butyl isoxyanat, thường | Butyl isocyanate, normal | C4H9CNO | 2485 | 
+27 | Butyl isoxyanat, bậc 3 | Butyl isocyanate, tertiary |  | 2484 | 
+28 | Cacbon dioxit, lỏng, làm lạnh sâu | Carbon dioxide, liquid, deeply refrigerated | CO2 | 2187 | 124-38-9
+29 | Cacbon disunfua | Carbon disulphide | CS2 | 1131 | 75-15-0
+30 | Cacbon tetraclorua | Carbon tetrachloride | CCl4 | 1846 | 56-23-5
+31 | Cacbon tetraflorua (tetraflometan) | Carbon tetrafluoride (tetrafluoromethane) | CF4 | 1982 | 
+32 | Clo | Chlorine | Cl2 | 1017 | 7782-50-5
+33 | Axit cromic, dung dịch | Chromic acid, solution of | H2CrO4 (CrO3) | 1755 | 1333-82-0
+34 | Crom(III) florua, rắn | Chromic fluoride, solid | CrF3 4H2O | 1756 | 
+35 | Crom (III) florua, dung dịch | Chromic fluoride,solution of | CrF3 | 1757 | 
+36 | Cresol | Cresols | CH3C6H4OH | 2076 | 95-48-7
+37 | Axit cresylic | Cresylic acid | CH3C6H3COOH | 2022 | 
+38 | Cumen hydroperoxit - tinh khiết kỹ thuật | Cumene hydroperoxide – technical pure | C6H5C(CH3)2OOH | 2116 | 
+39 | Xyanua, hydro xyanua khan, bền | Cyanides, hydrogen cyanide anhydrous, stabilised | HCN | 1051 | 
+40 | Xyanua (vô cơ) | Cyanides, (inorganic, n.o.s) |  | 1588 | 
+41 | Xyanua, dung dịch | Cyanides, solutions |  | 1935 | 
+42 | Xyclo hexan | Cyclohexane | C6H12 | 1145 | 110-82-7
+43 | Xyclo hexanon | Cyclohexanone | C6H10O | 1915 | 108-94-1
+44 | Xyclo hexanon peroxit - ở nồng độ hơn 90% với ít hơn 10% nước | Cyclohexanone peroxide - in a concentration of more than 90% with less than 10% water | (C6H7O)O2 | 2117 | 
+45 | Xyclo hexanon peroxit - nồng độ cực đại 72% trong dung dịch oxy hữu hiệu không nhiều hơn 9% | Cyclohexanone peroxide - maximum concentration of 72% in solution with not more than 9% available oxygen |  | 2118 | 
+46 | Xyclo hexanon peroxit - nồng độ 90% hoặc ít hơn với ít nhất 10% nước. | Cyclohexanone peroxide - in a concentration of 90% or less with at least 10% water |  | 2119 | 
+47 | Xyclo hexanon peroxit – không nhiều hơn 72% bột nhão có oxy hữu hiệu không nhiều hơn 9% | Cyclohexanone peroxide – not more than 72% as a paste with not more than 9% available oxygen |  | 2896 | 
+48 | Xyclohexen | Cyclohexene | C6H10 | 2256 | 110-83-8
+49 | Di-benzyol peroxit - nồng độ hơn 80% nhưng ít hơn 95% với nước | Di-benzyol peroxide - concentration of more than 80% but less than 95% with water | (C6H5CHOH)2O2 | 2088 | 
+50 | Di-benzyol peroxit - nồng độ từ 30% đến tối đa 52% với chất rắn trơ. | Di-benzyol peroxide - concentration from 30% to maximum 52% with inert solid |  | 2089 | 
+51 | Di-benzyol peroxit - độ tinh khiết kỹ thuật thoặc nồng độ hơn 52% với chất rắn trơ. | Di-benzyol peroxide - technical pure or in a concentration of more than 52% with inert solid |  | 2085 | 
+52 | Di-benzyol peroxit – nồng độ hơn 77% trong nước | Di-benzyol peroxide,concentration of more than 77% with water |  | 2090 | 
+53 | Di-bezyol peroxit - nồng độ không hơn 72% bột nhão | Di-benzyol peroxide - concentration of not more than 72% as a paste |  | 2087 | 
+54 | Di-laurol peroxit - tinh khiết kỹ thuật | Di-lauroyl peroxide - technical pure |  | 2124 | 
+55 | Di-lauroyl peroxit - 42% sự khuếch tán bền tối đa trong nước | Di-lauroyl peroxide-42% maximum stable dispersion in water |  | 2893 | 
+56 | Di-tert butyl peroxit - tinh khiết kỹ thuật | Di-tert butyl peroxid-technical pure | [C(CH3)3]2O2 | 2102 | 
+57 | Diboran | Diborane | B2H6 | 1911 | 19287-45-7
+58 | Diclorua silan | Dichlorosilane | SinH2nCl2 | 2189 | 
+59 | Dicumyl peroxit - tinh khiết kỹ thuật hoặc hỗn hợp với chất rắn trơ | Dicumyl peroxide - technical pure or in a mixture with inert solid |  | 2121 | 
+60 | Dầu diesel - điểm chớp cháy 560C-1000C | Diesel oil (fuel)-flash point 560C-1000C inclusive |  | - | 
+61 | Epiclohydrin | Epichlorohydrin | C3H5OCl | 2023 | 106-89-8
+62 | Etanolamin (hoặc dung dịch etanolamin) | Ethanolamine (or ethanolamine solutions) | NH2CH2CH2OH | 2491 | 141-43-5
+63 | Etyl axetat | Ethyl acetate | CH3COOC2H5 | 1173 | 141-78-6
+64 | Etyl mecaptan | Ethyl mercaptan | CH3CH2SH | 2363 | 75-08-1
+65 | Etylen diclorua | Ethylene dichloride | ClCH2CH2Cl | 1184 | 107-06-2
+66 | Etylen glycol monobutyl ete | Ethylene glycol monobutyl ether | HOCH2CH2OC4H9 | 2369 | 
+67 | Etylen glycol monoetyl ete | Ethylene glycol monoethyl ether | HOCH2CH2OC2H5C2H5 | 1171 | 
+68 | Etylen glycol monoetyl ete axetat | Ethylene glycol monoethyl ether acetate | HOCH2CH2OC2H5OC2H4C | 1172 | 
+69 | Etylen oxit với nitơ | Ethylene oxide with nitrogen | C2H4O | 1040 | 75-21-8
+70 | Etylenimin, chất ức chế | Ethyleneimine, inhibited | C2H4NH | 1185 | 151-56-4
+71 | Sắt (III) clorua khan | Ferric chloride anhydrous | FeCl3 | 1773 | 
+72 | Sắt (III) clorua, dung dịch nước | Ferric chloride, aqueous solutions of | FeCl3 | 2582 | 
+73 | Focmaldehyt, dung dịch nước, chứa không dưới 5% focmaldehyt, cũng chứa không hơn 35% metanol. Có điểm cháy giữa 210C và 550C (bao gồm các giá trị giới hạn) | Formaldehyde, aqueous solutions of, containing not less than 5% formaldehyde, also containing not more than 35% methanol-having a flash point between 210C & 550C (limit values included) | HCHO | 1198 | 
+74 | Focmaldehyt, dung dịch nước, chứa không ít hơn 5% focmaldehyt, cũng không chứa nhiều hơn 35%metanol. Có điểm chớp cháy trên 550C | Formaldehyde, aqueus solutions of, containing not less than 5% formaldehyde also containing not more than 35% methanol-having flash point above 55oC | HCHO | 2209 | 50-00-0
+75 | Axit focmic | Formic acid | HCOOH | 1779 | 64-18-6
+76 | Gecmani | Germane | GeH4 | 2192 | 7782-65-2
+77 | Heli, lỏng, làm lạnh sâu | Helium, liquid, deeply refrigerated | He | 1963 | 
+78 | Hexan | Hexanes | C6H14 | 1208 | 110-54-3
+79 | Hydrazin khan hoặc hydrazin dung dịch nước nhiều hơn 64% trọng lượng | Hydrazine anhydrous or hydrazine aqueous solutions more than 64% weight | H2NNH2 | 2029 | 302-01-2
+80 | Axit clohydric | Hydrochloric acid | HCl | 1789 | 
+81 | Dung dịch axit flohydric | Hydrofluoric acid solution | HF | 1790 | 
+82 | Hydro, lỏng, làm lạnh sâu | Hydrogen, liquid, deeply refrigerated | H2 | 1966 | 
+83 | Hydro clorua, khan | Hydrogen chloride, anhydrous | HCl | 1050 | 7647-01-0
+84 | Hydro xyanua,khan, hấp thụ bền trong vật liệu trơ xốp | Hydrogen cyanide, anhydrous, stabilised absorbed in a porous inert material | HCN | 1614 | 74-90-8
+85 | Hydro peroxit dung dịch nước nồng độ bền trên 60% peroxit | Hydrogen peoxide aqueous solutions stabilised concentrations of over 60% peroxide | H2O2 | 2015 | 7722-84-1
+86 | Hydro peroxit, dung dịch nước với không ít hơn 8%, không nhiều hơn 20% | Hydrogen peroxide aqueous solution with not less than 8% and not more than 20% | H2O2 | 2984 | 7722-84-1
+87 | Hydro peroxit không ít hơn 20%, không nhiều hơn 60% | Hydrogen peroxide not less than 20% and not more than 60% | H2O2 | 2014 | 7722-84-1
+88 | Hydro peroxit, rắn (ure hydro peoxit) | Hydrogen peroxide, solid (ure hydrogen peroxide) | CO(NH2)2H2O2 | 1511 | 
+89 | Hydro selenua, khan | Hydrogen selenide, anhydrous | H2Se | 2202 | 7783-07-5
+90 | Hydro sunfua | Hydrogen sulphide | H2S | 1053 | 7783-06-4
+91 | Dung dịch hypoclorit chứa không dưới 16% clo hữu hiệu | Hypochlorite solutions containing not less than 16% available chlorine | ClO3- | 1791 | 
+92 | Dung dịch hypoclorit chứa nhiều hơn 5% nhưng ít hơn 16% clo hữu hiệu | Hypochlorite solutions containing more than 5% but less than 16% available chlorine |  | 1791 | 
+93 | Rượu isobutylic | Isobutyl alcohol (Isobutanol) | (CH3)2CHCH2OH | 1212 | 78-83-1
+94 | Isoxyanat và dung dịch của chúng, có điểm chớp cháy nhỏ hơn 230C | Isocyanates and their solutions, with a flash point of less than 230C n.o.c | R=N=C=O (R: alkyl hoặc aryl) | 2478 | 
+95 | Isoxyanat có điểm sôi dưới 3000C và điểm chớp cháy 230C và dung dịch của chúng | Isocyanates with a boiling point below 3000C and a flash point of 230C and a flash point 230C c.c or above, and their solutions n.o.s |  | 2206 | 
+96 | Isoxyanat có điểm sôi bằng và cao hơn 3000C và dung dịch của chúng | Isocyanates with a boiling point of 3000C and above and their solutions, n.o.s |  | 2207 | 
+97 | Rượu isopropylic | Isopropyl alcohol (Isopropanol) | (CH3)2CHOH | 1219 | 67-63-0
+98 | Rượu metylic | Methanol | CH3OH | 1230 | 67-56-1
+99 | Metyl bromua | Methyl bromide | CH3Br | 1062 | 74-83-9
+100 | Metyl etyl keton | Methyl ethyl ketone | CH3COC2H5 | 1193 | 
+101 | Metyl etyl keton peroxit - nồng độ cực đại 60% | Methyl ethyl ketone peroxides - maximum concentration 60% |  | 2127 | 
+102 | Metyl etyl keton peroxit nồng độ cực đại 50%, chứa không nhiều hơn 10% oxy hữu hiệu | Methyl ethyl ketone peroxides - maximum concentration 50%, containing not more than 10% available oxygen | C8H1604 | 2550 | 1338-23-4
+103 | Metyl etyl keton peroxit nồng độ cực đại 50%, chứa nhiều hơn 10% oxy hữu hiệu | Methyl ethyl ketone peroxides - maximum concentration 50%, with more than 10% available oxygen |  | 2563 | 
+104 | Metyl isobutyl keton | Methyl isobutyl ketone | CH3COC4H9 | 1245 | 108-10-1
+105 | Metyl mecaptan | Methyl mercaptan | CH3SH | 1064 | 74-93-1
+106 | Metyl methacrylate, đơn phân tử, chất ức chế | Methyl methacrylate, monomer, inhibited | CH2=C(CH3)COOCH3 | 1247 | 80-62-6
+107 | Diclorua metan | Methylene chloride (dichloromethane) | CH2Cl2 | 1593 | 75-09-2
+108 | Naptha, dung môi | Naptha, solvent |  | 1256 | 8030-30-6
+109 | Axit nitric, bốc khói nâu đỏ khác nhau, mọi nồng độ | Nitric acid, other than red fuming, all concentrations | HNO3 | 2031 | 7697-37-2
+110 | Axit nitric, khói nâu đỏ | Nitric acid, red fuming | HNO3 | 2032 | 
+111 | Oxit nitơ | Nitric oxide | NO | 1660 | 10102-43-9
+112 | Nitơ, lỏng, làm lạnh sâu | Nitrogen, liquid, deeply refrigerated | N2 | 1977 | 
+113 | Oleum (axit sunfuric, bốc khói) | Oleum (sulphuric acid, fuming) | H2SO4 | 1831 | 
+114 | Peroxit hữu cơ (mẫu và số lượng thử nhỏ chỉ đối với mục đích kiểm tra) | Organic peroxides n.o.s (samples and small trial quantities for test puposes only) |  | 2255 | 
+115 | Peroxit hữu cơ, hỗn hợp | Organic peroxides, mixtures |  | 2756 | 
+116 | Oxy, lỏng, làm lạnh sâu | Oxygen, liquid, deeply refrigerated | O2 | 1073 | 
+117 | Perclorometyl mecaptan | Perchloromethyl mercaptan | Cl3CSCl | 1670 | 594-42-3
+118 | Thuốc trừ sâu, cacbamat rắn | Pesticides, carbamates - solid |  | 2757 | 
+119 | Thuốc trừ sâu, cacbamat - lỏng có điểm chớp cháy dưới 210C | Pesticides, carbamates-liquid, having a flash point below 210C |  | 2758 | 
+120 | Thuốc trừ sâu, cacbamat-lỏng có điểm chớp cháy 210C-550C | Pesticides, carbamates-liquid, having a flash point of 21 - 550C |  | 2991 | 
+121 | Thuốc trừ sâu, cacbamat-lỏng không bắt cháy hoặc có điểm chớp cháy trên 550C | Pesticides, carbamates-liquid, not flammable or having a flash point above 550C |  | 2992 | 
+122 | Thuốc trừ sâu, cacbamat - lỏng không bắt cháy hoặc có điểm bốc cháy dưới 550C | Pesticides, carbamates-liquid, not flammable or having a flash poin below 550C |  | 2992 | 
+123 | Thuốc trừ sâu, hydrocacbon clo hóa - rắn | Pesticides, chlorinated hydrocarbons - solid |  | 2761 | 
+124 | Thuốc trừ sâu-hydrocacbon clo hóa - lỏng có điểm chớp cháy dưới 210C | Pesticides, chlorinated hydrocarbons - liquid, flash point below 210C |  | 2762 | 
+125 | Thuốc trừ sâu, hydrocacbon clo hoá- lỏng, điểm chớp cháy 210C-550C | Pesticides, chlorinated hydrocarbons-liquid, flash point of 210C-550C |  | 2995 | 
+126 | Thuốc trừ sâu, hydrocacbon clo hoá-lỏng, không bắt cháy có điểm chớp cháy trên 550C | Pesticides, chlorinated hydrocarbons-liquid, not flammable having flash point above 550C |  | 2996 | 
+127 | Thuốc trừ sâu, clo phenoxyaxetic các dẫn xuất -rắn | Pesticides, chloro phenoxyacetic derivatives-solid |  | 2765 | 
+128 | Thuốc trừ sâu, clo phenoxyaxetic các dẫn xuất - lỏng, có điểm chớp cháy dưới 210C | Pesticides, chloro phenoxyacetic derivatives- liquid, having a flash point below 210C |  | 2766 | 
+129 | Thuốc trừ sâu, clo phenoxyaxetat - lỏng có điểm chớp cháy 210C-550C | Pesticides, chloro phenoxyacetate-liquid, having a flash point of 210C-550C |  | 2999 | 
+130 | Thuốc trừ sâu, clo phenoxyaxetat - lỏng không bắt cháy hoặc có điểm chớp cháy trên 550C | Pesticides, chloro phenoxyacetate-liquid, not flammable of having a flash point above 550C |  | 3000 | 
+131 | Thuốc trừ sâu, các dẫn xuất của bipyridyl-rắn | Pesticides, derivatives of bipyridyl-solid |  | 2781 | 
+132 | Thuốc trừ sâu, các dẫn xuất của bipyridyl-lỏng, điểm chớp cháy dưới 210C | Pesticides, derivatives of bipyridyl-liquid, having a flash point below 210C |  | 2782 | 
+133 | Thuốc trừ sâu, các dẫn xuất của bipyridyl-lỏng, điểm chớp cháy từ 210C đến 550C | Pesticides, derivatives of bipyridyl-liquid, having a flash point of 210C to 550C |  | 3015 | 
+134 | Thuốc trừ sâu, các dẫn xuất của bipyridyl-lỏng, không bắt cháy hoặc có điểm chớp cháy trên 550C | Pesticides, derivatinves of bipyridyl-liquid, not flammable or having a flash point above 550C |  | 2016 | 
+135 | Thuốc trừ sâu, các hợp chất vô cơ asen - rắn | Pesticides, inorganic compounds of arsenic-solid |  | 2759 | 
+136 | Thuốc trừ sâu, các hợp chất vô cơ của asen – lỏng, có điểm chớp cháy dưới 210C | Pesticides, inorganic compounds of arsenic-liquid, having a flash point below 210C |  | 2760 | 
+137 | Thuốc trừ sâu, các hợp chất vô cơ của asen – lỏng, điểm chớp cháy 210C-550C | Pesicides, inorganic compounds of arsenic-liquid, having a flash point of 210C-550C |  | 2993 | 
+138 | Thuốc trừ sâu, các hợp chất vô cơ của asen – lỏng, không bắt cháy hoặc có điểm chớp cháy trên 500C | Pesticides, inorganic compounds of arsenic-liquid, not flammable of having a flash point above 550C |  | 2994 | 
+139 | Thuốc trừ sâu, các hợp chất vô cơ của đồng - rắn | Pesticides, inorganic compounds of copper-solid |  | 2775 | 
+140 | Thuốc trừ sâu, các hợp chất vô cơ của đồng – lỏng, có điểm chớp cháy dưới 210C | Pesticides, inorganic compounds of copper-liquid, having a flash point below 210C |  | 2776 | 
+141 | Thuốc trừ sâu, các hợp chất vô cơ của đồng – lỏng, có điểm chớp cháy 210C-550C | Pesticides, inorganic compounds of copper-liquid, having a flash point of 210C-550C |  | 3009 | 
+142 | Thuốc trừ sâu, các hợp chất vô cơ của đồng- lỏng, không bắt cháy hoặc có điểm chớp cháy trên 550C | Pesticides, inorganic compounds of copper-liquid, not inflammable or having a flash point above 550C |  | 3010 | 
+143 | Thuốc trừ sâu, các hợp chất vô cơ của thuỷ ngân-rắn | Pesicides, inorganic compounds of mercury-solid |  | 2777 | 
+144 | Thuốc trừ sâu, các hợp chất vô cơ của thuỷ ngân-lỏng, có điểm chớp cháy dưới 210C | Pesticides, inorganic compounds of mercury-liquid, having a flash point below 210C |  | 2778 | 
+145 | Thuốc trừ sâu, các hợp chất vô cơ của thuỷ ngân-lỏng, có điểm chớp cháy 210C-550C | Pesticides, inorganic compounds of mercury-liquid, having a flash point of 210C-550C |  | 3011 | 
+146 | Thuốc trừ sâu, các hợp chất vô cơ của thuỷ ngân-lỏng, không bắt cháy hoặc có điểm chớp cháy trên 550C | Pesticides, inorganic compounds of mercury-liquid, not flammable of having a flash point above 550C |  | 3012 | 
+147 | Thuốc trừ sâu, các hợp chất phospho vô cơ -rắn | Pesticides, inorgano phosphrus compounds - solids |  | 2783 | 
+148 | Thuốc trừ sâu, các hợp chất phospho hữu cơ - lỏng, điểm chớp cháy dưới 210C | Pesticides. Organo phosphorus- liquid, flash point below 210C |  | 2784 | 
+149 | Thuốc trừ sâu, phospho hữu cơ - lỏng điểm chớp cháy 210C-550C | Pesticides. Organo phosphorus- liquid, flash point 210C-550C |  | 3017 | 
+150 | Thuốc trừ sâu, phospho hữu cơ - lỏng không bắt cháy trong điểm chớp cháy 500C | Pesticides, organo phosphorus- liquid, not flammable in having flash point of 500C |  | 3018 | 
+151 | Thuốc trừ sâu, các hợp chất thiếc hữu cơ - rắn | Pesticides, organtin compounds- solid |  | 2786 | 
+152 | Thuốc trừ sâu, các hợp chất thiếc hữu cơ -lỏng, có điểm chớp cháy dưới 210C | Pesticides, organotin compounds - liquid having a flash point below 210C |  | 2787 | 
+153 | Thuốc trừ sâu, các hợp chất thiếc hữu cơ - lỏng, điểm cháy bốc 210C-550C | Pesticides, organotin compounds- liquid, having a flash point 210C- 550C |  | 3019 | 
+154 | Thuốc trừ sâu, các hợp chất thiếc hữu cơ - lỏng, không cháy hoặc điểm chớp cháy trên 550C | Pesticides, organotin compounds- liquid, not flammable or having a flash point above 550C |  | 3020 | 
+155 | Thuốc trừ sâu, thiocacbamat -rắn | Pesicides, thiocarbamates-solid |  | 2771 | 
+156 | Thuốc trừ sâu, thiocacbamat -lỏng, có điểm chớp cháy dưới 210C | Pesticides, thiocarbamates-liquid, having a flash point below 210C |  | 2772 | 
+157 | Thuốc trừ sâu, thiocacbamat - lỏng, điểm chớp cháy 210C-550C | Pesicides, thiocarbamates-liquid, having a flash point of 210C-550C |  | 3005 | 
+158 | Thuốc trừ sâu, thiocacbamat - lỏng, không bắt cháy hoặc điểm chớp cháy trên 550C | Pesticides, thiocarbamates-liquid, not flammable or having a flash point above 550C |  | 3006 | 
+159 | Xăng | Petrol (gasoline) |  | 1203 | 
+160 | Dầu thô, điểm chớp cháy dưới 210C | Petroleum crude oil-flash point below 210C |  | 1267 | 
+161 | Dầu thô, điểm chớp cháy gồm 560C-1000C | Petroleum crude oil-flash point 560C-1000C inclusive |  | 1267 | 
+162 | Dầu thô, điểm chớp cháy 210C- 550C | Petroleum crude oil-flash point 210C-550C |  | 1267 | 
+163 | Phenol | Phenol | C6H5OH | 1671 | 108-95-2
+164 | Phenol, nóng chảy | Phenol, molten |  | 2312 | 
+165 | Dung dịch phenol | Phenol solutions |  | 2821 | 
+166 | Phosgen | Phosgene | COCl2 | 1076 | 75-44-5
+167 | Phosphin | Phosphine | PH3 | 2199 | 7803-51-2
+168 | Phospho oxyclorua | Phosphorus oxychloride | POCl3 | 1810 | 10025-87-3
+169 | Phospho pentaclorua | Phosphorus pentachloride | PCl5 | 1806 | 10026-13-8
+170 | Phospho triclorua | Phosphorus trichloride | PCl3 | 1809 | 7719-12-2
+171 | Kali xyanua | Potassium cyanide | KCN | 1680 | 151-50-8
+172 | Kali hydroxit, dung dịch | Potassium hydroxide, solution | KOH | 1814 | 1310-50-8
+173 | Propan | Propane | CH3CH2CH3 | 1978 | 74-98-6
+174 | Axit propionic (axit tinh khiết ≥ 50%) | Propionic acid (≥ 50% pure acid) | CH3CH2COOH | 1848 | 79-09-4
+175 | Propylen imin, chất ức chế | Propyleneimine, inhibited | C3H7N | 1921 | 75-55-8
+176 | Oxit propylen, chất ức chế | Propylene oxide inhibited | C3H6O | 1280 | 75-56-9
+177 | Silan | Silane |  | 2203 | 
+178 | Natri xyanua | Sodium cyanide | NaCN | 1689 | 143-33-9
+179 | Natri hydroxit, dung dịch | Sodium hydroxide, solution | NaOH | 1824 | 1310-73-2
+180 | Styren đơn phân tử, ức chế | Styrene monomer,inhibited | C6H5CH=CH2 | 2055 | 100-42-5
+181 | Axit sunfuric chứa không nhiều hơn 51% axit | Sulphuric acid containing not more than 51% acid | H2SO4 | 1830 | 7664-93-9
+182 | Axit sunfuric chứa nhiều hơn 51% axit | Sulphuric acid containing more than 51% acid |  | 1830 | 
+183 | Axit sunfuric, thải | Sulphuric acid, spent |  | 1832 | 
+184 | T-butyl hydroperoxit - ở nồng độ trên 72% đến cực đại 90% trong nước | T-butyl hydroperoxide- in a concentration over 72% to a maximum 90% with water | C4H9-OOH | 2094 | 
+185 | T-butyl hydroperoxit-nồng độ cực đại 72% trong nước | T-butyl hydroperoxide - maximum concentration 72% with water |  | 2093 | 
+186 | T-butyl hydroperoxit - nồng độ cực đại 80% trong di-tert-butyl peroxit hoặc dung môi | T-butyl hydroperoxide - maximum concentration 80% in di-tert-butyl peroxide and/or solvent |  | 2092 | 
+187 | T-butyl per-2 etyl hexanoat - tinh khiết kỹ thuật | T-butyl per-2 ethyl hexanoate - technical pure |  | 2143 | 
+188 | T-butyl peoxit benzoat với ít nhất 50% chất rắn vô cơ trơ | T-butyl peroxy benzoate - with at least 50% inert inorganic solid | C4H9O2C6H5COO | 2890 | 
+189 | T-butyl peoxit benzoat tinh khiết kỹ thuật hoặc nồng độ trong dung dịch lớn hơn 75% | T-butyl peroxy benzoate - technical pure or in a concentration of more than 75% in solution |  | 2097 | 
+190 | T-butyl peoxit benzoat nồng độ cực đại 75% trong dung dịch | T-butyl peroxy benzoate -maximum concentration 75% in solution |  | 2098 | 
+191 | T-butyl perpivalate-nồng độ cực đại 77% trong dung dịch | T-butyl perpivalate - maximum concentration 77% in solution |  | 2110 | 
+192 | Chì tretraetyl/ chì tetrametyl (hỗn hợp nhiên liệu động cơ ô tô) | Tetraethyl lead/Tetramethyl lead (motor fuel anti-knock mixture) | Pb(C2H5)4/Pb(CH3)4 | 1649 | 
+193 | Toluen | Toluene | C6H5CH3 | 1294 | 108-88-3
+194 | Triclo etylen | Trichloroethylene | ClCH=CCl2 | 1710 | 79-01-6
+195 | 2,4,4 tri-metyl pentyl-2 hydro peoxit, (mẫu) | 2,4,4 tri-methyl pentyl-2 hydroperoxide, (samples) |  | 2255 | 
+196 | (Vinyl axetat) Etylenaxetat | Vinyl acetate | CH2=CHOOCCH3 | 1301 | 108-05-4
+197 | Vinyl clorua đơn phân tử, ức chế | Vinyl chloride monomer, inhibited | CH2=CHCl | 1086 | 75-01-4
+198 | o-xylen m-xylen p-xylen | Xylenes (m-,o-,p-) | C6H4(CH3)2 | 1307 | 95-47-6 108-38-3 106-42-3
+Chú thích: 1) Số CAS (Chemical Abstracts Service) - số đăng ký hóa chất trích yếu. 2) Số UN - số Liên Hiệp Quốc: là số do Ban Chuyên gia Liên Hiệp Quốc soạn thảo trong phiên bản lần thứ 9 về “Khuyến nghị vận chuyển các hàng hóa nguy hiểm”.
+
+PHỤ LỤC B
+(qui định)
+PHÂN NHÓM HOÁ CHẤT DỄ CHÁY, NỔ
+Bảng B.1 - Phân nhóm chất dễ cháy theo nhiệt độ bùng cháy
+
+Nhóm | Nhiệt độ bùng cháy, 0C
+1 | Nhỏ hơn 28
+2 | Từ 28 đến 45
+3 | Lớn hơn 45 đến 120
+4 | Lớn hơn 120
+
+Bảng B.2 - Phân nhóm chất dễ nổ theo giới hạn nổ
+
+Nhóm | Giới hạn nổ, % thể tích so với không khí
+1 | Nhỏ hơn 10 %
+2 | Bằng, lớn hơn 10 %
+
+Bảng B.3 - Phân cấp bụi dễ nổ và dễ cháy theo giới hạn nổ và nhiệt độ bùng cháy
+
+Cấp | Giới hạn nổ, g/m3 không khí | Nhiệt độ bùng cháy, oC
+Bụi lơ lửng: Cấp 1 Cấp 2 | nhỏ hơn 15 từ 15 đến 65 | - -
+Bụi lắng: Cấp 1 Cấp 2 | - - | nhỏ hơn 25 bằng, lớn hơn 25
+
+PHỤ LỤC C
+(qui định)
+CÁC CHỈ SỐ NGUY HIỂM DỄ CHÁY NỔ
+Bảng C.1 - Các chỉ số nguy hiểm đối với các chất dễ cháy, nổ
+
+STT | Tên chất | Công thức hoá học | Tính chất dễ cháy và dễ nổ (ký hiệu) | Nhiệt độ bùng cháy, oC | Giới hạn nổ dưới, % thể tích | Giới hạn nổ trên, % thể tích
+1 | Acrolein | CH2=CHCHO |  | -178 |  | 
+2 | Amoniac | NH3 | CCK | -2 | 17,0 | 25,0
+3 | Amyl hydroxit (rượu hữu cơ) | C5H11OH | CLDC | 49 | 1,48 | 
+4 | Amyl axetat | CH3COOC5H11 | CLDC | 25 | 1,08 | 
+5 | Amylen | C5H10 | CLDC | -18 | 1,49 | 
+6 | Anhydrit axetic | (CH3CO)2O | CLDC |  | 2,0 | 10,0
+7 | Anhydrit phtalic | C6H4(CO)2O | CC | 153 | 1,32 | 10,5
+8 | Anilin | C6H5NH2 | CCL | 73 | 1,32 | 
+9 | Axetandehyt | CH3CHO | CCK | -38 | 4,12 | 57,0
+10 | Axeton | CH3COCH3 | CLDC | -18 | 2,91 | 11,0
+11 | Axetylen | CH≡CH | CNN |  | 2,5 | 80,0
+12 | Axit axetic | CH3COOH | CLDC | 38 | 3,33 | 17,0
+13 | Axit axetic khí | CH3COOH |  | -10 | 5,5 | 
+14 | Axit butylaxetic | C5H11COOH | CLDC | 29 | 1,43 | 7,5
+15 | Benzen | C6H6 | CLDC | -12 | 1,42 | 8,0
+16 | Benzen clorua | C6H5Cl | CLDC | 28 | 1,4 | 7,0
+17 | 1,3 – Butadien | C4H6 | CCK | -40 | 1,02 | 10,0
+18 | Butan | C4H10 | CCK | - | 1,799 | 8,0
+19 | Butyl clorua | C4H9Cl | CLDC |  | 1,85 | 10,10
+20 | Buten – 1 | C4H8 | CCK | - | 1,81 | 
+21 | Buten – 2 | C4H8 | CCK | - | 1,85 | 9,3
+22 | Cacbon disunfua | CS2 | CLDC | -43 | 1,33 | 52,6
+23 | Cacbon oxit | CO | CCK | - | 12,5 | 74,0
+24 | Cacbonyl sunfua | COS | CCK |  | 12,0 | 29,0
+25 | Crotonandehyt | CH3CH=CHCHO | CCK |  | 4,0 | 57,0
+26 | Decan | C10H22 | CLDC | 47 | 0,70 | 
+27 | Sym-dicloetylen | CHCl=CHCl | CLDC |  | 5,4 | 13,0
+28 | Dietylamin | (C2H5)2NH | CLDC | -26 | 1,77 | 
+29 | Diclodiflometan | CCl2F2 | CKC | 11 |  | 
+30 | Dimetylamin | (CH3)2NH |  | -8 |  | 
+31 | Dimetylformamit | C3H7NO | CLDC | 58 | 2,35 | 
+32 | Dodecan | C12H26 | CCL | 77 | 0,634 | 
+33 | 1,1 – Dicloetan | C2H4Cl2 | CCL | -29 | 3,6 | 12,0
+34 | 1,2 – Dicloetan | C2H4Cl2 | CLDC | 12 | 4,6 | 
+35 | 1,4 – Dioxan | (CH2)4O2 | CLDC | 11 | 2,14 | 22,0
+36 | Etan | C2H6 | CCK | -18 | 3,07 | 12,5
+37 | Ete dietyl | C2H5OC2H5 | CLDC | -43 | 1,9 | 36,0
+38 | Ete diisopropyl | (C3H7)2O | CLDC |  | 1,4 | 21,0
+39 | Ete dimetyl | CH3OCH3 | CCK | -41 | 3,49 | 18,0
+40 | Ete divinyl | (CH2=CH)2O | CLDC | -30 | 2,0 | 36,5
+41 | Ete metyl etyl | CH3OC2H5 | CLDC |  | 2,0 | 10,0
+42 | Etyl amin | C2H5NH2 | CLDC |  | 3,55 | 13,95
+43 | Etyl axetat | CH3COOC2H5 | CLDC | -3 | 2,28 | 9,0
+44 | Etyl benzen | C6H5CH2CH3 | CLDC | 24 | 1,03 | 
+45 | Etyl bromua | C2H5Br | CLDC | -25 | 6,75 | 11,2
+46 | Etyl celosel | C4H10C2 | CLDC | 43 | 2,0 | 
+47 | Etyl clorua | C2H5Cl | CCK | 28 | 3,92 | 
+48 | Etyl focmiat | HCOOC2H5 | CLDC |  | 2,7 | 13,5
+49 | Etyl glycol axetat | CH3COC2H4OC2H5 | CLDC |  | 1,7 | 9,0
+50 | Etyl glycol | C2H5OCH2CH2OH | CLDC |  | 1,8 | 4,0
+51 | Etylen | CH2=CH2 | CNN | 24 | 3,11 | 28,5
+52 | Etylen oxit | C2H4O | CNN |  | 3,66 | 80,0
+53 | Triclo flo metan | CCl3F | KC | 153 |  | 
+54 | Formaldehyt | HCHO | CCK | 54-93 | 7,0 | 
+55 | Glyxerin | CH2OHCHOH-CH2OH | CCL | 198 | 3,09 | 
+56 | Glycol | C2H6O2 | CCL | 112 | 4,29 | 
+57 | Heptan | C7H16 | CLDC | -4 | 1,074 | 6,0
+58 | Hexandecan | C16H34 | CLC | 128 | 0,473 | 
+59 | Hydrazin | N2H4 | CNN | 38 | 4,7 | 
+60 | Hydro | H2 | CCK |  | 4,09 | 75,0
+61 | Hydro sunfua | H2S | CCK | 23 | 4,00 | 45,5
+62 | Hydro xyanua | HCN | CCK |  | 5,6 | 57,0
+63 | Isoamyl axetat | CH2COOC5H11 | CLDC |  | 1,0 | 10,0
+64 | Isobutan | C4H10 | CCK | 77 | 1,81 | 
+65 | Isobutylen | C4H8 | CCK | - | 1,78 | 
+66 | Isopentan | C5H12 | CLDC | -52 | 1,36 | 7,50
+67 | Isopropyl axetat | CH3COOCH(CH3)2 | CLDC |  | 1,8 | 8,0
+68 | Isopropyl benzen | C9H12 | CLDC | 36 | 0,93 | 
+69 | Metan | CH4 | CCK | 2 | 5,28 | 15,0
+70 | Metyl glycol | CH2OC2H4OH | CLDC |  | 2,5 | 14,0
+71 | Metyl amin | CH3NH2 | CLDC | -17,8 | 4,95 | 20,75
+72 | Metyl axetat | CH3COOCH3 | CLDC |  | 3,1 | 16,0
+73 | Metyl bromua | CH3Br | CCL | 4,5 | 13,5 | 14,5
+74 | Metyl butyl keton | CH3COC4H9 | CLDC |  | 1,2 | 8,0
+75 | Metyl clorua | CH3Cl | CCL |  | 7,6 | 17,4
+76 | Metyl etyl keton | C4H8O | CLDC | -6 | 1,90 | 3,50
+77 | Metyl glycol axetat | CH3COOC2H4OCH3 | CLDC |  | 1,7 | 8,2
+78 | Metyl propyl keton | C5H10O | CLDC | 6 | 1,49 | 
+79 | Monoclo etanol | CH2ClCH2OH | CLDC |  | 5,0 | 16,0
+80 | n – Hexan | C6H14 | CLDC | -23 | 1,242 | 7,40
+81 | n – Nonan | C9H20 | CLDC | 31 | 0,843 | 2,90
+82 | n – Octan | C8H18 | CLDC | 14 | 0,945 | 3,20
+83 | n – Pentan | C5H12 | CLDC | -44 | 1,147 | 7,50
+84 | n – Pentandecan | C15H32 | CCL | 15 | 0,505 | 
+85 | n – Tetradecan | C14H30 | CLDC | 4 | 1,25 | 
+86 | n – Tridecan | C13H28 | CCL | 90 | 0,585 | 
+87 | n – Undecan | C11H24 | CCL | 62 | 0,692 | 
+88 | Naphtalen | C10H8 | CC | 81 | 0,906 | 5,90
+89 | O – diclobenzen | C6H4Cl2 | CLDC |  | 2,2 | 9,2
+90 | Picolin | C6H7N | CLDC | 39 | 1,43 | 
+91 | Piridin | C5H5N | CLDC | 20 | 1,85 | 12,4
+92 | Propan | C3H8 | CCK | 20 | 2,310 | 9,35
+93 | Propylen | C3H6 | CCK | - | 2,30 | 10,3
+94 | Propylen bromua | C3H5Br | CLDC |  | 4,36 | 7,2
+95 | Propylen oxit | C3H6O | CNN | -28,9 | 2,0 | 22,0
+96 | Propyl amin | C3H7NH2 | CLDC |  | 2,0 | 10,35
+97 | Propyl axetat | CH3COOC3H7 | CLDC |  | 1,8 | 8,0
+98 | Propyl clorua | C3H7Cl | CCL | -17,8 | 2,60 | 11,90
+99 | Propylen diclorua | C3H6Cl2 | CCL | 17 | 3,4 | 14,5
+100 | Rượu alylic | CH2=CHCH2OH | CLDC | 21 | 2,5 | 18,0
+101 | Rượu butylic (butanol) | C4H9OH | CLDC | 38 | 1,81 | 
+102 | Rượu etylic (etanol) | C2H5OH | CLDC | 13 | 3,61 | 19,0
+103 | Rượu hexylic (hexanol) | C6H13OH | CLC | 63 | 1,23 | 
+104 | Rượu isobutylic (isobutanol) | C4H9OH | CLDC |  | 1,70 | 18,0
+105 | Rượu isobutylenic (isobutenol) | C4H7OH | CLDC | 28 | 1,81 | 0,0
+106 | Rượu isopropylic (isopropanol) | C3H7OH | CLDC | 13 | 2,23 | 
+107 | Rượu metylic (methanol) | CH3OH | CLDC | 8 | 6,7 | 36,5
+108 | Rượu n – propylenic | C3H5OH | CLDC | 23 | 2,34 | 15,5
+109 | Stirol | C8H8 | CLDC | 31 | 1,66 | 
+110 | Tetrahydrofuran | C4H8O | CLDC | -6 | 1,78 | 
+111 | Toluen | C6H5CH3 | CLDC | 6 | 1,27 | 6,7
+112 | Trietyl amin | (C2H5)3N | CLDC |  | 1,25 | 7,90
+113 | Trimetyl amin | (CH3)3N | CLDC |  | 2,00 | 11,60
+114 | 2,2,4 Trimetylpentan | C8H18 | CLDC | -0 | 1,0 | 
+115 | Vinyl axetat | CH3COOCH=CH2 | CLDC | -5 | 2,6 | 3,4
+116 | Vinyl clorua | C2H3Cl | CCK | 38 | 4,0 | 
+117 | Xyanogen | (CN)2 | CCK |  | 6,0 | 42,6
+118 | Xyclo hexanon | CH2(CH2)4CO | CLDC | 54 | 3,2 | 9,0
+119 | Xyclohexan | C6H12 | CLDC | -18 | 1,31 | 8,0
+
+Bảng C.2 - Các chỉ số nguy hiểm đối với các hỗn hợp, sản phẩm dễ cháy, nổ
+
+STT | Tên chất | Công thức tổng quát | Tính chất dễ cháy nổ (ký hiệu) | Nhiệt độ bùng cháy, oC | Giới hạn nổ dưới, % thể tích | Giới hạn nổ trên, % thể tích
+1 | Dầu diezen 1 | C 14,151 H 29,180 | CLDC | 40 | 0,52 | 
+2 | Dầu diezen 3 | C 12,343 H 23,889 | CLDC | 35 | 0,61 | 
+3 | Dầu hoả KO – 20 | C 13,395 H 26,860 | CLDC | 40 | 0,55 | 5,0
+4 | Dầu hoả KO – 22 | C 10,914 H 21,832 | CLDC | 40 | 0,64 | 5,0
+5 | Dầu biến thế | C 21,74 H 42,28 S 0,04 | CCL | 150 | 0,29 | 
+6 | Dầu AMT – 300 TY | C 22,25 H 33,48 S 0,34 N 0,07 | CCL | 170 | 8,38 | 
+7 | Dầu AMT- 300 T | C 19,04 H 24,58 S 0,196 N 0,04 | CCL | 170 130-35 | 0,43 | 
+8 | Dầu khoáng chất |  |  |  |  | 
+9 | Dung môi hoà tan M gồm: n – Butylaxetat 30% Etylaxetat 5% Rượu etylic 60% Rượu isobutylic 5% | C 2,76 H 7,147 O 1,187 | CLDC | 6 | 2,79 | 
+11 | Dung môi hoà tan gồm: Butyl axetat 9% Etyl axetat 16% Xylen 21% Toluen 21% Rượu Etylic 16% Rượu Butylic 3% Etylxeloxol 13% | C 4,791 H 8,318 O 0,971 | CLDC | 4 | 1,72 | 
+12 | Dung môi hoà tan RMT Butylaxetat 18% Xylen 25% Toluen 25% Rượu Butylic 15% Etylxeloxol 17% | C 5,962 H 9,799 O 0,845 | CLDC | 16 | 1,25 | 
+ | Dung môi P4 Xylen 15% Toluen 70% Axeton 15% | C 5,452 H 7,606 O 0,233 | CLDC | -4 | 1,38 | 
+13 | Dung môi P5 Xylen 40% Butylaxetat 30% Axeton 30% | C 5,309 H 8,655 O 0,89 | CLDC | -9 |  | 1,57
+14 | Dung môi P12 Butylaxetat 30% Xylen 10% Toluen 60% | C 6,837 H 9,217 O 0,515 | CLDC | -10 | 1,26 | 
+15 | Khí than ướt (khí hơi nước) |  |  |  | 7,12 | 66-72
+16 | Khí lò cao |  |  |  | 35 | 74
+17 | Khí lò cốc |  |  |  | 4,4 | 34
+18 | Khí thiên nhiên |  |  |  | 3,8 | 13,2
+19 | Mazut |  |  | 60-100 |  | 
+20 | Xăng 83 | C 7,991 H 13,108 | CLDC | -36 | 1,08 | 5,16
+21 | Xăng 92 | C 7,024 H 13,706 | CLDC | -36 | 1,06 | 8,0
+22 | Xăng hàng không | C 7,267 H 23,889 | CLDC | -34 | 0,92 | 
+23 | Xylen (hỗn hợp đồng phân) | C 7,99 H 9,98 | CLDC | 24 | 1,00 | 
+24 | Vazolin | HO(C2H4)3OH |  | 150 |  | 
+Chú thích: 1. CLDC - Chất lỏng dễ cháy - Chất lỏng có khả năng tự duy trì sự cháy sau khi đã tách bỏ nguồn lửa và có nhiệt độ bùng cháy không quá 61 oC (trong cốc kín) hay quá 66 oC (trong cốc hở). 2. CCK - Chất cháy khí - Chất khí có khả năng tạo ra một hỗn hợp cháy và nổ với không khí ở nhiệt độ không quá 55 oC. 3. CNN - Chất nguy hiểm nổ - Chất có khả năng nổ hay kích nổ không cần có sự tham gia của ô xy không khí. 4. CCL - Chất cháy lỏng - Chất lỏng có khả năng tự cháy sau khi đã tách bỏ nguồn lửa và có nhiệt độ bùng cháy cao hơn 61 oC (trong cốc kín) hay quá 66 oC (trong cốc hở). 5. CC - Chất cháy - Chất có khả năng tiếp tục cháy sau khi đẫ tách bỏ nguồn lửa.
+
+PHỤ LỤC D
+(qui định)
+Bảng D.1- Bảo quản các nhóm hoá chất dễ cháy, nổ
+
+Nhóm | Các chất | Các nhóm hoá chất không được bảo quản chung | Loại nhà để bảo quản
+I | Các chất có khả năng tạo thành các hỗn hợp nổ: Kali nitrat, canxi nitrat, natri nitrat, bari nitrat, kali peclorat, muối bectole | IIa, IIb III, IVa, VI | Phòng cách ly của nhà kho có tính chịu lửa cao
+II | Các loại khí nén và khí hoá lỏng a. Các loại khí cháy và nguy hiểm nổ: Axetylen, hyđro,	 khí metan, amoniac, dihyđro sunfua, metylclorua, etylen oxit, butylen, butan, propan... | I, IIb, III, IVa, IVb, V, VI | Nhà kho chuyên dụng có tính chịu lửa cao hoặc ngoài trời có mái che. Cho phép bảo quản chung với các loại khí trơ và khí không cháy.
+ | b. Các loại khí duy trì sự cháy: Oxy, không khí hoá lỏng và nén. | I, IIa, III IVa, IVb, V, VI | Trong phòng cách ly của nhà kho chung
+III | Các chất có khả năng tự đốt cháy và tự bắt cháy khi tác dụng với nước và không khí |  | 
+ | a. Kali, natri, canxi, canxi cacbua, canxi phốt phua, natri phốt phua, bụi kẽm, bụi peoxit, bụi nhôm, bột nhôm, chất xúc tác niken …, phospho trắng, vàng … | I, IIa, IIb, II IVa, IVb, V, VI | Trong các phòng nhà kho chống cháy có tính chịu lửa cao Phốt pho bảo quản riêng trong nước.
+ | b. Nhóm clorua trietyl, nhôm clorua, dietyl, trizobutyl nhôm v.v… | I, IIa, IIb, IIIa, IVa, IVb, V, VI | Nhà kho chuyên dụng có tính chịu lửa cao.
+IV | Các chất cháy và dễ bắt cháy a. Chất lỏng: Xăng, benzen, cacbon đisunfua, axeton, dầu thông, toluen, xylen, amyl axetat, nguyên liệu dầu mỏ nhẹ, ligroin, dầu hoả, cồn, este etyl, dầu hữu cơ ... | I, IIa, IIb, IV, IVb, V, VI | Nhà kho chuyên dụng có tính chịu lửa cao, hầm chứa, bể chứa, xitéc, thùng kim loại.
+ | b. Các chất rắn: Xenlulo, phospho đỏ, naphtalin (long não ...) | I, IIa, IIb, III, IVa, V, VI | Nhà kho chuyên dụng có tính chịu lửa cao.
+V | Các chất có khả năng gây ra cháy: Brom, anhydrit romic, kalipermanganat. | I, IIa, III, IVa, V, VI | Cách ly với các chất thuộc các nhóm khác.
+VI | Các chất dễ cháy: Bông, rơm, sợi gai, than bùn, gỗ, dầu mỡ thực vật. | I, IIa, IIb, III IVa, IVb, V | Cách ly với các chất thuộc các nhóm khác.
+Chú thích: Khi cần thiết bảo quản các hoá chất dễ cháy nổ mà không được nêu trong bảng trên, thì việc bảo quản chung hay không đối với các chất thuộc nhóm nào thì phải làm rõ mức độ nguy hiểm cháy nổ của các chất đó và phải được sự đồng ý thông qua của cơ quan phòng cháy chữa cháy.
+
+PHỤ LỤC E
+(qui định)
+CÁC BIỂU TRƯNG AN TOÀN
+E.1 Các mẫu biểu trưng
+Các biểu trưng an toàn đối với hoá chất nguy hiểm được qui định trong bảng E.1.
+Bảng E.1 – Các mẫu biểu trưng
+
+Số biểu trưng | Mẫu biểu trưng | Ý nghĩa | Hình vẽ mô tả
+1 |  | Chất dễ cháy hay tự cháy | Bó đuốc màu đen, ngọn lửa đỏ
+2 |  | Chất gặp nước bốc cháy | Chiếc dù đen, dưới dù có bó đuốc đen
+3 |  | Chất nổ, nguy hiểm | Hình quả bom màu đen, có tia lửa đỏ
+4 |  | Chất khí | Bình chứa chất khí, màu đen
+5 |  | Chất ăn mòn | Bình lớn màu đen toả khói đen, đựng trong sọt màu trắng.
+6 |  | Chất độc | Trong hình vuông đen vẽ đầu lâu trắng
+7 |  | Dễ vỡ | Cốc thuỷ tinh cao chân màu đỏ
+8 |  | Không được xếp lộn ngược | Hai mũi tên đen đều hướng lên trên
+9 |  | Tránh nước | Chiếc dù đen
+
+E.2 Màu sắc, kích thước và đường nét
+- Chữ ghi trên biểu trưng là màu đen;
+- Kích thước, đường nét nhãn dán trên kiện hàng tuân theo qui chế ghi nhãn hàng hoá.

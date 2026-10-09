@@ -15,7 +15,7 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 - Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, QCVN 01:2019/BCT (nội dung nghĩa vụ bị chế tài) → `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `qlks-sct-vn`.
 - Luật Hóa chất 69/2025, NĐ 24/25/26/2026 → `hc-sct-vn/van-ban-goc/`.
 
-**Chưa có trong gói (tra vbpl.vn/hỏi Bạn khi cần nguyên văn):** Luật XLVPHC bản hợp nhất sau Luật 88/2025; NĐ 118/2021 (sđ NĐ 68/2025, NĐ 190/2025); NĐ 189/2025.
+**Văn bản thủ tục chung — tra `00-DANH-MUC-CHUNG.md` trước khi kết luận thiếu:** Luật 88/2025/QH15 (sửa Luật XLVPHC) bản Word + bản quét có dấu + `.txt` tại `chung/`; NĐ 118/2021/NĐ-CP bản gốc (chưa hợp nhất NĐ 68/2025, NĐ 190/2025) + Phụ lục 72 biểu mẫu tại `chung/`; NĐ 189/2025/NĐ-CP và NĐ 311/2026/NĐ-CP tại `chung/`. Chưa có bản gốc trong kho (Bạn nạp qua Hộp thư `_inbox/` khi cần nguyên văn): Luật XLVPHC bản hợp nhất sau Luật 88/2025 (VBHN 63/VBHN-VPQH 2025); NĐ 68/2025, NĐ 190/2025.
 
 | **pccc/ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.docx** | **Nghị định 106/2025/NĐ-CP ngày 15/5/2025** — xử phạt VPHC lĩnh vực PCCC và CNCH (hiệu lực 01/7/2025; bãi bỏ mục 3 Chương II NĐ 144/2021; 41 điều) | Đ4 mức, Đ5 thời hiệu (mốc riêng Đ18), Đ14–16 chất hàng nguy hiểm cháy nổ, **Đ18 thẩm định – nghiệm thu**, **Đ23–25 chống khói – thoát nạn – ngăn cháy**, **k2 Đ29 công chức CQCM về xây dựng lập BB VPHC**, Đ30 UBND, Đ31 Công an, Đ36 Thanh tra, Đ37 phân định, Đ40 chuyển tiếp; hướng dẫn: `references/04` mục B |
 

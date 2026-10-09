@@ -35,6 +35,6 @@ Tất cả số/ngày đã trích xuất từ chính văn bản. NĐ 217/2026 v�
 17. `TT-39-2026-TT-BXD-CSDL-quoc-gia-HDXD.docx` — **TT 39/2026/TT-BXD**, hệ thống thông tin, CSDL quốc gia về hoạt động xây dựng (liên quan thông báo khởi công, kế hoạch KTCTNT theo điểm b khoản 3 Đ27 NĐ 207/2026).
 18. `ND-347-2026-ND-CP-08-9-2026-sua-doi-ND-105-2025.docx` — **NĐ 347/2026/NĐ-CP ngày 08/9/2026** (hiệu lực 15/9/2026) sửa NĐ 169/2025, NĐ 105/2025, NĐ 106/2025, NĐ 282/2025: bãi bỏ k5 Đ6 và Đ10 NĐ 105 (không còn kiểm tra nghiệm thu PCCC); **Điều 39 bãi bỏ Điều 74 NĐ 217/2026**. Bản PDF: `pccc-sct-vn/skills/pccc-sct-vn/van-ban-goc/`.
 
-## CHƯA có trong bộ (bổ sung khi Bạn cung cấp)
-- NĐ 206/2026 toàn văn (quản lý chi phí ĐTXD — hiện mới có TT 36/2026 hướng dẫn), NĐ 212/2026 (điều kiện năng lực hoạt động XD, dữ liệu quốc gia), NĐ 220/2026 (bảo hiểm bắt buộc trong hoạt động XD) — nếu cần chuyên sâu chi phí/năng lực/bảo hiểm.
+## Chưa có bản gốc trong kho (tra `00-DANH-MUC-CHUNG.md` trước; cần thì Bạn nạp qua Hộp thư `_inbox/`)
+- NĐ 206/2026 toàn văn (quản lý chi phí ĐTXD — hiện mới có TT 36/2026 hướng dẫn), NĐ 220/2026 (bảo hiểm bắt buộc trong hoạt động XD) — nếu cần chuyên sâu chi phí/bảo hiểm. (NĐ 212/2026 đã có: `ND-212-2026-dieu-kien-nang-luc-HDXD-CSDL-quoc-gia.docx`.)
 - Phụ lục IX NĐ 207/2026 (danh mục công trình quy mô lớn, kỹ thuật phức tạp) và Phụ lục IV NĐ 217/2026 (công trình ảnh hưởng an toàn, lợi ích cộng đồng) — để xác định chính xác đối tượng thẩm định/KTCTNT. *(Lưu ý: 2 phụ lục này nằm trong bản NĐ 207 docx và NĐ 217 PDF/OCR đã có — tra trực tiếp khi cần.)*

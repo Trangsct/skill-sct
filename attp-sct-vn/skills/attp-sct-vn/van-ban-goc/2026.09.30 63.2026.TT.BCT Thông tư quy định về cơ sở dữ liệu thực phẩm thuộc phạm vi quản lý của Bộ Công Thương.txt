@@ -1,0 +1,235 @@
+[Bản trích chữ tự động (docx) từ 2026.09.30 63.2026.TT.BCT Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.docx — 220 đoạn, chuẩn hóa Unicode NFC. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+BỘ CÔNG THƯƠNG
+------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+---------------
+Số: 63/2026/TT-BCT | Hà Nội, ngày 30 tháng 9 năm 2026
+
+ 
+THÔNG TƯ
+QUY ĐỊNH VỀ CƠ SỞ DỮ LIỆU THỰC PHẨM THUỘC PHẠM VI QUẢN LÝ CỦA BỘ CÔNG THƯƠNG
+Căn cứ Luật An toàn thực phẩm số 55/2010/QH12;
+Căn cứ Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15; 
+Căn cứ Luật Dữ liệu số 60/2024/QH15;
+Căn cứ Luật Chất lượng sản phẩm, hàng hóa số 05/2007/QH12, được sửa đổi, bổ sung bởi Luật số 78/2025/QH15;
+Căn cứ Luật Chuyển đổi số số 148/2025/QH15;
+Căn cứ Nghị quyết số 15/2026/NQ-CP tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP ngày 26 tháng 01 năm 2026 và Nghị quyết số 66.13/2026/NQ-CP ngày 27 tháng 01 năm 2026 của Chính phủ;
+Căn cứ Nghị định số 15/2018/NĐ-CP của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm;
+Căn cứ Nghị định số 55/2024/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ quyền lợi người tiêu dùng;
+Căn cứ Nghị định số 351/2026/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;
+Căn cứ Nghị định số 165/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Dữ liệu;
+Căn cứ Nghị định số 278/2025/NĐ-CP của Chính phủ quy định về kết nối, chia sẻ dữ liệu bắt buộc giữa các cơ quan thuộc hệ thống chính trị;
+Căn cứ Nghị định số 37/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa;
+Căn cứ Nghị định số 224/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Chuyển đổi số;
+Theo đề nghị của Cục trưởng Cục Công nghiệp,
+Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định việc tạo lập, quản lý, cập nhật, kết nối, chia sẻ, khai thác cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương phục vụ công tác quản lý nhà nước về công nghiệp thực phẩm, an toàn thực phẩm, chất lượng sản phẩm hàng hóa, truy xuất nguồn gốc thực phẩm và trách nhiệm của các cơ quan, tổ chức, cá nhân có liên quan trong hoạt động sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của ngành công thương.
+Điều 2. Đối tượng áp dụng
+1. Thông tư này áp dụng đối với:
+a) Các cơ quan quản lý nhà nước về thực phẩm, các tổ chức đánh giá sự phù hợp, các cơ quan kiểm tra nhà nước về thực phẩm nhập khẩu thuộc phạm vi quản lý của Bộ Công Thương.
+b) Các tổ chức, cá nhân có hoạt động sản xuất, kinh doanh thực phẩm (sau đây gọi tắt là cơ sở) tại Việt Nam thuộc phạm vi quản lý của Bộ Công Thương và các tổ chức, cá nhân khác có liên quan.
+2. Thông tư này không áp dụng đối với thực phẩm do hộ gia đình, cá nhân sản xuất, chế biến để sử dụng và không kinh doanh trên thị trường.
+Điều 3. Giải thích từ ngữ 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1. Cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương (sau đây gọi là Cơ sở dữ liệu) là tập hợp các dữ liệu được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật, thuộc hợp phần của cơ sở dữ liệu ngành Công Thương.
+2. Truy xuất nguồn gốc là hoạt động theo dõi, giám sát, xác định được một kiểu loại, lô hoặc một đơn vị sản phẩm, hàng hóa theo thời gian và địa điểm qua từng công đoạn của chuỗi cung ứng.
+3. Sự kiện theo dõi trọng yếu là các bước có khả năng ảnh hưởng tới chất lượng và an toàn sản phẩm. 
+4. Nguyên tắc “một bước trước - một bước sau” là nguyên tắc truy xuất nguồn gốc mà cơ sở phải lưu giữ thông tin để bảo đảm khả năng giám sát, nhận diện được công đoạn trước và công đoạn kế tiếp trong quá trình sản xuất, kinh doanh đối với một sản phẩm thực phẩm được truy xuất nguồn gốc.
+Điều 4. Nguyên tắc áp dụng
+1. Việc tạo lập, quản lý, cập nhật, kết nối, chia sẻ và khai thác Cơ sở dữ liệu thực hiện theo quy định của pháp luật về dữ liệu, chuyển đổi số và pháp luật có liên quan. 
+2. Dữ liệu được tạo lập, cập nhật vào Cơ sở dữ liệu phải bảo đảm chính xác, đầy đủ, kịp thời, thống nhất, có khả năng kiểm chứng và truy nguyên đến nguồn hình thành dữ liệu theo quy định của pháp luật.
+3. Hoạt động truy xuất nguồn gốc thực phẩm được thực hiện theo nguyên tắc “một bước trước - một bước sau”. Thông tin thực phẩm sau mỗi sự kiện theo dõi trọng yếu phải được lưu trữ, nhận diện bằng một phương thức thích hợp để phục vụ truy xuất nguồn gốc. Các sự kiện theo dõi trọng yếu và thời gian diễn ra sự kiện trong chuỗi cung ứng theo tiêu chuẩn quốc gia TCVN 12850:2020 hoặc tiêu chuẩn về truy xuất nguồn gốc toàn cầu của GS1 (GS1 Global Traceability Standard).
+4. Cơ quan, tổ chức, cá nhân chịu trách nhiệm về dữ liệu do mình tạo lập, cập nhật, cung cấp theo quy định của pháp luật.
+Chương II
+CƠ SỞ DỮ LIỆU THỰC PHẨM 
+Điều 5. Tạo lập Cơ sở dữ liệu 
+1. Cơ sở dữ liệu được xây dựng, quản lý và vận hành phù hợp với Khung kiến trúc dữ liệu của Bộ Công Thương, Khung kiến trúc dữ liệu quốc gia, Khung quản trị, quản lý dữ liệu quốc gia và quy định của pháp luật về dữ liệu, chuyển đổi số.
+2. Dữ liệu phục vụ quản lý nhà nước về công nghiệp thực phẩm, an toàn thực phẩm, chất lượng sản phẩm, hàng hóa và truy xuất nguồn gốc thực phẩm thuộc phạm vi quản lý của Bộ Công Thương được tạo lập, cập nhật từ các nguồn sau: 
+a) Dữ liệu do cơ quan nhà nước và cơ quan, tổ chức được giao hoặc chỉ định thực hiện nhiệm vụ quản lý nhà nước tạo lập, tiếp nhận trong quá trình giải quyết thủ tục hành chính, cung cấp dịch vụ công, thực hiện chế độ báo cáo và hoạt động quản lý nhà nước theo quy định của pháp luật;
+b) Dữ liệu được kết nối, chia sẻ từ Cơ sở dữ liệu tổng hợp quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành và hệ thống thông tin của cơ quan nhà nước;
+c) Dữ liệu do tổ chức, cá nhân cung cấp, cập nhật, kết nối, chia sẻ theo nghĩa vụ được pháp luật quy định hoặc tự nguyện cung cấp, chia sẻ theo quy định của pháp luật.
+3. Hồ sơ, giấy tờ, tài liệu được hình thành trong quá trình giải quyết thủ tục hành chính, cung cấp dịch vụ công, thực hiện hoạt động quản lý nhà nước và chế độ báo cáo được tạo lập, chuyển đổi thành dữ liệu số để cập nhật vào Cơ sở dữ liệu theo quy định của pháp luật và Thông tư này.
+Điều 6. Nội dung Cơ sở dữ liệu 
+1. Cơ sở dữ liệu bao gồm các nhóm dữ liệu chủ yếu sau: 
+a) Dữ liệu về cơ sở sản xuất, kinh doanh thực phẩm;
+b) Dữ liệu về sản phẩm thực phẩm;
+c) Dữ liệu về điều kiện bảo đảm an toàn thực phẩm và hồ sơ công bố sản phẩm;
+d) Dữ liệu về cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu; cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước; cơ sở kiểm nghiệm kiểm chứng và kết quả thực hiện nhiệm vụ của các cơ quan, cơ sở này;
+đ) Dữ liệu về thanh tra, kiểm tra, hậu kiểm, xử lý vi phạm hành chính, cảnh báo, thu hồi và xử lý thực phẩm không bảo đảm an toàn;
+e) Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa và đánh giá sự phù hợp có liên quan đến thực phẩm;
+g) Dữ liệu về truy xuất nguồn gốc thực phẩm;
+h) Dữ liệu báo cáo, thống kê và dữ liệu khác phục vụ quản lý nhà nước về thực phẩm thuộc phạm vi quản lý của Bộ Công Thương theo quy định của pháp luật.
+2. Danh mục, cấu trúc và mô tả dữ liệu của Cơ sở dữ liệu do Bộ trưởng Bộ Công Thương ban hành và được rà soát, cập nhật phù hợp với yêu cầu quản lý nhà nước và quy định của pháp luật; bảo đảm thống nhất về mã định danh, nguồn dữ liệu, chất lượng dữ liệu và khả năng kết nối, chia sẻ, khai thác, sử dụng dữ liệu.
+Điều 7. Quản lý Cơ sở dữ liệu
+1. Bộ Công Thương tổ chức quản lý, duy trì và phát triển Cơ sở dữ liệu theo quy định của pháp luật. 
+2. Cục Công nghiệp chủ trì, phối hợp với các đơn vị thuộc Bộ hướng dẫn nghiệp vụ, xác định nhu cầu dữ liệu, tổ chức khai thác dữ liệu phục vụ quản lý nhà nước về công nghiệp thực phẩm, an toàn thực phẩm, chất lượng sản phẩm, hàng hóa và truy xuất nguồn gốc thực phẩm theo chức năng, nhiệm vụ được giao. 
+3. Cục Khoa học, Công nghệ và Chuyển đổi số chủ trì, phối hợp với các đơn vị thuộc Bộ bảo đảm hạ tầng kỹ thuật, quản lý, vận hành, kết nối và chia sẻ dữ liệu theo chức năng, nhiệm vụ được giao. 
+Điều 8. Cập nhật, kết nối, chia sẻ và khai thác dữ liệu
+1. Dữ liệu đã được tạo lập trong quá trình giải quyết thủ tục hành chính, cung cấp dịch vụ công trên môi trường điện tử hoặc đã có trong cơ sở dữ liệu, hệ thống thông tin của cơ quan nhà nước được khai thác, sử dụng lại cho Cơ sở dữ liệu thông qua kết nối, chia sẻ dữ liệu theo quy định của pháp luật. 
+2. Trường hợp dữ liệu được hình thành trong quá trình giải quyết thủ tục hành chính, cung cấp dịch vụ công chưa được tạo lập trên môi trường điện tử hoặc chưa thể khai thác, sử dụng lại thông qua kết nối, chia sẻ dữ liệu thì cơ quan, tổ chức có trách nhiệm tạo lập, chuyển đổi số và cập nhật vào Cơ sở dữ liệu theo quy định của Thông tư này. 
+3. Cơ sở dữ liệu được kết nối, chia sẻ với Cơ sở dữ liệu tổng hợp quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, Cổng thông tin truy xuất nguồn gốc sản phẩm, hàng hóa quốc gia và hệ thống thông tin có liên quan theo quy định của pháp luật.
+4. Việc kết nối, chia sẻ và khai thác dữ liệu thực hiện theo quy định của pháp luật về dữ liệu, chuyển đổi số và pháp luật có liên quan.
+Chương III
+TRUY XUẤT NGUỒN GỐC THỰC PHẨM
+Điều 9. Thông tin, hồ sơ phục vụ truy xuất nguồn gốc thực phẩm
+1. Cơ sở sản xuất, kinh doanh thực phẩm phải thiết lập, lưu trữ đầy đủ các thông tin liên quan về hoạt động sản xuất, kinh doanh sau đây:
+a) Tên, địa chỉ, thông tin liên hệ, mã số doanh nghiệp của cơ sở sản xuất, kinh doanh thực phẩm;
+b) Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận khác theo quy định của pháp luật về đăng ký kinh doanh;
+c) Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với trường hợp thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm.
+d) Một trong các Giấy chứng nhận: Thực hành sản xuất tốt (GMP), Hệ thống phân tích mối nguy và điểm kiểm soát tới hạn (HACCP), Hệ thống quản lý an toàn thực phẩm ISO 22000, Tiêu chuẩn thực phẩm quốc tế (IFS), Tiêu chuẩn toàn cầu về an toàn thực phẩm (BRC), Chứng nhận hệ thống an toàn thực phẩm (FSSC 22000) hoặc tương đương còn hiệu lực đối với cơ sở thuộc đối tượng quy định tại điểm k khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP.
+đ) Quy trình kiểm soát nội bộ của cơ sở (nếu có);
+2. Cơ sở sản xuất thực phẩm phải lưu trữ hồ sơ, tài liệu về toàn bộ quá trình sản xuất, kinh doanh thực phẩm thông qua hợp đồng, sổ sách ghi chép hoặc các phương thức khác để phục vụ việc truy xuất nguồn gốc sau đây:
+a) Tên, hình ảnh sản phẩm;
+b) Thương hiệu, nhãn hiệu, số sê-ri sản phẩm (nếu có);
+c) Các thông tin về quy cách đóng gói, chất liệu bao bì, thành phần trong thực phẩm;
+d) Thời hạn sử dụng của sản phẩm đối với thực phẩm có quy định bắt buộc ghi hạn sử dụng;
+đ) Các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn cơ sở được áp dụng; 
+e) Bản công bố hợp quy kèm theo Kết quả chứng nhận hợp quy đối với thực phẩm có quy chuẩn kỹ thuật hoặc hồ sơ công bố sản phẩm;
+g) Thông tin về tên, chủng loại sản phẩm, số lượng, khối lượng, mã số của lô/mẻ sản phẩm đã sản xuất, đã bán;
+h) Địa điểm, thời gian diễn ra sự kiện theo dõi trọng yếu do cơ sở sản xuất thực hiện;
+i) Tên, địa chỉ, thông tin liên hệ, mã số doanh nghiệp của khách hàng, đại lý, nhà phân phối, đơn vị vận chuyển, bảo quản, lưu kho, nhà cung cấp nguyên liệu/bán thành phẩm (nếu có). Hợp đồng, hóa đơn, chứng từ mua bán, vận chuyển với khách hàng, đại lý, nhà phân phối, đơn vị vận chuyển, bảo quản, lưu kho, nhà cung cấp nguyên liệu/bán thành phẩm (nếu có);
+k) Thông tin về lô/mẻ nguyên liệu, bán thành phẩm (tên, khối lượng, số lượng, thời gian giao nhận, thời hạn sử dụng, chất liệu bao bì, phụ gia); kết quả kiểm nghiệm của lô/mẻ nguyên liệu/bán thành phẩm do nhà cung cấp nguyên liệu/bán thành phẩm hoặc cơ sở sản xuất hoặc cơ sở kiểm nghiệm thực hiện (nếu có);
+l) Kết quả kiểm nghiệm lô/mẻ thành phẩm thực phẩm do cơ sở sản xuất hoặc cơ sở kiểm nghiệm thực hiện (nếu có).
+3. Cơ sở kinh doanh thực phẩm phải lưu trữ hồ sơ, tài liệu về toàn bộ quá trình kinh doanh thực phẩm thông qua hợp đồng, sổ sách ghi chép hoặc các phương thức khác để phục vụ việc truy xuất nguồn gốc sau đây:
+a) Tổ chức tiếp nhận thông tin, giấy tờ từ cơ sở sản xuất thực phẩm và thường xuyên thiết lập, lưu trữ đầy đủ các thông tin liên quan theo quy định tại điểm a, b, c, d, đ, e khoản 2 Điều này;
+b) Hợp đồng, hóa đơn, chứng từ mua bán, vận chuyển với khách hàng, đại lý, nhà phân phối, đơn vị vận chuyển, bảo quản, lưu kho, nhà cung cấp sản phẩm (nếu có);
+c) Thông tin về địa điểm, thời gian diễn ra sự kiện theo dõi trọng yếu do cơ sở kinh doanh thực phẩm thực hiện.
+4. Đối với sản phẩm thực phẩm nhập khẩu, ngoài các thông tin quy định tại điểm a, b, c, d, đ, e khoản 2 Điều này, cơ sở kinh doanh thực phẩm phải thường xuyên thiết lập, lưu trữ đầy đủ các thông tin liên quan sau đây:
+a) Tên, địa chỉ, thông tin liên hệ của nhà sản xuất/xuất khẩu;
+b) Tên, địa chỉ, thông tin liên hệ, mã số doanh nghiệp của nhà nhập khẩu;
+c) Chứng nhận xuất xứ hàng hóa hoặc kết quả kiểm nghiệm tại nước xuất xứ trong trường hợp pháp luật quy định;
+d) Thông tin về tên, chủng loại sản phẩm, khối lượng, số lượng, số tờ khai hải quan nhập khẩu của lô hàng nhập khẩu.
+5. Đối với sản phẩm thực phẩm xuất khẩu, cơ sở sản xuất, kinh doanh thực phẩm thực hiện truy xuất nguồn gốc thực phẩm theo quy định của nước nhập khẩu; những sản phẩm thực phẩm vừa xuất khẩu vừa lưu thông trong nước khi tiêu thụ tại thị trường Việt Nam phải tuân thủ quy định tại Thông tư này.
+Điều 10. Lưu trữ hồ sơ, tài liệu truy xuất nguồn gốc
+1. Cơ sở sản xuất, kinh doanh thực phẩm chịu trách nhiệm lưu trữ đầy đủ hồ sơ, tài liệu liên quan đến truy xuất nguồn gốc sản phẩm thực phẩm bảo đảm an toàn, bảo mật, không bị thay đổi, sai lệch và phải bảo đảm sẵn sàng cung cấp, trích xuất khi có yêu cầu của cơ quan nhà nước có thẩm quyền hoặc khi cần thực hiện truy xuất theo quy định tại Thông tư này.
+2. Thời hạn lưu trữ, bảo quản hồ sơ, tài liệu liên quan đến truy xuất nguồn gốc sản phẩm thực phẩm tối thiểu là 12 tháng kể từ ngày hết hạn sử dụng của sản phẩm đối với sản phẩm thực phẩm có hạn sử dụng, 60 tháng kể từ ngày sản xuất đối với sản phẩm thực phẩm không yêu cầu bắt buộc ghi hạn sử dụng.
+3. Cơ sở sản xuất, kinh doanh thực phẩm phải bảo đảm có thể cung cấp hồ sơ, tài liệu liên quan đến truy xuất nguồn gốc sản phẩm thực phẩm trong vòng 24 giờ kể từ khi cơ quan có thẩm quyền yêu cầu.
+Điều 11. Hoạt động truy xuất nguồn gốc thực phẩm của cơ sở sản xuất, kinh doanh thực phẩm
+1. Cơ sở sản xuất thực phẩm tiến hành truy xuất nguồn gốc sản phẩm thực phẩm ngay khi tự giám sát, phát hiện sản phẩm không bảo đảm an toàn hoặc khi có yêu cầu của cơ quan nhà nước có thẩm quyền theo các bước sau:
+a) Dựa vào thông tin ban đầu (tên sản phẩm, mã lô, ngày sản xuất) xác định các thông tin liên quan của lô sản phẩm thực phẩm cần truy xuất;
+b) Rà soát hồ sơ sản xuất, hồ sơ kiểm nghiệm của lô sản phẩm thực phẩm để xác định nguyên nhân vi phạm; 
+c) Liên hệ ngay với (các) nhà cung cấp nguyên liệu, bao bì của lô sản phẩm thực phẩm để yêu cầu thông tin liên quan;
+d) Gửi thông báo khẩn cấp đến các nhà phân phối, đại lý đã nhận lô sản phẩm thực phẩm, yêu cầu cung cấp báo cáo về số lượng đã bán, số lượng tồn kho;
+đ) Phân tích, xác định nguyên nhân gây mất an toàn đối với lô sản phẩm thực phẩm phải truy xuất;
+e) Lập báo cáo kết quả thực hiện việc truy xuất nguồn gốc sản phẩm thực phẩm nêu rõ nguyên nhân, kết quả áp dụng các biện pháp khắc phục theo Biểu mẫu tại Phụ lục ban hành kèm theo Thông tư này, gửi về cơ quan có thẩm quyền theo quy định của pháp luật. 
+2. Cơ sở kinh doanh thực phẩm tiến hành truy xuất nguồn gốc sản phẩm ngay khi tự giám sát, phát hiện sản phẩm không bảo đảm an toàn hoặc khi có yêu cầu của cơ quan nhà nước có thẩm quyền theo các bước sau:
+a) Thực hiện các quy định tại các điểm a, d, đ, e khoản 1 Điều này.
+b) Gửi thông báo khẩn cấp đến nhà sản xuất, nhà phân phối cung cấp lô sản phẩm thực phẩm;
+c) Phối hợp chặt chẽ với cơ sở sản xuất thực phẩm để tiến hành truy xuất nguồn gốc sản phẩm theo quy định tại khoản 1 Điều này.
+3. Việc thu hồi, xử lý sản phẩm thực phẩm không đảm bảo an toàn thực hiện theo quy định tại Chương IV Thông tư số 43/2018/TT-BCT ngày 15 tháng 11 năm 2018 quy định về quản lý an toàn thực phẩm thuộc trách nhiệm của Bộ Công Thương.
+Điều 12. Hoạt động giám sát, kiểm tra, xử lý của cơ quan nhà nước có thẩm quyền
+Trong quá trình kiểm tra, giám sát, xử lý của các cơ quan nhà nước có thẩm quyền phát hiện thực phẩm không đảm bảo an toàn, cơ quan nhà nước có thẩm quyền gửi văn bản thông báo yêu cầu cơ sở sản xuất, kinh doanh thực phẩm tiến hành truy xuất nguồn gốc theo quy định tại Điều 11 Thông tư này.
+Điều 13. Khai thác Cơ sở dữ liệu phục vụ truy xuất nguồn gốc
+1. Cơ quan nhà nước có thẩm quyền khai thác dữ liệu từ Cơ sở dữ liệu để phục vụ kiểm tra, hậu kiểm, cảnh báo, truy xuất nguồn gốc, thu hồi, xử lý thực phẩm không bảo đảm an toàn và thực hiện nhiệm vụ quản lý nhà nước theo quy định của pháp luật. 
+2. Khi dữ liệu có sẵn trong Cơ sở dữ liệu đáp ứng yêu cầu thực hiện truy xuất nguồn gốc thì cơ quan nhà nước khai thác, sử dụng dữ liệu đó và không yêu cầu tổ chức, cá nhân cung cấp lại, trừ trường hợp cần kiểm tra, xác minh hoặc pháp luật có quy định khác. 
+3. Tổ chức, cá nhân khai thác dữ liệu mở và dữ liệu được công khai từ Cơ sở dữ liệu để phục vụ truy xuất nguồn gốc theo quy định của pháp luật.
+Chương IV
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+Điều 14. Trách nhiệm của các đơn vị thuộc Bộ Công Thương
+1. Cục Công nghiệp: 
+a) Chủ trì, phối hợp với các đơn vị thuộc Bộ xác định yêu cầu nghiệp vụ và nhu cầu dữ liệu phục vụ quản lý nhà nước về công nghiệp thực phẩm, an toàn thực phẩm và truy xuất nguồn gốc thực phẩm;
+b) Chủ trì, phối hợp với các đơn vị liên quan xây dựng, rà soát, đề xuất Bộ trưởng ban hành, sửa đổi, bổ sung Danh mục, cấu trúc và mô tả dữ liệu của Cơ sở dữ liệu;
+c) Hướng dẫn, theo dõi và tổng hợp tình hình thực hiện Thông tư theo chức năng, nhiệm vụ được giao.
+2. Cục Khoa học, Công nghệ và Chuyển đổi số theo chức năng, nhiệm vụ được giao chủ trì, phối hợp với các đơn vị thuộc Bộ thực hiện việc xây dựng, bảo đảm kiến trúc, giải pháp kỹ thuật, hạ tầng số, vận hành, tích hợp, kết nối, chia sẻ dữ liệu và các điều kiện kỹ thuật của Cơ sở dữ liệu; bảo đảm Cơ sở dữ liệu được xây dựng, vận hành phù hợp với kiến trúc dữ liệu, kiến trúc số và các nền tảng dùng chung của Bộ Công Thương.
+3. Các đơn vị thuộc Bộ Công Thương có trách nhiệm tạo lập, cập nhật, kết nối, chia sẻ và khai thác dữ liệu thuộc phạm vi quản lý theo quy định của pháp luật và Thông tư này.
+Điều 15. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương
+1. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương tổ chức tạo lập, chuyển đổi số và cập nhật các dữ liệu thuộc phạm vi quản lý của địa phương theo quy định tại Điều 8 Thông tư này, bao gồm: 
+a) Dữ liệu được hình thành trong quá trình giải quyết thủ tục hành chính, cung cấp dịch vụ công về an toàn thực phẩm; tiếp nhận hồ sơ công bố sản phẩm theo quy định của pháp luật;
+b) Dữ liệu về giao hoặc chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, cơ sở kiểm nghiệm kiểm chứng và cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu thuộc thẩm quyền;
+c) Dữ liệu được hình thành trong hoạt động thanh tra, kiểm tra, hậu kiểm, xử lý vi phạm hành chính, cảnh báo, thu hồi và xử lý thực phẩm không bảo đảm an toàn;
+d) Dữ liệu được hình thành từ chế độ báo cáo định kỳ, báo cáo đột xuất và hoạt động quản lý nhà nước khác về an toàn thực phẩm theo quy định của pháp luật.
+2. Dữ liệu phát sinh sau thời điểm Cơ sở dữ liệu chính thức vận hành được cập nhật trong thời hạn phù hợp với quy định của pháp luật chuyên ngành và yêu cầu quản lý, bảo đảm dữ liệu được cập nhật kịp thời. 
+3. Đối với hồ sơ, tài liệu, dữ liệu được hình thành trước thời điểm Cơ sở dữ liệu chính thức vận hành, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương tổ chức rà soát, ưu tiên tạo lập, chuyển đổi số đối với: 
+a) Hồ sơ, giấy chứng nhận, quyết định giao hoặc chỉ định còn hiệu lực;
+b) Hồ sơ của cơ sở đang hoạt động, sản phẩm đang được sản xuất, kinh doanh, lưu thông;
+c) Hồ sơ xử lý vi phạm hành chính chưa hoàn thành việc thi hành;
+d) Hồ sơ liên quan đến cảnh báo, thu hồi, xử lý thực phẩm không bảo đảm an toàn và truy xuất nguồn gốc;
+đ) Hồ sơ, dữ liệu khác còn giá trị phục vụ quản lý nhà nước.
+Điều 16. Trách nhiệm của các cơ quan kiểm tra nhà nước về thực phẩm nhập khẩu, cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, cơ sở kiểm nghiệm kiểm chứng thực phẩm ngành công thương
+1. Cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu được giao hoặc chỉ định theo quy định của pháp luật có trách nhiệm tạo lập, chuyển đổi số và cập nhật dữ liệu được hình thành trong quá trình thực hiện kiểm tra nhà nước về an toàn thực phẩm nhập khẩu và chế độ báo cáo theo quy định của pháp luật. 
+2. Cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, cơ sở kiểm nghiệm kiểm chứng được giao hoặc chỉ định theo quy định của pháp luật có trách nhiệm tạo lập, chuyển đổi số và cập nhật dữ liệu được hình thành trong quá trình thực hiện kiểm nghiệm, kiểm chứng và chế độ báo cáo theo quy định của pháp luật. 
+3. Trường hợp dữ liệu quy định tại khoản 1 và khoản 2 Điều này đã được tạo lập trên hệ thống thông tin và có thể khai thác, sử dụng lại thông qua kết nối, chia sẻ dữ liệu thì thực hiện theo quy định tại khoản 1 Điều 8 Thông tư này. 
+4. Đối với dữ liệu được hình thành trước thời điểm Cơ sở dữ liệu chính thức vận hành, cơ quan, cơ sở quy định tại khoản 1 và khoản 2 Điều này rà soát, ưu tiên tạo lập, chuyển đổi số dữ liệu còn giá trị phục vụ quản lý nhà nước.
+Điều 17. Trách nhiệm của cơ sở sản xuất, kinh doanh thực phẩm
+1. Thiết lập, lưu trữ và cập nhật đầy đủ thông tin về sản phẩm thực phẩm, nguồn gốc, nguyên liệu, quy trình sản xuất, chế biến, kinh doanh sản phẩm thực phẩm phục vụ truy xuất nguồn gốc theo quy định tại Điều 9 của Thông tư này. Bảo đảm đủ nguồn lực để thực hiện hoạt động truy xuất nguồn gốc thực phẩm hiệu quả. 
+2. Chịu trách nhiệm trước pháp luật về tính kịp thời, hợp pháp, trung thực và chính xác của dữ liệu lưu trữ.
+3. Cung cấp hồ sơ, giấy tờ cần thiết, đầy đủ, hợp lệ và kịp thời cho cơ quan quản lý nhà nước khi có yêu cầu. Chấp hành nghiêm túc yêu cầu truy xuất, quyết định thu hồi, xử lý sản phẩm của cơ quan nhà nước có thẩm quyền và chịu mọi chi phí liên quan đến các hoạt động này.
+4. Khuyến khích các cơ sở sản xuất, kinh doanh thực phẩm thực hiện kết nối, cung cấp thông tin lên Cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.
+5. Cơ sở sản xuất, kinh doanh thực phẩm có sản phẩm, hàng hóa thuộc Danh mục sản phẩm, hàng hóa có mức độ rủi ro cao thuộc phạm vi quản lý của Bộ Công Thương thực hiện truy xuất nguồn gốc và cung cấp thông tin lên Hệ thống cơ sở dữ liệu truy xuất nguồn gốc hàng hóa rủi ro cao của Bộ Công Thương.
+Điều 18. Nguồn kinh phí thực hiện
+1. Nguồn kinh phí thực hiện việc nghiên cứu, xây dựng, vận hành Cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương gồm có:
+a) Nguồn ngân sách nhà nước cho khoa học công nghệ, ứng dụng công nghệ thông tin, chuyển đổi số;
+b) Các nguồn lực xã hội hóa, các nguồn vốn hợp pháp khác theo quy định của pháp luật.
+2. Việc quản lý, sử dụng và quyết toán kinh phí thực hiện nghiên cứu, xây dựng, vận hành Cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương theo quy định của pháp luật hiện hành.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 19. Điều khoản thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2026.
+2. Thông tư này thay thế Thông tư số 11/2026/TT-BCT ngày 27 tháng 02 năm 2026 quy định về truy xuất nguồn gốc thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.
+3. Trong trường hợp các văn bản quy phạm pháp luật được viện dẫn trong Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản quy phạm pháp luật mới còn hiệu lực.
+4. Trong quá trình triển khai Thông tư này, nếu phát sinh các vướng mắc, khó khăn, Bộ trưởng Bộ Công Thương hướng dẫn giải quyết các trường hợp cụ thể hoặc sửa đổi, bổ sung Thông tư này trong trường hợp cần thiết./.
+ 
+
+Nơi nhận:
+- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Chính phủ (Phòng Công báo;
+Cổng thông tin điện tử Chính phủ, Vụ CN, KGVX);
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Bộ Công Thương: Bộ trưởng, các đồng chí Thứ trưởng, các đơn vị thuộc Bộ;
+- UBND các tỉnh, thành phố;
+- Sở Công Thương, Sở/Chi cục ATTP các tỉnh, thành phố;
+- Cục Kiểm tra VB và Tổ chức THPL, Bộ Tư pháp;
+- Cổng thông tin điện tử Bộ Công Thương;
+- Lưu: VT, CN. | KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+Trương Thanh Hoài
+
+ 
+PHỤ LỤC
+MẪU BÁO CÁO KẾT QUẢ THỰC HIỆN TRUY XUẤT NGUỒN GỐC THỰC PHẨM KHÔNG BẢO ĐẢM AN TOÀN CỦA CƠ SỞ SẢN XUẤT, KINH DOANH THỰC PHẨM
+(Kèm theo Thông tư số 63 /2026/TT-BCT ngày 30 tháng 9 năm 2026 của Bộ trưởng Bộ Công Thương)
+
+TÊN TỔ CHỨC, CÁ NHÂN
+------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: …………….
+V/v báo cáo truy xuất nguồn gốc, thực phẩm không bảo đảm an toàn | ……., ngày … tháng … năm ……
+
+ 
+Kính gửi: ….(Tên cơ quan/đơn vị nhận báo cáo)....
+Tổ chức, cá nhân ………….. báo cáo về việc truy xuất nguồn gốc thực phẩm không bảo đảm an toàn, cụ thể như sau:
+1. Thông tin về sản phẩm:
+- Tên sản phẩm:
+- Quy cách bao gói: (khối lượng hoặc thể tích thực)
+- Số lô/mẻ sản phẩm:
+- Số tờ khai hải quan nhập khẩu của lô hàng nhập khẩu (đối với sản phẩm nhập khẩu):
+- Ngày sản xuất và/hoặc hạn dùng:
+- Lý do truy xuất nguồn gốc:
+2. Thông tin về số lượng sản phẩm không bảo đảm an toàn thực phẩm:
+- Số lượng sản phẩm đã sản xuất (hoặc nhập khẩu):
+- Số lượng sản phẩm đã tiêu thụ:
+- Số lượng sản phẩm tồn kho:
+3. Danh sách tên, địa chỉ các địa điểm tập kết sản phẩm không đảm bảo an toàn:
+4. Hình thức xử lý sản phẩm không đảm bảo an toàn:
+Số lượng sản phẩm phải/tự nguyện thu hồi:
+ 
+Chúng tôi cam kết và chịu trách nhiệm trước pháp luật về nội dung báo cáo nêu trên./.
+ 
+
+Nơi nhận:
+- Như trên;
+- Lưu: …… | ĐẠI DIỆN TỔ CHỨC, CÁ NHÂN
+(ký, ghi rõ họ tên và đóng dấu)

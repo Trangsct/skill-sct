@@ -1,5 +1,16 @@
 # CHANGELOG — xp-sct-vn
 
+## 1.7.1 — 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
+
+- `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.
+- `van-ban-goc/00-DANH-MUC-CHUNG.md` (máy sinh bởi `scripts/build_so_cai_van_ban_goc.py` ở gốc kho, giống nhau ở mọi plugin): danh mục toàn bộ văn bản gốc của 24 plugin (số hiệu, ngày, tên, plugin chủ, đường dẫn, có .txt), danh sách trùng số hiệu nhiều plugin, tệp đặt tên chưa chuẩn.
+- `scripts/tim_van_ban.py` (bản chép từ gốc kho): tìm theo số hiệu/cụm từ trong danh mục, toàn văn .txt/.md mọi plugin và reference; chạy được trong gói claude.ai.
+- `van-ban-goc/`: mọi tệp gốc .pdf/.doc/.docx/.xlsx có bản trích chữ `.txt` cùng tên đặt cạnh (hiện 1 tệp .txt), sinh bằng `scripts/trich_chu_van_ban_goc.py` (NFC; bản quét OCR đánh dấu `[OCR]`, số/ngày phải đối chiếu bản gốc).
+- INDEX văn bản gốc: bỏ câu "Chưa có trong gói (tra vbpl.vn/hỏi Bạn…)", ghi rõ Luật 88/2025, NĐ 118/2021, NĐ 189/2025, NĐ 311/2026 đã có tại `chung/`; chỉ còn VBHN 63/VBHN-VPQH, NĐ 68/2025, NĐ 190/2025 là chưa có bản gốc.
+- `plugin.json` → 1.7.1.
+
+Chi tiết: `CHANGELOG-v2026.10.09.md`.
+
 ## 1.6.0 — 24/9/2026
 NĐ 347/2026/NĐ-CP (08/9/2026, hiệu lực 15/9/2026) sửa k3, k4 Điều 18 NĐ 106/2025: k3 = đưa vào sử dụng khi **chủ đầu tư chưa hoàn thành tự nghiệm thu PCCC** (không còn "chưa có văn bản chấp thuận nghiệm thu"); k4 = thuộc diện thẩm định mà **chưa có văn bản thẩm định**; mức tiền và đình chỉ (k6) giữ nguyên. Sở không còn "kiểm tra công tác nghiệm thu PCCC" (bãi bỏ k5 Đ6, Đ10 NĐ 105) — ref 04 mục A (4 việc → 3 việc), bảng B2; ref 03, 05, 90; checklist 01, 05, 06; SKILL.md.
 

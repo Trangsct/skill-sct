@@ -1,5 +1,15 @@
 # CHANGELOG — plugin dat-dai-sct-vn
 
+## [1.2.1] - 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
+
+- `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.
+- `van-ban-goc/00-DANH-MUC-CHUNG.md` (máy sinh bởi `scripts/build_so_cai_van_ban_goc.py` ở gốc kho, giống nhau ở mọi plugin): danh mục toàn bộ văn bản gốc của 24 plugin (số hiệu, ngày, tên, plugin chủ, đường dẫn, có .txt), danh sách trùng số hiệu nhiều plugin, tệp đặt tên chưa chuẩn.
+- `scripts/tim_van_ban.py` (bản chép từ gốc kho): tìm theo số hiệu/cụm từ trong danh mục, toàn văn .txt/.md mọi plugin và reference; chạy được trong gói claude.ai.
+- `van-ban-goc/`: mọi tệp gốc .pdf/.doc/.docx/.xlsx có bản trích chữ `.txt` cùng tên đặt cạnh (hiện 1 tệp .txt), sinh bằng `scripts/trich_chu_van_ban_goc.py` (NFC; bản quét OCR đánh dấu `[OCR]`, số/ngày phải đối chiếu bản gốc).
+- `plugin.json` → 1.2.1.
+
+Chi tiết: `CHANGELOG-v2026.10.09.md`.
+
 ## [1.2.0] - 02/10/2026 — Nạp thêm 9 văn bản (QĐ 40, 43, 47/2026, QĐ 18, 20/2025 của tỉnh; Luật 43/2024, Luật 146/2025; NĐ 101/2024, NĐ 226/2025); hoàn tất đối chiếu
 - Reference 13 (mới): QĐ 40/2026/QĐ-UBND — 16 khoản phân cấp cho Chủ tịch UBND cấp xã (thu hồi đất, phê duyệt phương án, cưỡng chế, cho thuê đất trả tiền hằng năm cho tổ chức trừ dự án từ 2 xã trở lên); QĐ 47/2026/QĐ-UBND — trình tự khi thỏa thuận trên 75%, thu hồi trước khi phê duyệt phương án, giao đất, cho thuê đất không quá 15 ngày làm việc.
 - Reference 12: thêm QĐ 18/2025 (mức thưởng bàn giao sớm 3%, hỗ trợ ổn định sản xuất kinh doanh 30% một năm thu nhập sau thuế, trách nhiệm các ngành), QĐ 20/2025 (cây trồng, vật nuôi), QĐ 43/2026 (chỉ áp dụng sản phẩm dùng ngân sách nhà nước).

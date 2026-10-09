@@ -1,0 +1,816 @@
+[Bản trích chữ tự động bằng pdftotext từ DLVN-05-2017-kiem-dinh-xi-tec.pdf — 21 trang. Đối chiếu bản gốc trên GitHub khi trích nguyên văn.]
+
+ĐLVN     VĂN BẢN KỸ THUẬT ĐO LƯỜNG VIỆT NAM
+
+
+
+
+                    ĐLVN 05 : 2017
+
+
+
+
+       XI TÉC Ô TÔ - QUY TRÌNH KIỂM ĐỊNH
+            Car tank - Verification procedure
+
+
+                   SOÁT XÉT LẦN 2
+
+
+
+
+                      HÀ NỘI - 2017
+Lời nói đầu:
+ĐLVN 05 : 2017 thay thế cho ĐLVN 05 : 2011.
+ĐLVN 05 : 2017 do Ban kỹ thuật đo lường TC 8 “Đo các đại lượng chất lỏng” biên
+soạn, Viện Đo lường Việt Nam đề nghị, Tổng cục Tiêu chuẩn Đo lường Chất lượng
+ban hành.
+
+
+
+
+2
+VĂN BẢN KỸ THUẬT ĐO LƯỜNG VIỆT NAM                                       ĐLVN 05 : 2017
+
+
+
+
+Xi téc ô tô - Quy trình kiểm định
+Car tank - Verification procedure
+
+
+1 Phạm vi áp dụng
+Văn bản kỹ thuật này quy định quy trình kiểm định ban đầu, định kỳ và sau sửa
+chữa xi téc ô tô để giao nhận xăng dầu cấp chính xác 0,5.
+
+2 Giải thích từ ngữ
+Các từ ngữ trong văn bản này được hiểu sau:
+2.1 Ô tô xi téc là loại xe chuyên dụng, được thiết kế để vận chuyển, giao nhận xăng
+dầu trên đó lắp đặt xi téc ô tô. Xi téc ô tô sau đây gọi tắt là xi téc.
+2.2 Dung tích danh định của xi téc là giá trị dung tích lấy theo tài liệu thiết kế.
+2.3 Dung tích thực của xi téc (Vđm) là dung tích chứa đến mặt trên của tấm mức được
+xác định theo quy định tại mục 7.3 của quy trình này.
+2.4 Dung tích thực tế của xi téc là giá trị lượng (thể tích) nước đổ ra được từ xi téc tại
+nhiệt độ tiêu chuẩn sau khi nạp đầy đến mặt trên của tấm mức.
+2.5 Tấm mức là bộ phận chỉ mức giới hạn dung tích của xi téc quy định tại mục 2.3
+của phụ lục 1.
+2.6 MPE: Sai số cho phép lớn nhất.
+
+3 Các phép kiểm định
+Phải lần lượt tiến hành các phép kiểm định ghi trong bảng 1.
+                                                                                      Bảng 1
+
+                                                   Theo điều         Chế độ kiểm định
+ TT             Tên phép kiểm định                  mục của        Ban     Định       Sau sửa
+                                                   quy trình       đầu      kỳ         chữa
+  1     Kiểm tra bên ngoài                             7.1          +        +          +
+  2     Kiểm tra kỹ thuật                              7.2          +        +          +
+  3     Kiểm tra đo lường                              7.3
+        Xác định dung tích thực của xi téc
+ 3.1                                                  7.3.2         +        +          +
+        theo phương pháp đổ vào
+
+
+
+
+                                                                                            3
+ĐLVN 05 : 2017
+
+                                                 Theo điều        Chế độ kiểm định
+    TT           Tên phép kiểm định              mục của        Ban       Định    Sau sửa
+                                                 quy trình      đầu        kỳ      chữa
+          Xác định dung tích thực của xi téc
+    3.2                                             7.3.3         +        +           +
+          theo phương pháp đổ ra
+          Xác định dung tích thực tế và sai số
+    3.3                                             7.3.4         +        +           +
+          của xi téc
+Ghi chú: Khi xác định dung tích thực của xi téc chỉ thực hiện theo một phương pháp
+đổ ra hoặc đổ vào (tùy thuộc vào chuẩn được sử dụng để kiểm định).
+
+
+4 Phương tiện kiểm định
+4.1 Các phương tiện dùng để kiểm định theo phương pháp sử dụng bình chuẩn được
+quy định trong bảng 2a.
+                                                                                 Bảng 2a
+                                                                           Áp dụng cho
+            Tên phương tiện          Đặc trưng kỹ thuật đo lường
+    TT                                                                     điều mục của
+           dùng để kiểm định                   cơ bản
+                                                                             quy trình
+    1     Chuẩn đo lường
+                                   Dung tích của bình lớn nhất không
+                                   nhỏ hơn 1/10 dung tích danh định
+          Bộ bình chuẩn kim loại
+    1.1                            của xi téc, có cấp chính xác/ độ              7.3
+          theo ĐLVN 310.
+                                   không đảm bảo đo ≤ 1/3 MPE của
+                                   xi téc.
+                                   - Phạm vi đo đến 250 L
+    1.2   Bình chuẩn kim loại                                                    7.3
+                                   - Cấp chính xác 0,2 %
+    2     Phương tiện đo khác
+                                   - Phạm vi đo: đến 2000 mL
+    2.1   Ống đong                                                               7.3
+                                   - Cấp chính xác: A hoặc B.
+                                   - Phạm vi đo: (0 ÷ 50) oC
+                                   - Giá trị độ chia ≤ 0,5 oC
+    2.2   Nhiệt kế                                                               7.3
+                                   - Sai số cho phép lớn nhất của nhiệt
+                                   kế = ± 0,5 oC.
+    2.3   Thước cuộn               Giá trị độ chia 1 mm                          7.2
+                                   - Phạm vi đo phù hợp
+    2.4   Thước vạch                                                             7.2
+                                   - Giá trị độ chia: 1 mm
+    3     Phương tiện phụ
+                                   Có khả năng cung cấp nước sạch              7.2; 7.3
+          Hệ thống cấp nước
+                                   phù hợp với xi téc
+
+4
+                                                               ĐLVN 05 : 2017
+
+4.2 Các phương tiện dùng để kiểm định theo phương pháp sử dụng đồng hồ chuẩn
+được quy định trong bảng 2b.
+                                                                         Bảng 2b
+                                                                    Áp dụng cho
+         Tên phương tiện        Đặc trưng kỹ thuật đo lường
+ TT                                                                 điều mục của
+        dùng để kiểm định                 cơ bản
+                                                                      quy trình
+ 1     Chuẩn đo lường
+                             - Độ chính xác/ độ không đảm bảo
+                             đo ≤ 1/3 MPE của xi téc.
+ 1.1   Đồng hồ chuẩn         - Lưu lượng đảm bảo để thực hiện           7.3
+                             mỗi phép đo cho mỗi ngăn từ 5
+                             phút đến 30 phút.
+                             - Phạm vi đo đến 250 L
+ 1.2   Bình chuẩn kim loại                                              7.3
+                             - Cấp chính xác: 0,2 %
+ 2     Phương tiện đo khác
+                             - Phạm vi đo: đến 2000 mL
+ 2.1   Ống đong                                                         7.3
+                             - Cấp chính xác: A hoặc B.
+                             - Phạm vi đo: (0 ÷ 50) oC
+                             - Giá trị độ chia ≤ 0,5 oC
+ 2.2   Nhiệt kế                                                         7.3
+                             - Sai số cho phép lớn nhất của nhiệt
+                             kế: ± 0,5 oC.
+ 2.3   Thước cuộn            - Giá trị độ chia 1 mm.                    7.2
+                             - Phạm vi đo phù hợp
+ 2.4   Thước vạch                                                       7.2
+                             - Giá trị độ chia: 1 mm
+ 3     Phương tiện phụ
+                             Có khả năng cung cấp nước sạch           7.2; 7.3
+       Hệ thống cấp nước
+                             phù hợp với xi téc
+
+4.3 Các phương tiện dùng để kiểm định theo phương pháp sử dụng cân chuẩn được
+quy định trong bảng 2c.
+                                                                         Bảng 2c
+                                                                    Áp dụng cho
+         Tên phương tiện        Đặc trưng kỹ thuật đo lường
+ TT                                                                 điều mục của
+        dùng để kiểm định                 cơ bản
+                                                                      quy trình
+ 1     Chuẩn đo lường
+                             - Phạm vi đo: ≥ 1/10 khối lượng
+                             tương đương dung tích danh định
+       Cân chuẩn                                                        7.3
+                             của xi téc.
+                             - Độ không đảm bảo đo: ≤ 0,05 %.
+
+                                                                                 5
+ĐLVN 05 : 2017
+
+                                                                         Áp dụng cho
+            Tên phương tiện         Đặc trưng kỹ thuật đo lường
+    TT                                                                   điều mục của
+           dùng để kiểm định                  cơ bản
+                                                                           quy trình
+    2     Phương tiện đo khác
+                                  - Phạm vi đo: đến 2000 mL
+    2.1   Ống đong                                                             7.3
+                                  - Cấp chính xác: A hoặc B.
+                                  - Phạm vi đo: (0 ÷ 50) oC
+                                  - Giá trị độ chia ≤ 0,5 oC
+    2.2   Nhiệt kế                                                             7.3
+                                  - Sai số cho phép lớn nhất của nhiệt
+                                  kế: ± 0,5 oC.
+                                  - Phạm vi đo: (990 ÷ 1000) kg/m3
+    2.3   Tỷ trọng kế             - Sai số cho phép lớn nhất:                  7.3
+                                  ± 0,5 kg/m3
+    2.4   Thước cuộn              - Giá trị độ chia 1 mm.                      7.2
+                                  - Phạm vi đo phù hợp
+    2.5   Thước vạch                                                           7.2
+                                  - Giá trị độ chia: 1 mm
+    3     Phương tiện phụ
+                                  Có khả năng cung cấp nước sạch            7.2; 7.3
+    3.1   Hệ thống cấp nước
+                                  phù hợp với xi téc
+    3.2   Bình cân                                                             7.3
+
+5 Điều kiện kiểm định
+Khi tiến hành kiểm định phải đảm bảo các điều kiện sau đây:
+- Hệ thống đường ống công nghệ liên kết từ nguồn nước qua các chuẩn dung tích đến
+xi téc phải đảm bảo kín, phù hợp với phương pháp kiểm định.
+- Mặt bằng kiểm định (bệ kiểm định) phải bằng phẳng, chịu được tải trọng lớn nhất
+của xi téc cần kiểm định .
+- Nguồn nước sạch để kiểm định phải đảm bảo cung cấp đủ nước trong quá trình kiểm
+định theo yêu cầu của phương pháp kiểm định.
+
+6 Chuẩn bị kiểm định
+Trước khi tiến hành kiểm định phải thực hiện các công việc chuẩn bị sau đây:
+- Tất cả các bình chuẩn, ống đong phải được tráng rửa sạch sẽ;
+- Cân điện tử phải được bật sấy tối thiểu 30 phút hoặc theo yêu cầu của nhà sản xuất.
+- Phải làm sạch mặt trong xi téc, không được để lại nước hay nhiên liệu trong xi téc.
+
+7 Tiến hành kiểm định
+7.1 Kiểm tra bên ngoài
+
+6
+                                                                    ĐLVN 05 : 2017
+
+Phải kiểm tra bên ngoài xi téc theo các yêu cầu sau:
+- Có các bộ phận chính theo yêu cầu quy định tại mục 1.1 của phụ lục 1;
+- Hình dáng và vị trí lắp đặt của các bộ phận theo hồ sơ, tài liệu quy định tại các mục
+từ 1.2 đến 1.12 của phụ lục 1;
+- Đường ống xả và bầu lắng cặn theo quy định tại mục 2.7; 2.8 và 2.9 của phụ lục 1;
+- Nhãn hiệu, ký hiệu theo quy định tại mục 3 của phụ lục 1;
+
+7.2 Kiểm tra kỹ thuật
+Phải kiểm tra kỹ thuật theo các yêu cầu sau đây:
+7.2.1 Dùng thước cuộn, thước vạch đo kích thước để kiểm tra sự phù hợp theo các yêu
+cầu quy định trong phụ lục 1 của các bộ phận sau đây:
+- Vị trí, kích thước của cổ xi téc theo quy định tại mục 2.2;
+- Vị trí, kích thước của tấm mức theo quy định tại mục 2.3;
+- Miệng, nắp xi téc, cửa nhập, cửa quan sát, theo quy định tại mục 2.4;
+- Cấu tạo của cơ cấu thoát khí theo quy định tại mục 2.6;
+- Vị trí của đầu ống xả theo quy định tại mục 2.7;
+7.2.2 Kiểm tra độ kín và hoạt động của cơ cấu thoát khí: Giữ nguyên mức nước tại tấm
+mức. Cho xe chạy lùi, tiến và phanh gấp không ít hơn 3 lần. Cơ cấu thoát khí được
+xem là làm việc tốt, nếu mức nước trong xi téc không thay đổi quá 0,1 % dung tích
+danh định của xi téc.
+- Xi téc đạt kiểm tra độ kín nếu không có hiện tượng rò, rỉ trên thân, cổ và ở các mối
+hàn nối, thân van xả. Đóng mở van xả để kiểm tra hoạt động của van xả.
+
+7.3 Kiểm tra đo lường
+Xi téc được kiểm tra đo lường theo trình tự nội dung, phương pháp và yêu cầu sau:
+
+7.3.1 Quy định chung
+- Đối với xi téc chỉ xác định và chứng nhận dung tích toàn phần (dung tích chứa đến
+mặt trên của tấm mức).
+- Đối với xi téc có nhiều ngăn độc lập, phải xác định dung tích thực riêng cho từng
+ngăn và coi mỗi ngăn là một xi téc độc lập.
+- Trong quá trình xả nước từ chuẩn vào xi téc hay từ xi téc ra chuẩn phải bảo đảm sao
+cho nước không sót lại trong bình chuẩn, trong xi téc, trong ống dẫn hoặc vãi ra ngoài.
+Nếu có sơ suất, phải xác định lại dung tích thực của xi téc từ đầu.
+- Dung tích thực của xi téc được xác định theo phương pháp đổ vào (xả nước từ bình
+chuẩn, đồng hồ chuẩn, cân chuẩn vào xi téc), hoặc theo phương pháp đổ ra (xả nước từ
+xi téc ra bình chuẩn, cân chuẩn).
+- Việc lựa chọn số lần sử dụng các loại bình chuẩn, cân chuẩn tham gia trong phép đo
+thực hiện theo nguyên tắc: Tổng số lần sử dụng các bình chuẩn, cân chuẩn là ít nhất.
+
+                                                                                      7
+ĐLVN 05 : 2017
+
+- Đối với kiểm định ban đầu và sau sửa chữa phải xác định 3 lần dung tích thực của xi
+téc; đối với kiểm định định kỳ phải xác định 2 lần dung tích thực của xi téc.
+- MPE = ± 0,3 %.
+
+7.3.2 Xác định dung tích thực của xi téc theo phương pháp đổ vào
+
+7.3.2.1 Xác định dung tích thực của xi téc theo phương pháp sử dụng bình chuẩn
+Trình tự thực hiện một phép đo như sau:
+Bước 1: Cho ô tô xi téc đỗ trên mặt bằng kiểm định, xả hết nước trong xi téc, đóng kín
+van xả của xi téc.
+Lựa chọn các bình chuẩn cần sử dụng theo nguyên tắc quy định tại 7.3.1 và tổng thể
+tích các lần xả tương ứng với dung tích danh định của xi téc.
+Bước 2: Lần lượt cho nước vào các bình chuẩn được chọn đến vạch dấu danh định và
+xả vào xi téc.
+Bước 3: Đọc nhiệt độ nước bình chuẩn.
+Bước 4: Đọc nhiệt độ nước xi téc sau khi nạp nước đến tấm mức.
+Bước 5: Dùng các bình chuẩn có dung tích nhỏ thích hợp và ống đong xả tiếp nước
+vào xi téc cho đến khi mức nước ngang với mặt trên của tấm mức.
+Bước 6: Lặp lại bước 2 đến bước 5 cho đến khi mức nước trong xi téc gần đến tấm
+mức.
+Bước 7: Dung tích thực của xi téc được tính bằng tổng thể tích nước đã xả từ bình
+chuẩn và ống đong vào xi téc.
+
+7.3.2.2 Xác định dung tích thực của xi téc theo phương pháp sử dụng đồng hồ chuẩn
+Trình tự thực hiện một phép đo như sau:
+Bước 1: Cho ô tô xi téc đỗ trên mặt bằng kiểm định.
+Bước 2: Bật bơm điền nước qua đồng hồ chuẩn và đường ống xả vào xi téc một lượng
+nước tương ứng đuổi hết khí rồi tắt bơm và đóng kín van xả từ đồng hồ chuẩn vào xi
+téc.
+Bước 3: Xả hết nước trong xi téc, đóng kín van xả của xi téc.
+Bước 4: Xóa số đồng hồ chuẩn, mở van xả từ đồng hồ chuẩn vào xi téc, nạp nước liên
+tục từ đồng hồ chuẩn vào xi téc cho đến khi mức nước trong xi téc gần đến tấm mức.
+Bước 5: Đọc và ghi ít nhất 02 giá trị nhiệt độ nước qua đồng hồ chuẩn trong thời gian
+nạp nước vào xi téc, lấy giá trị trung bình cộng của các lần đọc trong khi tiến hành một
+phép đo. Đọc nhiệt độ nước xi téc sau khi nạp nước đến tấm mức.
+Bước 6: Dùng các bình chuẩn có dung tích nhỏ thích hợp đong tiếp nước vào xi téc
+cho đến khi mức nước ngang với mặt trên của tấm mức.
+Bước 7: Dung tích thực của xi téc được tính bằng tổng thể tích nước đã xả từ đồng hồ
+chuẩn vào xi téc.
+
+8
+                                                                    ĐLVN 05 : 2017
+
+7.3.2.3. Xác định dung tích thực của xi téc theo phương pháp sử dụng cân chuẩn.
+Trình tự thực hiện một phép đo như sau:
+Bước 1: Cho ô tô xi téc đỗ trên mặt bằng kiểm định, xả hết nước trong xi téc, đóng kín
+van xả của xi téc.
+Bước 2: Bật cân điện tử sấy máy tối thiểu 30 phút hoặc theo yêu cầu của nhà sản xuất.
+Bước 3: Đóng van xả bình chứa của cân, đưa số chỉ của cân về “0”
+Bước 4: Nạp nước vào bình chứa của cân cho đến khi gần mức tải trọng tối đa do nhà
+sản xuất qui định thì dừng lại và ghi số chỉ của cân.
+Bước 5: Đọc nhiệt độ nước của cân chuẩn.
+Bước 6: Xả nước từ bình chứa của cân vào xi téc.
+Bước 7: Đọc nhiệt độ nước trong xi téc sau khi nạp nước đến tấm mức.
+Bước 8: Lặp lại bước 3 đến bước 5 cho đến khi mức nước ngang với mặt trên của tấm
+mức.
+Bước 9: Dùng tỷ trọng kế để xác định khối lượng riêng của nước (hoặc sử dụng công
+thức trong phụ lục 2).
+Bước 10: Dung tích thực của xi téc được tính bằng tổng thể tích nước đã quy đổi xả từ
+cân chuẩn vào xi téc.
+                                                               Mđ
+* Công thức quy đổi từ khối lượng sang thể tích như sau: V =
+                                                               
+Trong đó:
+         V: thể tích quy đổi (L).
+         Mđ: tổng khối lượng nước (kg).
+         ρ: khối lượng riêng của nước (kg/L).
+
+7.3.3 Xác định dung tích thực của xi téc theo phương pháp đổ ra
+
+7.3.3.1 Xác định dung tích thực của xi téc theo phương pháp sử dụng bình chuẩn
+Trình tự thực hiện một phép đo như sau:
+Bước 1: Cho ô tô xi téc đỗ trên mặt bằng kiểm định, đóng van xi téc và xả nước vào xi
+téc, điều chỉnh mức nước trong xi téc ngang với mặt trên của tấm mức.
+Lựa chọn các bình chuẩn cần sử dụng theo nguyên tắc quy định tại 7.3.1 và tổng thể
+tích các lần xả tương ứng với dung tích danh định của xi téc.
+Bước 2: Đọc nhiệt độ nước trong xi téc.
+Bước 3: Đặt bình chuẩn ở vị trí thấp hơn đường xả của xi téc. Tráng ướt và đóng van
+xả của bình chuẩn.
+
+
+Bước 4: Xả nước từ xi téc vào các bình chuẩn và ống đong thích hợp đã được lựa chọn
+đến vạch dấu danh định.
+                                                                                        9
+ĐLVN 05 : 2017
+
+Bước 5: Đọc nhiệt độ nước bình chuẩn.
+Bước 6: Sau đó xả hết nước ra khỏi bình chuẩn và ống đong.
+Bước 7: Lặp lại bước 2 đến bước 6 cho đến khi hết nước trong xi téc.
+Bước 8: Dung tích thực của xi téc được tính bằng tổng thể tích nước đã xả từ xi téc ra
+bình chuẩn.
+7.3.3.2 Xác định dung tích thực của xi téc theo phương pháp sử dụng cân chuẩn.
+Trình tự thực hiện một phép đo như sau:
+Bước 1: Cho ô tô xi téc đỗ trên mặt bằng kiểm định, đóng van xi téc và xả nước vào xi
+téc, điều chỉnh mức nước trong xi téc ngang với mặt trên của tấm mức.
+Bước 2: Đọc nhiệt độ nước trong xi téc.
+Bước 3: Đặt cân chuẩn và bình chứa ở vị trí thấp hơn đường xả của xi téc, Bật cân điện
+tử sấy máy tối thiểu 30 phút hoặc theo yêu cầu của nhà sản xuất cân. Đóng van xả bình
+chứa, đưa số chỉ của cân về “0”.
+Bước 4: Xả nước từ xi téc vào bình chứa của cân cho đến khi hiển thị của cân gần mức
+tải trọng tối đa do nhà sản xuất qui định thì dừng lại và ghi số chỉ của cân.
+Bước 5: Đọc nhiệt độ nước của cân chuẩn.
+Bước 6: Sau đó xả hết nước ra khỏi bình chứa. Lặp lại quá trình như vậy cho đến khi
+hết nước trong xi téc.
+Bước 7: Dùng tỷ trọng kế để xác định khối lượng riêng của nước (hoặc sử dụng công
+thức trong phụ lục 2).
+Bước 8: Dung tích thực của xi téc được tính bằng tổng thể tích nước đã quy đổi xả từ
+xi téc ra cân chuẩn
+                                                                 Mđ
+* Công thức quy đổi từ khối lượng sang thể tích như sau: Vđm =
+                                                                 
+Trong đó:
+         Vđm: thể tích quy đổi (L).
+         Mđ: tổng khối lượng nước (kg).
+         ρ: khối lượng riêng của nước (kg/L).
+
+7.3.4 Xác định dung tích thực tế và sai số của xi téc.
+Xem phụ lục 2.
+7.3.4.1 Kiểm định ban đầu và sau sửa chữa.
+Dung tích thực tế của xi téc (Vđm) là giá trị trung bình của ba lần đo và được làm tròn
+đến 1 lít.
+Sai lệch lớn nhất giữa kết quả của ba lần đo không được vượt quá ½ MPE.
+Sai số không được lớn hơn MPE.
+7.3.4.2 Kiểm định định kỳ.
+
+10
+                                                                    ĐLVN 05 : 2017
+
+Dung tích thực tế của xi téc (Vđm) là giá trị trung bình của hai lần đo và được làm tròn
+đến 1 lít.
+Sai lệch lớn nhất giữa kết quả của hai lần đo không được vượt quá ½ MPE.
+Sai số không được lớn hơn MPE.
+
+8 Xử lý chung
+
+8.1 Xi téc sau khi kiểm định nếu đạt các yêu cầu quy định của quy trình này thì được
+cấp chứng chỉ kiểm định (tem kiểm định, giấy chứng nhận kiểm định,...) theo quy
+định, cụ thể như sau:
+- Đối với kiểm định ban đầu và kiểm định sau sửa chữa: sơn giá trị dung tích thực tế
+của xi téc Vđm và dấu kiểm định lên cổ xi téc với các chữ số có chiều cao không nhỏ
+hơn 200 mm, đóng dấu kiểm định lên nút chì ở tấm mức và cấp giấy chứng nhận kiểm
+định.
+- Đối với kiểm định định kỳ: Quy định xóa số dung tích cũ và sơn lại giá trị mới chỉ
+khi kết quả kiểm định có thay đổi vượt quá ½ MPE hoặc số dung tích cũ không còn rõ
+ràng, nguyên vẹn và đóng dấu kiểm định mới, cấp giấy chứng nhận kiểm định.
+
+8.2 Xi téc sau khi kiểm định nếu không đạt một trong các yêu cầu quy định của quy
+trình thì không được cấp chứng chỉ kiểm định mới và xóa dấu kiểm định cũ (nếu có).
+
+8.3 Chu kỳ kiểm định của xi téc: 12 tháng.
+
+
+
+
+                                                                                      11
+                                                                                 Phụ lục 1
+
+                   YÊU CẦU KỸ THUẬT ĐO LƯỜNG ĐỐI VỚI XI TÉC
+
+1 Quy định chung
+1.1 Xi téc cần phải có các bộ phận chính được mô tả như hình 1.
+
+
+                                 A                        5
+                    4
+                        3
+          7         1                  6                  2       8          7
+
+
+
+
+     15                                                                               15
+
+
+                                                                                  9
+                            Chiếu A
+               8                                     12
+                                                              11                  10
+                                               13                       14
+
+
+                                        Hình 1
+
+
+               1. Thân xi téc                        8. Tấm chắn sóng
+               2. Cổ xi téc                          9. Đoạn ống xả
+               3. Nắp xi téc                         10. Van xả
+               4. Cửa nhập                           11. Bầu lắng cặn
+               5. Cửa quan sát                       12. Van xả cặn
+               6. Tấm mức                            13. Van hô hấp
+               7. Cơ cấu thoát khí                   14. Ống dẫn sau van xả
+                                                     15. Đầu xi téc
+
+
+1.2 Xi téc phải được lắp chắc chắn, cố định nằm song song với khung xe ô tô. Kết cấu của
+xi téc phải cứng, bền chắc, đảm bảo không thay đổi dung tích khi đong chứa và vận
+chuyển, chịu được áp suất dư không nhỏ hơn 0,8 bar.
+
+
+12
+1.3 Xi téc không được méo, bẹp, thủng hay rò rỉ, mối hàn phải chắc và kín. Bên trong
+không được có các kết cấu làm cản trở việc thoát hết không khí khi đổ nước vào và cản
+trở thoát nước khi xả nước ra.
+1.4 Xi téc được làm bằng kim loại và phải sơn lớp bảo vệ mặt ngoài.
+1.5 Xi téc cho phép có các ngăn riêng biệt, khi đó mỗi ngăn riêng biệt phải thoả mãn các
+yêu cầu như đối với một xi téc độc lập.
+Tuyệt đối không được có các ngăn phụ "bí mật".
+1.6 Xi téc phải có cầu thang thuận tiện cho việc lên xuống khi vận hành các phần phía
+trên của nó.
+1.7 Xi téc phải đáp ứng các quy định hiện hành về an toàn, PCCC, môi trường hiện hành.
+Vật liệu làm xích và kích thước của xích phải đảm bảo sự tích điện ở xi téc khi vận hành
+dưới mức nguy hiểm cho phép.
+1.8 Cho phép bố trí các hộp, ống ở hai bên thành ô tô xi téc để chứa đựng, bảo quản các
+ống dẫn, phụ tùng.
+Không được hàn thêm trên thân xi téc các giá đỡ để chứa những hàng hóa không thuộc
+quy định vận chuyển của ô tô xi téc.
+1.9 Xi téc xuất xưởng phải có kèm theo tài liệu kỹ thuật, hướng dẫn sử dụng.
+1.10 Các xi téc nhập khẩu và sản xuất trong nước dùng để giao nhận xăng dầu phải được
+phê duyệt mẫu theo quy định.
+Trước khi sử dụng, xi téc phải thực hiện kiểm định ban đầu.
+
+2 Yêu cầu kỹ thuật và đo lường
+
+Sai số cho phép lớn nhất đối với tất cả các chế độ kiểm định là ± 0,3 %.
+2.1 Kích thước hình học của xi téc được chọn phù hợp với kích thước khung xe ô tô sao
+cho tận dụng được tối ưu tải trọng xe ô tô và trọng tâm toàn xe ô tô xi téc thấp nhất.
+2.2 Cổ xi téc phải có dạng hình trụ đứng, tiết diện tròn được đặt thẳng đứng ở chính giữa
+đường sinh cao nhất của xi téc.
+Kích thước cổ xi téc phải thoả mãn các điều kiện sau đây:
+a/ Tiết diện ngang không thay đổi, dung tích ứng với chiều cao 20 mm không được lớn
+hơn 0,25 % dung tích danh định của xi téc.
+b/ Thể tích khoảng trống từ mức giới hạn dung tích đến miệng xi téc không được nhỏ hơn
+2 % dung tích danh định của xi téc.
+2.3 Tấm mức (bộ phận chỉ mức giới hạn dung tích của xi téc) được hàn cố định, vuông
+góc với thành phía trong cổ xi téc, cách đường sinh cao nhất của xi téc một khoảng: h =
+0,0524  L
+Trong đó: L: khoảng cách từ vị trí hàn tấm mức đến đầu xa nhất của xi téc.
+Kết quả tính giá trị của h được làm tròn đến 2 mm.
+Tấm mức được làm bằng kim loại cứng, kích thước và kết cấu quy định trong hình 2.
+
+
+                                                                                    13
+Chính giữa mặt phẳng đứng của tấm mức phải có lỗ để gắn nút chì đóng dấu kiểm định.
+2.4 Miệng của xi téc phải ở vị trí cao nhất và có nắp đậy kín. Vòng đệm giữa nắp xi téc và
+           5
+
+
+
+
+ 2 × 60
+               12
+
+
+
+
+                                                                                    50
+ 50
+
+
+
+
+                                                                        25
+
+
+                                        5
+                     50                                          50
+
+
+                                  Hình 2. Tấm mức
+
+cổ phải làm bằng vật liệu chịu xăng. Nắp xi téc được bắt chặt vào cổ bằng kết cấu bulông,
+trong đó phải có ít nhất 2 bulông bố trí đối diện nhau qua tâm có sẵn lỗ để xâu dây niêm
+phong kẹp chì.
+2.4.1 Cửa nhập xăng dầu được bố trí trên nắp xi téc có đường kính lỗ không nhỏ hơn 200
+mm. Kết cấu nắp đậy cửa nhập phải bảo đảm kín, đóng mở dễ dàng, có kết cấu thích hợp
+để khoá hoặc niêm phong, kẹp chì. Vòng đệm phải làm bằng vật liệu chịu xăng, không
+phát tia lửa khi đóng mở.
+2.4.2 Trên nắp xi téc cho phép bố trí cửa quan sát riêng. Kết cấu của nó phải đảm bảo kín
+và có nắp bảo vệ.
+Cửa quan sát cần có đường kính không nhỏ hơn 120 mm, được bố trí ở ngay phía trên
+tấm mức sao cho qua cửa quan sát thấy được mức xăng dầu trong xi téc theo tấm mức
+một cách thuận tiện nhất dưới ánh sáng tự nhiên.
+Trường hợp không có cửa quan sát riêng thì phải bố trí cửa nhập hợp lý để làm được cả
+chức năng của cửa quan sát.
+2.4.3 Van hô hấp được lắp chặt trên nắp xi téc và phải làm việc được cả hai chiều bảo
+đảm thở ra khi áp suất dư bên trong xi téc lớn hơn hoặc bằng 0,5 bar và thở vào khi áp
+suất chân không trong xi téc nhỏ hơn hoặc bằng 0,015 bar.
+2.5 Xi téc phải có cơ cấu thoát khí đảm bảo loại trừ các túi khí khi chứa đầy xăng dầu.
+Cơ cấu thoát khí gồm 2 đoạn ống dẫn khí bằng kim loại đường kính trong không nhỏ hơn
+10 mm, được bố trí nằm sát và dọc theo đường sinh cao nhất bên trong hoặc bên ngoài xi
+téc sao cho một đầu ống cách đáy một khoảng (20  30) mm đầu kia ở trong cổ xi téc và
+cao hơn tấm mức một khoảng không nhỏ hơn 100 mm.
+Nếu cổ xi téc hàn sâu vào trong thân xi téc thì ở vị trí có ống dẫn khí đi qua phải có một
+cửa sổ với chiều rộng không nhỏ hơn 150 mm, chiều cao sát với đường sinh cao nhất.
+14
+2.6 Vị trí đặt đầu ống xả xăng dầu của xi téc phải thoả mãn các điều kiện sau đây:
+- Nằm ngay trên đường sinh thấp nhất của xi téc.
+- Cách đáy xi téc phía đầu xe ô tô không lớn hơn 500 mm.
+2.7 Đoạn ống xả cần có cấu trúc hợp lý, bố trí thuận tiện nhất với mục đích sử dụng, phải
+có độ nghiêng cần thiết đảm bảo xả hết lượng xăng dầu trong xi téc.
+Van xả phải kín, bố trí thuận tiện để thao tác, có kết cấu thích hợp cho việc niêm phong
+kẹp chì.
+                                                                                               7
+2.8 Bầu lắng cặn (nếu có) của xi téc phải ở vị trí thấp nhất, đặt trước hoặc cùng vị trí đặt
+đầu đoạn ống xả xăng dầu.
+Bầu lắng cặn cần phải có kết cấu đảm bảo tháo hết lượng xăng dầu cuối cùng của xi téc,
+và phù hợp cho việc niêm phong kẹp chì.
+Dung tích bầu lắng cặn không vượt quá 0,1 % dung tích danh định của xi téc.
+
+3 Nhãn hiệu, ký hiệu
+3.1 Nhãn hiệu của xi téc phải được gắn chặt vào thành, cổ hoặc đáy sau của xi téc ở vị trí
+thuận lợi cho người đọc và phải có các nội dung sau:
+- Tên hoặc ký hiệu của cơ sở sản xuất;
+- Số chế tạo, năm sản xuất;
+- Dung tích danh định (toàn phần);
+- Dung tích danh định từng ngăn;
+- Ký hiệu phê duyệt mẫu.
+3.2 Trên xi téc phải ghi chữ "CẤM LỬA" hoặc biểu tượng "CẤM LỬA" theo quy định
+về PCCC.
+
+
+
+
+                                                                                       15
+                                                                                    Phụ lục 2
+
+
+            XÁC ĐỊNH DUNG TÍCH THỰC TẾ VÀ SAI SỐ CỦA XI TÉC
+
+
+1 Xác định dung tích thực tế của xi téc tại nhiệt độ 20 oC
+Dung tích thực tế của xi téc tại nhiệt độ 20 oC được tính theo công thức:
+a. Theo phương pháp dùng bình chuẩn.
+
+                          Vđm(20) =
+                                      V (20) * C
+                                           bi           tsbi   * Ctlbi
+                                                                              (1)
+                                                Ctsx * Ctlx
+
+b. Theo phương pháp dùng đồng hồ chuẩn.
+                                      Vdh * Ctldh
+                          Vđm(20) =                                           (2)
+                                      Ctsx * Ctlx
+
+c. Theo phương pháp dùng cân chuẩn.
+                                            Mi
+                                        
+                                                 i
+                          Vđm(20) =                                           (3)
+                                      C tsx * C tlx
+
+Trong đó:
+Vdh: thể tích chỉ trên đồng hồ chuẩn, L.
+Vbi(20): dung tích của bình chuẩn thứ i tại 20 oC, L.
+Mi: khối lượng nước lần cân thứ i (kg) (Mc = M1 + M2 + ... + Mn).
+ρ(i): khối lượng riêng của nước tại lần cân thứ i, L.
+b: viết tắt của bình chuẩn.
+dh: viết tắt của đồng hồ.
+x: viết tắt của xi téc.
+Cts: là số hiệu chính dung tích bình chuẩn và xi téc về nhiệt độ 20 oC, được tính như sau:
+                          Ctsb= 1 + αbi (20 - tbi).
+Với αbi: hệ số giãn nở nhiệt khối của bình chuẩn thứ i, 1/oC;
+     tbi: nhiệt độ nước trong bình chuẩn thứ i, oC.
+                          Ctsx= 1+αx (20 - tx)
+Với αx: hệ số giãn nở nhiệt khối của xi téc, 1/oC.
+     tx: nhiệt độ nước trong xi téc, oC.
+Ctl: là số hiệu chính thể tích của nước tại đồng hồ chuẩn, bình chuẩn và xi téc về nhiệt độ
+20 oC, được tính như sau:
+16
+                       Ctl = 1 + γ (t - 20).
+Với γ: hệ số dãn nở nhiệt khối của nước, 1/oC.
+     t: nhiệt độ nước, oC.
+Kết quả tính Vđ (20) theo công thức trên được làm tròn đến chữ số có nghĩa thứ 5, L.
+2 Xác định dung tích thực tế nước của chuẩn tại nhiệt độ 20 oC
+                      Vi (20) = V (td) × [1 + γ (td - 20)]                 (4)
+Trong đó:
+γ: hệ số dãn nở nhiệt khối của nước, 1/oC.
+Kết quả tính V (20) theo công thức trên được làm tròn đến chữ số có nghĩa thứ 5, L.
+Td: nhiệt độ nước đo được tại chuẩn, oC.
+V (td): số chỉ của chuẩn tại nhiệt độ td (oC), L.
+Vi: dung tích thực tế nước của chuẩn tại lần đo thứ i, L.
+                       Vc = V1 + V2 + … + Vn.
+- Giá trị αx, γ xem phụ lục 4, ĐLVN 310: Bình chuẩn kim loại - Quy trình hiệu chuẩn.
+3 Xác định khối lượng riêng của nước
+Khối lượng riêng của nước ρw (kg/m3) được xác định theo công thức:
+                              4
+                       ρw =  [ai - (tw)i]                                 (5)
+                             i 0
+
+Trong đó:
+            a0 = 9,9985308.102 kg/m3
+            a1 = 6,326930.10-2 (0C)-1 kg/m3
+           a2 = 8,523829.10-3 (0C)-2 kg/m3
+            a3 = 6,943248.10-5 (0C)-3 kg/m3
+            a4 = -3,821216.10-7 (0C)-4 kg/m3
+            tw: nhiệt độ của nước.
+- Tài liệu tham khảo: V05.M-01.13; ITS-90 Density of Water Formulation for Volumetric
+Standards Calibration.
+Ghi chú:
+- Khối lượng riêng của nước cũng có thể lấy qua phòng thí nghiệm hoặc xác định trực
+tiếp bằng tỷ trọng kế nước.
+- Nếu chênh lệch nhiệt độ giữa các lần đo của bình chuẩn, đồng hồ chuẩn, cân chuẩn với
+xi téc ≤ 3 oC thì bỏ qua phép tính về nhiệt độ.
+
+
+4 Sai số của xi téc được tính theo công thức sau:
+
+                                                                                       17
+                           Vđm  Vđc
+                      E=              100 [%]                              (6)
+                              Vđc
+Trong đó:
+Vđm: dung tích thực tế mới của xi téc.
+Vđc: dung tích thực tế cũ sơn trên cổ xi téc hoặc trong giấy chứng nhận kiểm định.
+
+Ghi chú: Nếu sai số lớn hơn MPE thì ta thực hiện việc kiểm định xi téc theo phương pháp
+kiểm định ban đầu.
+
+
+
+
+18
+                                                                                              Phụ lục 3
+
+     Tên cơ quan kiểm định                              BIÊN BẢN KIỂM ĐỊNH
+      ...............................                      Số: ...........................
+
+Tên phương tiện đo:
+Kiểu:                                                         Số:
+Cơ sở sản xuất:                                               Năm sản xuất:
+Đặc trưng kỹ thuật:
+     - Dung tích danh định:
+     - Khoảng cách từ tấm mức tới miệng xi téc:
+     - Đặt trên ô tô:     Nhãn hiệu:
+     Biển kiểm soát:
+Cơ sở sử dụng:
+Phương pháp thực hiện:
+Chuẩn, thiết bị chính được sử dụng:
+Người thực hiện:                                              Ngày thực hiện:
+Địa điểm thực hiện:
+
+                                        KẾT QUẢ KIỂM ĐỊNH
+1 Kiểm tra bên ngoài:               Đạt                 Không đạt
+2 Kiểm tra kỹ thuật:                Đạt                 Không đạt
+3 Kiểm tra đo lường:
+3.1 Theo phương pháp sử dụng bình chuẩn, đồng hồ chuẩn
+               Dung tích bình                     Số lần   Dung tích
+Lần                                     Tchuẩn
+                                                             tổng
+                                                                              Txi téc    Dung tích xi
+    TT         chuẩn, đồng hồ                    sử dụng,
+đo                                      (oC)                                  (oC)        téc Vđ, L
+                chuẩn: Vc, L                         n    (= n·Vc), L
+        1
+ 1      2                                                                                V1 = . . . . . .
+        3
+        1
+ 2      2                                                                                V2 = . . . . . .
+        3
+        1
+ 3      2                                                                                V3 = . . . . . .
+        3
+
+                                                                                                      19
+3.1.1 Đối với kiểm định ban đầu và sau sửa chữa
+- Dung tích xi téc:
+            V  V2  V3
+       Vđ  1                    [L]
+                 3
+- Sai lệch lớn nhất giữa các lần đo:
+      Vmax - Vmin = . . . . . . . . . L  ½ MPE.
+- Sai số: ……….. MPE
+- Kết luận: Xi téc được sử dụng với Vđ = . . . . . . . . . . L
+
+3.1.2 Đối với kiểm định định kỳ
+- Dung tích xi téc:
+            V  V2
+       Vđ  1           [L]
+               2
+- Sai lệch lớn nhất giữa các lần đo:
+      Vmax - Vmin = . . . . . . . . . L  ½ MPE.
+- Sai số: ……….. MPE
+- Kết luận: Xi téc được sử dụng với Vđ = . . . . . . . . . . L
+
+3.2 Theo phương pháp sử dụng cân chuẩn
+Khối lượng riêng chất lỏng: ............. kg/L
+
+                                       Số lần     Khối lượng                 Khối      Dung
+            Khối lượng                               tổng
+Lần                          Tchuẩn     sử                       Txi téc   lượng xi tích xi téc
+    TT       chất lỏng
+đo                           (oC)      dụng,       (= n·Mc),     (oC)       téc Mđ,   quy đổi
+              Mc, kg
+                                         n            kg                       kg      Vđ , L
+       1
+ 1     2                                                                   M1 = . . .   V1 = . . .
+       3
+       1
+ 2     2                                                                   M2 = . . .   V2 = . . .
+       3
+       1
+ 3     2                                                                   M3 = . . .   V3 = . . .
+       3
+
+3.2.1 Đối với kiểm định ban đầu và sau sửa chữa
+- Dung tích xi téc:
+           V  V2  V3
+     Vđ  1                   [L]
+                 3
+
+20
+- Sai lệch lớn nhất giữa các lần đo:
+      Vmax - Vmin = . . . . . . . . . L  ½ MPE
+- Sai số: ……….. MPE
+- Kết luận: Xi téc được sử dụng với Vđ = . . . . . . . . . . L
+
+3.2.2 Đối với kiểm định định kỳ
+- Dung tích xi téc:
+            V  V2
+       Vđ  1           [L]
+               2
+- Sai lệch lớn nhất giữa các lần đo:
+      Vmax - Vmin = . . . . . . . . . L  ½ MPE
+- Sai số: ……….. MPE
+- Kết luận: Xi téc được sử dụng với Vđ = . . . . . . . . . . L
+
+
+
+4 Kết luận:
+
+
+
+
+      Người soát lại                                             Người thực hiện
+
+
+
+
+                                                                                   21

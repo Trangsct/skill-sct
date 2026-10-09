@@ -1,0 +1,308 @@
+[OCR] [Bản trích chữ tự động bằng tesseract tiếng Việt từ bản quét PL2-so-hieu-nguy-hiem.pdf — 3 trang. Có thể sai số, ngày, dấu; số/ngày phải đối chiếu bản gốc trên GitHub trước khi trích dẫn.]
+
+===== Trang 1 =====
+cò Nghị định số 161/2024/NĐ-CP
+ing l2 năm 2024 của Chính phủ)
+
+Mục 1
+
+Số hiệu nguy hiểm gồm 2 hoặc 3 chữ số. Tổng quát các chữ số đó chỉ
+những sự nguy hiểm sau:
+
+2.
+3.
+
+§.
+g,
+
+Sự phát tán khí do áp suất hay phản ứng hóa học
+
+Sự cháy của chất lỏng (hay hóa hơi) và khí, hay chất lỏng tự sinh nhiệt
+
+. Sự cháy của chất rắn hay chất rắn tự sinh nhiệt
+. Sự ôxy hóa tỏa nhiệt
+. Tác động của độc tố
+
+. Sự phóng xạ
+
+Sự ăn mòn
+
+Sự nguy hiểm do phản ứng tự sinh mạnh
+
+Ghỉ chú: Sự nguy hiểm do phản ứng tự sinh mạnh ở số 9 bao gồm cả khả
+năng tự nhiên mà chât bị tan rã, nô hoặc phản ứng trùng hợp kèm theo sự giải
+phóng các khí độc dê cháy.
+
+Nếu con số được viết 2 lần sẽ chỉ mức độ nguy hiểm đặc biệt lớn.
+
+___ Khi sự nguy hiểm kèm theo một chất độc đã được chỉ một cách đầy đủ chỉ
+băng một sô hiệu thì sau sô hiệu đó là sô 0.
+
+Sự kết hợp giữa các chữ số đó sẽ có ý nghĩa riêng biệt - xem Mục 2 dưới đây:
+
+Nếu số hiệu nguy hiểm đứng trước bằng chữ X có nghĩa là chất đó sẽ phản
+ứng mạnh với nước. Với những chât như vậy, nước chỉ có thê được sử dụng khi
+có sự thông qua của các chuyên gia.
+
+
+===== Trang 2 =====
+2
+
+1G,
+Mục 2 ⁄
+
+Số hiệu nguy hiểm của các chất trong cột 3 Phụ lục I có ý nghĩa như sau:
+
+‡
+20 khí gây ngạt hoặc khí không có rủi ro phụ
+2 khí hóa lỏng làm lạnh, gây ngạt
+223 khí hóa lỏng làm lạnh, dễ cháy
+225 khí hóa lỏng làm lạnh, ô xi hóa (tăng cường độ đám cháy)
+23 khí dễ cháy
+238 chất khí, dễ cháy ăn mòn
+239 khí dễ cháy, có thẻ dẫn đến phản ứng dữ dội
+25 khí ô xi hóa (tăng cường độ đám cháy)
+26 khí độc
+263 khí độc, dễ cháy
+265 khí độc, ô xi hóa (tăng cường độ đám cháy)
+268 khí độc, ăn mòn
+28 chất khí, ăn mòn
+30 chất lỏng dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm)) hoặc
+
+chất lỏng dễ cháy hoặc chất rắn ở trạng thái nóng chảy có điểm chớp cháy trên 60 °C,
+làm nóng đến nhiệt độ bằng hoặc trên điểm chớp cháy, hoặc
+chất lỏng tự sinh nhiệt
+
+323 chất lỏng dễ cháy khi phản ứng với nước phát ra khí dễ cháy
+
+X323 chất lỏng dễ cháy phản ứng nguy hiểm với nước và phát ra khí dễ cháy!
+
+33 chất lỏng dễ cháy cao (điểm chớp cháy dưới 23 °C)
+
+333 chất lỏng dẫn lửa
+
+X333 chất lỏng dẫn lửa phản ứng nguy hiểm với nước!
+
+336 chất lỏng dễ cháy cao, độc
+
+338 chất lỏng dễ cháy cao, ăn mòn
+
+X338 chất lỏng dễ cháy cao, ăn mòn, phản ứng nguy hiểm với nước!
+
+339 chất lỏng dễ cháy cao có thể dẫn đến phản ứ ứng dữ dội
+
+36 chất lỏng dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm)), có độc tính nhẹ hoặc
+chất lỏng tự sinh nhiệt, độc
+
+362 chất lỏng dễ cháy, độc, khi phản ứng với nước phát ra khí dễ cháy
+
+X362 chất lỏng dễ cháy, độc, phản ứng nguy hiểm với nước và phát ra khí dễ cháy!
+
+368 chất lỏng dễ cháy, độc, ăn mòn
+
+38 chất lỏng dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm)), có tính ăn mòn nhẹ
+hoặc chất lỏng tự sinh nhiệt, ăn mòn
+
+382 chất lỏng dễ cháy, ăn mòn, khi phản ứng với nước phát ra khí dễ cháy
+
+X382 chất lỏng dễ cháy, ăn mòn, _ phản ứng nguy hiểm với nước và phát ra khí dễ cháy!
+
+39 chất lỏng dễ cháy, có thể dẫn đến phản ứng đữ dội
+
+40 chất rắn dễ cháy, chất tự phản ứng, chất tự sinh nhiệt, hoặc chất polime hóa
+
+423 chất rắn khi phản ứng với nước phát ra khí dễ cháy, chất rắn dễ cháy khi phản ứng với
+nước phát ra khí dễ cháy, hoặc chất rắn tự sinh nhiệt khi phản ứng với nước phát ra khí
+dễ cháy
+
+X423 chất rắn phản ứng nguy hiểm với nước và phát ra khí dễ cháy, chất rắn dễ cháy phản
+
+ứng nguy hiểm với nước và phát ra khí dễ cháy, hoặc chất rắn tự sinh nhiệt phản ứng
+nguy hiểm với nước và phát ra khí đễ cháy!
+
+43 chất rắn dễ cháy (tự cháy)
+
+X432 chất rắn dễ cháy (tự cháy) phản ứng nguy hiểm với nước và phát ra khí dễ cháy!
+44 chất rắn dễ cháy, ở trạng thái nóng chảy khi ở nhiệt độ cao
+
+446 chất rắn dễ cháy, độc, ở trạng thái nóng chảy khi ở nhiệt độ cao
+
+46 chất rắn dễ cháy hoặc tự sinh nhiệt, độc
+
+462 chất rắn, độc, khi phản ứng với nước phát ra khí đễ cháy
+
+X462 chất rắn phản ứng nguy hiểm với nước, phát ra khí độc!
+
+48 chất rắn dễ cháy hoặc tự sinh nhiệt, ăn mòn
+
+482 chất rắn ăn mòn, khi phản ứng với nước phát ra khí dễ cháy
+
+X482 chất rắn phản ứng nguy hiểm với nước, phát ra khí ăn mòn!
+
+
+===== Trang 3 =====
+50
+539
+$S
+556
+558
+ss9
+$6
+S68
+58
+59
+
+60
+606
+623
+63
+638
+639
+64
+642
+65
+66
+663
+664
+665
+668
+X668
+669
+68
+
+70
+768
+78
+
+X80
+823
+83
+
+X83
+
+§39
+
+X8§39
+
+84
+842
+LR)
+856
+86
+88
+X88
+§83
+§84
+§85
+§8§6
+X886
+§9
+
+90
+99
+
+chất ô xi hóa (tăng cường độ đám cháy)
+
+peroxit hữu cơ dễ cháy
+
+chất ô xi hóa mạnh (tăng cường độ đám cháy)
+
+chất ô xi hóa mạnh (tăng cường độ đám cháy), độc
+
+chất ô xi hóa mạnh (tăng cường độ đám cháy), ăn mòn
+
+chất ô xi hóa mạnh (tăng cường độ đám cháy), có thể dẫn đến phản ứng dữ dội
+chất ô xi hóa (tăng cường độ đám cháy), độc
+
+chất ô xi hóa (tăng cường độ đám cháy), độc, ăn mòn
+
+chất ô xi hóa (tăng cường độ đám cháy), ăn mòn
+
+chất ô xi hóa (tăng cường độ đám cháy) có thể dẫn đến phản ứng dữ dội
+
+chất độc hoặc có độc tính nhẹ
+
+chất lây nhiễm
+
+chất lỏng độc, khi phản ứng với nước phát ra khí dễ cháy
+
+chất độc, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm))
+
+chất độc, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm)), ăn mòn
+chất độc, dễ cháy (điểm chớp cháy trên 60 °C) có thể dẫn đến phản ứng dữ dội
+chất rắn, độc, dễ cháy hoặc tự sinh nhiệt
+
+chất rắn, độc, khi phản ứng với nước phát ra khí dễ cháy
+
+chất độc, ô xi hóa (tăng cường độ đám cháy)
+
+chất có độc tính cao
+
+chất có độc tính cao, dễ cháy (điểm chớp cháy trên 60 °C)
+
+chất rắn độc tính cao, dễ cháy hoặc tự sinh nhiệt
+
+chất có độc tính cao, ô xi hóa (tăng cường độ đám cháy)
+
+chất có độc tính cao, ăn mòn
+
+chất có độc tính cao, ăn mòn, phản ứng nguy hiểm với nước!
+
+chất có độc tính cao có thể dẫn đến phản ứng dữ đội
+
+chất độc, ăn mòn
+
+chất độc hoặc có độc tính nhẹ, có thể dẫn đến phản ứng dữ dội
+
+vật liệu phóng xạ
+
+vật liệu phóng xạ, độc, ăn mòn
+
+vật liệu phóng xạ, ăn mòn
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, phản ứng nguy hiểm với nước!
+
+chất lỏng ăn mòn khi phản ứng với nước phát ra khí dễ cháy
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C
+(bao gồm))
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, dễ cháy, (điểm chớp cháy từ 23 °C đến 60 °C
+(bao gồm)), phản ứng nguy hiểm với nước!
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C
+(bao gồm)) có thể dẫn đến phản ứng dữ dội
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C
+(bao gồm)), có thể dẫn đến phản ứng dữ dội và phản ứng nguy hiểm với nước!
+
+chất rắn ăn mòn, dễ cháy hoặc tự sinh nhiệt
+
+chất rắn ăn mòn, khi phản ứng với nước phát ra khí dễ cháy
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, ô xỉ hóa (tăng cường độ đám cháy)
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, ô xỉ hóa (tăng cường độ đám cháy) và độc
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, độc
+
+chất có tính ăn mòn cao
+
+chất có tính ăn mòn cao, phản ứng nguy hiểm với nước!
+
+chất có tính ăn mòn cao, dễ cháy (điểm chớp cháy từ 23 °C đến 60 °C (bao gồm))
+
+chất rắn ăn mòn cao, dễ cháy hoặc tự sinh nhiệt
+
+chất có tính ăn mòn cao, ô xi hóa (tăng cường độ đám cháy)
+
+chất có tính ăn mòn cao, độc
+
+chất có tính ăn mòn cao, độc, phản ứng nguy hiểm với nước!
+
+chất ăn mòn hoặc có tính ăn mòn nhẹ, có thể dẫn đến phản ứng dữ dội
+
+chất nguy hại môi trường; các chất nguy hiểm khác
+các chât nguy hiêm khác được vận chuyên ở nhiệt độ cao.

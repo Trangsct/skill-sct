@@ -15,4 +15,4 @@ Văn bản dùng chung, KHÔNG sao chép lại (tra tại plugin anh em):
 - Luật 42/2024, NĐ 181/2024, TT 23/2024, TT 38/2025, TT 26/2026, QCVN 01:2019/BCT (nội dung nghĩa vụ bị chế tài) → `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `qlks-sct-vn`.
 - Luật Hóa chất 69/2025, NĐ 24/25/26/2026 → `hc-sct-vn/van-ban-goc/`.
 
-**Chưa có trong gói (tra vbpl.vn/hỏi Bạn khi cần nguyên văn):** Luật XLVPHC bản hợp nhất sau Luật 88/2025; NĐ 118/2021 (sđ NĐ 68/2025, NĐ 190/2025); NĐ 189/2025.
+**Văn bản thủ tục chung — tra `00-DANH-MUC-CHUNG.md` trước khi kết luận thiếu:** Luật 88/2025/QH15 (sửa Luật XLVPHC) bản Word + bản quét có dấu + `.txt` tại `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/`; NĐ 118/2021/NĐ-CP bản gốc (chưa hợp nhất NĐ 68/2025, NĐ 190/2025) + Phụ lục 72 biểu mẫu tại `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/`; NĐ 189/2025/NĐ-CP và NĐ 311/2026/NĐ-CP tại `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/`. Chưa có bản gốc trong kho (Bạn nạp qua Hộp thư `_inbox/` khi cần nguyên văn): Luật XLVPHC bản hợp nhất sau Luật 88/2025 (VBHN 63/VBHN-VPQH 2025); NĐ 68/2025, NĐ 190/2025.

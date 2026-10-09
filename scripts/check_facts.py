@@ -44,6 +44,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "khong-noi-chua-co-trong-goi",
+        # Bạn chốt 09/10/2026 (vụ QCVN 01:2019/BCT): mọi văn bản gốc có trong DANH-MUC-VAN-BAN-GOC.csv / van-ban-goc/00-DANH-MUC-CHUNG.md
+        # phải được mở toàn văn .txt; tài liệu plugin không được viết "chưa có trong gói", "tra mạng khi cần nguyên văn"…
+        # (build_so_cai_van_ban_goc.py --check quét cả van-ban-goc/INDEX.md, 00-MUC-LUC.md mà rule này không tới).
+        "pattern": r"(chưa có trong gói|không có trong gói|tra mạng[^\n]{0,40}nguyên văn|hỏi Bạn khi cần nguyên văn|không mở được toàn văn)",
+        "why": "Trước khi nói văn bản chưa có phải tra van-ban-goc/00-DANH-MUC-CHUNG.md và chạy scripts/tim_van_ban.py; văn bản đã có thì mở bản .txt để trích. Câu đúng khi thật sự thiếu: 'chưa có bản gốc trong kho, Bạn nạp qua Hộp thư _inbox/'.",
+        "since": "2026-10-09",
+        "level": "FAIL",
+    },
+    {
         "id": "vo-lao-khoi-cong-thang-11-2026",
         # TB 173/TB-VPUBND ngày 01/10/2026 (kết luận Chủ tịch UBND tỉnh họp 29/9/2026): KCN Võ Lao khởi công trong tháng 11/2026
         # (xã bàn giao ≥ 20 ha tháng 10, ~100 ha cuối tháng 11). Nhận định "khởi công quý II/2027" (báo cáo BQL 9/2026) là lịch sử.

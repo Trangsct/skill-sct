@@ -1,5 +1,15 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.7.1] - 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
+
+- `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.
+- `van-ban-goc/00-DANH-MUC-CHUNG.md` (máy sinh bởi `scripts/build_so_cai_van_ban_goc.py` ở gốc kho, giống nhau ở mọi plugin): danh mục toàn bộ văn bản gốc của 24 plugin (số hiệu, ngày, tên, plugin chủ, đường dẫn, có .txt), danh sách trùng số hiệu nhiều plugin, tệp đặt tên chưa chuẩn.
+- `scripts/tim_van_ban.py` (bản chép từ gốc kho): tìm theo số hiệu/cụm từ trong danh mục, toàn văn .txt/.md mọi plugin và reference; chạy được trong gói claude.ai.
+- `van-ban-goc/`: mọi tệp gốc .pdf/.doc/.docx/.xlsx có bản trích chữ `.txt` cùng tên đặt cạnh (hiện 0 tệp .txt), sinh bằng `scripts/trich_chu_van_ban_goc.py` (NFC; bản quét OCR đánh dấu `[OCR]`, số/ngày phải đối chiếu bản gốc).
+- `plugin.json` → 1.7.1.
+
+Chi tiết: `CHANGELOG-v2026.10.09.md`.
+
 ## [1.7.0] - 07/10/2026 — mốc số liệu 9 tháng 2026 (ref 12); thế mạnh công nghiệp, hợp tác Trung Quốc (ref 13)
 - Ref 12 mới: BC 998/BC-TKT 30/9/2026, BC 432-BC/ĐU 16/9/2026, báo cáo giao ban tháng 10 — hai nguồn lệch nhau và quy tắc dùng; GTSXCN 56.678 tỷ (+9,9%), IIP +7,7%, XNK 2.993,05 triệu USD; diễn biến dự án đến 30/9/2026.
 - Ref 13 mới: khung 12 mục công văn gửi Sở Ngoại vụ (Văn bản 10073/UBND-NC), quy ước không nêu tên riêng doanh nghiệp, QĐ 453/QĐ-TTg 18/3/2026, QĐ 1620/QĐ-TTg 20/12/2024.

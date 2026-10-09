@@ -12,4 +12,4 @@
 10. `2020.12.21-47.2020.TT.BCT-...docx` — TT 47/2020/TT-BCT ban hành **QCVN 04:2020/BCT** về chất lượng tiền chất thuốc nổ; mục 2.2: bảo quản TCTN theo QCVN 01:2019/BCT.
 11. `2019.08.30-71.2019.ND.CP-...` + `2022.01.31-17.2022.ND.CP-...` — xử phạt VPHC hóa chất, VLNCN (tham chiếu; nghiệp vụ xử phạt thuộc plugin riêng).
 
-CHƯA có trong bộ (bổ sung khi Bạn cung cấp): NĐ 06/2021 + 35/2023 + 175/2024 + 144/2025 + 67/2026; TT 10/2021/TT-BXD; TT 06/2021/TT-BXD; NĐ 105/2025 (đã có trong skill pccc-sct-vn); QĐ 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai.
+Văn bản xây dựng, PCCC dùng chung — toàn văn ở plugin anh em (tra `00-DANH-MUC-CHUNG.md`): NĐ 06/2021, NĐ 35/2023, NĐ 175/2024, NĐ 144/2025, NĐ 207/2026, NĐ 217/2026, TT 06/2021/TT-BXD, TT 34/2026/TT-BXD → `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/`; NĐ 105/2025 (PCCC) → `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/ND-105-2025-PCCC-CNCH.pdf` + `.txt`, NĐ 347/2026 sửa NĐ 105 → `pccc-sct-vn`; QĐ 1883/QĐ-UBND ngày 06/11/2025 (bản ký) → `hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/`. Chưa có bản gốc trong kho (Bạn nạp qua Hộp thư `_inbox/` khi cần): NĐ 67/2026; TT 10/2021/TT-BXD.

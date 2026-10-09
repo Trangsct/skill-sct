@@ -1,0 +1,206 @@
+[OCR] [Bản trích chữ tự động bằng tesseract tiếng Việt từ bản quét PL3-bieu-trung-nguy-hiem.pdf — 6 trang. Có thể sai số, ngày, dấu; số/ngày phải đối chiếu bản gốc trên GitHub trước khi trích dẫn.]
+
+===== Trang 1 =====
+Phụ lục IH
+HÃN, BIÊU TRƯNG HÀNG HÓA NGUY HIỄM
+(Kèm theo Nghị định số 161/2024/NĐ-CP
+ngày 18 tháng 12 năm 2024 của Chính phủ)
+
+1. Mẫu nhãn, biểu trưng hàng hóa nguy hiểm:
+
+1.1. Loại I:
+
+Số 1
+Nhóm 1.1, 1.2 và 1.3
+Biểu tượng (quả bom nổ): màu đen; nền: màu cam; số “1” ở góc đáy
+
+(Số 1.4) (Số 1.5) (Số 1.6)
+Nhóm 1.4 Nhóm 1.5 Nhóm 1.6
+
+Nền: màu cam; chữ số: màu đen; chữ cao khoảng 30 mm, độ đậm 5mm
+(nhãn có kích thước 100mm x 100mm; Số “1” ở góc đáy
+
+** Chỗ điền nhóm - được để trống nếu tính dễ nỗ là rủi ro phụ.
+* Chỗ điền nhóm tương thích - được để trống nếu tính dễ nỗ là rủi ro phụ.
+
+1.2. Loại 2:
+
+(Số 2.1) (Số 2.2)
+' Khí dễ cháy : Khí không cháy, không độc
+Biểu tượng (ngọn lửa): màu đen hoặc trắng Biểu tượng (chai chứa khí): màu đen hoặc trắng
+
+Nền: màu đỏ; số “2” ở góc đáy Nền: xanh lá cây; số “2” ở góc đáy
+
+
+
+===== Trang 2 =====
+zz
+
+"4a
+
+(Số 2.3)
+Khí độc
+Biểu tượng (đầu lâu và xương chéo): màu đen
+Nên: màu trắng; số “2” ở góc đáy
+
+1.3. Loại 3:
+
+Su
+
+- (Số 3) -
+Biêu tượng (Ngọn lửa): màu đen hoặc trắng
+Nền: màu đỏ; số “3” ở góc đáy
+
+(Số 4.1) ,_ (SỐ42) (Số 4.3)
+Biểu tượng (Ngọn lửa): Biêu tượng (Ngọn lửa): Biểu tượng (Ngọn lửa): màu đen
+màu đen; Nền: màu màu đen; Nền: nửa trên hoặc màu trắng; Nền: xanh dương;
+trắng với bảy gạch sọc màu trăng, nửa dưới màu số “4” ở góc đáy.
+đỏ; số “4” ở góc đáy. đỏ; số “4” ở góc đáy.
+
+
+
+===== Trang 3 =====
+1.5. Loại 5:
+5.1
+- (Số 5.1) : (Số 5.2)
+
+Biêu tượng (Ngọn lửa trên vòng Biêu tượng (Ngọn lửa): màu đen hoặc màu
+tròn): màu đen; Nền: màu vàng; số trắng; Nên: nửa trên màu đỏ, nửa dưới màu
+55,1” ở góc đáy. vàng; số “5.2” ở góc đáy.
+
+1.6. Loại 6:
+
+(Số 6.1)
+Biểu tượng (đầu lâu và xương chéo): màu đen; Nền: màu
+trắng; số “6” ở góc đáy.
+
+(Số 6)
+Nửa dưới của nhãn có thể mang dòng chữ: “CHÁT GÂY NHIỄM BỆNH” và “Trong trường
+hợp bị hư hại hoặc rò rí, thông báo ngay cho cơ quan y tế công”;
+Biểu tượng (ba hình trăng lưỡi liềm chồng lên một hình tròn): màu đen; Nền: màu trắng; số
+%6” ở góc đáy.
+
+
+
+===== Trang 4 =====
+(Số 7A)
+Loại I- TRÁNG;
+
+Biểu tượng (hình ba lá): màu đen; Nền:
+
+màu trăng; chữ (bắt buộc): màu đen ở
+nửa dưới của nhãn hiệu:
+“CHÁT PHÓNG XẠ”
+
+“HÀM LƯỢNG.......”
+“HOẠT ĐỘ.......”
+
+Một vạch đồ sau chữ “CHÁT PHÓNG
+XẠ”
+
+Số “7” ở góc đáy.
+
+(Số 7B) (Số 7C)
+Loại II - VÀNG; Loại II - VÀNG;
+Biểu tượng (hình ba lá): màu đen;
+
+Nền: nửa trên màu vàng với viền trắng, nửa dưới màu trắng;
+Chữ (bắt buộc): màu đen ở nửa dưới của nhãn hiệu:
+“CHÁT PHÓNG XẠ”
+
+“HÀM LƯỢNG....... #
+
+“HOẠT ĐỘ.......”
+
+Trong hộp có đường viền màu đen “CHỈ SÓ VẬN TẢI”
+
+Hai vạch đỏ. Ba vạch đỏ
+sau chữ “CHÁT PHÓNG XẠ”. sau chữ “CHÁT PHÓNG XẠ”
+Số “7” ở góc đáy.
+
+Chữ (bắt buộc): màu đen ở nửa dưới của nhãn hiệu: “PHÂN HẠCH”
+Trong hộp có đường viền màu đen ở nửa dưới của nhãn hiệu
+
+(Số 7E)
+Loại 7 vật liệu phân hạch;
+Nền: màu trăng;
+
+“CHỈ SÓ AN TOÀN TỚI HẠN”
+Số “7” ở góc đáy.
+
+1.8. Loại 8:
+
+Biểu tượng (chất lỏng đang được đỗ ra từ 2 ống thuỷ tỉnh và tác động
+vào một bàn tay và một vật liệu): màu đen; ,
+Nền: nửa trên màu trăng, nửa dưới màu đen với đường viền trăng;
+
+(Số 8)
+
+Số “8” ở góc đáy.
+
+
+
+===== Trang 5 =====
+1.9. Loại 9:
+
+(Số 9)
+Biểu tượng (bảy vạch dọc ở nửa trên):
+màu đen;
+Nền: màu trắng;
+Số “9” ở góc đáy.
+
+(Số 9A)
+
+Biểu tượng (bảy vạch dọc ở nửa trên,
+một nhóm ắc quy trong đó có một ắc
+quy bị vỡ và phát ra ngọn lửa ở
+dưới): màu đen;
+
+Nền: màu trắng;
+
+Số “9” ở góc đáy.
+
+2. Kích thước nhãn, biểu trưng:
+
+- Áp dụng đối với kiện hàng: 100 mm x 100 mm;
+
+= Áp dụng cho Container: 250 mm x 250 mm;
+
+- Áp dụng trên phương tiện: 500 mm x 500 mm.
+
+3. Báo hiệu nguy hiểm
+3.1. Kích thước báo hiệu
+
+30 em
+
+40 cm
+
+
+
+===== Trang 6 =====
+6
+
+3.2. Ví dụ biển hiệu màu cam có số hiệu nguy hiểm và số hiệu UN
+
+Số nhận dạng nguy
+hiệm (2 hoặc 3 số bắt
+đầu bảng chữ X
+
+30 cm
+
+Số hiệu ƯN
+(4 sô)
+
+40 cm
+
+Ƒ
+
+FY
+
+Nên màu cam.
+Đường viên, vạch kẻ ngang và các con số màu đen, độ đậm 15 mm.
+
+Ghỉ chú: Riêng đối với xe có khối lượng hàng hoá cho phép tham gia giao thông dưới 05
+tấn. Chủ phương tiện được điều chỉnh kích thước theo tỷ lệ phù hợp với thành xe tải nhưng
+
+không nhỏ hơn 50% kích thước nêu trên.

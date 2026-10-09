@@ -1,5 +1,15 @@
 # CHANGELOG — hc-sct-vn
 
+## [1.3.3] - 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
+
+- `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.
+- `van-ban-goc/00-DANH-MUC-CHUNG.md` (máy sinh bởi `scripts/build_so_cai_van_ban_goc.py` ở gốc kho, giống nhau ở mọi plugin): danh mục toàn bộ văn bản gốc của 24 plugin (số hiệu, ngày, tên, plugin chủ, đường dẫn, có .txt), danh sách trùng số hiệu nhiều plugin, tệp đặt tên chưa chuẩn.
+- `scripts/tim_van_ban.py` (bản chép từ gốc kho): tìm theo số hiệu/cụm từ trong danh mục, toàn văn .txt/.md mọi plugin và reference; chạy được trong gói claude.ai.
+- `van-ban-goc/`: mọi tệp gốc .pdf/.doc/.docx/.xlsx có bản trích chữ `.txt` cùng tên đặt cạnh (hiện 0 tệp .txt), sinh bằng `scripts/trich_chu_van_ban_goc.py` (NFC; bản quét OCR đánh dấu `[OCR]`, số/ngày phải đối chiếu bản gốc).
+- `plugin.json` → 1.3.3.
+
+Chi tiết: `CHANGELOG-v2026.10.09.md`.
+
 ## [1.3.0] - 08/9/2026 — Sở là thành viên Hội đồng thẩm định KH của Cục Hóa chất; Phiếu Mẫu 03c; vụ DAP số 2
 - **ref 17 (mới)** `17-thanh-vien-hoi-dong-tham-dinh-kh-cuc-hoa-chat.md`: phân biệt vai trò Sở (cơ quan thẩm định với điểm b / thành viên Hội đồng của Cục với điểm a); cách điền Phiếu Mẫu 03c (không tự đánh X ô lựa chọn, ngày để trống, chức vụ chuyên môn); checklist 8 điểm thẩm định nội dung KH theo Phụ lục II TT 02/2026 (KH điều chỉnh phải khớp Bảng 1.2 → 2.1 → 2.2 → mục 4.3 + diễn tập; bộ ngưỡng AEGL 60 phút; axit không bay hơi phải tính lượng tràn); điều kiện an toàn trạm xuất NH3 lỏng và trạm xuất axit (110% dung tích xe bồn, 17 m, vật liệu, không phun nước vào H2SO4 đặc); quan hệ KH điều chỉnh với thủ tục đầu tư - xây dựng - PCCC - môi trường; bán H2SO4 ra ngoài → GP kinh doanh hóa chất kiểm soát đặc biệt nhóm 2 (tỉnh) + phiếu kiểm soát mua bán; dữ kiện vụ DAP số 2 đã xác minh.
 - **vi-du-thuc-te/ke-hoach-su-co/**: `Mau-03c-goc.docx`; `2026.09.08. Phieu-nhan-xet-Mau-03c-KH-su-co-DAP-so-2.docx` (bản hoàn thiện cho CV Loan, 10 nhóm yêu cầu); `build_phieu_03c.py` + `line_runs.txt` (script dựng Phiếu 03c trên mẫu gốc: A4 lề 2-2-3-2, header 13pt 2 đường Line shape, thân 14pt lùi 1 cm, subscript công thức, m2/m3 số mũ, nén chữ tránh chữ lẻ); `VB-de-nghi-1648-DAP2-KTh-tham-dinh-KH.pdf`.

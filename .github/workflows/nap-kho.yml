@@ -68,4 +68,8 @@ jobs:
           git add -A
           git commit -F /tmp/nap/commit.txt
           git push -u origin "$nhanh"
-          gh pr create --base main --head "$nhanh" --title "$(cat /tmp/nap/title.txt)" --body-file /tmp/nap/body.md
+          if ! gh pr create --base main --head "$nhanh" --title "$(cat /tmp/nap/title.txt)" --body-file /tmp/nap/body.md; then
+            echo "::error::Không mở được PR: vào Settings → Actions → General → Workflow permissions, bật 'Read and write permissions' và 'Allow GitHub Actions to create and approve pull requests' rồi chạy lại. Nhánh đã đẩy: $nhanh — có thể mở PR tay tại https://github.com/${GITHUB_REPOSITORY}/pull/new/$nhanh"
+            { echo "## Nạp kho: nhánh \`$nhanh\` đã đẩy nhưng KHÔNG mở được PR"; echo; echo "Bật Settings → Actions → General → Workflow permissions → *Allow GitHub Actions to create and approve pull requests*, hoặc mở PR tay: https://github.com/${GITHUB_REPOSITORY}/pull/new/$nhanh"; echo; cat /tmp/nap/body.md; } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi

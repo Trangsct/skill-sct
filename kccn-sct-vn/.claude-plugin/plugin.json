@@ -1,7 +1,7 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.49.2",
-  "description": "Ref 44 (06/10/2026) MỚI NHẤT: khung Báo cáo CCN họp UBND tỉnh do GĐ chốt (thứ tự cụm, trách nhiệm CĐT trước, 1.500 lao động/cụm 75 ha), hiện trạng 25 CCN đến 05/10/2026, lấp đầy tính trên đất đã GPMB, đất Chè Văn Hưng 72,23 ha (BC 499/BC-SNNMT), 08 cụm NSNN trình 15/10/2026, QH 1/500 và GPXD. Ref 43: danh mục thu hút chốt 01/10/2026. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
+  "version": "1.50.0",
+  "description": "Ref 46 (10/10/2026) MỚI NHẤT: kết luận Chủ tịch UBND tỉnh TB 181/TB-VPUBND (cam kết tiến độ 09 CĐT, 08 cụm NSNN trình 15/10, trang thông tin KCN/CCN tích hợp AI, TĐC cách KCN/CCN trên 1,5 km), QĐ 3725/QĐ-UBND điều chỉnh Phú Thịnh 1, miễn tiền thuê đất Thống Nhất 1 (QĐ 2167 địa bàn ưu đãi). Ref 44: khung Báo cáo CCN, hiện trạng 25 CCN đến 05/10/2026. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },

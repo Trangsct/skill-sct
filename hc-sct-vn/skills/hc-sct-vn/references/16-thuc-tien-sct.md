@@ -73,6 +73,26 @@ Tổng: **16.000.000 đ**; không tình tiết tăng nặng/giảm nhẹ; không
 
 Kế hoạch điều chỉnh của Công ty CP DAP số 2 - Vinachem (NH3 5.700 t ≫ ngưỡng 50 t → điểm a → Cục Hóa chất chủ trì); Sở cử CV Nguyễn Thị Loan tham gia Hội đồng, lập Phiếu Mẫu 03c. Bài học: (1) KH điều chỉnh sao chép bản 2015 nên hạng mục mới không được đưa vào bảng điểm nguy cơ và mục biện pháp; (2) số liệu vùng AEGL trong bảng tổng hợp lệch xa mục mô phỏng, bộ ngưỡng AEGL sai; (3) văn bản đề nghị ghi sai lần đăng ký thay đổi GCN ĐKDN; (4) bán H2SO4 ra ngoài kéo theo GP kinh doanh hóa chất kiểm soát đặc biệt nhóm 2 thuộc thẩm quyền tỉnh — việc của Sở, phải nêu trong phiếu. Toàn bộ checklist, điều kiện trạm xuất, mẫu phiếu: **ref 17**.
 
+## 5b. CV 6395/SCT-CN ngày 08/10/2026 — tăng cường tuân thủ pháp luật và an toàn hoạt động hóa chất (văn bản hướng dẫn chung gửi mọi DN hóa chất trên địa bàn)
+
+> Nguồn: lớp chữ `theo-doi/2026/6395_SCT-CN.md` (kho riêng tư `vlncn-laocai`, bot Data360X 10/10/2026). KT. GĐ, PGĐ **Nguyễn Đình Chiến** ký; nơi nhận: các tổ chức, DN hoạt động hóa chất; Lãnh đạo Sở; Phòng KT, HT&ĐT các phường và Phòng Kinh tế các xã (phối hợp); BQL các KCN, BQL KKT (phối hợp); dòng Lưu: VT, CN — bản phát hành có thêm tên chuyên viên trong ngoặc (⚠️ trái quy ước dòng Lưu Bạn chốt 01/10/2026; khi soạn mới viết `Lưu: VT, CN.`). Đây là **văn bản chuẩn của Sở về các mốc chuyển tiếp 2026–2027** — dùng lại câu chữ khi trả lời DN hoặc soạn công văn đôn đốc.
+
+**05 nội dung và các mốc thời hạn Sở đã chốt trong văn bản:**
+
+| # | Nội dung | Mốc / căn cứ Sở dẫn |
+|---|---|---|
+| 1 | Rà soát hóa chất đang SX, KD, tồn trữ, sử dụng; đối chiếu **Danh mục hóa chất SX, KD có điều kiện theo NĐ 24/2026/NĐ-CP**; thuộc diện thì làm thủ tục GCN | — |
+| 1 | **GCN đủ điều kiện cấp trước 01/01/2026** → tiếp tục hoạt động **đến hết 31/12/2027** | **khoản 3 Điều 48 Luật Hóa chất 69/2025** — DN chủ động làm thủ tục mới trước khi hết chuyển tiếp |
+| 1 | Hóa chất thuộc Danh mục có điều kiện hoặc **cần kiểm soát đặc biệt theo quy định mới** nhưng **không thuộc danh mục tương ứng theo Luật Hóa chất 2007** → DN đang hoạt động phải đáp ứng điều kiện, làm thủ tục cấp GCN/GP **trước 31/12/2026** | (Sở không dẫn điều — đối chiếu Điều 48 Luật và điều khoản chuyển tiếp NĐ 24, NĐ 26 trước khi trích điều) |
+| 2 | **Kho chứa**: DN phải có kho đáp ứng điều kiện **hoặc thuê kho của tổ chức đã được cấp GCN đủ điều kiện dịch vụ tồn trữ** phù hợp loại, quy mô; **dùng kho của bên mua, bên bán hoặc tổ chức khác theo hợp đồng mua bán, thuê kho, mượn kho KHÔNG thay thế** yêu cầu điều kiện kho; chưa đáp ứng thì hoàn thiện kho hoặc ký hợp đồng thuê dịch vụ tồn trữ | hoàn thiện theo thời hạn chuyển tiếp của từng trường hợp ở mục 1; mọi trường hợp phải duy trì an toàn tại nơi tồn trữ thực tế (nối ref 05) |
+| 3 | **KH / Biện pháp phòng ngừa, ứng phó sự cố**: xác định đối tượng theo loại, khối lượng tồn trữ lớn nhất tại một thời điểm, quy mô; KH/Biện pháp **đã phê duyệt, ban hành trước 01/01/2026 tiếp tục thực hiện** (**khoản 4 Điều 48 Luật**); **DN đã ban hành Biện pháp trước ngày NĐ 25/2026 có hiệu lực nhưng thuộc đối tượng điểm b khoản 2 Điều 33 NĐ 25/2026 → phải xây dựng Kế hoạch, trình thẩm định, phê duyệt trước 31/12/2026** (**khoản 2 Điều 40 NĐ 25/2026**); thay đổi quy mô, công nghệ, thiết bị → điều chỉnh; duy trì thiết bị ứng phó, diễn tập, thông báo sự cố | nối ref 06, 17 |
+| 4 | Quản lý, theo dõi nhập – xuất – tồn – sử dụng; kiểm soát mục đích với hóa chất kiểm soát đặc biệt; khai báo, báo cáo, cập nhật **Cơ sở dữ liệu chuyên ngành hóa chất** đúng đối tượng, nội dung, thời hạn; chịu trách nhiệm về thông tin kê khai | nối ref 08, 11 |
+| 5 | Tổ chức thực hiện: DN rà soát, khắc phục ngay; vướng mắc phản ánh về Sở (qua **Phòng Quản lý công nghiệp**); Sở tăng cường theo dõi, kiểm tra; vi phạm xử lý theo pháp luật | nối ref 10, `xp-sct-vn` |
+
+**Cách dùng:** (a) trả lời DN hỏi "GCN cũ còn dùng được không", "mượn kho của bên bán được không", "Biện pháp cũ có phải làm Kế hoạch không" → trích đúng mốc và điều khoản ở bảng; (b) công văn kiểm tra chuyên ngành 2027 nên viện dẫn CV 6395/SCT-CN như văn bản Sở đã hướng dẫn trước; (c) mốc **31/12/2026** (hóa chất mới vào danh mục; Biện pháp → Kế hoạch) và **31/12/2027** (GCN cũ) là hai mốc cảnh báo cần đưa vào kế hoạch đôn đốc cuối năm 2026.
+
+**Việc đang chạy cùng kỳ (chỉ mục lục):** Sở đang thu thập thông tin phục vụ **Chiến lược phát triển ngành công nghiệp hóa chất Việt Nam đến năm 2035, tầm nhìn 2055** — nhiều xã, phường, sở, ngành đã trả lời từ 30/9 đến 09/10/2026 (637, 668, 667, 512/BC-UBND; 1475, 1493, 1932/UBND-KT; 1502/CV-BQLCKCN; 4064/SNV-LĐVL; 8136/STC-KT; 3406/SKHCN-QLCN; 1154, 1603, 1231/CV-UBND; 2576/UBND-KTHT; 2590/CV-UBND-2026); văn bản đề nghị của Sở và đề cương của Bộ: hỏi Bạn số, ngày trước khi tổng hợp. Thông báo nổ mìn của Công ty Hóa chất mỏ Tây Bắc (3681/TB-HCMTBa 01/10/2026, phiếu chuyển 1254/PC-VPUBND 06/10) thuộc `sd-vlncn-sct-vn`, không phải việc hóa chất.
+
 ## 6. VIỆC CHỜ XÁC MINH (phải hỏi Bạn — không tự điền, không bịa)
 
 1. **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương** ký cấp GCN/GP/QĐ hóa chất thay UBND tỉnh — **đến 05/7/2026 chưa xác minh có/không**. Quyết định người ký (Sở ký theo ủy quyền hay trình Chủ tịch UBND tỉnh ký) phụ thuộc điều này. **Hỏi Bạn trước khi chốt người ký mọi văn bản cấp phép.**

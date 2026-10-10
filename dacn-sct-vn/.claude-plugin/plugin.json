@@ -1,7 +1,7 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.7.1",
-  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, phân tích SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, kịch bản, số liệu KCN/KKT, KTXH 6 tháng và 9 tháng 2026 (BC 998/BC-TKT: IIP 7,7%, GTSXCN 56.678 tỷ), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg và Kế hoạch Bài toán lớn số 2; thế mạnh công nghiệp và đề xuất hợp tác với Trung Quốc (QĐ 453/QĐ-TTg cửa khẩu thông minh); dự án thứ cấp trong CCN.",
+  "version": "1.8.0",
+  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 6 tháng và 9 tháng 2026 (BC 998/BC-TKT: IIP 7,7%, GTSXCN 56.678 tỷ), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg và Bài toán lớn số 2; hợp tác Trung Quốc (QĐ 453/QĐ-TTg); khuyến công 2026-2030 (TB 504/TB-CN, TT 66/2026/TT-BCT, TT 139/2026/TT-BTC) và Đề án cụm liên kết ngành (ref 14).",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },

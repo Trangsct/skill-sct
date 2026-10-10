@@ -1,7 +1,7 @@
 {
   "name": "hl-vlncn-sct-vn",
-  "version": "1.4.6",
-  "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP.",
+  "version": "1.4.7",
+  "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP. Ky kiem tra 10/10/2026 theo KH 6421/KH-SCT (PGD Chien ky; can cu QD 3628/QD-UBND 02/10/2026).",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   }

@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **719** (Luật 35, NĐ 217, TT 110, QĐ 280, NQ 35, khác 42).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **736** (Luật 35, NĐ 218, TT 112, QĐ 294, NQ 35, khác 42).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **96**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -91,11 +91,13 @@
 - TT 98/2024 (3 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, vbhc-vn)
 - TT 6/2021 (4 plugin: kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn)
 - QĐ 6286/QĐ-SCT (16 plugin: bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn)
+- QĐ 3628/QĐ-UBND (3 plugin: hl-vlncn-sct-vn, qlks-sct-vn, sct-laocai-org-vn)
 - QĐ 2390/QĐ-UBND (4 plugin: dacn-sct-vn, kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
 - QĐ 2272/QĐ-UBND (5 plugin: hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 11/2026/QĐ-UBND (6 plugin: kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn)
 - QĐ 1382/QĐ-UBND (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - QĐ 1050/QĐ-SCT (4 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
+- QĐ 316/QĐ-TTG (3 plugin: kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
 - QĐ 59/QĐ-SCT (3 plugin: attp-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn)
 - QĐ 768/QĐ-TTG (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - NQ 19/2026/NQ-CP (3 plugin: attp-sct-vn, hnh-sct-vn, kccn-sct-vn)

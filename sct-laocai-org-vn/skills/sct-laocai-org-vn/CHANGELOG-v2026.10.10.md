@@ -1,0 +1,11 @@
+# CHANGELOG — sct-laocai-org-vn v2.7.0 (10/10/2026)
+
+Nguồn: bản tin Data360X 10/10/2026 (mục tổ chức bộ máy 27 văn bản) và luồng xử lý trên Data360X của các văn bản bot tải (kho riêng tư `vlncn-laocai`). Phần lớn QĐ nhân sự bot chưa tải PDF — chỉ có số, ngày, trích yếu.
+
+- **Reference 03 (mới) — kỳ cập nhật 10/10/2026:**
+  - ⚠️ **Đối chiếu số QĐ phân công Ban Giám đốc**: sổ văn bản đi ghi **6286./QĐ-SCT 05/10/2026 = Ban hành Quy chế làm việc của Sở**; **6320/QĐ-SCT 06/10/2026 = Phân công nhiệm vụ GĐ, PGĐ ("Đề nghị dùng bản này")**. Nội dung phân công giữ nguyên; viện dẫn số → hỏi Bạn hoặc tra bản gốc.
+  - Chuỗi sắp xếp tổ chức: 3953/SNV-CCVC 29/9; Đề án 6152/ĐA-SCT, BC 6151, TTr 6155 30/9; **QĐ 3589/QĐ-UBND 30/9** (điều động PGĐ SNNMT Phạm Năng Chung về Sở); **QĐ 3620/QĐ-UBND 02/10** (phê duyệt Đề án sắp xếp); **QĐ 3628/QĐ-UBND 02/10** (chức năng, nhiệm vụ, cơ cấu tổ chức Sở — căn cứ của KH 6421/KH-SCT); TTr 6205; **QĐ 6231/QĐ-SCT 02/10 bổ nhiệm PTP Phòng Quản lý Khoáng sản Nguyễn Hồng Vân**; 10 QĐ điều động công chức 02/10 (6232–6241: Hoàng Thu Phong, Lưu Văn Nhất, Nguyễn Quang Chung, Nguyễn Thị Lê Vân, Vũ Đình Thủy, Phạm Văn Hải, Nguyễn Minh Dương, Lê Minh Long, Ngô Ngọc Dũng, Nguyễn Thị Thúy Nhung); QĐ 6478 09/10 tiếp nhận Phùng Đức Minh; 6420, 6416/SCT-KS kiện toàn, cử thành viên Hội đồng thẩm định khoáng sản; **6426/SCT-KH 09/10** điều chỉnh phân công Mục V Đề án 08 (giao SNV, SGDĐT; hạn góp ý 14/10).
+  - **Phòng Quản lý Khoáng sản đã vận hành**: ký hiệu `/SCT-KS`, `Lưu: VT, KS.`; TP **Lưu Đức Cường**; PTP Nguyễn Hồng Vân; CV Nguyễn Thị Thúy Nhung; PGĐ Phạm Năng Chung ký 6417, 6419/SCT-KS. Trưởng phòng các phòng khác trên luồng: Bùi Thế Hậu (QLNL), Phạm Quốc Vượng (QLTM), Nguyễn Tuấn Anh (KH-TH), Nguyễn Hữu Long (QLCN); luồng văn bản đến điển hình.
+  - Việc phải làm khi bot mang bản gốc về (QĐ 3628, 6320/6286, 10 QĐ điều động, Quy chế làm việc).
+- `SKILL.md`: cảnh báo đối chiếu 6286/6320 ở căn cứ pháp lý; Phòng QLKS (TP, PTP, ký hiệu) thay dòng "hỏi Bạn trước khi ghi ký hiệu"; PTP Nguyễn Hồng Vân tại Phòng QLCN đánh dấu lịch sử đến 01/10/2026; routing khoáng sản "PTP Vân → TP Lưu Đức Cường"; mục NQ 66.25 ghi ký hiệu `/SCT-KS`, `Lưu: VT, KS.`; mục lục đầu file thêm ref 03; description.
+- `plugin.json` → 2.7.0.

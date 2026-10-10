@@ -154,6 +154,11 @@
       "bi_sua_doi_boi": "NĐ 146/2025",
       "ghi_chu": "Chi tiết Luật 42/2024 (VLNCN, tiền chất); Mẫu 01, 02 huấn luyện"
     },
+    "NĐ 186/2026": {
+      "ngay_ban_hanh": "2026-05-26",
+      "ngay_hieu_luc": "2026-07-15",
+      "ghi_chu": "Sửa NĐ 99/2013 (SHCN): bãi bỏ Đ16, 17; thêm Đ15a; sửa Đ15, 18-21a, 30-32 — xp-sct-vn ref 11"
+    },
     "NĐ 189/2025": {
       "ngay_ban_hanh": "2025-07-01",
       "ngay_hieu_luc": "2025-07-01",
@@ -195,9 +200,15 @@
       "ngay_hieu_luc": "2020-03-05",
       "ghi_chu": "Công tác văn thư — thể thức VBHC (vbhc-vn)"
     },
+    "NĐ 303/2025": {
+      "ngay_ban_hanh": "2025-11-19",
+      "ngay_hieu_luc": "2025-11-20",
+      "ghi_chu": "Chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của bộ, cơ quan ngang bộ; thay NĐ 123/2016; bản gốc sct-laocai-org-vn/van-ban-goc"
+    },
     "NĐ 303/2026": {
+      "ngay_ban_hanh": "2026-08-01",
       "ngay_hieu_luc": "2026-09-15",
-      "ghi_chu": "Sửa NĐ 32/2024 về CCN"
+      "ghi_chu": "Sửa NĐ 32/2024 về CCN; CHƯA có bản gốc trong kho (ngày ban hành theo kccn-sct-vn ref 24 và Báo Chính phủ); không nhầm NĐ 303/2025"
     },
     "NĐ 311/2026": {
       "ngay_ban_hanh": "2026-08-06",
@@ -271,6 +282,12 @@
       "ngay_hieu_luc": "2020-10-15",
       "bi_sua_doi_boi": "NĐ 17/2022 (Điều 3); NĐ 24/2025",
       "ghi_chu": "Xử phạt thương mại, hàng giả, hàng cấm, bảo vệ NTD — QLTT xử; QLCN không lập BB (k2 Đ80)"
+    },
+    "NĐ 99/2013": {
+      "ngay_ban_hanh": "2013-08-29",
+      "ngay_hieu_luc": "2013-10-15",
+      "bi_sua_doi_boi": "NĐ 126/2021 (01/01/2022); NĐ 46/2024 (01/7/2024); NĐ 186/2026 (15/7/2026)",
+      "ghi_chu": "Xử phạt VPHC sở hữu công nghiệp; VBHN 25/2026/VBHN-NĐ-BKHCN ngày 30/9/2026; bản sao y UBND tỉnh trong xp-sct-vn/van-ban-goc/so-huu-cong-nghiep, ref 11"
     },
     "NĐ 99/2020": {
       "ngay_ban_hanh": "2020-08-26",
@@ -599,6 +616,11 @@
       "bi_thay_the_boi": "QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026)",
       "ghi_chu": "Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ"
     },
+    "QĐ 453/QĐ-TTg": {
+      "ngay_ban_hanh": "2026-03-18",
+      "ngay_hieu_luc": "2026-03-18",
+      "ghi_chu": "Đề án cửa khẩu thông minh tại lối thông quan cầu đường bộ Kim Thành và lối thông quan Bản Vược thuộc cửa khẩu quốc tế Lào Cai; đối chiếu bản scan 07/10/2026 (dacn-sct-vn ref 13)"
+    },
     "QĐ 47/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-28",
       "ngay_hieu_luc": "2026-06-28",
@@ -669,6 +691,11 @@
     "TT 56/2025": {
       "ngay_ban_hanh": "2025-11-28",
       "ghi_chu": "TT-BCT hướng dẫn kiểm tra chuyên ngành NĐ 217/2025 — 10 mẫu"
+    },
+    "TT 63/2026": {
+      "ngay_ban_hanh": "2026-09-30",
+      "ngay_hieu_luc": "2026-11-15",
+      "ghi_chu": "TT-BCT cơ sở dữ liệu thực phẩm, truy xuất nguồn gốc; thay TT 11/2026/TT-BCT ngày 27/02/2026 (mã TT 11/2026 trùng TT-BNNMT, TT-BXD nên không ghi cột thay thế); bản gốc attp-sct-vn/van-ban-goc, ref 12"
     }
   },
   "_bo_qua": []

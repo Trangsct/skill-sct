@@ -1,7 +1,7 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.8.0",
-  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 6 tháng và 9 tháng 2026 (BC 998/BC-TKT: IIP 7,7%, GTSXCN 56.678 tỷ), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg và Bài toán lớn số 2; hợp tác Trung Quốc (QĐ 453/QĐ-TTg); khuyến công 2026-2030 (TB 504/TB-CN, TT 66/2026/TT-BCT, TT 139/2026/TT-BTC) và Đề án cụm liên kết ngành (ref 14).",
+  "version": "1.9.0",
+  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 9 tháng 2026 (IIP 7,7%), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg; hợp tác Trung Quốc; khuyến công 2026-2030; theo dõi SXKD 37 DN công nghiệp + 41 DN thương mại theo CV 10349/UBND-KT 09/10/2026, gửi Thống kê tỉnh trước ngày 10 (ref 15); GCN ĐKĐT bao bì thùng phuy KCN Tằng Loỏng (CBCT-082).",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },
@@ -37,6 +37,9 @@
     "ktxh-9-thang-2026",
     "hop-tac-trung-quoc",
     "cua-khau-thong-minh",
-    "qd-453-2026"
+    "qd-453-2026",
+    "cv-10349-2026",
+    "theo-doi-sxkd-doanh-nghiep",
+    "bao-bi-thung-phuy"
   ]
 }

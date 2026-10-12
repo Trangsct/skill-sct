@@ -7,12 +7,14 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 324 văn bản gốc (324 có bản .txt) ở 18 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 326 văn bản gốc (326 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
 | Số hiệu | Ngày | Tên | Plugin chủ | Đường dẫn | .txt |
 |---|---|---|---|---|---|
+| 10349/UBND-KT | 09/10/2026 | Tang cuong theo doi nam bat SXKD doanh nghiep | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-10349.UBND.KT-Tang-cuong-theo-doi-nam-bat-SXKD-doanh-nghiep.pdf` | có (OCR) |
+| 8280788124/GCNDKDT | 09/10/2026 | Dieu chinh lan 5 Bao Bi thung phuy KCN Tang Loong | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-8280788124.GCNDKDT-Dieu-chinh-lan-5-Bao-Bi-thung-phuy-KCN-Tang-Loong.pdf` | có |
 | 63/2026/TT-BCT | 30/09/2026 | Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2026.09.30 63.2026.TT.BCT Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.docx` | có |
 | 3556/QĐ-UBND | 30/09/2026 | ban hanh Quy che du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/QD-3556-QD-UBND-30-9-2026-ban-hanh-Quy-che-du-lieu-TNMT.pdf` | có |
 | — | 30/09/2026 | Quy che kem QD 3556 QD UBND 30 9 2026 du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/Quy-che-kem-QD-3556-QD-UBND-30-9-2026-du-lieu-TNMT.pdf` | có |

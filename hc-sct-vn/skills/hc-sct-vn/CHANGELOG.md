@@ -1,5 +1,15 @@
 # CHANGELOG — hc-sct-vn
 
+## [1.5.0] - 12/10/2026 — Lớp cắt giảm, phân cấp NQ 19/2026/NQ-CP + TT 26/2026/TT-BCT (ref 18); Chiến lược QĐ 726/QĐ-TTg (ref 19); 13 biểu mẫu mới
+
+- **ref 18 (mới):** thẩm quyền mới từ 29/5/2026 (GP XNK kiểm soát đặc biệt nhóm 1, GP nhập khẩu hóa chất cấm, GCN dịch vụ tồn trữ mọi cơ sở → UBND cấp tỉnh); điều kiện kinh doanh viết lại; hồ sơ GCN/GP **bỏ Thông báo nghiệm thu và Phiếu ATHC**; thời hạn 14/10/05/03 ngày; Hội đồng KH tách luồng; miễn trừ ≤ 1 %; bảng 13 mẫu TT 26; checklist mới. Sửa ref 01–06, 09, 13–16 theo.
+- **ref 19 (mới):** Chiến lược phát triển ngành CN hóa chất đến 2030, tầm nhìn 2040 (QĐ 726/QĐ-TTg 16/6/2022 + CV 3698/BCT-HC 30/6/2022).
+- `van-ban-goc/`: TT 26/2026 bản ký số (thân văn bản) + .txt; `07-chien-luoc/` QĐ 726 + .txt. NQ 19/2026 dùng bản ở `hnh-sct-vn` (không nhân bản).
+- `mau-ho-so/TT-26-2026/`: 13 mẫu Phần III TT 26 tách từ bản Word; xóa mẫu cũ TT 01/TT 02.
+- SKILL.md mục I–VI, description; `plugin.json` → 1.5.0.
+
+Chi tiết: `CHANGELOG-v2026.10.12.md`.
+
 ## [1.3.3] - 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
 
 - `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.

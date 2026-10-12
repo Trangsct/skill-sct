@@ -1,6 +1,6 @@
 # 06 — Kế hoạch và Biện pháp phòng ngừa, ứng phó sự cố hóa chất
 
-Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 25/2026 (Điều 33, 34, 35, 36, 37); Phụ lục IV Nghị định 24/2026; Thông tư 02/2026/TT-BCT (biểu mẫu). **Đây là một trong hai nghiệp vụ lớn nhất của Sở về hóa chất.**
+Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 25/2026 (Điều 33, 34, 35, 36, 37); Phụ lục IV Nghị định 24/2026; Thông tư 02/2026/TT-BCT (biểu mẫu). **Lớp sửa đổi:** khoản 2, 4 Điều 34 NĐ 25 được viết lại tại **mục C.I Phụ lục III Nghị quyết 19/2026/NQ-CP** (từ 29/4/2026); Mẫu 03a, 03đ và Phụ lục II TT 02 sửa bởi **Điều 23 Thông tư 26/2026/TT-BCT** (từ 29/5/2026) — ref 18 mục 3.6. **Đây là một trong hai nghiệp vụ lớn nhất của Sở về hóa chất.**
 
 ## 1. Phân biệt Kế hoạch (KH) và Biện pháp (BP) — mấu chốt
 
@@ -29,15 +29,15 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 2
 
 ## 4. Hồ sơ và trình tự thẩm định KH của UBND cấp tỉnh (Điều 34 NĐ 25)
 
-**Hồ sơ (khoản 1):** a) Văn bản đề nghị thẩm định (mẫu TT 02/2026); b) **09 bản Kế hoạch** phòng ngừa, ứng phó sự cố hóa chất.
+**Hồ sơ (khoản 1):** a) Văn bản đề nghị thẩm định (**Mẫu 02 Phần III Phụ lục TT 26/2026** thay Mẫu 03a TT 02 — `mau-ho-so/TT-26-2026/Mau-02-...docx`); b) **09 bản Kế hoạch** phòng ngừa, ứng phó sự cố hóa chất.
 
-**Trình tự (khoản 2):**
+**Trình tự (khoản 2, theo NQ 19 — tách hai luồng theo thời điểm trình tại khoản 3):**
 1. Nộp 01 bộ (bưu chính/trực tiếp/trực tuyến) đến cơ quan thẩm định (Sở Công Thương — cơ quan tham mưu UBND tỉnh).
 2. Hồ sơ chưa hợp lệ: **03 ngày làm việc** trả hồ sơ, nêu lý do.
 3. Sau nhận đủ hồ sơ hợp lệ: tổ chức thẩm định qua **Hội đồng thẩm định** trong **15 ngày làm việc**.
-4. Gửi **Thông báo kết quả thẩm định** trong **05 ngày làm việc** kể từ ngày kết thúc thẩm định (nêu rõ đủ/không đủ điều kiện và yêu cầu chỉnh sửa).
+4. Gửi **Thông báo kết quả thẩm định** trong **05 ngày làm việc**: với **dự án đầu tư (điểm a khoản 3)** — kể từ ngày kết thúc thẩm định; với **cơ sở đang hoạt động/không thuộc điểm a (điểm b khoản 3)** — Hội đồng **thẩm định và kiểm tra thực tế tại cơ sở ngay trong bước này**, thông báo trong 05 ngày kể từ ngày kết thúc thẩm định và kiểm tra thực tế. Thông báo nêu rõ 1 trong 3 kết luận: thông qua không phải chỉnh sửa / thông qua nhưng phải chỉnh sửa, bổ sung / không thông qua (phải xây dựng và trình thẩm định lại).
 5. Đến thời điểm phê duyệt: tổ chức gửi báo cáo kết quả thực hiện yêu cầu + **01 bản điện tử + 07 bản in** KH đã chỉnh sửa.
-6. Chậm nhất **20 ngày làm việc** kể từ nhận báo cáo: Hội đồng **kiểm tra thực tế**, báo cáo kết quả, kiến nghị phê duyệt/không phê duyệt.
+6. Chậm nhất **20 ngày làm việc** kể từ nhận báo cáo: **dự án (điểm a)** — Hội đồng **kiểm tra thực tế** việc thực hiện yêu cầu, báo cáo kết quả, kiến nghị phê duyệt/không; **cơ sở (điểm b)** — Hội đồng **chỉ xem xét báo cáo** (không kiểm tra thực tế lần hai) và kết luận kiến nghị. Biểu mẫu biên bản, báo cáo kết quả kiểm tra của Hội đồng và phiếu nhận xét việc thực hiện yêu cầu: **Mẫu 03 Phần III TT 26** (thay Mẫu 03đ TT 02).
 7. Chậm nhất **10 ngày làm việc** kể từ nhận báo cáo kiểm tra: cơ quan phê duyệt ra **Quyết định phê duyệt KH** (mẫu Phụ lục II NĐ 25) hoặc văn bản trả lời nêu lý do.
 8. Cơ quan thẩm định chứng thực trang phụ bìa KH; gửi QĐ phê duyệt + KH cho tổ chức và các cơ quan liên quan tại địa phương (UBND cấp tỉnh; cơ quan chuyên ngành cấp tỉnh; PCCC cấp tỉnh; môi trường cấp tỉnh; BQL KCN/KCX/KKT nếu trong khu; **UBND cấp xã** nếu KH do UBND cấp tỉnh phê duyệt).
 
@@ -46,7 +46,9 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 2
 - Do **cơ quan phê duyệt** (UBND cấp tỉnh) thành lập; gồm đại diện cơ quan thẩm định, các cơ quan QLNN liên quan, chuyên gia.
 - Cơ cấu: Chủ tịch, Phó Chủ tịch (nếu có), Ủy viên phản biện, Ủy viên thư ký, các Ủy viên. **Tổng số 07-09 người.**
 - Họp khi có ≥ 2/3 thành viên, có Chủ tịch/Phó Chủ tịch và ≥ 01 ủy viên phản biện. Thông qua khi ≥ 2/3 đồng ý; không thông qua khi > 1/3 không đồng ý; còn lại thông qua với điều kiện chỉnh sửa. **Hội đồng tự giải thể sau khi KH được phê duyệt.**
-- Sở soạn: **QĐ thành lập Hội đồng thẩm định**, Biên bản họp, Phiếu đánh giá, Thông báo kết quả, Báo cáo kiểm tra thực tế, dự thảo QĐ phê duyệt (ref 14).
+- Trách nhiệm (điểm c khoản 4 theo NQ 19): đánh giá, thẩm định KH, **kiểm tra thực tế cơ sở hoạt động hóa chất**, xem xét đánh giá việc thực hiện yêu cầu nêu tại Thông báo kết quả; chịu trách nhiệm về kết luận.
+- **KH điều chỉnh của dự án, cơ sở đã được phê duyệt KH** (điểm h khoản 4 — bổ sung bởi NQ 19): nộp hồ sơ như dự án (khoản 1), **Hội đồng chuyển thẳng sang bước thẩm định, phê duyệt theo khoản 3** — không lặp lại toàn bộ quy trình từ đầu.
+- Sở soạn: **QĐ thành lập Hội đồng thẩm định**, Biên bản họp, Phiếu đánh giá, Thông báo kết quả, Báo cáo kiểm tra thực tế (Mẫu 03 TT 26), dự thảo QĐ phê duyệt (ref 14).
 
 ## 6. Thời điểm thẩm định, phê duyệt (khoản 3 Điều 34)
 
@@ -62,7 +64,7 @@ Căn cứ: Luật Hóa chất 69/2025 (Điều 37, 38, 39, 42); Nghị định 2
 ## 8. Điều chỉnh, thực hiện (Điều 36 NĐ 25)
 
 - Diễn tập ứng phó sự cố **định kỳ hằng năm** (cơ sở thuộc Danh mục Phụ lục IV) + cập nhật hoạt động diễn tập lên cơ sở dữ liệu.
-- **Điều chỉnh KH** khi mở rộng quy mô/thay đổi công nghệ/thiết bị/tồn trữ thuộc khoản 2 Điều 33; hoặc bổ sung chủng loại/nâng khối lượng hóa chất thuộc Danh mục. Xây dựng, thẩm định, phê duyệt KH điều chỉnh **như lần đầu**.
+- **Điều chỉnh KH** khi mở rộng quy mô/thay đổi công nghệ/thiết bị/tồn trữ thuộc khoản 2 Điều 33; hoặc bổ sung chủng loại/nâng khối lượng hóa chất thuộc Danh mục. Xây dựng lại KH, nộp hồ sơ như dự án; từ 29/4/2026 Hội đồng **chuyển thẳng sang bước thẩm định, phê duyệt** (điểm h khoản 4 Điều 34 theo NQ 19). Nội dung KH: bản kê khai hóa chất được phép kê theo **nhóm hóa chất có cùng phân loại nguy hiểm** (mục 4 Chương 1 phần B, mục 3 Chương 1 phần C Phụ lục II TT 02 sửa bởi k2 Đ23 TT 26).
 - BP đã ban hành nay **vượt lên ngưỡng KH** → phải xây dựng KH, trình thẩm định, phê duyệt (khoản 7 Điều 36; chuyển tiếp trước **31/12/2026** — Điều 40 NĐ 25).
 
 ## 9. Kế hoạch phòng ngừa cấp tỉnh (Điều 42 Luật; Điều 37 NĐ 25)

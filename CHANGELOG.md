@@ -1,3 +1,8 @@
+## 12/10/2026 — dacn-sct-vn 1.9.0: CV 10349/UBND-KT theo dõi SXKD doanh nghiệp hằng tháng; GCN ĐKĐT điều chỉnh lần 5 Nhà máy bao bì thùng phuy KCN Tằng Loỏng
+
+- **dacn-sct-vn 1.9.0** — ref 15 (mới): **CV 10349/UBND-KT ngày 09/10/2026** của Chủ tịch UBND tỉnh Nguyễn Tuấn Anh — Sở Công Thương chủ trì theo dõi, nắm bắt tình hình SXKD **37 DN công nghiệp + 41 DN thương mại** (Phụ lục), gửi **Thống kê tỉnh + Sở Tài chính trước ngày 10 hằng tháng** (Thống kê tỉnh tổng hợp trước ngày 12; cấp bách báo ngay); không phát sinh TTHC, ưu tiên CSDL sẵn có. Ref 08 + sổ dự án **CBCT-082**: **GCN ĐKĐT 8280788124 điều chỉnh lần 5 ngày 09/10/2026** (BQL Khu kinh tế; căn cứ VB 10320/UBND-KT) — Công ty TNHH SX&XNK Bao Bì, Lô CN3 KCN Tằng Loỏng, 300.000 thùng phuy/năm, 16,133 tỷ, bổ sung 600 m² nhà xưởng vận hành Quý III/2027 (khép vụ 4639/SCT-KH 03/8/2026 ở kccn ref 26). Hai tệp gốc Bạn gửi trong phiên lưu `van-ban-goc/` kèm `.txt` (CV 10349 bản quét 4,6 MB → export-ignore; máy phiên không có tesseract nên bản `.txt` do Claude đọc ảnh gõ lại, số 10349 và ngày 09 khớp trường điền điện tử).
+- ⚠️ Ký hiệu CV: trang ký ghi UBND-KT, trang Phụ lục in UBND-TH — dùng **10349/UBND-KT**.
+
 ## 12/10/2026 — Nạp 23 văn bản pháp luật công khai từ lượt quét Data360X 10/10/2026 vào sổ đăng ký; vbhc-vn 2.28.3
 
 - `registry/trang-thai.csv` + `vbhc-vn/skills/vbhc-vn/data/vbpl.json` (155 → 178 văn bản) qua `nap_vbpl_data360x.py`: QĐ 3725/QĐ-UBND (điều chỉnh CCN Phú Thịnh 1), QĐ 80, 81, 84, 86/2026/QĐ-UBND, QĐ 2469/QĐ-BCT, QĐ 177, 178/QĐ-BQL, 11 QĐ quy chế vận hành liên hồ chứa và các QĐ-UBND khác. Ngày hiệu lực để trống, chưa đối chiếu bản gốc.

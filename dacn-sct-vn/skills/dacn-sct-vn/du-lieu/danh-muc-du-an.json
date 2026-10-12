@@ -8,9 +8,9 @@
   "Trường nhom và nganh_cap_2 do phân loại tự động theo từ khoá tên dự án - cần rà soát thủ công, đặc biệt nhóm chế biến bột đá CaCO3 (ranh giới giữa CBCT và KS ảnh hưởng trực tiếp tới chỉ tiêu 4)."
  ],
  "_canh_bao_han_dung": "SỐ LIỆU ĐỘNG, CHỈ ĐÚNG TẠI KỲ GHI Ở _ky_so_lieu. Trước mỗi kỳ báo cáo phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý các Khu công nghiệp tỉnh và Ban Quản lý Khu kinh tế tỉnh. Không viện dẫn trực tiếp vào văn bản phát hành nếu chưa đối chiếu kỳ hiện hành.",
- "_pham_vi": "Gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu) và - từ 16/9/2026 - dự án thứ cấp trong CCN được ghi nhận lẻ khi có quyết định chủ trương đầu tư (hiện có 01: CBCT-081, CCN Khánh Yên Thượng). CHƯA gồm: dự án trong các KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, các dự án CCN còn lại, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
+ "_pham_vi": "Gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu) và - từ 16/9/2026 - dự án thứ cấp trong CCN được ghi nhận lẻ khi có quyết định chủ trương đầu tư (hiện có 01: CBCT-081, CCN Khánh Yên Thượng). Từ 12/10/2026 ghi nhận lẻ dự án thứ cấp trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý khi có GCN ĐKĐT (hiện có 01: CBCT-082, KCN Tằng Loỏng). CHƯA gồm: các dự án còn lại trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, các dự án CCN còn lại, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
  "_ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
- "_ngay_cap_nhat": "2026-09-16",
+ "_ngay_cap_nhat": "2026-10-12",
  "_nguoi_cap_nhat": "",
  "du_an": [
   {
@@ -4674,6 +4674,58 @@
     "nguoi_cap_nhat": ""
    },
    "ghi_chu": "Dự án THỨ CẤP trong cụm công nghiệp - bản ghi CCN đầu tiên của sổ này (xem _pham_vi). Số và ngày của QĐ 3319 đọc từ TRƯỜNG KÝ SỐ (lớp text của PDF để trống toàn bộ ô số/ngày) - đã chạy GATE extract_metadata.py; Phó Chủ tịch ký 15/9/2026 19:14, văn thư điền số 15/9/2026 21:50. Nội dung điều chỉnh: (1) bổ sung tổ chức kinh tế thực hiện dự án là Công ty TNHH Công nghiệp Văn Bảo, được kế thừa quyền, nghĩa vụ của nhà đầu tư và được giao đất, cho thuê đất; (2) bãi bỏ gạch đầu dòng thứ 2 khoản 1 Điều 2 QĐ 2428. THIẾU DỮ LIỆU: tổng mức đầu tư, diện tích, công suất, tiến độ, lao động - đều nằm ở QĐ 2428/QĐ-UBND ngày 14/7/2026, kho CHƯA có bản gốc. KHÔNG suy đoán, KHÔNG đưa vào báo cáo phát hành phần quy mô cho tới khi có QĐ 2428. Trạng thái CT (đã có chủ trương đầu tư) - chỉ đóng góp chỉ tiêu vốn đầu tư, KHÔNG tính vào sản lượng/IIP. Chỉ tiêu tác động là suy từ quy tắc reference 03 mục V theo ngành da giày xuất khẩu, chưa đối chiếu số liệu thực tế."
+  },
+  {
+   "ma": "CBCT-082",
+   "ten": "Nhà máy sản xuất bao bì thùng phuy sắt mạ kẽm đựng phốt pho xuất khẩu",
+   "chu_dau_tu": "Công ty TNHH sản xuất và xuất nhập khẩu Bao Bì (GCN ĐKDN 5300233269 cấp lần đầu 22/11/2006, đăng ký thay đổi lần 5 ngày 10/6/2026, Sở Tài chính tỉnh Lào Cai cấp; trụ sở KCN Tằng Loỏng; người đại diện theo pháp luật: Giám đốc Phạm Huy Phong)",
+   "ma_so_thue": "5300233269",
+   "vi_tri": {
+    "xa_phuong": "Xã Tằng Loỏng",
+    "kcn_ccn": "KCN Tằng Loỏng (một phần Lô đất CN3) — KCN do Ban Quản lý Khu kinh tế tỉnh quản lý",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo (bao bì kim loại — thùng phuy sắt mạ kẽm đựng phốt pho vàng xuất khẩu)",
+   "trang_thai": "MR",
+   "phap_ly": {
+    "loai_van_ban": "Giấy chứng nhận đăng ký đầu tư — chứng nhận điều chỉnh lần thứ 05 (điều chỉnh thông tin nhà đầu tư, quy mô, địa điểm, tổng vốn, nguồn vốn, tiến độ); thay thế GCN hiệu đính lần 4 ngày 20/01/2025",
+    "so_van_ban": "Mã số dự án 8280788124 (chứng nhận lần đầu 01/3/2006; điều chỉnh lần 1 ngày 21/9/2012; lần 2 ngày 05/6/2019; lần 3 ngày 29/11/2019; hiệu đính lần 4 ngày 20/01/2025; điều chỉnh lần 5 ngày 09/10/2026)",
+    "ngay_van_ban": "2026-10-09",
+    "co_quan_cap": "Ban Quản lý Khu kinh tế tỉnh Lào Cai (Trưởng ban Vương Trinh Quốc ký); chủ trương điều chỉnh: Văn bản 10320/UBND-KT ngày 09/10/2026 của UBND tỉnh; thẩm định: Báo cáo 51/QHXD ngày 09/10/2026 của Phòng Quản lý Quy hoạch, Xây dựng và Đầu tư"
+   },
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 16.132868,
+    "von_tu_co_ty_dong": 11.482868,
+    "von_vay_ty_dong": 4.65,
+    "dien_tich_dat_m2": 16444,
+    "dien_tich_xay_dung_m2": 7070.46,
+    "mat_do_xay_dung_pct": 42.99,
+    "cong_suat_thiet_ke": "300.000 sản phẩm thùng phuy/năm (từ tháng 6/2019)",
+    "lao_dong": "50-80 lao động địa phương, thu nhập bình quân 8,5 triệu đồng/người/tháng",
+    "doanh_thu_du_kien_ty_dong_nam": 90,
+    "nop_nsnn_du_kien_ty_dong_nam": 3,
+    "thoi_han_du_an": "50 năm kể từ 01/3/2006",
+    "tien_do": "XDCB 2006, hoạt động ổn định từ 2007; nâng công suất 300.000 thùng/năm từ 6/2019; cải tạo nhà điều hành 11/2019-9/2020; BỔ SUNG khoảng 600 m² nhà xưởng sản xuất bao bì: chuẩn bị đầu tư, thủ tục xây dựng Quý III-IV/2026; thi công Quý I-II/2027; nghiệm thu đưa vào hoạt động Quý III/2027"
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4",
+     "5",
+     "7",
+     "11"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Giấy chứng nhận đăng ký đầu tư mã số 8280788124, chứng nhận điều chỉnh lần thứ 05 ngày 09/10/2026 của Ban Quản lý Khu kinh tế tỉnh Lào Cai (bản gốc: van-ban-goc/2026.10.09-8280788124.GCNDKDT-Dieu-chinh-lan-5-Bao-Bi-thung-phuy-KCN-Tang-Loong.pdf + .txt); căn cứ Văn bản 10320/UBND-KT ngày 09/10/2026. Chi tiết: reference 08 mục 3; vụ việc góp ý của Sở: kccn-sct-vn reference 26 (4639/SCT-KH ngày 03/8/2026)",
+    "ky_so_lieu": "đến 09/10/2026 (ngày cấp GCN điều chỉnh lần 5)",
+    "ngay_cap_nhat": "2026-10-12",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Dự án THỨ CẤP trong KCN Tằng Loỏng — bản ghi đầu tiên của khối KCN do Ban Quản lý KHU KINH TẾ tỉnh quản lý (xem _pham_vi). Số, ngày, nội dung đọc từ lớp chữ PDF (pdftotext, văn bản soạn Word, không phải ký số trường rời). Trạng thái MR: nhà máy đã hoạt động từ 2007 (tính vào sản lượng/IIP) và đang mở rộng 600 m² nhà xưởng (tính vào vốn đầu tư) — sản lượng THỰC HIỆN là số động, chưa có; đóng góp tăng trưởng là mục tiêu ghi trong GCN (doanh thu 90 tỷ, NSNN 3 tỷ), không phải số thực hiện. Sản phẩm phục vụ xuất khẩu phốt pho vàng → phụ thuộc đầu ra của Đức Giang, Phốt pho Việt Nam, Phốt pho Vàng Lào Cai (ref 08, 12: hóa chất giảm 19,01% 9 tháng 2026). DN KHÔNG có trong danh sách 37 DN công nghiệp giao Sở theo dõi tại CV 10349/UBND-KT ngày 09/10/2026 (ref 15) — cân nhắc khi đề xuất bổ sung. GCN có dữ liệu cá nhân của người đại diện (ngày sinh, mã định danh, điện thoại) — không đưa vào báo cáo, văn bản phát hành."
   }
  ]
 }

@@ -78,6 +78,6 @@ Mục IV chỉ áp dụng cho kho đã đưa vào khai thác, sử dụng; khôn
 
 3. Thay đổi trong quá trình thực hiện. Khi thay đổi quy mô, vị trí, kết cấu, công năng, sức chứa của kho, doanh nghiệp tạm dừng phần thay đổi, thực hiện thủ tục điều chỉnh và chỉ triển khai sau khi được cơ quan có thẩm quyền chấp thuận.
 
-4. Hồ sơ thủ tục hành chính về vật liệu nổ công nghiệp nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/.
+4. Hồ sơ thủ tục hành chính về vật liệu nổ công nghiệp nộp trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/.
 
 Doanh nghiệp chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ, tài liệu cung cấp cho cơ quan nhà nước. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Sở Công Thương (qua Phòng Quản lý công nghiệp) để được xem xét, giải quyết./.

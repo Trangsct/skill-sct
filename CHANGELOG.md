@@ -1,3 +1,9 @@
+## 12/10/2026 (lần 2) — Sửa tên nơi nộp hồ sơ TTHC: "Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương"; nâng patch 07 plugin
+
+- Bạn chốt 12/10/2026 (đối chiếu giao diện https://motcua-tthc.moit.gov.vn/): tên đúng là **Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương**, không phải "Cổng dịch vụ công một cửa Bộ Công Thương". Thay ở 22 tệp tài liệu, mẫu văn bản, tiêu chí kiểm thử; CHANGELOG cũ và ví dụ thực tế đã phát hành giữ nguyên làm lịch sử.
+- `scripts/check_facts.py`: rule mới `ten-he-thong-tthc-bct` (FAIL); rule `noi-nop-dvcqg` thu hẹp chỉ chặn hệ thống giải quyết TTHC của tỉnh (trước đó chặn cả cụm "Hệ thống thông tin giải quyết" ở dòng Nơi nộp).
+- Phiên bản: attp 1.6.2, hc 1.4.1, hl-vlncn 1.4.8, hnh 1.11.5, kho-vlncn 1.12.4, sd-vlncn 2026.10.12, vbhc 2.28.4.
+
 ## 12/10/2026 — Nạp 23 văn bản pháp luật công khai từ lượt quét Data360X 10/10/2026 vào sổ đăng ký; vbhc-vn 2.28.3
 
 - `registry/trang-thai.csv` + `vbhc-vn/skills/vbhc-vn/data/vbpl.json` (155 → 178 văn bản) qua `nap_vbpl_data360x.py`: QĐ 3725/QĐ-UBND (điều chỉnh CCN Phú Thịnh 1), QĐ 80, 81, 84, 86/2026/QĐ-UBND, QĐ 2469/QĐ-BCT, QĐ 177, 178/QĐ-BQL, 11 QĐ quy chế vận hành liên hồ chứa và các QĐ-UBND khác. Ngày hiệu lực để trống, chưa đối chiếu bản gốc.

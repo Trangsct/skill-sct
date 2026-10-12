@@ -4,7 +4,7 @@
 
 
 1. **Số lượng hồ sơ: 01 bộ** cho mọi thủ tục (cấp mới, điều chỉnh, cấp lại).
-2. **Hình thức nộp:** nộp trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ — nơi nộp DUY NHẤT của mọi TTHC Sở (Bạn chốt lại 02/9/2026; DN đăng nhập VNeID). Phòng chuyên môn thụ lý: **Phòng Quản lý Công nghiệp (QLCN)**. KHÔNG ghi Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Hệ thống TTGQ TTHC tỉnh" trong văn bản gửi doanh nghiệp (nghị định liệt kê các kênh này chỉ là khung chung).
+2. **Hình thức nộp:** nộp trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ — nơi nộp DUY NHẤT của mọi TTHC Sở (Bạn chốt lại 02/9/2026; DN đăng nhập VNeID). Phòng chuyên môn thụ lý: **Phòng Quản lý Công nghiệp (QLCN)**. KHÔNG ghi Trung tâm Phục vụ hành chính công, bưu chính, trực tiếp, "Hệ thống TTGQ TTHC tỉnh" trong văn bản gửi doanh nghiệp (nghị định liệt kê các kênh này chỉ là khung chung). Tên gọi đúng theo giao diện hệ thống là "Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương" (Bạn chốt 12/10/2026) - KHÔNG ghi "Cổng dịch vụ công một cửa".
 3. **Thời hạn giải quyết** (kể từ ngày nhận đủ hồ sơ hợp lệ): cấp mới 05 ngày làm việc; cấp điều chỉnh 03 ngày làm việc; cấp lại (do mất, hỏng) 02 ngày làm việc. Riêng đường sắt: 03 ngày làm việc.
 4. **Hồ sơ thiếu/sai:** nếu nộp trực tiếp thì hướng dẫn hoàn thiện ngay; nếu nộp qua bưu chính/trực tuyến thì trong 01 ngày làm việc phải thông báo bằng văn bản hoặc qua hệ thống để bổ sung. Mọi yêu cầu sửa đổi, bổ sung phải bằng văn bản.
 5. **Từ chối cấp phép phải trả lời bằng văn bản nêu rõ lý do** (hoặc thông báo qua hệ thống dịch vụ công trực tuyến).

@@ -70,9 +70,10 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
    Phòng `Lưu: CN.`. `build_vb.py` và `TemplateDoc.save()` tự bỏ tên còn sót trong mẫu thật cũ; R07 WARN nếu còn tên.
 7. **PDF văn bản đến: chạy `scripts/extract_metadata.py` TRƯỚC khi dẫn số/ngày.** Ô số/ngày
    trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "chưa cấp số" hay "bản dự thảo".
-8. **Nơi nộp hồ sơ TTHC = Cổng dịch vụ công một cửa Bộ Công Thương**
+8. **Nơi nộp hồ sơ TTHC = Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương**
    `https://motcua-tthc.moit.gov.vn/` — nơi nộp DUY NHẤT, không ghi Trung tâm Phục vụ hành chính
-   công dưới bất kỳ hình thức nào.
+   công dưới bất kỳ hình thức nào. Tên đúng theo giao diện hệ thống (Bạn chốt 12/10/2026);
+   KHÔNG ghi "Cổng dịch vụ công một cửa".
 9. **Mọi lệnh replace là bắt buộc khớp, thất bại phải nổ to** — không bọc try/except nuốt lỗi.
 10. **Tên file**: `YYYY.MM.DD. Tên văn bản đầy đủ tiếng Việt có dấu.docx`.
 

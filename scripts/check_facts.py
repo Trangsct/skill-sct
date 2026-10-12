@@ -371,7 +371,7 @@ RULES = [
     {
         "id": "noi-nop-pvhcc",
         "pattern": r"(đầu mối (tiếp nhận|nộp hồ sơ)[^.\n]{0,40}Trung tâm Phục vụ hành chính công|nộp (trực tiếp )?tại Trung tâm Phục vụ hành chính công|qua Trung tâm Phục vụ hành chính công tỉnh\) để được xem xét)",
-        "why": "Nơi nộp TTHC ghi Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (quy ước 02/8/2026); Trung tâm PVHCC chỉ nêu là kênh phụ.",
+        "why": "Nơi nộp TTHC ghi Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (quy ước 02/8/2026); Trung tâm PVHCC chỉ nêu là kênh phụ.",
         "since": "2026-08-02",
         "level": "FAIL",
     },
@@ -383,8 +383,16 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "ten-he-thong-tthc-bct",
+        # Giao diện https://motcua-tthc.moit.gov.vn/ ghi "Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương"
+        "pattern": r"Cổng (dịch vụ công|DVC) một cửa( Bộ Công Thương)?",
+        "why": "Tên đúng của https://motcua-tthc.moit.gov.vn/ là 'Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương', không phải 'Cổng dịch vụ công một cửa' (Bạn chốt 12/10/2026).",
+        "since": "2026-10-12",
+        "level": "FAIL",
+    },
+    {
         "id": "noi-nop-dvcqg",
-        "pattern": r"(nộp (hồ sơ )?(trên|qua|tại) Cổng (Dịch vụ công [Qq]uốc gia|DVC( quốc gia)?\b)|Nơi nộp[^\n]{0,40}(Hệ thống (thông tin giải quyết|TTGQ)|bưu chính))",
+        "pattern": r"(nộp (hồ sơ )?(trên|qua|tại) Cổng (Dịch vụ công [Qq]uốc gia|DVC( quốc gia)?\b)|Nơi nộp[^\n]{0,40}(Hệ thống (thông tin giải quyết thủ tục hành chính|thông tin giải quyết TTHC|TTGQ TTHC|TTGQ)( của| cấp)? tỉnh|bưu chính))",
         "why": "Không hướng dẫn DN nộp qua Cổng DVCQG; ghi https://motcua-tthc.moit.gov.vn/ (trích dẫn nguyên văn luật thì thêm chữ 'theo luật' hoặc để trong ngoặc kép).",
         "since": "2026-08-02",
         "level": "FAIL",

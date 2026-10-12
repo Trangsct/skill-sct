@@ -7,7 +7,7 @@
 #
 # NHÁP do Claude Code soạn 16/9/2026 — chờ Bạn duyệt và chỉnh.
 
-require: Cổng dịch vụ công một cửa Bộ Công Thương
+require: Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương
 require: https://motcua-tthc.moit.gov.vn/
 require: Kính gửi
 forbid: đề nghị liên hệ Phòng

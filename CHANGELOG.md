@@ -1,3 +1,8 @@
+## 12/10/2026 — Nạp 23 văn bản pháp luật công khai từ lượt quét Data360X 10/10/2026 vào sổ đăng ký; vbhc-vn 2.28.3
+
+- `registry/trang-thai.csv` + `vbhc-vn/skills/vbhc-vn/data/vbpl.json` (155 → 178 văn bản) qua `nap_vbpl_data360x.py`: QĐ 3725/QĐ-UBND (điều chỉnh CCN Phú Thịnh 1), QĐ 80, 81, 84, 86/2026/QĐ-UBND, QĐ 2469/QĐ-BCT, QĐ 177, 178/QĐ-BQL, 11 QĐ quy chế vận hành liên hồ chứa và các QĐ-UBND khác. Ngày hiệu lực để trống, chưa đối chiếu bản gốc.
+- Dây chuyền: bot đã gỡ dấu "đã gom" cho 111 văn bản chạm trần (10/10); đã ra lệnh lượt *Quet Data360X (may co quan)* 45 ngày để lấy lại — chờ máy ở Lào Cai bật.
+
 ## 10/10/2026 — Cập nhật 07 plugin từ bản tin Data360X 10/10/2026 (bot quét 738 văn bản từ 28/9, tải 30 tệp): kccn 1.50.0, qlks 2.2.0, sct-laocai-org 2.7.0, hc 1.4.0, dacn 1.8.0, quy-hoach-ct 1.5.0, hl-vlncn 1.4.7
 
 - **kccn-sct-vn 1.50.0** — ref 46: kết luận Chủ tịch UBND tỉnh về các CCN (**TB 181/TB-VPUBND 08/10/2026**: cam kết tiến độ 09 CĐT; 08 cụm NSNN trình trước 15/10; trang thông tin KCN/CCN tích hợp AI; sửa Quy chế CCN Quý IV; khu TĐC cách KCN/CCN trên 1,5 km; Minh Quân, Y Can khởi công tháng 11/2026); **QĐ 3725/QĐ-UBND 09/10/2026** điều chỉnh CCN Phú Thịnh 1 (địa điểm, bổ sung giấy công nghệ cao, hợp kim nhôm; tiến độ 03 giai đoạn); mẫu trả lời miễn tiền thuê đất Thống Nhất 1 (CV 6468/SCT-CN; **QĐ 2167/QĐ-UBND 23/6/2026 thay QĐ 1894 về địa bàn ưu đãi**); tiêu chí Tân Hợp; mục lục việc tuần.

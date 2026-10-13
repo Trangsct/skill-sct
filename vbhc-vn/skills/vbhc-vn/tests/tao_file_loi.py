@@ -274,4 +274,62 @@ tab = OxmlElement('w:tab'); r._r.insert(1 if r._r.rPr is not None else 0, tab)
 d.save(str(p))
 ghi_expect(p, ['R18 WARN'], 'Chèn một ký tự tab vào đầu đề mục "II. KHÓ KHĂN, VƯỚNG MẮC"; các đề mục I, III giữ nguyên.')
 
+# ── R19–R22 (Bạn chốt 13/10/2026, vụ 3 công văn hoàn thiện hồ sơ HHNH ký số lỗi) ──────────
+sys.path.insert(0, str(Path('scripts').resolve()))
+from chuan_hoa_xuat_ban import chuan_hoa_file  # noqa: E402
+
+# R19: chuẩn hóa phông về Times New Roman rồi cài lại .VnTime vào kiểu Normal (đúng lỗi gặp thật).
+p = sao('sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx', 'r19-phong-vntime-kieu-normal.docx')
+chuan_hoa_file(p, chi_phong=True)
+d = Document(str(p))
+rpr = d.styles['Normal'].element.get_or_add_rPr()
+rf = rpr.find(_qn('w:rFonts'))
+if rf is None:
+    rf = OxmlElement('w:rFonts'); rpr.insert(0, rf)
+rf.set(_qn('w:ascii'), '.VnTime'); rf.set(_qn('w:hAnsi'), '.VnTime')
+d.save(str(p))
+ghi_expect(p, ['R19 WARN'], 'Chuẩn hóa phông về Times New Roman rồi đặt lại phông .VnTime cho kiểu Normal.')
+
+# R20: dòng "- Như trên;" của Nơi nhận đặt cỡ 12.
+p = sao('sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx', 'r20-noi-nhan-co-12.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('- Như trên'))
+if q is None: sys.exit('R20: không tìm được dòng "- Như trên"')
+from docx.shared import Pt
+for r in q.runs:
+    r.font.size = Pt(12)
+d.save(str(p))
+ghi_expect(p, ['R20 WARN'], 'Đặt cỡ 12 cho dòng "- Như trên;" trong khối Nơi nhận (chuẩn: cỡ 11).')
+
+# R21: đoạn trống trước bảng Nơi nhận - ký thu nhỏ còn cỡ 2 (đoạn "đệm" nhìn như dính sát).
+p = sao('sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx', 'r21-khoi-ky-dinh-sat-than.docx')
+d = Document(str(p))
+body = d.element.body
+ky = d.tables[-1]._tbl
+kids = list(body)
+truoc = kids[kids.index(ky) - 1]
+if truoc.tag != _qn('w:p') or ''.join(truoc.itertext()).strip():
+    sys.exit('R21: trước bảng ký không phải đoạn trống')
+ppr = truoc.find(_qn('w:pPr'))
+if ppr is None:
+    ppr = OxmlElement('w:pPr'); truoc.insert(0, ppr)
+rpr = ppr.find(_qn('w:rPr'))
+if rpr is None:
+    rpr = OxmlElement('w:rPr'); ppr.append(rpr)
+for el in rpr.findall(_qn('w:sz')):
+    rpr.remove(el)
+sz = OxmlElement('w:sz'); sz.set(_qn('w:val'), '4'); rpr.append(sz)
+d.save(str(p))
+ghi_expect(p, ['R21 WARN'], 'Thu đoạn trống trước bảng Nơi nhận - ký về cỡ 2 (chuẩn: một dòng cỡ 14).')
+
+# R22: văn bản thủ tục hành chính (hoàn thiện hồ sơ) gửi thêm "Ban Giám đốc Sở".
+p = sao('sct/cong-van-de-nghi-bo-sung-ho-so.docx', 'r22-tthc-gui-ban-giam-doc.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('- Lưu'))
+if q is None: sys.exit('R22: không tìm được dòng Lưu')
+moi = deepcopy(q._p); q._p.addprevious(moi)
+dat_text(Paragraph(moi, q._parent), '- Ban Giám đốc Sở;')
+d.save(str(p))
+ghi_expect(p, ['R22 FAIL'], 'Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của công văn hoàn thiện hồ sơ thủ tục hành chính.')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

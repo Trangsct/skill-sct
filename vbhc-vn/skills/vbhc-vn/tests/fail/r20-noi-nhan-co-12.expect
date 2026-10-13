@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đặt cỡ 12 cho dòng "- Như trên;" trong khối Nơi nhận (chuẩn: cỡ 11).
+nguon: examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx
+R20 WARN

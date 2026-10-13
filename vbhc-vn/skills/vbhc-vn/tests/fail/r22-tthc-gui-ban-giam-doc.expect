@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của công văn hoàn thiện hồ sơ thủ tục hành chính.
+nguon: examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx
+R22 FAIL

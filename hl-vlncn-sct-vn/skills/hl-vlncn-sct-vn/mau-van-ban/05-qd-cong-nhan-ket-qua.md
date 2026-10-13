@@ -57,7 +57,6 @@ Quyết định có hiệu lực kể từ ngày ký./.
 
 Nơi nhận:                                        GIÁM ĐỐC
 - Như Điều 3;
-- Ban Giám đốc Sở;
 - Lưu: VT, CN.                          [Hoàng Chí Hiền]
 ```
 

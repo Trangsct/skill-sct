@@ -75,6 +75,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
    công dưới bất kỳ hình thức nào.
 9. **Mọi lệnh replace là bắt buộc khớp, thất bại phải nổ to** — không bọc try/except nuốt lỗi.
 10. **Tên file**: `YYYY.MM.DD. Tên văn bản đầy đủ tiếng Việt có dấu.docx`.
+11. **Trước khi xuất file chạy `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx` (thêm `--tthc` với văn bản thủ tục hành chính)** rồi `qa_all.py --final` (Bạn chốt 13/10/2026): (a) quét TOÀN BỘ phông về Times New Roman, kể cả kiểu Normal, số trang, theme — mẫu thật cũ còn `.VnTime` ẩn, hệ thống quản lý văn bản mới chuyển PDF để ký số có thể lỗi; (b) các dòng Nơi nhận cỡ 11 ("Nơi nhận:" cỡ 12); (c) khối Nơi nhận - ký cách thân đúng 1 dòng trống cỡ 14; (d) văn bản thủ tục hành chính không gửi "Ban Giám đốc Sở". Máy kiểm R19–R22. `TemplateDoc.save()` và `build_vb.py` tự chạy bước này. Trình trên hệ thống: mục Dự thảo chỉ để tệp công văn (.docx/.pdf), không để tệp nén .rar/.zip bộ hồ sơ.
 
 ## QA — chạy gì, khi nào
 
@@ -83,14 +84,15 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
-| Chỉ bộ quy tắc R01–R18, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chỉ bộ quy tắc R01–R22, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chuẩn hóa trước khi xuất: phông, Nơi nhận cỡ 11, 1 dòng trước khối ký (Quy tắc 11) | `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx [--tthc]` |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
 | Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
 | Đọc số/ngày/người ký từ PDF văn bản đến | `python3 scripts/extract_metadata.py <file>.pdf` |
 | File .docx cơ quan khác gửi đến — gỡ định dạng ẩn (Nhóm N) | `python3 scripts/normalize_body.py <file>.docx --check` rồi `... <file>.docx` |
 | Hợp đồng, phụ lục hợp đồng, văn bản dài — căn trang (Quy tắc 28) | `python3 scripts/fit_pages.py sweep <file>.docx` rồi `apply <pt>` |
 
-`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R18 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R22 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
@@ -108,7 +110,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |

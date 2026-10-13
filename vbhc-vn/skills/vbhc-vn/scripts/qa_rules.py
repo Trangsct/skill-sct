@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.24.0).
+"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.30.0).
 
 Mỗi quy tắc là một hàm `rule_Rnn(doc, ctx)` trả về danh sách `Finding`.
 Docstring của mỗi hàm ghi: mã quy tắc, nội dung quy tắc, nguồn, mức FAIL/WARN.
@@ -47,7 +47,7 @@ FAIL = "FAIL"
 WARN = "WARN"
 
 # Các mã thuộc "nhóm hoàn thiện": WARN khi soạn dở, FAIL khi Bạn yêu cầu bản xuất bản.
-NHOM_HOAN_THIEN = {"R03"}
+NHOM_HOAN_THIEN = {"R03", "R19", "R20", "R21"}
 
 MAX_EXCERPT = 80
 
@@ -594,7 +594,7 @@ def rule_R06(doc, ctx) -> list[Finding]:
         out.append(Finding(
             "R06", FAIL, loc0, cut(dong0),
             "Doanh nghiệp không được đứng dòng đầu Nơi nhận — thứ tự chuẩn: UBND tỉnh (b/c); "
-            "cơ quan phối hợp; TT Phục vụ HCC; Ban Giám đốc Sở; doanh nghiệp; Lưu.",
+            "cơ quan phối hợp; Ban Giám đốc Sở (trừ văn bản thủ tục hành chính — R22); doanh nghiệp; Lưu.",
         ))
     loc_c, dong_c = khoi[-1]
     if not re.match(r"^-?\s*Lưu\s*:", dong_c):
@@ -1086,6 +1086,192 @@ def rule_R18(doc, ctx) -> list[Finding]:
             for loc, p in co_tab]
 
 
+# ─────────────── R19–R22: chuẩn xuất bản (Bạn chốt 13/10/2026) ───────────────
+# Vụ 13/10/2026: 3 công văn hoàn thiện hồ sơ vận chuyển HHNH (Toàn Phát TQ, An Bình, Tân Phúc
+# Hưng) trình trên hệ thống quản lý văn bản mới, PGĐ ký số báo lỗi. Rà lại: kiểu Normal và số
+# trang còn phông .VnTime (TCVN3) kế thừa từ mẫu cũ; dòng Nơi nhận cỡ 12; khối ký dính sát thân
+# văn bản (đoạn đệm 1–7 pt); văn bản thủ tục hành chính vẫn gửi "Ban Giám đốc Sở".
+# Sửa tự động: scripts/chuan_hoa_xuat_ban.py (fill_template.save() và build_vb.py đã gọi sẵn).
+
+PHONG_CHUAN = "Times New Roman"
+PHONG_KY_HIEU_OK = re.compile(r"^(Symbol|Wingdings.*|Webdings)$")
+PHAN_PHONG = re.compile(r"word/(document|styles|header\d*|footer\d*|footnotes|endnotes)\.xml$")
+
+
+def rule_R19(doc, ctx) -> list[Finding]:
+    """R19 — Toàn bộ file chỉ dùng phông Times New Roman.
+
+    Quy tắc: trước khi xuất file phải quét TOÀN BỘ phông — thân, kiểu (Normal, Header, Footer…),
+    docDefaults, đầu/chân trang (số trang), chú thích, phông giao diện (theme). Không còn .VnTime,
+    .VnTimeH (TCVN3), Arial, Calibri, Cambria, Segoe UI, Courier… Phông ký hiệu Symbol, Wingdings
+    được giữ. Sửa: python3 scripts/chuan_hoa_xuat_ban.py <file> --chi-phong.
+    Nguồn: Bạn chốt 13/10/2026 "nguyên tắc trước khi xuất file phải quét toàn bộ đúng phông chữ".
+    Mức: WARN (mẫu thật cũ còn phông lạ trong kiểu chữ ẩn) — thành FAIL khi chạy --final.
+    """
+    muc = FAIL if ctx.final else WARN
+    la: dict[str, set[str]] = {}
+    with zipfile.ZipFile(ctx.path) as z:
+        for n in z.namelist():
+            if PHAN_PHONG.match(n):
+                x = z.read(n).decode("utf-8", "replace")
+                for attrs in re.findall(r"<w:rFonts\b([^>]*)/>", x):
+                    for _, v in re.findall(r'w:(ascii|hAnsi|eastAsia|cs)="([^"]+)"', attrs):
+                        if v != PHONG_CHUAN and not PHONG_KY_HIEU_OK.match(v):
+                            la.setdefault(v, set()).add(n.split("/")[-1])
+            elif n == "word/theme/theme1.xml":
+                x = z.read(n).decode("utf-8", "replace")
+                for v in re.findall(r'<a:latin typeface="([^"]*)"', x):
+                    if v and v != PHONG_CHUAN:
+                        la.setdefault(v, set()).add("theme1.xml")
+    return [Finding("R19", muc, ", ".join(sorted(noi)), f"phông '{ten}'",
+                    "Đổi toàn bộ về Times New Roman (kể cả kiểu chữ, số trang, theme): "
+                    "python3 scripts/chuan_hoa_xuat_ban.py <file> --chi-phong")
+            for ten, noi in sorted(la.items())]
+
+
+def _co_chu(run, p, doc) -> float | None:
+    """Cỡ chữ hiển thị (pt) của run: run → kiểu ký tự → kiểu đoạn → docDefaults."""
+    if run is not None and run.font.size is not None:
+        return run.font.size.pt
+    st = p.style
+    while st is not None:
+        if st.font.size is not None:
+            return st.font.size.pt
+        st = st.base_style
+    try:
+        sz = doc.styles.element.find(qn("w:docDefaults")).find(qn("w:rPrDefault")) \
+            .find(qn("w:rPr")).find(qn("w:sz"))
+        return int(sz.get(qn("w:val"))) / 2
+    except AttributeError:
+        return None
+
+
+def _co_dau_doan(p, doc) -> float | None:
+    ppr = p._p.pPr
+    if ppr is not None:
+        rpr = ppr.find(qn("w:rPr"))
+        if rpr is not None and rpr.find(qn("w:sz")) is not None:
+            return int(rpr.find(qn("w:sz")).get(qn("w:val"))) / 2
+    return _co_chu(None, p, doc)
+
+
+def _o_noi_nhan(doc):
+    for t in doc.tables:
+        for row in t.rows:
+            for c in row.cells:
+                if any(re.match(r"^\s*Nơi\s+nhận", nfc(p.text)) for p in c.paragraphs):
+                    return t, c
+    return None, None
+
+
+def rule_R20(doc, ctx) -> list[Finding]:
+    """R20 — Cỡ chữ khối Nơi nhận: các dòng "- …" cỡ 11.
+
+    Quy tắc: "Nơi nhận:" cỡ 12 (đậm, nghiêng); tên cơ quan, đơn vị nhận ("- Như trên;",
+    "- Sở …;", "- Lưu: VT, CN.") cỡ 11 — để 12 là sai (NĐ 30/2020 Phụ lục I ô số 9b).
+    Nguồn: Bạn chốt 13/10/2026 "các cơ quan ở nơi nhận chữ 11, mà bạn lại để 12 là sai".
+    Mức: WARN (nhiều mẫu thật cũ để 12) — thành FAIL khi chạy --final.
+    """
+    muc = FAIL if ctx.final else WARN
+    _, o = _o_noi_nhan(doc)
+    if o is None:
+        return []
+    out: list[Finding] = []
+    for i, p in enumerate(o.paragraphs):
+        tx = nfc(p.text).strip()
+        if not tx.startswith("-"):
+            continue
+        co = {_co_chu(r, p, doc) for r in text_runs(p)}
+        sai = sorted(c for c in co if c is not None and abs(c - 11) > 0.01)
+        if sai:
+            out.append(Finding("R20", muc, f"ô Nơi nhận đoạn {i}", cut(tx),
+                               f"Dòng Nơi nhận đang cỡ {', '.join(f'{c:g}' for c in sai)} — phải cỡ 11 "
+                               f"(sửa: scripts/chuan_hoa_xuat_ban.py)."))
+    return out
+
+
+def rule_R21(doc, ctx) -> list[Finding]:
+    """R21 — Khối Nơi nhận - ký cách khối nội dung đúng MỘT dòng (cỡ 14).
+
+    Quy tắc: giữa đoạn cuối của thân văn bản và bảng Nơi nhận - chữ ký có đúng một đoạn trống,
+    cao bằng một dòng chữ thường (cỡ ≥ 12, không đặt giãn dòng cố định dưới 12 pt). Đoạn "đệm"
+    1–7 pt của mẫu cũ nhìn như dính sát — không tính là một dòng.
+    Nguồn: Quy tắc 22 / H13 (09/9/2026, 18/9/2026); Bạn nhắc lại 13/10/2026 "khối nơi nhận và
+    ký phải cách khối nội dung văn bản 1 dòng".
+    Mức: WARN (13 mẫu thật cũ có 0, 2 dòng hoặc đoạn đệm nhỏ) — thành FAIL khi chạy --final.
+    """
+    muc = FAIL if ctx.final else WARN
+    t, _ = _o_noi_nhan(doc)
+    if t is None:
+        return []
+    body = doc.element.body
+    tbl = t._tbl
+    if tbl.getparent() is not body:
+        return []
+    kids = list(body)
+    i = kids.index(tbl) - 1
+    trong = []
+    while i >= 0 and kids[i].tag == qn("w:p") and not _tt(kids[i]).strip():
+        trong.append(kids[i])
+        i -= 1
+    loc = "trước bảng Nơi nhận - ký"
+    if not trong:
+        return [Finding("R21", muc, loc, "(không có dòng trống)",
+                        "Thêm đúng một dòng trống cỡ 14 giữa thân văn bản và khối Nơi nhận - ký.")]
+    if len(trong) > 1:
+        return [Finding("R21", muc, loc, f"({len(trong)} đoạn trống)",
+                        "Chỉ giữ đúng một dòng trống cỡ 14 trước khối Nơi nhận - ký.")]
+    from docx.text.paragraph import Paragraph
+    p = Paragraph(trong[0], doc._body)
+    co = _co_dau_doan(p, doc)
+    sp = trong[0].find(".//" + qn("w:spacing"))
+    co_dinh = (sp is not None and sp.get(qn("w:lineRule")) == "exact"
+               and int(sp.get(qn("w:line"), "240")) < 240)
+    if (co is not None and co < 12) or co_dinh:
+        return [Finding("R21", muc, loc, f"(đoạn trống cỡ {co:g} pt)" if co else "(giãn dòng cố định nhỏ)",
+                        "Dòng trống trước khối ký quá thấp, nhìn như dính sát — đặt cỡ 14, giãn dòng đơn "
+                        "(sửa: scripts/chuan_hoa_xuat_ban.py).")]
+    return []
+
+
+TTHC_TRICH_YEU = re.compile(
+    r"hồ\s+sơ\s+đề\s+nghị\s+cấp|bổ\s+sung\s+hồ\s+sơ|hoàn\s+thiện\s+hồ\s+sơ|trả\s+(lại\s+)?hồ\s+sơ|"
+    r"từ\s+chối\s+cấp|không\s+cấp\s+Giấy|chấm\s+dứt\s+(việc\s+)?thẩm\s+định|"
+    r"cấp(\s+lại|\s+điều\s+chỉnh)?\s+Giấy\s+(phép|chứng\s+nhận)", re.IGNORECASE)
+
+
+def _la_tthc(ctx) -> bool:
+    if ctx.loai in ("giay-phep", "giay-chung-nhan"):
+        return True
+    vv = [t for _, t in ctx.texts[:40] if t.strip().startswith("V/v")]
+    if vv and TTHC_TRICH_YEU.search(vv[0]):
+        return True
+    if "motcua-tthc" in ctx.full_text:
+        return True
+    return any(re.match(r"^-?\s*Lưu\s*:.*\bBP1C\b", t.strip()) for _, t in ctx.texts)
+
+
+def rule_R22(doc, ctx) -> list[Finding]:
+    """R22 — Văn bản giải quyết thủ tục hành chính không gửi "Ban Giám đốc Sở".
+
+    Quy tắc: công văn hoàn thiện, bổ sung, trả hồ sơ; giấy phép, giấy chứng nhận; văn bản từ chối,
+    chấm dứt thẩm định… thuộc thủ tục hành chính chỉ gửi trực tiếp các đơn vị theo đúng quy định
+    (tổ chức, cá nhân nộp hồ sơ; cơ quan mà văn bản quy phạm buộc phải gửi). Nhận diện: V/v có
+    "hồ sơ đề nghị cấp", "bổ sung/hoàn thiện/trả hồ sơ", "cấp Giấy phép/Giấy chứng nhận"…; văn bản
+    là Giấy phép/Giấy chứng nhận; có địa chỉ motcua-tthc; dòng Lưu có BP1C.
+    Nguồn: Bạn chốt 13/10/2026 "thủ tục hành chính từ nay không gửi Ban Giám đốc Sở nữa, chỉ gửi
+    trực tiếp các đơn vị theo đúng quy định".
+    Mức: FAIL.
+    """
+    if not _la_tthc(ctx):
+        return []
+    return [Finding("R22", FAIL, loc, cut(dong),
+                    "Văn bản thủ tục hành chính không gửi Ban Giám đốc Sở — xóa dòng này "
+                    "(scripts/chuan_hoa_xuat_ban.py --tthc).")
+            for loc, dong in _khoi_noi_nhan(ctx)
+            if re.search(r"Ban\s+(Giám\s+đốc|GĐ)\s+Sở|\bBGĐ\s+Sở", dong)]
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1105,6 +1291,10 @@ RULES = [
     ("R16", rule_R16),
     ("R17", rule_R17),
     ("R18", rule_R18),
+    ("R19", rule_R19),
+    ("R20", rule_R20),
+    ("R21", rule_R21),
+    ("R22", rule_R22),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

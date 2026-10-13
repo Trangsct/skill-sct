@@ -44,6 +44,37 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "hc-nq19-tt26-thong-bao-nghiem-thu-khong-con-trong-ho-so",
+        # NQ 19/2026/NQ-CP (29/4/2026) PL III C.II, C.III; PL I A.3: hồ sơ GCN có điều kiện, GP kiểm soát đặc biệt, GCN dịch vụ
+        # tồn trữ KHÔNG còn Thông báo kết quả kiểm tra công tác nghiệm thu và Phiếu an toàn hóa chất (hc-sct-vn ref 18).
+        "pattern": r"^(?!.*(?:đã bỏ|bỏ Thông báo|không còn|không đòi|không yêu cầu|NQ 19|Nghị quyết 19|xd-sct-vn|lịch sử)).*(thiếu|bắt buộc|phải có|thành phần hồ sơ)[^\n]{0,60}Thông báo kết quả kiểm tra công tác nghiệm thu",
+        "why": "Từ 29/4/2026 Thông báo kết quả kiểm tra công tác nghiệm thu không còn là thành phần hồ sơ GCN/GP hóa chất (NQ 19/2026/NQ-CP; hc-sct-vn ref 18) — chỉ ghi kèm 'đã bỏ'/'lịch sử'.",
+        "since": "2026-04-29",
+        "level": "WARN",
+        "only": ["hc-sct-vn"],
+    },
+    {
+        "id": "hc-mau-tt01-da-thay-boi-tt26",
+        # TT 26/2026/TT-BCT (29/5/2026) k10 Đ24 thay Mẫu 06a-c, 10a-c, 11a-c, PL IX TT 01 bằng Mẫu 04–13 Phần III; k3 Đ23 thay 01c, 03a, 03đ TT 02.
+        # Tên mẫu bên trong bản TT 26 vẫn ghi "Mẫu 10c", "Mẫu 03a"… nên chỉ báo khi tên mẫu được gắn với TT 01/TT 02 hoặc Phụ lục VI/X/XI mà không nhắc TT 26.
+        "pattern": r"^(?!.*(?:TT 26|Thông tư 26|26/2026|thay|đã xóa|lịch sử|cũ)).*(Mẫu 10[abc]|Mẫu 11[abc]|Mẫu 06[abc]|Mẫu 03a|Mẫu 03đ)\b[^\n]{0,40}(TT 01|TT 02|Thông tư 01|Thông tư 02|PL (?:VI|X|XI)\b|Phụ lục (?:VI|X|XI)\b)",
+        "why": "Mẫu 06a-c, 10a-c, 11a-c, Phụ lục IX TT 01/2026 và Mẫu 01c, 03a, 03đ TT 02/2026 đã bị thay bằng Mẫu 01–13 Phần III Phụ lục TT 26/2026 từ 29/5/2026 (mau-ho-so/TT-26-2026/) — dẫn mẫu phải theo TT 26.",
+        "since": "2026-05-29",
+        "level": "WARN",
+        "only": ["hc-sct-vn"],
+        "skip_rel": ["references/18-nq-19-2026-tt-26-2026-cat-giam-phan-cap-tthc-hoa-chat.md"],
+    },
+    {
+        "id": "hc-mien-tru-nguong-1-phan-tram",
+        # NQ 19/2026 PL III C.V khoản 1, 5: ngưỡng miễn GCN/GP SX-KD và GCN tồn trữ với hóa chất có điều kiện, kiểm soát đặc biệt là ≤ 1 % (cũ < 0,1 %).
+        "pattern": r"^(?!.*(?:cũ|NQ 19|hóa chất cấm|lịch sử|đã nâng)).*(có điều kiện|kiểm soát đặc biệt)[^\n]{0,80}(< ?0,1 ?%|dưới 0,1 ?%|nồng độ 0,1 ?%)",
+        "why": "Ngưỡng miễn cấp GCN/GP SX-KD, GCN tồn trữ với hóa chất có điều kiện, kiểm soát đặc biệt là hàm lượng ≤ 1 % từ 29/4/2026 (NQ 19/2026; ref 09, 18); 0,1 % chỉ còn cho hóa chất cấm.",
+        "since": "2026-04-29",
+        "level": "WARN",
+        "only": ["hc-sct-vn"],
+        "skip_rel": ["references/18-nq-19-2026-tt-26-2026-cat-giam-phan-cap-tthc-hoa-chat.md"],
+    },
+    {
         "id": "khong-noi-chua-co-trong-goi",
         # Bạn chốt 09/10/2026 (vụ QCVN 01:2019/BCT): mọi văn bản gốc có trong DANH-MUC-VAN-BAN-GOC.csv / van-ban-goc/00-DANH-MUC-CHUNG.md
         # phải được mở toàn văn .txt; tài liệu plugin không được viết "chưa có trong gói", "tra mạng khi cần nguyên văn"…

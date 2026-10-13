@@ -6,10 +6,10 @@
 
 Hồ sơ đề nghị cấp **GCN đủ điều kiện KINH DOANH hóa chất có điều kiện** của một DN kinh doanh **axit nitric (HNO3)**; kho đồng thời lưu chứa **tiền chất thuốc nổ (amoni nitrat NH4NO3)**. Sở **từ chối cấp**, nêu rõ các lỗi. Bản gốc: `vi-du-thuc-te/gcn-tu-choi/CV-tu-choi-cap-GCN-KD-HNO3.docx`. Các lỗi cần soi ở mọi hồ sơ tương tự:
 
-1. **Thiếu Thông báo kết quả kiểm tra công tác nghiệm thu** hoàn thành công trình kho (thành phần hồ sơ bắt buộc — điểm c khoản 2 Điều 9 NĐ 26).
+1. **Thiếu Thông báo kết quả kiểm tra công tác nghiệm thu** hoàn thành công trình kho (thành phần hồ sơ bắt buộc tại thời điểm 4/2026 — điểm c khoản 2 Điều 9 NĐ 26; **lịch sử: từ 29/4/2026 NQ 19/2026 đã bỏ giấy tờ này khỏi hồ sơ, không còn là lỗi — ref 18**).
 2. **Phân khu không đạt:** HNO3 (chất oxy hóa, ăn mòn mạnh) lưu chung khu với **tiền chất thuốc nổ NH4NO3** → nguy cơ phản ứng; vi phạm nguyên tắc không để lẫn chất oxy hóa/chất phản ứng với nhau (QCVN 05A, Phụ lục B).
 3. **Thiết bị rửa mắt, tắm khẩn cấp đặt cách ~50 m** khu vực hóa chất ăn mòn → vi phạm yêu cầu **≤ 17 m** (QCVN 05A:2020/BCT SĐ1:2024).
-4. **Phiếu an toàn hóa chất mâu thuẫn:** ghi nồng độ HNO3 "65% – 98%" đồng thời ghi hàm lượng nước "29% – 31%" → tổng thành phần vô lý, số liệu không nhất quán.
+4. **Phiếu an toàn hóa chất mâu thuẫn:** ghi nồng độ HNO3 "65% – 98%" đồng thời ghi hàm lượng nước "29% – 31%" → tổng thành phần vô lý, số liệu không nhất quán (lịch sử: từ 29/4/2026 Phiếu ATHC không còn trong thành phần hồ sơ — NQ 19/2026, ref 18; vẫn là nghĩa vụ của DN khi kiểm tra thực tế).
 5. **KH/Biện pháp phòng ngừa sự cố thiếu tình huống lưu chứa đồng thời** HNO3 và tiền chất thuốc nổ (kho thực tế chứa cả hai nhưng KH chỉ tính tình huống đơn lẻ).
 6. **Nhân sự mâu thuẫn thời gian:** Quyết định bổ nhiệm người phụ trách an toàn ghi ngày **01/10/2025** nhưng Hợp đồng lao động ký **01/12/2025** → bổ nhiệm trước khi có quan hệ lao động, không logic.
 7. **QĐ huấn luyện viện dẫn văn bản hết hiệu lực:** dẫn **NĐ 113/2017, NĐ 82/2022** (đã hết hiệu lực từ 01/01/2026) thay vì **Điều 32 NĐ 25/2026**.
@@ -95,7 +95,7 @@ Kế hoạch điều chỉnh của Công ty CP DAP số 2 - Vinachem (NH3 5.700 
 
 ## 6. VIỆC CHỜ XÁC MINH (phải hỏi Bạn — không tự điền, không bịa)
 
-1. **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương** ký cấp GCN/GP/QĐ hóa chất thay UBND tỉnh — **đến 05/7/2026 chưa xác minh có/không**. Quyết định người ký (Sở ký theo ủy quyền hay trình Chủ tịch UBND tỉnh ký) phụ thuộc điều này. **Hỏi Bạn trước khi chốt người ký mọi văn bản cấp phép.**
-2. **Mã TTHC hóa chất mới** theo khung 2026 (Bộ Công Thương/UBND tỉnh công bố lại) — chưa xác minh. Không dùng mã cũ; để trống, hỏi Bạn.
+1. **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương** ký cấp GCN/GP/QĐ hóa chất thay UBND tỉnh — **đến 10/2026 chưa ban hành**; Sở đang trình hồ sơ Quyết định ủy quyền chung (xuất nhập khẩu, thương mại quốc tế, đa cấp, hóa chất, VLNCN và tiền chất thuốc nổ) theo Văn bản 9730/UBND-KT ngày 24/9/2026 — Văn phòng Sở đầu mối (Văn bản 6050/SCT-VP), Phòng QLCN gửi dự thảo phần hóa chất, VLNCN; dự thảo 08/10/2026 (xin ý kiến bằng Văn bản 6409/SCT-VP) **đã gồm ba việc mới về tỉnh** theo NQ 19/2026, TT 26/2026: mục 40 GP XNK hóa chất kiểm soát đặc biệt nhóm 1, nhóm 2; mục 42 GP nhập khẩu hóa chất cấm; mục 43 GCN dịch vụ tồn trữ cho cơ sở thuộc đối tượng KH do Bộ thẩm định (ref 18 mục 1 — kèm lỗi số khoản Điều 24 TT 26 cần sửa). Sở Nội vụ góp ý tại Văn bản 4143/SNV-CCHC&VTLT ngày 12/10/2026: bổ sung chế độ theo dõi, kiểm tra, báo cáo và trách nhiệm của cơ quan được ủy quyền; quy định rõ bàn giao, tiếp nhận hồ sơ chuyển tiếp tại khoản 3 Điều 3 (không yêu cầu nộp lại thành phần hồ sơ đã hợp lệ). Đến khi có Quyết định: Sở thẩm định, **trình Chủ tịch UBND tỉnh ký**. **Hỏi Bạn trước khi chốt người ký mọi văn bản cấp phép**; khi Quyết định ban hành → ghi số, ngày, phạm vi vào ref 01 mục 4 và mục này.
+2. **Mã TTHC hóa chất mới** theo khung 2026 — Bộ Công Thương đã công bố lại sau TT 26/2026 (plugin `hnh-sct-vn` dẫn QĐ 1213/QĐ-BCT ngày 22/5/2026 cho lĩnh vực vận chuyển HHNH); phần hóa chất **chưa có bản gốc trong kho** → không dùng mã cũ; để trống, hỏi Bạn hoặc nạp Quyết định công bố vào `_inbox/`.
 3. **Số/ngày văn bản nội bộ** (số QĐ, số CV, ngày ký) — không bịa; lấy số thật từ Văn thư khi phát hành.
 4. **Số liệu hiện trạng** (số cơ sở, khối lượng, tiến độ) — hỏi Bạn số thực tế kỳ báo cáo, không dùng số cũ.

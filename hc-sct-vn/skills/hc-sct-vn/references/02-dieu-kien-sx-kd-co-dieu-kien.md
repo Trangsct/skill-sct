@@ -18,28 +18,30 @@ i) Tuân thủ yêu cầu SX/KD tại **Điều 25, 26, 27, 28, 29 NĐ 25** (cơ
 
 **Kinh doanh (Điều 5):** kho tồn trữ đáp ứng khoản 2-5 Điều 4 **hoặc** thuê kho của tổ chức có **GCN dịch vụ tồn trữ hóa chất** phù hợp quy mô, loại hóa chất.
 
-## 2. Điều kiện SẢN XUẤT hóa chất CÓ ĐIỀU KIỆN (Điều 7 NĐ 26)
+> **Từ 29/4/2026:** Điều 7, 8 NĐ 26 được viết lại (cắt giảm) tại **mục A.I, A.II Phụ lục II Nghị quyết 19/2026/NQ-CP** — các mục dưới đây đã sửa theo; đối chiếu ref 18 mục 2.
+
+## 2. Điều kiện SẢN XUẤT hóa chất CÓ ĐIỀU KIỆN (Điều 7 NĐ 26, theo Phụ lục II NQ 19)
 
 1. Tổ chức thành lập theo pháp luật.
 2. Nhà xưởng, kho chứa: đáp ứng khoản 2-5 Điều 4 **+ có quy trình thao tác an toàn niêm yết tại khu vực sản xuất**.
 3. Công nghệ: đáp ứng khoản 6 Điều 4.
-4. **Tồn trữ, bảo quản:** hóa chất phải **phân khu, sắp xếp theo tính chất**; **KHÔNG bảo quản chung** các hóa chất có khả năng phản ứng với nhau gây mất an toàn hoặc có yêu cầu phòng chống cháy nổ khác nhau trong cùng một khu vực (đối chiếu Phụ lục B QCVN 05A).
-5. **Năng lực chuyên môn:** người chịu trách nhiệm an toàn hóa chất phải có **bằng đại học trở lên chuyên ngành hóa học**; đối tượng theo Điều 29 NĐ 25 được huấn luyện.
-6. Tuân thủ Điều 25-29 NĐ 25.
+4. **Tồn trữ, bảo quản:** hóa chất phải **phân khu, sắp xếp theo tính chất**; **KHÔNG bảo quản chung** các hóa chất có khả năng phản ứng với nhau gây mất an toàn hoặc có yêu cầu phòng chống cháy nổ khác nhau trong cùng một khu vực (đối chiếu Phụ lục B QCVN 05A khi kiểm tra). NQ 19 đã **cắt** điểm b "đáp ứng khoản 7 Điều 4" (bảo quản theo TCVN/QCVN) khỏi điều kiện.
+5. **Năng lực chuyên môn:** người chịu trách nhiệm an toàn hóa chất phải có **bằng cử nhân hoặc tương đương trở lên ngành đào tạo về hóa học thuộc Danh mục Phụ lục III NĐ 25/2026** (thay "đại học trở lên chuyên ngành hóa học"); đối tượng theo Điều 29 NĐ 25 được huấn luyện.
+6. ~~Tuân thủ Điều 25-29 NĐ 25~~ — NQ 19 đã **cắt** khỏi điều kiện kinh doanh (vẫn là nghĩa vụ chung).
 
-## 3. Điều kiện KINH DOANH hóa chất CÓ ĐIỀU KIỆN (Điều 8 NĐ 26)
+## 3. Điều kiện KINH DOANH hóa chất CÓ ĐIỀU KIỆN (Điều 8 NĐ 26, theo Phụ lục II NQ 19)
 
 1. Tổ chức thành lập theo pháp luật.
 2. **Kho:** thuê kho của tổ chức có GCN dịch vụ tồn trữ **hoặc** có kho đáp ứng khoản 2-5 Điều 4.
 3. **Tồn trữ, bảo quản:** phân khu theo tính chất; không bảo quản chung các chất phản ứng với nhau/yêu cầu PCCN khác nhau (điểm a khoản 3 Điều 8).
-4. **Năng lực chuyên môn:** người chịu trách nhiệm an toàn hóa chất phải có **bằng trung cấp trở lên chuyên ngành hóa học** (thấp hơn SX — SX yêu cầu đại học).
-5. Tuân thủ Điều 25-29 NĐ 25.
+4. **Năng lực chuyên môn:** người chịu trách nhiệm an toàn hóa chất phải có **bằng trung cấp hoặc tương đương trở lên ngành đào tạo về hóa học thuộc Danh mục Phụ lục III NĐ 25/2026** (thấp hơn SX — SX yêu cầu cử nhân hoặc tương đương); huấn luyện theo khoản 4 Điều 5.
+5. ~~Tuân thủ Điều 25-29 NĐ 25~~ — đã cắt khỏi điều kiện (NQ 19).
 
 ## 4. Yêu cầu người chịu trách nhiệm chuyên môn về an toàn hóa chất (Điều 27 NĐ 25)
 
-- SX hóa chất có điều kiện / kiểm soát đặc biệt / cấm: **đại học trở lên chuyên ngành hóa học**.
-- KD hóa chất có điều kiện: **trung cấp trở lên chuyên ngành hóa học**.
-- Kiểm tra tính hợp lệ: bằng cấp đúng chuyên ngành (danh mục ngành hóa học tại Phụ lục III NĐ 25); **hợp đồng lao động và quyết định bổ nhiệm phải logic về thời gian** (bài học vụ HNO3: QĐ bổ nhiệm 01/10/2025 nhưng HĐLĐ 01/12/2025 → mâu thuẫn → không đạt).
+- SX hóa chất có điều kiện / kiểm soát đặc biệt / cấm: **bằng cử nhân hoặc tương đương trở lên** ngành đào tạo về hóa học thuộc **Phụ lục III NĐ 25**.
+- KD hóa chất có điều kiện / kiểm soát đặc biệt; kho dịch vụ tồn trữ: **bằng trung cấp hoặc tương đương trở lên** ngành đào tạo về hóa học thuộc Phụ lục III NĐ 25.
+- Kiểm tra tính hợp lệ: ngành đào tạo ghi trên bằng (hoặc bảng điểm, phụ lục văn bằng) **có trong Danh mục Phụ lục III NĐ 25** — mở `van-ban-goc/02-nghi-dinh/ND-25-2026-phat-trien-antoan-anninh.txt` tìm "PHỤ LỤC III"; chấp nhận bằng kỹ sư, cử nhân (tương đương); **hợp đồng lao động và quyết định bổ nhiệm phải logic về thời gian** (bài học vụ HNO3: QĐ bổ nhiệm 01/10/2025 nhưng HĐLĐ 01/12/2025 → mâu thuẫn → không đạt).
 
 ## 5. Điểm kỹ thuật QCVN 05A:2020/BCT SĐ1:2024 hay dùng khi thẩm định/kiểm tra thực tế
 
@@ -49,4 +51,4 @@ i) Tuân thủ yêu cầu SX/KD tại **Điều 25, 26, 27, 28, 29 NĐ 25** (cơ
 
 ## 6. Miễn cấp GCN (Điều 21 NĐ 26 — xem ref 09)
 
-Hỗn hợp chất có hóa chất có điều kiện **nồng độ < 0,1% khối lượng**; san chiết/pha chế phục vụ sản xuất nội bộ; hóa chất có điều kiện chứa trong dược phẩm, thực phẩm, mỹ phẩm, phân bón hỗn hợp, xăng dầu, pin ắc quy... → miễn cấp GCN.
+Hỗn hợp chất có hóa chất có điều kiện **hàm lượng ≤ 1 % khối lượng** (NQ 19 — thay ngưỡng cũ < 0,1 %); san chiết/pha chế phục vụ sản xuất nội bộ; hóa chất có điều kiện chứa trong dược phẩm, thực phẩm, mỹ phẩm, phân bón hỗn hợp, xăng dầu, pin ắc quy, bình chữa cháy... → miễn cấp GCN.

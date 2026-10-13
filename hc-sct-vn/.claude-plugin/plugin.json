@@ -1,7 +1,7 @@
 {
   "name": "hc-sct-vn",
-  "version": "1.4.0",
-  "description": "Chuyên gia quản lý nhà nước về hóa chất của Sở Công Thương tỉnh Lào Cai theo khung pháp lý mới 2026 (Luật Hóa chất 69/2025, Nghị định 24/25/26/2026, Thông tư 01+02/2026): thẩm định cấp phép, thẩm định Kế hoạch phòng ngừa ứng phó sự cố hóa chất (kể cả tham gia Hội đồng của Cục Hóa chất, Phiếu Mẫu 03c), hướng dẫn doanh nghiệp, kiểm tra chuyên ngành, báo cáo và soạn thảo văn bản hành chính. CV 6395/SCT-CN 08/10/2026: mốc chuyển tiếp 31/12/2026, 31/12/2027, kho chứa (ref 16).",
+  "version": "1.5.0",
+  "description": "QLNN hóa chất, Sở Công Thương Lào Cai, khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01+02/2026) và lớp cắt giảm, phân cấp NQ 19/2026/NQ-CP, TT 26/2026/TT-BCT (ref 18: thẩm quyền mới về tỉnh, hồ sơ cắt giảm, 13 biểu mẫu mới): thẩm định cấp phép; thẩm định Kế hoạch phòng ngừa, ứng phó sự cố hóa chất (kể cả Hội đồng của Cục Hóa chất, Phiếu Mẫu 03c); hướng dẫn DN; kiểm tra chuyên ngành; báo cáo; Chiến lược ngành hóa chất QĐ 726/QĐ-TTg (ref 19); soạn văn bản. CV 6395/SCT-CN 08/10/2026 (ref 16).",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },
@@ -16,6 +16,9 @@
     "kiem-soat-dac-biet",
     "dich-vu-ton-tru",
     "khai-bao-hoa-chat",
-    "mau-03c"
+    "mau-03c",
+    "nghi-quyet-19-2026",
+    "thong-tu-26-2026",
+    "chien-luoc-hoa-chat-qd-726"
   ]
 }

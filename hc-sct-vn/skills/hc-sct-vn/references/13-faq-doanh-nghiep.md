@@ -5,10 +5,10 @@ Dùng khi giải đáp doanh nghiệp, hợp tác xã, hộ kinh doanh về th�
 ## A. Về việc "có phải xin phép không"
 
 **Q: Doanh nghiệp tôi kinh doanh hóa chất X, có phải xin giấy phép/giấy chứng nhận gì không?**
-A: Phụ thuộc X thuộc danh mục nào (NĐ 24/2026): (1) nếu thuộc **Phụ lục II** (có điều kiện) → cần **GCN đủ điều kiện kinh doanh hóa chất có điều kiện** (UBND cấp tỉnh cấp); (2) nếu thuộc **Phụ lục III nhóm 2** (kiểm soát đặc biệt) → cần **GP kinh doanh** (tỉnh cấp) và **GP XNK** nếu XNK; nhóm 1 → Cục Hóa chất; (3) nếu chỉ ở Phụ lục I hoặc không thuộc danh mục → không phải xin GCN/GP (vẫn tuân thủ an toàn, nhãn, phiếu ATHC). Đề nghị DN gửi **tên hóa chất + mã CAS + nồng độ** để xác định chính xác.
+A: Phụ thuộc X thuộc danh mục nào (NĐ 24/2026): (1) nếu thuộc **Phụ lục II** (có điều kiện) → cần **GCN đủ điều kiện kinh doanh hóa chất có điều kiện** (UBND cấp tỉnh cấp); (2) nếu thuộc **Phụ lục III nhóm 2** (kiểm soát đặc biệt) → cần **GP kinh doanh** (tỉnh cấp) và **GP XNK** nếu XNK (từ 29/5/2026 GP XNK cả nhóm 1 và nhóm 2 đều do UBND cấp tỉnh cấp — NQ 19/2026, TT 26/2026); GP SX/KD nhóm 1 → Cục Hóa chất; (3) nếu chỉ ở Phụ lục I hoặc không thuộc danh mục → không phải xin GCN/GP (vẫn tuân thủ an toàn, nhãn, phiếu ATHC). Đề nghị DN gửi **tên hóa chất + mã CAS + nồng độ** để xác định chính xác.
 
 **Q: Hỗn hợp của tôi chỉ chứa vài % hóa chất có điều kiện, có phải xin GCN không?**
-A: Hỗn hợp được coi là hóa chất có điều kiện khi chứa thành phần có điều kiện **> 5%** khối lượng. Nếu **< 0,1%** → **miễn cấp GCN** (Điều 21 NĐ 26). Khoảng 0,1%–5%: tra kỹ ghi chú Phụ lục II và bản chất thành phần.
+A: Hỗn hợp được coi là hóa chất có điều kiện khi chứa thành phần có điều kiện **> 5%** khối lượng. Nếu **≤ 1 %** → **miễn cấp GCN** (khoản 1 Điều 21 NĐ 26 theo mục C.V Phụ lục III NQ 19/2026 — ngưỡng cũ < 0,1 % đã nâng). Khoảng trên 1 % đến 5 %: tra kỹ ghi chú Phụ lục II và bản chất thành phần.
 
 **Q: Tôi kinh doanh xăng dầu/LPG, có phải xin GCN hóa chất không?**
 A: Không. Xăng, dầu (và condensate, naphta để chế biến xăng dầu) được **miễn cấp GCN/GP hóa chất** (điểm đ khoản 6 Điều 21 NĐ 26); quản lý theo pháp luật xăng dầu, khí.

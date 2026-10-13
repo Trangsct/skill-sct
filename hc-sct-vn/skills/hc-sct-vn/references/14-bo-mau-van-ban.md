@@ -8,11 +8,12 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 |---|---|---|---|
 | Từ chối cấp GCN/GP (hồ sơ không đạt) | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến *(hoặc trình UBND tỉnh — xác minh ủy quyền)* | `vi-du-thuc-te/gcn-tu-choi/CV-tu-choi-cap-GCN-KD-HNO3.docx`; ref 03, 16 |
 | Yêu cầu bổ sung hồ sơ | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-tu-choi/CV-phuc-dap-ho-so-cap-GCN.docx`; ref 03 |
-| Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (Mẫu 10c) | theo ủy quyền/UBND tỉnh | `mau-ho-so/Mau-10c-...docx`; ref 03 |
+| Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (**Mẫu 09 TT 26/2026**, thay Mẫu 10c TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-09-...docx`; ref 03 |
 | Tham khảo hồ sơ cấp GCN sản xuất | Công văn/hồ sơ | — | `vi-du-thuc-te/gcn-tu-choi/Tham-khao-cap-GCN-SX-co-dieu-kien.docx`; ref 03 |
-| Cấp GP hóa chất kiểm soát đặc biệt nhóm 2 | Giấy phép (PL VI TT 01) | theo ủy quyền/UBND tỉnh | ref 04 |
-| Cấp GP XNK kiểm soát đặc biệt nhóm 2 | Giấy phép (PL VII TT 01) | theo ủy quyền/UBND tỉnh | ref 04, 08 |
-| Cấp GCN dịch vụ tồn trữ | Giấy chứng nhận (PL XI TT 01) | theo ủy quyền/UBND tỉnh | ref 05 |
+| Cấp GP hóa chất kiểm soát đặc biệt nhóm 2 | Giấy phép (**Mẫu 06 TT 26/2026**, thay Mẫu 06c PL VI TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-06-...docx`; ref 04 |
+| Cấp GP XNK kiểm soát đặc biệt nhóm 1 và nhóm 2 (từ 29/5/2026) | Giấy phép (PL VII TT 01 — không bị thay) | theo ủy quyền/UBND tỉnh | ref 04, 08, 18 |
+| Cấp GP nhập khẩu hóa chất cấm (từ 29/5/2026) | Giấy phép (PL II TT 01) | UBND tỉnh | ref 18 |
+| Cấp GCN dịch vụ tồn trữ (mọi cơ sở) | Giấy chứng nhận (**Mẫu 12 TT 26/2026**, thay Mẫu 11c PL XI TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-12-...docx`; ref 05 |
 | Thu hồi GCN/GP | Quyết định (QĐ-SCT/QĐ-UBND) | theo thẩm quyền cấp | ref 09 |
 | Thành lập Hội đồng thẩm định KH sự cố | Quyết định | UBND tỉnh (Sở tham mưu) | ref 06 |
 | Thông báo kết quả thẩm định KH | Công văn/Thông báo | KT.GĐ-PGĐ Chiến | ref 06; `vi-du-thuc-te/ke-hoach-su-co/` |
@@ -44,7 +45,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 
 ## 3. Quy tắc thể thức chung
 
-- Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phụ lục TT 01.
+- Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phần III Phụ lục TT 26/2026 (Mẫu 06, 09, 12) hoặc Phụ lục II, VII TT 01 với loại chưa bị thay.
 - **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026, QĐ 6286/QĐ-SCT; văn bản mẫu thật trong `vi-du-thuc-te/` do PGĐ Thuân ký — lịch sử, đổi khối ký khi dựng); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
 - **Dòng Lưu:** `Lưu: VT, CN.`
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; "Kính gửi" không in đậm; heading mục 1,2,3 trong công văn in đậm.

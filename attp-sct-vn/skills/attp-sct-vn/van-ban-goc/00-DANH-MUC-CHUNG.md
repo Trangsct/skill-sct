@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 326 văn bản gốc (326 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 328 văn bản gốc (328 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -87,6 +87,7 @@ Thống kê: 326 văn bản gốc (326 có bản .txt) ở 19 plugin; 30 văn b�
 | 40/QĐ-HĐTV | 28/05/2026 | HDTV VNX quy che thanh vien giao dich | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-40-QD-HDTV-28-5-2026-VNX-quy-che-thanh-vien-giao-dich.txt` | có |
 | 4390/UBND-NLN | 27/05/2026 | trien khai ND 180 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-4390-UBND-NLN-27-5-2026-trien-khai-ND-180.txt` | có |
 | 180/2026/NĐ-CP | 21/05/2026 | dich vu hap thu cac bon rung | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/ND-180-2026-ND-CP-21-5-2026-dich-vu-hap-thu-cac-bon-rung.txt` | có |
+| 26/2026/TT-BCT | 20/05/2026 | Sua doi phan cap cat giam don gian hoa TTHC Bo Cong Thuong ban ky so than van ban | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/03-thong-tu/2026.05.20-26.2026.TT.BCT-Sua-doi-phan-cap-cat-giam-don-gian-hoa-TTHC-Bo-Cong-Thuong-ban-ky-so-than-van-ban.pdf` | có (OCR) |
 | 26/2026/TT-BCT | 20/05/2026 | text | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/03-thong-tu/TT-26-2026-BCT-text.doc` | có |
 | 178/2026/NĐ-CP | 20/05/2026 | tai san ket cau ha tang | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/ND-178-2026-tai-san-ket-cau-ha-tang.docx` | có |
 | 26/2026/TT-BCT | 20/05/2026 | phan cap cat giam TTHC BCT | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-26-2026-TT-BCT-phan-cap-cat-giam-TTHC-BCT.docx` | có |
@@ -259,6 +260,7 @@ Thống kê: 326 văn bản gốc (326 có bản .txt) ở 19 plugin; 30 văn b�
 | 896/QĐ-TTg | 26/07/2022 | chien luoc BDKH 2050 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-896-QD-TTg-26-7-2022-chien-luoc-BDKH-2050.txt` | có |
 | 88/NQ-CP | 22/07/2022 | chuong trinh hanh dong thuc hien NQ 10 NQ TW | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/NQ-88-NQ-CP-22-7-2022-chuong-trinh-hanh-dong-thuc-hien-NQ-10-NQ-TW.docx` | có |
 | 45/2022/NĐ-CP | 07/07/2022 | xu phat bao ve moi truong | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/moi-truong/ND-45-2022-NDCP-xu-phat-bao-ve-moi-truong.docx` | có |
+| 726/QĐ-TTg | 16/06/2022 | Chien luoc phat trien nganh cong nghiep hoa chat den 2030 tam nhin 2040 kem CV 3698 BCT HC | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/07-chien-luoc/2022.06.16-726.QD.TTg-Chien-luoc-phat-trien-nganh-cong-nghiep-hoa-chat-den-2030-tam-nhin-2040-kem-CV-3698-BCT-HC.pdf` | có (OCR) |
 | 10-NQ/TW | 10/02/2022 | dinh huong chien luoc dia chat khoang san cong nghiep khai khoang | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/NQ-10-NQ-TW-10-02-2022-dinh-huong-chien-luoc-dia-chat-khoang-san-cong-nghiep-khai-khoang.docx` | có |
 | 17/2022/NĐ-CP | 31/01/2022 | Sua doi cac nghi dinh xu phat VPHC linh vuc cong thuong | kho-vlncn-sct-vn | `kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/2022.01.31-17.2022.ND.CP-Sua-doi-cac-nghi-dinh-xu-phat-VPHC-linh-vuc-cong-thuong.pdf` | có (OCR) |
 | 17/2022/NĐ-CP | 31/01/2022 | sua doi ND 71 2019 134 2013 98 2020 99 2020 | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/ND-17-2022-NDCP-sua-doi-ND-71-2019-134-2013-98-2020-99-2020.docx` | có |
@@ -384,7 +386,7 @@ Thống kê: 326 văn bản gốc (326 có bản .txt) ở 19 plugin; 30 văn b�
 - 17/2022/NĐ-CP — kho-vlncn-sct-vn, sd-vlncn-sct-vn, xp-sct-vn
 - 181/2024/NĐ-CP — hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn
 - 23/2024/TT-BCT — hnh-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn
-- 26/2026/TT-BCT — hnh-sct-vn, qlks-sct-vn
+- 26/2026/TT-BCT — hc-sct-vn, hnh-sct-vn, qlks-sct-vn
 - 275/2026/NĐ-CP — xp-hc-vlncn-sct-vn, xp-sct-vn
 - 282/2025/NĐ-CP — xp-hc-vlncn-sct-vn, xp-sct-vn
 - 283/2026/NĐ-CP — atvsld-sct-vn, xp-sct-vn

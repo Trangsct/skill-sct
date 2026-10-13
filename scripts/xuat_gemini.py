@@ -3,7 +3,7 @@
 
 Gemini không cài được plugin Claude, nên mỗi plugin được gộp thành MỘT tệp Markdown
 (SKILL.md + references + checklists + mau-van-ban + vi-du-thuc-te; bỏ CHANGELOG, scripts,
-tests, văn bản gốc). Plugin xếp thành 6 nhóm, mỗi nhóm là một Gem; mỗi nhóm có tệp
+tests, văn bản gốc). Plugin xếp thành 5 nhóm, mỗi nhóm là một Gem; mỗi nhóm có tệp
 HUONG-DAN-GEM.txt để dán vào ô "Hướng dẫn" của Gem. Bản .txt toàn văn trong van-ban-goc/
 chép riêng sang notebooklm/<nhóm>/ để nạp làm nguồn NotebookLM.
 
@@ -30,9 +30,8 @@ NHOM = {
     "5-VAN-BAN-TO-CHUC-XU-PHAT": ("Soạn văn bản hành chính, tổ chức Sở, xử phạt, bài phát biểu, ATTP",
                                   ["vbhc-vn", "vbhc-pdf-reader-vn", "sct-laocai-org-vn", "xp-sct-vn",
                                    "bpb-sct-vn", "attp-sct-vn"]),
-    "6-CA-NHAN": ("Sức khỏe cá nhân", ["skcn-vn"]),
 }
-# data360x-sct-vn chỉ điều khiển bot trên GitHub — Gemini không dùng được, không xuất.
+# Không xuất: data360x-sct-vn (chỉ điều khiển bot trên GitHub); skcn-vn (sức khỏe cá nhân — Bạn chốt 13/10/2026 bỏ).
 
 THU_MUC_LAY = ["references", "checklists", "mau-van-ban", "vi-du-thuc-te"]
 

@@ -26,7 +26,7 @@ chứng nhận huấn luyện kỹ thuật an toàn VLNCN đối với đối t�
 Sở Công Thương thông báo để [Tên đơn vị] biết, chủ động bố trí nhân sự đáp ứng đủ điều
 kiện để đề nghị huấn luyện, kiểm tra theo quy định./.
 
-Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN.
+Nơi nhận: Như trên; Lưu: VT, BP1C, CN. (từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở)
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 ```
 

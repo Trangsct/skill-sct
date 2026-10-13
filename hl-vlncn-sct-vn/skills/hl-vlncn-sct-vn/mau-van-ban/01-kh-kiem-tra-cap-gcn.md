@@ -70,7 +70,6 @@ Thương [ĐT] để được hướng dẫn./.
 
 Nơi nhận:                                      KT. GIÁM ĐỐC
 - Các đơn vị tại mục Xét đề nghị;              PHÓ GIÁM ĐỐC
-- Ban Giám đốc Sở;
 - Lưu: VT, CN.                              Nguyễn Đình Chiến
 ```
 

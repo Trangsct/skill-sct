@@ -346,6 +346,12 @@ class TemplateDoc:
         os.makedirs(os.path.dirname(output_path), exist_ok=True) if os.path.dirname(output_path) else None
         chuan_hoa_dong_luu(self.doc)
         self.doc.save(output_path)
+        # Bạn chốt 13/10/2026: phông Times New Roman toàn bộ, dòng Nơi nhận cỡ 11, khối ký cách
+        # thân đúng 1 dòng cỡ 14 — mẫu thật cũ còn .VnTime, cỡ 12, đoạn đệm 1–7 pt.
+        import sys as _sys, os as _os
+        _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+        from chuan_hoa_xuat_ban import chuan_hoa_file
+        chuan_hoa_file(output_path)
         print(f'✓ Đã lưu: {output_path}')
 
 

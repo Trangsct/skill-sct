@@ -19,6 +19,6 @@ luyện,] kiểm tra. Do vậy không đủ điều kiện để cấp giấy ch
 tiếp theo.]
 Sở Công Thương thông báo cho [Tên đơn vị] được biết và thực hiện./.
 
-Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN.
+Nơi nhận: Như trên; Lưu: VT, BP1C, CN. (từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở)
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 ```

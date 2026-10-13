@@ -2,100 +2,150 @@
   "examples/sct/bao-cao-9-thang-phong-qlcn.docx": {
     "R01": 10,
     "R08": 1,
-    "R10": 1
+    "R10": 1,
+    "R19": 3,
+    "R20": 3,
+    "R21": 1
   },
   "examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx": {
-    "R07": 1
+    "R07": 1,
+    "R19": 3
   },
   "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": {
-    "R07": 1
+    "R07": 1,
+    "R19": 3
   },
   "examples/sct/bao-cao-thang-phong-qlcn.docx": {
     "R01": 2,
-    "R08": 1
+    "R08": 1,
+    "R19": 3,
+    "R20": 3,
+    "R21": 1
   },
   "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": {
     "R01": 1,
     "R07": 1,
     "R08": 4,
-    "R13": 1
+    "R13": 1,
+    "R19": 2,
+    "R21": 1
   },
   "examples/sct/bien-ban-kiem-tra-thuc-te-hhnh.docx": {
-    "R01": 3
+    "R01": 3,
+    "R19": 3
   },
   "examples/sct/bien-ban-lam-viec-lien-nganh-ccn.docx": {
-    "R01": 1
+    "R01": 1,
+    "R19": 9
   },
   "examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx": {
     "R01": 2,
-    "R07": 1
+    "R07": 1,
+    "R19": 4,
+    "R20": 3,
+    "R21": 1
   },
   "examples/sct/cong-van-don-doc-tien-do-ha-tang-ccn-bao-cao-hang-tuan.docx": {
-    "R07": 1
+    "R07": 1,
+    "R19": 4,
+    "R20": 4,
+    "R21": 1
   },
   "examples/sct/cong-van-moi-hop-sct.docx": {
-    "R07": 1
+    "R07": 1,
+    "R19": 6,
+    "R21": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-kcn.docx": {
     "R07": 1,
-    "R12": 1
+    "R12": 1,
+    "R19": 4,
+    "R21": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx": {
     "R07": 1,
-    "R12": 1
+    "R12": 1,
+    "R19": 5,
+    "R21": 1
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-tuyen-110kv-qua-ccn.docx": {
     "R07": 1,
-    "R12": 1
+    "R12": 1,
+    "R19": 5,
+    "R21": 1
   },
   "examples/sct/cong-van-xin-y-kien-cac-co-quan-phuong-an-ccn-von-nsnn.docx": {
     "R07": 1,
-    "R13": 4
+    "R13": 4,
+    "R19": 4,
+    "R20": 4,
+    "R21": 1
   },
   "examples/sct/cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh.docx": {
-    "R07": 1
+    "R07": 1,
+    "R19": 4,
+    "R20": 2,
+    "R21": 1
   },
   "examples/sct/giay-chung-nhan-attp-winmart.docx": {
-    "R12": 3
+    "R12": 3,
+    "R19": 2
   },
   "examples/sct/giay-phep-van-chuyen-hhnh.docx": {
-    "R13": 1
+    "R13": 1,
+    "R19": 4,
+    "R20": 6
   },
   "examples/sct/ke-hoach-thuc-hien-de-an-08.docx": {
     "R07": 1,
     "R08": 1,
     "R12": 1,
-    "R13": 12
+    "R13": 12,
+    "R19": 4,
+    "R21": 1
   },
   "examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx": {
     "R01": 2,
     "R12": 4,
-    "R15": 3
+    "R15": 3,
+    "R19": 2
   },
   "examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx": {
     "R07": 1,
-    "R13": 1
+    "R13": 1,
+    "R19": 3
   },
   "examples/ubnd/bao-cao-vp-ubnd.docx": {
     "R01": 1,
     "R08": 20,
-    "R12": 2
+    "R12": 2,
+    "R19": 2
   },
   "examples/ubnd/cong-van-ubnd-tinh-chi-dao.docx": {
-    "R12": 2
+    "R12": 2,
+    "R19": 4,
+    "R20": 1,
+    "R21": 1
   },
   "examples/ubnd/cong-van-vp-ubnd-truyen-dat.docx": {
     "R08": 1,
-    "R12": 4
+    "R12": 4,
+    "R19": 9,
+    "R21": 1
   },
   "examples/ubnd/giay-moi-hop-ubnd.docx": {
-    "R13": 3
+    "R13": 3,
+    "R19": 5,
+    "R20": 2,
+    "R21": 1
   },
   "examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx": {
     "R01": 6,
-    "R12": 1
+    "R12": 1,
+    "R19": 4
   },
   "examples/ubnd/thong-bao-ket-luan-ubnd.docx": {
-    "R12": 1
+    "R12": 1,
+    "R19": 4
   }
 }

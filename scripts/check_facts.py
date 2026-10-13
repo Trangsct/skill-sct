@@ -44,6 +44,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "tthc-khong-gui-ban-giam-doc-so",
+        # Bạn chốt 13/10/2026: văn bản giải quyết thủ tục hành chính (hoàn thiện, bổ sung, trả hồ sơ; giấy phép; GCN;
+        # từ chối, chấm dứt thẩm định) KHÔNG gửi Ban Giám đốc Sở, chỉ gửi trực tiếp các đơn vị theo quy định.
+        # Dấu hiệu thủ tục hành chính trên cùng dòng Nơi nhận: BP1C / Bộ phận Một cửa / motcua-tthc.
+        "pattern": r"^(?!.*(?:lịch sử|không gửi|trước 13/10|trừ văn bản thủ tục)).*Ban (?:Giám đốc|GĐ) Sở[^\n]{0,80}(?:BP1C|Một cửa|motcua-tthc)|^(?!.*(?:lịch sử|không gửi|trước 13/10)).*(?:BP1C|Một cửa)[^\n]{0,80}Ban (?:Giám đốc|GĐ) Sở",
+        "why": "Từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở — Nơi nhận chỉ gồm các đơn vị theo đúng quy định (vbhc-vn R22, scripts/chuan_hoa_xuat_ban.py --tthc).",
+        "since": "2026-10-13",
+        "level": "FAIL",
+    },
+    {
         "id": "hc-nq19-tt26-thong-bao-nghiem-thu-khong-con-trong-ho-so",
         # NQ 19/2026/NQ-CP (29/4/2026) PL III C.II, C.III; PL I A.3: hồ sơ GCN có điều kiện, GP kiểm soát đặc biệt, GCN dịch vụ
         # tồn trữ KHÔNG còn Thông báo kết quả kiểm tra công tác nghiệm thu và Phiếu an toàn hóa chất (hc-sct-vn ref 18).

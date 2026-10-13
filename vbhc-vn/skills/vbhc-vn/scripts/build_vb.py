@@ -451,6 +451,9 @@ def main() -> int:
     ra = Path(a.ra)
     ra.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(ra))
+    # Bạn chốt 13/10/2026: phông Times New Roman toàn bộ, Nơi nhận cỡ 11, 1 dòng cỡ 14 trước khối ký.
+    from chuan_hoa_xuat_ban import chuan_hoa_file  # noqa: E402
+    chuan_hoa_file(ra)
     print(f"Đã dựng {ra}  ({len(rows)} đoạn thân, mẫu: {mau.name}, "
           f"lùi đầu dòng {lui if lui is not None else '—'} cm)")
 

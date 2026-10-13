@@ -1,5 +1,12 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.9.0] - 12/10/2026 — CV 10349/UBND-KT theo dõi SXKD doanh nghiệp hằng tháng (ref 15); GCN ĐKĐT điều chỉnh lần 5 Nhà máy bao bì thùng phuy KCN Tằng Loỏng (CBCT-082)
+
+- **Reference 15 (mới):** CV 10349/UBND-KT ngày 09/10/2026 của Chủ tịch UBND tỉnh — Sở Công Thương chủ trì theo dõi **37 DN công nghiệp + 41 DN thương mại**; **trước ngày 10 hằng tháng** gửi Thống kê tỉnh + Sở Tài chính thông tin tóm tắt (DN biến động lớn, nguyên nhân, vướng mắc, đã xử lý, đề xuất); không phát sinh TTHC; danh sách đầy đủ kèm gợi ý theo dõi; ⚠️ bản ký UBND-KT, Phụ lục in UBND-TH.
+- **Ref 08 mục 3 + sổ dự án CBCT-082:** GCN ĐKĐT mã số 8280788124 điều chỉnh lần 5 ngày 09/10/2026 (BQL Khu kinh tế; căn cứ VB 10320/UBND-KT 09/10/2026) — Công ty TNHH SX&XNK Bao Bì, một phần Lô CN3 KCN Tằng Loỏng, 16.444 m², 300.000 thùng/năm, tổng vốn 16,133 tỷ, bổ sung 600 m² nhà xưởng vận hành Quý III/2027. Sổ dự án mở rộng sang KCN do BQL Khu kinh tế quản lý (97 bản ghi).
+- Ref 05 mục 0: hai chế độ báo cáo song song (trước ngày 10 — DN; trước ngày 20 — chỉ tiêu). `SKILL.md` nghiệp vụ 13, 14; bảng reference, bảng dữ liệu. `van-ban-goc/`: 2 tệp gốc + 2 `.txt` (CV 10349 là bản quét 4,6 MB export-ignore — `.txt` gõ lại từ ảnh vì máy không có tesseract).
+- `plugin.json` → 1.9.0. Chi tiết: `CHANGELOG-v2026.10.12.md`.
+
 ## [1.7.1] - 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
 
 - `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.

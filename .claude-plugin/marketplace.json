@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.142"
+    "version": "4.11.144"
   },
   "plugins": [
     {
@@ -29,8 +29,8 @@
     {
       "name": "dacn-sct-vn",
       "source": "./dacn-sct-vn",
-      "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 6 tháng và 9 tháng 2026 (BC 998/BC-TKT: IIP 7,7%, GTSXCN 56.678 tỷ), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg và Bài toán lớn số 2; hợp tác Trung Quốc (QĐ 453/QĐ-TTg); khuyến công 2026-2030 (TB 504/TB-CN, TT 66/2026/TT-BCT, TT 139/2026/TT-BTC) và Đề án cụm liên kết ngành (ref 14).",
-      "version": "1.8.0"
+      "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 9 tháng 2026 (IIP 7,7%), dự án hoàn thành 2026; công nghệ chiến lược QĐ 21/2026/QĐ-TTg; hợp tác Trung Quốc; khuyến công 2026-2030; theo dõi SXKD 37 DN công nghiệp + 41 DN thương mại theo CV 10349/UBND-KT 09/10/2026, gửi Thống kê tỉnh trước ngày 10 (ref 15); GCN ĐKĐT bao bì thùng phuy KCN Tằng Loỏng (CBCT-082).",
+      "version": "1.9.0"
     },
     {
       "name": "hc-sct-vn",

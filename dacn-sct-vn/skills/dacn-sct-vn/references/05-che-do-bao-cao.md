@@ -1,5 +1,16 @@
 # Reference 05 — Chế độ báo cáo thực hiện Nghị quyết 169/NQ-CP
 
+## 0. HAI CHẾ ĐỘ BÁO CÁO SONG SONG (từ 09/10/2026)
+
+| Chế độ | Căn cứ | Hạn | Nơi nhận | Nội dung | Reference |
+|---|---|---|---|---|---|
+| Báo cáo **chỉ tiêu NQ 169** | CV 7323/UBND-TH 17/7/2026 | **trước ngày 20** của kỳ | Sở Tài chính | kết quả 09 chỉ tiêu chủ trì, lũy kế, dự báo | reference này |
+| Thông tin **tình hình doanh nghiệp** | **CV 10349/UBND-KT 09/10/2026** | **trước ngày 10** hằng tháng | Thống kê tỉnh + Sở Tài chính | DN biến động lớn, nguyên nhân, vướng mắc, đã xử lý, đề xuất (37 DN công nghiệp, 41 DN thương mại) | `15` |
+
+Không gộp hai báo cáo; bản trước ngày 10 là đầu vào cho bản trước ngày 20.
+
+---
+
 ## I. QUY ĐỊNH GỐC (mục III.7 Công văn triển khai UBND tỉnh)
 
 > Các cơ quan, đơn vị được giao chủ trì theo dõi các chỉ tiêu có trách nhiệm tổng hợp, đánh giá tình hình thực hiện và gửi báo cáo về **Sở Tài chính** **trước ngày 20 của kỳ báo cáo** (tháng, quý, năm); đồng thời **lồng ghép** nội dung báo cáo kết quả thực hiện các chỉ tiêu được giao vào **Báo cáo tình hình thực hiện Nghị quyết số 01/NQ-CP** của Chính phủ của kỳ báo cáo.
@@ -80,6 +91,7 @@ Biểu mẫu triển khai chi tiết: `mau-van-ban/01-bao-cao-dinh-ky-nq169.md`.
 | Mốc | Việc |
 |---|---|
 | Ngày 05-08 | Đôn đốc doanh nghiệp, UBND xã, BQL các KCN, BQL Khu kinh tế gửi số liệu |
+| **Trước ngày 10** | **Gửi Thống kê tỉnh + Sở Tài chính thông tin tóm tắt tình hình DN được giao theo dõi** (CV 10349/UBND-KT — reference `15`) |
 | Ngày 08-12 | Nhập, kiểm tra số liệu vào file theo dõi; chạy `scripts/phan_tich_thang.py` |
 | Ngày 12-14 | Đối chiếu với Thống kê tỉnh, Hải quan KV VII, Điện lực Lào Cai; xử lý chênh lệch |
 | Ngày 14-16 | Cập nhật `du-lieu/danh-muc-du-an.json`; rà soát điểm nghẽn dự án trọng điểm |

@@ -10,6 +10,7 @@ bản gốc), rồi chia làm ba nhóm:
 
   [KHỚP]     có trong kho, ngày tháng trong văn bản trùng kho → yên tâm.
   [LỆCH]     có trong kho nhưng ngày ban hành ghi trong văn bản KHÁC kho → phải sửa một bên.
+  [KHỚP]     (cũng tính) không có trong sổ đăng ký nhưng có bản gốc trong sổ cái van-ban-goc/.
   [CHƯA CÓ]  không có trong kho → Bạn xác nhận từ bản gốc rồi bổ sung vào
              registry/trang-thai.csv, hoặc sửa lại số hiệu nếu viết sai.
 
@@ -41,7 +42,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
 
 from qa_rules import (  # noqa: E402
-    Ctx, SO_VB, ma_tu_so_hieu, nfc, cut, _doc_vbpl,
+    Ctx, SO_VB, ma_tu_so_hieu, nfc, cut, _doc_vbpl, _so_hieu_trong_kho, khoa_so_hieu,
 )
 
 try:
@@ -72,6 +73,7 @@ def quet(path: Path) -> list[dict]:
     doc = Document(str(path))
     ctx.build(doc)
     kho = _doc_vbpl()
+    kho_goc = _so_hieu_trong_kho()
     ra: OrderedDict[str, dict] = OrderedDict()
     for loc, t in ctx.texts:
         for m in SO_VB.finditer(t):
@@ -82,7 +84,13 @@ def quet(path: Path) -> list[dict]:
                 continue
             ghi = kho.get(nfc(ma)) if ma else None
             trong_vb = ngay_sau(t, m.end())
-            if ghi is None:
+            if ghi is None and khoa_so_hieu(so) in kho_goc:
+                # sửa 17/10/2026: trước chỉ tra sổ đăng ký trạng thái nên văn bản có bản gốc trong van-ban-goc/
+                # (TT 23/2024/TT-BCT, TT 32/2019/TT-BCT…) vẫn bị báo "chưa có"
+                trang_thai = "KHỚP"
+                ghi_chu = ("có bản gốc trong kho (sổ cái văn bản gốc — tim_van_ban.py), chưa ghi ngày ban hành, "
+                           "hiệu lực trong registry/trang-thai.csv")
+            elif ghi is None:
                 trang_thai = "CHƯA CÓ"
                 ghi_chu = ("Chưa đối chiếu được — mở bản gốc xác nhận rồi bổ sung vào "
                            "registry/trang-thai.csv, hoặc sửa số hiệu nếu viết sai.")

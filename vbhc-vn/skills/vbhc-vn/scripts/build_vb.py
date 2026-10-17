@@ -26,6 +26,7 @@ FILE NỘI DUNG — mỗi dòng một đoạn, thẻ ở đầu dòng:
     [I]  đề mục NGHIÊNG       (a) / b) / c) — nhãn và tiêu đề ngắn, theo Quy tắc bất biến 9)
     [K]  dòng "Kính gửi: …"   (căn giữa, không đậm — Nhóm G, R04)
     [P]  đoạn thường          (mặc định khi không ghi thẻ)
+    [[…]] trong dòng           chỗ chưa hoàn thiện → chữ TÍM 7030A0 (Quy tắc 27(c); R03 chặn khi --final)
     ##   dòng chú thích, bỏ qua
 
 TỰ CHUẨN HÓA (không phải nhớ, không sửa tay được nữa):
@@ -51,7 +52,7 @@ from pathlib import Path
 try:
     from docx import Document
     from docx.enum.text import WD_ALIGN_PARAGRAPH
-    from docx.shared import Cm
+    from docx.shared import Cm, RGBColor
 except ImportError:  # pragma: no cover
     print("LỖI: thiếu python-docx. Cài: pip install python-docx", file=sys.stderr)
     raise
@@ -144,8 +145,27 @@ def _chia_chi_so(text: str) -> list[tuple[str, str | None]]:
     return ra
 
 
+TIM = RGBColor(0x70, 0x30, 0xA0)
+THE_TIM = re.compile(r"\[\[(.+?)\]\]")
+
+
+def _chia_tim(text: str) -> list[tuple[str, str | None, bool]]:
+    """Tách chỗ [[…]] (chưa hoàn thiện, Bạn bổ sung) thành mảnh chữ TÍM 7030A0 (Quy tắc bất biến 27(c)), rồi tách
+    tiếp chỉ số trên/dưới trong từng mảnh: [(chữ, sub|sup|None, tím?)]."""
+    ra: list[tuple[str, str | None, bool]] = []
+    cur = 0
+    for m in THE_TIM.finditer(text):
+        if m.start() > cur:
+            ra += [(t, k, False) for t, k in _chia_chi_so(text[cur:m.start()])]
+        ra += [(t, k, True) for t, k in _chia_chi_so(m.group(1))]
+        cur = m.end()
+    if cur < len(text) or not ra:
+        ra += [(t, k, False) for t, k in _chia_chi_so(text[cur:])]
+    return [x for x in ra if x[0]] or [("", None, False)]
+
+
 def viet(p, text: str, dam: bool, nghieng: bool) -> None:
-    """Ghi text vào paragraph, giữ định dạng run mẫu, tự tách run chỉ số trên/dưới."""
+    """Ghi text vào paragraph, giữ định dạng run mẫu, tự tách run chỉ số trên/dưới và chữ tím [[…]]."""
     co_chu = [r for r in p.runs if r.text.strip()]
     goc = co_chu[0] if co_chu else (p.runs[0] if p.runs else p.add_run(""))
     # So sánh theo PHẦN TỬ XML, không theo object: python-docx tạo object Run bọc MỚI mỗi lần
@@ -154,25 +174,24 @@ def viet(p, text: str, dam: bool, nghieng: bool) -> None:
     for r in list(p.runs):
         if r._element is not goc._element:
             r._element.getparent().remove(r._element)
-    manh = _chia_chi_so(text)
-    goc.text = manh[0][0]
-    goc.bold = True if dam else None
-    goc.italic = True if nghieng else None
-    if manh[0][1] == "sub":
-        goc.font.subscript = True
-    elif manh[0][1] == "sup":
-        goc.font.superscript = True
+    manh = _chia_tim(text)
     truoc = goc
-    for phan, kieu in manh[1:]:
-        moi = p.add_run(phan)
-        moi.font.name = goc.font.name
-        moi.font.size = goc.font.size
+    for i, (phan, kieu, tim) in enumerate(manh):
+        if i == 0:
+            moi = goc
+            moi.text = phan
+        else:
+            moi = p.add_run(phan)
+            moi.font.name = goc.font.name
+            moi.font.size = goc.font.size
         moi.bold = True if dam else None
         moi.italic = True if nghieng else None
         if kieu == "sub":
             moi.font.subscript = True
         elif kieu == "sup":
             moi.font.superscript = True
+        if tim:
+            moi.font.color.rgb = TIM
         truoc = moi
     return truoc
 
@@ -284,7 +303,8 @@ def dat_kinh_gui(doc, dong: str, khuon) -> None:
     bang, p_kg = bang_kinh_gui(doc), p_kinh_gui(doc)
     if len(muc) <= 1:
         ten = (muc[0] if muc else "").rstrip(".")
-        text = f"Kính gửi: {ten}." if ten else "Kính gửi:"
+        # Một nơi nhận: một dòng, KHÔNG dấu chấm cuối (Nhóm G — Bạn sửa tay 24/7/2026; 6/8 mẫu thật không chấm)
+        text = f"Kính gửi: {ten}" if ten else "Kính gửi:"
         if bang is not None:
             # Thay cả bảng bằng MỘT dòng căn giữa, giữ đúng một dòng trống ở trên và ở dưới.
             tbl = bang._tbl
@@ -456,6 +476,8 @@ def main() -> int:
     chuan_hoa_file(ra)
     print(f"Đã dựng {ra}  ({len(rows)} đoạn thân, mẫu: {mau.name}, "
           f"lùi đầu dòng {lui if lui is not None else '—'} cm)")
+    print("  ⚠ Trích yếu, dòng ngày, người ký, Nơi nhận vẫn là của MẪU — thay bằng fill_template.py hoặc sửa trên "
+          "file rồi chạy kiem_tra_truoc_khi_giao.py; qa_rules PASS không có nghĩa là các phần đó đã đúng.")
 
     if a.khong_qa:
         return 0

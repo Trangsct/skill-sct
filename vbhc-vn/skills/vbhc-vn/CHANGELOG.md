@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.32.0 — 17/10/2026 — Sửa SIGSPLIT báo nhầm phụ lục và bỏ sót khối ký gãy; cite_check tra sổ cái; build_vb thẻ chữ tím, Kính gửi không chấm
+
+- Chi tiết: `CHANGELOG-v2026.10.17-2.md`.
+
 ## v2.31.0 — 17/10/2026 — GATE 0 kế hoạch soạn thảo (R23), GATE 0b dàn ý, GATE cuối rà soát độc lập, sổ lỗi tự ghi
 
 - Chi tiết: `CHANGELOG-v2026.10.17.md`.

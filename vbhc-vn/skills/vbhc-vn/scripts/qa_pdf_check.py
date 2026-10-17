@@ -20,6 +20,7 @@ Yêu cầu: soffice (LibreOffice), pdftotext, python-docx.
 """
 
 import re
+import unicodedata
 import subprocess
 import sys
 import tempfile
@@ -80,16 +81,69 @@ def check_widow(pages) -> list:
     return issues
 
 
-def check_sig_split(pages) -> list:
+def _gon(s: str) -> str:
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFC", s or "")).strip()
+
+
+def _o_ky_docx(docx_path: Path):
+    """Các dòng chữ của KHỐI KÝ cuối cùng trong file .docx (chức danh đầu khối, tên người ký cuối khối).
+
+    Ưu tiên ô bảng chứa chức danh ký (bảng Nơi nhận - chữ ký, ô ký của giấy chứng nhận, biên bản); không có bảng thì
+    lấy đoạn thân cuối cùng chứa chức danh ký và tối đa 8 đoạn sau nó. Không thấy → None."""
+    d = Document(str(docx_path))
+    # dòng chức danh của khối ký: ngắn, viết hoa toàn bộ ("KT. GIÁM ĐỐC", "PHÓ CHỦ TỊCH") — không phải câu thân văn bản
+    co_chuc_danh = lambda x: len(x) <= 40 and x == x.upper() and any(tt in x for tt in SIGN_TITLES)  # noqa: E731
+    o_cuoi = None
+    for t in d.tables:
+        for row in t.rows:
+            for c in row.cells:
+                dong = [_gon(p.text) for p in c.paragraphs if p.text.strip()]
+                if len(dong) >= 2 and co_chuc_danh(dong[0]) and not co_chuc_danh(dong[-1]):
+                    o_cuoi = dong
+    if o_cuoi:
+        return o_cuoi
+    ps = [_gon(p.text) for p in d.paragraphs]
+    vt = max((i for i, x in enumerate(ps) if x and co_chuc_danh(x)), default=None)
+    if vt is None:
+        return None
+    dong = [x for x in ps[vt:vt + 9] if x]
+    while len(dong) > 1 and co_chuc_danh(dong[-1]):
+        dong.pop()
+    return dong if len(dong) >= 2 else None
+
+
+def check_sig_split(pages, docx_path: Path | None = None) -> list:
     """Chức danh ký và tên người ký phải cùng trang.
 
-    Heuristic: trang chứa chức danh cuối cùng phải chứa cả dòng tên
-    (dòng cuối cùng có 2-5 từ viết hoa chữ đầu, không phải chức danh).
-    Cách chắc chắn hơn: nếu MỘT trang chỉ chứa tên người ký + nơi nhận rơi
-    xuống mà không có nội dung body -> nghi gãy khối ký.
+    Có file .docx (cách chuẩn từ 17/10/2026): lấy đúng các dòng của ô ký trong bảng Nơi nhận - chữ ký (chức danh
+    đầu ô, tên người ký cuối ô), tìm trang chứa tên người ký (lần xuất hiện cuối), rồi trang chứa dòng chức danh
+    đầu ô gần nhất phía trước. Khác trang → gãy khối ký. Trang SAU khối ký (phụ lục, biểu kèm theo) không tính.
+    Vụ 17/10/2026: cách cũ báo nhầm mọi văn bản có phụ lục sau khối ký, và bỏ sót khi "KT. GIÁM ĐỐC" ở trang 1
+    còn "PHÓ GIÁM ĐỐC" + tên sang trang 2.
+
+    Không có .docx hoặc không thấy ô ký: heuristic cũ — trang chứa chức danh cuối cùng; trang sau còn chữ mà
+    không mở đầu bằng Phụ lục/Biểu/Danh mục/Mẫu → nghi gãy.
     """
+    gp = [_gon(pg) for pg in pages]
+    dong = None
+    if docx_path is not None:
+        try:
+            dong = _o_ky_docx(Path(docx_path))
+        except Exception:
+            dong = None
+    if dong and len(dong) >= 2:
+        ten, dau = dong[-1], dong[0]
+        trang_ten = max((i for i, pg in enumerate(gp) if ten in pg), default=None)
+        if trang_ten is not None:
+            trang_dau = max((i for i, pg in enumerate(gp[:trang_ten + 1]) if dau in pg), default=None)
+            if trang_dau is not None and trang_dau != trang_ten:
+                return [f"khối ký gãy trang: '{dau}' ở trang {trang_dau + 1}, tên người ký '{ten}' ở trang "
+                        f"{trang_ten + 1}"]
+            return []
+    if docx_path is not None and not dong:
+        # có file .docx mà không thấy khối ký (phụ biểu, biên bản ký nhiều bên) — soát tay, không đoán theo trang
+        return ["không tìm thấy khối ký trong file .docx (kiểm tra thủ công)"]
     issues = []
-    # tìm trang cuối cùng có chức danh ký
     title_page = None
     for pno, page in enumerate(pages, 1):
         for t in SIGN_TITLES:
@@ -97,12 +151,10 @@ def check_sig_split(pages) -> list:
                 title_page = max(title_page or 0, pno)
     if title_page is None:
         return ["không tìm thấy chức danh ký trong PDF (kiểm tra thủ công)"]
-    # sau trang chức danh còn trang nào có nội dung không?
     for pno in range(title_page, len(pages)):
-        page = pages[pno]  # trang sau title_page (index pno = trang pno+1)
-        body = page.strip()
-        if body and pno + 1 > title_page:
-            # trang sau chức danh còn chữ -> khả năng tên ký/nơi nhận rơi trang
+        body = pages[pno].strip()
+        dau_trang = re.sub(r"^\d+\s+", "", " ".join(body.split()[:6]))
+        if body and not re.match(r"(?i)(PHỤ\s+LỤC|Phụ\s+lục|BIỂU|Biểu|DANH\s+MỤC|Danh\s+mục|MẪU|Mẫu)", dau_trang):
             first_words = " ".join(body.split()[:12])
             issues.append(
                 f"khối ký nghi gãy trang: chức danh ở trang {title_page}, "
@@ -240,7 +292,7 @@ def main():
             if pages:
                 for msg in check_widow(pages):
                     fails.append(("WIDOW", msg))
-                for msg in check_sig_split(pages):
+                for msg in check_sig_split(pages, docx_path):
                     fails.append(("SIGSPLIT", msg))
 
     for tag, msg in warns:

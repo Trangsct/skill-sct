@@ -15,6 +15,7 @@ Kiểm hai chiều:
 
   5. GATE 0 — tests/test_gate0.py: R23 cảnh báo số hiệu văn bản quy phạm chưa có nguồn.
   6. GATE cuối — tests/test_ra_soat.py: số đo rà soát, --tu-sua, một lệnh dưới 30 giây.
+  7. SIGSPLIT — tests/test_sigsplit.py: khối ký gãy trang, không báo nhầm phụ lục.
 
   4. TRÌNH BIÊN DỊCH build_vb.py dựng được cả 7 loại văn bản từ cùng một file nội dung, bản
      dựng không có FAIL, và công thức hóa học / đơn vị m2, m3 được tách run chỉ số thật.
@@ -244,6 +245,14 @@ def main() -> int:
     print("   " + (r.stdout.strip().splitlines() or ["(không có kết quả)"])[0])
     if r.returncode != 0:
         loi.append("test_ra_soat.py đỏ: " + (r.stdout + r.stderr).strip()[-300:])
+
+    # ── 7. Khối ký gãy trang (SIGSPLIT, sửa 17/10/2026) — không cần LibreOffice ──
+    print("\n── 7. SIGSPLIT (tests/test_sigsplit.py) ──")
+    r = subprocess.run([sys.executable, str(TESTS / "test_sigsplit.py")], capture_output=True, text=True,
+                       timeout=120)
+    print("   " + (r.stdout.strip().splitlines() or ["(không có kết quả)"])[0])
+    if r.returncode != 0:
+        loi.append("test_sigsplit.py đỏ: " + (r.stdout + r.stderr).strip()[-300:])
 
     if a.cap_nhat_baseline:
         BASELINE.write_text(json.dumps(moi_baseline, ensure_ascii=False, indent=2) + "\n",

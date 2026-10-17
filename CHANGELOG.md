@@ -1,3 +1,7 @@
+## 17/10/2026 (đợt 2) — vbhc-vn 2.32.0: sửa các lỗi có từ trước phát hiện khi kiểm thử
+
+- **vbhc-vn 2.32.0** — `qa_pdf_check.check_sig_split` viết lại theo khối ký thật trong .docx: hết báo nhầm văn bản có phụ lục, bắt được khối ký gãy giữa "KT. GIÁM ĐỐC" và tên người ký; `tests/test_sigsplit.py`. `cite_check.py` tra thêm sổ cái văn bản gốc. `build_vb.py`: thẻ `[[…]]` → chữ tím; "Kính gửi" một nơi nhận không chấm cuối; nhắc phần còn là của mẫu.
+
 ## 17/10/2026 — Nâng cấp hệ plugin theo bản giao việc 17/10/2026: trạng thái hồ sơ dùng chung, nhật ký cuối phiên, tự ghi lỗi, GATE 0 kế hoạch soạn thảo, GATE 0b dàn ý, rà soát độc lập bản cuối
 
 - **Mục 5 — `trang-thai/`** (mới, gốc kho): mẫu `MAU.md`, 8 tệp khởi tạo (4 CCN, ủy quyền GĐ Sở, Bài toán lớn số 2, Làng Cang 2, KH 130); `scripts/tim_ho_so.py` (chọn tệp từ câu yêu cầu theo dòng "Bí danh:"), `scripts/trang_thai_ho_so.py` (bảng tổng hợp, lọc `--plugin`), `scripts/check_trang_thai.py` (chạy kèm `check_descriptions.py` → CI), `scripts/trang_thai_lib.py`; CLAUDE.md GATE "Đọc trạng thái hồ sơ". **kccn-sct-vn 1.51.0**: `trang_thai_cum.py` dẫn sang tệp trạng thái; ref 26 đính chính ngày QĐ 2736/QĐ-UBND.

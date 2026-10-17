@@ -16,6 +16,8 @@ from __future__ import annotations
 
 import sys
 
+sys.dont_write_bytecode = True  # nhập trang_thai_lib cạnh script: không sinh __pycache__ trong kho (CI chặn)
+
 from trang_thai_lib import DE_NHAT_KY, MUC, REPO, THU_MUC, HoSo, cac_tep, kiem_rieng_tu
 
 TOI_DA_NHAT_KY = 10

@@ -16,6 +16,8 @@ import argparse
 import json
 import sys
 
+sys.dont_write_bytecode = True  # nhập trang_thai_lib cạnh script: không sinh __pycache__ trong kho (CI chặn)
+
 from trang_thai_lib import HoSo, REPO, cac_tep, ngay_khoa
 
 

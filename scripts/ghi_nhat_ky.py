@@ -35,6 +35,8 @@ import argparse
 import json
 import re
 import sys
+
+sys.dont_write_bytecode = True  # nhập trang_thai_lib cạnh script: không sinh __pycache__ trong kho (CI chặn)
 from pathlib import Path
 
 from tim_ho_so import cham

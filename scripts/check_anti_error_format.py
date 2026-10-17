@@ -26,6 +26,8 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+
+sys.dont_write_bytecode = True  # nhập trang_thai_lib cạnh script: không sinh __pycache__ trong kho (CI chặn)
 from datetime import date
 from pathlib import Path
 

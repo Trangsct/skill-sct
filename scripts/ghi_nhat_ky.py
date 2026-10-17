@@ -204,6 +204,9 @@ def main() -> int:
         ap.error("thiếu tên hồ sơ")
 
     if a.tam:
+        ds_hs = cham(a.ho_so) if not (THU_MUC / f"{a.ho_so}.md").exists() else []
+        if ds_hs:
+            a.ho_so = ds_hs[0][1].path.stem  # ghi slug, phiên sau nạp không phải tra lại bí danh
         tep = Path.cwd() / TAM
         ds = json.loads(tep.read_text(encoding="utf-8")) if tep.exists() else []
         ds.append({"ho_so": a.ho_so, "ngay": a.ngay,

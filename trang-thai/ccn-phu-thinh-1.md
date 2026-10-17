@@ -12,7 +12,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 | 5330/BC-SCT | 28/8/2026 | Sở Công Thương | Báo cáo thẩm định điều chỉnh | — (ref 30, ref 46) |
 | 5424/TTr-SCT | 04/9/2026 | Sở Công Thương | Trình điều chỉnh | — (ref 30, ref 44) |
 | 1305-NQ/ĐU | 08/10/2026 | BTV Đảng ủy UBND tỉnh | Chủ trương điều chỉnh | — (ref 46) |
-| 3725/QĐ-UBND | 09/10/2026 | UBND tỉnh Lào Cai | Điều chỉnh QĐ thành lập: đổi địa điểm, bổ sung ngành giấy công nghệ cao, hợp kim nhôm; tiến độ 3 giai đoạn | — (ref 46 dòng 14, 61–72; bản gốc không chép vào kho công khai) |
+| 3725/QĐ-UBND | 09/10/2026 | UBND tỉnh Lào Cai | Điều chỉnh QĐ thành lập: đổi địa điểm, bổ sung ngành giấy công nghệ cao, hợp kim nhôm; tiến độ 3 giai đoạn; chủ đầu tư Liên danh Công ty CP Tập đoàn Đông Đô và Công ty CP Đầu tư Xây dựng số 9 Bắc Giang | — (ref 46 dòng 14, 61–72; bản gốc không chép vào kho công khai) |
 
 ## Bước đã xong
 

@@ -61,7 +61,7 @@ def main() -> int:
         return 1
     for i, (d, h, k) in enumerate(ds):
         dau = "→" if i == 0 else " "
-        print(f"{dau} {h.path.relative_to(REPO)}  ({h.ten}; khớp \"{k}\")")
+        print(f"{dau} {h.path}  ({h.ten}; khớp \"{k}\")")
     return 0
 
 

@@ -173,7 +173,7 @@ def do(path: Path, pdf: Path | None = None, render: bool = True) -> list[dict]:
         _ve(ds, "4. Trang", "không render được PDF — xem ảnh qa_all.py để soát trang trống")
 
     # [5] UBND trong thân (ngoài bảng header, Nơi nhận)
-    ubnd = [(loc, t) for loc, t in than if re.search(r"\bUBND\b", t)]
+    ubnd = [(loc, t) for loc, t in than if re.search(r"(?<![-/])\bUBND\b(?!-)", t)]
     for loc, t in ubnd[:10]:
         _ve(ds, "5. UBND viết tắt", f"{loc}: {cut(t, 70)}", True)
     if not ubnd:

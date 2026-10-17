@@ -8,7 +8,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 | Số ký hiệu | Ngày | Cơ quan | Trích yếu ngắn | Tệp trong kho |
 |---|---|---|---|---|
 | 298/QĐ-UBND | 20/02/2025 | UBND tỉnh Lào Cai | Thành lập CCN Thống Nhất 1 | — (tóm tắt: ref 23 dòng 7) |
-| 630/QĐ-UBND | 06/3/2025 | UBND tỉnh Lào Cai | Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư | — (ref 23) |
+| 630/QĐ-UBND | 06/3/2025 | UBND tỉnh Lào Cai | Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Công ty Cổ phần Đầu tư phát triển Công nghiệp Lào Cai | — (ref 23) |
 | 1955/QĐ-UBND | 19/6/2025 | UBND tỉnh Lào Cai | Chủ trương đầu tư đường IC18 – CCN | — (ref 23) |
 | 1311/QĐ-UBND | 23/6/2025 | UBND thành phố Lào Cai | Quy hoạch chi tiết xây dựng 1/500 | — (ref 23) |
 | 43/TBKC-LCI | 25/4/2026 | Chủ đầu tư hạ tầng | Thông báo khởi công | — (ref 23) |

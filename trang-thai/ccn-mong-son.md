@@ -13,8 +13,8 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 | 4779/SCT-CN | 07/8/2026 | Sở Công Thương | Lấy ý kiến về tiêu chí (ref 27 dòng 21) | — |
 | 5207/GM-HĐ, 5214/GM-HĐ | 24/8/2026 | Hội đồng | Giấy mời họp Hội đồng (ref 30 dòng 63) | — |
 | 5342/BC-SCT, 5343/TTr-SCT | 28/8/2026 | Sở Công Thương | Báo cáo, tờ trình thành lập cụm (ref 30 dòng 64) | — |
-| 3426/QĐ-UBND | 23/9/2026 | UBND tỉnh Lào Cai | Thành lập CCN Mông Sơn, xã Bảo Ái, 50 ha | — (ref 41 dòng 15) |
-| 6020/SCT-CN | 25/9/2026 | Sở Công Thương | Triển khai Quyết định thành lập | — (ref 41 dòng 17) |
+| 3426/QĐ-UBND | 23/9/2026 | UBND tỉnh Lào Cai | Thành lập CCN Mông Sơn, xã Bảo Ái, 50 ha; chủ đầu tư hạ tầng Công ty CP Đầu tư xây dựng hạ tầng CRC; tổng mức đầu tư 496,651 tỷ đồng | — (ref 41 dòng 15) |
+| 6020/SCT-CN | 25/9/2026 | Sở Công Thương | Triển khai Quyết định thành lập; yêu cầu chủ đầu tư lập kế hoạch, đường găng (hạn: chưa có thông tin trong kho) | — (ref 41 dòng 17) |
 
 ## Bước đã xong
 

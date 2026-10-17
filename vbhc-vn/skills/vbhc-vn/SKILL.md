@@ -36,7 +36,7 @@ f) Mỗi điểm thiếu: tự tìm trước trong kho — `scripts/tim_van_ban.
 Mẫu tệp (gõ thẳng, không markdown): `templates/ke-hoach-soan-mau.txt`. Số hiệu Bạn gửi trong phiên mà chưa có trong
 kho thì ghi vào `can-cu-phien.txt` (mỗi dòng một số hiệu) cạnh file .docx để máy kiểm nhận.
 
-- **Văn bản dưới một trang đủ dữ kiện trong yêu cầu** (giấy mời, công văn chuyển hồ sơ, phiếu trình ngắn): bỏ qua tệp
+- **Văn bản dưới một trang đủ dữ kiện trong yêu cầu hoặc tệp `trang-thai/` của hồ sơ** (giấy mời, công văn chuyển hồ sơ, phiếu trình ngắn): bỏ qua tệp
   kế hoạch, soạn ngay; vẫn chạy kiểm tra số hiệu (R23).
 - **Máy kiểm R23** (`qa_rules.py`, chạy trong `qa_all.py` mục 1b): mọi số hiệu văn bản quy phạm (dạng số/năm/ký hiệu)
   trong file .docx phải khớp tệp gốc trong kho hoặc căn cứ của phiên; không khớp → WARN, in số hiệu để Bạn kiểm tra.

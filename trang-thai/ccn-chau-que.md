@@ -9,7 +9,7 @@ Plugin liên quan: kccn-sct-vn, vbhc-vn
 |---|---|---|---|---|
 | 4299/SCT-TTr | 17/7/2026 | Sở Công Thương | Trình thành lập Hội đồng (ký hiệu ghi đúng như ref 17 dòng 47) | — |
 | 68/TTr-UBND | 11/5/2026 | UBND xã Châu Quế | Tờ trình (đã được thay thế bởi TTr 196) | — (ref 37 dòng 29–30) |
-| 196/TTr-UBND | 11/9/2026 | UBND xã Châu Quế | Tờ trình thay thế TTr 68 | — (ref 37 dòng 29–30) |
+| 196/TTr-UBND | 11/9/2026 | UBND xã Châu Quế | Tờ trình thay thế TTr 68; nhà đầu tư đăng ký Công ty CP Thịnh Vượng Long (văn bản 08/CV-TVL ngày 10/9/2026) | — (ref 37 dòng 29–30) |
 | 3491/SVHTTDL-QLPTDL | 23/9/2026 | Sở Văn hóa, Thể thao và Du lịch | Ý kiến của sở (ref 42 dòng 227) | — |
 | 6391/SXD-PTĐT | 28/9/2026 | Sở Xây dựng | Ý kiến của sở (ref 42 dòng 228) | — |
 | 6126/SCT-CN | 29/9/2026 | Sở Công Thương | Yêu cầu giải trình, hoàn thiện hồ sơ (ref 43 dòng 32) | — |

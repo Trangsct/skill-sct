@@ -373,8 +373,9 @@ def main():
     if pages_txt:
         for msg in check_widow(pages_txt):
             fails.append(("WIDOW", msg))
-        for msg in check_sig_split(pages_txt):
-            fails.append(("SIGSPLIT", msg))
+        for msg in check_sig_split(pages_txt, docx_path):
+            # không tìm thấy chức danh ký (biên bản, phiếu trình có khối ký riêng) là việc soát tay, không phải lỗi
+            (warns if msg.startswith("không tìm thấy") else fails).append(("SIGSPLIT", msg))
     # SIGSPACE: (2) ô ký ≥3 dòng trống giữ FAIL (26/26 mẫu thật đạt); (1) đúng 1 dòng trống
     # trước bảng ký và (3) dòng Nơi nhận ≤45 ký tự hạ WARN — 13 mẫu thật có 0 hoặc 2 dòng
     # trống, dòng Nơi nhận dài tới 78 ký tự (hiệu chỉnh 17/9/2026, mẫu thật là chuẩn).

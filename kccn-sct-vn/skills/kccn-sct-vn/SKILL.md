@@ -25,6 +25,10 @@ và cảnh báo các văn bản bị CẤM ở bậc đó. Quy tắc:
 - Script không tìm thấy dòng nào, hoặc dòng mới nhất quá 07 ngày, hoặc có cảnh báo thay thế/đổi vị trí
   → **hỏi người dùng một câu cụ thể** (mẫu câu: ref `39` mục E) trước khi viết.
 - Mượn mẫu của cụm khác chỉ mượn thể thức; **trạng thái hồ sơ không mượn được** (ref `39` mục F).
+- **Tệp trạng thái hồ sơ (Bạn chốt 17/10/2026):** khi làm trong kho skill-sct, đọc `trang-thai/ccn-<tên cụm>.md`
+  ở gốc kho TRƯỚC (script tự in đường dẫn nếu có; `scripts/tim_ho_so.py` ở gốc kho tra theo câu yêu cầu). Tệp mới hơn
+  tài liệu plugin: dòng mới nhất quá 07 ngày thì lấy bậc theo mục "Bước đã xong", "Nhật ký phiên" của tệp, chỉ hỏi
+  khi tệp cũng không rõ. Không tóm tắt lại tệp cho Bạn. Cuối phiên ghi nhật ký bằng `scripts/ghi_nhat_ky.py`.
 
 Vụ thật 17/9/2026: soạn công văn đề nghị cử cán bộ "để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng"
 cho CCN Châu Quế trong khi cụm đã có Quyết định thành lập Hội đồng — người dùng phải nhận lỗi với Lãnh

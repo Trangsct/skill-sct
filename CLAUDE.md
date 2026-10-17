@@ -122,6 +122,28 @@ phiên thấy phải nằm trong từng plugin. Từ nay:
 - Dung lượng: tệp ≥ 3 MB vẫn bị export-ignore (bản gốc chỉ có trên GitHub), bản `.txt` nhỏ luôn vào gói nên toàn văn vẫn
   tra được trong mọi phiên; kho vượt 480 MB thì PR nạp kho cảnh báo (trần 512 MB).
 
+## Trạng thái hồ sơ dùng chung — GATE "Đọc trạng thái hồ sơ" (Bạn chốt 17/10/2026)
+
+Thư mục `trang-thai/` ở gốc kho: mỗi hồ sơ đang làm một tệp `<slug>.md` theo `trang-thai/MAU.md` (tên hồ sơ, dòng
+`Bí danh:`, `Plugin liên quan:`, 7 mục: Văn bản đã phát hành · Bước đã xong · Bước tiếp theo · Vướng mắc, câu hỏi còn mở ·
+Quyết định của Bạn · Yêu cầu riêng một lần · Nhật ký phiên). Khởi tạo 17/10/2026: `ccn-phu-thinh-1`, `ccn-thong-nhat-1`,
+`ccn-mong-son`, `ccn-chau-que`, `uy-quyen-gd-sct`, `bai-toan-lon-so-2`, `tan-thu-da-thai-lang-cang-2`,
+`kh-130-cong-nghiep-vat-lieu` (hai tệp cuối chưa có dữ kiện trong kho — ghi "chưa có thông tin trong kho").
+
+- **GATE:** Bạn nhắc đến một hồ sơ (tên cụm, tên dự án, "BT2", "ủy quyền"…) → chạy
+  `python3 scripts/tim_ho_so.py "<câu yêu cầu của Bạn>"`, đọc tệp nó chỉ ra **trước khi làm**, dùng ngay nội dung đó.
+  **Không tóm tắt lại hồ sơ cho Bạn** (Bạn đã biết hồ sơ của mình). Chỉ nêu MỘT dòng khi tệp mâu thuẫn với yêu cầu
+  (tệp ghi bước đã xong mà Bạn yêu cầu làm lại; tệp ghi Bạn đã quyết khác).
+- **Chưa có tệp** → tạo ngay từ mẫu, không hỏi: `python3 scripts/ghi_nhat_ky.py --tao-moi "<Tên hồ sơ>" --bi-danh "a; b"
+  --plugin <plugin>`; điền văn bản, bước hiện tại từ tài liệu plugin; chỗ chưa biết ghi "chưa có thông tin trong kho".
+- Tổng hợp mọi hồ sơ: `python3 scripts/trang_thai_ho_so.py [--plugin kccn-sct-vn]`. CCN/KCN: `kccn-sct-vn/scripts/trang_thai_cum.py`
+  vẫn dùng như cũ, tự in đường dẫn tệp trạng thái trùng tên cụm và lấy bậc theo tệp đó thay vì hỏi lại Bạn.
+- Kho CÔNG KHAI: trong tệp trạng thái chỉ ghi tên công ty và số giấy phép nhà nước cấp; KHÔNG số điện thoại, tài khoản,
+  người đại diện, thông tin đăng ký doanh nghiệp, sức khỏe, đời tư. `scripts/check_trang_thai.py` (chạy kèm
+  `check_descriptions.py` → CI đỏ) kiểm đủ mục, nhật ký cuối có ngày, không quá 10 mục nhật ký, không lộ các mẫu trên.
+- `trang-thai/` và `scripts/` ở gốc kho KHÔNG vào gói claude.ai; phiên claude.ai không đọc được tệp thì làm theo yêu cầu và
+  cuối phiên đưa đoạn nhật ký (mục "Kết thúc phiên") để Bạn dán.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

@@ -1,3 +1,7 @@
+## 17/10/2026 — Nâng cấp hệ plugin theo bản giao việc 17/10/2026: trạng thái hồ sơ dùng chung, nhật ký cuối phiên, tự ghi lỗi, GATE 0 kế hoạch soạn thảo, GATE 0b dàn ý, rà soát độc lập bản cuối
+
+- **Mục 5 — `trang-thai/`** (mới, gốc kho): mẫu `MAU.md`, 8 tệp khởi tạo (4 CCN, ủy quyền GĐ Sở, Bài toán lớn số 2, Làng Cang 2, KH 130); `scripts/tim_ho_so.py` (chọn tệp từ câu yêu cầu theo dòng "Bí danh:"), `scripts/trang_thai_ho_so.py` (bảng tổng hợp, lọc `--plugin`), `scripts/check_trang_thai.py` (chạy kèm `check_descriptions.py` → CI), `scripts/trang_thai_lib.py`; CLAUDE.md GATE "Đọc trạng thái hồ sơ". **kccn-sct-vn 1.51.0**: `trang_thai_cum.py` dẫn sang tệp trạng thái; ref 26 đính chính ngày QĐ 2736/QĐ-UBND.
+
 ## 13/10/2026 — vbhc-vn 2.30.0, hnh-sct-vn 1.14.0, hl-vlncn-sct-vn 1.4.8, tkm-sct-vn 1.4.4, sd-vlncn-sct-vn 2026.10.13.1: thủ tục hành chính không gửi Ban Giám đốc Sở; Nơi nhận cỡ 11; khối ký cách thân 1 dòng; quét phông Times New Roman trước khi xuất
 
 - Bạn chốt 13/10/2026 (vụ 3 công văn hoàn thiện hồ sơ vận chuyển HHNH Toàn Phát TQ, An Bình, Tân Phúc Hưng trình trên hệ thống quản lý văn bản mới, PGĐ ký số báo lỗi): văn bản giải quyết thủ tục hành chính **không gửi Ban Giám đốc Sở**, chỉ gửi trực tiếp các đơn vị theo đúng quy định; các dòng Nơi nhận cỡ 11; khối Nơi nhận - ký cách thân đúng 1 dòng; toàn bộ file phông Times New Roman. Máy kiểm và công cụ sửa ở vbhc-vn 2.30.0 (R19–R22, `scripts/chuan_hoa_xuat_ban.py`).

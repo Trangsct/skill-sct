@@ -162,6 +162,10 @@ def main():
     print('=' * 72)
     print('GATE TRẠNG THÁI HỒ SƠ — {}'.format(args.ten_cum))
     print('=' * 72)
+    tep_tt = tep_trang_thai(args.ten_cum)
+    if tep_tt:
+        print('TỆP TRẠNG THÁI HỒ SƠ (đọc TRƯỚC, mới hơn tài liệu plugin): {}'.format(tep_tt))
+        print('-' * 72)
 
     if not ket_qua:
         print('KHÔNG tìm thấy dòng nào về cụm này trong plugin.')
@@ -217,12 +221,37 @@ def main():
         cach = (datetime.date.today() - moi_nhat).days
         print('Dòng có ngày mới nhất: {} (cách hôm nay {} ngày).'.format(
             moi_nhat.strftime('%d/%m/%Y'), cach))
-        if cach > 7:
+        if cach > 7 and tep_tt:
+            print('⚠ Quá 07 ngày — lấy bậc hiện tại theo tệp trạng thái {} (mục Bước đã xong, '
+                  'Nhật ký phiên); chỉ hỏi người dùng khi tệp đó cũng không rõ.'.format(tep_tt))
+        elif cach > 7:
             print('⚠ Quá 07 ngày — bậc kế tiếp có thể đã xong mà plugin chưa ghi. HỎI người dùng '
                   'trước khi soạn (ref 39 mục E).')
     print('LƯU Ý: plugin chỉ ghi đến kỳ cập nhật gần nhất (ref 32). Trước khi trình ký, '
           'xác nhận lại với người dùng nếu dòng mới nhất đã cũ hoặc bậc kế tiếp có thể đã xong.')
     return 0
+
+
+def tep_trang_thai(ten_cum):
+    """Tệp trang-thai/<slug>.md ở gốc kho skill-sct (Bạn chốt 17/10/2026) — chỉ có khi chạy trong kho,
+    không có trong gói claude.ai. Tra tên cụm theo dòng 'Bí danh:' như scripts/tim_ho_so.py."""
+    goc = os.path.dirname(os.path.dirname(os.path.dirname(goc_plugin())))
+    thu_muc = os.path.join(goc, 'trang-thai')
+    if not os.path.isdir(thu_muc):
+        return None
+    khoa = re.sub(r'[^a-z0-9]+', ' ', bo_dau(ten_cum)).strip()
+    for ten in sorted(os.listdir(thu_muc)):
+        if not ten.endswith('.md') or ten in ('MAU.md', 'README.md'):
+            continue
+        duong_dan = os.path.join(thu_muc, ten)
+        with open(duong_dan, encoding='utf-8') as f:
+            dau = f.read(2000)
+        m = re.search(r'^Bí danh:(.*)$', unicodedata.normalize('NFC', dau), re.M)
+        cum = [ten[:-3]] + (m.group(1).split(';') if m else [])
+        for c in cum:
+            if re.sub(r'[^a-z0-9]+', ' ', bo_dau(c)).strip() == khoa:
+                return os.path.relpath(duong_dan, goc)
+    return None
 
 
 if __name__ == '__main__':

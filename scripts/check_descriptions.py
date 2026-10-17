@@ -143,4 +143,8 @@ if __name__ == "__main__":
     # scripts/tim_van_ban.py trong từng plugin) phải khớp với kho; tài liệu plugin không còn câu "chưa có trong gói".
     print("\n=== scripts/build_so_cai_van_ban_goc.py --check (sổ cái văn bản gốc dùng chung) ===")
     rc_so_cai = subprocess.run([sys.executable, str(pathlib.Path(__file__).resolve().parent / "build_so_cai_van_ban_goc.py"), "--check"]).returncode
-    sys.exit(rc or rc_facts or rc_archive or rc_trich or rc_so_cai)
+    # Bạn chốt 17/10/2026: tệp trạng thái hồ sơ trong trang-thai/ đủ mục của mẫu, nhật ký cuối có ngày,
+    # không lộ số điện thoại, tài khoản, người đại diện (kho công khai).
+    print("\n=== scripts/check_trang_thai.py (tệp trạng thái hồ sơ) ===")
+    rc_tt = subprocess.run([sys.executable, str(pathlib.Path(__file__).resolve().parent / "check_trang_thai.py")]).returncode
+    sys.exit(rc or rc_facts or rc_archive or rc_trich or rc_so_cai or rc_tt)

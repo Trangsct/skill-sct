@@ -13,6 +13,8 @@ Kiểm hai chiều:
      tiêu chí VII.1. Đạt từ 17/9/2026 sau khi hiệu chỉnh SZ13/SIGSPACE/LINES/HDR-BR theo
      mẫu thật. tests/baseline-qa-all.json chỉ còn để ghi hiện trạng, không dùng để so.
 
+  5. GATE 0 — tests/test_gate0.py: R23 cảnh báo số hiệu văn bản quy phạm chưa có nguồn.
+
   4. TRÌNH BIÊN DỊCH build_vb.py dựng được cả 7 loại văn bản từ cùng một file nội dung, bản
      dựng không có FAIL, và công thức hóa học / đơn vị m2, m3 được tách run chỉ số thật.
 
@@ -225,6 +227,14 @@ def main() -> int:
                        f"{'dưới ' if not co_sub else ''}{'trên' if not co_sup else ''} "
                        f"(công thức hóa học / đơn vị m2, m3 chưa tách run)")
         print(f"   {loai}: {'ok' if not fails and co_sub and co_sup else 'SAI'}")
+
+    # ── 5. GATE 0 — R23 số hiệu văn bản quy phạm phải có nguồn (17/10/2026) ──
+    print("\n── 5. GATE 0 (tests/test_gate0.py) ──")
+    r = subprocess.run([sys.executable, str(TESTS / "test_gate0.py")], capture_output=True, text=True,
+                       timeout=120)
+    print("   " + (r.stdout.strip().splitlines() or ["(không có kết quả)"])[0])
+    if r.returncode != 0:
+        loi.append("test_gate0.py đỏ: " + (r.stdout + r.stderr).strip()[-300:])
 
     if a.cap_nhat_baseline:
         BASELINE.write_text(json.dumps(moi_baseline, ensure_ascii=False, indent=2) + "\n",

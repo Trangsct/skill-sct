@@ -1,7 +1,7 @@
 {
   "name": "vbhc-vn",
-  "version": "2.30.0",
-  "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP, phụ biểu; văn bản UBND tỉnh/VP do Sở dự thảo; thể thức Đảng; hợp đồng. 9 template + 26 mẫu thật, Chế độ A/B, 15 nhóm anti-error A-O. QA: qa_all.py (R01-R22), chuan_hoa_xuat_ban.py, cite_check.py đối chiếu số hiệu, build_vb.py dựng từ nội dung dạng thẻ, normalize_body.py, fit_pages.py, extract_metadata.py; bộ hồi quy tests/ chạy trên CI.",
+  "version": "2.31.0",
+  "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản UBND tỉnh do Sở dự thảo; thể thức Đảng. 9 template + 26 mẫu thật, nhóm anti-error A-O, sổ lỗi tự ghi. GATE 0 kế hoạch soạn, GATE 0b dàn ý, GATE cuối rà soát độc lập. Một lệnh kiem_tra_truoc_khi_giao.py: qa_all.py (R01-R23), ra_soat_doc_lap.py, cite_check.py; build_vb.py, extract_metadata.py; hồi quy tests/ trên CI.",
   "author": {
     "name": "Trangsct"
   },

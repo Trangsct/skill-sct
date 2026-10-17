@@ -332,4 +332,13 @@ dat_text(Paragraph(moi, q._parent), '- Ban Giám đốc Sở;')
 d.save(str(p))
 ghi_expect(p, ['R22 FAIL'], 'Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của công văn hoàn thiện hồ sơ thủ tục hành chính.')
 
+# ── R23 (Bạn chốt 17/10/2026, GATE 0): số hiệu văn bản quy phạm chưa có tệp gốc trong kho ──────────
+# Dùng chung hàm dựng với tests/test_gate0.py: câu chèn lấy NGUYÊN từ mẫu thật phiếu trình UBND.
+sys.path.insert(0, str(Path('tests').resolve()))
+from test_gate0 import dung_file as _dung_gate0  # noqa: E402
+p = OUT / 'r23-so-hieu-qppl-chua-co-nguon.docx'
+NGUON[p.name] = 'examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx'
+_dung_gate0(p)
+ghi_expect(p, ['R23 WARN'], 'Chèn vào thân câu viện dẫn Nghị định 74/2026/NĐ-CP, 08/2025/NĐ-CP (nguyên văn phiếu trình UBND) — chưa có tệp gốc trong kho.')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

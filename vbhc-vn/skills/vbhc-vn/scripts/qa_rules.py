@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.30.0).
+"""qa_rules.py — Bộ quy tắc soạn thảo VBHC được kiểm BẰNG MÁY (vbhc-vn 2.31.0).
 
 Mỗi quy tắc là một hàm `rule_Rnn(doc, ctx)` trả về danh sách `Finding`.
 Docstring của mỗi hàm ghi: mã quy tắc, nội dung quy tắc, nguồn, mức FAIL/WARN.
@@ -1272,6 +1272,96 @@ def rule_R22(doc, ctx) -> list[Finding]:
             if re.search(r"Ban\s+(Giám\s+đốc|GĐ)\s+Sở|\bBGĐ\s+Sở", dong)]
 
 
+
+# ── R23: số hiệu văn bản quy phạm phải có nguồn (GATE 0, Bạn chốt 17/10/2026) ──
+
+# Số hiệu văn bản quy phạm pháp luật luôn có năm ở giữa: 32/2024/NĐ-CP, 66.25/2026/NQ-CP, 42/2024/QH15,
+# 01/2026/QĐ-UBND. Văn bản hành chính (3725/QĐ-UBND, 6020/SCT-CN) không có năm nên không thuộc R23.
+SO_QPPL = re.compile(
+    r"(?<![\d./])(\d{1,4}(?:\.\d{1,3})?[a-z]?)/(\d{4})/([A-ZĐ][A-ZĐa-z0-9\-]{1,14})(?![\w/])")
+TEP_CAN_CU_PHIEN = ("can-cu-phien.txt", "ke-hoach-soan.txt")
+_KHO_SO_HIEU: set[str] | None = None
+
+
+def khoa_so_hieu(so: str) -> str:
+    """'32/2024/NĐ-CP' và '32/2024/ND-CP' về cùng một khóa so sánh."""
+    return nfc(so).upper().replace("Đ", "D").replace(" ", "")
+
+
+def _so_hieu_trong_kho() -> set[str]:
+    """Số hiệu của mọi tệp gốc trong kho: sổ cái DANH-MUC-VAN-BAN-GOC.csv ở gốc kho skill-sct (khi chạy trong
+    kho) và van-ban-goc/00-DANH-MUC-CHUNG.md của plugin (có cả trong gói claude.ai). Hai tệp do
+    scripts/build_so_cai_van_ban_goc.py sinh — cùng nguồn với scripts/tim_van_ban.py lớp 1."""
+    global _KHO_SO_HIEU
+    if _KHO_SO_HIEU is not None:
+        return _KHO_SO_HIEU
+    kho: set[str] = set()
+    md = PLUGIN_DIR / "van-ban-goc" / "00-DANH-MUC-CHUNG.md"
+    if md.exists():
+        for ln in md.read_text(encoding="utf-8").splitlines():
+            if ln.startswith("| ") and not ln.startswith("| Số hiệu"):
+                kho.add(khoa_so_hieu(ln.split("|")[1].strip()))
+    for goc in PLUGIN_DIR.parents:
+        csv_ = goc / "DANH-MUC-VAN-BAN-GOC.csv"
+        if csv_.exists():
+            for ln in csv_.read_text(encoding="utf-8").splitlines()[1:]:
+                kho.add(khoa_so_hieu(ln.split(",", 1)[0]))
+            break
+    kho.discard("")
+    kho.discard("—")
+    _KHO_SO_HIEU = kho
+    return kho
+
+
+def _can_cu_phien(ctx) -> set[str]:
+    """Căn cứ Bạn cung cấp trong phiên: tệp can-cu-phien.txt (mỗi dòng một số hiệu) và các dòng căn cứ có nguồn
+    trong ke-hoach-soan.txt (GATE 0), đặt cạnh file .docx hoặc ở thư mục làm việc; biến môi trường
+    VBHC_CAN_CU_PHIEN (ngăn bằng dấu phẩy, chấm phẩy). Dòng ghi "chưa có nguồn" không được tính."""
+    import os
+    ra: set[str] = set()
+    thu_muc = {ctx.path.resolve().parent, Path.cwd()}
+    for d in thu_muc:
+        for ten in TEP_CAN_CU_PHIEN:
+            f = d / ten
+            if not f.exists():
+                continue
+            for ln in f.read_text(encoding="utf-8").splitlines():
+                if "chưa có nguồn" in nfc(ln).lower():
+                    continue
+                ra |= {khoa_so_hieu(m.group(0)) for m in SO_QPPL.finditer(nfc(ln))}
+    for x in re.split(r"[,;]", os.environ.get("VBHC_CAN_CU_PHIEN", "")):
+        if x.strip():
+            ra.add(khoa_so_hieu(x.strip()))
+    return ra
+
+
+def rule_R23(doc, ctx) -> list[Finding]:
+    """R23 — Số hiệu văn bản quy phạm pháp luật viện dẫn phải có nguồn.
+
+    Quy tắc: mọi số hiệu văn bản quy phạm (dạng số/năm/ký hiệu: 32/2024/NĐ-CP, 42/2024/QH15, 01/2026/QĐ-UBND)
+    xuất hiện trong file phải khớp một tệp gốc trong kho (sổ cái văn bản gốc — như tim_van_ban.py lớp 1) hoặc
+    danh sách căn cứ Bạn cung cấp trong phiên (can-cu-phien.txt, ke-hoach-soan.txt, VBHC_CAN_CU_PHIEN).
+    Không khớp thì in số hiệu để Bạn kiểm tra — KHÔNG kết luận là bịa (kho chưa đủ thì chỉ là chưa đối chiếu được).
+    Nguồn: GATE 0 — Kế hoạch soạn thảo, điểm c (Bạn chốt 17/10/2026, bản giao việc mục 1.4); Nhóm A.
+    Mức: WARN. Mỗi số hiệu báo một lần.
+    """
+    kho = _so_hieu_trong_kho() | _can_cu_phien(ctx)
+    out: list[Finding] = []
+    da_bao: set[str] = set()
+    for loc, t in ctx.texts:
+        for m in SO_QPPL.finditer(t):
+            k = khoa_so_hieu(m.group(0))
+            if k in kho or k in da_bao:
+                continue
+            da_bao.add(k)
+            out.append(Finding(
+                "R23", WARN, loc, cut(t),
+                f"Số hiệu '{m.group(0)}' chưa khớp tệp gốc nào trong kho hay căn cứ Bạn gửi trong phiên — "
+                f"chạy tim_van_ban.py \"{m.group(0)}\" đối chiếu; không có nguồn thì bỏ khỏi văn bản hoặc bôi tím.",
+            ))
+    return out
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1295,6 +1385,7 @@ RULES = [
     ("R20", rule_R20),
     ("R21", rule_R21),
     ("R22", rule_R22),
+    ("R23", rule_R23),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

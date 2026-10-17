@@ -5,22 +5,26 @@
     "R10": 1,
     "R19": 3,
     "R20": 3,
-    "R21": 1
+    "R21": 1,
+    "R23": 7
   },
   "examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx": {
     "R07": 1,
-    "R19": 3
+    "R19": 3,
+    "R23": 1
   },
   "examples/sct/bao-cao-ket-qua-thang-atvsld.docx": {
     "R07": 1,
-    "R19": 3
+    "R19": 3,
+    "R23": 1
   },
   "examples/sct/bao-cao-thang-phong-qlcn.docx": {
     "R01": 2,
     "R08": 1,
     "R19": 3,
     "R20": 3,
-    "R21": 1
+    "R21": 1,
+    "R23": 1
   },
   "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": {
     "R01": 1,
@@ -28,11 +32,13 @@
     "R08": 4,
     "R13": 1,
     "R19": 2,
-    "R21": 1
+    "R21": 1,
+    "R23": 2
   },
   "examples/sct/bien-ban-kiem-tra-thuc-te-hhnh.docx": {
     "R01": 3,
-    "R19": 3
+    "R19": 3,
+    "R23": 2
   },
   "examples/sct/bien-ban-lam-viec-lien-nganh-ccn.docx": {
     "R01": 1,
@@ -43,7 +49,8 @@
     "R07": 1,
     "R19": 4,
     "R20": 3,
-    "R21": 1
+    "R21": 1,
+    "R23": 2
   },
   "examples/sct/cong-van-don-doc-tien-do-ha-tang-ccn-bao-cao-hang-tuan.docx": {
     "R07": 1,
@@ -60,7 +67,8 @@
     "R07": 1,
     "R12": 1,
     "R19": 4,
-    "R21": 1
+    "R21": 1,
+    "R23": 2
   },
   "examples/sct/cong-van-noi-bo-phong-tham-gia-y-kien-thu-hoi-cat-long-ho.docx": {
     "R07": 1,
@@ -102,7 +110,8 @@
     "R12": 1,
     "R13": 12,
     "R19": 4,
-    "R21": 1
+    "R21": 1,
+    "R23": 3
   },
   "examples/sct/phu-bieu-danh-gia-nhiem-vu-giao-ban-qlcn.docx": {
     "R01": 2,
@@ -119,7 +128,8 @@
     "R01": 1,
     "R08": 20,
     "R12": 2,
-    "R19": 2
+    "R19": 2,
+    "R23": 1
   },
   "examples/ubnd/cong-van-ubnd-tinh-chi-dao.docx": {
     "R12": 2,
@@ -142,7 +152,8 @@
   "examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx": {
     "R01": 6,
     "R12": 1,
-    "R19": 4
+    "R19": 4,
+    "R23": 14
   },
   "examples/ubnd/thong-bao-ket-luan-ubnd.docx": {
     "R12": 1,

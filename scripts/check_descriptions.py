@@ -147,4 +147,7 @@ if __name__ == "__main__":
     # không lộ số điện thoại, tài khoản, người đại diện (kho công khai).
     print("\n=== scripts/check_trang_thai.py (tệp trạng thái hồ sơ) ===")
     rc_tt = subprocess.run([sys.executable, str(pathlib.Path(__file__).resolve().parent / "check_trang_thai.py")]).returncode
-    sys.exit(rc or rc_facts or rc_archive or rc_trich or rc_so_cai or rc_tt)
+    # Bạn chốt 17/10/2026: sổ lỗi tự ghi của từng plugin đúng định dạng (số thứ tự, ngày, lỗi, cách đúng).
+    print("\n=== scripts/check_anti_error_format.py (sổ lỗi tự ghi) ===")
+    rc_loi = subprocess.run([sys.executable, str(pathlib.Path(__file__).resolve().parent / "check_anti_error_format.py")]).returncode
+    sys.exit(rc or rc_facts or rc_archive or rc_trich or rc_so_cai or rc_tt or rc_loi)

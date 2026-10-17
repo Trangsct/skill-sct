@@ -2,6 +2,7 @@
 
 - **Mục 5 — `trang-thai/`** (mới, gốc kho): mẫu `MAU.md`, 8 tệp khởi tạo (4 CCN, ủy quyền GĐ Sở, Bài toán lớn số 2, Làng Cang 2, KH 130); `scripts/tim_ho_so.py` (chọn tệp từ câu yêu cầu theo dòng "Bí danh:"), `scripts/trang_thai_ho_so.py` (bảng tổng hợp, lọc `--plugin`), `scripts/check_trang_thai.py` (chạy kèm `check_descriptions.py` → CI), `scripts/trang_thai_lib.py`; CLAUDE.md GATE "Đọc trạng thái hồ sơ". **kccn-sct-vn 1.51.0**: `trang_thai_cum.py` dẫn sang tệp trạng thái; ref 26 đính chính ngày QĐ 2736/QĐ-UBND.
 - **Mục 6 — nhật ký cuối phiên**: `scripts/ghi_nhat_ky.py` (một lệnh ghi nhật ký + cập nhật Bước đã xong / Bước tiếp theo / Vướng mắc / Quyết định; tự gộp khi quá 10 mục; chặn thông tin riêng tư; `--tam`, `--nap-tam`, `--tao-moi`); CLAUDE.md mục "Kết thúc phiên".
+- **Mục 4 — tự ghi lỗi**: CLAUDE.md mục "Tự ghi lỗi"; sổ lỗi có cấu trúc `references/so-loi-tu-ghi.md` từng plugin (L001 — ngày — tiêu đề; Lỗi; Cách đúng; Ví dụ; Máy kiểm); `scripts/check_anti_error_format.py` (`--tao`, `--so-tiep`; chạy kèm `check_descriptions.py` → CI). Mục anti-error văn xuôi cũ giữ nguyên.
 
 ## 13/10/2026 — vbhc-vn 2.30.0, hnh-sct-vn 1.14.0, hl-vlncn-sct-vn 1.4.8, tkm-sct-vn 1.4.4, sd-vlncn-sct-vn 2026.10.13.1: thủ tục hành chính không gửi Ban Giám đốc Sở; Nơi nhận cỡ 11; khối ký cách thân 1 dòng; quét phông Times New Roman trước khi xuất
 

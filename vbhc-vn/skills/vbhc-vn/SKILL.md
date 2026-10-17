@@ -92,6 +92,11 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | File .docx cơ quan khác gửi đến — gỡ định dạng ẩn (Nhóm N) | `python3 scripts/normalize_body.py <file>.docx --check` rồi `... <file>.docx` |
 | Hợp đồng, phụ lục hợp đồng, văn bản dài — căn trang (Quy tắc 28) | `python3 scripts/fit_pages.py sweep <file>.docx` rồi `apply <pt>` |
 
+**Tự ghi lỗi (Bạn chốt 17/10/2026):** Bạn chỉ ra lỗi trong văn bản đã soạn → trong cùng phiên, không chờ nhắc: sửa văn
+bản; ghi một mục vào `reference/so-loi-tu-ghi.md` (lỗi thể thức chung) hoặc sổ lỗi của plugin lĩnh vực; kiểm được bằng
+máy thì thêm quy tắc R theo `HUONG_DAN_CAP_NHAT.md`; tăng bản plugin; báo một dòng "Đã ghi lỗi này vào [plugin] bản [số]".
+Yêu cầu "chỉ lần này" không thành quy tắc — ghi vào tệp trạng thái hồ sơ.
+
 `qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R22 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
@@ -144,6 +149,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 
 | File | Đọc khi |
 |---|---|
+| `so-loi-tu-ghi.md` | **Đọc trước khi soạn** — lỗi Bạn chỉ ra trong phiên, ghi ngay theo mục "Tự ghi lỗi" (từ 17/10/2026; định dạng L001…, kiểm bằng `scripts/check_anti_error_format.py` ở gốc kho) |
 | `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
 | `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |
 | `quy-trinh-hai-che-do.md` | Chọn Chế độ A hay B; cú pháp `TemplateDoc`; quy trình unpack-sửa-pack; quy tắc tốc độ |

@@ -62,6 +62,10 @@ tăng số phiên bản. Thêm một file CHANGELOG theo mẫu ngày tháng tron
 mục mới lên đầu file CHANGELOG ở gốc kho. Chạy python3 scripts/sync_marketplace.py với tham số
 hai gạch bump tại gốc kho, không sửa tay marketplace.json.
 
+Song song với bốn bước, ghi một mục vào reference/so-loi-tu-ghi.md theo định dạng L001 (Bạn chốt
+17/10/2026, CLAUDE.md mục "Tự ghi lỗi"), dòng Máy kiểm ghi mã quy tắc vừa viết. Lỗi không kiểm được
+bằng máy thì chỉ ghi mục đó, không cần bốn bước trên.
+
 Sau khi làm xong bốn bước, đẩy lên nhánh làm việc và mở pull request như thường lệ. Job qa-evals
 trên GitHub sẽ tự chạy lại bước ba; job này đỏ thì không merge được.
 

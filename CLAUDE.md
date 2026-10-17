@@ -164,6 +164,28 @@ Khi Bạn nói xong, cảm ơn, chuyển sang việc khác, hoặc khi giao văn
 5. Dữ liệu nhật ký chỉ nằm trong kho này, không dùng dịch vụ ghi nhớ bên ngoài. Kho công khai: chỉ tên công ty và số giấy
    phép nhà nước cấp.
 
+## Tự ghi lỗi vào plugin ngay trong phiên (Bạn chốt 17/10/2026)
+
+Khi Bạn chỉ ra một lỗi trong văn bản đã soạn (câu chữ, thể thức, số liệu, cách viện dẫn, cách viết tên…), trong CÙNG
+phiên và KHÔNG chờ Bạn bảo "ghi vào plugin":
+
+1. Sửa văn bản.
+2. Xác định plugin chịu trách nhiệm: quy tắc thể thức, trình bày chung → `vbhc-vn`; quy tắc nghiệp vụ → plugin lĩnh vực.
+3. Ghi lỗi vào **sổ lỗi tự ghi** của plugin đó — `skills/<plugin>/references/so-loi-tu-ghi.md` (vbhc-vn:
+   `reference/so-loi-tu-ghi.md`); chưa có thì `python3 scripts/check_anti_error_format.py --tao <plugin>` rồi thêm dòng
+   dẫn tệp vào bảng reference của SKILL.md. Mỗi lỗi một mục: `### L<số kế tiếp> — dd/mm/yyyy — Tiêu đề` (lấy số bằng
+   `--so-tiep <plugin>`), các dòng `- Lỗi:`, `- Cách đúng:`, `- Ví dụ:` (đã ẩn danh), `- Máy kiểm:`. Các mục anti-error
+   văn xuôi có từ trước giữ nguyên, không viết lại.
+4. Lỗi kiểm được bằng máy → thêm rule vào `qa_rules.py` (vbhc-vn, theo 4 bước của `HUONG_DAN_CAP_NHAT.md`, kèm file lỗi
+   trong `tests/fail/`) hoặc vào RULES của `scripts/check_facts.py`, kèm trường hợp thử; ghi mã vào dòng "Máy kiểm".
+5. Tăng bản plugin, CHANGELOG, đưa vào cùng PR với văn bản; phiên không có quyền ghi kho thì giao tệp `.patch` và nói rõ.
+6. Báo Bạn MỘT dòng: "Đã ghi lỗi này vào [plugin] bản [số]".
+
+Yêu cầu Bạn nói rõ "chỉ lần này" hoặc gắn với một văn bản cụ thể → KHÔNG thành quy tắc; chỉ ghi vào
+`trang-thai/<hồ sơ>.md` mục "Yêu cầu riêng một lần" (`ghi_nhat_ky.py --mot-lan "…"`).
+`scripts/check_anti_error_format.py` (chạy kèm `check_descriptions.py` → CI) kiểm sổ lỗi đủ số thứ tự liên tục, ngày hợp
+lệ, "Lỗi", "Cách đúng", không lộ thông tin riêng.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

@@ -1,5 +1,10 @@
 # CHANGELOG — hc-sct-vn
 
+## 1.6.0 — 17/10/2026 — Sửa tim_van_ban.py không tìm được số hiệu có chữ Đ
+
+- `scripts/tim_van_ban.py` (bản chép từ gốc kho, đồng bộ bằng `build_so_cai_van_ban_goc.py`): sửa lỗi biểu thức tìm — chữ "đ" bị thay hai lần thành `[đ[dđ]]` nên MỌI số hiệu có chữ Đ (NĐ-CP, QĐ-UBND, QĐ-TTg) không bao giờ khớp và script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử GATE 0). Sau khi sửa: "181/2024/NĐ-CP" khớp 3 mục danh mục.
+- `plugin.json` → 1.6.0. Chi tiết: `CHANGELOG-v2026.10.17.md`.
+
 ## [1.5.0] - 12/10/2026 — Lớp cắt giảm, phân cấp NQ 19/2026/NQ-CP + TT 26/2026/TT-BCT (ref 18); Chiến lược QĐ 726/QĐ-TTg (ref 19); 13 biểu mẫu mới
 
 - **ref 18 (mới):** thẩm quyền mới từ 29/5/2026 (GP XNK kiểm soát đặc biệt nhóm 1, GP nhập khẩu hóa chất cấm, GCN dịch vụ tồn trữ mọi cơ sở → UBND cấp tỉnh); điều kiện kinh doanh viết lại; hồ sơ GCN/GP **bỏ Thông báo nghiệm thu và Phiếu ATHC**; thời hạn 14/10/05/03 ngày; Hội đồng KH tách luồng; miễn trừ ≤ 1 %; bảng 13 mẫu TT 26; checklist mới. Sửa ref 01–06, 09, 13–16 theo.

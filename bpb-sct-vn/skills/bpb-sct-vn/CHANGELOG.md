@@ -1,3 +1,8 @@
+## 1.6.0 — 17/10/2026 — Dàn ý trước khi viết (GATE 0b)
+
+- SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục 2A: dàn ý mặc định bài phát biểu (mở đầu, bối cảnh, kết quả, hạn chế, nhiệm vụ, kết thúc) dẫn mục 3.
+- `plugin.json` → 1.6.0. Chi tiết: `CHANGELOG-v2026.10.17.md`.
+
 ## 1.5.1 — 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
 
 - `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.

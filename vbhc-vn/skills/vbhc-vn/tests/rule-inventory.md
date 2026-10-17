@@ -41,6 +41,7 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R20 | Các dòng "- …" trong khối Nơi nhận cỡ 11 ("Nơi nhận:" cỡ 12) | NĐ 30/2020; Bạn chốt 13/10/2026 | `qa_rules.rule_R20`; sửa: `chuan_hoa_xuat_ban.py` | WARN → FAIL khi `--final` |
 | R21 | Khối Nơi nhận - ký cách thân đúng một dòng trống cỡ ≥ 12 (đoạn đệm 1–7 pt không tính) | Quy tắc 22/H13; Bạn nhắc 13/10/2026 | `qa_rules.rule_R21`; sửa: `chuan_hoa_xuat_ban.py` | WARN → FAIL khi `--final` |
 | R22 | Văn bản giải quyết thủ tục hành chính không gửi "Ban Giám đốc Sở" | Bạn chốt 13/10/2026 | `qa_rules.rule_R22`; sửa: `chuan_hoa_xuat_ban.py --tthc` | FAIL |
+| R23 | Số hiệu văn bản quy phạm (số/năm/ký hiệu) phải khớp tệp gốc trong kho (sổ cái) hoặc căn cứ Bạn gửi trong phiên (`can-cu-phien.txt`, `ke-hoach-soan.txt`, `VBHC_CAN_CU_PHIEN`) | GATE 0 điểm c, Bạn chốt 17/10/2026 | `qa_rules.rule_R23`; thử: `tests/test_gate0.py` | WARN |
 
 ## B. Quy tắc loại M — ĐÃ CÓ hàm kiểm từ trước, đợt này chỉ gắn mã
 
@@ -133,7 +134,7 @@ tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
 
 | Công cụ | Việc | Nguồn dữ liệu |
 |---|---|---|
-| `scripts/qa_rules.py` | 22 quy tắc R01–R22, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
+| `scripts/qa_rules.py` | 23 quy tắc R01–R23, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
 | `scripts/cite_check.py` | Đối chiếu mọi số hiệu trong bản thảo: KHỚP / LỆCH / CHƯA CÓ | `data/vbpl.json` |
 | `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
 | `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |

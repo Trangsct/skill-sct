@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.31.0 — 17/10/2026 — GATE 0 kế hoạch soạn thảo (R23), GATE 0b dàn ý, GATE cuối rà soát độc lập, sổ lỗi tự ghi
+
+- Chi tiết: `CHANGELOG-v2026.10.17.md`.
+
 ## v2.28.2 — 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
 
 - `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.

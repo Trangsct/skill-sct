@@ -1,5 +1,10 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.10.17.1 — 17/10/2026 — Dàn ý phương án nổ mìn, đánh giá rủi ro, ứng cứu khẩn cấp (GATE 0b)
+
+- SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục V-b: dàn ý mặc định theo Phụ lục VII, VI, IX TT 23/2024/TT-BCT; phương án nổ mìn phải đầy đủ và dài.
+- `plugin.json` → 2026.10.17.1. Chi tiết: `CHANGELOG-v2026.10.17.md`.
+
 ## v2026.10.9.1 — 09/10/2026 — Sổ cái văn bản gốc dùng chung, bản .txt toàn văn, tim_van_ban.py, quy tắc "không được nói không có"
 
 - `SKILL.md`: thêm khối **Tra văn bản gốc** ngay dưới tiêu đề — đọc `van-ban-goc/00-DANH-MUC-CHUNG.md`, chạy `scripts/tim_van_ban.py` trước khi kết luận văn bản chưa có; văn bản đã có thì mở bản `.txt`; cấm trả lời "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn"; 7 bước (a)–(g) khi Bạn gửi văn bản quy phạm; không có quyền ghi thì hướng dẫn Hộp thư `_inbox/`.

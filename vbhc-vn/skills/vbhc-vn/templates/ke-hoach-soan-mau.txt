@@ -1,0 +1,32 @@
+KẾ HOẠCH SOẠN THẢO (GATE 0 — vbhc-vn; tệp nội bộ, không gửi người dùng)
+Ngày lập: dd/mm/yyyy
+Hồ sơ: <tên hồ sơ — tệp trang-thai/<slug>.md nếu có, hoặc "chưa có tệp trạng thái">
+
+a) Loại văn bản: <công văn / tờ trình / báo cáo / kế hoạch / ...>
+   Cơ quan ban hành: <Sở Công Thương / UBND tỉnh (Sở dự thảo) / ...>
+   Người ký dự kiến: <chức danh, họ tên — theo phân công lĩnh vực>
+   Ký hiệu dự kiến: <SCT-CN / TTr-SCT / BC-SCT / ...>
+
+b) Nơi nhận dự kiến:
+   - <cơ quan 1>
+   - <cơ quan 2>
+
+c) Căn cứ pháp lý (mỗi dòng: số hiệu — nguồn):
+   - <số hiệu, ngày, trích yếu> — kho: <đường dẫn tệp gốc trong van-ban-goc/>
+   - <số hiệu ...> — người dùng gửi: <tên tệp>
+   - <số hiệu ...> — chưa có nguồn - cần người dùng cung cấp   (KHÔNG đưa vào văn bản)
+
+d) Số liệu (mỗi dòng: nội dung = giá trị — nguồn):
+   - <diện tích / số dự án / kinh phí / tọa độ / khối lượng ...> = <giá trị> — <nguồn như điểm c>
+
+e) Điểm còn thiếu, chưa rõ:
+   - <...>
+
+f) Kết quả tự tìm cho từng điểm thiếu (tim_van_ban.py, sổ cái, trang-thai/, reference plugin, sct-laocai-org-vn):
+   - <điểm thiếu> — thấy ở <nguồn> / không thấy: bôi tím trong file xuất ra
+   - Câu hỏi cho người dùng (chỉ khi quyết định toàn bộ nội dung; tối đa một lần, kèm phương án mặc định): <không có>
+
+g) Dàn ý (GATE 0b — văn bản từ 3 trang hoặc thuộc loại phải có dàn ý):
+   Dàn ý theo: <tên mẫu trong examples/ hoặc "dàn ý mặc định" của loại văn bản>
+   I. ...
+   II. ...

@@ -1,5 +1,10 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.10.0] - 17/10/2026 — Dàn ý văn bản dài (GATE 0b)
+
+- SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục II-b: dàn ý mặc định kế hoạch cấp tỉnh (mẫu KH 427/KH-UBND qua Kế hoạch Bài toán lớn số 2 v11), báo cáo chuyên đề, đề án; tệp trạng thái `trang-thai/bai-toan-lon-so-2.md` ở gốc kho.
+- `plugin.json` → 1.10.0. Chi tiết: `CHANGELOG-v2026.10.17.md`.
+
 ## [1.9.0] - 12/10/2026 — CV 10349/UBND-KT theo dõi SXKD doanh nghiệp hằng tháng (ref 15); GCN ĐKĐT điều chỉnh lần 5 Nhà máy bao bì thùng phuy KCN Tằng Loỏng (CBCT-082)
 
 - **Reference 15 (mới):** CV 10349/UBND-KT ngày 09/10/2026 của Chủ tịch UBND tỉnh — Sở Công Thương chủ trì theo dõi **37 DN công nghiệp + 41 DN thương mại**; **trước ngày 10 hằng tháng** gửi Thống kê tỉnh + Sở Tài chính thông tin tóm tắt (DN biến động lớn, nguyên nhân, vướng mắc, đã xử lý, đề xuất); không phát sinh TTHC; danh sách đầy đủ kèm gợi ý theo dõi; ⚠️ bản ký UBND-KT, Phụ lục in UBND-TH.

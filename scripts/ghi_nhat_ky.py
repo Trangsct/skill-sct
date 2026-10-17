@@ -180,7 +180,11 @@ def main() -> int:
         so = 0
         for muc in json.loads(tep.read_text(encoding="utf-8")):
             args = [muc["ho_so"], "--ngay", muc["ngay"]]
+            if muc.get("tao_moi") and not (THU_MUC / f"{slug(muc['tao_moi'])}.md").exists():
+                args = ["--tao-moi", muc["tao_moi"], "--bi-danh", muc.get("bi_danh", ""), "--ngay", muc["ngay"]]
             for k, v in muc.items():
+                if k in ("tao_moi", "bi_danh"):
+                    continue
                 if k not in ("ho_so", "ngay"):
                     for x in v:
                         args += [f"--{k.replace('_', '-')}", x]
@@ -191,31 +195,38 @@ def main() -> int:
         print(f"Đã nạp {so} mục từ {tep}; xóa tệp tạm sau khi commit.")
         return 0
 
+    if a.tam:
+        if a.ho_so and not (THU_MUC / f"{a.ho_so}.md").exists():
+            ds_hs = cham(a.ho_so)
+            if ds_hs:
+                a.ho_so = ds_hs[0][1].path.stem  # ghi slug, phiên sau nạp không phải tra lại bí danh
+            elif not a.tao_moi:
+                raise SystemExit(f"Chưa có hồ sơ '{a.ho_so}' — thêm --tao-moi \"<Tên>\" --plugin … để phiên sau tạo tệp.")
+        tep = Path.cwd() / TAM
+        ds = json.loads(tep.read_text(encoding="utf-8")) if tep.exists() else []
+        muc = {"ho_so": a.ho_so or slug(a.tao_moi), "ngay": a.ngay}
+        if a.tao_moi:
+            muc.update(tao_moi=a.tao_moi, bi_danh=a.bi_danh, plugin=a.plugin)
+        muc.update({k: getattr(a, k) for k in ("viec", "van_ban", "quyet_dinh", "viec_do", "cau_hoi", "xong",
+                                               "tiep_theo", "vuong_mac", "giai_quyet", "mot_lan", "phat_hanh")
+                    if getattr(a, k)})
+        ds.append(muc)
+        tep.write_text(json.dumps(ds, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(f"Đã ghi nhật ký tạm vào {tep} — phiên sau chạy: python3 scripts/ghi_nhat_ky.py --nap-tam {tep}")
+        return 0
+
     if a.tao_moi:
         if not a.plugin:
             raise SystemExit("--tao-moi cần ít nhất một --plugin")
         p = tao_moi(a.tao_moi, a.bi_danh, a.plugin)
         print(f"Đã tạo {p}")
-        if not (a.viec or a.xong or a.tiep_theo):
+        if not any(getattr(a, k) for k in ("viec", "van_ban", "quyet_dinh", "viec_do", "cau_hoi", "xong",
+                                           "tiep_theo", "vuong_mac", "mot_lan", "phat_hanh")):
             return 0
         a.ho_so = p.stem
 
     if not a.ho_so:
         ap.error("thiếu tên hồ sơ")
-
-    if a.tam:
-        ds_hs = cham(a.ho_so) if not (THU_MUC / f"{a.ho_so}.md").exists() else []
-        if ds_hs:
-            a.ho_so = ds_hs[0][1].path.stem  # ghi slug, phiên sau nạp không phải tra lại bí danh
-        tep = Path.cwd() / TAM
-        ds = json.loads(tep.read_text(encoding="utf-8")) if tep.exists() else []
-        ds.append({"ho_so": a.ho_so, "ngay": a.ngay,
-                   **{k: getattr(a, k) for k in ("viec", "van_ban", "quyet_dinh", "viec_do", "cau_hoi", "xong",
-                                                 "tiep_theo", "vuong_mac", "giai_quyet", "mot_lan", "phat_hanh")
-                      if getattr(a, k)}})
-        tep.write_text(json.dumps(ds, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"Đã ghi nhật ký tạm vào {tep} — phiên sau chạy: python3 scripts/ghi_nhat_ky.py --nap-tam {tep}")
-        return 0
 
     p = THU_MUC / f"{a.ho_so}.md"
     if not p.exists():

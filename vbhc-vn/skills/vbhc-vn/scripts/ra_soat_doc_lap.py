@@ -43,7 +43,7 @@ TIM = {"7030A0", "7030a0"}
 THANG = re.compile(r"ngày\s+(\d{1,2})\s+tháng\s+(\d{1,2})\s+năm\s+(\d{4})", re.I)
 NGAY_GACH = re.compile(r"(?<![\d/])(\d{1,2})/(\d{1,2})/(\d{4})(?![\d/])")
 GOP_SO = re.compile(r"(?:Cụm công nghiệp|CCN|Khu công nghiệp|KCN)\s+[A-ZĐÂÊÔƠƯÁÀẢÃẠ][^,;.()]{0,40}?\s\d{1,2}\s*(?:,\s*\d{1,2}\s*)*(?:,|và)\s*\d{1,2}\b")
-DAU_VET = re.compile(r"bản\s+cũ|bản\s+sửa|sửa\s+lần|dự\s+thảo\s+lần|\(cũ\)|[\w\-]+\.(?:docx|doc|pdf|xlsx)\b|\bv\d+\b|TODO|XXX", re.I)
+DAU_VET = re.compile(r"(?<!văn\s)bản\s+cũ|(?<!văn\s)bản\s+sửa(?!\s+đổi)|sửa\s+lần|dự\s+thảo\s+lần|\(cũ\)|[\w\-]+\.(?:docx|doc|pdf|xlsx)\b|\bv\d+\b|TODO|XXX", re.I)
 
 
 def _ve(ds: list, muc: str, noi_dung: str, canh_bao: bool = False):
@@ -229,7 +229,7 @@ def do(path: Path, pdf: Path | None = None, render: bool = True) -> list[dict]:
     for loc, t in ctx.texts[:30]:
         if re.match(r"^\s*Số\s*:", t):
             so = re.sub(r"^\s*Số\s*:\s*", "", t).strip()
-            _ve(ds, "9. Số văn bản", f"'{cut(t, 50)}' — {'để trống số' if re.match(r'^[/\s]', so) else 'ĐÃ có số'}"
+            _ve(ds, "9. Số văn bản", f"'{cut(t, 50)}' — {'ĐÃ có số' if re.match(r'^\d', so) else 'để trống số'}"
                 " (văn bản soạn cho doanh nghiệp, cơ quan khác: để trống số)")
             break
 

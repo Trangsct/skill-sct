@@ -143,7 +143,15 @@ def chay_qa_all(path: Path, final: bool, anh: bool) -> tuple[int, list[str]]:
     if not anh:
         lenh.append("--no-image")
     r = subprocess.run(lenh, capture_output=True, text=True, timeout=300)
-    dong = [ln for ln in r.stdout.splitlines() if ln.startswith(("[FAIL", "[WARN", "KẾT QUẢ", "ẢNH GHÉP"))]
+    dong, dem = [], {}
+    for ln in r.stdout.splitlines():
+        if not ln.startswith(("[FAIL", "[WARN", "KẾT QUẢ", "ẢNH GHÉP")):
+            continue
+        tag = ln.split("]", 1)[0]
+        dem[tag] = dem.get(tag, 0) + 1
+        if dem[tag] <= 3 or not ln.startswith("["):  # cùng mã quá 3 dòng thì gộp (vd R03 trên bản nhiều chữ tím)
+            dong.append(ln)
+    dong += [f"{tag}] … thêm {n - 3} dòng cùng mã" for tag, n in dem.items() if n > 3]
     return r.returncode, dong
 
 

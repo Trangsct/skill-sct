@@ -128,7 +128,7 @@ một dòng "Dàn ý theo mẫu …". Nguồn chung: `van-ban-goc/TT-23-2024-BCT
 
 | Loại | Dàn ý mặc định | Nguồn |
 |---|---|---|
-| Phương án nổ mìn | I. Căn cứ lập phương án · II. Đặc điểm khu vực nổ mìn · III. Tính toán, lựa chọn các thông số khoan nổ mìn · IV. Các biện pháp đảm bảo an toàn khi nổ mìn · V. Tổ chức thực hiện · khối ký Phê duyệt / Người lập; phụ lục hộ chiếu | Phụ lục VII TT 23/2024/TT-BCT; `mau-van-ban/22-phuong-an-no-min.md`; bản đầy đủ `vi-du-thuc-te/PANM-Kim-Thanh-…-30.9.2026.docx` |
+| Phương án nổ mìn | I. Căn cứ lập phương án · II. Đặc điểm khu vực nổ mìn · III. Tính toán, lựa chọn các thông số khoan nổ mìn · IV. Các biện pháp đảm bảo an toàn khi nổ mìn · V. Tổ chức thực hiện · khối ký Phê duyệt / Người lập; phụ lục hộ chiếu | Phụ lục VII TT 23/2024/TT-BCT; `mau-van-ban/22-phuong-an-no-min.md`; bản đầy đủ hầm lò `vi-du-thuc-te/PANM-Kim-Thanh-…-30.9.2026.docx`; mỏ lộ thiên gần khu dân cư `vi-du-thuc-te/PANM-Manh-Chien-mo-da-Na-Ho-lo-thien-gan-khu-dan-cu-ban-23.8.2026.docx` |
 | Báo cáo đánh giá nguy cơ rủi ro về an toàn | 1. Mục đích · 2. Phạm vi công việc · 3. Tài liệu liên quan · 4. Từ viết tắt, thuật ngữ · 5. Xác định mối nguy · 6. Đánh giá rủi ro · 7. Giải pháp kiểm soát rủi ro · 8. Kết luận và kiến nghị | Phụ lục VI TT 23/2024/TT-BCT |
 | Kế hoạch ứng cứu khẩn cấp | 1. Mục đích · 2. Phạm vi · 3. Phân loại tình huống · 4. Các tình huống khẩn cấp · 5. Sơ đồ tổ chức, nguồn lực · 6. Quy trình ứng cứu · 7. Thông tin liên lạc, báo cáo · 8. Báo cáo · 9. Huấn luyện, diễn tập · 10. Điều tra sự cố · 11. Khắc phục hậu quả | Phụ lục IX TT 23/2024/TT-BCT |
 

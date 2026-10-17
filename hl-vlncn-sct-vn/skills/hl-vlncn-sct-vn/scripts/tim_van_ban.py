@@ -46,7 +46,9 @@ def regex_tu_truy_van(q: str) -> re.Pattern:
     parts = [p for p in re.split(r"[\s/:.\-_,;]+", q) if p]
     toks = []
     for p in parts:
-        t = re.escape(p).replace("đ", "[đd]").replace("d", "[dđ]")
+        # từng ký tự: thay "đ" rồi thay "d" nối tiếp sẽ sinh "[đ[dđ]]" — mọi số hiệu có Đ (NĐ-CP, QĐ-UBND) không
+        # bao giờ khớp và script kết luận sai "chưa có" (lỗi phát hiện 17/10/2026)
+        t = "".join("[đd]" if ch in "đd" else re.escape(ch) for ch in p)
         toks.append(t)
     # biên: "303/2026" không khớp "1303/2026" hay "30-3-2026"; "Bảng 1" không khớp "Bảng 10"
     return re.compile(r"(?<![0-9a-zđA-ZĐ])" + SEP.join(toks) + r"(?![0-9])", re.I)

@@ -10,3 +10,4 @@ Nguồn: bản giao việc nâng cấp hệ plugin 17/10/2026 (mục 2 — dàn 
   gốc `van-ban-goc/QD-2736-2026-HD-lua-chon-CDT-CCN-Mong-Son.pdf`), trước ghi nhầm 07/8/2026.
 - `SKILL.md` mục 0b (mới): dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 — báo cáo định kỳ CCN, báo cáo CCN họp UBND tỉnh (ref 44 B.2), báo cáo thẩm định và tờ trình thành lập CCN (Mẫu 02.2, 02.3).
 - `plugin.json` → 1.51.0.
+- `scripts/tim_van_ban.py` (bản chép): sửa lỗi không tìm được số hiệu có chữ Đ (NĐ-CP, QĐ-UBND) — biểu thức `[đ[dđ]]` làm script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử C3).

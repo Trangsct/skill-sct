@@ -1,6 +1,6 @@
 {
   "name": "sct-laocai-org-vn",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai: Ban Giám đốc GĐ + 6 PGĐ theo QĐ phân công 10/2026 (PGĐ Chiến: Phòng QLCN, hóa chất, VLNCN; PGĐ Thuân: Phòng QLKS; PGĐ Chung: khoáng sản); các phòng, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026. Ai phụ trách, trình ai, ai ký, dòng Lưu. Phòng QL Khoáng sản từ 10/2026: TP Lưu Đức Cường, PTP Nguyễn Hồng Vân, ký hiệu SCT-KS (ref 03); sổ văn bản ghi QĐ phân công BGĐ 6320/QĐ-SCT 06/10/2026 - đối chiếu với 6286.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

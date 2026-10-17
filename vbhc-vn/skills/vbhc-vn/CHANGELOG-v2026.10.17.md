@@ -54,3 +54,4 @@ Nguyên tắc tốc độ của bản giao việc: kế hoạch, dàn ý, rà so
   reference và mục QA của `SKILL.md`, `HUONG_DAN_CAP_NHAT.md` dẫn quy trình. Nhóm A–O văn xuôi giữ nguyên.
 
 - `plugin.json` → 2.31.0.
+- `scripts/tim_van_ban.py` (bản chép): sửa lỗi không tìm được số hiệu có chữ Đ (NĐ-CP, QĐ-UBND) — biểu thức `[đ[dđ]]` làm script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử C3).

@@ -63,6 +63,15 @@ từng trang bằng QA của vbhc-vn trước khi giao. Đặt tên file
 
 ---
 
+## 2A. Dàn ý trước khi viết (GATE 0b)
+
+GATE 0 (kế hoạch soạn, ghi `ke-hoach-soan.txt`, không gửi duyệt) và GATE 0b (dàn ý) của `vbhc-vn` áp dụng cho plugin này (Bạn chốt 17/10/2026): lập dàn ý theo dàn ý mặc định dưới đây hoặc mẫu gần nhất trong kho, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; khi giao file báo một dòng "Dàn ý theo mẫu …". Bảng đủ các loại: `vbhc-vn` `reference/dan-y-mac-dinh.md`.
+
+Dàn ý mặc định của bài phát biểu: mở đầu (kính thưa phân tầng, 1–2 đoạn gắn nghị quyết) → bối cảnh, kết quả → hạn chế →
+nhiệm vụ, giải pháp (các nhóm, mở bằng "Kính thưa Hội nghị!") → tín hiệu, cơ hội (tùy chọn) → kết thúc (cam kết, mong
+phối hợp, cảm ơn) — chi tiết từng phần ở mục 3 dưới đây. Bài tóm tắt 03 trang khi Giám đốc dự họp UBND tỉnh: biến thể
+ở mục 7.
+
 ## 3. Kết cấu chuẩn của bài phát biểu
 
 Mọi bài phát biểu tham luận đều đi theo "cung" 6 nhịp sau (đọc kỹ ví dụ có chú giải

@@ -8,4 +8,5 @@ Nguồn: bản giao việc nâng cấp hệ plugin 17/10/2026 (mục 2 — dàn 
   vì hỏi lại Bạn. `SKILL.md` mục 0: thêm một gạch đầu dòng về tệp trạng thái.
 - **Ref 26**: đính chính ngày QĐ 2736/QĐ-UBND thành lập Hội đồng lựa chọn chủ đầu tư CCN Mông Sơn là **06/8/2026** (bản
   gốc `van-ban-goc/QD-2736-2026-HD-lua-chon-CDT-CCN-Mong-Son.pdf`), trước ghi nhầm 07/8/2026.
+- `SKILL.md` mục 0b (mới): dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 — báo cáo định kỳ CCN, báo cáo CCN họp UBND tỉnh (ref 44 B.2), báo cáo thẩm định và tờ trình thành lập CCN (Mẫu 02.2, 02.3).
 - `plugin.json` → 1.51.0.

@@ -65,6 +65,16 @@ Kích hoạt khi xử lý bất kỳ việc nào sau đây:
 
 ---
 
+## II-b. DÀN Ý VĂN BẢN DÀI (GATE 0b)
+
+GATE 0 (kế hoạch soạn, ghi `ke-hoach-soan.txt`, không gửi duyệt) và GATE 0b (dàn ý) của `vbhc-vn` áp dụng cho plugin này (Bạn chốt 17/10/2026): lập dàn ý theo dàn ý mặc định dưới đây hoặc mẫu gần nhất trong kho, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; khi giao file báo một dòng "Dàn ý theo mẫu …". Bảng đủ các loại: `vbhc-vn` `reference/dan-y-mac-dinh.md`.
+
+| Loại | Dàn ý mặc định | Nguồn |
+|---|---|---|
+| Kế hoạch cấp tỉnh do Sở dự thảo (mẫu KH 427/KH-UBND) | I. Mục đích, yêu cầu · II. Quan điểm, phạm vi và mục tiêu · III. Nhiệm vụ chủ yếu · IV. Sản phẩm đầu ra · V. Nguồn lực thực hiện · VI. Tổ chức thực hiện · VII. Chế độ theo dõi, báo cáo · Phụ lục I phân công, Phụ lục II danh mục dự án | `scripts/bai-toan-lon-2/noi_dung_bt2.py` (Kế hoạch Bài toán lớn số 2 v11) |
+| Báo cáo chuyên đề tăng trưởng | I. Căn cứ và mục tiêu · II. Kết quả đạt được · III. Tồn tại, nguyên nhân · IV. Giải pháp, kiến nghị | `kccn-sct-vn/.../mau-van-ban/04-bo-mau-bao-cao-ubnd.md` (báo cáo chuyên đề) |
+| Đề án | Mở đầu: sự cần thiết, căn cứ · Thứ nhất: thực trạng · Thứ hai: quan điểm, mục tiêu, nhiệm vụ, giải pháp, nguồn lực, hiệu quả · Thứ ba: tổ chức thực hiện | Dự thảo Đề án 13 (`bvmt-sct-vn/.../van-ban-goc/knk-bdkh/`) |
+
 ## III. KHUNG PHÁP LÝ CỐT LÕI
 
 Trục xương sống của công tác điều hành tăng trưởng (chi tiết reference `01`):

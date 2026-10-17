@@ -1277,8 +1277,11 @@ def rule_R22(doc, ctx) -> list[Finding]:
 
 # Số hiệu văn bản quy phạm pháp luật luôn có năm ở giữa: 32/2024/NĐ-CP, 66.25/2026/NQ-CP, 42/2024/QH15,
 # 01/2026/QĐ-UBND. Văn bản hành chính (3725/QĐ-UBND, 6020/SCT-CN) không có năm nên không thuộc R23.
+# Chỉ các ký hiệu của văn bản quy phạm (Luật Ban hành VBQPPL); số/năm/ký hiệu của doanh nghiệp (38/2026/AP-DA) không tính.
 SO_QPPL = re.compile(
-    r"(?<![\d./])(\d{1,4}(?:\.\d{1,3})?[a-z]?)/(\d{4})/([A-ZĐ][A-ZĐa-z0-9\-]{1,14})(?![\w/])")
+    r"(?<![\d./])(\d{1,4}(?:\.\d{1,3})?[a-z]?)/(\d{4})/"
+    r"(NĐ-CP|NQ-CP|QĐ-TTg|NQ-HĐND|QĐ-UBND|TTLT-[A-ZĐ\-]{2,20}|TT-[A-ZĐ]{2,10}|NQ-UBTVQH\d{2}|"
+    r"PL-UBTVQH\d{2}|UBTVQH\d{2}|QH\d{2}|L-CTN)(?![\w/-])")
 TEP_CAN_CU_PHIEN = ("can-cu-phien.txt", "ke-hoach-soan.txt")
 _KHO_SO_HIEU: set[str] | None = None
 

@@ -34,6 +34,17 @@ Vụ thật 17/9/2026: soạn công văn đề nghị cử cán bộ "để có 
 cho CCN Châu Quế trong khi cụm đã có Quyết định thành lập Hội đồng — người dùng phải nhận lỗi với Lãnh
 đạo Sở. Dấu hiệu đã nằm sẵn ở ref `17` (TTr 4299/SCT-TTr ngày 17/7/2026) nhưng không được tra.
 
+## 0b. DÀN Ý VĂN BẢN DÀI (GATE 0b)
+
+GATE 0 (kế hoạch soạn, ghi `ke-hoach-soan.txt`, không gửi duyệt) và GATE 0b (dàn ý) của `vbhc-vn` áp dụng cho plugin này (Bạn chốt 17/10/2026): lập dàn ý theo dàn ý mặc định dưới đây hoặc mẫu gần nhất trong kho, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; khi giao file báo một dòng "Dàn ý theo mẫu …". Bảng đủ các loại: `vbhc-vn` `reference/dan-y-mac-dinh.md`.
+
+| Loại | Dàn ý mặc định | Nguồn |
+|---|---|---|
+| Báo cáo định kỳ CCN gửi UBND tỉnh | I. Tình hình chung · II. Kết quả thực hiện · III. Khó khăn, vướng mắc · IV. Phương hướng, kiến nghị | `mau-van-ban/04-bo-mau-bao-cao-ubnd.md` |
+| Báo cáo CCN họp UBND tỉnh | I. Tình hình chung · II. Nhóm cụm doanh nghiệp làm chủ đầu tư · III. Nhóm cụm cấp xã · IV. Nhóm vấn đề cần UBND tỉnh chỉ đạo · V. Đánh giá, đề xuất trọng tâm · Phụ lục I, II | ref 44 mục B.2 |
+| Báo cáo thẩm định thành lập CCN | I. Hồ sơ tiếp nhận · II. Cơ sở pháp lý · III. Kết quả thẩm định (Điều 11 NĐ 32/2024/NĐ-CP) · IV. Kết luận và kiến nghị | `mau-van-ban/02-bo-mau-thanh-lap-ccn.md` Mẫu 02.2 |
+| Tờ trình thành lập CCN | I. Sự cần thiết và cơ sở · II. Nội dung trình · III. Kiến nghị | cùng tệp, Mẫu 02.3 |
+
 ## I. KHI NÀO DÙNG PLUGIN NÀY
 
 Kích hoạt khi xử lý bất kỳ việc nào sau:

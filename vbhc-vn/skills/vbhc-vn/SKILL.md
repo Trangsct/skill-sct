@@ -43,6 +43,20 @@ kho thì ghi vào `can-cu-phien.txt` (mỗi dòng một số hiệu) cạnh file
 - **Khi giao file, báo Bạn tối đa 3 dòng**: nguồn căn cứ đã dùng; chỗ bôi tím cần Bạn bổ sung (nếu có); chỗ đã tự chọn
   phương án (nếu có).
 
+## GATE 0b — Dàn ý (Bạn chốt 17/10/2026)
+
+Áp dụng cho văn bản từ 3 trang trở lên hoặc thuộc loại: báo cáo, kế hoạch, đề án, phương án nổ mìn, báo cáo đánh giá
+rủi ro, kế hoạch ứng cứu khẩn cấp, bài phát biểu, tờ trình kèm dự thảo.
+
+a) Sau GATE 0, lập dàn ý theo **dàn ý mặc định** của loại văn bản (`reference/dan-y-mac-dinh.md` — mọi dàn ý lấy từ mẫu
+   thật, văn bản gốc trong kho) hoặc theo văn bản mẫu gần nhất trong kho; ghi vào `ke-hoach-soan.txt` (mục g), KHÔNG
+   gửi Bạn.
+b) Dựng thân văn bản ngay theo dàn ý. Viết đủ, không ngắn hơn dàn ý — phương án nổ mìn phải đầy đủ và dài.
+c) Chỉ gửi dàn ý xin ý kiến khi Bạn yêu cầu rõ "cho tôi xem dàn ý trước", hoặc loại văn bản chưa có dàn ý mặc định và
+   chưa có mẫu nào trong kho: gửi gọn một màn hình điện thoại, gõ thẳng không markdown, kèm câu "Nếu không có ý kiến
+   tôi sẽ viết theo dàn ý này".
+d) Khi giao file báo một dòng: "Dàn ý theo mẫu [tên mẫu hoặc dàn ý mặc định]". Bạn muốn sửa bố cục thì sửa trên bản đã viết.
+
 ## Khi nào dùng
 
 Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** các văn bản:
@@ -176,6 +190,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 
 | File | Đọc khi |
 |---|---|
+| `dan-y-mac-dinh.md` | GATE 0b — dàn ý mặc định 14 loại văn bản dài (phương án nổ mìn, đánh giá rủi ro, ứng cứu khẩn cấp, bài phát biểu, báo cáo, kế hoạch, tờ trình, đề án), kèm nguồn |
 | `so-loi-tu-ghi.md` | **Đọc trước khi soạn** — lỗi Bạn chỉ ra trong phiên, ghi ngay theo mục "Tự ghi lỗi" (từ 17/10/2026; định dạng L001…, kiểm bằng `scripts/check_anti_error_format.py` ở gốc kho) |
 | `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
 | `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |

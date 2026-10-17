@@ -28,6 +28,26 @@ Nguyên tắc tốc độ của bản giao việc: kế hoạch, dàn ý, rà so
   (Phụ lục VI, VII, IX TT 23/2024/TT-BCT; bpb-sct-vn mục 3; kccn mẫu 02, 04, ref 44; Kế hoạch BT2 v11; Đề án 13).
 - Dẫn chiếu chéo: bpb-sct-vn 1.6.0, kccn-sct-vn 1.51.0, dacn-sct-vn 1.10.0, sd-vlncn-sct-vn 2026.10.17.1.
 
+## Mục 3 — GATE cuối Rà soát độc lập
+
+- `SKILL.md`: mục "GATE cuối — Rà soát độc lập": sau khi dựng xong, hai việc chạy SONG SONG — Claude chạy một lệnh
+  `kiem_tra_truoc_khi_giao.py --tu-sua`, tác tử phụ chưa tham gia soạn (chạy nền) đối chiếu checklist bằng số đo của
+  script, không sửa file; lỗi hình thức Claude tự sửa bằng script, lỗi nội dung nêu gọn kèm hướng xử lý; tối đa 2 vòng;
+  không có công cụ tác tử phụ thì ghi "rà soát không độc lập". Bảng QA thêm hai dòng.
+- `scripts/checklist_ra_soat.txt` (mới, gõ thẳng): 30 điểm — 11 hình thức (máy sửa được), 19 nội dung; mỗi điểm dẫn số đo
+  [n] của script hoặc "mắt", kèm nguồn (Quy tắc, Nhóm A–O, R-mã, Bạn chốt 17/10/2026).
+- `scripts/ra_soat_doc_lap.py` (mới): 16 số đo — phông từng run (kể cả kiểu, theme); cỡ chữ Nơi nhận; dòng trống sau Kính
+  gửi, trước khối ký, ô ký so với Nơi nhận; trang gần trống (dùng lại PDF của qa_all.py); "UBND" trong thân; quy ước số 0
+  ngày tháng; nền, căn dọc ô bảng; dấu vết chỉnh sửa; dòng Số; Ban Quản lý Khu kinh tế ↔ Ban Quản lý các KCN; tên cụm gộp
+  số; Nơi nhận văn bản thủ tục hành chính; giao việc cho Phòng QLCN; chữ tím; "Kính thưa" giữa bài; R23.
+- `scripts/kiem_tra_truoc_khi_giao.py` (mới): một lệnh gộp `qa_all.py` + `cite_check.py` + `ra_soat_doc_lap.py` (dùng lại
+  PDF, không render lần hai); `--tu-sua` (chuan_hoa_xuat_ban.py, một dòng trống sau Kính gửi, bảng nền trắng căn giữa
+  dọc, dòng Lưu bỏ tên chuyên viên), tối đa 2 vòng. **Thời gian đo: 1,5 giây** trên công văn mẫu 2 trang
+  (`examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx`), mục tiêu < 30 giây.
+- `reference/so-loi-tu-ghi.md` L001 (17/10/2026): sau "Kính gửi" cách 1 dòng; ô ký cao tương ứng khối Nơi nhận. Bảng
+  Nhóm G trong SKILL.md thêm vế này.
+- `tests/test_ra_soat.py` (mới; `run_regression.py` mục 6): đo đúng, tự sửa đúng, không sinh FAIL mới, dưới 30 giây.
+
 ## Mục 4 — Tự ghi lỗi
 
 - `reference/so-loi-tu-ghi.md` (mới): sổ lỗi có cấu trúc L001 — ngày — tiêu đề; Lỗi; Cách đúng; Ví dụ; Máy kiểm. Bảng

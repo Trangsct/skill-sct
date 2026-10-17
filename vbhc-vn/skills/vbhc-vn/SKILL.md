@@ -57,6 +57,31 @@ c) Chỉ gửi dàn ý xin ý kiến khi Bạn yêu cầu rõ "cho tôi xem dàn
    tôi sẽ viết theo dàn ý này".
 d) Khi giao file báo một dòng: "Dàn ý theo mẫu [tên mẫu hoặc dàn ý mặc định]". Bạn muốn sửa bố cục thì sửa trên bản đã viết.
 
+## GATE cuối — Rà soát độc lập (Bạn chốt 17/10/2026)
+
+Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy SONG SONG, không nối tiếp:
+
+1. **Claude** chạy MỘT lệnh: `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua [--final]` — gộp `qa_all.py`
+   (R01–R23), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
+   trước khối ký, một dòng sau Kính gửi, bảng nền trắng căn giữa dọc, dòng Lưu bỏ tên chuyên viên) rồi kiểm lại.
+2. **Tác tử phụ chưa tham gia soạn** (công cụ Agent, chạy nền) nhận đúng lời giao sau, không kèm bối cảnh phiên:
+
+   ```
+   Rà soát độc lập file <đường dẫn .docx>. Chạy python3 <thư mục vbhc-vn>/scripts/ra_soat_doc_lap.py "<file>" và đọc
+   toàn văn bằng script (python-docx hoặc pdftotext), KHÔNG dựa vào trí nhớ. Đối chiếu TỪNG dòng
+   <thư mục vbhc-vn>/scripts/checklist_ra_soat.txt (và ke-hoach-soan.txt cạnh file nếu có). Không sửa file.
+   Trả về danh sách: số thứ tự | vị trí (trang/đoạn) | nội dung lỗi | cách sửa đề xuất | loại HÌNH THỨC hoặc NỘI DUNG.
+   Không lỗi thì trả đúng một dòng "Không phát hiện lỗi".
+   ```
+
+- Lỗi HÌNH THỨC tác tử tìm ra → Claude tự sửa bằng script (`kiem_tra_truoc_khi_giao.py --tu-sua`, `chuan_hoa_xuat_ban.py`,
+  `normalize_body.py`…) rồi chạy lại rà soát, không hỏi Bạn. Lỗi NỘI DUNG, số liệu, viện dẫn → nêu gọn cho Bạn kèm hướng xử lý
+  Claude đã chọn.
+- Chu trình kiểm tra - sửa - kiểm lại **tối đa 2 vòng**; còn lỗi thì bôi tím chỗ đó và báo, không kéo dài.
+- Phiên không có công cụ tác tử phụ: Claude tự đối chiếu checklist nhưng ghi rõ **"rà soát không độc lập"** trong báo cáo.
+- Báo Bạn gọn: "Rà soát độc lập: không phát hiện lỗi" hoặc "Đã tự sửa [n] lỗi hình thức" + danh sách lỗi nội dung (nếu có),
+  gộp vào tối đa 3 dòng báo khi giao file (GATE 0), dòng "Dàn ý theo mẫu …" (GATE 0b) và vế "đã ghi nhật ký".
+
 ## Khi nào dùng
 
 Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** các văn bản:
@@ -122,6 +147,8 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 
 | Việc | Lệnh |
 |---|---|
+| **Một lệnh trước khi giao** (qa_all + cite_check + số đo rà soát; `--tu-sua` sửa lỗi hình thức) | `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua` |
+| Số đo cho tác tử rà soát độc lập (đối chiếu `scripts/checklist_ra_soat.txt`) | `python3 scripts/ra_soat_doc_lap.py <file>.docx` |
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
@@ -156,7 +183,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |
@@ -209,7 +236,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-Script: `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R23) · `cite_check.py` (đối chiếu số hiệu)
+Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R23) · `cite_check.py` (đối chiếu số hiệu)
 · `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
 · `extract_metadata.py` (đọc PDF) · `normalize_body.py` (định dạng ẩn, Nhóm N) · `fit_pages.py` (căn trang hợp đồng, Quy tắc 28) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 

@@ -1,0 +1,50 @@
+CHECKLIST RÀ SOÁT ĐỘC LẬP BẢN CUỐI (GATE cuối — vbhc-vn, Bạn chốt 17/10/2026)
+
+Cách dùng: tác tử rà soát chưa tham gia soạn chạy
+    python3 scripts/ra_soat_doc_lap.py <file.docx>
+rồi đối chiếu TỪNG dòng dưới đây với số đo [n] in ra (không đọc từ trí nhớ phiên, không sửa file). Dòng ghi "mắt"
+là điểm script không đo được — đọc toàn văn bằng script (python-docx hoặc pdftotext) rồi soát.
+Trả về danh sách lỗi theo mẫu: số thứ tự | vị trí (trang hoặc đoạn) | nội dung lỗi | cách sửa đề xuất | loại (HÌNH THỨC
+máy sửa được / NỘI DUNG). Không lỗi thì trả đúng một dòng "Không phát hiện lỗi".
+
+A. HÌNH THỨC (máy sửa được — Claude tự sửa bằng script, chạy lại rà soát, không hỏi Bạn)
+ 1. Phông toàn văn bản Times New Roman, không lẫn phông khác (kể cả kiểu, số trang, theme).          [1]  Quy tắc 11, R19
+ 2. Khối Nơi nhận: "Nơi nhận:" cỡ 12; các dòng cơ quan nhận cỡ 11.                                     [2]  Quy tắc 11, R20
+ 3. Khối Nơi nhận và chữ ký cách khối nội dung đúng 1 dòng trống cỡ 14.                                [3]  Quy tắc 11, R21, H13
+ 4. Sau dòng "Kính gửi" (cả khối nhiều nơi nhận) cách 1 dòng trống rồi mới vào thân văn bản.          [3]  Bạn chốt 17/10/2026
+ 5. Ô ký tên rộng rãi: ≥ 3 dòng trống giữa chức danh và tên người ký, chiều cao tương ứng các dòng
+    của khối Nơi nhận; không co khối ký để ép văn bản vừa trang.                                      [3]  Bạn chốt 17/10/2026, H13
+ 6. Không có trang trống hoặc khoảng trắng lớn do tách trang sai; không trang nào kết bằng đề mục rồi
+    bỏ trắng; khối ký không gãy trang.                                                               [4]  Nhóm F, H
+ 7. Ngày tháng: ngày nhỏ hơn 10 và tháng 01, 02 có số 0 phía trước; tháng 3 đến 12 không có số 0.      [6]  NĐ 30/2020 Phụ lục I
+ 8. Bảng: nền trắng, không tô màu; mọi ô căn giữa theo chiều dọc, kể cả dòng tiêu đề lặp.              [7]  Quy tắc 24, cong-thuc-thuc-chien
+ 9. Không còn dấu vết chỉnh sửa: theo dõi thay đổi, chú thích, chữ "bản cũ", "điều chỉnh" sót từ
+    lần sửa trước, số liệu cũ, tên file cũ.                                                           [8]  Nhóm F, R14
+10. Quốc hiệu "CỘNG HÒA", tiêu ngữ en dash; dòng ngày điền sẵn tháng, năm, để trống ngày; "Lưu: VT, CN."
+    không ghi tên chuyên viên; kết thúc "./.".                                                        mắt Nhóm G, R07 (qa_all.py)
+11. "Kính gửi" không đậm; Kính gửi một nơi nhận trên một dòng; Kính gửi ↔ Nơi nhận "Như trên" nhất quán. mắt Nhóm G, R04, R16
+
+B. NỘI DUNG (nêu cho Bạn gọn, kèm hướng xử lý Claude đã chọn)
+12. "Ủy ban nhân dân" viết đầy đủ trong thân văn bản, không viết tắt UBND.                            [5]  Nhóm G
+13. Mọi số văn bản viện dẫn đều có nguồn: số hiệu văn bản quy phạm khớp kho hoặc căn cứ Bạn gửi (R23);
+    số, ngày khớp sổ đăng ký (cite_check.py); không điền số, ngày, điều khoản từ trí nhớ.             [16] Nhóm A, GATE 0
+14. Văn bản soạn cho doanh nghiệp, cơ quan khác: số văn bản để trống.                                 [9]  Bạn chốt 17/10/2026
+15. Khi nêu Ban Quản lý Khu kinh tế tỉnh phải nêu cả Ban Quản lý các Khu công nghiệp tỉnh.            [10] Bạn chốt 17/10/2026
+16. Tên từng cụm công nghiệp viết đủ, không gộp số ("Phú Thịnh 1, 2, 3" → viết đủ từng tên).            [11] Bạn chốt 17/10/2026
+17. Văn bản thủ tục hành chính không gửi Ban Giám đốc Sở.                                             [12] Nhóm G, R22
+18. Văn bản do Phòng Quản lý Công nghiệp tham mưu không giao việc cho chính Phòng.                    [13] Bạn chốt 17/10/2026
+19. Chỗ chưa hoàn thiện đã bôi màu tím; bản hoàn thiện để xuất bản thì không còn chữ tím, chỗ trống.   [14] Quy tắc 27(c), R03
+20. Bài phát biểu: dòng "Kính thưa các đồng chí!" giữa bài lùi đầu dòng.                               [15] bpb-sct-vn
+21. Người ký đúng lĩnh vực (Quy tắc 5); doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu.       mắt Quy tắc 5, Nhóm G, R06
+22. Văn bản pháp luật viện dẫn còn hiệu lực VÀ đã có hiệu lực tại ngày ký.                              mắt Nhóm D, R05
+23. Không từ suy đoán trong phần khẳng định; không giọng giải thích, đánh giá mức độ.                  mắt Nhóm C, J, R08, R10
+24. Văn bản chỉ đạo của UBND tỉnh: gần như không viện dẫn điều khoản; giao cơ quan khác đúng thẩm quyền. mắt Nhóm K, R09, R15
+25. Cho ý kiến: ghi rõ nhất trí / không nhất trí kèm lý do; gia hạn ≤ 01 lần, ≤ 10 ngày; hướng dẫn bổ
+    sung hồ sơ đủ trong một lần.                                                                      mắt Nhóm L
+26. Văn bản đúng BƯỚC hiện tại của hồ sơ (tệp trang-thai/, trang_thai_cum.py): đã có Quyết định thì
+    không soạn văn bản của bước trước.                                                                mắt Nhóm M
+27. Tên doanh nghiệp viết "Công ty TNHH" / "Công ty TNHH MTV", nhất quán cả bộ hồ sơ.                  mắt Nhóm O
+28. Mọi nhiệm vụ đề xuất truy về một câu chỉ đạo, một điều khoản hoặc một chức năng của Sở.            mắt Nhóm B
+29. Đối chiếu ke-hoach-soan.txt (nếu có): căn cứ ghi "chưa có nguồn" không lọt vào văn bản; đủ các
+    mục của dàn ý; không viết ngắn hơn dàn ý.                                                         mắt GATE 0, 0b
+30. Đối chiếu reference/so-loi-tu-ghi.md và sổ lỗi của plugin lĩnh vực: không lặp lỗi Bạn đã chỉ ra.   mắt Tự ghi lỗi

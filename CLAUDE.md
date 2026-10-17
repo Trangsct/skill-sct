@@ -144,6 +144,26 @@ Quyết định của Bạn · Yêu cầu riêng một lần · Nhật ký phiê
 - `trang-thai/` và `scripts/` ở gốc kho KHÔNG vào gói claude.ai; phiên claude.ai không đọc được tệp thì làm theo yêu cầu và
   cuối phiên đưa đoạn nhật ký (mục "Kết thúc phiên") để Bạn dán.
 
+## Kết thúc phiên — nhật ký tự động (Bạn chốt 17/10/2026)
+
+Khi Bạn nói xong, cảm ơn, chuyển sang việc khác, hoặc khi giao văn bản cuối cùng của phiên, KHÔNG chờ Bạn nhắc:
+
+1. Ghi nhật ký vào tệp trạng thái của hồ sơ liên quan bằng MỘT lệnh (không sửa tay tệp):
+   `python3 scripts/ghi_nhat_ky.py "<slug/tên/bí danh>" --viec "…" --van-ban "<tên tệp> (bản N)" --quyet-dinh "…"
+   --viec-do "…" --cau-hoi "…" --xong "…" --tiep-theo "…" [--vuong-mac "…"] [--giai-quyet "<cụm của vướng mắc đã xong>"]
+   [--mot-lan "…"] [--phat-hanh "số|ngày|cơ quan|trích yếu|tệp"]`. Script chèn mục `### dd/mm/yyyy` (cùng ngày thì gộp),
+   cập nhật "Bước đã xong", "Bước tiếp theo", "Vướng mắc", "Quyết định của Bạn"; quá 10 mục nhật ký thì tự gộp các mục cũ
+   thành "Tóm tắt đến ngày …" (giữ 5 mục mới nhất); từ chối ghi (mã 3) khi có số điện thoại, tài khoản, người đại diện,
+   thông tin đăng ký doanh nghiệp, sức khỏe, đời tư.
+2. Đưa thay đổi `trang-thai/` vào cùng PR với văn bản/plugin của phiên.
+3. Không báo riêng: "đã ghi nhật ký" là một vế trong câu báo cuối khi giao file.
+4. Phiên không có quyền ghi kho: chạy với `--tam` (ghi `nhat-ky-tam.json` ở thư mục làm việc) và đưa Bạn nội dung đoạn
+   nhật ký hoặc tệp `.patch`, nói rõ. Bạn rời đi khi chưa kịp ghi: cũng ghi `--tam`. **Đầu phiên**: thấy `nhat-ky-tam.json`
+   trong thư mục làm việc thì nạp ngay `python3 scripts/ghi_nhat_ky.py --nap-tam nhat-ky-tam.json`, commit, rồi xóa tệp tạm.
+   (Phiên đám mây Claude Code bị thu hồi container khi kết thúc — tệp tạm chỉ còn nếu phiên chạy trên máy Bạn.)
+5. Dữ liệu nhật ký chỉ nằm trong kho này, không dùng dịch vụ ghi nhớ bên ngoài. Kho công khai: chỉ tên công ty và số giấy
+   phép nhà nước cấp.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

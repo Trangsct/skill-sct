@@ -1,3 +1,9 @@
+## 18/10/2026 (đợt 2) — Chuyển PR 116 lên main: vbhc-vn 2.34.0 (Nhóm P, R24, R25), dacn-sct-vn 1.11.0 (Kế hoạch Bài toán lớn số 2 bản trình ký 04/10/2026)
+
+- **vbhc-vn 2.34.0** — nội dung PR 116 (nhánh `vbhc-2.29.0-nhom-p-r19-r20`, Bạn chốt 04/10/2026) chuyển lên bản hiện tại, mã quy tắc đổi R19→**R24**, R20→**R25** (main đã có R19–R23 khác). R25: Nơi nhận theo vị thế, doanh nghiệp riêng dòng sau cùng (FAIL khi chung dòng cơ quan nhà nước; baseline WARN chốt lại cho mẫu VP UBND `thong-bao-ket-luan-ubnd`). R24 **thu hẹp phạm vi**: "Ủy ban nhân dân" → "UBND" chỉ ở khối Nơi nhận và ô bảng phụ lục; thân văn bản viết đầy đủ theo checklist rà soát độc lập dòng 12 (17/10/2026); **phần căn cứ chờ Bạn chốt phạm vi**. Nhóm P (P1–P9, 16 nhóm A–P), 2 mục mới `cong-thuc-thuc-chien.md` (phụ lục bảng; khối ký cùng trang, chuỗi keep_with_next, đo fill%), sổ lỗi L002, L003. Chi tiết: `vbhc-vn/skills/vbhc-vn/CHANGELOG-v2026.10.18-2.md`.
+- **dacn-sct-vn 1.11.0** — ref 11 mục III.2 "Kế hoạch bản trình ký 04/10/2026": TTr 5728/TTr-SCT 15/9/2026 → CV 9958/UBND-NC 30/9/2026 → mẫu KH 467/KH-UBND; căn cứ 4 nhóm + KL 83-KL/TW; cấu trúc 7 mục, 06 nội dung, 14 dự án; điểm Bạn chốt. `trang-thai/bai-toan-lon-so-2.md`: thêm 2 văn bản đã phát hành, bước bản trình ký 04/10/2026, bỏ vướng mắc "PR 116 chưa gộp".
+- `scripts/check_facts.py`: rule WARN `ubnd-viet-tat-noi-nhan-trong-mau` (chỉ dòng Nơi nhận "(b/c)" trong mẫu .md). Không chuyển `registry/`, `marketplace.json` của nhánh — sinh lại bằng script theo quy trình chung khi gộp.
+
 ## 18/10/2026 — Nâng cấp tiếp theo 8 đề xuất: ho-so-sct-vn 1.0.0, mau-dgrr-khuc-vlncn 1.0.0, vbhc-vn 2.33.0, ngày hiệu lực từ bản gốc, thống kê sổ lỗi
 
 - **ho-so-sct-vn 1.0.0** (mới): gói claude.ai của `trang-thai/` + script trạng thái hồ sơ; `scripts/build_ho_so_plugin.py` đồng bộ (ghi_nhat_ky.py tự gọi, CI `--check`); `trang_thai_lib.py` chạy được trong gói.

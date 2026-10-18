@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Viết đủ chữ "Ủy ban nhân dân tỉnh" ở dòng đầu khối Nơi nhận — Nơi nhận phải viết tắt "UBND tỉnh" (Bạn chốt 04/10/2026).
+nguon: examples/sct/giay-phep-van-chuyen-hhnh.docx
+R24 WARN

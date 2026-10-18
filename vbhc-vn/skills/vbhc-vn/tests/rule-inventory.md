@@ -42,6 +42,8 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R21 | Khối Nơi nhận - ký cách thân đúng một dòng trống cỡ ≥ 12 (đoạn đệm 1–7 pt không tính) | Quy tắc 22/H13; Bạn nhắc 13/10/2026 | `qa_rules.rule_R21`; sửa: `chuan_hoa_xuat_ban.py` | WARN → FAIL khi `--final` |
 | R22 | Văn bản giải quyết thủ tục hành chính không gửi "Ban Giám đốc Sở" | Bạn chốt 13/10/2026 | `qa_rules.rule_R22`; sửa: `chuan_hoa_xuat_ban.py --tthc` | FAIL |
 | R23 | Số hiệu văn bản quy phạm (số/năm/ký hiệu) phải khớp tệp gốc trong kho (sổ cái) hoặc căn cứ Bạn gửi trong phiên (`can-cu-phien.txt`, `ke-hoach-soan.txt`, `VBHC_CAN_CU_PHIEN`) | GATE 0 điểm c, Bạn chốt 17/10/2026 | `qa_rules.rule_R23`; thử: `tests/test_gate0.py` | WARN |
+| R24 | "Ủy ban nhân dân" ở khối Nơi nhận và ô bảng phụ lục, danh mục phải viết "UBND"; chữ đầy đủ ở đầu trang, khối ký và THÂN văn bản (checklist rà soát dòng 12, Bạn chốt 17/10/2026). Phần căn cứ: chờ Bạn chốt | Bạn chốt 04/10/2026 (PR 116, mã cũ R19 của nhánh); Nhóm G, P9 | `qa_rules.rule_R24` | WARN (0 WARN mới trên 26 mẫu thật khi thu hẹp phạm vi) |
+| R25 | Nơi nhận theo vị thế cơ quan nhà nước; doanh nghiệp đứng riêng dòng, sau cơ quan nhà nước, trên Văn phòng và Lưu | Bạn chốt 04/10/2026 (PR 116, mã cũ R20 của nhánh); Nhóm G, P9 | `qa_rules.rule_R25` | FAIL (doanh nghiệp chung dòng cơ quan nhà nước) / WARN (cơ quan nhà nước đứng sau doanh nghiệp — `thong-bao-ket-luan-ubnd.docx` mẫu thật VP UBND có 1 WARN, đã chốt baseline 18/10/2026) |
 
 ## B. Quy tắc loại M — ĐÃ CÓ hàm kiểm từ trước, đợt này chỉ gắn mã
 
@@ -79,6 +81,7 @@ vừa bắt nhầm mẫu thật vừa bỏ lọt lỗi thật, nên **giữ nguy
 | L1 — cho ý kiến phải có chính kiến | Máy đếm được số lần "nhất trí" (đã đưa vào `--forbid` của Nhóm L) nhưng không đánh giá được chính kiến có đúng không. |
 | Quy tắc bất biến 6 — chọn người ký theo lĩnh vực | Phụ thuộc bảng phân công của Sở và nội dung vụ việc. |
 | Quy tắc bất biến 18 — dòng Lưu không ghi tên chuyên viên (01/10/2026) | Đã chuyển sang máy: R07 WARN khi còn tên; `build_vb.py`/`TemplateDoc.save()` tự bỏ tên. |
+| P1–P8 — kế hoạch UBND tỉnh triển khai đề án, bài toán lớn (04/10/2026, chuyển từ PR 116 ngày 18/10/2026) | Bám đề bài không chép tên văn bản cũ, bỏ câu ghi chú làm việc, chỉ tiêu phấn đấu đồng bộ, việc ngoài thẩm quyền ghi "đề xuất", không tự chặn mục tiêu, mục đích - yêu cầu 4 ý, thứ tự theo đề bài, giao đúng Ban Quản lý — đều đòi đọc hiểu đề bài và thẩm quyền. Phần hình thức đã máy hóa: R14, R24, R25. |
 
 ## D. Những chỗ quy tắc văn xuôi LỆCH với mẫu thật — cần Bạn chốt
 
@@ -134,12 +137,12 @@ tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
 
 | Công cụ | Việc | Nguồn dữ liệu |
 |---|---|---|
-| `scripts/qa_rules.py` | 23 quy tắc R01–R23, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
+| `scripts/qa_rules.py` | 25 quy tắc R01–R25, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
 | `scripts/cite_check.py` | Đối chiếu mọi số hiệu trong bản thảo: KHỚP / LỆCH / CHƯA CÓ | `data/vbpl.json` |
 | `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
 | `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |
 | `tests/tao_file_loi.py` | Sinh lại toàn bộ `tests/fail/` một cách tái lập được | mẫu thật trong `examples/` |
-| `tests/run_regression.py` | Hồi quy 4 mục: mẫu thật sạch · 16 file lỗi bị bắt (kể cả tag cũ SZ13/SIGSPACE/LINES/HDR-BR) · `qa_all` PASS 26/26 · biên dịch 8 loại | — |
+| `tests/run_regression.py` | Hồi quy 4 mục: mẫu thật sạch · 27 file lỗi bị bắt (kể cả tag cũ SZ13/SIGSPACE/LINES/HDR-BR) · `qa_all` PASS 26/26 · biên dịch 8 loại | — |
 | `scripts/nap_vbpl_data360x.py` (gốc kho) + `vlncn-laocai/scripts/de-xuat-vbpl.py` | Nạp văn bản pháp luật CÔNG KHAI từ danh mục Data360X vào registry (số, ngày ban hành; hiệu lực để trống) | `theo-doi/danh-muc-<năm>.json` |
 
 Muốn bổ sung một văn bản pháp luật vào kho đối chiếu: sửa `registry/trang-thai.csv` (chỉ ghi khi

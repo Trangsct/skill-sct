@@ -1,7 +1,7 @@
 {
   "name": "sct-laocai-org-vn",
-  "version": "2.8.0",
-  "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai: Ban Giám đốc GĐ + 6 PGĐ theo QĐ phân công 10/2026 (PGĐ Chiến: Phòng QLCN, hóa chất, VLNCN; PGĐ Thuân: Phòng QLKS; PGĐ Chung: khoáng sản); các phòng, Chi cục QLTT; nội bộ Phòng QLCN theo Thông báo 10/7/2026. Ai phụ trách, trình ai, ai ký, dòng Lưu. Phòng QL Khoáng sản từ 10/2026: TP Lưu Đức Cường, PTP Nguyễn Hồng Vân, ký hiệu SCT-KS (ref 03); sổ văn bản ghi QĐ phân công BGĐ 6320/QĐ-SCT 06/10/2026 - đối chiếu với 6286.",
+  "version": "2.9.0",
+  "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai: QĐ 3628/QĐ-UBND 02/10/2026 (thay QĐ 05/2025) - 06 phòng (thêm Phòng QL khoáng sản) + Chi cục QLTT, KCN không thuộc Sở; TT 50/2026, NĐ 351/2026. Ban Giám đốc GĐ + 6 PGĐ theo QĐ 6286/QĐ-SCT 05/10/2026 (PGĐ Chiến: Phòng QLCN, hóa chất, VLNCN; PGĐ Thuân: Phòng QLKS; PGĐ Chung: khoáng sản); nội bộ Phòng QLCN 10/7/2026. Ai phụ trách, trình ai, ai ký, dòng Lưu. Phòng QLKS: TP Lưu Đức Cường, PTP Nguyễn Hồng Vân, ký hiệu SCT-KS.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
@@ -21,6 +21,9 @@
     "tiep-nhan-chuc-nang-khoang-san",
     "qd-6286-2026",
     "pham-nang-chung",
-    "phong-quan-ly-khoang-san"
+    "phong-quan-ly-khoang-san",
+    "qd-3628-2026",
+    "tt-50-2026",
+    "nd-351-2026"
   ]
 }

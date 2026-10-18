@@ -39,7 +39,7 @@ Từ Luật Thanh tra 84/2025 (hiệu lực 01/7/2025), **các sở không còn 
 
 ## 5. Văn bản trong nghiệp vụ kiểm tra (mẫu — ref 14)
 
-QĐ thành lập Đoàn kiểm tra; CV thông báo thời gian kiểm tra thực tế; Biên bản kiểm tra; Kết luận kiểm tra; Báo cáo kết quả; CV kiến nghị/chuyển hồ sơ (nếu vi phạm). Căn cứ pháp lý chuẩn của QĐ kiểm tra: Luật 69/2025; NĐ 24/25/26/2026; TT 01/02-2026; NĐ 217/2025; TT 56/2025; NĐ 189/2025 (thẩm quyền xử phạt); NĐ 71/2019 sửa NĐ 17/2022; QCVN 05A:2020/BCT; QĐ 05/2025/QĐ-UBND (chức năng nhiệm vụ Sở); QĐ kế hoạch kiểm tra năm.
+QĐ thành lập Đoàn kiểm tra; CV thông báo thời gian kiểm tra thực tế; Biên bản kiểm tra; Kết luận kiểm tra; Báo cáo kết quả; CV kiến nghị/chuyển hồ sơ (nếu vi phạm). Căn cứ pháp lý chuẩn của QĐ kiểm tra: Luật 69/2025; NĐ 24/25/26/2026; TT 01/02-2026; NĐ 217/2025; TT 56/2025; NĐ 189/2025 (thẩm quyền xử phạt); NĐ 71/2019 sửa NĐ 17/2022; QCVN 05A:2020/BCT; QĐ 3628/QĐ-UBND (chức năng nhiệm vụ Sở); QĐ kế hoạch kiểm tra năm.
 
 ## 6. Phối hợp liên lĩnh vực khi kiểm tra hiện trường
 

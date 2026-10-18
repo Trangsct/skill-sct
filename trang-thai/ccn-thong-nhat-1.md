@@ -34,6 +34,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 - Tuyến IC18 thiếu 50 tỷ đồng (ref 44 dòng 97).
 - 02 hộ còn đang vận động; 25 hộ tái định cư chưa di chuyển (ref 44 dòng 83).
 - Thông báo khởi công chưa gửi Sở Xây dựng (`kccn-sct-vn/skills/kccn-sct-vn/checklists/checklist-khoi-cong.md` dòng 105).
+- (18/10/2026) Số Quyết định cho thuê đất giai đoạn 1 ghi 636/QĐ-UBND ngày 23/4/2026 lấy theo văn bản của Công ty (BC 214/BC-LCIDI, VB 232/CV-LCIDI-HT), chưa có bản gốc; cùng ngày 23/4/2026 UBND tỉnh đã ban hành QĐ 1382/QĐ-UBND nên số 636 cần Bạn đối chiếu trước khi viện dẫn (ref 47 mục F)
 
 ## Quyết định của Bạn
 
@@ -41,6 +42,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 - Viện dẫn QĐ 2167/QĐ-UBND ngày 23/6/2026, không dùng QĐ 1894 (ref 46 dòng 86).
 - Sở không quyết định miễn tiền thuê đất (ref 46 dòng 87).
 - Văn bản mới ghi xã Gia Phú; trích yếu quyết định cũ giữ "xã Thống Nhất, thành phố Lào Cai" (ref 23 dòng 16).
+- (18/10/2026) Địa bàn ưu đãi: xã Gia Phú STT 28 Mục I Phụ lục QĐ 2167 — đặc biệt khó khăn; QĐ 2167 căn cứ NĐ 96/2026/NĐ-CP (ref 47 mục B, C)
 
 ## Yêu cầu riêng một lần
 
@@ -50,3 +52,8 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 
 ### 17/10/2026
 - Việc đã làm: khởi tạo tệp trạng thái từ ref 23, 41, 44, 46 của kccn-sct-vn (bản giao việc 17/10/2026, mục 5.1).
+
+### 18/10/2026
+- Việc đã làm: Chuyển PR 127 lên kccn-sct-vn 1.52.0: ref 47 địa bàn ưu đãi đầu tư (QĐ 2167/QĐ-UBND thay QĐ 1894), bản gốc QĐ 1894, 2167, 2752 vào van-ban-goc
+- Quyết định của Bạn: Địa bàn ưu đãi: xã Gia Phú STT 28 Mục I Phụ lục QĐ 2167 — đặc biệt khó khăn; QĐ 2167 căn cứ NĐ 96/2026/NĐ-CP (ref 47 mục B, C)
+- Câu hỏi chưa được trả lời: Số Quyết định cho thuê đất giai đoạn 1 ghi 636/QĐ-UBND ngày 23/4/2026 lấy theo văn bản của Công ty (BC 214/BC-LCIDI, VB 232/CV-LCIDI-HT), chưa có bản gốc; cùng ngày 23/4/2026 UBND tỉnh đã ban hành QĐ 1382/QĐ-UBND nên số 636 cần Bạn đối chiếu trước khi viện dẫn (ref 47 mục F)

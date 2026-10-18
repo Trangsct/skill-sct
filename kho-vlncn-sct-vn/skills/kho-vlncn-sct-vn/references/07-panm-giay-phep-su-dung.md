@@ -37,7 +37,7 @@ UBND tỉnh chuyển hồ sơ (Phiếu chuyển VPUBND) hoặc DN nộp trực t
  → CHỦ TỊCH UBND TỈNH ký QĐ phê duyệt PANM (mẫu 07)
 ```
 
-Căn cứ pháp lý ghi trong Tờ trình/QĐ (chuỗi chuẩn đã dùng): Luật Tổ chức CQĐP ngày 16/6/2025; Luật 42/2024; NĐ 181/2024; NĐ 146/2025; TT 23/2024; TT 38/2025; QCVN 01:2019/BCT; QĐ 05/2025/QĐ-UBND; (+ Phiếu chuyển/văn bản đề nghị của DN). Khi Luật 118/2025 liên quan trực tiếp nội dung thì bổ sung.
+Căn cứ pháp lý ghi trong Tờ trình/QĐ (chuỗi chuẩn đã dùng): Luật Tổ chức CQĐP ngày 16/6/2025; Luật 42/2024; NĐ 181/2024; NĐ 146/2025; TT 23/2024; TT 38/2025; QCVN 01:2019/BCT; QĐ 3628/QĐ-UBND; (+ Phiếu chuyển/văn bản đề nghị của DN). Khi Luật 118/2025 liên quan trực tiếp nội dung thì bổ sung.
 
 Nội dung chính của QĐ (Điều 1): vị trí, phạm vi sử dụng VLNCN (khớp QĐ CTĐT); khoảng cách gần nhất tới công trình, khu dân cư (chi tiết từng hộ); phương pháp nổ; quy mô, thông số; thời gian nổ mìn quy định trong ngày; biện pháp an toàn, giám sát ảnh hưởng; trách nhiệm DN. Điều 2: tổ chức thực hiện, trách nhiệm SCT - Công an - UBND xã - DN. Điều 3: điều khoản thi hành.
 

@@ -1,0 +1,5 @@
+# CHANGELOG — dacn-sct-vn v1.11.0 (18/10/2026) — chuyển từ PR 116
+
+- Ref 11 mục III.2 viết lại theo **bản Kế hoạch trình ký 04/10/2026** (nội dung PR 116, nhánh `vbhc-2.29.0-nhom-p-r19-r20`, chuyển lên main 18/10/2026): tên chốt; diễn biến Tờ trình 5728/TTr-SCT ngày 15/9/2026 → CV 9958/UBND-NC ngày 30/9/2026 (chưa đạt, trình trước 05/10/2026) → mẫu KH 467/KH-UBND ngày 01/10/2026; 4 nhóm căn cứ rút gọn + KL 83-KL/TW (không dẫn NQ 34, Đề án 08, KH 113, 134, CV 7698 trong thân); cấu trúc 7 mục, 06 nội dung, Phụ lục I 12 dòng, Phụ lục II 14 dự án; thứ tự khoáng sản trước khu, cụm công nghiệp; chỉ tiêu 2030 hạ về mức khả thi, phần phụ thuộc doanh nghiệp, Trung ương là phấn đấu; danh sách điểm Bạn chốt khi sửa; số liệu người dùng phải tự kiểm. Bản 05/9 (16 nhiệm vụ, 42 tỷ) và bản 15/9 thành dòng diễn biến (lịch sử).
+- SKILL.md nghiệp vụ 11 và bảng reference, `plugin.json` description cập nhật tương ứng; version 1.11.0.
+- Quy tắc soạn chung rút ra từ vụ này ghi ở vbhc-vn 2.34.0 (Nhóm P, R24, R25). Tệp trạng thái `trang-thai/bai-toan-lon-so-2.md` cập nhật cùng đợt.

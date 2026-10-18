@@ -20,7 +20,7 @@ Doanh nghiệp có kho VLNCN:
 3. Điểm g khoản 2 Điều 5 NĐ 06/2021: kiểm định xây dựng công trình phục vụ công tác bảo trì.
 4. Điểm đ khoản 5 Điều 33 NĐ 06/2021: kiểm định **khi có yêu cầu của cơ quan quản lý nhà nước có thẩm quyền**.
 5. Điều 5 TT 10/2021/TT-BXD: trình tự, nội dung kiểm định xây dựng; khi kiểm định theo yêu cầu của CQNN → **đề cương kiểm định gửi cơ quan yêu cầu xem xét, có ý kiến** trước khi phê duyệt, thực hiện.
-6. QĐ 05/2025/QĐ-UBND (chức năng Sở); QCVN 01:2019/BCT (chuẩn đối chiếu).
+6. QĐ 3628/QĐ-UBND (chức năng Sở); QCVN 01:2019/BCT (chuẩn đối chiếu).
 
 ## III. LỘ TRÌNH 6 BƯỚC (theo đúng chuỗi Mông Sơn)
 

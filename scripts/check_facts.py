@@ -44,6 +44,33 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-05-2025-da-thay-bang-qd-3628",
+        # Bạn cung cấp 04/10/2026 (chuyển từ PR 115 ngày 18/10/2026): QĐ 3628/QĐ-UBND ngày 02/10/2026 ban hành Quy định CNNV, cơ cấu
+        # tổ chức Sở (06 phòng, có Phòng Quản lý khoáng sản) dùng thay QĐ 05/2025/QĐ-UBND làm căn cứ chức năng Sở trong mọi văn bản
+        # ký từ 02/10/2026. Bản gốc: sct-laocai-org-vn/.../van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf (+ .txt); tóm tắt ref 04.
+        "pattern": r"^(?!.*(?:3628|lịch sử|trước 02/10/2026|ký trước|bị thay|đến 01/10/2026|đã ban hành\))).*05/2025/QĐ-UBND",
+        "why": "Từ 02/10/2026 căn cứ chức năng Sở là QĐ 3628/QĐ-UBND ngày 02/10/2026 (sct-laocai-org-vn ref 04); QĐ 05/2025/QĐ-UBND chỉ còn ở văn bản ký trước đó — ghi kèm 'lịch sử' nếu cố ý nhắc.",
+        "since": "2026-10-02",
+        "level": "FAIL",
+        "skip": ["vbhc-vn"],
+        "id": "ubnd-viet-tat-noi-nhan-trong-mau",
+        # Bạn chốt 04/10/2026 (PR 116, chuyển lên main 18/10/2026): khối Nơi nhận viết "UBND tỉnh (b/c)". Chỉ bắt dòng
+        # Nơi nhận nhận biết chắc chắn — dòng "- …" có "(b/c)"/"(để b/c)"; thân văn bản, Kính gửi viết đầy đủ
+        # "Ủy ban nhân dân" (checklist rà soát độc lập dòng 12, 17/10/2026) nên KHÔNG quét; phần căn cứ chờ Bạn chốt.
+        # Chỉ nhắc (WARN) vì mẫu lấy từ văn bản đã ban hành; văn bản mới phải sạch (vbhc-vn R24).
+        "pattern": r"^(?!.*lịch sử)\s*-\s*(?:Ủy|Uỷ) ban nhân dân tỉnh[^\n]{0,40}\((?:để )?b/c\)",
+        "why": "Khối Nơi nhận viết 'UBND tỉnh (b/c)' — chữ đầy đủ chỉ ở đầu trang, khối ký và thân văn bản (vbhc-vn R24, Nhóm P9).",
+        "since": "2026-10-04",
+        "level": "WARN",
+        "id": "qd-1894-dia-ban-uu-dai-thay-boi-qd-2167",
+        # QĐ 2167/QĐ-UBND ngày 23/6/2026 (công bố địa bàn ưu đãi đầu tư cấp xã, căn cứ NĐ 96/2026/NĐ-CP) thay thế
+        # QĐ 1894/QĐ-UBND ngày 07/11/2025 (Điều 3). kccn-sct-vn ref 47 (chuyển từ PR 127 ngày 18/10/2026).
+        "pattern": r"^(?!.*(?:2167|lịch sử|thay thế|bị thay)).*1894/QĐ-UBND",
+        "why": "QĐ 1894/QĐ-UBND ngày 07/11/2025 (địa bàn ưu đãi đầu tư) đã bị QĐ 2167/QĐ-UBND ngày 23/6/2026 thay thế; dòng nào nhắc QĐ 1894 phải nêu kèm QĐ 2167 (kccn-sct-vn ref 47).",
+        "since": "2026-10-08",
+        "level": "FAIL",
+    },
+    {
         "id": "tthc-khong-gui-ban-giam-doc-so",
         # Bạn chốt 13/10/2026: văn bản giải quyết thủ tục hành chính (hoàn thiện, bổ sung, trả hồ sơ; giấy phép; GCN;
         # từ chối, chấm dứt thẩm định) KHÔNG gửi Ban Giám đốc Sở, chỉ gửi trực tiếp các đơn vị theo quy định.
@@ -552,6 +579,36 @@ RULES = [
         "since": "2026-09-30",
         "level": "FAIL",
         "only": ["sd-vlncn-sct-vn"],
+    },
+    {
+        "id": "hnh-khoi-luong-container-bon-theo-giay-to",
+        # Bạn chốt lại 08/10/2026: cột "Khối lượng vận chuyển" với container bồn ghi "Theo giấy tờ của phương tiện";
+        # cách ghi "Không quá ... kg/chuyến" (02/10/2026) là lịch sử — hnh-sct-vn nguyên tắc 23. (Chuyển từ PR 129/111, 18/10/2026.)
+        "pattern": r"^(?!.*(?:lịch sử|Lịch sử|08/10/2026)).*Không quá[^\n]{0,20}kg/chuyến",
+        "why": "Giấy phép HHNH cho hàng đi bằng container bồn: cột khối lượng ghi 'Theo giấy tờ của phương tiện' (Bạn chốt lại 08/10/2026 — hnh-sct-vn nguyên tắc 23); 'Không quá ... kg/chuyến' chỉ ghi kèm 'lịch sử'.",
+        "since": "2026-10-08",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
+        "id": "hnh-thoi-han-gp-dung-khoan-3-dieu-13",
+        # Bạn chốt 08/10/2026: thời hạn GP vận chuyển HHNH cấp đúng khoản 3 Điều 13 NĐ 161 (theo đề nghị, tối đa 24 tháng,
+        # không quá niên hạn); không khống chế theo mốc kiểm định, tập huấn — hnh-sct-vn nguyên tắc 25.
+        "pattern": r"^(?!.*(?:lịch sử|Lịch sử|08/10/2026|KHÔNG|không)).*khống chế[^\n]{0,40}(?:hạn kiểm định|GCN tập huấn)",
+        "why": "Từ 08/10/2026 thời hạn Giấy phép vận chuyển HHNH cấp đúng khoản 3 Điều 13 NĐ 161/2024, không khống chế theo mốc kiểm định, tập huấn (hnh-sct-vn nguyên tắc 25); dòng nói cách làm cũ ghi kèm 'lịch sử'.",
+        "since": "2026-10-08",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
+        "id": "hnh-container-bon-khong-ghep-smrm",
+        # Bạn chốt 02/10/2026 (vụ amoniac khan bằng container bồn): trong Giấy phép, dòng sơ mi rơ moóc
+        # chở container viết riêng, mỗi container bồn một dòng riêng — hnh-sct-vn nguyên tắc 22, ref 16 mục 11.2.
+        "pattern": r"kèm container dạng bồn số",
+        "why": "Giấy phép HHNH cho hàng đi bằng container bồn: sơ mi rơ moóc và container bồn ghi thành các dòng riêng trong bảng 'Danh sách phương tiện vận chuyển và thiết bị chứa hàng' (hnh-sct-vn nguyên tắc 22).",
+        "since": "2026-10-02",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
     },
 ]
 

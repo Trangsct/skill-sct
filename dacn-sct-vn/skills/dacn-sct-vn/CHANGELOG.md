@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.11.0] - 18/10/2026 — Kế hoạch Bài toán lớn số 2 bản trình ký 04/10/2026 (chuyển từ PR 116)
+- Ref 11 mục III.2 viết lại theo bản trình ký 04/10/2026 (7 mục theo mẫu KH 467, 06 nội dung, 14 dự án, căn cứ rút gọn 4 nhóm + KL 83-KL/TW, chỉ tiêu phấn đấu; diễn biến TTr 5728/TTr-SCT 15/9 → CV 9958/UBND-NC 30/9); bản 05/9 và 15/9 thành dòng lịch sử. Chi tiết: `CHANGELOG-v2026.10.18.md`.
+
 ## [1.10.0] - 17/10/2026 — Dàn ý văn bản dài (GATE 0b)
 
 - SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục II-b: dàn ý mặc định kế hoạch cấp tỉnh (mẫu KH 427/KH-UBND qua Kế hoạch Bài toán lớn số 2 v11), báo cáo chuyên đề, đề án; tệp trạng thái `trang-thai/bai-toan-lon-so-2.md` ở gốc kho.

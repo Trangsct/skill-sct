@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 336 văn bản gốc (336 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 339 văn bản gốc (339 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -48,6 +48,7 @@ Thống kê: 336 văn bản gốc (336 có bản .txt) ở 19 plugin; 30 văn b�
 | 831/2026/TB-UBND | 06/08/2026 | Cam Duong tiep nhan ho so CCN Cam Duong 1 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/TB-831-2026-UBND-Cam-Duong-tiep-nhan-ho-so-CCN-Cam-Duong-1.pdf` | có |
 | 311/2026/NĐ-CP | 06/08/2026 | sua doi ND 189 2025 | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/ND-311-2026-NDCP-sua-doi-ND-189-2025.docx` | có |
 | 28/CV-ĐĐT | 04/08/2026 | kien nghi lan chiem ranh gioi mo Dai Dong Tien | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-28-CV-DDT-04-8-2026-kien-nghi-lan-chiem-ranh-gioi-mo-Dai-Dong-Tien.pdf` | có (OCR) |
+| 303/2026/NĐ-CP | 01/08/2026 | Sua doi bo sung ND 32 2024 quan ly phat trien cum cong nghiep | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.08.01-303.2026.ND.CP-Sua-doi-bo-sung-ND-32-2024-quan-ly-phat-trien-cum-cong-nghiep.pdf` | có (OCR) |
 | 31-CTr/TW | 28/07/2026 | Bo Chinh tri thuc hien KL 75 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/CTr-31-CTr-TW-28-7-2026-Bo-Chinh-tri-thuc-hien-KL-75.pdf` | có (OCR) |
 | 75-KL/TW | 28/07/2026 | BVMT BDKH thoi ky moi | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/KL-75-KL-TW-28-7-2026-BVMT-BDKH-thoi-ky-moi.pdf` | có (OCR) |
 | 6987/SNNMT-KS | 23/07/2026 | nghia vu sau cap phep mo dat hiem Ben Den KhanhAn | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-6987-SNNMT-KS-23-7-2026-nghia-vu-sau-cap-phep-mo-dat-hiem-Ben-Den-KhanhAn.txt` | có |
@@ -126,6 +127,7 @@ Thống kê: 336 văn bản gốc (336 có bản .txt) ở 19 plugin; 30 văn b�
 | — | 25/03/2026 | Huong dan thu tuc cap GP loai 1 2 3 4 9 SCT | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/04-uy-quyen-quy-trinh/Huong-dan-thu-tuc-cap-GP-loai-1-2-3-4-9-SCT.docx` | có |
 | 83/2026/NĐ-CP | 23/03/2026 | sua ND 06 o don | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/ND-83-2026-ND-CP-23-3-2026-sua-ND-06-o-don.txt` | có |
 | CV 813 | 16/03/2026 | CucHoaChat | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/06-danh-muc-cong-van/CV-813-CucHoaChat.pdf` | có (OCR) |
+| 74/2026/NĐ-CP | 14/03/2026 | Quan ly su dung khai thac tai san ket cau ha tang thuy loi | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/2026.03.14-74.2026.ND.CP-Quan-ly-su-dung-khai-thac-tai-san-ket-cau-ha-tang-thuy-loi.docx` | có |
 | 699/QĐ-BNNMT | 27/02/2026 | thi diem phan bo han ngach 2025 2026 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-699-QD-BNNMT-27-02-2026-thi-diem-phan-bo-han-ngach-2025-2026.txt` | có |
 | 452/BC-TTCP | 26/02/2026 | thanh tra chuyen de mo VLXD | tkm-sct-vn | `tkm-sct-vn/skills/tkm-sct-vn/van-ban-goc/BC-452-BC-TTCP-26-02-2026-thanh-tra-chuyen-de-mo-VLXD.pdf` | có (OCR) |
 | 16/2026/QĐ-UBND | 25/02/2026 | Quy che CCN Lao Cai | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-16-2026-QD-UBND-Quy-che-CCN-Lao-Cai.pdf` | có |
@@ -292,6 +294,7 @@ Thống kê: 336 văn bản gốc (336 có bản .txt) ở 19 plugin; 30 văn b�
 | 98/2020/NĐ-CP | 26/08/2020 | xu phat thuong mai hang gia ban goc chua hop nhat 17 2022 | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/thuong-mai/ND-98-2020-NDCP-xu-phat-thuong-mai-hang-gia-ban-goc-chua-hop-nhat-17-2022.docx` | có |
 | 99/2020/NĐ-CP | 26/08/2020 | xu phat dau khi xang dau khi ban goc chua hop nhat 17 2022 | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/xang-dau-khi/ND-99-2020-NDCP-xu-phat-dau-khi-xang-dau-khi-ban-goc-chua-hop-nhat-17-2022.docx` | có |
 | 36/2020/NĐ-CP | 24/03/2020 | xu phat tai nguyen nuoc khoang san ban goc chua hop nhat 04 2022 | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/khoang-san/ND-36-2020-NDCP-xu-phat-tai-nguyen-nuoc-khoang-san-ban-goc-chua-hop-nhat-04-2022.docx` | có |
+| 30/2020/NĐ-CP | 05/03/2020 | Cong tac van thu | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/2020.03.05-30.2020.ND.CP-Cong-tac-van-thu.docx` | có |
 | 32/2019/TT-BCT | 21/11/2019 | QCVN 01 2019 | kho-vlncn-sct-vn | `kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/TT-32-2019-BCT_QCVN-01-2019.doc` | có |
 | 836/QĐ-BXD | 14/10/2019 | ke hoach lap quy hoach khoang san lam VLXD 2021 2030 | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/QD-836-QD-BXD-14-10-2019-ke-hoach-lap-quy-hoach-khoang-san-lam-VLXD-2021-2030.docx` | có |
 | 71/2019/NĐ-CP | 30/08/2019 | xu phat VPHC hoachat VLNCN | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/05-xu-phat-kiem-tra/ND-71-2019-xu-phat-VPHC-hoachat-VLNCN.docx` | có |

@@ -233,7 +233,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `cong-thuc-thuc-chien.md` | Căn bảng/biểu khổ ngang, đồng bộ chéo nhiều file |
 | `the-thuc-code.md` | Phải sinh .docx bằng code khi KHÔNG có mẫu — hàm định dạng đoạn + XML đường Line |
 | `nd-79-2025-tom-tat.md` | Rà soát VBQPPL hết hiệu lực (Nhóm D) |
-| `nd30-phu-luc-1-the-thuc.md` | Văn bản gốc Phụ lục I NĐ 30/2020 — căn cứ pháp lý của một quy tắc trình bày |
+| `nd30-phu-luc-1-the-thuc.md` | Văn bản gốc Phụ lục I NĐ 30/2020 — căn cứ pháp lý của một quy tắc trình bày; toàn văn NĐ 30/2020 (Word, PDF, .txt) ở `van-ban-goc/2020.03.05-30.2020.ND.CP-Cong-tac-van-thu.*` |
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 

@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-1894-dia-ban-uu-dai-thay-boi-qd-2167",
+        # QĐ 2167/QĐ-UBND ngày 23/6/2026 (công bố địa bàn ưu đãi đầu tư cấp xã, căn cứ NĐ 96/2026/NĐ-CP) thay thế
+        # QĐ 1894/QĐ-UBND ngày 07/11/2025 (Điều 3). kccn-sct-vn ref 47 (chuyển từ PR 127 ngày 18/10/2026).
+        "pattern": r"^(?!.*(?:2167|lịch sử|thay thế|bị thay)).*1894/QĐ-UBND",
+        "why": "QĐ 1894/QĐ-UBND ngày 07/11/2025 (địa bàn ưu đãi đầu tư) đã bị QĐ 2167/QĐ-UBND ngày 23/6/2026 thay thế; dòng nào nhắc QĐ 1894 phải nêu kèm QĐ 2167 (kccn-sct-vn ref 47).",
+        "since": "2026-10-08",
+        "level": "FAIL",
+    },
+    {
         "id": "tthc-khong-gui-ban-giam-doc-so",
         # Bạn chốt 13/10/2026: văn bản giải quyết thủ tục hành chính (hoàn thiện, bổ sung, trả hồ sơ; giấy phép; GCN;
         # từ chối, chấm dứt thẩm định) KHÔNG gửi Ban Giám đốc Sở, chỉ gửi trực tiếp các đơn vị theo quy định.

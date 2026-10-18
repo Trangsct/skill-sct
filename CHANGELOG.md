@@ -1,3 +1,8 @@
+## 18/10/2026 — kccn-sct-vn 1.52.0: địa bàn ưu đãi đầu tư cấp xã QĐ 2167/QĐ-UBND (thay QĐ 1894), QĐ 2752 vùng DTTS và miền núi — chuyển từ PR 127
+
+- **kccn-sct-vn 1.52.0** — ref 47 (mới, chuyển từ nhánh `kccn-1.50.0-dia-ban-uu-dai-qd-2167`): QĐ 2167/QĐ-UBND ngày 23/6/2026 công bố địa bàn ưu đãi đầu tư cấp xã (87 ĐBKK + 08 KK; căn cứ **NĐ 96/2026/NĐ-CP**, QĐ 2752/QĐ-UBND) thay thế QĐ 1894/QĐ-UBND ngày 07/11/2025; danh mục nguyên văn; 04 phường Văn Phú, Yên Bái, Nam Cường, Âu Lâu không có tên; bảng nơi đặt từng KCN, CCN; QĐ 2752/QĐ-UBND ngày 31/12/2025 (95 xã: 12 KV I, 36 KV II, 47 KV III); hồ sơ vụ CV 232/CV-LCIDI-HT bổ sung cho ref 46 mục D (CV 6468/SCT-CN). `van-ban-goc/`: 5 PDF + 5 `.txt` cùng tên (QĐ 1894, QĐ 2752 ≥ 3 MB export-ignore). Ref 16 sửa căn cứ QĐ 2167 (không phải NĐ 31/2021). SKILL.md mục I.17.
+- `scripts/check_facts.py`: rule `qd-1894-dia-ban-uu-dai-thay-boi-qd-2167` (FAIL). `trang-thai/ccn-thong-nhat-1.md`: câu hỏi mở về số QĐ 636/QĐ-UBND cho thuê đất giai đoạn 1.
+
 ## 17/10/2026 (đợt 2) — vbhc-vn 2.32.0: sửa các lỗi có từ trước phát hiện khi kiểm thử
 
 - **vbhc-vn 2.32.0** — `qa_pdf_check.check_sig_split` viết lại theo khối ký thật trong .docx: hết báo nhầm văn bản có phụ lục, bắt được khối ký gãy giữa "KT. GIÁM ĐỐC" và tên người ký; `tests/test_sigsplit.py`. `cite_check.py` tra thêm sổ cái văn bản gốc. `build_vb.py`: thẻ `[[…]]` → chữ tím; "Kính gửi" một nơi nhận không chấm cuối; nhắc phần còn là của mẫu.

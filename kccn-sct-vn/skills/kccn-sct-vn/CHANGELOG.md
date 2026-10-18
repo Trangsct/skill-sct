@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.52.0] - 18/10/2026 — Địa bàn ưu đãi đầu tư QĐ 2167/QĐ-UBND (thay QĐ 1894), QĐ 2752 vùng DTTS và miền núi — chuyển từ PR 127
+
+- **references/47 (mới)**: QĐ 2167/QĐ-UBND 23/6/2026 (căn cứ NĐ 96/2026/NĐ-CP, QĐ 2752) thay QĐ 1894/QĐ-UBND 07/11/2025; danh mục 87 + 08 xã, phường nguyên văn; bảng nơi đặt từng KCN, CCN; QĐ 2752/QĐ-UBND 31/12/2025; hồ sơ vụ CV 232/CV-LCIDI-HT (phần ref 46 mục D chưa có, dẫn chéo).
+- **van-ban-goc**: 5 PDF + 5 `.txt` cùng tên (QĐ 1894, QĐ 2167 + Phụ lục, QĐ 2752 + Phụ lục II). **references/16**: sửa căn cứ QĐ 2167 thành NĐ 96/2026/NĐ-CP. **SKILL.md**: mục I.17, dòng ref 47. `scripts/check_facts.py`: rule `qd-1894-dia-ban-uu-dai-thay-boi-qd-2167`.
+- `plugin.json` → 1.52.0. Chi tiết: `CHANGELOG-v2026.10.18.md`.
+
 ## [1.51.0] - 17/10/2026 — Tệp trạng thái hồ sơ dùng chung; dàn ý mặc định (GATE 0b vbhc-vn)
 
 - `scripts/trang_thai_cum.py` in đường dẫn `trang-thai/ccn-<cụm>.md` ở gốc kho và lấy bậc theo tệp đó khi tài liệu plugin đã cũ; SKILL.md mục 0 ghi quy tắc đọc tệp trạng thái; ref 26 đính chính ngày QĐ 2736/QĐ-UBND (06/8/2026).

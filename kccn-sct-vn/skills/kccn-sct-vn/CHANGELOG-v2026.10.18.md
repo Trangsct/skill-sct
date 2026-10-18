@@ -1,0 +1,12 @@
+# CHANGELOG — kccn-sct-vn v1.52.0 (18/10/2026)
+
+Chuyển nội dung PR 127 (nhánh `kccn-1.50.0-dia-ban-uu-dai-qd-2167`, soạn 08/10/2026 trên nền 1.49.1) lên bản hiện hành; main từ 10/10/2026 đã dùng số ref 46 cho kỳ cập nhật TB 181/TB-VPUBND nên reference địa bàn ưu đãi đặt số **47**.
+
+- **references/47 (mới — chuyển từ PR 127)**: QĐ 2167/QĐ-UBND ngày 23/6/2026 công bố địa bàn ưu đãi đầu tư cấp xã (PCT Phan Trung Bá ký; 87 xã, phường đặc biệt khó khăn, 08 khó khăn; căn cứ **NĐ 96/2026/NĐ-CP ngày 31/3/2026** và QĐ 2752/QĐ-UBND — đọc từ phần Căn cứ bản `.txt`) **thay thế QĐ 1894/QĐ-UBND ngày 07/11/2025** (61 + 34; PCT Nguyễn Thế Phước ký); danh mục nguyên văn; 04 phường Văn Phú, Yên Bái, Nam Cường, Âu Lâu không có tên; bảng đối chiếu nơi đặt từng KCN, CCN; QĐ 2752/QĐ-UBND ngày 31/12/2025 (thôn, xã vùng DTTS và miền núi 2026-2030; Gia Phú khu vực II). Mục F chỉ giữ phần **ref 46 mục D chưa có** (lỗi viện dẫn trong VB 232/CV-LCIDI-HT; số QĐ 636/QĐ-UBND chưa đối chiếu bản gốc; điểm luật nguồn thứ cấp), dẫn chéo sang CV 6468/SCT-CN ở ref 46 — không chép trùng.
+- **van-ban-goc**: 5 PDF (QĐ 2167 + Phụ lục; QĐ 1894; QĐ 2752 bản scan 63 trang + Phụ lục II) kèm 5 bản `.txt` **cùng tên** (đổi tên `-TEXT.txt`/`-OCR.txt` của PR 127 theo quy tắc sổ cái 09/10/2026; Phụ lục QĐ 2167 sinh mới bằng `trich_chu_van_ban_goc.py`); số, ngày, người ký QĐ 1894, 2167 đã đối chiếu bằng `extract_metadata.py`; QĐ 2752 đối chiếu dòng "Số: 2752/QĐ-UBND … ngày 31 tháng 12 năm 2025" trong bản OCR. QĐ 1894 và QĐ 2752 ≥ 3 MB — export-ignore, claude.ai đọc bản `.txt`.
+- **references/16**: sửa căn cứ của QĐ 2167 (NĐ 96/2026/NĐ-CP, QĐ 2752 — trước ghi nhầm "Phụ lục III NĐ 31/2021 sđ NĐ 239/2025"); trỏ sang ref 47; thêm nguyên tắc Sở không xác định miễn, giảm tiền thuê đất.
+- **SKILL.md**: mục I.17 (ưu đãi theo địa bàn, miễn giảm tiền thuê đất) và dòng ref 47 trong bảng reference.
+- `scripts/check_facts.py` gốc kho: rule `qd-1894-dia-ban-uu-dai-thay-boi-qd-2167` (FAIL — dòng nhắc QĐ 1894/QĐ-UBND phải kèm QĐ 2167/thay thế/lịch sử).
+- `trang-thai/ccn-thong-nhat-1.md`: nhật ký 18/10/2026, câu hỏi mở về số QĐ 636/QĐ-UBND (cùng ngày 23/4/2026 UBND tỉnh ban hành QĐ 1382/QĐ-UBND).
+- Không chuyển: `registry/` (chờ `build_registry.py` đợt sau), `.claude-plugin/marketplace.json` (chạy `sync_marketplace.py --bump` khi gộp), `CHANGELOG-v2026.10.08.md` bản 1.50.0 của nhánh (số bản 1.50.0 đã dùng trên main cho kỳ 10/10/2026).
+- `plugin.json` → 1.52.0.

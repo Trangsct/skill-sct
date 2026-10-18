@@ -1,3 +1,7 @@
+## 18/10/2026 — hnh-sct-vn 1.16.0: chuyển PR 129 — Mẫu 7, 8 container bồn; nguyên tắc 22–27; rule hnh-* check_facts
+
+- **hnh-sct-vn 1.16.0**: chuyển nội dung PR 129 (gồm PR 111) lên bản hiện hành — Mẫu 7 Biên bản thẩm định bản gọn, Mẫu 8 Giấy phép cho hàng đi bằng container bồn (đã chuẩn hóa theo quy tắc 13/10/2026); nguyên tắc 22–27 ở ref 19; ref 16 mục 11, 12; ref 11 lỗi 20–27; 3 rule `hnh-*` (WARN) trong `scripts/check_facts.py`. Chi tiết: `hnh-sct-vn/skills/hnh-sct-vn/CHANGELOG-v2026.10.18.md`.
+
 ## 17/10/2026 (đợt 2) — vbhc-vn 2.32.0: sửa các lỗi có từ trước phát hiện khi kiểm thử
 
 - **vbhc-vn 2.32.0** — `qa_pdf_check.check_sig_split` viết lại theo khối ký thật trong .docx: hết báo nhầm văn bản có phụ lục, bắt được khối ký gãy giữa "KT. GIÁM ĐỐC" và tên người ký; `tests/test_sigsplit.py`. `cite_check.py` tra thêm sổ cái văn bản gốc. `build_vb.py`: thẻ `[[…]]` → chữ tím; "Kính gửi" một nơi nhận không chấm cuối; nhắc phần còn là của mẫu.

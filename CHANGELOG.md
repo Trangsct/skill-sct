@@ -1,3 +1,8 @@
+## 18/10/2026 — chuyển PR 114 (kccn-sct-vn ref 43 mục F) và PR 135 (`scripts/xuat_gemini.py`)
+
+- kccn-sct-vn: chuyển PR 114 — ref 43 mục F khung tin Zalo báo cáo CCN hằng tuần (bản 1.52.0 ở cùng đợt): khung 03 mục Giám đốc Sở yêu cầu 04/10/2026, quy tắc gõ `1)` `+` không dùng danh sách tự động, tin mẫu kỳ 04/10/2026 ghi rõ là ví dụ (số mới nhất xem ref 44, 46); ref 32 thêm dòng trỏ sang.
+- Gốc kho: chuyển PR 135 — `scripts/xuat_gemini.py` xuất bộ plugin thành gói Markdown (Gem) + bản .txt văn bản gốc (NotebookLM) cho tài khoản Gemini dự phòng; danh sách NHOM đối chiếu với 24 plugin hiện có (22 xuất, bỏ data360x-sct-vn và skcn-vn có chủ đích), script tự cảnh báo plugin chưa xếp nhóm; CLAUDE.md mục Quy tắc nghiệp vụ chung thêm dòng hướng dẫn.
+
 ## 17/10/2026 (đợt 2) — vbhc-vn 2.32.0: sửa các lỗi có từ trước phát hiện khi kiểm thử
 
 - **vbhc-vn 2.32.0** — `qa_pdf_check.check_sig_split` viết lại theo khối ký thật trong .docx: hết báo nhầm văn bản có phụ lục, bắt được khối ký gãy giữa "KT. GIÁM ĐỐC" và tên người ký; `tests/test_sigsplit.py`. `cite_check.py` tra thêm sổ cái văn bản gốc. `build_vb.py`: thẻ `[[…]]` → chữ tím; "Kính gửi" một nơi nhận không chấm cuối; nhắc phần còn là của mẫu.

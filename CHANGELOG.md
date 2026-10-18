@@ -1,3 +1,7 @@
+## 18/10/2026 — chuyển PR 114 (kccn-sct-vn ref 43 mục F) và PR 135 (`scripts/xuat_gemini.py`)
+
+- kccn-sct-vn: chuyển PR 114 — ref 43 mục F khung tin Zalo báo cáo CCN hằng tuần (bản 1.52.0 ở cùng đợt): khung 03 mục Giám đốc Sở yêu cầu 04/10/2026, quy tắc gõ `1)` `+` không dùng danh sách tự động, tin mẫu kỳ 04/10/2026 ghi rõ là ví dụ (số mới nhất xem ref 44, 46); ref 32 thêm dòng trỏ sang.
+- Gốc kho: chuyển PR 135 — `scripts/xuat_gemini.py` xuất bộ plugin thành gói Markdown (Gem) + bản .txt văn bản gốc (NotebookLM) cho tài khoản Gemini dự phòng; danh sách NHOM đối chiếu với 24 plugin hiện có (22 xuất, bỏ data360x-sct-vn và skcn-vn có chủ đích), script tự cảnh báo plugin chưa xếp nhóm; CLAUDE.md mục Quy tắc nghiệp vụ chung thêm dòng hướng dẫn.
 ## 18/10/2026 — kccn-sct-vn 1.52.0: địa bàn ưu đãi đầu tư cấp xã QĐ 2167/QĐ-UBND (thay QĐ 1894), QĐ 2752 vùng DTTS và miền núi — chuyển từ PR 127
 
 - **kccn-sct-vn 1.52.0** — ref 47 (mới, chuyển từ nhánh `kccn-1.50.0-dia-ban-uu-dai-qd-2167`): QĐ 2167/QĐ-UBND ngày 23/6/2026 công bố địa bàn ưu đãi đầu tư cấp xã (87 ĐBKK + 08 KK; căn cứ **NĐ 96/2026/NĐ-CP**, QĐ 2752/QĐ-UBND) thay thế QĐ 1894/QĐ-UBND ngày 07/11/2025; danh mục nguyên văn; 04 phường Văn Phú, Yên Bái, Nam Cường, Âu Lâu không có tên; bảng nơi đặt từng KCN, CCN; QĐ 2752/QĐ-UBND ngày 31/12/2025 (95 xã: 12 KV I, 36 KV II, 47 KV III); hồ sơ vụ CV 232/CV-LCIDI-HT bổ sung cho ref 46 mục D (CV 6468/SCT-CN). `van-ban-goc/`: 5 PDF + 5 `.txt` cùng tên (QĐ 1894, QĐ 2752 ≥ 3 MB export-ignore). Ref 16 sửa căn cứ QĐ 2167 (không phải NĐ 31/2021). SKILL.md mục I.17.

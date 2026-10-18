@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.51.1] - 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
+
+- Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/01-khung-phap-ly.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.
+- `plugin.json` 1.51.0 → 1.51.1.
+
 ## [1.51.0] - 17/10/2026 — Tệp trạng thái hồ sơ dùng chung; dàn ý mặc định (GATE 0b vbhc-vn)
 
 - `scripts/trang_thai_cum.py` in đường dẫn `trang-thai/ccn-<cụm>.md` ở gốc kho và lấy bậc theo tệp đó khi tài liệu plugin đã cũ; SKILL.md mục 0 ghi quy tắc đọc tệp trạng thái; ref 26 đính chính ngày QĐ 2736/QĐ-UBND (06/8/2026).

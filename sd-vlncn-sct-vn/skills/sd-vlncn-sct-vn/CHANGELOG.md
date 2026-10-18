@@ -1,5 +1,10 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.10.18.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
+
+- Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `SKILL.md`; `mau-van-ban/01-giay-phep-su-dung-vlncn-mo-khoang-san.md`; `mau-van-ban/04-qd-dieu-chinh-gp.md`; `mau-van-ban/16-qd-kiem-tra-chuyen-nganh.md`; `mau-van-ban/20-bang-tu-kiem-truoc-khi-trinh-ubnd.md`; `references/01-phap-ly.md`; `references/10-tham-quyen-ubnd-tinh-va-sct.md`; `references/11-anti-error.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.
+- `plugin.json` 2026.10.17.1 → 2026.10.18.1.
+
 ## v2026.10.17.1 — 17/10/2026 — Dàn ý phương án nổ mìn, đánh giá rủi ro, ứng cứu khẩn cấp (GATE 0b)
 
 - SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục V-b: dàn ý mặc định theo Phụ lục VII, VI, IX TT 23/2024/TT-BCT; phương án nổ mìn phải đầy đủ và dài.

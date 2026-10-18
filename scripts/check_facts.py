@@ -44,6 +44,17 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "qd-05-2025-da-thay-bang-qd-3628",
+        # Bạn cung cấp 04/10/2026 (chuyển từ PR 115 ngày 18/10/2026): QĐ 3628/QĐ-UBND ngày 02/10/2026 ban hành Quy định CNNV, cơ cấu
+        # tổ chức Sở (06 phòng, có Phòng Quản lý khoáng sản) dùng thay QĐ 05/2025/QĐ-UBND làm căn cứ chức năng Sở trong mọi văn bản
+        # ký từ 02/10/2026. Bản gốc: sct-laocai-org-vn/.../van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf (+ .txt); tóm tắt ref 04.
+        "pattern": r"^(?!.*(?:3628|lịch sử|trước 02/10/2026|ký trước|bị thay|đến 01/10/2026|đã ban hành\))).*05/2025/QĐ-UBND",
+        "why": "Từ 02/10/2026 căn cứ chức năng Sở là QĐ 3628/QĐ-UBND ngày 02/10/2026 (sct-laocai-org-vn ref 04); QĐ 05/2025/QĐ-UBND chỉ còn ở văn bản ký trước đó — ghi kèm 'lịch sử' nếu cố ý nhắc.",
+        "since": "2026-10-02",
+        "level": "FAIL",
+        "skip": ["vbhc-vn"],
+    },
+    {
         "id": "tthc-khong-gui-ban-giam-doc-so",
         # Bạn chốt 13/10/2026: văn bản giải quyết thủ tục hành chính (hoàn thiện, bổ sung, trả hồ sơ; giấy phép; GCN;
         # từ chối, chấm dứt thẩm định) KHÔNG gửi Ban Giám đốc Sở, chỉ gửi trực tiếp các đơn vị theo quy định.

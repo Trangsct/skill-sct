@@ -1,6 +1,6 @@
 ---
 name: sct-laocai-org-vn
-description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai. Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, chuyên viên tham mưu, dòng Lưu VT CN (không ghi tên chuyên viên), phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Phạm Năng Chung, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: Ban Giám đốc (GĐ + 6 PGĐ) theo QĐ 6286/QĐ-SCT ngày 05/10/2026 - PGĐ Chiến phụ trách Phòng QLCN, ký hóa chất, VLNCN; PGĐ Thuân phụ trách Phòng Quản lý Khoáng sản; các phòng + Chi cục QLTT (QĐ 05/2025/QĐ-UBND, QĐ 59/QĐ-SCT); phân công nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 chuyên viên, ai kiểm duyệt); soạn công văn phân công, quyết định cử công chức. Phòng Quản lý Khoáng sản vận hành từ 10/2026: TP Lưu Đức Cường, PTP Nguyễn Hồng Vân, ký hiệu SCT-KS (ref 03); sổ văn bản ghi QĐ phân công BGĐ số 6320/QĐ-SCT 06/10/2026 - đối chiếu. Từ khóa: Nguyễn Hồng Vân, Lưu Đức Cường, Đỗ Mạnh Cường, QLCN, QLTM, QLNL, KH-TH, QLKS. Từ 15/9/2026 Sở tiếp nhận QLNN địa chất, khoáng sản, KCN (NQ 66.25/2026/NQ-CP)."
+description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai. Kích hoạt: ai ký, trình ai, PGĐ nào phụ trách, chuyên viên tham mưu, dòng Lưu VT CN, phòng nào chủ trì, phân công BGĐ; Hoàng Chí Hiền, Hoàng Văn Thuân, Nguyễn Đình Chiến, Phạm Năng Chung, Nguyễn Hữu Long, Trần Trọng Trang. Nội dung: QĐ 3628/QĐ-UBND 02/10/2026 (thay QĐ 05/2025): Sở có 06 phòng (thêm Phòng Quản lý khoáng sản) + Chi cục QLTT, KCN không thuộc Sở; TT 50/2026/TT-BCT, NĐ 351/2026 (ref 04); BGĐ GĐ + 6 PGĐ theo QĐ 6286/QĐ-SCT 05/10/2026 - PGĐ Chiến phụ trách Phòng QLCN, ký hóa chất, VLNCN; PGĐ Thuân phụ trách Phòng QLKS; CNNV phòng QĐ 59/QĐ-SCT; nội bộ Phòng QLCN 10/7/2026 (1 TP + 3 PTP + 10 CV, ai kiểm duyệt); soạn công văn phân công, QĐ cử công chức. Phòng QLKS từ 10/2026: TP Lưu Đức Cường, PTP Nguyễn Hồng Vân, ký hiệu SCT-KS (ref 03); sổ văn bản ghi QĐ phân công BGĐ 6320/QĐ-SCT 06/10/2026 - đối chiếu. Từ khóa: Đỗ Mạnh Cường, QLCN, QLTM, QLNL, KH-TH, QLKS, NQ 66.25/2026 (tiếp nhận địa chất, khoáng sản từ 15/9/2026)."
 ---
 
 # sct-laocai-org-vn — Cơ cấu tổ chức Sở Công Thương tỉnh Lào Cai
@@ -15,28 +15,34 @@ Tra ở đây (không suy đoán) khi cần: tên Bí thư/Chủ tịch/các Ph�
 
 Văn bản tổ chức, nhân sự tuần 29/9–09/10/2026 theo sổ văn bản Data360X (Đề án 6152/ĐA-SCT → QĐ 3620 và QĐ 3628/QĐ-UBND 02/10/2026; QĐ 3589/QĐ-UBND điều động PGĐ Phạm Năng Chung; QĐ 6231 bổ nhiệm PTP Phòng QLKS Nguyễn Hồng Vân; 10 QĐ điều động công chức 02/10; QĐ 6478 tiếp nhận Phùng Đức Minh; 6426/SCT-KH điều chỉnh phân công Đề án 08 — hạn 14/10); Phòng Quản lý Khoáng sản đã vận hành (ký hiệu `/SCT-KS`, TP Lưu Đức Cường); Trưởng phòng các phòng khác thấy trên luồng xử lý; ⚠️ đối chiếu số QĐ phân công BGĐ 6286/6320; việc phải làm khi bot mang bản gốc về.
 
+## Khung tổ chức mới 9–10/2026 — `references/04-qd-3628-chuc-nang-co-cau-so-2026.md`
+
+Tóm lược theo từng điều, đọc từ bản gốc trong `van-ban-goc/`: **NĐ 351/2026/NĐ-CP** 11/9/2026 (Bộ Công Thương — Điều 1; khoản 11–13 Điều 2: địa chất - khoáng sản, KCN - CCN, hóa chất - VLNCN); **TT 50/2026/TT-BCT** 13/9/2026 sửa TT 37/2025 (bảng đối chiếu khoản ↔ điều; điểm y khoản 2 Điều 4 "địa chất và khoáng sản"; Điều 3 chuyển tiếp ATTP); **QĐ 3628/QĐ-UBND** 02/10/2026 (Điều 1 chức năng — không có KCN; Điều 2 nhiệm vụ, khoản 12; Điều 3 cơ cấu 06 phòng + Chi cục QLTT; Điều 8); **QĐ 3589/QĐ-UBND** 30/9/2026 bổ nhiệm PGĐ Phạm Năng Chung; mục lịch sử về 03 dự thảo 04/10/2026 đã ban hành.
+
 ## Căn cứ pháp lý gốc
 
-- **NĐ số 40/2025/NĐ-CP** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (tham chiếu cấp Bộ — khung phân ngành công nghiệp/thương mại/năng lượng/hóa chất-VLNCN mà cơ cấu Sở soi chiếu xuống). Dùng để đối chiếu khi xác định một lĩnh vực thuộc nhóm nào ở cấp tỉnh.
-- **QĐ số 05/2025/QĐ-UBND ngày 01/7/2025** của UBND tỉnh Lào Cai về CNNV, quyền hạn và cơ cấu tổ chức của SCT tỉnh Lào Cai (do Chủ tịch Trần Huy Tuấn ký). Thay thế QĐ 13/2025/QĐ-UBND (Yên Bái cũ) và QĐ 23/2025/QĐ-UBND (Lào Cai cũ).
+- **NĐ số 351/2026/NĐ-CP ngày 11/9/2026** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (Phó Thủ tướng Phạm Gia Túc ký; thay **NĐ 40/2025/NĐ-CP — lịch sử**). Điều 1 bổ sung lĩnh vực **than, địa chất, khoáng sản, dầu khí, khu công nghiệp** vào Bộ; khoản 11 Điều 2 nhiệm vụ địa chất và khoáng sản; khoản 12 khuyến công, khu công nghiệp, cụm công nghiệp. Dùng để đối chiếu một lĩnh vực thuộc nhóm nào ở cấp Bộ. Bản gốc: `van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` (+ `.txt`).
+- **TT số 37/2025/TT-BCT ngày 14/6/2025** hướng dẫn CNNV cơ quan chuyên môn về công thương cấp tỉnh, cấp xã, **được sửa đổi, bổ sung bởi TT số 50/2026/TT-BCT ngày 13/9/2026 (hiệu lực 15/9/2026)**: Sở Công Thương thêm lĩnh vực **điện, than, địa chất, khoáng sản, dầu khí**; điểm c khoản 2 Điều 4 "Về công nghiệp nặng, công nghiệp nhẹ"; điểm y khoản 2 Điều 4 "Về địa chất và khoáng sản"; Phòng Kinh tế cấp xã thêm khoản 20 Điều 6. **Không giao Sở Công Thương quản lý khu công nghiệp.** Điều 3 chuyển tiếp: Sở tiếp tục tham mưu QLNN về an toàn thực phẩm đến khi có quy định khác. Bản gốc: `van-ban-goc/2026.09.13-TT-50-2026-TT-BCT.pdf` (bản quét) + `.txt` (OCR).
+- **QĐ số 3628/QĐ-UBND ngày 02/10/2026** của UBND tỉnh Lào Cai (Chủ tịch Nguyễn Tuấn Anh ký; hiệu lực từ ngày ký) ban hành Quy định CNNV, quyền hạn và cơ cấu tổ chức của SCT tỉnh Lào Cai — **căn cứ chuẩn trong mọi văn bản của Sở từ 02/10/2026**, dùng thay **QĐ số 05/2025/QĐ-UBND ngày 01/7/2025 (Chủ tịch Trần Huy Tuấn ký; thay QĐ 13/2025/QĐ-UBND Yên Bái cũ và QĐ 23/2025/QĐ-UBND Lào Cai cũ) — lịch sử**. QĐ 3628 không có điều khoản bãi bỏ QĐ 05/2025 (ref 04); văn bản ký trước 02/10/2026 dẫn QĐ 05/2025 là đúng lịch sử, không sửa lại. Căn cứ của QĐ 3628: QĐ 3620/QĐ-UBND ngày 02/10/2026 (phê duyệt Đề án sắp xếp), TTr 6205/TTr-SCT ngày 02/10/2026. Tóm tắt từng điều: `references/04`. Bản gốc: `van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf` (3,9 MB — chỉ có trên GitHub) + `.txt` (OCR, luôn có trong gói claude.ai).
 - **QĐ số 59/QĐ-SCT ngày 01/7/2025** của Giám đốc SCT (Hoàng Chí Hiền ký) quy định CNNV, quyền hạn của Văn phòng và các phòng chuyên môn thuộc SCT.
 - **QĐ số 04/QĐ-SCT ngày 01/7/2025** của Giám đốc SCT ban hành Quy chế làm việc của Sở.
 - **Phân công nhiệm vụ Ban Giám đốc Sở** — hiện hành: **QĐ 6286/QĐ-SCT ngày 05/10/2026** của Giám đốc Sở (hiệu lực từ ngày ký), thay **QĐ 766/QĐ-SCT ngày 12/02/2026** (bản skill trước đây ghi theo Dự thảo Lần 4; trước nữa là QĐ 3488/QĐ-SCT ngày 31/12/2025 — lịch sử). ⚠️ **Đối chiếu sổ văn bản đi Data360X (10/10/2026): số 6286./QĐ-SCT ngày 05/10/2026 được ghi cho "Ban hành Quy chế làm việc của Sở", còn "Phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc" đăng ký số 6320/QĐ-SCT ngày 06/10/2026 (văn thư ghi "Đề nghị dùng bản này"). Nội dung phân công dưới đây giữ nguyên; khi phải viện dẫn SỐ quyết định phân công trong văn bản phát hành → hỏi Bạn hoặc tra bản gốc, không tự chọn — reference `03` mục A.**
-- **QĐ 3628/QĐ-UBND ngày 02/10/2026** của UBND tỉnh quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Sở (căn cứ của QĐ 6286; có **Phòng Quản lý Khoáng sản** mới). Skill chưa có bản gốc QĐ 3628 — mục "Cơ cấu tổ chức" dưới đây vẫn ghi theo QĐ 05/2025/QĐ-UBND; khi có bản gốc phải rà lại.
+- **QĐ số 3589/QĐ-UBND ngày 30/9/2026** của Chủ tịch UBND tỉnh (Nguyễn Tuấn Anh ký): điều động ông **Phạm Năng Chung**, Phó Giám đốc Sở Nông nghiệp và Môi trường, đến nhận công tác tại Sở Công Thương và **bổ nhiệm Phó Giám đốc Sở Công Thương, thời hạn 05 năm kể từ 01/10/2026** (văn bản nhân sự — không lưu bản gốc vào kho công khai; dữ kiện ở ref 04 mục A.4).
 - **Thông báo phân công nhiệm vụ cho cán bộ, công chức Phòng QLCN ngày 10/7/2026** của Trưởng phòng Nguyễn Hữu Long (thông báo nội bộ, **không có số văn bản** — khi trích dẫn ghi "Thông báo ngày 10/7/2026 của Trưởng phòng QLCN", không bịa số), hiệu lực từ 10/7/2026, thay bản phân công cũ — nguồn của mục "Cơ cấu nội bộ Phòng QLCN" dưới đây.
 
-## Cơ cấu tổ chức (theo QĐ 05/2025/QĐ-UBND, Điều 3)
+## Cơ cấu tổ chức (theo QĐ 3628/QĐ-UBND ngày 02/10/2026, Điều 3)
 
-**Lãnh đạo Sở**: Giám đốc + các Phó Giám đốc.
+**Lãnh đạo Sở** (khoản 1): Giám đốc + các Phó Giám đốc, số lượng PGĐ theo quy định của cấp có thẩm quyền; PGĐ không kiêm người đứng đầu đơn vị trực thuộc. Từ 01/10/2026: **01 GĐ + 06 PGĐ**.
 
-**5 phòng chuyên môn, nghiệp vụ**:
+**06 phòng chuyên môn, nghiệp vụ** (khoản 2 Điều 3 — thứ tự a–e như bản gốc; trước 02/10/2026 là 05 phòng theo QĐ 05/2025/QĐ-UBND, lịch sử):
 1. Văn phòng Sở
 2. Phòng Kế hoạch - Tổng hợp (KH-TH)
 3. Phòng Quản lý công nghiệp (QLCN)
-4. Phòng Quản lý thương mại (QLTM)
+4. **Phòng Quản lý khoáng sản (QLKS) — phòng mới**, tiếp nhận mảng địa chất, khoáng sản (từ Sở NN&MT), khoáng sản làm VLXD (từ Sở Xây dựng) và mảng công nghiệp khai thác mỏ, chế biến khoáng sản tách từ Phòng QLCN
 5. Phòng Quản lý năng lượng (QLNL)
+6. Phòng Quản lý thương mại (QLTM)
 
-**Từ 10/2026 có thêm Phòng Quản lý Khoáng sản** (tiếp nhận chức năng địa chất, khoáng sản theo NQ 66.25/2026/NQ-CP; PGĐ Thuân phụ trách theo QĐ 6286/QĐ-SCT ngày 05/10/2026). Cơ cấu đầy đủ theo **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Đề án sắp xếp được phê duyệt tại **QĐ 3620/QĐ-UBND ngày 02/10/2026**; bản gốc hai QĐ: bot Data360X lấy ở lượt quét sau). **Phòng đã vận hành từ đầu tháng 10/2026: Trưởng phòng Lưu Đức Cường; Phó Trưởng phòng Nguyễn Hồng Vân (điều động, bổ nhiệm tại QĐ 6231/QĐ-SCT ngày 02/10/2026); ký hiệu văn bản `/SCT-KS`; dòng `Lưu: VT, KS.`** — chi tiết và chuỗi 10 QĐ điều động công chức ngày 02/10/2026: reference `03`.
+**Phòng Quản lý Khoáng sản** vận hành từ 10/2026 (PGĐ Thuân phụ trách theo QĐ 6286/QĐ-SCT ngày 05/10/2026; Đề án sắp xếp được phê duyệt tại **QĐ 3620/QĐ-UBND ngày 02/10/2026** — số/ngày đọc từ phần căn cứ của QĐ 3628, chưa có bản gốc Đề án). **Phòng đã vận hành từ đầu tháng 10/2026: Trưởng phòng Lưu Đức Cường; Phó Trưởng phòng Nguyễn Hồng Vân (điều động, bổ nhiệm tại QĐ 6231/QĐ-SCT ngày 02/10/2026); ký hiệu văn bản `/SCT-KS`; dòng `Lưu: VT, KS.`** — chi tiết và chuỗi 10 QĐ điều động công chức ngày 02/10/2026: reference `03`.
 
 **01 tổ chức hành chính trực thuộc**: Chi cục Quản lý thị trường tỉnh (QLTT). Đây là tổ chức hành chính độc lập, KHÔNG phải phòng chuyên môn của Sở.
 
@@ -319,15 +325,17 @@ Không phải phòng chuyên môn của Sở mà là **tổ chức hành chính 
 - Các phòng chuyên môn, nghiệp vụ thuộc Chi cục.
 - Các Đội Quản lý thị trường trên địa bàn.
 
-CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cục do **UBND tỉnh ban hành quyết định riêng** (theo Điều 2 khoản 1 điểm c QĐ 05/2025/QĐ-UBND).
+CNNV, quyền hạn và cơ cấu tổ chức của **Chi cục QLTT do UBND tỉnh quyết định** (Sở dự thảo trình — điểm c khoản 1 Điều 2 QĐ 3628/QĐ-UBND); CNNV của **các phòng chuyên môn, đội QLTT thuộc Chi cục do Giám đốc Sở quy định** (khoản 12 Điều 2 QĐ 3628). Trước 02/10/2026 theo QĐ 05/2025/QĐ-UBND — lịch sử.
 
 ## Bảng routing nhanh — Việc nào, giao phòng nào
 
 | Vấn đề | Phòng chủ trì | Phòng phối hợp |
 |---|---|---|
 | Cụm công nghiệp (thành lập, mở rộng, điều chỉnh, lựa chọn chủ đầu tư hạ tầng) | QLCN | KH-TH (đầu tư), QLNL (cấp điện), QLTM (nếu có TM), Văn phòng (tổng hợp) |
-| Khu công nghiệp | (BQL KKT chủ trì, SCT phối hợp) | QLCN, QLNL, KH-TH |
-| Thẩm định CT công nghiệp (cơ khí, luyện kim, hóa chất, khoáng sản, chế biến) | QLCN | KH-TH (đầu tư) |
+| Khu công nghiệp — **không thuộc chức năng Sở** (QĐ 3628/QĐ-UBND, TT 50/2026/TT-BCT); Sở chỉ tham gia ý kiến quy hoạch phân khu, dự án đầu tư trong KCN, KKT theo đề nghị của Ban Quản lý Khu kinh tế (ý kiến hồ sơ KCN đã thấy đi ký hiệu `/SCT-KS` — ref 03 mục C) | (BQL KKT chủ trì) | QLCN (CV Trung theo dõi), QLKS, QLNL, KH-TH |
+| Địa chất, khoáng sản (cấp phép thăm dò, khai thác, tiền cấp quyền, đấu giá, đóng cửa mỏ, thiết kế mỏ, an toàn khai thác, chế biến khoáng sản, KS làm VLXD) | **Phòng QLKS** (từ 02/10/2026 theo QĐ 3628; TP Lưu Đức Cường, PTP Nguyễn Hồng Vân; ký hiệu `/SCT-KS`) | QLCN (VLNCN, an toàn ngành; hồ sơ đang dở trước bàn giao), QLNL (thủy điện), KH-TH |
+| Thẩm định CT công nghiệp (cơ khí, luyện kim, hóa chất, chế biến) | QLCN | KH-TH (đầu tư) |
+| Thẩm định thiết kế mỏ, dự án khai thác - chế biến khoáng sản | **Phòng QLKS** (trình PGĐ Thuân) | QLCN (VLNCN), KH-TH |
 | Thẩm định CT năng lượng (thủy điện, điện mặt trời, lưới điện) | QLNL | KH-TH |
 | Cấp GCN ATTP cơ sở SX-KD thực phẩm thuộc ngành CT | QLCN | Văn phòng (TTHC), KH-TH (báo cáo) |
 | Cấp GP sử dụng/SX/KD vật liệu nổ công nghiệp | QLCN | Văn phòng (TTHC) |
@@ -388,6 +396,9 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - ❌ Coi Chi cục QLTT là "phòng" của Sở — Chi cục là **tổ chức hành chính độc lập trực thuộc Sở**, có lãnh đạo - các phòng - các Đội QLTT riêng.
 - ❌ Ghi "Phòng Thanh tra Sở", "Phòng Tổ chức cán bộ" trong văn bản — các phòng này **không còn tồn tại** sau hợp nhất; mọi nhiệm vụ chuyển về Văn phòng Sở.
 - ❌ Trình **Tờ trình / kế hoạch / quy hoạch / chủ trương đầu tư** lên PGĐ ký KT.GĐ — các loại này phải trình **Giám đốc Hoàng Chí Hiền** (kể cả nội dung KCN/CCN).
+- ❌ Dẫn **QĐ 05/2025/QĐ-UBND** làm căn cứ chức năng Sở trong văn bản ký từ 02/10/2026 — phải dẫn **QĐ 3628/QĐ-UBND ngày 02/10/2026**; văn bản ký trước ngày đó giữ nguyên lịch sử (máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` của `check_facts.py`).
+- ❌ Ghi Sở có **05 phòng** hoặc BGĐ **05 PGĐ** trong văn bản từ 02/10/2026 — Sở có **06 phòng** (thêm Phòng Quản lý khoáng sản, khoản 2 Điều 3 QĐ 3628), BGĐ **01 GĐ + 06 PGĐ** (thêm Phạm Năng Chung từ 01/10/2026, QĐ 3589/QĐ-UBND).
+- ❌ Viết Sở Công Thương **quản lý nhà nước về khu công nghiệp** — **QĐ 3628/QĐ-UBND và TT 50/2026/TT-BCT không giao** Sở lĩnh vực KCN (Điều 1 Quy định chỉ có cụm công nghiệp). NQ 66.25/2026/NQ-CP chuyển KCN cấp Bộ về Bộ Công Thương (NĐ 351/2026 khoản 12 Điều 2) và để cấp tỉnh "theo QĐ phân công của UBND tỉnh" — UBND tỉnh đã phân công tại QĐ 3628 (văn bản mới hơn, 02/10/2026) mà không có KCN, nên mục NQ 66.25 dưới đây ghi theo QĐ 3628: KCN vẫn do Ban Quản lý Khu kinh tế quản lý, Sở chỉ tham gia ý kiến theo đề nghị của Ban.
 - ❌ Từ 05/10/2026 trình hồ sơ **hóa chất, VLNCN (GP sử dụng, kho, huấn luyện), tiền chất, PCTT** lên **PGĐ Hoàng Văn Thuân** — QĐ 6286/QĐ-SCT giao các lĩnh vực này cho **PGĐ Nguyễn Đình Chiến** (phụ trách Phòng QLCN); HHNH, PCCC cũng dự kiến PGĐ Chiến. Ngược lại khai thác, chế biến khoáng sản, luyện kim, thiết kế mỏ, CN môi trường, ATVSLĐ vẫn **PGĐ Thuân**; cấp phép, tiền cấp quyền, đấu giá, đóng cửa mỏ → **PGĐ Phạm Năng Chung**.
 - ❌ Dẫn "Dự thảo Lần 4" hay QĐ 766/QĐ-SCT (12/02/2026) là phân công BGĐ hiện hành — hiện hành là **QĐ 6286/QĐ-SCT ngày 05/10/2026** (GĐ + 6 PGĐ).
 - ❌ Coi PGĐ Thuân còn phụ trách Phòng QLCN — từ 05/10/2026 **PGĐ Chiến phụ trách Phòng QLCN**, PGĐ Thuân phụ trách **Phòng Quản lý Khoáng sản**; PGĐ Tưởng, PGĐ Chung chỉ đạo theo lĩnh vực (không ghi phòng riêng).
@@ -403,7 +414,7 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 | Nội dung | Trước 15/9/2026 | Từ 15/9/2026 |
 |---|---|---|
 | Tham mưu UBND tỉnh QLNN về địa chất, khoáng sản (Điều 8 NĐ 150/2025; Điều 25 NĐ 193/2025): quy hoạch, cấp phép thăm dò/khai thác, tiền cấp quyền, đấu giá, bảo vệ KS chưa khai thác, kiểm soát sản lượng, đóng cửa mỏ, dữ liệu, xử phạt | Sở NN&MT (khoáng sản VLXD: Sở Xây dựng) | **Sở Công Thương** (Điều 3 k2 NQ) |
-| QLNN về khu công nghiệp cấp Bộ; cơ quan chuyên môn cấp tỉnh về KCN | Bộ Tài chính; Sở Tài chính | **Bộ Công Thương**; Sở Công Thương theo QĐ phân công của UBND tỉnh (Điều 2; Điều 7 k5; TT 37/2025/TT-BCT sẽ sửa) |
+| QLNN về khu công nghiệp cấp Bộ; cơ quan chuyên môn cấp tỉnh về KCN | Bộ Tài chính; Sở Tài chính | **Bộ Công Thương** (NĐ 351/2026 Điều 1, khoản 12 Điều 2); cấp tỉnh: NQ 66.25 để "theo QĐ phân công của UBND tỉnh" (Điều 2; Điều 7 k5) — **TT 50/2026/TT-BCT (15/9/2026) và QĐ 3628/QĐ-UBND (02/10/2026) KHÔNG giao Sở Công Thương**; KCN vẫn do Ban Quản lý Khu kinh tế quản lý, Sở chỉ tham gia ý kiến (bản skill trước 18/10/2026 ghi "Sở Công Thương theo QĐ phân công" — lịch sử) |
 | Đất đai, thuê đất, GPMB, ĐTM, GPMT, ký quỹ phục hồi môi trường mỏ | Sở NN&MT | **Vẫn Sở NN&MT** |
 | Ban Quản lý Khu kinh tế tỉnh, Ban Quản lý các KCN tỉnh | Quản lý trực tiếp KCN, KKT | **Không đổi**; báo cáo thêm Bộ Công Thương |
 
@@ -412,7 +423,7 @@ CNNV, quyền hạn của Chi cục QLTT và các phòng/đội thuộc Chi cụ
 - Phòng chủ trì: mảng khoáng sản tiếp nhận → **Phòng Quản lý Khoáng sản** (mới, QĐ 3628/QĐ-UBND ngày 02/10/2026); đến khi bàn giao xong, Phòng QLCN (PTP Nguyễn Hồng Vân; CV Dũng, CV Nhung) vẫn xử lý việc đang dở; KCN: CV Trung (Phòng QLCN). Khối lượng cấp phép, tiền cấp quyền, hội đồng thẩm định tăng mạnh → tham mưu tiếp nhận **biên chế, nhân sự, dự toán chuyển theo nguyên trạng** (Điều 7 k3, k5c NQ).
 - Văn bản do Phòng QLCN soạn: `Lưu: VT, CN.`, ký hiệu SCT-CN. Văn bản do Phòng Quản lý Khoáng sản soạn: ký hiệu **`/SCT-KS`**, dòng **`Lưu: VT, KS.`** (quan sát 7 văn bản đi ngày 09/10/2026: 6416, 6417, 6419, 6420, 6452, 6473, 6481/SCT-KS — reference `03` mục C; kể cả việc KCN như ý kiến hồ sơ KCN Minh Quân mở rộng 6481/SCT-KS).
 
-**GATE hành văn (đến khi có Quyết định phân công của UBND tỉnh):** dùng cụm "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản (khu công nghiệp)"; dẫn NQ 66.25 làm căn cứ đề xuất SCT chủ trì; không viết "Sở Công Thương cấp giấy phép khai thác" (thẩm quyền cấp vẫn là Chủ tịch UBND tỉnh/Bộ Công Thương — Sở thẩm định, trình). Hồ sơ tiếp nhận từ SNNMT/SXD: chuyển nguyên trạng, không tính lại thời hạn, không yêu cầu nộp lại (Điều 4 NQ).
+**GATE hành văn:** từ 02/10/2026 đã có QĐ 3628/QĐ-UBND — viết thẳng "Sở Công Thương là cơ quan chuyên môn tham mưu UBND tỉnh quản lý nhà nước về địa chất, khoáng sản" (dẫn QĐ 3628 + TT 50/2026 + NQ 66.25); **không viết Sở quản lý khu công nghiệp**; cụm cũ "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản (khu công nghiệp)" chỉ đúng cho văn bản ký 15/9–01/10/2026 (lịch sử); không viết "Sở Công Thương cấp giấy phép khai thác" (thẩm quyền cấp vẫn là Chủ tịch UBND tỉnh/Bộ Công Thương — Sở thẩm định, trình). Hồ sơ tiếp nhận từ SNNMT/SXD: chuyển nguyên trạng, không tính lại thời hạn, không yêu cầu nộp lại (Điều 4 NQ).
 
 ## Công cụ số và dây chuyền dữ liệu của Phòng Quản lý công nghiệp (từ 9/2026)
 
@@ -447,4 +458,7 @@ Skill này là **nguồn chuẩn duy nhất (single source of truth)** về nhâ
 
 ## Văn bản gốc (`van-ban-goc/`)
 
+- `2026.09.11-ND-351-2026-ND-CP.pdf` + `.txt` — **NĐ 351/2026/NĐ-CP ngày 11/9/2026** CNNV, cơ cấu Bộ Công Thương (thay NĐ 40/2025 — lịch sử). Tóm tắt: ref 04 mục A.1.
+- `2026.09.13-TT-50-2026-TT-BCT.pdf` (bản quét) + `.txt` (OCR) — **TT 50/2026/TT-BCT ngày 13/9/2026** sửa TT 37/2025/TT-BCT, hiệu lực 15/9/2026. Bảng đối chiếu khoản ↔ điều: ref 04 mục A.2.
+- `2026.10.02-QD-3628-QD-UBND.pdf` (3,9 MB, chỉ có trên GitHub) + `.txt` (OCR, có trong gói claude.ai) — **QĐ 3628/QĐ-UBND ngày 02/10/2026** Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở (06 phòng). Tóm tắt từng điều: ref 04 mục A.3. Cả ba do Bạn cung cấp 04/10/2026, chuyển từ PR 115 ngày 18/10/2026.
 - `ND-303-2025-chuc-nang-nhiem-vu-co-cau-to-chuc-bo-co-quan-ngang-bo.docx` và `.pdf` — **Nghị định số 303/2025/NĐ-CP ngày 19/11/2025** của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ (Phó Thủ tướng Phạm Thị Thanh Trà ký; hiệu lực 20/11/2025; thay Nghị định 123/2016/NĐ-CP). Bạn gửi ngày 08/10/2026. **Không nhầm với Nghị định số 303/2026/NĐ-CP ngày 01/8/2026** sửa đổi Nghị định 32/2024/NĐ-CP về cụm công nghiệp (plugin `kccn-sct-vn` reference 24).

@@ -15,7 +15,7 @@ Tóm tắt để định hướng; **khi quyết định thẩm quyền một h�
 
 | Nhóm | CQCM về xây dựng | Căn cứ vận dụng thực tế |
 |---|---|---|
-| I | **Sở Công Thương** (Phòng QLCN — CV Dũng) | QĐ 05/2025/QĐ-UBND 01/7/2025 (chức năng SCT); Đ7 QĐ 11/2026 |
+| I | **Sở Công Thương** (Phòng QLCN — CV Dũng) | QĐ 3628/QĐ-UBND 02/10/2026 (chức năng SCT); Đ7 QĐ 11/2026 |
 | II | **Sở Xây dựng** | QĐ 09/2025/QĐ-UBND 01/7/2025 (chức năng SXD); tiền lệ: 2 CV từ chối đá hoa trắng Mông Sơn V và Làng Lạnh II (11-12/2025) |
 | III | **Sở Xây dựng** (giai đoạn trước 7/2025 tại Lào Cai cũ: Sở GTVT-XD — tiền lệ mỏ đá Sâu Chua 2019) | như trên |
 | IV | Không qua CQCM (phương án khai thác) | Luật 147/2025; NĐ 21/2026 |
@@ -40,7 +40,7 @@ Tóm tắt để định hướng; **khi quyết định thẩm quyền một h�
 
 Cấu trúc 4 lớp căn cứ, theo đúng thứ tự:
 1. NĐ 193/2025/NĐ-CP (phân nhóm) → "kể từ ngày 02/7/2025, khoáng sản [X] được Chính phủ quy định là khoáng sản nhóm [II/III]".
-2. QĐ 05/2025/QĐ-UBND (chức năng SCT) + QĐ 09/2025/QĐ-UBND (chức năng SXD) → "kể từ ngày 01/7/2025, thẩm quyền thẩm định [BCNCKT/thiết kế] đối với dự án khai thác [X] không thuộc thẩm quyền của Sở Công Thương, thuộc thẩm quyền của Sở Xây dựng tỉnh Lào Cai".
+2. Văn bản chức năng SCT (hồ sơ xử lý trước 02/10/2026: QĐ 05/2025/QĐ-UBND — lịch sử; từ 02/10/2026: QĐ 3628/QĐ-UBND ngày 02/10/2026) + QĐ 09/2025/QĐ-UBND (chức năng SXD) → "kể từ ngày 01/7/2025, thẩm quyền thẩm định [BCNCKT/thiết kế] đối với dự án khai thác [X] không thuộc thẩm quyền của Sở Công Thương, thuộc thẩm quyền của Sở Xây dựng tỉnh Lào Cai".
 3. Điều khoản từ chối của NĐ xây dựng áp dụng theo thời kỳ (Điều 19/Điều 47, 49 NĐ 175/2024 với hồ sơ trước 01/7/2026; điều tương ứng NĐ 217/2026 với hồ sơ sau).
 4. Kết: từ chối + trả hồ sơ + "đề nghị Công ty liên hệ với Sở Xây dựng tỉnh Lào Cai để được hướng dẫn, xem xét giải quyết theo đúng thẩm quyền" + nơi nhận đồng gửi SXD (để phối hợp) và Bộ phận Một cửa (để thực hiện).
 

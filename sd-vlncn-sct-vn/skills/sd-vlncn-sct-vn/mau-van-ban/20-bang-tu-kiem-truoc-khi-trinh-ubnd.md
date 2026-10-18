@@ -28,7 +28,7 @@
 | 9 | Kho + nghiệm thu PCCC (hoặc chấp thuận kết quả nghiệm thu, kho cố định) / HĐ thuê kho; GCN ANTT; nhân sự có GCN huấn luyện KTAT còn hiệu lực | | | |
 | 10 | Số liệu 3 khớp: dự thảo GP = PANM = thiết kế (chủng loại, tổng khối lượng, Qmax một đợt) | | | |
 | 11 | Thẩm quyền: không thuộc 2 ngoại lệ Cục KTAT&MTCN; thời hạn GP không vượt thời hạn GP khai thác / tiến độ công trình (k7 Đ39) | | | |
-| 12 | Thể thức đúng chủ thể: **GP sử dụng từ 20/8/2026** → "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI", Số /GP-SCT, con dấu Sở, căn cứ có QĐ 05/2025/QĐ-UBND + QĐ 2867/QĐ-UBND, Lưu: VT, CN. **PANM/thu hồi** → "Chủ tịch UBND tỉnh Lào Cai", ký KT. CHỦ TỊCH — PHÓ CHỦ TỊCH, nơi nhận có CVP, PCVP UBND tỉnh (Bích). Địa danh xã + tỉnh Lào Cai | | | |
+| 12 | Thể thức đúng chủ thể: **GP sử dụng từ 20/8/2026** → "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI", Số /GP-SCT, con dấu Sở, căn cứ có QĐ 3628/QĐ-UBND + QĐ 2867/QĐ-UBND, Lưu: VT, CN. **PANM/thu hồi** → "Chủ tịch UBND tỉnh Lào Cai", ký KT. CHỦ TỊCH — PHÓ CHỦ TỊCH, nơi nhận có CVP, PCVP UBND tỉnh (Bích). Địa danh xã + tỉnh Lào Cai | | | |
 
 **Kết luận của chuyên viên:** 【đủ điều kiện, đề nghị trình Giám đốc Sở ký Giấy phép】/【đủ điều kiện, đề nghị trình UBND tỉnh (PANM/thu hồi)】/【chưa đủ điều kiện, đề nghị ban hành văn bản trả lại hồ sơ】/【đề nghị ban hành văn bản liên ngành gửi 【Sở…】】
 

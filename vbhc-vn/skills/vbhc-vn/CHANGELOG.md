@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.33.0 — 18/10/2026 — CI render thật (QA_DIR), WIDOW/SIGSPLIT trong ô ký hạ WARN theo mẫu thật, 12 ngày hiệu lực từ bản gốc
+
+- Chi tiết: `CHANGELOG-v2026.10.18.md`.
+
 ## v2.32.0 — 17/10/2026 — Sửa SIGSPLIT báo nhầm phụ lục và bỏ sót khối ký gãy; cite_check tra sổ cái; build_vb thẻ chữ tím, Kính gửi không chấm
 
 - Chi tiết: `CHANGELOG-v2026.10.17-2.md`.

@@ -1,3 +1,10 @@
+## 18/10/2026 — Nâng cấp tiếp theo 8 đề xuất: ho-so-sct-vn 1.0.0, mau-dgrr-khuc-vlncn 1.0.0, vbhc-vn 2.33.0, ngày hiệu lực từ bản gốc, thống kê sổ lỗi
+
+- **ho-so-sct-vn 1.0.0** (mới): gói claude.ai của `trang-thai/` + script trạng thái hồ sơ; `scripts/build_ho_so_plugin.py` đồng bộ (ghi_nhat_ky.py tự gọi, CI `--check`); `trang_thai_lib.py` chạy được trong gói.
+- **mau-dgrr-khuc-vlncn 1.0.0** (mới): user skill Báo cáo đánh giá rủi ro / Kế hoạch ứng cứu khẩn cấp (TT 23/2024 Phụ lục VI, IX) đưa vào kho.
+- **vbhc-vn 2.33.0**: `qa_all.py` ghi PDF vào thư mục ghi được (`VBHC_QA_DIR`) → CI render thật, WIDOW/SIGSPLIT chạy trên GitHub; WIDOW và SIGSPLIT-trong-ô-ký hạ WARN theo mẫu thật.
+- `scripts/trich_hieu_luc.py`: điền ngày ban hành, hiệu lực còn trống trong `registry/trang-thai.csv` từ bản .txt gốc (12 dòng, ghi_chu "hiệu lực máy trích"); `scripts/thong_ke_so_loi.py`: đếm lỗi Bạn chỉ ra theo tuần từ sổ lỗi tự ghi.
+
 ## 17/10/2026 (đợt 2) — vbhc-vn 2.32.0: sửa các lỗi có từ trước phát hiện khi kiểm thử
 
 - **vbhc-vn 2.32.0** — `qa_pdf_check.check_sig_split` viết lại theo khối ký thật trong .docx: hết báo nhầm văn bản có phụ lục, bắt được khối ký gãy giữa "KT. GIÁM ĐỐC" và tên người ký; `tests/test_sigsplit.py`. `cite_check.py` tra thêm sổ cái văn bản gốc. `build_vb.py`: thẻ `[[…]]` → chữ tím; "Kính gửi" một nơi nhận không chấm cuối; nhắc phần còn là của mẫu.

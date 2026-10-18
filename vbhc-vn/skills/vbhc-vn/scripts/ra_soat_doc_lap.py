@@ -75,12 +75,13 @@ def _trang_pdf(pdf: Path) -> list[str]:
 
 
 def _render(docx: Path) -> Path | None:
-    qa = Path("/home/claude/work/qa") / (docx.stem + ".pdf")
+    from qa_all import QA_DIR, LO_PROFILE
+    qa = QA_DIR / (docx.stem + ".pdf")
     if qa.exists() and qa.stat().st_mtime >= docx.stat().st_mtime:
         return qa  # qa_all.py vừa render, dùng lại
     out = Path(tempfile.mkdtemp(prefix="rasoat-"))
     try:
-        subprocess.run(["soffice", "--headless", "-env:UserInstallation=file:///home/claude/.lo_profile",
+        subprocess.run(["soffice", "--headless", f"-env:UserInstallation={LO_PROFILE}",
                         "--convert-to", "pdf", "--outdir", str(out), str(docx)],
                        check=True, capture_output=True, timeout=180)
     except Exception:

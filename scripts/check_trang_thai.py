@@ -18,7 +18,7 @@ import sys
 
 sys.dont_write_bytecode = True  # nhập trang_thai_lib cạnh script: không sinh __pycache__ trong kho (CI chặn)
 
-from trang_thai_lib import DE_NHAT_KY, MUC, REPO, THU_MUC, HoSo, cac_tep, kiem_rieng_tu
+from trang_thai_lib import DE_NHAT_KY, MUC, REPO, THU_MUC, TRONG_GOI, HoSo, cac_tep, kiem_rieng_tu
 
 TOI_DA_NHAT_KY = 10
 
@@ -33,7 +33,7 @@ def kiem(p) -> list[str]:
     if not hs.plugins:
         loi.append("thiếu dòng 'Plugin liên quan:'")
     for pl in hs.plugins:
-        if not (REPO / pl / ".claude-plugin" / "plugin.json").exists():
+        if not TRONG_GOI and not (REPO / pl / ".claude-plugin" / "plugin.json").exists():
             loi.append(f"plugin không có trong kho: {pl}")
     thieu = [m for m in MUC if m not in hs.muc]
     if thieu:

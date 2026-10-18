@@ -41,7 +41,7 @@ SIGN_TITLES = [
 ]
 
 # Các dòng 1 từ hợp lệ, không tính widow (số trang, ký hiệu...)
-WIDOW_WHITELIST = re.compile(r"^(\d+|[IVXLC]+\.?|PHỤ|LỤC|-|–)$")
+WIDOW_WHITELIST = re.compile(r"^(\d+|[IVXLC]+\.?|PHỤ|LỤC|-|–|_{3,}|\.{3,})$")
 
 
 def render_pdf(docx_path: Path, outdir: Path) -> Path:
@@ -137,8 +137,10 @@ def check_sig_split(pages, docx_path: Path | None = None) -> list:
         if trang_ten is not None:
             trang_dau = max((i for i, pg in enumerate(gp[:trang_ten + 1]) if dau in pg), default=None)
             if trang_dau is not None and trang_dau != trang_ten:
-                return [f"khối ký gãy trang: '{dau}' ở trang {trang_dau + 1}, tên người ký '{ten}' ở trang "
-                        f"{trang_ten + 1}"]
+                # Cùng một ô bảng ký bị LibreOffice ngắt ngang: Word có thể ngắt khác (mẫu thật thong-bao-ket-luan-ubnd
+                # của VP UBND tỉnh đã ban hành vẫn vậy, 18/10/2026) → qa_all.py hạ WARN kèm cách chữa H13(e) cantSplit.
+                return [f"khối ký gãy trang trong cùng một ô bảng ký: '{dau}' ở trang {trang_dau + 1}, tên người ký "
+                        f"'{ten}' ở trang {trang_ten + 1} — thêm <w:cantSplit/> cho hàng bảng ký (H13) hoặc rút thân"]
             return []
     if docx_path is not None and not dong:
         # có file .docx mà không thấy khối ký (phụ biểu, biên bản ký nhiều bên) — soát tay, không đoán theo trang

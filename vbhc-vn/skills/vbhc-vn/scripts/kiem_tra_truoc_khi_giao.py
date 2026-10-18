@@ -39,7 +39,7 @@ import ra_soat_doc_lap  # noqa: E402
 from cite_check import quet as cite_quet  # noqa: E402
 from qa_rules import Ctx, _la_tthc, _o_noi_nhan, _tt  # noqa: E402
 
-QA_PDF_DIR = Path("/home/claude/work/qa")
+from qa_all import QA_DIR as QA_PDF_DIR  # noqa: E402
 HINH_THUC = ("1. Phông", "2. Nơi nhận", "3. Sau Kính gửi", "3. Trước khối ký", "7. Bảng")
 
 

@@ -27,8 +27,11 @@ import unicodedata
 from datetime import date
 from pathlib import Path
 
+# Chạy được ở hai bố cục: gốc kho skill-sct (scripts/ + trang-thai/) và gói plugin ho-so-sct-vn trên claude.ai
+# (skills/ho-so-sct-vn/scripts/ + skills/ho-so-sct-vn/trang-thai/, bản chép do scripts/build_ho_so_plugin.py đồng bộ).
 REPO = Path(__file__).resolve().parent.parent
 THU_MUC = REPO / "trang-thai"
+TRONG_GOI = not (REPO / ".claude-plugin").exists() and not any(REPO.glob("*/.claude-plugin/plugin.json"))
 BO_QUA = {"MAU.md", "README.md"}
 
 MUC = [

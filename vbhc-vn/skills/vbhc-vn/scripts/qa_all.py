@@ -22,7 +22,7 @@ Một lệnh duy nhất làm trọn:
 Cách dùng:
   python3 qa_all.py <file.docx> [--min-lines N] [--no-image] [--dpi 100]
 
-Ảnh ra tại: /home/claude/work/qa/qa_sheet.png (ảnh ghép) + qa-N.jpg (từng trang,
+Ảnh ra tại: <thư mục QA>/qa_sheet.png (mặc định /home/claude/work/qa; đặt VBHC_QA_DIR để đổi) (ảnh ghép) + qa-N.jpg (từng trang,
 chỉ soi riêng khi ảnh ghép phát hiện nghi vấn).
 Yêu cầu: soffice, pdftotext, pdftoppm, python-docx, Pillow (thiếu Pillow thì
 bỏ qua ảnh ghép, vẫn xuất ảnh từng trang).
@@ -53,8 +53,27 @@ from qa_pdf_check import (  # noqa: E402
     pdf_pages_text,
 )
 
-QA_DIR = Path("/home/claude/work/qa")
-LO_PROFILE = "file:///home/claude/.lo_profile"  # profile ấm: lần render sau nhanh hơn
+def _thu_muc_qa() -> Path:
+    """Thư mục ghi PDF/ảnh QA: biến môi trường VBHC_QA_DIR; không có thì /home/claude/work/qa (máy claude.ai);
+    không tạo được (máy CI, máy Bạn) thì <thư mục tạm hệ thống>/vbhc-qa. Sửa 18/10/2026: trước ghi cứng
+    /home/claude nên trên GitHub Actions render luôn thất bại im lặng (WARN RENDER) — WIDOW, SIGSPLIT chưa từng
+    chạy trên CI."""
+    import os, tempfile
+    for d in (os.environ.get("VBHC_QA_DIR"), "/home/claude/work/qa"):
+        if not d:
+            continue
+        try:
+            Path(d).mkdir(parents=True, exist_ok=True)
+            return Path(d)
+        except OSError:
+            pass
+    d = Path(tempfile.gettempdir()) / "vbhc-qa"
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+
+QA_DIR = _thu_muc_qa()
+LO_PROFILE = (QA_DIR.parent / ".lo_profile").as_uri()  # profile ấm: lần render sau nhanh hơn
 CM1_EMU_TWIPS = 567  # 1cm ≈ 567 twips (w:firstLine tính bằng twips)
 
 
@@ -371,11 +390,14 @@ def main():
     except Exception as e:
         warns.append(("RENDER", f"không render được PDF: {e}"))
     if pages_txt:
+        # WIDOW hạ WARN (18/10/2026): 6/26 mẫu thật đã ban hành có một từ cuối đoạn (số hiệu, "hiện./.") —
+        # mẫu thật là chuẩn; vẫn in để Claude cân nhắc rút gọn câu, không chặn.
         for msg in check_widow(pages_txt):
-            fails.append(("WIDOW", msg))
+            warns.append(("WIDOW", msg))
         for msg in check_sig_split(pages_txt, docx_path):
             # không tìm thấy chức danh ký (biên bản, phiếu trình có khối ký riêng) là việc soát tay, không phải lỗi
-            (warns if msg.startswith("không tìm thấy") else fails).append(("SIGSPLIT", msg))
+            la_warn = msg.startswith("không tìm thấy") or "cùng một ô bảng ký" in msg
+            (warns if la_warn else fails).append(("SIGSPLIT", msg))
     # SIGSPACE: (2) ô ký ≥3 dòng trống giữ FAIL (26/26 mẫu thật đạt); (1) đúng 1 dòng trống
     # trước bảng ký và (3) dòng Nơi nhận ≤45 ký tự hạ WARN — 13 mẫu thật có 0 hoặc 2 dòng
     # trống, dòng Nơi nhận dài tới 78 ký tự (hiệu chỉnh 17/9/2026, mẫu thật là chuẩn).

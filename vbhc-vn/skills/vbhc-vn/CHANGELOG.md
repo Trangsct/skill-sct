@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.34.0 — 18/10/2026 — Chuyển PR 116: Nhóm P (kế hoạch UBND tỉnh triển khai bài toán lớn), R24 "UBND" ở Nơi nhận/phụ lục, R25 Nơi nhận theo vị thế
+
+- Chi tiết: `CHANGELOG-v2026.10.18-2.md`. R24 thu hẹp phạm vi so với nhánh (thân viết đầy đủ theo checklist 17/10/2026; phần căn cứ chờ Bạn chốt).
+
 ## v2.33.0 — 18/10/2026 — CI render thật (QA_DIR), WIDOW/SIGSPLIT trong ô ký hạ WARN theo mẫu thật, 12 ngày hiệu lực từ bản gốc
 
 - Chi tiết: `CHANGELOG-v2026.10.18.md`.

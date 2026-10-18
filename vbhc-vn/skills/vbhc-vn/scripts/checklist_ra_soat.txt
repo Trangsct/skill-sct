@@ -25,7 +25,8 @@ A. HÌNH THỨC (máy sửa được — Claude tự sửa bằng script, chạy
 11. "Kính gửi" không đậm; Kính gửi một nơi nhận trên một dòng; Kính gửi ↔ Nơi nhận "Như trên" nhất quán. mắt Nhóm G, R04, R16
 
 B. NỘI DUNG (nêu cho Bạn gọn, kèm hướng xử lý Claude đã chọn)
-12. "Ủy ban nhân dân" viết đầy đủ trong thân văn bản, không viết tắt UBND.                            [5]  Nhóm G
+12. "Ủy ban nhân dân" viết đầy đủ trong thân văn bản, không viết tắt UBND; riêng khối Nơi nhận và
+    ô bảng phụ lục viết tắt "UBND" (R24). Phần căn cứ: chờ Bạn chốt phạm vi.                      [5]  Nhóm G, R24
 13. Mọi số văn bản viện dẫn đều có nguồn: số hiệu văn bản quy phạm khớp kho hoặc căn cứ Bạn gửi (R23);
     số, ngày khớp sổ đăng ký (cite_check.py); không điền số, ngày, điều khoản từ trí nhớ.             [16] Nhóm A, GATE 0
 14. Văn bản soạn cho doanh nghiệp, cơ quan khác: số văn bản để trống.                                 [9]  Bạn chốt 17/10/2026

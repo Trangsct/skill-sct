@@ -341,4 +341,26 @@ NGUON[p.name] = 'examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx'
 _dung_gate0(p)
 ghi_expect(p, ['R23 WARN'], 'Chèn vào thân câu viện dẫn Nghị định 74/2026/NĐ-CP, 08/2025/NĐ-CP (nguyên văn phiếu trình UBND) — chưa có tệp gốc trong kho.')
 
+# ── R24 (chuyển từ PR 116, 18/10/2026; Bạn chốt 04/10/2026): "Ủy ban nhân dân" viết đủ chữ ở Nơi nhận ──
+# Phạm vi R24 chỉ là khối Nơi nhận và bảng phụ lục (thân văn bản viết đầy đủ — checklist rà soát dòng 12).
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r24-uy-ban-nhan-dan-viet-du-chu-noi-nhan.docx')
+d = Document(str(p))
+alt = dau_tien(d, lambda t: re.match(r'^-\s*UBND tỉnh \(để b/c\);', t.strip()) is not None)
+if alt is None: sys.exit('R24: không tìm được dòng "- UBND tỉnh (để b/c);" trong Nơi nhận')
+dat_text(alt, '- Ủy ban nhân dân tỉnh (để b/c);')
+d.save(str(p))
+ghi_expect(p, ['R24 WARN'],
+           'Viết đủ chữ "Ủy ban nhân dân tỉnh" ở dòng đầu khối Nơi nhận — Nơi nhận phải viết tắt "UBND tỉnh" (Bạn chốt 04/10/2026).')
+
+# ── R25 (chuyển từ PR 116, 18/10/2026; Bạn chốt 04/10/2026): doanh nghiệp chung dòng với cơ quan nhà nước ──
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r25-doanh-nghiep-chung-dong-co-quan.docx')
+d = Document(str(p))
+alt = dau_tien(d, lambda t: t.strip().startswith('- Sở Xây dựng'))
+if alt is None: sys.exit('R25: không tìm được dòng Sở Xây dựng trong Nơi nhận')
+# Tên doanh nghiệp lấy nguyên từ khối Nơi nhận của chính mẫu thật.
+dat_text(alt, '- Sở Xây dựng; Công ty TNHH vật tư chuyên dùng xăng dầu An Khang;')
+d.save(str(p))
+ghi_expect(p, ['R25 FAIL'],
+           'Ghép doanh nghiệp vào cùng dòng "Sở Xây dựng" ở Nơi nhận — doanh nghiệp phải đứng riêng dòng, sau cơ quan nhà nước (Bạn chốt 04/10/2026).')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

@@ -62,7 +62,7 @@ d) Khi giao file báo một dòng: "Dàn ý theo mẫu [tên mẫu hoặc dàn �
 Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy SONG SONG, không nối tiếp:
 
 1. **Claude** chạy MỘT lệnh: `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua [--final]` — gộp `qa_all.py`
-   (R01–R23), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
+   (R01–R25), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
    trước khối ký, một dòng sau Kính gửi, bảng nền trắng căn giữa dọc, dòng Lưu bỏ tên chuyên viên) rồi kiểm lại.
 2. **Tác tử phụ chưa tham gia soạn** (công cụ Agent, chạy nền) nhận đúng lời giao sau, không kèm bối cảnh phiên:
 
@@ -94,7 +94,7 @@ Khi người dùng yêu cầu tạo/soạn **hoặc rà soát/sửa/chỉnh** c�
 
 Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `QĐ-SCT`, `GP-SCT`, `GCNATTP-SCTLC`.
 
-**Luôn áp dụng bảng "Phòng tránh 15 nhóm sai lầm tham mưu A–O" bên dưới** (đã hợp nhất từ `anti-error-sct-vn`) và mục "Đọc PDF văn bản đến" (hợp nhất từ `vbhc-pdf-reader-vn`). Đối chiếu nội dung chuyên môn với `kccn-sct-vn` / `hnh-sct-vn`.
+**Luôn áp dụng bảng "Phòng tránh 16 nhóm sai lầm tham mưu A–P" bên dưới** (đã hợp nhất từ `anti-error-sct-vn`) và mục "Đọc PDF văn bản đến" (hợp nhất từ `vbhc-pdf-reader-vn`). Đối chiếu nội dung chuyên môn với `kccn-sct-vn` / `hnh-sct-vn`.
 
 ## Định tuyến — soạn loại nào thì đọc file nào
 
@@ -105,7 +105,7 @@ Hoặc nhắc tới các ký hiệu: `SCT-CN`, `TTr-SCT`, `BC-SCT`, `KH-SCT`, `Q
 | Tờ trình | `examples/sct/to-trinh-vbqppl-tien-chat-thuoc-no.docx` | `to-trinh` | `reference/quy-tac-bat-bien.md` QT 6 (người ký) |
 | Báo cáo | `examples/sct/bao-cao-*.docx` | `bao-cao` | `reference/thu-vien-mau-that.md` |
 | Báo cáo định kỳ của Phòng | `examples/sct/bao-cao-thang-phong-qlcn.docx` | `bao-cao-phong` | `reference/bao-cao-dinh-ky-phong-qlcn.md` |
-| Kế hoạch | `examples/sct/ke-hoach-thuc-hien-de-an-08.docx` | `ke-hoach` | QT 24 (căn lề ô bảng phụ lục) |
+| Kế hoạch | `examples/sct/ke-hoach-thuc-hien-de-an-08.docx` | `ke-hoach` | QT 24 (căn lề ô bảng phụ lục); **Nhóm P** nếu là kế hoạch UBND tỉnh triển khai đề án, bài toán lớn; `reference/cong-thuc-thuc-chien.md` mục phụ lục bảng và khối ký |
 | Quyết định cá biệt | `templates/05-quyet-dinh.docx` | — (Chế độ A) | `reference/templates-chi-tiet.md` |
 | Giấy phép | `examples/sct/giay-phep-van-chuyen-hhnh.docx` | `giay-phep` | Nhóm G (thứ tự Nơi nhận gửi doanh nghiệp) |
 | GCN ATTP | `examples/sct/giay-chung-nhan-attp-winmart.docx` | — (Chế độ A) | `reference/templates-chi-tiet.md` |
@@ -152,7 +152,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
-| Chỉ bộ quy tắc R01–R23, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chỉ bộ quy tắc R01–R25, không render | `python3 scripts/qa_rules.py <file>.docx` |
 | Chuẩn hóa trước khi xuất: phông, Nơi nhận cỡ 11, 1 dòng trước khối ký (Quy tắc 11) | `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx [--tthc]` |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
 | Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
@@ -165,11 +165,11 @@ bản; ghi một mục vào `reference/so-loi-tu-ghi.md` (lỗi thể thức chu
 máy thì thêm quy tắc R theo `HUONG_DAN_CAP_NHAT.md`; tăng bản plugin; báo một dòng "Đã ghi lỗi này vào [plugin] bản [số]".
 Yêu cầu "chỉ lần này" không thành quy tắc — ghi vào tệp trạng thái hồ sơ.
 
-`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R23 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R25 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
-## Phòng tránh 15 nhóm sai lầm tham mưu A–O (luôn áp dụng)
+## Phòng tránh 16 nhóm sai lầm tham mưu A–P (luôn áp dụng)
 
 Áp dụng cho mọi việc soạn / rà soát / góp ý / tham mưu, không chỉ khi tạo .docx.
 **Chi tiết từng nhóm, vụ thật và checklist: `reference/phong-tranh-sai-lam.md`** — đọc file đó
@@ -183,7 +183,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **doanh nghiệp xếp gần cuối Nơi nhận, ngay trên dòng Lưu**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Nơi nhận xếp theo vị thế cơ quan nhà nước, doanh nghiệp đứng riêng dòng sau cùng (trên Văn phòng, Lưu)**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; "Ủy ban nhân dân" viết "UBND" ở Nơi nhận và bảng phụ lục, viết đầy đủ trong thân (phần căn cứ chờ Bạn chốt); biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22, R24, R25 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |
@@ -192,6 +192,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **M** Trạng thái hồ sơ vụ việc (17/9/2026) | Trước khi soạn văn bản gắn một vụ việc/cụm cụ thể phải xác định vụ việc đang ở **BƯỚC nào**, văn bản gần nhất số mấy; **đã có Quyết định thì không soạn văn bản của bước trước đó**; mẫu mượn được, trạng thái không mượn được; CCN/KCN chạy `kccn-sct-vn/scripts/trang_thai_cum.py` trước | — (loại N); `--forbid "để có cơ sở tham mưu"` |
 | **N** Định dạng ẩn trong file cơ quan khác gửi (17/9/2026) | File .docx của xã/doanh nghiệp gửi đến: `w:numPr` sinh "- -", `w:ind` lẫn lộn, `w:tab` đầu đoạn, đoạn trống thừa — trích xuất text KHÔNG thấy, chỉ lộ trên ảnh render. **Chạy `normalize_body.py --check` trước và `normalize_body.py` sau khi sửa**, rồi `fix_quoc_hieu.py`, rồi `qa_all.py` | `normalize_body.py` |
 | **O** Tên doanh nghiệp (20/9/2026) | Luôn viết **"Công ty TNHH" / "Công ty TNHH MTV"**, không viết "Công ty trách nhiệm hữu hạn" — kể cả khi giấy đăng ký doanh nghiệp, giấy đề nghị của DN hay văn bản cơ quan khác viết đủ chữ; nhất quán trong cả bộ hồ sơ | — (loại N) |
+| **P** Kế hoạch UBND tỉnh triển khai đề án, bài toán lớn (04/10/2026; chuyển từ PR 116 ngày 18/10/2026) | Bám đề bài nhưng **không nhắc tên văn bản cấp tỉnh cũ trong thân**, căn cứ rút gọn; **bỏ câu ghi chú làm việc** ("không đặt ra chỉ tiêu mới…", "không trùng lặp bài toán khác"); chỉ tiêu phụ thuộc doanh nghiệp, Trung ương ghi **phấn đấu** đồng bộ; việc ngoài thẩm quyền tỉnh là "đề xuất", tiêu chí là "định hướng"; không đặt điều kiện tự chặn mục tiêu; mục đích, yêu cầu 4 ý theo mẫu kế hoạch đã duyệt; thứ tự nội dung bám đề bài; giao đúng Ban Quản lý theo địa bàn | R14, R24, R25; còn lại loại N |
 
 ## Đọc PDF văn bản đến — trích metadata chính xác
 
@@ -222,7 +223,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
 | `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |
 | `quy-trinh-hai-che-do.md` | Chọn Chế độ A hay B; cú pháp `TemplateDoc`; quy trình unpack-sửa-pack; quy tắc tốc độ |
-| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 15 nhóm A–O, checklist, vụ thật |
+| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 16 nhóm A–P, checklist, vụ thật |
 | `thu-vien-mau-that.md` | Chọn mẫu thật cho Chế độ B — bảng mẫu ↔ loại VB ↔ người ký |
 | `templates-chi-tiet.md` | Chế độ A — cấu trúc paragraph/table từng template 01–09 |
 | `bao-cao-dinh-ky-phong-qlcn.md` | Báo cáo tháng/quý/9 tháng của Phòng, phụ biểu giao ban, bài phát biểu Trưởng phòng |
@@ -236,7 +237,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R23) · `cite_check.py` (đối chiếu số hiệu)
+Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R25) · `cite_check.py` (đối chiếu số hiệu)
 · `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
 · `extract_metadata.py` (đọc PDF) · `normalize_body.py` (định dạng ẩn, Nhóm N) · `fit_pages.py` (căn trang hợp đồng, Quy tắc 28) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 

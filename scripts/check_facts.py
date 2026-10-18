@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "ubnd-viet-tat-noi-nhan-trong-mau",
+        # Bạn chốt 04/10/2026 (PR 116, chuyển lên main 18/10/2026): khối Nơi nhận viết "UBND tỉnh (b/c)". Chỉ bắt dòng
+        # Nơi nhận nhận biết chắc chắn — dòng "- …" có "(b/c)"/"(để b/c)"; thân văn bản, Kính gửi viết đầy đủ
+        # "Ủy ban nhân dân" (checklist rà soát độc lập dòng 12, 17/10/2026) nên KHÔNG quét; phần căn cứ chờ Bạn chốt.
+        # Chỉ nhắc (WARN) vì mẫu lấy từ văn bản đã ban hành; văn bản mới phải sạch (vbhc-vn R24).
+        "pattern": r"^(?!.*lịch sử)\s*-\s*(?:Ủy|Uỷ) ban nhân dân tỉnh[^\n]{0,40}\((?:để )?b/c\)",
+        "why": "Khối Nơi nhận viết 'UBND tỉnh (b/c)' — chữ đầy đủ chỉ ở đầu trang, khối ký và thân văn bản (vbhc-vn R24, Nhóm P9).",
+        "since": "2026-10-04",
+        "level": "WARN",
         "id": "qd-1894-dia-ban-uu-dai-thay-boi-qd-2167",
         # QĐ 2167/QĐ-UBND ngày 23/6/2026 (công bố địa bàn ưu đãi đầu tư cấp xã, căn cứ NĐ 96/2026/NĐ-CP) thay thế
         # QĐ 1894/QĐ-UBND ngày 07/11/2025 (Điều 3). kccn-sct-vn ref 47 (chuyển từ PR 127 ngày 18/10/2026).

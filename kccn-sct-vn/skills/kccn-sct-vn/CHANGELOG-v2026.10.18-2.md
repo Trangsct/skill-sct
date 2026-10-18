@@ -1,0 +1,8 @@
+# CHANGELOG — kccn-sct-vn v1.53.0 (18/10/2026, đợt 2)
+
+Nguồn: phiên 16–18/10/2026 phục vụ Chương trình 130-CTr/TU ngày 16/10/2026 (Thường trực Tỉnh ủy kiểm tra 15 dự án KCN, CCN, khoáng sản; làm việc 19/10 tại phường Cam Đường, 21/10 tại trụ sở Tỉnh ủy).
+
+- **Ref 48 (mới)**: chương trình và việc giao Sở; yêu cầu 4 điểm a–d của Giám đốc; bộ 6 văn bản Sở đã dựng; hiện trạng 15 dự án đến 17/10/2026 với số đã dẫn nguồn (BQL KKT tháng 10, phường Cam Đường 17/10, phường Âu Lâu 17/10, Kim loại Thủ Đô tháng 10, CV nước theo VB 10150/UBND-XD); **quy tắc viết báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy** (giọng UBND tỉnh; c) "UBND tỉnh chỉ đạo"; d) chỉ việc của cấp ủy, HĐND, Trung ương; không mục III khi từng dự án đã có kiến nghị; CCN thành lập ghi QĐ, không ghi nghị quyết; PCT Phan Trung Bá ký); cách rà bài phát biểu của Chủ tịch và Bí thư (cộng lại số tổng, đủ ký hiệu văn bản, động từ đúng chủ thể, bài Bí thư không mạnh hơn cam kết của Chủ tịch, phát hiện câu bất lợi cho Sở "theo dõi hằng tuần"); lệch mốc khởi công Cam Đường, Bản Qua cần BQL KKT khẳng định bằng văn bản.
+- **Mẫu 09 (mới)** `mau-van-ban/09-bo-mau-bao-cao-ubnd-tinh-gui-thuong-truc-tinh-uy.md`: bố cục 5 văn bản của bộ.
+- `vi-du-thuc-te/2026-10-17-ctr130-thuong-truc-tinh-uy/`: 6 file .docx bản cuối (2 báo cáo UBND tỉnh, công văn trình, phiếu trình, báo cáo tiến độ 3 điểm thực địa, công văn gửi VP Tỉnh ủy). Bài phát biểu của lãnh đạo tỉnh do VP gửi không chép vào kho.
+- `SKILL.md`: định tuyến mục 2 thêm "báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy → mẫu 09, ref 48"; bảng reference thêm dòng ref 48; `plugin.json` → 1.53.0, description nêu ref 48 mới nhất.

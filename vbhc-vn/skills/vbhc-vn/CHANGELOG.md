@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.35.0 — 18/10/2026 — Nhóm Q: báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy (giọng chủ thể, phần kiến nghị, không mục III); sổ lỗi L004–L006; rà bài phát biểu lãnh đạo tỉnh
+
+- Chi tiết: `CHANGELOG-v2026.10.18-3.md`.
+
 ## v2.34.0 — 18/10/2026 — Chuyển PR 116: Nhóm P (kế hoạch UBND tỉnh triển khai bài toán lớn), R24 "UBND" ở Nơi nhận/phụ lục, R25 Nơi nhận theo vị thế
 
 - Chi tiết: `CHANGELOG-v2026.10.18-2.md`. R24 thu hẹp phạm vi so với nhánh (thân viết đầy đủ theo checklist 17/10/2026; phần căn cứ chờ Bạn chốt).

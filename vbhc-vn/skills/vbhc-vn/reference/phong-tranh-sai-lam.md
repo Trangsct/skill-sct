@@ -293,6 +293,21 @@ Câu tự nhủ bắt lỗi sớm:
 - *"Thêm câu 'không đặt ra chỉ tiêu mới' cho an toàn"* → sai, P2: đó là ghi chú làm việc. [P2]
 - *"Ghi 'ban hành bộ tiêu chí lựa chọn dự án' để có sản phẩm cứng"* → sai, P4: tỉnh không có thẩm quyền đặt điều kiện đầu tư. [P4]
 
+### Nhóm Q — Báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy do Sở dự thảo (Bạn chốt 17/10/2026 qua 4 vòng sửa — bộ báo cáo Chương trình 130-CTr/TU; mẫu thật `kccn-sct-vn/vi-du-thuc-te/2026-10-17-ctr130-thuong-truc-tinh-uy/`, quy tắc đầy đủ `kccn-sct-vn` ref 48 mục D)
+
+Áp dụng cho mọi báo cáo, tờ trình mà **UBND tỉnh là chủ thể ký** gửi Tỉnh ủy, Ban Thường vụ, Thường trực Tỉnh ủy, HĐND tỉnh (Sở chỉ dự thảo).
+
+- **Q1 Giọng chủ thể**: toàn bài là giọng UBND tỉnh. Cấm trong thân: "Sở X trình/tham mưu UBND tỉnh", "xã đề nghị Sở hỗ trợ", "Tiến độ đề xuất". Viết: "Ủy ban nhân dân tỉnh báo cáo Thường trực Tỉnh ủy…", "UBND tỉnh đang hoàn thiện để trình HĐND tỉnh (Tờ trình số … của Sở …)", "Sở X thẩm định để UBND tỉnh quyết định", "Tiến độ hoàn thành:".
+- **Q2 Hướng giải quyết = cam kết của UBND tỉnh**: việc thuộc thẩm quyền UBND tỉnh viết "Ủy ban nhân dân tỉnh chỉ đạo: Sở A …; UBND xã B …; chủ đầu tư …" — không đưa sang phần kiến nghị.
+- **Q3 Phần kiến nghị chỉ gồm việc UBND tỉnh không tự quyết được**: (i) Đảng ủy xã, phường lãnh đạo GPMB, dân vận, trật tự xây dựng; Mặt trận Tổ quốc, tổ chức chính trị - xã hội; Đảng ủy Công an tỉnh; (ii) "Đảng đoàn Hội đồng nhân dân tỉnh thống nhất chủ trương" (rừng, chủ trương đầu tư công, vốn); (iii) thống nhất chủ trương, quan điểm lớn (mở rộng cụm, tiếp nhận tài trợ, xử lý tồn tại kéo dài — giao Ban Nội chính theo dõi, chấm dứt dự án chậm, giám sát hằng quý); (iv) "Thường trực Tỉnh ủy có ý kiến với bộ, ngành Trung ương", "ủng hộ UBND tỉnh làm việc với Tập đoàn …". **Cấm "Đảng ủy UBND tỉnh chỉ đạo UBND tỉnh/Sở…"** trong phần kiến nghị (tự kiến nghị chỉ đạo chính mình — đây là kiểu "Sở kiến nghị tỉnh" lọt sang). Không mở đầu bằng "Chỉ đạo Đảng ủy…" khi nhãn đã là "Kiến nghị … chỉ đạo:".
+- **Q4 Không lặp kiến nghị**: từng dự án/vụ việc đã có điểm kiến nghị riêng thì **không lập mục "Đề xuất, kiến nghị" chung ở cuối**; công văn trình, phiếu trình mô tả bố cục phải sửa theo.
+- **Q5 Đánh giá chung 3 điểm**: kết quả (chủ ngữ UBND tỉnh đã …); tồn tại, nguyên nhân + câu nhận trách nhiệm trong chỉ đạo (đề xuất, lãnh đạo có thể cắt); cam kết thực hiện đúng mốc và báo cáo Thường trực Tỉnh ủy hằng tháng; nội dung chưa có số liệu → "UBND tỉnh đã giao … báo cáo bổ sung tại buổi làm việc" (không viết "do … báo cáo trực tiếp").
+- **Q6 Thể thức**: TM. ỦY BAN NHÂN DÂN / KT. CHỦ TỊCH / PHÓ CHỦ TỊCH + tên; Lưu: VT, <phòng VP>; Nơi nhận có Thường trực Tỉnh ủy (b/c), Văn phòng Tỉnh ủy; nguồn ngoài Sở dẫn trong ngoặc "(Báo cáo … ngày … của …)"; khối ký không đứng riêng trang cuối (chỉnh giãn dòng, không cắt nội dung bừa).
+- **Q7 Rà bài phát biểu của lãnh đạo tỉnh dùng cùng báo cáo** (Văn phòng gửi "rà xem có được không"): đối chiếu từng số, mốc với báo cáo; **tự cộng lại số tổng** (diện tích, vốn); số hiệu văn bản đủ ký hiệu; động từ đúng chủ thể (Sở không "khởi công"); **bài Bí thư không kết luận mạnh hơn mức Chủ tịch cam kết**; soi câu **bất lợi cho Sở** (giao Sở theo dõi/báo cáo hằng tuần, gắn đánh giá người đứng đầu → đề nghị xã, chủ đầu tư báo cáo về Ban/Sở, Sở tổng hợp hằng tháng); góp ý bôi tím trong file của Văn phòng, giữ nguyên định dạng, tên file "… - Sở Công Thương rà soát.docx"; không chép bài phát biểu của lãnh đạo tỉnh vào kho công khai.
+- **Q8 Cụm công nghiệp đã thành lập**: chỉ ghi "thành lập tại Quyết định số …/QĐ-UBND ngày …"; không ghi "thành lập theo Nghị quyết …" (Bạn chốt 17/10/2026, vụ Mông Sơn).
+
+Tự bắt lỗi: *"Đảng ủy UBND tỉnh chỉ đạo Sở…" trong phần kiến nghị* → DỪNG, chuyển việc đó lên điểm c) "UBND tỉnh chỉ đạo", phần d) chỉ giữ việc của cấp ủy/HĐND/Trung ương. [Q3] — *"Thêm mục III Đề xuất, kiến nghị cho đủ bố cục"* → từng dự án đã có kiến nghị thì bỏ. [Q4] — *"Tiến độ đề xuất:"* → "Tiến độ hoàn thành:". [Q1]
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]

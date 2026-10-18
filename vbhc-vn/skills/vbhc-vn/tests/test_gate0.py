@@ -32,7 +32,9 @@ NGUON = PLUGIN / "examples" / "sct" / "to-trinh-vbqppl-tien-chat-thuoc-no.docx"
 # Nguyên văn từ examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx (đoạn "Các ý kiến tham gia tập trung vào: …").
 CAU = ("Các ý kiến tham gia tập trung vào: cập nhật căn cứ pháp lý theo Nghị định số 74/2026/NĐ-CP "
        "(thay thế Nghị định số 08/2025/NĐ-CP).")
-CHUA_CO = ["74/2026/NĐ-CP", "08/2025/NĐ-CP"]
+# 18/10/2026: NĐ 74/2026/NĐ-CP đã có bản gốc trong kho → chỉ còn 08/2025/NĐ-CP chưa có nguồn
+CHUA_CO = ["08/2025/NĐ-CP"]
+DA_CO = ["181/2024/NĐ-CP", "74/2026/NĐ-CP"]
 
 
 def dung_file(dich: Path) -> Path:
@@ -73,21 +75,22 @@ def main() -> int:
     for so in CHUA_CO:
         if not any(so in g for g in goi_y):
             loi.append(f"1. R23 không cảnh báo số hiệu chưa có trong kho: {so}")
-    if any("181/2024/NĐ-CP" in g for g in goi_y):
-        loi.append("1. R23 cảnh báo nhầm 181/2024/NĐ-CP (đã có tệp gốc trong kho)")
+    for so in DA_CO:
+        if any(so in g for g in goi_y):
+            loi.append(f"1. R23 cảnh báo nhầm {so} (đã có tệp gốc trong kho)")
 
     f2 = dung_file(tam / "b" / "to-trinh-gate0.docx")
-    (f2.parent / "can-cu-phien.txt").write_text("74/2026/NĐ-CP\n", encoding="utf-8")
+    (f2.parent / "can-cu-phien.txt").write_text("08/2025/NĐ-CP\n", encoding="utf-8")
     goi_y = r23(f2)
-    if any("74/2026/NĐ-CP" in g for g in goi_y):
-        loi.append("2. can-cu-phien.txt có 74/2026/NĐ-CP mà R23 vẫn cảnh báo")
-    if not any("08/2025/NĐ-CP" in g for g in goi_y):
-        loi.append("2. R23 bỏ sót 08/2025/NĐ-CP khi chỉ có 74/2026/NĐ-CP trong danh sách phiên")
+    if any("08/2025/NĐ-CP" in g for g in goi_y):
+        loi.append("2. can-cu-phien.txt có 08/2025/NĐ-CP mà R23 vẫn cảnh báo")
+    if goi_y:
+        loi.append(f"2. còn cảnh báo ngoài dự kiến: {goi_y}")
 
     f3 = dung_file(tam / "c" / "to-trinh-gate0.docx")
     (f3.parent / "ke-hoach-soan.txt").write_text(
-        "c) Căn cứ:\n- Nghị định số 74/2026/NĐ-CP — chưa có nguồn - cần người dùng cung cấp\n", encoding="utf-8")
-    if not any("74/2026/NĐ-CP" in g for g in r23(f3)):
+        "c) Căn cứ:\n- Nghị định số 08/2025/NĐ-CP — chưa có nguồn - cần người dùng cung cấp\n", encoding="utf-8")
+    if not any("08/2025/NĐ-CP" in g for g in r23(f3)):
         loi.append("3. Căn cứ ghi 'chưa có nguồn' trong ke-hoach-soan.txt bị tính là có nguồn")
 
     if loi:

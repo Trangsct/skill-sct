@@ -1,5 +1,7 @@
 # Phụ lục I NĐ 30/2020 — Thể thức, kỹ thuật trình bày văn bản hành chính và bản sao
 
+> **Bản gốc toàn văn (nạp 18/10/2026):** `van-ban-goc/2020.03.05-30.2020.ND.CP-Cong-tac-van-thu.docx` (Word) + `.pdf` + `.txt` cùng tên — mở để trích nguyên văn điều, khoản.
+>
 > Nguồn: Phụ lục kèm theo Nghị định số 30/2020/NĐ-CP ngày 05/3/2020 của Chính phủ về công tác văn thư (văn bản gốc do người dùng cung cấp, đã chuyển sang markdown). Dùng làm CĂN CỨ GỐC khi cần tra chính xác cỡ chữ, kiểu chữ, vị trí ô, khoảng cách của từng thành phần thể thức; đối chiếu khi render soi ảnh.
 
 ## Mục lục

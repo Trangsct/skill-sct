@@ -6,7 +6,7 @@
     "R19": 3,
     "R20": 3,
     "R21": 1,
-    "R23": 7
+    "R23": 6
   },
   "examples/sct/bao-cao-ccn-gui-bct-ban-chuan-nguoi-dung.docx": {
     "R07": 1,
@@ -23,8 +23,7 @@
     "R08": 1,
     "R19": 3,
     "R20": 3,
-    "R21": 1,
-    "R23": 1
+    "R21": 1
   },
   "examples/sct/bao-cao-tinh-hinh-trien-khai-ccn.docx": {
     "R01": 1,
@@ -152,7 +151,7 @@
     "R01": 6,
     "R12": 1,
     "R19": 4,
-    "R23": 14
+    "R23": 13
   },
   "examples/ubnd/thong-bao-ket-luan-ubnd.docx": {
     "R12": 1,

@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.35.0 — 18/10/2026 — Bản gốc NĐ 30/2020 (Word) và NĐ 74/2026 vào van-ban-goc/
+
+- Chi tiết: `CHANGELOG-v2026.10.18-3.md`.
+
 ## v2.34.0 — 18/10/2026 — Chuyển PR 116: Nhóm P (kế hoạch UBND tỉnh triển khai bài toán lớn), R24 "UBND" ở Nơi nhận/phụ lục, R25 Nơi nhận theo vị thế
 
 - Chi tiết: `CHANGELOG-v2026.10.18-2.md`. R24 thu hẹp phạm vi so với nhánh (thân viết đầy đủ theo checklist 17/10/2026; phần căn cứ chờ Bạn chốt).

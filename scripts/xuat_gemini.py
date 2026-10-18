@@ -20,11 +20,11 @@ GOC = pathlib.Path(__file__).resolve().parent.parent
 
 NHOM = {
     "1-VLNCN": ("Vật liệu nổ công nghiệp",
-                ["sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn", "xp-hc-vlncn-sct-vn"]),
+                ["sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn", "xp-hc-vlncn-sct-vn", "mau-dgrr-khuc-vlncn"]),
     "2-HOA-CHAT-HHNH-PCCC": ("Hóa chất, hàng hóa nguy hiểm, PCCC, an toàn lao động",
                              ["hc-sct-vn", "hnh-sct-vn", "pccc-sct-vn", "atvsld-sct-vn"]),
     "3-KCN-CCN-QUY-HOACH": ("Khu, cụm công nghiệp, quy hoạch, đất đai, dự án công nghiệp",
-                            ["kccn-sct-vn", "quy-hoach-ct-vn", "dat-dai-sct-vn", "dacn-sct-vn"]),
+                            ["kccn-sct-vn", "quy-hoach-ct-vn", "dat-dai-sct-vn", "dacn-sct-vn", "ho-so-sct-vn"]),
     "4-KHOANG-SAN-MOI-TRUONG-XAY-DUNG": ("Khoáng sản, thiết kế mỏ, môi trường, xây dựng",
                                           ["qlks-sct-vn", "tkm-sct-vn", "bvmt-sct-vn", "xd-sct-vn"]),
     "5-VAN-BAN-TO-CHUC-XU-PHAT": ("Soạn văn bản hành chính, tổ chức Sở, xử phạt, bài phát biểu, ATTP",
@@ -33,7 +33,7 @@ NHOM = {
 }
 # Không xuất: data360x-sct-vn (chỉ điều khiển bot trên GitHub); skcn-vn (sức khỏe cá nhân — Bạn chốt 13/10/2026 bỏ).
 KHONG_XUAT = {"data360x-sct-vn", "skcn-vn"}
-# Đối chiếu 18/10/2026: 24 plugin trên main = 22 trong NHOM + 2 trong KHONG_XUAT.
+# Đối chiếu 18/10/2026: 26 plugin trên main = 24 trong NHOM + 2 trong KHONG_XUAT.
 
 
 def kiem_danh_sach():

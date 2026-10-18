@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 333 văn bản gốc (333 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 336 văn bản gốc (336 có bản .txt) ở 19 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -15,10 +15,13 @@ Thống kê: 333 văn bản gốc (333 có bản .txt) ở 19 plugin; 30 văn b�
 |---|---|---|---|---|---|
 | 10349/UBND-KT | 09/10/2026 | Tang cuong theo doi nam bat SXKD doanh nghiep | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-10349.UBND.KT-Tang-cuong-theo-doi-nam-bat-SXKD-doanh-nghiep.pdf` | có (OCR) |
 | 8280788124/GCNDKDT | 09/10/2026 | Dieu chinh lan 5 Bao Bi thung phuy KCN Tang Loong | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-8280788124.GCNDKDT-Dieu-chinh-lan-5-Bao-Bi-thung-phuy-KCN-Tang-Loong.pdf` | có |
+| 3628/QĐ-UBND | 02/10/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf` | có (OCR) |
 | 63/2026/TT-BCT | 30/09/2026 | Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2026.09.30 63.2026.TT.BCT Thông tư quy định về cơ sở dữ liệu thực phẩm thuộc phạm vi quản lý của Bộ Công Thương.docx` | có |
 | 3556/QĐ-UBND | 30/09/2026 | ban hanh Quy che du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/QD-3556-QD-UBND-30-9-2026-ban-hanh-Quy-che-du-lieu-TNMT.pdf` | có |
 | — | 30/09/2026 | Quy che kem QD 3556 QD UBND 30 9 2026 du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/Quy-che-kem-QD-3556-QD-UBND-30-9-2026-du-lieu-TNMT.pdf` | có |
 | 9387/UBND-KT | 15/09/2026 | UBND tinh trien khai CTr 104 giao So NNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/CV-9387-UBND-KT-15-9-2026-UBND-tinh-trien-khai-CTr-104-giao-So-NNMT.pdf` | có |
+| 50/2026/TT-BCT | 13/09/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.09.13-TT-50-2026-TT-BCT.pdf` | có (OCR) |
+| 351/2026/NĐ-CP | 11/09/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` | có |
 | 257/QĐ-BQLCKCN | 10/09/2026 | dieu chinh CTDT lan 3 Mundus TEXT | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-257-QD-BQLCKCN-10-9-2026-dieu-chinh-CTDT-lan-3-Mundus-TEXT.txt` | có |
 | 347/2026/NĐ-CP | 08/09/2026 | sua doi ND 105 2025 | pccc-sct-vn | `pccc-sct-vn/skills/pccc-sct-vn/van-ban-goc/ND-347-2026-ND-CP-08-9-2026-sua-doi-ND-105-2025.docx` | có |
 | 347/2026/NĐ-CP | 08/09/2026 | sua doi ND 105 2025 | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-347-2026-ND-CP-08-9-2026-sua-doi-ND-105-2025.docx` | có |
@@ -403,7 +406,7 @@ Thống kê: 333 văn bản gốc (333 có bản .txt) ở 19 plugin; 30 văn b�
 - 71/2019/NĐ-CP — hc-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn
 - 78/VBHN-VPQH — hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn
 
-## Tệp đặt tên chưa theo quy ước YYYY.MM.DD-SỐ.KÝ.HIỆU-Tên: 287
+## Tệp đặt tên chưa theo quy ước YYYY.MM.DD-SỐ.KÝ.HIỆU-Tên: 290
 
 Số hiệu, ngày của các tệp này đọc từ phần đầu bản .txt hoặc đoán từ tên tệp — đối chiếu bản gốc trước khi trích dẫn số/ngày.
 

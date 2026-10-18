@@ -240,6 +240,10 @@ def main() -> int:
     ghi(hs, a)
     hs.luu()
     print(f"Đã ghi nhật ký {a.ngay} vào {p.relative_to(THU_MUC.parent)}")
+    dong_bo = Path(__file__).resolve().parent / "build_ho_so_plugin.py"
+    if dong_bo.exists():  # ở gốc kho: đồng bộ bản chép vào plugin ho-so-sct-vn (gói claude.ai)
+        import subprocess
+        subprocess.run([sys.executable, str(dong_bo)], check=False)
     return 0
 
 

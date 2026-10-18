@@ -60,7 +60,10 @@ def tags_qa_all(f: Path, goc: Path | None = None) -> list[str]:
     if goc is not None:
         lenh += ["--goc", str(goc)]
     r = subprocess.run(lenh, capture_output=True, text=True, timeout=300)
-    return sorted({m.group(1) for m in (TAG_FAIL.match(ln) for ln in r.stdout.splitlines()) if m})
+    tags = {m.group(1) for m in (TAG_FAIL.match(ln) for ln in r.stdout.splitlines()) if m}
+    if any(ln.startswith("[WARN RENDER]") for ln in r.stdout.splitlines()):
+        tags.add("RENDER")  # không render được PDF thì WIDOW/SIGSPLIT không chạy — coi là đỏ (18/10/2026)
+    return sorted(tags)
 
 
 def ma_muc(ds) -> set[str]:

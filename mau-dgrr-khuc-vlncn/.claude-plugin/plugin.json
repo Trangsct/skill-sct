@@ -1,0 +1,16 @@
+{
+  "name": "mau-dgrr-khuc-vlncn",
+  "version": "1.0.0",
+  "description": "Mẫu Báo cáo đánh giá nguy cơ rủi ro về an toàn (Phụ lục VI) và Kế hoạch ứng cứu khẩn cấp (Phụ lục IX) theo TT 23/2024/TT-BCT về VLNCN, soạn cho doanh nghiệp đề nghị cấp GP sử dụng VLNCN tại Sở Công Thương Lào Cai. Dàn ý đúng 8/11 mục, ma trận rủi ro 5x5, 10 tình huống khẩn cấp, thể thức bìa, khối ký, 4 phụ lục, yêu cầu QCVN 01:2019/BCT, kiểm tra trước khi giao. Bản chốt 06/10/2026, đưa vào kho 18/10/2026.",
+  "author": {
+    "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
+  },
+  "keywords": [
+    "danh-gia-rui-ro",
+    "ung-cuu-khan-cap",
+    "phu-luc-vi",
+    "phu-luc-ix",
+    "tt-23-2024",
+    "vlncn"
+  ]
+}

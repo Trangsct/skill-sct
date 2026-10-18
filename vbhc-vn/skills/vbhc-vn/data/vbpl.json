@@ -60,7 +60,9 @@
       "ghi_chu": "Sửa Luật XLVPHC; bản gốc xp-sct-vn/van-ban-goc/chung; đối chiếu ref 10"
     },
     "NQ 15/2026/NQ-CP": {
-      "ghi_chu": "Tạm ngưng NĐ 46/2026 (ATTP)"
+      "ngay_ban_hanh": "2026-04-06",
+      "ngay_hieu_luc": "2026-04-06",
+      "ghi_chu": "Tạm ngưng NĐ 46/2026 (ATTP); hiệu lực máy trích từ 2026.04.06 15.2026.NQ.CP Nghị quyết tạm ngưng NĐ 46.2026 và NQ 66.13.2026.txt"
     },
     "NQ 169/NQ-CP": {
       "ngay_ban_hanh": "2026-06-27",
@@ -110,7 +112,9 @@
       "ghi_chu": "Chi tiết Luật PCCC 55/2024; kiểm tra định kỳ Phụ lục II; NĐ 347/2026 bãi bỏ k5 Đ6, Đ10 (kiểm tra nghiệm thu PCCC), thay Phụ lục III, IV — đối chiếu bản gốc 24/9/2026"
     },
     "NĐ 106/2025": {
-      "ghi_chu": "Xử phạt PCCC"
+      "ngay_ban_hanh": "2025-05-15",
+      "ngay_hieu_luc": "2025-07-01",
+      "ghi_chu": "Xử phạt PCCC; hiệu lực máy trích từ ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.txt"
     },
     "NĐ 118/2021": {
       "ngay_ban_hanh": "2021-12-23",
@@ -119,10 +123,14 @@
       "ghi_chu": "Chi tiết Luật XLVPHC; bản gốc + 72 biểu mẫu tại xp-sct-vn/van-ban-goc/chung — CHƯA hợp nhất 68/190 (chưa có bản gốc 2 NĐ này)"
     },
     "NĐ 133/2026": {
-      "ghi_chu": "Xử phạt điện lực — QLNL"
+      "ngay_ban_hanh": "2026-04-06",
+      "ngay_hieu_luc": "2026-05-25",
+      "ghi_chu": "Xử phạt điện lực — QLNL; hiệu lực máy trích từ ND-133-2026-NDCP-xu-phat-dien-luc.txt"
     },
     "NĐ 146/2025": {
-      "ghi_chu": "Sửa NĐ 181/2024 (phân cấp, phân quyền); Đ24; k5 Đ37 ATTP"
+      "ngay_ban_hanh": "2025-06-12",
+      "ngay_hieu_luc": "2025-07-01",
+      "ghi_chu": "Sửa NĐ 181/2024 (phân cấp, phân quyền); Đ24; k5 Đ37 ATTP; hiệu lực máy trích từ ND-146-2025-phan-quyen-phan-cap.txt"
     },
     "NĐ 150/2025": {
       "ngay_ban_hanh": "2025-06-12",
@@ -136,13 +144,19 @@
       "ghi_chu": "Phân định thẩm quyền đất đai; Điều 5 và Phụ lục II (trừ mẫu 14, 14a-14đ, 28-43) hết hiệu lực từ 31/01/2026"
     },
     "NĐ 16/2022": {
-      "ghi_chu": "Xử phạt xây dựng — kiểm tra khi có nghị định mới"
+      "ngay_ban_hanh": "2022-01-28",
+      "ngay_hieu_luc": "2022-01-28",
+      "ghi_chu": "Xử phạt xây dựng — kiểm tra khi có nghị định mới; hiệu lực máy trích từ ND-16-2022-NDCP-xu-phat-xay-dung.txt"
     },
     "NĐ 161/2024": {
-      "ghi_chu": "Danh mục HHNH, vận chuyển HHNH — hnh-sct-vn"
+      "ngay_ban_hanh": "2024-12-18",
+      "ngay_hieu_luc": "2025-01-01",
+      "ghi_chu": "Danh mục HHNH, vận chuyển HHNH — hnh-sct-vn; hiệu lực máy trích từ ND-161-2024-HHNH-text.txt"
     },
     "NĐ 168/2024": {
-      "ghi_chu": "Xử phạt giao thông đường bộ (vận chuyển HHNH)"
+      "ngay_ban_hanh": "2024-12-26",
+      "ngay_hieu_luc": "2025-01-01",
+      "ghi_chu": "Xử phạt giao thông đường bộ (vận chuyển HHNH); hiệu lực máy trích từ ND-168-2024-NDCP-xu-phat-TTATGT-duong-bo.txt"
     },
     "NĐ 17/2022": {
       "ngay_ban_hanh": "2022-01-31",
@@ -171,7 +185,8 @@
     },
     "NĐ 217/2025": {
       "ngay_ban_hanh": "2025-08-05",
-      "ghi_chu": "Kiểm tra chuyên ngành; TT 56/2025/TT-BCT hướng dẫn"
+      "ngay_hieu_luc": "2025-08-05",
+      "ghi_chu": "Kiểm tra chuyên ngành; TT 56/2025/TT-BCT hướng dẫn; hiệu lực máy trích từ ND-217-2025-kiem-tra-chuyen-nganh.txt"
     },
     "NĐ 217/2026": {
       "ngay_hieu_luc": "2026-07-01",
@@ -185,7 +200,9 @@
       "ghi_chu": "Sửa các nghị định chi tiết Luật Đất đai"
     },
     "NĐ 24/2025": {
-      "ghi_chu": "Sửa NĐ 98/2020 (Đ78, 81–88 biện pháp khắc phục)"
+      "ngay_ban_hanh": "2025-02-21",
+      "ngay_hieu_luc": "2025-02-21",
+      "ghi_chu": "Sửa NĐ 98/2020 (Đ78, 81–88 biện pháp khắc phục); hiệu lực máy trích từ ND-24-2025-NDCP-sua-doi-ND-98-2020.txt"
     },
     "NĐ 275/2026": {
       "ngay_hieu_luc": "2026-08-25",
@@ -262,9 +279,11 @@
       "ghi_chu": "Tiền sử dụng đất, tiền thuê đất theo NQ 254/2025/QH15"
     },
     "NĐ 71/2019": {
+      "ngay_ban_hanh": "2019-08-30",
+      "ngay_hieu_luc": "2019-10-15",
       "bi_sua_doi_boi": "NĐ 17/2022 (Điều 1)",
       "bi_thay_the_boi": "NĐ 275/2026 (25/8/2026)",
-      "ghi_chu": "Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026"
+      "ghi_chu": "Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026; hiệu lực máy trích từ ND-71-2019-xu-phat-VPHC-hoachat-VLNCN.txt"
     },
     "NĐ 71/2024": {
       "ngay_ban_hanh": "2024-06-27",
@@ -367,7 +386,8 @@
     },
     "QĐ 2848/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-14",
-      "ghi_chu": "Sửa QĐ 1696 — mở rộng uỷ quyền cấp GP vận chuyển HHNH (7 loại, GĐ Sở ký)"
+      "ngay_hieu_luc": "2026-08-14",
+      "ghi_chu": "Sửa QĐ 1696 — mở rộng uỷ quyền cấp GP vận chuyển HHNH (7 loại, GĐ Sở ký); hiệu lực máy trích từ QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.txt"
     },
     "QĐ 2867/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-17",
@@ -782,7 +802,8 @@
     },
     "TT 56/2025": {
       "ngay_ban_hanh": "2025-11-28",
-      "ghi_chu": "TT-BCT hướng dẫn kiểm tra chuyên ngành NĐ 217/2025 — 10 mẫu"
+      "ngay_hieu_luc": "2025-11-28",
+      "ghi_chu": "TT-BCT hướng dẫn kiểm tra chuyên ngành NĐ 217/2025 — 10 mẫu; hiệu lực máy trích từ TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.txt"
     },
     "TT 63/2026": {
       "ngay_ban_hanh": "2026-09-30",

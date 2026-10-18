@@ -141,8 +141,11 @@ Quyết định của Bạn · Yêu cầu riêng một lần · Nhật ký phiê
 - Kho CÔNG KHAI: trong tệp trạng thái chỉ ghi tên công ty và số giấy phép nhà nước cấp; KHÔNG số điện thoại, tài khoản,
   người đại diện, thông tin đăng ký doanh nghiệp, sức khỏe, đời tư. `scripts/check_trang_thai.py` (chạy kèm
   `check_descriptions.py` → CI đỏ) kiểm đủ mục, nhật ký cuối có ngày, không quá 10 mục nhật ký, không lộ các mẫu trên.
-- `trang-thai/` và `scripts/` ở gốc kho KHÔNG vào gói claude.ai; phiên claude.ai không đọc được tệp thì làm theo yêu cầu và
-  cuối phiên đưa đoạn nhật ký (mục "Kết thúc phiên") để Bạn dán.
+- Gói claude.ai: plugin **`ho-so-sct-vn`** (từ 18/10/2026) mang bản chép `trang-thai/` + 5 script, máy sinh bởi
+  `python3 scripts/build_ho_so_plugin.py` (ghi_nhat_ky.py tự gọi; `--check` chạy kèm check_descriptions.py → CI đỏ khi lệch).
+  Không sửa tay bản chép; phiên claude.ai ghi nhật ký bằng `--tam` rồi đưa Bạn dán (mục "Kết thúc phiên").
+- Ngày hiệu lực trống trong `registry/trang-thai.csv`: `python3 scripts/trich_hieu_luc.py --ghi` điền từ bản .txt gốc trong
+  kho (ghi_chu "hiệu lực máy trích"); `python3 scripts/thong_ke_so_loi.py` đếm lỗi Bạn chỉ ra theo tuần từ sổ lỗi tự ghi.
 
 ## Kết thúc phiên — nhật ký tự động (Bạn chốt 17/10/2026)
 

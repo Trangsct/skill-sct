@@ -25,7 +25,7 @@ về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thu
 của Bộ Công Thương và Thông tư số 38/2025/TT-BCT ngày 19/6/2025 của Bộ trưởng Bộ Công
 Thương về việc sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính
 trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai về việc Ban
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai về việc Ban
 hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh
 Lào Cai;
 Căn cứ Quyết định số 1883/QĐ-UBND ngày 06/11/2025 của UBND tỉnh Lào Cai về việc Ủy quyền

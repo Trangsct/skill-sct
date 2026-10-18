@@ -13,7 +13,7 @@ Căn cứ Luật số 42/2024/QH15 ngày 29/6/2024 về Quản lý, sử dụng 
 Căn cứ Nghị định số 181/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ; Nghị định số 146/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực công nghiệp và thương mại;
 Căn cứ Thông tư số 23/2024/TT-BCT ngày 07/11/2024 của Bộ trưởng Bộ Công Thương quy định về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Công Thương và Thông tư số 38/2025/TT-BCT ngày 19/6/2025 về việc sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương;
 Căn cứ Quy chuẩn kỹ thuật quốc gia QCVN 01:2019/BCT;
-Căn cứ Quyết định số 05/2025/QĐ-UBND ngày 01/7/2025 của UBND tỉnh Lào Cai.
+Căn cứ Quyết định số 3628/QĐ-UBND ngày 02/10/2026 của UBND tỉnh Lào Cai.
 
 Thực hiện {Phiếu chuyển số …/PC-VPUBND ngày … của Văn phòng UBND tỉnh} về giải quyết đề nghị của {Công ty} tại {Tờ trình số … ngày …} về việc đề nghị phê duyệt Phương án nổ mìn phục vụ thi công {công trình …, xã …, tỉnh Lào Cai} ({các hạng mục: …}) (có Phương án nổ mìn kèm theo). Sau khi nghiên cứu, Sở Công Thương báo cáo UBND tỉnh cụ thể như sau:
 

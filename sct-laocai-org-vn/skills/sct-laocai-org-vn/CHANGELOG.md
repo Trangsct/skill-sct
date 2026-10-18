@@ -1,5 +1,10 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## 2.9.0 — 18/10/2026 — Chuyển từ PR 115/112: bản gốc NĐ 351/2026, TT 50/2026, QĐ 3628/QĐ-UBND; ref 04; cơ cấu 06 phòng; QĐ 05/2025 → lịch sử
+
+- `van-ban-goc/`: NĐ 351/2026/NĐ-CP, TT 50/2026/TT-BCT (OCR), QĐ 3628/QĐ-UBND (OCR; PDF 3,9 MB chỉ có trên GitHub) + bản `.txt`. `references/04-qd-3628-chuc-nang-co-cau-so-2026.md` tóm lược từng điều, bảng đối chiếu TT 50 ↔ TT 37. SKILL.md: cơ cấu 06 phòng theo Điều 3 QĐ 3628, routing khoáng sản → Phòng QLKS, KCN không thuộc chức năng Sở (QĐ 3628/TT 50), NĐ 40/2025 → lịch sử, 3 dòng ❌ mới. Rule `qd-05-2025-da-thay-bang-qd-3628` trong `check_facts.py`; 14 plugin khác đổi dẫn QĐ 05/2025 → QĐ 3628.
+- `plugin.json` → 2.9.0. Chi tiết: `CHANGELOG-v2026.10.18.md`.
+
 ## 2.8.0 — 17/10/2026 — Sửa tim_van_ban.py không tìm được số hiệu có chữ Đ
 
 - `scripts/tim_van_ban.py` (bản chép từ gốc kho, đồng bộ bằng `build_so_cai_van_ban_goc.py`): sửa lỗi biểu thức tìm — chữ "đ" bị thay hai lần thành `[đ[dđ]]` nên MỌI số hiệu có chữ Đ (NĐ-CP, QĐ-UBND, QĐ-TTg) không bao giờ khớp và script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử GATE 0). Sau khi sửa: "181/2024/NĐ-CP" khớp 3 mục danh mục.

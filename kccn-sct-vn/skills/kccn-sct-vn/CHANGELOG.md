@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.51.1] - 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
+
+- Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/01-khung-phap-ly.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.
+- `plugin.json` 1.51.0 → 1.51.1.
 ## [1.52.0] - 18/10/2026 — Địa bàn ưu đãi đầu tư QĐ 2167/QĐ-UBND (thay QĐ 1894), QĐ 2752 vùng DTTS và miền núi — chuyển từ PR 127
 
 - **references/47 (mới)**: QĐ 2167/QĐ-UBND 23/6/2026 (căn cứ NĐ 96/2026/NĐ-CP, QĐ 2752) thay QĐ 1894/QĐ-UBND 07/11/2025; danh mục 87 + 08 xã, phường nguyên văn; bảng nơi đặt từng KCN, CCN; QĐ 2752/QĐ-UBND 31/12/2025; hồ sơ vụ CV 232/CV-LCIDI-HT (phần ref 46 mục D chưa có, dẫn chéo).

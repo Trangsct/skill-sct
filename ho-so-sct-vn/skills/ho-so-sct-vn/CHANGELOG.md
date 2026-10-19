@@ -1,3 +1,8 @@
+# CHANGELOG — ho-so-sct-vn v1.0.2 (19/10/2026, đợt 2)
+
+- Bản chép `trang-thai/` sinh lại: thêm hồ sơ `ctr-130-thuong-truc-tinh-uy-kiem-tra-du-an.md` (Chương trình 130-CTr/TU —
+  Thường trực Tỉnh ủy kiểm tra 15 dự án KCN, CCN, khoáng sản; kccn-sct-vn ref 49, 50). `plugin.json` 1.0.1 → 1.0.2.
+
 # CHANGELOG — ho-so-sct-vn v1.0.1 (19/10/2026)
 
 - Bản chép `trang-thai/` sinh lại: thêm hồ sơ `ccn-xuan-ai.md` (CCN Xuân Ái — QĐ 3865/QĐ-UBND ngày 17/10/2026, bậc 10) và các thay

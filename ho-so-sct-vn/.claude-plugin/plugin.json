@@ -1,6 +1,6 @@
 {
   "name": "ho-so-sct-vn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TRẠNG THÁI HỒ SƠ đang làm của Sở Công Thương Lào Cai, dùng chung mọi plugin: mỗi hồ sơ một tệp (văn bản đã phát hành, bước đã xong, bước tiếp theo, vướng mắc, quyết định của Bạn, nhật ký phiên). GATE đọc trước khi soạn: tim_ho_so.py chọn tệp từ câu yêu cầu; ghi_nhat_ky.py ghi nhật ký cuối phiên. Khởi tạo 17/10/2026: 4 CCN (Phú Thịnh 1, Thống Nhất 1, Mông Sơn, Châu Quế), ủy quyền GĐ Sở, Bài toán lớn số 2, Làng Cang 2, KH 130.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"

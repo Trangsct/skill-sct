@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.55.0] - 19/10/2026 — Chương trình 130-CTr/TU: báo cáo UBND tỉnh gửi Thường trực Tỉnh ủy (ref 49, mẫu 09), tài liệu Giám đốc đón đoàn và báo cáo tổng hợp của Sở (ref 50, mẫu 10); 10 mẫu thật; tệp trạng thái hồ sơ
+
+- Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` (phiên claude.ai, đánh số 1.53.0/1.54.0 trên nền cũ); ref đánh lại 48 → 49, 49 → 50 vì ref 48 đã là QĐ 3865 Xuân Ái.
+- Chi tiết: `CHANGELOG-v2026.10.19-2.md`.
+
 ## [1.54.0] - 19/10/2026 — QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái (ref 48, bản gốc + .txt, tọa độ 18 mốc)
 
 - Chi tiết: `CHANGELOG-v2026.10.19.md`.

@@ -1,3 +1,9 @@
+## 19/10/2026 (đợt 2) — kccn-sct-vn 1.55.0, vbhc-vn 2.36.0, ho-so-sct-vn 1.0.2: Chương trình 130-CTr/TU — Thường trực Tỉnh ủy kiểm tra 15 dự án KCN, CCN, khoáng sản
+
+- Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` của phiên claude.ai (không đẩy được từ phiên đó; Bạn gửi bundle). Nhánh dựng trên `204fc21` nên đánh lại số cho khớp `main`: ref 48 → **49**, ref 49 → **50**; kccn 1.53.0/1.54.0 → **1.55.0**; vbhc 2.35.0/2.36.0 → **2.36.0**.
+- **kccn-sct-vn 1.55.0**: ref 49 (hiện trạng 15 dự án đến 17/10/2026; quy tắc báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy; rà bài phát biểu Chủ tịch, Bí thư), ref 50 (tài liệu Giám đốc đón đoàn theo khung 14 nhãn; báo cáo tổng hợp của Sở; số QLNL, QLKS; QĐ 2548 Cam Đường); mẫu 09, 10; 10 mẫu thật `.docx` trong `vi-du-thuc-te/`. Hồ sơ mới `trang-thai/ctr-130-thuong-truc-tinh-uy-kiem-tra-du-an.md` (ho-so-sct-vn 1.0.2 chép lại).
+- **vbhc-vn 2.36.0**: Nhóm Q, Nhóm R trong `phong-tranh-sai-lam.md`; sổ lỗi L004–L010 (đề xuất R26–R29 cho `qa_rules.py`, chưa cài).
+
 ## 19/10/2026 — kccn-sct-vn 1.54.0, dacn-sct-vn 1.11.1: QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái
 
 - **kccn-sct-vn 1.54.0**: bản gốc QĐ 3865/QĐ-UBND (Bạn gửi 19/10/2026) + `.txt` vào `van-ban-goc/`; ref 48 (mới) tóm tắt Điều 1–4, bảng tọa độ 18 mốc VN-2000 + WGS84 (tính lại 75,00 ha), hệ quả 26 CCN đã thành lập / 10 cụm doanh nghiệp làm CĐT; ref 12, 31, 39 cập nhật; 10 dòng "đang trình" ở ref 30, 41, 43, 44 ghi "lịch sử". Hồ sơ mới `trang-thai/ccn-xuan-ai.md`.

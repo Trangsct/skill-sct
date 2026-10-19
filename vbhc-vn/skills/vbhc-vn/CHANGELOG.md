@@ -1,5 +1,10 @@
 # CHANGELOG vbhc-vn
 
+## v2.36.0 — 19/10/2026 — Nhóm Q (báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy) và Nhóm R (tài liệu dài, báo cáo tổng hợp, tài liệu nội bộ đón đoàn); sổ lỗi L004–L010
+
+- Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` (phiên claude.ai, đánh số 2.35.0/2.36.0 trên nền cũ).
+- Chi tiết: `CHANGELOG-v2026.10.19.md`.
+
 ## v2.35.0 — 18/10/2026 — Bản gốc NĐ 30/2020 (Word) và NĐ 74/2026 vào van-ban-goc/
 
 - Chi tiết: `CHANGELOG-v2026.10.18-3.md`.

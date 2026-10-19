@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.11.1] - 19/10/2026 — Số CCN đã thành lập sau QĐ 3865/QĐ-UBND (CCN Xuân Ái)
+- Ref 12 mục Lưu ý: 25 cụm/1.028,78 ha ghi là mốc đến 16/10/2026; số hiện hành **26 cụm/1.103,78 ha** sau QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái (75 ha) — trỏ `kccn-sct-vn` ref 48 mục E. Chi tiết: `CHANGELOG-v2026.10.19.md`.
+
 ## [1.11.0] - 18/10/2026 — Kế hoạch Bài toán lớn số 2 bản trình ký 04/10/2026 (chuyển từ PR 116)
 - Ref 11 mục III.2 viết lại theo bản trình ký 04/10/2026 (7 mục theo mẫu KH 467, 06 nội dung, 14 dự án, căn cứ rút gọn 4 nhóm + KL 83-KL/TW, chỉ tiêu phấn đấu; diễn biến TTr 5728/TTr-SCT 15/9 → CV 9958/UBND-NC 30/9); bản 05/9 và 15/9 thành dòng lịch sử. Chi tiết: `CHANGELOG-v2026.10.18.md`.
 

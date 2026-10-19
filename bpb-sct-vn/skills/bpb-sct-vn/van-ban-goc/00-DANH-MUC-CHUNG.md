@@ -7,12 +7,13 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 339 văn bản gốc (339 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 340 văn bản gốc (340 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
 | Số hiệu | Ngày | Tên | Plugin chủ | Đường dẫn | .txt |
 |---|---|---|---|---|---|
+| 3865/QĐ-UBND | 17/10/2026 | Thanh lap CCN Xuan Ai | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.17-3865.QD.UBND-Thanh-lap-CCN-Xuan-Ai.pdf` | có |
 | 10349/UBND-KT | 09/10/2026 | Tang cuong theo doi nam bat SXKD doanh nghiep | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-10349.UBND.KT-Tang-cuong-theo-doi-nam-bat-SXKD-doanh-nghiep.pdf` | có (OCR) |
 | 8280788124/GCNDKDT | 09/10/2026 | Dieu chinh lan 5 Bao Bi thung phuy KCN Tang Loong | dacn-sct-vn | `dacn-sct-vn/skills/dacn-sct-vn/van-ban-goc/2026.10.09-8280788124.GCNDKDT-Dieu-chinh-lan-5-Bao-Bi-thung-phuy-KCN-Tang-Loong.pdf` | có |
 | 3628/QĐ-UBND | 02/10/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf` | có (OCR) |

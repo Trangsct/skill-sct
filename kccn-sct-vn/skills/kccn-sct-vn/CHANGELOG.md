@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.54.0] - 19/10/2026 — QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái (ref 48, bản gốc + .txt, tọa độ 18 mốc)
+
+- Chi tiết: `CHANGELOG-v2026.10.19.md`.
+
 ## [1.53.0] - 18/10/2026 — Bản gốc NĐ 303/2026/NĐ-CP (PDF quét + OCR .txt); bảng đối chiếu 18 khoản đọc từ bản gốc
 
 - Chi tiết: `CHANGELOG-v2026.10.18-2.md`.

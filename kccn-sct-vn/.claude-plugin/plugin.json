@@ -1,11 +1,13 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.53.0",
-  "description": "Ref 46 (10/10/2026) MỚI NHẤT: kết luận Chủ tịch UBND tỉnh TB 181/TB-VPUBND (cam kết tiến độ 09 CĐT, 08 cụm NSNN trình 15/10, trang thông tin KCN/CCN tích hợp AI, TĐC cách KCN/CCN trên 1,5 km), QĐ 3725/QĐ-UBND điều chỉnh Phú Thịnh 1, miễn tiền thuê đất Thống Nhất 1 (QĐ 2167 địa bàn ưu đãi). Ref 44: khung Báo cáo CCN, hiện trạng 25 CCN đến 05/10/2026. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
+  "version": "1.54.0",
+  "description": "Ref 48 (19/10/2026) MỚI NHẤT: QĐ 3865/QĐ-UBND 17/10/2026 thành lập CCN Xuân Ái (75 ha, LAMSEN, 815,6 tỷ, 39 tháng, tọa độ 18 mốc) — 26 CCN đã thành lập. Ref 46: kết luận Chủ tịch TB 181/TB-VPUBND (cam kết tiến độ CĐT, cụm NSNN, TĐC cách KCN/CCN trên 1,5 km), QĐ 3725 điều chỉnh Phú Thịnh 1. Ref 44: khung Báo cáo CCN. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "ccn-xuan-ai-lamsen",
+    "qd-3865-thanh-lap-ccn-xuan-ai",
     "qd-2167-dia-ban-uu-dai-dau-tu-cap-xa",
     "qd-1894-da-thay-the",
     "qd-2752-vung-dtts-mien-nui",

@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | I. Đã thành lập, doanh nghiệp làm chủ đầu tư hạ tầng | 09 | 634,95 | 5.158,58 | Bảo Minh, Thống Nhất 1, Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3, Minh Quân, Y Can, Yên Hợp 2, Mông Sơn |
 | trong đó thành lập năm 2026 | 03 | 185 | 1.621,85 | Bảo Minh (60 ha; 500), Mông Sơn (50 ha; 496,651), Yên Hợp 2 (75 ha; 625,2) |
-| II. Đã nộp hồ sơ đề nghị thành lập | 05 | 302 | 3.153,04 | Tân Nguyên (55; 450), Xuân Ái (75; 815,596), Tân Hợp (75; 794,267), Bản Phiệt 1 (66; 742,556), Châu Quế (31; 350,618) |
+| II. Đã nộp hồ sơ đề nghị thành lập | 05 | 302 | 3.153,04 | Tân Nguyên (55; 450), Xuân Ái (75; 815,596), Tân Hợp (75; 794,267), Bản Phiệt 1 (66; 742,556), Châu Quế (31; 350,618) *(lịch sử — Xuân Ái đã thành lập theo QĐ 3865/QĐ-UBND ngày 17/10/2026, ref 48)* |
 | III. Nhà đầu tư đã nộp hồ sơ tại xã, phường hoặc đang hoàn thiện hồ sơ | 04 | 240 | 2.279,63 | An Thịnh (75; 599,627), Cam Đường 1 (40; 480), Phú Thịnh 6 (75; 600), Bảo Hưng 2 (50; 600) |
 | IV. Có nhà đầu tư quan tâm | 03 | 188 | 2.256 | Phú Thịnh 4 (75), Gia Hội (50), Yên Hợp 1 (63) |
 | V. 08 CCN vốn ngân sách chưa có Quyết định thành lập | 08 | không cộng | không cộng | Bắc Văn Yên, Đông An, Báo Đáp, Hưng Khánh, Sơn Thịnh, Thịnh Hưng, Yên Thế, Âu Lâu |
@@ -30,7 +30,7 @@ Thay đổi so với ref 41 mục B (27/9/2026):
 - **Bản Phiệt 1 chuyển lên nhóm đã nộp hồ sơ:** UBND phường Lào Cai trình tại Tờ trình 351/TTr-UBND ngày 25/9/2026; Sở xin ý kiến các sở, ngành tại Văn bản 6153/SCT-CN ngày 30/9/2026 (bậc 4, ref 39).
 - **Tân Hợp:** Tờ trình 200/TTr-UBND ngày 10/9/2026 của UBND xã; Sở yêu cầu xã và nhà đầu tư giải trình, hoàn thiện hồ sơ tại Văn bản 6125/SCT-CN ngày 29/9/2026.
 - **Châu Quế:** Sở yêu cầu giải trình, hoàn thiện hồ sơ tại Văn bản 6126/SCT-CN ngày 29/9/2026.
-- **Xuân Ái:** đã trình UBND tỉnh (Tờ trình 5723/TTr-SCT ngày 14/9/2026), đang chờ Quyết định thành lập. 04 cụm còn lại của nhóm II đang thẩm định, Phòng dự kiến trình trong tháng 10/2026.
+- **Xuân Ái:** đã trình UBND tỉnh (Tờ trình 5723/TTr-SCT ngày 14/9/2026), đang chờ Quyết định thành lập. 04 cụm còn lại của nhóm II đang thẩm định, Phòng dự kiến trình trong tháng 10/2026. *(lịch sử — Xuân Ái đã thành lập theo QĐ 3865/QĐ-UBND ngày 17/10/2026, ref 48)*
 - **Bảo Hưng 2 đưa vào nhóm III:** nhà đầu tư Công ty cổ phần Công nghiệp EUP; khu vực dự kiến trùng 01 dự án đã có chủ trương đầu tư, UBND tỉnh giao Sở Tài chính chủ trì xử lý; diện tích sau rà soát khoảng 49,46 ha.
 - **Phú Thịnh 6:** UBND phường Văn Phú đang thông báo công khai việc tiếp nhận hồ sơ (CCN công nghệ cao).
 - **Mốc khởi công dùng trong báo cáo:** Thống Nhất 1 đã khởi công 07/5/2026; Phú Thịnh 3 đã khởi công 16/7/2026; Y Can, Minh Quân dự kiến tháng 11/2026; Mông Sơn trước 31/12/2026; Bảo Minh quý I/2027 (GPMB khoảng 10/60 ha, đang lập quy hoạch chi tiết 1/500).
@@ -93,7 +93,7 @@ Báo cáo Lãnh đạo, tính đến hết ngày 01/10/2026:
 3) CCN thành lập năm 2026: 03 cụm (Bảo Minh, Mông Sơn, Yên Hợp 2), 185 ha, 1.621,85 tỷ đồng.
 + Đã khởi công: chưa có.
 + Dự kiến khởi công: Mông Sơn trước 31/12/2026, Bảo Minh quý I/2027; Yên Hợp 2 đang thu hồi đất, lập quy hoạch chi tiết.
-+ Đang trình thành lập: Xuân Ái (đã trình UBND tỉnh), 75 ha, 815,6 tỷ đồng.
++ Đang trình thành lập: Xuân Ái (đã trình UBND tỉnh), 75 ha, 815,6 tỷ đồng. *(lịch sử — Xuân Ái đã thành lập theo QĐ 3865/QĐ-UBND ngày 17/10/2026, ref 48)*
 + Dự kiến hết năm 2026 sẽ thành lập: Tân Nguyên, Tân Hợp, Bản Phiệt 1, Châu Quế (đang thẩm định, 227 ha, 2.337,44 tỷ đồng) và 08 cụm hạ tầng vốn ngân sách.
 + Nhà đầu tư đang hoàn thiện hồ sơ: An Thịnh, Cam Đường 1, Phú Thịnh 6, Bảo Hưng 2 (240 ha); nhà đầu tư quan tâm: Phú Thịnh 4, Yên Hợp 1, Gia Hội (188 ha).
 + Chưa có nhà đầu tư quan tâm: 22 cụm, 1.086,4 ha, gồm: Hợp Minh (37,4 ha), Tân Lĩnh (75 ha), Thượng Bằng La (20 ha), Bảo Thắng (40 ha), Bản Phung (40 ha), Trà Trẩu (35 ha), Bát Xát (57 ha), Mường Khương (30 ha), Tân An (40 ha), Hòa Mạc (20 ha), Cam Đường 2 (12 ha), Phố Ràng 1 (56 ha), Phố Ràng 2 (75 ha), Quang Kim 1 (55 ha), An Bình (50 ha), Ngòi A (62 ha), Yên Hưng (42 ha), Bản Phiệt 2 (75 ha), Văn Chấn (75 ha), Phú Thịnh 5 (75 ha), Châu Quế Thượng (40 ha), Phong Hải (75 ha).
@@ -110,6 +110,6 @@ Kỹ thuật: sửa trực tiếp trên file của Phòng bằng openpyxl để 
 
 ## H. VIỆC CẦN THEO DÕI KỲ SAU
 
-- Quyết định thành lập CCN Xuân Ái; trình thành lập Tân Nguyên, Tân Hợp, Bản Phiệt 1, Châu Quế (dự kiến tháng 10/2026).
+- Quyết định thành lập CCN Xuân Ái; trình thành lập Tân Nguyên, Tân Hợp, Bản Phiệt 1, Châu Quế (dự kiến tháng 10/2026). *(lịch sử — Xuân Ái đã thành lập theo QĐ 3865/QĐ-UBND ngày 17/10/2026, ref 48)*
 - Khởi công CCN Y Can, CCN Minh Quân (11/2026); chốt 05 điểm vênh mục E.
 - Khởi công KCN Cam Đường; phê duyệt quy hoạch phân khu KCN Y Can, KCN Đông An.

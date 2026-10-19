@@ -1,3 +1,10 @@
+## 19/10/2026 — kccn-sct-vn 1.54.0, dacn-sct-vn 1.11.1: QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái
+
+- **kccn-sct-vn 1.54.0**: bản gốc QĐ 3865/QĐ-UBND (Bạn gửi 19/10/2026) + `.txt` vào `van-ban-goc/`; ref 48 (mới) tóm tắt Điều 1–4, bảng tọa độ 18 mốc VN-2000 + WGS84 (tính lại 75,00 ha), hệ quả 26 CCN đã thành lập / 10 cụm doanh nghiệp làm CĐT; ref 12, 31, 39 cập nhật; 10 dòng "đang trình" ở ref 30, 41, 43, 44 ghi "lịch sử". Hồ sơ mới `trang-thai/ccn-xuan-ai.md`.
+- **dacn-sct-vn 1.11.1**: ref 12 số CCN hiện hành 26 cụm/1.103,78 ha.
+- `scripts/check_facts.py`: rule `ccn-xuan-ai-da-thanh-lap-qd-3865` (FAIL); tách lại 2 rule `qd-05-2025-…`, `ubnd-viet-tat-…` bị dồn chung dict nên trước đó không chạy.
+- Website ccn-laocai cập nhật cùng ngày (CCN Xuân Ái sang danh sách đã thành lập, ranh giới 18 mốc).
+
 ## 18/10/2026 (đợt 3) — Nạp 3 văn bản quy phạm Bạn gửi: NĐ 303/2026 (kccn 1.53.0), NĐ 30/2020, NĐ 74/2026 (vbhc-vn 2.35.0)
 
 - **kccn-sct-vn 1.53.0**: bản gốc NĐ 303/2026/NĐ-CP 01/8/2026 (PDF quét 6 MB export-ignore + OCR .txt); ref 24 bảng đối chiếu 18 khoản Điều 1 đọc từ bản gốc, hết "thiếu bản gốc". Chưa có bản Word.

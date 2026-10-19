@@ -59,6 +59,7 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 | Yên Hợp | **Xã Xuân Ái** | Hiện hữu 12 ha (QĐ thành lập 2201/QĐ-UBND 06/11/2024; QĐ 525 giảm 75→12 ha) |
 | Yên Hợp 1 | **Xã Xuân Ái** | 63 ha — DỰ ÁN ĐỘC LẬP với Yên Hợp (không "giai đoạn I/II") |
 | Yên Hợp 2 (PH Green) | **Xã Xuân Ái** | 75 ha — **ĐÃ THÀNH LẬP: QĐ 3427/QĐ-UBND ngày 23/9/2026** (ref 41) |
+| Xuân Ái (LAMSEN) | **Xã Xuân Ái** (thôn Quyết Hùng) | 75 ha (QĐ 525 tăng 35→75) — **ĐÃ THÀNH LẬP: QĐ 3865/QĐ-UBND ngày 17/10/2026** (ref 48); khác Yên Hợp 2 |
 | Tân Nguyên | **Xã Bảo Ái** | 55 ha (Công ty 186 Yên Bái) |
 | Mông Sơn | **Xã Bảo Ái** | 50 ha (CRC) — **ĐÃ THÀNH LẬP: QĐ 3426/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Âu Lâu | Phường Âu Lâu | Tăng 50→75 ha |
@@ -73,7 +74,7 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 ## III. ĐỊA DANH DỄ NHẦM — DÙNG ĐÚNG
 
 1. **KCN Phú Xuân (300 ha) & Phú Xuân 1 (200 ha):** đều tại **xã Gia Phú** (khẳng định QĐ 525 Phụ lục II, QĐ 1382, QĐ 94/QĐ-BQL 18/6/2026, hồ sơ dự án). KHÔNG ghi "xã Xuân Hòa".
-2. **CCN Yên Hợp, Yên Hợp 1, Yên Hợp 2:** đều tại **xã Xuân Ái**. Bản PDF QĐ 1382 ghi "xã Yên Hợp" là sai sót cá biệt — dùng xã Xuân Ái. **Yên Hợp và Yên Hợp 1 là 2 dự án ĐỘC LẬP**, không dùng "giai đoạn I/II".
+2. **CCN Yên Hợp, Yên Hợp 1, Yên Hợp 2, Xuân Ái:** đều tại **xã Xuân Ái** — bốn dự án khác nhau. Bản PDF QĐ 1382 ghi "xã Yên Hợp" là sai sót cá biệt — dùng xã Xuân Ái. **Yên Hợp và Yên Hợp 1 là 2 dự án ĐỘC LẬP**, không dùng "giai đoạn I/II".
 3. **KHÔNG suy tên xã từ tên KCN:** Bản Qua → xã Bát Xát; Y Can → xã Lương Thịnh + Quy Mông; Đông An → xã Đông Cuông; Thịnh Hưng → xã Yên Bình + phường Văn Phú; Lục Yên → xã Lục Yên + Tân Lĩnh; Cốc Mỳ - Trịnh Tường → xã Trịnh Tường (theo Phụ lục II QĐ 525, khớp QĐ 1382).
 4. **CCN Tân Nguyên & Mông Sơn:** đều tại **xã Bảo Ái**.
 5. **CCN Thống Nhất (35 ha, bổ sung) & Thống Nhất 1 (75 ha, đã thành lập) & KCN Thống Nhất (150 ha):** đều tại **xã Gia Phú** — 3 dự án khác nhau.

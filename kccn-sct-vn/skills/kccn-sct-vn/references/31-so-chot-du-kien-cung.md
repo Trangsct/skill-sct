@@ -83,6 +83,11 @@ Quy tắc hành văn: dùng đúng tên "CCN Yên Hợp" và "CCN Yên Hợp 1".
 - Tổng mức đầu tư CCN Mông Sơn là 496,651 tỷ đồng (QĐ 3426/QĐ-UBND ngày 23/9/2026).
 - Hai file danh mục thu hút đầu tư CCN, KCN đặt tên cùng một kiểu, cùng một ngày chốt; tin báo cáo mở đầu "Báo cáo LĐ, tính đến hết ngày …". Chi tiết: ref 43.
 
+## 14. CCN Xuân Ái đã có Quyết định thành lập (chốt 19/10/2026, bản gốc Bạn gửi)
+
+- QĐ 3865/QĐ-UBND ngày 17/10/2026 (Chủ tịch Nguyễn Tuấn Anh ký) thành lập CCN Xuân Ái, thôn Quyết Hùng, xã Xuân Ái, 75 ha; CĐT hạ tầng Công ty cổ phần LAMSEN Industrial Lào Cai; tổng mức đầu tư 815,596 tỷ đồng (vốn CSH 18,39%, vay 81,61%); tiến độ 39 tháng kể từ ngày có QĐ thành lập (≈ 17/01/2030). Căn cứ KL 408-KL/TU ngày 12/10/2026, TTr 5723/TTr-SCT ngày 14/9/2026. Toàn văn, tọa độ 18 mốc: ref 48.
+- Từ 17/10/2026 Xuân Ái ở bậc 10 (ref 39): KHÔNG viết "đã trình", "chờ Quyết định thành lập"; toàn tỉnh **26 CCN đã thành lập**, **10 cụm** do doanh nghiệp làm CĐT hạ tầng (số 25 cụm/09 cụm ở mục 9 là mốc 23/9 – 16/10/2026). Tên chính thức "Cụm công nghiệp Xuân Ái" — không thêm "(mở rộng)"; khác CCN Yên Hợp, Yên Hợp 1, Yên Hợp 2 cùng xã (mục 1).
+
 ## 6. Nguyên tắc dùng sổ này
 
 - Sổ chỉ chứa dữ kiện đã chốt. Tỷ lệ lấp đầy, nhà đầu tư, tiến độ là dữ liệu động: lấy từ kỳ cập nhật mới nhất (ref 30 hoặc kỳ sau) hoặc hỏi người dùng, không lấy số cũ trong sổ này để viết văn bản mới.

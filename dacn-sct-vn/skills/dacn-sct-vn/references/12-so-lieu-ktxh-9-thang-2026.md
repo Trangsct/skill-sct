@@ -46,7 +46,7 @@ Quy tắc dùng:
 
 Lưu ý:
 - BC 998 ghi XNK "đạt **71,76%** so với Kế hoạch" trong khi BC 432 và BC giao ban T10 ghi **48,75%** (so KH 6.140 triệu USD). Giá trị tuyệt đối và tốc độ tăng thì khớp. Khi báo cáo chỉ tiêu 7, 8 NQ 169 dùng 48,75% và ghi rõ mẫu số.
-- **CCN:** 23 cụm/903,78 ha là mốc trước ngày 23/9/2026. Sau QĐ 3426, 3427/QĐ-UBND (Mông Sơn 50 ha, Yên Hợp 2 75 ha) là **25 cụm/1.028,78 ha** — số hiện hành tra `kccn-sct-vn` ref 44.
+- **CCN:** 23 cụm/903,78 ha là mốc trước ngày 23/9/2026. Sau QĐ 3426, 3427/QĐ-UBND (Mông Sơn 50 ha, Yên Hợp 2 75 ha) là 25 cụm/1.028,78 ha (đến 16/10/2026). Sau QĐ 3865/QĐ-UBND ngày 17/10/2026 (Xuân Ái 75 ha) là **26 cụm/1.103,78 ha** — số hiện hành tra `kccn-sct-vn` ref 48 mục E, ref 44.
 - Theo số tự đánh giá quý III của Sở (BC giao ban T10): GTSXCN lĩnh vực khai thác, chế biến khoáng sản trên 9.900 tỷ đồng; sản xuất công nghiệp do Phòng QLCN theo dõi trên 7.100 tỷ đồng; điện sản xuất và thương phẩm từ 5.400 tỷ đồng; quý III GPMB thêm 221,41 ha đất công nghiệp, tạo thêm 180,41 ha mặt bằng sạch.
 
 ## III. IIP 9 THÁNG (BC 998)

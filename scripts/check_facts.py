@@ -53,6 +53,8 @@ RULES = [
         "since": "2026-10-02",
         "level": "FAIL",
         "skip": ["vbhc-vn"],
+    },
+    {
         "id": "ubnd-viet-tat-noi-nhan-trong-mau",
         # Bạn chốt 04/10/2026 (PR 116, chuyển lên main 18/10/2026): khối Nơi nhận viết "UBND tỉnh (b/c)". Chỉ bắt dòng
         # Nơi nhận nhận biết chắc chắn — dòng "- …" có "(b/c)"/"(để b/c)"; thân văn bản, Kính gửi viết đầy đủ
@@ -62,6 +64,8 @@ RULES = [
         "why": "Khối Nơi nhận viết 'UBND tỉnh (b/c)' — chữ đầy đủ chỉ ở đầu trang, khối ký và thân văn bản (vbhc-vn R24, Nhóm P9).",
         "since": "2026-10-04",
         "level": "WARN",
+    },
+    {
         "id": "qd-1894-dia-ban-uu-dai-thay-boi-qd-2167",
         # QĐ 2167/QĐ-UBND ngày 23/6/2026 (công bố địa bàn ưu đãi đầu tư cấp xã, căn cứ NĐ 96/2026/NĐ-CP) thay thế
         # QĐ 1894/QĐ-UBND ngày 07/11/2025 (Điều 3). kccn-sct-vn ref 47 (chuyển từ PR 127 ngày 18/10/2026).
@@ -69,6 +73,17 @@ RULES = [
         "why": "QĐ 1894/QĐ-UBND ngày 07/11/2025 (địa bàn ưu đãi đầu tư) đã bị QĐ 2167/QĐ-UBND ngày 23/6/2026 thay thế; dòng nào nhắc QĐ 1894 phải nêu kèm QĐ 2167 (kccn-sct-vn ref 47).",
         "since": "2026-10-08",
         "level": "FAIL",
+    },
+    {
+        "id": "ccn-xuan-ai-da-thanh-lap-qd-3865",
+        # QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái (xã Xuân Ái, 75 ha, CĐT Công ty CP LAMSEN Industrial
+        # Lào Cai) — Bạn gửi bản gốc 19/10/2026; kccn-sct-vn ref 48, van-ban-goc/2026.10.17-3865.QD.UBND-…pdf.
+        # Bắt dòng còn ghi cụm Xuân Ái đang trình/chờ QĐ/chưa thành lập; "xã Xuân Ái" (địa danh) không tính.
+        "pattern": r"^(?!.*(?:3865|lịch sử|ref 48)).*(?<!xã )Xuân Ái\b[^\n]{0,120}(?:chờ Quyết định|chờ QĐ|chưa có QĐ|đang trình|đã trình UBND|trình thành lập|chưa thành lập)",
+        "why": "CCN Xuân Ái đã thành lập theo QĐ 3865/QĐ-UBND ngày 17/10/2026 (kccn-sct-vn ref 48); dòng nói 'đang trình/chờ QĐ' phải ghi kèm 'lịch sử' hoặc nêu QĐ 3865.",
+        "since": "2026-10-17",
+        "level": "FAIL",
+        "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn", "quy-hoach-ct-vn"],
     },
     {
         "id": "tthc-khong-gui-ban-giam-doc-so",

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.158"
+    "version": "4.11.159"
   },
   "plugins": [
     {
@@ -53,8 +53,8 @@
     {
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
-      "description": "Ref 48 (19/10/2026) MỚI NHẤT: QĐ 3865/QĐ-UBND 17/10/2026 thành lập CCN Xuân Ái (75 ha, LAMSEN, 815,6 tỷ, 39 tháng, tọa độ 18 mốc) — 26 CCN đã thành lập. Ref 46: kết luận Chủ tịch TB 181/TB-VPUBND (cam kết tiến độ CĐT, cụm NSNN, TĐC cách KCN/CCN trên 1,5 km), QĐ 3725 điều chỉnh Phú Thịnh 1. Ref 44: khung Báo cáo CCN. GATE trạng thái hồ sơ (ref 39). QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026.",
-      "version": "1.54.0"
+      "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 50 (19/10/2026) MỚI NHẤT: tài liệu Giám đốc đón đoàn Thường trực Tỉnh ủy (mẫu 10), báo cáo tổng hợp Sở, ước GTSXCN/NSNN/LĐ, cấp điện QLNL, QĐ 2548. Ref 49: CT 130-CTr/TU, báo cáo UBND tỉnh gửi Thường trực Tỉnh ủy (mẫu 09). Ref 48: QĐ 3865 thành lập CCN Xuân Ái (26 CCN). Ref 47: QĐ 2167. Ref 46: TB 181, QĐ 3725.",
+      "version": "1.55.0"
     },
     {
       "name": "kho-vlncn-sct-vn",
@@ -107,8 +107,8 @@
     {
       "name": "vbhc-vn",
       "source": "./vbhc-vn",
-      "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản UBND tỉnh do Sở dự thảo; thể thức Đảng. 9 template + 26 mẫu thật, nhóm anti-error A-P, sổ lỗi tự ghi. GATE 0 kế hoạch soạn, GATE 0b dàn ý, GATE cuối rà soát độc lập. Một lệnh kiem_tra_truoc_khi_giao.py: qa_all.py (R01-R25), ra_soat_doc_lap.py, cite_check.py; build_vb.py, extract_metadata.py; hồi quy tests/ trên CI.",
-      "version": "2.35.0"
+      "description": "Soạn thảo, rà soát VBHC (.docx) Sở Công Thương Lào Cai theo NĐ 30/2020: công văn, tờ trình, báo cáo, kế hoạch, quyết định, biên bản, giấy phép, GCN ATTP; văn bản UBND tỉnh do Sở dự thảo; thể thức Đảng. 9 template + 26 mẫu thật, nhóm anti-error A-R, sổ lỗi tự ghi. GATE 0 kế hoạch soạn, GATE 0b dàn ý, GATE cuối rà soát độc lập. Một lệnh kiem_tra_truoc_khi_giao.py: qa_all.py (R01-R25), ra_soat_doc_lap.py, cite_check.py; build_vb.py, extract_metadata.py; hồi quy tests/ trên CI.",
+      "version": "2.36.0"
     },
     {
       "name": "xd-sct-vn",
@@ -156,7 +156,7 @@
       "name": "ho-so-sct-vn",
       "source": "./ho-so-sct-vn",
       "description": "TRẠNG THÁI HỒ SƠ đang làm của Sở Công Thương Lào Cai, dùng chung mọi plugin: mỗi hồ sơ một tệp (văn bản đã phát hành, bước đã xong, bước tiếp theo, vướng mắc, quyết định của Bạn, nhật ký phiên). GATE đọc trước khi soạn: tim_ho_so.py chọn tệp từ câu yêu cầu; ghi_nhat_ky.py ghi nhật ký cuối phiên. Khởi tạo 17/10/2026: 4 CCN (Phú Thịnh 1, Thống Nhất 1, Mông Sơn, Châu Quế), ủy quyền GĐ Sở, Bài toán lớn số 2, Làng Cang 2, KH 130.",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "name": "mau-dgrr-khuc-vlncn",

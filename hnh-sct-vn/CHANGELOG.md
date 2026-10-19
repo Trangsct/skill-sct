@@ -1,5 +1,8 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.17.0] - 19/10/2026
+- Nguyên tắc 28: không cấp trùng phương tiện cho các đơn vị khác nhau — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.10.19.md`.
+
 ## [1.16.0] - 18/10/2026
 - Chuyển nội dung PR 129 (gồm PR 111) lên bản 1.16.0 — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.10.18.md`: Mẫu 7 (Biên bản thẩm định bản gọn) và Mẫu 8 (Giấy phép cho hàng đi bằng container bồn) chuẩn từ 08/10/2026, đã chuẩn hóa theo quy tắc 13/10/2026 (không gửi Ban Giám đốc Sở, Nơi nhận cỡ 11, Times New Roman); nguyên tắc 22-27 (ref 19); ref 16 mục 11, 12; ref 11 lỗi 20-27; 3 rule `hnh-*` trong `scripts/check_facts.py`.
 

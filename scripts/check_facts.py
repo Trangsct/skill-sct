@@ -625,6 +625,16 @@ RULES = [
         "level": "WARN",
         "only": ["hnh-sct-vn"],
     },
+    {
+        "id": "hnh-cap-trung-khong-dan-nd161",
+        # Bạn chốt 19/10/2026: không cấp trùng phương tiện cho các đơn vị khác nhau (hnh-sct-vn nguyên tắc 28).
+        # Đây là quy tắc quản lý của Sở; NĐ 161/2024 không có điều khoản trực tiếp cấm cấp trùng -> không viện dẫn NĐ 161 làm căn cứ cấm.
+        "pattern": r"^(?!.*(?:KHÔNG viết|không có điều khoản)).*(?:không được|cấm) cấp trùng[^\n]{0,80}(?:Nghị định số 161|NĐ 161)",
+        "why": "Không cấp trùng phương tiện là quy tắc quản lý của Sở (Bạn chốt 19/10/2026, hnh-sct-vn nguyên tắc 28); Nghị định 161/2024 không có điều khoản trực tiếp cấm, không viết như thể Nghị định cấm.",
+        "since": "2026-10-19",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

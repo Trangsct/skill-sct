@@ -118,7 +118,7 @@ Mã TTHC đã công bố (theo Phụ lục QĐ 2848/QĐ-UBND, nguồn QĐ 1213/Q
 - `16-thuc-tien-cap-phep-sct.md` - **Thực tiễn cấp phép tại Sở (đúc kết hồ sơ đã xử lý 2026):** bảng tiền lệ nội bộ (An Khang, Thái Thịnh, Bắc Cường, Apatit, Sợi Phương Nam, HNL...); thể thức Giấy phép thực tế (số /GP - SCT, người ký, nơi nhận, Lưu VT, BP1C, CN); quy trình 6 bước sau ủy quyền; các quyết định nghiệp vụ đã chốt (thời hạn GP - từ 08/10/2026 đúng khoản 3 Điều 13 NĐ 161, khống chế theo kiểm định là lịch sử; GPKDVT; lỗi phân loại điển hình). mục 10 - bộ hồ sơ mẫu loại 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam (lỗi lặp lại của đơn vị, trọng tải xe biển Trung Quốc, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp). mục 11 - vụ amoniac khan bằng container bồn (02/10/2026): cách lập bảng phương tiện và thiết bị chứa hàng, phép tính khối lượng thấp nhất, 05 điểm soát riêng cho container bồn. mục 12 - bộ mẫu chuẩn 08/10/2026 (Mẫu 7 Biên bản gọn, Mẫu 8 Giấy phép container bồn), các quyết định Bạn chốt phiên 08/10. ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.
 - `17-xuyen-bien-gioi-viet-trung.md` - **Hồ sơ có yếu tố nước ngoài/xuyên biên giới Việt - Trung (chuyên sâu):** cây quyết định thẩm quyền (khoản 1 vs khoản 2 Điều 8 - loại 5,8 không có điều kiện địa bàn); giấy phép loại D của Sở Xây dựng; checklist riêng cho xe biển Trung Quốc; tiền lệ 4 vụ việc. ĐỌC khi hồ sơ có xe biển nước ngoài, pháp nhân nước ngoài hoặc tuyến qua cửa khẩu.
 - `18-khung-phap-ly-tong-hop.md` - **Khung pháp lý HHNH tổng hợp 19 văn bản** (toàn văn diễn giải, mốc hiệu lực, chuyển tiếp; tách từ SKILL.md mục II 02/9/2026).
-- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **27 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
+- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **28 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
 - `20-csdl-gp-hhnh-da-cap.md` - **Ảnh chụp tự động CSDL trang vlncn-laocai** (máy sinh, không sửa tay, đồng bộ 18h40 hằng ngày): bảng mọi GP vận chuyển HHNH Sở đã phát hành có trên trang (số, ngày, hạn, loại, tổ chức, mã số DN, hàng hóa - số UN, số phương tiện, liên kết PDF ký số), thống kê theo loại/tháng, cách trang hỗ trợ nghiệp vụ. ĐỌC khi cần tra "GP số mấy, cấp ngày nào, còn hạn không, tổ chức nào đã có GP".
 - `mau-ho-so/` - Bộ biểu mẫu dựng trực tiếp từ hồ sơ thực tế (giữ nguyên cấu trúc, nội dung đã chuyển thành placeholder): Mẫu 1 Giấy đề nghị (Phụ lục IV), Mẫu 2 Bảng kê phương tiện, Mẫu 3 Bảng kê người lái xe + người áp tải, Mẫu 4 Phương án tổ chức vận chuyển (Phụ lục V), Mẫu 5 Giấy phép vận chuyển HHNH của Sở Công Thương, Mẫu 6 Biên bản thẩm định hồ sơ cấp Giấy phép (văn bản NỘI BỘ của Sở, bản chuẩn văn phong 24/7/2026 - xe biển Việt Nam, thẩm định tại trụ sở doanh nghiệp; khi dùng cho vụ mới thay toàn bộ thông tin doanh nghiệp/phương tiện/nhân sự theo hồ sơ thực tế và cập nhật tên thành viên Đoàn theo phân công hiện hành), kèm `00-huong-dan-lap-ho-so.md`. **Từ 08/10/2026 dựng Biên bản thẩm định từ Mẫu 7 (bản gọn 4 trang) và dựng Giấy phép cho hàng đi bằng container bồn từ Mẫu 8** - hai mẫu đã ẩn danh, bảng căn bằng khổ chữ; Mẫu 5, Mẫu 6 chỉ còn để đối chiếu (reference 16 mục 12, nguyên tắc 25 - 27).
 
@@ -160,7 +160,7 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 
 ## VII. NGUYÊN TẮC NGHIỆP VỤ BẤT BIẾN — ⭐ BẮT BUỘC đọc `references/19-nguyen-tac-nghiep-vu-bat-bien.md` trước khi thẩm định / soạn văn bản
 
-Toàn văn 27 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
+Toàn văn 28 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
 
 - **1** — Số lượng hồ sơ: 01 bộ
 - **2** — Hình thức nộp
@@ -189,6 +189,7 @@ Toàn văn 27 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để �
 - **25** — Thời hạn Giấy phép cấp đúng khoản 3 Điều 13 NĐ 161 (24 tháng theo đề nghị), không khống chế theo mốc kiểm định, tập huấn
 - **26** — Biên bản thẩm định viết ngắn gọn - Mẫu 7 bản gọn, chuẩn từ 08/10/2026
 - **27** — Bảng trong Biên bản, Giấy phép rộng đúng bằng khổ chữ (9071 dxa)
+- **28** — KHÔNG cấp trùng phương tiện cho các đơn vị khác nhau: soát biển số với mọi Giấy phép còn hiệu lực trước khi thẩm định
 
 ## VIII. BỐI CẢNH LÀO CAI
 

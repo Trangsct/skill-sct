@@ -1,3 +1,11 @@
+## 19/10/2026 (đợt 3) — hnh-sct-vn 1.17.0: không cấp trùng phương tiện cho các đơn vị khác nhau
+
+- **Nguyên tắc 28 (ref 19) mới:** KHÔNG cấp trùng phương tiện cho các đơn vị khác nhau (Bạn chốt 19/10/2026). Một phương tiện chỉ có tên trong Giấy phép còn hiệu lực của một người vận tải; soát biển số với mọi Giấy phép còn hiệu lực ngay khi nhận hồ sơ; trùng thì đề nghị đơn vị nộp sau bỏ phương tiện trùng, hoặc đơn vị đang có Giấy phép làm thủ tục điều chỉnh trước; Sở không tự rút phương tiện khỏi Giấy phép đã cấp; văn bản gửi doanh nghiệp viết theo dữ kiện, không viết như thể Nghị định 161/2024 cấm; Biên bản ghi kết quả soát trùng. Tiền lệ: hồ sơ axit nitric Toàn Phát TQ trùng 03 đầu kéo, 03 sơ mi rơ moóc, 04 container bồn với Giấy phép số 5216/GP-SCT ngày 24/8/2026.
+- **Ref 11:** thêm dòng soát trùng vào checklist đối chiếu nhóm Phương tiện; lỗi thẩm định thường gặp 28.
+- **SKILL.md:** mục lục nguyên tắc thêm 28; "27 nguyên tắc" → "28 nguyên tắc".
+- `scripts/check_facts.py`: rule `hnh-cap-trung-khong-dan-nd161` (WARN, chỉ hnh-sct-vn).
+- `plugin.json` 1.16.0 → 1.17.0.
+
 ## 19/10/2026 (đợt 2) — kccn-sct-vn 1.55.0, vbhc-vn 2.36.0, ho-so-sct-vn 1.0.2: Chương trình 130-CTr/TU — Thường trực Tỉnh ủy kiểm tra 15 dự án KCN, CCN, khoáng sản
 
 - Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` của phiên claude.ai (không đẩy được từ phiên đó; Bạn gửi bundle). Nhánh dựng trên `204fc21` nên đánh lại số cho khớp `main`: ref 48 → **49**, ref 49 → **50**; kccn 1.53.0/1.54.0 → **1.55.0**; vbhc 2.35.0/2.36.0 → **2.36.0**.

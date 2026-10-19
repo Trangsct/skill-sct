@@ -119,6 +119,7 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 | Phương tiện | GCN kiểm định ATKT & BVMT | Còn hạn tại thời điểm cấp; ghi nhận hạn sớm nhất để cân nhắc khống chế thời hạn GP |
 | Phương tiện | GCN bảo hiểm; giấy chứng nhận bồn/xi téc (ĐLVN 05:2017) | Nếu có; xe bồn khí hóa lỏng/NH3 cần hồ sơ kiểm định bồn |
 | Phương tiện | Hợp đồng thuê xe (nếu xe không thuộc sở hữu) | Tên bên thuê/cho thuê, biển số xe khớp |
+| Phương tiện | Giấy phép còn hiệu lực đã cấp cho đơn vị khác (CSDL vlncn-laocai, PDF ký số) | Biển số không có tên trong Giấy phép còn hiệu lực của người vận tải khác; trùng thì xử lý theo nguyên tắc 28 (Bạn chốt 19/10/2026) |
 | Nhân sự | GPLX từng người | Hạng phù hợp loại xe (FC/CE với đầu kéo); còn hạn; số GPLX khớp bảng kê |
 | Nhân sự | CCCD/định danh | Không trùng số giữa hai người (lỗi thực tế đã gặp) |
 | Nhân sự | GCN tập huấn an toàn HHNH | Đúng nhóm hàng đề nghị; còn hạn; ghi chú nếu hết hạn trong thời hạn GP dự kiến |
@@ -161,3 +162,7 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 25. **Đưa lỗi chính tả nhỏ, khác biệt tên gọi hợp đồng, tuyến trong hợp đồng thuê lái xe dài hơn Phương án thành nội dung phải hoàn thiện.** Các điểm này không ảnh hưởng pháp lý, bỏ qua. Reference 16 mục 12.2.
 26. **Biên bản thẩm định viết dài, chép nguyên văn Điều 15 vào bảng thành phần hồ sơ, liệt kê mọi mốc hết hạn.** Dùng Mẫu 7 bản gọn. Nguyên tắc 26.
 27. **Bảng rộng hẹp khác nhau, tràn lề hoặc lệch cột giữa dòng tiêu đề và dòng dữ liệu.** Mọi bảng rộng đúng khổ chữ 9071 dxa. Nguyên tắc 27.
+
+### Bổ sung 19/10/2026 - lỗi thẩm định thường gặp (tiếp)
+
+28. **Không soát biển số với Giấy phép còn hiệu lực của đơn vị khác.** Vụ axit nitric Toàn Phát TQ (10/2026): 03 ô tô đầu kéo, 03 sơ mi rơ moóc, 04 container bồn đã có trong Giấy phép số 5216/GP-SCT ngày 24/8/2026 của đơn vị khác, chỉ phát hiện khi doanh nghiệp hỏi. Soát trùng ngay khi nhận hồ sơ. Nguyên tắc 28.

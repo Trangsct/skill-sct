@@ -40,3 +40,28 @@ Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-
 - Cách đúng: bỏ mục III; đánh giá chung kết bằng cam kết của UBND tỉnh; sửa đồng bộ công văn trình và phiếu trình mô tả bố cục.
 - Ví dụ: phiếu trình ghi "kiến nghị Thường trực Tỉnh ủy chỉ đạo được nêu ngay tại từng dự án, không lập mục đề xuất, kiến nghị riêng".
 - Máy kiểm: thủ công (GATE 0b dàn ý); Nhóm Q4.
+
+### L007 — 19/10/2026 — Đường kẻ dưới tên cơ quan, tiêu ngữ kẻ sai độ rộng
+- Lỗi: kẻ viền dưới ngay trong đoạn chữ, lề trái/phải tính theo số twips cố định không gắn với bề rộng ô; LibreOffice nhìn tạm được nhưng Word kẻ tràn rộng hơn chữ "Độc lập – Tự do – Hạnh phúc", kẻ dưới "SỞ CÔNG THƯƠNG" lệch.
+- Cách đúng: đoạn trống riêng có viền dưới, cỡ chữ 1 pt, lề hai bên = (bề rộng ô − chiều dài kẻ)/2; ô trái 6 cm kẻ ~2,3 cm, ô phải 10 cm kẻ ~5,6 cm (Nhóm R6).
+- Ví dụ: `build_bctl.py` hàm `ke(cell, after_par, cell_tw, line_tw)` (kccn-sct-vn ví dụ 2026-10-19).
+- Máy kiểm: thủ công — chụp trang 1 ở 110 dpi, so chiều dài kẻ với chữ; đề xuất R28 cho `qa_rules.py` (kiểm `w:ind` của đoạn có `w:pBdr` trong ô tiêu đề).
+
+### L008 — 19/10/2026 — Khối ký tách sang trang sau (lặp lại lỗi cũ ở báo cáo 48 trang)
+- Lỗi: bảng ký rơi sang trang mới, trang trước kết bằng câu kết và dòng trống.
+- Cách đúng: đoạn kết và dòng trống keep_with_next; hàng bảng ký cantSplit; mọi dòng trong ô Nơi nhận keep_with_next (Nhóm R7); kiểm ảnh hai trang cuối trước khi giao.
+- Ví dụ: báo cáo tổng hợp Sở 19/10/2026 trang 28–29 sau sửa liền nhau.
+- Máy kiểm: `qa_pdf_check.py` (trang cuối chỉ có khối ký → FAIL); kiểm thêm trang kế cuối kết bằng câu "./." mà không có bảng ký.
+
+### L009 — 19/10/2026 — Lùi đầu dòng lẫn ba kiểu trong một tài liệu
+- Lỗi: ghép nội dung từ ba lần dựng (docx-js, python-docx, chèn đoạn) nên 137 đoạn thụt lề trái 0,5 cm, 89 đoạn không lùi, 57 đoạn lùi 1 cm.
+- Cách đúng: trước khi xuất, quét mọi đoạn không căn giữa: left_indent 0, first_line_indent 1 cm, căn đều (Nhóm R5).
+- Ví dụ: tài liệu 7 dự án bản đầy đủ 19/10/2026 sau khi chuẩn hóa 291 đoạn.
+- Máy kiểm: đề xuất R29 cho `qa_rules.py` (đếm kiểu thụt đầu dòng của đoạn thân; >1 kiểu → WARN).
+
+### L010 — 18/10/2026 — Ghi mốc chốt số liệu thừa trong tài liệu chuẩn bị
+- Lỗi: tiêu đề phụ "(Số liệu đến ngày 17/10/2026…)", nhãn "Về GPMB (đến 16/10/2026)", "sản lượng đến 15/10/2026" trong tài liệu nội bộ chuẩn bị đón đoàn.
+- Cách đúng: bỏ mốc chốt, viết "đến nay"; chỉ giữ ngày của văn bản viện dẫn và mốc tiến độ (Nhóm R2). Bạn: "giai đoạn chuẩn bị báo cáo này không cần quá tính toán một vài ngày".
+- Ví dụ: "Về GPMB:" ; "sản lượng đến nay khoảng 286.000 tấn".
+- Máy kiểm: grep "số liệu đến ngày", "(đến \d\d/\d\d/20" trong tài liệu nội bộ → WARN (đề xuất gộp vào R29).
+

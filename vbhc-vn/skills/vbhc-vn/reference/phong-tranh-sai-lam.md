@@ -308,6 +308,23 @@ Câu tự nhủ bắt lỗi sớm:
 
 Tự bắt lỗi: *"Đảng ủy UBND tỉnh chỉ đạo Sở…" trong phần kiến nghị* → DỪNG, chuyển việc đó lên điểm c) "UBND tỉnh chỉ đạo", phần d) chỉ giữ việc của cấp ủy/HĐND/Trung ương. [Q3] — *"Thêm mục III Đề xuất, kiến nghị cho đủ bố cục"* → từng dự án đã có kiến nghị thì bỏ. [Q4] — *"Tiến độ đề xuất:"* → "Tiến độ hoàn thành:". [Q1]
 
+### Nhóm R — Tài liệu dài, báo cáo tổng hợp, tài liệu nội bộ chuẩn bị đón đoàn (Bạn chốt 18–19/10/2026 — tài liệu Giám đốc đón đoàn Thường trực Tỉnh ủy và báo cáo tổng hợp của Sở; mẫu thật `kccn-sct-vn/vi-du-thuc-te/2026-10-19-tai-lieu-giam-doc-ctr130/`, quy tắc `kccn-sct-vn` ref 49, mẫu 10)
+
+- **R1 Giữ khung của lãnh đạo**: khi Giám đốc gửi mẫu có nhãn (kể cả viết tắt SCT, STC, SNNMT, BQL DA, CAT, "Theo GCNĐT"), điền đúng nhãn, đúng thứ tự, không đổi tên nhãn, không thêm mục; "ngắn gọn" = mỗi nhãn một dòng, một ý; lỗi chép nhầm giữa các dự án trong mẫu thì sửa thẳng, không chú thích.
+- **R2 Không ghi mốc chốt số liệu** trong tài liệu chuẩn bị ("số liệu đến ngày 17/10", "đến 16/10/2026" ở nhãn GPMB) — "giai đoạn chuẩn bị không cần tính toán một vài ngày"; chỉ giữ ngày của văn bản viện dẫn và mốc tiến độ.
+- **R3 Mốc khởi công lấy theo báo cáo của cơ quan quản lý (BQL KKT)**, không theo chủ đầu tư, không bôi tím khi BQL đã nêu.
+- **R4 Ước số nội bộ**: ghi "(ước của Sở)" ngay sau số, không nêu định mức, không nêu cách tính trong file; có số của phòng chuyên môn hoặc chủ đầu tư thì thay ước. Dự án dùng nhiều lao động (giày da, may) không áp định mức theo ha.
+- **R5 Lùi đầu dòng thống nhất**: mọi đoạn thân lề trái 0, lùi đầu dòng 1 cm, căn đều; không để lẫn 3 kiểu (lùi 1 cm / thụt lề trái 0,5 cm / không lùi) khi ghép nội dung từ nhiều nguồn — quét lại toàn file trước khi xuất.
+- **R6 Đường kẻ dưới tên cơ quan và tiêu ngữ**: kẻ bằng đoạn trống riêng có viền dưới, thu lề trái/phải theo bề rộng ô thật (ô trái 6 cm, ô phải 10 cm): dưới tên cơ quan khoảng 2,3 cm, dưới tiêu ngữ bằng chiều dài chữ (~5,6 cm); không dùng số twips cố định tách rời bề rộng ô (Word sẽ kẻ tràn).
+- **R7 Khối ký không tách trang**: đoạn kết keep_with_next, dòng trống trước bảng ký keep_with_next, hàng bảng ký cantSplit, các dòng Nơi nhận keep_with_next; kiểm bằng ảnh hai trang cuối.
+- **R8 Phụ lục trong cùng file**: mỗi phụ lục một trang; tiêu đề "Phụ lục 0x" / TÊN / "(Kèm theo Báo cáo số: /BC-SCT ngày tháng … năm … của …)"; phụ biểu dạng bảng 10 cột cỡ 10, bề rộng cố định (tblLayout fixed + gridCol), không để bảng tràn sang trang chỉ còn ghi chú.
+- **R9 Mục có phụ lục vẫn phải có nội dung**: không để mục 6.2–6.6 chỉ còn tiêu đề + "(Phụ lục kèm theo)"; viết tóm tắt 1 đoạn và dẫn "(Chi tiết tại mục … Phụ lục 0x)".
+- **R10 Chữ tím và phiếu đề nghị**: chỗ thiếu số bôi tím, ghi rõ phòng nào cung cấp gì; xuất một phiếu nội bộ (bảng TT / Nội dung / Vị trí trong tài liệu / Nguồn) hạn trước hạn lãnh đạo 1 giờ; phòng bạn trả lại file thì diff, giữ nội dung họ, chỉ sửa chính tả, thể thức, không hỏi lại việc họ đã xóa.
+- **R11 Ký hiệu hóa học, số liệu**: P2O5 đặt chỉ số dưới bằng run subscript, không dùng ký tự Unicode ₂₅; số tiền lỗi đơn vị ("11.033.932.000 tỷ") sửa về đúng cấp (11,03 tỷ); không ghi "150.000 nghìn tỷ".
+- **R12 Tên trạm, công trình** lấy theo phòng chuyên môn (QLNL gọi "TBA 110 kV Nam Thành phố" thì đổi hết "Lào Cai 3" trong các bản trước), và thống nhất một con số cho một chỉ tiêu trong toàn bộ bộ tài liệu (tỷ lệ hộ dùng điện, số trạm 110 kV, XNK 9 tháng) — lệch thì bôi tím giao phòng chốt, không tự chọn.
+
+Tự bắt lỗi: *"Số liệu đến ngày 17/10/2026" trên tiêu đề phụ* → bỏ. [R2] — *"Khởi công Quý I/2027 (theo chủ đầu tư)" khi BQL ghi tháng 11/2026* → ghi tháng 11/2026 theo BQL. [R3] — *Đoạn nhãn "* Về Điện" thụt lề trái 0,5 cm còn đoạn khác lùi 1 cm* → quét lại toàn file. [R5] — *Đường kẻ dưới tiêu ngữ dài hơn chữ trong Word* → tính lại theo bề rộng ô. [R6]
+
 ### Checklist bắt buộc trước khi trình tham mưu
 ```
 ☐ Mọi số/ngày văn bản đều có nguồn cụ thể (không bịa)                              [A]
@@ -326,6 +343,7 @@ Tự bắt lỗi: *"Đảng ủy UBND tỉnh chỉ đạo Sở…" trong phần 
 ☐ Đã xác định vụ việc đang ở BƯỚC nào, văn bản gần nhất số mấy ngày nào; bước định đề nghị CHƯA thực hiện [M]
 ☐ Tên doanh nghiệp viết "Công ty TNHH" / "Công ty TNHH MTV", nhất quán toàn bộ hồ sơ            [O]
 ☐ Kế hoạch UBND tỉnh triển khai đề án, bài toán lớn: không nhắc tên văn bản cấp tỉnh cũ trong thân; không câu ghi chú làm việc; chỉ tiêu phấn đấu đồng bộ; việc ngoài thẩm quyền ghi "đề xuất"; Nơi nhận theo vị thế [P]
+☐ Tài liệu dài: lùi đầu dòng 1 cm thống nhất; kẻ tiêu đề theo bề rộng ô; khối ký không tách trang; không "số liệu đến ngày"; mốc khởi công theo BQL; ước ghi "(ước của Sở)" [R]
 ☐ Đã ghi rõ phần nào "cần xác minh trước khi ký"
 ```
 Một ô không tick được → BÁO LẠI người dùng, không tự bịa/suy đoán.

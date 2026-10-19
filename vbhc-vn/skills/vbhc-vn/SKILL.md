@@ -169,7 +169,7 @@ Yêu cầu "chỉ lần này" không thành quy tắc — ghi vào tệp trạng
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
-## Phòng tránh 17 nhóm sai lầm tham mưu A–Q (luôn áp dụng)
+## Phòng tránh 18 nhóm sai lầm tham mưu A–R (luôn áp dụng)
 
 Áp dụng cho mọi việc soạn / rà soát / góp ý / tham mưu, không chỉ khi tạo .docx.
 **Chi tiết từng nhóm, vụ thật và checklist: `reference/phong-tranh-sai-lam.md`** — đọc file đó
@@ -194,6 +194,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **O** Tên doanh nghiệp (20/9/2026) | Luôn viết **"Công ty TNHH" / "Công ty TNHH MTV"**, không viết "Công ty trách nhiệm hữu hạn" — kể cả khi giấy đăng ký doanh nghiệp, giấy đề nghị của DN hay văn bản cơ quan khác viết đủ chữ; nhất quán trong cả bộ hồ sơ | — (loại N) |
 | **P** Kế hoạch UBND tỉnh triển khai đề án, bài toán lớn (04/10/2026; chuyển từ PR 116 ngày 18/10/2026) | Bám đề bài nhưng **không nhắc tên văn bản cấp tỉnh cũ trong thân**, căn cứ rút gọn; **bỏ câu ghi chú làm việc** ("không đặt ra chỉ tiêu mới…", "không trùng lặp bài toán khác"); chỉ tiêu phụ thuộc doanh nghiệp, Trung ương ghi **phấn đấu** đồng bộ; việc ngoài thẩm quyền tỉnh là "đề xuất", tiêu chí là "định hướng"; không đặt điều kiện tự chặn mục tiêu; mục đích, yêu cầu 4 ý theo mẫu kế hoạch đã duyệt; thứ tự nội dung bám đề bài; giao đúng Ban Quản lý theo địa bàn | R14, R24, R25; còn lại loại N |
 | **Q** Báo cáo của UBND tỉnh gửi Tỉnh ủy (17/10/2026) | Giọng toàn bài là **UBND tỉnh**; hướng giải quyết viết "UBND tỉnh chỉ đạo: …" cho việc thuộc thẩm quyền mình; **phần kiến nghị chỉ gồm việc của cấp ủy xã, Đảng đoàn HĐND, chủ trương lớn, Trung ương — cấm "Đảng ủy UBND tỉnh chỉ đạo Sở…"**; từng dự án đã có kiến nghị thì không mục III riêng; "Tiến độ hoàn thành" không "đề xuất"; CCN thành lập ghi QĐ, không ghi nghị quyết; rà bài phát biểu Chủ tịch/Bí thư: bài Bí thư không mạnh hơn cam kết Chủ tịch, soi câu bất lợi cho Sở | — (loại N); sổ lỗi L004–L006 |
+| **R** Tài liệu dài, báo cáo tổng hợp, tài liệu nội bộ đón đoàn (18–19/10/2026) | Giữ nguyên khung và nhãn của lãnh đạo, "ngắn gọn" = mỗi nhãn một dòng; **không ghi "số liệu đến ngày"**; mốc khởi công theo BQL KKT; ước số ghi "(ước của Sở)" không nêu cách; lùi đầu dòng 1 cm thống nhất toàn file; kẻ dưới tên cơ quan, tiêu ngữ tính theo bề rộng ô; khối ký cantSplit + keep_with_next; phụ lục cùng file mỗi phụ lục một trang; mục có phụ lục vẫn viết tóm tắt; chỗ thiếu bôi tím + phiếu đề nghị phòng; file phòng bạn trả lại thì diff, giữ nội dung họ | — (loại N); sổ lỗi L007–L010 |
 
 ## Đọc PDF văn bản đến — trích metadata chính xác
 
@@ -224,7 +225,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `quy-tac-bat-bien.md` | Soạn văn bản mới, hoặc QA báo lỗi chưa rõ quy tắc gốc — đủ 27 quy tắc kèm lý do và vụ thật |
 | `the-thuc-van-phong.md` | Băn khoăn quy cách thể thức, ký hiệu, tên file; loại có quy ước riêng; VBQPPL |
 | `quy-trinh-hai-che-do.md` | Chọn Chế độ A hay B; cú pháp `TemplateDoc`; quy trình unpack-sửa-pack; quy tắc tốc độ |
-| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 16 nhóm A–P, checklist, vụ thật |
+| `phong-tranh-sai-lam.md` | Trước khi trình ký — chi tiết 18 nhóm A–R, checklist, vụ thật |
 | `thu-vien-mau-that.md` | Chọn mẫu thật cho Chế độ B — bảng mẫu ↔ loại VB ↔ người ký |
 | `templates-chi-tiet.md` | Chế độ A — cấu trúc paragraph/table từng template 01–09 |
 | `bao-cao-dinh-ky-phong-qlcn.md` | Báo cáo tháng/quý/9 tháng của Phòng, phụ biểu giao ban, bài phát biểu Trưởng phòng |

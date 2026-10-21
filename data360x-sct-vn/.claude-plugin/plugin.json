@@ -1,7 +1,7 @@
 {
   "name": "data360x-sct-vn",
-  "version": "1.2.0",
-  "description": "Cánh tay của Claude vào Data360X (csdlvb.laocai.gov.vn) - Sở Công Thương Lào Cai: tra kho văn bản đi/đến đã gom (theo-doi/ kho riêng tư vlncn-laocai), sai bot trên máy cơ quan vào Data360X lấy đúng văn bản đang cần (số ký hiệu, từ khóa), quét mới, tìm văn bản viện dẫn của dự thảo; chờ kết quả rồi đọc tiếp trong cùng phiên. Từ 30/9/2026: ghi yêu cầu vào hàng đợi yeu-cau/ cho tiến trình TAY trên máy (không cần runner). Kèm script tra kho, gọi bot; quy tắc không bịa số/ngày.",
+  "version": "1.3.0",
+  "description": "Cánh tay của Claude vào hệ thống văn bản đi/đến Sở Công Thương Lào Cai: Data360X (đến 10/10/2026), EGOV egov1.laocai.gov.vn (từ 10/10/2026). Tra kho theo-doi/ (kho riêng tư vlncn-laocai), sai bot trên máy ở Lào Cai lấy văn bản theo số ký hiệu/từ khóa, quét mới, tìm văn bản viện dẫn; hàng đợi yeu-cau/ cho TAY. Văn bản sau 10/10/2026 chưa có trong kho tới khi bot EGOV chạy - không kết luận 'không có'. Không bịa số/ngày.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },
@@ -13,6 +13,7 @@
     "bot-may-co-quan",
     "github-actions",
     "theo-doi",
-    "lay-van-ban"
+    "lay-van-ban",
+    "egov"
   ]
 }

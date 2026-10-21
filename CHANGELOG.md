@@ -1,3 +1,9 @@
+## 21/10/2026 — data360x-sct-vn 1.3.0: từ 10/10/2026 văn bản đi, đến nằm trên EGOV
+
+- Bạn báo 21/10/2026: từ 10/10/2026 văn bản của Sở chuyển sang nền tảng chính quyền số EGOV (`egov1.laocai.gov.vn`), Data360X dừng ở lượt quét 10/10.
+- **data360x-sct-vn 1.3.0**: khối cảnh báo đầu `SKILL.md` (kho `theo-doi/` dừng ở 10/10/2026, văn bản sau đó chưa có — không kết luận "không có"); ref 03 mục 7 (công cụ soi EGOV `egov_soi.py` + `soi-egov.bat` ở kho `ccn-laocai` PR #113, kết quả `vlncn-laocai/theo-doi/egov/soi/`; bot EGOV giữ nguyên đầu ra cũ).
+- `scripts/check_facts.py`: rule `data360x-sau-10-10-2026-la-egov` (WARN).
+
 ## 19/10/2026 (đợt 3) — hnh-sct-vn 1.17.0: không cấp trùng phương tiện cho các đơn vị khác nhau
 
 - **Nguyên tắc 28 (ref 19) mới:** KHÔNG cấp trùng phương tiện cho các đơn vị khác nhau (Bạn chốt 19/10/2026). Một phương tiện chỉ có tên trong Giấy phép còn hiệu lực của một người vận tải; soát biển số với mọi Giấy phép còn hiệu lực ngay khi nhận hồ sơ; trùng thì đề nghị đơn vị nộp sau bỏ phương tiện trùng, hoặc đơn vị đang có Giấy phép làm thủ tục điều chỉnh trước; Sở không tự rút phương tiện khỏi Giấy phép đã cấp; văn bản gửi doanh nghiệp viết theo dữ kiện, không viết như thể Nghị định 161/2024 cấm; Biên bản ghi kết quả soát trùng. Tiền lệ: hồ sơ axit nitric Toàn Phát TQ trùng 03 đầu kéo, 03 sơ mi rơ moóc, 04 container bồn với Giấy phép số 5216/GP-SCT ngày 24/8/2026.

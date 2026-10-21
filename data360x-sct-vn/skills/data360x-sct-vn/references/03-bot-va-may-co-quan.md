@@ -72,3 +72,19 @@ người vào code), mở PR, merge; máy tự lấy bản mới ở lượt sau
   hoặc cổng đổi) — xem mục 5.
 - Đường dự phòng vẫn giữ trong `tai_dinh_kem`: URL trần từ JSON (hiện 400), URL có sẵn trong HTML, quét lân cận
   attachId ±24 theo tên trong content-disposition.
+
+## 7. Chuyển sang EGOV (từ 10/10/2026, Bạn báo 21/10/2026)
+
+- **Nguồn mới:** nền tảng chính quyền số EGOV của tỉnh, `https://egov1.laocai.gov.vn/home/default/1`. Data360X
+  (`csdlvb.laocai.gov.vn`) dừng ở lượt quét 10/10/2026 (738 văn bản đi + đến từ 28/9); giữ lại làm nơi tra văn bản cũ.
+- **Claude không vào được egov1** từ máy chủ nước ngoài (cổng chặn, giống Data360X) → mọi thao tác trên EGOV đi qua máy ở
+  Lào Cai, với phiên Bạn tự đăng nhập. Không tự đăng nhập, không giải mã xác thực, không bấm nút thao tác hồ sơ.
+- **Bước 1 — soi (đã có từ 21/10/2026):** `scripts/egov_soi.py` + `bot/soi-egov.bat` (kho `ccn-laocai`, PR #113). Bạn chạy
+  một lần (dòng PowerShell ở đầu `bot/HUONG-DAN-CAI-BOT.md`): bot tự đi theo liên kết menu Văn bản đến/đi, mở thử văn bản đầu
+  bảng, rồi Bạn tự bấm 10 phút (mở văn bản, xem đính kèm, mục Chờ xử lý, ô tìm kiếm). Kết quả ở kho riêng tư
+  `vlncn-laocai/theo-doi/egov/soi/<ngày-giờ>/`: `README.md` (trang đã qua, khuôn API), `trang.json` (menu, bảng, ô nhập),
+  `api.jsonl` (từng yêu cầu, mẫu phản hồi cắt ngắn), `trang/*.html`, `anh/*.jpg`. Mã phiên, mật khẩu, cookie đã che.
+- **Bước 2 — bot EGOV (chưa làm):** đọc kết quả soi, viết phần đọc danh sách văn bản đến/đi, tải đính kèm, việc chờ xử lý;
+  đầu ra giữ nguyên (`theo-doi/danh-muc-<năm>.json`, `bao-cao/<ngày>.md`, `inbox/`, `yeu-cau/<ten>/`), nên quy tắc và
+  script tra kho của plugin này không phải đổi. Khi bot EGOV chạy, trường `url_chi_tiet` sẽ trỏ về egov1.
+

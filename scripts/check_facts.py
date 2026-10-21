@@ -635,6 +635,15 @@ RULES = [
         "level": "WARN",
         "only": ["hnh-sct-vn"],
     },
+    {
+        "id": "data360x-sau-10-10-2026-la-egov",
+        # Bạn báo 21/10/2026: từ 10/10/2026 văn bản đi, đến của Sở nằm trên EGOV (egov1.laocai.gov.vn); Data360X dừng ở lượt quét 10/10.
+        # Dòng mô tả dây chuyền Data360X như đang chạy hằng ngày/hằng tuần mà không nhắc EGOV hay mốc 10/10 thì nhắc rà lại.
+        "pattern": r"^(?!.*(?:EGOV|egov1|10/10/2026|lịch sử|trước ngày)).*Data360X[^\n]{0,80}(?:hằng ngày|hằng tuần|mỗi tuần|mỗi ngày|18h)",
+        "why": "Từ 10/10/2026 văn bản mới nằm trên EGOV (egov1.laocai.gov.vn), Data360X dừng ở lượt quét 10/10/2026 (Bạn báo 21/10/2026); dây chuyền Data360X không còn chạy hằng ngày/hằng tuần.",
+        "since": "2026-10-21",
+        "level": "WARN",
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

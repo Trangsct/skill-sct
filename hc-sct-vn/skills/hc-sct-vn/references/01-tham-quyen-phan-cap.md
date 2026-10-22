@@ -50,7 +50,7 @@ Tổ chức đã được **UBND cấp tỉnh** cấp GP nhóm 2 còn hiệu l�
 
 Thẩm quyền pháp lý của tất cả TTHC mục 2a là của **UBND cấp tỉnh**. Ai ký thực tế phụ thuộc **Quyết định ủy quyền của UBND tỉnh Lào Cai cho Giám đốc Sở Công Thương**:
 
-- **Nếu đã ủy quyền** → Giám đốc Sở ký (dùng dấu, thể thức của Sở); phân công nội bộ: lĩnh vực hóa chất do **PGĐ Nguyễn Đình Chiến** ký thay (từ 05/10/2026, QĐ 6286/QĐ-SCT; trước đó PGĐ Thuân) (KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC) đối với cấp phép, thẩm định thường lệ.
+- **Nếu đã ủy quyền** → Giám đốc Sở ký (dùng dấu, thể thức của Sở); phân công nội bộ: lĩnh vực hóa chất do **PGĐ Nguyễn Đình Chiến** ký thay (từ 05/10/2026, QĐ 6320/QĐ-SCT; trước đó PGĐ Thuân) (KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC) đối với cấp phép, thẩm định thường lệ.
 - **Nếu chưa ủy quyền** → Sở thẩm định, lập **Tờ trình + dự thảo GCN/GP/QĐ trình Chủ tịch UBND tỉnh ký**.
 
 ⚠️ **Đến 10/2026 UBND tỉnh CHƯA ban hành Quyết định ủy quyền cho Giám đốc Sở về hóa chất.** Hồ sơ trình UBND tỉnh ban hành Quyết định ủy quyền chung (xuất nhập khẩu, thương mại quốc tế, đa cấp, hóa chất, VLNCN) theo Văn bản 9730/UBND-KT ngày 24/9/2026 đang xin ý kiến các sở, ngành (ref 16) — dự thảo 08/10/2026 **đã gồm** các nhiệm vụ mới về tỉnh theo NQ 19/TT 26 (mục 40 GP XNK nhóm 1, nhóm 2; mục 42 GP nhập khẩu hóa chất cấm; mục 43 GCN dịch vụ tồn trữ cơ sở lớn; thời hạn đến hết 31/12/2030), chỉ cần sửa số khoản Điều 24 TT 26 trong cột căn cứ (ref 18 mục 1). Thực tiễn vụ HNO3 (4/2026, ref 16): CV từ chối ghi *"Sở Công Thương không có đủ cơ sở tham mưu Ủy ban nhân dân tỉnh cấp"* → Sở tham mưu, **Chủ tịch UBND tỉnh ký**. Khi Quyết định ủy quyền được ban hành → cập nhật số, ngày, phạm vi vào đây và ref 16; trước đó **hỏi Bạn** để chốt người ký, không tự điền, không bịa số QĐ ủy quyền.
@@ -59,7 +59,7 @@ Thẩm quyền pháp lý của tất cả TTHC mục 2a là của **UBND cấp t
 
 - Hóa chất → chuyên viên tham mưu **Nguyễn Thị Loan** (kiêm phòng chống thiên tai) → dòng Lưu: **`Lưu: VT, CN`**.
 - **Phân tầng duyệt nội bộ phòng:** CN Loan → **TP Nguyễn Hữu Long** duyệt (hóa chất KHÔNG thuộc phân công trực tiếp của PTP Trang) → trình PGĐ phụ trách. PTP **Trần Trọng Trang** chỉ ký thay/kiêm duyệt hóa chất **khi cán bộ phụ trách vắng**.
-- PGĐ phụ trách hóa chất: **Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6286/QĐ-SCT; trước đó Hoàng Văn Thuân — lịch sử) — ký KT.GĐ các báo cáo, công văn, cấp phép thường lệ lĩnh vực hóa chất; khi Chiến vắng → PGĐ Nguyễn Trường Giang.
+- PGĐ phụ trách hóa chất: **Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6320/QĐ-SCT; trước đó Hoàng Văn Thuân — lịch sử) — ký KT.GĐ các báo cáo, công văn, cấp phép thường lệ lĩnh vực hóa chất; khi Chiến vắng → PGĐ Nguyễn Trường Giang.
 - **Tờ trình, kế hoạch, chủ trương** → trình trực tiếp **GĐ Hoàng Chí Hiền**.
 
 ## 6. Mã TTHC

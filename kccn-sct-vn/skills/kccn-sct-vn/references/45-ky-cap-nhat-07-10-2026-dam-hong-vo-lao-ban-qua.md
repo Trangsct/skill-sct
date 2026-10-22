@@ -58,7 +58,7 @@ Căn cứ: Luật Tổ chức chính quyền địa phương 16/6/2025; **NĐ 35
 
 **Nhiệm vụ (Điều 2):** (1) tham mưu UBND tỉnh chỉ đạo, phối hợp liên ngành; (2) đẩy nhanh lập, thẩm định, phê duyệt quy hoạch phân khu, thủ tục chấp thuận CTĐT, lựa chọn NĐT hạ tầng; (3) bồi thường, hỗ trợ, TĐC, GPMB, tạo quỹ đất sạch; (4) tháo gỡ đất đai, quy hoạch, xây dựng, môi trường, PCCC, cấp điện, cấp nước, hạ tầng kết nối; (5) xúc tiến NĐT hạ tầng và thứ cấp, KCN xanh, sinh thái; (6) theo dõi, đánh giá, sơ kết, báo cáo Tỉnh ủy, UBND tỉnh; (7) Trưởng ban ký Quy chế do BQL KKT trình; (8) **BQL KKT là cơ quan thường trực**, chủ trì lập Tổ giúp việc; (9) kinh phí trong dự toán chi thường xuyên của BQL KKT; (10) kiêm nhiệm, dùng con dấu cơ quan nơi công tác.
 
-**Vai trò của Sở:** QĐ do **Giám đốc Sở Công Thương đề nghị** (QLNN KCN ở Trung ương nay thuộc Bộ Công Thương theo NQ 66.25/2026 — ref 29); **PGĐ Nguyễn Đình Chiến là thành viên** (khớp phân công QĐ 6286/QĐ-SCT: PGĐ Chiến phụ trách Phòng QLCN). Sở không phải cơ quan thường trực — tài liệu họp, quy chế, tổng hợp do BQL KKT chủ trì; Sở góp ý phần ngành công nghiệp, thu hút thứ cấp, cấp điện.
+**Vai trò của Sở:** QĐ do **Giám đốc Sở Công Thương đề nghị** (QLNN KCN ở Trung ương nay thuộc Bộ Công Thương theo NQ 66.25/2026 — ref 29); **PGĐ Nguyễn Đình Chiến là thành viên** (khớp phân công QĐ 6320/QĐ-SCT: PGĐ Chiến phụ trách Phòng QLCN). Sở không phải cơ quan thường trực — tài liệu họp, quy chế, tổng hợp do BQL KKT chủ trì; Sở góp ý phần ngành công nghiệp, thu hút thứ cấp, cấp điện.
 
 Ban Chỉ đạo khác (để không nhầm): QĐ 3117/QĐ-UBND ngày 27/8/2026 — BCĐ phát triển các KCN do BQL các KCN quản lý (ref 30); BCĐ KCN Phú Xuân, Phú Xuân 1, Cam Đường do PCT Phan Trung Bá làm Trưởng ban (ref 15, 17).
 

@@ -39,7 +39,7 @@ VBHN 49/VBHN-BNNMT,VBHN,1,2,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 VBHN 63/VBHN-BNNMT,VBHN,1,2,qlks-sct-vn,,,,,,,
 VBHN 63/VBHN-VPQH,VBHN,1,3,xp-sct-vn,,,,,,,
 VBHN 64/VBHN-BNNMT,VBHN,1,1,qlks-sct-vn,,,,,,,
-VBHN 78/VBHN-VPQH,VBHN,3,10,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,
+VBHN 78/VBHN-VPQH,VBHN,3,9,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,hl-vlncn-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn;xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,
 NĐ 112/2026,NĐ,1,10,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 NĐ 133/2026,NĐ,2,16,atvsld-sct-vn;xp-sct-vn,xp-sct-vn,06/04/2026,25/5/2026,,,,Xử phạt điện lực — QLNL; hiệu lực máy trích từ ND-133-2026-NDCP-xu-phat-dien-luc.txt
 NĐ 14/2026,NĐ,2,3,kho-vlncn-sct-vn;xd-sct-vn,bvmt-sct-vn;hnh-sct-vn;kccn-sct-vn;xd-sct-vn,,,,,,
@@ -97,7 +97,7 @@ NĐ 140/2025,NĐ,3,22,kho-vlncn-sct-vn;tkm-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NĐ 144/2025,NĐ,3,21,kho-vlncn-sct-vn;tkm-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NĐ 145/2025,NĐ,1,2,kccn-sct-vn,,,,,,,
 NĐ 146/2025,NĐ,6,77,attp-sct-vn;hc-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,dat-dai-sct-vn;hc-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,12/06/2025,01/7/2025,,,,"Sửa NĐ 181/2024 (phân cấp, phân quyền); Đ24; k5 Đ37 ATTP; hiệu lực máy trích từ ND-146-2025-phan-quyen-phan-cap.txt"
-NĐ 150/2025,NĐ,2,11,qlks-sct-vn;sct-laocai-org-vn,,12/6/2025,,NĐ 370/2025,,,"Tổ chức cơ quan chuyên môn UBND tỉnh, xã — Điều 8 chức năng khoáng sản của Sở chuyển sang Sở CT theo NQ 66.25 (15/9/2026)"
+NĐ 150/2025,NĐ,2,12,qlks-sct-vn;sct-laocai-org-vn,,12/6/2025,,NĐ 370/2025,,,"Tổ chức cơ quan chuyên môn UBND tỉnh, xã — Điều 8 chức năng khoáng sản của Sở chuyển sang Sở CT theo NQ 66.25 (15/9/2026)"
 NĐ 151/2025,NĐ,1,31,dat-dai-sct-vn,dat-dai-sct-vn,12/6/2025,01/7/2025 → trước 01/3/2027,NĐ 226/2025; NĐ 49/2026 (31/01/2026),,,"Phân định thẩm quyền đất đai; Điều 5 và Phụ lục II (trừ mẫu 14, 14a-14đ, 28-43) hết hiệu lực từ 31/01/2026"
 NĐ 165/2025,NĐ,2,4,attp-sct-vn;bvmt-sct-vn,,,,,,,
 NĐ 169/2025,NĐ,2,3,pccc-sct-vn;sd-vlncn-sct-vn,,,,,,,
@@ -128,7 +128,7 @@ NĐ 320/2025,NĐ,1,3,kccn-sct-vn,,,,,,,
 NĐ 33/2025,NĐ,1,1,qlks-sct-vn,,,,,,,
 NĐ 35/2025,NĐ,1,1,qlks-sct-vn,,,,,,,
 NĐ 356/2025,NĐ,1,1,sd-vlncn-sct-vn,,,,,,,
-NĐ 370/2025,NĐ,2,5,qlks-sct-vn;sct-laocai-org-vn,,,,,,,
+NĐ 370/2025,NĐ,2,6,qlks-sct-vn;sct-laocai-org-vn,,,,,,,
 NĐ 371/2025,NĐ,1,1,attp-sct-vn,,,,,,,
 NĐ 40/2025,NĐ,3,5,qlks-sct-vn;sct-laocai-org-vn;tkm-sct-vn,,,,,,,
 NĐ 5/2025,NĐ,2,15,bvmt-sct-vn;kccn-sct-vn,,,,,,,
@@ -203,7 +203,7 @@ NĐ 152/2020,NĐ,1,1,atvsld-sct-vn,,,,,,,
 NĐ 17/2020,NĐ,1,16,attp-sct-vn,xp-sct-vn,,,,,,
 NĐ 23/2020,NĐ,1,2,qlks-sct-vn,,,,,,,
 NĐ 24/2020,NĐ,1,1,attp-sct-vn,xp-sct-vn,,,,,,
-NĐ 30/2020,NĐ,12,43,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,vbhc-vn,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC; bản gốc Word+PDF vbhc-vn/van-ban-goc/2020.03.05-30.2020.ND.CP-Cong-tac-van-thu (nạp 18/10/2026)
+NĐ 30/2020,NĐ,13,44,attp-sct-vn;bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;qlks-sct-vn;sct-laocai-org-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-hc-vlncn-sct-vn,vbhc-vn,05/3/2020,05/3/2020,,,,Công tác văn thư — thể thức VBHC; bản gốc Word+PDF vbhc-vn/van-ban-goc/2020.03.05-30.2020.ND.CP-Cong-tac-van-thu (nạp 18/10/2026)
 NĐ 36/2020,NĐ,3,45,atvsld-sct-vn;qlks-sct-vn;xp-sct-vn,xp-sct-vn,24/3/2020,10/5/2020,NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước),,Dự thảo NĐ thay thế (3/2026),"Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
 NĐ 42/2020,NĐ,1,5,hnh-sct-vn,,,,,,,
 NĐ 45/2020,NĐ,1,1,kccn-sct-vn,,,,,,,
@@ -284,7 +284,7 @@ TT 39/2026,TT,3,5,attp-sct-vn;kho-vlncn-sct-vn;xd-sct-vn,bvmt-sct-vn;xd-sct-vn,,
 TT 4/2026,TT,1,28,qlks-sct-vn,bvmt-sct-vn,,,,,,
 TT 48/2026,TT,1,4,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 TT 5/2026,TT,1,1,qlks-sct-vn,bvmt-sct-vn;dacn-sct-vn;hnh-sct-vn;qlks-sct-vn,,,,,,
-TT 50/2026,TT,2,13,dacn-sct-vn;sct-laocai-org-vn,dat-dai-sct-vn;sct-laocai-org-vn,,,,,,
+TT 50/2026,TT,2,14,dacn-sct-vn;sct-laocai-org-vn,dat-dai-sct-vn;sct-laocai-org-vn,,,,,,
 TT 55/2026,TT,1,18,kccn-sct-vn,,,,,,,
 TT 62/2026,TT,1,1,sd-vlncn-sct-vn,,,,,,,
 TT 63/2026,TT,1,15,attp-sct-vn,attp-sct-vn,30/9/2026,15/11/2026,,,,"TT-BCT cơ sở dữ liệu thực phẩm, truy xuất nguồn gốc; thay TT 11/2026/TT-BCT ngày 27/02/2026 (mã TT 11/2026 trùng TT-BNNMT, TT-BXD nên không ghi cột thay thế); bản gốc attp-sct-vn/van-ban-goc, ref 12"
@@ -303,7 +303,7 @@ TT 33/2025,TT,1,1,qlks-sct-vn,,,,,,,
 TT 34/2025,TT,1,1,qlks-sct-vn,kccn-sct-vn,,,,,,
 TT 35/2025,TT,1,1,qlks-sct-vn,,,,,,,
 TT 36/2025,TT,2,53,pccc-sct-vn;qlks-sct-vn,qlks-sct-vn,,,,,,
-TT 37/2025,TT,4,18,kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;sct-laocai-org-vn,,,,,,,
+TT 37/2025,TT,4,19,kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;sct-laocai-org-vn,,,,,,,
 TT 38/2025,TT,9,114,attp-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kho-vlncn-sct-vn;mau-dgrr-khuc-vlncn;pccc-sct-vn;qlks-sct-vn;sd-vlncn-sct-vn;vbhc-vn,bvmt-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn,,,,,,
 TT 39/2025,TT,1,1,qlks-sct-vn,,,,,,,
 TT 40/2025,TT,1,9,qlks-sct-vn,,,,,,,
@@ -381,8 +381,10 @@ TT 3/2009,TT,1,3,tkm-sct-vn,,,,,,,
 TT 40/2009,TT,1,1,tkm-sct-vn,,,,,,,
 TT 3/2007,TT,1,8,tkm-sct-vn,,,,,,,
 QĐ 6478/QĐ-SCT,QĐ,1,1,sct-laocai-org-vn,,,,,,,
-QĐ 6286/QĐ-SCT,QĐ,16,68,bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-sct-vn,,,,,,,
+QĐ 6320/QĐ-SCT,QĐ,16,69,bvmt-sct-vn;dacn-sct-vn;hc-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;tkm-sct-vn;vbhc-vn;xd-sct-vn;xp-sct-vn,,06/10/2026,06/10/2026,,,,"Phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc (GĐ + 6 PGĐ); GĐ Hoàng Chí Hiền ký; thay QĐ 766/QĐ-SCT; đối chiếu bản gốc 22/10/2026"
+QĐ 6286/QĐ-SCT,QĐ,1,5,sct-laocai-org-vn,,05/10/2026,,,,,"Ban hành Quy chế làm việc của Sở Công Thương (số, ngày theo căn cứ của QĐ 6320/QĐ-SCT; chưa có bản gốc) — KHÔNG phải QĐ phân công BGĐ"
 QĐ 6231/QĐ-SCT,QĐ,2,6,qlks-sct-vn;sct-laocai-org-vn,,,,,,,
+QĐ 6226/QĐ-SCT,QĐ,2,17,attp-sct-vn;sct-laocai-org-vn,,02/10/2026,02/10/2026,,,,"Quy định CNNV Văn phòng và 5 phòng chuyên môn (thêm Phòng Quản lý khoáng sản, Điều 6); GĐ Hoàng Chí Hiền ký; thay QĐ 59/QĐ-SCT; đối chiếu bản gốc 22/10/2026 (sct-laocai-org-vn ref 01)"
 QĐ 5116/QĐ-SCT,QĐ,7,24,atvsld-sct-vn;bvmt-sct-vn;kccn-sct-vn;pccc-sct-vn;quy-hoach-ct-vn;vbhc-vn;xp-sct-vn,xp-sct-vn,20/8/2026,20/8/2026,,,,Giao PTP phụ trách khoáng sản + CV QLCN lập biên bản VPHC khoáng sản — bản ký số xp-sct-vn/van-ban-goc/khoang-san
 QĐ 4875/QĐ-SCT,QĐ,2,5,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,,
 QĐ 3881/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
@@ -411,7 +413,7 @@ QĐ 3116/QĐ-UBND,QĐ,1,4,kccn-sct-vn,,27/08/2026,,,,,nguồn Data360X https://c
 QĐ 3105/QĐ-UBND,QĐ,2,2,ho-so-sct-vn;kccn-sct-vn,,27/08/2026,,,,,"nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17294551; chưa kiểm ngày hiệu lực; V/v phê duyệt chủ trương đầu tư dự án Khu tái định cư Phú Xuân, xã Gia Phú, tỉnh Lào Cai"
 QĐ 2978/QĐ-UBND,QĐ,1,4,kccn-sct-vn,kccn-sct-vn,21/08/2026,,,,,nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17221870; chưa kiểm ngày hiệu lực; Ban hành Quyết định chấp thuận điều chỉnh chủ trương đầu tư Dự án đầu tư xây dựng và kinh 
 QĐ 2872/QĐ-SCT,QĐ,2,4,xp-hc-vlncn-sct-vn;xp-sct-vn,,,,,,,
-QĐ 2867/QĐ-UBND,QĐ,5,40,hl-vlncn-sct-vn;ho-so-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn;vbhc-vn,sd-vlncn-sct-vn,17/8/2026,20/8/2026 → 28/02/2027,,,,"Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT; PGĐ Thuân ký đến 04/10/2026, từ 05/10/2026 PGĐ Chiến theo QĐ 6286/QĐ-SCT); không gồm thu hồi GP, phê duyệt PANM"
+QĐ 2867/QĐ-UBND,QĐ,5,40,hl-vlncn-sct-vn;ho-so-sct-vn;kho-vlncn-sct-vn;sd-vlncn-sct-vn;vbhc-vn,sd-vlncn-sct-vn,17/8/2026,20/8/2026 → 28/02/2027,,,,"Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT; PGĐ Thuân ký đến 04/10/2026, từ 05/10/2026 PGĐ Chiến theo QĐ 6320/QĐ-SCT); không gồm thu hồi GP, phê duyệt PANM"
 QĐ 2848/QĐ-UBND,QĐ,4,41,hnh-sct-vn;ho-so-sct-vn;sd-vlncn-sct-vn;xp-sct-vn,hnh-sct-vn,14/8/2026,14/8/2026,,,,"Sửa QĐ 1696 — mở rộng uỷ quyền cấp GP vận chuyển HHNH (7 loại, GĐ Sở ký); hiệu lực máy trích từ QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.txt"
 QĐ 2806/QĐ-UBND,QĐ,1,1,qlks-sct-vn,,,,,,,
 QĐ 2797/QĐ-SCT,QĐ,1,11,hl-vlncn-sct-vn,,,,,,,
@@ -483,7 +485,7 @@ QĐ 41/2025/QĐ-UBND,QĐ,1,1,dat-dai-sct-vn,,,,,,,
 QĐ 45/2025/QĐ-UBND,QĐ,1,1,dat-dai-sct-vn,,,,,,,
 QĐ 47/2025/QĐ-UBND,QĐ,1,1,dat-dai-sct-vn,,,,,,,
 QĐ 5/2025/QĐ-PD,QĐ,1,2,sd-vlncn-sct-vn,,,,,,,
-QĐ 5/2025/QĐ-UBND,QĐ,9,21,attp-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;pccc-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;tkm-sct-vn;xp-sct-vn,,01/7/2025,01/7/2025,,,,"Chức năng, nhiệm vụ, cơ cấu tổ chức Sở Công Thương"
+QĐ 5/2025/QĐ-UBND,QĐ,9,19,attp-sct-vn;hl-vlncn-sct-vn;hnh-sct-vn;kccn-sct-vn;pccc-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn;tkm-sct-vn;xp-sct-vn,,01/7/2025,01/7/2025,,,,"Chức năng, nhiệm vụ, cơ cấu tổ chức Sở Công Thương"
 QĐ 5/2025/QĐ-UNBD,QĐ,1,1,sd-vlncn-sct-vn,,,,,,,
 QĐ 58/2025/QĐ-UBND,QĐ,1,2,xd-sct-vn,,,,,,,
 QĐ 59/2025/QĐ-UBND,QĐ,2,3,bvmt-sct-vn;dat-dai-sct-vn,,,,,,,
@@ -611,7 +613,7 @@ QĐ 346/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 369/QĐ-TTG,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 39/QĐ-HĐTV,QĐ,1,2,bvmt-sct-vn,bvmt-sct-vn,,,,,,
 QĐ 4/QĐ-CTY,QĐ,1,1,sd-vlncn-sct-vn,bvmt-sct-vn;quy-hoach-ct-vn,,,,,,
-QĐ 4/QĐ-SCT,QĐ,2,5,sct-laocai-org-vn;sd-vlncn-sct-vn,bvmt-sct-vn;quy-hoach-ct-vn,,,,,,
+QĐ 4/QĐ-SCT,QĐ,2,4,sct-laocai-org-vn;sd-vlncn-sct-vn,bvmt-sct-vn;quy-hoach-ct-vn,,,,,,
 QĐ 40/QĐ-HĐTV,QĐ,1,2,bvmt-sct-vn,bvmt-sct-vn;dat-dai-sct-vn,,,,,,
 QĐ 409/QĐ-BXD,QĐ,2,3,tkm-sct-vn;xd-sct-vn,,,,,,,
 QĐ 419/QĐ-TTG,QĐ,1,2,bvmt-sct-vn,bvmt-sct-vn,,,,,,
@@ -640,7 +642,7 @@ QĐ 555/QĐ-BCT,QĐ,1,8,hnh-sct-vn,,,,,,,
 QĐ 564/QĐ-SCT,QĐ,1,8,hl-vlncn-sct-vn,,,,,,,
 QĐ 575/QĐ-TTG,QĐ,1,2,qlks-sct-vn,,,,,,,
 QĐ 581/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
-QĐ 59/QĐ-SCT,QĐ,3,18,attp-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn,,,,,,,
+QĐ 59/QĐ-SCT,QĐ,3,8,attp-sct-vn;sct-laocai-org-vn;sd-vlncn-sct-vn,,01/7/2025,01/7/2025,,QĐ 6226/QĐ-SCT (02/10/2026),,Quy định CNNV Văn phòng và các phòng thuộc Sở Công Thương (lịch sử) — thay bằng QĐ 6226/QĐ-SCT ngày 02/10/2026
 QĐ 594/QĐ-UBND,QĐ,1,4,kccn-sct-vn,,,,,,,
 QĐ 599/QĐ-UBND,QĐ,1,1,sd-vlncn-sct-vn,,,,,,,
 QĐ 622/QĐ-BQLCKCN,QĐ,1,1,kccn-sct-vn,,,,,,,
@@ -657,7 +659,7 @@ QĐ 72/QĐ-TT,QĐ,1,1,qlks-sct-vn,,,,,,,
 QĐ 723/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
 QĐ 726/QĐ-TTG,QĐ,1,7,hc-sct-vn,hc-sct-vn,,,,,,
 QĐ 763/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
-QĐ 766/QĐ-SCT,QĐ,2,6,sct-laocai-org-vn;sd-vlncn-sct-vn,,,,,,,
+QĐ 766/QĐ-SCT,QĐ,2,7,sct-laocai-org-vn;sd-vlncn-sct-vn,,12/02/2026,,,QĐ 6320/QĐ-SCT (06/10/2026),,"Phân công nhiệm vụ GĐ, PGĐ (lịch sử) — thay bằng QĐ 6320/QĐ-SCT ngày 06/10/2026"
 QĐ 767/QĐ-UBND,QĐ,1,3,kccn-sct-vn,,,,,,,
 QĐ 768/QĐ-TTG,QĐ,3,102,dacn-sct-vn;kccn-sct-vn;quy-hoach-ct-vn,,,,,,,
 QĐ 770/QĐ-UBND,QĐ,1,1,kccn-sct-vn,,,,,,,
@@ -691,7 +693,7 @@ NQ 66.13/2026/NQ-CP,NQ,1,2,attp-sct-vn,attp-sct-vn,,,,,,
 NQ 66.16/2026/NQ-CP,NQ,1,6,attp-sct-vn,,,,,,,
 NQ 66.18/2026/NQ-CP,NQ,6,16,attp-sct-vn;hnh-sct-vn;kccn-sct-vn;kho-vlncn-sct-vn;pccc-sct-vn;xd-sct-vn,xd-sct-vn,,,,,,
 NQ 66.19/2026/NQ-CP,NQ,3,18,bvmt-sct-vn;kccn-sct-vn;qlks-sct-vn,qlks-sct-vn,,,,,,
-NQ 66.25/2026/NQ-CP,NQ,8,44,bvmt-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;tkm-sct-vn;vbhc-vn;xp-sct-vn,qlks-sct-vn,04/9/2026,15/9/2026 → 28/02/2027,,,,"Chuyển chức năng QLNN địa chất, khoáng sản (Bộ NN&MT, Bộ XD; Sở NN&MT, Sở XD) và KCN (Bộ Tài chính) về Công Thương; cơ chế NQ 206/2025/QH15; bản gốc qlks-sct-vn/van-ban-goc; ref 23"
+NQ 66.25/2026/NQ-CP,NQ,8,45,bvmt-sct-vn;kccn-sct-vn;qlks-sct-vn;quy-hoach-ct-vn;sct-laocai-org-vn;tkm-sct-vn;vbhc-vn;xp-sct-vn,qlks-sct-vn,04/9/2026,15/9/2026 → 28/02/2027,,,,"Chuyển chức năng QLNN địa chất, khoáng sản (Bộ NN&MT, Bộ XD; Sở NN&MT, Sở XD) và KCN (Bộ Tài chính) về Công Thương; cơ chế NQ 206/2025/QH15; bản gốc qlks-sct-vn/van-ban-goc; ref 23"
 NQ 9/2026/NQ-CP,NQ,1,3,attp-sct-vn,bvmt-sct-vn;kccn-sct-vn;pccc-sct-vn;qlks-sct-vn;xd-sct-vn,,,,,,
 NQ 19/2025/NQ-HĐND,NQ,2,5,dat-dai-sct-vn;kccn-sct-vn,dat-dai-sct-vn;qlks-sct-vn,09/12/2025,01/01/2026,,,,"Bảng giá đất tỉnh Lào Cai; Phụ lục IV giá đất KCN, CCN — dat-dai-sct-vn ref 12"
 NQ 2/2025/NQ-CP,NQ,1,1,qlks-sct-vn,kccn-sct-vn;xd-sct-vn,,,,,,

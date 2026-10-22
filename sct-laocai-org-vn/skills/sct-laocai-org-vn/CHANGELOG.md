@@ -1,5 +1,9 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## 2.10.0 — 22/10/2026 — QĐ 6226/QĐ-SCT (chức năng các phòng, thay QĐ 59); chốt số phân công BGĐ QĐ 6320/QĐ-SCT (6286 là Quy chế làm việc)
+
+- Ref 01 viết lại theo QĐ 6226/QĐ-SCT ngày 02/10/2026 (đổi tên tệp `...-qd6226.md`); SKILL.md, các plugin đổi số dẫn phân công sang QĐ 6320/QĐ-SCT ngày 06/10/2026; rule `check_facts.py` mới. Chi tiết: `CHANGELOG-v2026.10.22.md`.
+
 ## 2.9.0 — 18/10/2026 — Chuyển từ PR 115/112: bản gốc NĐ 351/2026, TT 50/2026, QĐ 3628/QĐ-UBND; ref 04; cơ cấu 06 phòng; QĐ 05/2025 → lịch sử
 
 - `van-ban-goc/`: NĐ 351/2026/NĐ-CP, TT 50/2026/TT-BCT (OCR), QĐ 3628/QĐ-UBND (OCR; PDF 3,9 MB chỉ có trên GitHub) + bản `.txt`. `references/04-qd-3628-chuc-nang-co-cau-so-2026.md` tóm lược từng điều, bảng đối chiếu TT 50 ↔ TT 37. SKILL.md: cơ cấu 06 phòng theo Điều 3 QĐ 3628, routing khoáng sản → Phòng QLKS, KCN không thuộc chức năng Sở (QĐ 3628/TT 50), NĐ 40/2025 → lịch sử, 3 dòng ❌ mới. Rule `qd-05-2025-da-thay-bang-qd-3628` trong `check_facts.py`; 14 plugin khác đổi dẫn QĐ 05/2025 → QĐ 3628.

@@ -30,7 +30,7 @@ Bước 3 được thực hiện bằng **công văn nội bộ của Phòng Qu�
 
 **Khối căn cứ 4 lớp - dùng lại nguyên khung:**
 
-1. **Quyết định số 59/QĐ-SCT ngày 01/7/2025** của Giám đốc Sở ban hành Quy định chức năng, nhiệm vụ, quyền hạn của Văn phòng và các phòng chuyên môn - để khẳng định Phòng QLCN là phòng tham mưu quản lý nhà nước về ATTP.
+1. **Quyết định số 6226/QĐ-SCT ngày 02/10/2026** của Giám đốc Sở ban hành Quy định chức năng, nhiệm vụ, quyền hạn của Văn phòng và các phòng chuyên môn (khoản 1 và mục 2.4 khoản 2 Điều 5) - để khẳng định Phòng QLCN là phòng tham mưu quản lý nhà nước về ATTP. Văn bản ký trước 02/10/2026 (như mẫu Bảo Khang 28/8/2026) dẫn QĐ 59/QĐ-SCT ngày 01/7/2025 là đúng lịch sử.
 2. **Nghị định số 15/2018/NĐ-CP** và các văn bản hướng dẫn có liên quan.
 3. **Ý kiến chỉ đạo của Lãnh đạo Sở** giao Phòng QLCN triển khai tiếp nhận bản tự công bố.
 4. **Khoản 2 Điều 5 NĐ 15/2018**, trích dẫn trực tiếp hai điểm:

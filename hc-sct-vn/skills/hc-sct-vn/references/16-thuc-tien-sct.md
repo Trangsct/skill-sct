@@ -32,7 +32,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 
 - Ký hiệu công văn: **/SCT-CN** (Phòng QLCN thụ lý).
 - Ký hiệu quyết định: **/QĐ-SCT**.
-- Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6286/QĐ-SCT); các văn bản 2026 trước đó do PGĐ Hoàng Văn Thuân ký — lịch sử.
+- Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6320/QĐ-SCT); các văn bản 2026 trước đó do PGĐ Hoàng Văn Thuân ký — lịch sử.
 - Tờ trình, chủ trương, báo cáo quan trọng gửi UBND tỉnh/Bộ: **GIÁM ĐỐC Hoàng Chí Hiền**.
 - Dòng Lưu: **Lưu: VT, CN.**
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; kết hợp `vbhc-vn` để chuẩn thể thức NĐ 30/2020.

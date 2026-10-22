@@ -20,7 +20,7 @@ VBHC Việt Nam (NĐ 30/2020, NĐ 78/2025, NĐ 187/2025) có **layout 2 cột** 
 5. Hội thoại có mục đích soạn văn bản tham mưu/triển khai/trả lời dựa trên văn bản nguồn cấp trên.
 
 ### Quy trình 3 bước
-**Bước 1 — Trích xuất**: chạy script trên. Output JSON 11 trường: `co_quan_ban_hanh`, `so_van_ban` (vd `3954/UBND-VX`, `05/2025/QĐ-UBND`, `59/QĐ-SCT`), `dia_danh_ngay`, `ngay_iso`, `loai_van_ban`, `trich_yeu`, `kinh_gui`, `nguoi_ky`, `chuc_vu_ky` (kèm KT./TM./TUQ./TL.), `noi_nhan`, `phuong_phap`.
+**Bước 1 — Trích xuất**: chạy script trên. Output JSON 11 trường: `co_quan_ban_hanh`, `so_van_ban` (vd `3954/UBND-VX`, `05/2025/QĐ-UBND`, `6226/QĐ-SCT`), `dia_danh_ngay`, `ngay_iso`, `loai_van_ban`, `trich_yeu`, `kinh_gui`, `nguoi_ky`, `chuc_vu_ky` (kèm KT./TM./TUQ./TL.), `noi_nhan`, `phuong_phap`.
 
 **Bước 2 — OCR (nếu output phần lớn null)**: file có thể là scan ảnh thuần.
 ```bash

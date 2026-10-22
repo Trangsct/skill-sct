@@ -46,7 +46,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 ## 3. Quy tắc thể thức chung
 
 - Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phần III Phụ lục TT 26/2026 (Mẫu 06, 09, 12) hoặc Phụ lục II, VII TT 01 với loại chưa bị thay.
-- **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026, QĐ 6286/QĐ-SCT; văn bản mẫu thật trong `vi-du-thuc-te/` do PGĐ Thuân ký — lịch sử, đổi khối ký khi dựng); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
+- **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026, QĐ 6320/QĐ-SCT; văn bản mẫu thật trong `vi-du-thuc-te/` do PGĐ Thuân ký — lịch sử, đổi khối ký khi dựng); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
 - **Dòng Lưu:** `Lưu: VT, CN.`
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; "Kính gửi" không in đậm; heading mục 1,2,3 trong công văn in đậm.
 - **Không bịa số văn bản, ngày ký, mã TTHC.** Lấy số thật khi phát hành.

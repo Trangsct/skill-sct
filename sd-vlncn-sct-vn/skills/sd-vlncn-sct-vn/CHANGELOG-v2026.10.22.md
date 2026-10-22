@@ -8,3 +8,8 @@ Nguồn: NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026), Bạn g
 - references/01 (mục 9a: NĐ 96/2016 sửa bởi NĐ 392/2026; NĐ 149/2024 cũng bị sửa nhưng vẫn không điều chỉnh VLNCN), 02 (checklist C1: ngành nghề mới, GCN hết hạn → bản cấp đổi), 04 (cơ quan cấp và thời hạn GCN ANTT), 10 (bảng D1: cơ quan cấp GCN ANTT theo Đ24 mới).
 - Máy kiểm: rule `nd-96-2016-kem-nd-392` (WARN) trong `scripts/check_facts.py`.
 - `plugin.json` 2026.10.18.1 → 2026.10.22.1. Chi tiết: `CHANGELOG-v2026.10.22.md`.
+
+## CHANGELOG — sd-vlncn-sct-vn v2026.10.22.2 (22/10/2026)
+
+- Đổi số dẫn Quyết định phân công nhiệm vụ Ban Giám đốc Sở từ "QĐ 6286/QĐ-SCT ngày 05/10/2026" sang **QĐ 6320/QĐ-SCT ngày 06/10/2026** (đối chiếu bản gốc 22/10/2026; số 6286/QĐ-SCT là Quy chế làm việc — sct-laocai-org-vn 2.10.0). Nội dung phân công không đổi.
+- `plugin.json` 2026.10.22.1 → 2026.10.22.2.

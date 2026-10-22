@@ -52,12 +52,12 @@ VBQPPL đầu tiên của UBND tỉnh Lào Cai sau hợp nhất. Điều 7 kho�
 
 ## 3. Phân công cụ thể tại Sở Công Thương Lào Cai
 
-### 3.1. Lãnh đạo Sở phụ trách (QĐ 6286/QĐ-SCT ngày 05/10/2026)
+### 3.1. Lãnh đạo Sở phụ trách (QĐ 6320/QĐ-SCT ngày 06/10/2026)
 
 | Lĩnh vực | Lãnh đạo phụ trách |
 |---|---|
 | Chỉ đạo chung công tác PCCC của Sở | Giám đốc Hoàng Chí Hiền (TUV) |
-| Phòng QLCN (PCCC ngành Công Thương, kho VLNCN, hóa chất, CCN), thẩm định, KTCTNT công trình công nghiệp | Phó Giám đốc Nguyễn Đình Chiến (QĐ 6286 không ghi đích danh PCCC — dự kiến Chiến ký, Bạn chốt 06/10/2026) |
+| Phòng QLCN (PCCC ngành Công Thương, kho VLNCN, hóa chất, CCN), thẩm định, KTCTNT công trình công nghiệp | Phó Giám đốc Nguyễn Đình Chiến (QĐ 6320 không ghi đích danh PCCC — dự kiến Chiến ký, Bạn chốt 06/10/2026) |
 | Công trình khai thác, chế biến khoáng sản (mỏ) | Phó Giám đốc Hoàng Văn Thuân |
 | Điện, năng lượng (trạm biến áp, thủy điện, đường dây) | Phó Giám đốc Nguyễn Trường Giang |
 | Chợ, TTTM, siêu thị (thương mại) | Phó Giám đốc Trịnh Văn Thành |

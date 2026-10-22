@@ -6,7 +6,7 @@ Dùng khi Sở được giao cung cấp thông tin phục vụ lãnh đạo tỉ
 
 - **Văn bản số 10073/UBND-NC ngày 03/10/2026** của UBND tỉnh (Chánh Văn phòng ký thừa lệnh Chủ tịch) về chuẩn bị nội dung phục vụ Chủ tịch UBND tỉnh tham gia đoàn công tác của Trung ương đi Trung Quốc (11 - 15/10/2026; Bắc Kinh, tỉnh Thiểm Tây: Tây An, Diên An). Mục 3 giao các Sở NN&MT, KH&CN, **Công Thương**, GD&ĐT, VH-TT&DL: cung cấp **thế mạnh của tỉnh** theo lĩnh vực (công nghiệp: công nghiệp công nghệ cao) và **đề xuất, kiến nghị hợp tác với Trung Quốc**, gửi **Sở Ngoại vụ** tổng hợp.
 - Hạn trong văn bản giao rất ngắn (02 ngày). Nhận việc là soạn ngay; văn bản không viết lý do chậm.
-- Người ký: **Giám đốc** (đối ngoại, hợp tác quốc tế do Giám đốc trực tiếp phụ trách theo QĐ 6286/QĐ-SCT ngày 05/10/2026). Nơi nhận: Như trên; UBND tỉnh (báo cáo); Lãnh đạo Sở; Lưu: VT, CN.
+- Người ký: **Giám đốc** (đối ngoại, hợp tác quốc tế do Giám đốc trực tiếp phụ trách theo QĐ 6320/QĐ-SCT ngày 06/10/2026). Nơi nhận: Như trên; UBND tỉnh (báo cáo); Lãnh đạo Sở; Lưu: VT, CN.
 - Phạm vi Phòng QLCN soạn: **công nghiệp**. Phần xuất nhập khẩu, thương mại biên giới, khu hợp tác kinh tế qua biên giới thuộc Phòng QLTM; mua bán điện qua biên giới thuộc Phòng QLNL — đưa vào thì trao đổi trước với phòng đó.
 
 ## B. QUY ƯỚC BẠN CHỐT 07/10/2026

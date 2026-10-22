@@ -81,7 +81,8 @@ def sua_bang(doc) -> int:
     t_ky, _ = _o_noi_nhan(doc)
     n = 0
     for ti, tb in enumerate(doc.tables):
-        if ti == 0 or tb is t_ky or "Kính gửi" in tb._tbl.xpath("string(.)"):
+        if ti == 0 or (t_ky is not None and tb._tbl is t_ky._tbl) or "Kính gửi" in tb._tbl.xpath("string(.)"):
+            # so sánh phần tử XML: doc.tables tạo đối tượng Table mới mỗi lần gọi nên "tb is t_ky" luôn sai (lỗi 22/10/2026)
             continue
         for tc in tb._tbl.iter(qn("w:tc")):
             pr = tc.get_or_add_tcPr()

@@ -36,3 +36,19 @@ Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 huấn luyện chi tiết cho từng đối tượng; (3) bản sao bằng cấp của người huấn luyện chứng
 minh đáp ứng khoản 3 Điều 8… Đề nghị đơn vị bổ sung, hoàn thiện và nộp lại hồ sơ để Sở
 Công Thương xem xét, đưa vào kế hoạch kiểm tra kỳ gần nhất."
+
+## Biến thể — văn bằng nước ngoài / giấy tờ không phải văn bằng (người quản lý; soạn 22/10/2026)
+Dùng khi người quản lý là người nước ngoài hoặc nộp giấy tờ do nước ngoài cấp. Sau đoạn "Theo hồ sơ…" (nêu tên giấy tờ
+theo BẢN GỐC, số, cơ quan cấp, ngày cấp), đoạn ý kiến gồm:
+- Căn cứ khoản 1 Điều 4 (trích nguyên văn) + điểm a khoản 1 Điều 9 Nghị định số 181/2024/NĐ-CP (hồ sơ phải có bản sao
+  bằng cấp chuyên môn chứng minh).
+- Đối chiếu: giấy tờ đã nộp là [chứng chỉ năng lực hành nghề …], cấp sau kỳ sát hạch theo [quy chế …] của [nước], không
+  phải văn bằng giáo dục đại học; bản dịch ghi "[…]" không đúng với nội dung bản gốc (nếu có).
+- Kết luận: hồ sơ chưa có bằng cấp chứng minh trình độ từ đại học trở lên; Sở chưa đủ căn cứ đưa vào kế hoạch huấn luyện.
+- Đề nghị một trong hai: (a) nộp bổ sung bản sao văn bằng đại học thuộc 12 ngành, bản dịch tiếng Việt có chứng thực chữ
+  ký người dịch và Giấy công nhận văn bằng do Cục trưởng Cục Quản lý chất lượng, Bộ Giáo dục và Đào tạo cấp theo Thông tư
+  số 65/2026/TT-BGDĐT ngày 11/8/2026 (văn bằng thuộc diện miễn theo khoản 4 Điều 6 Thông tư thì nêu rõ căn cứ miễn);
+  (b) bố trí người khác đủ điều kiện khoản 1 Điều 4.
+- Kết: "Sở Công Thương thông báo để Công ty biết, thực hiện./."
+Trích yếu căn giữa: "V/v giải quyết đề nghị huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện KTAT VLNCN". Lần đầu
+viết đủ "vật liệu nổ công nghiệp (VLNCN)". Căn cứ: ref `01` mục C-quinquies.

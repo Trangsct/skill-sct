@@ -1,3 +1,8 @@
+## 22/10/2026 — hl-vlncn-sct-vn 1.6.0, vbhc-vn 2.36.1: TT 65/2026/TT-BGDĐT công nhận văn bằng nước ngoài; sửa tự sửa bảng ký
+
+- **hl-vlncn-sct-vn 1.6.0**: nạp bản Word + `.txt` Thông tư 65/2026/TT-BGDĐT ngày 11/8/2026 (hiệu lực 26/9/2026) vào `van-ban-goc/`; ref 01 mục C-quinquies (thẩm quyền Cục trưởng Cục Quản lý chất lượng, hồ sơ, thời hạn 20–30 ngày, miễn theo điều ước); thẩm định người quản lý có văn bằng nước ngoài: đọc bản gốc, chứng chỉ năng lực hành nghề nước ngoài không phải văn bằng đại học; mẫu 09 biến thể; FAQ 12. Danh mục văn bản gốc chung dựng lại.
+- **vbhc-vn 2.36.1**: `kiem_tra_truoc_khi_giao.py --tu-sua` không còn căn giữa dọc nhầm bảng Nơi nhận - ký (so sánh phần tử XML thay vì đối tượng Table).
+
 ## 21/10/2026 — data360x-sct-vn 1.3.0: từ 10/10/2026 văn bản đi, đến nằm trên EGOV
 
 - Bạn báo 21/10/2026: từ 10/10/2026 văn bản của Sở chuyển sang nền tảng chính quyền số EGOV (`egov1.laocai.gov.vn`), Data360X dừng ở lượt quét 10/10.

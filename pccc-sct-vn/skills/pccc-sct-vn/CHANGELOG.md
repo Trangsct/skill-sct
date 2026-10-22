@@ -1,5 +1,12 @@
 # CHANGELOG — pccc-sct-vn
 
+## 1.5.0 — 22/10/2026 — NĐ 392/2026/NĐ-CP Điều 50 sửa khoản 2 Điều 41 NĐ 347/2026; NĐ 96/2016 sửa đổi
+
+- references/16 mục A (bảng hiệu lực) và **mục B.9 mới**: Điều 50 NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) bổ sung "khoản 4" Điều 30 NĐ 347 vào danh sách quy định về kê khai, quản lý chất lượng phương tiện PCCC chỉ có hiệu lực cùng Luật sửa đổi → bãi bỏ Mẫu PC19, PC20, PC21 (giấy phép lưu thông phương tiện PCCC) lùi tới mốc đó; bỏ thủ tục kiểm tra nghiệm thu PCCC (Điều 10 NĐ 105, Mẫu PC15–PC17) KHÔNG đổi, vẫn từ 15/9/2026. Nội dung PC19–PC21 đọc từ `hnh-sct-vn/.../ND-105-2025-PCCC-CNCH.txt`.
+- references/08 mục 7.1 và danh mục văn bản: NĐ 96/2016 ghi kèm NĐ 56/2023, NĐ 58/2026, NĐ 392/2026; tài liệu PCCC kho VLNCN để xin GCN ANTT (k3 Đ19 mới).
+- Bản gốc + `.txt` NĐ 392/2026 nằm ở plugin chủ `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.*` (không nhân bản); tóm tắt `sd-vlncn-sct-vn` ref 13.
+- `plugin.json` 1.4.1 → 1.5.0. Chi tiết: `CHANGELOG-v2026.10.22.md`.
+
 ## 1.4.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `SKILL.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

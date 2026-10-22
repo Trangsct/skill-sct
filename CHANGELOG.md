@@ -1,3 +1,12 @@
+## 22/10/2026 — sd-vlncn-sct-vn 2026.10.22.1, pccc-sct-vn 1.5.0, kho-vlncn-sct-vn 1.13.2, vbhc-vn 2.36.1: Nghị định 392/2026/NĐ-CP (điều kiện an ninh, trật tự)
+
+- Bạn gửi NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) — sửa NĐ 96/2016 (điều kiện ANTT), NĐ 99/2016, NĐ 137/2020, NĐ 69/2024, NĐ 70/2024, NĐ 149/2024, NĐ 356/2025; Điều 50 sửa khoản 2 Điều 41 NĐ 347/2026. Bản Word + PDF + `.txt` lưu ở plugin chủ `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.*`.
+- **sd-vlncn-sct-vn 2026.10.22.1**: ref 13 mới (GCN ANTT: ngành nghề có sử dụng VLNCN và TCTN, thẩm quyền Phòng CSQLHC Công an tỉnh / Cục C06, cấp đổi khi hết hạn, 04/03 ngày làm việc, tài liệu PCCC, ngừng kinh doanh; bảng đối chiếu điều khoản); SKILL.md, ref 01, 02, 04, 10, INDEX.
+- **pccc-sct-vn 1.5.0**: ref 16 mục B.9 (bãi bỏ Mẫu PC19–PC21 lùi hiệu lực cùng Luật sửa đổi; nghiệm thu PCCC không đổi); ref 08.
+- **kho-vlncn-sct-vn 1.13.2**: ref 06 mục III (tài liệu PCCC kho trong hồ sơ GCN ANTT ≠ văn bản nghiệm thu PCCC trong hồ sơ GP sử dụng).
+- `scripts/check_facts.py`: rule `nd-96-2016-kem-nd-392` (WARN). `registry/trang-thai.csv`: thêm NĐ 392/2026, NĐ 96/2016, NĐ 149/2024; NĐ 347/2026 ghi bị sửa bởi Điều 50 NĐ 392/2026.
+- **vbhc-vn 2.36.1**: `data/vbpl.json` sinh lại từ `registry/trang-thai.csv` (thêm NĐ 392/2026, NĐ 96/2016, NĐ 149/2024).
+
 ## 21/10/2026 — data360x-sct-vn 1.3.0: từ 10/10/2026 văn bản đi, đến nằm trên EGOV
 
 - Bạn báo 21/10/2026: từ 10/10/2026 văn bản của Sở chuyển sang nền tảng chính quyền số EGOV (`egov1.laocai.gov.vn`), Data360X dừng ở lượt quét 10/10.

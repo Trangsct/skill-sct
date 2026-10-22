@@ -20,6 +20,7 @@
 
 **Văn bản dùng chung (tra tại plugin anh em):** **NĐ 275/2026/NĐ-CP (xử phạt mới, hiệu lực 25/8/2026) → `xp-hc-vlncn-sct-vn/van-ban-goc/`**.
 
+| ⭐ **2026.10.20-392.2026.ND.CP-...docx** (+ `.pdf` bản ký 48 trang, `.txt` toàn văn) | **Nghị định 392/2026/NĐ-CP ngày 20/10/2026** (hiệu lực **15/11/2026**; PTTg Phạm Gia Túc ký; Bạn gửi 22/10/2026) | Sửa NĐ 96/2016 (**GCN đủ điều kiện ANTT**: k10, k11 Đ3; k1 Đ8; k3 Đ19; Đ21–24; k14 Đ25; Đ50), NĐ 99/2016, NĐ 137/2020, NĐ 69/2024, NĐ 70/2024, **NĐ 149/2024**, NĐ 356/2025; Điều 50 sửa k2 Đ41 NĐ 347/2026. Tóm tắt + bảng đối chiếu: ref `13`. PDF ≥ 3 MB chỉ có trên GitHub, tra `.txt` |
 | 2024.11.15-149.2024.ND.CP-...docx | Nghị định 149/2024/NĐ-CP ngày 15/11/2024 | Quy định chi tiết Luật 42/2024 phần **vũ khí, VLN QUÂN DỤNG, CCHT** — ⚠ **KHÔNG điều chỉnh VLNCN**, không đưa vào căn cứ văn bản VLNCN |
 | 2024.11.15-75.2024.TT.BCA-...docx | Thông tư 75/2024/TT-BCA ngày 15/11/2024 | **Đ4: thẩm quyền cấp GP vận chuyển VLNCN, TCTN** — điểm đ k2 (PC06 Công an cấp tỉnh), điểm i k1 (Cục C06 với quá cảnh/XNK) |
 | 2024.11.15-98.2024.TT.BQP-...docx | Thông tư 98/2024/TT-BQP ngày 15/11/2024 | Quản lý VLNCN, TCTN khối Bộ Quốc phòng — dùng khi phân định với DN quốc phòng |

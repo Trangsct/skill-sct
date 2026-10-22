@@ -132,6 +132,11 @@
       "ngay_hieu_luc": "2025-07-01",
       "ghi_chu": "Sửa NĐ 181/2024 (phân cấp, phân quyền); Đ24; k5 Đ37 ATTP; hiệu lực máy trích từ ND-146-2025-phan-quyen-phan-cap.txt"
     },
+    "NĐ 149/2024": {
+      "ngay_ban_hanh": "2024-11-15",
+      "bi_sua_doi_boi": "NĐ 392/2026 (15/11/2026)",
+      "ghi_chu": "Chi tiết Luật 42/2024 phần vũ khí, VLN quân dụng, CCHT (không điều chỉnh VLNCN); NĐ 392 sửa Đ6, Đ10, Đ16, Đ18"
+    },
     "NĐ 150/2025": {
       "ngay_ban_hanh": "2025-06-12",
       "bi_sua_doi_boi": "NĐ 370/2025",
@@ -241,6 +246,7 @@
     "NĐ 347/2026": {
       "ngay_ban_hanh": "2026-09-08",
       "ngay_hieu_luc": "2026-09-15",
+      "bi_sua_doi_boi": "NĐ 392/2026 (Điều 50 sửa k2 Đ41; 15/11/2026)",
       "ghi_chu": "Sửa NĐ 169/2025, NĐ 105/2025, NĐ 106/2025, NĐ 282/2025; bãi bỏ Điều 74 NĐ 217/2026; bản gốc pccc-sct-vn/van-ban-goc; khoản 2 Điều 41: một số quy định về phương tiện PCCC hiệu lực cùng Luật sửa đổi"
     },
     "NĐ 35/2022": {
@@ -253,6 +259,11 @@
       "ngay_hieu_luc": "2020-05-10",
       "bi_sua_doi_boi": "NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước)",
       "ghi_chu": "Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
+    },
+    "NĐ 392/2026": {
+      "ngay_ban_hanh": "2026-10-20",
+      "ngay_hieu_luc": "2026-11-15",
+      "ghi_chu": "Sửa NĐ 96/2016 (điều kiện ANTT), NĐ 99/2016, NĐ 137/2020, NĐ 69/2024, NĐ 70/2024, NĐ 149/2024, NĐ 356/2025; Điều 50 sửa k2 Đ41 NĐ 347/2026; bản gốc sd-vlncn-sct-vn/van-ban-goc — đối chiếu bản gốc 22/10/2026"
     },
     "NĐ 4/2022": {
       "ngay_ban_hanh": "2022-01-06",
@@ -299,6 +310,11 @@
       "ngay_hieu_luc": "2024-08-01",
       "bi_sua_doi_boi": "NĐ 151/2025; NĐ 226/2025; NĐ 49/2026 (31/01/2026)",
       "ghi_chu": "Bồi thường, hỗ trợ, tái định cư; đối chiếu dat-dai-sct-vn ref 11"
+    },
+    "NĐ 96/2016": {
+      "ngay_ban_hanh": "2016-07-01",
+      "bi_sua_doi_boi": "NĐ 56/2023; NĐ 58/2026; NĐ 392/2026 (15/11/2026)",
+      "ghi_chu": "Điều kiện ANTT với ngành nghề kinh doanh có điều kiện (GCN ANTT); ngày ban hành và văn bản sửa đổi đọc từ tên Chương I NĐ 392/2026 — sd-vlncn-sct-vn ref 13"
     },
     "NĐ 98/2020": {
       "ngay_ban_hanh": "2020-08-26",

@@ -9,7 +9,7 @@
 | Văn bản | Nội dung chính | Hiệu lực |
 |---|---|---|
 | **Nghị quyết số 66.18/2026/NQ-CP ngày 18/5/2026** của Chính phủ (phân quyền, cắt giảm, đơn giản hóa TTHC, điều kiện kinh doanh) — Mục C Phụ lục I.1 | **Tạm ngừng** 3 thủ tục PCCC: (I) Kiểm tra công tác nghiệm thu về PCCC (điểm c khoản 5 Điều 18 Luật 55/2024; Điều 10 NĐ 105); (II) Nghiệm thu về PCCC đối với công trình đã có GCN thẩm duyệt nhưng chưa được chấp thuận kết quả nghiệm thu (khoản 3 Điều 46 NĐ 105); (III) Phục hồi hoạt động của cơ sở, phương tiện, hộ gia đình, cá nhân (điểm b khoản 5 Điều 46 NĐ 105) | 01/7/2026 đến hết 28/02/2027 |
-| **Nghị định số 347/2026/NĐ-CP ngày 08/9/2026** của Chính phủ (KT. Thủ tướng — Phó Thủ tướng Phạm Gia Túc ký) — sửa NĐ 169/2025, **NĐ 105/2025**, **NĐ 106/2025**, NĐ 282/2025; Chương II (Điều 10–31) sửa NĐ 105, Chương III (Điều 32) sửa NĐ 106 | **Bãi bỏ hẳn** các thủ tục trên trong NĐ 105; sửa trách nhiệm chủ đầu tư, thẩm quyền và trình tự kiểm tra; thay Phụ lục III, IV | **15/9/2026** (Điều 41 khoản 1). Riêng các quy định về kê khai, quản lý chất lượng phương tiện PCCC (khoản 2 Điều 10; Điều 21; khoản 2 Điều 26; khoản 2, 3 Điều 30; khoản 2, 6 Điều 31; khoản 4 Điều 40) có hiệu lực cùng Luật sửa đổi Luật Quản lý, sử dụng vũ khí, VLN, CCHT và Luật PCCC và CNCH (Điều 41 khoản 2) |
+| **Nghị định số 347/2026/NĐ-CP ngày 08/9/2026** của Chính phủ (KT. Thủ tướng — Phó Thủ tướng Phạm Gia Túc ký) — sửa NĐ 169/2025, **NĐ 105/2025**, **NĐ 106/2025**, NĐ 282/2025; Chương II (Điều 10–31) sửa NĐ 105, Chương III (Điều 32) sửa NĐ 106 | **Bãi bỏ hẳn** các thủ tục trên trong NĐ 105; sửa trách nhiệm chủ đầu tư, thẩm quyền và trình tự kiểm tra; thay Phụ lục III, IV | **15/9/2026** (Điều 41 khoản 1). Riêng các quy định về kê khai, quản lý chất lượng phương tiện PCCC (khoản 2 Điều 10; Điều 21; khoản 2 Điều 26; khoản 2, 3, **4** Điều 30; khoản 2, 6 Điều 31; khoản 4 Điều 40) có hiệu lực cùng Luật sửa đổi Luật Quản lý, sử dụng vũ khí, VLN, CCHT và Luật PCCC và CNCH (Điều 41 khoản 2). **"khoản 4" Điều 30 được bổ sung vào danh sách này bởi Điều 50 NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026)** — xem mục B.9 |
 | **Công văn số 6501/CAT-PCCC ngày 23/9/2026** của Công an tỉnh Lào Cai (KT. Giám đốc — Phó Giám đốc, Đại tá Nguyễn Xuân Tuấn) gửi các Sở, ban, ngành, UBND xã, phường | Đề nghị phối hợp triển khai NQ 66.18 và NĐ 347 trên địa bàn tỉnh (mục D dưới đây) | Từ ngày ký |
 
 ⚠ **Bẫy viện dẫn:** trích yếu CV 6501/CAT-PCCC ghi *"Nghị quyết số 66.18/2026/**NĐ**-CP"*; ký hiệu đúng là **66.18/2026/NQ-CP** (thân công văn ghi đúng). Khi dẫn lại trong văn bản của Sở phải ghi NQ-CP.
@@ -22,7 +22,7 @@
 
 | Quy định cũ của NĐ 105 | NĐ 347 | Hệ quả |
 |---|---|---|
-| **Điều 10** — Công an kiểm tra công tác nghiệm thu về PCCC (hồ sơ Mẫu PC15, biên bản PC16, văn bản chấp thuận PC17) | **Bãi bỏ Điều 10** (khoản 1 Điều 30); bãi bỏ Mẫu PC15, PC16, PC17, PC19, PC20, PC21 (khoản 4 Điều 30) | Công an không còn ra văn bản chấp thuận kết quả nghiệm thu PCCC |
+| **Điều 10** — Công an kiểm tra công tác nghiệm thu về PCCC (hồ sơ Mẫu PC15, biên bản PC16, văn bản chấp thuận PC17) | **Bãi bỏ Điều 10** (khoản 1 Điều 30); bãi bỏ Mẫu PC15, PC16, PC17, PC19, PC20, PC21 (khoản 4 Điều 30; riêng PC19–PC21 về phương tiện PCCC lùi hiệu lực theo NĐ 392/2026 — mục B.9) | Công an không còn ra văn bản chấp thuận kết quả nghiệm thu PCCC |
 | **Khoản 5 Điều 6** — CQCM về xây dựng kiểm tra nghiệm thu PCCC cùng với kiểm tra công tác nghiệm thu công trình xây dựng | **Bãi bỏ khoản 5 Điều 6** (khoản 2 Điều 30) | **Sở Công Thương không còn nhiệm vụ kiểm tra nghiệm thu PCCC** |
 | Khoản 5 Điều 46 (chuyển tiếp; NQ 66.18 dẫn điểm b khoản 5 Điều 46 là thủ tục phục hồi hoạt động) | **Bãi bỏ khoản 5 Điều 46** (khoản 2 Điều 30) | Không còn thủ tục phục hồi hoạt động; cơ sở tự khắc phục rồi thông báo cơ quan Công an (CV 6501 mục 2) |
 | Điểm b, đ khoản 7 Điều 41 — nhiệm vụ của Bộ Công Thương: "thẩm định thiết kế, **kiểm tra công tác nghiệm thu** về PCCC…" | Sửa (khoản 2 Điều 27): điểm b chỉ còn **hướng dẫn, chỉ đạo, tổ chức thực hiện thẩm định thiết kế về PCCC** thuộc lĩnh vực quản lý (Điều 17 Luật); điểm đ: **kiểm tra CQCM trực thuộc trong việc tổ chức thẩm định thiết kế về PCCC cùng với kiểm tra tổ chức thẩm định BCNCKT** | Bỏ vế nghiệm thu; bỏ BCKTKT và thiết kế triển khai sau thiết kế cơ sở |
@@ -102,6 +102,15 @@ Mức trong Chương II NĐ 106 là **mức cá nhân**; tổ chức gấp 02 l�
 1. Hồ sơ TTHC **được đơn giản hóa**, tiếp nhận hoặc đóng dấu bưu chính trước 15/9/2026 → giải quyết theo quy định tại thời điểm tiếp nhận.
 2. Hồ sơ TTHC **đã bị bãi bỏ** (kiểm tra nghiệm thu PCCC…), tiếp nhận trước 15/9/2026 → **dừng giải quyết, hoàn trả hồ sơ nếu tổ chức, cá nhân yêu cầu**.
 3. Văn bản, giấy tờ đã cấp trước 15/9/2026 còn hiệu lực/thời hạn → tiếp tục sử dụng đến hết thời hạn (văn bản chấp thuận nghiệm thu PCCC đã cấp vẫn có giá trị trong hồ sơ).
+
+### B.9. Điều 50 NĐ 392/2026/NĐ-CP sửa khoản 2 Điều 41 NĐ 347 (hiệu lực 15/11/2026)
+
+NĐ 392/2026/NĐ-CP ngày 20/10/2026 (Chính phủ; PTTg Phạm Gia Túc ký; bản gốc + `.txt`: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.txt`, tóm tắt `sd-vlncn-sct-vn` ref 13) tại Điều 50 **bổ sung cụm từ ", khoản 4" vào trước "Điều 30" tại khoản 2 Điều 41 NĐ 347**. Khoản 2 Điều 41 nay đọc: các quy định về **kê khai thông tin, quản lý chất lượng phương tiện PCCC** tại "khoản 2 Điều 10; Điều 21; khoản 2 Điều 26; khoản 2, khoản 3, khoản 4 Điều 30; khoản 2, khoản 6 Điều 31; khoản 4 Điều 40" có hiệu lực cùng Luật sửa đổi Luật Quản lý, sử dụng vũ khí, VLN, CCHT và Luật PCCC và CNCH.
+
+Cách đọc cho Sở:
+- Khoản 4 Điều 30 NĐ 347 bãi bỏ Mẫu PC15, PC16, PC17 (kiểm tra nghiệm thu PCCC) **và** PC19 (kê khai kiểm tra chất lượng phương tiện PCCC nhập khẩu), PC20 (văn bản đề nghị cấp giấy phép lưu thông), PC21 (giấy phép lưu thông) — nội dung ba mẫu sau tra tại `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/ND-105-2025-PCCC-CNCH.txt`. Phần lùi hiệu lực chỉ áp dụng "đối với việc kê khai thông tin, quản lý chất lượng phương tiện PCCC", tức là **PC19, PC20, PC21 còn dùng cho tới khi Luật sửa đổi có hiệu lực**.
+- **Không đổi** với nghiệm thu PCCC: Điều 10 NĐ 105 vẫn bị bãi bỏ từ 15/9/2026 (khoản 1 Điều 30 NĐ 347, không nằm trong khoản 2 Điều 41); chủ đầu tư tự nghiệm thu; không đòi văn bản chấp thuận kết quả nghiệm thu của Công an (Mẫu PC17 gắn với Điều 10 đã bãi bỏ). Mục B.1, C và anti-error 12 SKILL.md giữ nguyên.
+- NĐ 392 Điều 50 còn bãi bỏ khoản 2 Điều 8, khoản 3 Điều 9 và một số cụm từ tại Điều 8, Điều 9 NĐ 347 (phần sửa NĐ 169/2025 về dịch vụ dữ liệu) — không thuộc lĩnh vực PCCC.
 
 ## C. Hệ quả nghiệp vụ cho Sở Công Thương
 

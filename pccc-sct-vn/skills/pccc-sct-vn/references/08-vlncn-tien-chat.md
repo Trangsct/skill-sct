@@ -176,7 +176,7 @@ QCVN 01:2019/BCT quy định khoảng cách an toàn theo trọng lượng thu�
 
 Cơ sở VLNCN phải đáp ứng đồng thời:
 - Yêu cầu PCCC theo Luật 55/2024 và NĐ 105/2025.
-- Yêu cầu an ninh trật tự theo Luật 2024 và NĐ 96/2016.
+- Yêu cầu an ninh trật tự theo Luật 2024 và NĐ 96/2016 (sửa bởi NĐ 56/2023, NĐ 58/2026, NĐ 392/2026 — từ 15/11/2026 tài liệu PCCC để xin GCN ANTT theo k3 Đ19 mới: biên bản kiểm tra PCCC kho VLNCN, hoặc hợp đồng nguyên tắc giao VLNCN đến nơi nổ khi không có kho; `sd-vlncn-sct-vn` ref 13).
 - Yêu cầu kỹ thuật theo QCVN 01:2019/BCT.
 - Yêu cầu môi trường theo Luật Bảo vệ môi trường.
 
@@ -213,7 +213,7 @@ Các doanh nghiệp nhà nước lớn sản xuất, kinh doanh VLNCN. Sở Côn
 2. Nghị định hướng dẫn Luật 2024 (nếu đã ban hành).
 3. Luật PCCC và CNCH số 55/2024/QH15.
 4. Nghị định 105/2025/NĐ-CP.
-5. Nghị định 96/2016/NĐ-CP về điều kiện an ninh, trật tự.
+5. Nghị định 96/2016/NĐ-CP về điều kiện an ninh, trật tự (sửa bởi NĐ 56/2023, NĐ 58/2026, NĐ 392/2026/NĐ-CP ngày 20/10/2026).
 6. QCVN 01:2019/BCT - An toàn VLNCN.
 7. Thông tư của Bộ Công Thương về VLNCN.
 8. Thông tư của Bộ Công an về Giấy chứng nhận đủ điều kiện an ninh trật tự.

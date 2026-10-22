@@ -644,6 +644,17 @@ RULES = [
         "since": "2026-10-21",
         "level": "WARN",
     },
+    {
+        "id": "nd-96-2016-kem-nd-392",
+        # Bạn gửi 22/10/2026: NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) sửa NĐ 96/2016/NĐ-CP về điều kiện ANTT
+        # (k10, k11 Đ3; Đ21 cấp đổi khi hết hạn; Đ24 thẩm quyền cấp GCN ANTT; k3 Đ19 tài liệu PCCC). Bản gốc + .txt:
+        # sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-…; tóm tắt sd-vlncn-sct-vn ref 13. Dòng dẫn NĐ 96/2016 mà không
+        # nhắc NĐ 392/2026 thì nhắc rà (WARN — trước 15/11/2026 bản cũ vẫn hiệu lực).
+        "pattern": r"^(?!.*(?:392/2026|lịch sử|trước 15/11/2026)).*(?:NĐ|Nghị định(?: số)?)\s*96/2016",
+        "why": "NĐ 96/2016/NĐ-CP (điều kiện ANTT) được sửa bởi NĐ 392/2026/NĐ-CP ngày 20/10/2026, hiệu lực 15/11/2026: ngành nghề có sử dụng VLNCN và TCTN (k10 Đ3), GCN hết hạn thì cấp đổi (Đ21), thẩm quyền Đ24 — dẫn kèm NĐ 392/2026 (sd-vlncn-sct-vn ref 13).",
+        "since": "2026-10-20",
+        "level": "WARN",
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

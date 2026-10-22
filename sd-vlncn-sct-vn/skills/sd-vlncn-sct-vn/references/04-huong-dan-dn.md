@@ -7,7 +7,8 @@ GĐ0  TỰ ĐÁNH GIÁ    Có thuộc đối tượng được cấp GP không? 
                     ≥500 kg/quý hoặc không muốn tự nổ → THUÊ DỊCH VỤ NỔ MÌN (mục G)
 GĐ1  PHÁP LÝ GỐC    Mỏ: GP thăm dò/khai thác còn hiệu lực. Công trình: QĐ phê duyệt
                     dự án + trúng thầu + hợp đồng. Đăng ký ngành nghề phù hợp.
-                    GCN đủ điều kiện ANTT (Công an cấp)
+                    GCN đủ điều kiện ANTT (Phòng CSQLHC về TTXH Công an tỉnh; 04 ngày
+                    làm việc cấp mới, 03 ngày cấp đổi — NĐ 392/2026, ref 13)
 GĐ2  NHÂN SỰ        Tuyển/bổ nhiệm chỉ huy nổ mìn đạt chuẩn Đ4 NĐ 181; đội thợ mìn;
                     đăng ký huấn luyện + kiểm tra cấp GCN KTAT VLNCN tại Sở Công Thương
                     (TTHC 2.000229) cho toàn bộ đối tượng Đ5 NĐ 181

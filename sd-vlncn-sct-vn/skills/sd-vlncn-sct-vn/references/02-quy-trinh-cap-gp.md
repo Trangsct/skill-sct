@@ -59,7 +59,7 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 **C1. Pháp nhân, ANTT**
 - [ ] Văn bản đề nghị đúng mẫu PL III TT 23/2024; ghi đủ: lý do, số lượng, chủng loại VLNCN; họ tên + số định danh người ĐDPL; số GCN ĐKDN; **số GCN đủ điều kiện về ANTT**
 - [ ] GCN ĐKDN: ngành nghề phù hợp (khai khoáng/xây dựng…); ghi đủ lần đăng ký thay đổi gần nhất (cơ quan cấp sau 01/7/2025 là **Sở Tài chính Lào Cai**)
-- [ ] GCN đủ điều kiện ANTT do Công an cấp, còn hiệu lực, đúng ngành nghề
+- [ ] GCN đủ điều kiện ANTT do Công an cấp, còn hiệu lực, đúng ngành nghề (từ 15/11/2026: "kinh doanh ngành, nghề có sử dụng VLNCN và TCTN" k10 Đ3, hoặc dịch vụ nổ mìn k11 Đ3 NĐ 96/2016 sửa bởi NĐ 392/2026); GCN hết thời hạn → yêu cầu bản **cấp đổi** (Đ21 mới) — ref `13`
 
 **C2. Cơ sở pháp lý hoạt động (điểm b)**
 - [ ] Mỏ: GP thăm dò/khai thác khoáng sản **còn hiệu lực**, đúng vị trí, đúng chủ thể; chú ý thời hạn GP sử dụng không vượt thời hạn GP khai thác

@@ -1,5 +1,10 @@
 # CHANGELOG vbhc-vn
 
+## v2.36.1 — 22/10/2026 — data/vbpl.json: NĐ 392/2026/NĐ-CP, NĐ 96/2016, NĐ 149/2024
+
+- `data/vbpl.json` sinh lại bằng `scripts/build_vbpl.py` từ `registry/trang-thai.csv`: thêm NĐ 392/2026/NĐ-CP (ban hành 20/10/2026, hiệu lực 15/11/2026 — R05 sẽ báo nếu văn bản ký trước 15/11/2026 viện dẫn như đang có hiệu lực), NĐ 96/2016 và NĐ 149/2024 (bị sửa bởi NĐ 392/2026); NĐ 347/2026 ghi bị sửa bởi Điều 50 NĐ 392/2026. Bản gốc ở `sd-vlncn-sct-vn/van-ban-goc/`, tóm tắt `sd-vlncn-sct-vn` ref 13.
+- `plugin.json` 2.36.0 → 2.36.1.
+
 ## v2.36.0 — 19/10/2026 — Nhóm Q (báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy) và Nhóm R (tài liệu dài, báo cáo tổng hợp, tài liệu nội bộ đón đoàn); sổ lỗi L004–L010
 
 - Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` (phiên claude.ai, đánh số 2.35.0/2.36.0 trên nền cũ).

@@ -108,7 +108,7 @@ Bản ký: `van-ban-goc/2026.08.19-5085.SCT.VP-Trien-khai-nhiem-vu-uy-quyen-VLNC
 | Trường hợp nơi có kho tiếp nhận không cấp GP vận chuyển | Trưởng phòng PC06 nơi có kho **xác nhận vào Giấy đăng ký tiếp nhận VLNCN, TCTN** | điểm đ k2 Đ4 TT 75/2024 |
 | GP vận chuyển VLNCN, TCTN **quá cảnh, xuất khẩu, nhập khẩu** | **Cục trưởng Cục Cảnh sát QLHC về TTXH (C06)** | điểm i k1 Đ4 TT 75/2024 |
 | Tạm ngừng cấp / tạm ngừng hiệu lực GP vận chuyển khi có yêu cầu bảo đảm ANTT | cơ quan có thẩm quyền thuộc Bộ Công an | k6 Đ41 VBHN 78 |
-| GCN đủ điều kiện về an ninh, trật tự | Công an có thẩm quyền | — (là đầu mục cứng của hồ sơ GP sử dụng: điểm a k1 Đ39) |
+| GCN đủ điều kiện về an ninh, trật tự (ngành nghề có sử dụng VLNCN và TCTN; dịch vụ nổ mìn) | **Phòng Cảnh sát QLHC về TTXH Công an tỉnh**; **Cục C06** với cơ sở do trung ương cấp phép thành lập, có yếu tố nước ngoài, hoạt động liên tỉnh mà kinh doanh VLNCN, TCTN (trừ vận chuyển), dịch vụ nổ mìn | Đ24 NĐ 96/2016 sửa bởi Điều 9 NĐ 392/2026 (hiệu lực 15/11/2026); là đầu mục cứng của hồ sơ GP sử dụng (điểm a k1 Đ39) — ref `13` mục C |
 
 ⚠ **Thời hạn GP vận chuyển: 30 ngày, chỉ có giá trị cho một lượt** (điểm d k3 Đ41). Không dùng hết VLNCN → lập biên bản xác nhận số còn thừa, dùng chính GP đó vận chuyển ngược về kho; xong phải **thông báo bằng văn bản cho cơ quan cấp GP vận chuyển**.
 ⚠ **Miễn GP vận chuyển** khi vận chuyển trong ranh giới mỏ, công trường, cơ sở sản xuất/bảo quản trên đường không giao cắt đường thủy, đường bộ công cộng — nhưng vẫn phải tuân thủ các điểm b, c, d, đ, e k2 Đ41 (k5 Đ41).

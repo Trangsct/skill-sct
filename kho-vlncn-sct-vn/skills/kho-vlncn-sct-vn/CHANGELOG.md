@@ -1,5 +1,11 @@
 # CHANGELOG — kho-vlncn-sct-vn
 
+## 1.13.2 — 22/10/2026 — NĐ 392/2026/NĐ-CP: tài liệu PCCC kho VLNCN trong hồ sơ GCN đủ điều kiện ANTT
+
+- references/06 mục III: từ 15/11/2026 (NĐ 392/2026/NĐ-CP ngày 20/10/2026 sửa NĐ 96/2016) hồ sơ GCN ANTT cần tài liệu PCCC của kho VLNCN, TCTN (biên bản kiểm tra PCCC; hợp đồng thuê kho; hợp đồng nguyên tắc giao VLNCN đến nơi nổ khi không có kho — điểm d k3 Đ19); biên bản kiểm tra PCCC đó không thay văn bản nghiệm thu PCCC kho trong hồ sơ GP sử dụng; cơ quan cấp GCN ANTT (Đ24 mới); ngừng kinh doanh báo tồn VLNCN (k14 Đ25).
+- Bản gốc + `.txt`: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.*`; tóm tắt `sd-vlncn-sct-vn` ref 13.
+- `plugin.json` 1.13.1 → 1.13.2. Chi tiết: `CHANGELOG-v2026.10.22.md`.
+
 ## 1.13.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `SKILL.md`; `mau-van-ban/01-KH-kiem-tra-nghiem-thu.md`; `mau-van-ban/03-04-05-bo-van-ban-kho-hien-huu.md`; `mau-van-ban/06-07-TTr-QD-phe-duyet-PANM.md`; `mau-van-ban/08-09-BB-kiem-tra-Phieu-trinh.md`; `references/01-khung-phap-ly.md`; `references/04-kiem-tra-cong-tac-nghiem-thu.md`; `references/05-kho-hien-huu-kiem-dinh.md`; `references/07-panm-giay-phep-su-dung.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

@@ -29,6 +29,11 @@ Chi tiết chuyên sâu PCCC ngành Công Thương: dùng kèm skill `pccc-sct-v
 
 - Kho VLNCN gắn với hoạt động sản xuất, kinh doanh, sử dụng VLNCN — ngành nghề đầu tư kinh doanh có điều kiện về ANTT → doanh nghiệp phải có **Giấy chứng nhận đủ điều kiện về an ninh, trật tự** do cơ quan Công an có thẩm quyền cấp (ví dụ thực tế: GCN số 123/GCN ngày 05/7/2025 của Công an tỉnh Lào Cai cho Công ty CP Đầu tư xây dựng hạ tầng cơ sở).
 - GCN ANTT là **điều kiện tiên quyết** khi thẩm định cấp GP sử dụng VLNCN (số GCN ANTT là trường bắt buộc trong đơn đề nghị theo Điều 39 Luật 42/2024) → luôn đưa vào danh mục kiểm tra ngay từ bước KTCTNT.
+- ⭐ **Từ 15/11/2026 (NĐ 392/2026/NĐ-CP ngày 20/10/2026 sửa NĐ 96/2016)** — phần chạm tới kho:
+  - Hồ sơ xin GCN ANTT phải có **tài liệu PCCC của kho chứa, bảo quản VLNCN, TCTN** (điểm d k3 Đ19 mới): biên bản kiểm tra về PCCC của cơ quan có thẩm quyền (điểm a); không có kho thì **hợp đồng thuê kho** đạt điều kiện PCCC (điểm c). Nổ mìn theo **hợp đồng nguyên tắc** giao VLNCN từ cơ sở kinh doanh đến tận nơi nổ, dùng hết trong ngày, không lưu giữ → không phải bố trí kho, nộp hợp đồng đó kèm GCN ANTT của cơ sở kinh doanh VLNCN và biên bản kiểm tra PCCC kho của cơ sở đó.
+  - Đây là hồ sơ tại **Công an**. Hồ sơ GP sử dụng VLNCN tại Sở vẫn cần **văn bản nghiệm thu PCCC kho cố định** (điểm đ k1 Đ39 Luật 42/2024) — biên bản kiểm tra PCCC dùng xin GCN ANTT không thay được (cùng nguyên tắc "PC03 ≠ nghiệm thu" ở mục II).
+  - Cơ quan cấp GCN ANTT: Phòng CSQLHC về TTXH Công an tỉnh; Cục C06 với cơ sở do trung ương cấp phép thành lập, có yếu tố nước ngoài, hoạt động liên tỉnh mà kinh doanh VLNCN, TCTN, dịch vụ nổ mìn (Đ24 mới). Ngừng kinh doanh: thống kê VLNCN, TCTN còn tồn trong kho, thông báo Công an hoặc Quân sự cấp tỉnh (k14 Đ25 mới).
+  - Chi tiết, bảng đối chiếu: `sd-vlncn-sct-vn` ref 13; toàn văn `.txt`: `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.txt`.
 - Yêu cầu bảo vệ vận hành: lực lượng bảo vệ 24/24, kiểm soát ra vào (K4 Điều 15 NĐ 181/2024); chế độ bảo vệ chi tiết theo Phụ lục 13 QCVN 01:2019/BCT; camera 24/24 (PL10).
 
 ## IV. PHÂN ĐỊNH VỚI CÁC CƠ QUAN KHÁC

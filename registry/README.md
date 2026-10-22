@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **744** (Luật 34, NĐ 221, TT 112, QĐ 300, NQ 35, khác 42).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **748** (Luật 34, NĐ 221, TT 116, QĐ 300, NQ 35, khác 42).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **97**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 

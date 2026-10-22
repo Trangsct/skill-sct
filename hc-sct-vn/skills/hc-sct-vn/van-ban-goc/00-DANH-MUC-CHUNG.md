@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 340 văn bản gốc (340 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 341 văn bản gốc (341 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -41,6 +41,7 @@ Thống kê: 340 văn bản gốc (340 có bản .txt) ở 20 plugin; 30 văn b�
 | 235/NQ-CP | 14/08/2026 | thoa thuan Dieu 6 VN Singapore | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/NQ-235-NQ-CP-14-8-2026-thoa-thuan-Dieu-6-VN-Singapore.txt` | có |
 | 2848/QĐ-UBND | 14/08/2026 | sua doi bo sung QD 1696 | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/04-uy-quyen-quy-trinh/QD-2848-QD-UBND-14-8-2026-sua-doi-bo-sung-QD-1696.pdf` | có |
 | 226/QĐ-BQLCKCN | 14/08/2026 | dieu chinh bo sung HDTD quy hoach KCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-226-QD-BQLCKCN-14-8-2026-dieu-chinh-bo-sung-HDTD-quy-hoach-KCN.pdf` | có |
+| 65/2026/TT-BGDDT | 11/08/2026 | Cong nhan van bang do co so giao duc nuoc ngoai cap | hl-vlncn-sct-vn | `hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/2026.08.11-65.2026.TT.BGDDT-Cong-nhan-van-bang-do-co-so-giao-duc-nuoc-ngoai-cap.docx` | có |
 | 42/2026/QĐ-TTg | 10/08/2026 | danh muc co so kiem ke KNK | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-42-2026-QD-TTg-10-8-2026-danh-muc-co-so-kiem-ke-KNK.txt` | có |
 | 8129/UBND-KT | 10/08/2026 | giao kiem tra xac minh kien nghi Dai Dong Tien | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-8129-UBND-KT-10-8-2026-giao-kiem-tra-xac-minh-kien-nghi-Dai-Dong-Tien.pdf` | có |
 | 129/QĐ-BQL | 06/08/2026 | DCCB QHPK KCN Phu Xuan | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-129-QD-BQL-06-8-2026-DCCB-QHPK-KCN-Phu-Xuan.pdf` | có |

@@ -19,6 +19,8 @@
    b) ngành kỹ thuật khác → **≥ 02 năm** (ĐH trở lên) / **≥ 03 năm** (TC, CĐ).
 5. **Thợ nổ mìn**: sơ cấp trở lên ngành điểm a k4, hoặc trung cấp trở lên ngành điểm b k4; và **≥ 06 tháng** làm công việc phục vụ nổ mìn.
 
+**Người nước ngoài, văn bằng nước ngoài (bổ sung 22/10/2026):** "trình độ từ đại học trở lên" phải chứng minh bằng **văn bằng giáo dục đại học** do cơ sở giáo dục cấp. Văn bằng do cơ sở giáo dục nước ngoài cấp → xác định trình độ tương đương theo **TT 65/2026/TT-BGDĐT** (mục C-quinquies). **Chứng chỉ năng lực hành nghề** do cơ quan quản lý an toàn mỏ nước ngoài cấp qua kỳ sát hạch KHÔNG phải văn bằng, không chứng minh trình độ đại học dù đúng lĩnh vực mỏ. Ví dụ đã gặp (hồ sơ 10/2026, doanh nghiệp đá cẩm thạch tại xã Lục Yên): "Mine Foreman's Certificate of Competency" do Board of Mining Examinations (Ấn Độ) cấp theo Metalliferous Mines Regulations 1961 — chứng chỉ đốc công mỏ kim loại lộ thiên; bản dịch công chứng năm 2010 ghi sai thành "Bằng kĩ sư mỏ địa chất". Luôn đọc **bản gốc tiếng nước ngoài**, không chỉ đọc bản dịch; dấu hợp pháp hóa lãnh sự chỉ xác nhận chữ ký, con dấu, không xác nhận trình độ.
+
 ### Điều 5. Đối tượng phải huấn luyện KTAT VLNCN, ứng phó sự cố (7 nhóm)
 1. Người quản lý. 2. Người lao động trực tiếp sản xuất VLNCN. 3. Người được giao quản lý kho, nơi cất giữ VLNCN. 4. Chỉ huy nổ mìn. 5. Thợ nổ mìn. 6. Người phục vụ liên quan trực tiếp đến sản xuất, kinh doanh, sử dụng VLNCN. 7. Người làm công tác phân tích, thử nghiệm VLNCN.
 
@@ -104,6 +106,21 @@ Cục Kỹ thuật an toàn và Môi trường công nghiệp trả lời SCT **
 3. **Thông báo sử dụng VLNCN với UBND cấp tỉnh, cấp xã**: Luật QLSD vũ khí, VLN và CCHT chỉ quy định nghĩa vụ thông báo; **không quy định UBND cấp tỉnh phải tổ chức kiểm tra điều kiện sử dụng đối với nội dung thông báo** — tiếp nhận để quản lý địa bàn, việc kiểm tra thực hiện theo kế hoạch kiểm tra chấp hành pháp luật, không phải điều kiện tiền đề.
 
 ⚠ Nguồn hiện là **ảnh chụp bản giấy** (GATE metadata từ ảnh, rõ nét). Khi cần viện dẫn trong văn bản chính thức của Sở, ưu tiên xin bản điện tử/sao y qua trục liên thông để đối chiếu lại.
+
+## C-quinquies. TT 65/2026/TT-BGDĐT ngày 11/8/2026 — công nhận văn bằng do cơ sở giáo dục nước ngoài cấp (hiệu lực 26/9/2026)
+
+Bộ Giáo dục và Đào tạo ban hành; KT. Bộ trưởng — Thứ trưởng Phạm Ngọc Thưởng ký. Thay TT 13/2021/TT-BGDĐT, TT 07/2024/TT-BGDĐT, TT 34/2017/TT-BLĐTBXH (k1 Đ10; hồ sơ nộp trước 26/9/2026 giải quyết theo văn bản cũ — k1 Đ9). Toàn văn: `van-ban-goc/2026.08.11-65.2026.TT.BGDDT-Cong-nhan-van-bang-do-co-so-giao-duc-nuoc-ngoai-cap.docx` + `.txt`. Dùng khi thẩm định điều kiện trình độ k1 Đ4 NĐ 181/2024 (người quản lý) của người có văn bằng nước ngoài.
+
+| Điều | Nội dung cần nắm |
+|---|---|
+| Đ1, k1 Đ2 | Phạm vi: văn bằng phổ thông, giáo dục nghề nghiệp, giáo dục đại học do **cơ sở giáo dục nước ngoài** cấp. Công nhận = xác nhận trình độ ghi trên văn bằng và mức tương đương với bậc trình độ trong Khung trình độ quốc gia Việt Nam |
+| k2 Đ2 | Công nhận là **dịch vụ công theo nhu cầu**; người có văn bằng hoặc **tổ chức sử dụng lao động (khi người có văn bằng đồng ý)** được đề nghị |
+| k1 Đ3 | Điều kiện: cơ sở giáo dục hoạt động hợp pháp, chương trình bảo đảm chất lượng, được phép đào tạo, cấp bằng hoặc được kiểm định |
+| k1 Đ4 | **Cục trưởng Cục Quản lý chất lượng, Bộ GDĐT** công nhận văn bằng giáo dục nghề nghiệp, giáo dục đại học (k2: Giám đốc Sở GDĐT — bằng THCS, THPT) |
+| Đ5 | Hồ sơ: Phiếu đề nghị Phụ lục I; bản sao văn bằng + phụ lục/bảng điểm kèm bản dịch có chứng thực chữ ký người dịch; hồ sơ đề nghị công nhận "tải lên Cổng Dịch vụ công quốc gia" theo Thông tư (thủ tục của Bộ GDĐT, không phải TTHC của Sở); **20 ngày làm việc**, tối đa **30 ngày** nếu phải xác minh nước ngoài; không phụ thuộc địa giới hành chính |
+| Đ6 | Kết quả: Giấy công nhận văn bằng (Phụ lục II), dạng giấy/điện tử/số giá trị như nhau, tra cứu được trên CSDL, VNeID theo lộ trình; không đủ điều kiện → trả lời bằng văn bản nêu lý do. **k4: miễn công nhận** với văn bằng thuộc điều ước quốc tế công nhận lẫn nhau mà Việt Nam là thành viên — nhưng cơ quan tiếp nhận vẫn kiểm tra, xác minh khi cần |
+
+Vận dụng tại Sở: hồ sơ người quản lý có văn bằng nước ngoài → yêu cầu bản sao văn bằng + bản dịch có chứng thực + **Giấy công nhận văn bằng** của Cục QLCL (hoặc nêu rõ căn cứ miễn theo k4 Đ6); Sở không tự đánh giá tương đương. Giấy tờ không phải văn bằng (chứng chỉ năng lực hành nghề, chứng chỉ sát hạch) không thuộc phạm vi TT 65 → không công nhận được, không dùng chứng minh trình độ đại học. Văn bản trả lời mẫu: mẫu 09 biến thể "văn bằng nước ngoài".
 
 ## D. Văn bản liên quan khác
 - **Luật 42/2024/QH15 ngày 29/6/2024** — nền của toàn lĩnh vực VLNCN (điều kiện sử dụng Đ38, hồ sơ GP Đ39 → xem `sd-vlncn-sct-vn`).

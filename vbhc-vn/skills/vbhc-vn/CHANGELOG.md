@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.36.1 — 22/10/2026 — Sửa `kiem_tra_truoc_khi_giao.py --tu-sua` căn giữa dọc nhầm bảng Nơi nhận - ký
+
+- Chi tiết: `CHANGELOG-v2026.10.22.md`.
+
 ## v2.36.0 — 19/10/2026 — Nhóm Q (báo cáo của UBND tỉnh gửi Thường trực Tỉnh ủy) và Nhóm R (tài liệu dài, báo cáo tổng hợp, tài liệu nội bộ đón đoàn); sổ lỗi L004–L010
 
 - Gộp nhánh `claude/ctr130-thuong-truc-tinh-uy-18-10` (phiên claude.ai, đánh số 2.35.0/2.36.0 trên nền cũ).

@@ -1,3 +1,10 @@
+## 22/10/2026 (đợt 2) — sct-laocai-org-vn 2.10.0 + 16 plugin PATCH: QĐ 6226/QĐ-SCT (chức năng các phòng), chốt số phân công Ban Giám đốc QĐ 6320/QĐ-SCT
+
+- Bạn gửi bản PDF ký số QĐ 6320/QĐ-SCT ngày 06/10/2026 (phân công GĐ, PGĐ), QĐ 6226/QĐ-SCT ngày 02/10/2026 (Quy định chức năng Văn phòng và các phòng, thay QĐ 59/QĐ-SCT) và QĐ 3628/QĐ-UBND (trùng tệp đã có). Số, ngày, người ký đọc bằng `extract_metadata.py`. Hai QĐ của Sở là văn bản nội bộ — chỉ viết lại nội dung, không lưu bản gốc vào kho công khai.
+- **sct-laocai-org-vn 2.10.0**: ref 01 viết lại theo QĐ 6226 (Điều 3–8, giữ số mục để viện dẫn; bảng thay đổi so với QĐ 59); SKILL.md căn cứ, tóm tắt phòng, lĩnh vực của PGĐ Thuân tại Phòng QLCN (dầu khí, luyện kim, BVMT - CN môi trường, ATVSLĐ), bảng routing; ref 03 mục A chốt số 6320; ref 04 mục B ghi kết quả ban hành 03 dự thảo.
+- Đổi số dẫn "QĐ 6286/QĐ-SCT ngày 05/10/2026" (phân công) → "QĐ 6320/QĐ-SCT ngày 06/10/2026" ở 16 plugin, mỗi plugin tăng một bậc PATCH: attp 1.7.2 (kèm căn cứ ATTP theo QĐ 6226), bvmt 1.7.2, dacn 1.11.2, hc 1.6.2, hl-vlncn 1.5.2, hnh 1.17.1, kccn 1.55.1, kho-vlncn 1.13.3, pccc 1.5.1, qlks 2.3.2, quy-hoach 1.6.1, sd-vlncn 2026.10.22.2, tkm 1.5.2, vbhc 2.36.2, xd 1.7.2, xp 1.8.2.
+- `scripts/check_facts.py`: rule `qd-phan-cong-bgd-la-6320`, `qd-59-sct-da-thay-bang-6226` (FAIL). `registry/trang-thai.csv`: thêm QĐ 59, 6226, 766, 6320, 6286/QĐ-SCT; sinh lại `registry/`, `vbpl.json`.
+
 ## 22/10/2026 — sd-vlncn-sct-vn 2026.10.22.1, pccc-sct-vn 1.5.0, kho-vlncn-sct-vn 1.13.2, vbhc-vn 2.36.1: Nghị định 392/2026/NĐ-CP (điều kiện an ninh, trật tự)
 
 - Bạn gửi NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) — sửa NĐ 96/2016 (điều kiện ANTT), NĐ 99/2016, NĐ 137/2020, NĐ 69/2024, NĐ 70/2024, NĐ 149/2024, NĐ 356/2025; Điều 50 sửa khoản 2 Điều 41 NĐ 347/2026. Bản Word + PDF + `.txt` lưu ở plugin chủ `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.*`.

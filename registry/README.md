@@ -1,16 +1,16 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **751** (Luật 34, NĐ 228, TT 112, QĐ 300, NQ 35, khác 42).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **100**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **753** (Luật 34, NĐ 228, TT 112, QĐ 302, NQ 35, khác 42).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **105**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
 
 | Mã | Số plugin | Plugins | Hiệu lực | Bị sửa đổi bởi | Bị thay thế bởi / dự thảo |
 |---|---|---|---|---|---|
-| QĐ 6286/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn |  |  |  |
+| QĐ 6320/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 06/10/2026 |  |  |
 | QĐ 3628/QĐ-UBND | 15 | attp-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn |  |  |  |
-| NĐ 30/2020 | 12 | attp-sct-vn, bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
+| NĐ 30/2020 | 13 | attp-sct-vn, bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sct-laocai-org-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
 | Luật 42/2024 | 11 | atvsld-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/01/2025 | Luật 118/2025 (01/7/2026) |  |
 | NĐ 105/2025 | 11 | dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 01/7/2025 | NĐ 347/2026 (15/9/2026) |  |
 | NĐ 217/2025 | 11 | atvsld-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 05/8/2025 |  |  |
@@ -46,6 +46,8 @@
 | QĐ 44/2021/QĐ-UBND | bvmt-sct-vn | QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026) |  | Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
 | QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |
+| QĐ 59/QĐ-SCT | attp-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn | QĐ 6226/QĐ-SCT (02/10/2026) |  | Quy định CNNV Văn phòng và các phòng thuộc Sở Công Thương (lịch sử) — thay bằng QĐ 6226/QĐ-SCT ngày 02/10/2026 |
+| QĐ 766/QĐ-SCT | sct-laocai-org-vn, sd-vlncn-sct-vn | QĐ 6320/QĐ-SCT (06/10/2026) |  | Phân công nhiệm vụ GĐ, PGĐ (lịch sử) — thay bằng QĐ 6320/QĐ-SCT ngày 06/10/2026 |
 | QĐ 866/QĐ-TTG | kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn |  | Dự thảo điều chỉnh toàn diện (Cục ĐC&KS, 3/2026 — chưa ký) | Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương |
 
 ## Dùng ở ≥3 plugin nhưng chưa có trạng thái — cần rà bản gốc rồi ghi vào `trang-thai.csv`
@@ -92,7 +94,6 @@
 - TT 75/2024 (4 plugin: hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, vbhc-vn)
 - TT 98/2024 (3 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, vbhc-vn)
 - TT 6/2021 (4 plugin: kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn)
-- QĐ 6286/QĐ-SCT (16 plugin: bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn)
 - QĐ 3865/QĐ-UBND (3 plugin: dacn-sct-vn, ho-so-sct-vn, kccn-sct-vn)
 - QĐ 3628/QĐ-UBND (15 plugin: attp-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 3226/QĐ-UBND (3 plugin: data360x-sct-vn, ho-so-sct-vn, kccn-sct-vn)
@@ -102,7 +103,6 @@
 - QĐ 1382/QĐ-UBND (4 plugin: dacn-sct-vn, ho-so-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - QĐ 1050/QĐ-SCT (4 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 316/QĐ-TTG (3 plugin: kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
-- QĐ 59/QĐ-SCT (3 plugin: attp-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn)
 - QĐ 768/QĐ-TTG (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - NQ 19/2026/NQ-CP (4 plugin: attp-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn)
 - NQ 66.18/2026/NQ-CP (6 plugin: attp-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, xd-sct-vn)

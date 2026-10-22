@@ -412,7 +412,7 @@
     "QĐ 2867/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-17",
       "ngay_hieu_luc": "2026-08-20",
-      "ghi_chu": "Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT; PGĐ Thuân ký đến 04/10/2026, từ 05/10/2026 PGĐ Chiến theo QĐ 6286/QĐ-SCT); không gồm thu hồi GP, phê duyệt PANM"
+      "ghi_chu": "Uỷ quyền Sở CT cấp GP sử dụng VLNCN (/GP-SCT; PGĐ Thuân ký đến 04/10/2026, từ 05/10/2026 PGĐ Chiến theo QĐ 6320/QĐ-SCT); không gồm thu hồi GP, phê duyệt PANM"
     },
     "QĐ 2913/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-18",
@@ -761,6 +761,26 @@
       "ngay_ban_hanh": "2026-02-25",
       "ghi_chu": "Quy hoạch tỉnh Lào Cai (điều chỉnh)"
     },
+    "QĐ 59/QĐ-SCT": {
+      "ngay_ban_hanh": "2025-07-01",
+      "ngay_hieu_luc": "2025-07-01",
+      "bi_thay_the_boi": "QĐ 6226/QĐ-SCT (02/10/2026)",
+      "ghi_chu": "Quy định CNNV Văn phòng và các phòng thuộc Sở Công Thương (lịch sử) — thay bằng QĐ 6226/QĐ-SCT ngày 02/10/2026"
+    },
+    "QĐ 6226/QĐ-SCT": {
+      "ngay_ban_hanh": "2026-10-02",
+      "ngay_hieu_luc": "2026-10-02",
+      "ghi_chu": "Quy định CNNV Văn phòng và 5 phòng chuyên môn (thêm Phòng Quản lý khoáng sản, Điều 6); GĐ Hoàng Chí Hiền ký; thay QĐ 59/QĐ-SCT; đối chiếu bản gốc 22/10/2026 (sct-laocai-org-vn ref 01)"
+    },
+    "QĐ 6286/QĐ-SCT": {
+      "ngay_ban_hanh": "2026-10-05",
+      "ghi_chu": "Ban hành Quy chế làm việc của Sở Công Thương (số, ngày theo căn cứ của QĐ 6320/QĐ-SCT; chưa có bản gốc) — KHÔNG phải QĐ phân công BGĐ"
+    },
+    "QĐ 6320/QĐ-SCT": {
+      "ngay_ban_hanh": "2026-10-06",
+      "ngay_hieu_luc": "2026-10-06",
+      "ghi_chu": "Phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc (GĐ + 6 PGĐ); GĐ Hoàng Chí Hiền ký; thay QĐ 766/QĐ-SCT; đối chiếu bản gốc 22/10/2026"
+    },
     "QĐ 65/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-14",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17143460; chưa kiểm ngày hiệu lực; Ban hành Quy định phân công, phân cấp và tổ chức thực hiện quản lý công viên, cây xanh, mặ"
@@ -780,6 +800,11 @@
     "QĐ 76/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-21",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17539761; chưa kiểm ngày hiệu lực; Ban hành Quy định định mức kinh tế - kỹ thuật để tổ chức xây dựng, sửa đổi, bổ sung bảng g"
+    },
+    "QĐ 766/QĐ-SCT": {
+      "ngay_ban_hanh": "2026-02-12",
+      "bi_thay_the_boi": "QĐ 6320/QĐ-SCT (06/10/2026)",
+      "ghi_chu": "Phân công nhiệm vụ GĐ, PGĐ (lịch sử) — thay bằng QĐ 6320/QĐ-SCT ngày 06/10/2026"
     },
     "QĐ 77/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-22",

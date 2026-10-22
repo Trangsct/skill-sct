@@ -23,7 +23,7 @@ Việc CCN thường gồm 1 báo cáo + nhiều phụ lục + đôi khi bản c
 
 ### Dòng "Lưu" và người ký
 - Dòng lưu: `Lưu: VT, CN.` — không ghi tên/mã người soạn (Bạn chốt 01/10/2026).
-- **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (từ 05/10/2026, QĐ 6286/QĐ-SCT: KCN/CCN/ATTP/hóa chất/VLNCN/PCTT, dự kiến HHNH/PCCC → Nguyễn Đình Chiến; khai thác - chế biến khoáng sản/thiết kế mỏ/CN môi trường/ATVSLĐ → Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → Phạm Năng Chung; năng lượng → Nguyễn Trường Giang; thương mại → Trịnh Văn Thành/Nguyễn Huy Tưởng; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.
+- **Người ký**: theo Quy tắc 6 — chọn PGĐ theo **lĩnh vực** (từ 05/10/2026, QĐ 6320/QĐ-SCT: KCN/CCN/ATTP/hóa chất/VLNCN/PCTT, dự kiến HHNH/PCCC → Nguyễn Đình Chiến; khai thác - chế biến khoáng sản/thiết kế mỏ/CN môi trường/ATVSLĐ → Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → Phạm Năng Chung; năng lượng → Nguyễn Trường Giang; thương mại → Trịnh Văn Thành/Nguyễn Huy Tưởng; xem bảng trong `sct-laocai-org-vn`). Khi không chắc, nêu rõ để người dùng chọn thay vì mặc định cứng.
 
 ### Phụ lục bảng của kế hoạch, danh mục dự án (rút từ Kế hoạch Bài toán lớn số 2, 04/10/2026; chuyển từ PR 116)
 - **Tiêu đề phụ lục là một đoạn**: "PHỤ LỤC II" / "DANH MỤC … CÔNG NGHỆ CHIẾN LƯỢC GIAI ĐOẠN 2026 - 2030" / "(Kèm theo Kế hoạch số …/KH-UBND ngày … của UBND tỉnh Lào Cai)". Không tách "GIAI ĐOẠN 2026 - 2030" thành đoạn riêng — Bạn yêu cầu ghép nối với dòng trên.

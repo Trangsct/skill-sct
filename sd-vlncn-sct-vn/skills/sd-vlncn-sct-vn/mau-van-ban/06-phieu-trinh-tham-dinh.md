@@ -1,6 +1,6 @@
 # Mẫu 06 — PHIẾU TRÌNH nội bộ Sở (thẩm định hồ sơ GP/PANM)
 
-> ⭐ **KHUÔN MỚI TỪ 8/2026 CHO HỒ SƠ CẤP/CẤP LẠI/CẤP ĐIỀU CHỈNH GP (/GP-SCT — PGĐ Chiến ký GP từ 05/10/2026, QĐ 6286/QĐ-SCT; trước đó PGĐ Thuân — lịch sử):**
+> ⭐ **KHUÔN MỚI TỪ 8/2026 CHO HỒ SƠ CẤP/CẤP LẠI/CẤP ĐIỀU CHỈNH GP (/GP-SCT — PGĐ Chiến ký GP từ 05/10/2026, QĐ 6320/QĐ-SCT; trước đó PGĐ Thuân — lịch sử):**
 > khung docx thật `vi-du-thuc-te/Phieu-trinh-PGD-ky-GP-Kim-Thanh-ban-chot-8.2026.docx` (mỏ hầm lò, có CHUYÊN
 > VIÊN PHỐI HỢP Lê Minh Long) và `Phieu-trinh-PGD-ky-GP-Dong-Tien-ban-chot-26.8.2026.docx` (công trình
 > giao thông, KHÔNG có chuyên viên phối hợp). Kết cấu:

@@ -44,6 +44,7 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R23 | Số hiệu văn bản quy phạm (số/năm/ký hiệu) phải khớp tệp gốc trong kho (sổ cái) hoặc căn cứ Bạn gửi trong phiên (`can-cu-phien.txt`, `ke-hoach-soan.txt`, `VBHC_CAN_CU_PHIEN`) | GATE 0 điểm c, Bạn chốt 17/10/2026 | `qa_rules.rule_R23`; thử: `tests/test_gate0.py` | WARN |
 | R24 | "Ủy ban nhân dân" ở khối Nơi nhận và ô bảng phụ lục, danh mục phải viết "UBND"; chữ đầy đủ ở đầu trang, khối ký và THÂN văn bản (checklist rà soát dòng 12, Bạn chốt 17/10/2026). Phần căn cứ: chờ Bạn chốt | Bạn chốt 04/10/2026 (PR 116, mã cũ R19 của nhánh); Nhóm G, P9 | `qa_rules.rule_R24` | WARN (0 WARN mới trên 26 mẫu thật khi thu hẹp phạm vi) |
 | R25 | Nơi nhận theo vị thế cơ quan nhà nước; doanh nghiệp đứng riêng dòng, sau cơ quan nhà nước, trên Văn phòng và Lưu | Bạn chốt 04/10/2026 (PR 116, mã cũ R20 của nhánh); Nhóm G, P9 | `qa_rules.rule_R25` | FAIL (doanh nghiệp chung dòng cơ quan nhà nước) / WARN (cơ quan nhà nước đứng sau doanh nghiệp — `thong-bao-ket-luan-ubnd.docx` mẫu thật VP UBND có 1 WARN, đã chốt baseline 18/10/2026) |
+| R26 | Bảng Nơi nhận - ký: ô không đặt vAlign center/bottom; dòng "Nơi nhận:" ngang dòng chức vụ người ký | Bạn chốt 23/10/2026; Nhóm G; sổ lỗi L011 | `qa_rules.rule_R26` | WARN; `--tu-sua` tự đặt top |
 
 ## B. Quy tắc loại M — ĐÃ CÓ hàm kiểm từ trước, đợt này chỉ gắn mã
 
@@ -137,7 +138,7 @@ tắc "mẫu thật là chuẩn" thay vì chờ chốt tay:**
 
 | Công cụ | Việc | Nguồn dữ liệu |
 |---|---|---|
-| `scripts/qa_rules.py` | 25 quy tắc R01–R25, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
+| `scripts/qa_rules.py` | 26 quy tắc R01–R26, chạy lẻ hoặc qua `qa_all.py` mục 1b | `data/*.txt`, `data/vbpl.json` |
 | `scripts/cite_check.py` | Đối chiếu mọi số hiệu trong bản thảo: KHỚP / LỆCH / CHƯA CÓ | `data/vbpl.json` |
 | `scripts/build_vbpl.py` (gốc kho) | Sinh `data/vbpl.json` — **không sửa tay file JSON** | `registry/trang-thai.csv` |
 | `scripts/build_vb.py` | Dựng .docx từ nội dung dạng thẻ cho 8 loại; tự làm chỉ số dưới/trên và lùi đầu dòng | mẫu thật trong `examples/` |

@@ -65,3 +65,9 @@ Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-
 - Ví dụ: "Về GPMB:" ; "sản lượng đến nay khoảng 286.000 tấn".
 - Máy kiểm: grep "số liệu đến ngày", "(đến \d\d/\d\d/20" trong tài liệu nội bộ → WARN (đề xuất gộp vào R29).
 
+### L011 — 23/10/2026 — Dòng "Nơi nhận:" thấp hơn dòng chức vụ người ký
+- Lỗi: hai ô của bảng khối ký đặt căn giữa theo chiều dọc (mẫu thật cũ sẵn có, hoặc bị bước chuẩn hóa "mọi ô bảng căn giữa dọc" áp nhầm vì so sánh đối tượng bảng bằng `is` không nhận ra bảng ký); ô ký cao 8 dòng, ô Nơi nhận 5 dòng nên "Nơi nhận:" tụt xuống ngang "PHÓ CHỦ TỊCH".
+- Cách đúng: bảng khối ký mọi ô vAlign top; quy ước "mọi ô bảng căn giữa dọc" chỉ áp cho bảng nội dung, không áp cho bảng tiêu đề, bảng Kính gửi, bảng Nơi nhận - ký; ô ký rộng rãi bằng dòng trống trong ô ký.
+- Ví dụ: dự thảo Công văn UBND tỉnh gửi UBND thành phố Bắc Ninh và Tờ trình kèm theo (23/10/2026) sau sửa "Nơi nhận:" ngang "KT. CHỦ TỊCH", "GIÁM ĐỐC".
+- Máy kiểm: R26 (WARN) trong `qa_rules.py`; `kiem_tra_truoc_khi_giao.py --tu-sua` hàm `sua_khoi_ky` đặt top và `sua_bang` không còn đụng bảng ký.
+

@@ -1,5 +1,12 @@
 # CHANGELOG — hc-sct-vn
 
+## 1.7.0 — 23/10/2026 — Vụ GCN kinh doanh lưu huỳnh, kho thuê ở thành phố Bắc Ninh (ref 16 mục 5c, 3 mẫu mới)
+
+- **ref 16 mục 5c (mới):** vụ thẩm định GCN đủ điều kiện kinh doanh lưu huỳnh với kho thuê dịch vụ tồn trữ tại thành phố Bắc Ninh — 8 điểm Bạn chốt: trình tự lấy ý kiến UBND cấp tỉnh nơi đặt kho (đoạn 2 điểm d khoản 5 Điều 9 NĐ 26: 03 + 09 + 03 ngày, Sở không kiểm tra kho ở tỉnh khác); kiểm tra thực tế tại trụ sở chính, cơ sở kinh doanh kèm 4 cam kết của doanh nghiệp; 5 lỗi điển hình của hợp đồng dịch vụ tồn trữ theo nguyên tắc "GCN không cho phép linh hoạt" và cách xử lý (mục "Nội dung Đoàn làm rõ", yêu cầu phụ lục có xác nhận chủ kho); bằng "Công nghệ hóa học" tương đương "Kỹ thuật hóa học" Phụ lục III NĐ 25; hợp đồng lao động, văn bản phân công đối chiếu tại biên bản; soi QĐ huấn luyện của tổ chức tư vấn (Điều 19, k2 Đ31, k3-4 Đ32 NĐ 25); lỗi "gửi kèm" theo mẫu cũ ở văn bản đề nghị; cấu trúc biên bản theo Mẫu 7 HHNH, bôi tím nội dung cần làm rõ; Bắc Ninh là thành phố trực thuộc Trung ương từ 20/9/2026.
+- **ref 03:** thêm trình tự kho thuê ở tỉnh khác; checklist thêm 6a (hợp đồng dịch vụ tồn trữ), 6b (HĐLĐ, phân công đối chiếu tại biên bản).
+- **ref 14:** 2 dòng mẫu mới. **`vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/`** (3 mẫu ẩn danh): Biên bản thẩm định hồ sơ và kiểm tra thực tế; Tờ trình Sở đề nghị UBND tỉnh lấy ý kiến; dự thảo Công văn UBND tỉnh gửi UBND nơi đặt kho.
+- `plugin.json` 1.6.2 → 1.7.0 (description nhắc mục 5c).
+
 ## 1.6.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/10-kiem-tra-chuyen-nganh.md`; `references/14-bo-mau-van-ban.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

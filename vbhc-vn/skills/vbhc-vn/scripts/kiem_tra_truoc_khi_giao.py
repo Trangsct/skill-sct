@@ -81,7 +81,7 @@ def sua_bang(doc) -> int:
     t_ky, _ = _o_noi_nhan(doc)
     n = 0
     for ti, tb in enumerate(doc.tables):
-        if ti == 0 or tb is t_ky or "Kính gửi" in tb._tbl.xpath("string(.)"):
+        if ti == 0 or (t_ky is not None and tb._tbl is t_ky._tbl) or "Kính gửi" in tb._tbl.xpath("string(.)"):
             continue
         for tc in tb._tbl.iter(qn("w:tc")):
             pr = tc.get_or_add_tcPr()
@@ -96,6 +96,21 @@ def sua_bang(doc) -> int:
                     pr.append(va)
                 va.set(qn("w:val"), "center")
                 n += 1
+    return n
+
+
+def sua_khoi_ky(doc) -> int:
+    """Bảng Nơi nhận - ký: mọi ô vAlign top để dòng 'Nơi nhận:' ngang dòng chức vụ (Bạn chốt 23/10/2026, R26)."""
+    t_ky, _ = _o_noi_nhan(doc)
+    if t_ky is None:
+        return 0
+    n = 0
+    for tc in t_ky._tbl.iter(qn("w:tc")):
+        pr = tc.get_or_add_tcPr()
+        va = pr.find(qn("w:vAlign"))
+        if va is not None and va.get(qn("w:val")) != "top":
+            va.set(qn("w:val"), "top")
+            n += 1
     return n
 
 
@@ -129,11 +144,13 @@ def tu_sua(path: Path) -> list[str]:
     a = sua_kinh_gui(doc)
     b = sua_bang(doc)
     c = sua_dong_luu(doc)
+    d = sua_khoi_ky(doc)
     doc.save(str(path))
-    if a or b or c:  # python-docx lưu lại có thể sinh phông mặc định — chuẩn hóa thêm một lần
+    if a or b or c or d:  # python-docx lưu lại có thể sinh phông mặc định — chuẩn hóa thêm một lần
         chuan_hoa_file(path, None, tthc=tthc)
     return [f"chuan_hoa_xuat_ban.py{' --tthc' if tthc else ''}", f"dòng trống sau Kính gửi: {a} chỗ",
-            f"ô bảng nền trắng, căn giữa dọc: {b} thuộc tính", f"bỏ tên chuyên viên ở dòng Lưu: {c} chỗ"]
+            f"ô bảng nền trắng, căn giữa dọc: {b} thuộc tính", f"bỏ tên chuyên viên ở dòng Lưu: {c} chỗ",
+            f"khối Nơi nhận - ký căn trên: {d} ô"]
 
 
 def chay_qa_all(path: Path, final: bool, anh: bool) -> tuple[int, list[str]]:

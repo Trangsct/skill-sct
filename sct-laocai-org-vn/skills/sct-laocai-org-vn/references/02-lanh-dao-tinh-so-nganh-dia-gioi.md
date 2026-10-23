@@ -39,6 +39,12 @@ UBND tỉnh nhiệm kỳ 2026-2031:
 
 ## 2. Địa danh sau sắp xếp - quy tắc ghi trong văn bản hành chính
 
+### 2a. Tỉnh, thành phố khác đã đổi cấp hành chính (đối chiếu khi gửi văn bản liên tỉnh)
+
+- **Bắc Ninh: thành phố trực thuộc Trung ương từ 20/9/2026** (Quốc hội thông qua Nghị quyết thành lập thành phố Bắc Ninh trên cơ sở toàn bộ tỉnh Bắc Ninh ngày 24/8/2026, Kỳ họp không thường lệ thứ Nhất; hồ sơ Chính phủ: Nghị quyết 205/NQ-CP ngày 01/8/2026). Từ 20/9/2026 ghi "Ủy ban nhân dân thành phố Bắc Ninh", "Sở Công Thương thành phố Bắc Ninh"; văn bản của Bắc Ninh ban hành trước 20/9/2026 ghi "tỉnh Bắc Ninh" là đúng theo thời điểm, khi trích dẫn giữ nguyên, không sửa (vụ hồ sơ hóa chất kho thuê KCN Thuận Thành 3, 23/10/2026 — `hc-sct-vn` ref 16 mục 5c).
+- **Quảng Ninh: thành phố trực thuộc Trung ương từ 01/9/2026** (cùng kỳ họp).
+- Số hiệu hai Nghị quyết của Quốc hội chưa có bản gốc trong kho — không dẫn số; nạp qua `_inbox/` khi có.
+
 Mọi địa danh trước đây thuộc tỉnh Yên Bái (phường Âu Lâu, Trấn Yên, Văn Chấn, Nghĩa Lộ, Mù Cang Chải, Trạm Tấu, Lục Yên, Văn Yên, Yên Bình, thành phố Yên Bái cũ...) nay đều thuộc tỉnh Lào Cai. Trong văn bản hành chính ghi "..., tỉnh Lào Cai" cho tất cả các địa danh này; không ghi "tỉnh Yên Bái" trừ khi trích dẫn văn bản lịch sử ban hành trước 01/7/2025 (khi đó giữ nguyên tên cơ quan ban hành cũ, ví dụ "UBND tỉnh Yên Bái" trong số/ký hiệu quyết định cũ).
 
 Không còn cấp huyện: không dùng "huyện Trấn Yên", "thành phố Yên Bái" như đơn vị hành chính hiện hành; chỉ dùng tên xã, phường + tỉnh Lào Cai. Khi cần chỉ vùng địa lý cũ để người đọc dễ hình dung thì ghi "khu vực Trấn Yên (cũ)".

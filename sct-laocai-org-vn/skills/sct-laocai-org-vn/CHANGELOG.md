@@ -1,5 +1,10 @@
 # CHANGELOG — sct-laocai-org-vn
 
+## 2.10.1 — 23/10/2026 — Bắc Ninh, Quảng Ninh thành phố trực thuộc Trung ương (ref 02 mục 2a)
+
+- ref 02 mục 2a (mới): Bắc Ninh là thành phố trực thuộc Trung ương từ 20/9/2026 (Quốc hội thông qua 24/8/2026), Quảng Ninh từ 01/9/2026; cách ghi tên cơ quan Bắc Ninh trước và sau mốc; chưa dẫn số Nghị quyết vì chưa có bản gốc trong kho.
+- `plugin.json` 2.10.0 → 2.10.1.
+
 ## 2.10.0 — 22/10/2026 — QĐ 6226/QĐ-SCT (chức năng các phòng, thay QĐ 59); chốt số phân công BGĐ QĐ 6320/QĐ-SCT (6286 là Quy chế làm việc)
 
 - Ref 01 viết lại theo QĐ 6226/QĐ-SCT ngày 02/10/2026 (đổi tên tệp `...-qd6226.md`); SKILL.md, các plugin đổi số dẫn phân công sang QĐ 6320/QĐ-SCT ngày 06/10/2026; rule `check_facts.py` mới. Chi tiết: `CHANGELOG-v2026.10.22.md`.

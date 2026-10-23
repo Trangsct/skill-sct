@@ -9,7 +9,7 @@ description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai. K
 
 ## Lãnh đạo tỉnh, lãnh đạo các Sở ngành, địa giới hành chính — `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md`
 
-Tra ở đây (không suy đoán) khi cần: tên Bí thư/Chủ tịch/các Phó Chủ tịch UBND tỉnh (nhiệm kỳ 2026-2031); Giám đốc các Sở ngành (5/2026); diện tích, dân số, 99 xã/phường của tỉnh Lào Cai mới (NQ 202/2025/QH15, từ 01/7/2025); quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; địa chỉ, điện thoại Sở Công Thương (Số 165 Lý Thường Kiệt, phường Yên Bái; 02163.857.863 — không điền email). Chuyển từ bộ ghi nhớ cá nhân sang skill ngày 08/9/2026.
+Tra ở đây (không suy đoán) khi cần: tên Bí thư/Chủ tịch/các Phó Chủ tịch UBND tỉnh (nhiệm kỳ 2026-2031); Giám đốc các Sở ngành (5/2026); diện tích, dân số, 99 xã/phường của tỉnh Lào Cai mới (NQ 202/2025/QH15, từ 01/7/2025); quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; tỉnh, thành phố khác đã đổi cấp (mục 2a: Bắc Ninh thành phố trực thuộc Trung ương từ 20/9/2026, Quảng Ninh từ 01/9/2026 — ghi "Ủy ban nhân dân thành phố Bắc Ninh" trong văn bản gửi đi); địa chỉ, điện thoại Sở Công Thương (Số 165 Lý Thường Kiệt, phường Yên Bái; 02163.857.863 — không điền email). Chuyển từ bộ ghi nhớ cá nhân sang skill ngày 08/9/2026.
 
 ## Kỳ cập nhật 10/10/2026 — `references/03-ky-cap-nhat-10-10-2026-nhan-su-phong-khoang-san-so-van-ban.md`
 

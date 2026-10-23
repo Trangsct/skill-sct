@@ -1475,6 +1475,40 @@ def rule_R25(doc, ctx) -> list[Finding]:
     return out
 
 
+def rule_R26(doc, ctx) -> list[Finding]:
+    """R26 — Khối Nơi nhận - chữ ký: hai ô căn TRÊN (vAlign top), dòng "Nơi nhận:" ngang dòng chức vụ.
+
+    Quy tắc: bảng khối ký không áp căn giữa chiều dọc như bảng nội dung. Ô ký thường cao hơn ô Nơi nhận
+    (chức vụ + khoảng trống ký + họ tên), nếu ô Nơi nhận đặt vAlign center/bottom thì dòng "Nơi nhận:"
+    tụt xuống thấp hơn dòng "KT. CHỦ TỊCH"/"GIÁM ĐỐC" — Bạn chỉ ra 23/10/2026 ("sao cái ô nơi nhận thấp
+    hơn dòng KT. Chủ tịch"). Cách đúng: mọi ô của bảng ký vAlign top (hoặc bỏ vAlign); nhu cầu ô ký rộng
+    rãi giải quyết bằng dòng trống trong ô ký, không bằng căn giữa dọc.
+    Nguồn: Bạn chốt 23/10/2026; Nhóm G (reference/phong-tranh-sai-lam.md), sổ lỗi L011.
+    Mức: WARN — mẫu thật cũ có thể còn vAlign center ở ô Nơi nhận; --tu-sua của kiem_tra_truoc_khi_giao.py
+    tự đặt top.
+    """
+    t, o = _o_noi_nhan(doc)
+    if t is None:
+        return []
+    out: list[Finding] = []
+    for row in t.rows:
+        for c in row.cells:
+            if not c.text.strip():
+                continue
+            pr = c._tc.tcPr
+            va = pr.find(qn("w:vAlign")) if pr is not None else None
+            if va is not None and va.get(qn("w:val")) in ("center", "bottom"):
+                out.append(Finding(
+                    "R26", WARN, "bảng Nơi nhận - ký", cut(c.text.strip().splitlines()[0] if c.text.strip() else ""),
+                    "Ô khối ký đặt căn giữa/dưới theo chiều dọc → dòng 'Nơi nhận:' lệch dòng chức vụ; đặt vAlign top "
+                    "cho mọi ô của bảng ký (kiem_tra_truoc_khi_giao.py --tu-sua tự sửa).",
+                ))
+                break
+        if out:
+            break
+    return out
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1501,6 +1535,7 @@ RULES = [
     ("R23", rule_R23),
     ("R24", rule_R24),
     ("R25", rule_R25),
+    ("R26", rule_R26),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

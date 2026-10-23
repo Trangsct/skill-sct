@@ -1,3 +1,10 @@
+## 23/10/2026 — hc-sct-vn 1.7.0 + vbhc-vn 2.37.0 + sct-laocai-org-vn 2.10.1: vụ GCN kinh doanh lưu huỳnh với kho thuê ở thành phố Bắc Ninh; R26 khối Nơi nhận - ký; Bắc Ninh thành phố trực thuộc Trung ương
+
+- **hc-sct-vn 1.7.0:** ref 16 mục 5c (8 điểm Bạn chốt khi thẩm định hồ sơ GCN kinh doanh hóa chất có kho thuê ở tỉnh khác: trình tự lấy ý kiến UBND nơi đặt kho theo đoạn 2 điểm d khoản 5 Điều 9 NĐ 26, Sở không kiểm tra kho ở tỉnh khác; kiểm tra thực tế tại trụ sở + 4 cam kết; 5 lỗi hợp đồng dịch vụ tồn trữ theo nguyên tắc "GCN không cho phép linh hoạt"; bằng "Công nghệ hóa học" tương đương "Kỹ thuật hóa học"; HĐLĐ, phân công đối chiếu tại biên bản; soi QĐ huấn luyện của tổ chức tư vấn; lỗi "gửi kèm" theo mẫu cũ; biên bản theo Mẫu 7 HHNH, bôi tím nội dung cần làm rõ); ref 03 bổ sung trình tự và checklist 6a, 6b; ref 14 + thư mục `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/` 3 mẫu ẩn danh (Biên bản thẩm định và kiểm tra thực tế; Tờ trình; dự thảo Công văn UBND tỉnh).
+- **vbhc-vn 2.37.0:** R26 (WARN) bảng Nơi nhận - ký không đặt ô căn giữa/dưới theo chiều dọc, dòng "Nơi nhận:" ngang dòng chức vụ; `kiem_tra_truoc_khi_giao.py --tu-sua` thêm `sua_khoi_ky` và sửa lỗi `sua_bang` so sánh bảng bằng `is` (áp căn giữa dọc nhầm lên bảng ký); sổ lỗi L011; test `tests/fail/r26-khoi-ky-can-giua-doc.docx`.
+- **sct-laocai-org-vn 2.10.1:** ref 02 mục 2a — Bắc Ninh thành phố trực thuộc Trung ương từ 20/9/2026, Quảng Ninh từ 01/9/2026 (chưa dẫn số Nghị quyết Quốc hội vì chưa có bản gốc).
+- `trang-thai/gcn-hoa-chat-quang-huy.md` (mới) + bản chép trong `ho-so-sct-vn`; marketplace 4.11.167.
+
 ## 22/10/2026 (đợt 2) — sct-laocai-org-vn 2.10.0 + 16 plugin PATCH: QĐ 6226/QĐ-SCT (chức năng các phòng), chốt số phân công Ban Giám đốc QĐ 6320/QĐ-SCT
 
 - Bạn gửi bản PDF ký số QĐ 6320/QĐ-SCT ngày 06/10/2026 (phân công GĐ, PGĐ), QĐ 6226/QĐ-SCT ngày 02/10/2026 (Quy định chức năng Văn phòng và các phòng, thay QĐ 59/QĐ-SCT) và QĐ 3628/QĐ-UBND (trùng tệp đã có). Số, ngày, người ký đọc bằng `extract_metadata.py`. Hai QĐ của Sở là văn bản nội bộ — chỉ viết lại nội dung, không lưu bản gốc vào kho công khai.

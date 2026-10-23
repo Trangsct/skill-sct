@@ -1,5 +1,12 @@
 # CHANGELOG vbhc-vn
 
+## v2.37.0 — 23/10/2026 — R26 khối Nơi nhận - ký căn trên; sửa lỗi tự sửa áp căn giữa dọc lên bảng ký
+
+- **R26 (WARN) mới:** bảng Nơi nhận - chữ ký không được đặt ô căn giữa/dưới theo chiều dọc; dòng "Nơi nhận:" phải ngang dòng chức vụ người ký (Bạn chỉ ra 23/10/2026 ở dự thảo Công văn UBND tỉnh và Tờ trình hồ sơ hóa chất). File lỗi `tests/fail/r26-khoi-ky-can-giua-doc.docx`.
+- `kiem_tra_truoc_khi_giao.py --tu-sua`: thêm `sua_khoi_ky` (đặt vAlign top cho mọi ô bảng ký); sửa lỗi `sua_bang` so sánh bảng bằng `is` nên không nhận ra bảng ký và áp căn giữa dọc nhầm lên khối ký — nay so sánh `_tbl`.
+- Sổ lỗi tự ghi L011; `tests/rule-inventory.md` thêm R26; SKILL.md Nhóm G và các chỗ "R01–R25" → "R01–R26".
+- `plugin.json` 2.36.2 → 2.37.0.
+
 ## v2.36.1 — 22/10/2026 — data/vbpl.json: NĐ 392/2026/NĐ-CP, NĐ 96/2016, NĐ 149/2024
 
 - `data/vbpl.json` sinh lại bằng `scripts/build_vbpl.py` từ `registry/trang-thai.csv`: thêm NĐ 392/2026/NĐ-CP (ban hành 20/10/2026, hiệu lực 15/11/2026 — R05 sẽ báo nếu văn bản ký trước 15/11/2026 viện dẫn như đang có hiệu lực), NĐ 96/2016 và NĐ 149/2024 (bị sửa bởi NĐ 392/2026); NĐ 347/2026 ghi bị sửa bởi Điều 50 NĐ 392/2026. Bản gốc ở `sd-vlncn-sct-vn/van-ban-goc/`, tóm tắt `sd-vlncn-sct-vn` ref 13.

@@ -10,6 +10,8 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 | Yêu cầu bổ sung hồ sơ | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-tu-choi/CV-phuc-dap-ho-so-cap-GCN.docx`; ref 03 |
 | Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (**Mẫu 09 TT 26/2026**, thay Mẫu 10c TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-09-...docx`; ref 03 |
 | Tham khảo hồ sơ cấp GCN sản xuất | Công văn/hồ sơ | — | `vi-du-thuc-te/gcn-tu-choi/Tham-khao-cap-GCN-SX-co-dieu-kien.docx`; ref 03 |
+| Biên bản thẩm định hồ sơ và kiểm tra thực tế (GCN kinh doanh, kho thuê ở tỉnh khác) | Biên bản (theo Mẫu 7 biên bản thẩm định HHNH) | Đại diện Đoàn kiểm tra + Đại diện Công ty | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/Bien-ban-tham-dinh-ho-so-va-kiem-tra-thuc-te-GCN-KD-kho-thue-tinh-khac.docx`; ref 03, 16 mục 5c |
+| Lấy ý kiến UBND cấp tỉnh nơi đặt kho thuê (điểm d khoản 5 Điều 9 NĐ 26) | Tờ trình (TTr-SCT) + dự thảo Công văn UBND tỉnh (UBND-KT) | TTr: GĐ Sở; CV: KT. Chủ tịch - Phó Chủ tịch | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/To-trinh-...docx`, `Du-thao-CV-UBND-tinh-...docx`; ref 03, 16 mục 5c |
 | Cấp GP hóa chất kiểm soát đặc biệt nhóm 2 | Giấy phép (**Mẫu 06 TT 26/2026**, thay Mẫu 06c PL VI TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-06-...docx`; ref 04 |
 | Cấp GP XNK kiểm soát đặc biệt nhóm 1 và nhóm 2 (từ 29/5/2026) | Giấy phép (PL VII TT 01 — không bị thay) | theo ủy quyền/UBND tỉnh | ref 04, 08, 18 |
 | Cấp GP nhập khẩu hóa chất cấm (từ 29/5/2026) | Giấy phép (PL II TT 01) | UBND tỉnh | ref 18 |

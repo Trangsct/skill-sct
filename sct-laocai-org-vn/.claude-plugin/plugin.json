@@ -1,6 +1,6 @@
 {
   "name": "sct-laocai-org-vn",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "description": "Cơ cấu tổ chức, phân công Sở Công Thương Lào Cai: QĐ 3628/QĐ-UBND 02/10/2026 - 06 phòng (thêm Phòng QL khoáng sản) + Chi cục QLTT, KCN không thuộc Sở; chức năng các phòng QĐ 6226/QĐ-SCT 02/10/2026 (thay QĐ 59). Ban Giám đốc GĐ + 6 PGĐ theo QĐ 6320/QĐ-SCT 06/10/2026 (Chiến: Phòng QLCN, hóa chất, VLNCN; Thuân: Phòng QLKS, luyện kim, CN môi trường, ATVSLĐ; Chung: khoáng sản); nội bộ Phòng QLCN 10/7/2026. Ai phụ trách, trình ai, ai ký, dòng Lưu.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

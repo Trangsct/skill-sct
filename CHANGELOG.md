@@ -1,3 +1,9 @@
+## 23/10/2026 — kccn-sct-vn 1.56.0: QĐ 3936/QĐ-HĐ tiêu chí lựa chọn chủ đầu tư hạ tầng CCN Tân Hợp
+
+- Bạn gửi bản ký PDF và bản Word trình ký QĐ 3936/QĐ-HĐ ngày 22/10/2026 của Hội đồng đánh giá lựa chọn CĐT CCN Tân Hợp (PCT UBND tỉnh Ngô Hạnh Phúc ký, TM. Hội đồng).
+- **kccn-sct-vn 1.56.0**: ref 51 mới (khuôn chuẩn Quy định tiêu chí, thể thức bản ký, căn cứ NĐ 303/2026, NĐ 48/2026); bản gốc PDF + .txt; bản Word trong vi-du-thuc-te; ref 27, 39, 46, mẫu 03.2 cập nhật.
+- `trang-thai/ccn-tan-hop.md` mới (bậc 7 xong, chờ họp Hội đồng chấm điểm); `ho-so-sct-vn` sinh lại bản chép.
+
 ## 22/10/2026 (đợt 2) — sct-laocai-org-vn 2.10.0 + 16 plugin PATCH: QĐ 6226/QĐ-SCT (chức năng các phòng), chốt số phân công Ban Giám đốc QĐ 6320/QĐ-SCT
 
 - Bạn gửi bản PDF ký số QĐ 6320/QĐ-SCT ngày 06/10/2026 (phân công GĐ, PGĐ), QĐ 6226/QĐ-SCT ngày 02/10/2026 (Quy định chức năng Văn phòng và các phòng, thay QĐ 59/QĐ-SCT) và QĐ 3628/QĐ-UBND (trùng tệp đã có). Số, ngày, người ký đọc bằng `extract_metadata.py`. Hai QĐ của Sở là văn bản nội bộ — chỉ viết lại nội dung, không lưu bản gốc vào kho công khai.

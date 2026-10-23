@@ -2,6 +2,8 @@
 
 > Kỳ cập nhật 18/8/2026. Đây là **bộ tiêu chí chuẩn hiện hành** khi soạn Quy định tiêu chí đánh giá lựa chọn CĐT cho CCN mới; thay cho mẫu thang điểm cũ tại reference 06 (mẫu cũ giữ làm nền Đ.13 NĐ 32/2024). File Word gốc: `vi-du-thuc-te/2026.08.18.*`.
 
+> Cập nhật 23/10/2026: bộ tiêu chí này đã được ban hành bản ký cho CCN Tân Hợp tại **QĐ 3936/QĐ-HĐ ngày 22/10/2026** — **ref 51** là khuôn soạn mới nhất (bản Word trình ký, thể thức khối ký TM. HỘI ĐỒNG, căn cứ NĐ 303/2026, NĐ 48/2026). Ref này giữ cho lịch sử hình thành và giải trình tiếp thu.
+
 ## A. BỐI CẢNH VÀ QUY TRÌNH THỰC TẾ (chuỗi văn bản đã GATE)
 
 ### CCN Tân Nguyên (xã Bảo Ái)
@@ -27,7 +29,7 @@ STC: đ/c Vũ Lân - PGĐ, ý kiến trực tiếp 05/8 (thống nhất tiêu ch
 
 ## B. CẤU TRÚC QUY ĐỊNH CHUẨN (kèm QĐ của Chủ tịch Hội đồng)
 
-- **Thể thức**: **CHỦ TỊCH HỘI ĐỒNG** ban hành trực tiếp (dòng thẩm quyền "CHỦ TỊCH HỘI ĐỒNG ĐÁNH GIÁ LỰA CHỌN CHỦ ĐẦU TƯ..."; khối ký "CHỦ TỊCH / PHÓ CHỦ TỊCH THƯỜNG TRỰC UBND TỈNH / Ngô Hạnh Phúc" — **KHÔNG dùng "TM. HỘI ĐỒNG"**). Các dòng "(Kèm theo Quyết định số... **của Chủ tịch Hội đồng**...)". Số ký hiệu `/QĐ-HĐ`. Lưu: VT, KT hoặc CN(TQHùng) theo bản VP UBND tỉnh.
+- **Thể thức** (lịch sử — theo dự thảo 18/8/2026; bản ký QĐ 3936/QĐ-HĐ ngày 22/10/2026 do **Hội đồng** ban hành, khối ký "TM. HỘI ĐỒNG / CHỦ TỊCH / PHÓ CHỦ TỊCH UBND TỈNH" — dùng ref 51 mục B): **CHỦ TỊCH HỘI ĐỒNG** ban hành trực tiếp (dòng thẩm quyền "CHỦ TỊCH HỘI ĐỒNG ĐÁNH GIÁ LỰA CHỌN CHỦ ĐẦU TƯ..."; khối ký "CHỦ TỊCH / PHÓ CHỦ TỊCH THƯỜNG TRỰC UBND TỈNH / Ngô Hạnh Phúc" — **KHÔNG dùng "TM. HỘI ĐỒNG"**). Các dòng "(Kèm theo Quyết định số... **của Chủ tịch Hội đồng**...)". Số ký hiệu `/QĐ-HĐ`. Lưu: VT, KT hoặc CN(TQHùng) theo bản VP UBND tỉnh.
 - **Chương I** (Đ.1-2): phạm vi, đối tượng. **Chương II**: Đ.3 điều kiện tiên quyết; Đ.4 tiêu chí; Đ.5 phương pháp chấm + bảng thang điểm; Đ.6 nguyên tắc lựa chọn (thang 100, ngưỡng 50, xử lý bằng điểm, cam kết của CĐT được chọn; hồ sơ không đạt điều kiện tiên quyết thì loại, không chấm). **Chương III**: Đ.7 tổ chức thực hiện (SCT; thành viên HĐ; Tổ giúp việc; **khoản 4 mới: trách nhiệm của CĐT được lựa chọn** — phối hợp UBND xã về GPMB, khảo sát tác động đời sống dân, báo cáo BVMT gửi xã). Kèm Biểu mẫu 01 (Phiếu chấm điểm), 02 (Phiếu lựa chọn), 03 (Biên bản kết quả).
 
 ### Điều 3 — 05 điều kiện tiên quyết (Đạt/Không đạt; không đạt 1 điều kiện → loại, không chấm điểm)

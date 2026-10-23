@@ -70,7 +70,7 @@ Tân Nguyên, Mông Sơn, Yên Hợp 2 (ref 26, 27, 30).
 | 4 | Sở lấy ý kiến sở, ngành về hồ sơ thành lập | CV .../SCT-CN xin ý kiến |
 | 5 | Sở đề nghị các cơ quan **cử cán bộ**, rồi trình UBND tỉnh lập Hội đồng | CV .../SCT-CN cử cán bộ; TTr .../TTr-SCT |
 | 6 | UBND tỉnh **thành lập Hội đồng + Tổ giúp việc** | QĐ .../QĐ-UBND (mẫu: QĐ 2736 Mông Sơn, QĐ 2549 Tân Nguyên) |
-| 7 | Xin ý kiến thành viên Hội đồng, ban hành tiêu chí chấm điểm | CV .../SCT-CN; TTr .../TTr-SCT; **QĐ .../QĐ-HĐ** của Chủ tịch Hội đồng |
+| 7 | Xin ý kiến thành viên Hội đồng, ban hành tiêu chí chấm điểm | CV .../SCT-CN; TTr .../TTr-SCT; **QĐ .../QĐ-HĐ** của Hội đồng, khối ký TM. Hội đồng, Chủ tịch (mẫu bản ký: QĐ 3936/QĐ-HĐ ngày 22/10/2026 Tân Hợp, ref 51) |
 | 8 | Họp Hội đồng chấm điểm, báo cáo kết quả | GM .../GM-HĐ; biên bản, phiếu chấm; báo cáo kết quả |
 | 9 | Sở thẩm định, trình UBND tỉnh quyết định thành lập cụm | BC .../BC-SCT + TTr .../TTr-SCT |
 | 10 | UBND tỉnh ban hành **Quyết định thành lập CCN**, giao chủ đầu tư | QĐ .../QĐ-UBND (mẫu: QĐ 3426 Mông Sơn, QĐ 3427 Yên Hợp 2 cùng ngày 23/9/2026 — ref 41; QĐ 3865 Xuân Ái 17/10/2026, mẫu có ký quỹ, tiến độ tính từ ngày QĐ, căn cứ theo chuyển tiếp NĐ 303 — ref 48) |
@@ -86,7 +86,7 @@ Châu Quế; cụm đã ở bậc 6 nên văn bản bậc 5 không còn chỗ đ
 | Cụm đã có | CẤM soạn | Nếu vẫn cần xử lý thì soạn gì |
 |---|---|---|
 | QĐ thành lập Hội đồng, Tổ giúp việc (bậc 6) | Công văn đề nghị cử cán bộ "để có cơ sở tham mưu UBND tỉnh thành lập Hội đồng" | Công văn đề nghị cử lãnh đạo, cán bộ **thay thế** để trình UBND tỉnh **kiện toàn, sửa đổi** Quyết định đã ban hành — dẫn thẳng Quyết định đó, nêu lý do kiện toàn |
-| QĐ tiêu chí chấm điểm của Chủ tịch Hội đồng (bậc 7) | Công văn xin ý kiến dự thảo tiêu chí | Tờ trình đề nghị ban hành Quyết định **thay thế** (mẫu Tân Nguyên: thay QĐ 2778/QĐ-HĐ, ref 27) |
+| QĐ tiêu chí chấm điểm của Hội đồng (bậc 7) | Công văn xin ý kiến dự thảo tiêu chí | Tờ trình đề nghị ban hành Quyết định **thay thế** (mẫu Tân Nguyên: thay QĐ 2778/QĐ-HĐ, ref 27) |
 | Báo cáo kết quả chấm điểm (bậc 8) | Văn bản đôn đốc nộp hồ sơ đăng ký làm chủ đầu tư | Báo cáo, tờ trình bậc 9 |
 | QĐ thành lập CCN (bậc 10) | Tờ trình đề nghị thành lập cụm | Văn bản điều chỉnh, bổ sung Quyết định thành lập (ref 11) |
 | Quyết định đã ban hành (mọi loại) | Nhắc lại tờ trình, báo cáo đã hình thành nên Quyết định đó | Dẫn thẳng Quyết định (quy ước người dùng chốt) |

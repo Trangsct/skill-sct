@@ -175,6 +175,15 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "qd-tieu-chi-ccn-ky-tm-hoi-dong",
+        # Bạn gửi bản ký 23/10/2026: QĐ 3936/QĐ-HĐ ngày 22/10/2026 (tiêu chí lựa chọn CĐT CCN Tân Hợp) do Hội đồng ban hành,
+        # khối ký "TM. HỘI ĐỒNG / CHỦ TỊCH / PHÓ CHỦ TỊCH UBND TỈNH". Dòng nói "không TM. HỘI ĐỒNG" phải ghi "lịch sử"/"dự thảo".
+        "pattern": r"^(?!.*(?:lịch sử|dự thảo)).*(?:[Kk]hông|KHÔNG)(?: dùng| DÙNG| có)? [\"“]?TM\. HỘI ĐỒNG",
+        "why": "Quy định tiêu chí lựa chọn CĐT CCN theo bản ký QĐ 3936/QĐ-HĐ ngày 22/10/2026: Hội đồng ban hành, khối ký TM. HỘI ĐỒNG / CHỦ TỊCH / PHÓ CHỦ TỊCH UBND TỈNH (kccn-sct-vn ref 51 mục B).",
+        "since": "2026-10-23",
+        "level": "FAIL",
+    },
+    {
         "id": "qd-phan-cong-bgd-la-6320",
         # Bạn gửi bản gốc 22/10/2026: QĐ phân công nhiệm vụ GĐ, PGĐ là 6320/QĐ-SCT ngày 06/10/2026; số 6286/QĐ-SCT
         # ngày 05/10/2026 là Quy chế làm việc của Sở. Dòng nhắc 6286 phải là Quy chế làm việc hoặc ghi "lịch sử"/"nhầm".

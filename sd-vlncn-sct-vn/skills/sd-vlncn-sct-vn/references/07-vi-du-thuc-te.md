@@ -305,3 +305,10 @@ Nguồn: GP 46/GP-ATMT ngày 02/10/2026 (Cục trưởng Phạm Tuấn Anh ký; 
 3. **Sở là nơi nhận GP** → nhập ngay lên trang web (mục GP, loại "GP dịch vụ nổ mìn"), cập nhật hồ sơ DN; dùng 4 điều kiện khác ở trên khi kiểm tra hiện trường DN dịch vụ.
 4. Cục chấp nhận **hợp đồng nguyên tắc mua bán VLNCN giao theo hộ chiếu nổ mìn đến tận công trình** làm tài liệu chứng minh điều kiện cung ứng (hồ sơ vẫn có QĐ giao nhiệm vụ thủ kho); điều kiện kho theo điểm b k2 Đ40 sau Luật 118/2025 là có kho **hoặc gửi kho** bảo quản — ref 01.
 
+
+## R. VỤ GTYB GÓI THẦU 13 (23/10/2026) — THÔNG BÁO BỔ SUNG THỦ KHO CHO CÔNG TRÌNH "NỔ MÌN THEO HỘ CHIẾU"
+
+- Công ty CP Xây dựng giao thông Yên Bái thông báo bổ sung thủ kho cho Gói thầu số 13 (đường nối Quốc lộ 32 với cao tốc Nội Bài - Lào Cai, phường Trung Tâm), áp dụng từ 01/10/2026, Sở nhận 22/10/2026; kèm danh sách 05 người, quyết định giao nhiệm vụ của công ty và GCN 31/GCN-SCT ngày 27/01/2026 (theo QĐ 458/QĐ-SCT).
+- Giấy phép đang theo dõi: 507/GP-UBND ngày 25/02/2026 (điều chỉnh tại 1292/GP-UBND ngày 17/4/2026) và 2628/GP-UBND ngày 30/7/2026 (cấp lại, đến 31/12/2026). Khoản 3 Điều 2 GP 2628 ghi "Nổ mìn theo hộ chiếu" → không có kho tại công trình.
+- Kết quả rà: người được bổ sung đủ điều kiện GCN; nhưng (1) Giấy phép không có kho — phải làm rõ; (2) quyết định giao nhiệm vụ ký 2024 ghi hiệu lực từ 2023, phạm vi chỉ các mỏ đá; (3) số định danh trong thông báo và trên GCN do Sở in đều thiếu số 0 đầu (hl-vlncn-sct-vn sổ lỗi L001); (4) lý trình Km1+433,8 lệch Giấy phép Km1+443,80; (5) trong danh sách có 01 GCN thợ mìn hết hạn đúng ngày rà, 01 GCN chỉ huy nổ mìn hết hạn sau 15 ngày, 02 GCN để trống số.
+- Bài học: bản nhận xét đầu bỏ sót điểm (1) vì chưa mở Giấy phép — thành anti-error 38 và bảng rà ref 14. CSDL trang web đã cập nhật nhân sự, GCN và ghi chú cần xác minh ngày 23/10/2026.

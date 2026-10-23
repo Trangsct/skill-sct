@@ -1,5 +1,12 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## 1.5.3 — 23/10/2026 — Sổ lỗi tự ghi L001: số định danh trên GCN đủ 12 chữ số
+
+- `references/so-loi-tu-ghi.md` MỚI (tạo bằng `check_anti_error_format.py --tao`), L001: GCN 31/GCN-SCT ngày 27/01/2026 in số định danh 11 chữ số (rơi số 0 đầu do cột Excel dạng số); cách đúng: đủ 12 chữ số, cột dạng văn bản, soát độ dài trước khi in. Phát hiện khi rà thông báo bổ sung thủ kho (sd-vlncn-sct-vn ref 14, anti-error 38).
+- SKILL.md: cấu trúc thêm dòng sổ lỗi.
+- Máy kiểm: rule `so-dinh-danh-du-12-chu-so` (WARN) trong `scripts/check_facts.py`.
+- `plugin.json` 1.5.2 → 1.5.3. Chi tiết: `CHANGELOG-v2026.10.23.md`.
+
 ## 1.5.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `SKILL.md`; `mau-van-ban/01-kh-kiem-tra-cap-gcn.md`; `mau-van-ban/05-qd-cong-nhan-ket-qua.md`; `mau-van-ban/08-qd-thanh-lap-to-kiem-tra.md`; `mau-van-ban/11-qd-kh-doan-kiem-tra-chap-hanh.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

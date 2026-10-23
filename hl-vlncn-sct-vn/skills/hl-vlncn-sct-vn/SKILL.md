@@ -137,6 +137,7 @@ hl-vlncn-sct-vn/
 │   │                                        định hướng ra đề, chấm điểm
 │   ├── 06-kiem-tra-bao-cao.md            ← kiểm tra chấp hành pháp luật (chuỗi QĐ 1050→KH 1105
 │   │                                        →BC 1883/ĐKT→TB 1894); xử phạt Đ50; báo cáo UBND tỉnh
+│   ├── so-loi-tu-ghi.md                  ← sổ lỗi tự ghi (L001: số định danh trên GCN đủ 12 chữ số)
 │   └── 07-vi-du-thuc-te.md               ← index ví dụ thật kèm metadata đã GATE
 ├── mau-van-ban/                          ← 14 mẫu sẵn dùng (xem 00-MUC-LUC.md)
 ├── vi-du-thuc-te/                        ← file .docx thật đã ban hành 2026 (nguồn RAR Bạn cấp)

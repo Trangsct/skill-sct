@@ -14,6 +14,7 @@ Kích hoạt khi xử lý bất kỳ việc nào sau:
 - **Cấp / cấp lại / cấp điều chỉnh / thu hồi Giấy phép sử dụng VLNCN**: thẩm định hồ sơ doanh nghiệp, checklist, Phiếu trình PGĐ, dự thảo Giấy phép `/GP-SCT` (hồ sơ nhận trước 20/8/2026: Tờ trình UBND tỉnh + GP-UBND), dự thảo QĐ điều chỉnh → reference `02` + mẫu 01–06.
 - **Phương án nổ mìn (PANM)**: xác định có phải trình UBND tỉnh phê duyệt không (cây quyết định); thẩm định nội dung theo Phụ lục VII TT 23/2024 và QCVN 01:2019/BCT; kiểm tra hiện trường; lấy ý kiến Sở Xây dựng; Tờ trình + dự thảo QĐ phê duyệt PANM (kèm/không kèm chấp thuận sử dụng VLNCN tại khu vực có công trình cần bảo vệ) → reference `03` + mẫu 07–11.
 - **Hướng dẫn doanh nghiệp** từng bước: điều kiện Điều 38 Luật 42/2024, hồ sơ Điều 39, trình độ chỉ huy nổ mìn/thợ mìn, huấn luyện KTAT, hộ chiếu nổ mìn, đánh giá rủi ro, kế hoạch ứng cứu khẩn cấp, thông báo sử dụng VLNCN, dịch vụ nổ mìn → reference `04`.
+- **Doanh nghiệp thông báo bổ sung, thay đổi nhân sự VLNCN** (thủ kho, chỉ huy nổ mìn, thợ mìn, người quản lý) → reference `14` (bảng rà 8 điểm, mở Giấy phép đối chiếu kho trước) + anti-error 38; cập nhật CSDL trang `vlncn-laocai`.
 - **Soạn/chỉnh KHUNG PHƯƠNG ÁN NỔ MÌN cho doanh nghiệp** (lộ thiên gần khu dân cư hoặc hầm lò) → **mẫu 22** (có checklist Phụ lục VII) + khung docx `vi-du-thuc-te/PANM-Manh-Chien-...-23.8.2026.docx` (lộ thiên, diện điểm d k2 Đ38, chữ đỏ = chỗ chờ đo đạc) và ⭐ `PANM-Thinh-Dat-...-ham-lo-ban-chuan-3.9.2026.docx` (hầm lò, tự phê duyệt, đã rà đủ Phụ lục VII — thay khung Kim Thành 21/8). ⭐⭐ **Từ 30/9/2026 khung ưu tiên khi giao DN: `PANM-Kim-Thanh-...-ban-day-du-30.9.2026.docx`** (hầm lò, bản đầy đủ 42 trang có bìa, đường kẻ quốc hiệu, số trang — anti-error 37; PANM phải đầy đủ và dài, nhiều đơn vị đã chê bản ngắn).
 - **Soạn/đối chiếu GIẤY ĐỀ NGHỊ cấp/cấp lại/cấp điều chỉnh GP sử dụng VLNCN** → **mẫu 24 = Mẫu số 04 Phụ lục III TT 23/2024** (KHÔNG phải Mẫu 03; Mẫu 04 không bị TT 26/2026 sửa) + khung `vi-du-thuc-te/Giay-de-nghi-Mau-04-...-Thinh-Dat-ban-chuan-3.9.2026.docx`; anti-error 25.
 - **Công văn Sở đề nghị UBND tỉnh ban hành văn bản chỉ đạo VLNCN + dự thảo Công văn chỉ đạo kèm theo** → **mẫu 23** + 2 khung **`vi-du-thuc-te/*-ban-cuoi-6.9.2026.docx`** (bản Bạn chốt sau 3 vòng Lãnh đạo góp ý: gần như không dẫn điều khoản; một cơ chế "Sở xác nhận khu vực nổ mìn đảm bảo khoảng cách an toàn" lặp 3 chỗ; Sở là cơ quan quản lý PANM); anti-error 31 + Nhóm K `vbhc-vn`.
@@ -136,7 +137,7 @@ một dòng "Dàn ý theo mẫu …". Nguồn chung: `van-ban-goc/TT-23-2024-BCT
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY — ⭐ BẮT BUỘC đọc `references/11-anti-error.md` trước khi thẩm định hồ sơ / soạn bất kỳ văn bản nào
 
-Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
+Toàn văn 38 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
 
 - **1** — Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026
 - **2** — Không nhầm 2 chế độ PANM
@@ -176,6 +177,8 @@ Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **34** — KHOẢN 4 ĐIỀU 2 VIẾT NGẮN GỌN TÊN VĂN BẢN (căn cứ đã nêu đủ trích yếu) — thay mục 3 của 22-A
 - **35** — CẤP LẠI GP: Phiếu trình mô tả đủ GP đã cấp (cấp/đã dùng/còn lại), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ CTĐT + nội dung trả lời Sở Tài chính + PLHĐ), đối chiếu khối lượng 3 chiều (≤ còn lại; đã dùng + cấp lại ≤ đã cấp; theo PANM trên đá còn lại) — bộ Duy Cương, Bắc Hà 21/9/2026; PTP ký thì mục II "Ý KIẾN CỦA PHÒNG QUẢN LÝ CÔNG NGHIỆP", khối ký PHÓ TRƯỞNG PHÒNG Trần Trọng Trang
 - **36** — CẤP ĐIỀU CHỈNH GP: kết quả là **Giấy phép /GP-SCT** có dòng "(Cấp điều chỉnh)" (đường vẽ như GP 5870/GP-SCT), KHÔNG dùng QĐ điều chỉnh; Điều 1 = 1. Nội dung điều chỉnh (gộp các khoản) + 2. Lý do + 3. Các nội dung khác theo GP gốc; Điều 2 "không thể tách rời", không "thay thế"; khối lượng theo năm dương lịch ở Phụ lục (năm lẻ tính tháng trọn); có kho nghiệm thu SXD → điều chỉnh khoản 3 thay "nổ mìn theo hộ chiếu", không ghi trữ lượng khi hồ sơ không có; GP gốc chưa dùng → ghi khối lượng bằng 0; Phiếu trình gọn 2 trang — bộ GTYB Đồng Tâm 22/9/2026
+- **37** — PANM soạn/sửa cho DN phải đầy đủ, dài, có bìa, đúng thể thức; tính kíp theo thiết kế đã được cơ quan nhà nước thẩm định; không thêm câu đối chiếu thừa — bộ Kim Thành 30/9/2026
+- **38** — THÔNG BÁO BỔ SUNG, THAY ĐỔI NHÂN SỰ: mở Giấy phép đối chiếu trước (thủ kho cho công trình "nổ mìn theo hộ chiếu" là mâu thuẫn), rà cả danh sách kèm theo (GCN hết hạn, để trống số), quyết định giao nhiệm vụ đúng công trình, số định danh đủ 12 chữ số — bộ GTYB Gói thầu 13, 23/10/2026; ref 14
 - **37** — PANM giao DN phải đầy đủ, dài (khung Kim Thành 30/9/2026, 42 trang), có bìa, đường kẻ Straight Connector dưới tên DN và tiêu ngữ, số trang; kíp tính theo chỉ tiêu thiết kế đã được thẩm định (VB 897/SCT-KTATMT: 7.988 kíp/1.000 tấn), không tự dựng tỷ lệ kíp/kg; không thêm câu đối chiếu, tự kiểm thừa làm DN dễ bị bắt lỗi
 
 ## VII. CẤU TRÚC PLUGIN
@@ -203,7 +206,9 @@ sd-vlncn-sct-vn/
 │                                    ba câu hỏi gác cổng, bảng tự kiểm 12 điểm, quy trình
 │                                    5 bước xử lý sau khi bị trả
 │   ├── 10-tham-quyen-ubnd-tinh-va-sct.md ← bản đồ thẩm quyền UBND tỉnh/SCT, QĐ 2867, CV 5085
-│   ├── 11-anti-error.md              ← ⭐ 36 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── 11-anti-error.md              ← ⭐ 38 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── 14-thong-bao-thay-doi-nhan-su.md ← tiếp nhận thông báo bổ sung, thay đổi thủ kho, chỉ huy
+│   │                                nổ mìn, thợ mìn: bảng rà 8 điểm, mở GP đối chiếu kho trước
 │   ├── 13-nd-392-2026-dieu-kien-antt.md ← NĐ 392/2026 sửa NĐ 96/2016 (GCN ANTT: ngành nghề,
 │   │                                thẩm quyền, cấp đổi, tài liệu PCCC, ngừng kinh doanh) + bảng đối chiếu
 │   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,

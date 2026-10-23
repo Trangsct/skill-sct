@@ -672,6 +672,15 @@ RULES = [
         "since": "2026-10-20",
         "level": "WARN",
     },
+    {
+        "id": "so-dinh-danh-du-12-chu-so",
+        # Rà 23/10/2026 (sd-vlncn-sct-vn ref 14, anti-error 38; hl-vlncn-sct-vn sổ lỗi L001): GCN 31/GCN-SCT in số định danh
+        # 11 chữ số, rơi số 0 đầu do cột Excel dạng số. Số định danh cá nhân luôn đủ 12 chữ số.
+        "pattern": r"(?:số định danh|CCCD|căn cước)\D{0,15}\b[1-9]\d{10}\b",
+        "why": "Số định danh cá nhân (căn cước) đủ 12 chữ số, giữ số 0 đầu; 11 chữ số là đã rơi số 0 (cột Excel dạng số) — hl-vlncn-sct-vn sổ lỗi L001.",
+        "since": "2026-10-23",
+        "level": "WARN",
+    },
 ]
 
 EXCLUDE_PARTS = ("van-ban-goc", "vi-du-thuc-te", "examples", "templates")

@@ -1,3 +1,10 @@
+## 23/10/2026 — sd-vlncn-sct-vn 2026.10.23.1, hl-vlncn-sct-vn 1.5.3: tiếp nhận thông báo bổ sung, thay đổi nhân sự VLNCN
+
+- Rà hồ sơ thật: Thông báo bổ sung thủ kho của Công ty CP Xây dựng giao thông Yên Bái cho Gói thầu số 13 (GP 507/GP-UBND, 2628/GP-UBND "Nổ mìn theo hộ chiếu"). Bản gốc chỉ lưu kho riêng tư `vlncn-laocai`.
+- **sd-vlncn-sct-vn 2026.10.23.1**: ref 14 mới (bảng rà 8 điểm, mở GP đối chiếu kho trước), anti-error 38, ref 07 mục R; SKILL.md định tuyến, mục lục anti-error 37, 38.
+- **hl-vlncn-sct-vn 1.5.3**: sổ lỗi tự ghi L001 (số định danh trên GCN đủ 12 chữ số).
+- `scripts/check_facts.py`: rule `so-dinh-danh-du-12-chu-so` (WARN).
+
 ## 22/10/2026 (đợt 2) — sct-laocai-org-vn 2.10.0 + 16 plugin PATCH: QĐ 6226/QĐ-SCT (chức năng các phòng), chốt số phân công Ban Giám đốc QĐ 6320/QĐ-SCT
 
 - Bạn gửi bản PDF ký số QĐ 6320/QĐ-SCT ngày 06/10/2026 (phân công GĐ, PGĐ), QĐ 6226/QĐ-SCT ngày 02/10/2026 (Quy định chức năng Văn phòng và các phòng, thay QĐ 59/QĐ-SCT) và QĐ 3628/QĐ-UBND (trùng tệp đã có). Số, ngày, người ký đọc bằng `extract_metadata.py`. Hai QĐ của Sở là văn bản nội bộ — chỉ viết lại nội dung, không lưu bản gốc vào kho công khai.

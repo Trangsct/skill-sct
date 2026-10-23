@@ -96,6 +96,7 @@
 - Đã trả lời, **nhất trí**: Sở NN&MT (9877/SNNMT-QLĐĐ 08/10 — phần đất đai, BVMT), Sở Xây dựng (6668/SXD-PTĐT 08/10). Chưa thấy trả lời của Sở Tài chính đến 09/10/2026 (vụ Xuân Ái, STC từng đề nghị sửa Phụ lục — ref 37; nên chờ hoặc đôn đốc trước khi tổng hợp).
 - Bậc thủ tục Tân Hợp theo script: lấy ý kiến tiêu chí = bậc 7 chuẩn bị (tiêu chí do Chủ tịch Hội đồng ban hành `/QĐ-HĐ`). Hội đồng đã có QĐ thành lập hay chưa: plugin mới ghi "trình lập Hội đồng (TTr 5957/TTr-SCT 23/9/2026 — ref 41)"; việc lấy ý kiến tiêu chí cho thấy Hội đồng khả năng đã được thành lập — **hỏi Bạn số QĐ trước khi soạn** (vụ Châu Quế 17/9/2026, SKILL.md mục 0).
 - Hồ sơ NĐT: PH Group, đơn 02/CV-GR 12/8/2026, 75 ha, 794,267 tỷ (ref 37).
+- **Cập nhật 23/10/2026 (bản gốc Bạn gửi):** Hội đồng đã thành lập tại **QĐ 3621/QĐ-UBND ngày 02/10/2026**; Sở trình **TTr 6789/TTr-SCT ngày 20/10/2026**; tiêu chí ban hành tại **QĐ 3936/QĐ-HĐ ngày 22/10/2026** (ref 51) — Tân Hợp lên bậc 7 xong, chờ họp Hội đồng chấm điểm (bậc 8). Câu hỏi số QĐ thành lập Hội đồng ở trên đã có trả lời.
 
 ## F. Mục lục việc KCN, CCN tuần 02–09/10/2026 (bot chỉ ghi mục lục — chưa có nội dung)
 

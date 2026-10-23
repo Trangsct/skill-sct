@@ -32,6 +32,8 @@ Theo đề nghị của Giám đốc Sở Công Thương tại Tờ trình số 
 
 ## MẪU 03.2 — Bộ tiêu chí chấm điểm chi tiết (Hội đồng ban hành)
 
+> **Từ 23/10/2026: soạn Quy định tiêu chí cho CCN mới thì lấy khuôn bản Word đã ký của CCN Tân Hợp** (QĐ 3936/QĐ-HĐ ngày 22/10/2026 — ref 51; tệp `vi-du-thuc-te/2026.10.22. Quyết định ban hành Quy định tiêu chí … Tân Hợp (bản Word trình ký).docx`): 05 điều kiện tiên quyết + thang 100 (30/40/15/15), Biểu mẫu 01–03, khối ký TM. HỘI ĐỒNG. Khung dưới đây chỉ là lịch sử tham khảo.
+
 Thang 100 điểm, 4 nhóm (Điều 13 NĐ 32). Đạt tối thiểu 50 điểm. Bảng khung chi tiết (Hội đồng thống nhất điều chỉnh cho phù hợp):
 
 **Nhóm 1 — Phương án đầu tư xây dựng hạ tầng kỹ thuật (tối đa 15 điểm)**

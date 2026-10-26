@@ -1,5 +1,12 @@
 # CHANGELOG — hc-sct-vn
 
+## 1.8.0 — 26/10/2026 — Khuôn Công văn yêu cầu hoàn thiện hồ sơ theo phong cách phản biện (ref 14 mục 4)
+
+- **ref 14 mục 4:** khuôn Công văn yêu cầu hoàn thiện hồ sơ cấp GCN theo phong cách phản biện Bạn chốt 26/10/2026 (mở đầu đặt khung; mỗi điểm 4 nhịp hồ sơ ghi gì → quy định → vì sao chưa đủ cơ sở → đề nghị; đề nghị gộp theo tài liệu phải nộp; chỉ yêu cầu đúng thành phần hồ sơ, tài liệu ngoài thành phần ghi "xuất trình tại buổi kiểm tra thực tế"; không đặt điều kiện ngoài quy định; kết nêu bổ sung một lần và hai bước kế tiếp; 3 trang). Bảng tra thêm dòng mẫu.
+- **ref 16 mục 5c điểm 9:** 8 lỗi của dự thảo chuyên viên và hai lần Bạn chê để rút khuôn.
+- **Mẫu mới (ẩn danh):** `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`.
+- `plugin.json` 1.7.0 → 1.8.0.
+
 ## 1.7.0 — 23/10/2026 — Vụ GCN kinh doanh lưu huỳnh, kho thuê ở thành phố Bắc Ninh (ref 16 mục 5c, 3 mẫu mới)
 
 - **ref 16 mục 5c (mới):** vụ thẩm định GCN đủ điều kiện kinh doanh lưu huỳnh với kho thuê dịch vụ tồn trữ tại thành phố Bắc Ninh — 8 điểm Bạn chốt: trình tự lấy ý kiến UBND cấp tỉnh nơi đặt kho (đoạn 2 điểm d khoản 5 Điều 9 NĐ 26: 03 + 09 + 03 ngày, Sở không kiểm tra kho ở tỉnh khác); kiểm tra thực tế tại trụ sở chính, cơ sở kinh doanh kèm 4 cam kết của doanh nghiệp; 5 lỗi điển hình của hợp đồng dịch vụ tồn trữ theo nguyên tắc "GCN không cho phép linh hoạt" và cách xử lý (mục "Nội dung Đoàn làm rõ", yêu cầu phụ lục có xác nhận chủ kho); bằng "Công nghệ hóa học" tương đương "Kỹ thuật hóa học" Phụ lục III NĐ 25; hợp đồng lao động, văn bản phân công đối chiếu tại biên bản; soi QĐ huấn luyện của tổ chức tư vấn (Điều 19, k2 Đ31, k3-4 Đ32 NĐ 25); lỗi "gửi kèm" theo mẫu cũ ở văn bản đề nghị; cấu trúc biên bản theo Mẫu 7 HHNH, bôi tím nội dung cần làm rõ; Bắc Ninh là thành phố trực thuộc Trung ương từ 20/9/2026.

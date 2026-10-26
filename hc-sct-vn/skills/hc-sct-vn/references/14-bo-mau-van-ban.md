@@ -8,6 +8,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 |---|---|---|---|
 | Từ chối cấp GCN/GP (hồ sơ không đạt) | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến *(hoặc trình UBND tỉnh — xác minh ủy quyền)* | `vi-du-thuc-te/gcn-tu-choi/CV-tu-choi-cap-GCN-KD-HNO3.docx`; ref 03, 16 |
 | Yêu cầu bổ sung hồ sơ | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-tu-choi/CV-phuc-dap-ho-so-cap-GCN.docx`; ref 03 |
+| Yêu cầu hoàn thiện hồ sơ GCN kinh doanh (kho thuê, hợp đồng dịch vụ tồn trữ chưa chặt) — **mẫu chuẩn phong cách phản biện 26/10/2026** | Công văn (SCT-CN), 3 trang | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`; mục 4 ref này; ref 16 mục 5c |
 | Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (**Mẫu 09 TT 26/2026**, thay Mẫu 10c TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-09-...docx`; ref 03 |
 | Tham khảo hồ sơ cấp GCN sản xuất | Công văn/hồ sơ | — | `vi-du-thuc-te/gcn-tu-choi/Tham-khao-cap-GCN-SX-co-dieu-kien.docx`; ref 03 |
 | Biên bản thẩm định hồ sơ và kiểm tra thực tế (GCN kinh doanh, kho thuê ở tỉnh khác) | Biên bản (theo Mẫu 7 biên bản thẩm định HHNH) | Đại diện Đoàn kiểm tra + Đại diện Công ty | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/Bien-ban-tham-dinh-ho-so-va-kiem-tra-thuc-te-GCN-KD-kho-thue-tinh-khac.docx`; ref 03, 16 mục 5c |
@@ -56,6 +57,16 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 ## 4. Khung nội dung một số văn bản hay dùng
 
 **CV từ chối/bổ sung hồ sơ:** (1) nêu hồ sơ nhận được (tên DN, ngày nộp, nội dung đề nghị); (2) căn cứ pháp lý; (3) liệt kê **từng lỗi/thiếu sót** kèm điều khoản vi phạm (theo checklist ref 03, bài học ref 16); (4) yêu cầu bổ sung/khắc phục; (5) đầu mối, thời hạn nộp lại.
+
+**Phong cách CV yêu cầu hoàn thiện hồ sơ (Bạn chốt 26/10/2026 — mẫu chuẩn `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`, 3 trang):** công văn phải "có sức phản biện", không chỉ liệt kê việc cần sửa. Bạn đã bác hai bản: bản 4 trang vì lặp ý (mỗi tiểu mục nhắc lại số hợp đồng, kệ C8/C9, câu "phối hợp với chủ kho"), bản 2 trang vì "ngắn quá, lời văn chưa thể hiện sức phản biện". Khuôn đã chốt:
+1. **Mở đầu một đoạn:** ngày nhận, tên DN, văn bản đề nghị, mã hồ sơ; **khẳng định hồ sơ đủ thành phần** (dẫn điều khoản) **nhưng nội dung chưa thống nhất, chưa đủ cơ sở đánh giá điều kiện nào** (kho chứa, năng lực chuyên môn theo Điều 8 NĐ 26) — đặt khung cho cả văn bản.
+2. **Mỗi điểm viết theo 4 nhịp:** hồ sơ ghi gì (trích đúng chữ, đúng điều khoản hợp đồng) → quy định yêu cầu gì (dẫn khoản, điều) → **vì sao chưa đủ cơ sở** (hệ quả đối với việc thẩm định: "Sở không có cơ sở xác định…", "ba số liệu không thống nhất", "Phụ lục 1 không có giá trị ràng buộc") → đề nghị cụ thể. Mục lớn đánh số 1, 2, 3, 4; trong mục dùng a), b), c), d); **không chia tiểu mục 2.1, 2.2** để khỏi lặp số hợp đồng, tên chủ kho.
+3. **Đề nghị gộp theo tài liệu phải nộp**, không gộp theo lỗi: một phụ lục hợp đồng ghi đủ 4 nội dung (hóa chất; khối lượng lớn nhất tại một thời điểm; vị trí pallet cố định; nguyên tắc điều chuyển) và câu "phụ lục này thay thế các nội dung trái với nó tại Điều …"; một bản vẽ bổ sung; một văn bản cam kết.
+4. **Chỉ yêu cầu đúng thành phần hồ sơ**: tài liệu không thuộc thành phần (HĐLĐ, văn bản phân công) ghi "xuất trình tại buổi kiểm tra điều kiện thực tế", không ghi "cung cấp"/"bổ sung"; không đặt điều kiện ngoài quy định (không bắt rút thời hạn hợp đồng về bằng thời hạn GCN chủ kho — thay bằng cam kết dừng tồn trữ, báo cáo, cấp điều chỉnh khi mất điều kiện kho).
+5. **Căn cứ dẫn đủ lần đầu** (NĐ 26/2026 kèm ngày, cơ quan, trích yếu; "được sửa đổi tại Phụ lục II NQ 19/2026/NQ-CP ngày 29/4/2026"); khoản 4 Điều 8 đã viết lại tại NQ 19 nên không dẫn kèm khoản 4 Điều 5 bản gốc.
+6. **Kết một đoạn:** nói rõ đây là yêu cầu bổ sung **một lần** theo điểm b khoản 5 Điều 9, thời gian hoàn chỉnh không tính vào thời hạn; báo trước hai bước kế tiếp (kiểm tra thực tế tại trụ sở; lấy ý kiến UBND nơi đặt kho); nơi nộp là Cổng một cửa Bộ Công Thương.
+7. **Thể thức:** Nơi nhận chỉ "Như trên; Lưu: VT, CN." (không Giám đốc Sở, không Trung tâm PVHCC vì hồ sơ nộp trên Cổng Bộ); KT. GĐ - PGĐ Chiến ký; ký hiệu SCT-CN; ngày nhận hồ sơ lấy theo ngày tiếp nhận trên Cổng (mã hồ sơ `H38.2-yymmdd-…` cho biết ngày nộp) để tính hạn 03 ngày làm việc.
+Độ dài chuẩn: 3 trang A4; dưới 2 trang là thiếu lập luận, trên 3 trang là lặp.
 
 **QĐ thành lập Đoàn kiểm tra:** căn cứ; Điều 1 thành lập đoàn + danh sách (Trưởng đoàn PGĐ Chiến, Phó đoàn lãnh đạo phòng, thành viên + thư ký CN Loan); Điều 2 nội dung/phạm vi/thời kỳ/thời hạn/đối tượng (phụ lục danh sách đơn vị); Điều 3 nhiệm vụ đoàn; Điều 4 điều khoản thi hành.
 

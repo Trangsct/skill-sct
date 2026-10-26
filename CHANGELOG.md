@@ -1,3 +1,8 @@
+## 26/10/2026 — hc-sct-vn 1.8.0: khuôn Công văn yêu cầu hoàn thiện hồ sơ theo phong cách phản biện
+
+- **hc-sct-vn 1.8.0:** ref 14 mục 4 — khuôn CV yêu cầu hoàn thiện hồ sơ cấp GCN (Bạn chốt 26/10/2026): mở đầu đặt khung; mỗi điểm 4 nhịp hồ sơ ghi gì → quy định → vì sao chưa đủ cơ sở → đề nghị; đề nghị gộp theo tài liệu phải nộp; chỉ yêu cầu đúng thành phần hồ sơ, tài liệu ngoài thành phần ghi "xuất trình tại buổi kiểm tra thực tế"; không đặt điều kiện ngoài quy định; kết nêu bổ sung một lần và hai bước kế tiếp; 3 trang. ref 16 mục 5c điểm 9 (8 lỗi của dự thảo chuyên viên). Mẫu ẩn danh `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`.
+- `trang-thai/gcn-hoa-chat-quang-huy.md` nhật ký 26/10; marketplace 4.11.169.
+
 ## 23/10/2026 — hc-sct-vn 1.7.0 + vbhc-vn 2.37.0 + sct-laocai-org-vn 2.10.1: vụ GCN kinh doanh lưu huỳnh với kho thuê ở thành phố Bắc Ninh; R26 khối Nơi nhận - ký; Bắc Ninh thành phố trực thuộc Trung ương
 
 - **hc-sct-vn 1.7.0:** ref 16 mục 5c (8 điểm Bạn chốt khi thẩm định hồ sơ GCN kinh doanh hóa chất có kho thuê ở tỉnh khác: trình tự lấy ý kiến UBND nơi đặt kho theo đoạn 2 điểm d khoản 5 Điều 9 NĐ 26, Sở không kiểm tra kho ở tỉnh khác; kiểm tra thực tế tại trụ sở + 4 cam kết; 5 lỗi hợp đồng dịch vụ tồn trữ theo nguyên tắc "GCN không cho phép linh hoạt"; bằng "Công nghệ hóa học" tương đương "Kỹ thuật hóa học"; HĐLĐ, phân công đối chiếu tại biên bản; soi QĐ huấn luyện của tổ chức tư vấn; lỗi "gửi kèm" theo mẫu cũ; biên bản theo Mẫu 7 HHNH, bôi tím nội dung cần làm rõ); ref 03 bổ sung trình tự và checklist 6a, 6b; ref 14 + thư mục `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/` 3 mẫu ẩn danh (Biên bản thẩm định và kiểm tra thực tế; Tờ trình; dự thảo Công văn UBND tỉnh).

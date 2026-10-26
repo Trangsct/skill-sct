@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.168"
+    "version": "4.11.169"
   },
   "plugins": [
     {
@@ -36,7 +36,7 @@
       "name": "hc-sct-vn",
       "source": "./hc-sct-vn",
       "description": "QLNN hóa chất, Sở Công Thương Lào Cai, khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01+02/2026) và lớp cắt giảm, phân cấp NQ 19/2026/NQ-CP, TT 26/2026/TT-BCT (ref 18): thẩm định cấp phép; thẩm định Kế hoạch phòng ngừa, ứng phó sự cố hóa chất (cả Hội đồng Cục Hóa chất); hướng dẫn DN; kiểm tra chuyên ngành; báo cáo; Chiến lược ngành hóa chất QĐ 726/QĐ-TTg (ref 19); soạn văn bản. CV 6395/SCT-CN 08/10/2026; GCN kinh doanh có kho thuê ở tỉnh khác: biên bản kiểm tra trụ sở, cam kết (ref 16 mục 5c).",
-      "version": "1.7.0"
+      "version": "1.8.0"
     },
     {
       "name": "hl-vlncn-sct-vn",

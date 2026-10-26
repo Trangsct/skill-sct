@@ -1,3 +1,7 @@
+## 26/10/2026 — skcn-vn 1.3.0: lý lịch cá nhân
+
+- **skcn-vn 1.3.0:** `references/ly-lich-ca-nhan.md` mới — văn bằng, chứng chỉ, quá trình công tác 2011–2025, đảng viên, giấy tờ còn thiếu; đọc từ bộ bản chụp Bạn gửi 26/10/2026. Bản quét, số CMND, mã số BHXH, mức lương không đưa lên kho công khai. Description SKILL.md, plugin.json mở rộng sang lý lịch cá nhân.
+
 ## 26/10/2026 — hc-sct-vn 1.8.0: khuôn Công văn yêu cầu hoàn thiện hồ sơ theo phong cách phản biện
 
 - **hc-sct-vn 1.8.0:** ref 14 mục 4 — khuôn CV yêu cầu hoàn thiện hồ sơ cấp GCN (Bạn chốt 26/10/2026): mở đầu đặt khung; mỗi điểm 4 nhịp hồ sơ ghi gì → quy định → vì sao chưa đủ cơ sở → đề nghị; đề nghị gộp theo tài liệu phải nộp; chỉ yêu cầu đúng thành phần hồ sơ, tài liệu ngoài thành phần ghi "xuất trình tại buổi kiểm tra thực tế"; không đặt điều kiện ngoài quy định; kết nêu bổ sung một lần và hai bước kế tiếp; 3 trang. ref 16 mục 5c điểm 9 (8 lỗi của dự thảo chuyên viên). Mẫu ẩn danh `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`.

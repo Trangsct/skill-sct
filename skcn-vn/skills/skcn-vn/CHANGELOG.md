@@ -1,5 +1,10 @@
 # CHANGELOG - skcn-vn
 
+## 1.3.0 — 26/10/2026 — Thêm lý lịch cá nhân
+
+- `references/ly-lich-ca-nhan.md` (mới): văn bằng, chứng chỉ, quá trình công tác, đảng viên, đọc từ bộ bản chụp Bạn gửi 26/10/2026. Không lưu bản quét, số CMND, mã số BHXH, mức lương (kho công khai).
+- `SKILL.md` description và bảng tham chiếu; `plugin.json` → 1.3.0. Chi tiết: `CHANGELOG-v2026.10.26.md`.
+
 ## 1.2.0 — 17/10/2026 — Sửa tim_van_ban.py không tìm được số hiệu có chữ Đ
 
 - `scripts/tim_van_ban.py` (bản chép từ gốc kho, đồng bộ bằng `build_so_cai_van_ban_goc.py`): sửa lỗi biểu thức tìm — chữ "đ" bị thay hai lần thành `[đ[dđ]]` nên MỌI số hiệu có chữ Đ (NĐ-CP, QĐ-UBND, QĐ-TTg) không bao giờ khớp và script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử GATE 0). Sau khi sửa: "181/2024/NĐ-CP" khớp 3 mục danh mục.

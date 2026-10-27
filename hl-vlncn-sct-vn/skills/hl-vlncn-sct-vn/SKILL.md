@@ -65,7 +65,8 @@ TUYỆT ĐỐI không tự thay số/ngày khác. Đã xác minh từ văn bản
 
 ## IV. NGƯỜI KÝ, NGƯỜI SOẠN (khớp `sct-laocai-org-vn` + văn bản đã ban hành 2026)
 
-- **QĐ công nhận kết quả + cấp GCN, QĐ thành lập Tổ/Đoàn**: **GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp** (nhiệm vụ ủy quyền đích danh cho Giám đốc — không dùng KT. thường xuyên). Khi GĐ vắng: PGĐ ký phải có **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ: GUQ 2180/GUQ-SCT ngày 21/4/2026 → PGĐ Trịnh Văn Thành ký QĐ công nhận cho Cty Hóa chất mỏ Tây Bắc).
+- **QĐ công nhận kết quả (bản chốt 26/10/2026, mẫu 05 mục A)**: một QĐ chung cho cả lớp, **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** ký theo Bạn chốt, căn cứ không có Tổ kiểm tra và Giấy ủy quyền, "Theo đề nghị của Trưởng phòng Quản lý công nghiệp", Nơi nhận có Trung tâm Phục vụ hành chính công tỉnh, phụ lục không có cột điểm.
+- **Tiền lệ trước 26/10/2026 (lịch sử) — QĐ công nhận kết quả + cấp GCN, QĐ thành lập Tổ/Đoàn**: **GIÁM ĐỐC Hoàng Chí Hiền ký trực tiếp** (nhiệm vụ ủy quyền đích danh cho Giám đốc — không dùng KT. thường xuyên). Khi GĐ vắng: PGĐ ký phải có **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ: GUQ 2180/GUQ-SCT ngày 21/4/2026 → PGĐ Trịnh Văn Thành ký QĐ công nhận cho Cty Hóa chất mỏ Tây Bắc).
 - **Kế hoạch, Thông báo, Công văn trả lời DN**: ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** — PGĐ phụ trách VLNCN và Phòng QLCN theo **QĐ 6320/QĐ-SCT ngày 06/10/2026** (Chiến vắng → PGĐ Nguyễn Trường Giang). Đã kiểm chứng trên văn bản phát hành: **KH 6421/KH-SCT ngày 09/10/2026** do PGĐ Chiến ký, căn cứ mới có **QĐ 3628/QĐ-UBND ngày 02/10/2026** (chức năng, nhiệm vụ Sở) — bảng phân công 9 việc của kỳ kiểm tra tại reference `07` mục A. Văn bản trước 05/10/2026 do PGĐ Hoàng Văn Thuân ký là lịch sử, không sửa lại.
 - **Báo cáo kết quả của Tổ kiểm tra**: Tổ trưởng ký, kính gửi Giám đốc Sở; tiêu đề cơ quan "SỞ CÔNG THƯƠNG / TỔ KIỂM TRA THEO KẾ HOẠCH [số]"; văn bản Đoàn kiểm tra chấp hành pháp luật dùng ký hiệu `/ĐKT-SCT`, `/KH-ĐKT`.
 - **Dòng Lưu**: từ **10/7/2026** chuyên viên VLNCN là **Trần Đăng Khôi** → mặc định **CV Khôi** (Thông báo phân công nội bộ Phòng QLCN 10/7/2026, xem skill `sct-laocai-org-vn`). Văn bản thực tế trước 6/7/2026 dùng **CV Linh** (Vũ Việt Linh — đúng lịch sử, không sửa); KH/TB/CV và văn bản đoàn kiểm tra có tiền lệ dùng **CV M.Cường** (PTP Đỗ Mạnh Cường). Mặc định theo người trực tiếp tham mưu hồ sơ; không rõ thì **hỏi Bạn** — tuyệt đối không điền tên lãnh đạo phòng.
@@ -109,8 +110,8 @@ DN TỰ tổ chức huấn luyện (16h lần đầu; định kỳ/lại = 8h) b
 
 1. **Không nhầm 2 chế độ:** người quản lý → Sở huấn luyện (Thông báo dẫn **Điều 7** NĐ 181, thời gian **1,5 ngày**); đối tượng khác → Sở chỉ kiểm tra (Thông báo dẫn **Điều 9**, DN phải nộp kèm kế hoạch + tài liệu huấn luyện + bằng cấp người huấn luyện). Hồ sơ đối tượng khác thiếu 3 đầu mục này là chưa hợp lệ.
 2. **Trình độ người quản lý phải đúng khoản 1 Điều 4** (12 ngành kỹ thuật: hóa chất; vũ khí; vật liệu nổ; chỉ huy kỹ thuật công binh; khai thác mỏ; kỹ thuật mỏ; địa chất; xây dựng công trình; giao thông; thủy lợi; địa vật lý; dầu khí). Ngành gần đúng vẫn từ chối — tiền lệ HTX Văn Thịnh (kỹ sư Công nghệ kỹ thuật cơ khí → không đủ điều kiện, CV 3155/SCT-CN nêu đích danh căn cứ, đề nghị bố trí nhân sự khác). Chỉ huy nổ mìn/thợ mìn kiểm tra thêm thâm niên (k4, k5 Đ4).
-3. **QĐ công nhận + GCN do GIÁM ĐỐC ký trực tiếp** (chủ thể căn cứ mở đầu: "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI"); GĐ vắng → PGĐ ký kèm Giấy ủy quyền công tác đưa vào căn cứ. KH/TB ký KT. GĐ — PGĐ Nguyễn Đình Chiến (từ 05/10/2026, QĐ 6320/QĐ-SCT).
-4. **Bộ căn cứ chuẩn của QĐ công nhận** (theo QĐ 3728, 3770 đã ban hành): Luật 42/2024 (29/6/2024) → NĐ 181/2024 + NĐ 146/2025 → TT 23/2024 + TT 38/2025 → QĐ 3628/QĐ-UBND → QĐ 1883/QĐ-UBND → QĐ 2797/QĐ-SCT + QĐ 564/QĐ-SCT + Kế hoạch số …/KH-SCT của kỳ đó → "Theo đề nghị của Tổ trưởng Tổ kiểm tra…". Không bỏ sót Kế hoạch của kỳ.
+3. **QĐ công nhận: theo mẫu 05 mục A (Bạn chốt 26/10/2026 — QĐ chung, PGĐ Chiến ký KT. GĐ).** Tiền lệ trước 26/10/2026: **QĐ công nhận + GCN do GIÁM ĐỐC ký trực tiếp** (chủ thể căn cứ mở đầu: "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH LÀO CAI"); GĐ vắng → PGĐ ký kèm Giấy ủy quyền công tác đưa vào căn cứ. KH/TB ký KT. GĐ — PGĐ Nguyễn Đình Chiến (từ 05/10/2026, QĐ 6320/QĐ-SCT).
+4. **Bộ căn cứ chuẩn của QĐ công nhận từ 26/10/2026**: Luật 42/2024 → NĐ 181/2024 + NĐ 146/2025 → TT 23/2024 + TT 38/2025 → QĐ 3628/QĐ-UBND → QĐ 1883/QĐ-UBND → "Theo đề nghị của Trưởng phòng Quản lý công nghiệp" (mẫu 05 mục A). **Bộ căn cứ cũ — lịch sử** (theo QĐ 3728, 3770 đã ban hành): Luật 42/2024 (29/6/2024) → NĐ 181/2024 + NĐ 146/2025 → TT 23/2024 + TT 38/2025 → QĐ 3628/QĐ-UBND → QĐ 1883/QĐ-UBND → QĐ 2797/QĐ-SCT + QĐ 564/QĐ-SCT + Kế hoạch số …/KH-SCT của kỳ đó → "Theo đề nghị của Tổ trưởng Tổ kiểm tra…". Không bỏ sót Kế hoạch của kỳ.
 5. **Luật 42/2024 ngày 29/6/2024** — không chép lại lỗi "26/8/2024" trong một số KH cũ.
 6. **Thang điểm đạt ≥ 6/10;** không đạt → huấn luyện lại ½ thời gian rồi mới kiểm tra lại; GCN **02 năm, toàn quốc**; huấn luyện **định kỳ 02 năm/lần** — nhắc DN đăng ký trước khi GCN hết hạn; thợ nổ mìn/người sản xuất nghỉ việc ≥ 06 tháng hoặc đổi công nghệ → huấn luyện lại.
 7. **Bám sát thời hạn 05–02–10–05 (cấp lại 03) ngày làm việc** của Đ9; quá hạn là vi phạm TTHC.
@@ -120,6 +121,8 @@ DN TỰ tổ chức huấn luyện (16h lần đầu; định kỳ/lại = 8h) b
 11. **Không tự điền số/ngày** văn bản chưa ban hành ("Số:      /QĐ-SCT"); GATE bắt buộc khi đọc PDF đến; địa danh sau 01/7/2025 ghi xã/phường + tỉnh Lào Cai; render-and-verify mọi file .docx trước khi bàn giao.
 12. **Kỳ kiểm tra đông người** (như Sin Quyền ~200): chia đợt trong Thông báo, ghi rõ số thứ tự từng chức danh theo danh sách DN đã đăng ký; có thể tổ chức tại trụ sở DN (tiền lệ Hóa chất mỏ Tây Bắc).
 13. **Nhân sự kiêm nhiệm nhiều DN ≠ dùng chung GCN:** GCN thuộc quản lý của DN đề nghị cấp; NLĐ ký HĐLĐ bán thời gian với nhiều DN thì từng DN phải tự huấn luyện + đề nghị cấp GCN riêng (CV 1198/ATMT-ATKV 21/7/2025 của Cục ATMT — ref `01` C-quater). Khi thẩm định hồ sơ GP sử dụng VLNCN (`sd-vlncn-sct-vn`), GCN kèm hồ sơ phải do chính DN xin phép đề nghị cấp. Lưu ý phân biệt: GCN "giá trị toàn quốc" (k5 Đ9) nói về phạm vi lãnh thổ, KHÔNG có nghĩa dùng chung giữa các DN.
+14. **Không suy ra doanh nghiệp thuộc Bộ Quốc phòng từ tên** (ví dụ hậu tố "- BQP"): tiêu chí khoản 1, khoản 2 Điều 6 NĐ 181/2024 là cơ quan cấp GP sử dụng VLNCN; xét chứng cứ trong hồ sơ (GCN cũ do cơ quan nào cấp, báo cáo VLNCN gửi Sở). Sổ lỗi L001.
+15. **Công văn trả lời hồ sơ không đủ điều kiện (mẫu 09, 10)**: không nêu "đã tham dự huấn luyện, kiểm tra" hay kết quả của người không đủ điều kiện; bỏ qua lỗi nhỏ (thiếu ảnh, chính tả); Nơi nhận chỉ "Như trên; Lưu: VT, BP1C, CN."; văn bằng nước ngoài → yêu cầu văn bản công nhận văn bằng của Cục Quản lý chất lượng, Bộ GD&ĐT theo TT 65/2026/TT-BGDĐT (mẫu 09, biến thể văn bằng nước ngoài). Sổ lỗi L002–L004.
 
 ## VII. CẤU TRÚC PLUGIN
 
@@ -137,7 +140,8 @@ hl-vlncn-sct-vn/
 │   │                                        định hướng ra đề, chấm điểm
 │   ├── 06-kiem-tra-bao-cao.md            ← kiểm tra chấp hành pháp luật (chuỗi QĐ 1050→KH 1105
 │   │                                        →BC 1883/ĐKT→TB 1894); xử phạt Đ50; báo cáo UBND tỉnh
-│   └── 07-vi-du-thuc-te.md               ← index ví dụ thật kèm metadata đã GATE
+│   ├── 07-vi-du-thuc-te.md               ← index ví dụ thật kèm metadata đã GATE
+│   └── so-loi-tu-ghi.md                  ← sổ lỗi Bạn chỉ ra, đọc trước khi soạn (L001…)
 ├── mau-van-ban/                          ← 14 mẫu sẵn dùng (xem 00-MUC-LUC.md)
 ├── vi-du-thuc-te/                        ← file .docx thật đã ban hành 2026 (nguồn RAR Bạn cấp)
 └── van-ban-goc/                          ← NĐ 181/2024 toàn văn; QĐ ủy quyền + Phụ lục (dự thảo

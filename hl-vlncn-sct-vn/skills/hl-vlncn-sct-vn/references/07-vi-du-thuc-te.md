@@ -18,7 +18,7 @@ File .docx gốc lưu tại `vi-du-thuc-te/`. Các PDF scan dung lượng lớn 
 | QĐ công nhận | 3728/QĐ-SCT ngày 24/6/2026 | Cty CP Xi măng Yên Bình — 03 học viên người quản lý, kỳ 16–17/6; GIÁM ĐỐC ký; Lưu VT, CN |
 | QĐ công nhận | 3770/QĐ-SCT ngày 25/6/2026 | Cty XD Miền Bắc — người quản lý, kỳ KH 3281 |
 | QĐ công nhận | (số trống trong bản lưu) T4/2026 | Cty Hóa chất mỏ Tây Bắc — kỳ KH 973; **PGĐ Trịnh Văn Thành ký theo GUQ 2180/GUQ-SCT ngày 21/4/2026** (GĐ vắng 22–30/4) |
-| Kế hoạch | 3898/KH-SCT ngày 30/6/2026 | kỳ người quản lý T7 — 03 đơn vị (KS Yên Bái; Yên Phú Đông Đô – BQP*; Đá quý và Vàng). *Lưu ý DN gắn BQP: xác minh thẩm quyền trước khi đưa vào kỳ |
+| Kế hoạch | 3898/KH-SCT ngày 30/6/2026 | kỳ người quản lý T7 — 03 đơn vị (KS Yên Bái; Yên Phú Đông Đô – BQP*; Đá quý và Vàng). *Hậu tố "BQP" trong tên KHÔNG có nghĩa là DN quốc phòng: GCN người quản lý cũ của Cty Yên Phú Đông Đô - BQP do Cục KTAT&MTCN (Bộ Công Thương) cấp (số 6671/GCN-ATMT ngày 30/10/2024), Cty gửi báo cáo VLNCN cho Sở → thuộc thẩm quyền Sở theo k1 Đ6 NĐ 181 (Bạn chốt 26/10/2026; sổ lỗi L001) |
 | Thông báo | 3915/SCT-CN ngày 01/7/2026 | TB huấn luyện người quản lý kỳ KH 3898: 1,5 ngày từ 13h30' 06/7/2026 (bản phát hành có lỗi đánh máy "tháng 76" — không lặp lại) |
 | Kế hoạch | 3957/KH-SCT ngày 03/7/2026 | kỳ kiểm tra T7 — **19 đơn vị** (Hóa chất mỏ Tây Bắc, Sơn Thạch, Yên Hà, Simco-Fansipan, Suối Bắc, Trung Anh, Đèo Cả, Đông Dương, Thịnh Đạt, đường sắt…) |
 | Công văn | /SCT-CN (T3/2026) | Cty TNHH MTV Duy Hiếu: DN không cử người dự kỳ 20/3 → **không đủ điều kiện cấp GCN**; Lưu: VT, BP1C, CN (lịch sử, trước 10/7/2026) |
@@ -46,3 +46,13 @@ File .docx gốc lưu tại `vi-du-thuc-te/`. Các PDF scan dung lượng lớn 
 2. KH kỳ chung phải liệt kê đủ "Xét đề nghị của N đơn vị… tại Văn bản số… ngày…" — kiểm tra chéo với hồ sơ đến.
 3. TB gửi chung theo KH ("Các đơn vị… (Theo Kế hoạch số…)") hoặc gửi đích danh (Sin Quyền, Tây Bắc).
 4. Lỗi đã gặp trong bản phát hành (không lặp lại): "ngày 01 tháng 76 năm 2026" (TB 3915); Luật 42/2024 ghi "ngày 26/8/2024" (các KH); "công ghiệp", "CỘNG HÕA" (TB 1894); "Danh nghiệp tư nhân" (KH 2242, 3957).
+
+## Kỳ người quản lý 17, 18/10/2026 (Kế hoạch 6670/KH-SCT ngày 16/10/2026, PGĐ Nguyễn Đình Chiến ký)
+
+- Kế hoạch 6670/KH-SCT ngày 16/10/2026 (GATE `extract_metadata.py` 26/10/2026): huấn luyện ngày 17/10 và sáng 18/10, kiểm tra
+  chiều 18/10/2026 tại Nhà khách Trường Sơn, phường Yên Bái; bảng phân công 10 việc (rà điều kiện; tài liệu, đề; huấn luyện;
+  tổ chức kiểm tra; chấm bài; rà vào điểm; xây dựng QĐ công nhận; in GCN; rà GCN; trình ký GCN) — không thành lập Tổ kiểm tra
+  riêng, công chức Phòng QLCN thực hiện theo bảng.
+- Kết quả: 13 học viên của 11 đơn vị được công nhận trong **một QĐ chung** (mẫu 05 mục A — bản Bạn sửa tay 26/10/2026).
+- Công văn trả lời: Cty Định Nghĩa (bằng cao đẳng, mẫu 09), Cty R.K Việt Nam (văn bằng nước ngoài — mẫu 09 biến thể văn bằng
+  nước ngoài, viện dẫn TT 65/2026/TT-BGDĐT), Cty Tường Phú (học viên vắng mặt, mẫu 10).

@@ -1,5 +1,9 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## 1.6.0 — 27/10/2026 — QĐ công nhận chung cả lớp (bản chốt 26/10/2026); CV trả lời văn bằng nước ngoài (TT 65/2026/TT-BGDĐT); sổ lỗi L001–L004
+
+- Chi tiết: `CHANGELOG-v2026.10.27.md`.
+
 ## 1.5.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `SKILL.md`; `mau-van-ban/01-kh-kiem-tra-cap-gcn.md`; `mau-van-ban/05-qd-cong-nhan-ket-qua.md`; `mau-van-ban/08-qd-thanh-lap-to-kiem-tra.md`; `mau-van-ban/11-qd-kh-doan-kiem-tra-chap-hanh.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

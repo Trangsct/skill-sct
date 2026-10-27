@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.169"
+    "version": "4.11.170"
   },
   "plugins": [
     {
@@ -41,8 +41,8 @@
     {
       "name": "hl-vlncn-sct-vn",
       "source": "./hl-vlncn-sct-vn",
-      "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP. Ky kiem tra 10/10/2026 theo KH 6421/KH-SCT (PGD Chien ky; can cu QD 3628/QD-UBND 02/10/2026).",
-      "version": "1.5.2"
+      "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP. QD cong nhan chung ca lop (ban chot 26/10/2026, PGD Chien ky); CV tra loi van bang nuoc ngoai theo TT 65/2026/TT-BGDDT.",
+      "version": "1.6.0"
     },
     {
       "name": "hnh-sct-vn",

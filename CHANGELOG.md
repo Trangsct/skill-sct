@@ -1,3 +1,8 @@
+## 27/10/2026 — hl-vlncn-sct-vn 1.6.0: QĐ công nhận chung cả lớp người quản lý; CV trả lời văn bằng nước ngoài theo TT 65/2026/TT-BGDĐT
+
+- Bạn sửa tay QĐ công nhận (26/10/2026) và CV trả lời Cty R.K Việt Nam (27/10/2026) của lớp người quản lý 17, 18/10/2026 (KH 6670/KH-SCT), yêu cầu ghi nhớ vào plugin.
+- **hl-vlncn-sct-vn 1.6.0:** mẫu 05 mục A (QĐ chung, căn cứ đến QĐ 1883, "Theo đề nghị của Trưởng phòng Quản lý công nghiệp", Nơi nhận có Trung tâm Phục vụ hành chính công tỉnh, PGĐ Chiến ký KT. GĐ, phụ lục không cột điểm, nhóm theo đơn vị); mẫu 09 thêm 5 tinh chỉnh + biến thể văn bằng nước ngoài; ref 01 mục E (TT 65/2026/TT-BGDĐT); ref 07 sửa ghi chú hậu tố "BQP", thêm kỳ 17, 18/10; sổ lỗi mới L001–L004.
+
 ## 26/10/2026 — hc-sct-vn 1.8.0: khuôn Công văn yêu cầu hoàn thiện hồ sơ theo phong cách phản biện
 
 - **hc-sct-vn 1.8.0:** ref 14 mục 4 — khuôn CV yêu cầu hoàn thiện hồ sơ cấp GCN (Bạn chốt 26/10/2026): mở đầu đặt khung; mỗi điểm 4 nhịp hồ sơ ghi gì → quy định → vì sao chưa đủ cơ sở → đề nghị; đề nghị gộp theo tài liệu phải nộp; chỉ yêu cầu đúng thành phần hồ sơ, tài liệu ngoài thành phần ghi "xuất trình tại buổi kiểm tra thực tế"; không đặt điều kiện ngoài quy định; kết nêu bổ sung một lần và hai bước kế tiếp; 3 trang. ref 16 mục 5c điểm 9 (8 lỗi của dự thảo chuyên viên). Mẫu ẩn danh `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`.

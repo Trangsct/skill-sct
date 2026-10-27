@@ -117,3 +117,16 @@ Cục Kỹ thuật an toàn và Môi trường công nghiệp trả lời SCT **
   - k2, k5 Đ1: hồ sơ trực tuyến qua Cổng DVCQG, Hệ thống TTHC Bộ Quốc phòng — **không phải nộp thành phần đã số hóa, lưu trữ trong CSDL quốc gia, CSDL chuyên ngành và liên thông điện tử**. Tinh thần này cũng là định hướng cắt giảm TTHC chung, có thể vận dụng khi hướng dẫn DN nộp hồ sơ huấn luyện.
   - Chuyển tiếp (k2 Đ2): hồ sơ tiếp nhận **trước 22/01/2026** tiếp tục giải quyết theo TT 98/2024.
   - ⚠ Khi DN quốc phòng đề nghị Sở huấn luyện/cấp GCN: **trả lời hướng dẫn về Cục Quản lý Công nghệ**, không tiếp nhận (mẫu văn bản trả hồ sơ: mẫu 09).
+
+## E. Công nhận văn bằng do nước ngoài cấp — Thông tư 65/2026/TT-BGDĐT (ghi 27/10/2026)
+
+- **Thông tư số 65/2026/TT-BGDĐT ngày 11/8/2026** của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về điều kiện, trình tự, thủ
+  tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam; hiệu lực **26/9/2026**; thay
+  TT 13/2021/TT-BGDĐT, TT 07/2024/TT-BGDĐT, TT 34/2017/TT-BLĐTBXH.
+- Thẩm quyền: **Cục trưởng Cục Quản lý chất lượng, Bộ GD&ĐT** công nhận văn bằng giáo dục đại học và giáo dục nghề nghiệp;
+  Giám đốc Sở GD&ĐT công nhận bằng THCS, THPT. Công nhận = xác nhận trình độ ghi trên văn bằng, xác định tương đương trong
+  Khung trình độ quốc gia. Thời hạn 20 ngày làm việc (xác minh: không quá 30 ngày). Tra cứu kết quả trên CSDL, VNeID.
+- Nguồn: Cổng Xây dựng chính sách (Chính phủ) 13/8/2026; tóm tắt của Đại học Kinh tế Quốc dân; Cổng PBGDPL Cần Thơ. **Chưa có
+  bản gốc trong kho** — khi Bạn gửi bản gốc thì lưu vào `van-ban-goc/` của plugin này theo quy trình mục 4.1 và bổ sung số điều.
+- Dùng khi người quản lý nộp văn bằng nước ngoài (mẫu 09, biến thể văn bằng nước ngoài): chứng chỉ năng lực, chứng chỉ hành
+  nghề nước ngoài không phải văn bằng giáo dục đại học; hợp pháp hóa lãnh sự chỉ xác nhận con dấu, chữ ký.

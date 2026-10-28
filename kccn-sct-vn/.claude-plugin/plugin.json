@@ -1,11 +1,19 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.59.0",
-  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 53 (28/10/2026) MỚI NHẤT: Luật Đầu tư 143/2025/QH15 bản gốc — điểm b khoản 8 Điều 24, hạ tầng CCN không chấp thuận CTĐT; sửa Quy chế QĐ 16/2026 theo NĐ 303. Ref 52: CV 8668/STC-TĐ — hạ tầng CCN đặc biệt ưu đãi (NĐ 96/2026), thời gian XDCB theo QĐ thành lập. Ref 51: QĐ 3936/QĐ-HĐ tiêu chí CĐT CCN Tân Hợp. Ref 50: tài liệu Giám đốc (mẫu 10).",
+  "version": "1.60.0",
+  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 54 (28/10/2026) MỚI NHẤT: TBKL 1173-TB/TU — mốc GPMB từng xã, phường 12 dự án; BCĐ GPMB QĐ 01-QĐ/TU, 02 BCĐ KCN QĐ 2029, 2030 (bản gốc); Hội nghị Chủ tịch với 45 DN 27/10; mẫu 11 công văn UBND tỉnh triển khai kết luận (bỏ khẩu hiệu, cơ quan + việc + hạn). Ref 53: Luật Đầu tư 143/2025 — hạ tầng CCN không chấp thuận CTĐT.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "tbkl-1173-tb-tu-27-10-2026",
+    "bcd-gpmb-du-an-trong-diem-qd-01-qd-tu",
+    "bcd-phat-trien-kcn-qd-2029-2030",
+    "tb-124-tb-bcd-phan-cong",
+    "hoi-nghi-doanh-nghiep-cong-nghiep-27-10-2026",
+    "mau-11-cong-van-ubnd-trien-khai-ket-luan",
+    "moc-gpmb-tung-xa-phuong",
+    "chi-thi-42-ct-tu-gpmb",
     "qd-839-qhct-phu-thinh-3",
     "qd-1454-thanh-lap-phu-thinh-2",
     "qd-2193-dieu-chinh-ctdt-phu-thinh-2",
@@ -27,14 +35,6 @@
     "nguyen-nhan-trach-nhiem-cdt",
     "che-van-hung-bc-499-snnmt",
     "bc-1107-snnmt-phu-thinh-2",
-    "qhct-1-500-gpxd",
-    "ky-cap-nhat-04-10-2026",
-    "danh-muc-thu-hut-chot-01-10-2026",
-    "kcn-cam-duong-chua-khoi-cong",
-    "vb-9813-ubnd-xd-nganh-nghe-kcn-phu-xuan",
-    "ky-cap-nhat-01-10-2026",
-    "cv-6059-sct-cn-bao-cao-xa",
-    "gpmb-phu-thinh-che-van-hung",
-    "ccn-yen-the-lua-chon-cdt"
+    "qhct-1-500-gpxd"
   ]
 }

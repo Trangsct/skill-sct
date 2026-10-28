@@ -39,3 +39,8 @@ Thư mục lưu các ví dụ thực tế (case study) đã xử lý, dùng đ�
 Khi Bạn cung cấp file ví dụ thực tế (hồ sơ, tờ trình, báo cáo đã ban hành), lưu vào thư mục này theo tên chuẩn `YYYY.MM.DD. [Tên đầy đủ có dấu].[ext]` để tái sử dụng làm Chế độ B (sửa file gốc) trong `vbhc-vn`.
 
 *Ghi chú: số liệu hiện trạng, tiến độ của các case nêu trên là số liệu tại thời điểm xử lý — khi dùng lại phải xác nhận cập nhật với Bạn.*
+
+## Bộ 28/10/2026 — `2026-10-28-tbkl-1173-thuong-truc-tinh-uy/`
+
+- `2026.10.28. Công văn UBND tỉnh triển khai Thông báo kết luận 1173-TB-TU của Thường trực Tỉnh ủy.docx` — bản Sở hoàn thiện gửi lại Văn phòng UBND tỉnh (5 trang, PCT Phan Trung Bá ký; mốc "31/2/2027" bôi tím chờ xác nhận) — mẫu 11, ref 54.
+- `2026.10.28. Dự thảo ban đầu của Văn phòng UBND tỉnh (để đối chiếu).docx` — bản của chuyên viên Phòng Kinh tế trước khi Sở hoàn thiện (chép khẩu hiệu, 5 cơ quan, không mốc địa phương).

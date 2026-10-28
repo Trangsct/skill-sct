@@ -71,3 +71,21 @@ Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-
 - Ví dụ: dự thảo Công văn UBND tỉnh gửi UBND thành phố Bắc Ninh và Tờ trình kèm theo (23/10/2026) sau sửa "Nơi nhận:" ngang "KT. CHỦ TỊCH", "GIÁM ĐỐC".
 - Máy kiểm: R26 (WARN) trong `qa_rules.py`; `kiem_tra_truoc_khi_giao.py --tu-sua` hàm `sua_khoi_ky` đặt top và `sua_bang` không còn đụng bảng ký.
 
+
+### L012 — 28/10/2026 — Công văn chỉ đạo của UBND tỉnh chép khẩu hiệu của văn bản Đảng
+- Lỗi: dự thảo công văn UBND tỉnh triển khai Thông báo kết luận của Thường trực Tỉnh ủy chép gần nguyên văn các câu định hướng ("xác định đây là nhiệm vụ trọng tâm, cấp bách", "không đánh đổi môi trường… lấy tăng trưởng đơn thuần", "tiếp tục phát huy cơ chế luồng xanh", "tăng cường", "nâng cao", "quyết liệt", "đồng hành", "(nếu có)"), dùng "đề nghị", "quan tâm" với cơ quan cấp dưới; Bạn: "bỏ khẩu hiệu đi, sao cho chỉ đạo mạnh mẽ hơn, đúng phong cách văn bản UBND".
+- Cách đúng: văn bản Đảng viết định hướng, công văn UBND tỉnh viết lệnh — mỗi mục = cơ quan + việc + sản phẩm ("trình UBND tỉnh…", "báo cáo…") + hạn; đề mục danh từ ngắn; trách nhiệm cá nhân gắn ở đầu mục chính, mục thủ tục và câu kết ("cơ quan, địa phương nào chậm mốc phải báo cáo rõ nguyên nhân, trách nhiệm và chịu trách nhiệm trước Chủ tịch UBND tỉnh"); mốc của cấp ủy đã qua ngày ban hành đổi thành hạn mới, không chép mốc đã qua; cơ quan được giao việc phải có ở Kính gửi.
+- Ví dụ: kccn-sct-vn `mau-van-ban/11`, `vi-du-thuc-te/2026-10-28-tbkl-1173-thuong-truc-tinh-uy/` (dự thảo ban đầu của Văn phòng UBND tỉnh và bản Sở hoàn thiện).
+- Máy kiểm: đề xuất R30 (WARN) cho `qa_rules.py`: văn bản ký hiệu `/UBND-` có cụm "không đánh đổi", "phát huy hiệu quả cơ chế", "xác định đây là nhiệm vụ trọng tâm", "quan tâm tham mưu", "(nếu có)" → WARN; tạm kiểm bằng grep.
+
+### L013 — 28/10/2026 — Mốc thời gian đã qua hoặc sát ngày trong văn bản ban hành, đọc sau ngày soạn
+- Lỗi: bài phát biểu soạn 28/10 để đọc sau đó còn ghi "tiến độ đến giữa tháng 10", "cấp giấy phép xây dựng trong tháng 10/2026", "bàn giao 28 ha trước ngày 05/11/2026"; công văn UBND tỉnh chép ba mốc "hoàn thành trước ngày 30/10/2026" của Thường trực Tỉnh ủy dù văn bản ban hành sau 28/10. Bạn: "để ý hôm nay là 28/10 rồi; ngày sếp phát biểu sẽ sau đây, nên các mốc thời gian tháng 10 phải cẩn thận hoặc không nêu nữa".
+- Cách đúng: trước khi xuất, lấy ngày hôm nay và ngày dự kiến ban hành/đọc; mốc giao việc đã qua hoặc rơi trong khoảng đó thì bỏ, đổi "ngay"/"đến nay", hoặc đặt hạn mới sau ngày ban hành (công văn UBND: "trình UBND tỉnh trước ngày 05/11/2026"); ngày của sự kiện đã diễn ra vẫn dẫn bình thường. Mốc sớm nhất còn lại trong bài phát biểu phải sau ngày đọc.
+- Ví dụ: bpb-sct-vn `kho-bai-mau/bpb-bch-dang-bo-tinh-2026-10-28-…` (bản cuối không còn mốc tháng 10); kccn-sct-vn `mau-van-ban/11` mục 11.3.
+- Máy kiểm: đề xuất R31 (WARN) cho `qa_rules.py`: mốc "trước ngày dd/mm/yyyy", "trong tháng mm/yyyy" nhỏ hơn hoặc bằng ngày hệ thống (hoặc ngày Bạn khai) → WARN "mốc đã qua".
+
+### L014 — 28/10/2026 — Câu việc không có chủ thể trong phần đề xuất, phân công
+- Lỗi: "sớm quyết định Đề án chuyển sang khu công nghiệp sinh thái", "bố trí kịp thời kinh phí bồi thường", "cấp ngay giấy phép xây dựng Cụm công nghiệp Phú Thịnh 3", "đề nghị ưu tiên bố trí vốn" — Giám đốc đánh "Ai?" vào từng câu khi sửa tay bài phát biểu.
+- Cách đúng: mọi câu ở phần đề xuất, phân công, kiến nghị phải mở bằng cơ quan chủ trì (hoặc "đề nghị + cơ quan"); tra cơ quan từ mục "Trách nhiệm" của báo cáo UBND tỉnh gần nhất (kccn-sct-vn ref 49, mẫu 09) hoặc quyết định giao việc; không tra được thì bôi tím hỏi Bạn.
+- Ví dụ: bpb-sct-vn `kho-bai-mau/bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-sua-tay.docx` ↔ bản cuối.
+- Máy kiểm: thủ công — đọc lại phần đề xuất, gạch chủ ngữ từng câu; đề xuất bổ sung vào GATE cuối `ra_soat_doc_lap.py` câu hỏi "câu việc nào không có chủ thể?".

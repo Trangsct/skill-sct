@@ -32,3 +32,4 @@ Bộ biểu mẫu sẵn dùng cho toàn bộ vòng đời quản lý CCN. Chọn
 - Mọi văn bản Sở: ký hiệu **SCT-CN**, Lưu **VT, CN.**.
 
 - `08-thong-bao-tiep-nhan-ho-so-ubnd-xa.md` — Thông báo của UBND cấp xã ở bước lựa chọn chủ đầu tư (tiếp nhận hồ sơ / công khai kết quả): không có mẫu bắt buộc, 12 nội dung phải có, 08 lỗi thật, thẩm quyền xã phê duyệt quy hoạch chi tiết CCN.
+- `11-mau-cong-van-ubnd-tinh-trien-khai-ket-luan-thuong-truc-tinh-uy.md` — Công văn của UBND tỉnh triển khai Thông báo kết luận của Thường trực Tỉnh ủy về khu, cụm công nghiệp (Sở hoàn thiện giúp Văn phòng UBND tỉnh, 28/10/2026): thể thức giữ của Văn phòng, kết cấu 6 mục, giọng chỉ đạo không khẩu hiệu (cơ quan + việc + sản phẩm + hạn), mốc địa phương theo kết luận, mốc đã qua đổi hạn, lỗi của bản dự thảo Văn phòng.

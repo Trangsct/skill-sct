@@ -1,3 +1,13 @@
+## 1.8.0 — 28/10/2026 — Bản Giám đốc duyệt bài phát biểu BCH Đảng bộ tỉnh (sửa cuối trên Zalo); quy tắc R18–R20
+
+- kho-bai-mau thêm `bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx` (bản Giám đốc chốt 20h29, 5 trang) — mẫu chuẩn mới; reference ghi từng chỗ Giám đốc sửa cuối (làm tròn số, chức danh thay tên riêng, trích chỉ đạo của Chủ tịch nguyên văn, tách gạch đầu dòng, cắt đề nghị vượt cấp); R18 an ninh trật tự viết mềm "(nếu có)", R19 bản Zalo dán toàn văn là bản duyệt, R20 nêu tên từng dự án khi dẫn quyết định nhiều dự án.
+- `plugin.json` → 1.8.0. Chi tiết: `CHANGELOG-v2026.10.28-2.md`.
+
+## 1.7.0 — 28/10/2026 — Mẫu bài phát biểu tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN trọng điểm (5 trang); quy tắc R8–R17
+
+- kho-bai-mau thêm bản cuối 28/10/2026, bản Giám đốc sửa tay và bản đầu 27/10/2026; reference mới `bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` (việc lớn đã làm trước, phân công giọng ngang cấp, phát động chiến dịch GPMB, mốc theo ngày đọc, độ dài tối đa, đối chiếu tên số lãnh đạo nhắn Zalo); SKILL.md mục 7, 8.
+- `plugin.json` → 1.7.0. Chi tiết: `CHANGELOG-v2026.10.28.md`.
+
 ## 1.6.0 — 17/10/2026 — Dàn ý trước khi viết (GATE 0b)
 
 - SKILL.md: mục dàn ý văn bản dài theo GATE 0b của vbhc-vn 2.31.0 (Bạn chốt 17/10/2026) — lập dàn ý theo dàn ý mặc định hoặc mẫu gần nhất trong kho, ghi `ke-hoach-soan.txt`, viết thân ngay, không gửi dàn ý xin duyệt trừ khi Bạn yêu cầu; giao file báo một dòng "Dàn ý theo mẫu …". Mục 2A: dàn ý mặc định bài phát biểu (mở đầu, bối cảnh, kết quả, hạn chế, nhiệm vụ, kết thúc) dẫn mục 3.

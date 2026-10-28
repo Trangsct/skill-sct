@@ -1,6 +1,6 @@
 ---
 name: bpb-sct-vn
-description: "BÀI PHÁT BIỂU, THAM LUẬN, DIỄN VĂN cho Giám đốc/lãnh đạo Sở Công Thương Lào Cai. Kích hoạt: 'bài phát biểu', 'tham luận', 'diễn văn', 'phát biểu khai mạc/bế mạc/chỉ đạo/chào mừng', 'BPB', 'kính thưa hội nghị'; hội nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; giao ban - giao kế hoạch, tổng kết, triển khai nghị quyết; diễn văn kỷ niệm; phỏng vấn, bài viết ký tên Giám đốc Sở. Kết cấu chuẩn đã duyệt: kính thưa phân tầng - mở đầu gắn nghị quyết - các nhóm nhiệm vụ - tín hiệu cơ hội - cam kết - cảm ơn; giọng văn nói chính trị - trang trọng; ngân hàng câu từ; quy tắc bản duyệt (điền đủ số liệu thật, bỏ chuỗi xin ý kiến, cấp Sở không kiến nghị Ban Thường vụ); định dạng docx riêng Times New Roman 15pt. Liên kết vbhc-vn (render/QA docx) và sct-laocai-org-vn."
+description: "BÀI PHÁT BIỂU, THAM LUẬN, DIỄN VĂN cho Giám đốc/lãnh đạo Sở Công Thương Lào Cai. Kích hoạt: 'bài phát biểu', 'tham luận', 'diễn văn', 'phát biểu khai mạc/bế mạc/chỉ đạo/chào mừng', 'BPB', 'kính thưa hội nghị'; hội nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; giao ban - giao kế hoạch, tổng kết, triển khai nghị quyết; diễn văn kỷ niệm; phỏng vấn, bài viết ký tên Giám đốc Sở. Kết cấu chuẩn đã duyệt: kính thưa phân tầng - mở đầu gắn nghị quyết - các nhóm nhiệm vụ - tín hiệu cơ hội - cam kết - cảm ơn; giọng văn nói chính trị - trang trọng; ngân hàng câu từ; quy tắc bản duyệt (điền đủ số liệu thật, bỏ chuỗi xin ý kiến, cấp Sở không kiến nghị Ban Thường vụ); định dạng docx riêng Times New Roman 15pt. Mẫu 28/10/2026 BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (bản Giám đốc sửa tay + bản cuối): việc lớn Tỉnh ủy, UBND đã làm trước, nêu vấn đề rồi giao việc ở một phần, giọng ngang cấp, mỗi việc có chủ thể, mốc theo ngày đọc (R8–R17). Liên kết vbhc-vn (render/QA docx) và sct-laocai-org-vn."
 ---
 
 # Soạn Bài phát biểu Giám đốc Sở Công Thương Lào Cai
@@ -133,7 +133,7 @@ Chọn đúng bộ kính thưa (chi tiết + mẫu đầy đủ trong `reference
 
 | Loại hội nghị | Lời kính thưa |
 |---|---|
-| **BCH Đảng bộ tỉnh / Tỉnh ủy** | Kính thưa: Đồng chí Bí thư Tỉnh ủy, / Các đồng chí Thường trực Tỉnh ủy, Ủy viên Ban Thường vụ Tỉnh ủy, / Thưa toàn thể các đồng chí Ủy viên Ban Chấp hành Đảng bộ tỉnh! |
+| **BCH Đảng bộ tỉnh / Tỉnh ủy** | Kính thưa: Đồng chí Bí thư Tỉnh ủy, / Các đồng chí Thường trực Tỉnh ủy, Ủy viên Ban Thường vụ Tỉnh ủy, / Thưa toàn thể các đồng chí Ủy viên Ban Chấp hành Đảng bộ tỉnh! — **Bản Giám đốc sửa tay 28/10/2026** (hội nghị có đại diện Ban Đảng Trung ương dự): Kính thưa: Đồng chí Bí thư Tỉnh ủy, / Kính thưa các đồng chí Thường trực Tỉnh ủy, Ủy viên Ban Thường vụ Tỉnh ủy, Ủy viên Ban Chấp hành Đảng bộ tỉnh, / Kính thưa các đồng chí đại diện các Ban Đảng Trung ương, / Thưa toàn thể các đồng chí! |
 | **Hội nghị do Chủ tịch UBND tỉnh chủ trì** | Kính thưa đồng chí Chủ tịch UBND tỉnh chủ trì hội nghị / Kính thưa các đồng chí lãnh đạo tỉnh, / Thưa toàn thể Hội nghị! |
 | **Hội nghị chung (giao KH, triển khai NQ, tổng kết)** | Kính thưa các đồng chí lãnh đạo tỉnh, / Kính thưa các vị đại biểu khách quý, / Thưa toàn thể Hội nghị! |
 | **Lễ kỷ niệm / có khách TW, quốc tế** | Bổ sung dòng khách mời cấp cao lên trên; giữ "Thưa toàn thể…" ở cuối. |
@@ -217,6 +217,8 @@ Luôn **render soi ảnh từng trang** trước khi trình.
 
 **Giám đốc dự cuộc họp của UBND tỉnh do Chủ tịch chủ trì về một lĩnh vực Sở chủ trì** (Bạn chốt 06/10/2026, vụ họp CCN theo Giấy mời 565/GM-UBND): soạn **bài phát biểu tóm tắt 03 trang** đi kèm Báo cáo đầy đủ đã gửi Văn phòng UBND tỉnh — mẫu `kho-bai-mau/bpb-hop-ccn-ubnd-tinh-2026-10-06-tom-tat.docx`. Kính thưa 04 dòng (Chủ tịch; PCT Thường trực; PCT phụ trách; lãnh đạo sở, ngành, đơn vị, UBND xã, phường dự họp); mở đầu một câu nêu đã gửi Báo cáo đầy đủ + báo trước 04 nội dung; 04 đề mục `1. Về … / 2. Về … / 3. Về nguyên nhân … / 4. Những việc đề nghị UBND tỉnh chỉ đạo` bám đúng thứ tự Báo cáo; mục 4 dùng "Một là … Năm là", mỗi ý một việc + cơ quan + mốc; nguyên nhân nêu đủ 03 nhóm, có câu "UBND tỉnh đã nhiều lần chỉ đạo tại …" và "Sở … nhận trách nhiệm …"; kết bằng cam kết đôn đốc + "Xin trân trọng cảm ơn các đồng chí!". **Số liệu chép đúng Báo cáo cùng kỳ** (plugin `kccn-sct-vn` ref 44), không thêm số mới; tên 03 cụm Phú Thịnh viết đủ.
 
+**Giám đốc phát biểu tại Hội nghị Ban Chấp hành Đảng bộ tỉnh về vướng mắc các dự án khu, cụm công nghiệp trọng điểm** (Bạn chốt 28/10/2026, 8 vòng Giám đốc duyệt qua Zalo): mẫu **`kho-bai-mau/bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx`** (bản Giám đốc duyệt 20h29, 5 trang) — đọc `references/bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` (kết cấu, chuỗi 15 ý kiến Giám đốc, bản Giám đốc sửa tay, bản Giám đốc sửa cuối trên Zalo, quy tắc R8–R20). Tóm tắt: sau đoạn số liệu tăng trưởng là đoạn **việc lớn Tỉnh ủy, UBND tỉnh đã triển khai** (chỉ thị, ban chỉ đạo, kiểm tra thực địa, kết luận, hội nghị — số, ngày, tên người đứng đầu, một câu đánh giá đúng mức về chỉ thị mới) rồi mới vào vướng mắc; phần I, II **chỉ nêu hiện trạng và vướng mắc** (Giám đốc chốt "nêu vấn đề và giao việc luôn", không để khối "giải quyết ngay / cần chỉ đạo" lặp với phần III); phần III mở bằng câu **đề nghị Hội nghị phát động chiến dịch GPMB đến 31/12/2026**, 8 mục phân công viết **giọng ngang cấp** ("đề nghị Sở…", việc Chủ tịch đã giao thì dẫn "đã được Chủ tịch UBND tỉnh giao"), mục cuối "Về phần mình, Sở Công Thương nhận trách nhiệm…"; kết một đoạn, không lặp phần cam kết; **mốc thời gian soát theo ngày đọc** (bỏ mốc trong tháng soạn); "khoảng 5 trang" là tối đa 5 trang; tên, số lãnh đạo nhắn qua Zalo phải đối chiếu bản gốc (Chỉ thị "34" → 42-CT/TU; "tổ công tác" → Ban Chỉ đạo); **mỗi việc phải có chủ thể** (Giám đốc đánh "Ai?" vào câu không có cơ quan chủ trì); bỏ câu "Thay mặt…" mở đầu, vào thẳng số liệu khi Giám đốc đã sửa tay như vậy; **an ninh, trật tự viết mềm**, không nêu đích danh khu, có "(nếu có)" (R18); Giám đốc sửa trên Zalo dán toàn văn cũng là bản duyệt — diff, chỉ sửa lỗi gõ và điền chỗ đánh dấu (R19); làm tròn số khi đọc, chức danh thay tên riêng lãnh đạo cấp trên, trích chỉ đạo của Chủ tịch nguyên văn trong ngoặc kép, dẫn quyết định nhiều dự án phải nêu tên từng dự án (R20). Số liệu, mốc, bộ máy: plugin `kccn-sct-vn` ref 54.
+
 Mặc định bài phát biểu do **Giám đốc Sở Hoàng Chí Hiền** trình bày ("thay mặt Sở
 Công Thương / thay mặt ngành Công Thương, tôi…"). Nếu Phó Giám đốc đọc, đổi cách
 xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở ở skill
@@ -237,13 +239,14 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
   báo 381/TB-VPCP, nhiệm vụ tháng 8 (tiết kiệm 10% điện, bảo đảm nguyên liệu sản
   xuất). Mở khi soạn bài phát biểu trong tháng 8–9/2026 mà người dùng chưa đưa số
   liệu; số liệu người dùng cung cấp luôn được ưu tiên.
+- `references/bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` — **bài phát biểu tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (28/10/2026)**: chuỗi 15 ý kiến Giám đốc, kết cấu bản duyệt 5 trang, quy tắc R8–R20 (giọng ngang cấp ở phần phân công, việc lớn trước vướng mắc sau, mốc theo ngày đọc, độ dài là mệnh lệnh và thứ tự cắt, dễ đọc trên bục, đối chiếu tên số lãnh đạo nhắn Zalo, không chép chữ sai của báo, giữ chỗ Giám đốc đã sửa tay, mỗi việc phải có chủ thể, nêu vấn đề và giao việc luôn, an ninh trật tự viết mềm, bản Giám đốc sửa trên Zalo là bản duyệt, dẫn quyết định nhiều dự án nêu tên từng dự án), bản Giám đốc sửa tay và sửa cuối trên Zalo, cách dựng file python-docx.
 - `references/tra-loi-phong-van-bao-chi.md` — **11 quy tắc riêng cho TRẢ LỜI PHỎNG
   VẤN BÁO CHÍ** (đúc kết từ bản duyệt PGĐ Hoàng Văn Thuân 11/8/2026, vụ TTXVN): mở
   bài bằng số vĩ mô tầng bậc, khung "điểm nghẽn → năng lực sản xuất mới", giải pháp
   theo chuỗi sản phẩm có tên mỏ/nhà máy, nguyên tắc 3 tầng thẩm quyền, không đọc số
   hiệu văn bản, không xác nhận tiền đề tiêu cực của câu hỏi, giọng điềm đạm, sản
   phẩm kép kèm bản tóm tắt. **BẮT BUỘC đọc trước khi soạn bài phỏng vấn.**
-- `kho-bai-mau/` — **16 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
+- `kho-bai-mau/` — **20 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File
   `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu;

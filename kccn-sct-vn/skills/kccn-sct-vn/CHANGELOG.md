@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 1.61.0 — 28/10/2026 — Ref 54 mục F: TB 192/TB-VPUBND (Đề án KCN sinh thái Tằng Loỏng); số liệu và quy tắc Giám đốc duyệt bài phát biểu BCH
+
+- Ref 54: tóm tắt TB 192/TB-VPUBND 28/10/2026 (7 đầu việc, mốc tháng 12/2026, dự toán 2027; việc của Sở Công Thương là phối hợp hướng dẫn sản xuất sạch hơn); mục D số liệu đọc trước BCH (12 KCN ≈ 3.600 ha; ba dự án QĐ 767 nêu tên Phía Nam, Minh Quân, Âu Lâu); E.6 an ninh trật tự viết mềm "(nếu có)", E.7 không đề nghị vượt cấp trước Hội nghị Tỉnh ủy.
+- `plugin.json` → 1.61.0. Chi tiết: `CHANGELOG-v2026.10.28-4.md`.
+
+## [1.60.0] - 28/10/2026 — TBKL 1173-TB/TU Thường trực Tỉnh ủy (mốc GPMB từng xã, phường), bộ máy BCĐ GPMB (QĐ 01-QĐ/TU, QĐ 2029, 2030/QĐ-UBND bản gốc), Hội nghị Chủ tịch với 45 DN 27/10, mẫu 11 công văn UBND tỉnh triển khai kết luận (ref 54)
+
+- Chi tiết: `CHANGELOG-v2026.10.28-3.md`.
+
 ## [1.58.0] - 28/10/2026 — Luật Đầu tư 143/2025/QH15 bản gốc (PDF + Word + .txt), ref 53: điểm b khoản 8 Điều 24 — hạ tầng CCN không chấp thuận CTĐT; công văn đăng ký sửa Quy chế CCN theo NĐ 303 (rút gọn)
 
 - Chi tiết: `CHANGELOG-v2026.10.28.md` (phần v1.58.0).

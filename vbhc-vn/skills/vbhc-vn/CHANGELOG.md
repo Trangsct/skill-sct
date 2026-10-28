@@ -1,5 +1,10 @@
 # CHANGELOG vbhc-vn
 
+## v2.37.1 — 28/10/2026 — Sổ lỗi L012–L014 (công văn UBND tỉnh chép khẩu hiệu văn bản Đảng; mốc thời gian đã qua trong văn bản ban hành sau ngày soạn; câu việc không có chủ thể)
+
+- `reference/so-loi-tu-ghi.md`: L012 công văn chỉ đạo của UBND tỉnh triển khai kết luận cấp ủy phải bỏ khẩu hiệu, mỗi mục = cơ quan + việc + sản phẩm + hạn (Bạn chốt 28/10/2026; mẫu kccn-sct-vn 11); L013 soát mốc thời gian theo ngày ban hành/đọc, bỏ mốc đã qua hoặc sát ngày; L014 mọi câu ở phần đề xuất, phân công phải có chủ thể (Giám đốc đánh "Ai?"). Đề xuất R30, R31 cho `qa_rules.py` — chưa viết hàm kiểm (chưa có file lỗi trong tests/fail).
+- `plugin.json` 2.37.0 → 2.37.1.
+
 ## v2.37.0 — 23/10/2026 — R26 khối Nơi nhận - ký căn trên; sửa lỗi tự sửa áp căn giữa dọc lên bảng ký
 
 - **R26 (WARN) mới:** bảng Nơi nhận - chữ ký không được đặt ô căn giữa/dưới theo chiều dọc; dòng "Nơi nhận:" phải ngang dòng chức vụ người ký (Bạn chỉ ra 23/10/2026 ở dự thảo Công văn UBND tỉnh và Tờ trình hồ sơ hóa chất). File lỗi `tests/fail/r26-khoi-ky-can-giua-doc.docx`.

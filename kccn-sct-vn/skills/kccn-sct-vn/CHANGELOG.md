@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.57.0] - 28/10/2026 — Luật Đầu tư 143/2025/QH15 bản gốc (PDF + Word + .txt), ref 52: điểm b khoản 8 Điều 24 — hạ tầng CCN không chấp thuận CTĐT; công văn đăng ký sửa Quy chế CCN theo NĐ 303 (rút gọn)
+
+- Chi tiết: `CHANGELOG-v2026.10.28.md`.
+
 ## [1.56.0] - 23/10/2026 — QĐ 3936/QĐ-HĐ ngày 22/10/2026 ban hành Quy định tiêu chí lựa chọn CĐT CCN Tân Hợp (ref 51, khuôn chuẩn, khối ký TM. HỘI ĐỒNG)
 
 - Chi tiết: `CHANGELOG-v2026.10.23.md`.

@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 344 văn bản gốc (344 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -163,6 +163,8 @@ Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn b�
 | 34-NQ/TU | 27/12/2025 |  | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/NQ-34-NQ-TU-27-12-2025.pdf` | có (OCR) |
 | 146/2025/QH15 | 11/12/2025 | sua doi 15 luat nong nghiep moi truong | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/Luat-146-2025-QH15-sua-doi-15-luat-nong-nghiep-moi-truong.docx` | có |
 | 254/2025/QH15 | 11/12/2025 | thao go vuong mac Luat Dat dai | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/NQ-254-2025-QH15-thao-go-vuong-mac-Luat-Dat-dai.docx` | có |
+| 143/2025/QH15 | 11/12/2025 | Luat Dau tu ban Word | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2025.12.11-143.2025.QH15-Luat-Dau-tu-ban-Word.docx` | có |
+| 143/2025/QH15 | 11/12/2025 | Luat Dau tu | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2025.12.11-143.2025.QH15-Luat-Dau-tu.pdf` | có |
 | 147/2025/QH15 | 11/12/2025 | sua Luat DCKS TOAN VAN | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/Luat-147-2025-QH15-sua-Luat-DCKS-TOAN-VAN.docx` | có |
 | 147/2025/QH15 | 11/12/2025 | sua Luat DCKS | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/Luat-147-2025-QH15-sua-Luat-DCKS.docx` | có |
 | 118/2025/QH15 | 10/12/2025 | Sua doi 10 luat lien quan an ninh trat tu | hl-vlncn-sct-vn | `hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/2025.12.10-118.2025.QH15-Sua-doi-10-luat-lien-quan-an-ninh-trat-tu.docx` | có |

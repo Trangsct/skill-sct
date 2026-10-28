@@ -1,3 +1,8 @@
+## 28/10/2026 — kccn-sct-vn 1.57.0: Luật Đầu tư 143/2025/QH15 bản gốc (ref 52, điểm b khoản 8 Điều 24 — hạ tầng CCN không chấp thuận CTĐT); công văn đăng ký sửa Quy chế CCN QĐ 16/2026 theo NĐ 303 (rút gọn)
+
+- Bạn gửi Luật Đầu tư 143/2025/QH15 (PDF + Word) trong phiên soạn công văn gửi Sở Tư pháp đăng ký xây dựng QĐ sửa đổi Quy chế quản lý CCN theo NĐ 303/2026 (TB 181/TB-VPUBND, Quý IV/2026). Nạp `van-ban-goc/` (PDF + Word + 2 .txt), ref 52, sửa SKILL.md mục III.5, ref 01, ref 04 từ "đối chiếu điều khoản chính thức" thành điểm b khoản 8 Điều 24; sổ cái danh mục dựng lại.
+- Quy tắc Bạn chốt 28/10/2026: mọi văn bản QPPL Bạn gửi trong phiên phải được đẩy lên kho này (đã có ở CLAUDE.md mục 4.1 — nhắc lại, phiên có `add_repo` thì clone, push, mở PR, merge ngay).
+
 ## 27/10/2026 — hl-vlncn-sct-vn 1.6.0: QĐ công nhận chung cả lớp người quản lý; CV trả lời văn bằng nước ngoài theo TT 65/2026/TT-BGDĐT
 
 - Bạn sửa tay QĐ công nhận (26/10/2026) và CV trả lời Cty R.K Việt Nam (27/10/2026) của lớp người quản lý 17, 18/10/2026 (KH 6670/KH-SCT), yêu cầu ghi nhớ vào plugin.

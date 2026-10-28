@@ -1,3 +1,7 @@
+## 28/10/2026 (lần 2) — kccn-sct-vn 1.59.0: bản gốc chuỗi quyết định CCN Phú Thịnh 2 (QĐ 1454, 2193, 1335) và QHCT Phú Thịnh 3 (QĐ 839)
+
+- Bạn gửi 5 PDF; lưu 4 quyết định vào van-ban-goc kccn-sct-vn kèm .txt (OCR tiếng Việt); ref 52 mục F chuỗi văn bản, tiến độ hiện hành CCN Phú Thịnh 2 theo QĐ 1335/QĐ-UBND 21/4/2026 (GĐ1 Quý IV/2026, GĐ2 Quý III/2027); ref 30 sửa ghi chú TMĐT; trang-thai/ccn-phu-thinh-2.md cập nhật.
+
 ## 28/10/2026 — kccn-sct-vn 1.58.0: Luật Đầu tư 143/2025/QH15 bản gốc (ref 53, điểm b khoản 8 Điều 24 — hạ tầng CCN không chấp thuận CTĐT); công văn đăng ký sửa Quy chế CCN QĐ 16/2026 theo NĐ 303 (rút gọn)
 
 - Bạn gửi Luật Đầu tư 143/2025/QH15 (PDF + Word) trong phiên soạn công văn gửi Sở Tư pháp đăng ký xây dựng QĐ sửa đổi Quy chế quản lý CCN theo NĐ 303/2026 (TB 181/TB-VPUBND, Quý IV/2026). Nạp `van-ban-goc/` (PDF + Word + 2 .txt), ref 53, sửa SKILL.md mục III.5, ref 01, ref 04 từ "đối chiếu điều khoản chính thức" thành điểm b khoản 8 Điều 24; sổ cái danh mục dựng lại; tệp trạng thái hồ sơ sửa Quy chế.

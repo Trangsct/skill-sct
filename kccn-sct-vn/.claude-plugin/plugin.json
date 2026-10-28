@@ -1,15 +1,19 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.58.0",
-  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 52 (28/10/2026) MỚI NHẤT: CV 8668/STC-TĐ — hạ tầng CCN là ngành đặc biệt ưu đãi (NĐ 96/2026); thời gian XDCB miễn tiền thuê đất theo QĐ thành lập CCN, SCT được hỏi ý kiến. Ref 51: QĐ 3936/QĐ-HĐ tiêu chí CĐT CCN Tân Hợp (khuôn chuẩn). Ref 50: tài liệu Giám đốc đón Thường trực Tỉnh ủy (mẫu 10). Ref 49: CT 130-CTr/TU (mẫu 09). Ref 48: QĐ 3865 Xuân Ái.",
+  "version": "1.59.0",
+  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 53 (28/10/2026) MỚI NHẤT: Luật Đầu tư 143/2025/QH15 bản gốc — điểm b khoản 8 Điều 24, hạ tầng CCN không chấp thuận CTĐT; sửa Quy chế QĐ 16/2026 theo NĐ 303. Ref 52: CV 8668/STC-TĐ — hạ tầng CCN đặc biệt ưu đãi (NĐ 96/2026), thời gian XDCB theo QĐ thành lập. Ref 51: QĐ 3936/QĐ-HĐ tiêu chí CĐT CCN Tân Hợp. Ref 50: tài liệu Giám đốc (mẫu 10).",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
-    "qd-1335-dieu-chinh-thanh-lap-phu-thinh-2",
-    "qd-2193-dieu-chinh-ctdt-phu-thinh-2",
-    "qd-1454-thanh-lap-phu-thinh-2",
     "qd-839-qhct-phu-thinh-3",
+    "qd-1454-thanh-lap-phu-thinh-2",
+    "qd-2193-dieu-chinh-ctdt-phu-thinh-2",
+    "qd-1335-dieu-chinh-thanh-lap-phu-thinh-2",
+    "luat-dau-tu-143-2025",
+    "dieu-24-khoan-8-diem-b-ha-tang-ccn",
+    "sua-quy-che-ccn-qd-16-2026-theo-nd-303",
+    "dang-ky-vbqppl-rut-gon-so-tu-phap",
     "cv-8668-stc-uu-dai-dau-tu-phu-thinh-2",
     "thoi-gian-xay-dung-co-ban-mien-tien-thue-dat",
     "nd-96-2026-phu-luc-ii-dac-biet-uu-dai",
@@ -31,13 +35,6 @@
     "ky-cap-nhat-01-10-2026",
     "cv-6059-sct-cn-bao-cao-xa",
     "gpmb-phu-thinh-che-van-hung",
-    "ccn-yen-the-lua-chon-cdt",
-    "ccn-bac-duyen-hai-604",
-    "ky-cap-nhat-28-9-2026",
-    "qd-3426-3427-mong-son-yen-hop-2",
-    "qd-3480-duong-4e-thong-nhat-1",
-    "qd-2071-ic18",
-    "hop-chu-tich-ubnd-tinh-ccn",
-    "lap-day-ccn-29-02"
+    "ccn-yen-the-lua-chon-cdt"
   ]
 }

@@ -71,7 +71,7 @@ Quy định nguyên tắc, nội dung, phương thức và trách nhiệm của 
 
 ## LƯU Ý VỀ BƯỚC "CHẤP THUẬN CHỦ TRƯƠNG ĐẦU TƯ"
 
-Quy chế Lào Cai (theo NĐ 32 gốc) quy định bước chấp thuận chủ trương đầu tư trước khi lập Hội đồng chấm điểm. Tuy nhiên, **theo Luật Đầu tư 2025, dự án hạ tầng CCN thuộc diện KHÔNG phải chấp thuận chủ trương đầu tư**. Đây là điểm cần sửa đổi đồng bộ (Sở đã kiến nghị Bộ Công Thương). Khi áp dụng thực tế: đối chiếu với cơ quan đăng ký đầu tư (Sở Tài chính) để xác định có phải làm bước này không; phân biệt chủ trương đầu tư (dự án đầu tư công) với GCN đăng ký đầu tư (nhà đầu tư tư nhân). Xem reference 11.
+Quy chế Lào Cai (theo NĐ 32 gốc) quy định bước chấp thuận chủ trương đầu tư trước khi lập Hội đồng chấm điểm. Tuy nhiên, **theo điểm b khoản 8 Điều 24 Luật Đầu tư số 143/2025/QH15 (hiệu lực 01/3/2026), dự án đầu tư xây dựng hạ tầng kỹ thuật CCN KHÔNG thuộc diện chấp thuận chủ trương đầu tư** (reference `53`, đã đối chiếu bản gốc 28/10/2026). Đây là một nội dung phải sửa khi sửa Quy chế theo NĐ 303/2026 (công văn đăng ký xây dựng VBQPPL gửi Sở Tư pháp 28/10/2026, trình tự rút gọn, hoàn thành Quý IV/2026 theo TB 181/TB-VPUBND). Khi áp dụng thực tế: đối chiếu với cơ quan đăng ký đầu tư (Sở Tài chính) để xác định có phải làm bước này không; phân biệt chủ trương đầu tư (dự án đầu tư công) với GCN đăng ký đầu tư (nhà đầu tư tư nhân). Xem reference 11.
 
 ## KHI CẦN TOÀN VĂN
 

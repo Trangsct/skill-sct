@@ -1,4 +1,4 @@
-# CHANGELOG — kccn-sct-vn v1.58.0 (28/10/2026, lần 2)
+# CHANGELOG — kccn-sct-vn v1.59.0 (28/10/2026, lần 2)
 
 Nguồn: Bạn gửi 5 PDF trong phiên 28/10/2026 sau khi ref 52 ghi "QĐ 2193 cần tra bản gốc". Số, ngày, người ký đọc bằng script (pdftotext -layout, trường ký số, OCR tiếng Việt bản quét đối chiếu ảnh trang).
 
@@ -7,4 +7,4 @@ Nguồn: Bạn gửi 5 PDF trong phiên 28/10/2026 sau khi ref 52 ghi "QĐ 2193 
 - **references/30**: sửa ghi chú TMĐT Phú Thịnh 2 — QĐ 1454 có ghi 563.853.000.000 đồng.
 - **SKILL.md**: dòng ref 52 bổ sung chuỗi bản gốc. **trang-thai/ccn-phu-thinh-2.md**: bảng văn bản đủ chuỗi, bỏ vướng mắc "tra bản gốc QĐ 2193", thêm vướng mắc QHCT 1/500 Phú Thịnh 2 chưa có trong kho.
 - Sổ cái văn bản gốc, .gitattributes (export-ignore QĐ 1335) dựng lại bằng script.
-- `plugin.json` 1.57.0 → 1.58.0.
+- `plugin.json` 1.58.0 → 1.59.0.

@@ -32,7 +32,7 @@ Danh mục đầy đủ văn bản pháp luật điều chỉnh KCN/CCN, tình t
 
 | Lĩnh vực | Văn bản chính | Ghi chú |
 |---|---|---|
-| **Đầu tư** | Luật Đầu tư 2025 (143/2025/QH15, hiệu lực 01/3/2026); NĐ 96/2026/NĐ-CP hướng dẫn | Dự án hạ tầng CCN thuộc diện KHÔNG chấp thuận chủ trương đầu tư (đối chiếu điều khoản chính thức). Dự án thứ cấp theo pháp luật đầu tư chung |
+| **Đầu tư** | Luật Đầu tư số 143/2025/QH15 (thông qua 11/12/2025, hiệu lực 01/3/2026; bản gốc + .txt: `van-ban-goc/2025.12.11-143.2025.QH15-Luat-Dau-tu.pdf` và `…-ban-Word.docx`); NĐ 96/2026/NĐ-CP hướng dẫn | Dự án đầu tư xây dựng hạ tầng kỹ thuật CCN KHÔNG thuộc diện chấp thuận chủ trương đầu tư — **điểm b khoản 8 Điều 24** (đã đối chiếu bản gốc 28/10/2026, reference `53`); hạ tầng KCN vẫn thuộc diện (khoản 14 Điều 24). Dự án thứ cấp theo pháp luật đầu tư chung |
 | **Đất đai** | Luật Đất đai 2024 (31/2024/QH15, sửa đổi 2024); NĐ 102/2024, NĐ 71/2024 (giá đất), NĐ 88/2024 (bồi thường) | Đ.122 điều kiện giao/cho thuê đất; ký quỹ, vốn CSH ≥15% TMĐT với dự án ≥20 ha. Đất CCN thuộc nhóm đất phi nông nghiệp - đất khu, cụm công nghiệp (đất SKN) |
 | **Kinh doanh BĐS** | Luật Kinh doanh BĐS 2023 (hiệu lực 01/8/2024); NĐ 96/2024 | Kinh doanh hạ tầng CCN qua cho thuê đất có hạ tầng |
 | **Xây dựng** | **Luật Xây dựng 135/2025/QH15 (hiệu lực 01/7/2026)**; NĐ 207/2026 (QLCL, thi công, bảo trì), NĐ 217/2026 (quản lý hoạt động XD), TT 34/2026 (cấp công trình) | Đ.48 điều kiện khởi công; miễn GPXD trong CCN (Đ.21 NĐ 32). Thẩm định công trình công nghiệp → xem plugin `xd-sct-vn` |

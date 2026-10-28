@@ -1,3 +1,8 @@
+## 1.8.1 — 28/10/2026 — Bản in cuối sau khi Bạn soát (06 KCN đang hoạt động, Đông Phố Mới về Khu Bản Qua); R21
+
+- kho-bai-mau `…-gd-duyet.docx` thay bằng bản in 23h10; reference: mục "Bản in cuối" ghi hai lỗi Bạn chỉ (kccn L001, L002) và R21 "bản lãnh đạo đã sửa vẫn phải đối chiếu plugin".
+- `plugin.json` → 1.8.1.
+
 ## 1.8.0 — 28/10/2026 — Bản Giám đốc duyệt bài phát biểu BCH Đảng bộ tỉnh (sửa cuối trên Zalo); quy tắc R18–R20
 
 - kho-bai-mau thêm `bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx` (bản Giám đốc chốt 20h29, 5 trang) — mẫu chuẩn mới; reference ghi từng chỗ Giám đốc sửa cuối (làm tròn số, chức danh thay tên riêng, trích chỉ đạo của Chủ tịch nguyên văn, tách gạch đầu dòng, cắt đề nghị vượt cấp); R18 an ninh trật tự viết mềm "(nếu có)", R19 bản Zalo dán toàn văn là bản duyệt, R20 nêu tên từng dự án khi dẫn quyết định nhiều dự án.

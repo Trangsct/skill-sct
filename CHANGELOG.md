@@ -1,3 +1,7 @@
+## 28/10/2026 (lần 5) — kccn-sct-vn 1.61.1 + bpb-sct-vn 1.8.1: sổ lỗi tự ghi kccn L001, L002; bản in cuối bài phát biểu BCH
+
+- Bạn soát bản in: thiếu Bắc Duyên Hải, Âu Lâu trong nhóm KCN đang hoạt động (L001); Đông Phố Mới di dời về Khu Bản Qua, xã Bát Xát (dự án san gạt MB + HTKT 95 ha), không phải CCN Bát Xát (L002) — "áp dụng plugin chứ sếp không đúng hết đâu" → bpb R21. check_facts thêm 2 rule. File mẫu gd-duyet là bản in cuối.
+
 ## 28/10/2026 (lần 4) — bpb-sct-vn 1.8.0 + kccn-sct-vn 1.61.0: bản Giám đốc duyệt bài phát biểu BCH Đảng bộ tỉnh (sửa cuối trên Zalo), TB 192/TB-VPUBND Đề án KCN sinh thái Tằng Loỏng
 
 - **bpb-sct-vn 1.8.0:** kho-bai-mau thêm `bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx` (Giám đốc sửa trực tiếp trên Zalo 20h29, chốt "Lấy bản a sửa này", 5 trang) — mẫu chuẩn mới; reference ghi từng chỗ Giám đốc sửa cuối; quy tắc R18 an ninh trật tự viết mềm "(nếu có)", R19 bản Zalo dán toàn văn là bản duyệt (diff, chỉ sửa lỗi gõ, điền chỗ đánh dấu), R20 dẫn quyết định nhiều dự án phải nêu tên từng dự án.

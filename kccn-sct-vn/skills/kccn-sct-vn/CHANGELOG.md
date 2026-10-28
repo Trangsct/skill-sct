@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.61.1 — 28/10/2026 — Sổ lỗi tự ghi L001, L002 (bài phát biểu BCH: thiếu KCN đang hoạt động; Đông Phố Mới di dời về Khu Bản Qua)
+
+- `references/so-loi-tu-ghi.md` (mới): L001 danh sách KCN đang hoạt động phải đủ 06 khu (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân); L002 nơi di dời KCN Đông Phố Mới là Khu san gạt MB + HTKT Khu Bản Qua (95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược, không phải CCN Bát Xát; bài học "áp dụng plugin, không tin mặc nhiên bản lãnh đạo sửa". check_facts thêm 2 rule `kcn-dang-hoat-dong-thieu-khu`, `dong-pho-moi-di-doi-khong-phai-ccn-bat-xat`. SKILL.md thêm dòng dẫn sổ lỗi.
+- `plugin.json` → 1.61.1.
+
 ## 1.61.0 — 28/10/2026 — Ref 54 mục F: TB 192/TB-VPUBND (Đề án KCN sinh thái Tằng Loỏng); số liệu và quy tắc Giám đốc duyệt bài phát biểu BCH
 
 - Ref 54: tóm tắt TB 192/TB-VPUBND 28/10/2026 (7 đầu việc, mốc tháng 12/2026, dự toán 2027; việc của Sở Công Thương là phối hợp hướng dẫn sản xuất sạch hơn); mục D số liệu đọc trước BCH (12 KCN ≈ 3.600 ha; ba dự án QĐ 767 nêu tên Phía Nam, Minh Quân, Âu Lâu); E.6 an ninh trật tự viết mềm "(nếu có)", E.7 không đề nghị vượt cấp trước Hội nghị Tỉnh ủy.

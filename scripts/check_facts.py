@@ -44,6 +44,24 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "dong-pho-moi-di-doi-khong-phai-ccn-bat-xat",
+        # Bạn chỉ ra 28/10/2026 (kccn-sct-vn sổ lỗi L002): nơi tiếp nhận di dời KCN Đông Phố Mới là Khu san gạt MB + HTKT Khu Bản Qua
+        # (95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược (ref 17), không phải CCN Bát Xát (76 ha, mới là quy hoạch).
+        "pattern": r"^(?!.*(?:lịch sử|sai|L002)).*Đông Phố Mới.*(?:Cụm công nghiệp|CCN) Bát Xát|^(?!.*(?:lịch sử|sai|L002)).*(?:Cụm công nghiệp|CCN) Bát Xát.*Đông Phố Mới",
+        "why": "Di dời KCN Đông Phố Mới về Khu Bản Qua (dự án san gạt mặt bằng, HTKT 95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược, không phải CCN Bát Xát (kccn-sct-vn sổ lỗi L002, ref 17).",
+        "since": "2026-10-28",
+        "level": "FAIL",
+    },
+    {
+        "id": "kcn-dang-hoat-dong-thieu-khu",
+        # Bạn chỉ ra 28/10/2026 (kccn-sct-vn sổ lỗi L001): bài phát biểu BCH liệt kê KCN đang hoạt động thiếu Bắc Duyên Hải, Âu Lâu.
+        # 06 KCN đang hoạt động: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân (ref 12, 36).
+        "pattern": r"^(?!.*lịch sử)(?=.*[Kk]hu công nghiệp đang hoạt động:)(?!.*Bắc Duyên Hải.*Âu Lâu|.*Âu Lâu.*Bắc Duyên Hải).*",
+        "why": "Danh sách 'khu công nghiệp đang hoạt động' phải đủ 06 khu: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân (kccn-sct-vn sổ lỗi L001, ref 12).",
+        "since": "2026-10-28",
+        "level": "FAIL",
+    },
+    {
         "id": "qd-05-2025-da-thay-bang-qd-3628",
         # Bạn cung cấp 04/10/2026 (chuyển từ PR 115 ngày 18/10/2026): QĐ 3628/QĐ-UBND ngày 02/10/2026 ban hành Quy định CNNV, cơ cấu
         # tổ chức Sở (06 phòng, có Phòng Quản lý khoáng sản) dùng thay QĐ 05/2025/QĐ-UBND làm căn cứ chức năng Sở trong mọi văn bản

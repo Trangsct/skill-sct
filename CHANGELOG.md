@@ -1,3 +1,8 @@
+## 28/10/2026 — kccn-sct-vn 1.57.0: CV 8668/STC-TĐ — ưu đãi đầu tư và thời gian xây dựng cơ bản CCN Phú Thịnh 2
+
+- Bạn gửi CV 8668/STC-TĐ ngày 27/10/2026 của Sở Tài chính (trả lời Sở NN&MT về miễn tiền thuê đất của CĐT hạ tầng CCN Phú Thịnh 2), yêu cầu tóm tắt báo cáo Lãnh đạo và ghi plugin.
+- **kccn-sct-vn 1.57.0:** ref 52 (mới) — dự án hạ tầng CCN thuộc ngành, nghề đặc biệt ưu đãi đầu tư (khoản 1 Điều 25 NĐ 32/2024, Phụ lục II NĐ 96/2026); thời gian xây dựng cơ bản lấy theo tiến độ tại QĐ thành lập CCN và QĐ điều chỉnh, Sở Tài chính đề nghị lấy ý kiến Sở Công Thương (Luật Đầu tư 2025 bỏ chấp thuận chủ trương với hạ tầng CCN); cách Sở Công Thương trả lời; mẫu tin Zalo. `trang-thai/ccn-phu-thinh-2.md` mới.
+
 ## 27/10/2026 — hl-vlncn-sct-vn 1.6.0: QĐ công nhận chung cả lớp người quản lý; CV trả lời văn bằng nước ngoài theo TT 65/2026/TT-BGDĐT
 
 - Bạn sửa tay QĐ công nhận (26/10/2026) và CV trả lời Cty R.K Việt Nam (27/10/2026) của lớp người quản lý 17, 18/10/2026 (KH 6670/KH-SCT), yêu cầu ghi nhớ vào plugin.

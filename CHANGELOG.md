@@ -1,3 +1,7 @@
+## 28/10/2026 (lần 2) — kccn-sct-vn 1.58.0: bản gốc chuỗi quyết định CCN Phú Thịnh 2 (QĐ 1454, 2193, 1335) và QHCT Phú Thịnh 3 (QĐ 839)
+
+- Bạn gửi 5 PDF; lưu 4 quyết định vào van-ban-goc kccn-sct-vn kèm .txt (OCR tiếng Việt); ref 52 mục F chuỗi văn bản, tiến độ hiện hành CCN Phú Thịnh 2 theo QĐ 1335/QĐ-UBND 21/4/2026 (GĐ1 Quý IV/2026, GĐ2 Quý III/2027); ref 30 sửa ghi chú TMĐT; trang-thai/ccn-phu-thinh-2.md cập nhật.
+
 ## 28/10/2026 — kccn-sct-vn 1.57.0: CV 8668/STC-TĐ — ưu đãi đầu tư và thời gian xây dựng cơ bản CCN Phú Thịnh 2
 
 - Bạn gửi CV 8668/STC-TĐ ngày 27/10/2026 của Sở Tài chính (trả lời Sở NN&MT về miễn tiền thuê đất của CĐT hạ tầng CCN Phú Thịnh 2), yêu cầu tóm tắt báo cáo Lãnh đạo và ghi plugin.

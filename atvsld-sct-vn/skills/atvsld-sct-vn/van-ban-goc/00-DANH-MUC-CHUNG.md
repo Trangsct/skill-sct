@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 346 văn bản gốc (346 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -113,6 +113,7 @@ Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn b�
 | 19/2026/NQ-CP | 29/04/2026 |  | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/NQ-19-2026-NQ-CP.pdf` | có (OCR) |
 | 24/2026//NQ-CP | 29/04/2026 | cat giam TTHC XD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/NQ-24-2026-NQ-CP-cat-giam-TTHC-XD.docx` | có |
 | 3320/SNNMT-CCMT | 23/04/2026 | chuyen VBHN 48 49 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-3320-SNNMT-CCMT-23-4-2026-chuyen-VBHN-48-49.txt` | có |
+| 1335/QĐ-UBND | 21/04/2026 | Dieu chinh QD thanh lap CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.04.21-1335.QD.UBND-Dieu-chinh-QD-thanh-lap-CCN-Phu-Thinh-2.pdf` | có |
 | 15/2026/NQ-CP | 06/04/2026 | Nghị quyết tạm ngưng NĐ 46.2026 và NQ 66.13.2026 | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2026.04.06 15.2026.NQ.CP Nghị quyết tạm ngưng NĐ 46.2026 và NQ 66.13.2026.docx` | có |
 | — | 06/04/2026 | VB giao tham gia phoi hop | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/04-uy-quyen-quy-trinh/VB-giao-tham-gia-phoi-hop.pdf` | có |
 | 133/2026/NĐ-CP | 06/04/2026 | xu phat dien luc | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/dien-luc/ND-133-2026-NDCP-xu-phat-dien-luc.docx` | có |
@@ -171,6 +172,7 @@ Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn b�
 | 135/2025/QH15 | 10/12/2025 | Luat Xay dung 135 2025 QH15 | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/Luat-Xay-dung-135-2025-QH15.docx` | có |
 | 19/2025/NQ-HĐND | 09/12/2025 | bang gia dat Lao Cai | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/tinh/NQ-19-2025-NQ-HDND-bang-gia-dat-Lao-Cai.docx` | có |
 | 26-NQ/TU | 05/12/2025 |  | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/NQ-26-NQ-TU-05-12-2025.pdf` | có (OCR) |
+| 2193/QĐ-UBND | 03/12/2025 | Dieu chinh CTDT ha tang CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2025.12.03-2193.QD.UBND-Dieu-chinh-CTDT-ha-tang-CCN-Phu-Thinh-2.pdf` | có (OCR) |
 | 56/2025/TT-BCT | 28/11/2025 | quy trinh kiem tra chuyen nganh Cong Thuong | xp-hc-vlncn-sct-vn | `xp-hc-vlncn-sct-vn/skills/xp-hc-vlncn-sct-vn/van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.docx` | có |
 | 56/2025/TT-BCT | 28/11/2025 | quy trinh kiem tra chuyen nganh Cong Thuong | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh-Cong-Thuong.docx` | có |
 | 2581/QĐ-TTg | 24/11/2025 | dieu chinh QD 866 Nui Phao Ta Phoi Tho Son Thong Nhat | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/QD-2581-QD-TTg-24-11-2025-dieu-chinh-QD-866-Nui-Phao-Ta-Phoi-Tho-Son-Thong-Nhat.docx` | có |
@@ -259,6 +261,7 @@ Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn b�
 | 42/2024/QH15 | 29/06/2024 |  | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/Luat-42-2024-QH15.docx` | có |
 | 71/2024/NĐ-CP | 27/06/2024 | gia dat | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/ND-71-2024-ND-CP-gia-dat.docx` | có |
 | 35/2024/QH15 | 27/06/2024 | Luat Duong bo 35 2024 text | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/01-luat/Luat-Duong-bo-35-2024-text.docx` | có |
+| 839/QĐ-UBND | 27/06/2024 | Yen Binh Phe duyet QHCT CCN Phu Thinh 3 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2024.06.27-839.QD.UBND-Yen-Binh-Phe-duyet-QHCT-CCN-Phu-Thinh-3.pdf` | có (OCR) |
 | 13/CT-TTg | 02/05/2024 | quan ly tin chi cac bon | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CT-13-CT-TTg-02-5-2024-quan-ly-tin-chi-cac-bon.txt` | có |
 | 34/2024/NĐ-CP | 31/03/2024 | CWC vukhihoahoc | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/02-nghi-dinh/ND-34-2024-CWC-vukhihoahoc.docx` | có |
 | 32/2024/NĐ-CP | 15/03/2024 | quan ly phat trien CCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/ND-32-2024-quan-ly-phat-trien-CCN.docx` | có |
@@ -270,6 +273,7 @@ Thống kê: 342 văn bản gốc (342 có bản .txt) ở 20 plugin; 30 văn b�
 | 9416/VPCP-QHQT | 30/11/2023 | thoa thuan VN Singapore | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-9416-VPCP-QHQT-30-11-2023-thoa-thuan-VN-Singapore.txt` | có |
 | 35/2023/NĐ-CP | 20/06/2023 | sua cac ND BXD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-35-2023-sua-cac-ND-BXD.docx` | có |
 | 334/QĐ-TTg | 01/04/2023 | chien luoc dia chat khoang san cong nghiep khai khoang 2030 2045 | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/QD-334-QD-TTg-01-4-2023-chien-luoc-dia-chat-khoang-san-cong-nghiep-khai-khoang-2030-2045.docx` | có |
+| 1454/QĐ-UBND | 24/08/2022 | Thanh lap CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2022.08.24-1454.QD.UBND-Thanh-lap-CCN-Phu-Thinh-2.pdf` | có (OCR) |
 | 896/QĐ-TTg | 26/07/2022 | chien luoc BDKH 2050 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-896-QD-TTg-26-7-2022-chien-luoc-BDKH-2050.txt` | có |
 | 88/NQ-CP | 22/07/2022 | chuong trinh hanh dong thuc hien NQ 10 NQ TW | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/NQ-88-NQ-CP-22-7-2022-chuong-trinh-hanh-dong-thuc-hien-NQ-10-NQ-TW.docx` | có |
 | 45/2022/NĐ-CP | 07/07/2022 | xu phat bao ve moi truong | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/moi-truong/ND-45-2022-NDCP-xu-phat-bao-ve-moi-truong.docx` | có |

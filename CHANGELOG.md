@@ -1,3 +1,8 @@
+## 28/10/2026 — kccn-sct-vn 1.58.0: Luật Đầu tư 143/2025/QH15 bản gốc (ref 53, điểm b khoản 8 Điều 24 — hạ tầng CCN không chấp thuận CTĐT); công văn đăng ký sửa Quy chế CCN QĐ 16/2026 theo NĐ 303 (rút gọn)
+
+- Bạn gửi Luật Đầu tư 143/2025/QH15 (PDF + Word) trong phiên soạn công văn gửi Sở Tư pháp đăng ký xây dựng QĐ sửa đổi Quy chế quản lý CCN theo NĐ 303/2026 (TB 181/TB-VPUBND, Quý IV/2026). Nạp `van-ban-goc/` (PDF + Word + 2 .txt), ref 53, sửa SKILL.md mục III.5, ref 01, ref 04 từ "đối chiếu điều khoản chính thức" thành điểm b khoản 8 Điều 24; sổ cái danh mục dựng lại; tệp trạng thái hồ sơ sửa Quy chế.
+- Quy tắc Bạn chốt 28/10/2026: mọi văn bản QPPL Bạn gửi trong phiên phải được đẩy lên kho này (CLAUDE.md mục 4.1 — phiên có `add_repo` thì clone, push, mở PR, merge ngay).
+
 ## 28/10/2026 — kccn-sct-vn 1.57.0: CV 8668/STC-TĐ — ưu đãi đầu tư và thời gian xây dựng cơ bản CCN Phú Thịnh 2
 
 - Bạn gửi CV 8668/STC-TĐ ngày 27/10/2026 của Sở Tài chính (trả lời Sở NN&MT về miễn tiền thuê đất của CĐT hạ tầng CCN Phú Thịnh 2), yêu cầu tóm tắt báo cáo Lãnh đạo và ghi plugin.

@@ -1,0 +1,18 @@
+# Sổ lỗi tự ghi — kccn-sct-vn
+
+Lỗi Bạn chỉ ra trong phiên, Claude ghi ngay theo CLAUDE.md mục "Tự ghi lỗi" (Bạn chốt 17/10/2026). Đọc tệp này trước khi
+soạn văn bản thuộc lĩnh vực của plugin. Định dạng mỗi mục và cách kiểm: `scripts/check_anti_error_format.py` ở gốc kho.
+Lỗi kiểm được bằng máy thì kèm quy tắc trong `qa_rules.py` (vbhc-vn) hoặc `check_facts.py` và ghi mã ở dòng "Máy kiểm".
+Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-thai/<hồ sơ>.md` mục "Yêu cầu riêng một lần".
+
+### L001 — 28/10/2026 — Liệt kê thiếu khu công nghiệp đang hoạt động
+- Lỗi: Bài phát biểu BCH Đảng bộ tỉnh ghi "Các khu công nghiệp đang hoạt động: Tằng Loỏng, Đông Phố Mới, Minh Quân, Phía Nam" — bỏ sót Bắc Duyên Hải và Âu Lâu (hai khu đang hoạt động), trong khi cùng đoạn lại dẫn ba dự án theo QĐ 767/QĐ-UBND có KCN Âu Lâu. Nguyên nhân: chép danh sách từ bản nháp đầu (chỉ lấy các khu có vướng mắc đang nêu) thay vì tra danh mục ref 12, 36.
+- Cách đúng: nhóm "đang hoạt động" của tỉnh gồm **06 khu**: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải (vùng Lào Cai cũ — BQL Khu kinh tế), Phía Nam, Âu Lâu, Minh Quân (vùng Yên Bái cũ — BQL các KCN); kể đủ 06 tên dù vướng mắc chỉ nêu ở vài khu. Nhóm mới thành lập, đang GPMB: Cam Đường, Võ Lao, Phú Xuân, Phú Xuân 1, Bản Qua, Trấn Yên. Trước khi viết câu "các KCN đang hoạt động/đã thành lập/mới" tra ref 12 (danh mục) và ref 36 (bảng Phụ lục II), không chép từ bản nháp.
+- Ví dụ: "1. Các khu công nghiệp đang hoạt động: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân".
+- Máy kiểm: check_facts `kcn-dang-hoat-dong-thieu-khu` (FAIL khi dòng có "khu công nghiệp đang hoạt động:" mà thiếu Bắc Duyên Hải hoặc Âu Lâu).
+
+### L002 — 28/10/2026 — Nơi di dời Khu công nghiệp Đông Phố Mới ghi sai thành "Cụm công nghiệp Bát Xát"
+- Lỗi: (câu sai, lịch sử) Bài phát biểu BCH viết "KCN Đông Phố Mới phải có hạ tầng Cụm công nghiệp Bát Xát tại khu vực Bản Qua thì mới di dời được" và ở phần giao việc "Ban Quản lý dự án đầu tư xây dựng tỉnh đầu tư dứt điểm hạ tầng CCN Bát Xát" — điền theo suy đoán khi Giám đốc đánh "Ai?", không tra plugin. CCN Bát Xát (76 ha, xã Bát Xát) mới là quy hoạch "phục vụ di chuyển cơ sở", chưa đầu tư.
+- Cách đúng: hạ tầng tái định cư cho doanh nghiệp di dời khỏi KCN Đông Phố Mới (do đường sắt Lào Cai - Hà Nội - Hải Phòng) là **02 dự án đầu tư công đang thi công**: (1) **Khu san gạt mặt bằng và hạ tầng kỹ thuật Khu Bản Qua, xã Bát Xát** — 95 ha, TMĐT 510,4 tỷ, QĐ dự án 1406/QĐ-UBND 06/5/2025, khởi công 15/8/2025, bố trí 34 doanh nghiệp, dự kiến hoàn thành 31/12/2026 (ref 17 mục 1, ref 36); (2) **Lô SX1, SX2 Khu Logistics Kim Thành - Bản Vược** — QĐ 1407/QĐ-UBND 06/5/2025, TMĐT 106,43 tỷ, bố trí 02 nhà máy may và nhà máy dược liệu, thi công đạt 95 % (ref 17 mục 2). Chủ đầu tư hai dự án chưa ghi trong kho → viết "Ban Quản lý Khu kinh tế tỉnh và chủ đầu tư", không gán cho Ban Quản lý dự án đầu tư xây dựng tỉnh khi chưa có bản gốc. Bài học Bạn chốt: **áp dụng plugin, không tin mặc nhiên bản sửa của lãnh đạo** ("sếp không đúng hết đâu") — mọi tên dự án, địa điểm, chủ thể trong bản lãnh đạo sửa vẫn phải đối chiếu ref 12, 17, 36 trước khi in.
+- Ví dụ: "Khu công nghiệp Đông Phố Mới chỉ di dời được các cơ sở sản xuất theo lộ trình khi hoàn thành hạ tầng tái định cư cho doanh nghiệp tại Khu Bản Qua, xã Bát Xát (95 ha, bố trí 34 doanh nghiệp)"; giao việc: "Đề nghị Ban Quản lý Khu kinh tế tỉnh và chủ đầu tư hoàn thành dứt điểm hạ tầng Khu Bản Qua trước ngày 31/12/2026 để di dời các cơ sở trong Khu công nghiệp Đông Phố Mới".
+- Máy kiểm: check_facts `dong-pho-moi-di-doi-khong-phai-ccn-bat-xat` (FAIL khi một dòng có "Đông Phố Mới" cùng "Cụm công nghiệp Bát Xát"/"CCN Bát Xát" mà không có "lịch sử"/"sai").

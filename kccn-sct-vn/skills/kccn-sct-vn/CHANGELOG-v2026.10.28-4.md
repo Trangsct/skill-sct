@@ -1,0 +1,7 @@
+# CHANGELOG — kccn-sct-vn v1.61.0 (28/10/2026, lần 4)
+
+- `references/54-…md`: **mục F mới — Thông báo số 192/TB-VPUBND ngày 28/10/2026** (kết luận PCT Thường trực UBND tỉnh Ngô Hạnh Phúc, cuộc họp 26/10/2026 về Đề án chuyển đổi KCN Tằng Loỏng sang KCN sinh thái): đánh giá (03 lần trình, hơn 01 năm, chưa rõ lộ trình/chỉ tiêu/kinh phí/trách nhiệm doanh nghiệp), quan điểm (chuyển đổi bắt buộc, nhiệm vụ có địa chỉ, có thời hạn, kiểm chứng được), 7 đầu việc theo cơ quan (BQL KKT gửi hồ sơ hoàn thiện về UBND tỉnh tháng 12/2026; Sở Tài chính dự toán 2027; Sở NN&MT; Sở Công Thương + KH&CN + Xây dựng hướng dẫn sản xuất sạch hơn, tiết kiệm năng lượng, rà quy hoạch hạ tầng; Sở Tư pháp; BQL DA ĐTXD tỉnh; UBND xã Tằng Loỏng) và cách đã dùng trong bài phát biểu Giám đốc duyệt. Văn bản đến của cơ quan → chỉ tóm tắt, không lưu bản gốc vào kho công khai.
+- Mục D: số liệu Giám đốc duyệt đọc trước Ban Chấp hành — 12 KCN ≈ 3.600 ha (cách tính), 26 CCN "khoảng 1.100 ha", Trấn Yên 109 / 145,6 ha (làm tròn khi đọc), ba dự án QĐ 767/QĐ-UBND phải nêu tên (Phía Nam, Minh Quân, Âu Lâu), nêu chức danh thay tên Trưởng BCĐ của Tỉnh ủy.
+- Mục E: quy tắc 6 (an ninh, trật tự viết mềm "tại các khu, cụm công nghiệp (nếu có)" trong văn bản đọc công khai — câu đã duyệt) và 7 (không đề nghị vượt cấp/đề nghị UBND tỉnh trước Hội nghị Tỉnh ủy).
+- `SKILL.md` bảng reference: dòng ref 54 cập nhật.
+- `plugin.json` → 1.61.0.

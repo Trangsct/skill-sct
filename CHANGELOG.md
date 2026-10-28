@@ -1,3 +1,9 @@
+## 28/10/2026 (lần 4) — bpb-sct-vn 1.8.0 + kccn-sct-vn 1.61.0: bản Giám đốc duyệt bài phát biểu BCH Đảng bộ tỉnh (sửa cuối trên Zalo), TB 192/TB-VPUBND Đề án KCN sinh thái Tằng Loỏng
+
+- **bpb-sct-vn 1.8.0:** kho-bai-mau thêm `bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx` (Giám đốc sửa trực tiếp trên Zalo 20h29, chốt "Lấy bản a sửa này", 5 trang) — mẫu chuẩn mới; reference ghi từng chỗ Giám đốc sửa cuối; quy tắc R18 an ninh trật tự viết mềm "(nếu có)", R19 bản Zalo dán toàn văn là bản duyệt (diff, chỉ sửa lỗi gõ, điền chỗ đánh dấu), R20 dẫn quyết định nhiều dự án phải nêu tên từng dự án.
+- **kccn-sct-vn 1.61.0:** ref 54 mục F tóm tắt TB 192/TB-VPUBND 28/10/2026 (PCT Thường trực Ngô Hạnh Phúc; BQL KKT hoàn thiện Đề án gửi UBND tỉnh tháng 12/2026; Sở Tài chính dự toán 2027; Sở Công Thương + KH&CN + Xây dựng hướng dẫn sản xuất sạch hơn — văn bản đến, chỉ tóm tắt); mục D số liệu đọc trước BCH (12 KCN ≈ 3.600 ha; ba dự án QĐ 767 nêu tên); E.6–E.7.
+- trang-thai/ctr-130: nhật ký 28/10 (bản Giám đốc duyệt); marketplace 4.11.178.
+
 ## 28/10/2026 (lần 3) — bpb-sct-vn 1.7.0 + kccn-sct-vn 1.60.0 + vbhc-vn 2.37.1: bài phát biểu Giám đốc tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN; TBKL 1173-TB/TU; bộ máy BCĐ GPMB; công văn UBND tỉnh triển khai kết luận
 
 - **bpb-sct-vn 1.7.0:** kho-bai-mau thêm bản cuối 28/10/2026 (4 trang rưỡi), bản Giám đốc sửa tay (có dấu "Ai?") và bản đầu 27/10 (8 trang); reference mới `bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` (12 ý kiến Giám đốc qua Zalo, 7 kiểu Giám đốc sửa tay, quy tắc R8–R17: giọng ngang cấp ở phần phân công, việc lớn Tỉnh ủy - UBND đã làm trước, mốc theo ngày đọc, độ dài tối đa và thứ tự cắt, dễ đọc trên bục, đối chiếu tên số lãnh đạo nhắn Zalo, không chép chữ sai của báo, giữ chỗ Giám đốc sửa tay, mỗi việc có chủ thể, nêu vấn đề và giao việc luôn); SKILL.md mục 4 kính thưa có Ban Đảng Trung ương, mục 7, 8.

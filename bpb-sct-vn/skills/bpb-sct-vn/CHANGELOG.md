@@ -1,3 +1,8 @@
+## 1.8.2 — 29/10/2026 — Khẩu hiệu hành động kết bài (R22); bản in cuối sáng 29/10
+
+- kho-bai-mau `…-gd-duyet.docx` = bản in 14h 29/10: kết bài bằng khẩu hiệu hai vế có vần, riêng đoạn, đậm nghiêng, căn giữa, ngắt dòng tay — "Mặt bằng sạch đến đâu, dự án về đến đó; / công nghiệp vươn xa, Lào Cai bứt phá!"; câu cảm ơn mở "Với khẩu hiệu hành động đó…". Reference R22 ghi cách làm việc về khẩu hiệu (câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn; kèm 2–3 phương án). SKILL.md, mục lục cập nhật.
+- `plugin.json` → 1.8.2.
+
 ## 1.8.1 — 28/10/2026 — Bản in cuối sau khi Bạn soát (06 KCN đang hoạt động, Đông Phố Mới về Khu Bản Qua); R21
 
 - kho-bai-mau `…-gd-duyet.docx` thay bằng bản in 23h10; reference: mục "Bản in cuối" ghi hai lỗi Bạn chỉ (kccn L001, L002) và R21 "bản lãnh đạo đã sửa vẫn phải đối chiếu plugin".

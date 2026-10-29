@@ -1,7 +1,7 @@
 {
   "name": "bpb-sct-vn",
-  "version": "1.8.1",
-  "description": "Soạn bài phát biểu, tham luận, diễn văn, trả lời phỏng vấn cho Giám đốc, lãnh đạo Sở Công Thương Lào Cai: kết cấu chuẩn, giọng văn nói chính trị, ngân hàng câu từ, quy tắc bản duyệt, docx 15pt. Mẫu 28/10/2026 tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (bản Giám đốc sửa tay + bản Giám đốc duyệt): việc lớn đã làm trước, nêu vấn đề rồi giao việc, giọng ngang cấp, mỗi việc có chủ thể, mốc theo ngày đọc ANTT viết mềm (R8–R20). Mẫu tóm tắt 03 trang họp UBND tỉnh. 20 bài mẫu gốc, build_bpb.py.",
+  "version": "1.8.2",
+  "description": "Soạn bài phát biểu, tham luận, diễn văn, trả lời phỏng vấn cho Giám đốc, lãnh đạo Sở Công Thương Lào Cai: kết cấu chuẩn, giọng văn nói chính trị, ngân hàng câu từ, quy tắc bản duyệt, docx 15pt. Mẫu 28/10/2026 tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (bản Giám đốc sửa tay + bản Giám đốc duyệt): việc lớn đã làm trước, nêu vấn đề rồi giao việc, giọng ngang cấp, mỗi việc có chủ thể, mốc theo ngày đọc ANTT viết mềm khẩu hiệu kết bài (R8–R22). 20 bài mẫu gốc, build_bpb.py.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"
   },

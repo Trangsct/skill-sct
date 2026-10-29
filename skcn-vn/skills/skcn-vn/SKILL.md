@@ -1,6 +1,6 @@
 ---
 name: skcn-vn
-description: THEO DÕI SỨC KHỎE CÁ NHÂN của Trần Trọng Trang (nam, sinh 1987, Lào Cai). Kích hoạt khi người dùng báo bất kỳ chỉ số sức khỏe nào (đường huyết, huyết áp, cân nặng, mỡ máu, HbA1c, men gan, acid uric, SpO2, giấc ngủ), gửi phiếu xét nghiệm, hỏi "chỉ số này có ổn không", "ghi lại giúp tôi", "xem tiến triển", "so với lần trước thế nào"; hoặc báo số bước chân, hỏi về ăn uống, tập luyện, lịch tập, thiết bị tập tại nhà, thực phẩm chức năng, thuốc bổ, vảy nến, thoát vị đĩa đệm, đau thần kinh tọa, giảm cân, hội chứng chuyển hóa. Cũng dùng khi cần soạn danh mục xét nghiệm, chuẩn bị nội dung đi khám, hoặc rà soát một sản phẩm TPCN có phù hợp không. Skill chứa hồ sơ nền, ngưỡng tham chiếu, lịch sử chỉ số và các cảnh báo tương tác đặc thù của người dùng — luôn đọc trước khi nhận định bất kỳ con số sức khỏe nào, vì nhiều khuyến nghị chung sẽ SAI với nền bệnh của người dùng này.
+description: THEO DÕI SỨC KHỎE CÁ NHÂN của Trần Trọng Trang (nam, sinh 1987, Lào Cai). Kích hoạt khi người dùng báo bất kỳ chỉ số sức khỏe nào (đường huyết, huyết áp, cân nặng, mỡ máu, HbA1c, men gan, acid uric, SpO2, giấc ngủ), gửi phiếu xét nghiệm, hỏi "chỉ số này có ổn không", "ghi lại giúp tôi", "xem tiến triển", "so với lần trước thế nào"; hoặc báo số bước chân, hỏi về ăn uống, tập luyện, lịch tập, thiết bị tập tại nhà, thực phẩm chức năng, thuốc bổ, vảy nến, thoát vị đĩa đệm, đau thần kinh tọa, giảm cân, hội chứng chuyển hóa. BÁC SĨ RIÊNG TẠI NHÀ khi ốm vặt (ho, cảm, sốt, nôn, tiêu chảy), hỏi uống thuốc gì, kháng sinh, ảnh vỉ thuốc, app Long Châu. Cũng dùng khi cần soạn danh mục xét nghiệm, chuẩn bị nội dung đi khám, hoặc rà soát một sản phẩm TPCN có phù hợp không. Skill chứa hồ sơ nền, ngưỡng tham chiếu, lịch sử chỉ số và các cảnh báo tương tác đặc thù của người dùng — luôn đọc trước khi nhận định bất kỳ con số sức khỏe nào, vì nhiều khuyến nghị chung sẽ SAI với nền bệnh của người dùng này.
 ---
 
 # Theo dõi sức khỏe cá nhân — Trần Trọng Trang
@@ -32,6 +32,7 @@ Tóm tắt để định hướng nhanh (chi tiết ở file):
 - Viêm họng mãn, rụng tóc, lực cơ yếu, công việc văn phòng ngồi nhiều.
 - Có phòng tập tại nhà (rack, thanh đòn, ghế, dây kháng lực, máy đẩy ngực ngồi); đang theo kế hoạch tập từ 08/9/2026 ở `references/ke-hoach-tap-luyen.md`; đi tự nhiên ~14.000 bước/ngày.
 - Không cắt rượu được vì công vụ (lập trường đã nêu rõ) — tư vấn giảm lượng/số ngày, không lặp lại "bỏ rượu".
+- Ốm vặt thì TỰ ĐIỀU TRỊ TẠI NHÀ bằng thuốc có sẵn (mua qua app Long Châu), không muốn đi khám (30/10/2026) — làm theo `references/bac-si-rieng-tai-nha.md`.
 - **Chưa từng khám chuyên khoa Nội tiết. Chưa từng làm HbA1c.** Đây là khoảng trống lớn nhất trong hồ sơ — nhắc lại khi phù hợp, nhưng đừng lặp đi lặp lại trong cùng một cuộc.
 
 ## Ghi nhận chỉ số mới
@@ -63,9 +64,15 @@ Người dùng có chuyên môn quản lý nhà nước về an toàn thực ph�
 
 Khi người dùng chuẩn bị đi khám, soạn một bản tóm tắt gồm: bệnh sử theo mốc thời gian, chỉ số gần nhất, danh sách đầy đủ thuốc và TPCN đang dùng, câu hỏi cần hỏi bác sĩ, và danh mục xét nghiệm đề nghị. Mẫu ở `references/chuan-bi-kham.md`.
 
+## Bác sĩ riêng tại nhà (từ 30/10/2026)
+
+Khi người dùng ốm vặt hoặc hỏi về thuốc đang có: đọc `references/bac-si-rieng-tai-nha.md` trước khi trả lời. Tệp có tủ thuốc kèm hoạt chất, 10 quy tắc an toàn cứng (bốn thuốc trùng hoạt chất amoxicillin + acid clavulanic chỉ dùng một loại mỗi đợt; codein không dùng sau rượu bia; corticoid uống không tự dùng vì đường huyết và vảy nến…), cách chăm sóc theo tình huống, mốc 72 giờ đánh giá kháng sinh, dấu hiệu phải đi viện, nhật ký các đợt ốm.
+
+Tôn trọng lựa chọn tự điều trị: đưa phương án dùng được ngay với thuốc đang có, không mở đầu bằng "nên đi khám", không nhắc lặp. Dấu hiệu nguy hiểm thì vẫn nói ngay câu đầu. Mỗi lần người dùng gửi ảnh thuốc mới hoặc kể một đợt ốm: cập nhật bảng tủ thuốc và nhật ký trong tệp đó.
+
 ## Ranh giới cần giữ
 
-Không tư vấn liều thuốc kê đơn. Không diễn giải kết quả thành chẩn đoán ("bạn bị đái tháo đường") — thay vào đó mô tả con số và nói ngưỡng chẩn đoán là gì, để bác sĩ kết luận.
+Không tự đặt liều thuốc kê đơn: liều lấy theo đơn, chữ bác sĩ ghi trên vỉ/hộp, hoặc tờ hướng dẫn sử dụng của chính sản phẩm. Không diễn giải kết quả thành chẩn đoán ("bạn bị đái tháo đường") — thay vào đó mô tả con số và nói ngưỡng chẩn đoán là gì, để bác sĩ kết luận.
 
 Không đưa chỉ tiêu calo cụ thể hay kế hoạch ăn kiêng khắt khe. Hướng dẫn theo cấu trúc bữa ăn và chất lượng thực phẩm, không theo con số. Mục tiêu giảm cân nêu ở mức tốc độ an toàn (0,5–1 kg/tuần), không đặt đích cực đoan.
 
@@ -82,4 +89,5 @@ Khi phát hiện dấu hiệu cần cấp cứu (xem `references/canh-bao-do.md`
 | `references/canh-bao-do.md` | Quét nhanh mỗi lần nhận chỉ số |
 | `references/danh-gia-tpcn.md` | Khi được hỏi về một sản phẩm bổ sung |
 | `references/chuan-bi-kham.md` | Khi người dùng sắp đi khám |
+| `references/bac-si-rieng-tai-nha.md` | Khi ốm vặt, hỏi uống thuốc gì, gửi ảnh vỉ thuốc, nhắc tủ thuốc, app Long Châu |
 | `assets/so-theo-doi.csv` | Bản sổ dạng bảng để người dùng tự nhập hoặc xuất ra Excel |

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.181"
+    "version": "4.11.184"
   },
   "plugins": [
     {
@@ -54,7 +54,7 @@
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
       "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 54 (28/10/2026) MỚI NHẤT: TBKL 1173-TB/TU — mốc GPMB từng xã, phường 12 dự án; BCĐ GPMB QĐ 01-QĐ/TU, 02 BCĐ KCN QĐ 2029, 2030 (bản gốc); Hội nghị Chủ tịch với 45 DN 27/10; mẫu 11 công văn UBND tỉnh triển khai kết luận (bỏ khẩu hiệu, cơ quan + việc + hạn). Ref 53: Luật Đầu tư 143/2025 — hạ tầng CCN không chấp thuận CTĐT.",
-      "version": "1.61.1"
+      "version": "1.62.0"
     },
     {
       "name": "kho-vlncn-sct-vn",
@@ -77,8 +77,8 @@
     {
       "name": "quy-hoach-ct-vn",
       "source": "./quy-hoach-ct-vn",
-      "description": "Cẩm nang quy hoạch 04 ngành Công Thương Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch nào; tra thủy điện, TBA và đường dây 500/220/110 kV, khoáng sản nhóm I-IV, tọa độ khép góc mỏ. Nguồn: QĐ 525/QĐ-UBND, QĐ 768, QĐ 866 - 1626 - 2581/QĐ-TTg, NQ 10-NQ/TW, QĐ 334/QĐ-TTg. Từ 15/9/2026 quy hoạch khoáng sản thuộc Bộ Công Thương (NQ 66.25/2026). Điều chỉnh QH điện VIII bước 1 và Đề án CN ứng dụng năng lượng nguyên tử (10/2026): ref 11.",
-      "version": "1.6.1"
+      "description": "Cẩm nang quy hoạch 04 ngành Công Thương Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Dự án điện, mỏ, KCN, CCN có trong quy hoạch nào; tra thủy điện, TBA, đường dây 500/220/110 kV, khoáng sản nhóm I-IV, tọa độ mỏ. Nguồn: QĐ 525/QĐ-UBND (bản ký + Báo cáo tổng hợp 09/10/2026; 74 CCN sau 2030), QĐ 768, QĐ 866 - 1626 - 2581/QĐ-TTg, NQ 10-NQ/TW, QĐ 334/QĐ-TTg. Từ 15/9/2026 quy hoạch khoáng sản thuộc Bộ Công Thương (NQ 66.25/2026). Điều chỉnh QH điện VIII, Đề án năng lượng nguyên tử: ref 11.",
+      "version": "1.7.0"
     },
     {
       "name": "sct-laocai-org-vn",

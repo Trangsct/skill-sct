@@ -18,9 +18,12 @@ Thư mục `sources/` chứa **toàn văn các văn bản gốc** (trích xuất
 | `qht-laocai-2026-baocao-thuyetminh.txt` | Báo cáo (thuyết minh) Điều chỉnh Quy hoạch tỉnh Lào Cai 2021-2030 (UBND tỉnh, bản thao tác 07/6/2026); DOCX gốc | Bản thao tác — KHÔNG phải QĐ 525 đã ký | **Toàn bộ 04 ngành tích hợp**: hiện trạng + phương án điện (Bảng 4-15, 32-43), khoáng sản (mục 1.4.2, 4.6, 6), KCN (5.2), CCN; kèm các bảng |
 | `qht-laocai-2026-phuluc.txt` | Phụ lục Báo cáo Điều chỉnh QHT Lào Cai (07/6/2026); 54 bảng | Bản thao tác | Chỉ tiêu KT-XH, dân số, GRDP, sử dụng đất, danh mục dự án ưu tiên... |
 
-## Văn bản gốc KHÁC (chưa có text — tham chiếu qua reference)
+## QĐ 525/QĐ-UBND và hồ sơ Quy hoạch tỉnh bản hoàn thiện (nạp 29/10/2026 — xem `van-ban-goc/`)
 
-- **QĐ 525/QĐ-UBND 25/02/2026** (Quy hoạch tỉnh Lào Cai) + phụ lục — PDF scan; bản thao tác thuyết minh tương ứng đã có text tại `qht-laocai-2026-*.txt`; danh mục KCN/CCN trong skill `kcn-ccn-vn` ref 17.
+- `van-ban-goc/2026.02.25-525.QD.UBND-Phe-duyet-dieu-chinh-Quy-hoach-tinh-Lao-Cai-2021-2030.pdf` + `.txt` ([OCR]): **QĐ 525/QĐ-UBND 25/02/2026 bản ký, 119 trang** (quyết định + Phụ lục I-… ; Phụ lục II KCN, Phụ lục III CCN ở trang 31-36). PDF đã nén còn 13 MB (bản gốc 49 MB) — vẫn ≥ 3 MB nên chỉ có trên GitHub; tra bằng bản `.txt`.
+- `van-ban-goc/2026.02.25-525.QD.UBND-Bao-cao-tong-hop-Quy-hoach-tinh-ban-hoan-thien-09.10.2026.pdf` + `.txt`: **Báo cáo tổng hợp 1.011 trang, bản hoàn thiện 09/10/2026** (Sở Tài chính + tư vấn hoàn thiện theo QĐ 525, phát hành kèm Báo cáo 1156/BC-STC 30/9/2026). Thay thế bản thao tác 07/6/2026 ở `qht-laocai-2026-baocao-thuyetminh.txt` khi cần số liệu chính thức. Bảng 25 (CCN đến 2030 và sau 2030) ở dòng 13331-13520 của `.txt`.
+- `van-ban-goc/2026.02.25-525.QD.UBND-Bao-cao-tom-tat-Quy-hoach-tinh-ban-hoan-thien-09.10.2026.pdf` + `.txt`: Báo cáo tóm tắt 87 trang, cùng bản hoàn thiện; mục 2.7.2 KCN, CCN ở trang 29-31.
+- `qht-laocai-2026-*.txt` (07/6/2026) giữ làm lịch sử; số liệu lệch với bản 09/10/2026 thì dùng bản 09/10/2026.
 
 ## Quan hệ với thư mục `van-ban-goc/`
 

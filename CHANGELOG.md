@@ -1,3 +1,8 @@
+## 29/10/2026 — kccn-sct-vn 1.62.0 + quy-hoach-ct-vn 1.7.0: nội dung phát sinh về CCN sau điều chỉnh Quy hoạch tỉnh (VB 10199/UBND-TH); nạp hồ sơ QĐ 525 bản ký + Báo cáo tổng hợp, tóm tắt 09/10/2026
+
+- kccn ref 55: BC 1156/BC-STC, VB 10199/UBND-TH (Sở chủ trì mục 2.2, gửi STC 30/11/2026), CV 6605/SCT-KH; phân loại 03 nhóm (Phong Hải, Gia Hội nhóm 2 đổi tiến độ; Yên Hợp nhóm 2 đổi quy mô, 07 ha vượt mức 05 ha NĐ 303); bỏ con số 56 CCN; 02 văn bản mẫu; tệp trạng thái mới.
+- quy-hoach-ct-vn: van-ban-goc thêm QĐ 525 bản ký 119 trang (OCR) + Báo cáo tổng hợp 1.011 trang + Báo cáo tóm tắt 87 trang (bản hoàn thiện 09/10/2026); ref 05 mục 5 danh mục 74 CCN sau 2030 và Ghi chú "đầu tư sớm hơn".
+
 ## 29/10/2026 — data360x-sct-vn 1.4.0: bot đã đọc EGOV (egov1.laocai.gov.vn), bản tin hằng ngày, việc chờ xử lý thay vOffice
 
 - Bạn chuyển sang trang quản lý văn bản mới egov1; bot `bot-data360x.py` (ccn-laocai PR #114) đọc egov1 làm cổng mặc định, TAY 0.2.0

@@ -86,7 +86,7 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 ## IV. SỐ LIỆU TỔNG HỢP QUY HOẠCH (ổn định — dùng khi viện dẫn quy hoạch)
 
 - **KCN:** 20 KCN/5.797 ha (đến 2030); 22 KCN/8.078 ha (tầm nhìn 2050).
-- **CCN:** 54 CCN/~2.928 ha theo QĐ 525 (đến 2030); 62 CCN/3.779 ha (tầm nhìn 2050). *(Báo cáo tình hình triển khai có thể nêu 56 CCN/3.052,81 ha = 54 + 02 cụm Gia Hội, Phong Hải đưa từ sau 2030 lên — dùng khi báo cáo triển khai mới nhất, ghi rõ nguồn.)*
+- **CCN:** 54 CCN/2.927,81 ha theo QĐ 525 (đến 2030); sau 2030: 74 CCN/~3.849,31 ha (Bảng 25 Báo cáo tổng hợp bản hoàn thiện 09/10/2026 — ref 13, quy-hoach-ct-vn ref 05 mục 5). *(Con số 56 CCN/3.052,81 ha của Báo cáo 18/6/2026 là lịch sử, đã cộng Gia Hội, Phong Hải khi hai cụm này mới chỉ được xã đề nghị đưa lên 2026-2030 — không dùng từ 29/10/2026, xem ref 55.)*
 - **Danh mục thu hút đầu tư 2026-2030 (QĐ 1382):** 431 danh mục toàn tỉnh, trong đó Phụ lục 01 = 13 KCN (40.044 tỷ) + 35 CCN (22.854 tỷ) — chi tiết reference `14`.
 
 **Khi cần con số hiện trạng cụ thể** (đã thành lập bao nhiêu, lấp đầy %, tiến độ từng cụm): HỎI Bạn.

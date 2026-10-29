@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 352 văn bản gốc (352 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 355 văn bản gốc (355 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -140,6 +140,9 @@ Thống kê: 352 văn bản gốc (352 có bản .txt) ở 20 plugin; 30 văn b�
 | 452/BC-TTCP | 26/02/2026 | thanh tra chuyen de mo VLXD | tkm-sct-vn | `tkm-sct-vn/skills/tkm-sct-vn/van-ban-goc/BC-452-BC-TTCP-26-02-2026-thanh-tra-chuyen-de-mo-VLXD.pdf` | có (OCR) |
 | 16/2026/QĐ-UBND | 25/02/2026 | Quy che CCN Lao Cai | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-16-2026-QD-UBND-Quy-che-CCN-Lao-Cai.pdf` | có |
 | QĐ 16/2026 | 25/02/2026 | Quy che CCN Lao Cai OCR | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-16-2026-Quy-che-CCN-Lao-Cai-OCR.txt` | có |
+| 525/QĐ-UBND | 25/02/2026 | Bao cao tom tat Quy hoach tinh ban hoan thien 09.10.2026 | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/2026.02.25-525.QD.UBND-Bao-cao-tom-tat-Quy-hoach-tinh-ban-hoan-thien-09.10.2026.pdf` | có |
+| 525/QĐ-UBND | 25/02/2026 | Bao cao tong hop Quy hoach tinh ban hoan thien 09.10.2026 | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/2026.02.25-525.QD.UBND-Bao-cao-tong-hop-Quy-hoach-tinh-ban-hoan-thien-09.10.2026.pdf` | có |
+| 525/QĐ-UBND | 25/02/2026 | Phe duyet dieu chinh Quy hoach tinh Lao Cai 2021 2030 | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/2026.02.25-525.QD.UBND-Phe-duyet-dieu-chinh-Quy-hoach-tinh-Lao-Cai-2021-2030.pdf` | có (OCR) |
 | 11/2026/TT-BNNMT | 13/02/2026 | he thong dang ky quoc gia | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/TT-11-2026-TT-BNNMT-13-02-2026-he-thong-dang-ky-quoc-gia.txt` | có |
 | 13/2026/TT-BQP | 12/02/2026 |  | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/03-thong-tu/TT-13-2026-BQP.docx` | có |
 | 1153/BNNMT-QLĐĐ | 03/02/2026 | trien khai ND 49 | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/CV-1153-BNNMT-QLDD-03-02-2026-trien-khai-ND-49.docx` | có |

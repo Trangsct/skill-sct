@@ -1,3 +1,7 @@
+## 29/10/2026 — bpb-sct-vn 1.8.2: khẩu hiệu hành động kết bài phát biểu BCH (R22), bản in cuối
+
+- Bạn chốt sáng 29/10 trước giờ in: kết bài bằng khẩu hiệu hai vế có vần "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (riêng đoạn, đậm nghiêng, căn giữa, hai dòng); câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn. File mẫu gd-duyet cập nhật.
+
 ## 29/10/2026 — data360x-sct-vn 1.4.0: bot đã đọc EGOV (egov1.laocai.gov.vn), bản tin hằng ngày, việc chờ xử lý thay vOffice
 
 - Bạn chuyển sang trang quản lý văn bản mới egov1; bot `bot-data360x.py` (ccn-laocai PR #114) đọc egov1 làm cổng mặc định, TAY 0.2.0

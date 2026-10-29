@@ -26,10 +26,11 @@ Plugin liên quan: kccn-sct-vn, vbhc-vn, qlks-sct-vn
 5. (18–19/10/2026) Soạn lại báo cáo tổng hợp của Sở làm việc với Thường trực Tỉnh ủy theo Mục lục A/B I–VI (48 trang, 3 phụ lục + phụ biểu); phiếu đề nghị QLKS 11 mục, QLNL 8 mục — ref 50 mục E.
 6. (28/10/2026) TBKL 1173-TB/TU ngày 27/10/2026 đã ban hành (mốc GPMB từng xã, phường); CV 2968-CV/ĐU của Đảng ủy UBND tỉnh 27/10; bài phát biểu đã trình Giám đốc bản 16h40; công văn UBND tỉnh đã gửi lại CV Trần Quang Hùng
 7. (28/10/2026) Bài phát biểu bản Giám đốc duyệt (5 trang) đã giao; plugin bpb 1.8.0, kccn 1.61.0 cập nhật
+8. (29/10/2026) Bản in cuối đã nộp Giám đốc; plugin bpb 1.8.2
 
 ## Bước tiếp theo
 
-- Bạn kiểm số 3.600 ha, 142/144 hộ Thống Nhất 1, thẩm quyền cấp GPXD CCN Phú Thịnh 3; theo dõi Giám đốc đọc tại Hội nghị BCH; Văn phòng UBND tỉnh phản hồi dự thảo công văn triển khai TB 1173
+- Theo dõi Giám đốc đọc tại Hội nghị BCH; phản hồi Văn phòng UBND tỉnh về công văn triển khai TB 1173
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -51,6 +52,7 @@ Plugin liên quan: kccn-sct-vn, vbhc-vn, qlks-sct-vn
 - (19/10/2026) Nhà máy tuyển apatit nghèo Anh Nhẫn: đã nghiệm thu, vận hành chính thức.
 - (28/10/2026) Bài phát biểu: giọng ngang cấp ở phần phân công; mốc thời gian soát theo ngày đọc, bỏ mốc tháng 10; nêu vấn đề ở I, II và giao việc ở III; mỗi việc phải có chủ thể; giữ nguyên các chỗ Giám đốc sửa tay. Công văn UBND tỉnh: bỏ khẩu hiệu, cơ quan + việc + sản phẩm + hạn; ba mốc 30/10 của Thường trực Tỉnh ủy đổi thành trình UBND tỉnh trước 05/11/2026; Sở Công Thương là đầu mối có quyền yêu cầu báo cáo, các cơ quan gửi kết quả về Sở hằng tháng
 - (28/10/2026) Giám đốc: làm tròn số khi đọc; chức danh thay tên Trưởng BCĐ Tỉnh ủy; an ninh trật tự 'tại các khu, cụm công nghiệp (nếu có)'; bỏ đề nghị chỉ đạo Đảng ủy HĐND và đề nghị UBND tỉnh quyết định di dân Tằng Loỏng
+- (29/10/2026) Bạn: khẩu hiệu hai vế có vần, không dùng nguyên văn câu ví dụ 'doanh nghiệp phát tài, Lào Cai phát triển'
 
 ## Yêu cầu riêng một lần
 
@@ -80,3 +82,8 @@ Plugin liên quan: kccn-sct-vn, vbhc-vn, qlks-sct-vn
 - Văn bản đã xuất: 2026.10.28. Bài phát biểu tại Hội nghị Ban Chấp hành Đảng bộ tỉnh về khu cụm công nghiệp trọng điểm.docx (bản cuối 16h40); 2026.10.28. Công văn UBND tỉnh triển khai Thông báo kết luận 1173-TB-TU của Thường trực Tỉnh ủy.docx (bản gửi lại Văn phòng UBND tỉnh); 2026.10.28. Bài phát biểu tại Hội nghị BCH Đảng bộ tỉnh về khu cụm công nghiệp trọng điểm.docx (bản Giám đốc duyệt)
 - Quyết định của Bạn: Bài phát biểu: giọng ngang cấp ở phần phân công; mốc thời gian soát theo ngày đọc, bỏ mốc tháng 10; nêu vấn đề ở I, II và giao việc ở III; mỗi việc phải có chủ thể; giữ nguyên các chỗ Giám đốc sửa tay. Công văn UBND tỉnh: bỏ khẩu hiệu, cơ quan + việc + sản phẩm + hạn; ba mốc 30/10 của Thường trực Tỉnh ủy đổi thành trình UBND tỉnh trước 05/11/2026; Sở Công Thương là đầu mối có quyền yêu cầu báo cáo, các cơ quan gửi kết quả về Sở hằng tháng; Giám đốc: làm tròn số khi đọc; chức danh thay tên Trưởng BCĐ Tỉnh ủy; an ninh trật tự 'tại các khu, cụm công nghiệp (nếu có)'; bỏ đề nghị chỉ đạo Đảng ủy HĐND và đề nghị UBND tỉnh quyết định di dân Tằng Loỏng
 - Câu hỏi chưa được trả lời: Thống Nhất 1 chi trả 142 hay 143/144 hộ (Giám đốc hỏi, hồ sơ 17/10 ghi 142); mốc Phú Thịnh 2 'trước ngày 31/2/2027' trong TBKL 1173; KCN Trấn Yên phía Tây 107,9 ha (Sở) hay 109 ha (báo); thẩm quyền cấp GPXD hạ tầng CCN Phú Thịnh 3
+
+### 29/10/2026
+- Việc đã làm: Sáng 29/10 hoàn thiện bản in bài phát biểu BCH: kết bài bằng khẩu hiệu hành động 'Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!'; in bìa xanh nộp Giám đốc trước 7h20
+- Văn bản đã xuất: 2026.10.28. Bài phát biểu tại Hội nghị BCH Đảng bộ tỉnh về khu cụm công nghiệp trọng điểm.docx (bản in cuối 29/10)
+- Quyết định của Bạn: Bạn: khẩu hiệu hai vế có vần, không dùng nguyên văn câu ví dụ 'doanh nghiệp phát tài, Lào Cai phát triển'

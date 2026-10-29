@@ -1,3 +1,8 @@
+## 29/10/2026 — data360x-sct-vn 1.4.0: bot đã đọc EGOV (egov1.laocai.gov.vn), bản tin hằng ngày, việc chờ xử lý thay vOffice
+
+- Bạn chuyển sang trang quản lý văn bản mới egov1; bot `bot-data360x.py` (ccn-laocai PR #114) đọc egov1 làm cổng mặc định, TAY 0.2.0
+  quét 7 ngày mỗi chiều thứ Hai–Sáu và lấy việc chờ xử lý 07:30. Plugin ghi lại nơi để kết quả, cách sai bot, lịch mới.
+
 ## 28/10/2026 (lần 5) — kccn-sct-vn 1.61.1 + bpb-sct-vn 1.8.1: sổ lỗi tự ghi kccn L001, L002; bản in cuối bài phát biểu BCH
 
 - Bạn soát bản in: thiếu Bắc Duyên Hải, Âu Lâu trong nhóm KCN đang hoạt động (L001); Đông Phố Mới di dời về Khu Bản Qua, xã Bát Xát (dự án san gạt MB + HTKT 95 ha), không phải CCN Bát Xát (L002) — "áp dụng plugin chứ sếp không đúng hết đâu" → bpb R21. check_facts thêm 2 rule. File mẫu gd-duyet là bản in cuối.

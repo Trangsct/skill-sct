@@ -1,20 +1,21 @@
 ---
 name: data360x-sct-vn
-description: "CÁNH TAY CỦA CLAUDE VÀO HỆ THỐNG VĂN BẢN đi/đến của Sở Công Thương Lào Cai: Data360X (csdlvb.laocai.gov.vn) đến 10/10/2026, EGOV (egov1.laocai.gov.vn) từ 10/10/2026. Kích hoạt: cần văn bản đi/đến của Sở, văn bản UBND tỉnh/Bộ gửi đến, hồ sơ CCN/KCN/doanh nghiệp, 'lấy văn bản', 'tìm trên Data360X', 'EGOV', 'văn bản mới tuần này', 'có công văn nào về…', 'sai bot', 'quét lại', soát dự thảo cần văn bản viện dẫn, cập nhật plugin theo bản tin theo-doi. 4 động tác: (1) TRA KHO theo-doi/ ở kho riêng tư vlncn-laocai; (2) SAI BOT LẤY văn bản theo số ký hiệu/từ khóa; (3) QUÉT MỚI đi + đến; (4) TÌM VĂN BẢN VIỆN DẪN. Hàng đợi yeu-cau/ cho tiến trình TAY (ref 05). Văn bản sau 10/10/2026 nằm trên EGOV, chưa có trong kho tới khi bot EGOV chạy (ref 03 mục 7): không kết luận 'không có'. Số/ngày lấy ở đầu tệp; kho công khai không chép văn bản nội bộ."
+description: "CÁNH TAY CỦA CLAUDE VÀO HỆ THỐNG VĂN BẢN đi/đến của Sở Công Thương Lào Cai: EGOV (egov1.laocai.gov.vn) từ 10/10/2026 — bot đọc EGOV từ 29/10/2026; Data360X (csdlvb.laocai.gov.vn) là kho văn bản đến 10/10/2026. Kích hoạt: cần văn bản đi/đến của Sở, văn bản UBND tỉnh/Bộ gửi đến, hồ sơ CCN/KCN/doanh nghiệp, 'lấy văn bản', 'EGOV', 'egov1', 'việc chờ xử lý', 'văn bản mới', 'có công văn nào về…', 'sai bot', 'quét lại', soát dự thảo cần văn bản viện dẫn, cập nhật plugin theo bản tin theo-doi. 4 động tác: (1) TRA KHO theo-doi/ ở kho riêng tư vlncn-laocai; (2) SAI BOT LẤY văn bản theo số ký hiệu/từ khóa; (3) QUÉT MỚI đi + đến; (4) TÌM VĂN BẢN VIỆN DẪN. Bản tin hằng ngày thứ Hai–Sáu; việc chờ xử lý ở theo-doi/viec-cho-xu-ly/ (thay vOffice). Hàng đợi yeu-cau/ cho TAY (ref 05). Không kết luận 'không có' khi chưa sai bot; văn bản mật không vào kho. Số/ngày lấy ở đầu tệp; kho công khai không chép văn bản nội bộ."
 ---
 
 # data360x-sct-vn — Data360X là cánh tay, chuột và bàn phím của Claude
 
 > **Tra văn bản gốc (Bạn chốt 09/10/2026, áp dụng mọi plugin):** đọc `van-ban-goc/00-DANH-MUC-CHUNG.md` và chạy `python3 scripts/tim_van_ban.py "<số hiệu hoặc cụm từ>"` TRƯỚC khi kết luận văn bản nào chưa có trong kho. Văn bản đã có trong danh mục thì phải mở toàn văn `.txt` cùng tên đặt cạnh bản gốc để trích; cấm trả lời "không có tài liệu", "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn". Khi Bạn gửi văn bản quy phạm pháp luật trong phiên: (a) đọc số, ngày, cơ quan, người ký bằng script (GATE), không đọc bằng mắt; (b) đặt tên `YYYY.MM.DD-SỐ.KÝ.HIỆU-Tên-trích-yếu-ngắn`, giữ nguyên định dạng gốc; (c) lưu vào `van-ban-goc/` của plugin chủ theo lĩnh vực, không nhân bản sang plugin khác; (d) sinh `.txt` bằng `scripts/trich_chu_van_ban_goc.py`; (e) chạy `scripts/build_so_cai_van_ban_goc.py` ở gốc kho để cập nhật danh mục; (f) cập nhật reference tóm tắt + CHANGELOG; (g) push, mở PR. Phiên không có quyền ghi kho thì nói ngay ở câu đầu và hướng dẫn Bạn dùng Hộp thư nạp kho `_inbox/` trên GitHub (`_inbox/README.md`, 6 bước), không được chỉ tóm tắt rồi bỏ qua tệp.
 
-> **⚠️ TỪ 10/10/2026 NGUỒN VĂN BẢN LÀ EGOV (Bạn báo 21/10/2026).** Văn bản đi, đến của Sở chuyển sang nền tảng chính
-> quyền số **EGOV** (`https://egov1.laocai.gov.vn`), thay Data360X (`csdlvb.laocai.gov.vn`) và vOffice. Hệ quả cho mọi phiên:
-> (1) kho `theo-doi/` có mục lục văn bản đến hết **lượt quét 10/10/2026** (bản tin cuối `theo-doi/bao-cao/2026-10-10.md`);
-> (2) văn bản ban hành **sau 10/10/2026** chưa có trong kho và sai bot Data360X cũng không thấy — gặp trường hợp này thì nói
-> rõ "văn bản sau 10/10/2026 nằm trên EGOV, bot EGOV chưa chạy", xin Bạn gửi tệp trực tiếp, **không** kết luận "không có";
-> (3) bot EGOV đang dựng theo hai bước: soi cấu trúc trang (`bot/soi-egov.bat` kho `ccn-laocai`, kết quả ở
-> `vlncn-laocai/theo-doi/egov/soi/`), rồi viết bot thật giữ nguyên đầu ra cũ — trạng thái ở ref 03 mục 7. Thấy thư mục
-> `theo-doi/egov/soi/` đã có kết quả mà bot chưa viết thì báo Bạn và đề nghị làm bước 2.
+> **⚠️ TỪ 10/10/2026 NGUỒN VĂN BẢN LÀ EGOV; TỪ 29/10/2026 BOT ĐÃ ĐỌC EGOV.** Văn bản đi, đến của Sở nằm trên nền tảng
+> chính quyền số **EGOV** (`https://egov1.laocai.gov.vn`), thay Data360X (`csdlvb.laocai.gov.vn`, lượt quét cuối 10/10/2026)
+> và vOffice. Bot `bot-data360x.py` (kho `ccn-laocai`) lấy egov1 làm cổng mặc định, đầu ra giữ nguyên chỗ cũ. Hệ quả:
+> (1) kho `theo-doi/` có bản tin **mỗi ngày thứ Hai–Sáu** (TAY quét 7 ngày lúc 16:30; thứ Tư quét 30 ngày) — đọc mọi bản
+> tin từ lần nâng cấp plugin trước, không chỉ bản mới nhất; (2) **việc chờ xử lý** (văn bản đến Chưa/Chờ/Đang xử lý trên
+> egov1, thay mục "Chờ xử lý" của vOffice) ở `vlncn-laocai/theo-doi/viec-cho-xu-ly/<ngày>/README.md` + toàn văn từng việc;
+> (3) văn bản sau 10/10/2026 chưa thấy trong kho thì sai bot lấy (yêu cầu `lay` đi qua egov1) hoặc xin Bạn gửi tệp — **không**
+> kết luận "không có"; bản tin cuối còn là `2026-10-10.md` nghĩa là máy ở Lào Cai chưa chạy bot mới (ref 03 mục 7);
+> (4) văn bản có Độ mật khác "Thường" không bao giờ có trong kho — đừng sai bot lấy.
 
 > Bạn chốt 17/9/2026: *"khi làm việc bên chat, Claude biết cách kết hợp sử dụng kho dữ liệu của Data360X
 > hoặc giao Data360X tự vào trang cơ sở dữ liệu để tải các tài liệu liên quan đến công việc, từ đó công

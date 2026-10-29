@@ -1,5 +1,9 @@
 # CHANGELOG data360x-sct-vn
 
+## 1.4.0 — 29/10/2026 — Bot đã đọc EGOV; bản tin hằng ngày; việc chờ xử lý thay vOffice
+
+- Khối cảnh báo EGOV, ref 03 mục 7, ref 05 (yêu cầu `viec`, `khao-sat`). Chi tiết: `CHANGELOG-v2026.10.29.md`.
+
 ## 1.3.0 — 21/10/2026 — Từ 10/10/2026 nguồn văn bản là EGOV
 
 - `SKILL.md` khối cảnh báo EGOV; quy tắc 4 thêm câu trả lời cho văn bản sau 10/10/2026; ref 03 mục 7 (công cụ soi EGOV, lộ trình

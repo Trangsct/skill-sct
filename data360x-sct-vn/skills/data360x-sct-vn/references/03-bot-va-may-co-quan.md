@@ -84,7 +84,16 @@ người vào code), mở PR, merge; máy tự lấy bản mới ở lượt sau
   bảng, rồi Bạn tự bấm 10 phút (mở văn bản, xem đính kèm, mục Chờ xử lý, ô tìm kiếm). Kết quả ở kho riêng tư
   `vlncn-laocai/theo-doi/egov/soi/<ngày-giờ>/`: `README.md` (trang đã qua, khuôn API), `trang.json` (menu, bảng, ô nhập),
   `api.jsonl` (từng yêu cầu, mẫu phản hồi cắt ngắn), `trang/*.html`, `anh/*.jpg`. Mã phiên, mật khẩu, cookie đã che.
-- **Bước 2 — bot EGOV (chưa làm):** đọc kết quả soi, viết phần đọc danh sách văn bản đến/đi, tải đính kèm, việc chờ xử lý;
-  đầu ra giữ nguyên (`theo-doi/danh-muc-<năm>.json`, `bao-cao/<ngày>.md`, `inbox/`, `yeu-cau/<ten>/`), nên quy tắc và
-  script tra kho của plugin này không phải đổi. Khi bot EGOV chạy, trường `url_chi_tiet` sẽ trỏ về egov1.
-
+- **Bước 2 — bot EGOV (xong 29/10/2026, ccn-laocai PR #114):** `bot-data360x.py` thêm bộ đọc egov1 (hàm `_egov_*`) và lấy
+  egov1 làm cổng mặc định (`"he_thong": "data360x"` trong `config.json` để quay lại). Dựng từ ảnh chụp danh sách Văn bản đến
+  `/document/xem-den-index?type=all` (cột STT, Cấp độ, Trích yếu, Số ký hiệu, Ngày Ban Hành, Ngày Nhận, Trạng thái, Cơ quan ban
+  hành, Người Ký, Độ mật, Nguồn văn bản) — phần chưa thấy tận mắt bot tự dò: vào Văn bản đi bằng cách bấm menu, 100 dòng/trang,
+  tải tệp qua Chrome (link, khung xem PDF, bấm tên tệp). Đầu ra giữ nguyên (`danh-muc-<năm>.json`, `bao-cao/<ngày>.md`,
+  `inbox/`, `yeu-cau/<ten>/`), `url_chi_tiet` trỏ về egov1; mới: `theo-doi/viec-cho-xu-ly/<ngày>/`. Văn bản Độ mật khác "Thường"
+  bị bỏ hẳn. Lượt chạy đầu tự **khảo sát** cổng lên `theo-doi/egov/soi/<ngày-giờ>-bot/` (HTML, ảnh, cột nhận ra, API đã che mã)
+  — có thư mục này mà bản tin vẫn trống/lỗi thì đọc nó và sửa `_egov_*`.
+- **Lịch TAY 0.2.0** (máy ở Lào Cai, cài bằng `cai-tay.bat`): giữ phiên mỗi giờ 07–17h thứ Hai–Bảy; **07:30 thứ Hai–Sáu** việc
+  chờ xử lý; **16:30 thứ Hai–Sáu** quét 7 ngày (thứ Tư 11:30 quét 30 ngày). Bấm tay: `quet-lai-ngay.bat`, `viec-cho-xu-ly.bat`,
+  `khao-sat-egov.bat`; phiên hết thì `dang-nhap-lan-dau.bat` (Bạn tự nhập mã xác thực).
+- Mở trang chi tiết trên egov1 có thể đổi văn bản từ "chưa đọc" sang "đã đọc" trên giao diện của Bạn (chưa kiểm trên cổng thật).
+  Bot không bấm Chuyển, Ký, Hoàn thành hay nút thao tác hồ sơ nào.

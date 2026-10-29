@@ -22,6 +22,8 @@ GitHub sai qua runner. Không có gì để đăng ký, không "already configur
  "ten": "xuan-ai", "luu": "theo-doi/yeu-cau/xuan-ai", "trang_thai": "cho"}
 {"loai": "tim",  "ho_so": "2026.09.03. To trinh ... CCN Phu Thinh 6", "trang_thai": "cho"}
 {"loai": "quet", "ngay": 30, "trang_thai": "cho"}
+{"loai": "viec", "ngay": 30, "trang_thai": "cho"}      # việc chờ xử lý trên egov1 (từ TAY 0.2.0, 29/10/2026)
+{"loai": "khao-sat", "trang_thai": "cho"}            # ghi cấu trúc egov1 lên theo-doi/egov/soi/<ngày-giờ>-bot/
 {"loai": "giu-phien", "trang_thai": "cho"}
 ```
 
@@ -46,6 +48,8 @@ TAY kéo hàng đợi **mỗi 10 phút**; việc `lay` mất thêm 3–15 phút.
 | tim | `du-thao/<ho_so>/kem-theo/` |
 | quet | `inbox/`, `theo-doi/<năm>/`, `theo-doi/bao-cao/<ngày>.md` |
 | giu-phien | không có tệp; `tom_tat` ghi phiên còn hay hết |
+| viec | `theo-doi/viec-cho-xu-ly/<ngày>/README.md` + toàn văn từng việc (egov1) |
+| khao-sat | `theo-doi/egov/soi/<ngày-giờ>-bot/` (HTML, ảnh, `api.json`) |
 
 `trang_thai` không đổi sau 30 phút → TAY không chạy trên máy nào: xem `trang-thai/tay.json` (`luc` cũ hơn 2 giờ
 là máy tắt hoặc chưa cài), báo người dùng bật máy hoặc nháy đúp `cai-tay.bat`. **Không** ghi lại yêu cầu lần

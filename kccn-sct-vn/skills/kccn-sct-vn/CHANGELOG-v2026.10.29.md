@@ -1,0 +1,8 @@
+# CHANGELOG — kccn-sct-vn v1.62.0 (29/10/2026)
+
+- `references/55` MỚI: các nội dung phát sinh về CCN, KCN sau khi điều chỉnh Quy hoạch tỉnh — tóm tắt Báo cáo 1156/BC-STC 30/9/2026 (05 đề xuất của xã: Phong Hải 75 ha, Gia Hội 50 ha, Yên Hợp +07 ha, KCN Mậu A ~300 ha, KCN Làng Chưng ~192 ha; chỉ tiêu đất QĐ 1177, VB 9150; 7 lần Sở Tài chính xin ý kiến), bảng giao việc VB 10199/UBND-TH 07/10/2026 (Sở Công Thương chủ trì mục 2.2, gửi STC 30/11/2026; điều chỉnh QH tỉnh năm 2027), CV 6605/SCT-KH 14/10/2026 (Phòng QLCN chủ trì, hạn nội bộ 20/11); khung phân loại 03 nhóm và kết quả sơ bộ (Phong Hải, Gia Hội nhóm 2 đổi tiến độ — thuộc danh mục sau 2030; Yên Hợp nhóm 2 đổi quy mô — 07 ha vượt mức 05 ha khoản 4 Điều 10 NĐ 32/2024 sửa đổi tại khoản 5 Điều 1 NĐ 303/2026, hướng dẫn mở rộng ≤ 05 ha). Ba văn bản đi/đến không lưu bản gốc.
+- `references/13` mục II: bổ sung danh mục 74 CCN thời kỳ sau 2030 (Bảng 25 Báo cáo tổng hợp bản hoàn thiện 09/10/2026) và Ghi chú Phụ lục III; con số 56 CCN/3.052,81 ha (BC 18/6/2026) chuyển thành lịch sử — từ 29/10/2026 viện dẫn 54 CCN/2.927,81 ha. `references/12` dòng tổng CCN sửa tương ứng.
+- `vi-du-thuc-te/2026-10-29-ra-soat-ccn-sau-dieu-chinh-qh-tinh/`: Công văn lấy ý kiến (2 trang, hạn 10/11/2026) và dự thảo Báo cáo kết quả rà soát gửi Sở Tài chính (5 trang + phụ lục phân loại khổ ngang) kèm tệp nội dung dạng thẻ.
+- `trang-thai/ra-soat-cac-noi-dung-phat-sinh-ve-cum-cong-nghiep-sau-khi-dieu-chinh-quy-hoach-tinh-van-ban-10199-ubnd-th.md` MỚI (gốc kho; bản chép trong ho-so-sct-vn).
+- Hồ sơ Quy hoạch tỉnh (QĐ 525 bản ký OCR, Báo cáo tổng hợp, Báo cáo tóm tắt bản hoàn thiện 09/10/2026) lưu ở plugin chủ `quy-hoach-ct-vn` 1.7.0.
+- `plugin.json` 1.61.1 → 1.62.0.

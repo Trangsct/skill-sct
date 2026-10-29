@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.62.0 — 29/10/2026 — Nội dung phát sinh sau điều chỉnh Quy hoạch tỉnh (VB 10199/UBND-TH), ref 55, danh mục 74 CCN sau 2030
+
+Chi tiết: `CHANGELOG-v2026.10.29.md`.
+
 ## 1.61.1 — 28/10/2026 — Sổ lỗi tự ghi L001, L002 (bài phát biểu BCH: thiếu KCN đang hoạt động; Đông Phố Mới di dời về Khu Bản Qua)
 
 - `references/so-loi-tu-ghi.md` (mới): L001 danh sách KCN đang hoạt động phải đủ 06 khu (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân); L002 nơi di dời KCN Đông Phố Mới là Khu san gạt MB + HTKT Khu Bản Qua (95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược, không phải CCN Bát Xát; bài học "áp dụng plugin, không tin mặc nhiên bản lãnh đạo sửa". check_facts thêm 2 rule `kcn-dang-hoat-dong-thieu-khu`, `dong-pho-moi-di-doi-khong-phai-ccn-bat-xat`. SKILL.md thêm dòng dẫn sổ lỗi.

@@ -1,3 +1,7 @@
+## 30/10/2026 — skcn-vn 1.3.0: bác sĩ riêng tại nhà
+
+- Bạn yêu cầu skill bác sĩ riêng (có sẵn thuốc qua app Long Châu, không đi khám): thêm reference `bac-si-rieng-tai-nha.md` — tủ thuốc kèm hoạt chất, 10 quy tắc an toàn (bốn thuốc trùng amoxicillin + acid clavulanic, codein sau rượu bia, corticoid uống), chăm sóc theo tình huống, mốc 72 giờ kháng sinh, dấu hiệu phải đi viện, nhật ký đợt ốm.
+
 ## 29/10/2026 — bpb-sct-vn 1.8.2: khẩu hiệu hành động kết bài phát biểu BCH (R22), bản in cuối
 
 - Bạn chốt sáng 29/10 trước giờ in: kết bài bằng khẩu hiệu hai vế có vần "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (riêng đoạn, đậm nghiêng, căn giữa, hai dòng); câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn. File mẫu gd-duyet cập nhật.

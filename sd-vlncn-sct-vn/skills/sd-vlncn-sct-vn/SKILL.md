@@ -136,6 +136,8 @@ một dòng "Dàn ý theo mẫu …". Nguồn chung: `van-ban-goc/TT-23-2024-BCT
 
 ## VI. ANTI-ERROR RIÊNG LĨNH VỰC NÀY — ⭐ BẮT BUỘC đọc `references/11-anti-error.md` trước khi thẩm định hồ sơ / soạn bất kỳ văn bản nào
 
+Đọc kèm `references/so-loi-tu-ghi.md` (sổ lỗi tự ghi từ 30/10/2026).
+
 Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở reference `11`; SKILL.md chỉ giữ mục lục để định vị. Không được coi mục lục này là đủ — mở reference 11 và đọc đúng mục liên quan.
 
 - **1** — Đúng thẩm quyền, đúng thể thức chủ thể — ĐÃ ĐỔI TỪ 20/8/2026
@@ -204,6 +206,7 @@ sd-vlncn-sct-vn/
 │                                    5 bước xử lý sau khi bị trả
 │   ├── 10-tham-quyen-ubnd-tinh-va-sct.md ← bản đồ thẩm quyền UBND tỉnh/SCT, QĐ 2867, CV 5085
 │   ├── 11-anti-error.md              ← ⭐ 36 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── so-loi-tu-ghi.md              ← sổ lỗi tự ghi trong phiên (L001: đối chiếu địa điểm trên GCN ANTT; tự nổ mìn ≠ dịch vụ nổ mìn)
 │   ├── 13-nd-392-2026-dieu-kien-antt.md ← NĐ 392/2026 sửa NĐ 96/2016 (GCN ANTT: ngành nghề,
 │   │                                thẩm quyền, cấp đổi, tài liệu PCCC, ngừng kinh doanh) + bảng đối chiếu
 │   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,

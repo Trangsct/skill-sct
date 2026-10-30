@@ -1,0 +1,22 @@
+# Tên cơ quan viết tắt ở khối NƠI NHẬN — quy tắc R24 mức WARN (scripts/qa_rules.py).
+# Bạn chốt 30/10/2026: "nên viết tắt tên các cơ quan ở phần nơi nhận cho gọn" (mở rộng quy tắc
+# "UBND tỉnh (b/c)" chốt 04/10/2026). Thân văn bản, Kính gửi vẫn viết đầy đủ tên cơ quan.
+# Định dạng:  biểu thức tên đầy đủ (regex Python) | cách viết tắt gợi ý
+# Chỉ áp cho các dòng sau "Nơi nhận:" đến dòng "Lưu:". Không áp đầu trang, khối ký, thân văn bản.
+# KHÔNG đưa vào máy (mẫu thật đã ban hành viết đủ, mẫu thật là chuẩn): "- Ban Giám đốc Sở;" (công văn nội bộ),
+# "- Công an tỉnh Lào Cai;" (GP vận chuyển HHNH). Khi soạn mới vẫn ưu tiên "CA tỉnh (PC06)" nếu dòng dài.
+(?:Ủy|Uỷ) ban nhân dân | UBND
+Hội đồng nhân dân | HĐND
+Ủy ban Mặt trận Tổ quốc Việt Nam|Mặt trận Tổ quốc Việt Nam | UBMTTQ Việt Nam
+Phòng Cảnh sát quản lý hành chính về trật tự xã hội | Phòng PC06
+Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ | Phòng PC07
+Bộ Chỉ huy Quân sự tỉnh | Bộ CHQS tỉnh
+Ban Quản lý dự án đầu tư xây dựng | Ban QLDA ĐTXD
+Ban Quản lý Khu kinh tế | BQL KKT
+Ban Quản lý các [Kk]hu công nghiệp | BQL các KCN
+Sở Nông nghiệp và Môi trường | Sở NN&MT
+Sở Khoa học và Công nghệ | Sở KH&CN
+Sở Văn hóa, Thể thao và Du lịch | Sở VH,TT&DL
+Sở Giáo dục và Đào tạo | Sở GD&ĐT
+Cục Kỹ thuật an toàn và Môi trường công nghiệp | Cục KTAT&MTCN
+Trung tâm Phục vụ hành chính công | Trung tâm PVHCC

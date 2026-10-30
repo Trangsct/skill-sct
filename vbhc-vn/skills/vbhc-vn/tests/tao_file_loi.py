@@ -352,6 +352,18 @@ d.save(str(p))
 ghi_expect(p, ['R24 WARN'],
            'Viết đủ chữ "Ủy ban nhân dân tỉnh" ở dòng đầu khối Nơi nhận — Nơi nhận phải viết tắt "UBND tỉnh" (Bạn chốt 04/10/2026).')
 
+# ── R24 mở rộng (Bạn chốt 30/10/2026): tên cơ quan dài viết đủ ở Nơi nhận ──
+# Dòng thay thế là tên đầy đủ của chính cơ quan có trong mẫu ("Sở Xây dựng" → không đổi cơ quan,
+# chỉ thêm đơn vị trực thuộc viết đủ chữ) — giữ nguyên số hiệu, ngày tháng của mẫu.
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r24b-ten-co-quan-viet-du-noi-nhan.docx')
+d = Document(str(p))
+alt = dau_tien(d, lambda t: t.strip().startswith('- Sở Xây dựng'))
+if alt is None: sys.exit('R24b: không tìm được dòng Sở Xây dựng trong Nơi nhận')
+dat_text(alt, '- Ban Quản lý dự án đầu tư xây dựng số 1 tỉnh Lào Cai;')
+d.save(str(p))
+ghi_expect(p, ['R24 WARN'],
+           'Viết đủ chữ "Ban Quản lý dự án đầu tư xây dựng" ở Nơi nhận — Nơi nhận viết tắt tên cơ quan cho gọn "Ban QLDA ĐTXD" (Bạn chốt 30/10/2026).')
+
 # ── R25 (chuyển từ PR 116, 18/10/2026; Bạn chốt 04/10/2026): doanh nghiệp chung dòng với cơ quan nhà nước ──
 p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r25-doanh-nghiep-chung-dong-co-quan.docx')
 d = Document(str(p))

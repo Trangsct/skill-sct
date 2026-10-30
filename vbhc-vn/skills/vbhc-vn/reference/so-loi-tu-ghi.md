@@ -89,3 +89,9 @@ Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-
 - Cách đúng: mọi câu ở phần đề xuất, phân công, kiến nghị phải mở bằng cơ quan chủ trì (hoặc "đề nghị + cơ quan"); tra cơ quan từ mục "Trách nhiệm" của báo cáo UBND tỉnh gần nhất (kccn-sct-vn ref 49, mẫu 09) hoặc quyết định giao việc; không tra được thì bôi tím hỏi Bạn.
 - Ví dụ: bpb-sct-vn `kho-bai-mau/bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-sua-tay.docx` ↔ bản cuối.
 - Máy kiểm: thủ công — đọc lại phần đề xuất, gạch chủ ngữ từng câu; đề xuất bổ sung vào GATE cuối `ra_soat_doc_lap.py` câu hỏi "câu việc nào không có chủ thể?".
+
+### L015 — 30/10/2026 — Tên cơ quan viết đủ chữ dài dòng ở khối Nơi nhận
+- Lỗi: công văn trả lời doanh nghiệp về dịch vụ nổ mìn viết Nơi nhận "- Ủy ban nhân dân tỉnh (b/c);", "- Công an tỉnh (Phòng PC06);", "- Ủy ban nhân dân xã …;", "- Ban Quản lý dự án đầu tư xây dựng số 1 tỉnh Lào Cai;" — do áp nhầm quy ước "viết đầy đủ Ủy ban nhân dân" (chỉ cho thân văn bản) sang khối Nơi nhận. Bạn: "nên viết tắt tên các cơ quan ở phần nơi nhận cho gọn".
+- Cách đúng: khối Nơi nhận viết tắt tên cơ quan cho gọn: "- UBND tỉnh (b/c);", "- CA tỉnh (PC06);", "- UBND xã …;", "- Ban QLDA ĐTXD số 1 tỉnh;", "- Sở NN&MT;", "- BQL KKT;" (bảng `data/noi-nhan-viet-tat.txt`). Thân văn bản, Kính gửi vẫn viết đầy đủ tên cơ quan và "Ủy ban nhân dân". Các dòng mẫu thật đã ban hành viết đủ ("- Ban Giám đốc Sở;", "- Công an tỉnh Lào Cai;") giữ nguyên, không bắt.
+- Ví dụ: công văn Sở trả lời Thông báo dịch vụ nổ mìn của một công ty (30/10/2026), khối Nơi nhận sau sửa: Như trên; UBND tỉnh (b/c); CA tỉnh (PC06); UBND xã …; Ban QLDA ĐTXD số 1 tỉnh; Lưu: VT, CN.
+- Máy kiểm: R24 (WARN) mở rộng trong `qa_rules.py` đọc `data/noi-nhan-viet-tat.txt`; file lỗi `tests/fail/r24b-ten-co-quan-viet-du-noi-nhan.docx`.

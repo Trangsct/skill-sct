@@ -1368,6 +1368,24 @@ def rule_R23(doc, ctx) -> list[Finding]:
 UBND_DAY_DU = re.compile(r"(?:Ủy|Uỷ) ban nhân dân")
 
 
+def _doc_viet_tat_noi_nhan() -> list[tuple[re.Pattern, str]]:
+    """Đọc data/noi-nhan-viet-tat.txt: mỗi dòng 'regex tên đầy đủ | cách viết tắt'."""
+    f = Path(__file__).resolve().parent.parent / "data" / "noi-nhan-viet-tat.txt"
+    out: list[tuple[re.Pattern, str]] = []
+    if not f.exists():
+        return out
+    for dong in f.read_text(encoding="utf-8").splitlines():
+        dong = dong.strip()
+        if not dong or dong.startswith("#") or " | " not in dong:
+            continue
+        mau, tat = dong.rsplit(" | ", 1)
+        out.append((re.compile(mau.strip()), tat.strip()))
+    return out
+
+
+VIET_TAT_NOI_NHAN = _doc_viet_tat_noi_nhan()
+
+
 def _bang_phu_luc(doc, ti: int) -> bool:
     """Bảng ≥ 3 cột, không phải bảng header (Quốc hiệu/Số:) hay bảng Nơi nhận - ký → coi là bảng phụ lục/danh mục."""
     try:
@@ -1383,7 +1401,10 @@ def _bang_phu_luc(doc, ti: int) -> bool:
 
 
 def rule_R24(doc, ctx) -> list[Finding]:
-    """R24 — "Ủy ban nhân dân" ở khối Nơi nhận và trong ô bảng phụ lục, danh mục phải viết tắt "UBND".
+    """R24 — "Ủy ban nhân dân" ở khối Nơi nhận và trong ô bảng phụ lục, danh mục phải viết tắt "UBND";
+    từ 30/10/2026 mọi tên cơ quan dài ở khối Nơi nhận viết tắt theo data/noi-nhan-viet-tat.txt
+    (CA tỉnh, Ban QLDA ĐTXD, Sở NN&MT, BQL KKT…) — Bạn chốt 30/10/2026 "viết tắt tên các cơ quan ở
+    phần nơi nhận cho gọn".
 
     Quy tắc (phạm vi đã thu hẹp khi chuyển từ PR 116, 18/10/2026): chỉ bắt ở (1) các dòng của khối
     "Nơi nhận:" và (2) ô của bảng phụ lục, danh mục (bảng ≥ 3 cột, không phải bảng header hay bảng ký).
@@ -1407,6 +1428,16 @@ def rule_R24(doc, ctx) -> list[Finding]:
                 "Nơi nhận viết tắt 'UBND' (UBND tỉnh (b/c), UBND các xã, phường) — chữ đầy đủ chỉ ở "
                 "đầu trang và khối ký.",
             ))
+            continue
+        for mau, tat in VIET_TAT_NOI_NHAN:
+            if mau.search(dong):
+                da.add(loc)
+                out.append(Finding(
+                    "R24", WARN, loc, cut(dong),
+                    f"Nơi nhận viết tắt tên cơ quan cho gọn: '{tat}' (Bạn chốt 30/10/2026, "
+                    "data/noi-nhan-viet-tat.txt) — thân văn bản, Kính gửi vẫn viết đầy đủ.",
+                ))
+                break
     for loc, t in ctx.texts:
         m = re.match(r"bảng (\d+) ô", loc)
         if not m or loc in da or not UBND_DAY_DU.search(t):

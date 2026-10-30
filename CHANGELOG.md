@@ -1,3 +1,8 @@
+## 30/10/2026 — vbhc-vn 2.38.0 + sd-vlncn-sct-vn 2026.10.30.1: Nơi nhận viết tắt tên cơ quan; đối chiếu địa điểm trên GCN ANTT
+
+- **vbhc-vn 2.38.0:** Bạn chốt "viết tắt tên các cơ quan ở phần nơi nhận cho gọn" — R24 mở rộng đọc `data/noi-nhan-viet-tat.txt`; file lỗi r24b; sổ lỗi L015; SKILL.md Nhóm G.
+- **sd-vlncn-sct-vn 2026.10.30.1:** sổ lỗi mới, L001 — công trình không có trong Giấy chứng nhận ANTT thì chưa phù hợp (dẫn điều khoản NĐ 96/2016); nhà thầu tự nổ mìn phần việc của mình không phải dịch vụ nổ mìn.
+
 ## 29/10/2026 — bpb-sct-vn 1.8.2: khẩu hiệu hành động kết bài phát biểu BCH (R22), bản in cuối
 
 - Bạn chốt sáng 29/10 trước giờ in: kết bài bằng khẩu hiệu hai vế có vần "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (riêng đoạn, đậm nghiêng, căn giữa, hai dòng); câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn. File mẫu gd-duyet cập nhật.

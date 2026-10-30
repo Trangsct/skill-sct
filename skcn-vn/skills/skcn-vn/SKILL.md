@@ -1,6 +1,6 @@
 ---
 name: skcn-vn
-description: THEO DÕI SỨC KHỎE CÁ NHÂN của Trần Trọng Trang (nam, sinh 1987, Lào Cai). Kích hoạt khi người dùng báo bất kỳ chỉ số sức khỏe nào (đường huyết, huyết áp, cân nặng, mỡ máu, HbA1c, men gan, acid uric, SpO2, giấc ngủ), gửi phiếu xét nghiệm, hỏi "chỉ số này có ổn không", "ghi lại giúp tôi", "xem tiến triển", "so với lần trước thế nào"; hoặc báo số bước chân, hỏi về ăn uống, tập luyện, lịch tập, thiết bị tập tại nhà, thực phẩm chức năng, thuốc bổ, vảy nến, thoát vị đĩa đệm, đau thần kinh tọa, giảm cân, hội chứng chuyển hóa. Cũng dùng khi cần soạn danh mục xét nghiệm, chuẩn bị nội dung đi khám, hoặc rà soát một sản phẩm TPCN có phù hợp không. Skill chứa hồ sơ nền, ngưỡng tham chiếu, lịch sử chỉ số và các cảnh báo tương tác đặc thù của người dùng — luôn đọc trước khi nhận định bất kỳ con số sức khỏe nào, vì nhiều khuyến nghị chung sẽ SAI với nền bệnh của người dùng này.
+description: THEO DÕI SỨC KHỎE CÁ NHÂN và LÝ LỊCH CÁ NHÂN của Trần Trọng Trang (nam, sinh 1987, Lào Cai). Lý lịch gồm văn bằng, chứng chỉ (kể cả bồi dưỡng quốc phòng và an ninh), quá trình công tác, đảng viên — dùng khi soạn sơ yếu lý lịch, giới thiệu bản thân, kê khai đào tạo, bồi dưỡng. Kích hoạt khi người dùng báo bất kỳ chỉ số sức khỏe nào (đường huyết, huyết áp, cân nặng, mỡ máu, HbA1c, men gan, acid uric, SpO2, giấc ngủ), gửi phiếu xét nghiệm, hỏi "chỉ số này có ổn không", "ghi lại giúp tôi", "xem tiến triển", "so với lần trước thế nào"; hoặc báo số bước chân, hỏi về ăn uống, tập luyện, lịch tập, thiết bị tập tại nhà, thực phẩm chức năng, thuốc bổ, vảy nến, thoát vị đĩa đệm, đau thần kinh tọa, giảm cân, hội chứng chuyển hóa. Cũng dùng khi cần soạn danh mục xét nghiệm, chuẩn bị nội dung đi khám, hoặc rà soát một sản phẩm TPCN có phù hợp không. Luôn đọc trước khi nhận định bất kỳ con số sức khỏe nào — nhiều khuyến nghị chung SAI với nền bệnh của người dùng.
 ---
 
 # Theo dõi sức khỏe cá nhân — Trần Trọng Trang
@@ -82,4 +82,5 @@ Khi phát hiện dấu hiệu cần cấp cứu (xem `references/canh-bao-do.md`
 | `references/canh-bao-do.md` | Quét nhanh mỗi lần nhận chỉ số |
 | `references/danh-gia-tpcn.md` | Khi được hỏi về một sản phẩm bổ sung |
 | `references/chuan-bi-kham.md` | Khi người dùng sắp đi khám |
+| `references/ly-lich-ca-nhan.md` | Khi soạn sơ yếu lý lịch, giới thiệu bản thân, kê khai văn bằng, chứng chỉ, quá trình công tác, đảng viên |
 | `assets/so-theo-doi.csv` | Bản sổ dạng bảng để người dùng tự nhập hoặc xuất ra Excel |

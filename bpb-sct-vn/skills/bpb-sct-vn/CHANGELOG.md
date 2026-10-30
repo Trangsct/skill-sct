@@ -1,3 +1,8 @@
+## 1.9.0 — 30/10/2026 — Mẫu bài phát biểu đối ngoại (PGĐ Thuân sang thành phố Ngọc Khê); R23–R30, luôn kèm tin nhắn Zalo gửi lãnh đạo
+
+- kho-bai-mau thêm `bpb-doi-ngoai-thanh-pho-ngoc-khe-2026-10-30-pgd-thuan.docx` (2 trang); reference mới `bpb-doi-ngoai-lam-viec-dia-phuong-trung-quoc-30-10-2026.md` (chiều chuyến đi, 2 trang qua phiên dịch, kết cấu 6 khối, ước số tháng gần nhất, Hội chợ Việt – Trung, R30 tin nhắn Zalo); SKILL.md Bước 5, checklist, mục 7, 8.
+- `plugin.json` → 1.9.0. Chi tiết: `CHANGELOG-v2026.10.30.md`.
+
 ## 1.8.2 — 29/10/2026 — Khẩu hiệu hành động kết bài (R22); bản in cuối sáng 29/10
 
 - kho-bai-mau `…-gd-duyet.docx` = bản in 14h 29/10: kết bài bằng khẩu hiệu hai vế có vần, riêng đoạn, đậm nghiêng, căn giữa, ngắt dòng tay — "Mặt bằng sạch đến đâu, dự án về đến đó; / công nghiệp vươn xa, Lào Cai bứt phá!"; câu cảm ơn mở "Với khẩu hiệu hành động đó…". Reference R22 ghi cách làm việc về khẩu hiệu (câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn; kèm 2–3 phương án). SKILL.md, mục lục cập nhật.

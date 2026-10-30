@@ -1,6 +1,6 @@
 ---
 name: bpb-sct-vn
-description: "BÀI PHÁT BIỂU, THAM LUẬN, DIỄN VĂN cho Giám đốc/lãnh đạo Sở Công Thương Lào Cai. Kích hoạt: 'bài phát biểu', 'tham luận', 'diễn văn', 'phát biểu khai mạc/bế mạc/chỉ đạo/chào mừng', 'BPB', 'kính thưa hội nghị'; hội nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; giao ban - giao kế hoạch, tổng kết, triển khai nghị quyết; diễn văn kỷ niệm; phỏng vấn, bài viết ký tên Giám đốc Sở. Kết cấu chuẩn đã duyệt: kính thưa phân tầng - mở đầu gắn nghị quyết - các nhóm nhiệm vụ - tín hiệu cơ hội - cam kết - cảm ơn; giọng văn nói chính trị - trang trọng; ngân hàng câu từ; quy tắc bản duyệt (điền đủ số liệu thật, bỏ chuỗi xin ý kiến, cấp Sở không kiến nghị Ban Thường vụ); định dạng docx riêng Times New Roman 15pt. Mẫu 28/10/2026 BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (bản Giám đốc sửa tay + bản cuối): việc lớn Tỉnh ủy, UBND đã làm trước, nêu vấn đề rồi giao việc ở một phần, giọng ngang cấp, mỗi việc có chủ thể, mốc theo ngày đọc (R8–R17). Liên kết vbhc-vn (render/QA docx) và sct-laocai-org-vn."
+description: "BÀI PHÁT BIỂU, THAM LUẬN, DIỄN VĂN cho Giám đốc/lãnh đạo Sở Công Thương Lào Cai. Kích hoạt: 'bài phát biểu', 'tham luận', 'diễn văn', 'phát biểu khai mạc/bế mạc/chỉ đạo/chào mừng', 'BPB', 'kính thưa hội nghị'; hội nghị BCH Đảng bộ tỉnh, Tỉnh ủy, HĐND, UBND tỉnh; giao ban - giao kế hoạch, tổng kết, triển khai nghị quyết; diễn văn kỷ niệm; phỏng vấn, bài viết ký tên Giám đốc Sở. Kết cấu chuẩn đã duyệt: kính thưa phân tầng - mở đầu gắn nghị quyết - các nhóm nhiệm vụ - tín hiệu cơ hội - cam kết - cảm ơn; giọng văn nói chính trị; ngân hàng câu từ; quy tắc bản duyệt (điền đủ số liệu thật, bỏ chuỗi xin ý kiến, cấp Sở không kiến nghị Ban Thường vụ); định dạng docx riêng Times New Roman 15pt. Mẫu 28/10/2026 BCH Đảng bộ tỉnh về KCN, CCN: việc lớn đã làm trước, nêu vấn đề rồi giao việc, giọng ngang cấp, mốc theo ngày đọc (R8–R22). Mẫu 30/10/2026 đối ngoại PGĐ sang Ngọc Khê, Vân Nam: chiều chuyến đi, 2 trang, Hội chợ Việt – Trung (R23–R29); luôn kèm tin nhắn Zalo gửi lãnh đạo (R30). Liên kết vbhc-vn, sct-laocai-org-vn."
 ---
 
 # Soạn Bài phát biểu Giám đốc Sở Công Thương Lào Cai
@@ -60,6 +60,13 @@ biệt bản nháp non và bản GĐ duyệt.
 **Bước 4 — Xuất file .docx** đúng định dạng bài phát biểu (mục 6), render soi ảnh
 từng trang bằng QA của vbhc-vn trước khi giao. Đặt tên file
 `YYYY.MM.DD. [Tên đầy đủ có dấu].docx`.
+
+**Bước 5 — Luôn giao kèm tin nhắn Zalo gửi lãnh đạo (R30, Bạn chốt 30/10/2026).** Mỗi lần giao file
+bài phát biểu, tham luận, phỏng vấn (bản đầu hay bản sửa), cuối câu trả lời có đoạn "Tin nhắn gửi
+anh …:" để Bạn chép sang Zalo: gõ thẳng, không markdown, không gạch đầu dòng tự động, tối đa một màn
+hình điện thoại; "Dạ, em gửi anh…" khi nhắn riêng lãnh đạo; nêu đã sửa gì theo đúng ý lãnh đạo, độ dài,
+chỗ số ước/bôi tím, một câu hỏi nếu còn thiếu dữ kiện; gửi hai file một lúc thì nói rõ file nào là bản
+nào. Tin thật: `references/bpb-doi-ngoai-lam-viec-dia-phuong-trung-quoc-30-10-2026.md` mục E.
 
 ---
 
@@ -179,6 +186,7 @@ So sánh bản nháp non ↔ bản GĐ duyệt cho thấy bản duyệt luôn:
 - [ ] **Lời kính thưa khớp đúng thành phần hội nghị** (mục 4).
 - [ ] **Kết bài đủ 3 lớp** (cam kết → mong phối hợp → cảm ơn).
 - [ ] Đọc thử thành tiếng: câu có trôi, có nhịp không? Bỏ câu quá dài/lủng củng.
+- [ ] **Đã soạn kèm tin nhắn Zalo gửi lãnh đạo** (Bước 5, R30).
 
 ---
 
@@ -219,6 +227,8 @@ Luôn **render soi ảnh từng trang** trước khi trình.
 
 **Giám đốc phát biểu tại Hội nghị Ban Chấp hành Đảng bộ tỉnh về vướng mắc các dự án khu, cụm công nghiệp trọng điểm** (Bạn chốt 28/10/2026, 8 vòng Giám đốc duyệt qua Zalo): mẫu **`kho-bai-mau/bpb-bch-dang-bo-tinh-2026-10-28-khu-cum-cong-nghiep-gd-duyet.docx`** (bản Giám đốc duyệt 20h29, 5 trang) — đọc `references/bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` (kết cấu, chuỗi 15 ý kiến Giám đốc, bản Giám đốc sửa tay, bản Giám đốc sửa cuối trên Zalo, quy tắc R8–R22). Tóm tắt: sau đoạn số liệu tăng trưởng là đoạn **việc lớn Tỉnh ủy, UBND tỉnh đã triển khai** (chỉ thị, ban chỉ đạo, kiểm tra thực địa, kết luận, hội nghị — số, ngày, tên người đứng đầu, một câu đánh giá đúng mức về chỉ thị mới) rồi mới vào vướng mắc; phần I, II **chỉ nêu hiện trạng và vướng mắc** (Giám đốc chốt "nêu vấn đề và giao việc luôn", không để khối "giải quyết ngay / cần chỉ đạo" lặp với phần III); phần III mở bằng câu **đề nghị Hội nghị phát động chiến dịch GPMB đến 31/12/2026**, 8 mục phân công viết **giọng ngang cấp** ("đề nghị Sở…", việc Chủ tịch đã giao thì dẫn "đã được Chủ tịch UBND tỉnh giao"), mục cuối "Về phần mình, Sở Công Thương nhận trách nhiệm…"; kết một đoạn, không lặp phần cam kết; **mốc thời gian soát theo ngày đọc** (bỏ mốc trong tháng soạn); "khoảng 5 trang" là tối đa 5 trang; tên, số lãnh đạo nhắn qua Zalo phải đối chiếu bản gốc (Chỉ thị "34" → 42-CT/TU; "tổ công tác" → Ban Chỉ đạo); **mỗi việc phải có chủ thể** (Giám đốc đánh "Ai?" vào câu không có cơ quan chủ trì); bỏ câu "Thay mặt…" mở đầu, vào thẳng số liệu khi Giám đốc đã sửa tay như vậy; **an ninh, trật tự viết mềm**, không nêu đích danh khu, có "(nếu có)" (R18); Giám đốc sửa trên Zalo dán toàn văn cũng là bản duyệt — diff, chỉ sửa lỗi gõ và điền chỗ đánh dấu (R19); làm tròn số khi đọc, chức danh thay tên riêng lãnh đạo cấp trên, trích chỉ đạo của Chủ tịch nguyên văn trong ngoặc kép, dẫn quyết định nhiều dự án phải nêu tên từng dự án (R20); bản lãnh đạo sửa vẫn đối chiếu plugin (R21); **kết bài bằng một khẩu hiệu hành động hai vế có vần, riêng một đoạn đậm nghiêng căn giữa** — "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (R22). Số liệu, mốc, bộ máy: plugin `kccn-sct-vn` ref 54.
 
+**Lãnh đạo Sở đi làm việc với địa phương nước ngoài (đối ngoại, giới thiệu Lào Cai và mời hợp tác)** (Bạn chốt 30/10/2026, PGĐ Hoàng Văn Thuân sang thành phố Ngọc Khê, Vân Nam): mẫu `kho-bai-mau/bpb-doi-ngoai-thanh-pho-ngoc-khe-2026-10-30-pgd-thuan.docx` (2 trang) — đọc `references/bpb-doi-ngoai-lam-viec-dia-phuong-trung-quoc-30-10-2026.md` (R23–R30). Tóm tắt: **xác định trước chiều chuyến đi** — sang thăm hay đón đoàn (bản đầu viết nhầm thành đón đoàn, phải viết lại; R23); mặc định 2 trang, câu ngắn, số làm tròn, không đọc số hiệu văn bản vì qua phiên dịch (R24); kết cấu 6 khối: câu hình ảnh gắn kết hai địa phương → bốn câu dẫn đậm "Lào Cai là cửa ngõ / tỉnh công nghiệp / thị trường và điểm đến / giàu nguyên liệu xanh" → thế mạnh của bạn + câu bắc cầu → năm hướng hợp tác "Một là… Năm là" (thương mại và hội chợ, logistics, chế biến sâu khoáng sản, nông lâm sản, du lịch) → cam kết đầu mối + mời sang thăm Lào Cai → kết (R25); "số liệu mới nhất đến hết tháng …" thì ước tháng chưa có số, bôi tím số ước (R26); không mời hợp tác đất hiếm, không nêu tên doanh nghiệp (R27, `dacn-sct-vn` ref 13); Hội chợ Kinh tế Thương mại và Du lịch Biên giới Việt – Trung (Hà Khẩu, 8–13/11/2026) đặt ở hướng hợp tác thứ nhất kèm lời mời tham gia, soát theo ngày đọc (R29).
+
 Mặc định bài phát biểu do **Giám đốc Sở Hoàng Chí Hiền** trình bày ("thay mặt Sở
 Công Thương / thay mặt ngành Công Thương, tôi…"). Nếu Phó Giám đốc đọc, đổi cách
 xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở ở skill
@@ -240,13 +250,14 @@ xưng cho phù hợp lĩnh vực phụ trách. Tra phân công lãnh đạo Sở
   xuất). Mở khi soạn bài phát biểu trong tháng 8–9/2026 mà người dùng chưa đưa số
   liệu; số liệu người dùng cung cấp luôn được ưu tiên.
 - `references/bpb-bch-dang-bo-tinh-khu-cum-cong-nghiep-28-10-2026.md` — **bài phát biểu tại Hội nghị BCH Đảng bộ tỉnh về vướng mắc KCN, CCN (28/10/2026)**: chuỗi 15 ý kiến Giám đốc, kết cấu bản duyệt 5 trang, quy tắc R8–R22 (giọng ngang cấp ở phần phân công, việc lớn trước vướng mắc sau, mốc theo ngày đọc, độ dài là mệnh lệnh và thứ tự cắt, dễ đọc trên bục, đối chiếu tên số lãnh đạo nhắn Zalo, không chép chữ sai của báo, giữ chỗ Giám đốc đã sửa tay, mỗi việc phải có chủ thể, nêu vấn đề và giao việc luôn, an ninh trật tự viết mềm, bản Giám đốc sửa trên Zalo là bản duyệt, dẫn quyết định nhiều dự án nêu tên từng dự án), bản Giám đốc sửa tay và sửa cuối trên Zalo, cách dựng file python-docx.
+- `references/bpb-doi-ngoai-lam-viec-dia-phuong-trung-quoc-30-10-2026.md` — **bài phát biểu đối ngoại khi lãnh đạo Sở sang làm việc với địa phương nước ngoài** (PGĐ Thuân – thành phố Ngọc Khê, 30/10/2026): chuỗi 6 ý kiến, R23 chiều chuyến đi, R24 hai trang qua phiên dịch, R25 kết cấu 6 khối, R26 ước số tháng gần nhất bôi tím, R27 nội dung đối ngoại, R28 thông tin địa phương bạn, R29 sự kiện có ngày, **R30 luôn giao kèm tin nhắn Zalo gửi lãnh đạo** (áp dụng mọi bài), số cửa khẩu, Hội chợ Việt – Trung 2026, ba tin nhắn thật.
 - `references/tra-loi-phong-van-bao-chi.md` — **11 quy tắc riêng cho TRẢ LỜI PHỎNG
   VẤN BÁO CHÍ** (đúc kết từ bản duyệt PGĐ Hoàng Văn Thuân 11/8/2026, vụ TTXVN): mở
   bài bằng số vĩ mô tầng bậc, khung "điểm nghẽn → năng lực sản xuất mới", giải pháp
   theo chuỗi sản phẩm có tên mỏ/nhà máy, nguyên tắc 3 tầng thẩm quyền, không đọc số
   hiệu văn bản, không xác nhận tiền đề tiêu cực của câu hỏi, giọng điềm đạm, sản
   phẩm kép kèm bản tóm tắt. **BẮT BUỘC đọc trước khi soạn bài phỏng vấn.**
-- `kho-bai-mau/` — **20 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
+- `kho-bai-mau/` — **22 bài mẫu gốc** do Sở cung cấp (kèm `00-MUC-LUC.md` tra nhanh
   theo dịp; tên file đã chuẩn hoá không dấu). Ưu tiên **mở đúng mẫu gần nhất** với
   dịp đang soạn để bám thể thức/giọng (Chế độ B — sửa mẫu thật). File
   `bpb-bch-ktck-gd-duyet.docx` là bản GĐ đã duyệt — chuẩn cao nhất để đối chiếu;

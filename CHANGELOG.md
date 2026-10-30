@@ -1,3 +1,7 @@
+## 30/10/2026 — bpb-sct-vn 1.9.0: mẫu bài phát biểu đối ngoại (PGĐ Thuân sang thành phố Ngọc Khê, Vân Nam); luôn kèm tin nhắn Zalo gửi lãnh đạo
+
+- kho-bai-mau thêm bản 2 trang PGĐ Thuân duyệt qua Zalo; reference mới R23–R30: xác định chiều chuyến đi (sang thăm hay đón đoàn), 2 trang qua phiên dịch, kết cấu 6 khối có câu hình ảnh và bốn câu dẫn "Lào Cai là…", năm hướng hợp tác có Hội chợ Kinh tế Thương mại và Du lịch Biên giới Việt – Trung (Hà Khẩu, 8–13/11/2026), ước số tháng gần nhất bôi tím; **R30: mọi lần giao bài phát biểu đều kèm tin nhắn Zalo gửi lãnh đạo** (Bạn chốt 30/10/2026).
+
 ## 29/10/2026 — bpb-sct-vn 1.8.2: khẩu hiệu hành động kết bài phát biểu BCH (R22), bản in cuối
 
 - Bạn chốt sáng 29/10 trước giờ in: kết bài bằng khẩu hiệu hai vế có vần "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (riêng đoạn, đậm nghiêng, căn giữa, hai dòng); câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn. File mẫu gd-duyet cập nhật.

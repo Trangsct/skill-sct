@@ -1,0 +1,6 @@
+# CHANGELOG — bpb-sct-vn v1.9.0 (30/10/2026)
+
+- `kho-bai-mau/`: thêm **`bpb-doi-ngoai-thanh-pho-ngoc-khe-2026-10-30-pgd-thuan.docx`** — bài phát biểu của PGĐ Hoàng Văn Thuân khi Đoàn Sở sang làm việc với thành phố Ngọc Khê, tỉnh Vân Nam (2 trang, Times New Roman 15; số ước 10 tháng và tên lãnh đạo bạn còn bôi tím đúng trạng thái lúc giao). `00-MUC-LUC.md` cập nhật (22 văn bản).
+- `references/bpb-doi-ngoai-lam-viec-dia-phuong-trung-quoc-30-10-2026.md` (mới): chuỗi 6 ý kiến (rút 2 trang; "Sếp Thuân sang thăm chứ không phải họ sang"; số liệu đến hết tháng 10; bổ sung thương mại, logistics, du lịch, cửa khẩu; ước 10 tháng; Hội chợ Việt – Trung); quy tắc **R23** chiều chuyến đi, **R24** hai trang qua phiên dịch, **R25** kết cấu 6 khối và thứ tự cắt, **R26** ước số tháng gần nhất bôi tím, **R27** nội dung đối ngoại (đất hiếm, tên doanh nghiệp), **R28** thông tin địa phương bạn, **R29** sự kiện có ngày, **R30** luôn giao kèm tin nhắn Zalo gửi lãnh đạo (mọi bài); số cửa khẩu, Hội chợ Kinh tế Thương mại và Du lịch Biên giới Việt – Trung 2026; ba tin nhắn thật.
+- `SKILL.md`: Bước 5 (tin nhắn Zalo), checklist 5B thêm dòng tin nhắn, mục 7 thêm dạng đối ngoại, mục 8 thêm reference, đếm lại 22 bài mẫu; description.
+- `plugin.json` → 1.9.0.

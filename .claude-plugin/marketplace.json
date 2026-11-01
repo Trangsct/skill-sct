@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.184"
+    "version": "4.11.185"
   },
   "plugins": [
     {
@@ -162,6 +162,12 @@
       "name": "mau-dgrr-khuc-vlncn",
       "source": "./mau-dgrr-khuc-vlncn",
       "description": "Mẫu Báo cáo đánh giá nguy cơ rủi ro về an toàn (Phụ lục VI) và Kế hoạch ứng cứu khẩn cấp (Phụ lục IX) theo TT 23/2024/TT-BCT về VLNCN, soạn cho doanh nghiệp đề nghị cấp GP sử dụng VLNCN tại Sở Công Thương Lào Cai. Dàn ý đúng 8/11 mục, ma trận rủi ro 5x5, 10 tình huống khẩn cấp, thể thức bìa, khối ký, 4 phụ lục, yêu cầu QCVN 01:2019/BCT, kiểm tra trước khi giao. Bản chốt 06/10/2026, đưa vào kho 18/10/2026.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cong-ty-tay-bac-vn",
+      "source": "./cong-ty-tay-bac-vn",
+      "description": "Công ty TNHH Năng lượng và Điện lực Tây Bắc (Công ty Tây Bắc): thông tin pháp nhân, quy ước đánh số văn bản, hợp đồng; nghiệp vụ tổ chức tập huấn an toàn hàng hóa nguy hiểm theo Điều 8 NĐ 161/2024 cho người lái xe, người áp tải của doanh nghiệp vận tải (bộ hồ sơ mẫu, tài liệu, đề kiểm tra, đáp án, Giấy chứng nhận Phụ lục VI, script dựng cả bộ); các hợp đồng, việc tư vấn đã làm.",
       "version": "1.0.0"
     }
   ]

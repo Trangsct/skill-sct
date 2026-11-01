@@ -1,3 +1,10 @@
+## 01/11/2026 — cong-ty-tay-bac-vn 1.0.0 (plugin mới): Công ty TNHH Năng lượng và Điện lực Tây Bắc, tập huấn an toàn hàng hóa nguy hiểm
+
+- Plugin riêng cho Công ty Tây Bắc: thông tin pháp nhân, quy ước số hợp đồng theo ngày ký, danh mục việc đã làm (ref 01).
+- Nghiệp vụ tập huấn an toàn hàng hóa nguy hiểm theo Điều 8 NĐ 161/2024 (ref 02): doanh nghiệp vận tải ra Quyết định cử người và phê duyệt tài liệu, Công ty Tây Bắc tổ chức, kiểm tra, ra quyết định công nhận và ký Giấy chứng nhận Phụ lục VI; hồ sơ tối giản theo khoản 7 (mỗi doanh nghiệp 01 quyết định, 01 danh sách, 01 bảng kết quả, 01 biên bản bàn giao); ngày sinh ghi đủ; 12 giờ chung + 04 giờ riêng mỗi loại, nhóm; đề 12 + 8 câu.
+- Lớp 10/2026 Hương Tấn (nhóm 2.1), Toàn Phát TQ (nhóm 2.3, 5.1, loại 8, loại 1): số, ngày văn bản, việc còn dở (ref 03, không ghi thông tin cá nhân).
+- Script dựng trọn bộ (hồ sơ, Giấy chứng nhận, hợp đồng người tập huấn, 6 mẫu đề, đáp án, tài liệu bổ sung loại 1, đồng bộ tài liệu dùng chung) với khối dữ liệu mẫu ẩn danh; ví dụ ẩn danh chia 3 nhóm giao.
+
 ## 01/11/2026 — dacn-sct-vn 1.12.0: Phụ biểu khởi công, khánh thành 11/2026–2027 (ref 16), nhãn nguồn số liệu
 
 - Ref 16 mới: giá trị SXCN một năm khi hoạt động ổn định (Trưởng phòng QLCN góp ý 01/11), NSNN 2%, lao động 10/25 người/ha, hệ số 1,368; bảng từng dự án gắn nhãn [TC]/[BC-DN]/[BÁO]/[ƯỚC]; ô còn thiếu. Bạn chốt: có số liệu thật thì cập nhật ngay vào plugin. check_facts thêm rule `phu-bieu-sxcn-nha-may-gia-tri-nam`.

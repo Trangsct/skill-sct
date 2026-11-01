@@ -17,8 +17,8 @@
 ## Các việc đã làm (theo phiên làm việc với Bạn)
 
 - 09/2026: Hợp đồng thi công khoan nổ phá đá san nền, chế biến, vận chuyển đá tại KCN Phú Xuân và Phú Xuân 1 (xã Gia Phú) với Công ty cổ phần công nghiệp Linh Linh, liên danh với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Hóa chất mỏ chỉ nổ mìn; khoan, xúc, vận chuyển, xay nghiền do Công ty Tây Bắc); đơn vị nhận thanh toán và thụ hưởng bảo lãnh là Công ty Tây Bắc.
-- 22/9/2026: Hợp đồng dịch vụ tư vấn, giám sát ảnh hưởng nổ mìn với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Bên B).
-- 04/10/2026: Hợp đồng tổ chức giám sát ảnh hưởng nổ mìn với Công ty TNHH Thương mại và Xây dựng Hạ tầng Bắc Hà (04.10/2026/HĐGS).
+- 25/9/2026: Hợp đồng khung cung cấp dịch vụ tư vấn, giám sát ảnh hưởng nổ mìn số 25.09/2026/HĐDV-HCMTB với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Tây Bắc là bên thuê, 24 tháng) - reference 05.
+- 04/10/2026: Hợp đồng tổ chức giám sát ảnh hưởng nổ mìn với Công ty TNHH Thương mại và Xây dựng Hạ tầng Bắc Hà (04.10/2026/HĐGS) - reference 05.
 - 16/4/2026: Tư vấn lập hồ sơ thành lập CCN Mông Sơn cho Công ty CP Đầu tư Xây dựng Hạ tầng CRC (Hợp đồng 10.04/2026/HĐTV).
 - 10/2026: Hồ sơ lớp tập huấn kiến thức an toàn thực phẩm cho Công ty TNHH MTV Xuất nhập khẩu Hà Sơn.
 - 21/10/2026: Hợp đồng hợp tác đầu tư Dự án Kho chứa hóa chất 5.000 m² tại xã Bát Xát với Công ty cổ phần xuất nhập khẩu Sợi Phương Nam.

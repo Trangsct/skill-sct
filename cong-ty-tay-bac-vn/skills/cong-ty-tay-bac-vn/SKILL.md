@@ -14,6 +14,7 @@ description: "CÔNG TY TÂY BẮC - Công ty TNHH Năng lượng và Điện l�
 - Soạn hợp đồng, quyết định, văn bản đứng tên Công ty Tây Bắc.
 - Tổ chức lớp tập huấn an toàn hàng hóa nguy hiểm (HHNH) cho người lái xe, người áp tải của doanh nghiệp vận tải: dựng trọn bộ hồ sơ theo Điều 8 Nghị định 161/2024/NĐ-CP. Quy trình đã chốt: `references/02-tap-huan-hhnh-quy-trinh.md`.
 - Soạn, rà soát hợp đồng tư vấn lập hồ sơ thành lập cụm công nghiệp (Công ty Tây Bắc là bên tư vấn): khung 8 điều và 9 điều khoản bảo vệ Công ty Tây Bắc: `references/04-hop-dong-tu-van-thanh-lap-ccn.md`; mẫu `vi-du-thuc-te/hop-dong-tu-van-thanh-lap-ccn/`.
+- Soạn hợp đồng giám sát ảnh hưởng nổ mìn: Tây Bắc nhận đo cho đơn vị nổ mìn và thuê Công ty Công nghiệp Hóa chất mỏ Tây Bắc đo (hợp đồng khung 25.09/2026/HĐDV-HCMTB), điều khoản bảo vệ và khớp nối hai hợp đồng: `references/05-hop-dong-giam-sat-anh-huong-no-min.md`; mẫu `vi-du-thuc-te/hop-dong-giam-sat-no-min/`.
 - Tra lại lớp đã tổ chức (số, ngày văn bản, học viên, việc còn dở): `references/03-lop-hhnh-2026-10-huong-tan-toan-phat.md`.
 
 ## II. NGUYÊN TẮC BẮT BUỘC (đã chốt với Bạn, phiên 01/11/2026)

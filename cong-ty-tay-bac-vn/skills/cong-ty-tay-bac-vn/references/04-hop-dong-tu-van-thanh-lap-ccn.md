@@ -15,7 +15,7 @@ Căn cứ đã đối chiếu kho: NĐ 32/2024/NĐ-CP; NĐ 303/2026/NĐ-CP ngày
 ## Điều khoản bảo vệ Công ty Tây Bắc (bắt buộc rà khi soạn, sửa hợp đồng tư vấn)
 
 1. Thời hạn tính từ ngày Bên B nhận đủ tài liệu của Bên A và khoản thanh toán đợt 1, không tính từ ngày ký; không tính thời gian xử lý của cơ quan nhà nước.
-2. Phần việc của Bên B hoàn thành khi bàn giao đủ hồ sơ và Sở Công Thương có Tờ trình; hỗ trợ sau đó có thời hạn (03 tháng), không gắn với ngày Ủy ban nhân dân tỉnh ra quyết định thành lập.
+2. Phần việc của Bên B hoàn thành khi bàn giao đủ hồ sơ và Sở Công Thương có Tờ trình; hỗ trợ sau đó có thời hạn 01 tháng (Bạn chốt 01/11/2026), không thu tiền, không gắn với ngày Ủy ban nhân dân tỉnh ra quyết định thành lập.
 3. Thanh toán đợt 2 có điều kiện thay thế: quá 60 ngày kể từ khi bàn giao hồ sơ trình phê duyệt mà chưa có Tờ trình không do lỗi Bên B thì vẫn thanh toán; Bên A không được chọn làm chủ đầu tư hoặc cụm không được thành lập không do lỗi Bên B thì thanh toán theo khối lượng đã làm (bảng tiến độ).
 4. Lãi chậm thanh toán theo Điều 306 Luật Thương mại.
 5. Chỉnh sửa, in bổ sung miễn phí chỉ trong phạm vi công việc đã ký; Bên A đổi vị trí, quy mô, ngành nghề, phương án đầu tư thì thỏa thuận chi phí bổ sung; số bộ in có mức tối đa.

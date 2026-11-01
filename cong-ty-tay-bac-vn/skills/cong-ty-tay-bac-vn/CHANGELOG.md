@@ -1,5 +1,9 @@
 # CHANGELOG cong-ty-tay-bac-vn
 
+## 1.1.1 - 01/11/2026
+
+- Hợp đồng tư vấn CCN: sau khi Sở Công Thương có Tờ trình, Công ty Tây Bắc chỉ hỗ trợ bổ sung tài liệu thêm 01 tháng (thay 03 tháng), không thu tiền (ref 04, mẫu).
+
 ## 1.1.0 - 01/11/2026
 
 - Reference 04: hợp đồng tư vấn lập hồ sơ thành lập cụm công nghiệp (Tây Bắc là bên tư vấn) - khung 8 điều, căn cứ đã đối chiếu kho, 9 điều khoản bảo vệ Công ty Tây Bắc (thời hạn tính từ khi nhận đủ tài liệu và tạm ứng; hoàn thành khi có Tờ trình của Sở; thanh toán đợt 2 có điều kiện thay thế; lãi chậm trả; giới hạn chỉnh sửa miễn phí; loại trừ chi phí; trần bồi thường; tạm dừng quá 03 tháng được chấm dứt).

@@ -1,3 +1,7 @@
+## 01/11/2026 (lần 3) — cong-ty-tay-bac-vn 1.1.1: hỗ trợ sau Tờ trình 01 tháng
+
+- Hợp đồng tư vấn thành lập CCN: Công ty Tây Bắc hỗ trợ bổ sung tài liệu thêm 01 tháng sau khi Sở Công Thương có Tờ trình (Bạn chốt), cập nhật ref 04 và mẫu.
+
 ## 01/11/2026 (lần 2) — cong-ty-tay-bac-vn 1.1.0: mẫu hợp đồng tư vấn thành lập cụm công nghiệp, điều khoản bảo vệ Công ty Tây Bắc
 
 - Ref 04 mới: khung hợp đồng tư vấn lập hồ sơ thành lập CCN theo NĐ 32/2024 sửa đổi tại NĐ 303/2026; 9 điều khoản bảo vệ bên tư vấn rút từ lần rà soát Hợp đồng tư vấn CCN Bát Xát; mẫu đã bỏ thông tin liên hệ, tài khoản, số tiền.

@@ -1,3 +1,7 @@
+## 01/11/2026 (lần 5) — cong-ty-tay-bac-vn 1.2.0: hợp đồng giám sát ảnh hưởng nổ mìn đầu vào, đầu ra
+
+- Ref 05 mới: hợp đồng khung với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Tây Bắc thuê đo) và hợp đồng Tây Bắc nhận đo cho đơn vị nổ mìn; điều khoản bảo vệ Tây Bắc, khớp nối hai hợp đồng; mẫu ẩn thông tin liên hệ, tài khoản, giá trị.
+
 ## 01/11/2026 (lần 4) — cong-ty-tay-bac-vn 1.1.2: VAT theo từng đợt thanh toán hợp đồng tư vấn CCN
 
 - Bạn chốt: đợt 1 cũng cộng thuế giá trị gia tăng tương ứng; ref 04 ghi thêm dạng số hợp đồng và dòng số tài khoản để điền tay.

@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "phu-bieu-sxcn-nha-may-gia-tri-nam",
+        # Trưởng phòng QLCN góp ý 01/11/2026 (dacn-sct-vn ref 16): cột giá trị SXCN của Phụ biểu khởi công, khánh thành là giá trị
+        # một năm khi hoạt động ổn định; không dùng phần đóng góp năm 2026 chia 1,368 (axit điện tử Đức Giang 658, DCP 79...).
+        "pattern": r"^(?!.*(?:lịch sử|[Bb]ỏ|năm 2026|LỊCH SỬ)).*(?:axit điện tử|Đức Giang).*\b658\b",
+        "why": "SXCN axit điện tử Đức Giang trong Phụ biểu là giá trị năm khi hoạt động ổn định (1.320 tỷ, ref 16 dacn-sct-vn); 658 là phần đóng góp năm 2026 đã bỏ.",
+        "since": "2026-11-01",
+        "level": "FAIL",
+    },
+    {
         "id": "dong-pho-moi-di-doi-khong-phai-ccn-bat-xat",
         # Bạn chỉ ra 28/10/2026 (kccn-sct-vn sổ lỗi L002): nơi tiếp nhận di dời KCN Đông Phố Mới là Khu san gạt MB + HTKT Khu Bản Qua
         # (95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược (ref 17), không phải CCN Bát Xát (76 ha, mới là quy hoạch).

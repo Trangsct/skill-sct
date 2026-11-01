@@ -1,3 +1,7 @@
+## 01/11/2026 (lần 4) — cong-ty-tay-bac-vn 1.1.2: VAT theo từng đợt thanh toán hợp đồng tư vấn CCN
+
+- Bạn chốt: đợt 1 cũng cộng thuế giá trị gia tăng tương ứng; ref 04 ghi thêm dạng số hợp đồng và dòng số tài khoản để điền tay.
+
 ## 01/11/2026 (lần 3) — cong-ty-tay-bac-vn 1.1.1: hỗ trợ sau Tờ trình 01 tháng
 
 - Hợp đồng tư vấn thành lập CCN: Công ty Tây Bắc hỗ trợ bổ sung tài liệu thêm 01 tháng sau khi Sở Công Thương có Tờ trình (Bạn chốt), cập nhật ref 04 và mẫu.

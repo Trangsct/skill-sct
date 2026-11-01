@@ -7,7 +7,8 @@ Mẫu chốt 01/11/2026 (bản rà soát Hợp đồng tư vấn CCN Bát Xát, 
 1. Nội dung tư vấn 1.1-1.9 theo trình tự Điều 9, Điều 10 NĐ 32/2024/NĐ-CP sửa đổi tại NĐ 303/2026/NĐ-CP: khảo sát; văn bản đề nghị làm chủ đầu tư gửi Ủy ban nhân dân cấp xã (mẫu TT 14/2024/TT-BCT); Báo cáo đầu tư; hồ sơ nộp xã; lấy ý kiến sở, ngành; Tổ giúp việc; Hội đồng lựa chọn chủ đầu tư; phối hợp hồ sơ trình phê duyệt.
 2. Sản phẩm: số bộ in từng giai đoạn (07 - 05 - tối đa 15 - 03 bộ), kèm bản điện tử.
 3. Tiến độ, giá trị trọn gói chưa VAT, bảng 4 phần việc (khảo sát; lập hồ sơ; giải trình - Tổ giúp việc - Hội đồng; hoàn thiện trình phê duyệt).
-4. Thanh toán 02 đợt 50% (khi ký; khi Sở Công Thương có Tờ trình).
+4. Thanh toán 02 đợt 50% (khi ký; khi Sở Công Thương có Tờ trình), MỖI ĐỢT cộng thuế giá trị gia tăng tương ứng (Bạn chốt 01/11/2026 - không dồn thuế vào đợt 2).
+   Số hợp đồng tư vấn đối tác có thể theo dạng `số/2026/HĐTV/TBB-[viết tắt đối tác]` (Bát Xát: 368/2026/HĐTV/TBB-TKT, ngày 02/11/2026). Dòng số tài khoản bên thuê chưa có thì để dòng chấm dài đủ điền tay (số tài khoản và tên ngân hàng đầy đủ).
 5-8. Quyền, nghĩa vụ hai bên; tạm dừng, chấm dứt; điều khoản chung.
 
 Căn cứ đã đối chiếu kho: NĐ 32/2024/NĐ-CP; NĐ 303/2026/NĐ-CP ngày 01/8/2026; TT 14/2024/TT-BCT ngày 15/8/2024; QĐ 16/2026/QĐ-UBND ngày 25/02/2026; QĐ 525/QĐ-UBND ngày 25/02/2026 (CCN Bát Xát 57 ha).

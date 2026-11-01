@@ -1,5 +1,9 @@
 # CHANGELOG cong-ty-tay-bac-vn
 
+## 1.1.2 - 01/11/2026
+
+- Hợp đồng tư vấn CCN: thuế giá trị gia tăng cộng vào từng đợt thanh toán (không dồn vào đợt 2); dạng số hợp đồng 368/2026/HĐTV/TBB-TKT; dòng số tài khoản bên thuê để chấm dài điền tay (ref 04, mẫu).
+
 ## 1.1.1 - 01/11/2026
 
 - Hợp đồng tư vấn CCN: sau khi Sở Công Thương có Tờ trình, Công ty Tây Bắc chỉ hỗ trợ bổ sung tài liệu thêm 01 tháng (thay 03 tháng), không thu tiền (ref 04, mẫu).

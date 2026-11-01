@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.12.0] - 01/11/2026 — Phụ biểu khởi công, khánh thành 11/2026–2027 (ref 16), nhãn nguồn số liệu
+- Ref 16 mới: quy tắc giá trị SXCN một năm khi hoạt động ổn định, NSNN 2%, lao động 10/25 người/ha, hệ số 1,368; bảng KCN, CCN, 03 dự án QĐ 767, gạch men CRC Premier, 07 nhà máy chế biến, mỗi số gắn nhãn [TC]/[BC-DN]/[BÁO]/[ƯỚC]; ô còn thiếu và nơi tra. Ref 10 hộp cập nhật; SKILL.md nguyên tắc 8. Chi tiết: `CHANGELOG-v2026.11.01.md`.
+
 ## [1.11.1] - 19/10/2026 — Số CCN đã thành lập sau QĐ 3865/QĐ-UBND (CCN Xuân Ái)
 - Ref 12 mục Lưu ý: 25 cụm/1.028,78 ha ghi là mốc đến 16/10/2026; số hiện hành **26 cụm/1.103,78 ha** sau QĐ 3865/QĐ-UBND ngày 17/10/2026 thành lập CCN Xuân Ái (75 ha) — trỏ `kccn-sct-vn` ref 48 mục E. Chi tiết: `CHANGELOG-v2026.10.19.md`.
 

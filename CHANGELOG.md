@@ -1,3 +1,7 @@
+## 01/11/2026 — dacn-sct-vn 1.12.0: Phụ biểu khởi công, khánh thành 11/2026–2027 (ref 16), nhãn nguồn số liệu
+
+- Ref 16 mới: giá trị SXCN một năm khi hoạt động ổn định (Trưởng phòng QLCN góp ý 01/11), NSNN 2%, lao động 10/25 người/ha, hệ số 1,368; bảng từng dự án gắn nhãn [TC]/[BC-DN]/[BÁO]/[ƯỚC]; ô còn thiếu. Bạn chốt: có số liệu thật thì cập nhật ngay vào plugin. check_facts thêm rule `phu-bieu-sxcn-nha-may-gia-tri-nam`.
+
 ## 29/10/2026 — bpb-sct-vn 1.8.2: khẩu hiệu hành động kết bài phát biểu BCH (R22), bản in cuối
 
 - Bạn chốt sáng 29/10 trước giờ in: kết bài bằng khẩu hiệu hai vế có vần "Mặt bằng sạch đến đâu, dự án về đến đó; công nghiệp vươn xa, Lào Cai bứt phá!" (riêng đoạn, đậm nghiêng, căn giữa, hai dòng); câu Bạn nêu làm ví dụ nhịp điệu không dùng nguyên văn. File mẫu gd-duyet cập nhật.

@@ -9,6 +9,8 @@
 
 > ✅ **Cập nhật 07/10/2026 — diễn biến đã xác nhận đến 30/9/2026 (chi tiết ref `12` mục IV):** Mỏ sắt Quý Xa **đã hoạt động trở lại từ 10/9/2026**; tuyển apatit Tam Đỉnh 250.000 tấn/năm **đã đi vào sản xuất**; KCN Phú Xuân, Phú Xuân 1 **đã khởi công**; 01 hệ tuyển Bắc Nhạc Sơn - Tằng Loỏng tái khởi động 20/9/2026. Các mốc "tháng 8/2026", "tháng 9/2026" trong bảng dưới là mốc dự kiến của bản gốc (lịch sử). Các dự án còn lại của nhóm a) **chưa có xác nhận hoàn thành** — hỏi Bạn trước khi viết "đã vận hành".
 
+> ✅ **Cập nhật 01/11/2026 (chi tiết ref `16` mục III):** quế hữu cơ Bảo Thắng khánh thành 04/11/2026 (KH 173/KH-SNNMT ngày 29/10/2026), doanh nghiệp báo đóng góp **15,9 tỷ đồng/2 tháng** — con số 4.343 tỷ của bản gốc là bất thường, không dùng; Lao Kay đã hoạt động từ 10/7/2026 (BC 265/BC-BQL ngày 17/8/2026); giá trị năm khi hoạt động ổn định, vốn, khởi công, lao động từng nhà máy và nhãn nguồn [TC]/[BC-DN]/[BÁO]/[ƯỚC] xem ref `16`.
+
 ---
 
 ## I. TỔNG QUAN

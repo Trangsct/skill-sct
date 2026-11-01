@@ -1,6 +1,6 @@
 ---
 name: cong-ty-tay-bac-vn
-description: "CÔNG TY TÂY BẮC - Công ty TNHH Năng lượng và Điện lực Tây Bắc (MST 5200966576, Giám đốc Trần Trọng Đài, phường Yên Bái, Lào Cai). Kích hoạt: 'Công ty Tây Bắc', 'Tây Bắc', soạn hợp đồng, quyết định, văn bản cho Công ty Tây Bắc; TẬP HUẤN AN TOÀN HÀNG HÓA NGUY HIỂM cho người lái xe, người áp tải (Điều 8 NĐ 161/2024): quyết định cử người, hồ sơ lớp, danh sách, kết quả kiểm tra, biên bản bàn giao, quyết định công nhận, Giấy chứng nhận Phụ lục VI, tài liệu dùng chung, tài liệu bổ sung loại 1 pháo hiệu hàng hải, đề kiểm tra 20 câu, đáp án, hợp đồng người tập huấn 05 năm; Hương Tấn, Toàn Phát TQ. Script dựng cả bộ hồ sơ trong vài phút. Kèm việc khác của Công ty: hợp đồng thi công KCN Phú Xuân, tư vấn CCN Mông Sơn, CCN Bát Xát, giám sát nổ mìn, kho hóa chất Bát Xát."
+description: "CÔNG TY TÂY BẮC - Công ty TNHH Năng lượng và Điện lực Tây Bắc (MST 5200966576, Giám đốc Trần Trọng Đài, phường Yên Bái, Lào Cai). Kích hoạt: 'Công ty Tây Bắc', 'Tây Bắc', soạn hợp đồng, quyết định, văn bản cho Công ty Tây Bắc; TẬP HUẤN AN TOÀN HÀNG HÓA NGUY HIỂM cho người lái xe, người áp tải (Điều 8 NĐ 161/2024): quyết định cử người, hồ sơ lớp, danh sách, kết quả kiểm tra, biên bản bàn giao, quyết định công nhận, Giấy chứng nhận Phụ lục VI, tài liệu dùng chung, tài liệu bổ sung loại 1 pháo hiệu hàng hải, đề kiểm tra 20 câu, đáp án, hợp đồng người tập huấn 05 năm; Hương Tấn, Toàn Phát TQ. Script dựng cả bộ hồ sơ trong vài phút. Kèm việc khác của Công ty: hợp đồng thi công KCN Phú Xuân, tư vấn CCN Mông Sơn, CCN Bát Xát, giám sát nổ mìn, kho hóa chất Bát Xát; rà soát hợp đồng tư vấn thành lập cụm công nghiệp có lợi cho Tây Bắc."
 ---
 
 # cong-ty-tay-bac-vn - Công ty TNHH Năng lượng và Điện lực Tây Bắc
@@ -13,6 +13,7 @@ description: "CÔNG TY TÂY BẮC - Công ty TNHH Năng lượng và Điện l�
 
 - Soạn hợp đồng, quyết định, văn bản đứng tên Công ty Tây Bắc.
 - Tổ chức lớp tập huấn an toàn hàng hóa nguy hiểm (HHNH) cho người lái xe, người áp tải của doanh nghiệp vận tải: dựng trọn bộ hồ sơ theo Điều 8 Nghị định 161/2024/NĐ-CP. Quy trình đã chốt: `references/02-tap-huan-hhnh-quy-trinh.md`.
+- Soạn, rà soát hợp đồng tư vấn lập hồ sơ thành lập cụm công nghiệp (Công ty Tây Bắc là bên tư vấn): khung 8 điều và 9 điều khoản bảo vệ Công ty Tây Bắc: `references/04-hop-dong-tu-van-thanh-lap-ccn.md`; mẫu `vi-du-thuc-te/hop-dong-tu-van-thanh-lap-ccn/`.
 - Tra lại lớp đã tổ chức (số, ngày văn bản, học viên, việc còn dở): `references/03-lop-hhnh-2026-10-huong-tan-toan-phat.md`.
 
 ## II. NGUYÊN TẮC BẮT BUỘC (đã chốt với Bạn, phiên 01/11/2026)

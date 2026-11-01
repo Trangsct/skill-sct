@@ -1,3 +1,7 @@
+## 01/11/2026 (lần 2) — cong-ty-tay-bac-vn 1.1.0: mẫu hợp đồng tư vấn thành lập cụm công nghiệp, điều khoản bảo vệ Công ty Tây Bắc
+
+- Ref 04 mới: khung hợp đồng tư vấn lập hồ sơ thành lập CCN theo NĐ 32/2024 sửa đổi tại NĐ 303/2026; 9 điều khoản bảo vệ bên tư vấn rút từ lần rà soát Hợp đồng tư vấn CCN Bát Xát; mẫu đã bỏ thông tin liên hệ, tài khoản, số tiền.
+
 ## 01/11/2026 — cong-ty-tay-bac-vn 1.0.0 (plugin mới): Công ty TNHH Năng lượng và Điện lực Tây Bắc, tập huấn an toàn hàng hóa nguy hiểm
 
 - Plugin riêng cho Công ty Tây Bắc: thông tin pháp nhân, quy ước số hợp đồng theo ngày ký, danh mục việc đã làm (ref 01).

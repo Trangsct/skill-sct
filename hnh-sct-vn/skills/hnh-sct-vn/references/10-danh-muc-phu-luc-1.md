@@ -78,5 +78,5 @@ Số UN, loại/nhóm, biểu trưng và số hiệu nguy hiểm dưới đây t
 ## 3. Lưu ý sử dụng
 
 - Bảng trên là trích chọn các mặt hàng phổ biến; khi gặp mặt hàng khác, tra trực tiếp Phụ lục I theo tên gọi/số UN (Danh mục có hơn 2.900 dòng).
-- Loại 1 (chất nổ), VLNCN, tiền chất thuốc nổ, loại 6 (chất độc), loại 7 (phóng xạ) không xử lý theo thủ tục này.
+- Loại 1 (chất nổ), VLNCN, loại 6 (chất độc), loại 7 (phóng xạ) không xử lý theo thủ tục này. Tiền chất thuốc nổ thuộc loại 5.1 (amoni nitrat UN 1942 dòng trên; natri clorat UN 1495, kali clorat UN 1485, kali perclorat UN 1489, kali nitrat UN 1486, natri nitrat UN 1498) VẪN xử lý như hàng loại 5 (nguyên tắc 30).
 - Người áp tải: do Danh mục NĐ 161 không có cột ngưỡng khối lượng, áp dụng theo hướng yêu cầu người áp tải cho mọi chuyến HHNH phải cấp phép (xem mục 3a reference 04 và reference 09).

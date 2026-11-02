@@ -1,3 +1,8 @@
+## 02/11/2026 — hnh-sct-vn 1.18.0: kết hợp plugin hóa chất khi thẩm định HHNH; tiền chất thuốc nổ loại 5.1 vẫn cấp Giấy phép
+
+- SKILL.md mục VI-a, nguyên tắc 29 - 33 (ref 19): lớp hóa chất bắt buộc (Luật 69/2025 Điều 38, NĐ 25/2026 Điều 26, 35, SDS); tiền chất loại 5.1 thụ lý như loại 5, song song giấy phép Công an; hợp đồng không ghi VLNCN, tiền chất; phạm vi công văn hoàn thiện; giọng văn.
+- Sửa các câu loại trừ tiền chất thuốc nổ chung chung ở SKILL.md và ref 01, 07, 08, 09, 10, 11, 15; ref 16 mục 13; sổ lỗi L001; rule check_facts `hnh-tien-chat-loai-5-van-cap-phep`; tệp trạng thái hồ sơ mới.
+
 ## 01/11/2026 (lần 5) — cong-ty-tay-bac-vn 1.2.0: hợp đồng giám sát ảnh hưởng nổ mìn đầu vào, đầu ra
 
 - Ref 05 mới: hợp đồng khung với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Tây Bắc thuê đo) và hợp đồng Tây Bắc nhận đo cho đơn vị nổ mìn; điều khoản bảo vệ Tây Bắc, khớp nối hai hợp đồng; mẫu ẩn thông tin liên hệ, tài khoản, giá trị.

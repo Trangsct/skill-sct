@@ -64,7 +64,7 @@ Trả lời: Khi cung cấp bản sao không đúng bản chính/thông tin sai 
 
 - Luôn nêu đúng căn cứ (Điều/khoản NĐ 161/2024/NĐ-CP; Điều 8 TT 38/2025/TT-BCT sửa đổi bởi Điều 25 TT 26/2026/TT-BCT; Luật 36/2024/QH15; Luật Đường bộ 35/2024/QH15 khi liên quan giấy vận tải/vận tải nội bộ) nhưng không trích dẫn số/ngày văn bản chưa xác minh. KHÔNG dẫn Điều 3 TT 15/2026 (đã bị bãi bỏ).
 - Không tự thêm yêu cầu giấy tờ ngoài Điều 15 NĐ 161.
-- Khi câu hỏi vượt thẩm quyền Sở (loại 6, loại 7, VLNCN, tiền chất thuốc nổ, hóa chất BVTV), hướng dẫn đúng đầu mối thay vì trả lời sai. LƯU Ý: loại 5 và loại 8 nay đã thuộc thẩm quyền UBND cấp tỉnh (Sở Công Thương), không còn chuyển Cục Hóa chất.
+- Khi câu hỏi vượt thẩm quyền Sở (loại 6, loại 7, VLNCN, hóa chất BVTV), hướng dẫn đúng đầu mối thay vì trả lời sai. Tiền chất thuốc nổ thuộc loại 5.1 (amoni nitrat, clorat, perclorat, nitrat) thì Sở cấp Giấy phép HHNH loại 5; doanh nghiệp còn phải có giấy phép vận chuyển tiền chất thuốc nổ của Công an (nguyên tắc 30). LƯU Ý: loại 5 và loại 8 nay đã thuộc thẩm quyền UBND cấp tỉnh (Sở Công Thương), không còn chuyển Cục Hóa chất.
 - Với câu hỏi về số/ngày Quyết định ủy quyền của UBND tỉnh: chỉ nêu khi đã có bản chính thức; nếu còn dự thảo thì nói rõ đang hoàn thiện.
 
 

@@ -689,6 +689,17 @@ RULES = [
         "only": ["hnh-sct-vn"],
     },
     {
+        "id": "hnh-tien-chat-loai-5-van-cap-phep",
+        # Bài học 02/11/2026 (hnh-sct-vn nguyên tắc 30, sổ lỗi L001): "trừ VLNCN, tiền chất thuốc nổ" chỉ loại trừ trong loại 1;
+        # tiền chất thuốc nổ loại 5.1 (amoni nitrat, clorat, perclorat, nitrat) VẪN cấp Giấy phép HHNH loại 5.
+        # Dòng nói tiền chất thuốc nổ "không thuộc thủ tục / không thụ lý / chuyển đầu mối" mà không giới hạn "loại 1" thì báo.
+        "pattern": r"^(?!.*(?:[Ll]oại 1|5\.1|[Ll]oại 5|lịch sử|L001)).*[Tt]iền chất thuốc nổ[^\n]{0,80}(?:KHÔNG thuộc|không thuộc|không thụ lý|chuyển đúng đầu mối|ngoài thẩm quyền)",
+        "why": "Tiền chất thuốc nổ thuộc loại 5.1 vẫn cấp Giấy phép vận chuyển HHNH loại 5 (khoản 1 Điều 8 TT 38/2025 sửa tại TT 26/2026; tiền lệ 516/GP-BCT, 112/GP-HC, 5869/GP-SCT) — phần 'trừ tiền chất thuốc nổ' chỉ áp trong loại 1 (hnh-sct-vn nguyên tắc 30).",
+        "since": "2026-11-02",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
         "id": "data360x-sau-10-10-2026-la-egov",
         # Bạn báo 21/10/2026: từ 10/10/2026 văn bản đi, đến của Sở nằm trên EGOV (egov1.laocai.gov.vn); Data360X dừng ở lượt quét 10/10.
         # Dòng mô tả dây chuyền Data360X như đang chạy hằng ngày/hằng tuần mà không nhắc EGOV hay mốc 10/10 thì nhắc rà lại.

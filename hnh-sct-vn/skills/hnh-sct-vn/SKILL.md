@@ -1,6 +1,6 @@
 ---
 name: hnh-sct-vn
-description: "VẬN CHUYỂN HÀNG HÓA NGUY HIỂM (HHNH), Sở Công Thương Lào Cai. Kích hoạt: giấy phép vận chuyển HHNH, GP-SCT, thẩm định hồ sơ, loại 1 (trừ VLNCN, tiền chất thuốc nổ) 2 3 4 5 8 9, xăng dầu, axit, NH3, LPG, người áp tải, NĐ 161/2024. 4 nghiệp vụ: (1) thẩm định, tham mưu cấp/điều chỉnh/cấp lại/thu hồi Giấy phép - cả 7 loại do Giám đốc Sở ký theo ủy quyền QĐ 1696 (sửa đổi tại QĐ 2848/QĐ-UBND ngày 14/8/2026), mã TTHC 1.013340/50/51 và 1.014967/68/69; (2) hướng dẫn doanh nghiệp thủ tục, hồ sơ, điều kiện phương tiện, người lái xe, người áp tải, tập huấn, bao bì, biểu trưng; (3) kiểm tra chuyên ngành (NĐ 217/2025); (4) báo cáo. Kèm văn bản gốc, biểu mẫu, checklist, ví dụ thực tế: Giấy phép đã cấp, biên bản thẩm định, bộ hồ sơ doanh nghiệp mẫu chuẩn nhóm loại 8 (axit ăn mòn, công-ten-nơ bồn ISO tank). Chuyên sâu xuyên biên giới Việt - Trung, cửa khẩu Kim Thành. Từ khóa thêm: NĐ 105/2025, TT 26/2026, Điều 51 Luật 36/2024, QĐ 1213/QĐ-BCT, Phụ lục I."
+description: "VẬN CHUYỂN HÀNG HÓA NGUY HIỂM (HHNH), Sở Công Thương Lào Cai. Kích hoạt: giấy phép vận chuyển HHNH, GP-SCT, thẩm định hồ sơ, loại 1 (trừ VLNCN, tiền chất thuốc nổ) 2 3 4 5 8 9, xăng dầu, axit, NH3, LPG, người áp tải, NĐ 161/2024. 4 nghiệp vụ: (1) thẩm định, tham mưu cấp/điều chỉnh/cấp lại/thu hồi Giấy phép - cả 7 loại do Giám đốc Sở ký theo ủy quyền QĐ 1696 (sửa đổi tại QĐ 2848/QĐ-UBND ngày 14/8/2026), mã TTHC 1.013340/50/51 và 1.014967/68/69; (2) hướng dẫn doanh nghiệp thủ tục, hồ sơ, điều kiện phương tiện, người lái xe, người áp tải, tập huấn, bao bì, biểu trưng; (3) kiểm tra chuyên ngành (NĐ 217/2025); (4) báo cáo. Kèm văn bản gốc, biểu mẫu, checklist, ví dụ thực tế: Giấy phép đã cấp, biên bản thẩm định, bộ hồ sơ doanh nghiệp mẫu chuẩn nhóm loại 8 (axit ăn mòn, công-ten-nơ bồn ISO tank). Chuyên sâu xuyên biên giới Việt - Trung, cửa khẩu Kim Thành. Kết hợp hc-sct-vn; tiền chất 5.1 (amoni nitrat) vẫn cấp loại 5. Từ khóa thêm: NĐ 105/2025, TT 26/2026, Điều 51 Luật 36/2024, QĐ 1213/QĐ-BCT, Phụ lục I."
 ---
 
 # hnh-sct-vn - Plugin lớn HHNH: cấp phép, thẩm định, trả lời DN, kiểm tra, báo cáo (Sở Công Thương Lào Cai)
@@ -11,7 +11,7 @@ description: "VẬN CHUYỂN HÀNG HÓA NGUY HIỂM (HHNH), Sở Công Thương 
 
 Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 
-- Thẩm định hồ sơ và tham mưu cấp mới, cấp điều chỉnh, cấp lại, thu hồi Giấy phép vận chuyển hàng hóa nguy hiểm (sau đây gọi tắt là Giấy phép) loại 1 (trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ), loại 2, loại 3, loại 4, loại 5, loại 8, loại 9. (Cập nhật: từ 29/5/2026 loại 5 và loại 8 cũng do UBND cấp tỉnh cấp - xem mục III.)
+- Thẩm định hồ sơ và tham mưu cấp mới, cấp điều chỉnh, cấp lại, thu hồi Giấy phép vận chuyển hàng hóa nguy hiểm (sau đây gọi tắt là Giấy phép) loại 1 (trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ), loại 2, loại 3, loại 4, loại 5, loại 8, loại 9. (Cập nhật: từ 29/5/2026 loại 5 và loại 8 cũng do UBND cấp tỉnh cấp - xem mục III.) Cụm "trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ" chỉ loại trừ TRONG loại 1; tiền chất thuốc nổ thuộc loại 5, nhóm 5.1 (amoni nitrat UN 1942, natri clorat, kali clorat, kali perclorat, kali nitrat, natri nitrat) VẪN thuộc thủ tục này (nguyên tắc 30).
 - Trả lời, giải đáp, hướng dẫn cho doanh nghiệp, hợp tác xã, hộ kinh doanh trên địa bàn tỉnh về thủ tục, hồ sơ, điều kiện.
 - Soạn công văn hướng dẫn, thông báo bổ sung hồ sơ, tờ trình, quyết định, báo cáo liên quan đến lĩnh vực vận chuyển hàng hóa nguy hiểm.
 - Xác định thẩm quyền cấp phép, phân định ranh giới với cơ quan khác (Bộ Công an, Bộ Quốc phòng, Cục Hóa chất - Bộ Công Thương, cơ quan năng lượng nguyên tử).
@@ -31,8 +31,9 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 | Soạn văn bản kết quả (CV, GP, TTr, QĐ, BC) | `vbhc-vn` | Thể thức NĐ 30/2020, template Chế độ A/B, tên file chuẩn |
 | Nhận PDF văn bản đến (hồ sơ DN, văn bản chỉ đạo) | `vbhc-pdf-reader-vn` | Đọc đúng số/ngày/người ký từ file gốc |
 | Xác định người ký, dòng Lưu CN, phòng chủ trì | `sct-laocai-org-vn` | Phân công BGĐ, chuyên viên QLCN |
-| DN vận chuyển hóa chất loại 5, 8, khí độc 2.3 (NH3, clo, axit): kiểm tra nghĩa vụ hóa chất song song | `hc-sct-vn` | GCN đủ điều kiện SX/KD hóa chất; Kế hoạch phòng ngừa, ứng phó sự cố hóa chất; khai báo hóa chất nhập khẩu; huấn luyện an toàn hóa chất (Luật 69/2025, NĐ 24-26/2026). Phương án ứng cứu "sự cố hóa chất" điểm d khoản 1 Điều 15 NĐ 161 đối chiếu chéo với KH phòng ngừa sự cố hóa chất của DN; SDS/MSDS dùng chung để phân loại |
-| VLNCN, tiền chất thuốc nổ (loại 1 đã trừ) | `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hl-vlncn-sct-vn` | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT - pháp luật chuyên ngành riêng; XNK VLNCN thuộc tỉnh từ 01/7/2026 (Điều 27 TT 26/2026) |
+| ⭐ MỌI hồ sơ hàng là hóa chất (loại 5, 8, khí độc 2.3: NH3, clo, axit, chất oxy hóa) - BẮT BUỘC thẩm định, nhận xét kết hợp (nguyên tắc 29, mục VI-a) | `hc-sct-vn` | GCN đủ điều kiện SX/KD hóa chất; Kế hoạch phòng ngừa, ứng phó sự cố hóa chất; khai báo hóa chất nhập khẩu; huấn luyện an toàn hóa chất (Luật 69/2025, NĐ 24-26/2026). Phương án ứng cứu "sự cố hóa chất" điểm d khoản 1 Điều 15 NĐ 161 đối chiếu chéo với KH phòng ngừa sự cố hóa chất của DN; SDS/MSDS dùng chung để phân loại |
+| VLNCN (loại 1, đã trừ khỏi thủ tục này) | `sd-vlncn-sct-vn`, `kho-vlncn-sct-vn`, `hl-vlncn-sct-vn` | GP sử dụng VLNCN, PANM, kho, huấn luyện KTAT - pháp luật chuyên ngành riêng; XNK VLNCN thuộc tỉnh từ 01/7/2026 (Điều 27 TT 26/2026) |
+| Tiền chất thuốc nổ loại 5.1 (amoni nitrat, clorat, perclorat, nitrat) | `sd-vlncn-sct-vn` (Luật 42/2024 Điều 43, 47; TT 75/2024/TT-BCA) | Sở VẪN cấp Giấy phép HHNH loại 5; song song là giấy phép vận chuyển tiền chất thuốc nổ của Công an và giấy phép nhập khẩu - nguyên tắc 30 |
 | Điều kiện PCCC vận chuyển, Điều 44 NĐ 105/2025, cửa hàng xăng dầu/kho LPG của DN | `pccc-sct-vn` | Nội dung chi tiết Điều 44; PCCC 8 lĩnh vực ngành Công Thương |
 | Điểm đến/kho hàng trong KCN, CCN (Tằng Loỏng...) | `kcn-ccn-vn` | Vị trí xã, hiện trạng, đầu mối BQL |
 | Lập biên bản VPHC, ra QĐ xử phạt | `xp-sct-vn` (plugin riêng) | Toàn bộ trình tự xử phạt |
@@ -79,14 +80,15 @@ Phân định thẩm quyền cấp Giấy phép hiện hành theo loại hàng:
 |---|---|
 | Loại 1 (trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ), loại 2, loại 3, loại 4, loại 9 | UBND cấp tỉnh (Lào Cai: ủy quyền Giám đốc Sở Công Thương) cho tổ chức, cá nhân đặt trụ sở chính hoặc chi nhánh trên địa bàn tỉnh - khoản 2 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026) |
 | Loại 5, loại 8 | **UBND cấp tỉnh** - khoản 1 Điều 8 TT 38/2025 (sửa bởi Điều 25 TT 26/2026), hiệu lực 29/5/2026; khoản 1 KHÔNG kèm điều kiện trụ sở/chi nhánh. Lào Cai: **từ 14/8/2026 Giám đốc Sở ký theo ủy quyền bổ sung tại QĐ 2848/QĐ-UBND (mục II.15a)**, mã TTHC 1.013340/1.013350/1.013351. Giai đoạn 29/5-13/8/2026: Sở thẩm định, trình UBND tỉnh ký; trước 29/5/2026 do Cục Hóa chất cấp |
-| Vật liệu nổ công nghiệp, tiền chất thuốc nổ (thuộc loại 1) | Theo pháp luật chuyên ngành về vật liệu nổ công nghiệp (skill `pccc-sct-vn` mục VLNCN) - KHÔNG thuộc thủ tục này |
+| Vật liệu nổ công nghiệp, tiền chất thuốc nổ xếp trong loại 1 | Theo pháp luật về vũ khí, vật liệu nổ, công cụ hỗ trợ, tiền chất thuốc nổ (khoản 3 Điều 1 NĐ 161; plugin `sd-vlncn-sct-vn`) - KHÔNG thuộc thủ tục này |
+| Tiền chất thuốc nổ thuộc loại 5, nhóm 5.1 (amoni nitrat UN 1942, natri clorat UN 1495, kali clorat UN 1485, kali perclorat UN 1489, kali nitrat UN 1486, natri nitrat UN 1498) | **UBND cấp tỉnh như hàng loại 5** (khoản 1 Điều 8) - Lào Cai: Giám đốc Sở ký theo ủy quyền; kèm câu "không thay thế giấy phép vận chuyển, giấy phép nhập khẩu tiền chất thuốc nổ" (tiền lệ 516/GP-BCT, 112/GP-HC, 5869/GP-SCT - nguyên tắc 30) |
 | Loại 6 (chất độc, chất gây nhiễm bệnh) | Theo phân công tại NĐ 161 (Bộ Y tế, Bộ Nông nghiệp và Môi trường tùy nhóm) |
 | Loại 7 (chất phóng xạ) | Theo pháp luật về năng lượng nguyên tử |
 | Hóa chất bảo vệ thực vật | UBND cấp tỉnh (theo khoản 4 Điều 14 NĐ 161 - đầu mối Sở Nông nghiệp và Môi trường, không thuộc Sở Công Thương) |
 | Tổ chức, doanh nghiệp thuộc Bộ Quốc phòng | Bộ Quốc phòng |
 
 **Nguyên tắc bất biến về thẩm quyền:**
-- Phạm vi Sở Công Thương Lào Cai xử lý gồm loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 - loại 1,2,3,4,9 Sở ký theo ủy quyền QĐ 1696; loại 5, 8 Sở ký theo ủy quyền bổ sung tại QĐ 2848/QĐ-UBND từ 14/8/2026. Câu hỏi về loại 6, loại 7, hóa chất BVTV, VLNCN/tiền chất thuốc nổ phải chuyển đúng đầu mối, không tự nhận.
+- Phạm vi Sở Công Thương Lào Cai xử lý gồm loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 - loại 1,2,3,4,9 Sở ký theo ủy quyền QĐ 1696; loại 5, 8 Sở ký theo ủy quyền bổ sung tại QĐ 2848/QĐ-UBND từ 14/8/2026. Câu hỏi về loại 6, loại 7, hóa chất BVTV, VLNCN và tiền chất thuốc nổ xếp trong loại 1 phải chuyển đúng đầu mối, không tự nhận. Tiền chất thuốc nổ loại 5.1 thì Sở thụ lý như hàng loại 5, KHÔNG từ chối vì là tiền chất (nguyên tắc 30; lỗi đã mắc - sổ lỗi L001).
 - Điều kiện địa bàn: tổ chức, cá nhân phải đặt **trụ sở chính HOẶC chi nhánh** trên địa bàn tỉnh Lào Cai.
 - Giấy phép **có hiệu lực trên toàn quốc** (không bị giới hạn trong tỉnh), thời hạn theo đề nghị của người vận tải nhưng **tối đa 24 tháng và không quá niên hạn sử dụng phương tiện**.
 
@@ -115,10 +117,11 @@ Mã TTHC đã công bố (theo Phụ lục QĐ 2848/QĐ-UBND, nguồn QĐ 1213/Q
 - `13-bao-cao-thong-ke.md` - **Báo cáo cấp trên:** các loại báo cáo và đầu mối; bộ chỉ tiêu thống kê chuẩn; khung báo cáo định kỳ/đột xuất. ĐỌC khi lập báo cáo.
 - `14-bo-mau-van-ban.md` - **Bộ mẫu văn bản kết quả:** thông báo bổ sung, từ chối, tờ trình cấp phép, thông báo CSGT, quyết định thu hồi, trả lời doanh nghiệp, quyết định/kế hoạch kiểm tra, biên bản kiểm tra, chuyển hồ sơ, báo cáo; kèm bảng tra "việc→mẫu→reference". (Biên bản VPHC/QĐ XPVPHC thuộc plugin xử phạt riêng.)
 - `15-muc-luc-van-ban-goc.md` - **Mục lục tra cứu bộ văn bản gốc** kèm trong `van-ban-goc/` và `vi-du-thuc-te/`: bảng ánh xạ từng file → nội dung → reference dùng. ĐỌC khi cần mở nguyên văn một văn bản.
-- `16-thuc-tien-cap-phep-sct.md` - **Thực tiễn cấp phép tại Sở (đúc kết hồ sơ đã xử lý 2026):** bảng tiền lệ nội bộ (An Khang, Thái Thịnh, Bắc Cường, Apatit, Sợi Phương Nam, HNL...); thể thức Giấy phép thực tế (số /GP - SCT, người ký, nơi nhận, Lưu VT, BP1C, CN); quy trình 6 bước sau ủy quyền; các quyết định nghiệp vụ đã chốt (thời hạn GP - từ 08/10/2026 đúng khoản 3 Điều 13 NĐ 161, khống chế theo kiểm định là lịch sử; GPKDVT; lỗi phân loại điển hình). mục 10 - bộ hồ sơ mẫu loại 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam (lỗi lặp lại của đơn vị, trọng tải xe biển Trung Quốc, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp). mục 11 - vụ amoniac khan bằng container bồn (02/10/2026): cách lập bảng phương tiện và thiết bị chứa hàng, phép tính khối lượng thấp nhất, 05 điểm soát riêng cho container bồn. mục 12 - bộ mẫu chuẩn 08/10/2026 (Mẫu 7 Biên bản gọn, Mẫu 8 Giấy phép container bồn), các quyết định Bạn chốt phiên 08/10. ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.
+- `16-thuc-tien-cap-phep-sct.md` - **Thực tiễn cấp phép tại Sở (đúc kết hồ sơ đã xử lý 2026):** bảng tiền lệ nội bộ (An Khang, Thái Thịnh, Bắc Cường, Apatit, Sợi Phương Nam, HNL...); thể thức Giấy phép thực tế (số /GP - SCT, người ký, nơi nhận, Lưu VT, BP1C, CN); quy trình 6 bước sau ủy quyền; các quyết định nghiệp vụ đã chốt (thời hạn GP - từ 08/10/2026 đúng khoản 3 Điều 13 NĐ 161, khống chế theo kiểm định là lịch sử; GPKDVT; lỗi phân loại điển hình). mục 10 - bộ hồ sơ mẫu loại 5 và mẫu riêng Chi nhánh số 1 Sợi Phương Nam (lỗi lặp lại của đơn vị, trọng tải xe biển Trung Quốc, chữa cháy chất oxy hóa, quy tắc bôi đỏ bản giao doanh nghiệp). mục 11 - vụ amoniac khan bằng container bồn (02/10/2026): cách lập bảng phương tiện và thiết bị chứa hàng, phép tính khối lượng thấp nhất, 05 điểm soát riêng cho container bồn. mục 12 - bộ mẫu chuẩn 08/10/2026 (Mẫu 7 Biên bản gọn, Mẫu 8 Giấy phép container bồn), các quyết định Bạn chốt phiên 08/10. mục 13 - vụ 06 tiền chất thuốc nổ loại 5.1 (amoni nitrat và 05 muối clorat, perclorat, nitrat) trên 14 tổ hợp xe biển Trung Quốc (11/2026): hai giấy phép song song, lớp hóa chất, hợp đồng, sơ mi rơ moóc chở container chở hàng bao, niên hạn xe Trung Quốc. ĐỌC TRƯỚC KHI SOẠN bất kỳ văn bản kết quả nào.
 - `17-xuyen-bien-gioi-viet-trung.md` - **Hồ sơ có yếu tố nước ngoài/xuyên biên giới Việt - Trung (chuyên sâu):** cây quyết định thẩm quyền (khoản 1 vs khoản 2 Điều 8 - loại 5,8 không có điều kiện địa bàn); giấy phép loại D của Sở Xây dựng; checklist riêng cho xe biển Trung Quốc; tiền lệ 4 vụ việc. ĐỌC khi hồ sơ có xe biển nước ngoài, pháp nhân nước ngoài hoặc tuyến qua cửa khẩu.
 - `18-khung-phap-ly-tong-hop.md` - **Khung pháp lý HHNH tổng hợp 19 văn bản** (toàn văn diễn giải, mốc hiệu lực, chuyển tiếp; tách từ SKILL.md mục II 02/9/2026).
-- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **28 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
+- `19-nguyen-tac-nghiep-vu-bat-bien.md` - ⭐ **33 nguyên tắc nghiệp vụ bất biến** (toàn văn; BẮT BUỘC đọc trước khi thẩm định/soạn — tách từ SKILL.md mục VII 02/9/2026).
+- `so-loi-tu-ghi.md` - **Sổ lỗi tự ghi** của plugin (lỗi Bạn chỉ ra trong phiên, mỗi lỗi một mục L001, L002…). ĐỌC trước khi thẩm định, soạn văn bản.
 - `20-csdl-gp-hhnh-da-cap.md` - **Ảnh chụp tự động CSDL trang vlncn-laocai** (máy sinh, không sửa tay, đồng bộ 18h40 hằng ngày): bảng mọi GP vận chuyển HHNH Sở đã phát hành có trên trang (số, ngày, hạn, loại, tổ chức, mã số DN, hàng hóa - số UN, số phương tiện, liên kết PDF ký số), thống kê theo loại/tháng, cách trang hỗ trợ nghiệp vụ. ĐỌC khi cần tra "GP số mấy, cấp ngày nào, còn hạn không, tổ chức nào đã có GP".
 - `mau-ho-so/` - Bộ biểu mẫu dựng trực tiếp từ hồ sơ thực tế (giữ nguyên cấu trúc, nội dung đã chuyển thành placeholder): Mẫu 1 Giấy đề nghị (Phụ lục IV), Mẫu 2 Bảng kê phương tiện, Mẫu 3 Bảng kê người lái xe + người áp tải, Mẫu 4 Phương án tổ chức vận chuyển (Phụ lục V), Mẫu 5 Giấy phép vận chuyển HHNH của Sở Công Thương, Mẫu 6 Biên bản thẩm định hồ sơ cấp Giấy phép (văn bản NỘI BỘ của Sở, bản chuẩn văn phong 24/7/2026 - xe biển Việt Nam, thẩm định tại trụ sở doanh nghiệp; khi dùng cho vụ mới thay toàn bộ thông tin doanh nghiệp/phương tiện/nhân sự theo hồ sơ thực tế và cập nhật tên thành viên Đoàn theo phân công hiện hành), kèm `00-huong-dan-lap-ho-so.md`. **Từ 08/10/2026 dựng Biên bản thẩm định từ Mẫu 7 (bản gọn 4 trang) và dựng Giấy phép cho hàng đi bằng container bồn từ Mẫu 8** - hai mẫu đã ẩn danh, bảng căn bằng khổ chữ; Mẫu 5, Mẫu 6 chỉ còn để đối chiếu (reference 16 mục 12, nguyên tắc 25 - 27).
 
@@ -153,14 +156,27 @@ Tra nhanh: nhận yêu cầu → xác định nghiệp vụ → đọc reference
 | *(Thu hồi Giấy phép)* | Vi phạm thuộc Điều 17 NĐ 161 | 06 (thu hồi) | Mẫu 6 (reference 14) |
 | *(Xử phạt VPHC)* | Cần lập biên bản VPHC, ra QĐ xử phạt | → **plugin xử phạt riêng `xp-sct-vn`** | (plugin riêng) |
 
-**Ba câu hỏi gác cổng cho mọi nghiệp vụ** (trả lời trước khi làm):
-1. **Đúng thẩm quyền không?** Loại hàng thuộc 1 (trừ VLNCN/tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 và đối tượng đặt trụ sở/chi nhánh tại Lào Cai (điều kiện địa bàn chỉ áp cho nhóm 1,2,3,4,9)? Người ký đúng (cả 7 loại → lãnh đạo Sở ký theo ủy quyền QĐ 1696 + QĐ 2848; từ 05/10/2026 dự kiến KT.GĐ - PGĐ Nguyễn Đình Chiến ký (trước đó PGĐ Thuân); riêng hồ sơ loại 5,8 tiếp nhận trước 14/8/2026 → trình UBND tỉnh)? (mục III, reference 16)
+**Bốn câu hỏi gác cổng cho mọi nghiệp vụ** (trả lời trước khi làm):
+1. **Đúng thẩm quyền không?** Loại hàng thuộc 1 (trừ VLNCN/tiền chất thuốc nổ xếp trong loại 1; tiền chất loại 5.1 vẫn thụ lý - nguyên tắc 30), 2, 3, 4, 5, 8, 9 và đối tượng đặt trụ sở/chi nhánh tại Lào Cai (điều kiện địa bàn chỉ áp cho nhóm 1,2,3,4,9)? Người ký đúng (cả 7 loại → lãnh đạo Sở ký theo ủy quyền QĐ 1696 + QĐ 2848; từ 05/10/2026 dự kiến KT.GĐ - PGĐ Nguyễn Đình Chiến ký (trước đó PGĐ Thuân); riêng hồ sơ loại 5,8 tiếp nhận trước 14/8/2026 → trình UBND tỉnh)? (mục III, reference 16)
 2. **Đúng văn bản hiện hành không?** Đã áp chuỗi thẩm quyền mới (loại 5, 8 về tỉnh từ 29/5/2026; ủy quyền cho Giám đốc Sở từ 14/8/2026 tại QĐ 2848 - mục II.15a); mã TTHC đúng nhóm (loại 5,8 dùng 1.013340/50/51, KHÔNG dùng 1.01496x); với kiểm tra dùng NĐ 217/2025 ("kiểm tra" không phải "thanh tra")?
 3. **Có số/ngày nào đang bịa không?** Kế hoạch/quyết định kiểm tra, số văn bản nội bộ - đã xác minh chưa? Căn cứ ủy quyền dẫn đúng "QĐ 1696/QĐ-UBND ngày 15/5/2026 (được sửa đổi, bổ sung tại QĐ 2848/QĐ-UBND ngày 14/8/2026)"? (mục VII dưới đây, điểm 10)
+4. **Đã chạy lớp hóa chất chưa?** Hàng là hóa chất (loại 5, 8, 2.3…) thì đã đối chiếu Biện pháp phòng ngừa, ứng phó sự cố hóa chất trong vận chuyển, Điều 26 NĐ 25/2026, Phiếu an toàn hóa chất và tình trạng hóa chất của doanh nghiệp theo `hc-sct-vn` chưa? (mục VI-a, nguyên tắc 29)
+
+## VI-a. BẮT BUỘC KẾT HỢP PLUGIN HÓA CHẤT `hc-sct-vn` KHI THẨM ĐỊNH, NHẬN XÉT (Bạn chốt 02/11/2026)
+
+Bạn chốt: "phải kết hợp cả hóa chất để nhận xét và thẩm định hồ sơ". Hồ sơ HHNH mà hàng là hóa chất (loại 5, loại 8, khí độc 2.3, và hóa chất ở các loại khác) thẩm định hai lớp: lớp 1 là Nghị định 161/2024 (hồ sơ Điều 15, điều kiện Điều 6 - 10); lớp 2 là pháp luật hóa chất áp cho khâu vận chuyển, đọc toàn văn trong `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/` (Luật Hóa chất 69/2025/QH15, Nghị định 25/2026/NĐ-CP, Nghị định 24/2026/NĐ-CP) và ref 06, 12, 16 của plugin đó. Danh mục soát lớp 2 (chi tiết nguyên tắc 29):
+
+| Điểm soát | Căn cứ | Đưa vào công văn hoàn thiện? |
+|---|---|---|
+| Biện pháp phòng ngừa, ứng phó sự cố hóa chất trong vận chuyển: ban hành trước khi vận chuyển, mang theo xe; đủ 04 nội dung | điểm c khoản 1 Điều 38 Luật 69/2025; điểm b khoản 1, khoản 3 Điều 35 NĐ 25/2026; điểm d khoản 1 Điều 15 NĐ 161 | Có |
+| Bao bì, nhãn, trang bị bảo hộ và thiết bị ứng phó trên từng xe, kiểm tra phương tiện trước chuyến | khoản 3 - 7 Điều 26 NĐ 25/2026; Điều 6, 7 NĐ 161 | Có |
+| Phương án khớp Phiếu an toàn hóa chất: phương tiện chữa cháy, chất kỵ nhau khi xếp, dỡ, bảo hộ, thu gom nước chữa cháy; nồng độ để tra đúng dòng Phụ lục I | SDS của doanh nghiệp; khoản 1, 2 Điều 10 NĐ 161 | Có |
+| Kho đích: ngưỡng Phụ lục IV NĐ 24/2026, Kế hoạch phòng ngừa, ứng phó sự cố hóa chất đã phê duyệt, GCN kinh doanh hóa chất, điều kiện kinh doanh tiền chất | Điều 37, khoản 2 Điều 39 Luật 69/2025; điểm c khoản 3 Điều 43 Luật 42/2024 | KHÔNG - ghi Biên bản, kế hoạch kiểm tra, công văn riêng theo đường hóa chất (nguyên tắc 32) |
+| Lịch sử hóa chất của doanh nghiệp (từ chối GCN, Kế hoạch chưa được thông qua…) | `hc-sct-vn` ref 16, 17; sổ theo dõi của Phòng | KHÔNG - dùng để chọn trọng tâm nhận xét (dỡ hàng, lưu kho) và kiểm tra sau |
 
 ## VII. NGUYÊN TẮC NGHIỆP VỤ BẤT BIẾN — ⭐ BẮT BUỘC đọc `references/19-nguyen-tac-nghiep-vu-bat-bien.md` trước khi thẩm định / soạn văn bản
 
-Toàn văn 28 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
+Toàn văn 33 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để định vị, KHÔNG được coi là đủ.
 
 - **1** — Số lượng hồ sơ: 01 bộ
 - **2** — Hình thức nộp
@@ -190,9 +206,14 @@ Toàn văn 28 nguyên tắc ở ref 19; SKILL.md chỉ giữ mục lục để �
 - **26** — Biên bản thẩm định viết ngắn gọn - Mẫu 7 bản gọn, chuẩn từ 08/10/2026
 - **27** — Bảng trong Biên bản, Giấy phép rộng đúng bằng khổ chữ (9071 dxa)
 - **28** — KHÔNG cấp trùng phương tiện cho các đơn vị khác nhau: soát biển số với mọi Giấy phép còn hiệu lực trước khi thẩm định
+- **29** — Hàng là hóa chất: thẩm định, nhận xét kết hợp plugin `hc-sct-vn` (mục VI-a)
+- **30** — Tiền chất thuốc nổ loại 5.1 VẪN cấp Giấy phép HHNH loại 5, song song giấy phép của Công an; câu "không thay thế…"
+- **31** — Hợp đồng trong hồ sơ không ghi "vật liệu nổ công nghiệp", "tiền chất thuốc nổ"; hợp đồng với chủ xe ghi biển số, có đủ giấy ủy quyền
+- **32** — Công văn hoàn thiện chỉ nêu điều thuộc thủ tục vận chuyển; nghĩa vụ kho đích, hồ sơ hóa chất cũ xử lý đường khác
+- **33** — Giọng văn công văn hoàn thiện hồ sơ HHNH: giọng chỉ đạo, tổng quan, không quá chi tiết
 
 ## VIII. BỐI CẢNH LÀO CAI
 
 - Đối tượng điển hình trên địa bàn: vận chuyển oxy lỏng, nitơ lỏng, khí công nghiệp (loại 2); xăng, dầu, nhiên liệu lỏng dễ cháy (loại 3); LPG/LNG/CNG (loại 2); một số hóa chất công nghiệp.
 - Lào Cai là tỉnh biên giới với Trung Quốc (cửa khẩu quốc tế Lào Cai, Kim Thành) - cần lưu ý quy định vận chuyển xuyên biên giới (Nghị định thư Việt - Trung) khi doanh nghiệp có hoạt động qua cửa khẩu.
-- Vật liệu nổ công nghiệp và tiền chất thuốc nổ (phục vụ khai thác apatit, đá, khoáng sản) là lĩnh vực riêng do Phó Giám đốc Nguyễn Đình Chiến phụ trách (từ 05/10/2026, QĐ 6320/QĐ-SCT), theo pháp luật chuyên ngành VLNCN - KHÔNG thuộc thủ tục cấp phép vận chuyển HHNH loại 1, 2, 3, 4, 9 này (loại 1 đã trừ VLNCN, tiền chất thuốc nổ).
+- Vật liệu nổ công nghiệp (phục vụ khai thác apatit, đá, khoáng sản) là lĩnh vực riêng do Phó Giám đốc Nguyễn Đình Chiến phụ trách (từ 05/10/2026, QĐ 6320/QĐ-SCT), theo pháp luật chuyên ngành VLNCN - KHÔNG thuộc thủ tục cấp phép vận chuyển HHNH. Tiền chất thuốc nổ nhập qua Cửa khẩu quốc tế Lào Cai (amoni nitrat và các muối clorat, perclorat, nitrat - loại 5.1) thì VẪN cấp Giấy phép vận chuyển HHNH loại 5 (nguyên tắc 30), song song với giấy phép của Công an.

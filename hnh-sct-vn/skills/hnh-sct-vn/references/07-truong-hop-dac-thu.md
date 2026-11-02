@@ -45,7 +45,8 @@ Khi cấp theo từng chuyến hàng, người vận tải phải cung cấp th�
 | LPG (gas) | Loại 2 | Miễn cấp nếu tổng khối lượng <2.250 kg |
 | Hóa chất công nghiệp ăn mòn (axit, xút, hypoclorit...) | Loại 8 | Từ 29/5/2026 thuộc UBND cấp tỉnh (khoản 1 Điều 8 - không kèm điều kiện địa bàn); Lào Cai: từ 14/8/2026 Giám đốc Sở ký theo ủy quyền QĐ 2848/QĐ-UBND (ref 09 mục 3b). Trước 29/5/2026: Cục Hóa chất |
 | Hóa chất oxi hóa, peroxit hữu cơ (kali permanganat...) | Loại 5 | Như loại 8 - UBND cấp tỉnh từ 29/5/2026; Giám đốc Sở ký từ 14/8/2026 (QĐ 2848) |
-| Vật liệu nổ công nghiệp, tiền chất thuốc nổ (khai thác apatit, đá) | Loại 1 (đã trừ) | KHÔNG thuộc thủ tục này - pháp luật chuyên ngành VLNCN |
+| Vật liệu nổ công nghiệp (khai thác apatit, đá) | Loại 1 (đã trừ) | KHÔNG thuộc thủ tục này - pháp luật chuyên ngành VLNCN |
+| Tiền chất thuốc nổ: amoni nitrat, natri clorat, kali clorat, kali perclorat, kali nitrat, natri nitrat | Loại 5, nhóm 5.1 | Sở VẪN cấp Giấy phép HHNH loại 5, song song giấy phép vận chuyển tiền chất của Công an - nguyên tắc 30, reference 16 mục 13 |
 | Hóa chất bảo vệ thực vật | - | UBND tỉnh cấp, đầu mối Sở Nông nghiệp và Môi trường |
 
 Khi không chắc chắn loại hàng, đề nghị doanh nghiệp cung cấp Phiếu an toàn hóa chất (SDS/MSDS) và mã UN để xác định đúng loại/nhóm trước khi kết luận thẩm quyền.

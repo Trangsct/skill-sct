@@ -1,5 +1,8 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.18.0] - 02/11/2026
+- Kết hợp bắt buộc plugin hc-sct-vn khi thẩm định hàng là hóa chất; tiền chất thuốc nổ loại 5.1 vẫn cấp Giấy phép loại 5; nguyên tắc 29 - 33; ref 16 mục 13 — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.11.02.md`.
+
 ## [1.17.0] - 19/10/2026
 - Nguyên tắc 28: không cấp trùng phương tiện cho các đơn vị khác nhau — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.10.19.md`.
 

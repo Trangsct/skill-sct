@@ -1,5 +1,8 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.18.0] - 02/11/2026
+- Nguyên tắc 29: công văn hoàn thiện hồ sơ giọng văn chỉ đạo, tổng quan, khoảng 2 trang; Mẫu 9; ref 16 mục 13 (vụ Chi nhánh Khai thác 1 Apatit); tên nơi nộp theo cách gọi 12/10/2026 — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.11.02.md`.
+
 ## [1.17.0] - 19/10/2026
 - Nguyên tắc 28: không cấp trùng phương tiện cho các đơn vị khác nhau — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.10.19.md`.
 

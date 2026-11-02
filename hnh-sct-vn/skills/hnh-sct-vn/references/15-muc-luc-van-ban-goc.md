@@ -27,8 +27,8 @@ Skill này **kèm sẵn bộ văn bản gốc** trong thư mục `van-ban-goc/` 
 | `TT-15-2026-BCT-text.doc` | TT 15/2026/TT-BCT (bản text) - bản sửa Điều 8 trước đó (phần phân cấp HHNH đã bị TT 26/2026 thay) | SKILL II.10 |
 | `TT-37-2020-BCT-taphuan.docx` | TT 37/2020/TT-BCT - tập huấn an toàn HHNH (lưu ý phép thử "khối lượng > cột 7" KHÔNG áp cho khung NĐ 161) | ref 04, 10; SKILL VI.9 |
 | `TT-37-BGTVT.pdf` | TT của Bộ GTVT liên quan vận chuyển/kiểm định (tham chiếu kỹ thuật) | ref 04 |
-| `TT-23-2024-BCT-tienchat.pdf` | TT 23/2024/TT-BCT - tiền chất thuốc nổ (PHÂN BIỆT: KHÔNG thuộc thủ tục HHNH này) | SKILL VII; ref 01 |
-| `TT-16-2018-BCA-tienchat.doc` | TT 16/2018/TT-BCA - vận chuyển tiền chất thuốc nổ (phân biệt đầu mối) | ref 01 |
+| `TT-23-2024-BCT-tienchat.pdf` | TT 23/2024/TT-BCT - tiền chất thuốc nổ (thủ tục kinh doanh, sử dụng tiền chất; vận chuyển tiền chất loại 5.1 VẪN cần Giấy phép HHNH - nguyên tắc 30) | SKILL VII; ref 01 |
+| `TT-16-2018-BCA-tienchat.doc` | TT 16/2018/TT-BCA - vận chuyển tiền chất thuốc nổ (phân biệt đầu mối: giấy phép vận chuyển tiền chất của Công an cấp song song, không thay Giấy phép HHNH - nguyên tắc 30) | ref 01 |
 
 ## 04-uy-quyen-quy-trinh
 | File | Nội dung | Reference dùng |

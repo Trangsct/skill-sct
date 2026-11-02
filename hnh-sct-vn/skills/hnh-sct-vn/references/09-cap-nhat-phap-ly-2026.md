@@ -46,7 +46,8 @@ Chương VIII "Lĩnh vực vận chuyển hàng hóa nguy hiểm":
 |---|---|
 | Loại 5, loại 8 | **UBND cấp tỉnh** (khoản 1 Điều 8). Lào Cai: **từ 14/8/2026 Giám đốc Sở ký theo ủy quyền bổ sung tại QĐ 2848/QĐ-UBND (mục 3b dưới đây)**; giai đoạn 29/5-13/8/2026: Sở thẩm định, trình UBND tỉnh ký. (Trước 29/5/2026: Cục Hóa chất) |
 | Loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 9 | **UBND cấp tỉnh** (khoản 2 Điều 8, Bộ trưởng BCT phân cấp) - Lào Cai: ủy quyền Giám đốc Sở Công Thương (QĐ 1696) |
-| VLNCN, tiền chất thuốc nổ | Pháp luật chuyên ngành VLNCN (không thuộc thủ tục này) |
+| VLNCN, tiền chất thuốc nổ xếp trong loại 1 | Pháp luật chuyên ngành VLNCN (không thuộc thủ tục này) |
+| Tiền chất thuốc nổ thuộc loại 5.1 | Như loại 5 (khoản 1 Điều 8) - Sở cấp, song song giấy phép của Công an (nguyên tắc 30) |
 | Hóa chất bảo vệ thực vật | Đầu mối Sở Nông nghiệp và Môi trường |
 | Loại 6, loại 7 | Theo phân công (y tế/nông nghiệp; năng lượng nguyên tử) |
 

@@ -7,8 +7,8 @@ Mục tiêu: chuẩn hóa bước thẩm định của Phòng Quản lý Công n
 Thực hiện tuần tự, dừng ngay khi gặp "KHÔNG" và xử lý theo nhánh tương ứng.
 
 **Bước 1 - Thẩm quyền (gác cổng):**
-- Loại hàng có thuộc loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5, 8, 9 không?
-  - KHÔNG (loại 6, 7, hóa chất BVTV, VLNCN, tiền chất thuốc nổ) → **không thụ lý**, hướng dẫn chuyển đúng đầu mối (reference 01). Trả lời bằng văn bản.
+- Loại hàng có thuộc loại 1 (trừ VLNCN, tiền chất thuốc nổ xếp trong loại 1), 2, 3, 4, 5, 8, 9 không? Tiền chất thuốc nổ thuộc loại 5.1 (amoni nitrat, clorat, perclorat, nitrat) là hàng loại 5 → CÓ, thụ lý (nguyên tắc 30).
+  - KHÔNG (loại 6, 7, hóa chất BVTV, VLNCN và tiền chất thuốc nổ xếp trong loại 1) → **không thụ lý**, hướng dẫn chuyển đúng đầu mối (reference 01). Trả lời bằng văn bản.
   - CÓ → sang Bước 2.
 - Tổ chức/cá nhân có **trụ sở chính HOẶC chi nhánh** tại tỉnh Lào Cai không?
   - KHÔNG → không thuộc thẩm quyền tỉnh Lào Cai, hướng dẫn nộp tại tỉnh nơi đặt trụ sở/chi nhánh.
@@ -48,7 +48,7 @@ Thực hiện tuần tự, dừng ngay khi gặp "KHÔNG" và xử lý theo nhá
 - Mỗi người lái xe/người áp tải có **Giấy chứng nhận hoàn thành tập huấn an toàn HHNH** (Phụ lục VI) còn hiệu lực, **phù hợp loại/nhóm hàng** đề nghị.
 
 **d) Phương án tổ chức vận chuyển (Phụ lục V):**
-- Có đủ: biển kiểm soát xe; họ tên người lái xe; loại hàng; khối lượng; tuyến đường + thời gian vận chuyển; **biện pháp ứng cứu khẩn cấp**. LƯU Ý khác biệt câu chữ Điều 15: loại 1,2,3,4,9 (khoản 2) = "sự cố **cháy, nổ**"; loại 5, 8 (khoản 1) = "**sự cố hóa chất**" (tràn đổ, rò rỉ, tiếp xúc) - với loại 5, 8 và khí độc 2.3, đối chiếu chéo với Kế hoạch phòng ngừa, ứng phó sự cố hóa chất của doanh nghiệp nếu có (plugin `hc-sct-vn`).
+- Có đủ: biển kiểm soát xe; họ tên người lái xe; loại hàng; khối lượng; tuyến đường + thời gian vận chuyển; **biện pháp ứng cứu khẩn cấp**. LƯU Ý khác biệt câu chữ Điều 15: loại 1,2,3,4,9 (khoản 2) = "sự cố **cháy, nổ**"; loại 5, 8 (khoản 1) = "**sự cố hóa chất**" (tràn đổ, rò rỉ, tiếp xúc) - với loại 5, 8 và khí độc 2.3, BẮT BUỘC chạy lớp hóa chất theo nguyên tắc 29 (plugin `hc-sct-vn`): Biện pháp phòng ngừa, ứng phó sự cố hóa chất trong vận chuyển (điểm c khoản 1 Điều 38 Luật 69/2025; Điều 35 NĐ 25/2026), khoản 3 - 7 Điều 26 NĐ 25/2026, đối chiếu Phiếu an toàn hóa chất (chữa cháy, chất kỵ nhau, bảo hộ).
 - Tuyến đường KHÔNG đi qua hầm ≥ 100 m / phà nếu là chất dễ cháy, nổ (nếu có thì từ chối).
 - Khối lượng đề nghị có vượt ngưỡng miễn cấp phép không (LNG/CNG < 1.080 kg; LPG < 2.250 kg; nhiên liệu lỏng < 1.500 lít → thuộc diện miễn, hướng dẫn doanh nghiệp, không cấp).
 
@@ -166,3 +166,11 @@ Bản checklist chi tiết của Cục Hóa chất kèm tại `vi-du-thuc-te/cuc
 ### Bổ sung 19/10/2026 - lỗi thẩm định thường gặp (tiếp)
 
 28. **Không soát biển số với Giấy phép còn hiệu lực của đơn vị khác.** Vụ axit nitric Toàn Phát TQ (10/2026): 03 ô tô đầu kéo, 03 sơ mi rơ moóc, 04 container bồn đã có trong Giấy phép số 5216/GP-SCT ngày 24/8/2026 của đơn vị khác, chỉ phát hiện khi doanh nghiệp hỏi. Soát trùng ngay khi nhận hồ sơ. Nguyên tắc 28.
+
+### Bổ sung 02/11/2026 - lỗi thẩm định thường gặp (tiếp) - vụ 06 tiền chất thuốc nổ loại 5.1, 14 tổ hợp xe biển Trung Quốc
+
+29. **Kết luận "ngoài thẩm quyền" vì hàng là tiền chất thuốc nổ.** Amoni nitrat và các muối clorat, perclorat, nitrat là loại 5.1, thuộc khoản 1 Điều 8; phần "trừ tiền chất thuốc nổ" chỉ áp trong loại 1. Đã có tiền lệ 516/GP-BCT, 112/GP-HC, 5869/GP-SCT. Nguyên tắc 30; sổ lỗi L001.
+30. **Chỉ thẩm định theo Nghị định 161, bỏ lớp hóa chất.** Phương án trang bị bình bột, CO2 trong khi SDS của cả 06 mặt hàng cấm; không có Biện pháp phòng ngừa, ứng phó sự cố hóa chất trong vận chuyển. Nguyên tắc 29.
+31. **Không đọc loại sơ mi rơ moóc trên đăng ký xe.** 04 sơ mi rơ moóc là loại chở container nhưng Phương án tả hàng bao xếp trên sàn, phủ bạt. Đề nghị nêu rõ hàng trong công-ten-nơ hay xếp trực tiếp, phù hợp loại phương tiện. Reference 16 mục 13.
+32. **Không đối chiếu số Giấy chứng nhận tập huấn giữa Bảng kê, Phương án và bản sao.** Bảng kê ghi một số, Phương án và bản sao ghi số khác. Reference 16 mục 13.
+33. **Đưa nghĩa vụ kho đích, hồ sơ hóa chất cũ vào công văn hoàn thiện.** Nguyên tắc 32.

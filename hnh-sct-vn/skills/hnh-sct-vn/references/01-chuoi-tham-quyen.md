@@ -92,7 +92,8 @@ LƯU Ý: hai nhóm dùng hai bộ mã khác nhau - hồ sơ loại 5, 8 KHÔNG d
 | Tình huống | Hướng dẫn |
 |---|---|
 | Hỏi cấp phép loại 5, loại 8 | Từ 29/5/2026: nộp UBND cấp tỉnh (khoản 1 Điều 8 TT 38/2025 sửa bởi Điều 25 TT 26/2026; KHÔNG kèm điều kiện trụ sở/chi nhánh). Lào Cai: Sở tiếp nhận, thẩm định; từ 14/8/2026 Giám đốc Sở ký theo ủy quyền QĐ 2848 (mã TTHC 1.013340/50/51). Trước 29/5/2026 nộp Cục Hóa chất; hồ sơ nộp Cục trước 29/5 do Cục xử lý tiếp (Điều 28 TT 26/2026) |
-| Hỏi cấp phép VLNCN, tiền chất thuốc nổ | Lĩnh vực VLNCN - pháp luật chuyên ngành (PGĐ Nguyễn Đình Chiến phụ trách từ 05/10/2026); xem skill `pccc-sct-vn` |
+| Hỏi cấp phép VLNCN, tiền chất thuốc nổ xếp trong loại 1 | Lĩnh vực VLNCN - pháp luật chuyên ngành (PGĐ Nguyễn Đình Chiến phụ trách từ 05/10/2026); xem plugin `sd-vlncn-sct-vn` |
+| Vận chuyển tiền chất thuốc nổ loại 5.1 (amoni nitrat UN 1942, natri clorat, kali clorat, kali perclorat, kali nitrat, natri nitrat) | Sở cấp Giấy phép HHNH loại 5 (khoản 1 Điều 8, mã 1.013340), song song giấy phép vận chuyển tiền chất thuốc nổ của Công an (Điều 47 Luật 42/2024) - nguyên tắc 30 |
 | Hỏi cấp phép hóa chất bảo vệ thực vật | UBND cấp tỉnh, đầu mối Sở Nông nghiệp và Môi trường |
 | Hỏi cấp phép loại 7 (phóng xạ) | Pháp luật về năng lượng nguyên tử |
 | Doanh nghiệp thuộc Bộ Quốc phòng | Bộ Quốc phòng cấp |

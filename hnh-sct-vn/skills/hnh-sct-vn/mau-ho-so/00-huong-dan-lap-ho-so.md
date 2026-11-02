@@ -3,7 +3,7 @@
 Áp dụng cho hàng hóa nguy hiểm loại 1 (trừ vật liệu nổ công nghiệp, tiền chất thuốc nổ), loại 2, 3, 4, 5, 8, 9. Căn cứ: Luật 36/2024/QH15 (Điều 51); Nghị định 161/2024/NĐ-CP; Nghị định 105/2025/NĐ-CP; Thông tư 38/2025/TT-BCT (Điều 8 sửa bởi Điều 25 Thông tư 26/2026/TT-BCT); Thông tư 37/2020/TT-BCT.
 
 ## Nơi nộp
-Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất, đăng nhập VNeID). Cơ quan giải quyết: Ủy ban nhân dân cấp tỉnh (tại Lào Cai: Sở Công Thương được ủy quyền). Số lượng: 01 bộ.
+Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (nơi nộp duy nhất, đăng nhập VNeID). Cơ quan giải quyết: Ủy ban nhân dân cấp tỉnh (tại Lào Cai: Sở Công Thương được ủy quyền). Số lượng: 01 bộ.
 
 ## Thành phần hồ sơ cấp mới (Điều 15 Nghị định 161/2024)
 1. Giấy đề nghị cấp Giấy phép (Mẫu 1 - Phụ lục IV).
@@ -34,3 +34,5 @@ Cấp mới 05 ngày làm việc; cấp điều chỉnh 03 ngày làm việc; c�
 - Mẫu 6 - Biên bản thẩm định hồ sơ cấp Giấy phép (văn bản NỘI BỘ của Sở, không phát cho doanh nghiệp): bản chuẩn văn phong 24/7/2026, trường hợp xe biển Việt Nam, thẩm định tại trụ sở doanh nghiệp. Cấu trúc: căn cứ pháp lý → thành phần → thông tin đơn vị → kết quả thẩm định theo 5 điểm a-đ (thành phần hồ sơ có bảng đối chiếu; phương tiện; nhân sự có bảng lái xe và người áp tải; danh mục hàng; phương án vận chuyển) → nhận xét, kiến nghị của Phòng. Khi dùng cho vụ mới (Chế độ B): thay toàn bộ thông tin doanh nghiệp, phương tiện, nhân sự; cập nhật tên thành viên Đoàn theo phân công hiện hành; các tồn tại phát hiện được ghi thẳng vào điểm tương ứng và tổng hợp tại mục nhận xét, kiến nghị.
 - Mẫu 7 - Biên bản thẩm định bản gọn (văn bản NỘI BỘ của Sở): **mẫu chuẩn từ 08/10/2026**, 4 trang, đã ẩn danh, bảng rộng đúng khổ chữ; dùng thay Mẫu 6 (nguyên tắc 26, 27).
 - Mẫu 8 - Giấy phép cho hàng đi bằng container bồn: **mẫu chuẩn từ 08/10/2026**, bảng "Danh sách phương tiện vận chuyển và thiết bị chứa hàng", khối lượng "Theo giấy tờ của phương tiện", thời hạn 24 tháng (nguyên tắc 22, 23, 25, 27).
+
+- **Mẫu 9 - Công văn hoàn thiện hồ sơ giọng văn chỉ đạo (chuẩn từ 02/11/2026)**: công văn Sở gửi đơn vị đề nghị hoàn thiện, bổ sung hồ sơ; khoảng 2 trang, 4 nhóm (Giấy đề nghị; Giấy chứng nhận tập huấn; Phương án; tính thống nhất), mỗi ý một yêu cầu trực tiếp, hiện trạng hồ sơ nêu gọn trong ngoặc; chỗ cần điền để trong ngoặc vuông (nguyên tắc 29).

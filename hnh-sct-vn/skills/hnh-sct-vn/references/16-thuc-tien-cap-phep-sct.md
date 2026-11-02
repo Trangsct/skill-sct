@@ -14,6 +14,7 @@ Tài liệu này đúc kết cách làm THỰC TẾ tại Sở từ các hồ s�
 | Chi nhánh số 1 - Công ty CP XNK Sợi Phương Nam (mã CN 0106092522-001, phường Lào Cai) | Amoniac khan UN 1005, SHNH 268 | 2 | 16 phương tiện biển Trung Quốc (Vân FA/FC/FD...), xuyên biên giới | GP cấp 7/2026, thời hạn 23 tháng; xem chi tiết reference 17 |
 | Công ty TNHH Logistics HNL | NH3, tuyến Hà Khẩu - Kim Thành | 2 | Đại diện cho pháp nhân TQ, không có trụ sở/chi nhánh tại Lào Cai | Kết luận: ngoài thẩm quyền theo khoản 2 Điều 8 (thiếu điều kiện địa bàn) |
 | Công ty TNHH MTV thương mại Tiến Anh (MSDN 5300804272, phường Lào Cai) | Bộ 1: LPG UN 1075, SHNH 23. Bộ 2: Xăng UN 1203, Dầu diesel UN 1202 | 2 và 3 | 02 bộ cùng đợt, 01 doanh nghiệp; LPG đi ở **dạng chai chứa 12 kg và 48 kg** trên xe tải có mui 24C-055.24; bộ 2 dùng đầu kéo 24C-047.97 + SMRM xi téc 24R-004.50 | GP cấp 7/2026, thời hạn 24 tháng. Chốt cách ghi cột khối lượng "Theo giấy tờ của phương tiện" cho mọi GP; soát chéo đồng bộ 2 GP cùng đợt. Chi tiết mục 8; bản chốt tại `vi-du-thuc-te/tien-anh-lpg-xangdau-072026/` |
+| Chi nhánh Khai thác 1 - Công ty TNHH MTV Apatit Việt Nam (mã chi nhánh 5300100276-024, phường Cam Đường) | Dầu diesel UN 1202, SHNH 30 | 3 | 01 ô tô xi téc biển Việt Nam, vận chuyển nội bộ cho khai trường; hồ sơ nộp 30/10/2026 | Công văn hoàn thiện hồ sơ 02/11/2026 viết giọng văn chỉ đạo, 2 trang (nguyên tắc 29); chi tiết mục 13 |
 | Công ty Hòa Bình Châu Kiềm Tây Nam / Mậu Thịnh (pháp nhân TQ) | Kali permanganat UN 1490 | 5.1 | Tuyến ngắn vạch biên giới - bãi kiểm hóa Kim Thành | Loại 5 thuộc tỉnh từ 29/5/2026; khoản 1 Điều 8 KHÔNG có điều kiện địa bàn; tiền lệ Bộ KHCN/Bộ CT từng cấp trực tiếp cho pháp nhân TQ (bản scan tại van-ban-goc/07-tham-khao/) |
 
 ## 1a. Giấy phép đã phát hành đang có trên CSDL trang web (đối chiếu với bảng tiền lệ ở mục 1)
@@ -120,8 +121,8 @@ Trong công văn hướng dẫn hoàn thiện/trả hồ sơ, TUYỆT ĐỐI kh�
 
 **Quy tắc B - KHÔNG viết câu "đề nghị liên hệ Phòng Quản lý Công nghiệp ... để được hướng dẫn".**
 Câu này dễ bị hiểu là phòng chuyên môn định hướng gặp gỡ, tiếp xúc riêng với doanh nghiệp. BỎ HẲN đoạn kết dạng "Trong quá trình hoàn thiện hồ sơ, nếu có vướng mắc, đề nghị liên hệ Phòng ... để được hướng dẫn./."
-- Kết thúc công văn ngay tại đoạn đề nghị nộp lại hồ sơ, gắn "./." vào cuối đoạn đó: "Đề nghị [tên DN] rà soát, hoàn thiện các nội dung nêu trên và nộp lại hồ sơ trực tuyến trên Cổng dịch vụ công một cửa Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ để được xem xét, giải quyết theo quy định./."
-- Áp dụng cho MỌI công văn gửi doanh nghiệp, không riêng HHNH. Nơi nộp hồ sơ ghi trong văn bản là **Cổng dịch vụ công một cửa Bộ Công Thương https://motcua-tthc.moit.gov.vn/** (nơi nộp DUY NHẤT, Bạn chốt lại 02/9/2026, đăng nhập VNeID; KHÔNG ghi Trung tâm Phục vụ hành chính công, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh", bưu chính).
+- Kết thúc công văn ngay tại đoạn đề nghị nộp lại hồ sơ, gắn "./." vào cuối đoạn đó: "Đề nghị [tên DN] rà soát, hoàn thiện các nội dung nêu trên và nộp lại hồ sơ trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương tại địa chỉ https://motcua-tthc.moit.gov.vn/ để được xem xét, giải quyết theo quy định./."
+- Áp dụng cho MỌI công văn gửi doanh nghiệp, không riêng HHNH. Nơi nộp hồ sơ ghi trong văn bản là **Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương https://motcua-tthc.moit.gov.vn/** (nơi nộp DUY NHẤT, Bạn chốt lại 02/9/2026, đăng nhập VNeID; KHÔNG ghi Trung tâm Phục vụ hành chính công, "Cổng DVCQG", "Hệ thống TTGQ TTHC tỉnh", bưu chính).
 - Mẫu cũ `CV-hoan-thien-bo-sung-chung-2-bo-ho-so.docx` còn câu này - khi dùng lại mẫu phải XÓA.
 
 ### 7.2. Bài học chuyên môn: đối chiếu MÔI CHẤT của bồn với hàng đề nghị cấp phép
@@ -302,3 +303,25 @@ Phiên thẩm định hồ sơ amoniac khan (UN 1005) đi bằng container bồn
 ### 12.4. Bài học quy trình
 
 Phiên 08/10/2026 mở đầu bằng gói plugin 1.11.3 trên claude.ai, chưa có các nguyên tắc 22 - 24 chốt ngày 02/10/2026 (PR 111 khi đó chưa gộp vào main), nên bản Giấy phép đầu tiên ghép sơ mi rơ moóc với container bồn trong một dòng và phải sửa lại. Trước khi soạn Giấy phép, Biên bản: xem các PR đang mở của plugin này trên kho (`gh api "repos/Trangsct/skill-sct/pulls?state=open"`).
+
+## 13. Công văn hoàn thiện hồ sơ giọng văn chỉ đạo, tổng quan (vụ Chi nhánh Khai thác 1 Apatit, 02/11/2026)
+
+Hồ sơ cấp mới Giấy phép vận chuyển dầu diesel (UN 1202, loại 3) của Chi nhánh Khai thác 1 - Công ty TNHH MTV Apatit Việt Nam, 01 ô tô xi téc, 01 người lái xe, không có người áp tải. Bản công văn đầu tiên (3,5 trang, phân tích từng điểm) bị Bạn yêu cầu nâng cấp "theo giọng văn UBND tỉnh, tổng quan hơn, không quá chi tiết" → bản 2 trang; quy tắc ghi tại nguyên tắc 29, mẫu ẩn danh tại `mau-ho-so/Mau 9`.
+
+### 13.1. Lỗi hồ sơ điển hình của vụ này (đối chiếu cho các hồ sơ xăng dầu vận chuyển nội bộ)
+
+- Giấy đề nghị kính gửi Cục Kỹ thuật an toàn và môi trường công nghiệp (mẫu cũ trước phân cấp) - yêu cầu ghi đúng Sở Công Thương tỉnh Lào Cai.
+- Không ghi thời hạn đề nghị; Phương án ghi thời gian vận chuyển bắt đầu trước ngày lập hồ sơ, kết thúc trùng hạn kiểm định xe - yêu cầu ghi thời hạn đề nghị theo khoản 3 Điều 13, không nêu mốc kiểm định trong công văn (nguyên tắc 15a).
+- Tên hàng ghi "Nhiên liệu động cơ (Dầu Diesel)": "nhiên liệu động cơ" là tên của UN 1203 (xăng) trong Phụ lục I; UN 1202 có 3 dòng tên theo điểm chớp cháy - yêu cầu ghi đúng dòng.
+- Phương án chép từ phương án ứng cứu của kho xăng dầu (tình huống tràn dầu tại cột bơm, "thủ kho dầu", cắt điện tủ điện), chỉ một tình huống trên đường; tuyến đường chỉ liệt kê tên xã, phường; còn dẫn Nghị định số 34/2024/NĐ-CP (Điều 31 Nghị định số 161/2024/NĐ-CP đã sửa tên, nay chỉ điều chỉnh phương tiện thủy nội địa); đoạn kết nhắc người áp tải dù hồ sơ không có.
+- Bản sao Giấy chứng nhận tập huấn không thể hiện chữ ký, dấu của đơn vị tập huấn - yêu cầu nộp bản sao thể hiện đủ.
+- Ngày lập các tài liệu không thống nhất (Bảng kê phương tiện ghi tháng 3, các tài liệu khác tháng 10, một số để trống); danh mục hồ sơ ghi "kèm theo hồ sơ của phương tiện, người lái xe" nhưng không nộp.
+
+### 13.2. Quyết định nghiệp vụ trong phiên
+
+- Người áp tải: không yêu cầu khi chưa có quy định loại hàng bắt buộc áp tải (Bạn chốt 14/10/2026, vụ xăng dầu loại 3) - chỉ yêu cầu Phương án ghi thống nhất với nhân sự đề nghị cấp phép.
+- Giấy chứng nhận tập huấn do một công ty bên ngoài (không phải người vận tải, người thuê vận tải) cấp: chấp nhận theo điểm a khoản 1 Điều 8 Nghị định số 161/2024/NĐ-CP (người vận tải "cử ... tham gia khóa tập huấn"), không đưa vào công văn.
+- Hồ sơ phương tiện (đăng ký, kiểm định xe, kiểm định xi téc), giấy phép lái xe, hợp đồng lao động: Điều 15 chỉ yêu cầu bảng kê, nên đối chiếu bản gốc khi thẩm định tại trụ sở đơn vị, không yêu cầu nộp bổ sung.
+- Nghĩa vụ khi vận chuyển (biểu trưng Điều 9, giấy tờ mang theo khoản 3 Điều 30, xếp dỡ Điều 10) không thuộc nội dung tối thiểu của Phương án - không đưa thành yêu cầu sửa Phương án (rà soát độc lập phát hiện ở bản đầu).
+- Khoản 8 Điều 29 phải dẫn đúng phạm vi "cầu, hầm đặc biệt quan trọng có chiều dài dưới 100 m hoặc công trình đang thi công có nhiệt độ cao, lửa hàn, tia lửa điện" - bản đầu bỏ mất cụm này nên vô tình mở rộng yêu cầu.
+- Soát trùng phương tiện (nguyên tắc 28): đối chiếu với các Giấy phép hàng hóa nguy hiểm có bản gốc, không trùng.

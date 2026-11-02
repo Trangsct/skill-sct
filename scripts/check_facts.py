@@ -520,8 +520,8 @@ RULES = [
     },
     {
         "id": "noi-nop-dvcqg",
-        "pattern": r"(nộp (hồ sơ )?(trên|qua|tại) Cổng (Dịch vụ công [Qq]uốc gia|DVC( quốc gia)?\b)|Nơi nộp[^\n]{0,40}(Hệ thống (thông tin giải quyết|TTGQ)|bưu chính))",
-        "why": "Không hướng dẫn DN nộp qua Cổng DVCQG; ghi https://motcua-tthc.moit.gov.vn/ (trích dẫn nguyên văn luật thì thêm chữ 'theo luật' hoặc để trong ngoặc kép).",
+        "pattern": r"(nộp (hồ sơ )?(trên|qua|tại) Cổng (Dịch vụ công [Qq]uốc gia|DVC( quốc gia)?\b)|Nơi nộp[^\n]{0,40}(Hệ thống (thông tin giải quyết(?! thủ tục hành chính Bộ Công Thương)|TTGQ)|bưu chính))",
+        "why": "Không hướng dẫn DN nộp qua Cổng DVCQG hay hệ thống của tỉnh; ghi Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương https://motcua-tthc.moit.gov.vn/ (tên gọi Bạn chốt 12/10/2026; trích dẫn nguyên văn luật thì thêm chữ 'theo luật' hoặc để trong ngoặc kép).",
         "since": "2026-08-02",
         "level": "FAIL",
     },
@@ -685,6 +685,16 @@ RULES = [
         "pattern": r"^(?!.*(?:KHÔNG viết|không có điều khoản)).*(?:không được|cấm) cấp trùng[^\n]{0,80}(?:Nghị định số 161|NĐ 161)",
         "why": "Không cấp trùng phương tiện là quy tắc quản lý của Sở (Bạn chốt 19/10/2026, hnh-sct-vn nguyên tắc 28); Nghị định 161/2024 không có điều khoản trực tiếp cấm, không viết như thể Nghị định cấm.",
         "since": "2026-10-19",
+        "level": "WARN",
+        "only": ["hnh-sct-vn"],
+    },
+    {
+        "id": "hnh-ten-he-thong-nop-ho-so",
+        # Bạn chốt 12/10/2026: tên gọi đúng nơi nộp là "Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương"
+        # (https://motcua-tthc.moit.gov.vn/), không gọi "Cổng dịch vụ công một cửa"; áp vào hnh-sct-vn khi ghi nguyên tắc 29 (02/11/2026).
+        "pattern": r"^(?!.*(?:lịch sử|không gọi|trước ngày)).*Cổng dịch vụ công một cửa Bộ Công Thương",
+        "why": "Nơi nộp hồ sơ TTHC gọi là 'Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương' (Bạn chốt 12/10/2026; hnh-sct-vn nguyên tắc 2, 29).",
+        "since": "2026-10-12",
         "level": "WARN",
         "only": ["hnh-sct-vn"],
     },

@@ -1,3 +1,8 @@
+## 02/11/2026 — hnh-sct-vn 1.18.0: công văn hoàn thiện hồ sơ giọng văn chỉ đạo, tổng quan
+
+- Nguyên tắc 29 (ref 19), Mẫu 9 công văn hoàn thiện hồ sơ ẩn danh, ref 16 mục 13 vụ Chi nhánh Khai thác 1 - Công ty TNHH MTV Apatit Việt Nam (dầu diesel loại 3), sổ lỗi tự ghi L001.
+- Tên nơi nộp "Hệ thống thông tin giải quyết thủ tục hành chính Bộ Công Thương" trong hnh-sct-vn; `check_facts.py` thêm rule `hnh-ten-he-thong-nop-ho-so`, sửa `noi-nop-dvcqg` không bắt nhầm tên này.
+
 ## 01/11/2026 (lần 5) — cong-ty-tay-bac-vn 1.2.0: hợp đồng giám sát ảnh hưởng nổ mìn đầu vào, đầu ra
 
 - Ref 05 mới: hợp đồng khung với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (Tây Bắc thuê đo) và hợp đồng Tây Bắc nhận đo cho đơn vị nổ mìn; điều khoản bảo vệ Tây Bắc, khớp nối hai hợp đồng; mẫu ẩn thông tin liên hệ, tài khoản, giá trị.

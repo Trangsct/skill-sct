@@ -1,5 +1,8 @@
 # CHANGELOG — dacn-sct-vn
 
+## [1.13.0] - 03/11/2026 — Tính GTSX, tăng trưởng (ref 17): số liệu Sở Tài chính rà soát SXKD quý IV/2026, dữ liệu nền 2025
+- Dữ liệu 940 đơn vị, 595 công trình, 46 trọng điểm (chốt 26/10/2026) + 23 bảng nền Yên Bái cũ, Lào Cai cũ 2025 (đã ẩn danh); scripts `tinh_tang_truong.py`, `nap_sxkd_stc.py`, `xuat_bang_an_danh.py`; độ phủ ≈ 1/3 GTSXCN, vắng 20/37 DN CV 10349. Chi tiết: `CHANGELOG-v2026.11.03.md`.
+
 ## [1.12.0] - 01/11/2026 — Phụ biểu khởi công, khánh thành 11/2026–2027 (ref 16), nhãn nguồn số liệu
 - Ref 16 mới: quy tắc giá trị SXCN một năm khi hoạt động ổn định, NSNN 2%, lao động 10/25 người/ha, hệ số 1,368; bảng KCN, CCN, 03 dự án QĐ 767, gạch men CRC Premier, 07 nhà máy chế biến, mỗi số gắn nhãn [TC]/[BC-DN]/[BÁO]/[ƯỚC]; ô còn thiếu và nơi tra. Ref 10 hộp cập nhật; SKILL.md nguyên tắc 8. Chi tiết: `CHANGELOG-v2026.11.01.md`.
 

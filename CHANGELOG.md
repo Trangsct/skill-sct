@@ -1,3 +1,7 @@
+## 03/11/2026 — dacn-sct-vn 1.13.0: tính giá trị sản xuất, tăng trưởng kinh tế tỉnh (ref 17)
+
+- Nạp Phụ lục Sở Tài chính rà soát SXKD, đầu tư, xây dựng quý IV/2026 (940 đơn vị, 595 công trình, 46 trọng điểm; chốt 26/10/2026) và 23 bảng nền 2025 trước sáp nhập (Yên Bái cũ 31/5/2025, Lào Cai cũ 6/2025), đã ẩn danh; script `tinh_tang_truong.py` ước GTSXCN cả năm, quý IV cần đạt, đóng góp GRDP, độ phủ (≈ 1/3 GTSXCN 9 tháng, vắng 20/37 DN CV 10349). Bản đầy đủ số điện thoại ở plugin riêng tư dong-nghiep-sct-vn.
+
 ## 02/11/2026 — hnh-sct-vn 1.18.0: kết hợp plugin hóa chất khi thẩm định HHNH; tiền chất thuốc nổ loại 5.1 vẫn cấp Giấy phép
 
 - SKILL.md mục VI-a, nguyên tắc 29 - 33 (ref 19): lớp hóa chất bắt buộc (Luật 69/2025 Điều 38, NĐ 25/2026 Điều 26, 35, SDS); tiền chất loại 5.1 thụ lý như loại 5, song song giấy phép Công an; hợp đồng không ghi VLNCN, tiền chất; phạm vi công văn hoàn thiện; giọng văn.

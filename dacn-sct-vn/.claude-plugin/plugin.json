@@ -1,7 +1,7 @@
 {
   "name": "dacn-sct-vn",
-  "version": "1.12.0",
-  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 9 tháng 2026, dự án hoàn thành 2026; Phụ biểu khởi công, khánh thành 11/2026–2027 (giá trị năm ổn định, nhãn nguồn số liệu); QĐ 21/2026/QĐ-TTg, Bài toán lớn số 2; hợp tác Trung Quốc; khuyến công 2026-2030; theo dõi SXKD doanh nghiệp theo CV 10349/UBND-KT.",
+  "version": "1.13.0",
+  "description": "Danh mục dự án công nghiệp phục vụ tăng trưởng tỉnh Lào Cai (NQ 169/NQ-CP): 09 chỉ tiêu SCT chủ trì, dự án động lực, SXCN hằng tháng, điểm nghẽn, báo cáo trước ngày 20, KTXH 9 tháng 2026, dự án hoàn thành 2026; Phụ biểu khởi công, khánh thành 2026–2027; QĐ 21/2026/QĐ-TTg, Bài toán lớn số 2; hợp tác Trung Quốc; khuyến công; SXKD doanh nghiệp CV 10349; tính GTSX, tăng trưởng từ số liệu Sở Tài chính rà soát quý IV/2026 và dữ liệu nền 2025 (ref 17).",
   "author": {
     "name": "Phòng Quản lý Công nghiệp - Sở Công Thương tỉnh Lào Cai"
   },
@@ -42,6 +42,11 @@
     "theo-doi-sxkd-doanh-nghiep",
     "bao-bi-thung-phuy",
     "phu-bieu-khoi-cong-khanh-thanh",
-    "gia-tri-sxcn-nam-on-dinh"
+    "gia-tri-sxcn-nam-on-dinh",
+    "tinh-gtsx",
+    "so-tai-chinh-ra-soat-sxkd",
+    "cv-10210-2026",
+    "dong-gop-grdp",
+    "nen-2025-yen-bai-lao-cai"
   ]
 }

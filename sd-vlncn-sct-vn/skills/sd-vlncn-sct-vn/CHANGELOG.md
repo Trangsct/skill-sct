@@ -1,5 +1,9 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.11.03.1 — 03/11/2026 — Thống kê tổ chức sử dụng VLNCN, dịch vụ nổ mìn (ref 14)
+
+- Ref 14 mới từ dự thảo Báo cáo Sở gửi UBND tỉnh (02/11/2026, chưa số): 43 GP / 33 tổ chức, 06 tổ chức dịch vụ nổ mìn, 11 GP hết hạn đến 31/12/2026; bảng đủ Phụ lục đối chiếu CSDL (10 GP chưa lên CSDL); 5 ô còn trống của dự thảo. Chi tiết: `CHANGELOG-v2026.11.03.md`.
+
 ## v2026.10.22.1 — 22/10/2026 — Nghị định 392/2026/NĐ-CP: điều kiện an ninh, trật tự (GCN ANTT) với ngành nghề sử dụng VLNCN
 
 Nguồn: NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026), Bạn gửi bản Word + PDF 22/10/2026; số, ngày, người ký đọc bằng script và đối chiếu trang ký PDF (KT. Thủ tướng, PTTg Phạm Gia Túc).

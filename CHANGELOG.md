@@ -2,6 +2,10 @@
 
 - Từ dự thảo Báo cáo Sở gửi UBND tỉnh 02/11/2026: 43 GP còn hiệu lực / 33 tổ chức (Bộ 02, UBND 22, Sở 19), theo lĩnh vực, 06 tổ chức dịch vụ nổ mìn, 11 GP hết hạn đến 31/12/2026; đối chiếu CSDL: 31 GP khớp, 10 GP chưa lên CSDL; 5 ô còn trống của dự thảo.
 
+## 03/11/2026 (lần 3) — kccn-sct-vn 1.62.0: mẫu phiếu trình Văn phòng UBND tỉnh trình Chủ tịch ký QĐ thành lập Hội đồng
+
+- Mẫu 03.6 (kết cấu, hồ sơ kèm theo, căn cứ khoản 3 Điều 13 sau NĐ 303/2026, biến thể bãi bỏ QĐ Hội đồng cũ) kèm bản Word thật Phú Thịnh 6; mẫu 03.1 cập nhật cơ cấu Hội đồng hiện hành; tệp trạng thái hồ sơ `ccn-phu-thinh-6` mới.
+
 ## 03/11/2026 — dacn-sct-vn 1.13.0: tính giá trị sản xuất, tăng trưởng kinh tế tỉnh (ref 17)
 
 - Nạp Phụ lục Sở Tài chính rà soát SXKD, đầu tư, xây dựng quý IV/2026 (940 đơn vị, 595 công trình, 46 trọng điểm; chốt 26/10/2026) và 23 bảng nền 2025 trước sáp nhập (Yên Bái cũ 31/5/2025, Lào Cai cũ 6/2025), đã ẩn danh; script `tinh_tang_truong.py` ước GTSXCN cả năm, quý IV cần đạt, đóng góp GRDP, độ phủ (≈ 1/3 GTSXCN 9 tháng, vắng 20/37 DN CV 10349). Bản đầy đủ số điện thoại ở plugin riêng tư dong-nghiep-sct-vn.

@@ -10,19 +10,19 @@ Bộ mẫu phục vụ tổ chức Hội đồng đánh giá lựa chọn chủ 
 **QUYẾT ĐỊNH** — Thành lập Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng kỹ thuật cụm công nghiệp {tên} và Tổ giúp việc
 
 Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
-Căn cứ Nghị định số 32/2024/NĐ-CP ngày 15/3/2024 (Điều 13);
+Căn cứ Nghị định số 32/2024/NĐ-CP ngày 15/3/2024; Nghị định số 303/2026/NĐ-CP ngày 01/8/2026 (khoản 3 Điều 13 Nghị định 32/2024/NĐ-CP được bổ sung tại khoản 7 Điều 1);
 Căn cứ Quyết định số 16/2026/QĐ-UBND ngày 25/02/2026 của UBND tỉnh Lào Cai;
 Theo đề nghị của Giám đốc Sở Công Thương tại Tờ trình số {…}/TTr-SCT ngày {…}.
 
 **QUYẾT ĐỊNH:**
 **Điều 1.** Thành lập Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng kỹ thuật CCN {tên}, gồm:
-1. **Chủ tịch Hội đồng:** {…} — Phó Chủ tịch UBND tỉnh (phụ trách CN-TM);
-2. **Phó Chủ tịch Thường trực:** {…} — Phó Giám đốc Sở Công Thương;
+1. **Chủ tịch Hội đồng:** {…} — Phó Chủ tịch Thường trực UBND tỉnh;
+2. **Phó Chủ tịch Thường trực:** {…} — Giám đốc Sở Công Thương;
 3. **Phó Chủ tịch:** {…} — Phó Giám đốc Sở Tài chính;
 4. **Thành viên:** Phó Giám đốc Sở Xây dựng; Phó Giám đốc Sở Nông nghiệp và Môi trường; Phó Chủ tịch UBND xã {…}; đại diện Công an tỉnh (An ninh kinh tế — thẩm tra lý lịch pháp lý nhà đầu tư);
-5. **Thư ký Hội đồng:** {…} — Phó Trưởng phòng QLCN Sở Công Thương (**không phải thành viên Hội đồng, không chấm điểm**).
+5. **Thư ký Hội đồng:** {…} — Trưởng phòng Quản lý công nghiệp, Sở Công Thương (**không phải thành viên Hội đồng, không chấm điểm**).
 
-**Điều 2.** Thành lập Tổ giúp việc do Phó Chủ tịch Thường trực Hội đồng làm Tổ trưởng; thành viên là chuyên viên các sở, ngành.
+**Điều 2.** Thành lập Tổ giúp việc do Phó Giám đốc Sở Công Thương phụ trách cụm công nghiệp (thành viên Hội đồng) làm Tổ trưởng; Tổ phó là Trưởng phòng Quản lý công nghiệp và chuyên viên phòng Kinh tế, Văn phòng UBND tỉnh; tổ viên là công chức các sở, ngành, Ủy ban nhân dân cấp xã. Cơ cấu hiện hành theo các Quyết định gần nhất (QĐ 2736/QĐ-UBND ngày 06/8/2026, bản phiếu trình Phú Thịnh 6 mẫu 03.6).
 **Điều 3.** Nhiệm vụ Hội đồng: (1) xây dựng, ban hành bộ tiêu chí chấm điểm cụ thể cho CCN {tên}; (2) tổ chức chấm điểm, lựa chọn chủ đầu tư khách quan, công bằng, đúng quy định; (3) chịu trách nhiệm trước UBND tỉnh về kết quả; (4) giải quyết vướng mắc, khiếu nại (nếu có); (5) Hội đồng tự giải thể sau khi hoàn thành nhiệm vụ. Sử dụng con dấu: Chủ tịch Hội đồng dùng con dấu UBND tỉnh; Phó Chủ tịch dùng con dấu Sở Công Thương.
 **Điều 4.** Hiệu lực và trách nhiệm thi hành./.
 
@@ -131,3 +131,34 @@ Nơi nhận: - Như trên; - Thành viên Hội đồng; - Lưu: {…}.
 **CHỦ TỊCH HỘI ĐỒNG** (Phó Chủ tịch UBND tỉnh — dùng con dấu UBND tỉnh).
 
 *Ghi chú tham mưu: Sở Công Thương (cơ quan thường trực Hội đồng) chuẩn bị dự thảo báo cáo này. Sau khi UBND tỉnh có ý kiến, tích hợp kết quả vào Quyết định thành lập CCN (Mẫu 02.4).*
+
+---
+
+## MẪU 03.6 — Phiếu trình giải quyết công việc của Văn phòng UBND tỉnh (trình Chủ tịch ký Quyết định thành lập Hội đồng)
+
+Bối cảnh: sau khi Sở có Tờ trình kèm dự thảo Quyết định thành lập Hội đồng, chuyên viên phòng Kinh tế Văn phòng UBND tỉnh chạy phiếu trình Chủ tịch ký; Sở thường soạn giúp phiếu trình theo mẫu của Văn phòng. Bản thật: `vi-du-thuc-te/2026.11.03. Phiếu trình thành lập Hội đồng và Tổ giúp việc cụm công nghiệp công nghệ cao Phú Thịnh 6.docx` (có biến thể bãi bỏ Quyết định cũ). Khung trống chung: `vbhc-vn/skills/vbhc-vn/examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx`.
+
+**Cách làm:** mở bản thật nêu trên (hoặc bản phiếu trình Văn phòng gửi) và sửa trực tiếp trên tệp (Chế độ B của vbhc-vn), không dựng lại thể thức. Đây là biểu mẫu của Văn phòng: giữ nguyên tiêu đề, khối Kính gửi, các đề mục, bảng ý kiến và ô ký; không thêm tờ, không đổi cách trình bày.
+
+**Kết cấu (giữ nguyên):**
+
+- PHIẾU TRÌNH GIẢI QUYẾT CÔNG VIỆC. Kính gửi: đồng chí Chủ tịch Ủy ban nhân dân tỉnh; đồng chí Phó Chủ tịch Thường trực (Chủ tịch Hội đồng).
+- I. VỀ NỘI DUNG TRÌNH DUYỆT CỦA ĐƠN VỊ: 1. Cơ quan trình duyệt; 2. Vấn đề trình (chép đúng trích yếu Tờ trình của Sở); 3. Hồ sơ, văn bản có liên quan; 4. Nội dung trình (4.1 Thành phần Hội đồng và Tổ giúp việc Hội đồng, phạm vi đánh giá: tên cụm, diện tích, địa bàn, doanh nghiệp đăng ký; 4.2 Chức năng, nhiệm vụ; 4.3 chỉ có khi bãi bỏ Quyết định cũ).
+- II. Ý KIẾN CỦA VĂN PHÒNG ỦY BAN NHÂN DÂN TỈNH: 1. Sự cần thiết (quy hoạch theo Quyết định 525/QĐ-UBND; Tờ trình của Ủy ban nhân dân cấp xã; khoản 3 Điều 13 Nghị định 32/2024/NĐ-CP và thang 100 điểm); 2. Thẩm quyền quyết định.
+- III. ĐỀ XUẤT, KIẾN NGHỊ; câu kết "Kính đề nghị đồng chí Chủ tịch Ủy ban nhân dân tỉnh xem xét, quyết định./.".
+- Bảng ý kiến của Phó Chủ tịch Thường trực; hai ô ký Lãnh đạo Văn phòng, Chuyên viên tham mưu.
+
+**Mục 3 "Hồ sơ, văn bản có liên quan" — thứ tự:** Tờ trình của Ủy ban nhân dân cấp xã (số, ngày, tên cụm, doanh nghiệp đăng ký); Nghị định 32/2024/NĐ-CP; Nghị định 303/2026/NĐ-CP; Thông tư 14/2024/TT-BCT; Quyết định cũ bị bãi bỏ (nếu có); các văn bản cử cán bộ (số, ngày, cơ quan, xếp theo ngày); Tờ trình của Sở. Văn bản cử cán bộ chỉ ghi khi trích yếu ghi rõ tên cụm; văn bản của Công an tỉnh trích yếu thường chỉ ghi "cụm công nghiệp" chung, phải mở toàn văn đối chiếu trước khi gán.
+
+**Căn cứ pháp lý đúng sau Nghị định 303/2026/NĐ-CP:** thành phần Hội đồng và thang điểm 100 nằm ở **khoản 3 Điều 13** Nghị định 32/2024/NĐ-CP (được bổ sung tại khoản 7 Điều 1 Nghị định 303/2026/NĐ-CP); khoản 2 Điều 13 (sửa đổi) chỉ quy định lựa chọn chủ đầu tư là một nội dung thẩm định. Mẫu phiếu Tân Hợp của Văn phòng (01/10/2026) còn ghi khoản 2 — khi dùng lại phải sửa. Cụm công nghiệp công nghệ cao, cụm công nghiệp sinh thái không phải thực hiện điều kiện tại điểm c khoản 1 Điều 8 (sửa đổi tại khoản 3 Điều 1 Nghị định 303/2026/NĐ-CP). Thẩm quyền: khoản 21 Điều 17 Luật Tổ chức chính quyền địa phương số 72/2025/QH15; điểm d khoản 2 Điều 3 Quyết định 1522/QĐ-UBND ngày 04/5/2026 (Quy chế làm việc của UBND tỉnh) — dẫn theo mẫu của Văn phòng.
+
+**Biến thể bãi bỏ Quyết định thành lập Hội đồng cũ** (vụ Phú Thịnh 6, 03/11/2026 — chuyên viên Văn phòng yêu cầu "bổ sung nội dung bãi bỏ vào phiếu trình"):
+
+1. Vấn đề trình thêm vế "; bãi bỏ Quyết định số …/QĐ-UBND ngày … của Ủy ban nhân dân tỉnh".
+2. Mục 3 thêm dòng Quyết định cũ.
+3. Mục 4.3 "Bãi bỏ Quyết định số …": Hội đồng cũ gắn với hồ sơ nào (Tờ trình số, ngày của xã); lý do hồ sơ không còn (doanh nghiệp rút, lập lại theo loại hình khác); nội dung bãi bỏ đặt ở điều nào của dự thảo Quyết định; Tờ trình mới thay thế Tờ trình nào của Sở trước đó (ví dụ Tờ trình xin giải thể Hội đồng) để Văn phòng đóng hồ sơ cũ.
+4. Mục II.1 thêm một đoạn ngắn: Hội đồng cũ chưa ban hành tiêu chí, chưa chấm điểm, không còn đối tượng đánh giá; bãi bỏ đồng thời với thành lập Hội đồng mới bảo đảm chặt chẽ về pháp lý. Không lặp lại diễn biến đã nêu ở 4.3.
+5. Mục II.2 và III: "… thành lập Hội đồng … và bãi bỏ Quyết định số …".
+6. Dự thảo Quyết định: bãi bỏ đặt ở khoản 2 Điều hiệu lực ("Bãi bỏ Quyết định số … thành lập …"), tên Quyết định chỉ là thành lập Hội đồng.
+
+**Lưu ý trình bày:** ngày ở bảng ý kiến và hai ô ký để trống, chỉ ghi tháng, năm (người dùng chốt: chỗ ngày của văn bản chưa ban hành để trống, không bôi tím); bảng ý kiến và ô ký không được tách sang trang riêng — thiếu chỗ thì rút gọn đoạn trùng ý, không xóa đề mục; đề mục 4.3 giữ cùng trang với đoạn nội dung (Keep with next). Chỗ chưa đối chiếu được (số văn bản cử cán bộ chưa chắc) phải tra cho xong trước khi gửi Văn phòng, vì phiếu là biểu mẫu chung của cơ quan.

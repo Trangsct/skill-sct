@@ -177,7 +177,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `00-MUC-LUC.md` | Danh mục toàn bộ biểu mẫu, tra nhanh theo tình huống |
 | `01-bo-mau-doanh-nghiep.md` | Mẫu cho DN/UBND xã: Văn bản đề nghị làm CĐT; Tờ trình UBND xã đề nghị thành lập; văn bản cam kết năng lực tài chính |
 | `02-bo-mau-thanh-lap-ccn.md` | Bộ SCT: Công văn lấy ý kiến sở ngành; Báo cáo thẩm định; Tờ trình UBND tỉnh (thành lập Hội đồng / QĐ thành lập); dự thảo QĐ thành lập CCN |
-| `03-bo-mau-hoi-dong-cham-diem.md` | Dự thảo QĐ thành lập Hội đồng + Tổ giúp việc; Bộ tiêu chí chấm điểm; Phiếu chấm; Biên bản họp; Báo cáo kết quả trình UBND tỉnh |
+| `03-bo-mau-hoi-dong-cham-diem.md` | Dự thảo QĐ thành lập Hội đồng + Tổ giúp việc; Bộ tiêu chí chấm điểm; Phiếu chấm; Biên bản họp; Báo cáo kết quả trình UBND tỉnh; **03.6 Phiếu trình giải quyết công việc của Văn phòng UBND tỉnh trình Chủ tịch ký QĐ thành lập Hội đồng (kèm biến thể bãi bỏ QĐ cũ, bản thật Phú Thịnh 6 03/11/2026)** |
 | `04-bo-mau-bao-cao-ubnd.md` | Báo cáo tình hình CCN 6 tháng/năm; báo cáo chuyên đề NQ 34; báo cáo đột xuất; Biểu tổng hợp |
 | `05-bo-mau-cong-van-huong-dan.md` | Công văn hướng dẫn doanh nghiệp; công văn đôn đốc UBND xã; công văn phản hồi vướng mắc |
 | `06-mau-chinh-thuc-tt14.md` | Nguyên văn Mẫu 01-04 Phụ lục II TT 14/2024 (để đối chiếu, trích khi cần) |

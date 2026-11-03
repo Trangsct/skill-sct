@@ -1,11 +1,14 @@
 {
   "name": "kccn-sct-vn",
-  "version": "1.61.1",
-  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 54 (28/10/2026) MỚI NHẤT: TBKL 1173-TB/TU — mốc GPMB từng xã, phường 12 dự án; BCĐ GPMB QĐ 01-QĐ/TU, 02 BCĐ KCN QĐ 2029, 2030 (bản gốc); Hội nghị Chủ tịch với 45 DN 27/10; mẫu 11 công văn UBND tỉnh triển khai kết luận (bỏ khẩu hiệu, cơ quan + việc + hạn). Ref 53: Luật Đầu tư 143/2025 — hạ tầng CCN không chấp thuận CTĐT.",
+  "version": "1.62.0",
+  "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT (mẫu 03.6 phiếu trình VP UBND tỉnh trình Chủ tịch ký QĐ lập HĐ, biến thể bãi bỏ QĐ cũ); khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 54 (28/10/2026): TBKL 1173-TB/TU — mốc GPMB từng xã, phường 12 dự án; BCĐ GPMB QĐ 01-QĐ/TU, QĐ 2029, 2030; mẫu 11 công văn UBND tỉnh triển khai kết luận. Ref 53: Luật Đầu tư 143/2025 — hạ tầng CCN không chấp thuận CTĐT.",
   "author": {
     "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
   },
   "keywords": [
+    "phieu-trinh-giai-quyet-cong-viec-vp-ubnd",
+    "ccn-cong-nghe-cao-phu-thinh-6",
+    "bai-bo-qd-3273-hoi-dong",
     "tbkl-1173-tb-tu-27-10-2026",
     "bcd-gpmb-du-an-trong-diem-qd-01-qd-tu",
     "bcd-phat-trien-kcn-qd-2029-2030",

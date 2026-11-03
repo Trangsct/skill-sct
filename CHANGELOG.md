@@ -1,3 +1,7 @@
+## 03/11/2026 (lần 2) — sd-vlncn-sct-vn 2026.11.03.1: thống kê tổ chức sử dụng VLNCN, dịch vụ nổ mìn (ref 14)
+
+- Từ dự thảo Báo cáo Sở gửi UBND tỉnh 02/11/2026: 43 GP còn hiệu lực / 33 tổ chức (Bộ 02, UBND 22, Sở 19), theo lĩnh vực, 06 tổ chức dịch vụ nổ mìn, 11 GP hết hạn đến 31/12/2026; đối chiếu CSDL: 31 GP khớp, 10 GP chưa lên CSDL; 5 ô còn trống của dự thảo.
+
 ## 03/11/2026 — dacn-sct-vn 1.13.0: tính giá trị sản xuất, tăng trưởng kinh tế tỉnh (ref 17)
 
 - Nạp Phụ lục Sở Tài chính rà soát SXKD, đầu tư, xây dựng quý IV/2026 (940 đơn vị, 595 công trình, 46 trọng điểm; chốt 26/10/2026) và 23 bảng nền 2025 trước sáp nhập (Yên Bái cũ 31/5/2025, Lào Cai cũ 6/2025), đã ẩn danh; script `tinh_tang_truong.py` ước GTSXCN cả năm, quý IV cần đạt, đóng góp GRDP, độ phủ (≈ 1/3 GTSXCN 9 tháng, vắng 20/37 DN CV 10349). Bản đầy đủ số điện thoại ở plugin riêng tư dong-nghiep-sct-vn.

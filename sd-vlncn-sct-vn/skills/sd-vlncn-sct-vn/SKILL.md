@@ -206,6 +206,10 @@ sd-vlncn-sct-vn/
 │   ├── 11-anti-error.md              ← ⭐ 36 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
 │   ├── 13-nd-392-2026-dieu-kien-antt.md ← NĐ 392/2026 sửa NĐ 96/2016 (GCN ANTT: ngành nghề,
 │   │                                thẩm quyền, cấp đổi, tài liệu PCCC, ngừng kinh doanh) + bảng đối chiếu
+│   ├── 14-thong-ke-to-chuc-su-dung-vlncn-11-2026.md ← ⭐ MỚI 03/11/2026: 43 GP còn hiệu lực / 33 tổ chức
+│   │                                (Bộ 02, UBND 22, SCT 19), theo lĩnh vực, 06 tổ chức dịch vụ nổ mìn,
+│   │                                11 GP hết hạn đến 31/12/2026; bảng đủ 41 GP + 10 GP chưa lên CSDL
+│   │                                (mới hơn ref 12 — dùng bảng này khi báo cáo số tổ chức sử dụng VLNCN)
 │   └── 12-csdl-vlncn-laocai.md       ← ảnh chụp tự động CSDL trang vlncn-laocai: GP còn hiệu lực,
 │                                    GP-SCT đã cấp, TCTN, dịch vụ nổ mìn, mục G báo cáo định kỳ
 │                                    của DN đã nhận (máy sinh, không sửa tay)

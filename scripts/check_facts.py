@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "stc-sxkd-quy-iv-khong-phai-gtsxcn",
+        # dacn-sct-vn ref 17 (03/11/2026): 7.358,80 tỷ là tổng QIV của 202 đơn vị công nghiệp + 02 công trình do xã báo cáo
+        # (Sở Tài chính tổng hợp) — doanh thu/giá trị giá hiện hành, chỉ phủ ≈ 1/3 ngành; không gọi là GTSXCN quý IV của tỉnh.
+        "pattern": r"^(?!.*(?:lịch sử|không|KHÔNG|danh sách|đơn vị|xã)).*(?:GTSXCN|[Gg]iá trị sản xuất công nghiệp)[^.]{0,40}quý IV[^.]{0,40}7\.358",
+        "why": "7.358,80 tỷ là tổng QIV của danh sách đơn vị công nghiệp xã báo cáo (Sở Tài chính tổng hợp 26/10/2026), không phải GTSXCN quý IV của tỉnh (dacn-sct-vn ref 17).",
+        "since": "2026-11-03",
+        "level": "FAIL",
+    },
+    {
         "id": "phu-bieu-sxcn-nha-may-gia-tri-nam",
         # Trưởng phòng QLCN góp ý 01/11/2026 (dacn-sct-vn ref 16): cột giá trị SXCN của Phụ biểu khởi công, khánh thành là giá trị
         # một năm khi hoạt động ổn định; không dùng phần đóng góp năm 2026 chia 1,368 (axit điện tử Đức Giang 658, DCP 79...).

@@ -1,5 +1,9 @@
 # CHANGELOG — qlks-sct-vn
 
+## 2.4.0 — 03/11/2026 — Hội đồng thẩm định Đề án đóng cửa mỏ QĐ 4094/QĐ-UBND, việc khoáng sản 20/10–03/11/2026 (ref 25 mục G)
+
+- Ref 25 mục G (7 việc) + anti-error 6; SKILL.md mục I.3 dẫn mục G. Chi tiết: `CHANGELOG-v2026.11.03.md`.
+
 ## 2.3.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/02-phan-vai-sct-cac-co-quan.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

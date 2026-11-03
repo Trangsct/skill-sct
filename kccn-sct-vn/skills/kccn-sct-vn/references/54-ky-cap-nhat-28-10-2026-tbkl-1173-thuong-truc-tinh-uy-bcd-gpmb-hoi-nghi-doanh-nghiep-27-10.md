@@ -112,3 +112,31 @@ Văn bản đến của cơ quan — chỉ tóm tắt, không lưu bản gốc v
 - **Nhiệm vụ**: (3.1) **BQL KKT tỉnh** chủ trì cùng tư vấn hoàn thiện Đề án, làm rõ 4 nội dung: mục tiêu, chỉ tiêu định lượng, lộ trình từng giai đoạn; danh mục nhiệm vụ + cơ quan chủ trì + thời hạn + sản phẩm; kinh phí, nguồn từng nhiệm vụ; cơ chế khuyến khích và trách nhiệm doanh nghiệp (sản xuất sạch hơn, hiệu quả tài nguyên, cộng sinh công nghiệp) — **gửi hồ sơ về UBND tỉnh (qua Văn phòng) trong tháng 12/2026**; làm việc với doanh nghiệp trong KCN để thống nhất lộ trình, cam kết; chuẩn bị điều kiện triển khai ngay sau phê duyệt. (3.2) **Sở Tài chính**: thẩm định kinh phí, bố trí trong **dự toán 2027**. (3.3) **Sở NN&MT**: góp ý chất thải, quan trắc, kiểm soát ô nhiễm; tăng kiểm tra BVMT doanh nghiệp. (3.4) **Sở Công Thương, Sở KH&CN, Sở Xây dựng**: hướng dẫn, hỗ trợ doanh nghiệp **sản xuất sạch hơn, sử dụng năng lượng tiết kiệm, hiệu quả, đổi mới công nghệ**; rà soát sự phù hợp của Đề án với quy hoạch, hạ tầng kỹ thuật KCN. (3.5) **Sở Tư pháp**: thẩm định dự thảo QĐ phê duyệt ngay khi nhận hồ sơ. (3.6) **BQL DA ĐTXD tỉnh**: đẩy nhanh chuẩn bị đầu tư các dự án đầu tư công liên quan, đồng bộ lộ trình Đề án. (3.7) **UBND xã Tằng Loỏng**: giám sát môi trường, tuyên truyền đồng thuận.
 - **Dùng trong bài phát biểu 28/10 (Giám đốc duyệt)**: phần vướng mắc — "Đề án… xây dựng đã hơn 01 năm, qua 03 lần trình; PCT Thường trực UBND tỉnh đã kết luận tại TB 192/TB-VPUBND ngày 28/10/2026: chuyển đổi là yêu cầu bắt buộc, Đề án phải có nhiệm vụ cụ thể, có địa chỉ, có thời hạn, hoàn thiện trong tháng 12/2026"; phần giao việc — BQL KKT hoàn thiện Đề án theo TB 192, **báo cáo UBND tỉnh trong tháng 12/2026**; Sở Tài chính thẩm định kinh phí, bố trí dự toán 2027; Sở Công Thương "hướng dẫn, hỗ trợ doanh nghiệp KCN Tằng Loỏng áp dụng sản xuất sạch hơn, sử dụng năng lượng tiết kiệm, hiệu quả theo TB 192". Việc của Sở (3.4) là việc **phối hợp theo chức năng** cùng KH&CN, Xây dựng — không nhận là chủ trì Đề án.
 - Dự án di chuyển dân cư ra khỏi ranh giới KCN Tằng Loỏng: TB 192 không kết luận; bài phát biểu chỉ nêu "chưa được quyết định" ở phần vướng mắc (Giám đốc cắt câu đề nghị UBND tỉnh quyết định).
+
+## G. Văn bản KCN, CCN 27/10–03/11/2026 (bản tin egov1 29/10, 30/10, 02/11, 03/11/2026)
+
+1. **Khu tái định cư phục vụ CCN xã Xuân Ái — QĐ 4056/QĐ-UBND ngày 29/10/2026** phê duyệt chủ trương đầu tư dự án Xây dựng khu tái
+   định cư hạ tầng kỹ thuật CCN Yên Hợp, xã Xuân Ái (đầu tư công; UBND xã Xuân Ái đề xuất tại TTr 238/TTr-UBND 08/9/2026, Sở Tài
+   chính lấy ý kiến 7333/STC-THQH 14/9/2026). Ý kiến thẩm định của Sở (công văn SCT-CN tháng 9/2026, bản kèm): xã Xuân Ái có **04
+   CCN, 225 ha** theo QĐ 525 (Yên Hợp 12 ha; Yên Hợp 2 75 ha; Xuân Ái 75 ha; Yên Hợp 1 63 ha đang thu hút đầu tư); Sở thống nhất sự
+   cần thiết, đề nghị khu tái định cư **nằm ngoài ranh 04 CCN, không chồng lấn dự án đã chấp thuận, bảo đảm khoảng cách an toàn
+   môi trường** với CCN; viện dẫn VB 8885/UBND-TH 29/8/2026, NQ 34-NQ/TU. Dùng làm khuôn ý kiến cho các dự án tái định cư phục vụ
+   GPMB CCN khác (ref 54 mục B).
+2. **Di dời CCN Đầm Hồng** (ref 45, ref 12): theo VB **9514/UBND-KT 14/9/2026**, UBND phường Yên Bái chủ trì, phối hợp Thanh tra
+   tỉnh, Công an tỉnh hoàn thiện Đề án sắp xếp, di dời các cơ sở sản xuất, kinh doanh, **gửi Sở Công Thương thẩm định, trình UBND
+   tỉnh trong tháng 10/2026**. VB **2329/UBND-KTHT** (tháng 10/2026) của phường xin ý kiến Thanh tra tỉnh (tiếp công dân, khiếu nại,
+   phòng ngừa tiêu cực, kết luận thanh tra liên quan) — Sở sắp nhận hồ sơ thẩm định Đề án; hạn tháng 10 đã qua.
+3. **Danh mục dự án trọng điểm, kế hoạch khởi công, khánh thành cuối năm 2026 và hạ tầng KCN, CCN** — Sở lấy ý kiến tại VB
+   **7119/SCT-CN ngày 29/10/2026**; Sở Tài chính trả lời **8830/STC-TĐ ngày 02/11/2026**: thống nhất danh mục, đề nghị bổ sung
+   **địa điểm và tên nhà đầu tư** từng công trình (Phụ lục kèm); phần dự án trọng điểm, hạ tầng KCN, CCN do Sở chủ trì báo cáo
+   (nối `dacn-sct-vn` ref 16).
+4. **Hội đồng đánh giá lựa chọn chủ đầu tư hạ tầng CCN** (ref 51 khuôn Tân Hợp): Sở trình **7215/TTr-SCT ngày 02/11/2026** thành
+   lập Hội đồng và Tổ giúp việc cho **CCN An Thịnh, xã Mậu A**; **7233/TTr-SCT ngày 03/11/2026** cho **CCN công nghệ cao Phú Thịnh 6,
+   phường Văn Phú** và **bãi bỏ QĐ 3273/QĐ-UBND ngày 11/9/2026** (chỉ có trích yếu; mở bản gốc trước khi viện dẫn nội dung).
+5. Việc khác cùng đợt (chỉ có trích yếu hoặc bản quét): VB **1711/UBND-KTHT** (ký 28/10/2026) giải trình, bổ sung hồ sơ **CCN Tân
+   Nguyên** theo tiêu chí lựa chọn chủ đầu tư; VB **7562/CV-** 03/11/2026 xin ý kiến hồ sơ thành lập CCN đã hình thành trước đây có hạ
+   tầng đầu tư bằng ngân sách (**CCN Báo Đáp**); **TB 131/TB-BQL** (Hội đồng thẩm định quy hoạch của BQL Khu kinh tế, họp 27/10/2026)
+   kết luận về đồ án **điều chỉnh mở rộng quy hoạch chi tiết Nhà máy supe lân Lào Cai tại KCN Tằng Loỏng** (KCN thuộc BQL Khu kinh
+   tế — Sở chỉ phối hợp); VB **8589/STC-TĐ 24/10/2026** ý kiến Sở Tài chính về năng lực tài chính hồ sơ **CCN công nghệ cao Phú
+   Thịnh 6** (trả lời 6401/SCT-CN).
+

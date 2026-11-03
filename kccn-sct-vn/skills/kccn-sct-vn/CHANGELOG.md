@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.62.0 — 03/11/2026 — Văn bản KCN, CCN 27/10–03/11/2026 từ bản tin egov1 (ref 54 mục G)
+
+- Ref 54 mục G: QĐ 4056/QĐ-UBND khu tái định cư CCN Yên Hợp; Đề án di dời CCN Đầm Hồng; 8830/STC-TĐ danh mục khởi công, khánh thành; Tờ trình Hội đồng lựa chọn chủ đầu tư CCN An Thịnh (7215/TTr-SCT), Phú Thịnh 6 (7233/TTr-SCT); việc khác. SKILL.md dòng ref 54. Chi tiết: `CHANGELOG-v2026.11.03.md`.
+- `plugin.json` 1.61.1 → 1.62.0.
+
 ## 1.61.1 — 28/10/2026 — Sổ lỗi tự ghi L001, L002 (bài phát biểu BCH: thiếu KCN đang hoạt động; Đông Phố Mới di dời về Khu Bản Qua)
 
 - `references/so-loi-tu-ghi.md` (mới): L001 danh sách KCN đang hoạt động phải đủ 06 khu (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân); L002 nơi di dời KCN Đông Phố Mới là Khu san gạt MB + HTKT Khu Bản Qua (95 ha) và Lô SX1, SX2 Kim Thành - Bản Vược, không phải CCN Bát Xát; bài học "áp dụng plugin, không tin mặc nhiên bản lãnh đạo sửa". check_facts thêm 2 rule `kcn-dang-hoat-dong-thieu-khu`, `dong-pho-moi-di-doi-khong-phai-ccn-bat-xat`. SKILL.md thêm dòng dẫn sổ lỗi.

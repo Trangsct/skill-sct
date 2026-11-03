@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **819** (Luật 34, NĐ 228, TT 116, QĐ 363, NQ 36, khác 42).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **831** (Luật 34, NĐ 231, TT 117, QĐ 371, NQ 36, khác 42).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **105**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -62,6 +62,7 @@
 - NĐ 24/2026 (3 plugin: hc-sct-vn, hnh-sct-vn, xp-sct-vn)
 - NĐ 25/2026 (5 plugin: hc-sct-vn, hnh-sct-vn, ho-so-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - NĐ 351/2026 (3 plugin: attp-sct-vn, dacn-sct-vn, sct-laocai-org-vn)
+- NĐ 96/2026 (3 plugin: ho-so-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - NĐ 139/2025 (6 plugin: attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn)
 - NĐ 140/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - NĐ 144/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)

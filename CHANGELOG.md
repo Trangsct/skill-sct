@@ -1,3 +1,10 @@
+## 03/11/2026 (lần 3) — Nâng cấp từ bản tin egov1 29/10–03/11/2026: qlks-sct-vn 2.4.0, kccn-sct-vn 1.62.0, quy-hoach-ct-vn 1.7.0
+
+- Lượt nâng cấp plugin tự động buổi tối, rà 4 bản tin (29/10, 30/10, 02/11, 03/11/2026; lượt trước theo bản tin là 10/10/2026), 132 văn bản có toàn văn.
+- **qlks-sct-vn 2.4.0** (ref 25 mục G): Hội đồng thẩm định Đề án đóng cửa mỏ QĐ 4094/QĐ-UBND 02/11/2026 thay QĐ 2718 (Sở là cơ quan Thường trực); VB 11050/UBND-KT kiện toàn các Hội đồng thẩm định; khu vực không đấu giá Khọ Bửa QĐ 4062/QĐ-UBND; cao lanh Thái Niên vào kế hoạch đấu giá; chấm dứt dự án chì – kẽm Cây Luồng TB 776/TB-STC; góp ý dự thảo QĐ tỷ lệ khoáng sản nguyên khai.
+- **kccn-sct-vn 1.62.0** (ref 54 mục G): QĐ 4056/QĐ-UBND khu tái định cư CCN Yên Hợp; Đề án di dời CCN Đầm Hồng; 8830/STC-TĐ danh mục khởi công, khánh thành; Tờ trình Hội đồng lựa chọn chủ đầu tư CCN An Thịnh, Phú Thịnh 6.
+- **quy-hoach-ct-vn 1.7.0** (ref 12 mới): thủy điện Tung Chung QĐ 3938/QĐ-UBND; Nậm Lành TB 793/TB-STC; ĐMT Nậm Đông IV TB 765/TB-STC; Tờ trình 1659/TTr-UBND đăng ký Nghị quyết HĐND hỗ trợ hộ gia đình lắp điện mặt trời mái nhà 2027–2030.
+
 ## 03/11/2026 (lần 2) — sd-vlncn-sct-vn 2026.11.03.1: thống kê tổ chức sử dụng VLNCN, dịch vụ nổ mìn (ref 14)
 
 - Từ dự thảo Báo cáo Sở gửi UBND tỉnh 02/11/2026: 43 GP còn hiệu lực / 33 tổ chức (Bộ 02, UBND 22, Sở 19), theo lĩnh vực, 06 tổ chức dịch vụ nổ mìn, 11 GP hết hạn đến 31/12/2026; đối chiếu CSDL: 31 GP khớp, 10 GP chưa lên CSDL; 5 ô còn trống của dự thảo.

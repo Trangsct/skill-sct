@@ -1,5 +1,9 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## 1.7.0 — 03/11/2026 — Chủ trương đầu tư nguồn điện, chính sách điện mặt trời mái nhà hộ gia đình (ref 12)
+
+- Ref 12 mới: thủy điện Tung Chung (QĐ 3938/QĐ-UBND), Nậm Lành (TB 793/TB-STC), ĐMT Nậm Đông IV (TB 765/TB-STC), Tờ trình 1659/TTr-UBND về Nghị quyết HĐND hỗ trợ hộ gia đình 2027–2030. Chi tiết: `CHANGELOG-v2026.11.03.md`.
+
 ## 1.6.0 — 17/10/2026 — Sửa tim_van_ban.py không tìm được số hiệu có chữ Đ
 
 - `scripts/tim_van_ban.py` (bản chép từ gốc kho, đồng bộ bằng `build_so_cai_van_ban_goc.py`): sửa lỗi biểu thức tìm — chữ "đ" bị thay hai lần thành `[đ[dđ]]` nên MỌI số hiệu có chữ Đ (NĐ-CP, QĐ-UBND, QĐ-TTg) không bao giờ khớp và script kết luận sai "chưa có trong kho" (phát hiện 17/10/2026 khi kiểm thử GATE 0). Sau khi sửa: "181/2024/NĐ-CP" khớp 3 mục danh mục.

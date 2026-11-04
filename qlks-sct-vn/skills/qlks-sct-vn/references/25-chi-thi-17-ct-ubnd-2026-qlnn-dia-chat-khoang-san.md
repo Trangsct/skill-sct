@@ -110,6 +110,14 @@
    VB **11303/UBND-KT 03/11/2026** ý kiến khu vực đề nghị cấp phép thăm dò **apatit Lũng Pô – Bát Xát**; **TB 7235/SCT-KS 03/11/2026**
    từ chối giải quyết hồ sơ quyết toán tiền cấp quyền khai thác **mỏ sắt Núi Vi – Làng Thảo**; **QĐ 193/QĐ-ATMT 20/10/2026** (Cục Kỹ
    thuật an toàn và Môi trường công nghiệp) kiểm tra quản lý, vận hành **hồ chứa quặng đuôi**.
+8. **Điều chỉnh công suất theo cơ chế đặc thù — QĐ 4147/QĐ-UBND ngày 04/11/2026** (PCT Nguyễn Thành Sinh ký; theo Tờ trình
+   **7168/TTr-SCT ngày 31/10/2026**; Hội đồng tư vấn kỹ thuật thẩm định hồ sơ họp **30/10/2026**): điều chỉnh Điều 1 **GP 3922/GP-UBND
+   ngày 06/12/2018** của Công ty TNHH Thương mại Lương Hà, **mỏ đá VLXDTT Bản Cầm, xã Phong Hải**: công suất **200.000 → tối đa
+   350.000 m³/năm** (năm 2026 tăng thêm tối đa 124.000 m³; các năm sau tăng thêm tối đa 150.000 m³). **Phần tăng thêm chỉ được cung
+   cấp cho công trình, dự án thuộc khoản 1a Điều 55 Luật Địa chất và khoáng sản**; đủ khối lượng hoặc hết điều kiện cơ chế đặc thù thì
+   dừng phần tăng thêm, quay về công suất cũ. Căn cứ viện dẫn: NQ 66.4/2025/NQ-CP, NQ 66.25/2026/NQ-CP, **TT 54/2026/TT-BCT ngày
+   15/9/2026** (khai thác, khai thác tận thu, thu hồi khoáng sản). Đây là **khuôn quyết định điều chỉnh công suất đầu tiên Sở trình sau
+   15/9/2026** — dùng khi soạn hồ sơ tương tự (Tờ trình + biên bản Hội đồng tư vấn kỹ thuật + biên bản kiểm tra thực địa).
 
 ## F. Anti-error khi dẫn Chỉ thị 17
 

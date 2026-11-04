@@ -1,3 +1,10 @@
+## 04/11/2026 — Nâng cấp từ bản tin egov1 04/11/2026: kccn-sct-vn 1.63.0, qlks-sct-vn 2.4.1, cong-ty-tay-bac-vn 1.2.1
+
+- Lượt nâng cấp plugin tự động buổi tối; bản tin 04/11/2026 có 28 văn bản lần đầu ghi nhận, 6 tệp toàn văn mới.
+- **kccn-sct-vn 1.63.0** (ref 54 mục H): CCN Bát Xát — TB 693/TB-UBND 03/11/2026 của UBND xã Bát Xát tiếp nhận hồ sơ thành lập (54 ha theo QĐ 1958/QĐ-TTg, trong KKT cửa khẩu), đã có hồ sơ Tân Kim Thành, nhận hồ sơ khác đến 17h 18/11/2026; anti-error không nhầm KCN Bát Xát 76 ha.
+- **qlks-sct-vn 2.4.1** (ref 25 mục G.8): QĐ 4147/QĐ-UBND 04/11/2026 điều chỉnh công suất mỏ đá Bản Cầm 200.000 → tối đa 350.000 m³/năm theo cơ chế đặc thù khoản 1a Điều 55 Luật Địa chất và khoáng sản (Tờ trình 7168/TTr-SCT).
+- **cong-ty-tay-bac-vn 1.2.1** (ref 04): tiến độ hồ sơ CCN Bát Xát theo thông báo công khai của xã.
+
 ## 03/11/2026 (lần 3) — Nâng cấp từ bản tin egov1 29/10–03/11/2026: qlks-sct-vn 2.4.0, kccn-sct-vn 1.62.0, quy-hoach-ct-vn 1.7.0
 
 - Lượt nâng cấp plugin tự động buổi tối, rà 4 bản tin (29/10, 30/10, 02/11, 03/11/2026; lượt trước theo bản tin là 10/10/2026), 132 văn bản có toàn văn.

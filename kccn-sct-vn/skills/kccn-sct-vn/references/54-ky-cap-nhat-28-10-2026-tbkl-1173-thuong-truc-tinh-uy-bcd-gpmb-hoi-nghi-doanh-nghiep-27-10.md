@@ -140,3 +140,25 @@ Văn bản đến của cơ quan — chỉ tóm tắt, không lưu bản gốc v
    tế — Sở chỉ phối hợp); VB **8589/STC-TĐ 24/10/2026** ý kiến Sở Tài chính về năng lực tài chính hồ sơ **CCN công nghệ cao Phú
    Thịnh 6** (trả lời 6401/SCT-CN).
 
+## H. CCN Bát Xát — UBND xã thông báo tiếp nhận hồ sơ thành lập (bản tin egov1 04/11/2026)
+
+- **TB 693/TB-UBND ngày 03/11/2026** của UBND xã Bát Xát (Chủ tịch Ngô Hoàng Sơn ký; thông báo công khai, đăng báo, niêm yết):
+  tiếp nhận hồ sơ thành lập **CCN Bát Xát**, thôn Bát Xát 5, xã Bát Xát — **khoảng 54 ha theo QĐ 1958/QĐ-TTg ngày 10/9/2025** (điều
+  chỉnh quy hoạch chung Khu kinh tế cửa khẩu Lào Cai), nằm trong phạm vi KKT cửa khẩu; căn cứ NĐ 32/2024 (sửa đổi NĐ 303/2026),
+  QĐ 525/QĐ-UBND, QĐ 16/2026/QĐ-UBND và **hướng dẫn của Sở tại VB 5245/SCT-CN ngày 25/8/2026** (ref 30).
+- Ranh giới: Bắc giáp sân golf, đường Kim Thành – Ngòi Phát; Đông giáp Khu tái định cư số 2 và Trường THPT số 1 Bát Xát; Nam giáp
+  đất rừng sản xuất; Tây giáp đất rừng sản xuất và khu dân cư thôn Bát Xát 1. CCN đa ngành (chế biến nông, lâm sản; gia công hàng
+  xuất nhập khẩu; cơ khí; điện, điện tử; công nghiệp hỗ trợ; vật liệu xây dựng, bao bì, hàng tiêu dùng; tiếp nhận cơ sở di dời);
+  dịch vụ kho bãi, đóng gói, vận chuyển **không quá 10% diện tích**; không thu hút dự án có nguy cơ ô nhiễm môi trường cao.
+- Hồ sơ đã nhận: ngày 01/11/2026 xã nhận VB 01/2026/VB-TKT ngày 29/10/2026 của **Công ty Cổ phần Đầu tư và Phát triển Tân Kim
+  Thành** đề nghị làm chủ đầu tư hạ tầng, kèm hồ sơ thành lập.
+- Theo **khoản 1 Điều 10 NĐ 32/2024 (sửa tại khoản 5 Điều 1 NĐ 303/2026)**, xã tiếp tục nhận hồ sơ của doanh nghiệp, hợp tác xã, tổ
+  chức khác **15 ngày, từ 04/11 đến 17h00 ngày 18/11/2026** tại Trung tâm Phục vụ hành chính công xã Bát Xát; thành phần theo điểm
+  b, d, đ khoản 1 Điều 9 NĐ 32/2024 (văn bản đề nghị **Mẫu số 01 Phụ lục II TT 14/2024/TT-BCT** + Báo cáo đầu tư thành lập CCN + bản
+  đồ vị trí, ranh giới; tài liệu năng lực tài chính; kinh nghiệm), 01 bộ kèm tệp điện tử.
+- Việc tiếp theo của Phòng QLCN: sau 18/11/2026 theo dõi xã tổng hợp số hồ sơ — **một hồ sơ** thì xã hoàn thiện, gửi Sở thẩm định;
+  **từ hai hồ sơ trở lên** thì phải tổ chức đánh giá lựa chọn chủ đầu tư theo tiêu chí (khuôn Tân Hợp, ref 51) — tra lại điều khoản
+  NĐ 303/2026 khi trả lời xã. GATE trạng thái hồ sơ: chưa có tệp `trang-thai/` cho CCN Bát Xát.
+- ⚠️ Không nhầm với **KCN Bát Xát** (KCN quy hoạch 76 ha, xã Bát Xát — ref 12 theo QĐ 525) và KCN Bản Qua (xã Bát Xát). CCN Bát
+  Xát lấy diện tích theo QĐ 1958/QĐ-TTg; khi soạn văn bản phải dẫn đúng quy hoạch làm căn cứ.
+

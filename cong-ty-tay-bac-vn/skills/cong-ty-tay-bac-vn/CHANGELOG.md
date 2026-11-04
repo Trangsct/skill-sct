@@ -1,5 +1,9 @@
 # CHANGELOG cong-ty-tay-bac-vn
 
+## 1.2.1 - 04/11/2026
+
+- Reference 04: mục tiến độ hồ sơ CCN Bát Xát theo TB 693/TB-UBND 03/11/2026 của UBND xã Bát Xát (đã nhận hồ sơ Tân Kim Thành; nhận hồ sơ tổ chức khác đến 17h00 ngày 18/11/2026). Chi tiết: `CHANGELOG-v2026.11.04.md`.
+
 ## 1.2.0 - 01/11/2026
 
 - Reference 05: hợp đồng giám sát ảnh hưởng nổ mìn - hợp đồng khung đầu vào 25.09/2026/HĐDV-HCMTB với Công ty Công nghiệp Hóa chất mỏ Tây Bắc (tóm tắt điều khoản, 4 phụ lục mẫu), hợp đồng đầu ra 04.10/2026/HĐGS (8 điều khoản bảo vệ Tây Bắc), khớp nối thời hạn, thanh toán, trách nhiệm hai hợp đồng.

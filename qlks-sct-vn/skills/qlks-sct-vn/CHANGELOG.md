@@ -1,5 +1,9 @@
 # CHANGELOG — qlks-sct-vn
 
+## 2.4.1 — 04/11/2026 — QĐ 4147/QĐ-UBND điều chỉnh công suất mỏ đá Bản Cầm theo cơ chế đặc thù (ref 25 mục G.8)
+
+- Chi tiết: `CHANGELOG-v2026.11.04.md`.
+
 ## 2.4.0 — 03/11/2026 — Hội đồng thẩm định Đề án đóng cửa mỏ QĐ 4094/QĐ-UBND, việc khoáng sản 20/10–03/11/2026 (ref 25 mục G)
 
 - Ref 25 mục G (7 việc) + anti-error 6; SKILL.md mục I.3 dẫn mục G. Chi tiết: `CHANGELOG-v2026.11.03.md`.

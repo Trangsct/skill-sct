@@ -26,3 +26,13 @@ Căn cứ đã đối chiếu kho: NĐ 32/2024/NĐ-CP; NĐ 303/2026/NĐ-CP ngày
 9. Tạm dừng quá 03 tháng thì Bên B được chấm dứt và thanh toán khối lượng đã làm; Bên A đơn phương chấm dứt không do lỗi Bên B thì trả thêm 10% phần việc còn lại; tiền đã thanh toán không hoàn trả.
 
 Văn phong: giữ ngắn, thêm điều khoản bảo vệ bằng cách bổ sung câu vào khoản sẵn có, không viết lại toàn bộ để Bên A dễ chấp nhận.
+
+## Tiến độ hồ sơ CCN Bát Xát (theo thông báo công khai của xã)
+
+- **TB 693/TB-UBND ngày 03/11/2026** của UBND xã Bát Xát: xã đã nhận (01/11/2026) văn bản 01/2026/VB-TKT ngày 29/10/2026 và hồ sơ
+  thành lập CCN Bát Xát (khoảng 54 ha theo QĐ 1958/QĐ-TTg) của Công ty CP Đầu tư và Phát triển Tân Kim Thành — bên thuê tư vấn.
+- Xã **tiếp tục nhận hồ sơ của tổ chức khác đến 17h00 ngày 18/11/2026** (khoản 1 Điều 10 NĐ 32/2024 sửa tại khoản 5 Điều 1 NĐ
+  303/2026). Có thêm hồ sơ cạnh tranh thì phải qua đánh giá lựa chọn chủ đầu tư — hợp đồng tư vấn đã ghi Bên B không bảo đảm kết quả
+  chấm điểm (khoản 7 mục trên); chuẩn bị sẵn tài liệu năng lực tài chính, kinh nghiệm của Bên A cho bước này.
+- Chi tiết thủ tục phía cơ quan nhà nước: `kccn-sct-vn` ref 54 mục H.
+

@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.63.0 — 04/11/2026 — CCN Bát Xát: xã thông báo tiếp nhận hồ sơ thành lập (ref 54 mục H)
+
+- Ref 54 mục H: TB 693/TB-UBND 03/11/2026 của UBND xã Bát Xát (54 ha theo QĐ 1958/QĐ-TTg; hồ sơ Công ty CP Đầu tư và Phát triển Tân Kim Thành; nhận hồ sơ khác 04/11–17h 18/11/2026); việc tiếp theo; anti-error KCN Bát Xát. Chi tiết: `CHANGELOG-v2026.11.04.md`.
+- `plugin.json` 1.62.0 → 1.63.0.
+
 ## 1.62.0 — 03/11/2026 — Văn bản KCN, CCN 27/10–03/11/2026 từ bản tin egov1 (ref 54 mục G)
 
 - Ref 54 mục G: QĐ 4056/QĐ-UBND khu tái định cư CCN Yên Hợp; Đề án di dời CCN Đầm Hồng; 8830/STC-TĐ danh mục khởi công, khánh thành; Tờ trình Hội đồng lựa chọn chủ đầu tư CCN An Thịnh (7215/TTr-SCT), Phú Thịnh 6 (7233/TTr-SCT); việc khác. SKILL.md dòng ref 54. Chi tiết: `CHANGELOG-v2026.11.03.md`.

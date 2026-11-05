@@ -53,6 +53,6 @@ Plugin liên quan: hc-sct-vn
 - Câu hỏi chưa được trả lời: Ngày tiếp nhận hồ sơ trên Cổng là 22/10 hay 23/10/2026
 
 ### 05/11/2026
-- Việc đã làm: Rà hồ sơ Công ty nộp lại sau Văn bản 7149/SCT-CN ngày 30/10/2026 (văn bản đề nghị 24-VBĐN/QH ngày 04/11/2026, phụ lục hợp đồng 02/2026/PLHĐ/VQC-QHC, bản vẽ mặt bằng, 05 tài liệu kho của Việt Quang); dựng bản nhận xét chỉ nêu nội dung chưa đạt
-- Văn bản đã xuất: 2026.11.05. Nhận xét hồ sơ đã hoàn thiện GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1)
+- Việc đã làm: Rà hồ sơ Công ty nộp lại sau Văn bản 7149/SCT-CN ngày 30/10/2026 (văn bản đề nghị 24-VBĐN/QH ngày 04/11/2026, phụ lục hợp đồng 02/2026/PLHĐ/VQC-QHC, bản vẽ mặt bằng, 05 tài liệu kho của Việt Quang); dựng bản nhận xét chỉ nêu nội dung chưa đạt; Dựng lại văn bản đề nghị (Mẫu 07 TT 26/2026) và phụ lục hợp đồng dịch vụ tồn trữ để hai doanh nghiệp ký lại: chỉ lưu huỳnh 6.000 kg tại kệ C8, C9 vị trí 2.1-2.3; loại trừ khoản 5.2.7, 5.2.11, 6.1.8 và quyền đơn phương ra phụ lục 5.2.4, 5.2.13; trách nhiệm hai bên; xử lý khi GCN 1094 hết hiệu lực
+- Văn bản đã xuất: 2026.11.05. Nhận xét hồ sơ đã hoàn thiện GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1); Văn bản đề nghị cấp GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1); Phụ lục hợp đồng dịch vụ tồn trữ hóa chất Việt Quang - Quang Huy.docx (bản 1)
 - Câu hỏi chưa được trả lời: Thông báo Công ty hoàn thiện lần này bằng văn bản hay làm việc trực tiếp

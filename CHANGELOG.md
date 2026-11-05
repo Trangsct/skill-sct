@@ -1,3 +1,7 @@
+## 05/11/2026 — hnh-sct-vn 1.18.1: sổ lỗi L002, Kế hoạch phòng ngừa kho Lô F19 (QĐ 221/QĐ-HC)
+
+- Không bắt lỗi dạng chứa hàng chỉ theo tên loại xe "container" trên bản dịch đăng ký xe Trung Quốc (ref 11 lỗi 31, ref 16 mục 13.2); kho Lô F19 có Kế hoạch phê duyệt tại QĐ 221/QĐ-HC ngày 25/8/2025 (ref 16 mục 13.3).
+
 ## 04/11/2026 — Nâng cấp từ bản tin egov1 04/11/2026: kccn-sct-vn 1.63.0, qlks-sct-vn 2.4.1, cong-ty-tay-bac-vn 1.2.1
 
 - Lượt nâng cấp plugin tự động buổi tối; bản tin 04/11/2026 có 28 văn bản lần đầu ghi nhận, 6 tệp toàn văn mới.

@@ -1,3 +1,8 @@
+## 05/11/2026 (lần 4) — kccn-sct-vn 1.65.0: Thông tư 69/2026/TT-BCT sửa TT 14/2024 (chế độ báo cáo, mẫu văn bản CCN); Hội đồng CCN Phú Thịnh 6
+
+- Lượt nâng cấp plugin tự động buổi tối, rà bản tin egov1 05/11/2026 (141 văn bản lần đầu ghi nhận).
+- **kccn-sct-vn 1.65.0**: lưu bản gốc + bản chữ OCR **TT 69/2026/TT-BCT ngày 30/10/2026** (hiệu lực 18/12/2026); ref 55 mới — bảng đối chiếu điều sửa đổi, chuỗi báo cáo 06 biểu (Sở nộp Biểu 05, 06 về Cục Công nghiệp), Phụ lục II Mẫu 01–04; ref 54 mục I — QĐ 4154/QĐ-UBND 04/11/2026 Hội đồng lựa chọn chủ đầu tư CCN công nghệ cao Phú Thịnh 6; registry thêm trạng thái TT 14/2024, TT 69/2026.
+
 ## 05/11/2026 (lần 3) — tra-cuu-sct-vn 1.0.0 (plugin mới): gắn máy chủ MCP tra cứu; kccn-sct-vn 1.64.0, sct-laocai-org-vn 2.11.0, vbhc-vn 2.38.0
 
 - **tra-cuu-sct-vn 1.0.0**: `.mcp.json` khai báo máy chủ `sct-tra-cuu` (kho mã `sct-mcp`, chạy trên Vercel; url `${SCT_MCP_URL}`, header `Authorization: Bearer ${SCT_MCP_TOKEN}`); SKILL.md: gọi công cụ máy chủ trước, dự phòng script khi mất kết nối, không coi kết quả rỗng là "không có văn bản" khi chưa tra cả hai cách; quy trình bắt buộc khi soạn (goi_boi_canh_soan_thao → nguoi_ky_va_luong_trinh → viết → kiem_tra_du_kien → vbhc-vn), thẩm định (checklist_tham_dinh → doi_chieu_ho_so), báo cáo (so_lieu_bao_cao), việc chờ xử lý (viec_cho_xu_ly); README cách `setx` hai biến và kiểm `/mcp`. 16 công cụ chỉ đọc.

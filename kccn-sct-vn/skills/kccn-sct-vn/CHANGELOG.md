@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.65.0 — 05/11/2026 — Thông tư 69/2026/TT-BCT sửa TT 14/2024 (ref 55); Hội đồng CCN Phú Thịnh 6 QĐ 4154/QĐ-UBND (ref 54 mục I)
+
+- Chi tiết: `CHANGELOG-v2026.11.05.md`.
+- `plugin.json` 1.64.0 → 1.65.0.
+
 ## 1.63.0 — 04/11/2026 — CCN Bát Xát: xã thông báo tiếp nhận hồ sơ thành lập (ref 54 mục H)
 
 - Ref 54 mục H: TB 693/TB-UBND 03/11/2026 của UBND xã Bát Xát (54 ha theo QĐ 1958/QĐ-TTg; hồ sơ Công ty CP Đầu tư và Phát triển Tân Kim Thành; nhận hồ sơ khác 04/11–17h 18/11/2026); việc tiếp theo; anti-error KCN Bát Xát. Chi tiết: `CHANGELOG-v2026.11.04.md`.

@@ -7,6 +7,13 @@ description: "CƠ CẤU TỔ CHỨC, PHÂN CÔNG Sở Công Thương Lào Cai. K
 
 > **Tra văn bản gốc (Bạn chốt 09/10/2026, áp dụng mọi plugin):** đọc `van-ban-goc/00-DANH-MUC-CHUNG.md` và chạy `python3 scripts/tim_van_ban.py "<số hiệu hoặc cụm từ>"` TRƯỚC khi kết luận văn bản nào chưa có trong kho. Văn bản đã có trong danh mục thì phải mở toàn văn `.txt` cùng tên đặt cạnh bản gốc để trích; cấm trả lời "không có tài liệu", "chưa có trong gói", "không mở được toàn văn", "tra mạng khi cần nguyên văn". Khi Bạn gửi văn bản quy phạm pháp luật trong phiên: (a) đọc số, ngày, cơ quan, người ký bằng script (GATE), không đọc bằng mắt; (b) đặt tên `YYYY.MM.DD-SỐ.KÝ.HIỆU-Tên-trích-yếu-ngắn`, giữ nguyên định dạng gốc; (c) lưu vào `van-ban-goc/` của plugin chủ theo lĩnh vực, không nhân bản sang plugin khác; (d) sinh `.txt` bằng `scripts/trich_chu_van_ban_goc.py`; (e) chạy `scripts/build_so_cai_van_ban_goc.py` ở gốc kho để cập nhật danh mục; (f) cập nhật reference tóm tắt + CHANGELOG; (g) push, mở PR. Phiên không có quyền ghi kho thì nói ngay ở câu đầu và hướng dẫn Bạn dùng Hộp thư nạp kho `_inbox/` trên GitHub (`_inbox/README.md`, 6 bước), không được chỉ tóm tắt rồi bỏ qua tệp.
 
+## Bảng phân công ký dạng máy đọc — `data/phan-cong-ky.json` (từ 05/11/2026)
+
+Trích từ các mục "Phân công nhiệm vụ trong Lãnh đạo Sở", "Bảng routing trình Lãnh đạo Sở", "Khối người ký" dưới đây thành JSON
+(giai đoạn hiệu lực, lĩnh vực → phòng, chuyên viên, kiểm duyệt, người ký, khối ký, ký hiệu, dòng Lưu, người ký thay khi vắng).
+Máy chủ tra cứu (plugin `tra-cuu-sct-vn`, công cụ `nguoi_ky_va_luong_trinh`) đọc tệp này. **Khi có quyết định phân công mới
+hoặc sửa bảng ký trong SKILL.md thì sửa JSON cùng đợt**; không ghi số điện thoại, thông tin riêng vào tệp.
+
 ## Lãnh đạo tỉnh, lãnh đạo các Sở ngành, địa giới hành chính — `references/02-lanh-dao-tinh-so-nganh-dia-gioi.md`
 
 Tra ở đây (không suy đoán) khi cần: tên Bí thư/Chủ tịch/các Phó Chủ tịch UBND tỉnh (nhiệm kỳ 2026-2031); Giám đốc các Sở ngành (5/2026); diện tích, dân số, 99 xã/phường của tỉnh Lào Cai mới (NQ 202/2025/QH15, từ 01/7/2025); quy tắc ghi địa danh Yên Bái cũ thành "tỉnh Lào Cai", 8 xã không sắp xếp; tỉnh, thành phố khác đã đổi cấp (mục 2a: Bắc Ninh thành phố trực thuộc Trung ương từ 20/9/2026, Quảng Ninh từ 01/9/2026 — ghi "Ủy ban nhân dân thành phố Bắc Ninh" trong văn bản gửi đi); địa chỉ, điện thoại Sở Công Thương (Số 165 Lý Thường Kiệt, phường Yên Bái; 02163.857.863 — không điền email). Chuyển từ bộ ghi nhớ cá nhân sang skill ngày 08/9/2026.

@@ -1,3 +1,10 @@
+## 05/11/2026 (lần 3) — tra-cuu-sct-vn 1.0.0 (plugin mới): gắn máy chủ MCP tra cứu; kccn-sct-vn 1.64.0, sct-laocai-org-vn 2.11.0, vbhc-vn 2.38.0
+
+- **tra-cuu-sct-vn 1.0.0**: `.mcp.json` khai báo máy chủ `sct-tra-cuu` (kho mã `sct-mcp`, chạy trên Vercel; url `${SCT_MCP_URL}`, header `Authorization: Bearer ${SCT_MCP_TOKEN}`); SKILL.md: gọi công cụ máy chủ trước, dự phòng script khi mất kết nối, không coi kết quả rỗng là "không có văn bản" khi chưa tra cả hai cách; quy trình bắt buộc khi soạn (goi_boi_canh_soan_thao → nguoi_ky_va_luong_trinh → viết → kiem_tra_du_kien → vbhc-vn), thẩm định (checklist_tham_dinh → doi_chieu_ho_so), báo cáo (so_lieu_bao_cao), việc chờ xử lý (viec_cho_xu_ly); README cách `setx` hai biến và kiểm `/mcp`. 16 công cụ chỉ đọc.
+- **kccn-sct-vn 1.64.0**: `data/danh-muc-kcn-ccn-qd525.csv` máy đọc (20 KCN + 54 CCN, tổng diện tích đã kiểm); SKILL mục 0c ưu tiên công cụ máy chủ khi kết nối.
+- **sct-laocai-org-vn 2.11.0**: `data/phan-cong-ky.json` bảng phân công ký theo giai đoạn hiệu lực (QĐ 6320/QĐ-SCT; QĐ 766 lịch sử).
+- **vbhc-vn 2.38.0**: GATE máy chủ tra cứu bổ sung trước GATE cuối (không xóa GATE cũ).
+
 ## 05/11/2026 (lần 2) — hc-sct-vn 1.8.1: rà hồ sơ doanh nghiệp hoàn thiện, GCN kinh doanh hóa chất kho thuê ở tỉnh khác
 
 - ref 16 mục 5c điểm 10 và ref 03 mục 6a: phụ lục hợp đồng chưa ký, ghi lùi ngày; ghi thêm axit sulfuric (kiểm soát đặc biệt nhóm 2) ngoài phạm vi GCN; điều khoản linh hoạt vị trí còn hiệu lực; cam kết "gia hạn" GCN dịch vụ tồn trữ; câu "mua thẳng bán thẳng" mâu thuẫn với thuê kho; bản vẽ không ký; HĐLĐ, phân công xuất trình tại kiểm tra thực tế.

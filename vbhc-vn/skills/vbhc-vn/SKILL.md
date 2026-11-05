@@ -57,6 +57,16 @@ c) Chỉ gửi dàn ý xin ý kiến khi Bạn yêu cầu rõ "cho tôi xem dàn
    tôi sẽ viết theo dàn ý này".
 d) Khi giao file báo một dòng: "Dàn ý theo mẫu [tên mẫu hoặc dàn ý mặc định]". Bạn muốn sửa bố cục thì sửa trên bản đã viết.
 
+## GATE máy chủ tra cứu — gọi công cụ MCP trước khi viết (từ 05/11/2026, bổ sung, không thay GATE 0/0b/cuối)
+
+Khi máy chủ `sct-tra-cuu` (plugin `tra-cuu-sct-vn`) đang kết nối, quy trình bắt buộc khi soạn bất kỳ văn bản nào của Sở:
+(1) gọi `goi_boi_canh_soan_thao(doi_tuong, loai_van_ban, linh_vuc)` và `nguoi_ky_va_luong_trinh(linh_vuc, loai_van_ban, ngay_ky)`
+TRƯỚC khi viết — kết quả thay cho việc tự mở từng tệp ở GATE 0 điểm f (căn cứ, số liệu, trạng thái hồ sơ, người ký, quy tắc riêng,
+văn bản bị cấm ở bậc hiện tại); (2) viết theo GATE 0, 0b; (3) viết xong gọi `kiem_tra_du_kien(noi_dung)` với phần căn cứ và mọi
+đoạn có số, ngày, tên — sửa mọi "SAI LỆCH", bôi tím mọi "không tìm thấy"; (4) rồi mới dựng file Word bằng plugin này và chạy
+`kiem_tra_truoc_khi_giao.py`. Máy chủ không kết nối: làm GATE 0 bằng script, tài liệu plugin như cũ. Không coi kết quả rỗng của
+máy chủ là "không có" khi chưa tra bằng cả hai cách.
+
 ## GATE cuối — Rà soát độc lập (Bạn chốt 17/10/2026)
 
 Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy SONG SONG, không nối tiếp:

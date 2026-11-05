@@ -45,6 +45,14 @@ GATE 0 (kế hoạch soạn, ghi `ke-hoach-soan.txt`, không gửi duyệt) và 
 | Báo cáo thẩm định thành lập CCN | I. Hồ sơ tiếp nhận · II. Cơ sở pháp lý · III. Kết quả thẩm định (Điều 11 NĐ 32/2024/NĐ-CP) · IV. Kết luận và kiến nghị | `mau-van-ban/02-bo-mau-thanh-lap-ccn.md` Mẫu 02.2 |
 | Tờ trình thành lập CCN | I. Sự cần thiết và cơ sở · II. Nội dung trình · III. Kiến nghị | cùng tệp, Mẫu 02.3 |
 
+## 0c. MÁY CHỦ TRA CỨU (plugin tra-cuu-sct-vn, từ 05/11/2026)
+
+Có máy chủ tra cứu qua plugin `tra-cuu-sct-vn`; khi máy chủ đang kết nối (thấy `sct-tra-cuu` trong `/mcp`) thì **ưu tiên gọi
+công cụ `tra_van_ban`, `trang_thai_cum`, `danh_muc_kcn_ccn`** thay cho chạy script (`scripts/tim_van_ban.py`,
+`scripts/trang_thai_cum.py`, mở reference 12, 13); khi soạn văn bản gọi thêm `goi_boi_canh_soan_thao`, `nguoi_ky_va_luong_trinh`
+trước khi viết và `kiem_tra_du_kien` sau khi viết. Máy chủ không kết nối thì làm theo hướng dẫn script ở mục 0 như cũ. Danh mục
+20 KCN, 54 CCN dạng máy đọc mà máy chủ dùng: `data/danh-muc-kcn-ccn-qd525.csv` (trích từ reference 12, 13 — sửa reference thì sửa CSV cùng đợt).
+
 ## I. KHI NÀO DÙNG PLUGIN NÀY
 
 Kích hoạt khi xử lý bất kỳ việc nào sau:
@@ -126,6 +134,7 @@ Toàn bộ số/ngày đã đối chiếu văn bản gốc trong `van-ban-goc/`.
 | `references/10-huong-dan-doanh-nghiep.md` | 40+ câu hỏi - đáp cho doanh nghiệp (khái niệm, điều kiện, hồ sơ, ưu đãi, đất đai, làng nghề, FDI, cho thuê lại) |
 | `references/11-xu-ly-dac-thu.md` | FDI làm CĐT; CCN trước 105/2009; đơn vị sự nghiệp/vốn NSNN; điều chỉnh-bãi bỏ QĐ; chồng lấn quy hoạch |
 | `references/12-danh-muc-kcn-ccn-lao-cai.md` | Bảng tra NHANH danh mục + vị trí xã chuẩn KCN/CCN Lào Cai; địa danh dễ nhầm; quy tắc hiện trạng |
+| `data/danh-muc-kcn-ccn-qd525.csv` | Danh mục máy đọc 20 KCN + 54 CCN theo QĐ 525 (mã, tên, xã phường, diện tích, nhóm, tình trạng tại QĐ 525, ghi chú địa danh dễ nhầm) + nhóm rút khỏi quy hoạch; nguồn của công cụ `danh_muc_kcn_ccn` (plugin tra-cuu-sct-vn) |
 | `references/13-qd525-quy-hoach-tinh.md` | TOÀN VĂN Phụ lục II (20 KCN) + Phụ lục III (54 CCN, đủ 6 nhóm) QĐ 525/QĐ-UBND 25/02/2026; căn cứ, mục tiêu KT-XH; đối soát số liệu 54 vs 56 CCN; tầm nhìn 2050 |
 | `references/14-qd1382-danh-muc-thu-hut.md` | QĐ 1382/QĐ-UBND 23/4/2026: 431 danh mục thu hút đầu tư, chi tiết 13 KCN (40.044 tỷ) + 35 CCN (22.854 tỷ) kèm TMĐT, nhà đầu tư, phân nhóm tiến độ; suất vốn QĐ 425/QĐ-BXD; cập nhật 8/2026: Mông Sơn có QĐ 2736 thành lập Hội đồng; **CCN Cam Đường 1 nhận 01 hồ sơ CĐT (Công ty CP 289 Trường Sơn, TB 831/TB-UBND 06/8/2026, giai đoạn 1 — 11,36 ha)** |
 | `references/15-kcn-chap-thuan-ctdt-2026.md` | **(cập nhật 01/10/2026: mục IV-ter — danh mục 38 nhóm ngành, nghề thu hút đầu tư KCN Phú Xuân, Phú Xuân 1 theo Văn bản 9813/UBND-XD ngày 27/9/2026, mã ngành QĐ 36/2025/QĐ-TTg, đối chiếu Phụ lục II NĐ 48/2026/NĐ-CP)** 05 KCN được chấp thuận CTĐT 6-7/2026: Bản Qua (QĐ 2170, 76,39 ha, GCN ĐKĐT 30/6), Phú Xuân (QĐ 2336) & Phú Xuân 1 (QĐ 2338, NĐT Linh Linh, xã Gia Phú), Võ Lao (QĐ 2463 ngày 16/7/2026, 482,6 ha, NĐT Châu Giang), **Cam Đường (QĐ 2548 ngày 23/7/2026, 196,3 ha, phường Cam Đường, NĐT Lê Premium, 1.996 tỷ)**; nâng tổng 12 KCN; tổng 05 KCN mới 1.255,29 ha/13.989 tỷ; hoàn thành vượt mục tiêu 02 KCN của NQ 34-NQ/TU |

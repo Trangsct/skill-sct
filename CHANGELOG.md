@@ -1,3 +1,7 @@
+## 05/11/2026 (lần 2) — hc-sct-vn 1.8.1: rà hồ sơ doanh nghiệp hoàn thiện, GCN kinh doanh hóa chất kho thuê ở tỉnh khác
+
+- ref 16 mục 5c điểm 10 và ref 03 mục 6a: phụ lục hợp đồng chưa ký, ghi lùi ngày; ghi thêm axit sulfuric (kiểm soát đặc biệt nhóm 2) ngoài phạm vi GCN; điều khoản linh hoạt vị trí còn hiệu lực; cam kết "gia hạn" GCN dịch vụ tồn trữ; câu "mua thẳng bán thẳng" mâu thuẫn với thuê kho; bản vẽ không ký; HĐLĐ, phân công xuất trình tại kiểm tra thực tế.
+
 ## 05/11/2026 — hnh-sct-vn 1.18.1: sổ lỗi L002, Kế hoạch phòng ngừa kho Lô F19 (QĐ 221/QĐ-HC)
 
 - Không bắt lỗi dạng chứa hàng chỉ theo tên loại xe "container" trên bản dịch đăng ký xe Trung Quốc (ref 11 lỗi 31, ref 16 mục 13.2); kho Lô F19 có Kế hoạch phê duyệt tại QĐ 221/QĐ-HC ngày 25/8/2025 (ref 16 mục 13.3).

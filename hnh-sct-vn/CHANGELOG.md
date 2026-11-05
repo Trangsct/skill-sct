@@ -1,5 +1,8 @@
 # CHANGELOG — hnh-sct-vn
 
+## [1.18.1] - 05/11/2026
+- Sổ lỗi L002 (mooc sàn ghi "container" trên bản dịch đăng ký xe Trung Quốc); kho Lô F19 có Kế hoạch phê duyệt tại QĐ 221/QĐ-HC ngày 25/8/2025 — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.11.05.md`.
+
 ## [1.18.0] - 02/11/2026
 - Kết hợp bắt buộc plugin hc-sct-vn khi thẩm định hàng là hóa chất; tiền chất thuốc nổ loại 5.1 vẫn cấp Giấy phép loại 5; nguyên tắc 29 - 33; ref 16 mục 13 — chi tiết `skills/hnh-sct-vn/CHANGELOG-v2026.11.02.md`.
 

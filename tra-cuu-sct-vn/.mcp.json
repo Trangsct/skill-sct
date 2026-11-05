@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sct-tra-cuu": {
+      "type": "http",
+      "url": "${SCT_MCP_URL}",
+      "headers": {
+        "Authorization": "Bearer ${SCT_MCP_TOKEN}"
+      }
+    }
+  }
+}

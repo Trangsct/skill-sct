@@ -1,0 +1,93 @@
+{
+  "mo_ta": "Bảng phân công người ký, luồng trình, ký hiệu văn bản của Sở Công Thương Lào Cai, dạng máy đọc, trích từ SKILL.md của plugin sct-laocai-org-vn (mục 'Phân công nhiệm vụ trong Lãnh đạo Sở', 'Phân tầng duyệt nội bộ', 'Bảng routing trình Lãnh đạo Sở', 'Khối người ký'). Máy chủ tra cứu đọc tệp này cho công cụ nguoi_ky_va_luong_trinh. Khi SKILL.md đổi (quyết định phân công mới) phải sửa tệp này cùng đợt. Không ghi số điện thoại, thông tin riêng.",
+  "cap_nhat": "05/11/2026",
+  "giam_doc": "Hoàng Chí Hiền",
+  "khoi_ky": {
+    "GD": ["GIÁM ĐỐC"],
+    "KT": ["KT. GIÁM ĐỐC", "PHÓ GIÁM ĐỐC"]
+  },
+  "ky_hieu_theo_loai_van_ban": {
+    "công văn": "SCT-<viết tắt phòng> (Phòng QLCN: SCT-CN; QLKS: SCT-KS; QLNL: SCT-NL; QLTM: SCT-TM; KH-TH: SCT-KH)",
+    "tờ trình": "TTr-SCT",
+    "báo cáo": "BC-SCT",
+    "quyết định": "QĐ-SCT",
+    "kế hoạch": "KH-SCT",
+    "thông báo": "TB-SCT",
+    "giấy mời": "GM-SCT",
+    "giấy phép": "GP-SCT (giấy phép sử dụng VLNCN từ 20/8/2026 theo ủy quyền QĐ 2867/QĐ-UBND; giấy phép vận chuyển HHNH theo ủy quyền QĐ 1696, sửa tại QĐ 2848/QĐ-UBND 14/8/2026)",
+    "biên bản": "không có số ký hiệu riêng; ghi 'Biên bản' + ngày"
+  },
+  "nguon_ky_hieu": "sổ văn bản đi của Sở (5278/SCT-CN, 5420/TTr-SCT, 6020/SCT-CN, 6426/SCT-KH, 6417/SCT-KS — ref 03 plugin sct-laocai-org-vn; trang-thai/ccn-xuan-ai.md)",
+  "quy_tac_loai_van_ban_trinh_giam_doc": {
+    "mo_ta": "Mọi Tờ trình, kế hoạch, quy hoạch, chủ trương đầu tư (mọi lĩnh vực, kể cả KCN/CCN); báo cáo tổng kết, sơ kết toàn ngành; báo cáo theo chỉ đạo Tỉnh ủy hoặc quan trọng → Giám đốc Hoàng Chí Hiền ký trực tiếp. Báo cáo chuyên đề theo lĩnh vực vẫn do PGĐ phụ trách ký KT.",
+    "loai_van_ban": ["tờ trình", "kế hoạch", "quy hoạch", "chủ trương đầu tư", "báo cáo tổng kết", "báo cáo sơ kết", "báo cáo gửi tỉnh ủy"],
+    "nguon": "SKILL.md sct-laocai-org-vn mục 'Khối người ký' bảng (b) và lưu ý (c); Bạn chốt"
+  },
+  "giai_doan": [
+    {
+      "hieu_luc_tu": "05/10/2026",
+      "hieu_luc_den": null,
+      "can_cu": "Quyết định số 6320/QĐ-SCT ngày 06/10/2026 của Giám đốc Sở về phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc (thay QĐ 766/QĐ-SCT ngày 12/02/2026); nội dung được Lãnh đạo Sở thống nhất tại cuộc họp 05/10/2026; Thông báo phân công nội bộ Phòng QLCN ngày 10/7/2026 (không có số)",
+      "nguon": "sct-laocai-org-vn/skills/sct-laocai-org-vn/SKILL.md mục 'Phân công nhiệm vụ trong Lãnh đạo Sở', 'Bảng routing trình Lãnh đạo Sở', 'Khối người ký'",
+      "vang_mat": {
+        "Hoàng Chí Hiền": "Trịnh Văn Thành (ủy quyền phụ trách Sở)",
+        "Trịnh Văn Thành": "Nguyễn Huy Tưởng",
+        "Nguyễn Huy Tưởng": "Trịnh Văn Thành",
+        "Nguyễn Trường Giang": "Nguyễn Đình Chiến",
+        "Nguyễn Đình Chiến": "Nguyễn Trường Giang",
+        "Hoàng Văn Thuân": "Phạm Năng Chung",
+        "Phạm Năng Chung": "Hoàng Văn Thuân"
+      },
+      "linh_vuc": {
+        "CCN": {"ten": "Cụm công nghiệp", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Lê Quang Trung (Trần Đăng Khôi phối hợp)", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long (trực tiếp; PTP Trần Trọng Trang phối hợp chỉ đạo)"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Tờ trình đề nghị UBND tỉnh thành lập/mở rộng CCN, chủ trương đầu tư → Giám đốc ký"},
+        "KCN": {"ten": "Khu công nghiệp (Sở chỉ tham gia ý kiến; QLNN do Ban Quản lý)", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Lê Quang Trung (Bạn chốt 15/7/2026)", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Ý kiến hồ sơ KCN đã thấy đi ký hiệu /SCT-KS ngày 09/10/2026 (ref 03 mục C) — kiểm tra lại với Bạn"},
+        "VLNCN": {"ten": "Vật liệu nổ công nghiệp, tiền chất thuốc nổ (GP sử dụng /GP-SCT, PANM, kho, huấn luyện KTAT)", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Trần Đăng Khôi (Vũ Việt Linh phối hợp)", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long (trực tiếp)"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Trước 05/10/2026 do PGĐ Hoàng Văn Thuân ký (lịch sử)"},
+        "HHNH": {"ten": "Vận chuyển hàng hóa nguy hiểm (cấp GP vận chuyển, an toàn, tập huấn)", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Vũ Việt Linh (toàn bộ HHNH — Bạn chốt 15/7/2026)", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Dự kiến — Bạn chốt 06/10/2026; QĐ 6320 không ghi đích danh"},
+        "hóa chất": {"ten": "Hóa chất; tiền chất ma túy, tiền chất công nghiệp", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Nguyễn Thị Loan", "kiem_duyet": ["(PTP kiểm duyệt mới sau 02/10/2026: chưa có Thông báo phân công — hỏi Bạn)", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "PTP Nguyễn Hồng Vân kiểm duyệt là lịch sử đến 01/10/2026"},
+        "ATTP": {"ten": "An toàn thực phẩm; CN tiêu dùng, thực phẩm, chế biến khác", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Lã Doãn Nam (Nguyễn Thị Thùy Dương phối hợp)", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": ""},
+        "môi trường": {"ten": "Bảo vệ môi trường, công nghiệp môi trường, khí nhà kính ngành Công Thương", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Lê Minh Long (đã có QĐ điều động 02/10/2026 — người tham mưu hiện tại: hỏi Bạn)", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "QĐ 6320 ghi 'công nghiệp môi trường'; mục 2.10 Điều 5 QĐ 6226 gộp BVMT và CN môi trường"},
+        "khoáng sản": {"ten": "Khoáng sản: thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, dữ liệu; khoáng sản làm VLXD", "phong": "Phòng Quản lý khoáng sản", "ky_hieu_cong_van": "SCT-KS", "luu": "Lưu: VT, KS.", "chuyen_vien": "chuyên viên Phòng Quản lý khoáng sản (đã thấy: Nguyễn Thị Thúy Nhung)", "kiem_duyet": ["PTP Nguyễn Hồng Vân", "Trưởng phòng Lưu Đức Cường"], "nguoi_ky": "Phạm Năng Chung", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, KS."], "ghi_chu": "Phòng vận hành từ 10/2026 (ref 03 mục C)"},
+        "thiết kế mỏ": {"ten": "Khai thác mỏ, chế biến khoáng sản, luyện kim, thẩm định thiết kế mỏ, KTCTNT công trình mỏ, ATVSLĐ trong khai thác", "phong": "Phòng Quản lý khoáng sản", "ky_hieu_cong_van": "SCT-KS", "luu": "Lưu: VT, KS.", "chuyen_vien": "chuyên viên Phòng Quản lý khoáng sản", "kiem_duyet": ["PTP Nguyễn Hồng Vân", "Trưởng phòng Lưu Đức Cường"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, KS."], "ghi_chu": ""},
+        "PCCC": {"ten": "PCCC ngành Công Thương; an toàn ngành (xăng dầu, khí, máy - thiết bị nghiêm ngặt)", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Vũ Việt Linh", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Dự kiến — Bạn chốt 06/10/2026"},
+        "ATVSLĐ": {"ten": "An toàn vệ sinh lao động; kiểm định kỹ thuật an toàn", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Vũ Việt Linh", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": ""},
+        "khuyến công": {"ten": "Khuyến công; cơ khí, điện tử, CN hỗ trợ, TTCN, CN địa phương", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Bùi Việt Cường (CN địa phương: Lê Quang Trung)", "kiem_duyet": ["PTP Đỗ Mạnh Cường", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": ""},
+        "chất lượng SPHH": {"ten": "Chất lượng sản phẩm hàng hóa; sản xuất và tiêu dùng bền vững", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Nguyễn Thị Thùy Dương", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": ""},
+        "điện": {"ten": "Điện, năng lượng, an toàn điện", "phong": "Phòng Quản lý năng lượng", "ky_hieu_cong_van": "SCT-NL", "luu": "Lưu: VT, NL.", "chuyen_vien": "chuyên viên Phòng Quản lý năng lượng", "kiem_duyet": ["Trưởng phòng Bùi Thế Hậu"], "nguoi_ky": "Nguyễn Trường Giang", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, NL."], "ghi_chu": ""},
+        "thương mại": {"ten": "Thương mại, lưu thông hàng hóa (trừ QLTT); xăng dầu, khí, rượu, thuốc lá về kinh doanh", "phong": "Phòng Quản lý thương mại", "ky_hieu_cong_van": "SCT-TM", "luu": "Lưu: VT, TM.", "chuyen_vien": "chuyên viên Phòng Quản lý thương mại", "kiem_duyet": ["Trưởng phòng Phạm Quốc Vượng"], "nguoi_ky": "Trịnh Văn Thành", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, TM."], "ghi_chu": "XNK, TM biên giới, XTTM, TMĐT, logistics: PGĐ Nguyễn Huy Tưởng chỉ đạo"},
+        "PCTT": {"ten": "Phòng chống thiên tai, tìm kiếm cứu nạn ngành Công Thương", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Ngô Ngọc Dũng (thường trực; đã có QĐ điều động 02/10/2026)", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": ""}
+      }
+    },
+    {
+      "hieu_luc_tu": "12/02/2026",
+      "hieu_luc_den": "04/10/2026",
+      "can_cu": "Quyết định số 766/QĐ-SCT ngày 12/02/2026 (thay QĐ 3488/QĐ-SCT ngày 31/12/2025) — lịch sử; Thông báo phân công nội bộ Phòng QLCN ngày 10/7/2026",
+      "nguon": "sct-laocai-org-vn SKILL.md: 'Bản trước (QĐ 766): GĐ + 5 PGĐ, PGĐ Thuân phụ trách Phòng QLCN'; 'Văn bản ban hành trước 05/10/2026 do PGĐ Thuân ký (hóa chất, VLNCN, HHNH, PCCC…) là lịch sử đúng thời điểm'",
+      "vang_mat": {},
+      "linh_vuc": {
+        "VLNCN": {"ten": "Vật liệu nổ công nghiệp", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN(tên CV) trước 01/10/2026; từ 01/10/2026 Lưu: VT, CN.", "chuyen_vien": "Trần Đăng Khôi", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Lịch sử; GP-UBND trước 20/8/2026 do Chủ tịch UBND tỉnh ký"},
+        "hóa chất": {"ten": "Hóa chất", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Nguyễn Thị Loan", "kiem_duyet": ["PTP Nguyễn Hồng Vân", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Lịch sử"},
+        "HHNH": {"ten": "Vận chuyển hàng hóa nguy hiểm", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Vũ Việt Linh (từ 15/7/2026; 6/7–14/7/2026: Trần Đăng Khôi)", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Lịch sử"},
+        "PCCC": {"ten": "PCCC ngành Công Thương", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Vũ Việt Linh", "kiem_duyet": ["PTP Trần Trọng Trang", "Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Hoàng Văn Thuân", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Lịch sử"},
+        "CCN": {"ten": "Cụm công nghiệp", "phong": "Phòng Quản lý công nghiệp", "ky_hieu_cong_van": "SCT-CN", "luu": "Lưu: VT, CN.", "chuyen_vien": "Lê Quang Trung", "kiem_duyet": ["Trưởng phòng Nguyễn Hữu Long"], "nguoi_ky": "Nguyễn Đình Chiến", "khoi_ky": "KT", "noi_nhan_mac_dinh": ["Như trên", "Lưu: VT, CN."], "ghi_chu": "Ref 32 plugin kccn-sct-vn (08/9/2026) ghi người ký CCN là PGĐ Nguyễn Đình Chiến; các lĩnh vực khác của giai đoạn này không ghi trong plugin → 'không có dữ liệu'"}
+      }
+    }
+  ],
+  "bi_danh_linh_vuc": {
+    "CCN": ["ccn", "cụm công nghiệp", "cum cong nghiep", "cụm"],
+    "KCN": ["kcn", "khu công nghiệp", "khu cong nghiep"],
+    "VLNCN": ["vlncn", "vật liệu nổ", "vat lieu no", "nổ mìn", "no min", "tiền chất thuốc nổ", "panm", "kho vlncn"],
+    "HHNH": ["hhnh", "hàng hóa nguy hiểm", "hang hoa nguy hiem", "vận chuyển hàng nguy hiểm"],
+    "hóa chất": ["hóa chất", "hoa chat", "hc", "tiền chất công nghiệp"],
+    "ATTP": ["attp", "an toàn thực phẩm", "an toan thuc pham", "thực phẩm"],
+    "môi trường": ["môi trường", "moi truong", "bvmt", "gpmt", "đtm", "khí nhà kính", "knk"],
+    "khoáng sản": ["khoáng sản", "khoang san", "qlks", "đóng cửa mỏ", "tiền cấp quyền", "đấu giá quyền khai thác"],
+    "thiết kế mỏ": ["thiết kế mỏ", "thiet ke mo", "tkm", "khai thác mỏ", "chế biến khoáng sản", "luyện kim"],
+    "PCCC": ["pccc", "phòng cháy", "phong chay"],
+    "ATVSLĐ": ["atvslđ", "atvsld", "an toàn vệ sinh lao động", "kiểm định kỹ thuật an toàn"],
+    "khuyến công": ["khuyến công", "khuyen cong", "cơ khí", "công nghiệp hỗ trợ", "tiểu thủ công nghiệp"],
+    "chất lượng SPHH": ["chất lượng sản phẩm", "sphh", "hợp quy"],
+    "điện": ["điện", "dien", "năng lượng", "thủy điện", "điện mặt trời"],
+    "thương mại": ["thương mại", "thuong mai", "xăng dầu", "chợ", "siêu thị", "xuất nhập khẩu"],
+    "PCTT": ["pctt", "thiên tai", "tìm kiếm cứu nạn"]
+  }
+}

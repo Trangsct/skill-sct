@@ -1,0 +1,9 @@
+{
+  "name": "tra-cuu-sct-vn",
+  "version": "1.0.0",
+  "description": "Gắn máy chủ tra cứu MCP (sct-mcp trên Vercel) vào bộ plugin: 16 công cụ chỉ đọc — tra văn bản gốc, toàn văn, trạng thái hồ sơ cụm, danh mục KCN/CCN theo QĐ 525, tìm trong tài liệu tham khảo; gói bối cảnh soạn thảo, người ký và luồng trình, văn bản đến đi, doanh nghiệp, kiểm tra dữ kiện; checklist thẩm định, đối chiếu hồ sơ, số liệu báo cáo, thống kê, việc chờ xử lý, tra pháp luật. Quy trình bắt buộc khi soạn, thẩm định, báo cáo. Máy chủ không kết nối thì dùng script và tài liệu plugin như cũ.",
+  "author": {
+    "name": "Sở Công Thương tỉnh Lào Cai - Phòng Quản lý Công nghiệp"
+  },
+  "keywords": ["mcp", "tra-cuu", "sct-mcp", "trang-thai-cum", "danh-muc-kcn-ccn", "goi-boi-canh-soan-thao", "nguoi-ky", "kiem-tra-du-kien", "checklist-tham-dinh", "viec-cho-xu-ly"]
+}

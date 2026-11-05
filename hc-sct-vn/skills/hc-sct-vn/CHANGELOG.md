@@ -1,5 +1,9 @@
 # CHANGELOG — hc-sct-vn
 
+## 1.8.1 — 05/11/2026 — Rà hồ sơ doanh nghiệp hoàn thiện (kho thuê ở tỉnh khác)
+
+- **ref 16 mục 5c điểm 10:** 8 lỗi mới khi doanh nghiệp nộp lại hồ sơ: phụ lục hợp đồng chưa ký, ghi lùi ngày; ghi thêm hóa chất cần kiểm soát đặc biệt; điều khoản linh hoạt vị trí còn hiệu lực; cam kết "gia hạn" GCN dịch vụ tồn trữ; câu "mua thẳng bán thẳng" mâu thuẫn với thuê kho; bản vẽ không ký; danh mục gửi kèm cũ; HĐLĐ, phân công xuất trình tại kiểm tra thực tế. **ref 03 mục 6a:** yêu cầu đối với phụ lục nộp bổ sung.
+
 ## 1.8.0 — 26/10/2026 — Khuôn Công văn yêu cầu hoàn thiện hồ sơ theo phong cách phản biện (ref 14 mục 4)
 
 - **ref 14 mục 4:** khuôn Công văn yêu cầu hoàn thiện hồ sơ cấp GCN theo phong cách phản biện Bạn chốt 26/10/2026 (mở đầu đặt khung; mỗi điểm 4 nhịp hồ sơ ghi gì → quy định → vì sao chưa đủ cơ sở → đề nghị; đề nghị gộp theo tài liệu phải nộp; chỉ yêu cầu đúng thành phần hồ sơ, tài liệu ngoài thành phần ghi "xuất trình tại buổi kiểm tra thực tế"; không đặt điều kiện ngoài quy định; kết nêu bổ sung một lần và hai bước kế tiếp; 3 trang). Bảng tra thêm dòng mẫu.

@@ -7,23 +7,24 @@ Plugin liên quan: hc-sct-vn
 
 | Số ký hiệu | Ngày | Cơ quan | Trích yếu ngắn | Tệp trong kho |
 |---|---|---|---|---|
+| 7149/SCT-CN | 30/10/2026 | Sở Công Thương | Phúc đáp hồ sơ đề nghị cấp GCN đủ điều kiện kinh doanh hóa chất có điều kiện (yêu cầu hoàn thiện) | chưa lưu trong kho |
 
 ## Bước đã xong
 
 1. (23/10/2026) Rà soát toàn bộ hồ sơ 8 tệp, dựng Biên bản thẩm định và kiểm tra thực tế, Tờ trình của Sở và dự thảo Công văn UBND tỉnh lấy ý kiến UBND thành phố Bắc Ninh (điểm d khoản 5 Điều 9 NĐ 26/2026)
 2. (26/10/2026) Dự thảo Công văn yêu cầu hoàn thiện hồ sơ (chờ chốt ngày nhận hồ sơ trên Cổng để tính hạn 03 ngày làm việc)
+3. (05/11/2026) Rà hồ sơ hoàn thiện lần 1: phụ lục 02 chưa ký, ghi lùi ngày 05/9/2026, có thêm axit sulfuric (kiểm soát đặc biệt nhóm 2), chưa loại trừ khoản 5.2.4, 5.2.7, 6.1.8; bản vẽ chưa ký; văn bản đề nghị thêm câu mua thẳng bán thẳng; chưa nộp HĐLĐ, phân công
 
 ## Bước tiếp theo
 
-- Ký, gửi Công văn hoàn thiện hồ sơ trước hạn 03 ngày làm việc kể từ ngày tiếp nhận trên Cổng (mã hồ sơ cho thấy nộp 22/10/2026)
-- Sau khi Công ty bổ sung: kiểm tra thực tế tại trụ sở, ký biên bản; trình UBND tỉnh lấy ý kiến UBND thành phố Bắc Ninh
+- Đề nghị Công ty nộp phụ lục hợp đồng, bản vẽ, văn bản đề nghị đã ký và sửa theo bản nhận xét 05/11/2026; nhận đủ thì kiểm tra thực tế tại trụ sở Km0 rồi trình UBND tỉnh lấy ý kiến UBND thành phố Bắc Ninh
 
 ## Vướng mắc, câu hỏi còn mở
 
 - (23/10/2026) Chưa có Quyết định ủy quyền cho Giám đốc Sở nên trình Chủ tịch UBND tỉnh ký; người ký công văn UBND tỉnh để Phó Chủ tịch Phan Trung Bá, cần xác nhận
 - (23/10/2026) Hợp đồng dịch vụ tồn trữ chưa xác định danh mục hóa chất gửi kho, quy mô không thống nhất (15 pallet, 15 tấn, 6 pallet rắn dễ cháy), điều khoản cho chủ kho sử dụng linh hoạt vị trí; thời hạn hợp đồng dài hơn GCN kho (19/8/2031)
 - (23/10/2026) Ngày của QĐ 143/QĐ-HC (viết tay 02/7/2026) và ngày Sở nhận đủ hồ sơ hợp lệ trên Cổng DVC
-- (26/10/2026) Ngày tiếp nhận hồ sơ trên Cổng là 22/10 hay 23/10/2026
+- (05/11/2026) Thông báo Công ty hoàn thiện lần này bằng văn bản hay làm việc trực tiếp
 
 ## Quyết định của Bạn
 
@@ -50,3 +51,8 @@ Plugin liên quan: hc-sct-vn
 - Văn bản đã xuất: 2026.10.26. Công văn hoàn thiện hồ sơ GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 3)
 - Quyết định của Bạn: Công văn hoàn thiện hồ sơ: 3 trang, mỗi điểm 4 nhịp hồ sơ ghi gì - quy định - vì sao chưa đủ cơ sở - đề nghị; không bắt rút thời hạn hợp đồng, thay bằng cam kết; HĐLĐ và văn bản phân công xuất trình tại buổi kiểm tra, không yêu cầu bổ sung vào hồ sơ
 - Câu hỏi chưa được trả lời: Ngày tiếp nhận hồ sơ trên Cổng là 22/10 hay 23/10/2026
+
+### 05/11/2026
+- Việc đã làm: Rà hồ sơ Công ty nộp lại sau Văn bản 7149/SCT-CN ngày 30/10/2026 (văn bản đề nghị 24-VBĐN/QH ngày 04/11/2026, phụ lục hợp đồng 02/2026/PLHĐ/VQC-QHC, bản vẽ mặt bằng, 05 tài liệu kho của Việt Quang); dựng bản nhận xét chỉ nêu nội dung chưa đạt
+- Văn bản đã xuất: 2026.11.05. Nhận xét hồ sơ đã hoàn thiện GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1)
+- Câu hỏi chưa được trả lời: Thông báo Công ty hoàn thiện lần này bằng văn bản hay làm việc trực tiếp

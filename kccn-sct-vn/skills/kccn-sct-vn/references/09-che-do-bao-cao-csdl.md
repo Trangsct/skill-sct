@@ -1,5 +1,7 @@
 # 09. Chế độ báo cáo định kỳ và Cơ sở dữ liệu CCN (TT 14/2024/TT-BCT)
 
+> **⚠️ Từ 18/12/2026:** khoản 3 Điều 3, Phụ lục I, Phụ lục II TT 14/2024 bị thay bởi **Thông tư 69/2026/TT-BCT ngày 30/10/2026** — chuỗi báo cáo mới 06 biểu (Sở nộp Biểu 05, 06 về Cục Công nghiệp), mẫu văn bản mới. Xem **ref 55**. Bảng dưới là quy định trước ngày 18/12/2026 (lịch sử).
+
 Căn cứ: Thông tư số 14/2024/TT-BCT ngày 15/8/2024 của Bộ trưởng Bộ Công Thương (hiệu lực 01/10/2024; thay TT 28/2020). Bản gốc: `van-ban-goc/TT-14-2024-che-do-bao-cao-mau-van-ban-CCN.docx`.
 
 ## A. ĐỐI TƯỢNG VÀ CHUỖI BÁO CÁO

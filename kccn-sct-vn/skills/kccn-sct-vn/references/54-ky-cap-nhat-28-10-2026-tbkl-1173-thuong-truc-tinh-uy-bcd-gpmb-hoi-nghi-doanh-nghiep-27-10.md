@@ -162,3 +162,20 @@ Văn bản đến của cơ quan — chỉ tóm tắt, không lưu bản gốc v
 - ⚠️ Không nhầm với **KCN Bát Xát** (KCN quy hoạch 76 ha, xã Bát Xát — ref 12 theo QĐ 525) và KCN Bản Qua (xã Bát Xát). CCN Bát
   Xát lấy diện tích theo QĐ 1958/QĐ-TTg; khi soạn văn bản phải dẫn đúng quy hoạch làm căn cứ.
 
+## I. CCN công nghệ cao Phú Thịnh 6 — Hội đồng đánh giá lựa chọn chủ đầu tư (QĐ 4154/QĐ-UBND ngày 04/11/2026)
+
+- **QĐ 4154/QĐ-UBND ngày 04/11/2026** của UBND tỉnh (TM. UBND tỉnh, Chủ tịch Nguyễn Tuấn Anh ký; theo **Tờ trình 7233/TTr-SCT ngày
+  03/11/2026**) thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng kỹ thuật **CCN công nghệ cao
+  Phú Thịnh 6, phường Văn Phú**; **bãi bỏ QĐ 3273/QĐ-UBND ngày 11/9/2026** (Hội đồng CCN Phú Thịnh 6 cũ).
+- **Hội đồng:** Chủ tịch — PCT Thường trực UBND tỉnh **Ngô Hạnh Phúc**; Phó Chủ tịch Thường trực — **GĐ Sở Công Thương Hoàng Chí Hiền**;
+  Phó Chủ tịch — PGĐ Sở Tài chính Vũ Lân; thành viên — **PGĐ Nguyễn Đình Chiến** (kiêm Tổ trưởng Tổ giúp việc), PGĐ Sở Xây dựng, PGĐ Sở
+  NN&MT, PGĐ Công an tỉnh, PCT UBND phường Văn Phú; **Thư ký — TP Quản lý công nghiệp Nguyễn Hữu Long**.
+- **Tổ giúp việc:** Tổ trưởng PGĐ Nguyễn Đình Chiến; Tổ phó TP Nguyễn Hữu Long và chuyên viên Phòng Kinh tế Văn phòng UBND tỉnh;
+  tổ viên có **PTP Trần Trọng Trang**, **CV Lê Quang Trung** (Phòng QLCN) và chuyên viên các sở Tài chính, Xây dựng, NN&MT (đất đai;
+  Chi cục Môi trường), Công an tỉnh (Phòng An ninh kinh tế), UBND phường Văn Phú.
+- **Nhiệm vụ Hội đồng:** xây dựng, **ban hành bộ tiêu chí** lựa chọn chủ đầu tư (khuôn QĐ 3936/QĐ-HĐ CCN Tân Hợp — ref 51); tổ chức chấm
+  điểm, lựa chọn; giải quyết vướng mắc, khiếu nại về kết quả chấm điểm; Chủ tịch dùng dấu UBND tỉnh, Phó Chủ tịch dùng dấu cơ quan mình;
+  kiêm nhiệm; tự giải thể khi xong. Nhiệm vụ cụ thể của Tổ giúp việc do Chủ tịch Hội đồng phân công.
+- Cùng ngày Sở có **VB 7297/SCT-CN ngày 04/11/2026** đề nghị giải trình, chỉnh sửa, bổ sung hoàn thiện hồ sơ thành lập CCN Phú Thịnh 6
+  (ý kiến Sở Tài chính 8589/STC-TĐ 24/10/2026 về năng lực tài chính nhà đầu tư).
+

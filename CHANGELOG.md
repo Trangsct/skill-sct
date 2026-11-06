@@ -1,7 +1,7 @@
-## 05/11/2026 (lần 4) — kccn-sct-vn 1.65.0: Thông tư 69/2026/TT-BCT sửa TT 14/2024 (chế độ báo cáo, mẫu văn bản CCN); Hội đồng CCN Phú Thịnh 6
+## 06/11/2026 — hc-sct-vn 1.9.0: sổ theo dõi cơ sở, GCN/GP hóa chất (ref 20 + data CSV); tra-cuu-sct-vn 1.0.1
 
-- Lượt nâng cấp plugin tự động buổi tối, rà bản tin egov1 05/11/2026 (141 văn bản lần đầu ghi nhận).
-- **kccn-sct-vn 1.65.0**: lưu bản gốc + bản chữ OCR **TT 69/2026/TT-BCT ngày 30/10/2026** (hiệu lực 18/12/2026); ref 55 mới — bảng đối chiếu điều sửa đổi, chuỗi báo cáo 06 biểu (Sở nộp Biểu 05, 06 về Cục Công nghiệp), Phụ lục II Mẫu 01–04; ref 54 mục I — QĐ 4154/QĐ-UBND 04/11/2026 Hội đồng lựa chọn chủ đầu tư CCN công nghệ cao Phú Thịnh 6; registry thêm trạng thái TT 14/2024, TT 69/2026.
+- **hc-sct-vn 1.9.0**: ref 20 sổ theo dõi 52 cơ sở hoạt động hóa chất — 17 DN còn GCN cấp trước 2026 (đến 31/12/2027), 5 GP nhập khẩu nhóm 1 UBND tỉnh, GP Cục cấp Triều Dương 1844/GP-HC, GP Thái Nguyên gửi về, kết quả kiểm tra 04 đơn vị 2026 (QĐ XPHC 3364), DN đã/chưa báo cáo 2025, KH/BP theo dõi; `data/so-theo-doi-hoa-chat.csv` (chỉ tên công ty, số giấy phép); GATE số 0 tra sổ / MCP `tra_doanh_nghiep` trước khi trả lời về một DN hóa chất; ref 16 mục 5d.
+- **tra-cuu-sct-vn 1.0.1**: máy chủ sct-mcp 1.0.1 — `tra_doanh_nghiep` đọc thêm sổ theo dõi dạng CSV trong `data/` của các plugin (hóa chất) và sổ văn bản nay có bản chữ OCR 39 giấy phép, GCN hóa chất 2018–2026.
 
 ## 05/11/2026 (lần 3) — tra-cuu-sct-vn 1.0.0 (plugin mới): gắn máy chủ MCP tra cứu; kccn-sct-vn 1.64.0, sct-laocai-org-vn 2.11.0, vbhc-vn 2.38.0
 

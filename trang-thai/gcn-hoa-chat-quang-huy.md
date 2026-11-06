@@ -33,6 +33,7 @@ Plugin liên quan: hc-sct-vn
 - (23/10/2026) Khối ký biên bản: Đại diện Công ty và Đại diện Đoàn kiểm tra; biên bản lập 02 bản
 - (23/10/2026) Bắc Ninh là thành phố trực thuộc Trung ương từ 20/9/2026: văn bản mới ghi UBND thành phố Bắc Ninh; văn bản cũ ghi tỉnh không bắt sửa
 - (26/10/2026) Công văn hoàn thiện hồ sơ: 3 trang, mỗi điểm 4 nhịp hồ sơ ghi gì - quy định - vì sao chưa đủ cơ sở - đề nghị; không bắt rút thời hạn hợp đồng, thay bằng cam kết; HĐLĐ và văn bản phân công xuất trình tại buổi kiểm tra, không yêu cầu bổ sung vào hồ sơ
+- (06/11/2026) Giữ nguyên hợp đồng và Phụ lục 1, chỉ ký thêm phụ lục riêng cho lưu huỳnh
 
 ## Yêu cầu riêng một lần
 
@@ -56,3 +57,8 @@ Plugin liên quan: hc-sct-vn
 - Việc đã làm: Rà hồ sơ Công ty nộp lại sau Văn bản 7149/SCT-CN ngày 30/10/2026 (văn bản đề nghị 24-VBĐN/QH ngày 04/11/2026, phụ lục hợp đồng 02/2026/PLHĐ/VQC-QHC, bản vẽ mặt bằng, 05 tài liệu kho của Việt Quang); dựng bản nhận xét chỉ nêu nội dung chưa đạt; Dựng lại văn bản đề nghị (Mẫu 07 TT 26/2026) và phụ lục hợp đồng dịch vụ tồn trữ để hai doanh nghiệp ký lại: chỉ lưu huỳnh 6.000 kg tại kệ C8, C9 vị trí 2.1-2.3; loại trừ khoản 5.2.7, 5.2.11, 6.1.8 và quyền đơn phương ra phụ lục 5.2.4, 5.2.13; trách nhiệm hai bên; xử lý khi GCN 1094 hết hiệu lực; Bổ sung vào phụ lục hợp đồng khoản trách nhiệm của Bên A về an toàn hóa chất, môi trường, phòng cháy chữa cháy và ứng phó sự cố trong thời gian lưu giữ hàng của Bên B (theo đề nghị của chuyên viên thụ lý)
 - Văn bản đã xuất: 2026.11.05. Nhận xét hồ sơ đã hoàn thiện GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1); Văn bản đề nghị cấp GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 1); Phụ lục hợp đồng dịch vụ tồn trữ hóa chất Việt Quang - Quang Huy.docx (bản 1); Phụ lục hợp đồng dịch vụ tồn trữ hóa chất Việt Quang - Quang Huy.docx (bản 2)
 - Câu hỏi chưa được trả lời: Thông báo Công ty hoàn thiện lần này bằng văn bản hay làm việc trực tiếp
+
+### 06/11/2026
+- Việc đã làm: Doanh nghiệp không sửa hợp đồng và Phụ lục 1 đã ký; dựng lại phụ lục hợp đồng theo hướng chỉ bổ sung quy định riêng cho lưu huỳnh (06 vị trí C8, C9 đã thể hiện tại Phụ lục 1, 6.000 kg, loại trừ khoản linh hoạt vị trí, trách nhiệm an toàn và ứng phó sự cố của bên cung cấp dịch vụ), giữ nguyên Phụ lục 1; sửa mục hồ sơ gửi kèm của văn bản đề nghị
+- Văn bản đã xuất: Phụ lục hợp đồng dịch vụ tồn trữ hóa chất Việt Quang - Quang Huy.docx (bản 3); Văn bản đề nghị cấp GCN kinh doanh hóa chất Công ty TNHH Hóa chất Quang Huy.docx (bản 2)
+- Quyết định của Bạn: Giữ nguyên hợp đồng và Phụ lục 1, chỉ ký thêm phụ lục riêng cho lưu huỳnh

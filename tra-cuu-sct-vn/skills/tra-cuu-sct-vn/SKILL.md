@@ -44,7 +44,7 @@ PDF) TRƯỚC khi viết biên bản, phiếu nhận xét hay công văn hoàn t
 - Đếm văn bản đi đến theo kỳ, sản lượng công việc, số giấy phép theo tháng, số cụm theo nhóm → `thong_ke(doi_tuong, …)`.
 - Bạn hỏi "việc hôm nay", "việc chờ xử lý", "việc của Phòng" → `viec_cho_xu_ly(pham_vi, trang_thai)`; việc có liên quan
   một cụm thì máy chủ gợi ý loại văn bản cần soạn theo bậc thủ tục.
-- Tra văn bản đến, đi, doanh nghiệp → `tra_van_ban_den_di`, `tra_doanh_nghiep`. Máy chủ trả "chưa được cấp quyền kho văn bản"
+- Tra văn bản đến, đi, doanh nghiệp → `tra_van_ban_den_di`, `tra_doanh_nghiep` (từ 06/11/2026 `tra_doanh_nghiep` trả thêm `so_theo_doi_plugin`: dòng sổ theo dõi cơ sở hoạt động hóa chất của plugin hc-sct-vn — GCN/GP đã cấp, hồ sơ, Kế hoạch/Biện pháp, kiểm tra, báo cáo; sổ văn bản có bản chữ OCR 39 GCN/GP hóa chất 2018–2026). Máy chủ trả "chưa được cấp quyền kho văn bản"
   thì dùng plugin `van-ban-sct-vn` trong phiên, không báo lỗi.
 
 ## Danh sách công cụ

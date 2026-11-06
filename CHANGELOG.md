@@ -1,3 +1,8 @@
+## 06/11/2026 — hc-sct-vn 1.9.0: sổ theo dõi cơ sở, GCN/GP hóa chất (ref 20 + data CSV); tra-cuu-sct-vn 1.0.1
+
+- **hc-sct-vn 1.9.0**: ref 20 sổ theo dõi 52 cơ sở hoạt động hóa chất — 17 DN còn GCN cấp trước 2026 (đến 31/12/2027), 5 GP nhập khẩu nhóm 1 UBND tỉnh, GP Cục cấp Triều Dương 1844/GP-HC, GP Thái Nguyên gửi về, kết quả kiểm tra 04 đơn vị 2026 (QĐ XPHC 3364), DN đã/chưa báo cáo 2025, KH/BP theo dõi; `data/so-theo-doi-hoa-chat.csv` (chỉ tên công ty, số giấy phép); GATE số 0 tra sổ / MCP `tra_doanh_nghiep` trước khi trả lời về một DN hóa chất; ref 16 mục 5d.
+- **tra-cuu-sct-vn 1.0.1**: máy chủ sct-mcp 1.0.1 — `tra_doanh_nghiep` đọc thêm sổ theo dõi dạng CSV trong `data/` của các plugin (hóa chất) và sổ văn bản nay có bản chữ OCR 39 giấy phép, GCN hóa chất 2018–2026.
+
 ## 05/11/2026 (lần 3) — tra-cuu-sct-vn 1.0.0 (plugin mới): gắn máy chủ MCP tra cứu; kccn-sct-vn 1.64.0, sct-laocai-org-vn 2.11.0, vbhc-vn 2.38.0
 
 - **tra-cuu-sct-vn 1.0.0**: `.mcp.json` khai báo máy chủ `sct-tra-cuu` (kho mã `sct-mcp`, chạy trên Vercel; url `${SCT_MCP_URL}`, header `Authorization: Bearer ${SCT_MCP_TOKEN}`); SKILL.md: gọi công cụ máy chủ trước, dự phòng script khi mất kết nối, không coi kết quả rỗng là "không có văn bản" khi chưa tra cả hai cách; quy trình bắt buộc khi soạn (goi_boi_canh_soan_thao → nguoi_ky_va_luong_trinh → viết → kiem_tra_du_kien → vbhc-vn), thẩm định (checklist_tham_dinh → doi_chieu_ho_so), báo cáo (so_lieu_bao_cao), việc chờ xử lý (viec_cho_xu_ly); README cách `setx` hai biến và kiểm `/mcp`. 16 công cụ chỉ đọc.

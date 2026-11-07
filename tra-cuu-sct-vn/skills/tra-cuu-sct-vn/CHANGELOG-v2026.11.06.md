@@ -6,3 +6,7 @@
 # CHANGELOG — tra-cuu-sct-vn v1.0.2 (07/11/2026)
 
 - Máy chủ 1.0.2: `tra_doanh_nghiep` trả `so_theo_doi_hoa_chat`, mã số DN, địa chỉ từ sổ theo dõi hóa chất trong kho riêng (web nội bộ tự xuất mỗi lần dựng plugin).
+
+# CHANGELOG — tra-cuu-sct-vn v1.0.3 (07/11/2026)
+
+- SKILL.md: mục "Sổ theo dõi hóa chất đi đường tự động" — `tra_doanh_nghiep` là đường chính để biết một DN hóa chất đã có gì; nguồn tệp do workflow kho riêng tự xuất, cách kiểm tra khi nghi dữ liệu cũ; dẫn hc-sct-vn ref 21.

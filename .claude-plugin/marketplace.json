@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.206"
+    "version": "4.11.208"
   },
   "plugins": [
     {
@@ -35,8 +35,8 @@
     {
       "name": "hc-sct-vn",
       "source": "./hc-sct-vn",
-      "description": "QLNN hóa chất, Sở Công Thương Lào Cai, khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01+02/2026) + lớp cắt giảm, phân cấp NQ 19/2026, TT 26/2026 (ref 18): thẩm định cấp phép; thẩm định Kế hoạch sự cố (cả Hội đồng Cục Hóa chất); hướng dẫn DN; kiểm tra; báo cáo; Chiến lược QĐ 726 (ref 19); soạn văn bản. Sổ theo dõi cơ sở, GCN/GP đã cấp, kiểm tra, báo cáo 2025 (ref 20 + data CSV, 06/11/2026) — GATE tra sổ hoặc MCP tra_doanh_nghiep trước. CV 6395/SCT-CN; kho thuê tỉnh khác (ref 16).",
-      "version": "1.9.2"
+      "description": "QLNN hóa chất, Sở Công Thương Lào Cai, khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01+02/2026) + lớp cắt giảm, phân cấp NQ 19/2026, TT 26/2026 (ref 18): thẩm định cấp phép; thẩm định Kế hoạch sự cố (cả Hội đồng Cục Hóa chất); hướng dẫn DN; kiểm tra; báo cáo; Chiến lược QĐ 726 (ref 19); soạn văn bản. Sổ theo dõi cơ sở, GCN/GP, kiểm tra, báo cáo (ref 20) — GATE tra sổ hoặc MCP tra_doanh_nghiep trước; sổ đi đường tự động web → plugin riêng → MCP (ref 21). CV 6395; kho thuê tỉnh khác (ref 16).",
+      "version": "1.9.3"
     },
     {
       "name": "hl-vlncn-sct-vn",
@@ -174,7 +174,7 @@
       "name": "tra-cuu-sct-vn",
       "source": "./tra-cuu-sct-vn",
       "description": "Gắn máy chủ tra cứu MCP (sct-mcp trên Vercel) vào bộ plugin: 16 công cụ chỉ đọc — tra văn bản gốc, toàn văn, trạng thái hồ sơ cụm, danh mục KCN/CCN theo QĐ 525, tìm trong tài liệu tham khảo; gói bối cảnh soạn thảo, người ký và luồng trình, văn bản đến đi, doanh nghiệp, kiểm tra dữ kiện; checklist thẩm định, đối chiếu hồ sơ, số liệu báo cáo, thống kê, việc chờ xử lý, tra pháp luật. Quy trình bắt buộc khi soạn, thẩm định, báo cáo. Máy chủ không kết nối thì dùng script và tài liệu plugin như cũ.",
-      "version": "1.0.2"
+      "version": "1.0.3"
     }
   ]
 }

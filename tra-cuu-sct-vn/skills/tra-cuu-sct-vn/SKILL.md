@@ -58,3 +58,11 @@ PDF) TRƯỚC khi viết biên bản, phiếu nhận xét hay công văn hoàn t
 Cách khai báo `SCT_MCP_URL`, `SCT_MCP_TOKEN` trên máy và kiểm tra bằng `/mcp`: `README.md` của plugin này. Hai tệp dữ liệu máy
 chủ đọc là `kccn-sct-vn/skills/kccn-sct-vn/data/danh-muc-kcn-ccn-qd525.csv` và
 `sct-laocai-org-vn/skills/sct-laocai-org-vn/data/phan-cong-ky.json` — khi sửa reference 12, 13 hoặc phân công ký thì sửa hai tệp này cùng đợt.
+
+## Sổ theo dõi hóa chất đi đường tự động (Bạn chốt 07/11/2026)
+
+`tra_doanh_nghiep "<tên DN>"` là đường chính để biết một doanh nghiệp hóa chất đã có GCN/GP, hồ sơ, KH/BP, kiểm tra, báo cáo gì:
+khối `so_theo_doi_hoa_chat` (kèm mã số DN, địa chỉ cơ sở) đọc từ `data/so-theo-doi-hoa-chat.csv` của plugin riêng `van-ban-sct-vn`,
+tệp này do workflow `plugin-van-ban.yml` của kho riêng tự xuất từ CSDL web nội bộ sau mỗi lần nạp — không ai chép tay. Nghi dữ liệu
+cũ: xem lượt Actions mới nhất của kho riêng xanh chưa, rồi gọi lại. Sơ đồ đầy đủ và việc Claude được/không được làm: plugin
+`hc-sct-vn` reference 21.

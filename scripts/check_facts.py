@@ -44,6 +44,16 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "giay-phep-ruou-khong-thuc-hien-nq-66-18",
+        # Vụ 07/11/2026 (attp-sct-vn ref 07 mục 0): Hải quan đòi Giấy phép phân phối rượu khi nhập rượu 53 độ; NQ 66.18/2026/NQ-CP
+        # (01/7/2026 - 28/02/2027) không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ rượu (khoản B Tiểu mục 3.1
+        # Mục 3 Phụ lục I.2). Không hướng dẫn doanh nghiệp xin, nộp hồ sơ các giấy phép này mà không nhắc NQ 66.18.
+        "pattern": r"^(?!.*(?:66\.18|lịch sử|[Kk]hông thực hiện|KHÔNG thực hiện|trước ngày|trước 01/7/2026)).*(?:cấp|nộp hồ sơ|xin)[^.]{0,40}Giấy phép (?:phân phối|bán buôn|bán lẻ) rượu",
+        "why": "Từ 01/7/2026 đến hết 28/02/2027 không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ rượu (NQ 66.18/2026/NQ-CP, attp-sct-vn ref 07 mục 0).",
+        "since": "2026-11-07",
+        "level": "FAIL",
+    },
+    {
         "id": "stc-sxkd-quy-iv-khong-phai-gtsxcn",
         # dacn-sct-vn ref 17 (03/11/2026): 7.358,80 tỷ là tổng QIV của 202 đơn vị công nghiệp + 02 công trình do xã báo cáo
         # (Sở Tài chính tổng hợp) — doanh thu/giá trị giá hiện hành, chỉ phủ ≈ 1/3 ngành; không gọi là GTSXCN quý IV của tỉnh.

@@ -1,3 +1,7 @@
+## 07/11/2026 (lần 5) — attp-sct-vn 1.8.0: rượu theo NQ 66.18/2026/NQ-CP
+
+- ref 07 mục 0: không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ, sản xuất rượu và các điều kiện kinh doanh rượu (01/7/2026 - 28/02/2027); khoảng trống khoản 1 Điều 30 NĐ 105/2017 khi nhập khẩu rượu; rule check_facts mới; sửa lỗi mã hóa ref 06, 09.
+
 ## 07/11/2026 (lần 4) — hc-sct-vn 1.9.4: bước kiểm tra web tự động hằng tuần vào quy trình (ref 21 mục 3)
 
 - Lịch Claude 00:59 thứ Tư trên đám mây chạy `kiem_tra_he_thong.py` kho riêng (Vercel, web thật, sct-mcp, plugin, TAY); bài học vụ web nội bộ đứng bản 10/10 suốt 4 tuần.

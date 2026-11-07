@@ -1,5 +1,9 @@
 # CHANGELOG - attp-sct-vn
 
+## 1.8.0 — 07/11/2026 — Rượu: NQ 66.18/2026/NQ-CP không thực hiện cấp giấy phép, điều kiện kinh doanh; nhập khẩu rượu
+
+- ref 07 mục 0 (bảng cắt giảm, chuyển tiếp, khoảng trống khoản 1 Điều 30 NĐ 105/2017, cách trả lời doanh nghiệp); SKILL.md, ref 09 cập nhật; sửa lỗi mã hóa ref 06, 09; rule `giay-phep-ruou-khong-thuc-hien-nq-66-18`. Chi tiết: `CHANGELOG-v2026.11.07.md`.
+
 ## 1.7.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/11-cap-lai-gcn-va-uy-quyen-2026.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

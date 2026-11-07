@@ -4,9 +4,10 @@ Nguồn: 3 tệp Bạn gửi 06/11/2026 (bản quét GP, GCN, hồ sơ kiểm tr
 **Bản đầy đủ, luôn mới nằm trên web nội bộ** (`vlncn-laocai.vercel.app`, menu **Hóa chất**: Cơ sở · GP, GCN · Hồ sơ đang xử lý ·
 KH, BP sự cố · Huấn luyện · Kiểm tra, xử phạt · Báo cáo của DN · Thống kê · Văn bản) và trong **máy chủ tra cứu MCP**
 (`tra_doanh_nghiep`, `tra_van_ban_den_di` — plugin `tra-cuu-sct-vn`). Tệp máy đọc kèm plugin: `data/so-theo-doi-hoa-chat.csv`
-(mỗi dòng một cơ sở: hoạt động, hóa chất, GCN/GP, hồ sơ, KH/BP, kiểm tra, xử phạt, báo cáo 2025). Bạn chốt 06/11/2026: sổ này kèm **mã số doanh
-nghiệp và địa chỉ cơ sở** (thông tin đăng ký doanh nghiệp là công khai); vẫn KHÔNG ghi số điện thoại, người đại diện, số CCCD —
-các chi tiết đó tra trên web nội bộ hoặc bản gốc.
+(mỗi dòng một cơ sở: hoạt động, hóa chất, GCN/GP, hồ sơ, KH/BP, kiểm tra, xử phạt, báo cáo 2025). Bản **đủ mã số doanh nghiệp, địa chỉ cơ sở** (Bạn chốt 06/11/2026) được web nội bộ tự xuất
+mỗi lần dựng plugin riêng `van-ban-sct-vn` (`data/so-theo-doi-hoa-chat.csv`) và máy chủ MCP `tra_doanh_nghiep` (từ 1.0.2) đọc thẳng,
+trả trường `so_theo_doi_hoa_chat` kèm mã số, địa chỉ — không chép tay (Bạn chốt 07/11/2026). Tệp trong plugin công khai này có thể
+là bản rút gọn; vẫn KHÔNG ghi số điện thoại, người đại diện, số CCCD ở bất kỳ bản nào.
 
 ## 1. GATE trước khi trả lời về một doanh nghiệp hóa chất
 

@@ -1,3 +1,7 @@
+## 07/11/2026 (lần 2) — hc-sct-vn 1.9.2, tra-cuu-sct-vn 1.0.2: sổ theo dõi hóa chất đủ cột đi đường tự động (web nội bộ → plugin riêng → MCP)
+
+- Bạn chốt "mọi thứ phải tự động": không chép CSV tay sang kho công khai; MCP `tra_doanh_nghiep` 1.0.2 đọc `data/so-theo-doi-hoa-chat.csv` của plugin riêng van-ban-sct-vn (workflow xuất từ CSDL web), trả `so_theo_doi_hoa_chat`, mã số DN, địa chỉ.
+
 ## 07/11/2026 — hc-sct-vn 1.9.1: sổ theo dõi hóa chất kèm mã số DN, địa chỉ cơ sở (Bạn chốt 06/11/2026)
 
 - `data/so-theo-doi-hoa-chat.csv` thêm cột `ma_so_dn`, `dia_chi`; ref 20 ghi quyết định; vẫn không điện thoại, người đại diện.

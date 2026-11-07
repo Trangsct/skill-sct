@@ -1,3 +1,8 @@
+## 07/11/2026 (lần 3) — hc-sct-vn 1.9.3, tra-cuu-sct-vn 1.0.3: ghi quy trình tự động của sổ theo dõi hóa chất
+
+- **hc-sct-vn 1.9.3**: ref 21 — sơ đồ dây chuyền Bạn gửi GP/GCN → Claude nạp CSDL web → workflow kho riêng xuất sổ đủ cột vào plugin van-ban-sct-vn → MCP `tra_doanh_nghiep`; hai việc Claude làm trong phiên, việc cấm làm tay, cách kiểm tra dây chuyền, lỗi lượt 641 đã sửa (PR #163 kho riêng), ranh giới công khai – riêng tư.
+- **tra-cuu-sct-vn 1.0.3**: SKILL.md mục "Sổ theo dõi hóa chất đi đường tự động".
+
 ## 07/11/2026 (lần 2) — hc-sct-vn 1.9.2, tra-cuu-sct-vn 1.0.2: sổ theo dõi hóa chất đủ cột đi đường tự động (web nội bộ → plugin riêng → MCP)
 
 - Bạn chốt "mọi thứ phải tự động": không chép CSV tay sang kho công khai; MCP `tra_doanh_nghiep` 1.0.2 đọc `data/so-theo-doi-hoa-chat.csv` của plugin riêng van-ban-sct-vn (workflow xuất từ CSDL web), trả `so_theo_doi_hoa_chat`, mã số DN, địa chỉ.

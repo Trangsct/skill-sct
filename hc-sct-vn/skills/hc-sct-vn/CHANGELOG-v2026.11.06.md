@@ -14,3 +14,8 @@
 # CHANGELOG — hc-sct-vn v1.9.2 (07/11/2026)
 
 - Ref 20: bản sổ đủ mã số DN, địa chỉ nay do web nội bộ tự xuất vào plugin riêng van-ban-sct-vn và MCP `tra_doanh_nghiep` 1.0.2 đọc thẳng (Bạn chốt 07/11/2026 "mọi thứ phải tự động"); kho công khai giữ bản rút gọn.
+
+# CHANGELOG — hc-sct-vn v1.9.3 (07/11/2026)
+
+- **Reference 21 (mới) — Quy trình tự động của sổ theo dõi hóa chất:** sơ đồ dây chuyền Bạn gửi GP/GCN → Claude nạp CSDL web → workflow `plugin-van-ban.yml` xuất sổ đủ mã số DN, địa chỉ vào plugin riêng `van-ban-sct-vn` → MCP `tra_doanh_nghiep` đọc thẳng; hai việc Claude làm trong phiên và việc cấm làm tay; cách kiểm tra dây chuyền; lỗi lượt 641 (CSV unstaged) đã sửa ở PR #163 kho riêng; ranh giới công khai – riêng tư.
+- SKILL.md bảng reference thêm 21; `plugin.json` 1.9.2 → 1.9.3.

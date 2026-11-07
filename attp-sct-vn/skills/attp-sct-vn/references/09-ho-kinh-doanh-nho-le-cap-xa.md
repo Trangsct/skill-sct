@@ -71,8 +71,8 @@ Nhiệm vụ của xã với nhóm hộ kinh doanh: quản lý (khoản 7); ti�
 
 Ba trường hợp có hệ quả khác nhau, không viện dẫn nhầm. Phổ biến ở cơ sở nhỏ là khoản 10, quyền chọn thuộc cơ sở.
 
-M��c 5 CV 3109: **siêu thị vừa sản xuất vừa kinh doanh** thực phẩm chỉ cấp **01 Giấy chứng nhận** cho cả hai hoạt động.
-M��c 4 CV 3109: **cơ sở sản xuất rượu thủ công nhằm mục đích kinh doanh** đăng ký hộ kinh doanh là cơ sở kinh doanh thực phẩm nhỏ lẻ, áp dụng NĐ 15/2018 về quản lý ATTP với cơ sở nhỏ lẻ.
+Mục 5 CV 3109: **siêu thị vừa sản xuất vừa kinh doanh** thực phẩm chỉ cấp **01 Giấy chứng nhận** cho cả hai hoạt động.
+Mục 4 CV 3109: **cơ sở sản xuất rượu thủ công nhằm mục đích kinh doanh** đăng ký hộ kinh doanh là cơ sở kinh doanh thực phẩm nhỏ lẻ, áp dụng NĐ 15/2018 về quản lý ATTP với cơ sở nhỏ lẻ.
 
 ## 7. Điều kiện phải soi khi kiểm tra - khoản 1 Điều 22 Luật ATTP
 
@@ -138,4 +138,4 @@ Các nghị quyết cắt giảm TTHC 2026 (NQ 19/2026, NQ 66.16/2026, NQ 66.18/
 - **Chưa có mẫu bản cam kết** đang dùng tại Sở và tại cấp xã; chưa có file gốc **NĐ 17/2020/NĐ-CP** trong `van-ban-goc/` để đọc khoản 2 Điều 10 và mẫu kèm theo.
 - Chưa có **Phụ lục I, II, III QĐ 28/2025** (bản .txt không kèm phụ lục; danh mục Phụ lục III hiện lấy từ trích dẫn trong công văn hướng dẫn của Sở).
 - Chưa có mẫu sổ theo dõi hộ kinh doanh thực phẩm dùng chung cho các xã.
-- Chưa có toàn văn phụ lục NQ 19/2026 và NQ 66.18/2026 (bản PDF trên Cổng TTĐT Chính phủ là bản scan, không trích được text).
+- Chưa có toàn văn phụ lục NQ 19/2026. NQ 66.18/2026 đã có toàn văn trong kho: `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/NQ-66-18-2026-NQ-CP.txt`.

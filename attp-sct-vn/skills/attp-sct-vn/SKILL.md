@@ -17,7 +17,7 @@ Kích hoạt skill khi xử lý bất kỳ việc nào sau đây:
 - **Cấp lại Giấy chứng nhận** khi hết hiệu lực: rà sổ theo dõi, phát công văn cảnh báo sớm cho cơ sở trước 06 tháng (khoản 2 Điều 37 Luật ATTP) - reference 11.
 - **Tiếp nhận và đăng tải bản tự công bố**: soạn công văn nội bộ đề nghị Văn phòng Sở đăng tải lên Cổng thông tin điện tử, kèm phụ lục bảng sản phẩm - reference 03 mục 3.1.
 - Cấp phép, hướng dẫn lĩnh vực **thuốc lá**: Giấy phép chế biến nguyên liệu thuốc lá; Giấy phép phân phối, bán buôn sản phẩm thuốc lá; chấp thuận nhập khẩu nguyên liệu, máy móc thiết bị chuyên ngành thuốc lá.
-- Cấp phép, hướng dẫn lĩnh vực **rượu**: Giấy phép sản xuất rượu công nghiệp, Giấy phép phân phối, bán buôn rượu.
+- Hướng dẫn lĩnh vực **rượu**: từ 01/7/2026 đến hết 28/02/2027 KHÔNG thực hiện thủ tục cấp Giấy phép sản xuất, phân phối, bán buôn, bán lẻ rượu (NQ 66.18/2026/NQ-CP); trả lời doanh nghiệp nhập khẩu rượu bị Hải quan đòi Giấy phép phân phối - reference 07 mục 0.
 - **Hậu kiểm, kiểm tra chuyên ngành** ATTP; truy xuất nguồn gốc; thu hồi, xử lý sản phẩm không bảo đảm an toàn; phối hợp xử lý sự cố, ngộ độc thực phẩm.
 - Soạn công văn hướng dẫn doanh nghiệp, tờ trình, quyết định, kế hoạch, báo cáo định kỳ/chuyên đề trong lĩnh vực ATTP và công nghiệp tiêu dùng - thực phẩm (Tháng hành động vì ATTP, Tết Trung thu, Tết Nguyên đán).
 - Trả lời câu hỏi của doanh nghiệp, hộ kinh doanh về điều kiện, hồ sơ, thời hạn, phí, lệ phí.
@@ -85,6 +85,7 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 ### 4. Rượu, bia, nước giải khát (chi tiết tại reference 07)
 - **Nghị định số 105/2017/NĐ-CP** ngày 14/9/2017 về kinh doanh rượu, sửa đổi bởi NĐ 17/2020/NĐ-CP.
 - **Nghị định số 146/2025/NĐ-CP**, Điều 20: phân cấp về UBND cấp tỉnh việc cấp Giấy phép sản xuất rượu công nghiệp quy mô từ 03 triệu lít/năm trở lên và Giấy phép phân phối rượu.
+- **Nghị quyết số 66.18/2026/NQ-CP** (01/7/2026 - 28/02/2027): không thực hiện các thủ tục cấp giấy phép rượu và các điều kiện kinh doanh rượu; khoản 1 Điều 30 NĐ 105/2017 (nhập khẩu) không có trong danh mục cắt giảm - reference 07 mục 0.
 
 ## IV. NGUYÊN TẮC BẤT BIẾN KHI DÙNG SKILL
 
@@ -107,7 +108,7 @@ Lĩnh vực ATTP đang ở trạng thái pháp lý **hai lớp**, rất dễ tr�
 | `references/04-khong-thuoc-dien-cap-gcn.md` | Điều 12 NĐ 15/2018 - các trường hợp miễn và nghĩa vụ thay thế |
 | `references/05-hau-kiem-kiem-tra.md` | Hậu kiểm, kiểm tra chuyên ngành, truy xuất nguồn gốc, thu hồi sản phẩm, sự cố ATTP |
 | `references/06-thuoc-la.md` | Toàn bộ mảng thuốc lá: 03 TTHC nguyên liệu thuốc lá, thẩm quyền sau phân cấp, điều kiện sau cắt giảm |
-| `references/07-ruou-bia-nuoc-giai-khat.md` | Cấp phép rượu, phân cấp theo NĐ 146/2025 |
+| `references/07-ruou-bia-nuoc-giai-khat.md` | **Mục 0: NQ 66.18/2026 cắt giảm thủ tục, điều kiện kinh doanh rượu, nhập khẩu rượu**; cấp phép rượu, phân cấp theo NĐ 146/2025 |
 | `references/08-canh-bao-hieu-luc-2026.md` | Diễn biến NĐ 46/2026 - NQ 09/2026 - NQ 15/2026 - Luật ATTP (sửa đổi); cách trích căn cứ an toàn |
 | `references/09-ho-kinh-doanh-nho-le-cap-xa.md` | **Tuyến xã - KẾT LUẬN CHỐT: hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN** (khoản 10 Điều 3 + điểm d khoản 1 Điều 12 + CV 3109, CV 8520). Ranh giới QĐ 28/2025 Điều 6-7, 3 trường hợp ngoại lệ, Điều 36 khoản 8-9-10, 5 việc xã phải làm, ví dụ hộ sản xuất bánh mỳ + 10 câu hỏi kiểm tra |
 | `references/10-ranh-gioi-nganh-nong-nghiep-moi-truong.md` | Ranh giới với ngành Nông nghiệp và Môi trường; **TT 22/2026/TT-BNNMT** (hiệu lực phân tầng, kiểm tra ATTP nhập khẩu từ 01/9/2026, CFS, chỉ định cơ sở kiểm nghiệm); bảng tra nhanh ranh giới |

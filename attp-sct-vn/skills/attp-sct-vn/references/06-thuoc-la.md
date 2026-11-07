@@ -70,7 +70,7 @@ Riêng NĐ 146/2025 (khoản 7 Điều 61): hồ sơ TTHC đã được cơ quan
 
 Sở đã áp dụng quy trình: nhận đơn của doanh nghiệp → **Giám đốc Sở ban hành Quyết định thành lập Đoàn thẩm định điều kiện vật chất, trang thiết bị** → Đoàn kiểm tra thực tế tại cơ sở → ra văn bản hướng dẫn hoàn thiện hoặc trình cấp phép.
 
-M��u Quyết định (vụ Công ty TNHH Thương mại Dịch vụ XNK Kim Ngọc, 9/2025) có tại `mau-ho-so/`. Cấu trúc Đoàn thẩm định: Trưởng đoàn là Phó Trưởng phòng QLCN; 01 chuyên viên làm Thư ký; 01 chuyên viên thành viên. Điều 2 giao Trưởng đoàn phân công nhiệm vụ, Đoàn thông báo thời gian - địa điểm - nội dung làm việc với cơ sở và **tự giải thể sau khi hoàn thành nhiệm vụ**. Điều 3: Chánh Văn phòng Sở, Trưởng phòng QLCN, doanh nghiệp và các cá nhân có tên chịu trách nhiệm thi hành.
+Mẫu Quyết định (vụ Công ty TNHH Thương mại Dịch vụ XNK Kim Ngọc, 9/2025) có tại `mau-ho-so/`. Cấu trúc Đoàn thẩm định: Trưởng đoàn là Phó Trưởng phòng QLCN; 01 chuyên viên làm Thư ký; 01 chuyên viên thành viên. Điều 2 giao Trưởng đoàn phân công nhiệm vụ, Đoàn thông báo thời gian - địa điểm - nội dung làm việc với cơ sở và **tự giải thể sau khi hoàn thành nhiệm vụ**. Điều 3: Chánh Văn phòng Sở, Trưởng phòng QLCN, doanh nghiệp và các cá nhân có tên chịu trách nhiệm thi hành.
 
 **Lưu ý người ký:** mẫu năm 2025 do Phó Giám đốc Phạm Trung Lân ký thay Giám đốc. **Không mặc định lấy tên này cho văn bản mới** - xác định người ký hiện hành theo plugin `sct-laocai-org-vn` (lĩnh vực ATTP và công nghiệp tiêu dùng - thực phẩm hiện do PGĐ Nguyễn Đình Chiến phụ trách).
 

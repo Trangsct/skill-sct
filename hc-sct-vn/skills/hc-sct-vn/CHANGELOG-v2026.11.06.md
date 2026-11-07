@@ -19,3 +19,7 @@
 
 - **Reference 21 (mới) — Quy trình tự động của sổ theo dõi hóa chất:** sơ đồ dây chuyền Bạn gửi GP/GCN → Claude nạp CSDL web → workflow `plugin-van-ban.yml` xuất sổ đủ mã số DN, địa chỉ vào plugin riêng `van-ban-sct-vn` → MCP `tra_doanh_nghiep` đọc thẳng; hai việc Claude làm trong phiên và việc cấm làm tay; cách kiểm tra dây chuyền; lỗi lượt 641 (CSV unstaged) đã sửa ở PR #163 kho riêng; ranh giới công khai – riêng tư.
 - SKILL.md bảng reference thêm 21; `plugin.json` 1.9.2 → 1.9.3.
+
+# CHANGELOG — hc-sct-vn v1.9.4 (07/11/2026)
+
+- Ref 21 mục 3: kiểm tra dây chuyền tự động hằng tuần (00:59 thứ Tư, đám mây) bằng `kiem_tra_he_thong.py` kho riêng; bài học vụ web nội bộ đứng bản cũ 10/10–07/11/2026 (Vercel bỏ qua lượt dựng sai) — sửa web xong phải xem bản production READY và mở trang thật.

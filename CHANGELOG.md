@@ -1,3 +1,7 @@
+## 07/11/2026 — hc-sct-vn 1.9.2: sổ theo dõi hóa chất đủ cột mã số DN, địa chỉ (Bạn chốt 06/11/2026)
+
+- `data/so-theo-doi-hoa-chat.csv` bản đủ cột `ma_so_dn`, `dia_chi` (15 cột, 52 dòng); vẫn không có số điện thoại, người đại diện, CCCD, tên người ký.
+
 ## 07/11/2026 — hc-sct-vn 1.9.1: sổ theo dõi hóa chất kèm mã số DN, địa chỉ cơ sở (Bạn chốt 06/11/2026)
 
 - `data/so-theo-doi-hoa-chat.csv` thêm cột `ma_so_dn`, `dia_chi`; ref 20 ghi quyết định; vẫn không điện thoại, người đại diện.

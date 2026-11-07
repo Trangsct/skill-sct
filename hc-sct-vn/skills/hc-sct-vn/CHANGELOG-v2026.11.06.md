@@ -1,3 +1,8 @@
+# CHANGELOG — hc-sct-vn v1.9.2 (07/11/2026)
+
+- `data/so-theo-doi-hoa-chat.csv` bản đủ cột `ma_so_dn`, `dia_chi` (Bạn chốt 06/11/2026); vẫn không có số điện thoại, người đại diện, CCCD, tên người ký.
+- `plugin.json` 1.9.1 → 1.9.2.
+
 # CHANGELOG — hc-sct-vn v1.9.0 (06/11/2026)
 
 - **Reference 20 (mới) — Sổ theo dõi cơ sở hoạt động hóa chất, GCN/GP đã cấp:** 17 DN còn GCN đủ điều kiện cấp trước 01/01/2026 (dùng đến 31/12/2027, bảng số/ngày/phạm vi); 5 GP nhập khẩu nhóm 1 UBND tỉnh đã cấp (3384, 3385, 3387 ngày 18/9/2026; 3509, 3510 ngày 28/9/2026); GP Cục Hóa chất 1844/GP-HC 23/9/2026 cấp Triều Dương; GP Thái Nguyên 598, 599/GP-SCT gửi về (cơ sở LNS mua H2SO4); kết quả kiểm tra 04 đơn vị 2026 (Khí công nghiệp Lào Cai: BB VPHC, QĐ XPHC 3364/QĐ-XPHC 10/6/2026); đợt kiểm tra sự cố 12/2025; 25 DN đã / 12 DN chưa báo cáo 2025; KH/BP đang theo dõi; danh sách chỗ còn phải đối chiếu bản gốc.

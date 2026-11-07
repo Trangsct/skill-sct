@@ -5,3 +5,8 @@
 - **SKILL.md:** câu hỏi gác cổng số 0 "DN này đã có gì trong sổ theo dõi?" trước 4 câu hỏi cũ; bảng reference thêm 20. **Ref 16** thêm mục 5d.
 - Nguồn: 3 tệp Bạn gửi 06/11/2026 (bản quét, OCR; bản gốc ở kho riêng vlncn-laocai-files; bản chữ trong sổ văn bản plugin van-ban-sct-vn).
 - `plugin.json` 1.8.1 → 1.9.0.
+
+# CHANGELOG — hc-sct-vn v1.9.1 (07/11/2026)
+
+- `data/so-theo-doi-hoa-chat.csv` thêm cột `ma_so_dn`, `dia_chi` (Bạn chốt 06/11/2026: thông tin đăng ký doanh nghiệp là công khai, đưa vào sổ; vẫn không có điện thoại, người đại diện). Ref 20 ghi rõ.
+- `plugin.json` 1.9.0 → 1.9.1.

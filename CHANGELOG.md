@@ -1,3 +1,7 @@
+## 07/11/2026 — hc-sct-vn 1.9.1: sổ theo dõi hóa chất kèm mã số DN, địa chỉ cơ sở (Bạn chốt 06/11/2026)
+
+- `data/so-theo-doi-hoa-chat.csv` thêm cột `ma_so_dn`, `dia_chi`; ref 20 ghi quyết định; vẫn không điện thoại, người đại diện.
+
 ## 06/11/2026 — hc-sct-vn 1.9.0: sổ theo dõi cơ sở, GCN/GP hóa chất (ref 20 + data CSV); tra-cuu-sct-vn 1.0.1
 
 - **hc-sct-vn 1.9.0**: ref 20 sổ theo dõi 52 cơ sở hoạt động hóa chất — 17 DN còn GCN cấp trước 2026 (đến 31/12/2027), 5 GP nhập khẩu nhóm 1 UBND tỉnh, GP Cục cấp Triều Dương 1844/GP-HC, GP Thái Nguyên gửi về, kết quả kiểm tra 04 đơn vị 2026 (QĐ XPHC 3364), DN đã/chưa báo cáo 2025, KH/BP theo dõi; `data/so-theo-doi-hoa-chat.csv` (chỉ tên công ty, số giấy phép); GATE số 0 tra sổ / MCP `tra_doanh_nghiep` trước khi trả lời về một DN hóa chất; ref 16 mục 5d.

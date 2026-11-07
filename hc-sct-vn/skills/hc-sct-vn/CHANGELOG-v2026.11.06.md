@@ -10,3 +10,7 @@
 
 - `data/so-theo-doi-hoa-chat.csv` thêm cột `ma_so_dn`, `dia_chi` (Bạn chốt 06/11/2026: thông tin đăng ký doanh nghiệp là công khai, đưa vào sổ; vẫn không có điện thoại, người đại diện). Ref 20 ghi rõ.
 - `plugin.json` 1.9.0 → 1.9.1.
+
+# CHANGELOG — hc-sct-vn v1.9.2 (07/11/2026)
+
+- Ref 20: bản sổ đủ mã số DN, địa chỉ nay do web nội bộ tự xuất vào plugin riêng van-ban-sct-vn và MCP `tra_doanh_nghiep` 1.0.2 đọc thẳng (Bạn chốt 07/11/2026 "mọi thứ phải tự động"); kho công khai giữ bản rút gọn.

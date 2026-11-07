@@ -41,7 +41,15 @@ Khi nạp đợt mới mà xuất hiện **loại dữ liệu chưa có cột** 
 một dòng trong `MODULES[...]['fields']` của `hoa_chat.py`, và cột tương ứng trong `xuat_csv()`; workflow sẽ tự đưa cột mới ra
 plugin và MCP ở lượt kế tiếp. Nâng `tra_doanh_nghiep` chỉ khi muốn MCP hiểu nghĩa cột mới.
 
-## 3. Kiểm tra dây chuyền đang sống (khi nghi ngờ dữ liệu cũ)
+## 3. Kiểm tra dây chuyền đang sống — tự động mỗi tuần (Bạn chốt 07/11/2026)
+
+Lịch Claude "Kiểm tra hệ thống hằng tuần" chạy 00:59 thứ Tư trên môi trường đám mây (không cần máy Bạn): script
+`scripts/kiem_tra_he_thong.py` của kho riêng kiểm Vercel (bản production READY của sct-mcp, web nội bộ), web thật trả 200, sct-mcp
+đủ 16 công cụ, plugin van-ban-sct-vn dựng ≤ 7 ngày, nhịp tim TAY; mục đỏ thì sửa và PR, báo cáo vào `theo-doi/kiem-tra-he-thong/`.
+Lý do: 10/10–07/11/2026 web nội bộ đứng ở bản cũ 4 tuần vì lệnh bỏ qua lượt dựng của Vercel sai, không ai kiểm bản production.
+**Bài học cho mọi phiên: sửa web xong phải xem bản production trên Vercel READY và mở trang thật, không chỉ chạy thử tại chỗ.**
+
+Kiểm tra bằng tay khi nghi ngờ dữ liệu cũ:
 
 1. Kho riêng → Actions → *Dung plugin van-ban-sct-vn*: lượt mới nhất phải xanh và có commit "Plugin van-ban-sct-vn: dung lai tu
    du lieu moi HH:MM_dd/mm/yyyy" ngay sau commit dữ liệu.

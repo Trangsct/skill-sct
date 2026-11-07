@@ -1,3 +1,7 @@
+## 07/11/2026 (lần 4) — hc-sct-vn 1.9.4: bước kiểm tra web tự động hằng tuần vào quy trình (ref 21 mục 3)
+
+- Lịch Claude 00:59 thứ Tư trên đám mây chạy `kiem_tra_he_thong.py` kho riêng (Vercel, web thật, sct-mcp, plugin, TAY); bài học vụ web nội bộ đứng bản 10/10 suốt 4 tuần.
+
 ## 07/11/2026 (lần 3) — hc-sct-vn 1.9.3, tra-cuu-sct-vn 1.0.3: ghi quy trình tự động của sổ theo dõi hóa chất
 
 - **hc-sct-vn 1.9.3**: ref 21 — sơ đồ dây chuyền Bạn gửi GP/GCN → Claude nạp CSDL web → workflow kho riêng xuất sổ đủ cột vào plugin van-ban-sct-vn → MCP `tra_doanh_nghiep`; hai việc Claude làm trong phiên, việc cấm làm tay, cách kiểm tra dây chuyền, lỗi lượt 641 đã sửa (PR #163 kho riêng), ranh giới công khai – riêng tư.

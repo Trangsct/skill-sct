@@ -1,3 +1,8 @@
+## 10/11/2026 — bpb-sct-vn 1.9.0: thể loại trả lời câu hỏi tại Hội nghị đối thoại với Chủ tịch UBND tỉnh (thanh niên, Câu 8 Mường Khương), bản Giám đốc duyệt, R23–R33
+
+- Reference mới `tra-loi-doi-thoai-thanh-nien-09-11-2026.md` (khung bốn câu của Giám đốc: đã có gì / tới đây có gì / cơ quan đầu mối / Sở giúp gì; trả lời bằng chính sách đã có, không kiến nghị thay; khen ngợi + ví dụ thành công; không gán việc cho cơ quan khác; "sau đây gọi là"); 3 bài mẫu (bản Giám đốc duyệt, bản cuối, bản KHTH bị trả); script `build_tra_loi_doi_thoai.py`.
+- `van-ban-goc/` nạp NQ 21/2025/NQ-HĐND ngày 09/12/2025 (chính sách hỗ trợ sản xuất nông, lâm nghiệp, thủy sản) .docx + .pdf + .txt; sổ cái văn bản gốc dựng lại.
+
 ## 09/11/2026 — vbhc-vn 2.38.1: nạp danh sách văn bản pháp luật từ bản tin egov1
 
 - Lượt nâng cấp plugin tự động buổi tối, rà bản tin egov1 09/11/2026: không có văn bản quy phạm pháp luật công khai nào có toàn văn

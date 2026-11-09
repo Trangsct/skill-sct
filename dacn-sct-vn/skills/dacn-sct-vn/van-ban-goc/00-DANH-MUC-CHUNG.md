@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 354 văn bản gốc (354 có bản .txt) ở 21 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -177,6 +177,7 @@ Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn b�
 | 118/2025/QH15 | 10/12/2025 | Sua doi 10 luat lien quan an ninh trat tu | kho-vlncn-sct-vn | `kho-vlncn-sct-vn/skills/kho-vlncn-sct-vn/van-ban-goc/2025.12.10-118.2025.QH15-Sua-doi-10-luat-lien-quan-an-ninh-trat-tu.docx` | có |
 | 118/2025/QH15 | 10/12/2025 | Sua doi 10 luat lien quan an ninh trat tu | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2025.12.10-118.2025.QH15-Sua-doi-10-luat-lien-quan-an-ninh-trat-tu.docx` | có |
 | 135/2025/QH15 | 10/12/2025 | Luat Xay dung 135 2025 QH15 | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/Luat-Xay-dung-135-2025-QH15.docx` | có |
+| 21/2025/NQ-HĐND | 09/12/2025 | Chinh sach ho tro san xuat nong lam nghiep thuy san Lao Cai | bpb-sct-vn | `bpb-sct-vn/skills/bpb-sct-vn/van-ban-goc/2025.12.09-21.2025.NQ.HDND-Chinh-sach-ho-tro-san-xuat-nong-lam-nghiep-thuy-san-Lao-Cai.docx` | có |
 | 19/2025/NQ-HĐND | 09/12/2025 | bang gia dat Lao Cai | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/tinh/NQ-19-2025-NQ-HDND-bang-gia-dat-Lao-Cai.docx` | có |
 | 26-NQ/TU | 05/12/2025 |  | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/NQ-26-NQ-TU-05-12-2025.pdf` | có (OCR) |
 | 2193/QĐ-UBND | 03/12/2025 | Dieu chinh CTDT ha tang CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2025.12.03-2193.QD.UBND-Dieu-chinh-CTDT-ha-tang-CCN-Phu-Thinh-2.pdf` | có (OCR) |

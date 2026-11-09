@@ -1,3 +1,10 @@
+## 09/11/2026 — vbhc-vn 2.38.1: nạp danh sách văn bản pháp luật từ bản tin egov1
+
+- Lượt nâng cấp plugin tự động buổi tối, rà bản tin egov1 09/11/2026: không có văn bản quy phạm pháp luật công khai nào có toàn văn
+  mới; chỉ nạp danh sách văn bản pháp luật bot đã lọc vào `registry/trang-thai.csv` và dựng lại `vbhc-vn/.../data/vbpl.json`.
+- Văn bản đi, đến nội bộ của Sở ngày 06–09/11 (KCN Mậu A, Thủy điện Si Ma Cai, KCN Việt Hồng 1, 2…) chưa đưa vào kho này: chờ Bạn
+  chốt nơi lưu tóm tắt văn bản nội bộ (kho riêng tư hay công khai).
+
 ## 07/11/2026 (lần 5) — attp-sct-vn 1.8.0: rượu theo NQ 66.18/2026/NQ-CP
 
 - ref 07 mục 0: không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ, sản xuất rượu và các điều kiện kinh doanh rượu (01/7/2026 - 28/02/2027); khoảng trống khoản 1 Điều 30 NĐ 105/2017 khi nhập khẩu rượu; rule check_facts mới; sửa lỗi mã hóa ref 06, 09.

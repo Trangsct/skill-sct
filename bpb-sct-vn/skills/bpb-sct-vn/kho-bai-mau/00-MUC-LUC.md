@@ -48,3 +48,12 @@ là chuẩn cao nhất để đối chiếu.
 - Số liệu, tên/số/ngày văn bản trong mẫu là của kỳ trước → **phải cập nhật**, không
   bê nguyên (xem R7 — không bịa, và checklist "bản duyệt" ở SKILL.md).
 - Địa danh: chuẩn hoá theo địa giới Lào Cai mới (sau 01/7/2025, không còn cấp huyện).
+
+## Bổ sung 10/11/2026 — Trả lời câu hỏi tại Hội nghị đối thoại giữa Chủ tịch UBND tỉnh với thanh niên
+
+| File | Tên gốc | Dịp |
+|---|---|---|
+| `tra-loi-doi-thoai-thanh-nien-2026-11-10-cau-8-gd-duyet.docx` | 2026.11.10. TRANG Nội dung trả lời đối thoại với thanh niên - Câu 8 | **Bản Giám đốc duyệt "100 điểm"** (tự tách đoạn, cỡ 16) — Câu 8, Đoàn xã Mường Khương: thương hiệu, chất lượng, tiêu thụ nông sản đặc trưng. Mẫu chuẩn cho thể loại trả lời đối thoại. Xem `references/tra-loi-doi-thoai-thanh-nien-09-11-2026.md` |
+| `tra-loi-doi-thoai-thanh-nien-2026-11-09-cau-8-ban-cuoi.docx` | 2026.11.09. Nội dung trả lời đối thoại với thanh niên - Câu 8 | Bản cuối 22h21 ngày 09/11 (cỡ 14) trước khi Giám đốc tách đoạn |
+| `tra-loi-doi-thoai-thanh-nien-2026-10-21-cau-8-ban-khth-bi-tra.txt` | 2026.10.21. Nội dung trả lời đối thoại với thanh niên (bản chữ) | Bản Phòng Kế hoạch - Tổng hợp chuẩn bị, Giám đốc trả lại "không đúng với câu hỏi" — ví dụ bài viết lệch câu hỏi, giọng kiến nghị |
+

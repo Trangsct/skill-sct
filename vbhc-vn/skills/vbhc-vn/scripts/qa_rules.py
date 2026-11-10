@@ -1510,17 +1510,17 @@ def rule_R26(doc, ctx) -> list[Finding]:
 
 
 def rule_R27(doc, ctx) -> list[Finding]:
-    """R27 — Phiếu trình giải quyết công việc trình GIÁM ĐỐC SỞ phải đi đủ luồng chuẩn.
+    """R27 — Phiếu trình giải quyết công việc trình GIÁM ĐỐC SỞ: đủ 4 người ký theo luồng chuẩn.
 
-    Quy tắc: phiếu trình có "Kính gửi: ... Giám đốc Sở ..." (không phải Phó Giám đốc) là việc trình
-    thẳng người đứng đầu, nên phải đi đủ luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng →
-    Phó Giám đốc phụ trách → Giám đốc: bảng ký của Phòng có đủ ba ô TRƯỞNG PHÒNG, PHÓ TRƯỞNG PHÒNG,
-    CHUYÊN VIÊN THAM MƯU; có mục "Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ" (dòng chấm + ô ký PHÓ GIÁM ĐỐC) và mục
-    ý kiến chỉ đạo của Giám đốc (ô ký GIÁM ĐỐC). Phiếu trình Phó Giám đốc (việc thường lệ) không
-    thuộc phạm vi quy tắc này.
-    Nguồn: Bạn chốt 10/11/2026 (phiếu trình Quyết định kiểm tra VLNCN, hóa chất chỉ có Trưởng phòng
-    và Phó Trưởng phòng ký: "nếu trình Giám đốc thì bắt đầu là chuyên viên, phó phòng, TP, PGĐ Sở
-    theo 1 luồng chuẩn"); sổ lỗi L015; sct-laocai-org-vn mục "Phiếu trình trình Giám đốc".
+    Quy tắc: phiếu trình có "Kính gửi: ... Giám đốc Sở ..." (không phải Phó Giám đốc) đi luồng
+    chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách: bảng ký của Phòng có đủ
+    ba ô TRƯỞNG PHÒNG, PHÓ TRƯỞNG PHÒNG, CHUYÊN VIÊN THAM MƯU và có mục "Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ"
+    (dòng chấm + ô ký PHÓ GIÁM ĐỐC). Giám đốc ký thẳng văn bản được trình (quyết định, kế hoạch) nên
+    phiếu trình KHÔNG có mục ý kiến, ô ký của Giám đốc. Phiếu trình Phó Giám đốc (việc thường lệ)
+    không thuộc phạm vi quy tắc này.
+    Nguồn: Bạn chốt 10/11/2026 ("nếu trình Giám đốc thì bắt đầu là chuyên viên, phó phòng, TP, PGĐ Sở
+    theo 1 luồng chuẩn"; "chỉ cần 4 người trình ký thôi, giám đốc ký kế hoạch qđ và kh mà"); sổ lỗi
+    L015; sct-laocai-org-vn mục "Phiếu trình trình Giám đốc".
     Mức: FAIL.
     """
     paras = [nfc(p.text) for p in doc.paragraphs]
@@ -1530,25 +1530,24 @@ def rule_R27(doc, ctx) -> list[Finding]:
     if not re.search(r"Giám đốc Sở", kg) or re.search(r"Phó Giám đốc", kg, re.I):
         return []
     toan = "\n".join(paras + [nfc(c.text) for t in doc.tables for r in t.rows for c in r.cells]).upper()
-    thieu = []
+    loi = []
     if "CHUYÊN VIÊN" not in toan:
-        thieu.append("ô ký CHUYÊN VIÊN THAM MƯU")
+        loi.append("thiếu ô ký CHUYÊN VIÊN THAM MƯU")
     if "PHÓ TRƯỞNG PHÒNG" not in toan:
-        thieu.append("ô ký PHÓ TRƯỞNG PHÒNG")
+        loi.append("thiếu ô ký PHÓ TRƯỞNG PHÒNG")
     if not re.search(r"(?<!PHÓ )TRƯỞNG PHÒNG", toan):
-        thieu.append("ô ký TRƯỞNG PHÒNG")
+        loi.append("thiếu ô ký TRƯỞNG PHÒNG")
     if not re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*PHÓ GIÁM ĐỐC", toan):
-        thieu.append("mục Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ (dòng chấm + ô ký PHÓ GIÁM ĐỐC)")
-    if not re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*(?<!PHÓ )GIÁM ĐỐC SỞ", toan):
-        thieu.append("mục Ý KIẾN CHỈ ĐẠO CỦA GIÁM ĐỐC SỞ (ô ký GIÁM ĐỐC)")
-    if not thieu:
+        loi.append("thiếu mục Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ (dòng chấm + ô ký PHÓ GIÁM ĐỐC)")
+    if re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*(?<!PHÓ )GIÁM ĐỐC SỞ", toan):
+        loi.append("thừa mục ý kiến, ô ký của Giám đốc (Giám đốc ký thẳng văn bản được trình)")
+    if not loi:
         return []
     return [Finding(
         "R27", FAIL, "phiếu trình", cut(kg),
-        "Phiếu trình Giám đốc Sở phải đi đủ luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng → "
-        "Phó Giám đốc phụ trách → Giám đốc; còn thiếu: " + "; ".join(thieu) + ".",
+        "Phiếu trình Giám đốc Sở có đủ 4 người ký: chuyên viên → Phó Trưởng phòng → Trưởng phòng → "
+        "Phó Giám đốc phụ trách; " + "; ".join(loi) + ".",
     )]
-
 
 RULES = [
     ("R01", rule_R01),

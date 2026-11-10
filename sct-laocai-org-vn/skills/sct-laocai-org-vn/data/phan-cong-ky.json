@@ -24,13 +24,12 @@
     "nguon": "SKILL.md sct-laocai-org-vn mục 'Khối người ký' bảng (b) và lưu ý (c); Bạn chốt"
   },
   "phieu_trinh_giam_doc": {
-    "mo_ta": "Phiếu trình giải quyết công việc Kính gửi Giám đốc Sở phải đi đủ luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách lĩnh vực → Giám đốc; không để chỉ Trưởng phòng và Phó Trưởng phòng ký.",
-    "luong": ["chuyên viên tham mưu", "Phó Trưởng phòng", "Trưởng phòng", "Phó Giám đốc phụ trách lĩnh vực (nguoi_ky của lĩnh vực)", "Giám đốc"],
+    "mo_ta": "Phiếu trình giải quyết công việc Kính gửi Giám đốc Sở có đúng 4 người ký: chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách lĩnh vực; Giám đốc ký thẳng văn bản được trình (quyết định, kế hoạch), phiếu trình không có mục, ô ký của Giám đốc.",
+    "luong": ["chuyên viên tham mưu", "Phó Trưởng phòng", "Trưởng phòng", "Phó Giám đốc phụ trách lĩnh vực (nguoi_ky của lĩnh vực)"],
     "bo_cuc": [
       "I. Về nội dung trình duyệt của đơn vị",
       "II. Ý kiến của Phòng: 'Phòng … thống nhất với nội dung trình của chuyên viên; kính trình đồng chí Phó Giám đốc Sở <tên> xem xét, cho ý kiến trước khi trình đồng chí Giám đốc Sở …' + bảng ký ba ô TRƯỞNG PHÒNG | PHÓ TRƯỞNG PHÒNG | CHUYÊN VIÊN THAM MƯU",
-      "III. Ý kiến của Phó Giám đốc Sở: dòng chấm + ô ký PHÓ GIÁM ĐỐC",
-      "IV. Ý kiến chỉ đạo của Giám đốc Sở: dòng chấm + ô ký GIÁM ĐỐC"
+      "III. Ý kiến của Phó Giám đốc Sở: dòng chấm + ô ký PHÓ GIÁM ĐỐC"
     ],
     "trinh_pho_giam_doc": "Việc thường lệ trình Phó Giám đốc giữ bố cục hai phần I, II, bảng ký lãnh đạo Phòng + chuyên viên.",
     "mau_chinh_thuc": "Quyết định số 640/QĐ-SCT ngày 30/7/2025 ban hành Khung quy trình và mẫu phiếu trình giải quyết công việc nội bộ Sở (chưa có toàn văn trong kho)",

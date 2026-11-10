@@ -1,7 +1,7 @@
-## 10/11/2026 — vbhc-vn 2.39.0, sct-laocai-org-vn 2.12.0, xp-sct-vn 1.8.3: phiếu trình Giám đốc đi đủ luồng năm cấp
+## 10/11/2026 — vbhc-vn 2.39.0, sct-laocai-org-vn 2.12.0, xp-sct-vn 1.8.3: phiếu trình Giám đốc có đủ 4 người ký
 
-- Bạn chốt: phiếu trình Kính gửi Giám đốc Sở đi luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách → Giám đốc; không để chỉ Trưởng phòng, Phó Trưởng phòng ký.
-- vbhc-vn: quy tắc máy kiểm R27 (FAIL) + file lỗi hồi quy, sổ lỗi L015. sct-laocai-org-vn: mục luồng chuẩn, bố cục I–IV, khóa `phieu_trinh_giam_doc` trong `phan-cong-ky.json`. xp-sct-vn: ghi chú ở quy tắc chốt và mẫu Quyết định kiểm tra.
+- Bạn chốt: phiếu trình Kính gửi Giám đốc Sở có 4 người ký theo luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách; Giám đốc ký thẳng quyết định, kế hoạch nên phiếu trình không có ô ký Giám đốc; không để chỉ Trưởng phòng, Phó Trưởng phòng ký.
+- vbhc-vn: quy tắc máy kiểm R27 (FAIL) + file lỗi hồi quy, sổ lỗi L015. sct-laocai-org-vn: mục 4 người ký, bố cục I–III, khóa `phieu_trinh_giam_doc` trong `phan-cong-ky.json`. xp-sct-vn: ghi chú ở quy tắc chốt và mẫu Quyết định kiểm tra.
 
 ## 09/11/2026 — vbhc-vn 2.38.1: nạp danh sách văn bản pháp luật từ bản tin egov1
 

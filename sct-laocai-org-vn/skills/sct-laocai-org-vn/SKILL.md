@@ -242,6 +242,26 @@ Tóm tắt để định tuyến (viện dẫn "mục 2.x khoản 2 Điều y Q�
 > Khi **Chiến vắng** → việc nhóm Chiến trình **PGĐ Giang**; khi **Thuân vắng** → **PGĐ Chung**; khi **Chung vắng** → **PGĐ Thuân**.
 > Văn bản ban hành **trước 05/10/2026** do PGĐ Thuân ký (hóa chất, VLNCN, HHNH, PCCC…) là lịch sử đúng thời điểm — không sửa lại.
 
+#### Phiếu trình trình Giám đốc — luồng chuẩn năm cấp (Bạn chốt 10/11/2026)
+
+Việc phải trình **Giám đốc** (Giám đốc ký: tờ trình, kế hoạch, quyết định kiểm tra có Trưởng đoàn là Phó Giám đốc, quyết định
+khác thuộc thẩm quyền Giám đốc…) thì phiếu trình giải quyết công việc **"Kính gửi: Đồng chí Hoàng Chí Hiền, Giám đốc Sở Công
+Thương"** phải đi đủ luồng: **chuyên viên tham mưu → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách lĩnh vực →
+Giám đốc**. Không để phiếu trình Giám đốc chỉ có Trưởng phòng và Phó Trưởng phòng ký.
+
+- Chuyên viên = chuyên viên chủ trì lĩnh vực; Phó Giám đốc = người "Trình lên" của lĩnh vực ở bảng routing trên (VLNCN, hóa
+  chất: PGĐ Nguyễn Đình Chiến; chuyên viên VLNCN: Trần Đăng Khôi; hóa chất: Nguyễn Thị Loan).
+- Bố cục: **I.** Về nội dung trình duyệt của đơn vị · **II.** Ý kiến của Phòng — câu chốt "Phòng … thống nhất với nội dung trình
+  của chuyên viên; kính trình đồng chí Phó Giám đốc Sở <tên> xem xét, cho ý kiến trước khi trình đồng chí Giám đốc Sở …" và bảng
+  ký ba ô ngang hàng **TRƯỞNG PHÒNG | PHÓ TRƯỞNG PHÒNG | CHUYÊN VIÊN THAM MƯU** (mỗi ô "Ngày … tháng … năm …") · **III.** Ý kiến
+  của Phó Giám đốc Sở (dòng chấm để ghi ý kiến + ô ký PHÓ GIÁM ĐỐC, họ tên) · **IV.** Ý kiến chỉ đạo của Giám đốc Sở (dòng chấm
+  + ô ký GIÁM ĐỐC, Hoàng Chí Hiền).
+- Việc thường lệ trình Phó Giám đốc (Kính gửi Phó Giám đốc) giữ bố cục hai phần I, II và bảng ký lãnh đạo Phòng + chuyên viên
+  như mẫu phiếu trình cấp phép.
+- Khung quy trình và mẫu phiếu trình chính thức của Sở: Quyết định số 640/QĐ-SCT ngày 30/7/2025 của Giám đốc Sở (sổ văn bản đi;
+  chưa có toàn văn trong kho) — khi có toàn văn thì đối chiếu bố cục trên với mẫu đó.
+- Máy kiểm: vbhc-vn R27 (FAIL) bắt phiếu trình Giám đốc thiếu cấp.
+
 #### Dòng Lưu, CHUYÊN VIÊN THAM MƯU và NGƯỜI KÝ (khối chữ ký)
 
 **a) Dòng Lưu cuối Nơi nhận:** `Lưu: VT, CN.` — **VT** = Văn thư, **CN** = Phòng Quản lý công nghiệp. **KHÔNG ghi tên chuyên viên soạn thảo** ở cuối văn bản (Bạn chốt 01/10/2026, thay quy ước cũ "CN(tên)"); công văn nội bộ Phòng ghi `Lưu: CN.`. Văn bản ban hành trước 01/10/2026 có "CN(Trung)", "CN (Khôi)"… là lịch sử, không sửa lại; khi dựng từ mẫu thật cũ, `build_vb.py`/`TemplateDoc.save()` của `vbhc-vn` tự bỏ tên.

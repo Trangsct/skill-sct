@@ -1509,6 +1509,47 @@ def rule_R26(doc, ctx) -> list[Finding]:
     return out
 
 
+def rule_R27(doc, ctx) -> list[Finding]:
+    """R27 — Phiếu trình giải quyết công việc trình GIÁM ĐỐC SỞ phải đi đủ luồng chuẩn.
+
+    Quy tắc: phiếu trình có "Kính gửi: ... Giám đốc Sở ..." (không phải Phó Giám đốc) là việc trình
+    thẳng người đứng đầu, nên phải đi đủ luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng →
+    Phó Giám đốc phụ trách → Giám đốc: bảng ký của Phòng có đủ ba ô TRƯỞNG PHÒNG, PHÓ TRƯỞNG PHÒNG,
+    CHUYÊN VIÊN THAM MƯU; có mục "Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ" (dòng chấm + ô ký PHÓ GIÁM ĐỐC) và mục
+    ý kiến chỉ đạo của Giám đốc (ô ký GIÁM ĐỐC). Phiếu trình Phó Giám đốc (việc thường lệ) không
+    thuộc phạm vi quy tắc này.
+    Nguồn: Bạn chốt 10/11/2026 (phiếu trình Quyết định kiểm tra VLNCN, hóa chất chỉ có Trưởng phòng
+    và Phó Trưởng phòng ký: "nếu trình Giám đốc thì bắt đầu là chuyên viên, phó phòng, TP, PGĐ Sở
+    theo 1 luồng chuẩn"); sổ lỗi L015; sct-laocai-org-vn mục "Phiếu trình trình Giám đốc".
+    Mức: FAIL.
+    """
+    paras = [nfc(p.text) for p in doc.paragraphs]
+    if not any("PHIẾU TRÌNH" in t.upper() for t in paras[:6]):
+        return []
+    kg = next((t for t in paras[:12] if t.strip().startswith("Kính gửi")), "")
+    if not re.search(r"Giám đốc Sở", kg) or re.search(r"Phó Giám đốc", kg, re.I):
+        return []
+    toan = "\n".join(paras + [nfc(c.text) for t in doc.tables for r in t.rows for c in r.cells]).upper()
+    thieu = []
+    if "CHUYÊN VIÊN" not in toan:
+        thieu.append("ô ký CHUYÊN VIÊN THAM MƯU")
+    if "PHÓ TRƯỞNG PHÒNG" not in toan:
+        thieu.append("ô ký PHÓ TRƯỞNG PHÒNG")
+    if not re.search(r"(?<!PHÓ )TRƯỞNG PHÒNG", toan):
+        thieu.append("ô ký TRƯỞNG PHÒNG")
+    if not re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*PHÓ GIÁM ĐỐC", toan):
+        thieu.append("mục Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ (dòng chấm + ô ký PHÓ GIÁM ĐỐC)")
+    if not re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*(?<!PHÓ )GIÁM ĐỐC SỞ", toan):
+        thieu.append("mục Ý KIẾN CHỈ ĐẠO CỦA GIÁM ĐỐC SỞ (ô ký GIÁM ĐỐC)")
+    if not thieu:
+        return []
+    return [Finding(
+        "R27", FAIL, "phiếu trình", cut(kg),
+        "Phiếu trình Giám đốc Sở phải đi đủ luồng chuyên viên → Phó Trưởng phòng → Trưởng phòng → "
+        "Phó Giám đốc phụ trách → Giám đốc; còn thiếu: " + "; ".join(thieu) + ".",
+    )]
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1536,6 +1577,7 @@ RULES = [
     ("R24", rule_R24),
     ("R25", rule_R25),
     ("R26", rule_R26),
+    ("R27", rule_R27),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

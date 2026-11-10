@@ -72,7 +72,7 @@ máy chủ là "không có" khi chưa tra bằng cả hai cách.
 Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy SONG SONG, không nối tiếp:
 
 1. **Claude** chạy MỘT lệnh: `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua [--final]` — gộp `qa_all.py`
-   (R01–R26), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
+   (R01–R27), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
    trước khối ký, một dòng sau Kính gửi, bảng nội dung nền trắng căn giữa dọc, bảng Nơi nhận - ký căn trên để dòng "Nơi nhận:" ngang dòng chức vụ, dòng Lưu bỏ tên chuyên viên) rồi kiểm lại.
 2. **Tác tử phụ chưa tham gia soạn** (công cụ Agent, chạy nền) nhận đúng lời giao sau, không kèm bối cảnh phiên:
 
@@ -162,7 +162,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
-| Chỉ bộ quy tắc R01–R26, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chỉ bộ quy tắc R01–R27, không render | `python3 scripts/qa_rules.py <file>.docx` |
 | Chuẩn hóa trước khi xuất: phông, Nơi nhận cỡ 11, 1 dòng trước khối ký (Quy tắc 11) | `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx [--tthc]` |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
 | Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
@@ -175,7 +175,7 @@ bản; ghi một mục vào `reference/so-loi-tu-ghi.md` (lỗi thể thức chu
 máy thì thêm quy tắc R theo `HUONG_DAN_CAP_NHAT.md`; tăng bản plugin; báo một dòng "Đã ghi lỗi này vào [plugin] bản [số]".
 Yêu cầu "chỉ lần này" không thành quy tắc — ghi vào tệp trạng thái hồ sơ.
 
-`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R26 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R27 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
@@ -249,7 +249,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R26) · `cite_check.py` (đối chiếu số hiệu)
+Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R27) · `cite_check.py` (đối chiếu số hiệu)
 · `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
 · `extract_metadata.py` (đọc PDF) · `normalize_body.py` (định dạng ẩn, Nhóm N) · `fit_pages.py` (căn trang hợp đồng, Quy tắc 28) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 

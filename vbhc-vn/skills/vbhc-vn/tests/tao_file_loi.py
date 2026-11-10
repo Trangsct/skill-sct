@@ -363,4 +363,16 @@ d.save(str(p))
 ghi_expect(p, ['R25 FAIL'],
            'Ghép doanh nghiệp vào cùng dòng "Sở Xây dựng" ở Nơi nhận — doanh nghiệp phải đứng riêng dòng, sau cơ quan nhà nước (Bạn chốt 04/10/2026).')
 
+# ── R27 (Bạn chốt 10/11/2026): phiếu trình Giám đốc Sở phải đi đủ luồng CV → PTP → TP → PGĐ → GĐ ──
+# Mẫu thật là phiếu trình Văn phòng UBND tỉnh gửi Phó Chủ tịch (ngoài phạm vi R27); chỉ đổi dòng
+# Kính gửi thành Giám đốc Sở, giữ bảng ký hai ô "LÃNH ĐẠO VĂN PHÒNG | CHUYÊN VIÊN THAM MƯU".
+p = sao('ubnd/phieu-trinh-giai-quyet-cong-viec.docx', 'r27-phieu-trinh-giam-doc-thieu-luong.docx')
+d = Document(str(p))
+kg = dau_tien(d, lambda t: t.strip().startswith('Kính gửi'))
+if kg is None: sys.exit('R27: không tìm được dòng Kính gửi')
+dat_text(kg, 'Kính gửi: Đồng chí Giám đốc Sở Công Thương.')
+d.save(str(p))
+ghi_expect(p, ['R27 FAIL'],
+           'Đổi Kính gửi thành Giám đốc Sở; bảng ký chỉ có lãnh đạo đơn vị và chuyên viên, không có Phó Trưởng phòng, Phó Giám đốc, Giám đốc.')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

@@ -3,7 +3,7 @@
 
 ```
 Số:      /SCT-CN
-V/v giải quyết đề nghị huấn luyện, kiểm tra cấp Giấy chứng nhận huấn luyện KTAT VLNCN
+V/v giải quyết đề nghị cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp
 
      Kính gửi: [Tên đơn vị]
 
@@ -48,9 +48,34 @@ Công Thương xem xét, đưa vào kế hoạch kiểm tra kỳ gần nhất."
 3. **Lỗi nhỏ của hồ sơ (thiếu ảnh 3x4, lỗi chính tả…) bỏ qua**, không đưa vào công văn trả lời.
 4. **Nơi nhận**: "- Như trên; - Lưu: VT, BP1C, CN." — KHÔNG gửi Trung tâm Phục vụ hành chính công (dòng này chỉ có ở QĐ
    công nhận), không gửi Ban Giám đốc Sở.
-5. **Trình bày**: các đoạn thân cách trên 6 pt; cột trái khối đầu trang rộng khoảng 6,25 cm để trích yếu
-   "V/v giải quyết đề nghị huấn luyện, kiểm tra, cấp Giấy chứng nhận huấn luyện KTAT VLNCN" ngắt 3 dòng cân đối
-   (nối "huấn luyện", "chứng nhận" bằng khoảng trắng không ngắt).
+5. **Trình bày**: các đoạn thân cách trên 6 pt. Trích yếu (Bạn chốt 10/11/2026, thay cách ngắt bằng khoảng trắng không
+   ngắt trước đây): "V/v giải quyết đề nghị cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp" viết
+   MỘT đoạn liền, tự xuống dòng, tối đa 3-4 dòng, viết đủ tên, không viết tắt; cân tâm với khối "UBND TỈNH LÀO CAI / SỞ CÔNG
+   THƯƠNG", rộng hơn khối này mỗi bên 0,5-1 cm, mép phải không chạm đường thẳng đứng của chữ "CỘNG". Kiểm bằng R27 và
+   `do_trich_yeu.py` của plugin vbhc-vn (sổ lỗi L015 ghi thông số ô và lề đoạn đã dùng).
+
+## Từ ngữ chuẩn theo Nghị định số 181/2024/NĐ-CP (rà 10/11/2026 trên công văn hoàn thiện hồ sơ nhiều đối tượng)
+
+Áp dụng cho mẫu này và biến thể "hồ sơ thiếu thành phần":
+
+- "bằng cấp chuyên môn" (điểm a khoản 1, điểm a khoản 2 Điều 9), không viết "văn bằng"; khoản 1 Điều 4 là "ngành kỹ thuật",
+  khoản 3 Điều 8 là "chuyên ngành quy định tại khoản 1 Điều 4".
+- Đối tượng gọi theo Điều 5: "người được giao quản lý kho vật liệu nổ công nghiệp" (không viết "thủ kho"), "người phục vụ",
+  "chỉ huy nổ mìn", "thợ nổ mìn"; trong câu viết thường "giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp".
+- "thời gian huấn luyện" (không viết "thời lượng"); "ít nhất là 16 giờ"; "bằng một nửa (1/2) thời gian huấn luyện lần đầu"
+  (điểm a, b, c khoản 4 Điều 8).
+- Phân định hai thủ tục dẫn đến điểm: người quản lý — điểm a khoản 1 Điều 8, khoản 1 Điều 9; các đối tượng còn lại — điểm
+  a, điểm c khoản 2 Điều 8, khoản 2 Điều 9.
+- Người huấn luyện của doanh nghiệp: bằng cấp đạt nhưng hồ sơ không thể hiện công việc về kỹ thuật, an toàn vật liệu nổ
+  công nghiệp thì viết "chưa đủ cơ sở xác định … đáp ứng quy định về kinh nghiệm tại khoản 3 Điều 8", đề nghị "bổ sung tài
+  liệu chứng minh kinh nghiệm … theo từng giai đoạn trong 05 năm liên tục liền kề"; không chứng minh được thì lựa chọn người
+  huấn luyện khác và tổ chức huấn luyện lại trước khi đề nghị kiểm tra, cấp giấy chứng nhận.
+- Tên hệ thống: "Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Công Thương" (khoản 4 Điều 9); viết tắt tên đơn
+  vị bằng "(sau đây gọi là Công ty)".
+- Câu kết: "Sở Công Thương đề nghị Công ty rà soát, hoàn thiện hồ sơ theo các nội dung nêu trên và nộp lại để được xem xét,
+  giải quyết theo quy định./."
+- Mẫu số 02 của Nghị định không có cột "Ghi chú" (cột cuối là "Đăng ký"): chỉ yêu cầu ghi vào cột Ghi chú khi danh sách của
+  đơn vị có cột này.
 
 ## Biến thể — văn bằng do nước ngoài cấp (tiền lệ CV trả lời Cty R.K Việt Nam, 27/10/2026)
 

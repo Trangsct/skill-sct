@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Tách trích yếu V/v thành hai đoạn riêng — trích yếu phải là một đoạn liền, tự xuống dòng (Bạn chốt 10/11/2026).
+nguon: examples/sct/cong-van-de-nghi-bo-sung-ho-so.docx
+R27 FAIL

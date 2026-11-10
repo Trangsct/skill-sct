@@ -363,4 +363,25 @@ d.save(str(p))
 ghi_expect(p, ['R25 FAIL'],
            'Ghép doanh nghiệp vào cùng dòng "Sở Xây dựng" ở Nơi nhận — doanh nghiệp phải đứng riêng dòng, sau cơ quan nhà nước (Bạn chốt 04/10/2026).')
 
+# R27: tách trích yếu V/v của bảng đầu trang thành hai đoạn (ngắt dòng cưỡng bức).
+import copy as _copy
+p = sao('sct/cong-van-de-nghi-bo-sung-ho-so.docx', 'r27-trich-yeu-tach-nhieu-doan.docx')
+d = Document(str(p))
+xong = False
+for row in d.tables[0].rows:
+    for c in row.cells:
+        for pp in c.paragraphs:
+            if not xong and pp.text.strip().startswith('V/v'):
+                tu = pp.text.strip().split()
+                giua = len(tu) // 2
+                moi = _copy.deepcopy(pp._p); pp._p.addnext(moi)
+                dat_text(pp, ' '.join(tu[:giua]))
+                from docx.text.paragraph import Paragraph as _P
+                dat_text(_P(moi, pp._parent), ' '.join(tu[giua:]))
+                xong = True
+if not xong: sys.exit('R27: không tìm được dòng V/v')
+d.save(str(p))
+ghi_expect(p, ['R27 FAIL'],
+           'Tách trích yếu V/v thành hai đoạn riêng — trích yếu phải là một đoạn liền, tự xuống dòng (Bạn chốt 10/11/2026).')
+
 print('Đã sinh', len(list(OUT.glob('*.docx'))), 'file lỗi')

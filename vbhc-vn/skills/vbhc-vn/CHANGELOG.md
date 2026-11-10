@@ -1,5 +1,9 @@
 # CHANGELOG vbhc-vn
 
+## v2.39.1 — 10/11/2026 — do_trich_yeu.py xử lý mẫu nội bộ phòng; đo 9 template; quét R27 toàn kho
+
+- Chi tiết: `CHANGELOG-v2026.11.10.md`.
+
 ## v2.39.0 — 10/11/2026 — R27 trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng; do_trich_yeu.py; sổ lỗi L015
 
 - Chi tiết: `CHANGELOG-v2026.11.10.md`.

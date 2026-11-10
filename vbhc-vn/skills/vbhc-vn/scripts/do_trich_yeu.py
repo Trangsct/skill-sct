@@ -81,7 +81,15 @@ def do(p: Path) -> int:
                 buoc = y - truoc
             if y - truoc > 1.6 * buoc:
                 break
-        ty.append((min(w[0] for w in ws), max(w[2] for w in ws), len(ws)))
+        # dòng trích yếu có thể cùng hàng với "…, ngày … tháng … năm" ở cột phải: chỉ lấy cụm chữ liền nhau từ trái,
+        # dừng ở khoảng hở lớn hơn 25 pt
+        ws = sorted(ws)
+        cum = [ws[0]]
+        for w in ws[1:]:
+            if w[0] - cum[-1][2] > 25:
+                break
+            cum.append(w)
+        ty.append((cum[0][0], cum[-1][2], len(cum)))
         truoc = y
     if not co_quan or not ty:
         print("Không tách được khối tên cơ quan hoặc khối trích yếu.")
@@ -104,7 +112,11 @@ def do(p: Path) -> int:
 
     print(f"ĐO TRÍCH YẾU — {p.name}")
     muc(len(ty) <= 4, "Số dòng (tối đa 3-4)", len(ty))
-    muc(abs(lech) <= 3, "Lệch tâm so với khối tên cơ quan (≤ 3 pt)", f"{lech:+.1f} pt")
+    if len(ty) == 1:
+        # trích yếu một dòng ở mẫu căn đều hai bên (công văn nội bộ phòng) nằm sát trái — không tính lỗi
+        print(f"  [thông tin] Trích yếu một dòng, lệch tâm {lech:+.1f} pt (không xét)")
+    else:
+        muc(abs(lech) <= 3, "Lệch tâm so với khối tên cơ quan (≤ 3 pt)", f"{lech:+.1f} pt")
     muc(cach_cong >= 0.2, "Mép phải cách đường thẳng đứng chữ 'CỘNG' (≥ 0,2 cm)", f"{cach_cong:.2f} cm")
     muc(not (len(ty) > 1 and ty[-1][2] == 1), "Dòng cuối không rớt riêng một chữ", f"{ty[-1][2]} chữ")
     print(f"  [thông tin] Rộng hơn khối tên cơ quan: trái {hon_trai:.2f} cm, phải {hon_phai:.2f} cm "

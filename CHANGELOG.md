@@ -1,3 +1,9 @@
+## 10/11/2026 (lần 2) — vbhc-vn 2.39.1, tkm-sct-vn 1.5.3, sd-vlncn-sct-vn 2026.11.10.1: rà trích yếu trên template và ví dụ thực tế
+
+- **vbhc-vn 2.39.1**: `do_trich_yeu.py` xử lý mẫu công văn nội bộ phòng; đo 9 template (01, 08 đạt với trích yếu thật, giữ nguyên); quét R27 trên 323 tệp .docx.
+- **tkm-sct-vn 1.5.3**: 5 ví dụ thực tế bỏ khoảng trắng không ngắt ở ô V/v; ref 07 thêm bảng trích yếu rút gọn khi soạn mới.
+- **sd-vlncn-sct-vn 2026.11.10.1**: ví dụ dự thảo công văn UBND tỉnh gộp trích yếu thành một đoạn liền.
+
 ## 10/11/2026 — vbhc-vn 2.39.0, hl-vlncn-sct-vn 1.6.1: trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng
 
 - **vbhc-vn 2.39.0**: quy tắc máy kiểm R27 (ô V/v tách nhiều đoạn hoặc có khoảng trắng không ngắt → FAIL; dài quá 140 ký tự → WARN), `scripts/do_trich_yeu.py` đo số dòng, cân tâm với khối tên cơ quan, khoảng cách tới chữ "CỘNG"; sổ lỗi L015 (Bạn chốt 10/11/2026).

@@ -3,7 +3,8 @@
 
 ```
 Số:      /SCT-CN
-V/v giải quyết đề nghị kiểm tra cấp Giấy chứng nhận huấn luyện KTAT VLNCN
+V/v giải quyết đề nghị cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp
+(trích yếu một đoạn liền, tự xuống dòng, tối đa 3-4 dòng — xem mẫu 09 mục 5)
 
      Kính gửi: [Tên đơn vị]
 

@@ -1509,6 +1509,54 @@ def rule_R26(doc, ctx) -> list[Finding]:
     return out
 
 
+def rule_R27(doc, ctx) -> list[Finding]:
+    """R27 — Trích yếu công văn (dòng "V/v" ở bảng đầu trang): MỘT đoạn liền, tự xuống dòng, tối đa 3-4 dòng.
+
+    Quy tắc: không tách trích yếu thành nhiều đoạn (mỗi dòng một paragraph), không dùng khoảng trắng không
+    ngắt (U+00A0) để ép chỗ xuống dòng; viết liền một đoạn rồi để Word tự xuống dòng. Trích yếu dài quá
+    khoảng 140 ký tự thì không thể gọn trong 4 dòng → rút gọn câu chữ. Số dòng thực tế, độ cân với khối tên
+    cơ quan và khoảng cách tới chữ "CỘNG" đo bằng scripts/do_trich_yeu.py (cần bản dựng PDF).
+    Thẻ <w:br/> trong ô V/v đã có HDR-BR của qa_all.py bắt.
+    Nguồn: Bạn chốt 10/11/2026 ("tít này gọn gàng hơn, thường tối đa 3-4 dòng", "không xuống dòng cưỡng bức
+    mà để xuống dòng tự nhiên"); Nhóm G (reference/phong-tranh-sai-lam.md); sổ lỗi L015.
+    Mức: FAIL khi tách nhiều đoạn hoặc có U+00A0; WARN khi dài quá 140 ký tự.
+    """
+    if not doc.tables:
+        return []
+    da_xet = set()
+    for row in doc.tables[0].rows:
+        for c in row.cells:
+            if id(c._tc) in da_xet:
+                continue
+            da_xet.add(id(c._tc))
+            ps = c.paragraphs
+            vt = [i for i, q in enumerate(ps) if q.text.strip().startswith("V/v")]
+            if not vt:
+                continue
+            doan = [q for q in ps[vt[0]:] if q.text.strip()]
+            chu = " ".join(q.text.strip() for q in doan)
+            out: list[Finding] = []
+            if len(doan) > 1:
+                out.append(Finding(
+                    "R27", FAIL, "bảng đầu trang, ô V/v", cut(chu),
+                    f"Trích yếu bị tách thành {len(doan)} đoạn (ngắt dòng cưỡng bức) → gộp thành MỘT đoạn liền, "
+                    "để tự xuống dòng (tối đa 3-4 dòng); chỉnh bề rộng ô, không chỉnh bằng xuống dòng tay.",
+                ))
+            if "\u00a0" in chu:
+                out.append(Finding(
+                    "R27", FAIL, "bảng đầu trang, ô V/v", cut(chu.replace("\u00a0", "·")),
+                    "Trích yếu dùng khoảng trắng không ngắt (U+00A0) để ép chỗ xuống dòng → thay bằng khoảng trắng "
+                    "thường, để tự xuống dòng.",
+                ))
+            if len(chu) > 140:
+                out.append(Finding(
+                    "R27", WARN, "bảng đầu trang, ô V/v", cut(chu),
+                    f"Trích yếu dài {len(chu)} ký tự, khó gọn trong 3-4 dòng → rút gọn câu chữ.",
+                ))
+            return out
+    return []
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1536,6 +1584,7 @@ RULES = [
     ("R24", rule_R24),
     ("R25", rule_R25),
     ("R26", rule_R26),
+    ("R27", rule_R27),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

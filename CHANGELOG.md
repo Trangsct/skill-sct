@@ -1,3 +1,8 @@
+## 10/11/2026 — vbhc-vn 2.39.0, hl-vlncn-sct-vn 1.6.1: trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng
+
+- **vbhc-vn 2.39.0**: quy tắc máy kiểm R27 (ô V/v tách nhiều đoạn hoặc có khoảng trắng không ngắt → FAIL; dài quá 140 ký tự → WARN), `scripts/do_trich_yeu.py` đo số dòng, cân tâm với khối tên cơ quan, khoảng cách tới chữ "CỘNG"; sổ lỗi L015 (Bạn chốt 10/11/2026).
+- **hl-vlncn-sct-vn 1.6.1**: mẫu 09, 10 đổi trích yếu, bỏ cách ngắt bằng khoảng trắng không ngắt; mẫu 09 thêm mục từ ngữ chuẩn theo Nghị định số 181/2024/NĐ-CP.
+
 ## 09/11/2026 — vbhc-vn 2.38.1: nạp danh sách văn bản pháp luật từ bản tin egov1
 
 - Lượt nâng cấp plugin tự động buổi tối, rà bản tin egov1 09/11/2026: không có văn bản quy phạm pháp luật công khai nào có toàn văn

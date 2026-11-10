@@ -1,5 +1,9 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## 1.6.1 — 10/11/2026 — Mẫu 09, 10: trích yếu một đoạn liền tự xuống dòng; từ ngữ chuẩn theo Nghị định số 181/2024/NĐ-CP
+
+- Chi tiết: `CHANGELOG-v2026.11.10.md`.
+
 ## 1.6.0 — 27/10/2026 — QĐ công nhận chung cả lớp (bản chốt 26/10/2026); CV trả lời văn bằng nước ngoài (TT 65/2026/TT-BGDĐT); sổ lỗi L001–L004
 
 - Chi tiết: `CHANGELOG-v2026.10.27.md`.

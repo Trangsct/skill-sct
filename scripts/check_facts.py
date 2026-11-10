@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "vb-9514-ubnd-kt-ngay-18-9",
+        # Vụ 10/11/2026 (kccn-sct-vn ref 45, 54): ngày VB 9514/UBND-KT chép theo văn bản của UBND phường Yên Bái ("14/9/2026")
+        # thay vì sổ văn bản đến. Đúng: 18/9/2026 (khớp dãy số UBND tỉnh 9507–9554 cùng ngày 18/9/2026).
+        "pattern": r"9514/UBND-KT[^.;]{0,20}14/9",
+        "why": "VB 9514/UBND-KT (Đề án di dời CCN Đầm Hồng) ban hành ngày 18/9/2026; văn bản của phường ghi nhầm 14/9 (kccn-sct-vn ref 45).",
+        "since": "2026-11-10",
+        "level": "FAIL",
+    },
+    {
         "id": "giay-phep-ruou-khong-thuc-hien-nq-66-18",
         # Vụ 07/11/2026 (attp-sct-vn ref 07 mục 0): Hải quan đòi Giấy phép phân phối rượu khi nhập rượu 53 độ; NQ 66.18/2026/NQ-CP
         # (01/7/2026 - 28/02/2027) không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ rượu (khoản B Tiểu mục 3.1

@@ -33,7 +33,7 @@
 - Giai đoạn 2026–2030; **không di dời cơ học, không hợp thức hóa vi phạm**; chỉ bố trí địa điểm mới cho cơ sở đủ điều kiện.
 - Nơi tiếp nhận dự kiến: **CCN Âu Lâu và khu vực mở rộng ~25 ha (phường Âu Lâu)**, chỉ tiếp nhận khi khu vực đó hoàn thành thủ tục pháp lý.
 - Khái toán **42.911.261.351 đồng**: đợt 1 — 14 đơn vị, dự kiến **2028**, 17.447.280.120 đồng; đợt 2 — 09 đơn vị, dự kiến **2029**, 25.463.981.231 đồng. Nguồn: ngân sách tỉnh (đầu tư công trung hạn 2026–2030), vốn CĐT hạ tầng CCN, vốn DN, nguồn hợp pháp khác.
-- Theo **VB 9514/UBND-KT ngày 14/9/2026**: phường đã xin ý kiến Thanh tra tỉnh, Công an tỉnh, UBND phường Âu Lâu (hạn 02/10/2026), rồi **gửi Sở Công Thương thẩm định, trình UBND tỉnh trong tháng 10/2026**.
+- Theo **VB 9514/UBND-KT ngày 18/9/2026** (đã sửa 10/11/2026 — văn bản của phường ghi nhầm ngày 14/9; ngày đúng theo sổ văn bản đến và dãy số của UBND tỉnh): phường đã xin ý kiến Thanh tra tỉnh, Công an tỉnh, UBND phường Âu Lâu (hạn 02/10/2026), rồi **gửi Sở Công Thương thẩm định, trình UBND tỉnh trong tháng 10/2026**.
 
 **Khó khăn nêu trong báo cáo:** (1) chưa có QĐ thành lập, hướng xử lý theo NĐ 32/2024 (sửa bởi NĐ 303/2026) chưa xác định; hồ sơ của thành phố Yên Bái cũ chưa bàn giao đủ; (2) hạ tầng, môi trường, PCCC giai đoạn chuyển tiếp; (3) tồn đọng tại cơ sở ảnh hưởng xác định đối tượng, mức bồi thường, hỗ trợ; (4) **CCN Âu Lâu ~50 ha (đất CN ~31,2 ha) đã lấp đầy trên 95%**, chưa có XLNT; khu mở rộng 25 ha chưa có CTĐT hạ tầng, phải đủ tiếp nhận ~10,44 ha, cần rà đất có rừng → chưa xác định được lộ trình từng cơ sở; (5) ranh giới hai phường trong cụm chưa cắm mốc, chưa có hồ sơ địa chính; (6) kinh phí di dời ~42,9 tỷ, **chưa gồm hạ tầng nơi tiếp nhận (mở rộng Âu Lâu dự kiến ~340 tỷ đồng vốn đầu tư công)**.
 
@@ -43,6 +43,23 @@
 3. Sở NN&MT: hồ sơ đất đai 05 đơn vị chưa có GCN, trường hợp hết hạn thuê đất; kiểm soát môi trường.
 
 **Việc Sở cần chuẩn bị (gợi ý, chưa phải chỉ đạo):** khi nhận Đề án hoàn thiện (dự kiến 10/2026) — lập báo cáo thẩm định; rà hồ sơ chủ trương đầu tư 23 dự án lưu tại Sở để đối chiếu Phụ lục của phường; trả lời câu hỏi pháp lý: cụm hình thành trước NĐ 32/2024, không có QĐ thành lập, đã ra khỏi quy hoạch → xem ref 11 (xử lý đặc thù), ref 24 (NĐ 303/2026), ref 05 trước khi viết hướng dẫn; kinh phí mở rộng Âu Lâu và di dời phải khớp số đầu tư công trung hạn (ref 22, ref 44 mục vốn). Không nêu Đầm Hồng làm "điểm sáng lấp đầy" (ref 41 mục 6).
+
+**Cách thẩm định Đề án di dời (bài học 10/11/2026, dùng lại cho đề án di dời cụm khác):**
+- Pháp luật chưa quy định Tổ thẩm định, Tổ giúp việc cho loại Đề án này (ý kiến Sở Tài chính 11/2026) → Sở chủ trì thẩm định bằng
+  **lấy ý kiến bằng văn bản**, không cần lập Tổ; cán bộ các ngành đã cử thì làm đầu mối.
+- Công văn xin ý kiến phải **ghi rõ nội dung từng cơ quan** — các ngành thường đã góp ý cho cơ quan lập Đề án nhiều lần, xin chung
+  chung sẽ nhận lại "nhất trí". Khuôn: (1) tất cả — ý kiến lần trước đã được tiếp thu, giải trình đủ chưa (đối chiếu Biểu tiếp thu),
+  nhiệm vụ giao cho mình có đúng chức năng không; (2) Sở Tài chính — kinh phí, nguồn vốn, cân đối đầu tư công, không trùng vốn với dự
+  án hạ tầng nơi tiếp nhận; Sở NN&MT — thu hồi đất, bồi thường, cơ sở chưa có GCN/hết hạn thuê đất/ngừng hoạt động, ranh giới, môi
+  trường giai đoạn chuyển tiếp và khu đất sau di dời; Sở Xây dựng — quy hoạch đô thị khu đất sau di dời, trật tự xây dựng; Sở Tư pháp
+  — thẩm quyền, hình thức quyết định, cơ sở pháp lý biện pháp quản lý hiện trạng và chính sách hỗ trợ riêng; Sở KH&CN — không chuyển
+  công nghệ lạc hậu đến nơi tiếp nhận; Công an tỉnh — an ninh trật tự, PCCC; Thanh tra tỉnh — khiếu nại, kết luận thanh tra; UBND
+  phường nơi có cụm, nơi tiếp nhận — hiện trạng cơ sở, khả năng tiếp nhận; (3) **cơ quan lập Đề án không xin "ý kiến"** mà đề nghị
+  cung cấp văn bản góp ý các lần, thống nhất số liệu, cử người giải trình.
+- Căn cứ thẩm quyền khi viết báo cáo thẩm định: cụm hình thành trước QĐ 105/2009/QĐ-TTg, không có chủ đầu tư hạ tầng → **khoản 4
+  Điều 32 NĐ 32/2024** (UBND tỉnh có biện pháp xử lý, quản lý), cùng khoản 1 Điều 32 (sửa bởi NĐ 303/2026) và khoản 8 Điều 16 QĐ
+  16/2026/QĐ-UBND. Đề án không thay các quyết định cụ thể (danh sách cơ sở đủ điều kiện, thu hồi đất, bồi thường, bố trí địa điểm).
+- Diễn biến hồ sơ, văn bản đi, đến: kho riêng tư `vlncn-laocai` (`du-thao/2026.11.10-dam-hong/`, plugin `van-ban-sct-vn`).
 
 ## C. Ban Chỉ đạo phát triển KCN Võ Lao và KCN Bản Qua (QĐ 2029/QĐ-UBND ngày 10/6/2026)
 

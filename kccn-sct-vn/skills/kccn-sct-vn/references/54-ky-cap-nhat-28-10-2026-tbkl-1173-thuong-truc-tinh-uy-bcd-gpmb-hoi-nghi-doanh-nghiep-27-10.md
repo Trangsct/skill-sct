@@ -122,7 +122,7 @@ Văn bản đến của cơ quan — chỉ tóm tắt, không lưu bản gốc v
    cần thiết, đề nghị khu tái định cư **nằm ngoài ranh 04 CCN, không chồng lấn dự án đã chấp thuận, bảo đảm khoảng cách an toàn
    môi trường** với CCN; viện dẫn VB 8885/UBND-TH 29/8/2026, NQ 34-NQ/TU. Dùng làm khuôn ý kiến cho các dự án tái định cư phục vụ
    GPMB CCN khác (ref 54 mục B).
-2. **Di dời CCN Đầm Hồng** (ref 45, ref 12): theo VB **9514/UBND-KT 14/9/2026**, UBND phường Yên Bái chủ trì, phối hợp Thanh tra
+2. **Di dời CCN Đầm Hồng** (ref 45, ref 12): theo VB **9514/UBND-KT 18/9/2026** (đã sửa 10/11/2026; cách thẩm định: ref 45 cuối mục B), UBND phường Yên Bái chủ trì, phối hợp Thanh tra
    tỉnh, Công an tỉnh hoàn thiện Đề án sắp xếp, di dời các cơ sở sản xuất, kinh doanh, **gửi Sở Công Thương thẩm định, trình UBND
    tỉnh trong tháng 10/2026**. VB **2329/UBND-KTHT** (tháng 10/2026) của phường xin ý kiến Thanh tra tỉnh (tiếp công dân, khiếu nại,
    phòng ngừa tiêu cực, kết luận thanh tra liên quan) — Sở sắp nhận hồ sơ thẩm định Đề án; hạn tháng 10 đã qua.

@@ -16,3 +16,9 @@ Yêu cầu riêng cho MỘT văn bản không ghi ở đây mà ghi vào `trang-
 - Cách đúng: tên loại xe trên bản dịch đăng ký xe Trung Quốc không đủ để bắt lỗi dạng chứa hàng. Xem ảnh phương tiện, nhãn hiệu, kích thước, chiều cao sàn; chỉ nêu khi phương tiện thực tế không chở được dạng hàng đề nghị. Bản 05/11 bỏ ý này, giữ yêu cầu quy cách bao bì, nhãn.
 - Ví dụ: sơ mi rơ moóc nhãn hiệu La Hưởng LXC9400TWYE, 12.450 x 2.550 x 1.600 mm, một xe bản dịch ghi "container", xe khác ghi "thùng".
 - Máy kiểm: không (nội dung nghiệp vụ, loại N)
+
+### L003 — 10/11/2026 — Thêm bảng danh sách người lái xe, người áp tải vào Danh mục kèm Giấy phép
+- Lỗi: dự thảo Giấy phép vận chuyển xăng, dầu diesel loại 3 (01 tổ hợp đầu kéo - sơ mi rơ moóc xi téc, xe biển Việt Nam) thêm bảng thứ ba "Danh sách người lái xe và người áp tải" vào phần Danh mục kèm theo, theo ghi chú ngày 06/11/2026. Bạn chỉ ra không đúng quy định, yêu cầu bỏ.
+- Cách đúng: mẫu Giấy phép tại Phụ lục VII, Phụ lục VIII Nghị định số 161/2024/NĐ-CP chỉ ghi tổ chức, giấy chứng nhận đăng ký, địa chỉ, người đại diện, loại hàng được phép vận chuyển và thời hạn; không có nội dung người lái xe, người áp tải. Danh sách người lái xe và người áp tải là thành phần hồ sơ (điểm c khoản 1, khoản 2 Điều 15), chỉ đối chiếu trong Biên bản thẩm định. Danh mục kèm Giấy phép chỉ gồm bảng hàng hóa và bảng phương tiện (phương tiện, thiết bị chứa hàng). Ghi chú 06/11/2026 về việc bổ sung danh sách này không còn áp dụng. Nguyên tắc 34.
+- Ví dụ: Giấy phép xăng, dầu diesel loại 3 dự thảo ngày 10/11/2026, bản sửa chỉ còn bảng hàng hóa và bảng "Danh sách phương tiện vận chuyển".
+- Máy kiểm: không (nội dung nghiệp vụ, loại N)

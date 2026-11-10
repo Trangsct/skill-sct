@@ -1,3 +1,7 @@
+## 10/11/2026 (lần 3) — hnh-sct-vn 1.18.2: Giấy phép HHNH không kèm danh sách người lái xe, người áp tải
+
+- **hnh-sct-vn 1.18.2**: nguyên tắc 34, sổ lỗi L003 (Bạn chốt 10/11/2026) - mẫu Phụ lục VII, VIII Nghị định số 161/2024/NĐ-CP không có nội dung người lái xe, người áp tải; Danh mục kèm Giấy phép chỉ gồm bảng hàng hóa và bảng phương tiện.
+
 ## 10/11/2026 (lần 2) — vbhc-vn 2.39.1, tkm-sct-vn 1.5.3, sd-vlncn-sct-vn 2026.11.10.1: rà trích yếu trên template và ví dụ thực tế
 
 - **vbhc-vn 2.39.1**: `do_trich_yeu.py` xử lý mẫu công văn nội bộ phòng; đo 9 template (01, 08 đạt với trích yếu thật, giữ nguyên); quét R27 trên 323 tệp .docx.

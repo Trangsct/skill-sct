@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đổi Kính gửi thành Giám đốc Sở; bảng ký chỉ có lãnh đạo đơn vị và chuyên viên, không có Phó Trưởng phòng, Phó Giám đốc, Giám đốc.
+nguon: examples/ubnd/phieu-trinh-giai-quyet-cong-viec.docx
+R27 FAIL

@@ -1,6 +1,6 @@
 # Mẫu 01 — QUYẾT ĐỊNH KIỂM TRA (Mẫu số 03 TT 56/2025/TT-BCT)
 
-Checklist trước trình ký: `references/01-vlncn-hoachat/07` mục F. Tên QĐ là "Kiểm tra việc chấp hành…", KHÔNG phải "Thành lập Đoàn…".
+Checklist trước trình ký: `references/01-vlncn-hoachat/07` mục F. Phiếu trình kèm theo (Giám đốc ký QĐ): 4 người ký chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách; Giám đốc ký thẳng QĐ, KH (Bạn chốt 10/11/2026; vbhc-vn R27). Tên QĐ là "Kiểm tra việc chấp hành…", KHÔNG phải "Thành lập Đoàn…".
 
 ```
 UBND TỈNH LÀO CAI                        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM

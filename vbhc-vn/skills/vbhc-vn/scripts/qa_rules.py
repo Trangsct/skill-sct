@@ -1509,6 +1509,46 @@ def rule_R26(doc, ctx) -> list[Finding]:
     return out
 
 
+def rule_R27(doc, ctx) -> list[Finding]:
+    """R27 — Phiếu trình giải quyết công việc trình GIÁM ĐỐC SỞ: đủ 4 người ký theo luồng chuẩn.
+
+    Quy tắc: phiếu trình có "Kính gửi: ... Giám đốc Sở ..." (không phải Phó Giám đốc) đi luồng
+    chuyên viên → Phó Trưởng phòng → Trưởng phòng → Phó Giám đốc phụ trách: bảng ký của Phòng có đủ
+    ba ô TRƯỞNG PHÒNG, PHÓ TRƯỞNG PHÒNG, CHUYÊN VIÊN THAM MƯU và có mục "Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ"
+    (dòng chấm + ô ký PHÓ GIÁM ĐỐC). Giám đốc ký thẳng văn bản được trình (quyết định, kế hoạch) nên
+    phiếu trình KHÔNG có mục ý kiến, ô ký của Giám đốc. Phiếu trình Phó Giám đốc (việc thường lệ)
+    không thuộc phạm vi quy tắc này.
+    Nguồn: Bạn chốt 10/11/2026 ("nếu trình Giám đốc thì bắt đầu là chuyên viên, phó phòng, TP, PGĐ Sở
+    theo 1 luồng chuẩn"; "chỉ cần 4 người trình ký thôi, giám đốc ký kế hoạch qđ và kh mà"); sổ lỗi
+    L015; sct-laocai-org-vn mục "Phiếu trình trình Giám đốc".
+    Mức: FAIL.
+    """
+    paras = [nfc(p.text) for p in doc.paragraphs]
+    if not any("PHIẾU TRÌNH" in t.upper() for t in paras[:6]):
+        return []
+    kg = next((t for t in paras[:12] if t.strip().startswith("Kính gửi")), "")
+    if not re.search(r"Giám đốc Sở", kg) or re.search(r"Phó Giám đốc", kg, re.I):
+        return []
+    toan = "\n".join(paras + [nfc(c.text) for t in doc.tables for r in t.rows for c in r.cells]).upper()
+    loi = []
+    if "CHUYÊN VIÊN" not in toan:
+        loi.append("thiếu ô ký CHUYÊN VIÊN THAM MƯU")
+    if "PHÓ TRƯỞNG PHÒNG" not in toan:
+        loi.append("thiếu ô ký PHÓ TRƯỞNG PHÒNG")
+    if not re.search(r"(?<!PHÓ )TRƯỞNG PHÒNG", toan):
+        loi.append("thiếu ô ký TRƯỞNG PHÒNG")
+    if not re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*PHÓ GIÁM ĐỐC", toan):
+        loi.append("thiếu mục Ý KIẾN CỦA PHÓ GIÁM ĐỐC SỞ (dòng chấm + ô ký PHÓ GIÁM ĐỐC)")
+    if re.search(r"(?m)^[IVX]+\.\s*Ý KIẾN[^\n]*(?<!PHÓ )GIÁM ĐỐC SỞ", toan):
+        loi.append("thừa mục ý kiến, ô ký của Giám đốc (Giám đốc ký thẳng văn bản được trình)")
+    if not loi:
+        return []
+    return [Finding(
+        "R27", FAIL, "phiếu trình", cut(kg),
+        "Phiếu trình Giám đốc Sở có đủ 4 người ký: chuyên viên → Phó Trưởng phòng → Trưởng phòng → "
+        "Phó Giám đốc phụ trách; " + "; ".join(loi) + ".",
+    )]
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1536,6 +1576,7 @@ RULES = [
     ("R24", rule_R24),
     ("R25", rule_R25),
     ("R26", rule_R26),
+    ("R27", rule_R27),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

@@ -1,3 +1,8 @@
+## 10/11/2026 (lần 4) — kccn-sct-vn 1.64.1: thẩm định Đề án di dời CCN Đầm Hồng
+
+- **kccn-sct-vn 1.64.1**: sửa ngày VB 9514/UBND-KT thành 18/9/2026 (ref 45, 54; rule check_facts `vb-9514-ubnd-kt-ngay-18-9`); ref 45 thêm
+  cách thẩm định Đề án di dời (lấy ý kiến bằng văn bản, khuôn nội dung theo từng sở, ngành); tệp trạng thái `trang-thai/ccn-dam-hong.md`.
+
 ## 10/11/2026 (lần 3) — hnh-sct-vn 1.18.2: Giấy phép HHNH không kèm danh sách người lái xe, người áp tải
 
 - **hnh-sct-vn 1.18.2**: nguyên tắc 34, sổ lỗi L003 (Bạn chốt 10/11/2026) - mẫu Phụ lục VII, VIII Nghị định số 161/2024/NĐ-CP không có nội dung người lái xe, người áp tải; Danh mục kèm Giấy phép chỉ gồm bảng hàng hóa và bảng phương tiện.

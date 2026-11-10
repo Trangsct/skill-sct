@@ -1,5 +1,11 @@
 # CHANGELOG — tkm-sct-vn
 
+## 1.5.3 — 10/11/2026 — Trích yếu ví dụ thực tế: bỏ khoảng trắng không ngắt; bảng trích yếu rút gọn khi soạn mới
+
+- `vi-du-thuc-te/` 5 tệp (CV chấm dứt thẩm định đập số 1 Sin Quyền, CV trả hồ sơ kho VLNCN, CV từ chối BCKTKT, TB thẩm định thủy điện Yên Hà, TB thẩm định nhà máy tinh dầu quế): ô V/v bỏ khoảng trắng không ngắt để trích yếu tự xuống dòng; câu chữ giữ nguyên.
+- `references/07-bai-hoc-thuc-te.md`: mục "Trích yếu khi soạn mới từ các ví dụ thực tế" — 5 trích yếu rút gọn (bản gốc 141-225 ký tự, 5-7 dòng, vượt quy ước tối đa 3-4 dòng của vbhc-vn R27, sổ lỗi L015).
+- `plugin.json` 1.5.2 → 1.5.3.
+
 ## 1.5.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `mau-van-ban/khung-cv-tu-choi-tham-dinh.md`; `references/01-dong-thoi-gian-2006-2026.md`; `references/03-tham-quyen-nhom-khoang-san.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

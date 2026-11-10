@@ -1,5 +1,9 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.11.10.1 — 10/11/2026 — Ví dụ dự thảo công văn UBND tỉnh: trích yếu gộp thành một đoạn liền
+
+- `vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-cuoi-6.9.2026.docx`: trích yếu "V/v tăng cường công tác quản lý vật liệu nổ công nghiệp trên địa bàn tỉnh" trước tách hai đoạn, nay một đoạn liền tự xuống 2 dòng (vbhc-vn R27, sổ lỗi L015; Bạn chốt 10/11/2026). Câu chữ không đổi.
+
 ## v2026.11.03.1 — 03/11/2026 — Thống kê tổ chức sử dụng VLNCN, dịch vụ nổ mìn (ref 14)
 
 - Ref 14 mới từ dự thảo Báo cáo Sở gửi UBND tỉnh (02/11/2026, chưa số): 43 GP / 33 tổ chức, 06 tổ chức dịch vụ nổ mìn, 11 GP hết hạn đến 31/12/2026; bảng đủ Phụ lục đối chiếu CSDL (10 GP chưa lên CSDL); 5 ô còn trống của dự thảo. Chi tiết: `CHANGELOG-v2026.11.03.md`.

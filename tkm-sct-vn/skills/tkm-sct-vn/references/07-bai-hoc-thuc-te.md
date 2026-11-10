@@ -45,3 +45,20 @@
 | Thanh tra hỏi trách nhiệm các thời kỳ | Báo cáo thanh tra CP + reference `01` |
 | Hậu kiểm/triển khai sau thanh tra chuyên đề mỏ VLXD | Reference `09` (BC 452/BC-TTCP) + bản gốc trong `van-ban-goc/` |
 | Viết tham luận, báo cáo ngành | Tham luận 2019 |
+
+## Trích yếu khi soạn mới từ các ví dụ thực tế (Bạn chốt 10/11/2026 — vbhc-vn R27, sổ lỗi L015)
+
+Trích yếu công văn, thông báo: một đoạn liền, tự xuống dòng, tối đa 3-4 dòng, cân với khối tên cơ quan. Năm ví dụ trong
+`vi-du-thuc-te/` có trích yếu 141-225 ký tự, lên 5-7 dòng (văn bản đã phát hành, giữ nguyên câu chữ làm tư liệu; ngày
+10/11/2026 chỉ bỏ khoảng trắng không ngắt trong ô V/v). Khi soạn văn bản mới từ các ví dụ này thì rút gọn trích yếu: nêu
+việc và tên công trình, không chép hạng mục chi tiết, địa danh, số tờ trình, không kết thúc bằng dấu chấm. Gợi ý:
+
+| Ví dụ | Trích yếu rút gọn khi soạn mới |
+|---|---|
+| `CV-cham-dut-tham-dinh-tra-ho-so-dap1-SinQuyen-K5D76-ND217.docx` | V/v chấm dứt thẩm định, trả hồ sơ thiết kế xây dựng hạng mục đập số 1 khu mỏ - tuyển đồng Sin Quyền |
+| `CV-tra-ho-so-rut-ho-so-kho-VLNCN-QuangDat.docx` | V/v trả lời đề nghị thẩm định thiết kế kho vật liệu nổ công nghiệp thủy điện Phìn Hồ 2 |
+| `CV-tu-choi-BCKTKT-thuoc-tham-quyen-CDT.docx` | V/v phúc đáp đề nghị thẩm định thiết kế xây dựng Cửa hàng xăng dầu Phúc Lộc |
+| `TB-tham-dinh-TKKT-dieu-chinh-thuy-dien-YenHa.docx` | V/v thông báo kết quả thẩm định thiết kế kỹ thuật dự án thủy điện Yên Hà |
+| `TB-tham-dinh-TKXD-04-phu-luc-NM-tinh-dau-que.docx` | V/v thông báo kết quả thẩm định thiết kế xây dựng Nhà máy chiết xuất tinh dầu quế Phố Ràng |
+
+Kiểm trước khi giao: `python3 scripts/qa_rules.py <file>.docx` (R27) và `python3 scripts/do_trich_yeu.py <file>.docx` của plugin vbhc-vn.

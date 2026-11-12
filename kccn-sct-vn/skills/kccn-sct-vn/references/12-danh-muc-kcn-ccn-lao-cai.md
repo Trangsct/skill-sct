@@ -11,7 +11,7 @@ Quản lý KCN theo địa bàn: vùng Lào Cai cũ → **BQL Khu kinh tế tỉ
 ### KCN đã thành lập (07)
 | Tên KCN | Vị trí (xã/phường) | DT QH (ha) |
 |---|---|---|
-| Đông Phố Mới | Phường Lào Cai | 100 (di dời do đường sắt LC-HN-HP; đưa ra khỏi QH 2030) |
+| Đông Phố Mới | Phường Lào Cai | 100 (di dời do đường sắt LC-HN-HP; đưa ra khỏi QH 2030; 42 tổ chức trong phạm vi GPMB, Tổ hỗ trợ DN QĐ 4093/QĐ-UBND 02/11/2026 — ref 56) |
 | Bắc Duyên Hải | Phường Lào Cai | 85 |
 | Tằng Loỏng | Xã Tằng Loỏng | 1.100 |
 | Phía Nam | Phường Văn Phú | 400 (điều chỉnh QHPK Khu A 399,24 ha qua HĐTĐ 04/9/2026, TB 77/TB-HĐTĐ → reference 34 mục G) |

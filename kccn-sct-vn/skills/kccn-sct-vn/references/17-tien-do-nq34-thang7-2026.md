@@ -61,6 +61,8 @@ Mục tiêu cuối năm (BC Sở): hoàn thiện thủ tục thành lập, lựa
 
 ## V. DI DỜI KCN ĐÔNG PHỐ MỚI (phục vụ đường sắt Lào Cai - Hà Nội - Hải Phòng)
 
+> ⚠️ Số liệu mục này là tháng 7/2026 (lịch sử). Số mới hơn (đến 30/10/2026: SX1-SX2 đã xong, Bản Qua ~70 %, Khu Thống Nhất 23,6 ha, 42 tổ chức KCN trong phạm vi GPMB, chủ đầu tư Ban QLDA ĐTXD tỉnh): **ref 56**.
+
 1. **Dự án Khu San gạt MB + HTKT Khu Bản Qua** (95 ha; TMĐT 510,4 tỷ; QĐ QHCT 1403/QĐ-UBND 05/5/2025, QĐ dự án 1406/QĐ-UBND 06/5/2025; khởi công 15/8/2025; bố trí 34 doanh nghiệp): GPMB 74,16 ha, ảnh hưởng 283 hộ + 03 tổ chức + 217 ngôi mộ; đã công khai PA 203/283 hộ, phê duyệt 184/283, chi trả - bàn giao 180 hộ; di chuyển 184/217 ngôi mộ. GPMB đạt **85%** (63,41/74,61 ha); khối lượng thi công tổng thể **~50%** (san nền ~75%); dự kiến hoàn thành **31/12/2026**.
 2. **Dự án Lô SX1, SX2 Khu Logistics Kim Thành - Bản Vược** (QĐ 1407/QĐ-UBND 06/5/2025; TMĐT 106,43 tỷ): bố trí Lô SX1 cho 02 nhà máy may (Babeeni Việt Nam, Korea Vina); Lô SX2 cho NM chế biến dược liệu Traphaco Sapa (VB 312/SXD-QHKT 20/01/2026). GPMB: phê duyệt + chi trả 31/33 hộ (20,48 tỷ). Thi công cơ bản hoàn thành, đạt **95%** giá trị HĐ (34/35,8 tỷ).
 3. **Trong ranh KCN Đông Phố Mới:** kiểm đếm 38/39 tổ chức; phương án bồi thường 06 tổ chức trình Hội đồng thẩm định giá (QĐ 1012/QĐ-UBND 04/9/2025, QĐ 1758/QĐ-UBND 27/10/2025). 16/6/2026 UBND phường Lào Cai công bố Kế hoạch thu hồi đất theo ranh giới GPMB MỚI; đã ban hành Thông báo thu hồi đất 84 hộ/cá nhân/tổ chức.

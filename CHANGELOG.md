@@ -1,3 +1,10 @@
+## 12/11/2026 — kccn-sct-vn 1.66.0: đường sắt Lào Cai - Hà Nội - Hải Phòng, di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn
+
+- **kccn-sct-vn 1.66.0**: ref 56 mới (Báo cáo 727/BC-TGV ngày 02/11/2026 của Tổ Giúp việc BCĐ GPMB đường sắt; QĐ 4093/QĐ-UBND
+  ngày 02/11/2026 thành lập Tổ hỗ trợ doanh nghiệp KCN Đông Phố Mới; TB 279-TB/VPTU); hạ tầng tiếp nhận do Ban QLDA ĐTXD tỉnh làm chủ
+  đầu tư (SX1-SX2 xong, Bản Qua ~70 %, Khu Thống Nhất ~68 %, Vạn Hòa không đầu tư); sổ lỗi L002 sửa chủ đầu tư; rule check_facts
+  `tb-279-vptu-khong-phai-tb-bcd`, `ha-tang-khu-ban-qua-chu-dau-tu-ban-qlda-dtxd-tinh`; tệp trạng thái `di-doi-kcn-dong-pho-moi-duong-sat`.
+
 ## 10/11/2026 (lần 4) — kccn-sct-vn 1.64.1: thẩm định Đề án di dời CCN Đầm Hồng
 
 - **kccn-sct-vn 1.64.1**: sửa ngày VB 9514/UBND-KT thành 18/9/2026 (ref 45, 54; rule check_facts `vb-9514-ubnd-kt-ngay-18-9`); ref 45 thêm

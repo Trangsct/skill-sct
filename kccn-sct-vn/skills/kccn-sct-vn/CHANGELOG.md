@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.66.0 — 12/11/2026 — Đường sắt Lào Cai - Hà Nội - Hải Phòng: di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn (ref 56)
+
+- Ref 56: Báo cáo 727/BC-TGV ngày 02/11/2026 (GPMB đến 30/10/2026), QĐ 4093/QĐ-UBND ngày 02/11/2026 (Tổ hỗ trợ doanh nghiệp), TB 279-TB/VPTU mục 4; ref 17, ref 12, sổ lỗi L002 cập nhật; 2 rule check_facts. Chi tiết: `CHANGELOG-v2026.11.12.md`.
+- `plugin.json` 1.64.1 → 1.66.0.
+
 ## 1.65.0 — 05/11/2026 — Thông tư 69/2026/TT-BCT sửa TT 14/2024 (ref 55); Hội đồng CCN Phú Thịnh 6 QĐ 4154/QĐ-UBND (ref 54 mục I)
 
 - Chi tiết: `CHANGELOG-v2026.11.05.md`.

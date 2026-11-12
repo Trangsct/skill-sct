@@ -44,6 +44,24 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "tb-279-vptu-khong-phai-tb-bcd",
+        # Vụ 12/11/2026 (kccn-sct-vn ref 56): Báo cáo 727/BC-TGV ghi "Thông báo số 279-TB/BCĐ ngày 12/10/2026"; bản gốc và
+        # QĐ 4093/QĐ-UBND ghi 279-TB/VPTU (Văn phòng Tỉnh ủy, kết luận Trưởng BCĐ GPMB các dự án trọng điểm).
+        "pattern": r"^(?!.*(?:lịch sử|BC 727 ghi|727/BC-TGV ghi)).*279-TB/BCĐ",
+        "why": "Thông báo kết luận GPMB đường sắt ngày 12/10/2026 là số 279-TB/VPTU của Văn phòng Tỉnh ủy, không phải 279-TB/BCĐ (kccn-sct-vn ref 56).",
+        "since": "2026-11-12",
+        "level": "FAIL",
+    },
+    {
+        "id": "ha-tang-khu-ban-qua-chu-dau-tu-ban-qlda-dtxd-tinh",
+        # Vụ 12/11/2026 (kccn-sct-vn ref 56, sổ lỗi L002): chủ đầu tư dự án san gạt MB + HTKT Khu Bản Qua, SX1-SX2, Khu Thống Nhất
+        # là Ban QLDA ĐTXD tỉnh (727/BC-TGV); Ban Quản lý Khu kinh tế chỉ giới thiệu địa điểm, hướng dẫn thủ tục cho doanh nghiệp.
+        "pattern": r"^(?!.*(?:lịch sử|sai|L002)).*(?:Ban Quản lý Khu kinh tế|BQL KKT)[^.;]{0,40}(?:hoàn thành|đầu tư)[^.;]{0,30}hạ tầng (?:kỹ thuật )?Khu Bản Qua",
+        "why": "Hạ tầng tiếp nhận cơ sở di dời tại Khu Bản Qua do Ban Quản lý dự án đầu tư xây dựng tỉnh làm chủ đầu tư, không giao Ban Quản lý Khu kinh tế (kccn-sct-vn ref 56).",
+        "since": "2026-11-12",
+        "level": "FAIL",
+    },
+    {
         "id": "vb-9514-ubnd-kt-ngay-18-9",
         # Vụ 10/11/2026 (kccn-sct-vn ref 45, 54): ngày VB 9514/UBND-KT chép theo văn bản của UBND phường Yên Bái ("14/9/2026")
         # thay vì sổ văn bản đến. Đúng: 18/9/2026 (khớp dãy số UBND tỉnh 9507–9554 cùng ngày 18/9/2026).

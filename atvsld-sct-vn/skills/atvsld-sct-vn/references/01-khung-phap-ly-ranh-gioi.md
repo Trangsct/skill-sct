@@ -400,3 +400,14 @@ d) Tịch thu tang vật vi phạm hành chính;
 8. Giám đốc Sở Nội vụ có thẩm quyền xử phạt vi phạm hành chính và áp dụng các biện pháp khắc phục hậu quả đối với các hành vi vi phạm hành chính quy định tại Chương II, Chương III, Chương IV của Nghị định này theo thẩm quyền quy định tại khoản 1 Điều 61 của Nghị định này và chức năng, nhiệm vụ, quyền hạn được giao.
 
 → **Kết luận:** danh sách người lập biên bản (Đ54) và người xử phạt (Đ55–62) của NĐ 283/2026 không có công chức hay Giám đốc Sở Công Thương; k8 Đ63 giao trọn Chương II (gồm Mục 3 ATVSLĐ) cho Giám đốc Sở Nội vụ. Sở Công Thương phát hiện vi phạm ATVSLĐ → **biên bản làm việc (MBB02 NĐ 118) + chuyển Sở Nội vụ** (xem `references/04`).
+
+## D. Kiểm tra chất lượng hàng hóa nhập khẩu lĩnh vực ATVSLĐ có mức độ rủi ro cao — ủy quyền Giám đốc Sở Nội vụ (cập nhật 12/11/2026)
+
+**Quyết định số 3754/QĐ-UBND ngày 12/10/2026** của UBND tỉnh Lào Cai (số, ngày đọc ở trường ký số trong lớp chữ bản PDF, khớp sổ văn bản đến egov1) về việc ủy quyền tiếp nhận và giải quyết thủ tục hành chính kiểm tra chất lượng hàng hóa nhập khẩu thuộc lĩnh vực an toàn vệ sinh lao động có mức độ rủi ro cao thuộc thẩm quyền của UBND tỉnh:
+
+- **Điều 1:** ủy quyền cho **Giám đốc Sở Nội vụ** tiếp nhận và giải quyết TTHC kiểm tra chất lượng hàng hóa nhập khẩu lĩnh vực ATVSLĐ có mức độ rủi ro cao thuộc thẩm quyền UBND tỉnh, theo Thông tư 16/2026/TT-BNV ngày 28/7/2026 (Danh mục sản phẩm, hàng hóa rủi ro trung bình, cao thuộc Bộ Nội vụ) và QĐ 946/QĐ-BNV ngày 11/8/2026 (công bố TTHC). Căn cứ: Luật Chất lượng sản phẩm, hàng hóa 05/2007/QH12 sửa bởi Luật 78/2025/QH15; NĐ 37/2026/NĐ-CP ngày 23/01/2026.
+- **Điều 2:** thời hạn ủy quyền từ ngày ký đến hết **31/12/2027**.
+- **Điều 3:** Giám đốc Sở Nội vụ ban hành quy trình nội bộ; báo cáo UBND tỉnh định kỳ 06 tháng, hằng năm.
+- **Điều 4:** hiệu lực từ ngày ký; **bãi bỏ QĐ 1255/QĐ-UBND ngày 26/9/2025** (ủy quyền Giám đốc Sở Nội vụ quản lý chất lượng sản phẩm, hàng hóa có khả năng gây mất an toàn khi nhập khẩu thuộc lĩnh vực ATVSLĐ).
+
+→ Doanh nghiệp ngành Công Thương nhập khẩu máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về ATVSLĐ thuộc danh mục rủi ro cao của Bộ Nội vụ: **nộp hồ sơ kiểm tra chất lượng nhập khẩu tại Sở Nội vụ**, không phải Sở Công Thương. Sở Công Thương chỉ hướng dẫn khai báo, kiểm định khi đưa vào sử dụng trong cơ sở ngành Công Thương (Đ30, Đ31 Luật ATVSLĐ — `references/02`).

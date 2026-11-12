@@ -5,6 +5,14 @@
   đầu tư (SX1-SX2 xong, Bản Qua ~70 %, Khu Thống Nhất ~68 %, Vạn Hòa không đầu tư); sổ lỗi L002 sửa chủ đầu tư; rule check_facts
   `tb-279-vptu-khong-phai-tb-bcd`, `ha-tang-khu-ban-qua-chu-dau-tu-ban-qlda-dtxd-tinh`; tệp trạng thái `di-doi-kcn-dong-pho-moi-duong-sat`.
 
+## 12/11/2026 (lần 2) — qlks-sct-vn 2.5.0, atvsld-sct-vn 1.2.0, vbhc-vn: TTHC khoáng sản sau chuyển giao; ủy quyền kiểm tra hàng nhập khẩu ATVSLĐ; nạp văn bản pháp luật từ egov1
+
+- **qlks-sct-vn 2.5.0**: ref 23 mục VII — QĐ 4217/QĐ-UBND ngày 10/11/2026 công bố 09 TTHC nội bộ khoáng sản của Sở Công Thương; QĐ 4231/QĐ-UBND
+  ngày 11/11/2026 bãi bỏ 39 TTHC, 08 TTHC nội bộ của Sở NN&MT và 08 quyết định công bố cũ.
+- **atvsld-sct-vn 1.2.0**: ref 01 mục D — QĐ 3754/QĐ-UBND ngày 12/10/2026 ủy quyền Giám đốc Sở Nội vụ kiểm tra chất lượng hàng hóa nhập khẩu
+  lĩnh vực ATVSLĐ rủi ro cao đến 31/12/2027 (bãi bỏ QĐ 1255/QĐ-UBND ngày 26/9/2025).
+- `registry/trang-thai.csv`, `vbhc-vn/.../data/vbpl.json`: nạp 262 văn bản pháp luật công khai mới từ `de-xuat-vbpl.csv` (bản tin egov1), ngày hiệu lực để trống.
+
 ## 10/11/2026 (lần 4) — kccn-sct-vn 1.64.1: thẩm định Đề án di dời CCN Đầm Hồng
 
 - **kccn-sct-vn 1.64.1**: sửa ngày VB 9514/UBND-KT thành 18/9/2026 (ref 45, 54; rule check_facts `vb-9514-ubnd-kt-ngay-18-9`); ref 45 thêm

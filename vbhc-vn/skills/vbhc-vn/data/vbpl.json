@@ -334,38 +334,254 @@
       "bi_sua_doi_boi": "NĐ 17/2022 (Điều 4)",
       "ghi_chu": "Xử phạt dầu khí, xăng dầu, khí; k2 Đ62 Chánh TT Sở CT đích danh; k7 Đ63"
     },
+    "QĐ 1/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-01",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10807671&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy định một số nội dung về quản lý tổ chức và cán bộ, công chức, viên"
+    },
+    "QĐ 10/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11271884&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy định khu vực bảo vệ; khu vực cấm tập trung đông người; cấm ghi âm,"
+    },
+    "QĐ 100/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5AE75E78F4884FE06338FE280A8813&t=0&hxl=; chưa kiểm ngày hiệu lực; Văn bản hợp nhất Quyết định Quy định hệ số điều chỉnh giá đất trên địa bàn tỉnh Lào Cai nă"
+    },
     "QĐ 1017/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-28",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E69FD2E88F30E74E06339FE280A4CDB&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt Quy hoạch chung xã Chiềng Ken, tỉnh Lào Cai"
+    },
+    "QĐ 1050/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=15854527; chưa kiểm ngày hiệu lực; QĐ Xử phạt vi phạm hành chính về an toàn thực phẩm (Cao Minh Tuấn)"
+    },
+    "QĐ 1053/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-05-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14819772&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt Kế hoạch tăng cường xúc tiến thương mại cho các sản phẩm tiểu thủ côn"
+    },
+    "QĐ 1085/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FE743EAFAC33049E06347FE280A88E5&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Kiện toàn Ban Chỉ đạo chống buôn lậu, gian lận thương mại và hàng giả phường Na"
     },
     "QĐ 1091/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-30",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17684194&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ban hành Quy định vị trí, chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Phò"
     },
+    "QĐ 1092/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16462596&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Đoàn kiểm tra hoạt động của các doanh nghiệp, cơ sở sản xuất, kinh doanh"
+    },
     "QĐ 1096/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-23",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E8393C42D6E4ABAE06339FE280AA544&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Đoàn kiểm tra, xác minh hoạt động khai thác đá quý trái phép trên địa bà"
+    },
+    "QĐ 11/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11280721&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy định một số nội dung về quản lý đầu tư và xây dựng trên địa bàn tỉnh Lào Cai"
+    },
+    "QĐ 1111/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-09-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F55CC3F88FABE31E06338FE280ABA3A&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt quy hoạch chung xã Lâm Thượng, tỉnh Lào Cai"
+    },
+    "QĐ 1114/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15276385&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phê duyệt Đề án tổ chức Lễ tôn vinh và Trao giải thưởng \"Công nghiệp, T"
+    },
+    "QĐ 1115/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15276214&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc ban hành Quy chế xét tặng Giải thưởng \"Công nghiệp, Thương mại, Dịch vụ"
+    },
+    "QĐ 1121/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15424346&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cập nhật, bổ sung Chương trình hành động của Bộ Công Thương thực hiện Nghị quyế"
     },
     "QĐ 1131/QĐ-TTG": {
       "ngay_ban_hanh": "2025-06-12",
       "bi_thay_the_boi": "QĐ 21/2026/QĐ-TTg (01/7/2026)",
       "ghi_chu": "Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026"
     },
+    "QĐ 114/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10845559&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Danh mục hồ, ao, đầm nội tỉnh không được san lấp trên địa bàn tỉnh Là"
+    },
+    "QĐ 116/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-07-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16829335&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Xây dựng cửa"
+    },
+    "QĐ 1162/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13224731&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới ban hành; sửa đổi, bổ sung trong các lĩnh"
+    },
+    "QĐ 1163/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13226854&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư thực hiện dự án: C"
+    },
+    "QĐ 1168/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13426296&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc phân công nhiệm vụ đối với Ủy viên Ủy ban nhân dân tỉnh Lào Cai, nhiệm"
+    },
+    "QĐ 117/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10847534&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Ủy quyền cho Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của Ủ"
+    },
     "QĐ 1220/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-28",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17700730&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Quy hoạch chung xã Cao Sơn, tỉnh Lào Cai"
+    },
+    "QĐ 1221/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13565445&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ủy quyền quyết định giá đất cụ thể thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân t"
+    },
+    "QĐ 1222/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13571838&t=0&hxl=; chưa kiểm ngày hiệu lực; ban hành Kế hoạch thực hiện Quy hoạch phát triển điện lực quốc gia thời kỳ 2021-2030, tầm"
     },
     "QĐ 1224/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-27",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5EC86C8B1200E510E06339FE280AF47F&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc thành lập Ban Chỉ đạo chống buôn lậu, gian lận thương mại và hàng giả x"
     },
+    "QĐ 1229/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13723799&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Hội đồng tư vấn kỹ thuật thẩm định hồ sơ đề nghị khai thác khoáng sản"
+    },
+    "QĐ 1230/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13723732&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận điều chỉnh chủ trương đầu tư dự án: Nhà máy tuyển quặng apatit loại"
+    },
+    "QĐ 1243/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13823240&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc cử Đoàn đại biểu tỉnh Lào Cai thăm, làm việc tại Liên bang Nga và Cộng"
+    },
+    "QĐ 1245/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13783633&t=0&hxl=; chưa kiểm ngày hiệu lực; Công bố danh mục đô thị, phường đạt mức quy định trình độ phát triển đô thị đối với đơn vị"
+    },
+    "QĐ 1249/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13789182&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phân công nhiệm vụ thu phí bảo vệ môi trường đối với nước thải công nghiệp đối"
+    },
+    "QĐ 1258/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13821847&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung; bãi bỏ trong lĩnh vực đ"
+    },
+    "QĐ 128/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11117892&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Lào Cai, nhiệm kỳ 2021-2026"
+    },
+    "QĐ 1284/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13897441&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt chương trình khuyến công tỉnh Lào Cai giai đoạn 2026-2030."
+    },
+    "QĐ 1285/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13898798&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt điều chỉnh khu vực cấm, khu vực tạm thời cấm hoạt động khoáng sản tỉn"
+    },
+    "QĐ 1291/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13934208&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy định về tiêu chí đánh giá lựa chọn Chủ đầu tư xây dựng hạ tầng kỹ thuật cụm c"
+    },
+    "QĐ 1293/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13936450&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH thành lập Hội đồng tư vấn kỹ thuật thẩm định hồ sơ đề nghị cấp Giấy phép khai t"
+    },
+    "QĐ 1295/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14078578&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Hội đồng định giá tài sản thường xuyên trong tố tụng hình sự lĩnh vực Nô"
+    },
+    "QĐ 130/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11115069&t=0&hxl=; chưa kiểm ngày hiệu lực; GIẤY PHÉP KHAI THÁC KHOÁNG SẢN cấp cho Công ty Cổ phần vật liệu xây dựng Kiên Long"
+    },
+    "QĐ 1306/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14096957&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Khung kiến trúc số tỉnh Lào Cai"
+    },
+    "QĐ 131/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-07",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13428769&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Trung tâm Dịch vụ tổng hơp xã Nậm Xé."
+    },
+    "QĐ 133/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11100124&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc kiện toàn Ban Chỉ đạo phòng, chống khủng bố tỉnh Lào Cai"
+    },
+    "QĐ 1335/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-21",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14151544&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc điều chỉnh Quyết định thành lập Cụm công nghiệp Phú Thịnh 2"
+    },
     "QĐ 1351/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-26",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5EC84F1EAC98E4C1E06339FE280AC73F&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc thành lập Đoàn kiểm tra, xác minh phản ánh liên quan đến hoạt động khai"
     },
+    "QĐ 1354/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-24",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15837717&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc kéo dài thời gian thực hiện và giải ngân vốn kế hoạch đầu tư công năm 2"
+    },
+    "QĐ 1355/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-06-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16416006&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phê duyệt Đề án phát triển công nghiệp sinh học thành ngành kinh tế - k"
+    },
+    "QĐ 1356/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14189241&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH tổ chức thực hiện công tác quản lý nhà nước về sở hữu công nghiệp trên địa bàn"
+    },
+    "QĐ 137/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11139841&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc công bố thủ tục hành chính bị bãi bỏ trong lĩnh vực công nghiệp địa phư"
+    },
+    "QĐ 1372/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14231908&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Thành lập các Tổ công tác về đẩy nhanh tiến độ thực hiện và giải ngân các dự án"
+    },
+    "QĐ 1373/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14232368&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc thành lập Tổ công tác chỉ đạo, đôn đốc tiến độ thực hiện, giải ngân tha"
+    },
+    "QĐ 1383/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14246723&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận điều chỉnh chủ trương đầu tư của Dự án đầu tư khai thác cát, sỏi lòn"
+    },
+    "QĐ 1397/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14365640&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án đầu tư xây d"
+    },
+    "QĐ 1398/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14365523&t=0&hxl=; chưa kiểm ngày hiệu lực; Thành lập Tổ Công tác rà soát, tháo gỡ khó khăn, vướng mắc cho các dự án tồn đọng kéo dài"
+    },
+    "QĐ 14/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11326280&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định về trình tự, thủ tục phê duyệt điều chỉnh cục bộ quy hoạch đô thị và nông thôn th"
+    },
+    "QĐ 140/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12318707&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Chương trình hành động của ngành Công Thương thực hiện Nghi quyết số 0"
+    },
+    "QĐ 1409/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14682629&t=0&hxl=; chưa kiểm ngày hiệu lực; V/v thành lập Tổ công tác hướng dẫn, đôn đốc, tháo gỡ khó khăn, vướng mắc để đẩy nhanh tiế"
+    },
+    "QĐ 1417/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14426033&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Kế hoạch đấu giá quyền khai thác khoáng sản làm vật liệu xây dựng thô"
+    },
+    "QĐ 1418/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14413137&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Tổ rà soát, xử lý các vi phạm pháp luật về đất đai trên địa bàn tỉnh"
+    },
     "QĐ 1493/QĐ-TTG": {
       "ngay_ban_hanh": "2026-08-06",
       "ghi_chu": "Chương trình KH,CN&ĐMST quốc gia đặc biệt về công nghệ chiến lược — chưa có bản gốc, ghi nhận qua bản tin"
+    },
+    "QĐ 1497/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14681949&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Kiện toàn Ban Tổ chức Hội thi Sáng tạo kỹ thuật tỉnh"
+    },
+    "QĐ 1504/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14684709&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Bàn giao, tiếp nhận và quản lý ứng dụng kết quả nghiên cứu của các nhiệm vụ kho"
+    },
+    "QĐ 1516/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14687483&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ v/v thành lập Đoàn kiểm tra liên ngành về an toàn thực phẩm trong “Tháng hành động vì a"
     },
     "QĐ 154/QĐ-TTG": {
       "ngay_ban_hanh": "2022-01-29",
@@ -373,12 +589,77 @@
       "bi_thay_the_boi": "QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài)",
       "ghi_chu": "Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV"
     },
+    "QĐ 1540/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14757909&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận điều chỉnh chủ trương đầu tư của Dự án đầu tư xây dựng công trình kh"
+    },
+    "QĐ 1585/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-08",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14932973&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt điều chỉnh dự án Giải phóng mặt bằng khu dân cư nông thôn mới (Quỹ đất trên trục"
+    },
     "QĐ 16/2026/QĐ-UBND": {
-      "ghi_chu": "Quy chế quản lý CCN Lào Cai"
+      "ngay_ban_hanh": "2026-02-25",
+      "ghi_chu": "Quy chế quản lý CCN Lào Cai; ngày ban hành theo Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11914405&t=0&hxl="
+    },
+    "QĐ 160/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11180168&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc phê duyệt Kế hoạch xúc tiến đầu tư tỉnh Lào Cai gia đoạn 2026-2030."
+    },
+    "QĐ 1637/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15660905&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc Về việc điều chỉnh chủ đầu tư đối với dự án của các Ban Quản lý dự án đ"
+    },
+    "QĐ 1652/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15276188&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận điều chỉnh chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án đ"
+    },
+    "QĐ 1658/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=15903784; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư mỏ sắt Qúy Xa - Ct"
+    },
+    "QĐ 1659/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FE5B34E736F8283E06347FE280AF5C2&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định sửa đổi, bổ sung một số điều của Quy định vị trí, chức năng, nhiệm vụ, quyền hạ"
+    },
+    "QĐ 167/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11207471&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới ban hành; sửa đổi, bổ sung; bãi bỏ trong l"
+    },
+    "QĐ 168/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11179827&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính bị bãi bỏ trong lĩnh vực công nghiệp địa phươn"
+    },
+    "QĐ 1688/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15471534&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Danh mục công trình và Chủ công trình phải tổ chức quan trắc khí tượn"
+    },
+    "QĐ 17/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-08",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10763223&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc công bố thủ tục hành chính nội bộ được sửa đổi, bổ sung trong lĩnh vực"
+    },
+    "QĐ 1710/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15658908&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành danh mục nhu cầu công nghệ tỉnh Lào Cai giai đoạn 2026-2030"
     },
     "QĐ 1720/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-29",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=5F0497A50E0BCDAAE06338FE280A9087; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc kiện toàn Ban Chỉ đạo và Tổ giúp việc Ban Chỉ đạo công tác quản lý, bảo"
+    },
+    "QĐ 1723/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15655941&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phân loại đơn vị hành chính các xã, phường trên địa bàn tỉnh Lào Cai"
+    },
+    "QĐ 1747/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15680412&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế hoạt động của Hội đồng công nhận hiệu quả áp dụng, khả năng nh"
+    },
+    "QĐ 1755/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=15684960; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục 01 thủ tục hành chính được sửa đổi, bổ sung lĩnh vực địa chất và"
+    },
+    "QĐ 177/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-26",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11214182&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phân công nhiệm vụ trong Lãnh đạo Bộ"
     },
     "QĐ 177/QĐ-BQL": {
       "ngay_ban_hanh": "2026-09-29",
@@ -393,17 +674,121 @@
       "ngay_hieu_luc": "2025-08-15",
       "ghi_chu": "Bồi thường, hỗ trợ, tái định cư (Lào Cai); Đ13 thưởng bàn giao mặt bằng sớm"
     },
+    "QĐ 1802/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16054174; chưa kiểm ngày hiệu lực; Quyết định cấp giấy phép sử dụng VLNCN thi công gói thầu số 31: Đường kết nối Mường La (Sơ"
+    },
+    "QĐ 1807/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-24",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16095530&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Về việc công bố Danh mục thủ tục hành chính mới phân cấp lĩnh vực biến đổi khí hậu thuộ"
+    },
+    "QĐ 1825/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16254908; chưa kiểm ngày hiệu lực; Quyết định phê duyệt phương án nổ mìn tại công trình thủy điện Ngòi Nhù 1A, xã Chiềng Ken,"
+    },
+    "QĐ 1829/QĐ-BTC": {
+      "ngay_ban_hanh": "2026-05-26",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16265668&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế tổ chức và hoạt động của Ban Tổ chức Hội thi Sáng tạo Kỹ thuật"
+    },
+    "QĐ 1850/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16280532; chưa kiểm ngày hiệu lực; Bãi bỏ Quyết định số 1216/QĐ-UBND ngày 12/7/2023 của Uỷ ban nhân dân tỉnh Yên Bái chấp thu"
+    },
+    "QĐ 1864/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16287178&t=0&hxl=; chưa kiểm ngày hiệu lực; Khảo sát năng lực của các doanh nghiệp theo Quyết định số 57/QĐ-TTg ngày 06/4/2026 của Thủ"
+    },
+    "QĐ 1872/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16287260&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy chế phối hợp thực hiện khảo sát, công bố giá vật liệu xây dựng trên địa bàn t"
+    },
+    "QĐ 1882/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16302205; chưa kiểm ngày hiệu lực; Quyết định cấp giấp phép sử dụng VLNCN khai thác mỏ đá vôi làm VLXD thường khu vực Huổi Qu"
+    },
     "QĐ 1883/QĐ-UBND": {
       "ghi_chu": "Uỷ quyền GĐ Sở cấp GCN huấn luyện KTAT VLNCN — KHÔNG phải uỷ quyền cấp GP sử dụng"
+    },
+    "QĐ 1896/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16321852&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc ban hành Quy chế hoạt động của Tổ công tác hướng dẫn, tư vấn giúp cấp x"
+    },
+    "QĐ 1918/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-01",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16322941&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc phê duyệt phương án ứng phó với thiên tai theo cấp độ rủi ro thiên tai trên địa bà"
+    },
+    "QĐ 1923/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-01",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16327683; chưa kiểm ngày hiệu lực; Quyết định điều chỉnh lý trình giấy phép sử dụng VLNCN của Công ty Duy Cương thi công thủy"
+    },
+    "QĐ 1954/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16359138; chưa kiểm ngày hiệu lực; Về việc điều chỉnh Quyết định thành lập Cụm công nghiệp Y Can."
+    },
+    "QĐ 1968/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16372123&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Điều chỉnh, phân bổ chi tiết kế hoạch đầu tư công năm 2026 - tỉnh Lào Cai"
+    },
+    "QĐ 2/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10709125&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định về trình tự, thời hạn lập, gửi, xét duyệt quyết toán theo niên độ đối với vốn đầu"
     },
     "QĐ 20/2025/QĐ-UBND": {
       "ngay_ban_hanh": "2025-08-29",
       "ngay_hieu_luc": "2025-09-10",
       "ghi_chu": "Bồi thường, hỗ trợ cây trồng, vật nuôi (Lào Cai)"
     },
+    "QĐ 20/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-08",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13486044&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Quy định một số nội dung về bảo vệ môi trường trên địa bàn tỉnh Lào Cai"
+    },
+    "QĐ 2001/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-08",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16406997&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Kế hoạch đấu giá quyền khai thác khoáng sản làm vật liệu xây dựng trê"
+    },
+    "QĐ 2029/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16427377&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Ban Chỉ đạo phát triển các Khu công nghiệp Võ Lao, Bản Qua, tỉnh Lào"
+    },
+    "QĐ 2030/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16427324&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ thành lập Ban Chỉ đạo phát triển các Khu công nghiệp Phú Xuân, Phú Xuân 1, Thống Nhất v"
+    },
+    "QĐ 2031/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16432182&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định của UBND tỉnh về việc Phân công trách nhiệm giữa cơ quan quản lý khu chức năng"
+    },
+    "QĐ 2067/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16478672&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế phối hợp quản lý nhà nước tại các khu công nghiệp, Khu kinh tế"
+    },
+    "QĐ 2071/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16478566&t=0&hxl=; chưa kiểm ngày hiệu lực; V/v phê duyệt điều chỉnh chủ trương đầu tư dự án Đường kết nối từ nút giao IC18 đến Cụm cô"
+    },
     "QĐ 2082/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-23",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E82A308BDBA3A42E06339FE280AD55C&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc thành lập đoàn kiểm tra xác minh hoạt động khai thác, mua bán đá quý tr"
+    },
+    "QĐ 2083/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16489360&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc đóng cửa mỏ khoáng sản quặng sắt tại khu vực thuộc xã Tân Hợp, tỉnh Lào"
+    },
+    "QĐ 2093/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16497447&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt kết quả trúng đấu giá quyền khai thác khoáng sản cát, sỏi trên sông H"
+    },
+    "QĐ 2094/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16497357&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt kết quả trúng đấu giá quyền khai thác khoáng sản cát, sỏi trên suối N"
+    },
+    "QĐ 2095/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16497614&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt kết quả trúng đấu giá quyền khai thác khoáng sản đá vôi làm vật liệu"
+    },
+    "QĐ 2099/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16497914&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án đầu tư nhà m"
     },
     "QĐ 21/2025/QĐ-UBND": {
       "ngay_ban_hanh": "2025-09-10",
@@ -415,21 +800,245 @@
       "ngay_hieu_luc": "2026-07-01",
       "ghi_chu": "Danh mục 10 nhóm công nghệ + 30 sản phẩm công nghệ chiến lược (SP 25 chế biến sâu khoáng sản, đất hiếm) — dacn-sct-vn ref 11"
     },
+    "QĐ 2100/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16497932&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án đầu tư nhà m"
+    },
+    "QĐ 2119/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16515698&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cho phép trả lại giấy phép khai thác mỏ felspat thôn Nậm Bó, xã Văn Bàn của Côn"
+    },
+    "QĐ 212/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11350197&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Phê duyệt danh sách các cơ quan, đơn vị được xác minh tài sản, thu nhập năm 20"
+    },
+    "QĐ 213/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11235639&t=0&hxl=; chưa kiểm ngày hiệu lực; CHẤP THUẬN CHỦ TRƯƠNG ĐẦU TƯ ĐỒNG THỜI CHẤP THUẬN NHÀ ĐẦU TƯ Dự án Nhà máy sản xuất viên g"
+    },
+    "QĐ 214/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11231140&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ủy quyền giải quyết các thủ tục hành chính trong lĩnh vực Năng lượng nguyên tử,"
+    },
     "QĐ 2159/QĐ-BCT": {
       "ngay_ban_hanh": "2026-09-04",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17361626; chưa kiểm ngày hiệu lực; Quyết định ban hành Kế hoạch triển khai Quyết định số 808/QĐ-TTg ngày 06 tháng 5 năm 2026"
+    },
+    "QĐ 2167/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16558852&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc công bố địa bàn ưu đãi đầu tư cấp xã trên địa bàn tỉnh Lào Cai"
+    },
+    "QĐ 217/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11239856&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc kiện toàn Ban Chỉ đạo An toàn thực phẩm tỉnh Lào Cai"
+    },
+    "QĐ 2170/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16560637&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quyết định chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư đối v"
+    },
+    "QĐ 218/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11231510&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung; thủ tục hành chính được"
+    },
+    "QĐ 2185/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16563423&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định điều chỉnh chủ trương đầu tư dự án: Khai thác mỏ đá vật liệu xây dựng thôn Bản"
     },
     "QĐ 2187/QĐ-BCT": {
       "ngay_ban_hanh": "2026-09-08",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17404805; chưa kiểm ngày hiệu lực; Quyết định ban hành Kế hoạch hành động của Bộ Công Thương thực hiện Chiến lược phát triển"
     },
+    "QĐ 2196/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16565470&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quyết định thành lập Tổ giúp việc cho Ban Chỉ đạo phát triển Khu công nghiệp Võ L"
+    },
+    "QĐ 2213/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-24",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16578831&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Bãi bỏ toàn bộ các Quyết định do Ủy ban nhân dân tỉnh Lào Cai và Ủy ban nhân d"
+    },
+    "QĐ 2232/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16589551&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Điện mặt trờ"
+    },
+    "QĐ 2233/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16589669&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Điện mặt trờ"
+    },
+    "QĐ 2234/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16589721&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Điện mặt trờ"
+    },
+    "QĐ 2235/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16589752&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Điện mặt trờ"
+    },
+    "QĐ 2239/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16597192&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ban hành Quyết định thành lập Tổ giúp việc cho Ban Chỉ đạo phát triển các Khu công"
+    },
+    "QĐ 224/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11240120&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế hoạt động của Ban Chỉ đạo về hội nhập quốc tế tỉnh Lào Cai"
+    },
+    "QĐ 2243/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16597547&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ban hành Quyết định thành lập Ban Tổ chức Hội nghị Xúc tiến đầu tư tỉnh Lào Cai"
+    },
+    "QĐ 2244/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16597288&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Điều chỉnh nội bộ kế hoạch đầu tư công vốn ngân sách tỉnh năm 2026 đối với Ban"
+    },
+    "QĐ 2259/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-26",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16617369&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế phối hợp trong công tác quản lý nhà nước về khí tượng thuỷ văn"
+    },
+    "QĐ 2269/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16629904&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cấp giấy phép sử dụng VLNCN thi công mỏ đá vôi làm vật liệu xây dựng thông thườ"
+    },
+    "QĐ 2272/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16636695&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định giao Sở Công Thương là cơ quan tiếp nhận hồ sơ đề nghị cấp, cấp lại, cấp điều c"
+    },
+    "QĐ 2282/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16645535&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt kết quả thẩm định Báo cáo đánh giá tác động môi trường Dự án Nhà máy sản xuất ph"
+    },
+    "QĐ 2283/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16654251&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt danh mục nhiệm vụ khoa học và công nghệ cấp tỉnh đặt hàng thực hiện n"
+    },
+    "QĐ 2290/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16645353&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt điều chỉnh dự án: Đường Vành đai 2 (đoạn DT 153 đi UBND xã Na Hối – N"
+    },
+    "QĐ 2298/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16649855&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Thành lập các Tiểu ban giúp việc Ban Tổ chức Hội nghị xúc tiến đầu tư tỉnh Lào"
+    },
+    "QĐ 2327/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16674672&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng"
+    },
+    "QĐ 2336/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16692303&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định - Chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư đối với Dự á"
+    },
+    "QĐ 2338/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16692205&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định - Chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư đối với Dự á"
+    },
+    "QĐ 2340/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16693012&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực An toàn thực p"
+    },
+    "QĐ 2379/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-08",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16740184&t=0&hxl=; chưa kiểm ngày hiệu lực; V/v ban hành danh mục lĩnh vực đầu tư, cho vay của Quỹ Đầu tư phát triển tỉnh Lào Cai, gia"
+    },
+    "QĐ 2390/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16759464&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về kế hoạch đầu tư công trung hạn giai đoạn 2026-2030 nguồn vốn ngân sách địa p"
+    },
+    "QĐ 2394/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16762503&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Thành lập Đoàn kiểm tra liên ngành công tác tổ chức thi hành pháp luật năm 202"
+    },
+    "QĐ 2396/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16762360&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới ban hành và bị bãi bỏ trong một số lĩnh vự"
+    },
     "QĐ 2405/QĐ-BCT": {
       "ngay_ban_hanh": "2026-09-25",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17605933; chưa kiểm ngày hiệu lực; Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực thương"
     },
+    "QĐ 2428/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16802062&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án Nhà"
+    },
+    "QĐ 243/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11248694&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố thủ tục hành chính mới ban hành, bị bãi bỏ tại Nghị định số 374/2025/NĐ-CP"
+    },
+    "QĐ 2430/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16802133&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc thay đổi Phó Trưởng Ban Thường trực Ban Chỉ đạo phát triển kinh tế tập"
+    },
+    "QĐ 2433/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16802722&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc cho Công ty Cổ phần công nghiệp EUP thuê đất (giai đoạn 1)"
+    },
+    "QĐ 2447/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16812810&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cấp giấy phép VLNCN thi công Gói thầu số SFD-XL02 đường Văn Yên - Khánh Hòa, đo"
+    },
+    "QĐ 2452/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16813419&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công nhận cán bộ, công chức làm đầu mối thực hiện công tác kiểm soát thủ tục hành"
+    },
+    "QĐ 2458/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16823891&t=0&hxl=; chưa kiểm ngày hiệu lực; V/v chấp thuạn chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án Nhà máy chưng cất t"
+    },
+    "QĐ 2462/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16824498&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quyết định phê duyệt bổ sung danh mục dự án thu hút đầu tư trên địa bàn tỉnh Lào"
+    },
+    "QĐ 2465/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16824201&t=0&hxl=; chưa kiểm ngày hiệu lực; Chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư dự án: Liên kết hợp tác t"
+    },
+    "QĐ 2468/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16828815&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chủ trương đầu tư dự án khai thác quặng apatit Làng Cóc và Làng Cáng 1, xã Hợp"
+    },
     "QĐ 2469/QĐ-BCT": {
       "ngay_ban_hanh": "2026-10-01",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17677803; chưa kiểm ngày hiệu lực; Quyết định về việc công bố tái cấu trúc quy trình giải quyết thủ tục hành chính có thành p"
+    },
+    "QĐ 247/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11257116&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cấp giấy phép sử dụng VLNCN thi công Gói thầu số 14 đường kết nối Mường La (Sơn"
+    },
+    "QĐ 250/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11268431&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc khen thưởng thành tích xuất sắc trong thực hiện Nghị quyết số 18-NQ/TW ngày 25/10/"
+    },
+    "QĐ 2501/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-21",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16865349&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ban hành Quy định về tiêu chí và nguyên tắc lựa chọn chủ đầu tư xây dựng hạ tầng k"
+    },
+    "QĐ 2518/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16880150&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt kết quả thẩm định Báo cáo đánh giá tác động môi trường của dự án Đầu"
+    },
+    "QĐ 2534/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16892401&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Về việc thành lập Tổ Soạn thảo và nhóm Kỹ thuật xây dựng Quy chuẩn kỹ thuật địa phương"
+    },
+    "QĐ 2548/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16904361&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư đối với Dự án"
+    },
+    "QĐ 2549/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16904502&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Hội đồng và Tổ giúp việc Hội đồng lựa chọn nhà đầu tư CCN Tân Nguyên"
+    },
+    "QĐ 255/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-01",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16761828&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ ban hành Quy định vị trí, chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức của phòng Kin"
+    },
+    "QĐ 2565/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16923939&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng"
+    },
+    "QĐ 2569/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16926420&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quyết định bãi bỏ Quyết định số 2121/QĐ-UBND ngày 28/8/2023 của Uỷ ban nhân dân t"
+    },
+    "QĐ 2570/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16926505&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ ban hành Danh mục ngành, nghề, lĩnh vực ưu tiên phát triển kinh tế - xã hội của tỉnh Là"
     },
     "QĐ 2581/QĐ-TTG": {
       "ngay_ban_hanh": "2025-11-24",
@@ -448,6 +1057,10 @@
       "ngay_ban_hanh": "2026-07-29",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16961020&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế quản lý, vận hành, kết nối, chia sẻ dữ liệu và bảo đảm an ninh"
     },
+    "QĐ 262/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12783026&t=0&hxl=; chưa kiểm ngày hiệu lực; Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh"
+    },
     "QĐ 2620/QĐ-UBND": {
       "ngay_ban_hanh": "2026-07-29",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16959888&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Quy trình thực hiện dịch vụ sự nghiệp công sử dụng ngân sách nhà nước"
@@ -463,6 +1076,10 @@
     "QĐ 2657/QĐ-BCT": {
       "ngay_ban_hanh": "2026-10-14",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5DC39FCB43A43EB0E06339FE280A8221&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Chương trình hành động của Bộ Công Thương thực hiện các Nghị quyết của"
+    },
+    "QĐ 268/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11280982&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt Chương trình phát triển nhà ở tỉnh Lào Cai giai đoạn 2021-2030"
     },
     "QĐ 2680/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-02",
@@ -496,6 +1113,14 @@
       "ngay_ban_hanh": "2026-08-06",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17051696&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ về việc điều chỉnh, bổ sung Danh mục dịch vụ sự nghiệp công sử dụng ngân sách nhà nước"
     },
+    "QĐ 276/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11284065&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt kết quả thẩm định Báo cáo đánh giá tác động môi trường của dự án đầu"
+    },
+    "QĐ 28/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14732017&t=0&hxl=; chưa kiểm ngày hiệu lực; Sửa đổi, bổ sung một số điều của Quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước"
+    },
     "QĐ 2804/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-11",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17099141&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc kiện toàn Tổ công tác liên ngành và Tổ giúp việc xây dựng, điều chỉnh Bảng giá tín"
@@ -526,6 +1151,18 @@
       "ngay_ban_hanh": "2026-11-02",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F57BE7B90E430E5E06338FE280A04ED&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phê duyệt Quy chế hoạt động của Tổ công tác triển khai các nhiệm vụ của"
     },
+    "QĐ 29/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=14824349&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy định về chế độ nâng bậc lương thường xuyên, nâng bậc lương trước t"
+    },
+    "QĐ 2906/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F6EAE4FC6E1D263E06347FE280A38C6&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc sửa đổi, bổ sung Kế hoạch theo dõi tình hình thi hành pháp luật; Kế hoạ"
+    },
+    "QĐ 2907/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F6EAEA9A0B5C121E06347FE280A9F30&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc thành lập Hội đồng thẩm định kết quả xác định chi phí đánh giá tiềm năn"
+    },
     "QĐ 2913/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-18",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17180695; chưa kiểm ngày hiệu lực; Chấp thuận điều chỉnh chủ trương đầu tư Dự án Chăn nuôi, chế biến thỏ công nghệ cao"
@@ -537,6 +1174,10 @@
     "QĐ 2937/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-20",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17203890; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt kết quả trúng đấu giá quyền khai thác khoáng sản mỏ đá vôi làm vật li"
+    },
+    "QĐ 2938/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F826A0F1AFFE3E5E06348FE280A12F3&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế hoạt động của Hội đồng thẩm định kết quả xác định chi phí đánh"
     },
     "QĐ 2938/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-20",
@@ -642,6 +1283,10 @@
       "ngay_ban_hanh": "2026-08-26",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17284420; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư của dự án đầu tư:"
     },
+    "QĐ 31/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15254422&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Quy định đặc điểm kinh tế - kỹ thuật của hàng hóa, dịch vụ thực hiện định giá,"
+    },
     "QĐ 3105/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-27",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17294551; chưa kiểm ngày hiệu lực; V/v phê duyệt chủ trương đầu tư dự án Khu tái định cư Phú Xuân, xã Gia Phú, tỉnh Lào Cai"
@@ -670,6 +1315,14 @@
       "ngay_ban_hanh": "2026-09-04",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17354270; chưa kiểm ngày hiệu lực; Quyết định chấp thuận điều chỉnh chủ trương đầu tư Dự án đầu tư xây dựng công trình khai t"
     },
+    "QĐ 32/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-05-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15657857&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định về cải tạo, chỉnh trang đối với khu vực đô thị không bảo đảm hạ tầng giao thông h"
+    },
+    "QĐ 322/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-02-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11883070&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế làm việc của Bộ Công Thương"
+    },
     "QĐ 3255/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-10",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17421862; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Danh mục nguồn nước mặt nội tỉnh trên địa bàn tỉnh Lào Cai"
@@ -677,6 +1330,10 @@
     "QĐ 3259/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-10",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17456192&t=0&hxl=; chưa kiểm ngày hiệu lực; Giấy phép môi trường cho Nhà máy chế biến Cácbonat Canxi của Công ty Cổ phần xi măng Yên B"
+    },
+    "QĐ 326/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11325421&t=0&hxl=; chưa kiểm ngày hiệu lực; Chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư dự án: Đầu tư xây dựng nh"
     },
     "QĐ 3271/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-11",
@@ -735,6 +1392,10 @@
       "ngay_ban_hanh": "2026-09-17",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17505519&t=0&hxl=; chưa kiểm ngày hiệu lực; Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư Dự án Nhà máy sản xuất và xuấ"
     },
+    "QĐ 338/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11350874&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành quy chế hoạt động của Hội đồng thẩm định đề án thăm dò khoáng sản, Hội"
+    },
     "QĐ 3382/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-18",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17522293; chưa kiểm ngày hiệu lực; Quyết định Phê duyệt dự án: Đường kết nối từ nút giao IC18 đến Cụm công nghiệp Thống Nhất"
@@ -742,6 +1403,10 @@
     "QĐ 3383/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-18",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17522671; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc phê duyệt kết quả thẩm định Báo cáo đánh giá tác động môi trường của Dự"
+    },
+    "QĐ 340/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FD916707F7E6AF0E06347FE280A196D&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt kế hoạch ứng phó sự cố tràn dầu của cơ sở Cửa hàng bán lẻ xăng dầu số"
     },
     "QĐ 3411/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-21",
@@ -786,6 +1451,10 @@
     "QĐ 3475/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-26",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17607975; chưa kiểm ngày hiệu lực; Về việc ban hành Quyết định phê duyệt Chương trình xúc tiến đầu tư tỉnh Lào Cai năm 2027"
+    },
+    "QĐ 348/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11393362&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt phương án nổ mìn thi công gói thầu số 13: đoạn thi công từ Km0 - Km2+571 và khu"
     },
     "QĐ 3480/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-27",
@@ -904,6 +1573,10 @@
       "ngay_ban_hanh": "2026-10-02",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17692022&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh"
     },
+    "QĐ 363/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11425242&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về điều chỉnh nội dung Giấy phép khai thác khoáng sản tại khu vực đá vôi Vực Tu"
+    },
     "QĐ 3640/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-05",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17743293; chưa kiểm ngày hiệu lực; Phê duyệt Đề án sắp xếp tổ chức lại bộ máy hành chính trực thuộc Sở Nông nghiệp và Môi trư"
@@ -931,6 +1604,10 @@
     "QĐ 3677/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-07",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17744701; chưa kiểm ngày hiệu lực; QĐ Thành lập Hội đồng thẩm định hồ sơ dự thảo Quy chuẩn kỹ thuật địa phương về chất lượng"
+    },
+    "QĐ 370/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11433960&t=0&hxl=; chưa kiểm ngày hiệu lực; ban hành Quy chế quản lý, bảo mật thông tin các cuộc họp, hội nghị của Ủy ban nhân dân tỉn"
     },
     "QĐ 3725/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-09",
@@ -971,6 +1648,10 @@
     "QĐ 379/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-18",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=5E342FD4FDEE0E6DE06339FE280A3139; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt điều chỉnh Quy hoạch chung xã Nậm Xé, tỉnh Lào Cai. Mã số thông tin q"
+    },
+    "QĐ 38/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-07",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10725028&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính các lĩnh vực: Điện"
     },
     "QĐ 3810/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-14",
@@ -1068,6 +1749,10 @@
       "ngay_ban_hanh": "2026-10-21",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=5E640D7C73FF8616E06339FE280A2ED7; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế phối hợp trong công tác thanh tra, kiểm tra, giám sát hoạt độn"
     },
+    "QĐ 393/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-07",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11479701&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Ban hành Quy định quản lý theo Quy hoạch chung xây dựng Khu du lịch Quốc gia hồ Thác Bà"
+    },
     "QĐ 3931/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-21",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=5E640712C52B8607E06339FE280A6A89; chưa kiểm ngày hiệu lực; Về việc thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng"
@@ -1112,9 +1797,21 @@
       "ngay_ban_hanh": "2026-10-23",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E83A0CA38D74DE6E06339FE280AFA37&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt dự án Sửa chữa nền, mặt đường từ Km2+600 - Km4+300; Km5+800 - Km7+400 và sửa chữ"
     },
+    "QĐ 398/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11850496&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Thành lập Ban Chỉ đạo Phong trào “Toàn dân tham gia bảo vệ chủ quyền lãnh thổ,"
+    },
     "QĐ 3998/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-26",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5EB9A44575E198A4E06339FE280A3F42&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc thành lập Ban Chỉ đạo thực hiện Chương trình mục tiêu quốc gia phát tri"
+    },
+    "QĐ 4/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11286844&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Ban hành Quy định chi tiết một số điều của Luật Trật tự, an toàn giao thông đư"
+    },
+    "QĐ 4/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10846601&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt Quy hoạch chi tiết dự án: Nhà máy tuyển quặng apatit nghèo tại tỉnh L"
     },
     "QĐ 40/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-05-31",
@@ -1206,6 +1903,10 @@
       "ngay_ban_hanh": "2026-11-02",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F470BC373303458E06338FE280AA0E0&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án Trường mầm non Mường Bo"
     },
+    "QĐ 41/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16472759&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định các trường hợp không có tính khả thi và mức độ khôi phục lại tình trạng ban đầu c"
+    },
     "QĐ 4100/QĐ-UBND": {
       "ngay_ban_hanh": "2026-11-02",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F464FE7EFE11E33E06338FE280A898D&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án: Trường Trung học cơ sở Sa Pa, phường Sa Pa"
@@ -1222,48 +1923,180 @@
       "ngay_ban_hanh": "2026-11-03",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5938B5CC4F5D3AE06338FE280A5D00&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới trong lĩnh vực đăng ký, quản lý cư trú thu"
     },
+    "QĐ 4125/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5A60BE779F6FB4E06338FE280A3FD8&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành cơ chế giám sát, đánh giá tiến trình xây dựng và thực hiện kế hoạch cả"
+    },
+    "QĐ 4126/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5A244F79D76F03E06338FE280AAE5A&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Điều chỉnh nội bộ trong tổng kế hoạch vốn được HĐND tỉnh giao đối với kế hoạch"
+    },
+    "QĐ 4127/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5B0F4ADDB58829E06338FE280A87BD&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ban hành Quyết định phê duyệt “Đề án phát triển kinh tế ban đêm tỉnh Lào Cai"
+    },
+    "QĐ 4130/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-03",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5AF7415F04884DE06338FE280AB05B&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc ban hành Phương án điều tra Thu nhập bình quân đầu người cấp xã trên đị"
+    },
+    "QĐ 414/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-07",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13463921&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phê duyệt Đề án và thành lập Ban Quản lý dự án đầu tư xây dựng xã Trấn"
+    },
     "QĐ 4147/QĐ-UBND": {
       "ngay_ban_hanh": "2026-11-04",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F69EB46FB606F6BE06347FE280AD861&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định điều chỉnh nội dung giấy phép khai thác khoáng sản đá làm vật liệu xây dựng thô"
     },
+    "QĐ 4153/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F6EACD57A16D2A0E06347FE280A213A&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Kiện toàn Hội đồng tư vấn kỹ thuật thẩm định báo cáo kết quả thăm dò khoáng sản"
+    },
+    "QĐ 4154/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F6E8757B78908C1E06348FE280AFA1A&t=0&hxl=; chưa kiểm ngày hiệu lực; Thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng"
+    },
+    "QĐ 4157/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F6E9B218E8B0927E06348FE280AC7A6&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư Dự án xây dựng khu đô thị mới Yên Ninh, phường Yên"
+    },
+    "QĐ 4158/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F748F1B89DB6328E06347FE280A09EF&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt khu vực không đấu giá quyền khai thác khoáng sản đối với khu vực quar"
+    },
+    "QĐ 4167/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F833F825008530DE06347FE280A1BB2&t=0&hxl=; chưa kiểm ngày hiệu lực; Kiện toàn Hội đồng thẩm định Đề án thăm dò khoáng sản tỉnh Lào Cai"
+    },
+    "QĐ 4168/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F852909FB891530E06348FE280ACE62&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc cử Đoàn đại biểu tỉnh Lào Cai tham dự Hội chợ Kinh tế Thương mại và Du"
+    },
+    "QĐ 4169/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F8355A95B1852DAE06348FE280A1F2A&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án: Trường Mầm non Sa Pa, phường Sa Pa"
+    },
+    "QĐ 4170/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F8383C542707385E06347FE280A4472&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của Chủ tịch Ủy ba"
+    },
     "QĐ 42/2026/QĐ-TTG": {
       "ngay_hieu_luc": "2026-09-25",
       "ghi_chu": "Danh mục cơ sở kiểm kê KNK (18 cơ sở công thương Lào Cai)"
+    },
+    "QĐ 420/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11538072&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc phê duyệt kịch bản thực hiện các chỉ tiêu kinh tế - xã hội năm 2026 tỉnh Lào Cai"
+    },
+    "QĐ 4202/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FD9064D96C56C79E06347FE280A561D&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt danh mục các dự án trọng điểm của tỉnh Lào Cai giai đoạn 2026-20230"
+    },
+    "QĐ 4203/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FD914A340C9BB80E06348FE280A3D16&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận điều chỉnh chủ trương đầu tư dự án Thủy điện Nậm Hô"
+    },
+    "QĐ 4216/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FE714174A483194E06347FE280A60BA&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Kịch bản chi tiết ứng phó với các đe dọa an ninh phi truyền thống trườ"
+    },
+    "QĐ 4217/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FE75CEA7CCD3381E06347FE280A5214&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố thủ tục hành chính nội bộ mới ban hành giữa các cơ quan hành chính nhà nướ"
+    },
+    "QĐ 4218/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FE7184A377332F1E06347FE280A3D24&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Kiện toàn Ban Chỉ đạo bảo vệ sân bay Yên Bái."
+    },
+    "QĐ 4224/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FEE5EAF99DCA05EE06347FE280A613F&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án thủy điện Nậ"
     },
     "QĐ 43/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-16",
       "ngay_hieu_luc": "2026-06-25",
       "ghi_chu": "Giám sát, nghiệm thu sản phẩm dịch vụ công lĩnh vực đất đai dùng NSNN (Lào Cai)"
     },
+    "QĐ 433/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11568938&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính trong lĩnh vực hóa"
+    },
+    "QĐ 438/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11569299&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung; thay thế trong lĩnh vực"
+    },
+    "QĐ 439/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11569545&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới ban hành, thủ tục hành chính được sửa đổi,"
+    },
     "QĐ 44/2021/QĐ-UBND": {
       "ngay_ban_hanh": "2021-08-11",
       "bi_thay_the_boi": "QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026)",
       "ghi_chu": "Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ"
+    },
+    "QĐ 45/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11495452&t=0&hxl=; chưa kiểm ngày hiệu lực; V.v Quyết định cho Công ty Cổ phần phát triển công nghiệp TKC thuê đất (lần 2)"
     },
     "QĐ 453/QĐ-TTg": {
       "ngay_ban_hanh": "2026-03-18",
       "ngay_hieu_luc": "2026-03-18",
       "ghi_chu": "Đề án cửa khẩu thông minh tại lối thông quan cầu đường bộ Kim Thành và lối thông quan Bản Vược thuộc cửa khẩu quốc tế Lào Cai; đối chiếu bản scan 07/10/2026 (dacn-sct-vn ref 13)"
     },
+    "QĐ 460/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11620123&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế bảo đảm an ninh mạng, an toàn thông tin đối với các hệ thống t"
+    },
     "QĐ 47/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-28",
       "ngay_hieu_luc": "2026-06-28",
       "ghi_chu": "Trình tự, thủ tục hành chính về đất đai tỉnh Lào Cai; PCT Nguyễn Thành Sinh ký"
+    },
+    "QĐ 48/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16661272&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định một số nội dung khi áp dụng phương pháp thặng dư để xác định giá đất và các yếu t"
+    },
+    "QĐ 482/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11642725&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Danh mục và phân công cơ quan chủ trì soạn thảo văn bản quy định chi tiết các luậ"
+    },
+    "QĐ 484/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11668915&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc phê duyệt Báo cáo Tổng quan hiện trạng môi trường giai đoạn 2021 - 2025"
     },
     "QĐ 49/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-30",
       "ngay_hieu_luc": "2026-07-15",
       "ghi_chu": "Quy định chi tiết thi hành Luật Đất đai tại Lào Cai (hạn mức, tách thửa…)"
     },
+    "QĐ 499/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11870739&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Thành lập Đoàn kiểm tra công vụ trên địa bàn tỉnh Lào Cai năm 2026"
+    },
     "QĐ 5/2025/QĐ-UBND": {
       "ngay_ban_hanh": "2025-07-01",
       "ngay_hieu_luc": "2025-07-01",
       "ghi_chu": "Chức năng, nhiệm vụ, cơ cấu tổ chức Sở Công Thương"
     },
+    "QĐ 50/QĐ-BCH": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11903530&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ vv miễn nhiệm cán bộ Ban chỉ huy quân sự cơ quan, tổ chức"
+    },
+    "QĐ 506/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11904676&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận điều chỉnh chủ trương đầu tư của Dự án đầu tư xây dựng kết cấu hạ tầ"
+    },
+    "QĐ 51/QĐ-BCH": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11903655&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ vv bổ nhiệm cán bộ Ban Chỉ huy quân sự cơ quan, tổ chức"
+    },
     "QĐ 5116/QĐ-SCT": {
       "ngay_ban_hanh": "2026-08-20",
       "ngay_hieu_luc": "2026-08-20",
       "ghi_chu": "Giao PTP phụ trách khoáng sản + CV QLCN lập biên bản VPHC khoáng sản — bản ký số xp-sct-vn/van-ban-goc/khoang-san"
+    },
+    "QĐ 52/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16719162&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy định về định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu đất đai"
     },
     "QĐ 520/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-07",
@@ -1272,6 +2105,50 @@
     "QĐ 525/QĐ-UBND": {
       "ngay_ban_hanh": "2026-02-25",
       "ghi_chu": "Quy hoạch tỉnh Lào Cai (điều chỉnh)"
+    },
+    "QĐ 539/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-02-28",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12012090&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Bãi bỏ toàn bộ một số Quyết định của Ủy ban nhân dân tỉnh Yên Bái trước sáp nhậ"
+    },
+    "QĐ 54/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15516465&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết đinh chấm dứt hoạt dộng của dự án đầu tư của Công ty Công ty TNHH thương mại tổng hợ"
+    },
+    "QĐ 55/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-05-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=15516471&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấm dứt hoạt dộng của dự án đầu tư của Công ty TNHH thương mại dịch vụ Bắc Sôn"
+    },
+    "QĐ 553/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12018066&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung; bãi bỏ trong"
+    },
+    "QĐ 558/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12028462&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Ban hành Quy chế hoạt động của Ban Tuyển sinh Quân sự tỉnh Lào Cai"
+    },
+    "QĐ 560/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-02",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12046309&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Về việc ban hành Quy chế hoạt động của Ban Chỉ đạo an toàn thực phẩm tỉnh Lào Cai"
+    },
+    "QĐ 569/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12091679&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Ban hành Quy chế Hoạt động của Ban Chỉ đạo Đề án 1371 tỉnh Lào Cai"
+    },
+    "QĐ 57/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-07-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16884448&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Quy định hành lang bảo vệ đê cấp IV, V trên địa bàn tỉnh Lào Cai."
+    },
+    "QĐ 570/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-04",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12116999&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Kế hoạch đấu giá quyền khai thác khoáng sản làm vật liệu xây dựng thô"
+    },
+    "QĐ 580/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12133181&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành danh mục và dự kiến kinh phí thực hiện dự án/hoạt động công nghệ thông"
+    },
+    "QĐ 581/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12133421&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc thành lập cụm công nghiệp Bảo Minh Phường Âu Lâu, tỉnh Lào Cai"
     },
     "QĐ 59/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-07-30",
@@ -1282,6 +2159,22 @@
       "ngay_hieu_luc": "2025-07-01",
       "bi_thay_the_boi": "QĐ 6226/QĐ-SCT (02/10/2026)",
       "ghi_chu": "Quy định CNNV Văn phòng và các phòng thuộc Sở Công Thương (lịch sử) — thay bằng QĐ 6226/QĐ-SCT ngày 02/10/2026"
+    },
+    "QĐ 59/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-04-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13362512&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc kiện toàn Ban chỉ đạo An toàn thực phẩm Trên địa bàn xã Mường Khương"
+    },
+    "QĐ 595/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12290118&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Phương án ứng phó thiên tai trên địa bàn tỉnh Lào Cai trong thời gian tổ chức bầu"
+    },
+    "QĐ 596/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12289949&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ủy quyền thực hiện một số nội dung thuộc thẩm quyền của Ủy ban nhân dân tỉnh và áp"
+    },
+    "QĐ 607/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12319882&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt Đề cương và dự toán kinh phí xây dựng Kế hoạch phát triển nhà ở tỉnh Lào Cai gia"
     },
     "QĐ 62/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-10",
@@ -1300,6 +2193,10 @@
       "ngay_ban_hanh": "2026-10-06",
       "ngay_hieu_luc": "2026-10-06",
       "ghi_chu": "Phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc (GĐ + 6 PGĐ); GĐ Hoàng Chí Hiền ký; thay QĐ 766/QĐ-SCT; đối chiếu bản gốc 22/10/2026"
+    },
+    "QĐ 648/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-04-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13419614&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định sửa đổi, bổ sung một số Điều của Quyết định số 139/QĐ-BCT ngày 20/01/2026 của B"
     },
     "QĐ 65/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-14",
@@ -1321,9 +2218,69 @@
       "ngay_ban_hanh": "2026-01-09",
       "ghi_chu": "Uỷ quyền cấp GCN ATTP"
     },
+    "QĐ 687/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13038451&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Bãi bỏ các Quyết định do Ủy ban nhân dân tỉnh Lào Cai và Ủy ban nhân dân tỉnh Y"
+    },
+    "QĐ 688/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12542338&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Xây d"
+    },
+    "QĐ 692/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12491190&t=0&hxl=; chưa kiểm ngày hiệu lực; Bãi bỏ một số Quyết định của Ủy ban nhân dân tỉnh Lào Cai và Ủy ban nhân dân tỉnh Yên Bái"
+    },
+    "QĐ 695/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12500399&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy chế hoạt động của Hội đồng Tư vấn đánh giá an toàn đập, hồ chứa nước trên địa"
+    },
+    "QĐ 7/QĐ-BQLKCN": {
+      "ngay_ban_hanh": "2026-01-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10832270&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc thành lập Hội đồng thẩm định Quy hoạch các khu công nghiệp do Ban Quản"
+    },
+    "QĐ 70/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10761204&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt danh mục đập, hồ chứa nước trên địa bàn tỉnh Lào Cai"
+    },
+    "QĐ 704/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12559288&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung, thay thế lĩnh vực thủy"
+    },
+    "QĐ 729/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-19",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12617156&t=0&hxl=; chưa kiểm ngày hiệu lực; Thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng"
+    },
+    "QĐ 730/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-19",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12616844&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc Ủy quyền cho Giám đốc Sở Công Thương thực hiện một số nhiệm vụ trong lĩnh vực Quản"
+    },
+    "QĐ 734/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-19",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12618771&t=0&hxl=; chưa kiểm ngày hiệu lực; Chấp thuận điều chỉnh chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án: Kinh doanh"
+    },
     "QĐ 74/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-14",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17468100&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy định về phạm vi vùng phụ cận và cắm mốc chỉ giới phạm vi bảo vệ công trình th"
+    },
+    "QĐ 744/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-20",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12642850&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt Báo cáo đánh giá tác động môi trường dự án khai thác đá làm VLXD thôn"
+    },
+    "QĐ 752/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-21",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12741527&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Bộ Chỉ số đánh giá, xếp hạng chuyển đổi số (DTI) của các cơ quan nhà"
+    },
+    "QĐ 753/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-21",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12741298&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Ban hành Quy chế hoạt động của Hội đồng công nhận hiệu quả áp dụng, khả năng nh"
+    },
+    "QĐ 754/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-21",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12741629&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc Bãi bỏ toàn bộ một số quyết định do Ủy ban nhân dân tỉnh Lào Cai và Ủy"
+    },
+    "QĐ 757/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-22",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12742784&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt phương án nổ mìn mỏ đá làm VLXD bản mỏ Đá, xã Xuân Hòa, tỉnh Lào Cai"
     },
     "QĐ 76/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-21",
@@ -1338,22 +2295,86 @@
       "ngay_ban_hanh": "2026-09-22",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17560423; chưa kiểm ngày hiệu lực; Quyết định Ban hành Quy định định mức kinh tế - kỹ thuật đối với hoạt động vận tải hành kh"
     },
+    "QĐ 772/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13431183&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc ủy quyền quyết định giá đất cụ thể thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân t"
+    },
+    "QĐ 783/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12828517&t=0&hxl=; chưa kiểm ngày hiệu lực; Thành lập Tổ đánh giá công tác phòng, chống tham nhũng tỉnh Lào Cai năm 2025"
+    },
+    "QĐ 784/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12830138&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định điều chỉnh dự án đầu tư mở rộng nâng công suất khai thác và tuyển quặng mỏ sắt"
+    },
+    "QĐ 785/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12831098&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Bãi bỏ toàn bộ Quyết định số 686/2004/QĐ-UBND ngày 19/11/2004 của Ủy ban nhân d"
+    },
+    "QĐ 787/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12833970&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận điều chỉnh chủ trương đầu tư dự án đầu tư xây dựng công trình khai t"
+    },
+    "QĐ 79./QĐ-BCĐ": {
+      "ngay_ban_hanh": "2026-05-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16242308&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc thành lập các Đoàn nghiệm thu cấp tỉnh thực hiện Tổng điều tra kinh tế"
+    },
+    "QĐ 79/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-05-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-360-xem?documentId=16240649; chưa kiểm ngày hiệu lực; Quyết định chấp thuận đầu tư đồng thời chấp thuận nhà đầu tư dự án Kho chứa nguyên liệu và"
+    },
+    "QĐ 795/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-25",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12839878&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về việc giao biên chế công chức hành chính; số lượng người làm việc trong các đ"
+    },
     "QĐ 80/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-29",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17645956; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Quy định định mức kinh tế - kỹ thuật một số loại cây trồng, vật nuôi trên địa b"
     },
+    "QĐ 804/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-26",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12881204&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt giá khởi điểm, bước giá, tiền đặt trước cho các khu vực khoáng sản th"
+    },
     "QĐ 81/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-30",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17648357; chưa kiểm ngày hiệu lực; Ban hành quy định Định mức kinh tế - kỹ thuật điều tra, đánh giá đất đai trên địa bàn tỉnh"
+    },
+    "QĐ 816/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12921404&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Hội đồng tư vấn kỹ thuật thẩm định hồ sơ đề nghị cấp Giấy phép khai t"
+    },
+    "QĐ 818/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12922550&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính mới ban hành và thủ tục hành chính được sửa đổ"
+    },
+    "QĐ 822/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12927744&t=0&hxl=; chưa kiểm ngày hiệu lực; V/v bổ sung dự toán chi đầu tư phát triển và phân bổ chi tiết kế hoạch đầu tư công năm 202"
+    },
+    "QĐ 829/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-27",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=12934270&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định cấp giấy phép sử dụng VLNCN thi công mỏ đá làm VLXD tại mỏ Bản Mỏ Đá, xã Xuân H"
+    },
+    "QĐ 83/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10797207&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Về việc thành lập Đoàn kiểm tra liên ngành về an toàn thực phẩm trong dịp Tết nguyên đá"
     },
     "QĐ 836/QĐ-BXD": {
       "ngay_ban_hanh": "2019-10-14",
       "ngay_hieu_luc": "2019-10-14",
       "ghi_chu": "LỊCH SỬ — Kế hoạch tổ chức lập Quy hoạch KS làm VLXD 2021-2030 (Bộ trưởng Phạm Hồng Hà; căn cứ QĐ 995/QĐ-TTg 09/8/2018). KHÔNG phải quy hoạch, không có danh mục mỏ. Dự kiến TTg phê duyệt QH 10/2021, thực tế QĐ 1626/QĐ-TTg 15/12/2023 (chậm ~26 tháng) → lý do có QĐ 154/QĐ-TTg. Từ 15/9/2026 đầu mối là Bộ Công Thương. quy-hoach-ct-vn ref 10 mục V.2, ref 01 mục 5"
     },
+    "QĐ 837/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-03-29",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13037265&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc thành lập Hội đồng An toàn, vệ sinh lao động tỉnh Lào Cai"
+    },
     "QĐ 84/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-05",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17719038; chưa kiểm ngày hiệu lực; Quyết định Quy định một số nội dung về quản lý tài sản kết cấu hạ tầng cấp nước sạch trên"
+    },
+    "QĐ 84/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-12",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10797338&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Về việc ban hành Kế hoạch xây dựng Quy chuẩn kỹ thuật địa phương về chất lượng nước sạc"
     },
     "QĐ 849/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-14",
@@ -1369,9 +2390,33 @@
       "bi_sua_doi_boi": "QĐ 2581/QĐ-TTg (24/11/2025)",
       "ghi_chu": "Quy hoạch thăm dò, khai thác, chế biến, sử dụng các loại khoáng sản (nhóm I). KH thực hiện: QĐ 333/QĐ-TTg 23/4/2024. Bản thuyết minh QHT 07/6/2026 ghi nhầm ngày 17/8/2023 — ngày đúng 18/7/2023. Từ 15/9/2026 kiến nghị điều chỉnh gửi Bộ Công Thương"
     },
+    "QĐ 87/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11129278&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc công bố thủ tục hành chính mới ban hành, thủ tục hành chính sửa đổ"
+    },
     "QĐ 88/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-21",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E6408D42AA185FCE06339FE280ACB8A&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Ban hành Quy định định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hàn"
+    },
+    "QĐ 89/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-01-19",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11129273&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc kiện toàn thành viên Ban Chỉ huy Phòng thủ dân sự Bộ Công Thương"
+    },
+    "QĐ 89/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-06-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16437485&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định thành lập Hội đồng thẩm định nhiệm vụ quy hoạch, quy hoạch và điều chỉnh nhiệm"
+    },
+    "QĐ 9//2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11187631&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành hệ số điều chỉnh giá đất làm căn cứ tính tiền bồi thường về đất, giao đất tái địn"
+    },
+    "QĐ 9/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-01-05",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10695600&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định điều chỉnh chủ trương đầu tư đồng thời chấp thuận nhà đầu tư của dự án đầu tư x"
+    },
+    "QĐ 90/QĐ-BQL": {
+      "ngay_ban_hanh": "2026-06-10",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=16437493&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Quy chế hoạt động của Hội đồng thẩm định nhiệm vụ quy hoạch, quy hoạch"
     },
     "QĐ 905/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-29",

@@ -1,5 +1,9 @@
 # CHANGELOG — qlks-sct-vn
 
+## 2.5.0 — 12/11/2026 — Công bố 09 TTHC nội bộ khoáng sản của Sở Công Thương (QĐ 4217/QĐ-UBND), bãi bỏ TTHC của Sở NN&MT (QĐ 4231/QĐ-UBND)
+
+- `references/23` mục VII mới. Chi tiết: `CHANGELOG-v2026.11.12.md`.
+
 ## 2.4.1 — 04/11/2026 — QĐ 4147/QĐ-UBND điều chỉnh công suất mỏ đá Bản Cầm theo cơ chế đặc thù (ref 25 mục G.8)
 
 - Chi tiết: `CHANGELOG-v2026.11.04.md`.

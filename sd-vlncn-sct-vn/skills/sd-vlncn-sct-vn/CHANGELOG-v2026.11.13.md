@@ -23,3 +23,7 @@ cụm nhận dạng được chép từ Giấy phép số 914/GP-UBND ngày 26/8
 - **scripts/kiem_tra_dkdn.py** mới: so mã số trong dự thảo .docx với bản Giấy chứng nhận đăng ký doanh nghiệp
   (OCR tiếng Việt khi là bản scan), kiểm đầu mã theo tỉnh của cơ quan cấp, cảnh báo cơ quan cấp lỗi thời.
 - SKILL.md: thêm dòng mục lục anti-error 38 và dòng dẫn sổ lỗi tự ghi.
+
+## Bổ sung cùng ngày (bản 2026.11.13.2)
+
+- Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.

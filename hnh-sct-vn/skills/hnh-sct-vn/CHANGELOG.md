@@ -1,5 +1,9 @@
 # CHANGELOG hnh-sct-vn
 
+## v1.19.1 — 13/11/2026 — Hình thức xử lý giấy phép, giấy chứng nhận đã ban hành mà sai theo đề nghị của doanh nghiệp
+
+- Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.
+
 ## v1.19.0 — 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận: đúng thông tin, đúng mẫu
 
 - Thêm khối GATE vào SKILL.md (dữ kiện nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh; dựng đúng mẫu quy định;

@@ -136,6 +136,8 @@ Không dùng thủ tục **cấp lại** (khoản 2 Điều 39 Luật 42/2024 �
 hay **cấp điều chỉnh** (khoản 3 Điều 39 — chỉ khi thay đổi quy mô, điều kiện sử dụng) để sửa lỗi của cơ quan:
 Sở tự sửa sai sót của mình, **không yêu cầu doanh nghiệp nộp hồ sơ mới, không phát sinh thủ tục hành chính**.
 
+**Chọn hình thức xử lý theo đề nghị của doanh nghiệp (Bạn chốt 13/11/2026):** doanh nghiệp là bên sử dụng giấy phép (xuất trình với Công an, đơn vị cung ứng VLNCN, chủ đầu tư) nên đề xuất bằng văn bản hình thức cần xử lý — giấy phép thay thế hay công văn đính chính; Sở xem xét, giải quyết theo đề nghị đó trong khuôn khổ khoản 3 Điều 18 nêu trên. Sở không tự chọn thay doanh nghiệp. Chưa có văn bản đề nghị thì thông báo cho doanh nghiệp chỗ sai và hướng xử lý để doanh nghiệp đề nghị.
+
 Việc kèm theo khi phát hiện sai sót: (1) rà các giấy phép, quyết định khác đã cấp cho cùng doanh nghiệp vì lỗi
 thường chép lan từ văn bản đầu tiên; (2) cập nhật CSDL VLNCN; (3) ghi nguyên nhân vào anti-error để không lặp lại.
 

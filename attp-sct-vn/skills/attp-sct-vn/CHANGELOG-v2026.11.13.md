@@ -15,3 +15,7 @@ ghi quy tắc này vào mọi plugin có việc cấp giấy phép, giấy chứ
   để sửa lỗi của cơ quan.
 - `scripts/kiem_tra_dkdn.py`: script kiểm mã số doanh nghiệp trong dự thảo với bản gốc đăng ký kinh doanh (OCR bản scan),
   kiểm đầu mã theo tỉnh và cảnh báo cơ quan cấp lỗi thời.
+
+## Bổ sung cùng ngày (bản 1.9.1)
+
+- Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.

@@ -1,5 +1,11 @@
 # CHANGELOG — hl-vlncn-sct-vn
 
+## v1.7.0 — 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận: đúng thông tin, đúng mẫu
+
+- Thêm khối GATE vào SKILL.md (dữ kiện nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh; dựng đúng mẫu quy định;
+  xử lý khi đã ban hành mà sai theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP) và script `kiem_tra_dkdn.py`.
+  Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## 1.6.1 — 10/11/2026 — Mẫu 09, 10: trích yếu một đoạn liền tự xuống dòng; từ ngữ chuẩn theo Nghị định số 181/2024/NĐ-CP
 
 - Chi tiết: `CHANGELOG-v2026.11.10.md`.

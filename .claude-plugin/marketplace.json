@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.220"
+    "version": "4.11.221"
   },
   "plugins": [
     {
       "name": "attp-sct-vn",
       "source": "./attp-sct-vn",
       "description": "An toàn thực phẩm và công nghiệp tiêu dùng - thực phẩm, Sở Công Thương Lào Cai: cấp và CẤP LẠI GCN cơ sở đủ điều kiện ATTP, tự công bố và đăng tải sản phẩm, hậu kiểm, truy xuất (TT 63/2026/TT-BCT); thuốc lá, rượu, bia, nước giải khát, sữa, bánh kẹo; ranh giới 3 ngành. Ủy quyền QĐ 68/QĐ-UBND 09/01/2026; cắt giảm hồ sơ theo NQ 66.16/2026 từ 15/4/2026. Hộ kinh doanh chỉ gửi bản cam kết, không cấp GCN. CẢNH BÁO: NĐ 46/2026 tạm ngưng theo NQ 15/2026, áp dụng NĐ 15/2018. Kèm văn bản gốc, mẫu, ví dụ.",
-      "version": "1.8.0"
+      "version": "1.9.0"
     },
     {
       "name": "bpb-sct-vn",
@@ -36,19 +36,19 @@
       "name": "hc-sct-vn",
       "source": "./hc-sct-vn",
       "description": "QLNN hóa chất, Sở Công Thương Lào Cai, khung 2026 (Luật 69/2025, NĐ 24/25/26/2026, TT 01+02/2026) + lớp cắt giảm, phân cấp NQ 19/2026, TT 26/2026 (ref 18): thẩm định cấp phép; thẩm định Kế hoạch sự cố (cả Hội đồng Cục Hóa chất); hướng dẫn DN; kiểm tra; báo cáo; Chiến lược QĐ 726 (ref 19); soạn văn bản. Sổ theo dõi cơ sở, GCN/GP, kiểm tra, báo cáo (ref 20) — GATE tra sổ hoặc MCP tra_doanh_nghiep trước; sổ đi đường tự động web → plugin riêng → MCP (ref 21). CV 6395; kho thuê tỉnh khác (ref 16).",
-      "version": "1.9.4"
+      "version": "1.10.0"
     },
     {
       "name": "hl-vlncn-sct-vn",
       "source": "./hl-vlncn-sct-vn",
       "description": "Huan luyen, kiem tra, cap Giay chung nhan huan luyen ky thuat an toan vat lieu no cong nghiep (VLNCN), tien chat thuoc no (TCTN) - So Cong Thuong tinh Lao Cai; phan dinh voi khoi Bo Quoc phong theo TT 09/2026/TT-BQP. QD cong nhan chung ca lop (ban chot 26/10/2026, PGD Chien ky); CV tra loi van bang nuoc ngoai theo TT 65/2026/TT-BGDDT.",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "name": "hnh-sct-vn",
       "source": "./hnh-sct-vn",
       "description": "Vận chuyển hàng hóa nguy hiểm (HHNH) - Sở Công Thương Lào Cai: thẩm định, cấp phép loại 1 (trừ VLNCN, tiền chất thuốc nổ), 2, 3, 4, 5 (cả amoni nitrat), 8, 9; kết hợp hc-sct-vn; hướng dẫn doanh nghiệp; kiểm tra chuyên ngành; báo cáo. Khung: Luật 36/2024 Điều 51, NĐ 161/2024, NĐ 105/2025, TT 26/2026, QĐ 1696 + QĐ 2848/QĐ-UBND (ủy quyền loại 5, 8). Kèm văn bản gốc, checklist, bộ hồ sơ mẫu loại 8 (axit, ISO tank) và loại 5 (canxi hypoclorit, xe biển Trung Quốc); xuyên biên giới Việt - Trung.",
-      "version": "1.18.2"
+      "version": "1.19.0"
     },
     {
       "name": "kccn-sct-vn",
@@ -72,7 +72,7 @@
       "name": "qlks-sct-vn",
       "source": "./qlks-sct-vn",
       "description": "QLNN về địa chất, khoáng sản - Sở Công Thương Lào Cai. Từ 15/9/2026 Sở tiếp nhận toàn bộ chức năng từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP - GATE ref 23. Chỉ thị 17/CT-UBND 09/10/2026 (15 nhiệm vụ Sở, thay Chỉ thị hai tỉnh cũ): ref 25; Phòng QL Khoáng sản ký hiệu SCT-KS. 13 nghiệp vụ: phân vai theo thời kỳ; quản lý rủi ro; chế biến, nguồn gốc; đối chiếu VLNCN - sản lượng; thu hồi khoáng sản; Hội đồng thăm dò (QĐ 777); viện dẫn NQ 10-NQ/TW, NQ 88, QĐ 334 (ref 24). Luật 54/2024, NĐ 193/2025.",
-      "version": "2.5.0"
+      "version": "2.6.0"
     },
     {
       "name": "quy-hoach-ct-vn",

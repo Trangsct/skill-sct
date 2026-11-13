@@ -1,5 +1,11 @@
 # CHANGELOG — qlks-sct-vn
 
+## v2.6.0 — 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận: đúng thông tin, đúng mẫu
+
+- Thêm khối GATE vào SKILL.md (dữ kiện nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh; dựng đúng mẫu quy định;
+  xử lý khi đã ban hành mà sai theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP) và script `kiem_tra_dkdn.py`.
+  Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## 2.5.0 — 12/11/2026 — Công bố 09 TTHC nội bộ khoáng sản của Sở Công Thương (QĐ 4217/QĐ-UBND), bãi bỏ TTHC của Sở NN&MT (QĐ 4231/QĐ-UBND)
 
 - `references/23` mục VII mới. Chi tiết: `CHANGELOG-v2026.11.12.md`.

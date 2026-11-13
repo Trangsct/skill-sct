@@ -1,5 +1,11 @@
 # CHANGELOG - attp-sct-vn
 
+## v1.9.0 — 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận: đúng thông tin, đúng mẫu
+
+- Thêm khối GATE vào SKILL.md (dữ kiện nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh; dựng đúng mẫu quy định;
+  xử lý khi đã ban hành mà sai theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP) và script `kiem_tra_dkdn.py`.
+  Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## 1.8.0 — 07/11/2026 — Rượu: NQ 66.18/2026/NQ-CP không thực hiện cấp giấy phép, điều kiện kinh doanh; nhập khẩu rượu
 
 - ref 07 mục 0 (bảng cắt giảm, chuyển tiếp, khoảng trống khoản 1 Điều 30 NĐ 105/2017, cách trả lời doanh nghiệp); SKILL.md, ref 09 cập nhật; sửa lỗi mã hóa ref 06, 09; rule `giay-phep-ruou-khong-thuc-hien-nq-66-18`. Chi tiết: `CHANGELOG-v2026.11.07.md`.

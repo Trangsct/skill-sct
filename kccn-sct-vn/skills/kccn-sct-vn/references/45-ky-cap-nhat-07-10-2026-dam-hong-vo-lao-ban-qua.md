@@ -56,9 +56,20 @@
   công nghệ lạc hậu đến nơi tiếp nhận; Công an tỉnh — an ninh trật tự, PCCC; Thanh tra tỉnh — khiếu nại, kết luận thanh tra; UBND
   phường nơi có cụm, nơi tiếp nhận — hiện trạng cơ sở, khả năng tiếp nhận; (3) **cơ quan lập Đề án không xin "ý kiến"** mà đề nghị
   cung cấp văn bản góp ý các lần, thống nhất số liệu, cử người giải trình.
-- Căn cứ thẩm quyền khi viết báo cáo thẩm định: cụm hình thành trước QĐ 105/2009/QĐ-TTg, không có chủ đầu tư hạ tầng → **khoản 4
-  Điều 32 NĐ 32/2024** (UBND tỉnh có biện pháp xử lý, quản lý), cùng khoản 1 Điều 32 (sửa bởi NĐ 303/2026) và khoản 8 Điều 16 QĐ
-  16/2026/QĐ-UBND. Đề án không thay các quyết định cụ thể (danh sách cơ sở đủ điều kiện, thu hồi đất, bồi thường, bố trí địa điểm).
+- Căn cứ thẩm quyền khi viết báo cáo thẩm định (sửa 13/11/2026): **khoản 4 Điều 32 NĐ 32/2024 được sửa đổi bởi điểm c khoản 16 Điều 1
+  NĐ 303/2026** (hiệu lực 15/9/2026) — UBND tỉnh "tổ chức rà soát, có kế hoạch và xử lý dứt điểm các cụm công nghiệp … không đáp ứng
+  yêu cầu bảo vệ môi trường …, sử dụng đất không hiệu quả …; chịu trách nhiệm quản lý hiệu quả các cụm công nghiệp trên địa bàn"; cùng
+  khoản 1 Điều 32 (sửa bởi điểm a khoản 16 Điều 1 NĐ 303/2026) và khoản 8 Điều 16 QĐ 16/2026/QĐ-UBND. Câu cũ của khoản 4 về cụm "hình
+  thành trước QĐ 105/2009/QĐ-TTg, không có chủ đầu tư hạ tầng" **đã bị thay từ 15/9/2026, không dẫn nữa** (bản ghi 10/11/2026 dẫn nhầm).
+  Điều 6, 11, 12 NĐ 139/2025/NĐ-CP (thẩm quyền về CCN) hết hiệu lực từ 15/9/2026 (khoản 2 Điều 3 NĐ 303/2026) → không để NĐ 139/2025
+  trong phần căn cứ của Đề án, Quyết định về CCN. Đề án không thay các quyết định cụ thể (danh sách cơ sở đủ điều kiện, thu hồi đất,
+  bồi thường, bố trí địa điểm).
+- Điểm phải soát trong Đề án di dời (rút từ Đề án Đầm Hồng bản 28/10/2026): (1) căn cứ thu hồi đất khi hợp đồng thuê đất còn hạn dài
+  (nhiều cơ sở thuê đến 2055–2065) — Đề án phải nêu mục đích sử dụng khu đất sau di dời theo quy hoạch để áp Điều 79 Luật Đất đai,
+  không chỉ ghi "theo quy hoạch hiện hành"; (2) khái toán bồi thường phải theo đúng nguyên tắc chính Đề án nêu (thuê đất trả hằng năm
+  thì không bồi thường về đất; hết hạn thuê không gia hạn thì không áp chính sách thu hồi vì lợi ích công cộng); (3) số liệu diện tích
+  từng cơ sở thống nhất giữa các phụ lục; (4) địa điểm dự phòng phải hợp loại hình cụm (không đưa tái chế phế thải, chế biến khoáng
+  sản vào cụm công nghiệp công nghệ cao); (5) cơ quan chủ trì trong bảng lộ trình khớp phần phân công nhiệm vụ.
 - Diễn biến hồ sơ, văn bản đi, đến: kho riêng tư `vlncn-laocai` (`du-thao/2026.11.10-dam-hong/`, plugin `van-ban-sct-vn`).
 
 ## C. Ban Chỉ đạo phát triển KCN Võ Lao và KCN Bản Qua (QĐ 2029/QĐ-UBND ngày 10/6/2026)

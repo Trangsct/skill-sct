@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.218"
+    "version": "4.11.219"
   },
   "plugins": [
     {
@@ -54,7 +54,7 @@
       "name": "kccn-sct-vn",
       "source": "./kccn-sct-vn",
       "description": "QLNN KCN/CCN - SCT Lào Cai: hướng dẫn DN; tờ trình, báo cáo; HĐ chấm điểm CĐT; khởi công. NĐ 32/2024, 303/2026. GATE trạng thái hồ sơ (ref 39). Ref 56 (12/11/2026) MỚI: đường sắt Lào Cai - Hà Nội - Hải Phòng — di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn (BC 727/BC-TGV, Tổ hỗ trợ DN QĐ 4093/QĐ-UBND, hạ tầng tiếp nhận Bản Qua, SX1-SX2, Thống Nhất). Ref 54: TBKL 1173-TB/TU — mốc GPMB 12 dự án, BCĐ KCN QĐ 2029, 2030. Ref 53: Luật Đầu tư 143/2025.",
-      "version": "1.66.0"
+      "version": "1.66.1"
     },
     {
       "name": "kho-vlncn-sct-vn",

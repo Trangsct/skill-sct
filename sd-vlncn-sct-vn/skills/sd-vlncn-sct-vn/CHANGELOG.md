@@ -1,5 +1,9 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.11.13.2 — 13/11/2026 — Hình thức xử lý giấy phép, giấy chứng nhận đã ban hành mà sai theo đề nghị của doanh nghiệp
+
+- Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.
+
 ## v2026.11.13.1 — 13/11/2026 — Anti-error 38: mã số doanh nghiệp tại Điều 1 phải đọc từ bản gốc đăng ký doanh nghiệp
 
 - Nguồn: doanh nghiệp báo GP 5890/GP-SCT ngày 21/9/2026 ghi sai mã số doanh nghiệp (chép từ giấy phép cũ năm 2025).

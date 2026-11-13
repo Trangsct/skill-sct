@@ -4,6 +4,10 @@
   khoản 16 Điều 1 NĐ 303/2026 (15/9/2026), không dẫn câu cũ về cụm hình thành trước QĐ 105/2009; không để NĐ 139/2025 trong căn cứ về
   CCN; 5 điểm phải soát trong Đề án di dời. Sổ lỗi L003; rule check_facts `khoan-4-dieu-32-nd32-da-thay-boi-nd303`.
 
+## 13/11/2026 — Hình thức xử lý giấy phép, giấy chứng nhận đã ban hành mà sai: theo đề nghị của doanh nghiệp
+
+attp-sct-vn 1.9.1, hc-sct-vn 1.10.1, hl-vlncn-sct-vn 1.7.1, hnh-sct-vn 1.19.1, qlks-sct-vn 2.6.1, sd-vlncn-sct-vn 2026.11.13.2: doanh nghiệp là bên sử dụng văn bản nên đề xuất bằng văn bản hình thức cần xử lý (văn bản thay thế hay công văn đính chính); Sở giải quyết theo đề nghị đó trong khuôn khổ khoản 3 Điều 18 NĐ 30/2020/NĐ-CP, không tự chọn thay doanh nghiệp.
+
 ## 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận cho 5 plugin cấp phép
 
 attp-sct-vn 1.9.0, hc-sct-vn 1.10.0, hl-vlncn-sct-vn 1.7.0, hnh-sct-vn 1.19.0, qlks-sct-vn 2.6.0: thêm khối GATE

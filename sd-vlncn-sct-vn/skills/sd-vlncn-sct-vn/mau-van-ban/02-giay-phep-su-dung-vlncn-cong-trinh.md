@@ -17,3 +17,6 @@
 4. **Điều 3 — thời hạn:** theo tiến độ thi công nhưng **không quá 02 năm** (khoản 7 Điều 39 Luật 42/2024): "Giấy phép này có giá trị đến hết ngày 【…】".
 5. Nơi nhận thêm 【chủ đầu tư dự án】 khi cần phối hợp giám sát.
 6. **Quan hệ với Quyết định phê duyệt PANM:** giấy phép do Giám đốc Sở ký, còn QĐ phê duyệt PANM vẫn do Chủ tịch UBND tỉnh ký — khi viện dẫn tại phần căn cứ phải ghi đúng hai chủ thể khác nhau, không gộp.
+> ⚠ **Cụm nhận dạng tại Điều 1 (tên, loại hình, mã số doanh nghiệp, cơ quan cấp, ngày đăng ký lần đầu và lần thay đổi, trụ sở, điện thoại): đọc một lượt từ bản Giấy chứng nhận đăng ký doanh nghiệp trong hồ sơ và viết lại CẢ CỤM — cấm chép từ giấy phép đã cấp, Giấy đề nghị, Báo cáo sử dụng VLNCN hay PANM (cùng sai một nguồn), cấm sửa một phần của câu. Bản cấp từ 2025 do Phòng Doanh nghiệp và Đăng ký kinh doanh - Sở Tài chính cấp (không còn Sở Kế hoạch và Đầu tư). Kiểm đầu mã theo tỉnh (Tuyên Quang 5000…, Yên Bái cũ 5200…, Lào Cai 5300…, Hà Nội 01…). Anti-error 38 — vụ GP 5890/GP-SCT cấp sai mã số doanh nghiệp.**
+
+

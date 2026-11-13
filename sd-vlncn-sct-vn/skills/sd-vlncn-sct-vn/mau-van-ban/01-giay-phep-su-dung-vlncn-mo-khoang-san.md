@@ -39,6 +39,9 @@ Trụ sở tại: 【địa chỉ】;
 Điện thoại: 【…】;
 Được sử dụng vật liệu nổ công nghiệp để 【khai thác khoáng sản … / thi công mỏ …】.
 
+
+> ⚠ **Cụm nhận dạng tại Điều 1 (tên, loại hình, mã số doanh nghiệp, cơ quan cấp, ngày đăng ký lần đầu và lần thay đổi, trụ sở, điện thoại): đọc một lượt từ bản Giấy chứng nhận đăng ký doanh nghiệp trong hồ sơ và viết lại CẢ CỤM — cấm chép từ giấy phép đã cấp, Giấy đề nghị, Báo cáo sử dụng VLNCN hay PANM (cùng sai một nguồn), cấm sửa một phần của câu. Bản cấp từ 2025 do Phòng Doanh nghiệp và Đăng ký kinh doanh - Sở Tài chính cấp (không còn Sở Kế hoạch và Đầu tư). Kiểm đầu mã theo tỉnh (Tuyên Quang 5000…, Yên Bái cũ 5200…, Lào Cai 5300…, Hà Nội 01…). Anti-error 38 — vụ GP 5890/GP-SCT cấp sai mã số doanh nghiệp.**
+
 **Điều 2. Điều kiện sử dụng**
 1. Địa điểm sử dụng: tại mỏ 【tên mỏ】, xã 【…】, tỉnh Lào Cai theo Giấy phép khai thác khoáng sản số 【…/GP-UBND】 ngày 【…】 của 【Chủ tịch UBND tỉnh Lào Cai】.
 2. Chủng loại, số lượng VLNCN được phép sử dụng: Thuốc nổ các loại (【amonit AD1; Anfo; nhũ tương lộ thiên…】): 【…】 kg; Kíp nổ các loại (【kíp điện vi sai; kíp vi sai phi điện…】): 【…】 cái; Dây nổ 【chịu nước】: 【…】 m; Mồi nổ: 【…】 quả.

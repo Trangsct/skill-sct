@@ -177,6 +177,7 @@ Toàn văn 36 quy tắc (đúc kết từ hồ sơ thật 2025–2026) nằm ở
 - **35** — CẤP LẠI GP: Phiếu trình mô tả đủ GP đã cấp (cấp/đã dùng/còn lại), khối lượng đá đã phá nổ theo BBNT, căn cứ gia hạn (tiến độ QĐ CTĐT + nội dung trả lời Sở Tài chính + PLHĐ), đối chiếu khối lượng 3 chiều (≤ còn lại; đã dùng + cấp lại ≤ đã cấp; theo PANM trên đá còn lại) — bộ Duy Cương, Bắc Hà 21/9/2026; PTP ký thì mục II "Ý KIẾN CỦA PHÒNG QUẢN LÝ CÔNG NGHIỆP", khối ký PHÓ TRƯỞNG PHÒNG Trần Trọng Trang
 - **36** — CẤP ĐIỀU CHỈNH GP: kết quả là **Giấy phép /GP-SCT** có dòng "(Cấp điều chỉnh)" (đường vẽ như GP 5870/GP-SCT), KHÔNG dùng QĐ điều chỉnh; Điều 1 = 1. Nội dung điều chỉnh (gộp các khoản) + 2. Lý do + 3. Các nội dung khác theo GP gốc; Điều 2 "không thể tách rời", không "thay thế"; khối lượng theo năm dương lịch ở Phụ lục (năm lẻ tính tháng trọn); có kho nghiệm thu SXD → điều chỉnh khoản 3 thay "nổ mìn theo hộ chiếu", không ghi trữ lượng khi hồ sơ không có; GP gốc chưa dùng → ghi khối lượng bằng 0; Phiếu trình gọn 2 trang — bộ GTYB Đồng Tâm 22/9/2026
 - **37** — PANM giao DN phải đầy đủ, dài (khung Kim Thành 30/9/2026, 42 trang), có bìa, đường kẻ Straight Connector dưới tên DN và tiêu ngữ, số trang; kíp tính theo chỉ tiêu thiết kế đã được thẩm định (VB 897/SCT-KTATMT: 7.988 kíp/1.000 tấn), không tự dựng tỷ lệ kíp/kg; không thêm câu đối chiếu, tự kiểm thừa làm DN dễ bị bắt lỗi
+- **38** — DỮ KIỆN NHẬN DẠNG DOANH NGHIỆP (mã số, cơ quan cấp, ngày đăng ký, trụ sở, điện thoại) tại Điều 1 đọc TỪ BẢN GỐC Giấy chứng nhận đăng ký doanh nghiệp, viết lại cả cụm; cấm chép từ GP cũ, báo cáo, PANM; cơ quan cấp từ 2025 là Sở Tài chính; kiểm đầu mã theo tỉnh; chạy `scripts/kiem_tra_dkdn.py` (vụ GP 5890 sai mã số, 13/11/2026)
 
 ## VII. CẤU TRÚC PLUGIN
 
@@ -204,6 +205,7 @@ sd-vlncn-sct-vn/
 │                                    5 bước xử lý sau khi bị trả
 │   ├── 10-tham-quyen-ubnd-tinh-va-sct.md ← bản đồ thẩm quyền UBND tỉnh/SCT, QĐ 2867, CV 5085
 │   ├── 11-anti-error.md              ← ⭐ 36 anti-error toàn văn (BẮT BUỘC đọc trước khi soạn)
+│   ├── so-loi-tu-ghi.md            ← sổ lỗi tự ghi (L001…) — đọc trước khi soạn
 │   ├── 13-nd-392-2026-dieu-kien-antt.md ← NĐ 392/2026 sửa NĐ 96/2016 (GCN ANTT: ngành nghề,
 │   │                                thẩm quyền, cấp đổi, tài liệu PCCC, ngừng kinh doanh) + bảng đối chiếu
 │   ├── 14-thong-ke-to-chuc-su-dung-vlncn-11-2026.md ← ⭐ MỚI 03/11/2026: 43 GP còn hiệu lực / 33 tổ chức

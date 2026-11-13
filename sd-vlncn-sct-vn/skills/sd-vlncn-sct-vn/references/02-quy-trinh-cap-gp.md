@@ -121,6 +121,25 @@ Tên TTHC công bố (sau TT 38/2025): "Cấp/Cấp lại/Cấp điều chỉnh 
 3. DN không đề nghị sau 30 ngày → SCT tham mưu kiểm tra, lập biên bản, trình thu hồi; phối hợp Công an giám sát xử lý VLNCN còn tồn (bán lại cho DN kinh doanh hoặc tiêu hủy có giám sát).
 4. Sau thu hồi: cập nhật CSDL; thông báo Công an tỉnh, UBND xã; đưa ra khỏi danh sách theo dõi.
 
+
+## G. GIẤY PHÉP ĐÃ BAN HÀNH NHƯNG CÓ SAI SÓT — CHỌN ĐÚNG HÌNH THỨC XỬ LÝ
+
+Căn cứ **khoản 3 Điều 18 Nghị định số 30/2020/NĐ-CP ngày 05/3/2020** của Chính phủ về công tác văn thư:
+- **Sai sót về nội dung** (mã số doanh nghiệp, tên doanh nghiệp, địa điểm, chủng loại, khối lượng, thời hạn…)
+  → **sửa đổi, thay thế bằng văn bản có hình thức tương đương**, tức ban hành Giấy phép mới `/GP-SCT` giữ nguyên
+  các nội dung khác, ghi rõ tại Điều cuối: "Giấy phép này thay thế Giấy phép số …/GP-SCT ngày …". Thời hạn và
+  khối lượng giữ đúng Giấy phép bị thay thế (không tính lại, không coi là cấp lại).
+- **Sai sót về thể thức, kỹ thuật trình bày, thủ tục ban hành** (lỗi chính tả không làm sai dữ kiện, sai cỡ chữ,
+  sai nơi nhận…) → **đính chính bằng công văn** của Sở, gửi đúng nơi nhận của Giấy phép.
+
+Không dùng thủ tục **cấp lại** (khoản 2 Điều 39 Luật 42/2024 — chỉ khi giấy phép bị mất, hư hỏng, hết hiệu lực)
+hay **cấp điều chỉnh** (khoản 3 Điều 39 — chỉ khi thay đổi quy mô, điều kiện sử dụng) để sửa lỗi của cơ quan:
+Sở tự sửa sai sót của mình, **không yêu cầu doanh nghiệp nộp hồ sơ mới, không phát sinh thủ tục hành chính**.
+
+Việc kèm theo khi phát hiện sai sót: (1) rà các giấy phép, quyết định khác đã cấp cho cùng doanh nghiệp vì lỗi
+thường chép lan từ văn bản đầu tiên; (2) cập nhật CSDL VLNCN; (3) ghi nguyên nhân vào anti-error để không lặp lại.
+
+
 ## G. NGHĨA VỤ MỚI PHÁT SINH TỪ ỦY QUYỀN QĐ 2867 (theo dõi thường xuyên)
 
 1. **Báo cáo UBND tỉnh định kỳ 06 THÁNG và 01 NĂM, hoặc đột xuất theo yêu cầu** (điểm đ khoản 2 Điều 3

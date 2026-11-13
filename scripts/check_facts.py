@@ -71,6 +71,16 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "khoan-4-dieu-32-nd32-da-thay-boi-nd303",
+        # Vụ 13/11/2026 (kccn-sct-vn ref 45): dẫn khoản 4 Điều 32 NĐ 32/2024 với câu "cụm hình thành trước QĐ 105/2009/QĐ-TTg, không có
+        # chủ đầu tư hạ tầng" làm căn cứ thẩm định Đề án di dời CCN Đầm Hồng. Điểm c khoản 16 Điều 1 NĐ 303/2026 (hiệu lực 15/9/2026)
+        # đã thay toàn bộ khoản 4, câu đó không còn.
+        "pattern": r"^(?!.*(?:303/2026|lịch sử|trước 15/9/2026|đã bị thay|không dẫn nữa)).*khoản 4\s+Điều 32[^.]{0,120}105/2009",
+        "why": "Khoản 4 Điều 32 NĐ 32/2024 đã được thay bởi điểm c khoản 16 Điều 1 NĐ 303/2026 từ 15/9/2026; câu về cụm hình thành trước QĐ 105/2009 không còn (kccn-sct-vn ref 45).",
+        "since": "2026-11-13",
+        "level": "FAIL",
+    },
+    {
         "id": "giay-phep-ruou-khong-thuc-hien-nq-66-18",
         # Vụ 07/11/2026 (attp-sct-vn ref 07 mục 0): Hải quan đòi Giấy phép phân phối rượu khi nhập rượu 53 độ; NQ 66.18/2026/NQ-CP
         # (01/7/2026 - 28/02/2027) không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ rượu (khoản B Tiểu mục 3.1

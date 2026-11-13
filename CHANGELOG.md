@@ -1,3 +1,9 @@
+## 13/11/2026 — kccn-sct-vn 1.66.1: căn cứ khoản 4 Điều 32 NĐ 32/2024 sau NĐ 303/2026; điểm soát Đề án di dời CCN
+
+- **kccn-sct-vn 1.66.1**: ref 45 sửa căn cứ thẩm định Đề án di dời CCN Đầm Hồng — khoản 4 Điều 32 NĐ 32/2024 đã được thay bởi điểm c
+  khoản 16 Điều 1 NĐ 303/2026 (15/9/2026), không dẫn câu cũ về cụm hình thành trước QĐ 105/2009; không để NĐ 139/2025 trong căn cứ về
+  CCN; 5 điểm phải soát trong Đề án di dời. Sổ lỗi L003; rule check_facts `khoan-4-dieu-32-nd32-da-thay-boi-nd303`.
+
 ## 12/11/2026 — kccn-sct-vn 1.66.0: đường sắt Lào Cai - Hà Nội - Hải Phòng, di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn
 
 - **kccn-sct-vn 1.66.0**: ref 56 mới (Báo cáo 727/BC-TGV ngày 02/11/2026 của Tổ Giúp việc BCĐ GPMB đường sắt; QĐ 4093/QĐ-UBND

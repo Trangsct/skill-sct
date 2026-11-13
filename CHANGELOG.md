@@ -4,6 +4,13 @@
   khoản 16 Điều 1 NĐ 303/2026 (15/9/2026), không dẫn câu cũ về cụm hình thành trước QĐ 105/2009; không để NĐ 139/2025 trong căn cứ về
   CCN; 5 điểm phải soát trong Đề án di dời. Sổ lỗi L003; rule check_facts `khoan-4-dieu-32-nd32-da-thay-boi-nd303`.
 
+## 13/11/2026 — sd-vlncn-sct-vn 2026.11.13.1
+
+Anti-error 38: dữ kiện nhận dạng doanh nghiệp tại Điều 1 Giấy phép sử dụng VLNCN phải đọc từ bản gốc Giấy chứng nhận
+đăng ký doanh nghiệp, viết lại cả cụm; cấm chép từ giấy phép cũ, báo cáo, phương án nổ mìn. Kèm ref 02 mục G (xử lý
+giấy phép đã ban hành có sai sót theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP), ref 07 mục P, sổ lỗi tự ghi L001 và script
+`kiem_tra_dkdn.py`. Nguồn: doanh nghiệp báo GP 5890/GP-SCT ngày 21/9/2026 ghi sai mã số doanh nghiệp.
+
 ## 12/11/2026 — kccn-sct-vn 1.66.0: đường sắt Lào Cai - Hà Nội - Hải Phòng, di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn
 
 - **kccn-sct-vn 1.66.0**: ref 56 mới (Báo cáo 727/BC-TGV ngày 02/11/2026 của Tổ Giúp việc BCĐ GPMB đường sắt; QĐ 4093/QĐ-UBND

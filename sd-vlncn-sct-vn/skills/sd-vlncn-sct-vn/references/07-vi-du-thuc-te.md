@@ -305,3 +305,15 @@ Nguồn: GP 46/GP-ATMT ngày 02/10/2026 (Cục trưởng Phạm Tuấn Anh ký; 
 3. **Sở là nơi nhận GP** → nhập ngay lên trang web (mục GP, loại "GP dịch vụ nổ mìn"), cập nhật hồ sơ DN; dùng 4 điều kiện khác ở trên khi kiểm tra hiện trường DN dịch vụ.
 4. Cục chấp nhận **hợp đồng nguyên tắc mua bán VLNCN giao theo hộ chiếu nổ mìn đến tận công trình** làm tài liệu chứng minh điều kiện cung ứng (hồ sơ vẫn có QĐ giao nhiệm vụ thủ kho); điều kiện kho theo điểm b k2 Đ40 sau Luật 118/2025 là có kho **hoặc gửi kho** bảo quản — ref 01.
 
+## P. VỤ GP 5890/GP-SCT CẤP SAI MÃ SỐ DOANH NGHIỆP (doanh nghiệp báo 13/11/2026) — Công ty TNHH MTV Duy Cương
+
+- **Văn bản:** Giấy phép số 5890/GP-SCT ngày 21/9/2026 (cấp lại, thủy điện Suối Chăn 2, xã Võ Lao và xã Văn Bàn; hiệu lực đến 31/12/2026).
+- **Sai:** cụm nhận dạng tại Điều 1 ghi mã số doanh nghiệp mở đầu 5300… và cơ quan cấp là "Phòng Đăng ký kinh doanh - Sở Kế hoạch và Đầu tư tỉnh Tuyên Quang"; phần ngày đăng ký lần đầu, lần thay đổi gần nhất và số điện thoại thì đúng theo bản mới.
+- **Đúng theo bản gốc trong hồ sơ:** mã mở đầu 5000… (dải doanh nghiệp đăng ký tại Tuyên Quang), cơ quan cấp là **Phòng Doanh nghiệp và Đăng ký kinh doanh - Sở Tài chính tỉnh Tuyên Quang** (bản thay đổi gần nhất cấp năm 2025). Trị số cụ thể tra trong hồ sơ lưu, không chép vào kho công khai.
+- **Đường đi của lỗi:** Giấy phép số 914/GP-UBND ngày 26/8/2025 (Sở tham mưu tại Tờ trình 1075/TTr-SCT ngày 22/8/2025) đã ghi mã mở đầu 5300… và "Sở Kế hoạch và Đầu tư tỉnh Tuyên Quang". Khi cấp lại 9/2026, cụm nhận dạng được chép từ giấy phép cũ, chỉ cập nhật "lần thứ 3 ngày 10/10/2025" và số điện thoại theo bản đăng ký kinh doanh mới → sửa một phần của câu, giữ lại phần sai.
+- **Vì sao đối chiếu hồ sơ không bắt được:** Báo cáo tình hình sử dụng VLNCN và Phương án nổ mìn của chính doanh nghiệp cũng chép mã sai từ giấy phép cũ — ba tài liệu cùng sai một nguồn. Bản đăng ký kinh doanh gốc trong hồ sơ (bản scan, không có lớp chữ) là tài liệu duy nhất ghi mã đúng.
+- **Dấu hiệu nhận ra được ngay:** mã mở đầu 5300 thuộc dải doanh nghiệp đăng ký tại Lào Cai, trong khi câu lại ghi do Tuyên Quang cấp (dải 5000).
+- **Phạm vi lỗi:** chỉ ở nhánh Suối Chăn 2 (914/GP-UBND → 5890/GP-SCT). Giấy phép số 371/GP-UBND ngày 06/02/2026 của cùng doanh nghiệp (thủy điện Hỏm Dưới, xã Nậm Chày) ghi **đúng** mã số — xem dòng tương ứng tại ref 12. Vẫn cần rà Quyết định số 1923/QĐ-UBND ngày 01/6/2026 điều chỉnh Giấy phép 371 và các văn bản khác của doanh nghiệp.
+- **Nguồn đối chiếu nhanh có sẵn mà chưa dùng:** CSDL VLNCN (ref 12) lưu mã số doanh nghiệp theo từng giấy phép đã cấp; mã của doanh nghiệp này đã đúng trong CSDL từ 02/2026 — tra một dòng là phát hiện lệch.
+- **Xử lý:** theo ref 02 mục G (khoản 3 Điều 18 NĐ 30/2020/NĐ-CP). **Quy tắc rút ra: anti-error 38.**
+

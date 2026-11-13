@@ -14,7 +14,9 @@
 >      + thỏa thuận liên danh nếu có, ghi rõ phần việc) — hồ sơ DN tại Giấy đề nghị số… (kèm tài liệu k1 Đ39)
 >      — hồ sơ thiết kế + PANM — Dự thảo Giấy phép sử dụng VLNCN của Sở Công Thương.
 >   4. Nội dung trình: đoạn tóm tắt (ngày nộp, mục đích, khối lượng, thời hạn) rồi các gạch: Về thẩm quyền
->      (ủy quyền QĐ 2867 từ 20/8/2026) — Về kết quả thẩm định (đủ k1 Đ39; pháp lý gốc còn hiệu lực; ANTT;
+>      (ủy quyền QĐ 2867 từ 20/8/2026) — **Về tư cách pháp nhân** (mã số doanh nghiệp, cơ quan cấp, ngày
+>      đăng ký lần đầu và lần thay đổi gần nhất, kèm nguồn đối chiếu là bản Giấy chứng nhận đăng ký doanh
+>      nghiệp trong hồ sơ — anti-error 38, bắt buộc với cả hồ sơ cấp lại, cấp điều chỉnh) — Về kết quả thẩm định (đủ k1 Đ39; pháp lý gốc còn hiệu lực; ANTT;
 >      kho; nhân sự; PANM + kết luận không thuộc điểm d k2 Đ38) — Về hồ sơ thiết kế (đủ bước, ai phê duyệt)
 >      — Về 【phạm vi và】 khối lượng VLNCN — câu kết: "Hồ sơ bảo đảm đủ điều kiện theo quy định tại Điều 38,
 >      Điều 39… Phòng Quản lý công nghiệp kính trình đồng chí Phó Giám đốc Sở xem xét, ký ban hành Giấy phép

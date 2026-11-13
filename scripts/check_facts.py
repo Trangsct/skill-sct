@@ -44,6 +44,17 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "dkdn-khong-con-so-ke-hoach-va-dau-tu",
+        "pattern": r"[Gg]iấy chứng nhận đăng ký doanh nghiệp(?![^\n]*Sở Tài chính)[^\n]{0,160}Sở Kế hoạch và Đầu tư",
+        "why": ("Từ 2025 Giấy chứng nhận đăng ký doanh nghiệp do Phòng Doanh nghiệp và Đăng ký kinh doanh "
+                "- Sở Tài chính cấp. Trong mẫu và hướng dẫn chỉ ghi cơ quan in trên chính bản được viện dẫn; "
+                "không để 'Sở Kế hoạch và Đầu tư' làm cách ghi mặc định (anti-error 38 sd-vlncn-sct-vn)."),
+        "since": "2025-03-01",
+        "level": "WARN",
+        "skip_rel": ["references/07-vi-du-thuc-te.md", "references/so-loi-tu-ghi.md",
+                     "references/11-anti-error.md"],
+    },
+    {
         "id": "tb-279-vptu-khong-phai-tb-bcd",
         # Vụ 12/11/2026 (kccn-sct-vn ref 56): Báo cáo 727/BC-TGV ghi "Thông báo số 279-TB/BCĐ ngày 12/10/2026"; bản gốc và
         # QĐ 4093/QĐ-UBND ghi 279-TB/VPTU (Văn phòng Tỉnh ủy, kết luận Trưởng BCĐ GPMB các dự án trọng điểm).

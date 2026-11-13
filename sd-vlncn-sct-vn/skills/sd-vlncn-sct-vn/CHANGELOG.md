@@ -1,5 +1,12 @@
 # CHANGELOG sd-vlncn-sct-vn
 
+## v2026.11.13.1 — 13/11/2026 — Anti-error 38: mã số doanh nghiệp tại Điều 1 phải đọc từ bản gốc đăng ký doanh nghiệp
+
+- Nguồn: doanh nghiệp báo GP 5890/GP-SCT ngày 21/9/2026 ghi sai mã số doanh nghiệp (chép từ giấy phép cũ năm 2025).
+- Thêm anti-error 38; ref 02 mục G (xử lý giấy phép đã ban hành có sai sót theo k3 Đ18 NĐ 30/2020); ref 07 mục P;
+  sổ lỗi tự ghi L001; ghi chú tại mẫu 01, 02; gạch "Về tư cách pháp nhân" tại mẫu 06; script `kiem_tra_dkdn.py`.
+  Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## v2026.11.10.1 — 10/11/2026 — Ví dụ dự thảo công văn UBND tỉnh: trích yếu gộp thành một đoạn liền
 
 - `vi-du-thuc-te/Du-thao-CV-UBND-tinh-chi-dao-tang-cuong-quan-ly-VLNCN-ban-cuoi-6.9.2026.docx`: trích yếu "V/v tăng cường công tác quản lý vật liệu nổ công nghiệp trên địa bàn tỉnh" trước tách hai đoạn, nay một đoạn liền tự xuống 2 dòng (vbhc-vn R27, sổ lỗi L015; Bạn chốt 10/11/2026). Câu chữ không đổi.

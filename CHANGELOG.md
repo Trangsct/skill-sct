@@ -4,6 +4,15 @@
   khoản 16 Điều 1 NĐ 303/2026 (15/9/2026), không dẫn câu cũ về cụm hình thành trước QĐ 105/2009; không để NĐ 139/2025 trong căn cứ về
   CCN; 5 điểm phải soát trong Đề án di dời. Sổ lỗi L003; rule check_facts `khoan-4-dieu-32-nd32-da-thay-boi-nd303`.
 
+## 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận cho 5 plugin cấp phép
+
+attp-sct-vn 1.9.0, hc-sct-vn 1.10.0, hl-vlncn-sct-vn 1.7.0, hnh-sct-vn 1.19.0, qlks-sct-vn 2.6.0: thêm khối GATE
+"cấp Giấy phép, Giấy chứng nhận — đúng thông tin, đúng mẫu" vào SKILL.md và script `kiem_tra_dkdn.py`. Nội dung: dữ kiện
+nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh và viết lại cả cụm (cấm chép từ giấy phép cũ, hồ sơ doanh nghiệp;
+cơ quan cấp từ 2025 là Sở Tài chính; kiểm đầu mã số theo tỉnh); dựng đúng mẫu tại văn bản quy phạm, không tự sáng tạo;
+đã ban hành mà sai thì xử lý theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP. Nguồn: vụ giấy phép VLNCN ghi sai mã số doanh nghiệp
+(anti-error 38 sd-vlncn-sct-vn).
+
 ## 13/11/2026 — sd-vlncn-sct-vn 2026.11.13.1
 
 Anti-error 38: dữ kiện nhận dạng doanh nghiệp tại Điều 1 Giấy phép sử dụng VLNCN phải đọc từ bản gốc Giấy chứng nhận

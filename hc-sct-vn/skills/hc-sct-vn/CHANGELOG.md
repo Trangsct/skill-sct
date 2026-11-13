@@ -1,5 +1,11 @@
 # CHANGELOG — hc-sct-vn
 
+## v1.10.0 — 13/11/2026 — GATE cấp Giấy phép, Giấy chứng nhận: đúng thông tin, đúng mẫu
+
+- Thêm khối GATE vào SKILL.md (dữ kiện nhận dạng tổ chức đọc từ bản gốc đăng ký kinh doanh; dựng đúng mẫu quy định;
+  xử lý khi đã ban hành mà sai theo khoản 3 Điều 18 NĐ 30/2020/NĐ-CP) và script `kiem_tra_dkdn.py`.
+  Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## 1.8.1 — 05/11/2026 — Rà hồ sơ doanh nghiệp hoàn thiện (kho thuê ở tỉnh khác)
 
 - **ref 16 mục 5c điểm 10:** 8 lỗi mới khi doanh nghiệp nộp lại hồ sơ: phụ lục hợp đồng chưa ký, ghi lùi ngày; ghi thêm hóa chất cần kiểm soát đặc biệt; điều khoản linh hoạt vị trí còn hiệu lực; cam kết "gia hạn" GCN dịch vụ tồn trữ; câu "mua thẳng bán thẳng" mâu thuẫn với thuê kho; bản vẽ không ký; danh mục gửi kèm cũ; HĐLĐ, phân công xuất trình tại kiểm tra thực tế. **ref 03 mục 6a:** yêu cầu đối với phụ lục nộp bổ sung.

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.218"
+    "version": "4.11.220"
   },
   "plugins": [
     {
@@ -65,8 +65,8 @@
     {
       "name": "pccc-sct-vn",
       "source": "./pccc-sct-vn",
-      "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025 (trong BCNCKT); nghiệm thu PCCC do chủ đầu tư tự tổ chức từ 15/9/2026 (NĐ 347/2026, NQ 66.18/2026, CV 6501/CAT-PCCC); kiểm tra định kỳ Phụ lục II (trình tự mới, PC03); phân loại Phụ lục I-II-III; ranh giới với SXD - Công an - BQL KKT - xã; lộ trình Điều 43, QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT. Cập nhật 10/2026 (NĐ 392/2026 Điều 50 sửa k2 Đ41 NĐ 347), 16 reference.",
-      "version": "1.5.1"
+      "description": "PCCC 8 lĩnh vực ngành Công Thương - Sở Công Thương Lào Cai: thẩm định thiết kế 5 nội dung Điều 6 NĐ 105/2025 (trong BCNCKT); nghiệm thu PCCC do chủ đầu tư tự tổ chức từ 15/9/2026 (NĐ 347/2026, NQ 66.18/2026, CV 6501/CAT-PCCC); kiểm tra định kỳ Phụ lục II (trình tự mới, PC03); phân loại Phụ lục I-II-III; ranh giới với SXD - Công an - BQL KKT - xã; lộ trình Điều 43, QĐ 1074/QĐ-BXD, QĐ 1609/QĐ-BCT. Cập nhật 11/2026: kiểm tra cơ sở không bảo đảm PCCC (TB 7808/TB-CAT-PCCC), 17 reference.",
+      "version": "1.6.0"
     },
     {
       "name": "qlks-sct-vn",

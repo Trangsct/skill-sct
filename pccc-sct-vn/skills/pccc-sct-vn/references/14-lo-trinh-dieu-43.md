@@ -33,7 +33,7 @@ Khoản 6 Điều 55 quy định về xử lý cơ sở không bảo đảm yêu
 - Cơ sở **có khả năng** áp dụng giải pháp kỹ thuật nâng cao an toàn (do các Bộ ban hành).
 - Cơ sở **không có khả năng** áp dụng giải pháp kỹ thuật → phải chấm dứt hoạt động sau 01/7/2028.
 
-**Tình hình tại Lào Cai (đến tháng 5/2026):** UBND tỉnh Lào Cai **chưa hoàn thành** việc phân loại và công bố danh sách. Đã quá hạn 5 tháng. Sở Công Thương cần báo cáo lãnh đạo UBND tỉnh để triển khai gấp.
+**Tình hình tại Lào Cai:** đến tháng 5/2026 (lịch sử) UBND tỉnh chưa công bố danh sách. **Nay đã công bố:** Kế hoạch số 462/KH-UBND ngày 30/9/2026 và Quyết định số 3652/QĐ-UBND ngày 06/10/2026 (thành lập Đoàn) tổ chức kiểm tra, hướng dẫn các cơ sở do UBND tỉnh công bố; lịch kiểm tra 29 cơ sở tại Thông báo số 7808/TB-CAT-PCCC ngày 10/11/2026 của Công an tỉnh (reference 17). Số, ngày quyết định công bố danh sách chưa có trong kho.
 
 ### 2.2. Mốc 2: 01/7/2026 - Các Bộ ban hành giải pháp kỹ thuật
 

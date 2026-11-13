@@ -85,6 +85,9 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | Công văn số 3409/UBND-NC của UBND tỉnh | Lộ trình lắp đặt thiết bị truyền tin báo cháy | 04/5/2026 |
 | Công văn số 7432/UBND-XD của UBND tỉnh (KT. Chủ tịch — PCT Phan Trung Bá) | Triển khai QĐ 1074/QĐ-BXD trên địa bàn tỉnh: Sở Xây dựng chủ trì; các sở, ngành (kể cả SCT), UBND xã rà soát, hướng dẫn theo phạm vi quản lý; hạn 01/7/2028 | 21/7/2026 |
 | Công văn số 6501/CAT-PCCC của Công an tỉnh (KT. Giám đốc — PGĐ Đại tá Nguyễn Xuân Tuấn) | Phối hợp triển khai NQ 66.18: Sở, ngành hướng dẫn CĐT tự nghiệm thu PCCC, không đòi văn bản chấp thuận của Công an, thông báo thời gian đưa vào hoạt động về Công an tỉnh (Phòng CS PCCC và CNCH); xã kiểm tra định kỳ, biên bản PC03. Trích yếu ghi nhầm "66.18/2026/NĐ-CP" — đúng là NQ-CP. Ref 16 mục D | 23/9/2026 |
+| Kế hoạch số 462/KH-UBND của UBND tỉnh | Kiểm tra, hướng dẫn chủ cơ sở, chủ đầu tư không bảo đảm yêu cầu PCCC do UBND tỉnh công bố | 30/9/2026 |
+| Quyết định số 3652/QĐ-UBND của UBND tỉnh | Thành lập Đoàn kiểm tra theo KH 462/KH-UBND (có CQCM xây dựng thuộc Sở Công Thương) | 06/10/2026 |
+| Thông báo số 7808/TB-CAT-PCCC của Công an tỉnh (KT. Giám đốc — PGĐ Đại tá Nguyễn Xuân Tuấn) | Nội dung kiểm tra (Công an, CQCM xây dựng), thành phần Đoàn, lịch kiểm tra 29 cơ sở từ 13/11 đến 11/12/2026. Ref 17 | 10/11/2026 |
 
 ## III. CÁC REFERENCE FILES (đọc khi cần đào sâu)
 
@@ -106,6 +109,7 @@ Quy trình chuẩn khi xử lý công việc PCCC:
 | `references/14-lo-trinh-dieu-43.md` | Khi xử lý cơ sở không bảo đảm PCCC trước 01/7/2025; lộ trình các mốc 01/01/2026, 01/7/2026, 01/7/2028 |
 | `references/15-giai-phap-ky-thuat-qd1074-bxd.md` | Khi xử lý cơ sở, công trình hiện hữu không bảo đảm PCCC theo QĐ 1074/QĐ-BXD 29/6/2026: 3 điều kiện phạm vi; 3 nhóm giải pháp; tóm tắt 6 Phụ lục A-F (bậc chịu lửa, thoát nạn, cháy lan, tiếp cận chữa cháy, chống khói, phương tiện PCCC); loại trừ hạng A, B; triển khai tại Lào Cai theo CV 7432/UBND-XD 21/7/2026 |
 | `references/16-nd347-2026-sua-doi-nd105-nghiem-thu-kiem-tra.md` | **Đọc đầu tiên khi việc dính đến nghiệm thu, kiểm tra PCCC, Phụ lục III:** NĐ 347/2026 (hiệu lực 15/9/2026) + NQ 66.18/2026 + CV 6501/CAT-PCCC 23/9/2026 — bảng điều khoản bị bãi bỏ/sửa, CĐT tự nghiệm thu, trình tự kiểm tra mới, Phụ lục III mới, xử phạt k3 k4 Đ18 NĐ 106, chuyển tiếp Đ40, việc Sở cần làm |
+| `references/17-tb-7808-cat-pccc-kiem-tra-co-so-khong-bao-dam.md` | Khi tham gia Đoàn kiểm tra cơ sở không bảo đảm PCCC do UBND tỉnh công bố (KH 462/KH-UBND, QĐ 3652/QĐ-UBND, TB 7808/TB-CAT-PCCC 10/11/2026): nội dung kiểm tra phần CQCM xây dựng, lịch 29 cơ sở, việc Sở cần làm |
 | `mau-van-ban/01-cv-trien-khai-nd347-chu-dau-tu.md` | Nội dung công văn Sở hướng dẫn chủ đầu tư, cơ sở ngành Công Thương thực hiện NĐ 347/2026 + CV 6501/CAT-PCCC (đã QA trên mẫu thật vbhc-vn, 24/9/2026) — dựng .docx bằng `vbhc-vn` |
 
 ## IV. NĂM NHIỆM VỤ CỦA SỞ CÔNG THƯƠNG THEO ĐIỀU 41 KHOẢN 7 NĐ 105/2025
@@ -244,7 +248,7 @@ Tham chiếu: phân định ranh giới tại Công văn 314/SCT-CN ngày 20/01/
 7. **Cảnh giác về điều khoản chuyển tiếp:** cơ sở đã được Cảnh sát PCCC thẩm duyệt theo NĐ 136 trước 01/7/2025 vẫn tiếp tục có hiệu lực, chỉ thẩm định lại khi cải tạo/thay đổi công năng.
 
 8. **Lộ trình Điều 43 NĐ 105 đối với cơ sở không bảo đảm PCCC trước 01/7/2025:**
-   - Đến 01/01/2026: UBND tỉnh hoàn thành phân loại, công bố danh sách (đến 7/2026 Lào Cai vẫn chưa công bố - cần báo cáo lãnh đạo).
+   - Đến 01/01/2026: UBND tỉnh hoàn thành phân loại, công bố danh sách (Lào Cai công bố muộn — lịch sử: đến 7/2026 chưa công bố; nay đã kiểm tra theo KH 462/KH-UBND ngày 30/9/2026, lịch tại TB 7808/TB-CAT-PCCC ngày 10/11/2026, ref 17).
    - Đến 01/7/2026: Các bộ quản lý xây dựng chuyên ngành ban hành giải pháp kỹ thuật. **CẢ HAI BỘ ĐÃ HOÀN THÀNH: Bộ Xây dựng — QĐ 1074/QĐ-BXD ngày 29/6/2026** (xem `references/15`); **Bộ Công Thương — QĐ 1609/QĐ-BCT ngày 01/7/2026** (Thứ trưởng Trương Thanh Hoài ký, hiệu lực 01/7/2026, Công báo 406 ngày 17/7/2026) cho công trình thuộc thẩm quyền BCT (xăng dầu, gas, VLNCN, hóa chất, điện...). Toàn văn QĐ 1609 chưa được chưng cất vào skill — khi xử lý vụ việc cụ thể phải đọc bản gốc, KHÔNG suy diễn nội dung từ QĐ 1074.
    - Đến 01/7/2028: Cơ sở phải hoàn thành nâng cấp hoặc dừng hoạt động. Tại Lào Cai, CV 7432/UBND-XD ngày 21/7/2026 giao Sở Xây dựng chủ trì triển khai QĐ 1074; SCT rà soát, hướng dẫn theo phạm vi quản lý.
    - LƯU Ý PHẠM VI: QĐ 1074 CHỈ áp dụng cho công trình thuộc thẩm quyền quản lý của Bộ Xây dựng, đồng thời phải thuộc danh sách UBND tỉnh công bố và thuộc Phụ lục I NĐ 105 (3 điều kiện đồng thời); nhiều giải pháp trong đó LOẠI TRỪ nhà/khoang cháy hạng nguy hiểm cháy nổ A, B.

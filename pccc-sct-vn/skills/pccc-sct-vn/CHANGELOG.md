@@ -1,5 +1,14 @@
 # CHANGELOG — pccc-sct-vn
 
+## 1.6.0 — 13/11/2026 — TB 7808/TB-CAT-PCCC: kiểm tra cơ sở không bảo đảm PCCC do UBND tỉnh công bố
+
+- **references/17 MỚI** — Thông báo số 7808/TB-CAT-PCCC ngày 10/11/2026 của Công an tỉnh (KT. Giám đốc — PGĐ Đại tá Nguyễn Xuân Tuấn) về kiểm tra, hướng dẫn chủ cơ sở, chủ đầu tư không bảo đảm yêu cầu PCCC do UBND tỉnh công bố, thực hiện KH 462/KH-UBND ngày 30/9/2026 và QĐ 3652/QĐ-UBND ngày 06/10/2026: nội dung kiểm tra của Công an và của CQCM xây dựng (khoảng cách PCCC, đường, bãi đỗ; thoát nạn, ngăn cháy, chống cháy lan, chống khói), thành phần Đoàn (có CQCM xây dựng thuộc Sở Công Thương), lịch 29 cơ sở 13/11–11/12/2026, việc Sở cần làm. Số, ngày, người ký đọc từ ảnh bản quét (OCR + soi ảnh).
+- Bản gốc là văn bản đến, có họ tên cá nhân → không lưu vào kho công khai; reference không chép họ tên cá nhân.
+- references/14, 15, SKILL.md: bỏ nhận định "Lào Cai chưa công bố danh sách" (nay là lịch sử); SKILL.md thêm 3 dòng văn bản tỉnh (KH 462, QĐ 3652, TB 7808) và dòng ref 17.
+- check_facts: rule `pccc-lao-cai-da-cong-bo-danh-sach-co-so-khong-bao-dam`.
+- `plugin.json` 1.5.1 → 1.6.0.
+- Chi tiết: `CHANGELOG-v2026.11.13.md`.
+
 ## 1.5.0 — 22/10/2026 — NĐ 392/2026/NĐ-CP Điều 50 sửa khoản 2 Điều 41 NĐ 347/2026; NĐ 96/2016 sửa đổi
 
 - references/16 mục A (bảng hiệu lực) và **mục B.9 mới**: Điều 50 NĐ 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) bổ sung "khoản 4" Điều 30 NĐ 347 vào danh sách quy định về kê khai, quản lý chất lượng phương tiện PCCC chỉ có hiệu lực cùng Luật sửa đổi → bãi bỏ Mẫu PC19, PC20, PC21 (giấy phép lưu thông phương tiện PCCC) lùi tới mốc đó; bỏ thủ tục kiểm tra nghiệm thu PCCC (Điều 10 NĐ 105, Mẫu PC15–PC17) KHÔNG đổi, vẫn từ 15/9/2026. Nội dung PC19–PC21 đọc từ `hnh-sct-vn/.../ND-105-2025-PCCC-CNCH.txt`.

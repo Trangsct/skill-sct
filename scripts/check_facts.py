@@ -425,6 +425,15 @@ RULES = [
         "only": ["pccc-sct-vn", "kho-vlncn-sct-vn", "xd-sct-vn", "xp-sct-vn", "sd-vlncn-sct-vn", "dacn-sct-vn", "kccn-sct-vn", "hc-sct-vn", "tkm-sct-vn", "attp-sct-vn"],
     },
     {
+        "id": "pccc-lao-cai-da-cong-bo-danh-sach-co-so-khong-bao-dam",
+        # Chốt 13/11/2026 (TB 7808/TB-CAT-PCCC ngày 10/11/2026 của Công an tỉnh; KH 462/KH-UBND ngày 30/9/2026; QĐ 3652/QĐ-UBND 06/10/2026):
+        # UBND tỉnh đã công bố danh sách cơ sở không bảo đảm yêu cầu PCCC (k1 Đ43 NĐ 105) và tổ chức kiểm tra 29 cơ sở.
+        "pattern": r"^(?!.*(?:lịch sử|7808|462/KH|đến (?:tháng )?[57]/2026|đã công bố)).*(?:Lào Cai|tỉnh)[^.]{0,60}chưa (?:hoàn thành[^.]{0,40})?công bố[^.]{0,30}danh sách",
+        "why": "UBND tỉnh Lào Cai đã công bố danh sách cơ sở không bảo đảm yêu cầu PCCC; đang kiểm tra theo KH 462/KH-UBND ngày 30/9/2026, lịch tại TB 7808/TB-CAT-PCCC ngày 10/11/2026 — pccc-sct-vn ref 14, 17. Dòng nói tình hình cũ phải ghi 'lịch sử'.",
+        "since": "2026-11-13",
+        "level": "FAIL",
+    },
+    {
         "id": "kcn-3-khu-626-24-ha",
         # Chốt 22/9/2026 (BC 294/BC-BQLCKCN 18/9/2026): 03 KCN Phía Nam 400 + Minh Quân 107,89 + Âu Lâu 118,35 = 626,24 ha.
         # 627,89 chỉ còn trong bảng lịch sử tháng 7/2026 (ref 17, dòng dẫn BC 225).

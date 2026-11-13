@@ -13,7 +13,7 @@ Căn cứ ban hành QĐ 1074: điểm b khoản 6 Điều 55 Luật 55/2024/QH15
 
 Công trình chỉ được áp dụng Tài liệu này khi thỏa mãn CẢ BA:
 
-a) **Thuộc danh sách** cơ sở không bảo đảm yêu cầu PCCC và không có khả năng khắc phục do **UBND cấp tỉnh phân loại, lập, công bố** theo điểm a khoản 6 Điều 55 Luật 55/2024 (mốc 01/01/2026 theo khoản 1 Điều 43 NĐ 105 — Lào Cai đến 7/2026 chưa công bố, xem reference 14);
+a) **Thuộc danh sách** cơ sở không bảo đảm yêu cầu PCCC và không có khả năng khắc phục do **UBND cấp tỉnh phân loại, lập, công bố** theo điểm a khoản 6 Điều 55 Luật 55/2024 (mốc 01/01/2026 theo khoản 1 Điều 43 NĐ 105 — Lào Cai đã công bố, kiểm tra theo KH 462/KH-UBND ngày 30/9/2026, lịch tại TB 7808/TB-CAT-PCCC ngày 10/11/2026 — xem reference 14, 17);
 
 b) **Thuộc thẩm quyền quản lý của Bộ Xây dựng**, xác định theo pháp luật về xây dựng (Phụ lục VIII NĐ 175/2024: công trình dân dụng, công trình công nghiệp nhẹ, hạ tầng kỹ thuật, giao thông...);
 
@@ -106,7 +106,7 @@ Loại trừ chung E.1.2/E.2.2: không áp dụng nhà có công năng ngủ qua
 
 ## VI. Nguyên tắc áp dụng cần nhớ khi tư vấn
 
-1. **Kiểm tra 3 điều kiện phạm vi trước tiên** (mục II trên). Chưa có danh sách UBND tỉnh công bố → công trình CHƯA đủ điều kiện áp dụng chính thức; các giải pháp chỉ dùng tham khảo chuẩn bị.
+1. **Kiểm tra 3 điều kiện phạm vi trước tiên** (mục II trên). Công trình không có tên trong danh sách UBND tỉnh công bố → CHƯA đủ điều kiện áp dụng chính thức; các giải pháp chỉ dùng tham khảo chuẩn bị.
 2. **Soi cột Ghi chú loại trừ hạng A, B** ở từng giải pháp — đây là bẫy lớn nhất với cơ sở ngành Công Thương.
 3. Mục 4.2: mỗi tồn tại chọn một giải pháp; giải pháp yêu cầu báo cháy/chữa cháy KHÔNG được ghép đồng thời với giải pháp cho tồn tại "không trang bị báo cháy/chữa cháy".
 4. Tài liệu viện dẫn nền: QCVN 06:2022/BXD + Sửa đổi 1:2023 (ký hiệu [1]); QCVN 10:2025/BCA (ký hiệu [2]); TCVN 7336, 7435-1, 13456, 13657-1/-2, 13967; 4 Hướng dẫn của Viện KHCN xây dựng năm 2026 (tính toán thoát nạn, tải trọng cháy, mô phỏng cháy, chống khói).

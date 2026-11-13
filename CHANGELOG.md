@@ -1,3 +1,9 @@
+## 13/11/2026 — pccc-sct-vn 1.6.0: kiểm tra cơ sở không bảo đảm PCCC do UBND tỉnh công bố (TB 7808/TB-CAT-PCCC)
+
+- **pccc-sct-vn 1.6.0**: ref 17 mới (TB 7808/TB-CAT-PCCC ngày 10/11/2026 của Công an tỉnh; KH 462/KH-UBND ngày 30/9/2026; QĐ 3652/QĐ-UBND
+  ngày 06/10/2026): nội dung kiểm tra phần CQCM xây dựng, thành phần Đoàn, lịch 29 cơ sở 13/11–11/12/2026; ref 14, 15 bỏ nhận định
+  "Lào Cai chưa công bố danh sách"; rule check_facts `pccc-lao-cai-da-cong-bo-danh-sach-co-so-khong-bao-dam`.
+
 ## 12/11/2026 — kccn-sct-vn 1.66.0: đường sắt Lào Cai - Hà Nội - Hải Phòng, di dời KCN, CCN Đông Phố Mới, CCN Sơn Mãn
 
 - **kccn-sct-vn 1.66.0**: ref 56 mới (Báo cáo 727/BC-TGV ngày 02/11/2026 của Tổ Giúp việc BCĐ GPMB đường sắt; QĐ 4093/QĐ-UBND

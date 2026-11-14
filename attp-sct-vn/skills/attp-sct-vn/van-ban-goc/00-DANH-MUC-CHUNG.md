@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 354 văn bản gốc (354 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 355 văn bản gốc (355 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -325,6 +325,7 @@ Thống kê: 354 văn bản gốc (354 có bản .txt) ở 20 plugin; 30 văn b�
 | 16/2017/QH14 | 15/11/2017 | Luat Lam nghiep 16 2017 QH14 15 11 2017 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/Luat-Lam-nghiep-16-2017-QH14-15-11-2017.txt` | có |
 | 419/QĐ-TTg | 05/04/2017 | chuong trinh REDD plus | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-419-QD-TTg-05-4-2017-chuong-trinh-REDD-plus.txt` | có |
 | 1803/QĐ-TTg | 22/10/2015 | an PMR WB | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1803-QD-TTg-22-10-2015-du-an-PMR-WB.txt` | có |
+| 152/2015/TT-BTC | 02/10/2015 | Huong dan ve thue tai nguyen | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2015.10.02-152.2015.TT.BTC-Huong-dan-ve-thue-tai-nguyen.docx` | có |
 | 84/2015/QH13 | 25/06/2015 | An toan ve sinh lao dong | atvsld-sct-vn | `atvsld-sct-vn/skills/atvsld-sct-vn/van-ban-goc/Luat-84-2015-QH13-An-toan-ve-sinh-lao-dong.docx` | có |
 | 1215/QĐ-BNN-TCCB | 02/06/2014 | quy che BCD REDD | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1215-QD-BNN-TCCB-02-6-2014-quy-che-BCD-REDD.txt` | có |
 | 1775/QĐ-TTg | 21/11/2012 | de an quan ly phat thai tin chi | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1775-QD-TTg-21-11-2012-de-an-quan-ly-phat-thai-tin-chi.txt` | có |

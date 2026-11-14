@@ -1,3 +1,7 @@
+## 14/11/2026 — qlks-sct-vn v2.7.0
+
+- Nạp Nghị quyết 37/2025/NQ-HĐND ngày 29/12/2025 (mức đóng góp của tổ chức, cá nhân khai thác khoáng sản: 1% giá tính thuế tài nguyên; bãi bỏ NQ 28/2023/NQ-HĐND) — bản Word, PDF, `.txt`; ref 15 mục V, ref 16 mục XI (thu hồi đất san lấp trên đất hộ gia đình).
+
 ## 13/11/2026 — kccn-sct-vn 1.66.1: căn cứ khoản 4 Điều 32 NĐ 32/2024 sau NĐ 303/2026; điểm soát Đề án di dời CCN
 
 - **kccn-sct-vn 1.66.1**: ref 45 sửa căn cứ thẩm định Đề án di dời CCN Đầm Hồng — khoản 4 Điều 32 NĐ 32/2024 đã được thay bởi điểm c

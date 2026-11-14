@@ -44,3 +44,13 @@ So sánh trong tổng thể: tổng kế hoạch đầu tư công trung hạn ng
 - Phần KCN/CCN của cùng QĐ 2390 (tổng ≈1.476 tỷ cho hạ tầng KCN/CCN) → plugin `kccn-sct-vn` reference `22`.
 - Dự án cấp điện nông thôn do Sở Công Thương làm chủ đầu tư trong cùng quyết định → plugin `quy-hoach-ct-vn` reference `09`.
 - File PDF gốc: `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2390-2026-KH-dau-tu-cong-trung-han-2026-2030.pdf`.
+
+## V. MỨC THU ĐÓNG GÓP TỪ 08/01/2026 — NGHỊ QUYẾT 37/2025/NQ-HĐND (cập nhật 14/11/2026)
+
+Bản gốc: `van-ban-goc/2025.12.29-37.2025.NQ.HDND-Muc-thu-kinh-phi-dong-gop-khai-thac-khoang-san.docx` (Word) và `.pdf` (bản quét); toàn văn `.txt` cùng tên.
+
+- **Nghị quyết số 37/2025/NQ-HĐND ngày 29/12/2025** của Hội đồng nhân dân tỉnh Lào Cai quy định về mức thu và quản lý, sử dụng kinh phí đóng góp của tổ chức, cá nhân khai thác khoáng sản trên địa bàn tỉnh Lào Cai; Chủ tịch Trịnh Việt Hùng ký; thông qua tại Kỳ họp thứ 7 (chuyên đề) khóa XVI; **hiệu lực 08/01/2026**.
+- **Mức đóng góp (khoản 1 Điều 2):** bằng **1% giá tính thuế tài nguyên** tương ứng với từng loại khoáng sản, xác định trên một đơn vị sản phẩm khoáng sản nguyên khai. Số tiền xác định **theo năm** trên cơ sở mức đóng góp và sản lượng dự kiến khai thác (khoản 2 Điều 2).
+- **Cơ quan quản lý thu:** Thuế tỉnh Lào Cai (khoản 1 Điều 3). Sử dụng: ưu tiên đầu tư nâng cấp, duy tu, xây dựng công trình hạ tầng kỹ thuật, công trình bảo vệ môi trường tại địa bàn nơi có khoáng sản được khai thác, chế biến (khoản 2 Điều 3).
+- **Bãi bỏ Nghị quyết số 28/2023/NQ-HĐND ngày 08/12/2023** (khoản 2 Điều 4). Chuyển tiếp (khoản 3 Điều 4): khối lượng thuộc phạm vi NQ 28/2023 trên địa bàn tỉnh Lào Cai (cũ) đã xuất bán, sử dụng trước 08/01/2026 mà chưa nộp thì kê khai, nộp theo NQ 28/2023.
+- ⚠️ Đối tượng áp dụng ghi "tổ chức, cá nhân có hoạt động **khai thác** khoáng sản" (điểm a khoản 2 Điều 1), **không nhắc thu hồi khoáng sản**. Trường hợp thu hồi theo Điều 75 Luật 54/2024 có phải nộp hay không: do cơ quan thuế xác định — không khẳng định thay.

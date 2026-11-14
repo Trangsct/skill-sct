@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 355 văn bản gốc (355 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -165,6 +165,7 @@ Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn b�
 | 2752/QĐ-UBND | 31/12/2025 | Phu luc II xa khu vuc I II III | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2752-QD-UBND-31-12-2025-Phu-luc-II-xa-khu-vuc-I-II-III.pdf` | có |
 | 2752/QĐ-UBND | 31/12/2025 | thon xa vung DTTS MN 2026 2030 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2752-QD-UBND-31-12-2025-thon-xa-vung-DTTS-MN-2026-2030.pdf` | có |
 | 67/2025/TT-BCT | 31/12/2025 | sua doi TT 43 2025 | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-67-2025-TT-BCT-sua-doi-TT-43-2025.docx` | có |
+| 37/2025/NQ-HĐND | 29/12/2025 | Muc thu kinh phi dong gop khai thac khoang san | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2025.12.29-37.2025.NQ.HDND-Muc-thu-kinh-phi-dong-gop-khai-thac-khoang-san.docx` | có |
 | 5141/SNNMT-KS | 29/12/2025 | thong ke ke khai bao cao san luong | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-5141-SNNMT-KS-29-12-2025-thong-ke-ke-khai-bao-cao-san-luong.txt` | có |
 | 34-NQ/TU | 27/12/2025 |  | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/NQ-34-NQ-TU-27-12-2025.pdf` | có (OCR) |
 | 146/2025/QH15 | 11/12/2025 | sua doi 15 luat nong nghiep moi truong | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/Luat-146-2025-QH15-sua-doi-15-luat-nong-nghiep-moi-truong.docx` | có |
@@ -324,6 +325,7 @@ Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn b�
 | 16/2017/QH14 | 15/11/2017 | Luat Lam nghiep 16 2017 QH14 15 11 2017 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/Luat-Lam-nghiep-16-2017-QH14-15-11-2017.txt` | có |
 | 419/QĐ-TTg | 05/04/2017 | chuong trinh REDD plus | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-419-QD-TTg-05-4-2017-chuong-trinh-REDD-plus.txt` | có |
 | 1803/QĐ-TTg | 22/10/2015 | an PMR WB | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1803-QD-TTg-22-10-2015-du-an-PMR-WB.txt` | có |
+| 152/2015/TT-BTC | 02/10/2015 | Huong dan ve thue tai nguyen | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2015.10.02-152.2015.TT.BTC-Huong-dan-ve-thue-tai-nguyen.docx` | có |
 | 84/2015/QH13 | 25/06/2015 | An toan ve sinh lao dong | atvsld-sct-vn | `atvsld-sct-vn/skills/atvsld-sct-vn/van-ban-goc/Luat-84-2015-QH13-An-toan-ve-sinh-lao-dong.docx` | có |
 | 1215/QĐ-BNN-TCCB | 02/06/2014 | quy che BCD REDD | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1215-QD-BNN-TCCB-02-6-2014-quy-che-BCD-REDD.txt` | có |
 | 1775/QĐ-TTg | 21/11/2012 | de an quan ly phat thai tin chi | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1775-QD-TTg-21-11-2012-de-an-quan-ly-phat-thai-tin-chi.txt` | có |

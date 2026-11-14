@@ -209,3 +209,15 @@ SCT **không** cấp Giấy xác nhận đăng ký thu hồi khoáng sản. Như
 | `van-ban-goc/TT-04-2026-TT-BNNMT-sua-cac-TT-dia-chat-khoang-san.docx` | Sửa TT 36/2025: Điều 7 (Điều 21), khoản 4 Điều 9 (Phụ lục III mẫu 01, 02, 05, 06 + mẫu 03a mới) |
 | `van-ban-goc/ND-193-2025-ND-CP-trich-quan-trong.docx` · `ND-21-2026-ND-CP-sua-ND-193-2025.docx` | Điều 96, 97, 98 và bản sửa đổi |
 | `vi-du-thuc-te/` | 10 văn bản thật: xem `vi-du-thuc-te/00-MUC-LUC.md` |
+
+---
+
+## XI. THU HỒI ĐẤT SAN LẤP TRÊN ĐẤT Ở, ĐẤT NÔNG NGHIỆP CỦA HỘ GIA ĐÌNH (điểm d khoản 1 Điều 75) — ghi từ vụ việc 13–14/11/2026
+
+Tình huống: người sử dụng đất đào hạ tải taluy, san gạt trên đất nông nghiệp theo văn bản chủ trương của Ủy ban nhân dân cấp xã, muốn chuyển đất cho đơn vị thi công làm đất đắp.
+
+1. **Người đăng ký là người sử dụng đất**, không phải doanh nghiệp nhận đất (điểm b khoản 1 Điều 75 chỉ áp dụng cho chủ đầu tư, nhà thầu trong khu vực thi công dự án của chính họ). Thẩm quyền: Chủ tịch Ủy ban nhân dân cấp xã; hồ sơ mẫu **03**, Giấy xác nhận mẫu **06** (bản sửa bởi TT 04/2026 có thêm dòng "Mục đích sử dụng khoáng sản (nếu có)"; thời gian ghi bằng **số tháng**; phụ lục ranh giới lấy theo tọa độ, vị trí thửa đất trong giấy chứng nhận quyền sử dụng đất — chú thích 93 của mẫu).
+2. Đất **chở đi công trình khác** → phải đăng ký (khoản 5 Điều 75), **không được miễn** tiền cấp quyền (khoản 3 Điều 98 Luật chỉ miễn khi dùng xây công trình trong chính diện tích đất đó). Văn bản chủ trương san gạt, hạ tải của xã **không thay** Giấy xác nhận.
+3. Mẫu 03 **không có** câu "Tên tôi là:" — sau Kính gửi vào thẳng tên tổ chức, cá nhân; mẫu không yêu cầu phụ lục tọa độ, báo cáo kèm theo, nhưng nên kèm thuyết minh phương án và sơ đồ mặt bằng, mặt cắt để cấp xã có căn cứ thẩm định khối lượng.
+4. **Nghĩa vụ tài chính — cách ước (số ước, không phải số cơ quan thuế tính):** tiền cấp quyền T = Q x G x R (Điều 132 NĐ 193/2025; R = 3% cho vật liệu xây dựng thông thường còn lại, Phụ lục III); thuế tài nguyên 7% (Nghị quyết 1084/2015/UBTVQH13); phí bảo vệ môi trường theo nghị quyết của Hội đồng nhân dân tỉnh (khung Chính phủ 1.000–2.000 đồng/m3 — mức cụ thể của Lào Cai **chưa đối chiếu bản gốc**); đóng góp 1% giá tính thuế tài nguyên theo NQ 37/2025/NQ-HĐND (ref 15 mục V — chưa rõ có áp dụng cho thu hồi). Giá tính thuế tài nguyên năm 2026 của đất khai thác để san lấp, xây dựng công trình: 50.000 đồng/m3 theo QĐ 39/2025/QĐ-UBND ngày 31/12/2025 (**nguồn thứ cấp, chưa có bản gốc trong kho**).
+5. Khối lượng xin thu hồi phải khớp phương án hạ tải, san gạt; phần vượt thiết kế hoặc ngoài ranh thửa đất là khai thác trái phép (bẫy 6 mục IX).

@@ -39,6 +39,15 @@ Cách tra kho và cách sai bot vào Data360X lấy đúng văn bản đang cầ
 bản thuộc plugin nào và đường dẫn PDF. Đọc PDF → có quy định/số liệu mới thì sửa plugin tương ứng theo quy
 trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn là đã rà.
 
+**Từ 15/11/2026 bản tin gồm MỌI văn bản đi, đến thuộc lĩnh vực plugin** (bot 0.4.21, tới 120 văn bản một lượt; Bạn nhắc mục đích
+ban đầu: "tự động vào toàn bộ văn bản đến và đi để đọc và cập nhật thường xuyên cho toàn bộ hệ thống plugin"). Thứ tự đọc mỗi lượt:
+(a) trước hết các mục gắn nhãn **[quy định]** (văn bản quy phạm, chỉ đạo, hướng dẫn) → cập nhật reference/SKILL.md như cũ;
+(b) sau đó các mục vụ việc (không nhãn): không đưa nội dung vụ việc vào reference, chỉ dùng để cập nhật `trang-thai/<hồ sơ>.md`
+bằng `scripts/ghi_nhat_ky.py` (văn bản đã phát hành, bước đã xong, bước tiếp theo) và sửa dữ kiện plugin đã lỗi thời (người ký, tên
+cơ quan, thẩm quyền). Chưa đọc hết thì báo rõ còn bao nhiêu mục, lượt sau đọc tiếp. Đọc thêm báo cáo rà pháp luật trên mạng mới nhất
+ở `vlncn-laocai/theo-doi/ra-phap-luat/` (lịch 14:17 thứ Năm hằng tuần): văn bản ở mục "CẦN BẠN TẢI VỀ" chưa có bản gốc thì chỉ ghi
+`registry/trang-thai.csv` (ghi_chu "chưa đối chiếu bản gốc"), không sửa nghiệp vụ plugin theo bài báo.
+
 Ba điều bắt buộc:
 
 - **Không chép văn bản nội bộ sang kho này.** `skill-sct` công khai ra Internet; bản gốc văn bản đi/đến chỉ

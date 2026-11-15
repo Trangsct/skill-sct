@@ -39,6 +39,10 @@ Cách tra kho và cách sai bot vào Data360X lấy đúng văn bản đang cầ
 bản thuộc plugin nào và đường dẫn PDF. Đọc PDF → có quy định/số liệu mới thì sửa plugin tương ứng theo quy
 trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn là đã rà.
 
+**Lượt nâng cấp plugin tự động chỉ chạy MỘT lần mỗi tuần, 21:07 thứ Ba (Bạn chốt 15/11/2026: hạn mức tuần của Bạn làm mới 14h
+thứ Tư, dồn việc nặng vào cuối chu kỳ).** Lượt đó đọc MỌI bản tin từ lần nâng cấp trước (cả tuần, không giới hạn 3 ngày) và báo cáo
+rà pháp luật trên mạng cùng ngày (14:17 thứ Ba). Trong tuần Bạn cần gấp thì Bạn bảo, làm tay trong phiên.
+
 **Từ 15/11/2026 bản tin gồm MỌI văn bản đi, đến thuộc lĩnh vực plugin** (bot 0.4.21, tới 120 văn bản một lượt; Bạn nhắc mục đích
 ban đầu: "tự động vào toàn bộ văn bản đến và đi để đọc và cập nhật thường xuyên cho toàn bộ hệ thống plugin"). Thứ tự đọc mỗi lượt:
 (a) trước hết các mục gắn nhãn **[quy định]** (văn bản quy phạm, chỉ đạo, hướng dẫn) → cập nhật reference/SKILL.md như cũ;

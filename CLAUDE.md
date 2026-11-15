@@ -43,12 +43,21 @@ trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn
 thứ Tư, dồn việc nặng vào cuối chu kỳ).** Lượt đó đọc MỌI bản tin từ lần nâng cấp trước (cả tuần, không giới hạn 3 ngày) và báo cáo
 rà pháp luật trên mạng cùng ngày (14:17 thứ Ba). Trong tuần Bạn cần gấp thì Bạn bảo, làm tay trong phiên.
 
+**Một lần mỗi tuần nhưng phải THẬT KỸ và ĐẦY ĐỦ (Bạn chốt 15/11/2026).** Lượt thứ Ba không được dừng giữa chừng vì "hết giờ" hay
+"bản tin dài": (1) lập danh sách MỌI mục của mọi bản tin trong tuần (đếm theo plugin) trước khi đọc; (2) đọc toàn văn từng mục có tệp,
+không đọc lướt trích yếu — nhiều mục thì chia theo plugin cho các agent con đọc song song, mỗi agent trả về: văn bản nào, điều gì mới,
+sửa tệp nào; (3) mục [quy định] nào cũng phải có kết luận ghi rõ "đã cập nhật <tệp>" hoặc "không có gì mới so với <reference>", không
+bỏ trống; (4) sau khi sửa, tự soát lại từng chỗ sửa với văn bản nguồn (số, ngày, điều khoản, người ký) trước khi đẩy; (5) ghi bảng
+đối chiếu `theo-doi/nang-cap-plugin/<YYYY-MM-DD>.md` ở kho riêng tư vlncn-laocai (từng mục bản tin → plugin → kết luận; tổng số mục
+đã đọc / tổng số mục; văn bản không mở được và lý do) và đẩy lên; (6) chỉ khi thật sự không thể đọc hết mới được để lại, và phải liệt
+kê đích danh từng mục còn lại trong bảng đó để lượt sau đọc trước tiên. Thông báo cuối lượt nêu: N/N mục đã đọc, plugin đã nâng cấp.
+
 **Từ 15/11/2026 bản tin gồm MỌI văn bản đi, đến thuộc lĩnh vực plugin** (bot 0.4.21, tới 120 văn bản một lượt; Bạn nhắc mục đích
 ban đầu: "tự động vào toàn bộ văn bản đến và đi để đọc và cập nhật thường xuyên cho toàn bộ hệ thống plugin"). Thứ tự đọc mỗi lượt:
 (a) trước hết các mục gắn nhãn **[quy định]** (văn bản quy phạm, chỉ đạo, hướng dẫn) → cập nhật reference/SKILL.md như cũ;
 (b) sau đó các mục vụ việc (không nhãn): không đưa nội dung vụ việc vào reference, chỉ dùng để cập nhật `trang-thai/<hồ sơ>.md`
 bằng `scripts/ghi_nhat_ky.py` (văn bản đã phát hành, bước đã xong, bước tiếp theo) và sửa dữ kiện plugin đã lỗi thời (người ký, tên
-cơ quan, thẩm quyền). Chưa đọc hết thì báo rõ còn bao nhiêu mục, lượt sau đọc tiếp. Đọc thêm báo cáo rà pháp luật trên mạng mới nhất
+cơ quan, thẩm quyền). Đọc thêm báo cáo rà pháp luật trên mạng mới nhất
 ở `vlncn-laocai/theo-doi/ra-phap-luat/` (lịch 14:17 thứ Năm hằng tuần): văn bản ở mục "CẦN BẠN TẢI VỀ" chưa có bản gốc thì chỉ ghi
 `registry/trang-thai.csv` (ghi_chu "chưa đối chiếu bản gốc"), không sửa nghiệp vụ plugin theo bài báo.
 

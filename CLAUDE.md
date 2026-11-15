@@ -43,23 +43,29 @@ trình dưới đây; không có gì mới thì báo lại một dòng cho Bạn
 thứ Tư, dồn việc nặng vào cuối chu kỳ).** Lượt đó đọc MỌI bản tin từ lần nâng cấp trước (cả tuần, không giới hạn 3 ngày) và báo cáo
 rà pháp luật trên mạng cùng ngày (14:17 thứ Ba). Trong tuần Bạn cần gấp thì Bạn bảo, làm tay trong phiên.
 
-**Một lần mỗi tuần nhưng phải THẬT KỸ và ĐẦY ĐỦ (Bạn chốt 15/11/2026).** Lượt thứ Ba không được dừng giữa chừng vì "hết giờ" hay
-"bản tin dài": (1) lập danh sách MỌI mục của mọi bản tin trong tuần (đếm theo plugin) trước khi đọc; (2) đọc toàn văn từng mục có tệp,
-không đọc lướt trích yếu — nhiều mục thì chia theo plugin cho các agent con đọc song song, mỗi agent trả về: văn bản nào, điều gì mới,
-sửa tệp nào; (3) mục [quy định] nào cũng phải có kết luận ghi rõ "đã cập nhật <tệp>" hoặc "không có gì mới so với <reference>", không
-bỏ trống; (4) sau khi sửa, tự soát lại từng chỗ sửa với văn bản nguồn (số, ngày, điều khoản, người ký) trước khi đẩy; (5) ghi bảng
-đối chiếu `theo-doi/nang-cap-plugin/<YYYY-MM-DD>.md` ở kho riêng tư vlncn-laocai (từng mục bản tin → plugin → kết luận; tổng số mục
-đã đọc / tổng số mục; văn bản không mở được và lý do) và đẩy lên; (6) chỉ khi thật sự không thể đọc hết mới được để lại, và phải liệt
-kê đích danh từng mục còn lại trong bảng đó để lượt sau đọc trước tiên. Thông báo cuối lượt nêu: N/N mục đã đọc, plugin đã nâng cấp.
+**Quy tắc HAI TẦNG cho lượt thứ Ba (Bạn chốt 15/11/2026: "một lần nhưng phải thật kỹ và đầy đủ", rồi đồng ý "quy tắc 2 tầng").**
+Từ bot 0.4.21 bản tin gồm MỌI văn bản đi, đến thuộc lĩnh vực plugin (tới 120 văn bản một lượt quét). Plugin cần quy định và trạng thái
+hồ sơ, không cần nội dung từng vụ việc, nên:
 
-**Từ 15/11/2026 bản tin gồm MỌI văn bản đi, đến thuộc lĩnh vực plugin** (bot 0.4.21, tới 120 văn bản một lượt; Bạn nhắc mục đích
-ban đầu: "tự động vào toàn bộ văn bản đến và đi để đọc và cập nhật thường xuyên cho toàn bộ hệ thống plugin"). Thứ tự đọc mỗi lượt:
-(a) trước hết các mục gắn nhãn **[quy định]** (văn bản quy phạm, chỉ đạo, hướng dẫn) → cập nhật reference/SKILL.md như cũ;
-(b) sau đó các mục vụ việc (không nhãn): không đưa nội dung vụ việc vào reference, chỉ dùng để cập nhật `trang-thai/<hồ sơ>.md`
-bằng `scripts/ghi_nhat_ky.py` (văn bản đã phát hành, bước đã xong, bước tiếp theo) và sửa dữ kiện plugin đã lỗi thời (người ký, tên
-cơ quan, thẩm quyền). Đọc thêm báo cáo rà pháp luật trên mạng mới nhất
-ở `vlncn-laocai/theo-doi/ra-phap-luat/` (lịch 14:17 thứ Năm hằng tuần): văn bản ở mục "CẦN BẠN TẢI VỀ" chưa có bản gốc thì chỉ ghi
-`registry/trang-thai.csv` (ghi_chu "chưa đối chiếu bản gốc"), không sửa nghiệp vụ plugin theo bài báo.
+- **Tầng 1 — đọc TOÀN VĂN, soát lại, không được bỏ sót:** (a) mục gắn nhãn **[quy định]** (văn bản quy phạm, chỉ đạo, hướng dẫn);
+  (b) văn bản thuộc một hồ sơ đang theo dõi — số ký hiệu hoặc trích yếu khớp tên/bí danh trong `trang-thai/*.md`
+  (`python3 scripts/tim_ho_so.py "<trích yếu>"`); (c) văn bản Lãnh đạo giao đích danh cho Bạn (có trong
+  `vlncn-laocai/theo-doi/viec-cho-xu-ly/`). Cách làm: (1) lập danh sách mọi mục tầng 1 của cả tuần, đếm theo plugin, trước khi đọc;
+  (2) đọc toàn văn từng mục, không đọc lướt trích yếu — nhiều thì chia theo plugin cho agent con đọc song song; (3) mỗi mục phải có
+  kết luận "đã cập nhật <tệp>" hoặc "không có gì mới so với <reference>"; mục (a) → reference/SKILL.md; mục (b), (c) → `trang-thai/`
+  bằng `scripts/ghi_nhat_ky.py` (văn bản đã phát hành, bước đã xong, bước tiếp theo) và sửa dữ kiện plugin đã lỗi thời (người ký, tên
+  cơ quan, thẩm quyền), không đưa nội dung vụ việc vào reference; (4) tự soát lại từng chỗ sửa với văn bản nguồn (số, ngày, điều
+  khoản, người ký) trước khi đẩy; (5) không dừng vì "hết giờ" hay "bản tin dài" — thật sự không đọc hết thì nêu đích danh từng mục
+  còn lại để lượt sau đọc trước tiên.
+- **Tầng 2 — KHÔNG đọc trước, chỉ lưu để tra:** mọi công văn vụ việc còn lại. Toàn văn đã nằm ở kho riêng tư (plugin van-ban-sct-vn
+  `tim.py`, MCP `tra_van_ban_den_di`); phiên nào soạn văn bản, thẩm định thì tra lúc đó. Lượt thứ Ba chỉ đếm số mục tầng 2 theo plugin.
+  Cái giá Bạn đã chấp nhận: cách làm mới chỉ xuất hiện trong công văn vụ việc không tự vào plugin, tới khi dùng đến hoặc Bạn chỉ ra.
+- **Bảng đối chiếu** `theo-doi/nang-cap-plugin/<YYYY-MM-DD>.md` ở kho riêng tư vlncn-laocai, đẩy lên mỗi lượt: từng mục tầng 1 → plugin
+  → kết luận; tổng tầng 1 đã đọc / tổng tầng 1; số mục tầng 2 theo plugin; văn bản không mở được và lý do. Thông báo cuối lượt nêu:
+  N/N mục tầng 1 đã đọc, M mục tầng 2 lưu để tra, plugin đã nâng cấp.
+- Đọc thêm báo cáo rà pháp luật trên mạng cùng ngày ở `vlncn-laocai/theo-doi/ra-phap-luat/` (lịch 14:17 thứ Ba): văn bản ở mục
+  "CẦN BẠN TẢI VỀ" chưa có bản gốc thì chỉ ghi `registry/trang-thai.csv` (ghi_chu "chưa đối chiếu bản gốc"), không sửa nghiệp vụ
+  plugin theo bài báo.
 
 Ba điều bắt buộc:
 

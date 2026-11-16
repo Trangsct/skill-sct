@@ -1,3 +1,7 @@
+## 16/11/2026 — vbhc-vn 2.40.1: R02 không bắt nhầm KOH, NaOH
+
+- **vbhc-vn 2.40.1**: R02 bỏ qua công thức hóa học không có chữ số (KOH, NaOH, CaO, NaCl, MgO, ZnO) — trước đây báo FAIL dù viết đúng (vụ bảng hóa chất biên bản kiểm tra phòng ngừa, ứng phó sự cố hóa chất). Phép thử `tests/test_r02.py`, mục 8 hồi quy.
+
 ## 16/11/2026 — Nơi nhận có Ban Giám đốc Sở, dòng Lưu ghi lại tên chuyên viên; thư gửi chuyên viên khi hoàn thiện
 
 - **vbhc-vn 2.40.0**: Nơi nhận có "Ban Giám đốc Sở", dòng Lưu ghi lại tên chuyên viên soạn thảo `CN(Tên)` (trừ Giấy phép, Giấy chứng nhận thủ tục hành chính). Máy kiểm: R07 đảo (WARN khi thiếu tên), R22 thu hẹp còn GP/GCN, R28 mới (WARN khi thiếu Ban Giám đốc Sở). `build_vb.py --nguoi-soan`, `TemplateDoc.save(ra, nguoi_soan=)` điền tên; `chuan_hoa_dong_luu` không còn xóa tên; `kiem_tra_truoc_khi_giao.py` báo dòng Lưu thiếu tên. File lỗi mẫu r07b, r22, r28; baseline WARN chốt lại (13 cảnh báo R07 trên mẫu thật biến mất vì mẫu thật vốn ghi tên). Quy tắc mới: Bạn bảo "hoàn thiện" → gửi thư cho chuyên viên phụ trách.

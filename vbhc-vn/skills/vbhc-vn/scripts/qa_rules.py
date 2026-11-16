@@ -337,6 +337,9 @@ def rule_R02(doc, ctx) -> list[Finding]:
 
     Cách kiểm: ghép text các run KHÔNG subscript của từng paragraph — công thức viết đúng
     (chữ số nằm ở run subscript) sẽ không còn nguyên chuỗi, nên không bị bắt.
+    Công thức không có chữ số (KOH, NaOH, CaO, NaCl, MgO, ZnO) không có gì để hạ chỉ số,
+    viết phẳng là đúng — bỏ qua (sửa 16/11/2026: bắt nhầm KOH, NaOH trong bảng hóa chất
+    biên bản kiểm tra phòng ngừa, ứng phó sự cố hóa chất; tests/test_r02.py).
     """
     out: list[Finding] = []
     for loc, p in ctx.items:
@@ -345,6 +348,8 @@ def rule_R02(doc, ctx) -> list[Finding]:
             if (r.font.subscript is not True)
         )
         for m in CHEM.finditer(nfc(phang)):
+            if not any(c.isdigit() for c in m.group(1)):
+                continue
             out.append(Finding(
                 "R02", FAIL, loc, cut(p.text),
                 f"'{m.group(1)}' đang là chữ phẳng — tách run và đặt "

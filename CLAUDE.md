@@ -195,6 +195,19 @@ Khi Bạn nói xong, cảm ơn, chuyển sang việc khác, hoặc khi giao văn
 5. Dữ liệu nhật ký chỉ nằm trong kho này, không dùng dịch vụ ghi nhớ bên ngoài. Kho công khai: chỉ tên công ty và số giấy
    phép nhà nước cấp.
 
+## Phiên Claude Code chạy trên máy Bạn (IDE Antigravity, VS Code…) — Bạn chốt 16/11/2026
+
+Cùng tài khoản nhưng **không chung lịch sử**: phiên trên máy chỉ lưu ở `%USERPROFILE%\.claude\projects\`, không lên claude.ai;
+phiên đám mây không thấy (vụ biên bản kiểm tra hóa chất Apatit 16/11/2026). Kho GitHub là nơi chung duy nhất, nên phiên trên máy:
+
+- Đầu phiên `git pull` hai kho; cuối phiên làm đủ mục "Kết thúc phiên" ở trên KHÔNG dùng `--tam` (máy có quyền ghi kho), đồng thời
+  chép tệp đã giao vào `du-thao/<YYYY.MM.DD>-<Ten-ngan>/` của kho riêng tư vlncn-laocai (kèm `README.md`, `du-thao.md`), commit,
+  push, PR theo quy tắc từng kho; báo Bạn vế "đã đẩy lên kho". Văn bản nội bộ không vào kho này.
+- Quy tắc đầy đủ: mục cùng tên trong `CLAUDE.md` kho vlncn-laocai; tệp `CLAUDE-tren-may.md` ở gốc kho đó chép vào
+  `%USERPROFILE%\.claude\CLAUDE.md` trên từng máy để áp dụng cả khi IDE mở thư mục không phải kho.
+- Phiên đám mây được hỏi "đã nhờ ở chat nào" mà `list_sessions`, `du-thao/`, `trang-thai/` không có → nói rõ có thể là phiên IDE,
+  Bạn gõ `/resume` trong khung Claude của IDE.
+
 ## Tự ghi lỗi vào plugin ngay trong phiên (Bạn chốt 17/10/2026)
 
 Khi Bạn chỉ ra một lỗi trong văn bản đã soạn (câu chữ, thể thức, số liệu, cách viện dẫn, cách viết tên…), trong CÙNG

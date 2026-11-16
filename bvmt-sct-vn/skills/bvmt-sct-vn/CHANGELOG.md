@@ -1,5 +1,12 @@
 # CHANGELOG bvmt-sct-vn
 
+## 1.8.0 — 16/11/2026 — Phong cách phiếu nhận xét hội đồng thẩm định (ref 13)
+
+- Thêm `references/13-phong-cach-phieu-nhan-xet-hoi-dong.md`: phong cách phiếu nhận xét của thành viên Hội đồng thẩm định (GPMT, ĐTM, quy chuẩn kỹ thuật) — đúng mẫu, ngắn gọn (mỗi mục 2–3 gạch đầu dòng, cả phiếu khoảng 3 trang), xứng tầm (bỏ góp ý vụn về chính tả, phông, ký hiệu); góp ý chi tiết đủ ba phần "hồ sơ ghi gì - thiếu gì - đề nghị sửa thế nào"; kiểm chứng file gốc trước khi kết luận sai; chuẩn căn lề A4, khối ký.
+- SKILL.md (nhóm việc 9, bảng reference) và ref 08 mục 4 dẫn sang ref 13.
+- Nguồn: Bạn chốt 16/11/2026 "ghi nhớ phong cách làm việc này vào plugin để tôi nhận xét GPMT hoặc ĐTM cho hay như vậy", rút từ phiếu nhận xét hồ sơ dự thảo QCĐP nước sạch 10/11/2026 ("tham gia đúng mẫu, ngắn gọn, xứng tầm"; "chỗ góp ý chi tiết nên rõ hơn cho ai cũng hiểu được").
+- `plugin.json` 1.7.3 → 1.8.0. Chi tiết: `CHANGELOG-v2026.11.16-b.md`.
+
 ## 1.7.1 — 18/10/2026 — Căn cứ chức năng Sở: QĐ 3628/QĐ-UBND ngày 02/10/2026 thay QĐ 05/2025/QĐ-UBND (chuyển từ PR 112/115)
 
 - Thay dẫn QĐ 05/2025/QĐ-UBND → **QĐ 3628/QĐ-UBND ngày 02/10/2026** (Quy định CNNV, quyền hạn, cơ cấu tổ chức Sở Công Thương — 06 phòng, có Phòng Quản lý khoáng sản; không có khu công nghiệp) trong mẫu văn bản, reference: `references/11-kl75-ctr31-ctr104-tu-trien-khai-sct.md`. Dòng nói về văn bản đã ký trước 02/10/2026 giữ nguyên dẫn cũ, ghi "lịch sử". Nguồn: `sct-laocai-org-vn` ref 04; bản gốc + `.txt`: `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.10.02-QD-3628-QD-UBND.pdf`. Máy kiểm: rule `qd-05-2025-da-thay-bang-qd-3628` trong `scripts/check_facts.py`.

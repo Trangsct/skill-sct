@@ -1,3 +1,7 @@
+## 16/11/2026 — bvmt-sct-vn 1.8.0: phong cách phiếu nhận xét hội đồng thẩm định
+
+- **bvmt-sct-vn 1.8.0**: ref 13 mới — phiếu nhận xét của thành viên Hội đồng (GPMT, ĐTM, quy chuẩn kỹ thuật) viết đúng mẫu, ngắn gọn, xứng tầm; góp ý chi tiết ba phần "hồ sơ ghi gì - thiếu gì - đề nghị sửa thế nào"; chuẩn căn lề, khối ký. SKILL.md và ref 08 dẫn sang ref 13.
+
 ## 16/11/2026 — kccn-sct-vn 1.66.3: thẩm định, trình Đề án di dời CCN Đầm Hồng
 
 - **kccn-sct-vn 1.66.3**: ref 45 sửa căn cứ Quy chế quản lý CCN thành khoản 1 Điều 16 QĐ 16/2026/QĐ-UBND; hình thức thẩm định Đề án

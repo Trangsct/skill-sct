@@ -43,7 +43,7 @@ III. NỘI DUNG HỒ SƠ TRÌNH (tóm tắt giải pháp thiết kế → PL 02)
 IV.  PHẠM VI, CƠ SỞ VÀ NGUYÊN TẮC THẨM ĐỊNH (câu giới hạn phạm vi — bắt buộc)
 V.   KẾT QUẢ THẨM ĐỊNH (đạt/chưa đạt từng nhóm; nội dung yêu cầu hoàn thiện → PL 03/04)
 VI.  KẾT LUẬN VÀ YÊU CẦU (điều kiện triển khai bước tiếp; trách nhiệm chủ đầu tư)
-Nơi nhận: Như trên; GĐ/PGĐ; Một cửa (T/h); Lưu: VT, CN.   KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân
+Nơi nhận: Như trên; GĐ/PGĐ; Một cửa (T/h); Lưu: VT, CN(Tên).   KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân
 ```
 Kèm đóng dấu xác nhận của Sở vào hồ sơ bản vẽ (giai đoạn còn cơ chế này). Thuật ngữ: dự án 2 bước → dùng "thiết kế xây dựng triển khai sau thiết kế cơ sở" (có đoạn giải thích chuẩn trong mẫu Sin Quyền nếu doanh nghiệp gọi "TKBVTC").
 

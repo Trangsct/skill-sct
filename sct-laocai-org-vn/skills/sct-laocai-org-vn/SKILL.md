@@ -244,9 +244,9 @@ Tóm tắt để định tuyến (viện dẫn "mục 2.x khoản 2 Điều y Q�
 
 #### Dòng Lưu, CHUYÊN VIÊN THAM MƯU và NGƯỜI KÝ (khối chữ ký)
 
-**a) Dòng Lưu cuối Nơi nhận:** `Lưu: VT, CN.` — **VT** = Văn thư, **CN** = Phòng Quản lý công nghiệp. **KHÔNG ghi tên chuyên viên soạn thảo** ở cuối văn bản (Bạn chốt 01/10/2026, thay quy ước cũ "CN(tên)"); công văn nội bộ Phòng ghi `Lưu: CN.`. Văn bản ban hành trước 01/10/2026 có "CN(Trung)", "CN (Khôi)"… là lịch sử, không sửa lại; khi dựng từ mẫu thật cũ, `build_vb.py`/`TemplateDoc.save()` của `vbhc-vn` tự bỏ tên.
+**a) Dòng Lưu cuối Nơi nhận:** `Lưu: VT, CN(Tên).` — **VT** = Văn thư, **CN** = Phòng Quản lý công nghiệp, trong ngoặc là **tên chuyên viên soạn thảo** (Bạn chốt 16/11/2026, khôi phục quy ước trước 01/10/2026); công văn nội bộ Phòng ghi `Lưu: CN(Tên).`. Nơi nhận có dòng "- Ban Giám đốc Sở;". Ngoại lệ: Giấy phép, Giấy chứng nhận thủ tục hành chính ghi `Lưu: VT, BP1C, CN.`, không gửi Ban Giám đốc Sở. Văn bản ban hành 01/10–16/11/2026 ghi "Lưu: VT, CN." không tên là lịch sử, không sửa lại.
 
-Bảng dưới chỉ dùng để biết **chuyên viên nào tham mưu lĩnh vực nào** (giao việc, hỏi thông tin, kiểm duyệt), không đưa tên vào văn bản:
+Bảng dưới cho biết **chuyên viên nào tham mưu lĩnh vực nào** — dùng để giao việc, hỏi thông tin, kiểm duyệt và **lấy tên ghi vào dòng Lưu**:
 
 | Chuyên viên | Gọi tắt | Lĩnh vực mặc định (từ 10/7/2026) |
 |---|---|---|
@@ -381,7 +381,7 @@ Nhiệm vụ chi tiết theo Điều 6, 7, 8 QĐ 6226/QĐ-SCT và ghi chú về 
 **Ai phụ trách trong Sở (áp dụng cho việc mới, chờ Quyết định phân công của UBND tỉnh và điều chỉnh phân công nội bộ):**
 - Lãnh đạo Sở (QĐ 6320/QĐ-SCT ngày 06/10/2026): **PGĐ Hoàng Văn Thuân** — địa chất, khai thác, chế biến khoáng sản, thẩm định thiết kế mỏ, phụ trách **Phòng Quản lý Khoáng sản**; **PGĐ Phạm Năng Chung** — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, dữ liệu, KS làm VLXD; **PGĐ Nguyễn Đình Chiến** — KCN, CCN; Giám đốc Hoàng Chí Hiền ký Tờ trình UBND tỉnh về phân công, chuyển giao và biên bản bàn giao. (Trước 05/10/2026 skill ghi PGĐ Thuân phụ trách cả VLNCN, môi trường — lịch sử.)
 - Phòng chủ trì: mảng khoáng sản tiếp nhận → **Phòng Quản lý Khoáng sản** (mới, QĐ 3628/QĐ-UBND ngày 02/10/2026); đến khi bàn giao xong, Phòng QLCN (PTP Nguyễn Hồng Vân; CV Dũng, CV Nhung) vẫn xử lý việc đang dở; KCN: CV Trung (Phòng QLCN). Khối lượng cấp phép, tiền cấp quyền, hội đồng thẩm định tăng mạnh → tham mưu tiếp nhận **biên chế, nhân sự, dự toán chuyển theo nguyên trạng** (Điều 7 k3, k5c NQ).
-- Văn bản do Phòng QLCN soạn: `Lưu: VT, CN.`, ký hiệu SCT-CN. Văn bản do Phòng Quản lý Khoáng sản soạn: ký hiệu **`/SCT-KS`**, dòng **`Lưu: VT, KS.`** (quan sát 7 văn bản đi ngày 09/10/2026: 6416, 6417, 6419, 6420, 6452, 6473, 6481/SCT-KS — reference `03` mục C; kể cả việc KCN như ý kiến hồ sơ KCN Minh Quân mở rộng 6481/SCT-KS).
+- Văn bản do Phòng QLCN soạn: `Lưu: VT, CN(Tên).`, ký hiệu SCT-CN. Văn bản do Phòng Quản lý Khoáng sản soạn: ký hiệu **`/SCT-KS`**, dòng **`Lưu: VT, KS.`** (quan sát 7 văn bản đi ngày 09/10/2026: 6416, 6417, 6419, 6420, 6452, 6473, 6481/SCT-KS — reference `03` mục C; kể cả việc KCN như ý kiến hồ sơ KCN Minh Quân mở rộng 6481/SCT-KS).
 
 **GATE hành văn:** từ 02/10/2026 đã có QĐ 3628/QĐ-UBND — viết thẳng "Sở Công Thương là cơ quan chuyên môn tham mưu UBND tỉnh quản lý nhà nước về địa chất, khoáng sản" (dẫn QĐ 3628 + TT 50/2026 + NQ 66.25); **không viết Sở quản lý khu công nghiệp**; cụm cũ "cơ quan chuyên môn được UBND tỉnh giao QLNN về địa chất, khoáng sản (khu công nghiệp)" chỉ đúng cho văn bản ký 15/9–01/10/2026 (lịch sử); không viết "Sở Công Thương cấp giấy phép khai thác" (thẩm quyền cấp vẫn là Chủ tịch UBND tỉnh/Bộ Công Thương — Sở thẩm định, trình). Hồ sơ tiếp nhận từ SNNMT/SXD: chuyển nguyên trạng, không tính lại thời hạn, không yêu cầu nộp lại (Điều 4 NQ).
 

@@ -70,7 +70,7 @@ Thương [ĐT] để được hướng dẫn./.
 
 Nơi nhận:                                      KT. GIÁM ĐỐC
 - Các đơn vị tại mục Xét đề nghị;              PHÓ GIÁM ĐỐC
-- Lưu: VT, CN.                              Nguyễn Đình Chiến
+- Lưu: VT, CN(Tên).                              Nguyễn Đình Chiến
 ```
 
 Ghi chú: Lưu CN theo người trực tiếp tham mưu — từ 10/7/2026 mặc định CV Khôi (Trần Đăng Khôi, chuyên viên VLNCN); văn bản trước đó có thể là CV M.Cường/CV Linh, không sửa lại lịch sử.

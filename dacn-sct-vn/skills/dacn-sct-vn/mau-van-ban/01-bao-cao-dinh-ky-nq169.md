@@ -97,7 +97,7 @@ Nơi nhận:                              GIÁM ĐỐC
 - Thống kê tỉnh (p/h);
 - Giám đốc, các PGĐ Sở;
 - Các phòng chuyên môn;
-- Lưu: VT, CN.                     Hoàng Chí Hiền
+- Lưu: VT, CN(Tên).                     Hoàng Chí Hiền
 ```
 
 ---

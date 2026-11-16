@@ -25,7 +25,7 @@ Mỗi tệp được tách nguyên văn từ bản Word toàn văn TT 26/2026 (`
 ## Lưu ý khi dùng mẫu kết quả (Mẫu 06, 09, 12)
 
 - **Người ký** phụ thuộc **Quyết định ủy quyền của UBND tỉnh Lào Cai**: thẩm quyền cấp theo luật là **UBND cấp tỉnh** (Điều 9, 10, 11, 14 Luật 69/2025; Điều 9, 13, 20 NĐ 26/2026). Đến 10/2026 chưa có Quyết định ủy quyền hóa chất (hồ sơ đang trình — ref 16 mục 6) → Sở thẩm định, **trình Chủ tịch UBND tỉnh ký**; tên cơ quan cấp ghi "ỦY BAN NHÂN DÂN TỈNH LÀO CAI", số theo Văn thư UBND tỉnh. Khi có ủy quyền → Giám đốc Sở ký (KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến theo phân công), dấu và thể thức của Sở. **Hỏi Bạn trước khi chốt.**
-- Dòng Lưu của văn bản Sở: `Lưu: VT, CN.` (không ghi tên chuyên viên — quy ước từ 01/10/2026).
+- Dòng Lưu của văn bản Sở: `Lưu: VT, CN(Loan).`, Nơi nhận có Ban Giám đốc Sở; Giấy phép, Giấy chứng nhận `Lưu: VT, BP1C, CN.` (Bạn chốt 16/11/2026).
 - Sau khi cấp phải gửi bản sao đến **Bộ Công Thương (Cục Hóa chất)** và UBND cấp tỉnh nơi đặt trụ sở chính/cơ sở để phối hợp quản lý; cập nhật Cơ sở dữ liệu chuyên ngành hóa chất (GP kiểm soát đặc biệt: 07 ngày làm việc).
 - Thành phần hồ sơ ghi trong mẫu văn bản đề nghị là mẫu của TT 26; thành phần **bắt buộc** đọc theo NQ 19/2026 (ref 18 mục 3) — không đòi Thông báo nghiệm thu, Phiếu an toàn hóa chất.
 

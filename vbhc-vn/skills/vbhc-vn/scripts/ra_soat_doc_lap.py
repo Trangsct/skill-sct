@@ -35,7 +35,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 from docx import Document  # noqa: E402
 from docx.oxml.ns import qn  # noqa: E402
 
-from qa_rules import (Ctx, _co_chu, _co_dau_doan, _la_tthc, _o_noi_nhan, _tt, cut, nfc,  # noqa: E402
+from qa_rules import (Ctx, _co_chu, _co_dau_doan, _la_gp_gcn, _o_noi_nhan, _tt, cut, nfc,  # noqa: E402
                       rule_R23, text_runs)
 
 PHONG_CHUAN = "Times New Roman"
@@ -244,12 +244,13 @@ def do(path: Path, pdf: Path | None = None, render: bool = True) -> list[dict]:
         for m in GOP_SO.finditer(t):
             _ve(ds, "11. Tên cụm", f"{loc}: '{m.group(0)}' — viết đủ tên từng cụm", True)
 
-    # [12] Văn bản thủ tục hành chính gửi Ban Giám đốc Sở
+    # [12] Nơi nhận Ban Giám đốc Sở (Bạn chốt 16/11/2026): mọi văn bản của Sở gửi Ban Giám đốc Sở,
+    # trừ Giấy phép, Giấy chứng nhận của thủ tục hành chính (R22, R28)
     if o is not None:
-        tthc = _la_tthc(ctx)
+        gp = _la_gp_gcn(ctx)
         bgd = "Ban Giám đốc" in nfc(o.text)
-        _ve(ds, "12. Nơi nhận TTHC", f"văn bản thủ tục hành chính: {'có' if tthc else 'không'}; "
-            f"Nơi nhận có Ban Giám đốc Sở: {'có' if bgd else 'không'}", tthc and bgd)
+        _ve(ds, "12. Nơi nhận Ban Giám đốc Sở", f"Giấy phép/Giấy chứng nhận TTHC: {'có' if gp else 'không'}; "
+            f"Nơi nhận có Ban Giám đốc Sở: {'có' if bgd else 'không'}", (gp and bgd) or (not gp and not bgd))
 
     # [13] Giao việc cho Phòng Quản lý Công nghiệp trong văn bản do Phòng tham mưu
     luu_cn = re.search(r"Lưu\s*:\s*VT\s*,\s*CN\b", ctx.full_text)

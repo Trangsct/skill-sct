@@ -3,7 +3,7 @@
 """test_ra_soat.py — kiểm GATE cuối (Bạn chốt 17/10/2026, bản giao việc mục 3).
 
   1. ra_soat_doc_lap.py đo đúng: bỏ dòng trống sau "Kính gửi" của mẫu thật công văn → mục [3] báo 0 dòng (⚠).
-  2. kiem_tra_truoc_khi_giao.py --tu-sua sửa lại đúng 1 dòng, Nơi nhận cỡ 11, dòng Lưu bỏ tên chuyên viên, và
+  2. kiem_tra_truoc_khi_giao.py --tu-sua sửa lại đúng 1 dòng, Nơi nhận cỡ 11, dòng Lưu GIỮ tên chuyên viên (Bạn chốt 16/11/2026), và
      không làm phát sinh FAIL mới so với mẫu thật.
   3. Một lệnh kiem_tra_truoc_khi_giao.py chạy xong dưới 30 giây.
 
@@ -70,8 +70,9 @@ def main() -> int:
     moi = [y for y in chay(f) if y.level == FAIL and y.code not in fail_goc]
     if moi:
         loi.append("2. --tu-sua làm phát sinh FAIL mới: " + ", ".join(y.code for y in moi))
-    if any(y.code == "R07" for y in chay(f)):
-        loi.append("2. --tu-sua chưa bỏ tên chuyên viên ở dòng Lưu (R07)")
+    if "CN(Linh)" not in "\n".join(p.text for t in Document(str(f)).tables for r in t.rows for c in r.cells
+                                   for p in c.paragraphs):
+        loi.append("2. --tu-sua làm mất tên chuyên viên ở dòng Lưu (Bạn chốt 16/11/2026: giữ CN(Tên))")
     if giay >= 30:
         loi.append(f"3. kiem_tra_truoc_khi_giao.py mất {giay:.1f}s ≥ 30s")
 

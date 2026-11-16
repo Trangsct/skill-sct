@@ -21,7 +21,7 @@ Sở Công Thương Lào Cai thông báo cho các đơn vị hoạt động vậ
 địa bàn tỉnh được biết và triển khai thực hiện./.
 
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến. Nơi nhận: Như trên;
-Lưu: VT, CN. (từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở).
+Ban Giám đốc Sở; Lưu: VT, CN(Khôi). (Bạn chốt 16/11/2026: chỉ Giấy phép, Giấy chứng nhận không gửi Ban Giám đốc Sở).
 ```
 
 ⚠️ Kiểm tra kỹ ngày tháng trước khi phát hành (TB 3915 bản phát hành từng in "tháng 76").

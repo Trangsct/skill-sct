@@ -42,5 +42,5 @@ thuật an toàn vật liệu nổ công nghiệp cho người quản lý của 
 đề nghị các tổ chức, cá nhân liên quan phối hợp, triển khai thực hiện./."
 
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến. Nơi nhận: các đơn vị;
-Lưu: VT, CN. (từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở).
+Ban Giám đốc Sở; Lưu: VT, CN(Khôi). (Bạn chốt 16/11/2026: chỉ Giấy phép, Giấy chứng nhận không gửi Ban Giám đốc Sở).
 ```

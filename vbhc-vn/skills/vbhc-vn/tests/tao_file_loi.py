@@ -322,15 +322,33 @@ sz = OxmlElement('w:sz'); sz.set(_qn('w:val'), '4'); rpr.append(sz)
 d.save(str(p))
 ghi_expect(p, ['R21 WARN'], 'Thu đoạn trống trước bảng Nơi nhận - ký về cỡ 2 (chuẩn: một dòng cỡ 14).')
 
-# R22: văn bản thủ tục hành chính (hoàn thiện hồ sơ) gửi thêm "Ban Giám đốc Sở".
-p = sao('sct/cong-van-de-nghi-bo-sung-ho-so.docx', 'r22-tthc-gui-ban-giam-doc.docx')
+# R22: Giấy phép thủ tục hành chính gửi thêm "Ban Giám đốc Sở" (Bạn chốt 16/11/2026: chỉ GP, GCN không gửi).
+p = sao('sct/giay-phep-van-chuyen-hhnh.docx', 'r22-gp-tthc-gui-ban-giam-doc.docx')
 d = Document(str(p))
 q = dau_tien(d, lambda t: t.strip().startswith('- Lưu'))
 if q is None: sys.exit('R22: không tìm được dòng Lưu')
 moi = deepcopy(q._p); q._p.addprevious(moi)
 dat_text(Paragraph(moi, q._parent), '- Ban Giám đốc Sở;')
 d.save(str(p))
-ghi_expect(p, ['R22 FAIL'], 'Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của công văn hoàn thiện hồ sơ thủ tục hành chính.')
+ghi_expect(p, ['R22 FAIL'], 'Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của Giấy phép vận chuyển hàng hóa nguy hiểm (thủ tục hành chính).')
+
+# R07b: dòng Lưu thiếu tên chuyên viên soạn thảo (Bạn chốt 16/11/2026: ghi lại "CN(Tên)").
+p = sao('sct/cong-van-moi-hop-sct.docx', 'r07b-dong-luu-thieu-ten-chuyen-vien.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('- Lưu'))
+if q is None: sys.exit('R07b: không tìm được dòng Lưu')
+dat_text(q, '- Lưu: VT, CN.')
+d.save(str(p))
+ghi_expect(p, ['R07 WARN'], 'Đổi dòng Lưu "CN(Khôi)" thành "Lưu: VT, CN." — thiếu tên chuyên viên soạn thảo.')
+
+# R28: văn bản của Sở thiếu "Ban Giám đốc Sở" ở Nơi nhận (Bạn chốt 16/11/2026).
+p = sao('sct/cong-van-moi-hop-sct.docx', 'r28-thieu-ban-giam-doc-so.docx')
+d = Document(str(p))
+q = dau_tien(d, lambda t: t.strip().startswith('- Ban Giám đốc Sở'))
+if q is None: sys.exit('R28: không tìm được dòng Ban Giám đốc Sở')
+q._p.getparent().remove(q._p)
+d.save(str(p))
+ghi_expect(p, ['R28 WARN'], 'Xóa dòng "- Ban Giám đốc Sở;" khỏi Nơi nhận của công văn mời họp của Sở.')
 
 # ── R23 (Bạn chốt 17/10/2026, GATE 0): số hiệu văn bản quy phạm chưa có tệp gốc trong kho ──────────
 # Dùng chung hàm dựng với tests/test_gate0.py: câu chèn lấy NGUYÊN từ mẫu thật phiếu trình UBND.

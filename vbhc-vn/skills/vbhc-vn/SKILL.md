@@ -73,7 +73,7 @@ Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy 
 
 1. **Claude** chạy MỘT lệnh: `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua [--final]` — gộp `qa_all.py`
    (R01–R27), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
-   trước khối ký, một dòng sau Kính gửi, bảng nội dung nền trắng căn giữa dọc, bảng Nơi nhận - ký căn trên để dòng "Nơi nhận:" ngang dòng chức vụ, dòng Lưu bỏ tên chuyên viên) rồi kiểm lại.
+   trước khối ký, một dòng sau Kính gửi, bảng nội dung nền trắng căn giữa dọc, bảng Nơi nhận - ký căn trên để dòng "Nơi nhận:" ngang dòng chức vụ, báo dòng Lưu thiếu tên chuyên viên) rồi kiểm lại.
 2. **Tác tử phụ chưa tham gia soạn** (công cụ Agent, chạy nền) nhận đúng lời giao sau, không kèm bối cảnh phiên:
 
    ```
@@ -142,8 +142,18 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
    CN môi trường, ATVSLĐ → PGĐ Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → PGĐ Phạm Năng Chung;
    năng lượng → PGĐ Nguyễn Trường Giang; thương mại → PGĐ Trịnh Văn Thành / Nguyễn Huy Tưởng; TTr UBND
    tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.
-6. **Dòng Lưu KHÔNG ghi tên chuyên viên** (Bạn chốt 01/10/2026): `Lưu: VT, CN.`; công văn nội bộ
-   Phòng `Lưu: CN.`. `build_vb.py` và `TemplateDoc.save()` tự bỏ tên còn sót trong mẫu thật cũ; R07 WARN nếu còn tên.
+6. **Nơi nhận có "- Ban Giám đốc Sở;" và dòng Lưu GHI tên chuyên viên soạn thảo** (Bạn chốt 16/11/2026, thay quy
+   ước 01/10/2026 bỏ tên và 13/10/2026 thủ tục hành chính không gửi Ban Giám đốc — nay là lịch sử): `Lưu: VT, CN(Loan).`;
+   công văn nội bộ Phòng `Lưu: CN(Loan).`; tên gọi theo chuyên viên tham mưu (bảng phân công trong `sct-laocai-org-vn`,
+   Bạn tự soạn thì `CN(Trang)`). **Ngoại lệ duy nhất: Giấy phép, Giấy chứng nhận của thủ tục hành chính** — không gửi
+   Ban Giám đốc Sở, dòng Lưu `Lưu: VT, BP1C, CN.` không tên. `build_vb.py --nguoi-soan Loan`, `TemplateDoc.save(ra,
+   nguoi_soan="Loan")` điền tên; máy kiểm R07 (thiếu tên), R22 (GP/GCN gửi Ban Giám đốc), R28 (thiếu Ban Giám đốc Sở).
+   **Bạn bảo "hoàn thiện" một văn bản → gửi thư cho chuyên viên phụ trách** (Bạn chốt 16/11/2026): sau khi chốt bản
+   cuối (qua `kiem_tra_truoc_khi_giao.py`), gửi một thư từ Gmail của Bạn tới chuyên viên có tên ở dòng Lưu `CN(Tên)` —
+   cả Gmail và hộp thư công vụ, tra ở plugin riêng tư `dong-nghiep-sct-vn` (`data/danh-ba.csv`; kho công khai này không
+   ghi địa chỉ thư) — đính kèm tệp .docx, thân thư nêu tên văn bản, việc chuyên viên cần làm (trình ký trên hệ thống),
+   chỗ cần lưu ý; ký "Trang". Chỉ gửi khi Bạn nói hoàn thiện (bản đang sửa không gửi). Phiên không có Gmail hoặc không
+   tra được địa chỉ → giao tệp và nói rõ chưa gửi.
 7. **PDF văn bản đến: chạy `scripts/extract_metadata.py` TRƯỚC khi dẫn số/ngày.** Ô số/ngày
    trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "chưa cấp số" hay "bản dự thảo".
 8. **Nơi nộp hồ sơ TTHC = Cổng dịch vụ công một cửa Bộ Công Thương**
@@ -151,7 +161,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
    công dưới bất kỳ hình thức nào.
 9. **Mọi lệnh replace là bắt buộc khớp, thất bại phải nổ to** — không bọc try/except nuốt lỗi.
 10. **Tên file**: `YYYY.MM.DD. Tên văn bản đầy đủ tiếng Việt có dấu.docx`.
-11. **Trước khi xuất file chạy `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx` (thêm `--tthc` với văn bản thủ tục hành chính)** rồi `qa_all.py --final` (Bạn chốt 13/10/2026): (a) quét TOÀN BỘ phông về Times New Roman, kể cả kiểu Normal, số trang, theme — mẫu thật cũ còn `.VnTime` ẩn, hệ thống quản lý văn bản mới chuyển PDF để ký số có thể lỗi; (b) các dòng Nơi nhận cỡ 11 ("Nơi nhận:" cỡ 12); (c) khối Nơi nhận - ký cách thân đúng 1 dòng trống cỡ 14; (d) văn bản thủ tục hành chính không gửi "Ban Giám đốc Sở". Máy kiểm R19–R22. `TemplateDoc.save()` và `build_vb.py` tự chạy bước này. Trình trên hệ thống: mục Dự thảo chỉ để tệp công văn (.docx/.pdf), không để tệp nén .rar/.zip bộ hồ sơ.
+11. **Trước khi xuất file chạy `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx` (thêm `--tthc` với Giấy phép, Giấy chứng nhận thủ tục hành chính)** rồi `qa_all.py --final` (Bạn chốt 13/10/2026): (a) quét TOÀN BỘ phông về Times New Roman, kể cả kiểu Normal, số trang, theme — mẫu thật cũ còn `.VnTime` ẩn, hệ thống quản lý văn bản mới chuyển PDF để ký số có thể lỗi; (b) các dòng Nơi nhận cỡ 11 ("Nơi nhận:" cỡ 12); (c) khối Nơi nhận - ký cách thân đúng 1 dòng trống cỡ 14; (d) Giấy phép, Giấy chứng nhận thủ tục hành chính không gửi "Ban Giám đốc Sở" (mọi văn bản khác phải gửi — R28, Bạn chốt 16/11/2026). Máy kiểm R19–R22, R28. `TemplateDoc.save()` và `build_vb.py` tự chạy bước này. Trình trên hệ thống: mục Dự thảo chỉ để tệp công văn (.docx/.pdf), không để tệp nén .rar/.zip bộ hồ sơ.
 
 ## QA — chạy gì, khi nào
 
@@ -194,7 +204,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN.`; Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Nơi nhận xếp theo vị thế cơ quan nhà nước, doanh nghiệp đứng riêng dòng sau cùng (trên Văn phòng, Lưu)**; **văn bản thủ tục hành chính không gửi Ban Giám đốc Sở**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **bảng Nơi nhận - ký căn trên, dòng "Nơi nhận:" ngang dòng chức vụ người ký (23/10/2026, R26)**; **trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng, cân tâm với khối tên cơ quan, rộng hơn mỗi bên 0,5-1 cm, không chạm đường thẳng đứng chữ "CỘNG" (10/11/2026, R27, `do_trich_yeu.py`, sổ lỗi L015)**; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; "Ủy ban nhân dân" viết "UBND" ở Nơi nhận và bảng phụ lục, viết đầy đủ trong thân (phần căn cứ chờ Bạn chốt); biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22, R24–R27 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN(Tên).` (16/11/2026, R07); Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Nơi nhận xếp theo vị thế cơ quan nhà nước, doanh nghiệp đứng riêng dòng sau cùng (trên Văn phòng, Lưu)**; **Nơi nhận có Ban Giám đốc Sở, trừ Giấy phép, Giấy chứng nhận thủ tục hành chính (16/11/2026, R22, R28)**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **bảng Nơi nhận - ký căn trên, dòng "Nơi nhận:" ngang dòng chức vụ người ký (23/10/2026, R26)**; **trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng, cân tâm với khối tên cơ quan, rộng hơn mỗi bên 0,5-1 cm, không chạm đường thẳng đứng chữ "CỘNG" (10/11/2026, R27, `do_trich_yeu.py`, sổ lỗi L015)**; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; "Ủy ban nhân dân" viết "UBND" ở Nơi nhận và bảng phụ lục, viết đầy đủ trong thân (phần căn cứ chờ Bạn chốt); biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22, R24–R28 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |

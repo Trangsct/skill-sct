@@ -43,7 +43,7 @@ Các sở khác (để biết ranh giới, không làm thay): Sở Xây dựng �
 |---|---|
 | 01–05 | Lấy số liệu sản lượng, điện năng từ CSDL chuyên ngành, Điện lực, báo cáo DN đã có; đối chiếu `du-lieu/gtsxcn-kcn-kkt-2027.json` (37 cơ sở vùng Lào Cai cũ) và danh sách 78 DN |
 | 05–08 | Lọc DN **giảm sản lượng / dừng / gián đoạn / dưới công suất**; chỉ liên hệ DN khi thật sự cần (quy tắc mục I) |
-| **Trước 10** | Gửi **thông tin tóm tắt** → Thống kê tỉnh + Sở Tài chính (ký hiệu `/SCT-CN`, Lưu: VT, CN.) |
+| **Trước 10** | Gửi **thông tin tóm tắt** → Thống kê tỉnh + Sở Tài chính (ký hiệu `/SCT-CN`, Lưu: VT, CN(Tên).) |
 | 12–18 | Nhận tổng hợp của Thống kê tỉnh → đưa vào báo cáo chỉ tiêu NQ 169 (reference 05) |
 | **Trước 20** | Báo cáo NQ 169 gửi Sở Tài chính (reference 05) |
 
@@ -116,4 +116,4 @@ Nhóm nhanh: ô tô, lốp (9, 12, 19, 20, 34, 35, 37, 38); vàng bạc (8, 28, 
 1. Danh sách là **danh sách giao theo dõi**, không phải danh sách DN lớn nhất tỉnh; không suy ra xếp hạng, không cộng thành "tổng doanh nghiệp công nghiệp".
 2. Số liệu theo dõi từng DN là **số động** — lấy từ báo cáo DN, CSDL chuyên ngành, Điện lực, Hải quan của kỳ tương ứng (reference 04); không lấy từ reference này.
 3. Nhắc DN: công văn **cấm làm phát sinh thủ tục hành chính** — không ban hành biểu mẫu báo cáo bắt buộc mới cho DN khi chưa có hướng dẫn thống nhất của Thống kê tỉnh (mục 2.6).
-4. Dòng Lưu công văn của Sở gửi Thống kê tỉnh: `Lưu: VT, CN.` (không ghi tên chuyên viên — quy ước 01/10/2026).
+4. Dòng Lưu công văn của Sở gửi Thống kê tỉnh: `Lưu: VT, CN(Tên).`, Nơi nhận có Ban Giám đốc Sở (Bạn chốt 16/11/2026).

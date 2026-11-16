@@ -34,7 +34,7 @@ Thứ tự 10 căn cứ trong Quyết định thật, dùng lại nguyên khối
 
 **Người ký:** KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến (phụ trách ATTP).
 
-**Dòng Lưu:** bản đã phát hành (lịch sử, trước 01/10/2026) ghi tên người soạn trong ngoặc; từ 01/10/2026 Bạn chốt không ghi tên chuyên viên — bản mới ghi `Lưu: VT, CN.`
+**Dòng Lưu:** Giấy chứng nhận ghi `Lưu: VT, BP1C, CN.` không tên, không gửi Ban Giám đốc Sở; quyết định thành lập đoàn, công văn ghi tên chuyên viên soạn thảo `Lưu: VT, CN(Nam).` và gửi Ban Giám đốc Sở (Bạn chốt 16/11/2026; giai đoạn 01/10–16/11/2026 bỏ tên là lịch sử)
 
 ## 3. Cấp lại Giấy chứng nhận khi hết hiệu lực - quy trình cảnh báo sớm
 

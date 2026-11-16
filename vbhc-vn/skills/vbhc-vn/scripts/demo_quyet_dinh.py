@@ -81,7 +81,7 @@ def main():
         'tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.'
     )
 
-    # Dòng Lưu của mẫu đã là "- Lưu: VT, CN." — không ghi tên chuyên viên (Bạn chốt 01/10/2026)
+    # Dòng Lưu ghi tên chuyên viên soạn thảo "CN(Tên)" (Bạn chốt 16/11/2026) — truyền nguoi_soan khi save()
 
     # Người ký giữ nguyên (KT. GĐ - PGĐ Nguyễn Đình Chiến)
 

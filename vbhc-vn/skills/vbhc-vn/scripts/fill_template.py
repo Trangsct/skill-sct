@@ -22,34 +22,48 @@ from copy import deepcopy
 import re
 
 
-# Dòng Lưu KHÔNG ghi tên chuyên viên (Bạn chốt 01/10/2026): "Lưu: VT, CN." — văn bản nội bộ
-# Phòng: "Lưu: CN.". Mẫu thật đã ban hành trước ngày này còn tên trong ngoặc ("CN(Trung)",
-# "CN (Khôi)") nên mọi văn bản dựng từ mẫu đều phải đi qua hàm này trước khi lưu.
+# Dòng Lưu GHI tên chuyên viên soạn thảo (Bạn chốt 16/11/2026, thay quy ước bỏ tên 01/10/2026 — lịch sử):
+# "Lưu: VT, CN(Loan)."; nội bộ Phòng "Lưu: CN(Loan).". Giấy phép, Giấy chứng nhận thủ tục hành chính:
+# "Lưu: VT, BP1C, CN." (không tên). Hàm dưới chỉ điền/đổi tên khi được truyền nguoi_soan; không bao giờ xóa tên.
 _LUU = re.compile(r"^\s*-?\s*Lưu\s*[:;]?", re.IGNORECASE)
 _TEN_TRONG_NGOAC = re.compile(r"\b(CN|QLCN)\s?\([^)]*\)")
+_CN_TRAN = re.compile(r"\b(?:Q?L)?CN\s*\.\s*$")
 
 
-def chuan_hoa_dong_luu(document) -> int:
-    """Bỏ tên chuyên viên trong ngoặc ở dòng Lưu của mọi bảng; trả về số dòng đã sửa."""
+def chuan_hoa_dong_luu(document, nguoi_soan: str | None = None) -> int:
+    """Điền tên chuyên viên soạn thảo vào dòng Lưu: 'Lưu: VT, CN.' / 'CN(Tên cũ)' → 'CN(nguoi_soan).'.
+
+    Không truyền nguoi_soan thì giữ nguyên (trả 0). Không đụng Giấy phép, Giấy chứng nhận có BP1C.
+    Trả về số dòng đã sửa."""
+    if not nguoi_soan:
+        return 0
     sua = 0
     for t in document.tables:
         for row in t.rows:
             for cell in row.cells:
                 for p in cell.paragraphs:
                     cu = p.text
-                    if not _LUU.match(cu) or not _TEN_TRONG_NGOAC.search(cu):
+                    if not _LUU.match(cu) or "BP1C" in cu:
                         continue
-                    moi = _TEN_TRONG_NGOAC.sub(r"\1", cu)
-                    moi = re.sub(r"Lưu\s*[:;]?\s*VT\s*[,;]\s*", "Lưu: VT, ", moi)
+                    if _TEN_TRONG_NGOAC.search(cu):
+                        moi = _TEN_TRONG_NGOAC.sub(f"CN({nguoi_soan})", cu, count=1)
+                    elif _CN_TRAN.search(cu.rstrip()):
+                        moi = _CN_TRAN.sub(f"CN({nguoi_soan}).", cu.rstrip())
+                    else:
+                        continue
                     moi = re.sub(r"\s+\.$", ".", moi.rstrip())
                     if not moi.endswith("."):
                         moi += "."
+                    if moi == cu:
+                        continue
                     runs = [r for r in p.runs]
                     if not runs:
                         continue
-                    runs[0].text = moi
-                    for r in runs[1:]:
-                        r.text = ""
+                    co_chu = [r for r in runs if r.text.strip()] or runs
+                    co_chu[0].text = moi
+                    for r in runs:
+                        if r._element is not co_chu[0]._element:
+                            r.text = ""
                     sua += 1
     return sua
 
@@ -341,10 +355,11 @@ class TemplateDoc:
     # LƯU FILE
     # ============================================================
 
-    def save(self, output_path):
+    def save(self, output_path, nguoi_soan=None):
+        """nguoi_soan: tên chuyên viên soạn thảo ghi vào dòng Lưu 'CN(Tên)' (Bạn chốt 16/11/2026)."""
         import os
         os.makedirs(os.path.dirname(output_path), exist_ok=True) if os.path.dirname(output_path) else None
-        chuan_hoa_dong_luu(self.doc)
+        chuan_hoa_dong_luu(self.doc, nguoi_soan)
         self.doc.save(output_path)
         # Bạn chốt 13/10/2026: phông Times New Roman toàn bộ, dòng Nơi nhận cỡ 11, khối ký cách
         # thân đúng 1 dòng cỡ 14 — mẫu thật cũ còn .VnTime, cỡ 12, đoạn đệm 1–7 pt.

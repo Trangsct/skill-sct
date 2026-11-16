@@ -594,7 +594,7 @@ def rule_R06(doc, ctx) -> list[Finding]:
         out.append(Finding(
             "R06", FAIL, loc0, cut(dong0),
             "Doanh nghiệp không được đứng dòng đầu Nơi nhận — thứ tự chuẩn: UBND tỉnh (b/c); "
-            "cơ quan phối hợp; Ban Giám đốc Sở (trừ văn bản thủ tục hành chính — R22); doanh nghiệp; Lưu.",
+            "cơ quan phối hợp; Ban Giám đốc Sở (trừ Giấy phép, Giấy chứng nhận thủ tục hành chính — R22); doanh nghiệp; Lưu.",
         ))
     loc_c, dong_c = khoi[-1]
     if not re.match(r"^-?\s*Lưu\s*:", dong_c):
@@ -611,18 +611,19 @@ KY_HIEU_HOP_LE = re.compile(
 
 
 def rule_R07(doc, ctx) -> list[Finding]:
-    """R07 — Dòng Lưu đúng dạng.
+    """R07 — Dòng Lưu đúng dạng, ghi tên chuyên viên soạn thảo.
 
-    Quy tắc: dòng Lưu chỉ ghi ký hiệu đơn vị lưu, KHÔNG ghi tên chuyên viên soạn thảo,
-    kết thúc bằng dấu chấm — "Lưu: VT, CN."; công văn nội bộ Phòng "Lưu: CN."; phòng QLCN
-    dùng ký hiệu **CN**, không "QLCN".
-    Nguồn: Nhóm G; Bạn chốt 01/10/2026 bỏ tên chuyên viên ở cuối văn bản (thay quy ước cũ
-    "CN (Tên)").
-    Mức: FAIL cho phần cấu trúc; WARN khi còn tên trong ngoặc — vì mẫu thật đã ban hành
-    trước 01/10/2026 vẫn có "CN(Trung)", không được bắt mẫu thật FAIL. build_vb.py và
-    TemplateDoc.save() tự bỏ tên (fill_template.chuan_hoa_dong_luu) nên bản dựng mới luôn sạch.
+    Quy tắc: dòng Lưu ghi ký hiệu đơn vị lưu và TÊN CHUYÊN VIÊN SOẠN THẢO trong ngoặc ngay sau ký
+    hiệu phòng, kết thúc bằng dấu chấm — "Lưu: VT, CN(Loan)."; công văn nội bộ Phòng "Lưu: CN(Loan).";
+    phòng QLCN dùng ký hiệu **CN**, không "QLCN". Ngoại lệ: Giấy phép, Giấy chứng nhận của thủ tục
+    hành chính giữ "Lưu: VT, BP1C, CN." (không tên).
+    Nguồn: Nhóm G; Bạn chốt 16/11/2026 "ghi tên chuyên viên soạn thảo phía dưới như quy ước trước đây
+    (trừ Giấy phép, giấy chứng nhận của thủ tục hành chính)" — thay quy ước 01/10/2026 bỏ tên (lịch sử).
+    Mức: FAIL cho phần cấu trúc; WARN khi thiếu tên — mẫu thật ban hành từ 01/10 đến 16/11/2026 có thể
+    ghi "Lưu: VT, CN." không tên, không được bắt mẫu thật FAIL.
     """
     out: list[Finding] = []
+    gp_gcn = _la_gp_gcn(ctx)
     for loc, t in ctx.texts:
         s = t.strip()
         if not re.match(r"^-?\s*Lưu\s*:", s):
@@ -643,11 +644,11 @@ def rule_R07(doc, ctx) -> list[Finding]:
                 "R07", FAIL, loc, cut(s),
                 "Trong dòng Lưu dùng ký hiệu 'CN', không dùng 'QLCN'.",
             ))
-        if re.search(r"\b(?:Q?LCN|CN)\s?\([^)]*\)", s):
+        if not gp_gcn and re.search(r"\bCN\s*\.\s*$", s):
             out.append(Finding(
                 "R07", WARN, loc, cut(s),
-                "Từ 01/10/2026 không ghi tên chuyên viên ở dòng Lưu — ghi 'Lưu: VT, CN.' "
-                "(nội bộ Phòng: 'Lưu: CN.').",
+                "Từ 16/11/2026 dòng Lưu ghi tên chuyên viên soạn thảo: 'Lưu: VT, CN(Tên).' "
+                "(nội bộ Phòng 'Lưu: CN(Tên).'); chỉ Giấy phép, Giấy chứng nhận thủ tục hành chính không ghi tên.",
             ))
     return out
 
@@ -1251,26 +1252,67 @@ def _la_tthc(ctx) -> bool:
     return any(re.match(r"^-?\s*Lưu\s*:.*\bBP1C\b", t.strip()) for _, t in ctx.texts)
 
 
-def rule_R22(doc, ctx) -> list[Finding]:
-    """R22 — Văn bản giải quyết thủ tục hành chính không gửi "Ban Giám đốc Sở".
+def _la_gp_gcn(ctx) -> bool:
+    """Giấy phép, Giấy chứng nhận (văn bản kết quả của thủ tục hành chính): tên tệp hoặc tên loại ở đầu văn bản."""
+    if ctx.loai in ("giay-phep", "giay-chung-nhan"):
+        return True
+    ten = nfc(ctx.path.stem).lower()
+    if "giay-phep" in ten or "giay-chung-nhan" in ten:
+        return True
+    dau = [t.strip().upper() for loc, t in ctx.texts if loc.startswith("đoạn") and t.strip()][:4]
+    return any(re.match(r"^GIẤY\s+(PHÉP|CHỨNG\s+NHẬN)\b", t) for t in dau)
 
-    Quy tắc: công văn hoàn thiện, bổ sung, trả hồ sơ; giấy phép, giấy chứng nhận; văn bản từ chối,
-    chấm dứt thẩm định… thuộc thủ tục hành chính chỉ gửi trực tiếp các đơn vị theo đúng quy định
-    (tổ chức, cá nhân nộp hồ sơ; cơ quan mà văn bản quy phạm buộc phải gửi). Nhận diện: V/v có
-    "hồ sơ đề nghị cấp", "bổ sung/hoàn thiện/trả hồ sơ", "cấp Giấy phép/Giấy chứng nhận"…; văn bản
-    là Giấy phép/Giấy chứng nhận; có địa chỉ motcua-tthc; dòng Lưu có BP1C.
-    Nguồn: Bạn chốt 13/10/2026 "thủ tục hành chính từ nay không gửi Ban Giám đốc Sở nữa, chỉ gửi
-    trực tiếp các đơn vị theo đúng quy định".
+
+def _cq_ban_hanh(ctx) -> str:
+    """Chữ ở ô trái bảng đầu trang (tên cơ quan ban hành), viết hoa."""
+    return nfc(" ".join(t for loc, t in ctx.texts
+                        if re.match(r"^bảng 0 ô \[[0-2],0\]", loc))).upper()
+
+
+# Báo cáo nội bộ Phòng gửi đích danh lãnh đạo ("- GĐ, PGĐ Thuân, PGĐ Chiến;") cũng tính là gửi Ban Giám đốc.
+BGD_SO = re.compile(r"Ban\s+(Giám\s+đốc|GĐ)\s+Sở|\bBGĐ\s+Sở|Giám\s+đốc\s+Sở|Lãnh\s+đạo\s+Sở|^-?\s*P?GĐ\b", re.IGNORECASE)
+
+
+def rule_R22(doc, ctx) -> list[Finding]:
+    """R22 — Giấy phép, Giấy chứng nhận của thủ tục hành chính không gửi "Ban Giám đốc Sở".
+
+    Quy tắc: Giấy phép, Giấy chứng nhận cấp cho tổ chức, cá nhân chỉ gửi các đơn vị theo đúng quy định
+    (tổ chức được cấp, cơ quan mà văn bản quy phạm buộc phải gửi). Các văn bản khác — kể cả công văn
+    hoàn thiện, bổ sung, trả hồ sơ — gửi Ban Giám đốc Sở (R28).
+    Nguồn: Bạn chốt 13/10/2026 "thủ tục hành chính không gửi Ban Giám đốc Sở"; thu hẹp ngày 16/11/2026
+    "bổ sung nơi nhận Ban Giám đốc Sở … trừ Giấy phép, giấy chứng nhận của thủ tục hành chính".
     Mức: FAIL.
     """
-    if not _la_tthc(ctx):
+    if not _la_gp_gcn(ctx):
         return []
     return [Finding("R22", FAIL, loc, cut(dong),
-                    "Văn bản thủ tục hành chính không gửi Ban Giám đốc Sở — xóa dòng này "
+                    "Giấy phép, Giấy chứng nhận thủ tục hành chính không gửi Ban Giám đốc Sở — xóa dòng này "
                     "(scripts/chuan_hoa_xuat_ban.py --tthc).")
             for loc, dong in _khoi_noi_nhan(ctx)
             if re.search(r"Ban\s+(Giám\s+đốc|GĐ)\s+Sở|\bBGĐ\s+Sở", dong)]
 
+
+def rule_R28(doc, ctx) -> list[Finding]:
+    """R28 — Văn bản của Sở có Nơi nhận phải gửi "Ban Giám đốc Sở".
+
+    Quy tắc: mọi văn bản của Sở Công Thương có khối Nơi nhận ghi dòng "- Ban Giám đốc Sở;" (báo cáo nội bộ
+    Phòng: "- Ban Giám đốc Sở (để báo cáo);"), đặt sau cơ quan nhà nước, trước doanh nghiệp và dòng Lưu.
+    Ngoại lệ: Giấy phép, Giấy chứng nhận của thủ tục hành chính (R22).
+    Nguồn: Bạn chốt 16/11/2026 "bổ sung nơi nhận - Ban Giám đốc Sở … (trừ Giấy phép, giấy chứng nhận của
+    thủ tục hành chính)".
+    Mức: WARN — 02 mẫu thật ban hành trước ngày chốt không có dòng này (cong-van-de-nghi-bo-sung-ho-so: công văn
+    thủ tục hành chính thời quy tắc 13/10/2026; cong-van-xin-y-kien-du-thao-vbqppl-bo-nganh); đã chốt vào
+    tests/baseline-warn.json, không được bắt mẫu thật FAIL.
+    """
+    if _la_gp_gcn(ctx) or "SỞ CÔNG THƯƠNG" not in _cq_ban_hanh(ctx):
+        return []
+    khoi = _khoi_noi_nhan(ctx)
+    if not khoi or any(BGD_SO.search(d) for _, d in khoi):
+        return []
+    loc, dong = khoi[-1]
+    return [Finding("R28", WARN, loc, cut(dong),
+                    "Nơi nhận thiếu dòng '- Ban Giám đốc Sở;' (Bạn chốt 16/11/2026; chỉ Giấy phép, Giấy chứng "
+                    "nhận thủ tục hành chính không gửi) — chèn trước doanh nghiệp và dòng Lưu.")]
 
 
 # ── R23: số hiệu văn bản quy phạm phải có nguồn (GATE 0, Bạn chốt 17/10/2026) ──
@@ -1585,6 +1627,7 @@ RULES = [
     ("R25", rule_R25),
     ("R26", rule_R26),
     ("R27", rule_R27),
+    ("R28", rule_R28),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

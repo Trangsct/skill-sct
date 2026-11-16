@@ -24,7 +24,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 - **Trưởng đoàn:** PGĐ **Hoàng Văn Thuân** (phụ trách hóa chất đến 04/10/2026 — lịch sử; từ 05/10/2026 PGĐ Nguyễn Đình Chiến).
 - **Phó Trưởng đoàn:** **Nguyễn Hồng Vân** (lãnh đạo phòng).
 - **Thành viên:** **Nguyễn Thị Thúy Nhung**; **Nguyễn Thị Loan** (thư ký, chuyên viên hóa chất).
-- **Dòng Lưu:** `Lưu: VT, CN.`
+- **Dòng Lưu:** `Lưu: VT, CN(Tên).`
 - Căn cứ pháp lý dùng khung 2026 đầy đủ (Luật 69/2025; NĐ 24/25/26/2026; NĐ 217/2025; TT 56/2025...).
 → Dùng làm khuôn khi soạn QĐ kiểm tra mới (thay danh sách đơn vị, thời gian; giữ cơ cấu đoàn, căn cứ).
 
@@ -34,7 +34,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 - Ký hiệu quyết định: **/QĐ-SCT**.
 - Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6320/QĐ-SCT); các văn bản 2026 trước đó do PGĐ Hoàng Văn Thuân ký — lịch sử.
 - Tờ trình, chủ trương, báo cáo quan trọng gửi UBND tỉnh/Bộ: **GIÁM ĐỐC Hoàng Chí Hiền**.
-- Dòng Lưu: **Lưu: VT, CN.**
+- Dòng Lưu: **Lưu: VT, CN(Tên).**
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; kết hợp `vbhc-vn` để chuẩn thể thức NĐ 30/2020.
 
 ## 4. Các quyết định nghiệp vụ đã chốt (áp dụng nhất quán)

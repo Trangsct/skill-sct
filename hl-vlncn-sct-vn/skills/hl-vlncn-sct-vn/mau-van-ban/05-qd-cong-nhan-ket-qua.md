@@ -12,7 +12,7 @@ Nguồn: bản Bạn tự sửa ngày 26/10/2026 cho lớp người quản lý 1
 3. **"Theo đề nghị của Trưởng phòng Quản lý công nghiệp,"** (không "Tổ trưởng Tổ kiểm tra…").
 4. Điều 1 nêu tổng số học viên và số đơn vị, không nêu địa chỉ từng đơn vị; Điều 3 giao "các đơn vị và các ông (bà)
    có tên trong danh sách kèm theo".
-5. **Nơi nhận**: Như Điều 3; **Trung tâm Phục vụ hành chính công tỉnh**; Lưu: VT, CN. (dòng dài để Word tự xuống dòng,
+5. **Nơi nhận**: Như Điều 3; **Trung tâm Phục vụ hành chính công tỉnh**; Lưu: VT, CN(Tên). (dòng dài để Word tự xuống dòng,
    thụt treo; không ngắt tay).
 6. **Người ký: KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** — Bạn chốt cho kỳ này, không đưa Giấy ủy quyền vào căn cứ.
 7. **Phụ lục 6 cột, KHÔNG có cột điểm**: TT | Họ và tên | Ngày sinh | Chức danh | Số định danh cá nhân | Kết quả.
@@ -57,7 +57,7 @@ Quyết định có hiệu lực kể từ ngày ký./.
 Nơi nhận:                                        KT. GIÁM ĐỐC
 - Như Điều 3;                                    PHÓ GIÁM ĐỐC
 - Trung tâm Phục vụ hành chính công tỉnh;
-- Lưu: VT, CN.                                   [Nguyễn Đình Chiến]
+- Lưu: VT, CN(Tên).                                   [Nguyễn Đình Chiến]
 ```
 
 Phụ lục (trang ngang):
@@ -131,7 +131,7 @@ Quyết định có hiệu lực kể từ ngày ký./.
 
 Nơi nhận:                                        GIÁM ĐỐC
 - Như Điều 3;
-- Lưu: VT, CN.                          [Hoàng Chí Hiền]
+- Lưu: VT, CN(Tên).                          [Hoàng Chí Hiền]
 ```
 
 ## Phụ lục danh sách kèm theo QĐ

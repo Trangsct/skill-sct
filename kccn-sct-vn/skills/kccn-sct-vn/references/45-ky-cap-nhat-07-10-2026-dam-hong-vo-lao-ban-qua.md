@@ -59,11 +59,16 @@
 - Căn cứ thẩm quyền khi viết báo cáo thẩm định (sửa 13/11/2026): **khoản 4 Điều 32 NĐ 32/2024 được sửa đổi bởi điểm c khoản 16 Điều 1
   NĐ 303/2026** (hiệu lực 15/9/2026) — UBND tỉnh "tổ chức rà soát, có kế hoạch và xử lý dứt điểm các cụm công nghiệp … không đáp ứng
   yêu cầu bảo vệ môi trường …, sử dụng đất không hiệu quả …; chịu trách nhiệm quản lý hiệu quả các cụm công nghiệp trên địa bàn"; cùng
-  khoản 1 Điều 32 (sửa bởi điểm a khoản 16 Điều 1 NĐ 303/2026) và khoản 8 Điều 16 QĐ 16/2026/QĐ-UBND. Câu cũ của khoản 4 về cụm "hình
+  khoản 1 Điều 32 (sửa bởi điểm a khoản 16 Điều 1 NĐ 303/2026) và khoản 1 Điều 16 QĐ 16/2026/QĐ-UBND (Sở Công Thương chủ trì giúp UBND tỉnh quản lý nhà nước về CCN theo Điều 32 NĐ 32/2024; khoản 8 chỉ nói lập, điều chỉnh quy hoạch, thành lập, mở rộng, bãi bỏ cụm — sửa 16/11/2026). Câu cũ của khoản 4 về cụm "hình
   thành trước QĐ 105/2009/QĐ-TTg, không có chủ đầu tư hạ tầng" **đã bị thay từ 15/9/2026, không dẫn nữa** (bản ghi 10/11/2026 dẫn nhầm).
   Điều 6, 11, 12 NĐ 139/2025/NĐ-CP (thẩm quyền về CCN) hết hiệu lực từ 15/9/2026 (khoản 2 Điều 3 NĐ 303/2026) → không để NĐ 139/2025
   trong phần căn cứ của Đề án, Quyết định về CCN. Đề án không thay các quyết định cụ thể (danh sách cơ sở đủ điều kiện, thu hồi đất,
   bồi thường, bố trí địa điểm).
+- Hình thức (16/11/2026, lãnh đạo Sở chốt): không lập Hội đồng, Tổ thẩm định — lấy ý kiến bằng văn bản rồi Sở trình UBND tỉnh bằng
+  Tờ trình do Giám đốc Sở ký (như các tờ trình CCN 6636, 7233/TTr-SCT), kèm dự thảo Quyết định của UBND tỉnh và dự thảo Đề án đã
+  được Sở chỉnh sửa (chữ đỏ). Bố cục Tờ trình: I. Quá trình xây dựng, thẩm định; II. Kết quả thẩm định (sự cần thiết; thẩm quyền,
+  hình thức; nội dung chủ yếu; nội dung Sở đã chỉnh sửa; nội dung cần tiếp tục làm rõ); III. Kiến nghị. Luật Đầu tư dẫn số
+  143/2025/QH15 (Luật Đầu tư 2020 không dùng nữa).
 - Điểm phải soát trong Đề án di dời (rút từ Đề án Đầm Hồng bản 28/10/2026): (1) căn cứ thu hồi đất khi hợp đồng thuê đất còn hạn dài
   (nhiều cơ sở thuê đến 2055–2065) — Đề án phải nêu mục đích sử dụng khu đất sau di dời theo quy hoạch để áp Điều 79 Luật Đất đai,
   không chỉ ghi "theo quy hoạch hiện hành"; (2) khái toán bồi thường phải theo đúng nguyên tắc chính Đề án nêu (thuê đất trả hằng năm

@@ -1,3 +1,8 @@
+## 16/11/2026 — kccn-sct-vn 1.66.3: thẩm định, trình Đề án di dời CCN Đầm Hồng
+
+- **kccn-sct-vn 1.66.3**: ref 45 sửa căn cứ Quy chế quản lý CCN thành khoản 1 Điều 16 QĐ 16/2026/QĐ-UBND; hình thức thẩm định Đề án
+  di dời (không lập Hội đồng, Tổ thẩm định; lấy ý kiến bằng văn bản rồi trình UBND tỉnh), bố cục Tờ trình; trạng thái hồ sơ Đầm Hồng.
+
 ## 16/11/2026 — vbhc-vn 2.40.1: R02 không bắt nhầm KOH, NaOH
 
 - **vbhc-vn 2.40.1**: R02 bỏ qua công thức hóa học không có chữ số (KOH, NaOH, CaO, NaCl, MgO, ZnO) — trước đây báo FAIL dù viết đúng (vụ bảng hóa chất biên bản kiểm tra phòng ngừa, ứng phó sự cố hóa chất). Phép thử `tests/test_r02.py`, mục 8 hồi quy.

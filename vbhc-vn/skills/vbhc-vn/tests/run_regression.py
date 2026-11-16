@@ -16,6 +16,7 @@ Kiểm hai chiều:
   5. GATE 0 — tests/test_gate0.py: R23 cảnh báo số hiệu văn bản quy phạm chưa có nguồn.
   6. GATE cuối — tests/test_ra_soat.py: số đo rà soát, --tu-sua, một lệnh dưới 30 giây.
   7. SIGSPLIT — tests/test_sigsplit.py: khối ký gãy trang, không báo nhầm phụ lục.
+  8. R02 — tests/test_r02.py: công thức không có chữ số (KOH, NaOH) không bị bắt nhầm.
 
   4. TRÌNH BIÊN DỊCH build_vb.py dựng được cả 7 loại văn bản từ cùng một file nội dung, bản
      dựng không có FAIL, và công thức hóa học / đơn vị m2, m3 được tách run chỉ số thật.
@@ -256,6 +257,14 @@ def main() -> int:
     print("   " + (r.stdout.strip().splitlines() or ["(không có kết quả)"])[0])
     if r.returncode != 0:
         loi.append("test_sigsplit.py đỏ: " + (r.stdout + r.stderr).strip()[-300:])
+
+    # ── 8. R02 không bắt nhầm công thức không có chữ số (sửa 16/11/2026) ──
+    print("\n── 8. R02 (tests/test_r02.py) ──")
+    r = subprocess.run([sys.executable, str(TESTS / "test_r02.py")], capture_output=True, text=True,
+                       timeout=120)
+    print("   " + (r.stdout.strip().splitlines() or ["(không có kết quả)"])[0])
+    if r.returncode != 0:
+        loi.append("test_r02.py đỏ: " + (r.stdout + r.stderr).strip()[-300:])
 
     if a.cap_nhat_baseline:
         BASELINE.write_text(json.dumps(moi_baseline, ensure_ascii=False, indent=2) + "\n",

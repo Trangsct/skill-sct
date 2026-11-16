@@ -64,7 +64,7 @@ Văn bản hành chính chỉ có 3 trạng thái: **khẳng định** (dẫn c�
 ### Nhóm G — Thể thức chi tiết rút từ chỉnh sửa tay của người dùng (tích lũy)
 Các quy tắc dưới đây đều do người dùng **tự tay sửa trên bản Claude giao** — coi là chuẩn bắt buộc:
 - **Dòng ngày ban hành**: điền sẵn *tháng* và *năm* theo bối cảnh (vd `ngày      tháng 7 năm 2026`), **chỉ để trống ngày** cho văn thư điền khi ký. Không để trống cả tháng/năm; cũng không tự điền ngày cụ thể khi chưa xác nhận ngày ký.
-- **Dòng Lưu**: định dạng `Lưu: VT, CN.` — **không ghi tên chuyên viên soạn thảo** (Bạn chốt 01/10/2026; quy ước cũ "CN (Tên)" chỉ còn trong văn bản đã ban hành). Dùng "CN" (ký hiệu phòng trong dòng lưu), không dùng "QLCN". Không ghi tên lãnh đạo phòng.
+- **Dòng Lưu**: định dạng `Lưu: VT, CN(Tên).` — **ghi tên chuyên viên soạn thảo** (Bạn chốt 16/11/2026, khôi phục quy ước trước 01/10/2026; giai đoạn 01/10–16/11/2026 bỏ tên là lịch sử). Giấy phép, Giấy chứng nhận thủ tục hành chính: `Lưu: VT, BP1C, CN.` không tên. Dùng "CN" (ký hiệu phòng trong dòng lưu), không dùng "QLCN". Không ghi tên lãnh đạo phòng.
 - **In đậm thời hạn**: khi bôi đậm deadline trong thân văn bản, chỉ đậm **đúng cụm ngày tháng** (vd "**trước ngày 30/8/2026**"), và trong XML phải dùng `<w:b/>` — chỉ `<w:bCs/>` không hiển thị đậm.
 - **In nghiêng ghi chú tài liệu kèm theo**: các ghi chú trong ngoặc kiểu "*(có văn bản kèm theo)*", "*(gửi kèm dự thảo...)*" để in nghiêng.
 - **Kính gửi ↔ Nơi nhận nhất quán**: nếu Nơi nhận có "- Như trên;" thì bắt buộc phải có dòng "Kính gửi:"; bỏ Kính gửi thì phải sửa Nơi nhận tương ứng. Render QA phải kiểm tra chéo cặp này, không chỉ soát nội dung.
@@ -335,7 +335,7 @@ Tự bắt lỗi: *"Số liệu đến ngày 17/10/2026" trên tiêu đề phụ
 ☐ Nếu nguồn là PDF VBHC, đã chạy scripts/extract_metadata.py xác minh số/ngày từ file gốc [E]
 ☐ Header/tiêu đề KHÔNG có ngắt dòng cứng <w:br/> (chạy check_document.py)            [E-br]
 ☐ Người dùng tải file .docx lên → đang sửa TRỰC TIẾP file đó, không rebuild           [F]
-☐ Dòng ngày: điền sẵn tháng/năm, để trống ngày; Lưu: VT, CN. (không tên chuyên viên)     [G]
+☐ Dòng ngày: điền sẵn tháng/năm, để trống ngày; Lưu: VT, CN(Tên). (trừ GP/GCN thủ tục hành chính); Nơi nhận có Ban Giám đốc Sở     [G]
 ☐ Kính gửi ↔ Nơi nhận "Như trên" nhất quán; tiêu ngữ en dash; kết "./."               [G]
 ☐ Bảng nội dung KHÔNG còn `<w:trHeight>`; không trang nào kết bằng đề mục rồi bỏ trắng    [F]
 ☐ Văn bản cấp UBND tỉnh: việc giao cơ quan khác nằm trong thẩm quyền thật của họ nhưng KHÔNG ghi điều khoản; điều kiện lên cơ quan khác chỉ khi đã giao vai trò cho Sở + có sản phẩm; toàn văn ≤ 4–5 viện dẫn [K]

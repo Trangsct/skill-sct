@@ -24,7 +24,7 @@ Hồ sơ theo khoản 1 Điều 9 gồm: văn bản đề nghị làm chủ đ�
 
 Đề nghị {doanh nghiệp} liên hệ Sở Công Thương (Phòng Quản lý Công nghiệp) để được hướng dẫn chi tiết trong quá trình lập hồ sơ./.
 
-Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN.
+Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN(Tên).
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -49,7 +49,7 @@ UBND cấp xã là cơ quan tiếp nhận hồ sơ đề nghị thành lập/m�
 
 Trong quá trình thực hiện, đề nghị UBND xã phối hợp chặt chẽ với Sở Công Thương để được hướng dẫn kịp thời./.
 
-Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN.
+Nơi nhận: - Như trên; - GĐ Sở (để b/c); - Lưu: VT, CN(Tên).
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*
 
 ---
@@ -69,5 +69,5 @@ Qua thẩm định hồ sơ đề nghị thành lập CCN {tên} (do UBND xã {�
 
 Đề nghị {doanh nghiệp} phối hợp UBND xã {…} hoàn thiện, gửi lại Sở Công Thương trước ngày {…} để tiếp tục thẩm định theo quy định./.
 
-Nơi nhận: - Như trên; - Lưu: VT, CN.
+Nơi nhận: - Như trên; - Lưu: VT, CN(Tên).
 *Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến.*

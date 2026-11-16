@@ -29,7 +29,7 @@
 - Hồ sơ Bộ gửi lấy ý kiến gồm **dự thảo Báo cáo tổng hợp; dự thảo Tờ trình Thủ tướng Chính phủ; dự thảo Quyết định của Thủ tướng phê duyệt Đề án** (số, ngày văn bản của Bộ: theo CV 6194/SCT-CN — bot chưa tải).
 - Sở lấy ý kiến tại **CV 6194/SCT-CN ngày 01/10/2026**; BQL các KCN tỉnh trả lời **1505/BQLCKCN-QLDN ngày 08/10/2026** (PTB Trịnh Huỳnh Yên): **nhất trí** cả 3 dự thảo. Các ý kiến khác: chưa thấy trong sổ đến 09/10/2026.
 - Liên hệ với plugin: "cụm liên kết ngành" và "tổ hợp công nghiệp quy mô lớn" là khung để tỉnh đề xuất **tổ hợp luyện kim – hóa chất Tằng Loỏng, chuỗi đồng Sin Quyền – luyện đồng Bát Xát, chế biến apatit – phân bón, chế biến sâu đất hiếm** (ref 13 thế mạnh công nghiệp; `qlks-sct-vn` ref 24 định hướng nêu tên Lào Cai). Khi tổng hợp ý kiến gửi Bộ, phần "đề xuất của tỉnh" phải có căn cứ Quy hoạch tỉnh QĐ 525/QĐ-UBND và danh mục dự án động lực (ref 03, 10) — không nêu tên doanh nghiệp (quy ước ref 13).
-- Người ký văn bản gửi Bộ: GĐ Hoàng Chí Hiền; Lưu: VT, CN.
+- Người ký văn bản gửi Bộ: GĐ Hoàng Chí Hiền; Lưu: VT, CN(Tên).
 
 ## C. Các việc "tăng trưởng" khác trong tuần 02–09/10/2026 (mục lục, chưa có nội dung)
 

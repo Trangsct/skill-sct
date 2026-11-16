@@ -1,6 +1,6 @@
 # Mẫu 12 — CÔNG VĂN hướng dẫn doanh nghiệp hoàn thiện hồ sơ
 
-> Khung docx thật: `vi-du-thuc-te/CV-hoan-thien-ho-so-PANM-Van-Thang.docx`. Số:      /SCT-CN; ký KT.GĐ — PGĐ Nguyễn Đình Chiến; Lưu: VT, CN. Nếu hồ sơ đến từ VP UBND tỉnh: mở đầu dẫn Phiếu chuyển số 【…/PC-VPUBND】, đồng gửi "UBND tỉnh (b/c)".
+> Khung docx thật: `vi-du-thuc-te/CV-hoan-thien-ho-so-PANM-Van-Thang.docx`. Số:      /SCT-CN; ký KT.GĐ — PGĐ Nguyễn Đình Chiến; Lưu: VT, CN(Tên). Nếu hồ sơ đến từ VP UBND tỉnh: mở đầu dẫn Phiếu chuyển số 【…/PC-VPUBND】, đồng gửi "UBND tỉnh (b/c)".
 
 **V/v hoàn thiện hồ sơ đề nghị 【phê duyệt Phương án nổ mìn / cấp Giấy phép sử dụng VLNCN】**
 

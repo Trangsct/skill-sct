@@ -48,7 +48,7 @@
 2. Kết quả lấy ý kiến: số đơn vị đã trả lời / số được hỏi; **đa số nhất trí**; nhóm ý kiến bổ sung (Bản Liền — 4 điểm trên, gộp thành 3 nhóm: ứng dụng trong nông nghiệp – chế biến nông sản; an toàn và phân cấp quản lý; cơ chế phối hợp, nguồn lực cho địa phương).
 3. Ý kiến của Sở theo lĩnh vực công nghiệp: gắn với **QĐ 21/2026/QĐ-TTg** (30 sản phẩm công nghệ chiến lược — `dacn-sct-vn` ref 11) và định hướng công nghiệp xanh, hiện đại (Đề án 08-ĐA/TU, KH 113/KH-UBND); nêu tiềm năng của tỉnh nếu có căn cứ (chiếu xạ nông sản xuất khẩu qua cửa khẩu Kim Thành; chế biến sâu khoáng sản) — **không bịa dự án điện hạt nhân hay cơ sở bức xạ trên địa bàn**.
 4. Kiến nghị kỹ thuật: lộ trình, nguồn vốn, phân công Bộ – tỉnh; thống nhất danh mục nhiệm vụ địa phương.
-5. Người ký: văn bản của Sở gửi Bộ → **GĐ Hoàng Chí Hiền** (ý kiến quy hoạch, đề án quốc gia — mục VI SKILL.md); nếu là ý kiến thường lệ theo lĩnh vực công nghiệp → KT. GĐ, PGĐ Nguyễn Đình Chiến. Lưu: VT, CN.
+5. Người ký: văn bản của Sở gửi Bộ → **GĐ Hoàng Chí Hiền** (ý kiến quy hoạch, đề án quốc gia — mục VI SKILL.md); nếu là ý kiến thường lệ theo lĩnh vực công nghiệp → KT. GĐ, PGĐ Nguyễn Đình Chiến. Lưu: VT, CN(Tên).
 
 ## C. Anti-error
 

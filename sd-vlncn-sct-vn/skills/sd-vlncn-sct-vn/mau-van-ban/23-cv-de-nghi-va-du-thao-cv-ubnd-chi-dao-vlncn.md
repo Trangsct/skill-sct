@@ -12,7 +12,7 @@
 3. "Dự thảo văn bản giao nhiệm vụ cho các sở, ngành, UBND các xã, phường theo chức năng, nhiệm vụ, địa bàn được phân công và các nhiệm vụ đã được UBND tỉnh ủy quyền; đồng thời quy định yêu cầu đối với các tổ chức, doanh nghiệp hoạt động dịch vụ nổ mìn và các tổ chức, doanh nghiệp sử dụng, bảo quản, vận chuyển VLNCN trên địa bàn tỉnh." (viết chung, không nêu riêng Sở).
 4. "Sở Công Thương kính trình UBND tỉnh xem xét, quyết định./."
 
-Thể thức riêng của khung này: dòng Lưu ghi `Lưu: VT, CN.` (từ 01/10/2026 không ghi tên chuyên viên; bản ban hành 6/9/2026 còn "(Khôi)" in subscript là lịch sử). Bảng ký có `cantSplit`; thân dài hơn 1 trang thì gỡ `trHeight` và co spacing, không đụng cấu trúc.
+Thể thức riêng của khung này: dòng Lưu ghi `Lưu: VT, CN(Khôi).` (Bạn chốt 16/11/2026 ghi tên chuyên viên soạn thảo; bản ban hành 6/9/2026 có "(Khôi)" in subscript). Bảng ký có `cantSplit`; thân dài hơn 1 trang thì gỡ `trHeight` và co spacing, không đụng cấu trúc.
 
 ## B. Dự thảo Công văn UBND tỉnh (4 trang, 7 mục + đoạn kết) — NGUYÊN TẮC HÀNH VĂN BẠN CHỐT
 

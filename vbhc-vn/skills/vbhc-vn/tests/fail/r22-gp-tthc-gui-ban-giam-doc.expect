@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Chèn dòng "- Ban Giám đốc Sở;" vào Nơi nhận của Giấy phép vận chuyển hàng hóa nguy hiểm (thủ tục hành chính).
+nguon: examples/sct/giay-phep-van-chuyen-hhnh.docx
+R22 FAIL

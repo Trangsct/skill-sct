@@ -107,7 +107,7 @@ doc.replace_body_paragraphs(start_idx=4, end_idx=16, new_paragraphs=[
     # ...
 ])
 
-# Dòng Lưu giữ nguyên 'Lưu: VT, CN.' — không ghi tên chuyên viên (save() tự bỏ tên còn sót)
+# Dòng Lưu ghi tên chuyên viên soạn thảo 'Lưu: VT, CN(Tên).' — save(ra, nguoi_soan='Tên') tự điền (Bạn chốt 16/11/2026)
 
 # Lưu
 doc.save('output/cong-van-moi.docx')

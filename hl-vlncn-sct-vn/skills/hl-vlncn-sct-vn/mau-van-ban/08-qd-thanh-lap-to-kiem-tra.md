@@ -47,5 +47,5 @@ Quyết định có hiệu lực kể từ ngày ký./.
 
 Nơi nhận:                                        GIÁM ĐỐC
 - Như Điều 3;
-- Lưu: VT, CN.
+- Lưu: VT, CN(Tên).
 ```

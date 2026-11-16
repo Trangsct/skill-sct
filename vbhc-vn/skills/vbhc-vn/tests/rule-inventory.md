@@ -40,7 +40,8 @@ Nguồn kiểm kê: `SKILL.md` (27 quy tắc bất biến + mục thể thức),
 | R19 | Toàn bộ file chỉ dùng phông Times New Roman — kể cả kiểu Normal, Header/Footer (số trang), docDefaults, theme; không còn .VnTime, Calibri, Segoe UI… (giữ Symbol, Wingdings) | Bạn chốt 13/10/2026 (vụ ký số lỗi trên hệ thống quản lý văn bản mới) | `qa_rules.rule_R19`; sửa: `chuan_hoa_xuat_ban.py --chi-phong` | WARN → FAIL khi `--final` |
 | R20 | Các dòng "- …" trong khối Nơi nhận cỡ 11 ("Nơi nhận:" cỡ 12) | NĐ 30/2020; Bạn chốt 13/10/2026 | `qa_rules.rule_R20`; sửa: `chuan_hoa_xuat_ban.py` | WARN → FAIL khi `--final` |
 | R21 | Khối Nơi nhận - ký cách thân đúng một dòng trống cỡ ≥ 12 (đoạn đệm 1–7 pt không tính) | Quy tắc 22/H13; Bạn nhắc 13/10/2026 | `qa_rules.rule_R21`; sửa: `chuan_hoa_xuat_ban.py` | WARN → FAIL khi `--final` |
-| R22 | Văn bản giải quyết thủ tục hành chính không gửi "Ban Giám đốc Sở" | Bạn chốt 13/10/2026 | `qa_rules.rule_R22`; sửa: `chuan_hoa_xuat_ban.py --tthc` | FAIL |
+| R22 | Giấy phép, Giấy chứng nhận thủ tục hành chính không gửi "Ban Giám đốc Sở" | Bạn chốt 13/10/2026, thu hẹp 16/11/2026 | `qa_rules.rule_R22`; sửa: `chuan_hoa_xuat_ban.py --tthc` | FAIL |
+| R28 | Văn bản của Sở có Nơi nhận phải gửi "Ban Giám đốc Sở" (trừ GP, GCN thủ tục hành chính) | Bạn chốt 16/11/2026 | `qa_rules.rule_R28` | WARN |
 | R23 | Số hiệu văn bản quy phạm (số/năm/ký hiệu) phải khớp tệp gốc trong kho (sổ cái) hoặc căn cứ Bạn gửi trong phiên (`can-cu-phien.txt`, `ke-hoach-soan.txt`, `VBHC_CAN_CU_PHIEN`) | GATE 0 điểm c, Bạn chốt 17/10/2026 | `qa_rules.rule_R23`; thử: `tests/test_gate0.py` | WARN |
 | R24 | "Ủy ban nhân dân" ở khối Nơi nhận và ô bảng phụ lục, danh mục phải viết "UBND"; chữ đầy đủ ở đầu trang, khối ký và THÂN văn bản (checklist rà soát dòng 12, Bạn chốt 17/10/2026). Phần căn cứ: chờ Bạn chốt | Bạn chốt 04/10/2026 (PR 116, mã cũ R19 của nhánh); Nhóm G, P9 | `qa_rules.rule_R24` | WARN (0 WARN mới trên 26 mẫu thật khi thu hẹp phạm vi) |
 | R25 | Nơi nhận theo vị thế cơ quan nhà nước; doanh nghiệp đứng riêng dòng, sau cơ quan nhà nước, trên Văn phòng và Lưu | Bạn chốt 04/10/2026 (PR 116, mã cũ R20 của nhánh); Nhóm G, P9 | `qa_rules.rule_R25` | FAIL (doanh nghiệp chung dòng cơ quan nhà nước) / WARN (cơ quan nhà nước đứng sau doanh nghiệp — `thong-bao-ket-luan-ubnd.docx` mẫu thật VP UBND có 1 WARN, đã chốt baseline 18/10/2026) |
@@ -82,7 +83,7 @@ vừa bắt nhầm mẫu thật vừa bỏ lọt lỗi thật, nên **giữ nguy
 | K1, K2, K8 — giao việc cho cơ quan khác | Đòi tra thẩm quyền pháp định của từng ngành và cân nhịp văn bản theo chủ thể. |
 | L1 — cho ý kiến phải có chính kiến | Máy đếm được số lần "nhất trí" (đã đưa vào `--forbid` của Nhóm L) nhưng không đánh giá được chính kiến có đúng không. |
 | Quy tắc bất biến 6 — chọn người ký theo lĩnh vực | Phụ thuộc bảng phân công của Sở và nội dung vụ việc. |
-| Quy tắc bất biến 18 — dòng Lưu không ghi tên chuyên viên (01/10/2026) | Đã chuyển sang máy: R07 WARN khi còn tên; `build_vb.py`/`TemplateDoc.save()` tự bỏ tên. |
+| Quy tắc bất biến 18 — dòng Lưu ghi tên chuyên viên `CN(Tên)` (16/11/2026; giai đoạn bỏ tên 01/10–16/11/2026 là lịch sử) | Đã chuyển sang máy: R07 WARN khi thiếu tên (trừ GP/GCN); `build_vb.py --nguoi-soan`/`TemplateDoc.save(nguoi_soan=)` điền tên. |
 | P1–P8 — kế hoạch UBND tỉnh triển khai đề án, bài toán lớn (04/10/2026, chuyển từ PR 116 ngày 18/10/2026) | Bám đề bài không chép tên văn bản cũ, bỏ câu ghi chú làm việc, chỉ tiêu phấn đấu đồng bộ, việc ngoài thẩm quyền ghi "đề xuất", không tự chặn mục tiêu, mục đích - yêu cầu 4 ý, thứ tự theo đề bài, giao đúng Ban Quản lý — đều đòi đọc hiểu đề bài và thẩm quyền. Phần hình thức đã máy hóa: R14, R24, R25. |
 
 ## D. Những chỗ quy tắc văn xuôi LỆCH với mẫu thật — cần Bạn chốt

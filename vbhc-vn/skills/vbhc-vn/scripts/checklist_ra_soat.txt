@@ -20,8 +20,8 @@ A. HÌNH THỨC (máy sửa được — Claude tự sửa bằng script, chạy
  8. Bảng: nền trắng, không tô màu; mọi ô căn giữa theo chiều dọc, kể cả dòng tiêu đề lặp.              [7]  Quy tắc 24, cong-thuc-thuc-chien
  9. Không còn dấu vết chỉnh sửa: theo dõi thay đổi, chú thích, chữ "bản cũ", "điều chỉnh" sót từ
     lần sửa trước, số liệu cũ, tên file cũ.                                                           [8]  Nhóm F, R14
-10. Quốc hiệu "CỘNG HÒA", tiêu ngữ en dash; dòng ngày điền sẵn tháng, năm, để trống ngày; "Lưu: VT, CN."
-    không ghi tên chuyên viên; kết thúc "./.".                                                        mắt Nhóm G, R07 (qa_all.py)
+10. Quốc hiệu "CỘNG HÒA", tiêu ngữ en dash; dòng ngày điền sẵn tháng, năm, để trống ngày; "Lưu: VT, CN(Tên)."
+    ghi tên chuyên viên (trừ GP/GCN TTHC); kết thúc "./.".                                            mắt Nhóm G, R07 (qa_all.py)
 11. "Kính gửi" không đậm; Kính gửi một nơi nhận trên một dòng; Kính gửi ↔ Nơi nhận "Như trên" nhất quán. mắt Nhóm G, R04, R16
 
 B. NỘI DUNG (nêu cho Bạn gọn, kèm hướng xử lý Claude đã chọn)
@@ -32,7 +32,7 @@ B. NỘI DUNG (nêu cho Bạn gọn, kèm hướng xử lý Claude đã chọn)
 14. Văn bản soạn cho doanh nghiệp, cơ quan khác: số văn bản để trống.                                 [9]  Bạn chốt 17/10/2026
 15. Khi nêu Ban Quản lý Khu kinh tế tỉnh phải nêu cả Ban Quản lý các Khu công nghiệp tỉnh.            [10] Bạn chốt 17/10/2026
 16. Tên từng cụm công nghiệp viết đủ, không gộp số ("Phú Thịnh 1, 2, 3" → viết đủ từng tên).            [11] Bạn chốt 17/10/2026
-17. Văn bản thủ tục hành chính không gửi Ban Giám đốc Sở.                                             [12] Nhóm G, R22
+17. Nơi nhận có Ban Giám đốc Sở; chỉ GP, GCN thủ tục hành chính không gửi.                          [12] Nhóm G, R22, R28
 18. Văn bản do Phòng Quản lý Công nghiệp tham mưu không giao việc cho chính Phòng.                    [13] Bạn chốt 17/10/2026
 19. Chỗ chưa hoàn thiện đã bôi màu tím; bản hoàn thiện để xuất bản thì không còn chữ tím, chỗ trống.   [14] Quy tắc 27(c), R03
 20. Bài phát biểu: dòng "Kính thưa các đồng chí!" giữa bài lùi đầu dòng.                               [15] bpb-sct-vn

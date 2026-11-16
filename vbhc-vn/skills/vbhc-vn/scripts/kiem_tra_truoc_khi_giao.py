@@ -14,7 +14,7 @@ Gộp, chạy một lần:
 
 --tu-sua (lỗi máy sửa được, KHÔNG hỏi Bạn): chuan_hoa_xuat_ban.py (phông, Nơi nhận cỡ 11, một dòng trước khối ký,
 văn bản thủ tục hành chính bỏ Ban Giám đốc Sở); đúng một dòng trống sau khối "Kính gửi"; bảng nội dung nền trắng, căn
-giữa theo chiều dọc; dòng Lưu bỏ tên chuyên viên. Sửa TẠI CHỖ file đưa vào. Còn lỗi sau 2 vòng thì in ra để bôi tím và báo Bạn, không kéo dài.
+giữa theo chiều dọc; báo dòng Lưu thiếu tên chuyên viên. Sửa TẠI CHỖ file đưa vào. Còn lỗi sau 2 vòng thì in ra để bôi tím và báo Bạn, không kéo dài.
 
 Mục tiêu thời gian dưới 30 giây trên docx thường; dòng cuối in thời gian thực đo.
 Thoát mã 0 = không FAIL; 1 = có FAIL (qa_all.py) hoặc LỆCH số, ngày (cite_check.py); 2 = lỗi đọc file.
@@ -37,7 +37,7 @@ from docx.oxml.ns import qn  # noqa: E402
 
 import ra_soat_doc_lap  # noqa: E402
 from cite_check import quet as cite_quet  # noqa: E402
-from qa_rules import Ctx, _la_tthc, _o_noi_nhan, _tt  # noqa: E402
+from qa_rules import Ctx, _la_gp_gcn, _o_noi_nhan, _tt  # noqa: E402
 
 from qa_all import QA_DIR as QA_PDF_DIR  # noqa: E402
 HINH_THUC = ("1. Phông", "2. Nơi nhận", "3. Sau Kính gửi", "3. Trước khối ký", "7. Bảng")
@@ -115,22 +115,14 @@ def sua_khoi_ky(doc) -> int:
 
 
 def sua_dong_luu(doc) -> int:
-    """Dòng Lưu không ghi tên chuyên viên (Bạn chốt 01/10/2026, R07): 'Lưu: VT, CN(Linh).' → 'Lưu: VT, CN.'."""
+    """Đếm dòng Lưu THIẾU tên chuyên viên soạn thảo (Bạn chốt 16/11/2026, R07): 'Lưu: VT, CN.' cần ghi
+    'Lưu: VT, CN(Tên).'. Không tự điền vì máy không biết ai soạn; không bao giờ xóa tên đã có.
+    Giấy phép, Giấy chứng nhận thủ tục hành chính không ghi tên — không đếm."""
     _, o = _o_noi_nhan(doc)
     if o is None:
         return 0
-    n = 0
-    for p in o.paragraphs:
-        if re.match(r"^\s*-?\s*Lưu\s*:", p.text):
-            cu = p.text
-            moi = re.sub(r"\s*\((?!b/c\b)[^()]{1,30}\)", "", cu)
-            if moi != cu:  # tên chuyên viên thường tách nhiều run — ghép vào run có chữ đầu tiên
-                co_chu = [r for r in p.runs if r.text.strip()]
-                for r in co_chu[1:]:
-                    r.text = ""
-                co_chu[0].text = moi.lstrip() if not cu[:1].isspace() else moi
-                n += 1
-    return n
+    return sum(1 for p in o.paragraphs
+               if re.match(r"^\s*-?\s*Lưu\s*:", p.text) and re.search(r"\bCN\s*\.\s*$", p.text.strip()))
 
 
 def tu_sua(path: Path) -> list[str]:
@@ -138,7 +130,7 @@ def tu_sua(path: Path) -> list[str]:
     doc0 = Document(str(path))
     ctx = Ctx(path)
     ctx.build(doc0)
-    tthc = _la_tthc(ctx)
+    tthc = _la_gp_gcn(ctx)
     chuan_hoa_file(path, None, tthc=tthc)
     doc = Document(str(path))
     a = sua_kinh_gui(doc)
@@ -149,7 +141,7 @@ def tu_sua(path: Path) -> list[str]:
     if a or b or c or d:  # python-docx lưu lại có thể sinh phông mặc định — chuẩn hóa thêm một lần
         chuan_hoa_file(path, None, tthc=tthc)
     return [f"chuan_hoa_xuat_ban.py{' --tthc' if tthc else ''}", f"dòng trống sau Kính gửi: {a} chỗ",
-            f"ô bảng nền trắng, căn giữa dọc: {b} thuộc tính", f"bỏ tên chuyên viên ở dòng Lưu: {c} chỗ",
+            f"ô bảng nền trắng, căn giữa dọc: {b} thuộc tính", f"dòng Lưu thiếu tên chuyên viên (ghi tay CN(Tên), trừ GP/GCN): {0 if tthc else c} chỗ",
             f"khối Nơi nhận - ký căn trên: {d} ô"]
 
 

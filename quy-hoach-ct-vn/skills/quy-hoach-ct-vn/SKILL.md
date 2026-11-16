@@ -139,4 +139,4 @@ Thư mục **`van-ban-goc/`** giữ **bản gốc DOCX** của 06 văn bản tru
 | Công văn tham gia ý kiến quy hoạch KCN, CCN | KT. Giám đốc - PGĐ Nguyễn Đình Chiến (phụ trách KCN, CCN) |
 | Phiếu góp ý nội bộ, công văn nghiệp vụ Phòng QLCN | Theo lĩnh vực: PGĐ phụ trách tương ứng |
 
-Dòng Lưu ghi `Lưu: VT, CN.` — không ghi tên chuyên viên (Bạn chốt 01/10/2026). Chuyên viên tham mưu tra bảng phân công Phòng QLCN trong skill `sct-laocai-org-vn`: KCN/CCN và tham gia ý kiến dự án công nghiệp → **CV Trung**; điện/khoáng sản → theo chuyên viên phụ trách.
+Dòng Lưu ghi `Lưu: VT, CN(Tên).` — tên chuyên viên soạn thảo, Nơi nhận có Ban Giám đốc Sở (Bạn chốt 16/11/2026). Chuyên viên tham mưu tra bảng phân công Phòng QLCN trong skill `sct-laocai-org-vn`: KCN/CCN và tham gia ý kiến dự án công nghiệp → **CV Trung**; điện/khoáng sản → theo chuyên viên phụ trách.

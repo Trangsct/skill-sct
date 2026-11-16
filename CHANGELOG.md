@@ -1,3 +1,10 @@
+## 16/11/2026 — Nơi nhận có Ban Giám đốc Sở, dòng Lưu ghi lại tên chuyên viên; thư gửi chuyên viên khi hoàn thiện
+
+- **vbhc-vn 2.40.0**: Nơi nhận có "Ban Giám đốc Sở", dòng Lưu ghi lại tên chuyên viên soạn thảo `CN(Tên)` (trừ Giấy phép, Giấy chứng nhận thủ tục hành chính). Máy kiểm: R07 đảo (WARN khi thiếu tên), R22 thu hẹp còn GP/GCN, R28 mới (WARN khi thiếu Ban Giám đốc Sở). `build_vb.py --nguoi-soan`, `TemplateDoc.save(ra, nguoi_soan=)` điền tên; `chuan_hoa_dong_luu` không còn xóa tên; `kiem_tra_truoc_khi_giao.py` báo dòng Lưu thiếu tên. File lỗi mẫu r07b, r22, r28; baseline WARN chốt lại (13 cảnh báo R07 trên mẫu thật biến mất vì mẫu thật vốn ghi tên). Quy tắc mới: Bạn bảo "hoàn thiện" → gửi thư cho chuyên viên phụ trách.
+- attp-sct-vn 1.9.2, bvmt-sct-vn 1.7.3, dacn-sct-vn 1.13.1, data360x-sct-vn 1.4.1, hc-sct-vn 1.10.2, hl-vlncn-sct-vn 1.7.2, hnh-sct-vn 1.19.2, kccn-sct-vn 1.66.2, kho-vlncn-sct-vn 1.13.4, pccc-sct-vn 1.5.2, quy-hoach-ct-vn 1.7.1, sct-laocai-org-vn 2.11.1, sd-vlncn-sct-vn 2026.11.16.1, tkm-sct-vn 1.5.4, xd-sct-vn 1.7.3, xp-sct-vn 1.8.3: Đồng bộ quy ước Bạn chốt 16/11/2026: mẫu văn bản ghi dòng Lưu `CN(Tên)` (tên chuyên viên soạn thảo) và gửi Ban Giám đốc Sở; chỉ Giấy phép, Giấy chứng nhận thủ tục hành chính không gửi Ban Giám đốc Sở, không ghi tên.
+- `scripts/check_facts.py`: thay rule `luu-khong-ghi-ten-chuyen-vien` bằng `luu-ghi-ten-chuyen-vien`, thay `tthc-khong-gui-ban-giam-doc-so` bằng `chi-gp-gcn-khong-gui-ban-giam-doc-so` (lịch sử: quy ước 01/10 và 13/10/2026).
+- `CLAUDE.md`: mục "Nơi nhận, dòng Lưu và thư gửi chuyên viên khi hoàn thiện".
+
 ## 13/11/2026 — kccn-sct-vn 1.66.1: căn cứ khoản 4 Điều 32 NĐ 32/2024 sau NĐ 303/2026; điểm soát Đề án di dời CCN
 
 - **kccn-sct-vn 1.66.1**: ref 45 sửa căn cứ thẩm định Đề án di dời CCN Đầm Hồng — khoản 4 Điều 32 NĐ 32/2024 đã được thay bởi điểm c

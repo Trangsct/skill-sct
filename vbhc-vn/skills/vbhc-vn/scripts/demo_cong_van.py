@@ -58,7 +58,7 @@ def main():
     # ==========================================================
     # 4. SỬA NƠI NHẬN (Table cuối, cell trái)
     # ==========================================================
-    # Dòng Lưu giữ nguyên "Lưu: VT, CN." — không ghi tên chuyên viên (Bạn chốt 01/10/2026)
+    # Dòng Lưu ghi tên chuyên viên soạn thảo "CN(Tên)" (Bạn chốt 16/11/2026) — truyền nguoi_soan khi save()
 
     # Người ký: giữ nguyên (Nguyễn Đình Chiến) trong mẫu
 

@@ -1,6 +1,6 @@
 {
   "name": "data360x-sct-vn",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Cánh tay của Claude vào hệ thống văn bản đi/đến Sở Công Thương Lào Cai: EGOV egov1.laocai.gov.vn (từ 10/10/2026, bot đọc EGOV từ 29/10/2026), Data360X là kho đến 10/10/2026. Tra kho theo-doi/ (kho riêng tư vlncn-laocai, bản tin thứ Hai–Sáu), việc chờ xử lý ở theo-doi/viec-cho-xu-ly/ (thay vOffice), sai bot trên máy ở Lào Cai lấy văn bản theo số ký hiệu/từ khóa, quét mới, tìm văn bản viện dẫn; hàng đợi yeu-cau/ cho TAY. Không kết luận 'không có' khi chưa sai bot. Không bịa số/ngày.",
   "author": {
     "name": "Trần Trọng Trang - Phòng QLCN, Sở Công Thương tỉnh Lào Cai"

@@ -24,7 +24,7 @@ Sở Công Thương thông báo kế hoạch kiểm tra công tác nghiệm thu 
 4. **Thành phần đoàn kiểm tra của Sở:** {Ông/Bà … — PGĐ (chủ trì); … — Phó Trưởng phòng QLCN; Ông Ngô Ngọc Dũng — Chuyên viên; …}.
 5. **Đề nghị Chủ đầu tư:** chuẩn bị hồ sơ hoàn thành, bố trí nhân sự các bên liên quan (tư vấn giám sát, nhà thầu thi công, thiết kế) làm việc với đoàn.
 
-Nơi nhận: {…}; Lưu: VT, CN.
+Nơi nhận: {…}; Lưu: VT, CN(Tên).
 
 ---
 
@@ -81,7 +81,7 @@ Sở Công Thương thông báo:
 2. **Yêu cầu đối với Chủ đầu tư:** {vận hành, bảo trì theo quy trình được duyệt; lưu trữ hồ sơ hoàn thành; thực hiện đầy đủ nghĩa vụ về an toàn, PCCC, môi trường; báo cáo kết quả khắc phục các nội dung điều kiện (nếu có)}.
 3. Thông báo này {là / không thay thế} các văn bản chấp thuận thuộc thẩm quyền cơ quan khác (PCCC, môi trường, an ninh trật tự) theo quy định.
 
-Nơi nhận: {…}; Lưu: VT, CN.
+Nơi nhận: {…}; Lưu: VT, CN(Tên).
 
 ---
 

@@ -37,4 +37,4 @@ d) Về kỹ thuật: thiết kế/phương án thi công, khai thác được �
 Hồ sơ đủ điều kiện. Sở Công Thương trình Chủ tịch UBND tỉnh xem xét, cấp Giấy phép sử dụng VLNCN cho 【tên DN】 với nội dung như dự thảo Giấy phép kèm theo (chủng loại, số lượng, Qmax, thời gian nổ, thời hạn 【…】).
 Hồ sơ kèm theo: 【dự thảo Giấy phép; hồ sơ đề nghị của DN; biên bản kiểm tra…】.
 
-Nơi nhận: Như trên; PCT UBND tỉnh Nguyễn Thành Sinh; GĐ Sở (b/c); Lưu: VT, CN.
+Nơi nhận: Như trên; PCT UBND tỉnh Nguyễn Thành Sinh; GĐ Sở (b/c); Lưu: VT, CN(Tên).

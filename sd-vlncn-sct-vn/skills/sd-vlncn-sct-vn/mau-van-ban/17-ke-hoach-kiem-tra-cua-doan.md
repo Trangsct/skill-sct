@@ -12,4 +12,4 @@ Mở đầu: Thực hiện Quyết định số 【…/QĐ-SCT】 ngày 【…�
 **5. Nguồn lực:** kinh phí theo quy định; xe ô tô do Văn phòng Sở bố trí.
 **6. Vấn đề khác:** kỷ luật Đoàn; đơn vị được kiểm tra chuẩn bị báo cáo theo **Đề cương (Phụ lục II)**, cử đại diện, cung cấp hồ sơ.
 **Phụ lục I:** bảng đơn vị — đối tượng — thời gian công bố QĐ — thời hạn (kèm ghi chú đầu mối liên hệ). **Phụ lục II:** Đề cương báo cáo của DN (thông tin chung; hồ sơ tài liệu từ pháp lý dự án → GP → PANM/hộ chiếu → kho → kiểm định → báo cáo; khó khăn kiến nghị).
-Nơi nhận: Giám đốc Sở (để báo cáo và phê duyệt); Văn phòng Sở (kinh phí, phương tiện); Thành viên Đoàn; Các đơn vị được kiểm tra; Lưu: VT, CN.
+Nơi nhận: Giám đốc Sở (để báo cáo và phê duyệt); Văn phòng Sở (kinh phí, phương tiện); Thành viên Đoàn; Các đơn vị được kiểm tra; Lưu: VT, CN(Tên).

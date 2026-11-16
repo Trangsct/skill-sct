@@ -26,7 +26,7 @@ chứng nhận huấn luyện kỹ thuật an toàn VLNCN đối với đối t�
 Sở Công Thương thông báo để [Tên đơn vị] biết, chủ động bố trí nhân sự đáp ứng đủ điều
 kiện để đề nghị huấn luyện, kiểm tra theo quy định./.
 
-Nơi nhận: Như trên; Lưu: VT, BP1C, CN. (từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở)
+Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN(Khôi). (Bạn chốt 16/11/2026: chỉ Giấy phép, Giấy chứng nhận không gửi Ban Giám đốc Sở)
 Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
 ```
 
@@ -46,8 +46,8 @@ Công Thương xem xét, đưa vào kế hoạch kiểm tra kỳ gần nhất."
 2. **Không nêu "đã tham dự huấn luyện, kiểm tra" và không nêu kết quả** của người không đủ điều kiện — chỉ nêu hồ sơ,
    quy định, lý do chưa đủ cơ sở, đề nghị.
 3. **Lỗi nhỏ của hồ sơ (thiếu ảnh 3x4, lỗi chính tả…) bỏ qua**, không đưa vào công văn trả lời.
-4. **Nơi nhận**: "- Như trên; - Lưu: VT, BP1C, CN." — KHÔNG gửi Trung tâm Phục vụ hành chính công (dòng này chỉ có ở QĐ
-   công nhận), không gửi Ban Giám đốc Sở.
+4. **Nơi nhận**: "- Như trên; - Ban Giám đốc Sở; - Lưu: VT, BP1C, CN(Khôi)." — KHÔNG gửi Trung tâm Phục vụ hành chính
+   công (dòng này chỉ có ở QĐ công nhận); gửi Ban Giám đốc Sở và ghi tên chuyên viên (Bạn chốt 16/11/2026).
 5. **Trình bày**: các đoạn thân cách trên 6 pt. Trích yếu (Bạn chốt 10/11/2026, thay cách ngắt bằng khoảng trắng không
    ngắt trước đây): "V/v giải quyết đề nghị cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp" viết
    MỘT đoạn liền, tự xuống dòng, tối đa 3-4 dòng, viết đủ tên, không viết tắt; cân tâm với khối "UBND TỈNH LÀO CAI / SỞ CÔNG

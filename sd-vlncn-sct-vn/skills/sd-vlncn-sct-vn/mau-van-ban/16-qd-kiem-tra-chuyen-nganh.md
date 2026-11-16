@@ -19,4 +19,4 @@ Căn cứ (theo bản thật): Luật số 42/2024/QH15; Luật số 15/2012/QH1
 **Điều 3. Nhiệm vụ, quyền hạn của Đoàn** (Điều 8 NĐ 217/2025): xây dựng Kế hoạch trình GĐ Sở phê duyệt; yêu cầu cung cấp hồ sơ, giải trình; kiểm tra hiện trường; lập biên bản kiểm tra; lập biên bản VPHC nếu phát hiện vi phạm; kiến nghị GĐ Sở biện pháp xử lý, vượt thẩm quyền thì dự thảo Tờ trình cấp có thẩm quyền; báo cáo kết quả sau khi kết thúc; **được sử dụng con dấu của Sở**; nhiệm vụ cụ thể do Trưởng đoàn phân công.
 
 **Điều 4.** Kinh phí theo quy định hiện hành. **Điều 5.** Đoàn tự giải thể sau khi hoàn thành nhiệm vụ; Chánh Văn phòng Sở, Trưởng phòng QLCN, các tổ chức, cá nhân liên quan và các ông/bà tại Điều 1 thi hành./.
-Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN. Ký: **GIÁM ĐỐC Hoàng Chí Hiền**.
+Nơi nhận: UBND tỉnh (để báo cáo); Như Điều 5; Ban Giám đốc Sở; Lưu: VT, CN(Tên). Ký: **GIÁM ĐỐC Hoàng Chí Hiền**.

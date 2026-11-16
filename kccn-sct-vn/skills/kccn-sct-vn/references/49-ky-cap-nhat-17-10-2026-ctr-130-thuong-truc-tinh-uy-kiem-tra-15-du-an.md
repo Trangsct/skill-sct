@@ -26,7 +26,7 @@
 | `…Báo cáo tiến độ các dự án tại 3 điểm kiểm tra thực địa…` (3 trang) | Một báo cáo gộp 3 điểm (Phú Xuân + Phú Xuân 1; graphit Yên Thái; Trấn Yên), mỗi điểm một mục La Mã kèm "(Kiểm tra thực địa … giờ, ngày …)" | GIÁM ĐỐC; Nơi nhận: Như trên; BQL KKT; BQL các KCN; Lưu: VT, CN |
 | `…Công văn gửi Văn phòng Tỉnh ủy báo cáo tiến độ 3 điểm kiểm tra thực địa` (1 trang) | Kính gửi VP Tỉnh ủy, trích yếu dưới Số (headerTY), 3 địa điểm, giờ | GIÁM ĐỐC |
 
-⚠️ Bản đồng nghiệp sửa trả lại (và 6 file .docx chép trong kho) ghi dòng Lưu kèm tên chuyên viên trong ngoặc — trái quy ước dòng Lưu từ 01/10/2026 (`check_facts` rule `luu-khong-ghi-ten-chuyen-vien`); khi dùng lại mẫu phải sửa thành "Lưu: VT, CN." và báo Bạn.
+Bản đồng nghiệp sửa trả lại (và 6 file .docx chép trong kho) ghi dòng Lưu kèm tên chuyên viên trong ngoặc — đúng quy ước Bạn chốt lại ngày 16/11/2026 "Lưu: VT, CN(Tên)." (lịch sử: giai đoạn 01/10–16/11/2026 quy ước bỏ tên).
 
 Quy ước Bạn chốt trong phiên (áp dụng cho cả bộ): viết đủ "Ủy ban nhân dân"; nêu BQL Khu kinh tế tỉnh thì nêu cả BQL các Khu công nghiệp tỉnh; tháng 3–12 không số 0; sau "Kính gửi" cách 1 dòng; ô ký cao tương ứng khối Nơi nhận; mỗi vướng mắc mở ngoặc dẫn nguồn (số, ngày, cơ quan); viết đủ "các Cụm công nghiệp Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3"; không nêu tên cá nhân người dân; nội dung chưa có số liệu → câu "Ủy ban nhân dân tỉnh đã giao chủ đầu tư, UBND các xã, phường báo cáo bổ sung tại buổi làm việc"; hạn chế chữ tím (bản cuối không còn tím); chữ ký không được đứng một mình ở trang cuối (chỉnh giãn dòng 243–262, after 0–10 để khít trang — xem script `bc_fill2.js` mô tả ở mục E).
 

@@ -21,7 +21,7 @@ Kính gửi: Ủy ban nhân dân tỉnh (cách 1 dòng). Đoạn 1: căn cứ Ch
 Kính gửi đồng chí Phó Chủ tịch phụ trách; I. Nội dung trình (1–4: cơ quan trình, văn bản trình, căn cứ, nội dung trình — mô tả bố cục báo cáo và các kiến nghị chính); II. Ý kiến của chuyên viên; III. Ý kiến của Văn phòng; bảng ký Phó Chánh Văn phòng / chuyên viên; không chữ tím; không để trang trắng cuối.
 
 ## 09.4 Báo cáo tiến độ tại các điểm kiểm tra thực địa (BC-SCT; Giám đốc ký) — gộp các điểm thành một báo cáo
-Tiêu đề "Tiến độ các dự án tại các điểm kiểm tra thực địa của Thường trực Tỉnh ủy"; mỗi điểm một mục La Mã: "I. Tên dự án" + dòng "(Kiểm tra thực địa … giờ, ngày …)"; nội dung 1. Giới thiệu; 2. Tiến độ đến ngày …; 3. Khó khăn, vướng mắc; 4. Đề nghị. Nơi nhận: Như trên; BQL KKT; BQL các KCN; Lưu: VT, CN. Không dòng "Tài liệu kèm theo".
+Tiêu đề "Tiến độ các dự án tại các điểm kiểm tra thực địa của Thường trực Tỉnh ủy"; mỗi điểm một mục La Mã: "I. Tên dự án" + dòng "(Kiểm tra thực địa … giờ, ngày …)"; nội dung 1. Giới thiệu; 2. Tiến độ đến ngày …; 3. Khó khăn, vướng mắc; 4. Đề nghị. Nơi nhận: Như trên; BQL KKT; BQL các KCN; Lưu: VT, CN(Tên). Không dòng "Tài liệu kèm theo".
 
 ## 09.5 Công văn gửi Văn phòng Tỉnh ủy báo cáo tiến độ các điểm thực địa (SCT-CN; trích yếu dưới Số)
-Kính gửi: Văn phòng Tỉnh ủy (cách 1 dòng); nêu 3 địa điểm, giờ; gửi kèm báo cáo 09.4; Lưu: VT, CN.
+Kính gửi: Văn phòng Tỉnh ủy (cách 1 dòng); nêu 3 địa điểm, giờ; gửi kèm báo cáo 09.4; Lưu: VT, CN(Tên).

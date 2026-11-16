@@ -180,13 +180,13 @@ RULES = [
         "only": ["kccn-sct-vn", "dacn-sct-vn", "bpb-sct-vn", "quy-hoach-ct-vn"],
     },
     {
-        "id": "tthc-khong-gui-ban-giam-doc-so",
-        # Bạn chốt 13/10/2026: văn bản giải quyết thủ tục hành chính (hoàn thiện, bổ sung, trả hồ sơ; giấy phép; GCN;
-        # từ chối, chấm dứt thẩm định) KHÔNG gửi Ban Giám đốc Sở, chỉ gửi trực tiếp các đơn vị theo quy định.
-        # Dấu hiệu thủ tục hành chính trên cùng dòng Nơi nhận: BP1C / Bộ phận Một cửa / motcua-tthc.
-        "pattern": r"^(?!.*(?:lịch sử|không gửi|trước 13/10|trừ văn bản thủ tục)).*Ban (?:Giám đốc|GĐ) Sở[^\n]{0,80}(?:BP1C|Một cửa|motcua-tthc)|^(?!.*(?:lịch sử|không gửi|trước 13/10)).*(?:BP1C|Một cửa)[^\n]{0,80}Ban (?:Giám đốc|GĐ) Sở",
-        "why": "Từ 13/10/2026 văn bản thủ tục hành chính không gửi Ban Giám đốc Sở — Nơi nhận chỉ gồm các đơn vị theo đúng quy định (vbhc-vn R22, scripts/chuan_hoa_xuat_ban.py --tthc).",
-        "since": "2026-10-13",
+        "id": "chi-gp-gcn-khong-gui-ban-giam-doc-so",
+        # Bạn chốt 16/11/2026: bổ sung Nơi nhận "Ban Giám đốc Sở" cho mọi văn bản, trừ Giấy phép, Giấy chứng nhận của
+        # thủ tục hành chính — thu hẹp quy tắc 13/10/2026 (mọi văn bản thủ tục hành chính không gửi, nay là lịch sử).
+        # Bắt câu còn nói "văn bản thủ tục hành chính (…) không gửi Ban Giám đốc Sở" mà không giới hạn ở GP, GCN.
+        "pattern": r"^(?!.*(?:lịch sử|Giấy phép|Giấy chứng nhận|GP/GCN|GP, GCN|16/11/2026|thu hẹp)).*(?:văn bản )?thủ tục hành chính[^\n]{0,60}không gửi (?:Ban )?(?:Giám đốc|GĐ) Sở",
+        "why": "Từ 16/11/2026 chỉ Giấy phép, Giấy chứng nhận của thủ tục hành chính không gửi Ban Giám đốc Sở; công văn hoàn thiện, bổ sung, trả hồ sơ và mọi văn bản khác đều gửi (vbhc-vn R22, R28). Dòng nói về giai đoạn 13/10–16/11/2026 thì thêm chữ 'lịch sử'.",
+        "since": "2026-11-16",
         "level": "FAIL",
     },
     {
@@ -607,12 +607,13 @@ RULES = [
         "level": "WARN",
     },
     {
-        "id": "luu-khong-ghi-ten-chuyen-vien",
-        # Chốt 01/10/2026: dòng Lưu cuối văn bản không ghi tên chuyên viên soạn thảo — "Lưu: VT, CN."
-        # (nội bộ Phòng "Lưu: CN."). Thay quy ước cũ "Lưu: VT, CN(tên)" và rule cn-m-cuong-vlncn.
-        "pattern": r"(?:Lưu[^\n]{0,30}\b(?:Q?L?CN)\s?\((?!\s*\d)[^)\n]{1,25}\)|\bCN\s?\((?:tên|Tên)\))",
-        "why": "Từ 01/10/2026 dòng Lưu không ghi tên chuyên viên: viết 'Lưu: VT, CN.' (công văn nội bộ Phòng 'Lưu: CN.'). Dòng trích văn bản đã ban hành trước ngày này thì thêm chữ 'lịch sử'.",
-        "since": "2026-10-01",
+        "id": "luu-ghi-ten-chuyen-vien",
+        # Bạn chốt 16/11/2026: dòng Lưu GHI tên chuyên viên soạn thảo như quy ước trước đây — "Lưu: VT, CN(Tên)."
+        # (nội bộ Phòng "Lưu: CN(Tên)."), trừ Giấy phép, Giấy chứng nhận thủ tục hành chính ("Lưu: VT, BP1C, CN.").
+        # Thay quy ước 01/10/2026 bỏ tên (lịch sử). Bắt câu hướng dẫn còn bảo "không ghi tên chuyên viên".
+        "pattern": r"^(?!.*(?:lịch sử|01/10–16/11|Giấy phép|Giấy chứng nhận|GP/GCN|BP1C|thiếu tên|16/11/2026)).*(?:không ghi tên (?:chuyên viên|người soạn|/mã người soạn)|bỏ tên chuyên viên)",
+        "why": "Từ 16/11/2026 dòng Lưu ghi tên chuyên viên soạn thảo: 'Lưu: VT, CN(Tên).' (nội bộ Phòng 'Lưu: CN(Tên).'); chỉ Giấy phép, Giấy chứng nhận thủ tục hành chính 'Lưu: VT, BP1C, CN.' không tên. Dòng nói về giai đoạn 01/10–16/11/2026 thì thêm chữ 'lịch sử'.",
+        "since": "2026-11-16",
         "level": "FAIL",
     },
     {

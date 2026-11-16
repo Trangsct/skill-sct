@@ -13,8 +13,9 @@ Tân Phúc Hưng — trình trên hệ thống quản lý văn bản mới của
      (NĐ 30/2020). Không để 12.
   3. KHỐI NƠI NHẬN - KÝ cách khối nội dung ĐÚNG MỘT DÒNG trống cỡ 14 — không phải đoạn
      "đệm" 1–7 pt như nhiều mẫu thật cũ (nhìn như dính sát).
-  4. --tthc: văn bản giải quyết thủ tục hành chính KHÔNG gửi "Ban Giám đốc Sở", chỉ gửi
-     đúng các đơn vị theo quy định.
+  4. --tthc: Giấy phép, Giấy chứng nhận của thủ tục hành chính KHÔNG gửi "Ban Giám đốc Sở", chỉ gửi
+     đúng các đơn vị theo quy định (Bạn chốt 16/11/2026: các văn bản khác, kể cả công văn hoàn thiện
+     hồ sơ, đều gửi Ban Giám đốc Sở — không dùng --tthc cho công văn).
 
 Cách chạy:
     python3 scripts/chuan_hoa_xuat_ban.py vao.docx                  # sửa tại chỗ
@@ -229,7 +230,7 @@ def main() -> int:
     ap.add_argument("docx")
     ap.add_argument("-o", "--ra", help="file kết quả (mặc định: sửa tại chỗ)")
     ap.add_argument("--tthc", action="store_true",
-                    help="văn bản giải quyết thủ tục hành chính: bỏ dòng 'Ban Giám đốc Sở' ở Nơi nhận")
+                    help="Giấy phép, Giấy chứng nhận thủ tục hành chính: bỏ dòng 'Ban Giám đốc Sở' ở Nơi nhận")
     ap.add_argument("--chi-phong", action="store_true", help="chỉ chuẩn hóa phông chữ")
     a = ap.parse_args()
     if not Path(a.docx).exists():

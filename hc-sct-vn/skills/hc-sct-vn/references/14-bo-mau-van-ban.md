@@ -50,7 +50,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 
 - Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phần III Phụ lục TT 26/2026 (Mẫu 06, 09, 12) hoặc Phụ lục II, VII TT 01 với loại chưa bị thay.
 - **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026, QĐ 6320/QĐ-SCT; văn bản mẫu thật trong `vi-du-thuc-te/` do PGĐ Thuân ký — lịch sử, đổi khối ký khi dựng); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
-- **Dòng Lưu:** `Lưu: VT, CN.`
+- **Dòng Lưu:** `Lưu: VT, CN(Tên).`
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; "Kính gửi" không in đậm; heading mục 1,2,3 trong công văn in đậm.
 - **Không bịa số văn bản, ngày ký, mã TTHC.** Lấy số thật khi phát hành.
 
@@ -65,7 +65,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 4. **Chỉ yêu cầu đúng thành phần hồ sơ**: tài liệu không thuộc thành phần (HĐLĐ, văn bản phân công) ghi "xuất trình tại buổi kiểm tra điều kiện thực tế", không ghi "cung cấp"/"bổ sung"; không đặt điều kiện ngoài quy định (không bắt rút thời hạn hợp đồng về bằng thời hạn GCN chủ kho — thay bằng cam kết dừng tồn trữ, báo cáo, cấp điều chỉnh khi mất điều kiện kho).
 5. **Căn cứ dẫn đủ lần đầu** (NĐ 26/2026 kèm ngày, cơ quan, trích yếu; "được sửa đổi tại Phụ lục II NQ 19/2026/NQ-CP ngày 29/4/2026"); khoản 4 Điều 8 đã viết lại tại NQ 19 nên không dẫn kèm khoản 4 Điều 5 bản gốc.
 6. **Kết một đoạn:** nói rõ đây là yêu cầu bổ sung **một lần** theo điểm b khoản 5 Điều 9, thời gian hoàn chỉnh không tính vào thời hạn; báo trước hai bước kế tiếp (kiểm tra thực tế tại trụ sở; lấy ý kiến UBND nơi đặt kho); nơi nộp là Cổng một cửa Bộ Công Thương.
-7. **Thể thức:** Nơi nhận chỉ "Như trên; Lưu: VT, CN." (không Giám đốc Sở, không Trung tâm PVHCC vì hồ sơ nộp trên Cổng Bộ); KT. GĐ - PGĐ Chiến ký; ký hiệu SCT-CN; ngày nhận hồ sơ lấy theo ngày tiếp nhận trên Cổng (mã hồ sơ `H38.2-yymmdd-…` cho biết ngày nộp) để tính hạn 03 ngày làm việc.
+7. **Thể thức:** Nơi nhận "Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Loan)." (Bạn chốt 16/11/2026: gửi Ban Giám đốc Sở, ghi tên chuyên viên; không gửi Trung tâm PVHCC vì hồ sơ nộp trên Cổng Bộ); KT. GĐ - PGĐ Chiến ký; ký hiệu SCT-CN; ngày nhận hồ sơ lấy theo ngày tiếp nhận trên Cổng (mã hồ sơ `H38.2-yymmdd-…` cho biết ngày nộp) để tính hạn 03 ngày làm việc.
 Độ dài chuẩn: 3 trang A4; dưới 2 trang là thiếu lập luận, trên 3 trang là lặp.
 
 **QĐ thành lập Đoàn kiểm tra:** căn cứ; Điều 1 thành lập đoàn + danh sách (Trưởng đoàn PGĐ Chiến, Phó đoàn lãnh đạo phòng, thành viên + thư ký CN Loan); Điều 2 nội dung/phạm vi/thời kỳ/thời hạn/đối tượng (phụ lục danh sách đơn vị); Điều 3 nhiệm vụ đoàn; Điều 4 điều khoản thi hành.

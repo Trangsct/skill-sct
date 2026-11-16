@@ -10,4 +10,4 @@ Mở đầu: Thực hiện Quyết định số 【…/QĐ-SCT】 ngày 【…�
 
 **2. Kiến nghị** — các yêu cầu Sở đặt ra với đơn vị (gạch đầu dòng): tăng cường quản lý, giám sát nổ mìn đúng thiết kế, PANM đã phê duyệt (mục đích, địa điểm, khối lượng, phương pháp), tuân thủ đầy đủ nội dung GP; giám sát lập hộ chiếu khoa học, đầy đủ theo TT 23/2024/TT-BCT; về kho: rà soát biển báo, nội quy, sắp xếp thuốc nổ - phụ kiện, sửa chữa rãnh thoát nước, gia cố ta luy chống sạt lở, bảo vệ 24/24; nghiêm chỉnh chấp hành Luật 42/2024, NĐ 181/2024, TT 23/2024, QCVN 01:2019/BCT và quy định liên quan; 【yêu cầu khắc phục cụ thể + thời hạn báo cáo kết quả khắc phục nếu có tồn tại】.
 Kết: "Sở Công Thương Lào Cai thông báo cho các đơn vị được biết và thực hiện./."
-Nơi nhận: từng đơn vị được kiểm tra; Ban Giám đốc Sở; Lưu: VT, CN.
+Nơi nhận: từng đơn vị được kiểm tra; Ban Giám đốc Sở; Lưu: VT, CN(Tên).

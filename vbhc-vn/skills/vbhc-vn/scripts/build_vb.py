@@ -394,6 +394,7 @@ def main() -> int:
     ap.add_argument("--mau", help="đường dẫn mẫu thật .docx (ưu tiên hơn --loai)")
     ap.add_argument("--than-tu", type=int, help="ép vị trí paragraph thân đầu tiên")
     ap.add_argument("--khong-qa", action="store_true", help="không chạy qa_rules sau khi dựng")
+    ap.add_argument("--nguoi-soan", help="tên chuyên viên soạn thảo ghi vào dòng Lưu: CN(Tên) (Bạn chốt 16/11/2026)")
     a = ap.parse_args()
 
     if a.mau:
@@ -463,10 +464,10 @@ def main() -> int:
         dat_kinh_gui(doc, dong_kg, khuon=dich[0])
     cach_mot_dong_truoc_khoi_ky(doc, khuon=dich[0])
 
-    # Dòng Lưu không ghi tên chuyên viên (Bạn chốt 01/10/2026) — mẫu thật cũ còn "CN(Tên)".
+    # Dòng Lưu ghi tên chuyên viên soạn thảo "CN(Tên)" (Bạn chốt 16/11/2026) — điền khi có --nguoi-soan.
     sys.path.insert(0, str(SCRIPT_DIR))
     from fill_template import chuan_hoa_dong_luu  # noqa: E402
-    chuan_hoa_dong_luu(doc)
+    chuan_hoa_dong_luu(doc, a.nguoi_soan)
 
     ra = Path(a.ra)
     ra.parent.mkdir(parents=True, exist_ok=True)

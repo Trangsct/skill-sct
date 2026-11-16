@@ -217,6 +217,16 @@ Yêu cầu Bạn nói rõ "chỉ lần này" hoặc gắn với một văn bản
 `scripts/check_anti_error_format.py` (chạy kèm `check_descriptions.py` → CI) kiểm sổ lỗi đủ số thứ tự liên tục, ngày hợp
 lệ, "Lỗi", "Cách đúng", không lộ thông tin riêng.
 
+## Nơi nhận, dòng Lưu và thư gửi chuyên viên khi hoàn thiện (Bạn chốt 16/11/2026)
+
+- Mọi văn bản của Sở: Nơi nhận có "- Ban Giám đốc Sở;", dòng Lưu ghi tên chuyên viên soạn thảo `Lưu: VT, CN(Tên).`
+  (nội bộ Phòng `Lưu: CN(Tên).`) — khôi phục quy ước trước 01/10/2026. Ngoại lệ duy nhất: Giấy phép, Giấy chứng nhận của
+  thủ tục hành chính (`Lưu: VT, BP1C, CN.`, không gửi Ban Giám đốc Sở). Quy ước 01/10 (bỏ tên) và 13/10/2026 (thủ tục
+  hành chính không gửi Ban Giám đốc) là lịch sử. Máy kiểm: vbhc-vn R07, R22, R28; `check_facts.py` rule
+  `luu-ghi-ten-chuyen-vien`, `chi-gp-gcn-khong-gui-ban-giam-doc-so`.
+- Bạn bảo "hoàn thiện" một văn bản → gửi thư (Gmail của Bạn) cho chuyên viên phụ trách, đính kèm tệp; địa chỉ ở plugin
+  riêng tư `dong-nghiep-sct-vn` (kho vlncn-laocai), không chép địa chỉ sang kho công khai này.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

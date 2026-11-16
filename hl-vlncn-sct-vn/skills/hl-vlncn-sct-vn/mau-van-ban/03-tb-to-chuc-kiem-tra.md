@@ -35,5 +35,5 @@ Sở Công Thương Lào Cai thông báo cho các đơn vị hoạt động vậ
 
 Nơi nhận:                                      KT. GIÁM ĐỐC
 - Như trên;                                    PHÓ GIÁM ĐỐC
-- Lưu: VT, CN.                              Nguyễn Đình Chiến
+- Lưu: VT, CN(Tên).                              Nguyễn Đình Chiến
 ```

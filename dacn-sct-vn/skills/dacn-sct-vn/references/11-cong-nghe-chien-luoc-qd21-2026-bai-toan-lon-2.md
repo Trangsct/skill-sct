@@ -69,7 +69,7 @@ Reference này phục vụ: (1) tra đúng danh mục công nghệ/sản phẩm 
 
 ### 2. Kế hoạch của UBND tỉnh — bản trình ký 04/10/2026 (bản hiện hành để kế thừa)
 
-Tên đã chốt: **Kế hoạch phát triển công nghiệp khai thác và tinh chế nguyên liệu phục vụ phát triển công nghệ chiến lược trên địa bàn tỉnh Lào Cai giai đoạn 2026 - 2030, tầm nhìn đến năm 2050** (không có "Bài toán lớn số 2" trong tên; trong thân chỉ nhắc một lần ở mục đích). UBND tỉnh ban hành, KT. Chủ tịch — PCT Giàng Quốc Hưng ký; Sở trình bằng Tờ trình (Giám đốc ký, `Lưu: VT, CN.`).
+Tên đã chốt: **Kế hoạch phát triển công nghiệp khai thác và tinh chế nguyên liệu phục vụ phát triển công nghệ chiến lược trên địa bàn tỉnh Lào Cai giai đoạn 2026 - 2030, tầm nhìn đến năm 2050** (không có "Bài toán lớn số 2" trong tên; trong thân chỉ nhắc một lần ở mục đích). UBND tỉnh ban hành, KT. Chủ tịch — PCT Giàng Quốc Hưng ký; Sở trình bằng Tờ trình (Giám đốc ký, `Lưu: VT, CN(Tên).`).
 
 **Diễn biến (lịch sử, không ghi vào văn bản):** bản 05/9/2026 dựng bằng script (11 mục, 05 chuỗi, 16 nhiệm vụ, 42 tỷ) → bản trình 14–15/9/2026 theo mẫu KH 427 (Tờ trình 5728/TTr-SCT ngày 15/9/2026; 24 dự án thành phần, 22 dự án danh mục, NSNN 15,5 tỷ) → **CV 9958/UBND-NC ngày 30/9/2026** (PCT Giàng Quốc Hưng ký) kết luận chưa đạt, yêu cầu hoàn thiện theo CV 7698 và trình trước 05/10/2026 → Giám đốc chỉ đạo 02/10: viết đơn giản theo cấu trúc Kế hoạch 467/KH-UBND ngày 01/10/2026 (Bài toán số 3 đã duyệt), không xin ý kiến sở ngành nữa → bản trình ký 04/10/2026 (sửa trực tiếp trên file, chưa dựng lại script; script `scripts/bai-toan-lon-2/` là lịch sử, không chạy lại để sinh bản mới).
 

@@ -1,5 +1,10 @@
 # CHANGELOG bvmt-sct-vn
 
+## 1.8.1 — 17/11/2026 — Bản gốc phụ lục Nghị định 08/2022 (bản 2022)
+
+- Lưu bản gốc Phụ lục I–XXXIV kèm Nghị định số 08/2022/NĐ-CP (bản năm 2022, Bạn cung cấp 17/11/2026): `van-ban-goc/2022.01.10-08.2022.ND.CP-Phu-luc-kem-theo-Nghi-dinh-ban-2022.doc` + bản trích chữ `.txt`; ghi vào INDEX văn bản gốc. Bản này chưa gồm sửa đổi của NĐ 05/2025/NĐ-CP, NĐ 48/2026/NĐ-CP.
+- Ref 03: thêm ghi chú đối chiếu STT 4 Phụ lục II (phân bón hóa học) — nguyên văn bản 2022 "trừ phối trộn, sang chiết, đóng gói"; cách viết nhận xét khi chưa có bản gốc phụ lục NĐ 48/2026.
+
 ## 1.8.0 — 16/11/2026 — Phong cách phiếu nhận xét hội đồng thẩm định (ref 13)
 
 - Thêm `references/13-phong-cach-phieu-nhan-xet-hoi-dong.md`: phong cách phiếu nhận xét của thành viên Hội đồng thẩm định (GPMT, ĐTM, quy chuẩn kỹ thuật) — đúng mẫu, ngắn gọn (mỗi mục 2–3 gạch đầu dòng, cả phiếu khoảng 3 trang), xứng tầm (bỏ góp ý vụn về chính tả, phông, ký hiệu); góp ý chi tiết đủ ba phần "hồ sơ ghi gì - thiếu gì - đề nghị sửa thế nào"; kiểm chứng file gốc trước khi kết luận sai; chuẩn căn lề A4, khối ký.

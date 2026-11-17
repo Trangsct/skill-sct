@@ -1,3 +1,7 @@
+## 17/11/2026 — bvmt-sct-vn 1.8.1: bản gốc phụ lục Nghị định 08/2022
+
+- **bvmt-sct-vn 1.8.1**: lưu Phụ lục I–XXXIV kèm Nghị định số 08/2022/NĐ-CP (bản 2022, .doc + .txt) vào `van-ban-goc/`; ref 03 thêm ghi chú đối chiếu STT 4 Phụ lục II về phân bón hóa học.
+
 ## 16/11/2026 — bvmt-sct-vn 1.8.0: phong cách phiếu nhận xét hội đồng thẩm định
 
 - **bvmt-sct-vn 1.8.0**: ref 13 mới — phiếu nhận xét của thành viên Hội đồng (GPMT, ĐTM, quy chuẩn kỹ thuật) viết đúng mẫu, ngắn gọn, xứng tầm; góp ý chi tiết ba phần "hồ sơ ghi gì - thiếu gì - đề nghị sửa thế nào"; chuẩn căn lề, khối ký. SKILL.md và ref 08 dẫn sang ref 13.

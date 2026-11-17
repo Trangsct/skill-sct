@@ -1,24 +1,24 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **858** (Luật 35, NĐ 235, TT 120, QĐ 390, NQ 36, khác 42).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **161**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **860** (Luật 35, NĐ 235, TT 121, QĐ 391, NQ 36, khác 42).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **162**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
 
 | Mã | Số plugin | Plugins | Hiệu lực | Bị sửa đổi bởi | Bị thay thế bởi / dự thảo |
 |---|---|---|---|---|---|
+| NĐ 30/2020 | 16 | attp-sct-vn, bvmt-sct-vn, cong-ty-tay-bac-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
 | QĐ 6320/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 06/10/2026 |  |  |
 | QĐ 3628/QĐ-UBND | 15 | attp-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn |  |  |  |
-| NĐ 30/2020 | 14 | attp-sct-vn, bvmt-sct-vn, cong-ty-tay-bac-vn, dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sct-laocai-org-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
 | Luật 42/2024 | 11 | atvsld-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/01/2025 | Luật 118/2025 (01/7/2026) |  |
 | NĐ 105/2025 | 11 | dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 01/7/2025 | NĐ 347/2026 (15/9/2026) |  |
 | NĐ 217/2025 | 11 | atvsld-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 05/8/2025 |  |  |
 | QCVN 01:2019/BCT | 11 | cong-ty-tay-bac-vn, hl-vlncn-sct-vn, kho-vlncn-sct-vn, mau-dgrr-khuc-vlncn, pccc-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn |  |  |  |
 | NĐ 181/2024 | 10 | atvsld-sct-vn, hl-vlncn-sct-vn, ho-so-sct-vn, kho-vlncn-sct-vn, mau-dgrr-khuc-vlncn, qlks-sct-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/01/2025 | NĐ 146/2025 |  |
+| NĐ 32/2024 | 10 | cong-ty-tay-bac-vn, dacn-sct-vn, ho-so-sct-vn, kccn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, vbhc-vn, xp-sct-vn | 01/5/2024 | NĐ 303/2026 (15/9/2026) |  |
 | TT 38/2025 | 10 | attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, mau-dgrr-khuc-vlncn, pccc-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, vbhc-vn |  |  |  |
 | TT 23/2024 | 10 | hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, mau-dgrr-khuc-vlncn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn |  |  |  |
-| NĐ 32/2024 | 9 | cong-ty-tay-bac-vn, dacn-sct-vn, kccn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, vbhc-vn, xp-sct-vn | 01/5/2024 | NĐ 303/2026 (15/9/2026) |  |
 | QĐ 5/2025/QĐ-UBND | 9 | attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xp-sct-vn | 01/7/2025 |  |  |
 | QĐ 525/QĐ-UBND | 9 | bvmt-sct-vn, cong-ty-tay-bac-vn, dacn-sct-vn, hc-sct-vn, kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, tkm-sct-vn, xd-sct-vn |  |  |  |
 | NĐ 275/2026 | 8 | atvsld-sct-vn, bpb-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, kho-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 25/8/2026 |  |  |

@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 354 văn bản gốc (354 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -291,6 +291,7 @@ Thống kê: 353 văn bản gốc (353 có bản .txt) ở 20 plugin; 30 văn b�
 | 154/QĐ-TTg | 29/01/2022 | keo dai ky quy hoach khoang san VLXD xi mang | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/QD-154-QD-TTg-29-01-2022-keo-dai-ky-quy-hoach-khoang-san-VLXD-xi-mang.docx` | có |
 | 16/2022/NĐ-CP | 28/01/2022 | xu phat xay dung | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/xay-dung/ND-16-2022-NDCP-xu-phat-xay-dung.docx` | có |
 | 648/VPCP-NN | 26/01/2022 | de an thi truong cac bon | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-648-VPCP-NN-26-01-2022-de-an-thi-truong-cac-bon.txt` | có |
+| 08/2022/NĐ-CP | 10/01/2022 | Phu luc kem theo Nghi dinh ban 2022 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/2022.01.10-08.2022.ND.CP-Phu-luc-kem-theo-Nghi-dinh-ban-2022.doc` | có |
 | 06/2022/NĐ-CP | 07/01/2022 | giam nhe KNK o don | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/ND-06-2022-ND-CP-07-01-2022-giam-nhe-KNK-o-don.txt` | có |
 | 04/2022/NĐ-CP | 06/01/2022 | sua doi ND 36 2020 va ND 91 2019 dat dai | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/khoang-san/ND-04-2022-NDCP-sua-doi-ND-36-2020-va-ND-91-2019-dat-dai.docx` | có |
 | 8520/BCT-KHCN | 30/12/2021 | Cong van huong dan thuc hien quy dinh linh vuc an toan thuc pham | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2021.12.30 8520.BCT.KHCN Cong van huong dan thuc hien quy dinh linh vuc an toan thuc pham.pdf` | có (OCR) |

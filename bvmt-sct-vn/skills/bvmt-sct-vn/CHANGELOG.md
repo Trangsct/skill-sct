@@ -1,5 +1,11 @@
 # CHANGELOG bvmt-sct-vn
 
+## 1.9.0 — 17/11/2026 — Thông tư 09/2026/TT-BNNMT, sổ lỗi tự ghi
+
+- Lưu bản gốc Thông tư số 09/2026/TT-BNNMT ngày 29/01/2026 (Word + PDF + bản trích chữ): `van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.docx`; ghi vào INDEX.
+- Lập `references/so-loi-tu-ghi.md`: L001 (không chê báo cáo GPMT nhóm III thiếu đánh giá, dự báo tác động — Mẫu số 22c miễn Mục 1 Chương IV; khu, cụm công nghiệp không phải đánh giá hiện trạng — điểm c khoản 2 Điều 18a); L002 (thiếu văn bản gốc thì báo Bạn tải bổ sung ngay, Bạn chốt 17/11/2026).
+- Ref 13 mục 5 và ref 08 mục 4: bổ sung hai nguyên tắc trên; SKILL.md dẫn sổ lỗi.
+
 ## 1.8.2 — 17/11/2026 — Bản gốc Nghị định 48/2026/NĐ-CP
 
 - Lưu bản gốc Nghị định số 48/2026/NĐ-CP ngày 29/01/2026 (PDF bản quét 62 trang + bản trích chữ OCR `.txt`): `van-ban-goc/2026.01.29-48.2026.ND.CP-Sua-doi-ND-08-2022-bao-ve-moi-truong.pdf`; ghi vào INDEX. Chưa có bản Word.

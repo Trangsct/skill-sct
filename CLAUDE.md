@@ -237,8 +237,10 @@ lệ, "Lỗi", "Cách đúng", không lộ thông tin riêng.
   thủ tục hành chính (`Lưu: VT, BP1C, CN.`, không gửi Ban Giám đốc Sở). Quy ước 01/10 (bỏ tên) và 13/10/2026 (thủ tục
   hành chính không gửi Ban Giám đốc) là lịch sử. Máy kiểm: vbhc-vn R07, R22, R28; `check_facts.py` rule
   `luu-ghi-ten-chuyen-vien`, `chi-gp-gcn-khong-gui-ban-giam-doc-so`.
-- Bạn bảo "hoàn thiện" một văn bản → gửi thư (Gmail của Bạn) cho chuyên viên phụ trách, đính kèm tệp; địa chỉ ở plugin
-  riêng tư `dong-nghiep-sct-vn` (kho vlncn-laocai), không chép địa chỉ sang kho công khai này.
+- Bạn bảo "hoàn thiện" một văn bản → gửi thư (Gmail của Bạn) cho chuyên viên phụ trách, đính kèm tệp. Chỉ gửi tới
+  địa chỉ Gmail, không gửi hộp thư công vụ (Bạn chốt 17/11/2026; quy ước 16/11/2026 gửi cả hai hộp là lịch sử); người chưa có
+  Gmail thì soạn tin Zalo để Bạn tự gửi. Địa chỉ ở plugin riêng tư `dong-nghiep-sct-vn` (kho vlncn-laocai), không chép địa
+  chỉ sang kho công khai này. Máy kiểm: `check_facts.py` rule `thu-chi-gui-gmail`.
 
 ## Quy tắc nghiệp vụ chung
 

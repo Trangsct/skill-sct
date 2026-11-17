@@ -617,6 +617,15 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "thu-chi-gui-gmail",
+        # Bạn chốt 17/11/2026: thư gửi chuyên viên, Trưởng phòng chỉ gửi tới Gmail, không gửi hộp thư công vụ.
+        # Thay quy ước 16/11/2026 "gửi cả Gmail và hộp thư công vụ" (lịch sử).
+        "pattern": r"^(?!.*(?:lịch sử|không gửi hộp thư công vụ|17/11/2026)).*(?:cả Gmail và hộp thư công vụ|Gmail \+ (?:hộp )?thư công vụ|Gmail và thư công vụ)",
+        "why": "Từ 17/11/2026 thư gửi chuyên viên chỉ tới địa chỉ Gmail (cột email_gmail danh bạ), không gửi hộp thư công vụ; người chưa có Gmail thì soạn tin Zalo. Dòng nói về quy ước cũ thì thêm chữ 'lịch sử'.",
+        "since": "2026-11-17",
+        "level": "FAIL",
+    },
+    {
         "id": "yen-hop-giai-doan",
         "pattern": r"Yên Hợp[^|\n]{0,25}giai đoạn (I|II|1|2)\b",
         "why": "CCN Yên Hợp (12 ha) và CCN Yên Hợp 1 (63 ha) là 2 dự án độc lập; không dùng 'giai đoạn I/II' (nếu chép nguyên văn nguồn phải chú thích).",

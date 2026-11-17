@@ -175,6 +175,7 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | Chỉ bộ quy tắc R01–R27, không render | `python3 scripts/qa_rules.py <file>.docx` |
 | Đo trích yếu công văn (số dòng, cân tâm, cách chữ "CỘNG") | `python3 scripts/do_trich_yeu.py <file>.docx` |
 | Chuẩn hóa trước khi xuất: phông, Nơi nhận cỡ 11, 1 dòng trước khối ký (Quy tắc 11) | `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx [--tthc]` |
+| Đánh số trang cho file từ 2 trang trở lên (Bạn chốt 17/11/2026; sổ lỗi L016) | `python3 scripts/them_so_trang.py <file>.docx` (thêm `--check` để chỉ kiểm) |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
 | Dựng .docx từ nội dung dạng thẻ | `python3 scripts/build_vb.py noi-dung.txt ra.docx --loai <loại>` |
 | Đọc số/ngày/người ký từ PDF văn bản đến | `python3 scripts/extract_metadata.py <file>.pdf` |

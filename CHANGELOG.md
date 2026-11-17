@@ -1,3 +1,7 @@
+## 17/11/2026 — vbhc-vn 2.41.0: đánh số trang file từ 2 trang trở lên
+
+- **vbhc-vn 2.41.0**: script `them_so_trang.py` (thêm và kiểm số trang), sổ lỗi L016 — Bạn chốt luôn đánh số trang với file từ 2 trang trở lên.
+
 ## 17/11/2026 — bvmt-sct-vn 1.9.0: Thông tư 09/2026/TT-BNNMT, sổ lỗi tự ghi
 
 - **bvmt-sct-vn 1.9.0**: lưu Thông tư số 09/2026/TT-BNNMT (Word, PDF, bản trích chữ); lập sổ lỗi tự ghi với L001 (báo cáo GPMT nhóm III không phải đánh giá, dự báo tác động; khu, cụm công nghiệp không phải đánh giá hiện trạng) và L002 (thiếu văn bản gốc thì báo Bạn tải bổ sung ngay).

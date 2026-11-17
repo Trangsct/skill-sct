@@ -1,5 +1,10 @@
 # CHANGELOG vbhc-vn
 
+## 2.41.0 — 17/11/2026 — Đánh số trang file từ 2 trang trở lên
+
+- Script mới `scripts/them_so_trang.py`: đánh số trang cho file Word từ 2 trang trở lên theo Nghị định 30/2020/NĐ-CP (cỡ 13, canh giữa lề trên, ẩn trang 1); `--check` để chỉ kiểm.
+- Sổ lỗi tự ghi L016: file từ 2 trang trở lên phải có số trang (Bạn chốt 17/11/2026). SKILL.md thêm dòng lệnh vào bảng công cụ.
+
 ## v2.39.1 — 10/11/2026 — do_trich_yeu.py xử lý mẫu nội bộ phòng; đo 9 template; quét R27 toàn kho
 
 - Chi tiết: `CHANGELOG-v2026.11.10.md`.

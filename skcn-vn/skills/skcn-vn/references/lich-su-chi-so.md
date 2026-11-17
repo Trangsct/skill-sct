@@ -40,3 +40,27 @@ Bước chân: người dùng đi tự nhiên khoảng 14.000 bước/ngày (9/2
 Cân nặng giảm nhẹ từ 86 kg (1/2026) xuống 85 kg (8/2026). Chiều cao ghi nhận có khác nhau giữa các lần (1,68 và 1,70 m), nên so sánh BMI giữa hai mốc cần thận trọng.
 
 Khoảng trống lớn nhất: chưa có HbA1c, chưa có LDL/HDL, chưa có men gan, chưa có siêu âm gan. Xét nghiệm gần nhất đã hơn 7 tháng.
+
+## Đợt điều trị
+
+Mỗi đợt thuốc có số ngày (kháng sinh...) một khối. Cách mở, đóng khối: SKILL.md mục "Quản lý thuốc", phần 4.
+
+```
+Đợt: Amoxicillin + acid clavulanic (Augxicine 625, Medoclav 1g, Curam 1000) | lý do: ho kéo dài từ đầu 10/2026 | người kê: tự dùng
+Bắt đầu: 10/2026 | 3 đợt trong tháng 10 và đầu tháng 11/2026
+Kết quả: không đỡ ho — không dùng lại nhóm này cho đợt ho này
+```
+
+```
+Đợt: Doxycyclin 100 mg (Domesco) | lý do: ho hơn 5 tuần, nghi vi khuẩn không điển hình | người kê: dược sĩ tư vấn
+Bắt đầu: khoảng 09/11/2026 | uống khoảng 5 ngày
+Kết quả: hết ho (14/11/2026); ngừng 4 ngày thì ho lại, có đờm, không sốt (16/11/2026) — đợt quá ngắn
+```
+
+```
+Đợt: Doxycyclin 100 mg (Domesco) | lý do: ho tái phát sau đợt 5 ngày | người kê: tự dùng, chờ hỏi dược sĩ số ngày
+Bắt đầu: 2026-11-17 | ngày đầu: 2 viên uống gộp buổi sáng (đúng liều ngày đầu 200 mg theo tờ hướng dẫn)
+Duy trì: 1 viên/ngày sau ăn sáng từ 18/11/2026 | số ngày: chưa xác nhận
+Mốc đánh giá: 2026-11-20 | Kết thúc dự kiến: chưa xác định
+Kết quả: đang dùng
+```

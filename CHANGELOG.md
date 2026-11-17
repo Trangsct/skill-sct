@@ -1,3 +1,7 @@
+## 17/11/2026 — skcn-vn 1.3.0: phần Quản lý thuốc
+
+- skcn-vn 1.3.0: nhận diện thuốc từ ảnh, liều theo tờ hướng dẫn, rà trùng hoạt chất và va chạm nền bệnh, theo dõi đợt kháng sinh (mốc ngày 3, không ngừng sớm), đặt nhắc uống thuốc trên điện thoại, tủ thuốc gia đình; lịch sử thêm mục Đợt điều trị. Chi tiết: `skcn-vn/skills/skcn-vn/CHANGELOG-v2026.11.17.md`.
+
 ## 17/11/2026 — vbhc-vn 2.41.0: đánh số trang file từ 2 trang trở lên
 
 - **vbhc-vn 2.41.0**: script `them_so_trang.py` (thêm và kiểm số trang), sổ lỗi L016 — Bạn chốt luôn đánh số trang với file từ 2 trang trở lên.

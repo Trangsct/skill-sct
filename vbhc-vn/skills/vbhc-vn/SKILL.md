@@ -150,10 +150,12 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
    nguoi_soan="Loan")` điền tên; máy kiểm R07 (thiếu tên), R22 (GP/GCN gửi Ban Giám đốc), R28 (thiếu Ban Giám đốc Sở).
    **Bạn bảo "hoàn thiện" một văn bản → gửi thư cho chuyên viên phụ trách** (Bạn chốt 16/11/2026): sau khi chốt bản
    cuối (qua `kiem_tra_truoc_khi_giao.py`), gửi một thư từ Gmail của Bạn tới chuyên viên có tên ở dòng Lưu `CN(Tên)` —
-   cả Gmail và hộp thư công vụ, tra ở plugin riêng tư `dong-nghiep-sct-vn` (`data/danh-ba.csv`; kho công khai này không
-   ghi địa chỉ thư) — đính kèm tệp .docx, thân thư nêu tên văn bản, việc chuyên viên cần làm (trình ký trên hệ thống),
-   chỗ cần lưu ý; ký "Trang". Chỉ gửi khi Bạn nói hoàn thiện (bản đang sửa không gửi). Phiên không có Gmail hoặc không
-   tra được địa chỉ → giao tệp và nói rõ chưa gửi.
+   **chỉ gửi tới địa chỉ Gmail, không gửi hộp thư công vụ @laocai.gov.vn** (Bạn chốt 17/11/2026, thay quy ước 16/11/2026
+   gửi cả hai hộp — nay là lịch sử); địa chỉ tra ở cột `email_gmail` của plugin riêng tư `dong-nghiep-sct-vn`
+   (`data/danh-ba.csv`; kho công khai này không ghi địa chỉ thư); người nhận (kể cả Trưởng phòng) chưa có Gmail trong danh bạ
+   thì không gửi thư, soạn tin Zalo để Bạn tự gửi — đính kèm tệp .docx, thân thư nêu tên văn bản, việc chuyên viên cần làm
+   (trình ký trên hệ thống), chỗ cần lưu ý; ký "Trang". Chỉ gửi khi Bạn nói hoàn thiện (bản đang sửa không gửi). Phiên
+   không có Gmail hoặc không tra được địa chỉ → giao tệp và nói rõ chưa gửi.
 7. **PDF văn bản đến: chạy `scripts/extract_metadata.py` TRƯỚC khi dẫn số/ngày.** Ô số/ngày
    trống trong context là tín hiệu ĐỌC ĐĨA, không phải bằng chứng "chưa cấp số" hay "bản dự thảo".
 8. **Nơi nộp hồ sơ TTHC = Cổng dịch vụ công một cửa Bộ Công Thương**

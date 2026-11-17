@@ -1,3 +1,7 @@
+## 17/11/2026 — vbhc-vn 2.41.1: thư gửi chuyên viên chỉ tới Gmail
+
+- **vbhc-vn 2.41.1**: quy tắc 6 — khi Bạn bảo "hoàn thiện", thư gửi chuyên viên chỉ tới Gmail, không gửi hộp thư công vụ; người chưa có Gmail thì soạn tin Zalo. `check_facts.py` thêm rule `thu-chi-gui-gmail`; CLAUDE.md cập nhật mục Nơi nhận, dòng Lưu và thư gửi chuyên viên.
+
 ## 17/11/2026 — skcn-vn 1.3.0: phần Quản lý thuốc
 
 - skcn-vn 1.3.0: nhận diện thuốc từ ảnh, liều theo tờ hướng dẫn, rà trùng hoạt chất và va chạm nền bệnh, theo dõi đợt kháng sinh (mốc ngày 3, không ngừng sớm), đặt nhắc uống thuốc trên điện thoại, tủ thuốc gia đình; lịch sử thêm mục Đợt điều trị. Chi tiết: `skcn-vn/skills/skcn-vn/CHANGELOG-v2026.11.17.md`.

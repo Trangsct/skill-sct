@@ -84,6 +84,8 @@
 | 11 | Pin, ắc quy (điện cực, điện phân, cell pin) | ≥ 600 tấn hoặc ≥ 200.000 KWh/năm | dưới mức bên | Không |
 | 12 | Xi măng (có sản xuất clinker) | ≥ 1.200.000 tấn/năm | < 1.200.000 tấn | Không |
 
+> Ghi chú đối chiếu STT 4 (17/11/2026): bản phụ lục năm 2022 của Nghị định 08/2022/NĐ-CP (`van-ban-goc/2022.01.10-08.2022.ND.CP-Phu-luc-kem-theo-Nghi-dinh-ban-2022.txt`) ghi nguyên văn "phân bón hóa học (trừ phối trộn, sang chiết, đóng gói)". Nội dung loại trừ theo bản kèm NĐ 48/2026/NĐ-CP ở bảng trên là tóm tắt, kho chưa có bản gốc phụ lục NĐ 48/2026 để trích nguyên văn. Khi nhận xét dự án phân bón có công đoạn tạo hạt (thùng quay, đĩa quay, hơi nước, sấy): chỉ viết phần chung của hai bản ("chỉ loại trừ một số trường hợp như phối trộn, đóng gói"), đặt thành câu hỏi về căn cứ phân loại, đề nghị cơ quan thường trực xác định; không trích danh sách công đoạn khi chưa đọc bản gốc hiện hành.
+
 Các STT khác (giấy - bột giấy, dệt nhuộm, thuộc da, thủy tinh, cao su, tinh bột sắn, bia rượu, cồn, đường, thủy sản, giết mổ - chăn nuôi, điện tử/thiết bị điện có công đoạn mạ - phủ hóa chất) ít gặp trong hồ sơ của Sở — tra trực tiếp Phụ lục II khi cần.
 - ⚠ **Thay đổi lớn: Phụ lục II mới KHÔNG còn "kho xăng dầu"** và nhiều loại hình cũ. Kho xăng dầu nay phân loại theo tiêu chí khác (nhóm B/C + nhạy cảm → nhóm II; hoặc nhóm III nếu chỉ phát sinh chất thải phải xử lý). **Thủy điện chưa bao giờ thuộc Phụ lục II** — phân loại theo tiêu chí đất/tài nguyên nước/nhạy cảm.
 

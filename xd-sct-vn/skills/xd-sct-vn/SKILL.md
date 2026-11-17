@@ -161,6 +161,10 @@ references/
   10-cap-cong-trinh.md           Cấp công trình theo TT 34/2026; bảng tra chuyên sâu công trình ngành CT
   11-chuyen-tiep-2026.md         GATE CHUYỂN TIẾP quanh mốc 01/7/2026: bảng quyết định khung áp dụng
                                  (Đ53 NĐ 207, Đ76 NĐ 217), 3 mốc thời gian, câu mẫu lập luận
+  12-ky-cap-nhat-17-11-2026-tu-choi-dung-tham-dinh-bcnckt.md
+                                 Hồ sơ BCNCKT chưa đạt: từ chối tiếp nhận (k2 Đ36), yêu cầu bổ sung một lần
+                                 (5 ngày), tạm dừng (k4), dừng thẩm định sau 20 ngày (k5); vụ 7704/SCT-KS
+                                 dolomit Cốc San: thiếu thẩm tra thiết kế, thiếu văn bản quy hoạch, cấp CT lệch
 mau-van-ban/                     Mẫu KH kiểm tra, TB nghiệm thu, CV thẩm định, phiếu trình
 van-ban-goc/                     Luật 135/2025, NĐ 207/2026, NĐ 217/2026, NĐ 140/2025, NĐ 144/2025,
                                  QĐ 11/2026 (Lào Cai); nhóm CHUYỂN TIẾP: NĐ 06/2021, NĐ 175/2024,

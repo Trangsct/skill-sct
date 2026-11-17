@@ -1,15 +1,8 @@
-# bvmt-sct-vn 1.9.0 — 17/11/2026
+# bvmt-sct-vn 1.10.0 — 17/11/2026
 
-- Lưu bản gốc Thông tư số 09/2026/TT-BNNMT ngày 29/01/2026 (Word + PDF + bản trích chữ): `van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.docx`; ghi vào INDEX.
-- Lập `references/so-loi-tu-ghi.md`: L001 (không chê báo cáo GPMT nhóm III thiếu đánh giá, dự báo tác động — Mẫu số 22c miễn Mục 1 Chương IV; khu, cụm công nghiệp không phải đánh giá hiện trạng — điểm c khoản 2 Điều 18a); L002 (thiếu văn bản gốc thì báo Bạn tải bổ sung ngay, Bạn chốt 17/11/2026).
-- Ref 13 mục 5 và ref 08 mục 4: bổ sung hai nguyên tắc trên; SKILL.md dẫn sổ lỗi.
+Nguồn: lượt nâng cấp plugin thứ Ba 17/11/2026 (quy tắc hai tầng), bản tin egov1 13, 16, 17/11/2026.
 
-# bvmt-sct-vn 1.8.2 — 17/11/2026
-
-- Lưu bản gốc Nghị định số 48/2026/NĐ-CP ngày 29/01/2026 (PDF bản quét 62 trang + bản trích chữ OCR `.txt`): `van-ban-goc/2026.01.29-48.2026.ND.CP-Sua-doi-ND-08-2022-bao-ve-moi-truong.pdf`; ghi vào INDEX. Chưa có bản Word.
-- Ref 03: thay ghi chú tạm bằng nguyên văn STT 4 Phụ lục II đã đối chiếu bản gốc (danh sách công đoạn loại trừ đối với phân bón hóa học); sửa dòng STT 4 trong bảng cho đủ danh sách.
-
-# bvmt-sct-vn 1.8.1 — 17/11/2026
-
-- Lưu bản gốc Phụ lục I–XXXIV kèm Nghị định số 08/2022/NĐ-CP (bản năm 2022, Bạn cung cấp 17/11/2026): `van-ban-goc/2022.01.10-08.2022.ND.CP-Phu-luc-kem-theo-Nghi-dinh-ban-2022.doc` + bản trích chữ `.txt`; ghi vào INDEX văn bản gốc. Bản này chưa gồm sửa đổi của NĐ 05/2025/NĐ-CP, NĐ 48/2026/NĐ-CP.
-- Ref 03: thêm ghi chú đối chiếu STT 4 Phụ lục II (phân bón hóa học) — nguyên văn bản 2022 "trừ phối trộn, sang chiết, đóng gói"; cách viết nhận xét khi chưa có bản gốc phụ lục NĐ 48/2026.
+- Ref 14 mới: KH 503/KH-UBND ngày 23/10/2026 (chỉ tiêu Sở Công Thương chủ trì, hạn báo cáo Sở Nông nghiệp và Môi trường trước 10/12) và QĐ 2805/QĐ-BCT ngày 24/10/2026; phân công các phòng theo CV 7688/SCT-CN ngày 16/11/2026 (nộp Phòng QLCN trước 30/11; năm 2026 trước 03/12).
+- QĐ 4256/QĐ-UBND ngày 13/11/2026 bãi bỏ QĐ 3459/QĐ-UBND ngày 02/8/2017 (ref 02 mục 31e); dự thảo Nghị định về ứng phó biến đổi khí hậu (CV 11334/UBND-KT, CV 7614/SCT-CN).
+- Ref 11: kế hoạch thực hiện chương trình nay là KH 503/KH-UBND.
+- `plugin.json` 1.9.0 → 1.10.0.

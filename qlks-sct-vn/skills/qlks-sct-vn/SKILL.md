@@ -200,6 +200,11 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  tỉnh cũ; kèm việc tuần 02–09/10/2026: thu hồi KS KCN Phú Xuân (6452/SCT-KS),
                  QĐ 3676 mỏ apatit Tam Đỉnh – Làng Phúng, danh sách 8 đơn vị apatit,
                  tọa đàm Luật ĐC&KS 13/10, Phòng QLKS ký hiệu /SCT-KS
+              26 KỲ CẬP NHẬT 17/11/2026: thông báo kế hoạch thăm dò sau cấp phép (điểm d k2
+                 Đ47, k3 Đ52 Luật ĐC&KS; CV 7461/SCT-KS mẫu hướng dẫn DN; Phiếu chuyển
+                 VPUBND → Sở chủ trì); dự thảo TT xuất khẩu KS (9418/BCT-CN; UBND tỉnh báo
+                 cáo năm trước 31/01 — dự thảo); TT 59/2026/TT-BCT; HĐ thăm dò QĐ 777 còn
+                 dùng 16/11; Kế hoạch đấu giá 2026 (7583/SCT-KS, TTr 7595/TTr-SCT 12/11)
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT

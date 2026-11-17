@@ -26,6 +26,10 @@ Văn bản tổ chức, nhân sự tuần 29/9–09/10/2026 theo sổ văn bản
 
 Tóm lược theo từng điều, đọc từ bản gốc trong `van-ban-goc/`: **NĐ 351/2026/NĐ-CP** 11/9/2026 (Bộ Công Thương — Điều 1; khoản 11–13 Điều 2: địa chất - khoáng sản, KCN - CCN, hóa chất - VLNCN); **TT 50/2026/TT-BCT** 13/9/2026 sửa TT 37/2025 (bảng đối chiếu khoản ↔ điều; điểm y khoản 2 Điều 4 "địa chất và khoáng sản"; Điều 3 chuyển tiếp ATTP); **QĐ 3628/QĐ-UBND** 02/10/2026 (Điều 1 chức năng — không có KCN; Điều 2 nhiệm vụ, khoản 12; Điều 3 cơ cấu 06 phòng + Chi cục QLTT; Điều 8); **QĐ 3589/QĐ-UBND** 30/9/2026 bổ nhiệm PGĐ Phạm Năng Chung; mục lịch sử về 03 dự thảo 04/10/2026 đã ban hành.
 
+## Vị trí việc làm, phương án biên chế 2027–2031 (11/2026) — `references/05-ky-cap-nhat-17-11-2026-vi-tri-viec-lam-bien-che-2027-2031.md`
+
+KL 107-KL/TW 17/10/2026, HD 07-HD/BTCTW 19/10/2026; Sở Nội vụ: QĐ 733/QĐ-SNV 30/10/2026 (Tổ thẩm định), CV 4581/SNV-TCBC 06/11 (hồ sơ), **CV 4673/SNV-TCBC 12/11/2026 (quy trình 5 bước)**, **CV 4714/SNV-TCBC 13/11/2026 (cơ quan có đơn vị trực thuộc)**; khóa Cổng kê khai từ 00h 11/11/2026; 09 biểu A1–D2; tài liệu kiểm chứng (số văn bản đi, đến, TTHC, hồ sơ quản lý); mốc biên chế hiện có 30/9/2026.
+
 ## Căn cứ pháp lý gốc
 
 - **NĐ số 351/2026/NĐ-CP ngày 11/9/2026** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (Phó Thủ tướng Phạm Gia Túc ký; thay **NĐ 40/2025/NĐ-CP — lịch sử**). Điều 1 bổ sung lĩnh vực **than, địa chất, khoáng sản, dầu khí, khu công nghiệp** vào Bộ; khoản 11 Điều 2 nhiệm vụ địa chất và khoáng sản; khoản 12 khuyến công, khu công nghiệp, cụm công nghiệp. Dùng để đối chiếu một lĩnh vực thuộc nhóm nào ở cấp Bộ. Bản gốc: `van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` (+ `.txt`).

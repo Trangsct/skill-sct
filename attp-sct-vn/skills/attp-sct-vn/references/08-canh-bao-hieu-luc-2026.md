@@ -16,10 +16,13 @@ Cập nhật: 30/8/2026; bổ sung TT 63/2026/TT-BCT ngày 07/10/2026. Đây là
 | 18/8/2026 | Phiên họp Chính phủ chuyên đề xây dựng pháp luật tháng 8/2026 | Cho ý kiến các dự án luật trình Kỳ họp thứ 2; hồ sơ phải hoàn thiện gửi UBTVQH **trước 20/8/2026** |
 | 30/9/2026 | **Thông tư số 63/2026/TT-BCT** (Bộ Công Thương) | CSDL thực phẩm thuộc phạm vi Bộ Công Thương và truy xuất nguồn gốc; hiệu lực **15/11/2026**; **thay thế TT 11/2026/TT-BCT** ngày 27/02/2026. Phần căn cứ vẫn dẫn **NĐ 15/2018 + NQ 15/2026** (reference 12) |
 | Dự kiến 10/2026 | Kỳ họp thứ 2, Quốc hội khóa XVI | Chính phủ **dự kiến trình** dự án Luật ATTP (sửa đổi). Tính đến 30/8/2026 **Luật chưa được thông qua** |
+| 24/10/2026 | Báo cáo dự án Luật tại Quốc hội | Bộ trưởng Bộ Y tế (thừa ủy quyền Thủ tướng) trình bày dự án Luật ATTP (sửa đổi); 04 chính sách đã được Chính phủ thông qua tại NQ 184/2026/NQ-CP. **Đến 17/11/2026 vẫn là "Dự án Luật" — chưa thông qua** (CV 6130/SYT-ATTP ngày 16/11/2026, CV 7707/SCT-CN ngày 17/11/2026 — reference 13) |
 
 ## 2. Kết luận áp dụng tại thời điểm cập nhật (30/8/2026)
 
 **Trạng thái: KHÔNG THAY ĐỔI so với bản cập nhật trước.** NĐ 46/2026 và NQ 66.13/2026 vẫn đang tạm ngưng; Luật ATTP (sửa đổi) chưa được Quốc hội thông qua.
+
+**Rà lại 17/11/2026:** dự án Luật đã trình Quốc hội ngày 24/10/2026 nhưng đến 17/11/2026 chưa thông qua — kết luận áp dụng dưới đây giữ nguyên (reference 13).
 
 - Văn bản nghiệp vụ đang áp dụng: **Luật ATTP số 55/2010/QH12 + Nghị định số 15/2018/NĐ-CP + Thông tư số 43/2018/TT-BCT**.
 - **KHÔNG dẫn NĐ 46/2026/NĐ-CP** làm căn cứ trong công văn, quyết định, giấy chứng nhận.

@@ -8,9 +8,9 @@
   "Trường nhom và nganh_cap_2 do phân loại tự động theo từ khoá tên dự án - cần rà soát thủ công, đặc biệt nhóm chế biến bột đá CaCO3 (ranh giới giữa CBCT và KS ảnh hưởng trực tiếp tới chỉ tiêu 4)."
  ],
  "_canh_bao_han_dung": "SỐ LIỆU ĐỘNG, CHỈ ĐÚNG TẠI KỲ GHI Ở _ky_so_lieu. Trước mỗi kỳ báo cáo phải cập nhật lại từ báo cáo mới nhất của Ban Quản lý các Khu công nghiệp tỉnh và Ban Quản lý Khu kinh tế tỉnh. Không viện dẫn trực tiếp vào văn bản phát hành nếu chưa đối chiếu kỳ hiện hành.",
- "_pham_vi": "Gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu) và - từ 16/9/2026 - dự án thứ cấp trong CCN được ghi nhận lẻ khi có quyết định chủ trương đầu tư (hiện có 01: CBCT-081, CCN Khánh Yên Thượng). Từ 12/10/2026 ghi nhận lẻ dự án thứ cấp trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý khi có GCN ĐKĐT (hiện có 01: CBCT-082, KCN Tằng Loỏng). CHƯA gồm: các dự án còn lại trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, các dự án CCN còn lại, dự án ngoài khu/cụm, dự án khoáng sản, thuỷ điện, hạ tầng KCN/CCN.",
+ "_pham_vi": "Gồm dự án thứ cấp trong 03 KCN do Ban Quản lý các Khu công nghiệp tỉnh quản lý (phía Nam, Minh Quân, Âu Lâu) và - từ 16/9/2026 - dự án thứ cấp trong CCN được ghi nhận lẻ khi có quyết định chủ trương đầu tư (hiện có 02: CBCT-081, CCN Khánh Yên Thượng; CBCT-083, CCN Thịnh Hưng — nạp 17/11/2026). Từ 12/10/2026 ghi nhận lẻ dự án thứ cấp trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý khi có GCN ĐKĐT (hiện có 01: CBCT-082, KCN Tằng Loỏng). Từ 17/11/2026 ghi nhận lẻ dự án thủy điện khi có quyết định chấp thuận chủ trương đầu tư (hiện có 02: NL-003 Khe Mạng, NL-004 Trung Chải). CHƯA gồm: các dự án còn lại trong KCN do Ban Quản lý Khu kinh tế tỉnh quản lý, các dự án CCN còn lại, dự án ngoài khu/cụm, dự án khoáng sản, các thuỷ điện còn lại, hạ tầng KCN/CCN.",
  "_ky_so_lieu": "đến 16/4/2026 (phụ lục cập nhật 12/5/2026)",
- "_ngay_cap_nhat": "2026-10-12",
+ "_ngay_cap_nhat": "2026-11-17",
  "_nguoi_cap_nhat": "",
  "du_an": [
   {
@@ -4726,6 +4726,147 @@
     "nguoi_cap_nhat": ""
    },
    "ghi_chu": "Dự án THỨ CẤP trong KCN Tằng Loỏng — bản ghi đầu tiên của khối KCN do Ban Quản lý KHU KINH TẾ tỉnh quản lý (xem _pham_vi). Số, ngày, nội dung đọc từ lớp chữ PDF (pdftotext, văn bản soạn Word, không phải ký số trường rời). Trạng thái MR: nhà máy đã hoạt động từ 2007 (tính vào sản lượng/IIP) và đang mở rộng 600 m² nhà xưởng (tính vào vốn đầu tư) — sản lượng THỰC HIỆN là số động, chưa có; đóng góp tăng trưởng là mục tiêu ghi trong GCN (doanh thu 90 tỷ, NSNN 3 tỷ), không phải số thực hiện. Sản phẩm phục vụ xuất khẩu phốt pho vàng → phụ thuộc đầu ra của Đức Giang, Phốt pho Việt Nam, Phốt pho Vàng Lào Cai (ref 08, 12: hóa chất giảm 19,01% 9 tháng 2026). DN KHÔNG có trong danh sách 37 DN công nghiệp giao Sở theo dõi tại CV 10349/UBND-KT ngày 09/10/2026 (ref 15) — cân nhắc khi đề xuất bổ sung. GCN có dữ liệu cá nhân của người đại diện (ngày sinh, mã định danh, điện thoại) — không đưa vào báo cáo, văn bản phát hành."
+  },
+  {
+   "ma": "CBCT-083",
+   "ten": "Dự án đầu tư xây dựng nhà máy chế biến gỗ và sản xuất đồ mộc dân dụng",
+   "chu_dau_tu": "Hợp tác xã nông lâm nghiệp Thịnh Hưng",
+   "vi_tri": {
+    "xa_phuong": "Xã Yên Bình (thôn Đào Kiều)",
+    "kcn_ccn": "CCN Thịnh Hưng (theo Phiếu trình của Văn phòng UBND tỉnh kèm QĐ 4291; quy hoạch phân khu điều chỉnh, mở rộng tại QĐ 3188/QĐ-UBND ngày 15/12/2020 của UBND tỉnh Yên Bái)",
+    "toa_do": ""
+   },
+   "nhom": "CBCT",
+   "nganh_cap_2": "chế biến, chế tạo (chế biến gỗ: gỗ xẻ thanh, ván ép, ván ép phủ phim, đồ mộc dân dụng)",
+   "trang_thai": "CT",
+   "phap_ly": {
+    "loai_van_ban": "QĐ chấp thuận điều chỉnh chủ trương đầu tư (điều chỉnh lần thứ nhất); cấp lần đầu: QĐ chủ trương đầu tư 92/QĐ-UBND ngày 21/01/2019 của UBND tỉnh Yên Bái",
+    "so_van_ban": "4291/QĐ-UBND",
+    "ngay_van_ban": "2026-11-16",
+    "co_quan_cap": "Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký); thẩm định: Báo cáo 1234/BC-STC ngày 12/10/2026 của Sở Tài chính; chủ trương: Nghị quyết 1541-NQ/ĐU ngày 11/11/2026 của Ban Thường vụ Đảng ủy UBND tỉnh"
+   },
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 70.047,
+    "von_da_dau_tu_ty_dong": 7.4,
+    "von_dau_tu_lan_nay_ty_dong": 62.647,
+    "von_vay_ty_dong": 50.118,
+    "von_tu_co_ty_dong": 12.529,
+    "dien_tich_dat_m2": 25730.3,
+    "cong_suat_thiet_ke": "Gỗ xẻ thanh 950 m3/năm; gỗ ván ép 5.400 m3/năm; gỗ ván ép phủ phim 14.400 m3/năm",
+    "tien_do": "Khởi công các hạng mục điều chỉnh: Quý I/2027; hoàn thành, đưa dự án sau nâng công suất vào hoạt động: Quý IV/2028 (QĐ 92/2019 cam kết hoạt động Quý I/2020 — chậm, điều chỉnh theo điểm đ, e khoản 4 Điều 33 Luật Đầu tư 2025)"
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "3",
+     "4",
+     "11"
+    ]
+   },
+   "diem_nghen": [
+    {
+     "ma_nhom": "CTDT",
+     "mo_ta": "Chậm tiến độ so với QĐ 92/QĐ-UBND ngày 21/01/2019 (cam kết hoạt động Quý I/2020); vốn đã thực hiện 7,4 tỷ đồng (74% tổng vốn cũ 10 tỷ); đã điều chỉnh tiến độ tại QĐ 4291/QĐ-UBND ngày 16/11/2026",
+     "co_quan_giai_quyet": "Sở Tài chính; UBND xã Yên Bình giám sát",
+     "han_xu_ly": "",
+     "tac_dong_chi_tieu": "Chỉ tiêu 11 (vốn đầu tư) 2027–2028; chỉ tiêu 3, 4 chỉ từ khi hoạt động (sau Quý IV/2028)"
+    }
+   ],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Quyết định số 4291/QĐ-UBND ngày 16/11/2026 của Chủ tịch UBND tỉnh Lào Cai chấp thuận điều chỉnh chủ trương đầu tư; Phiếu trình giải quyết công việc của Văn phòng UBND tỉnh kèm theo. Số, ngày theo sổ văn bản đến egov1 của Sở và ô ký số trong lớp chữ PDF (kho riêng tư vlncn-laocai, theo-doi/2026/); PDF gốc không lưu trong kho nên chưa chạy được extract_metadata.py. Chi tiết: reference 18",
+    "ky_so_lieu": "đến 16/11/2026 (ngày ban hành QĐ 4291)",
+    "ngay_cap_nhat": "2026-11-17",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Dự án THỨ CẤP trong CCN (bản ghi CCN thứ hai, sau CBCT-081). Nội dung điều chỉnh: thông tin nhà đầu tư theo địa giới mới; bổ sung mục tiêu, quy mô (ván ép, ván ép phủ phim); địa điểm ghi theo đơn vị hành chính mới (vị trí không đổi); diện tích từ 03 ha xuống 25.730,3 m2 theo GCN QSDĐ đã cấp; tổng vốn từ 10 tỷ lên 70,047 tỷ; tiến độ. Đã có một số hạng mục (nhà ăn, bể nước, nhà xưởng tập kết thiết bị, trạm điện) nhưng chưa hoạt động — xếp CT, không tính sản lượng/IIP tới khi hoạt động. Sở Công Thương, Sở Xây dựng được giao hướng dẫn nhà đầu tư lập, thẩm định, phê duyệt báo cáo nghiên cứu khả thi điều chỉnh. QĐ có số điện thoại nhà đầu tư, Phiếu trình có thông tin cá nhân người đại diện — không đưa vào báo cáo, văn bản phát hành."
+  },
+  {
+   "ma": "NL-003",
+   "ten": "Thủy điện Khe Mạng",
+   "chu_dau_tu": "Công ty cổ phần Phát triển Mảnh Tàu",
+   "vi_tri": {
+    "xa_phuong": "Xã Phong Dụ Thượng",
+    "kcn_ccn": "Ngoài KCN, CCN",
+    "toa_do": ""
+   },
+   "nhom": "NL",
+   "nganh_cap_2": "nguồn điện (thủy điện; VSIC 3512 sản xuất điện, 3513 truyền tải và phân phối điện)",
+   "trang_thai": "CT",
+   "phap_ly": {
+    "loai_van_ban": "QĐ chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (cấp lần đầu)",
+    "so_van_ban": "4294/QĐ-UBND",
+    "ngay_van_ban": "2026-11-16",
+    "co_quan_cap": "Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký); thẩm định: Báo cáo 1211/BC-STC ngày 08/10/2026 của Sở Tài chính; chủ trương: Kết luận 441-KL/TU ngày 11/11/2026 của Ban Thường vụ Tỉnh ủy (dự án ≥ 500 tỷ đồng); trước đó TB 1228-TB/TU của Thường trực Tỉnh ủy; ý kiến thẩm định của Sở Công Thương: 4133/SCT-KH ngày 13/7/2026 (phù hợp Quy hoạch tỉnh QĐ 525/QĐ-UBND, STT 7 Mục III Phần A Phụ lục V; không chồng lấn quy hoạch khoáng sản nhóm I)"
+   },
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 626.23718,
+    "von_gop_ty_dong": 125.247436,
+    "von_vay_ty_dong": 500.989744,
+    "dien_tich_dat_ha": 21.74,
+    "dien_tich_ghi_chu": "21,74 ha (đất ngầm 2,99 ha; mặt đất 18,75 ha)",
+    "cong_suat_thiet_ke": "16 MW",
+    "thoi_han_du_an": "50 năm kể từ ngày có quyết định giao đất, cho thuê đất, chuyển mục đích sử dụng đất",
+    "tien_do": "Đủ điều kiện khởi công (khảo sát, pháp lý, GPMB, thuê đất, môi trường): Quý III/2027; hoàn thành xây dựng, lắp đặt, hiệu chỉnh thiết bị: Quý IV/2028; phát điện thương mại: Quý I/2029"
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11",
+     "15"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Quyết định số 4294/QĐ-UBND ngày 16/11/2026 của Chủ tịch UBND tỉnh Lào Cai; Phiếu trình của Văn phòng UBND tỉnh và văn bản của Tỉnh ủy kèm theo. Số, ngày theo sổ văn bản đến egov1 của Sở và ô ký số trong lớp chữ PDF (kho riêng tư vlncn-laocai, theo-doi/2026/); PDF gốc không lưu trong kho nên chưa chạy được extract_metadata.py. Chi tiết: reference 18",
+    "ky_so_lieu": "đến 16/11/2026 (ngày ban hành QĐ)",
+    "ngay_cap_nhat": "2026-11-17",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Dự án NGUỒN ĐIỆN NGOÀI khu, cụm — bản ghi thủy điện đầu tiên của sổ (xem _pham_vi). Đấu nối: TBA nâng áp 110 kV (20 MVA theo Phiếu trình) + ĐZ 110 kV mạch đơn khoảng 4 km về thanh cái TBA 110 kV Phong Dụ Thượng. Hạng mục: 03 đập, tuyến năng lượng (03 hầm, 03 ống dẫn nước, ống áp lực), nhà máy, 02 đường thi công - vận hành, 03 bãi thải. Thu NSNN dự kiến khoảng 7 tỷ đồng/năm (Phiếu trình). QĐ yêu cầu áp dụng QCVN 27:2025/BCT (TT 59/2025/TT-BCT, hiệu lực 01/6/2026) khi thiết kế. Trạng thái CT: chỉ đóng góp chỉ tiêu 11 (vốn đầu tư) trong 2027–2029; chỉ tiêu 15 (điện thương phẩm) và sản lượng điện chỉ tính từ khi phát điện. Đối chiếu Quy hoạch điện VIII điều chỉnh, Quy hoạch tỉnh: plugin quy-hoach-ct-vn. QĐ có số điện thoại nhà đầu tư — không đưa vào văn bản phát hành."
+  },
+  {
+   "ma": "NL-004",
+   "ten": "Thủy điện Trung Chải",
+   "chu_dau_tu": "Công ty cổ phần Thủy điện Trung Chải",
+   "vi_tri": {
+    "xa_phuong": "Xã Tả Phìn",
+    "kcn_ccn": "Ngoài KCN, CCN",
+    "toa_do": ""
+   },
+   "nhom": "NL",
+   "nganh_cap_2": "nguồn điện (thủy điện; VSIC 3512 sản xuất điện, 3513 truyền tải và phân phối điện)",
+   "trang_thai": "CT",
+   "phap_ly": {
+    "loai_van_ban": "QĐ chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư (cấp lần đầu)",
+    "so_van_ban": "4293/QĐ-UBND",
+    "ngay_van_ban": "2026-11-16",
+    "co_quan_cap": "Chủ tịch UBND tỉnh Lào Cai (Nguyễn Tuấn Anh ký); thẩm định: Báo cáo 1195/BC-STC ngày 07/10/2026 của Sở Tài chính; chủ trương: Thông báo 1229-TB/TU ngày 08/11/2026 kết luận của Thường trực Tỉnh ủy (dự án 300 – dưới 500 tỷ đồng); Nghị quyết 1415-NQ/ĐU của Ban Thường vụ Đảng ủy UBND tỉnh; ý kiến thẩm định của Sở Công Thương: 3641/SCT-KH ngày 22/6/2026"
+   },
+   "quy_mo": {
+    "tong_muc_dau_tu_ty_dong": 405.4307,
+    "von_gop_ty_dong": 121.62921,
+    "von_huy_dong_ty_dong": 283.80149,
+    "dien_tich_dat_ha": 8.76,
+    "dien_tich_ghi_chu": "8,76 ha (sử dụng 6,76 ha; tạm thời phục vụ thi công 2,00 ha)",
+    "cong_suat_thiet_ke": "10,5 MW",
+    "thoi_han_du_an": "50 năm kể từ ngày có quyết định giao đất, cho thuê đất, chuyển mục đích sử dụng đất",
+    "tien_do": "Hoàn thành GPMB, thủ tục pháp lý, khởi công: Quý II/2027; hoàn thành xây dựng, lắp đặt, đưa vào vận hành: Quý II/2029"
+   },
+   "dong_gop": {
+    "chi_tieu_tac_dong": [
+     "11",
+     "15"
+    ]
+   },
+   "diem_nghen": [],
+   "diem_uu_tien": null,
+   "nguon": {
+    "tai_lieu": "Quyết định số 4293/QĐ-UBND ngày 16/11/2026 của Chủ tịch UBND tỉnh Lào Cai; Phiếu trình của Văn phòng UBND tỉnh và văn bản của Tỉnh ủy kèm theo. Số, ngày theo sổ văn bản đến egov1 của Sở và ô ký số trong lớp chữ PDF (kho riêng tư vlncn-laocai, theo-doi/2026/); PDF gốc không lưu trong kho nên chưa chạy được extract_metadata.py. Chi tiết: reference 18",
+    "ky_so_lieu": "đến 16/11/2026 (ngày ban hành QĐ)",
+    "ngay_cap_nhat": "2026-11-17",
+    "nguoi_cap_nhat": ""
+   },
+   "ghi_chu": "Dự án NGUỒN ĐIỆN NGOÀI khu, cụm — bản ghi thủy điện đầu tiên của sổ (xem _pham_vi). Đấu nối: TBA 110 kV (QĐ ghi 'công suất 25MW') + ĐZ 110 kV mạch kép lên ĐZ 110 kV Sa Pa - Lào Cai. Hạng mục: cụm đầu mối (đập dâng, đập tràn, cống xả môi trường, cống xả thủy lợi), đập phụ, tuyến năng lượng, nhà máy, kênh xả, TBA, đường dây. Thu NSNN dự kiến khoảng 8 tỷ đồng/năm (Phiếu trình). Ưu đãi: theo pháp luật khi đủ điều kiện. Trạng thái CT: chỉ đóng góp chỉ tiêu 11 (vốn đầu tư) trong 2027–2029; chỉ tiêu 15 (điện thương phẩm) và sản lượng điện chỉ tính từ khi phát điện. Đối chiếu Quy hoạch điện VIII điều chỉnh, Quy hoạch tỉnh: plugin quy-hoach-ct-vn. QĐ có số điện thoại nhà đầu tư — không đưa vào văn bản phát hành."
   }
  ]
 }

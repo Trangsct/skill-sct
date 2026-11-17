@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **860** (Luật 35, NĐ 235, TT 121, QĐ 391, NQ 36, khác 42).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **163**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **905** (Luật 38, NĐ 241, TT 125, QĐ 416, NQ 42, khác 43).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **170**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -31,8 +31,8 @@
 | NĐ 207/2026 | 7 | hc-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn | 01/7/2026 |  |  |
 | NĐ 217/2026 | 7 | kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn | 01/7/2026 | NĐ 347/2026 (bãi bỏ Điều 74; 15/9/2026) |  |
 | NĐ 347/2026 | 7 | dacn-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn, xd-sct-vn, xp-sct-vn | 15/9/2026 | NĐ 392/2026 (Điều 50 sửa k2 Đ41; 15/11/2026) |  |
+| NĐ 139/2025 | 7 | attp-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn |  |  |  |
 | NĐ 175/2024 | 7 | kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn |  |  |  |
-| QĐ 5116/QĐ-SCT | 7 | atvsld-sct-vn, bvmt-sct-vn, kccn-sct-vn, pccc-sct-vn, quy-hoach-ct-vn, vbhc-vn, xp-sct-vn | 20/8/2026 |  |  |
 
 ## Văn bản đã bị thay thế hoặc đang có dự thảo thay thế — theo dõi
 
@@ -62,8 +62,8 @@
 - NĐ 24/2026 (3 plugin: hc-sct-vn, hnh-sct-vn, xp-sct-vn)
 - NĐ 25/2026 (5 plugin: hc-sct-vn, hnh-sct-vn, ho-so-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - NĐ 351/2026 (3 plugin: attp-sct-vn, dacn-sct-vn, sct-laocai-org-vn)
-- NĐ 96/2026 (3 plugin: ho-so-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
-- NĐ 139/2025 (6 plugin: attp-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn)
+- NĐ 96/2026 (4 plugin: dacn-sct-vn, ho-so-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
+- NĐ 139/2025 (7 plugin: attp-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn)
 - NĐ 140/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - NĐ 144/2025 (3 plugin: kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - NĐ 190/2025 (4 plugin: atvsld-sct-vn, hnh-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
@@ -86,6 +86,7 @@
 - TT 11/2026 (3 plugin: attp-sct-vn, bvmt-sct-vn, qlks-sct-vn)
 - TT 34/2026 (5 plugin: attp-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - TT 39/2026 (3 plugin: attp-sct-vn, kho-vlncn-sct-vn, xd-sct-vn)
+- TT 55/2026 (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - TT 9/2026 (4 plugin: attp-sct-vn, bvmt-sct-vn, hl-vlncn-sct-vn, sd-vlncn-sct-vn)
 - TT 2/2025 (4 plugin: bvmt-sct-vn, kho-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn)
 - TT 31/2025 (3 plugin: qlks-sct-vn, tkm-sct-vn, xp-sct-vn)

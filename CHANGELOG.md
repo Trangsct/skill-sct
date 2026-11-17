@@ -1,3 +1,17 @@
+## 17/11/2026 — Lượt nâng cấp thứ Ba (hai tầng): 9 plugin (kccn, dacn, quy-hoach, attp, bvmt, qlks, xd, hc, sct-laocai-org)
+
+- Đọc toàn văn mục tầng 1 bản tin egov1 13, 16, 17/11/2026; bảng đối chiếu ở kho riêng tư (`theo-doi/nang-cap-plugin/2026-11-17.md`).
+- **kccn-sct-vn 1.67.0**: ref 57 (TB 1244-TB/TU, 11721/UBND-KT, 7668/SCT-KH; QĐ 4274, 4268/QĐ-UBND; khuôn ý kiến sở, ngành; Đề án KCN Tằng Loỏng sinh thái lần 4), ref 12 (An Thịnh, Tân Hợp, Bản Phiệt 1).
+- **dacn-sct-vn 1.14.0**: ref 18 (khuyến công đợt 2 năm 2026; chủ trương đầu tư thủy điện Khe Mạng, Trung Chải, nhà máy gỗ CCN Thịnh Hưng), sổ danh mục dự án +3.
+- **quy-hoach-ct-vn 1.8.0**: ref 13 (điện mặt trời mái nhà hộ gia đình, NĐ 407/2026/NĐ-CP — lưu bản gốc, an toàn đập phân cấp xã, giấy phép hoạt động điện lực, Bộ tiêu chí giám sát quy hoạch tỉnh); SKILL.md bổ sung Luật Quy hoạch 112/2025/QH15, NĐ 70/2026/NĐ-CP.
+- **attp-sct-vn 1.10.0**: ref 13 (truyền thông Luật ATTP sửa đổi — chưa thông qua; Thông báo 150/2026 Hải quan Trung Quốc).
+- **bvmt-sct-vn 1.10.0**: ref 14 (KH 503/KH-UBND, QĐ 2805/QĐ-BCT, phân công 7688/SCT-CN; QĐ 4256/QĐ-UBND bãi bỏ QĐ 3459).
+- **qlks-sct-vn 2.7.0**: ref 26 (thông báo kế hoạch thăm dò sau cấp phép; dự thảo Thông tư xuất khẩu khoáng sản; kế hoạch đấu giá 2026).
+- **xd-sct-vn 1.8.0**: ref 12 (từ chối, dừng thẩm định Báo cáo nghiên cứu khả thi theo Điều 35–36 NĐ 217/2026).
+- **hc-sct-vn 1.11.0**: ref 22 (đợt kiểm tra phòng ngừa, ứng phó sự cố hóa chất; Hội nghị phổ biến Luật Hóa chất 20/11/2026).
+- **sct-laocai-org-vn 2.12.0**: ref 05 (vị trí việc làm, biên chế 2027–2031).
+- `trang-thai/`: tạo 4 hồ sơ (CCN An Thịnh; triển khai TB 1244 Phòng QLCN; góp ý Đề án KCN Tằng Loỏng sinh thái; trả lời phỏng vấn Báo Tiền Phong về KCN, CCN), ghi nhật ký 6 hồ sơ. Registry: NĐ 407/2026.
+
 ## 17/11/2026 — vbhc-vn 2.41.1: thư gửi chuyên viên chỉ tới Gmail
 
 - **vbhc-vn 2.41.1**: quy tắc 6 — khi Bạn bảo "hoàn thiện", thư gửi chuyên viên chỉ tới Gmail, không gửi hộp thư công vụ; người chưa có Gmail thì soạn tin Zalo. `check_facts.py` thêm rule `thu-chi-gui-gmail`; CLAUDE.md cập nhật mục Nơi nhận, dòng Lưu và thư gửi chuyên viên.

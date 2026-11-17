@@ -22,7 +22,7 @@
 - c) Tuân thủ quy chuẩn kỹ thuật, áp dụng tiêu chuẩn; các yếu tố bảo đảm an toàn xây dựng của thiết kế; **đánh giá giải pháp thiết kế về PCCC** theo pháp luật PCCC.
 - d) Tuân thủ pháp luật về quản lý chi phí ĐTXD (với dự án đầu tư công và PPP).
 
-**Hồ sơ - trình tự - thời gian - kết quả:** Điều 35-38 NĐ 217/2026. Hồ sơ trình thẩm định Đ35; trình tự Đ36; thời gian Đ37; nội dung, kết quả Đ38.
+**Hồ sơ - trình tự - thời gian - kết quả:** Điều 35-38 NĐ 217/2026. Hồ sơ trình thẩm định Đ35; trình tự Đ36; thời gian Đ37; nội dung, kết quả Đ38. Hồ sơ không hợp lệ / thiếu: phân biệt **từ chối tiếp nhận (k2 Đ36) – yêu cầu bổ sung một lần trong 05 ngày làm việc (điểm a k3 Đ36) – tạm dừng không quá 01 lần (k4) – dừng thẩm định sau 20 ngày làm việc (k5)**; thực tiễn và checklist tiếp nhận BCNCKT dự án khai thác, chế biến khoáng sản: **reference 12**.
 
 ## B. THẨM ĐỊNH, PHÊ DUYỆT THIẾT KẾ (Điều 29 Luật 135; Điều 41-43 NĐ 217/2026)
 

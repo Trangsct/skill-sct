@@ -60,6 +60,9 @@ CCN do Sở Công Thương trực tiếp tham mưu QLNN. Danh mục theo nhóm (
 | Yên Hợp 1 | **Xã Xuân Ái** | 63 ha — DỰ ÁN ĐỘC LẬP với Yên Hợp (không "giai đoạn I/II") |
 | Yên Hợp 2 (PH Green) | **Xã Xuân Ái** | 75 ha — **ĐÃ THÀNH LẬP: QĐ 3427/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Xuân Ái (LAMSEN) | **Xã Xuân Ái** (thôn Quyết Hùng) | 75 ha (QĐ 525 tăng 35→75) — **ĐÃ THÀNH LẬP: QĐ 3865/QĐ-UBND ngày 17/10/2026** (ref 48); khác Yên Hợp 2 |
+| An Thịnh | **Xã Mậu A** | 75 ha (QĐ 525 tăng 30→75); chưa thành lập — Hội đồng lựa chọn CĐT: **QĐ 4274/QĐ-UBND ngày 15/11/2026** (ref 57 mục D); TB 1244-TB/TU giao trình thành lập trong tháng 11/2026 |
+| Tân Hợp | **Xã Tân Hợp** | 75 ha (QĐ 525 tăng 40→75); chưa thành lập — Hội đồng QĐ 3621/QĐ-UBND 02/10/2026, tiêu chí QĐ 3936/QĐ-HĐ 22/10/2026 (ref 51); chủ trương đầu tư đường vào khu quy hoạch cụm **QĐ 4268/QĐ-UBND ngày 15/11/2026** (ref 57 mục E) |
+| Bản Phiệt 1 | **Phường Lào Cai** | 75 ha (QĐ 525, bổ sung mới); chưa thành lập — Hội đồng QĐ 3931/QĐ-UBND 21/10/2026, tiêu chí QĐ 4240/QĐ-HĐ 12/11/2026 (ref 57 mục H, mới có trích yếu) |
 | Tân Nguyên | **Xã Bảo Ái** | 55 ha (Công ty 186 Yên Bái) |
 | Mông Sơn | **Xã Bảo Ái** | 50 ha (CRC) — **ĐÃ THÀNH LẬP: QĐ 3426/QĐ-UBND ngày 23/9/2026** (ref 41) |
 | Âu Lâu | Phường Âu Lâu | Tăng 50→75 ha |

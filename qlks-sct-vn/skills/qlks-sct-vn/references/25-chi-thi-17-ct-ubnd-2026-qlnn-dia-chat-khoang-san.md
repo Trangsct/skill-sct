@@ -93,7 +93,7 @@
    đối chiếu bản gốc.
 4. **Kế hoạch đấu giá — VB 10747/UBND-KT ngày 21/10/2026**: giao Sở rà soát điều kiện, tham mưu **bổ sung điểm mỏ cao lanh Thái
    Niên – Bảo Thắng** vào kế hoạch đấu giá quyền khai thác khoáng sản (theo VB 1931/UBND-KT 16/10/2026 của UBND xã Bảo Thắng xác
-   nhận phù hợp quy hoạch). Cùng mạch: VB 1831/UBND-KT 27/10/2026 (ý kiến xã về mỏ VLXDTT dự kiến đưa vào kế hoạch đấu giá).
+   nhận phù hợp quy hoạch). Cùng mạch: VB 1831/UBND-KT 27/10/2026 (ý kiến xã về mỏ VLXDTT dự kiến đưa vào kế hoạch đấu giá). **Cập nhật 17/11/2026:** Sở đã lấy ý kiến 08 khu vực VLXDTT (CV 7583/SCT-KS) và trình UBND tỉnh phê duyệt Kế hoạch đấu giá tại **Tờ trình 7595/TTr-SCT ngày 12/11/2026** — ref 26 mục E.
 5. **Chấm dứt dự án — TB 776/TB-STC ngày 29/10/2026**: Sở Tài chính chấm dứt toàn bộ hoạt động **Dự án khai thác chế biến quặng chì
    – kẽm thôn Cây Luồng** (Công ty TNHH Khánh Minh; nay xã Yên Thành) vì hết thời hạn hoạt động (13 năm từ GCNĐT điều chỉnh
    28/6/2011; điểm c khoản 1 Điều 36 Luật Đầu tư 143/2025/QH15), thu hồi GCNĐT 1299/UBND-CNĐT 01/7/2008. Việc phần Sở: theo dõi

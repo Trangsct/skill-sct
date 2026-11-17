@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 355 văn bản gốc (355 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 356 văn bản gốc (356 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -147,6 +147,7 @@ Thống kê: 355 văn bản gốc (355 có bản .txt) ở 20 plugin; 30 văn b�
 | 49/2026/NĐ-CP | 31/01/2026 | chi tiet NQ 254 | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/ND-49-2026-ND-CP-chi-tiet-NQ-254.docx` | có |
 | 50/2026/NĐ-CP | 31/01/2026 | tien su dung dat tien thue dat | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/ND-50-2026-ND-CP-tien-su-dung-dat-tien-thue-dat.docx` | có |
 | 216/ATMT-ATĐ | 30/01/2026 | huong dan nao vet ket hop thu hoi KS long ho thuy dien | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/CV-216-ATMT-ATD-30-01-2026-huong-dan-nao-vet-ket-hop-thu-hoi-KS-long-ho-thuy-dien.pdf` | có |
+| 09/2026/TT-BNNMT | 29/01/2026 | Sua doi TT 02 2022 bao ve moi truong | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.docx` | có |
 | 48/2026/NĐ-CP | 29/01/2026 | Sua doi ND 08 2022 bao ve moi truong | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/2026.01.29-48.2026.ND.CP-Sua-doi-ND-08-2022-bao-ve-moi-truong.pdf` | có (OCR) |
 | 11/2026/QĐ-UBND | 29/01/2026 | Lao Cai quan ly dau tu xay dung | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/QD-11-2026-QD-UBND-Lao-Cai-quan-ly-dau-tu-xay-dung.pdf` | có (OCR) |
 | 09/2026/TT-BQP | 22/01/2026 | Sua doi bo sung TT 98 2024 TT BQP | hl-vlncn-sct-vn | `hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/2026.01.22-09.2026.TT.BQP-Sua-doi-bo-sung-TT-98-2024-TT-BQP.docx` | có |

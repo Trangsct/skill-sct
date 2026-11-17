@@ -45,6 +45,9 @@ Chỉ giữ 3 đến 5 góp ý có trọng lượng.
 - Trước khi kết luận hồ sơ sai, mở file gốc kiểm tra. Bài học: đơn vị "g/L" tưởng sai thực ra là ký hiệu µ nhập bằng phông Symbol bị mất khi chuyển định dạng; không phải lỗi số liệu, không đưa vào phiếu.
 - Xem ý kiến trước đây của Sở đã được tiếp thu chưa; chỉ nêu lại điểm còn tồn tại.
 
+- Thiếu tài liệu thì báo Bạn tải bổ sung ngay ở câu đầu, nêu đích danh văn bản cần (Bạn chốt 17/11/2026); không viết theo tóm tắt hay trí nhớ rồi ghi chú "chưa đối chiếu".
+- Với GPMT: xác định nhóm dự án rồi đọc Mẫu số 22c, Điều 18a Thông tư 02/2022/TT-BTNMT (`van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.txt`) trước khi chê thiếu nội dung. Dự án nhóm III không phải đánh giá, dự báo tác động (Mục 1 Chương IV); dự án trong khu, cụm công nghiệp không phải đánh giá, mô tả hiện trạng môi trường. Chi tiết: `so-loi-tu-ghi.md` L001.
+
 ## 6. Trình bày
 
 - Khổ A4; lề trên 2 cm, dưới 2 cm, trái 3 cm, phải 2 cm.

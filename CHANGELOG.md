@@ -1,3 +1,7 @@
+## 17/11/2026 — bvmt-sct-vn 1.9.0: Thông tư 09/2026/TT-BNNMT, sổ lỗi tự ghi
+
+- **bvmt-sct-vn 1.9.0**: lưu Thông tư số 09/2026/TT-BNNMT (Word, PDF, bản trích chữ); lập sổ lỗi tự ghi với L001 (báo cáo GPMT nhóm III không phải đánh giá, dự báo tác động; khu, cụm công nghiệp không phải đánh giá hiện trạng) và L002 (thiếu văn bản gốc thì báo Bạn tải bổ sung ngay).
+
 ## 17/11/2026 — bvmt-sct-vn 1.8.2: bản gốc Nghị định 48/2026/NĐ-CP
 
 - **bvmt-sct-vn 1.8.2**: lưu Nghị định số 48/2026/NĐ-CP (PDF + bản trích chữ OCR) vào `van-ban-goc/`; ref 03 ghi nguyên văn STT 4 Phụ lục II về phân bón hóa học đã đối chiếu bản gốc.

@@ -60,6 +60,8 @@
 17. Quy chế BVMT CCN + quy định đấu nối + đồng hồ đo lưu lượng + hố ga đấu nối riêng ngoài đất cơ sở (Điều 48 NĐ 08); khu lưu giữ/trung chuyển CTR có trong thuyết minh nhưng vắng trong danh mục hạng mục + dự toán; phân định bùn thải trạm XLNT (khả năng CTNH cao).
 18. Kế hoạch VHTN: điều kiện "đạt 50% công suất mới chạy thử" là bất khả thi với CCN mới (Điều 31 NĐ 08: tối đa 6 tháng + gia hạn 1 lần) → yêu cầu VHTN **theo từng module**; chương trình giám sát bổ sung quan trắc nước mặt thượng/hạ lưu điểm xả + bùn thải.
 
+> Từ 17/11/2026: kho đã có nguyên văn Thông tư 09/2026/TT-BNNMT (`van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.txt`) gồm Mẫu số 22c, Mẫu số 30. Dự án nhóm III: Mẫu 22c miễn Mục 1 Chương IV (đánh giá, dự báo tác động), nên các dòng 4, 4.1, 4.2 của Mẫu 30 ghi "Không áp dụng" kèm căn cứ; dự án trong khu, cụm công nghiệp: dòng 2 "Không áp dụng" theo điểm c khoản 2 Điều 18a. Xem `so-loi-tu-ghi.md` L001.
+
 ## 4. Kỹ thuật viết Bản nhận xét Mẫu 30 (chuẩn trình bày đã chốt 11/8/2026)
 
 > Từ 16/11/2026: phong cách chung của mọi phiếu nhận xét hội đồng (đúng mẫu, ngắn gọn, xứng tầm; góp ý chi tiết ba phần) ở `13-phong-cach-phieu-nhan-xet-hoi-dong.md` — đọc trước, mục này chỉ bổ sung riêng cho Mẫu 30.

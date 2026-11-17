@@ -1,3 +1,7 @@
+## 17/11/2026 — bvmt-sct-vn 1.8.2: bản gốc Nghị định 48/2026/NĐ-CP
+
+- **bvmt-sct-vn 1.8.2**: lưu Nghị định số 48/2026/NĐ-CP (PDF + bản trích chữ OCR) vào `van-ban-goc/`; ref 03 ghi nguyên văn STT 4 Phụ lục II về phân bón hóa học đã đối chiếu bản gốc.
+
 ## 17/11/2026 — bvmt-sct-vn 1.8.1: bản gốc phụ lục Nghị định 08/2022
 
 - **bvmt-sct-vn 1.8.1**: lưu Phụ lục I–XXXIV kèm Nghị định số 08/2022/NĐ-CP (bản 2022, .doc + .txt) vào `van-ban-goc/`; ref 03 thêm ghi chú đối chiếu STT 4 Phụ lục II về phân bón hóa học.

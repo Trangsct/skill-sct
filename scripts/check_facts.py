@@ -92,6 +92,16 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "nd151-dieu-5-9-10-het-hieu-luc",
+        # Vụ 18/11/2026 (kccn-sct-vn ref 45 mục 16): Đề án di dời CCN Đầm Hồng dẫn điểm b, d khoản 1 Điều 5; khoản 2 Điều 10; điểm a
+        # khoản 1 Điều 9 NĐ 151/2025 làm căn cứ thẩm quyền thu hồi đất. Các điều này hết hiệu lực từ 31/01/2026 (điểm đ khoản 3 Điều 16
+        # NĐ 49/2026); căn cứ hiện hành: khoản 1 Điều 14 NĐ 49/2026, Điều 3 QĐ 40/2026/QĐ-UBND, Điều 83 Luật Đất đai.
+        "pattern": r"^(?!.*(?:hết hiệu lực|lịch sử|trước 31/01/2026|[Tt]ừng|căn cứ trước đây|KHÔNG dẫn|không dẫn)).*(?:Điều 10|điểm [a-h] khoản 1 Điều 5|điểm [a-h] khoản 1 Điều 9)\s+(?:của\s+)?(?:Nghị định số|NĐ)\s*151/2025",
+        "why": "Điều 5 (trừ điểm i k1, điểm g k2, điểm d k5), Điều 9 (trừ k3, điểm i, m k4), Điều 10 NĐ 151/2025 hết hiệu lực từ 31/01/2026 (điểm đ khoản 3 Điều 16 NĐ 49/2026); dẫn khoản 1 Điều 14 NĐ 49/2026 và Điều 3 QĐ 40/2026/QĐ-UBND (dat-dai-sct-vn ref 02, 13; kccn-sct-vn ref 45).",
+        "since": "2026-11-18",
+        "level": "FAIL",
+    },
+    {
         "id": "giay-phep-ruou-khong-thuc-hien-nq-66-18",
         # Vụ 07/11/2026 (attp-sct-vn ref 07 mục 0): Hải quan đòi Giấy phép phân phối rượu khi nhập rượu 53 độ; NQ 66.18/2026/NQ-CP
         # (01/7/2026 - 28/02/2027) không thực hiện thủ tục cấp Giấy phép phân phối, bán buôn, bán lẻ rượu (khoản B Tiểu mục 3.1

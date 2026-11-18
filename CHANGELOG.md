@@ -1,3 +1,9 @@
+## 18/11/2026 (lần 3) — kccn-sct-vn 1.67.3: thẩm quyền, điều kiện thu hồi đất khi di dời cụm công nghiệp
+
+- **kccn-sct-vn 1.67.3**: ref 45 mục 16–19 — Điều 5, 9, 10 NĐ 151/2025 hết hiệu lực từ 31/01/2026 (NĐ 49/2026); thẩm quyền theo Điều 83 Luật
+  Đất đai, khoản 1 Điều 14 NĐ 49/2026, Điều 3 QĐ 40/2026/QĐ-UBND; điều kiện Điều 80; quản lý hiện trạng; giảm tiền thuê lại đất cho DNNVV.
+- `check_facts.py`: rule `nd151-dieu-5-9-10-het-hieu-luc`. `trang-thai/ccn-dam-hong.md`: bản 6 hồ sơ trình Đề án.
+
 ## 18/11/2026 (lần 2) — kccn-sct-vn 1.67.2: căn cứ bảo vệ doanh nghiệp thứ cấp khi di dời cụm công nghiệp
 
 - **kccn-sct-vn 1.67.2**: ref 45 — điểm m khoản 3 Điều 124 Luật Đất đai, Điều 44a NĐ 102/2024 (NĐ 49/2026); phạm vi khoản 6 Điều 202; thẩm quyền

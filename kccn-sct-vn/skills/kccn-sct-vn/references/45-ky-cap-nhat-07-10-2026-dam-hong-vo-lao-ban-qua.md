@@ -87,13 +87,27 @@
 - Bổ sung 18/11/2026 — căn cứ bảo vệ doanh nghiệp thứ cấp khi di dời cụm (đối chiếu nguyên văn trong dat-dai-sct-vn/van-ban-goc):
   (11) bị thu hồi đất theo Điều 78, 79 Luật Đất đai mà còn thời hạn sử dụng đất, có nhu cầu tiếp tục sản xuất → giao đất, cho thuê đất
   KHÔNG đấu giá tại vị trí khác: điểm m khoản 3 Điều 124 Luật Đất đai, khoản 2 Điều 44a NĐ 102/2024 (bổ sung tại khoản 4 Điều 13 NĐ 49/2026),
-  áp dụng mọi loại đất; điểm đ khoản 3 Điều 124 chỉ dành cho cơ sở thuê đất hằng năm phải di dời DO Ô NHIỄM; (12) khoản 6 Điều 202 (quỹ đất,
+  áp dụng mọi loại đất; điểm đ khoản 3 Điều 124 có hai vế: cho thuê đất với cơ sở thuê đất hằng năm phải di dời DO Ô NHIỄM, và hỗ trợ
+  cho thuê đất để tiếp tục sản xuất khi thu hồi đất cơ sở sản xuất phi nông nghiệp đang sử dụng (vế này không đòi thu hồi theo Điều 79); (12) khoản 6 Điều 202 (quỹ đất,
   giảm tiền thuê lại đất) chỉ áp khi THUÊ LẠI của chủ đầu tư kinh doanh hạ tầng, đối tượng là DN vừa và nhỏ, cơ sở di dời do ô nhiễm — cụm
   đầu tư công Nhà nước cho thuê trực tiếp thì không dẫn điều này; (13) biện pháp, mức hỗ trợ khác: UBND tỉnh QUY ĐỊNH chung, UBND cấp xã
-  QUYẾT ĐỊNH cho từng dự án (khoản 12 Điều 3 NQ 254/2025/QH15; khoản 1 Điều 10 NĐ 151/2025) — không viết "UBND tỉnh quyết định hỗ trợ cho dự
+  QUYẾT ĐỊNH cho từng dự án (khoản 12 Điều 3 NQ 254/2025/QH15) — không viết "UBND tỉnh quyết định hỗ trợ cho dự
   án" theo khoản 2 Điều 108; (14) thông báo thu hồi đất phi nông nghiệp chậm nhất 120 ngày (điểm a khoản 9 Điều 3 NQ 254, thay 180 ngày của
   khoản 1 Điều 85) — chỉ áp thu hồi vì lợi ích quốc gia, công cộng; (15) có lợi cho Sở: Đề án, Quyết định ghi rõ cơ quan lập Đề án chịu trách
   nhiệm về số liệu; cấp xã chủ trì bồi thường, di dời, định hướng sử dụng đất sau di dời; Sở chỉ hướng dẫn chuyên môn, tổng hợp, tham mưu.
+- Bổ sung 18/11/2026 lần 2 — thẩm quyền, điều kiện thu hồi đất (rà soát pháp lý độc lập Đề án Đầm Hồng; đối chiếu nguyên văn trong
+  dat-dai-sct-vn/van-ban-goc và dat-dai-sct-vn ref 02, 11, 13): (16) KHÔNG dẫn Điều 5, Điều 9 (trừ k3, điểm i, m k4), Điều 10 NĐ 151/2025
+  làm căn cứ thẩm quyền — đã hết hiệu lực từ 31/01/2026 (điểm đ khoản 3 Điều 16 NĐ 49/2026). Thẩm quyền hiện hành: khoản 1 Điều 14 NĐ 49/2026
+  (UBND cấp tỉnh, được phân cấp) và Điều 3 QĐ 40/2026/QĐ-UBND ngày 31/5/2026: Chủ tịch UBND cấp xã thu hồi đất các trường hợp khoản 2
+  Điều 83 Luật Đất đai (Điều 78, 79 mọi đối tượng; Điều 81, 82 với hộ gia đình, cá nhân) — khoản 9; phê duyệt phương án bồi thường — khoản 11;
+  thu hồi đất của TỔ CHỨC theo Điều 81, 82 là UBND TỈNH (khoản 1 Điều 83), chỉ trường hợp chấm dứt, tự nguyện trả đất gắn với giao, thuê
+  đất đã phân cấp mới thuộc Chủ tịch cấp xã (khoản 6 Điều 3 QĐ 40, không áp dự án từ 2 xã, phường trở lên). Viết "UBND tỉnh", không
+  "Chủ tịch UBND tỉnh". Chương IV NĐ 49/2026 chỉ thực hiện đến trước 01/3/2027 → Đề án dài hạn ghi "theo pháp luật tại thời điểm thực
+  hiện (hiện nay là …)". (17) Thu hồi theo Điều 79 cần dự án cụ thể và căn cứ, điều kiện của Điều 80 (+ khoản 3 Điều 3 NQ 254); có quy
+  hoạch chưa đủ, việc di dời tự nó không phải căn cứ thu hồi. (18) "Quản lý hiện trạng" phải dựa vào thủ tục có thật (không cấp giấy
+  phép xây dựng, không chấp thuận điều chỉnh dự án trái quy hoạch, trái luật); không cấm chuyển nhượng, cho thuê lại khi chưa có kế
+  hoạch sử dụng đất (khoản 4 Điều 76 Luật Đất đai). (19) Có lợi cho doanh nghiệp nhỏ và vừa: UBND tỉnh quyết định mức giảm tiền thuê
+  lại đất trong cụm (khoản 1 Điều 32 NĐ 32/2024 sửa tại điểm a khoản 16 Điều 1 NĐ 303/2026).
 - Diễn biến hồ sơ, văn bản đi, đến: kho riêng tư `vlncn-laocai` (`du-thao/2026.11.10-dam-hong/`, plugin `van-ban-sct-vn`).
 
 ## C. Ban Chỉ đạo phát triển KCN Võ Lao và KCN Bản Qua (QĐ 2029/QĐ-UBND ngày 10/6/2026)

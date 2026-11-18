@@ -84,6 +84,16 @@
   chủ trì) trước bước rà soát pháp lý; (10) cơ quan được hỏi ý kiến mà Đề án không giao việc thì vẫn ghi tên trong phần phân công.
   Phụ lục tổng hợp ý kiến kèm Tờ trình: bảng 4 cột (TT · cơ quan, văn bản · nội dung ý kiến · tiếp thu, giải trình), mỗi ý "đã tiếp
   thu tại …" phải chỉ đúng mục, khoản có thật trong Đề án.
+- Bổ sung 18/11/2026 — căn cứ bảo vệ doanh nghiệp thứ cấp khi di dời cụm (đối chiếu nguyên văn trong dat-dai-sct-vn/van-ban-goc):
+  (11) bị thu hồi đất theo Điều 78, 79 Luật Đất đai mà còn thời hạn sử dụng đất, có nhu cầu tiếp tục sản xuất → giao đất, cho thuê đất
+  KHÔNG đấu giá tại vị trí khác: điểm m khoản 3 Điều 124 Luật Đất đai, khoản 2 Điều 44a NĐ 102/2024 (bổ sung tại khoản 4 Điều 13 NĐ 49/2026),
+  áp dụng mọi loại đất; điểm đ khoản 3 Điều 124 chỉ dành cho cơ sở thuê đất hằng năm phải di dời DO Ô NHIỄM; (12) khoản 6 Điều 202 (quỹ đất,
+  giảm tiền thuê lại đất) chỉ áp khi THUÊ LẠI của chủ đầu tư kinh doanh hạ tầng, đối tượng là DN vừa và nhỏ, cơ sở di dời do ô nhiễm — cụm
+  đầu tư công Nhà nước cho thuê trực tiếp thì không dẫn điều này; (13) biện pháp, mức hỗ trợ khác: UBND tỉnh QUY ĐỊNH chung, UBND cấp xã
+  QUYẾT ĐỊNH cho từng dự án (khoản 12 Điều 3 NQ 254/2025/QH15; khoản 1 Điều 10 NĐ 151/2025) — không viết "UBND tỉnh quyết định hỗ trợ cho dự
+  án" theo khoản 2 Điều 108; (14) thông báo thu hồi đất phi nông nghiệp chậm nhất 120 ngày (điểm a khoản 9 Điều 3 NQ 254, thay 180 ngày của
+  khoản 1 Điều 85) — chỉ áp thu hồi vì lợi ích quốc gia, công cộng; (15) có lợi cho Sở: Đề án, Quyết định ghi rõ cơ quan lập Đề án chịu trách
+  nhiệm về số liệu; cấp xã chủ trì bồi thường, di dời, định hướng sử dụng đất sau di dời; Sở chỉ hướng dẫn chuyên môn, tổng hợp, tham mưu.
 - Diễn biến hồ sơ, văn bản đi, đến: kho riêng tư `vlncn-laocai` (`du-thao/2026.11.10-dam-hong/`, plugin `van-ban-sct-vn`).
 
 ## C. Ban Chỉ đạo phát triển KCN Võ Lao và KCN Bản Qua (QĐ 2029/QĐ-UBND ngày 10/6/2026)

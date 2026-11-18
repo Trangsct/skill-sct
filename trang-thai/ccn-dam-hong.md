@@ -36,6 +36,7 @@ Plugin liên quan: kccn-sct-vn
 7. (16/11/2026) Soạn Tờ trình (Giám đốc ký), dự thảo Quyết định UBND tỉnh, dự thảo Đề án đã chỉnh sửa — bản thảo trong kho riêng tư du-thao/2026.11.16-To-trinh-De-an-di-doi-CCN-Dam-Hong/
 8. (17/11/2026) Nhận 04 văn bản trả lời 7485/SCT-CN: Sở KH&CN 4077, Sở Tư pháp 2644, UBND phường Văn Phú 2724, Thanh tra tỉnh 2362 (cùng ngày 16/11/2026)
 9. (18/11/2026) Tổng hợp ý kiến 7 cơ quan theo 7485/SCT-CN, hoàn thiện Tờ trình (bản 2, 9 trang, kèm Phụ lục tiếp thu, giải trình), dự thảo Quyết định, dự thảo Đề án chỉnh sửa lần 2
+10. (18/11/2026) Bản 3 Tờ trình, dự thảo QĐ, Đề án: phân định trách nhiệm (phường lập Đề án chịu trách nhiệm số liệu, chủ trì bồi thường, di dời), bổ sung quyền lợi doanh nghiệp có căn cứ (điểm m khoản 3 Điều 124 Luật Đất đai, khoản 6 Điều 202, khoản 12 Điều 3 NQ 254)
 
 ## Bước tiếp theo
 
@@ -50,10 +51,12 @@ Plugin liên quan: kccn-sct-vn
 - (13/11/2026) Biểu tiếp thu kèm 611/BC-UBND chỉ có ý kiến 3786/SCT-CN ngày 26/6/2026 của Sở, không có 6133/SCT-CN ngày 30/9/2026 — phường đã tiếp thu 6133 chưa? (toàn văn 6133 chưa có trong kho)
 - (17/11/2026) Dự thảo Đề án (mục 16 căn cứ) ghi 9154/UBND-KT, 7485/SCT-CN ghi 9514/UBND-KT, cùng ngày 18/9/2026 — phường Văn Phú đề nghị thống nhất (2724); kho dùng 9514/UBND-KT
 - (17/11/2026) Phường Văn Phú (2724): bảng lộ trình Phần thứ sáu ghi hai phường cùng chủ trì, Bước 1 mục III Phần thứ năm và mục VII, VIII Phần thứ bảy ghi phường Yên Bái chủ trì — phải thống nhất một cơ quan chủ trì
+- (18/11/2026) Bạn có tải được QĐ 2108/QĐ-UBND 2020, NĐ 103/2024/NĐ-CP, QĐ 28/2026/QĐ-UBND, QĐ 1245/QĐ-UBND 2009 để bổ sung căn cứ không
 
 ## Quyết định của Bạn
 
 - (16/11/2026) 16/11/2026: PGĐ Nguyễn Đình Chiến quyết định không tổ chức hội đồng; xin ý kiến các sở, ngành, địa phương rồi trình UBND tỉnh
+- (18/11/2026) 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp
 
 ## Yêu cầu riêng một lần
 
@@ -80,5 +83,7 @@ Plugin liên quan: kccn-sct-vn
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc 4077/SKHCN-QLCN, 2644/STP-XDVBQPPL, 2724/UBND-KTHT, 2362/TT-P6
 
 ### 18/11/2026
-- Việc đã làm: Tổng hợp 7/10 ý kiến trả lời 7485/SCT-CN; hoàn thiện Tờ trình kèm Phụ lục tiếp thu, giải trình; sửa dự thảo Đề án lần 2 (Luật Xây dựng 135/2025/QH15, QĐ 49/2026/QĐ-UBND, nhiệm vụ Sở Tài chính, Sở KH&CN, Sở NN&MT, Phụ lục 04, 05) và dự thảo Quyết định
-- Văn bản đã xuất: 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Quyết định phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Đề án … (Sở Công Thương chỉnh sửa, chữ đỏ).docx (bản 2)
+- Việc đã làm: Tổng hợp 7/10 ý kiến trả lời 7485/SCT-CN; hoàn thiện Tờ trình kèm Phụ lục tiếp thu, giải trình; sửa dự thảo Đề án lần 2 (Luật Xây dựng 135/2025/QH15, QĐ 49/2026/QĐ-UBND, nhiệm vụ Sở Tài chính, Sở KH&CN, Sở NN&MT, Phụ lục 04, 05) và dự thảo Quyết định; Chỉnh bộ hồ sơ theo hướng có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; sửa căn cứ đất đai theo NQ 254/2025/QH15, NĐ 49/2026, NĐ 151/2025 sau rà soát độc lập
+- Văn bản đã xuất: 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Quyết định phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Đề án … (Sở Công Thương chỉnh sửa, chữ đỏ).docx (bản 2); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 3)
+- Quyết định của Bạn: 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp
+- Câu hỏi chưa được trả lời: Bạn có tải được QĐ 2108/QĐ-UBND 2020, NĐ 103/2024/NĐ-CP, QĐ 28/2026/QĐ-UBND, QĐ 1245/QĐ-UBND 2009 để bổ sung căn cứ không

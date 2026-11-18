@@ -1,3 +1,8 @@
+## 18/11/2026 (lần 2) — kccn-sct-vn 1.67.2: căn cứ bảo vệ doanh nghiệp thứ cấp khi di dời cụm công nghiệp
+
+- **kccn-sct-vn 1.67.2**: ref 45 — điểm m khoản 3 Điều 124 Luật Đất đai, Điều 44a NĐ 102/2024 (NĐ 49/2026); phạm vi khoản 6 Điều 202; thẩm quyền
+  hỗ trợ khác chuyển UBND cấp xã (khoản 12 Điều 3 NQ 254/2025/QH15); thông báo thu hồi 120 ngày; phân định trách nhiệm có lợi cho Sở.
+
 ## 18/11/2026 — kccn-sct-vn 1.67.1: điểm soát Đề án di dời CCN sau tổng hợp ý kiến; trạng thái Đầm Hồng
 
 - **kccn-sct-vn 1.67.1**: ref 45 thêm 5 điểm soát Đề án di dời (căn cứ bị thay: Luật Đầu tư 143/2025/QH15, Luật Xây dựng 135/2025/QH15,

@@ -32,7 +32,7 @@ Plugin liên quan: kccn-sct-vn
 - Xã Đông Cuông sửa 436, 442/BC-UBND (UBND xã trực tiếp quản lý) và tên cụm trong 437; xã Hưng Khánh sửa Tờ trình 602 (chủ đầu tư UBND xã); xã Trấn Yên hoàn thiện 3 điểm Báo Đáp — trình trước 25/11/2026
 - Đôn đốc Yên Thế, Âu Lâu, Sơn Thịnh — trình trước 25/11/2026 (mốc gia hạn tại 7370/BC-SCT), muộn nhất xong trước 31/12/2026
 - Thịnh Hưng: chờ hồ sơ nhà đầu tư theo 7384/SCT-CN (Sở VHTTDL báo hồ sơ Thịnh Hưng nhầm nội dung Báo Đáp)
-- Hỏi Bộ Chỉ huy Quân sự ý kiến về 07 cụm còn lại; hỏi Sở Văn hóa về Yên Thế
+- Anh Trung tìm tài liệu còn thiếu (tin nhắn 18/11/2026); hỏi Bộ Chỉ huy Quân sự ý kiến về 07 cụm còn lại nếu chưa có
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -41,7 +41,7 @@ Plugin liên quan: kccn-sct-vn
 - (17/11/2026) Số liệu lệch giữa hai Báo cáo đầu tư của xã Đông Cuông: 437/BC-UBND ghi Bắc Văn Yên lấp đầy 78,1% (32,94/42,19 ha), Đông An quy hoạch 34 ha; 440/BC-UBND ghi Bắc Văn Yên 88,2% (37,21/42,19 ha), Đông An 50 ha (42,58%) — cần thống nhất trước khi đưa vào Báo cáo thẩm định
 - (17/11/2026) 437/BC-UBND (mục V Phần 3) còn câu 'sau khi cụm công nghiệp Bắc Văn Yên được bổ sung vào quy hoạch tỉnh' — cụm đã có trong QĐ 525
 - (17/11/2026) Hưng Khánh: bản vẽ kèm 1995 ghi quy hoạch chung 25,68 ha, các khu 15 ha và 20,42 ha; Tờ trình 602 đề nghị 20 ha — đối chiếu ranh giới; câu kết 1995 đề nghị Sở Tài chính tổng hợp, trình chủ trương đầu tư (văn bản dùng chung hồ sơ CTĐT)
-- (18/11/2026) Ý kiến 4142/SVHTTDL-KHTC chưa đọc; 4190/SVHTTDL không nêu Yên Thế; Bộ Chỉ huy Quân sự mới có ý kiến riêng Báo Đáp (6070), kho chưa có ý kiến về 07 cụm còn lại; 7562 (Công an, Báo Đáp) là bản scan chưa đối chiếu số, ngày
+- (18/11/2026) Còn thiếu: bản rõ 7562 (Công an, Báo Đáp; Báo cáo ghi 7562/CAT-ANKT ngày 30/10/2026 chưa đối chiếu); ý kiến Bộ Chỉ huy Quân sự về 07 cụm ngoài Báo Đáp (kho chỉ có 6070); toàn văn 7554/SCT-CN ngày 11/11/2026; Tờ trình 324/TTr-UBND (Yên Thế), 247/TTr-UBND và 542/BC-UBND (Sơn Thịnh), 380/TTr-UBND (Báo Đáp), bản rõ 483/TTr-UBND (Âu Lâu), 578/TTr-UBND (Hưng Khánh); các thông báo kêu gọi và kết thúc tiếp nhận hồ sơ chủ đầu tư dẫn trong Báo cáo mục II.1
 
 ## Quyết định của Bạn
 
@@ -65,5 +65,5 @@ Plugin liên quan: kccn-sct-vn
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc toàn văn 442, 440, 436, 437, 649/BC-UBND, 602/TTr-UBND, 1995/UBND-TTDV
 
 ### 18/11/2026
-- Việc đã làm: Đọc 7226/CAT-ANKT, 6070/BCH-TM, 4190/SVHTTDL-QLPTDL Bạn gửi; sửa mục e, g, h phần ý kiến sở, ngành trong Báo cáo thẩm định
+- Việc đã làm: Đọc 7226/CAT-ANKT, 6070/BCH-TM, 4190/SVHTTDL-QLPTDL Bạn gửi; sửa mục e, g, h phần ý kiến sở, ngành trong Báo cáo thẩm định; Rà tài liệu còn thiếu; phát hiện 4142/SVHTTDL-KHTC đã có toàn văn trong kho (thống nhất cả 08 cụm), sửa lại mục h Báo cáo; soạn tin nhờ anh Trung tìm tài liệu còn thiếu
 - Văn bản đã xuất: 2026.11.16. Báo cáo kết quả thẩm định hồ sơ thành lập các cụm công nghiệp hạ tầng vốn ngân sách nhà nước.docx (bản sửa 18/11, kèm bản bôi đỏ)

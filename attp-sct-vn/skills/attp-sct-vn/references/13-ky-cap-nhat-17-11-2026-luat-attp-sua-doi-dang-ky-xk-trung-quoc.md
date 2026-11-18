@@ -70,3 +70,21 @@ cơ quan đầu mối SPS Việt Nam, không tự diễn giải.
    như căn cứ cấp phép (đó là nghị quyết thông qua chính sách, không phải văn bản hướng dẫn).
 2. Ký hiệu văn bản Sở Y tế: **…/SYT-ATTP**, không chép "CV--SYT" từ sổ egov1.
 3. Quy định của Hải quan Trung Quốc là quy định nước ngoài — chỉ dùng để hướng dẫn doanh nghiệp, không viện dẫn làm căn cứ văn bản QLNN.
+
+## Mục bổ sung 18/11/2026 — Đề án thành lập Chi cục An toàn thực phẩm trực thuộc Sở Y tế (chuyển giao QLNN về ATTP)
+
+Nguồn: Công văn số 6211/SYT-TCCB ngày 17/11/2026 của Sở Y tế (GĐ Hoàng Quốc Hương ký; số, ngày đọc bằng `extract_metadata.py`).
+
+| Văn bản | Ngày | Nội dung |
+|---|---|---|
+| Kết luận số 114-KL/TW của Bộ Chính trị | 03/11/2026 | Tiếp tục hoàn thiện bộ máy QLNN về ATTP theo hướng **thống nhất một đầu mối** từ Trung ương đến địa phương |
+| Công văn số 1920-CV/TU của Ban Thường vụ Tỉnh ủy | 11/11/2026 | Triển khai KL 114-KL/TW |
+| Công văn số 3135-CV/ĐU của Ban Thường vụ Đảng ủy UBND tỉnh | 13/11/2026 | Triển khai KL 114-KL/TW |
+| **CV 6211/SYT-TCCB** của Sở Y tế | 17/11/2026 | Sở Y tế xây dựng dự thảo **Đề án thành lập Chi cục An toàn thực phẩm trực thuộc Sở Y tế** gắn với phương án chuyển giao chức năng, nhiệm vụ QLNN về ATTP từ Sở NN&MT, Sở Công Thương về Sở Y tế; báo cáo Thường trực Tỉnh ủy **trước 05/12/2026**. Đề nghị hai sở cung cấp 8 loại tài liệu (Phụ lục I) và 4 biểu số liệu tính đến 31/10/2026 (Phụ lục II: nhiệm vụ đề xuất chuyển giao; biên chế, nhân sự; đối tượng quản lý, khối lượng công việc; hồ sơ, CSDL, tài sản, kinh phí); hạn 18/11/2026; chỉ gửi bản điện tử ký số, biểu kèm Word/Excel |
+
+Ghi nhớ khi soạn văn bản ATTP từ nay:
+
+1. Đến khi Đề án được phê duyệt và UBND tỉnh sửa đổi QĐ 28/2025/QĐ-UBND, QĐ 68/QĐ-UBND, QĐ 3628/QĐ-UBND, **Sở Công Thương vẫn thực hiện đầy đủ** nhiệm vụ ATTP hiện hành (cấp GCN, tự công bố, cam kết, hậu kiểm); không viết "đã chuyển giao".
+2. Ranh giới Sở đề xuất giữ lại (quản lý ngành công nghiệp thực phẩm; giấy phép rượu, thuốc lá; kinh doanh chợ, siêu thị, TTTM; chống buôn lậu, thực phẩm giả, gian lận thương mại của Chi cục QLTT — khoản 2 Điều 1 QĐ 53/QĐ-UBND ngày 01/7/2025) là **ý kiến của Sở**, chưa phải kết quả phê duyệt.
+3. Tiến độ hồ sơ: `trang-thai/chuyen-giao-quan-ly-an-toan-thuc-pham-ve-so-y-te-de-an-thanh-lap-chi-cuc-an-toan-thuc-pham.md`. Nội dung công văn trả lời, số liệu nội bộ nằm ở kho riêng tư, không chép vào đây.
+

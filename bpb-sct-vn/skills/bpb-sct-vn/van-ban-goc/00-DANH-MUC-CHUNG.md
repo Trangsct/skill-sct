@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 357 văn bản gốc (357 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 360 văn bản gốc (360 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -117,6 +117,7 @@ Thống kê: 357 văn bản gốc (357 có bản .txt) ở 20 plugin; 30 văn b�
 | 13A/BB-DTT72 | 10/05/2026 | thanh tra khai thac KS Mong Son | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/BB-13A-BB-DTT72-10-5-2026-thanh-tra-khai-thac-KS-Mong-Son.pdf` | có (OCR) |
 | 17/QĐ-HĐTV | 29/04/2026 | HDTV VSDC quy che luu ky thanh toan | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-17-QD-HDTV-29-4-2026-VSDC-quy-che-luu-ky-thanh-toan.txt` | có |
 | 19/2026/NQ-CP | 29/04/2026 |  | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/NQ-19-2026-NQ-CP.pdf` | có (OCR) |
+| 1436/QĐ-UBND | 29/04/2026 | Phe duyet VTVL So Cong Thuong | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.04.29-1436.QD.UBND-Phe-duyet-VTVL-So-Cong-Thuong.pdf` | có |
 | 24/2026//NQ-CP | 29/04/2026 | cat giam TTHC XD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/NQ-24-2026-NQ-CP-cat-giam-TTHC-XD.docx` | có |
 | 3320/SNNMT-CCMT | 23/04/2026 | chuyen VBHN 48 49 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-3320-SNNMT-CCMT-23-4-2026-chuyen-VBHN-48-49.txt` | có |
 | 1335/QĐ-UBND | 21/04/2026 | Dieu chinh QD thanh lap CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.04.21-1335.QD.UBND-Dieu-chinh-QD-thanh-lap-CCN-Phu-Thinh-2.pdf` | có |
@@ -164,6 +165,7 @@ Thống kê: 357 văn bản gốc (357 có bản .txt) ở 20 plugin; 30 văn b�
 | 04/2026/TT-BNNMT | 16/01/2026 | sua cac TT dia chat khoang san | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-04-2026-TT-BNNMT-sua-cac-TT-dia-chat-khoang-san.docx` | có |
 | 7/QĐ-BQLCKCN | 15/01/2026 | thanh lap HDTD quy hoach KCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-7-QD-BQLCKCN-15-01-2026-thanh-lap-HDTD-quy-hoach-KCN.pdf` | có |
 | 14/2026/NĐ-CP | 13/01/2026 | cat giam TTHC SXKD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-14-2026-cat-giam-TTHC-SXKD.docx` | có |
+| 68/QĐ-UBND | 09/01/2026 | Uy quyen GD SCT thuong mai ATTP | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2026.01.09-68.QD.UBND-Uy-quyen-GD-SCT-thuong-mai-ATTP.pdf` | có |
 | 66.11/2026/NQ-CP | 06/01/2026 | dau gia quyen su dung dat | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/trung-uong/NQ-66.11-2026-NQ-CP-dau-gia-quyen-su-dung-dat.docx` | có |
 | 2752/QĐ-UBND | 31/12/2025 | Phu luc II xa khu vuc I II III | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2752-QD-UBND-31-12-2025-Phu-luc-II-xa-khu-vuc-I-II-III.pdf` | có |
 | 2752/QĐ-UBND | 31/12/2025 | thon xa vung DTTS MN 2026 2030 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2752-QD-UBND-31-12-2025-thon-xa-vung-DTTS-MN-2026-2030.pdf` | có |
@@ -212,6 +214,7 @@ Thống kê: 357 văn bản gốc (357 có bản .txt) ở 20 plugin; 30 văn b�
 | 36/2025/TT-BNNMT | 02/07/2025 | PHU LUC I den IV | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-36-2025-TT-BNNMT-PHU-LUC-I-den-IV.doc` | có |
 | 36/2025/TT-BNNMT | 02/07/2025 | TOAN VAN dieu khoan | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-36-2025-TT-BNNMT-TOAN-VAN-dieu-khoan.docx` | có |
 | 36/2025/TT-BNNMT | 02/07/2025 | khai thac tan thu thu hoi | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-36-2025-TT-BNNMT-khai-thac-tan-thu-thu-hoi.docx` | có |
+| 53/QĐ-UBND | 01/07/2025 | CNNV Chi cuc QLTT | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2025.07.01-53.QD.UBND-CNNV-Chi-cuc-QLTT.pdf` | có |
 | 178/2025/NĐ-CP | 01/07/2025 | quy hoach do thi nong thon | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-178-2025-quy-hoach-do-thi-nong-thon.docx` | có |
 | 189/2025/NĐ-CP | 01/07/2025 | tham quyen xu phat | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/chung/ND-189-2025-NDCP-tham-quyen-xu-phat.docx` | có |
 | 84/2025/QH15 | 25/06/2025 | Luat Thanh tra 84 2025 | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/06-kiem-tra/Luat-Thanh-tra-84-2025.docx` | có |

@@ -1,6 +1,6 @@
 # Reference 11 - CẤP LẠI GIẤY CHỨNG NHẬN ATTP, ỦY QUYỀN 2026 VÀ CẮT GIẢM HỒ SƠ
 
-Cập nhật: 30/8/2026. Nguồn: bộ hồ sơ thật của Sở (Quyết định thành lập Đoàn thẩm định WINMART+ LCI 29 tháng 8/2026; bộ hồ sơ cấp lại Công ty Hiếu Hưng; bộ hồ sơ Công ty TAKOKO) trong `vi-du-thuc-te/`.
+Cập nhật: 30/8/2026; mục 1 cập nhật 18/11/2026 từ bản gốc QĐ 68/QĐ-UBND. Nguồn: bộ hồ sơ thật của Sở (Quyết định thành lập Đoàn thẩm định WINMART+ LCI 29 tháng 8/2026; bộ hồ sơ cấp lại Công ty Hiếu Hưng; bộ hồ sơ Công ty TAKOKO) trong `vi-du-thuc-te/`.
 
 ## 1. GỠ GATE ỦY QUYỀN - Quyết định số 68/QĐ-UBND ngày 09/01/2026
 
@@ -10,7 +10,18 @@ Cập nhật: 30/8/2026. Nguồn: bộ hồ sơ thật của Sở (Quyết đị
 
 - Đây là văn bản thay thế vai trò của QĐ 904/QĐ-UBND ngày 26/8/2025 (đã hết thời hạn 31/12/2025).
 - Từ nay, khi soạn Quyết định thành lập Đoàn thẩm định, Giấy chứng nhận, hoặc văn bản khác thuộc thẩm quyền UBND tỉnh đã ủy quyền, **dẫn QĐ 68/QĐ-UBND ngày 09/01/2026**.
-- **Chưa xác minh:** thời hạn hiệu lực của QĐ 68 (có ghi hạn đến hết năm 2026 như QĐ 904 hay không) và danh mục đầy đủ nhiệm vụ được ủy quyền. Bản PDF/bản gốc chưa có trong `van-ban-goc/` - **cần bổ sung**; trước khi viện dẫn phạm vi ủy quyền cho một việc cụ thể ngoài cấp GCN ATTP, hỏi Bạn.
+- **Bản gốc (Bạn gửi 18/11/2026):** `van-ban-goc/2026.01.09-68.QD.UBND-Uy-quyen-GD-SCT-thuong-mai-ATTP.pdf` (24 trang, 3,9 MB — chỉ có trên GitHub) + bản `.txt` cùng tên (đọc trong gói claude.ai). Chủ tịch Nguyễn Tuấn Anh ký; theo Tờ trình 2205/TTr-SCT ngày 28/10/2025 và 3300/TTr-SCT ngày 24/12/2025; căn cứ NĐ 146/2025/NĐ-CP, TT 38/2025/TT-BCT.
+- **Điều 2 — thời hạn ủy quyền: từ ngày ký đến hết ngày 28/02/2027** (trừ khi văn bản của cấp có thẩm quyền điều chỉnh, thay thế). Điều 3: Giám đốc Sở dùng hình thức văn bản, con dấu của Sở; triển khai TTHC đã công bố hoặc ngay khi được công bố; báo cáo UBND tỉnh định kỳ hằng năm. Điều 4: hiệu lực từ ngày ký.
+- **Phụ lục — 12 lĩnh vực:** I dầu khí; II kinh doanh khí; III thuốc lá; IV rượu; V chợ; VI thương mại, xuất nhập khẩu; VII thương nhân nước ngoài, văn phòng đại diện; VIII (xem bản .txt); **IX an toàn thực phẩm**; X chất lượng sản phẩm hàng hóa; XI bảo vệ quyền lợi người tiêu dùng; XII thương mại điện tử.
+- **Mục IX (ATTP) — 3 nhiệm vụ, 10 TTHC đã công bố:**
+
+| Nhiệm vụ ủy quyền | Căn cứ | TTHC (mã) |
+|---|---|---|
+| Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ QLNN, cơ sở kiểm nghiệm kiểm chứng; kết luận cuối cùng khi kết quả kiểm nghiệm khác biệt (khoản 8 Điều 39 NĐ 15/2018, Điều 25 NĐ 77/2016) | Khoản 3 Điều 37 NĐ 146/2025 | Đăng ký chỉ định (2.001682), gia hạn (1.003951), thay đổi, bổ sung phạm vi (2.001660) cơ sở kiểm nghiệm phục vụ QLNN; đăng ký chỉ định (1.003860), gia hạn (2.001595), thay đổi, bổ sung phạm vi (1.003929) cơ sở kiểm nghiệm kiểm chứng |
+| Cấp GCN cơ sở đủ điều kiện ATTP thuộc trách nhiệm Bộ Công Thương (khoản 6 Điều 39 NĐ 15/2018) | Khoản 5 Điều 37 NĐ 146/2025 | Cấp (2.000117), cấp lại (2.000115) GCN đối với cơ sở kinh doanh thực phẩm |
+| Cấp mới, cấp lại GCN đối với cơ sở sản xuất, kinh doanh thực phẩm | Khoản 2 Điều 16 TT 38/2025/TT-BCT | Cấp (2.000591), cấp lại (2.000535) GCN đối với cơ sở sản xuất, kinh doanh thực phẩm do Sở Công Thương thực hiện |
+
+- Văn bản cấp GCN, Quyết định lập Đoàn thẩm định ký sau **28/02/2027** mà chưa có văn bản gia hạn, thay thế ủy quyền → dừng, hỏi Bạn (đồng thời theo dõi Đề án chuyển giao ATTP về Sở Y tế — reference 13 mục bổ sung 18/11/2026).
 
 ## 2. Khối căn cứ chuẩn của Quyết định thành lập Đoàn thẩm định (bản đã phát hành 8/2026)
 
@@ -93,6 +104,6 @@ Khi thẩm định: kiểm tra giấy còn trong thời hạn 03 năm và **danh
 
 ## 7. Việc cần bổ sung
 
-1. **Bản gốc QĐ 68/QĐ-UBND ngày 09/01/2026** (chưa có trong `van-ban-goc/`) - để xác minh thời hạn ủy quyền và danh mục nhiệm vụ.
+1. ~~Bản gốc QĐ 68/QĐ-UBND~~ — đã có (Bạn gửi 18/11/2026), xem mục 1.
 2. **Bản gốc NQ 66.16/2026/NQ-CP ngày 07/4/2026** - để đối chiếu toàn văn phần cắt giảm, hiện chỉ có nội dung dẫn lại trong công văn của Sở.
 3. Xác nhận quy tắc dòng Lưu cho văn bản ATTP (mục 2).

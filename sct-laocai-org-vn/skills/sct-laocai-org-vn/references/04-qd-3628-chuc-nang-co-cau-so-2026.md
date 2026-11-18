@@ -52,3 +52,20 @@
 ## B. Lịch sử: 03 dự thảo Văn phòng Sở gửi lấy ý kiến 04/10/2026 — đã được ban hành
 
 Ngày 04/10/2026 Văn phòng Sở gửi lấy ý kiến 03 dự thảo (góp ý tại giao ban 9 tháng ngày 05/10/2026): (1) Quy định CNNV Văn phòng và các phòng — thay QĐ 59/QĐ-SCT, có Điều 6 Phòng Quản lý khoáng sản; (2) phân công nhiệm vụ GĐ, PGĐ — thay QĐ 766/QĐ-SCT; (3) Quy chế làm việc — thay QĐ 04/QĐ-SCT. Phòng QLCN đã góp ý bằng công văn nội bộ ngày 04/10/2026 (chỉ góp ý phần CNNV Phòng QLCN và phần PGĐ phụ trách Phòng; quy tắc góp ý giữ ở SKILL.md). Kết quả ban hành (chốt 22/10/2026 từ bản gốc Bạn gửi, số, ngày đọc bằng script): **(1) QĐ 6226/QĐ-SCT ngày 02/10/2026** — Quy định CNNV Văn phòng và các phòng, thay QĐ 59/QĐ-SCT (ref 01); **(2) QĐ 6320/QĐ-SCT ngày 06/10/2026** — phân công GĐ, PGĐ, thay QĐ 766/QĐ-SCT; **(3) QĐ 6286/QĐ-SCT ngày 05/10/2026** — Quy chế làm việc (số, ngày theo căn cứ của QĐ 6320). Nội dung chi tiết 03 dự thảo (trước ngày 05/10/2026) không chép lại ở đây vì đã có văn bản ban hành; cần tra thì xem PR 115 trên GitHub (nhánh `claude/sct-org-2.6.0-qd-3628`, ref 03 cũ).
+
+## C. QĐ 53/QĐ-UBND ngày 01/7/2025 — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức Chi cục Quản lý thị trường (bổ sung 18/11/2026)
+
+- Bản gốc Bạn gửi 18/11/2026: `van-ban-goc/2025.07.01-53.QD.UBND-CNNV-Chi-cuc-QLTT.pdf` + `.txt` (số, ngày, người ký đọc bằng
+  `extract_metadata.py`). TM. UBND tỉnh, Chủ tịch **Trần Huy Tuấn** ký; theo Tờ trình 03/TTr-SCT ngày 01/7/2025; căn cứ Pháp lệnh
+  Quản lý thị trường số 11/2016/UBTVQH13, NĐ 150/2025/NĐ-CP, QĐ 05/2025/QĐ-UBND (chức năng Sở — nay thay bằng QĐ 3628, mục A.3).
+- **Điều 1**: Chi cục là tổ chức hành chính trực thuộc Sở, sáp nhập Chi cục QLTT tỉnh Yên Bái và Chi cục QLTT tỉnh Lào Cai; trụ sở số 94
+  đường Trần Hưng Đạo, phường Yên Bái. **Khoản 2 (chức năng)**: tham mưu, giúp Giám đốc Sở QLNN về quản lý thị trường — thực thi pháp
+  luật về phòng, chống, xử lý hàng nhập lậu; hàng giả, hàng cấm, hàng không rõ nguồn gốc; xâm phạm sở hữu trí tuệ; vi phạm về chất lượng,
+  đo lường, giá, **an toàn thực phẩm**; bảo vệ quyền lợi người tiêu dùng; gian lận thương mại. Có tư cách pháp nhân, con dấu, tài khoản riêng.
+- **Điều 3 (cơ cấu)**: 02 phòng (Tổ chức - Hành chính; Nghiệp vụ - Tổng hợp) và **09 Đội QLTT** (Đội 1–8 theo địa bàn xã, phường;
+  **Đội 9 cơ động** toàn tỉnh); biên chế công chức nằm trong tổng biên chế của Sở Công Thương.
+- Dùng khi: dẫn chức năng Chi cục QLTT về ATTP (ví dụ ranh giới khi chuyển giao ATTP về Sở Y tế — attp-sct-vn ref 13); xác định Đội QLTT
+  phụ trách một xã, phường.
+- **Điều 5**: hiệu lực từ ngày ký; **thay thế** QĐ 485/QĐ-UBND ngày 13/3/2025 của UBND tỉnh Yên Bái (lịch sử) và QĐ 36/2025/QĐ-UBND ngày
+  04/4/2025 của UBND tỉnh Lào Cai (lịch sử).
+

@@ -1,6 +1,6 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **905** (Luật 38, NĐ 241, TT 125, QĐ 416, NQ 42, khác 43).
+- Tổng số văn bản được trích dẫn trong 20 plugin: **910** (Luật 38, NĐ 243, TT 125, QĐ 419, NQ 42, khác 43).
 - Có trạng thái do người duy trì ghi (`trang-thai.csv`): **170**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
@@ -103,6 +103,7 @@
 - QĐ 1086/QĐ-TTG (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - QĐ 1050/QĐ-SCT (4 plugin: hl-vlncn-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn)
 - QĐ 316/QĐ-TTG (3 plugin: kccn-sct-vn, qlks-sct-vn, quy-hoach-ct-vn)
+- QĐ 53/QĐ-UBND (3 plugin: attp-sct-vn, dacn-sct-vn, sct-laocai-org-vn)
 - QĐ 767/QĐ-UBND (3 plugin: bpb-sct-vn, dacn-sct-vn, kccn-sct-vn)
 - QĐ 768/QĐ-TTG (3 plugin: dacn-sct-vn, kccn-sct-vn, quy-hoach-ct-vn)
 - NQ 19/2026/NQ-CP (4 plugin: attp-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn)

@@ -1,3 +1,9 @@
+## 18/11/2026 — attp-sct-vn 1.11.0, sct-laocai-org-vn 2.13.0: QĐ 68, 53, 1436/QĐ-UBND; Đề án Chi cục ATTP
+
+- **attp-sct-vn 1.11.0**: lưu bản gốc QĐ 68/QĐ-UBND ngày 09/01/2026 (ủy quyền đến hết 28/02/2027; Mục IX: 3 nhiệm vụ, 10 TTHC ATTP) — ref 11; ref 13 mục bổ sung Đề án thành lập Chi cục ATTP trực thuộc Sở Y tế (KL 114-KL/TW, CV 6211/SYT-TCCB).
+- **sct-laocai-org-vn 2.13.0**: lưu bản gốc QĐ 53/QĐ-UBND ngày 01/7/2025 (Chi cục QLTT) — ref 04 mục C; QĐ 1436/QĐ-UBND ngày 29/4/2026 (56 vị trí việc làm) — ref 05 mục 7.
+- `trang-thai/`: hồ sơ chuyển giao ATTP về Sở Y tế — ghi nhật ký bản hoàn thiện.
+
 ## 17/11/2026 — Lượt nâng cấp thứ Ba (hai tầng): 9 plugin (kccn, dacn, quy-hoach, attp, bvmt, qlks, xd, hc, sct-laocai-org)
 
 - Đọc toàn văn mục tầng 1 bản tin egov1 13, 16, 17/11/2026; bảng đối chiếu ở kho riêng tư (`theo-doi/nang-cap-plugin/2026-11-17.md`).

@@ -39,10 +39,11 @@ Plugin liên quan: kccn-sct-vn
 10. (18/11/2026) Bản 3 Tờ trình, dự thảo QĐ, Đề án: phân định trách nhiệm (phường lập Đề án chịu trách nhiệm số liệu, chủ trì bồi thường, di dời), bổ sung quyền lợi doanh nghiệp có căn cứ (điểm m khoản 3 Điều 124 Luật Đất đai, khoản 6 Điều 202, khoản 12 Điều 3 NQ 254)
 11. (18/11/2026) Bản 4: căn cứ khoản 9 mục V KH 134/KH-UBND (phường Yên Bái chủ trì); phương án dự phòng theo nguyện vọng doanh nghiệp (KCN phía Nam, khu cụm gần khu vực hiện nay)
 12. (18/11/2026) Bản 5: Cụm công nghiệp Âu Lâu là địa điểm tiếp nhận chính, phù hợp nguyện vọng doanh nghiệp; soạn tin nhờ anh Trung tìm tài liệu còn thiếu
+13. (18/11/2026) Bộ hồ sơ trình bản 6 đã rà soát pháp lý, PASS kiểm tra thể thức
 
 ## Bước tiếp theo
 
-- Anh Trung tìm: 8070/CAT, trả lời của Sở NN&MT, phường Yên Bái, Âu Lâu, văn bản nguyện vọng DN sang Âu Lâu, QĐ 2108/QĐ-UBND 2020, QĐ 1245/QĐ-UBND 2009, BC thẩm định CTĐT Âu Lâu 11/7/2026, văn bản dòng vốn 100 tỷ, NĐ 103/2024, QĐ 28/2026
+- Chờ 8070/CAT, ý kiến Sở NN&MT, phường Yên Bái, Âu Lâu; văn bản nguyện vọng DN sang Âu Lâu; dòng vốn 100 tỷ; tên người ký; trình UBND tỉnh trước 15/12/2026
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -59,6 +60,7 @@ Plugin liên quan: kccn-sct-vn
 - (18/11/2026) 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp
 - (18/11/2026) 18/11/2026: không phụ thuộc tài liệu cũ; căn cứ chính là Đề án 28/10, 9514, ý kiến theo 7485
 - (18/11/2026) 18/11/2026: chốt nguyện vọng mới của doanh nghiệp là di dời sang Cụm công nghiệp Âu Lâu (thay nguyện vọng ở đơn 10/5/2026)
+- (18/11/2026) Bạn yêu cầu chặt chẽ về pháp lý (18/11/2026)
 
 ## Yêu cầu riêng một lần
 
@@ -85,7 +87,8 @@ Plugin liên quan: kccn-sct-vn
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc 4077/SKHCN-QLCN, 2644/STP-XDVBQPPL, 2724/UBND-KTHT, 2362/TT-P6
 
 ### 18/11/2026
-- Việc đã làm: Tổng hợp 7/10 ý kiến trả lời 7485/SCT-CN; hoàn thiện Tờ trình kèm Phụ lục tiếp thu, giải trình; sửa dự thảo Đề án lần 2 (Luật Xây dựng 135/2025/QH15, QĐ 49/2026/QĐ-UBND, nhiệm vụ Sở Tài chính, Sở KH&CN, Sở NN&MT, Phụ lục 04, 05) và dự thảo Quyết định; Chỉnh bộ hồ sơ theo hướng có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; sửa căn cứ đất đai theo NQ 254/2025/QH15, NĐ 49/2026, NĐ 151/2025 sau rà soát độc lập; Đọc tệp nén Đầm Hồng.rar (21 tệp 2025–7/2026) Bạn gửi; chỉ lấy KH 134/KH-UBND (phường Yên Bái chủ trì) và nguyện vọng doanh nghiệp đơn 10/5/2026 vào bộ hồ sơ
-- Văn bản đã xuất: 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Quyết định phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Đề án … (Sở Công Thương chỉnh sửa, chữ đỏ).docx (bản 2); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 3); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 4); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 5)
-- Quyết định của Bạn: 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; 18/11/2026: không phụ thuộc tài liệu cũ; căn cứ chính là Đề án 28/10, 9514, ý kiến theo 7485; 18/11/2026: chốt nguyện vọng mới của doanh nghiệp là di dời sang Cụm công nghiệp Âu Lâu (thay nguyện vọng ở đơn 10/5/2026)
+- Việc đã làm: Tổng hợp 7/10 ý kiến trả lời 7485/SCT-CN; hoàn thiện Tờ trình kèm Phụ lục tiếp thu, giải trình; sửa dự thảo Đề án lần 2 (Luật Xây dựng 135/2025/QH15, QĐ 49/2026/QĐ-UBND, nhiệm vụ Sở Tài chính, Sở KH&CN, Sở NN&MT, Phụ lục 04, 05) và dự thảo Quyết định; Chỉnh bộ hồ sơ theo hướng có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; sửa căn cứ đất đai theo NQ 254/2025/QH15, NĐ 49/2026, NĐ 151/2025 sau rà soát độc lập; Đọc tệp nén Đầm Hồng.rar (21 tệp 2025–7/2026) Bạn gửi; chỉ lấy KH 134/KH-UBND (phường Yên Bái chủ trì) và nguyện vọng doanh nghiệp đơn 10/5/2026 vào bộ hồ sơ; Rà soát pháp lý độc lập bộ hồ sơ trình Đề án (Tờ trình, dự thảo Quyết định, Đề án chữ đỏ); sửa 16 điểm
+- Văn bản đã xuất: 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Quyết định phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Đề án … (Sở Công Thương chỉnh sửa, chữ đỏ).docx (bản 2); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 3); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 4); 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 5); 2026.11.18. Tờ trình phê duyệt Đề án ... Đầm Hồng (bản 6); dự thảo Quyết định (bản 6); dự thảo Đề án chữ đỏ (bản 9)
+- Quyết định của Bạn: 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; 18/11/2026: không phụ thuộc tài liệu cũ; căn cứ chính là Đề án 28/10, 9514, ý kiến theo 7485; 18/11/2026: chốt nguyện vọng mới của doanh nghiệp là di dời sang Cụm công nghiệp Âu Lâu (thay nguyện vọng ở đơn 10/5/2026); Bạn yêu cầu chặt chẽ về pháp lý (18/11/2026)
 - Câu hỏi chưa được trả lời: Bạn có tải được QĐ 2108/QĐ-UBND 2020, NĐ 103/2024/NĐ-CP, QĐ 28/2026/QĐ-UBND, QĐ 1245/QĐ-UBND 2009 để bổ sung căn cứ không
+- Việc còn dở: Đổi căn cứ thẩm quyền thu hồi đất từ Điều 5, 9, 10 NĐ 151/2025 (hết hiệu lực 31/01/2026) sang Điều 83 Luật Đất đai, khoản 1 Điều 14 NĐ 49/2026, Điều 3 QĐ 40/2026/QĐ-UBND; tổ chức theo Điều 81, 82 do UBND tỉnh thu hồi; điều kiện Điều 79-80; bổ sung điểm đ khoản 3 Điều 124 và giảm tiền thuê lại đất cho DNNVV (NĐ 303); quản lý hiện trạng dựa thủ tục cấp phép; Yên Bái chủ trì định hướng sử dụng đất sau di dời; Phụ lục 04, 05 và lộ trình (ranh giới tháng 01-02/2027 trước Bước 1)

@@ -75,6 +75,15 @@
   thì không bồi thường về đất; hết hạn thuê không gia hạn thì không áp chính sách thu hồi vì lợi ích công cộng); (3) số liệu diện tích
   từng cơ sở thống nhất giữa các phụ lục; (4) địa điểm dự phòng phải hợp loại hình cụm (không đưa tái chế phế thải, chế biến khoáng
   sản vào cụm công nghiệp công nghệ cao); (5) cơ quan chủ trì trong bảng lộ trình khớp phần phân công nhiệm vụ.
+- Bổ sung 18/11/2026 (tổng hợp ý kiến theo 7485/SCT-CN, 7/10 cơ quan trả lời): (6) căn cứ của Đề án do cấp xã lập hay còn dẫn văn bản
+  đã bị thay — Luật Đầu tư 2020 (thay bằng 143/2025/QH15), Luật Xây dựng 2014 (thay bằng 135/2025/QH15, hiệu lực 01/7/2026), quyết định
+  quy phạm của tỉnh Yên Bái cũ (vd QĐ 15/2024/QĐ-UBND đã bị QĐ 49/2026/QĐ-UBND ngày 30/6/2026 bãi bỏ) — tra `tim_van_ban.py` từng căn cứ;
+  (7) giao việc cho Sở Tài chính chỉ trong phạm vi dự án đã có chủ trương đầu tư, Giấy chứng nhận đăng ký đầu tư (Sở Tài chính không rà
+  soát nghĩa vụ tài chính về đất đai, thuế); (8) Sở KH&CN thường đề nghị đánh giá hiện trạng công nghệ, không di dời công nghệ lạc hậu,
+  cấm chuyển giao — đưa sẵn vào nguyên tắc và phân công; (9) phần cụm thuộc từng phường phải có nhiệm vụ xác định ranh giới (Sở NN&MT
+  chủ trì) trước bước rà soát pháp lý; (10) cơ quan được hỏi ý kiến mà Đề án không giao việc thì vẫn ghi tên trong phần phân công.
+  Phụ lục tổng hợp ý kiến kèm Tờ trình: bảng 4 cột (TT · cơ quan, văn bản · nội dung ý kiến · tiếp thu, giải trình), mỗi ý "đã tiếp
+  thu tại …" phải chỉ đúng mục, khoản có thật trong Đề án.
 - Diễn biến hồ sơ, văn bản đi, đến: kho riêng tư `vlncn-laocai` (`du-thao/2026.11.10-dam-hong/`, plugin `van-ban-sct-vn`).
 
 ## C. Ban Chỉ đạo phát triển KCN Võ Lao và KCN Bản Qua (QĐ 2029/QĐ-UBND ngày 10/6/2026)

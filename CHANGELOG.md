@@ -1,3 +1,9 @@
+## 18/11/2026 — kccn-sct-vn 1.67.1: điểm soát Đề án di dời CCN sau tổng hợp ý kiến; trạng thái Đầm Hồng
+
+- **kccn-sct-vn 1.67.1**: ref 45 thêm 5 điểm soát Đề án di dời (căn cứ bị thay: Luật Đầu tư 143/2025/QH15, Luật Xây dựng 135/2025/QH15,
+  QĐ 49/2026/QĐ-UBND bãi bỏ QĐ 15/2024/QĐ-UBND tỉnh Yên Bái; phạm vi Sở Tài chính; công nghệ lạc hậu; ranh giới từng phường) và cách lập
+  Phụ lục tổng hợp ý kiến; `trang-thai/ccn-dam-hong.md` ghi 7 văn bản trả lời 7485/SCT-CN.
+
 ## 18/11/2026 — attp-sct-vn 1.11.0, sct-laocai-org-vn 2.13.0: QĐ 68, 53, 1436/QĐ-UBND; Đề án Chi cục ATTP
 
 - **attp-sct-vn 1.11.0**: lưu bản gốc QĐ 68/QĐ-UBND ngày 09/01/2026 (ủy quyền đến hết 28/02/2027; Mục IX: 3 nhiệm vụ, 10 TTHC ATTP) — ref 11; ref 13 mục bổ sung Đề án thành lập Chi cục ATTP trực thuộc Sở Y tế (KL 114-KL/TW, CV 6211/SYT-TCCB).

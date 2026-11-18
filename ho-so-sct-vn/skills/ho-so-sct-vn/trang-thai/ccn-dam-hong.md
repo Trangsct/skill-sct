@@ -17,6 +17,13 @@ Plugin liên quan: kccn-sct-vn
 | 2644/STP-XDVBQPPL | 16/11/2026 | Sở Tư pháp (PGĐ Lã Thị Liền ký) | Thẩm quyền phê duyệt là UBND tỉnh (điểm g khoản 2 Điều 11 Luật Tổ chức chính quyền địa phương 72/2025/QH15), hình thức Quyết định hành chính; không có ý kiến về biện pháp quản lý hiện trạng và khoản hỗ trợ riêng của tỉnh | kho riêng tư theo-doi/2026/2644_STP-XDVBQPPL.md |
 | 2724/UBND-KTHT | 16/11/2026 | UBND phường Văn Phú (PCT Bùi Ngọc Giang ký) | Cơ bản thống nhất; đề nghị giao Sở NN&MT xác định ranh giới, diện tích, danh sách cơ sở từng phường trước Bước 1; thống nhất một cơ quan chủ trì Bước 1; Phú Thịnh 6 chỉ nhận cơ sở phù hợp tiêu chí công nghệ cao; thống nhất số hiệu 9514 hay 9154/UBND-KT | kho riêng tư theo-doi/2026/2724_UBND.md |
 | 2362/TT-P6 | 16/11/2026 | Thanh tra tỉnh (Phó Chánh Thanh tra Nguyễn Văn Nhân ký) | Nhất trí Đề án; tiếp tục xử lý ý kiến tại 2137/T-P6 ngày 22/10/2026 gửi phường Yên Bái; từ 2022 không thanh tra, kiểm tra cơ sở nào tại Đầm Hồng | kho riêng tư theo-doi/2026/2362_TT-P6.md |
+| 9288/STC-TĐ | 17/11/2026 | Sở Tài chính | Tham gia ý kiến Đề án theo 7485: lộ trình, nguồn vốn, nhiệm vụ Sở Tài chính | — |
+| 7660/SXD-PTĐT | 18/11/2026 | Sở Xây dựng | Cơ bản thống nhất; Phụ lục 04 thêm cột cơ quan chính, phối hợp | — |
+| 4077/SKHCN-QLCN | 16/11/2026 | Sở Khoa học và Công nghệ | Đánh giá hiện trạng công nghệ; không di dời công nghệ lạc hậu | — |
+| 2644/STP-XDVBQPPL | 16/11/2026 | Sở Tư pháp | Thẩm quyền UBND tỉnh, hình thức Quyết định hành chính phù hợp | — |
+| 2362/TT-P6 | 16/11/2026 | Thanh tra tỉnh | Nhất trí; không thanh tra các cơ sở từ năm 2022 | — |
+| 2724/UBND | 16/11/2026 | UBND phường Văn Phú | Ranh giới từng phường, một cơ quan chủ trì, Phú Thịnh 6, số 9514 | — |
+| 8070/CAT | 17/11/2026 | Công an tỉnh | Tham gia ý kiến thẩm định Đề án (chưa có toàn văn) | — |
 
 ## Bước đã xong
 
@@ -28,10 +35,12 @@ Plugin liên quan: kccn-sct-vn
 6. (13/11/2026) Rà soát sơ bộ dự thảo Đề án (bản 28/10/2026): 16 điểm phải sửa, trong đó căn cứ pháp lý sau NĐ 303/2026, căn cứ thu hồi đất, số liệu phụ lục, khái toán bồi thường, lộ trình
 7. (16/11/2026) Soạn Tờ trình (Giám đốc ký), dự thảo Quyết định UBND tỉnh, dự thảo Đề án đã chỉnh sửa — bản thảo trong kho riêng tư du-thao/2026.11.16-To-trinh-De-an-di-doi-CCN-Dam-Hong/
 8. (17/11/2026) Nhận 04 văn bản trả lời 7485/SCT-CN: Sở KH&CN 4077, Sở Tư pháp 2644, UBND phường Văn Phú 2724, Thanh tra tỉnh 2362 (cùng ngày 16/11/2026)
+9. (18/11/2026) Tổng hợp ý kiến 7 cơ quan theo 7485/SCT-CN, hoàn thiện Tờ trình (bản 2, 9 trang, kèm Phụ lục tiếp thu, giải trình), dự thảo Quyết định, dự thảo Đề án chỉnh sửa lần 2
 
 ## Bước tiếp theo
 
-- Sau 17/11/2026: điền đoạn tổng hợp ý kiến trả lời 7485/SCT-CN (chữ tím mục I.2 Tờ trình), lập Phụ lục tiếp thu, giải trình; xác nhận dòng vốn 100.000 triệu đồng (mục II.5.c); điền tên người ký dự thảo Quyết định
+- Điền nội dung ý kiến Công an tỉnh 8070/CAT (đã giao TAY lấy theo documentId); xác nhận Sở NN&MT, UBND phường Yên Bái, Âu Lâu có văn bản trả lời không
+- Quyết định giữ hay bỏ dòng vốn 100.000 triệu đồng HTKT CCN Đầm Hồng (di dời); điền tên người ký dự thảo Quyết định; báo UBND phường Yên Bái bản Đề án Sở đã chỉnh sửa
 - Trình Giám đốc ký Tờ trình, phát hành trình UBND tỉnh kịp mốc phê duyệt trước 15/12/2026 (Biểu 01 kèm 1146-TB/TU)
 
 ## Vướng mắc, câu hỏi còn mở
@@ -69,3 +78,7 @@ Plugin liên quan: kccn-sct-vn
 
 ### 17/11/2026
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc 4077/SKHCN-QLCN, 2644/STP-XDVBQPPL, 2724/UBND-KTHT, 2362/TT-P6
+
+### 18/11/2026
+- Việc đã làm: Tổng hợp 7/10 ý kiến trả lời 7485/SCT-CN; hoàn thiện Tờ trình kèm Phụ lục tiếp thu, giải trình; sửa dự thảo Đề án lần 2 (Luật Xây dựng 135/2025/QH15, QĐ 49/2026/QĐ-UBND, nhiệm vụ Sở Tài chính, Sở KH&CN, Sở NN&MT, Phụ lục 04, 05) và dự thảo Quyết định
+- Văn bản đã xuất: 2026.11.18. Tờ trình phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Quyết định phê duyệt Đề án … Cụm công nghiệp Đầm Hồng.docx (bản 2); 2026.11.18. Dự thảo Đề án … (Sở Công Thương chỉnh sửa, chữ đỏ).docx (bản 2)

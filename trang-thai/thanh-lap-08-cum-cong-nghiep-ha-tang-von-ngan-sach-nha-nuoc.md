@@ -24,22 +24,24 @@ Plugin liên quan: kccn-sct-vn
 4. (16/11/2026) Xã Trấn Yên gửi 649/BC-UBND ngày 16/11/2026 tiếp thu, giải trình ý kiến sở, ngành về CCN Báo Đáp
 5. (16/11/2026) Hoàn thiện Báo cáo UBND tỉnh kết quả thẩm định hồ sơ thành lập, gửi chuyên viên Trung trình ký (16/11/2026)
 6. (17/11/2026) Xã Hưng Khánh gửi 1995/UBND-TTDV giải trình ý kiến Sở NN&MT (11034/SNNMT-CCMT) theo 7554/SCT-CN, kèm bản vẽ báo cáo dự án hạ tầng
+7. (18/11/2026) Đã đọc 7226/CAT-ANKT ngày 19/10/2026 (egov1 ghi nhầm CAT-PA04, ngày 22/10), 6070/BCH-TM ngày 02/11/2026 (chỉ Báo Đáp, 60 ha, kèm tọa độ), 4190/SVHTTDL-QLPTDL ngày 09/11/2026 (06 cụm); Báo cáo đã sửa mục e, g, h theo
 
 ## Bước tiếp theo
 
-- Theo dõi số, ngày Báo cáo khi ban hành; ghi --phat-hanh
+- Theo dõi số, ngày Báo cáo khi ban hành; ghi --phat-hanh; Báo cáo chưa ký số thì thay bằng bản sửa 18/11
 - Xã Đông Cuông sửa 436, 442/BC-UBND (UBND xã trực tiếp quản lý) và tên cụm trong 437; xã Hưng Khánh sửa Tờ trình 602 (chủ đầu tư UBND xã); xã Trấn Yên hoàn thiện 3 điểm Báo Đáp — trình trước 25/11/2026
 - Đôn đốc Yên Thế, Âu Lâu, Sơn Thịnh — trình trước 25/11/2026 (mốc gia hạn tại 7370/BC-SCT), muộn nhất xong trước 31/12/2026
 - Thịnh Hưng: chờ hồ sơ nhà đầu tư theo 7384/SCT-CN (Sở VHTTDL báo hồ sơ Thịnh Hưng nhầm nội dung Báo Đáp)
+- Hỏi Bộ Chỉ huy Quân sự ý kiến về 07 cụm còn lại; hỏi Sở Văn hóa về Yên Thế
 
 ## Vướng mắc, câu hỏi còn mở
 
 - (16/11/2026) Tỷ lệ lấp đầy Yên Thế: 3103/UBND-KTHT ngày 12/11/2026 của xã Lục Yên ghi 59,49%, dự thảo Báo cáo kèm 7073/SCT-CN ghi 40,2%
-- (16/11/2026) Ý kiến 7226/CAT-PA04, 6070/BCH-TM (bản scan) và 4142, 4190/SVHTTDL chưa đọc được nội dung
 - (16/11/2026) Báo Đáp (649/BC-UBND): khoảng 40 ha chưa có văn bản phê duyệt quy hoạch, kế hoạch sử dụng đất; tổng mức đầu tư ghi 462 triệu đồng; xã đề nghị giao Ban Quản lý dự án quản lý dự án; Tờ trình đúng là 380/TTr-UBND ngày 27/10/2026 (egov1 ghi nhầm 374)
 - (17/11/2026) Số liệu lệch giữa hai Báo cáo đầu tư của xã Đông Cuông: 437/BC-UBND ghi Bắc Văn Yên lấp đầy 78,1% (32,94/42,19 ha), Đông An quy hoạch 34 ha; 440/BC-UBND ghi Bắc Văn Yên 88,2% (37,21/42,19 ha), Đông An 50 ha (42,58%) — cần thống nhất trước khi đưa vào Báo cáo thẩm định
 - (17/11/2026) 437/BC-UBND (mục V Phần 3) còn câu 'sau khi cụm công nghiệp Bắc Văn Yên được bổ sung vào quy hoạch tỉnh' — cụm đã có trong QĐ 525
 - (17/11/2026) Hưng Khánh: bản vẽ kèm 1995 ghi quy hoạch chung 25,68 ha, các khu 15 ha và 20,42 ha; Tờ trình 602 đề nghị 20 ha — đối chiếu ranh giới; câu kết 1995 đề nghị Sở Tài chính tổng hợp, trình chủ trương đầu tư (văn bản dùng chung hồ sơ CTĐT)
+- (18/11/2026) Ý kiến 4142/SVHTTDL-KHTC chưa đọc; 4190/SVHTTDL không nêu Yên Thế; Bộ Chỉ huy Quân sự mới có ý kiến riêng Báo Đáp (6070), kho chưa có ý kiến về 07 cụm còn lại; 7562 (Công an, Báo Đáp) là bản scan chưa đối chiếu số, ngày
 
 ## Quyết định của Bạn
 
@@ -61,3 +63,7 @@ Plugin liên quan: kccn-sct-vn
 
 ### 17/11/2026
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc toàn văn 442, 440, 436, 437, 649/BC-UBND, 602/TTr-UBND, 1995/UBND-TTDV
+
+### 18/11/2026
+- Việc đã làm: Đọc 7226/CAT-ANKT, 6070/BCH-TM, 4190/SVHTTDL-QLPTDL Bạn gửi; sửa mục e, g, h phần ý kiến sở, ngành trong Báo cáo thẩm định
+- Văn bản đã xuất: 2026.11.16. Báo cáo kết quả thẩm định hồ sơ thành lập các cụm công nghiệp hạ tầng vốn ngân sách nhà nước.docx (bản sửa 18/11, kèm bản bôi đỏ)

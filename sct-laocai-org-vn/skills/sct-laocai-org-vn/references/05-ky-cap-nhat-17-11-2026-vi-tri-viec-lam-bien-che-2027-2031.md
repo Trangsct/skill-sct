@@ -60,3 +60,14 @@ Hạn hoàn thành thẩm định theo CV 4673: **trước 14/11/2026**.
   Trung ương; Công văn số 4673/SNV-TCBC ngày 12/11/2026 và Công văn số 4714/SNV-TCBC ngày 13/11/2026 của Sở Nội vụ …".
 - Giai đoạn phương án biên chế: **2027–2031** (không viết 2026–2030).
 - Văn phòng Sở là đầu mối (ref 01 — Văn phòng: đề án vị trí việc làm); các phòng cung cấp sản phẩm, khối lượng công việc theo biểu.
+
+## 7. Danh mục vị trí việc làm hiện hành — QĐ 1436/QĐ-UBND ngày 29/4/2026 (bổ sung 18/11/2026)
+
+- Bản gốc Bạn gửi 18/11/2026: `van-ban-goc/2026.04.29-1436.QD.UBND-Phe-duyet-VTVL-So-Cong-Thuong.pdf` (chỉ có trên GitHub) + `.txt`
+  (3 trang thân quyết định, không kèm 3 phụ lục). Chủ tịch **Nguyễn Tuấn Anh** ký; theo Tờ trình 319/TTr-SNV ngày 20/4/2026 (Sở trình tại
+  2009/TTr-SCT ngày 14/4/2026); căn cứ NĐ 361/2025/NĐ-CP về vị trí việc làm công chức, NĐ 111/2022/NĐ-CP, QĐ 01/2026/QĐ-UBND.
+- **Điều 1**: Sở Công Thương có **56 vị trí việc làm** — 12 lãnh đạo, quản lý; 41 nghiệp vụ chuyên ngành; 03 hỗ trợ, phục vụ (Phụ lục 01);
+  bản mô tả công việc, khung năng lực (Phụ lục 02); cơ cấu ngạch công chức (Phụ lục 03). Điều 3: hiệu lực từ ngày ký.
+- Lưu ý: phê duyệt **trước** khi Sở tiếp nhận chức năng địa chất, khoáng sản (02/10/2026) — đợt rà soát 2027–2031 ở các mục trên là
+  để điều chỉnh danh mục này. Văn bản nào hỏi "quyết định phê duyệt vị trí việc làm của Sở" thì dẫn QĐ 1436/QĐ-UBND.
+

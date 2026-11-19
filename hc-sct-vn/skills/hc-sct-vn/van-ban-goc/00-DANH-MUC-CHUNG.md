@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 360 văn bản gốc (360 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 361 văn bản gốc (361 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -39,6 +39,7 @@ Thống kê: 360 văn bản gốc (360 có bản .txt) ở 20 plugin; 30 văn b�
 | QĐ 2978/2026 | 21/08/2026 | dieu chinh CTDT KCN Phu Xuan 1 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2978-2026-dieu-chinh-CTDT-KCN-Phu-Xuan-1.pdf` | có |
 | — | 21/08/2026 | BB kiem tra thuc dia 21 8 2026 ranh gioi mo Dai Dong Tien Thanh Huong Nghia Lo | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/BB-kiem-tra-thuc-dia-21-8-2026-ranh-gioi-mo-Dai-Dong-Tien-Thanh-Huong-Nghia-Lo.pdf` | có (OCR) |
 | 5116/QĐ-SCT | 20/08/2026 | giao nhiem vu lap bien ban VPHC khoang san ban ky so | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/khoang-san/2026.08.20-5116.QD.SCT-giao-nhiem-vu-lap-bien-ban-VPHC-khoang-san_ban-ky-so.pdf` | có |
+| 2927/QĐ-HD | 19/08/2026 | Tieu chi lua chon CDT CCN Tan Nguyen | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.08.19-2927.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Nguyen.pdf` | có |
 | 5085/SCT-VP | 19/08/2026 | Trien khai nhiem vu uy quyen VLNCN ban ky | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.08.19-5085.SCT.VP-Trien-khai-nhiem-vu-uy-quyen-VLNCN_ban-ky.pdf` | có |
 | 2867/QĐ-UBND | 17/08/2026 | Phu luc danh muc uy quyen ban trinh | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Phu-luc-danh-muc-uy-quyen_ban-trinh.docx` | có |
 | 2867/QĐ-UBND | 17/08/2026 | Uy quyen GD SCT linh vuc VLNCN ban ky | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.08.17-2867.QD.UBND-Uy-quyen-GD-SCT-linh-vuc-VLNCN_ban-ky.pdf` | có |

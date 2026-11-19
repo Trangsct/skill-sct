@@ -2,6 +2,8 @@
 
 > Kỳ cập nhật 18/8/2026. Đây là **bộ tiêu chí chuẩn hiện hành** khi soạn Quy định tiêu chí đánh giá lựa chọn CĐT cho CCN mới; thay cho mẫu thang điểm cũ tại reference 06 (mẫu cũ giữ làm nền Đ.13 NĐ 32/2024). File Word gốc: `vi-du-thuc-te/2026.08.18.*`.
 
+> Cập nhật 19/11/2026: bản ký Tân Nguyên là **QĐ 2927/QĐ-HĐ ngày 19/8/2026** (thay QĐ 2778/QĐ-HĐ) — bản gốc trong `van-ban-goc/`, tóm tắt ở dòng "Ban hành thay thế" mục A.
+
 > Cập nhật 23/10/2026: bộ tiêu chí này đã được ban hành bản ký cho CCN Tân Hợp tại **QĐ 3936/QĐ-HĐ ngày 22/10/2026** — **ref 51** là khuôn soạn mới nhất (bản Word trình ký, thể thức khối ký TM. HỘI ĐỒNG, căn cứ NĐ 303/2026, NĐ 48/2026). Ref này giữ cho lịch sử hình thành và giải trình tiếp thu.
 
 ## A. BỐI CẢNH VÀ QUY TRÌNH THỰC TẾ (chuỗi văn bản đã GATE)
@@ -15,6 +17,7 @@
 | Ban hành tiêu chí (lần 1) | QĐ **2778/QĐ-HĐ ngày 10/8/2026** — **Chủ tịch Hội đồng** ban hành | 23 trang |
 | Chỉ đạo hoàn chỉnh lại | Ý kiến chỉ đạo của đ/c Ngô Hạnh Phúc - PCT TT UBND tỉnh, Chủ tịch HĐ + ý kiến tham gia mới **18/8/2026 của Sở Tài chính** (Bộ tiêu chí do STC xây dựng) | |
 | Trình thay thế | Tờ trình **đề nghị thay thế QĐ 2778/QĐ-HĐ** ngày 18/8/2026 (chưa cấp số) kèm Phụ lục tiếp thu; dự thảo QĐ mới có Điều 3: "...thay thế Quyết định số 2778/QĐ-HĐ ngày 10/8/2026 của Chủ tịch Hội đồng..." | |
+| Ban hành thay thế | **QĐ 2927/QĐ-HĐ ngày 19/8/2026** của Hội đồng (TM. HỘI ĐỒNG – CHỦ TỊCH – PHÓ CHỦ TỊCH UBND TỈNH Ngô Hạnh Phúc), theo TTr **5026/TTr-SCT ngày 18/8/2026**; Điều 3 QĐ: hiệu lực từ ngày ký, thay thế QĐ 2778/QĐ-HĐ. Quy định kèm theo: **Điều 3 — 05 điều kiện tiên quyết** (khoản 2: vốn chủ sở hữu ≥ 20%/15% TVĐT, xác định theo BCTC hoặc báo cáo khoản mục vốn chủ sở hữu đã kiểm toán; "Không đánh giá Đạt khi hồ sơ không có tài liệu chứng minh"); Điều 4–5 tiêu chí, thang điểm; Điều 6 nguyên tắc (không đạt điều kiện tiên quyết thì loại, không chấm; ≥ 50 điểm); Điều 7 tổ chức thực hiện. Bản gốc: `van-ban-goc/2026.08.19-2927.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Nguyen.pdf` (+ `.txt`) | Căn cứ QĐ chỉ dẫn NĐ 32/2024 (ký trước khi NĐ 303/2026 có hiệu lực 15/9/2026). Văn bản 6930/SCT-CN ngày 23/10/2026 còn dẫn QĐ 2778 đã bị thay — từ nay dẫn QĐ 2927 |
 
 ### CCN Mông Sơn (xã Bảo Ái)
 | Bước | Văn bản |

@@ -1,3 +1,9 @@
+## 19/11/2026 — kccn-sct-vn 1.67.4: bản gốc QĐ 2927/QĐ-HĐ tiêu chí lựa chọn chủ đầu tư CCN Tân Nguyên
+
+- **kccn-sct-vn 1.67.4**: lưu `van-ban-goc/2026.08.19-2927.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Nguyen.pdf` + `.txt` (export-ignore, ≥ 3 MB);
+  ref 27 mục A ghi Điều 3 (05 điều kiện tiên quyết, khoản 2 vốn chủ sở hữu đã kiểm toán), Điều 6. Sổ cái văn bản gốc dựng lại.
+- `trang-thai/ccn-tan-nguyen.md`: công văn trả hồ sơ bản 2 dẫn khoản 2 Điều 3 Quy định kèm QĐ 2927.
+
 ## 18/11/2026 (lần 3) — kccn-sct-vn 1.67.3: thẩm quyền, điều kiện thu hồi đất khi di dời cụm công nghiệp
 
 - **kccn-sct-vn 1.67.3**: ref 45 mục 16–19 — Điều 5, 9, 10 NĐ 151/2025 hết hiệu lực từ 31/01/2026 (NĐ 49/2026); thẩm quyền theo Điều 83 Luật

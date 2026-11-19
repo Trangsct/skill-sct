@@ -350,6 +350,21 @@ q._p.getparent().remove(q._p)
 d.save(str(p))
 ghi_expect(p, ['R28 WARN'], 'Xóa dòng "- Ban Giám đốc Sở;" khỏi Nơi nhận của công văn mời họp của Sở.')
 
+# R29: khối Kính gửi nhiều nơi nhận, cơ quan đầu tiên bị kéo lên cùng dòng với "Kính gửi:" (Bạn chốt 19/11/2026).
+p = sao('sct/cong-van-moi-hop-sct.docx', 'r29-kinh-gui-nhieu-noi-cung-dong.docx')
+d = Document(str(p))
+_kg = None
+for _t in d.tables:
+    _o = _t.rows[0].cells
+    if _o[0].text.strip().startswith('Kính gửi'):
+        _kg = _o
+if _kg is None: sys.exit('R29: không tìm được khung Kính gửi')
+_dau = _kg[1].paragraphs[0]
+if _dau.text.strip(): sys.exit('R29: dòng đầu ô phải của mẫu không trống')
+_dau._p.getparent().remove(_dau._p)
+d.save(str(p))
+ghi_expect(p, ['R29 WARN'], 'Xóa dòng trống đầu ô phải của khung Kính gửi — cơ quan đầu tiên lên cùng dòng với "Kính gửi:".')
+
 # ── R23 (Bạn chốt 17/10/2026, GATE 0): số hiệu văn bản quy phạm chưa có tệp gốc trong kho ──────────
 # Dùng chung hàm dựng với tests/test_gate0.py: câu chèn lấy NGUYÊN từ mẫu thật phiếu trình UBND.
 sys.path.insert(0, str(Path('tests').resolve()))

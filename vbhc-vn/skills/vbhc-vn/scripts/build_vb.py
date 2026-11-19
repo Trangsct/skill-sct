@@ -239,6 +239,8 @@ def do_than(doc, co_kinh_gui: bool) -> tuple[int, int]:
 # (trích yếu) và khối dưới (thân) đúng một dòng trống; khối ký cách thân đúng một dòng trống.
 # Mẫu thật của Sở có hai kiểu khối Kính gửi: paragraph căn giữa (một nơi nhận) và bảng 2 ô (nhiều
 # nơi nhận) — script phải dựng đúng kiểu theo SỐ nơi nhận trong dòng [K], không theo kiểu của mẫu.
+# Bạn chốt 19/11/2026: nhiều nơi nhận thì LUÔN là khung bảng 2 cột không viền (khung_kinh_gui) —
+# mẫu chỉ có đoạn "Kính gửi" thì script tự dựng khung, không xếp danh sách bằng đoạn rời.
 
 def _phan_tu_than(doc) -> list[tuple[str, object]]:
     """Các phần tử ở cấp tài liệu theo thứ tự đọc: ('p', Paragraph) hoặc ('t', Table)."""
@@ -297,6 +299,62 @@ def _p_moi_tu_khuon(khuon, text: str, cang_giua: bool):
     return p
 
 
+def khung_kinh_gui(doc, ds: list[str], khuon):
+    """Khung khối Kính gửi NHIỀU nơi nhận (Bạn chốt 19/11/2026 — bản Bạn sửa tay; sổ lỗi L017; R29).
+
+    Bảng 2 cột không viền, rộng hết phần thân (tỷ lệ cột 3369 : 5919 như bản Bạn sửa tay):
+      hàng 1: ô trái "Kính gửi:" căn PHẢI, ô phải để trống;
+      hàng 2…: ô trái trống, ô phải mỗi cơ quan một hàng ("- A;" … "- Z."), căn trái.
+    Cơ quan đầu tiên vì thế xuống một dòng so với "Kính gửi:", các gạch đầu dòng thẳng cột.
+    Trả phần tử w:tbl CHƯA gắn vào thân.
+    """
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+    from docx.shared import Pt
+    sec = doc.sections[0]
+    rong = int((sec.page_width - sec.left_margin - sec.right_margin) / 635)   # EMU → twip
+    w1 = round(rong * 3369 / 9288); w2 = rong - w1
+    bang = doc.add_table(rows=1 + len(ds), cols=2)
+    tbl = bang._tbl
+    tblPr = tbl.tblPr
+    for the in ("w:tblStyle", "w:tblBorders", "w:tblLayout", "w:tblW"):
+        cu = tblPr.find(qn(the))
+        if cu is not None:
+            tblPr.remove(cu)
+    tw = OxmlElement("w:tblW"); tw.set(qn("w:w"), str(rong)); tw.set(qn("w:type"), "dxa"); tblPr.append(tw)
+    vien = OxmlElement("w:tblBorders")
+    for canh in ("top", "left", "bottom", "right", "insideH", "insideV"):
+        x = OxmlElement("w:" + canh)
+        x.set(qn("w:val"), "none"); x.set(qn("w:sz"), "0"); x.set(qn("w:space"), "0"); x.set(qn("w:color"), "auto")
+        vien.append(x)
+    tblPr.append(vien)
+    lay = OxmlElement("w:tblLayout"); lay.set(qn("w:type"), "fixed"); tblPr.append(lay)
+    for gc, w in zip(tbl.tblGrid.findall(qn("w:gridCol")), (w1, w2)):
+        gc.set(qn("w:w"), str(w))
+
+    def ghi(o, text, can):
+        p_moi = _p_moi_tu_khuon(khuon, text, cang_giua=False)
+        p_moi.alignment = can
+        pf = p_moi.paragraph_format
+        pf.left_indent = None; pf.right_indent = None
+        pf.space_before = Pt(0); pf.space_after = Pt(0)
+        cu = o.paragraphs[0]._p
+        cu.addprevious(p_moi._p)
+        cu.getparent().remove(cu)
+
+    for i, hang in enumerate(bang.rows):
+        for o, w in zip(hang.cells, (w1, w2)):
+            tcPr = o._tc.get_or_add_tcPr()
+            tcw = tcPr.find(qn("w:tcW"))
+            if tcw is None:
+                tcw = OxmlElement("w:tcW"); tcPr.insert(0, tcw)
+            tcw.set(qn("w:w"), str(w)); tcw.set(qn("w:type"), "dxa")
+        ghi(hang.cells[0], "Kính gửi:" if i == 0 else "", WD_ALIGN_PARAGRAPH.RIGHT)
+        ghi(hang.cells[1], "" if i == 0 else ds[i - 1], WD_ALIGN_PARAGRAPH.LEFT)
+    tbl.getparent().remove(tbl)
+    return tbl
+
+
 def dat_kinh_gui(doc, dong: str, khuon) -> None:
     """Dựng khối Kính gửi đúng thể thức theo SỐ nơi nhận (xem ghi chú đầu mục)."""
     muc = tach_noi_nhan(dong)
@@ -351,12 +409,11 @@ def dat_kinh_gui(doc, dong: str, khuon) -> None:
             viet(o_trai.paragraphs[0], "Kính gửi:", dam=False, nghieng=False)
         return
     if p_kg is not None:
-        viet(p_kg, "Kính gửi:", dam=False, nghieng=False)
-        truoc = p_kg
-        for dong_ds in ds:
-            p_moi = _p_moi_tu_khuon(khuon, dong_ds, cang_giua=False)
-            truoc._p.addnext(p_moi._p)
-            truoc = p_moi
+        # Mẫu chỉ có đoạn "Kính gửi" (mẫu gửi một nơi) mà văn bản gửi nhiều nơi: dựng KHUNG bảng
+        # 2 cột không viền (Bạn chốt 19/11/2026, sổ lỗi L017, R29) rồi bỏ đoạn cũ.
+        tbl = khung_kinh_gui(doc, ds, khuon)
+        p_kg._p.addprevious(tbl)
+        p_kg._p.getparent().remove(p_kg._p)
 
 
 def cach_mot_dong_truoc_khoi_ky(doc, khuon) -> None:

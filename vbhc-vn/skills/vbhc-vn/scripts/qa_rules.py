@@ -1604,6 +1604,49 @@ def rule_R27(doc, ctx) -> list[Finding]:
     return []
 
 
+def rule_R29(doc, ctx) -> list[Finding]:
+    """R29 — Khối Kính gửi NHIỀU nơi nhận trong văn bản của Sở phải đặt trong KHUNG bảng 2 cột không viền.
+
+    Quy tắc: gửi từ hai cơ quan trở lên → bảng 2 cột không viền: ô trái "Kính gửi:" căn phải; cột phải
+    là danh sách "- A;" … "- Z.", cơ quan đầu tiên XUỐNG MỘT DÒNG so với "Kính gửi:" (hàng riêng hoặc
+    dòng trống đầu ô phải). Không xếp danh sách bằng đoạn rời, tab, lề treo, bảng một cột, và không để
+    cơ quan đầu tiên cùng dòng với "Kính gửi:".
+    Nguồn: Bạn chốt 19/11/2026 (bản Bạn sửa tay công văn gửi ba cơ quan); sổ lỗi L017; Quy tắc 27(a);
+    Nghị định 30/2020/NĐ-CP Phụ lục I (gửi hai nơi trở lên thì xuống dòng, gạch đầu dòng thẳng hàng).
+    Mức: WARN — chỉ xét văn bản ký hiệu của Sở (/SCT…); mẫu thật cấp UBND tỉnh căn bằng cách khác.
+    """
+    if not re.search(r"Số\s*:[\s\d.…]*/\s*[\w-]*SCT", ctx.full_text):
+        return []
+    kg = _khoi_kinh_gui(doc, ctx)
+    if kg is None:
+        return []
+    loc, cung_cho, muc = kg
+    if len(muc) < 2:
+        return []
+    m = re.match(r"bảng (\d+) ô \[(\d+),(\d+)\]", loc)
+    ly_do = None
+    if not m:
+        ly_do = "danh sách cơ quan xếp bằng đoạn rời, chưa đặt trong khung bảng"
+    elif cung_cho:
+        ly_do = "cơ quan nhận nằm chung ô với 'Kính gửi:'"
+    else:
+        ti, ri, ci = (int(x) for x in m.groups())
+        hang = doc.tables[ti].rows[ri]
+        o = list(hang.cells)
+        if len(o) < 2:
+            ly_do = "khung chỉ có một cột"
+        else:
+            dong_dau = nfc(o[ci + 1].paragraphs[0].text).strip() if ci + 1 < len(o) else ""
+            if dong_dau:
+                ly_do = "cơ quan đầu tiên nằm cùng dòng với 'Kính gửi:' (phải xuống một dòng)"
+    if ly_do is None:
+        return []
+    return [Finding(
+        "R29", WARN, loc, cut("Kính gửi: " + "; ".join(muc)),
+        f"Khối Kính gửi {len(muc)} nơi nhận: {ly_do}. Dựng khung bảng 2 cột không viền — ô trái 'Kính gửi:' "
+        "căn phải, cột phải mỗi cơ quan một dòng bắt đầu từ dòng thứ hai (build_vb.py tự dựng từ dòng [K]).")]
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1633,6 +1676,7 @@ RULES = [
     ("R26", rule_R26),
     ("R27", rule_R27),
     ("R28", rule_R28),
+    ("R29", rule_R29),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

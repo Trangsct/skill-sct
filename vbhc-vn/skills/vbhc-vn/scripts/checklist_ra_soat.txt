@@ -22,7 +22,8 @@ A. HÌNH THỨC (máy sửa được — Claude tự sửa bằng script, chạy
     lần sửa trước, số liệu cũ, tên file cũ.                                                           [8]  Nhóm F, R14
 10. Quốc hiệu "CỘNG HÒA", tiêu ngữ en dash; dòng ngày điền sẵn tháng, năm, để trống ngày; "Lưu: VT, CN(Tên)."
     ghi tên chuyên viên (trừ GP/GCN TTHC); kết thúc "./.".                                            mắt Nhóm G, R07 (qa_all.py)
-11. "Kính gửi" không đậm; Kính gửi một nơi nhận trên một dòng; Kính gửi ↔ Nơi nhận "Như trên" nhất quán. mắt Nhóm G, R04, R16
+11. "Kính gửi" không đậm; Kính gửi một nơi nhận trên một dòng; nhiều nơi nhận đặt trong khung bảng 2 cột không
+    viền, cơ quan đầu thấp hơn "Kính gửi:" một dòng; Kính gửi ↔ Nơi nhận "Như trên" nhất quán.        mắt Nhóm G, R04, R16, R29
 
 B. NỘI DUNG (nêu cho Bạn gọn, kèm hướng xử lý Claude đã chọn)
 12. "Ủy ban nhân dân" viết đầy đủ trong thân văn bản, không viết tắt UBND; riêng khối Nơi nhận và

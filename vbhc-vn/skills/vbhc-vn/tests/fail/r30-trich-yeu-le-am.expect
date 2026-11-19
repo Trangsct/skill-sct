@@ -1,0 +1,4 @@
+# File lỗi NHÂN TẠO — sinh bằng tests/tao_file_loi.py từ bản sao mẫu thật.
+# Đặt lề trái, lề phải -0,6 cm cho đoạn trích yếu "V/v" trong bảng đầu trang.
+nguon: examples/sct/cong-van-moi-hop-sct.docx
+R30 FAIL

@@ -365,6 +365,19 @@ _dau._p.getparent().remove(_dau._p)
 d.save(str(p))
 ghi_expect(p, ['R29 WARN'], 'Xóa dòng trống đầu ô phải của khung Kính gửi — cơ quan đầu tiên lên cùng dòng với "Kính gửi:".')
 
+# R30: trích yếu "V/v" nới bằng lề đoạn âm (Bạn chỉ ra 19/11/2026: Word cắt chữ hai bên khi xuất PDF).
+p = sao('sct/cong-van-moi-hop-sct.docx', 'r30-trich-yeu-le-am.docx')
+d = Document(str(p))
+q = None
+for _r in d.tables[0].rows:
+    for _c in _r.cells:
+        for _p in _c.paragraphs:
+            if _p.text.strip().lower().startswith('v/v'): q = _p
+if q is None: sys.exit('R30: không tìm được ô V/v')
+q.paragraph_format.left_indent = Cm(-0.6); q.paragraph_format.right_indent = Cm(-0.6)
+d.save(str(p))
+ghi_expect(p, ['R30 FAIL'], 'Đặt lề trái, lề phải -0,6 cm cho đoạn trích yếu "V/v" trong bảng đầu trang.')
+
 # ── R23 (Bạn chốt 17/10/2026, GATE 0): số hiệu văn bản quy phạm chưa có tệp gốc trong kho ──────────
 # Dùng chung hàm dựng với tests/test_gate0.py: câu chèn lấy NGUYÊN từ mẫu thật phiếu trình UBND.
 sys.path.insert(0, str(Path('tests').resolve()))

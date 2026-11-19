@@ -1,3 +1,8 @@
+## 19/11/2026 (lần 3) — vbhc-vn 2.43.0: cấm lề đoạn âm ở trích yếu công văn
+
+- **vbhc-vn 2.43.0**: trích yếu nới bằng lề đoạn âm bị Word cắt chữ hai bên khi xuất PDF → `noi_o_trich_yeu.py` nới ô bằng lưới bảng;
+  R30 (FAIL) + file lỗi; sổ lỗi L018; L015 sửa cách chỉnh.
+
 ## 19/11/2026 (lần 2) — vbhc-vn 2.42.0: khung khối Kính gửi nhiều nơi nhận
 
 - **vbhc-vn 2.42.0**: Kính gửi từ hai cơ quan trở lên dựng khung bảng 2 cột không viền, ô trái "Kính gửi:" căn phải, cơ quan đầu

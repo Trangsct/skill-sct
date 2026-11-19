@@ -1647,6 +1647,29 @@ def rule_R29(doc, ctx) -> list[Finding]:
         "căn phải, cột phải mỗi cơ quan một dòng bắt đầu từ dòng thứ hai (build_vb.py tự dựng từ dòng [K]).")]
 
 
+def rule_R30(doc, ctx) -> list[Finding]:
+    """R30 — Bảng đầu trang (tên cơ quan, số, trích yếu "V/v") không được có lề đoạn ÂM.
+
+    Quy tắc: không nới trích yếu bằng w:ind left/right âm. Chữ tràn ra ngoài ô bảng bị Word CẮT khi xuất
+    PDF (máy lãnh đạo, hệ thống ký số) dù bản dựng LibreOffice vẫn đủ chữ. Nới ô bằng lưới bảng:
+    `python3 scripts/noi_o_trich_yeu.py <file>.docx`.
+    Nguồn: Bạn chỉ ra 19/11/2026 (trích yếu công văn bị che mất hai bên khi chuyển PDF); sổ lỗi L018; Nhóm G.
+    Mức: FAIL.
+    """
+    if not doc.tables:
+        return []
+    out: list[Finding] = []
+    for ind in doc.tables[0]._tbl.iter(qn("w:ind")):
+        am = [a for a in ("left", "right", "start", "end") if (ind.get(qn("w:" + a)) or "").strip().startswith("-")]
+        if am:
+            chu = nfc("".join(ind.getparent().getparent().itertext())).strip()
+            out.append(Finding(
+                "R30", FAIL, "bảng đầu trang", cut(chu),
+                "Đoạn trong bảng đầu trang có lề âm → Word cắt chữ hai bên khi xuất PDF. Chạy "
+                "scripts/noi_o_trich_yeu.py để nới ô bằng lưới bảng, bỏ lề âm."))
+    return out
+
+
 RULES = [
     ("R01", rule_R01),
     ("R02", rule_R02),
@@ -1677,6 +1700,7 @@ RULES = [
     ("R27", rule_R27),
     ("R28", rule_R28),
     ("R29", rule_R29),
+    ("R30", rule_R30),
 ]
 
 MA_HOP_LE = {ma for ma, _ in RULES}

@@ -72,7 +72,7 @@ máy chủ là "không có" khi chưa tra bằng cả hai cách.
 Sau khi file .docx đã dựng xong, TRƯỚC khi giao Bạn. Hai việc chạy SONG SONG, không nối tiếp:
 
 1. **Claude** chạy MỘT lệnh: `python3 scripts/kiem_tra_truoc_khi_giao.py <file>.docx --tu-sua [--final]` — gộp `qa_all.py`
-   (R01–R29), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
+   (R01–R30), `cite_check.py`, `ra_soat_doc_lap.py`; tự sửa lỗi hình thức máy sửa được (phông, Nơi nhận cỡ 11, một dòng
    trước khối ký, một dòng sau Kính gửi, bảng nội dung nền trắng căn giữa dọc, bảng Nơi nhận - ký căn trên để dòng "Nơi nhận:" ngang dòng chức vụ, báo dòng Lưu thiếu tên chuyên viên) rồi kiểm lại.
 2. **Tác tử phụ chưa tham gia soạn** (công cụ Agent, chạy nền) nhận đúng lời giao sau, không kèm bối cảnh phiên:
 
@@ -174,8 +174,9 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 | QA một phát (thể thức + nội dung + ảnh render) | `python3 scripts/qa_all.py <file>.docx` |
 | Bản Bạn yêu cầu hoàn thiện để xuất bản | `python3 scripts/qa_all.py <file>.docx --final` |
 | Kiểm nội dung bắt buộc có / cấm có | `... --forbid "<cụm cũ>" --require "<cụm mới>"` |
-| Chỉ bộ quy tắc R01–R29, không render | `python3 scripts/qa_rules.py <file>.docx` |
+| Chỉ bộ quy tắc R01–R30, không render | `python3 scripts/qa_rules.py <file>.docx` |
 | Đo trích yếu công văn (số dòng, cân tâm, cách chữ "CỘNG") | `python3 scripts/do_trich_yeu.py <file>.docx` |
+| Nới ô trích yếu bằng lưới bảng, bỏ lề đoạn âm (R30, L018) | `python3 scripts/noi_o_trich_yeu.py <file>.docx [--them 300]` |
 | Chuẩn hóa trước khi xuất: phông, Nơi nhận cỡ 11, 1 dòng trước khối ký (Quy tắc 11) | `python3 scripts/chuan_hoa_xuat_ban.py <file>.docx [--tthc]` |
 | Đánh số trang cho file từ 2 trang trở lên (Bạn chốt 17/11/2026; sổ lỗi L016) | `python3 scripts/them_so_trang.py <file>.docx` (thêm `--check` để chỉ kiểm) |
 | Đối chiếu số hiệu văn bản với kho đã kiểm chứng | `python3 scripts/cite_check.py <file>.docx` |
@@ -189,7 +190,7 @@ bản; ghi một mục vào `reference/so-loi-tu-ghi.md` (lỗi thể thức chu
 máy thì thêm quy tắc R theo `HUONG_DAN_CAP_NHAT.md`; tăng bản plugin; báo một dòng "Đã ghi lỗi này vào [plugin] bản [số]".
 Yêu cầu "chỉ lần này" không thành quy tắc — ghi vào tệp trạng thái hồ sơ.
 
-`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R29 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
+`qa_all.py` đã gộp bộ quy tắc máy kiểm R01–R30 thành mục 1b, nên chạy một lệnh là đủ. Ý nghĩa
 từng mã quy tắc: `tests/rule-inventory.md`. Quy trình khi phát hiện lỗi mới (thêm hàm kiểm và
 trường hợp thử, KHÔNG thêm văn xuôi): `HUONG_DAN_CAP_NHAT.md`.
 
@@ -207,7 +208,7 @@ trước khi trình ký. Mỗi nhóm một dòng để nhớ:
 | **D** Hiệu lực | VBPL viện dẫn phải còn hiệu lực **và ĐÃ có hiệu lực tại ngày ký** | R05 |
 | **E** PDF | Nguồn là PDF thì chạy `extract_metadata.py`, không tin context (layout 2 cột) | — (quy trình) |
 | **F** Không rebuild | File người dùng tải lên thì sửa trực tiếp file đó; chưa diff toàn văn thì mặc định coi là ĐÃ có sửa tay | R14 |
-| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN(Tên).` (16/11/2026, R07); Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Nơi nhận xếp theo vị thế cơ quan nhà nước, doanh nghiệp đứng riêng dòng sau cùng (trên Văn phòng, Lưu)**; **Nơi nhận có Ban Giám đốc Sở, trừ Giấy phép, Giấy chứng nhận thủ tục hành chính (16/11/2026, R22, R28)**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **bảng Nơi nhận - ký căn trên, dòng "Nơi nhận:" ngang dòng chức vụ người ký (23/10/2026, R26)**; **trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng, cân tâm với khối tên cơ quan, rộng hơn mỗi bên 0,5-1 cm, không chạm đường thẳng đứng chữ "CỘNG" (10/11/2026, R27, `do_trich_yeu.py`, sổ lỗi L015)**; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; **Kính gửi nhiều nơi: khung bảng 2 cột không viền, ô trái "Kính gửi:" căn phải, cơ quan đầu thấp hơn một dòng (19/11/2026, R29, sổ lỗi L017)**; "Ủy ban nhân dân" viết "UBND" ở Nơi nhận và bảng phụ lục, viết đầy đủ trong thân (phần căn cứ chờ Bạn chốt); biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22, R24–R29 |
+| **G** Thể thức từ sửa tay | Ngày để trống ngày, điền sẵn tháng/năm; `Lưu: VT, CN(Tên).` (16/11/2026, R07); Kính gửi ↔ Nơi nhận "Như trên" nhất quán; **Nơi nhận xếp theo vị thế cơ quan nhà nước, doanh nghiệp đứng riêng dòng sau cùng (trên Văn phòng, Lưu)**; **Nơi nhận có Ban Giám đốc Sở, trừ Giấy phép, Giấy chứng nhận thủ tục hành chính (16/11/2026, R22, R28)**; dòng Nơi nhận cỡ 11; khối ký cách thân 1 dòng; **bảng Nơi nhận - ký căn trên, dòng "Nơi nhận:" ngang dòng chức vụ người ký (23/10/2026, R26)**; **trích yếu công văn một đoạn liền, tự xuống dòng, tối đa 3-4 dòng, cân tâm với khối tên cơ quan, rộng hơn mỗi bên 0,5-1 cm, không chạm đường thẳng đứng chữ "CỘNG" (10/11/2026, R27, `do_trich_yeu.py`, sổ lỗi L015); nới ô bằng lưới bảng `noi_o_trich_yeu.py`, cấm lề đoạn âm trong bảng đầu trang vì Word cắt chữ khi xuất PDF (19/11/2026, R30, L018)**; **sau Kính gửi cách 1 dòng, ô ký cao tương ứng khối Nơi nhận (17/10/2026)**; **Kính gửi nhiều nơi: khung bảng 2 cột không viền, ô trái "Kính gửi:" căn phải, cơ quan đầu thấp hơn một dòng (19/11/2026, R29, sổ lỗi L017)**; "Ủy ban nhân dân" viết "UBND" ở Nơi nhận và bảng phụ lục, viết đầy đủ trong thân (phần căn cứ chờ Bạn chốt); biên bản có ô Đạt/Không đạt thì giữ nguyên, không tự điền | R04, R06, R07, R20–R22, R24–R30 |
 | **H** Toàn vẹn trình bày | Không gán `run.text` cho run neo shape Line; Số/Ngày 13pt tường minh, ngày nghiêng; không widow word; khối ký không gãy trang; **keepNext chỉ cho đề mục**; cấm `trHeight` bảng nội dung | LINES, SZ13, WIDOW, SIGSPLIT, SIGSPACE, [F] |
 | **I** Gửi doanh nghiệp | Không nêu mốc hiệu lực giấy tờ mà DN chưa vi phạm; không viết "đề nghị liên hệ Phòng … để được hướng dẫn" trong công văn hoàn thiện hồ sơ TTHC | R10 (một phần) |
 | **J** Giọng giải thích | Mỗi câu phải nêu QUY ĐỊNH, YÊU CẦU hoặc SỰ VIỆC. Câu đánh giá mức độ, so sánh dễ - khó, dẫn dắt tâm lý → bỏ | R10 |
@@ -263,7 +264,7 @@ SKILL.md chỉ giữ phần lõi và bảng định tuyến; chi tiết nằm �
 | `nd30-phu-luc-2-viet-hoa.md` | Gặp trường hợp viết hoa không chắc chắn — KHÔNG đoán |
 | `nd30-phu-luc-3-viet-tat-mau.md` | Cần ký hiệu chuẩn cho loại văn bản chưa có trong `templates/` |
 
-Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R29) · `cite_check.py` (đối chiếu số hiệu)
+Script: `kiem_tra_truoc_khi_giao.py` (một lệnh trước khi giao) · `ra_soat_doc_lap.py` (số đo GATE cuối) · `qa_all.py` (QA một phát) · `qa_rules.py` (R01–R30) · `cite_check.py` (đối chiếu số hiệu)
 · `build_vb.py` (dựng từ nội dung dạng thẻ) · `build_bao_cao_phong.py` · `fill_template.py`
 · `extract_metadata.py` (đọc PDF) · `normalize_body.py` (định dạng ẩn, Nhóm N) · `fit_pages.py` (căn trang hợp đồng, Quy tắc 28) · `fix_quoc_hieu.py` · `qa_pdf_check.py` · `check_document.py`.
 

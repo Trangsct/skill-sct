@@ -43,7 +43,7 @@ Plugin liên quan: kccn-sct-vn
 
 ## Bước tiếp theo
 
-- Chờ 8070/CAT, ý kiến Sở NN&MT, phường Yên Bái, Âu Lâu; văn bản nguyện vọng DN sang Âu Lâu; dòng vốn 100 tỷ; tên người ký; trình UBND tỉnh trước 15/12/2026
+- Trình ký, phát hành công văn đề nghị phường Yên Bái hoàn thiện Đề án; nhận Đề án hoàn thiện trước 27/11/2026 rồi trình UBND tỉnh trước 15/12/2026
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -61,6 +61,7 @@ Plugin liên quan: kccn-sct-vn
 - (18/11/2026) 18/11/2026: không phụ thuộc tài liệu cũ; căn cứ chính là Đề án 28/10, 9514, ý kiến theo 7485
 - (18/11/2026) 18/11/2026: chốt nguyện vọng mới của doanh nghiệp là di dời sang Cụm công nghiệp Âu Lâu (thay nguyện vọng ở đơn 10/5/2026)
 - (18/11/2026) Bạn yêu cầu chặt chẽ về pháp lý (18/11/2026)
+- (19/11/2026) Bạn yêu cầu văn bản đề nghị phường hoàn thiện Đề án trước khi Sở trình (19/11/2026)
 
 ## Yêu cầu riêng một lần
 
@@ -92,3 +93,9 @@ Plugin liên quan: kccn-sct-vn
 - Quyết định của Bạn: 18/11/2026: chỉnh Đề án, Tờ trình sao cho có lợi cho Sở Công Thương và doanh nghiệp thứ cấp; 18/11/2026: không phụ thuộc tài liệu cũ; căn cứ chính là Đề án 28/10, 9514, ý kiến theo 7485; 18/11/2026: chốt nguyện vọng mới của doanh nghiệp là di dời sang Cụm công nghiệp Âu Lâu (thay nguyện vọng ở đơn 10/5/2026); Bạn yêu cầu chặt chẽ về pháp lý (18/11/2026)
 - Câu hỏi chưa được trả lời: Bạn có tải được QĐ 2108/QĐ-UBND 2020, NĐ 103/2024/NĐ-CP, QĐ 28/2026/QĐ-UBND, QĐ 1245/QĐ-UBND 2009 để bổ sung căn cứ không
 - Việc còn dở: Đổi căn cứ thẩm quyền thu hồi đất từ Điều 5, 9, 10 NĐ 151/2025 (hết hiệu lực 31/01/2026) sang Điều 83 Luật Đất đai, khoản 1 Điều 14 NĐ 49/2026, Điều 3 QĐ 40/2026/QĐ-UBND; tổ chức theo Điều 81, 82 do UBND tỉnh thu hồi; điều kiện Điều 79-80; bổ sung điểm đ khoản 3 Điều 124 và giảm tiền thuê lại đất cho DNNVV (NĐ 303); quản lý hiện trạng dựa thủ tục cấp phép; Yên Bái chủ trì định hướng sử dụng đất sau di dời; Phụ lục 04, 05 và lộ trình (ranh giới tháng 01-02/2027 trước Bước 1)
+
+### 19/11/2026
+- Việc đã làm: Soạn công văn đề nghị UBND phường Yên Bái hoàn thiện Đề án (gửi kèm Đề án chữ đỏ bản 9)
+- Văn bản đã xuất: 2026.11.19. Công văn đề nghị UBND phường Yên Bái hoàn thiện Đề án ... Đầm Hồng (bản 1)
+- Quyết định của Bạn: Bạn yêu cầu văn bản đề nghị phường hoàn thiện Đề án trước khi Sở trình (19/11/2026)
+- Việc còn dở: Hạn phường gửi lại 27/11/2026 (Claude chọn, chờ Bạn chốt); yêu cầu thống nhất số liệu Phụ lục 01-02 (dòng Cộng Phụ lục 01 sai), văn bản nguyện vọng DN sang Âu Lâu, quy hoạch đô thị khu Đầm Hồng

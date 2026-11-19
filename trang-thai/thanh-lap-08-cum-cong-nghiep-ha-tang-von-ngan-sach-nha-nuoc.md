@@ -38,10 +38,12 @@ Plugin liên quan: kccn-sct-vn
 
 - (16/11/2026) Tỷ lệ lấp đầy Yên Thế: 3103/UBND-KTHT ngày 12/11/2026 của xã Lục Yên ghi 59,49%, dự thảo Báo cáo kèm 7073/SCT-CN ghi 40,2%
 - (16/11/2026) Báo Đáp (649/BC-UBND): khoảng 40 ha chưa có văn bản phê duyệt quy hoạch, kế hoạch sử dụng đất; tổng mức đầu tư ghi 462 triệu đồng; xã đề nghị giao Ban Quản lý dự án quản lý dự án; Tờ trình đúng là 380/TTr-UBND ngày 27/10/2026 (egov1 ghi nhầm 374)
-- (17/11/2026) Số liệu lệch giữa hai Báo cáo đầu tư của xã Đông Cuông: 437/BC-UBND ghi Bắc Văn Yên lấp đầy 78,1% (32,94/42,19 ha), Đông An quy hoạch 34 ha; 440/BC-UBND ghi Bắc Văn Yên 88,2% (37,21/42,19 ha), Đông An 50 ha (42,58%) — cần thống nhất trước khi đưa vào Báo cáo thẩm định
 - (17/11/2026) 437/BC-UBND (mục V Phần 3) còn câu 'sau khi cụm công nghiệp Bắc Văn Yên được bổ sung vào quy hoạch tỉnh' — cụm đã có trong QĐ 525
 - (17/11/2026) Hưng Khánh: bản vẽ kèm 1995 ghi quy hoạch chung 25,68 ha, các khu 15 ha và 20,42 ha; Tờ trình 602 đề nghị 20 ha — đối chiếu ranh giới; câu kết 1995 đề nghị Sở Tài chính tổng hợp, trình chủ trương đầu tư (văn bản dùng chung hồ sơ CTĐT)
 - (18/11/2026) Còn thiếu: bản rõ 7562 (Công an, Báo Đáp; Báo cáo ghi 7562/CAT-ANKT ngày 30/10/2026 chưa đối chiếu); ý kiến Bộ Chỉ huy Quân sự về 07 cụm ngoài Báo Đáp (kho chỉ có 6070); toàn văn 7554/SCT-CN ngày 11/11/2026; Tờ trình 324/TTr-UBND (Yên Thế), 247/TTr-UBND và 542/BC-UBND (Sơn Thịnh), 380/TTr-UBND (Báo Đáp), bản rõ 483/TTr-UBND (Âu Lâu), 578/TTr-UBND (Hưng Khánh); các thông báo kêu gọi và kết thúc tiếp nhận hồ sơ chủ đầu tư dẫn trong Báo cáo mục II.1
+- (19/11/2026) Lấp đầy Bắc Văn Yên ba số khác nhau: 437/BC-UBND 78,1% (32,94/42,19 ha); 440/BC-UBND 88,2% (37,21/42,19 ha, chỗ khác ghi 21,84/42,7 ha); 436 ghi 04 tổ chức 36,63 ha — cần xã Đông Cuông chốt một số (Đông An 34 ha là quy hoạch cũ, QĐ 525 nâng lên 50 ha — không lệch)
+- (19/11/2026) Dự thảo QĐ thành lập 06 cụm (bản 14/10/2026 kèm 7073) thiếu điểm d (diện tích đất tối thiểu cho doanh nghiệp công nghệ cao tư nhân, nhỏ và vừa, khởi nghiệp sáng tạo thuê) và điểm h (thời hạn hoạt động của dự án) khoản 1 Điều 12 NĐ 32/2024 sửa bởi khoản 6 Điều 1 NĐ 303/2026 (hiệu lực 15/9/2026); dòng 'Theo đề nghị' còn ghi Tờ trình …/TTr-SCT tháng 10
+- (19/11/2026) Xã Đông Cuông (436, 442/BC-UBND) và Hưng Khánh (602/TTr-UBND) đến 19/11/2026 chưa gửi bản sửa phần Trung tâm Dịch vụ tổng hợp xã
 
 ## Quyết định của Bạn
 
@@ -67,3 +69,6 @@ Plugin liên quan: kccn-sct-vn
 ### 18/11/2026
 - Việc đã làm: Đọc 7226/CAT-ANKT, 6070/BCH-TM, 4190/SVHTTDL-QLPTDL Bạn gửi; sửa mục e, g, h phần ý kiến sở, ngành trong Báo cáo thẩm định; Rà tài liệu còn thiếu; phát hiện 4142/SVHTTDL-KHTC đã có toàn văn trong kho (thống nhất cả 08 cụm), sửa lại mục h Báo cáo; soạn tin nhờ anh Trung tìm tài liệu còn thiếu
 - Văn bản đã xuất: 2026.11.16. Báo cáo kết quả thẩm định hồ sơ thành lập các cụm công nghiệp hạ tầng vốn ngân sách nhà nước.docx (bản sửa 18/11, kèm bản bôi đỏ)
+
+### 19/11/2026
+- Việc đã làm: Rà văn bản đến đến 19/11/2026 xem đủ trình tỉnh chưa: không có văn bản đến mới của 8 cụm sau 16/11; đối chiếu dự thảo QĐ thành lập 14/10 với khoản 1 Điều 12 (sửa bởi NĐ 303/2026)

@@ -1,3 +1,13 @@
+## 19/11/2026 (lần 3) — vbhc-vn 2.43.0: cấm lề đoạn âm ở trích yếu công văn
+
+- **vbhc-vn 2.43.0**: trích yếu nới bằng lề đoạn âm bị Word cắt chữ hai bên khi xuất PDF → `noi_o_trich_yeu.py` nới ô bằng lưới bảng;
+  R30 (FAIL) + file lỗi; sổ lỗi L018; L015 sửa cách chỉnh.
+
+## 19/11/2026 (lần 2) — vbhc-vn 2.42.0: khung khối Kính gửi nhiều nơi nhận
+
+- **vbhc-vn 2.42.0**: Kính gửi từ hai cơ quan trở lên dựng khung bảng 2 cột không viền, ô trái "Kính gửi:" căn phải, cơ quan đầu
+  thấp hơn một dòng (Bạn chốt 19/11/2026 theo bản sửa tay). `build_vb.py` tự dựng khung; R29 (WARN) + file lỗi; sổ lỗi L017; Quy tắc 27(a).
+
 ## 19/11/2026 — kccn-sct-vn 1.67.4: bản gốc QĐ 2927/QĐ-HĐ tiêu chí lựa chọn chủ đầu tư CCN Tân Nguyên
 
 - **kccn-sct-vn 1.67.4**: lưu `van-ban-goc/2026.08.19-2927.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Nguyen.pdf` + `.txt` (export-ignore, ≥ 3 MB);

@@ -1,3 +1,18 @@
+## [2.43.0] - 19/11/2026 — Cấm lề đoạn âm ở trích yếu, nới ô bằng lưới bảng (R30, L018)
+
+- **Nguồn:** công văn 19/11/2026, trích yếu nới bằng lề đoạn âm; Phó Giám đốc chuyển PDF bằng Word thì chữ bị che hai bên (Bạn chỉ ra).
+- **scripts/noi_o_trich_yeu.py (mới):** nới ô "V/v" bằng lưới bảng, cân hai bên, bỏ lề âm; `--check` báo lề âm trong bảng đầu trang.
+- **scripts/qa_rules.py — R30 (mới, FAIL):** bảng đầu trang có lề đoạn âm. File lỗi `tests/fail/r30-trich-yeu-le-am.docx`.
+- Sổ lỗi L018; L015 bỏ cách "lề trái đoạn âm" (lịch sử); SKILL.md Nhóm G, bảng lệnh; "R01–R29" → "R01–R30". `plugin.json` → 2.43.0.
+
+## [2.42.0] - 19/11/2026 — Khung khối Kính gửi nhiều nơi nhận (R29, L017)
+
+- **Nguồn:** công văn đề nghị ba cơ quan báo cáo tình hình thi hành pháp luật về chất lượng sản phẩm, hàng hóa (19/11/2026); Bạn chỉ ra khối Kính gửi lệch, sai quy tắc, rồi gửi lại bản sửa tay làm chuẩn ("khối ô Kính gửi cần tạo khung thế này").
+- **Quy ước mới (Quy tắc 27(a), sổ lỗi L017):** Kính gửi từ hai cơ quan trở lên dựng khung bảng 2 cột không viền rộng hết phần thân; hàng 1 ô trái "Kính gửi:" căn phải; từ hàng 2 ô phải mỗi cơ quan một hàng; cơ quan đầu thấp hơn "Kính gửi:" một dòng. Cách tab + lề treo trước ngày này là lịch sử.
+- **scripts/build_vb.py:** hàm `khung_kinh_gui()`; dòng `[K]` nhiều nơi nhận trên mẫu chỉ có đoạn "Kính gửi" (mẫu công văn mặc định) nay tự dựng khung thay vì xếp đoạn rời.
+- **scripts/qa_rules.py — R29 (mới, WARN):** văn bản ký hiệu của Sở, Kính gửi nhiều nơi nhận mà không ở khung 2 cột, hoặc cơ quan đầu cùng dòng "Kính gửi:". File lỗi `tests/fail/r29-kinh-gui-nhieu-noi-cung-dong.docx`; baseline thêm 1 WARN đúng trên mẫu cũ `cong-van-xin-y-kien-cac-co-quan-phuong-an-ccn-von-nsnn.docx` (xếp đoạn rời).
+- SKILL.md Nhóm G, checklist rà soát dòng 11, `tests/rule-inventory.md`; "R01–R27" → "R01–R29". `plugin.json` → 2.42.0.
+
 ## [2.27.0] - 22/9/2026 — R17 đánh số "Một là", R18 đề mục La Mã lệch tab; R11 tính đậm kế thừa kiểu
 
 - **Nguồn:** rà soát dự thảo Báo cáo tháng 9/2026 thực hiện NQ 34-NQ/TU của Sở (PGĐ Nguyễn Đình Chiến ký, CN(Trung)) ngày 22/9/2026. Bạn chốt "thống nhất kiểu đánh số và thể thức".

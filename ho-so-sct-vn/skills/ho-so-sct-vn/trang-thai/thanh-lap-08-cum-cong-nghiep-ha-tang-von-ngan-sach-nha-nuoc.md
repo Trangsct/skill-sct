@@ -71,4 +71,5 @@ Plugin liên quan: kccn-sct-vn
 - Văn bản đã xuất: 2026.11.16. Báo cáo kết quả thẩm định hồ sơ thành lập các cụm công nghiệp hạ tầng vốn ngân sách nhà nước.docx (bản sửa 18/11, kèm bản bôi đỏ)
 
 ### 19/11/2026
-- Việc đã làm: Rà văn bản đến đến 19/11/2026 xem đủ trình tỉnh chưa: không có văn bản đến mới của 8 cụm sau 16/11; đối chiếu dự thảo QĐ thành lập 14/10 với khoản 1 Điều 12 (sửa bởi NĐ 303/2026)
+- Việc đã làm: Rà văn bản đến đến 19/11/2026 xem đủ trình tỉnh chưa: không có văn bản đến mới của 8 cụm sau 16/11; đối chiếu dự thảo QĐ thành lập 14/10 với khoản 1 Điều 12 (sửa bởi NĐ 303/2026); Soạn công văn đôn đốc 6 xã, phường (Lục Yên, Âu Lâu, Văn Chấn, Hưng Khánh, Trấn Yên, Yên Bình) hoàn thiện hồ sơ thành lập, hạn gửi trước 24/11/2026
+- Văn bản đã xuất: 2026.11.19. Công văn đôn đốc hoàn thiện hồ sơ thành lập các cụm công nghiệp vốn ngân sách nhà nước.docx (bản 1, kho vlncn-laocai du-thao)

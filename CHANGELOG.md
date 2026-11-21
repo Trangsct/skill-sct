@@ -1,3 +1,8 @@
+## 21/11/2026 (lần 3) — sct-laocai-org-vn 2.14.0: lãnh đạo Chi cục Quản lý thị trường; mã vị trí việc làm và cách lập hồ sơ
+
+- **sct-laocai-org-vn 2.14.0**: ref 04 mục D — phân công lãnh đạo Chi cục theo QĐ 149/QĐ-QLTT ngày 08/9/2025; ref 05 mục 8 — mã vị trí
+  việc làm, quỹ giờ 1.904, mức thời gian dùng chung, cách chạy bộ 09 biểu. Hồ sơ trạng thái mới `ra-soat-vi-tri-viec-lam-2027-2031`.
+
 ## 21/11/2026 (lần 2) — kccn-sct-vn 1.68.1: quản lý dự án CCN vốn ngân sách do UBND xã quyết định
 
 - **kccn-sct-vn 1.68.1**: Bạn chốt 21/11/2026 — giao Ban Quản lý dự án hay Trung tâm Dịch vụ tổng hợp do UBND xã quyết định; dự thảo

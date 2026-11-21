@@ -71,3 +71,28 @@ Hạn hoàn thành thẩm định theo CV 4673: **trước 14/11/2026**.
 - Lưu ý: phê duyệt **trước** khi Sở tiếp nhận chức năng địa chất, khoáng sản (02/10/2026) — đợt rà soát 2027–2031 ở các mục trên là
   để điều chỉnh danh mục này. Văn bản nào hỏi "quyết định phê duyệt vị trí việc làm của Sở" thì dẫn QĐ 1436/QĐ-UBND.
 
+## 8. Mã vị trí việc làm và cách lập hồ sơ theo giờ công (kinh nghiệm đợt 02–06/11/2026, bổ sung 21/11/2026)
+
+Số liệu, biểu của từng người là tài liệu nội bộ (kho riêng tư, `du-thao/2026.11.0x-VTVL-…`); ở đây chỉ ghi mã và cách làm.
+
+- **Mã vị trí theo Phụ lục 01, 02 QĐ 1436/QĐ-UBND**: `SCT.LĐQL.01` Giám đốc Sở, `.02` Phó Giám đốc, `.03` Chánh Văn phòng, `.04` Trưởng
+  phòng, `.05` Chi cục trưởng, `.06` Phó Chánh Văn phòng, `.07` Phó Trưởng phòng, `.08` Phó Chi cục trưởng, `.09` Trưởng phòng thuộc Chi
+  cục, `.10` Phó Trưởng phòng thuộc Chi cục, `.11` Đội trưởng, `.12` Phó Đội trưởng. Nghiệp vụ: `SCT.CMNV.09`, `.10` chuyên viên chính,
+  chuyên viên về quản lý công nghiệp; `.13`, `.14` về quản lý hóa chất; `.15`, `.16`, `.17` Kiểm soát viên chính, Kiểm soát viên, Kiểm
+  soát viên trung cấp thị trường; `.29` tổ chức cán bộ; `.36` hành chính - văn phòng; `.37` quản trị công sở; `.38` kế toán trưởng hoặc
+  phụ trách kế toán; `.39` kế toán viên; `.40` thủ quỹ; `.41` văn thư, lưu trữ.
+- **Quỹ giờ chuẩn 1.904 giờ/người/năm** (chế độ 40 giờ/tuần, theo Hướng dẫn 07-HD/BTCTW); kỳ số liệu 01/10/2025–30/9/2026.
+- **Biểu từng người**: nhiệm vụ → văn bản nguồn → công đoạn → sản phẩm → phút một sản phẩm × số lượng. Sản lượng lấy từ sổ văn bản đi,
+  sổ văn bản đến, lịch làm việc, biểu tự kê; mỗi người nên nằm trong khoảng 100–130% quỹ giờ, ngoài khoảng phải có giải trình.
+- **Mức thời gian dùng chung để các đơn vị không lệch nhau**: nghiên cứu, xử lý văn bản đến 15 phút (văn thư tiếp nhận 5 phút; lãnh đạo
+  phân công 5 phút); kiểm duyệt văn bản đi 40 phút khi duyệt trực tiếp, 20 phút khi đã qua cấp phó; Trưởng phòng chỉ đạo việc do Phó
+  Trưởng phòng chủ trì tính 1/4 thời gian; không kê trùng một việc cho hai người.
+- **Bộ 09 biểu của Sở Nội vụ** (A1 nhiệm vụ, A2 công việc, B1 khối lượng, B2 tác động, C1 vị trí, C2 năng lực, C3 nhu cầu, D1 nhân lực,
+  D2 phương án): lãnh đạo, quản lý tính theo cơ cấu chức danh (PP1); chuyên môn, nghiệp vụ tính theo giờ B1 chia 1.904 (PP2); một công
+  việc ở A2, B1 gộp theo vị trí việc làm, phút một sản phẩm lấy bình quân theo số sản phẩm; vùng công thức của tệp mẫu chỉ có 1.000
+  dòng nên đơn vị đông người (Chi cục Quản lý thị trường) lập tệp riêng; D2 và dự báo 2027–2031 giữ như năm cơ sở khi chưa có nhiệm vụ mới.
+- **Chi cục Quản lý thị trường**: 13 nhiệm vụ theo Điều 2 QĐ 53/QĐ-UBND; số vụ kiểm tra cả kỳ lệch năm tính bằng báo cáo năm trước trừ
+  9 tháng năm trước cộng 9 tháng năm nay.
+- Hồ sơ nộp ra ngoài chỉ ghi nguồn "sổ văn bản đi", "sổ văn bản đến", "biểu kê khai cá nhân"; tên tệp, thư mục trong gói nén không dấu
+  và đường dẫn ngắn để máy Windows giải nén được.
+

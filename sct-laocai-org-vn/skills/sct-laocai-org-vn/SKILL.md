@@ -30,6 +30,8 @@ Tóm lược theo từng điều, đọc từ bản gốc trong `van-ban-goc/`: 
 
 KL 107-KL/TW 17/10/2026, HD 07-HD/BTCTW 19/10/2026; Sở Nội vụ: QĐ 733/QĐ-SNV 30/10/2026 (Tổ thẩm định), CV 4581/SNV-TCBC 06/11 (hồ sơ), **CV 4673/SNV-TCBC 12/11/2026 (quy trình 5 bước)**, **CV 4714/SNV-TCBC 13/11/2026 (cơ quan có đơn vị trực thuộc)**; khóa Cổng kê khai từ 00h 11/11/2026; 09 biểu A1–D2; tài liệu kiểm chứng (số văn bản đi, đến, TTHC, hồ sơ quản lý); mốc biên chế hiện có 30/9/2026.
 
+Mã vị trí việc làm (SCT.LĐQL.01–12, SCT.CMNV…), quỹ giờ 1.904, mức thời gian dùng chung, cách chạy bộ 09 biểu: mục 8 của reference 05. Lãnh đạo Chi cục Quản lý thị trường và phân công theo QĐ 149/QĐ-QLTT ngày 08/9/2025 (Chi cục trưởng Đỗ Du Bắc; các Phó Chi cục trưởng Trần Văn Chiến, Bùi Hồng Hưng, Nguyễn Quang Hiểu): mục D của reference 04.
+
 ## Căn cứ pháp lý gốc
 
 - **NĐ số 351/2026/NĐ-CP ngày 11/9/2026** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (Phó Thủ tướng Phạm Gia Túc ký; thay **NĐ 40/2025/NĐ-CP — lịch sử**). Điều 1 bổ sung lĩnh vực **than, địa chất, khoáng sản, dầu khí, khu công nghiệp** vào Bộ; khoản 11 Điều 2 nhiệm vụ địa chất và khoáng sản; khoản 12 khuyến công, khu công nghiệp, cụm công nghiệp. Dùng để đối chiếu một lĩnh vực thuộc nhóm nào ở cấp Bộ. Bản gốc: `van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` (+ `.txt`).

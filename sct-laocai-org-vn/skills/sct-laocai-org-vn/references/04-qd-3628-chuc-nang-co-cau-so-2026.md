@@ -69,3 +69,21 @@ Ngày 04/10/2026 Văn phòng Sở gửi lấy ý kiến 03 dự thảo (góp ý 
 - **Điều 5**: hiệu lực từ ngày ký; **thay thế** QĐ 485/QĐ-UBND ngày 13/3/2025 của UBND tỉnh Yên Bái (lịch sử) và QĐ 36/2025/QĐ-UBND ngày
   04/4/2025 của UBND tỉnh Lào Cai (lịch sử).
 
+## D. Lãnh đạo Chi cục Quản lý thị trường và phân công — QĐ 149/QĐ-QLTT ngày 08/9/2025 (bổ sung 21/11/2026)
+
+Nguồn: Quyết định số 149/QĐ-QLTT ngày 08/9/2025 của Chi cục trưởng về phân công nhiệm vụ trong lãnh đạo Chi cục (Bạn gửi 06/11/2026
+trong đợt rà soát vị trí việc làm; bản gốc là văn bản nội bộ, không lưu ở kho này).
+
+| Lãnh đạo | Lĩnh vực | Trực tiếp phụ trách |
+|---|---|---|
+| Chi cục trưởng **Đỗ Du Bắc** | Lãnh đạo, điều hành toàn diện; tổ chức bộ máy, cán bộ; tài chính, kế toán; cơ quan thường trực giúp việc Ban Chỉ đạo chống buôn lậu, gian lận thương mại và hàng giả tỉnh | Phòng Tổ chức - Hành chính; Đội Quản lý thị trường số 9 |
+| Phó Chi cục trưởng **Trần Văn Chiến** | Báo cáo; theo dõi, dự báo thị trường; tuyên truyền, phổ biến pháp luật; xử lý tang vật bị tịch thu | Phòng Nghiệp vụ - Tổng hợp; Đội số 1, số 3, số 7 |
+| Phó Chi cục trưởng **Bùi Hồng Hưng** | Pháp chế, tham gia tố tụng, bồi thường nhà nước; kiểm tra thực thi công vụ; báo chí, tin bài | Đội số 2, số 8 |
+| Phó Chi cục trưởng **Nguyễn Quang Hiểu** | An ninh, quốc phòng, phòng cháy, chữa cháy; quản trị cơ sở vật chất, văn thư, lưu trữ, cải cách hành chính, ISO | Đội số 4, số 5, số 6 |
+
+- Phòng Nghiệp vụ - Tổng hợp: Trưởng phòng **Thân Thanh Long**, Phó Trưởng phòng **Hoàng Thanh Thủy**. Phòng Tổ chức - Hành chính: Phó
+  Trưởng phòng **Nguyễn Thị Nhung** phụ trách (Thông báo phân công của Phòng áp dụng từ 01/7/2026).
+- Ký hiệu văn bản của Chi cục: `…/QLTT-TCHC`, `…/QLTT-NVTH`, `…/QĐ-QLTT`, `…/BC-QLTT`; Đội: `…/TTr-QLTTĐ5` (Đội số 5).
+- Dùng khi: soạn văn bản gửi Chi cục cần biết Phó Chi cục trưởng nào phụ trách Đội của địa bàn; phối hợp kiểm tra an toàn thực phẩm,
+  hàng giả với Đội Quản lý thị trường.
+

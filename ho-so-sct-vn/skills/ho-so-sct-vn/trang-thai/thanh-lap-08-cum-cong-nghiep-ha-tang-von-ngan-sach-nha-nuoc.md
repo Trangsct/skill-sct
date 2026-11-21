@@ -52,6 +52,7 @@ Plugin liên quan: kccn-sct-vn
 - (16/11/2026) Chủ đầu tư, quản lý dự án hạ tầng các cụm vốn ngân sách là UBND xã, phường, không giao Trung tâm Dịch vụ tổng hợp xã (Bạn chốt 16/11/2026)
 - (16/11/2026) Báo cáo đề nghị thành lập trước Bắc Văn Yên, Đông An; Hưng Khánh, Báo Đáp trình trước 30/11/2026; Yên Thế, Âu Lâu, Sơn Thịnh trước 15/12/2026 (hạn xử lý theo điểm b khoản 4 Điều 35 NĐ 32/2024: trước 31/12/2026)
 - (21/11/2026) PGĐ Nguyễn Đình Chiến chỉ đạo nguồn vốn thực hiện của tất cả các cụm là ngân sách nhà nước giai đoạn 2026-2030 (anh Trung báo qua Zalo 21/11/2026); Báo cáo thẩm định: đánh giá chung tất cả các cụm rồi chi tiết từng cụm
+- (21/11/2026) UBND cấp xã là chủ đầu tư dự án hoàn thiện hạ tầng CCN vốn NSNN theo Luật Đầu tư công 58/2024/QH15 (khoản 7 Điều 4, khoản 4 Điều 38) — Bạn chốt 21/11/2026
 
 ## Yêu cầu riêng một lần
 
@@ -77,6 +78,6 @@ Plugin liên quan: kccn-sct-vn
 - Văn bản đã xuất: 2026.11.19. Công văn đôn đốc hoàn thiện hồ sơ thành lập các cụm công nghiệp vốn ngân sách nhà nước.docx (bản 1, kho vlncn-laocai du-thao)
 
 ### 21/11/2026
-- Việc đã làm: Đọc hồ sơ giải trình Âu Lâu (3460/UBND-KTHT, Báo cáo đầu tư 696/BC-UBND ngày 19/11), Sơn Thịnh (622/BC-UBND ngày 10/11), Yên Thế (739/BC-UBND ngày 19/11) anh Trung gửi; dựng lại Báo cáo thẩm định: đánh giá chung rồi chi tiết từng cụm; sửa 6 dự thảo QĐ (nguồn vốn NSNN giai đoạn 2026-2030; thêm điểm d, h khoản 1 Điều 12); Yên Thế: 739/BC-UBND xác nhận 05 tổ chức 23,78 ha, khớp tỷ lệ lấp đầy 59,49% tại 3103/UBND-KTHT
+- Việc đã làm: Đọc hồ sơ giải trình Âu Lâu (3460/UBND-KTHT, Báo cáo đầu tư 696/BC-UBND ngày 19/11), Sơn Thịnh (622/BC-UBND ngày 10/11), Yên Thế (739/BC-UBND ngày 19/11) anh Trung gửi; dựng lại Báo cáo thẩm định: đánh giá chung rồi chi tiết từng cụm; sửa 6 dự thảo QĐ (nguồn vốn NSNN giai đoạn 2026-2030; thêm điểm d, h khoản 1 Điều 12); Yên Thế: 739/BC-UBND xác nhận 05 tổ chức 23,78 ha, khớp tỷ lệ lấp đầy 59,49% tại 3103/UBND-KTHT; Bạn gửi Luật Đầu tư công 58/2024/QH15; lưu bản gốc vào kccn-sct-vn 1.68.0; sửa mục chủ đầu tư trong Báo cáo thẩm định theo chốt
 - Văn bản đã xuất: 2026.11.21. Báo cáo kết quả thẩm định hồ sơ thành lập các cụm công nghiệp hạ tầng vốn ngân sách nhà nước.docx (bản 21/11, kho vlncn-laocai du-thao); 2026.11.21. Dự thảo Quyết định thành lập 06 cụm (Bắc Văn Yên, Đông An, Yên Thế, Âu Lâu, Sơn Thịnh, Hưng Khánh) (thư mục du-thao-qd)
-- Quyết định của Bạn: PGĐ Nguyễn Đình Chiến chỉ đạo nguồn vốn thực hiện của tất cả các cụm là ngân sách nhà nước giai đoạn 2026-2030 (anh Trung báo qua Zalo 21/11/2026); Báo cáo thẩm định: đánh giá chung tất cả các cụm rồi chi tiết từng cụm
+- Quyết định của Bạn: PGĐ Nguyễn Đình Chiến chỉ đạo nguồn vốn thực hiện của tất cả các cụm là ngân sách nhà nước giai đoạn 2026-2030 (anh Trung báo qua Zalo 21/11/2026); Báo cáo thẩm định: đánh giá chung tất cả các cụm rồi chi tiết từng cụm; UBND cấp xã là chủ đầu tư dự án hoàn thiện hạ tầng CCN vốn NSNN theo Luật Đầu tư công 58/2024/QH15 (khoản 7 Điều 4, khoản 4 Điều 38) — Bạn chốt 21/11/2026

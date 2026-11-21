@@ -636,6 +636,15 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "ccn-ngan-sach-chu-dau-tu-ubnd-xa",
+        # Bạn chốt 21/11/2026: CCN hạ tầng vốn NSNN — UBND cấp xã là chủ đầu tư theo Luật Đầu tư công 58/2024/QH15
+        # (khoản 7 Điều 4, khoản 4 Điều 38); không giao Trung tâm Dịch vụ tổng hợp xã làm chủ đầu tư (Bạn chốt 16/11/2026).
+        "pattern": r"^(?!.*(?:không giao|lịch sử|ghi chủ đầu tư là|sửa|đề nghị xã)).*(?:Trung tâm Dịch vụ tổng hợp[^.\n]{0,40}làm chủ đầu tư|[Cc]hủ đầu tư(?: xây dựng hạ tầng kỹ thuật)?(?: là|:) Trung tâm Dịch vụ tổng hợp)",
+        "why": "CCN hạ tầng vốn ngân sách nhà nước: chủ đầu tư là UBND xã, phường theo Luật Đầu tư công 58/2024/QH15 (Bạn chốt 21/11/2026), không phải Trung tâm Dịch vụ tổng hợp xã. Dòng nói về hồ sơ cũ thì thêm chữ 'lịch sử'.",
+        "since": "2026-11-21",
+        "level": "WARN",
+    },
+    {
         "id": "yen-hop-giai-doan",
         "pattern": r"Yên Hợp[^|\n]{0,25}giai đoạn (I|II|1|2)\b",
         "why": "CCN Yên Hợp (12 ha) và CCN Yên Hợp 1 (63 ha) là 2 dự án độc lập; không dùng 'giai đoạn I/II' (nếu chép nguyên văn nguồn phải chú thích).",

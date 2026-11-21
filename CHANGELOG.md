@@ -1,3 +1,9 @@
+## 21/11/2026 — kccn-sct-vn 1.68.0: Luật Đầu tư công 58/2024/QH15; UBND cấp xã là chủ đầu tư CCN vốn ngân sách
+
+- **kccn-sct-vn 1.68.0**: lưu bản gốc Luật Đầu tư công số 58/2024/QH15 (Word, PDF, .txt) Bạn gửi; Bạn chốt 21/11/2026 UBND xã,
+  phường là chủ đầu tư dự án hoàn thiện hạ tầng CCN vốn ngân sách nhà nước theo Luật Đầu tư công (khoản 7 Điều 4, khoản 4 Điều 38);
+  ref 01, ref 11; rule `ccn-ngan-sach-chu-dau-tu-ubnd-xa` trong `check_facts.py`.
+
 ## 19/11/2026 (lần 3) — vbhc-vn 2.43.0: cấm lề đoạn âm ở trích yếu công văn
 
 - **vbhc-vn 2.43.0**: trích yếu nới bằng lề đoạn âm bị Word cắt chữ hai bên khi xuất PDF → `noi_o_trich_yeu.py` nới ô bằng lưới bảng;

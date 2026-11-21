@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 361 văn bản gốc (361 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 363 văn bản gốc (363 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -251,6 +251,8 @@ Thống kê: 361 văn bản gốc (361 có bản .txt) ở 20 plugin; 30 văn b�
 | — | 18/12/2024 | PL3 bieu trung nguy hiem | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/05-phu-luc-bieu-mau/PL3-bieu-trung-nguy-hiem.pdf` | có (OCR) |
 | — | 18/12/2024 | PL4 giay de nghi cap moi | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/05-phu-luc-bieu-mau/PL4-giay-de-nghi-cap-moi.pdf` | có (OCR) |
 | — | 18/12/2024 | PL4b giay de nghi dieu chinh | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/05-phu-luc-bieu-mau/PL4b-giay-de-nghi-dieu-chinh.pdf` | có (OCR) |
+| 58/2024/QH15 | 29/11/2024 | Luat Dau tu cong ban Word | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2024.11.29-58.2024.QH15-Luat-Dau-tu-cong-ban-Word.docx` | có |
+| 58/2024/QH15 | 29/11/2024 | Luat Dau tu cong | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2024.11.29-58.2024.QH15-Luat-Dau-tu-cong.pdf` | có |
 | 54/2024/QH15 | 29/11/2024 | Dia chat va khoang san TOAN VAN | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/Luat-54-2024-QH15-Dia-chat-va-khoang-san-TOAN-VAN.docx` | có |
 | 54/2024/QH15 | 29/11/2024 | tom tat dieu chinh | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/Luat-54-2024-QH15-tom-tat-dieu-chinh.docx` | có |
 | 1422/QĐ-TTg | 19/11/2024 | ke hoach thich ung BDKH | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-1422-QD-TTg-19-11-2024-ke-hoach-thich-ung-BDKH.txt` | có |

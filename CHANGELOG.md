@@ -1,3 +1,8 @@
+## 21/11/2026 (lần 2) — kccn-sct-vn 1.68.1: quản lý dự án CCN vốn ngân sách do UBND xã quyết định
+
+- **kccn-sct-vn 1.68.1**: Bạn chốt 21/11/2026 — giao Ban Quản lý dự án hay Trung tâm Dịch vụ tổng hợp do UBND xã quyết định; dự thảo
+  QĐ thành lập các cụm nhỏ vùng đặc biệt khó khăn không ấn định diện tích tối thiểu cho doanh nghiệp công nghệ cao (ref 11 mục C).
+
 ## 21/11/2026 — kccn-sct-vn 1.68.0: Luật Đầu tư công 58/2024/QH15; UBND cấp xã là chủ đầu tư CCN vốn ngân sách
 
 - **kccn-sct-vn 1.68.0**: lưu bản gốc Luật Đầu tư công số 58/2024/QH15 (Word, PDF, .txt) Bạn gửi; Bạn chốt 21/11/2026 UBND xã,

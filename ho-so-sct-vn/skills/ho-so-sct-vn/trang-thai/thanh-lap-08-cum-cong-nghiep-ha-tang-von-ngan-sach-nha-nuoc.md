@@ -30,9 +30,9 @@ Plugin liên quan: kccn-sct-vn
 ## Bước tiếp theo
 
 - Bạn chốt thời hạn hoạt động 50 năm trong dự thảo QĐ; anh Trung đối chiếu bản gốc 7562/CAT-ANKT, 5322/BCH-TM; xã Đông Cuông chốt diện tích giao đất, lấp đầy Bắc Văn Yên; anh Trung trình ký Báo cáo bản 21/11
-Xã Hưng Khánh gửi bản đồ, bảng tọa độ ranh giới 20 ha; xã Trấn Yên hoàn thiện Báo Đáp (40 ha chưa quy hoạch đất CCN, tổng mức lệch 572/BC-UBND, 24 hộ dân) — trình trước 30/11/2026
-Thịnh Hưng: chờ hồ sơ nhà đầu tư theo 7384/SCT-CN; Hội đồng lựa chọn chủ đầu tư theo khoản 3 Điều 13
-Theo dõi số, ngày Báo cáo khi ban hành; ghi --phat-hanh
+- Xã Hưng Khánh gửi bản đồ, bảng tọa độ ranh giới 20 ha; xã Trấn Yên hoàn thiện Báo Đáp (40 ha chưa quy hoạch đất CCN, tổng mức lệch 572/BC-UBND, 24 hộ dân) — trình trước 30/11/2026
+- Thịnh Hưng: chờ hồ sơ nhà đầu tư theo 7384/SCT-CN; Hội đồng lựa chọn chủ đầu tư theo khoản 3 Điều 13
+- Theo dõi số, ngày Báo cáo khi ban hành; ghi --phat-hanh
 
 ## Vướng mắc, câu hỏi còn mở
 

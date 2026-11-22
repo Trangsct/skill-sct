@@ -47,6 +47,6 @@ d) Nội dung và kết quả kiểm tra.
 
 ## 8. Điểm kiểm tra hồ sơ huấn luyện (khi thẩm định GCN/GP hoặc kiểm tra)
 
-- **QĐ công nhận huấn luyện phải viện dẫn Điều 32 NĐ 25/2026** — KHÔNG viện dẫn **NĐ 113/2017, NĐ 82/2022** đã hết hiệu lực (lỗi điển hình vụ HNO3, ref 16).
+- Quyết định công nhận huấn luyện ban hành từ 17/01/2026 căn cứ Điều 29–32 NĐ 25/2026. Quyết định còn dẫn NĐ 113/2017, NĐ 82/2022: xét **thực chất** (đối tượng, nội dung, thời lượng, còn trong chu kỳ 02 năm); đạt thực chất thì đề nghị ban hành lại cho đúng căn cứ, không lấy riêng lỗi viện dẫn làm lý do từ chối. Thành phần hồ sơ là điểm e khoản 2 Điều 9 NĐ 26 (kinh doanh), điểm g khoản 1 Điều 9 (sản xuất) — không phải điểm c.
 - Đủ 3 nhóm đối tượng theo thực tế nhân sự; người huấn luyện đủ điều kiện; thời lượng ≥ 8 giờ; còn trong chu kỳ 02 năm.
 - **Hồ sơ lưu giữ phải đủ 3 cấu phần: (1) nội dung huấn luyện; (2) thông tin về người huấn luyện; (3) nội dung và kết quả kiểm tra.** Thiếu bất kỳ cấu phần nào đã cấu thành vi phạm: trước 25/8/2026 theo điểm a khoản 3 Điều 11 NĐ 71/2019 — tiền lệ: DN trên địa bàn bị Cục Hóa chất phạt 4 triệu đồng (QĐ 26/QĐ-XPVPHC ngày 08/7/2026, ref 16 mục 5); từ 25/8/2026 theo **Điều 34 NĐ 275/2026** (không lưu đầy đủ: cảnh cáo — điểm a k1; không lưu/không đủ 3 năm: 10–15 tr cá nhân — k4; chi tiết `xp-hc-vlncn-sct-vn/references/03`).

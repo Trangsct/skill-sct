@@ -1,3 +1,9 @@
+## 22/11/2026 (lần 4) — hc-sct-vn 1.12.0: đánh giá lại Văn bản 1709/SCT-CN, loại bỏ lập luận cũ không đúng pháp lý
+
+- **hc-sct-vn 1.12.0**: ref 16 mục 1 viết lại (bảng đánh giá từng lý do của Văn bản 1709/SCT-CN ngày 01/4/2026), thêm mục 1a (10 nguyên tắc
+  thẩm định cấp GCN, GP: trình tự hai bước, thẩm quyền trả lời không cấp, phạm vi Kế hoạch, Biện pháp cho hạng mục thay đổi, Mẫu 07);
+  sửa SKILL.md và ref 01, 02, 03, 04, 06, 07, 14, 15; gỡ 3 tệp cũ trong `vi-du-thuc-te/gcn-tu-choi/`.
+
 ## 22/11/2026 (lần 3) — vbhc-vn 2.43.3: nạp Nghị định 22/2026/NĐ-CP
 
 - **vbhc-vn 2.43.3**: `van-ban-goc/chua-phan-loai/` thêm Nghị định số 22/2026/NĐ-CP ngày 16/01/2026 (quy định chi tiết Luật Tiêu chuẩn và Quy chuẩn

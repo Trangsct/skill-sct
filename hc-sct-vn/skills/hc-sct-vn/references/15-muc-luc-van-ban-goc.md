@@ -58,12 +58,10 @@
 
 ## 2. `vi-du-thuc-te/` — ví dụ Sở đã xử lý
 
-### gcn-tu-choi/ (thẩm định, từ chối cấp GCN)
+### gcn-tu-choi/ (đã gỡ các văn bản cũ ngày 22/11/2026)
 | File | Nội dung | Reference |
 |---|---|---|
-| `CV-tu-choi-cap-GCN-KD-HNO3.docx` | **GOLD** — từ chối cấp GCN KD axit HNO3, 8 lỗi điển hình | 03, 16 |
-| `CV-phuc-dap-ho-so-cap-GCN.docx` | Phúc đáp/yêu cầu bổ sung hồ sơ | 03, 14 |
-| `Tham-khao-cap-GCN-SX-co-dieu-kien.docx` | Tham khảo hồ sơ/quy trình cấp GCN sản xuất | 03 |
+| `00-CANH-BAO-khong-dung-lam-mau.md` | Ghi chú: các văn bản đã gỡ và lý do | 16 mục 1 |
 
 ### kiem-tra/ (kiểm tra chuyên ngành)
 | File | Nội dung | Reference |

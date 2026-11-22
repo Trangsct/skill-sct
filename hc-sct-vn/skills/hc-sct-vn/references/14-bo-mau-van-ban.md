@@ -6,11 +6,10 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 
 | Việc | Loại văn bản | Người ký | Nguồn mẫu / reference |
 |---|---|---|---|
-| Từ chối cấp GCN/GP (hồ sơ không đạt) | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến *(hoặc trình UBND tỉnh — xác minh ủy quyền)* | `vi-du-thuc-te/gcn-tu-choi/CV-tu-choi-cap-GCN-KD-HNO3.docx`; ref 03, 16 |
-| Yêu cầu bổ sung hồ sơ | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-tu-choi/CV-phuc-dap-ho-so-cap-GCN.docx`; ref 03 |
+| Trả lời không cấp GCN/GP (sau thẩm định, kiểm tra thực tế) | Chưa ủy quyền: Báo cáo/Tờ trình của Sở + dự thảo văn bản UBND tỉnh. Đã ủy quyền: Công văn (SCT-CN) | UBND tỉnh; hoặc KT.GĐ-PGĐ Chiến khi đã có Quyết định ủy quyền | khuôn mục 4 ref này; nguyên tắc ref 16 mục 1a. **Không dùng công văn từ chối, phúc đáp năm 2026 cũ làm mẫu** |
+| Thông báo bổ sung, hoàn chỉnh hồ sơ (trong 03 ngày làm việc, chỉ khi thiếu hoặc sai thành phần hồ sơ) | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | khuôn mục 4 ref này; `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx` |
 | Yêu cầu hoàn thiện hồ sơ GCN kinh doanh (kho thuê, hợp đồng dịch vụ tồn trữ chưa chặt) — **mẫu chuẩn phong cách phản biện 26/10/2026** | Công văn (SCT-CN), 3 trang | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`; mục 4 ref này; ref 16 mục 5c |
 | Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (**Mẫu 09 TT 26/2026**, thay Mẫu 10c TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-09-...docx`; ref 03 |
-| Tham khảo hồ sơ cấp GCN sản xuất | Công văn/hồ sơ | — | `vi-du-thuc-te/gcn-tu-choi/Tham-khao-cap-GCN-SX-co-dieu-kien.docx`; ref 03 |
 | Biên bản thẩm định hồ sơ và kiểm tra thực tế (GCN kinh doanh, kho thuê ở tỉnh khác) | Biên bản (theo Mẫu 7 biên bản thẩm định HHNH) | Đại diện Đoàn kiểm tra + Đại diện Công ty | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/Bien-ban-tham-dinh-ho-so-va-kiem-tra-thuc-te-GCN-KD-kho-thue-tinh-khac.docx`; ref 03, 16 mục 5c |
 | Lấy ý kiến UBND cấp tỉnh nơi đặt kho thuê (điểm d khoản 5 Điều 9 NĐ 26) | Tờ trình (TTr-SCT) + dự thảo Công văn UBND tỉnh (UBND-KT) | TTr: GĐ Sở; CV: KT. Chủ tịch - Phó Chủ tịch | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/To-trinh-...docx`, `Du-thao-CV-UBND-tinh-...docx`; ref 03, 16 mục 5c |
 | Cấp GP hóa chất kiểm soát đặc biệt nhóm 2 | Giấy phép (**Mẫu 06 TT 26/2026**, thay Mẫu 06c PL VI TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-06-...docx`; ref 04 |

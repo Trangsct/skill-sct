@@ -81,8 +81,10 @@ Chủ đầu tư/tổ chức **nộp phí thẩm định** theo pháp luật v�
 - QĐ phê duyệt KH được gửi **BQL khu công nghiệp/khu chế xuất/khu kinh tế** nếu cơ sở trong khu (điểm h khoản 2 Điều 34) → phối hợp theo plugin `kcn-ccn-vn`; gửi **UBND cấp xã** với KH do UBND cấp tỉnh phê duyệt.
 - **Biện pháp phòng ngừa trong VẬN CHUYỂN** (khoản 3 Điều 35) gắn hồ sơ Giấy phép vận chuyển HHNH → plugin `hnh-sct-vn`.
 
-## 12. Lưu ý thực tế (vụ HNO3 ref 16; vụ DAP số 2 ref 17)
+## 12. Lưu ý thực tế (ref 16 mục 1, 1a; vụ DAP số 2 ref 17)
 
-Nếu kho lưu chứa **đồng thời nhiều loại hóa chất/tiền chất thuốc nổ**, KH phải xây dựng **kịch bản, biện pháp ứng phó cho tình huống lưu chứa đồng thời** — không chỉ tình huống đơn lẻ từng chất. Thay đổi nội dung đã phê duyệt → báo cáo cơ quan phê duyệt xem xét, quyết định.
+**Phân biệt hai vai.** (a) Khi Sở **thẩm định KH** (đối tượng điểm b) hoặc là **thành viên Hội đồng** của Cục Hóa chất: kho lưu chứa đồng thời nhiều hóa chất, tiền chất thuốc nổ thì yêu cầu KH có tình huống, biện pháp ứng phó cho lưu chứa đồng thời. (b) Khi Sở **thẩm định cấp GCN, GP** dựa trên KH **đã được phê duyệt**: không đánh giá lại nội dung KH; chỉ đối chiếu hoạt động đề nghị có nằm trong phạm vi KH (hóa chất, nồng độ, khối lượng, vị trí); thấy KH thiếu tình huống thì kiến nghị cơ quan phê duyệt và giám sát theo Quyết định phê duyệt, không dùng làm lý do từ chối.
+
+**Thay đổi sau khi KH được phê duyệt (Điều 36 NĐ 25):** liên quan hóa chất thuộc Phụ lục IV NĐ 24 (bổ sung chủng loại, nâng khối lượng, mở rộng quy mô, thay đổi trang thiết bị tồn trữ thuộc khoản 2 Điều 33) → điều chỉnh KH, thẩm định như lần đầu (khoản 3, 4); **không liên quan** hóa chất thuộc Phụ lục IV → xây dựng và ban hành **Biện pháp cho hạng mục thay đổi** (khoản 5); hạng mục thay đổi chỉ hoạt động sau khi KH được phê duyệt hoặc BP được ban hành (khoản 8). Câu “KH đối với tất cả hóa chất nguy hiểm” tại khoản 2 Điều 33 áp dụng khi lập, điều chỉnh KH; không biến mọi thay đổi thành trường hợp phải điều chỉnh KH.
 
 KH **điều chỉnh** do bổ sung hạng mục (trạm xuất, tuyến ống): hạng mục mới phải có mặt đủ ở Bảng hạng mục công trình, Bảng điểm nguy cơ, Bảng tình huống + mô phỏng, mục biện pháp theo khu vực và kịch bản diễn tập; hạng mục chỉ được vận hành sau khi KH điều chỉnh được phê duyệt (khoản 8 Điều 36). Checklist đầy đủ và điều kiện an toàn trạm xuất NH3/axit: ref 17 mục 3, 4.

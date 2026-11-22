@@ -1,5 +1,12 @@
 # CHANGELOG — hc-sct-vn
 
+## 1.12.0 — 22/11/2026 — Loại bỏ lập luận cũ không đúng pháp lý; đánh giá lại Văn bản 1709/SCT-CN
+
+- **ref 16 mục 1 (viết lại):** bỏ "8 lỗi điển hình, bài học vàng"; thay bằng bảng đánh giá lại từng lý do của Văn bản 1709/SCT-CN ngày 01/4/2026 (2 lý do hết căn cứ từ 29/4/2026, 3 lý do không vững, 1 trùng, 1 dẫn sai điểm; 2 lý do còn dùng: phân khu, thiết bị rửa mắt). **Mục 1a (mới):** 10 nguyên tắc thẩm định.
+- **SKILL.md, ref 01, 02, 03, 04, 06, 07, 14, 15:** sửa các câu "viện dẫn văn bản cũ → hồ sơ không đạt", "hợp đồng lao động, quyết định bổ nhiệm phải logic thời gian → không đạt", "Kế hoạch phải có kịch bản lưu chứa đồng thời" (khi thẩm định cấp phép), "mẫu chuẩn công văn từ chối"; thêm trình tự hai bước, thẩm quyền trả lời không cấp, phạm vi Kế hoạch, Biện pháp cho hạng mục thay đổi (khoản 5 Điều 36 NĐ 25), ghi chú (***) Mẫu 07.
+- **`vi-du-thuc-te/gcn-tu-choi/`:** xóa công văn phúc đáp tháng 3/2026 và bài tham khảo cấp GCN sản xuất (Mẫu 10a cũ); gỡ dự thảo Văn bản 1709 (văn bản nội bộ, toàn văn tra ở sổ văn bản đi); thêm tệp ghi chú.
+- `plugin.json` 1.11.0 → 1.12.0.
+
 ## v1.10.1 — 13/11/2026 — Hình thức xử lý giấy phép, giấy chứng nhận đã ban hành mà sai theo đề nghị của doanh nghiệp
 
 - Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.

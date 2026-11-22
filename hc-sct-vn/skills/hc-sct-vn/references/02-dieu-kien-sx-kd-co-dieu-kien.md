@@ -41,7 +41,7 @@ i) Tuân thủ yêu cầu SX/KD tại **Điều 25, 26, 27, 28, 29 NĐ 25** (cơ
 
 - SX hóa chất có điều kiện / kiểm soát đặc biệt / cấm: **bằng cử nhân hoặc tương đương trở lên** ngành đào tạo về hóa học thuộc **Phụ lục III NĐ 25**.
 - KD hóa chất có điều kiện / kiểm soát đặc biệt; kho dịch vụ tồn trữ: **bằng trung cấp hoặc tương đương trở lên** ngành đào tạo về hóa học thuộc Phụ lục III NĐ 25.
-- Kiểm tra tính hợp lệ: ngành đào tạo ghi trên bằng (hoặc bảng điểm, phụ lục văn bằng) **có trong Danh mục Phụ lục III NĐ 25** — mở `van-ban-goc/02-nghi-dinh/ND-25-2026-phat-trien-antoan-anninh.txt` tìm "PHỤ LỤC III"; chấp nhận bằng kỹ sư, cử nhân (tương đương); **hợp đồng lao động và quyết định bổ nhiệm phải logic về thời gian** (bài học vụ HNO3: QĐ bổ nhiệm 01/10/2025 nhưng HĐLĐ 01/12/2025 → mâu thuẫn → không đạt).
+- Kiểm tra tính hợp lệ: ngành đào tạo ghi trên bằng (hoặc bảng điểm, phụ lục văn bằng) **có trong Danh mục Phụ lục III NĐ 25** — mở `van-ban-goc/02-nghi-dinh/ND-25-2026-phat-trien-antoan-anninh.txt` tìm "PHỤ LỤC III"; chấp nhận bằng kỹ sư, cử nhân (tương đương); hợp đồng lao động, văn bản phân công **không phải thành phần hồ sơ**: đối chiếu tại buổi kiểm tra để xác nhận người chịu trách nhiệm chuyên môn thực sự làm việc tại cơ sở, ghi vào biên bản; lệch ngày giữa hai giấy tờ thì đề nghị doanh nghiệp giải trình, **không phải căn cứ từ chối** (đánh giá lại 22/11/2026, ref 16 mục 1).
 
 ## 5. Điểm kỹ thuật QCVN 05A:2020/BCT SĐ1:2024 hay dùng khi thẩm định/kiểm tra thực tế
 

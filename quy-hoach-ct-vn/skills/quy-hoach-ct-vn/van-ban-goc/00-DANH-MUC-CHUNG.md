@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 365 văn bản gốc (365 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 367 văn bản gốc (367 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -121,6 +121,7 @@ Thống kê: 365 văn bản gốc (365 có bản .txt) ở 20 plugin; 30 văn b�
 | 17/QĐ-HĐTV | 29/04/2026 | HDTV VSDC quy che luu ky thanh toan | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/QD-17-QD-HDTV-29-4-2026-VSDC-quy-che-luu-ky-thanh-toan.txt` | có |
 | 19/2026/NQ-CP | 29/04/2026 |  | hnh-sct-vn | `hnh-sct-vn/skills/hnh-sct-vn/van-ban-goc/02-nghi-dinh/NQ-19-2026-NQ-CP.pdf` | có (OCR) |
 | 1436/QĐ-UBND | 29/04/2026 | Phe duyet VTVL So Cong Thuong | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.04.29-1436.QD.UBND-Phe-duyet-VTVL-So-Cong-Thuong.pdf` | có |
+| 22/2026/NQ-CP | 29/04/2026 | Cat giam phan cap don gian hoa TTHC dieu kien kinh doanh thuoc Bo Cong an | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/chua-phan-loai/2026.04.29-22.2026.NQ.CP-Cat-giam-phan-cap-don-gian-hoa-TTHC-dieu-kien-kinh-doanh-thuoc-Bo-Cong-an.docx` | có |
 | 24/2026//NQ-CP | 29/04/2026 | cat giam TTHC XD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/NQ-24-2026-NQ-CP-cat-giam-TTHC-XD.docx` | có |
 | 3320/SNNMT-CCMT | 23/04/2026 | chuyen VBHN 48 49 | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-3320-SNNMT-CCMT-23-4-2026-chuyen-VBHN-48-49.txt` | có |
 | 1335/QĐ-UBND | 21/04/2026 | Dieu chinh QD thanh lap CCN Phu Thinh 2 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.04.21-1335.QD.UBND-Dieu-chinh-QD-thanh-lap-CCN-Phu-Thinh-2.pdf` | có |
@@ -155,6 +156,7 @@ Thống kê: 365 văn bản gốc (365 có bản .txt) ở 20 plugin; 30 văn b�
 | 09/2026/TT-BNNMT | 29/01/2026 | Sua doi TT 02 2022 bao ve moi truong | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/2026.01.29-09.2026.TT.BNNMT-Sua-doi-TT-02-2022-bao-ve-moi-truong.docx` | có |
 | 48/2026/NĐ-CP | 29/01/2026 | Sua doi ND 08 2022 bao ve moi truong | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/2026.01.29-48.2026.ND.CP-Sua-doi-ND-08-2022-bao-ve-moi-truong.pdf` | có (OCR) |
 | 11/2026/QĐ-UBND | 29/01/2026 | Lao Cai quan ly dau tu xay dung | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/QD-11-2026-QD-UBND-Lao-Cai-quan-ly-dau-tu-xay-dung.pdf` | có (OCR) |
+| 37/2026/NĐ-CP | 23/01/2026 | Quy dinh chi tiet va bien phap thi hanh Luat Chat luong san pham hang hoa | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/chua-phan-loai/2026.01.23-37.2026.ND.CP-Quy-dinh-chi-tiet-va-bien-phap-thi-hanh-Luat-Chat-luong-san-pham-hang-hoa.docx` | có |
 | 09/2026/TT-BQP | 22/01/2026 | Sua doi bo sung TT 98 2024 TT BQP | hl-vlncn-sct-vn | `hl-vlncn-sct-vn/skills/hl-vlncn-sct-vn/van-ban-goc/2026.01.22-09.2026.TT.BQP-Sua-doi-bo-sung-TT-98-2024-TT-BQP.docx` | có |
 | 09/2026/TT-BQP | 22/01/2026 | Sua doi bo sung TT 98 2024 TT BQP | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.01.22-09.2026.TT.BQP-Sua-doi-bo-sung-TT-98-2024-TT-BQP.docx` | có |
 | 683/BTC-CST | 19/01/2026 | thue GTGT tin chi VERs | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/knk-bdkh/CV-683-BTC-CST-19-01-2026-thue-GTGT-tin-chi-VERs.txt` | có |

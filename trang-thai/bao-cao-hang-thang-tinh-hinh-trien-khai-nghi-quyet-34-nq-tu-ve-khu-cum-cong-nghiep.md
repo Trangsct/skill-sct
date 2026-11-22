@@ -25,6 +25,7 @@ Plugin liên quan: kccn-sct-vn
 ## Quyết định của Bạn
 
 - (22/11/2026) Bạn chốt 22/11/2026: tổng mặt bằng sạch tháng 11 là 503 ha (khớp số đã báo Trưởng phòng Kế hoạch - Tổng hợp), bỏ chú thích chờ nguồn
+- (22/11/2026) Bạn chốt 22/11/2026: báo cáo NQ 34 và mọi văn bản Phòng soạn không nêu mục tiêu 1.000 ha đất công nghiệp sạch năm 2027, chỉ nêu mục tiêu 500 ha năm 2026
 
 ## Yêu cầu riêng một lần
 
@@ -39,7 +40,7 @@ Plugin liên quan: kccn-sct-vn
 - Câu hỏi chưa được trả lời: Số 503 ha đến hết tháng 11 (tin nhắn gửi TP Kế hoạch 18/11) chưa khớp: KCN Võ Lao lùi khởi công sang tháng 12/2026 (TB 204/TB-VPUBND), chưa có số tháng 11 của BQL các KCN
 
 ### 22/11/2026
-- Việc đã làm: Bạn cập nhật số và chốt: Cam Đường 130 ha, Thống Nhất 1 15 ha, Phú Xuân 24,3 ha, Phú Thịnh 1 5 ha, Phú Thịnh 3 9,72 ha; dựng bản trình ký
-- Văn bản đã xuất: 2026.11.21. Bao cao tinh hinh trien khai NQ 34-NQ-TU thang 11 nam 2026.docx (bản trình ký)
-- Quyết định của Bạn: Bạn chốt 22/11/2026: tổng mặt bằng sạch tháng 11 là 503 ha (khớp số đã báo Trưởng phòng Kế hoạch - Tổng hợp), bỏ chú thích chờ nguồn
+- Việc đã làm: Bạn cập nhật số và chốt: Cam Đường 130 ha, Thống Nhất 1 15 ha, Phú Xuân 24,3 ha, Phú Thịnh 1 5 ha, Phú Thịnh 3 9,72 ha; dựng bản trình ký; Rút gọn báo cáo tháng 11 còn 6 trang, sửa hình thức; bỏ nội dung mục tiêu năm 2027
+- Văn bản đã xuất: 2026.11.21. Bao cao tinh hinh trien khai NQ 34-NQ-TU thang 11 nam 2026.docx (bản trình ký); 2026.11.21. Bao cao tinh hinh trien khai NQ 34-NQ-TU thang 11 nam 2026.docx (bản rút gọn trình ký)
+- Quyết định của Bạn: Bạn chốt 22/11/2026: tổng mặt bằng sạch tháng 11 là 503 ha (khớp số đã báo Trưởng phòng Kế hoạch - Tổng hợp), bỏ chú thích chờ nguồn; Bạn chốt 22/11/2026: báo cáo NQ 34 và mọi văn bản Phòng soạn không nêu mục tiêu 1.000 ha đất công nghiệp sạch năm 2027, chỉ nêu mục tiêu 500 ha năm 2026
 - Việc còn dở: Mặt bằng sạch 503 ha (KCN 418,74; CCN 84,26), GPMB 694,40 ha; gửi Gmail CV Lê Quang Trung kèm tệp

@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 367 văn bản gốc (367 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 368 văn bản gốc (368 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -168,6 +168,7 @@ Thống kê: 367 văn bản gốc (367 có bản .txt) ở 20 plugin; 30 văn b�
 | 02/2026/TT-BCT | 17/01/2026 | bien phap thi hanh ND25 | hc-sct-vn | `hc-sct-vn/skills/hc-sct-vn/van-ban-goc/03-thong-tu/TT-02-2026-BCT-bien-phap-thi-hanh-ND25.docx` | có |
 | 21/2026/NĐ-CP | 16/01/2026 | sua ND 193 2025 | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/ND-21-2026-ND-CP-sua-ND-193-2025.docx` | có |
 | 04/2026/TT-BNNMT | 16/01/2026 | sua cac TT dia chat khoang san | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/TT-04-2026-TT-BNNMT-sua-cac-TT-dia-chat-khoang-san.docx` | có |
+| 22/2026/NĐ-CP | 16/01/2026 | Quy dinh chi tiet va bien phap thi hanh Luat Tieu chuan va Quy chuan ky thuat | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/chua-phan-loai/2026.01.16-22.2026.ND.CP-Quy-dinh-chi-tiet-va-bien-phap-thi-hanh-Luat-Tieu-chuan-va-Quy-chuan-ky-thuat.docx` | có |
 | 7/QĐ-BQLCKCN | 15/01/2026 | thanh lap HDTD quy hoach KCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-7-QD-BQLCKCN-15-01-2026-thanh-lap-HDTD-quy-hoach-KCN.pdf` | có |
 | 14/2026/NĐ-CP | 13/01/2026 | cat giam TTHC SXKD | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-14-2026-cat-giam-TTHC-SXKD.docx` | có |
 | 68/QĐ-UBND | 09/01/2026 | Uy quyen GD SCT thuong mai ATTP | attp-sct-vn | `attp-sct-vn/skills/attp-sct-vn/van-ban-goc/2026.01.09-68.QD.UBND-Uy-quyen-GD-SCT-thuong-mai-ATTP.pdf` | có |

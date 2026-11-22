@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 363 văn bản gốc (363 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 365 văn bản gốc (365 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -75,6 +75,8 @@ Thống kê: 363 văn bản gốc (363 có bản .txt) ở 20 plugin; 30 văn b�
 | 275/2026/NĐ-CP | 08/07/2026 | xu phat VPHC hoa chat VLNCN | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/ND-275-2026-NDCP-xu-phat-VPHC-hoa-chat-VLNCN.docx` | có |
 | 49/2026/QĐ-UBND | 30/06/2026 | chi tiet Luat Dat dai Lao Cai | dat-dai-sct-vn | `dat-dai-sct-vn/skills/dat-dai-sct-vn/van-ban-goc/tinh/QD-49-2026-QD-UBND-chi-tiet-Luat-Dat-dai-Lao-Cai.docx` | có |
 | — | 30/06/2026 | GCN DKDT KCN Ban Qua 30 6 2026 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/GCN-DKDT-KCN-Ban-Qua-30-6-2026.pdf` | có |
+| 33/2026/TT-BCT | 30/06/2026 | Danh muc san pham hang hoa rui ro trung binh rui ro cao thuoc Bo Cong Thuong | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/chua-phan-loai/2026.06.30-33.2026.TT.BCT-Danh-muc-san-pham-hang-hoa-rui-ro-trung-binh-rui-ro-cao-thuoc-Bo-Cong-Thuong.docx` | có |
+| 34/2026/TT-BCT | 30/06/2026 | Quan ly chat luong san pham hang hoa thuoc trach nhiem quan ly cua Bo Cong Thuong | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/chua-phan-loai/2026.06.30-34.2026.TT.BCT-Quan-ly-chat-luong-san-pham-hang-hoa-thuoc-trach-nhiem-quan-ly-cua-Bo-Cong-Thuong.docx` | có |
 | 1074/QĐ-BXD | 29/06/2026 |  | pccc-sct-vn | `pccc-sct-vn/skills/pccc-sct-vn/van-ban-goc/QD-1074-QD-BXD-29-6-2026.pdf` | có |
 | — | 29/06/2026 | Tai lieu giai phap nang cao PCCC kem QD 1074 | pccc-sct-vn | `pccc-sct-vn/skills/pccc-sct-vn/van-ban-goc/Tai-lieu-giai-phap-nang-cao-PCCC-kem-QD-1074.pdf` | có |
 | 2272/QĐ-UBND | 29/06/2026 | Co quan tiep nhan ho so GCN san xuat tien chat thuoc no ban du thao | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.06.29-2272.QD.UBND-Co-quan-tiep-nhan-ho-so-GCN-san-xuat-tien-chat-thuoc-no_ban-du-thao.docx` | có |

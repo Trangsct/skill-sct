@@ -1,7 +1,7 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **914** (Luật 39, NĐ 243, TT 125, QĐ 422, NQ 42, khác 43).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **171**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **919** (Luật 39, NĐ 243, TT 128, QĐ 424, NQ 42, khác 43).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **174**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
@@ -43,6 +43,8 @@
 | NĐ 45/2022 | bvmt-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế | Xử phạt BVMT; Sở CT chỉ Đ45–46 (k4 Đ64); lập BB cần QĐ giao (Đ71 không liệt kê Sở CT) |
 | NĐ 36/2020 | atvsld-sct-vn, qlks-sct-vn, xp-sct-vn |  | Dự thảo NĐ thay thế (3/2026) | Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT |
 | NĐ 71/2019 | hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | NĐ 275/2026 (25/8/2026) |  | Xử phạt hóa chất, VLNCN — đã thay thế; chỉ dẫn cho hành vi trước 25/8/2026; hiệu lực máy trích từ ND-71-2019-xu-phat-VPHC-hoachat-VLNCN.txt |
+| TT 41/2023 | attp-sct-vn | TT 33/2026 (01/7/2026) |  | TT-BCT Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn; hết hiệu lực theo khoản 2 Điều 6 TT 33/2026/TT-BCT |
+| TT 36/2019 | attp-sct-vn, atvsld-sct-vn | TT 34/2026 (01/7/2026) |  | TT-BCT quản lý chất lượng sản phẩm, hàng hóa; hết hiệu lực theo khoản 2 Điều 18 TT 34/2026/TT-BCT ngày 30/6/2026 (hiệu lực 01/7/2026; cùng hết hiệu lực: TT 46/2015/TT-BCT, Điều 10 TT 38/2025/TT-BCT); đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai). Mã TT 34/2026 trùng thông tư của bộ khác nên không lập dòng riêng |
 | QĐ 44/2021/QĐ-UBND | bvmt-sct-vn | QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026) |  | Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
 | QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |

@@ -1,3 +1,9 @@
+## 22/11/2026 — vbhc-vn 2.43.1, attp-sct-vn 1.11.1: nạp Thông tư 33/2026/TT-BCT, 34/2026/TT-BCT về chất lượng sản phẩm, hàng hóa
+
+- **vbhc-vn 2.43.1**: `van-ban-goc/chua-phan-loai/` thêm Thông tư số 33/2026/TT-BCT (Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình,
+  mức độ rủi ro cao) và Thông tư số 34/2026/TT-BCT (quản lý chất lượng sản phẩm, hàng hóa), cùng ngày 30/6/2026, hiệu lực 01/7/2026 — Word, PDF, toàn văn `.txt`.
+- **attp-sct-vn 1.11.1**: ref 08 ghi hiệu lực, văn bản bị thay thế của Thông tư 34/2026/TT-BCT theo bản gốc. Sổ đăng ký: TT 33/2026, TT 41/2023, TT 36/2019.
+
 ## 21/11/2026 (lần 3) — sct-laocai-org-vn 2.14.0: lãnh đạo Chi cục Quản lý thị trường; mã vị trí việc làm và cách lập hồ sơ
 
 - **sct-laocai-org-vn 2.14.0**: ref 04 mục D — phân công lãnh đạo Chi cục theo QĐ 149/QĐ-QLTT ngày 08/9/2025; ref 05 mục 8 — mã vị trí

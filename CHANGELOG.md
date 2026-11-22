@@ -1,3 +1,8 @@
+## 22/11/2026 (lần 2) — vbhc-vn 2.43.2: nạp Nghị định 37/2026/NĐ-CP, Nghị quyết 22/2026/NQ-CP
+
+- **vbhc-vn 2.43.2**: `van-ban-goc/chua-phan-loai/` thêm Nghị định số 37/2026/NĐ-CP ngày 23/01/2026 (quy định chi tiết Luật Chất lượng sản phẩm,
+  hàng hóa; bản Word + toàn văn `.txt`) và Nghị quyết số 22/2026/NQ-CP ngày 29/4/2026 (cắt giảm thủ tục hành chính thuộc Bộ Công an; Word, PDF, `.txt`).
+
 ## 22/11/2026 — vbhc-vn 2.43.1, attp-sct-vn 1.11.1: nạp Thông tư 33/2026/TT-BCT, 34/2026/TT-BCT về chất lượng sản phẩm, hàng hóa
 
 - **vbhc-vn 2.43.1**: `van-ban-goc/chua-phan-loai/` thêm Thông tư số 33/2026/TT-BCT (Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình,

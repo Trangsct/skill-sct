@@ -168,7 +168,8 @@ references/
 mau-van-ban/                     Mẫu KH kiểm tra, TB nghiệm thu, CV thẩm định, phiếu trình
 van-ban-goc/                     Luật 135/2025, NĐ 207/2026, NĐ 217/2026, NĐ 140/2025, NĐ 144/2025,
                                  QĐ 11/2026 (Lào Cai); nhóm CHUYỂN TIẾP: NĐ 06/2021, NĐ 175/2024,
-                                 TT 06/2021 + TT 02/2025; TT 36/2026 (chi phí), TT 39/2026 (CSDL)
+                                 TT 06/2021 + TT 02/2025; TT 36/2026 (chi phí), TT 39/2026 (CSDL);
+                                 TT 32/2026 (kiểm định, giám định, quan trắc — ref 07 mục VI)
 vi-du-thuc-te/
   au-lau-110kv-tham-dinh-BCNCKT/ Case study thẩm định BCNCKT ĐZ+TBA 110kV Âu Lâu (Phòng QLNL, 8/2026):
                                  14 file hồ sơ + README-BAI-HOC.md (8 nhóm lỗi cần tránh + điểm làm đúng).

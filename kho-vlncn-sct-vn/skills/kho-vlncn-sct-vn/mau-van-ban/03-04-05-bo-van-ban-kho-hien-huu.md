@@ -1,5 +1,7 @@
 # MẪU 03 — CV hướng dẫn doanh nghiệp kho hiện hữu thực hiện kiểm định (theo 2826/SCT-CN ngày 19/5/2026)
 
+> ⚠ Mẫu 03, 04 viết theo khung cũ (NĐ 06/2021, Điều 5 TT 10/2021 — đã bị bãi bỏ từ 01/7/2026). Văn bản soạn từ 01/7/2026 dùng **mẫu 11** (công văn hướng dẫn) và case Phú Hà trong `vi-du-thuc-te/` (ý kiến đề cương) theo NĐ 207/2026 + Điều 4 TT 32/2026/TT-BXD. Mẫu 05 vẫn dùng được.
+
 Ký hiệu `/SCT-CN`; V/v phúc đáp đề nghị hướng dẫn thực hiện an toàn đưa kho VLNCN vào sử dụng; KT.GĐ - PGĐ Nguyễn Đình Chiến; Lưu: VT, CN(Tên).
 
 **Kính gửi:** {Công ty}

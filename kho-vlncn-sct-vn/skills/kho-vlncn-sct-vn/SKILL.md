@@ -56,8 +56,10 @@ Toàn bộ số/ngày đã xác minh. TUYỆT ĐỐI không tự thay số khác
 10. **NĐ 217/2026/NĐ-CP ngày 19/6/2026** — thiết kế, thẩm định (Đ41-43); Phụ lục IV (danh mục công trình AT-LICĐ); chuyển tiếp Điều 76. **TT 34/2026/TT-BXD** — cấp công trình (dự án quyết định đầu tư từ 01/7/2026). **Mã số 1.2.6.8 Phụ lục I (nhóm 1.2.6 Công trình hóa chất): kho hầm lò/kho ngầm = cấp I mọi quy mô; kho cố định nổi và nửa ngầm >10 tấn = cấp I, ≤10 tấn = cấp II; kho lưu động = cấp II mọi quy mô. KHÔNG có kho VLNCN cấp III/IV** → mọi kho đều thuộc ngưỡng "cấp II trở lên" của Phụ lục IV NĐ 217/2026; không tồn tại lập luận "kho nhỏ nên được miễn". **TT 39/2026/TT-BXD** — mã định danh, CSDL quốc gia HĐXD (ghi mã thật hoặc "chưa được cấp", không ghi lấp lửng).
 11. **QĐ 11/2026/QĐ-UBND ngày 29/01/2026** của UBND tỉnh Lào Cai — Đ16 (tiếp nhận thông báo khởi công), Đ17 (KTCTNT + kiểm tra PCCC hằng năm). Bản dấu đỏ trong `xd-sct-vn/van-ban-goc/`.
 
+11a. **TT 32/2026/TT-BXD ngày 22/6/2026** (hiệu lực 01/7/2026) — **Điều 4: kiểm định xây dựng** (trình tự, 7 nhóm nội dung đề cương, báo cáo kết quả; khoản 5: lấy ý kiến cơ quan quản lý nhà nước về đề cương trước khi phê duyệt, tổ chức kiểm định phải độc lập; khoản 6: khắc phục khi không đạt). Căn cứ của Luồng C kho hiện hữu cùng điểm b, điểm đ khoản 2 Điều 8, khoản 3 Điều 34, khoản 5 Điều 36 NĐ 207/2026. Bản gốc: `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/{N}.docx`.
+
 **Khung CŨ (chỉ dùng theo chuyển tiếp — hồ sơ tiếp nhận / công trình khởi công / dự án quyết định đầu tư TRƯỚC 01/7/2026):**
-12. **Luật Xây dựng 50/2014** (sđ Luật 62/2020) — điểm c khoản 2 Điều 89 (miễn GPXD), Điều 131 (công trình tạm). **NĐ 06/2021/NĐ-CP** — Điều 23 (KTCTNT); sđ bởi NĐ 35/2023, NĐ 175/2024 (năng lực, CCHN), NĐ 144/2025, NĐ 67/2026. **TT 06/2021/TT-BXD** (sđ **TT 02/2025/TT-BXD**) — phân cấp công trình (kho VLNCN ≤10 tấn: cấp II — tiền lệ CV 2826/SCT-CN). **TT 10/2021/TT-BXD** Điều 5 — kiểm định xây dựng. Toàn văn khung cũ: `xd-sct-vn/van-ban-goc/` (các file hậu tố `-CU`).
+12. **Luật Xây dựng 50/2014** (sđ Luật 62/2020) — điểm c khoản 2 Điều 89 (miễn GPXD), Điều 131 (công trình tạm). **NĐ 06/2021/NĐ-CP** — Điều 23 (KTCTNT); sđ bởi NĐ 35/2023, NĐ 175/2024 (năng lực, CCHN), NĐ 144/2025, NĐ 67/2026. **TT 06/2021/TT-BXD** (sđ **TT 02/2025/TT-BXD**) — phân cấp công trình (kho VLNCN ≤10 tấn: cấp II — tiền lệ CV 2826/SCT-CN). **TT 10/2021/TT-BXD** Điều 5 — kiểm định xây dựng (đã bị bãi bỏ từ 01/7/2026 theo khoản 2 Điều 8 TT 32/2026/TT-BXD). Toàn văn khung cũ: `xd-sct-vn/van-ban-goc/` (các file hậu tố `-CU`).
 
 **Nhóm 3 — PCCC, ANTT:**
 13. **Luật PCCC&CNCH số 55/2024/QH15** ngày 29/11/2024 (hiệu lực 01/7/2025) — điểm a khoản 5 Điều 18 (nghiệm thu về PCCC).
@@ -178,7 +180,8 @@ references/
   11-phan-luong-4-truong-hop.md    ⭐ PHÂN LUỒNG 4 trường hợp; cấp công trình TT 34/2026; loại trừ
                                    công trình tạm khỏi KTCTNT (k1 Đ25, k3 Đ53 NĐ 207/2026);
                                    căn cứ kiểm định theo NĐ 207/2026; NĐ 347/2026 (+NQ 66.18) về PCCC
-mau-van-ban/                       mẫu sẵn dùng (điền chỗ trống là ban hành được); mẫu 10: CV hướng dẫn
+mau-van-ban/                       mẫu sẵn dùng (điền chỗ trống là ban hành được); mẫu 11: CV hướng dẫn một kho hiện hữu theo NĐ 207/2026 +
+                                   Điều 4 TT 32/2026/TT-BXD (thay mẫu 03 từ 01/7/2026); mẫu 10: CV hướng dẫn
                                    trình tự từng bước 3 đối tượng kho (cố định mới, tạm, hiện hữu) 25/9/2026
 vi-du-thuc-te/                     Văn bản Sở đã ban hành 4 vụ việc thật + bản phản biện hồ sơ
   dong-tien-kho-tam-KTCTNT-2026/   Case CHUẨN kho tạm theo khung mới (KH 4826, BB 11/8, TB 5088/TB-SCT)

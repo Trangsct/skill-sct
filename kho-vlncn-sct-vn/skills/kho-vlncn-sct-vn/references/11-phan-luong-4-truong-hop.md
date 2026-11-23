@@ -111,7 +111,8 @@ Trước 31/8/2026 ref 05 dẫn khoản 13 Điều 2, điểm g khoản 2 Điề
 4. **Khoản 3 Điều 34 NĐ 207/2026** — công trình đã đưa vào khai thác, sử dụng nhưng chưa có quy trình bảo trì: chủ sở hữu **tổ chức lập và phê duyệt quy trình bảo trì**, có thể tổ chức kiểm định làm cơ sở; quy trình bảo trì **phải xác định rõ thời gian sử dụng còn lại** của công trình, bộ phận, hạng mục, thiết bị.
 5. **Điểm đ khoản 2 Điều 8 NĐ 207/2026** — kiểm định phục vụ bảo trì theo khoản 5 Điều 36.
 6. **Khoản 5 Điều 8 NĐ 207/2026** — chi phí kiểm định trong quá trình khai thác, sử dụng do **chủ sở hữu hoặc chủ quản lý, sử dụng công trình** chi trả.
-7. **Khoản 6 Điều 8 NĐ 207/2026** — *"Nội dung, trình tự, đề cương và báo cáo kết quả kiểm định xây dựng theo quy định của Bộ trưởng Bộ Xây dựng"*. ⚠ **Chưa xác minh** TT 10/2021/TT-BXD còn hiệu lực hay đã có thông tư thay thế — **không viện dẫn số hiệu TT khi chưa kiểm tra**; viết "theo quy định của Bộ trưởng Bộ Xây dựng" kèm k6 Đ8 NĐ 207/2026 là an toàn.
+7. **Khoản 6 Điều 8 NĐ 207/2026** — *"Nội dung, trình tự, đề cương và báo cáo kết quả kiểm định xây dựng theo quy định của Bộ trưởng Bộ Xây dựng"* → **Điều 4 Thông tư số 32/2026/TT-BXD ngày 22/6/2026** (hiệu lực 01/7/2026; đã đối chiếu bản gốc 23/11/2026, `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/2026.06.22-32.2026.TT.BXD-Quy-dinh-chi-tiet-ND-207-2026-QLCL-thi-cong-bao-tri.docx`): khoản 2 trình tự (chủ sở hữu lập, phê duyệt nhiệm vụ kiểm định, chọn tổ chức kiểm định; tổ chức kiểm định lập đề cương trình chủ sở hữu phê duyệt); khoản 3 bảy nhóm nội dung đề cương; khoản 4 nội dung báo cáo kết quả; **khoản 5** lấy ý kiến cơ quan quản lý nhà nước về đề cương trước khi phê duyệt + tổ chức kiểm định phải độc lập; khoản 6 đánh giá, khắc phục khi không đạt. **Điều 5 TT 10/2021/TT-BXD đã bị bãi bỏ** (khoản 2 Điều 8 TT 32/2026 bãi bỏ các điều 2-9 và 19) — không viện dẫn cho việc kiểm định từ 01/7/2026.
+7a. **Điểm b khoản 2 Điều 8 NĐ 207/2026** — kiểm định khi công trình *"không đủ các căn cứ để đánh giá chất lượng, nghiệm thu"*: căn cứ trực tiếp cho kho đã xây, đã dùng mà hồ sơ quản lý chất lượng thi công không đầy đủ (kể cả kho mới xây vài năm), dùng cùng điểm đ khoản 2 Điều 8.
 8. **Điều 40, Điều 41 NĐ 207/2026** — đánh giá an toàn công trình; khoản 2 Điều 40: *"phải áp dụng các tiêu chuẩn, quy chuẩn kỹ thuật đang có hiệu lực ở thời điểm đánh giá"* → chốt được yêu cầu đối chiếu QCVN 01:2019/BCT hiện hành cho kho cũ xây theo quy chuẩn cũ.
 9. **Điểm đ khoản 1 Điều 39 Luật 42/2024** (sđ k6 Đ9 Luật 118/2025) — hồ sơ GP sử dụng phải có tài liệu chứng minh **điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật** → báo cáo kiểm định + CV xác nhận của Sở chính là tài liệu này.
 
@@ -137,6 +138,5 @@ Trước 31/8/2026 ref 05 dẫn khoản 13 Điều 2, điểm g khoản 2 Điề
 
 ## VIII. VIỆC CẦN LÀM TIẾP (chưa xác minh — hỏi Bạn)
 
-- TT 10/2021/TT-BXD còn hiệu lực hay đã có TT thay thế theo k6 Đ8 NĐ 207/2026.
 - Rà soát toàn bộ hồ sơ kho tạm đang thụ lý tại Phòng QLCN để áp khoản 3 Điều 53 NĐ 207/2026 (dừng KTCTNT).
 - Cân nhắc ban hành **công văn hướng dẫn chung** gửi các DN hoạt động VLNCN trên địa bàn theo cấu trúc 4 luồng (bản dự thảo 9-10 trang đã soạn 31/8/2026, có sơ đồ phân luồng và 4 danh mục hồ sơ, trích dẫn in nghiêng đầy đủ điều khoản).

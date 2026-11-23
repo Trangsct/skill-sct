@@ -11,7 +11,7 @@ Doanh nghiệp có kho VLNCN:
 
 → Không thể yêu cầu "nghiệm thu lại" công trình đã dùng gần 20 năm; công cụ pháp lý đúng là **KIỂM ĐỊNH, ĐÁNH GIÁ CHẤT LƯỢNG HIỆN TRẠNG CÔNG TRÌNH**.
 
-⚠ **CĂN CỨ ĐÃ ĐỔI TỪ 01/7/2026.** Chuỗi căn cứ NĐ 06/2021 + TT 10/2021 dưới đây là **khung cũ**, chỉ dùng khi đối chiếu hồ sơ đã tiếp nhận trước 01/7/2026. Việc kiểm định thực hiện ở thời điểm hiện tại phải dùng **NĐ 207/2026**: khoản 8 Điều 2 (định nghĩa), điểm c + điểm đ khoản 5 Điều 36 (trường hợp kiểm định phục vụ bảo trì), khoản 3 Điều 34 (quy trình bảo trì cho công trình đã dùng mà chưa có), điểm đ khoản 2 + khoản 5 + khoản 6 Điều 8, Điều 40-41 (đánh giá an toàn). Chi tiết: reference `11` mục V.
+⚠ **CĂN CỨ ĐÃ ĐỔI TỪ 01/7/2026.** Chuỗi căn cứ NĐ 06/2021 + TT 10/2021 dưới đây là **khung cũ**, chỉ dùng khi đối chiếu hồ sơ đã tiếp nhận trước 01/7/2026. Việc kiểm định thực hiện ở thời điểm hiện tại phải dùng **NĐ 207/2026**: khoản 8 Điều 2 (định nghĩa), điểm c + điểm đ khoản 5 Điều 36 (trường hợp kiểm định phục vụ bảo trì), khoản 3 Điều 34 (quy trình bảo trì cho công trình đã dùng mà chưa có), điểm b, điểm đ khoản 2 + khoản 5 + khoản 6 Điều 8, Điều 40-41 (đánh giá an toàn) và **Điều 4 Thông tư số 32/2026/TT-BXD** (trình tự, đề cương, báo cáo kiểm định; Điều 5 TT 10/2021 đã bị bãi bỏ từ 01/7/2026). Chi tiết: reference `11` mục V; công văn hướng dẫn theo khung mới: **mẫu 11**.
 
 ## II. CĂN CỨ PHÁP LÝ CỦA GIẢI PHÁP KIỂM ĐỊNH (lập luận đã dùng tại CV 2826 — KHUNG CŨ)
 

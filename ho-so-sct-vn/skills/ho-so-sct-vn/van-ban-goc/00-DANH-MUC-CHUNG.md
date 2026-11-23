@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 368 văn bản gốc (368 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 369 văn bản gốc (369 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -90,6 +90,7 @@ Thống kê: 368 văn bản gốc (368 có bản .txt) ở 20 plugin; 30 văn b�
 | 2167/QĐ-UBND | 23/06/2026 | Phu luc danh muc dia ban | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2167-QD-UBND-23-6-2026-Phu-luc-danh-muc-dia-ban.pdf` | có |
 | 2167/QĐ-UBND | 23/06/2026 | cong bo dia ban uu dai dau tu cap xa | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2167-QD-UBND-23-6-2026-cong-bo-dia-ban-uu-dai-dau-tu-cap-xa.pdf` | có |
 | QĐ 2170/2026 | 23/06/2026 | CTDT KCN Ban Qua | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-2170-2026-CTDT-KCN-Ban-Qua.pdf` | có |
+| 32/2026/TT-BXD | 22/06/2026 | Quy dinh chi tiet ND 207 2026 QLCL thi cong bao tri | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/2026.06.22-32.2026.TT.BXD-Quy-dinh-chi-tiet-ND-207-2026-QLCL-thi-cong-bao-tri.docx` | có |
 | 8388/BTC-QLCS | 19/06/2026 | trien khai ND178 | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/CV-8388-BTC-QLCS-19-6-2026-trien-khai-ND178.pdf` | có (OCR) |
 | 217/2026/NĐ-CP | 19/06/2026 | quan ly hoat dong xay dung | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-217-2026-quan-ly-hoat-dong-xay-dung.pdf` | có (OCR) |
 | 212/2026/NĐ-CP | 17/06/2026 | dieu kien nang luc HDXD CSDL quoc gia | xd-sct-vn | `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/ND-212-2026-dieu-kien-nang-luc-HDXD-CSDL-quoc-gia.docx` | có |

@@ -1,3 +1,10 @@
+## 23/11/2026 — xd-sct-vn 1.9.0, kho-vlncn-sct-vn 1.14.0: nạp Thông tư 32/2026/TT-BXD
+
+- **xd-sct-vn 1.9.0**: `van-ban-goc/` thêm Thông tư số 32/2026/TT-BXD ngày 22/6/2026 (Word, PDF ký số, toàn văn `.txt`); ref 07 mục VI
+  (bảng đối chiếu với NĐ 207/2026, Điều 4 kiểm định xây dựng, bãi bỏ các điều 2-9 và 19 TT 10/2021/TT-BXD); sổ đăng ký thêm TT 32/2026.
+- **kho-vlncn-sct-vn 1.14.0**: ref 11 mục V, ref 01, ref 05, SKILL.md dẫn Điều 4 TT 32/2026 theo bản gốc, bỏ cảnh báo chưa xác minh; mẫu 11 mới
+  (công văn hướng dẫn kho hiện hữu theo khung 01/7/2026), mẫu 03, 04 gắn cảnh báo khung cũ.
+
 ## 22/11/2026 (lần 4) — hc-sct-vn 1.12.0: đánh giá lại Văn bản 1709/SCT-CN, loại bỏ lập luận cũ không đúng pháp lý
 
 - **hc-sct-vn 1.12.0**: ref 16 mục 1 viết lại (bảng đánh giá từng lý do của Văn bản 1709/SCT-CN ngày 01/4/2026), thêm mục 1a (10 nguyên tắc

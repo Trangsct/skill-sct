@@ -114,7 +114,8 @@ Thay thế QĐ 51/2008/QĐ-BCT (QCVN 02:2008/BCT) và TT 10/2012/TT-BCT (QCVN 01
 - Nhắc lại Điều 16 NĐ 181/2024: **không bảo quản chung TCTN với hóa chất phản ứng với nhau hoặc khác biện pháp chữa cháy**.
 Toàn văn: `van-ban-goc/2020.12.21-47.2020.TT.BCT-QCVN-04-2020-BCT-Chat-luong-tien-chat-thuoc-no.docx`.
 
-### 14. TT 10/2021/TT-BXD ngày 25/8/2021 — hướng dẫn NĐ 06/2021 và NĐ 44/2016
+### 14. TT 10/2021/TT-BXD ngày 25/8/2021 — hướng dẫn NĐ 06/2021 và NĐ 44/2016 (KHUNG CŨ)
+⚠ Các điều 2-9 và 19 đã bị **bãi bỏ từ 01/7/2026** theo khoản 2 Điều 8 **Thông tư số 32/2026/TT-BXD ngày 22/6/2026**; kiểm định xây dựng nay theo **Điều 4 TT 32/2026** (bản gốc ở `xd-sct-vn/skills/xd-sct-vn/van-ban-goc/`, tóm tắt ở reference `11` mục V). Đoạn dưới chỉ để đối chiếu văn bản đã ban hành trước 01/7/2026.
 **Điều 5: trình tự kiểm định xây dựng**: (i) chủ đầu tư/chủ sở hữu lựa chọn tổ chức kiểm định đủ điều kiện; (ii) tổ chức kiểm định lập **đề cương kiểm định** trình phê duyệt (khi kiểm định theo yêu cầu của cơ quan QLNN: đề cương gửi cơ quan yêu cầu **xem xét, có ý kiến**); (iii) thực hiện kiểm định theo đề cương; (iv) báo cáo kết quả kiểm định. Đây là căn cứ mẫu 04 (xác nhận đề cương).
 
 ### 15. TT 06/2021/TT-BXD ngày 30/6/2021 — phân cấp công trình xây dựng

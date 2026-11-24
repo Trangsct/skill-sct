@@ -1,3 +1,11 @@
+## 24/11/2026 — qlks-sct-vn 2.8.0: nạp Quyết định 95/2026/QĐ-UBND (phòng, chống thiên tai ở khu khai thác khoáng sản, khu công nghiệp); sổ đăng ký rà mạng tuần 24/11
+
+- **qlks-sct-vn 2.8.0**: `van-ban-goc/` thêm QĐ 95/2026/QĐ-UBND ngày 29/10/2026 của UBND tỉnh Lào Cai (PDF bản quét + `.txt` OCR; hiệu lực 08/11/2026;
+  bãi bỏ QĐ 09/2022/QĐ-UBND Lào Cai, QĐ 21/2022, 21/2023/QĐ-UBND Yên Bái); ref 27 mới (nghĩa vụ chủ mỏ khoản 2 Điều 3, trách nhiệm Sở khoản 3 Điều 7).
+- **Sổ đăng ký** `registry/trang-thai.csv`: NĐ 412/2026/NĐ-CP thay NĐ 45/2022/NĐ-CP (xử phạt bảo vệ môi trường, 14/11/2026); NĐ 418/2026/NĐ-CP;
+  VBHN 137/2026/VBHN-TT-BCT; TT 47/2026/TT-BNNMT; QĐ 46/2026/QĐ-TTg (hiệu lực 01/11/2026); các luật Quốc hội thông qua 20–21/11/2026 chưa có số
+  hiệu ghi ở cột dự thảo của luật bị sửa (Luật 42/2024, 55/2024, 84/2015, 31/2024, 15/2012, Luật Bảo vệ môi trường) — đều "chưa đối chiếu bản gốc".
+
 ## 23/11/2026 — xd-sct-vn 1.9.0, kho-vlncn-sct-vn 1.14.0: nạp Thông tư 32/2026/TT-BXD
 
 - **xd-sct-vn 1.9.0**: `van-ban-goc/` thêm Thông tư số 32/2026/TT-BXD ngày 22/6/2026 (Word, PDF ký số, toàn văn `.txt`); ref 07 mục VI

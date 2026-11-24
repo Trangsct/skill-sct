@@ -7,7 +7,7 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 369 văn bản gốc (369 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 370 văn bản gốc (370 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
@@ -15,6 +15,7 @@ Thống kê: 369 văn bản gốc (369 có bản .txt) ở 20 plugin; 30 văn b�
 |---|---|---|---|---|---|
 | 407/2026/NĐ | 12/11/2026 | CP Co che hoat dong tai chinh dac thu EVN | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/2026.11.12-407.2026.ND-CP-Co-che-hoat-dong-tai-chinh-dac-thu-EVN.pdf` | có (OCR) |
 | 69/2026/TT | 30/10/2026 | BCT Sua doi TT 14 2024 bao cao CSDL mau van ban CCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.30-69.2026.TT-BCT-Sua-doi-TT-14-2024-bao-cao-CSDL-mau-van-ban-CCN.pdf` | có (OCR) |
+| 95/2026/QĐ-UBND | 29/10/2026 | Phong chong thien tai khu khai thac khoang san KCN cong trinh | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2026.10.29-95.2026.QD.UBND-Phong-chong-thien-tai-khu-khai-thac-khoang-san-KCN-cong-trinh.pdf` | có (OCR) |
 | 3936/QĐ-HD | 22/10/2026 | Tieu chi lua chon CDT CCN Tan Hop | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.22-3936.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Hop.pdf` | có |
 | 392/2026/NĐ-CP | 20/10/2026 | Sua doi cac ND TTHC dieu kien kinh doanh an ninh trat tu | sd-vlncn-sct-vn | `sd-vlncn-sct-vn/skills/sd-vlncn-sct-vn/van-ban-goc/2026.10.20-392.2026.ND.CP-Sua-doi-cac-ND-TTHC-dieu-kien-kinh-doanh-an-ninh-trat-tu.docx` | có |
 | 3865/QĐ-UBND | 17/10/2026 | Thanh lap CCN Xuan Ai | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.17-3865.QD.UBND-Thanh-lap-CCN-Xuan-Ai.pdf` | có |

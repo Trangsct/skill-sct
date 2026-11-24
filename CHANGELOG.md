@@ -4,7 +4,7 @@
   bãi bỏ QĐ 09/2022/QĐ-UBND Lào Cai, QĐ 21/2022, 21/2023/QĐ-UBND Yên Bái); ref 27 mới (nghĩa vụ chủ mỏ khoản 2 Điều 3, trách nhiệm Sở khoản 3 Điều 7).
 - **Sổ đăng ký** `registry/trang-thai.csv`: NĐ 412/2026/NĐ-CP thay NĐ 45/2022/NĐ-CP (xử phạt bảo vệ môi trường, 14/11/2026); NĐ 418/2026/NĐ-CP;
   VBHN 137/2026/VBHN-TT-BCT; TT 47/2026/TT-BNNMT; QĐ 46/2026/QĐ-TTg (hiệu lực 01/11/2026); các luật Quốc hội thông qua 20–21/11/2026 chưa có số
-  hiệu ghi ở cột dự thảo của luật bị sửa (Luật 42/2024, 55/2024, 84/2015, 31/2024, 15/2012, Luật Bảo vệ môi trường) — đều "chưa đối chiếu bản gốc".
+  hiệu ghi ở cột dự thảo của luật bị sửa (Luật 42/2024, 55/2024, 84/2015, 31/2024, 15/2012, Luật Bảo vệ môi trường) — đều "chưa đối chiếu bản gốc". Bổ sung: NĐ 114/2018 sửa bởi NĐ 402/2026 (an toàn đập, 20/12/2026); TT 26/2016/TT-BCT đã thay bằng TT 31/2025/TT-BCT; NĐ 356/2026 (bãi bỏ 18 nghị định, 01/12/2026).
 
 ## 23/11/2026 — xd-sct-vn 1.9.0, kho-vlncn-sct-vn 1.14.0: nạp Thông tư 32/2026/TT-BXD
 

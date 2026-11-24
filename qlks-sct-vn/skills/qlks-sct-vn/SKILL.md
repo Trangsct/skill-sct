@@ -205,6 +205,10 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  VPUBND → Sở chủ trì); dự thảo TT xuất khẩu KS (9418/BCT-CN; UBND tỉnh báo
                  cáo năm trước 31/01 — dự thảo); TT 59/2026/TT-BCT; HĐ thăm dò QĐ 777 còn
                  dùng 16/11; Kế hoạch đấu giá 2026 (7583/SCT-KS, TTr 7595/TTr-SCT 12/11)
+              27 QĐ 95/2026/QĐ-UBND 29/10/2026 (hiệu lực 08/11/2026; bãi bỏ QĐ 09/2022 Lào Cai,
+                 QĐ 21/2022, 21/2023 Yên Bái): phòng, chống thiên tai ở khu khai thác khoáng sản
+                 (k2 Đ3: bãi thải, hồ thải, thoát nước mỏ), khu công nghiệp, công trình điện lực;
+                 Sở NN&MT đầu mối; Sở Công Thương theo k3 Đ7, không thêm hồ sơ thủ tục
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT
@@ -219,7 +223,7 @@ mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản ki�
 checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ · hồ sơ thu hồi khoáng sản
 vi-du-thuc-te/ 10 văn bản thật về thu hồi KS — xem 00-MUC-LUC.md
 du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý
-van-ban-goc/  26 văn bản nguồn đã đối chiếu (gồm CV 5141, CV 6795 của SNNMT,
+van-ban-goc/  27 văn bản nguồn đã đối chiếu (gồm CV 5141, CV 6795 của SNNMT,
               BB 13A/BB-ĐTT72 của Thanh tra tỉnh và bộ 4 văn bản vụ Đại Đồng Tiến:
               CV 28/CV-ĐĐT, CV 8129/UBND-KT, BB thực địa 21/8/2026, BC 904/BC-SNNMT
               — bản scan/ký số, phải render ảnh để đọc số, ngày)

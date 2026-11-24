@@ -1,6 +1,6 @@
 ## 24/11/2026 (lượt nâng cấp thứ Ba) — 10 plugin theo bản tin EGOV 18–24/11/2026; nạp NĐ 415/2026/NĐ-CP; trạng thái 13 hồ sơ
 
-Quy tắc hai tầng: tầng 1 đọc toàn văn 91/118 mục (27 mục chưa có toàn văn trong kho), tầng 2 lưu để tra 145 mục. Bảng đối chiếu ở kho riêng tư.
+Quy tắc hai tầng: tầng 1 đọc toàn văn 91/118 mục (27 mục chưa có toàn văn trong kho), tầng 2 lưu để tra 142 mục. Bảng đối chiếu ở kho riêng tư.
 
 - **quy-hoach-ct-vn 1.9.0**: ref 14 mới — tổng hợp góp ý dự thảo Nghị quyết HĐND hỗ trợ điện mặt trời mái nhà (theo từng điều), vai trò Sở khi kiểm tra
   dự án điện đang vận hành, giấy phép hoạt động điện lực thủy điện, QH chung đô thị liên phường Nghĩa Lộ (phần cấp điện), 6 lỗi cần tránh.

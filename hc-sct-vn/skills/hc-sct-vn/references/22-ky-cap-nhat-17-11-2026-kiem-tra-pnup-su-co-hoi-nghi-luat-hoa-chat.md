@@ -8,7 +8,7 @@ kho riêng tư (plugin `van-ban-sct-vn`, MCP `tra_van_ban_den_di`).
 | Bước | Văn bản | Nội dung |
 |---|---|---|
 | Quyết định kiểm tra | **QĐ 7478/QĐ-SCT ngày 10/11/2026** của Giám đốc Sở | Kiểm tra việc chấp hành quy định của pháp luật về phòng ngừa, ứng phó sự cố hóa chất trên địa bàn tỉnh; lập Đoàn kiểm tra (Trưởng đoàn PGĐ Nguyễn Đình Chiến) |
-| Thông báo lịch kiểm tra | **TB 7601/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra | Thông báo lịch, nội dung kiểm tra tới các cơ sở (bot chưa tải được bản gốc) |
+| Thông báo lịch kiểm tra | **TB 7601/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra (T/M. Đoàn — Trưởng đoàn Nguyễn Đình Chiến ký) | Gửi Công ty Cổ phần phốt pho Apatit Việt Nam: kiểm tra từ 09h00 ngày 17/11/2026 tại trụ sở và khu vực sản xuất, kinh doanh, sử dụng hóa chất; cơ sở **gửi báo cáo theo Đề cương (Phụ lục I) trước 15/11/2026**; Đoàn làm việc với người đại diện theo pháp luật hoặc người được ủy quyền (đã có toàn văn 24/11/2026 — mục 2a) |
 | Điều chỉnh lịch | **TB 7620/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra | Điều chỉnh thời gian kiểm tra Công ty Cổ phần phốt pho Apatit Việt Nam: **09h00 ngày 18/11/2026**, tại trụ sở và khu vực sản xuất, kinh doanh, sử dụng hóa chất; "các nội dung khác tiếp tục thực hiện theo Thông báo số 7601/TB-ĐKT" |
 
 Kết quả đợt kiểm tra (biên bản, báo cáo, kiến nghị) cập nhật vào sổ theo dõi ref 20 khi có; dự thảo biên bản, báo cáo nằm ở kho riêng tư
@@ -32,6 +32,26 @@ hoạch trước 31/12/2026, Điều 40 NĐ 25/2026), huấn luyện an toàn (r
 - **Khối ký:** `T/M. ĐOÀN KIỂM TRA` / `TRƯỞNG ĐOÀN` / họ tên / dòng chức vụ chính quyền bên dưới tên (`PHÓ GIÁM ĐỐC SỞ CÔNG THƯƠNG LÀO
   CAI`). Thông báo của Đoàn không ghi Ban Giám đốc Sở ở Nơi nhận như công văn thường mà ghi "Giám đốc Sở (để báo cáo)" — giữ theo mẫu thật.
 
+## 2a. Đề cương báo cáo phục vụ kiểm tra phòng ngừa, ứng phó sự cố hóa chất (Phụ lục I kèm TB 7601/TB-ĐKT) — mẫu dùng lại
+
+Tiêu đề báo cáo của cơ sở: *"Việc chấp hành quy định của pháp luật về phòng ngừa, ứng phó sự cố hóa chất trên địa bàn tỉnh"*; số liệu
+**từ 01/01 năm kiểm tra đến thời điểm báo cáo**; kính gửi Đoàn kiểm tra Sở Công Thương; Giám đốc doanh nghiệp ký, đóng dấu.
+
+| Phần | Nội dung cơ sở phải báo cáo |
+|---|---|
+| I. Khái quát | Tên, trụ sở, GCN đăng ký doanh nghiệp; GCN đủ điều kiện sản xuất, kinh doanh hóa chất (số, ngày, cơ quan cấp, loại hóa chất); loại hình hoạt động; người đại diện theo pháp luật; tổng số lao động |
+| II.1 | Bảng hóa chất: tên, mã CAS, khối lượng lưu chứa lớn nhất tại một thời điểm (kg) — để xác định nghĩa vụ Kế hoạch hay Biện pháp (ref 06) |
+| II.2 | Kế hoạch/Biện pháp phòng ngừa, ứng phó sự cố hóa chất; diễn tập từ đầu năm (ngày, hồ sơ) hoặc ngày dự kiến; quyết định thành lập Ban chỉ huy, lực lượng ứng phó sự cố hóa chất |
+| II.3 | Kiểm tra nhà xưởng, kho bãi định kỳ hằng năm và trước mùa mưa bão; biên bản lưu đến kỳ kiểm tra sau |
+| II.4 | Kiểm định máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động (thiết bị, thời hạn, hồ sơ) |
+| II.5 | Phân loại, ghi nhãn hóa chất theo GHS (phiên bản 2 năm 2007 trở đi); xây dựng, lưu giữ Phiếu an toàn hóa chất (số lượng) |
+| II.6 | Huấn luyện an toàn hóa chất từ đầu năm (số người nhóm 1, 2, 3; danh sách; thành phần hồ sơ lưu — ref 07); hồ sơ người phụ trách chuyên môn về an toàn hóa chất (bằng, quyết định phân công, hợp đồng lao động) |
+| II.7 | Điều kiện thực tế nhà xưởng, kho: nội quy an toàn hóa chất, biển báo, hình đồ cảnh báo, sơ đồ thoát hiểm, bảng quy trình vận hành an toàn; bảng thống kê trang thiết bị (tắm rửa mắt khẩn cấp, mặt nạ phòng độc, bình chữa cháy, khẩu trang, găng tay…) |
+| III | Đề xuất, kiến nghị của cơ sở |
+
+Thông báo lịch kiểm tra gửi kèm Đề cương; hạn nộp báo cáo đặt trước ngày kiểm tra (mẫu thật: 2 ngày). Khi soạn biên bản kiểm tra, đi theo
+đúng thứ tự mục II.1–II.7 để đối chiếu báo cáo với thực tế.
+
 ## 3. Hội nghị tuyên truyền, phổ biến Luật Hóa chất và thẩm quyền chính quyền địa phương 2 cấp (20/11/2026)
 
 - **Kế hoạch 7360/KH-SCT ngày 06/11/2026** của Sở; mời bằng **CV 7602/SCT-CN ngày 13/11/2026** (KT. GĐ — PGĐ Nguyễn Đình Chiến; công văn
@@ -48,8 +68,11 @@ hoạch trước 31/12/2026, Điều 40 NĐ 25/2026), huấn luyện an toàn (r
 
 ## 4. Diễn tập phòng ngừa, ứng phó sự cố hóa chất do doanh nghiệp tổ chức
 
-- Giấy mời **399/2026/GM-DLC ngày 11/11/2026** (sổ đến egov1) mời Sở tham dự Chương trình diễn tập phòng ngừa, ứng phó sự cố hóa chất —
-  bot chỉ ghi mục lục, **chưa có toàn văn** (đơn vị mời, thời gian, kịch bản phải tra egov1 hoặc sai bot lấy).
+- Giấy mời **399/2026/GM-DLC ngày 11/11/2026** (sổ đến egov1; bản quét lỗi phông, đọc được 24/11/2026) của **Công ty TNHH MTV Hóa chất
+  Đức Giang Lào Cai**: Chương trình diễn tập phòng ngừa, ứng phó sự cố hóa chất; PCCC và CNCH; ứng phó sự cố môi trường và công tác ATVSLĐ
+  năm 2026 — 09h15 thứ Tư **18/11/2026**, hội trường Khu A và thực binh tại khu vực nhà phản ứng NPK-DAP, phân xưởng DAP Khu B, KCN Tằng
+  Loỏng; tình huống giả định có cháy và rò rỉ NH₃. Mời Sở Công Thương, Sở NN&MT, BQL Khu kinh tế, Phòng Cảnh sát PCCC&CNCH Công an tỉnh,
+  UBND và Công an xã Tằng Loỏng, các doanh nghiệp hóa chất trong KCN. Giám đốc Sở giao PGĐ Hoàng Văn Thuân xử lý chính (bút phê egov1).
 - Khi cử người dự diễn tập: đối chiếu kịch bản với Kế hoạch phòng ngừa, ứng phó sự cố đã được thẩm định (ref 06), ghi nhận tồn tại vào sổ
   theo dõi (ref 20); diễn tập không thay kiểm tra chuyên ngành.
 

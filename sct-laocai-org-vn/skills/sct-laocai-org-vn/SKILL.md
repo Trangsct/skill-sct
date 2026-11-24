@@ -32,6 +32,10 @@ KL 107-KL/TW 17/10/2026, HD 07-HD/BTCTW 19/10/2026; Sở Nội vụ: QĐ 733/QĐ
 
 Mã vị trí việc làm (SCT.LĐQL.01–12, SCT.CMNV…), quỹ giờ 1.904, mức thời gian dùng chung, cách chạy bộ 09 biểu: mục 8 của reference 05. Lãnh đạo Chi cục Quản lý thị trường và phân công theo QĐ 149/QĐ-QLTT ngày 08/9/2025 (Chi cục trưởng Đỗ Du Bắc; các Phó Chi cục trưởng Trần Văn Chiến, Bùi Hồng Hưng, Nguyễn Quang Hiểu): mục D của reference 04.
 
+## Kỳ cập nhật 24/11/2026 — `references/06-ky-cap-nhat-24-11-2026-tam-dung-tuyen-dung-sap-xep-bo-may-tiep-cong-dan.md`
+
+**Tạm dừng tuyển dụng mới, điều chuyển công chức** đến khi xong phương án biên chế 2027–2031 (CV 191/BCĐCP 17/11, CV 13451/BNV-CCVC 20/11, **CV 12027/UBND-NC 22/11/2026**; khung CV 8578/UBND-NC 22/8/2026: điều động giữa các sở chỉ khi Chủ tịch UBND tỉnh chấp thuận). Sắp xếp bộ máy KL 433-KL/TU 05/11/2026; chuyển giao ATTP về Chi cục ATTP thuộc Sở Y tế (KL 114-KL/TW; KH 394/KH-SYT — sẽ sửa QĐ 3628, QĐ 6226). Tiếp công dân, đơn thư: **Văn phòng Sở chủ trì theo dõi hạn, tổng hợp số liệu** (CV 11857/UBND-TCD 18/11, CV 7864/SCT-VP 20/11/2026). Chỉ tiêu 2027 Tỉnh ủy giao Giám đốc Sở (NQ 116-NQ/TU): IIP 12%, 30 CCN, bán lẻ 110.000 tỷ đồng, XNK qua địa bàn 7.100 triệu USD, hộ dùng điện an toàn 96,89%.
+
 ## Căn cứ pháp lý gốc
 
 - **NĐ số 351/2026/NĐ-CP ngày 11/9/2026** của Chính phủ quy định CNNV, quyền hạn và cơ cấu tổ chức của **Bộ Công Thương** (Phó Thủ tướng Phạm Gia Túc ký; thay **NĐ 40/2025/NĐ-CP — lịch sử**). Điều 1 bổ sung lĩnh vực **than, địa chất, khoáng sản, dầu khí, khu công nghiệp** vào Bộ; khoản 11 Điều 2 nhiệm vụ địa chất và khoáng sản; khoản 12 khuyến công, khu công nghiệp, cụm công nghiệp. Dùng để đối chiếu một lĩnh vực thuộc nhóm nào ở cấp Bộ. Bản gốc: `van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` (+ `.txt`).

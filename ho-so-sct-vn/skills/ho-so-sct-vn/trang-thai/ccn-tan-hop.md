@@ -18,6 +18,8 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 | 3936/QĐ-HĐ | 22/10/2026 | Hội đồng đánh giá lựa chọn chủ đầu tư CCN Tân Hợp (PCT UBND tỉnh Ngô Hạnh Phúc ký) | Ban hành Quy định tiêu chí đánh giá lựa chọn chủ đầu tư xây dựng hạ tầng kỹ thuật CCN Tân Hợp | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.22-3936.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Hop.pdf` (+ .txt; bản Word trong vi-du-thuc-te; tóm tắt ref 51) |
 | 7629/GM-SCT | 13/11/2026 | Sở Công Thương (PGĐ Nguyễn Đình Chiến ký) | Giấy mời họp, thảo luận, đánh giá chấm điểm lựa chọn chủ đầu tư hạ tầng CCN Tân Hợp và CCN Bản Phiệt 1 (kho mới có trích yếu, chưa có toàn văn) | — |
 | 4268/QĐ-UBND | 15/11/2026 | UBND tỉnh Lào Cai (Chủ tịch Nguyễn Tuấn Anh ký) | Chủ trương đầu tư dự án Nâng cấp tuyến đường vào khu quy hoạch CCN Tân Hợp: khoảng 1,1 km, nền 13,5 m, nhóm C, 29.000 triệu đồng ngân sách tỉnh, 2026–2028, chủ đầu tư UBND xã Tân Hợp | kho riêng tư vlncn-laocai theo-doi/2026/4268_QD-UBND.md; tóm tắt ref 57 mục E |
+| 7845/BC-SCT | 20/11/2026 | Sở Công Thương (PGĐ Nguyễn Đình Chiến ký) | Báo cáo thẩm định thành lập CCN Tân Hợp 75 ha; Hội đồng họp 17/11/2026, Công ty cổ phần PH Group đạt 75,94/100 điểm, đủ điều kiện giao CĐT | kho riêng tư theo-doi/2026/7845_BC-SCT.md |
+| 7928/TTr-SCT | 23/11/2026 | Sở Công Thương (GĐ Hoàng Chí Hiền ký) | Trình UBND tỉnh thành lập CCN Tân Hợp, giao Công ty cổ phần PH Group làm CĐT | kho riêng tư theo-doi/2026/7928_TTr-SCT.md |
 
 ## Bước đã xong
 
@@ -26,16 +28,17 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 3. (22/10/2026) Ban hành Quy định tiêu chí đánh giá lựa chọn chủ đầu tư (QĐ 3936/QĐ-HĐ) — bậc 7.
 4. (17/11/2026) Sở phát hành giấy mời họp chấm điểm lựa chọn chủ đầu tư (7629/GM-SCT ngày 13/11/2026)
 5. (17/11/2026) Có chủ trương đầu tư đường vào khu quy hoạch cụm (QĐ 4268/QĐ-UBND ngày 15/11/2026) — hạ tầng ngoài hàng rào
+6. (24/11/2026) Hội đồng họp chấm điểm lựa chọn CĐT ngày 17/11/2026 (08/08 thành viên; điểm trung bình 75,94/100) — bậc 8
+7. (24/11/2026) Sở thẩm định (7845/BC-SCT ngày 20/11/2026), trình UBND tỉnh thành lập (7928/TTr-SCT ngày 23/11/2026) — bậc 9
 
 ## Bước tiếp theo
 
-- Họp Hội đồng chấm điểm theo 7629/GM-SCT (ngày họp: chưa có toàn văn giấy mời trong kho) — bậc 8
-- Sau họp: Sở thẩm định, trình UBND tỉnh quyết định thành lập cụm — bậc 9; TB 1244-TB/TU mục II.4.3 yêu cầu trình trong tháng 11/2026
-- UBND xã Tân Hợp tiếp thu ý kiến thẩm định, hoàn thành Báo cáo nghiên cứu khả thi dự án đường vào (Điều 2 QĐ 4268); Sở Công Thương hướng dẫn theo chức năng
+- UBND tỉnh ban hành QĐ thành lập CCN Tân Hợp, giao Công ty cổ phần PH Group làm CĐT — bậc 10
+- Sau thành lập: CĐT phối hợp xã lập QH chi tiết; chuyển mục đích sử dụng rừng, ĐTM, thẩm định PCCC; mô-đun XLNT giai đoạn 1 xong trước khi dự án thứ cấp hoạt động
+- UBND xã Tân Hợp hoàn thành Báo cáo nghiên cứu khả thi dự án đường vào (QĐ 4268/QĐ-UBND)
 
 ## Vướng mắc, câu hỏi còn mở
 
-- Kết quả giải trình, hoàn thiện hồ sơ theo Văn bản 6125/SCT-CN: chưa có thông tin trong kho.
 - Ý kiến của Sở Tài chính về dự thảo tiêu chí (CV 6346/SCT-CN): chưa có thông tin trong kho.
 
 ## Quyết định của Bạn
@@ -53,3 +56,6 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 
 ### 17/11/2026
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc 4268/QĐ-UBND, 7629/GM-SCT
+
+### 24/11/2026
+- Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 7845/BC-SCT, 7928/TTr-SCT

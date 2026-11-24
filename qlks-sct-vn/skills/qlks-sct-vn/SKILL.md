@@ -209,6 +209,13 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  QĐ 21/2022, 21/2023 Yên Bái): phòng, chống thiên tai ở khu khai thác khoáng sản
                  (k2 Đ3: bãi thải, hồ thải, thoát nước mỏ), khu công nghiệp, công trình điện lực;
                  Sở NN&MT đầu mối; Sở Công Thương theo k3 Đ7, không thêm hồ sơ thủ tục
+              28 KỲ CẬP NHẬT 24/11/2026: thẩm quyền thẩm định BCNCKT, nghiệm thu, an toàn mỏ nhóm II, III
+                 CHƯA rõ (676/ĐCKS-PCKT ↔ 15222/BXD-TCCB; 11862/UBND-KT giao Sở tự hỏi Bộ — 7886/SCT-KS);
+                 Kế hoạch đấu giá 2026 đợt 3 QĐ 4309/QĐ-UBND 18/11 (felspat Thái Niên); mẫu lấy ý kiến khu
+                 vực đấu giá (7583/SCT-KS, Phòng QLCN cho ý kiến CCN + nổ mìn); lựa chọn tổ chức cấp GP khai
+                 thác khu vực không đấu giá (k3 Đ59a NĐ 193 — TB 7849/TB-SCT); bỏ mẫu công nghệ k5 Đ18 TT 59
+                 (7853/SCT-KS); lấy ý kiến Cục Hàng hải cát sỏi sông Hồng; khoáng sản trong thẩm định chủ
+                 trương đầu tư (NĐ 96/2026); góp ý 03 TT kỹ thuật thăm dò hạn 30/11; Sảng Pả hạn 30/11
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT

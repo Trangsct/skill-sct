@@ -1,3 +1,26 @@
+## 24/11/2026 (lượt nâng cấp thứ Ba) — 10 plugin theo bản tin EGOV 18–24/11/2026; nạp NĐ 415/2026/NĐ-CP; trạng thái 13 hồ sơ
+
+Quy tắc hai tầng: tầng 1 đọc toàn văn 91/118 mục (27 mục chưa có toàn văn trong kho), tầng 2 lưu để tra 145 mục. Bảng đối chiếu ở kho riêng tư.
+
+- **quy-hoach-ct-vn 1.9.0**: ref 14 mới — tổng hợp góp ý dự thảo Nghị quyết HĐND hỗ trợ điện mặt trời mái nhà (theo từng điều), vai trò Sở khi kiểm tra
+  dự án điện đang vận hành, giấy phép hoạt động điện lực thủy điện, QH chung đô thị liên phường Nghĩa Lộ (phần cấp điện), 6 lỗi cần tránh.
+- **qlks-sct-vn 2.9.0**: ref 28 mới — thẩm quyền mỏ nhóm II, III; Kế hoạch đấu giá đợt 3 (QĐ 4309/QĐ-UBND); lấy ý kiến khu vực đấu giá; lựa chọn tổ chức
+  ở khu vực không đấu giá (Điều 59a NĐ 193/2025); cát sỏi sông Hồng; khoáng sản trong thẩm định chủ trương đầu tư (NĐ 96/2026); việc hạn 30/11.
+- **kccn-sct-vn 1.69.0**: ref 58 mới — khuôn Báo cáo thẩm định cụm do doanh nghiệp làm chủ đầu tư (Tân Hợp) và cụm vốn ngân sách (4 cụm), CCN Bát Xát
+  (bậc 4), tiêu chí lựa chọn chủ đầu tư Phú Thịnh 6, đề án di dời, KCN Tằng Loỏng, QĐ 4368/QĐ-UBND; danh mục KCN, CCN ghi chú 6 cụm.
+- **dacn-sct-vn 1.15.0**: ref 19 mới — ý kiến phối hợp thẩm định phải nêu rõ thống nhất/không thống nhất; khuôn ý kiến nguồn nguyên liệu khoáng sản; ngưỡng xin chủ trương.
+- **attp-sct-vn 1.12.0**: ref 13 — lịch Đề án thành lập Chi cục An toàn thực phẩm (KH 394/KH-SYT), bảng nhiệm vụ chuyển giao.
+- **sct-laocai-org-vn 2.15.0**: ref 06 mới — tạm dừng tuyển dụng, điều chuyển (12027/UBND-NC), đầu mối đơn thư, chỉ tiêu 2027 (NQ 116-NQ/TU).
+- **bvmt-sct-vn 1.11.0**: ref 15 mới — rà soát quan trắc môi trường, quy định bao bì EU (PPWR), đất đá thải mỏ, chỉ tiêu môi trường 2027.
+- **xp-sct-vn 1.9.0**: ref 90 dòng 20 — NĐ 415/2026/NĐ-CP ngày 19/11/2026 (xử phạt khoa học và công nghệ, chuyển giao công nghệ; hiệu lực 05/01/2027);
+  `van-ban-goc/` thêm bản gốc Word, PDF ký số, toàn văn `.txt`.
+- **hc-sct-vn 1.13.0**: ref 22 — đề cương báo cáo kiểm tra phòng ngừa, ứng phó sự cố hóa chất; diễn tập.
+- **kho-vlncn-sct-vn 1.15.0**: SKILL.md căn cứ 11 — cảnh báo QĐ 92/2026/QĐ-UBND có thể thay QĐ 11/2026/QĐ-UBND (chưa có bản ký).
+- **Trạng thái hồ sơ** `trang-thai/`: tạo 3 hồ sơ (thanh-lap-cum-cong-nghiep-bat-xat; bao-cao-thuc-hien-nhiem-vu-tai-nghi-quyet-111…; bao-cao-kiem-diem-chi-dao-dieu-hanh…);
+  ghi nhật ký 10 hồ sơ (ccn-tan-hop, thanh-lap-08-cum…, ccn-phu-thinh-1, ccn-thong-nhat-1, ccn-phu-thinh-6, chuyen-giao-quan-ly-an-toan-thuc-pham…, kho Lương Hà,
+  huấn luyện Sông Đà 10.1, rà soát vị trí việc làm); gói claude.ai ho-so-sct-vn 1.0.3.
+- **Sổ đăng ký**: nạp đề xuất từ bản tin EGOV; thêm NĐ 415/2026 (đã đối chiếu bản gốc) và 14 văn bản được viện dẫn (chưa đối chiếu bản gốc).
+
 ## 24/11/2026 — qlks-sct-vn 2.8.0: nạp Quyết định 95/2026/QĐ-UBND (phòng, chống thiên tai ở khu khai thác khoáng sản, khu công nghiệp); sổ đăng ký rà mạng tuần 24/11
 
 - **qlks-sct-vn 2.8.0**: `van-ban-goc/` thêm QĐ 95/2026/QĐ-UBND ngày 29/10/2026 của UBND tỉnh Lào Cai (PDF bản quét + `.txt` OCR; hiệu lực 08/11/2026;

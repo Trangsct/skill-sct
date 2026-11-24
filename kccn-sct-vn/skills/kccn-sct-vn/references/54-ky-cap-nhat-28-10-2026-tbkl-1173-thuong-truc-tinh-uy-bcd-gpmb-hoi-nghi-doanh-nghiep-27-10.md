@@ -159,6 +159,9 @@ Văn bản đến của cơ quan — chỉ tóm tắt, không lưu bản gốc v
 - Việc tiếp theo của Phòng QLCN: sau 18/11/2026 theo dõi xã tổng hợp số hồ sơ — **một hồ sơ** thì xã hoàn thiện, gửi Sở thẩm định;
   **từ hai hồ sơ trở lên** thì phải tổ chức đánh giá lựa chọn chủ đầu tư theo tiêu chí (khuôn Tân Hợp, ref 51) — tra lại điều khoản
   NĐ 303/2026 khi trả lời xã. GATE trạng thái hồ sơ: chưa có tệp `trang-thai/` cho CCN Bát Xát.
+- **Cập nhật 24/11/2026 (ref 58 mục D):** xã ghi kết thúc tiếp nhận 17h00 ngày 09/11/2026 (705/TB-UBND ngày 11/11/2026) với **02 hồ
+  sơ** (thêm Công ty cổ phần Cụm công nghiệp Kim Thành), trình 437/TTr-UBND ngày 13/11/2026 (khoảng 57 ha theo QĐ 525); Sở xin ý
+  kiến 7748/SCT-CN ngày 17/11/2026 — bậc 4. Các dòng "một hồ sơ", "đến 18/11/2026" ở trên là tình trạng trước ngày 11/11/2026.
 - ⚠️ Không nhầm với **KCN Bát Xát** (KCN quy hoạch 76 ha, xã Bát Xát — ref 12 theo QĐ 525) và KCN Bản Qua (xã Bát Xát). CCN Bát
   Xát lấy diện tích theo QĐ 1958/QĐ-TTg; khi soạn văn bản phải dẫn đúng quy hoạch làm căn cứ.
 

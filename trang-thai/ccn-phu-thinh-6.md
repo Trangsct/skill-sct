@@ -18,6 +18,7 @@ Plugin liên quan: kccn-sct-vn
 | 7447/SCT-CN | 10/11/2026 | Sở Công Thương | Lấy ý kiến thành viên Hội đồng vào dự thảo Quy định tiêu chí đánh giá lựa chọn chủ đầu tư (kho mới có trích yếu) | — |
 | 11140/SNNMT-QLĐĐ | 12/11/2026 | Sở Nông nghiệp và Môi trường (PGĐ Trịnh Thị Thu Huyền ký) | Cơ bản nhất trí dự thảo tiêu chí; đề nghị bổ sung yêu cầu đối với dự án nghiên cứu, sản xuất, ứng dụng công nghệ cao (lĩnh vực, tiêu chuẩn, văn bản quy phạm) để chấm mục Kế hoạch thu hút đầu tư | kho riêng tư theo-doi/2026/11140_SNNMT-QLDD.md |
 | 7913/CAT-ANKT | 12/11/2026 | Công an tỉnh (PGĐ Nguyễn Mạnh Hùng ký) | Thành viên Hội đồng thống nhất dự thảo tiêu chí; đề nghị yêu cầu chủ đầu tư khảo sát, đánh giá tác động môi trường, đời sống người dân trước khi thực hiện (bản quét; số theo egov1) | kho riêng tư theo-doi/2026/7913_CAT.pdf |
+| 761/PG-NB | 23/11/2026 | Thành viên Hội đồng (PGĐ Sở Tài chính Vũ Lân) | Đề xuất sửa dự thảo tiêu chí lựa chọn CĐT CCN công nghệ cao Phú Thịnh 6: 06 điều kiện tiên quyết, NPV/IRR, tiến độ ≤24/30 tháng từ khi giao đất | kho riêng tư theo-doi/2026/761_PG-NB.md |
 
 ## Bước đã xong
 
@@ -33,6 +34,7 @@ Plugin liên quan: kccn-sct-vn
 ## Vướng mắc, câu hỏi còn mở
 
 - (10/11/2026) Sở Tài chính (Văn bản 8589/STC-TĐ ngày 23/10/2026) đánh giá nhà đầu tư chưa chứng minh được khả năng bố trí đủ vốn chủ sở hữu 90 tỷ đồng (15% của 600 tỷ đồng)
+- (24/11/2026) (24/11/2026) Tiếp thu đến đâu đề xuất 761/PG-NB (ngành nghề kinh doanh bất động sản, tỷ lệ dư nợ theo Điều 5 NĐ 96/2024/NĐ-CP, NPV/IRR, mốc 30 tháng) — đối chiếu ref 27 mục D, ref 58 mục E
 
 ## Quyết định của Bạn
 
@@ -51,3 +53,7 @@ Plugin liên quan: kccn-sct-vn
 
 ### 17/11/2026
 - Việc đã làm: Lượt nâng cấp 17/11/2026: đọc 11140/SNNMT-QLĐĐ, 7913/CAT
+
+### 24/11/2026
+- Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 761/PG-NB
+- Câu hỏi chưa được trả lời: (24/11/2026) Tiếp thu đến đâu đề xuất 761/PG-NB (ngành nghề kinh doanh bất động sản, tỷ lệ dư nợ theo Điều 5 NĐ 96/2024/NĐ-CP, NPV/IRR, mốc 30 tháng) — đối chiếu ref 27 mục D, ref 58 mục E

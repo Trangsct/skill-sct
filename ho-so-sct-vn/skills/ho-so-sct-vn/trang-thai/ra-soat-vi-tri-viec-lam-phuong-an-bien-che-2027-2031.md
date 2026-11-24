@@ -7,6 +7,7 @@ Plugin liên quan: sct-laocai-org-vn
 
 | Số ký hiệu | Ngày | Cơ quan | Trích yếu ngắn | Tệp trong kho |
 |---|---|---|---|---|
+| 12027/UBND-NC | 22/11/2026 | UBND tỉnh | Tạm dừng tuyển dụng, điều chuyển CBCC trong thời gian rà soát VTVL và phương án biên chế 2027-2031 | văn bản đến |
 
 ## Bước đã xong
 
@@ -14,7 +15,7 @@ Plugin liên quan: sct-laocai-org-vn
 
 ## Bước tiếp theo
 
-- Theo quy trình thẩm định của Sở Nội vụ (CV 4673/SNV-TCBC ngày 12/11/2026, reference 05 của sct-laocai-org-vn)
+- Văn phòng Sở (xử lý chính) triển khai CV 12027/UBND-NC: không trình kế hoạch tuyển dụng mới; điều chuyển chỉ khi Chủ tịch UBND tỉnh cho chủ trương
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -38,3 +39,6 @@ Plugin liên quan: sct-laocai-org-vn
 ### 06/11/2026
 - Việc đã làm: Lập biểu vị trí việc làm theo giờ công cho Ban Giám đốc, Văn phòng Sở, các Phòng Quản lý công nghiệp, Quản lý thương mại, Quản lý năng lượng, Quản lý khoáng sản và Chi cục Quản lý thị trường; gộp phiếu thu số liệu toàn Sở; danh mục tài liệu kiểm chứng; chạy số Chi cục vào bộ 09 biểu
 - Quyết định của Bạn: Hồ sơ chung của Sở: không ghi chú cá nhân, không ghi nguồn riêng; nguồn chỉ ghi sổ văn bản đi, sổ văn bản đến, biểu kê khai cá nhân; Mỗi người trong khoảng 100-130% quỹ 1.904 giờ; người kê thiếu thì bổ sung công việc thường xuyên của vị trí
+
+### 24/11/2026
+- Việc đã làm: Ghi chỉ đạo tạm dừng tuyển dụng, điều chuyển CBCC (sct-laocai-org-vn ref 06)

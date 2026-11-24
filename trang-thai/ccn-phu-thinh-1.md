@@ -13,6 +13,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 | 5424/TTr-SCT | 04/9/2026 | Sở Công Thương | Trình điều chỉnh | — (ref 30, ref 44) |
 | 1305-NQ/ĐU | 08/10/2026 | BTV Đảng ủy UBND tỉnh | Chủ trương điều chỉnh | — (ref 46) |
 | 3725/QĐ-UBND | 09/10/2026 | UBND tỉnh Lào Cai | Điều chỉnh QĐ thành lập: đổi địa điểm, bổ sung ngành giấy công nghệ cao, hợp kim nhôm; tiến độ 3 giai đoạn; chủ đầu tư Liên danh Công ty CP Tập đoàn Đông Đô và Công ty CP Đầu tư Xây dựng số 9 Bắc Giang | — (ref 46 dòng 14, 61–72; bản gốc không chép vào kho công khai) |
+| 666/BC-UBND | 03/11/2026 | UBND phường Văn Phú (PCT Bùi Ngọc Giang ký) | Vướng mắc GPMB đất có nguồn gốc Công ty cổ phần Chè Văn Hưng — 04 dự án Phú Thịnh, 41,88 ha trên địa bàn phường; Phú Thịnh 1 phê duyệt 34/61 hộ | kho riêng tư theo-doi/2026/666_BC-UBND.md |
 
 ## Bước đã xong
 
@@ -30,6 +31,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 - Đất Chè Văn Hưng 23,09 ha (ref 44 dòng 101); Sở Nông nghiệp và Môi trường giải quyết trong Quý IV/2026 (ref 46 dòng 38).
 - Mốc khởi công các nguồn không khớp ("đã khởi công từ các năm trước" ref 30 dòng 21 ↔ "chưa thi công" ref 42 dòng 196); bản trình không nêu mốc khởi công (ref 43 dòng 62).
 - Chưa giao đất; đang trình ĐTM và hồ sơ rừng (ref 44 dòng 84).
+- (24/11/2026) (24/11/2026) Phú Thịnh 1: đất Chè Văn Hưng trên địa bàn phường Văn Phú 19,50 ha; 2,23 ha do Ban QLDA ĐTXD khu vực Yên Bình (giải thể 15/5/2026) chưa kiểm đếm vì chưa có đơn vị tiếp nhận; phường đề nghị Sở NN&MT hướng dẫn chủ thể được hỗ trợ tài sản
 
 ## Quyết định của Bạn
 
@@ -45,3 +47,6 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 
 ### 17/10/2026
 - Việc đã làm: khởi tạo tệp trạng thái từ ref 30, 41–46 của kccn-sct-vn (bản giao việc 17/10/2026, mục 5.1).
+
+### 24/11/2026
+- Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 666/BC-UBND

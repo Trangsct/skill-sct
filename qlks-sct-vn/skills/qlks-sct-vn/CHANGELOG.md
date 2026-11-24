@@ -1,5 +1,10 @@
 # CHANGELOG — qlks-sct-vn
 
+## v2.9.0 — 24/11/2026 — Kỳ cập nhật 24/11/2026 (ref 28)
+
+- Thẩm quyền mỏ nhóm II, III chưa rõ; Kế hoạch đấu giá đợt 3 (QĐ 4309/QĐ-UBND); lựa chọn tổ chức ở khu vực không đấu giá (k3 Đ59a NĐ 193);
+  mẫu công nghệ (k5 Đ18 TT 59/2026). Chi tiết: `CHANGELOG-v2026.11.24.md`.
+
 ## v2.6.1 — 13/11/2026 — Hình thức xử lý giấy phép, giấy chứng nhận đã ban hành mà sai theo đề nghị của doanh nghiệp
 
 - Bổ sung vào phần xử lý khi giấy phép, giấy chứng nhận đã ban hành mà sai: **hình thức xử lý theo đề nghị bằng văn bản của doanh nghiệp** (Bạn chốt 13/11/2026), Sở không tự chọn thay; chưa có đề nghị thì thông báo chỗ sai và hướng xử lý để doanh nghiệp đề nghị.

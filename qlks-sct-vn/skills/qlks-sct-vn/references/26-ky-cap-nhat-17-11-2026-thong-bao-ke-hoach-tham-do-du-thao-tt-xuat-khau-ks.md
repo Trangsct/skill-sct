@@ -58,6 +58,8 @@ Lương, 6,9 ha, thăm dò 6 tháng (Công ty cổ phần Xây dựng Thịnh H�
     lịch báo cáo ref 14);
   - Phụ lục I: chỉ tiêu kỹ thuật nhận diện khoáng sản chiến lược, quan trọng có nguồn gốc khai thác trong nước được phép xuất khẩu theo
     quyết định của Thủ tướng (STT 48: graphit tinh sạch, cacbon cố định > 99%).
+- **Đã ban hành: CV 11854/UBND-KT ngày 18/11/2026** của UBND tỉnh (PCT Nguyễn Thành Sinh ký) gửi Cục Công nghiệp – Bộ Công Thương, cơ bản
+  thống nhất dự thảo, giữ ba ý dưới đây (bản ban hành dẫn NQ 57-NQ/TW và QĐ 21/2026/QĐ-TTg, không dẫn QĐ 3792/QĐ-BNNMT) — ref 28.
 - Ý kiến tỉnh Lào Cai (dự thảo do Sở tham mưu): sửa lệch mã mẫu (Điều 8 ghi Mẫu 02 nhưng Phụ lục IV ghi "Mẫu số 01 (KSXK-001)"); Mẫu 03 ghi
   kỳ 6 tháng/năm trong khi khoản 3 Điều 8 chỉ quy định báo cáo năm; **đề nghị không đưa graphit mới tinh sạch (C > 99%) vào danh mục được
   xuất khẩu**, nếu cho xuất thì quy định cụ thể sản phẩm chế biến sâu (vật liệu anốt graphit đã cầu hóa, tinh sạch, phủ cacbon cho pin
@@ -98,6 +100,8 @@ Nối ref 25 mục G điểm 4 (VB 10747/UBND-KT ngày 21/10/2026 — bổ sung 
    sản làm vật liệu xây dựng và vật liệu xây dựng thông thường trên địa bàn tỉnh Lào Cai**. Bản bot tải về chỉ là **sơ đồ khu vực đấu giá
    mỏ kaolin Thái Niên – Bảo Thắng, xã Bảo Thắng** (02 khối, 29,92 ha + 23,85 ha = **53,77 ha**, hệ VN-2000 KTT 104°45′ múi 3°); thân Tờ
    trình chưa tải được — số khu vực, danh mục mỏ trong Kế hoạch phải đọc từ bản gốc.
+   **Cập nhật 24/11/2026:** đã phê duyệt tại **QĐ 4309/QĐ-UBND ngày 18/11/2026** (Kế hoạch đợt 3: 03 khu vực — bãi bồi đá, cát, sỏi xã
+   Trịnh Tường; đá vôi Khe Sán xã Châu Quế; **kaolin – felspat Thái Niên – Bảo Thắng, đấu giá felspat**) — chi tiết ref 28 mục B.
 3. Thủ tục áp dụng: TTHC nội bộ số (7) "lập, phê duyệt, công khai kế hoạch đấu giá quyền khai thác" công bố tại QĐ 4217/QĐ-UBND ngày
    10/11/2026 (ref 23 mục VII).
 

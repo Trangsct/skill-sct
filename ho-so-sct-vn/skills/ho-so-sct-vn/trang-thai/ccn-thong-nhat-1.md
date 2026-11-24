@@ -17,6 +17,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 | 3382/QĐ-UBND | 18/9/2026 | UBND tỉnh Lào Cai | Phê duyệt dự án đường IC18 – CCN | — (ref 23) |
 | 3480/QĐ-UBND | 27/9/2026 | UBND tỉnh Lào Cai | Phê duyệt dự án đường Quốc lộ 4E – CCN | — (ref 23) |
 | 6468/SCT-CN | 09/10/2026 | Sở Công Thương | Trả lời chủ đầu tư về miễn tiền thuê đất (QĐ 2167/QĐ-UBND địa bàn ưu đãi) | — (ref 46 dòng 15–16, 80–87) |
+| 1438/BGT-QLĐT | 20/11/2026 | Ban QLDA ĐTXD công trình giao thông tỉnh | Dấu hiệu nghi ngờ khoáng sản tại Km2+180 tuyến IC18 – CCN Thống Nhất 1; đề nghị Sở tổng hợp báo cáo UBND tỉnh cho tiếp tục lựa chọn nhà thầu các đoạn đủ điều kiện | kho riêng tư theo-doi/2026/1438_BGT-QLDT.md |
 
 ## Bước đã xong
 
@@ -25,9 +26,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 
 ## Bước tiếp theo
 
-- Xã Gia Phú hoàn thành khu tái định cư trong Quý IV/2026 (ref 46 dòng 43).
-- Khởi công 02 tuyến đường kết nối trong Quý IV/2026 (ref 46 dòng 47).
-- Hoàn thành hạ tầng tháng 8/2027 (ref 44 dòng 83).
+- Sở tổng hợp, báo cáo UBND tỉnh đề nghị tại 1438/BGT-QLĐT (phối hợp Phòng QLKS, Sở NN&MT)
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -35,6 +34,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 - 02 hộ còn đang vận động; 25 hộ tái định cư chưa di chuyển (ref 44 dòng 83).
 - Thông báo khởi công chưa gửi Sở Xây dựng (`kccn-sct-vn/skills/kccn-sct-vn/checklists/checklist-khoi-cong.md` dòng 105).
 - (18/10/2026) Số Quyết định cho thuê đất giai đoạn 1 ghi 636/QĐ-UBND ngày 23/4/2026 lấy theo văn bản của Công ty (BC 214/BC-LCIDI, VB 232/CV-LCIDI-HT), chưa có bản gốc; cùng ngày 23/4/2026 UBND tỉnh đã ban hành QĐ 1382/QĐ-UBND nên số 636 cần Bạn đối chiếu trước khi viện dẫn (ref 47 mục F)
+- (24/11/2026) (24/11/2026) Tuyến IC18: đoạn Km2+180 nghi có apatit (P2O5 sơ bộ 3,38–27,24%, chưa kiểm chứng); cần phối hợp Phòng QLKS, Sở NN&MT
 
 ## Quyết định của Bạn
 
@@ -57,3 +57,6 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, xd-sct-vn, vbhc-vn
 - Việc đã làm: Chuyển PR 127 lên kccn-sct-vn 1.52.0: ref 47 địa bàn ưu đãi đầu tư (QĐ 2167/QĐ-UBND thay QĐ 1894), bản gốc QĐ 1894, 2167, 2752 vào van-ban-goc
 - Quyết định của Bạn: Địa bàn ưu đãi: xã Gia Phú STT 28 Mục I Phụ lục QĐ 2167 — đặc biệt khó khăn; QĐ 2167 căn cứ NĐ 96/2026/NĐ-CP (ref 47 mục B, C)
 - Câu hỏi chưa được trả lời: Số Quyết định cho thuê đất giai đoạn 1 ghi 636/QĐ-UBND ngày 23/4/2026 lấy theo văn bản của Công ty (BC 214/BC-LCIDI, VB 232/CV-LCIDI-HT), chưa có bản gốc; cùng ngày 23/4/2026 UBND tỉnh đã ban hành QĐ 1382/QĐ-UBND nên số 636 cần Bạn đối chiếu trước khi viện dẫn (ref 47 mục F)
+
+### 24/11/2026
+- Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 1438/BGT-QLĐT

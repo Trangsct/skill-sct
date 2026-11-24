@@ -27,18 +27,18 @@
       "ngay_ban_hanh": "2012-06-20",
       "ngay_hieu_luc": "2013-07-01",
       "bi_sua_doi_boi": "Luật 67/2020; Luật 88/2025 (01/7/2025)",
-      "ghi_chu": "Luật XLVPHC; bản hợp nhất 63/VBHN-VPQH 2025; Luật 88 bãi bỏ Đ38–49, 51 — thẩm quyền theo NĐ 189/2025"
+      "ghi_chu": "Luật XLVPHC; bản hợp nhất 63/VBHN-VPQH 2025; Luật 88 bãi bỏ Đ38–49, 51 — thẩm quyền theo NĐ 189/2025; rà mạng 24/11/2026, nguồn xaydungchinhsach.chinhphu.vn, congthuong.vn, luatvietnam.vn; chưa có bản gốc"
     },
     "Luật 31/2024": {
       "ngay_ban_hanh": "2024-01-18",
       "ngay_hieu_luc": "2024-08-01",
       "bi_sua_doi_boi": "Luật 43/2024 (01/8/2024); các luật 47/2024… 147/2025; NQ 254/2025/QH15 (01/01/2026)",
-      "ghi_chu": "Luật Đất đai; hiệu lực 01/8/2024 theo k2 Đ1 Luật 43/2024; bản gốc ban hành lần đầu tại dat-dai-sct-vn/van-ban-goc/trung-uong, chưa hợp nhất"
+      "ghi_chu": "Luật Đất đai; hiệu lực 01/8/2024 theo k2 Đ1 Luật 43/2024; bản gốc ban hành lần đầu tại dat-dai-sct-vn/van-ban-goc/trung-uong, chưa hợp nhất; rà mạng 24/11/2026, nguồn xaydungchinhsach.chinhphu.vn, baotintuc.vn, luatvietnam.vn; chưa có bản gốc"
     },
     "Luật 42/2024": {
       "ngay_hieu_luc": "2025-01-01",
       "bi_sua_doi_boi": "Luật 118/2025 (01/7/2026)",
-      "ghi_chu": "Luật Quản lý sử dụng vũ khí VLNCN CCHT; VBHN 78/VBHN-VPQH; uỷ quyền cấp GP sử dụng VLNCN cho Sở: QĐ 2867/QĐ-UBND từ 20/8/2026"
+      "ghi_chu": "Luật Quản lý sử dụng vũ khí VLNCN CCHT; VBHN 78/VBHN-VPQH; uỷ quyền cấp GP sử dụng VLNCN cho Sở: QĐ 2867/QĐ-UBND từ 20/8/2026; rà mạng 24/11/2026: luật sửa đổi đã thông qua 20/11/2026 (tuoitre.vn, nhandan.vn, luatvietnam.vn), chưa có bản gốc"
     },
     "Luật 43/2024": {
       "ngay_ban_hanh": "2024-06-29",
@@ -49,6 +49,15 @@
       "ngay_hieu_luc": "2025-07-01",
       "bi_sua_doi_boi": "Luật 147/2025",
       "ghi_chu": "Luật Địa chất và Khoáng sản"
+    },
+    "Luật 55/2024": {
+      "ghi_chu": "Luật PCCC và CNCH; rà mạng 24/11/2026: luật sửa đổi đã thông qua 20/11/2026 (bỏ thủ tục kiểm tra công tác nghiệm thu về PCCC theo báo chí), chưa có bản gốc"
+    },
+    "Luật 72/2020": {
+      "ghi_chu": "Luật Bảo vệ môi trường 2020; rà mạng 24/11/2026, nguồn daibieunhandan.vn, baoxaydung.vn, luatvietnam.vn; theo báo chí: cắt giảm đối tượng ĐTM, giấy phép môi trường, miễn ĐTM cho dự án thứ cấp trong cụm công nghiệp đã đủ hạ tầng và thủ tục môi trường — chưa có bản gốc, không sửa plugin"
+    },
+    "Luật 84/2015": {
+      "ghi_chu": "Luật ATVSLĐ; rà mạng 24/11/2026, nguồn daibieunhandan.vn, vov.vn; chưa có bản gốc"
     },
     "Luật 84/2025": {
       "ngay_hieu_luc": "2025-07-01",
@@ -72,6 +81,11 @@
       "ngay_ban_hanh": "2025-12-09",
       "ngay_hieu_luc": "2026-01-01",
       "ghi_chu": "Bảng giá đất tỉnh Lào Cai; Phụ lục IV giá đất KCN, CCN — dat-dai-sct-vn ref 12"
+    },
+    "NQ 22/2026": {
+      "ngay_ban_hanh": "2026-04-29",
+      "ngay_hieu_luc": "2026-04-29",
+      "ghi_chu": "NQ-CP cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc Bộ Công an; hiệu lực 29/4/2026 đến hết 01/3/2027; đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai)"
     },
     "NQ 66.11/2026/NQ-CP": {
       "ngay_ban_hanh": "2026-01-06",
@@ -116,6 +130,10 @@
       "ngay_hieu_luc": "2025-07-01",
       "ghi_chu": "Xử phạt PCCC; hiệu lực máy trích từ ND-106-2025-NDCP-xu-phat-VPHC-PCCC-CNCH.txt"
     },
+    "NĐ 114/2018": {
+      "bi_sua_doi_boi": "NĐ 402/2026 (20/12/2026)",
+      "ghi_chu": "Quản lý an toàn đập, hồ chứa nước; rà mạng 24/11/2026: NĐ 402/2026/NĐ-CP ngày 06/11/2026 sửa đổi, hiệu lực 20/12/2026 (tệp ký số datafiles.chinhphu.vn, một nguồn); chưa đối chiếu bản gốc"
+    },
     "NĐ 118/2021": {
       "ngay_ban_hanh": "2021-12-23",
       "ngay_hieu_luc": "2022-01-01",
@@ -151,7 +169,7 @@
     "NĐ 16/2022": {
       "ngay_ban_hanh": "2022-01-28",
       "ngay_hieu_luc": "2022-01-28",
-      "ghi_chu": "Xử phạt xây dựng — kiểm tra khi có nghị định mới; hiệu lực máy trích từ ND-16-2022-NDCP-xu-phat-xay-dung.txt"
+      "ghi_chu": "Xử phạt xây dựng — kiểm tra khi có nghị định mới; hiệu lực máy trích từ ND-16-2022-NDCP-xu-phat-xay-dung.txt; rà mạng 24/11/2026: kết quả tìm kiếm ghi NĐ 339/2026/NĐ-CP thay NĐ 16/2022 (hiệu lực 26/8/2026) — một lượt tra, chưa đối chiếu bản gốc, cần kiểm trước khi dẫn"
     },
     "NĐ 161/2024": {
       "ngay_ban_hanh": "2024-12-18",
@@ -197,6 +215,11 @@
       "ngay_hieu_luc": "2026-07-01",
       "bi_sua_doi_boi": "NĐ 347/2026 (bãi bỏ Điều 74; 15/9/2026)",
       "ghi_chu": "Quản lý dự án/thiết kế xây dựng — tkm-sct-vn GATE k5 Đ76"
+    },
+    "NĐ 22/2026": {
+      "ngay_ban_hanh": "2026-01-16",
+      "ngay_hieu_luc": "2026-01-16",
+      "ghi_chu": "Quy định chi tiết và biện pháp thi hành Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; hiệu lực từ ngày ký; Điều 37: đăng ký bản công bố hợp quy qua Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng; Điều 67: Sở Khoa học và Công nghệ chủ trì giúp UBND tỉnh; thay NĐ 127/2007, NĐ 78/2018, NĐ 107/2016; đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai)"
     },
     "NĐ 226/2025": {
       "ngay_ban_hanh": "2025-08-15",
@@ -254,11 +277,21 @@
       "bi_sua_doi_boi": "NĐ 70/2023; NĐ 129/2025; NĐ 178/2025",
       "ghi_chu": "Quản lý KCN, KKT — Đ7, 13, 40, 53, 57, 68 do Bộ Công Thương thực hiện từ 15/9/2026 (NQ 66.25 Điều 2)"
     },
+    "NĐ 356/2026": {
+      "ngay_ban_hanh": "2026-09-14",
+      "ngay_hieu_luc": "2026-12-01",
+      "ghi_chu": "Bãi bỏ toàn bộ 18 nghị định (danh sách chưa đọc được); rà mạng 24/11/2026, nguồn luatvietnam.vn, vanban.org; cần bản gốc để kiểm plugin có dẫn nghị định bị bãi bỏ không"
+    },
     "NĐ 36/2020": {
       "ngay_ban_hanh": "2020-03-24",
       "ngay_hieu_luc": "2020-05-10",
       "bi_sua_doi_boi": "NĐ 04/2022 (06/01/2022); NĐ 290/2025 (phần tài nguyên nước)",
       "ghi_chu": "Xử phạt tài nguyên nước, khoáng sản; Đ65 (bản 04/2022): thanh tra CT xử Đ36, 38, 39, 48, 55–62; lập BB theo QĐ 5116/QĐ-SCT"
+    },
+    "NĐ 37/2026": {
+      "ngay_ban_hanh": "2026-01-23",
+      "ngay_hieu_luc": "2026-01-23",
+      "ghi_chu": "Quy định chi tiết và biện pháp thi hành Luật Chất lượng sản phẩm, hàng hóa; hiệu lực từ ngày ký; Điều 14, 95, 96: cơ quan kiểm tra ở địa phương, trách nhiệm UBND tỉnh; khoản 3 Điều 97: phân loại nhóm 1, nhóm 2 đến hết 30/6/2026; thay NĐ 132/2008, NĐ 74/2018, NĐ 13/2022 từ 01/7/2026; đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai)"
     },
     "NĐ 392/2026": {
       "ngay_ban_hanh": "2026-10-20",
@@ -275,11 +308,26 @@
       "ngay_hieu_luc": "2022-01-06",
       "ghi_chu": "Sửa NĐ 91/2019, NĐ 36/2020 — bản gốc xp-sct-vn/van-ban-goc/khoang-san"
     },
+    "NĐ 407/2026": {
+      "ngay_ban_hanh": "2026-11-12",
+      "ngay_hieu_luc": "2026-12-28",
+      "ghi_chu": "Cơ chế hoạt động, cơ chế quản lý tài chính đặc thù đối với Tập đoàn Điện lực Việt Nam; đã đối chiếu bản gốc (sao y 1204/SY-VPUBND), lưu quy-hoach-ct-vn/van-ban-goc 17/11/2026"
+    },
+    "NĐ 412/2026": {
+      "ngay_ban_hanh": "2026-11-14",
+      "ngay_hieu_luc": "2026-11-14",
+      "ghi_chu": "Xử phạt vi phạm hành chính lĩnh vực bảo vệ môi trường (4 chương, 87 điều); thay NĐ 45/2022/NĐ-CP; rà mạng 24/11/2026, nguồn chinhphu.vn (docid 220307), nhandan.vn, luatvietnam.vn; chưa đối chiếu bản gốc — cần bản gốc để rà xp-sct-vn, bvmt-sct-vn (thẩm quyền lập biên bản, Điều khoản Sở Công Thương)"
+    },
+    "NĐ 418/2026": {
+      "ngay_hieu_luc": "2027-01-05",
+      "ghi_chu": "Sửa NĐ 143/2024/NĐ-CP về bảo hiểm tai nạn lao động tự nguyện; UBND cấp xã báo cáo tai nạn lao động chết người hoặc từ 2 người bị thương nặng trong 24 giờ cho cơ quan chuyên môn ATVSLĐ cấp tỉnh; ngày ký 20/11/2026 theo một nguồn; rà mạng 24/11/2026, nguồn nhandan.vn, luatvietnam.vn, vietnamplus.vn; chưa đối chiếu bản gốc"
+    },
     "NĐ 45/2022": {
       "ngay_ban_hanh": "2022-07-07",
       "ngay_hieu_luc": "2022-08-25",
       "bi_sua_doi_boi": "NĐ 290/2025 (tài nguyên nước)",
-      "ghi_chu": "Xử phạt BVMT; Sở CT chỉ Đ45–46 (k4 Đ64); lập BB cần QĐ giao (Đ71 không liệt kê Sở CT)"
+      "bi_thay_the_boi": "NĐ 412/2026 (14/11/2026)",
+      "ghi_chu": "Xử phạt BVMT; Sở CT chỉ Đ45–46 (k4 Đ64); lập BB cần QĐ giao (Đ71 không liệt kê Sở CT); rà mạng 24/11/2026: NĐ 412/2026/NĐ-CP bãi bỏ, thay NĐ 45/2022 (chinhphu.vn, nhandan.vn, luatvietnam.vn khớp nhau), chưa đối chiếu bản gốc — chưa sửa điều khoản trong plugin"
     },
     "NĐ 46/2026": {
       "ghi_chu": "ATTP — đọc attp-sct-vn reference 08 trước khi dẫn"
@@ -350,6 +398,10 @@
     "QĐ 100/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-11-02",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F5AE75E78F4884FE06338FE280A8813&t=0&hxl=; chưa kiểm ngày hiệu lực; Văn bản hợp nhất Quyết định Quy định hệ số điều chỉnh giá đất trên địa bàn tỉnh Lào Cai nă"
+    },
+    "QĐ 101/2026/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605AFA918DFC4EF7E06348FE280A049A&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ Quy định giá tính lệ phí trước bạ đối với nhà và tỷ lệ phần trăm chất lượng còn lại của"
     },
     "QĐ 1017/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-28",
@@ -428,6 +480,14 @@
       "ngay_ban_hanh": "2026-01-16",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=10847534&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Ủy quyền cho Giám đốc Sở Công Thương thực hiện một số nhiệm vụ, quyền hạn của Ủ"
     },
+    "QĐ 1192/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60223AE3ADBDF4B4E06348FE280A870E&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Phương án Bảo vệ đập, hồ chứa Công trình thủy điện Nậm Hô, xã Dền Sán"
+    },
+    "QĐ 1197/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60223C9A25C4F58EE06348FE280ABFC4&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Phương án Ứng phó với tình huống khẩn cấp đập, hồ chứa Công trình thu"
+    },
     "QĐ 1220/QĐ-UBND": {
       "ngay_ban_hanh": "2026-09-28",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=17700730&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Phê duyệt Quy hoạch chung xã Cao Sơn, tỉnh Lào Cai"
@@ -467,6 +527,10 @@
     "QĐ 1258/QĐ-UBND": {
       "ngay_ban_hanh": "2026-04-15",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=13821847&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung; bãi bỏ trong lĩnh vực đ"
+    },
+    "QĐ 1279/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=606F33070C638396E06348FE280AAA1A&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thôi hưởng trợ cấp xã hội và hỗ trợ chi phí mai táng đối với đối tượng bảo trợ xã"
     },
     "QĐ 128/QĐ-UBND": {
       "ngay_ban_hanh": "2026-01-16",
@@ -1248,17 +1312,37 @@
       "ngay_ban_hanh": "2026-08-21",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17224964; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc giao nhiệm vụ kiểm tra nhà nước về an toàn thực phẩm nhập khẩu đối với"
     },
+    "QĐ 2991/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=600D978F54797868E06348FE280AD709&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định ban hành Kế hoạch của Bộ Công Thương thực hiện Quyết định số 1483/QĐ-TTg ngày 0"
+    },
+    "QĐ 3014/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6023FBDED10CB456E06348FE280A84F2&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt Định hướng chương trình kiểm tra năm 2027 của lực lượng Quản lý thị t"
+    },
     "QĐ 3016/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-24",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17284320; chưa kiểm ngày hiệu lực; Quyết định Về việc điều chỉnh cơ cấu nguồn vốn một số Dự án tuyến đường nối đường tỉnh 163"
+    },
+    "QĐ 3017/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60601187EA509E4BE06347FE280A7531&t=0&hxl=; chưa kiểm ngày hiệu lực; Thành lập Hội đồng Thi đua - Khen thưởng Bộ Công Thương"
     },
     "QĐ 3017/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-24",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17249356; chưa kiểm ngày hiệu lực; Về việc bổ nhiệm hòa giải viên lao động trên địa bàn tỉnh Lào Cai"
     },
+    "QĐ 3018/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605FA1DB2576A8BDE06348FE280A4395&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy chế hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Công Thương và Cơ quan Th"
+    },
     "QĐ 3018/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-24",
       "ghi_chu": "nguồn Data360X https://csdlvb.laocai.gov.vn/van-ban-den/detail/?id=17249211; chưa kiểm ngày hiệu lực; Quyết định Về việc điều chỉnh cơ cấu nguồn vốn một số dự án đầu tư công trên địa bàn tỉnh"
+    },
+    "QĐ 3019/QĐ-BCT": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60601D744259A98FE06348FE280AE439&t=0&hxl=; chưa kiểm ngày hiệu lực; Ban hành Quy chế về tổ chức và hoạt dộng của Khối thi đua, Cụm thi đua ngành Công Thương"
     },
     "QĐ 3023/QĐ-UBND": {
       "ngay_ban_hanh": "2026-08-24",
@@ -2016,10 +2100,102 @@
       "ngay_ban_hanh": "2026-11-10",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FEE5EAF99DCA05EE06347FE280A613F&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án thủy điện Nậ"
     },
+    "QĐ 4225/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FF883E1BEE112CDE06348FE280A6554&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Về việc cử Đoàn công tác của tỉnh tham dự các hoạt động tại tỉnh Vân Nam, Trung"
+    },
+    "QĐ 4230/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FF997B5631086E8E06348FE280AFA23&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung lĩnh vực thủy sản và kiể"
+    },
+    "QĐ 4231/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-11",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5FFBF8BD536BDD76E06347FE280AB319&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố danh mục thủ tục hành chính và thủ tục hành chính nội bộ giữa các cơ quan"
+    },
+    "QĐ 4254/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=601ECC947F8D2905E06347FE280A45F4&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính bị bãi bỏ trong lĩnh vực viễn thông và Interne"
+    },
+    "QĐ 4256/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=601ECEE9A4892954E06347FE280A70B7&t=0&hxl=; chưa kiểm ngày hiệu lực; QUYẾT ĐỊNH Bãi bỏ Quyết định số 3459/QĐ-UBND ngày 02/8/2017 của Uỷ ban nhân dân tỉnh Lào C"
+    },
+    "QĐ 4261/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-13",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6025CCF5541E77E6E06348FE280AA9E2&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính trong lĩnh vực tần số vô tuyến điện được ủy qu"
+    },
+    "QĐ 4263/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-14",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6036950A11A30EA7E06348FE280AE942&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt dự án đầu tư xây dựng công trình Cải tạo, nâng cấp đường Yên Thế - Vĩnh Kiên (ĐT"
+    },
+    "QĐ 4268/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605180778A46DA5DE06347FE280AE57D&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án Nâng cấp tuyến đường vào khu quy hoạch Cụm công nghiệp Tân Hợp"
+    },
+    "QĐ 4272/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605B03EAD18E34E2E06347FE280AD3EE&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định: Ban hành Quy chế bảo vệ sân bay Yên Bái"
+    },
+    "QĐ 4274/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6051AC9D08980550E06347FE280A33A2&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc thành lập Hội đồng và Tổ giúp việc Hội đồng đánh giá lựa chọn chủ đầu tư xây dựng"
+    },
+    "QĐ 4277/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-15",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6051ACFCD23E121CE06348FE280A2DCF&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Về chủ trương đầu tư dự án: Đường từ cầu Vòm đến trung tâm thôn Sáng Pao, xã Hạ"
+    },
+    "QĐ 4285/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605FFEC29EFEA80AE06348FE280A8326&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt điều chỉnh dự án Cầu thôn Tân Việt, xã Quy Mông, huyện Trấn Yên, tỉnh Yên Bái"
+    },
+    "QĐ 4287/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60600B091DAAA8AAE06348FE280AB39C&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án Xây dựng tuyến đường phát triển dọc trục xã Trấn Yên Đoạn 1 (Cổ"
+    },
+    "QĐ 4288/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60600FC399EBA37BE06347FE280ABD82&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc phân bổ, giao dự toán kinh phí sự nghiệp ngân sách trung ương thực hiện"
+    },
+    "QĐ 4290/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605FF1AF2FC691ACE06347FE280AF54D&t=0&hxl=; chưa kiểm ngày hiệu lực; Về chủ trương đầu tư dự án Mở rộng mặt đường từ xã Mù Cang Chải đến xã Chế Tạo"
+    },
+    "QĐ 4291/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605FEA7401399717E06347FE280A179A&t=0&hxl=; chưa kiểm ngày hiệu lực; Chấp thuận điều chỉnh chủ trương đầu tư Dự án đầu tư xây dựng nhà máy chế biến gỗ và sản x"
+    },
+    "QĐ 4292/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=605F59F998928052E06348FE280A1816&t=0&hxl=; chưa kiểm ngày hiệu lực; Về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực báo chí n"
+    },
+    "QĐ 4293/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60600E6264F5A1B3E06348FE280A73F9&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư dự án thủy điện Tr"
+    },
+    "QĐ 4294/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-16",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6061CB19CD81891EE06348FE280A5291&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư dự án thủy điệ"
+    },
+    "QĐ 4298/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=606F3A1366C603D5E06347FE280AF4AB&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt quyết toán vốn đầu tư của dự án Khắc phục khẩn cấp đường Mai Sơn - Lâm Thươ"
+    },
+    "QĐ 4299/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=606F116DC9477526E06348FE280AEC36&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt dự án: Xây dựng nghĩa trang nhân dân xã Bát Xát, tỉnh Lào Cai"
+    },
     "QĐ 43/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-06-16",
       "ngay_hieu_luc": "2026-06-25",
       "ghi_chu": "Giám sát, nghiệm thu sản phẩm dịch vụ công lĩnh vực đất đai dùng NSNN (Lào Cai)"
+    },
+    "QĐ 4303/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-17",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60769CC7689E8077E06347FE280ADDC0&t=0&hxl=; chưa kiểm ngày hiệu lực; Phê duyệt dự án: Quốc môn và Nhà kiểm soát liên ngành khu cửa khẩu Bản Vược, xã Bát Xát, t"
+    },
+    "QĐ 4309/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-18",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=60833F80F5193D06E06347FE280A5131&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định phê duyệt Kế hoạch đấu giá quyền khai thác khoáng sản làm vật liệu xây dựng và"
     },
     "QĐ 433/QĐ-UBND": {
       "ngay_ban_hanh": "2026-02-12",
@@ -2049,7 +2225,8 @@
     },
     "QĐ 46/2026/QĐ-TTg": {
       "ngay_ban_hanh": "2026-09-17",
-      "ghi_chu": "Hướng dẫn xác định dự án xanh, dự án tuần hoàn, khung ESG; hiệu lực 01/11/2026 theo một bài tổng hợp luatvietnam.vn, chưa xác nhận; rà mạng 17/11/2026, nguồn baolaocai.vn, chưa đối chiếu bản gốc"
+      "ngay_hieu_luc": "2026-11-01",
+      "ghi_chu": "Hướng dẫn xác định dự án xanh, dự án tuần hoàn, khung ESG; hiệu lực 01/11/2026 theo một bài tổng hợp luatvietnam.vn, chưa xác nhận; rà mạng 17/11/2026, nguồn baolaocai.vn, chưa đối chiếu bản gốc; rà mạng 24/11/2026: hiệu lực 01/11/2026 khớp ở moit.gov.vn và tapchicongthuong.vn; chưa đối chiếu bản gốc"
     },
     "QĐ 460/QĐ-UBND": {
       "ngay_ban_hanh": "2026-02-13",
@@ -2407,6 +2584,10 @@
       "ngay_ban_hanh": "2026-10-21",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5E6408D42AA185FCE06339FE280ACB8A&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định Ban hành Quy định định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hàn"
     },
+    "QĐ 888/QĐ-UBND": {
+      "ngay_ban_hanh": "2026-11-06",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=6023A780A4BC8D4BE06347FE280AECC0&t=0&hxl=; chưa kiểm ngày hiệu lực; QĐ: Phân công nhiệm vụ cho các thành viên Ủy ban nhân dân xã Nghĩa Tâm, nhiệm kỳ 2026-2031"
+    },
     "QĐ 89/QĐ-BCT": {
       "ngay_ban_hanh": "2026-01-19",
       "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=11129273&t=0&hxl=; chưa kiểm ngày hiệu lực; Quyết định về việc kiện toàn thành viên Ban Chỉ huy Phòng thủ dân sự Bộ Công Thương"
@@ -2450,7 +2631,7 @@
     "QĐ 95/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-29",
       "ngay_hieu_luc": "2026-11-08",
-      "ghi_chu": "UBND tỉnh Lào Cai: bảo đảm yêu cầu phòng, chống thiên tai trong quản lý, vận hành khu khai thác khoáng sản, khu đô thị, khu du lịch, khu công nghiệp; rà mạng 17/11/2026, nguồn thuvienphapluat.vn, chưa đối chiếu bản gốc"
+      "ghi_chu": "UBND tỉnh Lào Cai: bảo đảm yêu cầu phòng, chống thiên tai trong quản lý, vận hành khu khai thác khoáng sản, khu đô thị, khu du lịch, khu công nghiệp; rà mạng 17/11/2026, nguồn thuvienphapluat.vn, chưa đối chiếu bản gốc; đã có bản gốc qlks-sct-vn/van-ban-goc (bản quét, đối chiếu 24/11/2026): hiệu lực 08/11/2026; bãi bỏ QĐ 09/2022/QĐ-UBND (Lào Cai), QĐ 21/2022/QĐ-UBND, QĐ 21/2023/QĐ-UBND (Yên Bái); Sở Nông nghiệp và Môi trường là đầu mối"
     },
     "QĐ 96/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-30",
@@ -2463,17 +2644,27 @@
     },
     "QĐ 98/2026/QĐ-UBND": {
       "ngay_ban_hanh": "2026-10-30",
-      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F492CB470AC67ECE06338FE280AF523&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định mức chi trả tiền dịch vụ môi trường rừng ủy thác thông qua Quỹ bảo vệ rừng và môi"
+      "ngay_hieu_luc": "2026-11-09",
+      "ghi_chu": "nguồn Data360X https://egov1.laocai.gov.vn/document/xem-den-xem?documentId=5F492CB470AC67ECE06338FE280AF523&t=0&hxl=; chưa kiểm ngày hiệu lực; Quy định mức chi trả tiền dịch vụ môi trường rừng ủy thác thông qua Quỹ bảo vệ rừng và môi; rà mạng 24/11/2026: hiệu lực 09/11/2026 (thuvienphapluat.vn, doanhnghiephoinhap.vn), chưa đối chiếu bản gốc"
     },
     "QĐ 995/QĐ-TTg": {
       "ngay_ban_hanh": "2018-08-09",
       "ghi_chu": "Giao nhiệm vụ các bộ tổ chức lập quy hoạch ngành quốc gia 2021-2030, tầm nhìn 2050 — gốc nhiệm vụ của QĐ 866 (Bộ Công Thương) và QĐ 1626 (Bộ Xây dựng). Chưa có bản gốc trong bộ tài liệu; số/ngày đọc từ căn cứ của QĐ 836/QĐ-BXD"
+    },
+    "TT 10/2021": {
+      "ngay_ban_hanh": "2021-08-25",
+      "bi_sua_doi_boi": "TT 32/2026 (01/7/2026; bãi bỏ các điều 2-9 và 19)",
+      "ghi_chu": "TT-BXD hướng dẫn NĐ 06/2021, NĐ 44/2016; Điều 5 kiểm định xây dựng đã bị bãi bỏ — dùng Điều 4 TT 32/2026; đối chiếu bản gốc TT 32/2026 ngày 23/11/2026"
     },
     "TT 14/2024": {
       "ngay_ban_hanh": "2024-08-15",
       "ngay_hieu_luc": "2024-10-01",
       "bi_sua_doi_boi": "TT 69/2026 (18/12/2026)",
       "ghi_chu": "Chế độ báo cáo, CSDL, mẫu văn bản CCN; TT 69/2026/TT-BCT sửa Điều 1, khoản 3 Điều 3, thay Phụ lục I, II — đối chiếu bản gốc 05/11/2026 (kccn ref 55)"
+    },
+    "TT 26/2016": {
+      "bi_thay_the_boi": "TT 31/2025 (01/7/2025)",
+      "ghi_chu": "Nội dung thiết kế cơ sở dự án khai thác khoáng sản, thiết kế mỏ; rà mạng 24/11/2026: TT 31/2025/TT-BCT ngày 16/5/2025, hiệu lực 01/7/2025 bãi bỏ TT 26/2016 — khớp tkm-sct-vn SKILL.md mục II (ghi theo bản gốc TT 31/2025 trong kho); TT 26/2016 chỉ áp cho hồ sơ 25/01/2017–30/6/2025"
     },
     "TT 26/2026": {
       "ngay_hieu_luc": "2026-05-29",
@@ -2484,6 +2675,26 @@
       "ngay_hieu_luc": "2027-01-01",
       "ghi_chu": "Danh mục công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động (31 nhóm); thay TT 06/2020/TT-BLĐTBXH từ 01/01/2027; rà mạng 17/11/2026, nguồn thuvienphapluat.vn, nhandan.vn, chưa đối chiếu bản gốc"
     },
+    "TT 32/2026": {
+      "ngay_ban_hanh": "2026-06-22",
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "TT-BXD quy định chi tiết NĐ 207/2026 (thí nghiệm, quan trắc, kiểm định Điều 4, giám định, công bố hết thời hạn sử dụng); khoản 2 Điều 8 bãi bỏ các điều 2-9 và 19 TT 10/2021/TT-BXD; đối chiếu bản gốc 23/11/2026 (xd-sct-vn/van-ban-goc)"
+    },
+    "TT 33/2026": {
+      "ngay_ban_hanh": "2026-06-30",
+      "ngay_hieu_luc": "2026-07-01",
+      "ghi_chu": "TT-BCT Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý của Bộ Công Thương (06 nhóm rủi ro trung bình; mức rủi ro cao chưa có sản phẩm); thay TT 41/2023/TT-BCT; đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai)"
+    },
+    "TT 36/2019": {
+      "ngay_ban_hanh": "2019-11-29",
+      "bi_thay_the_boi": "TT 34/2026 (01/7/2026)",
+      "ghi_chu": "TT-BCT quản lý chất lượng sản phẩm, hàng hóa; hết hiệu lực theo khoản 2 Điều 18 TT 34/2026/TT-BCT ngày 30/6/2026 (hiệu lực 01/7/2026; cùng hết hiệu lực: TT 46/2015/TT-BCT, Điều 10 TT 38/2025/TT-BCT); đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai). Mã TT 34/2026 trùng thông tư của bộ khác nên không lập dòng riêng"
+    },
+    "TT 41/2023": {
+      "ngay_ban_hanh": "2023-12-28",
+      "bi_thay_the_boi": "TT 33/2026 (01/7/2026)",
+      "ghi_chu": "TT-BCT Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn; hết hiệu lực theo khoản 2 Điều 6 TT 33/2026/TT-BCT"
+    },
     "TT 44/2026": {
       "ngay_ban_hanh": "2026-08-27",
       "ngay_hieu_luc": "2026-11-01",
@@ -2493,6 +2704,10 @@
       "ngay_ban_hanh": "2026-08-28",
       "ngay_hieu_luc": "2026-11-01",
       "ghi_chu": "TT-BCT ban hành 36 Sửa đổi QCVN sản phẩm vật liệu nổ công nghiệp; đính chính bằng QĐ 2312/QĐ-BCT ngày 14/9/2026; rà mạng 17/11/2026, nguồn thuvienphapluat.vn, chưa đối chiếu bản gốc"
+    },
+    "TT 47/2026/TT-BNNMT": {
+      "ngay_ban_hanh": "2026-10-30",
+      "ghi_chu": "Quy định chi tiết một số điều của pháp luật về đa dạng sinh học và pháp luật về bảo vệ môi trường; hiệu lực 15/12/2026 theo một nguồn thứ cấp (luatnguyen.vn); rà mạng 24/11/2026; chưa đối chiếu bản gốc"
     },
     "TT 49/2026": {
       "ngay_ban_hanh": "2026-09-12",
@@ -2518,6 +2733,9 @@
       "ngay_ban_hanh": "2026-10-30",
       "ngay_hieu_luc": "2026-12-18",
       "ghi_chu": "Sửa đổi TT 14/2024/TT-BCT về CCN; bãi bỏ Điều 29 TT 38/2025/TT-BCT; bản gốc kccn-sct-vn/van-ban-goc (đối chiếu 05/11/2026)"
+    },
+    "VBHN 137/2026/VBHN-TT-BCT": {
+      "ghi_chu": "Bộ Công Thương hợp nhất TT 14/2024/TT-BCT và TT 69/2026/TT-BCT (báo cáo định kỳ, cơ sở dữ liệu, mẫu văn bản cụm công nghiệp); ngày 10/11/2026 theo một nguồn; phần sửa đổi hiệu lực 18/12/2026; rà mạng 24/11/2026, nguồn moit.gov.vn, datafiles.chinhphu.vn; chưa đối chiếu bản gốc"
     }
   },
   "_bo_qua": []

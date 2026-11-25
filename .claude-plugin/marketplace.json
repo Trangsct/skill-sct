@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Bộ plugin nghiệp vụ Sở Công Thương tỉnh Lào Cai — marketplace hợp nhất 20 plugin: an toàn thực phẩm - công nghiệp tiêu dùng thực phẩm, môi trường, hóa chất, huấn luyện - kho - sử dụng - xử phạt VLNCN, xử phạt đa lĩnh vực, HHNH, KCN/CCN, khoáng sản, thiết kế mỏ, VBHC, xây dựng, bài phát biểu, dự án công nghiệp - tăng trưởng, PCCC, quy hoạch Công Thương, tổ chức bộ máy Sở, đọc PDF văn bản hành chính. Gộp trở lại từ marketplace skill-sct-2 ngày 25/7/2026 để chỉ còn một đầu mối quản lý.",
-    "version": "4.11.256"
+    "version": "4.11.257"
   },
   "plugins": [
     {
@@ -72,13 +72,13 @@
       "name": "qlks-sct-vn",
       "source": "./qlks-sct-vn",
       "description": "QLNN về địa chất, khoáng sản - Sở Công Thương Lào Cai. Từ 15/9/2026 Sở tiếp nhận toàn bộ chức năng từ Sở NN&MT, Sở XD theo NQ 66.25/2026/NQ-CP - GATE ref 23. Chỉ thị 17/CT-UBND 09/10/2026 (15 nhiệm vụ Sở, thay Chỉ thị hai tỉnh cũ): ref 25; Phòng QL Khoáng sản ký hiệu SCT-KS. 13 nghiệp vụ: phân vai theo thời kỳ; quản lý rủi ro; chế biến, nguồn gốc; đối chiếu VLNCN - sản lượng; thu hồi khoáng sản; Hội đồng thăm dò (QĐ 777); viện dẫn NQ 10-NQ/TW, NQ 88, QĐ 334 (ref 24). Luật 54/2024, NĐ 193/2025.",
-      "version": "2.10.0"
+      "version": "2.11.0"
     },
     {
       "name": "quy-hoach-ct-vn",
       "source": "./quy-hoach-ct-vn",
       "description": "Cẩm nang quy hoạch 04 ngành Công Thương Lào Cai: khoáng sản, điện - năng lượng, KCN, CCN. Dự án nguồn điện, lưới điện, mỏ, KCN, CCN có trong quy hoạch nào; tra thủy điện, TBA và đường dây 500/220/110 kV, khoáng sản nhóm I-IV, tọa độ khép góc mỏ. Nguồn: QĐ 525/QĐ-UBND, QĐ 768, QĐ 866 - 1626 - 2581/QĐ-TTg, NQ 10-NQ/TW, QĐ 334/QĐ-TTg. Từ 15/9/2026 quy hoạch khoáng sản thuộc Bộ Công Thương (NQ 66.25/2026). Điều chỉnh QH điện VIII bước 1 và Đề án CN ứng dụng năng lượng nguyên tử (10/2026): ref 11.",
-      "version": "1.9.1"
+      "version": "1.10.0"
     },
     {
       "name": "sct-laocai-org-vn",

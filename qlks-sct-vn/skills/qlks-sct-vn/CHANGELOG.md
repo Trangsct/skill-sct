@@ -1,5 +1,9 @@
 # CHANGELOG — qlks-sct-vn
 
+## v2.11.0 — 25/11/2026 — Ranh giới 123 khu vực quy hoạch khoáng sản nhóm I (ref 29)
+
+- KMZ gốc, CSV, bảng Word trong `du-lieu/`; ref 29; script `tra_toa_do_quy_hoach.py`. Chi tiết: `CHANGELOG-v2026.11.25.md`.
+
 ## v2.9.0 — 24/11/2026 — Kỳ cập nhật 24/11/2026 (ref 28)
 
 - Thẩm quyền mỏ nhóm II, III chưa rõ; Kế hoạch đấu giá đợt 3 (QĐ 4309/QĐ-UBND); lựa chọn tổ chức ở khu vực không đấu giá (k3 Đ59a NĐ 193);

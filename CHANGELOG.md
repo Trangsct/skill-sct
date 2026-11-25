@@ -1,3 +1,10 @@
+## 25/11/2026 (lần 3) — Ranh giới số hóa 09 sơ đồ quy hoạch khoáng sản nhóm I tỉnh Lào Cai (2 plugin)
+
+Bạn gửi file KMZ tổng hợp ranh giới 123 khu vực (bản vẽ 3.3, 3.4, 4.6, 8.4, 8.5, 9.3, 11.2, 11.3, 12), yêu cầu lưu cả file gốc vào plugin quy hoạch và plugin khoáng sản.
+
+- **quy-hoach-ct-vn 1.10.0**: `du-lieu/` (KMZ gốc, CSV 1.129 điểm, bảng Word), reference 15, script `tra_toa_do_quy_hoach.py`; đối chiếu Phụ lục VI dự thảo điều chỉnh QĐ 866: 113/123 khu vực khớp, 10 khu vực lệch.
+- **qlks-sct-vn 2.11.0**: bản chép dữ liệu và script, reference 29 (dùng trong rà chồng lấn dự án, CCN, khu đấu giá).
+
 ## 25/11/2026 (lần 2) — Bạn chốt: vận chuyển hàng hóa nguy hiểm, PCCC chuyển sang PGĐ Hoàng Văn Thuân (6 plugin)
 
 QĐ 7750/QĐ-SCT không ghi đích danh hai lĩnh vực này; Bạn chốt 25/11/2026 chuyển sang PGĐ Thuân cùng hóa chất, vật liệu nổ công nghiệp. Khu công nghiệp,

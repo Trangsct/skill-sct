@@ -6,6 +6,8 @@
 >
 > ✅ **Riêng mỏ Tả Phời đã có tọa độ theo văn bản ĐÃ KÝ** — bảng tọa độ đầy đủ 4 khu (A, khu chính, C, D; tổng 248,3 ha) của QĐ 2581 nằm ở **ref 07 mục A.2**, toàn văn tại `sources/qd2581-dieuchinh-qd866-toanvan.txt`. Khi trích tọa độ Tả Phời vào văn bản chính thức, **dùng ref 07 mục A.2 (đã ký)**, KHÔNG dùng bảng dự thảo ở mục B dưới đây.
 
+> 🗺️ **Ranh giới dạng bản đồ (KMZ, CSV) của 123 khu vực trên 09 sơ đồ quy hoạch khoáng sản nhóm I Lào Cai** và script tra một điểm có nằm trong khu vực quy hoạch không: **ref 15** (thư mục `du-lieu/`).
+
 ## A. Danh mục mỏ nhóm I Lào Cai theo từng khoáng sản (tra nhanh)
 
 | Khoáng sản | Mỏ tiêu biểu (xã) | Tra tọa độ/thăm dò/chế biến tại nguồn |

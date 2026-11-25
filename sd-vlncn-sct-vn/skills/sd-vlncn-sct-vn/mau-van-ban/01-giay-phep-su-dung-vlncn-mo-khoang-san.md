@@ -67,7 +67,7 @@ Nơi nhận: 【tên doanh nghiệp】; UBND tỉnh (b/c); Công an tỉnh (PC06
 
 **Người ký:** ⚠ **điểm phải chốt với Lãnh đạo Sở trước giấy phép đầu tiên.** Hai tiền lệ nội bộ đang khác nhau:
 > - **QĐ 1883** (huấn luyện KTAT): nhiệm vụ ủy quyền đích danh Giám đốc → **Giám đốc Hoàng Chí Hiền ký trực tiếp**; Giám đốc vắng thì Phó Giám đốc ký phải kèm **Giấy ủy quyền công tác đích danh** và đưa GUQ vào phần căn cứ (tiền lệ GUQ 2180/GUQ-SCT ngày 21/4/2026).
-> - **QĐ 1696 / QĐ 2848** (HHNH): thực tế Sở ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC** (đến 04/10/2026 PGĐ Hoàng Văn Thuân — lịch sử; từ 05/10/2026 dự kiến PGĐ Nguyễn Đình Chiến, phụ trách Phòng QLCN — Bạn chốt 06/10/2026; QĐ 7750/QĐ-SCT ngày 17/11/2026 không ghi đích danh HHNH — chờ Bạn xác nhận lại), coi là phân công nội bộ trong khuôn khổ ủy quyền cho Giám đốc, không phải "ủy quyền tiếp".
+> - **QĐ 1696 / QĐ 2848** (HHNH): thực tế Sở ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC** (đến 04/10/2026 PGĐ Hoàng Văn Thuân — lịch sử; 07/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử; nay PGĐ Hoàng Văn Thuân — Bạn chốt 25/11/2026), coi là phân công nội bộ trong khuôn khổ ủy quyền cho Giám đốc, không phải "ủy quyền tiếp".
 >
 > QĐ 2867 điểm a khoản 2 Điều 3 chỉ ghi "Không được uỷ quyền tiếp nhiệm vụ, quyền hạn mà mình được ủy quyền" — không nói rõ về phân công nội bộ. Trước khi phát hành giấy phép đầu tiên, chốt một cách và ghi lại vào mẫu này.
 

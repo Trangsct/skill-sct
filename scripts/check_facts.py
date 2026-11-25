@@ -259,22 +259,33 @@ RULES = [
         "level": "FAIL",
     },
     {
-        "id": "pgd-chien-ky-hoa-chat-vlncn-hhnh",
-        # QĐ 6320/QĐ-SCT ngày 06/10/2026 (phân công BGĐ, thay QĐ 766; thống nhất tại họp Lãnh đạo Sở 05/10/2026): PGĐ Nguyễn Đình Chiến phụ trách Phòng QLCN, hóa chất,
-        # VLNCN, PCTT; Bạn chốt 06/10/2026 dự kiến Chiến ký cả HHNH, PCCC. PGĐ Thuân giữ khai thác - chế biến khoáng sản,
-        # thiết kế mỏ, CN môi trường, ATVSLĐ. Dòng nói văn bản đã ký trước 05/10/2026 ghi kèm "lịch sử"/"đến 04/10/2026".
-        "pattern": r"^(?!.*(?:05/10/2026|04/10/2026|lịch sử|trước đó)).*(KT\.? ?(GĐ|GIÁM ĐỐC)[^\n]{0,40}Thuân|PGĐ (Hoàng Văn )?Thuân\**[^\n]{0,20}(ký|phụ trách|chủ trì)|Kính gửi[^\n]{0,40}Thuân|Trưởng đoàn[^\n]{0,20}Thuân|Thuân — Phó Giám đốc)",
-        "why": "Từ 05/10/2026 (QĐ 6320/QĐ-SCT ngày 06/10/2026) hóa chất, VLNCN (GP sử dụng /GP-SCT, kho, huấn luyện), tiền chất, PCTT do PGĐ Nguyễn Đình Chiến phụ trách và ký KT.GĐ; HHNH, PCCC dự kiến cũng PGĐ Chiến (Bạn chốt 06/10/2026). Văn bản đã ký trước đó ghi rõ 'lịch sử' (sct-laocai-org-vn mục Ban Giám đốc).",
-        "since": "2026-10-05",
+        "id": "pgd-thuan-ky-hoa-chat-vlncn-tu-17-11",
+        # QĐ 7750/QĐ-SCT ngày 17/11/2026 (phân công BGĐ, thay QĐ 6320/QĐ-SCT ngày 06/10/2026; Bạn gửi bản gốc 25/11/2026):
+        # hóa chất, vật liệu nổ công nghiệp, xây dựng chuyên ngành Công Thương về PGĐ Hoàng Văn Thuân; PGĐ Nguyễn Đình Chiến
+        # vẫn phụ trách Phòng QLCN (CCN, ATTP, khuyến công, PCTT). Dòng nói PGĐ Chiến ký hóa chất, VLNCN phải là câu lịch sử
+        # (05/10–16/11/2026) — có chữ "lịch sử" hoặc mốc "16/11/2026". HHNH, PCCC: QĐ 7750 không ghi đích danh, giữ "dự kiến" PGĐ Chiến.
+        # (Rule trước đó `pgd-chien-ky-hoa-chat-vlncn-hhnh`, mốc 05/10/2026 theo QĐ 6320, đã bỏ ngày 25/11/2026.)
+        "pattern": r"^(?!.*(?:16/11/2026|lịch sử|trước đó|dự kiến|HHNH|hàng hóa nguy hiểm|PCCC|Phòng QLCN|Phòng Quản lý công nghiệp|vắng)).*(KT\.? ?(GĐ|GIÁM ĐỐC)[^\n]{0,40}Chiến|PGĐ (Nguyễn Đình )?Chiến\**[^\n]{0,20}(ký|phụ trách|chủ trì)|Kính gửi[^\n]{0,40}Nguyễn Đình Chiến|Trưởng đoàn[^\n]{0,20}Nguyễn Đình Chiến|Chiến — Phó Giám đốc)",
+        "why": "Từ 17/11/2026 (QĐ 7750/QĐ-SCT, thay QĐ 6320/QĐ-SCT) hóa chất, VLNCN (GP sử dụng /GP-SCT, kho, huấn luyện), tiền chất, thẩm định - nghiệm thu công trình công nghiệp do PGĐ Hoàng Văn Thuân phụ trách và ký KT.GĐ; giai đoạn 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến ký phải ghi rõ 'lịch sử' (sct-laocai-org-vn ref 07).",
+        "since": "2026-11-17",
         "level": "FAIL",
-        "only": ["hc-sct-vn", "sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn", "hnh-sct-vn", "pccc-sct-vn"],
+        "only": ["hc-sct-vn", "sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn"],
         "skip_rel": ["references/07-vi-du-thuc-te.md"],  # nhật ký văn bản đã ký — lịch sử
     },
     {
+        "id": "qd-6320-da-thay-bang-7750",
+        # QĐ 7750/QĐ-SCT ngày 17/11/2026 thay QĐ 6320/QĐ-SCT ngày 06/10/2026 (Điều 3). Dòng còn dẫn 6320 phải nêu kèm 7750
+        # hoặc ghi "lịch sử".
+        "pattern": r"^(?!.*(?:7750|lịch sử)).*6320/QĐ-SCT",
+        "why": "Phân công nhiệm vụ Ban Giám đốc hiện hành là QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026; dòng dẫn QĐ 6320 phải nêu kèm QĐ 7750 hoặc ghi 'lịch sử' (sct-laocai-org-vn ref 07).",
+        "since": "2026-11-17",
+        "level": "FAIL",
+    },
+    {
         "id": "phan-cong-bgd-du-thao-lan-4",
-        # Phân công BGĐ hiện hành là QĐ 6320/QĐ-SCT ngày 06/10/2026; "Dự thảo Lần 4" (thành QĐ 766 ngày 12/02/2026) đã bị thay.
-        "pattern": r"^(?!.*(?:6320|lịch sử|trước đây)).*(Dự thảo Lần 4|QĐ 3488/QĐ-SCT)[^\n]{0,60}(hiện hành|phân công)",
-        "why": "Phân công nhiệm vụ Ban Giám đốc hiện hành là QĐ 6320/QĐ-SCT ngày 06/10/2026 (GĐ + 6 PGĐ), thay QĐ 766/QĐ-SCT ngày 12/02/2026 (sct-laocai-org-vn).",
+        # Phân công BGĐ hiện hành là QĐ 7750/QĐ-SCT ngày 17/11/2026 (thay QĐ 6320/QĐ-SCT); "Dự thảo Lần 4" (thành QĐ 766 ngày 12/02/2026) đã bị thay từ 05/10/2026.
+        "pattern": r"^(?!.*(?:7750|6320|lịch sử|trước đây)).*(Dự thảo Lần 4|QĐ 3488/QĐ-SCT)[^\n]{0,60}(hiện hành|phân công)",
+        "why": "Phân công nhiệm vụ Ban Giám đốc hiện hành là QĐ 7750/QĐ-SCT ngày 17/11/2026 (GĐ + 6 PGĐ; thay QĐ 6320/QĐ-SCT ngày 06/10/2026, bản này trước đó thay QĐ 766/QĐ-SCT ngày 12/02/2026) (sct-laocai-org-vn).",
         "since": "2026-10-05",
         "level": "FAIL",
     },
@@ -289,10 +300,10 @@ RULES = [
     },
     {
         "id": "qd-phan-cong-bgd-la-6320",
-        # Bạn gửi bản gốc 22/10/2026: QĐ phân công nhiệm vụ GĐ, PGĐ là 6320/QĐ-SCT ngày 06/10/2026; số 6286/QĐ-SCT
+        # Bạn gửi bản gốc 22/10/2026: QĐ phân công nhiệm vụ GĐ, PGĐ là 6320/QĐ-SCT ngày 06/10/2026 (nay đã thay bằng QĐ 7750/QĐ-SCT ngày 17/11/2026); số 6286/QĐ-SCT
         # ngày 05/10/2026 là Quy chế làm việc của Sở. Dòng nhắc 6286 phải là Quy chế làm việc hoặc ghi "lịch sử"/"nhầm".
         "pattern": r"^(?!.*(?:[Qq]uy chế|lịch sử|nhầm)).*6286\.?/QĐ-SCT",
-        "why": "QĐ 6286/QĐ-SCT ngày 05/10/2026 là Quy chế làm việc của Sở; phân công nhiệm vụ Ban Giám đốc là QĐ 6320/QĐ-SCT ngày 06/10/2026 (sct-laocai-org-vn, đối chiếu bản gốc 22/10/2026).",
+        "why": "QĐ 6286/QĐ-SCT ngày 05/10/2026 là Quy chế làm việc của Sở; phân công nhiệm vụ Ban Giám đốc là QĐ 7750/QĐ-SCT ngày 17/11/2026 (thay QĐ 6320/QĐ-SCT ngày 06/10/2026) (sct-laocai-org-vn, đối chiếu bản gốc 22/10 và 25/11/2026).",
         "since": "2026-10-22",
         "level": "FAIL",
     },

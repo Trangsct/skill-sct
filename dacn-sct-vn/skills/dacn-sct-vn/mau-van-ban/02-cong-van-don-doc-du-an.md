@@ -1,6 +1,6 @@
 # Mẫu 02 — Công văn đôn đốc tiến độ dự án công nghiệp
 
-**Loại:** Công văn · **Ký hiệu:** `.../SCT-CN` · **Người ký:** KT.GĐ – PGĐ phụ trách lĩnh vực dự án theo QĐ 6320/QĐ-SCT ngày 06/10/2026: Nguyễn Đình Chiến (KCN, CCN, hoá chất, chế biến chế tạo), Hoàng Văn Thuân (khai thác, chế biến khoáng sản, luyện kim), Nguyễn Trường Giang (năng lượng)
+**Loại:** Công văn · **Ký hiệu:** `.../SCT-CN` · **Người ký:** KT.GĐ – PGĐ phụ trách lĩnh vực dự án theo QĐ 7750/QĐ-SCT ngày 17/11/2026 (thay QĐ 6320/QĐ-SCT ngày 06/10/2026): Nguyễn Đình Chiến (CCN, chế biến chế tạo: công nghiệp tiêu dùng, thực phẩm, hỗ trợ, cơ khí, chế biến khác; KCN — QĐ 7750 không ghi đích danh, chờ Bạn xác nhận lại), Hoàng Văn Thuân (hoá chất — từ 17/11/2026, khai thác mỏ và chế biến khoáng sản, luyện kim), Nguyễn Trường Giang (năng lượng)
 **Dòng Lưu:** `Lưu: VT, CN` theo lĩnh vực
 
 > Soạn file .docx bằng plugin `vbhc-vn`.

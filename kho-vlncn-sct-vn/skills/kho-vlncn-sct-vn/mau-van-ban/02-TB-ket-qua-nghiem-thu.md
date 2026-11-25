@@ -1,6 +1,6 @@
 # MẪU 02 — Thông báo kết quả kiểm tra công tác nghiệm thu, chấp thuận kết quả nghiệm thu
 
-Dựa trên: 1732/TB-SCT ngày 02/4/2026 (Nậm Cang 1A); TB Móng Sến 1 (6/2026). Ký hiệu `/TB-SCT`; ký KT.GĐ - PGĐ Nguyễn Đình Chiến; Lưu: VT, CN(Tên).
+Dựa trên: 1732/TB-SCT ngày 02/4/2026 (Nậm Cang 1A); TB Móng Sến 1 (6/2026). Ký hiệu `/TB-SCT`; ký KT.GĐ - PGĐ Hoàng Văn Thuân (từ 17/11/2026, QĐ 7750/QĐ-SCT; 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử); Lưu: VT, CN(Tên).
 
 ---
 
@@ -52,4 +52,4 @@ Sở Công Thương thông báo cho {Công ty} được biết, tổ chức th�
 
 **Nơi nhận:** Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Tên).
 
-**KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC — Nguyễn Đình Chiến**
+**KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC — Hoàng Văn Thuân**

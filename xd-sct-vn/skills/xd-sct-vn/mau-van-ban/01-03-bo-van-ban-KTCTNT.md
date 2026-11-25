@@ -1,6 +1,6 @@
 # Mẫu 01-03 — Bộ văn bản kiểm tra công tác nghiệm thu công trình công nghiệp
 
-Ba mẫu dùng chung cho KTCTNT công trình công nghiệp (không phải kho VLNCN — kho VLNCN dùng bộ mẫu chuyên biệt trong plugin `kho-vlncn-sct-vn`). Điền chỗ `{...}`; theo thể thức NĐ 30/2020 qua skill `vbhc-vn`; GATE số/ngày văn bản đến; render kiểm tra trước khi giao. Người ký: KT.GĐ - PGĐ Nguyễn Đình Chiến (công trình CN không thuộc mỏ, từ 05/10/2026 — dự kiến) hoặc PGĐ Hoàng Văn Thuân (công trình mỏ) theo QĐ 6320/QĐ-SCT; Lưu VT, CN.
+Ba mẫu dùng chung cho KTCTNT công trình công nghiệp (không phải kho VLNCN — kho VLNCN dùng bộ mẫu chuyên biệt trong plugin `kho-vlncn-sct-vn`). Điền chỗ `{...}`; theo thể thức NĐ 30/2020 qua skill `vbhc-vn`; GATE số/ngày văn bản đến; render kiểm tra trước khi giao. Người ký: KT.GĐ - PGĐ Hoàng Văn Thuân — mọi công trình công nghiệp, mỏ lẫn không mỏ (từ 17/11/2026, QĐ 7750/QĐ-SCT ngày 17/11/2026 thay QĐ 6320/QĐ-SCT ngày 06/10/2026); công trình thuộc dự án năng lượng → PGĐ Nguyễn Trường Giang; 05/10–16/11/2026 công trình CN không thuộc mỏ dự kiến PGĐ Nguyễn Đình Chiến — lịch sử; Lưu VT, CN.
 
 ---
 

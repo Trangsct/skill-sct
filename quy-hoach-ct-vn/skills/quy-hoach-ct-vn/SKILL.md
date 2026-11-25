@@ -136,9 +136,9 @@ Thư mục **`van-ban-goc/`** giữ **bản gốc DOCX** của 06 văn bản tru
 | Loại văn bản | Người ký mặc định |
 |---|---|
 | Báo cáo/Tờ trình tổng thể quy hoạch ngành gửi UBND tỉnh, Tỉnh uỷ | Giám đốc Hoàng Chí Hiền |
-| Công văn tham gia ý kiến quy hoạch điện, lưới điện, năng lượng | KT. Giám đốc - PGĐ Nguyễn Trường Giang (phụ trách năng lượng, Phòng QLNL — QĐ 6320/QĐ-SCT ngày 06/10/2026) |
-| Công văn tham gia ý kiến quy hoạch khoáng sản | KT. Giám đốc - PGĐ Hoàng Văn Thuân (tổ chức thực hiện quy hoạch địa chất, khoáng sản; khai thác, chế biến) hoặc PGĐ Phạm Năng Chung (khoáng sản làm VLXD, khu vực cấm, đấu giá) — QĐ 6320/QĐ-SCT |
-| Công văn tham gia ý kiến về VLNCN | KT. Giám đốc - PGĐ Nguyễn Đình Chiến (từ 05/10/2026, QĐ 6320/QĐ-SCT) |
+| Công văn tham gia ý kiến quy hoạch điện, lưới điện, năng lượng | KT. Giám đốc - PGĐ Nguyễn Trường Giang (phụ trách năng lượng, Phòng QLNL — QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026) |
+| Công văn tham gia ý kiến quy hoạch khoáng sản | KT. Giám đốc - PGĐ Hoàng Văn Thuân (công nghiệp khai thác mỏ và chế biến khoáng sản) hoặc PGĐ Phạm Năng Chung (địa chất và phần khoáng sản còn lại; phụ trách Phòng Quản lý Khoáng sản) — QĐ 7750/QĐ-SCT ngày 17/11/2026 (thay QĐ 6320/QĐ-SCT ngày 06/10/2026); QĐ 7750 không liệt kê từng đầu việc, ý kiến gồm cả hai phần thì hỏi Bạn |
+| Công văn tham gia ý kiến về VLNCN | KT. Giám đốc - PGĐ Hoàng Văn Thuân (từ 17/11/2026, QĐ 7750/QĐ-SCT; 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến theo QĐ 6320/QĐ-SCT — lịch sử) |
 | Công văn tham gia ý kiến quy hoạch KCN, CCN | KT. Giám đốc - PGĐ Nguyễn Đình Chiến (phụ trách KCN, CCN) |
 | Phiếu góp ý nội bộ, công văn nghiệp vụ Phòng QLCN | Theo lĩnh vực: PGĐ phụ trách tương ứng |
 

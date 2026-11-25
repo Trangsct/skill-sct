@@ -137,10 +137,12 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 2. **Không đụng bảng header, bảng chữ ký, đường Line**; không xóa/thêm paragraph trong ô bảng.
 3. **Không chèn ngắt dòng cứng** `\n`/`<w:br/>` trong một paragraph — tách thành paragraph riêng.
 4. **Không giao PDF** cho người dùng; sản phẩm cuối chỉ là .docx.
-5. **Người ký theo lĩnh vực** (QĐ 6320/QĐ-SCT ngày 06/10/2026): Phòng QLCN — KCN, CCN, ATTP, hóa chất,
-   VLNCN, PCTT (dự kiến cả HHNH, PCCC) → PGĐ Nguyễn Đình Chiến; khai thác, chế biến khoáng sản, thiết kế mỏ,
-   CN môi trường, ATVSLĐ → PGĐ Hoàng Văn Thuân; cấp phép, đấu giá khoáng sản → PGĐ Phạm Năng Chung;
-   năng lượng → PGĐ Nguyễn Trường Giang; thương mại → PGĐ Trịnh Văn Thành / Nguyễn Huy Tưởng; TTr UBND
+5. **Người ký theo lĩnh vực** (từ 17/11/2026 — QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026):
+   **hóa chất, VLNCN**, thẩm định thiết kế - kiểm tra nghiệm thu công trình công nghiệp (trừ dự án năng lượng), khai thác,
+   chế biến khoáng sản, thiết kế mỏ, luyện kim, CN môi trường, ATVSLĐ → **PGĐ Hoàng Văn Thuân** (hóa chất, VLNCN giai đoạn
+   05/10–16/11/2026 do PGĐ Chiến ký — lịch sử); CCN, ATTP, khuyến công, cơ khí, PCTT (dự kiến cả HHNH, PCCC, KCN — QĐ 7750
+   không ghi đích danh, chờ Bạn xác nhận lại) → PGĐ Nguyễn Đình Chiến; địa chất, cấp phép, đấu giá khoáng sản → PGĐ Phạm
+   Năng Chung; năng lượng → PGĐ Nguyễn Trường Giang; thương mại → PGĐ Trịnh Văn Thành / Nguyễn Huy Tưởng; TTr UBND
    tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.
 6. **Nơi nhận có "- Ban Giám đốc Sở;" và dòng Lưu GHI tên chuyên viên soạn thảo** (Bạn chốt 16/11/2026, thay quy
    ước 01/10/2026 bỏ tên và 13/10/2026 thủ tục hành chính không gửi Ban Giám đốc — nay là lịch sử): `Lưu: VT, CN(Loan).`;

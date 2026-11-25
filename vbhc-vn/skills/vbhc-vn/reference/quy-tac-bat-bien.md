@@ -19,15 +19,15 @@ Quy tắc nào có ghi *(Kiểm tự động: Rnn)* thì máy đã kiểm — xe
 5. **KHÔNG giao PDF cho người dùng** — sản phẩm cuối chỉ là .docx. (Được phép render PDF/JPG **nội bộ** để QA trực quan ở Bước 4, nhưng không `present_files` file PDF đó.)
 6. **Người ký mặc định**:
    - **Chọn PGĐ ký theo LĨNH VỰC** (phân công cắt ngang phòng — xem bảng đầy đủ trong `sct-laocai-org-vn` mục "Phân công lĩnh vực giữa các Phó Giám đốc"):
-     - Từ **05/10/2026 theo QĐ 6320/QĐ-SCT** (Ban Giám đốc: GĐ + 6 PGĐ):
-     - **PGĐ Nguyễn Đình Chiến** (phụ trách Phòng QLCN) ký: **KCN, CCN, ATTP, hóa chất, tiền chất, VLNCN (GP sử dụng `/GP-SCT`, kho, huấn luyện), tiền chất thuốc nổ, PCTT, khuyến công, cơ khí, CN tiêu dùng/thực phẩm/hỗ trợ**; dự kiến cả **HHNH, PCCC, an toàn ngành, KTCTNT công trình CN, KHCN lĩnh vực CN** (Bạn chốt 06/10/2026).
-     - **PGĐ Hoàng Văn Thuân** (phụ trách Phòng Quản lý Khoáng sản) ký: **khai thác, chế biến khoáng sản, thẩm định thiết kế mỏ, luyện kim, CN môi trường/BVMT, ATVSLĐ, địa chất**.
-     - **PGĐ Phạm Năng Chung** ký: khoáng sản — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, KS làm VLXD.
+     - Từ **17/11/2026 theo QĐ 7750/QĐ-SCT ngày 17/11/2026** (thay QĐ 6320/QĐ-SCT ngày 06/10/2026; Ban Giám đốc: GĐ + 6 PGĐ):
+     - **PGĐ Hoàng Văn Thuân** ký: **hóa chất, tiền chất, VLNCN (GP sử dụng `/GP-SCT`, kho, huấn luyện), tiền chất thuốc nổ; thẩm định thiết kế, KTCTNT công trình công nghiệp (xây dựng chuyên ngành Công Thương, trừ dự án năng lượng); khai thác, chế biến khoáng sản, thẩm định thiết kế mỏ, luyện kim, CN môi trường/BVMT, ATVSLĐ (trừ lĩnh vực năng lượng)**. Hóa chất, VLNCN giai đoạn 05/10–16/11/2026 do PGĐ Chiến ký — lịch sử.
+     - **PGĐ Nguyễn Đình Chiến** (phụ trách Phòng QLCN) ký: **CCN, ATTP, PCTT, khuyến công, cơ khí, CN tiêu dùng/thực phẩm/hỗ trợ, SXTD bền vững**; dự kiến cả **HHNH, PCCC, KCN, chất lượng SPHH, an toàn ngành khác, KHCN lĩnh vực CN** (Bạn chốt 06/10/2026; QĐ 7750 không ghi đích danh — chờ Bạn xác nhận lại).
+     - **PGĐ Phạm Năng Chung** (phụ trách Phòng Quản lý Khoáng sản) ký: địa chất, khoáng sản — thăm dò, trữ lượng, cấp phép, đóng cửa mỏ, tiền cấp quyền, đấu giá, KS làm VLXD.
      - **PGĐ Nguyễn Trường Giang**: điện, năng lượng; **PGĐ Trịnh Văn Thành**: thương mại nội địa; **PGĐ Nguyễn Huy Tưởng**: XNK, TM biên giới, XTTM, TMĐT, logistics.
      - Lĩnh vực QLCN chưa nêu tên: mặc định PGĐ Nguyễn Đình Chiến (phụ trách phòng) hoặc hỏi lại.
-     - Văn bản mẫu thật trong `examples/` ký trước 05/10/2026 (PGĐ Thuân ký hóa chất, VLNCN, HHNH…) giữ nguyên — lịch sử; khi dựng văn bản mới thì đổi khối ký theo bảng trên.
+     - Văn bản mẫu thật trong `examples/` giữ nguyên người ký đúng thời điểm (trước 05/10/2026 PGĐ Thuân ký hóa chất, VLNCN, HHNH; 05/10–16/11/2026 PGĐ Chiến ký hóa chất, VLNCN) — lịch sử; khi dựng văn bản mới thì đổi khối ký theo bảng trên.
    - TTr UBND tỉnh, KH quan trọng, QĐ/BC quan trọng → **GIÁM ĐỐC Hoàng Chí Hiền**.
-   - Khi PGĐ phụ trách vắng, PGĐ được phân công xử lý thay (Chiến ↔ Giang; Thuân ↔ Chung; Thành ↔ Tưởng — QĐ 6320) ký thay; nêu rõ để người dùng xác nhận, không mặc định cứng.
+   - Khi PGĐ phụ trách vắng, PGĐ được phân công xử lý thay (Chiến ↔ Giang; Thuân ↔ Chung; Thành ↔ Tưởng — QĐ 7750, không đổi so với QĐ 6320) ký thay; nêu rõ để người dùng xác nhận, không mặc định cứng.
    - **Ngoại lệ - Công văn nội bộ Phòng (template 08)**: do **Trưởng phòng** ký (mặc định Trưởng phòng QLCN Nguyễn Hữu Long), không phải Lãnh đạo Sở; header không có số ký hiệu, dòng lưu chỉ `Lưu: CN`.
    - **Văn bản cấp UBND tỉnh / VP UBND (examples/ubnd)**: người ký là Lãnh đạo UBND tỉnh hoặc Văn phòng UBND tỉnh (KT. CHỦ TỊCH - PHÓ CHỦ TỊCH; TL. CHỦ TỊCH - KT. CHÁNH VĂN PHÒNG - PHÓ CHÁNH VĂN PHÒNG; CHÁNH VĂN PHÒNG; TM. ỦY BAN NHÂN DÂN TỈNH - CHỦ TỊCH). Xem mục "Văn bản cấp UBND tỉnh và Văn phòng UBND tỉnh".
 7. **Tên file chuẩn**: đặt theo định dạng `YYYY.MM.DD. [Tên văn bản].docx` — tiền tố ngày (năm.tháng.ngày), một dấu chấm và khoảng trắng, rồi tên văn bản đầy đủ bằng tiếng Việt **có dấu**.

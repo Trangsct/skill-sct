@@ -107,7 +107,7 @@ QCVN đối chiếu bắt buộc khi thẩm định:
 
 ## VII. NGƯỜI KÝ, NGƯỜI SOẠN, KÝ HIỆU (khớp `sct-laocai-org-vn`)
 
-- Lĩnh vực thẩm định thiết kế/dự án công nghiệp mỏ → **PGĐ Hoàng Văn Thuân** ký KT. GIÁM ĐỐC (đúng các văn bản mẫu thực tế; **giữ nguyên theo QĐ 6320/QĐ-SCT ngày 06/10/2026** — Thuân phụ trách "thẩm định các dự án, báo cáo và thiết kế liên quan đến khai thác, chế biến khoáng sản", phụ trách Phòng Quản lý Khoáng sản; Thuân vắng → PGĐ Phạm Năng Chung). Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền.
+- Lĩnh vực thẩm định thiết kế/dự án công nghiệp mỏ → **PGĐ Hoàng Văn Thuân** ký KT. GIÁM ĐỐC (đúng các văn bản mẫu thực tế; căn cứ **QĐ 7750/QĐ-SCT ngày 17/11/2026** (thay QĐ 6320/QĐ-SCT ngày 06/10/2026) — Thuân phụ trách "công nghiệp khai thác mỏ và chế biến khoáng sản" và "lĩnh vực xây dựng chuyên ngành Công Thương (trừ các dự án thuộc lĩnh vực Năng lượng) theo quy định của pháp luật về xây dựng"; Thuân vắng → PGĐ Phạm Năng Chung). Phòng Quản lý Khoáng sản từ 17/11/2026 do PGĐ Phạm Năng Chung phụ trách (05/10–16/11/2026 PGĐ Thuân phụ trách Phòng này — lịch sử); người ký văn bản thẩm định thiết kế mỏ không đổi. Tờ trình UBND tỉnh quan trọng: GĐ Hoàng Chí Hiền.
 - Chuyên viên: **CV Dũng** — thẩm định thiết kế/công trình mỏ (dòng Lưu: `Lưu: VT, CN(Tên).`); vấn đề khoáng sản chung phối hợp CV Nhung; kho VLNCN trong mỏ phối hợp CV Khôi.
 - Ký hiệu: công văn `/SCT-CN`; thông báo `/TB-SCT`; báo cáo `/BC-SCT`.
 - Soạn docx: qua `vbhc-vn` (Chế độ B ưu tiên — dùng ví dụ thực tế làm template), render soi ảnh trước khi giao.

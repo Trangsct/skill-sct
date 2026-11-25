@@ -14,7 +14,7 @@ Nguồn: bản Bạn tự sửa ngày 26/10/2026 cho lớp người quản lý 1
    có tên trong danh sách kèm theo".
 5. **Nơi nhận**: Như Điều 3; **Trung tâm Phục vụ hành chính công tỉnh**; Lưu: VT, CN(Tên). (dòng dài để Word tự xuống dòng,
    thụt treo; không ngắt tay).
-6. **Người ký: KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** — Bạn chốt cho kỳ này, không đưa Giấy ủy quyền vào căn cứ.
+6. **Người ký: KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC** phụ trách VLNCN, không đưa Giấy ủy quyền vào căn cứ (Bạn chốt 26/10/2026). Từ 17/11/2026 là **PGĐ Hoàng Văn Thuân** (QĐ 7750/QĐ-SCT); bản chốt cho kỳ 17, 18/10/2026 ghi PGĐ Nguyễn Đình Chiến (giai đoạn 05/10–16/11/2026 — lịch sử).
 7. **Phụ lục 6 cột, KHÔNG có cột điểm**: TT | Họ và tên | Ngày sinh | Chức danh | Số định danh cá nhân | Kết quả.
    Xếp theo đơn vị: mỗi đơn vị một dòng gộp ô in đậm "1. Tên đơn vị", số thứ tự học viên chạy liền; học viên cùng
    đơn vị không tách trang (keep with next); trang ngang, dòng tiêu đề lặp.
@@ -57,7 +57,7 @@ Quyết định có hiệu lực kể từ ngày ký./.
 Nơi nhận:                                        KT. GIÁM ĐỐC
 - Như Điều 3;                                    PHÓ GIÁM ĐỐC
 - Trung tâm Phục vụ hành chính công tỉnh;
-- Lưu: VT, CN(Tên).                                   [Nguyễn Đình Chiến]
+- Lưu: VT, CN(Tên).                                   [Hoàng Văn Thuân]
 ```
 
 Phụ lục (trang ngang):

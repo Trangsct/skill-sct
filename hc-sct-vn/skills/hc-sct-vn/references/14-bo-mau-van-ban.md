@@ -4,11 +4,13 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 
 ## 1. Bảng tra nhanh "việc → mẫu → nguồn"
 
+Cột "Người ký": "KT.GĐ-PGĐ Thuân" = KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân, áp dụng từ 17/11/2026 (QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026); 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử. Thuân vắng → PGĐ Phạm Năng Chung.
+
 | Việc | Loại văn bản | Người ký | Nguồn mẫu / reference |
 |---|---|---|---|
-| Trả lời không cấp GCN/GP (sau thẩm định, kiểm tra thực tế) | Chưa ủy quyền: Báo cáo/Tờ trình của Sở + dự thảo văn bản UBND tỉnh. Đã ủy quyền: Công văn (SCT-CN) | UBND tỉnh; hoặc KT.GĐ-PGĐ Chiến khi đã có Quyết định ủy quyền | khuôn mục 4 ref này; nguyên tắc ref 16 mục 1a. **Không dùng công văn từ chối, phúc đáp năm 2026 cũ làm mẫu** |
-| Thông báo bổ sung, hoàn chỉnh hồ sơ (trong 03 ngày làm việc, chỉ khi thiếu hoặc sai thành phần hồ sơ) | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | khuôn mục 4 ref này; `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx` |
-| Yêu cầu hoàn thiện hồ sơ GCN kinh doanh (kho thuê, hợp đồng dịch vụ tồn trữ chưa chặt) — **mẫu chuẩn phong cách phản biện 26/10/2026** | Công văn (SCT-CN), 3 trang | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`; mục 4 ref này; ref 16 mục 5c |
+| Trả lời không cấp GCN/GP (sau thẩm định, kiểm tra thực tế) | Chưa ủy quyền: Báo cáo/Tờ trình của Sở + dự thảo văn bản UBND tỉnh. Đã ủy quyền: Công văn (SCT-CN) | UBND tỉnh; hoặc KT.GĐ-PGĐ Thuân khi đã có Quyết định ủy quyền | khuôn mục 4 ref này; nguyên tắc ref 16 mục 1a. **Không dùng công văn từ chối, phúc đáp năm 2026 cũ làm mẫu** |
+| Thông báo bổ sung, hoàn chỉnh hồ sơ (trong 03 ngày làm việc, chỉ khi thiếu hoặc sai thành phần hồ sơ) | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | khuôn mục 4 ref này; `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx` |
+| Yêu cầu hoàn thiện hồ sơ GCN kinh doanh (kho thuê, hợp đồng dịch vụ tồn trữ chưa chặt) — **mẫu chuẩn phong cách phản biện 26/10/2026** | Công văn (SCT-CN), 3 trang | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx`; mục 4 ref này; ref 16 mục 5c |
 | Cấp GCN đủ điều kiện SX/KD có điều kiện | Giấy chứng nhận (**Mẫu 09 TT 26/2026**, thay Mẫu 10c TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-09-...docx`; ref 03 |
 | Biên bản thẩm định hồ sơ và kiểm tra thực tế (GCN kinh doanh, kho thuê ở tỉnh khác) | Biên bản (theo Mẫu 7 biên bản thẩm định HHNH) | Đại diện Đoàn kiểm tra + Đại diện Công ty | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/Bien-ban-tham-dinh-ho-so-va-kiem-tra-thuc-te-GCN-KD-kho-thue-tinh-khac.docx`; ref 03, 16 mục 5c |
 | Lấy ý kiến UBND cấp tỉnh nơi đặt kho thuê (điểm d khoản 5 Điều 9 NĐ 26) | Tờ trình (TTr-SCT) + dự thảo Công văn UBND tỉnh (UBND-KT) | TTr: GĐ Sở; CV: KT. Chủ tịch - Phó Chủ tịch | `vi-du-thuc-te/gcn-kd-kho-thue-tinh-khac/To-trinh-...docx`, `Du-thao-CV-UBND-tinh-...docx`; ref 03, 16 mục 5c |
@@ -18,18 +20,18 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 | Cấp GCN dịch vụ tồn trữ (mọi cơ sở) | Giấy chứng nhận (**Mẫu 12 TT 26/2026**, thay Mẫu 11c PL XI TT 01) | theo ủy quyền/UBND tỉnh | `mau-ho-so/TT-26-2026/Mau-12-...docx`; ref 05 |
 | Thu hồi GCN/GP | Quyết định (QĐ-SCT/QĐ-UBND) | theo thẩm quyền cấp | ref 09 |
 | Thành lập Hội đồng thẩm định KH sự cố | Quyết định | UBND tỉnh (Sở tham mưu) | ref 06 |
-| Thông báo kết quả thẩm định KH | Công văn/Thông báo | KT.GĐ-PGĐ Chiến | ref 06; `vi-du-thuc-te/ke-hoach-su-co/` |
-| Cử người tham gia thẩm định KH | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/ke-hoach-su-co/CV-cu-nguoi-tham-gia-tham-dinh-KH-su-co.docx`; ref 06 |
+| Thông báo kết quả thẩm định KH | Công văn/Thông báo | KT.GĐ-PGĐ Thuân | ref 06; `vi-du-thuc-te/ke-hoach-su-co/` |
+| Cử người tham gia thẩm định KH | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/ke-hoach-su-co/CV-cu-nguoi-tham-gia-tham-dinh-KH-su-co.docx`; ref 06 |
 | Phê duyệt KH phòng ngừa sự cố | Quyết định (PL II NĐ 25) | UBND tỉnh (Sở tham mưu) | ref 06 |
 | Thành lập Đoàn kiểm tra chuyên ngành | Quyết định (QĐ-SCT) | GĐ Sở | `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.docx`; ref 10 |
-| Thông báo thời gian kiểm tra thực tế | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/kiem-tra/CV-thong-bao-thoi-gian-kiem-tra-thuc-te.docx`; ref 10 |
-| Báo cáo kết quả kiểm tra | Báo cáo (BC-SCT) | GĐ/KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/kiem-tra/BC-ket-qua-kiem-tra-04-don-vi.docx`; ref 10 |
+| Thông báo thời gian kiểm tra thực tế | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/kiem-tra/CV-thong-bao-thoi-gian-kiem-tra-thuc-te.docx`; ref 10 |
+| Báo cáo kết quả kiểm tra | Báo cáo (BC-SCT) | GĐ/KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/kiem-tra/BC-ket-qua-kiem-tra-04-don-vi.docx`; ref 10 |
 | Báo cáo công tác QL an toàn hóa chất năm | Báo cáo (BC-SCT) | GĐ Hoàng Chí Hiền | `vi-du-thuc-te/bao-cao-tham-muu/BC-cong-tac-QL-an-toan-hoa-chat-2025.docx`; ref 11 |
-| Đôn đốc DN báo cáo | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/bao-cao-tham-muu/CV-don-doc-bao-cao-tinh-hinh-hoa-chat-2025.docx`; ref 11 |
-| Đề nghị DN cung cấp thông tin | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/bao-cao-tham-muu/CV-de-nghi-DN-cung-cap-thong-tin.docx`; ref 11 |
-| Cung cấp thông tin cho BCH Quân sự/Công an tỉnh | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | `vi-du-thuc-te/bao-cao-tham-muu/CV-cung-cap-thong-tin-BCH-quan-su-tinh.docx`; ref 11 |
+| Đôn đốc DN báo cáo | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/bao-cao-tham-muu/CV-don-doc-bao-cao-tinh-hinh-hoa-chat-2025.docx`; ref 11 |
+| Đề nghị DN cung cấp thông tin | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/bao-cao-tham-muu/CV-de-nghi-DN-cung-cap-thong-tin.docx`; ref 11 |
+| Cung cấp thông tin cho BCH Quân sự/Công an tỉnh | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | `vi-du-thuc-te/bao-cao-tham-muu/CV-cung-cap-thong-tin-BCH-quan-su-tinh.docx`; ref 11 |
 | Trình BC triển khai chiến lược/văn bản TTg-BCT | Bản trình/Báo cáo | GĐ Hoàng Chí Hiền | `vi-du-thuc-te/bao-cao-tham-muu/Ban-trinh-*.docx`; ref 11 |
-| Hướng dẫn DN thủ tục | Công văn (SCT-CN) | KT.GĐ-PGĐ Chiến | ref 13 |
+| Hướng dẫn DN thủ tục | Công văn (SCT-CN) | KT.GĐ-PGĐ Thuân | ref 13 |
 
 ## 2. Bộ căn cứ pháp lý chuẩn (dán vào phần "Căn cứ")
 
@@ -48,7 +50,7 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 ## 3. Quy tắc thể thức chung
 
 - Ký hiệu công văn **/SCT-CN**; quyết định **/QĐ-SCT**; báo cáo **/BC-SCT**; tờ trình **/TTr-SCT**; giấy phép/GCN theo Phần III Phụ lục TT 26/2026 (Mẫu 06, 09, 12) hoặc Phụ lục II, VII TT 01 với loại chưa bị thay.
-- **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (từ 05/10/2026, QĐ 6320/QĐ-SCT; văn bản mẫu thật trong `vi-du-thuc-te/` do PGĐ Thuân ký — lịch sử, đổi khối ký khi dựng); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
+- **Người ký:** cấp phép/thẩm định/kiểm tra/báo cáo thường lệ → **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (từ 17/11/2026, QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026; 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử; văn bản mẫu thật trong `vi-du-thuc-te/` phần lớn mang khối ký PGĐ Thuân, riêng `gcn-kd-kho-thue-tinh-khac/CV-de-nghi-hoan-thien-ho-so-GCN-KD-kho-thue-tinh-khac.docx` mang khối ký PGĐ Chiến — khi dựng văn bản mới đổi khối ký sang Hoàng Văn Thuân); tờ trình/chủ trương/báo cáo quan trọng gửi UBND tỉnh, Bộ → **GIÁM ĐỐC Hoàng Chí Hiền**. **Văn bản cấp GCN/GP/QĐ thay UBND tỉnh: xác minh QĐ ủy quyền — chưa rõ thì trình Chủ tịch UBND tỉnh ký (hỏi Bạn).**
 - **Dòng Lưu:** `Lưu: VT, CN(Tên).`
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; "Kính gửi" không in đậm; heading mục 1,2,3 trong công văn in đậm.
 - **Không bịa số văn bản, ngày ký, mã TTHC.** Lấy số thật khi phát hành.
@@ -64,10 +66,10 @@ Bộ văn bản Sở ban hành khi xử lý nghiệp vụ hóa chất. Luôn k�
 4. **Chỉ yêu cầu đúng thành phần hồ sơ**: tài liệu không thuộc thành phần (HĐLĐ, văn bản phân công) ghi "xuất trình tại buổi kiểm tra điều kiện thực tế", không ghi "cung cấp"/"bổ sung"; không đặt điều kiện ngoài quy định (không bắt rút thời hạn hợp đồng về bằng thời hạn GCN chủ kho — thay bằng cam kết dừng tồn trữ, báo cáo, cấp điều chỉnh khi mất điều kiện kho).
 5. **Căn cứ dẫn đủ lần đầu** (NĐ 26/2026 kèm ngày, cơ quan, trích yếu; "được sửa đổi tại Phụ lục II NQ 19/2026/NQ-CP ngày 29/4/2026"); khoản 4 Điều 8 đã viết lại tại NQ 19 nên không dẫn kèm khoản 4 Điều 5 bản gốc.
 6. **Kết một đoạn:** nói rõ đây là yêu cầu bổ sung **một lần** theo điểm b khoản 5 Điều 9, thời gian hoàn chỉnh không tính vào thời hạn; báo trước hai bước kế tiếp (kiểm tra thực tế tại trụ sở; lấy ý kiến UBND nơi đặt kho); nơi nộp là Cổng một cửa Bộ Công Thương.
-7. **Thể thức:** Nơi nhận "Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Loan)." (Bạn chốt 16/11/2026: gửi Ban Giám đốc Sở, ghi tên chuyên viên; không gửi Trung tâm PVHCC vì hồ sơ nộp trên Cổng Bộ); KT. GĐ - PGĐ Chiến ký; ký hiệu SCT-CN; ngày nhận hồ sơ lấy theo ngày tiếp nhận trên Cổng (mã hồ sơ `H38.2-yymmdd-…` cho biết ngày nộp) để tính hạn 03 ngày làm việc.
+7. **Thể thức:** Nơi nhận "Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Loan)." (Bạn chốt 16/11/2026: gửi Ban Giám đốc Sở, ghi tên chuyên viên; không gửi Trung tâm PVHCC vì hồ sơ nộp trên Cổng Bộ); KT. GĐ - PGĐ Hoàng Văn Thuân ký (từ 17/11/2026, QĐ 7750/QĐ-SCT; tệp mẫu còn khối ký PGĐ Nguyễn Đình Chiến của giai đoạn đến 16/11/2026 — lịch sử, đổi khi dựng); ký hiệu SCT-CN; ngày nhận hồ sơ lấy theo ngày tiếp nhận trên Cổng (mã hồ sơ `H38.2-yymmdd-…` cho biết ngày nộp) để tính hạn 03 ngày làm việc.
 Độ dài chuẩn: 3 trang A4; dưới 2 trang là thiếu lập luận, trên 3 trang là lặp.
 
-**QĐ thành lập Đoàn kiểm tra:** căn cứ; Điều 1 thành lập đoàn + danh sách (Trưởng đoàn PGĐ Chiến, Phó đoàn lãnh đạo phòng, thành viên + thư ký CN Loan); Điều 2 nội dung/phạm vi/thời kỳ/thời hạn/đối tượng (phụ lục danh sách đơn vị); Điều 3 nhiệm vụ đoàn; Điều 4 điều khoản thi hành.
+**QĐ thành lập Đoàn kiểm tra:** căn cứ; Điều 1 thành lập đoàn + danh sách (Trưởng đoàn PGĐ Hoàng Văn Thuân — phụ trách hóa chất từ 17/11/2026, Phó đoàn lãnh đạo phòng, thành viên + thư ký CN Loan); Điều 2 nội dung/phạm vi/thời kỳ/thời hạn/đối tượng (phụ lục danh sách đơn vị); Điều 3 nhiệm vụ đoàn; Điều 4 điều khoản thi hành.
 
 **QĐ thành lập Hội đồng thẩm định KH:** căn cứ NĐ 25 (Điều 34); Điều 1 thành lập Hội đồng 07-09 người (Chủ tịch, PCT, ủy viên phản biện, ủy viên thư ký, ủy viên); Điều 2 nhiệm vụ; Điều 3 Hội đồng tự giải thể sau khi KH được phê duyệt; Điều 4 thi hành.
 

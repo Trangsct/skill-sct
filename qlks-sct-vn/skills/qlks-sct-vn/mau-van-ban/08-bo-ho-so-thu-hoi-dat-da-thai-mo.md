@@ -128,7 +128,7 @@ Ví dụ đạt: `vi-du-thuc-te/BD-vi-tri-toa-do-dien-tich-thu-hoi-da-op-lat-Vie
 
 ## IV. VĂN BẢN SCT THAM GIA Ý KIẾN THEO ĐỀ NGHỊ CỦA SNNMT
 
-Việc thường xuyên nhất của SCT trong chế định thu hồi. Ký hiệu `.../SCT-CN`; người ký KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân**; Lưu: `VT, CN.`
+Việc thường xuyên nhất của SCT trong chế định thu hồi. Ký hiệu `.../SCT-CN`; người ký KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân** (tên đặt trong mẫu từ trước 17/11/2026; từ 17/11/2026 theo QĐ 7750/QĐ-SCT, thu hồi khoáng sản chưa rõ thuộc phần PGĐ Hoàng Văn Thuân hay PGĐ Phạm Năng Chung — hỏi Bạn trước khi điền khối ký, SKILL.md mục VII; văn bản đã quan sát: CV 7935/SCT-KS ngày 23/11/2026 về đăng ký thu hồi đất, đá thải mỏ do PGĐ Phạm Năng Chung ký — `bvmt-sct-vn` reference 15 mục 3); Lưu: `VT, CN.`
 
 ```
 Kính gửi: Sở Nông nghiệp và Môi trường tỉnh Lào Cai.

@@ -2,6 +2,8 @@
 
 7 quyết định biên tập bắt buộc: `references/01-vlncn-hoachat/07` mục G. Bản mẫu thật: `vi-du-thuc-te/KH-kiem-tra-hochieu-nomin-HCM-TayBac-13.8.2026-PGD-Thuan-duyet.docx`; KH 2922/KH-ĐKT (Khí công nghiệp).
 
+Người phê duyệt khi PGĐ ký KT. — theo lĩnh vực kiểm tra, QĐ 7750/QĐ-SCT ngày 17/11/2026: hóa chất, VLNCN, khai thác mỏ và chế biến khoáng sản, ATVSLĐ → PGĐ Hoàng Văn Thuân; ATTP, CCN → PGĐ Nguyễn Đình Chiến; điện → PGĐ Nguyễn Trường Giang.
+
 ```
        SỞ CÔNG THƯƠNG                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐOÀN KIỂM TRA THEO QĐ SỐ …/QĐ-SCT            Độc lập – Tự do – Hạnh phúc

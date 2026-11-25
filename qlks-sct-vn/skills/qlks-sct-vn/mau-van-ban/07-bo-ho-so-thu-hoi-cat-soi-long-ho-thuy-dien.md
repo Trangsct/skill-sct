@@ -9,7 +9,7 @@ Nghiệp vụ và căn cứ: reference **17**. Thể thức, phông chữ, cách
 
 Dùng khi: doanh nghiệp/chủ đập hỏi thủ tục nạo vét lòng hồ kết hợp thu hồi cát sỏi; hoặc UBND tỉnh chuyển đơn qua Phiếu chuyển.
 
-Ký hiệu: `.../SCT-CN` (nếu đi từ phòng Quản lý công nghiệp) hoặc `.../SCT-NL` (nếu đi từ phòng Quản lý năng lượng — việc an toàn đập). Người ký: KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân**.
+Ký hiệu: `.../SCT-CN` (nếu đi từ phòng Quản lý công nghiệp) hoặc `.../SCT-NL` (nếu đi từ phòng Quản lý năng lượng — việc an toàn đập). Người ký: KT. GIÁM ĐỐC — PGĐ **Hoàng Văn Thuân** (tên đặt trong mẫu từ trước 17/11/2026). Từ 17/11/2026 theo QĐ 7750/QĐ-SCT, thu hồi khoáng sản chưa rõ thuộc phần PGĐ Hoàng Văn Thuân (công nghiệp khai thác mỏ) hay PGĐ Phạm Năng Chung (địa chất, khoáng sản còn lại; phụ trách Phòng Quản lý Khoáng sản) — hỏi Bạn trước khi điền khối ký (SKILL.md mục VII).
 
 ```
 Kính gửi: [Tên chủ đập/chủ đầu tư]

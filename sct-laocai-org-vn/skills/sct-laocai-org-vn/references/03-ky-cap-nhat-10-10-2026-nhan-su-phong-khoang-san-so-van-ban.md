@@ -2,14 +2,14 @@
 
 > NGUỒN: bản tin Data360X `theo-doi/bao-cao/2026-10-10.md` (kho riêng tư `vlncn-laocai`) — mục "sct-laocai-org-vn" 27 văn bản, và **luồng xử lý** trên Data360X của các văn bản bot đã tải (181/TB-VPUBND, 3725/QĐ-UBND, 6417/SCT-KS…). Phần lớn quyết định nhân sự **bot chưa tải PDF** (chạm trần tệp/lượt — lấy ở lượt sau), nên dưới đây chỉ có **số, ngày, trích yếu** từ sổ văn bản; **không có nội dung** (ai đi đâu, chức vụ gì chỉ ghi khi trích yếu nêu rõ). Không chép bản gốc vào kho công khai; thẻ từng người thuộc plugin riêng tư `dong-nghiep-sct-vn`.
 
-## A. Số Quyết định phân công Ban Giám đốc — ĐÃ CHỐT 22/10/2026: 6320/QĐ-SCT ngày 06/10/2026
+## A. Số Quyết định phân công Ban Giám đốc — ĐÃ CHỐT 22/10/2026: 6320/QĐ-SCT ngày 06/10/2026 (lịch sử — từ 17/11/2026 thay bằng QĐ 7750/QĐ-SCT, ref 07)
 
 | Sổ văn bản đi của Sở (Data360X) | Trích yếu | Ghi chú |
 |---|---|---|
 | **6286./QĐ-SCT ngày 05/10/2026** | **Ban hành Quy chế làm việc của Sở Công Thương tỉnh Lào Cai** | số có dấu chấm là lỗi nhập sổ |
-| **6320/QĐ-SCT ngày 06/10/2026** | **Về việc phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc – Sở Công Thương tỉnh Lào Cai (Đề nghị dùng bản này)** | văn thư ghi chú "Đề nghị dùng bản này" |
+| **6320/QĐ-SCT ngày 06/10/2026** | **Về việc phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc – Sở Công Thương tỉnh Lào Cai (Đề nghị dùng bản này)** | văn thư ghi chú "Đề nghị dùng bản này"; lịch sử — đã thay bằng QĐ 7750/QĐ-SCT ngày 17/11/2026 |
 
-Đã đối chiếu bản gốc PDF ký số (Bạn gửi 22/10/2026, đọc bằng `extract_metadata.py`): QĐ phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc mang **số 6320/QĐ-SCT ngày 06/10/2026**, Giám đốc Hoàng Chí Hiền ký, căn cứ **QĐ 6286/QĐ-SCT ngày 05/10/2026 ban hành Quy chế làm việc**. Nội dung phân công khớp bản skill ghi trước đây; SKILL.md và các plugin đã đổi số dẫn sang 6320 (bản 2.10.0). Quy định CNNV các phòng ban hành tại **QĐ 6226/QĐ-SCT ngày 02/10/2026** (ref 01).
+Đã đối chiếu bản gốc PDF ký số (Bạn gửi 22/10/2026, đọc bằng `extract_metadata.py`): QĐ phân công nhiệm vụ đối với Giám đốc, Phó Giám đốc mang **số 6320/QĐ-SCT ngày 06/10/2026** (áp dụng 05/10–16/11/2026 — lịch sử), Giám đốc Hoàng Chí Hiền ký, căn cứ **QĐ 6286/QĐ-SCT ngày 05/10/2026 ban hành Quy chế làm việc**. Nội dung phân công khớp bản skill ghi trước đây; SKILL.md và các plugin đã đổi số dẫn sang 6320 (bản 2.10.0). Quy định CNNV các phòng ban hành tại **QĐ 6226/QĐ-SCT ngày 02/10/2026** (ref 01).
 
 ## B. Chuỗi văn bản sắp xếp tổ chức Sở (29/9 – 09/10/2026)
 
@@ -25,7 +25,7 @@
 | 02/10/2026 | QĐ 6232, 6233, 6234, 6235, 6236, 6237, 6238, 6239, 6240, 6241/QĐ-SCT (Giám đốc Sở) | **Điều động công chức**: Hoàng Thu Phong (6232), Lưu Văn Nhất (6233), Nguyễn Quang Chung (6234), Nguyễn Thị Lê Vân (6235), Vũ Đình Thủy (6236), Phạm Văn Hải (6237), Nguyễn Minh Dương (6238), Lê Minh Long (6239), **Ngô Ngọc Dũng (6240)**, **Nguyễn Thị Thúy Nhung (6241)** — nơi đến theo bản gốc (suy đoán hợp lý: về Phòng Quản lý Khoáng sản; CV Nhung đã soạn văn bản với tư cách Phòng QL Khoáng sản ngày 09/10/2026 — mục C) |
 | 04/10/2026 | 1036/CV/VPTU (Văn phòng Tỉnh ủy) | Xin ý kiến dự thảo các biểu phân công nhiệm vụ trọng tâm Quý IV/2026 |
 | 05/10/2026 | **6286./QĐ-SCT** | Quy chế làm việc của Sở (mục A) |
-| 06/10/2026 | **6320/QĐ-SCT** | Phân công nhiệm vụ GĐ, PGĐ (mục A) |
+| 06/10/2026 | **6320/QĐ-SCT** | Phân công nhiệm vụ GĐ, PGĐ (mục A; lịch sử — thay bằng QĐ 7750/QĐ-SCT ngày 17/11/2026) |
 | 09/10/2026 | **QĐ 6478/QĐ-SCT** | Tiếp nhận và điều động công chức (ông **Phùng Đức Minh**) |
 | 09/10/2026 | 6420/SCT-KS | Kiện toàn các Hội đồng thẩm định tại QĐ 1229/QĐ-UBND 13/4/2026 và QĐ 2718/QĐ-UBND 31/12/2025 (lĩnh vực địa chất, khoáng sản) |
 | 09/10/2026 | 6416/SCT-KS | Cử thành viên tham gia 02 Hội đồng thẩm định lĩnh vực địa chất, khoáng sản |
@@ -62,6 +62,6 @@ Luồng văn bản đến điển hình: Văn thư → Giám đốc Hoàng Chí 
 ## E. Việc cần làm khi bot mang bản gốc về (lượt quét sau)
 
 1. Đọc QĐ 3628/QĐ-UBND: điền mục "Cơ cấu tổ chức" (tên, số phòng, Phòng Quản lý Khoáng sản), câu thay thế QĐ 05/2025/QĐ-UBND; cập nhật `check_facts.py` nếu đổi số phòng.
-2. ~~Chốt số QĐ phân công BGĐ~~ — xong 22/10/2026 (6320/QĐ-SCT; rule `qd-phan-cong-bgd-la-6320` trong `check_facts.py`).
+2. ~~Chốt số QĐ phân công BGĐ~~ — xong 22/10/2026 (6320/QĐ-SCT; rule `qd-phan-cong-bgd-la-6320` trong `check_facts.py`); từ 17/11/2026 QĐ 7750/QĐ-SCT thay QĐ 6320 (ref 07).
 3. Đọc 10 QĐ điều động 02/10/2026 + QĐ 6478: cập nhật bảng chuyên viên Phòng QLCN (ai đã chuyển sang Phòng QL Khoáng sản) và thẻ người trong `dong-nghiep-sct-vn` (kho riêng tư).
 4. Đọc Quy chế làm việc mới: cập nhật mục "Quy tắc khi soạn văn bản nội bộ".

@@ -105,4 +105,4 @@ Chi tiết: plugin `pccc-sct-vn` ref 04, ref 16.
    Nếu có tồn tại → yêu cầu khắc phục, kiểm tra lại
 ```
 
-Người ký: KT.GĐ - PGĐ Nguyễn Đình Chiến (công trình CN không thuộc mỏ, từ 05/10/2026 — dự kiến) hoặc PGĐ Hoàng Văn Thuân (công trình mỏ) theo QĐ 6320/QĐ-SCT; Lưu VT, CN. Với kho VLNCN: phối hợp CV Linh, dùng kèm plugin `kho-vlncn-sct-vn` (đã có bộ mẫu KTCTNT kho chuyên biệt).
+Người ký: KT.GĐ - PGĐ Hoàng Văn Thuân — mọi công trình công nghiệp, mỏ lẫn không mỏ (từ 17/11/2026, QĐ 7750/QĐ-SCT ngày 17/11/2026 thay QĐ 6320/QĐ-SCT ngày 06/10/2026: "xây dựng chuyên ngành Công Thương (trừ các dự án thuộc lĩnh vực Năng lượng)"); công trình thuộc dự án năng lượng → PGĐ Nguyễn Trường Giang; 05/10–16/11/2026 công trình CN không thuộc mỏ dự kiến PGĐ Nguyễn Đình Chiến — lịch sử; Lưu VT, CN. Với kho VLNCN: phối hợp CV Linh, dùng kèm plugin `kho-vlncn-sct-vn` (đã có bộ mẫu KTCTNT kho chuyên biệt).

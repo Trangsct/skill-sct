@@ -38,7 +38,7 @@ Toàn văn Văn bản 1709 tra ở sổ văn bản đi của Sở (kho riêng t�
 
 Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.docx` và `BC-ket-qua-kiem-tra-04-don-vi.docx`. Thông tin thể thức thực tế:
 - **Người ký:** Giám đốc Sở.
-- **Trưởng đoàn:** PGĐ **Hoàng Văn Thuân** (phụ trách hóa chất đến 04/10/2026 — lịch sử; từ 05/10/2026 PGĐ Nguyễn Đình Chiến).
+- **Trưởng đoàn:** PGĐ **Hoàng Văn Thuân** (phụ trách hóa chất đến 04/10/2026 và lại từ 17/11/2026 theo QĐ 7750/QĐ-SCT; 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử).
 - **Phó Trưởng đoàn:** **Nguyễn Hồng Vân** (lãnh đạo phòng).
 - **Thành viên:** **Nguyễn Thị Thúy Nhung**; **Nguyễn Thị Loan** (thư ký, chuyên viên hóa chất).
 - **Dòng Lưu:** `Lưu: VT, CN(Tên).`
@@ -49,7 +49,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 
 - Ký hiệu công văn: **/SCT-CN** (Phòng QLCN thụ lý).
 - Ký hiệu quyết định: **/QĐ-SCT**.
-- Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** từ 05/10/2026 (QĐ 6320/QĐ-SCT); các văn bản 2026 trước đó do PGĐ Hoàng Văn Thuân ký — lịch sử.
+- Người ký cấp phép/thẩm định/kiểm tra/báo cáo thường lệ: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân** từ 17/11/2026 (QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026); 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến ký — lịch sử; các văn bản 2026 đến 04/10/2026 cũng do PGĐ Hoàng Văn Thuân ký. Thuân vắng → PGĐ Phạm Năng Chung.
 - Tờ trình, chủ trương, báo cáo quan trọng gửi UBND tỉnh/Bộ: **GIÁM ĐỐC Hoàng Chí Hiền**.
 - Dòng Lưu: **Lưu: VT, CN(Tên).**
 - Quốc hiệu **CỘNG HÒA** (không "HOÀ"); tiêu ngữ dùng en dash "–"; "ha" không "héc-ta"; kết hợp `vbhc-vn` để chuẩn thể thức NĐ 30/2020.
@@ -58,7 +58,7 @@ Bản gốc: `vi-du-thuc-te/kiem-tra/QD-thanh-lap-doan-kiem-tra-hoa-chat-2026.do
 
 1. **Khung pháp lý 2026 là bắt buộc.** Mọi văn bản, thẩm định dùng Luật 69/2025 + NĐ 24/25/26/2026 + TT 01/02-2026. Hồ sơ DN viện dẫn Luật 06/2007, NĐ 113/2017, 82/2022, TT 32/2017 → hướng dẫn sửa; không phải căn cứ từ chối hay dừng thẩm định (mục 1, 1a).
 2. **Phân cấp theo nhóm:** tỉnh cấp GCN có điều kiện + GP kiểm soát đặc biệt **nhóm 2** + GCN dịch vụ tồn trữ (đối tượng tỉnh) + thẩm định KH (điểm b). Nhóm 1, cấm, khai báo NK, hóa chất mới → Cục Hóa chất.
-3. **Kho lưu chứa đồng thời hóa chất + tiền chất thuốc nổ** là tình huống phổ biến ở Lào Cai → luôn kiểm tra phân khu tại hiện trường và đối chiếu phạm vi Kế hoạch đã phê duyệt (mục 1a điểm 5); không đánh giá lại nội dung Kế hoạch. Ranh giới VLNCN/tiền chất thuốc nổ: lĩnh vực riêng (plugin VLNCN) dù cùng PGĐ Chiến (từ 05/10/2026).
+3. **Kho lưu chứa đồng thời hóa chất + tiền chất thuốc nổ** là tình huống phổ biến ở Lào Cai → luôn kiểm tra phân khu tại hiện trường và đối chiếu phạm vi Kế hoạch đã phê duyệt (mục 1a điểm 5); không đánh giá lại nội dung Kế hoạch. Ranh giới VLNCN/tiền chất thuốc nổ: lĩnh vực riêng (plugin VLNCN) dù cùng PGĐ Hoàng Văn Thuân phụ trách (từ 17/11/2026, QĐ 7750/QĐ-SCT).
 4. **Kiểm tra thực tế bắt buộc** trước khi cấp GCN SX/KD có điều kiện và dịch vụ tồn trữ; đối chiếu QCVN 05A SĐ1:2024 (đặc biệt khoảng cách 17 m, phân khu oxy hóa/ăn mòn).
 
 ## 5. Vụ Cục Hóa chất xử phạt DN trên địa bàn — QĐ 26/QĐ-XPVPHC (7/2026)
@@ -84,7 +84,7 @@ Tổng: **16.000.000 đ**; không tình tiết tăng nặng/giảm nhẹ; không
 2. **Cục Hóa chất kiểm tra trực tiếp DN trên địa bàn** (không qua Sở) rồi gửi QĐ xử phạt cho Sở phối hợp. Khi nhận: (a) cập nhật DN vào hồ sơ theo dõi vi phạm; (b) loại DN khỏi/điều chỉnh kế hoạch kiểm tra chuyên ngành của Sở cùng nội dung để tránh trùng lặp (nguyên tắc NĐ 217/2025); (c) đưa vào báo cáo năm về công tác quản lý hóa chất (ref 11); (d) đôn đốc DN chấp hành nộp phạt và khắc phục (nộp báo cáo, hoàn thiện hồ sơ huấn luyện) trong các đợt làm việc tiếp theo.
 3. **Số liệu răn đe dùng cho CV đôn đốc DN**: không nộp báo cáo tổng hợp năm qua chemicaldata.gov.vn → phạt tới 12 triệu đồng; không lưu đủ hồ sơ huấn luyện → 4 triệu đồng (tiền lệ có thật ngay tại phường Lào Cai). Trích dẫn vụ này (không nêu tên DN trong văn bản gửi rộng rãi) khi soạn CV đôn đốc báo cáo năm.
 4. **Hồ sơ huấn luyện phải lưu đủ 3 cấu phần**: nội dung huấn luyện; thông tin người huấn luyện; nội dung và kết quả kiểm tra — thiếu bất kỳ cấu phần nào đã đủ cấu thành hành vi vi phạm. Soi đúng 3 cấu phần này khi kiểm tra chuyên ngành (ref 10) và thẩm định hồ sơ cấp GCN (ref 03, 07).
-5. Đầu mối theo dõi tại Sở: **CV Loan**, lãnh đạo phụ trách **PGĐ Nguyễn Đình Chiến** (từ 05/10/2026; trước đó PGĐ Thuân).
+5. Đầu mối theo dõi tại Sở: **CV Loan**, lãnh đạo phụ trách **PGĐ Hoàng Văn Thuân** (từ 17/11/2026, QĐ 7750/QĐ-SCT; 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử).
 
 ## 5a. Vụ DAP số 2 — Sở là thành viên Hội đồng thẩm định KH của Cục Hóa chất (08/9/2026)
 
@@ -92,7 +92,7 @@ Kế hoạch điều chỉnh của Công ty CP DAP số 2 - Vinachem (NH3 5.700 
 
 ## 5b. CV 6395/SCT-CN ngày 08/10/2026 — tăng cường tuân thủ pháp luật và an toàn hoạt động hóa chất (văn bản hướng dẫn chung gửi mọi DN hóa chất trên địa bàn)
 
-> Nguồn: lớp chữ `theo-doi/2026/6395_SCT-CN.md` (kho riêng tư `vlncn-laocai`, bot Data360X 10/10/2026). KT. GĐ, PGĐ **Nguyễn Đình Chiến** ký; nơi nhận: các tổ chức, DN hoạt động hóa chất; Lãnh đạo Sở; Phòng KT, HT&ĐT các phường và Phòng Kinh tế các xã (phối hợp); BQL các KCN, BQL KKT (phối hợp); dòng Lưu: VT, CN — bản phát hành có thêm tên chuyên viên trong ngoặc (⚠️ trái quy ước dòng Lưu Bạn chốt 01/10/2026; khi soạn mới viết `Lưu: VT, CN.`). Đây là **văn bản chuẩn của Sở về các mốc chuyển tiếp 2026–2027** — dùng lại câu chữ khi trả lời DN hoặc soạn công văn đôn đốc.
+> Nguồn: lớp chữ `theo-doi/2026/6395_SCT-CN.md` (kho riêng tư `vlncn-laocai`, bot Data360X 10/10/2026). KT. GĐ, PGĐ **Nguyễn Đình Chiến** ký (người ký đúng thời điểm 08/10/2026 — lịch sử; từ 17/11/2026 văn bản hóa chất do PGĐ Hoàng Văn Thuân ký); nơi nhận: các tổ chức, DN hoạt động hóa chất; Lãnh đạo Sở; Phòng KT, HT&ĐT các phường và Phòng Kinh tế các xã (phối hợp); BQL các KCN, BQL KKT (phối hợp); dòng Lưu: VT, CN — bản phát hành có thêm tên chuyên viên trong ngoặc (⚠️ trái quy ước dòng Lưu Bạn chốt 01/10/2026; khi soạn mới viết `Lưu: VT, CN.`). Đây là **văn bản chuẩn của Sở về các mốc chuyển tiếp 2026–2027** — dùng lại câu chữ khi trả lời DN hoặc soạn công văn đôn đốc.
 
 **05 nội dung và các mốc thời hạn Sở đã chốt trong văn bản:**
 

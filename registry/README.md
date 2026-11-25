@@ -1,15 +1,16 @@
 # Sổ đăng ký văn bản pháp luật dùng chung (tự sinh — không sửa tay file này)
 
-- Tổng số văn bản được trích dẫn trong 20 plugin: **970** (Luật 40, NĐ 254, TT 134, QĐ 454, NQ 44, khác 44).
-- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **209**.
+- Tổng số văn bản được trích dẫn trong 20 plugin: **971** (Luật 40, NĐ 254, TT 134, QĐ 455, NQ 44, khác 44).
+- Có trạng thái do người duy trì ghi (`trang-thai.csv`): **210**.
 - Dựng lại: `python3 scripts/build_registry.py`; kiểm dẫn chiếu văn bản đã bị thay thế: `--check`.
 
 ## Văn bản dùng ở nhiều plugin nhất (khi thay đổi phải rà tất cả plugin trong cột)
 
 | Mã | Số plugin | Plugins | Hiệu lực | Bị sửa đổi bởi | Bị thay thế bởi / dự thảo |
 |---|---|---|---|---|---|
+| QĐ 7750/QĐ-SCT | 18 | atvsld-sct-vn, bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 17/11/2026 |  |  |
 | NĐ 30/2020 | 16 | attp-sct-vn, bvmt-sct-vn, cong-ty-tay-bac-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-hc-vlncn-sct-vn | 05/3/2020 |  |  |
-| QĐ 6320/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 06/10/2026 |  |  |
+| QĐ 6320/QĐ-SCT | 16 | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 06/10/2026 |  | QĐ 7750/QĐ-SCT (17/11/2026) |
 | QĐ 3628/QĐ-UBND | 15 | attp-sct-vn, bvmt-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, xd-sct-vn, xp-hc-vlncn-sct-vn, xp-sct-vn |  |  |  |
 | Luật 42/2024 | 11 | atvsld-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, vbhc-vn, xp-hc-vlncn-sct-vn, xp-sct-vn | 01/01/2025 | Luật 118/2025 (01/7/2026) | Luật sửa đổi, bổ sung Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ và Luật PCCC và CNCH — Quốc hội thông qua 20/11/2026, chưa có số hiệu; hiệu lực 01/3/2027 theo đa số nguồn (một nguồn ghi 01/7/2027) |
 | NĐ 105/2025 | 11 | dacn-sct-vn, hc-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | 01/7/2025 | NĐ 347/2026 (15/9/2026) |  |
@@ -32,7 +33,6 @@
 | Luật 118/2025 | 7 | hl-vlncn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, sd-vlncn-sct-vn, xd-sct-vn, xp-sct-vn | 01/7/2026 |  |  |
 | NĐ 347/2026 | 7 | dacn-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn, xd-sct-vn, xp-sct-vn | 15/9/2026 | NĐ 392/2026 (Điều 50 sửa k2 Đ41; 15/11/2026) |  |
 | NĐ 139/2025 | 7 | attp-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, pccc-sct-vn, sd-vlncn-sct-vn |  |  |  |
-| NĐ 175/2024 | 7 | kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, tkm-sct-vn, xd-sct-vn, xp-sct-vn |  |  |  |
 
 ## Văn bản đã bị thay thế hoặc đang có dự thảo thay thế — theo dõi
 
@@ -51,6 +51,7 @@
 | TT 41/2023 | attp-sct-vn | TT 33/2026 (01/7/2026) |  | TT-BCT Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn; hết hiệu lực theo khoản 2 Điều 6 TT 33/2026/TT-BCT |
 | TT 36/2019 | attp-sct-vn, atvsld-sct-vn | TT 34/2026 (01/7/2026) |  | TT-BCT quản lý chất lượng sản phẩm, hàng hóa; hết hiệu lực theo khoản 2 Điều 18 TT 34/2026/TT-BCT ngày 30/6/2026 (hiệu lực 01/7/2026; cùng hết hiệu lực: TT 46/2015/TT-BCT, Điều 10 TT 38/2025/TT-BCT); đối chiếu bản gốc 22/11/2026 (vbhc-vn/van-ban-goc/chua-phan-loai). Mã TT 34/2026 trùng thông tư của bộ khác nên không lập dòng riêng |
 | TT 26/2016 | tkm-sct-vn | TT 31/2025 (01/7/2025) |  | Nội dung thiết kế cơ sở dự án khai thác khoáng sản, thiết kế mỏ; rà mạng 24/11/2026: TT 31/2025/TT-BCT ngày 16/5/2025, hiệu lực 01/7/2025 bãi bỏ TT 26/2016 — khớp tkm-sct-vn SKILL.md mục II (ghi theo bản gốc TT 31/2025 trong kho); TT 26/2016 chỉ áp cho hồ sơ 25/01/2017–30/6/2025 |
+| QĐ 6320/QĐ-SCT | bvmt-sct-vn, dacn-sct-vn, hc-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, kccn-sct-vn, kho-vlncn-sct-vn, pccc-sct-vn, qlks-sct-vn, quy-hoach-ct-vn, sct-laocai-org-vn, sd-vlncn-sct-vn, tkm-sct-vn, vbhc-vn, xd-sct-vn, xp-sct-vn | QĐ 7750/QĐ-SCT (17/11/2026) |  | Phân công nhiệm vụ GĐ, PGĐ (lịch sử, áp dụng 05/10–16/11/2026) — thay bằng QĐ 7750/QĐ-SCT ngày 17/11/2026; đối chiếu bản gốc 22/10/2026 |
 | QĐ 44/2021/QĐ-UBND | bvmt-sct-vn | QĐ 3556/QĐ-UBND (bãi bỏ từ 30/9/2026) |  | Quy chế dữ liệu TNMT tỉnh Lào Cai cũ — đã bãi bỏ |
 | QĐ 1131/QĐ-TTG | dacn-sct-vn | QĐ 21/2026/QĐ-TTg (01/7/2026) |  | Danh mục công nghệ chiến lược cũ (11 nhóm, 35 sản phẩm) — KHÔNG dẫn sau 01/7/2026 |
 | QĐ 154/QĐ-TTG | qlks-sct-vn, quy-hoach-ct-vn | QĐ 1626/QĐ-TTg (15/12/2023 — hết điều kiện kéo dài) |  | Kéo dài kỳ quy hoạch KS làm VLXD (QĐ 152/2008 + QĐ 45/2012) và KS làm xi măng (QĐ 105/2008 + QĐ 1065/2010) ĐẾN KHI QH VLXD 2021-2030 được phê duyệt → hết vai trò từ 15/12/2023. Việc hiện nay dẫn QĐ 1626; chỉ dùng giải trình hồ sơ 29/01/2022 → 15/12/2023. ref 10 mục V; qlks-sct-vn ref 24 mục IV |

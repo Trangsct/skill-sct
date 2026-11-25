@@ -1,6 +1,6 @@
 # Mẫu 11 — Công văn hướng dẫn một doanh nghiệp đưa kho hiện hữu vào sử dụng (khung từ 01/7/2026)
 
-> Soạn 23/11/2026, thay mẫu 03 (khung NĐ 06/2021, TT 10/2021) cho văn bản ban hành từ 01/7/2026. Dựng trên mẫu công văn kho VLNCN của Sở (build_vb.py, qa_all --final PASS, 3 trang). Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Nguyễn Đình Chiến; Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Tên).
+> Soạn 23/11/2026, thay mẫu 03 (khung NĐ 06/2021, TT 10/2021) cho văn bản ban hành từ 01/7/2026. Dựng trên mẫu công văn kho VLNCN của Sở (build_vb.py, qa_all --final PASS, 3 trang). Người ký: KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân (từ 17/11/2026, QĐ 7750/QĐ-SCT; đã kiểm chứng: 7908/SCT-CN ngày 23/11/2026 hướng dẫn thủ tục đưa kho VLNCN vào sử dụng do PGĐ Thuân ký); Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, CN(Tên).
 > Trích yếu: V/v hướng dẫn thủ tục đưa kho vật liệu nổ công nghiệp tại {mỏ, xã} vào sử dụng.
 > Dùng khi: kho đã xây, đã sử dụng (kể cả kho mới xây vài năm) mà hồ sơ quản lý chất lượng thi công không đầy đủ; doanh nghiệp có văn bản đề nghị hướng dẫn. Kho xây mới hoặc cải tạo làm thay đổi quy mô, công năng, kết cấu chịu lực chính: không dùng mẫu này (Luồng A, ref 11).
 > Căn cứ đã đối chiếu bản gốc: điểm b, điểm đ khoản 2 Điều 8, khoản 3 Điều 34, điểm c, điểm đ khoản 5 Điều 36 NĐ 207/2026; Điều 4 TT 32/2026/TT-BXD; mục 1.2.6.8 Phụ lục I TT 34/2026/TT-BXD.

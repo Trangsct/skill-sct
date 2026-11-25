@@ -7,9 +7,14 @@ kho riêng tư (plugin `van-ban-sct-vn`, MCP `tra_van_ban_den_di`).
 
 | Bước | Văn bản | Nội dung |
 |---|---|---|
-| Quyết định kiểm tra | **QĐ 7478/QĐ-SCT ngày 10/11/2026** của Giám đốc Sở | Kiểm tra việc chấp hành quy định của pháp luật về phòng ngừa, ứng phó sự cố hóa chất trên địa bàn tỉnh; lập Đoàn kiểm tra (Trưởng đoàn PGĐ Nguyễn Đình Chiến) |
-| Thông báo lịch kiểm tra | **TB 7601/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra (T/M. Đoàn — Trưởng đoàn Nguyễn Đình Chiến ký) | Gửi Công ty Cổ phần phốt pho Apatit Việt Nam: kiểm tra từ 09h00 ngày 17/11/2026 tại trụ sở và khu vực sản xuất, kinh doanh, sử dụng hóa chất; cơ sở **gửi báo cáo theo Đề cương (Phụ lục I) trước 15/11/2026**; Đoàn làm việc với người đại diện theo pháp luật hoặc người được ủy quyền (đã có toàn văn 24/11/2026 — mục 2a) |
+| Quyết định kiểm tra | **QĐ 7478/QĐ-SCT ngày 10/11/2026** của Giám đốc Sở | Kiểm tra việc chấp hành quy định của pháp luật về phòng ngừa, ứng phó sự cố hóa chất trên địa bàn tỉnh; lập Đoàn kiểm tra (Trưởng đoàn PGĐ Nguyễn Đình Chiến — người phụ trách hóa chất tại thời điểm ký, đến 16/11/2026) |
+| Thông báo lịch kiểm tra | **TB 7601/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra (T/M. Đoàn — Trưởng đoàn Nguyễn Đình Chiến ký, đúng người ký ngày 13/11/2026 — lịch sử) | Gửi Công ty Cổ phần phốt pho Apatit Việt Nam: kiểm tra từ 09h00 ngày 17/11/2026 tại trụ sở và khu vực sản xuất, kinh doanh, sử dụng hóa chất; cơ sở **gửi báo cáo theo Đề cương (Phụ lục I) trước 15/11/2026**; Đoàn làm việc với người đại diện theo pháp luật hoặc người được ủy quyền (đã có toàn văn 24/11/2026 — mục 2a) |
 | Điều chỉnh lịch | **TB 7620/TB-ĐKT ngày 13/11/2026** của Đoàn kiểm tra | Điều chỉnh thời gian kiểm tra Công ty Cổ phần phốt pho Apatit Việt Nam: **09h00 ngày 18/11/2026**, tại trụ sở và khu vực sản xuất, kinh doanh, sử dụng hóa chất; "các nội dung khác tiếp tục thực hiện theo Thông báo số 7601/TB-ĐKT" |
+
+**Người ký, Trưởng đoàn sau 17/11/2026:** ba văn bản trên ký trước ngày 17/11/2026. Từ 17/11/2026 lĩnh vực hóa chất do PGĐ Hoàng Văn Thuân
+phụ trách (QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026). Buổi kiểm tra 18/11/2026 diễn ra sau mốc này; plugin chưa ghi
+nhận văn bản nào điều chỉnh thành phần Đoàn theo QĐ 7478/QĐ-SCT → hỏi Bạn trước khi ghi tên Trưởng đoàn, người ký vào biên bản, báo cáo kết quả.
+Đoàn kiểm tra lập mới: Trưởng đoàn theo phân công hiện hành (ref 10, ref 14).
 
 Kết quả đợt kiểm tra (biên bản, báo cáo, kiến nghị) cập nhật vào sổ theo dõi ref 20 khi có; dự thảo biên bản, báo cáo nằm ở kho riêng tư
 (`du-thao/`), không đưa vào plugin.
@@ -54,7 +59,7 @@ Thông báo lịch kiểm tra gửi kèm Đề cương; hạn nộp báo cáo đ
 
 ## 3. Hội nghị tuyên truyền, phổ biến Luật Hóa chất và thẩm quyền chính quyền địa phương 2 cấp (20/11/2026)
 
-- **Kế hoạch 7360/KH-SCT ngày 06/11/2026** của Sở; mời bằng **CV 7602/SCT-CN ngày 13/11/2026** (KT. GĐ — PGĐ Nguyễn Đình Chiến; công văn
+- **Kế hoạch 7360/KH-SCT ngày 06/11/2026** của Sở; mời bằng **CV 7602/SCT-CN ngày 13/11/2026** (KT. GĐ — PGĐ Nguyễn Đình Chiến ký, lịch sử; công văn
   thay giấy mời) gửi các tổ chức, cá nhân hoạt động hóa chất trên địa bàn.
 - Thời gian: **08h00 ngày 20/11/2026 (thứ Sáu)**, 01 ngày; Hội trường Nhà khách Trường Sơn, số 129 đường Yên Ninh, phường Yên Bái. Mỗi
   đơn vị cử **02–10 đại biểu** (lãnh đạo, người phụ trách an toàn hóa chất, cán bộ kỹ thuật, thủ kho); danh sách gửi Phòng QLCN trước

@@ -21,5 +21,5 @@ tiếp theo.]
 Sở Công Thương thông báo cho [Tên đơn vị] được biết và thực hiện./.
 
 Nơi nhận: Như trên; Ban Giám đốc Sở; Lưu: VT, BP1C, CN(Khôi). (Bạn chốt 16/11/2026: chỉ Giấy phép, Giấy chứng nhận không gửi Ban Giám đốc Sở)
-Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến
+Ký: KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân
 ```

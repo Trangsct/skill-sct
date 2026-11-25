@@ -1,6 +1,6 @@
 # 14 - Thống kê tổ chức được cấp Giấy phép sử dụng VLNCN và dịch vụ nổ mìn trên địa bàn tỉnh (bản 02/11/2026)
 
-**Nguồn:** dự thảo Báo cáo của Sở Công Thương gửi UBND tỉnh *Thống kê các tổ chức được cấp Giấy phép sử dụng vật liệu nổ công nghiệp trên địa bàn tỉnh*, tệp Word Bạn gửi ngày 03/11/2026 (tên tệp ghi ngày 02/11/2026). Khối ký **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến**; Nơi nhận: Như trên, Ban Giám đốc Sở, Lưu: VT, CN.; kèm Phụ lục danh sách. Bản gốc là văn bản đi chưa phát hành nên không chép vào kho; reference này ghi lại số liệu đã đọc từ tệp.
+**Nguồn:** dự thảo Báo cáo của Sở Công Thương gửi UBND tỉnh *Thống kê các tổ chức được cấp Giấy phép sử dụng vật liệu nổ công nghiệp trên địa bàn tỉnh*, tệp Word Bạn gửi ngày 03/11/2026 (tên tệp ghi ngày 02/11/2026). Khối ký của bản dự thảo 02/11/2026: **KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến** (lịch sử — người ký VLNCN giai đoạn 05/10–16/11/2026; từ 17/11/2026 văn bản VLNCN do PGĐ Hoàng Văn Thuân ký theo QĐ 7750/QĐ-SCT, dùng lại dự thảo thì đổi khối ký); Nơi nhận: Như trên, Ban Giám đốc Sở, Lưu: VT, CN.; kèm Phụ lục danh sách. Bản gốc là văn bản đi chưa phát hành nên không chép vào kho; reference này ghi lại số liệu đã đọc từ tệp.
 
 > ⚠️ **GATE viện dẫn:** bản chưa có số, ngày ("Số: /BC-SCT", "ngày … tháng 11 năm 2026"). Khi đã phát hành, Bạn gửi bản ký để ghi số, ngày vào đây. Trước đó chỉ viết "theo số liệu Sở Công Thương tổng hợp tháng 11/2026".
 

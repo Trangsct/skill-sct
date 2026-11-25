@@ -102,7 +102,7 @@ Trục chính:
 
 - **Chuyên viên tham mưu BVMT, công nghiệp môi trường, KNK/các-bon ngành Công Thương**: **Lê Minh Long** (gọi CV M.Long; dòng Lưu ghi `Lưu: VT, CN(M.Long).` theo quy ước 16/11/2026) (lưu ý trùng tên với Trưởng phòng Nguyễn Hữu Long — luôn dùng `M.Long`).
 - **Phối hợp khoáng sản/đóng cửa mỏ**: Nguyễn Thị Thúy Nhung chủ trì khoáng sản, Lê Minh Long phối hợp môi trường.
-- **Lãnh đạo phụ trách**: QĐ 6320/QĐ-SCT ngày 06/10/2026 giao **PGĐ Hoàng Văn Thuân** "công nghiệp môi trường" (cùng khai thác, chế biến khoáng sản) → BVMT, công nghiệp môi trường, KNK trình **KT.GĐ — PGĐ Hoàng Văn Thuân** ký (BVMT, KNK xếp theo CN môi trường — xác nhận khi lãnh đạo phân khác). Lưu ý: Phòng QLCN nay do **PGĐ Nguyễn Đình Chiến** phụ trách; BVMT của cơ sở hóa chất, kho VLNCN, CCN thì hỏi Bạn nên trình Thuân hay Chiến.
+- **Lãnh đạo phụ trách**: QĐ 7750/QĐ-SCT ngày 17/11/2026 (thay QĐ 6320/QĐ-SCT ngày 06/10/2026) giao **PGĐ Hoàng Văn Thuân** "công nghiệp môi trường" (cùng hóa chất, luyện kim, vật liệu nổ công nghiệp, công nghiệp khai thác mỏ và chế biến khoáng sản, vệ sinh an toàn lao động) → BVMT, công nghiệp môi trường, KNK trình **KT.GĐ — PGĐ Hoàng Văn Thuân** ký (BVMT, KNK xếp theo CN môi trường — xác nhận khi lãnh đạo phân khác). Lưu ý: Phòng QLCN do **PGĐ Nguyễn Đình Chiến** phụ trách; từ 17/11/2026 hóa chất, VLNCN cũng do PGĐ Thuân phụ trách nên BVMT của cơ sở hóa chất, kho VLNCN trình PGĐ Thuân (05/10–16/11/2026 hóa chất, VLNCN do PGĐ Chiến — lịch sử); BVMT của CCN thì hỏi Bạn nên trình Thuân hay Chiến.
 - **Ký hiệu**: văn bản do Phòng QLCN thụ lý dùng **SCT-CN** (không đổi sang SCT-QLTM/QLNL).
 - Văn bản quan trọng cấp tỉnh (tờ trình UBND tỉnh, báo cáo lớn): GĐ **Hoàng Chí Hiền** ký.
 

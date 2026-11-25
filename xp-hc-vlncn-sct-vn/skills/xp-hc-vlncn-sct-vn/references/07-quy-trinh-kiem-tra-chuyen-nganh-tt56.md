@@ -10,7 +10,7 @@ Văn bản gốc: `van-ban-goc/TT-56-2025-TT-BCT-quy-trinh-kiem-tra-chuyen-nganh
 - **Bãi bỏ:** TT 15/2024/TT-BCT (thanh tra chuyên ngành Công Thương); một phần TT 42/2022/TT-BCT (kiểm tra điện lực) — khoản 2, 3 Điều 12.
 - **Không điều chỉnh** (khoản 2 Điều 1): kiểm tra của QLTT theo Pháp lệnh QLTT; kiểm tra thi hành pháp luật về XLVPHC; kiểm tra xuất xứ hàng hóa; kiểm tra phục vụ giải quyết TTHC (thẩm định cấp phép KHÔNG phải kiểm tra chuyên ngành).
 - **Nguyên tắc ưu tiên** (khoản 4 Điều 12): TT 56 mâu thuẫn với thông tư khác của Bộ CT về cùng vấn đề → áp dụng TT 56. Nhưng TT 56 vẫn dưới NĐ 217/2025.
-- **Thẩm quyền ở địa phương** (khoản 3 Điều 3 dẫn khoản 2 Điều 6 NĐ 217): người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh = **Giám đốc Sở Công Thương**. PGĐ ký KT. phải có văn bản phân công BGĐ còn hiệu lực — nên viện dẫn ngay trong phần căn cứ của QĐ kiểm tra.
+- **Thẩm quyền ở địa phương** (khoản 3 Điều 3 dẫn khoản 2 Điều 6 NĐ 217): người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh = **Giám đốc Sở Công Thương**. PGĐ ký KT. phải có văn bản phân công BGĐ còn hiệu lực (từ 17/11/2026: QĐ 7750/QĐ-SCT ngày 17/11/2026 — hóa chất, VLNCN do PGĐ Hoàng Văn Thuân phụ trách) — nên viện dẫn ngay trong phần căn cứ của QĐ kiểm tra.
 
 ## B. Quy trình chuẩn (Chương II, Điều 5–11)
 

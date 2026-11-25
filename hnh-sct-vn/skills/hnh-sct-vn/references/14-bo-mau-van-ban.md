@@ -2,7 +2,7 @@
 
 Tập hợp khung các văn bản hành chính hay dùng nhất trong lĩnh vực HHNH, để soạn nhanh. **Định dạng .docx, thể thức, căn lề, font theo skill `vbhc-vn`** (NĐ 30/2020); chống sai số/ngày theo nguyên tắc bất biến. Mỗi khung dưới đây chỉ là bố cục nội dung - khi tạo file phải dựng đúng thể thức của `vbhc-vn`.
 
-Quy ước chung: ký hiệu **SCT-CN**; nơi nhận + **Lưu: VT, CN**; người ký theo phân công: từ 05/10/2026 (QĐ 6320/QĐ-SCT) hóa chất, VLNCN và Phòng QLCN do **PGĐ Nguyễn Đình Chiến** phụ trách, HHNH dự kiến cũng PGĐ Chiến ký (Bạn chốt 06/10/2026; trước đó PGĐ Hoàng Văn Thuân) - **xác định đúng người ký trước khi hoàn thiện**, xem skill `sct-laocai-org-vn`.
+Quy ước chung: ký hiệu **SCT-CN**; nơi nhận + **Lưu: VT, CN**; người ký theo phân công: từ 17/11/2026 (QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026) hóa chất, VLNCN do **PGĐ Hoàng Văn Thuân** phụ trách (05/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử); Phòng QLCN vẫn do **PGĐ Nguyễn Đình Chiến** phụ trách, HHNH dự kiến PGĐ Chiến ký (Bạn chốt 06/10/2026; QĐ 7750 không ghi đích danh HHNH — chờ Bạn xác nhận lại; đến 04/10/2026 PGĐ Hoàng Văn Thuân ký) - **xác định đúng người ký trước khi hoàn thiện**, xem skill `sct-laocai-org-vn`.
 
 ---
 
@@ -119,4 +119,4 @@ Theo reference 13 (định kỳ/đột xuất/chuyên đề), kèm bộ chỉ ti
 | Hướng dẫn DN rút hồ sơ | Mẫu văn bản DN đề nghị rút hồ sơ (RAINBOW) - gửi DN tham khảo khi họ muốn rút để hoàn thiện | vi-du-thuc-te/rut-tra-ho-so/Mau-DN-rut-ho-so.docx |
 | GP mẫu của Cục (loại 5, 8) | GP Cục Hóa chất (danh mục hàng loại 8 theo Phụ lục) - tham chiếu nội dung cho loại 5, 8. Từ 14/8/2026 dùng thể thức GP của Sở như loại 1,2,3,4,9 (ủy quyền QĐ 2848 - ref 09 mục 3b), lãnh đạo Sở ký | vi-du-thuc-te/cuc-hoa-chat/Giay-phep-mau-CucHoaChat-loai-8.docx |
 
-Nguyên tắc dùng: mở file gốc, sửa theo Chế độ B của vbhc-vn (giữ nguyên định dạng, chỉ thay dữ liệu); thể thức đầu/cuối văn bản của Sở theo reference 16 mục 2 (số /GP - SCT, KT.GĐ - PGĐ Nguyễn Đình Chiến từ 05/10/2026 — bản gốc do PGĐ Thuân ký, đổi khối ký khi dựng, nơi nhận có Cục CSGT, Lưu: VT, BP1C, CN).
+Nguyên tắc dùng: mở file gốc, sửa theo Chế độ B của vbhc-vn (giữ nguyên định dạng, chỉ thay dữ liệu); thể thức đầu/cuối văn bản của Sở theo reference 16 mục 2 (số /GP - SCT, KT.GĐ - PGĐ Nguyễn Đình Chiến từ 05/10/2026 (dự kiến; QĐ 7750/QĐ-SCT không ghi đích danh HHNH — chờ Bạn xác nhận lại) — bản gốc do PGĐ Thuân ký, đổi khối ký khi dựng, nơi nhận có Cục CSGT, Lưu: VT, BP1C, CN).

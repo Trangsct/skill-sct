@@ -29,4 +29,4 @@ Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ Nguyễn Đình Chiến (lĩnh vự
 - Khu vực dự án [không có / có] cơ sở khai thác, chế biến khoáng sản đang hoạt động do Sở Công Thương theo dõi; [nếu gần mỏ nổ mìn: đề nghị chủ đầu tư phối hợp đánh giá khoảng cách an toàn về chấn động, đá văng theo QCVN 01:2019/BCT đối với hoạt động nổ mìn của mỏ ... trước khi bố trí công trình].
 - Nội dung chồng lấn với quy hoạch khoáng sản khác, khu vực dự trữ khoáng sản quốc gia và các khu vực đã cấp phép hoạt động khoáng sản, đề nghị cơ quan chủ trì tổng hợp ý kiến của Sở Nông nghiệp và Môi trường theo thẩm quyền."
 
-Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ theo trục việc (Thuân: khoáng sản; Chiến: CCN).
+Lưu: VT, CN. Ký: KT. GIÁM ĐỐC — PGĐ theo trục việc, từ 17/11/2026 theo QĐ 7750/QĐ-SCT (Thuân: cơ sở khai thác mỏ, chế biến khoáng sản, nổ mìn; Chung: địa chất, quy hoạch và khu vực khoáng sản; Chiến: CCN; ý kiến gồm cả hai phần khoáng sản thì hỏi Bạn).

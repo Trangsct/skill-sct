@@ -122,6 +122,7 @@ Bốn vụ đã thẩm định làm chuẩn đối chiếu: cát sỏi Ngòi Thi
 - `ds-gp-khai-thac-31-10-2025.csv`: 208 giấy phép khai thác toàn tỉnh (137 vùng Yên Bái cũ + 71 vùng Lào Cai cũ; 137 tỉnh cấp + 70 Bộ cấp; nhiều nhất: đá VLXDTT 50, cát sỏi 37, đá vôi trắng 35, quặng sắt 29, apatit 12).
 - `ds-gp-tham-do-yen-bai-6-2025.csv`: 43 GP thăm dò vùng Yên Bái cũ (toàn bộ đã hết hạn tại thời điểm thống kê).
 - `theo-doi-phap-ly-mo-khai-thac-4-2026.csv`: bảng theo dõi 209 mỏ với các cột hồ sơ pháp lý (nộp thiết kế mỏ, TB GĐĐH mỏ, bàn giao mốc, trạm cân, camera, ký quỹ, thuê đất, GP VLNCN) — cập nhật đến 28/4/2026, dấu "a" = đã có.
+- **Ranh giới 123 khu vực quy hoạch khoáng sản nhóm I** (số hóa 09 sơ đồ: chì kẽm, sắt, đồng - molipden, vàng, đất hiếm, apatit; file KMZ Bạn gửi 25/11/2026): `00_TongHop_RanhGioi_QuyHoach_LaoCai.kmz` (file gốc, Google Earth), `toa-do-ranh-gioi-quy-hoach-khoang-san-nhom-I-lao-cai.csv` (1.129 điểm, VN-2000 KTT 105° múi 6° + WGS84), bảng Word; tra điểm nằm trong khu vực nào: `scripts/tra_toa_do_quy_hoach.py --diem X Y` — **reference `29`** (bản đầy đủ `quy-hoach-ct-vn` reference 15). Chỉ để tham khảo, rà chồng lấn; tọa độ pháp lý theo Phụ lục VI văn bản đã ký; hồ sơ cấp phép của tỉnh dùng KTT 104°45' múi 3° — chuyển hệ trước khi so.
 
 ## VII. NGƯỜI KÝ, NGƯỜI SOẠN, KÝ HIỆU (khớp `sct-laocai-org-vn`)
 
@@ -216,6 +217,8 @@ references/   01 khung pháp lý + GATE · 02 phân vai · 03 phân nhóm + th�
                  thác khu vực không đấu giá (k3 Đ59a NĐ 193 — TB 7849/TB-SCT); bỏ mẫu công nghệ k5 Đ18 TT 59
                  (7853/SCT-KS); lấy ý kiến Cục Hàng hải cát sỏi sông Hồng; khoáng sản trong thẩm định chủ
                  trương đầu tư (NĐ 96/2026); góp ý 03 TT kỹ thuật thăm dò hạn 30/11; Sảng Pả hạn 30/11
+              29 RANH GIỚI 123 khu vực quy hoạch khoáng sản nhóm I (KMZ 25/11/2026, 09 sơ đồ):
+                 tệp, cách dùng (rà chồng lấn dự án, CCN, khu đấu giá), 10 khu vực lệch Phụ lục VI
 mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản kiểm tra + BB làm việc chốt kết quả
               03 BC kết quả kiểm tra + tham mưu đình chỉ
               04 tham mưu phê duyệt KH rủi ro hầm lò + GCN KTAT
@@ -229,7 +232,8 @@ mau-van-ban/  01 CV hướng dẫn - đôn đốc DN · 02 KH + biên bản ki�
                  (khung biểu mẫu + khung nội dung I.1/I.2/I.3 + câu chữ mẫu đã dùng)
 checklists/   kiểm tra mỏ · hồ sơ pháp lý mỏ · hồ sơ thu hồi khoáng sản
 vi-du-thuc-te/ 10 văn bản thật về thu hồi KS — xem 00-MUC-LUC.md
-du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý
+du-lieu/      3 file CSV ảnh chụp dữ liệu giấy phép, theo dõi pháp lý; KMZ gốc + CSV + bảng Word
+              ranh giới 123 khu vực quy hoạch khoáng sản nhóm I (ref 29)
 van-ban-goc/  27 văn bản nguồn đã đối chiếu (gồm CV 5141, CV 6795 của SNNMT,
               BB 13A/BB-ĐTT72 của Thanh tra tỉnh và bộ 4 văn bản vụ Đại Đồng Tiến:
               CV 28/CV-ĐĐT, CV 8129/UBND-KT, BB thực địa 21/8/2026, BC 904/BC-SNNMT

@@ -1,5 +1,9 @@
 # CHANGELOG — quy-hoach-ct-vn
 
+## 1.10.0 — 25/11/2026 — Ranh giới số hóa 09 sơ đồ quy hoạch khoáng sản nhóm I Lào Cai (ref 15)
+
+- KMZ gốc, CSV 1.129 điểm, bảng Word trong `du-lieu/`; ref 15; script `tra_toa_do_quy_hoach.py`. Chi tiết: `CHANGELOG-v2026.11.25.md`.
+
 ## 1.9.0 — 24/11/2026 — Góp ý dự thảo NQ điện mặt trời hộ gia đình, kiểm tra dự án thủy điện, QH chung đô thị Nghĩa Lộ (ref 14)
 
 - Ref 14 mới: tổng hợp ý kiến góp ý dự thảo Nghị quyết hỗ trợ hộ gia đình lắp điện mặt trời mái nhà 2027–2030 (Sở Tài chính, PC Lào Cai, các xã); kiểm tra dự án thủy điện đang vận hành của Sở Tài chính (NĐ 19/2026/NĐ-CP); giấy phép hoạt động điện lực Minh Lương; QĐ 7643/QĐ-SCT; QĐ 4355/QĐ-UBND quy hoạch chung đô thị liên phường Nghĩa Lộ. Chi tiết: `CHANGELOG-v2026.11.24.md`.

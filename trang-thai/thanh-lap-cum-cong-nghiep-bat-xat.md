@@ -24,7 +24,7 @@ Plugin liên quan: kccn-sct-vn
 
 ## Bước tiếp theo
 
-- Bạn rà phương án 2 trên Google Earth; soát nhà trên ảnh vệ tinh phần mở rộng phía tây nam; đề nghị chủ đầu tư, UBND xã Bát Xát chỉnh tọa độ ranh giới trong hồ sơ
+- Bạn hỏi địa chính xã Bát Xát số hộ, công trình trong ranh giới phương án 2; nếu cần, kéo cạnh phía nam vào khoảng 100 m để loại 3 cụm nhà sát cạnh nam, bù diện tích về phía tây
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -33,6 +33,7 @@ Plugin liên quan: kccn-sct-vn
 - (24/11/2026) (24/11/2026) Lao động: 4806 ghi khoảng 1.900, 4176 ghi khoảng 6.800; Phụ lục 6537/BCH-TM ghi nhầm 'KCN Bát Xát'
 - (24/11/2026) (24/11/2026) Cụm nằm trong Khu kinh tế cửa khẩu — xác định vai trò Ban Quản lý Khu kinh tế trong dự thảo QĐ
 - (25/11/2026) Ranh giới 54,09 ha theo Báo cáo 429/BC-UBND chồng 8,69 ha Khai trường 26; còn 8 nhà (theo OpenStreetMap) trong phạm vi cũ
+- (25/11/2026) Hồ nước góc đông nam (gần điểm 16, 17) có để trong ranh giới không
 
 ## Quyết định của Bạn
 
@@ -48,6 +49,7 @@ Plugin liên quan: kccn-sct-vn
 - Việc đã làm: tạo tệp trạng thái từ mẫu; Lượt nâng cấp 24/11/2026: tạo tệp; đọc 437/TTr-UBND, 693, 705/TB-UBND, 7748/SCT-CN, 4806/UBND-KTHT, 4176/SKHCN-QLCN, 6537/BCH-TM
 
 ### 25/11/2026
-- Việc đã làm: Vẽ lại ranh giới Cụm công nghiệp Bát Xát theo yêu cầu của Bạn: không trùng quy hoạch khoáng sản, đủ 57 ha theo QĐ 525, tiếp giáp Đường tỉnh 156; phát hiện ranh giới 54,09 ha theo Báo cáo 429/BC-UBND chồng 8,69 ha lên Khai trường 26 (quặng apatit, Phụ lục VI.16 dự thảo điều chỉnh QĐ 866) - Báo cáo đầu tư của Công ty cổ phần Đầu tư và Phát triển Tân Kim Thành ghi không chồng lấn là chưa đúng
-- Văn bản đã xuất: 2026.11.25. Sơ đồ Cụm công nghiệp Bát Xát (phương án 2, 57 ha).pdf; 2026.11.25. Vị trí Cụm công nghiệp Bát Xát (phương án 2, 57 ha).kmz (bản 2)
+- Việc đã làm: Vẽ lại ranh giới Cụm công nghiệp Bát Xát theo yêu cầu của Bạn: không trùng quy hoạch khoáng sản, đủ 57 ha theo QĐ 525, tiếp giáp Đường tỉnh 156; phát hiện ranh giới 54,09 ha theo Báo cáo 429/BC-UBND chồng 8,69 ha lên Khai trường 26 (quặng apatit, Phụ lục VI.16 dự thảo điều chỉnh QĐ 866) - Báo cáo đầu tư của Công ty cổ phần Đầu tư và Phát triển Tân Kim Thành ghi không chồng lấn là chưa đúng; Xuất sơ đồ phương án 2 trên nền bản đồ và ảnh vệ tinh Google; soát 8 công trình (theo OpenStreetMap) trong ranh giới trên ảnh vệ tinh: khoảng 4 đến 5 chỗ ở, đều nằm trong phạm vi cũ theo Báo cáo 429/BC-UBND
+- Văn bản đã xuất: 2026.11.25. Sơ đồ Cụm công nghiệp Bát Xát (phương án 2, 57 ha).pdf; 2026.11.25. Vị trí Cụm công nghiệp Bát Xát (phương án 2, 57 ha).kmz (bản 2); 2026.11.25. Sơ đồ Cụm công nghiệp Bát Xát (phương án 2, 57 ha, nền Google).pdf (bản 3)
 - Quyết định của Bạn: Giữ nguyên phạm vi cũ, bỏ phần chồng Khai trường 26, mở rộng tiếp giáp Đường tỉnh 156 ở hai đầu, không chồng khu tái định cư, hạn chế khoanh vào nhà dân (Bạn vẽ tay 25/11/2026)
+- Câu hỏi chưa được trả lời: Hồ nước góc đông nam (gần điểm 16, 17) có để trong ranh giới không

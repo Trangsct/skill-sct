@@ -263,13 +263,14 @@ RULES = [
         # QĐ 7750/QĐ-SCT ngày 17/11/2026 (phân công BGĐ, thay QĐ 6320/QĐ-SCT ngày 06/10/2026; Bạn gửi bản gốc 25/11/2026):
         # hóa chất, vật liệu nổ công nghiệp, xây dựng chuyên ngành Công Thương về PGĐ Hoàng Văn Thuân; PGĐ Nguyễn Đình Chiến
         # vẫn phụ trách Phòng QLCN (CCN, ATTP, khuyến công, PCTT). Dòng nói PGĐ Chiến ký hóa chất, VLNCN phải là câu lịch sử
-        # (05/10–16/11/2026) — có chữ "lịch sử" hoặc mốc "16/11/2026". HHNH, PCCC: QĐ 7750 không ghi đích danh, giữ "dự kiến" PGĐ Chiến.
+        # (05/10–16/11/2026) — có chữ "lịch sử" hoặc mốc "16/11/2026". HHNH, PCCC: QĐ 7750 không ghi đích danh; Bạn chốt 25/11/2026 chuyển
+        # sang PGĐ Thuân (giấy phép HHNH 07/10–16/11/2026 do PGĐ Chiến ký là lịch sử) — rule áp thêm cho hnh-sct-vn, pccc-sct-vn.
         # (Rule trước đó `pgd-chien-ky-hoa-chat-vlncn-hhnh`, mốc 05/10/2026 theo QĐ 6320, đã bỏ ngày 25/11/2026.)
-        "pattern": r"^(?!.*(?:16/11/2026|lịch sử|trước đó|dự kiến|HHNH|hàng hóa nguy hiểm|PCCC|Phòng QLCN|Phòng Quản lý công nghiệp|vắng)).*(KT\.? ?(GĐ|GIÁM ĐỐC)[^\n]{0,40}Chiến|PGĐ (Nguyễn Đình )?Chiến\**[^\n]{0,20}(ký|phụ trách|chủ trì)|Kính gửi[^\n]{0,40}Nguyễn Đình Chiến|Trưởng đoàn[^\n]{0,20}Nguyễn Đình Chiến|Chiến — Phó Giám đốc)",
-        "why": "Từ 17/11/2026 (QĐ 7750/QĐ-SCT, thay QĐ 6320/QĐ-SCT) hóa chất, VLNCN (GP sử dụng /GP-SCT, kho, huấn luyện), tiền chất, thẩm định - nghiệm thu công trình công nghiệp do PGĐ Hoàng Văn Thuân phụ trách và ký KT.GĐ; giai đoạn 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến ký phải ghi rõ 'lịch sử' (sct-laocai-org-vn ref 07).",
+        "pattern": r"^(?!.*(?:16/11/2026|24/11/2026|lịch sử|trước đó|Phòng QLCN|Phòng Quản lý công nghiệp|vắng)).*(KT\.? ?(GĐ|GIÁM ĐỐC)[^\n]{0,40}Chiến|PGĐ (Nguyễn Đình )?Chiến\**[^\n]{0,20}(ký|phụ trách|chủ trì)|Kính gửi[^\n]{0,40}Nguyễn Đình Chiến|Trưởng đoàn[^\n]{0,20}Nguyễn Đình Chiến|Chiến — Phó Giám đốc)",
+        "why": "Từ 17/11/2026 (QĐ 7750/QĐ-SCT, thay QĐ 6320/QĐ-SCT) hóa chất, VLNCN (GP sử dụng /GP-SCT, kho, huấn luyện), tiền chất, thẩm định - nghiệm thu công trình công nghiệp do PGĐ Hoàng Văn Thuân phụ trách và ký KT.GĐ; vận chuyển HHNH, PCCC cũng PGĐ Thuân (Bạn chốt 25/11/2026); giai đoạn 05/10–16/11/2026 PGĐ Nguyễn Đình Chiến ký phải ghi rõ 'lịch sử' (sct-laocai-org-vn ref 07).",
         "since": "2026-11-17",
         "level": "FAIL",
-        "only": ["hc-sct-vn", "sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn"],
+        "only": ["hc-sct-vn", "sd-vlncn-sct-vn", "kho-vlncn-sct-vn", "hl-vlncn-sct-vn", "hnh-sct-vn", "pccc-sct-vn"],
         "skip_rel": ["references/07-vi-du-thuc-te.md"],  # nhật ký văn bản đã ký — lịch sử
     },
     {

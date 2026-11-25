@@ -57,8 +57,8 @@ VBQPPL đầu tiên của UBND tỉnh Lào Cai sau hợp nhất. Điều 7 kho�
 | Lĩnh vực | Lãnh đạo phụ trách |
 |---|---|
 | Chỉ đạo chung công tác PCCC của Sở | Giám đốc Hoàng Chí Hiền (TUV) |
-| Phòng QLCN (đầu mối PCCC ngành Công Thương), CCN | Phó Giám đốc Nguyễn Đình Chiến — phụ trách Phòng QLCN, quản lý cụm công nghiệp; dự kiến Chiến ký lĩnh vực PCCC (Bạn chốt 06/10/2026). QĐ 7750 không ghi đích danh PCCC — chờ Bạn xác nhận lại |
-| Hóa chất, VLNCN, kho VLNCN; thẩm định, KTCTNT công trình công nghiệp (xây dựng chuyên ngành Công Thương, trừ dự án năng lượng); công trình khai thác, chế biến khoáng sản (mỏ) | Phó Giám đốc Hoàng Văn Thuân (từ 17/11/2026, QĐ 7750 ghi đích danh; 05/10–16/11/2026 hóa chất, VLNCN, công trình công nghiệp không thuộc mỏ do PGĐ Nguyễn Đình Chiến phụ trách — lịch sử) |
+| Cụm công nghiệp; phụ trách Phòng QLCN | Phó Giám đốc Nguyễn Đình Chiến (văn bản PCCC giai đoạn 05/10–24/11/2026 ghi dự kiến PGĐ Chiến ký — lịch sử) |
+| **PCCC ngành Công Thương** (Phòng QLCN đầu mối); hóa chất, VLNCN, kho VLNCN; thẩm định, KTCTNT công trình công nghiệp (xây dựng chuyên ngành Công Thương, trừ dự án năng lượng); công trình khai thác, chế biến khoáng sản (mỏ) | Phó Giám đốc Hoàng Văn Thuân (PCCC: Bạn chốt 25/11/2026, QĐ 7750 không ghi đích danh PCCC; các lĩnh vực còn lại: từ 17/11/2026, QĐ 7750 ghi đích danh; 05/10–16/11/2026 hóa chất, VLNCN, công trình công nghiệp không thuộc mỏ do PGĐ Nguyễn Đình Chiến phụ trách — lịch sử) |
 | Điện, năng lượng (trạm biến áp, thủy điện, đường dây) | Phó Giám đốc Nguyễn Trường Giang |
 | Chợ, TTTM, siêu thị (thương mại) | Phó Giám đốc Trịnh Văn Thành |
 

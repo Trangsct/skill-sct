@@ -1,3 +1,16 @@
+## 25/11/2026 (lần 2) — Bạn chốt: vận chuyển hàng hóa nguy hiểm, PCCC chuyển sang PGĐ Hoàng Văn Thuân (6 plugin)
+
+QĐ 7750/QĐ-SCT không ghi đích danh hai lĩnh vực này; Bạn chốt 25/11/2026 chuyển sang PGĐ Thuân cùng hóa chất, vật liệu nổ công nghiệp. Khu công nghiệp,
+an toàn ngành khác, chất lượng sản phẩm hàng hóa vẫn giữ "dự kiến PGĐ Chiến".
+
+- **sct-laocai-org-vn 2.17.0**: SKILL.md (lưu ý cốt lõi, bảng routing, khối người ký, hướng dẫn mục 5, sai lầm thường gặp, bảng liên kết plugin), reference 07 mục E, F, `data/phan-cong-ky.json` (HHNH, PCCC → Hoàng Văn Thuân): vận chuyển hàng hóa nguy hiểm và PCCC ngành Công Thương do **PGĐ Hoàng Văn Thuân** ký — Bạn chốt 25/11/2026 (QĐ 7750/QĐ-SCT không ghi đích danh hai lĩnh vực này). Giấy phép vận chuyển 07/10–16/11/2026 do PGĐ Nguyễn Đình Chiến ký là lịch sử.
+- **hnh-sct-vn 1.20.0**: Người ký Giấy phép, công văn hoàn thiện hồ sơ HHNH: **KT. GIÁM ĐỐC - PHÓ GIÁM ĐỐC Hoàng Văn Thuân** — Bạn chốt 25/11/2026 (cùng hóa chất, VLNCN theo QĐ 7750/QĐ-SCT). Giấy phép 07/10–16/11/2026 (6369/GP-SCT … 7680/GP-SCT) do PGĐ Nguyễn Đình Chiến ký — lịch sử. Sửa SKILL.md, reference 14, 16.
+- **pccc-sct-vn 1.6.0**: Reference 01 mục 3.1, mẫu 01: PCCC ngành Công Thương do **PGĐ Hoàng Văn Thuân** ký — Bạn chốt 25/11/2026; giai đoạn 05/10–24/11/2026 ghi dự kiến PGĐ Nguyễn Đình Chiến là lịch sử.
+- **vbhc-vn 2.43.5**: SKILL.md điều cấm 5, `reference/quy-tac-bat-bien.md` quy tắc 6, `reference/cong-thuc-thuc-chien.md`: vận chuyển HHNH, PCCC do PGĐ Hoàng Văn Thuân ký (Bạn chốt 25/11/2026).
+- **hc-sct-vn 1.14.1**: SKILL.md: Giấy phép vận chuyển HHNH, PCCC → PGĐ Hoàng Văn Thuân (Bạn chốt 25/11/2026).
+- **sd-vlncn-sct-vn 2026.11.25.2**: Mẫu 01: ghi chú về QĐ 1696 / QĐ 2848 (HHNH) — nay PGĐ Hoàng Văn Thuân ký (Bạn chốt 25/11/2026); 07/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử.
+- **Máy kiểm** `scripts/check_facts.py`: rule `pgd-thuan-ky-hoa-chat-vlncn-tu-17-11` áp thêm cho hnh-sct-vn, pccc-sct-vn.
+
 ## 25/11/2026 — 18 plugin: Quyết định 7750/QĐ-SCT ngày 17/11/2026 phân công Ban Giám đốc Sở (thay QĐ 6320/QĐ-SCT)
 
 Bạn gửi bản PDF ký số ngày 25/11/2026. Thay đổi làm đổi người ký từ 17/11/2026: **hóa chất, vật liệu nổ công nghiệp** và **xây dựng chuyên ngành Công Thương**

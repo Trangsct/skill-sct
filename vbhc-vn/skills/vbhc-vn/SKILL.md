@@ -138,9 +138,9 @@ văn bản mới hoặc khi QA báo lỗi chưa rõ quy tắc gốc. Dưới đ�
 3. **Không chèn ngắt dòng cứng** `\n`/`<w:br/>` trong một paragraph — tách thành paragraph riêng.
 4. **Không giao PDF** cho người dùng; sản phẩm cuối chỉ là .docx.
 5. **Người ký theo lĩnh vực** (từ 17/11/2026 — QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026):
-   **hóa chất, VLNCN**, thẩm định thiết kế - kiểm tra nghiệm thu công trình công nghiệp (trừ dự án năng lượng), khai thác,
+   **hóa chất, VLNCN, vận chuyển HHNH, PCCC** (HHNH, PCCC: Bạn chốt 25/11/2026), thẩm định thiết kế - kiểm tra nghiệm thu công trình công nghiệp (trừ dự án năng lượng), khai thác,
    chế biến khoáng sản, thiết kế mỏ, luyện kim, CN môi trường, ATVSLĐ → **PGĐ Hoàng Văn Thuân** (hóa chất, VLNCN giai đoạn
-   05/10–16/11/2026 do PGĐ Chiến ký — lịch sử); CCN, ATTP, khuyến công, cơ khí, PCTT (dự kiến cả HHNH, PCCC, KCN — QĐ 7750
+   05/10–16/11/2026 do PGĐ Chiến ký — lịch sử); CCN, ATTP, khuyến công, cơ khí, PCTT (dự kiến cả KCN — QĐ 7750
    không ghi đích danh, chờ Bạn xác nhận lại) → PGĐ Nguyễn Đình Chiến; địa chất, cấp phép, đấu giá khoáng sản → PGĐ Phạm
    Năng Chung; năng lượng → PGĐ Nguyễn Trường Giang; thương mại → PGĐ Trịnh Văn Thành / Nguyễn Huy Tưởng; TTr UBND
    tỉnh và KH/QĐ/BC quan trọng → Giám đốc Hoàng Chí Hiền; công văn nội bộ Phòng → Trưởng phòng.

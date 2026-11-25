@@ -1,3 +1,8 @@
+# sd-vlncn-sct-vn 2026.11.25.2 — 25/11/2026 — ghi chú người ký HHNH trong mẫu 01
+
+- Mẫu 01: ghi chú về QĐ 1696 / QĐ 2848 (HHNH) — nay PGĐ Hoàng Văn Thuân ký (Bạn chốt 25/11/2026); 07/10–16/11/2026 PGĐ Nguyễn Đình Chiến — lịch sử.
+- `plugin.json` 2026.11.25.1 → 2026.11.25.2.
+
 # sd-vlncn-sct-vn 2026.11.25.1 — 25/11/2026 — người ký VLNCN về PGĐ Hoàng Văn Thuân (QĐ 7750/QĐ-SCT)
 
 - Từ 17/11/2026 Phiếu trình, Giấy phép `/GP-SCT`, công văn, báo cáo, kế hoạch kiểm tra VLNCN ký **KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC Hoàng Văn Thuân** (QĐ 7750/QĐ-SCT, thay QĐ 6320/QĐ-SCT). Viết lại đủ ba giai đoạn: đến 04/10/2026 PGĐ Thuân; 05/10–16/11/2026 PGĐ Chiến (lịch sử); từ 17/11/2026 PGĐ Thuân. Thuân vắng → PGĐ Phạm Năng Chung. Kiểm chứng: 7937/GP-SCT ngày 23/11/2026 do PGĐ Thuân ký; 7827/SCT-CN ngày 19/11/2026 còn do PGĐ Chiến ký.

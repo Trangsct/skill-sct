@@ -77,7 +77,8 @@ Mọi Phó Giám đốc: thành viên các ban chỉ đạo, hội đồng do t�
 | Thẩm định thiết kế, kiểm tra công tác nghiệm thu công trình công nghiệp (trừ dự án năng lượng) | Dũng / Khôi | **PGĐ Hoàng Văn Thuân** |
 | Luyện kim; bảo vệ môi trường, công nghiệp môi trường; ATVSLĐ, kiểm định kỹ thuật an toàn | V.Cường; M.Long; Linh | PGĐ Hoàng Văn Thuân (không đổi) |
 | Cụm công nghiệp; an toàn thực phẩm; khuyến công, cơ khí, công nghiệp hỗ trợ; sản xuất và tiêu dùng bền vững; phòng chống thiên tai | Trung; Nam; V.Cường; Dương; Dũng | PGĐ Nguyễn Đình Chiến (không đổi) |
-| Vận chuyển hàng hóa nguy hiểm; PCCC ngành Công Thương; an toàn ngành khác; khu công nghiệp; chất lượng sản phẩm hàng hóa; KHCN - đổi mới sáng tạo lĩnh vực công nghiệp | Linh; Trung; Dương; Khôi | **QĐ 7750 không ghi đích danh** — giữ "dự kiến PGĐ Chiến" (phụ trách Phòng; Bạn chốt 06/10/2026), **chờ Bạn xác nhận lại** |
+| Vận chuyển hàng hóa nguy hiểm; PCCC ngành Công Thương | Linh | **PGĐ Hoàng Văn Thuân — Bạn chốt 25/11/2026** (QĐ 7750 không ghi đích danh; giấy phép vận chuyển 07/10–16/11/2026 do PGĐ Chiến ký — lịch sử) |
+| An toàn ngành khác; khu công nghiệp; chất lượng sản phẩm hàng hóa; KHCN - đổi mới sáng tạo lĩnh vực công nghiệp | Linh; Trung; Dương; Khôi | **QĐ 7750 không ghi đích danh** — giữ "dự kiến PGĐ Chiến" (phụ trách Phòng; Bạn chốt 06/10/2026), **chờ Bạn xác nhận lại** |
 | Tờ trình, kế hoạch, quy hoạch, chủ trương đầu tư | theo lĩnh vực | Giám đốc Hoàng Chí Hiền (không đổi) |
 
 Khi vắng: việc của PGĐ Thuân → PGĐ Phạm Năng Chung; việc của PGĐ Chiến → PGĐ Nguyễn Trường Giang.
@@ -87,6 +88,6 @@ Khi vắng: việc của PGĐ Thuân → PGĐ Phạm Năng Chung; việc của P
 - Đã sửa: SKILL.md (mục Ban Giám đốc, bảng routing, khối người ký, sai lầm thường gặp), `data/phan-cong-ky.json` (thêm giai đoạn từ 17/11/2026, đóng
   giai đoạn QĐ 6320 ở 16/11/2026); các plugin lĩnh vực còn ghi người ký theo QĐ 6320 (hóa chất, VLNCN, kho, huấn luyện, xây dựng, khoáng sản…);
   máy kiểm `scripts/check_facts.py` (rule `qd-6320-da-thay-bang-7750`, `pgd-thuan-ky-hoa-chat-vlncn-tu-17-11`).
-- Còn mở, cần Bạn xác nhận: (1) người ký **vận chuyển hàng hóa nguy hiểm, PCCC ngành Công Thương, khu công nghiệp** theo QĐ 7750 (giữ PGĐ Chiến hay
-  chuyển PGĐ Thuân cùng hóa chất, VLNCN); (2) **dầu khí, than** thuộc ai; (3) ranh giới "công nghiệp khai thác mỏ và chế biến khoáng sản" (PGĐ Thuân)
+- Bạn chốt 25/11/2026: **vận chuyển hàng hóa nguy hiểm, PCCC ngành Công Thương chuyển sang PGĐ Hoàng Văn Thuân** (bản 2.17.0).
+- Còn mở, cần Bạn xác nhận: (1) người ký việc **khu công nghiệp**, an toàn ngành khác, chất lượng sản phẩm hàng hóa theo QĐ 7750 (đang giữ dự kiến PGĐ Chiến); (2) **dầu khí, than** thuộc ai; (3) ranh giới "công nghiệp khai thác mỏ và chế biến khoáng sản" (PGĐ Thuân)
   với "địa chất, khoáng sản" (PGĐ Chung) ở các việc kiểm tra an toàn, xử lý vi phạm trong khai thác.

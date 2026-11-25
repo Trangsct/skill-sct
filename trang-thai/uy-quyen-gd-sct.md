@@ -34,12 +34,12 @@ Plugin liên quan: hc-sct-vn, sd-vlncn-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, attp
 - Số khoản Điều 24 TT 26/2026/TT-BCT ở mục 40, 42, 43 của dự thảo cần sửa (`hc-sct-vn/skills/hc-sct-vn/references/18-…` dòng 30; hc-sct-vn CHANGELOG-v2026.10.12.md dòng 25 — việc Bạn cần quyết).
 - Thu hồi GP sử dụng VLNCN, tiếp nhận thông báo gửi kho, văn bản đề nghị GP dịch vụ nổ mìn chưa được ủy quyền (sd-vlncn-sct-vn ref 10 dòng 45–46); kho không ghi đã đưa vào dự thảo chung hay chưa.
 - Phụ lục QĐ 2867 thiếu dòng TTHC "cấp điều chỉnh", cột mã TTHC để trống (ref 10 dòng 47); QĐ 2867 không có điều khoản chuyển tiếp (ref 10 dòng 49).
-- (25/11/2026) Người ký Giấy phép vận chuyển hàng hóa nguy hiểm theo QĐ 7750: giữ PGĐ Chiến hay chuyển PGĐ Thuân
 
 ## Quyết định của Bạn
 
 - (19/8/2026) QĐ 2867 không gồm GCN huấn luyện — việc này vẫn theo QĐ 1883 (hl-vlncn-sct-vn CHANGELOG.md dòng 35).
 - (06/10/2026) PGĐ Nguyễn Đình Chiến dự kiến nhận đầu mối chỉ đạo nhiệm vụ ủy quyền VLNCN; Phòng QLCN chủ trì (sd-vlncn-sct-vn ref 10 dòng 66).
+- (25/11/2026) 25/11/2026: vận chuyển hàng hóa nguy hiểm, PCCC chuyển sang PGĐ Hoàng Văn Thuân ký (cùng hóa chất, VLNCN theo QĐ 7750/QĐ-SCT)
 
 ## Yêu cầu riêng một lần
 
@@ -53,3 +53,4 @@ Plugin liên quan: hc-sct-vn, sd-vlncn-sct-vn, hl-vlncn-sct-vn, hnh-sct-vn, attp
 ### 25/11/2026
 - Việc đã làm: Cập nhật plugin theo Quyết định 7750/QĐ-SCT ngày 17/11/2026 phân công Ban Giám đốc (thay QĐ 6320/QĐ-SCT): vật liệu nổ công nghiệp, hóa chất về PGĐ Hoàng Văn Thuân; đầu mối chỉ đạo nhiệm vụ ủy quyền VLNCN là PGĐ Thuân (khớp CV 5085/SCT-VP); giấy phép 7937/GP-SCT ngày 23/11/2026 do PGĐ Thuân ký
 - Câu hỏi chưa được trả lời: Người ký Giấy phép vận chuyển hàng hóa nguy hiểm theo QĐ 7750: giữ PGĐ Chiến hay chuyển PGĐ Thuân
+- Quyết định của Bạn: 25/11/2026: vận chuyển hàng hóa nguy hiểm, PCCC chuyển sang PGĐ Hoàng Văn Thuân ký (cùng hóa chất, VLNCN theo QĐ 7750/QĐ-SCT)

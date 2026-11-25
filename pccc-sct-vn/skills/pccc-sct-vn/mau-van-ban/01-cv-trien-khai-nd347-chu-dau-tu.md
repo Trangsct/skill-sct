@@ -7,7 +7,7 @@
 - **Số, ký hiệu:** Số: /SCT-CN — Lào Cai, ngày … tháng 9 năm 2026
 - **Trích yếu:** V/v triển khai thực hiện Nghị định số 347/2026/NĐ-CP ngày 08/9/2026 của Chính phủ về nghiệm thu, kiểm tra phòng cháy và chữa cháy
 - **Kính gửi:** - Các chủ đầu tư dự án, công trình xây dựng chuyên ngành Công Thương trên địa bàn tỉnh; - Các cơ sở thuộc lĩnh vực quản lý của ngành Công Thương có trong danh mục Phụ lục II Nghị định số 105/2025/NĐ-CP.
-- **Người ký:** KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Nguyễn Đình Chiến (phụ trách Phòng QLCN — QĐ 7750/QĐ-SCT ngày 17/11/2026, thay QĐ 6320/QĐ-SCT ngày 06/10/2026; dự kiến ký lĩnh vực PCCC, Bạn chốt 06/10/2026; QĐ 7750 không ghi đích danh PCCC — chờ Bạn xác nhận lại; bản soạn trước đó trình PGĐ Thuân)
+- **Người ký:** KT. GIÁM ĐỐC — PHÓ GIÁM ĐỐC Hoàng Văn Thuân (Bạn chốt 25/11/2026 chuyển PCCC sang PGĐ Thuân, cùng xây dựng chuyên ngành Công Thương theo QĐ 7750/QĐ-SCT ngày 17/11/2026; giai đoạn 05/10–24/11/2026 ghi dự kiến PGĐ Nguyễn Đình Chiến — lịch sử)
 - **Nơi nhận:** Như trên; Công an tỉnh (Phòng PCCC&CNCH); Ban Giám đốc Sở; Lưu: VT, CN(Tên).
 - **Lưu ý mức phạt:** mức trong NĐ 106 là mức cá nhân; văn bản gửi doanh nghiệp ghi mức tổ chức (gấp 02 lần, k1 Đ4 NĐ 106) trước.
 

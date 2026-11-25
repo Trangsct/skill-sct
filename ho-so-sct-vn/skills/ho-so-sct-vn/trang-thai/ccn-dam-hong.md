@@ -24,6 +24,7 @@ Plugin liên quan: kccn-sct-vn
 | 2362/TT-P6 | 16/11/2026 | Thanh tra tỉnh | Nhất trí; không thanh tra các cơ sở từ năm 2022 | — |
 | 2724/UBND | 16/11/2026 | UBND phường Văn Phú | Ranh giới từng phường, một cơ quan chủ trì, Phú Thịnh 6, số 9514 | — |
 | 8070/CAT | 17/11/2026 | Công an tỉnh | Tham gia ý kiến thẩm định Đề án (chưa có toàn văn) | — |
+| 8070/CAT-ANKT | 17/11/2026 | Công an tỉnh | Giữ ý kiến 6785/CAT-ANKT; cơ sở thực hiện nghiêm PCCC, CNCH trong thời gian chưa di dời và tại địa điểm tiếp nhận trước khi hoạt động | kho riêng tư theo-doi/yeu-cau/2026-11-18_dam-hong-cat-id/8070_CAT.pdf |
 
 ## Bước đã xong
 
@@ -43,7 +44,8 @@ Plugin liên quan: kccn-sct-vn
 
 ## Bước tiếp theo
 
-- Trình ký, phát hành công văn đề nghị phường Yên Bái hoàn thiện Đề án; nhận Đề án hoàn thiện trước 27/11/2026 rồi trình UBND tỉnh trước 15/12/2026
+- Ký, phát hành công văn đề nghị UBND phường Yên Bái hoàn thiện Đề án, hạn gửi lại 03/12/2026
+- Nhận Đề án hoàn thiện → cập nhật Tờ trình bản 6 (Phụ lục: ý kiến Công an 8070/CAT-ANKT, văn bản 3476/UBND-KTHT, Sở NN&MT) → trình UBND tỉnh trước 15/12/2026; quá hạn 03/12 thì trình theo hồ sơ hiện có
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -53,6 +55,7 @@ Plugin liên quan: kccn-sct-vn
 - (17/11/2026) Dự thảo Đề án (mục 16 căn cứ) ghi 9154/UBND-KT, 7485/SCT-CN ghi 9514/UBND-KT, cùng ngày 18/9/2026 — phường Văn Phú đề nghị thống nhất (2724); kho dùng 9514/UBND-KT
 - (17/11/2026) Phường Văn Phú (2724): bảng lộ trình Phần thứ sáu ghi hai phường cùng chủ trì, Bước 1 mục III Phần thứ năm và mục VII, VIII Phần thứ bảy ghi phường Yên Bái chủ trì — phải thống nhất một cơ quan chủ trì
 - (18/11/2026) Bạn có tải được QĐ 2108/QĐ-UBND 2020, NĐ 103/2024/NĐ-CP, QĐ 28/2026/QĐ-UBND, QĐ 1245/QĐ-UBND 2009 để bổ sung căn cứ không
+- (25/11/2026) Văn bản 3476/UBND-KTHT ngày 20/11/2026 tham gia ý kiến thẩm định Đề án: chưa có toàn văn, chưa rõ phường nào
 
 ## Quyết định của Bạn
 
@@ -99,3 +102,8 @@ Plugin liên quan: kccn-sct-vn
 - Văn bản đã xuất: 2026.11.19. Công văn đề nghị UBND phường Yên Bái hoàn thiện Đề án ... Đầm Hồng (bản 1)
 - Quyết định của Bạn: Bạn yêu cầu văn bản đề nghị phường hoàn thiện Đề án trước khi Sở trình (19/11/2026)
 - Việc còn dở: Hạn phường gửi lại 27/11/2026 (Claude chọn, chờ Bạn chốt); yêu cầu thống nhất số liệu Phụ lục 01-02 (dòng Cộng Phụ lục 01 sai), văn bản nguyện vọng DN sang Âu Lâu, quy hoạch đô thị khu Đầm Hồng
+
+### 25/11/2026
+- Việc đã làm: Rà văn bản mới (đến 24/11/2026); đọc bản quét 8070/CAT-ANKT; sửa công văn đề nghị phường Yên Bái hoàn thiện Đề án
+- Văn bản đã xuất: 2026.11.25. Công văn đề nghị UBND phường Yên Bái hoàn thiện Đề án di dời CCN Đầm Hồng.docx (bản 2)
+- Câu hỏi chưa được trả lời: Văn bản 3476/UBND-KTHT ngày 20/11/2026 tham gia ý kiến thẩm định Đề án: chưa có toàn văn, chưa rõ phường nào

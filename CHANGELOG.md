@@ -1,3 +1,10 @@
+## 26/11/2026 — Số liệu ước cả năm 2026, chỉ tiêu 2027 và hiện trạng KCN, CCN theo dự thảo Báo cáo KTXH trình kỳ họp thứ 9 HĐND tỉnh (2 plugin)
+
+Bạn gửi gói tài liệu Tờ trình số 1451-TTr/ĐU ngày 25/11/2026 của Đảng ủy UBND tỉnh kèm dự thảo Báo cáo (chưa có số) và biểu chỉ tiêu.
+
+- **dacn-sct-vn 1.16.0**: reference 20 — ước cả năm 2026, chỉ tiêu 2027 (IIP 112%, GTSXCN 85.171 tỷ, XNK 7.100 triệu USD — Sở đề xuất 4.800), dự án mới, năng lượng, 5 cảnh báo số liệu; mốc mới nhất chuyển từ ref 12 sang ref 20.
+- **kccn-sct-vn 1.70.0**: reference 59 — 12 KCN / 26 CCN, 4.578,66 ha, lấp đầy 81,4% / 62%, 04 CCN mới; cảnh báo 07 ≠ 06 khu đang hoạt động (L001).
+
 ## 25/11/2026 (lần 3) — Ranh giới số hóa 09 sơ đồ quy hoạch khoáng sản nhóm I tỉnh Lào Cai (2 plugin)
 
 Bạn gửi file KMZ tổng hợp ranh giới 123 khu vực (bản vẽ 3.3, 3.4, 4.6, 8.4, 8.5, 9.3, 11.2, 11.3, 12), yêu cầu lưu cả file gốc vào plugin quy hoạch và plugin khoáng sản.

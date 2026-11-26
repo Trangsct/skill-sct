@@ -18,5 +18,5 @@
 1. Số liệu động — thay các mốc cũ (25 CCN ở ref 41; 12 KCN 3.306,18 ha lấp đầy 73,9% mốc 9 tháng ở dacn ref 12). Nêu hiện trạng thì dùng mốc này cho đến khi có kỳ mới.
 2. **4.578,66 ha là tổng KCN + CCN đã thành lập/chấp thuận**, không so với 21 KCN 5.677,47 ha / 56 CCN 3.002,81 ha (ref 26 — gồm cả danh mục quy hoạch).
 3. **62% là lấp đầy bình quân 17 CCN đang hoạt động**; 30,49% (ref 42) là bình quân theo cách tính Bạn chốt 01/10/2026 cho toàn bộ cụm. Không đặt cạnh nhau khi chưa ghi rõ cách tính.
-4. ⚠️ **07 KCN đang hoạt động (dự thảo BC) ≠ 06 khu đang hoạt động theo sổ lỗi L001** (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân). Dự thảo không kể tên khu thứ 7 — không tự điền tên; khi cần kể tên thì giữ 06 khu và hỏi Bạn khu thứ 7 (có thể Trấn Yên đã đón dự án thứ cấp) trước khi viết "07".
+4. **07 KCN đang hoạt động** (Bạn chốt 26/11/2026, chuyển Trấn Yên từ nhóm đang GPMB sang nhóm đang hoạt động): Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân, Trấn Yên — sổ lỗi L001. 05 KCN mới đang GPMB: Cam Đường, Võ Lao, Phú Xuân, Phú Xuân 1, Bản Qua.
 5. Sơn Mãn, Đông Phố Mới viết "cụm công nghiệp"; viết đủ tên từng cụm, không gộp số.

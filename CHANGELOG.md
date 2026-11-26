@@ -1,3 +1,9 @@
+## 26/11/2026 (lần 2) — Bạn chốt: KCN Trấn Yên chuyển sang nhóm đang hoạt động (2 plugin + máy kiểm)
+
+- **kccn-sct-vn 1.71.0**: 07 KCN đang hoạt động (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân, Trấn Yên); nhóm đang GPMB còn 05 khu (Cam Đường, Võ Lao, Phú Xuân, Phú Xuân 1, Bản Qua). Sửa sổ lỗi L001, reference 59, SKILL.md.
+- **bpb-sct-vn 1.8.3**: ghi chú trong mẫu bài phát biểu 28/10/2026 — chia nhóm cũ là lịch sử.
+- **Máy kiểm** `scripts/check_facts.py` rule `kcn-dang-hoat-dong-thieu-khu`: bắt thêm danh sách thiếu Trấn Yên.
+
 ## 26/11/2026 — Số liệu ước cả năm 2026, chỉ tiêu 2027 và hiện trạng KCN, CCN theo dự thảo Báo cáo KTXH trình kỳ họp thứ 9 HĐND tỉnh (2 plugin)
 
 Bạn gửi gói tài liệu Tờ trình số 1451-TTr/ĐU ngày 25/11/2026 của Đảng ủy UBND tỉnh kèm dự thảo Báo cáo (chưa có số) và biểu chỉ tiêu.

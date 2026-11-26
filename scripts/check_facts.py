@@ -141,9 +141,10 @@ RULES = [
     {
         "id": "kcn-dang-hoat-dong-thieu-khu",
         # Bạn chỉ ra 28/10/2026 (kccn-sct-vn sổ lỗi L001): bài phát biểu BCH liệt kê KCN đang hoạt động thiếu Bắc Duyên Hải, Âu Lâu.
-        # 06 KCN đang hoạt động: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân (ref 12, 36).
-        "pattern": r"^(?!.*lịch sử)(?=.*[Kk]hu công nghiệp đang hoạt động:)(?!.*Bắc Duyên Hải.*Âu Lâu|.*Âu Lâu.*Bắc Duyên Hải).*",
-        "why": "Danh sách 'khu công nghiệp đang hoạt động' phải đủ 06 khu: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân (kccn-sct-vn sổ lỗi L001, ref 12).",
+        # 07 KCN đang hoạt động: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân, Trấn Yên
+        # (Bạn chốt 26/11/2026 chuyển Trấn Yên từ nhóm đang GPMB sang nhóm đang hoạt động; trước đó 06 khu — lịch sử).
+        "pattern": r"^(?!.*lịch sử)(?=.*[Kk]hu công nghiệp đang hoạt động:)(?!(?=.*Bắc Duyên Hải)(?=.*Âu Lâu)(?=.*Trấn Yên)).*",
+        "why": "Danh sách 'khu công nghiệp đang hoạt động' phải đủ 07 khu: Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân, Trấn Yên (kccn-sct-vn sổ lỗi L001, Bạn chốt 26/11/2026).",
         "since": "2026-10-28",
         "level": "FAIL",
     },

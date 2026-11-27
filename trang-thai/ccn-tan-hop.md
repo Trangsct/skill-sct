@@ -20,6 +20,9 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 | 4268/QĐ-UBND | 15/11/2026 | UBND tỉnh Lào Cai (Chủ tịch Nguyễn Tuấn Anh ký) | Chủ trương đầu tư dự án Nâng cấp tuyến đường vào khu quy hoạch CCN Tân Hợp: khoảng 1,1 km, nền 13,5 m, nhóm C, 29.000 triệu đồng ngân sách tỉnh, 2026–2028, chủ đầu tư UBND xã Tân Hợp | kho riêng tư vlncn-laocai theo-doi/2026/4268_QD-UBND.md; tóm tắt ref 57 mục E |
 | 7845/BC-SCT | 20/11/2026 | Sở Công Thương (PGĐ Nguyễn Đình Chiến ký) | Báo cáo thẩm định thành lập CCN Tân Hợp 75 ha; Hội đồng họp 17/11/2026, Công ty cổ phần PH Group đạt 75,94/100 điểm, đủ điều kiện giao CĐT | kho riêng tư theo-doi/2026/7845_BC-SCT.md |
 | 7928/TTr-SCT | 23/11/2026 | Sở Công Thương (GĐ Hoàng Chí Hiền ký) | Trình UBND tỉnh thành lập CCN Tân Hợp, giao Công ty cổ phần PH Group làm CĐT | kho riêng tư theo-doi/2026/7928_TTr-SCT.md |
+| 7984/BC-SCT | 25/11/2026 | Sở Công Thương (PGĐ Nguyễn Đình Chiến ký) | Báo cáo thẩm định thành lập CCN Tân Hợp, thay Báo cáo 7845/BC-SCT ngày 20/11/2026 | kho riêng tư theo-doi/2026/7984_BC-SCT.md |
+| 8011/TTr-SCT | 25/11/2026 | Sở Công Thương (GĐ Hoàng Chí Hiền ký) | Tờ trình thành lập CCN Tân Hợp (trình lại kèm Báo cáo 7984) | kho riêng tư theo-doi/2026/8011_TTr-SCT.md |
+| 1932/VPUBND-KT | 26/11/2026 | Văn phòng UBND tỉnh | Xin ý kiến Ủy viên UBND tỉnh về thành lập CCN Tân Hợp, hạn 29/11/2026 | kho riêng tư theo-doi/2026/1932_VPUBND-KT.md |
 
 ## Bước đã xong
 
@@ -30,11 +33,12 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 5. (17/11/2026) Có chủ trương đầu tư đường vào khu quy hoạch cụm (QĐ 4268/QĐ-UBND ngày 15/11/2026) — hạ tầng ngoài hàng rào
 6. (24/11/2026) Hội đồng họp chấm điểm lựa chọn CĐT ngày 17/11/2026 (08/08 thành viên; điểm trung bình 75,94/100) — bậc 8
 7. (24/11/2026) Sở thẩm định (7845/BC-SCT ngày 20/11/2026), trình UBND tỉnh thành lập (7928/TTr-SCT ngày 23/11/2026) — bậc 9
+8. (27/11/2026) Sở trình lại 8011/TTr-SCT kèm 7984/BC-SCT ngày 25/11/2026; Văn phòng UBND tỉnh xin ý kiến Ủy viên (1932/VPUBND-KT ngày 26/11/2026); đã gửi dự thảo Tờ trình Đảng ủy UBND tỉnh xin chủ trương Tỉnh ủy (27/11/2026)
 
 ## Bước tiếp theo
 
+- Thường trực, Ban Thường vụ Đảng ủy UBND tỉnh, Thường trực Tỉnh ủy cho chủ trương
 - UBND tỉnh ban hành QĐ thành lập CCN Tân Hợp, giao Công ty cổ phần PH Group làm CĐT — bậc 10
-- Sau thành lập: CĐT phối hợp xã lập QH chi tiết; chuyển mục đích sử dụng rừng, ĐTM, thẩm định PCCC; mô-đun XLNT giai đoạn 1 xong trước khi dự án thứ cấp hoạt động
 - UBND xã Tân Hợp hoàn thành Báo cáo nghiên cứu khả thi dự án đường vào (QĐ 4268/QĐ-UBND)
 
 ## Vướng mắc, câu hỏi còn mở
@@ -43,7 +47,7 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 
 ## Quyết định của Bạn
 
-- chưa có thông tin trong kho
+- (27/11/2026) Căn cứ Quy chế 19-QC/TU ngày 15/10/2026 và 05-QC/ĐU ngày 12/01/2026 (27/11/2026)
 
 ## Yêu cầu riêng một lần
 
@@ -59,3 +63,8 @@ Plugin liên quan: kccn-sct-vn, dat-dai-sct-vn, vbhc-vn
 
 ### 24/11/2026
 - Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 7845/BC-SCT, 7928/TTr-SCT
+
+### 27/11/2026
+- Việc đã làm: Soạn hộ Văn phòng UBND tỉnh Tờ trình của Đảng ủy UBND tỉnh xin chủ trương Thường trực, Ban Thường vụ Tỉnh ủy thành lập CCN Tân Hợp và Phiếu trình (ref 60)
+- Văn bản đã xuất: 2026.11.27. Dự thảo Tờ trình Đảng ủy UBND tỉnh xin chủ trương thành lập CCN Tân Hợp.docx; 2026.11.27. Phiếu trình ĐU UBND tỉnh CCN Tân Hợp.docx (bản 2)
+- Quyết định của Bạn: Căn cứ Quy chế 19-QC/TU ngày 15/10/2026 và 05-QC/ĐU ngày 12/01/2026 (27/11/2026)

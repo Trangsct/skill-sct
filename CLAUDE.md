@@ -242,6 +242,17 @@ lệ, "Lỗi", "Cách đúng", không lộ thông tin riêng.
   Gmail thì soạn tin Zalo để Bạn tự gửi. Địa chỉ ở plugin riêng tư `dong-nghiep-sct-vn` (kho vlncn-laocai), không chép địa
   chỉ sang kho công khai này. Máy kiểm: `check_facts.py` rule `thu-chi-gui-gmail`.
 
+## Lấy toàn văn văn bản QPPL từ thuvienphapluat.vn — tự động (Bạn chốt 27/11/2026)
+
+Bạn hướng dẫn 26/11/2026, phiên đã lấy được toàn văn; 27/11/2026 Bạn yêu cầu ghi vào mọi plugin và **từ nay tự động làm khâu này**.
+Khối "Lấy toàn văn văn bản quy phạm pháp luật từ thuvienphapluat.vn" đã chèn vào đầu SKILL.md của cả 28 plugin (ngay sau khối
+"Tra văn bản gốc"), nội dung giống nhau — sửa thì sửa đồng loạt cả 28. Tóm tắt: kho (MCP `sct-tra-cuu`, `tim_van_ban.py`) không có →
+tự mở thuvienphapluat.vn bằng Claude in Chrome (2 Chrome kết nối: `select_browser`, mặc định Browser 1; không có Chrome thì trình duyệt
+tích hợp), `get_page_text` (cắt 50.000 ký tự — không phải trang chặn), phần Phụ lục lấy bằng `javascript_tool` từng khúc 1.000–1.600 ký tự;
+tài khoản cơ quan lưu sẵn trong Chrome, chỉ bấm Đăng nhập, không gõ mật khẩu, hỏi Bạn trước khi bấm Đồng ý đẩy người khác ra (tối đa
+5 người); đóng tab; lưu `.txt` vào `van-ban-goc/` plugin chủ (ngoài lĩnh vực → vbhc-vn) để lần sau không lấy lại. WebFetch bị chặn ở
+thuvienphapluat.vn, luatnguyen, congbao.chinhphu.vn. Máy kiểm: `check_facts.py` rule `thuvienphapluat-khong-dung-webfetch`.
+
 ## Quy tắc nghiệp vụ chung
 
 - Mỗi lần nâng cấp plugin: tăng version trong `.claude-plugin/plugin.json`, thêm CHANGELOG theo mẫu `CHANGELOG-vYYYY.MM.DD.md` trong thư mục skill, và thêm mục mới lên ĐẦU `CHANGELOG.md` ở gốc repo.

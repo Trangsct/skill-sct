@@ -8,7 +8,7 @@
 
 Sau bậc 9 (Sở đã có Báo cáo thẩm định và Tờ trình thành lập cụm gửi UBND tỉnh — ref 39), trước khi UBND tỉnh ban hành Quyết định
 thành lập (bậc 10): Văn phòng UBND tỉnh xin ý kiến các Ủy viên UBND tỉnh, đồng thời trình Thường trực, Ban Thường vụ Đảng ủy UBND tỉnh để
-Đảng ủy UBND tỉnh trình Thường trực, Ban Thường vụ Tỉnh ủy cho chủ trương. Sở có thể được nhờ dự thảo hộ hai văn bản:
+Đảng ủy UBND tỉnh trình Thường trực, Ban Thường vụ Tỉnh ủy cho chủ trương. Sở có thể được nhờ dự thảo hộ ba văn bản:
 
 1. **Tờ trình của Đảng ủy UBND tỉnh** (`Số: -TTr/ĐU`, đầu trang "TỈNH ỦY LÀO CAI / ĐẢNG ỦY UBND TỈNH", tiêu ngữ "ĐẢNG CỘNG SẢN VIỆT NAM";
    Kính gửi Thường trực Tỉnh ủy, Ban Thường vụ Tỉnh ủy; ký T/M BAN THƯỜNG VỤ — PHÓ BÍ THƯ THƯỜNG TRỰC).
@@ -16,7 +16,13 @@ thành lập (bậc 10): Văn phòng UBND tỉnh xin ý kiến các Ủy viên U
    II. khái quát nội dung, sự cần thiết; III. tóm tắt quá trình thẩm định, ý kiến các ngành; IV. ý kiến Văn phòng; ô ký Lãnh đạo Văn phòng,
    chuyên viên tham mưu).
 
-Giữ nguyên thể thức hai tệp mẫu của Văn phòng UBND tỉnh (dựng bằng cách sửa chính tệp mẫu, không tự dựng lại), chỉ thay nội dung.
+3. **Tờ trình của UBND tỉnh** (`Số: /TTr-UBND`; Kính gửi Thường trực Đảng ủy UBND tỉnh, Ban Thường vụ Đảng ủy UBND tỉnh; ký KT. CHỦ
+   TỊCH — PHÓ CHỦ TỊCH; dòng cuối "(Gửi kèm theo: Hồ sơ trình và thẩm định thành lập cụm công nghiệp … của Sở Công Thương và các cơ quan
+   liên quan)") — bước trước Tờ trình -TTr/ĐU: UBND tỉnh xin ý kiến thống nhất của Thường trực, Ban Thường vụ Đảng ủy UBND tỉnh để trình
+   Thường trực, Ban Thường vụ Tỉnh ủy. Bố cục I. Cơ sở pháp lý; II. Hồ sơ, trình tự, thủ tục (1. hồ sơ; 2. trình tự; 3. kết quả chấm điểm);
+   III. Đề xuất, kiến nghị (9 nội dung như Tờ trình -TTr/ĐU). Văn phòng UBND tỉnh gửi thêm mẫu này ngày 27/11/2026 (bộ Yên Hợp 2).
+
+Giữ nguyên thể thức ba tệp mẫu của Văn phòng UBND tỉnh (dựng bằng cách sửa chính tệp mẫu, không tự dựng lại), chỉ thay nội dung.
 
 ## B. Căn cứ Quy chế (Văn phòng UBND tỉnh chỉnh 27/11/2026)
 

@@ -25,3 +25,8 @@
 
 - SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
 - `plugin.json` → 1.72.1.
+
+# kccn-sct-vn 1.72.2 — 27/11/2026 (lần 4) — Ref 60 thêm Tờ trình của UBND tỉnh
+
+- Ref 60 mục A: thêm văn bản thứ ba — Tờ trình của UBND tỉnh (/TTr-UBND) xin ý kiến Thường trực, Ban Thường vụ Đảng ủy UBND tỉnh (mẫu Văn phòng UBND tỉnh gửi 27/11/2026).
+- `plugin.json` → 1.72.2.

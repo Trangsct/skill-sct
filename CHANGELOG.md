@@ -1,3 +1,7 @@
+## 27/11/2026 (lần 4) — kccn-sct-vn 1.72.2
+
+- Ref 60: thêm Tờ trình của UBND tỉnh xin ý kiến Thường trực, Ban Thường vụ Đảng ủy UBND tỉnh về thành lập CCN (bộ ba văn bản).
+
 ## 27/11/2026 (lần 4) — Văn bản dài từ thuvienphapluat chuyển qua Google Docs (28 plugin)
 
 - **Cả 28 plugin** (bản vá): khối "Lấy toàn văn…" thêm bước (8b): fetch trang trong Chrome → textarea → ctrl+c → Google Docs trong thư mục Drive "Văn bản QPPL tải từ thuvienphapluat" → `download_file_content` text/plain. Lý do: javascript_tool chỉ trả ~1.100 ký tự, get_page_text 50.000 ký tự, máy ảo bị các trang luật chặn.

@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 1.16.2.
+
+# dacn-sct-vn 1.16.3 — 27/11/2026 — Ngày Quy chế 19-QC/TU
+
+- Ref 18 mục E: ngày đúng Quy chế 19-QC/TU là 15/10/2026 (Văn phòng UBND tỉnh xác nhận 27/11/2026); Phiếu trình kèm QĐ 4291 ghi nhầm năm 2025.
+- `plugin.json` → 1.16.3.

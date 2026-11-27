@@ -91,6 +91,23 @@ RULES = [
         "level": "FAIL",
     },
     {
+        "id": "quy-che-lam-viec-tinh-uy-02-qc-tu-da-thay",
+        # Vụ 27/11/2026 (kccn-sct-vn ref 60, L004): Tờ trình -TTr/ĐU xin chủ trương thành lập CCN Tân Hợp, Bản Phiệt 1 dẫn Quy chế
+        # 02-QC/TU ngày 24/10/2025 và 01-QC/TU ngày 18/7/2025 theo mẫu cũ; hiện hành là 19-QC/TU ngày 15/10/2026 và 05-QC/ĐU ngày 12/01/2026.
+        "pattern": r"^(?!.*(?:lịch sử|19-QC/TU|L004|quy-che-lam-viec)).*(?:Quy chế(?: số)? 02-QC/TU|01-QC/TU ngày 18/7/2025)",
+        "why": "Quy chế làm việc hiện hành: 19-QC/TU ngày 15/10/2026 của Tỉnh ủy và 05-QC/ĐU ngày 12/01/2026 của Đảng ủy UBND tỉnh (kccn-sct-vn ref 60).",
+        "since": "2026-11-27",
+        "level": "FAIL",
+    },
+    {
+        "id": "quy-che-19-qc-tu-sai-nam",
+        # Phiếu trình kèm QĐ 4291 ghi nhầm "19-QC/TU ngày 15/10/2025"; đúng là 15/10/2026 (Văn phòng UBND tỉnh xác nhận 27/11/2026).
+        "pattern": r"^(?!.*(?:nhầm|lịch sử|L004|sai-nam)).*19-QC/TU ngày 15/10/2025",
+        "why": "Quy chế 19-QC/TU ban hành ngày 15/10/2026, không phải 2025 (kccn-sct-vn ref 60).",
+        "since": "2026-11-27",
+        "level": "FAIL",
+    },
+    {
         "id": "khoan-4-dieu-32-nd32-da-thay-boi-nd303",
         # Vụ 13/11/2026 (kccn-sct-vn ref 45): dẫn khoản 4 Điều 32 NĐ 32/2024 với câu "cụm hình thành trước QĐ 105/2009/QĐ-TTg, không có
         # chủ đầu tư hạ tầng" làm căn cứ thẩm định Đề án di dời CCN Đầm Hồng. Điểm c khoản 16 Điều 1 NĐ 303/2026 (hiệu lực 15/9/2026)

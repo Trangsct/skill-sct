@@ -67,7 +67,7 @@
 | 1. NĐT nộp hồ sơ | 06/8/2026, bổ sung 19/8/2026 | Văn bản đề nghị điều chỉnh + hồ sơ theo k1 Đ.52 NĐ 96/2026 |
 | 2. Thẩm định | **Báo cáo kết quả thẩm định ngày 20/8/2026** của Tổ thẩm định dự án đầu tư (BQLCKCN) — Tổ trưởng Phí Quang Trường | Đủ thành phần theo Luật 143/2025, NĐ 96/2026, TT 55/2026/TT-BTC (Mẫu I.2.1, I.2.7); kết luận cả 04 nội dung đều phù hợp → toàn bộ cấu trúc và kết luận tại mục F |
 | 3. BQL trình tỉnh | **TTr 109/TTr-BQLCKCN ngày 23/8/2026** — Trưởng ban Đỗ Việt Bách | Đề nghị UBND tỉnh cho ý kiến chấp thuận điều chỉnh |
-| 4. UBND tỉnh xin ý kiến Đảng ủy | **TTr 1199/TTr-UBND ngày 28/8/2026** | Xin ý kiến Thường trực, BTV Đảng ủy UBND tỉnh (Quy chế 02-QC/TU 24/10/2025; Quy chế 05-QC/ĐU 12/01/2026) |
+| 4. UBND tỉnh xin ý kiến Đảng ủy | **TTr 1199/TTr-UBND ngày 28/8/2026** | Xin ý kiến Thường trực, BTV Đảng ủy UBND tỉnh (Quy chế 02-QC/TU 24/10/2025 — lịch sử, nay là 19-QC/TU ngày 15/10/2026; Quy chế 05-QC/ĐU 12/01/2026) |
 | 5. Nghị quyết BTV | **NQ 1073-NQ/ĐU ngày 07/9/2026** — Bí thư Nguyễn Tuấn Anh | Thống nhất chủ trương; giao UBND tỉnh rà kỹ hồ sơ, chỉ quyết định khi đủ điều kiện; yêu cầu CĐT cam kết tiến độ, tránh kéo dài lãng phí |
 | 6. UBND tỉnh cho ý kiến | **CV 9109/UBND-KT ngày 08/9/2026** — PCT Ngô Hạnh Phúc | Đồng ý chủ trương; giao BQLCKCN thực hiện điều chỉnh SAU KHI CĐT hoàn thành đầy đủ nội dung, kiến nghị của các sở, ngành; yêu cầu NĐT cam kết tiến độ, hoàn thiện thủ tục MT + nghiệm thu PCCC trước hoạt động; theo dõi, đôn đốc, xử lý nếu không đúng cam kết. Nơi nhận: các Sở Tài chính, **Công Thương**, NN&MT, KH&CN |
 | 6b. NĐT cam kết tiến độ | **VB 1908/CV-MundusStones ngày 19/8/2026** — TGĐ Đậu Thị Thúy Mai | Nộp TRƯỚC khi UBND tỉnh cho ý kiến (cùng đợt bổ sung hồ sơ 19/8/2026); là điều kiện Đảng ủy + UBND tỉnh yêu cầu. Nội dung → mục G |
@@ -123,7 +123,7 @@ Lưu ý:
 
 1. UBND tỉnh KHÔNG ban hành QĐ điều chỉnh — chỉ "cho ý kiến"; QĐ điều chỉnh + GCN ĐKĐT do BQLCKCN cấp.
 2. Điều kiện tiên quyết trước khi BQL ra QĐ: CĐT hoàn thành các nội dung, kiến nghị của sở, ngành (CV 9109 mục 2).
-3. Ba lớp căn cứ mẫu: Luật Đầu tư 143/2025 (11/12/2025) — NĐ 96/2026/NĐ-CP (31/3/2026) — TT 55/2026/TT-BTC (15/5/2026, biểu mẫu I.2.1, I.2.7); cộng Quy chế 02-QC/TU và 05-QC/ĐU cho khâu xin ý kiến Đảng.
+3. Ba lớp căn cứ mẫu: Luật Đầu tư 143/2025 (11/12/2025) — NĐ 96/2026/NĐ-CP (31/3/2026) — TT 55/2026/TT-BTC (15/5/2026, biểu mẫu I.2.1, I.2.7); cộng Quy chế 19-QC/TU ngày 15/10/2026 (thay 02-QC/TU — lịch sử) và 05-QC/ĐU ngày 12/01/2026 cho khâu xin ý kiến Đảng (ref 60).
 4. Vai trò SCT: nhận CV 9109 để biết, phối hợp khi được hỏi ý kiến (không chủ trì); từ 15/9/2026 chú ý thêm NQ 66.25/2026/NQ-CP (QLNN về KCN về Bộ Công Thương — ref 29) nhưng thẩm quyền cấp/điều chỉnh CTĐT của BQLCKCN không đổi.
 5. Khi doanh nghiệp hỏi "chậm tiến độ nhiều năm có được gia hạn không": kiểm tra ngay 2 mốc — có thuộc ngoại lệ k4 Đ.33 Luật 143/2025 không, và ngày quyết định giao đất/cho thuê đất (Đ.28 NĐ 96/2026) — trước khi trả lời.
 6. **Ba việc doanh nghiệp phải làm xong TRƯỚC khi hồ sơ được quyết** (rút từ vụ này): (a) nộp đủ **ký quỹ bảo đảm thực hiện dự án** theo mức đã điều chỉnh — Mundus Stones nộp bổ sung 437,5 triệu đồng ngày 15/8/2026, ngay giữa kỳ thẩm định; (b) có **văn bản cam kết tiến độ đủ 4 lớp** (mục G); (c) không có vi phạm hành chính đang bị xử lý về đầu tư, đất đai, môi trường, quy hoạch, xây dựng, PCCC. Thiếu bất kỳ điểm nào thì khâu thẩm định và khâu xin ý kiến Đảng ủy sẽ tắc.

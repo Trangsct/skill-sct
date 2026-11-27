@@ -1,3 +1,8 @@
+## 27/11/2026 — kccn-sct-vn 1.71.3, dacn-sct-vn 1.16.3
+
+- kccn-sct-vn ref 60: khuôn Tờ trình Đảng ủy UBND tỉnh xin chủ trương Tỉnh ủy thành lập CCN + Phiếu trình Văn phòng UBND tỉnh; căn cứ Quy chế 19-QC/TU ngày 15/10/2026, 05-QC/ĐU ngày 12/01/2026; sổ lỗi L004; check_facts 2 rule mới; trang-thai Tân Hợp, Bản Phiệt 1 (mới).
+- dacn-sct-vn ref 18: ngày Quy chế 19-QC/TU là 15/10/2026.
+
 ## 27/11/2026 (lần 2) — Bạn chốt: tài khoản thuvienphapluat luôn bấm Đồng ý khi đẩy người khác ra (28 plugin)
 
 - **Cả 28 plugin** (nâng bản vá; sd-vlncn-sct-vn → 2026.11.27.2): khối lấy toàn văn trong SKILL.md — hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan: ưu tiên người đăng nhập sau, người đang làm). Quy ước "hỏi Bạn trước" ở mục dưới là lịch sử.

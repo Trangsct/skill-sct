@@ -19,22 +19,24 @@ Plugin liên quan: kccn-sct-vn
 | 11140/SNNMT-QLĐĐ | 12/11/2026 | Sở Nông nghiệp và Môi trường (PGĐ Trịnh Thị Thu Huyền ký) | Cơ bản nhất trí dự thảo tiêu chí; đề nghị bổ sung yêu cầu đối với dự án nghiên cứu, sản xuất, ứng dụng công nghệ cao (lĩnh vực, tiêu chuẩn, văn bản quy phạm) để chấm mục Kế hoạch thu hút đầu tư | kho riêng tư theo-doi/2026/11140_SNNMT-QLDD.md |
 | 7913/CAT-ANKT | 12/11/2026 | Công an tỉnh (PGĐ Nguyễn Mạnh Hùng ký) | Thành viên Hội đồng thống nhất dự thảo tiêu chí; đề nghị yêu cầu chủ đầu tư khảo sát, đánh giá tác động môi trường, đời sống người dân trước khi thực hiện (bản quét; số theo egov1) | kho riêng tư theo-doi/2026/7913_CAT.pdf |
 | 761/PG-NB | 23/11/2026 | Thành viên Hội đồng (PGĐ Sở Tài chính Vũ Lân) | Đề xuất sửa dự thảo tiêu chí lựa chọn CĐT CCN công nghệ cao Phú Thịnh 6: 06 điều kiện tiên quyết, NPV/IRR, tiến độ ≤24/30 tháng từ khi giao đất | kho riêng tư theo-doi/2026/761_PG-NB.md |
+| 7649/SXD-PTĐT | 17/11/2026 | Sở Xây dựng | Ý kiến dự thảo tiêu chí: điều kiện thành lập cụm công nghệ cao, hạ tầng thông minh, MOU, tổng mức đầu tư | — |
+| 2650/UBND-KTHT | 11/11/2026 | UBND phường Văn Phú | Ý kiến dự thảo tiêu chí: vốn chủ sở hữu Điều 4, viện dẫn Điều 52 Luật BVMT, cách tính nhiều loại dự án, GPMB, điểm xả, Điều 6, Điều 7 | — |
 
 ## Bước đã xong
 
 1. (10/11/2026) Có Quyết định thành lập Hội đồng và Tổ giúp việc (QĐ 4154/QĐ-UBND ngày 04/11/2026) — bậc 6 theo ref 39
 2. (17/11/2026) Sở đã lấy ý kiến thành viên Hội đồng vào dự thảo tiêu chí (7447/SCT-CN ngày 10/11/2026); đã nhận ý kiến Sở NN&MT (11140) và Công an tỉnh (7913)
+3. (27/11/2026) Đã tổng hợp, tiếp thu ý kiến thành viên Hội đồng; có dự thảo Tờ trình và Quyết định tiêu chí sau tiếp thu (27/11/2026)
 
 ## Bước tiếp theo
 
-- Tổng hợp ý kiến 11140/SNNMT-QLĐĐ, 7913/CAT và các thành viên còn lại vào Phụ lục tiếp thu; ký Tờ trình trình Chủ tịch Hội đồng ban hành Quy định tiêu chí — bậc 7
-- Tổ giúp việc rà hồ sơ theo 05 điều kiện tiên quyết (vốn chủ sở hữu từ 15% tổng vốn đầu tư vì cụm khoảng 75 ha); họp Hội đồng chấm điểm — bậc 8
+- Trình ký Tờ trình (Giám đốc Hoàng Chí Hiền), trình Chủ tịch Hội đồng ban hành Quy định tiêu chí — bậc 7
+- Tổ giúp việc rà hồ sơ theo 07 điều kiện tiên quyết (vốn chủ sở hữu từ 15% tổng vốn đầu tư vì cụm khoảng 75 ha; tỷ lệ dư nợ trên vốn chủ sở hữu); họp Hội đồng chấm điểm — bậc 8
 - TB 1244-TB/TU mục II.4.3: trình UBND tỉnh quyết định thành lập trong tháng 11/2026
 
 ## Vướng mắc, câu hỏi còn mở
 
 - (10/11/2026) Sở Tài chính (Văn bản 8589/STC-TĐ ngày 23/10/2026) đánh giá nhà đầu tư chưa chứng minh được khả năng bố trí đủ vốn chủ sở hữu 90 tỷ đồng (15% của 600 tỷ đồng)
-- (24/11/2026) (24/11/2026) Tiếp thu đến đâu đề xuất 761/PG-NB (ngành nghề kinh doanh bất động sản, tỷ lệ dư nợ theo Điều 5 NĐ 96/2024/NĐ-CP, NPV/IRR, mốc 30 tháng) — đối chiếu ref 27 mục D, ref 58 mục E
 
 ## Quyết định của Bạn
 
@@ -57,3 +59,8 @@ Plugin liên quan: kccn-sct-vn
 ### 24/11/2026
 - Việc đã làm: Lượt nâng cấp 24/11/2026: đọc 761/PG-NB
 - Câu hỏi chưa được trả lời: (24/11/2026) Tiếp thu đến đâu đề xuất 761/PG-NB (ngành nghề kinh doanh bất động sản, tỷ lệ dư nợ theo Điều 5 NĐ 96/2024/NĐ-CP, NPV/IRR, mốc 30 tháng) — đối chiếu ref 27 mục D, ref 58 mục E
+
+### 27/11/2026
+- Việc đã làm: Tổng hợp ý kiến 05 thành viên Hội đồng (761/PG-NB, 11140/SNNMT-QLĐĐ, 7649/SXD-PTĐT, 7913/CAT-ANKT, 2650/UBND-KTHT), tiếp thu vào dự thảo Quy định tiêu chí; soạn Tờ trình trình Chủ tịch Hội đồng kèm Phụ lục tiếp thu, giải trình
+- Văn bản đã xuất: 2026.11.27. Tờ trình ban hành Quy định tiêu chí ... Phú Thịnh 6 (kèm Phụ lục tiếp thu ý kiến).docx (bản 1); 2026.11.27. Dự thảo Quyết định ban hành Quy định tiêu chí ... Phú Thịnh 6.docx (bản 1)
+- Hướng tiếp thu đề xuất trong dự thảo (chờ Bạn duyệt), 761/PG-NB: tiếp thu tỷ lệ dư nợ (gộp vào điều kiện 2, giữ 07 điều kiện) và thứ tự ưu tiên khi bằng điểm; không tiếp thu NPV/IRR, mốc 30 tháng, bỏ nhân sự, chấm đạt/không đạt nhóm IV (đề xuất của phiên, chờ Bạn duyệt khi trình ký)

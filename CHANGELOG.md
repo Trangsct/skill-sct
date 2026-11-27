@@ -1,3 +1,8 @@
+## 27/11/2026 (lần 2) — Bạn chốt: tài khoản thuvienphapluat luôn bấm Đồng ý khi đẩy người khác ra (28 plugin)
+
+- **Cả 28 plugin** (nâng bản vá; sd-vlncn-sct-vn → 2026.11.27.2): khối lấy toàn văn trong SKILL.md — hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan: ưu tiên người đăng nhập sau, người đang làm). Quy ước "hỏi Bạn trước" ở mục dưới là lịch sử.
+- **CLAUDE.md**: sửa mục "Lấy toàn văn văn bản QPPL từ thuvienphapluat.vn".
+
 ## 27/11/2026 — Bạn chốt: tự động lấy toàn văn văn bản QPPL từ thuvienphapluat.vn (28 plugin + máy kiểm)
 
 Bạn hướng dẫn quy trình ngày 26/11/2026 (phiên đã lấy được toàn văn), 27/11/2026 yêu cầu ghi vào mọi plugin và tự động làm khâu này.

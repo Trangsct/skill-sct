@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "thuvienphapluat-khong-dung-webfetch",
+        # Bạn chốt 27/11/2026 (quy trình chạy được 26/11/2026): WebFetch bị chặn ở thuvienphapluat.vn; toàn văn văn bản QPPL
+        # ngoài kho lấy TỰ ĐỘNG qua Claude in Chrome (get_page_text + javascript_tool), khối "Lấy toàn văn…" ở đầu SKILL.md mọi plugin.
+        "pattern": r"^(?!.*(?:bị chặn|không dùng|không thử|lịch sử)).*WebFetch[^\n]{0,80}thuvienphapluat",
+        "why": "WebFetch bị chặn ở thuvienphapluat.vn; lấy toàn văn qua Claude in Chrome theo khối 'Lấy toàn văn văn bản quy phạm pháp luật từ thuvienphapluat.vn' (Bạn chốt 27/11/2026).",
+        "since": "2026-11-27",
+        "level": "WARN",
+    },
+    {
         "id": "dkdn-khong-con-so-ke-hoach-va-dau-tu",
         "pattern": r"[Gg]iấy chứng nhận đăng ký doanh nghiệp(?![^\n]*Sở Tài chính)[^\n]{0,160}Sở Kế hoạch và Đầu tư",
         "why": ("Từ 2025 Giấy chứng nhận đăng ký doanh nghiệp do Phòng Doanh nghiệp và Đăng ký kinh doanh "

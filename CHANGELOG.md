@@ -1,3 +1,11 @@
+## 27/11/2026 — Bạn chốt: tự động lấy toàn văn văn bản QPPL từ thuvienphapluat.vn (28 plugin + máy kiểm)
+
+Bạn hướng dẫn quy trình ngày 26/11/2026 (phiên đã lấy được toàn văn), 27/11/2026 yêu cầu ghi vào mọi plugin và tự động làm khâu này.
+
+- **Cả 28 plugin** (nâng bản vá; sd-vlncn-sct-vn → 2026.11.27): SKILL.md thêm khối "Lấy toàn văn văn bản quy phạm pháp luật từ thuvienphapluat.vn — TỰ ĐỘNG": kho không có → Claude in Chrome (hoặc trình duyệt tích hợp), `get_page_text` + `javascript_tool` lấy phần Phụ lục sau mốc 50.000 ký tự, tài khoản cơ quan chỉ bấm Đăng nhập, hỏi Bạn trước khi đẩy người khác ra, đóng tab, đối chiếu số hiệu, lưu `.txt` vào `van-ban-goc/`, dựng Word khi cần. Mỗi plugin có `CHANGELOG-v2026.11.27.md`.
+- **CLAUDE.md**: mục mới cùng tên.
+- **Máy kiểm** `scripts/check_facts.py` rule `thuvienphapluat-khong-dung-webfetch` (WARN).
+
 ## 26/11/2026 (lần 2) — Bạn chốt: KCN Trấn Yên chuyển sang nhóm đang hoạt động (2 plugin + máy kiểm)
 
 - **kccn-sct-vn 1.71.0**: 07 KCN đang hoạt động (Tằng Loỏng, Đông Phố Mới, Bắc Duyên Hải, Phía Nam, Âu Lâu, Minh Quân, Trấn Yên); nhóm đang GPMB còn 05 khu (Cam Đường, Võ Lao, Phú Xuân, Phú Xuân 1, Bản Qua). Sửa sổ lỗi L001, reference 59, SKILL.md.

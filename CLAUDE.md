@@ -252,6 +252,7 @@ tích hợp), `get_page_text` (cắt 50.000 ký tự — không phải trang ch�
 tài khoản cơ quan lưu sẵn trong Chrome, chỉ bấm Đăng nhập, không gõ mật khẩu, hiện cảnh báo đẩy người khác ra (tối đa
 5 người) thì bấm Đồng ý luôn, không hỏi — quy tắc cơ quan ưu tiên người đăng nhập sau (Bạn chốt 27/11/2026 lần 2); đóng tab; lưu `.txt` vào `van-ban-goc/` plugin chủ (ngoài lĩnh vực → vbhc-vn) để lần sau không lấy lại. WebFetch bị chặn ở
 thuvienphapluat.vn, luatnguyen, congbao.chinhphu.vn. Máy kiểm: `check_facts.py` rule `thuvienphapluat-khong-dung-webfetch`.
+Văn bản dài (27/11/2026, đã chạy được): fetch các trang trong Chrome, gộp vào textarea, ctrl+c, dán (ctrl+shift+v) vào Google Docs tạo bằng connector trong thư mục Drive "Văn bản QPPL tải từ thuvienphapluat" (id 1fgC7yr2I49TH7Te6Mu8KL--V-p7R8fwJ), rồi `download_file_content` text/plain. Lịch tự động: scheduled task "Lấy toàn văn văn bản QPPL mới" 15:43 thứ Ba (cần máy cơ quan bật, Chrome mở) đọc mục "CẦN BẠN TẢI VỀ" của `vlncn-laocai/theo-doi/ra-phap-luat/<ngày>.md` lượt 14:17, lấy toàn văn, lưu `van-ban-goc/`, sửa plugin, PR và merge.
 
 ## Quy tắc nghiệp vụ chung
 

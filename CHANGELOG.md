@@ -1,3 +1,8 @@
+## 27/11/2026 (lần 4) — Văn bản dài từ thuvienphapluat chuyển qua Google Docs (28 plugin)
+
+- **Cả 28 plugin** (bản vá): khối "Lấy toàn văn…" thêm bước (8b): fetch trang trong Chrome → textarea → ctrl+c → Google Docs trong thư mục Drive "Văn bản QPPL tải từ thuvienphapluat" → `download_file_content` text/plain. Lý do: javascript_tool chỉ trả ~1.100 ký tự, get_page_text 50.000 ký tự, máy ảo bị các trang luật chặn.
+- **CLAUDE.md**: bổ sung vào mục "Lấy toàn văn văn bản QPPL từ thuvienphapluat.vn"; lịch tự động thứ Ba 15:43.
+
 ## 27/11/2026 (lần 3) — Lượt cập nhật văn bản pháp luật mới, toàn văn lấy tự động từ thuvienphapluat.vn (6 plugin + máy kiểm)
 
 Nguồn danh sách: báo cáo rà pháp luật tuần 24/11/2026. Toàn văn lấy qua Chrome của Bạn (thuvienphapluat.vn), chuyển qua Google Docs, đối chiếu số, ngày trên văn bản. Chưa lấy được trong lượt này: TT 47/2026/TT-BNNMT, VBHN 116/2026/VBHN-TT-BCT.

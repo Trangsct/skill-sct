@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 1.16.2.
+
+# kho-vlncn-sct-vn 1.16.3 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.16.3.

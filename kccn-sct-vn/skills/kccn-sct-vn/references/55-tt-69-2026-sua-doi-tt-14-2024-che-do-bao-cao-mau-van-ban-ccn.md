@@ -1,5 +1,7 @@
 # 55 — Thông tư 69/2026/TT-BCT sửa đổi Thông tư 14/2024/TT-BCT (chế độ báo cáo, CSDL, mẫu văn bản CCN)
 
+> **Văn bản hợp nhất (bổ sung 27/11/2026):** Bộ Công Thương đã xác thực **VBHN 137/2026/VBHN-TT-BCT ngày 10/11/2026** hợp nhất TT 14/2024/TT-BCT và TT 69/2026/TT-BCT (phần sửa đổi có hiệu lực 18/12/2026). Toàn văn: `van-ban-goc/2026.11.10-137.2026.VBHN.TT.BCT-Hop-nhat-TT-14-2024-va-TT-69-2026-bao-cao-dinh-ky-CCN.txt`. Từ nay viện dẫn chế độ báo cáo định kỳ cụm công nghiệp dẫn **"Thông tư số 14/2024/TT-BCT, được sửa đổi, bổ sung bởi Thông tư số 69/2026/TT-BCT"**; dùng VBHN 137 để tra điều, khoản sau sửa (Điều 3 chế độ báo cáo; Điều 4 cơ sở dữ liệu; Điều 5 mẫu văn bản). Báo cáo năm 2026 của cụm công nghiệp theo biểu mới.
+
 - **Văn bản:** Thông tư số **69/2026/TT-BCT ngày 30/10/2026** của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số điều của
   Thông tư số 14/2024/TT-BCT ngày 15/8/2024 quy định chế độ báo cáo định kỳ về cụm công nghiệp, cơ sở dữ liệu cụm công nghiệp
   cả nước và một số mẫu văn bản về quản lý, phát triển cụm công nghiệp. Số, ngày đọc trên bản gốc (trang 1, chữ ký số Bộ Công

@@ -17,7 +17,7 @@
 | đ k1 | **100 triệu** | **thương mại; quản lý vật liệu nổ; điện lực**; đê điều; quảng cáo; công nghệ thông tin; xuất bản; in; hải quan; thủ tục thuế; kinh doanh bảo hiểm… |
 | i k1 | **500 triệu** | **xây dựng**; lâm nghiệp; **đất đai**; quản lý tổng hợp tài nguyên và BVMT biển, hải đảo; kinh doanh bất động sản |
 | k3 (mới) | theo **luật tương ứng** | thuế; đo lường; **an toàn thực phẩm; chất lượng sản phẩm, hàng hóa**; chứng khoán; cạnh tranh; kiểm toán độc lập; bảo vệ dữ liệu cá nhân |
-| (không sửa) | 1 tỷ | **khoáng sản; bảo vệ môi trường** (các điểm tương ứng k1 Đ24 bản Luật 67/2020 không bị Luật 88 sửa — khớp k1 Đ4 NĐ 36/2020 và Đ6 NĐ 45/2022) |
+| (không sửa) | 1 tỷ | **khoáng sản; bảo vệ môi trường** (các điểm tương ứng k1 Đ24 bản Luật 67/2020 không bị Luật 88 sửa — khớp k1 Đ4 NĐ 36/2020 và Đ6 NĐ 412/2026 — thay NĐ 45/2022 từ 14/11/2026) |
 
 → **Hệ quả cho K.1 ref 09 (GĐ Sở = 80% trần, k2 Đ6 NĐ 189):** khoáng sản, môi trường **800 tr / 1,6 tỷ**; **thương mại, VLNCN, điện lực 80 tr / 160 tr**; kinh doanh xăng dầu – khí: Điều 24 không có mục riêng → theo trần "thương mại" 100 tr (đúng với k3 Đ56 NĐ 99: tỉnh 100/200 tr với hành vi ngoài Chương II) → **80/160 tr**; ATTP, chất lượng SPHH: theo Luật ATTP / Luật CLSPHH, không dùng Điều 24. Hóa chất không có mục riêng tại Đ24 (thuộc nhóm điểm khác không sửa) — **đối chiếu Đ63 NĐ 275/2026 trước khi ghi mức GĐ Sở cho hóa chất/VLNCN** (ref 01-vlncn-hoachat).
 

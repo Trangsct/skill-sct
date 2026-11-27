@@ -32,7 +32,7 @@ kiến như sau:
 định số 628/QĐ-BCT ngày 07/3/2025 của Bộ Công Thương, hiện nay không còn thủ tục
 hành chính cấp giấy phép hoạt động trong phạm vi bảo vệ đập, hồ chứa thuỷ điện. Do
 đó, các hoạt động trong phạm vi bảo vệ đập, hồ chứa thuỷ điện không còn phải thực
-hiện thủ tục xin cấp giấy phép theo Nghị định số 114/2018/NĐ-CP.
+hiện thủ tục xin cấp giấy phép theo Nghị định số 114/2018/NĐ-CP. [Ghi chú 27/11/2026: NĐ 114/2018 được sửa bởi NĐ 402/2026/NĐ-CP, hiệu lực 20/12/2026 — đối chiếu `references/17` trước khi dùng câu này.]
 
   Điều 14 Nghị định số 67/2018/NĐ-CP ngày 14/5/2018 của Chính phủ, được sửa đổi,
 bổ sung tại khoản 6 Điều 1 Nghị định số 40/2023/NĐ-CP ngày 27/6/2023, quy định:

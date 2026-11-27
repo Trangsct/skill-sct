@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 1.11.3.
+
+# bvmt-sct-vn 1.12.0 — 27/11/2026 (lần 3) — Văn bản pháp luật mới lấy toàn văn từ thuvienphapluat.vn
+
+- NĐ 412/2026/NĐ-CP thay NĐ 45/2022: SKILL.md, README, ref 01, 02, 06 — mức phạt, Đ72, Đ77 k1 l (công thương chỉ Đ46 KNK), Đ80 k2; bỏ mục dự thảo sửa NĐ 45.
+- `plugin.json` → 1.12.0.

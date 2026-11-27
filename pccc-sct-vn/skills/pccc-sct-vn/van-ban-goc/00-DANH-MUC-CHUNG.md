@@ -7,14 +7,18 @@
 - Mỗi tệp gốc có bản trích chữ **cùng tên, đuôi `.txt`** đặt cạnh (cột *.txt*). Bản gốc ≥ 3 MB bị export-ignore, không vào gói claude.ai — khi đó **mở bản `.txt`**, không được trả lời "không mở được toàn văn".
 - Văn bản đã có ở đây thì **phải mở toàn văn để trích**; chỉ khi tra danh mục và chạy `tim_van_ban.py` đều không thấy mới được nói "chưa có bản gốc trong kho" và hướng dẫn Bạn nạp qua Hộp thư `_inbox/` trên GitHub.
 
-Thống kê: 371 văn bản gốc (371 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
+Thống kê: 376 văn bản gốc (376 có bản .txt) ở 20 plugin; 30 văn bản có số hiệu trong `vi-du-thuc-te/`. Sắp theo ngày ban hành giảm dần; không rõ ngày xếp cuối.
 
 ## Văn bản gốc (van-ban-goc/)
 
 | Số hiệu | Ngày | Tên | Plugin chủ | Đường dẫn | .txt |
 |---|---|---|---|---|---|
+| 418/2026/NĐ-CP | 20/11/2026 | Sua doi ND 143 2024 bao hiem tai nan lao dong tu nguyen | atvsld-sct-vn | `atvsld-sct-vn/skills/atvsld-sct-vn/van-ban-goc/2026.11.20-418.2026.ND.CP-Sua-doi-ND-143-2024-bao-hiem-tai-nan-lao-dong-tu-nguyen.txt` | có |
 | 415/2026/NĐ-CP | 19/11/2026 | Xu phat VPHC khoa hoc cong nghe chuyen giao cong nghe | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/2026.11.19-415.2026.ND.CP-Xu-phat-VPHC-khoa-hoc-cong-nghe-chuyen-giao-cong-nghe.docx` | có |
+| 412/2026/NĐ-CP | 14/11/2026 | Xu phat VPHC bao ve moi truong | xp-sct-vn | `xp-sct-vn/skills/xp-sct-vn/van-ban-goc/moi-truong/2026.11.14-412.2026.ND.CP-Xu-phat-VPHC-bao-ve-moi-truong.txt` | có |
 | 407/2026/NĐ | 12/11/2026 | CP Co che hoat dong tai chinh dac thu EVN | quy-hoach-ct-vn | `quy-hoach-ct-vn/skills/quy-hoach-ct-vn/van-ban-goc/2026.11.12-407.2026.ND-CP-Co-che-hoat-dong-tai-chinh-dac-thu-EVN.pdf` | có (OCR) |
+| 137/2026/VBHN-TT-BCT | 10/11/2026 | Hop nhat TT 14 2024 va TT 69 2026 bao cao dinh ky CCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.11.10-137.2026.VBHN.TT.BCT-Hop-nhat-TT-14-2024-va-TT-69-2026-bao-cao-dinh-ky-CCN.txt` | có |
+| 402/2026/NĐ-CP | 06/11/2026 | Sua doi ND 114 2018 quan ly an toan dap ho chua nuoc | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2026.11.06-402.2026.ND.CP-Sua-doi-ND-114-2018-quan-ly-an-toan-dap-ho-chua-nuoc.txt` | có |
 | 69/2026/TT | 30/10/2026 | BCT Sua doi TT 14 2024 bao cao CSDL mau van ban CCN | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.30-69.2026.TT-BCT-Sua-doi-TT-14-2024-bao-cao-CSDL-mau-van-ban-CCN.pdf` | có (OCR) |
 | 95/2026/QĐ-UBND | 29/10/2026 | Phong chong thien tai khu khai thac khoang san KCN cong trinh | qlks-sct-vn | `qlks-sct-vn/skills/qlks-sct-vn/van-ban-goc/2026.10.29-95.2026.QD.UBND-Phong-chong-thien-tai-khu-khai-thac-khoang-san-KCN-cong-trinh.pdf` | có (OCR) |
 | 3936/QĐ-HD | 22/10/2026 | Tieu chi lua chon CDT CCN Tan Hop | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/2026.10.22-3936.QD.HD-Tieu-chi-lua-chon-CDT-CCN-Tan-Hop.pdf` | có |
@@ -27,6 +31,7 @@ Thống kê: 371 văn bản gốc (371 có bản .txt) ở 20 plugin; 30 văn b�
 | 3556/QĐ-UBND | 30/09/2026 | ban hanh Quy che du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/QD-3556-QD-UBND-30-9-2026-ban-hanh-Quy-che-du-lieu-TNMT.pdf` | có |
 | — | 30/09/2026 | Quy che kem QD 3556 QD UBND 30 9 2026 du lieu TNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/tinh/Quy-che-kem-QD-3556-QD-UBND-30-9-2026-du-lieu-TNMT.pdf` | có |
 | 9387/UBND-KT | 15/09/2026 | UBND tinh trien khai CTr 104 giao So NNMT | bvmt-sct-vn | `bvmt-sct-vn/skills/bvmt-sct-vn/van-ban-goc/dang/CV-9387-UBND-KT-15-9-2026-UBND-tinh-trien-khai-CTr-104-giao-So-NNMT.pdf` | có |
+| 356/2026/NĐ-CP | 14/09/2026 | Bai bo mot so nghi dinh cua Chinh phu | vbhc-vn | `vbhc-vn/skills/vbhc-vn/van-ban-goc/2026.09.14-356.2026.ND.CP-Bai-bo-mot-so-nghi-dinh-cua-Chinh-phu.txt` | có |
 | 50/2026/TT-BCT | 13/09/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.09.13-TT-50-2026-TT-BCT.pdf` | có (OCR) |
 | 351/2026/NĐ-CP | 11/09/2026 |  | sct-laocai-org-vn | `sct-laocai-org-vn/skills/sct-laocai-org-vn/van-ban-goc/2026.09.11-ND-351-2026-ND-CP.pdf` | có |
 | 257/QĐ-BQLCKCN | 10/09/2026 | dieu chinh CTDT lan 3 Mundus TEXT | kccn-sct-vn | `kccn-sct-vn/skills/kccn-sct-vn/van-ban-goc/QD-257-QD-BQLCKCN-10-9-2026-dieu-chinh-CTDT-lan-3-Mundus-TEXT.txt` | có |

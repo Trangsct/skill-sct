@@ -15,3 +15,8 @@
 - check_facts: rule `quy-che-lam-viec-tinh-uy-02-qc-tu-da-thay`, `quy-che-19-qc-tu-sai-nam`.
 - trang-thai: ccn-tan-hop (7984/BC-SCT, 8011/TTr-SCT, 1932/VPUBND-KT); tạo thanh-lap-cum-cong-nghiep-ban-phiet-1.
 - `plugin.json` → 1.71.3.
+
+# kccn-sct-vn 1.72.0 — 27/11/2026 (lần 3) — Văn bản pháp luật mới lấy toàn văn từ thuvienphapluat.vn
+
+- VBHN 137/2026/VBHN-TT-BCT ngày 10/11/2026 (hợp nhất TT 14/2024 + TT 69/2026): toàn văn vào van-ban-goc, ghi chú ref 55, SKILL.md; ref 34: NĐ 145/2025 bị bãi bỏ từ 01/12/2026 (NĐ 356/2026).
+- `plugin.json` → 1.72.0.

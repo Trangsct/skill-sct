@@ -52,7 +52,7 @@ Phân biệt: KCN Minh Quân (160 ha, phường Âu Lâu) KHÁC **CCN Minh Quân
 
 ## E. BỘ CĂN CỨ PHÁP LÝ LẬP QHPK KCN (theo TB 76 — dùng lại khi soạn văn bản cùng loại)
 
-Luật Quy hoạch đô thị và nông thôn 47/2024/QH15 (26/11/2024) + Luật 144/2025/QH15 sửa đổi; Luật Xây dựng 135/2025; NĐ 35/2022/NĐ-CP (quản lý KCN, KKT); NĐ 145/2025/NĐ-CP (phân định thẩm quyền 02 cấp lĩnh vực QHĐT&NT); NĐ 178/2025/NĐ-CP (01/7/2025) + NĐ 34/2026/NĐ-CP (22/01/2026) sửa đổi; TT 16/2025/TT-BXD (30/6/2025) + TT 43/2025/TT-BXD (09/12/2025) sửa đổi; TT 17/2025/TT-BXD (định mức chi phí quy hoạch); QCVN 01:2021/BXD; QĐ 16/2025/QĐ-UBND (chức năng BQLCKCN); QĐ 525/QĐ-UBND (ranh giới theo quy hoạch tỉnh).
+Luật Quy hoạch đô thị và nông thôn 47/2024/QH15 (26/11/2024) + Luật 144/2025/QH15 sửa đổi; Luật Xây dựng 135/2025; NĐ 35/2022/NĐ-CP (quản lý KCN, KKT); NĐ 145/2025/NĐ-CP (phân định thẩm quyền 02 cấp lĩnh vực QHĐT&NT — **bị bãi bỏ toàn bộ từ 01/12/2026** theo khoản 1 Điều 1 NĐ 356/2026/NĐ-CP ngày 14/9/2026; từ 01/12/2026 không viện dẫn nữa); NĐ 178/2025/NĐ-CP (01/7/2025) + NĐ 34/2026/NĐ-CP (22/01/2026) sửa đổi; TT 16/2025/TT-BXD (30/6/2025) + TT 43/2025/TT-BXD (09/12/2025) sửa đổi; TT 17/2025/TT-BXD (định mức chi phí quy hoạch); QCVN 01:2021/BXD; QĐ 16/2025/QĐ-UBND (chức năng BQLCKCN); QĐ 525/QĐ-UBND (ranh giới theo quy hoạch tỉnh).
 
 ⚠️ BẪY SỐ HIỆU trong bản gốc TB 76 — biết để KHÔNG chép lại khi soạn văn bản mới:
 - Ghi "Luật xây dựng số 135/2026/QH15 ngày 10/12/2025" — số đúng là **Luật Xây dựng 135/2025/QH15** (thống nhất toàn hệ sinh thái plugin; xem xd-sct-vn). Khi trích nguyên văn TB 76 thì giữ, khi tự viện dẫn thì dùng số đúng.

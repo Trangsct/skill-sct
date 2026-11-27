@@ -29,7 +29,7 @@
 **Quy tắc áp dụng:**
 1. Lĩnh vực xác định theo **nghị định điều chỉnh hành vi**, không theo tên đoàn kiểm tra hay mục trong kết luận thanh tra. Nổ mìn tại mỏ vẫn là VLNCN (01 năm), không phải "hoạt động khoáng sản khác" (02 năm).
 2. **Mốc tính:** hành vi đã kết thúc → từ thời điểm chấm dứt; đang thực hiện → từ thời điểm phát hiện (điểm b khoản 1 Điều 6). Hành vi dạng *không thực hiện nghĩa vụ* (không báo cáo, không lắp trạm cân, kho không đạt quy chuẩn còn đang tồn tại) là hành vi **đang thực hiện** — thời hiệu chỉ bắt đầu khi phát hiện → hầu như luôn còn thời hiệu.
-3. Nhiều nghị định tự quy định cách xác định thời điểm chấm dứt cho từng hành vi (NĐ 16/2022 xây dựng Đ5; NĐ 45/2022 môi trường Đ5; NĐ 123/2024 đất đai Đ3) → đọc điều "thời hiệu" của nghị định chuyên ngành trước khi kết luận.
+3. Nhiều nghị định tự quy định cách xác định thời điểm chấm dứt cho từng hành vi (NĐ 16/2022 xây dựng Đ5; NĐ 412/2026 môi trường Đ5; NĐ 123/2024 đất đai Đ3) → đọc điều "thời hiệu" của nghị định chuyên ngành trước khi kết luận.
 4. Cố tình trốn tránh, cản trở → thời hiệu tính lại từ khi chấm dứt trốn tránh (điểm d khoản 1 Điều 6).
 5. **Hết thời hiệu:** không lập biên bản VPHC, không ra QĐ xử phạt (điểm c khoản 1 Điều 65); vẫn có thể áp dụng biện pháp khắc phục hậu quả / tịch thu tang vật cấm (khoản 2 Điều 65) bằng quyết định riêng, ghi rõ lý do không xử phạt.
 
@@ -52,7 +52,7 @@
 ## D. Nguyên tắc xác định hành vi và mức phạt
 
 1. **Một hành vi chỉ phạt một lần**; nhiều hành vi → phạt từng hành vi; **vi phạm nhiều lần** là tình tiết tăng nặng nếu nghị định quy định, nếu không thì phạt từng lần (khoản 1 Điều 3; điểm b khoản 1 Điều 10).
-2. **Tổ chức = 2 × cá nhân** cho cùng hành vi (điểm e khoản 1 Điều 3). Mức trong nghị định là mức cá nhân trừ khi nghị định nói khác (NĐ 275/2026 Đ4; NĐ 45/2022 Đ6; NĐ 16/2022 Đ4…). Xác định thẩm quyền theo mức **đã nhân đôi**.
+2. **Tổ chức = 2 × cá nhân** cho cùng hành vi (điểm e khoản 1 Điều 3). Mức trong nghị định là mức cá nhân trừ khi nghị định nói khác (NĐ 275/2026 Đ4; NĐ 412/2026 Đ6; NĐ 16/2022 Đ4…). Xác định thẩm quyền theo mức **đã nhân đôi**.
 3. **Mức phạt cụ thể = trung bình khung** khi không có tăng nặng/giảm nhẹ; có giảm nhẹ → giảm dần đến tối thiểu; tăng nặng → tăng dần đến tối đa (khoản 4 Điều 23; Điều 9 NĐ 118). Sở ghi bằng số + bằng chữ, làm tròn theo khung.
 4. **Tình tiết giảm nhẹ** (Điều 9): tự nguyện khắc phục, khai báo thành khẩn, ngăn chặn/giảm bớt hậu quả, vi phạm lần đầu do lỗi vô ý… **Tăng nặng** (Điều 10): có tổ chức, nhiều lần, tái phạm, xúi giục, lăng mạ người thi hành công vụ, trốn tránh, che giấu… Chỉ ghi khi có chứng cứ trong biên bản.
 5. **Nhiều hành vi thuộc nhiều nghị định** (ví dụ kho VLNCN vừa vi phạm NĐ 275/2026 vừa vi phạm PCCC NĐ 106/2025): mỗi hành vi lập theo nghị định của nó; nếu tổng vụ việc vượt thẩm quyền của GĐ Sở ở **bất kỳ** hành vi nào hoặc có hành vi thuộc lực lượng khác → chuyển toàn bộ vụ việc lên Chủ tịch UBND tỉnh (khoản 4 Điều 52) hoặc tách hành vi chuyển đúng cơ quan, ghi rõ trong biên bản.

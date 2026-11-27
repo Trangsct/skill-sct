@@ -43,7 +43,7 @@
    - **Điều 38**: chuyển tiếp (hồ sơ đã tiếp nhận xử lý theo quy định cũ; GPMT đã cấp mà không còn thuộc đối tượng → dùng đến hết hạn; Chủ tịch tỉnh tiếp quản cấp/điều chỉnh/cấp lại GPMT các hồ sơ vốn thuộc Bộ/UBND huyện cũ).
    - **Điều 39**: hiệu lực từ ngày ký; **bãi bỏ** khoản 2 Điều 31 + Mục 8 Chương III NĐ 131/2025/NĐ-CP và một số điều NĐ 136/2025/NĐ-CP (chấm dứt cơ chế cấp xã cấp GPMT).
    Khi viện dẫn quy trình ĐTM/GPMT: **ưu tiên dùng văn bản hợp nhất NĐ 08/2022 nếu đã gộp đến NĐ 48/2026; nếu chưa có bản hợp nhất thì đọc song song 3 nghị định** (08/2022 → 05/2025 → 48/2026), câu chữ NĐ 48 thắng.
-8. **NĐ 45/2022/NĐ-CP** ngày 07/7/2022 — xử phạt VPHC trong lĩnh vực BVMT (thay NĐ 155/2016 và NĐ 55/2021). Mức phạt tối đa 01 tỷ đồng (cá nhân) / 02 tỷ đồng (tổ chức). **Đang có DỰ THẢO Nghị định sửa đổi** (tăng chế tài, cập nhật chức danh xử phạt, bổ sung chế tài KNK) — **chưa ban hành**; không viện dẫn số/ngày bản sửa khi chưa có.
+8. **NĐ 412/2026/NĐ-CP** ngày 14/11/2026 (hiệu lực từ ngày ký) — xử phạt VPHC trong lĩnh vực BVMT, **thay NĐ 45/2022/NĐ-CP** (NĐ 45/2022 hết hiệu lực từ 14/11/2026 — lịch sử). Mức tối đa 01 tỷ (cá nhân) / 02 tỷ (tổ chức). Sở Công Thương không có thẩm quyền xử phạt, lập biên bản (Đ72, Đ77 k1 l, Đ80 k2).
 
 ## C. Thông tư hướng dẫn BVMT
 
@@ -110,7 +110,7 @@
 | TT 02/2022 → TT 07/2025/TT-BTNMT → TT 09/2026 | Hiệu lực (bản hợp nhất) | Bản sau cùng TT 09/2026/TT-BNNMT (29/01/2026) |
 | TT 07/2025/TT-BNNMT (phân cấp MT-BĐKH) | **HẾT HIỆU LỰC** từ 29/01/2026 | Bị bãi bỏ bởi TT 09/2026/TT-BNNMT |
 | NĐ 131/2025 (khoản 2 Điều 31, Mục 8 Ch. III) và một phần NĐ 136/2025 | **BỊ BÃI BỎ** từ 29/01/2026 | Bãi bỏ bởi Điều 39 NĐ 48/2026 — chấm dứt cấp xã cấp GPMT |
-| NĐ 45/2022 (xử phạt) | Hiệu lực | Dự thảo sửa đổi — CHƯA ban hành |
+| NĐ 45/2022 (xử phạt) | Hết hiệu lực 14/11/2026 (lịch sử) | Thay bằng NĐ 412/2026/NĐ-CP ngày 14/11/2026 |
 | NĐ 06/2022 → NĐ 119/2025 → NĐ 83/2026 | Hiệu lực (VBHN 48/VBHN-BNNMT 15/4/2026) | KNK; NĐ 83/2026 chỉ sửa phần ô-dôn |
 | QĐ 13/2024/QĐ-TTg (danh mục cơ sở kiểm kê) | **HẾT HIỆU LỰC từ 25/9/2026** | Thay bởi QĐ 42/2026/QĐ-TTg ngày 10/8/2026 |
 | TT 01/2022/TT-BTNMT → TT 08/2025/TT-BNNMT | Hiệu lực (bản hợp nhất) | Ứng phó BĐKH; rà soát báo cáo cấp cơ sở Điều 12, 13 |

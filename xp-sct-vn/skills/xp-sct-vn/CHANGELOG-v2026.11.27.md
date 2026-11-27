@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 1.9.3.
+
+# xp-sct-vn 1.10.0 — 27/11/2026 (lần 3) — Văn bản pháp luật mới lấy toàn văn từ thuvienphapluat.vn
+
+- NĐ 412/2026/NĐ-CP (thay NĐ 45/2022): ref 09 mục E viết lại theo bản gốc (Đ5, 6, 15 k3, 72, 77 k1 l, 80 k2, 85, 86); ref 06 mục B, 00, 03, 08, 10, 90, checklist 03, 05, INDEX: Sở Công Thương không có thẩm quyền xử phạt, không lập biên bản môi trường từ 14/11/2026; mẫu 13 bỏ nhánh môi trường; lưu toàn văn .txt vào van-ban-goc/moi-truong/.
+- `plugin.json` → 1.10.0.

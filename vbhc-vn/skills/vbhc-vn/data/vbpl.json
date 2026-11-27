@@ -157,6 +157,10 @@
       "ngay_hieu_luc": "2026-05-25",
       "ghi_chu": "Xử phạt điện lực — QLNL; hiệu lực máy trích từ ND-133-2026-NDCP-xu-phat-dien-luc.txt"
     },
+    "NĐ 145/2025": {
+      "bi_thay_the_boi": "Bãi bỏ toàn bộ từ 01/12/2026 (NĐ 356/2026)",
+      "ghi_chu": "Phân định thẩm quyền chính quyền địa phương 02 cấp lĩnh vực quy hoạch đô thị và nông thôn; đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc)"
+    },
     "NĐ 146/2025": {
       "ngay_ban_hanh": "2025-06-12",
       "ngay_hieu_luc": "2025-07-01",
@@ -320,7 +324,7 @@
     "NĐ 356/2026": {
       "ngay_ban_hanh": "2026-09-14",
       "ngay_hieu_luc": "2026-12-01",
-      "ghi_chu": "Bãi bỏ toàn bộ 18 nghị định (danh sách chưa đọc được); rà mạng 24/11/2026, nguồn luatvietnam.vn, vanban.org; cần bản gốc để kiểm plugin có dẫn nghị định bị bãi bỏ không"
+      "ghi_chu": "Bãi bỏ toàn bộ 18 nghị định (có NĐ 145/2025/NĐ-CP phân định thẩm quyền QHĐT&NT, NĐ 33/2015 thực hiện kết luận thanh tra, NĐ 97/2011 thanh tra viên) và một phần 6 nghị định (Đ13 NĐ 35/2023, Đ6–7 NĐ 22/2023, k3 Đ39 NĐ 121/2025, Đ32 NĐ 148/2025…); đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc); bản gốc vbhc-vn/van-ban-goc"
     },
     "NĐ 36/2020": {
       "ngay_ban_hanh": "2020-03-24",
@@ -348,6 +352,11 @@
       "ngay_hieu_luc": "2022-01-06",
       "ghi_chu": "Sửa NĐ 91/2019, NĐ 36/2020 — bản gốc xp-sct-vn/van-ban-goc/khoang-san"
     },
+    "NĐ 402/2026": {
+      "ngay_ban_hanh": "2026-11-06",
+      "ngay_hieu_luc": "2026-12-20",
+      "ghi_chu": "Sửa NĐ 114/2018/NĐ-CP quản lý an toàn đập, hồ chứa nước; bỏ cụm Sở Công Thương báo cáo vận hành hồ chứa thủy điện (k5 Đ13); Sở Công Thương được lấy ý kiến phương án cắm mốc chỉ giới đập thủy điện (Đ24 sửa); đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc); bản gốc qlks-sct-vn/van-ban-goc"
+    },
     "NĐ 407/2026": {
       "ngay_ban_hanh": "2026-11-12",
       "ngay_hieu_luc": "2026-12-28",
@@ -356,7 +365,7 @@
     "NĐ 412/2026": {
       "ngay_ban_hanh": "2026-11-14",
       "ngay_hieu_luc": "2026-11-14",
-      "ghi_chu": "Xử phạt vi phạm hành chính lĩnh vực bảo vệ môi trường (4 chương, 87 điều); thay NĐ 45/2022/NĐ-CP; rà mạng 24/11/2026, nguồn chinhphu.vn (docid 220307), nhandan.vn, luatvietnam.vn; chưa đối chiếu bản gốc — cần bản gốc để rà xp-sct-vn, bvmt-sct-vn (thẩm quyền lập biên bản, Điều khoản Sở Công Thương)"
+      "ghi_chu": "Xử phạt VPHC lĩnh vực bảo vệ môi trường (4 chương, 87 điều); thay NĐ 45/2022/NĐ-CP (k2 Đ86); Sở Công Thương không có chức danh xử phạt (Đ72), không có trong danh sách lập biên bản (Đ80 k2); cơ quan kiểm tra chuyên ngành công thương chỉ xử Đ46 KNK (Đ77 k1 l); đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc); bản gốc xp-sct-vn/van-ban-goc/moi-truong"
     },
     "NĐ 415/2026": {
       "ngay_ban_hanh": "2026-11-19",
@@ -364,8 +373,9 @@
       "ghi_chu": "đã đối chiếu bản gốc (sao y 1229/SY-VPUBND); thay NĐ 51/2019/NĐ-CP và Điều 3 NĐ 126/2021/NĐ-CP; bản gốc xp-sct-vn/van-ban-goc"
     },
     "NĐ 418/2026": {
+      "ngay_ban_hanh": "2026-11-20",
       "ngay_hieu_luc": "2027-01-05",
-      "ghi_chu": "Sửa NĐ 143/2024/NĐ-CP về bảo hiểm tai nạn lao động tự nguyện; UBND cấp xã báo cáo tai nạn lao động chết người hoặc từ 2 người bị thương nặng trong 24 giờ cho cơ quan chuyên môn ATVSLĐ cấp tỉnh; ngày ký 20/11/2026 theo một nguồn; rà mạng 24/11/2026, nguồn nhandan.vn, luatvietnam.vn, vietnamplus.vn; chưa đối chiếu bản gốc"
+      "ghi_chu": "Sửa NĐ 143/2024/NĐ-CP (bảo hiểm tai nạn lao động tự nguyện); Đ4 sửa điểm b k2 Đ18: UBND cấp xã báo tai nạn lao động chết người, từ 02 người bị thương nặng trong 24 giờ cho cơ quan chuyên môn ATVSLĐ cấp tỉnh và Công an xã; đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc); bản gốc atvsld-sct-vn/van-ban-goc"
     },
     "NĐ 45/2022": {
       "ngay_ban_hanh": "2022-07-07",
@@ -2800,6 +2810,11 @@
       "ngay_ban_hanh": "2026-10-30",
       "ngay_hieu_luc": "2026-12-18",
       "ghi_chu": "Sửa đổi TT 14/2024/TT-BCT về CCN; bãi bỏ Điều 29 TT 38/2025/TT-BCT; bản gốc kccn-sct-vn/van-ban-goc (đối chiếu 05/11/2026)"
+    },
+    "VBHN 137/2026": {
+      "ngay_ban_hanh": "2026-11-10",
+      "ngay_hieu_luc": "2026-12-18",
+      "ghi_chu": "Hợp nhất TT 14/2024/TT-BCT và TT 69/2026/TT-BCT — chế độ báo cáo định kỳ, CSDL, mẫu văn bản cụm công nghiệp; đối chiếu bản gốc 27/11/2026 (toàn văn thuvienphapluat.vn trong van-ban-goc); bản gốc kccn-sct-vn/van-ban-goc"
     },
     "VBHN 137/2026/VBHN-TT-BCT": {
       "ghi_chu": "Bộ Công Thương hợp nhất TT 14/2024/TT-BCT và TT 69/2026/TT-BCT (báo cáo định kỳ, cơ sở dữ liệu, mẫu văn bản cụm công nghiệp); ngày 10/11/2026 theo một nguồn; phần sửa đổi hiệu lực 18/12/2026; rà mạng 24/11/2026, nguồn moit.gov.vn, datafiles.chinhphu.vn; chưa đối chiếu bản gốc"

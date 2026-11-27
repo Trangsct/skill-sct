@@ -13,4 +13,4 @@ Nghiệp vụ: `hc-sct-vn`; hành vi: `references/01-vlncn-hoachat/03` (NĐ 275/
 | Khai báo hóa chất nhập khẩu; báo cáo định kỳ hoạt động hóa chất (CSDL hóa chất) | NĐ 24/2026 | Tài khoản CSDL; báo cáo | **Đ25** (CSDL), Đ7–14 | XỬ |
 | Vận chuyển hóa chất nguy hiểm: GP HHNH, người áp tải, lái xe tập huấn | NĐ 161/2024 | GP, GCN | Giao thông → NĐ 168/2024 (CHUYỂN); hóa chất → XỬ | Tách hành vi |
 | Kiểm định thiết bị áp lực, bồn (nếu có) | Luật ATVSLĐ | GCN kiểm định | NĐ 283/2026 ⚠️ | CHUYỂN Sở Nội vụ (trừ thiết bị đặc thù CT) |
-| Chất thải nguy hại, nước thải: sổ chủ nguồn thải, hợp đồng xử lý | Luật BVMT | Hồ sơ | NĐ 45/2022 ⚠️ | CHUYỂN SNNMT |
+| Chất thải nguy hại, nước thải: sổ chủ nguồn thải, hợp đồng xử lý | Luật BVMT | Hồ sơ | NĐ 412/2026 | CHUYỂN SNNMT |

@@ -23,16 +23,16 @@ Nghiệp vụ: `qlks-sct-vn` (đặc biệt reference 02 phân vai, 08 kiểm tr
 
 ## B. Bảo vệ môi trường
 
-**Nghị định:** **NĐ 45/2022/NĐ-CP** (07/7/2022; bản gốc `van-ban-goc/moi-truong/`) — hiện hành; dự thảo thay thế đang thẩm định (6/2026). **Đã đối chiếu: thời hiệu 02 năm (Đ5); Điều 64 k4 Chánh Thanh tra Sở CT 50 tr, tước GP, đình chỉ; Điều 68 phân định: thanh tra công thương chỉ xử Điều 45 (giảm nhẹ phát thải KNK) và Điều 46 (bảo vệ tầng ô-dôn); Điều 71 lập biên bản không có công chức Sở CT (trừ tư cách người có thẩm quyền theo Đ64 với Đ45, 46)**. Khoản 3 Điều 15 (hạ tầng CCN) chép nguyên văn tại `references/09` mục E.
+**Nghị định:** **NĐ 412/2026/NĐ-CP** ngày 14/11/2026, hiệu lực từ ngày ký, **thay NĐ 45/2022/NĐ-CP** (bản gốc `van-ban-goc/moi-truong/2026.11.14-412...txt`). **Đã đối chiếu: thời hiệu 02 năm (Đ5); Đ72 không có chức danh Giám đốc Sở Công Thương (chỉ QLTT và hai Cục của Bộ); Đ77 k1 điểm l: cơ quan kiểm tra chuyên ngành công thương chỉ xử Điều 46 (KNK); Đ80 k2 lập biên bản không nêu công chức Sở Công Thương → mọi hành vi môi trường Sở phát hiện đều CHUYỂN.** Khoản 3 Điều 15 (hạ tầng CCN) tại `references/09` mục E. NĐ 45/2022 (Đ64 k4, Đ68 chỉ Đ45, 46) là lịch sử trước 14/11/2026.
 
-| Hành vi Sở hay gặp | Điều NĐ 45/2022 (định vị) | Cơ quan | Sở Công Thương |
+| Hành vi Sở hay gặp | Điều NĐ 412/2026 (định vị) | Cơ quan | Sở Công Thương |
 |---|---|---|---|
 | Không có GPMT; vận hành thử nghiệm không thông báo; không thực hiện đúng nội dung GPMT (thẩm quyền tỉnh) | Điều 11, 14 | SNNMT, Chủ tịch UBND, Công an môi trường | Sở là ủy viên Hội đồng GPMT (`bvmt-sct-vn/08`) → phát hiện khi họp hội đồng, khi kiểm tra chuyên ngành → chuyển |
 | CCN không có hệ thống XLNT tập trung; tiếp nhận dự án thứ cấp không đúng | Điều 15 | SNNMT | Reference 03; Sở dừng xác nhận tiếp nhận dự án |
 | Xả nước thải/khí thải vượt quy chuẩn (Tằng Loỏng, nhà máy hóa chất, luyện kim) | Điều 18–20 (mức theo lần vượt và lưu lượng) | SNNMT, Công an | Sở chỉ ghi nhận hiện trạng bằng mắt thường; **không lấy mẫu** (không có thẩm quyền, không có năng lực quan trắc) — kiến nghị SNNMT quan trắc |
-| Chất thải nguy hại: không sổ đăng ký chủ nguồn thải, không hợp đồng xử lý (KL 45 ghi nhận đủ) | Điều 29 | SNNMT | Chuyển |
-| Không ký quỹ cải tạo, phục hồi môi trường | Điều 37 | SNNMT | Chuyển |
-| **Sự cố hóa chất gây ô nhiễm** (rò rỉ NH3, HNO3, tràn axit khi vận chuyển) | NĐ 45/2022 (môi trường) + NĐ 275/2026 (hóa chất: không có kế hoạch/biện pháp phòng ngừa, ứng phó) | SNNMT + **Sở CT** | **Phần hóa chất Sở phạt được**; phần ô nhiễm chuyển SNNMT; phối hợp theo `bvmt-sct-vn/06`, `hc-sct-vn` |
+| Chất thải nguy hại: không sổ đăng ký chủ nguồn thải, không hợp đồng xử lý (KL 45 ghi nhận đủ) | Điều 30 | SNNMT | Chuyển |
+| Không ký quỹ cải tạo, phục hồi môi trường | Điều 43 (ký quỹ), Điều 39 (cải tạo, phục hồi) | SNNMT | Chuyển |
+| **Sự cố hóa chất gây ô nhiễm** (rò rỉ NH3, HNO3, tràn axit khi vận chuyển) | NĐ 412/2026 (môi trường, Đ41 sự cố chất thải) + NĐ 275/2026 (hóa chất: không có kế hoạch/biện pháp phòng ngừa, ứng phó) | SNNMT + **Sở CT** | **Phần hóa chất Sở phạt được**; phần ô nhiễm chuyển SNNMT; phối hợp theo `bvmt-sct-vn/06`, `hc-sct-vn` |
 
 ## C. Viết văn bản chuyển hồ sơ — 5 thành phần bắt buộc (`mau-van-ban/09`)
 

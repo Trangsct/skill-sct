@@ -12,6 +12,6 @@ Nghiệp vụ: `qlks-sct-vn/02, 08, 20`; thiết kế mỏ `tkm-sct-vn`. Sở **
 | Đối chiếu: lượng VLNCN sử dụng (kg) × hệ số PANM ↔ sản lượng nguyên khai báo cáo; trạm cân, camera (KL 45: không lắp trạm cân) | Luật ĐC&KS Đ…; PANM | Sổ VLNCN; báo cáo sản lượng; trạm cân | Lệch → dấu hiệu khai sai sản lượng/ vượt công suất: NĐ 36/2020 Đ40, 41 ⚠️ | CHUYỂN SNNMT + Thuế kèm bảng đối chiếu |
 | Đăng ký ngày bắt đầu XDCB, ngày bắt đầu khai thác; báo cáo định kỳ hoạt động khai thác; thống kê, kiểm kê trữ lượng | Luật ĐC&KS | Văn bản | NĐ 36/2020 Đ40 ⚠️ | CHUYỂN |
 | Chế biến: đúng công nghệ, nguồn gốc khoáng sản đầu vào (hóa đơn, hợp đồng) | `qlks-sct-vn/06` | Hồ sơ | NĐ 98/2020 ⚠️ (không nguồn gốc) | Chi cục QLTT |
-| Môi trường: GPMT/ĐTM, ký quỹ phục hồi, chất thải nguy hại, bãi thải, đập thải | Luật BVMT | Hồ sơ | NĐ 45/2022 ⚠️ | CHUYỂN SNNMT |
+| Môi trường: GPMT/ĐTM, ký quỹ phục hồi, chất thải nguy hại, bãi thải, đập thải | Luật BVMT | Hồ sơ | NĐ 412/2026 | CHUYỂN SNNMT |
 | PCCC kho VLNCN, kho xăng dầu tại mỏ (điểm g, h) | NĐ 105/2025 | checklist 06 | NĐ 106/2025 ⚠️ | Kiến nghị Công an |
 | Kết thúc GP (như Viglacera 24/4/2026): đóng cửa mỏ, trả đất, xử lý VLNCN tồn kho (bán lại/tiêu hủy), thu hồi GP VLNCN | Luật ĐC&KS; Luật 42/2024 | Văn bản | VLNCN tồn không xử lý: điểm c k6 Đ60 NĐ 275 | XỬ phần VLNCN; CHUYỂN phần mỏ |

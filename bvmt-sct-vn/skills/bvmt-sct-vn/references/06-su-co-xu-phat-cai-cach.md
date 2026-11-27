@@ -22,8 +22,8 @@
 ## PHẦN II — XỬ PHẠT VI PHẠM HÀNH CHÍNH VỀ MÔI TRƯỜNG
 
 ### 4. Văn bản
-- **NĐ 45/2022/NĐ-CP** (07/7/2022) — xử phạt VPHC trong lĩnh vực BVMT. Mức phạt tối đa **01 tỷ đồng (cá nhân) / 02 tỷ đồng (tổ chức)** cho một hành vi; thời hiệu **02 năm**.
-- **DỰ THẢO** Nghị định sửa đổi NĐ 45/2022 (đang lấy ý kiến, **chưa ban hành**): dự kiến tăng mạnh chế tài (ô nhiễm đất/nước/khí, tăng 20–50% mức cơ bản), bổ sung chế tài **KNK và trách nhiệm tái chế**, cập nhật chức danh xử phạt do thay đổi cơ cấu tổ chức. **Không viện dẫn số/ngày bản sửa khi chưa ban hành.**
+- **NĐ 412/2026/NĐ-CP** ngày 14/11/2026, hiệu lực từ ngày ký — xử phạt VPHC trong lĩnh vực BVMT, **thay NĐ 45/2022/NĐ-CP** (4 chương, 87 điều; toàn văn `xp-sct-vn/van-ban-goc/moi-truong/2026.11.14-412...txt`). Mức tối đa **01 tỷ (cá nhân) / 02 tỷ (tổ chức)** (Đ6). Thẩm quyền của ngành Công Thương: **Đ72** chỉ có QLTT (Đội trưởng Đội QLTT 300 tr; Chi cục trưởng 500 tr) và Cục KTAT&MTCN, Cục QLPTTTTN, Trưởng đoàn kiểm tra của Bộ — **không có chức danh Giám đốc Sở Công Thương**; **Đ77 k1 điểm l**: cơ quan kiểm tra chuyên ngành công thương chỉ xử **Điều 46 (giảm nhẹ phát thải KNK)**; **Đ80 k2** lập biên bản không nêu công chức Sở Công Thương. → Sở phát hiện vi phạm môi trường qua kiểm tra thì ghi nhận hiện trạng, **chuyển Sở NN&MT / Chủ tịch UBND**.
+- Dự thảo sửa NĐ 45/2022 (lấy ý kiến 6/2026) nay đã ban hành thành NĐ 412/2026/NĐ-CP — lịch sử.
 
 ### 5. Vai trò Sở Công Thương
 - **Không phải** cơ quan xử phạt môi trường chủ lực (chủ lực: Sở NN&MT, Công an môi trường, UBND các cấp, Thanh tra).

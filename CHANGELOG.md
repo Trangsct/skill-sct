@@ -1,3 +1,15 @@
+## 27/11/2026 (lần 3) — Lượt cập nhật văn bản pháp luật mới, toàn văn lấy tự động từ thuvienphapluat.vn (6 plugin + máy kiểm)
+
+Nguồn danh sách: báo cáo rà pháp luật tuần 24/11/2026. Toàn văn lấy qua Chrome của Bạn (thuvienphapluat.vn), chuyển qua Google Docs, đối chiếu số, ngày trên văn bản. Chưa lấy được trong lượt này: TT 47/2026/TT-BNNMT, VBHN 116/2026/VBHN-TT-BCT.
+
+- **xp-sct-vn 1.10.0**: NĐ 412/2026/NĐ-CP (thay NĐ 45/2022): ref 09 mục E viết lại theo bản gốc (Đ5, 6, 15 k3, 72, 77 k1 l, 80 k2, 85, 86); ref 06 mục B, 00, 03, 08, 10, 90, checklist 03, 05, INDEX: Sở Công Thương không có thẩm quyền xử phạt, không lập biên bản môi trường từ 14/11/2026; mẫu 13 bỏ nhánh môi trường; lưu toàn văn .txt vào van-ban-goc/moi-truong/.
+- **bvmt-sct-vn 1.12.0**: NĐ 412/2026/NĐ-CP thay NĐ 45/2022: SKILL.md, README, ref 01, 02, 06 — mức phạt, Đ72, Đ77 k1 l (công thương chỉ Đ46 KNK), Đ80 k2; bỏ mục dự thảo sửa NĐ 45.
+- **kccn-sct-vn 1.72.0**: VBHN 137/2026/VBHN-TT-BCT ngày 10/11/2026 (hợp nhất TT 14/2024 + TT 69/2026): toàn văn vào van-ban-goc, ghi chú ref 55, SKILL.md; ref 34: NĐ 145/2025 bị bãi bỏ từ 01/12/2026 (NĐ 356/2026).
+- **qlks-sct-vn 2.12.0**: NĐ 402/2026/NĐ-CP ngày 06/11/2026 sửa NĐ 114/2018 (hiệu lực 20/12/2026): toàn văn vào van-ban-goc; ref 17 bổ sung (bỏ nghĩa vụ Sở báo cáo vận hành hồ chứa thủy điện k5 Đ13; Sở được lấy ý kiến phương án cắm mốc chỉ giới đập thủy điện); ghi chú mẫu 07.
+- **atvsld-sct-vn 1.3.0**: NĐ 418/2026/NĐ-CP ngày 20/11/2026 sửa NĐ 143/2024 (hiệu lực 05/01/2027): toàn văn vào van-ban-goc; ref 03 bổ sung UBND cấp xã báo tai nạn chết người trong 24 giờ.
+- **vbhc-vn 2.44.0**: NĐ 356/2026/NĐ-CP ngày 14/9/2026 bãi bỏ 18 nghị định, một phần 6 nghị định (hiệu lực 01/12/2026): toàn văn vào van-ban-goc.
+- **Máy kiểm** `scripts/check_facts.py` rule `nd-45-2022-moi-truong-thay-boi-nd-412-2026` (WARN); `registry/trang-thai.csv`: NĐ 412, 418, 402, 356/2026, VBHN 137/2026, NĐ 114/2018, NĐ 145/2025.
+
 ## 27/11/2026 — kccn-sct-vn 1.71.3, dacn-sct-vn 1.16.3
 
 - kccn-sct-vn ref 60: khuôn Tờ trình Đảng ủy UBND tỉnh xin chủ trương Tỉnh ủy thành lập CCN + Phiếu trình Văn phòng UBND tỉnh; căn cứ Quy chế 19-QC/TU ngày 15/10/2026, 05-QC/ĐU ngày 12/01/2026; sổ lỗi L004; check_facts 2 rule mới; trang-thai Tân Hợp, Bản Phiệt 1 (mới).

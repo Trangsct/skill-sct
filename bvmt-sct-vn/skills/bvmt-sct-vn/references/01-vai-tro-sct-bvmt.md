@@ -37,7 +37,7 @@ Sở Công Thương **không** làm thay vai trò chủ trì này. Khi nhận m�
 
 **Nhóm 5 — Ứng phó sự cố chất thải, sự cố hóa chất, sự cố môi trường.** Phối hợp theo Quy chế ứng phó sự cố chất thải (QĐ 11/2025/QĐ-TTg) và pháp luật hóa chất; chủ trì phần cơ sở hóa chất ngành CT. Xem ref 06.
 
-**Nhóm 6 — Phối hợp thanh tra, kiểm tra, xử phạt VPHC môi trường.** Theo NĐ 45/2022/NĐ-CP; lập biên bản trong phạm vi chức danh được giao; phối hợp đoàn liên ngành. Xem ref 06.
+**Nhóm 6 — Phối hợp thanh tra, kiểm tra, xử phạt VPHC môi trường.** Theo NĐ 412/2026/NĐ-CP (thay NĐ 45/2022 từ 14/11/2026): Sở không có thẩm quyền xử phạt, không có tên trong danh sách lập biên bản (Đ72, Đ80 k2) — ghi nhận trong biên bản kiểm tra chuyên ngành và chuyển hồ sơ; phối hợp đoàn liên ngành. Xem ref 06.
 
 **Nhóm 7 — Cải cách, cắt giảm TTHC và điều kiện kinh doanh lĩnh vực môi trường.** Theo NQ 66.19/2026/NQ-CP (Phụ lục IX) và chỉ đạo cắt giảm 50% thời gian/chi phí TTHC tài nguyên - môi trường; ví dụ bỏ thủ tục cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường (chuyển sang tự công bố). Xem ref 06.
 

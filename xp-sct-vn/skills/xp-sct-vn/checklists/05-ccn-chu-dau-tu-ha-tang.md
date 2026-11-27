@@ -9,7 +9,7 @@ Nghiệp vụ: `kccn-sct-vn/05, 08, 09`; điều kiện khởi công `xd-sct-vn/
 | Ký quỹ/bảo lãnh thực hiện dự án | Luật Đầu tư Đ43 | Chứng từ | k1 Đ19 NĐ 122 (50–70 tr TC) | Sở lập BB → CHUYỂN |
 | Quy hoạch chi tiết 1/500 được duyệt; phù hợp QĐ 525 quy hoạch tỉnh | NĐ 32; QĐ 525 | QĐ phê duyệt | NĐ 16/2022 ⚠️ | CHUYỂN Sở XD |
 | Đất: QĐ giao/cho thuê đất; GCN; ranh giới thực tế vs hồ sơ; không lấn chiếm; đúng mục đích | Luật Đất đai 2024 | QĐ, bản đồ, mốc | NĐ 123/2024 Đ8–13 sđ NĐ 281/2026 (xã phạt tới 250 tr) | CHUYỂN UBND xã/SNNMT (Sở không lập BB) |
-| Môi trường: GPMT hạ tầng (Mẫu 22c, NQ 66.19/2026 PL IX); hệ thống thu gom, XLNT tập trung xây xong và vận hành trước khi tiếp nhận thứ cấp; quan trắc | Luật BVMT; NĐ 08/2022 (sđ 48/2026) | GPMT; hiện trường trạm XLNT | k3 Đ15 NĐ 45/2022: không nhật ký XLNT 50–60 tr; không tách nước mưa – nước thải, tiếp nhận thêm dự án khi chưa có hệ thống 60–100 tr (CN; TC ×2) | CHUYỂN SNNMT; Sở dừng xác nhận tiếp nhận thứ cấp |
+| Môi trường: GPMT hạ tầng (Mẫu 22c, NQ 66.19/2026 PL IX); hệ thống thu gom, XLNT tập trung xây xong và vận hành trước khi tiếp nhận thứ cấp; quan trắc | Luật BVMT; NĐ 08/2022 (sđ 48/2026) | GPMT; hiện trường trạm XLNT | k3 Đ15 NĐ 412/2026: không nhật ký XLNT 50–60 tr; không tách nước mưa – nước thải, tiếp nhận thêm dự án khi chưa có hệ thống 80–100 tr (CN; TC ×2) | CHUYỂN SNNMT; Sở dừng xác nhận tiếp nhận thứ cấp |
 | Điều kiện khởi công hạ tầng: thiết kế thẩm định (CQCM), GPXD/miễn đúng, mặt bằng, GPMT, thông báo khởi công | Luật XD 135/2025; NĐ 207/2026 (`xd-sct-vn/03`) | Hồ sơ | Đ15 k1 không thông báo khởi công 5–10 tr; **Đ16 k7c không GPXD 120–140 tr; k8 sai thiết kế thẩm định (miễn GPXD) 80–100 tr** (mức TC) | Sở lập BB có cơ sở (k4 Đ72) → CHUYỂN Sở XD/UBND xã; văn bản yêu cầu dừng |
 | Chất lượng thi công: giám sát, nghiệm thu, hoàn công; kiểm tra nghiệm thu của CQCM | NĐ 217/2026 (GATE) | Hồ sơ | NĐ 16/2022 Đ17, 18 ⚠️ | Sở nếu là CQCM công trình công nghiệp; còn lại CHUYỂN |
 | PCCC hạ tầng (PL II STT 47): thẩm định thiết kế PCCC; chủ đầu tư tự nghiệm thu PCCC (NĐ 347/2026); duy trì đường ≥3,5 m, trụ nước, bãi đỗ | NĐ 105/2025 | Văn bản; hiện trường | NĐ 106/2025 ⚠️ | Sở kiểm tra điểm g, h; CHUYỂN Công an |
@@ -22,5 +22,5 @@ Nghiệp vụ: `kccn-sct-vn/05, 08, 09`; điều kiện khởi công `xd-sct-vn/
 | Chấp thuận CTĐT/ĐKĐT; ngành nghề phù hợp CCN; tiến độ | Luật Đầu tư | NĐ 122 ⚠️ | CHUYỂN Sở Tài chính |
 | Nhà xưởng: GPXD/thiết kế thẩm định; PCCC | NĐ 16/2022; NĐ 106/2025 | ⚠️ | CHUYỂN UBND xã/Công an |
 | Hóa chất, VLNCN, ATTP, điện, xăng dầu | NĐ 275/2026; 115/2018; 133/2026; 99/2020 | Xem checklist 03, 07 | **XỬ** (Sở/QLTT) |
-| Đấu nối nước thải vào hệ thống CCN; GPMT/đăng ký MT | Luật BVMT | NĐ 45/2022 ⚠️ | CHUYỂN SNNMT |
+| Đấu nối nước thải vào hệ thống CCN; GPMT/đăng ký MT | Luật BVMT | NĐ 412/2026 | CHUYỂN SNNMT |
 | ATVSLĐ: huấn luyện, kiểm định thiết bị | Luật ATVSLĐ | NĐ 283/2026 ⚠️ | CHUYỂN Sở Nội vụ |

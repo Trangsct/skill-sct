@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 2.43.7.
+
+# vbhc-vn 2.44.0 — 27/11/2026 (lần 3) — Văn bản pháp luật mới lấy toàn văn từ thuvienphapluat.vn
+
+- NĐ 356/2026/NĐ-CP ngày 14/9/2026 bãi bỏ 18 nghị định, một phần 6 nghị định (hiệu lực 01/12/2026): toàn văn vào van-ban-goc.
+- `plugin.json` → 2.44.0.

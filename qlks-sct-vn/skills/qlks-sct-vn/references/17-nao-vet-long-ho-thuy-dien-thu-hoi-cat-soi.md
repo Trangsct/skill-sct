@@ -29,6 +29,10 @@ Cục ĐCKS cũng trả lời hai ý phụ của tỉnh:
 3. Việc **bảo trì, sửa chữa, nâng cấp công trình — trong đó có nạo vét bồi lắng lòng hồ — trước mùa mưa hằng năm** thực hiện theo **Điều 42 NĐ 62/2025/NĐ-CP**.
 4. Trường hợp nạo vét bồi lắng lòng hồ **có kết hợp thu hồi cát, sỏi, cuội** thì phải tuân thủ pháp luật về **địa chất và khoáng sản** và pháp luật về **xây dựng** — theo khoản 6 Điều 78 Luật Điện lực (*"Hoạt động thăm dò, khai thác cát, sỏi và hoạt động nạo vét kết hợp thu hồi khoáng sản trong lòng hồ thuỷ điện phải bảo đảm an toàn cho đập, hồ chứa thuỷ điện quy định tại khoản 5 Điều này và tuân thủ quy định của pháp luật về địa chất và khoáng sản, pháp luật về tài nguyên nước."*).
 
+**NĐ 402/2026/NĐ-CP ngày 06/11/2026 sửa NĐ 114/2018/NĐ-CP (hiệu lực 20/12/2026)** — toàn văn `van-ban-goc/2026.11.06-402...txt` (bổ sung 27/11/2026). Điểm liên quan đập, hồ chứa thủy điện và Sở Công Thương:
+- Điều 16 khoản 1: bỏ cụm từ "thủy điện" ở nhiều điều của NĐ 114/2018 (k5 Đ5, k5 Đ8, điểm a k3 Đ11, điểm b k6 Đ17), bỏ "Bộ Công Thương" (điểm c k4 Đ16), "Bộ trưởng Bộ Công Thương" (điểm d k6 Đ13); **bỏ cụm "Sở Công Thương báo cáo kết quả tổng hợp thực hiện quy trình vận hành hồ chứa thủy điện trên địa bàn, gửi Ủy ban nhân dân cấp tỉnh, Bộ Công Thương" tại k5 Đ13** → từ 20/12/2026 không còn nghĩa vụ báo cáo này theo NĐ 114.
+- Điều 9 (sửa Đ24): chủ đầu tư, chủ sở hữu đập, hồ chứa thủy điện lập phương án cắm mốc chỉ giới; vùng phụ cận bảo vệ đập theo **NĐ 62/2025/NĐ-CP**; UBND cấp tỉnh thẩm định trong 18 ngày làm việc, **lấy ý kiến Sở Công Thương**, UBND xã nơi có đập; Chủ tịch UBND xã phê duyệt đập trên địa bàn 01 xã (khi tỉnh phân cấp), Chủ tịch UBND tỉnh phê duyệt đập từ 02 xã trở lên.
+
 **→ KẾT LUẬN VẬN HÀNH:** dự án/kế hoạch nạo vét lòng hồ **do chủ sở hữu công trình (chủ đập) quyết định chủ trương đầu tư** trong khuôn khổ bảo trì, sửa chữa, nâng cấp công trình; **không phải xin giấy phép hoạt động trong phạm vi bảo vệ đập**; **không** đi qua thẩm định của SNNMT hay SCT với tư cách "phê duyệt dự án khoáng sản". SCT hướng dẫn chủ đập về mặt an toàn đập — hồ chứa và pháp luật xây dựng; SNNMT cấp Giấy xác nhận đăng ký thu hồi cho phần cát, sỏi.
 
 ---

@@ -18,7 +18,7 @@ Lỗi thường gặp nếu thiếu skill: gán cho Sở Công Thương thẩm q
 
 - **Luật Bảo vệ môi trường số 72/2020/QH14** — đặc biệt Điều 160 (trách nhiệm Bộ Công Thương);
 - **NĐ 08/2022/NĐ-CP**, **NĐ 05/2025/NĐ-CP** (sửa NĐ 08), **NĐ 48/2026/NĐ-CP** — hướng dẫn Luật BVMT;
-- **NĐ 45/2022/NĐ-CP** — xử phạt VPHC lĩnh vực môi trường (hiện hành; đang có dự thảo sửa đổi, chưa ban hành);
+- **NĐ 412/2026/NĐ-CP** (14/11/2026) — xử phạt VPHC lĩnh vực môi trường, thay NĐ 45/2022/NĐ-CP;
 - **NĐ 06/2022/NĐ-CP**, **NĐ 119/2025/NĐ-CP**, **NĐ 83/2026/NĐ-CP** — giảm nhẹ phát thải KNK, bảo vệ tầng ô-dôn; **TT 01/2022/TT-BTNMT** sửa bởi **TT 08/2025/TT-BNNMT**;
 - **TT 38/2023/TT-BCT** (+ QĐ 334/QĐ-BCT đính chính) — MRV khí nhà kính ngành Công Thương (Sở Công Thương chủ trì phần ngành);
 - **QĐ 42/2026/QĐ-TTg** (danh mục cơ sở kiểm kê KNK, hiệu lực 25/9/2026 — Lào Cai 18 cơ sở công thương), **QĐ 699/QĐ-BNNMT** (hạn ngạch thí điểm — Việt Trung), **TT 11/2026/TT-BNNMT** (Hệ thống đăng ký quốc gia), **NĐ 29/2026/NĐ-CP** (sàn giao dịch các-bon), **NĐ 112/2026/NĐ-CP** (trao đổi quốc tế), **NĐ 180/2026/NĐ-CP** (các-bon rừng), **QĐ 232/QĐ-TTg**, **CT 13/CT-TTg**, **CV 9389/BNNMT-BĐKH** (giao việc cấp tỉnh);
@@ -75,6 +75,6 @@ bvmt-sct-vn/
 
 ## Lưu ý cập nhật
 
-- Khi **Nghị định sửa đổi NĐ 45/2022** được ban hành chính thức → cập nhật `references/02` và `06`.
+- NĐ 412/2026/NĐ-CP thay NĐ 45/2022 đã cập nhật vào `references/02` và `06` (27/11/2026).
 - Khi **Bộ Công Thương ban hành VBQPPL thay thế TT 35/2015** → cập nhật `references/01`, `02` và SKILL.md.
 - Số/ngày các văn bản dự thảo phải xác minh lại trước khi viện dẫn vào văn bản chính thức.

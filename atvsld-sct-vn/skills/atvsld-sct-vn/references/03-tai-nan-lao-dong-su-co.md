@@ -14,6 +14,8 @@
 | **Sự cố mỏ** (sạt lở tầng, sập lò, bục nước) | Báo Sở CT, Sở NN&MT, UBND xã | Theo Đ34 nếu TNLĐ | **Kiểm tra thiết kế mỏ, biện pháp an toàn** — `tkm-sct-vn`, `qlks-sct-vn`; xử Đ55–62 NĐ 36/2020 | Sở NN&MT (giấy phép khai thác) |
 | NLĐ **không theo HĐLĐ** (khai thác tự do) chết/bị thương nặng | — | Nhận báo cáo từ UBND xã | Nếu xảy ra trong khu vực mỏ có phép: kiểm tra trách nhiệm chủ mỏ | UBND xã khai báo Công an + Sở Nội vụ (điểm d k1 Đ34) |
 
+> **NĐ 418/2026/NĐ-CP ngày 20/11/2026 (hiệu lực 05/01/2027)** sửa NĐ 143/2024/NĐ-CP về bảo hiểm tai nạn lao động tự nguyện cho người lao động làm việc không theo hợp đồng lao động — toàn văn `van-ban-goc/2026.11.20-418...txt` (bổ sung 27/11/2026). Điều 4 sửa điểm b khoản 2 Điều 18: khi nhận tin báo tai nạn lao động chết người hoặc làm bị thương nặng từ 02 người trở lên, **trong 24 giờ UBND cấp xã nơi xảy ra tai nạn báo cơ quan chuyên môn tham mưu UBND tỉnh về ATVSLĐ (Sở Nội vụ) và Công an cấp xã** theo Mẫu số 01. Sở Công Thương không phải đầu mối nhận báo; khi tai nạn xảy ra trong khu vực mỏ, cơ sở ngành Công Thương thì phối hợp theo mục C.
+
 ## B. Thống kê, báo cáo (Điều 36)
 
 - NSDLĐ thống kê, báo cáo TNLĐ, sự cố nghiêm trọng định kỳ 6 tháng, hằng năm với cơ quan QLNN về lao động cấp tỉnh (k1 Đ36); không báo cáo/báo cáo sai → k3 Đ31 NĐ 283 (5–10 tr cá nhân).

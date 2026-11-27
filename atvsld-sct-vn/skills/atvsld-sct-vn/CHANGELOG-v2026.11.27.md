@@ -7,3 +7,8 @@
 
 - SKILL.md khối lấy toàn văn: hiện cảnh báo "có 1 người khác bị Đăng xuất" thì bấm Đồng ý luôn, không hỏi Bạn (quy tắc cơ quan, ưu tiên người đăng nhập sau). Quy ước "hỏi Bạn trước" sáng 27/11/2026 là lịch sử.
 - `plugin.json` → 1.2.3.
+
+# atvsld-sct-vn 1.3.0 — 27/11/2026 (lần 3) — Văn bản pháp luật mới lấy toàn văn từ thuvienphapluat.vn
+
+- NĐ 418/2026/NĐ-CP ngày 20/11/2026 sửa NĐ 143/2024 (hiệu lực 05/01/2027): toàn văn vào van-ban-goc; ref 03 bổ sung UBND cấp xã báo tai nạn chết người trong 24 giờ.
+- `plugin.json` → 1.3.0.

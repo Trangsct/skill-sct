@@ -28,7 +28,7 @@ Phân công tại CV 11984/UBND-KT:
 
 Vai trò Sở Công Thương (nguyên tắc VIII.1 SKILL.md: PHỐI HỢP): cung cấp danh sách, thông tin cơ sở ngành Công Thương thuộc diện quan trắc
 tự động (hóa chất, phân bón, luyện kim — ref 04, ref 07 mục 2, ref 11 chỉ tiêu 2); khi Sở NN&MT mời tham gia đoàn kiểm tra thì cử người,
-ghi nhận vi phạm vào biên bản và chuyển xử lý (thẩm quyền xử phạt môi trường thuộc NĐ 45/2022 — `xp-sct-vn` ref 90 dòng 10). Không tự ra
+ghi nhận vi phạm vào biên bản và chuyển xử lý (thẩm quyền xử phạt môi trường thuộc NĐ 412/2026/NĐ-CP, thay NĐ 45/2022 từ 14/11/2026 — `xp-sct-vn` ref 09 mục E). Không tự ra
 văn bản yêu cầu cơ sở dừng hay duy trì quan trắc.
 
 ## 2. Quy định (EU) 2025/40 về bao bì và chất thải bao bì (PPWR) — phổ biến cho doanh nghiệp xuất khẩu

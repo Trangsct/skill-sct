@@ -44,6 +44,15 @@ ALLOW_LINE = re.compile(
 
 RULES = [
     {
+        "id": "nd-45-2022-moi-truong-thay-boi-nd-412-2026",
+        # NĐ 412/2026/NĐ-CP ngày 14/11/2026 (hiệu lực từ ngày ký) thay NĐ 45/2022/NĐ-CP (k2 Đ86); đối chiếu bản gốc 27/11/2026
+        # (xp-sct-vn/van-ban-goc/moi-truong/2026.11.14-412...txt): Sở Công Thương không có chức danh xử phạt (Đ72), không lập biên bản (Đ80 k2).
+        "pattern": r"^(?!.*(?:412/2026|lịch sử|hết hiệu lực|trước 14/11/2026)).*(?:NĐ|Nghị định số|Nghị định) 45/2022",
+        "why": "Từ 14/11/2026 xử phạt môi trường theo NĐ 412/2026/NĐ-CP (thay NĐ 45/2022); Sở Công Thương không có thẩm quyền xử phạt, lập biên bản môi trường — xp-sct-vn ref 09 mục E.",
+        "since": "2026-11-14",
+        "level": "WARN",
+    },
+    {
         "id": "thuvienphapluat-khong-dung-webfetch",
         # Bạn chốt 27/11/2026 (quy trình chạy được 26/11/2026): WebFetch bị chặn ở thuvienphapluat.vn; toàn văn văn bản QPPL
         # ngoài kho lấy TỰ ĐỘNG qua Claude in Chrome (get_page_text + javascript_tool), khối "Lấy toàn văn…" ở đầu SKILL.md mọi plugin.

@@ -12,3 +12,8 @@
 
 - NĐ 356/2026/NĐ-CP ngày 14/9/2026 bãi bỏ 18 nghị định, một phần 6 nghị định (hiệu lực 01/12/2026): toàn văn vào van-ban-goc.
 - `plugin.json` → 2.44.0.
+
+# vbhc-vn 2.44.1 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 2.44.1.

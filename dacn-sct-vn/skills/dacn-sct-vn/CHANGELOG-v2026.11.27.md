@@ -12,3 +12,8 @@
 
 - Ref 18 mục E: ngày đúng Quy chế 19-QC/TU là 15/10/2026 (Văn phòng UBND tỉnh xác nhận 27/11/2026); Phiếu trình kèm QĐ 4291 ghi nhầm năm 2025.
 - `plugin.json` → 1.16.3.
+
+# dacn-sct-vn 1.16.4 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.16.4.

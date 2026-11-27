@@ -12,3 +12,8 @@
 
 - NĐ 412/2026/NĐ-CP thay NĐ 45/2022: SKILL.md, README, ref 01, 02, 06 — mức phạt, Đ72, Đ77 k1 l (công thương chỉ Đ46 KNK), Đ80 k2; bỏ mục dự thảo sửa NĐ 45.
 - `plugin.json` → 1.12.0.
+
+# bvmt-sct-vn 1.12.1 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.12.1.

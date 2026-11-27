@@ -12,3 +12,8 @@
 
 - NĐ 412/2026/NĐ-CP (thay NĐ 45/2022): ref 09 mục E viết lại theo bản gốc (Đ5, 6, 15 k3, 72, 77 k1 l, 80 k2, 85, 86); ref 06 mục B, 00, 03, 08, 10, 90, checklist 03, 05, INDEX: Sở Công Thương không có thẩm quyền xử phạt, không lập biên bản môi trường từ 14/11/2026; mẫu 13 bỏ nhánh môi trường; lưu toàn văn .txt vào van-ban-goc/moi-truong/.
 - `plugin.json` → 1.10.0.
+
+# xp-sct-vn 1.10.1 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.10.1.

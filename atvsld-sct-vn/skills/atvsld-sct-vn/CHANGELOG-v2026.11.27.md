@@ -12,3 +12,8 @@
 
 - NĐ 418/2026/NĐ-CP ngày 20/11/2026 sửa NĐ 143/2024 (hiệu lực 05/01/2027): toàn văn vào van-ban-goc; ref 03 bổ sung UBND cấp xã báo tai nạn chết người trong 24 giờ.
 - `plugin.json` → 1.3.0.
+
+# atvsld-sct-vn 1.3.1 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.3.1.

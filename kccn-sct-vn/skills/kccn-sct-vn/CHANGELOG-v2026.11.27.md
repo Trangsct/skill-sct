@@ -20,3 +20,8 @@
 
 - VBHN 137/2026/VBHN-TT-BCT ngày 10/11/2026 (hợp nhất TT 14/2024 + TT 69/2026): toàn văn vào van-ban-goc, ghi chú ref 55, SKILL.md; ref 34: NĐ 145/2025 bị bãi bỏ từ 01/12/2026 (NĐ 356/2026).
 - `plugin.json` → 1.72.0.
+
+# kccn-sct-vn 1.72.1 — 27/11/2026 (lần 4) — Văn bản dài lấy qua Google Docs
+
+- SKILL.md khối lấy toàn văn: thêm bước (8b) chuyển văn bản dài từ thuvienphapluat qua clipboard → Google Docs trong thư mục Drive → tải về dạng chữ (đã chạy được 27/11/2026).
+- `plugin.json` → 1.72.1.

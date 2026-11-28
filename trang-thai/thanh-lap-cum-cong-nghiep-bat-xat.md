@@ -24,7 +24,7 @@ Plugin liên quan: kccn-sct-vn
 
 ## Bước tiếp theo
 
-- Bạn hỏi địa chính xã Bát Xát số hộ, công trình trong ranh giới phương án 2; nếu cần, kéo cạnh phía nam vào khoảng 100 m để loại 3 cụm nhà sát cạnh nam, bù diện tích về phía tây
+- Chủ đầu tư xem phương án 3 (53,02 ha, thấp hơn quy mô 57 ha tại QĐ 525/QĐ-UBND)
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -38,6 +38,7 @@ Plugin liên quan: kccn-sct-vn
 ## Quyết định của Bạn
 
 - (25/11/2026) Giữ nguyên phạm vi cũ, bỏ phần chồng Khai trường 26, mở rộng tiếp giáp Đường tỉnh 156 ở hai đầu, không chồng khu tái định cư, hạn chế khoanh vào nhà dân (Bạn vẽ tay 25/11/2026)
+- (28/11/2026) Ranh giới theo đề xuất của chủ đầu tư, 9 điểm, cạnh thẳng; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; bỏ mũi giáp cầu Bản Qua; mặt tiền Đường tỉnh 156 đoạn điểm 4-6, cách tim đường 20 m; không chồng khu tái định cư
 
 ## Yêu cầu riêng một lần
 
@@ -53,3 +54,8 @@ Plugin liên quan: kccn-sct-vn
 - Văn bản đã xuất: 2026.11.25. Sơ đồ Cụm công nghiệp Bát Xát (phương án 2, 57 ha).pdf; 2026.11.25. Vị trí Cụm công nghiệp Bát Xát (phương án 2, 57 ha).kmz (bản 2); 2026.11.25. Sơ đồ Cụm công nghiệp Bát Xát (phương án 2, 57 ha, nền Google).pdf (bản 3)
 - Quyết định của Bạn: Giữ nguyên phạm vi cũ, bỏ phần chồng Khai trường 26, mở rộng tiếp giáp Đường tỉnh 156 ở hai đầu, không chồng khu tái định cư, hạn chế khoanh vào nhà dân (Bạn vẽ tay 25/11/2026)
 - Câu hỏi chưa được trả lời: Hồ nước góc đông nam (gần điểm 16, 17) có để trong ranh giới không
+
+### 28/11/2026
+- Việc đã làm: Vẽ lại ranh giới theo bản vẽ tay của chủ đầu tư (phương án 3)
+- Văn bản đã xuất: 2026.11.28. Sơ đồ, KMZ, DXF Cụm công nghiệp Bát Xát (phương án 3, 53,02 ha)
+- Quyết định của Bạn: Ranh giới theo đề xuất của chủ đầu tư, 9 điểm, cạnh thẳng; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; bỏ mũi giáp cầu Bản Qua; mặt tiền Đường tỉnh 156 đoạn điểm 4-6, cách tim đường 20 m; không chồng khu tái định cư

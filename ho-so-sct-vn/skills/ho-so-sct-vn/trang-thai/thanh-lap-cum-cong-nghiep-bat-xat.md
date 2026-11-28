@@ -24,7 +24,7 @@ Plugin liên quan: kccn-sct-vn
 
 ## Bước tiếp theo
 
-- Chủ đầu tư xem phương án 3 (53,02 ha, thấp hơn quy mô 57 ha tại QĐ 525/QĐ-UBND)
+- Chủ đầu tư xem phương án 4 (57,00 ha)
 
 ## Vướng mắc, câu hỏi còn mở
 
@@ -39,6 +39,7 @@ Plugin liên quan: kccn-sct-vn
 
 - (25/11/2026) Giữ nguyên phạm vi cũ, bỏ phần chồng Khai trường 26, mở rộng tiếp giáp Đường tỉnh 156 ở hai đầu, không chồng khu tái định cư, hạn chế khoanh vào nhà dân (Bạn vẽ tay 25/11/2026)
 - (28/11/2026) Ranh giới theo đề xuất của chủ đầu tư, 9 điểm, cạnh thẳng; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; bỏ mũi giáp cầu Bản Qua; mặt tiền Đường tỉnh 156 đoạn điểm 4-6, cách tim đường 20 m; không chồng khu tái định cư
+- (28/11/2026) Phương án 4: 9 điểm, cạnh thẳng, 57,00 ha; mặt tiền Đường tỉnh 156 đoạn điểm 4-6 tới nút giao với đường hiện có của khu tái định cư; cạnh đông giáp đường đó, không chồng khu tái định cư; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; không giáp cầu Bản Qua
 
 ## Yêu cầu riêng một lần
 
@@ -56,6 +57,6 @@ Plugin liên quan: kccn-sct-vn
 - Câu hỏi chưa được trả lời: Hồ nước góc đông nam (gần điểm 16, 17) có để trong ranh giới không
 
 ### 28/11/2026
-- Việc đã làm: Vẽ lại ranh giới theo bản vẽ tay của chủ đầu tư (phương án 3)
-- Văn bản đã xuất: 2026.11.28. Sơ đồ, KMZ, DXF Cụm công nghiệp Bát Xát (phương án 3, 53,02 ha)
-- Quyết định của Bạn: Ranh giới theo đề xuất của chủ đầu tư, 9 điểm, cạnh thẳng; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; bỏ mũi giáp cầu Bản Qua; mặt tiền Đường tỉnh 156 đoạn điểm 4-6, cách tim đường 20 m; không chồng khu tái định cư
+- Việc đã làm: Vẽ lại ranh giới theo bản vẽ tay của chủ đầu tư (phương án 3); Vẽ phương án 4 theo ý kiến chủ đầu tư: mở mặt tiền tới đường hiện có của khu tái định cư, mở cạnh nam
+- Văn bản đã xuất: 2026.11.28. Sơ đồ, KMZ, DXF Cụm công nghiệp Bát Xát (phương án 3, 53,02 ha); 2026.11.28. Sơ đồ, KMZ, DXF Cụm công nghiệp Bát Xát (phương án 4, 57 ha)
+- Quyết định của Bạn: Ranh giới theo đề xuất của chủ đầu tư, 9 điểm, cạnh thẳng; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; bỏ mũi giáp cầu Bản Qua; mặt tiền Đường tỉnh 156 đoạn điểm 4-6, cách tim đường 20 m; không chồng khu tái định cư; Phương án 4: 9 điểm, cạnh thẳng, 57,00 ha; mặt tiền Đường tỉnh 156 đoạn điểm 4-6 tới nút giao với đường hiện có của khu tái định cư; cạnh đông giáp đường đó, không chồng khu tái định cư; cách khu vực quy hoạch khoáng sản tối thiểu 10 m; không giáp cầu Bản Qua
